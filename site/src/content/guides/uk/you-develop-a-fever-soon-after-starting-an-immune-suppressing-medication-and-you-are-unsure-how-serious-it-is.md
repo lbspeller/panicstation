@@ -67,10 +67,9 @@ This is first steps only. You may need tailored advice based on your specific me
 ## Important note
 This is general information, not a diagnosis or a substitute for clinical care. If you are getting worse, feel unsafe, or can’t get prompt advice through your usual team, use NHS 111 or emergency services.
 
-[sources_delete_before_publishing:
+## Additional Resources
 - https://www.nhs.uk/conditions/sepsis/
 - https://www.nice.org.uk/guidance/cg151
 - https://www.rcp.ac.uk/media/iucjaxcq/dr-vanessa_potter_neutropenic-sepsis-talk.pdf
 - https://www.stgeorges.nhs.uk/wp-content/uploads/2020/04/Guidance-for-Neutropenic-and-immunosuppressed-patients_220420.pdf
 - https://www.gov.uk/guidance/people-with-symptoms-of-a-respiratory-infection-including-covid-19
-]

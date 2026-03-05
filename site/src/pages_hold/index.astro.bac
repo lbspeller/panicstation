@@ -1,0 +1,9 @@
+---
+import SiteLayout from "../layouts/SiteLayout.astro";
+const title = "PanicStation.org";
+const description = "Calm, practical first-step guidance for sudden, panic-inducing situations.";
+---
+
+<SiteLayout title={title} jurisdiction="us">
+  <!-- Home page has no extra content yet -->
+</SiteLayout>

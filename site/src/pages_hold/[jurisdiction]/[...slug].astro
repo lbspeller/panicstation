@@ -1,0 +1,108 @@
+---
+import { getCollection } from "astro:content";
+import SiteLayout from "../../layouts/SiteLayout.astro";
+import "../../styles/guides.css";
+
+export async function getStaticPaths() {
+  const guides = await getCollection("guides");
+
+  return guides.map((entry) => {
+    const parts = entry.slug.split("/"); // e.g. ["us", "my-guide"]
+    const jurisdiction = parts[0]; // "us" | "uk"
+    const slugParts = parts.slice(1);
+    return {
+      params: { jurisdiction, slug: slugParts.join("/") },
+      props: { entry },
+    };
+  });
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+const urlJurisdiction = (Astro.params.jurisdiction || "us").toLowerCase(); // "uk" | "us"
+const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
+// (We’ll add the gentle prompt later if mismatch.)
+---
+
+<SiteLayout title={`${entry.data.title} — PanicStation.org`} jurisdiction={urlJurisdiction}>
+  <div
+    class="ps-guide"
+    id="ps-guide"
+    data-ps-url-jurisdiction={urlJurisdiction}
+    data-ps-fm-jurisdiction={fmJurisdiction}
+    data-pagefind-body
+  >
+    <!-- Pagefind filter (UK/US) -->
+    <span data-pagefind-filter={`jurisdiction:${urlJurisdiction}`} class="ps-search-hidden">
+      {urlJurisdiction}
+    </span>
+
+    <!-- Pagefind filter (Category, full string from frontmatter) -->
+    <span data-pagefind-filter={`category:${entry.data.category}`} class="ps-search-hidden">
+      {entry.data.category}
+    </span>
+
+    <!-- Boost tags: searchable + higher weight than body text -->
+    <span data-pagefind-weight="2" class="ps-search-hidden">
+      {(entry.data.tags || []).join(" • ")}
+    </span>
+
+    <Content />
+
+    <!-- Guide actions (bottom-right, under Additional resources) -->
+    <div class="ps-guide-actions" aria-label="Guide actions">
+      <a
+        class="ps-action-btn ps-action-support"
+        href="https://www.buymeacoffee.com/panicstation"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="fa-solid fa-heart" aria-hidden="true"></i>
+        <span>Support us</span>
+      </a>
+
+      <button type="button" class="ps-action-btn ps-action-share" id="ps-share-btn">
+        <i class="fa-solid fa-share-nodes" aria-hidden="true"></i>
+        <span>Share guide</span>
+      </button>
+    </div>
+
+    <script is:inline>
+      (() => {
+        const shareBtn = document.getElementById("ps-share-btn");
+        if (shareBtn) {
+          shareBtn.addEventListener("click", async () => {
+            const url = window.location.href;
+            const title = document.title || "PanicStation.org";
+            const text = "PanicStation.org guide";
+
+            // Native share sheet (mobile + some desktop browsers)
+            if (navigator.share) {
+              try {
+                await navigator.share({ title, text, url });
+                return;
+              } catch {
+                // user cancelled or share failed; fall through to copy
+              }
+            }
+
+            // Fallback: copy link
+            try {
+              await navigator.clipboard.writeText(url);
+              shareBtn.classList.add("ps-copied");
+              shareBtn.querySelector("span")?.replaceChildren(document.createTextNode("Link copied"));
+              setTimeout(() => {
+                shareBtn.classList.remove("ps-copied");
+                shareBtn.querySelector("span")?.replaceChildren(document.createTextNode("Share guide"));
+              }, 1400);
+            } catch {
+              // Final fallback: prompt
+              window.prompt("Copy this link:", url);
+            }
+          });
+        }
+      })();
+    </script>
+  </div>
+</SiteLayout>

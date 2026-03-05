@@ -65,10 +65,9 @@ This is first steps only. Your best next step depends on the specific medication
 ## Important note
 This is general information and not medical advice or a diagnosis. If you’re getting worse, can’t reach your care team quickly, or feel unsafe, go to the ER or call 911.
 
-[sources_delete_before_publishing:
+## Additional Resources
 - https://www.cdc.gov/cancer/preventinfections/pdf/neutropenia.pdf
 - https://www.cdc.gov/cancer/preventinfections/index.htm
 - https://www.idsociety.org/practice-guideline/new-fever-in-critically-ill-patients/
 - https://www.ncbi.nlm.nih.gov/books/NBK541102/
 - https://www.cancer.org/cancer/managing-cancer/side-effects/infections/fever.html
-]

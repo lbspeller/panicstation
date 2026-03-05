@@ -11,6 +11,4 @@ const guides = defineCollection({
   }),
 });
 
-export const collections = {
-  guides,
-};
+export const collections = { guides };

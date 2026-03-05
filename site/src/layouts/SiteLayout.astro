@@ -1,0 +1,1615 @@
+---
+// src/layouts/SiteLayout.astro
+import UkFlagUrl from "../assets/flags/uk.svg?url";
+import UsFlagUrl from "../assets/flags/us.svg?url";
+
+// import HTML bodies for footer info cards
+import AboutHtml from "../content/site/about.html?raw";
+import DisclaimerHtml from "../content/site/disclaimer.html?raw";
+import PrivacyHtml from "../content/site/privacy.html?raw";
+
+const { title, jurisdiction } = Astro.props;
+
+const path = Astro.url.pathname;              // "/" or "/uk/..." or "/us/..."
+const isGuide = /^\/(uk|us)\//i.test(path);
+const isHome = path === "/";
+
+const guideSlug = isGuide ? path.replace(/^\/(uk|us)\//i, "") : "";
+const ukGuideHref = isGuide ? `/uk/${guideSlug}` : null;
+const usGuideHref = isGuide ? `/us/${guideSlug}` : null;
+
+const isUkActive = jurisdiction === "uk";
+const isUsActive = jurisdiction === "us";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+      referrerpolicy="no-referrer"
+    />
+
+    <!-- Google AdSense (publisher ID) -->
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6393180948620179"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+
+  <body class="ps-page" data-ps-page={isHome ? "home" : isGuide ? "guide" : "other"}>
+    <header class="ps-header">
+      <div class="ps-header-inner">
+        <a class="ps-brand" href="/" id="ps-home-link" aria-label="PanicStation.org home">
+          <span class="ps-brand-main">PanicStation</span><span class="ps-brand-dot">.org</span>
+        </a>
+
+        <div class="ps-toggle" role="group" aria-label="Jurisdiction toggle">
+          <a
+            class={`ps-pill ${isUkActive ? "active" : ""}`}
+            href={!isUkActive && isGuide ? ukGuideHref : undefined}
+            data-ps-jurisdiction="uk"
+            aria-current={isUkActive ? "page" : undefined}
+            aria-disabled={isUkActive ? "true" : undefined}
+            tabindex={isUkActive ? -1 : undefined}
+          >
+            <img class="ps-flag" src={UkFlagUrl} alt="" aria-hidden="true" />
+            UK
+          </a>
+
+          <a
+            class={`ps-pill ${isUsActive ? "active" : ""}`}
+            href={!isUsActive && isGuide ? usGuideHref : undefined}
+            data-ps-jurisdiction="us"
+            aria-current={isUsActive ? "page" : undefined}
+            aria-disabled={isUsActive ? "true" : undefined}
+            tabindex={isUsActive ? -1 : undefined}
+          >
+            <img class="ps-flag" src={UsFlagUrl} alt="" aria-hidden="true" />
+            USA
+          </a>
+        </div>
+      </div>
+
+      <div class="ps-searchbar">
+        <div class="ps-searchbar-inner">
+          <div class="ps-search-wrap">
+            <input
+              id="ps-search"
+              class="ps-search"
+              type="search"
+              placeholder="Search for a guide…"
+              autocomplete="off"
+            />
+
+            <div class="ps-search-icons" aria-label="Search controls">
+              <button id="ps-filter-btn" class="ps-icon-btn" type="button" aria-label="Filter by category">
+                <i class="fa-solid fa-filter" aria-hidden="true"></i>
+              </button>
+
+              <button id="ps-search-btn" class="ps-icon-btn" type="button" aria-label="Search">
+                <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div id="ps-search-results" class="ps-search-results" hidden>
+          <div class="ps-search-results-inner" role="listbox" aria-label="Search results"></div>
+        </div>
+
+        <div id="ps-filter-box" class="ps-filter-box" hidden>
+          <div class="ps-filter-box-inner" role="listbox" aria-label="Category filter"></div>
+        </div>
+
+        <!-- Home-only hint line (visibility controlled by JS) -->
+        <div id="ps-search-hint" class="ps-search-hint" hidden>
+          <i class="fa-solid fa-lightbulb" aria-hidden="true"></i>
+          <span>Start typing to search for a guide. Use the filter button to narrow results by category</span>
+        </div>
+      </div>
+
+      <!-- Expose server-imported HTML bodies to the browser -->
+      <script is:inline define:vars={{ AboutHtml, DisclaimerHtml, PrivacyHtml }}>
+        window.__PS_INFO_BODIES__ = {
+          about: { body: AboutHtml },
+          disclaimer: { body: DisclaimerHtml },
+          privacy: { body: PrivacyHtml },
+        };
+      </script>
+
+      <!-- Info card area (About / Disclaimer / Privacy) -->
+      <section id="ps-info-wrap" class="ps-info-wrap" hidden aria-live="polite">
+        <div class="ps-info-card ps-card ps-generic" role="region" aria-label="Site information">
+          <div class="ps-info-head">
+            <h2 id="ps-info-title" class="ps-info-title"></h2>
+            <button id="ps-info-close-top" class="ps-info-close-top" type="button" aria-label="Close">
+              <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+            </button>
+          </div>
+
+          <div id="ps-info-body" class="ps-info-body"></div>
+
+          <div class="ps-info-foot">
+            <button id="ps-info-close" class="ps-info-close" type="button">Close</button>
+          </div>
+        </div>
+      </section>
+    </header>
+
+    <main class="ps-shell">
+      <!-- Home-only “full results” panel (filled by JS when search button or Enter is used) -->
+      <section id="ps-home-results" class="ps-home-results" hidden>
+        <div class="ps-home-results-inner">
+          <div class="ps-home-results-head">
+            <div id="ps-home-results-title" class="ps-home-results-title"></div>
+            <button id="ps-home-results-clear" class="ps-home-results-clear" type="button">
+              Clear
+            </button>
+          </div>
+          <div id="ps-home-results-list" class="ps-home-results-list" role="list"></div>
+        </div>
+      </section>
+
+      <slot />
+    </main>
+
+    <footer class="ps-footer">
+      <div class="ps-footer-inner">
+        <span>© {new Date().getFullYear()} PanicStation.org</span>
+        <span class="ps-footer-links">         
+          <button class="ps-footer-link" type="button" data-ps-info="about">About</button>
+          <button class="ps-footer-link" type="button" data-ps-info="disclaimer">Disclaimer</button>
+          <button class="ps-footer-link" type="button" data-ps-info="privacy">Privacy</button>
+          <a class="ps-footer-link" href="/guides/">All guides</a>
+        </span>
+      </div>
+    </footer>
+
+    <script is:inline>
+      (() => {
+        const pageType = document.body.getAttribute("data-ps-page"); // home | guide | other
+        const toggle = document.querySelector(".ps-toggle");
+        if (!toggle) return;
+
+        const setActive = (jur) => {
+          toggle.querySelectorAll(".ps-pill").forEach((el) => {
+            const isActive = el.getAttribute("data-ps-jurisdiction") === jur;
+            el.classList.toggle("active", isActive);
+            if (isActive) {
+              el.setAttribute("aria-disabled", "true");
+              el.setAttribute("tabindex", "-1");
+              el.removeAttribute("href");
+            } else {
+              el.removeAttribute("aria-disabled");
+              el.removeAttribute("tabindex");
+            }
+          });
+        };
+
+        toggle.addEventListener("click", async (e) => {
+          const a = e.target.closest("a.ps-pill");
+          if (!a) return;
+          if (a.getAttribute("aria-disabled") === "true") return;
+
+          const targetJur = a.getAttribute("data-ps-jurisdiction");
+          if (!targetJur) return;
+
+          if (pageType === "home") {
+            e.preventDefault();
+            localStorage.setItem("ps_jurisdiction", targetJur);
+            setActive(targetJur);
+            window.dispatchEvent(new CustomEvent("ps:jurisdiction", { detail: targetJur }));
+            return;
+          }
+
+          if (pageType === "guide") {
+            const href = a.getAttribute("href");
+            if (!href) {
+              localStorage.setItem("ps_jurisdiction", targetJur);
+              location.href = "/";
+              return;
+            }
+
+            e.preventDefault();
+            localStorage.setItem("ps_jurisdiction", targetJur);
+
+            try {
+              let ok = false;
+              try {
+                const r = await fetch(href, { method: "HEAD" });
+                ok = r.ok;
+              } catch {
+                const r = await fetch(href, { method: "GET" });
+                ok = r.ok;
+              }
+              location.href = ok ? href : "/";
+            } catch {
+              location.href = "/";
+            }
+          }
+        });
+
+        if (pageType === "home") {
+          const saved = localStorage.getItem("ps_jurisdiction");
+          if (saved === "uk" || saved === "us") setActive(saved);
+        }
+      })();
+    </script>
+
+    <!-- Clicking the brand clears search + filters (keeps country) -->
+    <script is:inline>
+      (() => {
+        const homeLink = document.getElementById("ps-home-link");
+        if (!homeLink) return;
+
+        homeLink.addEventListener("click", () => {
+          localStorage.removeItem("ps_category");
+          sessionStorage.removeItem("ps_show_results");
+          sessionStorage.removeItem("ps_results_query");
+        });
+      })();
+    </script>
+
+    <script type="module">
+      const input = document.getElementById("ps-search");
+      const searchBtn = document.getElementById("ps-search-btn");
+      const box = document.getElementById("ps-search-results");
+      const inner = box?.querySelector(".ps-search-results-inner");
+
+      const filterBtn = document.getElementById("ps-filter-btn");
+      const filterBox = document.getElementById("ps-filter-box");
+      const filterInner = filterBox?.querySelector(".ps-filter-box-inner");
+
+      const hint = document.getElementById("ps-search-hint");
+
+      // Home “full results” elements
+      const homePanel = document.getElementById("ps-home-results");
+      const homeTitle = document.getElementById("ps-home-results-title");
+      const homeList = document.getElementById("ps-home-results-list");
+      const homeClear = document.getElementById("ps-home-results-clear");
+
+      // Info panel elements
+      const infoWrap = document.getElementById("ps-info-wrap");
+      const infoTitle = document.getElementById("ps-info-title");
+      const infoBody = document.getElementById("ps-info-body");
+      const infoClose = document.getElementById("ps-info-close");
+      const infoCloseTop = document.getElementById("ps-info-close-top");
+      const infoButtons = Array.from(document.querySelectorAll("button.ps-footer-link[data-ps-info]"));
+
+      const pageType = document.body.getAttribute("data-ps-page"); // home | guide | other
+
+      if (!input || !searchBtn || !box || !inner || !filterBtn || !filterBox || !filterInner) {
+        // missing UI
+      } else {
+        let pf = null;
+
+        async function ensurePagefind() {
+          if (pf) return pf;
+          pf = await import("/pagefind/pagefind.js");
+          return pf;
+        }
+
+        const norm = (s) => (s || "").toLowerCase().replace(/\s+/g, " ").trim();
+        const escapeHtml = (s) =>
+          String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+        // -------------------------
+        // Categories (UI keys) + mapping to guide frontmatter
+        // -------------------------
+        const CATEGORIES = [
+          { key: "bereavement", label: "Bereavement & Family Crises",            icon: "fa-heart-crack" },
+          { key: "legal",       label: "Legal, Police & Official Matters",      icon: "fa-scale-balanced" },
+          { key: "sexual",      label: "Sexual Violence & Sensitive Issues",    icon: "fa-hand" },
+          { key: "travel",      label: "Travel, Documents & Abroad",            icon: "fa-passport" },
+          { key: "health",      label: "Health & Medical Scares",               icon: "fa-kit-medical" },
+          { key: "money",       label: "Money & Financial Emergencies",         icon: "fa-sterling-sign" },
+          { key: "tech",        label: "Tech & Digital Loss",                   icon: "fa-lock" },
+          { key: "work",        label: "Work & Employment Crises",              icon: "fa-briefcase" },
+          { key: "home",        label: "Home & Property Emergencies",           icon: "fa-house-circle-exclamation" },
+          { key: "safety",      label: "Personal Safety & Immediate Danger",    icon: "fa-shield-halved" },
+          { key: "transport",   label: "Transport & Mobility Issues",           icon: "fa-car-burst" },
+        ];
+
+        const CATEGORY_FULL = {
+          bereavement: "Death, bereavement & serious family crises",
+          health: "Health & medical scares",
+          home: "Home & property emergencies",
+          legal: "Legal, police, prison & official contact",
+          money: "Money & financial emergencies",
+          safety: "Personal safety & immediate danger",
+          sexual: "Sexual violence & highly sensitive situations",
+          tech: "Technology & digital loss",
+          transport: "Transport & mobility emergencies",
+          travel: "Travel, documents & being abroad",
+          work: "Work & employment crises",
+        };
+
+        const ICON_BY_FULL_CATEGORY = (() => {
+          const m = new Map();
+          for (const c of CATEGORIES) {
+            const full = CATEGORY_FULL[c.key];
+            if (full) m.set(full, c.icon);
+          }
+          return m;
+        })();
+
+        let selectedCategoryKey = null; // null = no category filter
+
+        // -------------------------
+        // Hint visibility (home-only)
+        // Visible ONLY when:
+        // - on home
+        // - no category selected
+        // - input is empty
+        // - suggestions NOT showing
+        // - full results panel NOT showing
+        // - filter box NOT open
+        // - info panel NOT open
+        // -------------------------
+        function updateHintVisibility() {
+          if (!hint) return;
+
+          if (pageType !== "home") {
+            hint.hidden = true;
+            return;
+          }
+
+          const hasText = norm(input.value).length > 0;
+          const hasCategory = !!selectedCategoryKey;
+
+          const suggestionsShowing = box && !box.hidden;
+          const filtersShowing = filterBox && !filterBox.hidden;
+          const resultsShowing = homePanel && !homePanel.hidden;
+          const infoShowing = infoWrap && !infoWrap.hidden;
+
+          const shouldShow =
+            !hasCategory &&
+            !hasText &&
+            !suggestionsShowing &&
+            !resultsShowing &&
+            !filtersShowing &&
+            !infoShowing;
+
+          hint.hidden = !shouldShow;
+        }
+
+        // -------------------------
+        // Info panel content + behaviour
+        // -------------------------
+        const BODIES = window.__PS_INFO_BODIES__ || {};
+        const INFO = {
+          about: { title: "About", body: BODIES.about?.body || "" },
+          disclaimer: { title: "Disclaimer", body: BODIES.disclaimer?.body || "" },
+          privacy: { title: "Privacy", body: BODIES.privacy?.body || "" },
+        };
+
+        let openInfoKey = null;
+
+        function scrollToTopForInfo() {
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        }
+
+        function closeInfo() {
+          if (!infoWrap) return;
+          infoWrap.hidden = true;
+          openInfoKey = null;
+          delete infoWrap.dataset.psInfo;
+          if (infoTitle) infoTitle.textContent = "";
+          if (infoBody) infoBody.innerHTML = "";
+          updateHintVisibility();
+        }
+
+        function openInfo(key) {
+          const item = INFO[key];
+          if (!item || !infoWrap || !infoTitle || !infoBody) return;
+
+          if (openInfoKey === key) {
+            closeInfo();
+            return;
+          }
+
+          openInfoKey = key;
+          infoWrap.dataset.psInfo = key;
+          infoTitle.textContent = item.title;
+          infoBody.innerHTML = item.body;
+          infoWrap.hidden = false;
+
+          hideSearchResults();
+          hideFilter();
+
+          scrollToTopForInfo();
+          (infoCloseTop || infoClose)?.focus?.();
+
+          updateHintVisibility();
+        }
+
+        if (infoButtons.length) {
+          for (const b of infoButtons) b.addEventListener("click", () => openInfo(b.dataset.psInfo));
+        }
+        if (infoClose) infoClose.addEventListener("click", closeInfo);
+        if (infoCloseTop) infoCloseTop.addEventListener("click", closeInfo);
+
+        // -------------------------
+        // Arrow navigation in suggestions (Tab still works)
+        // -------------------------
+        let activeIndex = -1;
+
+        function getResultButtons() {
+          return Array.from(inner.querySelectorAll("button.ps-result-btn"));
+        }
+
+        function focusResultAt(i) {
+          const btns = getResultButtons();
+          if (!btns.length) return;
+          if (i < 0) i = 0;
+          if (i >= btns.length) i = btns.length - 1;
+          activeIndex = i;
+          btns[i].focus();
+        }
+
+        const hideSearchResults = () => {
+          box.hidden = true;
+          inner.innerHTML = "";
+          activeIndex = -1;
+          updateHintVisibility();
+        };
+
+        const showSearchResults = () => {
+          box.hidden = false;
+          updateHintVisibility();
+        };
+
+        const hideFilter = () => {
+          filterBox.hidden = true;
+          filterInner.innerHTML = "";
+          updateHintVisibility();
+        };
+
+        const showFilter = () => {
+          filterBox.hidden = false;
+          updateHintVisibility();
+        };
+
+        // -------------------------
+        // Category UI
+        // -------------------------
+        function setFilterIconDefault() {
+          filterBtn.innerHTML = `<i class="fa-solid fa-filter" aria-hidden="true"></i>`;
+        }
+
+        function setFilterIconToCategory(cat) {
+          filterBtn.innerHTML = `<i class="fa-solid ${cat.icon}" aria-hidden="true"></i>`;
+        }
+
+        function persistCategorySelection() {
+          if (selectedCategoryKey) localStorage.setItem("ps_category", selectedCategoryKey);
+          else localStorage.removeItem("ps_category");
+        }
+
+        function restoreCategorySelection() {
+          const saved = localStorage.getItem("ps_category");
+          if (!saved) return;
+          const cat = CATEGORIES.find((x) => x.key === saved);
+          if (!cat) return;
+          selectedCategoryKey = saved;
+          setFilterIconToCategory(cat);
+          updateHintVisibility();
+        }
+
+        filterInner.addEventListener("click", (e) => {
+          const btn = e.target.closest("button.ps-cat-pill");
+          if (!btn) return;
+
+          const key = btn.dataset.key;
+          const cat = CATEGORIES.find((x) => x.key === key);
+          if (!cat) return;
+
+          if (selectedCategoryKey === key) {
+            selectedCategoryKey = null;
+            setFilterIconDefault();
+          } else {
+            selectedCategoryKey = key;
+            setFilterIconToCategory(cat);
+          }
+
+          persistCategorySelection();
+          closeFilterBox();
+
+          if (!box.hidden) doSuggestSearch();
+          if (isHomeResultsMode()) runHomeResultsSearch();
+
+          updateHintVisibility();
+        });
+
+        function renderCategoryBox() {
+          filterInner.innerHTML = "";
+          const frag = document.createDocumentFragment();
+
+          for (const c of CATEGORIES) {
+            const b = document.createElement("button");
+            b.type = "button";
+            b.className = "ps-cat-pill";
+            b.setAttribute("role", "option");
+            b.dataset.key = c.key;
+
+            if (selectedCategoryKey === c.key) b.classList.add("ps-selected");
+
+            b.innerHTML = `
+              <span class="ps-cat-left" aria-hidden="true">
+                <i class="fa-solid ${c.icon}"></i>
+              </span>
+              <span class="ps-cat-right">
+                <span class="ps-cat-label">${escapeHtml(c.label)}</span>
+              </span>
+            `;
+            frag.appendChild(b);
+          }
+
+          filterInner.appendChild(frag);
+        }
+
+        function openFilterBox() {
+          closeInfo();
+          hideSearchResults();
+          renderCategoryBox();
+          showFilter();
+          updateHintVisibility();
+        }
+
+        function closeFilterBox() {
+          hideFilter();
+        }
+
+        filterBtn.addEventListener("click", () => {
+          closeInfo();
+          if (!filterBox.hidden) closeFilterBox();
+          else openFilterBox();
+          updateHintVisibility();
+        });
+
+        restoreCategorySelection();
+
+        // -------------------------
+        // Jurisdiction preference
+        // -------------------------
+        const path = location.pathname || "/";
+        const urlJur = /^\/uk\//i.test(path) ? "uk" : /^\/us\//i.test(path) ? "us" : null;
+
+        let preferredJur =
+          urlJur ||
+          (["uk", "us"].includes(localStorage.getItem("ps_jurisdiction"))
+            ? localStorage.getItem("ps_jurisdiction")
+            : "us");
+
+        window.addEventListener("ps:jurisdiction", (e) => {
+          const j = e?.detail;
+          if (j === "uk" || j === "us") {
+            preferredJur = j;
+            if (!box.hidden) doSuggestSearch();
+            if (isHomeResultsMode()) runHomeResultsSearch();
+          }
+        });
+
+        // -------------------------
+        // Home “results mode” state (persists across navigation)
+        // -------------------------
+        const SESSION_SHOW = "ps_show_results";
+        const SESSION_QUERY = "ps_results_query";
+
+        function setHomeResultsMode(q) {
+          sessionStorage.setItem(SESSION_SHOW, "1");
+          sessionStorage.setItem(SESSION_QUERY, q || "");
+        }
+
+        function clearHomeResultsMode() {
+          sessionStorage.removeItem(SESSION_SHOW);
+          sessionStorage.removeItem(SESSION_QUERY);
+        }
+
+        function isHomeResultsMode() {
+          return pageType === "home" && sessionStorage.getItem(SESSION_SHOW) === "1";
+        }
+
+        function getHomeResultsQuery() {
+          return sessionStorage.getItem(SESSION_QUERY) || "";
+        }
+
+        function showHomePanel() {
+          if (!homePanel) return;
+          homePanel.hidden = false;
+          updateHintVisibility();
+        }
+
+        function hideHomePanel() {
+          if (!homePanel) return;
+          homePanel.hidden = true;
+          if (homeList) homeList.innerHTML = "";
+          if (homeTitle) homeTitle.textContent = "";
+          updateHintVisibility();
+        }
+
+        // -------------------------
+        // Suggestions (dropdown) behaviour
+        // -------------------------
+        inner.addEventListener("click", (e) => {
+          const b = e.target.closest("button.ps-result-btn");
+          if (!b) return;
+          const href = b.dataset.href;
+          if (href) location.href = href;
+        });
+
+        inner.addEventListener("keydown", (e) => {
+          const b = e.target.closest("button.ps-result-btn");
+          if (!b) return;
+
+          const btns = getResultButtons();
+          const idx = btns.indexOf(b);
+
+          if (e.key === "ArrowDown") { e.preventDefault(); focusResultAt(idx + 1); return; }
+          if (e.key === "ArrowUp")   { e.preventDefault(); focusResultAt(idx - 1); return; }
+
+          if (e.key === "Escape") {
+            e.preventDefault();
+            hideSearchResults();
+            input.focus();
+            return;
+          }
+
+          if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            const href = b.dataset.href;
+            if (href) location.href = href;
+          }
+        });
+
+        function renderSuggestionResults(results, q) {
+          activeIndex = -1;
+          inner.innerHTML = "";
+
+          if (!results.length) {
+            inner.innerHTML = `<div class="ps-no-results">No matches for “${escapeHtml(q)}”.</div>`;
+            showSearchResults();
+            return;
+          }
+
+          const frag = document.createDocumentFragment();
+
+          for (const r of results) {
+            const b = document.createElement("button");
+            b.type = "button";
+            b.className = "ps-result-btn";
+            b.setAttribute("role", "option");
+            b.dataset.href = r.url;
+
+            const t = document.createElement("div");
+            t.className = "ps-result-title";
+
+            const displayTitle = (r.meta?.title || r.title || "")
+              .replace(/^What to do if…\s*/i, "")
+              .trim();
+
+            t.textContent = displayTitle;
+
+            b.appendChild(t);
+            frag.appendChild(b);
+          }
+
+          inner.appendChild(frag);
+          showSearchResults();
+        }
+
+        async function doSuggestSearch() {
+          const q = norm(input.value);
+          updateHintVisibility();
+
+          if (!q || q.length < 2) { hideSearchResults(); return; }
+
+          const pagefind = await ensurePagefind();
+
+          const filters = { jurisdiction: preferredJur };
+          if (selectedCategoryKey) {
+            const full = CATEGORY_FULL[selectedCategoryKey];
+            if (full) filters.category = full;
+          }
+
+          const search = await pagefind.search(q, { filters });
+
+          const items = [];
+          for (const r of search.results.slice(0, 12)) {
+            const data = await r.data();
+            items.push(data);
+          }
+
+          renderSuggestionResults(items, q);
+        }
+
+        let t = null;
+        input.addEventListener("input", () => {
+          closeInfo();
+          hideHomePanel();
+          clearTimeout(t);
+          t = setTimeout(doSuggestSearch, 90);
+          updateHintVisibility();
+        });
+
+        input.addEventListener("focus", updateHintVisibility);
+        input.addEventListener("blur", updateHintVisibility);
+
+        // -------------------------
+        // Full results behaviour (button or Enter)
+        // -------------------------
+        function buildFiltersForSearch() {
+          const filters = { jurisdiction: preferredJur };
+          if (selectedCategoryKey) {
+            const full = CATEGORY_FULL[selectedCategoryKey];
+            if (full) filters.category = full;
+          }
+          return filters;
+        }
+
+        function extractFullCategoryFromResultData(data) {
+          const maybe = data?.filters?.category;
+          if (Array.isArray(maybe) && maybe.length) return maybe[0];
+          return null;
+        }
+
+        function renderHomeResults(items, rawQuery) {
+          if (!homePanel || !homeList || !homeTitle) return;
+
+          homeList.innerHTML = "";
+
+          const qLabel = (rawQuery || "").trim();
+          const filtersLabel = selectedCategoryKey
+            ? ` • ${escapeHtml(CATEGORIES.find(c => c.key === selectedCategoryKey)?.label || "Filtered")}`
+            : "";
+
+          homeTitle.innerHTML = qLabel
+            ? `Results for “${escapeHtml(qLabel)}”${filtersLabel}`
+            : `Results${filtersLabel}`;
+
+          if (!items.length) {
+            homeList.innerHTML = `<div class="ps-home-empty">No matches.</div>`;
+            showHomePanel();
+            return;
+          }
+
+          const frag = document.createDocumentFragment();
+
+          for (const data of items) {
+            const url = data?.url;
+            const title = (data?.meta?.title || data?.title || "")
+              .replace(/^What to do if…\s*/i, "")
+              .trim();
+
+            const fullCat = extractFullCategoryFromResultData(data);
+            const icon = fullCat ? (ICON_BY_FULL_CATEGORY.get(fullCat) || "fa-file-lines") : "fa-file-lines";
+
+            const b = document.createElement("button");
+            b.type = "button";
+            b.className = "ps-home-result-btn";
+            b.dataset.href = url || "";
+
+            b.innerHTML = `
+              <span class="ps-home-result-icon" aria-hidden="true">
+                <i class="fa-solid ${icon}"></i>
+              </span>
+              <span class="ps-home-result-title">${escapeHtml(title || "Untitled")}</span>
+            `;
+
+            frag.appendChild(b);
+          }
+
+          homeList.appendChild(frag);
+          showHomePanel();
+        }
+
+        if (homeList) {
+          homeList.addEventListener("click", (e) => {
+            const b = e.target.closest("button.ps-home-result-btn");
+            if (!b) return;
+            const href = b.dataset.href;
+            if (href) location.href = href;
+          });
+
+          homeList.addEventListener("keydown", (e) => {
+            if (e.key !== "Enter" && e.key !== " ") return;
+            const b = e.target.closest("button.ps-home-result-btn");
+            if (!b) return;
+            e.preventDefault();
+            const href = b.dataset.href;
+            if (href) location.href = href;
+          });
+        }
+
+        async function runHomeResultsSearch() {
+          if (pageType !== "home") return;
+
+          const q = getHomeResultsQuery();
+          if (!q || norm(q).length < 2) {
+            renderHomeResults([], q);
+            return;
+          }
+
+          const pagefind = await ensurePagefind();
+          const filters = buildFiltersForSearch();
+
+          const search = await pagefind.search(norm(q), { filters });
+
+          const items = [];
+          for (const r of search.results.slice(0, 25)) {
+            const data = await r.data();
+            items.push(data);
+          }
+
+          renderHomeResults(items, q);
+        }
+
+        async function triggerFullSearchFromInput() {
+          closeInfo();
+          hideSearchResults();
+          hideFilter();
+
+          const raw = input.value || "";
+          const q = raw.trim();
+
+          input.value = "";
+
+          persistCategorySelection();
+          setHomeResultsMode(q);
+
+          if (pageType !== "home") {
+            location.href = "/";
+            return;
+          }
+
+          await runHomeResultsSearch();
+          updateHintVisibility();
+        }
+
+        searchBtn.addEventListener("click", triggerFullSearchFromInput);
+
+        input.addEventListener("keydown", (e) => {
+          if (e.key === "Escape") { hideSearchResults(); hideFilter(); closeInfo(); return; }
+
+          if (e.key === "ArrowDown") {
+            if (!box.hidden) {
+              e.preventDefault();
+              hideFilter();
+              closeInfo();
+              focusResultAt(0);
+            }
+            return;
+          }
+
+          if (e.key === "ArrowUp") {
+            if (!box.hidden) {
+              e.preventDefault();
+              hideFilter();
+              closeInfo();
+              const btns = getResultButtons();
+              focusResultAt(btns.length - 1);
+            }
+            return;
+          }
+
+          if (e.key === "Enter") {
+            e.preventDefault();
+            triggerFullSearchFromInput();
+            return;
+          }
+        });
+
+        if (homeClear) {
+          homeClear.addEventListener("click", () => {
+            clearHomeResultsMode();
+            hideHomePanel();
+            input.focus();
+            updateHintVisibility();
+          });
+        }
+
+        if (pageType === "home" && sessionStorage.getItem(SESSION_SHOW) === "1") {
+          runHomeResultsSearch();
+        }
+
+        document.addEventListener("click", (e) => {
+          const clickedSearch =
+            box.contains(e.target) ||
+            e.target === input ||
+            e.target === searchBtn ||
+            (searchBtn && searchBtn.contains(e.target));
+
+          const clickedFilter =
+            filterBox.contains(e.target) ||
+            (filterBtn && filterBtn.contains(e.target));
+
+          const clickedInfo =
+            (infoWrap && infoWrap.contains(e.target)) ||
+            (e.target.closest && e.target.closest("button.ps-footer-link"));
+
+          if (!clickedSearch) hideSearchResults();
+          if (!clickedFilter) hideFilter();
+          // Info stays open unless Close or same link toggled.
+          updateHintVisibility();
+        });
+
+        // Initial state on load
+        updateHintVisibility();
+      }
+    </script>
+  </body>
+</html>
+
+<style>
+  :global(body){
+    margin:0;
+    background:#f6f7fb;
+    color:#0b1220;
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  }
+
+  :global(html){
+    scrollbar-gutter: stable;
+  }
+
+  :global(:root){
+    --ps-accent: #224b7a;
+    --ps-border: #d9dfec;
+    --ps-soft: #eef1f7;
+    --ps-shadow: 0 1px 0 rgba(0,0,0,.02), 0 14px 40px rgba(15, 23, 42, 0.08);
+    --ps-logo-red: #d24b4b;
+  }
+
+  .ps-page{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ps-shell{
+    flex: 1;
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0px 16px 0;
+    min-height: 0;
+  }
+
+  .ps-header{
+    padding: 22px 0 0px;
+    background: linear-gradient(#f7f8fc, #f6f7fb);
+  }
+
+  .ps-header-inner{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 16px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+  }
+
+  .ps-brand{
+    text-decoration:none;
+    font-weight: 900;
+    font-size: clamp(26px, 3.4vw, 44px);
+    letter-spacing:-0.6px;
+    color:#0b1220;
+  }
+  .ps-brand-dot{ color: var(--ps-logo-red); }
+
+  .ps-toggle{
+    display:flex;
+    gap: 0;
+    padding: 6px;
+    border-radius: 999px;
+    border: 1px solid var(--ps-border);
+    background: var(--ps-soft);
+  }
+
+  .ps-pill{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    text-decoration:none;
+    padding: 10px 16px;
+    border-radius: 999px;
+    font-weight: 800;
+    color:#0b1220;
+  }
+
+  .ps-pill.active{
+    background: var(--ps-accent);
+    color:#fff;
+  }
+
+  .ps-pill:not(.active):hover{
+    background: rgba(34, 75, 122, 0.08);
+  }
+
+  .ps-pill[aria-disabled="true"]{
+    pointer-events: none;
+  }
+
+  .ps-flag{
+    width: 18px;
+    height: 18px;
+    border-radius: 4px;
+    display: inline-block;
+    flex: 0 0 auto;
+  }
+
+  .ps-searchbar{
+    max-width: 1100px;
+    margin: 0px auto 0;
+    padding: 18px 16px 18px;
+  }
+
+  .ps-searchbar-inner{
+    display:block;
+  }
+
+  .ps-search-wrap{
+    position: relative;
+    width: 100%;
+  }
+
+  .ps-search{
+    width:100%;
+    font-size:18px;
+    padding: 16px 96px 16px 18px;
+    border-radius: 999px;
+    border:1px solid var(--ps-border);
+    background:#fff;
+    outline:none;
+  }
+
+  .ps-search:focus{
+    border-color: var(--ps-accent);
+    box-shadow: 0 0 0 3px rgba(34,75,122,.15);
+  }
+
+  .ps-search-icons{
+    position:absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    display:flex;
+    align-items:center;
+    gap: 10px;
+  }
+
+  .ps-search{
+    padding-right: 140px;
+  }
+
+  .ps-icon-btn{
+    width: 44px;
+    height: 44px;
+    border-radius: 999px;
+    border: 0;
+    background: transparent;
+    color: var(--ps-accent);
+    cursor: pointer;
+    display:grid;
+    place-items:center;
+    font-size: 18px;
+  }
+
+  .ps-icon-btn:hover{
+    background: rgba(34, 75, 122, 0.06);
+  }
+
+  .ps-icon-btn:focus{ outline:none; }
+  .ps-icon-btn:focus-visible{
+    box-shadow: 0 0 0 3px rgba(34,75,122,.18);
+  }
+
+  /* Hint line (NOTE: do NOT set display here, or it overrides [hidden]) */
+  .ps-search-hint{
+    width: 100%;
+    max-width: 1100px;
+    margin: 24px auto 0;
+    padding: 0 16px;
+
+    /* layout/typography */
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+    color: #7a8699;
+    font-size: 14px;
+    font-weight: 650;
+    text-align: center;
+  }
+
+  /* Only apply flex when it is NOT hidden */
+  .ps-search-hint:not([hidden]){
+    display: flex;
+  }
+
+  .ps-search-hint i{
+    color: #a3adbf;
+    font-size: 16px;
+    line-height: 1;
+    flex: 0 0 auto;
+  }
+
+  .ps-search-hint span{
+    max-width: 760px;
+  }
+
+  /* Info panel wrapper (same width as guides/cards) */
+  .ps-info-wrap{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 16px 18px;
+  }
+
+  .ps-info-card.ps-card{
+    background:#fff;
+    border: 1px solid #dbe2ef;
+    border-radius: 18px;
+    padding: 18px 22px 16px;
+    margin: 0;
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 8px 24px rgba(15, 23, 42, 0.04);
+  }
+
+  .ps-info-head{
+    display:flex;
+    align-items:flex-start;
+    justify-content:space-between;
+    gap: 12px;
+    margin-bottom: 10px;
+  }
+
+  .ps-info-title{
+    display: inline-block;
+    margin: 0;
+    padding: 9px 14px;
+    border-radius: 12px;
+    color:#fff;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: -0.1px;
+    background: #224b7a;
+  }
+
+  .ps-info-close-top{
+    width: 40px;
+    height: 40px;
+    border-radius: 999px;
+    border: 1px solid var(--ps-border);
+    background: #fff;
+    display:grid;
+    place-items:center;
+    cursor: pointer;
+    color:#0b1220;
+    flex: 0 0 auto;
+  }
+
+  .ps-info-close-top:hover{
+    background: rgba(34, 75, 122, 0.06);
+  }
+
+  .ps-info-close-top:focus{ outline:none; }
+  .ps-info-close-top:focus-visible{
+    box-shadow: 0 0 0 3px rgba(34,75,122,.18);
+  }
+
+  .ps-info-body{
+    font-size: 16px;
+    line-height: 1.65;
+    color:#0b1220;
+  }
+
+  .ps-info-body p{
+    margin: 12px 0;
+    font-size: 16px;
+  }
+
+  .ps-info-body ul, .ps-info-body ol{
+    margin: 12px 0 14px 22px;
+  }
+
+  .ps-info-body li{
+    margin: 10px 0;
+    white-space: normal;
+    word-break: normal;
+    overflow-wrap: normal;
+  }
+
+  .ps-info-body h3{
+    margin: 18px 0 10px;
+    font-size: 18px;
+    letter-spacing: -0.2px;
+    font-weight: 900;
+    color:#0b1220;
+  }
+
+  .ps-info-body code{
+    background: #eef1f7;
+    border: 1px solid #e1e7f3;
+    padding: 1px 6px;
+    border-radius: 8px;
+    font-size: 0.95em;
+  }
+
+  .ps-info-foot{
+    padding-top: 10px;
+    display:flex;
+    justify-content:flex-end;
+  }
+
+  .ps-info-close{
+    border: 1px solid var(--ps-border);
+    background: #fff;
+    border-radius: 999px;
+    padding: 10px 14px;
+    font-weight: 800;
+    cursor: pointer;
+  }
+
+  .ps-info-close:hover{
+    background: rgba(34, 75, 122, 0.06);
+  }
+
+  #ps-info-wrap[data-ps-info="about"] .ps-info-title{ background:#224b7a; }
+  #ps-info-wrap[data-ps-info="disclaimer"] .ps-info-title{ background:#c84b4b; }
+  #ps-info-wrap[data-ps-info="privacy"] .ps-info-title{ background:#7a8699; }
+
+  .ps-footer{
+    margin: 0;
+    padding: 18px 16px 32px;
+    color:#4b5568;
+    font-size:14px;
+  }
+
+  .ps-footer-inner{
+    max-width: 1100px;
+    margin:0 auto;
+    display:flex;
+    flex-wrap:wrap;
+    gap:12px;
+    justify-content:space-between;
+  }
+
+  .ps-footer-links{
+    display:flex;
+    align-items:center;
+    gap: 12px;
+  }
+
+  .ps-footer-link{
+    border: 0;
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    color: inherit;
+    cursor: pointer;
+    font: inherit;
+    text-decoration: none;
+  }
+
+  .ps-footer-link:hover{ text-decoration: underline; }
+
+  @media (max-width: 520px){
+    .ps-pill{ padding: 9px 12px; }
+    .ps-search-icons{ right: 8px; gap: 8px; }
+    .ps-icon-btn{ width: 42px; height: 42px; }
+    .ps-search{ padding-right: 92px; }
+  }
+</style>
+
+<style is:global>
+  /* Search dropdown container */
+  #ps-search-results{
+    max-width: 1100px;
+    margin: 10px auto 0;
+    padding: 0;
+  }
+
+  #ps-search-results .ps-search-results-inner{
+    background:#fff;
+    border: 1px solid var(--ps-border);
+    border-radius: 18px;
+    box-shadow: var(--ps-shadow);
+    overflow: hidden;
+  }
+
+  #ps-search-results .ps-result-btn{
+    width: 100%;
+    display: block;
+    text-align: left;
+
+    border: 0;
+    background: transparent;
+
+    padding: 14px 16px;
+    border-top: 1px solid #eef1f7;
+
+    color: #0b1220;
+    font-weight: 800;
+    font-size: 16px;
+    letter-spacing: -0.1px;
+    line-height: 1.25;
+
+    cursor: pointer;
+  }
+
+  #ps-search-results .ps-result-btn:first-child{
+    border-top: none;
+  }
+
+  #ps-search-results .ps-result-btn:hover{
+    background: rgba(34, 75, 122, 0.06);
+  }
+
+  #ps-search-results .ps-result-btn:focus{
+    outline: none;
+  }
+
+  #ps-search-results .ps-result-btn:focus-visible{
+    box-shadow: 0 0 0 3px rgba(34,75,122,.18);
+  }
+
+  #ps-search-results .ps-no-results{
+    padding: 14px 16px;
+    color:#546070;
+    font-size: 14px;
+  }
+
+  /* Filter dropdown container */
+  #ps-filter-box{
+    max-width: 1100px;
+    margin: 10px auto 0;
+    padding: 0;
+  }
+
+  #ps-filter-box .ps-filter-box-inner{
+    background:#fff;
+    border: 1px solid var(--ps-border);
+    border-radius: 18px;
+    box-shadow: var(--ps-shadow);
+    overflow: hidden;
+    padding: 12px;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+
+  .ps-cat-pill{
+    width: 100%;
+    border: 1px solid var(--ps-border);
+    background: #fff;
+    border-radius: 999px;
+    padding: 0;
+    cursor: pointer;
+    overflow: hidden;
+
+    display: inline-flex;
+    align-items: stretch;
+    gap: 0;
+
+    font-weight: 900;
+    font-size: 14px;
+    color: #0b1220;
+  }
+
+  .ps-cat-pill:hover{
+    box-shadow: 0 10px 22px rgba(15, 23, 42, 0.08);
+  }
+
+  .ps-cat-pill:focus{ outline:none; }
+  .ps-cat-pill:focus-visible{
+    box-shadow: 0 0 0 3px rgba(34,75,122,.18);
+  }
+
+  .ps-cat-left{
+    width: 46px;
+    display:grid;
+    place-items:center;
+    background: var(--ps-accent);
+    color:#fff;
+  }
+
+  .ps-cat-left i{
+    font-size: 16px;
+  }
+
+  .ps-cat-right{
+    display:flex;
+    align-items:center;
+    padding: 10px 14px;
+    background:#fff;
+    min-width: 0;
+  }
+
+  .ps-cat-label{
+    font-weight: 800;
+    letter-spacing: -0.1px;
+    line-height: 1.2;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .ps-cat-pill.ps-selected{
+    border-color: rgba(34,75,122,.55);
+    box-shadow: 0 0 0 3px rgba(34,75,122,.12);
+  }
+
+  .ps-cat-pill.ps-selected .ps-cat-left{
+    background: var(--ps-logo-red);
+  }
+
+  @media (max-width: 900px){
+    #ps-filter-box .ps-filter-box-inner{
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 520px){
+    #ps-filter-box .ps-filter-box-inner{
+      grid-template-columns: 1fr;
+    }
+  }
+
+  /* -------------------------
+     Home full-results panel (GLOBAL so dynamic elements match)
+     ------------------------- */
+  .ps-home-results{
+    margin: 0 auto 24px;
+    max-width: 1100px;
+    padding: 0px 0 0;
+  }
+
+  .ps-home-results-inner{
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    overflow: visible;
+  }
+
+  .ps-home-results-head{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap: 12px;
+    padding: 0px 0 14px;
+  }
+
+  .ps-home-results-title{
+    font-weight: 900;
+    letter-spacing: -0.2px;
+    font-size: 16px;
+    line-height: 1.2;
+  }
+
+  .ps-home-results-clear{
+    border: 1px solid var(--ps-border);
+    background: #fff;
+    border-radius: 999px;
+    padding: 8px 12px;
+    font-weight: 800;
+    cursor: pointer;
+  }
+
+  .ps-home-results-clear:hover{
+    background: rgba(34, 75, 122, 0.06);
+  }
+
+  .ps-home-results-list{
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    align-items: stretch;
+    width: 100%;
+  }
+
+  .ps-home-empty{
+    padding: 14px 0;
+    color:#546070;
+    font-size: 14px;
+  }
+
+  button.ps-home-result-btn{
+    -webkit-appearance: none;
+    appearance: none;
+    background: #fff;
+    background-image: none;
+
+    border: 1px solid var(--ps-border);
+    border-radius: 18px;
+    overflow: hidden;
+
+    margin: 0;
+    padding: 0;
+
+    width: 100%;
+    min-height: 56px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: flex-start;
+
+    text-align: left;
+    cursor: pointer;
+
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 8px 24px rgba(15, 23, 42, 0.04);
+
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  }
+
+  button.ps-home-result-btn:hover{
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 12px 30px rgba(15, 23, 42, 0.06);
+  }
+
+  button.ps-home-result-btn:focus{
+    outline: none;
+  }
+
+  button.ps-home-result-btn:focus-visible{
+    box-shadow:
+      0 0 0 3px rgba(34,75,122,.18),
+      0 8px 24px rgba(15, 23, 42, 0.04);
+  }
+
+  button.ps-home-result-btn > .ps-home-result-icon{
+    width: 64px;
+    flex: 0 0 64px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: var(--ps-accent);
+    color: #fff;
+
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+  }
+
+  button.ps-home-result-btn > .ps-home-result-icon i{
+    font-size: 18px;
+  }
+
+  button.ps-home-result-btn > .ps-home-result-title{
+    flex: 1 1 auto;
+    display: flex;
+    align-items: center;
+
+    padding: 16px 18px;
+
+    font-size: 16px;
+    line-height: 1.65;
+    font-weight: 800;
+    letter-spacing: -0.1px;
+
+    text-align: left;
+    color: #0b1220;
+  }
+</style>

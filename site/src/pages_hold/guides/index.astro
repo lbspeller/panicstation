@@ -1,0 +1,103 @@
+---
+import SimpleLayout from "../../layouts/SimpleLayout.astro";
+
+const title = "All guides — PanicStation.org";
+---
+
+<SimpleLayout title={title}>
+  <!-- Keep this out of Pagefind (internal search should stay guide-only) -->
+  <main data-pagefind-ignore>
+    <section class="ps-card">
+      <h1 class="ps-h1">All guides</h1>
+      <p class="ps-muted">
+        Choose a jurisdiction.
+      </p>
+
+      <div class="ps-grid">
+        <a class="ps-chooser" href="/uk/">
+          <span class="ps-chooser-title">UK guides</span>
+          <span class="ps-chooser-sub">Browse categories and listings</span>
+        </a>
+
+        <a class="ps-chooser" href="/us/">
+          <span class="ps-chooser-title">USA guides</span>
+          <span class="ps-chooser-sub">Browse categories and listings</span>
+        </a>
+      </div>
+    </section>
+  </main>
+</SimpleLayout>
+
+<style>
+  .ps-card{
+    background:#fff;
+    border: 1px solid #dbe2ef;
+    border-radius: 18px;
+    padding: 22px;
+    margin: 0 0 24px;
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 8px 24px rgba(15, 23, 42, 0.04);
+  }
+
+  .ps-h1{
+    margin: 0 0 10px;
+    font-weight: 900;
+    letter-spacing: -0.3px;
+    font-size: clamp(20px, 2.1vw, 28px);
+    line-height: 1.2;
+  }
+
+  .ps-muted{
+    margin: 0 0 18px;
+    color:#546070;
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  .ps-grid{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+  }
+
+  .ps-chooser{
+    display:flex;
+    flex-direction: column;
+    gap: 6px;
+
+    text-decoration:none;
+    color:#0b1220;
+
+    background:#fff;
+    border: 1px solid #dbe2ef;
+    border-radius: 18px;
+    padding: 16px 18px;
+
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 8px 24px rgba(15, 23, 42, 0.04);
+  }
+
+  .ps-chooser:hover{
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 12px 30px rgba(15, 23, 42, 0.06);
+  }
+
+  .ps-chooser-title{
+    font-weight: 900;
+    letter-spacing: -0.1px;
+    font-size: 16px;
+  }
+
+  .ps-chooser-sub{
+    color:#546070;
+    font-weight: 650;
+    font-size: 14px;
+  }
+
+  @media (max-width: 700px){
+    .ps-grid{ grid-template-columns: 1fr; }
+  }
+</style>

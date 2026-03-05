@@ -1,0 +1,52 @@
+---
+import SimpleLayout from "../layouts/SimpleLayout.astro";
+
+export function getStaticPaths() {
+  // Catch-all *without* enumerating paths isn't possible in a static build.
+  // Return an empty list so Astro generates no pages for this route.
+  return [];
+}
+
+const title = "PanicStation.org — Coming soon";
+---
+
+<SimpleLayout title={title}>
+  <main class="wrap" data-pagefind-ignore>
+    <section class="card" aria-label="Coming soon">
+      <h1 class="h1">Coming soon</h1>
+      <p class="p">This site is launching soon.</p>
+    </section>
+  </main>
+</SimpleLayout>
+
+<style>
+  .wrap{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 18px 16px 0;
+  }
+  .card{
+    background:#fff;
+    border: 1px solid #dbe2ef;
+    border-radius: 18px;
+    padding: 22px;
+    margin: 0 0 24px;
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 8px 24px rgba(15, 23, 42, 0.04);
+  }
+  .h1{
+    margin: 0 0 10px;
+    font-weight: 900;
+    letter-spacing: -0.3px;
+    font-size: clamp(20px, 2.1vw, 28px);
+    line-height: 1.2;
+  }
+  .p{
+    margin: 0;
+    color:#546070;
+    font-size: 16px;
+    line-height: 1.65;
+    max-width: 70ch;
+  }
+</style>

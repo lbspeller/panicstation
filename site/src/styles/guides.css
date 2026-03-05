@@ -1,0 +1,422 @@
+/* =========================
+   PanicStation guides.css
+   FULL (resources collapsible + uniform icon sizes)
+   ========================= */
+
+/* Guide container (match header/search width) */
+.ps-guide{
+  max-width: 1100px;
+  margin: 0px auto 64px;
+  padding: 0 0px;
+  line-height: 1.65;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  color:#0b1220;
+}
+
+/* Title (two-line, lead lighter) — built by rehype-title-tweaks.mjs */
+.ps-guide h1{
+  font-size: clamp(20px, 2.1vw, 28px);
+  line-height: 1.2;
+  letter-spacing: -0.3px;
+  margin: 0px 0 18px;
+  font-weight: 900;
+}
+
+.ps-title-lead{
+  color: #546070;
+  font-weight: 800;
+}
+
+.ps-search-hidden{
+  position: absolute;
+  left: -9999px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.ps-title-main{
+  color: #0b1220;
+  font-weight: 900;
+}
+
+/* Base card */
+.ps-card{
+  background:#fff;
+  border: 1px solid #dbe2ef;
+  border-radius: 18px;
+  padding: 22px 22px 16px;
+  margin: 18px 0;
+  box-shadow:
+    0 1px 0 rgba(0,0,0,.02),
+    0 8px 24px rgba(15, 23, 42, 0.04);
+}
+
+/* Section label pill (H2) */
+.ps-card h2{
+  display:inline-block;
+  margin: 0 0 14px;
+  padding: 9px 14px;
+  border-radius: 12px;
+  color:#fff;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: -0.1px;
+  background: #7a8699; /* fallback */
+}
+
+/* Paragraph spacing */
+.ps-card p{
+  margin: 12px 0;
+  font-size: 16px;
+}
+
+/* Lists */
+.ps-card ul, .ps-card ol{
+  margin: 12px 0 14px 22px;
+}
+.ps-card li{
+  margin: 10px 0;
+  white-space: normal;
+  word-break: normal;
+  overflow-wrap: normal;
+}
+
+/* ===== Section-specific styling via data-ps-section ===== */
+
+/* Core colors */
+.ps-card[data-ps-section="Short answer"] h2{ background:#d08a3a; } /* amber */
+.ps-card[data-ps-section="Do not do these things"] h2{ background:#c84b4b; } /* red */
+.ps-card[data-ps-section="What to do now"] h2{ background:#2f6f55; } /* green */
+
+/* What can wait: BLUE theme (pill) */
+.ps-card[data-ps-section="What can wait"] h2{
+  background:#224b7a;
+  color:#fff;
+}
+
+/* Important reassurance + Scope note: normal card background; colour only in header pill */
+.ps-card[data-ps-section="Important reassurance"],
+.ps-card[data-ps-section="Scope note"]{
+  background:#fff;
+  border-color:#dbe2ef;
+}
+.ps-card[data-ps-section="Important reassurance"] h2,
+.ps-card[data-ps-section="Scope note"] h2{
+  background:#f0d9b0;
+  color:#0b1220;
+}
+
+/* ===== Do not do these things: padding + absolute X (NO grid) ===== */
+.ps-card[data-ps-section="Do not do these things"] ul{
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+.ps-card[data-ps-section="Do not do these things"] li{
+  position: relative;
+  padding-left: 46px;
+  margin: 14px 0;
+}
+.ps-card[data-ps-section="Do not do these things"] li::before{
+  content:"✕";
+  position: absolute;
+  left: 0;
+  top: 2px;
+  width: 26px;
+  height: 26px;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  background:#c84b4b;
+  color:#fff;
+  font-weight: 900;
+  font-size: 14px;
+}
+
+/* ===== What to do now: padding + absolute number (NO grid) ===== */
+.ps-card[data-ps-section="What to do now"] ol{
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+  counter-reset: step;
+}
+.ps-card[data-ps-section="What to do now"] ol > li{
+  counter-increment: step;
+  position: relative;
+  padding-left: 50px; /* tuned to match 26px circle */
+  margin: 16px 0;
+}
+.ps-card[data-ps-section="What to do now"] ol > li::before{
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: 2px;
+  width: 26px;   /* unified size */
+  height: 26px;  /* unified size */
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  background:#2f6f55;
+  color:#fff;
+  font-weight: 900;
+  font-size: 13px; /* unified scale */
+}
+.ps-card[data-ps-section="What to do now"] ol > li > p{
+  margin: 6px 0;
+}
+.ps-card[data-ps-section="What to do now"] ol > li > ul,
+.ps-card[data-ps-section="What to do now"] ol > li > ol{
+  margin: 10px 0 0 0;
+  padding-left: 18px;
+}
+
+/* ===== What can wait: pause-icon bullets aligned with other icon lists ===== */
+.ps-card[data-ps-section="What can wait"] ul{
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+.ps-card[data-ps-section="What can wait"] li{
+  position: relative;
+  padding-left: 50px; /* match other icon lists */
+  margin: 14px 0;
+}
+
+/* Blue circle */
+.ps-card[data-ps-section="What can wait"] li::before{
+  content:"";
+  position: absolute;
+  left: 0;
+  top: 2px;
+  width: 26px;
+  height: 26px;
+  border-radius: 999px;
+  background:#224b7a;
+  box-shadow: 0 1px 0 rgba(0,0,0,.06);
+}
+
+/* Pause icon */
+.ps-card[data-ps-section="What can wait"] li::after{
+  content:"";
+  position: absolute;
+  left: 0;
+  top: 2px;
+  width: 26px;
+  height: 26px;
+  background:
+    linear-gradient(#ffffff, #ffffff) left 9px top 7px / 3px 12px no-repeat,
+    linear-gradient(#ffffff, #ffffff) left 14px top 7px / 3px 12px no-repeat;
+  opacity: 0.95;
+}
+
+/* Optional: emphasis a bit stronger like the mockup */
+.ps-card[data-ps-section="What can wait"] strong{
+  font-weight: 900;
+}
+
+/* =========================
+   Important note (single icon aligned to first body line)
+   ========================= */
+.ps-card[data-ps-section="Important note"]{
+  background:#fff;
+  border-color:#dbe2ef;
+}
+
+.ps-card[data-ps-section="Important note"] h2{
+  background:#f6d78d;
+  color:#0b1220;
+}
+
+/* Only FIRST paragraph gets icon + gutter so it aligns like other icon rows */
+.ps-card[data-ps-section="Important note"] p:first-of-type{
+  position: relative;
+  padding-left: 50px; /* match other icon sections */
+}
+
+.ps-card[data-ps-section="Important note"] p:first-of-type::before{
+  content:"!";
+  position: absolute;
+  left: 0;
+  top: 2px;
+  width: 26px;
+  height: 26px;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  font-weight: 900;
+  color:#0b1220;
+  background:#f2d27a;
+  box-shadow: 0 1px 0 rgba(0,0,0,.05);
+}
+
+/* =========================
+   Additional resources card (collapsible via <details>)
+   ========================= */
+.ps-card.ps-resources{
+  padding: 0;
+  overflow: hidden;
+}
+
+.ps-card.ps-resources > h2{
+  display:none;
+}
+
+.ps-card.ps-resources details{
+  width: 100%;
+  padding: 18px 18px 14px;
+}
+
+.ps-card.ps-resources summary.ps-summary{
+  cursor: pointer;
+  font-weight: 900;
+  list-style: none;
+  padding: 12px 18px;
+  padding-right: 54px;     /* reserve space for arrow */
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.ps-card.ps-resources summary.ps-summary::-webkit-details-marker{
+  display:none;
+}
+
+.ps-card.ps-resources summary.ps-summary::after{
+  content:"▾";
+  opacity:0.7;
+  position: absolute;
+  right: 24px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 22px;
+  line-height: 1;
+}
+.ps-card.ps-resources details[open] summary.ps-summary::after{
+  content:"▴";
+}
+
+.ps-card.ps-resources details > ul{
+  margin: 12px 0 0 0;
+  padding: 0 0 0 22px;
+}
+.ps-card.ps-resources details > ul > li{
+  margin: 10px 0;
+}
+
+/* =========================
+   Guide actions (Support / Share)
+   ========================= */
+.ps-guide-actions{
+  display: flex;
+  gap: 12px;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 14px 0 0;
+}
+
+/* Make <a> and <button> identical */
+.ps-action-btn{
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  appearance: none;
+
+  border: 0;
+  background: #224b7a;       /* site dark blue */
+  color: #fff;               /* white text */
+  text-decoration: none;     /* remove underline */
+  border-radius: 999px;
+
+  padding: 10px 14px;
+  min-height: 44px;          /* forces equal height across <a> and <button> */
+  line-height: 1;            /* avoids anchor baseline/line-height height drift */
+
+  font: inherit;
+  font-weight: 900;
+  letter-spacing: -0.1px;
+
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+
+  box-shadow:
+    0 1px 0 rgba(0,0,0,.02),
+    0 8px 24px rgba(15, 23, 42, 0.04);
+}
+
+/* Ensure link states never re-add underlines / colors */
+a.ps-action-btn:link,
+a.ps-action-btn:visited,
+a.ps-action-btn:hover,
+a.ps-action-btn:active{
+  color: #fff;
+  text-decoration: none;
+}
+
+.ps-action-btn i{
+  color: currentColor; /* icon always white */
+}
+
+.ps-action-btn:hover{
+  box-shadow:
+    0 1px 0 rgba(0,0,0,.02),
+    0 12px 30px rgba(15, 23, 42, 0.06);
+}
+
+.ps-action-btn:focus{
+  outline: none;
+}
+
+.ps-action-btn:focus-visible{
+  box-shadow:
+    0 0 0 3px rgba(34,75,122,.22),
+    0 8px 24px rgba(15, 23, 42, 0.04);
+}
+
+/* “copied” state (keep same sizing) */
+.ps-action-btn.ps-copied{
+  background: #2f6f55; /* green */
+  box-shadow: 0 0 0 3px rgba(47,111,85,.14);
+}
+
+/* Responsive */
+@media (max-width: 520px){
+  .ps-card{ padding: 18px 16px 12px; border-radius: 16px; }
+  .ps-card h2{ font-size: 15px; padding: 8px 12px; }
+
+  .ps-card[data-ps-section="Do not do these things"] li{
+    padding-left: 42px;
+  }
+
+  .ps-card[data-ps-section="What to do now"] ol > li{
+    padding-left: 46px;
+  }
+
+  .ps-card[data-ps-section="What can wait"] li{
+    padding-left: 46px;
+  }
+
+  /* Important note responsive */
+  .ps-card[data-ps-section="Important note"] p:first-of-type{
+    padding-left: 46px;
+  }
+  .ps-card[data-ps-section="Important note"] p:first-of-type::before{
+    top: 2px;
+    width: 26px;
+    height: 26px;
+  }
+
+  .ps-card.ps-resources details{
+    padding: 16px 16px 12px;
+  }
+
+  /* Guide actions responsive */
+  .ps-guide-actions{
+    flex-wrap: wrap;
+  }
+}

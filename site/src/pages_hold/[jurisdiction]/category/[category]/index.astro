@@ -1,0 +1,229 @@
+---
+import { getCollection } from "astro:content";
+import SimpleLayout from "../../../../layouts/SimpleLayout.astro";
+import { CATEGORIES, CATEGORY_FULL } from "../../../../lib/categories";
+
+export async function getStaticPaths() {
+  const paths = [];
+  for (const jur of ["uk", "us"]) {
+    for (const c of CATEGORIES) {
+      paths.push({ params: { jurisdiction: jur, category: c.key } });
+    }
+  }
+  return paths;
+}
+
+const jur = (Astro.params.jurisdiction || "us").toLowerCase(); // uk | us
+const categoryKey = Astro.params.category;
+
+const cat = CATEGORIES.find((x) => x.key === categoryKey);
+if (!cat) throw new Error(`Unknown category: ${categoryKey}`);
+
+const fullCategory = CATEGORY_FULL[cat.key];
+
+const all = await getCollection("guides");
+
+// entry.slug includes the jurisdiction folder, e.g. "uk/some-guide"
+const guides = all
+  .filter((e) => e.slug.startsWith(`${jur}/`))
+  .filter((e) => (e.data.category || "").trim() === fullCategory)
+  .sort((a, b) => a.data.title.localeCompare(b.data.title, undefined, { sensitivity: "base" }));
+
+function displayTitle(full) {
+  return String(full || "").replace(/^What to do if…\s*/i, "").trim();
+}
+
+const title = `${cat.label} (${jur.toUpperCase()}) — PanicStation.org`;
+---
+
+<SimpleLayout title={title}>
+  <!-- Keep hubs/listings out of Pagefind (internal search stays guide-only) -->
+  <main data-pagefind-ignore>
+    <section class="ps-card">
+      <div class="ps-head">
+        <h1 class="ps-h1">
+          <span class="ps-h1-icon" aria-hidden="true"><i class={`fa-solid ${cat.icon}`}></i></span>
+          <span>{cat.label}</span>
+        </h1>
+
+        <nav class="ps-breadcrumb">
+          <a href={`/guides/`}>All guides</a>
+          <span aria-hidden="true">›</span>
+          <a href={`/${jur}/`}>{jur.toUpperCase()}</a>
+        </nav>
+      </div>
+
+      <p class="ps-muted">{guides.length} guide{guides.length === 1 ? "" : "s"}</p>
+
+      {guides.length ? (
+        <div class="ps-list" role="list">
+          {guides.map((e) => {
+            const slugNoJur = e.slug.replace(/^(uk|us)\//i, "");
+            const href = `/${jur}/${slugNoJur}`;
+            return (
+              <a class="ps-guide-card" href={href} role="listitem">
+                <span class="ps-guide-icon" aria-hidden="true">
+                  <i class={`fa-solid ${cat.icon}`}></i>
+                </span>
+                <span class="ps-guide-title">{displayTitle(e.data.title)}</span>
+              </a>
+            );
+          })}
+        </div>
+      ) : (
+        <div class="ps-empty">No guides found in this category.</div>
+      )}
+    </section>
+  </main>
+</SimpleLayout>
+
+<style>
+  .ps-card{
+    background:#fff;
+    border: 1px solid #dbe2ef;
+    border-radius: 18px;
+    padding: 22px;
+    margin: 0 0 24px;
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 8px 24px rgba(15, 23, 42, 0.04);
+  }
+
+  .ps-head{
+    display:flex;
+    align-items:flex-start;
+    justify-content:space-between;
+    gap: 14px;
+    flex-wrap: wrap;
+  }
+
+  .ps-h1{
+    margin: 0;
+    font-weight: 900;
+    letter-spacing: -0.3px;
+    font-size: clamp(20px, 2.1vw, 28px);
+    line-height: 1.2;
+    display:flex;
+    align-items:center;
+    gap: 10px;
+  }
+
+  .ps-h1-icon{
+    width: 34px;
+    height: 34px;
+    border-radius: 999px;
+    display:grid;
+    place-items:center;
+    background: var(--ps-accent);
+    color:#fff;
+    flex: 0 0 auto;
+    font-size: 14px;
+  }
+
+  .ps-breadcrumb{
+    font-size: 14px;
+    color:#546070;
+    display:flex;
+    gap: 8px;
+    align-items:center;
+    padding-top: 6px;
+  }
+  .ps-breadcrumb a{
+    color: inherit;
+    text-decoration: none;
+  }
+  .ps-breadcrumb a:hover{
+    text-decoration: underline;
+  }
+
+  .ps-muted{
+    margin: 12px 0 18px;
+    color:#546070;
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  .ps-list{
+    display:flex;
+    flex-direction: column;
+    gap: 14px;
+    align-items: stretch;
+    width: 100%;
+  }
+
+  /* Match the “home search results card” look */
+  .ps-guide-card{
+    background: #fff;
+    border: 1px solid var(--ps-border);
+    border-radius: 18px;
+    overflow: hidden;
+
+    margin: 0;
+    padding: 0;
+
+    width: 100%;
+    min-height: 56px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: flex-start;
+
+    text-align: left;
+    text-decoration: none;
+    cursor: pointer;
+
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 8px 24px rgba(15, 23, 42, 0.04);
+
+    color: #0b1220;
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  }
+
+  .ps-guide-card:hover{
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 12px 30px rgba(15, 23, 42, 0.06);
+  }
+
+  .ps-guide-icon{
+    width: 64px;
+    flex: 0 0 64px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: var(--ps-accent);
+    color: #fff;
+
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+  }
+
+  .ps-guide-icon i{
+    font-size: 18px;
+  }
+
+  .ps-guide-title{
+    flex: 1 1 auto;
+    display: flex;
+    align-items: center;
+
+    padding: 16px 18px;
+
+    font-size: 16px;
+    line-height: 1.65;
+    font-weight: 800;
+    letter-spacing: -0.1px;
+
+    color: #0b1220;
+  }
+
+  .ps-empty{
+    padding: 8px 0 0;
+    color:#546070;
+    font-size: 14px;
+  }
+</style>

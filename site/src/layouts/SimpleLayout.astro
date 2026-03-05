@@ -1,0 +1,145 @@
+---
+const { title } = Astro.props;
+const path = Astro.url.pathname;
+const isGuidesIndex = path === "/guides/";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+      referrerpolicy="no-referrer"
+    />
+
+    <!-- Google AdSense (publisher ID) -->
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6393180948620179"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+
+  <body class="ps-page" data-ps-page="other">
+    <header class="ps-header ps-header-simple">
+      <div class="ps-header-inner">
+        <a class="ps-brand" href="/" aria-label="PanicStation.org home">
+          <span class="ps-brand-main">PanicStation</span><span class="ps-brand-dot">.org</span>
+        </a>
+      </div>
+    </header>
+
+    <main class="ps-shell">
+      <slot />
+    </main>
+
+    <footer class="ps-footer">
+      <div class="ps-footer-inner">
+        <span>© {new Date().getFullYear()} PanicStation.org</span>
+        <span class="ps-footer-links">
+          {isGuidesIndex ? (
+            <span class="ps-footer-link" aria-hidden="true"></span>
+          ) : (
+            <a class="ps-footer-link" href="/guides/">All guides</a>
+          )}
+        </span>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  :global(body){
+    margin:0;
+    background:#f6f7fb;
+    color:#0b1220;
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  }
+
+  :global(:root){
+    --ps-accent: #224b7a;
+    --ps-border: #d9dfec;
+    --ps-soft: #eef1f7;
+    --ps-logo-red: #d24b4b;
+  }
+
+  .ps-page{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ps-shell{
+    flex: 1;
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0px 16px 0;
+    min-height: 0;
+  }
+
+  .ps-header{
+    padding: 22px 0 18px;
+    background: linear-gradient(#f7f8fc, #f6f7fb);
+  }
+
+  .ps-header-inner{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 16px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+  }
+
+  .ps-brand{
+    text-decoration:none;
+    font-weight: 900;
+    font-size: clamp(26px, 3.4vw, 44px);
+    letter-spacing:-0.6px;
+    color:#0b1220;
+  }
+  .ps-brand-dot{ color: var(--ps-logo-red); }
+
+  .ps-footer{
+    margin: 0;
+    padding: 18px 16px 32px;
+    color:#4b5568;
+    font-size:14px;
+  }
+
+  .ps-footer-inner{
+    max-width: 1100px;
+    margin:0 auto;
+    display:flex;
+    flex-wrap:wrap;
+    gap:12px;
+    justify-content:space-between;
+  }
+
+  .ps-footer-links{
+    display:flex;
+    align-items:center;
+    gap: 12px;
+  }
+
+  .ps-footer-link{
+    color: inherit;
+    font: inherit;
+    text-decoration: none;
+  }
+
+  a.ps-footer-link:hover{ text-decoration: underline; }
+</style>

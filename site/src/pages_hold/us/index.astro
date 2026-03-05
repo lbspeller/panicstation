@@ -1,0 +1,139 @@
+---
+import SimpleLayout from "../../layouts/SimpleLayout.astro";
+import { CATEGORIES } from "../../lib/categories";
+
+const title = "USA guides — PanicStation.org";
+---
+
+<SimpleLayout title={title}>
+  <!-- Keep hubs/listings out of Pagefind (internal search stays guide-only) -->
+  <main data-pagefind-ignore>
+    <section class="ps-card">
+      <h1 class="ps-h1">USA guides</h1>
+      <p class="ps-muted">Browse by category.</p>
+
+      <div class="ps-grid" role="list">
+        {CATEGORIES.map((c) => (
+          <a class="ps-cat-card" href={`/us/category/${c.key}/`} role="listitem">
+            <span class="ps-cat-icon" aria-hidden="true">
+              <i class={`fa-solid ${c.icon}`}></i>
+            </span>
+            <span class="ps-cat-title">{c.label}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  </main>
+</SimpleLayout>
+
+<style>
+  .ps-card{
+    background:#fff;
+    border: 1px solid #dbe2ef;
+    border-radius: 18px;
+    padding: 22px;
+    margin: 0 0 24px;
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 8px 24px rgba(15, 23, 42, 0.04);
+  }
+
+  .ps-h1{
+    margin: 0 0 10px;
+    font-weight: 900;
+    letter-spacing: -0.3px;
+    font-size: clamp(20px, 2.1vw, 28px);
+    line-height: 1.2;
+  }
+
+  .ps-muted{
+    margin: 0 0 18px;
+    color:#546070;
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  .ps-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+  }
+
+  .ps-cat-card{
+    -webkit-appearance: none;
+    appearance: none;
+    background: #fff;
+
+    border: 1px solid var(--ps-border);
+    border-radius: 18px;
+    overflow: hidden;
+
+    margin: 0;
+    padding: 0;
+
+    width: 100%;
+    min-height: 56px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: flex-start;
+
+    text-align: left;
+    text-decoration: none;
+    cursor: pointer;
+
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 8px 24px rgba(15, 23, 42, 0.04);
+
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    color: #0b1220;
+  }
+
+  .ps-cat-card:hover{
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 12px 30px rgba(15, 23, 42, 0.06);
+  }
+
+  .ps-cat-icon{
+    width: 64px;
+    flex: 0 0 64px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: var(--ps-accent);
+    color: #fff;
+
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+  }
+
+  .ps-cat-icon i{
+    font-size: 18px;
+  }
+
+  .ps-cat-title{
+    flex: 1 1 auto;
+    display: flex;
+    align-items: center;
+
+    padding: 16px 18px;
+
+    font-size: 16px;
+    line-height: 1.65;
+    font-weight: 800;
+    letter-spacing: -0.1px;
+  }
+
+  @media (max-width: 900px){
+    .ps-grid{ grid-template-columns: repeat(2, 1fr); }
+  }
+
+  @media (max-width: 520px){
+    .ps-grid{ grid-template-columns: 1fr; }
+  }
+</style>
