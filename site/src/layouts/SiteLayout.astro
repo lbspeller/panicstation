@@ -49,7 +49,7 @@ const isUsActive = jurisdiction === "us";
     ></script>
   </head>
 
-  <body class="ps-page" data-ps-page={isHome ? "home" : isGuide ? "guide" : "other"}>
+  <body class={`ps-page ${isHome ? "ps-home" : ""}`} data-ps-page={isHome ? "home" : isGuide ? "guide" : "other"}>
     <header class="ps-header">
       <div class="ps-header-inner">
         <a class="ps-brand" href="/" id="ps-home-link" aria-label="PanicStation.org home">
@@ -95,6 +95,11 @@ const isUsActive = jurisdiction === "us";
             />
 
             <div class="ps-search-icons" aria-label="Search controls">
+              <!-- Custom clear button (replaces native search X) -->
+              <button id="ps-clear-btn" class="ps-icon-btn ps-clear-btn" type="button" aria-label="Clear search" hidden>
+                <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+              </button>
+
               <button id="ps-filter-btn" class="ps-icon-btn" type="button" aria-label="Filter by category">
                 <i class="fa-solid fa-filter" aria-hidden="true"></i>
               </button>
@@ -169,7 +174,7 @@ const isUsActive = jurisdiction === "us";
     <footer class="ps-footer">
       <div class="ps-footer-inner">
         <span>© {new Date().getFullYear()} PanicStation.org</span>
-        <span class="ps-footer-links">         
+        <span class="ps-footer-links">
           <button class="ps-footer-link" type="button" data-ps-info="about">About</button>
           <button class="ps-footer-link" type="button" data-ps-info="disclaimer">Disclaimer</button>
           <button class="ps-footer-link" type="button" data-ps-info="privacy">Privacy</button>
@@ -265,6 +270,7 @@ const isUsActive = jurisdiction === "us";
 
     <script type="module">
       const input = document.getElementById("ps-search");
+      const clearBtn = document.getElementById("ps-clear-btn");
       const searchBtn = document.getElementById("ps-search-btn");
       const box = document.getElementById("ps-search-results");
       const inner = box?.querySelector(".ps-search-results-inner");
@@ -294,6 +300,32 @@ const isUsActive = jurisdiction === "us";
       if (!input || !searchBtn || !box || !inner || !filterBtn || !filterBox || !filterInner) {
         // missing UI
       } else {
+        // Close on-screen keyboard on mobile and stop caret blinking
+        function dismissKeyboard() {
+          input.blur();
+          window.getSelection?.()?.removeAllRanges?.();
+        }
+
+        // Custom clear button visibility (ONLY show when there is non-whitespace text)
+        function updateClearVisibility() {
+          if (!clearBtn) return;
+          const hasText = (input.value || "").trim().length > 0;
+          clearBtn.hidden = !hasText;
+        }
+
+        updateClearVisibility();
+
+        clearBtn?.addEventListener("click", () => {
+          input.value = "";
+          updateClearVisibility();
+          hideSearchResults();
+          hideFilter();
+          closeInfo();
+          hideHomePanel();
+          updateHintVisibility();
+          input.focus();
+        });
+
         let pf = null;
 
         async function ensurePagefind() {
@@ -306,9 +338,6 @@ const isUsActive = jurisdiction === "us";
         const escapeHtml = (s) =>
           String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
-        // -------------------------
-        // Categories (UI keys) + mapping to guide frontmatter
-        // -------------------------
         const CATEGORIES = [
           { key: "bereavement", label: "Bereavement & Family Crises",            icon: "fa-heart-crack" },
           { key: "legal",       label: "Legal, Police & Official Matters",      icon: "fa-scale-balanced" },
@@ -346,19 +375,8 @@ const isUsActive = jurisdiction === "us";
           return m;
         })();
 
-        let selectedCategoryKey = null; // null = no category filter
+        let selectedCategoryKey = null;
 
-        // -------------------------
-        // Hint visibility (home-only)
-        // Visible ONLY when:
-        // - on home
-        // - no category selected
-        // - input is empty
-        // - suggestions NOT showing
-        // - full results panel NOT showing
-        // - filter box NOT open
-        // - info panel NOT open
-        // -------------------------
         function updateHintVisibility() {
           if (!hint) return;
 
@@ -386,9 +404,6 @@ const isUsActive = jurisdiction === "us";
           hint.hidden = !shouldShow;
         }
 
-        // -------------------------
-        // Info panel content + behaviour
-        // -------------------------
         const BODIES = window.__PS_INFO_BODIES__ || {};
         const INFO = {
           about: { title: "About", body: BODIES.about?.body || "" },
@@ -442,9 +457,6 @@ const isUsActive = jurisdiction === "us";
         if (infoClose) infoClose.addEventListener("click", closeInfo);
         if (infoCloseTop) infoCloseTop.addEventListener("click", closeInfo);
 
-        // -------------------------
-        // Arrow navigation in suggestions (Tab still works)
-        // -------------------------
         let activeIndex = -1;
 
         function getResultButtons() {
@@ -483,9 +495,6 @@ const isUsActive = jurisdiction === "us";
           updateHintVisibility();
         };
 
-        // -------------------------
-        // Category UI
-        // -------------------------
         function setFilterIconDefault() {
           filterBtn.innerHTML = `<i class="fa-solid fa-filter" aria-hidden="true"></i>`;
         }
@@ -582,11 +591,8 @@ const isUsActive = jurisdiction === "us";
 
         restoreCategorySelection();
 
-        // -------------------------
-        // Jurisdiction preference
-        // -------------------------
-        const path = location.pathname || "/";
-        const urlJur = /^\/uk\//i.test(path) ? "uk" : /^\/us\//i.test(path) ? "us" : null;
+        const pathNow = location.pathname || "/";
+        const urlJur = /^\/uk\//i.test(pathNow) ? "uk" : /^\/us\//i.test(pathNow) ? "us" : null;
 
         let preferredJur =
           urlJur ||
@@ -603,9 +609,6 @@ const isUsActive = jurisdiction === "us";
           }
         });
 
-        // -------------------------
-        // Home “results mode” state (persists across navigation)
-        // -------------------------
         const SESSION_SHOW = "ps_show_results";
         const SESSION_QUERY = "ps_results_query";
 
@@ -641,12 +644,10 @@ const isUsActive = jurisdiction === "us";
           updateHintVisibility();
         }
 
-        // -------------------------
-        // Suggestions (dropdown) behaviour
-        // -------------------------
         inner.addEventListener("click", (e) => {
           const b = e.target.closest("button.ps-result-btn");
           if (!b) return;
+          dismissKeyboard();
           const href = b.dataset.href;
           if (href) location.href = href;
         });
@@ -670,6 +671,7 @@ const isUsActive = jurisdiction === "us";
 
           if (e.key === "Enter" || e.key === " ") {
             e.preventDefault();
+            dismissKeyboard();
             const href = b.dataset.href;
             if (href) location.href = href;
           }
@@ -714,6 +716,7 @@ const isUsActive = jurisdiction === "us";
         async function doSuggestSearch() {
           const q = norm(input.value);
           updateHintVisibility();
+          updateClearVisibility();
 
           if (!q || q.length < 2) { hideSearchResults(); return; }
 
@@ -743,14 +746,12 @@ const isUsActive = jurisdiction === "us";
           clearTimeout(t);
           t = setTimeout(doSuggestSearch, 90);
           updateHintVisibility();
+          updateClearVisibility();
         });
 
-        input.addEventListener("focus", updateHintVisibility);
-        input.addEventListener("blur", updateHintVisibility);
+        input.addEventListener("focus", () => { updateHintVisibility(); updateClearVisibility(); });
+        input.addEventListener("blur",  () => { updateHintVisibility(); updateClearVisibility(); });
 
-        // -------------------------
-        // Full results behaviour (button or Enter)
-        // -------------------------
         function buildFiltersForSearch() {
           const filters = { jurisdiction: preferredJur };
           if (selectedCategoryKey) {
@@ -820,6 +821,7 @@ const isUsActive = jurisdiction === "us";
           homeList.addEventListener("click", (e) => {
             const b = e.target.closest("button.ps-home-result-btn");
             if (!b) return;
+            dismissKeyboard();
             const href = b.dataset.href;
             if (href) location.href = href;
           });
@@ -829,6 +831,7 @@ const isUsActive = jurisdiction === "us";
             const b = e.target.closest("button.ps-home-result-btn");
             if (!b) return;
             e.preventDefault();
+            dismissKeyboard();
             const href = b.dataset.href;
             if (href) location.href = href;
           });
@@ -865,7 +868,10 @@ const isUsActive = jurisdiction === "us";
           const raw = input.value || "";
           const q = raw.trim();
 
+          dismissKeyboard();
+
           input.value = "";
+          updateClearVisibility();
 
           persistCategorySelection();
           setHomeResultsMode(q);
@@ -879,7 +885,10 @@ const isUsActive = jurisdiction === "us";
           updateHintVisibility();
         }
 
-        searchBtn.addEventListener("click", triggerFullSearchFromInput);
+        searchBtn.addEventListener("click", () => {
+          dismissKeyboard();
+          triggerFullSearchFromInput();
+        });
 
         input.addEventListener("keydown", (e) => {
           if (e.key === "Escape") { hideSearchResults(); hideFilter(); closeInfo(); return; }
@@ -918,6 +927,7 @@ const isUsActive = jurisdiction === "us";
             hideHomePanel();
             input.focus();
             updateHintVisibility();
+            updateClearVisibility();
           });
         }
 
@@ -930,7 +940,9 @@ const isUsActive = jurisdiction === "us";
             box.contains(e.target) ||
             e.target === input ||
             e.target === searchBtn ||
-            (searchBtn && searchBtn.contains(e.target));
+            (searchBtn && searchBtn.contains(e.target)) ||
+            e.target === clearBtn ||
+            (clearBtn && clearBtn.contains(e.target));
 
           const clickedFilter =
             filterBox.contains(e.target) ||
@@ -942,18 +954,24 @@ const isUsActive = jurisdiction === "us";
 
           if (!clickedSearch) hideSearchResults();
           if (!clickedFilter) hideFilter();
-          // Info stays open unless Close or same link toggled.
           updateHintVisibility();
+          updateClearVisibility();
         });
 
-        // Initial state on load
         updateHintVisibility();
+        updateClearVisibility();
       }
     </script>
   </body>
 </html>
 
 <style>
+  :global(*),
+  :global(*::before),
+  :global(*::after){
+    box-sizing: border-box;
+  }
+
   :global(body){
     margin:0;
     background:#f6f7fb;
@@ -973,10 +991,23 @@ const isUsActive = jurisdiction === "us";
     --ps-logo-red: #d24b4b;
   }
 
+  /* FIX: your .ps-icon-btn sets display:grid, which can override native [hidden]{display:none}.
+     Force hidden to always hide, regardless of other display rules. */
+  :global([hidden]){
+    display: none !important;
+  }
+
   .ps-page{
-    min-height: 100vh;
+    min-height: 100vh;   /* fallback */
     display: flex;
     flex-direction: column;
+  }
+
+  @supports (min-height: 100svh){
+    .ps-page{ min-height: 100svh; }
+  }
+  @supports (min-height: 100dvh){
+    .ps-page{ min-height: 100dvh; }
   }
 
   .ps-shell{
@@ -986,6 +1017,10 @@ const isUsActive = jurisdiction === "us";
     margin: 0 auto;
     padding: 0px 16px 0;
     min-height: 0;
+  }
+
+  .ps-home .ps-shell{
+    flex: 0;
   }
 
   .ps-header{
@@ -1001,21 +1036,28 @@ const isUsActive = jurisdiction === "us";
     align-items:center;
     justify-content:space-between;
     gap:12px;
+    flex-wrap: nowrap;
   }
 
   .ps-brand{
+    flex: 1 1 auto;
+    min-width: 0;
     text-decoration:none;
     font-weight: 900;
-    font-size: clamp(26px, 3.4vw, 44px);
+    font-size: clamp(20px, 5.8vw, 44px);
     letter-spacing:-0.6px;
     color:#0b1220;
+    white-space: nowrap;
   }
   .ps-brand-dot{ color: var(--ps-logo-red); }
 
   .ps-toggle{
+    flex: 0 1 auto;
+    min-width: 0;
+
     display:flex;
     gap: 0;
-    padding: 6px;
+    padding: clamp(3px, 1.2vw, 6px);
     border-radius: 999px;
     border: 1px solid var(--ps-border);
     background: var(--ps-soft);
@@ -1024,12 +1066,14 @@ const isUsActive = jurisdiction === "us";
   .ps-pill{
     display:flex;
     align-items:center;
-    gap:8px;
+    gap: clamp(4px, 1.4vw, 8px);
     text-decoration:none;
-    padding: 10px 16px;
+    padding: clamp(6px, 1.8vw, 10px) clamp(8px, 2.4vw, 16px);
     border-radius: 999px;
     font-weight: 800;
+    font-size: clamp(12px, 2.8vw, 16px);
     color:#0b1220;
+    white-space: nowrap;
   }
 
   .ps-pill.active{
@@ -1046,8 +1090,8 @@ const isUsActive = jurisdiction === "us";
   }
 
   .ps-flag{
-    width: 18px;
-    height: 18px;
+    width: clamp(14px, 3.4vw, 18px);
+    height: clamp(14px, 3.4vw, 18px);
     border-radius: 4px;
     display: inline-block;
     flex: 0 0 auto;
@@ -1068,6 +1112,30 @@ const isUsActive = jurisdiction === "us";
     width: 100%;
   }
 
+  /* Ensure no browser draws a native search cancel UI */
+  .ps-search{
+    -webkit-appearance: none;
+    appearance: none;
+  }
+
+  /* WebKit native search affordances */
+  :global(input[type="search"]::-webkit-search-cancel-button),
+  :global(input[type="search"]::-webkit-search-decoration),
+  :global(input[type="search"]::-webkit-search-results-button),
+  :global(input[type="search"]::-webkit-search-results-decoration){
+    -webkit-appearance: none;
+    appearance: none;
+    display: none;
+  }
+
+  /* Old Edge/IE variants (safe elsewhere) */
+  :global(input[type="search"]::-ms-clear),
+  :global(input[type="search"]::-ms-reveal){
+    display: none;
+    width: 0;
+    height: 0;
+  }
+
   .ps-search{
     width:100%;
     font-size:18px;
@@ -1076,6 +1144,7 @@ const isUsActive = jurisdiction === "us";
     border:1px solid var(--ps-border);
     background:#fff;
     outline:none;
+    padding-right: 190px; /* room for 3 icon buttons */
   }
 
   .ps-search:focus{
@@ -1091,10 +1160,6 @@ const isUsActive = jurisdiction === "us";
     display:flex;
     align-items:center;
     gap: 10px;
-  }
-
-  .ps-search{
-    padding-right: 140px;
   }
 
   .ps-icon-btn{
@@ -1119,14 +1184,12 @@ const isUsActive = jurisdiction === "us";
     box-shadow: 0 0 0 3px rgba(34,75,122,.18);
   }
 
-  /* Hint line (NOTE: do NOT set display here, or it overrides [hidden]) */
   .ps-search-hint{
     width: 100%;
     max-width: 1100px;
     margin: 24px auto 0;
     padding: 0 16px;
 
-    /* layout/typography */
     align-items: center;
     justify-content: center;
     gap: 10px;
@@ -1137,7 +1200,6 @@ const isUsActive = jurisdiction === "us";
     text-align: center;
   }
 
-  /* Only apply flex when it is NOT hidden */
   .ps-search-hint:not([hidden]){
     display: flex;
   }
@@ -1153,7 +1215,6 @@ const isUsActive = jurisdiction === "us";
     max-width: 760px;
   }
 
-  /* Info panel wrapper (same width as guides/cards) */
   .ps-info-wrap{
     max-width: 1100px;
     margin: 0 auto;
@@ -1279,6 +1340,8 @@ const isUsActive = jurisdiction === "us";
     padding: 18px 16px 32px;
     color:#4b5568;
     font-size:14px;
+    margin-top: auto;
+    padding-bottom: calc(32px + env(safe-area-inset-bottom, 0px));
   }
 
   .ps-footer-inner{
@@ -1294,6 +1357,7 @@ const isUsActive = jurisdiction === "us";
     display:flex;
     align-items:center;
     gap: 12px;
+    flex-wrap: wrap;
   }
 
   .ps-footer-link{
@@ -1310,10 +1374,13 @@ const isUsActive = jurisdiction === "us";
   .ps-footer-link:hover{ text-decoration: underline; }
 
   @media (max-width: 520px){
-    .ps-pill{ padding: 9px 12px; }
     .ps-search-icons{ right: 8px; gap: 8px; }
     .ps-icon-btn{ width: 42px; height: 42px; }
-    .ps-search{ padding-right: 92px; }
+    .ps-search{ padding-right: 146px; } /* 3 * 42 + gaps */
+  }
+
+  @media (max-width: 360px){
+    .ps-brand{ font-size: clamp(18px, 5.2vw, 40px); }
   }
 </style>
 
@@ -1472,9 +1539,7 @@ const isUsActive = jurisdiction === "us";
     }
   }
 
-  /* -------------------------
-     Home full-results panel (GLOBAL so dynamic elements match)
-     ------------------------- */
+  /* Home full-results panel */
   .ps-home-results{
     margin: 0 auto 24px;
     max-width: 1100px;

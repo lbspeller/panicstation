@@ -31,7 +31,7 @@ const isGuidesIndex = path === "/guides/";
     ></script>
   </head>
 
-  <body class="ps-page" data-ps-page="other">
+  <body class={`ps-page ${isGuidesIndex ? "ps-guides-index" : ""}`} data-ps-page="other">
     <header class="ps-header ps-header-simple">
       <div class="ps-header-inner">
         <a class="ps-brand" href="/" aria-label="PanicStation.org home">
@@ -60,6 +60,16 @@ const isGuidesIndex = path === "/guides/";
 </html>
 
 <style>
+  :global(*),
+  :global(*::before),
+  :global(*::after){
+    box-sizing: border-box;
+  }
+
+  :global(html){
+    scrollbar-gutter: stable;
+  }
+
   :global(body){
     margin:0;
     background:#f6f7fb;
@@ -75,9 +85,17 @@ const isGuidesIndex = path === "/guides/";
   }
 
   .ps-page{
-    min-height: 100vh;
+    min-height: 100vh;   /* fallback */
     display: flex;
     flex-direction: column;
+  }
+
+  /* Prefer the visible viewport on mobile browsers */
+  @supports (min-height: 100svh){
+    .ps-page{ min-height: 100svh; }
+  }
+  @supports (min-height: 100dvh){
+    .ps-page{ min-height: 100dvh; }
   }
 
   .ps-shell{
@@ -87,6 +105,11 @@ const isGuidesIndex = path === "/guides/";
     margin: 0 auto;
     padding: 0px 16px 0;
     min-height: 0;
+  }
+
+  /* Guides index (and other short pages, if you reuse this class) */
+  .ps-guides-index .ps-shell{
+    flex: 0;
   }
 
   .ps-header{
@@ -102,14 +125,22 @@ const isGuidesIndex = path === "/guides/";
     align-items:center;
     justify-content:space-between;
     gap:12px;
+
+    /* match SiteLayout: keep header row single-line */
+    flex-wrap: nowrap;
   }
 
+  /* match SiteLayout: allow shrinking without clipping on narrow screens */
   .ps-brand{
+    flex: 1 1 auto;
+    min-width: 0;
+
     text-decoration:none;
     font-weight: 900;
-    font-size: clamp(26px, 3.4vw, 44px);
+    font-size: clamp(20px, 5.8vw, 44px);
     letter-spacing:-0.6px;
     color:#0b1220;
+    white-space: nowrap;
   }
   .ps-brand-dot{ color: var(--ps-logo-red); }
 
@@ -118,6 +149,8 @@ const isGuidesIndex = path === "/guides/";
     padding: 18px 16px 32px;
     color:#4b5568;
     font-size:14px;
+    margin-top: auto; /* stick footer to bottom when content is short */
+    padding-bottom: calc(32px + env(safe-area-inset-bottom, 0px));
   }
 
   .ps-footer-inner{
@@ -129,10 +162,12 @@ const isGuidesIndex = path === "/guides/";
     justify-content:space-between;
   }
 
+  /* match SiteLayout: allow wrapping so links never disappear below fold */
   .ps-footer-links{
     display:flex;
     align-items:center;
     gap: 12px;
+    flex-wrap: wrap;
   }
 
   .ps-footer-link{
@@ -142,4 +177,9 @@ const isGuidesIndex = path === "/guides/";
   }
 
   a.ps-footer-link:hover{ text-decoration: underline; }
+
+  /* ultra-narrow phones */
+  @media (max-width: 360px){
+    .ps-brand{ font-size: clamp(18px, 5.2vw, 40px); }
+  }
 </style>
