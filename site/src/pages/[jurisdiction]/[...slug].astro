@@ -3,6 +3,8 @@ import { getCollection } from "astro:content";
 import SiteLayout from "../../layouts/SiteLayout.astro";
 import "../../styles/guides.css";
 
+const enableAdsenseTest = import.meta.env.PUBLIC_ENABLE_ADSENSE_TEST === "1";
+
 export async function getStaticPaths() {
   const guides = await getCollection("guides");
 
@@ -68,8 +70,11 @@ const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
       </button>
     </div>
 
-    <script is:inline>
+    <script is:inline define:vars={{ enableAdsenseTest }}>
       (() => {
+        const ADSENSE_CLIENT = "ca-pub-6393180948620179";
+        const MID_AD_SLOT_ID = "6400555379";
+
         const shareBtn = document.getElementById("ps-share-btn");
         if (shareBtn) {
           shareBtn.addEventListener("click", async () => {
@@ -77,17 +82,14 @@ const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
             const title = document.title || "PanicStation.org";
             const text = "PanicStation.org guide";
 
-            // Native share sheet (mobile + some desktop browsers)
             if (navigator.share) {
               try {
                 await navigator.share({ title, text, url });
                 return;
               } catch {
-                // user cancelled or share failed; fall through to copy
               }
             }
 
-            // Fallback: copy link
             try {
               await navigator.clipboard.writeText(url);
               shareBtn.classList.add("ps-copied");
@@ -97,10 +99,212 @@ const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
                 shareBtn.querySelector("span")?.replaceChildren(document.createTextNode("Share guide"));
               }, 1400);
             } catch {
-              // Final fallback: prompt
               window.prompt("Copy this link:", url);
             }
           });
+        }
+
+        const adSlot = document.getElementById("ps-mid-ad");
+
+        let midAdRenderStarted = false;
+        let midAdRenderFinished = false;
+
+        function collapseMidAd() {
+          if (!adSlot) return;
+          adSlot.hidden = true;
+          adSlot.setAttribute("aria-hidden", "true");
+          adSlot.innerHTML = "";
+          delete adSlot.dataset.psAdLoaded;
+          delete adSlot.dataset.psAdMode;
+          delete adSlot.dataset.psAdStatus;
+        }
+
+        function expandMidAd(html, mode = "custom") {
+          if (!adSlot) return;
+          adSlot.innerHTML = html;
+          adSlot.hidden = false;
+          adSlot.setAttribute("aria-hidden", "false");
+          adSlot.dataset.psAdLoaded = "1";
+          adSlot.dataset.psAdMode = mode;
+        }
+
+        function hasMidAdSlot() {
+          return !!adSlot;
+        }
+
+        window.PanicStationAds = {
+          collapseMidAd,
+          expandMidAd,
+          hasMidAdSlot,
+        };
+
+        async function loadAdsenseScriptOnce() {
+          const selector = `script[src*="adsbygoogle.js?client=${ADSENSE_CLIENT}"]`;
+          const existing = document.querySelector(selector);
+
+          if (existing) {
+            if (window.adsbygoogle) return true;
+
+            await new Promise((resolve, reject) => {
+              existing.addEventListener("load", () => resolve(), { once: true });
+              existing.addEventListener("error", () => reject(new Error("AdSense script failed")), { once: true });
+            }).catch(() => false);
+
+            return !!window.adsbygoogle;
+          }
+
+          const s = document.createElement("script");
+          s.async = true;
+          s.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`;
+          s.crossOrigin = "anonymous";
+          s.dataset.psAdsense = "1";
+
+          const loaded = new Promise((resolve, reject) => {
+            s.addEventListener("load", () => resolve(), { once: true });
+            s.addEventListener("error", () => reject(new Error("AdSense script failed")), { once: true });
+          });
+
+          document.head.appendChild(s);
+
+          try {
+            await loaded;
+            return !!window.adsbygoogle;
+          } catch {
+            return false;
+          }
+        }
+
+        function markSlotStatusFromIns(ins) {
+          if (!adSlot || !ins) return;
+          const status = ins.getAttribute("data-ad-status");
+          if (status) adSlot.dataset.psAdStatus = status;
+        }
+
+        async function tryRenderMidAd({ testMode = false, allowScriptLoad = false } = {}) {
+          if (!adSlot) return;
+          if (midAdRenderStarted || midAdRenderFinished) return;
+
+          midAdRenderStarted = true;
+
+          const scriptReady = allowScriptLoad
+            ? await loadAdsenseScriptOnce()
+            : !!window.adsbygoogle;
+
+          if (!scriptReady) {
+            midAdRenderStarted = false;
+            collapseMidAd();
+            return;
+          }
+
+          const adtestAttr = testMode ? `data-adtest="on"` : "";
+
+          expandMidAd(
+            `
+              <div class="ps-ad-shell">
+                <div class="ps-ad-label" aria-hidden="true">Advertisement</div>
+                <ins
+                  class="adsbygoogle"
+                  style="display:block; text-align:center;"
+                  data-ad-layout="in-article"
+                  data-ad-format="fluid"
+                  data-ad-client="${ADSENSE_CLIENT}"
+                  data-ad-slot="${MID_AD_SLOT_ID}"
+                  ${adtestAttr}
+                ></ins>
+              </div>
+            `,
+            testMode ? "adsense-test" : "adsense-live"
+          );
+
+          const ins = adSlot.querySelector("ins.adsbygoogle");
+          if (!ins) {
+            midAdRenderStarted = false;
+            collapseMidAd();
+            return;
+          }
+
+          try {
+            (window.adsbygoogle = window.adsbygoogle || []).push({});
+          } catch {
+            midAdRenderStarted = false;
+            collapseMidAd();
+            return;
+          }
+
+          const startedAt = Date.now();
+          const timeoutMs = 5000;
+          const intervalMs = 250;
+
+          const timer = window.setInterval(() => {
+            if (!document.body.contains(ins)) {
+              window.clearInterval(timer);
+              midAdRenderStarted = false;
+              collapseMidAd();
+              return;
+            }
+
+            markSlotStatusFromIns(ins);
+
+            const status = ins.getAttribute("data-ad-status");
+
+            if (status === "filled") {
+              window.clearInterval(timer);
+              midAdRenderFinished = true;
+              adSlot.hidden = false;
+              adSlot.setAttribute("aria-hidden", "false");
+              adSlot.dataset.psAdLoaded = "1";
+              return;
+            }
+
+            if (status === "unfilled") {
+              window.clearInterval(timer);
+              midAdRenderStarted = false;
+              collapseMidAd();
+              return;
+            }
+
+            if (Date.now() - startedAt >= timeoutMs) {
+              window.clearInterval(timer);
+
+              const initialized =
+                ins.classList.contains("adsbygoogle-noablate") ||
+                ins.hasAttribute("data-adsbygoogle-status") ||
+                !!ins.getAttribute("data-ad-status") ||
+                ins.childElementCount > 0;
+
+              if (initialized) {
+                midAdRenderFinished = true;
+                adSlot.hidden = false;
+                adSlot.setAttribute("aria-hidden", "false");
+                adSlot.dataset.psAdLoaded = "1";
+              } else {
+                midAdRenderStarted = false;
+                collapseMidAd();
+              }
+            }
+          }, intervalMs);
+        }
+
+        function tryRenderProductionMidAd() {
+          // PRE-APPROVAL ONLY:
+          // Keep testMode: true until panicstation.org is approved in AdSense.
+          // Once approved and you are ready to serve real ads, change testMode to false:
+          // tryRenderMidAd({ testMode: false, allowScriptLoad: false });
+          tryRenderMidAd({ testMode: true, allowScriptLoad: false });
+        }
+
+        if (enableAdsenseTest && adSlot) {
+          window.setTimeout(() => {
+            tryRenderMidAd({ testMode: true, allowScriptLoad: true });
+          }, 300);
+        } else if (adSlot) {
+          window.addEventListener("ps:adsense-ready", tryRenderProductionMidAd);
+
+          if (window.adsbygoogle) {
+            window.setTimeout(() => {
+              tryRenderProductionMidAd();
+            }, 300);
+          }
         }
       })();
     </script>

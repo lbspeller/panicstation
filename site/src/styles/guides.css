@@ -41,6 +41,38 @@
   font-weight: 900;
 }
 
+/* Mid-article ad slot (collapsed by default via [hidden]) */
+.ps-ad-slot.ps-ad-slot-mid{
+  width: 100%;
+}
+
+/* When shown later, make it look neat and intentional */
+.ps-ad-slot.ps-ad-slot-mid:not([hidden]){
+  margin: 18px 0;
+  padding: 14px;
+  border: 1px solid #dbe2ef;
+  border-radius: 18px;
+  background: #fff;
+  box-shadow:
+    0 1px 0 rgba(0,0,0,.02),
+    0 8px 24px rgba(15, 23, 42, 0.04);
+}
+
+.ps-ad-shell{
+  width: 100%;
+}
+
+.ps-ad-label{
+  margin: 0 0 10px;
+  font-size: 11px;
+  line-height: 1.2;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #7a8699;
+  text-align: center;
+}
+
 /* Base card */
 .ps-card{
   background:#fff;
@@ -413,6 +445,10 @@ a.ps-action-btn:active{
 
   .ps-card.ps-resources details{
     padding: 16px 16px 12px;
+  }
+
+  .ps-ad-slot.ps-ad-slot-mid:not([hidden]){
+    padding: 10px;
   }
 
   /* Guide actions responsive */
