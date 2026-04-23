@@ -1,91 +1,87 @@
-﻿---
+---
 title: "What to do if… you discover false information about you in an HR record or personnel file"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - false information in hr record
-  - incorrect personnel file entry
-  - wrong hr file details
-  - hr record has mistakes
-  - false disciplinary record
-  - inaccurate performance note
-  - personnel file misinformation
-  - hr file says i did
-  - incorrect employment record
-  - wrong write up in file
-  - false allegation at work file
-  - hr notes are wrong
-  - personnel record error found
-  - wrong termination reason record
-  - incorrect background check info
-  - dispute background report error
-  - hr file correction request
-  - personnel file contains lies
-last_reviewed: "2026-01-08"
+  - "emails sent from my account"
+  - "messages sent i did not send"
+  - "work email sending itself"
+  - "unauthorized messages in sent items"
+  - "what do i do if my work email was hacked"
+  - "help i noticed emails i did not write"
+  - "my work account is sending spam"
+  - "what do i do if someone is using my work email"
+  - "suspicious sent folder activity"
+  - "unrecognized messages in teams"
+  - "unauthorized sent emails"
+  - "someone else is using my work account"
+  - "unexpected emails in my sent box"
+  - "notice emails sent from my account"
+  - "messages sent from my account help"
+  - "help i did not send these emails"
+  - "my account sent a message itself"
+  - "work email compromised"
+  - "sent folder has weird emails"
+  - "colleague says i emailed them but i did not"
+  - "unexpected outlook rules"
+  - "mysterious email forwarding rules"
+  - "account access logs suspicious"
+  - "unknown emails in sent items"
+  - "unauthorized email activity work"
+  - "notice messages i did not send"
+  - "emails i did not send appearing"
+  - "sent items showing strange emails"
+  - "account taken over at work"
+  - "messages sent from my computer"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you discover false information about you in an HR record or personnel file (USA)
 
 ## Short answer
-Get the exact wording in writing, then request in writing that HR correct it or attach your rebuttal — and ask them to pause decisions that rely on it.
+Isolate the account immediately by disconnecting all devices and calling your IT security team to force a global sign-out and password reset. Do not attempt to delete or "clean" the account yourself, as this can destroy forensic evidence or alert the attacker.
 
 ## Do not do these things
-- Do not send an angry blast email or accuse individuals — keep it factual and focused on the specific entry.
-- Do not quit on the spot or sign anything (discipline acknowledgment, separation agreement) while the file is still wrong.
-- Do not try to edit, delete, or remove documents from the file yourself.
-- Do not assume you automatically have (or don’t have) a right to see the whole file — access often depends on state law and employer policy.
-- Do not post about it publicly or in workplace group chats.
+- Do not delete any sent emails, suspicious rules, or security alerts, as these are critical for the investigation.
+- Do not use the compromised account to warn others; the attacker may be monitoring your sent items in real time.
+- Do not log back into the account on any device until IT confirms the session tokens have been revoked.
+- Do not attempt to investigate the source of the attack or "hack back" the intruder.
+- Do not forward the suspicious emails to your personal account for safekeeping.
 
 ## What to do now
-1. **Capture the exact text and where it appears.**  
-   Save a screenshot or ask for a copy of the specific page/entry. If you can’t, write down the exact wording, the date you saw it, and who showed you.
-
-2. **Send a short written correction request to HR (and keep proof).**  
-   In one message:
-   - quote the inaccurate statement(s)
-   - state the correct fact(s)
-   - attach simple proof (timecard, email, schedule, letter, certification)
-   - ask HR to confirm in writing what will be corrected and when
-
-3. **Ask to add your rebuttal and to mark the item “disputed.”**  
-   If HR won’t remove the original note (especially if it’s framed as an “allegation” or “opinion”), ask that:
-   - your written rebuttal is attached to the same entry/document, and
-   - the item is clearly marked **disputed** so it’s not treated as settled fact
-
-4. **Request access to your personnel file the right way for your workplace/state.**  
-   Check your employee handbook or HR policy for the process (who to write to, what to request). For many private-sector jobs, access rules are mainly set by **state law and employer policy**. Make the request in writing and keep a copy.  
-   If you’re in a state with a personnel-file inspection law (for example, California, Illinois, Massachusetts — examples only), use the state-specific route HR expects.
-
-5. **If a decision is pending, request a pause on relying on the disputed item.**  
-   If you’re in discipline, performance management, promotion review, layoff selection, or hiring/re-hire, ask in writing that the disputed information not be relied on until it’s corrected or clearly recorded as disputed.
-
-6. **If the false information came from a third-party background check, use the FCRA dispute path.**  
-   If an employer used a background screening company (a “consumer reporting agency”):
-   - ask for (or locate) the copy of the report you were evaluated on
-   - keep any **pre-adverse action** or **adverse action** notices you received
-   - dispute inaccurate items with the screening company in writing  
-   Also tell HR in writing that you’re disputing the report and ask them to pause any action while it’s under dispute.
-
-7. **If you’re represented, use your representative now.**  
-   If you’re in a union or have an association/contract process, tell your rep exactly what’s wrong and ask them to help get the correction/rebuttal into the file and to attend meetings.
+1. **Immediately stop using the account and disconnect all active devices.** If you are logged in on a laptop, mobile phone, or tablet, close the applications and disconnect from the internet to stop further automated sending.
+2. **Contact your IT Helpdesk or Security Operations Center (SOC) via a trusted secondary channel.** Use a physical office phone, a personal phone, or speak to them in person.
+   - **Report the situation as an active Business Email Compromise (BEC).**
+   - **Request a "Force Sign-out" or "Revoke All Sessions" action.**
+   - **Request an immediate password reset** and a review of your Multi-Factor Authentication (MFA) settings.
+3. **Notify your immediate supervisor using a non-work email method.** Inform them that your account has been compromised and that any messages sent recently may be fraudulent.
+4. **Identify if any messages involved financial requests, invoices, or payroll changes.** If money was mentioned in the unauthorized sent items, take additional steps:
+   - **Contact your Finance or Accounts Payable department immediately** via phone to stop any pending transfers.
+   - **Contact your bank's fraud department** if a transfer was initiated and request a "Recall" or a "Hold Harmless Letter" (Indemnity).
+5. **Wait for IT to perform a persistence check before resuming work.** Ask the security team to specifically check for:
+   - **Hidden inbox rules** that move incoming mail to the "RSS Feeds" or "Deleted Items" folders.
+   - **Automatic forwarding rules** sending your mail to external addresses.
+   - **Unauthorized delegated access** or new "App Passwords" created by the attacker.
+6. **Report the incident to the FBI Internet Crime Complaint Center (IC3).** If your organization's policy allows, or if you are a small business owner, file a report at ic3.gov.
+   - Provide the headers of the suspicious emails if IT has captured them.
+   - Detail any financial loss or attempted wire transfers.
 
 ## What can wait
-- You do not need to decide today whether to file an agency charge or lawsuit.
-- You do not need to write a long narrative — start with the single false statement and the cleanest proof.
-- You do not need to confront the person you think wrote it; focus first on correcting the record and stopping it being relied on.
+- You do not need to determine how the attacker got in (phishing, malware, or credential stuffing) right now.
+- You do not need to apologize to every recipient individually until IT/Legal provides an approved template.
+- You do not need to worry about disciplinary action during the containment phase; focus on stopping the spread.
 
 ## Important reassurance
-Finding a false statement in an “official” file can feel destabilizing because it suggests the system is already moving without you. You’re not being unreasonable by insisting on exact wording, written responses, and a clear correction trail — that’s how you prevent fast, irreversible decisions.
+Business Email Compromise is a sophisticated, high-frequency attack targeting organizations of all sizes. Noticing the activity and reporting it quickly is the most effective way to minimize damage. Security teams are trained to handle these incidents and prioritize containment over blame.
 
 ## Scope note
-This guide covers first steps only: document the problem, get a correction or rebuttal into the file, and prevent immediate harm. If the issue connects to discrimination, retaliation, termination risk, licensing, or a background report, you may want specialist advice for next steps.
+This guide covers immediate stabilization and containment of a compromised work account. Long-term remediation, such as forensic imaging of devices or formal data breach notifications, must be managed by your organization's legal and security departments.
 
 ## Important note
-This is general information, not legal advice. Personnel-file access and correction options vary by state, industry, and any union/contract coverage. Keep communications factual and in writing, and focus on (1) getting the exact wording, (2) correcting or clearly disputing it in the record, and (3) pausing decisions that rely on it while accuracy is checked.
+This information is for situational stabilization and does not constitute legal or professional cybersecurity advice. Always follow your specific company's Internal Incident Response Plan (IRP) as the primary authority. Jurisdictional requirements for data breach reporting vary by state and industry.
 
 ## Additional Resources
-- https://www.ftc.gov/business-guidance/resources/what-employment-background-screening-companies-need-know-about-fair-credit-reporting-act
-- https://www.eeoc.gov/laws/guidance/background-checks-what-employers-need-know
 - https://www.dir.ca.gov/dlse/faq_righttoinspectpersonnelfiles.htm
-- https://labor.illinois.gov/faqs/personnel-records-review-faq.html
-- https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter149/section52c
+- https://lni.wa.gov/workers-rights/workplace-policies/payroll-and-personnel-records
+- https://www.consumerfinance.gov/about-us/newsroom/cfpb-addresses-inaccurate-background-check-reports-and-sloppy-credit-file-sharing-practices/
+- https://www.eeoc.gov/prohibited-employment-policiespractices
+- https://www.opm.gov/frequently-asked-questions/personnel-documentation-faq/personnel-documentation/what-should-i-do-if-my-records-are-wrong/

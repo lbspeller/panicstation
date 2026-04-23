@@ -1,89 +1,104 @@
-﻿---
+---
 title: "What to do if… someone sends you a screenshot of your home address and demands you do something right now"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - doxxing threat with address
-  - home address screenshot
-  - blackmail demand now
-  - extortion message
-  - coercion and intimidation
-  - online threat to your home
-  - harassment with personal details
-  - scam urgent payment request
-  - pressure to act immediately
-  - threatened exposure of address
-  - someone knows where i live
-  - cyber blackmail
-  - anonymous threat message
-  - social media threat
-  - text message extortion
-  - email threat with address
-  - fear someone will show up
-  - personal information leak
-  - address leak doxxed
-  - what to do right now
-last_reviewed: "2026-01-17"
+  - "someone sends you a screenshot of your home address"
+  - "screenshot of your home address demands"
+  - "address and demands"
+  - "do something right now"
+  - "home address extortion"
+  - "doxxing threat usa"
+  - "residential address blackmail"
+  - "online threat to home address"
+  - "my address in a screenshot"
+  - "someone sent me my house picture"
+  - "help i am being doxxed"
+  - "help i am being extorted"
+  - "what do i do if someone has my address"
+  - "what do i do if someone threatens my house"
+  - "my address was leaked"
+  - "my private info is being used against me"
+  - "sent me a photo of my home"
+  - "knows where i live threat"
+  - "extortion with address screenshot"
+  - "coercion with personal details"
+  - "address demand scam"
+  - "harassment with address photo"
+  - "digital extortion home safety"
+  - "anonymous address threat"
+  - "cyber blackmail address"
+  - "fear of stranger at my door"
+  - "message with my house location"
+  - "privacy breach immediate threat"
+  - "demanding money with address info"
+  - "forced compliance threat"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… someone sends you a screenshot of your home address and demands you do something right now (USA)
 
 ## Short answer
-Don’t comply and don’t negotiate. Save evidence and treat it as a threat/scam; if you feel in immediate danger, call 911.
+Do not comply with any demands and cease all communication immediately. Secure your physical location and document the threat for law enforcement before blocking the sender.
 
 ## Do not do these things
-- Don’t send money, gift cards, crypto, “verification” codes, photos, or personal documents to make them stop.
-- Don’t click links or install apps they send, even if they say it’s “to prove you’re real.”
-- Don’t share extra details (workplace, family info, travel plans, photos that show your home layout or street signs).
-- Don’t keep the conversation going (it often escalates).
-- Don’t post publicly about it in the moment (it can reveal more details and fuel impersonation or pile-on).
-- Don’t go outside alone to “check” if someone’s there if you feel unsafe—stabilize first.
+- Do not send money, cryptocurrency, gift card codes, or private photos to stop the threat.
+- Do not engage in a "negotiation" or try to explain why you cannot comply.
+- Do not click any links, "proof" documents, or download apps sent by the individual.
+- Do not provide additional personal details like your workplace, family names, or current travel plans.
+- Do not go outside to investigate noises or "check the perimeter" if you feel unsafe.
+- Do not delete the messages until you have captured clear screenshots for evidence.
 
 ## What to do now
-1. **Get to a safer pause (30–60 seconds).**  
-   If you’re home, lock doors and stay inside. If you’re out, move to a populated, staffed place. Keep your phone charged and with you.
+1. **Move to a safer pause and secure your immediate environment.**
+   - Lock all exterior doors and windows if you are at home.
+   - If you are in public, move to a well-lit, populated area with staff or security.
+   - Notify anyone living with you about the situation so they do not open the door to strangers.
 
-2. **Decide if this is an emergency right now.**  
-   **Call 911** if you believe there’s immediate risk (they claim they’re outside/on the way, you’re being followed, threats of violence, or you feel unsafe). If it’s not immediate danger, contact your **local police department non-emergency** line (or your department’s official online reporting if available) to document the threat.
+2. **Assess the need for emergency police intervention.**
+   - **Call 911 immediately** if the sender claims to be at your location, provides a current photo of your house taken today, or threatens specific physical violence.
+   - If there is no evidence of an immediate physical presence, contact your local police department non-emergency line to file a report for extortion.
 
-3. **Preserve evidence before it disappears.**  
-   Screenshot the full conversation and any profile details (username/handle, phone/email, timestamps, payment instructions). Note what they demanded and any deadlines/threat wording.
+3. **Capture and preserve all digital evidence.**
+   - **Screenshot the entire conversation,** including the image of your address and the specific demands made.
+   - Save the sender's profile details, including their username, handle, phone number, or email address.
+   - Do not use "disappearing message" features if the platform offers them.
 
-4. **Stop the live pressure: block and report.**  
-   After saving evidence, use the platform’s **report** function and **block/mute** the sender. If they contact you on new accounts, don’t engage—keep saving and blocking.
+4. **Isolate the threat by blocking and reporting.**
+   - **Use the platform's internal reporting tool** to flag the account for "extortion" or "harassment."
+   - Block the account immediately after reporting; do not send a final "goodbye" or warning message.
 
-5. **If money was demanded or sent, act fast with financial channels.**  
-   Contact your bank/card issuer immediately using the number on your card or official app. If you used a payment app, contact that app’s support right away. Ask about reversing/stopping transfers, securing accounts, and fraud monitoring.
+5. **Contact your financial institutions if money was mentioned.**
+   - **Call the fraud department of your bank** or credit card issuer if you have already sent funds or if they have your banking details.
+   - Monitor your accounts for unauthorized "verification" attempts or password reset requests.
 
-6. **Make a quick account-safety move (only what’s needed right now).**  
-   If you clicked anything or they claim they “hacked you,” change your **email password first**, then enable **two-factor authentication**. Check major accounts for unfamiliar logins/devices and sign out of other sessions.
+6. **Secure your primary communication accounts.**
+   - **Change your email password immediately** and ensure your recovery phone number and backup email are correct.
+   - Check for any "forwarding rules" in your email settings that might be sending your messages to a third party.
+   - Enable app-based Two-Factor Authentication (2FA) rather than SMS-based codes where possible.
 
-7. **Make a small, practical home-safety plan for tonight.**  
-   Tell anyone you live with. Agree not to open the door to unexpected visitors. If someone shows up, **call police** rather than confronting them. If you have a doorbell camera or security system, enable alerts and save any footage.
-
-8. **Report the cyber-enabled extortion/scam through the right intake.**  
-   - File a report with the **FBI’s IC3**. To avoid lookalike sites, type **ic3.gov** directly into your browser rather than clicking ads or sponsored results.  
-   - You can also report scams to the **FTC** via its official fraud reporting site.
+7. **Report the extortion to federal authorities.**
+   - **File a complaint with the FBI’s Internet Crime Complaint Center** at ic3.gov.
+   - If the threat involves the exploitation of a minor, report it to the National Center for Missing / Exploited Children (NCMEC) at report.cybertip.org.
+   - Call 1-800-CALL-FBI (225-5324) for guidance on serious cyber-enabled extortion.
 
 ## What can wait
-- You don’t need to figure out exactly **how they got your address** right now.
-- You don’t need to contact everyone you know or make public posts.
-- You don’t need to do a full privacy “clean-up” tonight.
-- You don’t need to decide whether to pursue a longer investigation—document and stabilize first.
+- You do not need to figure out how they obtained your address; this information is often available via public records or data brokers.
+- You do not need to announce the threat on social media or alert your entire contact list.
+- You do not need to perform a full "digital footprint" cleanup or data broker removal tonight.
+- You do not need to decide whether to press charges or pursue a civil case in the next few minutes.
 
 ## Important reassurance
-This tactic is designed to create panic and force instant compliance. Addresses can be found through many ordinary channels (public records, old accounts, data brokers, leaks), so seeing your address doesn’t automatically mean the person is nearby or capable of harming you. Slowing it down, saving evidence, and bringing in official support is the safest response.
+Seeing your home address in a message is intended to trigger a "fight or flight" response to force quick payment or compliance. In many cases, the sender is operating remotely and using publicly available data to scare you. Taking a safe pause and involving official authorities is the standard procedure for de-escalating this specific type of pressure tactic.
 
 ## Scope note
-These are immediate first steps to reduce harm and regain control. Longer-term actions (privacy removal requests, ongoing case follow-up, workplace/school safety coordination) can happen once you’re out of the urgent moment.
+This guide provides first-step stabilization for an active extortion attempt involving residential information. It does not cover long-term witness protection, identity theft recovery, or professional home security installations.
 
 ## Important note
-This is general information, not legal advice. If you feel unsafe, call 911. If you’re unsure whether it “counts,” you can still report and ask for guidance.
+This information is for safety stabilization and is not legal or professional security advice. If you believe a person is physically at your residence or following you, call 911 immediately.
 
 ## Additional Resources
-- https://www.ic3.gov/
-- https://www.fbi.gov/investigate/cyber
-- https://reportfraud.ftc.gov/
-- https://consumer.ftc.gov/consumer-alerts/2020/04/scam-emails-demand-bitcoin-threaten-blackmail
-- https://www.usa.gov/report-crime
-- https://www.justice.gov/criminal/criminal-ccips/reporting-computer-internet-related-or-intellectual-property-crime
+- https://ovc.ojp.gov/topics/stalking
+- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/
+- https://www.womenslaw.org/about-abuse/abuse-using-technology/ways-survivors-use-and-abusers-misuse-technology/cyberstalking-6
+- https://www.womenslaw.org/about-abuse/abuse-using-technology/evidence-issues-cases-involving-technology/documentingsaving-1
+- https://victimconnect.org/get-help/

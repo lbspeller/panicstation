@@ -1,73 +1,86 @@
-﻿---
+---
 title: "What to do if… your smart lock or keypad shows repeated failed entry attempts while you are inside"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - smart lock failed attempts
-  - keypad wrong code alerts
-  - repeated pin failures
-  - door lock tamper alert
-  - someone trying door code
-  - attempted break in at door
-  - lock keypad beeping repeatedly
-  - smart lock lockout mode
-  - door handle tried outside
-  - doorbell camera motion at door
-  - unknown person at front door
-  - suspicious entry attempts
-  - home alone door security
-  - apartment entry keypad attempts
-  - night time door code tries
-  - smart home security alert
-  - keypad lock keeps flashing
-  - lock app shows attempts
-last_reviewed: "2026-01-11"
+  - "smart lock failed attempts"
+  - "keypad wrong code alerts"
+  - "repeated pin failures"
+  - "door lock tamper alert"
+  - "someone trying door code"
+  - "attempted break in at door"
+  - "lock keypad beeping repeatedly"
+  - "smart lock lockout mode"
+  - "door handle tried outside"
+  - "doorbell camera motion at door"
+  - "unknown person at front door"
+  - "suspicious entry attempts"
+  - "home alone door security"
+  - "flat entry keypad attempts"
+  - "night time door code tries"
+  - "smart home security alert"
+  - "keypad lock keeps flashing"
+  - "lock app shows attempts"
+  - "what do i do if my door keypad is beeping"
+  - "what do i do if someone is guessing my code"
+  - "what do i do if my smart lock is tampered with"
+  - "help i think someone is trying to unlock my door"
+  - "help i see failed attempts on my smart lock"
+  - "help i hear my door code being typed"
+  - "my smart lock is flashing red"
+  - "my lock app says multiple failed tries"
+  - "keypad tamper alarm sounding"
+  - "suspicious activity at front door"
+  - "unauthorised entry attempts"
+  - "tamper alert on phone"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your smart lock or keypad shows repeated failed entry attempts while you are inside (UK)
 
 ## Short answer
-Treat it as a possible attempted break-in until you’re sure it’s not. Move everyone to a safer interior position, secure a room, and call 999 if you think someone is trying to get in or you feel at risk.
+Treat the situation as a potential attempted break-in. Immediately move to a secure interior room away from the door, ensure all other entry points are locked, and call 999 if you believe an intruder is actively trying to gain access.
 
 ## Do not do these things
-- Do not open the door “to check” or argue through it.
-- Do not go outside to investigate, even if it goes quiet.
-- Do not stand in front of glass panels or windows that face the door while you look.
-- Do not disable the lock or unlock it remotely “to reset it”.
-- Do not shout details like “I’m alone” or “I’m calling the police”.
-- Do not share entry codes or confirm who is inside if someone calls/messages claiming they “just need the code”.
-- Do not assume it’s a harmless glitch if the attempts are repeated or timed like guesses.
+- Do not open the door to investigate or confront the person.
+- Do not shout through the door that you are alone or calling the police.
+- Do not stand in direct line-of-sight of the door or any adjacent glass panels.
+- Do not use the app to "unlock and relock" the door to test it.
+- Do not go outside to check the keypad even if the noise or activity stops.
+- Do not ignore the alert as a "glitch" if the attempts are rhythmic or repeated.
+- Do not share or reset codes via the app while the event is ongoing.
 
 ## What to do now
-1. **Get to a safer pause.** Bring children/pets into an interior room (ideally upstairs or away from the entry door). Lock that room if you can. Take your phone and (if safely reachable) your keys.
-2. **Create distance from the entry point.** Quietly lock any internal door between you and the entry door (hall door, stair door, utility door). Stay out of line-of-sight to the door and any nearby windows.
-3. **Check what’s happening without approaching the door.** If you have a doorbell camera, peephole viewer, or indoor camera, use that rather than going to the door. If it’s safe, start recording and save the clip.
-4. **Change the outside “signal” without exposing yourself.** If you can control exterior lights from your phone, turn them on. If you can safely switch on a hall light from where you are, do so (only if it doesn’t put you in view of the door).
-5. **Use your lock’s safety features (only if you can do it calmly).** If your lock/app offers a keypad lockout, “vacation mode”, or temporary keypad disable after failed attempts, enable it. Avoid making multiple changes that could accidentally unlock the door.
-6. **Call for help based on risk.**
-   - **Call 999** if you believe someone is trying to break in, you hear the handle/door being tested, you can see someone at the door, the attempts are continuing, or you feel in danger.
-   - If you call **999** and can’t speak safely, **stay on the line if you can** and follow the operator’s prompts. If you can, **whisper**, **cough**, or **tap** to show it’s real. From a **mobile**, you may be prompted to **press 55 (or tap)** to be put through to the police.
-   - If it has stopped and you’re confident there’s no immediate danger, you can use **101** later for non-emergency reporting/advice.
-7. **If you live in a block or building:** contact building security/concierge (if you have one) and ask them to check communal areas/CCTV **while you stay inside**. If you can quietly contact a trusted neighbour, ask them to stay alert and call police if they see someone at your door.
-8. **Keep key details ready.** Your exact address, which door it is, how many people are inside, what you’re seeing/hearing, and any description from a camera/peephole.
+1. **Move to a secure room immediately.** Relocate yourself and any other occupants (including pets) to a room with a solid door, ideally one away from the main entrance or on an upper floor. 
+2. **Lock the internal door of your safe room.** Keep your mobile phone and a charger with you. Ensure you are out of sight of any windows that face the front of the property or the entry point.
+3. **Verify the status of other entry points.** If it can be done without approaching the main door, ensure back doors and ground-floor windows are fully secured.
+4. **Monitor the situation via digital tools.** Use your doorbell camera, smart lock app, or internal CCTV to see what is happening at the door. Start a screen recording or save the relevant clip if the app allows it.
+5. **Call 999 if the threat is active.** 
+   - **Call 999** if you hear the door handle being tried, see a stranger at the door, or the keypad attempts continue.
+   - **Use the Silent Solution if you cannot speak.** If calling 999 from a mobile and it is unsafe to talk, listen to the operator and press **55** when prompted to be transferred to the police.
+   - **If on a landline**, stay on the line even if you cannot speak; the operator will listen for background noise and connect you to the police if they suspect an emergency.
+6. **Alert building security or trusted contacts.** If you live in a flat with a concierge or on-site security, notify them via phone to check the communal areas. 
+7. **Document the cues for the operator.** Note the exact time of the attempts, any sounds heard (beeping, clicking, handle rattling), and a description of any individuals seen on camera.
+8. **Engage keypad lockout if possible.** If your smart lock app has a "Lockout Mode" or "Disable Keypad" feature that can be activated remotely without unlocking the door, enable it now.
 
 ## What can wait
-- Resetting the lock, changing codes, adding/removing users, or updating firmware.
-- Calling the lock manufacturer or installer.
-- Reviewing long activity logs or trying to identify the person right now.
-- Touching the outside door/handle area if there are signs of tampering (take photos later, once you’re safe).
+- Changing the master PIN or user access codes.
+- Contacting the lock manufacturer's technical support line.
+- Updating the lock firmware or app software.
+- Reviewing historical activity logs from previous days.
+- Physically inspecting the keypad for scuffs or damage.
 
 ## Important reassurance
-It’s reasonable to take this seriously. Smart locks can log failed attempts for innocent reasons, but you don’t have to “prove” it’s real before prioritising your safety.
+It is normal to feel a sudden surge of adrenaline or fear when security alerts trigger. Smart locks provide valuable early warnings, and taking immediate steps to distance yourself from the door is a standard, appropriate safety response.
 
 ## Scope note
-This is first-steps-only guidance to stabilise the situation and avoid risky moves. After you’re safe, you can decide what follow-up (reporting, lock changes, extra security) makes sense.
+This guide provides first-step stabilization for an active security concern. It does not cover long-term cybersecurity hardening or the repair of faulty hardware.
 
 ## Important note
-This is general safety information, not personalised legal or security advice. If you feel at risk or unsure, choose the safer option and contact the police.
+This information is for emergency stabilization and does not constitute legal or professional security advice. Always follow the direct instructions of emergency services operators.
 
 ## Additional Resources
-- https://www.gov.uk/report-crime
-- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/
-- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
-- https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
+- https://refuge.org.uk/i-need-help-now/how-we-can-help-you/secure-your-tech/
+- https://www.ncsc.gov.uk/guidance/smart-devices-in-the-home
+- https://www.met.police.uk/cp/crime-prevention/protect-home-crime/door-security-advice/

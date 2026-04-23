@@ -1,81 +1,82 @@
-﻿---
+---
 title: "What to do if… you develop sudden heavy vaginal bleeding outside your expected period and feel dizzy"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - sudden heavy vaginal bleeding
-  - bleeding outside your period
-  - abnormal vaginal bleeding
-  - intermenstrual bleeding
-  - breakthrough bleeding
-  - flooding bleeding
-  - soaking pads quickly
-  - bleeding through clothes
-  - large blood clots
-  - dizziness and bleeding
-  - lightheaded with bleeding
-  - fainting risk
-  - near fainting
-  - possible pregnancy bleeding
-  - possible miscarriage signs
-  - possible ectopic pregnancy
-  - pelvic pain with bleeding
-  - shoulder tip pain concern
-  - on blood thinners bleeding
-  - after sex bleeding
-  - bleeding not like normal
-last_reviewed: "2026-02-23"
+  - "sudden heavy vaginal bleeding"
+  - "bleeding outside your period"
+  - "abnormal vaginal bleeding"
+  - "intermenstrual bleeding"
+  - "breakthrough bleeding"
+  - "flooding bleeding"
+  - "soaking pads quickly"
+  - "bleeding through clothes"
+  - "large blood clots"
+  - "dizziness and bleeding"
+  - "lightheaded with bleeding"
+  - "fainting risk"
+  - "near fainting"
+  - "possible pregnancy bleeding"
+  - "possible miscarriage signs"
+  - "possible ectopic pregnancy"
+  - "pelvic pain with bleeding"
+  - "shoulder tip pain"
+  - "bleeding on blood thinners"
+  - "bleeding after sex"
+  - "unusual vaginal bleeding"
+  - "what do i do if i am bleeding heavily"
+  - "what do i do if i feel dizzy while bleeding"
+  - "help i have sudden heavy bleeding"
+  - "help i feel faint and am bleeding"
+  - "my bleeding is very heavy"
+  - "my period is too heavy"
+  - "soaking through pads"
+  - "clots larger than a coin"
+  - "vaginal bleeding emergency"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you develop sudden heavy vaginal bleeding outside your expected period and feel dizzy (UK)
 
 ## Short answer
-Treat this as urgent. Lie down and get help now — if you feel faint, the bleeding is heavy, or pregnancy is possible, call **999** or go to **A&E**.
+Lie down immediately and call 999 or go to A&E if you feel faint, have severe pain, or are bleeding heavily enough to soak a pad every hour. Dizziness combined with heavy bleeding requires urgent medical assessment to rule out shock or ectopic pregnancy.
 
 ## Do not do these things
-- Do not **drive yourself** if you feel dizzy or faint — get someone else to take you or call 999.
-- Do not **put anything in the vagina** right now (tampons, menstrual cups, douching) — use a pad so you can track bleeding.
-- Do not **wait it out** if you are lightheaded, short of breath, confused, very weak, or the bleeding is rapidly heavy.
-- Do not take **aspirin** for pain **unless it has been prescribed for you**.
-- Do not take extra doses of any medication (including hormonal medication) to “counteract” this unless a clinician tells you to.
+- Do not **drive yourself** to the hospital — if you feel lightheaded, you are at risk of losing consciousness behind the wheel.
+- Do not **use tampons or menstrual cups** — use a sanitary pad so that you can accurately track the volume of blood loss and check for clots.
+- Do not **wait for your GP surgery to open** if it is currently out of hours — use 111 or 999 based on the severity of your symptoms.
+- Do not **take aspirin** for pain — aspirin can thin the blood and may worsen the bleeding.
+- Do not **ignore shoulder-tip pain** — pain at the very top of your shoulder when lying down is a red-flag sign of internal bleeding in the abdomen.
 
 ## What to do now
-1. **Get into a safer position immediately.**  
-   Sit or lie down. If you feel faint, lie flat and raise your legs on a pillow or chair. Keep your phone within reach.
-2. **Get urgent help (choose the higher level if you’re unsure).**
-   - **Call 999 now** if you fainted, can’t stay upright, feel confused, look very pale, have severe/worsening pelvic or tummy pain, shoulder-tip pain, or you’re bleeding heavily and rapidly.
-   - Otherwise **call NHS 111** for urgent triage and follow their advice. **If you worsen at any point while waiting, call 999.**
-3. **If pregnancy is possible, treat this as an emergency-level concern.**  
-   Even if you’re unsure, unusual bleeding plus dizziness needs **same-day urgent assessment**. If you have pelvic/tummy pain as well, escalate.
-4. **Switch to a pad and note a few “severity markers.”**  
-   Use a sanitary pad (not a tampon). Note:
-   - if you’re needing to change protection **every 1–2 hours**
-   - if you’re bleeding through clothes/bedding
-   - any **large clots**
-   - when it started and whether it’s getting worse  
-   Share these with 999/111/A&E.
-5. **Get someone with you if possible.**  
-   Ask a friend/housemate/relative to stay with you or meet you. Avoid stairs if you feel faint.
-6. **Have key information ready for triage.**  
-   Your age; any chance of pregnancy; recent miscarriage/termination/birth; contraception (including an IUD); current medicines (especially blood thinners); known bleeding disorders; new fever or severe pain.
+1. **Get into a safe position on the floor or a bed immediately.** Sit or lie down to prevent injury from a fall if you faint. If you feel very lightheaded, lie flat on your back and raise your legs on a pillow or the arm of a sofa to help blood flow to your brain.
+2. **Call 999 immediately if you meet emergency criteria.** 
+   - You have fainted or feel you are about to pass out.
+   - You are soaking through a pad every 30 to 60 minutes.
+   - You have severe, sharp, or worsening pain in your lower tummy or one side.
+   - You have pain in the tip of your shoulder.
+   - You look very pale or feel short of breath.
+3. **Call NHS 111 if your symptoms are urgent but not life-threatening.** Use 111 if the bleeding is heavy but you feel stable while lying down, or if you are unsure whether you need A&E. Tell them specifically about the dizziness and any possibility of pregnancy.
+4. **Note the size of any blood clots and the frequency of pad changes.** Check if clots are larger than a 10p coin (approximately 2.5cm). Track how many minutes or hours it takes to soak through a high-absorbency pad.
+5. **Keep yourself warm while waiting for help.** Use a coat or a blanket to cover yourself. If you are experiencing shock, your body temperature may drop.
+6. **Gather your essential medical information if it is safe to do so.** Have a list ready of your current medications (especially blood thinners), any known bleeding disorders, and the date of your last period or any recent pregnancy / birth / miscarriage.
 
 ## What can wait
-- You do not need to figure out the cause right now.
-- You do not need to decide about tests, procedures, or long-term treatment while you feel dizzy.
-- You do not need to tidy up, change clothes repeatedly, or “collect evidence” — just use a pad and seek urgent care.
+- You do not need to determine the exact cause of the bleeding yourself.
+- You do not need to wash stained clothing or bedding right now.
+- You do not need to wait for a positive pregnancy test to treat this as a pregnancy-related emergency if there is any chance you could be pregnant.
 
 ## Important reassurance
-Sudden heavy bleeding can feel frightening, and dizziness is a real warning sign that your body may not be coping well. Getting urgent help is not overreacting — it’s the safest way to rule out serious causes and stop the bleeding if needed.
+It is normal to feel frightened when experiencing sudden blood loss and dizziness. These symptoms are physical signals that your body needs medical support. Taking immediate action by lying down and calling for help is the correct way to manage this situation and prevent it from worsening.
 
 ## Scope note
-This is first-steps-only guidance for the next hour or two. Once you’re safe, clinicians can assess causes (including pregnancy-related causes, medication effects, hormonal issues, fibroids/polyps, infection, or other conditions).
+This guide provides first-step stabilization for acute vaginal bleeding and dizziness. It does not cover long-term management of hormonal imbalances, fibroids, or chronic heavy periods.
 
 ## Important note
-This is general information, not a diagnosis. If you feel you might pass out, have severe pain, or the bleeding is heavy and unusual for you — seek urgent medical care immediately.
+Vaginal bleeding accompanied by dizziness or fainting is a medical priority. If you are alone, leave your front door unlocked for emergency services before lying down. Do not attempt to walk or stand until you have been assessed by a healthcare professional.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/
-- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-go-to-ae/
-- https://www.nhs.uk/conditions/pelvic-inflammatory-disease-pid/
-- https://www.nhsinform.scot/illnesses-and-conditions/pregnancy-and-childbirth/losing-a-baby/early-miscarriage/
-- https://www.therotherhamft.nhs.uk/patients-and-visitors/patient-information/heavy-menstrual-bleeding
+- https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/
+- https://www.nhs.uk/conditions/ectopic-pregnancy/
+- https://www.nhs.uk/conditions/miscarriage/symptoms/
+- https://www.nhs.uk/conditions/periods/period-problems/

@@ -1,94 +1,92 @@
-﻿---
+---
 title: "What to do if… you are told a system error affected recorded hours and you are asked to confirm your attendance"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - timecard error at work
-  - time clock system glitch
-  - recorded hours incorrect
-  - asked to confirm attendance
-  - payroll hours mismatch
-  - missing punch correction
-  - clock in clock out missing
-  - asked to approve timesheet
-  - timekeeping discrepancy
-  - hours worked not recorded
-  - schedule vs timecard mismatch
-  - attendance record wrong
-  - pay short due to hours
-  - confirm you were present
-  - timesheet audit request
-  - time record correction email
-  - employer says system error
-  - dispute over hours worked
-last_reviewed: "2026-01-07"
+  - "what do i do if i have no ppe"
+  - "help i am being forced to work without training"
+  - "told to work without ppe"
+  - "required ppe not provided"
+  - "pressured to do unsafe work"
+  - "asked to work untrained"
+  - "no safety training given"
+  - "unsafe equipment without training"
+  - "boss says just do it"
+  - "fear of retaliation at work"
+  - "report workplace safety hazard"
+  - "refuse dangerous work"
+  - "no respirator provided"
+  - "no fall protection gear"
+  - "chemical task without ppe"
+  - "asked to skip lockout tagout"
+  - "safety complaint confidentiality"
+  - "threatened for speaking up"
+  - "workplace hazard documentation"
+  - "forced to do risky task"
+  - "my boss is making me do something dangerous"
+  - "my employer wont give me safety gear"
+  - "safety gear missing at work"
+  - "untrained on machinery"
+  - "osha 30 day deadline"
+  - "how to report unsafe work"
+  - "work refusal rights osha"
+  - "good faith work refusal"
+  - "imminent danger at work"
+  - "workplace safety training missing"
+  - "ppe fit testing not done"
+  - "wrong size ppe"
+  - "damaged safety equipment"
+  - "retaliation for safety complaint"
+  - "workplace hazard photo"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told a system error affected recorded hours and you are asked to confirm your attendance (USA)
+
 ## Short answer
-Reply in writing that you can help reconcile the time record—but ask for the exact dates/times in question and do not sign or “approve” a timecard you believe is inaccurate.
+Refuse the specific dangerous task in "good faith" and immediately inform your supervisor that you are willing to perform other safe work until the hazard is corrected. If the situation presents an imminent danger of death or serious injury, move to a safe area and contact OSHA.
 
 ## Do not do these things
-- Do not guess at hours or approve a full pay period if you’re unsure about parts of it.
-- Do not ignore the request (it can escalate into payroll or performance issues).
-- Do not sign anything that says your hours are correct if you believe they are not.
-- Do not “fix it” by entering made-up times just to make the system accept the card—submit a clear correction instead.
-- Do not hand over unnecessary personal data (like full phone location history) unless you choose to and it’s truly needed.
-- Do not turn it into a confrontation—keep it factual and document-based.
+- Do not perform the task "just this once" while waiting for gear to arrive.
+- Do not use damaged, modified, or improperly fitting PPE provided as a temporary fix.
+- Do not sign training logs or safety certifications if the training did not occur or was incomplete.
+- Do not walk off the job site entirely; remain available for safe assignments unless ordered to leave.
+- Do not rely on work-issued devices or accounts to store your evidence of the safety hazard.
 
 ## What to do now
-1. **Ask for the details in writing.** Request:
-   - the specific **date range** affected
-   - what system error occurred (time clock, app, badge swipe, scheduling system)
-   - what they want you to confirm (presence, start/stop times, breaks, total hours)
-   - who will correct payroll and by when
-2. **Get a copy of the exact record they want you to approve.** Ask for:
-   - the timecard as it currently shows
-   - any “exceptions” list (missing punches, manager edits/overrides) if available  
-   This reduces the risk of you accidentally agreeing to the wrong version.
-3. **Reconstruct your hours using what you already have.** For affected days, pull:
-   - work schedule/shift postings
-   - calendar entries
-   - email/chat timestamps
-   - task logs (tickets, calls, deliveries, job sheets)
-   - receipts/parking/transit records (only if helpful)
-4. **Write back with a limited, accurate confirmation.** A safe approach is:
-   - confirm the days you attended
-   - provide your best estimate of start/stop times and breaks
-   - clearly mark anything you’re not sure about and ask them to cross-check against their records  
-   Example phrasing: “I can confirm I worked on [dates]. For [date], I worked about [times]. I can’t confirm exact minutes for [date] without system data—please cross-check and I’ll confirm once I see the corrected record.”
-5. **If they want an approval/signature, make it conditional.**
-   - “I can approve once the timecard reflects the hours I worked as listed above.”  
-   If the system allows comments, paste your correction summary into the comment field and save a screenshot for your records.
-6. **If pay is involved, ask the specific fix path.** Ask:
-   - whether this will affect your next paycheck
-   - whether they will issue an adjustment (off-cycle or next pay period)
-   - when you’ll get a corrected pay statement and updated time record
-7. **Save your documentation.** Keep:
-   - the original request
-   - your written response and any attachments
-   - screenshots/copies of the timecard before and after correction
-8. **If it doesn’t get corrected and you’re shorted pay, know the escalation options (but don’t rush there).**
-   - You can contact the U.S. Department of Labor Wage and Hour Division (WHD) to ask about filing a complaint.
-   - Depending on your state and the situation, your **state labor agency** may also handle wage claims.
+1. **Initiate a good faith refusal of the specific task.** Stop the activity immediately if you reasonably believe it poses a real danger of death or serious injury.
+2. **State your refusal clearly and professionally to your supervisor.** Use a direct statement: "I am refusing this specific task because I lack the required PPE and training to do it safely. I am ready and available to perform any other safe work you assign me."
+3. **Ask for the specific safety requirements in writing.** Request the Safety Data Sheet (SDS), the written safety program for that task, or the specific OSHA standard that applies to the equipment you are being asked to use.
+4. **Request immediate reassignment to a safe area.** This demonstrates that you are not "quitting" or being insubordinate, but are protecting your physical safety while remaining a productive employee.
+5. **Document the hazard and the conversation immediately.** Keep a personal log off-site that includes:
+   - The date, time, and specific location.
+   - The names of supervisors or managers involved.
+   - A detailed description of the missing PPE (e.g., "no respirator provided for chemical mixing") or missing training.
+   - Photos of the hazard or the lack of equipment if it is safe to do so.
+6. **Send a written follow-up to management.** Use a personal email or text to summarize the interaction: "As we discussed at 10:00 AM, I have paused work on [Task] due to a lack of [PPE/Training]. I am currently performing [Alternative Task] and am ready to resume the original task once the safety requirements are met."
+7. **Contact OSHA if the hazard is not corrected.** If your employer insists you perform the work without protection, you can file a complaint.
+   - Call 1-800-321-OSHA (6742) for immediate hazards or imminent danger.
+   - Use the OSHA Online Whistleblower Complaint Form for retaliation issues.
+8. **File a formal retaliation complaint within 30 days.** If you are fired, demoted, or threatened after refusing unsafe work, you must act quickly.
+   - The OSH Act Section 11(c) has a strict 30-day filing deadline from the date the retaliation occurred.
+   - Note that some state-run OSHA plans may have different (sometimes longer) deadlines, but the federal 30-day window is the safest threshold to follow.
 
 ## What can wait
-- You do **not** have to decide right now whether to file a complaint—first try to get the record corrected.
-- You do **not** need perfect evidence for every minute today—start with a good-faith reconstruction and ask for the employer’s data.
-- You do **not** need to make big job decisions while the facts are still being fixed.
+- You do not need to decide if you are quitting your job in the heat of the moment.
+- You do not need to have the specific OSHA regulation number memorized to justify a safety pause.
+- You do not need a lawyer present to report a hazard to a supervisor or to OSHA.
 
 ## Important reassurance
-It’s common for timekeeping systems to have outages or missing punches. Asking for the exact affected dates and confirming only what you truly know is normal and reasonable. In the U.S., many wage-and-hour laws also prohibit retaliation for asking about pay/hours or asserting wage rights.
+It is normal to feel significant anxiety when defying a supervisor's direct order. However, the right to a safe workplace is a federal law, and "good faith" refusal is a recognized protection when a reasonable person would agree that the situation is dangerous. Taking a pause to ensure you are protected is a professional safety action, not an act of rebellion.
 
 ## Scope note
-This is first-step guidance to stabilize the situation and prevent accidental admissions or payroll errors. If it becomes a repeated pattern or a pay dispute, you may need role- and state-specific advice.
+This guide covers first-step stabilization for immediate workplace safety conflicts. It does not replace the specific safety protocols of specialized industries (such as nuclear, maritime, or mining) which may have additional regulatory bodies like MSHA or the Coast Guard.
 
 ## Important note
-This is general information, not legal advice. U.S. wage-and-hour rules can vary by worker classification and state. When you’re unsure, keep everything in writing and avoid approving inaccurate hours.
+This information is for general guidance and does not constitute legal advice. Workplace safety laws and the "right to refuse" are subject to specific criteria, including the "reasonable person" standard and the urgency of the hazard. If you are in immediate physical danger, prioritize your life and exit the hazard zone before taking further steps.
 
 ## Additional Resources
-- https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping
 - https://www.dol.gov/general/topic/workhours/hoursrecordkeeping
+- https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping
+- https://www.dol.gov/agencies/whd/compliance-assistance/handy-reference-guide-flsa
 - https://www.dol.gov/agencies/whd/contact/complaints
-- https://www.worker.gov/actions-whd-claim/
-- https://www.dol.gov/agencies/whd/retaliation
+- https://beta.dol.gov/contact-us/file-complaint/pay-overtime-and-leave

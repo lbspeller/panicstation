@@ -1,81 +1,102 @@
-﻿---
+---
 title: "What to do if… you discover hail or wind damage to windows or roof that could worsen in the next storm"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - hail damage to windows
-  - wind damage to roof
-  - broken window storm damage
-  - cracked window from hail
-  - missing shingles after wind
-  - roof leak after storm
-  - tarp roof temporary cover
-  - board up broken window
-  - prevent water intrusion
-  - storm damage discovered later
-  - document damage for insurance
-  - emergency home repairs
-  - downed power line nearby
-  - gas leak after storm
-  - next storm coming soon
-  - protect home from further damage
-  - home damage safety check
-  - what to do after severe weather
-  - sudden property damage panic
-last_reviewed: "2026-03-04"
+  - "hail damage to windows"
+  - "wind damage to roof"
+  - "broken window storm damage"
+  - "cracked window from hail"
+  - "missing shingles after wind"
+  - "roof leak after storm"
+  - "tarp roof temporary cover"
+  - "board up broken window"
+  - "prevent water intrusion"
+  - "storm damage discovered later"
+  - "home damage safety check"
+  - "what to do after severe weather"
+  - "sudden property damage panic"
+  - "emergency window repair"
+  - "storm damaged roofing"
+  - "shingle damage from wind"
+  - "water leaking through ceiling"
+  - "temporary window boarding"
+  - "prevent further property damage"
+  - "hailstones broke window"
+  - "wind blew off shingles"
+  - "help i have a roof leak"
+  - "my window is broken from storm"
+  - "what do i do if my roof is leaking"
+  - "what do i do if my window is shattered"
+  - "falling debris safety"
+  - "sagging ceiling after rain"
+  - "water near electrical outlet"
+  - "smell of gas after storm"
+  - "storm damage documentation"
+  - "exposed nails after storm"
+  - "shattered glass on floor"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you discover hail or wind damage to windows or roof that could worsen in the next storm (USA)
 
 ## Short answer
-Make it safe, then prevent more water/wind intrusion with a basic temporary cover (no risky roof climbing) and start the insurance documentation/claim process immediately.
+Isolate the damaged area to prevent injury, then seal openings from the interior using plywood or heavy plastic sheeting without climbing on the roof.
 
 ## Do not do these things
-- Don’t go on the roof in bad weather, at night, or if you’re not trained/equipped — falls are a common serious injury after storms.
-- Don’t touch downed power lines or anything contacting them.
-- Don’t use a generator, grill, or other fuel-burning device inside the home/garage (or near open doors/windows/vents). Keep generators **outside and well away** from the home.
-- Don’t run fans into a damaged attic/roof area if you suspect electrical damage or you smell gas.
-- Don’t delay covering an opening if rain is expected — “secondary damage” can get much worse fast.
+- Do not go onto the roof during active weather, at night, or without professional safety equipment.
+- Do not touch downed power lines or any debris (trees, fences) that is in contact with them.
+- Do not use matches, lighters, or any electrical switches if you smell gas or suspect a utility leak.
+- Do not use a portable generator, grill, or camp stove inside the home, garage, or closer than 20 feet from any window, door, or vent.
+- Do not delay sealing interior openings if rain is forecasted, as secondary water damage can rapidly escalate.
+- Do not attempt to turn gas back on yourself if it has been shut off; this must be done by a professional.
 
 ## What to do now
-1. **Keep people safe and do a quick hazard scan.**  
-   Keep kids/pets out of the damaged area. Look for: broken glass, exposed nails, ceiling sagging, water near outlets/lights, or the smell of gas.
-2. **If there’s immediate danger, call for help.**  
-   - If you see downed power lines: stay far back and call **911** (and your utility if you can do so safely).  
-   - If you suspect a gas leak: leave the area/building and call your gas utility or **911**.
-3. **Stop water and wind getting in (lowest-risk temporary steps).**  
-   - **Windows:** wear shoes/gloves/eye protection; remove only loose glass that’s an immediate hazard; then **board up** with plywood or cover with heavy plastic from the inside and secure it tightly.  
-   - **Roof leaks:** place buckets and towels; move valuables; if safe, catch drips from inside/attic without stepping where you can’t see joists. If water is near electrical fixtures, avoid the area and consider shutting off power to the affected circuit at the breaker **only if you can do so safely**.
-4. **Document everything before and after you cover it.**  
-   Take photos/video of every damaged area (wide shots + close-ups), plus your temporary covering and any interior water damage.
-5. **Contact your homeowners/renters insurance right away.**  
-   Tell them you’ve taken reasonable steps to prevent further damage and ask what they want next (adjuster visit, preferred contractors, documentation).
-6. **Save receipts and keep a simple log.**  
-   Keep receipts for tarps, plywood, fasteners, plastic sheeting, fans/dehumidifiers, and any emergency labor. Note dates/times and what you did to prevent further damage.
-7. **If this is part of a declared disaster, check for official temporary-roof help (optional).**  
-   In some federally declared disasters, the U.S. Army Corps of Engineers may run **Operation Blue Roof** (free temporary roof sheeting for some eligible homes). This is **not always active**—it depends on the specific event and state request/assignment—so verify for your area and disaster.
-8. **Get a qualified inspection scheduled, not DIY fixes.**  
-   Ask for a licensed/insured roofer or window/glass contractor to do a storm-damage inspection and provide a written scope. If you rent, notify your landlord/property manager immediately with photos.
+1. **Evacuate the immediate area and perform a hazard scan.**  
+   **Keep all occupants and pets away from rooms with shattered glass, sagging ceilings, or exposed structural elements.**  
+   - Look for sensory cues: the smell of natural gas (rotten eggs), the sound of HISsing, or sparking at electrical outlets.  
+   - Check for water dripping into light fixtures or pooling near electrical appliances.
+2. **Contact emergency services or utilities for immediate threats.**  
+   **If you see downed power lines or suspect a gas leak, leave the building immediately and call 911.**  
+   - Contact your utility provider once you are in a safe location to report the specific hazard.
+3. **Wear protective gear before handling any debris.**  
+   **Put on thick-soled shoes, cut-resistant work gloves, and eye protection before attempting any stabilization.**  
+   - This prevents injuries from hidden nails, jagged glass shards, or splintered wood.
+4. **Seal window openings from the inside.**  
+   **Use plywood or heavy-duty plastic sheeting to cover broken panes from the interior of the home.**  
+   - Clear only loose, hanging glass shards that pose an immediate falling hazard.  
+   - Secure the covering tightly with duct tape or nails to prevent wind from catching the edges.
+5. **Manage interior water intrusion safely.**  
+   **Place buckets or waterproof containers under active ceiling drips and move furniture or electronics away from the path of water.**  
+   - If water is entering through an attic, only enter the space if you can safely walk on joists; do not step on insulation or drywall.  
+   - Shut off the power at the main breaker only if you can reach the panel without walking through standing water.
+6. **Take photos of the damage before making any changes.**  
+   **Capture clear images of the exterior damage (from ground level) and all interior water spots or debris.**  
+   - Document the temporary measures you have taken (tarps/boards) to show the insurance adjuster that you attempted to mitigate further loss.
+7. **Notify your insurance provider and landlord immediately.**  
+   **Report the date and time the damage was discovered and provide a preliminary list of affected areas.**  
+   - Ask for a claim number and confirm if they require a specific licensed contractor for the inspection.
+8. **Check for "Operation Blue Roof" eligibility if in a declared disaster zone.**  
+   **Verify if the U.S. Army Corps of Engineers has activated free temporary roofing services in your specific county.**  
+   - Note that this program typically requires the home to be a primary residence with less than 50% structural damage and a standard shingle roof.
 
 ## What can wait
-- You don’t need to choose permanent materials or sign a full repair contract right now — stabilization comes first.
-- You don’t need perfect cleanup immediately; prioritise preventing intrusion and keeping walkways free of glass.
-- You don’t need to resolve “who pays” today (insurer vs landlord vs disaster aid). Start documentation, report promptly, and keep records.
+- Selecting permanent replacement materials (shingle color, window brand).
+- Finalizing a full repair contract with a roofing or glass company.
+- Resolving the final insurance settlement amount or liability disputes.
+- Full cleaning of minor debris that does not block paths or pose a safety risk.
 
 ## Important reassurance
-It’s normal to feel a spike of panic when you realize the next storm could make this worse. The best early actions are the safest ones: secure the opening, document it clearly, and hand off the dangerous work to pros.
+It is common to feel overwhelmed when faced with property damage and an incoming storm. Taking safe, temporary steps from the ground or inside the house is the most effective way to prevent the situation from worsening without risking your physical safety.
 
 ## Scope note
-This is first-step guidance to reduce immediate risk and prevent rapid worsening. Permanent repairs, mold/drying plans, and claim disputes may require licensed contractors and formal advice.
+This guide provides first-step stabilization and harm-reduction actions only. Permanent structural repairs, electrical system assessments, and mold remediation require certified professionals and long-term planning.
 
 ## Important note
-This is general information, not legal, insurance, or professional construction advice. If you’re unsure about structural stability, electrical hazards, gas leaks, or safe access, treat it as unsafe and use emergency services/utility providers/qualified professionals.
+This information is for general guidance and does not constitute legal, insurance, or professional construction advice. Always prioritize physical safety over property preservation. If structural stability is in doubt, do not enter the building until it is cleared by local officials or a qualified engineer.
 
 ## Additional Resources
-- https://www.weather.gov/ffc/afterstorm
-- https://www.ready.gov/recovering-disaster
-- https://www.fema.gov/ht/node/694490
-- https://www.fema.gov/node/what-home-repairs-are-covered-fema-and-which-are-not
-- https://www.usace.army.mil/Missions/Emergency-Operations/Blue-Roof-Info/
-- https://www.noaa.gov/use-caution-after-storms
-- https://www.cdc.gov/natural-disasters/psa-toolkit/avoiding-carbon-monoxide-poisoning.html
+- https://www.tdi.texas.gov/tips/after-hail-or-windstorms.html
+- https://www.tdi.texas.gov/consumer/storms/recoverytips.html
+- https://www.sba.gov/funding-programs/disaster-assistance/physical-damage-loans
+- https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/res-ins-guide.cfm
+- https://www.tdi.texas.gov/tips/replacing-your-roof.html

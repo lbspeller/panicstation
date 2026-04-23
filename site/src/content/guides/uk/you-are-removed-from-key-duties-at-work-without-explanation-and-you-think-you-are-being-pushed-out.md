@@ -1,89 +1,95 @@
-﻿---
+---
 title: "What to do if… you are removed from key duties at work without explanation and you think you are being pushed out"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - removed from key duties
-  - stripped of responsibilities
-  - sidelined at work suddenly
-  - work duties taken away
-  - responsibilities reassigned to others
-  - excluded from meetings at work
-  - access removed at work
-  - manager freezing you out
-  - being pushed out of job
-  - being managed out
-  - quiet firing at work
-  - informal demotion feeling
-  - role hollowed out
-  - job scope reduced suddenly
-  - duties reduced without explanation
-  - ignored by manager at work
-  - left without meaningful work
-  - work responsibilities changed
-  - worried they want me to leave
-last_reviewed: "2026-01-07"
+  - "role review at work"
+  - "business reviewing roles"
+  - "asked for updated cv"
+  - "cv update request"
+  - "job at risk conversation"
+  - "possible redundancy signs"
+  - "restructure rumours"
+  - "consultation meeting"
+  - "selection criteria scoring"
+  - "selection pool redundancy"
+  - "redeployment discussion"
+  - "suitable alternative employment"
+  - "change of role proposal"
+  - "reduced headcount risk"
+  - "hr asked for cv"
+  - "role mapping exercise"
+  - "pregnant and redundancy risk"
+  - "maternity leave redundancy protection"
+  - "what do i do if my role is being reviewed"
+  - "what do i do if they ask for my cv"
+  - "what do i do if i am at risk of redundancy"
+  - "what do i do if the company is restructuring"
+  - "help i am at risk of redundancy"
+  - "help i have a consultation meeting"
+  - "help my job is being reviewed"
+  - "help they asked for a cv update"
+  - "smell of redundancy"
+  - "notice of restructure"
+  - "meeting about job security"
+  - "workplace reorganization"
+  - "internal recruitment process"
+  - "redundancy selection pool"
+  - "employment rights 2026"
+  - "redundancy priority status"
+  - "at risk notification"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are removed from key duties at work without explanation and you think you are being pushed out (UK)
 
 ## Short answer
-Do not resign or fire off angry messages. Get the change confirmed in writing, start a factual timeline, and use your employer’s grievance route (and/or your union) to force clarity while protecting your position.
+Request formal confirmation of the review's purpose in writing and clarify exactly how your CV will be used before submitting it. Avoid making immediate decisions about your future employment or signing any documents during the initial notification.
 
 ## Do not do these things
-- Do not resign “to make a point” or out of panic — it can reduce your options and income.
-- Do not send accusatory emails (“you’re pushing me out”, “this is illegal”) — keep messages neutral and factual.
-- Do not sign anything presented as a “role change” or “variation” on the spot; ask for time to review.
-- Do not remove confidential company/client data to “prove it”.
-- Do not rely on verbal assurances only — you need written confirmation of what has changed and what’s expected now.
-- Do not let weeks pass without creating a clear record of what changed and when.
+- Do not resign or offer to leave to "beat the process" as this may forfeit your right to redundancy pay.
+- Do not sign any new contracts, "voluntary" exit papers, or settlement agreements during the first meeting.
+- Do not submit a CV that contradicts your official job description or previously recorded performance data.
+- Do not use company communication channels (Slack / Teams / Email) to express anger or distress.
+- Do not delete work files or wipe personal data from company devices.
+- Do not assume a CV request means you have already been selected for redundancy.
 
 ## What to do now
-1. **Start a factual timeline (today).**  
-   Note dates/times of: duties removed, meetings you were dropped from, access removed, who told you, what was said, and any witnesses. Keep it objective.
-
-2. **Ask for written clarity on your current role (today or next working day).**  
-   Send one calm email to your manager: “Please confirm which responsibilities have moved off my role, what my priorities are now, and how my performance will be assessed going forward.”  
-   If it was said verbally, add: “My understanding from our conversation is… please correct anything I’ve misunderstood.”
-
-3. **Collect your permitted personal records (today).**  
-   Save copies (where you’re allowed) of your contract/offer letter, job description, objectives, performance reviews, and recent written feedback. Keep this within policy: personal employment documents are different from taking confidential business/client materials.
-
-4. **Check whether this is a contract/role change you agree with.**  
-   If key duties have been removed and your role is materially different, treat it as a potential contract change issue. Ask for any updated job description, reporting line, objectives, and whether pay/grade/title are changing.
-
-5. **If you do not agree, say so in writing without refusing work.**  
-   Keep it practical: “I’m concerned these changes significantly alter my role. I’m willing to work while we resolve this, but I’m not agreeing to a permanent change without discussion.”  
-   If appropriate, you can state you are **working under protest** so it’s clear you are not accepting the change as final.
-
-6. **Use the grievance route if you cannot get a clear explanation quickly.**  
-   If informal discussion goes nowhere, submit a **formal grievance** asking for: (a) why duties were removed, (b) current expectations/objectives, (c) whether there are performance concerns, and (d) what process will be followed going forward. Keep it factual and specific.
-
-7. **Bring support to formal meetings.**  
-   If you have a union, contact your rep early and ask them to attend. For many grievance meetings about an employer breaching a legal or contractual duty, you may have the **right to be accompanied** by a trade union representative or a work colleague. If you’re unsure, ask in writing what accompaniment is allowed for your meeting.
-
-8. **If things escalate, protect key deadlines.**  
-   Employment tribunal time limits can be very short. For many claims the limit is **often around 3 months minus 1 day** from the act you’re complaining about (some claims have different limits). For most claims you usually need to **notify Acas and start Early Conciliation** before you can make a tribunal claim, but there are exemptions. If you think you might need this route, note dates now so you do not lose options by accident.
+1. **Send a written request for clarity regarding the review process.** Email the manager or HR representative who made the request to establish a paper trail.
+   - Ask for the formal name of the process (e.g., "Redundancy Consultation" or "Business Restructure").
+   - Inquire if you are currently considered "at risk" of redundancy.
+   - Ask for the specific deadline for the CV and who will be reviewing it.
+2. **Request the current and proposed "Role Profiles" or Job Descriptions.** This allows you to see if your current skills are being "mapped" to new roles or if you are being measured against new criteria.
+3. **Clarify the selection criteria if the review involves a reduction in headcount.** If multiple people do the same role, ask:
+   - What is the "selection pool" (who else is being considered)?
+   - What objective criteria (e.g., skills, performance, length of service) will be used for scoring?
+4. **Identify if you have "Priority Protection" and notify HR in writing.** Under UK law (extended in 2024), certain employees have a legal right to be offered suitable alternative vacancies ahead of others.
+   - This applies if you are pregnant (from the moment you notify them).
+   - This applies if you are on maternity, adoption, or shared parental leave.
+   - This applies for 18 months from the date of the child's birth or placement.
+5. **Update your CV to reflect your actual duties and achievements.** Ensure the content aligns with your known performance reviews and internal data to avoid discrepancies during selection scoring.
+6. **Request a formal meeting to discuss the "Meaningful Consultation" phase.** UK law requires employers to consult with you to explore ways to avoid redundancy.
+   - Ask what alternatives to redundancy are being considered (e.g., job sharing, reduced hours, or redeployment).
+   - Keep a private log of all conversations, including dates, times, and names of those present.
+7. **Ask for at least 10 days to consider any settlement offer.** If a "Settlement Agreement" or "Mutual Termination" is mentioned, note that the ACAS Code recommends a minimum of 10 calendar days to review the terms and seek independent legal advice.
 
 ## What can wait
-- You do not need to decide today whether to quit, negotiate a settlement, or take formal legal action.
-- You do not need to prove anyone’s motive right now — focus on documenting what changed and what you’re being asked to do.
-- You do not need a perfect grievance letter today; a short factual grievance that pins down the issue is enough.
-- You do not need to confront colleagues or “campaign” internally — keep your circle small and calm for now.
+- You do not need to decide whether to apply for voluntary redundancy immediately.
+- You do not need to accept a "suitable alternative" role until you have reviewed the full terms and conditions.
+- You do not need to provide a final version of your CV within the first hour of being asked.
+- You do not need to hire a lawyer for the initial fact-finding meetings.
 
 ## Important reassurance
-Being stripped of duties can feel humiliating and frightening — it’s common to freeze or to want to do something dramatic. The stabilising move is the opposite: slow down, keep it factual, and create a written record that makes quiet changes harder to deny later.
+A request for a CV is often a standard procedural step used to "map" existing employees into a new structure or to satisfy fair selection requirements. It does not necessarily mean your dismissal is a foregone conclusion. Taking 24 to 48 hours to gather information in writing is a standard professional response and does not indicate a lack of cooperation.
 
 ## Scope note
-These are first steps only, aimed at stabilising the situation and preventing irreversible mistakes. Next steps (formal claims, settlement talks, leaving) depend on your contract, length of service, and what’s driving the change.
+This guide provides first-step stabilization for the initial 72 hours of a role review. It does not cover the full statutory redundancy process, calculation of payments, or Employment Tribunal procedures which require specialized advice if the situation escalates.
 
 ## Important note
-This is general information, not legal advice. Employment situations vary by contract, sector, and the facts. If you think you’re at risk of dismissal, discrimination, or retaliation, consider getting independent advice promptly.
+This information is for general guidance regarding UK employment norms and statutory rights as of 2026. It is not legal advice. Specific contractual terms or union agreements may alter the procedures your employer must follow. If you are pressured to sign documents or believe you are being targeted unfairly, contact ACAS or a qualified legal professional.
 
 ## Additional Resources
-- https://www.gov.uk/your-employment-contract-how-it-can-be-changed
-- https://www.gov.uk/your-employment-contract-how-it-can-be-changed/dealing-with-problems
-- https://www.acas.org.uk/grievance-procedure-step-by-step
-- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
-- https://www.acas.org.uk/early-conciliation/how-early-conciliation-works
-- https://www.acas.org.uk/employment-tribunal-time-limits
+- https://www.citizensadvice.org.uk/work/changes-to-employment-contracts-overview/
+- https://www.citizensadvice.org.uk/work/grievance-meetings/dealing-with-grievances-at-work/
+- https://www.acas.org.uk/dismissals/constructive-dismissal
+- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees/consulting-on-changes-to-your-employment-contract
+- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures/html

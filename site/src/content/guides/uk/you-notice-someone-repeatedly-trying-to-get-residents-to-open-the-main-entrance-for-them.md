@@ -1,71 +1,85 @@
-﻿---
+---
 title: "What to do if… you notice someone repeatedly trying to get residents to open the main entrance for them"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - someone buzzing multiple flats
-  - repeated buzzing main entrance
-  - stranger trying to get in
-  - unknown person at communal door
-  - tailgating into block of flats
-  - piggybacking through secure entrance
-  - being asked to let someone in
-  - intercom scam in apartment block
-  - delivery claim at main door
-  - pretending to be a resident
-  - pretending to be a courier
-  - building entrance safety
-  - communal entry door security
-  - shared lobby suspicious person
-  - letting in someone you dont know
-  - door entry system concern
-  - residents being pressured to buzz in
-  - someone hanging around entrance
-  - suspicious person in communal area
-last_reviewed: "2026-01-17"
+  - "someone buzzing multiple flats"
+  - "repeated buzzing main entrance"
+  - "stranger trying to get in"
+  - "unknown person at communal door"
+  - "tailgating into block of flats"
+  - "piggybacking through secure entrance"
+  - "being asked to let someone in"
+  - "unknown person at lobby"
+  - "delivery claim at main door"
+  - "someone hanging around entrance"
+  - "residents being pressured to buzz in"
+  - "communal entry door security"
+  - "door entry system concern"
+  - "shared lobby person acting unusually"
+  - "what do i do if someone is buzzing my flat"
+  - "what do i do if a stranger wants to come in"
+  - "what do i do if someone follows me into my building"
+  - "what do i do if someone is hanging around the entrance"
+  - "help i think someone is trying to get into my block"
+  - "help i saw someone trying all the buzzers"
+  - "help i am being followed into my building"
+  - "help i dont know the person at the door"
+  - "my buzzer is going off repeatedly"
+  - "my building entrance is not secure"
+  - "my lobby has a stranger in it"
+  - "my neighbor let a stranger in"
+  - "smell of smoke in communal hallway"
+  - "visible person checking door handles"
+  - "sound of door being forced"
+  - "buzzing multiple flats at once"
+  - "someone loitering at the gate"
+  - "someone pretending to be a resident"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you notice someone repeatedly trying to get residents to open the main entrance for them (UK)
 
 ## Short answer
-Don’t let them in. Get yourself somewhere secure, then alert building management/concierge right away and contact police if you think anyone is at immediate risk.
+Do not grant access or open the door. Secure yourself inside your own flat and contact building management or the police immediately if you believe there is a risk of unauthorized entry.
 
 ## Do not do these things
-- Don’t “just buzz them in” to be polite, even if they claim they live there or are delivering something.
-- Don’t go down to challenge them face-to-face or try to physically block them.
-- Don’t follow them if they walk away, or try to “keep them there”.
-- Don’t hold the door open for anyone you don’t recognise in a controlled-entry building.
-- Don’t share entry codes, fob access, or routines (e.g., “someone will open in a minute”).
+- Don't buzz anyone in out of politeness or because they claim to be a resident or courier.
+- Don't go down to the entrance to confront, challenge, or block the person.
+- Don't hold the door open for anyone you do not recognize as a resident.
+- Don't follow the person if they leave the entrance area.
+- Don't share entry codes, key fobs, or building access routines with strangers.
 
 ## What to do now
-1. **Move to a safer pause and secure your own door.** If you’re in a hallway/lobby, go back into your flat (or another secure area) and lock your door before doing anything else.
-2. **Do not grant entry.** If they buzz your flat, don’t respond unless you can confirm who they are. If you do speak, keep it brief: “I can’t let you in—please contact the person you’re visiting / building management.”
-3. **Alert the on-site contact immediately.**
-   - If you have a **concierge/security**, contact them right away (phone/intercom).
-   - If not, contact your **managing agent/building manager/landlord/housing association** (whichever applies) and report that someone is repeatedly trying to be let in.
-4. **If you feel unsafe or it’s escalating, contact police.**
-   - **Call 999** if you believe someone is trying to force entry, is threatening anyone, is inside the building and you feel at risk, or a crime appears in progress.
-   - Otherwise, use **101** for non-emergencies, or your **local police force’s online reporting** option (how to report online varies by area).
-5. **Write down a few details while it’s fresh (without putting yourself at risk).** Time, exact entrance, what they said (e.g., “delivery”, “lost key”), and a basic description (clothes, approximate age/height). If there’s CCTV, this helps management/police identify the relevant footage.
-6. **Flag any door/entry-system problem as urgent—but don’t put yourself back in danger to “check.”** If you already noticed the door not latching, being propped, or the entry system failing, report it to management immediately. Only test the latch/closure later if the area is clear and you can do so without returning to risk.
+1. **Move to a secure area and lock your own door.** If you are in a communal hallway, lobby, or lift, return to your flat or a secure room immediately.
+2. **Refuse entry through the intercom.** If the person buzzes your specific flat, do not respond unless you are expecting a visitor you can verify. 
+   - If you do speak, state clearly that you cannot let them in and they must contact the person they are visiting or management.
+3. **Notify the on-site security or concierge immediately.**
+   - Use the internal phone or intercom system to report the behavior to the building staff.
+4. **Contact the police if the situation escalates or you feel at risk.**
+   - **Call 999** if the person is attempting to force the door, making threats, or has successfully entered and is acting aggressively.
+   - Use **101** or the local police force's online reporting tool for non-emergency reports of suspicious behavior.
+5. **Note observable details without putting yourself in danger.** Record the time, the specific entrance involved, and a basic description of the person (clothing, height, and what they said).
+6. **Report any observed faults with the entry system to the housing provider.** 
+   - Contact your landlord, Housing Association, or managing agent to report doors that do not latch or electronic systems that are being bypassed.
+   - Do not return to the entrance to check the equipment yourself while the person is still in the vicinity.
 
 ## What can wait
-- You do **not** need to decide right now whether to make a formal complaint, push for upgrades, or speak to neighbours in detail.
-- You do **not** need to investigate who they are, search social media, or try to gather proof yourself.
-- Building-wide fixes (door closers, access control changes, resident reminders) can be handled after the immediate situation is stable.
+- You do not need to identify the person or confirm their identity right now.
+- You do not need to discuss the incident with neighbors or on community message boards immediately.
+- You do not need to decide on long-term security upgrades or management complaints while the situation is active.
 
 ## Important reassurance
-It’s common to feel awkward about not “helping” at the door. In a controlled-entry building, refusing entry to unknown people is a normal, safety-first choice that protects everyone.
+It is normal to feel hesitant or awkward when refusing entry to someone who appears to be in a rush or claims to have a reason to enter. In a shared building, maintaining the security of the communal entrance is a standard safety measure that protects all residents.
 
 ## Scope note
-This is first-steps guidance for the moment you notice repeated attempts to get residents to open the main entrance. If this becomes a repeated pattern, follow up with management about repairs and security measures.
+This is first-step guidance only for addressing unauthorized entry attempts in a communal building. Long-term security concerns should be directed to your building’s management or local Designing Out Crime Officer (DOCO).
 
 ## Important note
-This is general information, not legal advice. If you think someone is in immediate danger or a crime is happening now, call 999.
+This guide is for general information and does not constitute legal or professional safety advice. If you believe a crime is in progress or life is at risk, call 999 immediately.
 
 ## Additional Resources
-- https://www.gov.uk/contact-police
-- https://www.gov.uk/report-crime
-- https://www.police.uk/cp/crime-prevention/protect-home-crime/how-safe-is-your-flat/
-- https://www.met.police.uk/cp/crime-prevention/protect-home-crime/how-safe-is-your-flat/
-- https://www.securedbydesign.com/about-us/news/securing-building-entrances
+- https://www.gov.uk/how-report-antisocial-behaviour
+- https://www.wealden.gov.uk/housing/council-housing/im-an-existing-tenant/right-to-buy-leaseholder-handbook/
+- https://www.met.police.uk/cp/crime-prevention/protect-home-crime/door-security-advice/
+- https://www.met.police.uk/advice/advice-and-information/asb/asb/antisocial-behaviour/annoying-phone-calls-or-unwanted-visits/
+- https://www.citizensadvice.org.uk/housing/problems-with-neighbours/complaining-about-your-neighbour/

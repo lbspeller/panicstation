@@ -1,80 +1,88 @@
-﻿---
+---
 title: "What to do if… you are waiting for a rideshare and a different car stops and tells you it’s for you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - rideshare pickup safety
-  - wrong car at pickup
-  - car says it’s for you
-  - stranger car stops for you
-  - fake rideshare driver
-  - bogus minicab
-  - unbooked minicab risk
-  - verify number plate
-  - check driver photo
-  - check make model colour
-  - waiting outside at night
-  - solo traveller pickup
-  - uber wrong car
-  - lyft wrong car
-  - taxi vs private hire
-  - street pickup confusion
-  - personal safety quick steps
-  - trust your gut
-last_reviewed: "2026-01-17"
+  - "rideshare pickup safety"
+  - "wrong car at pickup"
+  - "car says it is for you"
+  - "stranger car stops for you"
+  - "fake rideshare driver"
+  - "bogus minicab"
+  - "unbooked minicab risk"
+  - "verify number plate"
+  - "check driver photo"
+  - "check make model colour"
+  - "waiting outside at night"
+  - "solo traveller pickup"
+  - "uber wrong car"
+  - "bolt wrong car"
+  - "freenow wrong car"
+  - "taxi vs private hire"
+  - "street pickup confusion"
+  - "unlicensed vehicle report"
+  - "what do i do if a different car stops for me"
+  - "what do i do if the driver says he is my uber"
+  - "what do i do if i feel unsafe at pickup"
+  - "what do i do if the plate does not match"
+  - "help i am being followed by a fake taxi"
+  - "help i am waiting for a car and a stranger stopped"
+  - "help i am unsure about my driver"
+  - "help i am alone and a car stopped"
+  - "my driver looks different"
+  - "my car registration is wrong"
+  - "my rideshare is a different car"
+  - "my booking is not matching"
+  - "smell of cigarette smoke in car"
+  - "see no license disc"
+  - "hear driver shouting name"
+  - "feel followed by car"
+  - "london minicab safety"
+  - "tfl licensed vehicle check"
+  - "yellow license disc"
+  - "private hire sticker"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are waiting for a rideshare and a different car stops and tells you it’s for you (UK)
 
 ## Short answer
-Don’t get in. Step back to a safer spot and only enter a vehicle that matches your app’s details (especially the registration/number plate and driver).
+Do not enter the vehicle. Move to a well-lit, populated area and only get into a car that exactly matches the registration, make, model, and driver photo shown in your app.
 
 ## Do not do these things
-- Don’t “just get in to be polite” or because they sound confident.
-- Don’t move closer to the car to argue or “check inside” if you feel uneasy.
-- Don’t confirm personal details to a stranger (your name, where you’re going, where you live).
-- Don’t accept “I’m your driver but the app is wrong / I changed cars / my mate is driving” as a reason to ride.
-- Don’t cancel in-app because they tell you to, or agree to cash/off-app payment.
-- Don’t share any one-time codes or PINs sent to your phone with anyone outside the normal in-app pickup check.
+- Don’t enter the vehicle to "check the driver's phone" or discuss the booking.
+- Don’t confirm your name or destination to the driver if they ask "who are you waiting for?".
+- Don’t accept excuses such as "the app is broken," "I’m using a different car today," or "my friend is doing the ride for me."
+- Don’t cancel the ride in-app just because the driver asks you to pay in cash.
+- Don’t share any 4-digit PIN or SMS code with the driver until you have confirmed the vehicle details match.
+- Don’t approach the vehicle if you feel threatened or if the driver is being aggressive.
 
 ## What to do now
-1. **Create distance first.** Take several steps back and move toward a **well-lit, busier place** (inside a shop/venue lobby if you can).
-2. **Check your app before you engage.** Compare:
-   - **Vehicle registration/number plate**
-   - **Make/model/colour**
-   - **Driver name + photo**
-   If any key detail doesn’t match, treat it as **not your ride**.
-3. **Use a “no-details” response.** If you speak at all: “No thanks.” Avoid giving your name or destination.
-4. **Verify safely if you’re unsure (without approaching the car).**
-   - Message or call the driver **through the app**.
-   - If your app offers a **PIN/verification code**, use it. If you can’t verify from your phone, don’t get in.
-5. **Move the pickup to somewhere safer.** Cancel and rebook to a pickup point that’s:
-   - well-lit and clearly identifiable (front entrance, marked bay)
-   - near staff/security if available
-6. **If the car seems to be targeting you (won’t leave, circles, you feel threatened):**
-   - Go inside and ask staff to stay with you.
-   - Call **999** if you feel in immediate danger. If it’s not an emergency, you can call **101** when you’re safe.
-7. **Record details for later (only if safe).** Note the registration/plate, location, and time (a quick phone note is enough). Don’t take risks to get a photo.
-8. **If you’re in London:** don’t accept any private hire/minicab offered on the street. **Private hire vehicles must be pre-booked**; only licensed taxis can be hailed. If you think you’ve seen an unlicensed vehicle/driver/operator, report it when safe (local council, or TfL in London).
+1. **Create immediate distance between yourself and the vehicle.** **Take several steps back and move toward a well-lit, populated area, such as a shop entrance or a venue lobby.**
+2. **Verify the vehicle details through the app while remaining at a distance.** **Compare the vehicle’s registration (number plate), make, model, and colour against the data displayed on your screen.**
+3. **Confirm the driver’s identity visually.** **Check that the person behind the wheel matches the profile photo in your app before you move toward the door.**
+4. **Look for official licensing identifiers on the vehicle.** **Check for a licensing disc (often yellow or green in London) on the windscreen or a local council licensing plate on the rear bumper.**
+5. **Use the app's communication tools if you are confused.** **Message or call the driver through the app’s internal system to confirm their location without revealing your personal phone number.**
+6. **Move your pickup point if you feel vulnerable.** **Cancel the current ride if necessary and walk to a safer, busier location before re-ordering.**
+7. **Contact emergency services if the vehicle persists.** **Call 999 if the car circles back, the driver follows you on foot, or you feel you are in immediate danger.**
+8. **Record the vehicle registration if it is safe to do so.** **Note down the plate number or take a photo from a distance only if it does not escalate the situation.**
 
 ## What can wait
-- You do **not** need to decide right now whether to make a formal report.
-- You do **not** need to confront the driver or “prove” they’re wrong.
-- You do **not** need to figure out whether it was a scam or an honest mistake before getting yourself home safely.
+- You do not need to report the incident to the app provider or the local council (or TfL) until you are in a secure location.
+- You do not need to worry about cancellation fees in the moment; these can be disputed later with the service provider.
+- You do not need to determine if the driver made an "honest mistake" before choosing to prioritise your safety.
 
 ## Important reassurance
-It’s common to freeze or second-guess yourself when someone confidently claims they’re “your ride.” Refusing a car that doesn’t match your app is a normal safety step. You’re allowed to prioritise safety over politeness.
+It is normal to feel pressured or confused when a driver is insistent, but refusing to enter an unverified vehicle is a standard safety protocol. Your safety is more important than being "polite" or avoiding a social misunderstanding.
 
 ## Scope note
-These are first steps for the next few minutes: creating distance, verifying safely, and getting a legitimate ride. Later follow-up (complaints, formal reporting, changing account/security settings) can happen once you’re calm and safe.
+This guide covers immediate physical safety and verification steps during a pickup. It does not cover long-term reporting procedures or legal actions against unlicensed operators.
 
 ## Important note
-This guide is general information, not legal advice. If you believe you’re in immediate danger, call **999**.
+Private hire vehicles (minicabs) in the UK must be pre-booked through a licensed operator; they cannot legally be hailed in the street. Only licensed "Black Cabs" (Hackney Carriages) can be hailed without a booking.
 
 ## Additional Resources
-- https://www.gov.uk/report-unlicenced-taxi
-- https://www.gov.uk/contact-police
-- https://www.police.uk/pu/contact-us/
-- https://tfl.gov.uk/modes/taxis-and-minicabs/what-to-expect-from-your-journey
-- https://tfl.gov.uk/modes/taxis-and-minicabs/book-a-taxi
-- https://www.uber.com/en-GB/blog/your-safety-checklist/
+- https://www.met.police.uk/police-forces/metropolitan-police/areas/campaigns/2022/staying-safe-in-london/
+- https://www.met.police.uk/cp/crime-prevention/personal-safety-how-to-stay-safe/travel-safe/
+- https://www.uber.com/gb/en/blog/your-safety-checklist-5/
+- https://www.uber.com/gb/en/ride/safety/rider-safety-features/
+- https://tfl.gov.uk/info-for/taxis-and-private-hire/compliance-and-enforcement

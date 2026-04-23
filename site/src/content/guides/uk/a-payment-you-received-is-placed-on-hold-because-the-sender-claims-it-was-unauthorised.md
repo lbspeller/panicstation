@@ -1,106 +1,113 @@
-﻿---
+---
 title: "What to do if… a payment you received is placed on hold because the sender claims it was unauthorised"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - payment placed on hold
-  - funds on hold
-  - payment dispute
-  - sender says unauthorised
-  - sender claims unauthorised
-  - unauthorised payment claim
-  - buyer dispute
-  - chargeback started
-  - payment reversed risk
-  - payment processor hold
-  - paypal payment on hold
-  - card payment dispute
-  - merchant dispute response
-  - proof of delivery needed
-  - digital service delivery proof
-  - scam suspected payment
-  - stolen card payment risk
-  - dispute resolution centre
-  - account limited or review
-  - unexpected dispute notice
-last_reviewed: "2026-01-10"
+  - "payment on hold"
+  - "received payment hold"
+  - "payment sender claim"
+  - "unauthorised payment received"
+  - "funds on hold UK"
+  - "payment dispute notification"
+  - "what do i do if a payment is on hold"
+  - "what do i do if a sender claims unauthorised"
+  - "what do i do if funds are held"
+  - "what do i do if payment is disputed"
+  - "help i received a disputed payment"
+  - "help i have a payment hold"
+  - "help i have a chargeback"
+  - "my payment is on hold"
+  - "my funds are frozen"
+  - "payment hold notification"
+  - "dispute centre alert"
+  - "unrecognised transaction claim"
+  - "stolen card payment"
+  - "account takeover payment"
+  - "chargeback received"
+  - "fraud report received"
+  - "payment reversal risk"
+  - "merchant dispute help"
+  - "seller protection eligibility"
+  - "delivery proof required"
+  - "shipping tracking dispute"
+  - "unauthorised transaction"
+  - "payment received frozen"
+  - "financial ombudsman dispute"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a payment you received is placed on hold because the sender claims it was unauthorised (UK)
 
 ## Short answer
-Treat the money as not yours yet: stop spending it, pause any fulfilment you still can, and respond only inside the payment provider’s official dispute/chargeback process with evidence of what you delivered.
+Isolate the funds immediately by not spending or moving the held amount, pause any pending delivery of goods or services, and submit proof of fulfilment through the official payment provider's dispute portal only.
 
 ## Do not do these things
-- Don’t refund or “send it back” using a separate transfer, a different app, gift cards, crypto, or “Friends & Family” style payments.
-- Don’t click links in emails/texts about the dispute—log in by typing the provider’s address yourself.
-- Don’t ship/hand over goods, share download links, or provide access while the payment is on hold (or if you can still stop fulfilment).
-- Don’t accept “I’ll cancel the dispute if you…” deals off-platform.
-- Don’t delete messages, invoices, tracking, screenshots, or logs that show what was agreed and delivered.
-- Don’t assume it’s a simple misunderstanding—“unauthorised” claims can indicate an account takeover or a stolen card.
+- Don't issue a refund outside of the official dispute tool; never send "reimbursements" via Bank Transfer, PayPal Friends & Family, or Gift Cards.
+- Don't click links in emails claiming to be about the hold; always navigate to the official app or website by typing the address yourself.
+- Don't ship any items or provide access to services while the transaction status is "On Hold" or "Under Review."
+- Don't communicate with the sender on external apps like WhatsApp or Telegram if the transaction happened on a marketplace platform.
+- Don't ignore the dispute deadline; missing a response window often results in an automatic loss of funds and a dispute fee.
+- Don't delete any records of the transaction, including postage receipts, digital delivery logs, or chat history.
 
 ## What to do now
-1. **Freeze the transaction on your side.**  
-   Treat the amount as unavailable until the hold/dispute is closed. Avoid spending it or moving it around as if it’s settled.
+1. **Quarantine the transaction amount.**  
+   **Assume the funds are currently zero until the case is closed.**
+   - Ensure your account balance covers the held amount to avoid overdraft fees if the provider debits the funds.
+   - Adjust any automated transfers or payments that rely on that specific balance.
 
-2. **Stop fulfilment if you still can.**  
-   - Physical goods: pause shipping; if it’s already shipped, don’t reroute to a different address.  
-   - Digital/services: pause new work, new access, or extra deliverables (but don’t destroy existing proof).
+2. **Halt all fulfilment activities immediately.**  
+   **Stop the transfer of value to the sender while the payment is unverified.**
+   - If shipping physical goods, contact the courier to see if the parcel can be intercepted or returned to sender.
+   - If providing digital services, revoke access keys, pause project work, or disable login credentials associated with the purchase.
 
-3. **Log in safely and read the exact reason and the response deadline.**  
-   In the provider/app/marketplace, open the dispute/claim details and note:
-   - the dispute type (e.g., “unauthorised transaction” vs “item not received”)
-   - what evidence they request
-   - the deadline to respond (missing it can sink your case)
+3. **Verify the dispute details through the official portal.**  
+   **Identify the specific reason code and the final response deadline.**
+   - Log in directly to your payment processor (e.g., Stripe, PayPal, or your bank).
+   - Look for the "Dispute," "Resolution Centre," or "Chargeback" section.
+   - Confirm the claim is specifically for "Unauthorised Transaction" (meaning the cardholder says they didn't make it) rather than "Item Not Received."
 
-4. **Submit the strongest evidence you have (only through the official portal).**  
-   Useful evidence often includes:
-   - proof of shipment/delivery (tracking, delivery confirmation, signature if available)
-   - the address you shipped to and how it matches the order/payment record
-   - order/invoice details and item description
-   - message history showing the buyer requested/approved the purchase
-   - for digital goods/services: timestamps and logs showing delivery/access (download records, access logs, email delivery receipts, handover messages)
+4. **Gather and upload specific evidence of fulfilment.**  
+   **Provide objective proof that the goods or services were provided to the details on the order.**
+   - Physical goods: Upload a tracking number that shows delivery to the address provided at the time of payment.
+   - Digital goods: Upload server logs, download timestamps, or IP addresses showing the service was accessed.
+   - Correspondence: Include screenshots of any messages where the sender confirmed the order details or receipt of the item.
 
-5. **If you took a card payment via a processor, use their “chargeback / dispute response” route.**  
-   Many “unauthorised” claims are handled as chargebacks by the buyer’s bank. Your practical task is still the same: respond by the deadline with proof of fulfilment and that you shipped/provided to the recorded details.
+5. **Respond within 48 hours if possible.**  
+   **Aim for an early response to comply with "Seller Protection" timeframes.**
+   - Many UK payment processors require evidence within 2 to 10 days, but some protection schemes (like PayPal’s 2026 Seller Protection) prioritise those who respond within 48 hours of notification.
 
-6. **Keep communication inside the platform and keep it short.**  
-   If you message the sender, stick to: “Please use the platform’s dispute process. I’ve submitted fulfilment evidence there.”  
-   Don’t argue, threaten, or share extra personal data.
+6. **Secure your own financial credentials.**  
+   **Assume a dispute could be part of a wider attempt to compromise your account.**
+   - Change your password to a unique, long passphrase.
+   - Enable or reset your Multi-Factor Authentication (MFA/2FA).
+   - Review your "payout" or "linked bank account" settings to ensure they haven't been changed.
 
-7. **Secure your accounts immediately.**  
-   Holds can coincide with account compromise attempts.  
-   - Change your password (unique, long) and enable 2-step verification if available.  
-   - Check for new logins/devices and any changed payout/bank details.  
-   - If you reused the password anywhere else (especially email), change it there too.
+7. **Report suspected fraud to the correct UK authority.**  
+   **Use the national reporting service if you believe the sender is using a stolen identity or card.**
+   - England, Wales, and Northern Ireland: Report to **Report Fraud** (the successor to Action Fraud) via their website or by calling 0300 123 2040.
+   - Scotland: Report to **Police Scotland** by calling 101.
 
-8. **If anything feels like fraud, report it through the right UK route.**  
-   - **England, Wales, Northern Ireland:** report cyber crime/fraud via the national reporting service (Report Fraud).  
-   - **Scotland:** report fraud to **Police Scotland via 101** (999 if there is immediate danger).  
-   Also report suspicious messages inside the platform so they can investigate.
-
-9. **If the provider’s decision seems wrong, use complaints escalation.**  
-   Complain to the payment provider/bank first using their complaints process. If you’re not resolved after their final response (or typically within 8 weeks for many complaints, where applicable), and the firm is covered, you may be able to take it to the Financial Ombudsman Service.
+8. **Initiate a formal complaint if the provider's final decision is incorrect.**  
+   **Follow the internal complaints procedure before escalating to an external body.**
+   - Request a "Final Response Letter" from the payment provider if they find against you despite evidence.
+   - Note that for most UK-regulated payment services, you can escalate to the **Financial Ombudsman Service (FOS)** if the issue remains unresolved after 8 weeks.
 
 ## What can wait
-- Deciding whether to pursue the sender directly for money (civil action) — wait until the dispute outcome is known.
-- Writing a long “case history” — focus on the specific evidence the provider asks for.
-- Negotiating compromises with the sender — you can revisit after the dispute, in writing, and only if it’s clearly safe.
+- Pursuing the sender in Small Claims Court (Civil Action) — wait until the payment provider's formal dispute process is fully exhausted.
+- Writing a detailed narrative about the sender's behaviour — the automated systems primarily look for shipping/delivery proof, not character descriptions.
+- Messaging the sender to "explain" your side — if the claim is truly "unauthorised," the person you are messaging may not be the legitimate cardholder.
 
 ## Important reassurance
-This is a common situation, and it doesn’t automatically mean you’ve done something wrong. A hold is often a safety pause while the provider checks whether the payment was genuinely authorised. Your job right now is to avoid irreversible moves and supply clear, relevant proof through the official process.
+Receiving an unauthorised payment claim is a standard risk for anyone accepting payments online and is not a reflection of your business integrity. Payment providers use "holds" as a neutral safety mechanism to protect the banking system. By following the official evidence process, you are using the tools designed to resolve these specific conflicts.
 
 ## Scope note
-These are first steps to stabilise and reduce loss. If the amount is large, you run a business, or you’re seeing repeated disputes, you may need specialist help later (for example, your provider’s merchant support or a qualified adviser).
+This guide provides first-step stabilization for individual sellers or small businesses in the UK facing a payment hold. It does not cover complex merchant legalities, long-term fraud prevention strategies, or multi-jurisdictional tax implications.
 
 ## Important note
-This guide is general information, not legal or financial advice. Dispute rules and timelines vary by payment method and provider, and outcomes depend on the specific evidence available.
+This information is for general guidance and does not constitute legal or financial advice. The rules governing chargebacks and seller protection are set by card schemes (Visa, Mastercard) and individual provider terms of service, which may change. For significant financial losses, consult a qualified legal professional or a business advisor.
 
 ## Additional Resources
-- https://www.paypal.com/uk/brc/article/funds-availability
-- https://www.paypal.com/uk/webapps/mpp/resolve-disputes-chargebacks
-- https://www.paypal.com/gb/legalhub/paypal/seller-protection
-- https://www.reportfraud.police.uk/
-- https://www.scotland.police.uk/guidance/scams-and-frauds/
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/disputed-transactions
 - https://www.fca.org.uk/consumers/fraudulent-payments
+- https://www.moneyhelper.org.uk/en/everyday-money/banking/how-to-sort-a-problem-with-a-payment
+- https://www.moneyhelper.org.uk/en/blog/scams-and-fraud/authorised-push-payment-app-scams
+- https://anthonygold.co.uk/insight/can-i-keep-money-that-i-receive-by-mistake/
+- https://www.financial-ombudsman.org.uk/decision/DRN-4282981.pdf

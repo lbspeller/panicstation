@@ -1,5 +1,3 @@
-// site/rehype-collapse-resources.mjs
-
 function textOf(node) {
   if (!node) return "";
   if (node.type === "text" && typeof node.value === "string") return node.value;
@@ -19,14 +17,12 @@ export default function rehypeCollapseResources() {
   return (tree) => {
     const root = tree;
     const kids = root.children || [];
-
     for (const node of kids) {
       if (!isResourcesSection(node)) continue;
-
       const children = node.children || [];
       const h2 = children.find((c) => c.type === "element" && c.tagName === "h2");
       const content = children.filter((c) => c !== h2);
-
+      
       // Replace section children with: details(summary=label, content...)
       node.children = [
         {

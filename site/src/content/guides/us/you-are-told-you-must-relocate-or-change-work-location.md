@@ -1,75 +1,103 @@
-﻿---
+---
 title: "What to do if… you are told you must relocate or change work location"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - told to relocate for work
-  - forced workplace move
-  - change of work location
-  - job moved to another city
-  - new worksite requirement
-  - transfer to new location
-  - sudden commute increase
-  - return to office demand
-  - remote work revoked
-  - told to move or be fired
-  - relocation assistance offer
-  - relocation repayment clause
-  - asked to sign relocation letter
-  - union and site transfer
-  - disability accommodation location
-  - commute barrier medical condition
-  - plant closing relocation notice
-  - worried about refusing move
-last_reviewed: "2026-01-07"
+  - "reference refused"
+  - "reference limited"
+  - "employer won't give reference"
+  - "verification only reference"
+  - "dates and title only reference"
+  - "hr will confirm employment only"
+  - "job offer reference check"
+  - "background check reference issue"
+  - "third party screening report"
+  - "consumer report for hiring"
+  - "incorrect background report"
+  - "former employer retaliation reference"
+  - "negative reference fear"
+  - "refusal after complaint"
+  - "discrimination reference concern"
+  - "proof of employment letter"
+  - "employment verification documents"
+  - "alternative professional references"
+  - "reference delayed"
+  - "reference withdrawn"
+  - "what do i do if my reference is refused"
+  - "what do i do if former employer wont give reference"
+  - "what do i do if hr limits reference"
+  - "what do i do if background check is wrong"
+  - "help i have a negative reference"
+  - "help i am being blacklisted"
+  - "help i cannot verify employment"
+  - "help my background check is failing"
+  - "my boss refused a reference"
+  - "my hr policy limits references"
+  - "burn mark on background check"
+  - "missing employment history"
+  - "incorrect dates on report"
+  - "fcra rights 2026"
+  - "pre-adverse action help"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told you must relocate or change work location (USA)
 
 ## Short answer
-Don’t agree or quit in the moment—get the relocation/change-of-worksite requirement in writing, then check what documents (offer letter/contract, policies, union agreement) control your work location before you respond.
+Request a written copy of the former employer's official verification policy and provide the prospective employer with alternative proof of employment, such as tax forms or non-managerial professional references.
 
 ## Do not do these things
-- Do not resign on the spot or “no-show” out of panic—either can hurt your options later.
-- Do not sign a relocation agreement, transfer letter, or “acceptance” form without reading it and keeping a copy.
-- Do not accept relocation money or reimbursements until you understand any repayment (“clawback”) terms.
-- Do not assume one rule applies everywhere—employment terms and unemployment eligibility vary by state and by workplace.
-- Do not make irreversible commitments (breaking a lease, selling, moving family) until you confirm whether this is definite, temporary, and what support is offered.
+- Do not contact your former manager to argue or demand a detailed recommendation.
+- Do not threaten legal action or mention "blacklisting" in early correspondence.
+- Do not provide fabricated contact information or altered documents to "fix" the gap.
+- Do not assume a "neutral" or "limited" reference is a negative signal; "verification-only" policies are standard for many US corporations.
+- Do not wait for the hiring process to stall before offering alternative verification.
 
 ## What to do now
-1. **Ask for the change in writing and get specifics.** Request the new work address, start date, whether it’s permanent or temporary, expected schedule, reporting manager, and what happens if you cannot relocate.
-2. **Collect and save the documents that control your job terms.** Offer letter, any employment agreement, employee handbook/policies (transfer, remote work/telework, travel/expense), and any written performance or disciplinary documents.
-   - Save only what you’re allowed to keep, and do not remove confidential client/company data—focus on your own employment documents.
-3. **Ask for any relocation package terms in writing before accepting.** Specifically ask if there is a repayment requirement if you leave or can’t complete the move, and what deadlines apply.
-4. **If you’re union-represented, contact your union rep before responding.** Your collective bargaining agreement may set rules for transfers and how changes are negotiated.
-5. **Send a short “holding” response to buy time.** Example: “I received the notice. I’m reviewing the details and my ability to comply. I’d like to discuss options and I’ll respond by [date].”
-6. **Ask about alternatives and mitigation.** For example: a nearer site, hybrid/remote days, phased transition, schedule changes to make commuting possible, temporary assignment, or travel reimbursement.
-7. **If a disability or medical condition is involved, request a reasonable accommodation (in writing).** If the new location creates a barrier, you can request changes (which might include telework or schedule adjustments, depending on the job) and ask to begin the interactive process.
-8. **Check whether this is tied to a closure or mass layoff.** Federal WARN generally requires **60 days’ notice** in covered plant closings and mass layoffs, but many situations won’t qualify; some states have additional “mini-WARN” rules. Ask HR: “Is a WARN notice involved for this change?”
-9. **Protect yourself with a clean paper trail.** Keep dates, names, and exact statements. After meetings, email a brief recap: “To confirm my understanding…”
-10. **If you might end up separated, avoid “voluntary quit” wording.** If you cannot comply, ask HR to put the outcome in writing (for example, “termination due to inability to relocate” rather than a resignation). Unemployment eligibility is state-run and can depend on how the separation is recorded and the reason for leaving.
+1. **Request the former employer’s official reference and verification policy in writing.**
+   - **Ask HR to confirm if their policy is "verification only" (dates and title).**
+   - **Request the specific contact method (phone number or portal) that external verifiers must use.**
+   - **Ask if the policy prohibits managers from giving personal references.**
+
+2. **Obtain a formal Employment Verification Letter (EVL) from your former HR department.**
+   - **Ensure the letter includes your exact start date, end date, and final job title.**
+   - **Request that the letter be on company letterhead or sent from a verified corporate email address.**
+
+3. **Notify the prospective employer of the policy and provide immediate substitutes.**
+   - **State clearly: "My former employer has a strict neutral-reference policy that limits all disclosures to dates and titles."**
+   - **Offer alternative professional references who can speak to your work, such as clients, former colleagues, or supervisors from other previous roles.**
+   - **Provide copies of W-2s, pay stubs (with pay amounts redacted), or your original offer letter to confirm employment history if the verification service is failing.**
+
+4. **Identify if the issue is a "consumer report" error under the Fair Credit Reporting Act (FCRA).**
+   - **Ask the hiring team: "Is this decision based on a report from a third-party screening company?"**
+   - **Review the "Pre-Adverse Action" notice if you receive one; it must include a copy of the report and a "Summary of Your Rights Under the FCRA."**
+   - **Submit a formal dispute to the consumer reporting agency (CRA) immediately if the report contains factual errors.**
+   - **Demand the 5-business-day waiting period between the Pre-Adverse Action notice and a final decision to allow for your dispute to be processed.**
+
+5. **Document signs of potential retaliation or discrimination without escalating.**
+   - **Record the date, time, and specific individual who informed you that a reference was being "refused" specifically for you (rather than due to general policy).**
+   - **Save any internal communications where a reference was promised but later withdrawn following a workplace complaint.**
+
+6. **Submit a written correction for objective factual errors.**
+   - **Send a short, non-emotional email to the former HR department if they are providing incorrect dates or titles.**
+   - **Attach a single piece of evidence (like a signed contract or final pay stub) and request they update their verification records.**
 
 ## What can wait
-- You do not need to decide today whether to move your household.
-- You do not need to commit to a long-term schedule—first confirm the requirement, timeline, and whether it’s negotiable.
-- You do not need to debate legal theories right now—your priority is getting the facts in writing and protecting your options.
-- You do not need to sort out unemployment, benefits continuation, or legal advice unless a deadline is imminent—first stabilise the situation and documentation.
+- You do not need to decide immediately whether to file an EEOC complaint or hire an attorney.
+- You do not need to explain personal conflicts or the "story" behind a departure unless specifically asked.
+- You do not need to update your LinkedIn or resume while the current background check is pending.
 
 ## Important reassurance
-This can feel like an ultimatum. It’s okay to slow the pace, ask for everything in writing, and respond calmly while you work out what you can realistically do.
+Many US employers use automated services (like The Work Number) that provide only basic data; hiring managers are accustomed to this. A limited reference is usually viewed as a corporate risk-management choice, not a reflection of your individual performance.
 
 ## Scope note
-This is first-steps-only guidance to prevent rushed decisions and reduce harm. Next steps depend heavily on your state, your job documents, and whether the change is tied to a closure/layoff or a union process.
+This guide covers immediate stabilization of a hiring process when references are restricted. It does not provide legal strategy for defamation or long-term employment litigation.
 
 ## Important note
-This is general information, not legal advice. Rules vary by state and by workplace policies/contracts. If you face a short deadline or threats of termination, consider speaking with your union (if applicable) or a qualified employment professional in your state.
+This information is for general guidance and does not constitute legal advice. Laws regarding references and background checks, including the FCRA and state-specific "Ban the Box" or privacy laws, are subject to change and specific jurisdictional interpretations.
 
 ## Additional Resources
-- https://www.dol.gov/general/topic/termination/plantclosings
-- https://www.dol.gov/agencies/eta/layoffs/warn
-- https://www.dol.gov/general/topic/unemployment-insurance
-- https://www.usa.gov/unemployment-benefits
-- https://oui.doleta.gov/unemploy/uifactsheet.asp
-- https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada
+- https://www.dol.gov/agencies/whd/fact-sheets/62j-h1b-worksite
 - https://www.eeoc.gov/laws/guidance/work-hometelework-reasonable-accommodation
-- https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/bargaining-in-good-faith-with-employees-union-representative
+- https://www.eeoc.gov/disability-discrimination-and-reasonable-accommodation-medical-inquiries-leave-and-telework
+- https://askjan.org/topics/Reassignment.cfm
+- https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada

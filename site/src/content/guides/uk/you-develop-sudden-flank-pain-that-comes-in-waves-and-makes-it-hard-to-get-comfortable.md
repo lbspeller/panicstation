@@ -1,80 +1,97 @@
-﻿---
+---
 title: "What to do if… you develop sudden flank pain that comes in waves and makes it hard to get comfortable"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - sudden flank pain
-  - pain in side of back
-  - pain comes in waves
-  - can’t get comfortable
-  - cramping side pain
-  - severe one-sided back pain
-  - pain radiating to groin
-  - nausea with flank pain
-  - vomiting with side pain
-  - possible kidney stone pain
-  - possible renal colic
-  - blood in urine concern
-  - pain with peeing
-  - fever with back pain
-  - shivering with pain
-  - can’t pass urine
-  - urgent same-day assessment
-  - sudden abdominal side pain
-  - one-sided lower rib pain
-  - sudden loin pain
-last_reviewed: "2026-02-21"
+  - "sudden flank pain"
+  - "loin pain in waves"
+  - "severe side pain"
+  - "kidney stone symptoms"
+  - "renal colic help"
+  - "back pain radiating to groin"
+  - "hard to get comfortable back pain"
+  - "pain in side of tummy"
+  - "nausea and flank pain"
+  - "blood in urine UK"
+  - "help i have sudden side pain"
+  - "what do i do if my back hurts in waves"
+  - "what do i do if i cant stop vomiting with side pain"
+  - "what do i do if i have fever and kidney pain"
+  - "my flank hurts and i feel shivery"
+  - "my side pain comes and goes"
+  - "help i have blood in my pee and back pain"
+  - "cannot pass urine"
+  - "shivering and side pain"
+  - "sweating with back pain"
+  - "extreme restlessness with pain"
+  - "kidney infection symptoms"
+  - "renal collic"
+  - "kidney stones help"
+  - "painful to pee with back pain"
+  - "sharp pain under ribs"
+  - "cramping side pain"
+  - "loin to groin pain"
+  - "urological emergency UK"
+  - "nhs 111 kidney stone"
+  - "stone in kidney"
+  - "flank pain restlessness"
+  - "foul smelling urine"
+  - "kidney stone treatment"
+  - "sudden abdominal side pain"
+  - "one-sided lower rib pain"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you develop sudden flank pain that comes in waves and makes it hard to get comfortable (UK)
 
 ## Short answer
-Get urgent same-day medical advice: contact NHS 111 (or your GP) now, and go to A&E immediately if the pain is severe/uncontrolled, you have fever/shivering, you cannot pass urine, or you’re vomiting repeatedly.
+Seek immediate medical assessment by calling NHS 111 (or NHS 24 in Scotland) or your GP's urgent line; if the pain is accompanied by fever, shivering, or an inability to pass urine, go to the nearest A&E department immediately.
 
 ## Do not do these things
-- Do not “wait it out” if you have fever/feel hot and shivery, worsening pain, persistent vomiting, or you cannot pass urine.
-- Do not exceed the label dose of any pain medicine. Do not take two anti-inflammatories (NSAIDs) together (for example ibuprofen plus naproxen). If you’re unsure what’s safe for you, ask NHS 111 or a pharmacist.
-- Do not drink alcohol or take recreational drugs to cope — they can worsen dehydration and make assessment harder.
-- Do not drive yourself to get help if you feel faint, drowsy, or are in distracting pain — ask someone to take you or call 999 if you can’t travel safely.
-- Do not ignore new blood in your urine, burning when peeing, or feeling generally unwell — these can change how urgently you need to be seen.
+- Do not wait to see if symptoms improve if you have a high temperature, chills, or are unable to keep fluids down.
+- Do not drive yourself to a hospital or clinic if the pain is distracting or causing you to feel faint / light-headed.
+- Do not exceed the maximum dose of any pain relief medication.
+- Do not combine multiple non-steroidal anti-inflammatory drugs (NSAIDs) such as taking ibuprofen and naproxen simultaneously.
+- Do not consume alcohol or recreational substances to dull the pain, as this can mask symptoms and cause severe dehydration.
+- Do not ignore blood in your urine even if it is a small amount or only visible once.
 
 ## What to do now
-1. **Do a 60-second safety check.** If you have any of the following, **go to A&E now** or call **999** if you can’t get there safely:
-   - pain that is **severe** or not settling with simple measures
-   - a **high temperature**, or you feel **hot, cold, sweaty, or shivery**
-   - you are **unable to pass urine** (or you’re passing very little)
-   - repeated vomiting so you can’t keep fluids down
-   - you are **pregnant**, immunocompromised, have a **single kidney**, or significant kidney disease
-2. **If you don’t have the red flags above, but the pain is still wave-like and hard to sit still with:** contact **NHS 111** for urgent same-day advice (or your GP if they can see you urgently). Say: “**sudden flank/loin pain in waves, can’t get comfortable**,” and mention any nausea/vomiting, urinary symptoms, pregnancy possibility, or kidney history.
-3. **Write down three details for triage (it speeds things up):**
-   - your **temperature** (if you can check it)
-   - when you last **passed urine** and whether it was painful or bloody
-   - what **pain relief** you’ve taken (name + time)
-4. **Use safer comfort measures while you arrange care.**
-   - If you can take them safely, use over-the-counter pain relief **exactly as directed on the packet** (avoid anything you’re allergic to or have been told not to take).
-   - A **warm bath or heat pack** on the sore side can help some people. Stop if it makes you feel worse or light-headed.
-5. **Prepare to be assessed.** If you’re going to urgent care/A&E:
-   - bring a **list of medicines**, allergies, and key conditions
-   - be ready to provide a **urine sample**
-   - arrange **transport** (pain can spike suddenly)
+1. **Check for emergency red flags that require immediate A&E attendance or a 999 call.** Go to the nearest emergency department if you experience:
+   - pain that is unbearable or not responding to over-the-counter medication
+   - a high temperature (fever), shivering, or feeling very weak and tired
+   - a complete inability to pass urine or a significant drop in urine volume
+   - persistent vomiting that prevents you from staying hydrated
+   - any of these symptoms while pregnant, having only one kidney, or having a known history of kidney disease.
+2. **Contact NHS 111 or your GP for an urgent same-day assessment if you do not have emergency red flags.** Explain that you have "sudden loin-to-groin pain that comes in waves" and describe your inability to sit still.
+   - mention if you have noticed any blood in your urine or pain when peeing
+   - state if you are currently feeling nauseous or have vomited.
+3. **Record specific clinical details to provide to the triage clinician.** This information helps speed up your assessment:
+   - your current temperature if a thermometer is available
+   - the time and appearance of your last urination
+   - the exact name, dose, and time of any medication you have taken.
+4. **Use controlled heat and approved pain relief for temporary comfort while waiting for care.** Ensure you follow all instructions on the packaging exactly.
+   - apply a heat pack or warm compress to the painful side if it provides relief
+   - stay in a position that feels most tolerable, even if this involves pacing or shifting.
+5. **Prepare for a hospital transfer and clinical testing.** You will likely be asked to provide a urine sample upon arrival.
+   - bring a list of all current medications and known allergies
+   - ensure you have a reliable way to get home, as pain can recur suddenly after treatment.
 
 ## What can wait
-- You do not need to decide right now what the cause is (kidney stones are one possibility, but not the only one).
-- You do not need to force large amounts of fluid during severe pain or active vomiting.
-- You do not need to plan follow-up tests or long-term prevention today; first priority is ruling out infection/obstruction and getting pain controlled.
+- You do not need to identify the exact cause of the pain yourself; clinicians will use imaging (usually a CT scan or ultrasound) to confirm the diagnosis.
+- You do not need to force-drink excessive amounts of water during the peak of severe pain or while vomiting.
+- You do not need to worry about long-term kidney damage if you are seeking assessment promptly for these symptoms.
 
 ## Important reassurance
-Wave-like flank/loin pain that makes you restless and unable to get comfortable is a common reason for urgent assessment. Getting checked promptly is a sensible, protective step — especially because infection with blockage needs fast treatment.
+Sudden, wave-like pain in the side (flank) and back is a very common reason for emergency medical visits. It is often caused by a kidney stone moving through the urinary system. While the pain is intense and distressing, medical teams have established protocols to manage the pain and check for complications like infection.
 
 ## Scope note
-This is first-steps-only guidance for the next few hours. Further decisions (tests, imaging, antibiotics, procedures, prevention) depend on what clinicians find.
+This guide is for first-step stabilization and triage only. Subsequent medical decisions regarding antibiotics, imaging, or surgical intervention must be made by a healthcare professional.
 
 ## Important note
-This is general information, not a diagnosis. If you are worried, symptoms are severe, or you have fever/shivering, persistent vomiting, or trouble passing urine, seek urgent medical care immediately.
+This information is for educational purposes and does not replace professional medical advice. If you are in severe pain, feel systemically unwell, or cannot pass urine, seek urgent medical attention immediately.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/kidney-stones/
-- https://www.nhs.uk/conditions/kidney-stones/symptoms/
-- https://www.nhs.uk/conditions/kidney-infection/
-- https://111.wales.nhs.uk/kidneystones/
+- https://www.nhs.uk/conditions/kidney-stones/treatment/
+- https://rms.cornwall.nhs.uk/primary_care_clinical_referral_criteria/rms/primary_care_clinical_referral_criteria/urology/acute_renal_and_ureteric_colic
+- https://www.cuh.nhs.uk/patient-information/information-for-patients-with-renal-ureteric-colic/
 - https://www.uhsussex.nhs.uk/resources/kidney-stones-emergency-department-leaflet/

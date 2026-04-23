@@ -1,88 +1,95 @@
-﻿---
+---
 title: "What to do if… you have new urinary pain and see blood in your urine"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - blood in urine
-  - blood in pee
-  - red urine
-  - pink urine
-  - urinary pain
-  - painful urination
-  - burning when peeing
-  - stinging when peeing
-  - pee hurts
-  - dysuria
-  - visible hematuria
-  - new hematuria
-  - urinary tract symptoms
-  - suspected uti
-  - cystitis symptoms
-  - possible kidney stone
-  - flank pain and blood in urine
-  - urgency to pee
-  - frequent urination
-  - lower abdominal pain peeing
-  - blood clots in urine
-last_reviewed: "2026-01-21"
+  - "blood in urine"
+  - "blood in pee"
+  - "painful urination"
+  - "hematuria symptoms"
+  - "visible blood in urine"
+  - "urinary tract infection"
+  - "kidney stone symptoms"
+  - "burning when peeing"
+  - "what do i do if my pee is red"
+  - "what do i do if there is blood in my urine"
+  - "what do i do if peeing hurts and is bloody"
+  - "what do i do if i see blood clots in pee"
+  - "help i have blood in my urine"
+  - "help i have urinary pain"
+  - "help it hurts to pee and there is blood"
+  - "my pee is pink"
+  - "my urine is dark brown"
+  - "stinging when peeing"
+  - "lower abdominal pain"
+  - "flank pain"
+  - "bladder pressure"
+  - "blood in urine no pain"
+  - "blood in urine with pain"
+  - "pink urine after exercise"
+  - "red pee"
+  - "clots in urine"
+  - "dysuria and hematuria"
+  - "urinary retention"
+  - "cannot pass urine"
+  - "blood in urine male"
+  - "blood in urine pregnancy"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you have new urinary pain and see blood in your urine (UK)
 
 ## Short answer
-Get urgent same-day medical advice. If you have heavy bleeding/clots, cannot pass urine, have severe side/back pain, or feel very unwell (for example with fever or shaking chills), go to A&E (call 999 if you cannot get to hospital safely).
+Seek urgent medical assessment today. Go to A&E immediately if you cannot pass urine, have heavy bleeding with clots, have severe one-sided back pain, or feel very unwell with fever or shivering.
 
 ## Do not do these things
-- Do not ignore visible blood in your urine, even if it happens once or the pain settles.
-- Do not take leftover antibiotics or someone else’s antibiotics.
-- Do not “flush it out” by forcing large amounts of water quickly (drink normally).
-- Do not hold your urine to “save a sample” if you’re in pain or desperate to go.
-- Do not take extra/stacked doses of painkillers because you’re panicking.
-- Do not stop prescribed medicines (including blood thinners) without medical advice.
-- Do not assume it’s “just cystitis” if you’re male, pregnant, immunosuppressed, have kidney disease, or symptoms are severe.
+- Do not ignore visible blood in your urine, even if it happens only once or the pain stops.
+- Do not take leftover or unprescribed antibiotics.
+- Do not "flush out" your system by drinking excessive amounts of water rapidly; drink normally.
+- Do not hold your urine to save a sample if you are in pain or have a strong urge to go.
+- Do not stop taking prescribed medications, including blood thinners, without medical instruction.
+- Do not delay seeking help because you think it is a common infection, especially if you are male, pregnant, or have underlying health conditions.
 
 ## What to do now
-1. **Check for emergency red flags (act immediately if any apply).**  
-   Go to **A&E** urgently if you have **any** of these:
-   - You **cannot pass urine** (or only a few drops)
-   - **Heavy bleeding**, **blood clots**, or rapidly worsening bleeding
-   - **Severe** one-sided back/flank pain (especially with nausea/vomiting)
-   - You feel **very unwell** (for example fever, chills/rigors, confusion, fainting, severe weakness)
-   - Recent significant injury to your back/abdomen  
-   If you cannot get to hospital safely, **call 999**.
-2. **If no red flags: still get urgent same-day help.**  
-   - **Ask your GP for an urgent appointment today**, or use **NHS 111 (online or phone)** for direction to the right service (urgent treatment centre / out-of-hours GP).
-3. **Make it easier to be assessed quickly (without making yourself worse).**  
-   - If you’re comfortable and don’t urgently need to go, try not to empty your bladder right before you leave in case they want a urine sample.  
-   - **If you need to pee, go—don’t delay in pain.** Just tell the clinician you may not be able to provide a sample immediately.
-   - Write down: when it started, urine colour (pink/red/brown), any clots, burning/pain level, urgency/frequency, lower tummy pain, side/back pain, fever/shivers, pregnancy possibility, recent vigorous exercise or injury.
-   - Have a **medicine list**, especially **blood thinners** (for example warfarin, apixaban, rivaroxaban) and any recent antibiotics.
-4. **While you’re waiting to be seen (safer comfort steps).**  
-   - Drink **normal** fluids (avoid dehydration; do not force excess).
-   - Avoid alcohol until you’ve been assessed.
-   - For pain, **paracetamol** is a common first option for many people if you can take it. Follow the label. If you have liver disease, are pregnant, take other medicines that may contain paracetamol, or you’re unsure what’s safe, ask a pharmacist/clinician.
-   - Be cautious with **ibuprofen/other NSAIDs** if you have kidney disease, stomach ulcer history, asthma that’s affected by NSAIDs, are on blood thinners, or you’re unsure—check with a clinician/pharmacist first.
-5. **Escalate faster if you’re higher-risk.**  
-   Use **111/GP same day** (or **A&E** if worsening) if you are: **pregnant**, a **child or teenager**, male with new urinary symptoms, have a **single kidney**, **kidney disease**, recent urological surgery/procedure, are **immunosuppressed**, or take **blood thinners**.
+1. **Identify emergency red flags that require A&E.**  
+   **Go to the nearest Accident and Emergency department or call 999** if any of the following apply:
+   - You are completely unable to pass urine or can only pass a few drops.
+   - You see heavy bleeding or large blood clots in your urine.
+   - You have severe, sharp pain in your side or back (flank) that makes it hard to sit still.
+   - You have a high temperature, are shaking/shivering (rigors), or feel confused and faint.
+   - The symptoms followed a significant injury to your back or stomach.
+2. **Contact your GP or NHS 111 for a same-day assessment.**  
+   - **Call your GP surgery and request an urgent same-day appointment.** 
+   - **If the GP is closed, use NHS 111 (online or call 111)** to be directed to an out-of-hours service or Urgent Treatment Centre.
+3. **Prepare for your medical consultation.**  
+   - **Keep a written note of when the symptoms started and the exact colour of the urine.**
+   - **List any other symptoms** such as burning, frequency, urgency, or pain in the lower abdomen or back.
+   - **Bring a list of all current medications**, specifically noting blood thinners like warfarin, apixaban, rivaroxaban, edoxaban, or dabigatran.
+   - **Try to avoid emptying your bladder** immediately before your appointment in case a sample is needed, but do not wait if you are in significant pain.
+4. **Manage comfort safely while waiting.**  
+   - **Drink fluids at a normal rate** to stay hydrated.
+   - **Avoid alcohol** until you have been assessed by a clinician.
+   - **Follow label instructions for paracetamol** if you need pain relief and have no contraindications. 
+   - **Consult a pharmacist or clinician** before taking ibuprofen or other NSAIDs if you have kidney disease, stomach ulcers, or are taking other medications.
+5. **Request faster escalation if you are in a high-risk group.**  
+   - **Mention if you are pregnant, male, have a history of kidney disease, or are immunosuppressed**, as these factors may require more rapid intervention.
 
 ## What can wait
-- You do **not** need to work out the cause right now.
-- You do **not** need to start supplements, cranberry products, or “cleanses”.
-- You do **not** need to decide about referrals/tests now—focus on being assessed and following the next instruction you’re given.
+- You do not need to determine the cause or diagnosis yourself right now.
+- You do not need to purchase over-the-counter "cystitis" sachets or cranberry products.
+- You do not need to decide on long-term treatment plans until you have been assessed.
 
 ## Important reassurance
-Seeing blood in urine is alarming, but it can have many causes, including treatable ones. Getting checked promptly is the safest way to avoid missing anything that needs urgent treatment.
+Seeing blood in your urine is often distressing, but it is a common reason for urgent medical visits and has many treatable causes. A prompt assessment ensures that the cause is identified quickly and the correct treatment is started to prevent the situation from worsening.
 
 ## Scope note
-This guide covers **first steps for the next few hours**. After assessment, you may be given antibiotics, pain relief, tests, imaging, or referral—follow the plan you’re given and seek re-assessment urgently if symptoms worsen.
+This guide is for first-step stabilization and urgent navigation during the first few hours of symptoms. It does not replace a clinical diagnosis or a full physical examination by a healthcare professional.
 
 ## Important note
-This is general information, not a diagnosis. If you become more unwell, develop fever/shaking chills, severe pain, clots, or trouble passing urine, treat it as urgent and use emergency services.
+Blood in the urine (hematuria) must always be investigated by a doctor. If your symptoms worsen, or you develop a fever, inability to urinate, or severe pain while waiting for an appointment, treat it as an emergency and contact 999 or attend A&E.
 
 ## Additional Resources
+- https://www.nhs.uk/conditions/urinary-tract-infections-utis/
 - https://www.nhs.uk/symptoms/blood-in-urine/
-- https://111.nhs.uk/
 - https://www.leedsth.nhs.uk/services/urology/common-urological-conditions/what-should-i-do-if-i-have-blood-in-my-urine/
-- https://www.baus.org.uk/patients/conditions/2/blood_in_the_urine_haematuria/
+- https://www.nhsinform.scot/illnesses-and-conditions/kidneys-bladder-and-prostate/cystitis/
 - https://www.nhs.uk/conditions/kidney-infection/
-- https://www.nhs.uk/conditions/kidney-stones/

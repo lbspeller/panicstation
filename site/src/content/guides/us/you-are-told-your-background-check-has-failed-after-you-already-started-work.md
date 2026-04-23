@@ -1,89 +1,88 @@
-﻿---
+---
 title: "What to do if… you are told your background check has failed after you already started work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - background check failed after starting
-  - failed background screening at work
-  - told background check failed hired
-  - background report error wrong person
-  - screening mismatch after onboarding
-  - started job then check failed
-  - hr says background check failed
-  - consumer report dispute employment
-  - adverse action notice confusion
-  - hired then screening came back
-  - offer conditional then started
-  - background check identity mismatch
-  - criminal record mix up work
-  - employment check inaccurate report
-  - worried about being fired
-  - told cannot keep job screening
-  - background check clearance issue
-  - job retention after screening
-  - panic after failed screening
-last_reviewed: "2026-01-08"
+  - "work email deleted soon"
+  - "email access being revoked"
+  - "leaving job email account closure"
+  - "offboarding email shutdown"
+  - "employer deleting mailbox"
+  - "need emails for evidence"
+  - "need records from work email"
+  - "outlook mailbox deactivated"
+  - "microsoft 365 account removed"
+  - "google workspace account removed"
+  - "need pay stubs and hr emails"
+  - "need performance review copies"
+  - "need personnel file copy"
+  - "told account ends on short notice"
+  - "need handover records urgently"
+  - "request hr records in writing"
+  - "worried about losing work documents"
+  - "federal employee sf-50 request"
+  - "personnel file inspection rights"
+  - "my work email is closing"
+  - "help i am losing email access"
+  - "what do i do if my email is deleted"
+  - "work records preservation"
+  - "unauthorized data export risk"
+  - "employment records access laws"
+  - "handover folder creation"
+  - "sf-50 request after separation"
+  - "official personnel folder access"
+  - "recovery of work emails"
+  - "work email archive request"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told your background check has failed after you already started work (USA)
 
 ## Short answer
-Ask for the **exact report and reason in writing**. If a third-party background check company was used, ask the employer to follow the **FCRA adverse-action steps** so you have a **reasonable chance to review and dispute errors** before any final decision.
+Obtain the exact shutdown date in writing and submit a formal request to HR or IT for an official export or transfer of specific employment-related records to a company-owned shared location.
 
 ## Do not do these things
-- Do not quit on the spot or sign any waiver/separation agreement while you’re shocked.
-- Do not “explain” or admit to anything before you’ve seen what the report actually says.
-- Do not argue by text — keep everything calm, brief, and documented.
-- Do not assume “failed” means you’re legally barred; employers often use that phrase loosely.
-- Do not pay someone to “clean” your background before you’ve used the **official dispute process** for the report.
+- Do not forward large volumes of work emails or proprietary attachments to personal email addresses.
+- Do not download or copy company-owned databases, client lists, or trade secrets to personal devices.
+- Do not delete messages or clear your "Sent" folder to hide activity.
+- Do not assume that "Drafts" or "Archive" folders will remain accessible after the login is disabled.
+- Do not use third-party "email backup" software on company hardware without IT approval.
 
 ## What to do now
-1. **Pin down what “failed” means — in writing.**
-   - Ask HR: “Which type of check is this (criminal, identity, education, employment verification, credit) and what specific item is causing concern?”
-   - Ask what action they’re considering (termination, reassignment, suspension, or delaying continued employment).
-
-2. **If a third-party screening company (CRA) was used, request the FCRA notices and the report immediately.**
-   - Ask for a **copy of the report** and the **Summary of Your Rights under the FCRA**.
-   - If they’re considering firing/reassigning you because of the report, ask for the **pre-adverse action notice** and a **reasonable time** to respond before any final decision (often several business days; many employers use around 5 business days, but it varies).
-
-3. **Start a dispute with the screening company (CRA) the same day you get their details.**
-   - Use the contact information in the notice (or ask HR for the CRA name and contact info).
-   - State clearly what’s wrong (wrong person, wrong case outcome, expunged record showing, incorrect dates, incorrect employer/degree) and request reinvestigation.
-   - Keep proof of what you sent (screenshots, confirmation emails, certified mail receipts).
-
-4. **Give the employer a brief “pause + dispute filed” update.**
-   - Message HR: “I requested the report and initiated a dispute with the screening company today. Please pause any final employment decision until the dispute is completed.”
-   - If the role allows it, ask about **temporary reassignment** while the dispute is pending.
-
-5. **If it’s an identity mix-up, gather fast proof that’s hard to ignore.**
-   - Examples: court record showing the case belongs to someone else, a dismissal/disposition record, or documents showing different DOB/address.
-   - Share only what’s necessary, and only through a secure HR channel.
-
-6. **If they already took adverse action, request the final adverse action notice and keep it.**
-   - Ask for the **final adverse action notice** and confirm the **name of the screening company**.
-   - These notices typically identify the CRA, explain the CRA did not make the decision, and include information about your right to get a free copy of your file and dispute accuracy.
-
-7. **If you suspect discrimination or a blanket exclusion policy, document it without escalating yet.**
-   - Save messages, write down dates/times, and keep any policy language you were shown.
-   - Keep your communications factual: “I’m disputing accuracy” and “I’m requesting the report/rights documents.”
+1. **Verify the exact cutoff date and time in writing.** Ask HR or IT for the specific timestamp when the account will be deactivated and whether the mailbox will be permanently deleted or placed in a searchable archive.
+2. **List specific, non-proprietary employment records needed for your own history.** Focus on documents that define your relationship with the company:
+   - Your original offer letter and any signed amendments.
+   - Performance evaluations and written commendations.
+   - Pay stubs, W-2s, and benefit enrollment summaries.
+   - Written approvals for leaves of absence or accommodations.
+3. **Check the Employee Handbook for "Data Security" or "Acceptable Use" policies.** Review the rules regarding "unauthorized export" to understand what the company defines as data theft before moving any files.
+4. **Request a supervised or official transfer of critical work files.** Instead of personal copying, ask IT or your manager to:
+   - Move essential project threads to a shared department mailbox.
+   - Export your personnel-related emails into a PDF format for your HR file.
+   - Set up a "handover folder" on a shared drive (like SharePoint or Google Drive) where you can place critical transition documents.
+5. **Submit a formal written request to HR for your personnel file.** Many states (including California, Illinois, and Washington) provide statutory rights for employees to inspect or copy their personnel records within a set timeframe (often 30 days).
+   - Reference specific 2026 updates if you are in a state like California where training and education records are now explicitly included in these rights.
+6. **Identify the post-separation point of contact.** Ask for the name and email of the HR representative or IT admin who will handle record requests once your active credentials expire.
+7. **If you are a federal employee, download your eOPF records immediately.** Access the electronic Official Personnel Folder while on the agency network:
+   - Download all SF-50 (Notification of Personnel Action) forms.
+   - If already separated, contact the last employing agency's HR for the first 120 days; after 120 days, submit a written request to the National Personnel Records Center (NPRC).
 
 ## What can wait
-- You do not need to decide today whether to file complaints or lawsuits.
-- You do not need to contact multiple agencies at once; first get the **report + notices + dispute filed**.
-- You do not need to negotiate severance immediately. If you’re offered paperwork, ask for time to review.
+- You do not need to resolve disputes about the reason for the account closure right now.
+- You do not need to decide if you will take legal action today; the focus is on record preservation.
+- You do not need a copy of every routine "FYI" or "Thank you" email in your history.
 
 ## Important reassurance
-Many “failed background checks” are **data errors, mixed files, or verification gaps**, not proof of wrongdoing. The fastest way to regain control is to (1) get the exact report, (2) trigger the dispute process, and (3) push for decisions to wait for corrected information.
+It is normal to feel a sense of urgency when access to years of work is about to be revoked. Most companies have a standard offboarding process for records; a calm, specific, and written request for "employment history documentation" is usually treated as a routine administrative task rather than a hostile action.
 
 ## Scope note
-These are first steps only — to stabilize the situation and prevent irreversible mistakes. State laws and local “fair chance” rules vary, and regulated/licensed roles can add extra requirements, so you may need specialist help after you obtain the report and notices.
+This guide covers first-step stabilization for preserving access to personal employment records and work product during offboarding. It does not cover eDiscovery for active litigation or the technical recovery of already-deleted mailboxes.
 
 ## Important note
-This is general information, not legal advice. Rights and timelines depend on what type of report was used, your state, and the job’s requirements. If you’re pressured to resign or sign documents, pause and get independent advice before taking any irreversible action.
+This information is for general guidance and is not legal advice. Employer policies and state laws regarding data ownership and personnel file access vary significantly. Accessing or exporting company data without authorization may violate your employment contract or state/federal trade secret laws.
 
 ## Additional Resources
 - https://consumer.ftc.gov/articles/employer-background-checks-and-your-rights
-- https://www.ftc.gov/business-guidance/resources/using-consumer-reports-what-employers-need-know
+- https://www.consumerfinance.gov/ask-cfpb/when-i-apply-for-a-job-what-do-employers-see-when-they-do-a-credit-check-for-employment-and-a-background-check-en-1823/
+- https://www.eeoc.gov/laws/guidance/enforcement-guidance-consideration-arrest-and-conviction-records-employment-decisions
+- https://www.eeoc.gov/arrestandconviction
 - https://files.consumerfinance.gov/f/201504_cfpb_summary_your-rights-under-fcra.pdf
-- https://www.consumerfinance.gov/compliance/circulars/consumer-financial-protection-circular-2024-06-background-dossiers-and-algorithmic-scores-for-hiring-promotion-and-other-employment-decisions/
-- https://www.experian.com/connect/legal/fcra-obligations

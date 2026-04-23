@@ -1,77 +1,89 @@
-﻿---
+---
 title: "What to do if… your pay statement shows an unexpected deduction you do not recognise"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - unexplained payslip deduction
-  - unknown payslip line item
-  - pay statement deduction error
-  - net pay suddenly lower
-  - employer took money from wages
-  - unauthorised deduction from wages
-  - wrong tax deducted on payslip
-  - tax code mismatch payslip
-  - unexpected pension contribution deduction
-  - student loan deduction surprise
-  - attachment of earnings deduction
-  - overpayment clawback from wages
-  - till shortage deduction retail
-  - payroll mistake this month
-  - deduction i did not authorise
-  - payslip shows new deduction
-  - wages not paid in full
-  - payslip missing explanation
-last_reviewed: "2026-01-06"
+  - "colleague complaint about me"
+  - "formal complaint at work"
+  - "hr says complaint filed"
+  - "accused by coworker"
+  - "grievance about my behaviour"
+  - "disciplinary process started"
+  - "allegation at work"
+  - "bullying complaint at work"
+  - "harassment complaint at work"
+  - "told i am being investigated"
+  - "complaint made against me"
+  - "called to hr meeting"
+  - "asked for my statement at work"
+  - "workplace investigation interview"
+  - "worried about losing my job"
+  - "told not to contact colleague"
+  - "asked to attend disciplinary hearing"
+  - "complaint escalated to formal"
+  - "help i am being accused by a colleague"
+  - "help i have a disciplinary meeting"
+  - "help i am under investigation at work"
+  - "what do i do if a colleague complained about me"
+  - "what do i do if hr called me to a meeting"
+  - "what do i do if i am accused of harassment"
+  - "my colleague made a grievance"
+  - "my manager says someone complained about me"
+  - "smell of trouble at work"
+  - "hearing voices of concern from hr"
+  - "seeing a disciplinary invite"
+  - "workplace misconduct allegation"
+  - "employment rights uk complaint"
+  - "grievance procedure employee rights"
+  - "disciplinary hearing companion"
+  - "workplace investigation rights"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your pay statement shows an unexpected deduction you do not recognise (UK)
 
 ## Short answer
-Pause, keep the payslip, and ask payroll (in writing) for a line-by-line explanation of the deduction and what authorises it (law, contract term, or your written agreement). Do not agree to anything or sign anything until you’ve had that explanation in writing.
+Do not contact the colleague who made the complaint. Request a written summary of the allegations and a copy of the specific company policy being followed before attending any formal meetings or providing a detailed statement.
 
 ## Do not do these things
-- Do not assume it’s “tax” and ignore it—many deductions look similar but have different fixes.
-- Do not sign a form agreeing to a repayment plan or “authorising deductions” until you understand what happened and the amounts.
-- Do not hand over personal documents to anyone except your employer’s payroll/HR through official channels.
-- Do not rely on a verbal explanation—ask for a written breakdown (what, why, how calculated, when it started, and when it ends).
-- Do not “even it up yourself” (for example by reducing hours, refusing duties, or taking cash) — it can create a separate disciplinary issue.
+- Do not message, call, or approach the colleague who complained to "clear the air" or demand an explanation.
+- Do not ask other coworkers to speak to the complainant on your behalf or "scout" for information.
+- Do not vent or discuss the details on work communication platforms like Slack, Teams, or company email.
+- Do not delete or modify any emails, messages, or documents that might be relevant to the situation.
+- Do not record meetings covertly; most UK workplace policies require explicit permission for recordings.
+- Do not resign or sign an admission of guilt immediately; wait until you have reviewed the evidence and the process.
 
 ## What to do now
-1. **Capture the evidence (2 minutes).** Save a copy of the payslip, note the pay period, and screenshot/photograph the deduction line(s). If you have previous payslips, pull the last 2–3 and mark what changed.
-2. **If the payslip is missing key information, request an itemised pay statement in writing.** Ask for a payslip that clearly shows gross pay, net pay, and each deduction (so you can identify what it is and whether it’s repeating).
-3. **Ask payroll for a written breakdown today.** Use a short message like: *“Please confirm what this deduction is for, the legal/contractual basis for it, how it was calculated, and whether it will happen again next pay.”* Ask for any reference number if it’s a formal order.
-4. **Check whether it’s one of the common categories—then route it correctly:**
-   - **PAYE tax:** Compare the **tax code** on your payslip to the one shown in HMRC’s online service or the HMRC app. If they differ, ask payroll to confirm what code they’re using and why.
-   - **Pension:** Check whether the amount matches your usual auto-enrolment/employee contribution and whether a recent change (new scheme, opt-in/out, pay rise, new pay period) could explain it.
-   - **Student loan / postgraduate loan:** Look for a line item indicating this (sometimes abbreviated). If it’s new, ask payroll what triggered it and whether they received a start notice.
-   - **Court/official deductions (e.g., Attachment of Earnings):** Payroll should be able to confirm the type of order and provide the issuing reference details. If it’s unfamiliar, ask for the issuing contact details and any paperwork they can share (with sensitive details handled appropriately).
-   - **Overpayment recovery:** Ask for the original overpayment date/amount and the schedule being used. Employers can often recover genuine wage overpayments, but you can still ask for the calculation and propose a reasonable repayment plan in writing if the deduction would cause hardship.
-5. **If the deduction looks wrong or you got no clear answer, escalate in writing.** Tell payroll/HR you **do not consent** to further deductions you do not recognise, and ask them to correct the next pay run (or issue an off-cycle correction if your employer can).
-6. **Bring in support early if it’s not resolved quickly.**
-   - If you’re in a **union**, contact your rep and share the payslip and payroll’s written explanation (or lack of one).
-   - Contact **Acas** for guidance on deductions from wages and next steps.
-   - If it appears to be an **unauthorised deduction**, be aware there are **tight time limits** to start action. For many tribunal claims this is often **3 months minus 1 day** from the deduction (or the most recent in a series). Do not wait for multiple pay cycles if it’s continuing.
+1. **Request the allegations in writing immediately.** Ask HR or your manager for a summary of the specific conduct alleged, including dates and locations if available.
+2. **Identify the exact procedure being used.** Confirm in writing whether this is a **grievance procedure** (raised by the colleague) or a **disciplinary procedure** (initiated by the employer) and request the relevant policy document.
+3. **Clarify the nature of any scheduled meeting.** Ask if a meeting is an informal chat, a fact-finding **investigation meeting**, or a formal **disciplinary hearing**.
+4. **Make a formal request to be accompanied if the meeting is formal.** 
+   - You have a statutory right to be accompanied by a colleague or a trade union representative at any disciplinary or grievance hearing that could result in a formal warning or dismissal. 
+   - For an investigation meeting, you do not have an automatic statutory right to a companion, but you should request one as a "reasonable adjustment" if you have a disability or if the policy allows it.
+5. **Request access to evidence before any formal hearing.** Ask for copies of witness statements, screenshots, or logs that the employer intends to rely on during the process.
+6. **Create a private, factual timeline of events.** Write down your recollection of interactions related to the complaint, including:
+   - dates and times
+   - specific words used
+   - names of anyone else who was present
+7. **Contact your trade union or professional body.** If you are a member, notify them immediately to secure representation and advice on the specific procedure.
+8. **Request a pause if you are asked for an immediate response.** If you are surprised by an allegation in a meeting, state that you wish to cooperate but require a reasonable amount of time to process the information and provide an accurate response.
 
 ## What can wait
-- You do not need to decide today whether to make a tribunal claim—first get the deduction identified and documented.
-- You do not need to confront your manager in person; payroll/HR can usually clarify faster and with a paper trail.
-- You do not need to calculate every historical payslip right now—start with the current pay period and the first date the deduction appeared.
+- You do not need to provide a full "defence statement" in the first hour; gathering the facts and the policy comes first.
+- You do not need to decide on long-term career moves, such as searching for a new job, until the investigation has reached a preliminary conclusion.
+- You do not need to prove the complainant is "lying" immediately; the initial stage is about understanding the process and ensuring it is followed fairly.
 
 ## Important reassurance
-Unexpected deductions are often caused by admin errors (wrong tax code, benefit change, duplicate deduction, or overpayment recovery started without clear notice). You’re not being “difficult” by asking for a written explanation—this is a normal, reasonable request.
+Receiving notice of a formal complaint is a standard trigger for a workplace process and does not automatically imply guilt or an inevitable outcome. UK employment law and the Acas Code of Practice require employers to follow a fair procedure, which includes giving you the opportunity to respond to the evidence. Feeling a sense of shock or urgency is a common reaction to workplace conflict; taking a moment to focus on the procedural steps can help manage the situation.
 
 ## Scope note
-This guide covers first steps to identify the deduction, reduce the chance it repeats, and create a record. Later steps (formal grievance, tribunal claims, debt advice) can wait until you have the facts in writing.
+This guide covers first-step stabilization for the initial notification period only. It does not provide legal strategy for tribunal claims or detailed advice for specific types of gross misconduct.
 
 ## Important note
-This is general information, not legal advice. Employment status and contract terms matter, and some deductions are required by law or by official orders. If you’re unsure, use Acas and keep everything in writing.
+This information is for general guidance and does not constitute legal advice. Workplace procedures vary by employer and are subject to individual employment contracts. For complex legal issues or if your mental health is severely affected, consult a qualified solicitor or a medical professional.
 
 ## Additional Resources
 - https://www.gov.uk/payslips
-- https://www.legislation.gov.uk/ukpga/1996/18/part/I/crossheading/right-to-itemised-pay-statement
-- https://www.legislation.gov.uk/ukpga/1996/18/section/13
+- https://www.gov.uk/understanding-your-pay/deductions-from-your-pay
 - https://www.acas.org.uk/deductions-from-pay-and-wages
-- https://www.acas.org.uk/deductions-from-pay-and-wages/handling-overpayments
-- https://www.acas.org.uk/early-conciliation/how-early-conciliation-works
-- https://www.acas.org.uk/employment-tribunal-time-limits
-- https://www.gov.uk/guidance/check-if-the-tax-on-your-payslip-is-correct
+- https://www.citizensadvice.org.uk/work/pay/problems-getting-paid/
+- https://www.moneyhelper.org.uk/en/work/employment/understanding-your-payslip

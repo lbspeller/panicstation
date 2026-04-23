@@ -1,75 +1,88 @@
-﻿---
+---
 title: "What to do if… you are suddenly excluded from key meetings and decisions and you do not know why"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - excluded from key meetings
-  - left out of decisions
-  - not invited to meetings
-  - suddenly sidelined at work
-  - frozen out by team
-  - removed from project updates
-  - meeting invites stopped
-  - kept out of the loop
-  - workplace isolation
-  - sudden role change at work
-  - manager avoids updates
-  - responsibilities quietly reduced
-  - access removed without warning
-  - being cut from stakeholders
-  - possible retaliation at work
-  - possible discrimination at work
-  - performance impacted by exclusion
-  - decisions made without me
-  - workplace communication shutout
-last_reviewed: "2026-01-07"
+  - "company may miss payroll"
+  - "payroll might not run"
+  - "told wages may be late"
+  - "employer cash flow crisis"
+  - "paycheck delayed next month"
+  - "not sure you will be paid"
+  - "worried about payday"
+  - "business might be insolvent"
+  - "employer struggling to pay staff"
+  - "wages at risk"
+  - "salary might not be paid"
+  - "pay may be delayed"
+  - "employer financial trouble"
+  - "payroll shortfall warning"
+  - "fear of unpaid wages"
+  - "workplace pay uncertainty"
+  - "what do i do if company cannot pay me"
+  - "what do i do if payroll fails"
+  - "what do i do if my wages are late"
+  - "what do i do if i am not paid on time"
+  - "help i am not being paid"
+  - "help my employer is insolvent"
+  - "help my boss says no money for wages"
+  - "help payroll is late"
+  - "my employer cannot meet payroll"
+  - "my company is going bust"
+  - "my salary is missing"
+  - "my pay is short"
+  - "unpaid wages 2026"
+  - "acas early conciliation 12 weeks"
+  - "fair work agency holiday pay"
+  - "insolvency service rp1 form"
+  - "redundancy payments service uk"
+  - "missed payday help"
+  - "late salary protocol"
+  - "non-payment of wages"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are suddenly excluded from key meetings and decisions and you do not know why (UK)
+
 ## Short answer
-Pause, document what’s changed, and ask your line manager (in writing) for a clear explanation of your role and which meetings/decisions you should be included in.
+Treat this as a formal warning to secure your financial records immediately and request a written payment plan before the scheduled payday arrives.
 
 ## Do not do these things
-- Do not send an angry “why am I excluded?” message to a big group or on public channels.
-- Do not resign, threaten to resign, or “force a showdown” while you’re still unsure what’s happening.
-- Do not accuse specific people of discrimination/retaliation unless you have clear facts you can point to.
-- Do not delete emails/messages or “tidy up” your work history—keep the record as-is.
-- Do not take, copy, or forward confidential work information outside what policy allows (for example, sending things to a personal email “for safekeeping”).
-- Do not record conversations or meetings unless you have clear permission and it’s allowed by workplace policy; if you’re unsure, don’t record.
+- Do not resign immediately without advice, as this may impact your eligibility for redundancy pay or certain benefits.
+- Do not agree to verbal-only pay deferrals or "handshake" deals regarding your salary.
+- Do not delete or lose access to digital payslips, P60s, or employment contracts held on company servers.
+- Do not stop recording your actual hours worked, even if the company time-tracking system appears to be failing.
+- Do not accept "off-book" cash payments that do not appear on a formal payslip.
 
 ## What to do now
-1. **Create a simple timeline (10 minutes).** Note: when the exclusion started, which recurring meetings you stopped being invited to, which decisions you discovered after the fact, and any other changes (access removed, responsibilities shifted, people going quiet).
-2. **Preserve a clean record in a policy-compliant way.** Keep a dated log and, where allowed, retain items you personally received (invite removals, meeting minutes you were sent, messages assigning/withdrawing work). If you’re unsure what you’re allowed to keep, don’t export or forward anything—write down dates, meeting names, and who was involved.
-3. **Send a calm, specific note to your line manager.** Ask for:  
-   - confirmation of your current responsibilities and decision rights  
-   - which meetings you should be included in (name them)  
-   - whether this is temporary and what will change going forward  
-   Request a near-term 1:1 and ask for the answer in writing.
-4. **Ask for “decision handoffs” immediately.** If decisions are being made without you, request brief written recaps for anything affecting your deliverables (what changed, who decided, what you need to do next).
-5. **Protect your performance record (without sounding defensive).** Where exclusion blocks delivery, write it down plainly: “I can’t complete X without Y decision/meeting. Please confirm owner and next step by [date].”
-6. **Check your employer’s grievance route before you need it.** Find the written grievance procedure (handbook/intranet). If informal attempts fail, you can raise a formal grievance. If you’re invited to a formal grievance meeting about an employer duty owed to you, you can usually ask to be accompanied (for example, by a colleague or union representative). This does not always apply to informal chats or investigation meetings.
-7. **Escalate one step if needed (still factual).** If your manager won’t clarify or the exclusion continues, contact HR (or the designated people team) with your timeline and ask what process to follow to confirm role expectations and restore work-critical communication.
-8. **If you suspect bullying/discrimination/retaliation, tighten your notes.** Keep a separate, factual log of any linked events (for example, you raised a concern, requested adjustments, joined a union activity, or made a complaint) and what changed afterward.
-9. **Get independent guidance early if it escalates.** If you have a union, contact them. You can also contact Acas for guidance on workplace processes and options.
+1. **Request a written explanation of the payroll status immediately.** Ask your employer or HR department via email to confirm which pay date is affected, whether the issue is a total non-payment or a partial delay, and what the specific deadline is for a follow-up update.
+2. **Download and backup all pay-related documentation to a personal device.** Ensure you have copies of:
+   - Your current employment contract and any written pay rise or bonus agreements.
+   - At least the last 6 months of payslips and your most recent P60.
+   - Evidence of hours worked, including rotas, timesheets, or logs of completed projects.
+3. **Clarify any requests for pay deferral in writing before signing.** If asked to accept late or reduced pay, ensure the document specifies the exact amount owed, the date it will be paid, and a statement that this does not waive your statutory right to full pay for work already performed.
+4. **Monitor your bank account on the morning of payday and document any shortfall.** Take a screenshot of your bank statement if the expected deposit does not arrive or is for the wrong amount, then immediately notify payroll in writing of the "unauthorised deduction from wages."
+5. **Contact Acas to start Early Conciliation if the issue is not resolved within days.** **Be aware that the statutory Acas Early Conciliation period is 12 weeks as of 2026.**
+   - Note that for most unpaid wages claims, the deadline to start the tribunal process is 3 months minus 1 day from the date you should have been paid (though the Employment Rights Act 2025 has introduced pathways toward a 6-month limit).
+6. **Identify the insolvency practitioner if the company enters formal administration.** If the company fails, you must obtain a "CN" (case reference) number from the practitioner to claim unpaid wages (RP1 form) or statutory notice pay (RP2 form) from the Insolvency Service.
+7. **Contact the Fair Work Agency (FWA) for enforcement support from April 2026.** **The FWA is now the single enforcement body for holiday pay and statutory sick pay (SSP) issues.**
 
 ## What can wait
-- You do not need to decide today whether to quit, “go legal”, or confront colleagues individually.
-- You do not need to write a long statement—capture key examples and keep them date-stamped.
-- If you think you may later need copies of what personal data your employer holds about you (for example, HR notes or emails about you), you can consider a subject access request under UK data protection law—but this can escalate tensions, so it’s usually better as a later step after you’ve tried getting clarity first.
+- You do not need to decide whether to stay with the company or find a new job today.
+- You do not need to initiate a full Employment Tribunal claim until the internal grievance and Acas Early Conciliation processes are exhausted.
+- You do not need to calculate precise interest on late payments during the first 24 hours.
 
 ## Important reassurance
-Being excluded can feel humiliating and alarming, but it can also happen for mundane reasons (re-orgs, mistakes, shifting responsibilities). Your job right now is to slow things down, get clarity in writing, and avoid being judged on decisions you were not part of.
+It is a standard physiological response to feel high levels of stress when your primary income is threatened. Taking small, concrete steps to secure your records provides a factual foundation for whatever happens on payday and ensures you are prepared to act if the payment is missed.
 
 ## Scope note
-This is first-steps guidance to stabilise the situation and prevent avoidable mistakes. If it becomes a formal dispute (disciplinary action, redundancy, discrimination, whistleblowing, or dismissal risk), you may need specialist advice.
+This guide covers first-step stabilization and record-keeping when a payroll failure is threatened. If the business closes or pay is permanently withheld, specific insolvency or tribunal procedures will be required.
 
 ## Important note
-This is general information, not legal advice. Workplace rights and procedures depend on your contract, policies, and the facts.
+This information is for general guidance and does not constitute legal advice. Employment laws and statutory caps (such as the £751 weekly redundancy limit set in April 2026) change annually. If pay is missed, consult Acas, the Fair Work Agency, or a trade union representative immediately.
 
 ## Additional Resources
+- https://www.acas.org.uk/how-to-raise-a-problem-at-work
 - https://www.acas.org.uk/grievance-procedure-step-by-step
-- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
-- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures/html
-- https://www.gov.uk/handling-employee-grievance/grievance-procedure
-- https://www.legislation.gov.uk/ukpga/1999/26/section/10
-- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/subject-access-requests/a-guide-to-subject-access/
+- https://www.acas.org.uk/discrimination-and-the-law/victimisation
+- https://www.acas.org.uk/if-youve-been-discriminated-against-at-work
+- https://www.citizensadvice.org.uk/work/discrimination-at-work/dealing-with-discrimination-at-work/taking-action-work-discrimination/gathering-evidence-about-discrimination-at-work/

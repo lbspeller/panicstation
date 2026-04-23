@@ -1,97 +1,107 @@
-﻿---
+---
 title: "What to do if… you have sudden abdominal pain that is new and worsening"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - sudden abdominal pain
-  - new worsening tummy pain
-  - severe stomach ache sudden
-  - sharp belly pain started today
-  - constant abdominal pain getting worse
-  - abdominal pain with vomiting
-  - abdominal pain with fever
-  - pain when touching stomach
-  - bloated tender abdomen
-  - abdominal pain and black stools
-  - abdominal pain and blood in stool
-  - abdominal pain and faintness
-  - abdominal pain and dizziness
-  - abdominal pain and can’t pee
-  - abdominal pain and can’t pass gas
-  - possible appendicitis symptoms
-  - possible gallbladder pain
-  - possible kidney stone pain
-  - abdominal pain pregnancy possible
-  - lower tummy pain sudden
-last_reviewed: "2026-01-18"
+  - "sudden abdominal pain"
+  - "new worsening tummy pain"
+  - "severe stomach ache sudden"
+  - "sharp belly pain started today"
+  - "constant abdominal pain getting worse"
+  - "abdominal pain with vomiting"
+  - "abdominal pain with fever"
+  - "pain when touching stomach"
+  - "bloated tender abdomen"
+  - "abdominal pain and black stools"
+  - "abdominal pain and blood in stool"
+  - "abdominal pain and faintness"
+  - "abdominal pain and dizziness"
+  - "abdominal pain and can’t pee"
+  - "abdominal pain and can’t pass gas"
+  - "possible appendicitis symptoms"
+  - "possible gallbladder pain"
+  - "possible kidney stone pain"
+  - "abdominal pain pregnancy possible"
+  - "lower tummy pain sudden"
+  - "what do i do if my stomach hurts suddenly"
+  - "what do i do if abdominal pain is worsening"
+  - "what do i do if i have sharp stomach pain"
+  - "what do i do if my belly is hard and painful"
+  - "help i have sudden severe abdominal pain"
+  - "help i am vomiting blood with stomach pain"
+  - "help i cannot pass wind and my stomach hurts"
+  - "my stomach is tender to the touch"
+  - "my tummy ache is getting much worse"
+  - "extremely smelly black sticky stools"
+  - "vomit like coffee grounds"
+  - "pain in the abdomen"
+  - "stomach pain"
+  - "tummy pain"
+  - "abdominal ache"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you have sudden abdominal pain that is new and worsening (UK)
 
 ## Short answer
-Treat new, worsening abdominal pain as urgent. If it’s severe, came on suddenly, or you feel very unwell, call **999** or go to **A&E** now.
+Treat sudden, severe, or worsening abdominal pain as a medical emergency and call **999** or go to **A&E** immediately. If the pain is significant but not life-threatening, contact **NHS 111** for urgent triage.
 
 ## Do not do these things
-- Do not “wait it out” if the pain is getting worse, severe, or different from anything you’ve had before.
-- Do not take laxatives or try to “force a bowel movement” to relieve the pain.
-- Do not drink alcohol, and avoid heavy meals while you’re trying to get assessed.
-- Do not take anti-inflammatory painkillers (like ibuprofen/aspirin) unless a clinician has told you to — they can worsen some causes of bleeding/irritation.
-- Do not drive yourself to A&E if you feel faint, very weak, confused, or the pain is severe — get help.
-- Do not let embarrassment stop you: sudden abdominal pain is a common reason for urgent care.
+- Do not wait to see if the pain improves if it is severe, worsening, or different from previous experiences.
+- Do not take laxatives, enemas, or try to force a bowel movement to relieve the pressure.
+- Do not apply a hot water bottle or heat pad to the abdomen, as this can mask worsening symptoms or aggravate certain types of inflammation.
+- Do not take anti-inflammatory painkillers such as ibuprofen or aspirin unless specifically instructed by a clinician, as these can worsen internal bleeding or gastric irritation.
+- Do not eat or drink anything until you have been assessed, in case you require immediate surgery or sedation.
+- Do not drive yourself to the hospital if the pain is severe, or if you feel faint, weak, or confused.
 
 ## What to do now
-1. **Decide the safest route to urgent help (use symptoms, not guesswork).**  
-   Call **999** or go to **A&E** now if any apply:
-   - pain is **severe** or **came on very suddenly**
-   - it **hurts when you touch your stomach**, or your belly feels rigid/hard
-   - you **faint/collapse**, feel very dizzy/confused, or are clammy
-   - you **cannot breathe** or have **chest pain**
-   - you’re **vomiting blood**, or vomit looks like **coffee grounds**
-   - you have **black, sticky** stools or **blood** in stool
-   - you **cannot pee**
-   - you **cannot poo or pass wind** and the pain/bloating is worsening
-   - you have diabetes and you’re **vomiting** or can’t keep fluids down
-2. **If it’s urgent but not immediately life-threatening, use the right urgent-care service for where you are.**  
-   - **England:** call **111** (free). **111 online is England-only**.  
-   - **Scotland:** call **111** (NHS 24).  
-   - **Wales:** call **111** (NHS 111 Wales).  
-   - **Northern Ireland:** use **nidirect** for illness advice and contact your **GP out-of-hours** service if your GP is closed.  
-   If you’re told to be seen urgently, follow that advice promptly.
-3. **If pregnancy is possible, treat this as higher risk.**  
-   If you could be pregnant, do a **home pregnancy test now** if you can do it quickly. If it’s positive, or you have **vaginal bleeding**, **shoulder pain**, or feel faint/collapse, seek **urgent medical care immediately** (999/A&E).
-4. **If the pain is significant/worsening (or you’re vomiting), avoid eating for now.**  
-   It’s often safest to **avoid food** and take only **small sips of water** if you need them, until you’ve spoken to a clinician, in case you need scans, sedation, or surgery.
-5. **Make it easy for clinicians to help you quickly.**  
-   Write down (or message someone) these points:
-   - when it started and how quickly it worsened
-   - exact location (centre, right/left, upper/lower), and whether it moves
-   - vomiting/diarrhoea/constipation, fever/shivers, urinary symptoms, bleeding
-   - any injury, recent travel, recent antibiotics, or recent surgery
-   - your medications (including painkillers), allergies, and relevant conditions
-6. **Get someone with you if possible.**  
-   Ask a friend/relative/neighbour to stay, or at least to be “on call.” If you’re going to A&E, take your phone charger, ID, and a list of meds.
-7. **If you’re waiting for help and you suddenly worsen, escalate immediately.**  
-   If you become faint, confused, short of breath, develop heavy bleeding, or the pain becomes unbearable: **call 999**.
+1. **Call 999 or go to A&E immediately if high-risk symptoms are present.**  
+   Seek emergency care now if you experience any of the following:
+   - The pain came on very suddenly or is severe / unbearable.
+   - Your abdomen feels hard, rigid, or is very painful to the touch.
+   - You are vomiting blood or vomit that looks like coffee grounds.
+   - Your stools are bloody, or black, sticky, and extremely foul-smelling.
+   - You cannot breathe, have chest pain, or have collapsed.
+   - You cannot pass urine, or you cannot pass wind / stools and the bloating is worsening.
+   - You have diabetes and are vomiting.
+   - You are pregnant (or could be) and have severe abdominal pain or vaginal bleeding.
+2. **Contact the correct urgent care service for your location if you do not meet 999 criteria.**  
+   - **England:** Call **111** or use **111.nhs.uk** online.
+   - **Scotland:** Call **111** (NHS 24).
+   - **Wales:** Call **111** (NHS 111 Wales) or use the online symptom checker.
+   - **Northern Ireland:** Contact your local **GP Out-of-Hours** service (phone numbers are listed on the NI Direct website or your GP's recorded phone message).
+3. **Check for pregnancy-related risks if applicable.**  
+   - If you are less than 16 weeks pregnant and have any abdominal pain, call **999** or go to **A&E** immediately.
+   - If pregnancy is a possibility but unconfirmed, mention this immediately to the 111 operator or triage nurse.
+4. **Prepare essential information for the clinical assessment.**  
+   Write down or record the following details to help the medical team:
+   - The exact time the pain started and how quickly it escalated.
+   - The specific location of the pain (e.g., upper right, lower left, central) and if it moves elsewhere.
+   - Any associated symptoms like fever, shivering, vomiting, or changes in bowel habits.
+   - A list of all current medications, allergies, and recent medical history (including recent surgeries or travel).
+5. **Position yourself for comfort while waiting for help.**  
+   - **Lie down in a position that minimizes the pain**, such as on your side with your knees drawn up toward your chest.
+   - **Avoid moving unnecessarily** until you are assessed by a professional.
+6. **Arrange for someone to stay with you.**  
+   Ask a household member, neighbour, or friend to remain with you until medical help arrives or you reach the hospital. If you are alone, keep your front door unlocked and stay near your phone.
 
 ## What can wait
-- You do **not** need to work out the cause (appendix, gallbladder, infection, etc.) right now.
-- You do **not** need to finish work, childcare plans, or chores before seeking help.
-- You do **not** need to “prove it’s serious” by waiting for more symptoms.
-- You do **not** need to decide today about tests or treatments beyond getting assessed.
+- You do not need to identify the cause of the pain (such as appendicitis or stones) before seeking help.
+- You do not need to wait for a GP appointment if the pain is new and worsening.
+- You do not need to pack a bag or finalize household chores before departing for urgent care.
+- You do not need to decide on long-term treatment plans or lifestyle changes right now.
 
 ## Important reassurance
-New, worsening abdominal pain is frightening — and it’s reasonable to seek urgent help even if you’re unsure. Getting assessed early is often the safest way to rule out time-sensitive problems and relieve the uncertainty.
+Sudden and worsening abdominal pain is a common reason for urgent medical consultations. Seeking help early is a standard and appropriate response to these symptoms. Clinical teams are trained to prioritize these cases and perform the necessary tests to ensure your safety.
 
 ## Scope note
-This is first-steps guidance for the first hours. After you’re assessed, follow the plan you’re given and return promptly if symptoms worsen or change.
+This guide provides immediate stabilization and triage steps for the first moments of new, worsening abdominal pain. It does not replace professional medical diagnosis or long-term management plans.
 
 ## Important note
-This guide is general information, not a diagnosis. If you think you may be having a medical emergency, call 999 or go to A&E.
+If you believe you are experiencing a life-threatening emergency, call 999 immediately. This information is for general guidance and is not a substitute for clinical advice from a healthcare professional.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/stomach-ache/
-- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
-- https://111.nhs.uk/
-- https://www.nidirect.gov.uk/articles/gp-out-hours-service
-- https://www.nhsinform.scot/illnesses-and-conditions/stomach-liver-and-gastrointestinal-tract/stomach-ache-and-abdominal-pain/
-- https://www.uhsussex.nhs.uk/resources/abdominal-pain-ed-leaflet/
+- https://www.nhs.uk/conditions/appendicitis/
+- https://www.nhs.uk/conditions/acute-pancreatitis/
+- https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/

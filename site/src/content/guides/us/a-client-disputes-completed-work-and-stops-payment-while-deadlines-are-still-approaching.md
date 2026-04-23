@@ -1,97 +1,94 @@
-﻿---
+---
 title: "What to do if… a client disputes completed work and stops payment while deadlines are still approaching"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - client disputes completed work
-  - client refusing to pay
-  - payment stopped mid project
-  - invoice unpaid after delivery
-  - disputed deliverables
-  - client withholding final payment
-  - work accepted then disputed
-  - last minute scope dispute
-  - client claims work is incomplete
-  - deadlines still approaching
-  - urgent project deadline dispute
-  - client stops payment suddenly
-  - nonpayment after completion
-  - client demands changes for free
-  - milestone payment not released
-  - retainer unpaid dispute
-  - chargeback risk after delivery
-  - client ghosting after delivery
-  - client delays sign off
-last_reviewed: "2026-01-08"
+  - "freelance account suspended"
+  - "gig platform account banned"
+  - "online freelance marketplace locked"
+  - "freelance profile disabled"
+  - "marketplace account under review"
+  - "active contract in progress"
+  - "client project midstream"
+  - "cannot message client"
+  - "locked out of dashboard"
+  - "escrow funds on hold"
+  - "pending payout frozen"
+  - "platform dispute opened"
+  - "terms of service violation"
+  - "identity verification failed"
+  - "payment reversal flag"
+  - "chargeback risk worry"
+  - "missed deadline fear"
+  - "appeal deactivation decision"
+  - "preserve messages and files"
+  - "proof of delivery saved"
+  - "upwork account suspended"
+  - "fiverr account restricted"
+  - "help i cannot log in to upwork"
+  - "my freelance account is blocked"
+  - "what do i do if my account is suspended"
+  - "help my funds are frozen on upwork"
+  - "what do i do if fiverr banned me"
+  - "help i have active contracts and no account"
+  - "smell of scam"
+  - "notice of suspension email"
+  - "account health banner"
+  - "verification link not working"
+  - "locked out during project"
+  - "freelance account suspension help"
+  - "account under investigation"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a client disputes completed work and stops payment while deadlines are still approaching (USA)
 
 ## Short answer
-Stop doing additional work until the dispute and payment status are clear in writing, and send a calm “what was delivered + what’s disputed + what happens to deadlines” message today. Preserve evidence immediately, especially if the client can trigger a payment dispute through a platform or credit card.
+Immediately secure all local copies of your work and communications, then reply directly to the platform's official suspension email to request a status update on active contracts.
 
 ## Do not do these things
-- Do not keep working for free to meet a deadline while payment is being withheld.
-- Do not send threats, insults, or accusations—assume messages could become evidence.
-- Do not admit breach or “non-delivery” in writing just to de-escalate.
-- Do not hand over extra files, admin access, or additional deliverables unless it’s part of a written resolution.
-- Do not retaliate by deleting work, disabling systems, or locking the client out—avoid creating counterclaims.
-- Do not let urgency push you into open-ended scope (like unlimited revisions) while payment is frozen.
+- Do not create a second account to contact support or clients; this is considered "evasion" and usually results in a permanent, unappealable ban.
+- Do not attempt to move the project "off-platform" (e.g., asking for direct PayPal payment) to save the job, as this violates Terms of Service (TOS) and eliminates your payment protections.
+- Do not continue performing new work on "On Hold" or "Paused" contracts until the suspension is resolved, as you may not be compensated for this time.
+- Do not send multiple support tickets or aggressive messages; platforms often deprioritize accounts that spam their help desk.
+- Do not delete any previous work drafts, emails, or chat logs that could serve as evidence for an appeal.
 
 ## What to do now
-1. **Create one “evidence folder” and freeze the timeline.**  
-   Save the contract/SOW, change requests, approvals, invoices, delivery emails, messages, meeting notes, version history, and exactly what you delivered. Write a simple timeline: agreed scope → changes → deliveries → approvals → invoice → dispute.
-
-2. **Check your contract for acceptance, disputes, suspension, and deadlines.**  
-   Identify what counts as “completed,” how changes are approved, and whether you can pause work for non-payment. If you used a platform (marketplace/invoicing tool), also review its dispute rules and response windows.
-
-3. **Send one structured message that forces clarity (today).**  
-   Include:
-   - what was delivered, with dates/links  
-   - any written approval/confirmation (quote it)  
-   - a request for a **written, itemized** list of what they say is wrong and how it differs from the agreed scope  
-   - whether they dispute **all** amounts or only part  
-   - your immediate position: work is **paused** until (a) undisputed payment is received and (b) disputed items + acceptance criteria are defined  
-   - deadline impact: “With work paused, the schedule shifts; the earliest next deliverable date is ___.”
-
-4. **Ask for immediate payment of the undisputed portion.**  
-   If they’re withholding everything, ask them to pay what’s not in dispute now and separate the rest into a punch list with due dates and acceptance criteria.
-
-5. **If the client paid by credit card or through a platform, treat disputes as time-sensitive.**  
-   Respond through your payment processor/platform’s dispute workflow right away and upload delivery proof and approvals. (Separately, credit-card billing error rights for cardholders can involve strict timelines—commonly 60 days from the statement—so move promptly to avoid “default loss” outcomes.)
-
-6. **Protect your work product and access safely (without retaliation).**  
-   Back up your files, preserve version history, and document any client access you’ve granted. Keep hosted services stable while you clarify payment/scope; avoid sudden shutdowns that can be framed as harm.
-
-7. **Make a clear stop/go decision on approaching deadlines.**  
-   - **Go** only if they pay and confirm (in writing) what “done” means for the next milestone; or  
-   - **Stop** and state you cannot commit to deadlines while payment is withheld and requirements are disputed.
-
-8. **Prepare a simple demand letter as your next escalation step (if they still won’t pay).**  
-   Keep it factual: what you provided, what you’re owed, what’s disputed, and a deadline to pay/respond before you escalate. Avoid legal claims or penalties you’re unsure about.
-
-9. **Choose an escalation lane that fits your relationship.**  
-   - For many unpaid-invoice disputes, **small claims court in your state** may be an option (limits and procedures vary).  
-   - If this is actually **wages** owed by an employer (employee or misclassification situation), contact the U.S. Department of Labor Wage and Hour Division to file a complaint.
+1. **Locate the official suspension notice in your email or account banner.** **Identify the specific status assigned to your account, such as Restricted, Suspended, or Blocked.**
+   - Restricted accounts may still allow you to message existing clients or finish current milestones.
+   - Blocked or Suspended accounts typically sever all access immediately.
+2. **Capture and save all evidence of your current progress.** **Screenshot every active contract, milestone, and communication thread if you still have any level of access.**
+   - Save proof of work submitted (e.g., file upload confirmations, links to repositories).
+   - Record the exact amount of "In Review," "Pending," and "Available" funds.
+3. **Verify the status of your active contracts.** **Check if the platform has automatically placed your contracts "On Hold" or "Paused."**
+   - If a contract is on hold, the platform has likely suspended the client's billing or your ability to claim funds; stop work immediately until the hold is lifted.
+4. **Respond only through official, verified channels.** **Reply directly to the email sent by the platform's "Trust and Safety" or "Compliance" team.**
+   - Include your full name, account email, and any specific ticket or case number provided.
+   - List the IDs of active contracts that have immediate deadlines.
+5. **Prepare a factual, concise appeal document.** **Focus on providing requested documentation (like ID or tax forms) rather than debating the platform's automated systems.**
+   - State clearly if you suspect the suspension is an error (e.g., "I was traveling and used a VPN" or "I recently updated my banking details").
+6. **Notify clients through external means only if your contract allows it.** **Check your original contract terms to see if you have permission to contact the client via email or phone outside the platform.**
+   - If permitted, send a neutral update: "My platform account is currently under a routine review; I am working with their support team to restore access and will update you as soon as I have news."
+7. **Address potential identity or fraud issues via federal resources.** **If you suspect your account was compromised or your identity stolen, file a report at IdentityTheft.gov.**
+   - Note: If government websites are unavailable due to a federal shutdown, document the incident locally and file a report with your local police department.
+8. **Monitor your email for a response timeline.** **Expect an initial reply within 2 to 4 business days, though full resolutions for TOS violations can take 30 to 90 days.**
 
 ## What can wait
-- You do not need to decide today whether to sue, hire a lawyer, or use a collection agency.
-- You do not need to rebuild your entire contract or pricing model right now.
-- You do not need to respond instantly to every message—one clear written update is safer than rapid negotiation.
-- You do not need to keep producing new deliverables while the definition of “done” is disputed.
+- You do not need to pursue arbitration or legal action in the first 48 hours; most suspensions are resolved through the standard appeal process.
+- You do not need to worry about "frozen" funds immediately; platforms typically release legitimate earnings after a security hold period of 90 to 180 days.
+- You do not need to explain the situation to your entire professional network or post on social media; private resolution is more effective.
 
 ## Important reassurance
-This kind of dispute spikes stress because it combines money, reputation, and time pressure. Pausing work, documenting what happened, and forcing clear written definitions is a normal professional response that prevents a bad situation from compounding.
+Account suspensions are frequently triggered by automated security "flags"—such as logging in from a new country, changing bank details, or a client’s payment failing—rather than a manual decision that you have done something wrong. These are often reversible once a human agent reviews your documentation.
 
 ## Scope note
-These are first steps to stabilise and protect you. If the amount is large, deadlines are business-critical, or the client is threatening legal action, tailored legal advice in your state may be appropriate.
+This guide provides first-step stabilization for account access and contract protection. It does not cover long-term legal strategies for permanent bans or specialized arbitration for high-value fund disputes.
 
 ## Important note
-This is general information, not legal advice. Contract rights, small claims limits, and payment-dispute procedures vary by state and by the contract and payment method you used. If you’re unsure whether this is an unpaid-invoice dispute or unpaid wages from employment, pause and identify which relationship you’re actually in before taking formal steps.
+This information is for general guidance and does not constitute legal advice. Freelance platforms operate under private Terms of Service and user agreements which govern your rights to access and payment. If significant funds are at stake or you are accused of serious violations, consult with a qualified attorney or a freelance advocacy organization.
 
 ## Additional Resources
-- https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-a-charge-on-my-credit-card-bill-en-61/
-- https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges
-- https://www.ncsc.org/resources-courts/understanding-small-claims-court
-- https://www.dol.gov/agencies/whd/contact/complaints
-- https://www.worker.gov/actions-whd-claim/
+- https://www.usa.gov/company-product-service-complaints
+- https://www.usa.gov/state-consumer
+- https://www.usa.gov/legal-aid
+- https://www.adr.org/news-and-insights/practical-perspectives-on-commercial-mediation/
+- https://www.americanbar.org/groups/young_lawyers/resources/tyl/practice-areas/how-to-draft-effective-settlement-offers/

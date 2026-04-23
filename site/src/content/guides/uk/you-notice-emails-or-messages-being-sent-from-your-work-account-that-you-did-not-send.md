@@ -1,78 +1,94 @@
-﻿---
+---
 title: "What to do if… you notice emails or messages being sent from your work account that you did not send"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - work email sending itself
-  - emails sent i did not send
-  - messages sent from my account
-  - suspicious sent items at work
-  - hacked work email account
-  - work microsoft 365 compromised
-  - outlook account compromise at work
-  - gmail workspace account hacked
-  - someone using my work inbox
-  - unauthorised emails from me
-  - unexpected email forwarding rule
-  - mailbox rules changed without me
-  - colleague says i emailed them
-  - work account taken over
-  - possible phishing stole my password
-  - business email compromise signs
-  - work chat messages not mine
-  - teams or slack messages sent
-  - account hijacked at work
-  - compromised work mailbox
-last_reviewed: "2026-01-07"
+  - "demand to return company equipment"
+  - "return work laptop to employer"
+  - "return work phone after leaving"
+  - "former employer threatening legal action"
+  - "letter before action equipment"
+  - "threatened deduction from final pay"
+  - "employer withholding wages over equipment"
+  - "courier return of company property"
+  - "proof of return equipment"
+  - "serial number dispute"
+  - "company property dispute after resignation"
+  - "hr demanding equipment back"
+  - "threat of police for work laptop"
+  - "returning kit after termination"
+  - "equipment handover receipt"
+  - "sent equipment back lost in post"
+  - "employer says you kept equipment"
+  - "what do i do if my boss wants my laptop back"
+  - "what do i do if i am threatened with legal action"
+  - "what do i do if my wages are withheld for equipment"
+  - "help i lost my work phone"
+  - "help i cannot return my work equipment"
+  - "help my employer is suing me for a laptop"
+  - "smell of burning electronics"
+  - "cracked screen on work laptop"
+  - "unauthorised deduction from wages uk"
+  - "employment rights act 1996 section 13"
+  - "work laptop handover"
+  - "company phone return protocol"
+  - "disputed equipment return"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you notice emails or messages being sent from your work account that you did not send (UK)
 
 ## Short answer
-Treat this as a suspected account compromise: contact your IT/security helpdesk immediately and ask them to lock the account, force a sign-out, and check for suspicious sign-ins and forwarding/rules.
+Respond in writing to confirm you hold the items and request a secure, tracked return method; do not agree to pay any fees or accept wage deductions without verified contractual authorisation.
 
 ## Do not do these things
-- Do not delete sent emails, security alerts, or logs — it can make it harder for IT to confirm what happened.
-- Do not keep using the account “to see what happens” or message the attacker back.
-- Do not click links or open attachments connected to this incident (even if they look internal).
-- Do not attempt password resets or “fixes” on a device you suspect might be compromised; if you have no alternative, call IT first and follow their instructions.
-- Do not send a mass apology/explanation to everyone yet unless your organisation asks — you could spread malicious links further or conflict with incident comms.
+- Do not ignore the demand, as silence can be used to justify claims of "theft" or "conversion" in civil court.
+- Do not hand over equipment to any individual without a dated, signed receipt that lists specific serial numbers.
+- Do not agree to deductions from your final salary or holiday pay via telephone or in-person conversation.
+- Do not reset or wipe data from the devices unless you have a written instruction from the IT department or HR.
+- Do not ship items via standard post; use only tracked and insured services.
+- Do not visit the workplace to return items if you have been told not to enter the premises.
 
 ## What to do now
-1. **Pause and switch channel.** Stop sending messages. Use a different trusted way to communicate (phone call, known helpdesk number, in-person) rather than replying from the possibly compromised account.
-2. **Report it to IT/security immediately.** Say: “I’m seeing emails/messages sent from my account that I did not send — please treat as suspected compromise.” Ask them to:
-   - **Temporarily disable/restrict sign-in**
-   - **Force sign-out of all sessions**
-   - **Reset your password** and confirm **MFA** is enabled and working
-   - Review **recent sign-ins** and any changes to **mailbox rules/forwarding/delegated access/connected apps**
-3. **Preserve a minimal record (internally).** Capture the minimum needed (timestamps, recipients, subject lines, any security alerts). Use screenshots only if allowed, and **share them only through your organisation’s approved incident channel** (not personal email or external services).
-4. **Check for “silent” changes (only if IT says it’s safe to log in).**
-   - Look for unexpected **forwarding**, **new inbox rules**, **auto-replies**, or unknown **delegate access/connected apps**.
-   - If you find something, capture the details and tell IT/security — don’t just delete it without guidance.
-5. **Contain harm to colleagues/clients quickly.**
-   - Tell your manager (briefly) your account may have been used to send unauthorised messages.
-   - With IT/security, identify **who received the messages** so the organisation can warn them not to click links or follow new payment/instruction changes.
-6. **If invoices or payment details were involved, escalate internally now.** Contact your **finance/payments team** (via a trusted route) so they can pause or verify transactions and supplier bank-detail changes.
-7. **Secure related work access.** If you reused passwords across work systems, assume they may be exposed. With IT guidance, update those credentials and ensure MFA remains on.
-8. **If you suspect phishing started this, report the phishing safely.** Use your organisation’s phishing reporting process. If (and only if) it’s permitted by policy and doesn’t disclose confidential company information, you can also forward the **original phishing email you received** to the UK’s suspicious email reporting address.
+1. **Document the current state of all equipment immediately.** 
+   - Take clear photographs of the front, back, and sides of every item (laptop, phone, tablet, monitors).
+   - Photograph the serial number stickers and asset tags on each device.
+   - Video the device turning on (if applicable) to prove the screen and OS are functional.
+2. **Draft a formal inventory of everything in your possession.**
+   - Include the item name, model, serial number, and any visible damage (e.g., "scuff on casing", "missing charger cable").
+   - List items you believe were never issued or were already returned, if applicable.
+3. **Send a written response requesting a "Safe Return Protocol".**
+   - State that you are ready to return the property and ask for the employer's preferred method (courier collection or in-person handover).
+   - Request a pre-paid, tracked courier label if they require shipping.
+   - Ask for a "Return Reference Number" or the name of the specific person authorised to sign for the items.
+4. **Verify your contract for "Deduction Clauses".**
+   - Search your signed employment contract for terms mentioning "unauthorised deductions," "company property," or "final pay."
+   - Under the Employment Rights Act 1996, an employer can only deduct money if it is required by law, authorised by your contract, or you gave prior written consent.
+5. **Execute the return with high-grade evidence.**
+   - **If using a courier:** Photograph the items inside the box and the sealed box with the shipping label attached. Keep the "Proof of Posting" receipt and tracking number.
+   - **If in-person:** Bring two copies of your inventory list. Require the recipient to sign and date both copies, stating "Received in good condition" (or noting any issues).
+6. **Issue a formal "Non-Consent" notice regarding pay.**
+   - If the employer threatens to withhold wages, reply in writing: "I do not consent to any deductions from my wages, including holiday pay, in relation to this equipment. I am complying with the return process as documented."
+7. **Secure your personal data.**
+   - Remove any personal SIM cards, SD cards, or external peripherals you purchased yourself.
+   - Log out of personal accounts (Google, iCloud, LinkedIn) but do not delete system files unless instructed.
 
 ## What can wait
-- You do not need to work out exactly how it happened right now — containment comes first.
-- You do not need to draft a detailed explanation to everyone who received messages unless your organisation directs it.
-- You do not need to decide whether this becomes an HR issue right now; focus on reporting and reducing harm.
+- You do not need to respond to the aggressive tone or "threats" of legal action immediately; focus only on the logistics of the return.
+- You do not need to pay for repairs or replacements out-of-pocket today, even if they claim the items are damaged.
+- You do not need to decide whether to file an Employment Tribunal claim for "unlawful deduction of wages" until after your final pay statement is issued.
 
 ## Important reassurance
-It’s normal to feel embarrassed or panicked, but this is a common attack pattern. Stopping use, reporting quickly, and preserving evidence are the actions that limit damage.
+In the UK, equipment disputes are almost always civil matters. Provided you are communicating in writing and attempting to return the items, "theft" is extremely difficult for an employer to prove to the police. Standard procedure is for the property to be returned, after which legal threats usually evaporate.
 
 ## Scope note
-These are first steps only. Your organisation may have additional security, HR, and data-protection steps once the account is secured.
+This guide provides first-step stabilization for returning property and protecting pay. It does not cover the specifics of data protection (GDPR) or the resolution of long-standing financial disputes between you and your employer.
 
 ## Important note
-This is general information, not legal or professional advice. Follow your employer’s IT/security policies and instructions. When in doubt, preserve evidence and report through approved channels rather than trying to “fix” it yourself.
+This information is for guidance and does not constitute legal advice. Employers have specific rights under the Employment Rights Act 1996, but these are balanced against your right to receive earned wages. If your employer withholds pay or issues a "Letter Before Action" from a solicitor, contact Acas or a qualified employment lawyer immediately.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/files/recovering-hacked-accounts-infographics.pdf
-- https://www.gov.uk/report-suspicious-emails-websites-phishing
-- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
-- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
+- https://www.ncsc.gov.uk/section/respond-recover/phishing
+- https://ico.org.uk/for-organisations/report-a-breach/personal-data-breach/personal-data-breaches-a-guide/
+- https://ico.org.uk/for-organisations/advice-for-small-organisations/personal-data-breaches/72-hours-how-to-respond-to-a-personal-data-breach/

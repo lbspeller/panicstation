@@ -1,89 +1,108 @@
-﻿---
+---
 title: "What to do if… you are told your professional licence or certification board may be notified by your employer"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - employer may notify regulator
-  - employer reporting to board
-  - professional licence at risk
-  - certification board complaint
-  - workplace allegation escalation
-  - threatened referral to regulator
-  - disciplinary process and licence
-  - fitness to practise concern
-  - professional registration risk
-  - told board will be contacted
-  - asked to attend investigation meeting
-  - union rep at disciplinary
-  - asked to sign written statement
-  - pressured to resign suddenly
-  - regulator self-report uncertainty
-  - complaint from employer
-  - internal investigation underway
-  - professional conduct accusation
-last_reviewed: "2026-01-07"
+  - "repeated password reset emails"
+  - "password reset emails at work"
+  - "unrequested password reset link"
+  - "work account reset email"
+  - "suspicious reset notifications"
+  - "account takeover warning signs"
+  - "credential stuffing attempts"
+  - "phishing using reset emails"
+  - "mfa prompt you didnt request"
+  - "unexpected security code email"
+  - "microsoft 365 reset email"
+  - "google workspace reset email"
+  - "work email login alerts"
+  - "mailbox rules changed"
+  - "email forwarding set up"
+  - "unknown device sign in"
+  - "oauth app permissions granted"
+  - "reset email flood attack"
+  - "someone knows my work email"
+  - "help i get password reset emails"
+  - "what do i do if work email reset"
+  - "my work account is being targeted"
+  - "suspicious activity on work login"
+  - "unauthorised password change request"
+  - "fake password reset alert"
+  - "signs of mailbox compromise"
+  - "burning password attempts"
+  - "spam reset links"
+  - "unrequested security code"
+  - "work account security alert"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told your professional licence or certification board may be notified by your employer (UK)
 
 ## Short answer
-Pause and get the allegation and the “who/when/what will be reported” in writing. Before you attend any meeting or respond in detail, line up support (union/rep and, if relevant, your professional defence organisation/insurer).
+Do not click any links or buttons in the emails. Immediately contact your organisation's IT or security helpdesk via a trusted, independent channel to report a suspected targeting attempt.
 
 ## Do not do these things
-- Do not resign “to make it go away” or accept a settlement on the spot (resignation can still be reported, depending on the regulator and circumstances).
-- Do not send long, emotional emails or messages trying to “clear it up”.
-- Do not sign a written statement, “agreed notes”, or an outcome letter you disagree with under pressure.
-- Do not delete emails, texts, records, or work files (even if you’re panicking).
-- Do not contact the regulator in a rush to “explain everything” without advice (you may have to self-report in some professions, but do it deliberately).
-- Do not discuss the allegations widely at work, on group chats, or on social media.
+- Do not click "reset password", "verify", "unsubscribe", or "not me" links within the emails.
+- Do not call any phone numbers or use contact details provided inside the suspicious emails.
+- Do not approve any Multi-Factor Authentication (MFA) prompts or share one-time codes with anyone, even if they claim to be from "IT".
+- Do not forward the emails to personal accounts or external addresses.
+- Do not delete the emails until your security team has confirmed they have captured the necessary technical headers.
 
 ## What to do now
-1. **Ask for the essentials in writing (today).** Reply calmly requesting:
-   - the specific allegation(s) and dates,
-   - what policy/standard they say is involved,
-   - whether this is an *investigation*, *disciplinary*, *capability*, or *conduct* process,
-   - exactly **which** regulator/board they think will be notified, **what** they plan to say/share, and **when**.
-2. **Get the process documents.** Ask HR for your employer’s:
-   - disciplinary/capability policy,
-   - investigation procedure,
-   - any “raising concerns with regulators” or “professional registration” policy,
-   - any notes already taken about you (invite, minutes, investigator appointment, terms of reference).
-3. **Use accompaniment rights carefully (don’t assume).**
-   - If this is a **disciplinary hearing** (or a qualifying **grievance meeting**), you usually have a **legal right** to bring a companion (trade union representative or colleague).
-   - If this is an **investigation meeting**, there is **not usually a legal right** to be accompanied — but it can be allowed by your employer’s policy and it’s often reasonable to request it. Ask plainly: “Please confirm I can bring a companion to this meeting.”
-4. **Contact the right support channel for your profession.** If you have a union, professional defence organisation, indemnity provider, or professional body helpline, contact them and say:  
-   “My employer says they may refer/notify my regulator. I need urgent guidance on how to handle meetings, statements, and any self-reporting duties.”
-5. **Check whether *you* have a self-reporting duty — without guessing.** Many UK regulators and some certification schemes require you to notify them about certain events.  
-   - Look up your regulator’s “concerns / fitness to practise / reporting” page and identify what triggers notification.
-   - If it’s unclear, ask the regulator (or your defence/union adviser) **whether** you need to self-report in your situation — avoid giving a full narrative on a first contact unless you’re advised to.
-6. **Write a neutral timeline while it’s fresh.** In a private document: dates, who said what, what you did, what evidence exists (emails, rota, case notes, tickets, audit logs). Keep it factual.
-7. **Preserve and gather records safely.**
-   - Keep copies of emails/letters *sent to you* about the process (invite letters, allegations, outcomes).
-   - Don’t forward confidential client/patient data to your personal email. If you need records for defence, ask HR for a secure disclosure process.
-8. **Consider a subject access request (SAR) if you suspect missing/incorrect records.** You can request copies of personal data your employer holds about you (for example HR notes, investigation materials, emails where you’re discussed), subject to lawful exemptions and redactions.
-   - Make the request in writing so it’s clear what you asked for.
-   - Expect that some information may be withheld or redacted (for example, other people’s data or legally privileged material), and that employers generally respond within a set timeframe.
-9. **If you believe the threat is being used unfairly (or to force you out), keep it procedural.** You can raise a formal grievance about process, misinformation, or retaliation — but keep it short and evidence-based.
+1. **Assess the situation without interacting with the emails.**
+   Observe how many emails have arrived and which services they claim to be for (e.g., Microsoft 365, VPN, or payroll portals). Do not open attachments or images within these messages.
+
+2. **Contact your IT or security helpdesk through a verified route.**
+   **Use a known internal phone number, the company intranet, or your standard ticketing system.**
+   - Tell them you are receiving unrequested, repeated reset emails.
+   - Specify if the emails were preceded by any unusual MFA prompts.
+   - Note if you have access to "special category" data (HR, financial, or sensitive personal data) as this may trigger specific reporting timelines.
+
+3. **Request that your security team performs immediate account verification.**
+   **Ask them to check for active unauthorised sessions and recent configuration changes.**
+   - Request a review of sign-in logs for unfamiliar IP addresses or locations.
+   - Ask for a "revoke all sessions" command to be issued if your system supports it.
+   - Have them check for new mailbox rules, such as auto-forwarding or "move to folder" rules designed to hide security alerts.
+
+4. **Change your password only through the official organisation portal.**
+   **If authorised by IT, navigate directly to your work login page in a fresh browser window.**
+   - Do not use the link in the email to reach this page.
+   - Use a strong, unique password (the NCSC recommends three random words).
+
+5. **Review your own account settings for "silent" indicators of compromise.**
+   **Check for unauthorized changes in your mail and security settings if you have permission.**
+   - Look for new "connected apps" or third-party integrations (OAuth permissions).
+   - Check the "sent items" and "deleted items" folders for messages you did not send.
+
+6. **Treat any interaction with the email as a critical incident.**
+   **If you clicked a link or entered credentials, inform IT immediately.**
+   - State clearly: "I clicked a link" or "I entered my password on a page."
+   - Follow their specific protocol for device isolation or malware scanning.
+
+7. **Notify your direct manager of the potential risk.**
+   **Advise them that your account is being targeted so they can verify any urgent requests via a second channel (e.g., a phone call).**
+   - This prevents attackers from using your "compromised" identity to request urgent payments or sensitive data.
+
+8. **Report the incident to the NCSC if instructed.**
+   **Forward suspicious emails to report@phishing.gov.uk or use the reporting portal at https://report.ncsc.gov.uk.**
+   - Confirm with your IT team first, as they may wish to handle the external reporting centrally.
 
 ## What can wait
-- Writing a “full defence statement” or detailed rebuttal (do this after you’ve seen the allegation, evidence, and process).
-- Deciding whether to escalate externally unless you’re facing an immediate deadline.
-- Negotiating settlement terms or exit packages.
-- Trying to predict what the regulator will do.
+- You do not need to identify the attacker or their location.
+- You do not need to notify the Information Commissioner's Office (ICO) yourself; this is the responsibility of your organisation’s Data Protection Officer.
+- You do not need to report to the police unless your organisation identifies an actual financial loss or data theft.
 
 ## Important reassurance
-Being told “we may notify your board” is scary, but it is not the same as a finding against you. Regulators typically have staged processes, and employers often have to decide what is appropriate to refer and what can be handled locally. Your job right now is to slow it down, get clarity, and avoid unforced mistakes.
+Receiving these emails often means your email address is known to attackers, but it does not mean they have successfully breached your account yet. These "reset storms" are frequently used to cause "MFA fatigue" or to lure you to a fake site. By not interacting and alerting IT, you are effectively breaking the attack chain.
 
 ## Scope note
-These are first steps only — to stabilise the situation, protect your position, and buy time. Later stages (formal response, hearings, settlement, regulator correspondence) may need specialist employment and/or regulatory advice.
+This guide provides first-step stabilization for individual employees. It is not a substitute for your organisation’s formal Incident Response Plan (IRP).
 
 ## Important note
-This is general information, not legal or professional regulatory advice. Rules differ significantly by profession (health, law, education, finance, construction, security, etc.) and by regulator. If you have any reason to think client/patient safety is involved, or you may have a reporting duty, get profession-specific support quickly.
+This information is for general guidance and does not constitute legal or professional security advice. In the event of a suspected breach, your organisation’s internal security policies and instructions from your IT department take precedence over this guide.
 
 ## Additional Resources
-- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
-- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures/html
-- https://www.legislation.gov.uk/ukpga/1999/26/section/10
-- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
-- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/subject-access-requests/a-guide-to-subject-access/
-- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/right-of-access/exemptions-when-can-we-refuse-a-sar/
+- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/dealing-with-disciplinary-action-and-dismissal-at-work/
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/
+- https://www.acas.org.uk/grievance-procedure-step-by-step
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/subject-access-request-q-and-as-for-employers/

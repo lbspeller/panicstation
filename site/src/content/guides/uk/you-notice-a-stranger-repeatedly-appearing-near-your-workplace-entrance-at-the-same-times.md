@@ -1,85 +1,92 @@
-﻿---
+---
 title: "What to do if… you notice a stranger repeatedly appearing near your workplace entrance at the same times"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - stranger outside workplace
-  - repeated loitering at entrance
-  - someone waiting near office door
-  - suspicious person near work
-  - being watched at work
-  - pattern of appearances
-  - same time each day
-  - workplace entrance safety
-  - concerns about being followed
-  - possible stalking near work
-  - unwanted attention at workplace
-  - uneasy commute to work
-  - someone hanging around building
-  - leaving work feels unsafe
-  - arriving at work feels unsafe
-  - unknown person near reception
-  - stranger near car park
-  - harassment outside workplace
-  - safety plan for work arrival
-last_reviewed: "2026-01-17"
+  - "stranger outside workplace"
+  - "repeated loitering at entrance"
+  - "someone waiting near office door"
+  - "suspicious person near work"
+  - "being watched at work"
+  - "pattern of appearances"
+  - "same time each day"
+  - "workplace entrance safety"
+  - "concerns about being followed"
+  - "possible stalking near work"
+  - "unwanted attention at workplace"
+  - "uneasy commute to work"
+  - "someone hanging around building"
+  - "leaving work feels unsafe"
+  - "arriving at work feels unsafe"
+  - "unknown person near reception"
+  - "stranger near car park"
+  - "harassment outside workplace"
+  - "safety plan for work arrival"
+  - "workplace entrance stranger"
+  - "stranger same times"
+  - "repeatedly appearing stranger"
+  - "notice a stranger work"
+  - "workplace entrance loitering"
+  - "what do i do if a stranger is outside my work"
+  - "what do i do if someone is watching my office"
+  - "help i think i am being followed to work"
+  - "help i am being watched at my workplace entrance"
+  - "my commute feels unsafe stranger"
+  - "my office entrance has a suspicious person"
+  - "man waiting outside work entrance"
+  - "woman waiting outside office door"
+  - "constant presence outside building"
+  - "feeling watched arriving at work"
+  - "stranger appearing work schedule"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you notice a stranger repeatedly appearing near your workplace entrance at the same times (UK)
 
 ## Short answer
-Get to a safer pause (inside, with other people) and tell your workplace immediately so you’re not handling this alone. Start a simple incident log and contact the police for advice if it repeats or you feel unsafe (999 if immediate danger; otherwise 101 or your local force’s online reporting).
+Move immediately to a secure, populated area inside the building and alert your employer or building security. Do not attempt to investigate the person yourself; treat the repeated pattern as a serious safety concern that requires a formal workplace risk assessment.
 
 ## Do not do these things
-- Do not confront the person alone or try to “test” them by approaching.
-- Do not keep walking the same route in and out if you feel uneasy “just to be polite”.
-- Do not share your routine or the incident publicly (including posts that reveal times/locations).
-- Do not try to gather “proof” by getting close, taking risky photos, or following them.
-- Do not wait for it to become “serious enough” before telling your workplace—patterns matter.
+- Do not confront the person or ask them why they are there.
+- Do not attempt to take close-up photographs or follow them to "get proof."
+- Do not vary your route or arrival time alone if it means walking through isolated or poorly lit areas.
+- Do not ignore your instincts if the pattern feels targeted or threatening.
+- Do not post about the situation on social media in a way that reveals your location or routine.
 
 ## What to do now
-1. **Get to a safer pause first.** If you’re outside, go back inside (or into a staffed nearby business) and stay where there are people, lighting, and cameras.
-2. **Tell your workplace immediately and name the pattern.** Report to your manager/HR/security/reception/building management: “A stranger has repeatedly appeared at our entrance around the same times.” Ask who is coordinating the response today.
-3. **Ask for immediate, practical protection for your next entry/exit.** For example:
-   - A colleague/security escort to and from the entrance.
-   - Someone to watch the entrance at your arrival/departure time.
-   - Use a different entrance or staff-only route if available.
-4. **Ask your employer to treat this as a workplace safety incident (today).** Request they:
-   - Log it internally (date/time/location) and brief reception/security.
-   - Review controls for that time window (doors, access, lone working, car park checks).
-   - Make a temporary adjustment so you’re not arriving/leaving alone if that’s currently the case.
-5. **Start a basic incident log (keep it brief and safe).** Record:
-   - Date/time, exact location, what they did, how long they stayed.
-   - Description (clothes, height/build, distinguishing features).
-   - Any vehicle details only if safely visible (make/colour/number plate).
-   - Witnesses (names at work).
-6. **Ask for CCTV/entry records to be preserved by the building/employer.** Request they retain relevant CCTV for the dates/times and note any related reception/security reports (many systems overwrite quickly).
-7. **Reduce predictability for the next few days without isolating yourself.**
-   - Arrive/leave with someone; vary timing slightly if you can.
-   - Avoid being alone in car parks/bike stores; choose well-lit, busy routes.
-   - If using taxis/ride-shares, use a staffed pickup point (front lobby/reception).
-8. **Contact the police if it repeats, you feel targeted, or it escalates.**
-   - **Call 999** if you feel threatened, the person tries to follow/approach you, blocks your path, or you believe you’re in immediate danger.
-   - Otherwise **call 101 or use your local police force’s online reporting** to report the repeated pattern and ask for advice. Offer your log and ask for a reference number. If you’re unsure whether it “counts,” report what’s been happening anyway.
-9. **Widen the safety net for today.** Tell one trusted person your plan for getting home and arrange a check-in once you’re safely away from work.
+1. **Move to a secure, populated area inside the building immediately.** If you are currently outside, enter the building through the main entrance or go to the nearest staffed business (such as a shop or cafe) and stay there until you can be escorted.
+2. **Alert your manager or the building security team about the specific pattern you observed.** State clearly: "I have noticed a stranger repeatedly appearing at the entrance at specific times and I do not feel safe entering or leaving alone."
+3. **Request an immediate security escort for your next arrival and departure.** Ask for a colleague or security guard to meet you at your transport or walk you to your car/station.
+4. **Demand a formal review of workplace entry safety for your specific shift times.** Under UK health and safety regulations (Management of Health and Safety at Work Regulations 1999), your employer must assess risks to your safety, which includes the threat of work-related violence or harassment.
+   - Ask for a review of CCTV coverage at the entrance.
+   - Request that the building management preserve footage from the specific dates and times you noted.
+5. **Start a concise, written log of every appearance.** Keep this log on a device or in a notebook that you keep with you; do not leave it at your desk.
+   - Record the date, exact time, and duration of the appearance.
+   - Note the person's physical description (approximate height, clothing, and distinguishing features).
+   - Document any specific behavior, such as staring, following, or hiding when noticed.
+6. **Report the pattern to the police via 101 or the local force's online reporting tool.** Stalking and harassment are criminal offenses in the UK under the Protection from Harassment Act 1997.
+   - Provide your log of incidents.
+   - Ask for a crime reference number or an incident log number.
+   - **Call 999 immediately** if the person attempts to follow you, blocks your path, or approaches you aggressively.
+7. **Arrange a "check-in" system with a trusted contact outside of work.** Tell them your expected departure time and your intended route home, and confirm with them once you have arrived safely.
+8. **Ask your employer to implement temporary "lone working" protections if you usually arrive or leave alone.** This may include changing your start/finish times to coincide with other staff or providing a secure parking space closer to the entrance.
 
 ## What can wait
-- You do not need to decide whether it’s “stalking” or “a crime” right now—describe the repeated pattern and how it affects your safety.
-- You do not need to identify the person, learn their name, or confront them to be taken seriously.
-- You do not need to make big, irreversible changes (quitting, moving, changing everything) in the first hour.
+- You do not need to prove that a crime has been committed before reporting the pattern to security.
+- You do not need to determine the person's identity or motives.
+- You do not need to decide on long-term changes to your job or commute in the first instance.
 
 ## Important reassurance
-Noticing a repeated pattern and taking it seriously is a sensible safety response. You’re allowed to ask your workplace for practical support and to get police advice early, before anything worse happens.
+Noticing a pattern of behavior is a significant observation, not an overreaction. Your employer has a legal duty to take reasonable steps to ensure your safety at the workplace entrance, and the police take reports of repeated loitering seriously.
 
 ## Scope note
-This is first steps only—focused on immediate safety, documentation, and getting the right people involved. If it continues, your employer and the police can advise on longer-term options.
+This guide provides first-step stabilization for a potential stalking or harassment situation at a workplace. It focuses on immediate physical safety and the initial reporting process.
 
 ## Important note
-This guide is general information, not legal advice. If you feel in immediate danger, call 999.
+This information is for general guidance and does not constitute legal or professional security advice. If you believe you are in immediate danger, call 999.
 
 ## Additional Resources
-- https://www.police.uk/pu/contact-us/
-- https://www.gov.uk/contact-police
-- https://www.gov.uk/report-stalker
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-to-do-if-youre-being-stalked-or-harassed/
 - https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
-- https://www.acas.org.uk/discrimination-and-the-law/harassment
+- https://www.suzylamplugh.org/pages/category/national-stalking-helpline
+- https://www.suzylamplugh.org/blog/stalking-in-the-workplace-what-is-the-responsibility-of-an-employer
+- https://www.npsa.gov.uk/specialised-guidance/personal-safety-security-high-risk-individuals/are-you-being-watched-or-followed

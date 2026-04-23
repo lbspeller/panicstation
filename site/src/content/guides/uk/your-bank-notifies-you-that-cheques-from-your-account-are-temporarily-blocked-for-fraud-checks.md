@@ -1,76 +1,89 @@
-﻿---
+---
 title: "What to do if… your bank notifies you that cheques from your account are temporarily blocked for fraud checks"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - cheque blocked by bank
-  - cheques temporarily stopped
-  - outgoing cheque blocked
-  - suspected cheque fraud
-  - bank fraud review hold
-  - cheque payments disrupted
-  - chequebook security issue
-  - missing cheque book
-  - cheque numbers at risk
-  - stop a cheque payment
-  - payee says cheque bounced
-  - rent paid by cheque
-  - bills paid by cheque
-  - unexpected bank fraud alert
-  - bank impersonation scam
-  - account payments blocked
-  - urgent payment alternative
-last_reviewed: "2026-01-10"
+  - "cheque blocked by bank"
+  - "cheques temporarily stopped"
+  - "outgoing cheque blocked"
+  - "suspected cheque fraud"
+  - "bank fraud review hold"
+  - "cheque payments disrupted"
+  - "chequebook security issue"
+  - "missing cheque book"
+  - "cheque numbers at risk"
+  - "stop a cheque payment"
+  - "payee says cheque bounced"
+  - "rent paid by cheque"
+  - "bills paid by cheque"
+  - "unexpected bank fraud alert"
+  - "bank impersonation scam"
+  - "account payments blocked"
+  - "urgent payment alternative"
+  - "what do i do if my cheque is blocked"
+  - "what do i do if bank stops my cheques"
+  - "what do i do if cheques are under review"
+  - "what do i do if my account is restricted"
+  - "help i have a cheque hold"
+  - "help i cannot write cheques"
+  - "help my bank stopped my payments"
+  - "help my cheque was returned unpaid"
+  - "smell of fraud"
+  - "viewing blocked status in app"
+  - "receiving fraud text alert"
+  - "hearing fraud warning on phone"
+  - "seeing returned cheque fee"
+  - "cheque book theft"
+  - "stolen cheque stubs"
+  - "fraudulent cheque signature"
+  - "incorrect cheque amount"
+  - "cheque payment at night"
+  - "blocked cheque in flat"
+  - "cheque hold on weekend"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your bank notifies you that cheques from your account are temporarily blocked for fraud checks (UK)
+
 ## Short answer
-Contact your bank via a trusted route (banking app or the number on the back of your card) to confirm what’s blocked and what they need from you, then switch any time-critical cheque payments to a safer alternative right away. If this started because of an unexpected phone call about your money, hang up and dial 159 to be connected securely to your bank.
+Contact your bank through a verified route such as the official banking app or the phone number printed on the back of your debit card to confirm the specific restrictions. If you were alerted by an unsolicited call, hang up immediately and dial 159 to be connected securely to your provider's fraud department.
 
 ## Do not do these things
-- Don’t call a number in a message, click links, or share one-time passcodes in response to an unexpected “fraud” notification.
-- Don’t continue writing cheques “hoping it clears” — it can trigger fees, missed payments, and more confusion.
-- Don’t send replacement payments until you know whether an existing cheque will be paid late, returned unpaid, or is suspected to be fraudulent.
-- Don’t destroy cheque records or stubs; you may need cheque numbers and dates to sort this quickly.
-- Don’t rush to close the account unless your bank tells you to; it can complicate fraud checks and any reversals.
+- Don’t call any number provided in a text message or email, and never click links in "fraud alert" notifications.
+- Don’t share one-time passcodes (OTPs), PINs, or full passwords with anyone, even if they claim to be from your bank.
+- Don’t continue writing new cheques while the hold is active, as this may result in returned item fees or further account restrictions.
+- Don’t send alternative funds to a payee until you have confirmed with the bank that the original cheque will definitely be cancelled or returned.
+- Don’t destroy chequebook stubs or digital records of issued cheques, as these are required for the verification process.
 
 ## What to do now
-1. **Verify the contact safely.** Use your bank’s app or a trusted number (for example, the number on the back of your card). If you got an unexpected call about “fraud”, **hang up** and dial **159** to reach your bank through a trusted route (159 will not call you).
-2. **Get a clear, specific explanation from the bank.** Ask:
-   - Is **cheque-writing** blocked only, or are there other restrictions on the account?
-   - Is the block on **all cheques** or specific cheque numbers/payees/amounts?
-   - What triggered the review, and what do they need from you to clear it?
-   - What will happen to cheques already issued (paid late vs returned unpaid)?
-   Write down the **time/date**, the **department**, and any **reference number**.
-3. **Stabilise urgent payments that were meant to go by cheque (today/this week).** List anything where delay causes real harm (rent, childcare, care costs, utilities, council tax, insurance). Contact each payee and say: “My bank has temporarily paused cheque payments for fraud checks — what is your safest alternative method today?” Use bank transfer/card/online payment where possible.
-4. **List your outstanding cheques.** From your cheque stubs/records, note cheque number, date, payee, and amount for any cheque you’ve written that hasn’t cleared yet. Share this list with the bank if asked.
-5. **If any cheque or your chequebook might be compromised, say so now.** If cheques are missing, you don’t recognise a cheque, or a payee says a cheque was lost, tell the bank immediately. Ask what they recommend (for example: stopping specific cheque numbers, cancelling and reissuing a chequebook).
-6. **If you suspect fraud (not just a routine check), make a report.** Save any messages/screenshots and report to **Report Fraud (Action Fraud)**. **If you live in Scotland, report via Police Scotland (101 for non-emergency) or local police channels.**
-7. **Ask for a short-term workaround if the block risks immediate hardship.** Specifically ask whether they can:
-   - help you make an urgent payment by another method,
-   - give a realistic timeline for the review,
-   - confirm in writing that cheque payments are paused (so you can show payees),
-   - confirm what will happen to cheques already issued.
-8. **If you’re not getting clear answers, start a formal complaint.** Submit a short written complaint to the bank (secure message is fine). The bank will usually have **up to 8 weeks** to issue a final response; you can take it to the **Financial Ombudsman Service** after a final response, or if 8 weeks pass without one.
+1. **Verify the notification using a secure, independent method.** If you received a call, hang up and dial **159** (the secure scam-prevention hotline) to reach your bank, or use the number on the back of your physical card. If you received a message, log in directly to your official banking app to check for secure messages or account alerts.
+2. **Establish the exact scope of the block with a bank representative.** **Ask whether the restriction applies only to outgoing cheques, specific cheque numbers, or the entire account's functionality.** 
+   - Record the name of the department you spoke to.
+   - Note the exact time and date of the conversation.
+   - Request a reference number for the fraud review.
+3. **Identify all time-sensitive payments that were issued by cheque.** **List any payments for essential services like rent, utilities, childcare, or insurance that are due to clear within the next 48 hours.** Contact these payees to explain that the bank has placed a temporary security hold on cheque processing and offer an immediate alternative payment method like a faster payment transfer if the bank confirms it is safe to do so.
+4. **Provide the bank with a list of genuine outstanding cheques.** **Match your chequebook stubs against your recent transaction history to identify every cheque you have written that has not yet been debited.** Give the bank the cheque numbers, amounts, and payee names to help them distinguish legitimate activity from suspected fraud.
+5. **Report any missing or compromised physical cheques immediately.** **If a chequebook has been lost, a single leaf is missing, or you do not recognise a specific cheque number mentioned by the bank, state this clearly.** Ask the bank to "stop" the specific cheque numbers involved rather than the entire account if possible.
+6. **Submit an official report if you believe your account has been targeted by criminals.** **Use the Report Fraud online portal or call 0300 123 2040 if you are in England, Wales, or Northern Ireland.** If you are in Scotland, report the incident to Police Scotland by calling **101**.
+7. **Request a specific timeline for the review and a temporary workaround for hardship.** **Ask for a substantive response within 15 days, as required for most payment-related disputes under current UK regulations.** If the block prevents you from accessing essential funds, ask for an emergency cash withdrawal facility or a supervised transfer for an urgent bill.
+8. **Initiate a formal complaint if the bank fails to provide a clear explanation or timeline.** **Submit a written complaint via the bank’s secure messaging system or by post to trigger the formal dispute process.** If the issue is not resolved within the required timeframe or the final response is unsatisfactory, you can escalate the matter to the Financial Ombudsman Service.
 
 ## What can wait
-- You do **not** need to decide today whether to switch banks or permanently stop using cheques.
-- You do **not** need to argue with payees about blame right now; focus on keeping essential payments current.
-- You do **not** need a long complaint immediately; first get clarity, stop any ongoing risk, and keep proof.
+- You do - not - need to decide on a long-term banking change while the fraud review is active.
+- You do - not - need to respond to non-urgent payees who are not facing immediate financial impact.
+- You do - not - need to pay for a credit monitoring service today; the bank’s review will identify if your internal account security was the primary issue.
 
 ## Important reassurance
-A temporary cheque block is often a precaution while the bank confirms what’s genuine. It can feel alarming, but it does not automatically mean you’ve done something wrong. Slowing down, using trusted contact routes, and keeping a simple written log is the quickest way to reduce risk and restore normal payments.
+A fraud block is a standard automated response to unusual patterns and is intended to protect your balance from unauthorised withdrawals. It does not imply that you have committed an error or that your money is permanently lost. Following the bank's verification steps is the fastest way to restore full access.
 
 ## Scope note
-This is first-steps-only guidance to stabilise the situation and prevent avoidable losses or missed essential payments. If the bank confirms account misuse or identity fraud, you may need additional specialist support next.
+This guide provides first-step stabilization for a financial hold. It does not cover long-term debt management, legal proceedings against fraudsters, or the recovery of funds already lost to a completed scam.
 
 ## Important note
-This is general information, not legal or financial advice. Banks’ fraud processes and timelines vary. If you feel pressured or something doesn’t add up, end the call and contact your bank again using a trusted number or method.
+Banking procedures and regulatory timelines may vary based on the specific type of account and the nature of the suspected fraud. This information is for general guidance and does not constitute legal or financial advice.
 
 ## Additional Resources
-- https://stopscamsuk.org.uk/our-work/159-phone-number/
-- https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
-- https://www.financial-ombudsman.org.uk/make-complaint
-- https://www.gov.uk/complain-financial-service
-- https://www.reportfraud.police.uk/
-- https://www.reportfraud.police.uk/bank-account-fraud/
+- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/cheques-bankers-drafts
+- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
+- https://www.moneyhelper.org.uk/en/everyday-money/banking/how-to-sort-a-problem-with-your-bank-account
+- https://www.citizensadvice.org.uk/debt-and-money/banking/complaints-about-banks-and-building-societies/
+- https://www.financial-ombudsman.org.uk/consumers/how-to-complain

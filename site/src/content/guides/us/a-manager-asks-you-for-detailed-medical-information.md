@@ -1,80 +1,85 @@
-﻿---
+---
 title: "What to do if… a manager asks you for detailed medical information"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - manager asking medical details
-  - boss wants diagnosis
-  - supervisor requests medical information
-  - employer asks for medical records
-  - workplace medical questions
-  - pressured to share health information
-  - medical details for sick leave
-  - return to work medical questions
-  - work accommodation documentation request
-  - disability-related inquiry at work
-  - asked to share test results at work
-  - doctor note for work absence
-  - hr asks for medical details
-  - medical certification for leave
-  - privacy of health info at work
-  - employer asking about disability
-  - fitness for duty note request
-last_reviewed: "2026-01-07"
+  - "asked to approve time records"
+  - "asked to sign off on timesheets"
+  - "pressured to approve hours worked"
+  - "can-t verify employee hours"
+  - "timekeeping approval without proof"
+  - "asked to certify payroll records"
+  - "manager wants me to rubber stamp time"
+  - "time entries look inaccurate"
+  - "approve overtime i didn-t verify"
+  - "asked to backdate time approvals"
+  - "asked to approve timecard changes"
+  - "payroll approval under pressure"
+  - "asked to confirm hours for others"
+  - "time clock records don-t match"
+  - "worried about wage and hour compliance"
+  - "asked to approve time edits"
+  - "asked to approve missing punches"
+  - "falsifying time records help"
+  - "boss wants me to sign fake hours"
+  - "help i-m being told to approve unverified time"
+  - "my boss is forcing me to approve time"
+  - "what do i do if time records are wrong"
+  - "what do i do if i can-t prove hours worked"
+  - "what do i do if i am asked to sign inaccurate time"
+  - "what do i do if payroll is wrong"
+  - "smell of fraudulent records"
+  - "visible errors on timesheet"
+  - "hearing instructions to ignore hours"
+  - "unverified time approval"
+  - "payroll verification crisis"
+  - "flsa recordkeeping violation"
+  - "wage and hour audit"
+  - "signing for unworked hours"
+  - "workplace record fraud"
+  - "payroll sign-off pressure"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a manager asks you for detailed medical information (USA)
 
 ## Short answer
-Don’t hand over detailed medical records to a manager. Ask what the request is for (accommodation, leave, or safety/fitness-for-duty) and provide only the limited documentation needed — preferably through HR — focused on work limitations, not your full medical history.
+Avoid certifying time records as accurate if you lack the means to verify them. Submit a written request for the organization's official verification protocol and escalate to payroll, HR, or compliance for documented instructions on how to handle unverified entries.
 
 ## Do not do these things
-- Do not give your manager full medical records, portal screenshots, or “everything from my doctor” out of panic.
-- Do not feel pressured to share a diagnosis label or detailed symptoms if the purpose can be met with work restrictions and a standard certification.
-- Do not argue about your health in a hallway conversation — move it to writing and to HR (or whoever handles leave/accommodations).
-- Do not ignore the request entirely — respond and redirect it, so it can’t be framed as “refusing to cooperate.”
-- Do not rely on “HIPAA” as a shortcut either way: HIPAA usually limits what your clinician/insurer can disclose, and it does not automatically stop workplace questions — so keep disclosure minimal and use HR.
+- Do not approve any record if the attestation language requires personal verification you have not performed.
+- Do not estimate or guess hours to meet a payroll deadline without explicit, written authorization from a department head.
+- Do not delete, hide, or alter existing system logs or audit trails to force a reconciliation.
+- Do not make verbal-only objections; undocumented concerns do not provide a record of your refusal to participate in potentially inaccurate reporting.
+- Do not rely on "standard procedure" if it contradicts written company policy or federal labor law.
 
 ## What to do now
-1. **Get the request clarified (and in writing).**  
-   Reply: “Can you confirm what this information is needed for — medical leave, an accommodation, return-to-work/fitness-for-duty, or a safety concern — and what specific documents you’re requesting?”
-2. **Route it to HR (or the designated leave/accommodations contact).**  
-   Say: “I’m not comfortable discussing medical details with my manager. I can provide appropriate documentation to HR.”  
-   If you do not have HR, ask: **“Who handles confidential medical/leave/accommodation documentation here?”**
-3. **If this is about an ADA accommodation, keep documentation limited and relevant.**  
-   If the disability/need isn’t obvious, the employer may request reasonable documentation — but it should be limited to what’s related to the accommodation and not your complete medical file. Ask your clinician for a short letter focused on:
-   - functional limits at work (what you can’t do)
-   - expected duration (if known)
-   - accommodation suggestions (if appropriate)
-4. **If this is about medical leave (including FMLA if eligible), use the formal certification process.**  
-   Ask HR for the official certification requirements or form they want used. Keep it to the required “medical facts” and work limitations needed to support leave. If your clinician prefers, the certification can often be completed without a detailed narrative, and a diagnosis is not always required.
-5. **If they claim it’s a safety/fitness-for-duty issue, narrow it to essential job functions.**  
-   Ask what specific job duty or safety concern triggered the request and offer a “fitness-for-duty / restrictions” note (what you can safely do). For current employees, medical inquiries/exams are generally expected to be **job-related and consistent with business necessity**, not open-ended fishing for details.
-6. **Use a one-sentence boundary if your manager keeps pushing.**  
-   “I can provide appropriate documentation through HR, but I’m not going to share detailed medical information directly.”
-7. **Document the interaction immediately.**  
-   Save messages. After a verbal conversation, send a short recap email: date, what was asked, and that you’re providing documentation via HR.
-8. **Escalate if pressure continues or feels retaliatory.**  
-   Go to HR, your union (if you have one), or your company’s ethics/compliance channel. If you think disability-related rules are being ignored, you can also look up how to contact the EEOC or your state fair-employment agency — but you don’t have to decide that today.
+1. **Identify the exact legal or system attestation you are making.** Check if clicking "approve" includes a statement that you "verify," "certify," or "confirm the accuracy" of the hours; if it does, and you cannot do so, you must pause.
+2. **Send a factual, neutral email to your supervisor or the payroll department.**
+   - State clearly: "I have been asked to approve the time records for [Name/Group], but I do not have access to the primary records (time clock logs / schedules) required to verify these entries."
+   - Request guidance: "Please provide the documented verification process for this situation or designate an alternate approver who has direct knowledge of these hours."
+3. **Request the "audit trail" or primary source documents.** Ask for time clock punches, GPS logs, job tickets, or supervisor shift reports that should serve as the basis for the entries.
+4. **Utilize "exception" or "pending" status if available in the payroll software.** Mark unverified entries with a system note indicating they are awaiting verification to prevent them from being processed as "certified" by you.
+5. **Escalate to the HR Compliance officer or Ethics Hotline if pressured to sign regardless of accuracy.** Use the phrase "I am concerned about compliance with Fair Labor Standards Act (FLSA) recordkeeping requirements" to ensure the issue is categorized correctly by internal teams.
+6. **Seek a "secondary attestation" from the employee.** If policy allows, ask the employee to sign a statement confirming the hours are correct, then attach this to the record as the basis for your approval.
+7. **Contact the U.S. Department of Labor (DOL) Wage and Hour Division for confidential guidance.** If internal resolution fails, call 866-487-9243 (866-4US-WAGE) to speak with a representative about your rights and employer obligations regarding accurate recordkeeping.
 
 ## What can wait
-- You don’t need to disclose a diagnosis label today.
-- You don’t need to provide “extra proof” beyond what’s required for the specific process (accommodation/leave/safety).
-- You don’t need to threaten legal action right now — first stabilise by moving the request to HR and limiting what you share.
-- You don’t need to decide today whether to file a formal complaint unless the behavior continues.
+- You do not need to determine if the discrepancies are intentional fraud or administrative error.
+- You do not need to perform a comprehensive audit of past pay periods yourself; focus on the current unverified records.
+- You do not need to take immediate legal action before attempting to obtain written instructions from your employer.
 
 ## Important reassurance
-It’s normal to feel exposed when a manager asks for medical details. In many cases, the legitimate workplace need can be met with a short, functional note (restrictions and accommodations) or a standard leave certification. You’re allowed to slow this down, put it in writing, and keep disclosure to the minimum necessary.
+Requesting a clear verification process is a standard professional responsibility, not an act of defiance. Payroll deadlines are urgent, but the requirement for accurate recordkeeping is a federal legal mandate under the FLSA. Documenting your request for verification protects both your professional standing and the organization's compliance status.
 
 ## Scope note
-These are immediate steps to protect your privacy and keep work processes on track. Longer-term disputes about leave, accommodation, discipline, or discrimination may require specialist advice — but you can get through the next day or two without over-sharing.
+This is first-step guidance only. It focuses on preventing immediate false certification and initiating internal compliance procedures. Long-term resolution may require specialized legal counsel or formal government intervention.
 
 ## Important note
-This is general information, not legal advice. Rules vary by employer policy and state law, and whether the request is tied to accommodation, leave, or safety requirements. If your health is worsening or you are not safe to work, prioritise urgent medical care first and then handle workplace documentation when you’re able.
+This guide provides general information regarding US federal recordkeeping standards and does not constitute legal advice. Requirements may vary significantly under state labor laws, which often impose stricter penalties for recordkeeping failures. If you believe you are facing retaliation for refusing to certify inaccurate records, you should consult an employment attorney or your state's Department of Labor.
 
 ## Additional Resources
 - https://www.eeoc.gov/laws/guidance/enforcement-guidance-disability-related-inquiries-and-medical-examinations-employees
+- https://www.eeoc.gov/laws/guidance/questions-and-answers-enforcement-guidance-disability-related-inquiries-and-medical
+- https://askjan.org/publications/consultants-corner/Dealing-with-Improper-Requests-for-Medical-Documentation-from-an-Employer.cfm
 - https://askjan.org/articles/Requests-For-Medical-Documentation-and-the-ADA.cfm
 - https://www.dol.gov/agencies/whd/fact-sheets/28g-fmla-serious-health-condition
-- https://www.dol.gov/agencies/whd/fmla/forms
-- https://www.hhs.gov/hipaa/for-individuals/employers-health-information-workplace/index.html

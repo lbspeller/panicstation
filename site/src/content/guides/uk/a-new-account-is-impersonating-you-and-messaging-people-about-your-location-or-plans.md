@@ -1,100 +1,111 @@
-﻿---
+---
 title: "What to do if… a new account is impersonating you and messaging people about your location or plans"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - fake account impersonating me
-  - someone pretending to be me
-  - impersonation account messaging others
-  - fake profile contacting my friends
-  - someone sharing my location online
-  - someone claiming they know where i am
-  - posting my plans without consent
-  - doxxing risk from fake account
-  - stalking via social media account
-  - harassment through impersonation
-  - identity misuse online
-  - someone using my photos and name
-  - account cloning
-  - fake instagram or facebook account
-  - messages about where i will be
-  - safety risk from online impersonation
-  - what if people think it’s me
-  - location leak from social media
-last_reviewed: "2026-01-17"
+  - "impersonating me"
+  - "new account impersonating me"
+  - "fake account messaging people"
+  - "messaging about my location"
+  - "messaging about my plans"
+  - "what do i do if someone is impersonating me"
+  - "what do i do if a fake account messages my friends"
+  - "what do i do if my location is shared by a fake account"
+  - "what do i do if someone pretends to be me online"
+  - "help i am being impersonated"
+  - "help i think i am being stalked online"
+  - "help i have a fake profile following me"
+  - "help i found a cloned account"
+  - "my location is being leaked"
+  - "my plans are being shared online"
+  - "my identity is stolen on social media"
+  - "my photos are on a fake account"
+  - "fake profile bio"
+  - "fake account handle"
+  - "cloned profile photos"
+  - "suspicious messages from fake me"
+  - "location tagging on social media"
+  - "online stalking indicators"
+  - "digital impersonation cues"
+  - "fake account on instagram"
+  - "fake account on facebook"
+  - "social media account cloning"
+  - "identity misuse risk"
+  - "personal information leak"
+  - "cyber stalking signs"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a new account is impersonating you and messaging people about your location or plans (UK)
 
 ## Short answer
-Treat this as a real-world safety issue until proven otherwise: get to a safer place if needed, lock down your accounts (starting with email), and report the impersonation quickly so the account can be removed.
+Isolate yourself from the hazard by moving to a secure location, lock down your primary digital accounts, and report the impersonation to the platform and the police.
 
 ## Do not do these things
-- Don’t confront or “negotiate” with the impersonator from your main account (it can escalate and gives them feedback).
-- Don’t post your real-time location, travel plans, or “I’m safe / I’m home alone” updates while this is active.
-- Don’t click links, open files, or scan QR codes sent by the impersonator (even if they look “official”).
-- Don’t delete messages/screenshots in a panic (you may need them for platform reports or police).
-- Don’t ask friends to “argue with them” or publicly shame the account (it often amplifies reach).
-- Don’t assume it’s “just online” if they’re talking about your location or plans.
+- Do not reply to or engage with the impersonating account from any profile you own.
+- Do not post updates regarding your current location, travel status, or safety on any social media.
+- Do not click links, download files, or scan QR codes provided by the fake account.
+- Do not delete any messages or screenshots, as these are required for evidence.
+- Do not ask others to interact with or "shame" the account publicly.
+- Do not ignore the situation if the account mentions physical locations or specific timings.
 
 ## What to do now
-1. **Make a quick safety call about the next few hours.**
-   - If there’s any chance someone could turn up where you are (or where you’re going), **change plans** and **move to a safer place** (indoors, with other people, or somewhere staffed like a shop/café).
-   - Tell **one trusted person** what’s happening and ask them to stay reachable.
+1. **Move to a secure location if your current or future whereabouts are being shared.**
+   - **Go to a staffed public space** or a secure indoor location with trusted people.
+   - **Inform one person you trust** of your situation and ask them to remain available for contact.
 
-2. **Capture proof without engaging.**
-   - Screenshot the fake profile (name, handle, profile photo, bio) and the messages about your location/plans.
-   - Save URLs where possible, plus date/time. If friends received messages, ask them to screenshot too.
+2. **Collect evidence of the impersonation before it is deleted.**
+   - **Screenshot the fake profile page**, including the username, handle, profile picture, and bio.
+   - **Capture all messages** sent to others, especially those detailing your location or plans.
+   - **Record the URL** of the profile and the date and time of the screenshots.
 
-3. **Lock down the accounts that could be feeding them information (start with email).**
-   - Change your **email** password first, then key accounts (social media, messaging, Apple/Google).
-   - Turn on **2-step verification** for email and social accounts.
-   - Check for **unknown devices/sessions** and sign them out.
-   - Confirm account recovery options (email/phone) are yours and haven’t been changed.
+3. **Secure your primary accounts to stop further information leaks.**
+   - **Change your email password** immediately, as this is the hub for all other accounts.
+   - **Update passwords** for your social media, cloud services (Apple/Google), and messaging apps.
+   - **Enable two-step verification (2SV)** on all accounts if not already active.
+   - **Check 'Logged in devices'** in settings and sign out of any unrecognized sessions.
 
-4. **Reduce what the impersonator can learn in the next hour.**
-   - Set social accounts to **private** (temporarily if needed) and restrict who can view stories/updates.
-   - Review recent posts for clues (workplace, gym, school run times). Remove or limit visibility if it reveals patterns.
-   - Turn off public location features where relevant (for example, location tagging on posts/stories).
+4. **Restrict your digital visibility to the public.**
+   - **Set all social media profiles to private** and restrict who can view your stories or status.
+   - **Disable location services** for social apps and remove location tags from recent posts.
+   - **Review and remove recent posts** that mention specific workplaces, gyms, or routine times.
 
-5. **Report the impersonation using the platform’s official flow.**
-   - Use the platform’s **“impersonation / pretending to be someone”** report category.
-   - Ask a few friends who received messages to **report and block** the account after they’ve saved screenshots (this may help, but isn’t guaranteed).
-   - If you’re asked to verify your identity, do it only through the app’s built-in reporting/help routes (ignore “support” DMs).
+5. **Report the impersonation through the official platform channels.**
+   - **Select the "impersonation" or "pretending to be me" category** in the platform’s reporting tool.
+   - **Advise affected contacts** to report and block the account only after they have sent you screenshots of the messages.
+   - **Submit identity verification** only when prompted by the platform's official internal reporting flow.
 
-6. **Send one clear warning to your contacts (low-drama, high-clarity).**
-   - From your real account (or a group message), send something like:
-     - “A fake account is impersonating me and messaging people. Please don’t reply, don’t share any info, and report/block it. If you’ve received messages, screenshot them first.”
-   - Ask people not to “fact-check” by replying to the impersonator (it can leak more information and boost visibility).
+6. **Issue a high-clarity warning to your network.**
+   - **Post a single, factual statement** on your real account or send a group message.
+   - **State clearly:** "A fake account is impersonating me. Please do not reply or share information. Report and block the account."
 
-7. **If you feel unsafe or the messages are threatening, contact police.**
-   - If you’re in immediate danger or think someone may arrive imminently, call **999**.
-   - Otherwise call **101** to report what’s happening or get advice. Explain it’s impersonation involving messages about your location or plans, and that you have screenshots.
+7. **Contact the police if you feel a physical risk is present.**
+   - **Call 999** if you believe someone is currently tracking you or may arrive at your location.
+   - **Call 101** to report the harassment or stalking if there is no immediate danger.
+   - **Explain that the impersonation includes specific details** about your physical location or future plans.
 
-8. **If the impersonation involves scams or identity fraud, report it the right way for where you are in the UK.**
-   - **England, Wales, or Northern Ireland:** report cyber crime/fraud to **Report Fraud** (the national reporting centre) and keep your evidence bundle ready.
-   - **Scotland:** report fraud/financial crime to **Police Scotland** (via **101**), and keep your evidence bundle ready.
-   - If any money has been taken or accounts compromised, contact your bank/platforms immediately as well.
+8. **Report the incident as a cyber crime based on your location.**
+   - **England, Wales, or Northern Ireland:** Report to **Report Fraud** online at reportfraud.police.uk or by calling 0300 123 2040.
+   - **Scotland:** Report cyber crime to **Police Scotland** by calling 101.
+   - **Suspicious texts:** Forward any suspicious SMS messages to 7726.
 
 ## What can wait
-- Writing a long public explanation or “naming and shaming” post.
-- Trying to work out who it is (guessing wrong can inflame things and distract from removal/safety).
-- Making formal complaints to multiple bodies at once—focus first on: safety, account security, platform takedown, and a single police report if needed.
-- Rebuilding all your privacy settings perfectly; do the minimum lockdown now and refine later.
+- Identifying the individual behind the account.
+- Providing a detailed public explanation of the situation.
+- Perfecting your long-term privacy settings beyond immediate lockdown.
+- Responding to non-urgent queries from concerned friends.
 
 ## Important reassurance
-It’s normal to feel exposed and panicked when someone is “speaking as you” and referencing your whereabouts. Fast, boring steps—capture evidence, secure accounts, reduce visibility, report—usually stop the spread and give you control back.
+It is a common reaction to feel distressed when someone uses your identity to track or communicate with others. These situations are often resolved quickly by following technical reporting procedures and reducing the amount of information available to the impersonator.
 
 ## Scope note
-This is first steps only—focused on immediate safety, stopping further messages, and preserving options. If the behaviour continues or feels targeted, you may need specialist support and ongoing safety planning.
+This guide provides first-step stabilization for immediate safety and digital security. Persistent harassment or targeted stalking may require specialist safety planning and legal advice.
 
 ## Important note
-This is general information, not legal advice. If you feel in immediate danger, call 999. If you’re unsure whether you’re at risk, it’s still reasonable to treat it seriously and ask police for advice via 101.
+This information is for guidance and does not constitute legal advice. In any situation involving an immediate threat to life or safety, contact emergency services by calling 999.
 
 ## Additional Resources
-- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
-- https://www.police.uk/pu/contact-us/
-- https://www.reportfraud.police.uk/
-- https://www.reportfraud.police.uk/identity-fraud-and-identity-theft/
-- https://www.gov.uk/report-suspicious-emails-websites-phishing
-- https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv
+- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely
+- https://www.ncsc.gov.uk/collection/phishing-scams/what-to-do
+- https://www.met.police.uk/advice/advice-and-information/har/harassment-on-social-media/
+- https://www.cifas.org.uk/services/identity-protection

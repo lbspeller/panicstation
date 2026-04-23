@@ -1,70 +1,99 @@
-﻿---
+---
 title: "What to do if… you are told your hours are being reduced as a temporary measure with no end date"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - hours cut at work
-  - reduced hours temporary
-  - short-time working
-  - employer cutting shifts
-  - rota hours reduced
-  - reduced hours no end date
-  - pay reduced because hours cut
-  - told less hours next week
-  - contract change hours
-  - hours cut without consent
-  - lay-off and short-time
-  - fewer shifts offered
-  - employer says downturn
-  - worried about wages drop
-  - reduced hours after maternity
-  - reduced hours after complaint
-  - work hours reduced suddenly
-  - temporary hours reduction
-last_reviewed: "2026-01-08"
+  - "performance rumours at work"
+  - "workplace performance rumours"
+  - "performance rumours being circulated"
+  - "rumours about performance UK"
+  - "gossip about my performance"
+  - "rumours about my performance"
+  - "performance rumours in office"
+  - "dealing with performance rumours"
+  - "managing performance rumours"
+  - "performance rumours and bullying"
+  - "what do i do if people are gossiping about my work"
+  - "what do i do if rumours say i am failing"
+  - "what do i do if colleagues talk about my performance"
+  - "what do i do if my manager hears performance rumours"
+  - "help i heard rumours about my performance"
+  - "help i am being undermined by gossip"
+  - "help my performance is being attacked by rumours"
+  - "help rumours are ruining my reputation"
+  - "my colleagues are spreading performance lies"
+  - "my performance is being discussed behind my back"
+  - "smell of office politics"
+  - "visible exclusion from meetings"
+  - "hearing whispers about productivity"
+  - "noticing sudden changes in manager tone"
+  - "malicious gossip at work"
+  - "false capability claims"
+  - "workplace smear campaign"
+  - "reputation damage management"
+  - "undermining at work"
+  - "office rumour mill UK"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told your hours are being reduced as a temporary measure with no end date (UK)
 
 ## Short answer
-Pause before agreeing. Ask for the change to be confirmed in writing and check whether your contract allows reduced hours (for example through “short-time working”) before you accept a contract change.
+Request a private, factual check-in with your manager to verify official performance expectations and create a written record of your actual metrics, shifting the focus from hearsay to documented evidence.
 
 ## Do not do these things
-- Do not resign “on the spot” or stop turning up — it can weaken your position and your income options.
-- Do not agree verbally to a permanent contract change if you only mean “I’ll try it this week”.
-- Do not sign a new contract/variation letter until you have read it and kept a copy.
-- Do not rely on informal promises like “we’ll put you back up soon” without dates or triggers in writing.
-- Do not assume “temporary” means you must accept it — what matters is what your contract allows and what you agree to.
+- Do not send a group email or team-wide message to "clear the air" or deny the rumours.
+- Do not confront suspected sources of gossip in public or via unmonitored group chats.
+- Do not resign immediately or threaten legal action before you have a written record of the rumours and your response.
+- Do not start counter-rumours or attempt to "shame" colleagues in retaliation.
+- Do not make covert audio or video recordings without checking your specific workplace policy and seeking advice first.
 
 ## What to do now
-1. **Ask for the proposed change in writing today.** Request the new weekly hours (or shift pattern), start date, how rotas will be set, and what would end the “temporary” period (a date, a review point, or a business trigger). Keep screenshots/emails.
-2. **Check your contract and any handbook for the employer’s power to cut hours.** Look for wording like **“short-time working”**, **“lay-off”**, **“variation of hours”** or a **flexibility clause**. This is a practical clue to whether they can reduce hours/pay without your agreement.
-3. **Reply (in writing) with a holding position.** Say you’re **not refusing work**, you’re **seeking clarity**, and you’ll continue working your scheduled shifts while you review the proposal. If you do not agree to a permanent reduction, say so plainly.
-4. **Make them choose which route they’re using: short-time/lay-off vs contract change.** Ask: “Is this short-time working under my contract, or are you asking me to agree to a change to my contractual hours?”
-5. **Ask for a consultation meeting and take someone with you if you can.** If you’re in a union, contact your rep before the meeting. If not, ask HR for a meeting and take notes (or follow up by email summarising what was said).
-6. **If the cut means you’re missing whole working days, check “guarantee pay” eligibility.** Statutory guarantee pay can apply in some lay-off/short-time situations where you are not provided with a full day’s work when you would normally be required to work. The statutory maximum is **£39 a day for up to 5 days in any 3-month period** (worked proportionally for part-time). If this might apply to you, raise it in writing.
-7. **If you end up on very low pay for long enough, diarise the redundancy-claim window and get advice before triggering it.** If you’re laid off without pay or put on short-time and receive **less than half a week’s pay** for **4 or more weeks in a row**, or **6 or more weeks in a 13-week period**, you can potentially **apply for redundancy and claim redundancy pay**. A key deadline: you generally need to **write to your employer to claim redundancy within 4 weeks of the last day of the lay-off/short-time period**, and the employer then has **7 days** to accept or issue a written counter-notice. Because this can affect your job ending, get advice (ACAS/union/adviser) before you send any formal notice.
-8. **Protect your income now, not later.** If the reduction will hit essentials, check whether you qualify for **Universal Credit** (or other support) due to reduced earnings, and contact **ACAS** for guidance on your options.
+1. **Log every specific detail of the hearsay you have encountered.**  
+   **Record the date, time, and exact wording of what was said, along with who reported it to you and who else was present.** 
+   - Note if the rumours involve clients or external contractors, as your employer has a specific duty to protect you from third-party harassment under 2026 regulations.
+
+2. **Secure your performance baseline by exporting your current data.**  
+   **Download or screenshot recent appraisals, 1-to-1 notes, project completion signs, and any positive feedback or metrics from the last six months.**
+   - Ensure these copies are kept in a secure, personal location if your access to work systems is at risk of being restricted.
+
+3. **Verify your employer's formal capability and grievance policies.**  
+   **Download the "Dignity at Work," "Bullying and Harassment," and "Performance Management" procedures to see how your employer defines "malicious rumours."**
+   - ACAS specifically identifies spreading malicious rumours as a form of workplace bullying; use the policy's exact terminology in your future correspondence.
+
+4. **Request a "Clarity and Expectations" meeting with your line manager.**  
+   **Send a written request asking to "discuss current performance priorities and clarify any concerns that may have been circulated informally."**
+   - During this meeting, ask specifically if any formal capability process has been initiated or if these concerns are currently viewed as informal.
+
+5. **Summarise the meeting in a follow-up email within 24 hours.**  
+   **List the agreed objectives, the support promised by the manager, and any factual corrections you made to the rumours during the discussion.**
+   - This email serves as your primary evidence if the rumours later impact your appraisal or lead to disciplinary action.
+
+6. **Invoke a formal grievance if the rumours continue after the manager is notified.**  
+   **Submit a formal written grievance if the "rumour mill" is affecting your health or your ability to perform your duties.**
+   - You have a statutory right to be accompanied by a colleague or trade union representative at any formal grievance hearing.
+
+7. **Submit a Subject Access Request (SAR) if you suspect written misinformation.**  
+   **Request access to internal messages or emails containing your name or identifiers if you believe the rumours are being used to justify performance decisions.**
+   - Under the Data (Use and Access) Act 2025, employers must respond within one month, but they can "stop the clock" to ask for clarification, so ensure your request is specific to avoid delays.
 
 ## What can wait
-- You do not need to decide today whether to leave the job.
-- You do not need to “prove” motives immediately — start a clear written record.
-- You do not need to negotiate every detail now; first get the proposal, your contract position, and a review point in writing.
+- You do not need to identify the "original source" of the rumour; documenting your response to the information is more critical for your protection.
+- You do not need to launch an Employment Tribunal claim immediately; the standard time limit for most UK employment claims is now 6 months from the date of the incident.
+- You do not need to defend your reputation to every individual colleague; focus on the paper trail with HR and your direct manager.
+- You do not need to sign any "performance improvement plan" (PIP) or "acknowledgment of concerns" during the initial meeting; you can request time to review the document and provide a written response.
 
 ## Important reassurance
-It’s common to feel panicky and singled out when hours are cut, especially with “no end date”. Getting the change clarified in writing and checking your contract is not being difficult — it’s a normal, practical step to protect yourself while you keep working.
+Discovering that your professional reputation is being discussed behind your back is a significant stressor that often triggers a "fight or flight" response. This reaction is a normal response to a threat to your livelihood. By moving the issue from the "rumour mill" into a formal, written format, you regain control over the narrative and ensure that decisions must be based on objective evidence rather than hearsay.
 
 ## Scope note
-This is first-steps guidance to stabilise the situation and avoid irreversible mistakes. Any next-stage decisions (formal disputes, redundancy claims, tribunal routes) depend on your contract terms and timeline.
+This guide provides first-step stabilization for handling informal workplace gossip. It does not replace professional legal advice or trade union representation required for formal disciplinary hearings, capability dismissals, or tribunal proceedings.
 
 ## Important note
-This guide gives general information, not legal advice. Employment rights can vary by contract type (employee/worker), sector, and whether you’re in Great Britain or Northern Ireland. If you’re unsure, get advice from ACAS, your union, or a qualified adviser before you sign anything or resign.
+This information is for general guidance regarding UK workplace norms and does not constitute legal advice. Individual employment contracts and specific company policies can significantly alter your rights. If you believe your job is at immediate risk or if the rumours involve discrimination based on protected characteristics, contact ACAS or a qualified employment solicitor before taking irreversible steps.
 
 ## Additional Resources
-- https://www.acas.org.uk/lay-offs-and-short-time-working
 - https://www.gov.uk/lay-offs-short-timeworking
-- https://www.gov.uk/lay-offs-short-timeworking/guarantee-pay
-- https://www.gov.uk/lay-offs-short-timeworking/applying-for-redundancy-
-- https://www.acas.org.uk/changes-to-employment-contracts
+- https://www.gov.uk/your-employment-contract-how-it-can-be-changed
+- https://www.acas.org.uk/lay-offs-and-short-time-working
 - https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees
-- https://www.citizensadvice.org.uk/work/redundancy/check-your-rights-if-youre-made-redundant/if-youre-laid-off/layoffs-and-short-time-working/
+- https://www.citizensadvice.org.uk/work/changes-to-employment-contracts-overview/

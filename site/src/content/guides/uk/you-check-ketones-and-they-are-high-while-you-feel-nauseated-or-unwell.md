@@ -1,76 +1,94 @@
-﻿---
+---
 title: "What to do if… you check ketones and they are high while you feel nauseated or unwell"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - high ketones feel unwell
-  - ketones high nausea
-  - ketones high vomiting
-  - diabetic ketoacidosis worry
-  - dka warning signs
-  - sick day rules diabetes
-  - blood ketones high reading
-  - urine ketones positive
-  - insulin not working high sugars
-  - type 1 diabetes unwell
-  - type 2 diabetes on insulin
-  - sglt2 inhibitor ketones
-  - euglycemic dka concern
-  - insulin pump failure ketones
-  - stomach bug and ketones
-  - flu fever ketones diabetes
-  - dehydration and ketones
-  - can’t keep fluids down
-  - nausea with high ketones
-  - drowsy confused ketones
-last_reviewed: "2026-02-21"
+  - "high ketones feel unwell"
+  - "ketones high nausea"
+  - "ketones high vomiting"
+  - "diabetic ketoacidosis worry"
+  - "dka warning signs"
+  - "sick day rules diabetes"
+  - "blood ketones high reading"
+  - "urine ketones positive"
+  - "insulin not working high sugars"
+  - "type 1 diabetes unwell"
+  - "type 2 diabetes on insulin"
+  - "sglt2 inhibitor ketones"
+  - "euglycemic dka concern"
+  - "insulin pump failure ketones"
+  - "stomach bug and ketones"
+  - "flu fever ketones diabetes"
+  - "dehydration and ketones"
+  - "cannot keep fluids down"
+  - "nausea with high ketones"
+  - "drowsy confused ketones"
+  - "what do i do if my ketones are high"
+  - "help i feel sick and have ketones"
+  - "what do i do if i am vomiting and have diabetes"
+  - "help my ketone meter says high"
+  - "fruity smelling breath diabetes"
+  - "stomach pain and high blood sugar"
+  - "deep fast breathing ketones"
+  - "ketone levels uk emergency"
+  - "diabetes sick day help"
+  - "unwell with ketones type 1"
+  - "unwell with ketones type 2"
+  - "high blood sugar nausea"
+  - "ketones over 3 mmol"
+  - "urine ketones 2 plus"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you check ketones and they are high while you feel nauseated or unwell (UK)
 
 ## Short answer
-If you feel nauseated or unwell and your ketones are high, act urgently. If blood ketones are **over 3.0 mmol/L** (or urine ketones **over 2+**), **call 999 or go to A&E now**; otherwise **call your diabetes care team now or get urgent help from NHS 111**, especially if you feel unwell.
+If you feel unwell and your blood ketones are **3.0 mmol/L or higher** (or urine ketones are **2+ or higher**), **call 999 or go to A&E immediately**. If levels are lower but you are vomiting or feel significantly unwell, contact your diabetes team or NHS 111 for urgent assessment.
 
 ## Do not do these things
-- Do not “wait and see” if you feel sick (especially nausea/vomiting, tummy pain, deep/fast breathing, drowsiness, confusion) and ketones are raised.
-- Do not stop taking insulin because you’re not eating.
-- Do not exercise to “bring sugars down” when ketones are raised.
-- Do not drive to A&E. Ask someone to take you or call 999 for an ambulance.
-- Do not keep trying repeated home fixes if ketones stay raised, you’re getting worse, or you can’t keep fluids down.
+- Do not wait to see if symptoms improve if you are vomiting, have abdominal pain, or have fruity-smelling breath.
+- Do not stop taking your basal (long-acting) insulin, even if you are not eating.
+- Do not perform any exercise to lower blood sugar when ketones are present.
+- Do not drive yourself to the hospital; ask someone to drive you or call 999.
+- Do not attempt to manage escalating ketone levels at home without professional medical guidance.
 
 ## What to do now
-1. **Get support in the room if possible.** If you’re alone, call or message someone and tell them: “My ketones are high and I feel unwell.” Keep your phone nearby and unlocked.
-2. **Re-check and write down:** blood glucose, ketones (blood or urine), time of the reading, and whether you’ve vomited. If you can, check your temperature. Keep your meter/strips with you.
-3. **Use your ketone result to decide how fast to escalate (blood ketone meter):**
-   1. **0.6 to 1.5 mmol/L (slightly high):** **test again in 2 hours**, and **if you feel unwell** with this level, **call your diabetes care team now or contact NHS 111 now**.
-   2. **1.6 to 3.0 mmol/L:** you’re **at risk of DKA** — **speak to your diabetes care team for advice now** or **contact NHS 111 now**, even if you do not feel unwell.
-   3. **Over 3.0 mmol/L:** this is **high** — **call 999 or go to A&E now**.
-   - **If you used urine strips:** **over 2+ is high** — **call 999 or go to A&E now**.
-4. **If your insulin “isn’t working” to reduce high glucose (even if ketones are normal):** treat that as urgent — **call your diabetes care team now or contact NHS 111 now**.
-5. **If you use an insulin pump:** assume insulin delivery might have failed until proven otherwise.
-   - Check the infusion site/cannula, tubing, reservoir, and whether insulin could be spoiled (expired/overheated/frozen).
-   - Follow your personal sick-day plan if you have one. If you don’t, don’t improvise — **use steps 3–4 to escalate urgently**.
-6. **Sip fluids if you can keep them down.** Take frequent small sips of water or an oral rehydration drink. If you’re vomiting or can’t keep fluids down, treat that as a worsening sign and **escalate using step 3**.
-7. **Prepare a quick handover for 111/A&E/ambulance:** your readings + times, insulin/pump details, all medicines (especially any SGLT2 inhibitor), when you last took insulin, and what triggered this (infection, missed insulin, pump issue).
+1. **Identify immediate emergency triggers.** Call 999 or go to A&E now if you have:
+   - Blood ketones of 3.0 mmol/L or higher.
+   - Urine ketones of 2+ (moderate) or higher.
+   - Persistent vomiting or inability to keep fluids down.
+   - Abdominal (tummy) pain, deep/fast breathing, or confusion.
+2. **Contact your diabetes care team or NHS 111 for lower readings.** If you feel unwell but your blood ketones are between 0.6 and 2.9 mmol/L:
+   - **0.6 to 1.5 mmol/L (slightly high):** Re-test in 2 hours; contact your team or 111 if you feel unwell.
+   - **1.6 to 2.9 mmol/L (high risk):** Contact your diabetes team or NHS 111 immediately for advice on extra insulin doses.
+3. **Alert someone to your situation.** If you are alone, tell a friend, family member, or neighbour that you have high ketones and feel unwell. Keep your phone with you and unlocked.
+4. **Log your current clinical data.** Write down the following to give to medical staff:
+   - Your latest blood glucose and ketone readings (and the time taken).
+   - The time and amount of your last insulin dose.
+   - Whether you have vomited and how many times.
+   - A list of all medications, specifically noting if you take an SGLT2 inhibitor (e.g., Dapagliflozin, Empagliflozin, Canagliflozin).
+5. **Check for euglycaemic DKA if on SGLT2 inhibitors.** If you take these medications, be aware that you can develop Diabetic Ketoacidosis (DKA) even if your blood sugar levels appear "normal" (below 11 mmol/L). Treat high ketones as an emergency regardless of the glucose reading.
+6. **Troubleshoot insulin delivery if using a pump.** If you use an insulin pump, assume a hardware failure or site issue has occurred.
+   - Check the cannula for displacement and the tubing for air or blockages.
+   - If ketones are rising, give a correction dose via an insulin pen instead of the pump to ensure delivery.
+7. **Maintain hydration with small sips.** If you are not vomiting, take frequent sips of sugar-free fluids (water or rehydration salts). If your blood sugar is low but ketones are high, you may need sugary fluids; consult 111 or your team for the specific balance.
 
 ## What can wait
-- You do **not** need to work out the exact cause right now.
-- You do **not** need to decide if it’s “definitely DKA” before seeking urgent help.
-- You do **not** need to clean up, go to work, or “push through” symptoms before contacting 111/your diabetes team or going to A&E.
+- You do not need to determine the underlying cause of the illness (e.g., virus vs. infection) before seeking help.
+- You do not need to wait for your blood sugar to reach a specific "high" level if ketones are already present and you feel sick.
+- You do not need to pack a bag or finish chores before heading to A&E if you meet the emergency criteria.
 
 ## Important reassurance
-It’s normal to feel alarmed by high ketones — this is a situation where acting early is genuinely protective. Getting urgent advice or emergency care is a sensible safety move, not an overreaction.
+Feeling confused, nauseated, or frightened when ketones are high is a physiological response to the blood becoming acidic. These symptoms are recognized medical indicators that require professional intervention. Seeking help early is the standard clinical recommendation for managing diabetes safely.
 
 ## Scope note
-This guide covers first steps for the next couple of hours. Once you’re safe and assessed, you can review longer-term sick-day rules and prevention with your diabetes team.
+This guide provides first-step stabilization and escalation criteria for the first 1–2 hours of illness. It does not replace a personalized "Sick Day Rule" plan provided by a consultant or DSN.
 
 ## Important note
-This guide is general information, not a diagnosis or personal medical advice. If you have diabetes and feel unwell with raised ketones, it can become serious quickly; when in doubt, seek urgent help via your diabetes care team, NHS 111, or emergency services.
+Diabetic Ketoacidosis (DKA) is a time-critical medical emergency. This guide is for informational purposes and does not constitute medical advice. If you are pregnant and have any ketones while feeling unwell, seek urgent medical assessment immediately regardless of the specific reading.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/diabetic-ketoacidosis/
-- https://www.nhsinform.scot/illnesses-and-conditions/diabetes/diabetic-ketoacidosis-dka/
-- https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/illness
 - https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/diabetic-ketoacidosis
-- https://mydiabetesmyway.scot.nhs.uk/resources/internal/sick-day-guidance-for-type-1-diabetes/
-- https://trenddiabetes.online/wp-content/uploads/2020/03/A5_T1Illness_TREND_FINAL.pdf
+- https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/illness
+- https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/hypers
+- https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/testing-for-ketones-sick-day-rules-in-type-1-diabetes/

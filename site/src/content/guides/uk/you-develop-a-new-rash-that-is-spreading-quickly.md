@@ -1,82 +1,97 @@
-﻿---
+---
 title: "What to do if… you develop a new rash that is spreading quickly"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - new rash spreading quickly
-  - rash spreading fast
-  - sudden widespread rash
-  - rapidly worsening rash
-  - rash getting bigger
-  - rash spreading across body
-  - itchy new rash
-  - painful spreading rash
-  - hives and swelling
-  - urticaria rash
-  - rash with fever
-  - non-blanching rash
-  - petechiae purpura rash
-  - rash that does not fade
-  - blistering rash
-  - sores in mouth with rash
-  - medication reaction rash
-  - allergic reaction rash
-  - rash after new medicine
-  - purple spots rash
-last_reviewed: "2026-01-18"
+  - "new rash spreading quickly"
+  - "rash spreading fast"
+  - "sudden widespread rash"
+  - "rapidly worsening rash"
+  - "rash getting bigger"
+  - "rash spreading across body"
+  - "itchy new rash"
+  - "painful spreading rash"
+  - "hives and swelling"
+  - "urticaria rash"
+  - "rash with fever"
+  - "non-blanching rash"
+  - "petechiae purpura rash"
+  - "rash that does not fade"
+  - "blistering rash"
+  - "sores in mouth with rash"
+  - "medication reaction rash"
+  - "allergic reaction rash"
+  - "rash after new medicine"
+  - "purple spots rash"
+  - "what do i do if my rash is spreading"
+  - "what do i do if i have a new rash"
+  - "help i have a spreading rash"
+  - "help i have a new rash"
+  - "my rash is getting larger"
+  - "my rash is moving across my skin"
+  - "red spots under skin"
+  - "glass test rash"
+  - "rashe spreading fast"
+  - "rash with sore throat"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you develop a new rash that is spreading quickly (UK)
+
 ## Short answer
-A new rash that’s spreading quickly is **urgent**. Call **999** now if there are danger signs (breathing/swallowing problems, swelling of lips/tongue/face, severe illness, or a rash that does not fade under pressure). Otherwise, get **same-day medical advice** via **NHS 111**.
+Phone **999** immediately if the rash is accompanied by breathing difficulties, swelling of the face/tongue, slurred speech, confusion, or if the rash does not fade when pressed with a glass. For a rapidly spreading rash without these danger signs, contact **NHS 111** for same-day medical assessment.
 
 ## Do not do these things
-- Do not “wait it out” if the rash is spreading quickly or you feel unwell.
-- Do not try a new cream/ointment, essential oil, or antibiotic cream “to see if it helps” (it can worsen irritation or hide important clues).
-- Do not take your next dose of a **recently started or recently changed** medicine until you’ve had **urgent advice**, unless a clinician has told you it must not be missed. If you have **blistering/peeling skin** or **sores in the mouth/eyes/genitals**, treat this as an emergency and seek urgent hospital care.
-- Do not scratch or vigorously rub the rash (it can break the skin and worsen inflammation).
-- Do not go straight into a crowded waiting room if you also have fever/cough/runny nose and a new rash—**phone first** so you can be seen safely.
+- Do not ignore a rash that covers a large area of the body or is moving visibly across the skin.
+- Do not apply new topical creams, oils, or home remedies to the area as these can mask the rash pattern or cause further irritation.
+- Do not take another dose of any medicine started or changed in the last 4 weeks until you have spoken to a clinician.
+- Do not use antihistamines to treat breathing problems or facial swelling; these are for minor itching only and do not stop severe reactions.
+- Do not scratch or rub the area, as this can lead to skin breakage and secondary infection.
+- Do not wait for a rash to appear if you already feel severely unwell, have a high fever, or have a stiff neck.
 
 ## What to do now
-1. **Check for emergency danger signs (act immediately if any apply).** Call **999** (or go to A&E) now if you have any of these:
-   - Trouble breathing, wheezing, throat tightness, or trouble swallowing
-   - Rapid swelling of lips, tongue, face, or throat
-   - Feeling faint, very dizzy, suddenly confused, or unusually drowsy
-   - A rapidly worsening rash with **severe illness**, severe headache with a stiff neck, seizures, or you feel “seriously unwell”
-   - **Blisters/peeling skin**, or **sores in the mouth/eyes/genitals**, or widespread skin pain
-2. **If you have signs of a severe allergic reaction and you carry an adrenaline auto-injector, use it now as directed, and call 999.**
-3. **Do a quick “glass test” if the rash includes purple/red spots.** Press the side of a clear glass firmly against the rash:
-   - If the spots **do not fade**, treat this as an emergency and **call 999**.
-4. **If no danger signs, contact NHS 111 for same-day guidance.** Say clearly:
-   “I have a **new rash that is spreading quickly**,” and mention any fever, pain, pregnancy, immune problems, or if it’s in a child.
-5. **Write down what changed recently (this helps triage).** Note:
-   - When it started and how fast it’s spreading
-   - Any **recently started or changed** medicines (days to weeks), including over-the-counter tablets (pain relievers/cold remedies), supplements, and herbal products
-   - New foods, insect stings/bites, new detergents/skin products, recent infections, or close contact with illness
-6. **Take clear photos now and track the edge.**
-   - Photograph the rash in good light (wide shot + close-up).
-   - If it’s expanding across a patch, gently mark the edge with a washable pen and note the time.
-7. **Use the safest comfort steps while you arrange help.**
-   - Keep cool (heat can worsen itch). Loose clothing, cool compresses.
-   - If it’s itchy and you can normally take them, consider an **over-the-counter non-drowsy antihistamine** and follow the pack directions. Ask a pharmacist first if you’re pregnant/breastfeeding, the rash is in a child, or you take other medicines. Avoid drowsy products if you may need to travel/drive.
+1. **Check immediately for life-threatening symptoms and call 999 if any are present.**
+   - Difficulty breathing, wheezing, or a choking sensation.
+   - Swelling of the lips, tongue, or throat.
+   - Blue, grey, or pale skin, lips, or tongue (on brown/black skin, check palms or soles).
+   - Sudden confusion, slurred speech, or being difficult to wake.
+   - A weak, high-pitched cry or grunting in babies/children.
+2. **Use an adrenaline auto-injector (AAI) now if you have one and believe you are having an anaphylactic reaction.**
+   - Inject into the mid-outer thigh and hold for the time specified on the device.
+   - Phone 999 immediately after use, even if symptoms seem to improve.
+   - Lie flat with your legs raised, or sit up slowly if breathing is very difficult; do not stand up suddenly.
+3. **Perform the glass test if you see small red/purple spots or bruise-like marks.**
+   - Press the side of a clear glass firmly against the rash.
+   - If the spots remain clearly visible through the glass and do not fade (non-blanching), treat this as an emergency and call 999.
+   - Check paler areas like the palms, soles, or inside the eyelids if the rash is hard to see on darker skin.
+4. **Contact NHS 111 or your GP for an urgent appointment if you have no 999 symptoms but the rash is spreading.**
+   - State clearly that you have a "new, rapidly spreading rash."
+   - Mention if you have a fever, blisters, or sores in the mouth, eyes, or genital area.
+   - Report if you have recently started any new medications, including supplements or herbal products.
+5. **Photograph the rash and mark the current boundaries.**
+   - Take a clear photo in good light to show the extent and individual marks.
+   - Use a washable pen to draw a line around the edge of a specific patch of the rash and note the time to track the speed of spread.
+6. **Isolate yourself if you also have a fever, cough, or runny nose.**
+   - Several infectious rashes, such as measles, are highly contagious.
+   - Inform the clinic or hospital before arrival so they can arrange for you to be seen in a separate area.
 
 ## What can wait
-- You do not need to figure out the exact cause right now.
-- You do not need to start restrictive diets, stop multiple long-term medicines, or do “detox” plans in a panic.
-- You can postpone allergy testing, changing all household products, and deep-cleaning until you’ve had medical advice.
+- You do not need to identify the specific allergen or trigger immediately.
+- You do not need to start "detox" protocols or restrictive diets.
+- You can delay deep-cleaning the house or changing all laundry detergents until a clinician has assessed the rash.
+- You do not need to decide on long-term allergy testing today.
 
 ## Important reassurance
-Many rashes are treatable and not dangerous, but **“new + spreading quickly”** is a sensible reason to get same-day advice. Taking a few calm, specific steps now helps clinicians act quickly if this is something that needs urgent treatment.
+While a rapidly spreading rash feels alarming, many causes—including hives (urticaria) or viral exanthems—are manageable with the correct treatment. Seeking help early ensures that serious conditions, like severe allergic reactions or rare medicine-induced skin issues, are treated before they escalate.
 
 ## Scope note
-This is first-steps guidance for the next minutes to hours. Once you’re assessed, next actions depend on the rash pattern, your symptoms, and recent exposures/medicines.
+This guide provides first-step stabilization for the minutes following the discovery of a spreading rash. It is not a diagnostic tool and does not replace professional medical assessment.
 
 ## Important note
-This is general information, not a diagnosis. If you are severely unwell, the rash is rapidly spreading, or you have any emergency warning signs, seek urgent medical care immediately.
+Emergency symptoms like breathing distress or a non-fading rash require immediate hospital intervention. Always follow the specific instructions provided by 999 or NHS 111 operators.
 
 ## Additional Resources
-- https://www.nhs.uk/conditions/anaphylaxis/
-- https://www.nhs.uk/conditions/meningitis/symptoms/
+- https://111.wales.nhs.uk/livewell/skinrashes/
+- https://www.nhs.uk/conditions/cellulitis/
 - https://www.nhs.uk/conditions/stevens-johnson-syndrome/
+- https://www.nhs.uk/conditions/meningitis/symptoms/
 - https://www.nhs.uk/conditions/hives/
-- https://www.nhs.uk/symptoms/rashes-babies-and-children/

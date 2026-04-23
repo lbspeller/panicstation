@@ -1,77 +1,97 @@
-﻿---
+---
 title: "What to do if… you cough up blood or see blood-streaked mucus unexpectedly"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - coughing up blood
-  - blood in phlegm
-  - blood-streaked mucus
-  - blood-streaked sputum
-  - pink frothy sputum
-  - rust colored sputum
-  - spit up blood
-  - coughed blood once
-  - blood after coughing fit
-  - blood in tissue after cough
-  - sudden blood in mucus
-  - haemoptysis
-  - coughing blood streaks
-  - coughing up clots
-  - blood with chest pain
-  - blood with breathlessness
-  - on blood thinners coughing blood
-  - nosebleed dripping into throat
-  - vomit blood confusion
-last_reviewed: "2026-01-21"
+  - "coughing up blood"
+  - "blood in phlegm"
+  - "blood-streaked mucus"
+  - "blood-streaked sputum"
+  - "pink frothy sputum"
+  - "rust colored sputum"
+  - "spit up blood"
+  - "coughed blood once"
+  - "blood after coughing fit"
+  - "blood in tissue after cough"
+  - "sudden blood in mucus"
+  - "haemoptysis"
+  - "coughing blood streaks"
+  - "coughing up clots"
+  - "blood with chest pain"
+  - "blood with breathlessness"
+  - "what do i do if i cough up blood"
+  - "what do i do if there is blood in my spit"
+  - "what do i do if i see blood in my mucus"
+  - "what do i do if my phlegm is bloody"
+  - "help i coughed up blood"
+  - "help i have blood in my phlegm"
+  - "help i am spitting up blood"
+  - "my mucus is blood-stained"
+  - "bright red blood in tissue"
+  - "dark coffee ground vomit"
+  - "blood with fast heartbeat"
+  - "struggling to breathe blood"
+  - "coughing up teaspoons of blood"
+  - "blood streaked sputum uk"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you cough up blood or see blood-streaked mucus unexpectedly (UK)
 
 ## Short answer
-Treat this as urgent. If it’s more than a few spots/streaks, or you’re short of breath, have chest/upper back pain, or a very fast heartbeat: **call 999 or go to A&E immediately**. If it’s just a few small streaks: **seek urgent advice as soon as possible (same day if you can) via your GP surgery or NHS 111**.
+Treat any instance of coughing up blood as a medical priority. Call 999 or go to A&E immediately if you are coughing up more than a few streaks, struggling to breathe, or have chest pain; otherwise, contact your GP or NHS 111 for a same-day assessment.
 
 ## Do not do these things
-- Do not drive yourself to A&E (or keep driving) if you feel faint, breathless, or the bleeding is more than a few streaks.
-- Do not ignore it because “it’s probably just irritation,” especially if it’s new for you.
-- Do not start aspirin/ibuprofen or take extra doses “for chest discomfort” unless a clinician has told you to (and do not stop any prescribed medicines, including blood thinners, without advice).
-- Do not do hard exercise, heavy lifting, or anything that makes you cough harder right now.
-- Do not smoke or vape “to calm down” — it can worsen coughing/irritation.
+- Do not drive yourself to the hospital if you are breathless, dizzy, or bleeding significantly.
+- Do not take aspirin, ibuprofen, or other anti-inflammatory medicines for any associated pain, as these can increase bleeding risks.
+- Do not ignore the symptom even if it is only a single small streak or "speck" of blood.
+- Do not perform strenuous physical activity or heavy lifting until you have been cleared by a clinician.
+- Do not smoke or vape, as irritants can trigger further coughing fits and worsen airway damage.
+- Do not assume the blood is "just from a sore throat" without a professional examination.
 
 ## What to do now
-1. **Check for emergency red flags (act immediately if any apply).**  
-   Call **999** or go to **A&E immediately** if:
-   - it’s **more than just a few spots or streaks** of blood, or you’re coughing up clots/ongoing bleeding, or
-   - you’re **finding it hard to breathe**, have a **very fast heartbeat**, or have **pain in your chest or upper back**, or
-   - you feel **faint, confused, sweaty, or very unwell**.
-2. **Sit upright and keep your breathing as easy as possible.**  
-   Sit leaning slightly forward. Spit blood/mucus into tissue/bowl. Try not to force deep coughing to “clear it.”
-3. **Quickly check whether the blood may be from your nose/mouth (without guessing the cause).**  
-   Look for a nosebleed that might be draining into your throat, or bleeding from gums/mouth.  
-   If you’re **vomiting blood** or seeing dark “coffee-ground” material, treat that as an emergency: **call 999 or go to A&E immediately**.
-4. **If it’s only a few streaks/spots and you otherwise feel stable: get urgent advice.**  
-   Contact your **GP surgery** for an urgent appointment, or use **NHS 111** (phone or online) if you cannot get through or need out-of-hours help.
-5. **Get key details ready for the clinician/111 call (this helps them triage safely).**  
-   Note: when it started, roughly how much (spots/streaks vs more than that), colour (bright red vs pink/frothy vs rust), any chest pain/breathlessness/fever, and whether you take **blood thinners**.
-6. **If you’re going to A&E or an urgent assessment: go safely and bring essentials.**  
-   Ask someone to take you or call 999 if needed. Bring your **medication list** (or the actual medicines), and your phone/charger.
+1. **Identify emergency triggers that require an immediate 999 call or A&E visit.**  
+   Act immediately if any of the following occur:
+   - You are coughing up more than a few small streaks (e.g., teaspoons of blood or clots).
+   - You are struggling to breathe, gasping, or unable to speak in full sentences.
+   - You have sudden, severe, or worsening chest or upper back pain.
+   - You feel faint, dizzy, confused, or very sweaty.
+   - Your skin, lips, or tongue look pale, blue, or blotchy (grey on brown/black skin).
+   - You are also vomiting blood or dark material that looks like coffee grounds.
+2. **Sit upright in a supported position to keep your airways clear.**  
+   Leaning slightly forward can help you spit out blood or mucus without it draining back into your throat.
+3. **Use a clean tissue or bowl to collect a sample of the blood or sputum.**  
+   Observing the appearance helps clinicians:
+   - Bright red and frothy often indicates a lung source.
+   - Rust-coloured or dark may indicate infection.
+   - Thick, blood-stained mucus is common with chest infections.
+4. **Contact your GP surgery for an urgent same-day appointment if you are not in immediate danger.**  
+   If your GP is closed, use the **NHS 111 online** service or call **111** for triage and direction to an out-of-hours clinic or Minor Injuries Unit.
+5. **Prepare a summary of your symptoms and medical history for the clinician.**  
+   Have the following information ready:
+   - When the bleeding started and how many times it has happened.
+   - Roughly how much blood is present (e.g., "streaks" vs "mouthfuls").
+   - A list of all current medications, specifically highlighting any **blood thinners** (anticoagulants like warfarin, apixaban, or rivaroxaban).
+   - Any other symptoms like fever, weight loss, or a cough that has lasted more than three weeks.
+6. **Arrange for safe transport if you are directed to a clinical assessment.**  
+   Ask a friend, relative, or taxi to take you if you feel unwell or unstable. Bring your medications or your most recent prescription list with you.
 
 ## What can wait
-- You do **not** need to figure out the cause right now or search symptoms online.
-- You do **not** need to decide today about tests, referrals, or “worst-case scenarios.”
-- You do **not** need to keep working/finishing chores first — getting assessed is the priority.
+- You do not need to diagnose the cause (such as infection, bronchitis, or more serious conditions) before seeking help.
+- You do not need to decide on long-term treatments or specialist referrals today.
+- You do not need to finish work, chores, or other commitments before attending an urgent medical appointment.
 
 ## Important reassurance
-Seeing blood is frightening, and your body can go straight into alarm mode. Small streaks can sometimes happen after heavy coughing or with infections, but it still deserves prompt medical assessment — and getting checked is a protective, sensible step.
+It is normal to feel highly distressed when seeing blood. While haemoptysis (coughing up blood) can be caused by something serious, it is often due to more common and treatable issues like a chest infection or a burst small blood vessel from heavy coughing. Seeking an assessment is the most effective way to manage the situation safely.
 
 ## Scope note
-This guide covers first steps to stay safe and get the right level of urgent care. Follow-up (tests, treatment, and causes) comes after you’ve been assessed.
+This guide is for first-step stabilization and triage only. It does not replace a clinical diagnosis or cover long-term management of respiratory conditions.
 
 ## Important note
-This is general information, not a diagnosis. If you’re unsure whether your situation is an emergency, it’s safer to call **999** or use **NHS 111** for urgent guidance.
+This information is for general guidance and is not a substitute for professional medical advice. If you are unsure whether your situation is an emergency, err on the side of caution and call **999** or **111** immediately.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/coughing-up-blood/
-- https://www.nhs.uk/symptoms/cough/
-- https://www.nidirect.gov.uk/conditions/coughing-blood-blood-phlegm
-- https://111.nhs.uk/
-- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
+- https://www.nhs.uk/conditions/chest-infection/
+- https://www.nhs.uk/conditions/bronchitis/
+- https://www.nhs.uk/conditions/pneumonia/
+- https://www.nhs.uk/conditions/pulmonary-embolism/

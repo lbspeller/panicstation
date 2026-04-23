@@ -1,94 +1,103 @@
-﻿---
+---
 title: "What to do if… someone you blocked creates new accounts to keep contacting you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - blocked person keeps contacting
-  - new accounts after blocking
-  - evading a block online
-  - repeat unwanted messages
-  - harassment through social media
-  - cyberstalking concerns
-  - online stalking pattern
-  - someone wont stop messaging
-  - multiple profiles same person
-  - burner accounts contacting me
-  - unwanted contact after breakup
-  - persistent dm requests
-  - being followed across platforms
-  - intimidation via new accounts
-  - safety after blocking someone
-  - contact boundary being ignored
-  - threats from online accounts
-  - documenting online harassment
-last_reviewed: "2026-01-10"
+  - "blocked person keeps contacting"
+  - "new accounts after blocking"
+  - "evading a block online"
+  - "repeat unwanted messages"
+  - "harassment through social media"
+  - "cyberstalking concerns"
+  - "online stalking pattern"
+  - "someone wont stop messaging"
+  - "multiple profiles same person"
+  - "burner accounts contacting me"
+  - "unwanted contact after breakup"
+  - "persistent dm requests"
+  - "being followed across platforms"
+  - "intimidation via new accounts"
+  - "safety after blocking someone"
+  - "contact boundary being ignored"
+  - "threats from online accounts"
+  - "documenting online harassment"
+  - "what do i do if someone makes new accounts to message me"
+  - "what do i do if i am being cyberstalked"
+  - "what do i do if my harasser wont stop"
+  - "what do i do if someone keeps making new profiles"
+  - "help i am being harassed online"
+  - "help i blocked someone and they found me again"
+  - "help i have a stalker online"
+  - "help i am getting unwanted messages"
+  - "my ex keeps making new accounts"
+  - "my harasser is evading blocks"
+  - "my privacy is being violated online"
+  - "my stalker found my new account"
+  - "unwanted dms from unknown accounts"
+  - "suspicious new followers on instagram"
+  - "strange messages on facebook"
+  - "unknown requests on tiktok"
+  - "harassment on twitter x"
+  - "persistent unwanted emails"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… someone you blocked creates new accounts to keep contacting you (USA)
 
 ## Short answer
-Do not engage. Save the evidence, lock down your privacy so they can’t keep reaching you, and escalate to police if there are threats, you fear for your safety, or the pattern is continuing.
+Do not engage with the new accounts. Preserve evidence of the block-evasion, harden your account privacy to restrict unknown access, and contact specialized support lines or local law enforcement if you feel unsafe.
 
 ## Do not do these things
-- Do not reply, argue, or “explain” your boundary — even one response can reinforce the behavior.
-- Do not move the conversation to another app, email, or phone number to “contain it”.
-- Do not post about them publicly or try to shame them online (it can escalate).
-- Do not delete the messages/accounts before you’ve saved proof.
-- Do not assume “it’s only online” means it can’t be dangerous — treat threats and fixation seriously.
-- Do not share a new handle/number widely until you’ve tightened privacy (it can leak back to them).
+- Do not reply, argue, or "explain" your boundary again — any response, even a negative one, reinforces the behavior and provides the attention the person is seeking.
+- Do not investigate the new accounts yourself or try to "stalk back" to see what they are posting; this can increase your distress and escalate the situation.
+- Do not move the conversation to a different platform or email address to "keep an eye on them."
+- Do not post about the situation publicly or try to shame the person online, as this often triggers further escalation or retaliation.
+- Do not delete the messages or the profiles before you have captured proof.
+- Do not assume "it is only online" — if the behavior causes fear or involves threats, treat it as a physical safety concern.
 
 ## What to do now
-1. **Check immediate safety first.** If you’ve received a credible threat, you think they may show up, or you feel in immediate danger, call **911**.
-2. **Preserve evidence (fast, then step away).**
-   - Save the messages and the profile page (username/handle, dates/times, and any threats).
-   - **Caution:** some apps notify the other person if you screenshot certain content. If you’re not sure, consider photographing the screen with another device, or using the platform’s export/download tools.
-   - Save URLs/links to posts, messages, and profiles where possible.
-   - Start a simple incident log: *date/time, platform, account name, what happened, any fear/impact*.
-   - Store copies somewhere they cannot access (a separate cloud folder/account, an external drive, or with a trusted person). If you suspect your device/account is monitored, do this from a safer device.
-3. **Harden your accounts so “new accounts” can’t reach you.**
-   - Make profiles **private**; remove unknown followers/friends.
-   - Limit who can message/comment/tag you (for example, “friends only”).
-   - Turn off “find me by phone/email,” contact syncing, and public visibility of your friend/follower lists if available.
-   - Disable location sharing and avoid posting real-time locations.
-   - Turn on **two-factor authentication** and change passwords (especially if you reused them anywhere).
-   - Review account recovery options (backup email/phone, recovery codes) so you don’t get locked out during changes.
-4. **Report every new account as harassment/stalking and block-evasion.**
-   - Use the platform’s reporting tools and note that you blocked them and they returned via new accounts.
-   - If they’re impersonating you, report **impersonation** too.
-   - Keep screenshots/photos of submitted reports and any platform responses.
-5. **Reduce the ways they can get through (without “blowing up your life”).**
-   - Silence unknown callers/messages and filter message requests where possible.
-   - Consider using a separate email address for non-essential sign-ups and public-facing accounts.
-6. **Tell one person and set a simple support plan.**
-   - Share what’s happening and ask them not to engage with the person on your behalf.
-   - If you’re worried about escalation, agree on a check-in or code phrase (“If I text X, please call me / come get me”).
-7. **If it continues, escalates, or you feel afraid: involve local systems.**
-   - Contact your local police department (non-emergency line or in-person) to report the ongoing harassment/stalking pattern and provide your log/screenshots.
-   - Ask how to document future incidents so it’s usable if you need further action.
-   - Ask about civil protection options in your area (often called a **restraining order** or **protective order**; names and requirements vary by state/county). If you’re unsure where to start, a local victim advocate or court self-help office can often explain options.
-8. **Get confidential, practical support now (no commitment required).**
-   - Consider contacting **VictimConnect** for confidential help understanding options and finding local victim services.
-   - If this involves an ex/partner or feels connected to relationship abuse, the **National Domestic Violence Hotline** has stalking safety planning resources.
+1. **Prioritize immediate physical safety.**
+   - **If you believe the person may show up at your location or you have received a credible threat of violence, call 911 immediately.**
+   - **If you are unsure of your safety, go to a public place or the home of a trusted friend while you secure your digital presence.**
+2. **Preserve evidence before blocking again.**
+   - **Capture screenshots of the new messages and the profile page, ensuring the username, handle, and exact date / time are visible.**
+   - **Copy and save the direct URL (link) to the profile and the specific harassing posts or messages.**
+   - **Use a separate device (like a camera) to take photos of the screen if you are concerned the app will notify the user of a screenshot.**
+   - **Start a simple log of incidents including the date, time, platform, account name, and a brief description of what happened.**
+   - **Save these files to a secure location the other person cannot access, such as a password-protected cloud folder or an external drive.**
+3. **Isolate the hazard by tightening account privacy.**
+   - **Set all social media profiles to "Private" and review your follower / friend lists to remove any accounts you do not personally recognize.**
+   - **Restrict who can send you direct messages, comments, or tags to "Friends Only" or "No One."**
+   - **Disable "Find me by phone / email" and contact syncing features in your app settings.**
+   - **Review "Active Sessions" or "Logged-in Devices" in your security settings and log out of any devices you do not recognize.**
+   - **Turn on two-factor authentication (2FA) and change your passwords if you suspect the person has access to your accounts.**
+4. **Report the block-evasion to the platform.**
+   - **Use the platform's specific reporting tool for "Harassment" or "Stalking" and explicitly mention that the user is creating new accounts to evade a previous block.**
+   - **Keep a record of your report submission and any automated responses from the platform.**
+5. **Establish a safe pause.**
+   - **Step away from the device for at least 15 minutes after securing your accounts to lower your immediate stress levels.**
+   - **Silence notifications from unknown callers or filtered message requests so you are not startled by new pings.**
+6. **Access confidential professional support.**
+   - **Contact the VictimConnect Resource Center at 1-855-484-2846 (Call or Text) for help understanding your rights and local options.**
+   - **If the contact involves an ex-partner or family member, contact the National Domestic Violence Hotline at 1-800-799-SAFE (7233) or text "START" to 88788.**
 
 ## What can wait
-- Deciding whether to change your number, delete accounts, or rename everything.
-- Drafting a perfect timeline — a basic log with saved messages is enough for now.
-- Deciding whether to pursue a protective order (you can gather info first).
-- Public posts or mass announcements — keep your circle small and controlled until you feel steadier.
+- Deciding whether to permanently delete your social media accounts.
+- Changing your phone number or primary email address.
+- Deciding whether to file for a formal protective order (restraining order).
+- Explaining the situation to your entire social circle.
 
 ## Important reassurance
-Repeated contact after you’ve blocked someone is not “drama” — it’s a boundary being ignored, and it can be scary. You’re allowed to prioritize safety, reduce access to you, and get help without having to prove you “deserve” it.
+It is normal to feel overwhelmed, anxious, or "watched" when someone repeatedly ignores your boundaries. Block-evasion is a common tactic used to exert control, and your reaction of fear or frustration is a valid response to an intrusive situation. You are not responsible for the other person’s choice to keep contacting you.
 
 ## Scope note
-These are first steps to reduce contact routes, capture evidence, and stabilize. If the behavior persists, you may want local victim services and guidance specific to your state/county.
+This guide provides first-step stabilization for online harassment and block-evasion. It does not replace legal advice or comprehensive safety planning provided by victim service professionals or law enforcement.
 
 ## Important note
-This is general information, not legal advice. If you’re in immediate danger, call **911**. If you suspect the person may have access to your accounts or devices, prioritize password changes and two-factor authentication from a safer device, and consider getting help from a trusted person or victim service provider.
+The definitions of stalking and cyberstalking vary by state. If the behavior escalates to include threats, property damage, or showing up at your home or workplace, involve local law enforcement immediately. Ensure your documentation log is kept in a safe place, as it may be used as evidence in future legal proceedings.
 
 ## Additional Resources
-- https://ovc.ojp.gov/topics/stalking
-- https://victimconnect.org/
+- https://www.stalkingawareness.org/wp-content/uploads/2024/03/Technology-Facilitated-Stalking-SLII-Behaviors.pdf
 - https://www.thehotline.org/resources/stalking-safety-planning/
-- https://www.techsafety.org/documentationtips
-- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/
-- https://www.stalkingawareness.org/wp-content/uploads/2018/07/SPARC_StalkingLogInstructions_2018_FINAL.pdf
+- https://www.womenslaw.org/safety-planning/safety-tips-stalking-victims
+- https://consumer.ftc.gov/articles/stalkerware-what-know
+- https://www.thehotline.org/resources/help-my-ex-is-harassing-me-online/

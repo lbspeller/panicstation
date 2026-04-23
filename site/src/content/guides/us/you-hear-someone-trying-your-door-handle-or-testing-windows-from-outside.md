@@ -1,70 +1,87 @@
-﻿---
+---
 title: "What to do if… you hear someone trying your door handle or testing windows from outside"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - someone trying my door handle
-  - door handle jiggling outside
-  - rattling door handle at night
-  - someone testing windows outside
-  - window being tried from outside
-  - possible break in noise
-  - burglary in progress fear
-  - suspicious person at my door
-  - someone outside my house
-  - footsteps outside my window
-  - knocking and trying handle
-  - attempted break in sounds
-  - someone checking if door locked
-  - intruder trying to get in
-  - home intrusion concern
-  - lock clicking noise outside
-  - someone at door won’t leave
-  - unknown person at the window
-last_reviewed: "2026-01-10"
+  - "someone trying my door handle"
+  - "door handle jiggling outside"
+  - "rattling door handle at night"
+  - "someone testing windows outside"
+  - "window being tried from outside"
+  - "possible break in noise"
+  - "burglary in progress fear"
+  - "suspicious person at my door"
+  - "someone outside my house"
+  - "footsteps outside my window"
+  - "knocking and trying handle"
+  - "attempted break in sounds"
+  - "someone checking if door locked"
+  - "intruder trying to get in"
+  - "home intrusion concern"
+  - "lock clicking noise outside"
+  - "someone at door won’t leave"
+  - "unknown person at the window"
+  - "help i hear someone at my door"
+  - "what do i do if someone is outside my window"
+  - "what do i do if someone is jiggling my lock"
+  - "help someone is trying to get in my house"
+  - "clicking sounds outside window"
+  - "tapping on glass at night"
+  - "heavy breathing outside door"
+  - "metal clinking against window frame"
+  - "shadow moving outside door"
+  - "flashlight outside my window"
+  - "door handle rattle"
+  - "window screen being removed"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you hear someone trying your door handle or testing windows from outside (USA)
 
 ## Short answer
-Get everyone into a safer room, lock and barricade it if you can, and call 911 if you believe someone is trying to get in right now.
+Gather all occupants into a lockable interior room, stay silent, and call 911 immediately if you believe an intruder is attempting to enter or you feel in immediate danger.
 
 ## Do not do these things
-- Don’t open the door “to see who it is.”
-- Don’t go outside to confront or “scare them off.”
-- Don’t stand in front of windows/doors where you can be seen.
-- Don’t waste time searching the house while you’re unsure where the person is.
-- Don’t broadcast your location or live updates on social media.
-- Don’t assume you must “handle it yourself” — this is what 911 is for.
+- Don't open the door or window to confront the person or ask who they are.
+- Don't turn on interior lights in the room where you are hiding.
+- Don't stand in front of doors or windows where your silhouette can be seen.
+- Don't go outside to investigate the source of the noise.
+- Don't assume a "no-call" policy for suspicious activity; 911 is for immediate safety concerns.
+- Don't clear the house or check other rooms once you have reached a safe area.
 
 ## What to do now
-1. **Move to a safer room immediately.** Bring your phone, keys, and anyone with you (kids/roommates/guests). Prefer a room with a **solid door that locks** and, if possible, a second exit.
-2. **Lock down that room.** Lock the door and push a heavy object against it if you can do so quickly. Stay low and out of view of windows.
-3. **Call 911 if entry seems to be actively attempted or you feel in danger.** Say: your address (include apartment/unit), that someone is trying the door/windows **right now**, how many people are inside, and where in the home you are.
-4. **If you can’t speak safely, still call 911 and stay on the line if you can.** Some dispatchers may try yes/no questions or ask you to press phone buttons. **If you can’t call, text 911 only if it’s available where you are** (call is generally preferred when possible).
-5. **Use what you already have, without exposing yourself.** If you have an alarm panic button, trigger it. If you have exterior lights you can control from where you are (switch/app), turn them on. Avoid moving through the home to do this.
-6. **Only observe if it’s truly safe.** If you have a door camera/peephole and can check without being seen, note basic details (clothing, direction, vehicle). Don’t linger at windows.
-7. **If someone claims to be police at your door, don’t open it immediately.** Ask them to identify themselves through the closed door. If you can, **confirm via 911/dispatch** before opening.
-8. **Stay in your safer room until responders are confirmed.** If you’re on the phone/text, follow dispatcher instructions. If you’re not, wait until you can clearly identify responders (for example, marked uniforms/vehicles) and you feel safe to come out.
+1. **Move to a pre-designated safe room or a room with a solid, locking door.** Ensure you have your phone and car keys (if the fob has an alarm panic button).
+   - Gather children, pets, and other residents quickly and quietly.
+   - Avoid passing in front of windows or glass doors while moving.
+2. **Lock and barricade the door of the safe room.** Use a deadbolt if available and push a heavy piece of furniture against the door if it can be done without excessive noise.
+3. **Call 911 and provide your exact location first.** State your address, apartment number, and current location inside the house (e.g., "upstairs back bedroom").
+   - Tell the dispatcher: "Someone is trying to enter my home from the outside right now."
+   - Describe the specific sounds (e.g., "jiggling the front door handle," "sliding the kitchen window").
+4. **Stay on the line with the dispatcher and remain silent.** If you cannot speak safely, keep the line open so the dispatcher can listen for sounds of entry or struggle.
+   - Use Text-to-911 only if speaking is dangerous and you have confirmed it is available in your area.
+   - If texting, you must manually type your full address and the nature of the emergency, as location data may be less accurate than a voice call.
+5. **Silence your phone and any other noise-making devices.** Turn off the ringer and vibrate functions to avoid alerting an intruder to your specific hiding spot.
+6. **Activate a remote alarm or exterior lights only if you can do so from your phone.** Triggering a car alarm or smart home exterior floodlights may deter the individual, but do not move through the house to reach physical switches.
+7. **If you hear glass break or the door being forced, prepare for a breach.** Stay low, put a barrier between yourself and the door, and inform the dispatcher immediately that entry has occurred.
+8. **Wait for responders to identify themselves through the 911 dispatcher.** Do not open the door for anyone claiming to be police until the dispatcher confirms that officers are at your specific door.
 
 ## What can wait
-- You don’t need to decide right now whether it was “really” a break-in attempt. If it feels like one, treat it as urgent.
-- You don’t need to search the property, check every lock, or review camera footage while you’re still scared.
-- You don’t need to contact a landlord, building management, neighbours, or insurance until the immediate risk has passed.
-- You don’t need a perfect description — just what you know, and then focus on staying safe.
+- You do not need to identify the person or their intentions right now.
+- You do not need to check your security camera footage until law enforcement is on-site.
+- You do not need to call your landlord or neighbors until the immediate threat is resolved.
+- You do not need to verify if other doors or windows are locked if they are outside your safe zone.
 
 ## Important reassurance
-Feeling shaky, frozen, or “not thinking straight” is a normal body response to threat. Your job right now is simple: make yourself harder to reach, keep everyone together, and get help.
+Adrenaline often causes shaking, a racing heart, or a "tunnel vision" feeling. These are natural physiological responses designed to help you stay alert. By staying behind a locked door and contacting help, you have already significantly increased your safety.
 
 ## Scope note
-These are first steps only — meant to stabilise the moment and prevent irreversible mistakes. Once you’re safe, you can handle follow-up (reports, repairs, security upgrades) with a clearer head.
+This guide provides first-step stabilization for an active threat outside your home. It does not cover long-term security upgrades, legal self-defense standards, or post-incident trauma support.
 
 ## Important note
-This is general information, not legal advice. If you believe someone is attempting to enter your home or you feel unsafe, prioritise immediate safety and contacting emergency services.
+Emergency procedures vary by jurisdiction; always follow the direct instructions of your local 911 dispatcher. This information is for general guidance and does not replace professional law enforcement advice or emergency services.
 
 ## Additional Resources
-- https://www.911.gov/calling-911/frequently-asked-questions
-- https://www.fcc.gov/consumers/guides/what-you-need-know-about-text-911
-- https://www.nena.org/page/911tipsguidelines
-- https://www.bristoltn.gov/FAQ.aspx?QID=118
-- https://www.portland.gov/911/how-use-9-1-1
+- https://www.usa.gov/report-crime
+- https://www.thehotline.org/resources/stalking-safety-planning/
+- https://www.womenslaw.org/safety-planning/safety-tips-stalking-victims
+- https://www.womenslaw.org/safety-planning
+- https://victimconnect.org/

@@ -1,81 +1,87 @@
-﻿---
+---
 title: "What to do if… your water heater starts leaking or making unusual popping noises"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - water heater leaking
-  - hot water heater leak
-  - leaking water heater bottom
-  - water heater relief valve leak
-  - tpr valve dripping
-  - water heater popping noise
-  - rumbling water heater
-  - banging water heater
-  - sizzling near water heater
-  - water near breaker panel
-  - shut off water heater power
-  - shut off gas water heater
-  - shut off water supply valve
-  - possible gas leak smell
-  - carbon monoxide alarm
-  - emergency plumber call
-  - landlord maintenance emergency
-  - prevent water damage now
-  - water heater overheating signs
-  - noisy hot water tank
-last_reviewed: "2026-03-03"
+  - "water heater leaking"
+  - "hot water heater leak"
+  - "leaking water heater bottom"
+  - "water heater relief valve leak"
+  - "tpr valve dripping"
+  - "water heater popping noise"
+  - "rumbling water heater"
+  - "banging water heater"
+  - "sizzling near water heater"
+  - "water near breaker panel"
+  - "shut off water heater power"
+  - "shut off gas water heater"
+  - "shut off water supply valve"
+  - "possible gas leak smell"
+  - "carbon monoxide alarm"
+  - "emergency plumber call"
+  - "landlord maintenance emergency"
+  - "prevent water damage now"
+  - "water heater overheating signs"
+  - "noisy hot water tank"
+  - "help i have a leaking water heater"
+  - "what do i do if my water heater is popping"
+  - "my water heater is making a banging sound"
+  - "what do i do if the water heater is leaking"
+  - "help my water heater is hissing"
+  - "puddle under water heater"
+  - "steam coming from water heater"
+  - "water heater emergency shutoff"
+  - "water heater leak in basement"
+  - "noisy heater tank help"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your water heater starts leaking or making unusual popping noises (USA)
 
 ## Short answer
-Shut off the water heater’s **energy source** (electric breaker or gas shutoff) and **close the cold-water supply valve** to the heater. If you smell gas or a CO alarm goes off, leave the building and call 911 (or your gas utility from a safe location).
+Immediately shut off the heater's energy source (electric breaker or gas valve) and close the cold-water supply valve to stop the flow. If you smell gas or hear a CO alarm, evacuate the building and call 911 from a safe distance.
 
 ## Do not do these things
-- Do not keep running the heater “to see if it stops”—leaks and loud popping can worsen quickly.
-- Do not touch the heater, wiring, switches, or panels while standing in water (shock risk).
-- Do not try to plug, cap, clamp, or block the **TPR (temperature/pressure relief)** discharge pipe.
-- Do not relight a pilot, reset controls, or operate electrical switches if you smell gas.
-- Do not try to “cool” an overheating heater with water or by opening valves—your job is to remove the heat source and get help.
+- Do not attempt to investigate the noise while the unit is still powered or fueled.
+- Do not touch the heater, electrical panels, or switches if you are standing in water.
+- Do not plug, cap, or block the discharge pipe of the Temperature and Pressure Relief (TPR) valve.
+- Do not relight a pilot light or reset a breaker if there is standing water or a smell of gas.
+- Do not stand directly in front of or below the TPR discharge pipe.
+- Do not use the hot water taps in the house until the unit is stabilized.
 
 ## What to do now
-1. **Do a quick danger check first (30 seconds).**
-   - If you **smell gas** or a **carbon monoxide (CO) alarm** is sounding: **get everyone outside into fresh air immediately**. From outside, call **911** (and/or your **gas utility’s emergency line**).
-2. **Turn off the heater’s power/heat source (without taking risks).**
-   - **Electric water heater:** switch **OFF** the dedicated breaker in your electrical panel (often labeled “Water Heater”). Do not do this while standing in water.
-   - **Gas water heater:** set the control to **OFF** if available (otherwise follow the unit’s label to shut the burner off). If you can safely reach it, turn the **manual gas shutoff valve** so it’s **perpendicular** to the gas pipe.
-   - **Leave it OFF** until it’s inspected—don’t relight/reset as part of the panic moment.
-3. **Shut off the water feeding the heater.**
-   - Close the **cold-water shutoff valve** on the pipe entering the heater.
-   - If you can’t find it or the leak is heavy, shut off your **home’s main water valve**.
-4. **Protect people and property in the next 5 minutes.**
-   - Place a bucket/tray under the leak and use towels to channel water away from outlets, extension cords, and the heater’s electrical access panels.
-   - Move anything stored nearby (boxes, chemicals, electronics) out of the wet area.
-5. **If you see steam/hissing, violent discharge, or nonstop loud banging: back away and escalate.**
-   - If water or steam is forcefully discharging from the **TPR pipe**, or you hear violent noises, **do not approach to “fix” it**. If you can’t safely shut off fuel/power from a safe position, **leave the area and call 911/building management**.
-6. **Call the right help.**
-   - **If you rent:** contact your landlord/property manager’s emergency maintenance line and tell them you’ve **shut off power/gas and water**.
-   - **If you own:** call a **licensed plumber**. If there’s any gas/CO concern, also contact your **gas utility**.
-7. **Capture quick evidence, then step back.**
-   - Take photos/videos of where it’s leaking from (top connections, base, TPR discharge) and any surrounding damage—useful for insurance and the repair tech.
+1. **Check for gas odors or carbon monoxide alarm activations immediately.**
+   - If you smell gas or the CO alarm sounds, exit the building and call 911 or your local gas utility.
+2. **Turn off the electricity or gas supply to the unit safely.**
+   - **Electric heaters:** Locate your electrical panel and switch the dedicated "Water Heater" breaker to the OFF position.
+   - **Gas heaters:** Turn the gas control knob on the heater to the OFF or PILOT position, or close the manual gas shutoff valve on the supply line (turn the handle perpendicular to the pipe).
+3. **Close the cold-water supply valve leading into the heater.**
+   - Locate the shutoff valve on the cold-water pipe (usually the right-hand pipe entering the top of the tank) and turn it clockwise until it stops.
+   - If the valve is stuck or the leak continues, shut off the main water supply to the entire house.
+4. **Create distance if you see steam or hear violent banging.**
+   - Move to a different room or floor if the unit is vibrating, hissing loudly, or discharging steam.
+5. **Clear the area around the heater of sensitive items.**
+   - Remove electronics, cardboard boxes, or chemicals from the immediate vicinity of the water.
+6. **Contact a licensed plumbing professional for a priority inspection.**
+   - If you are a renter, call your landlord or property management emergency line and state that you have already performed an emergency shutdown.
 
 ## What can wait
-- You do **not** need to diagnose whether it’s sediment, a failing tank, or a valve problem right now.
-- You do **not** need to drain the heater, test the TPR valve, or open access panels during the panic moment.
-- You do **not** need to decide on repair vs replacement today—focus on safe shutdown and stopping water flow.
+- You do not need to determine if the tank is rusted or if a specific valve has failed.
+- You do not need to drain the tank using the bottom drain valve right now.
+- You do not need to decide between repair or full replacement today.
+- You do not need to take photos for insurance until the energy and water sources are confirmed off.
 
 ## Important reassurance
-A leak or new popping noise feels alarming because it mixes hot water, pressure, and sometimes gas/electric power. Turning off the heater’s energy source and shutting off the water supply usually stabilizes the situation and prevents the most serious outcomes while you get help.
+Leaking water and loud popping noises are common signs of sediment buildup or component failure, but they can usually be stabilized by removing heat and water pressure. Taking these steps stops the cycle of overheating and prevents the leak from expanding.
 
 ## Scope note
-This is immediate, harm-prevention guidance only. A professional may need to inspect safety devices, venting, and internal condition, then repair or replace parts safely.
+This is first-step stabilization guidance only. Water heaters involve pressurized vessels and combustible fuels; later repairs must be handled by a licensed professional to ensure compliance with local building codes.
 
 ## Important note
-This is general information, not a diagnosis. If there’s any sign of gas leakage or carbon monoxide risk, prioritize leaving to fresh air and contacting emergency services or your gas utility from a safe location.
+This guide provides general safety information and is not a professional diagnostic tool. If there is a suspected gas leak or carbon monoxide presence, prioritize evacuation over utility shutdown.
 
 ## Additional Resources
-- https://www.cdc.gov/carbon-monoxide/about/index.html
-- https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers
-- https://www.nationalboard.org/index.aspx?ID=247&pageID=164
-- https://stacks.cdc.gov/view/cdc/47927
-- https://www.energy.gov/energysaver/do-it-yourself-savings-project-lower-water-heating-temperature
+- https://www.homedepot.com/c/ah/water-heater-maintenance/9ba683603be9fa5395fab90ba592279
+- https://www.homedepot.com/c/ai/when-to-replace-a-water-heater/9ba683603be9fa5395fab902705deac
+- https://www.homedepot.com/c/ah/how-to-flush-a-water-heater/9ba683603be9fa5395fab901d7efffcd
+- https://www.epa.gov/watersense/home-maintenance
+- https://www.homedepot.com/c/ah/how-to-drain-a-water-heater/9ba683603be9fa5395fab90137620284

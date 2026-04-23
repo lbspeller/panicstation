@@ -1,97 +1,114 @@
-﻿---
+---
 title: "What to do if… you are asked to clear a shared home after someone dies but you are worried about losing evidence of what was there"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - asked to clear shared home
-  - clearing house after death
-  - clearing a deceased person's home
-  - shared house after bereavement
-  - worried about losing evidence
-  - evidence of what was in the home
-  - disputes about belongings
-  - missing items after someone dies
-  - estate personal possessions list
-  - take photos before clearing
-  - inventory of contents after death
-  - executor asked me to clear
-  - family pressure to clear house
-  - prevent accusations of theft
-  - protect sentimental items record
-  - document rooms and contents
-  - keep receipts and logs
-  - stop rushing house clearance
-  - what was there before removal
-last_reviewed: "2026-03-02"
+  - "clearing house after death"
+  - "shared home bereavement clearance"
+  - "evidence of home contents after death"
+  - "worried about losing evidence"
+  - "estate personal possessions inventory"
+  - "disputes about belongings after death"
+  - "what do i do if i have to clear a house"
+  - "what do i do if family is pressuring me to clear home"
+  - "what do i do if items are missing from estate"
+  - "what do i do if i need to document house contents"
+  - "help i need to clear a house after death"
+  - "help i am worried about house clearance"
+  - "help i need to prove what was in the house"
+  - "my family is rushing house clearance"
+  - "smell of stale air in home"
+  - "visible dust on furniture"
+  - "empty rooms in house"
+  - "unopened mail at property"
+  - "locked drawers in deceased home"
+  - "missing jewellery from home"
+  - "burn marks on surfaces"
+  - "misplaced paperwork in house"
+  - "wrong item count in inventory"
+  - "missing car keys after death"
+  - "in flat after bereavement"
+  - "house clearance on weekend"
+  - "clearing home during probate"
+  - "inventory of household chattels"
+  - "recording open market value of items"
+  - "protecting the record of possessions"
+  - "executor authority for house clearance"
+  - "documenting rooms after death"
+  - "preserving evidence of property contents"
+  - "house clearance documentation steps"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you are asked to clear a shared home after someone dies but you are worried about losing evidence of what was there (UK)
 
 ## Short answer
-Pause the clearance and make a dated record of the home (photos/video + a simple inventory) before anything is removed, then get the executor/administrator to confirm in writing what you’re authorised to do.
+Stop all removal of items immediately and create a comprehensive visual and written inventory of the property before any contents are disturbed. Seek formal written authorisation from the executor or administrator before disposing of or moving any assets to avoid personal legal liability.
 
 ## Do not do these things
-- Don’t “just start bagging” because someone is pressuring you — rushing is how evidence (and trust) gets lost.
-- Don’t throw away paperwork, letters, or folders “to tidy up” — unless it’s an obvious immediate hazard/perishable (and if feasible, photograph it first).
-- Don’t give items away, sell anything, or take things home “for safekeeping” without clear written agreement from the executor/administrator.
-- Don’t mix items from different rooms into unlabelled boxes or bin bags (it destroys the “what was where” record).
-- Don’t rely on memory, texts, or verbal promises (“I said you could”) — keep a simple written trail.
+- Do not remove any items from the property until a full photographic record has been created.
+- Do not discard paperwork, financial records, or letters, even if the property appears cluttered.
+- Do not give away or sell any possessions based on verbal promises or informal family agreements.
+- Do not begin packing items into bags or boxes without first labelling them by their original room and position.
+- Do not take items into your own home for safekeeping without the explicit written consent of the estate's legal representative.
+- Do not change locks or restrict access to the property without checking the tenancy agreement or seeking legal advice if there is a dispute.
 
 ## What to do now
-1. **Create a “stop point” and tell people you’re preserving the record first.**  
-   Use one sentence: *“I’m happy to help, but I’m documenting everything first so nobody later loses track of what was here.”*
+1. **Establish a pause in activity and notify all parties that you are documenting the premises.**  
+   Inform anyone assisting or pressuring you that no items can be moved until an inventory is completed for probate and tax purposes.
 
-2. **Make a dated visual record before moving anything.**  
-   - Do a slow phone **video walkthrough** of each room. Only open cupboards/wardrobes/drawers that you need to document, and keep it minimal if others also lived there.  
-   - Take **wide photos** (all four corners) plus **close-ups** of valuables, collections, tools, jewellery boxes, safes/lockboxes, and anything already damaged or disturbed.  
-   - Capture “context” shots: labels, serial numbers, and anything showing location (e.g., items on a particular shelf).
+2. **Conduct a slow, continuous video walkthrough of every room in the property.**  
+   **Record the state of every room as it was found**, including the inside of cupboards, wardrobes, and drawers.
+   - Ensure the date and time are visible or captured in the file metadata.
+   - Avoid narrating with opinions; keep the recording focused on a neutral visual sweep.
 
-3. **Start a simple inventory that matches the home as it was.**  
-   Use a notes app or paper with: **Room → box number → contents**. Keep it “good enough”, not perfect. Example: “Bedroom 2 → Box 3 → bedside drawer contents (misc jewellery, watch, letters).”
+3. **Take high-resolution still photographs of specific valuable or disputed categories.**  
+   **Capture clear images of all high-value items** such as jewellery, electronics, antiques, and collections.
+   - Photograph any existing damage to the property or items to prevent future claims.
+   - Include wide-angle shots of each room from at least two different corners.
 
-4. **Secure key documents and high-risk items without “clearing”.**  
-   Without sorting, gather into a single labelled container: will copies, bank/insurance letters, property deeds/tenancy papers, passports, driving licence, car keys, benefit/utility letters.  
-   Also separate any **medications** and **sharp/unsafe items** into a sealed bag/box away from children/pets.
+4. **Create a written inventory of "chattels" (personal possessions) systematically.**  
+   **List items room by room**, assigning a unique number to each box or bag if packing begins later.
+   - Note the approximate condition of major items.
+   - Record serial numbers for high-value electrical goods where visible.
 
-5. **Identify who has legal responsibility and get written instructions.**  
-   Ask: “Who is the executor named in the will (or the administrator if there’s no will)?”  
-   Then message/email them:  
-   - that you’ve made a record,  
-   - where the record is stored,  
-   - what you propose to do next (e.g., pack by room, label, store), and  
-   - what you will *not* do without their approval (discard/sell/distribute).
+5. **Identify the individual with legal authority over the estate.**  
+   **Confirm if there is a valid Will** and identify the named executors.
+   - If there is no Will, identify who is eligible to apply for Letters of Administration (the administrator).
+   - Verify their identity before handing over any documents or keys.
 
-6. **Pack in a way that preserves evidence (if you must start packing).**  
-   - **One room at a time.**  
-   - **Number every box/bag** and write: room + date + your initials.  
-   - Take a photo of the **open drawer/shelf** before you empty it (without reading private papers), then a photo of the **filled box** with its label visible.  
-   - Keep a “do not open” box for anything sensitive (letters, diaries) and log it without reading.
+6. **Gather and secure essential estate documents without sorting them.**  
+   **Place all found financial records, property deeds, insurance policies, and identity documents in a single locked container.**
+   - Do not read private correspondence; simply secure it for the executor.
+   - Take photos of the outside of folders or bundles to show what was found.
 
-7. **Create a basic “chain-of-custody” note for anything valuable.**  
-   For valuables or disputed items, log: what it is, where found, who handled it, where stored, and when. If possible, have **one other adult** present as a witness for those items.
+7. **Request formal written instructions from the executor or administrator.**  
+   **Send a summary of the record you have created** and ask for a specific, written plan for the clearance.
+   - Specify that you will not dispose of any items without their signed approval.
+   - Mention the £1,500 threshold for HMRC reporting of household contents if applicable.
 
-8. **Protect the property while you’re working.**  
-   Lock up, limit who has keys, and keep a simple note of who entered and when (especially if there’s tension).  
-   If security feels urgent (e.g., keys are missing), try to agree a plan with the executor/administrator first. If you must take urgent steps to secure the home, document what you did and why, and inform the executor/administrator promptly. If there’s a tenancy/landlord involved, consider that before changing anything like locks.
+8. **Secure the property and record all entries and exits.**  
+   **Take final meter readings for gas, electricity, and water** to prevent the estate from being overcharged.
+   - Ensure all windows and doors are locked.
+   - Keep a simple log of who has entered the property and what, if anything, was removed with permission.
 
 ## What can wait
-- You do **not** need to decide who gets what, what to donate, or what to sell today.
-- You do **not** need to value everything precisely right now — a clear record comes first.
-- You do **not** need to resolve family disagreements before you start documenting.
-- You do **not** need to book a full clearance company until the executor/administrator has agreed the plan.
+- You do not need to decide which items to donate or sell.
+- You do not need to obtain professional RICS valuations for every item today.
+- You do not need to settle disagreements between beneficiaries regarding sentimental items.
+- You do not need to pay for a professional clearance company until the executor has authorised the expenditure from the estate.
 
 ## Important reassurance
-Wanting proof of “what was there” is sensible, not suspicious. Many families later disagree simply because grief scrambles memory — a calm record protects you and everyone else.
+It is normal to feel overwhelmed by the responsibility of handling a deceased person's home. Taking a structured, documented approach is a standard legal precaution that protects you from accusations of "intermeddling" or theft. Creating a record is a practical step that helps ensure the estate is settled accurately and fairly.
 
 ## Scope note
-These are first steps to preserve a reliable record and avoid irreversible mistakes. Estate administration can become legally and emotionally complex; later steps may need the executor/administrator, a solicitor, or a professional valuer/house-clearance firm working to a written brief.
+This guide provides first-step stabilization for preserving a record of property contents. It does not cover the long-term administration of an estate, the complex laws of intestacy, or the formal valuation of assets for Inheritance Tax (IHT).
 
 ## Important note
-This is general information, not legal advice. If there are signs of a dispute, missing valuables, or uncertainty about who has authority, it’s usually safer to pause clearing (beyond securing and documenting) until the executor/administrator confirms the plan in writing.
+This information is for general guidance and does not constitute legal advice. Acting without the authority of an executor or administrator can result in personal liability for the estate's debts or legal challenges from beneficiaries. If a serious dispute exists, consult a solicitor before taking any action.
 
 ## Additional Resources
+- https://www.gov.uk/valuing-estate-of-someone-who-died/estimate-estate-value
+- https://www.gov.uk/valuing-estate-of-someone-who-died/records
+- https://www.gov.uk/government/publications/inheritance-tax-household-and-personal-goods-iht407
 - https://www.gov.uk/probate-estate
-- https://www.gov.uk/applying-for-probate
-- https://www.citizensadvice.org.uk/family/death-and-wills/dealing-with-the-financial-affairs-of-someone-who-has-died/
-- https://www.ageuk.org.uk/siteassets/documents/information-guides/ageukil8_how_to_be_an_executor_inf.pdf
-- https://www.thegazette.co.uk/wills-and-probate/content/103429
+- https://www.litrg.org.uk/news/tracing-assets-deceased-estate

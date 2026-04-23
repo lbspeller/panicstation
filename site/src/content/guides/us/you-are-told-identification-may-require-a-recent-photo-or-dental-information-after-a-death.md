@@ -1,84 +1,92 @@
-﻿---
+---
 title: "What to do if… you are told identification may require a recent photo or dental information after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - identification after death
-  - asked for a recent photo
-  - asked for dental records
-  - medical examiner identification
-  - coroner identification request
-  - confirming identity of remains
-  - decedent not visually identifiable
-  - dental comparison identification
-  - providing dentist information
-  - sending photos to authorities
-  - worried about misidentification
-  - next of kin contacted by police
-  - unidentified person investigation
-  - body identification taking time
-  - asked to sign a release
-  - personal representative paperwork
-  - who to call for updates
-  - bereavement admin shock
-last_reviewed: "2026-03-03"
+  - "identification after death"
+  - "dental identification after death"
+  - "photo identification after death"
+  - "dental records for identification"
+  - "recent photo for identification"
+  - "death identification procedures"
+  - "medical examiner dental request"
+  - "coroner dental request"
+  - "providing dental info after death"
+  - "submitting photos for identification"
+  - "identification after death usa"
+  - "help i need to provide dental records"
+  - "what do i do if they need a photo of the deceased"
+  - "what do i do if the coroner asks for dental info"
+  - "what do i do if identification takes time"
+  - "my loved one needs dental identification"
+  - "my family member needs photo identification"
+  - "help i am asked for dentist details"
+  - "help i am asked for a natural smile photo"
+  - "smell of remains identification"
+  - "visual identification not possible"
+  - "unidentified remains dental records"
+  - "forensic odontology request"
+  - "dentist contact information for coroner"
+  - "orthodontist records after death"
+  - "medical examiner case number"
+  - "namus identification process"
+  - "dental x-rays for identification"
+  - "antemortem dental records"
+  - "postmortem identification steps"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you are told identification may require a recent photo or dental information after a death (USA)
 
 ## Short answer
-Get the **exact agency and case number** (medical examiner/coroner and/or law enforcement), then provide a **small set of clear recent photos** and **dentist/orthodontist details** so they can request/compare records—without oversharing personal data.
+Provide the medical examiner or coroner with the **full name and contact information of the decedent's most recent dentist** and a **clear, high-resolution photo showing the person's natural smile**. The authorities will typically request the medical records directly from the provider under federal privacy exemptions.
 
 ## Do not do these things
-- Don’t send sensitive info to an unverified caller, text number, or email—confirm using the official phone number for the agency.
-- Don’t post photos or identifying details online trying to “crowdsource” confirmation unless law enforcement specifically asks you to.
-- Don’t give away originals (IDs, documents, devices) without copies and a written receipt/reference.
-- Don’t feel forced to view the body; in many cases identity can be confirmed through other methods.
-- Don’t assume “dental info” means you must personally obtain charts; you may only need to provide provider details—ask whether they will request records or need you to.
+- Don't send sensitive personal images or dental details to an unverified email address or phone number—call the agency back via their official publicly listed number first.
+- Don't post a public plea for information or "crowdsource" identification on social media unless specifically instructed by law enforcement.
+- Don't attempt to obtain dental x-rays or physical charts yourself; dentists are legally permitted to release these directly to medical examiners/coroners.
+- Don't send "original" physical photos if you can scan them; if you must provide originals, get a written receipt from the officer or investigator.
+- Don't assume a request for dental info means the remains are unrecognizable; it is often a standard protocol to reach a 100 percent scientific certainty.
 
 ## What to do now
-1. **Identify the requesting office and lock in the case details.**  
-   Ask for: agency name (Medical Examiner/Coroner and/or Police), **case number**, staff member’s name/title, and the best call-back number. If you missed the call, call the agency’s main number (from an official site/directory) and ask to be connected by case number.
+1. **Verify the agency and record the case number.**  
+   **Ask the caller for their name, title, department (Medical Examiner, Coroner, or Police), and the official case number.** Hang up and call the agency's main office number found on a .gov website to ensure the request is legitimate before sharing any data.
 
-2. **Ask what they need today (and what format).**  
-   Say: “Do you need photos, dental provider details, or both? Where should I send them, and what file types do you accept?”
+2. **Gather the specific contact details for the decedent’s dentist.**  
+   **Locate the name of the dental practice, the city, and the approximate date of the last visit.** 
+   - Check the person's phone contacts, recent emails, or insurance cards for provider names.
+   - If they had an orthodontist or oral surgeon, provide those details as well.
 
-3. **Send a controlled set of recent photos.**  
-   Provide **2–6 clear images**:
-   - One straight-on face photo (good lighting, minimal filters)
-   - One side/angle photo  
-   If you already have one, include a natural smile photo. Add the person’s full name and the approximate date(s) the photos were taken. Only include date of birth or other identifiers if requested.
+3. **Select 1–3 high-quality photographs.**  
+   **Choose images that clearly show the face and, if possible, a natural smile where the teeth are visible.** 
+   - High-resolution digital files are preferred over print-outs or photocopies.
+   - Note the approximate date and location where each photo was taken.
 
-4. **Provide dentist/orthodontist information (so records can be requested/compared).**  
-   Share the minimum that helps them locate records:
-   - Practice/provider name, city/state
-   - Approximate years seen there
-   - Any known major dental work only if you’re confident  
-   If you don’t know, check low-friction clues like phone contacts, email appointment confirmations, or insurance/dental plan paperwork—avoid sharing whole documents unless asked.
+4. **Confirm the submission method.**  
+   **Ask if the agency uses a secure upload portal, a specific email address, or if they require a physical delivery.** Ensure the case number is included in the subject line or on the envelope of all submissions.
 
-5. **Ask whether they need proof of authority or a signed authorization—and how to do it safely.**  
-   Depending on the office and provider, you may be asked for a release and/or proof you’re authorised to act (for example, executor/personal representative documentation). Ask: “What proof do you accept, and will you send a form through your official email/portal or handle it in person?”
+5. **Inquire about the release of information form.**  
+   **Ask the investigator if they need you to sign a "Release of Records" form or if they are requesting them directly under HIPAA 45 CFR 164.512(g)(1).** Most US jurisdictions allow direct release for identification purposes without a signature, but some private practices may still ask for one.
 
-6. **Get a clear expectation for the next update and who calls you.**  
-   Ask: “Who will contact me when identification is confirmed, and what number will it come from?” Save the number(s) and keep a simple log of dates/times.
+6. **Log the communication and set a follow-up window.**  
+   **Record the time you submitted the information and ask when you can expect a status update.** Save the investigator’s direct extension to avoid going through the main switchboard for every check-in.
 
 ## What can wait
-- You don’t need to make funeral arrangements or public announcements until identity is confirmed.
-- You don’t need to compile a full dental history or gather every photograph you have—start with a small, clear set and provider details.
-- You don’t need to decide about viewing, cause-of-death questions, or legal steps right now; focus only on verification and safe information flow.
+- You do not need to choose a funeral home or cemetery until the legal identification is finalized.
+- You do not need to provide the person’s entire medical history or every photo ever taken; start only with what was specifically requested.
+- You do not need to visit the morgue or office in person unless specifically requested for a visual confirmation.
 
 ## Important reassurance
-Requests for photos or dental information are commonly used to confirm identity when visual recognition isn’t reliable. This is often done to prevent errors and to reach a higher-confidence confirmation.
+It is normal for authorities to use dental records or photos as a primary method of identification. This is a scientific process designed to ensure absolute accuracy and prevent legal errors. A request for this information does not always mean there has been severe trauma; it is frequently the fastest and most reliable way to issue a formal death certificate.
 
 ## Scope note
-This covers immediate stabilising steps: verifying the request, sharing the minimum needed, and keeping communication organised. Later steps (release of remains, certificates, investigations) can be handled once identification is confirmed.
+This guide covers the immediate first steps for providing identification data to US medical examiners or coroners. It does not cover the subsequent legal processes of estate management or funeral planning.
 
 ## Important note
-This is general information, not legal advice. Processes vary by state and by whether your area uses a medical examiner or coroner system. If anything feels off, slow down and verify the agency through an official phone number before sharing personal information.
+Procedures for medicolegal death investigations are governed by state law and local county protocols. Under federal HIPAA rules, healthcare providers may disclose protected health information to coroners or medical examiners for the purpose of identifying a deceased person.
 
 ## Additional Resources
-- https://www.thename.org/assets/docs/31434c24-8be0-4d2c-942a-8afde79ec1e7.pdf
-- https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/health-information-of-deceased-individuals/index.html
-- https://nij.ojp.gov/namus
+- https://namus.nij.ojp.gov/frequently-asked-questions
+- https://namus.nij.ojp.gov/services
+- https://namus.nij.ojp.gov/sites/g/files/xyckuh336/files/media/document/userguide-enteringmpcases.pdf
 - https://nij.ojp.gov/media/audio/just-teeth-technology
-- https://www.nist.gov/system/files/documents/2020/04/07/mass_fatality_incident_data_management-_best_practice_recommendations_for_the_medicolegal_authority_OSAC%20Proposed.pdf
+- https://nij.ojp.gov/multimedia/advancing-justice-for-missing-and-unidentified-through-research

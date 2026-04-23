@@ -1,70 +1,81 @@
-﻿---
+---
 title: "What to do if… a person near you appears intoxicated or agitated and their behaviour is escalating"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - intoxicated person escalating
-  - drunk person getting aggressive
-  - agitated stranger near me
-  - hostile behaviour in public
-  - someone shouting and pacing
-  - threatening behaviour nearby
-  - unpredictable drunk stranger
-  - escalating confrontation outside
-  - bar club aggression nearby
-  - public transit disturbance
-  - unsafe crowd situation
-  - someone acting erratically
-  - possible alcohol overdose nearby
-  - someone seems out of control
-  - violence might break out
-  - how to leave safely
-  - what to do right now
-  - personal safety quick steps
-  - when to call 911
-  - 988 vs 911 confusion
-last_reviewed: "2026-01-10"
+  - "intoxicated person escalating"
+  - "person is intoxicated and escalating"
+  - "agitated person nearby"
+  - "drunk person acting aggressive"
+  - "help i am near a hostile person"
+  - "help i am near an aggressive stranger"
+  - "what do i do if someone is acting erratically"
+  - "what do i do if a person is shouting"
+  - "what do i do if a person is pacing near me"
+  - "my safety is threatened by an intoxicated person"
+  - "my location has an aggressive person"
+  - "unpredictable behavior from stranger"
+  - "erratic person in public space"
+  - "smell of alcohol and shouting"
+  - "slurred speech and aggressive stance"
+  - "hostile body language in public"
+  - "someone is losing control nearby"
+  - "belligerent person in store"
+  - "aggressive person on transit"
+  - "agitated person in building"
+  - "person appears drunk and angry"
+  - "threat of physical confrontation"
+  - "loud shouting and erratic movement"
+  - "aggressive person in bar"
+  - "combative person in street"
+  - "safety risk from intoxicated individual"
+  - "help with aggressive person"
+  - "what do i do if i feel unsafe"
+  - "disturbed behavior from intoxicated person"
+  - "escalation of public disturbance"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a person near you appears intoxicated or agitated and their behaviour is escalating (USA)
 
 ## Short answer
-Increase distance, move toward a staffed/safer place, and be ready to call 911 if you think someone could be harmed. If you suspect alcohol overdose or another medical emergency, call 911 right away.
+Increase physical distance immediately, move toward a staffed or public area, and call 911 if there is a threat of physical harm or a medical emergency. Do not attempt to reason with or touch the person while they are agitated.
 
 ## Do not do these things
-- Don’t argue, threaten, or try to “reason them into” calming down.
-- Don’t touch, restrain, or block their movement unless you must to escape immediate harm.
-- Don’t follow them, confront them, or try to record them in a way that escalates.
-- Don’t get into a confined space with them (car, elevator, small room) to “talk it out.”
-- Don’t assume they’ll “sleep it off” if they pass out — that can be dangerous.
-- Don’t give them more alcohol or unknown substances to “take the edge off.”
+- Do not argue, mock, or threaten the person.
+- Do not try to "talk them down" or reason with them while they are actively escalating.
+- Do not touch, grab, or restrain the person unless it is the only way to escape immediate harm.
+- Do not follow or record the person in a way that is visible or provocative.
+- Do not enter a confined space, such as an elevator or vehicle, with the person.
+- Do not offer the person more alcohol, water, or medication to try to calm them.
 
 ## What to do now
-1. **Move yourself first.** Step back, angle away, and head for an exit, open space, or a staffed area (store counter, reception, security desk, transit operator). Keep your hands visible; keep your voice low if you must speak.
-2. **Create a buffer and a barrier.** Put a table, car, bench, or other solid object between you and them. Avoid being trapped against a wall, in a corner, or at the edge of traffic/platforms.
-3. **Pull in the people who can act.** If you’re in a venue, store, apartment building, campus, or on transit: **tell staff/security immediately** with a simple script: “A person is getting aggressive near the entrance; can you help keep people safe and call 911 if needed?”
-4. **Call 911 early if harm feels possible.** Call **911** if threats are being made, violence looks imminent, you see a weapon, someone is being followed/blocked, or you can’t safely leave. Give: exact location, what they’re doing, what they look like, and whether anyone is injured.
-5. **Treat possible alcohol overdose/medical danger as an emergency — but don’t put yourself in danger.** Call **911** if someone is hard to wake, vomiting, having seizures, or breathing is slow/irregular. If it’s safe and you’re able, stay nearby, **place them on their side (recovery position)** to reduce choking risk, and watch for changes in breathing/responsiveness until help arrives. If it’s not safe to stay close, get staff/others to keep eyes on them while you keep distance and direct responders.
-6. **Use 988 for crisis support when it’s safe — use 911 for emergencies.** If the person seems in emotional distress or a mental health crisis and there’s **no immediate physical danger**, you (or a bystander) can contact **988** (call/text/chat) for guidance and support. If there is **immediate danger or a medical emergency**, choose **911**.
-7. **If you’re with someone, coordinate in one sentence.** Example: “You find staff and call 911; I’ll guide us to the exit.” Avoid complicated plans.
+1. **Increase your physical distance immediately.** Move away at an angle rather than turning your back completely if the person is close, and head toward a crowded area, a security desk, or a staffed shop counter.
+2. **Place a physical barrier between you and the person.** Use a table, car, bench, or counter to block a direct path of movement, ensuring you are not backed into a corner or trapped against a wall.
+3. **Notify staff or security if you are in a managed venue.** Tell an employee, transit operator, or building manager exactly what is happening using clear, low-volume speech: "There is an aggressive person near the entrance; please assist and monitor for safety."
+4. **Call 911 immediately if you see a weapon or if violence is imminent.** Provide your exact location, a description of the person's clothing and behavior, and whether anyone has already been injured.
+5. **Check for signs of alcohol poisoning from a safe distance.** If the person collapses, call 911 if you observe slow breathing (fewer than 8 breaths per minute), blue-tinged skin, or if they cannot be woken.
+   - If it is safe to do so, place an unconscious person on their side in the recovery position to prevent choking.
+   - If it is not safe to approach, stay back and direct emergency responders to their location.
+6. **Use 988 for behavioral crises only if there is no immediate physical threat.** Call or text 988 if the person is in emotional distress but is not acting violently or experiencing a medical emergency.
+7. **Contact the National Poison Help line at 1-800-222-1222 for non-emergency triage.** Use this number if you are unsure if someone’s level of intoxication requires an ambulance but they are not currently aggressive.
 
 ## What can wait
-- You don’t need to figure out whether it’s alcohol, drugs, mental health, or something else right now.
-- You don’t need to decide whether to report formally, give a statement, or “prove” what happened.
-- If you’re wondering about possible poisoning/substance exposure but there’s no emergency, you can consider calling Poison Control once you’re safe — you do not need to do that in the middle of an escalating situation.
+- You do not need to determine the specific substance (alcohol, drugs, or a medical condition) causing the behavior.
+- You do not need to decide right now whether you want to file a formal police report or press charges.
+- You do not need to apologize for leaving or for calling for help.
 
 ## Important reassurance
-Freezing, feeling shaky, or second-guessing yourself is common when behavior is escalating. It’s reasonable to leave quickly, change direction, and call 911 before it turns into an injury.
+Feeling a "fight or flight" response, including shaking or a racing heart, is a normal reaction to an escalating situation. Prioritizing your own safety and moving away is the most effective way to prevent the situation from worsening.
 
 ## Scope note
-This is first-steps guidance to reduce immediate risk and avoid escalation. After you’re safe, you can decide what follow-up (reporting, documenting, notifying building/venue management) makes sense.
+This guide focuses on first-step stabilization and harm reduction during an active encounter. It does not cover long-term legal reporting, medical recovery, or de-escalation training for professionals.
 
 ## Important note
-This guide is general information, not legal advice or a substitute for professional emergency, medical, or crisis services. If there is immediate danger or a possible overdose, call 911.
+This information is for situational stabilization only and is not a substitute for professional medical, legal, or emergency advice. Always follow the directions of local law enforcement and emergency medical technicians on the scene.
 
 ## Additional Resources
-- https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/understanding-dangers-of-alcohol-overdose
-- https://www.redcross.org/take-a-class/resources/learn-first-aid/poison-exposure
+- https://988lifeline.org/
 - https://988lifeline.org/help-someone-else/
-- https://988lifeline.org/faq/calling-the-988-lifeline/faq-what-do-i-do-if-i-have-trouble-connecting-when-i-call/
-- https://www.mayoclinic.org/first-aid/first-aid-poisoning/basics/art-20056657
+- https://www.samhsa.gov/find-help/helplines/national-helpline
+- https://www.nimh.nih.gov/health/find-help
+- https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/understanding-dangers-of-alcohol-overdose

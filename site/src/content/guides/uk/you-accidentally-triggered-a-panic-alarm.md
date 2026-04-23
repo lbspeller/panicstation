@@ -1,81 +1,96 @@
-﻿---
+---
 title: "What to do if… you accidentally triggered a panic alarm"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - accidental panic alarm
-  - false alarm
-  - triggered alarm by mistake
-  - emergency alert sent accidentally
-  - misdialled 999
-  - pocket dial 999
-  - phone sos went off
-  - panic button pressed
-  - security alarm false activation
-  - siren won’t stop
-  - monitoring centre calling
-  - police might be dispatched
-  - embarrassed after false alarm
-  - alarm code forgotten
-  - cancel emergency response
-  - accidental emergency call
-  - panic alarm at home
-  - workplace panic alarm mistake
-last_reviewed: "2026-03-03"
+  - "accidental panic alarm"
+  - "triggered alarm by mistake"
+  - "false alarm uk"
+  - "emergency alert sent accidentally"
+  - "misdialled 999"
+  - "pocket dial 999 help"
+  - "phone sos went off"
+  - "panic button pressed accidentally"
+  - "security alarm false activation"
+  - "siren wont stop uk"
+  - "alarm receiving centre calling"
+  - "arc call password"
+  - "police dispatch false alarm"
+  - "how to cancel 999 call"
+  - "silent solution 55 mistake"
+  - "iphone emergency sos accidental"
+  - "android emergency sos accidental"
+  - "apple watch emergency sos off"
+  - "monitored alarm password uk"
+  - "workplace panic button mistake"
+  - "help i accidentally called 999"
+  - "help i triggered my panic alarm"
+  - "what do i do if i accidentally called 112"
+  - "my panic button went off"
+  - "my phone sent an sos"
+  - "my house alarm is going off"
+  - "smell of burning alarm panel"
+  - "loud siren sounds in house"
+  - "emergency contacts received alert"
+  - "embarrassed by false alarm"
+  - "police arrival time uk"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you accidentally triggered a panic alarm (UK)
+
 ## Short answer
-First, stop any emergency response: stay on the line (or call back immediately) and clearly say it was an accident and you are safe.
+Do not hang up if you have dialled 999 or 112; stay on the line and tell the operator that the call was accidental and you are safe. For monitored security systems, disarm the panel immediately and wait for the Alarm Receiving Centre (ARC) to call you so you can provide your verbal password.
 
 ## Do not do these things
-- Don’t hang up and hope it goes away if you’ve called 999/112 or your phone has placed an emergency call — that can trigger call-backs and checks.
-- Don’t keep pressing the panic/SOS button repeatedly “to cancel” unless you’re sure how it works — you may send more alerts.
-- Don’t give a “safe word/passcode” to an unverified caller — call your alarm company back using a known number.
-- Don’t leave the building/home just because you feel embarrassed — stay available to confirm you’re safe.
-- Don’t reset your phone or delete call history right now — you may need it to stop follow-up calls or repeat alerts.
+- Do not hang up if you have dialled 999/112 or if your phone has initiated an emergency call — operators must treat abandoned calls as potential emergencies and may dispatch police to investigate.
+- Do not use the "Silent Solution" (pressing 55) if the call was an accident — this is specifically for people in danger who cannot speak and will guarantee a police response.
+- Do not ignore calls from unknown or withheld numbers for the next 20 minutes — these are likely the emergency services or your Alarm Receiving Centre (ARC) attempting to verify your safety.
+- Do not repeatedly press the panic button to "cancel" it — on many systems, this sends multiple high-priority alerts to the monitoring station.
+- Do not provide your security password to an unverified inbound caller — if you are unsure if the caller is your ARC, hang up and call them back using the number on your official contract or alarm panel.
 
 ## What to do now
-1. **Work out what you triggered (pick the closest):**
-   - **A. You dialled 999/112 (or your phone auto-called).**
-   - **B. A monitored security/panic alarm (home/work) is sounding and/or a monitoring centre is calling you.**
-   - **C. A phone “SOS” message/alert went to your contacts (but you didn’t call 999).**
+1. **Identify the exact type of activation you have triggered to determine the correct response.**
+   - **Emergency Number (999/112):** Your phone or landline has connected to the national emergency operator.
+   - **Monitored Security System:** A siren is sounding at your premises and a professional monitoring service is alerted.
+   - **Personal/Phone SOS:** A message or automated alert has been sent to your private emergency contacts.
 
-2. **If A (999/112 call):**
-   - **Stay on the line** and tell the operator: *“Accidental call. I’m safe. No emergency.”*
-   - If you already hung up, **call 999 again immediately** and explain it was accidental, so they don’t treat it as a silent emergency.
-   - Keep your phone **available for call-backs** for the next few minutes.
+2. **Stay on the line if you have dialled 999 or 112 even if you did not mean to.**
+   - **Tell the operator clearly:** "This was an accidental call. I am safe and do not require assistance."
+   - **Answer any verification questions** the operator asks, such as your name or location, to help them close the log.
+   - **Call 999 back immediately** if you have already hung up to explain the error; this prevents the operator from initiating a welfare check or "silent call" procedure.
 
-3. **If B (monitored alarm / panic button):**
-   - **Disarm/silence the alarm** using your normal code, fob, app, or control panel.
-   - **Answer the monitoring centre’s call** (or call them) and give the **verbal password/passcode** to cancel dispatch.
-   - If you’re unsure the caller is genuine, **hang up and call back** using the number on your alarm app, contract paperwork, or the back of the panel/keypad.
+3. **Disarm the security system and prepare for a verification call from the Alarm Receiving Centre (ARC).**
+   - **Enter your PIN or use your fob** to silence the audible siren immediately.
+   - **Keep your phone clear** and wait for the ARC to call; they are required to verify the alarm before contacting the police.
+   - **State your verbal password** clearly when they call; ensure it is the "safe" password and not your "duress" code.
 
-4. **If C (phone SOS sent to contacts):**
-   - Open the SOS/alert screen and use the option to **cancel/stop sharing** (wording varies by phone).
-   - **Message or call the recipients** with one clear line: *“Accidental SOS — I’m safe. Please ignore.”*
-   - If any recipient says they’ve already called police, **stay put and be reachable** (don’t complicate a welfare check).
+4. **Notify your emergency contacts immediately if your phone or watch sent an automated SOS.**
+   - **Cancel the SOS session** on your device screen to stop ongoing location sharing.
+   - **Send a text or call your designated contacts** with a simple message: "Accidental alert - I am safe. Please do not call 999."
+   - **Verify if anyone has already called the police** on your behalf so you can be prepared for their arrival.
 
-5. **If you think responders may still come (or someone may have called on your behalf):**
-   - Stay where you are, keep the door accessible, and have **ID** handy if available.
-   - When contacted, calmly repeat: *“False alarm / accidental activation. I’m safe.”*
+5. **Remain at your location and keep your phone accessible until you are certain the response is cancelled.**
+   - **Check for police arrival** if you were unable to cancel the alert in time; under 2026 Home Office targets, response times can be as low as 15 minutes in urban areas.
+   - **Have a form of ID ready** if officers arrive to confirm your identity and that you are not under duress.
+   - **Explain the situation calmly** at the door: "It was an accidental activation of my [phone/alarm]. I am safe and there is no emergency."
 
 ## What can wait
-- You do not need to work out “why it happened” right now.
-- You do not need to change settings, reset devices, or reinstall apps in the moment.
-- You do not need to contact neighbours/employer/security beyond the minimum needed to cancel response.
+- You do not need to investigate the technical cause of the trigger right now.
+- You do not need to apologise to neighbours or your employer until you have successfully spoken with emergency responders or your ARC.
+- You do not need to change your device settings or delete SOS contacts while the situation is still active.
 
 ## Important reassurance
-Accidental activations are common under stress, in pockets/bags, and during routine use. The priority is simply to stop escalation and make sure no one wastes time searching for an emergency that isn’t happening.
+Accidental 999 calls and false alarm triggers are extremely common, especially following mobile software updates or during routine maintenance. The emergency services and monitoring staff are trained to handle these errors; as long as you communicate clearly that you are safe, there are no penalties for a genuine mistake.
 
 ## Scope note
-These are first steps only to stabilise the situation and prevent unnecessary emergency response. Once things are calm, you can review settings/training to reduce repeat false alarms.
+This guide provides immediate stabilization steps to prevent unnecessary emergency resource deployment. Long-term prevention, such as adjusting "Emergency SOS" settings on smartphones or hardware maintenance, should be handled only after the current incident is fully closed.
 
 ## Important note
-This is general information, not legal advice or a substitute for professional guidance. If you’re unsure whether emergency services have been dispatched, prioritise clear communication and staying reachable.
+This information is for guidance purposes only and does not constitute legal advice. Police response policies (NPCC) vary slightly by region; always prioritize following the direct instructions given to you by a 999 operator or a certified Alarm Receiving Centre.
 
 ## Additional Resources
-- https://www.met.police.uk/contact/af/contact-us-beta/contact-us/
-- https://www.gov.uk/guidance/999-and-112-the-uks-national-emergency-numbers
-- https://ring.com/us/en/support/articles/438wk/Preventing-False-Alarms
-- https://www.safesimplesecure.com/faq/monitored-intruder-alarm-troubleshooting/
+- https://www.westyorkshire.police.uk/about-us/policies-and-procedures/policies/crime-and-safeguarding/alarms
+- https://www.npcc.police.uk/SysSiteAssets/media/downloads/publications/publications-log/2018/police-requirements--response-to-security-systems.pdf
+- https://firearms.devon-cornwall.police.uk/media/a3rmge0g/installation-security-system.pdf
+- https://www.norfolk.police.uk/SysSiteAssets/foi-media/norfolk/policies/security-systems-police-response-to.pdf
+- https://www.staffordshire.police.uk/SysSiteAssets/media/downloads/staffordshire/advice/the-police-crime-prevention-handbook.pdf

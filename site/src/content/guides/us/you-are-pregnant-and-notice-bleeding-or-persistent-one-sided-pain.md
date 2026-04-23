@@ -1,74 +1,102 @@
-﻿---
+---
 title: "What to do if… you are pregnant and notice bleeding or persistent one-sided pain"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - bleeding during pregnancy
-  - vaginal bleeding while pregnant
-  - spotting in pregnancy
-  - brown discharge pregnancy
-  - one sided pelvic pain pregnancy
-  - one-sided abdominal pain pregnant
-  - persistent pelvic pain pregnant
-  - bleeding with abdominal pain pregnancy
-  - bleeding and cramps pregnant
-  - shoulder pain pregnancy warning
-  - dizzy or faint while pregnant
-  - worried about ectopic pregnancy
-  - pregnancy bleeding scare
-  - pain on one side pregnancy
-  - bleeding after positive pregnancy test
-  - early pregnancy bleeding and pain
-  - bleeding later in pregnancy
-  - sudden worsening pain pregnant
-last_reviewed: "2026-01-21"
+  - "bleeding during pregnancy"
+  - "vaginal bleeding while pregnant"
+  - "spotting in pregnancy"
+  - "brown discharge pregnancy"
+  - "one sided pelvic pain pregnancy"
+  - "one-sided abdominal pain pregnant"
+  - "persistent pelvic pain pregnant"
+  - "bleeding with abdominal pain pregnancy"
+  - "bleeding and cramps pregnant"
+  - "shoulder pain pregnancy warning"
+  - "dizzy or faint while pregnant"
+  - "worried about ectopic pregnancy"
+  - "pregnancy bleeding scare"
+  - "pain on one side pregnancy"
+  - "bleeding after positive pregnancy test"
+  - "early pregnancy bleeding and pain"
+  - "bleeding later in pregnancy"
+  - "sudden worsening pain pregnant"
+  - "what do i do if i am bleeding while pregnant"
+  - "what do i do if i have one sided pain pregnancy"
+  - "what do i do if my pregnancy hurts on one side"
+  - "what do i do if i have shoulder tip pain pregnant"
+  - "help i am bleeding and pregnant"
+  - "help i have sharp pain on one side pregnant"
+  - "help i feel faint and am bleeding pregnant"
+  - "my stomach hurts on one side and i am bleeding"
+  - "pink discharge pregnancy"
+  - "cramping and bleeding"
+  - "unilateral pelvic pain"
+  - "lightheadedness pregnancy"
+  - "tubal pregnancy signs"
+  - "ruptured ectopic symptoms"
+  - "pregnancy bleeding one side"
+  - "sharp pelvic pain"
+  - "bleeding 1st trimester"
+  - "bleeding 2nd trimester"
+  - "bleeding 3rd trimester"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you are pregnant and notice bleeding or persistent one-sided pain (USA)
 
 ## Short answer
-Get urgent medical evaluation today. Bleeding plus persistent one-sided pain can be a warning sign (including ectopic pregnancy), so contact your OB/GYN immediately or go to an ER—call 911 if symptoms are severe or you feel faint.
+Contact your OB/GYN or midwife immediately for an urgent evaluation. If you experience severe pain, shoulder tip pain, or feel faint, go to the nearest emergency room or call 911, as these can be signs of a medical emergency such as an ectopic pregnancy.
 
 ## Do not do these things
-- Do not delay care if bleeding continues, pain stays on one side, or symptoms are worsening.
-- Do not drive yourself if you feel lightheaded, weak, faint, or your pain is severe—have someone drive you or call 911.
-- Do not use tampons/menstrual cups or insert anything vaginally right now.
-- Do not take ibuprofen/naproxen or other NSAIDs unless your pregnancy clinician has told you to (they can be risky in pregnancy, especially after about 20 weeks).
-- Do not try to “diagnose” it yourself or assume it’s normal spotting—this combination deserves prompt assessment.
+- Do not delay seeking medical care to see if the symptoms pass or improve on their own.
+- Do not drive yourself to the hospital if you feel lightheaded, dizzy, or are in severe pain.
+- Do not insert anything into the vagina, including tampons or menstrual cups.
+- Do not take non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen (Advil / Motrin) or naproxen (Aleve) unless explicitly directed by your clinician.
+- Do not assume that light spotting is "normal" if it is accompanied by persistent pain on one side of the pelvis or abdomen.
 
 ## What to do now
-1. **Decide if this is an emergency right now.**  
-   Call **911** immediately if you have any of these: severe or sudden worsening belly/pelvic pain, shoulder pain, heavy bleeding, fainting/collapse, significant dizziness/weakness, trouble breathing, or you feel seriously unwell.
-2. **Call your pregnancy clinician for same-day instructions.**  
-   Call your **OB/GYN, midwife, or clinic nurse line** and say: “I’m pregnant and I have bleeding and persistent one-sided pain.” If you can’t reach them quickly, go to an **Emergency Room**.
-3. **Use a pad and note the key details for the clinician.**  
-   Put on a **pad** (not a tampon) and jot down: when it started, whether it’s getting heavier, the color, where the pain is (one side? shoulder?), and whether the pain is constant or worsening.
-4. **Have someone stay with you and plan safe transport.**  
-   Sit or lie down if you feel faint. If you’re going in, don’t go alone if you can avoid it. Bring a phone charger and ID/insurance card if you have them.
-5. **Be ready to share ectopic-relevant history (even if you’re unsure).**  
-   Tell them if you’ve had a prior ectopic pregnancy, tubal surgery, IVF, or if you had an IUD when you conceived—these details can change how urgently they evaluate you.
-6. **Pain relief only if needed and safe.**  
-   If you need something while arranging care, **acetaminophen (Tylenol)** is generally considered the first-choice OTC option for pain/fever in pregnancy when used as directed. Avoid other pain medicines unless your clinician recommends them.
-7. **If you pass clots/tissue, note it—don’t delay care to save anything.**  
-   Tell the clinician what you noticed. If you’re heading to the ER anyway, a brief description (how much, what it looked like) can help.
+1. **Assess yourself for emergency symptoms that require an immediate 911 call.**  
+   Call emergency services or have someone drive you to the nearest ER if you experience:
+   - Severe or sudden worsening of abdominal or pelvic pain.
+   - Pain at the very tip of your shoulder (this can indicate internal bleeding).
+   - Fainting, loss of consciousness, or extreme lightheadedness.
+   - Heavy vaginal bleeding (soaking through a pad in an hour).
+   - Signs of shock, such as a racing heart, cold/clammy skin, or confusion.
+2. **Contact your pregnancy clinician or their 24/7 triage line immediately.**  
+   Call your OB/GYN, midwife, or clinic and state clearly: "I am pregnant and have bleeding and persistent pain on one side." Follow their specific instructions for a same-day urgent appointment or hospital transfer.
+3. **Inform the clinician if you know your blood type is Rh-negative.**  
+   Bleeding during pregnancy may require an injection of Rh immunoglobulin (RhoGAM) within a specific timeframe to prevent complications in future pregnancies.
+4. **Use a sanitary pad to monitor the amount and nature of the bleeding.**  
+   Do not use a tampon. Note the color of the blood (bright red, pink, or brown) and whether you notice any clots or tissue.
+5. **Sit or lie down in a safe place while waiting for transport or advice.**  
+   Keep your phone with you and stay with another person if possible. If you must go to the hospital, bring your ID, insurance card, and any records of your pregnancy care to date.
+6. **Be prepared to provide your relevant medical history to the triage team.**  
+   Inform them if you have a history of:
+   - Prior ectopic pregnancy.
+   - Surgery on your fallopian tubes.
+   - Pelvic Inflammatory Disease (PID).
+   - Use of an IUD at the time of conception.
+   - In-vitro fertilization (IVF) treatment for this pregnancy.
+7. **Use only acetaminophen (Tylenol) for pain relief if needed and approved by a clinician.**  
+   Avoid all other over-the-counter pain medications. From 20 weeks gestation onwards, NSAIDs are specifically avoided due to risks to fetal kidney function and amniotic fluid levels.
 
 ## What can wait
-- You do not need to decide what caused the bleeding or what happens next until you’ve been evaluated.
-- You do not need to keep checking internally, repeatedly testing, or searching for symptom comparisons online.
-- You do not need to make announcements or major decisions today—focus on getting assessed safely.
+- You do not need to determine the cause of the symptoms yourself before seeking help.
+- You do not need to perform repeated home pregnancy tests or monitor your symptoms for several hours to see if they "peak."
+- You do not need to decide on long-term plans or notification of others until a medical professional has completed an assessment.
 
 ## Important reassurance
-Many people have bleeding in pregnancy and go on to be okay. The reason to act quickly is that **bleeding with persistent one-sided pain** can sometimes signal a problem that needs rapid treatment—getting checked promptly protects you.
+Vaginal bleeding occurs in many pregnancies that continue to a healthy delivery. However, because bleeding combined with one-sided pain can be a sign of a time-sensitive complication like an ectopic pregnancy, seeking a rapid professional assessment is the standard safety protocol and does not mean a negative outcome is certain.
 
 ## Scope note
-This is first steps only—how to get urgent evaluation and avoid panic mistakes. Diagnosis and treatment choices should come from an in-person medical team.
+This guide provides first-step stabilization and emergency identification only. Clinical diagnosis and treatment for pregnancy complications must be performed in person by qualified medical professionals.
 
 ## Important note
-This is general information, not medical advice or a diagnosis. If you feel like you might pass out, your pain is severe, or you’re rapidly getting worse, call 911.
+This information is for educational purposes and does not constitute medical advice or a diagnosis. If you feel you are in a life-threatening situation or are losing consciousness, call 911 immediately.
 
 ## Additional Resources
-- https://www.acog.org/womens-health/faqs/ectopic-pregnancy
+- https://www.marchofdimes.org/find-support/topics/pregnancy/bleeding-and-spotting-vagina-during-pregnancy
+- https://www.marchofdimes.org/find-support/topics/miscarriage-loss-grief/ectopic-pregnancy
+- https://medlineplus.gov/ency/patientinstructions/000614.htm
+- https://medlineplus.gov/ency/article/003264.htm
 - https://medlineplus.gov/ectopicpregnancy.html
-- https://www.mayoclinic.org/diseases-conditions/ectopic-pregnancy/symptoms-causes/syc-20372088
-- https://www.acog.org/womens-health/experts-and-stories/ask-acog/is-it-safe-to-take-acetaminophen-during-pregnancy
-- https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic

@@ -1,69 +1,87 @@
-﻿---
+---
 title: "What to do if… your lips or fingertips look bluish and you feel unwell"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - blue lips
-  - bluish lips
-  - blue fingertips
-  - bluish fingertips
-  - turning blue suddenly
-  - cyanosis
-  - low oxygen symptoms
-  - feel unwell and blue
-  - short of breath and blue
-  - dizzy and blue lips
-  - cold hands blue fingers
-  - lips look greyish
-  - pale or grey skin
-  - breathing feels wrong
-  - chest feels tight
-  - faint or nearly fainting
-  - confused or drowsy
-  - worsening quickly
-  - worried about oxygen
-last_reviewed: "2026-02-21"
+  - "blue lips"
+  - "bluish lips"
+  - "blue fingertips"
+  - "bluish fingertips"
+  - "lips look bluish"
+  - "fingertips look bluish"
+  - "feel unwell and blue"
+  - "what do i do if my lips are blue"
+  - "what do i do if my fingertips are blue"
+  - "what do i do if my skin looks grey"
+  - "what do i do if i feel unwell and blue"
+  - "help i have blue lips"
+  - "help i have blue fingertips"
+  - "help i feel unwell and blue"
+  - "help my skin is turning grey"
+  - "cyanosis symptoms"
+  - "grey skin tone"
+  - "pale palms and soles"
+  - "blue tongue and gums"
+  - "sudden skin colour change"
+  - "short of breath blue lips"
+  - "chest pain blue skin"
+  - "confusion and blue lips"
+  - "dizzy with blue fingertips"
+  - "cold hands blue nails"
+  - "grey lips on brown skin"
+  - "white lips on black skin"
+  - "blue skin emergency"
+  - "unwell with bluish tint"
+  - "gasping for air blue face"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… your lips or fingertips look bluish and you feel unwell (UK)
+
 ## Short answer
-If your **lips, tongue, face, or skin** look blue or grey and you feel unwell, **call 999 for an ambulance now**. If it’s **only fingers/toes** that look bluish, you still need urgent help if you feel unwell or have warning symptoms.
+If your **lips, tongue, face, or skin** suddenly turn blue or grey, **call 999 or 112 immediately**. On brown or black skin, this may appear as grey or white skin, or be easiest to see on the palms of the hands and soles of the feet.
 
 ## Do not do these things
-- Do not “wait to see if it passes” if the blueness is new, spreading, or you feel worse.
-- Do not drive yourself to A&E if you feel faint, breathless, confused, or your lips/face look blue/grey.
-- Do not lie flat if you’re struggling to breathe (unless you’ve fainted and someone is helping you safely).
-- Do not take someone else’s medication (including leftover antibiotics, sedatives, or strong pain medicines).
-- Do not keep yourself in the cold “to test if it’s circulation” if you’re already unwell.
+- Do not drive yourself to the hospital if you are breathless, dizzy, or have blue/grey lips or skin.
+- Do not lie flat if you are struggling to breathe.
+- Do not wait for the symptoms to disappear or "sleep it off" if the discolouration is central (face/lips/tongue).
+- Do not take any medications, such as aspirin or inhalers, that have not been specifically prescribed for you.
+- Do not attempt to warm your hands or feet in very hot water if they are blue; use gentle warmth only.
 
 ## What to do now
-1. **Decide the emergency route (don’t overthink it).**
-   - **Call 999 now** if you have **blue/grey lips, tongue, face or skin**, or you have any of these: **difficulty breathing, chest pain, confusion, unusual drowsiness, dizziness, collapse**, or you’re getting worse.
-   - If it’s **only fingers/toes** that look bluish and you’re otherwise stable, **warm up gently** (see step 5) and **call NHS 111** for urgent advice—**but call 999** if you feel unwell or develop any warning symptoms.
-2. **While help is being arranged, get into the best position for breathing.** Sit upright, slightly leaning forward, shoulders relaxed. Loosen tight clothing around the neck/chest.
-3. **Tell the call handler the key details.** Say: “My lips/fingertips look bluish and I feel unwell. I’m worried about oxygen/breathing/circulation.” Mention any chest pain, breathing difficulty, confusion/drowsiness, dizziness, or collapse.
-4. **Use only your own prescribed rescue treatment if you have one.**
-   - If you have asthma/COPD and a prescribed reliever inhaler for sudden breathlessness, use it as directed on your plan/label while waiting.
-   - If you have home oxygen prescribed, use it exactly as prescribed.
-5. **If it’s mainly hands/fingers and you’re cold, warm gently (only if it doesn’t delay urgent help).** Move to a warm room, use a blanket, and warm hands gradually. **Do not** delay calling **999** if you’re unwell or have warning symptoms, or if lips/face are blue/grey.
-6. **Make it easy for responders.** Unlock the door if you can, turn on a light, secure pets, and have your medication list (or boxes) and key conditions ready.
+1. **Identify the location of the discolouration immediately.**
+   - **Call 999 or 112 now** if the blue or grey colour is on your **lips, tongue, face, or general skin**.
+   - **Call 999 or 112 now** if the blueness is only on your fingers/toes but you also have **difficulty breathing, chest pain, confusion, or feel like you might collapse**.
+   - **Call NHS 111** if the blue/grey colour is **only on your fingers, toes, hands, or feet** and you otherwise feel stable.
+2. **Assume a position that makes breathing easier.** Sit upright in a chair or on the floor, leaning slightly forward with your arms supported on your knees or a stable surface. 
+3. **Provide specific keywords to the emergency operator.** Tell the 999/112 handler: "I have blue/grey skin and I feel unwell." Mention if the discolouration is on your tongue or lips specifically, as this indicates a critical oxygen issue.
+4. **Loosen all restrictive clothing.** Unzip jackets, loosen ties, and unbutton collars to ensure your airway and chest expansion are not restricted.
+5. **Follow your existing medical emergency plan only.**
+   - Use your own prescribed "reliever" inhaler (usually blue) if you have asthma or COPD and are breathless.
+   - Use your home oxygen exactly as prescribed by your specialist if you already have it.
+6. **Prepare for the arrival of paramedics.**
+   - Unlock your front door.
+   - Turn on outside lights if it is dark.
+   - Move pets to a separate closed room.
+   - Gather your current medications or a repeat prescription slip.
 
 ## What can wait
-- You do not need to figure out the cause right now.
-- You do not need to decide “GP vs A&E” first if you’re unwell with blue/grey lips/face—start with **999**.
-- You do not need to tidy up, shower, or “look presentable”.
-- Work messages, travel plans, and explanations can wait.
+- You do not need to determine the underlying cause (e.g., heart vs. lung) before calling for help.
+- You do not need to pack a bag or get dressed in "outdoor" clothes.
+- You do not need to wait for a GP appointment if your lips or face are blue/grey.
+- You do not need to notify your employer or school until you are being treated.
 
 ## Important reassurance
-It’s understandable to feel frightened by this. Blue/grey colouring plus feeling unwell is a sign to get urgent medical help—calling 999 is a protective step, not an overreaction.
+It is normal to feel a sense of panic or "air hunger" when you notice skin colour changes or feel unwell. Paramedics are trained to stabilize your oxygen levels quickly. Seeking help immediately is the most effective way to manage these symptoms.
 
 ## Scope note
-This is first-steps only to keep you safe and get timely assessment. The right next decisions depend on what’s causing the low oxygen/circulation problem, which needs professional evaluation.
+This guide provides first-step stabilization for acute skin colour changes and associated illness. It does not replace professional clinical assessment or long-term management of underlying conditions.
 
 ## Important note
-This guide is general information, not a diagnosis. If you think you or someone else is seriously unwell—especially with blue/grey lips or breathing difficulty—seek emergency help immediately.
+This information is not a medical diagnosis. Blue or grey skin (cyanosis) is a clinical sign that requires immediate professional evaluation. Always prioritize the instructions given by 999/112 operators over any other advice.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/
-- https://www.nhs.uk/symptoms/shortness-of-breath/
-- https://www.nidirect.gov.uk/conditions/blue-skin-and-lips-cyanosis
+- https://www.nhs.uk/conditions/sepsis/
+- https://www.nhs.uk/conditions/angioedema/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/

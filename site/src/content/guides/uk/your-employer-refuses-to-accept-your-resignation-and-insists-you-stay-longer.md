@@ -1,79 +1,97 @@
-﻿---
+---
 title: "What to do if… your employer refuses to accept your resignation and insists you stay longer"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - employer refuses resignation
-  - resignation not accepted
-  - boss says you cannot quit
-  - forced to stay at job
-  - notice period dispute
-  - employer demands longer notice
-  - resignation rejected uk
-  - quitting job blocked
-  - last working day argument
-  - leaving date disagreement
-  - resignation letter refused
-  - pressured to withdraw resignation
-  - can employer stop resignation
-  - work notice period confusion
-  - hr refusing resignation
-  - threatened over resignation
-  - gardening leave confusion
-  - breach of contract notice
-last_reviewed: "2026-01-08"
+  - "manager demands meeting on sick leave"
+  - "asked to attend meeting while off sick"
+  - "meeting request during medical leave"
+  - "pressured to work while signed off"
+  - "sick leave contact from employer"
+  - "keep in touch during sickness absence"
+  - "fit note says not fit for work"
+  - "fit note and workplace meeting"
+  - "occupational health meeting while off sick"
+  - "hr meeting while on sick leave"
+  - "disciplinary hearing while off sick"
+  - "investigatory meeting while off sick"
+  - "grievance meeting while off sick"
+  - "return to work meeting request early"
+  - "right to be accompanied meeting"
+  - "union rep at hearing"
+  - "medical privacy at work uk"
+  - "worried about retaliation for sick leave"
+  - "what do i do if manager emails me while sick"
+  - "what do i do if i am asked to a meeting on medical leave"
+  - "what do i do if employer ignores fit note"
+  - "what do i do if i am too sick for a meeting"
+  - "help i am being forced to attend a meeting while ill"
+  - "help i have a disciplinary while off sick"
+  - "help i am on long term sick and manager wants a chat"
+  - "my manager is calling me while i am off sick"
+  - "my employer wants a welfare meeting"
+  - "my rights for meetings on sick leave"
+  - "sick note and work meetings"
+  - "medical leave meeting rights"
+  - "workplace meeting while unwell"
+  - "attending a hearing while signed off"
+  - "unfit for work meetings"
+  - "welfare check during sick leave"
+  - "rescheduling a meeting due to illness"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your employer refuses to accept your resignation and insists you stay longer (UK)
 
 ## Short answer
-Your employer cannot “reject” your resignation — focus on putting your resignation (and your last working day based on your notice period) in writing, and keep proof it was sent/received. You still need to give the right notice (usually what your contract says, or the statutory minimum if your contract is silent).
+State in writing that you are medically unfit to attend a meeting at this time, then request the meeting's agenda and any supporting documentation to be sent via email for HR to review.
 
 ## Do not do these things
-- Do not argue face-to-face for hours or get pulled into emotional bargaining — move it to writing.
-- Do not withdraw your resignation “for now” unless you truly want to stay (it can complicate things).
-- Do not agree to a longer notice period on the spot just to stop the pressure.
-- Do not stop turning up without checking what your contract says about notice (it can create avoidable risk).
-- Do not hand over equipment/keys/laptop without a simple record/receipt.
+- Do not agree to an "informal chat" over the phone if you are too unwell to concentrate or engage.
+- Do not provide a specific medical diagnosis to your line manager; your fit note only needs to state you are "not fit for work."
+- Do not ignore the request entirely; a single written acknowledgment of your absence prevents the employer from claiming you are "absent without leave" or refusing to communicate.
+- Do not attend a formal hearing (disciplinary or grievance) without confirming your right to be accompanied.
+- Do not assume that being on medical leave provides an absolute legal ban on all contact; employers are permitted to maintain "reasonable" communication.
 
 ## What to do now
-1. **Check your contract for your notice period and how to resign.** Look for: notice length, whether notice must be in writing, who it must go to (manager/HR), and any clauses on garden leave or payment in lieu. **If your contract does not say and you’ve worked there more than a month, you generally must give at least 1 week’s notice.**
-2. **Send (or resend) a clear written resignation today.** Email is usually best for an audit trail. Keep it simple:
-   - “I am resigning from my role.”
-   - “My notice period is [X] as per my contract (or statutory minimum).”
-   - “My last working day will be [date].”
-   **Double-check the date you wrote** — your notice period typically starts the day after you resign.
-   Send it to **your manager and HR**. If you have a work email issue, send from a personal email as well and/or deliver a printed letter and keep a photo.
-3. **Create proof and a timeline.** Save: the email you sent, any read receipt/auto-acknowledgement, screenshots, and notes of any conversations (date/time/what was said/who was present).
-4. **If they insist you must stay longer, ask one question in writing:**  
-   “Please confirm which contract term you rely on that requires a later leaving date than [date].”  
-   Then stop debating and repeat your position: you’re working your contractual notice (or statutory minimum) and leaving on the stated date.
-5. **Ask for the practical exit details (also in writing).** Request confirmation of:
-   - your **last day** and whether they want you to work notice, take holiday, or be put on **garden leave**
-   - how **unused holiday** will be handled in your final pay
-   - when you will receive your **final payslip** and **P45** (if you’re paid through PAYE)
-6. **If they start making threats (pay, reference, “we won’t process it”), keep it calm and written.** Don’t trade threats back. Reply once in writing, save evidence, and ask HR to confirm the employer’s position in writing.
-7. **Get fast, UK-specific advice if it’s escalating.** Contact **ACAS** for resignation/notice guidance and next steps, and consider **Citizens Advice** if you need help understanding your options and risks in plain language.
+1. **Confirm that your employer has a current, valid fit note for your absence.**  
+   If you have been absent for more than 7 calendar days, ensure HR has received a fit note from your GP or healthcare provider. Keep a digital copy or photograph for your own records.
+2. **Send a single, clear boundary message in writing.**  
+   Recommended wording: 
+   - "I am currently signed off as medically unfit for work and am not well enough to participate in meetings at this time. Please send the purpose, agenda, and any relevant documents to me via email so I can review them when my health permits. Please coordinate further contact through HR."
+3. **Identify the exact nature of the requested meeting.**  
+   Ask the employer to specify if the meeting is:
+   - A welfare / keeping-in-touch check-in.
+   - A return-to-work planning discussion.
+   - An investigatory meeting (fact-finding).
+   - A formal disciplinary, grievance, or capability hearing.
+4. **Exercise your statutory right to be accompanied for formal hearings.**  
+   If the meeting is a formal disciplinary, grievance, or capability hearing, you have a legal right to bring a companion.
+   - You may bring a work colleague, a trade union representative, or a trade union official.
+   - If your companion cannot attend at the proposed time, you can suggest an alternative time within 5 working days of the original date.
+5. **Request written questions as a reasonable adjustment.**  
+   If your health prevents you from attending a physical or video meeting, ask if you can provide written responses to their questions instead. This is often considered a "reasonable adjustment" under the Equality Act 2010 if your condition qualifies as a disability.
+6. **Limit contact to a specific "welfare officer" or HR contact.**  
+   If communication with your direct manager is causing stress or worsening your condition, request that all future contact during your leave be handled by a neutral party, such as an HR representative or an Occupational Health advisor.
+7. **Document any medical advice regarding workplace contact.**  
+   If your doctor or Occupational Health clinician believes workplace contact is hindering your recovery, ask them to include a note stating "the patient is currently unfit for any work-related meetings or correspondence."
 
 ## What can wait
-- Whether you negotiate a later leaving date (you do not need to decide this under pressure).
-- Whether you explain your reasons, write a long resignation letter, or have an “exit meeting” right now.
-- Whether you pursue a formal complaint or legal action (get calm advice first).
-- Whether you line up a new job immediately.
+- You do not need to decide whether to resign or take legal action while you are in the acute phase of an illness.
+- You do not need to respond to detailed evidence or allegations immediately if you are medically unfit to process them.
+- You do not need to provide access to your full medical records; a fit note or an Occupational Health report is usually sufficient.
 
 ## Important reassurance
-It’s common for employers to push back when they’re short-staffed. You’re not doing anything wrong by resigning and sticking to a clear, written notice. Keeping it calm, brief, and documented is often what stops this becoming messy.
+It is normal for employers to seek contact during sick leave to manage their workload and check on your wellbeing. However, you are entitled to protect your recovery. Setting a boundary for written communication is a standard professional response, not an act of defiance.
 
 ## Scope note
-This is first-steps-only guidance to stabilise the situation and prevent avoidable mistakes. If you’re on a fixed-term contract, have a senior/regulated role, or there are threats about money or legal action, you may need tailored advice.
+This guide covers first-step stabilization for handling immediate meeting demands. It does not cover the long-term management of capability procedures, permanent health-related dismissals, or the specifics of employment tribunal claims.
 
 ## Important note
-This is general information, not legal advice. Employment terms and risks vary by contract and job status. If you’re unsure about your notice obligations or you’re being threatened (for example with deductions or legal action), get independent advice promptly.
+This information is for general guidance and does not constitute legal or medical advice. Employment rights can vary based on your specific contract and length of service. If you are being threatened with dismissal for refusing to attend a meeting while sick, contact Acas or a qualified employment solicitor immediately.
 
 ## Additional Resources
-- https://www.acas.org.uk/resignation/how-to-resign
-- https://www.acas.org.uk/resignation/responding-to-an-employees-resignation
-- https://www.acas.org.uk/notice-periods/notice-when-resigning
-- https://www.gov.uk/handling-staff-resignations
+- https://www.gov.uk/handing-in-your-notice
 - https://www.gov.uk/handing-in-your-notice/giving-notice
-- https://www.citizensadvice.org.uk/work/resigning/your-notice-period-when-resigning/
+- https://www.acas.org.uk/resignation/how-to-resign
+- https://www.acas.org.uk/notice-periods/notice-when-resigning
+- https://www.citizensadvice.org.uk/work/resigning/deciding-whether-to-resign/

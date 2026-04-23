@@ -1,78 +1,96 @@
-﻿---
+---
 title: "What to do if… you return home and find a window has been broken by weather or impact"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - broken window at home
-  - smashed window on return
-  - window broken by storm
-  - weather damaged window
-  - window cracked by impact
-  - glass shattered inside house
-  - find broken glass at home
-  - possible break-in signs
-  - home security after damage
-  - sudden property damage
-  - unsafe glass hazard
-  - draught and rain coming in
-  - board up a broken window
-  - renter window damage
-  - landlord repair window
-  - burglary or vandalism worry
-  - came home to damage
-  - window frame damaged
-  - overnight window break
-last_reviewed: "2026-03-04"
+  - "broken window at home"
+  - "smashed window on return"
+  - "window broken by storm"
+  - "weather damaged window"
+  - "window cracked by impact"
+  - "glass shattered inside house"
+  - "find broken glass at home"
+  - "possible break-in signs"
+  - "home security after damage"
+  - "sudden property damage"
+  - "unsafe glass hazard"
+  - "draught and rain coming in"
+  - "board up a broken window"
+  - "renter window damage"
+  - "landlord repair window"
+  - "burglary or vandalism worry"
+  - "came home to damage"
+  - "window frame damaged"
+  - "overnight window break"
+  - "emergency glazing uk"
+  - "shattered pane help"
+  - "what do i do if my window is broken"
+  - "what do i do if i find a smashed window"
+  - "what do i do if my house was vandalised"
+  - "what do i do if weather broke my window"
+  - "help i have a broken window"
+  - "help i found my window smashed"
+  - "help i think someone broke my window"
+  - "my window is smashed what now"
+  - "my glass is broken everywhere"
+  - "storm damage to glass"
+  - "unsecured home window"
+  - "broken window pane hazard"
+  - "shards of glass on floor"
+  - "impact damage to house"
+  - "window boarding up uk"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you return home and find a window has been broken by weather or impact (UK)
 
 ## Short answer
-Treat it as a safety and security issue first: pause outside, check for signs someone may be inside, and only then go in to make the area safe and the home secure.
+Assess for personal safety before entering, then isolate the area to prevent injury and secure the opening against weather or intrusion.
 
 ## Do not do these things
-- Don’t step through glass or start clearing shards with bare hands.
-- Don’t rush inside if anything feels “off” (open door, disturbed items, noises, unfamiliar lights).
-- Don’t make permanent repairs or throw away damaged parts before you’ve taken clear photos (and, if crime is possible, before police say it’s okay).
-- Don’t leave the property unsecured overnight “because it’s only one window”.
-- Don’t confront anyone you suspect might be inside.
+- Do not enter the property if you see signs of an active intruder (noises inside, unusual lights, or an open front door).
+- Do not handle glass shards with bare hands or walk through the area in thin-soled shoes or socks.
+- Do not dispose of large shards or items that caused the break until you have photographed the scene for insurance.
+- Do not attempt to "test" the stability of remaining glass in the frame by pushing it.
+- Do not leave a ground-floor opening unsecured if you are staying elsewhere overnight.
 
 ## What to do now
-1. **Stop and assess from outside (30 seconds).** Look for signs of forced entry beyond the window (open doors, other damage, disturbed curtains/blinds). If you suspect someone may be inside or you feel unsafe, **call 999** and stay outside.
-2. **If it looks like weather/accident and the home seems empty, enter carefully.** Use a different door if possible. Turn on lights. Keep children/pets back from the affected room.
-3. **Make the area safe from glass.** Put on shoes with thick soles. If you have them, use gloves and eye protection. Close the door to the room and block access while you prepare.
-4. **Document the damage before moving much.** Take photos/video of:
-   - the window from inside and outside (wide + close-up),
-   - any frame damage,
-   - where glass has landed,
-   - anything nearby that suggests cause (fallen branch, debris, an object).
-5. **Decide whether this might be a crime.** If anything suggests vandalism/burglary (impact point that looks deliberate, missing items, disturbed rooms), **don’t tidy**. Leave things as they are and **call 101** (or report online to your local force) to get an incident/crime reference number. If you’re in immediate danger, call **999**.
-6. **Secure the opening to stop injury, weather ingress, and opportunistic entry.**
-   - Only if it is clearly **loose, reachable, and safe**, remove any piece that is about to fall immediately. If glass looks under tension, high up, or unstable, **leave it**.
-   - Use a **sturdy board** fixed to the frame if you can do so safely. If you cannot board, use **thick plastic sheeting/tarp** secured firmly as a short-term cover.
-   - If the frame is damaged, glass is continuing to fall, or you cannot secure it safely, call an emergency glazier.
-7. **If you rent, report it immediately.** Contact your landlord/letting agent (or housing provider) as soon as you can and keep a note of when/how you reported it.
-8. **Contact your home insurer once the property is secure.** Ask what they need for a claim (photos, receipts, police reference if relevant) and whether they require you to use specific repairers.
-9. **Reduce secondary damage.** If rain is coming in, move electronics/soft furnishings away from the window, put towels/buckets down, and ventilate once safe to reduce damp. If you see electrical danger (water near sockets/fixtures), keep clear and consider switching off power at the consumer unit only if you can do so safely.
+1. **Assess the scene from a safe distance outside.** Look for signs that the break was a crime in progress, such as a door left ajar or movement inside. 
+   - If you suspect an intruder is present, **call 999 immediately** and do not enter.
+   - If the damage appears to be from weather or an accident (e.g., a fallen branch), proceed with caution.
+2. **Isolate the room and secure pets and children.** Close the door to the affected room as soon as you enter. Ensure no one enters the area until the glass is cleared or the opening is covered.
+3. **Document everything for insurance and police.** Take clear photographs of the window from both inside and outside. 
+   - Capture wide shots of the room and close-ups of the impact point.
+   - Photograph any objects that may have caused the break (stones, branches, debris).
+4. **Determine the reporting path for the incident.**
+   - If the break appears to be vandalism or a burglary, **call 101** to report the crime and obtain a Crime Reference Number (CRN).
+   - If you are a tenant, **contact your landlord or letting agent** immediately to report the damage to the structure.
+5. **Clear the immediate floor area if safe to do so.** Wear thick-soled shoes and heavy-duty gloves. 
+   - Use a brush and dustpan for large pieces; do not use a vacuum cleaner for large shards as it may damage the machine.
+   - Use a damp paper towel or bread to pick up tiny, invisible glass slivers after the main pieces are gone.
+6. **Secure the opening temporarily.** 
+   - **Board the window** using exterior-grade plywood screwed into the frame if you have the tools and it is safe to reach.
+   - **Use heavy-duty plastic sheeting or a tarp** secured with battening or strong tape if boarding is not possible.
+   - **Contact an emergency glazier** if the window is high-up, the frame is structurally compromised, or you cannot secure it yourself.
+7. **Protect the interior from secondary damage.** Move electronics, soft furnishings, and rugs away from the opening if rain or moisture is entering. Place towels or a bucket at the base of the wall to catch runoff.
 
 ## What can wait
-- Choosing the “best” contractor or getting multiple quotes (secure it first).
-- Deep-cleaning every glass fragment (do the safety-critical bits now; thorough cleaning can be staged).
-- Deciding whether to claim on insurance (gather info and stabilise first).
-- Replacing curtains/blinds or redecorating (not urgent tonight).
+- Deep-cleaning the entire room (focus only on the immediate path and safety-critical areas for now).
+- Finalising an insurance claim (you only need the CRN and initial photos tonight).
+- Choosing a permanent replacement window or frame (temporary security is the priority).
+- Redecorating or repairing minor scratches to internal sills.
 
 ## Important reassurance
-It’s normal to feel jumpy or shaky when you walk into unexpected damage at home. Focusing on a short sequence—**safety, security, photos, temporary cover, then calls**—is enough for now.
+Finding your home damaged is a high-stress event that often triggers a "fight or flight" response. It is normal to feel shaky or find it hard to focus. By securing the opening and documenting the scene, you have already completed the most critical steps to protect your property.
 
 ## Scope note
-This is first-steps guidance for the first hours. Next steps (full repairs, insurance decisions, longer-term security) can be handled once you’ve slept and the opening is properly secured.
+This guide provides first-step stabilization only. It does not cover technical glazing installation, structural surveys, or legal disputes regarding liability.
 
 ## Important note
-This is general information for urgent first steps and harm prevention, not professional advice. If you feel unsafe or suspect someone may still be inside, prioritise personal safety and contact emergency services.
+This information is for harm reduction and property stabilization. Always prioritize personal safety over property. If you feel unsafe or suspect a crime, contact the police. Landlords in the UK are generally responsible for the structural integrity and security of the building, including windows, unless damage was caused by tenant negligence.
 
 ## Additional Resources
-- https://www.gov.uk/report-crime
-- https://www.gov.uk/contact-police
-- https://www.police.uk/pu/contact-us/
-- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/
-- https://england.shelter.org.uk/housing_advice/repairs/landlord_and_tenant_responsibilities_for_repairs
+- https://www.abi.org.uk/products-and-issues/choosing-the-right-insurance/home-insurance/buildings-insurance/
+- https://www.moneyhelper.org.uk/en/blog/insurance/help-you-can-get-if-your-home-is-hit-by-a-storm
+- https://www.abi.org.uk/products-and-issues/topics-and-issues/flooding/storms/storm-faq/
+- https://www.citizensadvice.org.uk/consumer/insurance/insurance-claims/making-a-claim-on-your-insurance-policy/
+- https://www.which.co.uk/news/article/how-to-claim-on-your-home-insurance-after-a-storm-akLoS1h3UkK2

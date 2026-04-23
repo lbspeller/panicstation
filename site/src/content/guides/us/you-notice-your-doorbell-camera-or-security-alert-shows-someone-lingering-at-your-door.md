@@ -1,69 +1,93 @@
-﻿---
+---
 title: "What to do if… you notice your doorbell camera or security alert shows someone lingering at your door"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - someone lingering at my door
-  - person loitering outside my door
-  - doorbell camera shows someone
-  - security alert at front door
-  - suspicious person at the door
-  - unknown person at my doorstep
-  - stranger outside my home
-  - someone waiting outside my house
-  - repeated doorbell alerts
-  - unexpected visitor won’t leave
-  - late night door activity
-  - someone checking my door
-  - doorstep loitering
-  - video doorbell suspicious activity
-  - feel unsafe answering the door
-  - home alone door alert
-  - apartment door suspicious person
-  - delivery scam at the door
-last_reviewed: "2026-01-10"
+  - "someone lingering at my door"
+  - "person loitering outside my door"
+  - "doorbell camera shows someone"
+  - "security alert at front door"
+  - "suspicious person at the door"
+  - "unknown person at my doorstep"
+  - "stranger outside my home"
+  - "someone waiting outside my house"
+  - "what do i do if someone is at my door"
+  - "what do i do if stranger wont leave"
+  - "what do i do if someone is checking my door"
+  - "what do i do if security alert shows person"
+  - "help i have a suspicious person at my door"
+  - "help i am being watched by doorbell camera"
+  - "help i see someone lingering outside"
+  - "my doorbell camera alert went off"
+  - "repeated doorbell alerts"
+  - "unexpected visitor won’t leave"
+  - "late night door activity"
+  - "doorstep loitering"
+  - "video doorbell suspicious activity"
+  - "feel unsafe answering the door"
+  - "home alone door alert"
+  - "apartment door suspicious person"
+  - "delivery scam at the door"
+  - "person testing door handle"
+  - "someone looking in my windows"
+  - "unknown person in hallway"
+  - "shadow at the door"
+  - "lingering stranger"
+  - "someone loitering"
+  - "doorbell camera person"
+  - "security alert person"
+  - "lingering person"
+  - "door lingering"
+  - "stranger lingering"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you notice your doorbell camera or security alert shows someone lingering at your door (USA)
 
 ## Short answer
-Do not open the door. Stay behind a locked door, watch from a safe position, and call 911 if you feel unsafe or think a crime is happening.
+Do not open the door or step outside; remain behind a locked barrier and call 911 immediately if you feel threatened or observe attempted entry.
 
 ## Do not do these things
-- Do not open the door “just to check”.
-- Do not step outside to confront them or “scare them off”.
-- Do not tell them you are alone or that you’re coming to the door.
-- Do not keep arguing through the door; it can escalate the situation.
-- Do not assume it’s harmless if they are testing handles, peeking in windows, or refusing to leave.
+- Do not open the door to "investigate" or ask what they want.
+- Do not step outside to confront the person or attempt to drive them away.
+- Do not announce that you are home alone or disclose your location within the house.
+- Do not engage in a back-and-forth verbal exchange through the door or intercom.
+- Do not ignore the alert if the person is physically testing the lock or looking through windows.
 
 ## What to do now
-1. **Create immediate distance and barriers.** Lock the front door (and any internal door between you and it). Move yourself and others away from the entryway and out of sight of front windows.
-2. **Verify what’s happening without exposing yourself.** Use the live doorbell camera view (or a safe vantage point) to see what the person is doing. If you can, turn on exterior lighting.
-3. **Use “closed-door” communication only (optional).** If you choose to speak, do it through the doorbell camera speaker/intercom or through the closed door. Keep it brief: “I can’t open the door. Please leave.” Then stop engaging.
-4. **Call law enforcement based on what you see.**
-   - **Call 911** if you believe a crime is happening, you feel in danger, the person is trying the door, or the situation seems to be escalating.
-   - If it does not feel like an emergency (for example, the person left but you want to report suspicious activity), call your **local police non-emergency number** to create a record and share footage.
-5. **If you can’t safely speak.** Call 911 anyway. If your area supports **Text-to-911**, you can try texting 911 instead, but it is not available everywhere—use whatever method is safest in the moment.
-6. **Give a clear, practical description.** Tell dispatch/law enforcement: your exact address/unit, what you see happening, when it started, what the person is doing, and a description (clothing, distinguishing features, direction of travel).
-7. **If you live in an apartment/building, use the building’s safety layer.** Call the front desk/concierge/security (if available) to check shared hallways/lobbies instead of you going to the door.
-8. **Preserve evidence for reporting.** Save/export the relevant video clip(s) in your doorbell app and write down the time and what happened while it’s fresh.
+1. **Secure your immediate environment and create distance.** Lock the primary entrance and any secondary barriers, such as a deadbolt or security chain. Move yourself and other occupants to a room away from the entryway and out of the line of sight of any windows.
+2. **Observe through the camera or a secure vantage point.** Open your doorbell camera app to monitor the person's behavior without revealing your presence. If you can do so safely from inside, turn on exterior lights to improve visibility.
+3. **Keep communication minimal and brief if using the intercom.** If you feel it is necessary to acknowledge the person, use the camera's speaker function to say: "I cannot come to the door right now, please leave." Immediately end the transmission and do not respond to further comments.
+4. **Determine the appropriate emergency response.** 
+   - **Call 911** if the person is trying the handle, peeking into windows, refusing to leave after being told to do so, or if you feel your safety is at risk.
+   - **Call 311 or the local non-emergency line** if the person has left but you wish to report the suspicious activity for police records.
+5. **Use the "Call if you can, text if you can't" protocol.** If you are in a situation where speaking aloud is unsafe, attempt to send a text to 911. Be aware that Text-to-911 is not available in every jurisdiction; if the text fails, you must attempt a voice call.
+6. **Provide the dispatcher with a structured "5Ws" report.** 
+   - **Who:** A description of the person (height, clothing, items carried).
+   - **What:** What they are doing (lingering, testing handles, looking in windows).
+   - **Where:** Your exact address, including apartment or unit number.
+   - **When:** How long they have been there or how many times they have returned.
+   - **Why:** Why you feel this is a threat (refusal to leave, suspicious behavior).
+7. **Notify building security or property management.** If you live in a multi-unit complex, alert the front desk or on-site security after calling the police so they can monitor shared hallways or lobbies.
+8. **Secure the digital evidence.** Save the video clip to your phone’s local storage or "star" the event in the app to prevent it from being overwritten by new footage.
 
 ## What can wait
-- You do not need to decide right now whether it was “casing” or a misunderstanding.
-- You do not need to post video online, respond to messages from strangers, or do your own investigation.
-- You do not need to make big security purchases or changes in the moment.
+- You do not need to determine the person’s intent or "motive" right now.
+- You do not need to post the video to social media or neighborhood watch apps in the heat of the moment.
+- You do not need to review hours of past footage to see if they have been there before until the immediate situation is resolved.
+- You do not need to research new locks or security systems while the person is still present.
 
 ## Important reassurance
-A doorbell alert like this can spike adrenaline fast. Staying behind a locked door and switching into “observe, don’t engage” mode is a reasonable, protective response.
+It is normal to feel a sudden surge of anxiety or a "racing heart" when a security alert occurs. Taking a position behind a locked door and choosing not to interact is a controlled, protective action that prioritizes your safety over social politeness.
 
 ## Scope note
-This covers first steps for the next minutes to hour. If this repeats, consider a follow-up report and longer-term safety planning later, when you’re calm and supported.
+This guide provides first-step stabilization for the immediate minutes following a suspicious doorbell alert. It does not replace a formal police report or long-term home security assessment.
 
 ## Important note
-This is general information, not legal or professional safety advice. If you think you’re in immediate danger or a crime is in progress, call 911.
+This information is for general safety guidance and does not constitute legal advice or a guarantee of police response. Always follow the direct instructions of 911 dispatchers during an active incident.
 
 ## Additional Resources
-- https://www.fcc.gov/general/9-1-1-and-e9-1-1-services
-- https://www.911.gov/calling-911/frequently-asked-questions
-- https://www.dhs.gov/see-something-say-something
-- https://www.nena.org/page/911tipsguidelines
+- https://www.thehotline.org/resources/stalking-safety-planning/
+- https://www.thehotline.org/resources/building-your-case-how-to-document-abuse/
+- https://www.usa.gov/report-crime
+- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/
+- https://www.stalkingawareness.org/wp-content/uploads/2024/03/SPARC-Stalking-Victim-Handbook.pdf

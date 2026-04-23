@@ -1,93 +1,108 @@
-﻿---
+---
 title: "What to do if… your credit report shows a new hard inquiry you did not authorise"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - unauthorised hard search
-  - unknown hard inquiry
-  - hard credit check not mine
-  - credit file new search
-  - hard enquiry i didnt apply
-  - lender searched my credit
-  - credit report identity fraud
-  - credit application not me
-  - suspicious credit check uk
-  - mistaken credit search
-  - fraud credit search marker
-  - credit file dispute process
-  - new finance search appeared
-  - credit score dropped search
-  - someone used my details
-  - credit report new enquiry
-  - hard search from unknown company
-  - credit reference agency search
-last_reviewed: "2026-01-10"
+  - "unauthorised hard search"
+  - "unknown hard search"
+  - "hard credit search not mine"
+  - "credit file new search"
+  - "hard search i didnt apply"
+  - "lender searched my credit"
+  - "credit report identity fraud"
+  - "credit application not me"
+  - "suspicious credit search uk"
+  - "mistaken credit search"
+  - "fraud credit search marker"
+  - "credit file dispute process"
+  - "new finance search appeared"
+  - "credit score dropped search"
+  - "someone used my details"
+  - "credit report new search"
+  - "hard search from unknown company"
+  - "credit reference agency search"
+  - "what do i do if my credit report has a search"
+  - "what do i do if i see an unknown credit check"
+  - "what do i do if someone applied for credit in my name"
+  - "what do i do if i have a fraudulent search"
+  - "help i have a credit search i dont recognise"
+  - "help i think my identity was stolen uk"
+  - "help i see a hard search on experian"
+  - "help i see a hard search on equifax"
+  - "my credit report shows an unknown lender"
+  - "my credit score fell because of a search"
+  - "my identity has been used for credit"
+  - "unrecognised search on credit file"
+  - "unexpected hard search on report"
+  - "remove search from credit report"
+  - "dispute hard search uk"
+  - "cifas protective registration uk"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your credit report shows a new hard inquiry you did not authorise (UK)
 
 ## Short answer
-Treat an unexpected hard inquiry as a possible identity-fraud warning. First, contact the lender that made the search (using verified contact details) and tell them you did not apply, then dispute it with the relevant credit reference agencies and add a protective “speed bump” to stop further applications.
+Contact the lender listed on the search immediately to cancel any pending applications and file a formal dispute with the credit reference agency that displayed the entry.
 
 ## Do not do these things
-- Don’t ignore it just because it’s “only a search” — a hard search can mean an application is already in progress.
-- Don’t use phone numbers or links shown next to the suspicious entry, or in texts/emails about it — find contact details independently.
-- Don’t apply for more credit “to test” things — extra applications create more searches and confusion.
-- Don’t pay anyone who offers to “remove” the search for a fee.
-- Don’t assume one credit reference agency will fix the others automatically.
+- Do not ignore the entry because it is "only a search"; a hard search indicates a formal application for credit has been made using your details.
+- Do not use contact information provided within a suspicious email or text alert about the search.
+- Do not apply for new credit to "test" your score, as this creates more searches and complicates the investigation.
+- Do not pay third-party "credit repair" companies to remove the search; you have a statutory right to dispute errors for free.
+- Do not assume that fixing the error with one agency will automatically update the others.
 
 ## What to do now
-1. **Capture the evidence before anything changes.**  
-   Write down the lender/company name, the date of the hard inquiry, and any reference number shown. Save a screenshot or download a copy of the report page.
+1. **Record the specific details of the search entry.**  
+   **Note the name of the company, the date of the search, and the credit reference agency (CRA) where you saw it.**  
+   - Take a screenshot or save a PDF of the report page as evidence.
+   - Look for any "reference numbers" associated with the search.
 
-2. **Contact the lender that ran the hard search and stop any application.**  
-   Use the lender’s official website (or your own paperwork if you already bank with them) to find their fraud team/customer support. Tell them:
-   - you did **not** apply and do **not** consent to the search
-   - you want any application in your name **cancelled immediately**
-   - you want written confirmation of what product was applied for and what contact/address details were used  
-   Ask them to **correct the record at source** (because credit reference agencies typically rely on the lender to confirm changes).
+2. **Contact the lender that performed the search to stop any active application.**  
+   **Find the lender's official "Fraud" or "Customer Support" number independently through their verified website.**  
+   - Tell them you did not authorise the search and have not applied for credit.
+   - Ask them to cancel any pending applications in your name immediately.
+   - Request that they "delete the search at source" so it is removed from your credit file.
 
-3. **Check all three UK credit reference agencies for the same search (and any other changes).**  
-   A lender might report activity to one agency but not another. Check for:
-   - any new accounts you don’t recognise (credit cards, loans, mobile contracts, buy-now-pay-later)
-   - new addresses, aliases, or linked/financial associations you don’t recognise  
-   If you see any of these, treat it as active identity fraud (not just a stray search).
+3. **Check all four main UK credit reference agencies for similar activity.**  
+   **Obtain reports from Experian, Equifax, TransUnion, and Crediva to ensure the search or other fraudulent entries are not appearing elsewhere.**  
+   - Look for new addresses, linked financial associates, or accounts you do not recognise.
+   - Check "soft searches" which may indicate a fraudster was checking your eligibility before applying.
 
-4. **Dispute the hard inquiry with each credit reference agency that shows it.**  
-   File a dispute stating the hard search was not authorised and that you have contacted the lender. Upload the evidence you saved.  
-   If the entry isn’t resolved quickly, ask the agency what your options are to add a short statement to your file while you continue to challenge it.
+4. **Raise a formal dispute with every agency showing the unauthorised search.**  
+   **Use the online dispute portal for each agency to mark the search as "not recognised."**  
+   - Provide the lender’s name and any communication you have had with them.
+   - The agency must investigate and usually responds within 28 days.
 
-5. **Add protection to make new applications harder.**  
-   Consider **Cifas Protective Registration** (currently a paid service for a fixed term) to prompt extra identity checks when credit is applied for in your name. This can slow down genuine applications too, but it can prevent repeat attempts.
+5. **Apply for Cifas Protective Registration.**  
+   **Register with Cifas (the UK's fraud prevention service) to place a warning flag on your file for £30 for two years.**  
+   - This requires lenders to perform extra identity checks before approving credit in your name.
+   - Note that this will also slow down your own genuine applications.
 
-6. **Make a fraud report and keep the reference number.**  
-   - If you live in **England, Wales, or Northern Ireland**, report via **Report Fraud** (online or by phone) and save the reference.  
-   - If you live in **Scotland**, report to **Police Scotland** via **101** (or **999** if it’s an emergency).  
-   A reference number can help when lenders or credit agencies ask for documentation.
+6. **Report the incident to Action Fraud or Police Scotland.**  
+   **If you are in England, Wales, or Northern Ireland, report online via Action Fraud; in Scotland, call 101.**  
+   - Keep the crime reference number provided, as lenders and CRAs often require this to process fraud claims.
 
-7. **Lock down the “key accounts” often used to take over someone’s identity.**  
-   Change your primary email password, enable 2-step verification, and check for new forwarding rules you didn’t set up. If your mobile number seems at risk (unexpected loss of service, SIM changes), contact your mobile provider.
+7. **Add a statutory Notice of Correction to your file.**  
+   **Submit a statement of up to 200 words to each CRA explaining that you are a victim of identity fraud.**  
+   - This forces a manual review of any future credit applications, preventing automated approvals by fraudsters.
 
 ## What can wait
-- You do **not** need to decide today whether to complain formally, escalate to an ombudsman, or pursue compensation.
-- You do **not** need to pay for “credit repair” services to fix a single hard search.
-- You can wait to replace identity documents unless you have a specific reason to believe they’re compromised.
-- You can wait to apply for new credit until the situation is stable and you’ve added protection.
+- You do not need to replace your passport or driving licence today unless you have specific evidence they were physically stolen.
+- You do not need to start a formal complaint with the Financial Ombudsman Service until the lender or CRA has provided a final response.
+- You do not need to close all your existing, healthy bank accounts unless you see suspicious activity on those specific statements.
 
 ## Important reassurance
-A single unfamiliar hard inquiry is a common early warning sign — catching it now can prevent bigger problems. You’re not expected to “prove everything” immediately: your job is to stop any live application, create a clear paper trail, and reduce the chance of another attempt.
+Seeing an unauthorised search is often the earliest possible warning of identity theft. By acting while the search is new, you can often stop a fraudster before they successfully open an account or withdraw funds. Hesitation or panic is a natural response, but following these procedural steps creates the paper trail needed to protect your financial standing.
 
 ## Scope note
-This guide covers first steps for an unexpected hard inquiry. If you later find new accounts, missed-payment markers, or debt collection contact, you may need additional steps (and possibly specialist help) to unwind the wider impact.
+This guide covers the immediate steps for addressing an unauthorised hard search. If you discover that accounts have already been opened or that your existing accounts are compromised, you will require further specific steps to resolve debt liability.
 
 ## Important note
-This is general information, not legal or financial advice. Processes can vary by lender and by which credit reference agency you’re viewing. If you feel unsafe or are being threatened or extorted, contact the police.
+This information is for general guidance and does not constitute legal or financial advice. Processes for removing searches depend on the cooperation of the lender and the internal verification procedures of the credit reference agencies.
 
 ## Additional Resources
-- https://www.reportfraud.police.uk/identity-fraud-and-identity-theft/
-- https://www.reportfraud.police.uk/guide-to-reporting/
-- https://www.scotland.police.uk/guidance/scams-and-frauds/
-- https://www.cifas.org.uk/pr
 - https://www.experian.co.uk/consumer/guides/searches-and-credit-checks.html
-- https://help.equifax.co.uk/EquifaxOnlineHelp/s/article/HowcanIdisputeinformationonmyEquifaxCreditReport
-- https://www.transunionstatreport.co.uk/DisputesFAQs
+- https://www.moneyhelper.org.uk/en/everyday-money/credit/how-to-check-your-credit-report
+- https://www.reportfraud.police.uk/identity-fraud-and-identity-theft/
+- https://www.cifas.org.uk/services/identity-protection
+- https://www.experian.co.uk/consumer/identity/what-to-do-if-victim.html

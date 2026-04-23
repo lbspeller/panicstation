@@ -1,70 +1,84 @@
-﻿---
+---
 title: "What to do if… a rideshare profile photo or license plate does not match the car that arrives"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - rideshare safety
-  - ride-hailing pickup mismatch
-  - wrong car at pickup
-  - number plate does not match
-  - number plate mismatch
-  - registration plate mismatch
-  - driver photo mismatch
-  - different driver than app
-  - different car than app
-  - suspicious pickup
-  - late night ride pickup
-  - getting into the wrong car
-  - someone claiming your ride
-  - cancelled ride safety
-  - street pickup confusion
-  - pre-booked minicab safety
-  - unlicensed minicab concern
-  - feeling unsafe during pickup
-  - stranger car at pickup point
-last_reviewed: "2026-01-17"
+  - "rideshare profile photo mismatch"
+  - "license plate does not match car"
+  - "what do i do if my uber car is different"
+  - "help i have the wrong rideshare car"
+  - "what do i do if driver photo is different"
+  - "rideshare car arrives with different plate"
+  - "my bolt driver photo does not match"
+  - "help i am at my pickup and the car is wrong"
+  - "driver says his car is in the shop"
+  - "car plate mismatch at pickup"
+  - "different vehicle registration at rideshare pickup"
+  - "incorrect car model for rideshare"
+  - "what do i do if driver photo is wrong"
+  - "wrong car arrives for my booking"
+  - "profile photo does not match driver"
+  - "rideshare license plate mismatch"
+  - "incorrect driver arrives for pickup"
+  - "rideshare vehicle does not match app"
+  - "smell of cigarette smoke in rideshare car"
+  - "visible damage to arriving rideshare vehicle"
+  - "driver acting suspicious at pickup"
+  - "unlicensed minicab at my location"
+  - "registration plate error in app"
+  - "driver photo error in rideshare app"
+  - "car model mismatch for ride"
+  - "different driver arrives for uber"
+  - "different car arrives for bolt"
+  - "help i am being pressured into a different car"
+  - "what do i do if driver says app is wrong"
+  - "wrong registration on minicab"
+  - "missing licensing plate on minicab"
+  - "driver asking for cash for off app ride"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a rideshare profile photo or license plate does not match the car that arrives (UK)
 
 ## Short answer
-Do not get in. Move to a safer spot, cancel the ride in the app, and request a new ride (or use another way home). If you feel threatened or the person won’t leave you alone, call 999.
+Do not enter the vehicle and move to a well-lit public area immediately. Cancel the trip within the app using the safety-specific reporting option and remain in a secure location until a different transport method is confirmed.
 
 ## Do not do these things
-- Don’t get in “just to confirm” or because you feel awkward saying no.
-- Don’t accept an off-app ride (cash/bank transfer, “I’ll cancel on my end”, “same price”).
-- Don’t hand over your phone, show a verification code/PIN, or share personal details to “prove” who you are.
-- Don’t stand close to the window or lean in to argue about it—keep space and an exit path.
-- Don’t let urgency (rain, lateness, surge pricing) override a mismatch.
+- Don't enter the car to discuss the discrepancy or ask the driver for an explanation.
+- Don't accept excuses regarding "technical glitches," "temporary replacement cars," or "app errors."
+- Don't agree to an "off-app" journey even if offered for a lower price or cash payment.
+- Don't show your phone screen or give your name first; wait for the driver to confirm your name and provide the correct PIN if enabled.
+- Don't stand within reach of the car door or lean into the window to speak with the occupant.
 
 ## What to do now
-1. **Create space and get to a safer pause.** Step away and move to a well-lit, busier place (shop entrance, hotel lobby, station concourse) where you can still see the pickup area from a distance.
-2. **Check only what the app shows.** Compare the arriving car to the in-app details (registration/number plate, make/model, driver name/photo). If any key detail doesn’t match, treat it as the wrong vehicle.
-3. **Cancel the ride in the app.** Choose the closest safety-related reason if offered (for example, “driver/car didn’t match”). If you’re charged a fee, don’t deal with it at the curb—leave it for later.
-4. **Stop interaction quickly if the driver approaches.** One firm line is enough (“This isn’t my ride.”). Then stop engaging and move nearer other people or inside.
-5. **Save just enough information while you’re safe.** Screenshot the trip screen (driver + vehicle details). If you can do so discreetly, note the actual car’s number plate and the time/location.
-6. **Report it in the app once you’re safe.** Use the app’s help/safety reporting flow for “wrong vehicle / wrong driver / plate didn’t match”, and attach your screenshot.
-7. **Rebook from a safer pickup point.** Pick a staffed or public location (main entrance, hotel lobby, outside a venue with security) rather than a quiet side street.
-8. **If you suspect an unlicensed taxi/minicab:** don’t use it. When you’re safe, report it to **TfL if you saw it in London**, or to the **local council licensing team** elsewhere. If you’re in immediate danger, call 999.
+1. **Move to a safer pause point immediately.** Step back from the curb and relocate to a populated, well-lit area such as a shop entrance, hotel lobby, or under a CCTV camera.
+2. **Verify the vehicle against the "Triple Licensing Lock" requirements.** Check that the car displays a valid licensing plate (usually on the rear) or a windscreen disc issued by the local council or Transport for London (TfL) that matches the app details.
+   - If in London, the car must have a yellow TfL licensing disc in the front and rear windscreens.
+   - Outside London, look for the local authority licensing plate fixed to the rear bumper or bodywork.
+3. **Use the "Verify Your Ride" PIN feature if you have it enabled.** Tell the driver to enter the 4-digit PIN provided by your app into their device; if they are the correct driver, their app will allow them to start the trip. 
+4. **Cancel the ride using the "Safety" or "Vehicle/Driver did not match" reason.** Select the specific cancellation reason in the app to ensure the platform is alerted to the discrepancy and to facilitate an automatic refund of any cancellation fees.
+5. **Report the vehicle to the appropriate licensing body once you are secure.** Use the app's internal safety reporting tool first, then provide the vehicle registration to the local council licensing team or TfL online.
+   - In London: Use the TfL online "Report illegal activity" form.
+   - Outside London: Contact the licensing department of the local council where the pickup occurred.
+6. **Take a discreet photo of the vehicle and its registration if it is safe to do so.** Do not put yourself at risk to obtain evidence; if the driver is aggressive, prioritize moving away over capturing images.
+7. **Contact 999 if the driver persists in following you or attempts to block your path.** Use the "Emergency Assistance" button in your rideshare app if available, as this often shares your GPS location directly with emergency services.
 
 ## What can wait
-- You don’t need to decide whether it was a mistake or a scam right now—mismatch means “no ride.”
-- You don’t need to resolve cancellation fees, ratings, or complaints while you’re still at the pickup point.
-- You don’t need perfect evidence; a screenshot and basic notes are enough.
+- You do not need to resolve the billing dispute or refund for a cancelled ride while you are still at the pickup location.
+- You do not need to determine if the driver's excuse (e.g., "my usual car is in the garage") is true.
+- You do not need to respond to messages from the driver through the app once the ride is cancelled.
 
 ## Important reassurance
-It’s normal to freeze or second-guess yourself in this moment, especially if you’re tired or alone. A mismatch is a valid reason to refuse a ride—your safety matters more than politeness.
+It is common to feel a sense of social pressure or "awkwardness" when refusing to get into a car, but a mismatch is a critical failure of the security system you are paying for. Choosing to walk away is a standard safety protocol, and rideshare platforms explicitly instruct users not to take trips where details do not match.
 
 ## Scope note
-These are first steps to reduce immediate risk and get you somewhere safer. Follow-up reporting, refunds, and any formal complaints can be done once you’re calm and secure.
+This guide provides first-step stabilization for a pickup discrepancy. It does not cover long-term legal claims or insurance disputes following an accident in an unlicensed vehicle.
 
 ## Important note
-This is general safety information, not legal advice. If you feel in immediate danger, call 999. If you’re unsure but concerned, it’s reasonable to cancel, move to a safer place, and rebook.
+This information is based on 2026 UK Private Hire Vehicle (PHV) regulations and platform safety features. If you are in immediate danger, always contact 999. Verification of a driver's identity and vehicle is the responsibility of the operator and the local licensing authority.
 
 ## Additional Resources
-- https://help.uber.com/en-GB/riders/article/my-drivers-license-plate-was-different?nodeId=d29bf8bb-93b3-4497-a63f-53aaa4f0c62a
-- https://help.uber.com/en-GB/riders/article/my-driver-didnt-match-the-profile-in-my-app-?nodeId=5180c336-d9d7-4b71-946f-d021bcdf4586
-- https://help.uber.com/en-GB/riders/article/my-drivers-vehicle-was-different?nodeId=498bdbdc-ac5f-4281-986d-8c438e95dad0
-- https://www.gov.uk/report-unlicenced-taxi
-- https://tfl.gov.uk/info-for/taxis-and-private-hire/compliance-and-enforcement
-- https://www.uber.com/newsroom/check-your-ride/
+- https://www.uber.com/gb/en/ride/safety/
+- https://www.uber.com/gb/en/safety/uber-community-guidelines/keep-safe/
+- https://tfl.gov.uk/modes/taxis-and-minicabs/what-to-expect-from-your-journey
+- https://tfl.gov.uk/info-for/taxis-and-private-hire/licensing/licence-checker
+- https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/complain-about-a-service/

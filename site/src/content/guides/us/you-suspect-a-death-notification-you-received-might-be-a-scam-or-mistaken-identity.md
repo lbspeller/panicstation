@@ -1,82 +1,90 @@
-﻿---
+---
 title: "What to do if… you suspect a death notification you received might be a scam or mistaken identity"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - death notification scam
-  - bereavement scam call
-  - fake death message
-  - mistaken identity death notice
-  - unexpected hospital call
-  - funeral home impersonation
-  - social security death report confusion
-  - inheritance scam after death
-  - gofundme style funeral scam
-  - phishing about a death
-  - scam text about someone dying
-  - urgent payment for funeral
-  - demand for ssn after death
-  - identity theft after death claim
-  - verifying death information
-  - shock after death notice
-  - wrong person declared dead
-  - scammer claiming police
-  - scammer claiming hospital
-last_reviewed: "2026-02-23"
+  - "death notification scam"
+  - "bereavement scam call"
+  - "fake death message"
+  - "mistaken identity death notice"
+  - "unexpected hospital call"
+  - "funeral home impersonation"
+  - "social security death report"
+  - "inheritance scam"
+  - "gofundme fraud"
+  - "phishing about a death"
+  - "scam text about dying"
+  - "urgent payment for funeral"
+  - "demand for ssn after death"
+  - "identity theft after death"
+  - "verifying death information"
+  - "wrong person declared dead"
+  - "scammer claiming police"
+  - "scammer claiming hospital"
+  - "help i got a fake death notice"
+  - "help i received a death scam text"
+  - "my social security number after death scam"
+  - "what do i do if death notification is a scam"
+  - "what do i do if i suspect a death scam"
+  - "what do i do if death notice is fake"
+  - "what do i do if i got a scam funeral call"
+  - "smell of scam in death notice"
+  - "see fake death certificate"
+  - "hear ai voice death scam"
+  - "suspicious hospital call cues"
+  - "fema funeral assistance scam"
+  - "ssa oig scam report"
+  - "mistaken identity death report"
+  - "notification of death error"
+  - "bogus death announcement"
+  - "fraudulent bereavement contact"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you suspect a death notification you received might be a scam or mistaken identity (USA)
 
 ## Short answer
-Do not send money or personal information. Verify through trusted, independently found contact details (family, employer, the hospital’s main switchboard, or a real agency number you look up yourself) — not the number or link that contacted you.
+Stop all communication with the sender immediately and do not provide money or personal data. Verify the claim using independently sourced contact information for the hospital, police department, or family members named in the message.
 
 ## Do not do these things
-- Don’t share your Social Security number, date of birth, driver’s license, bank info, or verification codes.
-- Don’t click links or open “death certificates” or “case files” sent by text/email.
-- Don’t call back on the number in the message or let them transfer you to a “supervisor”.
-- Don’t let urgency (“you must act now”) force decisions or payments.
-- Don’t post personal details online to “confirm” whether it’s real.
+- Don’t provide your Social Security number, date of birth, or bank details to the person who contacted you.
+- Don’t click on links or download attachments labeled as “death certificates,” “case files,” or “legal notices.”
+- Don’t use the phone number provided in the message or allow yourself to be transferred to a “supervisor” or “legal department.”
+- Don’t pay any “release fees,” “transportation costs,” or “administrative taxes” requested via wire transfer, gift cards, or cryptocurrency.
+- Don’t post the notification on social media to ask for help, as this exposes your personal network to the same scammers.
 
 ## What to do now
-1. **End the interaction.** Say: “I’m not able to discuss this. I will verify independently.” Then hang up/stop replying.
-2. **Preserve what you received.** Screenshot texts/emails, note the caller ID/number, the exact claims, any “case number,” and what they demanded.
-3. **Verify using trusted channels you choose (pick what fits):**
-   - **If they claim a hospital/medical facility:** call the facility’s **main switchboard** using a number you find independently and ask for the relevant unit or patient relations. Share only minimal details until you’re confident it’s legitimate.
-   - **If they claim law enforcement:** call the agency’s publicly listed non-emergency number and ask if the officer/unit exists and whether they tried to contact you.
-   - **If they named a funeral home:** look up the funeral home’s public number independently and ask if they are handling that person (they may limit what they can say — that’s okay).
-   - **If the person is known to you:** contact a close relative/friend using your existing contacts to confirm.
-4. **If the message suggests a Social Security issue (for example, “we need your SSN” or “benefits must be released”):**
-   - Assume it’s suspicious. Social Security accepts reports of death **by phone or in person**, not by email or online.
-   - If you suspect you (or someone you care for) has been **incorrectly listed as deceased**, **visit your local Social Security office as soon as possible** with current, original identification.
-5. **If money was requested (funeral costs, “transport,” “release fees,” inheritance processing):** treat as a scam until verified. Tell them you will only consider anything **in writing** after independent verification.
-6. **Report it so there’s a record:**
-   - Report scams to the **FTC** at **ReportFraud.ftc.gov**.
-   - If it was cyber-enabled (emails, websites, online payments, crypto), report to the FBI via **IC3 at ic3.gov** — type it in yourself and watch for lookalike sites.
-   - If it involves Social Security-related fraud/scams, report to the **SSA Office of Inspector General**.
-7. **If you shared financial details, SSN, or paid anything:**
-   - Contact your bank/card issuer immediately using the number on your card or official app to stop/trace payments.
-   - Start identity-theft recovery at **IdentityTheft.gov** (type it in yourself), and follow the steps for fraud alerts/credit freezes and documentation.
+1. **Terminate the contact immediately.** Hang up the phone or stop replying to texts and emails without giving a reason or engaging in an argument.
+2. **Preserve the evidence for reporting.** Take screenshots of messages and note the specific time, date, and caller ID information, but do not interact with the message again.
+3. **Verify through a trusted independent channel.** Use a separate device or a fresh browser window to find official contact details.
+   - **For hospital claims:** Call the facility's main switchboard using a number from their official `.org` or `.gov` website and ask for the patient relations or admissions department.
+   - **For law enforcement claims:** Call the non-emergency line of the local police or sheriff’s department listed in the official government directory.
+   - **For Social Security claims:** Call the official Social Security Administration (SSA) line at 1-800-772-1213 or visit `ssa.gov/scam` to verify the contact.
+4. **Contact your family or the person named directly.** Use your existing contact list to reach out to the person mentioned or their known close relatives to confirm their status.
+5. **Report the incident to the appropriate authorities.**
+   - File a report at **ReportFraud.ftc.gov** for general scam attempts.
+   - Report cyber-enabled scams (email, text, social media) to the FBI at **IC3.gov** by typing the address directly into your browser.
+   - Report Social Security imposters to the SSA Office of the Inspector General at **oig.ssa.gov**.
+6. **Secure your accounts if you shared information.** If you provided financial details or a Social Security number, contact your bank’s fraud department immediately.
+   - Initiate identity theft recovery steps at **IdentityTheft.gov**.
+   - Place a fraud alert or credit freeze on your files with Equifax, Experian, and TransUnion.
 
 ## What can wait
-- You don’t need to “prove it’s a scam” before protecting yourself — verification can happen after you stop contact and secure accounts.
-- You don’t need to notify every agency immediately; focus on the one most relevant to what you shared (money, SSN, online scam).
-- You don’t need to confront the scammer or keep them talking — it can increase risk.
+- You do not need to notify your employer or other secondary agencies until the death is actually confirmed through official channels.
+- You do not need to determine "why" you were targeted or identify the specific scammer before taking protective action.
+- You do not need to respond to the notification to "clear up" a mistake; the burden of proof is not on you in a scam scenario.
 
 ## Important reassurance
-Receiving a death notice out of the blue can be emotionally hijacking. Feeling confused, numb, or unable to judge what’s real is a normal shock reaction. Slowing down and verifying through channels you control is the safest first move.
+Receiving news of a death is a high-stress event that triggers a "fight or flight" response, which scammers intentionally exploit to bypass your logic. Feeling panicked or confused is a natural physiological reaction to the message, not a sign of poor judgment. Taking a moment to pause and verify is a responsible and necessary protective step.
 
 ## Scope note
-These are first steps to prevent harm and confirm reality. If the notification turns out to be genuine, the next phase (benefits, documentation, and family coordination) is separate and can be handled once you’re steadier.
+This guide is for first-step stabilization and verification only. It does not cover the legal or administrative steps required for legitimate bereavement or estate management.
 
 ## Important note
-This is general information, not legal or financial advice. Scams and reporting options vary by state and situation. When unsure, default to: no money, no personal info, and verification via independently found official contact details.
+This information is for general guidance and does not constitute legal or financial advice. Official government agencies (SSA, IRS, FEMA) will never contact you out of the blue to demand immediate payment or sensitive data via text or phone.
 
 ## Additional Resources
-- https://www.usa.gov/social-security-report-a-death
+- https://consumer.ftc.gov/consumer-alerts/2023/06/imposters-prey-families-preparing-funeral-loved-one
+- https://consumer.ftc.gov/consumer-alerts/2024/06/contacted-about-long-lost-relatives-life-insurance-policy-or-inheritance-its-scam
+- https://www.usa.gov/where-report-scams
+- https://www.usa.gov/death-certificate
 - https://www.ssa.gov/personal-record/when-someone-dies
-- https://www.ssa.gov/faqs/en/questions/KA-02917.html
-- https://reportfraud.ftc.gov/
-- https://www.identitytheft.gov/
-- https://www.ic3.gov/
-- https://oig.ssa.gov/report/
-- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams

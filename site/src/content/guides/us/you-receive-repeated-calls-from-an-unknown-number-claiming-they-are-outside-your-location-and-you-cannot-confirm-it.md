@@ -1,69 +1,95 @@
-﻿---
+---
 title: "What to do if… you receive repeated calls from an unknown number claiming they are outside your location and you cannot confirm it"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - unknown number repeated calls
-  - caller claims outside my home
-  - someone outside but unsure
-  - threatening phone calls
-  - intimidating calls to your address
-  - can’t confirm caller location
-  - possible stalking by phone
-  - harassment calls unknown number
-  - spoofed caller id fear
-  - scam call pretending nearby
-  - caller tries to lure you outside
-  - repeated calls won’t stop
-  - safety check without opening door
-  - worried someone is outside
-  - caller won’t identify themselves
-  - panic after suspicious calls
-  - unknown caller knows where i live
-  - phone intimidation at night
-last_reviewed: "2026-01-11"
+  - "unknown number repeated calls"
+  - "caller claims outside my home"
+  - "someone outside but unsure"
+  - "threatening phone calls"
+  - "intimidating calls to your address"
+  - "can-t confirm caller location"
+  - "possible stalking by phone"
+  - "harassment calls unknown number"
+  - "spoofed caller id fear"
+  - "scam call pretending nearby"
+  - "caller tries to lure you outside"
+  - "repeated calls won-t stop"
+  - "safety check without opening door"
+  - "worried someone is outside"
+  - "caller won-t identify themselves"
+  - "panic after suspicious calls"
+  - "unknown caller knows where i live"
+  - "phone intimidation at night"
+  - "what do i do if someone calls and says they are outside"
+  - "what do i do if an unknown number keeps calling"
+  - "what do i do if i am being harassed by phone"
+  - "what do i do if i feel unsafe in my house"
+  - "help i think someone is outside my house"
+  - "help i am getting threatening calls"
+  - "my phone keeps ringing from unknown numbers"
+  - "my caller id says unknown and they are threatening me"
+  - "smell of cigarette smoke outside"
+  - "sounds of footsteps on porch"
+  - "shadows moving outside window"
+  - "unrecognized car in driveway"
+  - "phone spoofing harassment"
+  - "unidentified caller fear"
+  - "emergency safety pause"
+  - "harassing calls at home"
+  - "stalking behavior phone calls"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you receive repeated calls from an unknown number claiming they are outside your location and you cannot confirm it (USA)
+
 ## Short answer
-Stop engaging, get to a safer pause (inside, doors locked), and treat it as potentially real until you can calmly rule it out. If you feel unsafe or think someone may actually be outside, call **911**.
+Stop all engagement with the caller, secure your immediate physical environment, and call 911 if you have any reason to believe someone is actually on the premises. Do not exit your home to investigate or verify the caller's claims.
 
 ## Do not do these things
-- Don’t go outside “to check,” meet the caller, or open the door because of the call.
-- Don’t confirm details like your address, whether you’re alone, or who is with you.
-- Don’t argue, negotiate, or try to “outsmart” the caller on the phone.
-- Don’t rely on caller ID as proof (numbers can be spoofed).
-- Don’t post about it in real time on social media (it can increase risk).
-- Don’t call the number back repeatedly (it can escalate contact and give them feedback).
+- Don’t step outside to "check the perimeter" or look for the caller.
+- Don’t open the door for any reason, even if the caller claims to be a neighbor or official.
+- Don’t provide any information, including your name, address, or whether you are alone.
+- Don’t attempt to "trap" or "outsmart" the caller by staying on the line.
+- Don’t use your phone to record the caller while they are speaking to you; hang up instead.
+- Don’t respond to text messages or click links sent from the number.
 
 ## What to do now
-1. **End the call and stop engaging.** Let further calls go to voicemail. Turn on your phone’s “silence unknown callers” / do-not-disturb with exceptions for your contacts if available.
-2. **Make your location safer.** Lock doors and accessible windows. Turn on exterior lights if you can do so safely. Keep kids/pets away from doors and ground-floor windows.
-3. **Check without exposing yourself.** Use a peephole, camera, or a view from an interior/upstairs window. Avoid standing in a lit doorway/window where you’re easy to see.
-4. **If you feel in immediate danger or think someone is outside: call 911.** Tell the dispatcher you’re receiving repeated calls from an unknown number claiming they’re outside, and you can’t confirm it. Give your exact location and follow instructions.
-5. **If it doesn’t feel immediate but the calls are threatening/harassing:** call your local police **non-emergency** number (or use your agency’s online reporting option if offered). Save voicemails and note the times of calls.
-6. **Assume the number could be spoofed.** Do not trust what appears on caller ID and do not “verify” yourself to the caller. If they claim to be from an organization, hang up and look up the organization’s official number separately.
-7. **Use your carrier and phone tools immediately.** Block the number, enable spam/unknown call filtering, and ask your carrier what reporting options they offer for suspected scam/spoofed calls.
-8. **Bring in a calm third party.** Call or text a trusted neighbor/friend to stay in contact. If you’re in an apartment/complex with security/front desk, ask them to check common areas—**not** to confront anyone.
+1. **End the call immediately and stop answering.** Do not engage in any further dialogue, as interaction provides the caller with feedback and incentive to continue.
+2. **Physically secure your location.** Manually check that all entry doors, including the door to the garage and any sliding glass doors, are locked and deadbolted. 
+   - Ensure all ground-floor and accessible windows are closed and latched.
+   - Draw curtains or blinds to prevent anyone outside from seeing your movements or your interior layout.
+3. **Use technology to observe without exposure.** Check your video doorbell or security camera feeds if available. 
+   - If using a window to look outside, stay away from the glass and use an upstairs or side-angled view where you are not backlit.
+   - Do not turn on interior lights in the room you are using to look out; this makes you visible to the outside.
+4. **Call 911 if you feel in immediate danger.** Tell the dispatcher that you are receiving repeated calls from a person claiming to be outside your home and that you cannot verify their location. 
+   - Provide your full address and state whether you have seen or heard anything specific outside (e.g., footsteps, a vehicle, or shadows).
+   - Stay on the line with the dispatcher until help arrives.
+5. **Enable "Silence Unknown Callers" or AI screening.** Go to your phone settings to automatically send calls from numbers not in your contacts directly to voicemail.
+   - On iOS 26, enable "Screen Unknown Callers" to have the system ask for a reason for the call before it rings.
+   - On Android, use "Call Screen" to let the Google Assistant handle the incoming call.
+6. **Notify a trusted contact.** Send a text or call a friend, family member, or neighbor to let them know the situation and that you have secured your home.
+7. **Document the contact pattern.** Keep a written log or take screenshots of the call history, including the exact times and the number displayed (even if likely spoofed). 
+   - Save any voicemails left by the caller; do not delete them, as they are evidence for law enforcement.
 
 ## What can wait
-- Deciding whether to change your phone number or buy new security gear.
-- Filing reports about unwanted/scam calls to federal agencies (for example, the **FCC** or **FTC**) once you feel safe.
-- Registering your number with the National Do Not Call Registry (helpful for some marketing calls, but it won’t stop scammers).
-- Writing a detailed narrative—saving the call log/voicemails is enough for now.
-- Trying to figure out “who it was” tonight. Safety first, certainty later.
+- Deciding if you need to change your phone number.
+- Researching or installing new security cameras or lighting.
+- Filing a non-emergency report with the FTC (ReportFraud.ftc.gov) or FCC.
+- Reviewing your social media privacy settings to see how the caller got your number.
+- Trying to identify the caller through "reverse lookup" sites.
 
 ## Important reassurance
-These calls are often designed to create panic and get you to expose yourself (open the door, step outside, confirm you’re alone). Taking simple, cautious steps and contacting law enforcement when you feel at risk is a reasonable response.
+It is normal to feel a sudden surge of adrenaline or fear when receiving a call like this. Most of these calls are "virtual" threats intended to cause psychological distress or lure you into a vulnerable position. By locking your doors and staying inside, you have already significantly reduced the risk of physical harm.
 
 ## Scope note
-These are first steps only—focused on stabilizing and preventing irreversible mistakes. If the calls continue, you may need follow-up support from your carrier and local police.
+This guide provides first-step stabilization and harm prevention only. It does not replace a safety plan developed with a professional or law enforcement.
 
 ## Important note
-This guide is general information, not legal advice. If you believe you’re in danger or someone may be outside and you feel unsafe, call **911**.
+This information is for safety stabilization and is not legal or professional advice. Always prioritize the instructions of 911 dispatchers and local law enforcement during a live event.
 
 ## Additional Resources
-- https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts
-- https://www.fcc.gov/consumers/guides/spoofing
 - https://consumer.ftc.gov/features/how-stop-unwanted-calls
-- https://usa.gov/telemarketer-scam-call-complaints
+- https://consumer.ftc.gov/consumer-alerts/2018/01/thats-not-your-neighbor-calling?page=1
+- https://ovc.ojp.gov/topics/stalking
+- https://womenshealth.gov/relationships-and-safety/other-types/stalking
+- https://consumer.ftc.gov/consumer-alerts/2015/07/scammers-impersonate-police?page=1&ref=eltiempolatino.com

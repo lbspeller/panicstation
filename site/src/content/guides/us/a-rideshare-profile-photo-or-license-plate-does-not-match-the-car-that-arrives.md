@@ -1,69 +1,80 @@
-﻿---
+---
 title: "What to do if… a rideshare profile photo or license plate does not match the car that arrives"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - rideshare safety
-  - ride-hailing pickup mismatch
-  - wrong car at pickup
-  - license plate mismatch
-  - plate does not match app
-  - driver photo mismatch
-  - different driver than app
-  - different car than app
-  - suspicious pickup
-  - being pressured to get in
-  - rideshare scam concern
-  - late night pickup safety
-  - airport pickup confusion
-  - curbside pickup safety
-  - getting into the wrong car
-  - stranger car at pickup point
-  - cancel ride for safety
-  - unsafe ride request
-last_reviewed: "2026-01-17"
+  - "rideshare profile photo mismatch"
+  - "rideshare license plate mismatch"
+  - "car that arrives does not match"
+  - "what do i do if rideshare photo is different"
+  - "what do i do if license plate is wrong"
+  - "what do i do if car is not the same"
+  - "what do i do if driver looks different"
+  - "help i think this is the wrong uber"
+  - "help i think this is the wrong lyft"
+  - "my rideshare plate does not match"
+  - "my rideshare driver is different"
+  - "wrong car at pickup"
+  - "suspicious rideshare vehicle"
+  - "license plate does not match app"
+  - "profile photo mismatch"
+  - "driver photo does not match"
+  - "mismatched car and driver"
+  - "unrecognized vehicle arrives"
+  - "rideshare scam at pickup"
+  - "being pressured into wrong car"
+  - "different car color than app"
+  - "different car model than app"
+  - "plate discrepancy at pickup"
+  - "fake rideshare driver"
+  - "rideshare safety at night"
+  - "wrong plate number"
+  - "driver photo looks fake"
+  - "verify rideshare identity"
+  - "rideshare safety protocol"
+  - "cancel ride for safety mismatch"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a rideshare profile photo or license plate does not match the car that arrives (USA)
 
 ## Short answer
-Don’t get in. Move somewhere safer, cancel the trip in the app, and request a new ride. If you feel threatened or followed, call 911.
+Do not enter the vehicle. Move to a secure location, cancel the ride through the app using a safety-related reason, and report the mismatch immediately to the platform.
 
 ## Do not do these things
-- Don’t get in to “sort it out” or because the driver insists it’s fine.
-- Don’t accept an off-app ride (cash, Venmo/Zelle, “cancel and I’ll take you anyway”).
-- Don’t share verification codes, PINs, or account info with anyone at the curb.
-- Don’t step close to the window to debate details; keep distance and a clear exit path.
-- Don’t let urgency (rain, late night, surge prices) override a mismatch.
+- Do not enter the car to discuss the discrepancy or "check" the driver's ID.
+- Do not accept verbal explanations (e.g., "This is a rental," "My other car is in the shop," or "The app is glitching").
+- Do not agree to an "off-app" ride for cash or third-party payment (Venmo / Zelle).
+- Do not share your PIN or verification code until you have confirmed the license plate and vehicle model match perfectly.
+- Do not lean into the window or stand between the vehicle and a wall; maintain a clear path to retreat.
 
 ## What to do now
-1. **Create space immediately.** Step back and move to a safer location nearby (inside a business, near security, under bright lights, near other people).
-2. **Verify only the essentials in your app.** Check the license plate and the driver photo/name shown in-app. If they don’t match exactly, treat it as the wrong ride.
-3. **Cancel the ride in the app.** Pick the closest safety-related reason if available. Don’t handle fees or long support chats while you’re still exposed at the pickup point.
-4. **Use in-app safety options if they’re visible—but default to 911 if you’re scared.** If your app shows a safety toolkit/emergency option, you can open it while you move away. If you feel in danger, call 911.
-5. **Capture minimal details while staying discreet.** Screenshot the trip details (driver + vehicle info). If it’s safe, note the arriving car’s plate and your location (cross street/landmark).
-6. **Report it once you’re in a safe place.** Use the app’s “help/safety” reporting flow for “wrong vehicle / wrong driver / plate didn’t match,” and attach your screenshot.
-7. **Rebook from a controlled pickup point.** If you’re at an airport/venue, go to the official rideshare pickup zone or a staffed entrance. Otherwise, choose a busier, well-lit corner and wait away from the curb.
-8. **If you already got in before noticing:** ask to end the ride at a busy, well-lit place immediately and get out. If the driver refuses or you feel trapped, call 911.
+1. **Create physical distance immediately.** Step back from the curb and move toward a well-lit area, a building entrance, or a group of people.
+2. **Confirm the mismatch in the app.** Compare the physical license plate and the driver's appearance against the information displayed on your screen.
+   - If any single element (plate, make, model, or photo) does not match, treat the ride as unauthorized.
+3. **Cancel the trip using the "Safety" or "Vehicle/Driver mismatch" reason.** Open the trip details, select "Cancel," and choose the option that best describes the safety concern to ensure the cancellation fee is waived or eligible for a refund.
+4. **Use the "On-Trip Reporting" or "Safety Preferences" feature if you feel followed.** If the driver remains stationary or attempts to interact with you after you move away, use the in-app safety toolkit to alert the platform or contact emergency services.
+5. **Call 911 if you feel threatened.** If the driver becomes aggressive, insists you get in, or follows you after you move away, contact local authorities immediately.
+6. **Capture a screenshot of the ride details.** Ensure the driver’s name, photo, vehicle information, and your location are visible for your report.
+7. **Submit a formal safety report via the app's help menu.** Navigate to "Safety Center" or "Report a Safety Incident" and attach your screenshots, noting that the vehicle or driver did not match the profile.
+8. **Enable PIN Verification and Audio Recording for future rides.** Go to the app's Safety Preferences/Settings and turn on "Verify My Ride" (PIN) and "Record Audio" to add an extra layer of security for your next pickup.
 
 ## What can wait
-- You don’t need to figure out whether it was a mix-up or intentional—mismatch means “no ride.”
-- You don’t need to confront the driver or prove you’re right.
-- You don’t need to deal with refunds, ratings, or detailed reporting until you’re safe and calm.
+- You do not need to determine if the driver's excuse was legitimate; any mismatch is a violation of platform safety rules.
+- You do not need to resolve cancellation fee disputes while you are still at the pickup point.
+- You do not need to respond to messages or calls from the driver after you have moved to safety.
 
 ## Important reassurance
-It’s common to second-guess yourself in this moment. Declining a mismatched car is a normal, reasonable safety decision—being cautious here is appropriate.
+It is normal to feel pressured or awkward when a driver is waiting, but your safety is the priority. Rideshare platforms strictly prohibit drivers from using unverified vehicles or accounts; declining a mismatched ride is the correct and expected response.
 
 ## Scope note
-This guide covers first steps to avoid immediate harm at pickup. Platform investigations, refunds, and any follow-up with law enforcement can happen after you’re safe.
+This guide provides immediate stabilization and harm-reduction steps for a pickup mismatch. It does not cover long-term legal claims, platform insurance disputes, or police investigations.
 
 ## Important note
-This is general information, not legal advice. If you are in immediate danger, call 911. If you’re unsure, it’s okay to cancel, relocate to a safer place, and rebook.
+This information is for safety stabilization and is not legal advice. If you are in immediate danger or have been a victim of a crime, call 911. Platform policies regarding safety features and reporting may vary slightly by city or specific app version.
 
 ## Additional Resources
+- https://www.uber.com/us/en/ride/safety/tips/
+- https://www.uber.com/us/en/blog/ride-safety-tips/
+- https://help.uber.com/riders/article/my-driver-didnt-match-the-profile-in-my-app-?nodeId=5180c336-d9d7-4b71-946f-d021bcdf4586
 - https://help.uber.com/en/riders/article/my-driver%E2%80%99s-vehicle-was-different?nodeId=498bdbdc-ac5f-4281-986d-8c438e95dad0
-- https://www.uber.com/newsroom/check-your-ride/
-- https://www.uber.com/newsroom/ubers-new-safety-toolkit/
-- https://www.uber.com/newsroom/emergencybutton/
-- https://help.lyft.com/hc/en-us/all/articles/115012927507-My-driver-s-car-photo-doesn-t-match
-- https://www.lyft.com/blog/posts/lyft-launches-emergency-help
+- https://www.uber.com/us/en/safety/our-commitment/

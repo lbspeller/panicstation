@@ -1,71 +1,79 @@
-﻿---
+---
 title: "What to do if… a stranger claims to “know you” and insists you go somewhere with them despite your refusal"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - stranger says they know me
-  - someone insists i go with them
-  - stranger won’t take no
-  - being pressured to go somewhere
-  - stranger tries to isolate me
-  - lured to a second location
-  - “come with me” stranger
-  - coercive stranger in public
-  - unsafe encounter with stranger
-  - public place intimidation
-  - someone blocks my path
-  - stranger demands i follow
-  - fear of abduction attempt
-  - panic in public with stranger
-  - stranger claims to recognise me
-  - unwanted escort by stranger
-  - pressured to get in a car
-  - stranger won’t leave me alone
-last_reviewed: "2026-01-11"
+  - "stranger claims to know me"
+  - "stranger insists i go somewhere"
+  - "refusal ignored by stranger"
+  - "stranger wont take no"
+  - "help i dont know this person"
+  - "stranger following me in public"
+  - "someone trying to isolate me"
+  - "stranger asking me to follow"
+  - "help a stranger is touching me"
+  - "my path is blocked by a stranger"
+  - "stranger says they recognize me"
+  - "being pressured to leave public area"
+  - "stranger demanding i get in car"
+  - "forced conversation with stranger"
+  - "stranger pretending to be a friend"
+  - "unwanted attention from stranger"
+  - "refusal of escort from stranger"
+  - "stranger won't stop talking to me"
+  - "help i am being lured away"
+  - "stranger acting like they know me"
+  - "being cornered by a stranger"
+  - "stranger refusing to leave me alone"
+  - "someone insists i go with them"
+  - "stranger claiming to be family"
+  - "stranger claiming to be acquaintance"
+  - "help i am being pressured by stranger"
+  - "stranger ignoring my refusal"
+  - "stranger insists on walking with me"
+  - "stranger trying to guide me away"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a stranger claims to “know you” and insists you go somewhere with them despite your refusal (USA)
 
 ## Short answer
-Don’t go with them. Move immediately into a staffed, public place and call 911 (or have staff call) while you stay around other people.
+Do not go with them and immediately move into a staffed, public building. Call 911 or direct an employee to call while you remain in the presence of other people.
 
 ## Do not do these things
-- Do not go to a “quieter” spot, back room, parking lot, alley, or vehicle “just to talk”.
-- Do not let them guide you by touching you or walking you toward an exit.
-- Do not share personal info (your name, where you’re staying, where you’re headed, who you’re with).
-- Do not accept a ride, “help,” or a “shortcut,” even if they sound convincing.
-- Do not hand over your phone, unlock it for them, or let them get between you and other people.
-- Do not try to “resolve it politely” if that keeps you stuck—prioritize distance and help.
+- Do not go to a quieter area, parking lot, vehicle, or side room to resolve the confusion.
+- Do not allow the person to touch you or lead you toward an exit or a different location.
+- Do not provide your name, phone number, address, or details about who you are meeting.
+- Do not attempt to prove you do not know them by showing them identification or social media.
+- Do not accept a ride, a "shortcut," or "help" with your bags or belongings.
+- Do not worry about being "polite" or causing a scene; prioritize physical distance.
 
 ## What to do now
-1. **Create a safer pause immediately.** Walk into the nearest staffed place: store, hotel lobby, coffee shop, front desk, security station. Stand where there are cameras/people (near the register or reception).
-2. **Use one firm sentence, then stop engaging.** Example: **“I don’t know you. I’m not going anywhere with you.”** Don’t argue details. Shift your attention to staff/bystanders.
-3. **Recruit help directly.** Point to one person and assign a task:  
-   - **“You—please call 911. This person is trying to get me to go with them.”**  
-   - To staff: **“I need help. Please call 911 and keep them away from me.”**
-4. **Call 911 if you feel threatened, they won’t back off, or they’re trying to isolate you.** Give: exact location (address/business name), what’s happening, description, and where they are now. Stay in the staffed place until help arrives.
-5. **If you can’t safely speak to 911:** still dial **911** and **stay on the line**. Follow the dispatcher’s prompts if you can. If you truly can’t talk without increasing risk, keep yourself in a public, staffed area and communicate through staff if possible.  
-   - **Text-to-911 is only available in some locations.** If you know it works where you are and calling would put you at risk, you can text **911** your location and a brief description (avoid emojis/photos unless your local system explicitly supports them).
-6. **If you’re in a mall, transit hub, campus, hospital, or large venue:** go to **security/customer service** and ask them to call 911 and keep the person away. Stay near security or the front desk, not near exits.
-7. **When it’s time to leave, reduce follow-risk.** Ask staff/security to watch you exit, wait with you, or escort you to a safer pickup point. If you’re getting a ride, wait inside until it arrives.
+1. **Move immediately to a staffed, high-traffic location.** Enter the nearest business, hotel lobby, security desk, or hospital entrance. Stand near the staff counter or register rather than in the aisles or near the door.
+2. **State your refusal once, loudly and clearly.** Use a firm sentence: **"I do not know you, and I am not going anywhere with you."** Do not engage in further debate or answer their follow-up questions.
+3. **Delegate help from a specific person.** Point at one employee or bystander and give a direct instruction: **"You in the blue shirt, call 911 immediately; this person is trying to force me to go with them."** 
+4. **Call 911 yourself if you have a phone accessible.** Provide your exact location (business name and street address), a description of the person, and state that they are attempting to isolate or remove you from the area.
+5. **Use silent protocols if you cannot speak safely.** Dial **911** and stay on the line even if you cannot talk. Some dispatchers can use "silent call" procedures where you can tap the keypad to answer yes/no questions if prompted.
+6. **Follow the "Call if you can, text if you can't" rule for 911.** If you are in a situation where speaking aloud increases your danger, text **911** with your location and the word "stranger" or "danger." Wait for a bounce-back message to confirm the text went through.
+7. **Request a safe escort or wait for police arrival.** Do not leave the staffed area alone. Ask security or staff to monitor the exits or wait with you inside the building until a police officer or a known, trusted person arrives to meet you.
 
 ## What can wait
-- You do **not** have to decide right now whether to file a report, press charges, or “prove” anything.
-- You do **not** need to keep talking to them to find out “who they are.”
-- You can write down details (time, place, description, what was said) **after** you’re safe.
-- You do **not** need to post about it or warn others online in the moment.
+- You do not need to figure out if the person is "actually" confused or has a mental health issue right now.
+- You do not need to decide if you want to press charges or file a formal report in this moment.
+- You do not need to notify your family or friends until you are in a secure, staffed location.
+- You do not need to check your own memory to "make sure" you don't know the person.
 
 ## Important reassurance
-Feeling frozen, shaky, or worried about overreacting is common. In this situation, you’re not being dramatic—you’re setting a safety boundary. Getting help quickly is a reasonable response.
+It is normal to feel a "rush" of adrenaline, shaking hands, or a sense of "freezing" when someone ignores your boundaries. These are standard biological responses to a threat. Taking immediate action to get to a public space is a measured, appropriate safety response, regardless of the stranger's intent.
 
 ## Scope note
-This is first-steps-only guidance for the minutes that matter. Follow-up steps (reporting, documentation, safety planning) can happen once you’re safe and supported.
+This guide provides first-step stabilization for an active encounter with a coercive stranger. It does not cover long-term legal actions or private security planning.
 
 ## Important note
-This is general safety information, not legal advice. If you believe you’re in immediate danger, call 911. If you’re unsure but feel threatened, trust that signal and move to a staffed public place.
+Emergency procedures and 911 capabilities vary by county and state. Always prioritize getting to a physical location with witnesses and staff over attempting to manage the situation through a phone alone.
 
 ## Additional Resources
-- https://www.911.gov/calling-911
-- https://www.911.gov/calling-911/frequently-asked-questions
-- https://www.fcc.gov/sites/default/files/text-to-911_-_what_you_need_to_know.pdf
-- https://www.mass.gov/info-details/silent-call-procedure
+- https://rainn.org/strategies-to-reduce-risk-increase-safety/how-to-respond-if-someone-is-pressuring-you/
+- https://rainn.org/strategies-to-reduce-risk-increase-safety/tips-for-safer-dating-online-and-in-person/
+- https://www.thehotline.org/resources/stalking-safety-planning/
+- https://ovc.ojp.gov/topics/stalking
+- https://www.thehotline.org/resources/reporting-to-police-options-tips-for-being-prepared/

@@ -1,73 +1,97 @@
-﻿---
+---
 title: "What to do if… you are pregnant and you notice a sudden severe headache or vision changes"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - sudden severe headache pregnant
-  - vision changes in pregnancy
-  - blurred vision while pregnant
-  - flashing lights pregnancy
-  - seeing spots pregnancy
-  - worst headache of my life pregnant
-  - thunderclap headache pregnancy
-  - headache that wont go away pregnant
-  - pregnancy headache warning signs
-  - possible preeclampsia symptoms
-  - high blood pressure pregnancy signs
-  - severe headache after 20 weeks
-  - dizzy with headache pregnancy
-  - headache and swelling pregnancy
-  - headache and upper belly pain pregnancy
-  - headache with vomiting pregnancy
-  - sudden vision loss pregnancy
-  - urgent maternal warning signs
-  - labor and delivery triage headache
-last_reviewed: "2026-01-21"
+  - "sudden severe headache while pregnant"
+  - "vision changes during pregnancy"
+  - "blurry vision in pregnancy"
+  - "seeing flashing lights while pregnant"
+  - "spots in vision pregnancy"
+  - "worst headache of my life pregnant"
+  - "thunderclap headache pregnancy"
+  - "headache that won't go away pregnant"
+  - "pregnancy headache warning signs"
+  - "high blood pressure symptoms pregnancy"
+  - "severe headache after 20 weeks"
+  - "dizzy with headache pregnancy"
+  - "headache and swelling pregnancy"
+  - "headache and upper belly pain pregnancy"
+  - "headache with vomiting pregnancy"
+  - "sudden vision loss pregnancy"
+  - "urgent maternal warning signs"
+  - "labor and delivery triage headache"
+  - "postpartum headache 2 weeks after birth"
+  - "vision changes after having baby"
+  - "what do i do if i have a bad headache while pregnant"
+  - "what do i do if my vision is blurry and i am pregnant"
+  - "what do i do if i see spots while pregnant"
+  - "what do i do if my head hurts and i am pregnant"
+  - "help i am pregnant and have a severe headache"
+  - "help i am pregnant and seeing flashes"
+  - "help i have a headache and my face is swollen"
+  - "my head is pounding and i am pregnant"
+  - "my vision is blurry after giving birth"
+  - "swollen hands and face pregnancy"
+  - "upper right stomach pain pregnancy"
+  - "seeing stars while pregnant"
+  - "pregnancy headache and nausea"
+  - "is a severe headache dangerous in pregnancy"
+  - "emergency signs in third trimester"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you are pregnant and you notice a sudden severe headache or vision changes (USA)
 
 ## Short answer
-Get urgent medical help now. If symptoms are sudden or severe, call 911; otherwise contact your OB/midwife or Labor & Delivery triage right away and be prepared to go in today.
+Seek immediate medical evaluation at an Emergency Room or Labor & Delivery (L&D) triage. These symptoms, especially after 20 weeks of pregnancy or up to 6 weeks after birth, can indicate a life-threatening blood pressure complication.
 
 ## Do not do these things
-- Do not wait for a routine prenatal visit if the headache is sudden, severe, or comes with vision changes.
-- Do not drive yourself if you have blurred vision, dizziness, confusion, weakness, or feel unsafe.
-- Do not take extra doses of medication beyond the label, mix multiple headache meds, or start a new medicine “to see if it helps.”
-- Do not assume it’s “just migraine” if it’s new, different, or escalating.
-- Do not minimize it when you call—say clearly: “I’m pregnant and I have a sudden severe headache and/or vision changes.”
+- Do not wait for your next scheduled prenatal appointment to report these symptoms.
+- Do not drive yourself to the hospital if you are experiencing blurred vision, dizziness, or confusion.
+- Do not take over-the-counter headache medications (like Tylenol) and wait for them to work before calling for help.
+- Do not assume the symptoms are "just a migraine" or caused by dehydration.
+- Do not minimize your symptoms when speaking to medical staff—use the phrase "urgent maternal warning signs."
 
 ## What to do now
-1. **Call 911 immediately if this feels like an emergency.** Examples: the worst sudden headache of your life, fainting, seizure, trouble speaking, one-sided weakness/numbness, facial droop, confusion, severe shortness of breath, chest pain, or you can’t see properly.
-2. **If not at the 911 level, contact urgent pregnancy care right now.** Call your **OB/GYN or midwife’s on-call line**. If you can’t reach them quickly, call **Labor & Delivery (L&D) triage** (if you have a delivery hospital or have been told to use L&D). Many systems direct people around **20+ weeks** to L&D—follow what your clinic/hospital tells you. If you’re not sure where to go or you can’t reach anyone promptly, **go to an Emergency Department**.
-3. **Say the key words that help you get triaged correctly.** Tell them:
-   - you are pregnant (and how many weeks)
-   - when it started and whether it came on suddenly
-   - what the vision changes are (blurry, flashes, spots, double vision, partial loss)
-   - any other warning signs (upper belly/rib pain, severe nausea/vomiting, sudden swelling of face/hands, feeling very unwell)
-   - any history of high blood pressure or preeclampsia
-4. **If you have a home blood pressure cuff, take one reading—but don’t delay contacting care to do it.** Write down the numbers and time and share them.
-5. **Get safer while you wait.** Sit or lie down, reduce bright light if it worsens symptoms, and have someone stay with you. If you’re alone, call someone to come over and arrange transport (or 911 if you feel unsafe).
-6. **Get ready to be evaluated today.** Bring ID, insurance card, a list of medications/supplements, and your prenatal clinic name. If you go to an ER, tell every staff member early: **“I am pregnant.”**
+1. **Call 911 immediately if you experience any emergency "red flag" symptoms.** 
+   - A headache that feels like the worst of your life or a "thunderclap."
+   - Sudden loss of vision or inability to see at all.
+   - Seizures, fainting, or loss of consciousness.
+   - Difficulty breathing or severe chest pain.
+   - Confusion or inability to speak clearly.
+2. **Contact your OB / GYN or midwife's emergency on-call line right away if you are not calling 911.** 
+   - Tell the operator: "I am [number] weeks pregnant (or [number] weeks postpartum) and I have a severe headache and vision changes."
+   - Ask: "Where should I go for immediate evaluation?"
+3. **Go directly to Labor & Delivery (L&D) triage or the nearest Emergency Room.**
+   - If you are over 20 weeks pregnant, L&D triage is often the designated location.
+   - If you are postpartum (up to 6 weeks after birth) or under 20 weeks, you may be directed to the ER; always state clearly that you were recently pregnant.
+4. **Take one blood pressure reading if you have a home monitor, but do not delay travel to do so.**
+   - If your top number (systolic) is 160 or higher, or your bottom number (diastolic) is 110 or higher, this is a medical emergency.
+   - Report these numbers immediately to the triage nurse or 911 operator.
+5. **Monitor for other accompanying symptoms while in transit.**
+   - Notice if you have sharp pain in your upper right abdomen (under the ribs).
+   - Check for sudden, extreme swelling in your face, eyes, or hands.
+   - Note any persistent nausea or vomiting that started with the headache.
+6. **Alert all medical staff upon arrival that you are pregnant or recently postpartum.** 
+   - This ensures you are triaged according to maternal safety protocols (such as the "Hear Her" or "AIM" guidelines).
 
 ## What can wait
-- You do not need to diagnose yourself (preeclampsia, migraine, dehydration, etc.) before getting seen.
-- You do not need to finish tasks, drive somewhere “quickly,” or wait for office hours.
-- You do not need to decide about tests or treatment until you’ve been assessed.
+- You do not need to pack a hospital bag or find your insurance paperwork before leaving.
+- You do not need to determine if your blood pressure was "normal" yesterday; today's symptoms take priority.
+- You do not need to notify your employer or cancel non-essential appointments until you have been medically cleared.
 
 ## Important reassurance
-These symptoms can be scary, and it’s reasonable to seek urgent care even if you feel unsure. Getting checked quickly is the safest move for you and your pregnancy, and clinicians expect you to come in for this.
+It is normal to feel frightened or overwhelmed when these symptoms appear suddenly. Seeking immediate care is the most responsible action you can take for your health and your pregnancy. Medical teams are trained to prioritize these symptoms and would much rather evaluate you and find nothing wrong than have you wait at home.
 
 ## Scope note
-This guide is only about the first steps to get you assessed safely. Follow the instructions you’re given by 911/your OB/L&D/ER staff.
+This guide covers first-step stabilization and emergency navigation for acute neurological and visual symptoms during pregnancy and the immediate postpartum period (up to 6 weeks).
 
 ## Important note
-This is general information, not medical advice or a diagnosis. Severe headache or vision changes during pregnancy can be urgent—seek same-day evaluation, and use 911 if symptoms are sudden, severe, or you feel unsafe.
+Severe headaches and vision changes in pregnancy are clinical indicators that require professional assessment, often involving blood pressure checks, urine analysis, and fetal monitoring. Do not attempt to self-diagnose or manage these symptoms at home.
 
 ## Additional Resources
 - https://www.cdc.gov/hearher/maternal-warning-signs/index.html
-- https://medlineplus.gov/ency/article/000898.htm
-- https://saferbirth.org/aim-resources/aim-cornerstones/urgent-maternal-warning-signs/
-- https://www.preeclampsia.org/frontend/assets/img/advocacy_resource/Gestational_Hypertension_and_Preeclampsia_ACOG_Practice_Bulletin%2C_Number_222_1605448006.pdf
-- https://www.mayoclinic.org/diseases-conditions/preeclampsia/symptoms-causes/syc-20355745
-- https://my.clevelandclinic.org/health/diseases/17952-preeclampsia
+- https://www.marchofdimes.org/find-support/topics/pregnancy/preeclampsia
+- https://www.cdc.gov/hearher/news-media/article-urgent-warning-signs.html
+- https://www.marchofdimes.org/find-support/blog/know-when-to-seek-medical-care-during-pregnancy-and-after-giving-birth
+- https://www.cdc.gov/hearher/resources/download-share/docs/pdf/Warning-Signs-Poster-LTR-English.pdf

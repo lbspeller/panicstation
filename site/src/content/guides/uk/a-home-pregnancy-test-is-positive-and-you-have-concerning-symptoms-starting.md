@@ -1,72 +1,100 @@
-﻿---
+---
 title: "What to do if… a home pregnancy test is positive and you have concerning symptoms starting"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - positive pregnancy test with symptoms
-  - pregnancy test positive and bleeding
-  - pregnancy test positive and pain
-  - early pregnancy abdominal pain
-  - early pregnancy one sided pain
-  - shoulder tip pain pregnancy
-  - dizziness fainting early pregnancy
-  - heavy bleeding in early pregnancy
-  - spotting after positive test
-  - cramps and bleeding after positive test
-  - severe pelvic pain pregnancy test
-  - feeling unwell after positive test
-  - possible ectopic pregnancy symptoms
-  - early pregnancy emergency symptoms
-  - worried something is wrong early pregnancy
-  - pregnancy test positive severe cramps
-  - pregnancy test positive back pain
-  - sudden pain early pregnancy
-  - bleeding in pregnancy what to do
-last_reviewed: "2026-01-21"
+  - "positive pregnancy test symptoms"
+  - "what do i do if my pregnancy test is positive and i have pain"
+  - "what do i do if i am bleeding after a positive pregnancy test"
+  - "help i have a positive pregnancy test and sharp pain"
+  - "help i am dizzy after a positive pregnancy test"
+  - "my pregnancy test is positive and i have one sided pain"
+  - "my pregnancy test is positive and i have shoulder pain"
+  - "bleeding after positive pregnancy test"
+  - "one sided abdominal pain early pregnancy"
+  - "shoulder tip pain early pregnancy"
+  - "feeling faint after positive pregnancy test"
+  - "heavy bleeding early pregnancy"
+  - "spotting after positive pregnancy test"
+  - "cramping after positive pregnancy test"
+  - "rectal pressure after positive pregnancy test"
+  - "pain when peeing early pregnancy"
+  - "pain when pooing early pregnancy"
+  - "brown watery discharge early pregnancy"
+  - "severe pelvic pain positive test"
+  - "home pregnancy test positive symptoms"
+  - "pregnancy test positive and bleeding"
+  - "pregnancy test positive and pain"
+  - "early pregnancy abdominal pain"
+  - "early pregnancy one sided pain"
+  - "shoulder tip pain pregnancy"
+  - "dizziness fainting early pregnancy"
+  - "heavy bleeding in early pregnancy"
+  - "spotting after positive test"
+  - "cramps and bleeding after positive test"
+  - "severe pelvic pain pregnancy test"
+  - "feeling unwell after positive test"
+  - "early pregnancy emergency symptoms"
+  - "worried something is wrong early pregnancy"
+  - "pregnancy test positive severe cramps"
+  - "pregnancy test positive back pain"
+  - "sudden pain early pregnancy"
+  - "bleeding in pregnancy what to do"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… a home pregnancy test is positive and you have concerning symptoms starting (UK)
 
 ## Short answer
-If you have severe or worsening tummy/pelvic pain, heavy bleeding, shoulder-tip pain, or you feel faint/dizzy, get emergency help now (999/A&E). If you have any vaginal bleeding, new pain/cramping, fever, or you feel unwell, contact your midwife/GP immediately (or NHS 111 if you can’t reach them).
+If you have sudden severe abdominal pain, shoulder-tip pain, or feel faint, call 999 or go to A&E immediately. For any vaginal bleeding, milder pain, or new pelvic symptoms, contact your GP or NHS 111 for an urgent referral to an Early Pregnancy Assessment Unit (EPAU).
 
 ## Do not do these things
-- Do not “wait and see” if pain is severe, worsening, one-sided, or you feel faint, dizzy, very weak, or very unwell.
-- Do not drive yourself if you feel faint/dizzy, have severe pain, or are bleeding heavily—get someone to take you or call 999.
-- Do not take ibuprofen (or other NSAIDs) unless a clinician has specifically advised it in pregnancy. If you already took a dose, don’t panic—tell the clinician/pharmacist.
-- Do not ignore shoulder-tip pain (pain where the shoulder ends and the arm begins), collapse, or sudden severe tummy/pelvic pain.
-- Do not drink alcohol or take recreational drugs “to cope” with shock or pain.
-- Do not stop prescribed medicines abruptly unless a clinician tells you to—bring a list and ask.
+- Do not wait to see if symptoms improve if you have one-sided pain, shoulder-tip pain, or feel dizzy and weak.
+- Do not drive yourself to the hospital if you feel faint, dizzy, or are bleeding heavily.
+- Do not use tampons or menstrual cups; use a sanitary pad to monitor the volume of blood loss.
+- Do not take ibuprofen or other non-steroidal anti-inflammatory drugs (NSAIDs) unless specifically instructed by a doctor.
+- Do not ignore pain or pressure when opening your bowels or passing urine.
+- Do not stop taking any existing prescribed medications without first consulting a healthcare professional.
 
 ## What to do now
-1. **Pick the safest route to urgent care based on symptoms (treat yourself as pregnant until a clinician confirms otherwise):**
-   - **Call 999 now / go to A&E** if you have **a sharp, sudden, intense tummy/pelvic pain** especially with **feeling very dizzy/fainting**, **feeling sick**, **looking very pale/weak**, **shoulder-tip pain**, **heavy bleeding**, **chest pain**, or **trouble breathing**.
-   - **Contact your midwife/GP immediately** if you have **any vaginal bleeding**, **new or increasing cramps/pain**, **pain on one side**, **fever**, **smelly discharge**, or you’re worried something isn’t right. If you can’t reach them promptly, **call NHS 111**.
-2. **Ask specifically about an early pregnancy service:** if you’re early in pregnancy and have bleeding/pain, ask your GP/NHS 111 (or your local hospital switchboard) how to reach your **Early Pregnancy Assessment Unit / Early Pregnancy Service** in your area.
-3. **If you’re bleeding, use a pad (not a tampon or cup)** so you can track how much there is and give clearer information to clinicians.
-4. **Write a quick symptom note for triage (1 minute):** when symptoms started, where the pain is (one side or central), severity (0–10), whether it’s worsening, bleeding amount (spotting vs soaking pads), any dizziness/fainting, shoulder-tip pain, fever, vomiting/diarrhoea, and **date of your last normal period** (if you know it).
-5. **Gather essentials for urgent care:** the pregnancy test (or a photo), medications/supplements (and doses), allergies, your NHS number if you have it, and a phone charger. If possible, bring someone with you.
-6. **For pain while you’re arranging care:** paracetamol is generally the first-choice painkiller in pregnancy when used as directed. If pain is severe or worsening, don’t rely on painkillers—seek urgent care.
+1. **Identify if your symptoms require an emergency response (999 or A&E):**
+   - **Seek emergency care immediately** if you experience sudden, sharp, or intense pain in the lower abdomen or pelvis.
+   - **Seek emergency care immediately** if you feel very dizzy, faint, or look pale.
+   - **Seek emergency care immediately** if you have pain at the tip of your shoulder (where your shoulder ends and your arm begins).
+   - **Seek emergency care immediately** if you have heavy vaginal bleeding that soaks through a pad in an hour.
+2. **Contact your GP or NHS 111 for urgent symptoms that are not immediate emergencies:**
+   - **Request a referral to an Early Pregnancy Assessment Unit (EPAU)** if you have any amount of vaginal bleeding, spotting, or brown discharge.
+   - **Request a referral to an EPAU** if you have persistent cramps or pain in your lower abdomen, even if it is mild.
+   - **Request a referral to an EPAU** if you have discomfort when peeing or pooing that is new since your positive test.
+3. **Note down your specific observations for the medical team:**
+   - **Record the date of your last normal period** and the date of your positive pregnancy test.
+   - **Describe the location of any pain,** specifically noting if it is central or focused on one side.
+   - **Describe the bleeding,** including the color (bright red vs. dark brown) and the amount (spotting vs. flow).
+4. **Prepare for a clinical assessment:**
+   - **Gather any previous pregnancy notes** or a photo of your positive pregnancy test.
+   - **List all medications,** vitamins, or supplements you are currently taking.
+   - **Pack essentials for a potential hospital stay,** including a phone charger and any regular medications.
+5. **Manage pain using safe methods while waiting for care:**
+   - **Take paracetamol if needed,** following the dosage on the packet, as this is the recommended painkiller in early pregnancy.
+   - **Inform the clinician immediately** if paracetamol does not manage the pain or if the pain worsens.
 
 ## What can wait
-- You do **not** need to decide anything today about the pregnancy beyond getting assessed for your symptoms.
-- You do **not** need to book antenatal care or calculate dates right now.
-- You do **not** need to work out the cause yourself (miscarriage vs ectopic vs infection vs something else)—that needs clinical assessment.
-- You can deal with messages, work, and family explanations later. “I’m having urgent symptoms and getting checked” is enough.
+- You do not need to decide on future plans for the pregnancy until your safety is clinically confirmed.
+- You do not need to book a routine "booking appointment" with a midwife until these acute symptoms are resolved.
+- You do not need to identify the medical cause of the symptoms yourself.
+- You do not need to notify your employer or wider family today.
 
 ## Important reassurance
-It’s common to feel panicked or numb when symptoms start after a positive test. Some early-pregnancy symptoms and even bleeding can happen without a serious problem—but certain warning signs can be emergencies, and getting checked quickly is the safest move.
+Feeling frightened or overwhelmed when symptoms start after a positive test is a common response. Many people experience spotting or mild cramping in early pregnancy and go on to have healthy pregnancies, but checking these symptoms is a standard safety procedure. Seeking help quickly ensures you receive the correct monitoring and support.
 
 ## Scope note
-This is first steps only—focused on immediate safety and getting the right level of urgent care. Follow-up plans and longer-term decisions come after you’ve been assessed.
+This guide provides first-step stabilization and triage instructions for the first 12–14 weeks of pregnancy. It is not a replacement for clinical diagnosis or long-term maternity care.
 
 ## Important note
-This guide is general information, not a diagnosis or a substitute for professional care. If you feel seriously unwell, your symptoms are severe/worsening, or you’re worried about your safety, seek emergency help.
+This information is based on UK clinical pathways as of 2026. If you cannot reach your GP and 111 is busy, go to your nearest A&E department. Always follow the direct advice of the attending clinician over general guidance.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/ectopic-pregnancy/
 - https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/
 - https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/
-- https://www.rcog.org.uk/for-the-public/browse-our-patient-information/bleeding-andor-pain-in-early-pregnancy/
-- https://www.gov.uk/government/news/mhra-statement-on-new-review-of-paracetamol-safety-during-pregnancy
-- https://www.nhs.uk/medicines/ibuprofen-for-adults/
+- https://www.nhs.uk/conditions/miscarriage/symptoms/
+- https://www.croydonhealthservices.nhs.uk/early-pregnancy/

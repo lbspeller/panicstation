@@ -1,77 +1,90 @@
-﻿---
+---
 title: "What to do if… you have severe constipation with increasing abdominal swelling and nausea"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - severe constipation
-  - constipation with bloating
-  - abdominal swelling constipation
-  - bloated stomach constipation
-  - nausea with constipation
-  - constipation and nausea
-  - swollen abdomen
-  - abdominal distention
-  - can't pass stool
-  - can't pass gas
-  - no bowel movement
-  - vomiting and constipation
-  - possible bowel obstruction
-  - intestinal obstruction symptoms
-  - fecal impaction
-  - stool stuck
-  - hard stool blockage
-  - belly distension
-  - worsening constipation
-  - sudden severe bloating
-last_reviewed: "2026-02-21"
+  - "severe constipation help"
+  - "abdominal distension constipation"
+  - "nausea and constipation help"
+  - "help i have severe constipation and nausea"
+  - "what do i do if my stomach is swollen from constipation"
+  - "what do i do if i cant pass gas"
+  - "what do i do if i have severe constipation and vomiting"
+  - "my stomach is hard and i am constipated"
+  - "my belly is swollen and i cant poop"
+  - "help i cant pass stool or gas"
+  - "hard stomach constipation"
+  - "tight abdomen constipation"
+  - "visible swelling belly"
+  - "vomit smells like poop"
+  - "green vomit constipation"
+  - "stool stuck in rectum"
+  - "fecal impaction signs"
+  - "bowel obstruction emergency"
+  - "intestinal blockage symptoms"
+  - "constipation bloating pain"
+  - "belly distention"
+  - "cannot pass gas"
+  - "no bowel movement 5 days"
+  - "fecal vomiting"
+  - "abdominal distention"
+  - "bowel obstruction"
+  - "intestinal blockage"
+  - "distended abdomen"
+  - "fecal impaction"
+  - "severe constipation"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you have severe constipation with increasing abdominal swelling and nausea (USA)
 
 ## Short answer
-Get **same-day medical care**: severe constipation with **increasing abdominal swelling (distention) and nausea** can sometimes be a sign of an intestinal blockage or fecal impaction. If you **can’t pass gas or stool**, your belly is **swollen and not going down**, you **keep vomiting**, or you feel **very sick**, go to the **Emergency Department now** (or call **911**).
+Seek **emergency medical care immediately** if you have severe constipation alongside a **visibly swollen (distended) abdomen**, nausea, or vomiting. These symptoms can indicate a life-threatening intestinal blockage or fecal impaction that requires professional intervention.
 
 ## Do not do these things
-- Do **not** keep **escalating or stacking** laxatives, suppositories, or enemas to “force it” when your abdomen is **distended** and you feel **nauseated**, unless a clinician has advised you to.
-- Do **not** force food or take a big sudden “fiber load” when you feel blocked and distended.
-- Do **not** take opioid pain medicines (or extra doses) unless specifically instructed—they can worsen constipation.
-- Do **not** ignore “can’t pass gas” or **worsening distention**, even if constipation is “normal for you.”
-- Do **not** drive yourself if you’re weak, dizzy, confused, or actively vomiting—get a ride or call 911.
+- Do **not** take additional laxatives, stool softeners, or fiber supplements if your abdomen is already swollen and you feel nauseous.
+- Do **not** eat solid food or drink large volumes of liquid if you suspect a blockage.
+- Do **not** attempt to "wait it out" if you have stopped passing gas entirely.
+- Do **not** use enemas or suppositories repeatedly if the first attempt provides no relief.
+- Do **not** drive yourself to the hospital if you are experiencing severe pain, dizziness, or active vomiting.
 
 ## What to do now
-1. **Go to the ED now / call 911 if ANY of these apply:**
-   - You **cannot pass stool or gas**.
-   - You have a **swollen abdomen (distention) that does not go away** or is clearly worsening.
-   - You **keep vomiting** or cannot keep liquids down.
-   - You have **severe or worsening abdominal pain/cramping**, high fever, confusion/fainting, blood in stool/vomit, or vomit that smells like stool.
-2. **If you don’t have the emergency signs above but symptoms are still worsening today:** contact your **primary care clinic’s nurse line** for same-day direction. If that’s not available, it’s often safest to go to an **Emergency Department** for evaluation when distention and nausea are increasing.
-3. **While you’re arranging care:**
-   - If you are **not actively vomiting**, take **small sips** of water or an oral rehydration drink. **Stop** if vomiting starts or symptoms worsen.
-   - Avoid alcohol and avoid large volumes of carbonated drinks.
-4. **Prepare a fast summary for triage (write it down):**
-   - Last time you passed **stool** and last time you passed **gas**.
-   - How quickly the swelling increased; whether pain is crampy/waves or constant.
-   - Vomiting details (frequency; green/bilious; brown; fecal smell).
-   - Current meds (especially opioids, iron, anticholinergics), recent surgery, known hernia, bowel disease, pregnancy, cancer history/treatment.
-5. **If you’re alone:** text/call someone to stay reachable and to help with transport. If you worsen (vomiting, severe pain, can’t pass gas, faintness), **call 911**.
+1. **Call 911 or go to the nearest Emergency Department immediately if you experience emergency triggers.**
+   - You cannot pass gas or stool at all.
+   - Your abdomen is physically swollen, hard, or "board-like" to the touch.
+   - You are vomiting, especially if the vomit is green (bilious) or smells like stool.
+   - You have severe, cramping abdominal pain that comes in waves or is constant.
+   - You have a high fever, feel faint, or are confused.
+2. **Stop all oral intake of food and fluids immediately.**
+   - Do not eat anything until you are evaluated by a clinician.
+   - Stop drinking water or other fluids if you are vomiting or if your abdomen is worsening.
+3. **Document your specific symptoms for the medical team.**
+   - Note the exact time you last passed gas and the last time you had a bowel movement.
+   - Record when the swelling started and if the pain is sharp, dull, or rhythmic.
+   - List all medications you take, specifically mentioning opioids, iron supplements, or recent anesthesia.
+4. **Identify any recent medical history that increases risk.**
+   - Be prepared to tell the doctor if you have had recent abdominal surgery, a known hernia, or a history of inflammatory bowel disease (IBD).
+   - Mention if you have a history of previous bowel obstructions or chronic severe constipation.
+5. **Arrange for immediate transport if you are not calling an ambulance.**
+   - Ask a friend, family member, or neighbor to drive you to the hospital.
+   - Ensure you are not alone while waiting for transport in case your condition deteriorates rapidly.
 
 ## What can wait
-- You don’t need to pick a “best” laxative routine right now—this situation is about **safe assessment**, not optimization.
-- You don’t need to decide the cause at home (constipation vs. impaction vs. obstruction).
-- You can postpone diet changes, supplements, and “cleanse” products until after you’ve been evaluated.
+- You do not need to determine the cause of the blockage (e.g., adhesions vs. impaction) yourself.
+- You do not need to plan a long-term high-fiber diet or lifestyle change while in an acute crisis.
+- You do not need to decide which specialist you will see later; the priority is the emergency evaluation.
 
 ## Important reassurance
-It’s common to second-guess whether you’re “overreacting,” but distention plus nausea with severe constipation is a sensible reason to get checked promptly. Acting early can prevent complications and usually leads to faster relief.
+Feeling concerned or overwhelmed by sudden abdominal swelling is a normal and appropriate reaction to a serious physical symptom. Seeking emergency care for these specific signs is the standard and safest medical procedure; it is not an overreaction.
 
 ## Scope note
-This is first-step guidance for the next few hours. Longer-term constipation management should be tailored after a clinician evaluates you and rules out urgent causes.
+This guide is for first-step stabilization only. A clinician must perform physical examinations and imaging (like X-rays or CT scans) to safely diagnose and treat the cause of your symptoms.
 
 ## Important note
-This is general information and not medical advice or a diagnosis. If you can’t pass gas or stool, have a swollen abdomen that doesn’t go away, keep vomiting, or have severe/worsening pain or feel very unwell, seek urgent medical care.
+This information is for educational purposes and does not constitute medical advice or diagnosis. Severe constipation with abdominal distention and nausea is a potential medical emergency; if you cannot pass gas, are vomiting, or have a swollen abdomen, seek immediate professional medical care at an Emergency Department.
 
 ## Additional Resources
-- https://medlineplus.gov/ency/article/000260.htm
 - https://medlineplus.gov/intestinalobstruction.html
-- https://www.niddk.nih.gov/health-information/digestive-diseases/intestinal-pseudo-obstruction/symptoms-causes
-- https://www.mayoclinic.org/symptoms/nausea/basics/when-to-see-doctor/sym-20050736?p=1
-- https://www.emergencyphysicians.org/article/know-when-to-go/stomach-pain
+- https://medlineplus.gov/ency/article/000260.htm
+- https://www.niddk.nih.gov/health-information/digestive-diseases/abdominal-adhesions
+- https://www.niddk.nih.gov/health-information/digestive-diseases/anatomic-problems-lower-gi-tract/colonic-volvulus
+- https://medlineplus.gov/ency/article/000230.htm

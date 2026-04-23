@@ -1,90 +1,85 @@
-﻿---
+---
 title: "What to do if… you are told you will be taken off work duties unless you provide a medical note within 24 hours"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - doctor note in 24 hours
-  - medical note deadline
-  - threatened removal from work
-  - taken off duty at work
-  - manager demands doctor note
-  - sick note for work
-  - urgent doctors note request
-  - return to work note pressure
-  - proof of illness for job
-  - employer medical documentation
-  - sent home without note
-  - can't get appointment fast
-  - telehealth note for work
-  - HR demands medical proof
-  - accommodation documentation
-  - fmla certification timing
-  - panic about doctors note
-last_reviewed: "2026-01-07"
+  - "work email address accounts"
+  - "unrecognised accounts work email"
+  - "what do i do if my work email is used for accounts"
+  - "help i have unknown accounts on my work email"
+  - "my work email used for accounts i do not recognize"
+  - "help i received a welcome email i did not request"
+  - "unauthorised account signup work email"
+  - "unexpected account registration work email"
+  - "work email accounts not mine"
+  - "random account emails at work"
+  - "suspicious account confirmation work email"
+  - "verify your email alert work"
+  - "work email compromise indicators"
+  - "unrecognised business email signups"
+  - "company email used on websites"
+  - "unknown services using work email"
+  - "business email account misuse"
+  - "someone used my company email for a site"
+  - "strange welcome messages work inbox"
+  - "unauthorised registrations work address"
+  - "what do i do if my work email is spoofed"
+  - "workplace email security incident"
+  - "help my work email is being used by someone else"
+  - "unexpected password reset work email"
+  - "unknown account verification work"
+  - "work email used for services"
+  - "misused work email address"
+  - "unknown sign up work email"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told you will be taken off work duties unless you provide a medical note within 24 hours (USA)
 
 ## Short answer
-Reply in writing immediately, ask whether this is a policy issue or an ADA/FMLA process, and request a reasonable extension while you schedule care and provide interim documentation (like an appointment confirmation or work-restrictions note).
+Isolate the messages without clicking any links and report the activity immediately to your organization’s IT or security department to determine if your account credentials have been compromised.
 
 ## Do not do these things
-- Do not forge or alter a doctor’s note.
-- Do not volunteer full medical records — ask what is required and provide the minimum necessary (usually dates and work restrictions).
-- Do not quit impulsively or “agree to resign” to make the pressure stop.
-- Do not ignore the demand — unanswered ultimatums can be reframed as misconduct.
-- Do not assume the same rule applies everywhere; requirements vary by employer, job type, union contract, and state/city law.
+- Do not click "verify," "confirm account," or "unsubscribe" links in any unexpected emails.
+- Do not attempt to log in to the unrecognized services to "delete" the accounts.
+- Do not forward the suspicious emails to a personal email address or external storage.
+- Do not delete the emails until instructed by your IT or security team.
+- Do not reply to the sender or engage with any contact information provided in the messages.
 
 ## What to do now
-1. **Confirm the ultimatum in writing and pin down what “taken off duties” means.**  
-   Ask: Is this unpaid? a schedule change? removal from safety-sensitive tasks? administrative leave? Also ask what counts as an acceptable “medical note” and who must receive it (HR vs manager).
-
-2. **Ask which bucket this is in (because the rules differ).**  
-   Request a clear answer:
-   - routine attendance/sick policy
-   - return-to-work / fitness-for-duty concern
-   - ADA accommodation (work limitations/adjustments)
-   - FMLA leave (job-protected leave for a serious health condition, if eligible)
-
-3. **If this might be FMLA, name the timing rule and ask HR to formalize it.**  
-   Message HR: “If you are requesting FMLA medical certification, employees must be given at least **15 calendar days** to provide it (unless it’s not practicable despite diligent, good-faith efforts). Are you treating this as FMLA?”  
-   Ask for the FMLA notices if applicable (eligibility/rights & responsibilities, and designation).
-
-4. **If this is disability-related (or pregnancy-related limitations), use accommodation language and keep it narrow.**  
-   In writing: “I’m requesting a reasonable accommodation / temporary adjustment while I obtain medical documentation.”  
-   Offer documentation focused on **work restrictions and duration** (what you can/can’t do), not detailed diagnosis. If they request more, ask why it’s needed for the job.
-
-5. **Create “proof of action” within 24 hours, even if you can’t get the final note yet.**  
-   Do at least one:
-   - schedule telehealth/urgent care/clinic visit and send the appointment confirmation
-   - request a same-day “seen today” or “work restrictions” note from the clinician if available
-   - ask HR what interim proof they will accept until the clinician documentation arrives
-
-6. **Request a concrete, short extension and propose a temporary work plan.**  
-   Example: “I can provide appointment confirmation today and a clinician note as soon as available. Can you extend the deadline to (date) and keep me on non-restricted duties (or assign temporary alternate duties) in the meantime?”
-
-7. **Use your handbook/contract process immediately.**  
-   Pull the employee handbook section on attendance/medical documentation/fitness-for-duty and reference it in your email to HR. If you’re union, contact your rep today and forward the written demand.
+1. **Report the incident to your company IT or Security department immediately.**  
+   Use your organization's designated reporting tool (such as a "Report Phishing" button) or open a high-priority ticket. State clearly that you are receiving registration confirmations for services you did not sign up for, as this may indicate an active account compromise.
+2. **Preserve the evidence in its original state.**  
+   Keep the emails in your inbox for forensic analysis. If requested by security, forward them as an "attachment" rather than a standard forward to preserve the technical header information (metadata).
+3. **Check your "Sent," "Deleted Items," and "Archive" folders for unauthorized activity.**  
+   Look for messages you did not send or confirmation emails that were automatically moved or deleted. Attackers often create "inbox rules" to hide their activity from you.
+4. **Review your email account for unauthorized rules or forwarding.**  
+   Check your settings for any new rules that forward your mail to an external address or automatically move messages to the "Trash" or "Junk" folders. Report any unfamiliar rules to your security team.
+5. **Secure your work account using official company protocols.**  
+   If your organization allows it, change your work password to a unique, complex phrase. Verify that your multi-factor authentication (MFA) devices are correct and that no new, unrecognized MFA methods (such as a different phone number) have been added.
+6. **Compile a list of the unrecognized services.**  
+   Note the name of each service, the timestamp of the email, and whether the email suggests an account was successfully created or is merely pending verification. Provide this inventory to your security team.
+7. **Escalate to the FBI's Internet Crime Complaint Center (IC3) if instructed.**  
+   If your employer confirms a Business Email Compromise (BEC) involving financial loss or sensitive data theft, ensure the incident is reported at **ic3.gov**.
+8. **Monitor for personal identity misuse if work data overlaps with personal info.**  
+   If the unknown accounts contain your Social Security Number or banking details, go to **IdentityTheft.gov** to file an official report with the Federal Trade Commission (FTC) and follow the personalized recovery plan.
 
 ## What can wait
-- You do not need to decide today whether to file a complaint, hire a lawyer, or resign.
-- You do not need to disclose detailed medical history — start with restrictions, dates, and next steps.
-- You do not need to argue fairness in real time; first secure a written record, interim proof, and a realistic timeline.
+- You do not need to contact the external websites directly to close the accounts until your internal security team has finished their investigation.
+- You do not need to change your personal passwords unless you reuse the same password for your work account.
+- You do not need to file a local police report unless your employer or the FTC specifically advises it for identity theft documentation.
 
 ## Important reassurance
-A 24-hour demand can feel like a trap when appointments are hard to get. You can still stabilise things quickly by responding in writing, showing you are actively seeking care, and asking HR to route the request through the correct process (policy vs ADA vs FMLA) with reasonable deadlines.
+Receiving these emails does not always mean your account was "hacked"; it may be a simple typo by another user or a low-level spam tactic. However, because it can be a precursor to a serious security breach, your decision to stop, avoid clicking, and report it is the correct and most professional response to protect the company.
 
 ## Scope note
-These are first steps only — to prevent avoidable escalation and buy time. Longer-term options depend on your state, job type, union status, and whether this is actually FMLA- or accommodation-related.
+This guide provides immediate stabilization steps for the first hour of discovering potential work email misuse. It does not replace your employer's specific Information Security (InfoSec) policies or legal obligations regarding data breaches.
 
 ## Important note
-This is general information, not legal advice. Employment rules vary by state and employer. If you’re removed from work or disciplined, keep copies of everything and consider getting advice from a trusted local employment rights resource or your union.
+This information is for general guidance and does not constitute legal, technical, or professional cybersecurity advice. Always prioritize the specific instructions and policies provided by your employer's IT or security department. If personal information is involved, refer to official government resources at IdentityTheft.gov.
 
 ## Additional Resources
-- https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-C/part-825/subpart-C/section-825.305
-- https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-E.pdf
-- https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-C/part-825/subpart-C/section-825.300
-- https://www.dol.gov/agencies/whd/fact-sheets/28d-fmla-employer%20notification
-- https://www.eeoc.gov/laws/guidance/questions-and-answers-enforcement-guidance-disability-related-inquiries-and-medical
+- https://www.dol.gov/agencies/whd/fmla/faq
+- https://www.dol.gov/agencies/whd/fact-sheets/28g-fmla-serious-health-condition
+- https://www.dol.gov/agencies/whd/fmla/certification-of-a-serious-health-condition
+- https://www.eeoc.gov/disability-discrimination-and-reasonable-accommodation-medical-inquiries-leave-and-telework
 - https://www.eeoc.gov/laws/guidance/enforcement-guidance-disability-related-inquiries-and-medical-examinations-employees
-- https://www.usa.gov/employer-fmla

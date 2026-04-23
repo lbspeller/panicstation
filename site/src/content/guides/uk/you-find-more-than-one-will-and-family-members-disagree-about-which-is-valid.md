@@ -1,88 +1,116 @@
-﻿---
+---
 title: "What to do if… you find more than one will and family members disagree about which is valid"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - two wills found
-  - multiple wills discovered
-  - more than one will
-  - conflicting wills
-  - later will vs earlier will
-  - newer will found after death
-  - old will and new will
-  - disputed will validity
-  - family arguing about will
-  - will dispute after death
-  - executor unsure which will
-  - unsigned or unwitnessed will found
-  - different versions of a will
-  - codicil found with will
-  - which will is valid uk
-  - contested will after bereavement
-  - found will at home after death
-last_reviewed: "2026-02-23"
+  - "two wills found"
+  - "multiple wills discovered"
+  - "more than one will"
+  - "conflicting wills"
+  - "later will vs earlier will"
+  - "newer will found after death"
+  - "old will and new will"
+  - "disputed will validity"
+  - "family arguing about will"
+  - "will dispute after death"
+  - "executor unsure which will"
+  - "unsigned or unwitnessed will found"
+  - "different versions of a will"
+  - "codicil found with will"
+  - "which will is valid uk"
+  - "contested will after bereavement"
+  - "found will at home after death"
+  - "what do i do if i find two wills"
+  - "what do i do if my family is fighting over the will"
+  - "what do i do if there are two versions of a will"
+  - "what do i do if the latest will is unsigned"
+  - "help i found a new will"
+  - "help i found a later will"
+  - "my brother disputes the will"
+  - "my sister disputes the will"
+  - "will staple holes"
+  - "pencil marks on original will"
+  - "paperclip marks on will"
+  - "loose pages in will folder"
+  - "will found in desk drawer"
+  - "disputed will procedure england"
+  - "disputed will procedure scotland"
+  - "disputed will procedure northern ireland"
+  - "how to stop probate uk"
+  - "probate caveat process"
+  - "confirmation caveat scotland"
+  - "validity of will uk 2026"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you find more than one will and family members disagree about which is valid (UK)
 
 ## Short answer
-Pause anything irreversible and secure every original document. Then use the correct “stop/hold” process for the part of the UK where the person lived (it differs across England & Wales, Northern Ireland, and Scotland).
+Stop all asset distributions immediately and secure every original document in the condition it was found. You must then use the specific legal "stop" mechanism (a caveat or similar court notice) for the specific UK nation where the deceased person lived.
 
 ## Do not do these things
-- Do not destroy, mark up, staple, unbind, or separate pages from any will/codicil (even if you think it’s “the wrong one”).
-- Do not start sharing out money, selling property, or “splitting items fairly” while validity is disputed.
-- Do not rely on photos/scans alone if originals exist (keep scans, but protect originals).
-- Do not pressure witnesses, carers, or the will-drafter for “quick statements” while emotions are high.
-- Do not let one person keep sole possession of all originals without a documented handover and a safe storage plan.
+- Do not remove staples, paperclips, or bindings from any document, even if they appear to be added later.
+- Do not write on, highlight, or add sticky notes to the original documents.
+- Do not destroy any version of a will, even if it is clearly older or appears invalid.
+- Do not sell property, empty bank accounts, or distribute personal items while the dispute is active.
+- Do not pressure witnesses or solicitors for verbal "confirmations" while in a state of high emotion.
+- Do not allow one family member to keep all originals without providing high-quality scans or photocopies to all named executors.
 
 ## What to do now
-1. **Secure all originals immediately (and note what you did).**  
-   Put each will/codicil in a separate folder/envelope. Write down where it was found, who found it, and the date/time. Take scans/photos for reference, but keep the originals flat, dry, and safe.
+1. **Secure all original documents in separate, protective folders immediately.**  
+   **Place each document in its own envelope without using staples or clips.**
+   - Record the exact location where each document was found.
+   - Note the names of any witnesses present during the discovery.
+   - Check for physical cues of tampering, such as staple holes without staples, glue residue, or different paper types.
 
-2. **Freeze estate administration until the validity question is resolved.**  
-   If you’re named as executor in any version, say clearly: “No distributions or sales until the will issue is settled.” If a home is involved, secure it and make a basic inventory of valuables to prevent loss.
+2. **Formally pause the administration of the estate.**  
+   **Notify all potential beneficiaries and executors in writing that no actions will be taken until validity is confirmed.** 
+   - Ensure the deceased person's property is physically locked and secured.
+   - Do not make any payments for funeral expenses from the estate until you have confirmed which executor has the authority to act.
 
-3. **Work out which UK system applies by identifying where the person was domiciled/lived.**  
-   This matters because the “hold” tools and court processes differ in:  
-   - **England & Wales** (probate and the Probate Registry)  
-   - **Northern Ireland** (NI probate process)  
-   - **Scotland** (often “confirmation” rather than “probate”, and different court procedure)  
-   If you’re unsure, focus on securing documents/assets first and get local probate advice for the nation involved.
+3. **Identify which UK jurisdiction applies based on the deceased's permanent home.**  
+   **Confirm if the estate is governed by the laws of England & Wales, Scotland, or Northern Ireland, as the "stop" processes are entirely different.**
+   - England & Wales use the "Probate" system.
+   - Scotland uses the "Confirmation" system.
+   - Northern Ireland has its own distinct Probate Office and rules.
 
-4. **England & Wales: consider entering a caveat to stop a grant being issued while there’s a dispute.**  
-   A caveat is commonly used to prevent a grant being issued while you investigate which will should be proved. Do this early if someone may apply for a grant based on a will you dispute.
+4. **In England & Wales, enter a caveat with the HMCTS Probate Service.**  
+   **Apply for a caveat online or by post (Form PA8A) to prevent a Grant of Probate from being issued for six months.**
+   - This notice forces the Probate Registry to stop any application while you investigate the multiple wills.
+   - You can renew this caveat in the final month of its six-month duration.
 
-5. **Northern Ireland: use the NI caveat process if you need to stop a grant being issued.**  
-   Northern Ireland has its own probate/caveat route and forms. If you suspect an application is imminent, act promptly to avoid a grant being issued under the wrong document.
+5. **In Northern Ireland, lodge a caveat with the Probate Office in Belfast.**  
+   **Submit a physical caveat form and the required fee to the Northern Ireland Courts and Tribunals Service (NICTS).**
+   - This prevents the "sealing" of a grant under a disputed will.
+   - Note that Northern Ireland processes are more strictly paper-based than England's digital system.
 
-6. **Scotland: treat this as urgent local probate (“confirmation”) advice and focus on preserving the estate.**  
-   Don’t try to force an England & Wales process onto a Scottish estate. Secure the originals and assets, then get Scotland-specific advice on how to stop matters progressing while the dispute is addressed.
+6. **In Scotland, lodge a caveat in the relevant Sheriff Court or the Court of Session.**  
+   **Instruct a solicitor to lodge a caveat which acts as a "tripwire" to notify you if anyone seeks an interim court order (interdict) regarding the estate.**
+   - Scotland does not have a "probate caveat" in the same sense as England; you are instead protecting against "interim orders" that might allow someone to move assets.
+   - Secure the originals and pause the "Confirmation" application at the local Sheriff Clerk's office.
 
-7. **Contact the will-drafter/firm (if named) and ask only for document-location facts.**  
-   Ask whether they hold an original, whether there were later versions, and whether there’s a signing record. Keep it factual and neutral.
-
-8. **If a grant/confirmation has already been issued, get dispute-aware legal help before taking any further steps.**  
-   Do not “work around” an existing grant informally. The safest move is to stop distributions and get advice on the correct route to address a later-found will or validity dispute.
+7. **Notify the solicitor or firm named on any of the document covers.**  
+   **Send a neutral written notice to any legal firm involved stating that multiple documents have been found and a dispute is pending.**
+   - Ask them to confirm if they hold an original will in their safe storage.
+   - Do not ask for their opinion on which will is "better"; ask only for the date of the last document they drafted.
 
 ## What can wait
-- You do **not** need to decide today who “deserves” what, or what the person “really wanted”.
-- You do **not** need to negotiate a family settlement immediately or answer every message/call.
-- You do **not** need to prove fraud/undue influence right now—prioritise securing originals and preventing premature administration.
-- You do **not** need to sort every possession today; basic security and a simple inventory is enough for now.
+- You do **not** need to decide which will is "the right one" today.
+- You do **not** need to start a court case or hire a litigation lawyer in the first 24 hours.
+- You do **not** need to justify your suspicions of "undue influence" or "lack of capacity" to other family members yet.
+- You do **not** need to clear out the deceased's house or sort through clothing and furniture.
 
 ## Important reassurance
-Multiple wills and family disagreement can make grief feel instantly adversarial. Slowing down, protecting the originals, and preventing premature probate/confirmation is a practical way to reduce harm and keep options open.
+Finding multiple wills is a common occurrence and does not automatically mean fraud has occurred. The legal systems in the UK are specifically designed to handle "competing" documents; by entering a caveat or pausing the process, you are simply ensuring the law has time to identify the correct document. It is normal to feel overwhelmed by family pressure, but the physical documents are the priority right now.
 
 ## Scope note
-These are first steps only. Validity disputes can become formal court matters and may require specialist probate advice for the relevant UK nation.
+This guide provides first-step stabilization only. Resolving which will is valid is a legal process that often requires a "Lachesis" letter or formal document inspection by a specialist probate solicitor.
 
 ## Important note
-This is general information, not legal advice. Probate/confirmation and will-dispute processes vary across the UK and depend on the facts. If conflict is escalating or an application is imminent, get local probate advice before anyone distributes assets or sells property.
+This information is for general guidance and is not a substitute for legal advice. The 2026 rules regarding electronic wills and "testamentary intention" are complex; if you suspect a document has been forged or a family member is acting aggressively, seek immediate professional legal help.
 
 ## Additional Resources
 - https://www.gov.uk/stop-probate-application
 - https://www.gov.uk/stop-probate-application/apply-for-a-caveat
-- https://www.gov.uk/government/publications/apply-to-stop-a-grant-of-probate-by-post
-- https://www.nidirect.gov.uk/services/stopping-probate-application-caveat
-- https://www.nidirect.gov.uk/publications/apply-stop-grant-probate-caveat-form
-- https://shepwedd.com/knowledge/challenging-and-contesting-will/
+- https://www.gov.uk/stop-probate-application/after-youve-applied
+- https://www.gov.uk/make-will/make-sure-your-will-is-legal
+- https://www.gov.uk/government/publications/form-n2-claim-form-probate

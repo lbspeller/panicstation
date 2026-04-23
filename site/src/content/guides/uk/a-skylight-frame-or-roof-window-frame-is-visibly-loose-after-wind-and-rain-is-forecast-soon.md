@@ -1,70 +1,88 @@
-﻿---
+---
 title: "What to do if… a skylight frame or roof window frame is visibly loose after wind and rain is forecast soon"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - loose skylight frame
-  - roof window frame loose
-  - skylight rattling after wind
-  - rooflight frame moved
-  - velux frame loose
-  - skylight leaking risk
-  - roof window gap after storm
-  - wind damage roof window
-  - rain forecast roof opening
-  - emergency roof weatherproofing
-  - water ingress near electrics
-  - protect ceilings from leaks
-  - buildings insurance storm damage
-  - landlord emergency roof repair
-  - managing agent emergency repairs
-  - document storm damage photos
-  - keep receipts temporary repairs
-  - avoid ladder in high winds
-  - loose rooflight after gusts
-last_reviewed: "2026-03-05"
+  - "loose skylight frame"
+  - "roof window frame loose"
+  - "skylight rattling after wind"
+  - "rooflight frame moved"
+  - "velux frame loose"
+  - "skylight leaking risk"
+  - "roof window gap after storm"
+  - "wind damage roof window"
+  - "rain forecast roof opening"
+  - "emergency roof weatherproofing"
+  - "water ingress near electrics"
+  - "loose rooflight after gusts"
+  - "what do i do if my skylight is loose"
+  - "what do i do if my roof window is rattling"
+  - "what do i do if rain is forecast for a broken skylight"
+  - "what do i do if a storm damaged my rooflight"
+  - "help i have a loose skylight"
+  - "help i have a gap in my roof window"
+  - "help i have a leaking skylight"
+  - "help i have water near my ceiling lights"
+  - "my skylight is shaking in the wind"
+  - "my roof window frame is unstable"
+  - "my ceiling is damp near the skylight"
+  - "my rooflight is letting in rain"
+  - "smell of burning near skylight"
+  - "buzzing sound from ceiling light"
+  - "visible gap in roof window"
+  - "staining on ceiling around window"
+  - "loose roof window in flat"
+  - "loose skylight at night"
+  - "skylight damage in storm"
+  - "broken rooflight frame"
+  - "unsecured window frame"
+  - "roof window structural issue"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a skylight frame or roof window frame is visibly loose after wind and rain is forecast soon (UK)
 
 ## Short answer
-Treat this as an urgent water-ingress and falling-object risk: keep people away from the area, limit damage indoors, and contact your landlord/insurer and an emergency roofer to make it weather-tight before the rain.
+Isolate the area beneath the window, cut power to affected light circuits immediately if water is present, and contact an emergency roofer or your insurer's 24-hour helpline to arrange a "make safe" visit before the rainfall begins.
 
 ## Do not do these things
-- Do not climb onto the roof or use a ladder while it’s windy, wet, or gusty—wait for calmer, dry conditions and use a professional if in doubt.
-- Do not force the frame shut, over-tighten screws, or wedge it with hard objects that could crack the glass or distort the unit.
-- Do not put hands/tools into gaps if the unit could shift suddenly.
-- Do not ignore water near lights, switches, ceiling fittings, or loft wiring.
-- Do not throw away damaged parts/materials or receipts if you may need to claim.
+- Do not climb onto the roof or use external ladders during high winds, gusts, or wet weather.
+- Do not attempt to force the frame shut or use wedges that could shatter the glass or distort the structural unit.
+- Do not put fingers or tools into the gaps between the frame and the roof.
+- Do not touch light switches, sockets, or the consumer unit if they are damp or if you hear buzzing sounds.
+- Do not ignore a bulging or sagging ceiling, as this indicates a high risk of collapse from trapped water.
 
 ## What to do now
-1. **Make the area safe indoors.** Keep everyone out from directly underneath. Move valuables/electronics away. Put down towels or plastic sheeting and place a bucket if dripping starts.
-2. **Reduce electrical risk.** If water is (or could be) reaching light fittings, smoke alarms, extractor fans, sockets, or loft wiring, **switch off the relevant circuit at the consumer unit** (or the main switch if you cannot identify it safely). If the consumer unit area is damp/wet, don’t touch it—call an electrician.
-3. **Document what you can without climbing.** Take clear photos/video from inside (and from the ground outside if possible) showing the looseness/gap and any internal staining/drips. Note the time and the forecast conditions.
-4. **If you rent or have a managing agent: report it as urgent.** Contact your landlord/letting agent/managing agent and state: “roof window/skylight frame visibly loose; rain forecast; risk of water ingress.” Ask who is being sent to “make safe” and when. Keep a record of the report.
-5. **If you’re responsible for the building: contact your buildings insurer.** Use any 24-hour helpline. Ask what temporary measures they authorise and whether they have approved contractors.
-6. **Arrange an emergency roofer to “make safe” before the rain.** Ask specifically for **temporary securing and weather-tight protection** of a loose roof window/skylight (not a full repair in dangerous weather). If storms are widespread, request the earliest “make safe” visit and a follow-up repair slot.
-7. **Only if it’s safe and accessible from inside (no roof access, no risky ladders): limit ceiling damage.** If you can reach the area safely (stable footing/boarding) you can place plastic sheeting to guide drips into a bucket. **Stop immediately** if insulation is saturated near wiring, you see water tracking along cables, the frame appears to move, or you feel unsteady.
-8. **Keep evidence of reasonable steps.** Save photos, call logs, emails/texts, contractor details, and **all receipts** for any emergency materials or call-outs.
+1. **Evacuate the area directly beneath the window.** Move all people, pets, and portable electronics away from the unit to prevent injury from falling parts or sudden water ingress. 
+2. **Isolate the electricity if moisture is visible or suspected.** **Switch off the Main Switch at the consumer unit (fuse box) immediately if water is dripping through a light fitting, extractor fan, or smoke alarm.** 
+   - If you hear crackling or buzzing sounds from the ceiling, do not touch any switches in that room.
+3. **Set up internal water management.** Place buckets or plastic containers on the floor beneath the loose frame if dripping has started or if rain is imminent. 
+   - Lay towels or plastic sheeting to protect flooring, but do not stand directly under the frame while doing so.
+4. **Document the damage from a safe distance.** **Take clear photographs and video of the loose frame, the gap, and any existing staining or dampness from ground level or inside the room.** 
+   - Note the exact time of the observation and the current weather conditions for insurance purposes.
+5. **Contact your buildings insurer's emergency helpline.** Ask for an "emergency make safe" authorisation and check if they have approved contractors who can attend within the next few hours. 
+6. **Report the hazard to your landlord or managing agent if you rent.** State clearly that there is "structural instability to a roof window with imminent rain forecast and risk of water ingress." 
+   - Request an emergency roofer to secure the unit and apply temporary weather-tight protection (such as tarpaulins or sealant) before the storm.
+7. **Monitor the ceiling for structural changes.** **Check for new "bubbles" in the paintwork, sagging plasterboard, or a heavy damp smell.** 
+   - If the ceiling begins to bulge, move all persons out of the room immediately and do not attempt to "drain" it yourself.
+8. **Secure all documentation and receipts.** Keep a log of all calls made to insurers and contractors, and save every receipt for materials or emergency call-out fees for your claim.
 
 ## What can wait
-- You don’t need to decide now whether the skylight/roof window must be replaced or can be re-secured and re-flashed.
-- You don’t need roof-level photos during bad weather; safe indoor/ground photos are enough for now.
-- You don’t need to agree the final scope/cost today—focus on “make safe” first.
+- You do not need to determine the cause of the looseness (e.g., failed fixings vs. storm damage) right now.
+- You do not need to take photos from the roof; safe internal or ground-level external shots are sufficient for initial claims.
+- You do not need to decide on a permanent replacement or full repair strategy today.
 
 ## Important reassurance
-This is a common storm-damage situation. The priority is simply preventing sudden water ingress and avoiding falls—getting it temporarily weather-tight is usually achievable even when full repairs must wait.
+It is normal to feel anxious when a structural element feels unstable before a storm. Emergency roofers are equipped to provide temporary "make safe" solutions, such as weighted covers or temporary fixings, which can prevent major internal damage even if a full repair cannot be completed until the weather clears.
 
 ## Scope note
-First steps only. A competent roofer (and sometimes the manufacturer’s installer) should assess fixings, flashing, curb/frame integrity, and any roof structure damage once conditions are safe.
+This guide covers first-step stabilization and harm prevention only. A qualified roofer or manufacturer-approved installer must conduct a full inspection of the structural curb, flashing, and fixings once weather conditions are safe for working at height.
 
 ## Important note
-This is general information, not professional advice. If you feel unsafe, stop and wait for a qualified professional. If there’s significant water near electrics or the ceiling is bulging/sagging, prioritise isolating power to the affected area (if safe) and getting professional help.
+This information is for guidance only and does not replace professional structural or electrical advice. If the frame appears to be moving significantly or if water is entering the electrical system, evacuate the immediate area and wait for qualified professionals. Do not attempt any repair that requires you to lean out of the window or stand on an unsecured ladder.
 
 ## Additional Resources
-- https://www.abi.org.uk/products-and-issues/topics-and-issues/flooding/storms/
-- https://www.abi.org.uk/products-and-issues/topics-and-issues/flooding/storms/storm-faq/
-- https://www.biba.org.uk/insurance-guides/home-insurance-guides/property-damage-from-bad-weather/
-- https://www.hse.gov.uk/work-at-height/ladders/when-how-to-use-ladders-safely.htm
+- https://www.gov.uk/private-renting/repairs
+- https://england.shelter.org.uk/housing_advice/repairs/landlord_and_tenant_responsibilities_for_repairs
 - https://england.shelter.org.uk/housing_advice/repairs/how_long_should_a_private_landlord_take_to_do_repairs
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/check-if-your-landlord-has-to-do-repairs/
+- https://www.moneyhelper.org.uk/en/blog/insurance/help-you-can-get-if-your-home-is-hit-by-a-storm
+- https://www.which.co.uk/news/article/does-your-insurance-cover-damage-caused-by-bad-weather-aTYfU6C0gaFr

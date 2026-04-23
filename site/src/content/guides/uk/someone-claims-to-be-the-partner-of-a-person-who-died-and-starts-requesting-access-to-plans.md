@@ -1,81 +1,87 @@
-﻿---
+---
 title: "What to do if… someone claims to be the partner of a person who died and starts requesting access to plans"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - claimed partner after death
-  - someone says they were partner
-  - unexpected partner claim bereavement
-  - fake partner bereavement
-  - bereavement scam contact
-  - grieving family targeted
-  - asking for will or plans
-  - requesting funeral plans access
-  - requesting estate plans access
-  - demanding documents after death
-  - access to accounts after death
-  - executor authority proof
-  - probate grant needed
-  - identity theft after death
-  - deceased person information request
-  - pressure to share paperwork
-  - unknown person contacting family
-  - harassment after bereavement
-  - boundary setting in grief
-last_reviewed: "2026-03-03"
+  - "unexpected partner claim bereavement"
+  - "someone says they were partner"
+  - "claimed partner after death"
+  - "fake partner bereavement"
+  - "bereavement scam contact"
+  - "grieving family targeted"
+  - "what do i do if someone claims to be a partner after death"
+  - "what do i do if a stranger asks for a will"
+  - "what do i do if i suspect a bereavement scam"
+  - "what do i do if someone demands funeral plans"
+  - "help i have a fake partner claim"
+  - "help i am being pressured for estate documents"
+  - "help i am being harassed after a death"
+  - "help i need to protect a will from a stranger"
+  - "my deceased relative has a mystery partner"
+  - "my family is being targeted by a scammer"
+  - "demanding documents after death"
+  - "access to accounts after death"
+  - "executor authority proof"
+  - "probate grant needed"
+  - "identity theft after death"
+  - "deceased person information request"
+  - "pressure to share paperwork"
+  - "unknown person contacting family"
+  - "harassment after bereavement"
+  - "boundary setting in grief"
+  - "smell of fraud"
+  - "suspicious contact after death"
+  - "unrecognised partner"
+  - "unnamed partner in will"
+  - "bereavement fraud reporting uk"
+  - "estate document security"
+  - "will access rules uk"
+  - "probate registry public record"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… someone claims to be the partner of a person who died and starts requesting access to plans (UK)
+
 ## Short answer
-Pause and don’t share anything yet. Tell them you can only discuss plans or documents with the executor/administrator (personal representative) and will respond only through that route.
+Stop all information sharing immediately and direct the claimant to communicate only with the legal executor or administrator of the estate. Do not provide any documents, personal details, or access to funeral plans until their legal standing is verified through formal probate processes.
 
 ## Do not do these things
-- Don’t hand over copies/photos of the will, funeral plan, financial plan, passwords, IDs, bank details, or “just one document to prove it”.
-- Don’t be rushed by guilt, anger, threats, or “I need it today” pressure.
-- Don’t confirm extra personal details about the person who died (date of birth, address history, account providers, NHS number).
-- Don’t meet them alone or let them into the home “to talk it through” if you feel uncertain.
-- Don’t post updates publicly (especially details that help identity fraud), and don’t forward their messages to group chats where they can be doxxed.
+- Do not provide copies or photographs of the will, funeral plans, bank statements, or the death certificate.
+- Do not confirm the deceased person’s personal data, such as their National Insurance number, NHS number, or previous addresses.
+- Do not allow the claimant into the deceased person’s home or meet them in a private setting.
+- Do not attempt to "verify" their relationship yourself by looking through the deceased's private messages or photos.
+- Do not pay for any travel, "emergency" bills, or funeral contributions they claim to have.
 
 ## What to do now
-1. **Use one boundary sentence and repeat it.**  
-   “I can’t share plans or documents. Please contact the executor/administrator of the estate. If you’re entitled to anything, it will be handled through that process.”
-2. **Route everything to the legally responsible person.**  
-   If you know who the executor is (named in the will) or who is applying to be administrator (if there’s no will), **send the claimant a single contact route** (for example, the solicitor’s office email/phone) and stop engaging otherwise.
-3. **Ask for proof only in the form that matters (and only if you must reply).**  
-   You don’t need to “decide” if they’re a partner. In practice, access is handled by the **personal representative**. If they insist, tell them you can only take this seriously if they can provide, via the executor/solicitor, **formal evidence of authority or a recognised legal interest** (for example: being named in the will, or being part of a formal claim the estate must consider).  
-   If they cannot do this, you do not need to continue the conversation.
-4. **Protect the plans and paperwork you already have.**  
-   - Put physical documents (will copies, funeral plan papers, insurance letters) somewhere secure.  
-   - Don’t leave them visible during visits.  
-   - If you have digital copies, move them to a secure folder and avoid sharing from your phone in-the-moment.
-5. **Create a simple written record.**  
-   Screenshot messages, note dates/times, what they asked for, and what you replied. This helps if it becomes harassment, fraud, or a later dispute.
-6. **Do a quick “risk check” before you say anything else.**  
-   If they know the address, are turning up, or you feel threatened: **end contact** and call **999** if there’s immediate danger. If it’s harassment or intimidation without immediate danger, consider **101**.
-7. **If you suspect fraud, report it using the right route for where you are.**  
-   - **England, Wales, Northern Ireland:** Report cyber crime and fraud to **Report Fraud** (online, or by phone on **0300 123 2040**).  
-   - **Scotland:** Report fraud to **Police Scotland** (typically via **101** for non-emergencies, or their online reporting route).  
-   Keep your screenshots/notes for the report.
+1. **State a single, non-negotiable communication boundary.** **Tell the person: "I cannot share any documents or information; all inquiries must go through the legal representative of the estate."** Repeat this exact phrase if they continue to ask for details, regardless of their emotional tone or claimed urgency.
+2. **Verify the identity of the legal representative.** **Identify the person named as executor in the will or the person applying for Letters of Administration if there is no will.** If you are not the personal representative, provide the claimant with the contact details of the solicitor handling the estate and end the conversation.
+3. **Require formal proof of interest via the solicitor.** **Instruct the claimant that any claim must be supported by legal evidence, such as a marriage certificate, civil partnership certificate, or a court-recognised claim under the Inheritance Act 1975.** Explain that the personal representative is the only person legally entitled to view the will before it becomes a public record via the Probate Registry.
+4. **Secure all physical and digital records.** **Place the original will, death certificates, and financial paperwork in a locked cabinet or a secure off-site location.** 
+   - Ensure that digital devices belonging to the deceased are password-protected.
+   - Change the passwords on any shared accounts if the claimant may have had access.
+5. **Log every contact attempt and request made.** **Keep a written record of the dates, times, and specific items requested by the claimant.** Save screenshots of messages and note the phone numbers or email addresses used, as these will be required if you need to report fraud or harassment.
+6. **Report suspicious activity to the correct national body.** **In England, Wales, or Northern Ireland, report the contact to Report Fraud at reportfraud.police.uk or call 0300 123 2040.** 
+   - In Scotland, report the matter to Police Scotland by calling 101.
+   - If the person is at your door or you feel immediate physical threat, call 999.
+7. **Notify relevant institutions of a potential dispute.** **Inform the funeral director and the bank that an unverified claim has been made and that no information should be released to third parties without the executor's written consent.** This prevents the claimant from making changes to funeral arrangements or accessing "frozen" accounts.
 
 ## What can wait
-- You do **not** need to decide today whether they were “really” a partner.
-- You do **not** need to share the will, funeral plan, or financial information to “be fair”.
-- You do **not** need to argue with them or prove they’re lying.
-- You do **not** need to handle entitlement questions yourself — that is for the executor/administrator and (if needed) legal advice.
+- You do not need to decide if the relationship was "genuine" or not right now.
+- You do not need to allow the claimant to attend the funeral if you believe it will cause a breach of the peace.
+- You do not need to respond to "deadlines" set by the claimant for the release of money or property.
+- You do not need to review the contents of the will with the claimant; this is the responsibility of the executor after probate is granted.
 
 ## Important reassurance
-It’s common for grieving families to get unexpected requests, and it’s also common for scammers or opportunists to exploit the confusion after a death. Holding boundaries and insisting on the formal estate process is not “being unkind” — it’s the safest way to avoid irreversible mistakes.
+It is a standard legal safeguard to refuse access to documents until a person's identity and legal standing are proven. Insisting on formal routes is the correct way to protect the deceased person's privacy and the integrity of the estate. Many families experience similar "predatory" contacts during bereavement, and you are entitled to prioritise security over politeness.
 
 ## Scope note
-This is first-steps guidance for the moment you’re contacted. Questions about who inherits, relationship claims, and disputes can be complex and may need specialist advice — but you don’t need to resolve that while you’re shocked or exhausted.
+This guide provides first-step stabilization for handling unverified claims during the immediate bereavement period. It does not cover the long-term legal processes of contesting a will or resolving complex inheritance disputes, which require specialist probate litigation advice.
 
 ## Important note
-This is general information, not legal advice. If you feel unsafe, prioritise immediate safety and contact emergency services. If there’s an ongoing dispute or any threat of legal action, consider getting advice from a qualified UK professional.
+This information is for general guidance and does not constitute legal advice. In the UK, the "personal representative" (executor or administrator) has the sole legal authority to manage the estate. If you are being harassed or feel unsafe, contact the police. For legal disputes regarding the validity of a relationship, consult a qualified solicitor.
 
 ## Additional Resources
-- https://www.gov.uk/applying-for-probate
+- https://www.gov.uk/applying-for-probate/if-theres-not-a-will
+- https://www.citizensadvice.org.uk/family/living-together-marriage-and-civil-partnership/living-together-and-civil-partnership-legal-differences/
 - https://www.citizensadvice.org.uk/family/death-and-wills/dealing-with-the-financial-affairs-of-someone-who-has-died/
-- https://www.reportfraud.police.uk/reporting-a-fraud/
-- https://stopthinkfraud.campaign.gov.uk/reporting-fraud/
-- https://www.police.uk/pu/contact-us/
-- https://transform.england.nhs.uk/information-governance/guidance/access-to-the-health-and-care-records-of-deceased-people/
+- https://www.citizensadvice.org.uk/family/death-and-wills/who-can-inherit-if-there-is-no-will-the-rules-of-intestacy/
+- https://www.gov.uk/when-someone-dies

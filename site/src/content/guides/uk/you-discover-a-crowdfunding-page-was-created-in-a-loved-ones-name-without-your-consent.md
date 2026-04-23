@@ -1,71 +1,84 @@
-﻿---
+---
 title: "What to do if… you discover a crowdfunding page was created in a loved one’s name without your consent"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - fake crowdfunding page
-  - crowdfunding page in their name
-  - fundraiser created without consent
-  - memorial fundraiser scam
-  - fake gofundme page
-  - crowdfund impersonation
-  - using a loved one’s name
-  - bereavement donation scam
-  - fraudulent fundraiser link
-  - someone raising money in our name
-  - unauthorised memorial page
-  - grief scam fundraiser
-  - bogus funeral fundraiser
-  - crowdfund page not authorised
-  - donations sent to scam
-  - family member name misuse
-  - charity fraud online
-  - impersonation fundraiser
-last_reviewed: "2026-03-03"
+  - "unauthorised crowdfunding page"
+  - "fraudulent memorial fundraiser"
+  - "fake gofundme page"
+  - "report funeral scam"
+  - "impersonation fundraiser help"
+  - "bereavement fraud reporting"
+  - "unauthorised donation page"
+  - "what do i do if a fake fundraiser is in my name"
+  - "what do i do if someone is using my deceased relative name to raise money"
+  - "what do i do if i find a scam memorial page"
+  - "what do i do if money is raised without permission"
+  - "help i found a fake charity page"
+  - "help i am being scammed by a memorial page"
+  - "help i need to stop a crowdfunding payout"
+  - "my loved ones name is on a scam page"
+  - "my family name is being misused for money"
+  - "my friends photos are on a fake gofundme"
+  - "smell of scam fundraiser"
+  - "unauthorised use of obituary photo"
+  - "fake funeral link on facebook"
+  - "missing donation money"
+  - "bogus memorial page"
+  - "fundraiser impersonation"
+  - "gofundme fraud uk"
+  - "justgiving scam report"
+  - "crowdfunder impersonation"
+  - "unauthorised memorial link"
+  - "fake charity link"
+  - "stop scam payout"
+  - "fraudulent bereavement page"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you discover a crowdfunding page was created in a loved one’s name without your consent (UK)
 
 ## Short answer
-Pause, take screenshots, and report the page to the crowdfunding platform immediately so it can be removed or frozen while you work out what happened.
+Capture evidence immediately, report the page through the platform’s official "Report Fundraiser" button to freeze payouts, and warn your network not to donate.
 
 ## Do not do these things
-- Don’t send the page owner personal documents (passport scans, bank details, full address) just because they ask — verify through the platform’s official support channels only.
-- Don’t start a public argument on the fundraiser page while it’s still live — it can drive more donations to the wrong place.
-- Don’t share the link “to warn people” in group chats or on social media unless you’re sure you won’t amplify it.
-- Don’t assume it’s “probably a misunderstanding” if money is being collected — treat it as potentially fraudulent until confirmed.
-- Don’t click any “verification” links sent by the page owner; go directly to the platform/app yourself.
+- Don't send any identity documents (passports, death certificates) directly to the page organiser.
+- Don't click any links sent by the organiser claiming to be "verification" or "refund" links.
+- Don't comment on the fundraiser page, as this can increase its visibility in social media algorithms.
+- Don't share the live link on social media to "warn others" as it may inadvertently lead to more clicks or donations.
+- Don't assume the platform will automatically detect the fraud without a formal report from you.
 
 ## What to do now
-1. **Capture evidence (2 minutes, calmly).** Screenshot the full page, the organiser name/handle, the URL, images, update posts, and any donation/beneficiary claims. If there are comments, capture those too.
-2. **Report it inside the platform right away.** Use the platform’s “report fundraiser” / “report abuse” / “impersonation” option, and state clearly: *created in [loved one’s name], not authorised by family/estate, and you want it taken down or frozen*. Ask for a case/reference number.
-3. **Contact the platform’s support team via its official help centre.** Request: (a) immediate suspension while investigated, (b) removal for impersonation/misrepresentation, and (c) that no further payouts are made.  
-   - If your loved one has died, say you are next of kin/executor (if true) and that you can provide proof **through official channels only** if required.
-4. **Reduce harm by warning the right people without spreading the link.** Tell close family/friends: “There is an unauthorised fundraiser circulating. Please don’t donate. If you already did, contact the platform for a refund.” Share **a screenshot** rather than the live link if you can.
-5. **If you suspect fraud (or money has already moved), make a fraud report.**
-   - **If you’re in England, Wales or Northern Ireland:** report it via the national fraud reporting service (Report Fraud) so it can be passed to police.
-   - **If you’re in Scotland:** report to **Police Scotland** (101 for non-emergencies).
-   - If anyone is in immediate danger, call **999**.
-6. **If there’s a related scam website (a fake “official page” linked from the fundraiser), report the website as suspicious.** Use the UK government cyber reporting route for suspicious URLs rather than sharing the live link around.
+1. **Capture visual evidence of the fraud.** **Take screenshots of the entire fundraiser page, including the organiser's name, the story, the target amount, and any photos used.**
+   - Ensure the URL (web address) is clearly visible in the screenshot or copied separately.
+2. **Report the page using the platform's internal tools.** **Locate the "Report" or "Flag" button on the fundraiser page and select "Impersonation," "Fraud," or "Unauthorised Fundraiser."**
+   - Explicitly state that you are the next of kin or represent the estate and that this page is not authorised.
+   - Request an immediate freeze on all payouts so the funds cannot be withdrawn while investigated.
+3. **Contact the platform's Trust and Safety team directly.** **Use the official Help Centre or "Contact Us" form to open a support ticket specifically for impersonation of a deceased or vulnerable person.**
+   - If the platform is GoFundMe, JustGiving, or Crowdfunder, they have dedicated 2026 protocols for handling bereavement fraud.
+4. **Issue a warning to your community without using the link.** **Post a message or screenshot on your own social media or in group chats stating that an unauthorised fundraiser is circulating and should be ignored.**
+   - Instruct anyone who has already donated to contact the platform's customer support for a refund immediately.
+5. **Report the incident to the national fraud services.** **If you are in England, Wales, or Northern Ireland, report the page to Report Fraud (the 2026 successor to Action Fraud) at reportfraud.police.uk or call 0300 123 2040.**
+   - If you are in Scotland, report the matter to Police Scotland by calling 101.
+6. **Report any linked scam websites.** **If the fundraiser links to a separate fake website, report that URL to the National Cyber Security Centre (NCSC) via their official reporting tool.**
 
 ## What can wait
-- You do **not** need to decide right now whether to pursue civil action, “name and shame” publicly, or contact the media.
-- You do **not** need to gather every detail of who donated today — focus first on **freezing/removing** the page.
-- You do **not** need to draft a perfect statement for everyone. A short message (“don’t donate; it’s unauthorised”) is enough for now.
+- You do not need to identify every individual donor right now.
+- You do not need to contact a solicitor or seek legal advice in the first few hours.
+- You do not need to respond to messages from the page organiser or explain your actions to them.
+- You do not need to determine exactly how the organiser got your loved one’s details today.
 
 ## Important reassurance
-This kind of impersonation and “bereavement scam” is sadly common, and being shocked or furious is a normal reaction. Taking the page down and stopping payouts is the most protective first move — you can handle explanations and next steps once the immediate harm is contained.
+Finding a scam involving a loved one is deeply distressing and a violation of your privacy. It is normal to feel a range of emotions, from shock to intense anger. These platforms have established teams specifically to handle "bereavement scams," and taking the first step of reporting usually triggers an automated pause on funds, which prevents the immediate loss of money.
 
 ## Scope note
-These are first steps to stabilise the situation and reduce further loss or distress. Later steps (refunds, formal complaints, identity misuse, legal options) may depend on the platform and the specific circumstances.
+This guide provides first-step stabilization to stop the immediate spread of a fraudulent fundraiser and freeze potential payouts. It does not cover long-term legal action, data breach claims, or the recovery of funds already paid out to the scammer.
 
 ## Important note
-This is general information, not legal advice. If you feel unsafe or are being harassed or threatened, contact the police. If you’re unsure whether a message or link is genuine, use the platform’s official app/site and trusted contact routes rather than replying directly.
+This guide is for informational purposes and does not constitute legal advice. If you are receiving threats or feel physically unsafe due to the organiser's actions, contact the police immediately by calling 999.
 
 ## Additional Resources
-- https://www.reportfraud.police.uk/
-- https://www.reportfraud.police.uk/reporting-a-fraud/
-- https://www.gov.uk/contact-police
-- https://www.police.uk/pu/contact-us/
-- https://www.ncsc.gov.uk/section/about-this-website/report-scam-website
-- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://support.gofundme.com/hc/en-gb/articles/203604694-Report-a-fundraiser
+- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
+- https://www.citizensadvice.org.uk/consumer/scams/get-help-with-online-scams/
+- https://www.reportfraud.police.uk/guide-to-reporting
+- https://www.fundraisingregulator.org.uk/service/complaints-and-investigations/make-complaint

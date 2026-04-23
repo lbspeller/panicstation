@@ -1,84 +1,95 @@
-﻿---
+---
 title: "What to do if… you notice swelling in your face or hands that develops over a day and your urine output drops"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - face swelling over a day
-  - hand swelling over a day
-  - sudden puffy face
-  - swollen hands and less pee
-  - swelling and reduced urine
-  - barely peeing today
-  - peeing much less than normal
-  - passing less urine
-  - puffy eyes and low urine
-  - fluid retention suddenly
-  - rapid swelling and low urine output
-  - swollen face hands feet
-  - possible allergic swelling face
-  - throat tightness with swelling
-  - pregnancy swelling face hands
-  - postpartum swelling and low urine
-  - new edema and low urine
-  - dark urine and swelling
-  - feeling unwell with low urine
-  - can’t pee at all today
-last_reviewed: "2026-02-21"
+  - "swelling in face"
+  - "swelling in hands"
+  - "face swelling over a day"
+  - "hands swelling over a day"
+  - "urine output drops"
+  - "urine output dropping"
+  - "notice swelling in your face"
+  - "notice swelling in your hands"
+  - "swelling develops over a day"
+  - "less urine than normal"
+  - "not peeing enough"
+  - "puffy face and low urine"
+  - "swollen hands and low urine"
+  - "face feels tight and swollen"
+  - "puffy eyes and reduced urine"
+  - "fluid retention in face and hands"
+  - "reduced urination today"
+  - "stopped peeing today"
+  - "face swelling and dark urine"
+  - "hands swelling and dark urine"
+  - "help i am not peeing"
+  - "help my face is swollen"
+  - "what do i do if my urine stops"
+  - "what do i do if my face is puffy"
+  - "dark cola coloured urine"
+  - "decreased urine output"
+  - "sudden facial oedema"
+  - "swelling and breathlessness"
+  - "very little urine today"
+  - "swelling in pregnancy"
+  - "postpartum swelling and low urine"
+  - "puffy face with headache"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you notice swelling in your face or hands that develops over a day and your urine output drops (UK)
 
 ## Short answer
-Get **same-day urgent medical assessment**. If your lips/tongue/throat are swelling, you’re struggling to breathe, you’re very drowsy/confused, or you cannot pass urine at all, call **999** now.
+Seek **immediate same-day medical assessment** via your GP or NHS 111. If you have any difficulty breathing, swelling of the tongue or throat, or have not passed urine for a full day, go to **A&E or call 999**.
 
 ## Do not do these things
-- Do **not** “wait and see” overnight if your urine output has clearly dropped or swelling is spreading.
-- Do **not** take extra **NSAIDs** (like ibuprofen/naproxen) to “bring swelling down” while you’re peeing less, unless a clinician has specifically told you to.
-- Do **not** take someone else’s **water tablets/diuretics**, and do not stop prescribed medicines unless a clinician tells you to.
-- Do **not** force huge amounts of water quickly—especially if you’re short of breath, wheezy, or your swelling is worsening.
-- Do **not** drive yourself to urgent care if you feel dizzy, very weak, confused, or short of breath.
+- Do **not** wait for an overnight appointment if you have stopped passing urine or if facial swelling is affecting your breathing.
+- Do **not** take anti-inflammatory painkillers (NSAIDs) such as ibuprofen or naproxen, as these can further stress the kidneys.
+- Do **not** take "water tablets" or diuretics that were not prescribed specifically for this current episode.
+- Do **not** attempt to "flush" your system by drinking excessive amounts of water quickly if you are not passing urine, as this can lead to fluid overload in the lungs.
+- Do **not** drive yourself to the hospital if you feel dizzy, confused, or short of breath.
 
 ## What to do now
-1. **Check for emergency signs (act immediately if present).** Call **999** if any of these are happening now:
-   - swelling of **lips, tongue, mouth, or throat**
-   - **trouble breathing**, wheeze, choking sensation, tight throat, or trouble swallowing
-   - **blue/grey/pale** colour around lips/face, or sudden collapse/fainting
-   - new **confusion**, extreme drowsiness, or severe chest pain
-2. **Treat “no urine at all” as urgent.** If you **cannot pass urine at all**, or you have severe lower belly pain/fullness with very little/no urine, go to **A&E now** (or call **999** if you’re too unwell to travel safely).
-3. **If you are pregnant (especially 20+ weeks) or recently gave birth:** treat this as urgent.
-   - **Phone your midwife or maternity assessment unit / hospital triage line now.**
-   - If you cannot reach them promptly, call **NHS 111** for urgent direction.
-4. **Otherwise, get urgent same-day assessment today.**
-   - Call your **GP practice** and say: “**swelling in face/hands over a day and urine output has dropped**.”
-   - If you cannot get a prompt GP appointment, use **NHS 111** (online or phone) for urgent direction to the right service.
-   - If you are getting worse, feel very unwell, or have any breathlessness, go to **A&E**.
-5. **Make a quick “facts list” to take with you (this helps clinicians move faster).**
-   - When swelling started and how fast it’s changed (a photo can help)
-   - How much you’ve peed compared to normal (for example: “only once since waking”)
-   - Any **breathlessness**, cough, fever, vomiting/diarrhoea, rash/hives, or new facial/lip swelling
-   - Any recent **sore throat/skin infection**, stings, or new foods
-   - Your medicines and recent painkillers/cold remedies/supplements (including if you take an **ACE inhibitor** such as ramipril)
-6. **If you have a home blood pressure monitor, take one reading now** (sit quietly 5 minutes first) and write it down to bring with you.
-7. **While you’re waiting to be seen:** sip fluids normally if you can; avoid alcohol. If throat/lip swelling or breathing trouble starts at any point, switch to **999**.
+1. **Check for emergency "ABC" symptoms.** Call **999** immediately if you experience:
+   - Swelling of the lips, tongue, or throat.
+   - Sudden difficulty breathing, wheezing, or a "tight" feeling in the chest.
+   - Pale, blue, or grey skin (check palms or soles of feet if you have dark skin).
+   - Sudden confusion, extreme drowsiness, or fainting.
+2. **Contact your midwife or maternity triage if pregnant or recently postpartum.** If you are over 20 weeks pregnant or gave birth in the last 6 weeks:
+   - **Call your local Maternity Assessment Unit (MAU) or Maternity Triage line immediately.** 
+   - If they are unavailable, call **NHS 111** and state you are pregnant with sudden swelling and reduced urine. 
+   - If feeling faint or short of breath, **lie on your left side** while waiting for help.
+3. **Assess urine output specifically.** Go to **A&E or call 111** if:
+   - You have not passed any urine at all for a full day (8–12 hours).
+   - Your urine is very dark, "cola-coloured," or contains visible blood.
+   - You have severe pain in your lower back (flanks) or lower abdomen.
+4. **Arrange a same-day urgent GP appointment.** If you are still passing some urine but the amount has significantly dropped:
+   - **Phone your GP practice** as soon as they open and request an emergency or "sit and wait" slot.
+   - Use the phrase: "**I have new facial and hand swelling and my urine output has significantly dropped.**"
+5. **Prepare a summary for the clinician.** Write down the following:
+   - The time you first noticed the swelling and where it started.
+   - The time and approximate amount of your last three urinations.
+   - Any other symptoms like a severe headache, vision changes (blurring/flashing), or nausea.
+   - A list of all current medications, especially blood pressure tablets (like ACE inhibitors/Ramipril) or recent painkillers.
+6. **Take a blood pressure reading if you have a home monitor.** **Sit quietly for 5 minutes before taking the reading.** Write down the numbers to give to the doctor, but do **not** delay seeking emergency help to do this if you are feeling very unwell.
 
 ## What can wait
-- You do **not** need to work out the exact cause right now.
-- You do **not** need to start strict diets, “detoxes,” or “kidney cleanse” products.
-- You do **not** need to decide about long-term treatment today—focus only on being assessed urgently.
+- You do **not** need to identify the underlying cause (such as kidney function or blood pressure issues) yourself.
+- You do **not** need to start any "kidney detox" or special diet before being seen.
+- You do **not** need to decide on long-term lifestyle changes right now.
 
 ## Important reassurance
-It’s normal to feel alarmed when swelling and urine changes happen together. Getting checked urgently is the safest next step—many causes are treatable, and acting early reduces the chance of complications.
+It is common to feel concerned when you notice your body retaining fluid or your habits changing. These symptoms are clear signals that your body needs a professional check-up. Getting assessed quickly is the most effective way to manage the situation and prevent further complications.
 
 ## Scope note
-This guide covers **first steps only** to get you safely assessed. Further tests and decisions depend on what clinicians find.
+This guide is for first-step stabilization and urgent triage only. It does not replace clinical diagnosis for conditions such as Acute Kidney Injury (AKI), pre-eclampsia, or angioedema.
 
 ## Important note
-This is general information, not a diagnosis. If you feel in immediate danger, develop breathing/throat symptoms, or cannot pass urine at all, call **999**.
+This information is for guidance only and does not constitute medical advice. If you cannot pass urine, are struggling to breathe, or feel your condition is rapidly deteriorating, call **999** or go to your nearest **Emergency Department (A&E)**.
 
 ## Additional Resources
-- https://www.nhs.uk/conditions/angioedema/
-- https://www.nhs.uk/conditions/anaphylaxis/
 - https://www.nhs.uk/conditions/acute-kidney-injury/
-- https://www.nhs.uk/conditions/pre-eclampsia/symptoms/
-- https://111.nhs.uk/
-- https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pre-eclampsia/
+- https://www.nhs.uk/conditions/glomerulonephritis/
+- https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/
+- https://dchft.nhs.uk/leaflets/sick-day-guidance-for-an-acute-kidney-injury-aki/
+- https://www.hey.nhs.uk/patient-leaflet/acute-kidney-injury-aki/

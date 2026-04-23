@@ -1,78 +1,81 @@
-﻿---
+---
 title: "What to do if… a carbon monoxide alarm goes off and you are now outside with headache or nausea"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - carbon monoxide alarm went off
-  - co detector going off
-  - outside after co alarm
-  - headache after co exposure
-  - nausea after co exposure
-  - feeling sick after heater
-  - possible carbon monoxide poisoning
-  - co exposure symptoms
-  - dizziness after being indoors
-  - sleepy or confused after alarm
-  - furnace carbon monoxide
-  - gas stove carbon monoxide
-  - generator fumes indoors
-  - car exhaust in garage
-  - apartment co alarm
-  - family still inside
-  - pets still inside
-  - need medical evaluation for co
-  - when to call poison control
-  - when to call 911
-last_reviewed: "2026-02-21"
+  - "carbon monoxide alarm went off"
+  - "co detector sounding"
+  - "headache after co alarm"
+  - "nausea after co alarm"
+  - "carbon monoxide poisoning symptoms"
+  - "what do i do if co alarm sounds"
+  - "what do i do if my carbon monoxide alarm goes off"
+  - "what do i do if i feel sick after heater"
+  - "what do i do if i have a headache after gas smell"
+  - "help i have a headache and my co alarm is off"
+  - "help i am dizzy after furnace alarm"
+  - "my carbon monoxide alarm is beeping and i feel sick"
+  - "my co detector is going off"
+  - "sick after alarm goes off"
+  - "dizziness and nausea from furnace"
+  - "symptoms of co exposure"
+  - "silent killer symptoms"
+  - "fresh air after alarm"
+  - "feeling sleepy after co alarm"
+  - "confusion and headache indoors"
+  - "co alarm triggered by car"
+  - "co alarm triggered by generator"
+  - "flu symptoms without fever"
+  - "carbon monoxide medical evaluation"
+  - "carbon monoxide alarm investigation"
+  - "co alarm rescue"
+  - "apartment co alarm protocol"
+  - "staying outside after alarm"
+  - "poison control for carbon monoxide"
+  - "911 for co alarm"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… a carbon monoxide alarm goes off and you are now outside with headache or nausea (USA)
 
 ## Short answer
-Assume possible carbon monoxide (CO) exposure: stay outside in fresh air and get urgent medical guidance. Do not go back inside until professionals say it’s safe.
+Stay outside in fresh air and call 911 immediately to report both the alarm and your symptoms. Do not re-enter the building for any reason until emergency responders confirm the air is safe.
 
 ## Do not do these things
-- Do not re-enter to silence/reset the alarm or “check quickly.”
-- Do not assume it’s a false alarm because you don’t smell anything (CO can’t be smelled).
-- Do not run fans, the furnace, HVAC, or any fuel-burning appliance.
-- Do not use a generator, grill, camp stove, or car engine near an open door/window.
-- Do not drive yourself if you’re dizzy, confused, unusually sleepy, or very unwell.
-- Do not ignore symptoms that improve outside—CO exposure can look like a “flu” feeling.
+- Do not re-enter the building to silence the alarm, retrieve pets, or "check the stove."
+- Do not assume the detector is malfunctioning because you cannot smell or see anything.
+- Do not assume you are safe just because your symptoms improve slightly in the fresh air.
+- Do not wait to see if the headache goes away before seeking professional help.
+- Do not drive yourself to the hospital if you feel dizzy, confused, or unusually drowsy.
+- Do not ignore the alarm even if other people or pets in the building seem fine.
 
 ## What to do now
-1. **Stay outside and keep everyone out.** Move to a safe spot away from the building (and away from idling vehicles). Keep pets with you if they’re already out.
-2. **Call for emergency help if anyone is significantly ill.** **Call 911 now** if anyone has trouble breathing, chest pain, fainting/collapse, seizure, confusion, can’t stay awake, or symptoms are worsening.
-3. **If symptoms are mild/moderate (like headache or nausea), get expert guidance immediately.**
-   - Call **Poison Control (Poison Help): 1-800-222-1222** and say: “CO alarm went off; we left; now headache/nausea.”
-   - If you can’t get through quickly or you’re worried, call **911**.
-4. **Have the home checked before anyone goes back in.** From outside, **call 911** to request emergency response (in many places this is the fire department), or call your **gas utility emergency line** if gas appliances are involved. Ask for a **carbon monoxide investigation** and follow instructions.
-5. **Account for everyone who was inside.** If someone might still be inside, **do not re-enter**—call **911** and tell them a CO alarm is sounding and someone may still be inside.
-6. **Tell responders who is higher-risk.** If anyone exposed is **pregnant**, an **infant/child**, older, or has heart/lung disease, say so. These groups may need faster evaluation even with “just a headache.”
-7. **If you’re sent for medical evaluation, bring the key details:**
-   - time the alarm went off,
-   - how long people were inside,
-   - symptoms (headache, nausea, dizziness, confusion, sleepiness),
-   - possible sources (furnace, water heater, gas stove, fireplace, generator, car in/near garage).
-   Hospitals can test for CO exposure and provide oxygen if needed.
+1. **Move at least 20 feet away from the building and stay there.** **Ensure you are upwind of the building and away from any vents, flues, or idling vehicles.**
+2. **Call 911 immediately from your mobile phone or a neighbor's house.** **Tell the dispatcher that your carbon monoxide alarm is sounding and that you are experiencing a headache and nausea.**
+   - State clearly if anyone is still inside the building.
+   - Mention if any high-risk individuals are present, such as pregnant people, infants, or the elderly.
+3. **Account for every person and pet that was in the structure.** **Do not go back inside if someone is missing; instead, tell the 911 operator exactly where the person or pet was last seen.**
+4. **Identify potential sources for the emergency responders while you wait.** **Think about which fuel-burning appliances were recently in use, such as a furnace, water heater, gas stove, fireplace, or a generator used near the home.**
+5. **Accept medical evaluation from EMS personnel even if you feel better.** **First responders can measure your oxygen levels and determine if you need hospital-grade oxygen therapy to flush the carbon monoxide from your blood.**
+6. **Contact your gas utility provider only after 911 has been notified.** **Many utilities have emergency lines specifically for carbon monoxide investigations and can remotely shut off gas lines if a leak is suspected.**
 
 ## What can wait
-- Troubleshooting the detector or deciding whether to replace it (don’t go back in to do this).
-- Investigating the exact source yourself.
-- Calling your landlord/HOA/insurance (after the immediate safety/medical steps are underway).
-- Retrieving belongings unless responders say it’s safe.
+- Deciding whether to replace the CO detector or its batteries.
+- Calling your landlord, property manager, or insurance company.
+- Identifying the exact mechanical failure that caused the leak.
+- Retrieving personal items, electronics, or medications.
 
 ## Important reassurance
-Feeling headache or nausea after a CO alarm is a valid reason to treat this as real. You’ve already taken the most protective action by getting outside; getting prompt medical guidance and a professional safety check is the right next move.
+It is normal to feel panicked or hesitant when an alarm goes off, especially if you "feel okay" otherwise. However, a headache and nausea combined with a CO alarm are objective signals that your body needs medical attention. Getting outside was the most important first step, and professional responders are trained to handle the rest.
 
 ## Scope note
-This guide covers first steps to reduce harm and get you assessed. Repairs, inspections, and follow-up prevention happen after the space is confirmed safe.
+This guide provides first-step stabilization only for an active alarm and symptom event. It does not cover long-term medical treatment, appliance repair, or building remediation.
 
 ## Important note
-This is general information, not medical advice. If symptoms are severe, worsening, or you’re unsure, call 911. Do not re-enter the building until it has been evaluated and you’re told it’s safe.
+Carbon monoxide is a colorless, odorless gas that replaces oxygen in the bloodstream. Symptoms of poisoning often mimic the flu but typically occur without a fever. Only professional monitoring equipment can confirm if a building is safe for re-entry.
 
 ## Additional Resources
+- https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers
+- https://www.cpsc.gov/safety-education/safety-guides/carbon-monoxide/carbon-monoxide-fact-sheet
+- https://www.epa.gov/indoor-air-quality-iaq/protect-your-family-and-yourself-carbon-monoxide-poisoning
 - https://www.cdc.gov/carbon-monoxide/about/index.html
-- https://www.poison.org/
 - https://poisonhelp.hrsa.gov/faq/carbon-monoxide
-- https://www.mayoclinic.org/diseases-conditions/carbon-monoxide/symptoms-causes/syc-20370642
-- https://poisoncenters.org/

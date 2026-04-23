@@ -1,76 +1,89 @@
-﻿---
+---
 title: "What to do if… you learn your role is being advertised while you are still employed"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - my job is being advertised
-  - role advertised while employed
-  - employer posting my position
-  - job listing for my role
-  - replacement job posting
-  - vacancy for my current job
-  - my job posted online
-  - internal posting my role
-  - external posting my position
-  - being replaced at work
-  - worried about being fired
-  - at will employment concern
-  - job posted behind my back
-  - position listed while employed
-  - found my job on indeed
-  - found my role on linkedin
-  - role advertised same title
-  - employer hiring my replacement
-last_reviewed: "2026-01-07"
+  - "mandatory training deadline imminent"
+  - "not scheduled for required training"
+  - "compliance training not assigned"
+  - "lms shows not enrolled"
+  - "training module missing from system"
+  - "required training due tomorrow"
+  - "overdue workplace training requirement"
+  - "no invite to mandatory training"
+  - "cannot access training link"
+  - "training sessions full or unavailable"
+  - "manager did not schedule training"
+  - "hr system role change not updated"
+  - "worried about discipline for training"
+  - "asked to certify training not done"
+  - "required safety training not completed"
+  - "request extension for training deadline"
+  - "need urgent enrolment in training"
+  - "what do i do if i missed a training deadline"
+  - "what do i do if i am not enrolled in mandatory training"
+  - "what do i do if work training is due and i cannot access it"
+  - "what do i do if my supervisor forgot to schedule my training"
+  - "help i am not scheduled for required work training"
+  - "help i cannot find my mandatory training link"
+  - "help i am worried about my training deadline"
+  - "help i need a training extension at work"
+  - "my training portal is empty"
+  - "my mandatory training is missing"
+  - "my boss forgot my training"
+  - "my deadline is today and i am not enrolled"
+  - "missing compliance module"
+  - "safety training enrollment error"
+  - "harassment training access denied"
+  - "osha training deadline panic"
+  - "workplace training system error"
+  - "denied access to required course"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you learn your role is being advertised while you are still employed (USA)
+
 ## Short answer
-Pause, document what you saw, and ask for a calm, direct explanation from your manager (or HR) before you react. Do not resign or send accusations in writing while you still don’t know what the posting means.
+Notify your supervisor and the training administrator in writing immediately to report the lack of access and request a formal extension or urgent enrollment.
 
 ## Do not do these things
-- Do not quit in anger or “beat them to it” — that can reduce your options.
-- Do not send a hostile email/message accusing anyone of replacing you.
-- Do not post about it on social media or make it a public conflict at work.
-- Do not copy/download confidential company data as “evidence.”
-- Do not secretly record meetings or calls without checking your state law and workplace policy.
-- Do not sign anything immediately (resignation letter, severance release, new contract) without time to read it.
-- Do not assume the posting is illegal — in most states employment is “at-will,” but there are important exceptions.
+- Do not ignore the deadline or assume a supervisor knows you are missing from the list.
+- Do not use another person’s login or share credentials to bypass system blocks.
+- Do not sign a certificate of completion or an acknowledgment form if you have not finished the course.
+- Do not perform tasks that require the training (such as operating heavy machinery or handling chemicals) if your certification has expired.
+- Do not send aggressive or accusatory messages; stick to the facts of the system error.
 
 ## What to do now
-1. **Save proof of the posting (safely).** If the listing is public (job board/company careers page), screenshot the full posting on a personal device (title, duties, location, pay range if shown, date, URL) and save a PDF if available. If it’s only visible inside internal systems, do not copy restricted content — instead write down key details (where seen, reference number, date/time, and why it appears to match your job).
-2. **Check whether it matches your job or a similar role.** Compare it to your job description, reporting line, and key responsibilities. Sometimes postings are for expansion, a parallel position, or a reclassified role.
-3. **Create a factual timeline.** Write down the date you found the ad, any recent performance discussions, changes in duties, conflicts, complaints, or protected activity. Keep it factual and store it off work systems.
-4. **Gather your personal employment records.** Keep copies of your offer letter/employment agreement, handbook acknowledgements, performance reviews, pay stubs, and any written praise or corrective actions. Avoid taking confidential company documents from internal systems.
-5. **Request a short, private meeting.** Ask your manager (and HR if applicable): “I saw a posting that looks like my role. What is it for, and does it affect my position?” Keep it calm and specific.
-6. **Follow up with a brief written recap.** After the meeting, email a short summary of what you understood (what the posting is for, whether your role is impacted, and next steps). Keep it neutral.
-7. **If you’re told your job may be ending, ask for basics in writing.** Ask for the effective date, the stated reason (performance vs business), what notice (if any) you’ll receive, and whether severance/benefits information will be provided. Ask for time to review anything you’re given.
-8. **If you suspect an illegal reason, preserve the record and contact the right place for that issue.** In most states, at-will employment still does **not** allow termination for illegal reasons. Where to start often depends on what you think is happening:
-   - **Discrimination or retaliation connected to discrimination complaints** (for example based on race, sex, religion, disability, age): consider the **EEOC** or your **state fair-employment agency**.
-   - **Retaliation for safety/health complaints**: consider **OSHA’s whistleblower protections** (or your state’s equivalent).
-   - **Wage-hour/leave pay problems**: consider your **state labor agency** or the **U.S. Department of Labor**.
-   - **Protected “concerted activity”** (for example discussing pay/working conditions with coworkers, acting together to improve conditions): consider the **NLRB** (many private-sector workplaces).
-9. **Keep work performance steady while you clarify.** Stay professional in writing, meet deadlines, and avoid emotional messages. The goal is to buy time and avoid giving an easy “misconduct” narrative.
+1. **Verify the exact requirements, course title, and deadline date.** Review your original hiring documents, policy handbooks, or previous email notifications to ensure you have the correct information before reporting the issue.
+2. **Document the current state of your access with screenshots or photos.** Capture the "not assigned" screen, empty enrollment queues, or error messages, ensuring the system clock and date are visible in the image.
+3. **Send a time-stamped email to your direct supervisor reporting the gap.** 
+   - State the specific course name and the looming deadline.
+   - Explain that you have searched your portal/inbox and are not currently enrolled or scheduled.
+   - Ask for a written instruction on whether to proceed with your normal duties or wait for training.
+4. **Notify the training owner or HR Compliance department at the same time.** If your company uses a ticketing system for IT or Learning & Development (L&D), open a ticket and mark it "Urgent - Compliance Deadline" to create a secondary audit trail.
+5. **Confirm whether the training is safety-critical or legally mandated for your specific tasks.** If the training involves OSHA standards or hazardous materials, explicitly ask your supervisor if you should pause those specific duties to maintain "demonstrable competency" compliance.
+6. **Request clarification on pay for training conducted outside normal hours.** Under the Fair Labor Standards Act (FLSA), mandatory training is generally paid work time; if you are told to complete it on your own time, ask HR how to record those hours so you are properly compensated.
+7. **Propose a specific window of time to complete the training if access is granted.** 
+   - Suggest a time during your next shift when you can focus on the module.
+   - Ask for a "read-only" or temporary extension in the system to prevent automatic disciplinary triggers.
+8. **Request a witness or representative if called to an investigatory meeting.** While Weingarten rights currently apply primarily to union-represented employees, you should still ask for a support person or co-worker to attend any meeting that might lead to discipline, as some company policies allow this regardless of union status.
 
 ## What can wait
-- You do not need to decide today whether to resign, threaten legal action, or announce anything to coworkers.
-- You do not need to start a public dispute or collect “everything you can” from company systems.
-- You do not need to accept severance terms or sign a release immediately — you can ask for time to review.
-- You do not need to start job hunting this minute; first get clarity on whether this is actually your position.
+- You do not need to figure out why the system failed or whose fault it was today.
+- You do not need to decide if you want to file a formal grievance about the scheduling error right now.
+- You do not need to worry about the long-term impact on your performance review while you are in the "reporting and fixing" phase.
 
 ## Important reassurance
-This situation often triggers fear and humiliation — that reaction is normal. The safest early move is to slow down, document what you saw, and get a clear explanation on record before you take any action you can’t undo.
+System errors and administrative oversights regarding training are common, especially after role changes or software updates. As long as you have a clear, written record that you identified the issue and sought a solution before the deadline, you have significant protection against claims of willful non-compliance.
 
 ## Scope note
-This is first-steps-only guidance to stabilize and avoid irreversible mistakes. Next steps depend on facts like your state, your employment agreement/handbook terms, and whether any protected rights are involved.
+This guide provides first-step stabilization to prevent disciplinary action and ensure workplace safety compliance. It does not cover legal strategies for wrongful termination or long-term labor dispute resolution.
 
 ## Important note
-This is general information, not legal advice. Laws vary by state and job type. If you feel pressured to resign or sign documents immediately, or you believe discrimination or retaliation may be involved, consider getting independent advice promptly.
+This information is for general guidance and does not constitute legal advice. Workplace rights vary significantly by state law, specific industry regulations (such as healthcare or aviation), and individual employment contracts or collective bargaining agreements. If you are threatened with immediate termination or discipline, consult with a qualified employment attorney or your union representative.
 
 ## Additional Resources
-- https://www.usa.gov/termination-for-employers
-- https://www.eeoc.gov/laws/guidance/enforcement-guidance-retaliation-and-related-issues
-- https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/your-rights-to-discuss-wages
-- https://www.nlrb.gov/about-nlrb/rights-we-protect/our-enforcement-activity/protected-concerted-activity
-- https://www.dol.gov/agencies/eta/layoffs/warn
-- https://www.dol.gov/general/topic/termination/plantclosings
+- https://www.usa.gov/wrongful-termination
+- https://www.eeoc.gov/prohibited-employment-policiespractices
+- https://www.dol.gov/general/topic/termination
+- https://www.usa.gov/job-discrimination-harassment
+- https://www.dol.gov/agencies/whd/retaliation

@@ -1,91 +1,97 @@
-﻿---
+---
 title: "What to do if… a hospital asks you to come in urgently to discuss end-of-life decisions for a relative"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - hospital urgent call
-  - end of life decisions
-  - relative critically ill
-  - family meeting hospital
-  - treatment escalation plan
-  - resuscitation decision
-  - dnacpr discussion
-  - respect form discussion
-  - best interests meeting
-  - mental capacity questions
-  - health and welfare lpa
-  - welfare power of attorney
-  - last days of life
-  - palliative care meeting
-  - pressured to decide
-  - what to ask the doctor
-  - making decisions for parent
-  - making decisions for partner
-  - confused by medical terms
-  - who can decide for patient
-last_reviewed: "2026-03-03"
+  - "hospital urgent call"
+  - "end of life decisions"
+  - "relative critically ill"
+  - "family meeting hospital"
+  - "treatment escalation plan"
+  - "resuscitation decision"
+  - "dnacpr discussion"
+  - "respect form discussion"
+  - "best interests meeting"
+  - "mental capacity questions"
+  - "health and welfare lpa"
+  - "welfare power of attorney"
+  - "last days of life"
+  - "palliative care meeting"
+  - "pressured to decide"
+  - "what to ask the doctor"
+  - "making decisions for parent"
+  - "making decisions for partner"
+  - "confused by medical terms"
+  - "who can decide for patient"
+  - "what do i do if my relative is dying"
+  - "what do i do if hospital calls urgently"
+  - "help i have a family meeting at hospital"
+  - "help i need to make end of life decisions"
+  - "my relative lacks capacity"
+  - "my relative is in hospital"
+  - "symptoms of dying"
+  - "visible distress in hospital"
+  - "dnacpr form confusion"
+  - "respect form error"
+  - "critical care review"
+  - "urgent medical meeting"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… a hospital asks you to come in urgently to discuss end-of-life decisions for a relative (UK)
 
 ## Short answer
-Go in (or join by phone/video) and ask the team to explain, in plain language, what decision is needed *today* and why. Before agreeing to anything, ask whether your relative can still decide for themselves and whether there is any legal decision-maker already appointed.
+Go to the hospital (or join by secure video) and ask the lead clinician to explain exactly what clinical decision is required within the next few hours. Ask for a clear assessment of your relative's "mental capacity" and identify if a legal decision-maker has already been appointed.
 
 ## Do not do these things
-- Do not sign forms or agree to major decisions while you feel rushed or confused—ask for a pause to understand what is being proposed.
-- Do not assume “next of kin” automatically means you can make decisions (authority depends on capacity and any appointed decision-maker).
-- Do not focus only on “CPR yes/no” without asking what it would mean for your relative in this specific situation.
-- Do not argue in the corridor or at the bedside—ask for a private room and a named senior clinician to lead the discussion.
-- Do not record staff without checking local policy/expectations; instead, take written notes.
+- Do not feel forced to agree to a plan if you do not understand the medical terms; ask the doctor to use plain English.
+- Do not assume that being "Next of Kin" gives you the legal right to sign for or against treatment (authority depends on the specific UK nation's laws).
+- Do not focus exclusively on Resuscitation (CPR); ask about the wider "Treatment Escalation Plan" including antibiotics, fluids, and ward-based care.
+- Do not record staff or other patients without permission; take clear, dated written notes of what is said instead.
+- Do not leave the meeting without a named point of contact for the medical team and a direct phone number for the ward.
 
 ## What to do now
-1. **Confirm the logistics and the urgency.** Ask: “Is this a same-day decision? What happens if I arrive in 2 hours / tomorrow morning?” If you can’t get there fast, ask for a **phone/video family meeting** and the ward’s direct number.
-2. **Ask who is leading the decision and what it’s called.** Request the **consultant (or the most senior doctor available)** and/or the **senior nurse in charge**. Ask: “Is this about CPR/DNACPR, a treatment escalation plan (ReSPECT), intensive care, ventilation, feeding, antibiotics, or moving to comfort-focused care?”
-3. **Ask the capacity question early (it changes everything).** Say: “Does my relative currently have capacity to make this decision?”  
-   - If **they have capacity**, ask how the team will support *them* to decide (and how you can support them without speaking over them).  
-   - If **they lack capacity**, ask: “What is the best-interests process here, and who is the decision-maker under your local policy?”
-4. **Check for existing documents or appointed decision-makers.** Ask the team to check the records for:
-   - a **Health and Welfare Lasting Power of Attorney (LPA)** (England/Wales) or (in Scotland) a **welfare power of attorney**
-   - any **Advance Decision to Refuse Treatment (ADRT)** / advance decision
-   - any existing **DNACPR** or **ReSPECT** form  
-   If you have paperwork at home, bring clear photos or ask someone to bring it.
-5. **Bring the right information into the room.** Quickly gather (even as a note on your phone):
-   - your relative’s usual quality-of-life priorities (“what they would say matters most”)
-   - any past expressed wishes about ICU, CPR, life support, severe disability, or dying in hospital
-   - key baseline facts the team may not know (usual memory/mobility, recent changes)
-6. **Use a simple question set to slow things down and get clarity.** Ask:
-   - “What is the most likely outcome *with* this treatment? What is the most likely outcome *without* it?”
-   - “What are you most worried will happen in the next 24–72 hours?”
-   - “Are you recommending for or against CPR/ICU, and why for this patient?”
-   - “If we choose comfort-focused care, what symptoms will you treat and how will you keep them comfortable?”
-7. **Ask for specialist support in the meeting.** Request a **palliative care team** review (if not already involved) and ask whether a **chaplain/spiritual care** or **family liaison/bereavement team** can join if helpful.
-8. **If there’s no family or you’re excluded, ask about advocacy.** If your relative lacks capacity and has no appropriate family/friends to consult, ask whether an **Independent Mental Capacity Advocate (IMCA)** should be involved (England/Wales) and what the hospital will do next.
-9. **If you’re worried they’re getting worse and you’re not being heard, ask about escalation routes.** In **England**, ask staff how to activate **Martha’s Rule** (sometimes shown as a “Call for Concern”) if it’s available in that hospital.
-10. **If there’s disagreement or you feel pressured, escalate calmly.** Ask for:
-   - a second senior review (another consultant if available)
-   - the hospital’s **patient advice service** (for example **PALS in England**; other UK nations use different services)
-   - an **ethics** or complex-case discussion if the hospital offers it  
-   If the dispute is serious and ongoing, ask what formal route the hospital uses (some cases may need legal advice and, in England/Wales, potentially the Court of Protection).
+1. **Establish the exact level of urgency and logistics.** Ask the ward: “Does a decision need to be made in the next hour, or can it wait until I arrive?”
+   - If you cannot travel immediately, ask for a **scheduled video or conference call** with the consultant.
+2. **Identify the senior decision-maker in the room.** Ask: “Who is the consultant in charge of my relative’s care today?”
+   - Request that the **most senior doctor or nurse** available leads the meeting, rather than a junior staff member.
+3. **Ask the "Capacity" question immediately.** Ask: “Does my relative have the mental capacity to make this specific decision right now?”
+   - If **they have capacity**, they must make the decision; your role is to support them.
+   - If **they lack capacity**, ask: “Who is the designated 'Decision Maker' under the law?” (In England/Wales this is usually the senior clinician after consulting you; in Scotland, it may be a Welfare Attorney).
+4. **Search for and provide legal documents.** Tell the team if any of the following exist and provide the original or a certified copy if possible:
+   - **Health and Welfare Lasting Power of Attorney (LPA)** (England/Wales)
+   - **Welfare Power of Attorney** (Scotland - must be registered with the OPG)
+   - **Advance Decision to Refuse Treatment (ADRT)** or "Advance Directive"
+   - An existing **ReSPECT form** or **DNACPR** document from a previous admission.
+5. **Clarify the clinical "Best Interests" process.** If the patient lacks capacity, remind the team of their **duty to consult** those interested in the patient's welfare (in England/Wales under the Mental Capacity Act 2005). 
+   - State clearly: “I want to help you understand what my relative would want if they could speak for themselves.”
+6. **Use a specific set of clarifying questions.** Ask the clinicians:
+   - “What is the 'ceiling of care' you are proposing (e.g., intensive care, ward care, or comfort care only)?”
+   - “What is the clinical benefit of the proposed treatment, and what are the risks of harm?”
+   - “If we stop active treatment, how exactly will you manage their symptoms and pain?”
+7. **Request specialist or advocacy support.** Ask if a member of the **Palliative Care Team** can join the discussion.
+   - In England/Wales, if there is no family available, ask for an **Independent Mental Capacity Advocate (IMCA)**.
+8. **Utilize escalation routes if you are not being heard.** 
+   - **In England:** Ask to activate **Martha’s Rule** (or "Call for Concern") if you believe your relative is deteriorating and your concerns are being ignored.
+   - **In all UK nations:** Ask to speak to the **Patient Advice and Liaison Service (PALS)** or the local equivalent (Patient Advice and Support Service in Scotland).
+9. **Request a pause for private reflection.** If a decision is not "seconds-critical," ask for 15–30 minutes in a private room to discuss the options with other family members before confirming the plan.
 
 ## What can wait
-- You do not need to decide about funeral arrangements, registering the death, probate, or notifying wider family today.
-- You do not need to “get it perfectly right.” Your job now is to make sure decisions reflect your relative’s wishes/values as closely as possible and that you understand what is being recommended.
-- You do not need to resolve family conflict today—ask the team to identify one spokesperson for communication and schedule a follow-up meeting.
+- You do not need to make decisions about funeral directors, probate, or house clearing today.
+- You do not need to notify every distant relative or friend immediately; focus only on those who need to be part of the decision-making process.
+- You do not need to resolve long-standing family disagreements; ask the hospital to document a single family spokesperson to streamline communication.
 
 ## Important reassurance
-Being called in urgently does not mean you are being asked to “choose life or death” on your own. Often, the team needs to explain what treatments can and can’t achieve, and to make sure care matches the person’s wishes and best interests. Feeling overwhelmed, tearful, numb, or angry in this meeting is a normal response.
+Being asked to discuss end-of-life care is not the same as being asked to "give up." It is a process to ensure that medical care does not become burdensome or undignified for your relative. It is normal to feel a range of intense emotions, including guilt or confusion, during these meetings.
 
 ## Scope note
-This is first-steps guidance for the hours around an urgent hospital meeting. Later decisions (legal authority, ongoing disputes, complex clinical choices) may need specialist support from the hospital team and, sometimes, independent legal advice.
+This guide provides first-step stabilization for the initial hours of an urgent hospital meeting. It does not cover long-term legal disputes or the specificities of the Court of Protection.
 
 ## Important note
-This is general information, not legal or medical advice. End-of-life decision processes can differ across the UK (England/Wales, Scotland, Northern Ireland). If anything is unclear, ask the hospital to explain their local policy and the legal basis for who can decide.
+This is general information and not legal or medical advice. Laws regarding mental capacity and "best interests" differ significantly between England/Wales, Scotland, and Northern Ireland. Always ask the hospital for their specific local policy.
 
 ## Additional Resources
-- https://www.nhs.uk/tests-and-treatments/do-not-attempt-cardiopulmonary-resuscitation-dnacpr-decisions/
-- https://www.gmc-uk.org/professional-standards/the-professional-standards/treatment-and-care-towards-the-end-of-life
-- https://www.gmc-uk.org/-/media/documents/treatment-and-care-towards-the-end-of-life---english-1015_pdf-48902105.pdf
-- https://www.resus.org.uk/respect/respect-patients-and-carers
-- https://www.gov.uk/government/publications/independent-mental-capacity-advocates/making-decisions-the-independent-mental-capacity-advocate-service-web-version
-- https://www.england.nhs.uk/patient-safety/marthas-rule/
-- https://www.nhs.uk/service-search/other-health-services/patient-advice-and-liaison-services-pals/
+- https://www.nhs.uk/tests-and-treatments/end-of-life-care/what-to-expect-from-care/
+- https://www.nhs.uk/tests-and-treatments/end-of-life-care/where-you-can-have-care/hospital-care/
+- https://www.nhs.uk/social-care-and-support/making-decisions-for-someone-else/mental-capacity-act/
+- https://www.nhs.uk/tests-and-treatments/end-of-life-care/planning-ahead/lasting-power-of-attorney/
+- https://compassionindying.org.uk/how-we-can-help/making-decision-someone-else/

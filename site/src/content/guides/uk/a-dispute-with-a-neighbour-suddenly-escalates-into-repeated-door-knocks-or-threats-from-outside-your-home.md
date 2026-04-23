@@ -1,70 +1,85 @@
-﻿---
+---
 title: "What to do if… a dispute with a neighbour suddenly escalates into repeated door knocks or threats from outside your home"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - neighbour dispute escalated
-  - neighbour threatening my home
-  - repeated door knocking
-  - threats from outside my door
-  - intimidation at my front door
-  - someone banging on my door
-  - neighbour harassment at home
-  - feeling unsafe in my house
-  - doorstep confrontation
-  - verbal threats outside home
-  - neighbour shouting outside
-  - fear of forced entry
-  - hostile neighbour incident
-  - antisocial behaviour outside home
-  - late night door knocks
-  - neighbour intimidation pattern
-  - boundary dispute turned hostile
-  - protecting myself at home
-  - urgent home safety steps
-  - logging threatening incidents
-last_reviewed: "2026-01-10"
+  - "dispute with a neighbour"
+  - "neighbour dispute escalated"
+  - "repeated door knocks"
+  - "threats from outside my home"
+  - "what do i do if my neighbour is threatening me"
+  - "what do i do if someone is banging on my door"
+  - "what do i do if i feel unsafe in my house"
+  - "what do i do if a neighbour is harassing me"
+  - "help i am being threatened at my door"
+  - "help i have an aggressive neighbour"
+  - "help i am scared to open my door"
+  - "help i am being intimidated at home"
+  - "shouting outside my door"
+  - "banging on front door"
+  - "verbal abuse from neighbour"
+  - "someone kicking my door"
+  - "neighbour harassment at home"
+  - "antisocial behaviour uk"
+  - "asb case review trigger"
+  - "reported threats to police"
+  - "feeling targeted at home"
+  - "doorstep confrontation"
+  - "hostile neighbour incident"
+  - "security at front door"
+  - "incident reference number"
+  - "landlord asb report"
+  - "evidence log for harassment"
+  - "silent 999 call uk"
+  - "police 101 reporting"
+  - "neighbour dispute threats"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a dispute with a neighbour suddenly escalates into repeated door knocks or threats from outside your home (UK)
 
 ## Short answer
-Stay inside with the door locked and do not engage face-to-face. If someone is in immediate danger or a crime is happening right now (for example, threats of violence or attempts to force entry), call 999.
+Stay inside with the door locked and do not open it under any circumstances. If there are threats of violence, attempts to force entry, or you feel in immediate danger, call **999** immediately.
 
 ## Do not do these things
-- Do not open the door “to calm it down” or step outside to argue.
-- Do not threaten back, shout through the door, or escalate with insults.
-- Do not follow them outside, film them in a way that puts you at risk, or try to physically block them.
-- Do not assume it’s “just a neighbour dispute” if there are threats, attempts to force entry, or you feel unsafe.
-- Do not post about it live on social media or message mutual neighbours in the moment.
+- Do not open the door to "talk it out" or "calm things down" while the person is aggressive.
+- Do not shout back through the door or engage in a verbal argument.
+- Do not step outside to film the person or confront them.
+- Do not assume that because they are a neighbour, the police will not treat it as a crime.
+- Do not retaliate by banging on walls or using your own threats.
 
 ## What to do now
-1. **Create a safer pause inside.** Lock the door, close accessible windows, and move away from the doorway and ground-floor windows. If you can, go to a room with a second exit and keep your phone with you.
-2. **Decide whether this is a 999 situation.** Call **999** if a crime is in progress or someone is in immediate danger (including threats of violence, attempts to force entry, or you feel unsafe right now).
-3. **If you can’t speak safely, don’t force it.** If talking could escalate things (for example, they can hear you through the door), you can still call **999** and follow the operator’s prompts.
-4. **If it’s not immediate danger, report it promptly as it happens.** Call **101** (or use your local police force’s online contact options) to report threats, repeated intimidation, or antisocial behaviour so there is an official record and an incident reference number.
-5. **Say as little as possible through the door.** If you must respond, keep it to one line such as: “I’m not opening the door. Please leave.” Then stop engaging.
-6. **Make one calm evidence note while it’s fresh.** Write down the time, what was said (as exactly as you can), how long it lasted, and any witnesses (even if they only heard it). If it’s safe, save any doorbell camera footage—do not put yourself at the doorway to capture new footage.
-7. **Loop in the right property channel if relevant.** If you rent or have a housing association/management company, report it to them as an urgent neighbour safety issue and ask how they want incidents logged.
-8. **If this is becoming persistent, use the multi-agency ASB route.** If you’ve reported antisocial behaviour to the police/council/housing provider and it keeps happening, you can ask for an **anti-social behaviour (ASB) case review** (formerly called the “community trigger”), if your local threshold is met.
+1. **Secure your immediate environment.** Lock the front and back doors, close all ground-floor windows, and move to a room where you are not visible from the street or the doorway.
+2. **Call 999 if the situation is active and threatening.** Dial **999** if the neighbour is attempting to enter, making specific threats to harm you, or if you are terrified for your safety.
+3. **Use the "Silent Solution" if you cannot speak safely.** If you are worried the neighbour will hear you calling the police through the door:
+   - Call **999** from a mobile.
+   - Listen to the operator.
+   - **Press 55** when prompted to let them know it is a genuine emergency.
+4. **Use 101 or online reporting for non-emergencies.** If the neighbour has left but the behaviour was intimidating or a pattern is forming, report it to the police to obtain an incident reference number.
+   - Keep a record of every reference number provided.
+5. **Give a single, firm instruction only if necessary.** If you feel you must speak, say once through the closed door: "I am not opening the door; please leave my property now," then cease all communication.
+6. **Capture evidence without physical exposure.** If you have a doorbell camera or CCTV, save the footage immediately.
+   - Do not approach the door or window to take photos or videos with a handheld device while the person is outside.
+7. **Contact your housing provider if you are a tenant.** Report the incident to your local council or housing association as "High Level Antisocial Behaviour" and provide the police incident numbers.
+   - Under 2026 regulations, housing providers have specific duties to investigate persistent harassment between tenants.
+8. **Request an ASB Case Review if the situation is persistent.** If you have reported the issue at least three times in the last six months (or twice in some local areas) and no action has been taken, ask your local council for an **ASB Case Review** (formerly the Community Trigger).
 
 ## What can wait
-- You do not need to decide tonight whether to move, start a civil claim, or “solve” the underlying neighbour dispute.
-- You do not need to write a perfect statement now—just capture basic facts and get an incident logged.
-- You do not need to confront them, mediate, or explain your side in the moment.
+- You do not need to decide whether you want to move house or sell your property right now.
+- You do not need to seek legal advice or start a civil claim for harassment today.
+- You do not need to provide a full, detailed witness statement until the immediate threat has passed.
 
 ## Important reassurance
-It’s common to freeze, shake, or feel confused when someone is threatening you at your own door. Keeping the door shut, creating distance, and getting an official record started are protective, sensible steps.
+It is normal to feel a sense of "home invasion" even if the person remains outside the door. Choosing to stay behind a locked door and calling for help is the most professional and safest response to aggression; it is not "hiding" or an overreaction.
 
 ## Scope note
-This is first-steps-only guidance for the next minutes and hours. Ongoing neighbour disputes, harassment, or antisocial behaviour may need structured support from your housing provider, local authority, or specialist advice later.
+This guide provides first-step stabilization for an active confrontation at your home. Ongoing disputes involving boundaries, noise, or property damage require separate, structured legal or mediation processes once the immediate threat of violence is removed.
 
 ## Important note
-This is general information, not legal advice. If you think you’re in immediate danger, prioritise safety and emergency help.
+This information is for guidance only and does not constitute legal advice. In any situation involving a risk of physical harm or a crime in progress, your primary point of contact must be the emergency services.
 
 ## Additional Resources
-- https://www.gov.uk/contact-police
-- https://www.police.uk/pu/contact-us/
-- https://www.gov.uk/how-report-antisocial-behaviour
+- https://www.citizensadvice.org.uk/housing/problems-with-neighbours/complaining-about-your-neighbour/
+- https://www.gov.uk/how-report-antisocial-behaviour/report-police
 - https://www.gov.uk/how-report-antisocial-behaviour/report-council
-- https://www.gov.uk/guidance/anti-social-behaviour-asb-case-review-also-known-as-the-community-trigger
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-to-do-if-youre-being-stalked-or-harassed/
+- https://www.victimsupport.org.uk/crime-info/types-crime/antisocial-behaviour/

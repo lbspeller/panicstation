@@ -1,72 +1,99 @@
-﻿---
+---
 title: "What to do if… your scheduled hours are suddenly cut to zero without clear reason"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - scheduled hours cut to zero
-  - taken off the schedule
-  - zero hour schedule
-  - hours reduced to none
-  - no shifts assigned
-  - manager stopped scheduling me
-  - sudden loss of hours
-  - work hours dropped to zero
-  - not officially fired but no hours
-  - employer gave no reason
-  - temporary layoff
-  - sent home no work available
-  - income stopped suddenly
-  - unemployment for reduced hours
-  - partial unemployment question
-  - work share program
-  - shared work unemployment
-  - told not to come in
-last_reviewed: "2026-01-07"
+  - "system error affected recorded hours"
+  - "confirm your attendance request"
+  - "work system error hours"
+  - "recorded hours correction"
+  - "attendance confirmation email"
+  - "what do i do if my hours are wrong"
+  - "what do i do if there is a system error"
+  - "what do i do if i am asked to confirm attendance"
+  - "what do i do if payroll is wrong"
+  - "help i have missing hours"
+  - "help i cannot confirm my attendance"
+  - "help i need to fix my timesheet"
+  - "help i was told there was a system error"
+  - "my recorded hours are missing"
+  - "my attendance record is incorrect"
+  - "my employer asked to confirm hours"
+  - "incorrect recorded hours notification"
+  - "system error attendance mismatch"
+  - "payroll error recorded hours"
+  - "timecard system error help"
+  - "missing clock-in recorded hours"
+  - "confirming attendance after error"
+  - "affected recorded hours dispute"
+  - "attendance verification request"
+  - "timesheet error recorded hours"
+  - "payroll hours mismatch error"
+  - "work attendance system glitch"
+  - "recorded hours not showing up"
+  - "confirming attendance for payroll"
+  - "system error work hours"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your scheduled hours are suddenly cut to zero without clear reason (USA)
 
 ## Short answer
-Act as if you’ve been laid off: get your status in writing and file for unemployment through your state as soon as you reasonably can.
+Communicate in writing that you will help reconcile the record, but request the specific data for the affected dates and do not approve any timecard that you know or suspect is inaccurate.
 
 ## Do not do these things
-- Do not assume you’re “not eligible” for unemployment just because you weren’t formally fired.
-- Do not resign in anger — it can complicate unemployment eligibility.
-- Do not do unpaid work (even “quick” texts, emails, or tasks) while your hours/pay are zero — clarify whether it’s paid and document requests.
-- Do not wait weeks for things to “sort themselves out” before you apply for benefits.
-- Do not rely on verbal promises like “we’ll put you back on soon” without a written note.
+- Do not guess your start and stop times if you are unsure of the exact minutes.
+- Do not approve a full pay period in a digital system just to clear a notification if any part of it is wrong.
+- Do not ignore the request, as this may delay your paycheck or be flagged as a performance issue.
+- Do not enter "placeholder" times or made-up punches to bypass a system error.
+- Do not provide personal data such as full GPS history or private bank statements unless strictly required and legally vetted.
+- Do not treat the request as a personal accusation; keep all interactions focused on data and documentation.
 
 ## What to do now
-1. **Save proof of the change today.** Screenshot the schedule showing zero hours, keep texts/emails, and gather recent pay stubs showing your normal hours.
-2. **Ask for a written status update from your employer (one short message).** Ask:
-   - are you **still employed** or **laid off**
-   - is this **temporary**, and what is the **expected return date** (if any)
-   - whether you should **remain available** for shifts
-   - what happens to **benefits** (especially health insurance) if hours stay at zero
-3. **File for unemployment with the state where you worked — promptly.** States run unemployment and rules vary, but applying early helps protect your start date. Use your state unemployment agency (CareerOneStop’s unemployment finder is a reliable route to the correct state office).
-4. **Ask about Work Share / Short-Time Compensation (STC).** Some states have “work sharing” programs that can pay partial unemployment when an employer reduces hours instead of doing layoffs. These programs often require employer participation, so ask HR/management directly.
-5. **If you are salaried/exempt, be careful about any work you perform.** Subject to limited exceptions, salary-basis rules generally mean that if an exempt employee performs **any** work in a workweek, they must be paid their **full** salary for that week. If your employer says your pay is stopping, make sure you are not being asked (explicitly or implicitly) to keep working — and keep a written record of any work requests.
-6. **Protect your health coverage.** If a reduction in hours causes you to lose employer health coverage, you may have COBRA continuation rights. Ask HR/benefits for the COBRA notice/election paperwork and the date coverage changes.
-7. **If something feels targeted or retaliatory, document it — quietly.** Write down dates, who said what, and any recent issues (wage complaints, safety concerns, discrimination concerns, leave requests). You can decide later whether to escalate.
+1. **Identify the specific cues that indicate a record problem.** Look for:
+   - automated emails stating a "sync error" or "missing punch"
+   - timecards showing 0.00 hours for days you were physically present
+   - manager requests to "sign off" on a blank or clearly incorrect day
+   - internal notifications regarding a server outage or clock-out failure
+2. **Request a written summary of the specific dates and times in question.** **Ask your supervisor or payroll department to clarify exactly which shifts were lost or corrupted.**
+   - request the date range affected
+   - ask for a copy of the "exception report" or the current corrupted record
+3. **Gather independent evidence of your attendance for those specific dates.** **Compile a list of timestamps from external sources that prove you were working.**
+   - sent email timestamps
+   - badge swipe logs from security or building entry
+   - digital chat logs (Slack, Teams, or internal messaging)
+   - work-related travel receipts or parking logs
+   - call logs or task-completion timestamps in a CRM or ticketing system
+4. **Draft a formal response providing your reconstructed hours.** **Submit your correction in writing rather than verbally to ensure a paper trail exists.**
+   - list each affected day clearly
+   - provide your start time, end time, and unpaid break durations
+   - note any specific times you are estimating and ask the employer to verify these against server logs
+5. **State clearly that you will approve the timecard only once it is corrected.** **Inform payroll that you cannot verify the current record because it contains inaccuracies due to the system error.**
+   - if the software requires a "comment," paste your corrected hours into that field before saving
+   - take a screenshot of any correction you submit within the timekeeping portal
+6. **Verify the timeline for payroll adjustments.** **Ask when the corrected hours will be reflected on your pay stub and whether an "off-cycle" check is available if the error causes a delay.**
+   - confirm if the fix will appear on the next scheduled payday or a separate adjustment
+7. **Maintain a personal file of all correspondence regarding the error.** **Keep copies of the original error notification, your response, and any confirmation that the record has been updated.**
+   - save these files outside of your work computer or cloud storage
+8. **Contact the U.S. Department of Labor (DOL) if the error is not corrected or results in unpaid wages.** **Call the Wage and Hour Division (WHD) at 1-866-4-USWAGE (1-866-487-9243) for guidance if your employer refuses to fix the record.**
+   - you may also check with your state’s labor agency for additional local protections regarding wage theft or recordkeeping violations
 
 ## What can wait
-- You do **not** need to decide today whether to sue, contact a lawyer, or file an agency complaint.
-- You do **not** need to argue about the “real reason” right now — first lock down your paperwork, employment status, and benefits.
-- You do **not** need to negotiate a new schedule immediately — your priority is preserving income and eligibility while facts are still clear.
+- You do not need to decide whether to file a formal legal claim today; the priority is correcting the record.
+- You do not need to provide proof for every single minute of the day immediately if you have a general confirmation of attendance and shift duration.
+- You do not need to worry about the technical cause of the "system error" as that is the employer's responsibility to manage under the Fair Labor Standards Act (FLSA).
 
 ## Important reassurance
-A zero-hour schedule can feel like being erased overnight. Taking calm, administrative steps (written status + state unemployment filing + benefits check) is a fast way to regain control without making things worse.
+System glitches, server outages, and software errors are common in modern workplaces. Requesting an accurate record before signing is a standard professional practice, not a sign of being difficult. Under federal law, employers are required to maintain accurate records of hours worked for non-exempt employees, and you have the right to ensure those records reflect reality.
 
 ## Scope note
-This is first-step guidance for the first hours/days. If the zero-hour schedule continues, next steps depend heavily on your state, your pay type (hourly vs salaried), and whether you’re in a union or under a contract.
+This is first-step guidance only. It is intended to stabilize a payroll discrepancy and prevent the accidental approval of incorrect hours. If your employer refuses to pay for confirmed time worked or if this is a recurring issue, you may need to consult a labor attorney or your state's labor department.
 
 ## Important note
-This is general information, not legal advice. Unemployment and some worker protections are state-specific, and deadlines/eligibility can differ by state and situation.
+This guide provides general information regarding U.S. employment and recordkeeping norms and is not legal advice. Rules regarding payroll corrections can vary significantly by state and according to whether you are classified as exempt or non-exempt under the FLSA. Always prioritize written communication when dealing with wage and hour discrepancies.
 
 ## Additional Resources
-- https://www.dol.gov/general/topic/unemployment-insurance
-- https://www.careeronestop.org/LocalHelp/UnemploymentBenefits/find-unemployment-benefits.aspx
-- https://oui.doleta.gov/unemploy/docs/stc_fact_sheet.pdf
-- https://www.dol.gov/agencies/whd/fact-sheets/17g-overtime-salary
-- https://www.law.cornell.edu/cfr/text/29/541.602
-- https://www.dol.gov/general/topic/health-plans/cobra
+- https://www.dol.gov/agencies/whd/fact-sheets/70-flsa-furloughs
+- https://www.worker.gov/wages-and-working-conditions/
+- https://www.dol.gov/agencies/whd/retaliation
+- https://www.nlrb.gov/about-nlrb/rights-we-protect/our-enforcement-activity/protected-concerted-activity
+- https://www.worker.gov/protection-against-retaliation/

@@ -1,73 +1,88 @@
-﻿---
+---
 title: "What to do if… you develop sudden testicular pain or swelling that is new"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - sudden testicular pain
-  - new testicle swelling
-  - sudden scrotal pain
-  - acute scrotum
-  - one testicle hurts suddenly
-  - severe groin pain male
-  - twisted testicle worry
-  - testicle pain with nausea
-  - testicle pain vomiting
-  - one testicle higher than usual
-  - sudden scrotum swelling one side
-  - testicle pain after sleep
-  - intermittent testicle pain stopped
-  - tender swollen testicle
-  - sudden ball pain
-  - new lump and pain in testicle
-  - pain in testicle and lower tummy
-last_reviewed: "2026-01-21"
+  - "sudden testicular pain"
+  - "new testicle swelling"
+  - "sudden scrotal pain"
+  - "acute scrotum"
+  - "one testicle hurts suddenly"
+  - "severe groin pain male"
+  - "twisted testicle worry"
+  - "testicle pain with nausea"
+  - "testicle pain vomiting"
+  - "one testicle higher than usual"
+  - "sudden scrotum swelling one side"
+  - "testicle pain after sleep"
+  - "intermittent testicle pain stopped"
+  - "tender swollen testicle"
+  - "sudden ball pain"
+  - "new lump and pain in testicle"
+  - "pain in testicle and lower tummy"
+  - "help i have sudden ball pain"
+  - "help i have testicle swelling"
+  - "my testicle is swollen and hurts"
+  - "my balls hurt suddenly"
+  - "what do i do if my testicle hurts"
+  - "what do i do if my scrotum is swollen"
+  - "what do i do if i have sudden groin pain"
+  - "what do i do if one testicle is higher"
+  - "testicle feels like it twisted"
+  - "sudden ache in scrotum"
+  - "visible redness on scrotum"
+  - "testicle pain that won't stop"
+  - "pain in balls after waking up"
+  - "swollen ball one side"
+  - "testicle pain when sitting"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you develop sudden testicular pain or swelling that is new (UK)
 
 ## Short answer
-Treat new sudden testicular pain or swelling as an emergency until proven otherwise. Go to A&E now (or call 999 if you can’t get there safely).
+Go to the nearest A&E department immediately or call 999 for an ambulance. Sudden testicular pain is a medical emergency that requires assessment within minutes to prevent permanent damage.
 
 ## Do not do these things
-- Do not “wait and see” if the pain is sudden, severe, or lasts more than an hour.
-- Do not drive yourself to A&E if you’re in severe pain, dizzy, or unwell—get someone to take you or call 999.
-- Do not try to “push,” twist, or massage anything back into place.
-- Do not use heat (hot bath/heat pack) to “relax it” — it can waste time.
-- If you can, **avoid eating or drinking on the way to hospital** in case you need an urgent procedure (follow the hospital’s instructions when you arrive).
-- Do not assume you’re safe because the pain eased or went away—this can still need urgent assessment.
+- Do not drive yourself to the hospital—get someone to take you or call 999.
+- Do not wait to see if the pain improves, even if it is currently bearable.
+- Do not eat or drink anything on the way to the hospital in case you need surgery.
+- Do not attempt to move, massage, or "untwist" the testicle yourself.
+- Do not use ice packs or heat pads on the area.
+- Do not assume the issue is resolved if the pain suddenly stops—this can sometimes happen when a testicle is dying.
 
 ## What to do now
-1. **Get urgent medical help now.**
-   - **Go to A&E immediately** for sudden pain, significant swelling, pain with nausea/vomiting, tummy/lower abdominal pain, or pain lasting **more than an hour**.
-   - **Call 999** if you can’t get to A&E safely, the pain is extreme, you faint/feel faint, or you’re alone and struggling.
-2. **Tell triage clearly:** “**New sudden testicular pain/swelling**” and **when it started** (time matters). Mention nausea/vomiting, tummy/lower abdominal pain, fever, urinary burning, or discharge.
-3. **Arrange safe transport and bring essentials.**
-   - Ask a trusted person to take you. If that’s not possible, call **999**.
-   - Bring a list of medicines/allergies, and your phone/charger.
-4. **While waiting for transport (only if it won’t delay you leaving):**
-   - Lie down, keep movements minimal, and **support the scrotum** with snug underwear or a folded towel.
-   - If these are usually safe for you, you may take **paracetamol or ibuprofen** as directed on the packet. **Do not delay going to A&E** to do this.
-5. **If the symptoms are new but NOT sudden/severe (and you’re otherwise well):**
-   - **Call NHS 111** for urgent advice or contact your GP for a same-day assessment.
-   - If it becomes sudden/severe, or you feel sick/are sick, or you get tummy pain, **go straight to A&E**.
+1. **Get to A&E or call 999 immediately.**
+   - **Go straight to emergency care** if the pain is sudden and severe.
+   - **Call 999** if you are unable to walk, feel faint, or have no safe way to get to the hospital.
+2. **Alert the hospital staff to a time-critical emergency.**
+   - **State clearly that you have "new sudden testicular pain"** or a "sudden swelling."
+   - **Confirm the exact time the pain started** so the medical team can prioritize your assessment.
+3. **Identify accompanying emergency symptoms.**
+   - **Inform staff if you also have tummy (abdominal) pain**, nausea, or have been sick (vomited).
+   - **Note if one testicle looks higher than usual** or is sitting at a different angle.
+4. **Remain stationary and minimal in movement.**
+   - **Sit or lie down** while waiting for transport to avoid further irritation or movement of the scrotum.
+5. **Prepare for immediate assessment.**
+   - **Have a list of current medications** or any allergies ready for the triage nurse.
+   - **Keep your phone charged** and stay with a trusted person if possible.
 
 ## What can wait
-- You do not need to decide what the cause is right now.
-- You do not need to book a GP appointment first if symptoms are sudden/severe.
-- You can deal with work messages and online searching later—focus on being assessed.
+- You do not need to contact your GP or wait for a return call from 111.
+- You do not need to identify the cause of the pain yourself.
+- You do not need to worry about explaining the situation to anyone other than medical staff.
 
 ## Important reassurance
-This is a common reason people attend emergency care, and staff are used to dealing with it professionally and quickly. Feeling embarrassed is normal, but getting checked promptly is the safest move.
+Medical professionals in A&E deal with sudden testicular pain regularly; it is a standard emergency protocol. While the situation is urgent, the hospital is the safest place to be, and staff will prioritize your privacy while working quickly to help you.
 
 ## Scope note
-This guide covers first steps for the next few hours. After urgent assessment, you may be given follow-up instructions (for example, with a urology team or your GP).
+This guide is for first-step emergency stabilization only. It addresses the immediate actions required when sudden pain or swelling occurs and does not cover long-term recovery or non-urgent urological issues.
 
 ## Important note
-This is general information, not a diagnosis. New sudden testicular pain or swelling can be caused by conditions that need urgent hospital treatment. If you are in immediate danger, call 999.
+Sudden testicular pain can indicate testicular torsion, where the blood supply is cut off. If this is not treated within 6 hours, the testicle may be permanently lost. This guide is for information purposes and is not a substitute for professional medical emergency intervention.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/testicle-pain/
 - https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/
-- https://cks.nice.org.uk/topics/scrotal-pain-swelling/management/testicular-torsion/
-- https://www.cuh.nhs.uk/patient-information/testicular-torsion-information-for-teenagers/
 - https://www.nhs.uk/conditions/epididymitis/
+- https://111.wales.nhs.uk/selfassessments/symptomcheckers/?scname=TesticularPainorSwelling&sctid=211
+- https://www.nhsinform.scot/illnesses-and-conditions/sexual-and-reproductive/testicular-lumps-and-swellings/

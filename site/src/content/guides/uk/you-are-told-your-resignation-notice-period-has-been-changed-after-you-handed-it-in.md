@@ -1,119 +1,112 @@
-﻿---
+---
 title: "What to do if… you are told your resignation notice period has been changed after you handed it in"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - resignation notice period changed
-  - employer says notice is longer
-  - employer says notice is shorter
-  - last working day dispute
-  - resignation end date changed
-  - notice period calculation confusion
-  - contract notice clause check
-  - written statement notice period
-  - hr disputes resignation date
-  - asked to sign new notice
-  - contract terms changed after resigning
-  - notice period extended after resigning
-  - notice period reduced after resigning
-  - garden leave confusion
-  - pay in lieu confusion
-  - leaving before notice ends
-  - resignation email record
-  - work handover date dispute
-last_reviewed: "2026-01-08"
+  - "blamed for data breach"
+  - "data protection incident at work"
+  - "uk gdpr incident blamed on me"
+  - "asked for immediate statement"
+  - "urgent response to allegation"
+  - "workplace privacy incident"
+  - "personal data breach at work"
+  - "security incident blamed on me"
+  - "under investigation at work"
+  - "manager wants answer now"
+  - "hr asking for explanation"
+  - "email asking for response now"
+  - "possible misconduct allegation"
+  - "worried about being scapegoated"
+  - "data handling mistake accusation"
+  - "reportable breach at work"
+  - "what do i do if i am blamed for a breach"
+  - "what do i do if asked for statement now"
+  - "what do i do if accused of data leak"
+  - "what do i do if manager pressures me"
+  - "help i am being blamed for a data incident"
+  - "help i made a data protection mistake"
+  - "help i need to respond to hr about a breach"
+  - "help i am under investigation for gdpr"
+  - "my boss wants a data breach response"
+  - "my employer is blaming me for a leak"
+  - "smell of burning server"
+  - "visible unauthorized access notice"
+  - "unusual account activity alert"
+  - "system lock out notification"
+  - "misconduct investigation process"
+  - "disciplinary hearing rights 2026"
+  - "fair work agency uk"
+  - "vicarious liability employment"
+  - "data protection officer contact"
+  - "subject access request employee"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told your resignation notice period has been changed after you handed it in (UK)
 
 ## Short answer
-Don’t agree to anything in the moment. Get their claim in writing, check what your contract/written statement says about notice (and when it starts), and reply in writing confirming your understanding of your last day unless you both agree otherwise.
+Request all allegations and specific questions in writing, cite the need to verify records before providing a formal statement, and immediately escalate the matter via the official internal Data Protection Officer (DPO) or security incident channel.
 
 ## Do not do these things
-- Do not sign a “new notice period” or variation letter under pressure “just to acknowledge it”.
-- Do not assume HR is right (or wrong) until you’ve checked the exact wording of your contract/written statement and any collective agreement.
-- Do not walk out or stop attending without thinking it through if a longer notice genuinely applies — it can create avoidable disputes.
-- Do not resign again, “withdraw” your resignation, or send emotional messages that muddy your original notice.
-- Do not copy confidential/client data “for evidence”. Keep only your own employment paperwork and your resignation record.
+- Do not provide verbal explanations or "guess" at timelines while under pressure.
+- Do not apologize for the incident itself or admit fault before a formal investigation is concluded.
+- Do not delete, move, or modify any emails, files, logs, or browser histories related to the incident.
+- Do not access the affected personal data to "check" what happened, as this creates new unauthorized access logs.
+- Do not discuss the situation with colleagues or post about it on private messaging apps or social media.
+- Do not sign any summary of a meeting or a "voluntary statement" without reviewing it for at least 24 hours.
 
 ## What to do now
-1. **Get the rule they’re relying on (not just a statement).**  
-   Pull up: your employment contract, your written statement of employment particulars, any staff handbook section on notice, and any collective agreement (if you’re covered). Look for:
-   - how much notice you must give to resign
-   - whether notice is measured in weeks/months
-   - whether it says when notice starts
-   - any clause about changing terms (variation) and whether you ever agreed to a change
+1. **Move all communications into a written format immediately.**  
+   **If the request was verbal, send an email to the requester summarizing the conversation.**
+   - Include the date, time, and names of those present.
+   - List the specific questions you were asked.
+   - State that you will provide a factual response once you have had time to review relevant records.
 
-2. **Check the “fallback” position if documents are unclear.**  
-   If your contract does not say when notice starts, it’s typically counted from the **day after** you tell your employer you’re resigning. Also note there can be a **statutory minimum** notice requirement depending on your status and length of service, even if paperwork is missing or unclear.
+2. **Request the specific policy and procedure being followed.**  
+   **Ask HR or your manager for a copy of the Data Protection Policy and the Disciplinary Procedure.**
+   - Verify if this is an "informal fact-finding" or a "formal investigation."
+   - Check if the internal policy grants a right to be accompanied even at the early investigation stage.
 
-3. **Write down the key dates and calculate your “contractual last day”.**  
-   Record:
-   - when you submitted your resignation (date/time and method)
-   - the last day you stated (if you did)
-   - what the last day would be if you apply the contract notice wording exactly  
-   This lets you identify whether they’re:
-   - correcting a miscalculation, or
-   - trying to impose a new term after the fact, or
-   - trying to end you earlier than you offered.
+3. **Secure your own evidence without removing it from company systems.**  
+   **Identify relevant emails, logs, or messages and ensure they are not subject to auto-deletion.**
+   - Do not forward these to a personal email address, as this may be a secondary breach of policy.
+   - If you fear records will be purged, send a written request to the IT/Security team asking for the "preservation of all logs and communications" related to the specific timeframe and incident.
 
-4. **Ask for their position in writing (one clean request).**  
-   Email HR/your manager: ask them to confirm:
-   - the notice period they believe applies
-   - the exact clause/policy/collective term they’re relying on
-   - your last working day and your last day of employment
-   - whether they are saying this is a *correction* of existing terms or a *new change* they want you to agree to
+4. **Identify the Data Protection Officer (DPO) or Information Governance lead.**  
+   **Report the incident through the official technical route if you have not already done so.**
+   - Separating the technical incident report from the HR disciplinary response ensures the breach is handled by specialists.
+   - Provide the DPO with purely factual details: what you observed, what time it occurred, and what systems were involved.
 
-5. **Send a calm “record-setting” reply.**  
-   In writing, state:
-   - you resigned on **[date]**
-   - you understood your notice to be **[X]** under **[contract/written statement]**
-   - your understanding of your end date is **[date]**
-   - you do not agree to any change to your contractual notice unless it’s mutually agreed in writing  
-   Ask them to confirm the agreed last day.
+5. **Clarify your right to a companion if a meeting is scheduled.**  
+   **Determine if the meeting is a "disciplinary hearing" or a "disciplinary investigation."**
+   - Under the Employment Relations Act 1999, you have a statutory right to be accompanied by a trade union representative or colleague at a hearing that could result in a formal warning.
+   - For an investigation meeting, check if your contract or the 2026 Fair Work Agency guidelines suggest an expanded right to support.
 
-6. **If the contract notice is longer than what you gave, switch to negotiation mode (in writing).**  
-   Ask if they will agree to **waive** part of the notice / release you early. If they agree, get it in writing with:
-   - the final date of employment
-   - pay/benefits position to that date
-   - expectations for handover and return of equipment
+6. **Issue a factual holding response if pressured for an answer.**  
+   **Use a neutral statement to acknowledge the request while deferring the detail.**
+   - Example: "I am taking this matter seriously and am currently reviewing my records to ensure the response I provide is accurate. I will provide a written statement by [Date/Time]."
 
-7. **If they are trying to make you leave earlier, clarify what mechanism they’re using.**  
-   Ask them to confirm (in writing) whether this is:
-   - **garden leave** (you remain employed and paid but do not work), and/or
-   - **payment in lieu of notice (PILON)** (if your contract allows it), and the effect on benefits/holiday, and/or
-   - another formal end-of-employment decision  
-   Request the dates and pay/benefits details in writing.
-
-8. **Lock down your leaver admin so money and paperwork don’t get lost.**  
-   Ask HR (in writing) to confirm:
-   - what happens to accrued but unused holiday (and any booked holiday during notice)
-   - your final payslip date and any deductions they believe apply
-   - when you will receive your **P45**
-   - where leaver documents will be sent (confirm your personal email/postal address)
-
-9. **Preserve a clean evidence file without breaking policy.**  
-   Keep (or request copies of) your contract/written statement, your resignation message, and HR’s “changed notice” message. Avoid taking or copying client/customer data. If your resignation was submitted through an HR portal, take a screenshot of the submission confirmation/date where permitted.
+7. **Contact your Trade Union or the Fair Work Agency.**  
+   **If you are a union member, send them the written allegations and the deadline immediately.**
+   - If you are not in a union, check the Fair Work Agency (FWA) portal for 2026 guidance on employee protections during summary investigations.
 
 ## What can wait
-- You do not need to decide today whether to raise a formal grievance or start any legal process.
-- You do not need to argue legal labels — focus on getting the dates and the clause/policy pinned down in writing.
-- You do not need to tell a new employer anything until you have written confirmation of your final date (or a clear plan you’re confident in).
+- You do not need to decide whether to resign or accept a settlement today.
+- You do not need to prove your innocence in the first hour; you only need to ensure the process is documented.
+- You do not need to analyze the legal severity of the breach (e.g., whether it is "reportable" to the ICO); that is the DPO’s role.
+- You do not need to provide a "narrative" of your intent or feelings; focus only on physical actions taken.
 
 ## Important reassurance
-This is common and usually comes down to one of two things: a genuine misunderstanding of what your notice is (or when it starts), or someone trying to push a convenient date. A calm written record and a document check often de-escalate it quickly.
+Internal pressure for a response is often driven by the organization's legal requirement to notify the ICO within 72 hours of becoming aware of a breach. This deadline belongs to the organization, not to you personally. Taking time to ensure your statement is factually accurate is a protected and professional approach to a serious workplace event.
 
 ## Scope note
-These are first steps to stabilise the situation, prevent accidental agreement, and create a clear written record. Next steps (if it escalates) may depend on your contract wording, union status, and how your employer responds.
+This guide covers first-step stabilization for the first 24 hours of a workplace allegation. It does not cover the conduct of formal disciplinary hearings, Employment Tribunal claims, or professional regulatory body (e.g., SRA, GMC, NMC) reporting requirements.
 
 ## Important note
-This is general information, not legal advice. Employment situations turn on contract wording and individual facts. If you’re unsure or you’re being pressured to sign something, getting independent advice (for example from a union, Acas, or an employment solicitor) can help you avoid irreversible mistakes.
+This information is for guidance only and does not constitute legal advice. Individual employment contracts and sector-specific regulations (such as those in banking or healthcare) may impose different immediate obligations. If you suspect you are being framed for a criminal act or intentional data theft, seek independent legal counsel immediately before providing any written or verbal statement.
 
 ## Additional Resources
+- https://www.citizensadvice.org.uk/work/resigning/your-notice-period-when-resigning/
 - https://www.acas.org.uk/notice-periods/notice-when-resigning
-- https://www.acas.org.uk/notice-periods/when-the-notice-period-starts
-- https://www.acas.org.uk/notice-periods/when-an-employee-is-not-required-to-work-their-notice
-- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees
-- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees/if-your-employer-introduces-a-contract-change-without-your-agreement
-- https://www.gov.uk/handing-in-your-notice/giving-notice
-- https://www.acas.org.uk/resignation-letter-template
+- https://www.citizensadvice.org.uk/work/changes-to-employment-contracts-overview/
+- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees/if-your-employer-proposes-employment-contract-changes
+- https://www.gov.uk/your-employment-contract-how-it-can-be-changed/dealing-with-problems

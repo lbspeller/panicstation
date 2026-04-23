@@ -1,79 +1,85 @@
-﻿---
+---
 title: "What to do if… an extension cord or power strip becomes hot, soft, or discoloured while in use"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - extension lead getting hot
-  - power strip getting hot
-  - extension cord feels hot
-  - extension lead soft or melting
-  - power strip discoloured
-  - scorch marks on extension lead
-  - burning smell from extension lead
-  - hot plug top
-  - hot wall socket
-  - overloaded extension lead
-  - daisy chained extensions
-  - coiled cable reel overheating
-  - heater on extension lead
-  - kettle on extension lead
-  - air fryer on extension lead
-  - surge protector overheating
-  - tripped fuse extension lead
-  - suspected electrical fire risk
-  - extension lead under carpet
-  - plug sparking in socket
-last_reviewed: "2026-03-04"
+  - "extension lead getting hot"
+  - "extension lead melting"
+  - "hot multi-way adapter"
+  - "plug socket discoloured"
+  - "scorched extension lead"
+  - "burning smell from plug"
+  - "extension lead soft plastic"
+  - "hot wall socket UK"
+  - "overloaded extension lead symptoms"
+  - "daisy chained extension risk"
+  - "coiled cable reel overheating"
+  - "heater on extension lead danger"
+  - "kettle on extension lead heat"
+  - "air fryer extension lead hot"
+  - "power strip getting hot UK"
+  - "what do i do if extension lead is hot"
+  - "what do i do if plug is melting"
+  - "what do i do if socket smells like fish"
+  - "what do i do if extension lead is discoloured"
+  - "help i smell burning from my plug"
+  - "help i overloaded my extension lead"
+  - "my extension lead is warm"
+  - "my plug has brown marks"
+  - "my multiway adapter is buzzing"
+  - "smoke from extension lead"
+  - "green goo in plug socket"
+  - "buzzing sound from extension"
+  - "melted plastic on lead"
+  - "brown marks on wall socket"
+  - "hot cable reel"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… an extension cord or power strip becomes hot, soft, or discoloured while in use (UK)
+
 ## Short answer
-Stop using it immediately. If it’s safe, switch off the socket and unplug at the wall (or switch off the circuit at the consumer unit) and keep the item out of service.
+Stop using the lead immediately. Switch off the power at the wall socket if safe to touch, or turn off the main power at the consumer unit (fuse box) to isolate the circuit.
 
 ## Do not do these things
-- Don’t keep “testing it” by plugging it back in to see if it heats up again.
-- Don’t touch softened/melted plastic or any exposed metal parts with bare hands.
-- Don’t try to “fix” it with tape, glue, or by replacing only the plug if the lead/strip has heated, softened, or discoloured.
-- Don’t overload it or run high-power appliances through it (commonly heaters, kettles, microwaves, air fryers, tumble dryers).
-- Don’t plug one extension lead/power strip into another (daisy-chaining).
-- Don’t leave a cable reel/drum lead coiled while in use.
-- Don’t run it under rugs, bedding, or furniture where heat and damage can build up.
-- Don’t use water on an electrical fire. If there is fire/smoke, prioritise getting out and calling 999; only use a suitable extinguisher if you are trained and it’s safe to do so.
+- Do not touch any part of the lead or plug with bare hands if the plastic appears melted or liquid.
+- Do not attempt to "test" the lead by plugging it back in after it has cooled.
+- Do not run high-power appliances (heaters, kettles, air fryers, dishwashers) through an extension lead.
+- Do not plug one extension lead into another (daisy-chaining).
+- Do not leave a cable reel or drum extension coiled while in use.
+- Do not cover extension leads with rugs, carpets, or furniture.
+- Do not use water on a suspected electrical fire or a smoking socket.
+- Do not attempt to repair a discoloured or heat-damaged lead with tape or a new plug.
 
 ## What to do now
-1. **Make a safer pause.** If you smell burning, see smoke, hear crackling/buzzing, or the strip looks like it’s melting, move people and pets away from the area.
-2. **Cut the power safely (choose the safest option):**
-   - **Best:** Switch off the socket **at the wall** (if it has a switch), then unplug by holding the plug (not the cable).
-   - **If the plug/socket area looks scorched, is sparking, or you don’t feel safe getting close:** go to the **consumer unit** and switch **off the relevant circuit** (or the main switch if unsure).
-3. **If anything is burning or heavy smoke is present, treat it as an emergency.** Leave the area if needed and **call 999**.
-4. **Let it cool safely.** Once power is off, place the extension lead/power strip on a **non-combustible surface** (tile/stone/metal sink area), away from curtains, paper, bedding, and upholstery. Let it cool untouched.
-5. **Take it out of use.** If it became **hot, soft, or discoloured**, treat it as unsafe:
-   - Bag it or label it “DO NOT USE” so nobody plugs it back in.
-6. **Quick checks to prevent repeat overheating today (no calculations needed):**
-   - Look for a **rating label** on the lead/strip (many are 13A, but some are lower). If you can’t find a rating, treat it as “unknown” and don’t reuse it.
-   - Move any **high-power appliance** off the extension lead and plug it **directly into a wall socket** where possible.
-   - If it was a **cable reel/drum lead**, note that it should be **fully unwound** during use; if it overheated, keep it out of service regardless.
-7. **If the wall socket seems involved, keep it off and escalate.** If the wall socket was hot, discoloured, loose, crackled, or smelled of burning, keep that socket switched off (or keep the circuit off) and **contact a qualified electrician**. If you rent, report it to your landlord/agent as an electrical safety issue.
-8. **Check for recalls if the product looks defective.** If the strip/lead appears poorly made, unusually light, has damage near the plug, or you’ve had repeated heat issues, check **UK product safety alerts/recalls** for the brand/model and follow any “stop using immediately” instructions.
-9. **If anyone is unwell or injured, treat that as urgent.** Burns, electrical shock symptoms, or breathing difficulty after smoke/fumes should be assessed urgently (999 for severe symptoms).
+1. **Isolate the power safely.** If the plug or lead is smoking, sparking, or too hot to touch, go directly to your consumer unit and switch off the circuit breaker for that room (or the "Main Switch" if you are unsure).
+   - If there are no sparks or active melting, switch off the socket at the wall and remove the plug.
+2. **Move people and pets away.** Ensure no one can accidentally touch the damaged equipment or the wall socket while it is cooling.
+3. **Evacuate and call 999 if fire or heavy smoke is present.** Do not attempt to fight an electrical fire yourself. 
+4. **Place the item on a safe surface to cool.** Once unplugged, move the lead to a non-combustible, non-conductive surface such as a stone floor or ceramic tile. 
+   - Avoid placing it on metal surfaces (like a sink) as these can conduct electricity if the lead has an internal fault.
+5. **Render the lead unusable.** Once cooled, cut the plug off the lead (ensure it is definitely unplugged first) or bag it and label it "DANGEROUS - DO NOT USE" to prevent someone else from plugging it in later.
+6. **Inspect the wall socket.** Look for brown scorch marks, melted plastic, or "green goo" (degraded chemical residue) inside the socket holes.
+   - If any damage is visible, keep that socket switched off and do not use it until it has been replaced by a qualified electrician.
+7. **Seek medical advice for shocks or fumes.** If you received even a minor electric shock or feel unwell after inhaling smoke, call NHS 111 for advice. Call 999 for severe burns, chest pain, or difficulty breathing.
+8. **Report to your landlord if applicable.** If you are a tenant, you must report heat damage to a fixed wall socket to your landlord or letting agent immediately, as this is an urgent electrical safety matter.
 
 ## What can wait
-- You do **not** need to work out exact wattages right now.
-- You do **not** need to decide today whether to replace sockets, rewire, or add new outlets.
-- You do **not** need to pin down the exact cause before making things safe.
+- You do not need to calculate the exact wattage of the appliances you were using right now.
+- You do not need to diagnose why the lead failed (e.g., loose connection vs. overload) before disposing of it.
+- You do not need to decide on permanent rewiring or adding new wall sockets today.
 
 ## Important reassurance
-Heat, softening, or discolouration is a clear warning sign. Stopping use quickly and isolating power is the right action and meaningfully reduces fire and shock risk.
+Heat and discolouration are early warning signs provided by the equipment’s insulation. By isolating the power and stopping use now, you have likely prevented a more serious electrical fire or shock event.
 
 ## Scope note
-These are first steps only—aimed at immediate safety and preventing repeat use. Later decisions (replacement, electrician inspection, landlord/insurance steps) can come once things are stable.
+This guide provides first-step stabilization for overheating portable electrical equipment. It does not replace a formal inspection of your home’s fixed wiring or consumer unit by a professional.
 
 ## Important note
-This is general safety information, not a substitute for a qualified electrician’s assessment. If you suspect damage to fixed wiring, or there are signs of burning/sparking, keep power off to that circuit and get professional help.
+Discolouration or softening of plastic always indicates a safety failure. Never reuse equipment that has shown these signs. If you suspect your wall sockets or consumer unit are faulty, contact a registered electrician (NICEIC, NAPIT, or SELECT).
 
 ## Additional Resources
 - https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/overloading-sockets/
 - https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/extensions-and-leads/
-- https://www.london-fire.gov.uk/safety/the-home/electrical-items/cables-fuses-and-leads/
-- https://www.kent.fire-uk.org/a-z/electricity-safety
-- https://www.gov.uk/product-safety-alerts-reports-recalls/product-safety-report-multi-socket-extension-lead-2511-0272
+- https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/plugs-and-fuses/
+- https://www.electricalsafetyfirst.org.uk/guidance/advice-for-you/home-working/
+- https://www.lichfielddc.gov.uk/community/protect-home-fires-resources/5

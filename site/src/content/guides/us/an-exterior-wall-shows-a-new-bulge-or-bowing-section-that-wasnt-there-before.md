@@ -1,78 +1,93 @@
-﻿---
+---
 title: "What to do if… an exterior wall shows a new bulge or bowing section that wasn’t there before"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - exterior wall bulge
-  - bulging outside wall
-  - bowing exterior wall
-  - wall suddenly bowing
-  - new wall bulge
-  - wall bulging brickwork
-  - wall bowing brickwork
-  - outside wall leaning
-  - wall moving outward
-  - house wall bowing
-  - sudden structural movement
-  - new crack and bulge
-  - wall bulge after rain
-  - wall bulge after freeze
-  - wall bulge after construction
-  - bulge in masonry wall
-  - bulging stucco outside
-  - bowing wall emergency
-  - exterior wall deformation
-last_reviewed: "2026-03-04"
+  - "exterior wall bulge"
+  - "bulging outside wall"
+  - "bowing exterior wall"
+  - "wall suddenly bowing"
+  - "new wall bulge"
+  - "wall bulging brickwork"
+  - "wall bowing brickwork"
+  - "outside wall leaning"
+  - "wall moving outward"
+  - "house wall bowing"
+  - "what do i do if my exterior wall is bulging"
+  - "what do i do if the wall is bowing"
+  - "what do i do if brick wall has a bump"
+  - "what do i do if stucco is pushing out"
+  - "help i see a bulge in my wall"
+  - "help i found a bowing section outside"
+  - "my house wall is curving out"
+  - "my brick wall is leaning"
+  - "wall bulge after rain"
+  - "wall bulge after freeze"
+  - "wall bulge after nearby digging"
+  - "visible wall movement"
+  - "cracking masonry bulge"
+  - "separated wall section"
+  - "imminent structural failure cues"
+  - "bulge in foundation wall"
+  - "bowing siding section"
+  - "leaning exterior surface"
+  - "wall gap appearing"
+  - "exterior wall deformation"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… an exterior wall shows a new bulge or bowing section that wasn’t there before (USA)
+
 ## Short answer
-Treat a new exterior wall bulge/bow as a potential structural failure: keep everyone away from the wall and get urgent assessment. If it seems like it could collapse soon or debris is falling, call 911.
+Evacuate the immediate area and establish a collapse zone distance equal to at least the height of the wall. Call 911 immediately if you see falling debris, hear loud structural snapping, or observe active movement in the wall section.
 
 ## Do not do these things
-- Don’t press on the wall, lean ladders on it, or try to “see how solid it is.”
-- Don’t remove masonry/stucco/siding, drill into the wall, or attempt DIY bracing unless a licensed professional instructs you.
-- Don’t keep using rooms directly next to/under the bulge if it’s actively worsening.
-- Don’t stand outside under the bulge to take close photos.
-- Don’t ignore new warning signs like fresh cracking spreading, pieces dropping, sudden sticking doors/windows, or loud cracking/creaking sounds.
+- Do not touch, press on, or lean any equipment (like ladders) against the affected wall.
+- Do not attempt to "test" the stability by hitting the wall or pulling on siding.
+- Do not enter the rooms directly behind or below the bulging section.
+- Do not stand directly under the bulge to take photographs or inspect cracks.
+- Do not attempt DIY bracing, drilling, or removal of masonry without professional oversight.
+- Do not ignore the smell of gas or the sound of hissing near the wall.
 
 ## What to do now
-1. **Make a no-go zone immediately.** Move people and pets away from the wall and the rooms closest to it. Keep people away from the outside area too (don’t stand under the bulge).
-2. **Check quickly for “call 911 now” signs.** If you see falling bricks/stucco/siding, the bulge is growing quickly, you hear repeated cracking/tearing sounds, or the wall looks like it’s pulling away from floors/roof, **leave the building** and **call 911**.
-3. **If you suspect a gas leak or another immediate utility hazard, treat it as urgent.** Get everyone out to fresh air. **If there is any immediate danger, call 911.** Also contact your **gas utility’s emergency number** (many utilities treat suspected leaks as 24/7 emergencies). Avoid anything that could spark if you smell gas.
-4. **Document from a safe distance.** Take photos/video showing:
-   - the full wall and the bulge (include something for scale),
-   - any new interior cracks near that wall,
-   - any debris on the ground,
-   - a brief note of when it started and anything that changed recently (heavy rain, freeze/thaw, nearby excavation, remodeling, impact).
-5. **Notify the responsible party right away.**
-   - **If you rent:** contact your landlord/property manager immediately and state it’s a structural safety concern.
-   - **If you’re in a condo/HOA:** notify the HOA/management and the building engineer (if there is one).
-6. **Arrange urgent professional assessment.** Ask for a **licensed structural engineer** to assess stability and immediate safety (not just a general contractor quote).
-7. **Contact your insurer early.** Report a potential structural issue to your homeowners/condo insurance, and follow their guidance on documentation and next steps.
-8. **If it may affect the public, report it to local authorities.** If the bulge threatens a sidewalk/road/neighboring property or you’re worried the structure is unsafe:
-   - contact your **city/county building department or code enforcement**,
-   - **if your area has 311,** you can use it to reach the appropriate local service line,
-   - follow any instructions about cordoning off the area or leaving the building.
+1. **Clear the immediate area and establish a collapse zone.** Ensure all people and pets are moved away from the wall, both inside and outside the building.
+   - Maintain a distance from the exterior wall equal to at least 100% of the wall's total height to avoid falling debris.
+2. **Identify immediate emergency triggers.** Call 911 if you observe any of the following:
+   - Pieces of brick, stone, or stucco falling to the ground.
+   - Loud, repeated cracking, popping, or snapping sounds coming from the structure.
+   - Visible gaps opening between the wall and the roofline or floors.
+   - Water or smoke pushing through what should be a solid masonry wall.
+3. **Assess for secondary utility hazards.** Check for signs of compromised gas, water, or electrical lines that may have been stretched or broken by the wall's movement.
+   - If you smell a "rotten egg" odor or hear hissing, evacuate the entire property and call 911 and your gas utility from a safe distance.
+   - Do not flip light switches or use cell phones if a gas leak is suspected.
+   - Look for arcing wires or sudden flooding in the basement or crawlspace near the bulge.
+4. **Document the deformation from a safe distance once the area is clear.** Take photos that show the extent of the bow or bulge relative to a straight edge or the rest of the house.
+   - Note the approximate time you first noticed the change.
+   - Document any recent environmental factors such as heavy rain, a hard freeze, or nearby excavation/construction.
+5. **Contact a licensed structural engineer for an emergency assessment.** Specify that you need a "structural stability assessment" rather than a general contractor's repair quote.
+   - An engineer provides an unbiased safety determination, whereas a contractor may focus on sales.
+6. **Notify the appropriate authorities or property owners.** 
+   - **If you rent:** Notify the landlord or property manager in writing immediately, stating that there is a "potential structural failure."
+   - **If the wall threatens a public sidewalk or road:** Call 311 (or your local non-emergency municipal line) to report an unsafe structure to the building department.
+7. **Notify your insurance provider.** Report the "sudden structural movement" to your homeowners' insurance company to open a claim file and receive guidance on authorized inspectors.
 
 ## What can wait
-- You do **not** need to figure out the cause right now (foundation movement, water pressure, framing failure, etc.).
-- You do **not** need to pick repair methods, sign contracts, or start demolition today unless a professional tells you it’s required for safety.
-- You do **not** need to negotiate blame or liability before the safety risk is controlled.
-- You do **not** need to move all belongings out unless responders/engineers advise it.
+- You do not need to determine the underlying cause (e.g., hydrostatic pressure, foundation settlement, or rot) before clearing the area.
+- You do not need to choose a repair method or sign a construction contract today.
+- You do not need to move heavy furniture out of the house unless a structural engineer confirms it is safe to enter those rooms.
+- You do not need to resolve liability or "who is at fault" while the wall is still unstable.
 
 ## Important reassurance
-Your alarm is justified: a new, visible change in an exterior wall is exactly the kind of thing you shouldn’t “wait and see” on. The safest first moves are simple—create distance, reduce exposure, and get qualified help.
+Seeing a physical "wave" or bulge in a structural wall is a significant sensory cue that requires an immediate pause. Your decision to step back and seek professional verification is the correct way to manage a potential structural instability. Physical changes in heavy masonry or framing often happen slowly before a sudden failure; responding at the first sign of bowing is a high-precision safety action.
 
 ## Scope note
-This guide covers first steps to reduce immediate risk and connect you to the right systems (emergency services, local building authority, engineering assessment). Repair planning comes later.
+This guide is for first-step stabilization and risk reduction. It does not provide engineering diagnostics or repair instructions. Further actions will require a site-specific evaluation by a licensed professional.
 
 ## Important note
-This is general information, not a structural evaluation. Conditions can change quickly. If you think collapse is possible or anyone is at risk, leave the area and call 911.
+Structural movement can be unpredictable. If you have any doubt about the stability of the building, do not remain inside. This information is for general guidance and does not replace the on-site judgment of emergency responders or structural engineers.
 
 ## Additional Resources
-- https://www.cdc.gov/natural-disasters/psa-toolkit/staying-safe-around-buildings-damaged-after-a-disaster.html
-- https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html
-- https://www.fema.gov/fact-sheet/dont-wait-clean-or-make-repairs-1
-- https://www.osha.gov/emergency-preparedness/guides/structural-collapse
-- https://www.nyc.gov/site/buildings/safety/notification-and-correction-of-unsafe-conditions.page
+- https://www.huduser.gov/publications/pdf/rehabinspect.pdf
+- https://www.huduser.gov/publications/pdf/rehabinspect_2.pdf
+- https://www.nps.gov/articles/common-problems-with-brick-masonry.htm
+- https://www.nyc.gov/assets/buildings/images/content/misc/FacadePresentation.pdf
+- https://nola.gov/nola/media/HDLC/Guidelines/07-Masonry-Stucco.pdf

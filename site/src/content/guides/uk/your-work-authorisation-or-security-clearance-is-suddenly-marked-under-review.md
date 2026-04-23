@@ -1,90 +1,105 @@
-﻿---
+---
 title: "What to do if… your work authorisation or security clearance is suddenly marked under review"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - work authorisation under review
-  - right to work questioned
-  - right to work recheck
-  - share code not working
-  - immigration status under review
-  - visa application pending
-  - employer checking service request
-  - positive verification notice
-  - sponsored worker compliance check
-  - sponsor asks for documents
-  - security clearance under review
-  - vetting status review
-  - clearance access paused
-  - site pass withdrawn
-  - background check flagged
-  - hr compliance escalation
-  - told you cannot work
-  - employment eligibility questioned
-  - paperwork mismatch at work
-last_reviewed: "2026-01-08"
+  - "workplace investigation witness"
+  - "hr witness interview"
+  - "internal investigation witness"
+  - "fact finding meeting witness"
+  - "called as a witness at work"
+  - "workplace misconduct witness"
+  - "employee witness rights uk"
+  - "witness statement for work investigation"
+  - "disciplinary investigation witness"
+  - "grievance investigation witness"
+  - "witness interview preparation"
+  - "what do i do if i am a witness in a work investigation"
+  - "help i am being interviewed as a witness at work"
+  - "what do i do if hr asks for a witness statement"
+  - "my manager asked me to be a witness"
+  - "help i have a fact finding meeting"
+  - "workplace witness interview notice"
+  - "witnessing harassment at work"
+  - "witnessing bullying at work"
+  - "seeing an incident at work"
+  - "hearing an argument at work"
+  - "hr interview about a colleague"
+  - "witness interview confidentiality"
+  - "witness protection from victimisation"
+  - "being asked questions by hr"
+  - "investigation meeting witness"
+  - "internal inquiry witness"
+  - "witness interview notes"
+  - "workplace witness statement"
+  - "asked to testify in hr meeting"
+  - "witnessing misconduct at work"
+  - "workplace incident witness"
+  - "investigation at work"
+  - "workplace witness"
+  - "witness interview"
+  - "witness meeting"
+  - "witness statement"
+  - "investigation interview"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your work authorisation or security clearance is suddenly marked under review (UK)
 
 ## Short answer
-Pause and get the exact reason in writing (what is “under review”, by which team/system, and what they need from you). Then use the official right-to-work and/or security processes — and do not keep doing restricted work if your access has been paused.
+Clarify the purpose of the meeting in writing, provide only factual information based on direct observation, and request a copy of any notes before signing them.
 
 ## Do not do these things
-- Do not resign, “quit before you’re fired”, or agree to a rushed change of contract while you’re shocked.
-- Do not keep doing restricted work if you’ve been told your access/clearance is paused — even “just to finish something”.
-- Do not send work files (especially sensitive material) to personal email/cloud “for safekeeping”.
-- Do not guess what caused it or confront colleagues in a heated way (it often starts as an admin check or records mismatch).
-- Do not pay a “fixer” or share passport/visa details with anyone outside HR/security/legal channels.
-- Do not ignore deadlines in any written notice (HR/security checks often have short response windows).
+- Do not delete, alter, or hide emails, messages, or documents related to the incident.
+- Do not discuss the case or your potential evidence with colleagues, as this can be interpreted as witness tampering or collusion.
+- Do not guess or speculate if you do not know an answer.
+- Do not sign a statement or meeting notes that you have not read or that contain inaccuracies.
+- Do not record the meeting covertly; this is often considered a breach of the duty of trust and confidence and may lead to disciplinary action against you.
 
 ## What to do now
-1. **Get clarity, in writing, on what is being reviewed.** Ask HR/security for:
-   - Whether it’s your **right to work** (immigration permission) or your **security clearance/vetting**, or both.
-   - What label they’re using (for example: “right to work re-check”, “Home Office check”, “clearance review”, “access suspended pending review”).
-   - Exactly what they need from you, by when, and who the decision-maker is internally.
-
-2. **If it’s right to work: prove your status using the recognised route (don’t argue).**
-   - If you have digital status, **generate a new right-to-work share code** and give it to HR.
-   - If you **cannot prove your right to work** through the online route (for example, your status can’t be checked online, or you’re awaiting a Home Office decision), ask HR to use the **Home Office Employer Checking Service**.
-   - If the Employer Checking Service confirms your right to work, HR may receive a **Positive Verification Notice (PVN)** — this gives the employer a statutory excuse for **6 months from the date on the notice**, so ask HR what follow-up check will happen before it expires.
-
-3. **If it’s security clearance: go straight to your organisation’s security contact.**
-   - Ask who your organisation’s **Security Controller / security officer / vetting team** is and speak to them (not just a line manager).
-   - Ask whether your **access is temporarily suspended or restricted** and what you must do right now (badge/pass, remote access, “need-to-know” limits, handling rules).
-   - If you need to ask UKSV a case question, use the **UKSV Helpdesk** route your security team directs you to (many enquiries are handled via the sponsor/security channel).
-
-4. **Stabilise your work situation for the next 48 hours.**
-   - Ask HR/security: “Am I expected to stop work entirely, or can I be temporarily reassigned to non-restricted duties while this is checked?”
-   - If you’re sent home or locked out of systems, ask for that instruction **in writing** and ask what happens with pay while it’s reviewed.
-
-5. **Create a simple record pack (this protects you later).**
-   - Save copies of: the message saying “under review”, any instructions, dates/times, and who you spoke to.
-   - Keep a short timeline: what you were told, what you provided (share code, documents), and when.
-
-6. **Get the right kind of support (not general advice from friends).**
-   - For right-to-work issues: consider an **OISC-regulated immigration adviser** or immigration solicitor.
-   - For clearance issues: if you have a union/professional association, contact them; otherwise ask your security team what formal routes exist to raise errors or ask for clarification.
+1. **Confirm the meeting's status and your role in writing.** Ask the person inviting you to clarify the following points via email:
+   - Whether you are attending as a witness or if you are also a subject of the investigation.
+   - Whether the meeting is an informal fact-finding session or a formal part of a disciplinary or grievance procedure.
+   - The name of the investigator and the specific incident or timeframe they wish to discuss.
+2. **Review your employer's internal investigation and disciplinary policies.** Locate these in your staff handbook or on the company intranet to understand:
+   - The expected timescales for the investigation.
+   - The process for recording, reviewing, and signing witness statements.
+   - Your rights regarding confidentiality and protection from retaliation.
+3. **Request a companion for the meeting even if it is not a statutory right.** While UK law (Section 10, Employment Relations Act 1999) only guarantees the right to a companion for formal disciplinary or grievance hearings, ACAS 2026 guidance recommends allowing witnesses a companion (colleague or union rep) for support.
+   - Submit this request in writing, citing "support" or "wellbeing" if the situation is sensitive.
+4. **Prepare a brief, factual timeline for your own use.** Use only documents and records you already have legitimate access to (such as your own calendar or sent emails) to list:
+   - Dates and times of specific events.
+   - Exactly what you saw or heard first-hand.
+   - Who else was present at the time.
+5. **Establish confidentiality boundaries at the start of the interview.** Ask the investigator to specify:
+   - What information must remain confidential.
+   - Who you are permitted to discuss the matter with (such as a union representative or legal adviser).
+6. **Provide clear, evidence-based answers during the interview.** Focus on observable facts rather than opinions or rumors.
+   - Use phrases like "I saw," "I heard," or "I was present when."
+   - State "I do not recall" or "I do not know" if you are unsure of a detail.
+   - Ask for questions to be rephrased if they are unclear or leading.
+7. **Verify the accuracy of the meeting record.** Before the meeting ends or when notes are provided:
+   - Read every word of the notes or statement.
+   - Request specific changes if any part of the record is misleading or omits your clarifications.
+   - Only sign the document once it is a completely accurate account of your evidence.
+   - Request a signed copy of the final version for your records.
 
 ## What can wait
-- You do not need to decide today whether to change jobs, leave the UK, or “start over”.
-- You do not need to write a long explanation of your life history. Only answer what is asked, through the proper channel.
-- You do not need to disclose personal details widely at work. Keep it to HR/security/legal contacts.
+- You do not need to determine who was right or wrong in the incident.
+- You do not need to suggest what the outcome of the investigation should be.
+- You do not need to decide on long-term actions, such as changing roles or leaving the company, while the investigation is ongoing.
 
 ## Important reassurance
-This kind of flag often begins as a records mismatch, routine re-check, or an internal admin/security trigger — not a final decision. The safest approach is calm, written clarity, and using the official verification routes, while you avoid any action that could create a separate problem.
+Being called as a witness is a procedural step and does not imply you have done anything wrong. Providing factual, honest information is a standard part of workplace transparency and helps ensure a fair outcome for all involved. Confusion or nerves during an interview are common reactions and are generally recognized by professional investigators.
 
 ## Scope note
-These are first steps to stop the situation getting worse and to buy time. Any later decisions (appeals, grievances, legal action, or immigration strategy) depend on the exact reason for the review and should be taken with specialist help if needed.
+This guide provides first-step stabilization for witnesses in UK workplace investigations. It does not cover situations where you are the primary subject of a disciplinary process or where criminal activity is involved.
 
 ## Important note
-This is general information, not legal advice. Policies vary by employer, contract, and role, and national security vetting decisions can involve specific procedures and restrictions. If you are unsure whether you are allowed to keep working or accessing sensitive material, treat it as “pause until confirmed” and follow your security team’s written instructions.
+This information is for general guidance and does not constitute legal advice. Employment rights can vary based on your specific contract and the nature of the investigation. If you feel you are being victimised for participating as a witness, or if you are pressured to change your evidence, you should contact a trade union representative, ACAS, or an employment law specialist immediately.
 
 ## Additional Resources
+- https://www.gov.uk/guidance/united-kingdom-security-vetting-applicant
+- https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels
+- https://www.gov.uk/government/organisations/security-vetting-appeals-panel
+- https://www.gov.uk/government/publications/svap-procedural-guidance
 - https://www.gov.uk/prove-right-to-work
-- https://www.gov.uk/prove-right-to-work/get-a-share-code-online
-- https://www.gov.uk/view-right-to-work
-- https://www.gov.uk/government/publications/right-to-work-checks-employers-guide/employers-guide-to-right-to-work-checks-26-june-2025-accessible
-- https://www.gov.uk/guidance/united-kingdom-security-vetting-existing-clearance-holders
-- https://www.gov.uk/guidance/united-kingdom-security-vetting-contact-us
-- https://www.gov.uk/government/collections/national-security-vetting

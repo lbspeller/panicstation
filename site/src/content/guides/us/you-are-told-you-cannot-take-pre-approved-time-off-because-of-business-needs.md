@@ -1,73 +1,102 @@
-﻿---
+---
 title: "What to do if… you are told you cannot take pre-approved time off because of business needs"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - pre-approved time off cancelled
-  - approved pto cancelled
-  - vacation rescinded by employer
-  - manager revoked pto
-  - time off denied after approval
-  - short staffed pto cancelled
-  - business needs cancelled vacation
-  - scheduled vacation pulled back
-  - told you must work during vacation
-  - pto request reversed
-  - employer changed leave approval
-  - last minute vacation cancellation
-  - family emergency time off denied
-  - medical time off cancelled
-  - caregiver time off refused
-  - pto blackout dates dispute
-last_reviewed: "2026-01-08"
+  - "probation extended unexpectedly"
+  - "probation period extension"
+  - "probation extended at last minute"
+  - "trial period extended at work"
+  - "extended review period"
+  - "probation not passed yet"
+  - "manager extended probation"
+  - "probation extension in writing"
+  - "asked to sign probation extension"
+  - "unclear expectations probation"
+  - "performance plan during probation"
+  - "worried about at-will termination"
+  - "probation extension after absence"
+  - "probation extended without warning"
+  - "new probation end date"
+  - "hr says probation extended"
+  - "discrimination concern probation"
+  - "retaliation concern probation"
+  - "document performance at work"
+  - "what do i do if my probation is extended"
+  - "what do i do if they extend my probation"
+  - "what do i do if probation extension"
+  - "help i just got my probation extended"
+  - "help i am still on probation"
+  - "my probation period was extended"
+  - "my manager extended my trial period"
+  - "smell of performance review"
+  - "notice of extension of probation"
+  - "performance improvement plan probation"
+  - "introductory period extension"
+  - "probation period at-will"
+  - "probation period federal employee"
+  - "probation period 2026 rules"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told you cannot take pre-approved time off because of business needs (USA)
 
 ## Short answer
-Get the reversal in writing and immediately check your employer’s PTO policy, contract, or union agreement. In many cases PTO is policy-based and approvals can be changed, but protected leave (medical/family/military-related) is different — route it through HR so you have a clear record and the right process.
+Request the extension terms in writing, including a specific new end date and the measurable performance criteria required to pass.
 
 ## Do not do these things
-- Do not “just go anyway” without clarifying your status — it can become a no-call/no-show issue.
-- Do not quit, threaten to quit, or send angry messages you’ll regret.
-- Do not rely on verbal assurances — get it in writing.
-- Do not invent a protected reason or claim to be sick if you are not.
-- Do not post about it on social media or in public work channels.
+- Do not resign, send combative messages, or post about the situation on social media.
+- Do not accept verbal-only extensions or vague phrases like "we will see how it goes" without a calendar date.
+- Do not sign new employment agreements or performance documents without reading them to check for changes in pay or benefits.
+- Do not assume that being "off probation" provides automatic protection from termination in at-will states.
+- Do not stop documenting your work output or feedback during the extension period.
 
 ## What to do now
-1. **Lock down the paper trail.** Save the original approval (email/app screenshot/calendar approval) and the message cancelling it. Note who told you, when, and the exact stated reason (“business needs,” “coverage,” “blackout,” etc.).
-2. **Pull the exact rule they’re relying on.** Find your employee handbook/PTO policy, offer letter/employment agreement, or union contract (CBA) and look for:
-   - whether approvals can be revoked,
-   - blackout periods or coverage rules,
-   - any required notice to cancel,
-   - any reimbursement/exception language.
-3. **Ask HR for a written decision and the policy section.** Keep it short: “My PTO for [dates] was approved on [date] and is now being cancelled due to business needs. Please confirm in writing whether the PTO is revoked, what policy applies, and what options I have.”
-4. **Check whether this might be protected leave (separate from PTO).** If the time off is for your serious health condition, a family member’s serious health condition, bonding with a new child, certain military-related needs, or a disability-related need for leave, tell HR: “This time off may be for a medical/family/military reason. Please treat this as a request for the appropriate protected leave process and send me the forms/next steps.”  
-   Keep details minimal at first — ask for the process, then provide documentation only as required.
-5. **Offer one practical alternative (keeps you reasonable).** For example:
-   - shift the dates by a week,
-   - split the PTO,
-   - cover one critical meeting/task and then take the remainder.  
-   Put it concretely: “I can cover [specific day/time/task], but I still need [rest of dates] off.”
-6. **If you have non-refundable costs, ask about a company exception.** “I have non-refundable costs booked based on written approval. Is there a reimbursement process or an exception that would allow the PTO as originally approved?” Provide receipts only if asked.
-7. **If you suspect retaliation or discrimination, document and slow down.** If the cancellation seems tied to a protected issue (for example pregnancy, disability/medical needs, or a protected complaint), write a private timeline (dates, names, what was said) and keep communications professional. You can decide later whether to contact an external agency — for now, focus on a clean record and HR review.
+1. **Request written confirmation of the specific extension parameters immediately.**  
+   Ask for an email or document that defines:
+   - the **new end date** for the probationary or trial period
+   - the **specific reasons** for the extension (e.g., performance gaps, lack of training time, or management change)
+   - the **measurable targets** you must hit to successfully complete the period
+   - any **changes to benefits eligibility**, pay, or PTO accrual that result from the extension
+
+2. **Verify your current employment status and rights against the employee handbook.**  
+   Compare the extension notice to the policies in your offer letter and the company manual.
+   - check if the handbook allows for extensions and for what duration
+   - confirm if benefits (like 401k matching or health insurance) are tied to "completion of probation"
+   - if in an at-will state (all except Montana), understand that the employer can generally terminate employment at any time regardless of the probation status
+
+3. **Secure the specific criteria for "successful completion" in writing.**  
+   Ask for 2–5 concrete objectives and clarify how they will be measured (e.g., "reduce ticket response time to 4 hours" rather than "work faster").
+   - ask who will be the final decision-maker for your review
+   - confirm the schedule for check-in meetings during the extension
+
+4. **Identify and record any potential links to protected activity or discrimination.**  
+   If the extension occurred shortly after you reported harassment, requested a disability accommodation, or took protected leave (e.g., FMLA), document the timeline and specific events.
+   - note that EEOC filing deadlines are 180 days from the event, or 300 days if a state/local agency enforces a similar law
+   - save copies of positive feedback received prior to the extension
+
+5. **Special case: Federal employees must verify their specific appointment type.**  
+   If you work for the federal government, confirm if you are in the "competitive service" or "excepted service."
+   - **Competitive service:** The probationary period is 1 year and generally cannot be extended except for "nonpay status" exceeding 22 workdays.
+   - **Excepted service:** Under 2025/2026 Rule XI, the trial period is typically 2 years for non-preference eligibles.
+   - **New Rule:** Completion is no longer automatic; your agency must affirmatively certify your performance, or your employment may be terminated at the end of the period.
 
 ## What can wait
-- You do not need to decide today whether to contact a government agency or consult a lawyer.
-- You do not need to write a long argument — first get the policy, the written decision, and your options.
-- You do not need to solve staffing — offer one workable alternative and let management decide.
+- You do not need to decide today whether to look for a new job.
+- You do not need to hire an attorney before you have the written terms of the extension.
+- You do not need to provide a formal rebuttal to the performance concerns until you have reviewed your existing documentation.
 
 ## Important reassurance
-It’s common to feel blindsided when approved time off is pulled back. A calm written record, a quick policy check, and routing it through HR often leads to a clearer, less emotional resolution.
+A probation extension is a formal administrative step, not a final termination. It is a common procedure used when managers have missed review deadlines or when a role has changed. Obtaining clear, written expectations is a standard professional request that helps both parties move forward.
 
 ## Scope note
-This is first-steps-only guidance to stabilise the moment and avoid mistakes that could harm your job. Next steps depend on your employer’s written policy, your state, and whether the time off is protected leave.
+This guide covers first-step stabilization and documentation only. It does not provide legal strategy for wrongful termination or long-term career planning.
 
 ## Important note
-This is general information, not legal advice. PTO rules often come from employer policy or contract, and protected-leave eligibility depends on specific facts. If you need tailored help, consider contacting HR, your union (if any), or a relevant government agency.
+Employment laws and at-will exceptions vary significantly by state. Federal employees are subject to different regulations (5 CFR) than private-sector workers. If you suspect the extension is retaliatory or discriminatory, consult with a qualified employment attorney or your union representative.
 
 ## Additional Resources
 - https://www.dol.gov/general/topic/workhours/vacation_leave
+- https://www.workplacefairness.org/vacation-pay/
 - https://www.dol.gov/agencies/whd/fact-sheets/28-fmla
-- https://www.eeoc.gov/laws/guidance/employer-provided-leave-and-americans-disabilities-act
-- https://www.dol.gov/agencies/vets/programs/userra/USERRA-Pocket-Guide
+- https://www.dol.gov/agencies/whd/fmla/faq
+- https://www.dir.ca.gov/dlse/faq_vacation.htm

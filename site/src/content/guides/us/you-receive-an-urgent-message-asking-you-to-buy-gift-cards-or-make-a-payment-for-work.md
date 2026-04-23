@@ -1,78 +1,95 @@
-﻿---
+---
 title: "What to do if… you receive an urgent message asking you to buy gift cards or make a payment for work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - fake boss scam
-  - ceo fraud email
-  - urgent gift card request
-  - asked to buy gift cards
-  - work payment scam
-  - wire transfer request
-  - zelle payment request work
-  - invoice scam at work
-  - manager texting scam
-  - whatsapp boss message
-  - business email compromise
-  - bec scam
-  - change vendor bank details
-  - send gift card codes
-  - urgent confidential request
-  - new employee scam
-  - payroll diversion scam
-  - suspicious work email
-  - payment authorization scam
-last_reviewed: "2026-01-07"
+  - "approved pto cancelled"
+  - "vacation cancelled last minute"
+  - "manager cancelled my pto"
+  - "time off revoked"
+  - "leave approval withdrawn"
+  - "scheduled vacation cancelled"
+  - "pto denied after approval"
+  - "short notice schedule change"
+  - "told to work during vacation"
+  - "employer cancelled vacation"
+  - "pto cancellation policy"
+  - "pre approved leave cancelled"
+  - "emergency staffing cancelled pto"
+  - "non refundable trip after pto cancelled"
+  - "hr dispute pto cancellation"
+  - "state pto laws"
+  - "workplace leave rights"
+  - "employment contract violation"
+  - "labor law pto revocation"
+  - "cancelling employee vacation"
+  - "revoking holiday approval"
+  - "employer reimbursement for vacation"
+  - "detrimental reliance employment"
+  - "promissory estoppel pto"
+  - "what do i do if my pto is cancelled"
+  - "what do i do if my boss cancels my vacation"
+  - "what do i do if my leave is revoked"
+  - "what do i do if i cannot work cancelled pto"
+  - "help i spent money on a cancelled trip"
+  - "help i have a non refundable vacation"
+  - "help my pto was cancelled at the last minute"
+  - "my boss is making me work my vacation"
+  - "smell of burning bridges"
+  - "visible schedule change"
+  - "unusual manager demand"
+  - "at will employment pto"
+  - "california pto reimbursement"
+  - "illinois expense reimbursement law"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you receive an urgent message asking you to buy gift cards or make a payment for work (USA)
+
 ## Short answer
-Do **not** pay or buy gift cards. Verify the request using a **known, separate** contact method, then report it to your employer and (if money moved) file reports to federal reporting sites.
+Secure the cancellation and the instruction to work in writing immediately. Review your state’s specific labor laws regarding "detrimental reliance" and expense reimbursement, then propose a written alternative that highlights non-recoverable financial losses.
 
 ## Do not do these things
-- Don’t buy gift cards or send gift card codes/photos to anyone who asked.
-- Don’t send a wire, ACH, Zelle, Venmo, Cash App, crypto, or “test payment” based only on a message.
-- Don’t click payment links or open unexpected “invoice” attachments from the message.
-- Don’t keep it secret because the message says it’s “confidential” or “don’t tell accounting”.
-- Don’t continue the conversation in the same thread to “confirm” — use a different channel you control.
-- Don’t delete the message yet (your IT/security team may need it).
+- Do not engage in "no-call / no-show" absences, as this constitutes job abandonment and usually waives unemployment eligibility.
+- Do not rely on verbal assurances of future compensation or "make-up days" without a written record.
+- Do not delete the original approval notification or timestamped evidence of your financial commitments.
+- Do not resign or threaten to quit before reviewing your employee handbook and state-specific reimbursement rights.
+- Do not share medical or personal details with your direct supervisor if the leave is for a health-related reason; handle those exclusively through HR.
 
 ## What to do now
-1. **Stop the transaction immediately.** If you’re at a store checkout, stop and step aside. If you’re logged into banking, close it and do nothing further.
-2. **Verify the request via a trusted channel (not the message).**
-   - Call your manager/colleague using a number you already have (or from the company directory), or speak in person.
-   - If you can’t reach them quickly, treat it as unverified and do not proceed.
-3. **Report it inside your workplace right away.**
-   - Send the message (or a screenshot for SMS/Teams/WhatsApp) to your IT/security team or helpdesk.
-   - Notify your finance/accounts payable lead so they can watch for related attempts (vendor bank-change requests, invoice fraud, payroll diversion).
-4. **If money was sent or accounts were used, act fast.**
-   - **Call your bank/card issuer immediately** and ask them to try to **stop, reverse, or recall** the payment.
-   - **Ask your bank to contact the financial institution that received the transfer** (this can matter for recovery when time is short).
-   - **If gift cards are involved:** contact the **gift card company/issuer right away**, tell them it was used in a scam, and **ask for your money back**. Keep the gift card and store receipt.
-5. **File reports (USA).**
-   - Report the scam to the **FTC** using **ReportFraud** (online).
-   - If this involved work payment instructions, impersonation of leadership, vendor changes, or compromised work email, file a complaint with the **FBI’s IC3** (online).
-6. **Preserve the evidence.** Save the email/text, sender details, requested amounts, payment instructions, receipts, and the times you acted. This helps your employer, your bank, and your reports.
-7. **If you shared login or payment credentials, contain it quickly.** Tell your IT/security team what was shared (even if you’re unsure), and follow their steps for password resets and account security.
+1. **Secure a written copy of the cancellation and the specific directive to work.** If the cancellation was delivered verbally or via a phone call, send a follow-up email immediately stating: "I am writing to confirm our conversation at [time] where you informed me that my approved leave for [dates] is cancelled and I am required to report to work."
+2. **Identify if the leave qualifies for federal or state legal protection.** Determine if the time off is strictly "Vacation/PTO" (a discretionary company benefit) or if it falls under:
+   - Family and Medical Leave Act (FMLA) for serious health conditions.
+   - State-mandated Paid Family and Medical Leave (PFML).
+   - Jury duty, military leave (USERRA), or "Safe Leave" for victims of domestic violence.
+   - If the leave is protected, an employer generally cannot revoke it based on "business needs" or "emergency staffing."
+3. **Verify if you are in a state that mandates reimbursement for employer-ordered losses.** In states such as California, Illinois, Montana, and New Hampshire, labor codes (e.g., CA Labor Code 2802) require employers to indemnify employees for "all necessary expenditures or losses" incurred in direct consequence of discharge of duties.
+   - This may include non-refundable flight, hotel, or tour deposits lost because the employer revoked a prior approval.
+4. **Locate and download your current employee handbook and PTO policy.** Search the document for keywords like "cancellation," "revocation," "blackout periods," or "emergency."
+   - Check if the policy promises reimbursement for cancelled trips; even if not required by state law, an employer must follow its own written policy.
+5. **Send a formal response requesting an "Exception Review" based on detrimental reliance.** Use a factual tone to outline that you made financial commitments (tickets, bookings) based on their prior written approval.
+   - **Attach receipts for non-refundable costs.**
+   - **Propose two specific alternatives, such as remote availability for critical issues or a shift swap.**
+   - **Ask for a final decision in writing by a specific time to avoid further financial penalty.**
+6. **Involve Human Resources if the manager's request violates company policy or 2026 state PFML rules.** In 2026, many states (including DE, MN, and CO) have implemented specific protections preventing employers from "stacking" or forcing PTO use in ways that interfere with state-level paid leave rights.
+7. **Document the "business necessity" stated for the cancellation.** If the employer claims an "emergency," ask for the specific nature of the emergency in writing. This creates a record if the situation later escalates to a constructive discharge or retaliation claim.
 
 ## What can wait
-- You don’t need to decide right now whether to confront anyone, “prove” it was a scam, or handle workplace policy issues.
-- You don’t need to do a deep technical investigation yourself — your IT/security team can take it from here.
-- You don’t need perfect wording in reports; basic facts are enough to start.
+- You do not need to decide whether to quit or look for a new job in the next hour.
+- You do not need to file a Department of Labor (DOL) complaint immediately; internal escalation is the first step.
+- You do not need to finalize your legal strategy until you have a written "Yes/No" regarding cost reimbursement from HR.
 
 ## Important reassurance
-These scams are designed to feel like normal work urgency and authority. Being targeted (or even briefly fooled) is common — the safest move is slowing down, verifying outside the message, and escalating quickly to finance/IT.
+Sudden schedule changes are a common source of workplace friction, but you have a right to seek clarity on company policy. Most employers prefer to find a compromise—such as partial remote work or reimbursement—rather than risk the total loss of a trained employee or a potential wage-and-hour dispute.
 
 ## Scope note
-These are first steps to prevent immediate loss and limit workplace exposure. Longer-term steps (incident review, policy changes, training, and security improvements) can happen once the immediate risk is contained.
+This guide covers first-step stabilization for discretionary PTO. It does not provide legal strategy for breach of contract or union grievance procedures, which require consultation with a union steward or employment attorney.
 
 ## Important note
-This guide is general information, not legal, financial, or professional advice. Options and outcomes vary by bank/payment method, gift card issuer, employer policies, and timing.
+Employment in the US is primarily "at-will," meaning employers can generally change schedules at any time unless restricted by a contract, union agreement, or specific state law. 2026 state labor updates significantly vary; for example, California and Illinois have higher thresholds for employer-mandated expense reimbursement than Florida or Texas.
 
 ## Additional Resources
+- https://consumer.ftc.gov/consumer-alerts/2026/01/no-thats-not-your-boss-asking-you-buy-gift-cards
+- https://consumer.ftc.gov/consumer-alerts/2021/09/your-boss-isnt-emailing-you-about-gift-card
 - https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams
-- https://reportfraud.ftc.gov/
-- https://consumer.ftc.gov/articles/what-do-if-you-were-scammed
-- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise
-- https://www.ic3.gov/CrimeInfo/BEC
-- https://complaint.ic3.gov/
+- https://consumer.ftc.gov/consumer-alerts/2025/07/new-job-how-spot-boss-imposter-scams
+- https://www.fbi.gov/contact-us/field-offices/phoenix/news/press-releases/fbi-tech-tuesday-business-email-compromise-bec-gift-card-fraud

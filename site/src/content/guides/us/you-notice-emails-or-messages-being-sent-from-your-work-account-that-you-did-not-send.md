@@ -1,79 +1,94 @@
-﻿---
+---
 title: "What to do if… you notice emails or messages being sent from your work account that you did not send"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - work email sending itself
-  - emails sent i did not send
-  - messages sent from my account
-  - suspicious sent items at work
-  - hacked work email account
-  - microsoft 365 account compromised
-  - outlook account compromise at work
-  - google workspace account hacked
-  - someone using my work inbox
-  - unauthorized emails from me
-  - unexpected email forwarding rule
-  - mailbox rules changed without me
-  - colleague says i emailed them
-  - work account taken over
-  - phishing stole my password
-  - business email compromise signs
-  - work chat messages not mine
-  - teams or slack messages sent
-  - account hijacked at work
-  - vendor payment change email scam
-last_reviewed: "2026-01-07"
+  - "demand to return company equipment"
+  - "return laptop to employer"
+  - "return work phone after quitting"
+  - "former employer threatening lawsuit"
+  - "demand letter for company property"
+  - "final paycheck held for equipment"
+  - "paycheck deduction for unreturned equipment"
+  - "employer threatens police for laptop"
+  - "what do i do if my employer is threatening me for a laptop"
+  - "what do i do if company property was not returned"
+  - "what do i do if hr is demanding my computer back"
+  - "what do i do if i am being sued for a company phone"
+  - "help i lost my work laptop and they are threatening me"
+  - "help i cannot return my company badge"
+  - "help i received a legal demand for my work equipment"
+  - "help i am being accused of stealing company property"
+  - "equipment return after termination"
+  - "final paycheck withholding laws"
+  - "unreturned assets at end of employment"
+  - "shipping company equipment back"
+  - "asset tag serial number dispute"
+  - "wage and hour complaint final pay"
+  - "state labor department final paycheck"
+  - "written authorization wage deduction"
+  - "nonexempt minimum wage deduction issue"
+  - "salary basis rule exempt employee deductions"
+  - "flsa 2006-7 equipment deduction"
+  - "proof of return tracking number"
+  - "unauthorized access to company data"
+  - "civil theft vs criminal theft employee"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you notice emails or messages being sent from your work account that you did not send (USA)
 
 ## Short answer
-Assume your account is compromised: contact your IT/security team immediately to lock access, force sign-out, reset credentials, and check for suspicious sign-ins and forwarding/rules.
+Notify the employer in writing of your specific plan to return all items immediately and request a prepaid, tracked shipping method or a scheduled, witnessed drop-off.
 
 ## Do not do these things
-- Do not delete the sent emails/messages, security alerts, or logs — it can destroy evidence your security team needs.
-- Do not keep using the account to investigate or warn people from inside the compromised account.
-- Do not click links/open attachments connected to this incident, even if they appear internal.
-- Do not try to “clean” your inbox or remove rules unless your security team tells you to.
-- Do not send a mass message to all recipients unless your security/communications team tells you to.
+- Do not ignore the demand or delay your response.
+- Do not return items in person without obtaining a signed, dated receipt for every specific serial number.
+- Do not ship items using an untracked service or to an unverified personal address.
+- Do not wipe or factory-reset devices unless you have a written instruction from the IT department to do so.
+- Do not agree to paycheck deductions or "replacement fees" during a phone call.
+- Do not engage in arguments regarding accusations of theft or misconduct; keep all communication focused on the logistics of the return.
 
 ## What to do now
-1. **Pause and switch to a trusted contact method.** Stop sending messages. Call your IT helpdesk/security team using a known number, or contact them in person/through an approved internal channel.
-2. **Report it as suspected compromise and request immediate containment.** Ask IT/security to:
-   - **Disable sign-in / lock the account** until reviewed
-   - **Force sign-out of all sessions**
-   - **Reset your password** and confirm **MFA** is enabled and working
-   - Review **recent sign-in activity** and any **mailbox rules/forwarding/delegated access/connected apps** changes
-3. **Capture a small amount of evidence (then stop).** Capture only what’s necessary (timestamps, recipients, subject lines, any alerts). If screenshots are allowed, **share them only via your organization’s approved incident channel** (not personal email or external services).
-4. **Check the “silent persistence” settings (only if IT says it’s safe to log in).**
-   - Look for unexpected **forwarding**, **inbox rules**, **auto-replies**, or unknown **connected apps**
-   - If you find something, document it and tell IT/security. Don’t just remove it without guidance.
-5. **Contain harm to others fast.**
-   - Tell your manager your account may have been used to send unauthorized messages.
-   - Work with IT/security to identify who received the messages so the organization can warn them not to click links or follow new instructions (especially payment changes).
-6. **If invoices, bank details, gift cards, or wire instructions were involved, escalate immediately.**
-   - Contact your finance/AP team through a trusted channel to pause or verify transfers.
-   - If money may have moved, your organization may also need to contact the relevant financial institutions quickly.
-7. **Secure other work access.** If any passwords were reused across work systems, assume they’re exposed. With IT guidance, update those credentials and keep MFA on.
-8. **If external reporting is needed, follow your organization’s lead.** If this looks like a business email compromise (especially involving payments), many organizations file a report with the FBI’s Internet Crime Complaint Center (IC3). Provide your incident handler accurate facts and avoid contaminating evidence.
+1. **Document the current state of all equipment in your possession.**
+   - Lay out all items mentioned in the demand (laptop, phone, chargers, badges, keys, peripherals).
+   - Take clear photos of each item, focusing on the asset tags and serial numbers.
+   - Note the physical condition of each item (e.g., "screen intact", "powers on").
+2. **Send a formal written response (email or certified mail) proposing a return logistics plan.** 
+   - State clearly that you intend to return all company property.
+   - Request a definitive list of items the company expects, including serial numbers.
+   - Ask for a prepaid shipping label with tracking or a specific window for a courier pickup.
+   - Request the name of the individual who will be responsible for confirming the arrival and condition of the items.
+3. **Establish legal boundaries regarding your final wages.**
+   - Inform the employer that under the Fair Labor Standards Act (FLSA), they generally cannot withhold a final paycheck as leverage to force the return of equipment.
+   - Clarify that if you are an "exempt" employee, federal law (FLSA 2006-7) strictly prohibits deducting the cost of unreturned equipment from your salary.
+   - Note that if you are "non-exempt," any deduction for equipment cannot legally drop your hourly pay below the federal or state minimum wage for that pay period.
+4. **Execute the return using a method that generates an independent record.**
+   - **If shipping:** Use the employer-provided label; keep the drop-off receipt; email the tracking number to the employer immediately after shipment.
+   - **If returning in person:** Bring a witness if possible and do not leave until a company representative signs a list detailing every item and serial number you have handed over.
+5. **Preserve all evidence of communication and compliance.**
+   - Save copies of the initial demand letter and all subsequent emails or texts.
+   - Log the date, time, and summary of any phone calls, but prioritize written communication for all agreements.
+6. **Escalate to official agencies if wages are withheld or illegal threats continue.**
+   - Contact your state's Department of Labor or Labor Commissioner if your final paycheck is not received by the state-mandated deadline.
+   - Contact the U.S. Department of Labor Wage and Hour Division (WHD) if deductions are made that appear to violate federal minimum wage or exempt-salary rules.
 
 ## What can wait
-- You do not need to prove whether this was malware, phishing, or a mistake right now — containment comes first.
-- You do not need to write a detailed explanation to clients/vendors unless your organization directs you.
-- You do not need to argue about blame or disciplinary implications in the moment; focus on rapid reporting and cooperation with the investigation.
+- You do not need to respond to personal insults or unprofessional commentary in the demand letter.
+- You do not need to sign new "authorization to deduct" forms or liability waivers presented to you at the time of return.
+- You do not need to decide whether to file a counter-claim or formal complaint until after the equipment is safely documented as returned.
 
 ## Important reassurance
-It’s common to feel embarrassed or panicked, but this is a known pattern of attack and it can happen quickly. Acting early — stopping use, reporting fast, preserving evidence — reduces harm.
+Receiving a demand with legal or police threats is common in corporate offboarding. Most of these situations are resolved the moment the employer receives a tracking number or a signed receipt. Providing a clear, professional path for the return of their property usually ends the escalation.
 
 ## Scope note
-These are first steps to stabilize the situation. Your employer may have additional incident-response, legal/compliance, and communications steps after containment.
+This guide covers initial stabilization and the physical return of property to prevent legal or financial escalation. It does not cover the defense of intellectual property disputes, non-compete litigation, or criminal defense if formal charges have already been filed.
 
 ## Important note
-This is general information, not legal or professional advice. Follow your organization’s security policies and instructions. If money or sensitive data may be involved, escalate internally immediately rather than trying to handle it alone.
+Laws regarding final paychecks and equipment-related deductions vary significantly by state. While federal law sets a floor, states like California or New York have much stricter timing requirements and deduction prohibitions. If an employer persists in withholding pay after equipment is returned, consult your state labor agency.
 
 ## Additional Resources
-- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise
-- https://www.ic3.gov/PSA/2020/PSA200406
-- https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf
-- https://www.cisa.gov/secure-our-world/recognize-and-report-phishing
+- https://consumer.ftc.gov/node/77537
+- https://consumer.ftc.gov/consumer-alerts/2024/10/email-or-social-media-hacked-heres-what-do
+- https://www.ic3.gov/CrimeInfo/BEC
+- https://www.staysafeonline.org/articles/hacked-accounts-what-to-do-right-now
+- https://www.staysafeonline.org/articles/reporting-cybercrime

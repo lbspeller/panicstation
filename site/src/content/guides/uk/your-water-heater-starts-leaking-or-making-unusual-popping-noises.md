@@ -1,83 +1,99 @@
-﻿---
+---
 title: "What to do if… your water heater starts leaking or making unusual popping noises"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - water heater leaking
-  - hot water cylinder leaking
-  - boiler cupboard leak
-  - immersion heater leak
-  - hot water tank leak
-  - water heater popping noises
-  - hot water cylinder banging
-  - rumbling water heater
-  - noisy hot water tank
-  - dripping from pressure relief pipe
-  - overflow from tundish
-  - leak near airing cupboard
-  - sudden hot water leak
-  - water near electrics
-  - gas water heater concern
-  - carbon monoxide worry
-  - stopcock shut off
-  - isolate cold feed valve
-  - shut off immersion power
-  - landlord hot water emergency
-last_reviewed: "2026-03-03"
+  - "water heater leaking"
+  - "hot water cylinder leaking"
+  - "airing cupboard leak"
+  - "immersion heater leak"
+  - "hot water tank leak"
+  - "water heater popping noises"
+  - "hot water cylinder banging"
+  - "rumbling water heater"
+  - "noisy hot water tank"
+  - "dripping from pressure relief pipe"
+  - "overflow from tundish"
+  - "leak near airing cupboard"
+  - "sudden hot water leak"
+  - "water near electrics"
+  - "gas water heater concern"
+  - "carbon monoxide worry"
+  - "stopcock shut off"
+  - "isolate cold feed valve"
+  - "shut off immersion power"
+  - "water heater scale noise"
+  - "hissing hot water tank"
+  - "kettling water heater"
+  - "pool of water under cylinder"
+  - "brown water from heater"
+  - "what do i do if my water heater is leaking"
+  - "what do i do if my water heater is making noise"
+  - "what do i do if the airing cupboard is wet"
+  - "what do i do if i smell gas near the boiler"
+  - "help i have a leaking water tank"
+  - "help my immersion heater is banging"
+  - "my hot water cylinder is vibrating"
+  - "my tundish is dripping water"
+  - "smell of burning plastic near heater"
+  - "visible steam from overflow pipe"
+  - "vibrating pipes hot water"
+  - "hot water tank whistling"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your water heater starts leaking or making unusual popping noises (UK)
 
 ## Short answer
-Turn off the heater’s power (and gas supply if it’s gas-fired), then stop the water feed to the heater to limit damage. If you smell gas, suspect carbon monoxide, or hear loud/violent noises, get everyone into fresh air and call the gas emergency number.
+Isolate the power and water supply to the heater immediately to prevent electrical hazards and further flooding. If you suspect a gas leak or carbon monoxide exposure, evacuate everyone to fresh air and call the National Gas Emergency Service on 0800 111 999.
 
 ## Do not do these things
-- Do not ignore a new leak or repeated loud popping/banging—treat it as urgent even if you still have hot water.
-- Do not touch a wet switch, plug, or fused spur, and do not stand in water while handling electrics (shock risk).
-- Do not try to dismantle or “tighten” valves/pipework on a pressurised (unvented) hot water cylinder.
-- Do not block, cap, or tape over a discharge/overflow pipe (including a tundish discharge).
-- Do not light matches, use naked flames, or create sparks if you smell gas.
-- Do not keep using hot water if you suspect overheating (very hot water, banging, relief/discharge running).
+- Do not touch any switches, plugs, or electrical components if they are wet or if you are standing in water.
+- Do not attempt to dismantle, tighten, or "fix" valves on an unvented (pressurised) cylinder.
+- Do not block or cap any discharge pipes, overflows, or the tundish (the plastic funnel).
+- Do not use matches, lighters, or any electrical switches if you smell gas.
+- Do not ignore loud "kettling" (popping or banging) sounds, as these can indicate dangerous overheating.
+- Do not enter a room if you see significant steam or smell burning.
 
 ## What to do now
-1. **Do a 10-second danger check.**
-   - If you **smell gas**, a **CO alarm sounds**, or people feel suddenly unwell in a way that could be **carbon monoxide** (headache/dizziness/nausea): **open doors/windows as you leave, get everyone into fresh air, and call the National Gas Emergency Service (0800 111 999)**.
-2. **Turn off heat to the water heater (without touching wet electrics).**
-   - **Immersion heater / hot water cylinder:** switch **off at the fused spur/isolator** (often near the cylinder).  
-   - If that area is wet or you’re unsure, **turn off the relevant circuit at the consumer unit** (only if you can do so from a dry, safe position).
-   - **Gas-fired water heater/boiler providing hot water:** turn the **appliance controls to OFF** only if it’s safe to access. If there’s any gas smell, prioritise Step 1.
-3. **Stop the water feeding the heater (to slow/stop the leak).**
-   - Turn off the **cold-water inlet/isolating valve** on the pipe feeding the cylinder/heater.
-   - If you can’t find it (or the leak is fast), **turn off the home’s water at the stopcock/stop tap**.
-4. **Reduce damage safely.**
-   - Put a bucket/tray under drips and use towels to guide water **away from electrics** and ceilings.
-   - Move nearby items (especially anything electrical) out of the wet area.
-5. **If water is discharging via a tundish/discharge pipe or the noises are loud: treat it as urgent.**
-   - For an **unvented hot water cylinder**, visible discharge (often via a tundish) can indicate a pressure/temperature safety device operating. **Keep the system off** and contact an engineer **competent to work on unvented cylinders** (often described as **G3/unvented qualified**).
-6. **Call the right help for your situation.**
-   - **If you rent:** contact your landlord/agent’s emergency repairs line and say you’ve **isolated power/heat and water**.
-   - **If you own:** call a **qualified plumber/heating engineer**. If it’s gas-fired, use a **Gas Safe registered engineer**.
-7. **Document quickly (for repairs/insurance), then step back.**
-   - Take photos/videos of the leak source area, any discharge/tundish flow, and any water damage—then leave the unit **off** until inspected.
+1. **Check for immediate life-safety hazards.** 
+   - **If you smell gas, hear a CO alarm, or feel sudden dizziness and nausea, get everyone outside into fresh air immediately.** 
+   - **Call the National Gas Emergency Service on 0800 111 999 from a safe distance outside.**
+   - **Call 999 if anyone is unconscious, confused, or struggling to breathe.**
+2. **Turn off the heat source to the water heater.** 
+   - **For electric immersion heaters, switch off the power at the fused spur switch (usually on the wall near the tank).**
+   - **For gas-fired systems or boilers, turn the appliance off at its main control panel only if it is dry and safe to reach.**
+   - **If the area is wet, turn off the relevant circuit at your main consumer unit (fuse box) from a dry position.**
+3. **Isolate the water supply to the unit.** 
+   - **Close the cold-water shut-off valve on the pipe leading directly into the heater (often a small lever or screw-slot valve).**
+   - **If you cannot find the specific valve, turn off the main internal stopcock for the entire property.**
+4. **Contain the leak safely.** 
+   - **Place buckets or trays under visible drips and use towels to prevent water from reaching electrical sockets or floorboards.**
+   - **Move any items stored in the airing cupboard to a dry area to prevent further damage.**
+5. **Check the tundish for signs of safety device activation.** 
+   - **Look at the plastic funnel (tundish) on the pipework; if water is flowing through it, the system has exceeded safe temperature or pressure limits.**
+   - **Keep the power and heat off and do not attempt to reset the system yourself.**
+6. **Arrange for a qualified professional repair.** 
+   - **If you have an unvented cylinder (no tank in the loft), you must hire a plumber with a G3 Unvented Hot Water qualification.**
+   - **If the unit is gas-fired, ensure the engineer is Gas Safe registered.**
+   - **If you are a tenant, notify your landlord or emergency repair line immediately that you have isolated the system.**
 
 ## What can wait
-- You do **not** need to diagnose the cause (scale/sediment, valve fault, corrosion) right now.
-- You do **not** need to drain the whole cylinder/tank unless a professional tells you to.
-- You do **not** need to decide about replacement today—first stabilise (off + isolated + contained), then get it assessed.
+- You do not need to identify the exact cause (such as limescale buildup or a failed thermostat) right now.
+- You do not need to drain the cylinder unless specifically instructed by a professional.
+- You do not need to decide on a replacement unit until a qualified engineer has inspected the current one.
 
 ## Important reassurance
-Water heater leaks and sudden noises are common panic triggers because they combine heat, pressure, water, and sometimes gas/electricity. Turning off the heat source and isolating the water supply is usually enough to stabilise things until a professional can take over.
+Loud popping noises and leaks are startling but usually manageable once the heat and water sources are turned off. Taking these steps stops the situation from worsening and allows you to wait safely for a professional.
 
 ## Scope note
-This is first steps only—aimed at making the situation safer and preventing damage. A qualified professional may need to test safety devices and repair or replace parts.
+This guide provides first-step stabilization only. It does not replace the need for a professional inspection by a G3-qualified or Gas Safe registered engineer.
 
 ## Important note
-This is general information, not a diagnosis. If you suspect gas leakage or carbon monoxide, prioritise getting everyone into fresh air and using the official gas emergency route.
+If you suspect carbon monoxide poisoning or a gas leak, your priority is evacuation. This information is for general guidance and does not constitute professional engineering or medical advice.
 
 ## Additional Resources
-- https://www.nationalgas.com/emergency-contacts
-- https://www.sgn.co.uk/smellgas
-- https://cadentgas.com/smell-gas
-- https://www.gassaferegister.co.uk/gas-emergency/what-to-do-in-a-gas-emergency/
-- https://www.gov.uk/government/publications/sanitation-hot-water-safety-and-water-efficiency-approved-document-g
-- https://www.vaillant.co.uk/advice/heating-tips/home-advice/what-is-a-tundish/
+- https://idealheating.com/tips-and-advice/my-boiler-is-leaking-what-should-i-do
+- https://idealheating.com/tips-and-advice/why-is-my-boiler-making-a-noise
+- https://idealheating.com/tips-and-advice/what-is-kettling-in-a-boiler-is-it-dangerous
+- https://www.gassaferegister.co.uk/find-an-engineer-or-check-the-register/
+- https://www.nhs.uk/conditions/carbon-monoxide-poisoning/

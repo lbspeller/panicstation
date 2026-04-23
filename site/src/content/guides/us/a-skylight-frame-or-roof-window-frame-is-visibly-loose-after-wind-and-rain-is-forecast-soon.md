@@ -1,69 +1,85 @@
-﻿---
+---
 title: "What to do if… a skylight frame or roof window frame is visibly loose after wind and rain is forecast soon"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - loose skylight frame
-  - roof window frame loose
-  - skylight shifted by wind
-  - roof window rattling
-  - rain forecast roof opening
-  - storm damage skylight
-  - emergency roof leak prevention
-  - water intrusion ceiling
-  - water near ceiling light
-  - shut off breaker for leak
-  - call emergency roofer
-  - homeowners insurance storm claim
-  - condo hoa roof repair
-  - document damage photos
-  - keep receipts temporary repairs
-  - avoid ladder in storms
-  - attic leak containment
-  - loose rooflight after gusts
-  - temporary weatherproofing skylight
-last_reviewed: "2026-03-05"
+  - "loose skylight frame"
+  - "roof window frame loose"
+  - "skylight shifted by wind"
+  - "roof window rattling"
+  - "rain forecast roof opening"
+  - "storm damage skylight"
+  - "emergency roof leak prevention"
+  - "water intrusion ceiling"
+  - "water near ceiling light"
+  - "help i have a loose skylight"
+  - "help my roof window is moving"
+  - "what do i do if my skylight is loose"
+  - "what do i do if rain is coming and my roof is open"
+  - "loose frame gap"
+  - "shaking roof glass"
+  - "creaking skylight"
+  - "smell of wet insulation"
+  - "brown ceiling stain"
+  - "loose rooflight after gusts"
+  - "temporary weatherproofing skylight"
+  - "skylight fastener failure"
+  - "shifted roof window"
+  - "gaps in skylight curb"
+  - "rattling glass in wind"
+  - "impending storm roof leak"
+  - "emergency roofer needed"
+  - "exposed roof window"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a skylight frame or roof window frame is visibly loose after wind and rain is forecast soon (USA)
 
 ## Short answer
-Focus on safety and stopping water intrusion: keep people away from the area, protect the interior, and contact your HOA/insurer and a roofer to “make safe” the skylight/roof window before the rain.
+Isolate the area beneath the skylight immediately, protect the interior from water with buckets and plastic, and contact a licensed roofing professional for an emergency "make safe" or tarping service before the storm begins.
 
 ## Do not do these things
-- Do not get on the roof or use a ladder in wind, rain, lightning risk, or slick conditions—wait for safer weather or use a professional.
-- Do not pry, force, or re-seat the frame aggressively (glass and fasteners can fail suddenly).
-- Do not run heaters/fans into wet ceiling cavities or near wet wiring.
-- Do not ignore water around ceiling lights, attic wiring, smoke alarms, or ceiling fans.
-- Do not commit to major replacement work during the storm window if you only need temporary weather-tight protection right now.
+- Do not climb onto the roof or use a ladder during high winds, rain, or if lightning is possible.
+- Do not attempt to re-seat, hammer, or screw a loose frame back into place yourself, as glass can shatter or fasteners may be under tension.
+- Do not touch your electrical panel or breakers if you are standing on a wet surface or have wet hands.
+- Do not ignore water tracking toward smoke alarms, light fixtures, or ceiling fans.
+- Do not use fans or heaters to dry out a ceiling cavity while the leak is active or while wiring is wet.
 
 ## What to do now
-1. **Create a safe zone inside.** Keep everyone out from directly below. Move electronics/valuables away. Put down plastic/towels; set a bucket if drips start.
-2. **Reduce electrical risk.** If there’s any sign of water near ceiling fixtures, outlets, or attic wiring, **turn off the relevant breaker**. Only do this if you can reach the electrical panel safely and it’s dry—**do not touch a wet panel**. If you can’t do it safely, step away and call an electrician/your building’s maintenance line.
-3. **Document the condition without climbing.** Take photos/video from indoors. If you can access the attic safely (stable flooring/boards, good lighting), take one or two photos showing where water might track—but stop if you see wet wiring or feel unsteady.
-4. **If you’re in a condo/townhome/HOA-managed building:** report it as an urgent roof opening/water-intrusion risk and ask who is dispatching the roofer and how to reach after-hours maintenance.
-5. **Call your homeowners insurer (or agent) before spending big money.** Ask what temporary mitigation they recommend, whether they have preferred vendors, and what documentation they want (photos, receipts, contractor notes).
-6. **Call an insured/qualified roofer for an urgent “make safe” visit (licensed where required).** Use clear wording: “skylight/roof window frame visibly loose; rain forecast; need temporary secure + weather-tight.” Ask for a follow-up appointment for full repair once weather improves.
-7. **Interior-only containment (only if safe):** If you can do so without risky climbing, place plastic sheeting to guide drips into a bucket and protect the ceiling below. Stop immediately if insulation is soaked near wiring, water is tracking along cables, or the unit appears to move.
-8. **Keep a clean record for insurance.** Save photos, notes of calls, contractor details, and **all receipts** for temporary materials and emergency services.
+1. **Clear the area directly beneath the skylight.** Move all furniture, electronics, and valuables to another room or a distance of at least 6 feet from the vertical footprint of the opening.
+2. **Set up interior water containment immediately.** Place a large bucket or plastic bin on the floor below the loose frame, even if it is not currently raining.
+   - Lay down plastic sheeting or heavy towels around the bucket to protect flooring.
+   - If water is already pooling in a ceiling bulge, use a small tool to poke a single hole in the center of the bulge to drain the water into the bucket.
+3. **Cut power to the affected area only if it is safe to do so.** Locate your electrical panel and flip the breakers for the rooms directly below the skylight.
+   - Use only one hand to flip the switch while keeping the other behind your back.
+   - Ensure you are standing on a completely dry floor and wearing rubber-soled shoes.
+   - If the floor near the panel is damp, do not touch the panel; call an electrician.
+4. **Document the loose frame from the ground or floor level.** Take clear photos and video showing the gap, the angle of the frame, and any current water stains or debris.
+   - Use the zoom function on your phone to capture details rather than climbing closer.
+   - Save these files for your insurer or property manager.
+5. **Contact your HOA, COA, or property management office if you live in a multi-unit building.** Report a "breach of the roof envelope" and "imminent water intrusion risk" to trigger their emergency maintenance protocol.
+6. **Request an emergency "make safe" visit from a licensed and insured roofer.** Specify that the skylight frame is physically loose and a storm is forecast.
+   - Ask for a "temporary tarping" or "emergency secure" service to bridge the gap until permanent repairs are safe.
+   - Confirm they have workers' compensation and liability insurance before they arrive.
+7. **Notify your homeowners insurance provider of the mitigation steps you are taking.** Inform them that you are hiring a professional to prevent further damage, as most policies require you to "mitigate loss" immediately.
+8. **Stay indoors and wait for professional help.** Adhere to the 30/30 rule: if you hear thunder, stay inside for at least 30 minutes after the last sound of thunder before checking the exterior from the ground.
 
 ## What can wait
-- You don’t need to decide today whether the unit must be replaced versus re-secured and re-flashed.
-- You don’t need roof-level photos right now—safe documentation from inside is enough.
-- You don’t need perfect drying during the forecast window; focus on stopping additional water entry first.
+- You do not need to decide on a full skylight replacement or repair method until the weather stabilizes.
+- You do not need to provide the insurer with professional repair estimates during the immediate stabilization phase.
+- You do not need to go into the attic to inspect for leaks if the flooring is unstable or lighting is poor.
 
 ## Important reassurance
-The forecast makes this feel urgent, but your immediate goal is simple: prevent more water from getting in and avoid a fall. Temporary securing/weather-tight protection is a standard first step; full repairs can follow when conditions are safer.
+It is normal to feel a sense of urgency when a storm is forecast, but the interior containment and "make safe" tarping you are arranging now are the standard and most effective ways to prevent major damage. Property damage is repairable; your physical safety during a storm is the priority.
 
 ## Scope note
-First steps only. A roofer (and sometimes the skylight installer) should assess fasteners, flashing, curb/frame integrity, and any roof deck damage once it’s safe.
+This guide covers first-step stabilization and harm reduction for a loose skylight frame before a storm. It does not provide instructions for DIY roof repairs, flashing installation, or structural assessments.
 
 ## Important note
-This is general information, not professional or legal advice. If you feel unsafe, stop and wait for qualified help. If you see heavy leakage near wiring, ceiling sagging/bulging, or cracking sounds, prioritise moving people out of the area and getting professional assistance.
+This information is for general stabilization and is not a substitute for professional roofing, electrical, or legal advice. Hazards involving heights and electricity carry a risk of severe injury or death. Always defer to the instructions of licensed contractors on-site.
 
 ## Additional Resources
-- https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1053
-- https://www.ready.gov/thunderstorms
-- https://www.ready.gov/floods
-- https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/severe-weather.html
-- https://content.naic.org/consumer/homeowners-insurance
+- https://bsesc.energy.gov/energy-basics/replacing-existing-skylights
+- https://www.fema.gov/node/618044
+- https://www.insurance.ca.gov/01-consumers/140-catastrophes/TopTenTips_WinterStorms.cfm
+- https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/res-ins-guide.cfm
+- https://ago.nebraska.gov/news/avoiding-storm-chasing-scam-artists

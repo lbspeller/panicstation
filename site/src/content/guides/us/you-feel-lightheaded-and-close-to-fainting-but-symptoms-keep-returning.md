@@ -1,87 +1,109 @@
-﻿---
+---
 title: "What to do if… you feel lightheaded and close to fainting but symptoms keep returning"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - feeling lightheaded
-  - light headed spells
-  - feel like fainting
-  - nearly fainting
-  - near blackout feeling
-  - dizzy and weak
-  - recurrent dizziness episodes
-  - symptoms keep returning
-  - almost passing out
-  - repeated faint feeling
-  - pre-syncope
-  - sudden lightheadedness
-  - standing makes it worse
-  - after standing up dizzy
-  - hot sweaty and faint
-  - nausea and lightheaded
-  - palpitations and faint feeling
-  - fainting warning signs
-  - keep needing to lie down
-last_reviewed: "2026-01-17"
+  - "feeling lightheaded"
+  - "nearly fainting"
+  - "near blackout feeling"
+  - "recurrent dizziness episodes"
+  - "symptoms keep returning"
+  - "repeated faint feeling"
+  - "pre-syncope sensation"
+  - "sudden lightheadedness"
+  - "standing makes it worse"
+  - "dizzy after standing up"
+  - "hot sweaty and faint"
+  - "nausea and lightheaded"
+  - "palpitations and faintness"
+  - "keep needing to lie down"
+  - "unsteady and weak"
+  - "vision going dark"
+  - "tunnel vision episodes"
+  - "cold clammy skin"
+  - "ringing in ears"
+  - "what do i do if i feel lightheaded"
+  - "what do i do if i keep nearly fainting"
+  - "what do i do if i feel like passing out"
+  - "what do i do if my dizziness keeps coming back"
+  - "help i feel lightheaded"
+  - "help i nearly fainted"
+  - "help i keep getting dizzy"
+  - "my head feels light"
+  - "my vision is blurry"
+  - "my heart is racing and i feel faint"
+  - "my symptoms keep returning"
+  - "feeling faint at night"
+  - "feeling faint in shower"
+  - "feeling faint while standing"
+  - "dizzy and lightheaded"
+  - "light headed and weak"
+  - "recurrent faintness"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you feel lightheaded and close to fainting but symptoms keep returning (USA)
 
 ## Short answer
-Lie down flat and raise your legs, or sit with your head down until the feeling passes. Call 911 if you faint and don’t wake within about a minute, aren’t breathing, have chest pain, severe trouble breathing, stroke-like symptoms, a seizure, a serious injury, or you’re not back to your usual baseline. Because it keeps coming back, get same-day medical advice (urgent care, your clinician’s office, or the ER depending on severity).
+Lie down flat on your back immediately to restore blood flow to the brain and prevent a fall. Call 911 if you lose consciousness for more than one minute, have chest pain, experience severe shortness of breath, or exhibit one-sided weakness.
 
 ## Do not do these things
-- Do not “push through” it, especially on stairs, in the shower/bath, or while exercising.
-- Do not stand up quickly or keep walking to “see if it goes away”.
-- Do not drive, bike, or operate tools until you’ve been evaluated and you’re reliably steady.
-- Do not drink alcohol or take sedatives right now.
-- Do not take extra medication doses (including blood pressure meds) to “correct” symptoms.
-- Do not stop prescribed medicines suddenly unless a clinician tells you to.
-- Do not stay alone if the episodes are repeating—falls and injuries are the big immediate risk.
+- Do not attempt to walk to another room or "walk off" the sensation.
+- Do not stand up quickly or remain standing to test your balance.
+- Do not use stairs, enter a shower, or operate a vehicle until symptoms have fully resolved.
+- Do not take additional doses of blood pressure or heart medication without clinical advice.
+- Do not drink alcohol or use sedatives while symptoms are active.
+- Do not remain alone if the feeling is repeating; the primary immediate risk is a traumatic fall.
 
 ## What to do now
-1. **Get safer immediately (prevent the fall).**  
-   - Best: **lie flat** and **raise your legs** using a pillow/sofa cushion.  
-   - If you can’t lie down: **sit and bend forward**, head down, feet flat.  
-   - Loosen tight clothing and keep your phone within reach.
-2. **If you feel nauseated, reduce choking risk.**  
-   If you might vomit, **roll onto your side** while lying down.
-3. **Check for emergency warning signs—call 911 if any apply.**  
-   Call 911 if you: faint and **don’t wake within about a minute**; are **not breathing**; have chest pain/pressure; severe trouble breathing; new confusion; trouble speaking; one-sided weakness/numbness; a seizure; significant bleeding or head injury from a fall; a very fast/irregular heartbeat with feeling very unwell; or fainting during exertion.
-4. **If someone is with you and you pass out, have them check breathing.**  
-   If you are **not breathing**, they should **call 911** and **start CPR if trained**, then continue until help arrives or you start breathing.
-5. **Bring in another person if you can.**  
-   Ask someone to sit with you or stay on the phone. If you live alone and it feels safe, make it easier for help to reach you (keep your phone on you; only consider unlocking a door if you’re comfortable doing so).
-6. **Lower the chance it happens again in the next hour.**  
-   - Stay off your feet until you’re clearly steady.  
-   - When you do stand: do it **in stages** (lying → sitting → standing) and hold onto something stable.  
-   - If it returns, **sit/lie down again immediately**.
-7. **If it’s safe for you, take a small drink and a small snack.**  
-   - Sip water or an oral rehydration drink.  
-   - A small snack may help if you haven’t eaten; a salty snack can help some people after sweating/illness/dehydration.  
-   - If you have diabetes or possible low blood sugar, check your glucose if you can and follow your usual plan.
-8. **Collect a quick “clinician-ready” snapshot (30 seconds).**  
-   Write down: when each episode happened; what you were doing (standing up, showering, after skipping meals, after illness); palpitations; chest pain; shortness of breath; heavy bleeding; vomiting/diarrhea; and any new meds or dose changes.
-9. **Because it keeps returning, get same-day evaluation.**  
-   - If you have repeated episodes today, you feel worse each time, you can’t safely stay upright, or any red flags apply: **go to the ER or call 911** if you can’t travel safely.  
-   - Otherwise: contact your clinician’s office for urgent advice or go to **urgent care** and say you’ve had **recurrent near-fainting**.
+1. **Get onto the floor or a flat surface immediately.**  
+   - **Lie flat on your back** to allow blood to reach your brain more easily.
+   - **Raise your legs** approximately 6 to 12 inches if you are on a stable surface and do not have an injury.
+   - **Loosen any tight clothing**, especially around the neck, chest, or waist.
+2. **Observe for specific sensory cues.**  
+   Identify if you are experiencing:
+   - Tunnel vision or vision "graying out."
+   - A cold, clammy sweat or sudden heat.
+   - Ringing in the ears (tinnitus).
+   - Nausea or a "sinking" feeling in the stomach.
+3. **Roll onto your side if you feel nauseated.**  
+   If you feel as though you might vomit, **move into the recovery position (on your side)** to keep your airway clear and prevent choking.
+4. **Call 911 immediately if red-flag symptoms appear.**  
+   Activate emergency services if you experience:
+   - Fainting that lasts longer than one minute.
+   - Chest pain, pressure, or a racing/irregular heartbeat.
+   - Sudden confusion, slurred speech, or difficulty waking up.
+   - Weakness or numbness on one side of the body.
+   - Severe shortness of breath or blue-tinted lips.
+   - A seizure or a significant head injury from a fall.
+5. **Alert someone nearby or by phone.**  
+   **Ask a person to stay with you** or keep them on a speakerphone call. If you are alone, **unlock the front door** only if you can do so without standing up, then return to a lying position.
+6. **Reintroduce movement in slow stages.**  
+   Once the feeling passes, **stay lying down for at least 15 to 30 minutes**. Move to a sitting position slowly; if the lightheadedness returns, **lie back down immediately**. 
+7. **Hydrate with small sips of water.**  
+   If you are fully alert and not nauseated, **sip water slowly**. If you have diabetes, **check your blood glucose levels** if the equipment is within reach.
+8. **Document the "clinician-ready" details.**  
+   Note the following for when you seek medical care:
+   - What you were doing when it started (standing up, exerting yourself, etc.).
+   - How many times it has happened today.
+   - Any other symptoms like palpitations or abdominal pain.
 
 ## What can wait
-- You don’t need to determine the exact cause during an episode.
-- You don’t need to decide on tests, specialists, or long-term changes right now.
-- You can postpone detailed tracking (full symptom diaries, wearable trends) until after you’ve been evaluated and you’re safe.
+- You do not need to determine the medical cause (e.g., heart vs. dehydration) yourself.
+- You do not need to choose a long-term treatment plan today.
+- You can postpone looking up symptoms or "doctor-searching" until you have been medically cleared.
 
 ## Important reassurance
-This sensation can feel intense and alarming, especially when it repeats. The safest move is simple: get flat, legs up, and avoid standing to “test” yourself. Getting same-day evaluation for recurrent episodes is a reasonable safety-first choice.
+Feeling as though you might pass out is a common physical response to a temporary drop in blood flow to the brain. Lying down is the most effective way to stop the sensation and prevent injury. It is normal to feel shaken or anxious when these symptoms repeat, but getting flat immediately is a controlled, safe action.
 
 ## Scope note
-This is first-steps guidance to prevent injury and avoid missing urgent causes of faintness. After you’re stable, a clinician may check blood pressure (including standing), heart rhythm (ECG), hydration status, blood sugar, or medication effects.
+This is first-step stabilization guidance only. Recurrent near-fainting requires a professional medical evaluation to rule out underlying heart rhythm issues, blood pressure disorders, or other systemic causes.
 
 ## Important note
-This is general information, not a diagnosis. If you think it could be an emergency, call 911. If you’re unsure but symptoms are recurring, getting same-day medical advice is appropriate.
+This guide is for informational purposes and is not a medical diagnosis. If symptoms are severe, worsening, or occur with chest pain or confusion, call 911 immediately.
 
 ## Additional Resources
-- https://www.mayoclinic.org/first-aid/first-aid-fainting/basics/art-20056606
-- https://medlineplus.gov/ency/article/003092.htm
-- https://www.emergencyphysicians.org/article/know-when-to-go/fainting
+- https://medlineplus.gov/fainting.html
 - https://www.heart.org/en/health-topics/arrhythmia/symptoms-diagnosis--monitoring-of-arrhythmia/syncope-fainting
+- https://www.heart.org/en/health-topics/arrhythmia/symptoms-diagnosis--monitoring-of-arrhythmia/tilt-table-test
+- https://medlineplus.gov/arrhythmia.html
+- https://medlineplus.gov/lab-tests/autonomic-testing/

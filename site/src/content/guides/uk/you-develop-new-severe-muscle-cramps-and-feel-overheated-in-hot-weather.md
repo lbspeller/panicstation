@@ -1,77 +1,89 @@
-﻿---
+---
 title: "What to do if… you develop new severe muscle cramps and feel overheated in hot weather"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - severe muscle cramps in heat
-  - sudden cramps hot weather
-  - overheating and cramps
-  - heat cramps legs
-  - heat cramps abdomen
-  - cramping while sweating a lot
-  - dizzy and cramping in heat
-  - heat exhaustion early signs
-  - feeling faint in hot weather
-  - heavy sweating then cramps
-  - cramps after walking in sun
-  - cramps after exercise in heat
-  - hot day muscle spasms
-  - dehydration cramps
-  - electrolyte loss cramps
-  - too hot to function
-  - heat illness symptoms
-  - can’t cool down in heat
-last_reviewed: "2026-02-21"
+  - "severe muscle cramps in heat"
+  - "sudden cramps hot weather"
+  - "overheating and cramps"
+  - "heat cramps legs"
+  - "heat cramps abdomen"
+  - "cramping while sweating a lot"
+  - "dizzy and cramping in heat"
+  - "heat exhaustion early signs"
+  - "feeling faint in hot weather"
+  - "heavy sweating then cramps"
+  - "cramps after walking in sun"
+  - "cramps after exercise in heat"
+  - "hot day muscle spasms"
+  - "dehydration cramps"
+  - "electrolyte loss cramps"
+  - "too hot to function"
+  - "heat illness symptoms"
+  - "can-t cool down in heat"
+  - "what do i do if i have heat cramps"
+  - "what do i do if my legs cramp in the sun"
+  - "what do i do if i feel sick and hot"
+  - "what do i do if i am overheating"
+  - "help i have severe cramps in the heat"
+  - "help i am dizzy and hot"
+  - "help i am sweating and cramping"
+  - "my muscles are locking up in the heat"
+  - "heat rash and cramps"
+  - "sunburn and muscle pain"
+  - "heatstroke warning signs"
+  - "heat exhaustion 30 minute rule"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you develop new severe muscle cramps and feel overheated in hot weather (UK)
 
 ## Short answer
-Treat this as a heat illness warning: stop what you’re doing, get to shade or a cooler indoor place, and start cooling your body now. If you do not start to feel better within about 30 minutes of cooling, or you develop “heatstroke” signs (confusion, collapse, seizure), call 999 (or 112).
+Stop all physical activity immediately, move to a cool or shaded area, and lie down with your legs raised while beginning active cooling. If you do not feel significantly better within 30 minutes, or if you show signs of heatstroke (confusion, seizure, loss of consciousness), call 999 or 112 immediately.
 
 ## Do not do these things
-- Do not “push through” the cramps or keep exercising/working in the heat.
-- Do not take salt tablets.
-- Do not gulp huge amounts of water quickly. Sip steadily instead.
-- Do not force fluids if someone is very drowsy, choking, or vomiting repeatedly.
-- Do not drink alcohol to “rehydrate”.
-- Do not leave someone alone if they seem very unwell, confused, or faint.
+- Do not attempt to "walk off" the cramps or continue working in the heat.
+- Do not take salt tablets unless specifically prescribed by a doctor.
+- Do not drink large volumes of water in a single gulp; sip it slowly.
+- Do not drink alcohol or highly caffeinated drinks to rehydrate.
+- Do not leave an overheated person alone if they seem confused or drowsy.
+- Do not apply ice directly to the skin; wrap cold packs in a cloth first.
 
 ## What to do now
-1. **Stop and move somewhere cooler immediately.** Go indoors if you can (air conditioning is ideal). If not, get into deep shade and away from hot surfaces (pavement, parked cars).
-2. **Start active cooling straight away.**
-   - Remove unnecessary layers (including socks/jacket).
-   - Cool the skin: spray/sponge with cool water, fan the skin.
-   - Put cold packs (wrapped in cloth) on the neck and under the armpits if available.
-3. **Rehydrate gradually (if you can swallow safely).** Take frequent sips of cool water. If you’ve been sweating heavily, a sports/rehydration drink can help replace salts and sugars lost in sweat.
-4. **Ease the cramps safely.** Rest the affected muscles. Gently stretch and/or lightly massage the cramping area if it helps, but stop if pain is sharp or worsening.
-5. **Do a quick “heatstroke check” and be ready to escalate. Call 999 (or 112) if any apply:**
-   - confusion, unusual behaviour, severe agitation, or not “making sense”
-   - collapse, fainting that doesn’t quickly improve when cooled/lying down
-   - seizure
-   - very hot skin with deterioration (whether sweating or not)
-6. **Use the 30-minute improvement rule.** If you are **not clearly improving within about 30 minutes** of cooling and fluids, **get urgent help**:
-   - **Call 999 (or 112)** if symptoms are severe, worsening, or you’re worried about heatstroke.
-   - Otherwise, **contact NHS 111** for urgent advice.
-7. **If you’re with someone else:** stay with them, keep cooling them, and do not let them go back into the heat “to finish up”.
+1. **Move to a cool, shaded area or an indoor room immediately.** **Get out of direct sunlight and away from hot surfaces like tarmac or vehicles.**
+2. **Lie down and elevate your feet slightly above the level of your heart.** **This helps blood flow and allows your body to begin recovering from the physical strain of overheating.**
+3. **Remove unnecessary clothing to help your body dissipate heat.** **Take off shoes, socks, jackets, and any heavy or tight-fitting layers.**
+4. **Start active cooling of the skin using water and airflow.**
+   - **Sponge or spray the skin with cool water.**
+   - **Fan the skin while it is damp to encourage evaporation.**
+   - **Place cloth-wrapped cold packs or wet flannels on the neck and under the armpits.**
+5. **Rehydrate slowly with cool fluids if you can swallow safely.** **Sip water, a sports drink, or an oral rehydration solution to replace lost salts and sugars.**
+6. **Gently stretch the cramping muscles once the initial sharp pain eases.** **Stop if the pain worsens or if the muscle tightens further; do not use force.**
+7. **Monitor for emergency heatstroke signs and call 999 or 112 if they appear.** **Seek immediate help if you experience:**
+   - **Confusion, lack of coordination, or unusual behaviour.**
+   - **A seizure or fit.**
+   - **Loss of consciousness or unresponsiveness.**
+   - **Shortness of breath or very rapid heartbeat.**
+   - **Hot, dry skin (even if you stopped sweating).**
+8. **Follow the 30-minute improvement rule.** **If you have been cooling down for 30 minutes and still feel unwell, or your symptoms are worsening, contact NHS 111 or call 999 in an emergency.**
 
 ## What can wait
-- You do not need to decide “what caused it” right now.
-- You do not need to finish your activity, get home fast, or prove you’re okay.
-- You can deal later with work/messages/plans—cooling and safety come first.
+- You do not need to finish your current task or "tidy up" your equipment now.
+- You do not need to travel home or to a different location if you are currently in a safe, cool spot.
+- You do not need to determine the exact medical cause (dehydration versus heat exhaustion) before starting cooling.
+- You do not need to check your temperature with a thermometer; base your actions on how you feel.
 
 ## Important reassurance
-Severe cramps and overheating in hot weather can happen suddenly, even to fit people, and it’s a legitimate reason to stop immediately. Cooling early is the main thing that prevents heat illness from escalating.
+Muscle cramps and feeling overheated are the body's clear signals to stop. It is common for these symptoms to appear suddenly, even in individuals who are physically fit. Taking a break to cool down now is a necessary safety step, not a sign of failure or poor fitness.
 
 ## Scope note
-This is first-step guidance for the next hour. Ongoing symptoms, repeated episodes, or additional symptoms (chest pain, severe weakness, persistent vomiting) should be assessed by a clinician.
+This guide provides first-step stabilization for acute heat-related muscle cramps and overheating. It is not a substitute for professional medical assessment.
 
 ## Important note
-This guide is general information, not a diagnosis. If you think you (or someone else) may have heatstroke or are rapidly worsening, treat it as an emergency and call 999 (or 112).
+Heat illness can progress rapidly from heat exhaustion to life-threatening heatstroke. If symptoms do not improve quickly with cooling or if someone becomes confused or loses consciousness, treat it as a medical emergency and call 999 or 112 immediately.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/
 - https://www.gov.uk/government/publications/beat-the-heat-hot-weather-advice/beat-the-heat-staying-safe-in-hot-weather
-- https://www.sja.org.uk/first-aid-advice/heat-exhaustion/
-- https://www.nwas.nhs.uk/services/support/summer/
-- https://www.england.nhs.uk/2024/06/views-of-nhs-website-heat-health-advice-double-as-temperatures-soar/
+- https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/
+- https://www.nhsinform.scot/illnesses-and-conditions/a-z/heatstroke-and-heat-illness/
+- https://www.nhs.uk/conditions/dehydration/

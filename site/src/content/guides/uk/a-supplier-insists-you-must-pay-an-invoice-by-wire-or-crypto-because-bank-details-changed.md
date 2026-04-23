@@ -1,84 +1,91 @@
-﻿---
+---
 title: "What to do if… a supplier insists you must pay an invoice by wire or crypto because “bank details changed”"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - supplier bank details changed
-  - invoice bank change email
-  - pay by wire only request
-  - pay by crypto request
-  - urgent invoice payment pressure
-  - accounts payable scam
-  - mandate fraud
-  - invoice diversion scam
-  - business email compromise
-  - vendor impersonation
-  - spoofed supplier email
-  - payment instructions changed
-  - new bank account for supplier
-  - invoice payment to new account
-  - crypto invoice settlement
-  - fraudulent invoice concern
-  - supplier email hacked
-  - bank transfer recall uk
-  - verify supplier bank details
-  - wire transfer scam warning
-last_reviewed: "2026-01-10"
+  - "supplier bank details changed"
+  - "invoice bank change email"
+  - "pay by wire only request"
+  - "pay by crypto request"
+  - "urgent invoice payment pressure"
+  - "accounts payable scam"
+  - "mandate fraud"
+  - "invoice diversion scam"
+  - "business email compromise"
+  - "vendor impersonation"
+  - "spoofed supplier email"
+  - "payment instructions changed"
+  - "new bank account for supplier"
+  - "invoice payment to new account"
+  - "crypto invoice settlement"
+  - "fraudulent invoice concern"
+  - "supplier email hacked"
+  - "bank transfer recall uk"
+  - "verify supplier bank details"
+  - "wire transfer scam warning"
+  - "what do i do if supplier changed bank details"
+  - "what do i do if invoice says pay crypto"
+  - "what do i do if bank details are different"
+  - "what do i do if vendor email looks suspicious"
+  - "help i paid a fake invoice"
+  - "help i sent money to the wrong bank account"
+  - "help i paid a scammer by wire"
+  - "my supplier was hacked"
+  - "my invoice has new bank details"
+  - "smell of fraud on invoice"
+  - "fake invoice red flags"
+  - "suspicious payment request"
+  - "new payee name mismatch"
+  - "confirmation of payee warning"
+  - "unexpected bank account change"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a supplier insists you must pay an invoice by wire or crypto because “bank details changed” (UK)
 
 ## Short answer
-Pause the payment and verify the change using a trusted contact method you already had for the supplier (not the details in the message). If you’ve already paid, contact your bank immediately and report it as suspected fraud.
+Stop the payment immediately and verify the request using a trusted, pre-existing contact method for the supplier. If money has already been sent, call your bank's fraud department or use the 159 hotline right away.
 
 ## Do not do these things
-- Do not pay to new wire details or a crypto address just because you’re being chased for urgent payment.
-- Do not “verify” using the phone number, link, or email address inside the change request.
-- Do not reply in the same email thread to confirm new payment details (assume the thread may be compromised until proven otherwise).
-- Do not approve a new payee or change saved beneficiary details while you feel rushed or pressured.
-- Do not share banking credentials, one-time passcodes, or approve unexpected prompts for someone who contacted you first.
-- Do not delete emails, invoices, attachments, or chat logs.
+- Do not use any contact details found within the suspicious email or invoice to verify the change.
+- Do not "reply" to the email thread to ask if the details are correct.
+- Do not ignore "Confirmation of Payee" (CoP) warnings in your banking app.
+- Do not pay by cryptocurrency or wire transfer under pressure of "account suspension" or "late fees."
+- Do not authorize a payment while feeling rushed or during an unsolicited phone call.
+- Do not delete the suspicious message or any associated attachments.
 
 ## What to do now
-1. **Put a hold on the invoice internally.** Mark it “verification pending” and tell anyone who can release payments that nothing is to be paid until bank details are verified.
-2. **Verify the supplier using “known-good” details you already had.** Use a phone number or portal you previously used successfully (your vendor master record, contract, last paid invoice on file, or the supplier’s official website you navigate to yourself). Avoid any contact details provided in the change request.
-3. **Ask verification questions that don’t rely on the suspicious message.** For example:
-   - “Did you change bank details and why?”
-   - “What are the last 4 digits (or other partial identifier) of the bank account we previously paid?”
-   - “Please confirm the invoice number, amount, and PO/reference without me prompting.”
-4. **Treat “wire or crypto only” as a red flag unless it matches your contract and history.** If you’ve never paid them by crypto before, don’t switch under pressure.
-5. **Cross-check against your records before setting up any new payee.** Compare the “new” details to your vendor master file and prior remittance details. If anything is different or undocumented, keep the payment on hold.
-6. **If your bank shows a payee-name match warning when you set up/alter the payee, stop.** Do not proceed if the name doesn’t match, partially matches, or you get a warning you can’t explain.
-7. **Require a formal change process (not “please update today” by email).** Use your established vendor-change controls (a separate confirmation step, a second-person approval, and an out-of-band call-back using known-good contact info).
-8. **If you think the supplier’s email is compromised, warn them safely.** Tell the supplier (via known-good contact details) that you received a bank-change/payment-method demand and they should check finance contacts and mailbox security.
-9. **If you have already sent money: act immediately.**
-   - **Call your bank’s fraud team straight away** and ask them to **try to recover/recall the payment** and to contact the receiving bank urgently. Outcomes vary by payment type and timing, but speed matters.
-   - If you sent **crypto**, contact the platform/exchange you used immediately and report suspected fraud. Crypto transfers are typically hard to reverse, so rapid reporting and evidence preservation matter.
-10. **Report it (even if you didn’t lose money).**
-   - **England, Wales, Northern Ireland:** report to **Report Fraud**.
-   - **Scotland:** report to **Police Scotland (101)**.
-   - Forward suspicious emails to **report@phishing.gov.uk** and forward scam texts to **7726** (free).
-11. **Preserve evidence in one bundle.** Save the invoice, the change request, sender details, any bank details/crypto address, dates/times, who approved what, and screenshots of payment screens (without exposing passwords).
+1. **Place an immediate internal hold on the invoice and the supplier's payment profile.** **Alert your accounts payable team or anyone with payment authority that these specific bank details are unverified and must not be used.**
+2. **Contact the supplier using "known-good" information from your own records.** **Use a phone number from a previous contract, a physical invoice you have already successfully paid, or their verified website to call a known contact.**
+   - Do not call numbers provided in the "new" request.
+   - Speak to a person you recognize or ask to be put through to their finance director.
+3. **Perform an out-of-band verification of the new bank details.** **Ask the supplier to confirm the full new account number, sort code, and the reason for the change over the phone.**
+   - Verify specific details from previous legitimate transactions (e.g., "What was our last PO number?") to ensure you are speaking to the correct entity.
+4. **Utilize the 159 short-code if you have already initiated a payment.** **Call 159 from your phone to be connected securely to your bank’s fraud department to report the transaction.**
+   - If 159 is not supported by your provider, call the number on the back of your bank card or the official fraud line.
+5. **Check for "Confirmation of Payee" (CoP) results when setting up the new recipient.** **Note if the bank returns a "No Match" or "Close Match" warning, as this indicates the account name provided does not match the bank's records for that account.**
+6. **Warn the supplier about the potential compromise via a separate channel.** **If you confirm the request was fraudulent, notify the supplier using a phone call or a new email thread so they can secure their systems.**
+7. **Forward the suspicious email to the National Cyber Security Centre (NCSC).** **Send the email as an attachment to report@phishing.gov.uk to help block the scammer's infrastructure.**
+8. **Report the incident to the official UK authorities.** **Submit a report to Report Fraud (England, Wales, and NI) online or via 0300 123 2040, or call Police Scotland on 101.**
+9. **Preserve all metadata and evidence for potential recovery.** **Save copies of the original email (including headers), the fraudulent invoice, and any logs of the communication.**
 
 ## What can wait
-- Deciding whether to keep using the supplier or renegotiate terms.
-- Arguing over late fees or service disruption threats (once you’ve placed the hold and started verification).
-- Writing a full incident report; for now, preserve evidence and record the basics.
-- Any legal steps—those are later, after the urgent payment risk is contained.
+- Negotiating service levels or discussing the underlying contract with the supplier.
+- Updating your internal "Vendor Master File" permanently (wait until verification is 100% complete).
+- Seeking legal advice on debt liability for the diverted payment.
+- Investigating how your or the supplier's email was originally compromised.
 
 ## Important reassurance
-These “bank details changed” demands are a common way payments get diverted, and pausing to verify is a normal, responsible control. A legitimate supplier will usually understand a brief delay for verification.
+Mandate fraud and "invoice diversion" are sophisticated and very common. Pausing a payment to perform a security check is a sign of professional financial control, not a lack of trust. Legitimate businesses expect and appreciate these verification steps in the current threat environment.
 
 ## Scope note
-This is first-step guidance to prevent an irreversible payment mistake and to trigger the right immediate actions. Follow-up (supplier relationship, internal controls, insurance, legal recovery) can come after the situation is stable.
+This guide provides first-step stabilization to prevent financial loss or initiate immediate recovery. It does not cover long-term IT security audits, insurance claims, or legal litigation regarding contract breaches.
 
 ## Important note
-This is general information, not legal or financial advice. Bank processes and recovery options vary and are not guaranteed. When money may have been misdirected, acting quickly and using trusted contact routes is often the safest approach.
+This information is for general guidance and does not constitute legal or financial advice. The success of bank recalls or fraud reports depends on timing and the specific policies of the financial institutions involved. Cryptocurrency payments are generally irreversible and extremely high-risk.
 
 ## Additional Resources
-- https://www.reportfraud.police.uk/mandate-fraud/
-- https://www.reportfraud.police.uk/know-your-suppliers/
-- https://www.reportfraud.police.uk/phishing/
-- https://www.gov.uk/report-suspicious-emails-websites-phishing
-- https://www.actionfraud.org.uk/invoice-scams/
-- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
+- https://www.takefive-stopfraud.org.uk/protect-yourself/invoice-and-mandate/
+- https://www.citizensadvice.org.uk/consumer/scams/check-if-something-might-be-a-scam/
+- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
+- https://www.fca.org.uk/consumers/fraudulent-payments
+- https://www.takefive-stopfraud.org.uk/protect-your-business/banking-fraud/

@@ -1,89 +1,90 @@
-﻿---
+---
 title: "What to do if… your job offer is withdrawn shortly before you are due to start"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - job offer withdrawn
-  - offer withdrawn before start
-  - offer rescinded last minute
-  - new job start cancelled
-  - job offer pulled
-  - job offer revoked
-  - start date next week
-  - due to start soon
-  - signed offer letter
-  - accepted job offer
-  - conditional job offer
-  - unconditional job offer
-  - offer withdrawn after resignation
-  - quit old job already
-  - relocation booked for job
-  - right to work check issue
-  - dbs check delayed
-  - reference issue offer
-  - notice period question
-  - offer withdrawn discrimination
-last_reviewed: "2026-01-07"
+  - "unexplained payslip deduction"
+  - "unknown payslip line item"
+  - "pay statement deduction error"
+  - "net pay suddenly lower"
+  - "employer took money from wages"
+  - "unauthorised deduction from wages"
+  - "wrong tax deducted on payslip"
+  - "tax code mismatch payslip"
+  - "unexpected pension contribution deduction"
+  - "student loan deduction surprise"
+  - "attachment of earnings deduction"
+  - "overpayment clawback from wages"
+  - "till shortage deduction retail"
+  - "payroll mistake this month"
+  - "deduction i did not authorise"
+  - "payslip shows new deduction"
+  - "wages not paid in full"
+  - "payslip missing explanation"
+  - "what do i do if my pay is wrong"
+  - "what do i do if my employer took money"
+  - "what do i do if my payslip has a deduction"
+  - "what do i do if my wages are short"
+  - "help i have a deduction on my payslip"
+  - "help i do not recognise a line on my payslip"
+  - "help i was underpaid this month"
+  - "help i have an unknown deduction"
+  - "unrecognised pay statement deduction"
+  - "wrong tax code deduction"
+  - "missing wages on pay statement"
+  - "deduction for uniform uk"
+  - "deduction for training uk"
+  - "retail till shortage 10 percent limit"
+  - "wrong pension deduction"
+  - "hmrc tax code error 2026"
+  - "illegal deduction from wages uk"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your job offer is withdrawn shortly before you are due to start (UK)
 
 ## Short answer
-Stop any irreversible moves, get the withdrawal confirmed in writing, and check whether you had an unconditional offer (or a conditional offer where you’d already met the conditions). If so, you may be entitled to notice pay or other compensation—so get quick UK-specific advice before you agree to anything.
+Pause, secure a copy of the payslip, and request a written explanation from payroll identifying the specific legal or contractual authority for the deduction. Do not sign any agreement or repayment plan until you have received this itemised breakdown in writing.
 
 ## Do not do these things
-- Do not assume you have “no rights” just because you have not started yet.
-- Do not accept a phone-only explanation—ask for written confirmation of what’s been decided.
-- Do not sign anything labelled “settlement”, “compromise”, “waiver”, or “full and final” while you’re still in shock or without advice.
-- Do not delete emails/texts, throw away letters, or lose access to recruitment portals—save copies now.
-- Do not post about it publicly or name the employer online while facts (and your options) are still unclear.
-- If you have not resigned from your current job yet, do not hand in notice until you have clarity that your offer is unconditional.
+- Do not assume a deduction is correct just because it is labelled "tax" or "NI"—labels can be applied incorrectly by automated systems.
+- Do not sign forms "authorising" future deductions or repayment schedules until the current discrepancy is fully explained.
+- Do not attempt to "self-correct" the pay gap by refusing to perform duties or reducing your hours, as this may lead to disciplinary action.
+- Do not hand over original personal documents to anyone; provide only digital copies or photocopies through official HR/payroll channels.
+- Do not rely on verbal assurances that the error will be "fixed next month" without a written record of the commitment.
 
 ## What to do now
-1. **Give yourself a short buffer (10–20 minutes).** Decide: “No big decisions until I have this in writing and I’ve checked the offer terms.”
-2. **Get the withdrawal confirmed in writing today.** Ask HR/recruitment to confirm by email:
-   - the offer is withdrawn (and the date they decided)
-   - whether it was **conditional or unconditional**
-   - which condition(s) they say were not met (if any)
-   - the notice period they believe applies (if the contract had started)  
-   They may not have to give a reason, but it’s still reasonable to ask.
-3. **Save your “contract pack” and make a timeline.** Keep: offer letter, your acceptance, contract/terms, start date, pay, notice clause, and any conditions (references, right to work, DBS, qualifications). Write key dates: offered / accepted / conditions met / withdrawn / you resigned (if you did).
-4. **Work out whether the employment contract had started.**
-   - If you accepted an **unconditional** offer, it can mean you were already in a binding contract (even if acceptance was verbal).
-   - If your offer was **conditional** and you **had met the conditions before they withdrew it**, it can also mean the contract had started.
-   - If you had **not** met the conditions, they can usually withdraw without paying you (unless discrimination is involved).  
-   If the offer/acceptance was verbal, the law treats it similarly, but it can be harder to prove the exact terms—so writing matters.
-5. **Ask for a practical remedy in the same message.** Keep it calm and specific:
-   - “Can you reinstate the offer or delay the start date while we resolve this?”
-   - “If you’re ending the contract, can you confirm the notice pay/payment in lieu you will provide and when it will be paid?”
-6. **If you already resigned from your current job, act immediately.** Contact your current/previous employer the same day and ask whether your resignation can be withdrawn or your leaving date moved. There’s no guarantee, but moving fast helps.
-7. **If the withdrawal might relate to a check (right to work/DBS/references), ask what exactly is missing and whether you can fix it quickly.** For example, ask for:
-   - what document they need for right to work
-   - whether a DBS application is pending vs failed, and what the next step is
-   - whether a reference was “not received” vs “unsatisfactory”
-8. **If you suspect discrimination, write down what happened while it’s fresh.** Note exact words, dates, and who said what—especially if the change happened after you disclosed pregnancy, disability/health needs, religion, etc.
-9. **Protect tribunal deadlines now (even if you’re unsure).** Many employment tribunal claims have a strict time limit of **3 months minus 1 day** from the problem happening. If you may claim discrimination (or another tribunal claim), **notify Acas for Early Conciliation as soon as possible** so you don’t lose the option.
-10. **Stabilise money for the next 2–4 weeks only.** Pause job-related spending (relocation, travel, deposits) while refund windows are open. List essential bills and any penalties you may face because you relied on the offer.
+1. **Secure the evidence immediately.** Save a digital copy or take a clear photograph of the payslip and any "notice of change" you may have received.
+   - Pull your last two payslips to identify exactly which line item changed or appeared for the first time.
+   - Note the "Pay Date" and the "Pay Period" (e.g., March 1 to March 31).
+2. **Exercise your right to an itemised statement.** If your payslip does not clearly show the gross amount, net amount, and each individual deduction, inform payroll in writing that you require an itemised pay statement as per Section 8 of the Employment Rights Act 1996.
+3. **Request a written "Basis of Deduction" today.** Send a concise message to payroll or HR: *"I do not recognise the deduction of £[Amount] on my payslip dated [Date]. Please provide the written legal or contractual authority for this deduction and a breakdown of how it was calculated."*
+4. **Categorise the deduction to determine the next step:**
+   - **Tax Code Mismatch:** Compare the code on your payslip (e.g., 1257L) to the one shown in your HMRC Personal Tax Account. If they differ, contact HMRC to update your code; payroll cannot change this without a notification from HMRC.
+   - **Student Loans:** Verify if your earnings exceed the 2026/27 thresholds: Plan 1 (£26,900), Plan 2 (£29,385), Plan 4 (£33,795), Plan 5 (£25,000), or Postgraduate (£21,000).
+   - **Retail Till Shortages:** If you work in retail, verify the 10% limit. Under Section 18 of the ERA 1996, an employer cannot deduct more than 10% of your gross pay in any one pay period for cash or stock shortages.
+   - **Overpayment Recovery:** If the employer claims they overpaid you previously, ask for a list of dates and amounts. You have the right to request a "reasonable" repayment schedule if a lump-sum deduction causes financial hardship.
+5. **Check National Minimum Wage (NMW) compliance.** Ensure that any deduction for tools, uniforms, or mandatory training does not take your average hourly pay below the current NMW for your age group.
+6. **Escalate through formal channels if unresolved.** If payroll does not provide a valid reason or refuses to correct an error, submit a formal internal grievance.
+   - Contact Acas for "Early Conciliation" if the dispute continues.
+   - Be aware of tribunal time limits: For claims occurring before October 2026, the limit is 3 months minus 1 day. For claims occurring from October 2026 onwards, the limit extends to 6 months under the Employment Rights Act 2025.
 
 ## What can wait
-- You do not need to decide today whether you will sue or go to a tribunal.
-- You do not need to write a long, emotional email—short, factual messages are safer right now.
-- You do not need to update LinkedIn, explain it publicly, or warn others online.
-- You do not need to accept a “final” position until you’ve checked whether the contract had started and what notice/compensation may be due.
+- You do not need to calculate your entire pay history today; focus only on the current discrepancy.
+- You do not need to decide on legal action immediately; obtaining the written explanation is the priority.
+- You do not need to involve your line manager if you prefer to deal directly with the payroll or HR departments.
 
 ## Important reassurance
-This is a genuinely destabilising last-minute change. Feeling panicky or embarrassed is normal. Getting everything in writing and slowing down your next moves is how you protect yourself and avoid irreversible mistakes.
+Questioning an unknown deduction is a standard administrative query, not a confrontational act. Most payroll discrepancies are the result of automated tax code updates, software errors, or misapplied pension settings. Requesting clarity is a routine part of managing your employment records.
 
 ## Scope note
-First steps only: this guide focuses on immediate damage-limitation and preserving options. Employment law and processes differ in Northern Ireland, so if you’re in NI, get NI-specific advice alongside these steps.
+This guide covers immediate stabilization and evidence gathering for unrecognised pay deductions. It does not provide legal representation or long-term debt management advice.
 
 ## Important note
-This is general information, not legal advice. Time limits can be strict, and outcomes depend on your documents, whether conditions were met, and whether discrimination may be involved. Get prompt advice before signing anything that waives rights.
+This information is for general guidance and does not constitute legal advice. Deductions required by law (such as tax, NI, or court orders) may occur without your individual consent. Always keep a written record of all communications regarding your pay.
 
 ## Additional Resources
-- https://www.gov.uk/job-offers-your-rights
 - https://www.acas.org.uk/if-your-job-offer-is-withdrawn
 - https://www.citizensadvice.org.uk/work/getting-a-job/if-your-job-offer-is-withdrawn/
-- https://www.gov.uk/employment-tribunals
-- https://www.acas.org.uk/early-conciliation/how-early-conciliation-works
-- https://www.equalityhumanrights.com/guidance/time-limits-discrimination-claims
+- https://www.gov.uk/job-offers-your-rights
+- https://www.acas.org.uk/early-conciliation
+- https://www.citizensadvice.org.uk/work/discrimination-at-work/dealing-with-discrimination-at-work/checking-if-its-discrimination/if-you-think-youve-been-unfairly-treated-when-applying-for-a-job/

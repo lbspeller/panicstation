@@ -1,78 +1,94 @@
-﻿---
+---
 title: "What to do if… someone calls claiming your bank will send a courier to collect your card and pressures you"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - bank courier scam call
-  - courier fraud card pickup
-  - bank impersonation phone call
-  - card collection scam
-  - pressured to hand over card
-  - suspicious call about card
-  - caller says fraud on account
-  - spoofed bank phone number
-  - asked for pin over phone
-  - asked for one-time passcode
-  - asked to cut up card
-  - asked to keep line open
-  - unexpected bank security call
-  - someone coming to collect card
-  - debit card courier pickup
-  - credit card courier pickup
-  - scammer posing as police
-  - told not to tell anyone
-  - “safe account” pressure
-  - urgent banking call pressure
-last_reviewed: "2026-01-10"
+  - "bank courier scam call"
+  - "courier fraud card pickup"
+  - "bank impersonation phone call"
+  - "card collection scam"
+  - "pressured to hand over card"
+  - "suspicious call about card"
+  - "caller says fraud on account"
+  - "spoofed bank phone number"
+  - "asked for pin over phone"
+  - "asked for one-time passcode"
+  - "asked to cut up card"
+  - "asked to keep line open"
+  - "unexpected bank security call"
+  - "someone coming to collect card"
+  - "debit card courier pickup"
+  - "credit card courier pickup"
+  - "scammer posing as police"
+  - "told not to tell anyone"
+  - "safe account pressure"
+  - "urgent banking call pressure"
+  - "fraud squad impersonation"
+  - "police courier scam uk"
+  - "bank card collection fraud"
+  - "help i gave my pin to a caller"
+  - "what do i do if my bank calls to collect my card"
+  - "what do i do if a courier is coming for my card"
+  - "what do i do if someone calls about my bank security"
+  - "what do i do if i shared my banking otp"
+  - "help i think i am being scammed by a bank courier"
+  - "my bank says they are sending a courier"
+  - "my card needs to be collected for fraud"
+  - "smell of scam on bank phone call"
+  - "voice of authority banking scam"
+  - "phone call from fraud department pressure"
+  - "fake police officer courier fraud"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… someone calls claiming your bank will send a courier to collect your card and pressures you (UK)
 
 ## Short answer
-Hang up now and do **not** hand over your bank card, PIN, or any codes. Then contact your bank using a **trusted** route (for many UK banks, dial **159** or use the number on the back of your card).
+Hang up immediately and do not hand over your bank card, cash, or PIN to anyone. Contact your bank using a trusted route by dialling **159** from a different phone or after waiting at least 10 minutes to ensure the line is clear.
 
 ## Do not do these things
-- Don’t give them your **PIN**, online banking password, or any **one-time passcode** (OTP) from a text/app.
-- Don’t agree to a “courier” collecting your card, cash, or valuables — even if they sound official.
-- Don’t stay on the line while you “verify” anything, and don’t call back using a number they give you.
-- Don’t cut up your card because they told you to (or “leave the chip intact”).
-- Don’t be talked into lying to your bank or “keeping it secret” from family.
-- Don’t assume it’s real just because they know your name/address or the number looks like your bank.
+- Do not provide your **PIN**, online banking password, or any **one-time passcode** (OTP) sent to your device.
+- Do not agree to a "courier" or taxi collecting your card, cash, or valuables, regardless of how official the caller sounds.
+- Do not stay on the line to "verify" the caller's identity; scammers can play fake dial tones or hold lines open.
+- Do not cut up your card if instructed to do so, especially if told to "leave the chip intact" for the courier.
+- Do not follow instructions to lie to your bank staff or keep the situation secret from family members.
+- Do not trust the caller's ID or name; fraudsters can spoof official bank and police phone numbers.
 
 ## What to do now
-1. **End the call.** Say “I’m hanging up now” and disconnect.  
-   - If you’re on a **landline**, hang up and then **wait a few minutes or use a different phone** before calling your bank (so you’re not accidentally still connected).
-2. **Remind yourself of the key rule:** your **bank and the police will not** ring you to say they’re sending a courier to collect your **card, cash, or valuables**.
-3. **If someone might come to your home:** keep the door locked.  
-   - If anyone turns up claiming to collect your card: **don’t open the door**. Tell them to leave.  
-   - If you feel in immediate danger, call **999**. If it’s not an emergency but you’re worried about someone at/near your home, call **101**.
-4. **Contact your bank safely (right now).**  
-   - Dial **159** (if your bank is on it), **or** use the number on the back of your card / a paper statement / your banking app.  
-   - Tell them: “I’ve had a call saying a courier will collect my card. I think this is courier fraud.” Ask them to **freeze/cancel the card**, check for **new payees/beneficiaries**, and review **recent and pending transactions**.
-5. **If you shared anything (even “small” details):**  
-   - Tell the bank exactly what you shared (PIN, passcodes, login, etc.). Ask them to **reset security** and review for **account changes** (like address/phone/email updates).  
-   - Only change passwords or settings once you’re **off the scam call** and using the bank’s **official app/site/number you trust**.
-6. **Write down the basics while it’s fresh:** the number that called, what they asked for, any names/“ID numbers,” whether they used your address, and any time/place mentioned.
-7. **Report it:**  
-   - Report to **Action Fraud** online, or call **0300 123 2040**. If you handed anything over or disclosed security details, do this **as well as** contacting your bank.
+1. **End the call immediately without further discussion.** Disconnect the call and do not wait for the caller to hang up first.
+   - If using a landline, wait at least 10 minutes before making a new call, or use a mobile phone. This prevents scammers from remaining on the line to intercept your next outgoing call.
+2. **Verify the caller’s claims through a safe channel.** 
+   - Dial **159** (the secure hotline for most UK banks) or use the number printed on the back of your physical bank card. 
+   - Tell the bank operator: "I received a call claiming a courier is coming to collect my card; I believe this is courier fraud."
+3. **Secure your accounts and physical cards.** 
+   - Ask your bank to **freeze or cancel the card** mentioned in the call.
+   - Request a review of any **recent or pending transactions** and check for any new payees or changes to your contact details.
+4. **Secure your home if a visit was threatened.**
+   - Ensure all doors and windows are locked. 
+   - If anyone arrives at your door claiming to be a courier or police officer, **do not open the door**. Tell them through the door to leave.
+   - Call **999** if you feel in immediate danger or if the person refuses to leave your property.
+5. **Report the incident to the authorities.**
+   - Contact **Report Fraud** (formerly Action Fraud) online or by calling **0300 123 2040**.
+   - If the caller claimed to be a police officer, call **101** to report the impersonation to your local force after you have spoken to your bank.
+6. **Note down specific details of the interaction.**
+   - Record the time of the call, the phone number displayed, the name/badge number used by the caller, and any specific instructions they gave you.
 
 ## What can wait
-- You don’t need to decide right now whether to “press charges” or do anything complicated.
-- You don’t need to work out exactly how they got your details today.
-- You don’t need to contact every organisation at once — **bank first**, then report.
+- You do not need to decide whether to change your phone number or close your bank accounts permanently today.
+- You do not need to investigate how the scammers obtained your personal details or address right now.
+- You do not need to contact the Financial Ombudsman Service until your bank has completed its initial investigation.
 
 ## Important reassurance
-These calls are designed to make sensible people panic and comply quickly. Hanging up can feel rude in the moment — but with banking, **ending contact and calling back safely is the correct move**.
+These callers are trained to create a sense of extreme urgency and fear to override your normal judgment. Hanging up on someone claiming to be an official is the safest and most responsible action when your financial security is at risk; legitimate institutions will never penalize you for verifying a call through an official channel.
 
 ## Scope note
-This is first steps only to stop loss and regain control. If money has gone missing or you shared security details, your bank can guide the next stages.
+This guide provides first-step stabilization for an active or recent courier fraud attempt. It does not cover long-term identity theft protection or the legal recovery process for lost funds.
 
 ## Important note
-This guide is general information, not legal or financial advice. If you feel in immediate danger, call **999**.
+This information is for guidance only and does not constitute legal or financial advice. Banking procedures and official reporting names may change; always prioritize instructions from your bank’s official fraud department.
 
 ## Additional Resources
 - https://www.takefive-stopfraud.org.uk/protect-yourself/courier-fraud/
-- https://www.reportfraud.police.uk/courier-fraud/
-- https://stopscamsuk.org.uk/our-work/159-phone-number/
-- https://stopscamsuk.org.uk/campaign/get-help-now/
-- https://www.police.uk/advice/advice-and-information/fa/fraud/personal-fraud/dtdc/courier-fraud/
+- https://www.takefive-stopfraud.org.uk/protect-yourself/impersonation-fraud/
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-call
+- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
+- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/

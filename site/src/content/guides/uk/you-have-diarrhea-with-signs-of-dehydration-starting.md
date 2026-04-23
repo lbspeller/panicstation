@@ -1,94 +1,103 @@
-﻿---
+---
 title: "What to do if… you have diarrhea with signs of dehydration starting"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - diarrhoea dehydration starting
-  - diarrhea dehydration starting
-  - loose stools dehydration
-  - watery diarrhoea feeling dizzy
-  - diarrhoea dark urine
-  - diarrhoea not peeing much
-  - diarrhoea dry mouth thirst
-  - diarrhoea lightheaded standing
-  - vomiting and diarrhoea dehydration
-  - stomach bug dehydration signs
-  - food poisoning dehydration signs
-  - gastroenteritis dehydration worries
-  - can’t keep fluids down
-  - dehydration getting worse
-  - adult dehydration diarrhoea
-  - older adult diarrhoea dehydration
-  - child diarrhoea dehydration worry
-  - dehydration confusion fainting
-  - dehydration dizzy not improving
-last_reviewed: "2026-01-18"
+  - "diarrhoea dehydration starting"
+  - "diarrhea dehydration starting"
+  - "loose stools dehydration"
+  - "watery diarrhoea feeling dizzy"
+  - "diarrhoea dark urine"
+  - "diarrhoea not peeing much"
+  - "diarrhoea dry mouth thirst"
+  - "diarrhoea lightheaded standing"
+  - "vomiting and diarrhoea dehydration"
+  - "stomach bug dehydration signs"
+  - "food poisoning dehydration signs"
+  - "gastroenteritis dehydration worries"
+  - "help i have diarrhoea"
+  - "help i am dehydrated"
+  - "what do i do if i have diarrhoea"
+  - "what do i do if i feel dehydrated"
+  - "my pee is dark and i have diarrhoea"
+  - "my mouth is dry and i have diarrhoea"
+  - "dark yellow urine dehydration"
+  - "sunken eyes diarrhoea"
+  - "sunken soft spot baby"
+  - "dizzy when standing up"
+  - "feeling weak with loose stools"
+  - "cannot keep fluids down"
+  - "diarrhoea 48 hour rule"
+  - "dehydration in older adults"
+  - "dehydration in infants"
+  - "diarrhoea hygiene steps"
+  - "dioralyte instructions"
+  - "how to mix rehydration salts"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you have diarrhea with signs of dehydration starting (UK)
 
 ## Short answer
-Start rehydrating now with frequent small sips (ideally an oral rehydration solution) and get same-day advice if you cannot keep fluids down or dehydration signs are not improving.
+Begin rehydrating immediately with frequent small sips of water or oral rehydration solution, and contact NHS 111 if you cannot keep fluids down or if symptoms like dizziness and dark urine do not improve.
 
 ## Do not do these things
-- Do not “push through” without drinking because you’re afraid it will worsen diarrhoea.
-- Do not chug a large amount quickly if you feel sick—sip little and often instead.
-- Do not have fruit juice or fizzy drinks to “replace fluids” (they can make diarrhoea worse).
-- Do not use alcohol to “settle your stomach.”
-- Do not give children under 12 medicine to stop diarrhoea.
-- Do not use “stop-diarrhoea” medicines to cover up serious symptoms; if there is bloody diarrhoea/bleeding from the bottom, or you feel severely unwell, get urgent advice first.
+- Do not stop drinking fluids to try and "slow down" the diarrhoea.
+- Do not gulp large amounts of liquid quickly, as this may trigger vomiting; use small, frequent sips.
+- Do not give fruit juice or fizzy drinks to children, as these can worsen diarrhoea.
+- Do not give "stop-diarrhoea" medicines (like loperamide) to children under 12.
+- Do not mix oral rehydration salts with anything other than water (use cooled boiled water for infants under one year).
+- Do not use alcohol or strong caffeine to hydrate.
 
 ## What to do now
-1. **Switch to “rehydration mode” immediately.**
-   - Take **small sips every few minutes**.
-   - If you feel sick or have been sick, start with **very small sips** and gradually increase.
+1. **Begin rehydrating with small, frequent sips immediately.**
+   - Take small sips every few minutes even if you feel nauseated.
+   - Use water, diluted squash, or oral rehydration solution (ORS) powders from a pharmacy.
+   - If treating an infant, continue breast or bottle feeds, offering smaller amounts more frequently.
 
-2. **Use an oral rehydration solution (ORS) if you can.**
-   - Ask a **pharmacist** for oral rehydration solutions (powders you mix with water).
-   - Mix it **exactly** as the packet says.
+2. **Prepare and use oral rehydration salts correctly if available.**
+   - Mix the powder with the exact amount of water specified on the packet (usually 200ml per sachet).
+   - **Never** add extra sugar or salt to the mix.
+   - For babies under 12 months, always use water that has been boiled and then cooled.
 
-3. **Do a quick check every hour to see if you’re improving.**
-   Look for:
-   - **Urine** becoming lighter and more frequent.
-   - **Dizziness on standing** settling.
-   - **Mouth/thirst** easing.
+3. **Check for sensory cues of worsening dehydration every hour.**
+   - **Monitor urine colour:** Dark yellow or strong-smelling urine indicates a need for more fluids.
+   - **Check for physical signs:** Look for a dry mouth, sunken eyes, or feeling unusually tired.
+   - **Check for infant-specific signs:** Look for a sunken soft spot (fontanelle) on the head, few or no tears when crying, or fewer wet nappies.
 
-4. **Use NHS escalation points (don’t wait for it to become extreme).**
-   - **Speak to a pharmacist** if you (or your child over 5) have dehydration signs such as dark, smelly urine or peeing less than usual.
-   - **Get urgent help from NHS 111 / urgent GP appointment** if:
-     - you’re confused/disorientated or unusually drowsy,
-     - dizziness on standing **does not go away**,
-     - you’re peeing less than normal or have dark yellow urine,
-     - you’re breathing quickly or have a fast heartbeat,
-     - you still have dehydration signs **after using ORS**, or
-     - you keep being sick and **cannot keep fluids down**, or
-     - you have **bloody diarrhoea or bleeding from the bottom**.
-   - **Call 999** if someone collapses, is not responding normally, or seems critically unwell.
+4. **Escalate to NHS 111 or an urgent GP appointment if specific triggers occur.**
+   - Seek help if you are dizzy when standing and it does not go away after a few seconds.
+   - Seek help if you have not peed for a long period (e.g., 12 hours for children) or urine remains very dark after rehydrating.
+   - Seek help if you are vomiting constantly and cannot keep any fluids down.
+   - Seek help if there is blood in the diarrhoea or bleeding from the bottom.
+   - **Call 111** specifically for any child under 5 with signs of dehydration.
 
-5. **Reduce spread while you recover.**
-   - Wash hands with soap and water frequently.
-   - Avoid preparing food for other people, and stay off work/school, **until at least 48 hours after diarrhoea/vomiting stops**.
+5. **Call 999 or 112 if emergency symptoms appear.**
+   - Seek immediate help if the person is confused, disorientated, or unusually drowsy.
+   - Seek immediate help if they are breathing very quickly or have a rapid heartbeat.
+   - Seek immediate help if someone collapses or is unresponsive.
 
-6. **If you’re higher-risk, escalate earlier.**
-   Get same-day advice via **111** if the unwell person is an infant/young child, older adult, pregnant, immunocompromised, or has significant long-term conditions.
+6. **Implement infection control measures to prevent spread.**
+   - Wash hands with soap and warm water frequently; alcohol gels often do not kill stomach bugs like norovirus.
+   - Stay home from work, school, or nursery until at least 48 hours after the last episode of diarrhoea or vomiting.
+   - Avoid preparing food for others during this 48-hour period.
 
 ## What can wait
-- You do not need to figure out the exact cause right now.
-- You do not need to “fix” your diet today—fluids first; eat only if you feel able.
-- You do not need to decide about tests or antibiotics now; that comes after assessment if symptoms persist or are severe.
+- You do not need to identify the specific virus or bacteria causing the illness right now.
+- You do not need to eat solid food immediately; focus entirely on fluid intake until you feel able to eat plain foods like rice or toast.
+- You do not need to visit a pharmacy in person if you are unwell; ask someone else to collect rehydration salts for you.
 
 ## Important reassurance
-Feeling weak, shaky, or lightheaded can happen quickly with diarrhoea because fluid and salts are being lost. Starting rehydration early is the most helpful first move and often turns things around.
+It is normal to feel weak, shaky, or lightheaded when losing fluids rapidly. In most cases, starting rehydration with small, steady sips at home is effective and prevents the situation from becoming a medical emergency.
 
 ## Scope note
-First steps only for the next few hours. Ongoing symptoms, worsening dehydration, or higher-risk situations need clinical advice.
+This guide covers first-step stabilization for emerging dehydration in the UK. It is not a substitute for clinical assessment if symptoms are severe, persistent, or involving high-risk individuals.
 
 ## Important note
-This is general information, not a diagnosis. If you’re unsure whether your symptoms are becoming serious, it’s safer to use **NHS 111**.
+This information is for general guidance and does not constitute a medical diagnosis. If symptoms do not improve after starting rehydration, or if you are concerned about a vulnerable person, contact NHS 111 or your GP.
 
 ## Additional Resources
-- https://www.nhs.uk/conditions/dehydration/
 - https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/
-- https://www.nhs.uk/medicines/loperamide/how-and-when-to-take-loperamide/
-- https://111.nhs.uk/
-- https://ukhsa.blog.gov.uk/2025/10/23/norovirus-what-to-do-if-you-catch-it-and-helping-to-stop-the-spread/
+- https://www.nhs.uk/conditions/dehydration/
+- https://www.uhs.nhs.uk/Media/UHS-website-2019/Patientinformation/Generalmedicine/Diarrhoea-1360-PIL.pdf
+- https://www.nhsinform.scot/illnesses-and-conditions/nutritional/dehydration/
+- https://111.wales.nhs.uk/diarrhoeaandvomiting/

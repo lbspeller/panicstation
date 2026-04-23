@@ -1,78 +1,94 @@
-﻿---
+---
 title: "What to do if… you suspect someone is trying to get access to your building by pretending to be delivering something"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - fake delivery person at door
-  - pretending to be a courier
-  - bogus delivery driver entry
-  - stranger at building entrance
-  - someone buzzing my apartment
-  - unexpected delivery at intercom
-  - package delivery ruse
-  - suspicious person in hallway
-  - tailgating into building
-  - piggybacking through security door
-  - apartment entry scam
-  - letting in a stranger mistake
-  - delivery uniform looks real
-  - pressured to open the door
-  - courier says for another unit
-  - someone wants gate code
-  - door buzzer safety
-  - secured lobby access
-  - suspicious delivery notice
-  - someone won’t leave doorway
-last_reviewed: "2026-01-10"
+  - "fake delivery person at door"
+  - "pretending to be a courier"
+  - "bogus delivery driver entry"
+  - "stranger at building entrance"
+  - "someone buzzing my apartment"
+  - "unexpected delivery at intercom"
+  - "package delivery ruse"
+  - "suspicious person in hallway"
+  - "tailgating into building"
+  - "piggybacking through security door"
+  - "apartment entry scam"
+  - "letting in a stranger mistake"
+  - "delivery uniform looks real"
+  - "pressured to open the door"
+  - "courier says for another unit"
+  - "someone wants gate code"
+  - "door buzzer safety"
+  - "secured lobby access"
+  - "suspicious delivery notice"
+  - "someone won't leave doorway"
+  - "unauthorized building entry"
+  - "intercom security protocols"
+  - "delivery driver impersonation"
+  - "security door breach"
+  - "forced building entry"
+  - "help i have a stranger at my door"
+  - "what do i do if a delivery person is suspicious"
+  - "what do i do if someone wants in my building"
+  - "what do i do if my intercom is ringing"
+  - "my building buzzer keeps going off"
+  - "help i let a stranger in my building"
+  - "suspicious man in vest at door"
+  - "fake amazon driver at gate"
+  - "fake fedex driver at entrance"
+  - "fake ups driver at buzzer"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you suspect someone is trying to get access to your building by pretending to be delivering something (USA)
 
 ## Short answer
-Do not buzz them in or open the door. Keep the barrier in place while you verify, and if you feel threatened or they try to force entry, call 911.
+Do not grant access or open any physical barriers. Maintain the locked door or intercom between you and the individual while you verify their identity through official courier apps or building management.
 
 ## Do not do these things
-- Don’t let someone in because they claim they’re delivering to “another unit” or “the office.”
-- Don’t share gate codes, entry codes, or use your fob/key to grant access for a stranger.
-- Don’t step into the hall/lobby to meet them if you feel unsure or pressured.
-- Don’t get pulled into a face-to-face confrontation at the door.
-- Don’t trust a link, QR code, or phone number they provide as “proof” of a delivery.
+- Do not buzz anyone into a secured building unless you have verified their identity and the specific delivery.
+- Do not hold the door open for someone following closely behind you (tailgating) even if they are wearing a uniform.
+- Do not share gate codes, entry fobs, or digital keys with individuals claiming to be couriers.
+- Do not step into common areas (hallways, lobbies) to meet a suspicious individual.
+- Do not trust QR codes or phone numbers provided by the individual as "proof" of their identity.
+- Do not feel obligated to be polite if the situation feels unsafe; security takes priority over social courtesy.
 
 ## What to do now
-1. **Create a safer pause.** Lock your door and step back. If you’re at an intercom/callbox, **don’t buzz anyone in** while you’re unsure.
-2. **Use distance and a script.** Through the closed door/intercom say:  
-   - “Who is it for (name/unit)?”  
-   - “What company are you with?”  
-   Then: **“I’m not letting anyone in. Please contact the recipient or ring the correct unit.”**
-3. **Direct them to the proper channel for your building.**  
-   - If your building has a **front desk/concierge/security**, tell them to go there.  
-   - If your building uses a **package room/locker** system, tell them to use that (or to leave a standard delivery notice and move on).  
-   - If they insist you “have to” let them in, treat that as a red flag and end the conversation.
-4. **Verify independently (optional, only if it’s safe).** If you are expecting a package, check tracking in the retailer/courier app or website you already use (not via a message link). If you can’t verify quickly, **don’t grant entry**.
-5. **Alert someone who can secure the building.** Contact your **property manager/building security** and report: time, location (front door/lobby), and what happened. Ask them to check door hardware (self-closing/locks) and review any camera footage.
-6. **Escalate based on immediate risk.**  
-   - **Call 911** if someone attempts to force entry, threatens you, or you believe a crime is in progress.  
-   - If it’s suspicious but not an emergency, contact your local police department’s **non-emergency** number and your building’s security/management.
-7. **If they claim to be USPS (or you suspect mail-related impersonation):** USPS employees are required to visibly display a photo ID badge while on duty. You can ask them to show ID **without opening the door** (through a window/peephole/intercom), and you can still decline entry and ask them to leave a notice or follow your building’s delivery process. If you believe someone is impersonating USPS or attempting mail theft, report it to the **U.S. Postal Inspection Service (USPIS)**.
+1. **Secure your immediate environment.** Lock your apartment door and ensure any secondary locks (deadbolts/chains) are engaged. If you are at the building entrance, stay behind the secured glass or gate.
+2. **Communicate through a barrier.** Use the intercom or speak through the closed door to ask for identifying information:
+   - Ask for the specific name of the recipient and the unit number.
+   - Ask for the name of the delivery company.
+   - Tell them: "I am not expecting a delivery. Please leave the package in the designated secure area or contact your dispatch."
+3. **Observe for red flags.** Look for sensory cues that indicate a potential scam:
+   - The individual uses high-pressure language (e.g., "I'll have to return this to the warehouse if you don't let me in now").
+   - They claim they are delivering to a neighbor who "is not answering" or a generic "office."
+   - Their uniform or vehicle is unmarked, inconsistent, or lacks official logos.
+   - They appear to be waiting for a resident to exit or enter so they can slip in (tailgating).
+4. **Use official verification tools.** Do not use links provided by the individual.
+   - Open the official app (Amazon, UPS My Choice, FedEx Delivery Manager, DHL ExpressMobile) to check your real-time tracking status.
+   - Check if a delivery is actually scheduled for this time window.
+5. **Contact building security or management.** Alert the property manager or on-site security immediately. Report the time, the individual's description, and which entrance they are attempting to use.
+6. **Escalate to emergency services if threatened.** Call 911 if the person attempts to force the door, follows you, makes verbal threats, or refuses to leave the premises after being told to go.
+7. **Verify USPS identity if applicable.** United States Postal Service (USPS) employees must carry a U.S. Government ID (typically a PIV card or official badge). You may ask to see this through a window or peephole. If you suspect an imposter is stealing mail or impersonating a federal employee, report it to the U.S. Postal Inspection Service (USPIS) at 1-877-876-2455.
 
 ## What can wait
-- You don’t need to determine whether it was “definitely” a scam right now.
-- You don’t need to confront them, follow them, or try to “catch” them.
-- You don’t need to make building-wide security changes in the moment—just report the incident and any door/lock failures promptly.
-- If you clicked a “delivery problem” link and entered info, you can deal with accounts once you’re steady (start with your bank/payment method, then passwords).
+- You do not need to confirm the individual's motive or determine if they were "actually" a criminal.
+- You do not need to warn all other residents yourself; let management handle building-wide alerts.
+- You do not need to feel guilty about a potential "missed delivery"; legitimate couriers will leave a notice or re-attempt.
+- You do not need to file a formal police report immediately unless a crime (like attempted breaking and entering) occurred.
 
 ## Important reassurance
-Feeling awkward is normal—these situations exploit politeness and urgency. In a secured building, **not granting entry to unknown people is a reasonable, safety-first default**.
+It is normal to feel a sense of "politeness pressure" when someone in a uniform asks for help. Building security relies on residents maintaining physical barriers. Refusing entry to an unverified person is a standard safety procedure, not an act of rudeness.
 
 ## Scope note
-These are immediate first steps to prevent unsafe entry and stabilise the situation. Follow-up actions (formal reports, building policy changes, longer documentation) can happen after you feel safe and steady.
+This guide provides first-step stabilization for residential building security incidents. It does not cover long-term home security upgrades or legal proceedings for trespassing.
 
 ## Important note
-This is general safety information, not legal advice. If you feel in danger or someone is attempting unlawful entry, prioritize getting safe and contacting emergency services.
+This information is for safety stabilization and does not constitute legal or law enforcement advice. Always follow the specific security protocols provided by your building management. If an active threat exists, contact 911 immediately.
 
 ## Additional Resources
+- https://consumer.ftc.gov/features/how-avoid-imposter-scams
 - https://consumer.ftc.gov/consumer-alerts/2023/12/fake-shipping-notification-emails-text-messages-what-you-need-know-holiday-season
-- https://www.fcc.gov/how-identify-and-avoid-package-delivery-scams
 - https://www.uspis.gov/report
-- https://about.usps.com/postal-bulletin/2002/html/pb22076/a-d.html
-- https://about.usps.com/publications/pub300a/pub300a_v04_revision_072019_tech_024.htm
+- https://www.uspis.gov/news/scam-article/fake-uspis-phone-calls
+- https://www.uspis.gov/news/scam-article/fake-usps-emails

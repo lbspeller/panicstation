@@ -1,77 +1,99 @@
-﻿---
+---
 title: "What to do if… you have a new episode of unusual sensations and confusion and you worry it could be a seizure warning"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - unusual sensations episode
-  - sudden confusion episode
-  - possible seizure warning
-  - seizure aura worry
-  - strange smells or tastes
-  - rising feeling in stomach
-  - tingling and confusion
-  - brief staring spells
-  - focal seizure symptoms
-  - first seizure concern
-  - new neurological symptoms
-  - episode after no seizures
-  - feeling spaced out suddenly
-  - disorientation out of nowhere
-  - altered awareness episode
-  - not sure what just happened
-  - seizure warning signs
-  - post-episode confusion
-last_reviewed: "2026-02-22"
+  - "unusual sensations episode"
+  - "sudden confusion episode"
+  - "possible seizure warning"
+  - "seizure aura worry"
+  - "strange smells or tastes"
+  - "rising feeling in stomach"
+  - "tingling and confusion"
+  - "brief staring spells"
+  - "focal seizure symptoms"
+  - "first seizure concern"
+  - "new neurological symptoms"
+  - "episode after no seizures"
+  - "feeling spaced out suddenly"
+  - "disorientation out of nowhere"
+  - "altered awareness episode"
+  - "not sure what just happened"
+  - "seizure warning signs"
+  - "post-episode confusion"
+  - "what do i do if i feel a seizure coming on"
+  - "what do i do if i had a strange episode"
+  - "what do i do if i feel disconnected"
+  - "what do i do if i smell something burning but nothing is there"
+  - "help i just had a seizure"
+  - "help i feel confused and tingly"
+  - "help i had a staring spell"
+  - "help i lost my memory for a minute"
+  - "my head feels weird and i am confused"
+  - "my stomach feels like it is rising"
+  - "my thoughts stopped suddenly"
+  - "sensory disturbances"
+  - "focal aware seizure"
+  - "temporal lobe seizure symptoms"
+  - "auras and epilepsy"
+  - "neurological episode safety"
+  - "sudden altered mental state"
+  - "unusual taste in mouth"
+  - "deja vu seizure"
+  - "jamais vu seizure"
+  - "automatic behaviors"
+  - "lip smacking seizure"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you have a new episode of unusual sensations and confusion and you worry it could be a seizure warning (USA)
 
 ## Short answer
-Get to a safe place, sit or lie down, and have someone stay with you. If this may be a **first seizure**, you’re **not returning to normal**, or anything feels severe, call **911**; otherwise get same-day medical advice (doctor/nurse line/urgent care).
+Sit or lie down in a safe area immediately to prevent a fall and have someone stay with you. Call 911 if this is your first suspected seizure, if you are not returning to your normal mental state within 10 minutes, or if the episode lasts longer than 5 minutes.
 
 ## Do not do these things
-- Do not **drive** or operate machinery until you’ve been medically assessed.
-- Do not go near **stairs, roads, water, baths, cooking heat/open flames, or heights** while you feel confused or “not right”.
-- Do not let anyone **hold you down/physically restrain you** if your body starts to jerk or you lose awareness.
-- Do not let anyone **put anything in your mouth** or try to force food, drink, or pills while you’re confused or drowsy.
-- Do not use alcohol or recreational drugs to “settle” yourself.
+- Do not drive, swim, or operate heavy machinery until you have received formal medical clearance from a physician.
+- Do not attempt to "walk off" the confusion or stay near hazards like stairs, open flames, or heights.
+- Do not allow anyone to put objects in your mouth or try to hold your tongue.
+- Do not allow bystanders to physically restrain your movements if you begin to shake or jerk.
+- Do not take unprescribed medication, alcohol, or drugs to calm your nerves, as these can lower the seizure threshold or mask symptoms.
 
 ## What to do now
-1. **Make your environment safer immediately.**  
-   Sit or lie down somewhere away from hard edges and heat. If you can, lie on your side and put something soft under your head.
-2. **Bring in another person if at all possible.**  
-   Call/text someone nearby (neighbor, friend, family) and say: “I’m having unusual sensations and confusion and I’m worried it could be a seizure.” Ask them to stay with you and watch for changes.
-3. **Start a timer and capture a few facts.**  
-   Note when it started, what you felt (odd smell/taste, rising sensation, tingling), and whether you lost awareness. If someone is with you, ask them to note what they saw (staring, lip-smacking, one-sided jerking). If safe and not delaying help, a short video can help clinicians.
-4. **Call 911 now if any of these apply:**  
-   - This might be the **first time** you’ve had a seizure (or you’re not sure).  
-   - The episode includes shaking/jerking or loss of awareness and lasts **5 minutes or longer**, or you’re not sure how long it’s been.  
-   - One episode happens right after another without you fully returning to normal between them.  
-   - There’s **trouble breathing**, the episode happened **in water**, or there’s a **serious injury**.  
-   - You’re **not returning to your normal self** afterwards, or anything feels life-threatening.
-5. **If 911 isn’t needed, get same-day medical advice anyway.**  
-   Call your primary care office (nurse line), use your insurer’s telehealth, or go to urgent care (have someone else drive). Say it’s a **new episode** of unusual sensations and confusion and you’re worried it could be seizure-related.
-6. **Do a “no-driving” reset right now.**  
-   Put your keys away, cancel driving plans, and arrange a ride. (Driving restrictions after a seizure vary by state; the immediate safety step is simply **don’t drive** until you’ve been evaluated and told what applies.)
-7. **If you’re alone at home while arranging help:**  
-   Keep your phone charged and on loud. Sit/lie somewhere safe. Consider making it easier for help to reach you (for example, only unlocking the door if it’s safe for you to do so), and be ready to call 911 if you worsen.
+1. **Move to a physically safe position immediately.**  
+   Sit on the floor or lie down away from furniture with sharp edges to minimize the risk of injury if you lose consciousness. If you feel nauseated, lie on your side to keep your airway clear.
+2. **Alert someone nearby to your situation.**  
+   Tell a friend, family member, or even a bystander: "I am feeling confused and having strange sensations; please stay with me until I feel normal." If you are alone, call someone and keep them on the line so they can monitor you or call for help if you stop responding.
+3. **Monitor the duration and nature of the symptoms.**  
+   Note the exact time the episode began and what specifically you are experiencing, such as a "rising" feeling in your stomach, a metallic taste, or a specific smell. If you have a smartphone, use the voice memo or notes app to record these details while they are fresh, as post-seizure confusion (postictal state) can cause memory gaps.
+4. **Call 911 if specific emergency triggers occur.**  
+   - This is the first time you have ever experienced these sensations.
+   - The episode of shaking, jerking, or altered awareness lasts more than 5 minutes.
+   - You have a second episode quickly after the first without feeling fully recovered.
+   - You remain confused, aggressive, or "not yourself" for more than 10 minutes after the sensations stop.
+   - The episode occurred while you were in water or resulted in a physical injury.
+5. **Seek an immediate medical evaluation even if the episode ends quickly.**  
+   Contact your primary care physician or go to the nearest Emergency Department for a neurological workup if you cannot get a same-day appointment. Tell the intake staff you had a "new-onset neurological episode with altered awareness" to ensure you are prioritized correctly over routine cases.
+6. **Implement an immediate driving suspension.**  
+   Give your car keys to a trusted person and cancel all plans that require you to drive. Most states have mandatory reporting or self-reporting laws regarding seizures, and driving before a medical evaluation puts you and others at significant legal and physical risk.
+7. **Create a "safe zone" for recovery.**  
+   Remain in a quiet, low-stimulation environment once you reach a safe location. Keep your phone within reach but avoid searching for "brain tumor" or "epilepsy" online, as this increases acute anxiety without providing diagnostic clarity.
 
 ## What can wait
-- You don’t need to decide right now whether it “counts” as a seizure.
-- You don’t need to research causes online or try to self-diagnose.
-- You don’t need to figure out legal/DMV details today — the priority is **staying safe, not driving, and getting evaluated**.
+- You do not need to determine the exact "type" of seizure or the underlying cause right now.
+- You do not need to notify your employer or the DMV in the first hour; your physical safety is the only priority.
+- You do not need to decide if you want to start long-term medication today, as that is a specialized discussion for a later neurology appointment.
 
 ## Important reassurance
-Feeling confused or unreal after a strange episode is genuinely scary, and it’s common to doubt yourself afterwards. Taking precautions and seeking same-day evaluation is a safe way to reduce risk and get clarity.
+It is normal to feel a sense of "doom," intense fear, or deep confusion during or after these episodes; these are often biological symptoms of the episode itself rather than a reflection of your actual situation. Taking the precaution of seeking help now is a proactive step, not a sign that something is permanently wrong.
 
 ## Scope note
-This is first-step guidance only. Follow-up (testing, referrals, school/work notes, and any driving restrictions) comes after you’ve been assessed.
+This guide provides first-step stabilization for a suspected new neurological event. It does not replace a clinical diagnosis or a formal Seizure Action Plan (SAP) provided by a neurologist.
 
 ## Important note
-This guide is general information, not medical advice or a diagnosis. If symptoms worsen, you aren’t returning to normal, or you’re unsure whether it’s an emergency, call **911**.
+The information provided is for emergency stabilization only. Seizure-like symptoms can be caused by various medical conditions including low blood sugar, heart rhythm issues, or neurological events. If your condition worsens or you lose consciousness, ensure 911 is called immediately.
 
 ## Additional Resources
-- https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html
-- https://www.cdc.gov/epilepsy/about/types-of-seizures.html
+- https://www.epilepsy.com/what-is-epilepsy/understanding-seizures/what-happens-during-seizure
+- https://www.epilepsy.com/what-is-epilepsy/seizure-types/focal-preserved-consciousness-seizures
 - https://www.epilepsy.com/recognition/emergency-help
-- https://medlineplus.gov/ency/article/003200.htm
+- https://www.epilepsy.com/manage/responding-seizure-emergencies
+- https://medlineplus.gov/ency/article/000694.htm

@@ -1,78 +1,111 @@
-﻿---
+---
 title: "What to do if… you are contacted by an external investigator or lawyer about your workplace and you are unsure what to share"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - external investigator contacted me
-  - lawyer called about my workplace
-  - third party workplace investigation
-  - asked for a statement at work
-  - unsure what i can disclose at work
-  - confidentiality at work question
-  - pressured to answer quickly at work
-  - asked to send work documents
-  - workplace interview request
-  - outside counsel contacted me
-  - workplace incident inquiry
-  - disciplinary investigation meeting
-  - grievance investigation questions
-  - right to be accompanied uk
-  - whistleblowing concern at work
-  - worried about retaliation at work
-  - legal privilege confusion at work
-  - do i tell my employer about contact
-last_reviewed: "2026-01-08"
+  - "new non-compete after resignation"
+  - "asked to sign non-compete last day"
+  - "restrictive covenant added after notice"
+  - "post-termination restriction surprise"
+  - "employer wants new contract after resigning"
+  - "pressured to sign employment document"
+  - "non-compete presented after resignation"
+  - "non-solicitation clause added late"
+  - "confidentiality and restrictive covenants"
+  - "settlement agreement with new restrictions"
+  - "resignation accepted then new terms"
+  - "contract variation after resignation"
+  - "leaving job covenant sign now"
+  - "threatened reference unless sign"
+  - "severance offer tied to non-compete"
+  - "exit paperwork new covenant"
+  - "take it or leave it covenant"
+  - "worried clause will block next job"
+  - "what do i do if my employer adds a non-compete"
+  - "help i resigned and they gave me new terms"
+  - "what do i do if asked to sign a covenant late"
+  - "what do i do if my reference is being held hostage"
+  - "my boss wants me to sign a non-compete on my last day"
+  - "help i am being pressured to sign an exit agreement"
+  - "smell of legal pressure at work"
+  - "visible new contract on resignation"
+  - "hearing threats about references"
+  - "feeling pressured to sign employment terms"
+  - "mislabeling non-compete as routine paperwork"
+  - "calling a restrictive covenant a standard exit form"
+  - "new restrictions in office"
+  - "covenant surprise during notice period"
+  - "work and employment restrictions"
+  - "post-termination restriction help"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are contacted by an external investigator or lawyer about your workplace and you are unsure what to share (UK)
 
 ## Short answer
-Don’t answer substantively on the spot. First verify who they are and what they’re asking for, then get the right support before you share anything or hand over any documents.
+Do not sign the document immediately and state in writing that you need time to seek independent legal advice. Under UK law, a new restrictive covenant usually requires "consideration" (something of value given to you in return) and your explicit agreement to be enforceable.
 
 ## Do not do these things
-- Do not forward, download, screenshot, or share work documents/emails with anyone outside your organisation “just to help”.
-- Do not guess, fill gaps, or agree with leading statements if you’re uncertain.
-- Do not delete, edit, or “tidy up” messages/files after you’ve been contacted.
-- Do not sign a statement or “confirm this is accurate” summary without time to read and correct it.
-- If you want private advice, avoid using work email/devices where possible (work systems may be monitored or later reviewed).
-- Do not record calls/meetings unless you’re sure it’s lawful and permitted by workplace policy, or you have clear consent.
+- Do not sign any document "just to get it done" or because HR describes it as a standard exit procedure.
+- Do not provide verbal or written "agreement in principle" (e.g., "that sounds fine" or "I'll sign that later") before receiving advice.
+- Do not disclose details of your new employer, clients, or specific role to "reassure" your current manager while you are reviewing the terms.
+- Do not assume a clause is enforceable just because it is written on company letterhead or presented by a solicitor.
+- Do not allow threats regarding your reference, final pay, or accrued holiday to force an immediate signature.
 
 ## What to do now
-1. **Pause and get the request in writing.** You can say: “I’m not refusing to help, but I can’t respond properly without written details.” Ask for:
-   - their full name, organisation/law firm, and role
-   - who they represent (your employer, an individual, an insurer, a regulator, etc.)
-   - what they want (a call, an interview, documents, a witness statement)
-   - whether it’s voluntary or legally required, and any deadline
-2. **Verify identity independently before you engage.** Use the organisation’s official website/main switchboard details (not the email signature) to confirm the person and request are genuine.
-3. **Decide whether to notify your employer—safely.**
-   - If they say they act for your employer (or you suspect this is an employer-commissioned investigation), forward the written request to HR / legal / compliance (whichever your workplace uses) and ask who should handle it.
-   - If you’re told not to notify anyone, or you fear a conflict/retaliation, pause and get independent support first (for example, your union or an independent solicitor) before you share anything.
-4. **Route documents and personal data through the right channel.** If they ask for files, emails, customer/client info, CCTV, HR records, or anything containing personal data, don’t send it yourself. Ask your employer who is authorised to disclose it (often legal/compliance or the data protection contact), and let them handle lawful sharing and records.
-5. **Create a clean record of contact.** Write a short factual note: date/time, who contacted you, what they asked for, what you said, and any deadlines. Keep it neutral; don’t paste confidential content into personal notes.
-6. **If they want an interview, set protective conditions.**
-   - Ask for topics/agenda in advance and who will attend.
-   - Ask to schedule it so you can have support. **Be precise about accompaniment:** there is **no legal right** to be accompanied at a *disciplinary investigation meeting*, though it can be good practice for an employer to allow it. There **is** a legal right to be accompanied at a *disciplinary hearing* (and at qualifying *grievance meetings*). If in doubt, ask for a companion/union rep anyway and see what your employer allows.
-7. **If you receive formal legal documents, treat them as time-sensitive.** If you’re served with something official (for example, a court order or witness summons), don’t ignore it. Send it promptly to your employer’s legal team (or to your own solicitor if you can’t safely involve your employer) and note any deadlines.
-8. **If the contact relates to wrongdoing/whistleblowing, slow down further.** If you think you’re being pressed to hide concerns or you’re unsure how to raise them safely, use your organisation’s whistleblowing route or get independent advice before speaking widely, so you don’t accidentally breach confidentiality while trying to do the right thing.
+1. **Create a formal pause and remove the document from the meeting.**  
+   **Say: "I cannot sign new legal terms or variations to my contract without reviewing them fully and taking independent advice."** Request that the full document be emailed to you immediately so you have a digital trail of when it was presented.
+
+2. **Send a "holding email" to confirm receipt and protect your position.**  
+   **Draft a brief, neutral message to HR or your manager.**  
+   - State that you have received the document.  
+   - Confirm that you are not agreeing to any new terms at this stage.  
+   - If you are required to continue working your notice, state that you are "working under protest" regarding the introduction of new terms.
+
+3. **Determine the specific legal nature of the document.**  
+   **Check if the document is a "Contract Variation," a "Standalone Covenant," or a "Settlement Agreement."**  
+   - If it is a Settlement Agreement, you are legally required to get advice from a "relevant independent adviser" (a qualified lawyer or certified trade union official) for the agreement to be valid.
+
+4. **Verify the existence of "consideration" for the new terms.**  
+   **Identify what, if anything, the employer is offering you in exchange for these new restrictions.**  
+   - Under UK law, a contract variation after employment has started generally requires "consideration" (e.g., a cash payment or a promotion) to be binding.  
+   - If you have already resigned, "continued employment" is rarely sufficient consideration for new restrictions.
+
+5. **Compare the new document against your original signed contract.**  
+   **List every difference between your current post-termination restrictions and the new proposal.**  
+   - Note changes to the non-compete duration (e.g., from 3 months to 6 months).  
+   - Note changes to geographical limits or the definition of "competitor."  
+   - Check for new "non-dealing" or "non-poaching" clauses that were not in your original agreement.
+
+6. **Request at least 10 calendar days to consider any Settlement Agreement offer.**  
+   **Reference the Acas Code of Practice which recommends a minimum of 10 days for employees to consider the terms.**  
+   - If you are being pressured to sign in less time, note this in your correspondence as "undue pressure."
+
+7. **Isolate issues regarding final pay and references.**  
+   **If the employer hints that your pay or reference is conditional on signing, ask them to state this clearly in writing.**  
+   - Say: "Please confirm that my statutory entitlements, including final salary and accrued holiday pay, are not being made conditional on the signing of these new terms."
+
+8. **Contact a UK-specific advisory service before your next response.**  
+   **Speak to a representative from Acas, your trade union, or an employment solicitor.**  
+   - Provide them with both your original contract and the new proposed document for a side-by-side comparison.
 
 ## What can wait
-- You do not need to decide today whether you’ll “fully cooperate” — right now you only need to verify legitimacy and avoid irreversible mistakes.
-- You do not need to produce a perfect narrative immediately; it’s reasonable to ask for time to check records.
-- You do not need to interpret legal terms (like “privilege” or “confidential”) on your own.
+- You do not need to decide whether the new clause is "reasonable" or "fair" yourself; this is a technical legal assessment for your adviser.
+- You do not need to inform your future employer about the dispute yet, unless you are contractually obligated to disclose existing (original) restrictions.
+- You do not need to negotiate the specific wording or "shave down" the duration of the clause today.
+- You do not need to worry about the cost of a solicitor for a Settlement Agreement, as employers usually contribute toward these legal fees.
 
 ## Important reassurance
-Feeling pressured when a lawyer or investigator contacts you is normal. Asking for written details, time, and a supported meeting is a standard, sensible response.
+Being handed a new non-compete after you have already resigned is often a tactical move by an employer to protect their interests during a period of vulnerability. In the UK, the courts generally view post-termination restrictions as "void" for being in restraint of trade unless the employer can prove they are no wider than necessary to protect a "legitimate business interest." You have the right to take your time and seek professional advice.
 
 ## Scope note
-These are first steps only. Depending on the topic (disciplinary, grievance, regulatory, civil claim), you may need tailored advice from your union, HR/legal, or an independent employment solicitor.
+This guide provides first-step stabilization only, focused on preventing accidental agreement to new terms. It does not replace professional legal advice regarding the specific enforceability of restrictive covenants.
 
 ## Important note
-This is general information, not legal advice. If you think you could face personal legal risk, disciplinary action, or you’re being asked to share sensitive/confidential information, get independent advice promptly.
+This information applies to UK employment law as of 2026. Restrictive covenants and contract variations are highly fact-specific and depend on your seniority, industry, and the wording of your original contract. Always consult a qualified legal professional or trade union representative before signing any document that limits your future ability to work.
 
 ## Additional Resources
+- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-2-preparing-for-an-investigation
 - https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
-- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
-- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
-- https://www.gov.uk/whistleblowing
-- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/sharing-personal-data-with-law-enforcement-authorities/
-- https://www.theabi.org.uk/files/policies-and-guidance/ico-disclosures-to-private-investigators.pdf
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/preparing-for-a-disciplinary-or-dismissal-meeting/
+- https://www.citizensadvice.org.uk/work/getting-help/what-help-can-i-get-with-a-problem-at-work/
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/data-sharing-a-code-of-practice/lawful-basis-for-sharing-personal-data/

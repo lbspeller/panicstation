@@ -1,72 +1,83 @@
-﻿---
+---
 title: "What to do if… you are told to work without required protective equipment or training and you feel pressured to comply"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - told to work without ppe
-  - no protective equipment provided
-  - asked to do unsafe task
-  - pressured to comply at work
-  - missing safety training
-  - untrained for hazardous work
-  - no induction for job
-  - told to skip safety steps
-  - unsafe manual handling demand
-  - no respirator for dusty work
-  - no hard hat on site
-  - unsafe chemicals without training
-  - fear of retaliation for refusing
-  - workplace safety concern raised
-  - refusing dangerous work
-  - threatened for speaking up
-  - safety rules ignored by manager
-  - asked to sign off training
-last_reviewed: "2026-01-08"
+  - "unpaid expense claim"
+  - "rejected reimbursement request"
+  - "approved expenses denied"
+  - "work expenses not paid"
+  - "employer refusing reimbursement"
+  - "prior approval ignored"
+  - "business expenses dispute"
+  - "what do i do if my expenses are rejected"
+  - "what do i do if my boss wont pay expenses"
+  - "what do i do if finance wont pay my claim"
+  - "what do i do if my expense report is declined"
+  - "help i am out of pocket for work"
+  - "help i paid for work travel and wont get paid back"
+  - "help i have receipts but my claim was rejected"
+  - "my expense claim was turned down"
+  - "my manager approved my expenses then changed their mind"
+  - "rejected claim for work travel"
+  - "unpaid receipts at work"
+  - "employer says expenses are out of policy"
+  - "missing receipts for work claim"
+  - "expense claim approval evidence"
+  - "grievance for unpaid expenses"
+  - "unauthorised deduction from wages expenses"
+  - "breach of contract for work expenses"
+  - "acas helpline for unpaid expenses"
+  - "expenses denied after verbal approval"
+  - "rejected subsistence claim"
+  - "unpaid mileage claim"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told to work without required protective equipment or training and you feel pressured to comply (UK)
 
 ## Short answer
-Pause and do not start the task until you have the required PPE and training (or the task is made safe another way). If you’re in immediate danger, leave the area to somewhere safer first.
+Request the refusal reason and the specific policy violation in writing, then resubmit the claim with a single evidence pack containing the original approval and relevant receipts.
 
 ## Do not do these things
-- Do not “just do it once” to get it over with if you’re missing PPE or you’ve not been trained for the task/equipment.
-- Do not sign anything saying you’ve been trained, inducted, competent, or fit-tested if you have not.
-- Do not accept improvised or unsuitable PPE (wrong type/size, damaged, shared when it shouldn’t be, past expiry).
-- Do not get pulled into a heated, off-the-record argument — keep it brief and factual.
-- Do not put yourself at risk to gather “evidence” (photos, videos). Your safety comes first.
+- Do not incur additional business expenses until the current dispute is resolved in writing.
+- Do not delete or lose original copies of approval emails, digital timestamps, or physical receipts.
+- Do not sign any document acknowledging the expense was personal or unauthorized without seeking advice.
+- Do not attempt to "self-correct" by withholding work or deducting the amount from other company funds.
+- Do not engage in circular verbal arguments with finance or payroll staff; move to written correspondence immediately.
 
 ## What to do now
-1. **Create a safe pause.** Step back from the hazard area and stop the specific task. If you’re mid-task, make it safe to stop (switch off, isolate, set down safely) if you can do so without increasing risk.
-2. **Say one clear sentence, then stop.** For example: “I can’t do this task safely without the required PPE/training — please provide it or give me another task.”
-3. **Ask for the written safe way to do *this* task.** Request the risk assessment and the safe system of work/method statement your workplace uses for that job (in some workplaces this is called RAMS). Ask what controls are required (including PPE and supervision).
-4. **Be specific about what’s missing.** Name the exact gap: “I haven’t been trained on this machine/chemical,” or “I don’t have the required respirator/fit test,” or “There’s no fall protection provided.” Ask where the correct PPE is and who is authorised to train/sign you off.
-5. **Offer a safe alternative immediately.** Ask to be reassigned to another task, to wait until PPE/training arrives, or to work under appropriate competent supervision. This keeps you cooperative while holding the safety boundary.
-6. **Loop in the right person and get a witness.** Ask for the site manager/health-and-safety lead, and if you have one, a union safety rep or employee safety representative. Keep the conversation in a visible, neutral place.
-7. **Make a quick record while it’s fresh.** Note: date/time, location, task, what PPE/training was missing, who instructed you, and exactly what you said. If it’s permitted and it won’t inflame the situation, take a photo of the setup or the missing PPE — but notes alone are enough.
-8. **Send a short follow-up message.** Text/email/WhatsApp: what task you were told to do, what was missing, that you paused for safety, and that you’re ready to work once it’s made safe. Keep it calm and factual.
-9. **If you’re worried about retaliation, name the “safety” reason, not personal preference.** If you’re an employee and you reasonably believe there’s serious and imminent danger, UK law may protect you from being treated worse (or dismissed) for stepping away/refusing in that situation — but the facts matter, so keep records.
-10. **If they still won’t make it safe, escalate outside the line manager.** Use your employer’s near-miss/incident reporting route (or HR if there is no safety route). If the risk is serious and your employer won’t act, report the concern to the correct enforcing authority (often HSE, sometimes your local authority, depending on the workplace).
+1. **Collate a single-page evidence file.** Gather the specific approval (email, software screenshot, or message), the receipts or invoices, and the copy of the expense policy that was active when the expense was incurred.
+2. **Request a formal reason for the refusal in writing.** Ask the person who rejected the claim to specify:
+   - the exact policy paragraph the claim supposedly violates.
+   - which specific line items are being refused.
+   - what document or change would make the claim payable.
+3. **Notify the original approver of the rejection.** Send a brief, neutral message asking them to confirm to the finance department that the expense was pre-authorized for a business purpose.
+4. **Offer a standard alternative for missing evidence.** If the rejection is due to a lost receipt, ask if the employer will accept a bank statement entry or a supplier invoice copy as a one-time exception.
+5. **Resubmit the claim formally.** Attach the evidence pack and a copy of the prior approval to a new submission or email, stating that the expense was incurred based on the specific authorization provided on [date].
+6. **Check your employment contract and the staff handbook.** Look for "Contractual" vs "Discretionary" language regarding expenses; if the policy says the employer "will" reimburse approved expenses, it is likely a contractual entitlement.
+7. **Contact the Acas helpline for procedural guidance.** Call 0300 123 1100 to discuss the situation and confirm your rights regarding "unauthorised deductions from wages."
+8. **Raise a formal internal grievance.** If resubmission is ignored or refused, follow the employer’s written grievance procedure to trigger a formal investigation and meeting.
+9. **Monitor legal time limits.** Be aware that most employment tribunal claims must be started within three months (minus one day) of the date the payment was due.
+   - Note that under the Employment Rights Act 2025, this limit is scheduled to increase to six months from October 2026.
+   - You must notify Acas for "Early Conciliation" before you can lodge a tribunal claim; this process can take up to 12 weeks.
 
 ## What can wait
-- You do not need to decide today whether to resign, raise a formal grievance, or get a solicitor.
-- You do not need to “win the argument” or prove fault right now — focus on what must change for the work to be safe.
-- You do not need a perfect statement; a timestamped note plus one calm written message is enough for now.
+- You do not need to decide on court action or tribunal proceedings today.
+- You do not need to involve senior leadership or external solicitors in the first 48 hours.
+- You do not need to provide a historical list of every past expense issue; keep the focus on the current approved claim.
 
 ## Important reassurance
-Pressure from a manager or team can make you doubt yourself, even when your instincts are right. Pausing unsafe work and asking for training/PPE is a normal safety action — and staying calm and factual protects you as well as your health.
+Expense rejections after approval are frequently the result of administrative shifts, such as budget code changes or new finance personnel applying a policy more strictly than predecessors. Providing a clear, dated paper trail often resolves the issue without needing to escalate beyond a formal grievance.
 
 ## Scope note
-These are first steps only — to stabilise the situation and prevent harm or irreversible mistakes. Next steps (including rights and how to respond to retaliation) depend on your employment status and the exact facts.
+This guide provides first-step stabilization for a reimbursement dispute in a UK employment context. It does not cover tax implications (HMRC P11D rules) or complex self-employment/contractor disputes where a different court system may apply.
 
 ## Important note
-This is general information, not legal advice. If you believe there is serious and imminent danger, prioritise getting to safety. If you experience retaliation for raising a health and safety concern, get advice promptly and keep copies of notes/messages/schedules.
+This guide is for general information only and does not constitute legal advice. Employment rights can vary significantly based on your specific contract terms, your status (employee vs. worker), and whether you are within a probationary period. If the amount is substantial, consider consulting a qualified solicitor or a trade union representative.
 
 ## Additional Resources
-- https://www.acas.org.uk/health-and-safety-at-work/protection-from-dismissal-and-detriment
 - https://www.acas.org.uk/health-and-safety-at-work
-- https://www.hse.gov.uk/ppe/ppe-regulations-2022.htm
-- https://www.hse.gov.uk/contact/tell-us-about-a-health-and-safety-issue.htm
-- https://www.hse.gov.uk/contact/authority.htm
-- https://www.legislation.gov.uk/ukpga/1996/18/section/44
-- https://www.hse.gov.uk/contact/faqs/ppe.htm
+- https://www.acas.org.uk/health-and-safety-at-work/reporting-a-risk
+- https://www.acas.org.uk/health-and-safety-at-work/protection-from-dismissal-and-detriment
+- https://www.hse.gov.uk/ppe/overview.htm
+- https://www.hse.gov.uk/pubns/books/l25.htm

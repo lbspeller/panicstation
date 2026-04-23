@@ -1,82 +1,89 @@
-﻿---
+---
 title: "What to do if… you get a bite or sting and the swelling keeps increasing over hours"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - bite swelling getting bigger
-  - sting swelling getting worse
-  - insect bite swelling hours later
-  - wasp sting swelling increasing
-  - bee sting swelling spreading
-  - fire ant bite swelling
-  - bite redness expanding
-  - swelling spreading up arm
-  - swelling spreading up leg
-  - large local reaction sting
-  - allergic reaction after sting
-  - delayed swelling after bite
-  - painful hot swollen bite site
-  - bite swelling near eye
-  - sting in mouth swelling
-  - worried swelling keeps growing
-  - infection after insect bite
-  - cellulitis after bite worry
-last_reviewed: "2026-01-21"
+  - "insect bite swelling"
+  - "bee sting swelling"
+  - "wasp sting swelling"
+  - "hornet sting swelling"
+  - "spider bite swelling"
+  - "bite swelling getting bigger"
+  - "sting swelling getting worse"
+  - "help i have a swollen bite"
+  - "my sting is swelling more"
+  - "what do i do if my bite is swelling"
+  - "what do i do if my sting is swelling"
+  - "help my bee sting is huge"
+  - "help my wasp sting is red"
+  - "redness spreading from bite"
+  - "hot skin around sting"
+  - "painful swollen bite site"
+  - "bite swelling near eyes"
+  - "sting swelling in mouth"
+  - "visible red line from bite"
+  - "stinger stuck in skin"
+  - "large local reaction sting"
+  - "swelling spreading up arm"
+  - "swelling spreading up leg"
+  - "delayed swelling after bite"
+  - "bite redness expanding"
+  - "sting redness increasing"
+  - "fire ant bite swelling"
+  - "mosquito bite swelling big"
+  - "itchy swollen sting"
+  - "swelling after insect bite"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you get a bite or sting and the swelling keeps increasing over hours (USA)
 
 ## Short answer
-If swelling keeps increasing over hours, get medical advice today (urgent care/your clinician). If you have trouble breathing, throat tightness, fainting, or swelling of lips/tongue/face, call **911** now.
+Seek medical advice from an urgent care center or clinician today if swelling continues to expand significantly over several hours. Call **911** immediately if you experience trouble breathing, swelling of the face, lips, or tongue, or a feeling of faintness.
 
 ## Do not do these things
-- Do not ignore rapidly spreading swelling/redness, especially on the **face/near an eye/in the mouth** or if you feel sick.
-- Do not cut, squeeze, or “dig into” the bite/sting site.
-- Do not use a tourniquet or tightly wrap the limb.
-- Do not exceed label doses of antihistamines or pain medicines.
-- Do not apply irritating or burning home remedies, or heat that makes swelling/itching worse.
+- Do not ignore swelling that spreads across a joint or moves rapidly toward the trunk of the body.
+- Do not squeeze, pinch, or use tweezers on a honeybee stinger, as this may inject more venom.
+- Do not apply heat to the area, which can increase local blood flow and worsen swelling.
+- Do not use a tourniquet or tight bandage to "stop the venom" from spreading.
+- Do not scratch the area, as breaking the skin increases the risk of bacterial infection (cellulitis).
 
 ## What to do now
-1. **Screen for anaphylaxis (act immediately).** Call **911** if you have: trouble breathing/wheezing, throat tightness, trouble swallowing, swelling of tongue/lips/face, widespread hives away from the sting, severe dizziness/fainting, collapse, or you feel suddenly very unwell.
-2. **If anaphylaxis is possible and you have an epinephrine auto-injector, use it now.** Then call **911** and go to emergency care.
-   - If symptoms are **not improving after 5–15 minutes** and you have a **second** auto-injector, use it.
-   - If you’re dizzy or faint, **lie down and raise your legs**. If breathing is hard, you may need to sit up.
-3. **Reduce risk from swelling right now.**
-   - Remove rings, watches, tight clothing, or shoes on that limb early.
-   - Rest and **elevate** the limb.
-   - Use **cold compresses/ice wrapped in cloth** in short cycles to reduce pain and swelling.
-4. **If a stinger is present (common after bee stings), remove it by scraping.** Use a fingernail or a card edge; avoid squeezing.
-5. **Track whether it’s spreading.** Outline the edge of redness/swelling with a pen and write the time. Take a photo. Bring this to urgent care/ER.
-6. **Use over-the-counter relief (if safe for you).**
-   - An oral antihistamine can help itching and some swelling.
-   - OTC pain relief can help pain if you can take it.
-   - OTC **hydrocortisone cream** may help itching/swelling—follow the label.
-7. **Escalate faster if infection/cellulitis is possible.** Seek urgent medical attention **now** (urgent care or ER) if the red/swollen area is **spreading quickly** or you develop **fever or chills**.
-8. **Get same-day medical advice if swelling keeps increasing over hours**, especially if:
-   - it’s near the **eye**, **mouth**, or **throat**,
-   - you had **multiple stings** or a history of severe reactions,
-   - the area is becoming **hot, increasingly painful**, or you feel unwell.
-9. **Use Poison Control for guidance if you’re unsure what bit/stung you, symptoms are worsening, or you want real-time advice.** In the U.S., call **Poison Help: 1-800-222-1222** (free, 24/7). Call **911** instead for life-threatening symptoms.
+1. **Assess for immediate systemic allergic reactions (anaphylaxis).** Call **911** if any of the following occur, usually within 60 minutes of the sting:
+   - Difficulty breathing, wheezing, or a persistent cough.
+   - Swelling of the tongue, lips, face, or throat.
+   - Widespread hives or a red rash in areas away from the bite.
+   - Severe dizziness, confusion, or loss of consciousness.
+   - Nausea, vomiting, or abdominal cramping.
+2. **Administer epinephrine immediately if you have a prescribed auto-injector and signs of a severe reaction appear.** Inject the medication into the outer thigh according to the device instructions, then call **911** even if symptoms seem to improve.
+   - If emergency help has not arrived and symptoms do not improve after 5 to 10 minutes, a second dose may be administered if available.
+3. **Remove any remaining stinger quickly by scraping.** Use a flat-edged object like a credit card or a fingernail to flick the stinger out sideways. 
+   - Avoid using tweezers or your fingers to pull the stinger, as pressure on the venom sac can release more toxin into the skin.
+4. **Isolate the limb and reduce blood flow to the site.** Remove rings, watches, or tight clothing from the affected limb immediately before swelling makes removal difficult. 
+   - Rest and keep the affected area elevated above the level of your heart to help drain fluid.
+5. **Apply a cold compress to the site in 15-minute intervals.** Use a cloth-wrapped ice pack or a cold damp towel to reduce pain and slow the inflammatory response.
+6. **Mark the boundaries of the swelling to track progression.** Use a permanent marker to draw a line around the outer edge of the redness and swelling, noting the exact time. 
+   - Take a clear photo of the site to show a healthcare provider how much it has changed.
+7. **Contact a medical professional if the swelling is near the eye, nose, or mouth.** Swelling in these areas can more easily obstruct vision or airway passages and requires earlier evaluation.
+8. **Consult a pharmacist or clinician regarding over-the-counter (OTC) relief.** Oral antihistamines or topical hydrocortisone may reduce itching and localized inflammation if they are safe for you to use.
+9. **Call Poison Help at 1-800-222-1222 for immediate guidance if you are unsure what bit you.** This 24/7 national service provides expert triage for bites and stings in the United States.
 
 ## What can wait
-- You do not need to identify the exact insect/spider right now.
-- You do not need to decide today whether you “have an allergy” long-term.
-- You do not need to keep testing it by touching/squeezing; monitor spread with the pen line/photo instead.
+- You do not need to identify the specific insect to receive effective treatment for the reaction.
+- You do not need to determine if this is a permanent allergy today; that is a follow-up task for an allergist.
+- You do not need to seek emergency "Level 1" care for localized swelling unless it affects the airway or is accompanied by systemic symptoms like fever or dizziness.
 
 ## Important reassurance
-Many stings and bites swell and look worse before they improve. Some people have a stronger “large local” reaction where swelling can keep worsening over the next day or two. You’re not overreacting by getting help when swelling is still increasing over hours—especially if it’s spreading quickly, in a risky area, or you feel sick.
+It is common for "Large Local Reactions" to continue growing for 24 to 48 hours after a sting or bite. This type of reaction is often painful and dramatic but is distinct from a life-threatening whole-body allergy. Tracking the spread with a marker helps distinguish this normal inflammatory peak from a later-stage bacterial infection.
 
 ## Scope note
-These are first steps for the next few hours. Longer-term decisions (follow-up care, allergy evaluation, prevention planning) can come later.
+This guide covers first-step stabilization and monitoring for the first few hours following a bite or sting. It does not provide long-term allergy management or diagnostic criteria for specific infections.
 
 ## Important note
-This is general information, not a diagnosis. If symptoms are worsening or you’re unsure, it’s reasonable to seek same-day medical advice—especially with spreading redness/swelling, increasing pain, or fever/chills.
+This information is for educational purposes and is not a substitute for professional medical diagnosis or treatment. If the redness is accompanied by red streaks, fever, chills, or pus, seek medical attention for potential infection (cellulitis).
 
 ## Additional Resources
 - https://medlineplus.gov/ency/article/000033.htm
-- https://medlineplus.gov/ency/article/002847.htm
-- https://acaai.org/allergies/allergic-conditions/insect-sting-allergies/
-- https://www.cdc.gov/group-a-strep/about/cellulitis.html
-- https://www.poison.org/
-- https://poisonhelp.hrsa.gov/faq/animals-bites-stings
-- https://www.mayoclinic.org/diseases-conditions/bee-stings/symptoms-causes/syc-20353869
+- https://medlineplus.gov/insectbitesandstings.html
+- https://www.mayoclinic.org/first-aid/first-aid-insect-bites/basics/art-20056593
+- https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/stinging-insect-allergy
+- https://www.cdc.gov/niosh/docs/2010-117/default.html

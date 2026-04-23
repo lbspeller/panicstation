@@ -1,74 +1,90 @@
-﻿---
+---
 title: "What to do if… you are named as executor in a will but you cannot locate the original document"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - executor named in will
-  - cannot find original will
-  - missing will document
-  - lost original will uk
-  - only have a copy of the will
-  - will not located after death
-  - original will misplaced
-  - executor unsure what to do
-  - probate when will missing
-  - grant of probate without original
-  - will held by solicitor unknown
-  - later will might exist
-  - executor paperwork missing
-  - bereavement admin panic
-  - estate documents not found
-  - signed will cannot be found
-  - will storage location unknown
-  - named executor no document
-last_reviewed: "2026-02-23"
+  - "missing original will uk"
+  - "lost will document probate"
+  - "cannot find signed will"
+  - "executor named but no will"
+  - "only have a copy of the will"
+  - "probate without original document"
+  - "what do i do if i lost the will"
+  - "what do i do if i cant find the will"
+  - "what do i do if the will is missing"
+  - "what do i do if executor cannot find will"
+  - "help i lost the original will"
+  - "help i cannot find the deceaseds will"
+  - "help i only have a scan of the will"
+  - "help i am named executor but no document"
+  - "my deceased relative's will is missing"
+  - "my original will is lost"
+  - "smell of old paper"
+  - "solicitor letterhead"
+  - "bank safe custody receipt"
+  - "blue ink signature"
+  - "sealed legal envelope"
+  - "will storage receipt"
+  - "probate application help"
+  - "executor duties missing paperwork"
+  - "named as executor in a will but you cannot locate the original document"
+  - "named as executor"
+  - "executor"
+  - "locate the original document"
+  - "original document"
+  - "cannot locate"
+  - "will"
+  - "document"
+  - "locate"
+  - "original"
+  - "named"
+  - "executor in a will"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you are named as executor in a will but you cannot locate the original document (UK)
+
 ## Short answer
-Treat this as a “find the original will first” situation: secure paperwork and run a documented search for the original (and any later will/codicils). Normally HMCTS requires the original will for probate, but if the original is genuinely lost you may be able to apply using the “lost will” process (it’s not automatic).
+You must conduct and document a thorough search for the original signed will before assuming it is lost. If only a copy is found, you may apply for probate using Form PA13, provided you can prove the will was not intentionally destroyed by the deceased.
 
 ## Do not do these things
-- Do not start giving away, selling, or “tidying up” valuables or paperwork (the will may be in what looks like junk).
-- Do not assume there is definitely no will, or that the copy you’ve seen must be the latest.
-- Do not pay debts or distribute money from the estate in a rush.
-- Do not let multiple people remove papers “to sort at home” (documents go missing easily).
-- Do not do anything that risks losing the only original if it turns up (for example, posting it untracked).
+- Do not throw away any papers, even if they look like junk, as the will or storage receipts may be inside.
+- Do not write on, staple, or attach paperclips to any copy or original document you find.
+- Do not assume a scan or photocopy is sufficient for a standard probate application without specific HMCTS permission.
+- Do not distribute any assets or pay non-urgent debts until the legal document is verified.
+- Do not let family members take away batches of paperwork to "sort through" elsewhere.
+- Do not send any original documents through the post without using a tracked and signed-for service.
 
 ## What to do now
-1. **Secure the deceased’s papers and property.** Keep keys controlled, secure obvious valuables, and put all paperwork (including envelopes and scraps) into one safe place so it doesn’t get “cleared out”.
-2. **Start a search log immediately.** Record the date/time, where you looked, who you asked, and what you found. If the original never turns up, you may need to show a thorough search was done.
-3. **Search the highest-probability places carefully (without binning anything).** Fireproof boxes, safes, locked drawers, filing cabinets, desk trays, labelled folders (“Will”, “Solicitor”, “Deeds”), and anything that looks like a storage receipt or solicitor letter.
-4. **Contact likely will-holders.** If you can identify the solicitor or will-writing service (letters, emails, invoices, business cards), ask whether they:
-   - hold the original will
-   - know where the original is stored
-   - drafted any later will or codicil
-5. **If you don’t know who drafted it, consider a commercial will search.** A paid will search/registry service can sometimes identify the firm holding a will or confirm a registered entry (this is optional, but can save time if you’re stuck).
-6. **If you only have a copy/scan, preserve it exactly as-is.** Save/print it, note where it came from, and keep any supporting emails/letters about signing or storage. Do not rewrite or “clean up” the wording.
-7. **If the original cannot be found, use the correct HMCTS “lost will” route (self-applicants).** You may need to complete **Form PA13** and provide an **affidavit/statement of truth and supporting exhibits** explaining:
-   - the searches you carried out
-   - when/where the will was last known to exist
-   - why you believe it was not revoked
-   This is the route HMCTS uses to consider granting probate on the basis of a copy (approval depends on the evidence).
+1. **Secure the property and all physical paperwork immediately.** Gather all documents, including those in drawers, bedside tables, and filing cabinets, into one secure location to prevent accidental disposal or loss.
+   - Look specifically for envelopes with solicitor names, bank logos, or the words "Last Will and Testament."
+2. **Start a detailed search log to record every action taken.** Note the date, time, specific location searched, and the names of any people present during the search.
+   - This log is essential evidence if you eventually need to submit Form PA13 to HMCTS.
+3. **Contact the deceased’s bank and any solicitors they used.** Ask if they hold any documents in "Safe Custody" or "Safe Deposit" and provide a death certificate to gain access.
+   - Check bank statements for regular "document storage" fees or payments to legal firms.
+4. **Perform a search of the National Will Register.** Use a commercial will search service to check for registered wills or to contact firms in the deceased’s local area.
+   - This service often identifies wills that were made years ago at firms the family was unaware of.
+5. **Check for a "Grant of Deposit" or "Storage Receipt."** Look for evidence that the will was deposited with the Principal Registry of the Family Division for safekeeping.
+6. **Preserve any copy, scan, or draft exactly as you found it.** Keep the copy in a protective folder and do not attempt to "clean it up" or remove any existing staples.
+7. **Complete Form PA13 if the original remains missing and a signed copy exists.** **You must provide a Statement of Truth explaining where the will was last seen and why it is believed to be lost rather than revoked.**
+   - Include the details of everyone who would benefit if there were no will (the "persons prejudiced"), as they must be notified.
 
 ## What can wait
-- You do not need to decide (today) who gets what, whether to sell property, or how to split personal items.
-- You do not need to contact every creditor or close every account until you know which probate route you’re using.
-- You do not need to accept the executor role immediately if you are overwhelmed; your priority is preventing loss of documents and avoiding irreversible mistakes.
+- You do not need to settle the final inheritance tax bill or pay out legacies today.
+- You do not need to decide on the sale of property or vehicles until you have legal authority.
+- You do not need to worry about the "Intestacy Rules" until you have exhausted the search for the will and the PA13 application has been decided.
 
 ## Important reassurance
-It’s common for families to be sure “there was a will” but not know where the signed original is kept. A missing original is a known probate problem with a recognised process—what helps most is slowing down, documenting your search, and not acting on assumptions.
+It is very common for original wills to be stored securely by solicitors or banks rather than kept at home. Not finding the document immediately does not mean you have failed; the UK legal system has a specific, structured process (Form PA13) designed to handle lost documents when a clear copy and evidence of a search are provided.
 
 ## Scope note
-These are first steps only: securing documents, locating the correct will, and avoiding early mistakes. Later steps (probate application details, inheritance tax, disputes) may need specialist help depending on the estate.
+This guide covers first-step stabilization and search procedures only. Proving a "lost will" is a technical legal process; if the estate is complex, high-value, or likely to be disputed, professional legal advice is recommended before filing the application.
 
 ## Important note
-This is general information, not legal advice. Probate outcomes can depend on specific facts (for example, who last held the original). If there is conflict, suspicion the will was destroyed, or significant assets are involved, consider speaking to a probate solicitor before submitting a “lost will” application.
+This information is for general guidance and is not legal advice. The "presumption of revocation" means that if a will was last known to be in the deceased's possession and cannot be found, the law may assume they destroyed it to cancel it. Rebutting this presumption requires specific evidence.
 
 ## Additional Resources
 - https://www.gov.uk/applying-for-probate/if-theres-a-will
 - https://www.gov.uk/government/publications/report-a-will-is-lost-to-support-a-probate-application/how-to-report-a-lost-will-to-support-a-probate-application
-- https://www.gov.uk/government/publications/report-a-will-is-lost-to-support-a-probate-application
-- https://assets.publishing.service.gov.uk/media/63f34912d3bf7f62e21c27ad/PA13_0421_save.pdf
-- https://probatesearch.service.gov.uk/help
-- https://www.nationalwillregister.co.uk/search-for-a-will/
+- https://www.thegazette.co.uk/all-notices/content/102364
+- https://www.lawsociety.org.uk/public/for-public-visitors/common-legal-issues/dealing-with-someones-affairs-when-they-die
+- https://www.citizensadvice.org.uk/family/death-and-wills/dealing-with-the-financial-affairs-of-someone-who-has-died/

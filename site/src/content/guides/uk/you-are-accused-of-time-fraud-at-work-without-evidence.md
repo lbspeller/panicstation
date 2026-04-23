@@ -1,71 +1,104 @@
-﻿---
+---
 title: "What to do if… you are accused of time fraud at work without evidence"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - accused of time fraud
-  - accused of time theft
-  - timesheet dispute at work
-  - questioned about hours worked
-  - alleged falsifying timesheet
-  - disciplinary allegation no evidence
-  - employer says clocking fraud
-  - challenged on clock in times
-  - accused of buddy punching
-  - rota mismatch accusation
-  - payroll hours dispute
-  - investigation meeting at work
-  - disciplinary hearing preparation
-  - worried about gross misconduct
-  - asked to explain time records
-  - manager alleges timekeeping issue
-  - accused of stealing time
-  - timekeeping system error blamed
-last_reviewed: "2026-01-08"
+  - "vague meeting invite"
+  - "unclear workplace meeting"
+  - "asked to bring a colleague"
+  - "asked to bring a representative"
+  - "right to be accompanied uk"
+  - "disciplinary hearing notice"
+  - "grievance meeting companion"
+  - "investigatory meeting support"
+  - "workplace representation rights"
+  - "what do i do if my manager sends a vague invite"
+  - "what do i do if i am asked to bring a rep"
+  - "what do i do if a meeting invite has no agenda"
+  - "what do i do if i am told to bring a colleague"
+  - "help i have a meeting and do not know why"
+  - "help i need a union rep for a meeting"
+  - "help i am being investigated at work"
+  - "help my boss is being vague about a meeting"
+  - "smell of disciplinary action"
+  - "unclear purpose of meeting"
+  - "missing meeting agenda"
+  - "formal meeting request"
+  - "vage meeting"
+  - "disciplinary representitve"
+  - "meeting at short notice"
+  - "meeting with hr and manager"
+  - "companion not available"
+  - "postpone disciplinary hearing"
+  - "employment relations act 1999 section 10"
+  - "acas code of practice"
+  - "bringing a witness to a meeting"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are accused of time fraud at work without evidence (UK)
 
 ## Short answer
-Pause and keep everything in writing: ask for the allegation and evidence in writing, then respond only after you’ve seen what they’re relying on.
+Request written clarification of the meeting’s purpose, the specific allegations or topics, and the potential outcomes before attending. If the meeting could lead to disciplinary action or concerns a grievance, formally exercise your statutory right to be accompanied.
 
 ## Do not do these things
-- Do not “fix” or edit any past timesheets, clock-ins, calendars, or messages to make them look better.
-- Do not resign “to get ahead of it” or accept a settlement/exit offer on the spot.
-- Do not give an off-the-cuff verbal explanation in a corridor chat—ask for a scheduled meeting and written details.
-- Do not accuse colleagues of wrongdoing or start contacting “witnesses” in a way that could look like pressure.
-- Do not delete chats, emails, photos, or location history connected to the dates in question.
+- Do not attend the meeting without knowing its formal status (investigatory vs. disciplinary).
+- Do not assume you have a statutory right to a companion for a purely investigatory or fact-finding meeting.
+- Do not agree to an immediate meeting if you have not been given reasonable time to prepare or find a companion.
+- Do not sign any minutes, statements, or agreements during the meeting if you have not had time to review them.
+- Do not provide passwords or access to personal devices or accounts without seeking independent advice or written justification.
+- Do not speculate on the meeting’s purpose in communications with colleagues before receiving clarification.
 
 ## What to do now
-1. **Get the allegation in writing.** Ask what dates/times are in question, what policy they say was breached, and what process they are starting (investigation vs disciplinary).
-2. **Ask for the evidence they’re relying on before you respond fully.** For example: timekeeping logs, rota/schedule, manager approvals, exception reports, badge/CCTV references, system audit logs (who edited what and when), and any witness accounts.
-3. **Preserve your own records immediately (without editing).** Save anything that shows you worked: diary/calendar entries, meeting invites, call logs, sent emails, ticketing/CRM activity, delivery/visit notes, photos taken for work, travel receipts, and chat timestamps. Keep a dated copy outside work systems if you can do so lawfully.
-4. **Write a simple timeline while it’s fresh.** Note start/finish, breaks, where you were working, what you did, who saw you, any timeclock/system issues, and any approvals. Keep it factual and short.
-5. **If invited to a disciplinary hearing, use your legal right to be accompanied.** Tell them you will bring a companion (a **trade union representative/official** or a **fellow worker**) and ask them to schedule a time that allows your companion to attend.
-6. **If it’s an investigation meeting, ask (in writing) if you can bring someone anyway.** The statutory right to be accompanied is for **disciplinary hearings** (and some grievance hearings), not usually investigatory meetings—many employers still allow it as a policy choice.
-7. **Get the rules they’re applying.** Request the disciplinary policy, timekeeping/timesheet policy, and any written standard for “time fraud/time theft,” plus copies of your own submitted timesheets and approvals for the period.
-8. **If they won’t share key records, consider a subject access request.** You can ask your employer for a copy of your **personal data** relevant to the allegation (for example, time records, emails/chats about shifts, logs connected to your account). Keep the request narrow to the dates and systems involved.
-9. **If suspended, pin down terms in writing.** Ask whether it’s on full pay, whether benefits continue, what you can/can’t do (contacting colleagues, accessing systems), who your contact person is, and when it will be reviewed. If they propose stopping pay, ask them to confirm the basis in writing.
-10. **After any meeting, send a brief “confirming our conversation” email.** Date, what was alleged, what you requested, and agreed next steps. This stops details drifting.
+1. **Send a written request for immediate clarification of the meeting’s status.**  
+   Ask the organizer to confirm in writing if the meeting is:
+   - a formal disciplinary hearing (which may result in a warning or dismissal)
+   - an investigatory meeting (fact-finding only)
+   - a grievance meeting (to discuss a complaint you raised)
+   - a redundancy consultation or capability meeting
+
+2. **Request the specific details and evidence required for preparation.**  
+   Ask for a written agenda, the names and roles of all attendees, and copies of any evidence, complaints, or reports that will be discussed. You are entitled to "reasonable time" to prepare for a formal disciplinary hearing.
+
+3. **Formally request to be accompanied if the meeting is disciplinary or grievance-related.**  
+   Make a "reasonable request" in writing. Your companion must be:
+   - a fellow worker (colleague)
+   - an official employed by a trade union
+   - a workplace trade union representative certified in writing by their union as having experience or training in acting as a companion
+
+4. **Propose an alternative time if your chosen companion is unavailable.**  
+   If your companion cannot attend at the proposed time, you can suggest an alternative. Under the Employment Relations Act 1999, the employer must postpone the meeting if your alternative is reasonable and falls within five working days beginning with the first working day after the day originally proposed.
+
+5. **Establish the ground rules for your companion’s participation.**  
+   Confirm that your companion will be allowed to:
+   - put your case and sum up the case
+   - respond on your behalf to any views expressed
+   - confer with you privately during the hearing
+   - Note: The companion does not have the statutory right to answer questions on your behalf.
+
+6. **Request a support person for investigatory meetings, even if no statutory right exists.**  
+   While there is no legal right to a companion for fact-finding, many employers allow a colleague to attend to take notes. If refused, ask for the meeting to be recorded or for a copy of the notes to be provided immediately after.
+
+7. **Pause the meeting if new allegations or evidence are introduced without notice.**  
+   At the start of the meeting, if the purpose remains unclear or new evidence appears, state: "I have not had sufficient time to review this information. I am requesting a short adjournment to consult with my companion."
 
 ## What can wait
-- You do not need to decide today whether to resign, accept an exit offer, or start a formal claim.
-- You do not need a perfect defence immediately—first secure the allegation, policy, and evidence they’re relying on.
-- You do not need to contact coworkers right now; avoid anything that could be seen as influencing accounts.
+- You do not need to provide a full defense or counter-argument until you have seen all the evidence.
+- You do not need to decide whether to appeal a decision or lodge a cross-grievance during this initial meeting.
+- You do not need to accept an "informal" resolution that involves a permanent change to your contract or status without time for review.
+- You do not need to answer questions about topics not included in the original clarification or agenda.
 
 ## Important reassurance
-Feeling shocked or angry is normal. Slowing the process down, asking for specifics, and keeping everything factual and written protects you from accidental contradictions.
+Receiving a vague meeting invite that mentions a representative is a common source of workplace stress, but it is also a signal to slow down. Employers are bound by the ACAS Code of Practice to act fairly and transparently. Asking for clarity and following procedural steps are protective actions, not signs of guilt or obstruction.
 
 ## Scope note
-These are first steps to stabilise the situation and avoid irreversible mistakes. If it escalates (final warning/dismissal risk, or an accusation of theft), you may need specialist support (your union, ACAS guidance, or an employment adviser).
+This guide covers first-step stabilization and procedural rights in the UK only. It is intended to help you secure information and representation before a meeting begins.
 
 ## Important note
-This is general information, not legal advice. Workplace rules and processes vary by employer and contract. If you’re asked to sign anything (for example, a statement or “repayment” agreement), pause and get independent advice before agreeing.
+This information is based on UK employment law and the ACAS Code of Practice as of 2026. Your specific rights may be enhanced by your employment contract or internal company policies. Failure by an employer to follow the ACAS Code does not make them liable for legal action on its own, but it can lead to an increase in compensation of up to 25% if you later win an employment tribunal claim.
 
 ## Additional Resources
-- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
-- https://www.legislation.gov.uk/ukpga/1999/26/section/10/notes
-- https://www.acas.org.uk/suspension-during-an-investigation/pay-and-holiday
-- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step
-- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/subject-access-request-q-and-as-for-employers/
+- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures/html
 - https://www.citizensadvice.org.uk/work/disciplinary-meetings/disciplinary-meetings-where-to-start/
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/preparing-for-a-disciplinary-or-dismissal-meeting/
+- https://www.citizensadvice.org.uk/work/dismissal/check-your-rights-if-youre-dismissed/check-if-your-employers-dismissal-process-is-unfair/
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/disciplinary-meetings-appealing-against-disciplinary-action/

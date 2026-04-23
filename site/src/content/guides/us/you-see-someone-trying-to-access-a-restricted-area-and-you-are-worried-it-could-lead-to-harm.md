@@ -1,79 +1,90 @@
-﻿---
+---
 title: "What to do if… you see someone trying to access a restricted area and you are worried it could lead to harm"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - someone entering restricted area
-  - trying to access restricted door
-  - suspicious person near secure entrance
-  - unauthorized access attempt
-  - tailgating through secure door
-  - forced entry at a secure site
-  - suspicious activity at a facility
-  - suspicious activity at work
-  - trespass into employees only area
-  - person without badge in secure zone
-  - security breach concern
-  - possible threat escalation
-  - might be planning harm
-  - critical infrastructure security concern
-  - public venue restricted access
-  - unsure whether to call 911
-  - see something say something moment
-  - you feel unsafe reporting
-last_reviewed: "2026-01-10"
+  - "someone trying to access a restricted area"
+  - "restricted area access attempt"
+  - "person entering restricted zone"
+  - "unauthorized entry into secure area"
+  - "worried about restricted area harm"
+  - "help i saw someone enter a restricted area"
+  - "what do i do if someone is in a restricted area"
+  - "my workplace restricted area was breached"
+  - "what do i do if i see a security breach"
+  - "someone tailgating through a secure door"
+  - "forced entry at secure facility"
+  - "suspicious person at employee entrance"
+  - "unauthorized person in staff only area"
+  - "person climbing security fence"
+  - "trying door handles on secure rooms"
+  - "suspicious behavior near utility zone"
+  - "unrecognized person in badge access zone"
+  - "security alarm at restricted door"
+  - "someone bypassing security checkpoint"
+  - "door propped open at secure entrance"
+  - "unauthorized access to control room"
+  - "person without credentials in restricted area"
+  - "seeing someone in a restricted area"
+  - "reporting unauthorized access"
+  - "suspicious entry attempt"
+  - "unauthorized access concern"
+  - "person in restricted corridor"
+  - "accessing secure area without permission"
+  - "suspicious person near server room"
+  - "report restricted area breach"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you see someone trying to access a restricted area and you are worried it could lead to harm (USA)
 
 ## Short answer
-Get to a safer position and **report it immediately** to on-site security or staff—then call **911** if there’s any immediate threat, forced entry, or danger to people.
+Move to a safe distance and **report the activity immediately** to on-site security or facility management, then call **911** if there is an active threat or forced entry.
 
 ## Do not do these things
-- Don’t confront, physically stop, or chase the person.
-- Don’t follow them into the restricted area or try to “investigate” alone.
-- Don’t pull out your phone and record from close range if it puts you at risk.
-- Don’t broadcast images or details on social media while it’s unfolding.
-- Don’t wait for certainty if your concern is that harm could happen.
+- Don’t confront, block, or attempt to detain the person.
+- Don’t follow the person into the restricted area to investigate.
+- Don’t base your report on the person's race, ethnicity, or religion; focus only on their actions and location.
+- Don’t assume the person belongs there just because they look "professional" if they are bypassing security protocols.
+- Don’t delay reporting because you are unsure if the person's intent is harmful.
 
 ## What to do now
-1. **Create distance and improve your safety first.**  
-   Step back, keep exits available, and place solid cover (a wall/column/closed door) between you and the person if possible.
-
-2. **Alert the nearest responsible authority on-site (fastest local action).**  
-   Contact security, a front desk, a supervisor, event staff, or facility management. If there’s a posted emergency number for the site (or a security operations center/control room), use it.
-
-3. **Call 911 if it’s urgent or escalating.**  
-   Call **911** if there’s forced entry, violence, threats, a weapon, or you believe someone could be harmed soon. If you’re not sure, describe what you’re seeing and let the dispatcher triage.
-
-4. **Give specific facts responders can use right away.**  
-   Provide: exact location (building/entrance/level), what the person is doing (e.g., “testing doors,” “tailgating,” “climbing fence”), direction of movement, and a simple description (clothing, approximate height/build, identifying features). Mention immediate hazards (crowded area, near kids, near machinery, etc.).
-
-5. **If you’re in a venue with its own police/security, notify them too.**  
-   Examples: airport, stadium, hospital, transit hub, or campus—call venue security/campus police or use on-site emergency phones where available. They can often respond faster on-site while 911 support is en route.
-
-6. **After reporting, stop engaging and stay reachable.**  
-   Move somewhere safer. If a responder calls back, answer and repeat the key facts calmly.
-
-7. **If it’s not time-sensitive, report to local law enforcement (not federal).**  
-   Use the **local police non-emergency number** (often listed on the agency’s official website), or **311** where your city provides it. If you can’t find the right number quickly and you’re worried it could escalate, call **911** and explain what you’re seeing.
+1. **Prioritize your physical safety by creating distance.**
+   **Identify the nearest exit and move away from the restricted area while keeping a wall, pillar, or closed door between you and the individual.**
+2. **Contact on-site authorities immediately.**
+   **Locate the nearest staff member, security desk, or facility manager to report the breach.**
+   - If in a transit hub, use a designated "emergency" or "assistance" phone.
+   - If at work, call the security operations center or use the internal emergency extension.
+3. **Call 911 if the situation is urgent or escalating.**
+   **Dial 911 if you observe weapons, physical violence, property damage (such as a smashed keypad or broken lock), or if the person is acting aggressively.**
+4. **Prepare the "5 Ws" for the dispatcher or security officer.**
+   **Provide clear, factual information about the incident without speculating on motives:**
+   - **Who:** Physical description (clothing, height, build).
+   - **What:** Specific behavior (e.g., "trying every door handle," "climbing a perimeter fence").
+   - **When:** The exact time you observed the behavior.
+   - **Where:** Specific location (building name, floor number, room label).
+   - **Why:** The specific reason the behavior is suspicious (e.g., "the area is marked 'No Unauthorized Entry' and the person is forced the latch").
+5. **Report to local law enforcement for non-emergencies.**
+   **If the person has already left and there is no immediate danger, call the local police department's non-emergency number or 311 if available in your city.**
+6. **Remain reachable for follow-up questions.**
+   **Stay in a safe location until authorities arrive or until they tell you that you are no longer needed, and answer any return calls from dispatchers.**
 
 ## What can wait
-- You don’t need to decide whether it was “definitely dangerous” before reporting.
-- You don’t need to collect evidence, get names, or confront witnesses right now.
-- You don’t need to file a detailed written report immediately—focus on the key facts that enable a response.
+- You do not need to confirm if the person has a legitimate reason to be there; let security verify credentials.
+- You do not need to take photos or video if doing so requires you to move closer or stay in a vulnerable spot.
+- You do not need to fill out a formal incident report in the first few minutes; verbal reporting is the priority.
 
 ## Important reassurance
-Feeling torn between “maybe it’s nothing” and “what if it’s serious” is normal. Reporting a possible restricted-access breach is a reasonable precaution, and you’re allowed to prioritize safety over certainty.
+Hesitating to report because "it might be nothing" is a common reaction. Security and law enforcement are trained to distinguish between innocent mistakes and security threats; your role is simply to provide the observation so they can make that determination.
 
 ## Scope note
-These are first steps for the earliest safe pause. Facilities often have specific security protocols; once you’ve reported and you’re safe, follow the venue/workplace instructions.
+This guide provides first-step stabilization for reporting a security breach. It does not replace specific emergency protocols for high-security environments like airports, military bases, or hospitals, which may have additional lockdown or "Run, Hide, Fight" requirements.
 
 ## Important note
-This is general information, not legal or professional security advice. If you think anyone is in immediate danger, prioritize safety and call emergency services.
+This information is for general guidance and does not constitute professional security or legal advice. In any situation where you believe there is a threat to life or safety, contact emergency services immediately.
 
 ## Additional Resources
-- https://www.dhs.gov/see-something-say-something
-- https://www.dhs.gov/see-something-say-something/how-to-report-suspicious-activity
-- https://www.fcc.gov/general/9-1-1-and-e9-1-1-services
-- https://www.911.gov/calling-911
+- https://www.fbi.gov/contact-us
+- https://www.fbi.gov/tips
+- https://www.fbi.gov/investigate/terrorism
+- https://www.osha.gov/workplace-violence
+- https://www.fbi.gov/investigate/counterintelligence/threat-intimidation-guide

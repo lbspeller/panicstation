@@ -1,85 +1,89 @@
-﻿---
+---
 title: "What to do if… you notice a transfer or payment pending that you did not authorise"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - unrecognised pending payment
-  - unknown transfer pending
-  - unauthorised bank transfer
-  - suspicious card payment pending
-  - card authorisation you didn’t make
-  - pending charge you don’t recognise
-  - new payee you didn’t add
-  - unexpected standing order setup
-  - unknown direct debit pending
-  - card details compromised
-  - banking app suspicious activity
-  - mobile wallet fraud
-  - scammer pretending to be bank
-  - “safe account” transfer request
-  - faster payments fraud
-  - chaps payment you didn’t authorise
-  - payment reversal request
-  - dispute a transaction with bank
-last_reviewed: "2026-01-08"
+  - "unauthorised bank transfer"
+  - "unrecognised pending payment"
+  - "unknown transfer pending"
+  - "suspicious card payment pending"
+  - "card authorisation you didnt make"
+  - "pending charge you dont recognise"
+  - "new payee you didnt add"
+  - "unexpected standing order setup"
+  - "unknown direct debit pending"
+  - "card details compromised"
+  - "banking app suspicious activity"
+  - "mobile wallet fraud"
+  - "scammer pretending to be bank"
+  - "safe account transfer request"
+  - "faster payments fraud"
+  - "chaps payment you didnt authorise"
+  - "payment reversal request"
+  - "dispute a transaction with bank"
+  - "help i have a pending payment i didnt make"
+  - "what do i do if a transfer is pending"
+  - "my bank account has an unknown charge"
+  - "help i think my bank card is cloned"
+  - "unauthorised direct debit guarantee"
+  - "stop pending bank transfer uk"
+  - "bank fraud reporting uk"
+  - "unknown merchant name on bank statement"
+  - "ghost payment on banking app"
+  - "pending transaction not mine"
+  - "how to cancel pending payment uk"
+  - "unauthorised card transaction uk"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you notice a transfer or payment pending that you did not authorise (UK)
 
 ## Short answer
-Contact your bank immediately using a trusted route (your banking app, the number on your card, or by dialling 159 if your bank is on it) and ask them to stop the pending payment and secure your account.
+Contact your bank immediately through their official app or the number on your card to report the transaction as unauthorised and request that the payment be stopped or the funds recovered.
 
 ## Do not do these things
-- Don’t assume “pending” means it will definitely disappear — treat it as urgent until your bank confirms what it is.
-- Don’t call back numbers from a text/email about the payment, and don’t continue any unexpected call “from your bank”.
-- Don’t approve any in-app prompts, one-time passcodes, or “verification” requests you didn’t start.
-- Don’t move money to a “safe account” because someone told you to — banks and police don’t ask you to do that.
-- Don’t close your account or delete messages/screenshots yet; you may need a clear record for the bank’s fraud team.
+- Don't wait for the "pending" status to clear; banks often cannot stop a transaction once it has fully settled.
+- Don't use contact details provided in a text or email about the payment, as these are often spoofed by scammers.
+- Don't approve any notifications, "security" prompts, or one-time passcodes (OTPs) that appear while you are investigating the issue.
+- Don't move money to any "safe account" suggested by a caller, even if they claim to be from the police or your bank's fraud team.
+- Don't use the same phone line to call your bank if you were just speaking to a suspicious caller on a landline (scammers can keep the line open).
 
 ## What to do now
-1. **Open the pending item and capture the key details.** Note (or screenshot) the amount, date/time, merchant/beneficiary name, any reference, and whether it says *card payment*, *bank transfer*, *Direct Debit*, or *standing order*.
-2. **Secure your access in the banking app (if you can).**
-   - Freeze/lock the card (or “temporarily block” it).
-   - Remove any unknown device sessions, and turn off “new payee / transfer” features if your bank offers a quick toggle.
-3. **Contact your bank immediately via a trusted route.**
-   - Use your banking app’s “report fraud”/chat/call, **or** call the number on the back of your card.
-   - If you’re currently on (or just received) a suspicious call, hang up and dial **159** (if your bank participates) to be routed securely to your bank.
-4. **Use the exact wording: “This is an unauthorised transaction and it is still pending.”** Ask the bank to:
-   - **Stop/cancel** the payment if possible (or block settlement if it’s a card authorisation).
-   - **Recall/trace** the payment if it’s a bank transfer and it has already started moving.
-   - **Cancel the card and reissue** if there’s any chance card details are compromised.
-5. **If it’s a Direct Debit you don’t recognise:** tell the bank to **cancel the Direct Debit instruction** and ask for a **full and immediate refund** under the **Direct Debit Guarantee** (your bank can usually action this once the collection is confirmed as incorrect/unauthorised).
-6. **If it looks like someone set up a new payee, standing order, or “saved beneficiary”:** ask the bank to **remove it** and add extra security on your account (for example, extra checks for new payees).
-7. **Change the right passwords (in the right order).**
-   - First: your email account password (because it can be used to reset banking access).
-   - Then: your banking password/passcode.
-   - Enable/refresh strong sign-in (biometrics, 2-step verification) where offered.
-8. **Report it once your bank has secured the account (optional but useful).**
-   - **England, Wales, Northern Ireland:** report via **Report Fraud** (online or by phone).
-   - **Scotland:** report to **Police Scotland** by calling **101**.
-9. **If your bank won’t resolve it or you feel you’re being “stalled”:**
-   - Start the bank’s formal complaints process and keep a single timeline (dates, names, reference numbers).
-   - If you get a final response you disagree with (or they don’t respond within the usual timeframe), you can escalate to the **Financial Ombudsman Service**.
+1. **Freeze or block your card immediately using your banking app.** Most UK banking apps have a "Freeze Card" or "Temporarily Block" toggle that prevents any further card transactions while you investigate.
+2. **Contact your bank's fraud department through a verified route.**
+   - Call the number on the back of your physical bank card.
+   - Use the "Call us" feature within your secure banking app.
+   - Dial **159** from a mobile or a separate landline to see if your bank is one of the 27+ members of the Stop Scams UK 159 service.
+3. **Tell the bank specifically: "I am reporting an unauthorised transaction that is currently pending."** Provide the merchant name, the exact amount, and the time the transaction appeared.
+4. **Identify the transaction type to determine your rights.**
+   - **Card Payment:** Ask the bank to block the "authorisation hold" so the merchant cannot collect the funds.
+   - **Bank Transfer (Faster Payments/CHAPS):** Ask the bank to "Recall" the payment immediately; transfers move fast but a pending status may allow for an early intervention.
+   - **Direct Debit:** If the pending item is a Direct Debit, ask the bank to cancel the mandate and issue an "Indemnity Claim" under the Direct Debit Guarantee for a full refund.
+5. **Secure your digital access immediately.** 
+   - Change your banking app passcode and your main email password.
+   - Check the "Logged in devices" section of your banking app and remove any sessions you do not recognize.
+6. **Request a formal fraud reference number from the bank.** Note the date, time, and name of the representative you spoke to for your own records.
+7. **Report the incident to the national reporting centre.**
+   - **England, Wales, and Northern Ireland:** Report to **Action Fraud** (the national fraud and cybercrime reporting centre) online or by phone.
+   - **Scotland:** Report to **Police Scotland** by calling **101** or using the official online reporting tool on the Police Scotland website.
+8. **Set up "New Payee" alerts in your banking settings.** If your bank supports it, enable push notifications for every time a new recipient is added or a payment is made.
 
 ## What can wait
-- You don’t need to decide right now whether it was “fraud” vs “merchant error” — your bank can tell you what type of transaction it is.
-- You don’t need to contact the merchant/payee first; contact your bank first while it’s pending.
-- You don’t need to replace your phone/laptop immediately unless the bank specifically advises it; focus first on freezing access and changing key passwords.
-- You don’t need to write a long explanation tonight — a simple, accurate timeline is enough.
+- You don't need to contact the merchant or the "beneficiary" of the payment yet; your bank is responsible for the initial dispute process.
+- You don't need to close your entire bank account unless the bank's fraud team specifically advises it after they have secured your current credentials.
+- You don't need to provide a detailed written witness statement immediately; the priority is the verbal report to stop the flow of funds.
 
 ## Important reassurance
-Seeing a “pending” payment you don’t recognise is frightening, but it can sometimes be a pre-authorisation that hasn’t fully completed. Acting quickly and calmly — freezing access and getting your bank’s fraud team involved — is the right move and often prevents the payment from settling.
+A "pending" status on a transaction often acts as a window of opportunity. UK banks have sophisticated fraud systems designed to catch these movements. By reporting the issue while the transaction is still pending, you are taking the most effective action possible to prevent a permanent loss of funds.
 
 ## Scope note
-This is first steps only for the first minutes/hours. Next steps (like reimbursement decisions and longer investigations) depend on the transaction type and your bank’s process.
+This guide covers the first-response actions for an unauthorised pending payment in the UK. It does not cover long-term credit score repair or legal action against third-party merchants.
 
 ## Important note
-This is general information, not legal or financial advice. Bank processes and your rights can vary by payment type and circumstances. If you’re unsure, treat it as urgent and follow your bank’s fraud reporting instructions.
+This is general information and does not constitute financial or legal advice. Your right to a refund depends on the specific payment type (Card, Direct Debit, or Transfer) and whether the bank determines you acted with "gross negligence." If your bank fails to respond within 15 business days for a payment service complaint, you may have the right to escalate to the Financial Ombudsman Service.
 
 ## Additional Resources
-- https://stopscamsuk.org.uk/campaign/get-help-now/
-- https://stopscamsuk.org.uk/our-work/159-phone-number/
-- https://www.directdebit.co.uk/direct-debit-guarantee/
-- https://www.reportfraud.police.uk/
-- https://www.scotland.police.uk/guidance/scams-and-frauds/
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/disputed-transactions
+- https://www.fca.org.uk/consumers/fraudulent-payments
+- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/fraud-scams/scams-involving-unauthorised-payments-identity-theft
+- https://www.moneyhelper.org.uk/en/everyday-money/banking/how-to-sort-a-problem-with-a-payment
+- https://www.moneyhelper.org.uk/en/everyday-money/credit/identity-theft-and-scams-what-you-are-liable-for
+- https://www.reportfraud.police.uk/bank-account-fraud/

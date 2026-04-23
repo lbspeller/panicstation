@@ -1,92 +1,96 @@
-﻿---
+---
 title: "What to do if… you learn there is a custody or family court date approaching soon after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - custody hearing soon after death
-  - family court date after bereavement
-  - child arrangements hearing upcoming
-  - postpone family court hearing
-  - adjourn family court hearing
-  - court date clash with funeral
-  - death in immediate family court
-  - parent died custody case
-  - bereavement and court hearing
-  - short notice family court hearing
-  - overwhelmed before court date
-  - contact family court listing office
-  - remote hearing request bereavement
-  - self represented in family court
-  - hearing notice case number
-  - cafcass case after bereavement
-  - tell other party about adjournment
-  - proof of bereavement request
-last_reviewed: "2026-03-02"
+  - "family court date after death"
+  - "custody hearing soon after death"
+  - "bereavement before family court"
+  - "adjourn family court hearing death"
+  - "postpone child arrangements hearing"
+  - "emergency adjournment family court"
+  - "what do i do if family court is after a death"
+  - "what do i do if custody hearing is soon"
+  - "what do i do if bereavement clashes with court"
+  - "help i have a court date and a funeral"
+  - "my parent died before my custody hearing"
+  - "my partner died before my family court date"
+  - "my child arrangements hearing is approaching"
+  - "smell of grief and court stress"
+  - "seeing court papers after a death"
+  - "feeling overwhelmed before court date"
+  - "hearing notice after bereavement"
+  - "form c2 adjournment"
+  - "remote hearing request bereavement"
+  - "court listing office contact"
+  - "family court listing phone number"
+  - "postpone hearing 2026 rules"
+  - "bereavement proof for court"
+  - "funeral director letter for court"
+  - "death certificate for family court"
+  - "court date after death"
+  - "family court date soon"
+  - "custody date approaching"
+  - "approaching court date death"
+  - "death and family court"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you learn there is a custody or family court date approaching soon after a death (UK)
 
 ## Short answer
-Contact the court today (using the hearing notice contact details) to ask how to request an adjournment or remote attendance due to bereavement, and tell the other party (or their solicitor) in writing what you’ve asked for.
+Contact the court or the Courts and Tribunals Service Centre (CTSC) immediately to request an adjournment or remote attendance, and notify the other party in writing of your request.
 
 ## Do not do these things
-- Don’t assume the hearing will be moved automatically because there’s been a death.
-- Don’t ignore the date “until you feel able” — orders can still be made if you do not attend.
-- Don’t send long emotional messages to the other party; keep everything short, factual, and about scheduling.
-- Don’t share more detail than necessary; “death in the immediate family / close bereavement” is usually enough at this stage.
-- Don’t agree to major changes (moving arrangements, travel, passport handovers) while you’re in shock just to reduce conflict.
+- Don't wait for the court to contact you first; adjournments for bereavement are not automatic.
+- Don't ignore the hearing notice; if you do not attend and the court has not granted an adjournment, orders can be made in your absence.
+- Don't record any part of a remote hearing on your own device, as this is a criminal offense (Contempt of Court).
+- Don't use the adjournment request to raise long-standing grievances about the other party.
+- Don't feel obligated to provide a full death certificate immediately if you do not have it; a letter from a funeral director or a scan of the fact of death is usually sufficient for an initial request.
 
 ## What to do now
-1. **Pull the key details into one note (10 minutes).**  
-   Case number, parties’ names as written, hearing date/time, how to attend (in-person/phone/video), and the court’s email/phone from the notice.
+1. **Locate your case number and court contact details immediately (5 minutes).**  
+   **Find the 10-digit case reference number on your most recent court order or hearing notice.**
+   - Use the official "Find a court or tribunal" service on GOV.UK to find the email address and phone number for the specific court or the relevant Courts and Tribunals Service Centre (CTSC).
 
-2. **Contact the court listing office / admin urgently using the details on your notice (or Find a court).**  
-   If you can’t find contact details on the notice, use the official “Find a court or tribunal” service to locate the correct court’s contact route.  
-   In your message, include:
-   - case number and parties’ names
-   - hearing date/time
-   - one-line reason: “bereavement in the immediate family”
-   - what you’re requesting: **short adjournment** or **permission to attend remotely**
-   - what confirmation you can provide now (or soon): for example, a brief note from the registrar/funeral director, or the death certificate when available
+2. **Send an urgent email to the court and copy the other party (or their solicitor).**  
+   **In the subject line, write "URGENT: ADJOURNMENT REQUEST - [Case Number] - Hearing on [Date]".**
+   - State clearly: "I am requesting an adjournment of the hearing scheduled for [Date] due to a close family bereavement on [Date]."
+   - Ask: "Please let me know if the Judge requires a formal C2 application or if this can be decided on the papers due to the urgent nature of the bereavement."
 
-3. **Ask the court what they require to decide it (and do that, fast).**  
-   Different Family Courts handle this differently. The court may accept a short written request by email, or they may require a formal application in the case (often a directions application in existing proceedings, commonly using **Form C2**).  
-   Ask explicitly:
-   - “Do I need to file an application, and if so which form and how do I file it?”
-   - “Do you require the other party’s position (agree/oppose)?”
-   - “If the judge won’t decide before the day, should I still attend and renew the request at the start?”
+3. **Request a 'remote hearing' as a fallback option.**  
+   **If you feel able to attend but cannot travel, ask the court if you can join via the Cloud Video Platform (CVP) or telephone.**
+   - State that you are currently unable to travel due to funeral arrangements or family obligations but are willing to participate remotely if the adjournment is denied.
 
-4. **Tell the other party (or their solicitor) the same day — briefly, in writing.**  
-   Example: “A close family bereavement has occurred. I’ve contacted the court today to request [adjournment / remote attendance] for the hearing on [date]. I’ll update you when I receive the court’s decision.”  
-   Keep a copy/screenshot.
+4. **Complete and file Form C2 if the court staff direct you to do so.**  
+   **Download Form C2 from the GOV.UK website and fill in Section 4 with the specific reason for your request.**
+   - Check if you are eligible for "Help with Fees" (Form EX160) to avoid the application fee if you are on a low income.
+   - Attach a letter from the funeral director or the registrar if available.
 
-5. **If the hearing is likely to go ahead, prepare a “minimum viable” plan.**  
-   - If you cannot physically attend, ask again about **remote attendance**.  
-   - Draft a **one-page** note you can read: (a) the bereavement, (b) what you’re requesting (short adjournment/limited directions), (c) what you can realistically do right now, (d) any urgent child-safety issue only if it truly exists.
+5. **Keep communications with the other party strictly procedural.**  
+   **Send a brief text or email: "I have applied to the court to adjourn the hearing on [Date] due to a bereavement. I will update you when the court responds."**
+   - Do not engage in any negotiations or discussions regarding the case details during this contact.
 
-6. **If the death changes the child’s immediate care arrangements, flag that clearly.**  
-   If the person who died was a key caregiver/household adult, tell the court and the other party there may be short-term disruption, and ask for the minimum practical directions needed to keep things stable until everyone can participate properly.
-
-7. **Get practical support if you’re unrepresented.**  
-   If you don’t have a solicitor, consider contacting a court support charity that helps people representing themselves for help understanding what the court is asking you to file and how to keep communications short and appropriate.
+6. **Contact a support organization for procedural guidance.**  
+   **Call 'Support Through Court' or check the 'Child Law Advice' website for help with the wording of your application.**
+   - These services cannot provide legal advice but can help you navigate the HMCTS administrative process.
 
 ## What can wait
-- You do **not** need to “solve the whole case” this week.
-- You do **not** need to write long statements or gather every document today.
-- You can delay negotiations and detailed proposals until you have the court’s directions or a new date.
+- You do not need to prepare your full witness statement or evidence today.
+- You do not need to decide on long-term custody schedules while in acute grief.
+- You do not need to respond to non-urgent emails from the other party's solicitor.
 
 ## Important reassurance
-Bereavement can cause panic, brain-fog, and a sense that you must fix everything immediately. Right now, the goal is simpler: make sure the court knows, reduce the risk of orders being made in your absence, and avoid big irreversible decisions while you’re overwhelmed.
+It is normal to feel "brain fog" or extreme panic when a legal deadline coincides with a death. The family court system has established procedures for "vacating" (canceling) or adjourning hearings for bereavement. Taking the single step of emailing the court now reduces the risk of the case moving forward without your input.
 
 ## Scope note
-This is first-steps-only guidance for the immediate days around a hearing date. Later decisions (final arrangements, evidence, strategy) may need specialist legal advice.
+This is first-step guidance only for managing the immediate administrative conflict between a court date and a bereavement. It does not cover legal strategy, the merits of your case, or long-term bereavement counseling.
 
 ## Important note
-This is general information, not legal advice. Family Court practice can vary by court and judge, and timeframes can be tight. If you are unsure what to submit or how to notify the other party, contact the court using the details on your hearing notice and ask what they require for an adjournment or remote attendance request.
+This guide provides general information about HMCTS procedures in England and Wales. Practice may vary by specific court or judge. If you have a solicitor, you must contact them immediately as they are responsible for filing these applications on your behalf.
 
 ## Additional Resources
-- https://www.gov.uk/find-court-tribunal
-- https://assets.publishing.service.gov.uk/media/62da6516d3bf7f2862f26a5c/C2_0722_save.pdf
-- https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service
+- https://www.gov.uk/government/publications/urgent-court-hearings-about-child-arrangements-cb2/urgent-hearings-about-child-arrangements-cb2
+- https://www.gov.uk/looking-after-children-divorce/apply-for-court-order
+- https://www.advicenow.org.uk/get-help/family-and-children/going-family-court
 - https://supportthroughcourt.org/
-- https://helpwithchildarrangements.service.justice.gov.uk/going-to-court
+- https://www.find-court-tribunal.service.gov.uk/

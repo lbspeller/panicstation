@@ -1,81 +1,90 @@
-﻿---
+---
 title: "What to do if… water appears around a shower screen or tub edge and seems to be getting worse quickly"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - shower leaking around screen
-  - water around bath edge
-  - water pooling by tub
-  - shower seal failing
-  - bath sealant cracked
-  - bathroom leak getting worse
-  - water coming from shower tray
-  - water seeping under tiles
-  - shower door leaking
-  - wet floor by shower
-  - leak behind shower wall
-  - water under flooring near bathroom
-  - ceiling stain below bathroom
-  - water dripping through ceiling
-  - stopcock won’t turn
-  - can’t find stopcock
-  - bath overflow not the drain
-  - hidden plumbing leak
-  - rental bathroom leak urgent
-last_reviewed: "2026-03-04"
+  - "water appearing around shower screen"
+  - "shower screen leaking at base"
+  - "water leaking from tub edge"
+  - "bath sealant failing quickly"
+  - "shower tray leak emergency"
+  - "water pooling on bathroom floor"
+  - "bathroom water leak getting worse"
+  - "help i have water coming from my shower"
+  - "what do i do if my shower screen is leaking"
+  - "what do i do if water is under my bath"
+  - "what do i do if my bathroom ceiling is leaking"
+  - "help i have a leak in my bathroom"
+  - "my shower screen seal is broken"
+  - "my bathtub is leaking onto the floor"
+  - "water dripping through ceiling below bathroom"
+  - "damp patch on ceiling under shower"
+  - "smell of damp in bathroom"
+  - "visible water tracking from shower"
+  - "bulging ceiling under bathroom"
+  - "water near bathroom light fitting"
+  - "stuck stopcock help"
+  - "cannot find internal stop tap"
+  - "leaking shower tray sealant"
+  - "silicone peeling around bath"
+  - "water escaping shower door"
+  - "shower screen bottom seal gap"
+  - "water seeping through bathroom tiles"
+  - "emergency plumber for bathroom leak"
+  - "tenant rights for emergency leak uk"
+  - "awaabs law emergency repair"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… water appears around a shower screen or tub edge and seems to be getting worse quickly (UK)
 
 ## Short answer
-Stop using the shower/bath and shut off the water supply (or the bathroom/fixture supply if you can) before the leak spreads. If there’s any chance water is reaching electrics (lights, sockets, extractor, ceiling below), keep clear and isolate power only if it’s safe and dry to do so.
+Stop using the shower or bath immediately and isolate the water supply using the internal stop tap if the leak continues while water is off. If water is near electrical fittings or dripping through a ceiling below, avoid all switches and seek professional help.
 
 ## Do not do these things
-- Don’t “just take a quick shower” to test it — that often turns a small leak into a soaked floor/wall.
-- Don’t keep mopping and reusing the shower; you can miss water travelling under flooring.
-- Don’t touch switches, lights, shaver sockets, or the consumer unit if you’re wet, standing on a wet floor, or water is near electrics.
-- Don’t force a seized stopcock/stop tap (you can snap it) — use gentle, steady pressure only.
-- Don’t seal over active leaking without drying and identifying the path — you can trap moisture into walls/floors.
+- Do not run more water to "test" or find the source of the leak.
+- Do not touch any electrical switches, sockets, or the consumer unit if you are wet or standing on a wet floor.
+- Do not use a hairdryer or electrical appliance to dry the area while water is still active.
+- Do not force a seized internal stopcock, as this can cause the pipe to shear.
+- Do not stand directly under a bulging or leaking ceiling in the room below.
+- Do not attempt to apply new sealant over wet or actively leaking surfaces.
 
 ## What to do now
-1. **Create a safe pause.** Step out, dry your hands/feet, put on dry footwear, and keep children/pets out of the bathroom.
-2. **Stop the water source.**
-   - **First choice:** turn off the **inside stopcock/stop tap** (often under the kitchen sink).
-   - If it won’t move, **do not force it**. If you know where it is, use the **outside stop valve** (often needs a stopcock key).  
-   - If you cannot isolate the water quickly, treat this as urgent and **call an emergency plumber**.
-3. **Avoid electrical shock risk.**
-   - If water is near sockets, the extractor fan, a light fitting, or you see water staining on the ceiling below, **avoid using electrics in/near that area**.
-   - If it’s **safe and dry** to reach your **consumer unit**, switch off power to the affected circuit (or the main switch if you can’t identify it). If you would have to step in water or touch wet surfaces to do this, don’t.
-4. **Contain and confirm the pattern (without running more water).**
-   - Put towels along the outside edge of the bath/shower and at the bathroom door threshold.
-   - Use a torch to look for water tracking from the **bottom of the screen**, **corners**, **tap/shower valve area**, or the **back edge where the bath meets the wall**.
-   - If there’s a room below, check for **new drips, damp patches, or a bulging/staining ceiling** (this changes urgency).
-5. **Reduce damage while you wait for help.**
-   - Remove mats and anything stored on the floor; move toiletries off the bath edge if water is splashing out.
-   - Ventilate: open a window and leave the door ajar (only if it won’t spread moisture to valuables).
-6. **Contact the right person urgently.**
-   - **If you rent:** report it to your landlord/agent as an **urgent repair**. If possible, do it **in writing** (text/email/portal) and **keep a record** (screenshots, time/date, who you spoke to). Include: you’ve stopped using the shower, whether water is isolated, and whether there are signs of ceiling/below-room or electrical involvement.
-   - **If you own:** call a plumber if it’s spreading, you can’t isolate the supply, or there are signs of damage below/behind walls. Take photos for any insurance notification.
-7. **Document quickly (30 seconds).** Take a few photos/video of the water, the area it’s spreading to, and any visible gaps/cracks (useful for landlord/insurer/tradesperson).
+1. **Clear the area and ensure physical safety.** **Step out of the bath or shower immediately, dry yourself thoroughly in a dry area, and put on rubber-soled shoes.**
+   - Keep children and pets away from the bathroom floor and any rooms directly below the leak.
+2. **Isolate the water supply if the leak is constant.** **Locate your internal stop tap (usually found under the kitchen sink, in a hallway cupboard, or under the stairs) and turn it clockwise to shut off the mains.**
+   - If the stop tap is seized, do not use tools to force it; call an emergency plumber or your water company.
+   - If the leak only occurs when the shower is running, simply leaving the taps off may be sufficient to stabilize the moment.
+3. **Address electrical hazards.** **If water is dripping through a light fitting, extractor fan, or near a socket, do not touch the switches.**
+   - If it is safe and dry to do so, locate your consumer unit (fuse box) and switch off the relevant circuit.
+   - If the consumer unit itself is damp or if the floor leading to it is wet, do not approach it; call an emergency electrician.
+4. **Contain the visible water.** **Place dry towels or a shallow container at the point where water is escaping the screen or tub edge.**
+   - If there is a bulge in the ceiling below, place a bucket underneath it to catch potential runoff.
+5. **Report the emergency (Renters).** **Contact your landlord or letting agent immediately to report an "emergency hazard."**
+   - Under 2026 standards (including Awaab's Law for social housing and equivalent private rental protections), leaks affecting electrics or structural integrity often require a 24-hour response.
+   - Follow up any phone call with a written message or email containing photos of the water and any damage to the ceiling below.
+6. **Contact professional help (Homeowners).** **Call an emergency plumber if you cannot stop the flow of water or if it has reached the internal structure of the building.**
+   - If water has entered electrical fittings, you must also contact a NICEIC or NAPIT registered electrician to verify safety before turning power back on.
+7. **Document the situation.** **Take clear photos or a short video of where the water is pooling and any visible gaps in the sealant or screen tracking.**
+   - This evidence is required for insurance claims or to prove the urgency of repairs to a landlord.
 
 ## What can wait
-- You do **not** need to decide right now whether it’s “sealant vs plumbing” — treat it as a real leak until proven otherwise.
-- You do **not** need to re-seal, re-grout, or remove panels/tiles today unless a professional advises it.
-- You do **not** need to run repeated tests (turning water on/off) — that often worsens hidden saturation.
+- You do not need to identify the exact cause (e.g., pipework vs. sealant) right now.
+- You do not need to clean or scrub the area until the leak is fully stopped and the surface is dry.
+- You do not need to replace the shower screen or bathroom flooring today.
+- You do not need to decide on a permanent repair method while the situation is still being stabilized.
 
 ## Important reassurance
-Leaks around a bath/shower often look small at the surface but can travel under flooring and into ceilings quickly — stopping use and isolating supply is the right first move.
+Sudden water appearance can be startling, but stopping the source of the water is the most effective way to prevent further damage. Most bathroom leaks can be contained quickly once the water is turned off and the area is vacated.
 
 ## Scope note
-This is first steps only. Fixing the cause (failed seal, loose screen, blocked overflow, cracked tray, pipework leak) may need a plumber or bathroom fitter once the area is safe and stable.
+This guide provides first-step stabilization for an active leak. It does not cover the technical repair of plumbing, electrical systems, or structural drying, which require qualified professionals.
 
 ## Important note
-This is general information for urgent first steps, not professional plumbing or electrical advice. If you suspect water has reached wiring, fittings, or the consumer unit, keep people away from the area and use a qualified professional.
+This information is for emergency stabilization only. Water damage involving electrical systems or structural ceilings is dangerous. Always consult a qualified plumber or electrician for inspections and repairs.
 
 ## Additional Resources
-- https://www.watersafe.org.uk/advice/general_plumbing_advice/winter_advice/locate-internal-stop-tap/
-- https://www.thameswater.co.uk/help/water-and-waste-help/how-to-turn-your-water-on-and-off/how-to-find-and-use-your-outside-stop-valve
-- https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/
-- https://www.gov.uk/help-during-flood
-- https://england.shelter.org.uk/housing_advice/repairs/how_to_report_repairs_to_a_private_landlord
-- https://www.abi.org.uk/products-and-issues/choosing-the-right-insurance/home-insurance/burst-pipes-and-water-leaks/
+- https://www.aviva.co.uk/insurance/home-products/home-insurance/knowledge-centre/water-damage-protection/
+- https://www.axa.co.uk/home-insurance/tips-and-guides/how-to-protect-your-home-from-escape-of-water/
+- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/check-if-your-landlord-has-to-do-repairs/
+- https://www.gov.uk/private-renting/repairs
+- https://www.moneyhelper.org.uk/en/everyday-money/insurance/what-is-buildings-insurance

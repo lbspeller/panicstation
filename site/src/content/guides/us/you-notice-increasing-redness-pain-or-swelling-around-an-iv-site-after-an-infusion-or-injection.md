@@ -1,76 +1,97 @@
-﻿---
+---
 title: "What to do if… you notice increasing redness, pain or swelling around an IV site after an infusion or injection"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - iv site redness
-  - iv site swelling
-  - iv site pain after infusion
-  - sore iv insertion site
-  - phlebitis symptoms
-  - infiltration at iv site
-  - extravasation concern
-  - redness spreading from iv
-  - tender vein after iv
-  - arm swelling after iv
-  - red streaks from iv site
-  - iv site infection worry
-  - leaking from iv site
-  - pain near picc site
-  - port site redness
-  - injection site getting worse
-  - swelling after iv removal
-  - burning at iv site
-  - blistering near infusion site
-  - warmth at iv site
-last_reviewed: "2026-02-23"
+  - "iv site redness"
+  - "iv site swelling"
+  - "iv site pain after infusion"
+  - "sore iv insertion site"
+  - "phlebitis symptoms"
+  - "infiltration at iv site"
+  - "extravasation concern"
+  - "redness spreading from iv"
+  - "tender vein after iv"
+  - "arm swelling after iv"
+  - "red streaks from iv site"
+  - "iv site infection worry"
+  - "leaking from iv site"
+  - "pain near picc site"
+  - "port site redness"
+  - "injection site getting worse"
+  - "swelling after iv removal"
+  - "burning at iv site"
+  - "blistering near infusion site"
+  - "warmth at iv site"
+  - "what do i do if my iv site is red"
+  - "what do i do if my arm is swelling after iv"
+  - "what do i do if iv site hurts"
+  - "what do i do if redness is spreading from injection"
+  - "help i have a red streak from my iv"
+  - "help i have a lump after my infusion"
+  - "help my iv site is burning"
+  - "help my arm is numb after iv"
+  - "skin looks pale near iv"
+  - "skin feels cold near iv"
+  - "pus at iv site"
+  - "fever after iv infusion"
+  - "tender vein after needle removal"
+  - "hard cord feeling in vein"
+  - "tightness around iv site"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you notice increasing redness, pain or swelling around an IV site after an infusion or injection (USA)
 
 ## Short answer
-Call the clinic/infusion center that treated you (or your doctor’s on-call line) now and describe the worsening redness/pain/swelling; go to the ER sooner if symptoms are spreading or you feel sick.
+Contact the infusion center, clinic, or doctor who performed the procedure immediately to report the symptoms; go to the nearest Emergency Room if you experience fever, red streaks, or numbness.
 
 ## Do not do these things
-- Do not assume worsening redness/pain/swelling is “normal” and wait it out.
-- Do not massage or firmly rub the area.
-- Do not apply heat or ice unless your care team tells you to (management differs depending on what leaked and what medication was used).
-- Do not flush or use the IV/PICC/port if the site is painful, red, swollen, or leaking.
-- Do not try to drain fluid, pop blisters, or squeeze the site.
+- Do not apply any topical ointments, antibiotic creams, or lotions to the site.
+- Do not massage, rub, or apply firm pressure to the red or swollen area.
+- Do not apply heat or ice packs unless specifically directed by the treating clinician (different medications require different temperature responses).
+- Do not attempt to pop blisters, drain fluid, or squeeze the site.
+- Do not use the IV, PICC line, or port if you notice leakage, pain, or resistance.
 
 ## What to do now
-1. **If you’re still at the facility:** tell staff immediately so they can assess the site and, if needed, **stop the infusion and manage the IV**.
-2. **If you’re already home:** call the **infusion center/doctor who treated you** (use your discharge paperwork, patient portal, or after-hours number). Say: “My IV site is becoming more red/painful/swollen after an infusion/injection. I’m concerned about infection, phlebitis, or infiltration/extravasation.”
-3. **Decide if this is emergency-level right now:**
-   - **Call 911** for **breathing problems**, **severe chest pain**, **fainting/collapse**, **new confusion**, or other severe symptoms.
-   - **Go to the ER now** if you have **fever or chills**, **pus/drainage**, **rapidly spreading redness**, **red streaks**, **severe or escalating pain**, new **numbness/weakness**, **blistering**, or the skin looks **very tight, pale/blue, or unusually cold**.
-   - **Consider urgent care** only if symptoms are **mild, localized, and stable** (not spreading, no fever/chills, no blistering, no numbness/weakness) and you cannot quickly reach your treating team.
-4. **Do a quick “track it” check (helps clinicians):**
-   - Use a pen to **mark the outer edge of redness** and write the time.
-   - Take **one clear photo** and note whether pain is **at the puncture site** or **tracking along the vein**.
-5. **Protect the arm while you’re arranging care:**
-   - Rest and support the limb; remove rings/watches if there’s swelling.
-   - Keep any dressing clean/dry; don’t wrap anything tightly.
-6. **If you have a PICC/central line/port:** treat new **redness, swelling, warmth, pain, or discharge** at the site — or **fever/chills** — as “call your provider right away,” and use the ER if you can’t be promptly assessed.
+1. **Locate your discharge instructions or the facility contact number.**
+   - Call the specific unit where the infusion occurred or the "after-hours" line for that clinic.
+   - Tell them: "I had an infusion on [Date] and the site is now showing increased redness, pain, and swelling."
+2. **Elevate the affected limb immediately.**
+   - **Prop the arm or leg on pillows** so it remains above the level of your heart to encourage fluid drainage and reduce swelling.
+3. **Assess for emergency escalation triggers.**
+   - **Call 911** for difficulty breathing, chest pain, or feeling like you may faint.
+   - **Go to the Emergency Room (ER) immediately** if you notice:
+   - Red streaks extending away from the site.
+   - Blistering, skin peeling, or dark/blackening skin.
+   - Numbness, tingling, or a "pins and needles" sensation in the hand or foot.
+   - The skin feels unusually cold, looks very pale, or feels extremely tight.
+   - Fever (100.4°F / 38°C or higher) or shaking chills.
+   - Pus or foul-smelling drainage from the site.
+4. **Mark the area of redness to monitor progression.**
+   - **Use a pen to draw a circle** around the current outer edge of the redness.
+   - **Write the time and date** next to the line to show clinicians how quickly it is spreading.
+5. **Remove restrictive items from the limb.**
+   - **Take off rings, watches, or tight bracelets** on the affected arm, as swelling can quickly cut off circulation.
+6. **Take a clear photo of the site.**
+   - **Capture one high-quality image** with good lighting to show the doctor, especially if the appearance changes before you are seen.
 
 ## What can wait
-- You don’t need to figure out the exact cause (infection vs irritation vs a leak) before seeking care.
-- You don’t need to apply creams/ointments or try home “fixes” first.
-- You don’t need to decide about reporting/complaints today—prioritize evaluation and symptom safety.
+- You do not need to determine if the cause is "phlebitis" versus "infiltration" yourself.
+- You do not need to decide on filing a medical report or complaint during the acute phase.
+- You do not need to apply dressings or bandages beyond a simple clean, dry gauze if there is minor oozing.
 
 ## Important reassurance
-It’s understandable to feel alarmed when an IV site changes after you leave. Many IV-site problems are treatable, and calling promptly when symptoms are worsening helps prevent complications.
+It is common for the body to react to IV placement, and many localized symptoms can be managed effectively when caught early. Feeling hesitant to "bother" a doctor is a normal reaction, but clinicians prefer to assess IV sites early to prevent complications.
 
 ## Scope note
-This is first-step guidance for the first hours after noticing worsening redness/pain/swelling at an IV or injection site. Follow-up treatment must be directed by clinicians who can examine you and review what medication/fluids were used.
+This guide provides first-step stabilization for home-based users following an IV or injection. It is not a substitute for clinical assessment. Later treatment may involve antibiotics, antidotes, or specialized wound care depending on the substance infused.
 
 ## Important note
-This guide is general information, not medical advice or a diagnosis. If you feel significantly unwell, symptoms are rapidly worsening, or you’re unsure what level of care you need, seek urgent medical attention.
+This information is for educational purposes and does not constitute medical advice or a diagnosis. If symptoms are rapidly worsening or you feel significantly unwell, seek professional medical attention immediately.
 
 ## Additional Resources
 - https://medlineplus.gov/ency/patientinstructions/000496.htm
-- https://www.cdc.gov/clabsi/about/index.html
-- https://www.nyp.org/healthlibrary/multimedia/caring-for-your-iv-site
 - https://medlineplus.gov/ency/article/000199.htm
-- https://my.clevelandclinic.org/health/diseases/clabsi
-- https://www.mdanderson.org/content/dam/mdanderson/documents/for-physicians/algorithms/clinical-management/clin-management-extravasation-web-algorithm.pdf
+- https://www.mskcc.org/cancer-care/patient-education/care-suspected-actual-extravasation
+- https://www.mskcc.org/cancer-care/patient-education/about-your-peripherally-inserted-central-catheter-picc
+- https://www.mskcc.org/cancer-care/patient-education/instructions-after-your-apheresis-procedure

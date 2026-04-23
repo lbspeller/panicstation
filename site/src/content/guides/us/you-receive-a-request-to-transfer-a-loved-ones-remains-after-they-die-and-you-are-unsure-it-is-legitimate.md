@@ -1,83 +1,82 @@
-﻿---
+---
 title: "What to do if… you receive a request to transfer a loved one’s remains after they die and you are unsure it is legitimate"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - transfer remains request
-  - move the body request
-  - funeral home request sudden
-  - mortuary calling about remains
-  - unexpected funeral director contact
-  - someone says they have the body
-  - burial transit permit question
-  - transport across state lines
-  - repatriation request unsure
-  - ashes shipping request
-  - suspicious invoice after death
-  - bereavement scam concern
-  - is this legitimate call
-  - verify funeral home license
-  - next of kin authorization question
-  - pressure to pay for transport
-  - unknown firm contacting family
-  - medical examiner custody question
-last_reviewed: "2026-02-23"
+  - "transfer remains request"
+  - "move the remains request"
+  - "remains transfer legitimacy"
+  - "remains transport scam"
+  - "legitimate remains transfer"
+  - "verify remains custody"
+  - "authorize remains removal"
+  - "unverified remains request"
+  - "suspicious funeral home contact"
+  - "mortuary calling about remains"
+  - "help i received a call about a body"
+  - "my funeral home is asking for money"
+  - "what do i do if someone wants to move the body"
+  - "what do i do if i get a suspicious remains invoice"
+  - "what do i do if i dont know who has the body"
+  - "help i think a funeral home is a scam"
+  - "smell of chemicals from transport"
+  - "unexpected courier for remains"
+  - "pressure to pay for transport"
+  - "unknown firm contacting family"
+  - "medical examiner custody question"
+  - "burial transit permit"
+  - "consular mortuary certificate"
+  - "state funeral board lookup"
+  - "decedent affairs office contact"
+  - "transporting remains across state lines"
+  - "international remains repatriation"
+  - "scam funeral director license"
+  - "body transport permit question"
+  - "cremated remains shipping request"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you receive a request to transfer a loved one’s remains after they die and you are unsure it is legitimate (USA)
+
 ## Short answer
-Put the transfer on hold and verify independently by calling the facility that should have custody (hospital, medical examiner/coroner, or the funeral home you chose) using a trusted number you find yourself.
+Suspend the transfer immediately and verify the current location of the remains by calling the facility that should have custody (hospital, medical examiner, or your chosen funeral home) using an official number found on a government (.gov) or hospital (.org) website.
 
 ## Do not do these things
-- Do not authorize a removal/transfer or sign release forms until you confirm who currently has custody.
-- Do not pay by wire, gift card, cryptocurrency, or “urgent invoice” links — especially under time pressure.
-- Do not share Social Security numbers, passports, or copies of IDs with an unverified person or business.
-- Do not allow “a courier” to pick anything up from your home related to the death (documents, cash, valuables).
-- Do not trust caller ID, email addresses, or official-looking PDFs as proof of legitimacy.
+- Do not sign any "Authorization for Release" or "Removal Form" until you have physically or verbally confirmed with the current holding facility that a transfer is necessary.
+- Do not pay any transportation fees, "storage surcharges," or "expedited permits" using wire transfers, cryptocurrency, or digital payment apps.
+- Do not provide a Social Security number or date of birth to any caller claiming they need it to "process the death certificate" for transport.
+- Do not allow an unverified courier or driver to pick up personal effects, documents, or valuables from your residence.
+- Do not assume a caller is legitimate because they know the name of the deceased or the date of death, as this information is often available in public records.
 
 ## What to do now
-1. **Create a safe pause.** Say: “I’m not authorizing anything right now. I will call back through official contact information.” Then end the call/message.
-2. **Record the details.** Who contacted you, business name, phone/email, their claimed location, what they want moved (body vs. cremated remains), destination, cost, and any deadlines.
-3. **Confirm custody using a trusted route.**
-   - If the death occurred in a hospital or care facility: call the hospital main number from its official website and ask for decedent affairs/morgue.
-   - If a medical examiner/coroner is involved: call the county office through the county’s official website.
-   - If you already selected a funeral home: call **that** funeral home using the number you already know (not one provided by the caller).
-4. **Verify the funeral home is real and licensed (state-based).**
-   - Ask for the business’s **full legal name**, **physical address**, and **license number**.
-   - Check the license via your **state funeral board/licensing authority** (many states have an online lookup). If the lookup is confusing, call the state board using the phone number on its official site.
-   - If you can’t find the business in the state’s records, treat the request as unverified and stop.
-5. **Ask the custodian what is actually required for any transfer.**
-   - “Do you have any authorization on file from next of kin?”
-   - “Which funeral home is listed as the receiving funeral home, and who requested the transfer?”
-   - “What documents are required for transportation here (for example, a disposition/burial-transit permit), and who usually files them?”
-6. **If the request involves bringing remains into the U.S. from another country, slow down further.**
-   - Ask your chosen funeral home what they need from you, and consider contacting **U.S. consular officials** in the country where the death occurred.
-   - Do not proceed until you understand the required documents for entry (for example, death certificate and other paperwork that may be required depending on the situation).
-7. **If you already paid or shared personal information, limit harm immediately.**
-   - Contact your bank/card issuer using the number on your card/app and ask about stopping/reversing the payment.
-   - Change the password of the email account you used for death-related messages and turn on two-factor authentication.
-8. **Report the suspicious contact.**
-   - Report scams or suspicious business practices to the **Federal Trade Commission** (you can report even if you didn’t lose money).
-   - If you believe an active crime is happening (someone is attempting pickup right now, threats, etc.), contact local law enforcement.
+1. **End the current communication immediately to create a safe pause.** **Tell the caller or sender that you are not authorizing any movement at this time and will contact the primary facility yourself.**
+2. **Document every detail of the request for verification.** **Write down the name of the person who contacted you, the business name they provided, their physical address, and exactly where they claim the remains are being moved from and to.**
+3. **Contact the facility currently holding the remains using a trusted phone number.** **Locate the official website for the hospital, nursing home, or county medical examiner/coroner and call their main line to speak with the "Decedent Affairs" or "Morgue" department.**
+   - Ask: "Is [Name of Deceased] currently in your care?"
+   - Ask: "Has any firm requested a transfer or removal in the last 24 hours?"
+4. **Verify the licensing status of the firm requesting the transfer.** **Use your state’s professional licensing portal (usually found under the Secretary of State or Department of Health) to confirm the funeral home or transport service has an active license and a physical location.**
+   - If the business does not appear in state records or only provides a P.O. Box, do not proceed.
+5. **Verify the necessity of the transfer with your chosen funeral director.** **If you have already selected a funeral home, call them directly to ask if they initiated the transfer or if they recognize the firm that contacted you.**
+6. **Follow specialized protocols for deaths occurring outside the United States.** **Contact the U.S. Department of State’s Office of Overseas Citizens Services at 888-407-4747 (or 202-501-4444 from abroad) to verify the required documentation, such as the Consular Mortuary Certificate.**
+7. **Protect your financial and personal data if you have already engaged with a suspicious party.** **Contact your bank to freeze any pending transactions and update the security settings on your email and any online funeral planning portals you are using.**
+8. **Report the suspicious contact to federal and local authorities.** **Submit a report to the Federal Trade Commission (FTC) at ReportFraud.ftc.gov and notify your state’s Board of Funeral Service regarding the potential imposter.**
 
 ## What can wait
-- You do not need to decide final arrangements today in order to verify custody and legitimacy.
-- You do not need to respond to pressure, deadlines, or repeated calls — verifying through official channels comes first.
-- You do not need to send documents “just to get started.” Legitimate providers can wait while you confirm.
+- You do not need to sign contracts or pay for the final disposition (burial or cremation) while you are still verifying custody.
+- You do not need to choose a "receiving funeral home" immediately if the remains are securely held by a medical examiner or hospital morgue.
+- You do not need to respond to "urgent" windows of time (e.g., "the body must move in one hour") until you have confirmed the facility's actual policy.
 
 ## Important reassurance
-Pressure and urgency are common tactics in scams, and grief makes it harder to assess risk quickly. It is reasonable to pause, independently verify, and require clear proof before anything moves.
+Imposter scams frequently target the bereaved because they rely on the urgency and high emotional stress inherent in the first 48 hours after a death. Taking a pause to verify the location of remains is a standard, responsible procedure that legitimate funeral professionals will respect.
 
 ## Scope note
-This is first-steps-only guidance to prevent an irreversible mistake and help you confirm custody and legitimacy. Later steps (complaints, reimbursement, legal questions, interstate/international transport rules) may require local professional help.
+This guide provides first-step stabilization for identifying and stopping fraudulent remains transfer requests. It does not cover the legal complexities of probate, estate law, or the permanent transport of remains between jurisdictions.
 
 ## Important note
-This is general information, not legal advice. Requirements for permits, transport, and licensing vary by state and county. When in doubt, rely on the facility with custody and your state’s licensing board.
+Licensing requirements for funeral directors and transport services vary by state. This information is for general educational purposes and does not constitute legal advice. Always rely on official state licensing boards and verified law enforcement agencies for local regulatory guidance.
 
 ## Additional Resources
-- https://reportfraud.ftc.gov/
-- https://consumer.ftc.gov/features/how-avoid-imposter-scams
-- https://nfda.org/careers/licensing-requirements
-- https://theconferenceonline.org/look-up-a-license/
+- https://consumer.ftc.gov/articles/ftc-funeral-rule
+- https://consumer.ftc.gov/articles/funeral-costs-pricing-checklist
+- https://consumer.ftc.gov/consumer-alerts/2022/04/funeral-providers-must-give-accurate-information
 - https://www.cdc.gov/importation/human-remains/index.html
-- https://www.help.cbp.gov/s/article/Article-1404?language=en_US
+- https://nfda.org/resources/operations-management/shipping-remains

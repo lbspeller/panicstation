@@ -1,71 +1,84 @@
-﻿---
+---
 title: "What to do if… you notice a new groin bulge with increasing pain and nausea"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - new groin bulge
-  - painful groin lump
-  - groin swelling nausea
-  - groin bulge getting worse
-  - inguinal hernia concern
-  - suspected hernia emergency
-  - trapped hernia symptoms
-  - strangulated hernia signs
-  - incarcerated hernia worry
-  - vomiting with groin bulge
-  - sudden groin pain lump
-  - tender groin mass
-  - groin bulge won’t go away
-  - lower abdomen groin pain
-  - nausea and worsening pain
-  - bowel obstruction concern
-  - can’t pass gas with lump
-  - bulge turns red or purple
-  - fever with groin lump
-  - severe pain in groin
-last_reviewed: "2026-02-23"
+  - "new groin bulge"
+  - "painful groin lump"
+  - "groin swelling nausea"
+  - "groin bulge getting worse"
+  - "inguinal hernia concern"
+  - "suspected hernia emergency"
+  - "trapped hernia symptoms"
+  - "strangulated hernia signs"
+  - "incarcerated hernia worry"
+  - "vomiting with groin bulge"
+  - "sudden groin pain lump"
+  - "tender groin mass"
+  - "groin bulge won’t go away"
+  - "lower abdomen groin pain"
+  - "nausea and worsening pain"
+  - "bowel obstruction concern"
+  - "can’t pass gas with lump"
+  - "bulge turns red or purple"
+  - "fever with groin lump"
+  - "severe pain in groin"
+  - "help i have a groin lump and feel sick"
+  - "what do i do if my groin bulge is painful"
+  - "help i cannot push my hernia back in"
+  - "what do i do if my hernia is hard and red"
+  - "my groin lump is tender and i am vomiting"
+  - "strangulated hernia emergency uk"
+  - "incarcerated hernia emergency symptoms"
+  - "groin lump skin color change"
+  - "groin lump and constipation"
+  - "emergency signs of a hernia"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you notice a new groin bulge with increasing pain and nausea (UK)
+
 ## Short answer
-Treat this as urgent. With a new groin bulge plus increasing pain and nausea (especially if you’re vomiting or the bulge is hard/tender), go to A&E now or call 999 if you can’t get there safely.
+Seek emergency medical assessment immediately by calling 999 or 112, or attending your nearest A&E. A painful groin bulge accompanied by nausea or vomiting suggests a trapped or strangulated hernia, which is a surgical emergency.
 
 ## Do not do these things
-- Do not try to “push it back in” or massage the lump if it’s painful, hard, very tender, or you feel sick.
-- If you’re heading to A&E / being urgently assessed, avoid eating or drinking unless a clinician tells you to (if you need essential medication, take it with a small sip of water).
-- Do not take repeated doses of painkillers to try to “wait it out” instead of getting urgent help.
-- Do not drive yourself to hospital if you feel faint, are vomiting, or your pain is escalating.
+- Do not attempt to forcefully push, massage, or manipulate the lump if it is painful, tender, or hard.
+- Do not eat or drink anything (remain "nil by mouth") until you have been assessed by a clinician, as emergency surgery may be required.
+- Do not take painkillers to mask the pain in an attempt to delay seeking medical help.
+- Do not drive yourself to the hospital if you are vomiting, feeling faint, or experiencing severe pain.
 
 ## What to do now
-1. **Check for emergency signs (seconds): go to A&E now.** If you feel too unwell to travel safely, symptoms are rapidly worsening, you might faint, or you’re alone without safe transport, **call 999**:
-   - sudden or worsening/severe pain, **nausea or vomiting**
-   - the bulge is **firm/hard**, very tender, or **cannot be pushed back in**
-   - **difficulty pooing or passing wind**
-   - the skin over it turns **red/purple/dark**, or you develop a **fever** or feel seriously unwell
-2. **If you’re not sure it’s “A&E right now”, still get urgent help today:** call **NHS 111** and say clearly:  
-   “**New groin bulge**, pain getting worse, **nausea** (and whether you’ve vomited / can’t pass poo or wind).”  
-   Follow their direction (they may send you to A&E).
-3. **Get into the safest waiting position:** lie down on your back with knees slightly bent, loosen tight clothing, and keep movement minimal (this reduces strain and may reduce pain while you arrange urgent care).
-4. **Make the journey safer:** ask someone to take you if possible (or use 999 if you’re worsening). Bring a phone charger if it’s within reach.
-5. **Prepare the key info (2 minutes):** your medication list, allergies, major conditions, and any prior hernia or abdominal surgery. Note the **time symptoms started** and how quickly they’ve worsened.
-6. **If you live alone:** message/call someone to stay available and tell them where you’re going.
+1. **Call 999 or 112 immediately if you have emergency symptoms.** This is necessary if you experience:
+   - Severe, sudden, or rapidly escalating pain in the groin or abdomen.
+   - Persistent vomiting or severe nausea.
+   - A bulge that has become firm, hard, or extremely tender to the touch.
+   - Skin over the bulge that is turning red, purple, or dark.
+   - An inability to pass wind or move your bowels.
+2. **If symptoms are currently stable but the bulge is new and painful, call NHS 111.** Use this service if the pain is moderate and you are not vomiting, but you cannot push the bulge back in. Clearly state that you have a "painful, non-reducible groin bulge and nausea."
+3. **Adopt a position of rest while waiting for transport or help.** Lie flat on your back with your knees slightly bent; if it does not increase pain, placing a pillow under your hips to elevate them slightly may reduce pressure on the area.
+4. **Loosen all restrictive clothing around your waist and groin.** This prevents additional external pressure on the bulge and surrounding tissue.
+5. **Prepare a concise summary of your medical history for the paramedics or triage nurse.** Focus on:
+   - The exact time the pain and nausea started.
+   - Any history of previous hernias or abdominal surgeries.
+   - A list of all current medications and known allergies.
+6. **Notify a contact person of your location and situation.** If you are alone, call or message someone to let them know you are heading to the hospital and require them to stay reachable.
 
 ## What can wait
-- You do **not** need to decide whether it’s “definitely a hernia” right now.
-- You do **not** need to research home fixes, supports, trusses, or exercises.
-- You do **not** need to sort work/admin beyond a simple “medical emergency—going to hospital”.
+- You do not need to determine the specific type of hernia (inguinal vs. femoral) yourself.
+- You do not need to research long-term recovery, trusses, or surgical techniques.
+- You do not need to pack a bag for a long stay; prioritize immediate departure to the hospital.
 
 ## Important reassurance
-A new groin bulge with worsening pain and nausea can feel frightening because it may need urgent treatment. You’re not overreacting by getting assessed quickly—these are exactly the kinds of symptoms clinicians want checked promptly.
+It is normal to feel significant anxiety when a physical symptom escalates quickly. Getting an immediate assessment for these symptoms is the standard medical protocol and is the most effective way to prevent complications. Clinicians prioritize these signs because they require prompt professional intervention.
 
 ## Scope note
-These are first steps to reduce risk and get you into the right care quickly. Diagnosis and treatment decisions happen after an in-person assessment.
+This guide provides first-step stabilization and emergency escalation procedures only. It is not a substitute for clinical diagnosis or surgical assessment.
 
 ## Important note
-This is general information, not a diagnosis. If symptoms are escalating, you’re vomiting, the lump is firm/tender or discoloured, or you can’t pass poo/wind, seek emergency care immediately.
+A trapped (incarcerated) or strangulated hernia can lead to tissue death or bowel obstruction within hours. If you are in doubt about the severity, always default to emergency services.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/hernia/
-- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
-- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/
+- https://www.nhs.uk/tests-and-treatments/inguinal-hernia-repair/
+- https://www.nhs.uk/tests-and-treatments/femoral-hernia-repair/
 - https://www.england.nhs.uk/wp-content/uploads/2023/11/PRN00250-dst-making-a-decision-about-inguinal-hernia.pdf
+- https://leaflets.ekhuft.nhs.uk/hernia/html/

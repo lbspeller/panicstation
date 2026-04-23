@@ -1,75 +1,92 @@
-﻿---
+---
 title: "What to do if… a GFCI or RCD outlet keeps tripping and you can’t restore power safely"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - gfci keeps tripping
-  - rcd keeps tripping
-  - rcbo keeps tripping
-  - fuse box keeps tripping
-  - consumer unit keeps tripping
-  - socket keeps tripping
-  - power won’t stay on
-  - reset button won’t stay in
-  - outlet trips immediately
-  - trips when plugging in
-  - trips when turning on kettle
-  - trips after rain damp
-  - trips in bathroom kitchen
-  - sudden loss of power at sockets
-  - electrics keep cutting out
-  - earth leakage suspected
-  - can’t restore power safely
-  - tripping switch in fusebox
-  - rcd trips with nothing on
-last_reviewed: "2026-03-04"
+  - "rcd keeps tripping"
+  - "rcbo keeps tripping"
+  - "fuse box keeps tripping"
+  - "consumer unit keeps tripping"
+  - "socket keeps tripping"
+  - "power won’t stay on"
+  - "reset button won’t stay in"
+  - "outlet trips immediately"
+  - "trips when plugging in"
+  - "trips when turning on kettle"
+  - "trips after rain damp"
+  - "trips in bathroom kitchen"
+  - "sudden loss of power at sockets"
+  - "electrics keep cutting out"
+  - "earth leakage suspected"
+  - "can’t restore power safely"
+  - "tripping switch in fusebox"
+  - "rcd trips with nothing on"
+  - "what do i do if my rcd keeps tripping"
+  - "what do i do if the power keeps cutting out"
+  - "what do i do if my socket won't reset"
+  - "what do i do if the consumer unit trips"
+  - "help i have no power in my kitchen"
+  - "help i cannot reset my fuse board"
+  - "help my electrics are sparking"
+  - "help my lights and sockets are off"
+  - "smell of burning plastic at outlet"
+  - "buzzing sound from fuse box"
+  - "visible scorch marks on plug"
+  - "hot electrical socket"
+  - "rcd won't stay up"
+  - "circuit breaker won't reset"
+  - "nuisance tripping help"
+  - "faulty appliance tripping electrics"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a GFCI or RCD outlet keeps tripping and you can’t restore power safely (UK)
 
 ## Short answer
-Treat repeated RCD/RCBO tripping (or an RCD-protected socket that won’t reset) as a safety warning: stop trying to “force” it back on, isolate what you safely can, and get a registered electrician to investigate.
+Stop attempting to reset the RCD if it fails to hold; unplug all appliances on the affected circuit and contact a registered electrician to investigate a potential earth fault or wiring damage.
 
 ## Do not do these things
-- Don’t hold a reset button in, tape it down, or repeatedly “rapid-fire” reset it.
-- Don’t use the socket/circuit if there’s any burning smell, heat, buzzing/crackling, scorch marks, or visible damage.
-- Don’t handle plugs, switches, or the consumer unit if you’re wet, barefoot on a damp floor, or standing near water.
-- Don’t use extension leads/adaptors to “work around” the tripping outlet.
-- Don’t open the consumer unit, socket, or appliance casing, or touch exposed wiring.
-- Don’t ignore outdoor/damp-area sockets and lights (moisture is a common trigger).
+- Don’t force, tape, or hold the RCD/RCBO switch in the "ON" position.
+- Don’t attempt a reset if you see smoke, sparks, or scorch marks on any electrical component.
+- Don’t touch the consumer unit or any electrical devices if you are wet or standing on a damp floor.
+- Don’t use extension leads to bypass a faulty circuit by plugging into a different part of the house.
+- Don’t open the casing of the consumer unit or attempt to bypass the safety device.
+- Don’t ignore a tripping RCD even if it eventually stays on; it indicates a fault that requires inspection.
 
 ## What to do now
-1. **Make the area safer first.** If you see smoke, flames, or strong burning smells, **leave if needed and call 999**. If there’s water near the outlet (leak, flood, condensation), keep people/pets away and don’t touch anything electrical there.
-2. **Stop the “reset loop”.** If it trips again immediately (or won’t reset), stop trying for now. Repeated tripping usually means a real fault that needs checking.
-3. **Unplug and switch off what you can on that circuit.** Unplug everything you can safely reach that was in use when it tripped (especially heaters, kettles, washing machine, dishwasher, outdoor tools, dehumidifiers). Also switch off fused spurs/isolators you recognise (e.g., for boiler, immersion heater) **only if they’re clearly labelled and safe to reach**.
-4. **Try one careful reset attempt (only if conditions are dry and safe).**
-   - At the **consumer unit**, move the tripped RCD/RCBO fully to OFF, then back to ON.
-   - If it **won’t stay on even with things unplugged**, stop and move to step 6.
-5. **If it resets, identify the culprit without risk.** Turn things back on **one at a time**, waiting a moment between each. If it trips when a specific appliance is plugged in/turned on, **leave that appliance unplugged and out of use**.
-6. **Get the right help.**
-   - **Owner-occupier:** book a **registered electrician** to investigate (this may be wiring, moisture ingress, a failing device, or a faulty appliance).
-   - **Renting:** report it to your **landlord/letting agent** as an urgent electrical safety issue and ask for an electrician. If you have no safe power for essentials (heating, fridge, medical equipment), say so clearly.
-7. **If you’ve lost power widely, check whether it’s actually a power cut.** If neighbours also have no power, it may be an outage rather than your RCD.
-   - **England, Scotland, Wales:** call **105** (free) to reach your local electricity network operator.
-   - **Northern Ireland:** the power-cut number is **03457 643643**.
+1. **Identify immediate fire or shock hazards.** If there is active smoke, fire, or if someone has received an electric shock, **call 999 immediately**. Keep people and pets away from the area.
+2. **Stop the reset attempts.** If the RCD/RCBO trips immediately after being reset, **stop trying for at least 10 minutes** to allow any heat to dissipate and prevent damage to the mechanism.
+3. **Switch off all individual circuit breakers (MCBs).** Go to the consumer unit and **flip every small switch (MCB) protected by that RCD to the "OFF" (down) position**.
+4. **Unplug everything on the affected circuits.** Physically **remove every plug from every socket** in the rooms without power, including hidden appliances like dishwashers or washing machines.
+   - Switch off fused connection units (spurs) for boilers or heaters if safe to reach.
+5. **Reset the RCD/RCBO.** Move the RCD lever **fully to the "OFF" position first**, then flip it back up to "ON".
+   - If it still won't stay up with all MCBs off, the fault is likely the RCD itself or the internal wiring; stop and call an electrician.
+6. **Identify the faulty circuit.** Flip the MCBs back to "ON" **one at a time**. If a specific MCB causes the RCD to trip again, leave that specific MCB "OFF" and restore the others.
+7. **Find the faulty appliance.** If the RCD is now stable, plug your appliances back in **one by one**. If it trips when a specific device is connected, **leave that device unplugged and labelled as faulty**.
+8. **Contact a professional.**
+   - **Homeowners:** Call a **NICEIC, NAPIT, or SELECT (Scotland) registered electrician**.
+   - **Tenants:** Contact your **landlord or letting agent** immediately to report a Category 1 electrical hazard.
+9. **Verify if it is a local power cut.** If your neighbours are also without power, the issue is with the network.
+   - **England, Scotland, and Wales:** Call **105**.
+   - **Northern Ireland:** Call **03457 643643**.
 
 ## What can wait
-- You don’t need to decide what caused it right now.
-- You don’t need to replace the outlet/consumer unit parts yourself.
-- You don’t need to “test” appliances beyond unplugging/plugging back in one-by-one if the power is stable and conditions are dry.
-- You don’t need to run high-power appliances today—focus on keeping things safe and preventing repeat trips.
+- You don’t need to determine the technical cause (earth leakage vs. short circuit) yourself.
+- You don’t need to replace any sockets or consumer unit components today.
+- You don’t need to test every appliance if you have identified one clear culprit.
+- You don’t need to keep the power on to the affected circuit if it is not essential for safety.
 
 ## Important reassurance
-This is a common, scary-feeling problem because it cuts power suddenly, but an RCD/RCBO is designed to trip to reduce shock and fire risk. Pausing and isolating the issue is the safest move.
+An RCD is doing exactly what it was designed to do: protecting you from electric shock or fire by detecting a tiny leakage of current. Tripping is a successful safety intervention, not a failure of your home’s system.
 
 ## Scope note
-These are first steps to stabilise the situation and avoid dangerous mistakes. Finding the underlying fault (appliance vs wiring vs moisture vs protective device) usually needs proper testing by a competent electrician.
+This guide provides first-step stabilization for domestic RCD/RCBO tripping. It does not replace the need for professional testing (EICR) or repairs by a qualified electrician.
 
 ## Important note
-This is general safety information, not a professional diagnosis. If anything looks or smells like overheating, if there’s water involvement, or if you’re unsure, don’t touch it—get qualified help.
+Electrical faults can be intermittent and dangerous. If you smell burning, hear buzzing, or see moisture near electrics, isolate the power at the main switch and seek professional help immediately.
 
 ## Additional Resources
-- https://www.electricalsafetyfirst.org.uk/guidance/your-questions-answered/questions/if-my-rcd-keeps-tripping-what-action-is-required/
 - https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/rcds-explained/
-- https://www.energynetworks.org/customers/power-cut
-- https://prepare.campaign.gov.uk/be-informed-about-hazards/power-cuts/
+- https://www.electricalsafetyfirst.org.uk/guidance/your-questions-answered/questions/if-my-rcd-keeps-tripping-what-action-is-required/
+- https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/fuseboxes-explained/
+- https://www.electricalsafetyfirst.org.uk/find-an-electrician/
+- https://www.electricalsafetyfirst.org.uk/find-an-electrician/choosing-an-electrician/

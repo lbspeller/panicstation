@@ -1,74 +1,85 @@
-﻿---
+---
 title: "What to do if… you find a bat in your room after you were asleep and you are unsure about contact"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - bat in bedroom
-  - bat in room overnight
-  - woke up to a bat
-  - bat in house at night
-  - bat flying in bedroom
-  - bat found after sleeping
-  - unsure if bat touched me
-  - unsure if bitten by bat
-  - tiny bite you might not notice
-  - rabies worry
-  - bat scratch concern
-  - possible bat exposure
-  - bat near sleeping person
-  - woke with bat in room
-  - bat contact uncertainty
-  - found bat on waking
-  - bat in bedroom while asleep
-  - scared of rabies from bat
-last_reviewed: "2026-02-22"
+  - "bat found in bedroom"
+  - "bat in room while sleeping"
+  - "woke up with bat in room"
+  - "possible bat bite while asleep"
+  - "found a bat in my house"
+  - "help i found a bat in my room"
+  - "help i woke up with a bat"
+  - "what do i do if i find a bat"
+  - "what do i do if a bat is in my bedroom"
+  - "what do i do if i was asleep with a bat"
+  - "my room has a bat in it"
+  - "my child was in a room with a bat"
+  - "bat bite symptoms"
+  - "bat scratch marks"
+  - "unseen bat bite"
+  - "bat rabies risk"
+  - "rabies exposure from bat"
+  - "bat capture for testing"
+  - "bat contact uncertainty"
+  - "no visible bite from bat"
+  - "bat flying in house"
+  - "bat on wall"
+  - "bat found in morning"
+  - "sleeping near a bat"
+  - "small puncture marks"
+  - "tiny scratches on skin"
+  - "found bat in flat"
+  - "bat in apartment overnight"
+  - "bat in nursery"
+  - "bat in kids room"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you find a bat in your room after you were asleep and you are unsure about contact (USA)
+
 ## Short answer
-Treat this as urgent to assess today: if you woke up with a bat in the room and can’t confidently rule out a bite or scratch, contact your local health department (or a clinician/ER) right away, and avoid releasing the bat if it can be safely kept for guidance/testing.
+Contain the bat without touching it, do not release it, and contact your local health department immediately for a rabies risk assessment. Because bat bites can be invisible and painless during sleep, medical assessment is required even if no wound is found.
 
 ## Do not do these things
-- Do not touch the bat with bare hands.
-- Do not release the bat or throw it away before you’ve spoken to public health/animal control (if it can be safely kept available).
-- Do not delay because you “don’t see a bite” — bites/scratches can be tiny and hard to notice, especially after sleep.
-- Do not attempt risky DIY capture if you’re panicking, unsteady, or the bat is flying around you.
+- Do not release the bat outdoors or throw it away.
+- Do not touch the bat with bare hands or light gloves; use heavy leather work gloves if movement is necessary.
+- Do not damage or crush the bat's head, as the brain must be intact for rabies testing.
+- Do not assume you are safe because you cannot see a bite or scratch.
+- Do not wait until the next day to report the incident if the bat is already contained.
+- Do not freeze the bat if it is dead; keep it refrigerated only.
 
 ## What to do now
-1. **Create a safer pause.** Turn on lights, put on shoes, and move children and pets out of the room.
-2. **If the bat is still present, keep it contained (without touching it).**
-   - Close the bedroom door and place a towel at the bottom gap.
-   - Keep everyone out and keep pets away.
-3. **Contact the right local service for rabies guidance and (if needed) capture/testing.**
-   - Call your **local health department** or **animal control** and say: “I woke up with a bat in the room and can’t rule out contact. I need guidance on rabies exposure and what to do with the bat.”
-   - If they’re sending someone, keep the bat contained in that room until help arrives.
-4. **Get same-day medical advice about whether rabies post-exposure prophylaxis (PEP) is recommended.**
-   - Ask directly: “Because I was asleep, do you recommend starting PEP, and where should I go today?”
-   - Follow the direction you’re given (urgent care vs ER).
-5. **Quickly check and document possible contact (no deep inspection).**
-   - Look for small scratches/marks; photograph anything you find (good light, one close-up, one with a coin for scale).
-   - Note the time you found the bat, which room, and who else was asleep in that room (especially children).
-6. **If you have an obvious wound:** wash it with soap and running water, then seek urgent care as directed.
-7. **If the bat cannot be kept for guidance/testing:** still contact public health/medical care the same day and explain why it’s not available; your local recommendations may depend on whether rabies can be ruled out.
+1. **Move all people and pets out of the room immediately and close the door.** **The priority is preventing further potential exposure while keeping the bat located.**
+   - Place a rolled-up towel at the base of the door to prevent the bat from crawling through the gap.
+2. **Wash any area of suspected contact or visible wounds for 15 minutes with soap and water.** **Thoroughly cleaning the site immediately is the most effective way to reduce viral load before medical treatment begins.**
+3. **Wait for the bat to land before attempting to contain it.** **Do not try to catch or hit a flying bat, as this increases the risk of an accidental bite or damage to the bat's head.**
+4. **Safely contain the bat using a hard-sided container if you can do so without touching it.** **Wear heavy leather work gloves and place a plastic tub or box over the bat once it has landed on a flat surface.**
+   - Slide a stiff piece of cardboard under the container to trap the bat inside.
+   - Secure the cardboard to the container with tape.
+   - Puncture small air holes (no larger than 1/8 inch) in the lid or cardboard if the bat is alive.
+5. **Contact your local health department or animal control immediately.** **Identify yourself as someone who woke up in a room with a bat and need an exposure assessment and instructions for bat submission.**
+   - If it is after hours, follow the health department's recorded instructions or contact the nearest emergency room for guidance on whether to start Post-Exposure Prophylaxis (PEP) immediately.
+6. **Identify everyone who was in the room while the bat was present.** **Note if any individuals are children, intoxicated, or otherwise unable to confirm they were not touched by the bat.**
+7. **Keep the bat refrigerated but not frozen if it dies.** **Freezing can damage the brain tissue and make rabies testing impossible.**
 
 ## What can wait
-- You do **not** need to decide right now if you were “definitely bitten.” You need a same-day exposure assessment.
-- You do **not** need to research rabies statistics or read forums before calling public health.
-- You do **not** need to solve how the bat got into the home tonight.
+- You do not need to identify the species of the bat yourself.
+- You do not need to find the entry point in your home structure tonight.
+- You do not need to decide whether to start the full vaccine series until you have spoken with a public health official or doctor.
+- You do not need to photograph the bat unless instructed by authorities.
 
 ## Important reassurance
-This is a genuinely unsettling situation, and it’s normal to feel anxious and unsure. The safest, simplest approach is: keep people away, avoid bare-hand contact, keep the bat available if you can do so safely, and get prompt guidance from public health/medical care.
+Finding a bat in a sleeping area is a common reason for public health contact. Medical professionals and health departments have established protocols specifically for this scenario. Following these steps ensures that if an exposure occurred, it can be treated effectively before it becomes a health risk. Panic is a normal response to finding wildlife in the home, but the risk is manageable through these standard procedures.
 
 ## Scope note
-These are first steps only for the first hours: immediate safety, keeping options open for guidance/testing, and getting prompt assessment for possible rabies exposure. Home repairs and long-term prevention can come later.
+This guide covers first-step stabilization and exposure management only. It does not cover long-term bat-proofing, wildlife conservation laws, or the clinical administration of vaccines.
 
 ## Important note
-This is general information, not medical advice. Rabies is preventable with prompt assessment and appropriate treatment. If you woke up with a bat in your room and cannot confidently rule out a bite or scratch, contact your health department or seek urgent medical care right away.
+This information is for situational stabilization and is not a substitute for professional medical advice or a formal risk assessment by public health authorities. Rabies is a fatal but preventable disease if treated promptly after exposure. Always prioritize the instructions given by your local health department or a qualified healthcare provider.
 
 ## Additional Resources
 - https://www.cdc.gov/rabies/prevention/bats.html
-- https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6219a2.htm
-- https://www.health.state.mn.us/diseases/rabies/risk/humanbat.html
-- https://www.health.ny.gov/diseases/communicable/zoonoses/rabies/docs/nys_rabies_treatment_guidelines.pdf
-- https://www.nj.gov/health/cd/documents/rabies/batexposure.pdf
+- https://www.cdc.gov/rabies/hcp/clinical-overview/index.html
+- https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/rabies.html
+- https://www.dhs.wisconsin.gov/rabies/algorithm/batexposuredefined.htm
 - https://doh.wa.gov/sites/default/files/2023-02/420-461-BatsInBedrooms.pdf

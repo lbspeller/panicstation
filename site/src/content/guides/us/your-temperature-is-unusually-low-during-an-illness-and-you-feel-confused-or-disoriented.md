@@ -1,82 +1,88 @@
-﻿---
+---
 title: "What to do if… your temperature is unusually low during an illness and you feel confused or disoriented"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - low temperature illness
-  - unusually low temperature
-  - low body temperature adult
-  - hypothermia signs confusion
-  - confused and cold
-  - disoriented during illness
-  - temperature below normal sick
-  - 95f or below
-  - shivering confusion drowsy
-  - memory loss sick and cold
-  - thermometer reading too low
-  - older adult low temp confusion
-  - infection low temperature
-  - delirium with illness
-  - weak and confused cold
-  - slow breathing cold confusion
-  - indoor hypothermia
-  - low temp after flu
-  - low temp and dizziness
-last_reviewed: "2026-02-22"
+  - "low body temperature illness"
+  - "unusually low temperature"
+  - "low body temperature adult"
+  - "hypothermia signs confusion"
+  - "confused and cold"
+  - "disoriented during illness"
+  - "temperature below normal sick"
+  - "95f or below"
+  - "shivering confusion drowsy"
+  - "memory loss sick and cold"
+  - "thermometer reading too low"
+  - "older adult low temp confusion"
+  - "infection low temperature"
+  - "delirium with illness"
+  - "weak and confused cold"
+  - "slow breathing cold confusion"
+  - "indoor hypothermia"
+  - "low temp after flu"
+  - "low temp and dizziness"
+  - "what do i do if my temperature is 94"
+  - "what do i do if i feel cold and confused"
+  - "what do i do if body temp is low"
+  - "what do i do if shivering and confused"
+  - "help i am sick and cold and confused"
+  - "help i feel disoriented and cold"
+  - "help my temperature is below 95"
+  - "help my thermometer says 93 degrees"
+  - "cold skin confused"
+  - "slurred speech cold"
+  - "fumbling hands sick"
+  - "glassy stare cold"
+  - "pale skin low temp"
+  - "low temp and sleepiness"
+  - "low body temp symptoms"
+  - "low temperature in flat"
+  - "low temp at night"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… your temperature is unusually low during an illness and you feel confused or disoriented (USA)
+
 ## Short answer
-**Call 911 now** if you’re confused/disoriented and your temperature is unusually low (especially **below 95°F / 35°C**), and begin gentle warming while waiting for help.
+**Call 911 immediately** if you or someone else has a body temperature below 95°F (35°C) accompanied by confusion or disorientation. Begin gentle rewarming of the torso while waiting for emergency responders to arrive.
 
 ## Do not do these things
-- Do not try to “sleep it off,” drive yourself, or stay alone while confused.
-- Do not use rapid, high-heat rewarming (hot bath/shower, heating pad directly on skin, sitting right against a heater/fire).
-- Do not rub/massage arms or legs to “warm them up.”
-- Do not drink alcohol.
-- Do not keep taking more cold/flu meds without tracking what you already took (confusion increases overdose risk).
+- Do not try to "sleep it off" or wait to see if the confusion clears.
+- Do not drive yourself to the hospital; wait for professional transport.
+- Do not use rapid heat sources like hot baths, showers, heating lamps, or sitting directly against a fireplace.
+- Do not apply heating pads or hot water bottles directly to the skin.
+- Do not rub or massage the arms or legs, as this can force cold blood back to the heart and cause cardiac arrest.
+- Do not drink alcohol or smoke, as both interfere with the body's ability to regulate temperature and maintain circulation.
 
 ## What to do now
-1. **Call 911.**  
-   Say: “I’m sick, my temperature is low, and I’m confused/disoriented.”
-2. **Get someone with you immediately.**  
-   If you’re alone, call/text a nearby person to come over and stay with you (or stay on the phone with someone) until EMS arrives.
-3. **Move to a warmer room and start gentle warming.**  
-   - Put on dry layers and wrap in blankets.  
-   - If you’re damp from sweat or wet clothes, change into dry clothing if you can do it safely.
-4. **Warm the center of the body first (safe rewarming).**  
-   - Focus on the chest/torso (and if available, **neck and groin**) with warm, dry coverings.  
-   - If you use a hot water bottle or chemical heat pack, **wrap it in a towel first**.  
-   - Avoid warming arms/legs aggressively.
-5. **If you’re fully awake and can swallow normally, sip a warm non-alcoholic drink.**  
-   Don’t force fluids. Stop if you’re getting sleepier or you cough/choke.
-6. **If you can do it without delaying care, confirm the temperature once.**  
-   Use a digital thermometer per instructions and write down the number, time, and method (oral/ear/armpit). If it’s **below 95°F**, that supports treating it as an emergency.
-7. **Prepare quick information for EMS.**  
-   - When symptoms started (including confusion).  
-   - Temperature reading(s) and how measured.  
-   - Any conditions (especially diabetes, thyroid disease, heart disease).  
-   - Meds taken in the last 24 hours (include acetaminophen/ibuprofen and cold/flu meds).  
-   - Any recent exposure to cold/wet conditions, alcohol, or drugs.
-8. **While waiting: if the person becomes unresponsive and isn’t breathing normally, start CPR and follow the 911 dispatcher’s instructions.**
+1. **Call 911 immediately.** **State clearly that the person is ill, has an unusually low body temperature (hypothermia), and is exhibiting confusion or disorientation.**
+2. **Move to a warm, dry environment as gently as possible.** **Sudden or rough movements can trigger dangerous heart rhythms in a person with low core temperatures.**
+3. **Remove any wet or damp clothing.** **Replace them with dry, loose-fitting layers of blankets, coats, or clothing.**
+4. **Focus rewarming efforts on the center of the body first.** **Cover the chest, neck, and groin with warm, dry materials, ensuring the head is also covered while leaving the face exposed.**
+   - If using a chemical heat pack or hot water bottle, wrap it in a towel before application.
+   - Do not attempt to warm the arms or legs first.
+5. **Monitor breathing and responsiveness constantly.** **If the person becomes unresponsive and is not breathing normally, handle them very gently and begin CPR following the dispatcher's instructions.**
+6. **Offer small sips of a warm, sweet, non-alcoholic drink only if the person is fully alert.** **Do not give fluids if they are drowsy, confused, or having trouble swallowing.**
+7. **Confirm the temperature once if it does not delay emergency care.** **Use a digital thermometer and record the time and reading to provide to EMS upon arrival.**
+8. **Prepare a brief summary for the medical team.** **Include when the confusion started, any known medical conditions (like diabetes or thyroid issues), and a list of medications taken in the last 24 hours.**
 
 ## What can wait
-- You do **not** need to determine the cause before calling 911.
-- You do **not** need repeated temperature checks to “be sure.”
-- You do **not** need to decide whether it’s hypothermia vs. an infection complication vs. a medication effect—EMS/ER can assess safely.
+- You do not need to determine the underlying cause of the low temperature (such as infection or medication reaction) before seeking help.
+- You do not need to wait for shivering to start or stop to confirm the emergency.
+- You do not need to check the temperature multiple times if the first reading is below 95°F.
 
 ## Important reassurance
-Confusion/disorientation when you’re ill is a strong reason to get urgent medical help. Calling 911 for a low temperature with confusion is a reasonable, safety-first step.
+Confusion and disorientation are physical symptoms of your brain being affected by a low core temperature. It is normal to feel overwhelmed or find it difficult to make decisions in this state; this is why reaching out for help is the necessary first step.
 
 ## Scope note
-These are immediate first steps to reduce risk and get emergency evaluation. Further testing and treatment decisions belong to EMS and clinicians.
+This guide provides first-step stabilization for an acute medical emergency. It is not a substitute for professional diagnosis or clinical treatment.
 
 ## Important note
-This guide is general information for first steps in a medical scare, not medical advice or a diagnosis. If you feel confused/disoriented with an unusually low temperature, seek emergency medical care.
+A body temperature below 95°F (35°C) is a medical emergency known as hypothermia. These instructions are for immediate harm reduction while waiting for professional medical intervention.
 
 ## Additional Resources
 - https://www.cdc.gov/winter-weather/prevention/index.html
-- https://www.mayoclinic.org/first-aid/first-aid-hypothermia/basics/art-20056624
-- https://www.mayoclinic.org/diseases-conditions/hypothermia/symptoms-causes/syc-20352682
-- https://my.clevelandclinic.org/health/diseases/21164-hypothermia-low-body-temperature
-- https://health.mo.gov/living/healthcondiseases/hypothermia/
+- https://www.cdc.gov/winter-weather/safety/stay-safe-during-after-a-winter-storm-safety.html
+- https://medlineplus.gov/hypothermia.html
+- https://medlineplus.gov/ency/article/000666.htm
+- https://www.nia.nih.gov/health/safety/cold-weather-safety-older-adults

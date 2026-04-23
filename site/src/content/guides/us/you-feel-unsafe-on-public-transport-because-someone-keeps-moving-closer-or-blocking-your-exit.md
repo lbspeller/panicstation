@@ -1,90 +1,98 @@
-﻿---
+---
 title: "What to do if… you feel unsafe on public transport because someone keeps moving closer or blocking your exit"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - feel unsafe on public transit
-  - someone keeps moving closer
-  - someone blocking my exit
-  - passenger making me uncomfortable
-  - being followed on the subway
-  - being followed on the bus
-  - trapped on a train car
-  - blocked from leaving the train
-  - blocked from leaving the bus
-  - stranger too close on transit
-  - personal space invaded commute
-  - harassment on public transit
-  - intimidating rider near door
-  - can’t get off at my stop
-  - cornered on public transportation
-  - unsafe late night commute
-  - nervous on metro train
-  - someone shadowing my movements
-  - person positioning to trap me
-  - blocked from platform exit
-last_reviewed: "2026-01-10"
+  - "feel unsafe on public transport"
+  - "unsafe on public transit"
+  - "someone keeps moving closer"
+  - "someone blocking my exit"
+  - "passenger making me uncomfortable"
+  - "being followed on the subway"
+  - "being followed on the bus"
+  - "trapped on a train car"
+  - "blocked from leaving the train"
+  - "blocked from leaving the bus"
+  - "stranger too close on transit"
+  - "personal space invaded commute"
+  - "harassment on public transit"
+  - "intimidating rider near door"
+  - "can’t get off at my stop"
+  - "cornered on public transportation"
+  - "unsafe late night commute"
+  - "nervous on metro train"
+  - "someone shadowing my movements"
+  - "person positioning to trap me"
+  - "blocked from platform exit"
+  - "help i am being followed on the bus"
+  - "help i am trapped on the subway"
+  - "what do i do if someone is blocking my exit"
+  - "what do i do if a passenger is too close"
+  - "what do i do if i feel unsafe on the train"
+  - "what do i do if someone is following me on transit"
+  - "smell of alcohol on passenger"
+  - "loud aggressive shouting on train"
+  - "unwanted touching on transit"
+  - "staring and following on platform"
+  - "blocked doorway on bus"
+  - "crowded train exit blocked"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you feel unsafe on public transport because someone keeps moving closer or blocking your exit (USA)
 
 ## Short answer
-Create distance without confronting them and move to where other riders or an operator/employee can see you. If you feel in immediate danger or a crime is in progress, call 911 (and use the transit system’s emergency intercom/help point if available).
+Create immediate physical distance by moving to a busier area or toward the vehicle operator without escalating the conflict. Use the next stop to exit the vehicle if the behavior continues or if your exit path is threatened.
 
 ## Do not do these things
-- Don’t argue with them, accuse them, or try to physically “hold your ground”.
-- Don’t move to a quieter car/area if it isolates you.
-- Don’t force your way past someone deliberately blocking you if it could trigger a struggle.
-- Don’t follow them after you exit.
-- Don’t reveal personal details (where you’re getting off, where you live, your name) to calm them down.
-- Don’t assume you must stay on board until your planned stop if your safety instincts are firing.
+- Don't engage in an argument, make accusations, or attempt to physically push past the person unless it is necessary for immediate escape.
+- Don't move into empty cars or isolated areas of the station.
+- Don't wait until your planned stop to take action if the situation is escalating.
+- Don't reveal personal information, such as your destination or home address, in an attempt to de-escalate.
+- Don't ignore your observation of the behavior; move as soon as you notice the pattern.
 
 ## What to do now
-1. **Break the “closing distance” pattern without escalating.**  
-   Stand up, step away, and put a barrier between you (seat back, pole, your bag held in front). Move toward a cluster of riders. If possible, keep your back to a wall/partition so you can’t be boxed in from behind.
+1. **Change your physical position immediately to break the proximity pattern.**  
+   Stand up and move to a different part of the car or bus. Position yourself near a group of other passengers or in a well-lit area. If on a train, move toward the center car where a conductor is often located (indicated by a black and white striped board on the platform in some systems).
 
-2. **Move toward the operator or a high-visibility area.**  
-   - **Bus:** sit or stand near the driver (where the driver can see you).  
-   - **Train/subway/light rail:** move to a busier car, and position yourself near clearly marked emergency intercoms/help points if you see them. Avoid empty end-of-car areas.
+2. **Locate and move toward the operator or transit staff.**  
+   - **On a bus:** stand or sit as close to the driver as possible.  
+   - **On a train:** move toward the front car to be near the operator's cab or use the internal car doors to move to an adjacent, more populated car.
 
-3. **Use the next stop as your “reset” if you need it.**  
-   When doors open at the next busy stop/station, step off to create space. Then either:
-   - stay in a visible place near other people/employees/help points, or
-   - re-board a different car/door only if it’s clearly safe.  
-   You do not have to exit at your planned stop.
+3. **Identify the vehicle or car number for reporting.**  
+   **Look for the 3 to 5-digit number posted near the ceiling, end doors, or operator's cab.** This number is the most critical information for transit police or dispatchers to locate your exact position.
 
-4. **If they block your exit, choose the safest exit—not the “right” one.**  
-   Step sideways and switch to a different door/exit. If you can’t, exit with other riders so you’re not alone. If you believe you’re being physically prevented from leaving or violence is about to happen, treat it as an emergency.
+4. **Use the next available stop to exit and create a "safe pause".**  
+   **Step off the vehicle at the next station or bus stop, even if it is not your destination.** Once on the platform or sidewalk, stay in a visible area with other people. Do not re-board the same car or bus if the person also exits.
 
-5. **Use the fastest help channel for the situation.**  
-   - **Immediate danger / crime in progress:** call **911**.  
-   - If the system has an **emergency intercom/help point**, use it and/or alert an employee as soon as you can do so safely. Many transit agencies instruct riders to dial 911 for emergencies and also notify transit staff.
+5. **Utilize discreet reporting channels if calling 911 is unsafe.**  
+   **Use "Text for Safety" or the transit agency’s specific security app if available.** 
+   - Many systems (e.g., LA Metro, WMATA, MTA) have dedicated SMS numbers for reporting harassment or safety concerns without speaking aloud. 
+   - Use the on-board emergency intercom (usually a red button or pull handle) to speak directly to the operator if you are being physically blocked or threatened.
 
-6. **Make it harder to isolate you.**  
-   Call someone and speak out loud (“I’m on the train/bus now, I’m getting off at the next busy stop”). If you can, share live location. The goal is to be visibly connected to others without provoking the person.
+6. **Establish an external connection.**  
+   **Call a friend or family member and state your location and current vehicle number clearly.** If you cannot speak, send a live location pin to a trusted contact. This makes it visible to those around you that you are being monitored by someone outside the vehicle.
 
-7. **Once you’re safe, note the minimum details and report.**  
-   Write down the time, route/line, direction, stop/station, and any vehicle or car number you can see. Report through the transit agency’s safety reporting option (or customer service) so they can review cameras and deploy staff.
+7. **Alert transit personnel or security on the platform.**  
+   **Locate the "Help Point" or emergency intercom pylons on the station platform after exiting.** These connect directly to station managers or transit security who can monitor cameras and dispatch assistance.
 
 ## What can wait
-- You don’t need to decide right now whether to file a police report or make a formal complaint.
-- You don’t need to figure out their motive or “prove” intent before moving away.
-- You don’t need to post about it online or keep riding to avoid inconvenience.
-- You can decide later whether to adjust your route, ride with someone, or seek further support.
+- You do not need to decide whether to press charges or file a formal police report in this moment.
+- You do not need to confirm the person's intent or "wait for something to happen" before acting.
+- You do not need to worry about the inconvenience of a late arrival or a changed route.
+- You do not need to confront the person to tell them they are making you uncomfortable.
 
 ## Important reassurance
-Your reaction makes sense: when someone repeatedly closes distance or blocks your way out, it’s reasonable to treat that as a safety signal. You’re allowed to move, exit early, and ask for help based on your instincts—without waiting for it to become clearly violent.
+It is a normal and appropriate response to feel alert when your personal space is repeatedly invaded or your exit is restricted. Transit systems are public spaces where you have the right to move and exit freely. Taking early action to move away or exit is a standard safety practice and does not require a crime to have already occurred.
 
 ## Scope note
-This is first-steps-only guidance for the next few minutes. If this involved harassment, threats, stalking, or physical contact, you may want additional support and reporting options later—but you don’t have to decide that while you’re still shaken.
+This guide provides first-step stabilization for immediate safety on public transportation. It does not cover long-term legal remedies, civil litigation for harassment, or transit agency liability.
 
 ## Important note
-This guide provides general information for immediate safety steps, not legal advice. If you believe you or someone else is in danger, prioritise getting to a safer place and contacting emergency services.
+Emergency procedures vary by transit authority. In any life-threatening emergency or if a crime is in progress, dialing 911 is the primary recommended action. Always follow the specific instructions provided by transit operators or emergency personnel during an incident.
 
 ## Additional Resources
-- https://www.911.gov/
-- https://www.nena.org/?page=911GeneralInfo
-- https://www.mta.info/safety-and-security/emergency-preparedness
-- https://www.wmata.com/rider-guide/safety/safetyfaq.cfm
-- https://www.tsa.gov/sites/default/files/guidance-docs/securing_transportation_assets_operations_-_mitigation_strategies_for_highway_modes_0.pdf
-- https://www.riderta.com/transitpolice/safetytips
+- https://rainn.org/strategies-to-reduce-risk-increase-safety/safety-planning-for-survivors-of-assault-harassment-stalking/
+- https://rainn.org/help-and-healing/hotline/
+- https://victimconnect.org/get-help/
+- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/
+- https://www.thehotline.org/resources/stalking-safety-planning/

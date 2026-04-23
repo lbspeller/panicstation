@@ -1,79 +1,87 @@
-﻿---
+---
 title: "What to do if… a cash deposit is credited for less than the amount you handed over"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - cash deposit credited short
-  - cash deposit missing money
-  - bank credited less than deposit
-  - teller deposit wrong amount
-  - cash deposit discrepancy
-  - cash deposit receipt mismatch
-  - atm cash deposit short
-  - cash deposit machine error
-  - atm deposit credited wrong
-  - cash deposit dispute bank
-  - deposit amount incorrect
-  - deposit posted less money
-  - cash deposit not fully credited
-  - bank deposit shorted me
-  - missing cash after deposit
-  - branch deposit shortage
-  - deposit credited too low
-  - handed over cash missing
-last_reviewed: "2026-01-09"
+  - "what do i do if cash deposit is short"
+  - "what do i do if bank deposit is wrong"
+  - "what do i do if atm deposit missing money"
+  - "what do i do if teller deposit credited less"
+  - "help i deposited cash but the bank credited less"
+  - "help i deposited money but the amount is wrong"
+  - "help i have a deposit discrepancy"
+  - "help i am missing cash after deposit"
+  - "my cash deposit was credited for less than handed over"
+  - "my bank credited less than my cash deposit"
+  - "my atm deposit is short"
+  - "my receipt shows the wrong deposit amount"
+  - "cash deposit credited short"
+  - "cash deposit missing money"
+  - "bank credited less than deposit"
+  - "teller deposit wrong amount"
+  - "cash deposit discrepancy"
+  - "cash deposit receipt mismatch"
+  - "atm cash deposit short"
+  - "cash deposit machine error"
+  - "atm deposit credited wrong"
+  - "cash deposit dispute bank"
+  - "deposit amount incorrect"
+  - "deposit posted less money"
+  - "cash deposit not fully credited"
+  - "bank deposit shorted me"
+  - "missing cash after deposit"
+  - "branch deposit shortage"
+  - "deposit credited too low"
+  - "handed over cash missing"
+  - "deposit amount discrepancy"
+  - "shorted on cash deposit"
+  - "bank teller error cash deposit"
+  - "atm machine miscounted cash"
+  - "deposit error resolution"
+  - "Regulation E deposit dispute"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a cash deposit is credited for less than the amount you handed over (USA)
 
 ## Short answer
-Document it and report it right away: keep your deposit receipt, note the exact time/location, and contact your bank or credit union to open a deposit discrepancy case.
+Document the discrepancy and immediately contact your financial institution to open a formal deposit error case. Request a machine or drawer reconciliation and ask for a case reference number.
 
 ## Do not do these things
-- Don’t throw away the receipt, deposit envelope, or any ATM/cash-machine confirmation.
-- Don’t assume “it’ll fix itself” without at least opening a case and getting a reference number.
-- Don’t share account screenshots or personal details online while seeking help.
-- Don’t close the account or move everything to a new bank before the investigation is complete.
-- Don’t escalate with accusations—stick to facts so the institution can reconcile records quickly.
+- Don't discard the receipt, the deposit envelope, or any printed ATM confirmation.
+- Don't assume the bank will automatically find and fix the error without a formal report.
+- Don't share sensitive account numbers or transaction screenshots on social media.
+- Don't close the account or transfer all funds to another institution until the investigation concludes.
+- Don't attempt to physically inspect or "test" an ATM that you believe malfunctioned.
 
 ## What to do now
-1. **Capture the key facts (2 minutes).** Write down: amount you handed over, amount credited, date/time, branch/ATM location, and the transaction/reference number. Note who you spoke to.
-2. **Secure your evidence.** Photograph the receipt (front/back) and keep the original. If it shows an ATM/machine ID, keep that too.
-3. **Contact your bank or credit union using a trusted method.** Use the number on the back of your card, your banking app, or the institution’s official website. Ask them to **open a “deposit discrepancy”** (or “ATM deposit dispute”) and give you a **case/reference number**.
-4. **If the ATM isn’t owned by your bank/credit union, contact the ATM owner/operator too.** Keep your receipt and provide the same facts (time, location, amount, and what posted). (The ATM owner/operator may be different from your bank.)
-5. **If it was a teller/branch deposit, contact branch leadership promptly.** Ask the branch to review:
-   - the deposit transaction record (what was keyed/posted)
-   - the teller drawer balancing/reconciliation for that business day
-   Ask for a brief written summary (email or secure message) confirming the case was opened.
-6. **If it was an ATM or cash-accepting machine deposit, request a machine reconciliation.** Ask the institution to review the machine’s records (journal/log) and reconcile the machine cash against deposits. Keep checking your account in case a correction posts, but don’t close the case unless they confirm it’s resolved.
-7. **Follow up in writing the same day.** Send a secure in-app message (preferred) or a letter/email through the institution’s published dispute/complaints channel. Attach receipt photos and your timeline, and request reversal of any fees caused by the short credit (overdraft/returned payment fees).
-8. **Escalate if you’re being stalled or denied without a clear explanation.** Options depend on the institution:
-   - **CFPB** (broad consumer financial complaint route for many banks/credit unions)
-   - **OCC** (national banks and federal savings associations)
-   - **FDIC** (FDIC-supervised banks)
-   - **Federal Reserve** (complaints involving banks it supervises)
-   - **NCUA** (credit unions, typically after you’ve tried to resolve it with the credit union)
-   If you’re not sure who regulates your institution, starting with the **CFPB** is often the simplest.
+1. **Capture the specific details of the transaction immediately.** Write down the exact amount you handed over, the amount actually credited, the date, the time, and the specific branch or ATM location.
+2. **Secure all physical and digital evidence related to the deposit.** Take a clear photograph of the front and back of your receipt and save any digital confirmation sent to your banking app.
+3. **Contact your bank or credit union to report the error and open a "Notice of Error."** Use the official customer service number on the back of your card or the institution's verified app.
+   - Specifically ask to open a "deposit discrepancy" or "ATM error" case.
+   - Request the **case or reference number** for your records.
+4. **Request a machine or teller drawer reconciliation for that business day.** Ask the representative to have the specific ATM logs (journal) checked or the teller's cash drawer balanced against the day's transactions.
+5. **Ask for "provisional credit" if the investigation will take longer than 10 business days.** Under Federal Regulation E, banks may be required to temporarily credit the disputed amount to your account while they finish their investigation (which can take up to 45 or 90 days in some cases).
+6. **Submit a written follow-up through a secure channel.** Use the bank's internal secure messaging system or a certified letter to confirm the details you provided over the phone, including your receipt photos and the timeline.
+7. **Contact the third-party ATM owner if the machine is not operated by your bank.** If the ATM is in a convenience store or independent kiosk, look for the operator's contact sticker on the machine and report the error to them as well.
+8. **Request the reversal of any fees caused by the shorted deposit.** Ask for a waiver or refund of overdraft or returned payment fees that occurred because the full deposit amount was not available.
 
 ## What can wait
-- You don’t need to decide today whether to close your account or change banks.
-- You don’t need to “prove intent” or argue about blame—focus on opening a formal case and preserving evidence.
-- You don’t need to contact multiple agencies at once; start with the bank/credit union, then escalate if it isn’t resolved.
+- You do not need to decide today if you should switch banks or move your accounts.
+- You do not need to prove "theft" or intent; most discrepancies are resolved through routine balancing procedures.
+- You do not need to file a police report unless the bank's final investigation explicitly confirms criminal activity.
 
 ## Important reassurance
-These mismatches are usually handled through routine reconciliation: institutions compare posted transactions with cash counts and machine totals. Your receipt, accurate details, and a promptly opened case are what most often move it forward.
+Deposit discrepancies are often resolved through the bank’s daily "reconciliation" process, where they count the physical cash in a machine or drawer and compare it to the digital logs. If the machine or drawer is "over" by the exact amount you are missing, the correction is typically straightforward once a case is opened.
 
 ## Scope note
-These are first steps to stabilize the situation and trigger the institution’s investigation process. If the institution denies the claim, later steps may involve a formal complaint and additional documentation—but you don’t have to plan that now.
+This guide provides first-step stabilization for a financial discrepancy. It does not cover long-term legal strategies or the specifics of small claims court if a claim is ultimately denied.
 
 ## Important note
-This is general information, not legal or financial advice. Processes and timelines vary by institution and by deposit method (teller vs. ATM/cash machine). If you feel unsafe or believe a crime occurred, prioritize safety and consider contacting local law enforcement.
+This information is for general guidance and is not legal or financial advice. Banking procedures and timelines are governed by the Electronic Fund Transfer Act (Regulation E) and individual institution policies. If you believe your safety is at risk at an ATM location, leave the area immediately and contact local law enforcement.
 
 ## Additional Resources
-- https://www.consumerfinance.gov/ask-cfpb/what-do-i-do-if-the-atm-gave-me-the-wrong-amount-of-money-en-1085/
-- https://www.consumerfinance.gov/complaint/
-- https://www.helpwithmybank.gov/file-a-complaint/index-file-a-complaint.html
-- https://www.fdic.gov/consumer-resource-center/consumer-complaint-process
-- https://www.federalreserve.gov/faqs/credit_12666.htm
-- https://mycreditunion.gov/about/consumer-assistance-center/complaint-process
+- https://www.occ.gov/topics/consumers-and-communities/consumer-protection/depository-services/checking-accounts.html
 - https://www.usa.gov/bank-credit-complaints
+- https://www.fdic.gov/consumer-resource-center/consumer-complaint-process
+- https://www.consumerfinance.gov/complaint/
+- https://www.fdic.gov/consumer-resource-center/deposit-accounts

@@ -1,72 +1,83 @@
-﻿---
+---
 title: "What to do if… you learn your role is being advertised while you are still employed"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - my job is being advertised
-  - role advertised while employed
-  - employer posting my position
-  - job listing for my role
-  - replacement job advert
-  - vacancy for my current job
-  - my job posted online
-  - internal job advert my role
-  - external advert for my job
-  - worried about redundancy
-  - worried about dismissal
-  - being replaced at work
-  - job advertised behind my back
-  - role up for recruitment
-  - position listed while employed
-  - found my job on indeed
-  - found my role on linkedin
-  - role advertised same title
-last_reviewed: "2026-01-07"
+  - "mandatory training"
+  - "training deadline"
+  - "workplace training"
+  - "compliance deadline"
+  - "not scheduled for training"
+  - "imminent deadline"
+  - "help i missed my training deadline"
+  - "what do i do if training is due tomorrow"
+  - "my manager forgot to book training"
+  - "help i have no training access"
+  - "what do i do if lms is empty"
+  - "missing training module"
+  - "work deadline overdue"
+  - "overdue compliance"
+  - "no enrolment found"
+  - "training portal error"
+  - "disciplinary for training"
+  - "manager not scheduled training"
+  - "training record incorrect"
+  - "training extension request"
+  - "statutory training uk"
+  - "health and safety training"
+  - "gdpr training deadline"
+  - "fire safety training overdue"
+  - "workplace learning failure"
+  - "training attendance issue"
+  - "missed online training"
+  - "scheduled training missing"
+  - "mandatory course not assigned"
+  - "training deadline panic"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you learn your role is being advertised while you are still employed (UK)
+
 ## Short answer
-Pause, gather proof, and ask for a calm, private explanation from your manager (or HR) before you react. Do not resign or accuse anyone in writing while you’re still unsure what the advert means.
+Notify your line manager and the training administrator in writing immediately to report the scheduling error and request urgent access or a documented extension.
 
 ## Do not do these things
-- Do not quit “to get ahead of it” or threaten resignation.
-- Do not send an angry email/Slack message accusing anyone of replacing you.
-- Do not post about it on social media or warn colleagues in a way that escalates panic.
-- Do not download confidential files, client lists, or “evidence” from work systems.
-- Do not record meetings or calls unless you’ve checked the law and your employer’s policy.
-- Do not sign anything (settlement agreement, new contract, resignation letter) on the spot.
-- Do not assume the advert proves dismissal is happening — it can sometimes be for expansion, a restructure, or a similar-but-different role.
+- Do not ignore the deadline or assume the system will automatically correct itself.
+- Do not use a colleague's login credentials or share passwords to bypass access issues.
+- Do not ask someone else to complete the module or "click through" on your behalf.
+- Do not sign attestations or training records stating you have completed a course that you have not actually finished.
+- Do not continue high-risk duties (such as operating heavy machinery or handling sensitive data) if the missing training is a legal requirement for those tasks.
 
 ## What to do now
-1. **Capture the advert safely and neutrally.** If the advert is publicly accessible (for example on a job board), use a personal device to take screenshots showing the role title, duties, location, salary/grade (if shown), date, and the URL. If it’s only visible inside internal systems, **do not copy restricted content** — instead write down the key details (where you saw it, the reference number, date/time, and why it appears to match your role).
-2. **Check whether it’s actually your job.** Compare the advert to your contract, job description, grade, reporting line, and key responsibilities. Look for clues it’s a different role (fixed-term cover, different team, “new position”, different seniority).
-3. **Start a simple timeline log.** Write down: when you discovered it, any recent changes (KPIs, complaints, restructures), and anything said to you. Keep it factual (who/what/when) and store it outside work systems.
-4. **Gather your personal employment documents (without taking confidential company material).** Keep copies of documents you already legitimately have (for example your employment contract/statement of terms, recent payslips, written reviews, or warning letters). If your job description or policies are only available on internal systems, follow your employer’s policy (or ask HR/your manager) rather than forwarding or downloading confidential material.
-5. **Request a short, private meeting.** Ask your manager (and HR if your employer has HR): “I’ve seen an advert that appears to match my role. Can you explain what it relates to and whether my position is at risk?” Keep the tone neutral and curious.
-6. **After the meeting, confirm the basics in writing.** Send a brief email summarising what you understood: what the role is, whether it affects you, and what happens next (for example, consultation, role changes, timelines). This creates a clear record without being confrontational.
-7. **If they suggest redundancy, restructure, or dismissal, slow it down and ask process questions.** Ask what the proposed reason is, what consultation will happen, what selection pool/criteria would apply (if redundancy), and what your notice period is. Ask for anything offered to be put in writing.
-8. **If the explanation is evasive or you feel you’re being pushed out, use the formal route.** Consider raising a formal grievance (especially if informal discussion doesn’t resolve it). If you’re in a union, contact your rep early. You can also speak to Acas for impartial guidance on options and process.
-9. **Keep doing “normal work” while you clarify.** Keep communications professional, meet deadlines, and avoid emotional messages. The goal is to buy time and avoid this turning into a conduct issue while you’re trying to get clarity.
+1. **Verify the specific training requirement and the official deadline in your company records.** Check your Learning Management System (LMS) or employee portal for "Assigned" or "Required" learning paths, and search your inbox for the original notification.
+2. **Collect evidence of the scheduling or access failure.** Take timestamped screenshots of the error message, the empty training dashboard, or any "no sessions available" notifications.
+3. **Email your line manager immediately to flag the issue and request instructions.** Clearly state the course name, the approaching deadline, and the fact that you are not currently enrolled or unable to access the material.
+   - Attach your screenshots as proof of the technical or scheduling barrier.
+   - Explicitly ask if they want you to prioritise the training over other duties today.
+4. **Contact the department responsible for compliance or training administration.** This is typically Human Resources (HR), Learning & Development (L&D), or a specific Health & Safety officer.
+   - Use any internal ticketing system and mark the request as "Urgent: Compliance Deadline".
+5. **Request that the training be completed during your normal working hours.** Under the Working Time Regulations 1998, mandatory job-related training is generally considered "working time" and must be paid at your normal rate.
+6. **Identify if the training is "statutory" or "mandatory" to assess the risk of continuing work.** Statutory training (like fire safety or basic health and safety) is required by law; mandatory training is required by company policy.
+   - If statutory training has lapsed, ask your manager for a written confirmation of whether you should pause specific tasks until the training is complete.
+7. **Propose a specific plan for immediate completion if the module is self-paced.** Ask for a block of time in your calendar (e.g., "I can complete this between 10:00 and 11:00 today if access is restored") to show your readiness to comply.
+8. **Follow formal procedures if you are invited to a meeting regarding the missed deadline.** If the meeting is formal and could result in disciplinary action, you have a legal right under the Employment Relations Act 1999 to make a reasonable request to be accompanied by a colleague or a trade union representative.
 
 ## What can wait
-- You do not need to decide today whether to leave, look for a new job, or take legal action.
-- You do not need to confront colleagues or recruit support before you’ve spoken privately to your manager/HR.
-- You do not need to write a long statement, gather every historical email, or make a formal complaint immediately (unless you feel unsafe or are being pressured to sign something).
-- You do not need to accept any proposed changes on the spot — you can ask for time to read and consider.
+- You do not need to determine who was responsible for the scheduling error right now.
+- You do not need to file a formal grievance today unless your requests for access are being ignored or you are facing unfair treatment.
+- You do not need to rewrite your job description or contract to address training gaps in the immediate moment.
 
 ## Important reassurance
-Seeing your own role advertised can feel like a punch to the stomach — shock, anger, and racing thoughts are normal. Taking a short pause to document what you saw and get a clear explanation often prevents irreversible mistakes (like resigning in panic or sending a message you can’t take back).
+Administrative errors in training systems are frequent, especially during role changes or system updates. As long as you have flagged the issue in writing before the deadline, you have demonstrated a proactive attempt to comply with company policy.
 
 ## Scope note
-This is first-steps-only guidance to stabilise the situation, create a clean record, and get clarity. Later decisions (negotiation, grievance/tribunal steps) depend on details like your contract terms, length of service, and what reason your employer gives.
+This guide provides first-step stabilization for an imminent workplace deadline. It does not cover long-term career development or complex legal disputes regarding professional certifications.
 
 ## Important note
-This is general information, not legal advice. Employment situations turn on specific facts. If you feel pressured to resign or sign documents immediately, or you believe discrimination/retaliation is involved, get independent advice promptly (for example via your union, Acas, or an employment adviser).
+This information is for general guidance and does not constitute legal or professional advice. Employment rights can vary based on your specific contract and the nature of your industry. If you are facing disciplinary action, contact ACAS or your trade union representative for specific support.
 
 ## Additional Resources
-- https://www.gov.uk/dismiss-staff/fair-dismissals
-- https://www.gov.uk/redundancy-your-rights
-- https://www.gov.uk/raise-grievance-at-work
+- https://www.acas.org.uk/how-to-raise-a-problem-at-work
 - https://www.acas.org.uk/grievance-procedure-step-by-step
-- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures
-- https://www.acas.org.uk/dismissals/unfair-dismissal
+- https://www.citizensadvice.org.uk/work/dismissal/check-your-rights-if-youre-dismissed/check-if-your-dismissal-is-fair/
+- https://www.acas.org.uk/dismissals/constructive-dismissal
+- https://www.acas.org.uk/your-rights-during-redundancy/taking-another-job-with-your-employer

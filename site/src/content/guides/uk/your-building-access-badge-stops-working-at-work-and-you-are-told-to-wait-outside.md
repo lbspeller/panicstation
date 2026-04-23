@@ -1,89 +1,88 @@
-﻿---
+---
 title: "What to do if… your building access badge stops working at work and you are told to wait outside"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - work access badge stopped
-  - keycard not working at work
-  - access denied at office
-  - locked out of workplace building
-  - told to wait outside work
-  - security won’t let me in
-  - badge suddenly deactivated
-  - entry gate won’t open
-  - turnstile rejects my pass
-  - can’t get to my desk
-  - asked to leave the premises
-  - sent home unexpectedly from work
-  - worried i’m being suspended
-  - possible disciplinary situation
-  - manager not answering right now
-  - hr told me to wait outside
-  - temporary pass needed
-  - building pass won’t scan
-  - asked to attend a work meeting
-last_reviewed: "2026-01-08"
+  - "resignation not accepted"
+  - "employer refuses resignation"
+  - "boss says i cannot quit"
+  - "forced to stay at job"
+  - "notice period dispute"
+  - "employer demands longer notice"
+  - "resignation rejected uk"
+  - "quitting job blocked"
+  - "last working day argument"
+  - "leaving date disagreement"
+  - "resignation letter refused"
+  - "pressured to withdraw resignation"
+  - "can employer stop resignation"
+  - "work notice period confusion"
+  - "hr refusing resignation"
+  - "threatened over resignation"
+  - "gardening leave confusion"
+  - "breach of contract notice"
+  - "help i want to quit but they wont let me"
+  - "what do i do if my boss says i cant leave"
+  - "what do i do if they reject my resignation"
+  - "what do i do if my notice is wrong"
+  - "my manager refused my letter"
+  - "my employer says i must stay"
+  - "my boss is blocking my exit"
+  - "my resignation was ignored"
+  - "smell of workplace tension"
+  - "verbal threats about leaving"
+  - "withheld final pay threat"
+  - "locked out of work email"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your building access badge stops working at work and you are told to wait outside (UK)
 
 ## Short answer
-Comply with security, then get clear written instructions from your manager/HR about what you’re being directed to do today (and whether this is a formal suspension), and move to a safe, sheltered waiting spot where you stay reachable.
+Your employer cannot legally "reject" a valid resignation; it is a unilateral act that takes effect once communicated. You are required to provide the notice period specified in your contract or the statutory minimum of one week if you have worked there for at least one month.
 
 ## Do not do these things
-- Do not force entry, tailgate behind someone, or argue with security — that can turn a simple issue into misconduct.
-- Do not leave without clearly telling your manager/HR where you will be waiting and staying reachable — otherwise it can be recorded as unauthorised absence.
-- Do not hand over your phone unlocked, passwords, or personal accounts “to prove” anything.
-- Do not post about it on social media or message lots of colleagues speculating about what’s happening.
-- Do not sign anything on the spot if you feel shocked or unclear on what it means — ask to take a copy and respond after you’ve read it.
+- Do not engage in extended verbal arguments or emotional negotiations regarding your right to leave.
+- Do not verbally withdraw your resignation or agree to stay longer under immediate pressure.
+- Do not stop attending work before your notice period expires without written agreement, as this is a breach of contract.
+- Do not delete work files or withhold company property (laptops, keys, or IDs) as leverage.
+- Do not assume a resignation is "void" just because a manager refuses to sign or acknowledge a letter.
 
 ## What to do now
-1. **Get to a safer waiting position (still compliant).**  
-   If you’re outside in cold/rain or it feels unsafe, tell security (briefly and politely): “I’ll wait in reception / the lobby / the café next door and I’m reachable by phone.” Then do that.
-
-2. **Ask one simple question and write down the answer.**  
-   “Is my badge not working due to a technical issue, or have I been instructed not to enter?”  
-   Note the time, who told you, and their exact wording.
-
-3. **Ask security/reception to log the issue and who authorised the instruction.**  
-   Request a reference/ticket number if they have one, and the name/role of the person who asked them to keep you out.
-
-4. **Contact your line manager (then HR) with a short, factual message.**  
-   Include: you’re on site, your badge fails, you’ve been told to wait outside, where you are waiting, and you’re ready to work.  
-   Ask: **(a)** what you should do next, **(b)** whether you’re permitted to enter the building, and **(c)** whether you’re expected to remain available today.
-
-5. **Ask for instructions in writing (email/text is fine).**  
-   “Please confirm in writing what you want me to do today, and who my point of contact is.”
-
-6. **If you need essentials, ask for an escorted retrieval.**  
-   If your coat, medication, keys, wallet, or (work) laptop are inside, ask security/manager to escort you to collect essentials. Keep it brief; don’t start clearing your desk.
-
-7. **If someone starts asking questions about allegations or conduct, slow it down and label the meeting.**  
-   Ask: “Is this an investigation meeting, or a disciplinary hearing?”  
-   - If it’s an **investigation meeting**, there’s usually **no legal right** to be accompanied — but you can ask to bring a colleague or union rep, and ask for the invite/details in writing.  
-   - If it’s a **disciplinary hearing**, you can ask to use your **right to be accompanied** and request a reasonable rearrangement if needed.
-
-8. **If they say you’re suspended, clarify the basics immediately (and get it in writing).**  
-   Ask: start date/time, expected contact person, whether it’s with pay, what you must not do (for example, contacting colleagues/clients), and when you’ll next hear from them.
+1. **Identify your required notice period in your written contract of employment.** Look specifically for the "Notice" clause to find the number of weeks or months required.
+   - If you have no written contract and have worked there for one month or more, the statutory minimum is one week.
+   - If you have worked there for less than one month, no statutory notice is required unless a contract states otherwise.
+2. **Send a formal resignation notice in writing immediately to create a dated audit trail.** Use email to both your direct manager and the HR department, or use a tracked postal service.
+   - State clearly: "I am resigning from my position."
+   - State your notice period (e.g., "four weeks as per my contract").
+   - State your final working day explicitly (e.g., "My last day of employment will be Friday, 17 April 2026").
+3. **Save a copy of the sent resignation and any confirmation of receipt.** If sent via email, save a PDF or print the sent message; if delivered by hand, take a photo of the signed and dated letter.
+4. **Respond to any "rejection" with a single, written clarification of your position.** State that your resignation is a unilateral notification and that you will be leaving on the date previously specified.
+   - Ask: "Please identify the specific contractual clause you believe requires a notice period longer than [X] weeks."
+5. **Request written confirmation of your final pay and administrative exit details.** Ask HR to confirm:
+   - The balance of your accrued but untaken holiday pay.
+   - The date your final payslip and P45 will be issued (typically on or after the final payday).
+   - Any requirements for "garden leave" (where you are paid but told not to attend work).
+6. **Maintain a log of any threats or pressure applied after your resignation.** Note the date, time, participants, and specific words used if you are threatened with withheld pay, poor references, or legal action.
+7. **Contact the Acas helpline for independent verification of your rights.** Use their free service to clarify notice disputes or if the employer threatens to deduct money from your final salary.
 
 ## What can wait
-- You do not need to decide today whether to resign, make a formal complaint, or speak to a solicitor.
-- You do not need to “clear your name” in the moment or give a full statement while you’re shaken.
-- You do not need to contact lots of colleagues for theories or reassurance right now.
+- Negotiating a shorter notice period (you are only legally bound to the period in your contract).
+- Attending an exit interview or providing detailed reasons for your departure.
+- Returning company equipment (this usually happens on or just after your last working day).
+- Responding to counter-offers or "stay" bonuses.
 
 ## Important reassurance
-Being locked out can happen for mundane reasons (system errors, expired credentials, admin changes) and can also be used as a temporary control measure during an investigation. Either way, your safest move is the same: stay professional, get clear written instructions, and keep a simple record of what happened.
+It is common for employers to react with frustration or pressure when they face staffing gaps. A resignation is a legal notice that you are ending a contract; it does not require their permission or "acceptance" to be valid. Documentation is your primary protection against disputes.
 
 ## Scope note
-These are first steps to stabilise the situation and avoid accidental misconduct. Any next steps (disciplinary meetings, grievances, pay disputes, discrimination concerns) depend heavily on your contract, workplace policies, and what your employer confirms in writing.
+This guide covers first-step stabilization for standard employment resignations. It does not cover fixed-term contracts that lack "break clauses," senior executive "notice periods of 6+ months," or situations involving collective bargaining agreements.
 
 ## Important note
-This is general information, not legal advice. Workplace rules and your rights can vary by contract, policy, and the circumstances. If you are told you are suspended or face disciplinary action, consider getting independent advice (for example, from your union if you have one, or an employment adviser) once you’re calm and have the key facts in writing.
+This information is for general guidance and does not constitute legal advice. Employment law and contract interpretations can vary. If your employer threatens to sue for "damages" (costs of hiring a temp) or withholds your final salary, seek advice from a solicitor or a Citizens Advice employment specialist immediately.
 
 ## Additional Resources
-- https://www.gov.uk/disciplinary-procedures-and-action-at-work/suspension-from-work
+- https://www.acas.org.uk/suspension-during-an-investigation
+- https://www.acas.org.uk/suspension-during-an-investigation/pay-and-holiday
 - https://www.acas.org.uk/suspension-during-an-investigation/the-process-for-suspending-someone
-- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
-- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
-- https://www.legislation.gov.uk/ukpga/1999/26/section/10
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/dealing-with-disciplinary-action-and-dismissal-at-work/
+- https://www.acas.org.uk/how-to-raise-a-problem-at-work

@@ -1,85 +1,90 @@
-﻿---
+---
 title: "What to do if… part of your ceiling starts sagging after a leak"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - ceiling sagging after leak
-  - bulging ceiling
-  - ceiling bowing
-  - ceiling about to collapse
-  - water leak through ceiling
-  - water coming through ceiling
-  - ceiling stain spreading
-  - plasterboard ceiling wet
-  - damp ceiling after leak
-  - ceiling crack after leak
-  - bathroom leak ceiling below
-  - roof leak ceiling sagging
-  - pipe leak ceiling sag
-  - light fitting got wet
-  - leak near ceiling electrics
-  - upstairs leak downstairs ceiling
-  - ceiling dripping and sagging
-  - water pooling on ceiling
-  - sudden ceiling sagging
-  - ceiling feels soft
-last_reviewed: "2026-03-03"
+  - "ceiling sagging after leak"
+  - "bulging ceiling plasterboard"
+  - "ceiling bowing after water leak"
+  - "ceiling about to collapse"
+  - "water leak through ceiling"
+  - "water coming through ceiling"
+  - "ceiling stain spreading"
+  - "wet ceiling support"
+  - "damp ceiling after leak"
+  - "ceiling crack after leak"
+  - "bathroom leak ceiling below"
+  - "roof leak ceiling sagging"
+  - "pipe leak ceiling sag"
+  - "light fitting got wet"
+  - "leak near ceiling electrics"
+  - "upstairs leak downstairs ceiling"
+  - "ceiling dripping and sagging"
+  - "water pooling on ceiling"
+  - "sudden ceiling sagging"
+  - "ceiling feels soft"
+  - "help my ceiling is sagging"
+  - "help i have a leak in my ceiling"
+  - "what do i do if my ceiling bulges"
+  - "what do i do if my ceiling is wet"
+  - "ceiling bubble"
+  - "ceiling blister"
+  - "swollen ceiling"
+  - "cracked plasterboard"
+  - "sagging roof leak"
+  - "sagging pipe leak"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… part of your ceiling starts sagging after a leak (UK)
 
 ## Short answer
-Get everyone out of the affected room and keep it closed off. Stop the water source if you can, and avoid using electrics in the wet area until power is safely isolated and checked.
+Evacuate the affected room immediately and isolate the water source if it is safe to do so. Do not touch or enter the area under the sag, and keep all electrical circuits for that room switched off until they are professionally inspected.
 
 ## Do not do these things
-- Don’t stand under the sagging/bulging area “to check it” or take photos from directly below.
-- Don’t poke, cut, drill, or try to “release” the bulge (a wet ceiling can collapse suddenly and bring down plasterboard and trapped water).
-- Don’t switch lights on/off, use sockets, or touch fittings in the wet area if there’s any chance water has reached electrics.
-- Don’t touch the consumer unit, meter cupboard, or any electrical equipment if it looks wet, is in a damp cupboard, or you’d be reaching across/through water.
-- Don’t assume it’s “just cosmetic” if the sag is growing, cracking, or near a light fitting.
+- Don’t stand directly under the sag or bulge to inspect, photograph, or "test" its strength.
+- Don’t attempt to "drain" the bulge by poking or drilling holes, as wet plasterboard can collapse suddenly without warning.
+- Don’t switch lights or electrical appliances on or off in the affected room.
+- Don’t touch the consumer unit (fuse box) if there is any evidence of water nearby or if you are standing on a damp surface.
+- Don’t re-enter the room until a professional has confirmed the ceiling is structurally stable.
 
 ## What to do now
-1. **Create a safer pause.** Move people and pets out of the room. Close the door. Keep the room empty if the sagging area is large, getting worse, or making cracking noises.
-2. **Assess from the doorway only.** Note whether the bulge is:
-   - **Near a light fitting/smoke alarm**, or
-   - **Growing quickly**, or
-   - **Cracking/spreading**, or
-   - **Dripping steadily** (especially onto anything electrical).
-3. **Stop the water source if you can do it safely.**
-   - If it’s plumbing (e.g., bathroom/kitchen above): turn off the **stopcock** (main water supply), or the local isolation valve to the fixture/appliance if you can identify it.
-   - If it’s from a roof leak during rain: you may not be able to stop it immediately—prioritise safety and call a roofer.
-4. **Treat electrics as a priority hazard.** If water is near/around light fittings, sockets, switches, or you suspect water has tracked along cables, **do not use** anything electrical in that area.
-5. **Isolate electricity only if it’s clearly safe to do so.**
-   - If the consumer unit is **dry**, you are **not standing in water**, and you can reach it safely: switch off the circuit for the affected area (or the main switch if you can’t identify circuits).
-   - If anything around the consumer unit/meter area is wet or you’re unsure: **don’t touch it**. **Call 105** (electricity network emergency line) for advice/assistance, or contact a qualified electrician.
-6. **Contain drips without going under the bulge.** Put towels/buckets where water is dripping **at an edge** if possible, not centered under the sag. Keep walkways clear so you can leave quickly.
-7. **Report it urgently if you rent or it’s managed.**
-   - Contact your **landlord/letting agent/managing agent** immediately and describe it as: “active leak + ceiling sagging (collapse risk) + possible electrical hazard”.
-   - If you’re a council/housing association tenant, use their **emergency repairs** route.
-8. **Call the right urgent trade based on the cause.**
-   - **Plumbing leak:** emergency plumber.
-   - **Roof leak:** roofer/emergency roof repair.
-   - **Large sagging area / rapid change / loud cracking:** builder or surveyor/structural engineer for urgent assessment.
-9. **Document from a safe position.** Take a few photos/video from the doorway (date/time). Note what you turned off and when (water/electric).
-10. **Escalate to emergency services if it’s immediately dangerous.** Leave the property and call **999** if the ceiling is starting to collapse, you see/hear **sparking/arcing**, smell burning, or there’s any sign of electrical fire.
+1. **Evacuate the room and close the door.** Ensure all people and pets are out of the immediate area and prevent anyone from re-entering while the ceiling is still wet or sagging.
+2. **Locate and close the internal stopcock to stop the water.** If the leak is from a plumbing fixture (such as a bathroom or kitchen above), turn the valve clockwise to shut off the main water supply to the property.
+   - If the leak is from a specific appliance (like a washing machine), use the local isolation valve behind it if accessible.
+3. **Assess the hazard level from the doorway only.** Observe if the sagging area is:
+   - Within 1 metre of a light fitting, smoke alarm, or electrical socket.
+   - Making cracking, creaking, or "tearing" noises.
+   - Changing shape or spreading across the ceiling surface.
+4. **Isolate the electricity if the consumer unit is dry and accessible.** Switch off the specific circuit for the affected room (often labelled "Lights" or "Sockets") or use the main isolator switch if you are unsure which circuit is involved.
+   - If there is water on or near the consumer unit, do not touch it; call **105** immediately to speak with your local electricity network operator.
+5. **Report the emergency to your landlord or housing provider if you rent.** State clearly that there is an "active leak with a sagging ceiling and potential collapse / electrical hazard."
+   - Social housing tenants: Under 2026 regulations (Awaab’s Law), emergency hazards of this nature must be investigated within 24 hours of reporting.
+6. **Place a container to catch drips only if it can be done without standing under the sag.** Position a bucket or towels where water is dripping from an edge or a safe distance away from the bulge itself.
+7. **Contact an emergency tradesperson for immediate stabilization.** 
+   - For plumbing leaks: Call an emergency plumber.
+   - For roof leaks: Call an emergency roofer.
+   - For structural concerns: Call a builder or surveyor to assess the ceiling joists and plasterboard integrity.
+8. **Document the damage from a safe distance.** Take photographs or a short video from the doorway once the situation is stabilized, as this will be required for insurance or repair claims.
+9. **Call 999 if there is an immediate fire risk or total collapse.** If you see sparks / arcing, smell burning plastic, or if a large portion of the ceiling falls, evacuate the building and contact emergency services.
 
 ## What can wait
-- You do not need to decide today how the ceiling will be repaired or redecorated.
-- You don’t need to start drying with fans/dehumidifiers in the affected room until the leak is stopped and electrics are confirmed safe.
-- You don’t need to argue about liability right now—focus on making it safe and stopping further damage.
+- You do not need to clean up water or debris until the leak has been stopped and the ceiling is confirmed safe.
+- You do not need to decide on redecoration or long-term repairs today.
+- You do not need to provide a full inventory of damaged items for insurance purposes in the first hour.
+- You do not need to determine the exact cause of the leak if it requires entering the danger zone.
 
 ## Important reassurance
-A sagging ceiling after a leak is common and frightening. Keeping people out of the room and avoiding electrics in the wet area are the fastest ways to reduce risk while you get the right help.
+Ceiling sags caused by water are a high-priority home emergency, but the risk to life is effectively managed by creating distance. Most ceilings give sensory warnings (creaks or visible sagging) before failure; by leaving the room and turning off utilities, you have already taken the most critical steps to prevent injury.
 
 ## Scope note
-This is first steps only—making things safe and buying time. The next phase is professional assessment, drying, and repair to prevent hidden damp and recurring damage.
+This is first-step guidance only. A sagging ceiling indicates that the structural integrity of the plasterboard is compromised and it will likely require professional removal and replacement once the area is dry.
 
 ## Important note
-This is general information, not a substitute for qualified trades or emergency services advice. If you suspect electrical danger or structural collapse risk, prioritise getting to safety and contacting professionals.
+This guide is for emergency stabilization only and does not replace the advice of a qualified structural engineer, electrician, or plumber. If you are in a flat and the leak is from above, ensure the occupant upstairs is notified immediately to stop the water flow.
 
 ## Additional Resources
-- https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/
-- https://powercuts.nationalgrid.co.uk/power-cut-advice/safety-first
 - https://www.gov.uk/private-renting/repairs
 - https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/repairs-leak-from-a-neighbouring-property/
-- https://www.spenergynetworks.co.uk/pages/flooding_and_your_power_supply.aspx
+- https://england.shelter.org.uk/housing_advice/repairs/landlord_and_tenant_responsibilities_for_repairs
+- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/getting-your-landlord-to-do-repairs/asking-the-council-to-help-you-get-repairs-done/if-the-council-decide-your-landlord-has-to-do-repairs/
+- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/getting-your-landlord-to-do-repairs/getting-repairs-done-if-youre-renting-privately-ew/getting-repairs-done-if-youre-renting-privately/

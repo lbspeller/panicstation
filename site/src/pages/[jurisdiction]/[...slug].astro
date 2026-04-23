@@ -9,9 +9,10 @@ export async function getStaticPaths() {
   const guides = await getCollection("guides");
 
   return guides.map((entry) => {
-    const parts = entry.slug.split("/"); // e.g. ["us", "my-guide"]
-    const jurisdiction = parts[0]; // "us" | "uk"
+    const parts = entry.slug.split("/");
+    const jurisdiction = parts[0];
     const slugParts = parts.slice(1);
+
     return {
       params: { jurisdiction, slug: slugParts.join("/") },
       props: { entry },
@@ -22,9 +23,17 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 
-const urlJurisdiction = (Astro.params.jurisdiction || "us").toLowerCase(); // "uk" | "us"
+const urlJurisdiction = (Astro.params.jurisdiction || "us").toLowerCase();
 const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
-// (We’ll add the gentle prompt later if mismatch.)
+
+/*
+  Central switch for whether this guide is allowed to show ads.
+
+  This keeps the decision in one place and makes sensitive-category
+  exclusions straightforward.
+*/
+const adsAllowed =
+  entry.data.category !== "Sexual violence & highly sensitive situations";
 ---
 
 <SiteLayout title={`${entry.data.title} — PanicStation.org`} jurisdiction={urlJurisdiction}>
@@ -35,24 +44,20 @@ const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
     data-ps-fm-jurisdiction={fmJurisdiction}
     data-pagefind-body
   >
-    <!-- Pagefind filter (UK/US) -->
     <span data-pagefind-filter={`jurisdiction:${urlJurisdiction}`} class="ps-search-hidden">
       {urlJurisdiction}
     </span>
 
-    <!-- Pagefind filter (Category, full string from frontmatter) -->
     <span data-pagefind-filter={`category:${entry.data.category}`} class="ps-search-hidden">
       {entry.data.category}
     </span>
 
-    <!-- Boost tags: searchable + higher weight than body text -->
     <span data-pagefind-weight="2" class="ps-search-hidden">
       {(entry.data.tags || []).join(" • ")}
     </span>
 
     <Content />
 
-    <!-- Guide actions (bottom-right, under Additional resources) -->
     <div class="ps-guide-actions" aria-label="Guide actions">
       <a
         class="ps-action-btn ps-action-support"
@@ -70,10 +75,28 @@ const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
       </button>
     </div>
 
-    <script is:inline define:vars={{ enableAdsenseTest }}>
+    <script is:inline define:vars={{ enableAdsenseTest, adsAllowed }}>
       (() => {
         const ADSENSE_CLIENT = "ca-pub-6393180948620179";
         const MID_AD_SLOT_ID = "6400555379";
+        const LOWER_AD_SLOT_ID = "6321828040";
+
+        /*
+          PRE-APPROVAL / POST-APPROVAL SWITCH
+
+          LOCAL TEST MODE is controlled separately by:
+          PUBLIC_ENABLE_ADSENSE_TEST=1
+
+          Leave this true until PanicStation.org is approved in AdSense
+          if you also want production pages to keep using AdSense test ads.
+
+          Once the site is approved and you want production to request
+          real ads, change this to false.
+
+          This is intentionally separate from PUBLIC_ENABLE_ADSENSE_TEST
+          so local/dev behaviour stays explicit and safe to leave committed.
+        */
+        const PRODUCTION_USES_TEST_ADS = false;
 
         const shareBtn = document.getElementById("ps-share-btn");
         if (shareBtn) {
@@ -104,67 +127,150 @@ const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
           });
         }
 
-        const adSlot = document.getElementById("ps-mid-ad");
+        function createAdSlotAfterSection(sectionTitle, id, slotName) {
+          let slot = document.getElementById(id);
+          if (slot) return slot;
 
-        let midAdRenderStarted = false;
-        let midAdRenderFinished = false;
+          const section = document.querySelector(`section[data-ps-section="${sectionTitle}"]`);
+          if (!section) return null;
 
-        function collapseMidAd() {
-          if (!adSlot) return;
-          adSlot.hidden = true;
-          adSlot.setAttribute("aria-hidden", "true");
-          adSlot.innerHTML = "";
-          delete adSlot.dataset.psAdLoaded;
-          delete adSlot.dataset.psAdMode;
-          delete adSlot.dataset.psAdStatus;
+          slot = document.createElement("div");
+          slot.id = id;
+          slot.className = "ps-ad-slot ps-ad-slot-mid";
+          slot.hidden = true;
+          slot.setAttribute("aria-hidden", "true");
+          slot.setAttribute("data-ps-ad-slot", slotName);
+
+          section.insertAdjacentElement("afterend", slot);
+          return slot;
         }
 
-        function expandMidAd(html, mode = "custom") {
-          if (!adSlot) return;
-          adSlot.innerHTML = html;
-          adSlot.hidden = false;
-          adSlot.setAttribute("aria-hidden", "false");
-          adSlot.dataset.psAdLoaded = "1";
-          adSlot.dataset.psAdMode = mode;
+        function buildAdSlots() {
+          if (!adsAllowed) {
+            return {
+              mid: null,
+              lower: null,
+            };
+          }
+
+          return {
+            mid: createAdSlotAfterSection("Short answer", "ps-mid-ad", "mid"),
+            lower: createAdSlotAfterSection("Scope note", "ps-lower-ad", "lower"),
+          };
         }
 
-        function hasMidAdSlot() {
-          return !!adSlot;
+        const adSlots = buildAdSlots();
+
+        const adStates = {
+          mid: { started: false, finished: false },
+          lower: { started: false, finished: false },
+        };
+
+        function getAdQueue() {
+          window.adsbygoogle = window.adsbygoogle || [];
+          return window.adsbygoogle;
+        }
+
+        function getAdSlot(key) {
+          return adSlots[key] || null;
+        }
+
+        function hasAdSlot(key) {
+          return !!getAdSlot(key);
+        }
+
+        function collapseAd(key) {
+          const slot = getAdSlot(key);
+          if (!slot) return;
+
+          slot.hidden = true;
+          slot.setAttribute("aria-hidden", "true");
+          slot.innerHTML = "";
+
+          delete slot.dataset.psAdLoaded;
+          delete slot.dataset.psAdMode;
+          delete slot.dataset.psAdStatus;
+        }
+
+        function openAdFrameAndInsertMarkup(key, slotId, { testMode = false, requestMode = "personalized" } = {}) {
+          const slot = getAdSlot(key);
+          if (!slot) return null;
+
+          const adtestAttr = testMode ? `data-adtest="on"` : "";
+
+          slot.innerHTML = `
+            <div class="ps-ad-shell">
+              <div class="ps-ad-label" aria-hidden="true">Advertisement</div>
+              <ins
+                class="adsbygoogle"
+                style="display:block; text-align:center;"
+                data-ad-layout="in-article"
+                data-ad-format="fluid"
+                data-ad-client="${ADSENSE_CLIENT}"
+                data-ad-slot="${slotId}"
+                ${adtestAttr}
+              ></ins>
+            </div>
+          `;
+
+          slot.hidden = false;
+          slot.setAttribute("aria-hidden", "false");
+          slot.dataset.psAdMode = requestMode;
+
+          return slot.querySelector("ins.adsbygoogle");
         }
 
         window.PanicStationAds = {
-          collapseMidAd,
-          expandMidAd,
-          hasMidAdSlot,
+          collapseMidAd() {
+            collapseAd("mid");
+          },
+          hasMidAdSlot() {
+            return hasAdSlot("mid");
+          },
+          collapseLowerAd() {
+            collapseAd("lower");
+          },
+          hasLowerAdSlot() {
+            return hasAdSlot("lower");
+          },
         };
 
-        async function loadAdsenseScriptOnce() {
+        async function loadAdsenseScriptOnce({ pauseRequests = false } = {}) {
+          const queue = getAdQueue();
+
+          if (pauseRequests) {
+            queue.pauseAdRequests = 1;
+          }
+
           const selector = `script[src*="adsbygoogle.js?client=${ADSENSE_CLIENT}"]`;
           const existing = document.querySelector(selector);
 
           if (existing) {
             if (window.adsbygoogle) return true;
 
-            await new Promise((resolve, reject) => {
-              existing.addEventListener("load", () => resolve(), { once: true });
-              existing.addEventListener("error", () => reject(new Error("AdSense script failed")), { once: true });
-            }).catch(() => false);
+            try {
+              await new Promise((resolve, reject) => {
+                existing.addEventListener("load", resolve, { once: true });
+                existing.addEventListener("error", () => reject(new Error("AdSense script failed")), { once: true });
+              });
+            } catch {
+              return false;
+            }
 
             return !!window.adsbygoogle;
           }
 
-          const s = document.createElement("script");
-          s.async = true;
-          s.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`;
-          s.crossOrigin = "anonymous";
-          s.dataset.psAdsense = "1";
+          const script = document.createElement("script");
+          script.async = true;
+          script.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`;
+          script.crossOrigin = "anonymous";
 
           const loaded = new Promise((resolve, reject) => {
-            s.addEventListener("load", () => resolve(), { once: true });
-            s.addEventListener("error", () => reject(new Error("AdSense script failed")), { once: true });
+            script.addEventListener("load", resolve, { once: true });
+            script.addEventListener("error", () => reject(new Error("AdSense script failed")), { once: true });
           });
 
-          document.head.appendChild(s);
+          document.head.appendChild(script);
 
           try {
             await loaded;
@@ -174,60 +280,54 @@ const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
           }
         }
 
-        function markSlotStatusFromIns(ins) {
-          if (!adSlot || !ins) return;
+        function markSlotStatusFromIns(key, ins) {
+          const slot = getAdSlot(key);
+          if (!slot || !ins) return;
+
           const status = ins.getAttribute("data-ad-status");
-          if (status) adSlot.dataset.psAdStatus = status;
+          if (status) slot.dataset.psAdStatus = status;
         }
 
-        async function tryRenderMidAd({ testMode = false, allowScriptLoad = false } = {}) {
-          if (!adSlot) return;
-          if (midAdRenderStarted || midAdRenderFinished) return;
+        function applyAdRequestMode(requestMode) {
+          const queue = getAdQueue();
 
-          midAdRenderStarted = true;
+          if (requestMode === "non-personalized") {
+            queue.requestNonPersonalizedAds = 1;
+          } else {
+            queue.requestNonPersonalizedAds = 0;
+          }
 
-          const scriptReady = allowScriptLoad
-            ? await loadAdsenseScriptOnce()
-            : !!window.adsbygoogle;
+          queue.pauseAdRequests = 0;
+        }
 
+        async function tryRenderAd(key, slotId, { testMode = false, requestMode = "personalized" } = {}) {
+          const slot = getAdSlot(key);
+          const state = adStates[key];
+
+          if (!slot || !state) return;
+          if (state.started || state.finished) return;
+
+          state.started = true;
+
+          const scriptReady = await loadAdsenseScriptOnce();
           if (!scriptReady) {
-            midAdRenderStarted = false;
-            collapseMidAd();
+            state.started = false;
+            collapseAd(key);
             return;
           }
 
-          const adtestAttr = testMode ? `data-adtest="on"` : "";
-
-          expandMidAd(
-            `
-              <div class="ps-ad-shell">
-                <div class="ps-ad-label" aria-hidden="true">Advertisement</div>
-                <ins
-                  class="adsbygoogle"
-                  style="display:block; text-align:center;"
-                  data-ad-layout="in-article"
-                  data-ad-format="fluid"
-                  data-ad-client="${ADSENSE_CLIENT}"
-                  data-ad-slot="${MID_AD_SLOT_ID}"
-                  ${adtestAttr}
-                ></ins>
-              </div>
-            `,
-            testMode ? "adsense-test" : "adsense-live"
-          );
-
-          const ins = adSlot.querySelector("ins.adsbygoogle");
+          const ins = openAdFrameAndInsertMarkup(key, slotId, { testMode, requestMode });
           if (!ins) {
-            midAdRenderStarted = false;
-            collapseMidAd();
+            state.started = false;
+            collapseAd(key);
             return;
           }
 
           try {
-            (window.adsbygoogle = window.adsbygoogle || []).push({});
+            getAdQueue().push({});
           } catch {
-            midAdRenderStarted = false;
-            collapseMidAd();
+            state.started = false;
+            collapseAd(key);
             return;
           }
 
@@ -238,28 +338,28 @@ const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
           const timer = window.setInterval(() => {
             if (!document.body.contains(ins)) {
               window.clearInterval(timer);
-              midAdRenderStarted = false;
-              collapseMidAd();
+              state.started = false;
+              collapseAd(key);
               return;
             }
 
-            markSlotStatusFromIns(ins);
+            markSlotStatusFromIns(key, ins);
 
             const status = ins.getAttribute("data-ad-status");
 
             if (status === "filled") {
               window.clearInterval(timer);
-              midAdRenderFinished = true;
-              adSlot.hidden = false;
-              adSlot.setAttribute("aria-hidden", "false");
-              adSlot.dataset.psAdLoaded = "1";
+              state.finished = true;
+              slot.hidden = false;
+              slot.setAttribute("aria-hidden", "false");
+              slot.dataset.psAdLoaded = "1";
               return;
             }
 
             if (status === "unfilled") {
               window.clearInterval(timer);
-              midAdRenderStarted = false;
-              collapseMidAd();
+              state.started = false;
+              collapseAd(key);
               return;
             }
 
@@ -273,39 +373,196 @@ const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
                 ins.childElementCount > 0;
 
               if (initialized) {
-                midAdRenderFinished = true;
-                adSlot.hidden = false;
-                adSlot.setAttribute("aria-hidden", "false");
-                adSlot.dataset.psAdLoaded = "1";
+                state.finished = true;
+                slot.hidden = false;
+                slot.setAttribute("aria-hidden", "false");
+                slot.dataset.psAdLoaded = "1";
               } else {
-                midAdRenderStarted = false;
-                collapseMidAd();
+                state.started = false;
+                collapseAd(key);
               }
             }
           }, intervalMs);
         }
 
-        function tryRenderProductionMidAd() {
-          // PRE-APPROVAL ONLY:
-          // Keep testMode: true until panicstation.org is approved in AdSense.
-          // Once approved and you are ready to serve real ads, change testMode to false:
-          // tryRenderMidAd({ testMode: false, allowScriptLoad: false });
-          tryRenderMidAd({ testMode: true, allowScriptLoad: false });
-        }
+        function startLocalTestAds() {
+          if (!adsAllowed) return;
 
-        if (enableAdsenseTest && adSlot) {
-          window.setTimeout(() => {
-            tryRenderMidAd({ testMode: true, allowScriptLoad: true });
-          }, 300);
-        } else if (adSlot) {
-          window.addEventListener("ps:adsense-ready", tryRenderProductionMidAd);
+          if (hasAdSlot("mid")) {
+            tryRenderAd("mid", MID_AD_SLOT_ID, { testMode: true, requestMode: "personalized" });
+          }
 
-          if (window.adsbygoogle) {
-            window.setTimeout(() => {
-              tryRenderProductionMidAd();
-            }, 300);
+          if (hasAdSlot("lower")) {
+            tryRenderAd("lower", LOWER_AD_SLOT_ID, { testMode: true, requestMode: "personalized" });
           }
         }
+
+        function createBlockedDecision(reason) {
+          return {
+            allowAds: false,
+            requestMode: "blocked",
+            reason,
+          };
+        }
+
+        function deriveDecisionFromConsentModeValues(values) {
+          const statusEnum = window.googlefc?.ConsentModePurposeStatusEnum;
+          if (!values || !statusEnum) {
+            return createBlockedDecision("missing-consent-mode-values");
+          }
+
+          const {
+            UNKNOWN,
+            GRANTED,
+            DENIED,
+            NOT_APPLICABLE,
+          } = statusEnum;
+
+          const adStorage = values.adStoragePurposeConsentStatus;
+          const adUserData = values.adUserDataPurposeConsentStatus;
+          const adPersonalization = values.adPersonalizationPurposeConsentStatus;
+
+          const isGrantedOrNotApplicable = (value) =>
+            value === GRANTED || value === NOT_APPLICABLE;
+
+          if (
+            isGrantedOrNotApplicable(adStorage) &&
+            isGrantedOrNotApplicable(adUserData) &&
+            isGrantedOrNotApplicable(adPersonalization)
+          ) {
+            return {
+              allowAds: true,
+              requestMode: "personalized",
+              reason: "consent-or-not-applicable",
+            };
+          }
+
+          /*
+            Conservative non-personalised path:
+
+            - ad_storage must still be available
+            - if personalisation and/or ad user data are denied, request NPA
+            - if ad_storage itself is denied or unknown, do not request ads
+          */
+          if (
+            isGrantedOrNotApplicable(adStorage) &&
+            (adUserData === DENIED || adPersonalization === DENIED)
+          ) {
+            return {
+              allowAds: true,
+              requestMode: "non-personalized",
+              reason: "non-personalized-only",
+            };
+          }
+
+          if (adStorage === UNKNOWN || adUserData === UNKNOWN || adPersonalization === UNKNOWN) {
+            return createBlockedDecision("consent-still-unknown");
+          }
+
+          return createBlockedDecision("ads-not-permitted");
+        }
+
+        function waitForGoogleConsentDecision() {
+          return new Promise((resolve) => {
+            let settled = false;
+
+            const settle = (decision) => {
+              if (settled) return;
+              settled = true;
+              resolve(decision);
+            };
+
+            /*
+              Privacy & messaging uses the googlefc API. We only act once
+              CONSENT_MODE_DATA_READY fires, which means Google’s consent-mode
+              values are available for this user.
+
+              If that never arrives, fail closed in production.
+            */
+            window.googlefc = window.googlefc || {};
+            window.googlefc.usstatesoptout = window.googlefc.usstatesoptout || {};
+            window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+
+            const timeoutMs = 8000;
+            const timeoutId = window.setTimeout(() => {
+              settle(createBlockedDecision("googlefc-timeout"));
+            }, timeoutMs);
+
+            window.googlefc.callbackQueue.push({
+              CONSENT_MODE_DATA_READY: () => {
+                window.clearTimeout(timeoutId);
+
+                try {
+                  const values = window.googlefc.getGoogleConsentModeValues?.();
+                  settle(deriveDecisionFromConsentModeValues(values));
+                } catch {
+                  settle(createBlockedDecision("googlefc-read-failed"));
+                }
+              },
+            });
+          });
+        }
+
+        async function startProductionAdsWithGoogleConsent() {
+          if (!adsAllowed) return;
+
+          /*
+            Important order:
+
+            1) Load AdSense script in paused mode so Google Privacy & messaging
+               can run without any ad requests being sent yet.
+            2) Wait for Google consent data to become available.
+            3) Decide whether to request personalised ads, NPA, or no ads.
+            4) Only then open the visible ad frame and push each ad request.
+          */
+          const scriptReady = await loadAdsenseScriptOnce({ pauseRequests: true });
+          if (!scriptReady) {
+            collapseAd("mid");
+            collapseAd("lower");
+            return;
+          }
+
+          const decision = await waitForGoogleConsentDecision();
+
+          if (!decision.allowAds) {
+            collapseAd("mid");
+            collapseAd("lower");
+            return;
+          }
+
+          applyAdRequestMode(decision.requestMode);
+
+          const useTestAds = PRODUCTION_USES_TEST_ADS;
+
+          if (hasAdSlot("mid")) {
+            tryRenderAd("mid", MID_AD_SLOT_ID, {
+              testMode: useTestAds,
+              requestMode: decision.requestMode,
+            });
+          }
+
+          if (hasAdSlot("lower")) {
+            tryRenderAd("lower", LOWER_AD_SLOT_ID, {
+              testMode: useTestAds,
+              requestMode: decision.requestMode,
+            });
+          }
+        }
+
+        if (!adsAllowed) {
+          collapseAd("mid");
+          collapseAd("lower");
+          return;
+        }
+
+        window.setTimeout(() => {
+          if (enableAdsenseTest) {
+            startLocalTestAds();
+            return;
+          }
+
+          startProductionAdsWithGoogleConsent();
+        }, 300);
       })();
     </script>
   </div>

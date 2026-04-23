@@ -1,97 +1,103 @@
-﻿---
+---
 title: "What to do if… you get a notification that your card was added to a digital wallet you do not use"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - card added to wallet alert
-  - digital wallet notification
-  - apple pay card added
-  - google wallet card added
-  - google pay card added
-  - card added to unknown device
-  - unauthorized wallet token
-  - suspicious issuer alert
-  - possible card token fraud
-  - payment card compromised
-  - verification code scam
-  - one-time passcode theft
-  - wallet provisioning attempt
-  - debit card fraud alert
-  - credit card fraud alert
-  - identity theft first steps
-  - unexpected wallet verification
-  - card linked without permission
-  - issuer fraud department
-  - credit freeze
-last_reviewed: "2026-01-10"
+  - "card added to wallet alert"
+  - "digital wallet notification"
+  - "apple pay card added"
+  - "google wallet card added"
+  - "google pay card added"
+  - "card added to unknown device"
+  - "unauthorized wallet token"
+  - "suspicious issuer alert"
+  - "possible card token fraud"
+  - "payment card compromised"
+  - "verification code scam"
+  - "one-time passcode theft"
+  - "wallet provisioning attempt"
+  - "debit card fraud alert"
+  - "credit card fraud alert"
+  - "identity theft first steps"
+  - "unexpected wallet verification"
+  - "card linked without permission"
+  - "issuer fraud department"
+  - "credit freeze"
+  - "what do i do if my card was added to a wallet"
+  - "what do i do if apple pay alert"
+  - "what do i do if card added notification"
+  - "what do i do if unauthorized wallet add"
+  - "help i got a wallet notification"
+  - "help i did not add card to wallet"
+  - "help my card is in someone else wallet"
+  - "help my card was tokenized"
+  - "suspicious digital wallet text"
+  - "smishing bank alert card"
+  - "unauthorized samsung pay notification"
+  - "card added to wallet no code"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you get a notification that your card was added to a digital wallet you do not use (USA)
 
 ## Short answer
-Don’t approve anything. Lock the card and contact your card issuer’s fraud department using the number on the back of your card (not any number in the message).
+Lock your card immediately through your banking app and call the fraud department number on the physical back of your card to disable the digital token. Do not click links or call numbers provided in the notification.
 
 ## Do not do these things
-- Don’t click links in the notification/email/text — open your issuer app or type the website yourself.
-- Don’t call any phone number provided by the text/email/caller — use the number on the back of your card or the issuer’s official app.
-- Don’t share verification codes, one-time passcodes, or “approve” prompts with anyone (even if they claim to be your bank, Apple, Google, or law enforcement).
-- Don’t keep using the card “until you see charges” — wallet transactions can happen fast.
-- Don’t assume it’s harmless because the message only shows the last 4 digits.
+- Do not click links in the notification, email, or text.
+- Do not call any phone number provided within the message or by an incoming caller claiming to be your bank.
+- Do not share verification codes, one-time passcodes (OTP), or "approve" prompts with anyone.
+- Do not ignore the alert because it only shows the last four digits of your card.
+- Do not wait for unauthorized charges to appear before taking action.
 
 ## What to do now
-1. **Verify safely (without tapping the notification).**  
-   Open your issuer’s app/website and look for:
-   - a pending “add to wallet” approval request
-   - security alerts or connected wallets/devices (some issuers show this)  
-   If there’s an approval request and it wasn’t you: **decline**.
+1. **Lock or freeze the card immediately.**  
+   **Use your issuer's official mobile app or website to toggle the "Lock Card" or "Freeze" feature.** 
+   - This prevents new transactions while you contact the bank.
 
-2. **Lock/freeze the card immediately.**  
-   Use the app to lock/freeze. If you can’t, call the **number on the back of the card** and ask for the **fraud department**.
+2. **Call your card issuer using the number on the back of your card.**  
+   **Ask to speak with the fraud department and state that a digital wallet token was created without your authorization.**
+   - Request that they "de-provision" or remove all digital wallet tokens associated with the card.
+   - Ask for a replacement card with a new 16-digit number.
 
-3. **Ask the issuer to remove the wallet token and consider reissuing the card number.**  
-   Tell them: “I received a notification that my card was added to a digital wallet I don’t use.”  
-   Ask them to:
-   - **remove/disable any digital wallet token(s)** for that card
-   - **issue a new card number** (and new physical card) if they think the card details were compromised
-   - confirm whether any wallet verification occurred and how
+3. **Check for "active card check" or $0.00 authorizations.**  
+   **Review your pending transactions for small or zero-dollar amounts from "Apple," "Google," or unfamiliar merchants.**
+   - These are often test transactions used during the wallet provisioning process.
+   - Report any recognized fraud to the agent immediately.
 
-4. **Check your transactions and dispute anything unfamiliar right away.**  
-   Review recent and pending transactions in the issuer app. Report anything you don’t recognize through the issuer’s fraud/dispute process.
+4. **Secure the underlying digital account.**  
+   **If the alert specified a service like Apple Pay or Google Pay, change the password for that specific account and check for unknown devices.**
+   - Sign out of all unrecognized devices in your Apple ID or Google Account security settings.
+   - Ensure two-factor authentication (2FA) is active and that your recovery phone number/email has not been changed.
 
-5. **Secure the account that might have been used to add it.**  
-   If the alert mentions **Apple Pay/Apple Wallet** or **Google Wallet/Google Pay**:
-   - change your Apple/Google account password (in official settings)
-   - enable two-factor authentication
-   - review signed-in devices and sign out of anything you don’t recognize  
-   If the card appears in a wallet you control, **remove it**.
+5. **Place a credit freeze with the three major bureaus.**  
+   **Contact Equifax, Experian, and TransUnion to freeze your credit files for free.**
+   - This prevents identity thieves from opening new accounts in your name even if they have your personal data.
+   - You can do this online or by phone:
+     - Equifax: 888-298-0045
+     - Experian: 888-397-3742
+     - TransUnion: 888-909-8872
 
-6. **If you entered a code or approved a prompt, say that explicitly.**  
-   Tell the issuer you **shared a code / approved an add-to-wallet request** (if you did). Ask them to cancel wallet tokens and reissue the card.
-
-7. **If you suspect broader identity theft, take one official step now.**  
-   Use **IdentityTheft.gov** to start an identity theft report and recovery plan. If you think someone may try to open new credit in your name, consider a **credit freeze** with **Equifax, Experian, and TransUnion** (or place a **fraud alert**, which you can usually do by contacting just one bureau).
-
-8. **Make a quick record.**  
-   Write down the date/time of the notification, what it said (Apple/Google/Samsung), and what the issuer confirmed they did (card locked, token removed, new card issued).
+6. **Report the incident at IdentityTheft.gov.**  
+   **Complete a report with the Federal Trade Commission (FTC) to create an official record of the compromise.**
+   - This provides a pre-filled recovery plan and may be required if you need to dispute later fraudulent activity.
 
 ## What can wait
-- You don’t need to decide right now whether to close your bank account or replace your phone.
-- You don’t need to contact multiple agencies at once — locking the card and speaking to the issuer comes first.
-- You don’t need to file a police report unless your issuer or IdentityTheft.gov steps recommend it for your situation.
+- You do not need to close your entire bank account right now if only a specific card was compromised.
+- You do not need to file a local police report immediately unless your bank or the FTC specifically requires one for a dispute.
+- You do not need to replace your physical phone unless you have evidence the device itself was hacked (e.g., unexpected app installations or settings changes).
 
 ## Important reassurance
-This kind of alert is common in card-fraud and phishing situations. Locking the card and having the issuer remove any wallet token(s) usually stops the damage quickly, even if you don’t yet know how it happened.
+Notifications of unauthorized wallet additions are an early warning sign that your card data may have been leaked or phished. Taking immediate action to lock the card and kill the digital token (the "virtual" version of your card) is highly effective at stopping unauthorized spending before it begins.
 
 ## Scope note
-This is first steps only: stop the bleed, secure key accounts, and start an official identity-theft path only if you see signs it goes beyond this card.
+This guide covers first-step stabilization for a specific card-provisioning alert. It does not replace full identity theft recovery if your Social Security number or other sensitive data was also compromised.
 
 ## Important note
-This guide is general information, not legal or financial advice. If you’re unsure what’s real, use the safest path: call the number on the back of your card or use your issuer’s official app, and ask for their fraud department.
+This information is for procedural guidance and is not legal or financial advice. Always prioritize the security instructions provided by your card issuer's official fraud department.
 
 ## Additional Resources
-- https://www.occ.gov/topics/consumers-and-communities/consumer-protection/fraud-resources/credit-card-and-debit-card-fraud.html
-- https://www.identitytheft.gov/
-- https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts
-- https://consumer.ftc.gov/consumer-alerts/2024/03/whats-verification-code-why-would-someone-ask-me-it
-- https://payments.google.com/payments/unauthorizedtransactions
-- https://support.apple.com/en-us/101554
+- https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discover-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/
+- https://consumer.ftc.gov/sample-letter-disputing-credit-debit-card-charges
+- https://consumer.ftc.gov/consumer-alerts/2017/08/payments-you-didnt-authorize-could-be-scam
+- https://www.consumerfinance.gov/about-us/blog/helpful-tips-using-mobile-payment-services-and-avoiding-risky-mistakes/
+- https://support.apple.com/en-us/guide/iphone/iph3dd32dffe/ios

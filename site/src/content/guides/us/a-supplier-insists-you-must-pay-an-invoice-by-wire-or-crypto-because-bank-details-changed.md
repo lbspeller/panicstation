@@ -1,78 +1,92 @@
-﻿---
+---
 title: "What to do if… a supplier insists you must pay an invoice by wire or crypto because “bank details changed”"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - vendor bank details changed
-  - invoice bank change request
-  - pay by wire only demand
-  - pay by crypto demand
-  - urgent invoice payment pressure
-  - accounts payable fraud
-  - payment diversion scam
-  - business email compromise
-  - bec scam vendor
-  - vendor impersonation email
-  - spoofed invoice email
-  - payment instructions changed
-  - new bank account for vendor
-  - wire transfer recall
-  - crypto address on invoice
-  - fraudulent invoice concern
-  - vendor email hacked
-  - verify vendor payment details
-  - wire fraud prevention
-  - invoice payment scam
-last_reviewed: "2026-01-10"
+  - "vendor bank details changed"
+  - "invoice bank change request"
+  - "pay by wire only demand"
+  - "pay by crypto demand"
+  - "urgent invoice payment pressure"
+  - "accounts payable fraud"
+  - "payment diversion scam"
+  - "business email compromise"
+  - "bec scam vendor"
+  - "vendor impersonation email"
+  - "spoofed invoice email"
+  - "payment instructions changed"
+  - "new bank account for vendor"
+  - "wire transfer recall"
+  - "crypto address on invoice"
+  - "fraudulent invoice concern"
+  - "vendor email hacked"
+  - "verify vendor payment details"
+  - "wire fraud prevention"
+  - "invoice payment scam"
+  - "help i wired money to a scammer"
+  - "what do i do if an invoice looks fake"
+  - "what do i do if my supplier was hacked"
+  - "what do i do if bank details changed on invoice"
+  - "my vendor is asking for crypto"
+  - "help i sent a wire to the wrong bank"
+  - "smell of fraud in accounts payable"
+  - "sudden change in banking details"
+  - "urgent payment demand"
+  - "suspicious invoice formatting"
+  - "mismatched email domain"
+  - "wire recall request usa"
+  - "false pretenses ach fraud"
+  - "financial fraud kill chain"
+  - "swift recall protocol"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a supplier insists you must pay an invoice by wire or crypto because “bank details changed” (USA)
 
 ## Short answer
-Stop and verify the payment change using a trusted contact method you already had for the vendor (not the contact details in the email). If you already sent money, contact your financial institution immediately and report to IC3.
+Freeze the payment immediately and verify the request using a pre-existing, trusted contact method (not the details provided in the new request). If funds have already been sent, contact your bank's fraud department within minutes to initiate a SWIFT recall and report to the FBI IC3.
 
 ## Do not do these things
-- Do not wire funds or send crypto to “new details” just because you’re being threatened with late fees or service cut-off.
-- Do not “verify” using the phone number, link, or reply-to address in the message that requested the change.
-- Do not keep the conversation going in the same email thread as proof (a compromised account can look normal).
-- Do not approve a new payee, change ACH/wire templates, or bypass your normal approval rules to get it done faster.
-- Do not share login codes, MFA prompts, or banking authentication details with anyone who contacted you first.
-- Do not delete messages or payment screens—save them.
+- Do not use any phone numbers, links, or reply-to addresses contained within the email that requested the bank change.
+- Do not assume a message is safe because it is part of an existing email thread or includes correct past invoice numbers.
+- Do not bypass internal multi-person approval controls to meet a "threatened" deadline or avoid late fees.
+- Do not delete the suspicious email, headers, or any payment confirmation screens.
+- Do not send a "test payment" of a small amount to the new details to see if it works.
 
 ## What to do now
-1. **Freeze the payment internally.** Mark the invoice “hold—bank detail verification” and notify anyone who can release wires/ACH that payment is paused.
-2. **Verify the vendor using known-good contact info you already had.** Call a number from your vendor master record, contract, prior invoice on file, or a vendor portal you access independently. Avoid any contact details in the change request.
-3. **Ask verification questions that don’t rely on the suspicious message.** For example:
-   - “Did your bank details change and why?”
-   - “Please confirm invoice number, amount, and PO/reference without me prompting.”
-   - “Confirm a partial identifier of the prior payment destination we used (partial only).”
-4. **Treat “wire or crypto only” as suspicious unless it matches your contract and past behavior.** If you’ve always paid by check/ACH/card, don’t switch under pressure.
-5. **Compare against your records before you set up a new payee.** Match requested details to your vendor onboarding file and prior payments. If anything differs or the change isn’t documented/approved, keep the hold.
-6. **Require out-of-band confirmation + your normal change process.** Use a call-back to a known number, a second-person approval, and your standard vendor-change documentation before any new payment details are used.
-7. **If you suspect compromise, limit spread fast.** Alert IT/security to check for mailbox compromise (unexpected forwarding rules, lookalike domains, unusual login alerts) and to warn anyone else who might pay that vendor.
-8. **If you already sent a wire or ACH: act immediately.**
-   - **Call your bank right away** and ask them to **attempt recovery** and to **contact the receiving financial institution immediately**. For wires, ask about a wire recall request (not guaranteed). For ACH, ask whether a stop/return is still possible based on status and timing.
-   - Write down your bank case number and the exact time you called.
-9. **If you already sent crypto:** contact the exchange/platform you used immediately and report suspected fraud; save the transaction hash and destination address. Crypto transfers are typically hard to reverse.
-10. **Report it.** File a complaint with the **FBI’s Internet Crime Complaint Center (IC3)** and keep the reference details for your bank, insurer, and internal records.
-11. **Preserve evidence.** Save the invoice, the bank-change request, attachments, sender addresses/domains, payment instructions, and screenshots of the payment confirmation pages (without exposing passwords).
+1. **Place an immediate internal hold on the vendor account and all pending invoices.** Notify the accounts payable team and treasury that no funds are to be released to this vendor until identity is confirmed.
+2. **Call the vendor using a "known-good" phone number from your original contract or vendor master file.** Speak directly with a verified contact person to confirm if a bank change was actually authorized by their company.
+3. **Check the sender's email address for subtle domain "look-alike" variations.** Inspect the headers for "Reply-To" addresses that differ from the "From" address or domains that substitute characters (e.g., "rn" for "m").
+4. **Initiate an immediate SWIFT recall request if a wire transfer has already been sent.** Call your bank’s commercial fraud or wire department and explicitly ask for a "recall of funds due to fraud."
+   - Provide the wire's Federal Reference Number or IMAD/OMAD numbers.
+   - Request that they contact the receiving bank to place a "fraud freeze" on the recipient account.
+5. **Contact your bank to stop any pending ACH Credit-Push or Same-Day ACH transfers.** Inform them the payment was initiated under "False Pretenses" to trigger 2026 Nacha-mandated fraud monitoring protocols.
+6. **Report the incident to the FBI Internet Crime Complaint Center (IC3) at ic3.gov immediately.** 
+   - If the wire is over $50,000, emphasize the need for the "Financial Fraud Kill Chain" (FFKC) to assist in bank-to-bank recovery.
+   - Include the transaction hash and destination address if cryptocurrency was used.
+7. **Notify your IT or Security department to check for internal mailbox compromise.** 
+   - Scan for hidden "inbox rules" or "forwarding rules" that may be moving vendor emails to a "Deleted Items" or "RSS Feeds" folder.
+   - Force a password reset and enable Multi-Factor Authentication (MFA) for all users involved in the payment chain.
+8. **Preserve all original emails, including full technical headers, and take screenshots of the fraudulent invoice.** Save these as evidence for law enforcement and potential insurance claims.
+9. **Notify the platform or exchange immediately if the payment was sent via cryptocurrency.** Request an emergency freeze on the destination address, though be aware that crypto transfers are usually irreversible without law enforcement intervention.
 
 ## What can wait
-- Debating whether the vendor is “at fault” or renegotiating terms—first prevent or contain loss.
-- Sending formal demand letters or starting legal action.
-- Perfecting internal policy changes; for now, use your existing approval process plus the temporary hold/verification step.
+- Notifying the vendor that their own system might be compromised (do this only after your own payment is secured).
+- Reviewing or updating your internal Vendor Onboarding Policy.
+- Filing a claim with your cyber-liability insurance provider.
+- Determining which party's email was originally hacked.
 
 ## Important reassurance
-This type of vendor-payment diversion is common and can fool careful people, especially when messages look legitimate and urgent. Pausing to verify is an expected control, not an overreaction.
+Payment redirection and Business Email Compromise (BEC) are extremely sophisticated in 2026, often utilizing AI-generated text to mimic a vendor's exact tone. Pausing a payment to perform out-of-band verification is a standard, professional business control and is never an overreaction.
 
 ## Scope note
-This covers immediate first steps to prevent an irreversible transfer and to trigger rapid recovery/reporting. Longer-term steps (insurance, legal options, vendor management, security hardening) come after the urgent phase.
+This guide provides first-step stabilization for a suspected or active payment diversion attempt. It does not cover long-term forensic investigation, legal liability disputes between parties, or technical remediation of a breached network.
 
 ## Important note
-This is general information, not legal, financial, or cybersecurity advice. Bank procedures and recovery options vary and are not guaranteed. Using trusted contact routes and contacting your financial institution immediately are often the safest first moves.
+This information is for situational stabilization and does not constitute legal, financial, or cybersecurity advice. Banking recovery windows are extremely short, often closing within hours of a transfer. Always follow your institution's specific emergency protocols.
 
 ## Additional Resources
 - https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise
-- https://www.ic3.gov/CrimeInfo/BEC
-- https://www.ic3.gov/
-- https://www.fincen.gov/resources/advisories/fincen-advisory-fin-2016-a003
+- https://www.ic3.gov/PSA/2023/psa230609
+- https://www.ic3.gov/PSA/2018/PSA180611
+- https://consumer.ftc.gov/articles/what-do-if-you-were-scammed
+- https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams

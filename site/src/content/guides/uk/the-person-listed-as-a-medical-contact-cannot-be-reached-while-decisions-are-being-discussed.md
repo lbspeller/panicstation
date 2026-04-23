@@ -1,87 +1,101 @@
-﻿---
+---
 title: "What to do if… the person listed as a medical contact cannot be reached while decisions are being discussed"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - medical contact unreachable
-  - next of kin not answering
-  - emergency contact not responding
-  - hospital can't reach family
-  - decisions being discussed
-  - treatment decision now
-  - consent questions in hospital
-  - capacity and best interests
-  - healthcare proxy missing
-  - listed contact wrong number
-  - family abroad unreachable
-  - phone off no signal
-  - critical care decision meeting
-  - end of life discussion
-  - serious illness decision time
-  - who can speak for them
-  - contact details outdated
-  - hospital switchboard can't connect
-last_reviewed: "2026-03-03"
+  - "medical contact unreachable"
+  - "emergency contact not answering"
+  - "next of kin not responding"
+  - "hospital cannot reach family"
+  - "medical decisions being discussed"
+  - "who makes medical decisions uk"
+  - "mental capacity act best interests"
+  - "independent mental capacity advocate"
+  - "imca referral medical treatment"
+  - "what do i do if medical contact is unreachable"
+  - "what do i do if next of kin is missing"
+  - "what do i do if family cannot be reached in hospital"
+  - "what do i do if doctor needs a decision now"
+  - "help i cannot find the emergency contact"
+  - "help i am not the legal decision maker"
+  - "help i am at a best interests meeting"
+  - "help i need to pause medical decisions"
+  - "unresponsive emergency contact phone"
+  - "listed number for hospital contact is wrong"
+  - "phone off no signal emergency contact"
+  - "hospital switchboard cannot connect family"
+  - "no health and welfare power of attorney"
+  - "missing advance decision to refuse treatment"
+  - "respect plan hospital discussion"
+  - "pals hospital support contact"
+  - "patient lacks capacity for medical consent"
+  - "hospital next of kin rights uk"
+  - "clinical team best interests process"
+  - "non urgent medical decision delay"
+  - "serious medical treatment imca duty"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… the person listed as a medical contact cannot be reached while decisions are being discussed (UK)
 
 ## Short answer
-Tell the clinical team immediately that the listed contact is unreachable, ask them to pause non-urgent decisions where clinically safe, and help them identify the correct legal decision-maker (or the correct process) before anything irreversible happens.
+Inform the clinical team immediately that the contact is unreachable and request a pause on non-urgent decisions while the correct legal decision-making framework is identified.
 
 ## Do not do these things
-- Do not assume “next of kin” automatically has legal authority to consent or refuse treatment.
-- Do not agree to major decisions just to end the call/meeting if you’re not sure you’re the right person.
-- Do not share passwords or break into the person’s phone/accounts in a rush.
-- Do not argue in corridors or on speakerphone where other patients/visitors can hear private details.
-- Do not delay telling staff that the contact is unreachable if the team is actively trying to decide something time-critical.
+- Do not assume that being "next of kin" provides the legal authority to consent to or refuse medical treatment.
+- Do not agree to a treatment plan or sign documents if you are uncertain of your legal standing or the patient's wishes.
+- Do not attempt to access the patient’s private phone or digital accounts to find contacts.
+- Do not engage in loud or private discussions in public hospital corridors or shared wards.
+- Do not ignore the hospital's attempts to communicate; if you are the one present, act as a bridge to ensure the correct process is followed.
 
 ## What to do now
-1. **Say clearly what’s happening and ask for a safe pause.**  
-   Use plain words: “The listed medical contact cannot be reached right now. Please document attempts and, if it’s clinically safe, pause non-urgent decisions until we confirm who can be consulted.”
+1. **Inform the clinical team and request a clinical pause.**  
+   **Tell the nurse in charge or the consultant that the primary contact is unreachable and ask if it is clinically safe to wait before proceeding with non-urgent decisions.**
+   - Ask for a note to be placed in the medical records regarding the contact attempts.
+   - Confirm what the "time window" for the current decision is.
 
-2. **Ask the team to check “capacity” first, not paperwork.**  
-   Ask: “Does the patient have capacity for this decision right now?” If they do, they should be asked directly (even if they’re unwell). If they do not, decisions should follow the Mental Capacity Act “best interests” process.
+2. **Verify the patient's current mental capacity.**  
+   **Ask the doctor: "Has a formal assessment confirmed the patient lacks capacity for this specific decision at this time?"**
+   - If the patient has capacity, they must be the one to make the decision, even if they are very unwell.
+   - If capacity is lacking, decisions must be made in their "Best Interests" according to the Mental Capacity Act 2005.
 
-3. **Ask whether there is a Health & Welfare LPA or an Advance Decision (ADRT).**  
-   Specifically ask staff to check the notes for:  
-   - a **registered Health & Welfare Lasting Power of Attorney (LPA)** (named attorney[s])  
-   - an **Advance Decision to Refuse Treatment (ADRT)** or other recorded wishes (including any emergency care/treatment plan on file, for example a ReSPECT plan where used locally)  
-   If you have any paperwork, bring it (a clear photo is often enough for the moment).
+3. **Check for formal legal documents regarding health and welfare.**  
+   **Request that the hospital staff check for a registered Health and Welfare Lasting Power of Attorney (LPA) or an Advance Decision to Refuse Treatment (ADRT).**
+   - If you have access to a digital copy or a summary from the Office of the Public Guardian, show this to the team.
+   - For patients aged 16 or 17, check who holds "Parental Responsibility" as the rules differ slightly from those for adults.
 
-4. **Help staff reach the right person fast (without guessing).**  
-   Offer practical leads the hospital can use legitimately: alternate numbers, workplace number, landline, a second listed contact, GP details, care home, supported living provider, or a close friend.  
-   If you’re on site, ask what channels the hospital can use under their policy (switchboard, voicemail, recorded messages). If withheld numbers might be blocked, ask whether they can call from a main switchboard number or use standard hospital contact routes.
+4. **Provide alternative contact routes to the hospital switchboard.**  
+   **Offer any secondary numbers, workplace details, or alternative family members who may be able to reach the primary contact.**
+   - Advise staff that their calls may appear as "Withheld" or "Unknown" and might be blocked; ask if they can call from a direct line or leave a specific voicemail.
 
-5. **If there’s no appropriate family/friend contact, ask about an IMCA.**  
-   If the patient lacks capacity **and** there is nobody appropriate who is willing and able to be consulted, ask: “Does this situation require an Independent Mental Capacity Advocate (IMCA), especially for serious medical treatment decisions?”  
-   (You are not demanding outcomes — you are prompting the safeguard.)
+5. **Request an Independent Mental Capacity Advocate (IMCA) if criteria are met.**  
+   **Ask the team if they have a legal duty to instruct an IMCA if the patient lacks capacity, a "serious medical treatment" decision is required, and there is no appropriate person to consult.**
+   - This is a statutory safeguard in England and Wales when no family or friends are "willing and available" to represent the person's interests.
 
-6. **Ask for the right support channel inside the hospital.**  
-   Request a named point of contact (nurse in charge / consultant’s secretary) and ask for **PALS** (Patient Advice and Liaison Service) if communication is breaking down or you need help being heard quickly and calmly.
+6. **Engage the Patient Advice and Liaison Service (PALS).**  
+   **Contact the hospital's PALS office if you feel communication is breaking down or if you need assistance navigating the hospital's internal policies regarding unreachable family.**
+   - PALS can help facilitate meetings between the clinical team and family members who are present.
 
-7. **Create a simple written “contact log” now.**  
-   On your phone, note: who tried to call, what number, when, and result. If you later reach the person, you can give a clear update without relying on memory.
+7. **Record a chronological log of events.**  
+   **Write down the times of contact attempts, the names of the clinicians you spoke with, and the specific decisions that are currently pending.**
+   - This ensures that when the primary contact is eventually reached, the information provided is accurate and sequential.
 
 ## What can wait
-- You do not need to decide “what they would want” in full detail right now — focus on confirming the correct decision-making route first.
-- You do not need to start complaints processes or escalate formally in the moment unless you’re being blocked from basic communication.
-- You do not need to resolve wider family conflict today. Keep the immediate focus on safe, lawful decision-making.
+- You do not need to settle long-term care or discharge arrangements while an acute medical crisis is being managed.
+- You do not need to resolve family disputes or determine a hierarchy of "who matters most" in the middle of a clinical meeting.
+- You do not need to provide a definitive answer on the patient's lifelong values if the immediate focus is on a single, specific medical procedure.
 
 ## Important reassurance
-Being unreachable happens all the time — dead batteries, shift work, spam filters, blocked withheld numbers, travel, shock. A good team will have a process for making time-critical decisions safely, and for involving the right people as soon as they can.
+It is common for emergency contacts to be unreachable due to battery failure, signal issues, or work commitments. Hospital teams are trained to use the "Best Interests" framework to make safe, lawful decisions when a contact cannot be found, ensuring the patient is not left without care during the delay.
 
 ## Scope note
-This is first-steps-only guidance for the moment decisions are being discussed. Later steps (disputes, long-term decisions, legal issues, bereavement support) may need specialist help.
+This guide provides first-step stabilization for handling communication gaps during medical decision-making. It does not cover long-term legal disputes, Court of Protection applications, or post-bereavement procedures.
 
 ## Important note
-This is general information, not legal advice. Hospitals must act based on clinical urgency, the patient’s current capacity, and the applicable UK decision-making framework. If you’re unsure whether you have any authority to decide, say so explicitly and ask the team what process they are following.
+This information is for guidance only and does not constitute legal advice. Medical decisions in the UK are governed by the Mental Capacity Act 2005 and clinical necessity. If a dispute arises over life-sustaining treatment, the clinical team may need to seek a ruling from the Court of Protection.
 
 ## Additional Resources
-- https://www.nhs.uk/tests-and-treatments/consent-to-treatment/capacity/
 - https://www.nhs.uk/social-care-and-support/making-decisions-for-someone-else/mental-capacity-act/
 - https://www.gov.uk/manage-lasting-power-attorney/health-welfare
-- https://www.nhs.uk/tests-and-treatments/end-of-life-care/planning-ahead/advance-decision-to-refuse-treatment/
-- https://www.gov.uk/government/publications/independent-mental-capacity-advocates/making-decisions-the-independent-mental-capacity-advocate-service-web-version
-- https://www.scie.org.uk/mca/imca/
-- https://www.nhs.uk/nhs-services/hospitals/what-is-pals-patient-advice-and-liaison-service/
+- https://www.patients-association.org.uk/next-of-kin
+- https://www.gov.uk/make-decisions-for-someone/making-decisions
+- https://www.gov.uk/power-of-attorney

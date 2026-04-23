@@ -1,71 +1,85 @@
-﻿---
+---
 title: "What to do if… you are at an ATM or payment terminal and someone is standing unusually close behind you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - someone too close behind me at atm
-  - person standing close at cash machine
-  - shoulder surfing at atm
-  - someone watching me enter my pin
-  - stranger crowding payment terminal
-  - crowded card machine at checkout
-  - feels unsafe at atm queue
-  - suspicious person near cashpoint
-  - being pressured at atm
-  - someone hovering behind me in line
-  - card pin privacy at terminal
-  - cash machine personal safety
-  - atm kiosk with stranger inside
-  - close behind at self checkout
-  - worried my pin was seen
-  - uneasy using contactless terminal
-  - someone tries to talk while i pay
-  - cashpoint distraction attempt
-last_reviewed: "2026-01-10"
+  - "someone too close behind me at atm"
+  - "person standing close at cash machine"
+  - "shoulder surfing at atm"
+  - "someone watching me enter my pin"
+  - "stranger crowding payment terminal"
+  - "crowded card machine at checkout"
+  - "feels unsafe at atm queue"
+  - "suspicious person near cashpoint"
+  - "being pressured at atm"
+  - "someone hovering behind me in line"
+  - "card pin privacy at terminal"
+  - "cash machine personal safety"
+  - "atm kiosk with stranger inside"
+  - "close behind at self checkout"
+  - "worried my pin was seen"
+  - "uneasy using contactless terminal"
+  - "someone tries to talk while i pay"
+  - "cashpoint distraction attempt"
+  - "help i think someone saw my pin"
+  - "what do i do if someone is hovering at atm"
+  - "what do i do if someone bumps me at cash machine"
+  - "what do i do if person won't move back at atm"
+  - "what do i do if atm feels unsafe"
+  - "help i am being crowded at card machine"
+  - "help i think my card is trapped"
+  - "help person at atm is too close"
+  - "my card is stuck in the machine"
+  - "my pin was seen by a stranger"
+  - "smell of cigarette smoke at atm"
+  - "feeling breath on neck at terminal"
+  - "tapping on shoulder at cashpoint"
+  - "stranger leaning over shoulder"
+  - "suspicious cash machine device"
+  - "loose card slot on atm"
+  - "tampered payment terminal uk"
+  - "distraction theft uk cash machine"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are at an ATM or payment terminal and someone is standing unusually close behind you (UK)
 
 ## Short answer
-Stop the transaction and step away to a safer position (near staff, CCTV, or other people). You can try again somewhere else once you have space and privacy.
+Cancel the transaction immediately, shield your PIN, and move to a staffed or well-lit area. Do not continue the transaction if you feel your privacy or physical space is compromised.
 
 ## Do not do these things
-- Don’t continue entering your PIN while someone is close enough to see it.
-- Don’t let anyone “help”, coach you through steps, or touch the machine/terminal.
-- Don’t argue or try to “teach them a lesson” if your gut says it’s unsafe.
-- Don’t count cash or organise your wallet/purse at the machine.
-- Don’t follow anyone to another spot (including “a better ATM”) if they suggest it.
-- Don’t accept help if the machine behaves oddly (including if it keeps your card).
+- Do not enter your PIN if you can see the person behind you in the reflection or over your shoulder.
+- Do not allow a stranger to "help" you with the machine, even if it appears to be malfunctioning.
+- Do not engage in an argument or prolonged confrontation; prioritise creating physical distance.
+- Do not count your cash or browse your wallet while standing at the machine.
+- Do not leave the machine if your card is "swallowed" until you have successfully frozen the card via your app or phone.
+- Do not follow any suggestions to use a "better" or "working" machine nearby suggested by a stranger.
 
 ## What to do now
-1. **End the interaction immediately.** Press *Cancel*, take your card/cash (if already dispensed), and **put your card away**. If you’re at a payment terminal, ask the cashier to **cancel the payment** or pause while you step back.
-2. **Create distance.** Move away from the keypad and out of arm’s reach. If you want to speak, keep it short: **“Could you give me a bit of space, please?”** If they don’t, leave the machine/terminal.
-3. **Switch to a safer setup before trying again.** If available, use:
-   - An ATM **inside a bank branch** or another **staffed, well-lit** location.
-   - A different payment terminal where you’re not boxed in (not in a corner/kiosk), or pay at a staffed till instead of self-checkout.
-4. **If you must complete the transaction soon, protect your PIN.** Stand close to the machine and **shield the keypad with your hand and body** so it can’t be observed. If you can’t get space, **cancel and switch location** instead of forcing it.
-5. **If the machine looks tampered with or keeps your card:** don’t accept help. If it feels safe, move to the nearest **staffed** place (for example, inside the bank branch or to shop security) and **contact your card issuer immediately**. If you feel unsafe staying there, leave and call your bank once you’re somewhere safe.
-6. **If you feel threatened or they won’t back off, prioritise leaving over finishing.** Go to staff/security (if you’re in a shop) or a well-lit area with other people. If you believe you’re in immediate danger, call **999**.
-7. **If you think your PIN may have been seen or you were distracted mid-transaction:** once you’re somewhere safe, **lock/freeze your card** using your banking app if you can, or call your bank using the number on the back of your card (or in your official banking app). Consider **changing your PIN** and checking recent transactions.
+1. **Cancel the transaction immediately by pressing the 'Cancel' button.** **Once the card is returned, put it away securely in a pocket or bag before moving.** If you are at a retail terminal, ask the cashier to stop the transaction so you can reset.
+2. **Create physical distance between yourself and the other person.** **Move out of the person's line of sight and out of arm's reach.** If they do not move back after a polite request for space, leave the area entirely.
+3. **Shield the keypad with your free hand or body if you must finish a vital action.** **Lean in close to the machine to block the view of the keypad from any angle.** If you cannot effectively block the view, do not enter your PIN.
+4. **Freeze your card immediately if you suspect your PIN was observed.** **Use your banking app to 'lock' or 'freeze' the card while you are still in a safe, visible area.** If you do not have an app, call your bank's emergency number found on their official website or the back of your card.
+5. **Contact your bank if the machine retains your card.** **Stay at the machine if it is safe to do so and call your bank to report the card as trapped/stolen immediately.** Thieves often use "card traps" and wait for you to walk away before retrieving your card.
+6. **Report suspicious behavior or tampered machines to the police.** **Call 101 to report a suspicious person or a machine that looks modified (e.g., loose parts or extra covers).** If the person becomes aggressive or you feel you are about to be robbed, call **999**.
+7. **Check your recent transactions for any unauthorised activity.** **Monitor your account for the next 48 hours and report any discrepancies to your bank and Action Fraud.** You can report non-emergency fraud online via the Action Fraud website.
 
 ## What can wait
-- You do not need to finish the withdrawal or payment right now.
-- You do not need to decide whether it was “definitely” suspicious.
-- You do not need to confront the person or report it on the spot unless you feel unsafe or a crime has occurred.
+- You do not need to determine if the person's intent was definitely criminal.
+- You do not need to report the incident to the specific shop or bank branch manager immediately if you feel unsafe staying on-site.
+- You do not need to complete the specific payment or withdrawal right now; most transactions can be retried at a safer location later.
 
 ## Important reassurance
-Freezing, cancelling, and walking away is a normal response. Many thefts and scams rely on you feeling awkward or rushed—creating distance is a sensible, low-regret move.
+Feeling uncomfortable when someone is in your personal space at a cash machine is a valid safety instinct. Cancelling a transaction and walking away is a low-consequence action that effectively removes the opportunity for "shoulder surfing" or distraction theft.
 
 ## Scope note
-This is first steps only to help you get safe, protect your PIN/card, and reduce immediate risk. If money has gone missing, your bank and (if needed) the police can guide next steps.
+This guide provides first-step stabilization for personal safety and card security. It does not cover the legal process of reclaiming stolen funds or long-term identity theft protection.
 
 ## Important note
-This is general safety information, not professional advice. If you are in immediate danger, call **999**.
+This information is for immediate safety guidance and does not replace professional security advice or police instructions. In any emergency involving a threat to life or property in progress, call **999**.
 
 ## Additional Resources
-- https://www.police.uk/cp/crime-prevention/personal-safety-how-to-stay-safe/ATM-safety/
-- https://www.reportfraud.police.uk/cash-point-fraud/
-- https://www.met.police.uk/advice/advice-and-information/fa/fraud/personal-fraud/banking-payment-card-investment-pension-fraud/
-- https://www.askthe.police.uk/faq/?id=5532c4d9-1515-f011-9989-000d3a7ef2e5
+- https://www.met.police.uk/cp/crime-prevention/personal-safety-how-to-stay-safe/ATM-safety/
 - https://www.takefive-stopfraud.org.uk/protect-yourself/cash-machine-fraud/
-- https://www.hsbc.co.uk/help/security-centre/card-security/
+- https://www.met.police.uk/SysSiteAssets/media/downloads/central/advice/fraud/met/the-little-book-of-big-scams.pdf
+- https://www.psni.police.uk/safety-and-support/keeping-safe/protecting-yourself/scams/credit-and-debit-card-fraud
+- https://www.gov.uk/contact-police

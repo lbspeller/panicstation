@@ -1,78 +1,90 @@
-﻿---
+---
 title: "What to do if… you start vomiting repeatedly and cannot keep fluids down"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - vomiting repeatedly
-  - throwing up nonstop
-  - cannot keep fluids down
-  - can't keep water down
-  - can't stop vomiting
-  - vomiting and dehydration
-  - signs of dehydration
-  - not urinating for hours
-  - dizzy when standing up
-  - dry mouth and weakness
-  - severe belly pain with vomiting
-  - headache and stiff neck vomiting
-  - vomit blood or coffee grounds
-  - green vomit bile
-  - food poisoning vomiting
-  - stomach bug vomiting
-  - nausea and vomiting adults
-  - vomiting longer than 24 hours
-  - unable to keep liquids down 12 hours
-  - vomited three times in a day
-  - possible poisoning exposure
-  - medication mix-up vomiting
-  - pregnancy nausea vomiting
-last_reviewed: "2026-01-18"
+  - "vomiting repeatedly"
+  - "throwing up nonstop"
+  - "cannot keep fluids down"
+  - "can't keep water down"
+  - "can't stop vomiting"
+  - "vomiting and dehydration"
+  - "signs of dehydration"
+  - "not urinating for hours"
+  - "dizzy when standing up"
+  - "dry mouth and weakness"
+  - "severe belly pain with vomiting"
+  - "headache and stiff neck vomiting"
+  - "vomit blood or coffee grounds"
+  - "green vomit"
+  - "vomiting and chest pain"
+  - "constant nausea and vomiting"
+  - "what do i do if i cant stop vomiting"
+  - "what do i do if i cant keep water down"
+  - "what do i do if i am severely dehydrated"
+  - "what do i do if my vomit is green"
+  - "help i am throwing up nonstop"
+  - "help i cant keep any fluids down"
+  - "help i have not urinated in eight hours"
+  - "my vomit looks like coffee grounds"
+  - "my stomach hurts and i am vomiting"
+  - "no wet diapers for six hours"
+  - "dry mouth and no tears"
+  - "fainting after vomiting"
+  - "blurred vision and vomiting"
+  - "vomiting after possible chemical exposure"
+  - "persistent vomiting in adults"
+  - "vomiting and rapid heart rate"
+  - "feeling weak after vomiting"
+  - "vomiting and confusion"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you start vomiting repeatedly and cannot keep fluids down (USA)
 
 ## Short answer
-If you can’t keep fluids down, focus on **preventing dehydration** and **get medical advice urgently (same day)**. **Go to the ER or call 911 now** if you have danger signs like blood/coffee-ground vomit, severe pain, confusion, or signs of severe dehydration.
+Prioritize **preventing severe dehydration** and **obtaining a professional medical assessment** if you cannot tolerate even small sips of water. **Call 911 or go to the nearest Emergency Room immediately** if you see blood, experience severe pain, confusion, or have signs of shock.
 
 ## Do not do these things
-- Do not chug large amounts of fluid — it often triggers more vomiting.
-- Do not try to make yourself (or anyone else) vomit on purpose.
-- Do not take someone else’s prescription anti-nausea meds, old leftover prescriptions, or “counteracting” remedies without medical advice.
-- Do not ignore possible poisoning — get expert guidance right away.
+- Do not attempt to "chug" or gulp large volumes of liquid, as this frequently triggers more vomiting.
+- Do not take over-the-counter anti-nausea or anti-diarrheal medications without first speaking to a clinician.
+- Do not use leftover prescription medications or medication prescribed for someone else.
+- Do not try to induce further vomiting or use "home remedies" involving baking soda or vinegar.
+- Do not drive yourself to medical care if you feel dizzy, faint, or lightheaded.
 
 ## What to do now
-1. **Decide the level of urgency (ER / 911 vs. urgent care / clinician call).**
-   - **Go to the ER or call 911 now** if you have: blood or dark “coffee-ground” vomit; severe or worsening belly pain; severe weakness or fainting; confusion; trouble breathing; seizure; or you cannot be awakened.
-   - **Seek medical care urgently (same day)** if any of these apply (common clinical triggers): vomiting **longer than 24 hours**; **unable to keep any fluids down for 12 hours or more**; **not urinated for 8 or more hours**; severe belly pain; headache with stiff neck; or vomiting **3 or more times in 1 day**.
-2. **Start fluids in the most tolerable way (even while arranging help):**
-   - Take **small sips** of clear liquids (water or oral rehydration solution) every few minutes.
-   - If sips trigger vomiting, try **1 teaspoon at a time**, then increase slowly if it stays down.
-3. **If you might need to travel for care, reduce immediate safety risks first:**
-   - If you must lie down, rest **on your side** (lower choking risk if you vomit).
-   - If you feel dizzy or weak, don’t drive yourself — ask someone to take you or call 911 if you’re unsafe to travel.
-4. **If poisoning is possible (chemicals, medication mix-up, unknown substance):**
-   - Call **Poison Control (Poison Help) 1-800-222-1222** right away for free, 24/7 expert guidance.
-   - **Call 911 right away** if the person collapses, has a seizure, has trouble breathing, or can’t be awakened.
-5. **Make a quick “info note” before you speak to a clinician (30 seconds):**
-   - When vomiting started; how often; whether you can keep *any* fluid down; last time you urinated; fever; severe pain; diarrhea or blood; pregnancy possibility; and a list/photo of medications and supplements.
+1. **Screen for immediate emergency indicators (Call 911 or go to the ER).**
+   - **Check for red-flag symptoms:** Blood in vomit (bright red or dark "coffee grounds"); green or yellow-green bile; severe or worsening abdominal pain; chest pain or shortness of breath; stiff neck with high fever; blurred vision; confusion or extreme lethargy; or fainting.
+   - **Check for severe dehydration signs:** Not urinating for 8+ hours (or 3–6 hours for infants/toddlers); rapid heartbeat; sunken eyes; or skin that "tents" (stays peaked) when pinched.
+2. **Contact your healthcare provider or an Urgent Care center if emergency signs are absent.**
+   - **Seek a same-day clinical assessment** if you have been vomiting for more than 24 hours, have been unable to keep any fluids down for 12 hours, or have vomited 3 or more times in a single day.
+3. **Attempt oral rehydration using the "micro-sip" method.**
+   - **Take 1 teaspoon (5ml) of clear liquid** (water, ice chips, or an oral rehydration solution like Pedialyte) every 5 to 10 minutes.
+   - **Wait at least 30 to 60 minutes after a vomiting episode** before trying to sip again to let the stomach settle.
+4. **Position yourself for safety and airway protection.**
+   - **Lie on your side (the recovery position)** if you must rest, which reduces the risk of choking if you vomit suddenly.
+   - **Keep your head elevated** slightly with pillows to reduce the sensation of nausea.
+5. **Call for specialized triage if poisoning or toxic exposure is suspected.**
+   - **Call the Poison Help hotline at 1-800-222-1222** immediately for free, 24/7 expert guidance if you believe you ingested a toxic substance, chemical, or incorrect medication.
+6. **Prepare essential information for the clinician.**
+   - **Note specific details:** When the vomiting started; frequency; last time you urinated; presence of fever or pain; and a list of current medications or supplements.
 
 ## What can wait
-- You do not need to identify the exact cause right now.
-- You do not need to force food — **fluids come first**; eating can wait until you can keep liquids down.
-- You do not need to decide “ER vs. not” alone if you’re unsure — urgent care/your clinician can advise, and **Poison Control** can triage possible exposures.
+- You do not need to identify the specific virus or cause of the illness right now.
+- You do not need to force yourself to eat solid food; rehydration is the only immediate priority.
+- You do not need to decide if you "need" an IV; a clinician will determine this based on your physical signs.
 
 ## Important reassurance
-This is scary, but the immediate priority is practical: **avoid dehydration and get the right level of care early** if liquids won’t stay down. Needing urgent care for IV fluids or nausea treatment is common.
+Feeling overwhelmed or concerned during persistent vomiting is a common response. While the symptoms are distressing, medical providers frequently treat dehydration and nausea. Taking small, controlled steps toward rehydration or seeking professional triage is the most effective way to stabilize the situation.
 
 ## Scope note
-This guide covers first actions only: safety, hydration attempts, and how to reach appropriate help. Longer-term steps (tests, medications, finding the cause) come later with a professional.
+This guide provides first-step stabilization and triage guidance only. It is intended for the acute phase of vomiting and does not cover long-term treatment, diagnostics, or dietary recovery.
 
 ## Important note
-This is general information, not medical diagnosis or personal medical advice. If you’re worsening, can’t keep fluids down, or have any red-flag symptoms, seek urgent medical care.
+This information is for general educational purposes and is not a substitute for professional medical advice, diagnosis, or treatment. If you are experiencing a medical emergency, call 911 immediately.
 
 ## Additional Resources
 - https://medlineplus.gov/ency/article/003117.htm
-- https://medlineplus.gov/ency/patientinstructions/000122.htm
-- https://medlineplus.gov/nauseaandvomiting.html
-- https://www.poison.org/
-- https://poisonhelp.hrsa.gov/
+- https://medlineplus.gov/dehydration.html
+- https://www.niddk.nih.gov/health-information/digestive-diseases/viral-gastroenteritis/treatment
+- https://www.niddk.nih.gov/health-information/digestive-diseases/food-poisoning/symptoms-causes
+- https://www.niddk.nih.gov/health-information/digestive-diseases/viral-gastroenteritis/symptoms-causes

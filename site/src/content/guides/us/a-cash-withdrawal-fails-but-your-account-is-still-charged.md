@@ -1,92 +1,101 @@
-﻿---
+---
 title: "What to do if… a cash withdrawal fails but your account is still charged"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - atm didn’t give cash
-  - atm failed but account charged
-  - withdrawal failed still debited
-  - bank account debited no cash
-  - cash withdrawal no cash dispensed
-  - atm error money missing
-  - atm dispute regulation e
-  - electronic fund transfer error
-  - debit card withdrawal dispute
-  - atm charged me but no cash
-  - cash not received atm
-  - atm timed out no cash
-  - atm partial dispense charged full
-  - missing money after atm
-  - atm receipt dispute
-  - bank error resolution debit
-  - reg e notice of error
-  - provisional credit reg e
-last_reviewed: "2026-01-08"
+  - "atm failed no cash"
+  - "atm charged but no money"
+  - "withdrawal failure account debited"
+  - "atm error money missing"
+  - "what do i do if atm didn't give cash"
+  - "what do i do if bank charged me for failed withdrawal"
+  - "what do i do if cash machine error"
+  - "what do i do if money missing after atm"
+  - "help i didn't get my cash from atm"
+  - "help i was charged for cash i didn't get"
+  - "help i have a failed atm withdrawal"
+  - "my bank account was debited but no cash"
+  - "my atm receipt says error"
+  - "regulation e dispute atm"
+  - "electronic fund transfer error notice"
+  - "provisional credit timeline"
+  - "atm terminal id sticker"
+  - "atm location address"
+  - "atm owner contact number"
+  - "failed withdrawal pending transaction"
+  - "failed withdrawal posted transaction"
+  - "atm didn't dispense cash"
+  - "cash withdrawal malfunction"
+  - "atm screen error message"
+  - "bank account missing funds atm"
+  - "atm dispute process usa"
+  - "notice of error regulation e"
+  - "bank error resolution atm"
+  - "dispute failed cash withdrawal"
+  - "missing money from atm machine"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a cash withdrawal fails but your account is still charged (USA)
 
 ## Short answer
-Report it to your bank or credit union immediately as an ATM/electronic transfer error (Regulation E), and record the ATM details before you forget them.
+Contact your bank or credit union immediately to report an electronic fund transfer error under Regulation E, and record the ATM terminal ID and exact time of the failure.
 
 ## Do not do these things
-- Don’t keep trying the withdrawal again and again (you can end up with multiple debits).
-- Don’t toss the receipt or leave without recording the ATM’s location and ID number.
-- Don’t let anyone “help” you by taking your card or asking for your PIN.
-- Don’t wait and hope it disappears—act promptly, and make sure you follow any required “in writing” step your bank gives you.
-- Don’t label it as “fraud” if you initiated the withdrawal; report it as an **ATM error / cash not dispensed**.
+- Don't attempt the withdrawal again on the same machine (this may result in multiple debits).
+- Don't leave the machine without checking for a terminal ID number or an owner's contact sticker.
+- Don't discard any receipt the machine provided, even if it shows an error or $0.00.
+- Don't allow any bystander or store employee to handle your card or enter your PIN to "reset" the machine.
+- Don't wait longer than 60 days from your statement date to report the issue, or you may lose federal protection.
 
 ## What to do now
-1. **Move to a calmer spot and confirm what you’re seeing.**  
-   In your banking app, check whether the transaction is **pending** or **posted**. Pending transactions sometimes reverse later—but still report it if the money is missing from your available balance or you need the funds.
+1. **Record the specific identifiers for the ATM and the transaction.**  
+   **Document the following details before leaving the area:**
+   - The ATM terminal ID (usually a 6-to-10 digit number on a sticker or the screen).
+   - The name of the bank or company that owns the machine.
+   - The exact time, date, and physical location (address or store name).
+   - Any error message or code displayed on the screen.
 
-2. **Capture the “investigation essentials” right now.**  
-   Take photos and/or write down:
-   - Date and exact time
-   - Amount requested
-   - ATM location (address/store name)
-   - ATM owner/operator name (often shown on the machine)
-   - ATM terminal/ID number (usually on a sticker)
-   - Any error message shown
-   - Keep the receipt (or a clear photo of it)
+2. **Check your transaction status via your bank’s official portal or app.**  
+   **Verify if the transaction is "Pending" or "Posted" to your ledger.**
+   - If it is pending, it may automatically reverse within 24 to 48 hours without further action.
+   - If it is posted or your available balance is restricted, you must proceed with a formal report.
 
-3. **Call your bank/credit union and open a Regulation E “notice of error.”**  
-   Say: “ATM did not dispense cash, but my account was debited. I want to report this as an electronic fund transfer error under Regulation E.”  
-   Ask for:
-   - A case/reference number
-   - Their preferred way to send your details/photos
-   - **Whether they require written confirmation** after a phone report, where to send it, and the deadline (some institutions may require written confirmation within **10 business days** if they choose to require it)
+3. **Call your financial institution to issue an oral "Notice of Error."**  
+   **Tell the representative you are reporting an "ATM error / cash not dispensed" under Regulation E.**
+   - Request a case or reference number for the dispute.
+   - Ask for the specific mailing address or email to send your written confirmation.
+   - Confirm the deadline for your written follow-up (typically 10 business days from this call).
 
-4. **If the ATM is not owned by your bank, also contact the ATM owner.**  
-   Use the phone number on the ATM and give the same details. (This is especially useful if your bank doesn’t own the machine.)
+4. **Submit a written confirmation of the error if required by your bank.**  
+   **Send a brief letter or secure message including your name, account number, and the ATM details collected in step 1.**
+   - Under Regulation E, if you do not provide this written notice within 10 business days of your call (if requested), the bank is not required to provide provisional credit while they investigate.
 
-5. **If this will cause immediate hardship, tell your bank plainly.**  
-   Ask what they can do today (for example: help you access cash another way, reduce/waive fees caused by the error, or prioritize review). If you’re facing returned payments, say that clearly.
+5. **Monitor your account for a provisional credit within 10 business days.**  
+   **Check your balance for a temporary refund of the missing amount plus any associated fees.**
+   - Banks generally have 10 business days to investigate; if they need more time (up to 45 days), they must credit your account for the disputed amount in the meantime.
+   - Note: For accounts opened within the last 30 days, the bank may take up to 20 business days to provide this credit.
 
-6. **Protect your account while you wait.**  
-   If anything about the ATM seemed suspicious (loose card slot, odd overlay, someone hovering), change your debit card PIN (securely) and monitor your account for additional unexpected transactions.
-
-7. **Escalate if you hit a wall.**  
-   If your bank drags its feet or you can’t get a clear response, you can submit a complaint to the CFPB. Depending on your institution’s charter/regulator, you may also be able to complain to its primary regulator (for example, OCC or the Federal Reserve).
+6. **Contact the ATM owner if the machine does not belong to your bank.**  
+   **Call the customer service number located on the ATM itself to report the mechanical failure.**
+   - They cannot refund you directly, but they can log the internal error which helps your bank verify your claim during the investigation.
 
 ## What can wait
-- You don’t need to decide today whether to close your account or replace your card unless you suspect compromise.
-- You don’t need to write a long narrative—what matters most is the ATM details, time, and amount.
-- You don’t need to confront the store staff where the ATM is located (they usually don’t control the ATM records).
+- You do not need to file a police report unless you suspect a "skimmer" was attached to the machine or you were the victim of a robbery.
+- You do not need to contact the Consumer Financial Protection Bureau (CFPB) until after your bank has completed its investigation and issued a final decision.
+- You do not need to cancel your debit card unless you believe your PIN or card details were physically compromised during the transaction.
 
 ## Important reassurance
-ATM disputes feel scary because it looks like money vanished, but there are established error-resolution rules for electronic transfers. Prompt reporting plus precise details is what usually gets this unstuck.
+ATM errors are mechanical failures that are recorded in the machine’s internal electronic journal and its physical cash count. When the bank balances the machine, the discrepancy between the recorded withdrawals and the remaining cash provides concrete evidence to resolve your dispute.
 
 ## Scope note
-This guide covers immediate stabilising steps and how to trigger the right bank process. If the dispute becomes drawn out, you may need to use formal complaint/escalation channels.
+This guide provides first-step stabilization for a failed cash dispense where the account was charged. It does not cover unauthorized transactions by third parties or disputes over the quality of goods purchased via ATM.
 
 ## Important note
-This is general information, not legal advice. Deadlines and procedures can vary by institution and account type. Regulation E sets out an error-resolution process for many electronic fund transfers; follow your bank’s instructions carefully and keep copies/screenshots of anything you submit.
+Federal law (Regulation E) provides specific protections for electronic fund transfer errors, but you must adhere to the reporting timelines provided by your institution. This information does not constitute legal or financial advice.
 
 ## Additional Resources
 - https://www.consumerfinance.gov/ask-cfpb/what-do-i-do-if-the-atm-gave-me-the-wrong-amount-of-money-en-1085/
+- https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discover-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/
 - https://www.consumerfinance.gov/rules-policy/regulations/1005/11/
-- https://www.ecfr.gov/current/title-12/chapter-X/part-1005/subpart-A/section-1005.11
+- https://www.helpwithmybank.gov/help-topics/bank-accounts/electronic-transactions/automatic-withdrawal-preauthorized-payments/unauthorized-eft.html
 - https://www.consumerfinance.gov/complaint/
-- https://www.occ.treas.gov/topics/supervision-and-examination/dispute-resolution/consumer-complaints/index-consumer-complaints.html
-- https://forms.federalreserveconsumerhelp.gov/secure/complaint/complaintType.html

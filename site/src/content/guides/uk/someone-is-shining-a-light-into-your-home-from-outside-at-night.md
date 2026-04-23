@@ -1,70 +1,83 @@
-﻿---
+---
 title: "What to do if… someone is shining a light into your home from outside at night"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - light shining into window
-  - torch outside my house
-  - someone with flashlight outside
-  - light coming through curtains
-  - suspicious person outside at night
-  - someone looking into my home
-  - possible burglary scouting
-  - someone checking doors at night
-  - weird light in my room
-  - beam of light in window
-  - someone outside my bedroom window
-  - light moving across walls
-  - neighbour spotlight at night
-  - someone filming my house
-  - stalking harassment at home
-  - scared someone outside house
-  - unknown person in garden
-  - late night suspicious activity
-last_reviewed: "2026-01-11"
+  - "someone shining light in window"
+  - "torch outside house at night"
+  - "flashlight through curtains"
+  - "suspicious person in garden"
+  - "prowler with light outside"
+  - "intruder scanning windows"
+  - "security light keeps going off"
+  - "light moving on bedroom wall"
+  - "help i see a light outside my window"
+  - "what do i do if someone is looking in my house"
+  - "what do i do if someone is outside with a torch"
+  - "what do i do if a light is shining in my room"
+  - "what do i do if i see a flashlight in my yard"
+  - "my curtains have a light through them"
+  - "my security camera shows someone with a light"
+  - "my house is being scouted by burglars"
+  - "help i think someone is outside my door"
+  - "light beam through blinds"
+  - "shadows outside window"
+  - "unknown person with flashlight"
+  - "someone filming my house at night"
+  - "strange light outside flat"
+  - "flashing light in window"
+  - "burglary scouting signs"
+  - "safety in home at night"
+  - "how to report prowler uk"
+  - "silent 999 call 55"
+  - "someone checking my door handles"
+  - "torch light on fence"
+  - "man with light in garden"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… someone is shining a light into your home from outside at night (UK)
+
 ## Short answer
-Treat it as a possible incident in progress: get away from windows, secure your home, and contact police (999 if you feel in immediate danger, otherwise 101).
+Move away from the window, turn off internal lights to hide your position, and secure your home. Call 999 immediately if you believe someone is attempting to enter or you are in immediate danger.
 
 ## Do not do these things
-- Do not go outside to confront them or “see what’s going on”.
-- Do not stand in a lit window or open the curtains wide to look.
-- Do not dismiss it if the light is scanning rooms/doors/windows or you feel unsafe—act cautiously first.
-- Do not shout threats, chase them, or try to detain anyone.
-- Do not post live updates on social media (it can reveal you’re home and where you are inside).
+- Do not go outside to investigate, confront the person, or "clear" your garden.
+- Do not stand in front of a window or open curtains to get a better look.
+- Do not shine a torch or light back at the person, as this reveals your exact location and may provoke a reaction.
+- Do not shout out or reveal how many people are in the house.
+- Do not post about the incident on social media while it is happening.
 
 ## What to do now
-1. **Move to a safer position.** Step back from windows and glass doors. If you can, go to a more internal room and stay out of sight.
-2. **Secure the house quickly and quietly.** Lock external doors, check ground-floor windows are shut/locked, and close curtains/blinds.
-3. **Get essentials in your hands.** Take your phone and keys. If you have an alarm, arm it.
-4. **Use lighting carefully (only if it doesn’t expose you).** If you can switch on a porch/security light from a safe spot, it may discourage someone. Avoid going near windows/doors and avoid backlighting yourself in a window.
-5. **Check without putting yourself in view.** If you have a doorbell camera/CCTV, check the live view or recent clips. If it’s safe, note the time, where the light is coming from, and any description (clothing, direction of travel, vehicle). If you can discreetly record from inside without revealing yourself, do so.
-6. **Call the police.**
-   - **Call 999** if you believe someone is trying to get in, is in your garden, is threatening you, or you feel in immediate danger.
-   - **Call 101** if the person/light has gone but it was suspicious and you want advice and a record.
-   - **If you can’t speak safely:** call **999** anyway. If you can, respond by coughing/tapping/whispering. If you’re on a mobile and you hear a prompt, **press 55** to confirm it’s a genuine emergency and be put through to police.
-7. **If you’re in a flat or managed building:** contact the concierge/security (if you have one) while someone else calls the police, and avoid using communal areas until you know it’s safe.
-8. **If you’re not alone:** quietly wake others, keep everyone together, and have one person speak to police so information is consistent.
+1. **Move to a position where you cannot be seen from the outside.** Avoid standing between a light source and the window, as your silhouette will be visible. Move to an internal room or a hallway without windows.
+2. **Turn off internal lights quietly.** This makes it harder for anyone outside to see inside and prevents you from being backlit.
+3. **Secure all entry points.** Ensure all doors and ground-floor windows are locked. Do not move near the windows to do this if the light is currently focused on that area; wait for a gap or move low to the floor.
+4. **Gather your phone and any other residents.** Keep everyone in a single safe area away from external walls if possible. 
+5. **Call the police.**
+   - **Dial 999** if you see someone in your garden, someone touching your doors/windows, or if the light suggests someone is actively scouting your home for entry.
+   - **Dial 101** only if the light has stopped, the person has clearly left, and you are no longer in fear of an immediate break-in.
+6. **Use the Silent Solution if you cannot speak safely.**
+   - **On a mobile:** Dial 999 and stay on the line. Listen for the automated prompt. If prompted, **press 55** to let the operator know it is a genuine emergency.
+   - **On a landline:** Dial 999. If you stay silent, the operator will listen for background noise. If they hear something suspicious, they will connect you to the police.
+7. **Check security cameras only from a safe position.** Use your phone to view doorbell or CCTV feeds. Note descriptions, direction of travel, and any vehicle details if visible, but do not prioritize this over your physical safety.
+8. **Stay on the line with the emergency operator.** If it is safe to do so, keep the call active until the police arrive or give you further instructions.
 
 ## What can wait
-- You do not need to decide right now whether it was a prank, a neighbour, or targeted harassment.
-- You do not need to go outside to “check for damage” until you feel safe and, if needed, police have attended.
-- If it turns out to be ongoing nuisance lighting from nearby premises (not an immediate threat), you can deal with it later via your local council (often the environmental health team) as a potential statutory nuisance issue.
+- You do not need to identify the person or determine if it is a "prank" right now.
+- You do not need to check for property damage or "signs of forced entry" until the police have arrived or the sun is up and you are certain the area is clear.
+- Determining if this is a "statutory nuisance" (such as a neighbor's poorly aimed security light) is a task for tomorrow via the local council Environmental Health department.
 
 ## Important reassurance
-It’s normal to feel frozen or shaky in this situation. You’re not overreacting by prioritising safety and contacting police if you feel at risk. The goal tonight is to reduce visibility, secure your home, and get help if needed.
+It is entirely normal to feel a "fight, flight, or freeze" response when your home security feels threatened. Taking steps to hide your position and call for help is a proactive safety measure, not an overreaction. 
 
 ## Scope note
-This is first-steps-only guidance for the next few minutes. If it becomes a repeat pattern, you may need follow-up support (for example around harassment/anti-social behaviour or nuisance lighting), but that can wait until you’re safe.
+This guide is for immediate stabilization during a suspicious event. Long-term security upgrades, such as installing PAS 24:2022 standard windows or accredited alarm systems, should be handled after the current situation is resolved.
 
 ## Important note
-This is general information, not legal advice. If you think you are in immediate danger or a crime is happening, call emergency services.
+This information is for guidance only and does not constitute legal advice. Always follow the instructions provided by emergency dispatchers during a live incident.
 
 ## Additional Resources
-- https://www.gov.uk/contact-police
-- https://www.police.uk/pu/contact-us/
-- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/how-to-make-a-silent-999-call/
-- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
 - https://www.gov.uk/guidance/artificial-light-nuisances-how-councils-deal-with-complaints
+- https://www.gov.uk/how-report-antisocial-behaviour
+- https://www.gov.uk/how-report-antisocial-behaviour/report-police
+- https://www.gov.uk/how-report-antisocial-behaviour/report-council
+- https://www.met.police.uk/advice/advice-and-information/asb/asb/antisocial-behaviour/disputes-with-neighbours/

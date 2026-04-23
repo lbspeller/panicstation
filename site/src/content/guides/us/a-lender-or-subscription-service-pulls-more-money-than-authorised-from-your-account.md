@@ -1,98 +1,105 @@
-﻿---
+---
 title: "What to do if… a lender or subscription service pulls more money than authorised from your account"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - lender took too much money
-  - subscription took extra money
-  - recurring payment wrong amount
-  - automatic payment overcharged
-  - bank account unexpected debit
-  - unauthorised withdrawal from account
-  - ach debit you did not authorise
-  - preauthorized transfer problem
-  - stop payment on ach
-  - payment taken after cancelling
-  - recurring charge kept happening
-  - debit card charged extra
-  - credit card billed wrong amount
-  - duplicate payment taken
-  - subscription billing error
-  - overdraft from recurring charge
-  - loan autopay wrong amount
-  - merchant pulled more than agreed
-  - recurring payment increased suddenly
-  - automatic debit still active
-last_reviewed: "2026-01-10"
+  - "lender took too much money"
+  - "subscription took extra money"
+  - "recurring payment wrong amount"
+  - "automatic payment overcharged"
+  - "bank account unexpected debit"
+  - "unauthorised withdrawal from account"
+  - "ach debit you did not authorise"
+  - "preauthorized transfer problem"
+  - "stop payment on ach"
+  - "payment taken after cancelling"
+  - "recurring charge kept happening"
+  - "debit card charged extra"
+  - "credit card billed wrong amount"
+  - "duplicate payment taken"
+  - "subscription billing error"
+  - "overdraft from recurring charge"
+  - "loan autopay wrong amount"
+  - "merchant pulled more than agreed"
+  - "recurring payment increased suddenly"
+  - "automatic debit still active"
+  - "help i was overcharged by a subscription"
+  - "help i have an unauthorised bank transfer"
+  - "what do i do if a lender took more money"
+  - "what do i do if my account was debited"
+  - "my bank account has an error"
+  - "my credit card has a wrong charge"
+  - "smell of burning card"
+  - "visible account deficit"
+  - "unusual bank notification"
+  - "sudden balance drop"
+  - "billing error notice"
+  - "unauthorized transfer claim"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a lender or subscription service pulls more money than authorised from your account (USA)
 
 ## Short answer
-Tell your bank/card issuer to stop any further pulls (stop-payment or merchant block), then dispute the transaction as an unauthorized or wrong-amount electronic transfer/charge so the formal refund process starts.
+Notify your financial institution to place a stop-payment order on future transfers and formally dispute the specific transaction as an "unauthorized transfer" or "billing error" to initiate the legal refund process.
 
 ## Do not do these things
-- Do not wait for the company to “fix it next billing cycle” if the charge risks overdraft or missed essentials—open the bank/card dispute now.
-- Do not assume canceling the subscription alone stops payments. You often need to revoke authorization with your bank/card issuer too.
-- Do not close the account or cancel the card as your first move if you can avoid it. It can slow investigations and disrupt other essential payments.
-- Do not throw away evidence. Keep the statement line, confirmation emails, and any cancellation screens/ticket numbers.
-- Do not ignore related fees (overdraft/returned-payment fees). Ask the bank to review and reverse them once the item is in dispute.
-- If you suspect broader compromise (not just this merchant), do not keep the account/card fully active—freeze the card if applicable, change passwords, and enable alerts.
+- Do not wait for the merchant to promise a refund before contacting your bank; if the charge is erroneous, the formal dispute clock (usually 60 days) starts immediately.
+- Do not assume that deleting an app or "canceling" on a website automatically revokes the legal authorization given to your bank to pay the merchant.
+- Do not close your bank account or cancel your credit card as a first step, as this can complicate the recovery of funds and disrupt other valid payments.
+- Do not delete communication records; keep all cancellation emails, screenshots of "authorization revoked" messages, and time-stamped chat logs.
+- Do not ignore the $50 liability threshold; while many institutions offer "zero liability," federal law permits a $50 cap on certain disputed credit card amounts.
 
 ## What to do now
-1. **Identify what kind of transaction it was (this changes what you ask for).**
-   - Label it as one of these:
-     - **ACH / electronic withdrawal / auto-debit from checking**
-     - **Debit card transaction**
-     - **Credit card charge**
-   - Screenshot/save the transaction details: date, amount, merchant name, and any ID/reference.
+1. **Categorize the transaction and locate the mandatory identifiers.**
+   - Identify if it is an ACH (Electronic Fund Transfer), a debit card charge, or a credit card charge.
+   - Look for standardized 2026 descriptions like "PURCHASE" or "PAYROLL" in the transaction line to confirm the merchant type.
+   - Save the exact date, the amount authorized versus the amount pulled, and any transaction ID numbers.
 
-2. **Stop the next pull before it happens (use the right control).**
-   - **For ACH / checking auto-debit:** ask your bank for a **stop-payment on the preauthorized transfer** and/or a **block on future debits from that payee**.
-     - If the next debit is scheduled, do this **as early as possible** (rules commonly assume you notify the bank at least **3 business days** before a scheduled debit).
-     - Ask the bank: “Do you require written confirmation of my stop-payment, and where should I send it?”
-   - **For debit/credit card recurring charges:** ask the card issuer to **stop recurring payments from that merchant** (merchant block/recurring stop).
+2. **Issue an oral stop-payment order to your bank for future transfers.**
+   - **For ACH / checking account withdrawals:** notify the bank at least 3 business days before the next scheduled transfer to stop it.
+   - **Ask if a written follow-up is required.** If the bank requests written confirmation of your oral stop-payment, you must provide it within 14 days or the stop-payment may expire.
+   - **For card-based recurring charges:** ask the issuer to place a "merchant block" or "recurring payment stop" on that specific payee.
 
-3. **Dispute it immediately (and don’t miss deadlines).**
-   - Tell your bank/card issuer: “This was **more than authorized**” or “I **revoked authorization** and it still processed.”
-   - Ask to open an error/unauthorized-transfer dispute (ACH/checking) or a billing error/charge dispute (card).
-   - Report it **promptly**, and ideally **within 60 days** of the statement date that first shows the transfer/charge.
+3. **File a formal dispute under Regulation E (for bank accounts) or Regulation Z (for credit cards).**
+   - Use the phrase: "This transaction was for an amount different than authorized" or "This was an unauthorized transfer because authorization was revoked."
+   - **For bank accounts:** the bank must generally provide "provisional credit" for the disputed amount within 10 business days if they require more time to investigate.
+   - **For credit cards:** you must submit your "billing error" notice in writing within 60 days of the statement date where the charge first appeared.
 
-4. **Revoke authorization with the company in writing (so it can’t be easily restarted).**
-   - Use the merchant’s support email, in-app help, or “contact us” form: “I did not authorize $X on DATE (I authorized $Y / I canceled on DATE). I revoke authorization for any further withdrawals/charges. Confirm in writing.”
-   - Save a screenshot of what you sent and any ticket/reference number.
+4. **Revoke authorization directly with the merchant in writing.**
+   - Send an email or portal message stating: "I hereby revoke all authorization for [Merchant Name] to debit my account effective immediately."
+   - Mention the 10-day advance notice rule if they pulled a variable amount without notifying you first (required for preauthorized transfers of varying amounts).
+   - Save the sent confirmation and any automated ticket numbers received.
 
-5. **If this was a lender and you still owe money, prevent accidental delinquency.**
-   - Ask the lender (in writing) for the correct amount due and how to make the next payment **manually** while autopay is paused.
-   - Ask them to correct any account notes if the overcharge caused you to stop the automatic debit.
+5. **Request a reversal of any secondary fees.**
+   - Ask your bank to waive or reverse overdraft fees, returned-item fees, or interest charges triggered by the unauthorized pull.
+   - Provide the dispute case number as the reason for the fee reversal request.
 
-6. **Protect essentials for the next 48 hours.**
-   - Turn on transaction and low-balance alerts so you’ll see repeat attempts immediately.
-   - If the extra pull affects rent, utilities, or food: call your bank, explain the dispute, and ask about **fee reversals** and any temporary options available while the dispute is reviewed.
+6. **Monitor for "resubmission" attempts.**
+   - Set "Low Balance" and "Transaction" alerts for your account to see if the merchant attempts to pull the money again under a slightly different name.
+   - If the merchant resubmits after a stop-payment, notify the bank immediately; this is a violation of NACHA rules and federal law.
 
-7. **If the bank or company won’t fix it, escalate through complaint channels.**
-   - If it’s a bank account, card issuer, or consumer lender problem, submit a complaint to the **Consumer Financial Protection Bureau (CFPB)**.
-   - If it’s a subscription/free-trial/auto-renewal charging or “can’t cancel” pattern, report it to the **FTC (ReportFraud.ftc.gov)** and consider your **state attorney general**.
+7. **Escalate to federal agencies if the bank or merchant refuses to comply.**
+   - Submit a complaint to the **Consumer Financial Protection Bureau (CFPB)** for bank or lender issues.
+   - Report subscription "traps" or deceptive cancellation practices to the **FTC** at ReportFraud.ftc.gov.
 
 ## What can wait
-- Deciding whether you’ll keep the service/loan long-term (beyond stopping the payment mechanism).
-- Replacing all autopays, changing banks, or rebuilding your budget. Stabilize the account first.
-- Writing a long narrative. A short timeline plus proof of authorization/cancellation is enough right now.
-- Negotiating anything beyond stopping repeats, reversing the overcharge, and undoing fees.
+- Determining if you will stay with the service or lender long-term.
+- Changing your entire banking relationship or moving all autopayments to a new card.
+- Drafting a detailed narrative of the history of the account; a simple "authorized $X, pulled $Y" is sufficient for the initial dispute.
+- Reviewing your total annual budget.
 
 ## Important reassurance
-This happens to lots of people because of billing glitches, double-processing, “recurring” permissions that didn’t stop, or a lender servicing error. You don’t need to solve the whole dispute today. Your job right now is to stop repeats and get a formal dispute on record.
+Unauthorized or incorrect debits are a common occurrence due to processing errors, system glitches, or merchant misconfigurations. These situations are covered by federal consumer protection laws (Regulation E and Regulation Z) designed to restore your funds when procedures are followed. High stress or frustration is a standard reaction to unexpected financial depletion.
 
 ## Scope note
-This is first steps only to stop further debits/charges and get the refund process moving. Contract questions (what you still owe, cancellation terms, and any credit reporting issues) may take follow-up and sometimes specialist help.
+This guide provides first-step stabilization to stop further losses and initiate the recovery of funds. It does not cover long-term credit reporting repair, contract law disputes regarding what you may still owe the merchant, or litigation strategies.
 
 ## Important note
-This guide is general information, not legal or financial advice. If you’re at risk of missing essentials because of the overcharge, prioritize basic living costs and contact your bank promptly to ask what emergency options and fee reversals may be available while the dispute is investigated.
+This information is for general guidance and does not constitute legal or financial advice. Jurisdictional rules under the Electronic Fund Transfer Act and Truth in Lending Act provide specific windows for action; missing these deadlines may result in a loss of recovery rights. Always consult with your financial institution's specific terms and conditions.
 
 ## Additional Resources
-- https://www.consumerfinance.gov/rules-policy/regulations/1005/10
-- https://www.consumerfinance.gov/rules-policy/regulations/1005/11
-- https://www.consumerfinance.gov/rules-policy/regulations/1026/13
 - https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/
-- https://www.consumerfinance.gov/complaint/
-- https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions
+- https://www.consumerfinance.gov/about-us/blog/you-have-protections-when-it-comes-to-automatic-debit-payments-from-your-account/
+- https://www.consumerfinance.gov/rules-policy/regulations/1005/10/
+- https://www.helpwithmybank.gov/help-topics/bank-accounts/electronic-transactions/automatic-withdrawal-preauthorized-payments/unauthorized-charges-monthly.html
+- https://consumer.ftc.gov/consumer-alerts/2023/05/how-stop-subscriptions-you-never-ordered

@@ -1,95 +1,87 @@
-﻿---
+---
 title: "What to do if… you are asked to train someone and you suspect they are replacing you"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - asked to train someone
-  - training my replacement
-  - train a new starter
-  - train a new hire
-  - train someone for my role
-  - handover to someone new
-  - being pushed out at work
-  - suspect redundancy coming
-  - role being phased out
-  - manager asked me to train
-  - job at risk signs
-  - sudden knowledge transfer request
-  - training duties added suddenly
-  - replacement hire rumour
-  - restructure warning signs
-  - worried about being sacked
-  - asked to document my job
-  - new colleague shadowing me
-last_reviewed: "2026-01-08"
+  - "locked out of payroll system"
+  - "locked out of hr system"
+  - "payroll login not working"
+  - "hr portal locked account"
+  - "account disabled before payroll run"
+  - "payroll deadline missed risk"
+  - "cannot access timesheets deadline"
+  - "cannot approve payroll cutoff"
+  - "cannot submit rti on time"
+  - "payroll processing access denied"
+  - "payroll administrator locked out"
+  - "hr admin locked out before cutoff"
+  - "urgent payroll access restore"
+  - "pay day risk due to lockout"
+  - "what do i do if i am locked out of payroll"
+  - "what do i do if my payroll login fails"
+  - "what do i do if hr system is down"
+  - "what do i do if i cannot process pay"
+  - "help i cannot access payroll system"
+  - "help i am locked out of work portal"
+  - "help i missed payroll cutoff"
+  - "help i cannot submit fps"
+  - "my payroll password is not working"
+  - "my hr account is disabled"
+  - "my mfa for payroll failed"
+  - "my sso is locked at work"
+  - "error message in payroll software"
+  - "cannot see payroll data"
+  - "payroll cutoff today help"
+  - "hmrc rti submission late"
+  - "access denied payroll screen"
+  - "forgotten payroll login details"
+  - "critical payroll deadline lockout"
+  - "locked out of payroll or hr systems"
+  - "locked out of payroll before deadline"
+  - "locked out of hr systems before deadline"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are asked to train someone and you suspect they are replacing you (UK)
 
 ## Short answer
-Stay calm, keep doing your job, and get the training request and the reason for it clarified in writing while you protect your options. Do not resign or refuse suddenly.
+Raise an immediate high-priority IT incident by phone and notify your payroll or HR lead in writing to activate documented emergency access or manual payment contingencies.
 
 ## Do not do these things
-- Do not accuse anyone of replacing you in the moment or send an angry message you can’t take back.
-- Do not refuse to train without first clarifying what’s being asked and what it means for your workload and role.
-- Do not resign “to get ahead of it” in a panic. (If there’s an immediate health/safety risk, get urgent support/advice first.)
-- Do not take or copy confidential company information “just in case”.
-- Do not rely on rumours as your only source of truth.
+- Do not share passwords, Multi-Factor Authentication (MFA) codes, or Allow-Lists with others to bypass security.
+- Do not use personal email or unapproved messaging apps to send sensitive employee payroll data.
+- Do not attempt to fix local hardware or network settings unless specifically instructed by IT.
+- Do not keep entering incorrect passwords as this may trigger a "hard lockout" or security audit.
+- Do not create "shadow" spreadsheets or unofficial workarounds that bypass financial controls.
 
 ## What to do now
-1. **Get the request pinned down in writing (or confirm it in writing).**  
-   Ask: what topics, which systems/processes, who the trainee is, how long it should take, and the deadline. Ask what work should be deprioritised to make time.
-
-2. **Ask the key question calmly: “Is my role changing?”**  
-   Keep it neutral: “Is this cross-training/cover, or is there a restructure/redundancy process I should be aware of?” If they answer verbally, email a brief summary of what you understood.
-
-3. **If they won’t confirm anything, ask what process this is.**  
-   Request clarity on whether this is normal coverage, performance management, a restructure, or redundancy planning — and ask who is the decision-maker for your role going forward.
-
-4. **Start a clean, private record of facts.**  
-   Note dates, who asked what, any changes to your duties/access, and anything said about headcount or “handover.” Keep it factual. Save relevant emails, meeting invites, objectives, and recent feedback.
-
-5. **Check your contract and policies today.**  
-   Find your notice period, job description, redundancy policy, and grievance policy (often in your handbook or intranet). You’re looking for what the employer says they will do when roles change.
-
-6. **Have one practical 1:1 with your manager (then write it up).**  
-   Focus on workload, priorities, and what “good” looks like for the training. Afterward, send a short follow-up email confirming the plan and any statements about your role.
-
-7. **If redundancy/restructure is hinted at, ask for the proper consultation steps.**  
-   If you’re told you’re “at risk,” ask what stage things are at, when consultation starts, how selections are made (if relevant), and what alternative roles exist.
-
-8. **Use support that exists in your workplace early.**  
-   If you’re in a union, contact your rep before anything escalates. If HR is involved, ask (in writing) what process applies and what to expect next.
-
-9. **If the situation feels unfair or unsafe, use the grievance route (starting informal).**  
-   Raise concerns as a process issue (unclear role status, inconsistent treatment, being set up to fail with workload). If that goes nowhere, use the formal grievance procedure and keep it evidence-based.
-
-10. **Keep the training professional and bounded.**  
-   Ask for a simple training plan and calendar time. Confirm that your normal deliverables are adjusted so you’re not later criticised for “missed work” or “poor cooperation.”
-
-11. **If you’re dismissed or pushed out quickly, get things in writing and act promptly.**  
-   Ask for the reason in writing. In some situations employers must provide written reasons; even when not required, a written explanation can help you understand your position and next steps. If you’re considering a claim, be aware tribunal time limits are tight and Acas Early Conciliation is a key early step.
+1. **Log the exact details of the failure immediately.** Note the system name, the specific error message or code, and the exact time the lockout occurred.
+2. **Attempt the official Single Sign-On (SSO) or password reset tool exactly once.** If this does not resolve the issue within 60 seconds, stop and escalate to avoid further account restrictions.
+3. **Contact the IT Service Desk by phone for a high-priority incident.** State clearly that this is a "time-critical payroll/HR risk" affecting a legal deadline (e.g., FPS submission or BACS cutoff).
+4. **Obtain a ticket number and an estimated resolution time.** Ask for the specific team name (e.g., Identity Management or Cyber Security) currently handling the request.
+5. **Formally notify your manager and the Payroll Lead in writing.** Include the IT ticket number and the specific tasks currently blocked (e.g., "Cannot approve April 2026 SSP Day One payments").
+6. **Request the activation of the "Emergency Access" or "Break-Glass" protocol.** Ask the system owner or IT Lead: "Who is the designated backup for this approval/submission while my access is restored?"
+7. **Verify the organization’s manual contingency process if the cutoff is under 2 hours away.** Confirm whether an emergency payment run or an out-of-cycle BACS file is an approved option.
+8. **Prepare the necessary data for a delegated user via secure channels only.** If another authorized person must take over, provide only the required files using the employer’s encrypted file-transfer system.
+9. **Record the incident for HMRC "Reasonable Excuse" documentation.** If a Full Payment Submission (FPS) will be late, ensure the payroll lead is prepared to use Late Reporting Reason Code 'G' (Reasonable Excuse) in the software.
 
 ## What can wait
-- You do not need to decide today whether to quit, “fight,” or start a full job search.
-- You do not need to confront the new person or warn colleagues.
-- You do not need to write a long complaint right now; first get clarity and capture facts.
-- You do not need to negotiate severance or settlement until something concrete is proposed.
+- You do not need to determine the root cause of the lockout right now.
+- You do not need to start an internal investigation into why the MFA failed.
+- You do not need to rewrite your local password policy or security procedures.
+- You do not need to provide a formal post-incident report until the immediate pay run is secure.
 
 ## Important reassurance
-Feeling blindsided by a sudden “train them” request is common and understandable. Sometimes it’s genuinely cover or cross-training; sometimes it signals a planned change. Staying calm, getting clarity in writing, and keeping a factual record protects you either way.
+System lockouts are common during peak processing times or MFA updates. Most large UK organizations have "break-glass" procedures or delegated authorities specifically designed for payroll emergencies. Escalating early provides the business with the legal time buffer needed to use HMRC’s 3-day administrative grace period if necessary.
 
 ## Scope note
-These are first steps only. If this becomes redundancy, dismissal, discrimination, retaliation, or whistleblowing-related, the right next move depends on your exact facts and timelines.
+This guide covers first-step stabilization for administrative users of payroll and HR systems in the UK. It does not cover technical system-wide outages or long-term dispute resolution.
 
 ## Important note
-This is general information, not legal advice. Employment rights and processes depend on your status, contract terms, length of service, and what your employer is actually doing. If you think the situation is moving fast or involves an unlawful reason, get independent advice promptly.
+This information is for general guidance and does not constitute legal, financial, or tax advice. Payroll compliance in 2026 is subject to specific HMRC Real Time Information (RTI) rules and the Fair Work Agency enforcement standards. Always follow your internal Data Protection and IT Security policies when handling employee information.
 
 ## Additional Resources
-- https://www.acas.org.uk/how-to-raise-a-problem-at-work
-- https://www.acas.org.uk/grievance-procedure-step-by-step
-- https://www.gov.uk/raise-grievance-at-work
-- https://www.acas.org.uk/early-conciliation/how-early-conciliation-works
-- https://www.acas.org.uk/employment-tribunal-time-limits
+- https://www.acas.org.uk/your-rights-during-redundancy
 - https://www.acas.org.uk/your-rights-during-redundancy/how-your-employer-must-consult-you
-- https://www.acas.org.uk/dismissals/unfair-dismissal
+- https://www.acas.org.uk/your-rights-during-redundancy/taking-another-job-with-your-employer
+- https://www.citizensadvice.org.uk/work/redundancy/check-your-rights-if-youre-made-redundant/if-youre-being-made-redundant/your-employer-offers-you-another-job/
+- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees/if-your-employer-proposes-to-dismiss-and-rehire-you

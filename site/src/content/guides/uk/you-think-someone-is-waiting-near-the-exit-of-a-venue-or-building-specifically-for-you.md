@@ -1,89 +1,87 @@
-﻿---
+---
 title: "What to do if… you think someone is waiting near the exit of a venue or building specifically for you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - someone waiting outside for me
-  - person waiting by the exit
-  - unsafe leaving a venue
-  - unsafe leaving a building
-  - i think i'm being followed
-  - someone targeting me at exit
-  - suspicious person near doorway
-  - worried someone is after me
-  - leaving alone feels unsafe
-  - being watched outside venue
-  - stalker waiting outside
-  - harassment outside a building
-  - fear at the exit
-  - threatened when leaving
-  - someone in the car park
-  - anxious about walking out
-  - someone waiting for me outside
-  - personal safety at night out
-last_reviewed: "2026-01-11"
+  - "someone waiting outside for me"
+  - "person waiting by the exit"
+  - "unsafe leaving a venue"
+  - "unsafe leaving a building"
+  - "i think i'm being followed"
+  - "someone targeting me at exit"
+  - "suspicious person near doorway"
+  - "worried someone is after me"
+  - "leaving alone feels unsafe"
+  - "being watched outside venue"
+  - "stalker waiting outside"
+  - "harassment outside a building"
+  - "fear at the exit"
+  - "threatened when leaving"
+  - "someone in the car park"
+  - "anxious about walking out"
+  - "someone waiting for me outside"
+  - "personal safety at night out"
+  - "what do i do if someone is waiting for me"
+  - "what do i do if i am being followed"
+  - "what do i do if i feel unsafe leaving"
+  - "what do i do if i am being watched"
+  - "help i think someone is following me"
+  - "help i am scared to leave the building"
+  - "help i am being targeted at an exit"
+  - "help i am being stalked outside"
+  - "man waiting at exit"
+  - "car waiting at exit"
+  - "suspicious vehicle outside building"
+  - "person loitering near door"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you think someone is waiting near the exit of a venue or building specifically for you (UK)
 
 ## Short answer
-Don’t leave alone. Stay inside with staff and other people, and ask venue staff/security to help you leave safely (or call 999 if you feel in immediate danger).
+Stay inside the building and immediately inform staff or security that you feel unsafe leaving. Do not attempt to exit the building alone or via unmonitored exits while the person is present.
 
 ## Do not do these things
-- Don’t “just be quick” and slip out alone to test whether they’re really there.
-- Don’t confront them or try to film them at close range.
-- Don’t go to a car park/side exit alone “to check”.
-- Don’t post your location or exit plan on social media or in a chat where it could be seen.
-- Don’t go straight home if you think you’re being followed.
+- Do not attempt to exit quickly or "test" if the person is still there by opening the door.
+- Do not confront the person or approach them to ask why they are there.
+- Do not go to a car park, side alley, or basement exit alone.
+- Do not post your situation or your specific exit plan on public social media.
+- Do not go directly to your home if you suspect you are being followed after leaving.
 
 ## What to do now
-1. **Move away from the exit and get to a staffed area.** Go to the bar/reception/security point or ask to wait in an office/back room. Stay with other people if you can.
-2. **Tell staff clearly what you need.** Say: “I think someone is waiting outside for me and I don’t feel safe leaving.” Ask for:
-   - a manager/security person now,
-   - a **safe place to wait** away from doors/windows,
-   - an **escort** to your taxi/car/public transport,
-   - staff to **watch the exit** while you leave,
-   - a **different exit** if available.
-3. **If the venue has a code-phrase scheme, use it.** Some venues use a discreet help phrase (for example, “Ask for Angela”). If you’re unsure, simply ask staff for help directly.
-4. **Call police if you feel in immediate danger.**
-   - If a crime is in progress or you think harm is likely: **call 999**.
-   - If you can’t speak on a mobile call to 999: stay on the line, make any safe noise (like coughing/tapping) if asked, and **press 55 when prompted** to confirm it’s a genuine emergency.
-5. **Change the “exit conditions,” not your courage level.** Leave only when at least one is true:
-   - you’re leaving **with staff or a group**,
-   - you’re leaving via a **different exit**,
-   - your **transport is ready** and you can go straight to it,
-   - staff can **observe from inside** until you’re away.
-6. **Make leaving a single, supported move.** Go directly to your transport with an escort. If using a taxi/rideshare:
-   - have staff help you **wait until it arrives**,
-   - leave only when you can get in immediately,
-   - check you’re getting into the **right vehicle** before you step outside.
-7. **If you think you’re being followed after you leave, don’t go home.** Go to a **busy, well-lit public place** and call **999** if you feel at risk. If you’re driving, keep moving to a safe public location rather than stopping somewhere isolated.
-8. **Capture key details without escalating risk.** From inside (or via staff), note:
-   - appearance/clothing and where they’re positioned,
-   - time and what happened,
-   - any vehicle details you can safely see.
-   Ask staff to **note the time** and **preserve any CCTV**.
-9. **Once you’re safe, message one trusted person.** Share where you are now, where you’re going next, and what you want them to do (for example: stay on the phone while you get inside).
+1. **Move to a staffed, well-lit area immediately.** Locate a bar, reception desk, or security point and stay within sight of employees and other members of the public.
+2. **State your concern clearly to a staff member.** Tell them: "I believe someone is waiting for me outside and I do not feel safe leaving the building alone."
+3. **Ask for specific safety measures from the venue.**
+   - Request that security or a manager monitors the exit.
+   - Ask for a safe, private place to wait until your transport arrives.
+   - Request an escort to your vehicle or public transport stop.
+   - Check if there is a secondary, monitored exit you can use.
+4. **Use the "Ask for Angela" code-phrase if the venue is a participating bar or club.** If you feel you cannot speak openly, approach staff and ask, "Is Angela working tonight?" This alerts staff that you need discreet assistance.
+5. **Call 999 if you believe you are in immediate danger of harm.**
+   - If you cannot speak, use the **Silent Solution** protocol: dial 999 and stay on the line.
+   - When prompted by the automated system, **press 55** to be transferred to a police handler.
+   - Once connected, listen to the handler’s questions; you can respond by **coughing or tapping the handset** if you cannot speak.
+6. **Ensure your transport is directly outside before you exit.** If using a taxi or rideshare app, wait inside until the app confirms the driver has arrived and you have verified the vehicle registration and driver identity.
+7. **Leave only as part of a group or with an escort.** Do not step outside until you are accompanied by staff or trusted friends who will remain with you until you are inside your transport.
+8. **Provide a description of the individual to staff or police.** Note their clothing, approximate height, and any vehicle they may be using, but do not move closer to the windows or doors to get a better look.
+9. **Go to a "place of safety" if you think you are being followed after leaving.** If you are walking or driving and realize the person is following you, do not go to your home. Go to a 24-hour petrol station, a police station, or a busy public hospital.
 
 ## What can wait
-- Deciding whether this “counts” as stalking/harassment or whether you want to report formally.
-- Writing a full timeline (a few accurate notes and times are enough tonight).
-- Any longer-term safety changes (routes, routines, workplace/school involvement).
+- Deciding whether you want to press formal charges or make a full witness statement.
+- Reviewing your social media privacy settings or changing your daily routine.
+- Investigating who the person was or why they were waiting for you.
 
 ## Important reassurance
-It’s reasonable to treat this as real until you’re safely away. You don’t need proof to ask staff for help or to wait longer inside.
+Feeling hesitant or anxious about leaving a building is a valid response to an perceived threat. You do not need to prove the person intends harm before you are allowed to ask for help or wait in a safe area. Professional staff in public venues are trained to handle these requests and prioritize your safety.
 
 ## Scope note
-This is first-steps guidance for the next minutes to hours. If this is part of a repeated pattern, specialist support can help you plan safely without handling it alone.
+This guide provides immediate stabilization steps for an acute safety concern at a physical exit. It does not cover long-term protection orders, forensic evidence collection, or legal proceedings related to stalking or harassment.
 
 ## Important note
-This guide is general information, not legal advice or a substitute for emergency services. If you feel in immediate danger, call 999.
+This information is for safety guidance only and does not constitute legal advice. In any situation where you feel your life or safety is at risk, your primary action should be contacting emergency services by dialling 999.
 
 ## Additional Resources
-- https://www.gov.uk/contact-police
-- https://www.police.uk/pu/contact-us/
-- https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
-- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
-- https://www.met.police.uk/askforangela
+- https://www.westmidlands.police.uk/police-forces/west-midlands-police/areas/campaigns/campaigns/safer-nights-out/
+- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-to-do-if-youre-being-stalked-or-harassed/
 - https://www.gov.uk/report-stalker
-- https://www.suzylamplugh.org/pages/category/national-stalking-helpline
+- https://www.suzylamplugh.org/how-can-the-helpline-help
+- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/protective-orders/

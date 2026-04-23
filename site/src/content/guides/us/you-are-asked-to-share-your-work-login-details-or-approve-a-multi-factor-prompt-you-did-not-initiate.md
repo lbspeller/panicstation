@@ -1,93 +1,87 @@
-﻿---
+---
 title: "What to do if… you are asked to share your work login details or approve a multi-factor prompt you did not initiate"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - asked to share work login
-  - share work password request
-  - someone asked for my login
-  - approve mfa prompt not mine
-  - unexpected mfa push notification
-  - mfa prompt spam at work
-  - mfa fatigue push bombing
-  - 2fa prompt i did not request
-  - work account social engineering
-  - phishing message from it
-  - boss asked for my password
-  - colleague asked for login details
-  - verification code request at work
-  - approve sign-in request
-  - work email hacked concern
-  - work account takeover fear
-  - fake helpdesk call
-  - suspicious teams slack message
-last_reviewed: "2026-01-07"
+  - "external investigator contact"
+  - "lawyer called about my job"
+  - "outside attorney asking questions"
+  - "workplace investigation interview"
+  - "asked for a statement at work"
+  - "unsure what to disclose"
+  - "pressured to talk to investigator"
+  - "asked to send work documents"
+  - "subpoena from workplace lawyer"
+  - "government investigator contacted me"
+  - "private investigator calling about work"
+  - "interview with company lawyer"
+  - "confidentiality at work question"
+  - "unexpected call about workplace incident"
+  - "what do i do if an investigator calls"
+  - "what do i do if a lawyer emails me"
+  - "what do i do if i am served a subpoena"
+  - "what do i do if hr wants a statement"
+  - "help i am being investigated at work"
+  - "help i have a workplace interview"
+  - "my boss wants me to talk to a lawyer"
+  - "my employer sent an investigator"
+  - "smell of fraud investigation"
+  - "notice of interview"
+  - "request for records"
+  - "legal demand for files"
+  - "third party investigation"
+  - "unidentified caller about workplace"
+  - "suspicious legal inquiry"
+  - "deposition request at work"
+  - "workplace incident witness"
+  - "workplace misconduct inquiry"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are asked to share your work login details or approve a multi-factor prompt you did not initiate (USA)
+
 ## Short answer
-Do **not** share your login details and do **not** approve the prompt. Assume it may be phishing or repeated push prompts meant to pressure you, and contact your company’s **IT/help desk or security team using a trusted method** immediately.
+Do not provide substantive answers or documents immediately. Request the caller's credentials in writing, verify their identity independently, and determine if the request is voluntary or legally compelled before responding.
 
 ## Do not do these things
-- Do not share your password, MFA code, “push” approval, backup codes, or recovery info — even with someone claiming to be IT, HR, your manager, or a vendor.
-- Do not approve an MFA push/verification prompt you didn’t initiate, even “to clear it” or because you’re busy.
-- Do not click links or install “support” software sent by the person who contacted you.
-- Do not continue the conversation in the same channel that contacted you (replying to that email, clicking their ticket link, calling their callback number).
-- Do not delay reporting because you’re embarrassed or unsure — speed matters.
-- Do not wipe devices or delete messages unless your IT/security team tells you to (it can remove evidence they need).
+- Do not transfer, email, or upload work files to personal accounts or external devices.
+- Do not delete, modify, or "clean up" electronic communications or physical records.
+- Do not speculate or guess during an initial contact; "I don't recall" or "I need to check" are valid responses.
+- Do not sign any summaries, declarations, or statements without a prior professional review.
+- Do not use work-issued devices or email to seek private legal advice, as these systems are subject to employer monitoring.
+- Do not record conversations secretly; even in one-party consent states, workplace policy often prohibits unauthorized recording and can be grounds for termination.
 
 ## What to do now
-1. **Stop and refuse the request.**  
-   - If it’s an MFA push: tap **Deny/Reject** (or ignore it).  
-   - If it’s a person: say “I can’t share login details or approve prompts I didn’t start” and end the interaction.
-
-2. **Report it through a trusted company channel immediately.**  
-   Use your known help desk number, internal portal, or corporate directory — not any contact info in the suspicious message. Tell them:  
-   - what you were asked to do,  
-   - when it happened,  
-   - how you were contacted, and  
-   - whether you clicked/typed/approved anything.
-
-3. **If you already shared or approved, treat it as urgent and say so plainly.**  
-   Ask IT/security to immediately secure the account (password reset, forced sign-out, token/session revocation, account lock, log review). This is routine for them — the key is speed and clarity.
-
-4. **From a known-safe device, take the safest immediate account steps you can.**  
-   If you’re allowed to act before IT responds, typical safe steps include:  
-   - changing your password using your normal corporate sign-in page/app, and  
-   - checking for obvious account changes (new recovery email/phone, unfamiliar devices, unexpected email forwarding/inbox rules).
-
-5. **If you think a device might be compromised, stop using it and follow IT/security instructions.**  
-   If you clicked a link, opened a strange attachment, or installed something, tell IT/security. If your policy allows, they may ask you to disconnect from the network or power down — don’t guess; follow their steps.
-
-6. **Capture evidence and send it to IT/security via your normal process.**  
-   Take screenshots of the prompt/message (timestamps, sender, request text, phone number/chat handle). Don’t forward suspicious links broadly; let security handle analysis.
-
-7. **If you’re not in a workplace with responsive IT (or this hit a personal account used for work), use established reporting routes — only if your employer’s policy allows external reporting.**  
-   - Forward phishing emails to **reportphishing@apwg.org**.  
-   - Forward phishing text messages to **SPAM (7726)** (on a US mobile device).  
-   - Report scams/phishing to the FTC at **ReportFraud.ftc.gov**.
-
-8. **If there’s financial loss or a clear cyber-enabled fraud incident, consider reporting to the FBI’s IC3.**  
-   Use the official site **ic3.gov** (type it directly in your browser). Keep your employer informed if it relates to work systems or funds.
+1. **Request a formal written summary of the request.** Ask the contact to provide:
+   - Their full name, firm or agency name, and the specific party they represent.
+   - The specific purpose of the inquiry (e.g., witness interview, document production).
+   - Whether the request is voluntary or served via legal process (e.g., subpoena or civil investigative demand).
+2. **Verify the identity of the person contacting you.** Use a verified main office phone number from the agency’s or law firm’s official website to confirm the individual is who they claim to be.
+3. **Determine your right to representation based on your employment type.** 
+   - **If you are a union-represented employee:** You have "Weingarten Rights" to have a union representative present during any interview you reasonably believe could lead to discipline. State clearly: "I request my union representative be present before we continue."
+   - **If you are a public sector (government) employee:** You may have "Garrity Rights" protecting you from having compelled statements used against you in criminal proceedings. Ask if the statement is being compelled under threat of termination.
+   - **If you are a non-union private sector employee:** You generally do not have a legal right to a witness or co-worker present under federal law, but you may still request one according to company policy.
+4. **Identify the specific nature of the warning (Upjohn Warning).** If the interviewer is the company’s lawyer, they should inform you that they represent the company and not you personally. **Confirm this by asking, "Do you represent me or the company?"** and "Is this conversation privileged for the company only?"
+5. **Seek independent legal advice if you fear personal liability or retaliation.** If the inquiry involves fraud, safety violations, or harassment where you are a witness or potential subject, consult your own attorney before sharing details. **Do not notify your employer of the contact until you have assessed whether doing so creates a conflict of interest.**
+6. **Preserve all relevant data in its current state.** Keep original emails, documents, and logs exactly where they are. If you receive a "Legal Hold" or "Litigation Hold" notice, follow its instructions strictly to avoid allegations of evidence destruction (spoliation).
+7. **Address formal legal papers with urgency.** If you are served with a subpoena or summons, note the date and method of service immediately. **Consult an attorney regarding the deadline to respond or move to quash the demand.**
 
 ## What can wait
-- You do not need to prove it was malicious before reporting — “something felt off” is enough.
-- You do not need to message everyone yourself — IT/security can notify affected teams without spreading a bad link.
-- You do not need to decide now whether this becomes an HR issue — first priority is account containment.
-- You do not need to overhaul every password immediately — focus on the targeted work account and follow incident guidance.
+- You do not need to provide a narrative or timeline during the first five minutes of contact.
+- You do not need to decide whether to cooperate with a voluntary request immediately.
+- You do not need to review your entire employment history or file system today.
 
 ## Important reassurance
-These requests are a common social-engineering tactic. Attackers rely on urgency and authority to make people comply. Denying the prompt and reporting through a trusted channel is the correct response — even if it turns out to be a false alarm.
+It is a standard professional procedure to request written details and time to consult with counsel before participating in a legal or investigatory interview. Taking these steps is a protective measure and does not imply guilt or lack of cooperation.
 
 ## Scope note
-These are immediate stabilization steps. Your organization may have specific incident response, HR, compliance, and notification procedures that follow.
+This guide addresses the first minutes and hours of contact. Long-term strategy depends on whether the inquiry is a civil lawsuit, a criminal investigation, or an internal compliance audit.
 
 ## Important note
-This guide is general information, not legal or professional advice. Follow your employer’s IT/security policies and directions, especially during an active incident.
+This information is for general stability and does not constitute legal advice. Laws regarding workplace recording, employee rights, and subpoenas vary significantly by state and sector. For specific protection, consult a licensed attorney in your jurisdiction.
 
 ## Additional Resources
-- https://www.ftc.gov/business-guidance/small-businesses/cybersecurity/phishing
+- https://www.ftc.gov/business-guidance/small-businesses/cybersecurity
+- https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business-0
+- https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts
 - https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
-- https://apwg.org/reportphishing
-- https://www.ic3.gov/
-- https://complaint.ic3.gov/
+- https://consumer.ftc.gov/node/77537

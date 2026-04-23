@@ -1,92 +1,98 @@
-﻿---
+---
 title: "What to do if… an infant under three months has a fever or feels unusually sleepy"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - newborn fever
-  - baby under 3 months fever
-  - infant temperature 38c
-  - baby feels hot under 12 weeks
-  - baby unusually sleepy
-  - hard to wake newborn
-  - very sleepy baby not waking
-  - lethargic baby under 3 months
-  - newborn not feeding and sleepy
-  - baby floppy or limp
-  - newborn unwell sudden
-  - fever in young infant
-  - baby not themselves under 3 months
-  - infant drowsy and warm
-  - under 90 days fever
-  - fever after vaccinations baby
-  - worried newborn fever
-  - under 8 weeks very worried
-last_reviewed: "2026-01-21"
+  - "infant fever under 3 months"
+  - "newborn high temperature"
+  - "baby unusually sleepy"
+  - "lethargic infant help"
+  - "what do i do if baby has a fever"
+  - "what do i do if my newborn is too sleepy to wake"
+  - "help i think my baby has a fever"
+  - "help my baby is floppy and hot"
+  - "my baby feels hot and won't wake up"
+  - "my infant is unusually drowsy"
+  - "infant temperature 38 degrees celsius"
+  - "baby temperature 38c or higher"
+  - "infant temperature 36 degrees or lower"
+  - "newborn cold hands and feet with fever"
+  - "baby skin looks mottled or blue"
+  - "baby breathing very fast or grunting"
+  - "non fading rash glass test"
+  - "bulging soft spot baby"
+  - "sunken fontanelle infant"
+  - "hard to wake newborn baby"
+  - "lethargic baby under 90 days"
+  - "fever after 8 week vaccinations"
+  - "menb vaccine fever baby"
+  - "newborn temperature check armpit"
+  - "infant lethargy assessment"
+  - "unwell baby under 12 weeks"
+  - "baby fever uk nhs"
+  - "newborn sepsis signs"
+  - "infant meningitis symptoms"
+  - "newborn high pitched cry"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… an infant under three months has a fever or feels unusually sleepy (UK)
+
 ## Short answer
-Treat this as urgent. If your baby is under 3 months and has a temperature of **38°C or higher** (or you strongly suspect a fever), **call NHS 111 or your GP urgently**—and if they **will not wake up normally**, are very floppy, or breathing is a struggle, **call 999 or go to A&E now**.
+Treat a fever in a baby under 3 months as a medical emergency. If your baby has a temperature of **38°C or higher** (or **36°C or lower**), or they are **unusually sleepy and hard to wake**, call **999** or go to the nearest **A&E** immediately.
 
 ## Do not do these things
-- Do not “wait it out” because the fever seems mild—under 3 months needs urgent advice.
-- Do not rely on touch alone to decide it’s safe; check a temperature if you can.
-- Do not cool them with cold baths, ice packs, or rubbing alcohol.
-- Do not overdress or tightly wrap them.
-- Do not give **paracetamol to a baby under 2 months** unless a clinician tells you to.
-- Do not give **ibuprofen to a baby under 3 months** unless a doctor has prescribed/advised it.
-- Do not give aspirin.
-- Do not drive yourself if you feel you cannot stay calm or your baby seems to be getting worse quickly—use 999.
+- Do not wait to see if the fever goes down on its own; young infants escalate quickly.
+- Do not rely on feeling the forehead; use a digital thermometer in the armpit.
+- Do not give paracetamol to a baby under 2 months unless instructed by a doctor.
+- Do not give ibuprofen to any baby under 3 months or under 5kg.
+- Do not use cold water, ice, or alcohol rubs to cool the baby.
+- Do not strip the baby naked; keep one light layer of clothing on.
+- Do not drive yourself to the hospital if you are too distressed to drive safely.
 
 ## What to do now
-1. **Get to a calmer pause (30–60 seconds).** Put your baby on a firm, flat surface (or hold them securely) so you can watch breathing and responsiveness.
-2. **If any of these are happening, treat it as an emergency: call 999 or go to A&E now.**
-   - They **will not wake up normally**, are very floppy/limp, or are not responding in their usual way
-   - Breathing looks like hard work (grunting, very fast breathing, long pauses, chest “sucking in”)
-   - Skin/lips look blue, very pale, mottled, or they feel unusually cold as well as unwell
-   - A spotty purple/red rash that **does not fade** when you press the side of a clear glass against it
-   - A seizure/fit, or you are seriously alarmed by how different they seem
-   - They are **under 8 weeks** and you are **very worried**
-3. **Check a temperature if you can (but don’t delay emergency help if they look very unwell).**
-   - Use a **digital thermometer in the armpit**.
-   - Note the number and the time you took it.
-4. **If the temperature is 38°C or higher, or you strongly suspect a fever: call NHS 111 or your GP urgently.**
-   - Start with: “**Baby under 3 months** … temperature **38 or above** / unusually sleepy.”
-   - Follow the advice you’re given (they may send you to an urgent assessment service or A&E).
-5. **If the main worry is “unusually sleepy,” treat that as urgent even without a confirmed temperature.**
-   - If they are **too sleepy to feed normally**, much harder to wake than usual, or “not themselves,” call NHS 111/GP urgently; if they **won’t wake**, use **999/A&E**.
-6. **While you’re getting help, do simple supportive steps:**
-   - Keep them **lightly dressed** (one layer more than you).
-   - Offer feeds as normal; if breastfed, offer more frequently. Don’t force.
-   - Note wet nappies today (fewer than usual can matter), and any vomiting/rash/breathing changes.
-7. **Write down 6 quick facts (takes 1 minute) to tell the clinician:**
-   - Age in weeks, highest temperature and when, how alert they are,
-   - Feeding amount/frequency, wet nappies today,
-   - Any rash/breathing changes/vomiting,
-   - Any recent vaccinations (and when),
-   - Any medicines already given (name/time).
-8. **Be ready to leave if asked.**
-   - Take the **red book**, a spare nappy, wipes, a blanket, and your notes.
+1. **Check for immediate life-threatening "Red Flag" symptoms.** **Call 999 or go to A&E now if your baby:**
+   - Is difficult to wake, unusually floppy, or does not respond to your voice/touch.
+   - Has blue, pale, grey, or mottled (blotchy) skin, lips, or tongue.
+   - Is making grunting noises with every breath or their chest is "sucking in" under the ribs.
+   - Has a high-pitched, weak, or continuous cry that is not normal for them.
+   - Has a rash that does not fade when a glass is pressed firmly against it.
+   - Has a bulging or sunken soft spot (fontanelle) on the top of their head.
+2. **Take the baby's temperature using a digital thermometer in the armpit.** **Place the thermometer tip in the centre of the armpit and hold the arm tucked close to the body for the time required (usually until it beeps).**
+   - A high temperature is **38°C (100.4°F)** or higher.
+   - A dangerously low temperature is **36°C (96.8°F)** or lower.
+3. **Contact urgent medical help if the baby has a fever but no "Red Flag" symptoms.** **If the temperature is 38°C+ or 36°C- and they are under 3 months, call 999 or go to A&E immediately.**
+   - If you are unsure or the baby is slightly older than 3 months, call **NHS 111** or your **GP surgery** urgently.
+   - Tell the operator: "I have a [number]-week-old baby with a fever of [temperature]."
+4. **Follow specific guidance for the 8-week MenB vaccination if applicable.** **If your baby is 8 weeks old and had their MenB vaccine in the last 48 hours, a fever is common.**
+   - You may give infant paracetamol if you were advised to do so at the appointment.
+   - However, if the baby is lethargic, has a rash, or you are still worried, seek urgent medical review regardless of the vaccine.
+5. **Keep the baby hydrated and monitored while waiting for help.** **Continue breastfeeding or bottle-feeding as normal, offering smaller feeds more frequently if they seem tired.**
+   - Do not force-feed.
+   - Keep the baby in a single light layer of clothing.
+6. **Prepare essential information for the medical team.** **Note down the following facts to tell the doctor or 111 operator:**
+   - The baby's exact age in weeks.
+   - The highest temperature recorded and the time it was taken.
+   - Any other symptoms (vomiting, fewer wet nappies, unusual crying).
+   - Any medications given and the exact time they were administered.
 
 ## What can wait
-- You do not need to work out the cause right now.
-- You do not need to try “cooling tricks” (sponging/cold baths/over-undressing).
-- You do not need to decide about tests or treatment—focus on **urgent clinical assessment**.
-- If the fever started soon after routine vaccinations, that can happen—still get urgent advice if your baby is under 3 months and you’re worried or they seem unwell.
+- You do not need to identify the cause of the fever yourself.
+- You do not need to worry about "spoiling" a sleep routine; focus on medical assessment.
+- You do not need to search for home remedies or cooling techniques.
+- You do not need to wait for a GP callback if the baby's condition is worsening; go straight to A&E.
 
 ## Important reassurance
-It’s normal to feel frightened when a very young baby seems hot or unusually sleepy. Acting quickly here is the right kind of caution—clinicians would rather assess early.
+It is standard medical practice in the UK to investigate any fever in a baby under 3 months very thoroughly. Feeling panicked is a normal response to an infant’s illness; acting immediately by seeking professional help is the most effective way to ensure their safety.
 
 ## Scope note
-These are first steps only: urgent safety checks, taking a temperature, and getting the right UK help fast.
+This guide provides first-step stabilization and UK-specific escalation protocols for infants under 90 days. It is not a substitute for clinical diagnosis.
 
 ## Important note
-This is general information, not a diagnosis. If your baby seems to be getting worse, is hard to wake, or is having trouble breathing, seek urgent medical help immediately.
+Fever in very young infants can be a sign of serious infection. Always trust your instincts. If you are worried that your baby is "not themselves" or looks unwell, seek urgent medical advice even if their temperature is normal.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/fever-in-children/
 - https://www.nhs.uk/baby/health/how-to-take-your-babys-temperature/
 - https://www.nhs.uk/baby/health/is-your-baby-or-toddler-seriously-ill/
-- https://www.what0-18.nhs.uk/worried-your-baby-unwell-under-3-months-2/worried-about-your-baby/fever-high-temperature
-- https://www.nhs.uk/medicines/paracetamol-for-children/
-- https://www.nhs.uk/medicines/ibuprofen-for-children/who-can-and-cannot-take-ibuprofen-for-children/
+- https://notts.icb.nhs.uk/your-services/childrens-health-and-wellbeing/concerned-your-newborn-baby-is-unwell-less-than-3-months/my-baby-has-fever-high-temperature/
+- https://www.blackcountry0-18.nhs.uk/parentscarers/worried-your-child-unwell/fever-high-temperature/

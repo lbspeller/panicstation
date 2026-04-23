@@ -1,102 +1,96 @@
-﻿---
+---
 title: "What to do if… officials contact you because a person who died was involved in a legal case and they need family input quickly"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - officials contacting family after death
-  - urgent request after bereavement
-  - police call after someone died
-  - coroner office contacting next of kin
-  - procurator fiscal contacting family
-  - inquest family input quickly
-  - fatal accident inquiry scotland
-  - court contacting family member
-  - prosecution service contacting bereaved family
-  - legal case involving deceased person
-  - verify official caller uk
-  - possible scam pretending to be police
-  - case reference number request
-  - next of kin point of contact
-  - executor not yet appointed
-  - asked to decide quickly after death
-  - provide statement about deceased
-  - release of information about deceased
-last_reviewed: "2026-03-03"
+  - "officials contacting family after death"
+  - "urgent request after bereavement"
+  - "police call after someone died"
+  - "coroner office contacting next of kin"
+  - "procurator fiscal contacting family"
+  - "inquest family input quickly"
+  - "fatal accident inquiry scotland"
+  - "court contacting family member"
+  - "prosecution service contacting bereaved family"
+  - "legal case involving deceased person"
+  - "verify official caller uk"
+  - "possible scam pretending to be police"
+  - "case reference number request"
+  - "next of kin point of contact"
+  - "executor not yet appointed"
+  - "asked to decide quickly after death"
+  - "provide statement about deceased"
+  - "release of information about deceased"
+  - "what do i do if the police call about a death"
+  - "what do i do if a coroner calls"
+  - "what do i do if the procurator fiscal calls"
+  - "what do i do if i need to verify an official"
+  - "help i am being asked for a statement about a death"
+  - "help i am being asked for documents after a death"
+  - "my relative died and the police are calling"
+  - "my relative was in a court case and died"
+  - "crown office scotland contact"
+  - "coroner officer england wales"
+  - "bereavement legal request"
+  - "death in custody scotland legal aid"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… officials contact you because a person who died was involved in a legal case and they need family input quickly (UK)
 
 ## Short answer
-Pause and verify who is contacting you before you share any information. Then get the exact case reference, what they need from the family, and the deadline—preferably in writing.
+End the contact immediately to verify the caller's identity through an official switchboard before sharing any information. Request all details, case references, and deadlines in writing to allow for a stabilized response.
 
 ## Do not do these things
-- Don’t give personal details, documents, or money just because someone sounds “official” or urgent.
-- Don’t rely on caller ID, a logo in an email, or a forwarded message as proof.
-- Don’t agree to be the “family representative” on the spot if you’re not sure you can manage it.
-- Don’t guess answers (dates, addresses, relationships, medical details) under pressure.
-- Don’t hand over original documents (keep originals; share copies only when you’re satisfied it’s genuine).
-- Don’t post details of the case or the death on social media while things are still active.
+- Don't provide personal data, bank details, or original documents during an unsolicited call or email.
+- Don't rely on digital credentials like caller ID or email logos as proof of identity.
+- Don't feel pressured to make a formal statement or legal decision in the first conversation.
+- Don't guess details about the deceased person's relationships or finances under pressure.
+- Don't share details of the death or the legal case on social media.
 
 ## What to do now
-1. **If anyone is in immediate danger or you feel unsafe, call 999 first.** If not, get to a calmer pause before you continue the conversation.
-2. **Write down the basics.** Time/date, name, organisation, phone number, email, what they asked for, and any “reference/case number”.
-3. **Verify the contact independently before discussing details.**
-   - **Police:** end the call and **dial 101** yourself (or use an official force switchboard number you find independently) and ask to confirm the officer and reference.
-   - **Court/coroner/prosecution:** end the call and call back via the organisation’s **main published number** (not the one they gave you), quoting the reference.
-4. **Ask three grounding questions (and don’t answer anything substantial until you have them).**
-   - “**What is the case reference** and which office is handling it?”
-   - “**What exactly do you need from the family** (one decision, a document, a contact name, identification, a statement)?”
-   - “**What is the deadline and what happens if we can’t respond by then?**”
-5. **Ask for the request in writing.** A genuine office can usually provide a letter/email stating:
-   - the case reference,
-   - what they need,
-   - how to send it,
-   - and a contact route via the official switchboard.
-6. **Decide which UK system you’re dealing with (this affects the “right” office).**
-   - **England/Wales/ Northern Ireland:** deaths and related hearings may involve a **coroner** and potentially an **inquest**.
-   - **Scotland:** death investigations are handled by the **Crown Office and Procurator Fiscal Service (COPFS)** (and some cases may lead to a **Fatal Accident Inquiry**).
-   - If you’re unsure, ask: “Which nation/area is this being handled in, and which office has carriage of the case?”
-7. **Choose one temporary family point of contact.** Pick one person to:
-   - take calls,
-   - keep notes,
-   - and relay information to others (this prevents contradictions and repeat stress).
-8. **Be clear about what authority you do (and don’t) have right now.**
-   - If there is a will: identify the **executor(s)** named.
-   - If there is no will / you don’t know yet: you may be next of kin, but you may not yet have legal authority over the estate.
-   - Use a simple line: “I’m next of kin, but probate/administration isn’t in place yet—tell me what you need urgently and whether it must come from an executor/administrator.”
-9. **If the contact is linked to a criminal case (the deceased was a victim, witness, defendant, or the death is part of an investigation):**
-   - Ask if there is a **Family Liaison Officer (FLO)** (police) or a dedicated victim/witness contact.
-   - Ask what information they can share now, and what they cannot share yet.
-   - If you’re being asked for a statement/confirmation, request the questions in writing so you can answer accurately.
-10. **If the contact is linked to coroner processes (England/Wales/NI):**
-   - Ask who is recorded as the **next of kin / family point of contact** and update them if that needs to change.
-   - Ask whether you are treated as an **“interested person”** and what that means in practice for updates, documents, attendance, and deadlines.
-11. **Protect your information while you comply.**
-   - Share the minimum needed.
-   - If sending documents, send **copies** and keep a note of exactly what you sent, when, and to whom.
-12. **If you feel pushed, use a delay script that still cooperates.**
-   - “I want to cooperate. I need this request in writing with the reference, and I will respond as soon as we’ve verified the correct contact route.”
+1. **End the call or contact to create a safe pause.**
+2. **Note the caller's claimed details immediately.**
+   - name and rank/job title
+   - organization and department
+   - case reference number
+   - the specific information or decision they are requesting
+3. **Verify the official contact using an independent route.**
+   - **Police:** Use a different phone line if possible; wait five minutes for the line to clear, then dial 101. Ask the operator to verify the officer’s name and the case reference.
+   - **Coroner (England/Wales):** Look up the local Coroner’s Office via the official local authority website and call their public switchboard.
+   - **Procurator Fiscal (Scotland):** Call the Crown Office and Procurator Fiscal Service (COPFS) Enquiry Point on 0300 060 4000.
+4. **Request the full request in writing.** Ask for an email from an official ".gov.uk" address or a physical letter that includes the case reference and a clear list of required actions.
+5. **Identify the correct legal framework for your jurisdiction.**
+   - **England, Wales, and Northern Ireland:** The investigation is led by a Coroner and may involve an Inquest.
+   - **Scotland:** The investigation is led by the COPFS and may involve a Fatal Accident Inquiry (FAI).
+6. **Assign one person as the single point of contact (SPOC).**
+   - **Inform the official who this person is** to prevent multiple family members receiving conflicting or repeated requests.
+7. **Clarify your current legal status regarding the deceased.**
+   - If a Will exists, state who the named **Executors** are.
+   - If no Will exists, state you are the **Next of Kin** but clarify that "Letters of Administration" (England/Wales/NI) or "Confirmation" (Scotland) have not yet been granted.
+8. **Check for 2026 legal aid entitlements if the death occurred in custody (Scotland).**
+   - **Ask the COPFS about immediate, non-means-tested legal aid** if the death happened in prison or police custody, following the January 2026 reforms.
+9. **Ask if a Family Liaison Officer (FLO) has been assigned.** If there is an active criminal investigation, request the contact details for the FLO who can act as your primary bridge to the investigation.
+10. **Confirm the definition of "Interested Person" (England/Wales only).**
+    - **Ask the Coroner's Officer if you are formally designated as an "Interested Person"**, which grants you the right to receive disclosure of evidence and ask questions at an inquest.
 
 ## What can wait
-- You do not need to resolve the whole estate, probate, or family disagreements today to answer one urgent official question.
-- You do not need to decide “who gets what” or make big legal choices during an unexpected call.
-- You do not need to respond instantly to prove goodwill—verification and accuracy come first.
+- You do not need to appoint a private solicitor in the first hour of contact.
+- You do not need to provide a full life history or witness statement immediately.
+- You do not need to resolve probate or inheritance issues to answer a verification request.
+- You do not need to decide on funeral arrangements until the official body release is confirmed.
 
 ## Important reassurance
-It’s normal to feel foggy, suspicious, or overwhelmed when officials contact you soon after a death. Slowing the conversation down to verify identity and get the request in writing is a sensible safety step, not “being difficult”.
+It is standard and expected for families to verify the identity of officials. Genuine officers and court staff will not be offended by you hanging up to call back via a verified switchboard. The confusion and suspicion you feel is a normal response to an high-pressure situation.
 
 ## Scope note
-These are first steps to stabilise an urgent contact and prevent irreversible mistakes. If the matter continues (inquest/FAI, prosecution, civil claim, probate dispute), you may need specialist legal support.
+This guide provides first-step stabilization for urgent official contact. It does not cover the long-term management of inquests, criminal trials, or estate administration.
 
 ## Important note
-This is general information, not legal advice. Processes and what officials can disclose vary by case type and where it’s being handled. If anything feels inconsistent, or you’re being asked for money/credentials, stop and verify via official channels before doing anything further.
+This information is for general guidance and does not constitute legal advice. In cases involving potential criminal charges or complex inquests, professional legal representation should be sought once the immediate situation is stabilized.
 
 ## Additional Resources
-- https://www.police.uk/pu/contact-us/
-- https://www.met.police.uk/advice/advice-and-information/fa/how-to-check-an-officers-identity/
-- https://www.gov.uk/contact-police
-- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/phone-spoof-scam
-- https://www.gov.uk/applying-for-probate
-- https://www.judiciary.uk/guidance-and-resources/interested-persons/
-- https://www.copfs.gov.uk/about-copfs/our-role-in-investigating-deaths/
-- https://www.cps.gov.uk/prosecution-guidance/bereaved-families-guidance-cps-service-bereaved-families-homicide-cases
+- https://www.gov.uk/government/publications/the-code-of-practice-for-victims-of-crime/code-of-practice-for-victims-of-crime-in-england-and-wales-victims-code
+- https://www.citizensadvice.org.uk/family/death-and-wills/what-to-do-after-a-death/
+- https://www.cps.gov.uk/information-and-support-victims
+- https://www.gov.uk/government/publications/guide-to-coroner-services-and-coroner-investigations-a-short-guide
+- https://www.gov.uk/after-a-death/when-a-death-is-reported-to-a-coroner

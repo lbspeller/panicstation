@@ -1,91 +1,106 @@
-﻿---
+---
 title: "What to do if… you receive alerts that accounts are being accessed after a death and you suspect identity misuse"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - accounts accessed after death
-  - identity theft deceased person
-  - suspicious login alerts after death
-  - hacked account deceased loved one
-  - fraud using dead person's identity
-  - ghosting identity theft
-  - unexpected password reset messages
-  - unfamiliar charges after death
-  - new credit opened in deceased name
-  - debt collector letters for deceased
-  - takeover of email account
-  - phone number takeover after death
-  - sim swap warning texts
-  - executor sudden fraud worry
-  - bereavement scam warning signs
-  - compromised accounts estate admin
-  - someone using deceased identity
-  - security alerts after funeral
-last_reviewed: "2026-03-03"
+  - "identity theft after death"
+  - "deceased person identity misuse"
+  - "ghosting identity theft"
+  - "accounts accessed after death"
+  - "unauthorized login alerts deceased"
+  - "suspicious activity after funeral"
+  - "help i see logins for deceased relative"
+  - "what do i do if dead person account hacked"
+  - "my deceased loved one identity stolen"
+  - "what do i do if credit opened in deceased name"
+  - "help i suspect identity misuse after death"
+  - "my dead fathers email was accessed"
+  - "suspicious password reset deceased account"
+  - "unexpected credit alert after death"
+  - "deceased identity theft signs"
+  - "smell of fraud after bereavement"
+  - "strange charges on deceased credit card"
+  - "debt collectors calling for deceased"
+  - "tax refund fraud deceased"
+  - "irs notice for deceased person"
+  - "identitytheft.gov deceased person"
+  - "deceased credit file alert"
+  - "sim swap alert deceased phone"
+  - "bereavement scam warnings"
+  - "estate fraud protection"
+  - "social security death master file update"
+  - "equifax deceased notice mailing address"
+  - "experian report death of relative"
+  - "transunion deceased indicator request"
+  - "unfamiliar login location deceased"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you receive alerts that accounts are being accessed after a death and you suspect identity misuse (USA)
 
 ## Short answer
-Treat it like an active takeover: secure the deceased person’s *email/phone* (password resets), then immediately notify the affected providers and the credit bureaus so the credit file is marked and harder to misuse.
+Immediately secure the deceased person’s email and phone to prevent further password resets, then notify the fraud departments of the affected institutions and mail a "deceased notice" to all three major credit bureaus.
 
 ## Do not do these things
-- Don’t click links inside “security alert” emails/texts; go to the provider directly via the official website/app.
-- Don’t repeatedly try passwords or “poke around” if you think someone else is actively in the account — you can trigger lockouts and lose access while recovery details are changed.
-- Don’t share extra personal details publicly (full DOB, address history, security-answer type info) in posts or online memorials.
-- Don’t assume “it’s impossible because they’re deceased” — credit and tax-related misuse can still happen.
+- Do not click links or call numbers provided in a suspicious "security alert" email or text.
+- Do not attempt to guess passwords repeatedly if you suspect an active takeover, as this can trigger permanent account locks.
+- Do not share sensitive identifiers like the deceased person's full birth date, mother's maiden name, or specific address history on public memorial pages or social media.
+- Do not assume a "deceased" status automatically propagates to all financial institutions without your direct intervention.
+- Do not discard any paper mail or notices from the IRS or unknown creditors.
 
 ## What to do now
-1. **Capture the evidence while you’re calm enough to do it.**  
-   Screenshot the alerts (service name, time/date, device/location if shown). Start a simple log: who you contacted, when, and what they said (including case numbers).
+1. **Document the evidence of unauthorized access.**  
+   **Take screenshots of any alerts, including the time, date, service name, and any listed IP addresses or device locations.**  
+   - Start a log of all communications with banks, bureaus, and agencies.  
+   - Record case numbers and the names of representatives you speak with.
 
-2. **Secure the “master keys” first: email + mobile number.**  
-   - If the alerts involve an email account (or the deceased used it for banking), sign in via the official site/app and **change the password** and **enable MFA/2-step verification**.  
-   - If you suspect the deceased’s phone number is being used (unexpected one-time codes, “number moved”, service stops working), **contact the mobile carrier** and ask to **lock the account/SIM** and add stronger authentication (for example, a port-out/SIM-swap PIN).
+2. **Secure the primary recovery methods: email and mobile phone.**  
+   **If you have legal access, log in to the deceased person's primary email account, change the password, and enable Multi-Factor Authentication (MFA).**  
+   - Check the "sent" folder and "deleted" items for any evidence of outgoing fraud or password reset requests.  
+   - Contact the mobile carrier to report the death and request a "SIM lock" or "port-out protection" to prevent the phone number from being hijacked.
 
-3. **Call the fraud departments for any account named in alerts.**  
-   For banks/cards, payment apps, investment accounts, utilities with stored payment methods, and major online marketplaces:  
-   - Tell them the account-holder has died and you’re seeing signs of unauthorized access.  
-   - Ask them to **freeze transactions/online access** pending review, and to **flag for suspected fraud/impersonation**.  
-   - If funds moved, ask what documentation they need and request they preserve relevant records.
+3. **Notify the fraud departments of all institutions named in the alerts.**  
+   **Call the banks, credit card issuers, or service providers immediately to report the unauthorized activity and the account holder's death.**  
+   - Request an immediate freeze on all transactions and online access.  
+   - Ask for a "deceased indicator" to be placed on the internal records for that specific institution.
 
-4. **Notify the credit bureaus to add a “deceased” notice and reduce new-credit fraud.**  
-   Contact **one** of the three nationwide credit bureaus (**Equifax, Experian, or TransUnion**) to report the death and ask for the credit file to be marked **deceased**.  
-   - **Typically**, when one bureau adds the deceased notice, it will notify the other two — but confirm this during your request.  
-   - They may require a copy of the death certificate and proof you’re authorized to act (for example, executor/personal representative documentation, if you have it).
+4. **Send a "Deceased Notice" to all three nationwide credit bureaus.**  
+   **Mail a certified letter to Equifax, Experian, and TransUnion requesting that a "Permanent Deceased Indicator" be placed on the credit file.**  
+   - Include a copy of the death certificate and proof of your authority (e.g., Letters Testamentary or surviving spouse status).  
+   - Provide the deceased's full legal name, Social Security Number, date of birth, date of death, and last known address.  
+   - Addresses for 2026:  
+     - Equifax: P.O. Box 105139, Atlanta, GA 30348  
+     - Experian: P.O. Box 4500, Allen, TX 75013 (or use their online portal)  
+     - TransUnion: P.O. Box 2000, Chester, PA 19016
 
-5. **Create a federal identity theft report.**  
-   Use **IdentityTheft.gov** to generate an Identity Theft Report and a recovery plan you can print/save. This often helps when disputing fraudulent accounts or credit entries.
+5. **File an official report at IdentityTheft.gov.**  
+   **Use the Federal Trade Commission (FTC) portal to create an Identity Theft Report specifically for a deceased person.**  
+   - This document provides a recovery plan and serves as official evidence when disputing fraudulent accounts or debts.
 
-6. **Confirm Social Security has the death recorded (especially if benefits were involved).**  
-   Funeral homes often report the death if you give them the Social Security number — but don’t guess. If you need to report it yourself, **SSA accepts death reports by phone or in person (not online or by email).**
+6. **Verify the death is recorded with the Social Security Administration (SSA).**  
+   **Call the SSA at 1-800-772-1213 (Monday–Friday, 8:00 AM – 7:00 PM) to ensure the death has been added to the Death Master File (DMF).**  
+   - While funeral homes often report this, manual verification stops thieves from using the SSN for new credit or government benefits.
 
-7. **If you see IRS/tax signs, follow IRS “deceased person identity theft” steps.**  
-   If you receive IRS notices about a return you didn’t file, or suspicious tax documents for the deceased: keep the letters, don’t ignore deadlines, and follow IRS identity theft guidance for deceased-person misuse.
-
-8. **If you are executor/personal representative: keep proof and authority documents together.**  
-   Keep in one place: certified death certificates, court/estate authority paperwork (if available), the alert screenshots, and all reference numbers from bureaus/FTC/providers.
+7. **Address potential tax-related identity theft with the IRS.**  
+   **If you receive a suspicious IRS notice or find a return has already been filed, complete IRS Form 14039 (Identity Theft Affidavit).**  
+   - Mail the form along with a copy of the death certificate to the address listed in the form instructions.
 
 ## What can wait
-- You do **not** need to determine “who did it” today.
-- You do **not** need to close every account immediately—prioritize the accounts tied to alerts and anything that can create new debt or move money.
-- You do **not** need to decide about lawsuits or formal complaints right now; focus on stopping further misuse and preserving records.
+- You do not need to identify the perpetrator or provide evidence to law enforcement today.
+- You do not need to settle the entire estate or close non-urgent accounts (like social media) in the first 48 hours.
+- You do not need to decide on legal action against institutions for security failures at this stage.
 
 ## Important reassurance
-Getting login alerts after a death can feel like the loss is happening again. You’re not being “paranoid” — quick lock-and-notify steps are the practical way to stop this from becoming months of extra stress.
+Receiving alerts of this nature is distressing and can feel like a secondary violation during a period of grief. These reactions are normal. Taking systematic steps to lock accounts and notify bureaus is the standard professional response to stop further misuse and does not indicate any failure on your part.
 
 ## Scope note
-These are first steps to stabilize and prevent further misuse. Cleaning up credit reports, reversing transactions, and resolving tax/benefit issues may take follow-up with each organization involved.
+This guide provides immediate stabilization and harm-reduction steps. Long-term resolution, such as disputing fraudulent debts, clearing credit reports, or resolving estate tax issues, will require ongoing communication with specific agencies and may require legal counsel.
 
 ## Important note
-This guide is general information for urgent first steps and is not legal, financial, or law-enforcement advice. Procedures and documentation requirements vary by institution and state; if you’re unsure, ask each provider’s fraud/bereavement team exactly what they need from you.
+This information is for general guidance and does not constitute legal or financial advice. Requirements for documentation vary by state and institution. Always verify the current mailing address and submission requirements with each credit bureau and government agency directly before sending sensitive documents.
 
 ## Additional Resources
-- https://www.identitytheft.gov/
-- https://www.ftc.gov/news-events/topics/identity-theft/report-identity-theft
 - https://www.usa.gov/identity-theft
-- https://www.irs.gov/individuals/deceased-person
 - https://www.irs.gov/identity-theft-central/identity-theft-guide-for-individuals
-- https://www.usa.gov/social-security-report-a-death
-- https://www.ssa.gov/personal-record/when-someone-dies
-- https://www.equifax.com/personal/help/article-list/-/h/a/relative-death-contact-credit-bureaus/
+- https://www.ssa.gov/fraud/
+- https://www.consumerfinance.gov/ask-cfpb/is-it-a-scam-if-a-debt-collector-calls-me-after-seeing-my-relatives-obituary-en-1483/
+- https://files.consumerfinance.gov/f/documents/cfpb_surviving-spouse_booklet.pdf

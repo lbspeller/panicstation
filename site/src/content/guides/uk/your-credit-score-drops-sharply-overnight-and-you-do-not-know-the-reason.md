@@ -1,95 +1,103 @@
-﻿---
+---
 title: "What to do if… your credit score drops sharply overnight and you do not know the reason"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - credit score dropped overnight
-  - sudden credit score drop
-  - credit score fell sharply
-  - credit rating dropped suddenly
-  - credit score changed overnight
-  - unexpected credit score crash
-  - credit file changed suddenly
-  - new account not mine
-  - unknown credit check
-  - hard search i did not do
-  - missed payment showing wrongly
-  - default added unexpectedly
-  - address changed on credit report
-  - unfamiliar financial association
-  - identity fraud warning signs
-  - credit report mistake uk
-  - credit record error
-  - dispute credit report entry
-  - credit score drop no reason
-last_reviewed: "2026-01-09"
+  - "credit score dropped overnight"
+  - "sudden credit score drop"
+  - "credit score fell sharply"
+  - "credit rating dropped suddenly"
+  - "credit score changed overnight"
+  - "unexpected credit score crash"
+  - "credit file changed suddenly"
+  - "what do i do if my credit score dropped"
+  - "what do i do if my credit rating fell"
+  - "what do i do if my credit score changed"
+  - "what do i do if my score crashed"
+  - "help i have a sudden credit drop"
+  - "help i don't know why my score fell"
+  - "help i found a credit error"
+  - "help i see a default i didn't do"
+  - "unrecognised hard search"
+  - "unknown missed payment marker"
+  - "sudden default on credit file"
+  - "unfamiliar address on credit report"
+  - "strange financial association"
+  - "credit report mistake uk"
+  - "credit record error"
+  - "dispute credit report entry"
+  - "score drop no reason"
+  - "identity fraud warning signs"
+  - "report fraud uk"
+  - "cifas protective registration"
+  - "statutory credit report"
+  - "experian score drop"
+  - "equifax score drop"
+  - "transunion score drop"
+  - "crediva credit report"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your credit score drops sharply overnight and you do not know the reason (UK)
+
 ## Short answer
-Don’t apply for new credit yet. Pull your statutory credit reports from **all three UK credit reference agencies** and check for a new missed payment, default, hard search, new account, or address change—then challenge anything you don’t recognise.
+Stop applying for new credit immediately to prevent further hard searches. Obtain your statutory credit reports from Experian, Equifax, and TransUnion to identify the specific reporting change—such as a new default, missed payment, or unrecognised account—then dispute the error directly with the lender and the credit reference agency.
 
 ## Do not do these things
-- Don’t make new credit applications “to see if it works” (it can add more hard searches and make things worse).
-- Don’t pay or acknowledge a debt you don’t recognise “just to stop it” until you’ve confirmed it’s genuinely yours.
-- Don’t close long-standing accounts in a rush (it can remove evidence and create new problems).
-- Don’t use random “credit fix” services that ask for lots of personal data or fees upfront.
-- Don’t assume the score number itself is the truth—focus on what changed on the **credit report**.
+- Don’t submit "test" credit applications to see if they get approved (this adds hard searches that further lower your score).
+- Don’t pay or acknowledge a debt you do not recognise before verifying it is legally yours.
+- Don’t close long-standing credit accounts immediately, as this can reduce your credit history length and remove evidence for disputes.
+- Don’t pay for "credit repair" services or share your full credit report with unofficial third parties.
+- Don’t assume the score number is the primary issue; the underlying data on the report is what determines your creditworthiness.
 
 ## What to do now
-1. **Pause any borrowing plans for 48 hours (if you can).** Write down what you noticed (date/time, which app/site, what it says changed). Take screenshots of any alerts.
-2. **Get your statutory credit reports from all three UK CRAs** (they can differ):
-   - Experian
-   - Equifax
-   - TransUnion
-3. **Look for the usual “overnight drop” causes and note the dates:**
-   - a new **missed payment** marker
-   - a **default** added
-   - a new **hard search** (credit application search)
-   - a **new account** you don’t recognise
-   - a **balance jump** (utilisation spike)
-   - a changed **address** or **electoral roll** status
-   - a new **financial association** (linked person) you don’t recognise
-4. **If you see something you don’t recognise, contact the organisation behind it first.**
-   - Use contact details you trust (e.g., from the firm’s official website or a statement you already have), not a number shown in an unfamiliar entry.
-   - Say you believe it may be **fraud or a mistake** and ask them to: pause any new activity, mark the account/inquiry as disputed, and confirm in writing what they will do next.
-5. **Raise a dispute with the CRA(s) showing the incorrect entry.**
-   - Dispute the specific item(s) and attach any proof you have (e.g., confirmation from the lender, evidence you never lived at an address).
-   - If the issue is a wrong link to another person, ask about removing the **financial association**.
-6. **If you need a “pause button” while disputes are ongoing, consider a Notice of Correction (only if helpful).**
-   - This is a short statement that sits on your file to explain a specific disputed entry.
-   - Lenders are generally expected to read it, but it can also **slow decisions**, so keep it short and factual and use it only when it helps.
-   - You typically need to add it separately with each CRA if the entry appears with more than one.
-7. **If identity fraud seems likely, reduce the chance of new accounts being opened.**
-   - Consider **Cifas Protective Registration** (adds extra checks when organisations that use Cifas data receive applications in your name).
-   - **Report it to the police fraud reporting route for where you live:**
-     - If you live in **England, Wales or Northern Ireland**, use **Report Fraud (Action Fraud)**.
-     - If you live in **Scotland**, report to **Police Scotland** (typically via **101** for non-emergencies).
-8. **If a bank/lender caused the harm and won’t fix it, start a formal complaint trail.**
-   - Complain to the firm first (keep copies of everything; ask for the complaint reference).
-   - The business usually has **up to 8 weeks** to give a final response.
-   - If they don’t put it right, you can usually escalate to the **Financial Ombudsman Service**.
+1. **Isolate your financial profile by pausing all borrowing for at least 48 hours.** 
+   - Record the exact date, time, and service where you noticed the drop.
+   - Note the specific number change (e.g., from 800 to 650).
+2. **Request your statutory credit reports from all three main UK credit reference agencies (CRAs).** 
+   - These reports are legally required to be provided for free or for a nominal statutory fee.
+   - Check Experian, Equifax, and TransUnion (formerly Callcredit).
+   - Consider checking Crediva, which is used by some lenders for identity verification.
+3. **Compare the reports to find the specific "overnight" trigger.** 
+   - Look for a new **missed payment** marker (1, 2, or 3).
+   - Look for a **default** or **County Court Judgment (CCJ)**.
+   - Look for a **hard search** (credit application) you did not perform.
+   - Look for a **new account** or **address change** you did not authorise.
+   - Look for a **financial association** with a person you are no longer linked to or do not know.
+4. **Contact the organisation that provided the data if you identify an error.** 
+   - Use the official contact details from the firm’s verified website, not details listed on the unrecognised credit entry.
+   - Inform them you believe the entry is an error or fraud and request they mark the account as "disputed" immediately.
+5. **Raise a formal dispute with each CRA showing the incorrect information.** 
+   - Use the online dispute portal provided by Experian, Equifax, or TransUnion.
+   - Provide any evidence you have, such as a confirmation from a lender that an account was opened in error.
+   - Request the removal of any incorrect financial associations (links to other people).
+6. **Add a Notice of Correction to your credit file if the dispute is complex.** 
+   - This is a 200-word statement explaining your side of the situation.
+   - Lenders must read this during manual applications, though it may slow down automated decisions.
+7. **Protect your identity if you suspect fraud has occurred.** 
+   - Apply for **Cifas Protective Registration** (£30 for 2 years) to ensure lenders perform extra checks before opening accounts in your name.
+   - Report the incident to **Report Fraud** (the service replacing Action Fraud) if you are in England, Wales, or Northern Ireland.
+   - Report to **Police Scotland** via 101 (non-emergency) or 999 (emergency) if you are in Scotland.
+8. **Follow the formal complaint process if a lender refuses to correct an error.** 
+   - Submit a written complaint to the firm and wait for their Final Response Letter (they have up to 8 weeks).
+   - If unsatisfied, escalate the case to the **Financial Ombudsman Service**.
 
 ## What can wait
-- You do not need to “build your score back up” today—first find out what changed.
-- You do not need to cancel all your cards or move banks unless you confirm fraud on a specific account.
-- You do not need to decide about big financial choices (mortgage, car finance, consolidation) until the reports are checked and any errors are disputed.
+- You do not need to "fix" your score number immediately; focus only on correcting the data entries.
+- You do not need to change your existing bank accounts or cancel all cards unless you have evidence of a specific compromise on those accounts.
+- You do not need to make decisions about upcoming mortgages or loans until the dispute process has been initiated and a response received.
 
 ## Important reassurance
-A sharp score drop is often caused by one concrete change (a missed payment marker, a default, a new hard search, or a reporting error). Once you identify the exact change, you can take targeted steps—most of which are reversible and document-based.
+A sharp drop is almost always tied to a single, specific data change on your report. These entries are not permanent if they are incorrect or fraudulent; UK law provides clear routes for correction and redress through the Data Protection Act and the Financial Ombudsman.
 
 ## Scope note
-This is first-steps guidance to stabilise the situation and prevent avoidable harm. If the issue involves fraud, repeated errors, or urgent borrowing needs, you may need additional help from the relevant firms or a regulated advice service.
+This guide covers first-step stabilization and identification of credit score drops. It does not provide long-term credit building advice or legal representation for complex fraud cases.
 
 ## Important note
-This is general information, not financial, legal, or credit-repair advice. Processes and timelines can vary by organisation and by what’s on your file. If you feel pressured, threatened, or unsure, slow down and keep everything in writing.
+This information is for general guidance and does not constitute financial or legal advice. Timelines for credit report updates can vary significantly between agencies and lenders.
 
 ## Additional Resources
-- https://www.experian.co.uk/consumer/statutory-report.html
-- https://www.equifax.co.uk/Products/credit/statutory-report
-- https://www.transunion.co.uk/consumer/get-your-credit-report
-- https://www.cifas.org.uk/pr
-- https://www.reportfraud.police.uk/
-- https://www.scotland.police.uk/guidance/scams-and-frauds/identity-theft/
-- https://ico.org.uk/for-the-public/credit/
-- https://www.financial-ombudsman.org.uk/make-complaint
+- https://www.moneyhelper.org.uk/en/everyday-money/credit/how-to-check-your-credit-report
+- https://www.experian.co.uk/consumer/guides/what-affects-score.html
+- https://www.experian.co.uk/consumer/guides/searches-and-credit-checks.html
+- https://www.moneyhelper.org.uk/en/everyday-money/credit/what-to-do-if-you-have-been-refused-a-loan-or-credit-card
+- https://www.experian.co.uk/consumer/identity/what-to-do-if-victim.html

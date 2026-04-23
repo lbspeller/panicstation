@@ -1,99 +1,110 @@
-﻿---
+---
 title: "What to do if… you receive a notice that your bank account will be closed and you need to move money fast"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - bank account closure notice
-  - account being closed letter
-  - bank closing my account
-  - current account being closed
-  - need move money fast
-  - move money before closure
-  - worried account will freeze
-  - direct debits need moving
-  - standing orders need moving
-  - salary paid into old account
-  - benefits paid into old account
-  - incoming payments redirected
-  - bank asked to close account
-  - account closure scam email
-  - sudden account closure threat
-  - debanking notice uk
-  - keep bills paid during switch
-  - download bank statements now
-last_reviewed: "2026-01-09"
+  - "bank account closure notice"
+  - "account being closed letter"
+  - "bank closing my account"
+  - "current account being closed"
+  - "need move money fast"
+  - "move money before closure"
+  - "worried account will freeze"
+  - "direct debits need moving"
+  - "standing orders need moving"
+  - "salary paid into old account"
+  - "benefits paid into old account"
+  - "incoming payments redirected"
+  - "bank asked to close account"
+  - "account closure scam email"
+  - "sudden account closure threat"
+  - "debanking notice uk"
+  - "keep bills paid during switch"
+  - "download bank statements now"
+  - "what do i do if my bank is closing my account"
+  - "what do i do if i get a debanking notice"
+  - "what do i do if i need to move money fast"
+  - "what do i do if my account will be closed"
+  - "help i received a bank closure notice"
+  - "help i need to open a new bank account today"
+  - "help i need to move my salary to a new bank"
+  - "help i have 7 days to move my bank account"
+  - "notice that bank account will be closed"
+  - "notice that your bank account will be closed"
+  - "receive a notice that your bank account will be closed"
+  - "move money fast"
+  - "money fast"
+  - "bank account closure"
+  - "smell of scam email"
+  - "notice of closure"
+  - "payment account regulations 2026"
+  - "90 day notice period bank"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you receive a notice that your bank account will be closed and you need to move money fast (UK)
 
 ## Short answer
-Treat it as urgent, but first confirm it’s real (scams are common). Then open a new UK account immediately and move your essential income and bill payments over before you transfer the full balance.
+Verify the notice is genuine through official channels, open a new bank account immediately, and prioritize redirecting your income and essential bill payments before transferring the remaining balance.
 
 ## Do not do these things
-- Don’t click links or call numbers from the notice if you’re not 100% sure it’s genuine.
-- Don’t move money to any “safe account” suggested by someone contacting you (even if they claim to be the bank or police).
-- Don’t withdraw large amounts of cash “just in case” unless you truly can’t transfer electronically.
-- Don’t cancel Direct Debits/Standing Orders in panic without a plan for how those bills will be paid.
-- Don’t make a one-off “catch-up” payment unless you’re sure a Direct Debit won’t also be taken (to avoid paying twice).
-- Don’t transfer your entire balance out if you still have pending card payments, Direct Debits, or an overdraft you’re using.
-- Don’t assume your wages/benefits will automatically follow you to the new account.
+- Don't click links or use contact details provided in an unsolicited email or text notice.
+- Don't move funds to a "safe account" suggested by a caller claiming to be from the bank or police.
+- Don't withdraw your entire balance in cash if electronic transfers are still functional.
+- Don't cancel active Direct Debits until you have confirmed the new account is ready to receive them.
+- Don't ignore the notice even if you believe it was sent in error.
+- Don't transfer money out if you have large pending transactions that have not yet cleared.
 
 ## What to do now
-1. **Confirm the notice is real (2 minutes, reduces the biggest risk).**  
-   Use your banking app/online banking by typing the address yourself (not via any link). If you need to call, use the number on your bank card or the official website, not the notice.
+1. **Confirm the notice is genuine by contacting your bank using a known official number.**
+   - Call the number on the back of your physical debit card or from the official banking app.
+   - Do not use any phone numbers or web addresses provided within the notification itself.
 
-2. **Ask the bank two concrete questions (and write down the answers).**  
-   - **What is the exact closure date/time (or trigger)?**  
-   - **Will funds still be accessible after closure (and how will any remaining balance be returned)?**  
-   Also ask if they can give you **a little extra time** to move regular payments if you need it. (They may say no, but asking can help.)
+2. **Establish the exact date and time the account access will be restricted.**
+   - Ask the bank if the closure date is the day access stops or the day the account is legally dissolved.
+   - Confirm if you will have "view-only" access to statements after the closure date.
+   - Verify if they have a specific process for returning any remaining balance if you miss the deadline.
 
-3. **Open a new account today (even if it’s not your “ideal” bank).**  
-   - If you can open a standard current account, do that.  
-   - If you think you might be refused, ask about a **basic bank account** option.  
-   The goal is simply: **somewhere safe for income to land and bills to be paid.**
+3. **Open a new current account immediately to ensure continuity of service.**
+   - Apply for a standard current account with a different banking group.
+   - If you have a poor credit history or are refused a standard account, specifically ask for a **Basic Bank Account**.
+   - Ensure the new provider is a participant in the **Current Account Switch Service (CASS)** if you intend to use the automated process.
 
-4. **If your closure date is very close, prioritise these three moves in this order.**  
-   1) **Income:** change your salary/pension/benefits payment details to the new account as soon as possible.  
-   2) **Critical bills:** rent/mortgage, utilities, council tax, childcare, essential loan repayments.  
-   3) **Access to money:** move enough to cover the next 2–4 weeks of essentials so you can function.
+4. **Identify and download all necessary financial records before access is removed.**
+   - Save the last 12 months of PDF statements.
+   - Record the details (account number and sort code) of all active Direct Debits and Standing Orders.
+   - Export your "payee" list to make manual transfers easier if the automated switch is not possible.
 
-5. **Use the Current Account Switch Service if you have enough time and your new bank offers it.**  
-   It can move Direct Debits and incoming payments and redirect payments sent to the old account, and it’s designed to complete in **7 working days**. If you use it, avoid setting up new payments on the old account during the switch window.
+5. **Initiate an automated switch if you have at least 7 working days before closure.**
+   - Use the Current Account Switch Service to automatically move balance, payments, and redirects.
+   - Check that the "Switch Date" you choose is at least two days before the old account's scheduled closure.
 
-6. **If you don’t have 7 working days, do a “manual emergency move”.**  
-   - Transfer money to the new account using UK bank transfer (and keep receipts/screenshots).  
-   - Make a list of all Direct Debits/Standing Orders from your old account and re-set the critical ones on the new account first.  
-   - If a bill is due immediately, you can make a one-off payment from the new account **only if you’ve confirmed** the Direct Debit won’t also be taken (or you’ve moved/paused it for that cycle).
+6. **Perform a manual move of essential payments if the closure is imminent (less than 7 days).**
+   - **Income:** Contact your employer or the Department for Work and Pensions (DWP) to update your bank details for wages or benefits immediately.
+   - **Critical Bills:** Manually set up new Standing Orders or Direct Debits for rent, mortgage, utilities, and council tax on the new account.
+   - **Daily Essentials:** Transfer a "buffer" amount (2–4 weeks of spending) to the new account via Faster Payments to cover immediate costs.
 
-7. **Download or save what you’ll need if access is cut off.**  
-   Download recent statements, a list of payees, proof of balance, and any messages about the closure inside online banking.
-
-8. **Handle “stragglers” safely.**  
-   If the bank confirms you’ll have normal access right up to the closure date, you can leave a small buffer for pending card transactions/last Direct Debits to clear.  
-   If there’s any risk access could be restricted sooner, **move your money out** and instead track pending items by checking your transaction list daily and keeping a list of anything still due.
-
-9. **If you think the closure is unfair, start a complaint while you’re stabilising.**  
-   Ask the bank for its complaints process and make a brief written complaint (dates, what happened, what you need). If you’re unhappy with the response, you can generally take it to the Financial Ombudsman Service after the bank’s final response — or if the bank hasn’t responded within **8 weeks** (some complaints about payment services/charges/notice periods can have shorter time limits).
+7. **Notify the bank in writing if you believe the closure is unfair or breaches regulations.**
+   - For complaints regarding notice periods or payment services, the bank must provide a final response within **15 business days**.
+   - For general service complaints, the bank has **8 weeks** to respond before you can escalate to the Financial Ombudsman Service.
 
 ## What can wait
-- Picking the “best” long-term bank, interest rate, perks, or switching bonus.
-- Arguing your case in depth before your money is safe somewhere else.
-- Closing the old account yourself (focus first on continuity of payments and access).
-- Sorting every subscription immediately (streaming, apps, low-priority memberships) — do the essentials first.
+- Evaluating long-term interest rates or high-street branch locations for the new account.
+- Redirecting non-essential subscriptions like streaming services or gym memberships.
+- Seeking a detailed explanation for the closure if the bank refuses to provide one immediately.
+- Formally closing the old account yourself; the bank will handle this on the notice date.
 
 ## Important reassurance
-Getting a closure notice is frightening, but you can usually protect yourself quickly by (1) confirming it’s genuine and (2) securing a new account for income and bills. You don’t have to solve everything today — you just need continuity and access to your money.
+Receiving an account closure notice is a procedural event that requires urgent action but does not necessarily imply a permanent loss of funds. Most UK residents can secure a Basic Bank Account regardless of credit history, ensuring that income and essential bills remain manageable.
 
 ## Scope note
-These are first steps to prevent missed payments, loss of access, and scam-driven mistakes. Longer-term disputes about fairness, notice, and complaints can be handled once you’re stable.
+This guide provides first-step stabilization for maintaining financial access and preventing missed payments. It does not cover long-term legal disputes or detailed regulatory appeals regarding "debanking" or specific financial crime investigations.
 
 ## Important note
-This is general information, not legal or financial advice. Banks can close accounts for different reasons and may share limited detail in some situations. If you’re at risk of missing rent/mortgage or essential bill payments, get independent advice promptly.
+Banks in the UK are generally required to give at least two months' notice for account closures, or 90 days for Basic Bank Accounts and contracts entered into after April 2026. However, notice may be waived in cases of suspected fraud or serious breach of terms. This information is for situational stabilization and does not constitute legal or financial advice.
 
 ## Additional Resources
-- https://www.currentaccountswitch.co.uk/the-switching-process-personal/
-- https://www.currentaccountswitch.co.uk/common-questions-personal/
+- https://www.moneyhelper.org.uk/en/blog/savings/is-your-bank-closing-heres-what-you-can-do
+- https://www.moneyhelper.org.uk/en/everyday-money/banking/how-to-open-switch-or-close-your-bank-account
+- https://www.currentaccountswitch.co.uk/about-the-service/
+- https://www.gov.uk/complain-financial-service
 - https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/bank-accounts
-- https://www.financial-ombudsman.org.uk/make-complaint
-- https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
-- https://www.citizensadvice.org.uk/debt-and-money/banking/getting-a-bank-account/

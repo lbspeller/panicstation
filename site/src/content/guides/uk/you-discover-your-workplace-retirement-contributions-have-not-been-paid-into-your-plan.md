@@ -1,91 +1,109 @@
-﻿---
+---
 title: "What to do if… you discover your workplace retirement contributions have not been paid into your plan"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - workplace pension missing contributions
-  - pension deductions not paid in
-  - employer not paying pension
-  - pension contributions not received
-  - auto enrolment missing payments
-  - pension statement shows zero
-  - pension pot not updated
-  - payslip pension deduction mismatch
-  - retirement contributions withheld
-  - pension provider missing money
-  - late pension contributions uk
-  - unpaid workplace pension
-  - payroll deducted pension not sent
-  - pension payments overdue
-  - missing employer pension payments
-  - contributions not in my pension
-  - scheme account missing deposits
-  - workplace pension problem now
-last_reviewed: "2026-01-07"
+  - "client disputes completed work"
+  - "client refusing to pay"
+  - "payment stopped mid project"
+  - "invoice unpaid after delivery"
+  - "disputed deliverables"
+  - "client withholding final payment"
+  - "work accepted then disputed"
+  - "last minute scope dispute"
+  - "client claims work is incomplete"
+  - "deadlines still approaching"
+  - "urgent project deadline dispute"
+  - "client stops payment suddenly"
+  - "nonpayment after completion"
+  - "client demands changes for free"
+  - "retainer or milestone unpaid"
+  - "contract deliverable dispute"
+  - "payment hold over quality"
+  - "client ghosting after delivery"
+  - "client delays sign off"
+  - "what do i do if client stops payment"
+  - "what do i do if work is disputed"
+  - "what do i do if client refuses to pay"
+  - "what do i do if deadlines are approaching and unpaid"
+  - "help i have a payment dispute"
+  - "help i am not being paid"
+  - "help i have a disputed invoice"
+  - "help i need to stop work for nonpayment"
+  - "my client is withholding money"
+  - "my client says work is bad"
+  - "my client stopped payment suddenly"
+  - "my project deadlines are due but unpaid"
+  - "smell of burning bridge"
+  - "visible scope creep"
+  - "sudden silence from client"
+  - "payment dispute notification"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you discover your workplace retirement contributions have not been paid into your plan (UK)
 
 ## Short answer
-Pause, save what you’re seeing, then contact **both** your employer/payroll and your pension scheme/provider **in writing** today to confirm whether contributions are delayed, misallocated, or genuinely missing.
+Pause further deliverables until the dispute and payment status are clarified in writing, and issue a formal "Facts / Disputes / Deadline Impact" notice immediately. This prevents further unpaid labor while establishing a contemporaneous record of the work delivered.
 
 ## Do not do these things
-- Don’t assume it’s fraud or insolvency from one portal screenshot—**workplace pension payments can show a lag**.
-- Don’t accept “it’ll be sorted” without a dated, written explanation of what will happen and when.
-- Don’t resign, stop contributing, or opt out in panic (that can create new problems and may reduce employer contributions).
-- Don’t agree to “cash in lieu” or a private repayment plan that bypasses the pension scheme without independent advice.
-- Don’t transfer/merge this pension or make major changes to it until the missing-payment issue is clearly resolved.
+- Do not continue working to "prove your value" while payment is suspended as this increases your financial exposure.
+- Do not send aggressive, emotional, or informal messages across multiple platforms; use a single formal thread.
+- Do not agree in writing that the work is "unusable" or "incomplete" to placate the client without a settlement.
+- Do not hand over source files, administrative passwords, or final deliverables until undisputed fees are cleared.
+- Do not perform retaliatory actions such as deleting client data or locking systems, which can lead to counter-claims.
+- Do not allow the client’s internal deadlines to force you into uncompensated scope changes or rushed concessions.
 
 ## What to do now
-1. **Capture the evidence (10 minutes).**  
-   Save screenshots/PDFs of your pension account showing missing payments, plus payslips for the affected pay periods (showing pension deductions), and any enrolment letters/emails.
+1. **Freeze all active deliverables and communications (10 minutes).**  
+   **Immediately halt new work on the disputed project and stop responding to informal messages via SMS or social media.** Create a single secure folder containing the original contract, the Statement of Work (SOW), all approved change requests, delivery confirmations, and the disputed invoice.
 
-2. **Check whether it could be timing/processing lag (5 minutes).**  
-   Note the pay dates and which months look missing. In the UK, when **employee contributions are deducted from pay**, they generally must reach the pension scheme by **day 19 of the following month** (or **day 22 if paid electronically**), unless scheme rules require a shorter period.
+2. **Verify your contractual suspension and 60-day payment rights.**  
+   **Review the contract for clauses regarding the right to suspend work for non-payment and check if the client has missed the 2026 statutory deadline for raising an invoice dispute.** 
+   - Note that large businesses are now legally capped at 60-day payment terms for smaller suppliers.
+   - Confirm if the contract specifies an "acceptance period" (e.g., 5 days to raise issues) that the client may have already exceeded.
 
-3. **Email payroll/HR (today) with a precise, neutral request.**  
-   Ask for:
-   - confirmation of the pension scheme/provider and your **member ID** (if you don’t have it),
-   - the **amounts and dates** deducted from your pay for the missing periods (employee + employer),
-   - the **date each payment was sent** to the scheme and any reference, and
-   - a written correction plan and date if anything is outstanding.
+3. **Issue a formal Dispute Clarification and Deadline Impact notice (today).**  
+   **Send a structured email stating that work is paused until undisputed funds are paid and a written, itemized list of defects is provided.** This notice must include:
+   - A list of deliverables already provided with date/time stamps.
+   - Proof of prior approvals or feedback acknowledging the work.
+   - A clear statement that upcoming deadlines are now moved due to the client’s suspension of payment.
+   - A request for the client to confirm which specific parts of the invoice are disputed versus those that are not.
 
-4. **Contact the pension provider/scheme administrator (today).**  
-   Ask them to confirm:
-   - whether contributions for the listed pay periods were received,
-   - whether any payments are received but not yet allocated to your account,
-   - whether they’ve already flagged the employer for late/missing contributions, and
-   - their formal complaint route (and what they need from you).
+4. **Demand immediate payment of the undisputed amount.**  
+   **Explicitly request that the client pays the portion of the invoice not under dispute while the remaining items are reviewed.** This reduces your total debt exposure and tests the client's good faith.
 
-5. **Use the “90-day” rule to plan escalation, not to go quiet.**  
-   The Pensions Regulator (TPR) asks members to **wait 90 days** (from when the money should have been paid in/appeared) before reporting missing payments to them, because it can take up to around three months for money to show in your pension.
+5. **Secure and export all delivery evidence (today).**  
+   **Take screenshots and export logs from shared drives, email servers, project management tools, and repositories showing the exact state of work delivered.** Ensure you have a local, non-cloud backup of the work as it stood at the moment the dispute began.
 
-6. **If it’s confirmed missing (or you get no clear answer), escalate through formal routes in parallel.**
-   - **Raise a formal complaint in writing** with the party/parties you think are at fault (this may include your employer and the scheme trustees/administrator/provider).  
-   - **Report to TPR** once the 90-day point is reached. If your provider tells you they’ve already reported your employer to TPR, you usually don’t need to duplicate it.  
-   - **Contact The Pensions Ombudsman (TPO)** if it’s not being resolved after you’ve tried to sort it with the party/parties at fault. You can also contact TPO earlier if you need help understanding the right route to take.
+6. **Make a formal stop/go determination for upcoming milestones.**  
+   **Inform the client in writing that you cannot responsibly commit to approaching deadlines while the requirements are undefined and payment is withheld.** Do not resume work until you have a signed "re-start agreement" that defines exactly what constitutes completion.
 
-7. **Protect yourself at work while it’s being checked.**  
-   Keep communications factual and written. Avoid accusations; use “please confirm contributions and dates” language and keep copies at home.
+7. **Escalate to the Office of the Small Business Commissioner (OSBC) if applicable.**  
+   **Utilize the OSBC’s 2026 powers to adjudicate payment disputes and levy fines if the client is a large business persistently paying late.** This is a faster alternative to court for eligible small businesses.
+
+8. **Prepare the appropriate Pre-Action notification based on the client's legal status.**  
+   **Follow the "Pre-Action Protocol for Debt Claims" if the client is an individual or sole trader, or the "Practice Direction – Pre-Action Conduct" if they are a limited company.**
+   - For individuals, you must provide a mandatory 30-day response window.
+   - For businesses, a 14-to-21-day window is typically required before issuing a claim via the Money Claim Online (MCOL) service or the Scottish Simple Procedure.
 
 ## What can wait
-- You do not need to decide today whether to change jobs, transfer your pension, or take legal action.
-- You do not need to calculate exact losses right now—first confirm **what is missing** and **from when**.
-- You do not need to confront senior leadership in person; written records matter more.
+- You do not need to decide today whether to initiate formal litigation or a County Court Judgment (CCJ).
+- You do not need to negotiate a settlement or discount immediately; wait for their itemized list of issues first.
+- You do not need to redesign your internal contracting processes or terms and conditions right now.
+- You do not need to respond to every follow-up email instantly; a single daily update is sufficient.
 
 ## Important reassurance
-It’s common to spot a mismatch because of payroll cut-offs, provider allocation timing, or simple admin errors. You’re not overreacting by checking—missing pension contributions are a real issue, and a calm paper trail is the fastest way to get it corrected.
+Disputing work at the point of payment is a known tactic used to gain leverage or extend credit. Pausing work and insisting on written clarity is not an act of aggression; it is a standard commercial protection. Feeling stressed or defensive is a normal reaction to a breach of professional trust, but focusing on the paper trail will provide you with the most security.
 
 ## Scope note
-This guide covers first steps to confirm and escalate missing workplace pension contributions. Later stages (compensation, complex disputes, insolvency) may need specialist help.
+This guide provides first-step stabilization for a payment dispute. It does not cover the specifics of construction adjudication or specialist industry-specific arbitration routes.
 
 ## Important note
-This is general information for urgent first steps, not legal or financial advice. If you’re being pressured to drop a complaint or accept a deal that bypasses the pension scheme, consider independent advice before signing anything.
+This information is for general guidance and does not constitute legal advice. The appropriate legal route depends on whether your client is in England, Wales, Scotland, or Northern Ireland. If the disputed amount is significant or the client threatens legal action, consult a qualified solicitor.
 
 ## Additional Resources
-- https://www.thepensionsregulator.gov.uk/en/contact-us/scheme-members-who-to-contact/report-concerns-about-your-workplace-pension/report-missing-payments-to-your-workplace-pension
-- https://www.thepensionsregulator.gov.uk/en/document-library/code-of-practice/administration/contributions/receiving-contributions
-- https://www.gov.uk/workplace-pensions-employers/how-to-enrol-staff
 - https://www.moneyhelper.org.uk/en/pensions-and-retirement/pension-problems/what-to-do-if-my-employer-doesnt-pay-my-pension-contributions
-- https://www.pensions-ombudsman.org.uk/sites/default/files/publication/files/Complaining%20to%20the%20parties%20at%20fault%20factsheet_1.pdf
-- https://www.pensions-ombudsman.org.uk/
+- https://www.thepensionsregulator.gov.uk/en/contact-us/scheme-members-who-to-contact/report-concerns-about-your-workplace-pension/report-missing-payments-to-your-workplace-pension
+- https://www.thepensionsregulator.gov.uk/en/contact-us/scheme-members-who-to-contact/report-concerns-about-your-workplace-pension
+- https://www.pensions-ombudsman.org.uk/making-complaint
+- https://www.moneyhelper.org.uk/en/pensions-and-retirement/pension-problems/complaining-about-delays-to-your-pension

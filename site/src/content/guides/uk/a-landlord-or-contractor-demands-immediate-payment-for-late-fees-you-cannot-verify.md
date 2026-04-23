@@ -1,89 +1,96 @@
-﻿---
+---
 title: "What to do if… a landlord or contractor demands immediate payment for “late fees” you cannot verify"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - landlord late fees demand
-  - unverified late fee charge
-  - pressured to pay now
-  - rent late fee dispute
-  - tenancy fee you cannot confirm
-  - letting agent fee surprise
-  - contractor late fee invoice
-  - builder demands immediate payment
-  - unexpected fee after work
-  - pay by bank transfer now
-  - cash payment pressure
-  - gift card payment request
-  - debt you do not recognise
-  - doorstep payment demand
-  - rent arrears fee confusion
-  - invoice breakdown request
-  - urgent payment scam concern
-  - threatened with eviction
-  - threatened with debt collectors
-  - payment under protest worry
-last_reviewed: "2026-01-10"
+  - "landlord late fees demand"
+  - "unverified late fee charge"
+  - "pressured to pay now"
+  - "rent late fee dispute"
+  - "tenancy fee you cannot confirm"
+  - "letting agent fee surprise"
+  - "contractor late fee invoice"
+  - "builder demands immediate payment"
+  - "unexpected fee after work"
+  - "pay by bank transfer now"
+  - "cash payment pressure"
+  - "gift card payment request"
+  - "debt you do not recognise"
+  - "doorstep payment demand"
+  - "rent arrears fee confusion"
+  - "invoice breakdown request"
+  - "urgent payment scam concern"
+  - "threatened with eviction"
+  - "threatened with debt collectors"
+  - "payment under protest worry"
+  - "assured periodic tenancy dispute"
+  - "renters rights act 2025 fees"
+  - "tenant fees act 2019 interest"
+  - "statutory interest contractor 2026"
+  - "wrongful late fee demand help"
+  - "what do i do if landlord demands fees"
+  - "what do i do if contractor adds late fees"
+  - "help i am being pressured for money"
+  - "my landlord says i owe late fees"
+  - "help i cannot verify a charge"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a landlord or contractor demands immediate payment for “late fees” you cannot verify (UK)
+
 ## Short answer
-Don’t pay “late fees” on the spot. Pause, get the claim in writing with a breakdown and the contract clause they rely on, and only pay what you can verify (especially your normal rent).
+Do not pay any unverified fees under immediate pressure. Request a written breakdown including the specific contract clause used, and only pay the undisputed base amount (such as your normal rent) while the fee is being investigated.
 
 ## Do not do these things
-- Don’t pay in cash, by gift card, or by “instant” transfer just because you feel pressured.
-- Don’t click payment links in unexpected texts/emails, or read out card/bank security codes on the phone.
-- Don’t sign a new note/IOU or “payment agreement” in the moment.
-- Don’t withhold your normal rent just to “punish” a disputed fee — that can create real arrears.
-- Don’t let a contractor/agent into your home to “talk about payment” if you feel intimidated; keep communication in writing.
-- Don’t assume threats are real (“eviction tonight”, “bailiffs tomorrow”) — eviction generally follows a formal legal process, and some living arrangements (like lodgers with a resident landlord) can have different rules.
+- Don’t pay in cash, via gift card, or via "instant" bank transfer while the person is standing at your door or on the phone.
+- Don’t use a payment reference or invoice number provided by the claimant if you dispute the amount, as this can be used as evidence that you accepted the debt.
+- Don’t withhold your regular, undisputed rent or contract payments as a negotiation tactic, as this creates a legitimate ground for arrears-based legal action.
+- Don’t sign any "payment plan" or updated contract in the heat of the moment; these often contain clauses that validate the disputed fee.
+- Don’t assume immediate eviction is possible; as of May 2026, Section 21 "no-fault" evictions are abolished in England, and all evictions require a court order based on specific legal grounds.
 
 ## What to do now
-1. **Create a 10-minute buffer.**  
-   Say: “I can’t approve any extra charges without paperwork. Send it in writing and I’ll review it.” Then stop negotiating live.
-2. **Get the demand into writing (before discussing money).**  
-   Ask for:
-   - the amount, what dates it covers, and how it was calculated  
-   - the exact clause in your tenancy agreement/contract that allows it  
-   - an itemised statement/ledger (for rent) or an invoice with dates, hours/materials (for contractors)
-3. **Verify you’re speaking to the real person (not a spoofed number).**  
-   Use a contact method you already trust (the number/email on your signed tenancy agreement, past rent statements, or the contractor’s paperwork/website you used before). Don’t rely on the number in a sudden text.
-4. **Check your signed agreement for what you actually agreed to.**  
-   - For rent: look for a “late payment” term (what triggers it, how it’s calculated).  
-   - For contractors: look for any late-payment/interest term, and whether they can add admin fees.
-5. **If this is rent in England: check the Tenant Fees rules for late rent charges.**  
-   In England, a late payment “default fee” for rent is only allowed if it’s written into the tenancy, and it can usually only be charged once rent is **14 days or more** overdue, capped at **no more than 3% above the Bank of England base rate** (as interest). You should not be charged by both the landlord and the agent for the same default. If you’re not in England, rules differ across the UK — treat unclear demands as disputed and get local housing advice.
-6. **Pay the undisputed amount in a traceable way (if relevant).**  
-   - If you owe your normal rent, pay that (or as much as you can) using your usual method.  
-   - In the payment reference, use something clear like: “January rent” (don’t label it “late fees”).  
-   Keep screenshots/receipts.
-7. **Send one clear “dispute + request” message and stop there.**  
-   Example: “I dispute the late fee because I can’t verify it. Please send the calculation, the contract clause, and the account/rent statement. I’ll respond in writing once received.”
-8. **If they escalate with threats, respond to the process, not the fear.**  
-   - If a landlord threatens immediate eviction/lock change: keep a written record and contact your local council’s housing/private renting team (often via a tenancy relations/private sector housing route), especially if there’s harassment or threats.  
-   - If a contractor threatens debt collectors: repeat that you dispute the fee and want written evidence; do not pay just to stop calls.
-9. **If you feel at risk of harassment or being forced out, prioritise safety and documentation.**  
-   Save messages/voicemails, photograph any letters posted, and tell a trusted person what’s happening. If you feel unsafe right now, contact the police.
+1. **Declare a formal pause to the conversation immediately.**  
+   State clearly: "I cannot approve additional charges without a written breakdown and a copy of the contract clause they are based on." End the call or close the door to prevent further verbal pressure.
+2. **Request a comprehensive "Proof of Debt" in writing.**  
+   The landlord or contractor must provide:
+   - A line-by-line itemisation of how the fee was calculated.
+   - The exact date the payment supposedly became "late."
+   - The specific clause in your Assured Periodic Tenancy (or commercial contract) that permits this specific fee.
+3. **Verify the identity of the person making the demand.**  
+   Use an established contact method from your original signed paperwork. Scammers often spoof numbers to mimic letting agents or contractors; do not trust a "new" number provided during the demand.
+4. **Compare the demand against 2026 statutory limits for rent fees.**  
+   In England, a "default fee" for late rent is only legal if:
+   - It is written into your tenancy agreement.
+   - The rent is at least 14 days overdue.
+   - The interest charged is no more than 3% above the Bank of England base rate.
+   - Any demand for a flat "admin fee" or "letter fee" is likely a breach of the Tenant Fees Act and carries a starting fine for landlords of £7,000.
+5. **Verify the mandatory interest rules for contractors if the claimant is a tradesperson.**  
+   Under the 2026 "Time to Pay Up" reforms, contractors have a mandatory right to statutory interest (8% above base rate) on commercial debts, but they must provide a valid invoice and allow the statutory 30-day dispute window before escalating.
+6. **Pay the undisputed base amount using your own reference.**  
+   If you owe rent, pay only the rent amount. Use a reference like "RENT ONLY [MONTH]" instead of any reference number the landlord provided for the "late fee" invoice. Keep a digital receipt or screenshot of the transaction.
+7. **Submit a formal dispute notice via email or post.**  
+   Send a single message: "I formally dispute the charge of [Amount] requested on [Date] as it remains unverified. I will review my position once you provide the requested breakdown and contract evidence."
+8. **Contact your Local Authority's Private Sector Housing team if threatened with eviction.**  
+   If a landlord threatens to change the locks or evict you "tonight" because of the fee, this is a criminal offence. Councils now have enhanced powers under the Renters' Rights Act 2025 to issue fines of up to £40,000 for illegal eviction attempts.
+9. **Log every interaction and save all evidence.**  
+   Take photos of any letters posted through the door, save all text messages, and write a brief summary of any phone calls, including the time and the name of the person you spoke to.
 
 ## What can wait
-- You do not need to decide today whether to “fight” it, complain, or take formal action.
-- You do not need a long argument — your priority is **proof + paper trail + paying what you actually owe**.
-- You do not need to accept deadlines invented by the person demanding money if they won’t evidence the charge.
+- You do not need to defend your character or explain why you are "late" during the initial dispute.
+- You do not need to hire a solicitor immediately; the burden of proof is on the person demanding the money.
+- You do not need to decide on a long-term complaint strategy; simply halting the immediate payment is the priority.
 
 ## Important reassurance
-Urgency and pressure are common tactics — sometimes from scammers, sometimes from someone angry or disorganised. Pausing to verify is reasonable. Asking for a written breakdown is not “refusing to pay”; it’s protecting you from an irreversible mistake.
+High-pressure tactics are designed to make you bypass your own judgment. It is your legal right to verify any financial demand before paying it. Requesting evidence is a standard business practice, not a sign of hostility or "refusal to pay."
 
 ## Scope note
-These are first steps only. If the fee turns out to be valid, you can sort payment terms next. If it isn’t valid, you can decide later whether to complain formally or get legal advice.
+This guide covers first-step stabilization for disputed immediate payment demands. If the fee is later proven valid, you may need to negotiate a payment schedule. If the demand is found to be an unlawful fee, you may have grounds for a Rent Repayment Order or local authority enforcement.
 
 ## Important note
-This is general information, not legal advice. Housing and consumer rules vary by UK nation and by your occupancy type (for example, lodgers can have different rights). If you feel unsafe or threatened, prioritise immediate safety and consider contacting the police.
+This information is for general guidance and does not constitute legal or financial advice. Laws regarding tenant fees and contractor interest differ between England, Scotland, Wales, and Northern Ireland. If you are being harassed or feel physically unsafe, contact the police immediately.
 
 ## Additional Resources
+- https://www.gov.uk/guidance/renting-out-your-property-guidance-for-landlords-and-letting-agents/fees-you-can-charge-as-part-of-a-tenancy
 - https://www.gov.uk/government/publications/tenant-fees-act-amended-by-the-renters-rights-act-2025/tenant-fees-act-2019-statutory-guidance-for-enforcement-authorities
-- https://england.shelter.org.uk/housing_advice/private_renting/letting_agent_fees_for_tenants
-- https://www.gov.uk/private-renting-evictions/harassment-and-illegal-evictions
-- https://england.shelter.org.uk/housing_advice/eviction/how_to_deal_with_illegal_eviction
+- https://www.citizensadvice.org.uk/housing/complaints-about-landlords-and-letting-agents/complaining-about-your-letting-agent/
+- https://www.citizensadvice.org.uk/housing/complaints-about-landlords-and-letting-agents/complaining-about-your-landlord/
 - https://www.citizensadvice.org.uk/consumer/getting-home-improvements-done/problem-with-home-improvements/
-- https://assets.publishing.service.gov.uk/media/5f745d308fa8f5189a93d141/Tenant_Fees_Act_2019_-_Guidance_for_landlords_and_agents.pdf
-- https://assets.publishing.service.gov.uk/media/690b6e869456634d9795fe30/Rogue_Landlord_Enforcement_-_Guidance_for_LAs.pdf

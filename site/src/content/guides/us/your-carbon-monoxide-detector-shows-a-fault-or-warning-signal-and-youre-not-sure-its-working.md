@@ -1,72 +1,89 @@
-﻿---
+---
 title: "What to do if… your carbon monoxide detector shows a fault or warning signal and you’re not sure it’s working"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - carbon monoxide alarm fault
-  - co detector error
-  - co alarm warning light
-  - carbon monoxide detector chirping
-  - co alarm beeping intermittently
-  - co alarm low battery
-  - co alarm end of life signal
-  - co detector malfunction
-  - co alarm false alarm worry
-  - co alarm not working
-  - co alarm won’t test
-  - carbon monoxide alarm troubleshooting
-  - unsure if co is present
-  - fuel burning appliance concern
-  - furnace water heater co concern
-  - gas heater co risk
-  - generator carbon monoxide worry
-  - move to fresh air now
-last_reviewed: "2026-03-03"
+  - "carbon monoxide alarm fault"
+  - "co detector error"
+  - "co alarm warning light"
+  - "carbon monoxide detector chirping"
+  - "co alarm beeping intermittently"
+  - "co alarm low battery"
+  - "co alarm end of life signal"
+  - "co detector malfunction"
+  - "co alarm false alarm worry"
+  - "co alarm not working"
+  - "co alarm won’t test"
+  - "carbon monoxide alarm troubleshooting"
+  - "unsure if co is present"
+  - "fuel burning appliance concern"
+  - "furnace water heater co concern"
+  - "gas heater co risk"
+  - "generator carbon monoxide worry"
+  - "move to fresh air now"
+  - "what do i do if my co alarm is beeping"
+  - "what do i do if my carbon monoxide detector is chirping"
+  - "what do i do if the co light is orange"
+  - "what do i do if i suspect carbon monoxide"
+  - "help i think my co detector is broken"
+  - "help i have a carbon monoxide fault"
+  - "help my co alarm is making noise"
+  - "help my detector won't stop beeping"
+  - "smell of gas but no alarm"
+  - "headache and dizzy at home"
+  - "four beeps and a pause"
+  - "co detector reset button"
+  - "co alarm yellow light"
+  - "co alarm red light"
+  - "fault signal on detector"
+  - "warning signal on detector"
+  - "detector showing error code"
+  - "carbon monoxide detector beeps 3 times"
+  - "carbon monoxide detector beeps 5 times"
+  - "detecting carbon monoxide without alarm"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your carbon monoxide detector shows a fault or warning signal and you’re not sure it’s working (USA)
 
 ## Short answer
-Move everyone to fresh air first, because you can’t safely “troubleshoot” a possible CO situation from inside. Once outside, call 911 if the alarm indicates CO or anyone feels unwell, then deal with the detector and any appliances.
+Move everyone to fresh air immediately and call 911 if you hear four beeps followed by a pause or if anyone feels ill. Do not attempt to investigate or troubleshoot the device from inside the building.
 
 ## Do not do these things
-- Do not assume a warning is harmless just because it’s “only chirping” if you’re unsure what it means.
-- Do not silence/reset the alarm and keep using the furnace, water heater, fireplace, stove, or any fuel-burning heater.
-- Do not run a generator, grill, camp stove, or vehicle in/near the home, garage, or near windows to “test” anything.
-- Do not stay inside to ventilate. If you can, open doors/windows as you leave.
-- Do not re-enter repeatedly to investigate if anyone feels dizzy, nauseated, confused, or unusually sleepy.
+- Do not stay inside to determine if the signal is a "real" alarm or a malfunction.
+- Do not ignore "chirping" or intermittent beeps if you cannot immediately identify the code from a safe distance.
+- Do not use any fuel-burning appliances (furnace, gas stove, water heater, fireplace) until the air is cleared.
+- Do not run vehicles or generators in an attached garage, even with the door open.
+- Do not re-enter the building to silence the alarm or retrieve belongings.
+- Do not assume the air is safe because you cannot smell or see anything.
 
 ## What to do now
-1. **Get everyone (and pets) into fresh air immediately.** Go outdoors or to an open-air area.
-2. **Treat “CO alarm / CO message / continuous alarm / not sure what it means” as an emergency.** From outside: **call 911**.  
-   If anyone has symptoms like headache, dizziness, weakness, nausea/vomiting, confusion, chest pain, or fainting: **call 911**.
-3. **Do not re-enter until cleared if you called 911 or the alarm indicated CO.** Wait for emergency responders’ instructions/permission before going back inside.
-4. **If it’s clearly a device trouble/maintenance signal (not a CO alarm) and nobody is unwell:**
-   - If you **smell gas**, leave and call your **gas utility’s emergency line** (or 911 if you can’t reach them quickly).
-   - Otherwise, proceed to detector maintenance (next step) and plan an appliance check if you have fuel-burning equipment.
-5. **Troubleshoot the detector once you’re safe (and not treating it as an active CO alarm):**
-   - Read the **label on the unit** for the model and confirm what the **light/beep pattern** means.
-   - **Replace the batteries** if applicable.
-   - Use the **test button** after battery replacement (per the unit’s instructions).
-   - If it signals **end of life** or still shows a fault after battery change/test, **replace the entire alarm** promptly.
-6. **Before returning to normal use, get appliances checked if there’s any doubt.** A qualified technician should inspect the furnace, water heater, fireplace/wood stove, or any gas/propane/oil appliance if the alarm indicated CO, you had symptoms, or responders advised it.
+1. **Move all people and pets to an outdoor location with fresh air immediately.** Do not stop to open windows or turn off appliances if it delays your exit.
+2. **Call 911 from your outdoor location if the alarm is sounding four beeps followed by a pause.** This is the universal emergency signal for detected carbon monoxide; treat it as an active leak regardless of any "fault" lights.
+3. **Contact emergency services if anyone experiences a headache, dizziness, nausea, weakness, or confusion.** These are primary symptoms of CO poisoning and require professional medical assessment and air monitoring.
+4. **Remain outside until emergency responders or the fire department tell you it is safe to re-enter.** Do not go back inside to "check" if the beeping has stopped.
+5. **Identify the signal pattern only once you are safe and the building has been cleared by professionals.** 
+   - One beep every minute typically indicates a low battery.
+   - Five beeps every minute typically indicates the unit has reached its "end of life" and must be replaced.
+   - Continuous or irregular chirping without the 4-beep pattern often indicates a malfunction or sensor fault.
+6. **Follow the "24-hour rule" if you are cleared to return but the alarm sounds again.** **If the CO alarm reactivates within 24 hours, repeat the evacuation and call 911 immediately.**
 
 ## What can wait
-- You do **not** need to identify the exact source immediately—fresh air and the right help come first.
-- You do **not** need to keep re-checking the alarm pattern from inside the home.
-- You do **not** need to make big decisions (repairs vs. replacement, landlord disputes, insurance claims) right now.
+- You do not need to replace the batteries or the unit while you are uncertain if CO is present.
+- You do not need to find the specific source of a potential leak (e.g., the furnace or water heater) yourself.
+- You do not need to contact your landlord or gas utility until after emergency responders have arrived.
 
 ## Important reassurance
-It’s normal to feel uncertain because “chirps,” “fault lights,” and “alarm sounds” can mean different things depending on the model. When you’re not sure, treating it like a real CO risk first is the safest choice.
+It is common to feel panicked or confused when a safety device signals an error, especially since different models use different lights. Choosing to evacuate when you are unsure is the correct safety protocol. Emergency responders prefer to check a "faulty" alarm rather than have residents stay in a potentially toxic environment.
 
 ## Scope note
-These are first steps to reduce immediate risk and prevent a bad call under stress. A professional inspection may still be needed to confirm the home is safe and the alarm is functioning correctly.
+This guide covers first-step stabilization for an uncertain CO alarm signal. It does not replace a professional home inspection or medical diagnosis.
 
 ## Important note
-This is general safety information, not medical advice or a home inspection. If anyone feels unwell, if the alarm indicated CO, or if you’re not sure what the signal means, call 911 and follow local emergency instructions.
+Carbon monoxide is colorless and odorless. If the device indicates an emergency or if symptoms are present, call 911. Follow all instructions given by local fire authorities or emergency medical technicians.
 
 ## Additional Resources
-- https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers
+- https://www.kidde.com/support/carbon-monoxide-alarms/why-is-my-carbon-monoxide-alarm-beeping-or-chirping
+- https://www.kidde.com/support/carbon-monoxide-alarms/err-message
+- https://www.tdi.texas.gov/blog/is-your-smoke-or-carbon-monoxide-alarm-chirping-heres-what-its-telling-you.html
 - https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center
-- https://stacks.cdc.gov/view/cdc/47927
-- https://www.nfpa.org/education-and-research/home-fire-safety/carbon-monoxide
+- https://www.cdc.gov/carbon-monoxide/about/index.html

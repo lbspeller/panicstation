@@ -1,85 +1,92 @@
-﻿---
+---
 title: "What to do if… your whole home loses power and you are unsure whether it is just your property"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - whole house power outage
-  - no power in my house
-  - sudden power outage at home
-  - power out only my house
-  - neighbours have power
-  - neighbourhood blackout
-  - breaker panel tripped
-  - main breaker off
-  - gfci outlets tripped
-  - utility outage report
-  - downed power line nearby
-  - burning smell electrical
-  - outage at night
-  - outage and no cell service
-  - fridge freezer during outage
-  - generator safety
-  - carbon monoxide risk
-  - medical device needs electricity
-  - unplug electronics surge risk
-last_reviewed: "2026-03-04"
+  - "whole house power outage"
+  - "no power in my house"
+  - "sudden power outage at home"
+  - "power out only my house"
+  - "neighbours have power"
+  - "neighbourhood blackout"
+  - "what do i do if my power goes out"
+  - "what do i do if i have no electricity"
+  - "what do i do if the street is dark"
+  - "what do i do if the breaker tripped"
+  - "help i have no power"
+  - "help i lost all electricity"
+  - "help my lights wont turn on"
+  - "help my house is dark but neighbours have lights"
+  - "my house has no power"
+  - "my whole home is dark"
+  - "my electricity is out"
+  - "my breaker panel is off"
+  - "smell of burning plastic"
+  - "sparks from electrical panel"
+  - "loud buzzing noise from breaker"
+  - "downed power line on house"
+  - "house power cut off"
+  - "mains power failure"
+  - "electric utility outage report"
+  - "generator safety distance"
+  - "refrigerator food safety timer"
+  - "medical device power backup"
+  - "power surge protection"
+  - "unplugging electronics during outage"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your whole home loses power and you are unsure whether it is just your property (USA)
 
 ## Short answer
-First, check for immediate hazards and then confirm whether it’s just your home by checking with neighbors and your breaker panel. If it looks like a wider outage, report it to your electric utility; if you see a downed line or fire risk, call **911**.
+Visually confirm if neighbors have power, then perform a single check of your main breaker. If the outage is widespread, report it to your utility; if limited to your home with a burning smell or sparks, evacuate and call **911**.
 
 ## Do not do these things
-- Don’t go near or touch **downed power lines** or anything they’re touching.
-- Don’t run a **generator** in a home, garage, basement, or near doors/windows—run it **outdoors at least 20 feet** from doors, windows, and vents (carbon monoxide can kill).
-- Don’t use a **gas stove/oven** or charcoal grill to heat your home.
-- Don’t keep flipping breakers on/off repeatedly if they trip right away (could indicate a serious fault).
-- Don’t use candles if you can avoid it. If you must, use stable holders, keep them away from anything flammable, and never leave them unattended.
+- Don’t approach or touch **downed power lines**, or any objects (fences, trees, vehicles) touching them.
+- Don’t run a **portable generator** indoors, in a garage, or near any building opening—keep it **at least 20 feet away** with the exhaust pointed away from the house.
+- Don’t use a **gas range or oven** for home heating due to carbon monoxide and fire risks.
+- Don’t repeatedly reset a **tripped breaker** if it immediately flips back to the "off" or "center" position.
+- Don’t open the **refrigerator or freezer** doors unless absolutely necessary to preserve the cold air.
+- Don’t use **candles** for light; use flashlights or battery-powered lanterns to prevent fire.
 
 ## What to do now
-1. **Do a fast safety check.** If you smell burning, see sparks, hear arcing, or see smoke:
-   - If safe, turn off the **main breaker** to cut power to the home.  
-   - Leave the area and call **911** if there’s fire/smoke or immediate danger.
-2. **Check whether it’s just your home.**
-   - Look outside for neighborhood signs: are nearby homes/streetlights out?  
-   - If you can, text/call a neighbor (don’t go wandering in the dark).
-3. **Check your breaker panel safely.**
-   - Find your electrical panel and look for a **main breaker** or a breaker sitting in the middle (tripped).  
-   - Flip a tripped breaker fully OFF, then back ON **once**.  
-   - If it trips again immediately, stop—leave it OFF and move on.
-4. **Check for a common “multiple rooms out” cause (GFCI).**
-   - If your home has **GFCI outlets**, a tripped GFCI can sometimes knock out multiple outlets/lights. Look for “Test/Reset” buttons in bathrooms, kitchen, garage, exterior outlets. Reset **once** if found.
-5. **If it’s a wider outage: report and get updates.**
-   - Report the outage to your **electric utility** (phone/app/website—use whichever preserves phone battery best).  
-   - If your utility has an **outage map**, check once for confirmation/ETR, then conserve battery.
-   - If you see **downed lines**, a pole fire, or a line across a roadway/yard: call **911**.
-6. **Reduce damage and stay safe while you wait.**
-   - Unplug sensitive electronics (TV, computer) to reduce surge damage when power returns.  
-   - Keep refrigerator/freezer doors closed as much as possible.  
-   - Keep one light switched on so you’ll know when power is back.
-7. **If someone depends on electricity for health/safety needs, act early.**
-   - If a medical device can’t operate safely, call **911**.  
-   - If the situation is stable but you anticipate a longer outage, contact your utility to ask about any **medical baseline/priority** options (programs vary by utility/state).
-8. **If it appears to be only your property (neighbors have power) and breakers won’t stay on:**
-   - Treat it as a **home electrical fault**. Avoid using that circuit, keep the breaker OFF, and contact a licensed electrician or your landlord/property manager urgently.
+1. **Identify immediate fire or electrical hazards.** **If you smell burning, see smoke, hear arcing (buzzing/popping), or see sparks from any electrical component, evacuate everyone immediately and call 911.**
+   - Do not attempt to investigate the source of a burning smell.
+   - Only if it is safe to do so, turn off the **Main Breaker** (the largest switch at the top or bottom of the panel) before exiting.
+2. **Observe the surrounding neighborhood for signs of power.** **Look out windows to see if streetlights are out or if neighboring homes are completely dark.**
+   - If other homes have lights, the issue is likely isolated to your property or your specific service line.
+   - If the entire street is dark, it is a utility-wide outage.
+3. **Check your main electrical panel safely.** **Locate your breaker box and look for a switch that has moved to the "OFF" or center "TRIP" position.**
+   - If the **Main Breaker** is tripped, flip it fully to "OFF" and then back to "ON" **one time only**.
+   - If it trips again immediately, leave it off and contact a licensed electrician; do not touch the panel again.
+4. **Inspect GFCI outlets in high-moisture areas.** **If your neighbors have power but yours is out, check for a tripped GFCI outlet in the garage, basement, kitchen, or bathrooms.**
+   - A single tripped GFCI "Reset" button can sometimes disconnect power to multiple rooms. 
+   - Press the "Reset" button once; if it pops back out immediately, stop and assume a fault exists.
+5. **Report the outage to your local electric utility.** **Contact your utility provider via their app, website, or emergency reporting line to ensure your address is logged in their system.**
+   - Do not assume they already know; individual service line failures often require manual reporting.
+   - Use your phone sparingly to conserve battery for emergency updates.
+6. **Protect your electronics and food supply.** **Unplug sensitive electronics (computers, TVs) and major appliances to prevent damage from a power surge when electricity is restored.**
+   - Leave exactly **one light** switched on so you are alerted when the power returns.
+   - Follow the **4/48/24 rule**: food stays safe for **4 hours** in a closed fridge, **48 hours** in a full freezer, and **24 hours** in a half-full freezer.
+7. **Address life-safety medical needs immediately.** **If a household member relies on power-dependent medical equipment (ventilators, oxygen concentrators) and you do not have a functional backup battery, call 911 or seek a location with power.**
+   - Contact your doctor or pharmacist if refrigerated medications (like insulin) have been without power for more than 4 hours.
 
 ## What can wait
-- You don’t need to decide now about replacing food, buying equipment, or long-term repairs—first confirm whether it’s a utility outage or a home electrical fault.
-- You don’t need to troubleshoot every device; one safe breaker/GFCI check is enough for now.
-- You don’t need to post updates online—save phone battery for utility/emergency contact.
+- You do not need to diagnose why a breaker tripped; a licensed professional should handle internal wiring inspections.
+- You do not need to decide which food to throw away until the power has been out for at least 4 hours.
+- You do not need to call 911 to report a standard power outage unless there is a fire, injury, or immediate medical emergency.
 
 ## Important reassurance
-A whole-home outage is often either a utility outage or a single protective shutoff (breaker/GFCI) doing its job. A calm check plus reporting to the right place quickly reduces uncertainty and helps restore service safely.
+Sudden power loss is startling, but electrical systems are designed with breakers and GFCIs specifically to shut off power before a hazard escalates. If it is a neighborhood-wide outage, utility crews are trained to handle restoration safely. Feeling a sense of urgency or disorientation in the dark is a normal physiological response to a sudden environmental change.
 
 ## Scope note
-This covers first steps in the first minutes/hours. If you suspect wiring damage, equipment failure, or the outage lasts a long time, you may need your utility, landlord, electrician, or emergency services depending on hazards and medical needs.
+This guide provides first-step stabilization for a total loss of home power. It does not cover electrical repairs, long-term disaster planning, or the technical setup of transfer switches for generators.
 
 ## Important note
-This is general information, not electrical, legal, or medical advice. If you see downed lines, fire/smoke, or anyone’s health is at risk due to loss of power, call emergency services.
+This information is for general guidance and does not replace professional electrical or medical advice. Always prioritize physical safety over property or food preservation. If you see a downed power line, stay at least 35 feet away and call emergency services.
 
 ## Additional Resources
-- https://www.ready.gov/power-outages
-- https://www.ready.gov/sites/default/files/2024-03/ready.gov_power-outage_hazard-info-sheet.pdf
-- https://www.cdc.gov/carbon-monoxide/about/index.html
-- https://www.cdc.gov/natural-disasters/psa-toolkit/proper-use-of-candles-during-a-power-outage.html
+- https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html
+- https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage
+- https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+- https://www.cdc.gov/carbon-monoxide/media/pdfs/Generators_1.pdf
+- https://www.211.org/get-help/utilities-expenses

@@ -1,79 +1,86 @@
-﻿---
+---
 title: "What to do if… a carbon monoxide alarm goes off and you are now outside with headache or nausea"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - carbon monoxide alarm going off
-  - co detector sounded
-  - outside after co alarm
-  - headache after alarm
-  - nausea after alarm
-  - feeling sick after boiler
-  - suspected carbon monoxide exposure
-  - gas appliance fumes
-  - symptoms improve outdoors
-  - dizzy after being indoors
-  - possible co poisoning
-  - carbon monoxide leak at home
-  - woke up with headache indoors
-  - co alarm beeping
-  - partner or kids still inside
-  - pet still inside
-  - tenant gas safety emergency
-  - boiler flue problem
-  - gas cooker carbon monoxide
-  - heater carbon monoxide
-last_reviewed: "2026-02-21"
+  - "carbon monoxide alarm going off"
+  - "co alarm sounding"
+  - "headache after co alarm"
+  - "nausea after co alarm"
+  - "what do i do if my co alarm goes off"
+  - "help i have a headache and my co alarm is beeping"
+  - "what do i do if i suspect carbon monoxide poisoning"
+  - "what do i do if my boiler is leaking fumes"
+  - "help i feel sick and my alarm went off"
+  - "my carbon monoxide detector is making a loud noise"
+  - "smell of exhaust in house and feeling dizzy"
+  - "feeling sick then improving outside"
+  - "symptoms of carbon monoxide poisoning"
+  - "vision loss and co alarm"
+  - "sudden confusion after alarm"
+  - "carbon monoxyde alarm"
+  - "carbin monoxide detector"
+  - "gas appliance safety emergency"
+  - "boiler flue issues"
+  - "staying outside after co alert"
+  - "calling 999 for co poisoning"
+  - "calling 111 for carbon monoxide"
+  - "gas emergency service number uk"
+  - "toxic fumes in flat"
+  - "is it safe to go back inside after co alarm"
+  - "how to report a co leak uk"
+  - "woke up with a headache and alarm sounding"
+  - "fuel burning appliance alarm"
+  - "solid fuel fire co alarm"
+  - "gas cooker co symptoms"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… a carbon monoxide alarm goes off and you are now outside with headache or nausea (UK)
 
 ## Short answer
-Treat this as possible carbon monoxide (CO) exposure: stay outside in fresh air and get urgent medical advice. Do not go back inside until you’ve been told it’s safe.
+Treat this as a medical and safety emergency: stay in the fresh air and call for urgent medical assessment immediately. Do not re-enter the building for any reason until a qualified professional has declared it safe.
 
 ## Do not do these things
-- Do not re-enter “just to check” or to reset/silence the alarm.
-- Do not assume it’s a false alarm because you “can’t smell anything”.
-- Do not open windows/doors if it requires going back in or delays getting help.
-- Do not keep using or relight any appliance (boiler, cooker, fire, heater).
-- Do not drive yourself if you feel dizzy, confused, very sleepy, or unwell.
-- Do not ignore symptoms that improve outside — that pattern can happen with CO exposure.
+- Do not go back inside to silence the alarm, retrieve belongings, or check appliances.
+- Do not assume the alarm is faulty because you cannot smell or see anything; carbon monoxide is odourless and colourless.
+- Do not drive yourself to a hospital if you feel dizzy, confused, or nauseous.
+- Do not ignore symptoms just because they start to improve once you are in fresh air.
+- Do not attempt to investigate the source of the leak yourself.
 
 ## What to do now
-1. **Stay outside, away from doors/windows.** Keep everyone (and pets) out. Move to a neighbour’s property, your car (parked outside), or another safe place nearby.
-2. **Call for urgent medical advice now.**
-   - **Call 999** if anyone has severe symptoms (trouble breathing, chest pain, collapse/fainting, seizures, marked confusion, cannot be woken, or symptoms are getting worse).
-   - Otherwise, **call NHS 111** and say: “**Possible carbon monoxide exposure**. CO alarm went off. Now outside with headache/nausea.”
-   - If you’re told to go to A&E, **don’t drive yourself if you feel unwell** — ask someone to take you, or call 999 and request an ambulance.
-3. **Report it as a gas/CO emergency if there’s any chance it’s from gas appliances.** From outside, call the **National Gas Emergency Service: 0800 111 999** and say you suspect a **carbon monoxide emergency**. Follow their instructions.
-   - If there is something you can safely shut off **without re-entering** (for example, an **external** appliance switch or an **outside** gas meter control), do so only if it does not put you back at risk or delay getting help.
-4. **Account for everyone who was inside.** If someone is still inside and it’s safe to do so **without re-entering**, shout/phone them. **Do not go back in** to retrieve them—call **999** and tell them someone may still be inside with a CO alarm sounding.
-5. **Tell responders about higher-risk people.** If anyone exposed is **pregnant**, a **baby/child**, older, or has heart/lung conditions, say so when you call—this can change how urgently they want you assessed.
-6. **If you need hospital assessment, take these details with you (or text them to yourself now):**
-   - when the alarm sounded (approximate time),
-   - who was inside and for how long,
-   - your symptoms and when they started,
-   - any fuel-burning sources (boiler, gas cooker, solid-fuel stove, fireplace, portable heater).
-7. **Do not return until the building is declared safe.** If you’re told to attend A&E/ED, go—CO exposure is checked with tests and may need oxygen treatment.
+1. **Move at least 10 metres away from the property.** **Ensure all people and pets are out of the building and move to a location with clear, moving air.**
+   - Do not stand near open doors or windows where fumes may still be escaping.
+   - If you are in a terrace or flat, alert immediate neighbours by phone or by knocking only if you can do so from outside.
+2. **Call 999 immediately if anyone is experiencing severe symptoms.** **Request an ambulance if anyone has trouble breathing, chest pain, sudden confusion, loss of vision, or has collapsed.**
+   - Inform the operator: "Possible carbon monoxide exposure. The CO alarm has sounded and there are people with symptoms."
+3. **Call NHS 111 if your symptoms are currently mild.** **If you have a headache or nausea but are otherwise alert, you must still get urgent medical advice to check the level of CO in your blood.**
+   - Say: "**Possible carbon monoxide exposure.** My alarm went off and I now have a headache and nausea."
+   - Follow their instructions on whether to attend A&E or wait for a clinician to call you back.
+4. **Report the incident to the National Gas Emergency Service on 0800 111 999.** **You must report the alarm sounding to this 24-hour service even if you do not use gas, as they handle all carbon monoxide emergencies in the UK.**
+   - Tell them you are outside and have symptoms of poisoning.
+   - They will dispatch an engineer to make the property safe (usually by isolating the supply).
+5. **Account for everyone who was in the building.** **If you believe someone is still inside and they are not responding to shouts or phone calls, tell the 999 operator immediately.**
+   - Do not go back inside to rescue anyone; wait for the fire service or emergency responders who have breathing apparatus.
+6. **Alert your landlord or building manager only after calling emergency services.** **If you are a tenant, your landlord has a legal obligation to ensure the property is safe, but this is a secondary step to your immediate health.**
 
 ## What can wait
-- Figuring out which appliance caused it or trying to troubleshoot the alarm.
-- Calling your insurer or arranging repairs (after immediate safety and medical checks).
-- Collecting belongings (keys/meds) unless emergency services tell you it’s safe to do so.
-- Deciding whether to stay elsewhere tonight—first get safety clearance and medical advice.
+- Troubleshooting the alarm or checking if the batteries are low.
+- Identifying which specific appliance (boiler, fire, or cooker) caused the issue.
+- Arranging for a Gas Safe registered engineer to repair appliances.
+- Checking your insurance policy or worrying about repair costs.
 
 ## Important reassurance
-Headache and nausea after a CO alarm is a strong “take it seriously” signal, and you’ve already done the most protective thing by getting outside. Getting checked promptly is the safest next step and helps prevent delayed complications.
+It is normal to feel panicked or shaky after a carbon monoxide alarm sounds, especially when you feel unwell. By getting outside into the fresh air, you have already completed the single most important action to stop further exposure. Medical professionals are trained to test for this quickly and will help you understand the next steps for your health.
 
 ## Scope note
-These are first steps to keep you safe and get you assessed. Later steps (appliance checks, landlord/engineer follow-up, alarm replacement) can be done after the immediate risk is controlled.
+This guide provides first-step stabilization and emergency contact procedures for acute carbon monoxide exposure in the UK. It does not cover long-term health monitoring or the technical repair of appliances.
 
 ## Important note
-This is general safety information, not medical diagnosis or a substitute for professional assessment. If symptoms are severe or worsening, call 999. If you’re unsure, treat it as real and get urgent advice before going back inside.
+This information is for emergency stabilization and is not a substitute for professional medical diagnosis or technical safety inspections. Carbon monoxide poisoning requires clinical assessment; always follow the instructions of 999 or 111 operators.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/carbon-monoxide-poisoning/
-- https://www.nationalgas.com/emergency-contacts
+- https://www.gov.uk/government/publications/carbon-monoxide-properties-incident-management-and-toxicology/carbon-monoxide-general-information
 - https://www.london-fire.gov.uk/safety/the-home/carbon-monoxide-safety/
-- https://www.gassaferegister.co.uk/gas-safety/carbon-monoxide-poisoning/
-- https://www.dsfire.gov.uk/safety/home/carbon-monoxide
+- https://www.hse.gov.uk/gas/domestic/co.htm
+- https://www.co-gassafety.co.uk/about-co/

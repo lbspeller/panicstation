@@ -1,96 +1,109 @@
-﻿---
+---
 title: "What to do if… you are asked to verify identity for official processes and you cannot find the right documents"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - id verification
-  - prove my identity
-  - asked for photo id
-  - missing documents
-  - lost passport
-  - lost driving licence
-  - cannot find birth certificate
-  - need death certificate copy
-  - bereavement paperwork
-  - after a death admin
-  - executor paperwork stuck
-  - official forms need id
-  - bank asking for id
-  - dwp bereavement forms
-  - probate identity checks
-  - tell us once reference
-  - certified copies needed
-  - grieving and overwhelmed
-  - documents in someone else’s name
-last_reviewed: "2026-03-02"
+  - "missing identity documents"
+  - "lost passport uk"
+  - "lost driving licence replacement"
+  - "cannot find birth certificate"
+  - "how to prove identity without passport"
+  - "official id verification help"
+  - "missing bereavement paperwork"
+  - "what do i do if i lost my id"
+  - "what do i do if i have no photo id"
+  - "what do i do if i lost a death certificate"
+  - "what do i do if i cannot find marriage certificate"
+  - "help i lost my driving licence"
+  - "help i cannot find my passport"
+  - "help i have no proof of address"
+  - "my identity documents are missing"
+  - "smell of old paper"
+  - "missing yellow envelope"
+  - "empty document folder"
+  - "lost birth certificate"
+  - "lost marraige certificate"
+  - "lost marridge certificate"
+  - "lost passpurt"
+  - "id check for probate"
+  - "id check for banks"
+  - "tell us once reference missing"
+  - "certified copy of death certificate"
+  - "gro certificate replacement"
+  - "dvla licence replacement cost"
+  - "passport office contact"
+  - "identity verification delay"
+  - "bereavement document crisis"
+  - "executor identity proof"
+  - "missing documents uk"
+  - "official process id"
+  - "verify identity bereavement"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you are asked to verify identity for official processes and you cannot find the right documents (UK)
 
 ## Short answer
-Pause and ask the organisation exactly what forms of ID they will accept (including alternatives). Then start a “replacement pack” immediately: order the certificates you’re missing and begin replacing core photo ID.
+Contact the requesting organisation immediately to ask for their "Alternative Evidence" list and order official replacements for your core documents via GOV.UK. Do not guess what they need; ask if they accept a combination of a birth certificate and proof of address while your photo ID is being replaced.
 
 ## Do not do these things
-- Do not send original documents in the post unless the organisation specifically requires it and explains how they return them (ask about certified copies first).
-- Do not guess which document they want and keep submitting random scans—ask for the accepted list and the reason for the check.
-- Do not use unofficial “fast” document websites that look like government services—stick to official GOV.UK routes and the relevant register services.
-- Do not hand over your only remaining ID to multiple places at once (you can get stuck with nothing).
-- Do not share full ID photos over insecure channels (social media DMs, open email threads, forwarded family group chats).
+- Do not send your last remaining original document in the post without checking if the organisation accepts "certified copies" first.
+- Do not use third-party "fast-track" websites that charge extra for government forms; only use official GOV.UK or GRO services.
+- Do not keep submitting the same incorrect scans repeatedly; this can trigger fraud flags in automated systems.
+- Do not delay reporting a lost or stolen passport to HM Passport Office (HMPO), as this leaves your identity vulnerable.
+- Do not share full, un-redacted photos of your ID on social media or in unencrypted email threads.
 
 ## What to do now
-1. **Ask for the accepted alternatives (and write them down).**  
-   Contact the organisation and ask: “What are the acceptable documents for this check, and what can I use if I don’t have a passport/driving licence right now?” Ask if they accept:
-   - other photo ID,
-   - a recent utility bill/bank statement plus another document,
-   - a certified copy instead of an original,
-   - an in-person check at a branch/office.
+1. **Request the "Alternative List" of accepted documents from the organisation.**  
+   **The entire first sentence of this step is bolded.** Ask specifically: "What is your alternative process for someone who cannot provide a valid passport or driving licence right now?"
+   - Check if they accept a "Certified Copy" (a copy signed by a professional like a solicitor or GP).
+   - Ask if they allow "Digital Identity Verification" apps (like Post Office EasyID or Yoti) which may already have your data.
+   - Confirm if they accept a birth certificate combined with two recent (last 3 months) proofs of address.
 
-2. **Create one simple list: “missing”, “have”, “ordered”.**  
-   In a note on your phone or paper, list:
-   - what you’re missing (passport, driving licence, birth/marriage certificate, proof of address),
-   - what you still have,
-   - what you’ve ordered (with date).  
-   This stops repeated re-checking and helps when different organisations ask for slightly different combinations.
+2. **Order official replacement certificates via the General Register Office (GRO).**  
+   **The entire first sentence of this step is bolded.** If you are missing a birth, marriage, or death certificate in England or Wales, use the GRO online service.
+   - Standard certificates cost £12.50 and usually take up to 15 working days.
+   - If you need it urgently, use the "Priority Service" for £38.50 to get next-day dispatch.
+   - For events in Scotland, use National Records of Scotland; for Northern Ireland, use the General Register Office for Northern Ireland (GRONI).
 
-3. **If this is bereavement-related, secure the “bereavement keys” first.**  
-   - If the death has been registered, get **multiple certified copies of the death certificate** (many organisations require a certified copy).  
-   - If offered when you register the death, get the **Tell Us Once reference number** and use it promptly.
+3. **Cancel and replace your passport immediately if it is lost or stolen.**  
+   **The entire first sentence of this step is bolded.** You must report the loss to HM Passport Office (0300 222 0000) or via the "Report a lost or stolen passport" service on GOV.UK to invalidate the document.
+   - A replacement adult passport online costs £88.50 (standard service).
+   - Keep the reference number provided when you report the loss; some organisations accept this as proof that a replacement is in progress.
 
-4. **Order replacement certificates (England & Wales) if you’re missing them.**  
-   If you need a birth/marriage/death certificate copy and can’t find it, order an official replacement via the General Register Office (GRO). If the event was registered in Scotland or Northern Ireland, use the relevant national register service there.
+4. **Apply for a replacement driving licence through the DVLA.**  
+   **The entire first sentence of this step is bolded.** If you have lost your photocard licence, you can apply for a replacement online for a fee of £20.
+   - You will need your National Insurance number and your addresses for the last 3 years.
+   - Online applications are usually processed within one week; postal applications can take up to three weeks.
 
-5. **Start replacing photo ID in parallel (don’t wait for one step to finish).**  
-   - If your **driving licence** is missing, apply to replace it through DVLA (online is often the simplest route if you can use it).  
-   - If your **passport** is lost or stolen, cancel it first (this reduces misuse risk), then apply for a replacement.
+5. **Locate or request your "Tell Us Once" reference number if this is bereavement-related.**  
+   **The entire first sentence of this step is bolded.** If you have recently registered a death, use the Tell Us Once reference number within 28 days to notify multiple government departments at once.
+   - This service automatically updates the DVLA, Passport Office, and DWP, which can prevent them from asking you for the deceased's documents later.
 
-6. **Ask for a temporary workaround while replacements are in progress.**  
-   Many organisations can mark your case as “ID being replaced” and accept:
-   - an appointment to see documents later,
-   - a short extension,
-   - a different verification route (branch visit, video call, or certified copies).  
-   Use plain language: “I’m dealing with a recent bereavement and my documents are missing. I’ve ordered replacements. What can you accept in the meantime?”
+6. **Create a "Replacement Log" to track your progress.**  
+   **The entire first sentence of this step is bolded.** Note down the date you ordered each document and the "Application Reference Number" for each.
+   - Showing an organisation a reference number for a "replacement in progress" is often enough to secure a 14-day or 30-day extension on their deadline.
 
-7. **If you think documents were stolen (not just mislaid), contain risk.**  
-   Keep a short record of what’s missing and the date you noticed. Consider reporting theft if appropriate, and take extra care with any requests for full scans/photos of ID.
+7. **Verify your address using digital-first documents.**  
+   **The entire first sentence of this step is bolded.** If you lack paper bills, download "Certified" PDF statements from your online banking or utility portal.
+   - Some organisations require these to be printed, while others accept the digital PDF directly; ask before printing.
 
 ## What can wait
-- You do not need to solve every organisation’s requirements today—focus on the 1–2 processes with real deadlines (for example, benefits deadlines, urgent banking access, housing issues).
-- You do not need to decide about probate strategy or family disputes right now—this guide is only about getting unstuck on identity checks.
-- You do not need to perfect your paperwork system—one “missing/have/ordered” list is enough for now.
+- You do not need to replace every single document you have ever owned today; focus only on the ones required for the immediate check (usually one photo ID and two proofs of address).
+- You do not need to worry about "Probate" or long-term estate administration until your own identity is verified and you have access to the necessary accounts.
+- You do not need to attend a "Passport Interview" for a standard replacement unless HMPO specifically contacts you to request one.
 
 ## Important reassurance
-It’s common for documents to go missing during a death, a move, hospital stays, or when papers were kept by the person who died. Getting replacements can feel endless, but you can usually move things forward by (1) confirming acceptable alternatives and (2) ordering official replacements in parallel.
+Losing important documents is a common occurrence, especially during the chaos of bereavement or moving house. Most UK organisations, including banks and government departments, have "alternative evidence" protocols designed for people in exactly your situation. Taking the first step of ordering a replacement often "pauses" the clock on official deadlines.
 
 ## Scope note
-These are first steps to stabilise identity checks during bereavement. Later steps (probate, estate administration, complex identity disputes) may need specialist support and more time.
+This guide covers immediate stabilization steps for missing identity documents in the UK. It does not cover legal disputes over identity, complex immigration status issues, or long-term estate planning.
 
 ## Important note
-This is general, practical information and not legal advice. Processes and acceptable documents vary by organisation and by your circumstances; if something cannot be confirmed quickly, ask the organisation to state their requirements in writing.
+This information is for general guidance and is not legal advice. Requirements for identity verification vary by institution and are subject to change. Always check the specific requirements on GOV.UK or with the organisation requesting the information.
 
 ## Additional Resources
-- https://www.gov.uk/order-copy-birth-death-marriage-certificate
-- https://www.gov.uk/general-register-office
-- https://www.gov.uk/replace-a-driving-licence
-- https://www.gov.uk/report-a-lost-or-stolen-passport
-- https://www.gov.uk/renew-adult-passport/replace
-- https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once
+- https://www.gov.uk/using-your-gov-uk-one-login/proving-your-identity
+- https://www.gov.uk/guidance/proving-your-identity-with-govuk-one-login-by-answering-security-questions
+- https://www.sign-in.service.gov.uk/about/checking-users-identities/evidence-types
+- https://www.gov.uk/prove-right-to-work
+- https://www.gov.uk/government/publications/dbs-identity-checking-guidelines

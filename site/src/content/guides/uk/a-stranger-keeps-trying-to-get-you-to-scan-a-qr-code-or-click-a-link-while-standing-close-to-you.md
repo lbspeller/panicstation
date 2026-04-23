@@ -1,79 +1,91 @@
-﻿---
+---
 title: "What to do if… a stranger keeps trying to get you to scan a QR code or click a link while standing close to you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - stranger pushing qr code
-  - pushed to scan qr
-  - pressured to click link
-  - quishing in public
-  - qr code social engineering
-  - street scam qr code
-  - someone standing too close
-  - pressured phone interaction
-  - suspicious qr code request
-  - unsolicited link in person
-  - donation qr code pressure
-  - “scan this” stranger
-  - fake helpdesk qr code
-  - distraction while on phone
-  - possible pickpocket setup
-  - public place scam approach
-  - unwanted close contact
-  - phone safety in crowds
-last_reviewed: "2026-01-11"
+  - "stranger pushing qr code"
+  - "pushed to scan qr"
+  - "pressured to click link"
+  - "quishing in public"
+  - "qr code social engineering"
+  - "street scam qr code"
+  - "someone standing too close"
+  - "pressured phone interaction"
+  - "suspicious qr code request"
+  - "unsolicited link in person"
+  - "donation qr code pressure"
+  - "scan this stranger"
+  - "fake helpdesk qr code"
+  - "distraction while on phone"
+  - "possible pickpocket setup"
+  - "public place scam approach"
+  - "unwanted close contact"
+  - "phone safety in crowds"
+  - "what do i do if a stranger wants me to scan a code"
+  - "what do i do if someone is standing too close with a qr code"
+  - "what do i do if i am being pressured to click a link"
+  - "what do i do if a stranger won't leave me alone on the street"
+  - "help i scanned a suspicious qr code"
+  - "help i clicked a link from a stranger"
+  - "my phone was almost taken by a scammer"
+  - "my personal space is being invaded by a stranger"
+  - "smell of alcohol or distraction"
+  - "unusual physical proximity"
+  - "feeling of being watched or followed"
+  - "visible sticker over qr code"
+  - "qr code phishing"
+  - "stranger pressing phone screen"
+  - "unwanted proximity in shops"
+  - "pressure to scan in station"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a stranger keeps trying to get you to scan a QR code or click a link while standing close to you (UK)
 
 ## Short answer
-Create distance first: step away into a safer, more public spot and do **not** scan or click anything while they’re close to you. If they won’t let you disengage or you feel threatened, contact help.
+Create immediate physical distance by moving to a busy or staffed area and do not scan, click, or unlock anything. Disengage from the interaction without explanation and secure your device and belongings.
 
 ## Do not do these things
-- Don’t scan the QR code or click the link “just to get them to stop.”
-- Don’t unlock banking apps, enter passwords, or type card details while they’re watching.
-- Don’t hand them your phone “so they can show you.”
-- Don’t follow them to a quieter place or around a corner.
-- Don’t stay stuck in a conversation out of politeness—repeat “No” once and leave.
-- Don’t argue or accuse them up close; focus on getting space.
+- Do not scan the QR code or click the link to satisfy the stranger or make them leave.
+- Do not unlock your phone, banking apps, or digital wallets while they are within sight of your screen.
+- Do not hand your device to the stranger for any reason.
+- Do not follow the person to a secondary, quieter, or less visible location.
+- Do not engage in an argument or attempt to explain why you are refusing.
+- Do not assume the request is legitimate because the person appears distressed or official.
 
 ## What to do now
-1. **Make space immediately.** Take a few steps back and move to a staffed or busy place (shop counter, café, station help point, reception desk).
-2. **End the interaction with a short script and keep moving.**  
-   Say: “No thanks.” / “I can’t help.” / “Please step back.” Then walk away. (No explanation.)
-3. **Put your phone away and secure your belongings.** Lock the screen, hold your phone and bag close, and check your pockets/zip fastenings once you’re a few metres away.
-4. **Get a third party involved if they persist.** Tell staff/security: “Someone is pressuring me to scan a code and won’t leave me alone.” Ask them to stay with you while you move away.
-5. **If you feel unsafe or blocked from leaving, contact police.**  
-   - Call **999** if you’re in immediate danger or the situation is escalating.  
-   - If you’re safe but want to report suspicious behaviour or harassment, call **101** (or use your local force’s online contact options).
-6. **If you already scanned/clicked (damage-control, without panicking):**
-   - Close the page/app immediately. **Do not** log in, approve a payment, or install anything.
-   - If you entered any password, card details, or a “verification code,” **contact your bank/card provider straight away** using the number on your card or official banking app (not the link you were shown).
-   - Make a note (once safe) of where it happened, what was said, and any details you remember (time, location, description).
-7. **If they later text/email you as part of the same approach:**  
-   - Forward suspicious **texts** to **7726** (free).  
-   - Forward suspicious **emails** to **report@phishing.gov.uk**.
-8. **Report the scam attempt if money/details were involved (or you’re worried they were).**
-   - If you live in **England, Wales or Northern Ireland**, report cyber crime/fraud to **Report Fraud** (the national reporting service).  
-   - If you live in **Scotland**, report to **Police Scotland via 101**.
+1. **Move to a staffed or crowded location immediately.** Walk toward a shop counter, a station help point, a reception desk, or a group of people to end the isolation.
+2. **State a firm refusal and stop interacting.** Say "No" or "I cannot help you" clearly and continue moving away without looking back or waiting for a response.
+3. **Secure your physical belongings and lock your device screen.** Place your phone in a secure internal pocket or zipped bag and check that your wallet and other valuables are still in your possession once you have reached a safe distance.
+4. **Alert on-site security or staff if the person continues to follow or pressure you.** State clearly that you are being harassed and ask them to monitor the individual while you leave the area.
+5. **Contact the police if you feel threatened or blocked from leaving.** 
+   - Call **999** if the person is aggressive, following you, or if you are in immediate danger.
+   - Call **101** if you are safe but wish to report suspicious behavior or harassment that has already occurred.
+6. **Follow digital containment steps if you have already scanned a code or clicked a link.** 
+   - Close the browser or app immediately without entering any data.
+   - If you provided financial details or passwords, contact your bank immediately by calling **159** or using the number on the back of your card.
+   - If you are in England, Wales, or Northern Ireland, report the incident to **Report Fraud** (formerly Action Fraud) at reportfraud.police.uk or call 0300 123 2040.
+   - If you are in Scotland, report the incident to **Police Scotland** via 101.
+7. **Forward any follow-up phishing attempts to official reporting channels.**
+   - Forward suspicious text messages to **7726**.
+   - Forward suspicious emails to **report@phishing.gov.uk**.
 
 ## What can wait
-- You do **not** need to work out whether it was “definitely a scam” right now.
-- You do **not** need to confront them, film them, or get their name.
-- You do **not** need to decide immediately whether to make a formal report—get safe first, then choose.
+- You do not need to determine if the person’s story was true or if the code was definitely malicious.
+- You do not need to check your bank balance or account security while you are still in public or near the person.
+- You do not need to confront the individual to warn others; official reporting handles this after you are safe.
 
 ## Important reassurance
-This approach is designed to create urgency and social pressure. Walking away without engaging is a normal, reasonable response. You don’t owe a stranger access to your phone, your attention, or an explanation.
+Social pressure and physical proximity are deliberate tactics used to bypass your natural caution. Choosing to walk away and prioritize your own safety and privacy is a standard and appropriate response to unsolicited approaches. You are not being rude by protecting your personal space and digital security.
 
 ## Scope note
-This guide covers first steps to get distance, reduce immediate risk, and limit digital/financial harm. If anything was scanned/clicked and you shared details, next steps may involve your bank and official reporting channels.
+This guide provides first-step stabilization for personal safety and immediate digital harm prevention. It does not cover long-term identity theft recovery or legal proceedings.
 
 ## Important note
-This is general safety information, not legal advice. If you feel in danger, prioritise getting to a safer place and contacting emergency services.
+This information is for safety guidance and does not constitute legal or professional security advice. In any situation involving physical intimidation or suspected crime, contact emergency services immediately.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/blog-post/qr-codes-whats-real-risk
-- https://www.gov.uk/contact-police
-- https://www.reportfraud.police.uk/how-to-report-suspicious-activity/
-- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/7726-reporting-scam-texts-and-calls
-- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/collection/phishing-scams
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-website
+- https://www.citizensadvice.org.uk/consumer/scams/check-if-something-might-be-a-scam/
+- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/

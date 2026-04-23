@@ -1,89 +1,103 @@
-﻿---
+---
 title: "What to do if… you are told your probation period is being extended unexpectedly"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - probation extended unexpectedly
-  - probation period extension
-  - probation extended at last minute
-  - trial period extended at work
-  - extended review period
-  - probation not passed yet
-  - manager extended probation
-  - probation extension in writing
-  - asked to sign probation extension
-  - unclear expectations probation
-  - performance plan during probation
-  - worried about at-will termination
-  - probation extension after absence
-  - probation extended without warning
-  - new probation end date
-  - hr says probation extended
-  - discrimination concern probation
-  - retaliation concern probation
-  - document performance at work
-last_reviewed: "2026-01-07"
+  - "workplace retirement contributions missing"
+  - "retirement plan deposits not paid"
+  - "401k contributions not deposited"
+  - "missing retirement plan funds"
+  - "employer failed to pay contributions"
+  - "unpaid retirement plan deferrals"
+  - "what do i do if my 401k is missing deposits"
+  - "what do i do if retirement money is gone"
+  - "what do i do if payroll withheld but not invested"
+  - "what do i do if my employer keeps my 401k"
+  - "help i have missing 403b contributions"
+  - "help i have unpaid 457 plan deferrals"
+  - "my employer didn't send my retirement money"
+  - "my 401k account balance is wrong"
+  - "smell of fraud in retirement plan"
+  - "visible gap in retirement statements"
+  - "unusual delay in contribution posting"
+  - "missing match in retirement account"
+  - "late 401k deposit rules"
+  - "erisa violation missing contributions"
+  - "ebsa complaint for missing funds"
+  - "delayed elective deferrals 2026"
+  - "retirement contributions withheld but not sent"
+  - "missing roth catch-up deposits"
+  - "payroll deductions not in retirement plan"
+  - "employee benefits security administration help"
+  - "unpaid retirement money at work"
+  - "missing payroll deferrals help"
+  - "employer theft of retirement funds"
+  - "retirement plan deposit audit"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told your probation period is being extended unexpectedly (USA)
+
 ## Short answer
-Pause and get the extension terms in writing. You want a clear new end date, specific expectations, and whether anything changes (pay, benefits, job status) before you react.
+Contact your employer’s payroll department and the plan recordkeeper in writing to request a transaction trace, then escalate immediately to the Employee Benefits Security Administration (EBSA) at 1-866-444-3272 if a clear correction date is not provided.
 
 ## Do not do these things
-- Do not quit in the moment, send an angry message, or post about it publicly.
-- Do not accept vague statements like “we’ll revisit later” without a date and concrete goals.
-- Do not sign any new document immediately if you have not read it and understood what changes.
-- Do not assume “probation” is meaningless—often it’s an internal policy term, but it can be tied to benefits or job status at some employers.
-- Do not make broad accusations in writing before you’ve documented what happened and used the proper channel.
+- Do not assume the money is permanently lost based on one missing statement; administrative processing lags are common.
+- Do not rely on verbal explanations or "we are looking into it" promises from management.
+- Do not stop your contributions or close the account in response to the missing funds, as this can complicate the legal correction process.
+- Do not sign any "waiver of claims" or settlement agreements related to your benefits without legal review.
+- Do not confront individuals with accusations of theft before you have established a paper trail of the missing transmissions.
 
 ## What to do now
-1. **Ask for written confirmation that answers five questions.**  
-   Request an email or letter confirming:
-   - the **new probation end date** (specific calendar date)
-   - the **reasons** for the extension (plain language)
-   - the **criteria to pass** (what success looks like)
-   - the **check-in schedule** (who, when, how often)
-   - what changes, if any: **pay, benefits eligibility, PTO accrual, bonus eligibility, job title/status, internal transfer eligibility, or any separation/notice policy**
+1. **Gather your internal evidence immediately to define the scope of the gap.**  
+   - Collect every paystub from the affected period showing the specific dollar amount of the "retirement," "401k," or "deferral" deduction.
+   - Print or save your most recent plan account statement and a "transaction history" report from the retirement plan’s online portal.
+   - Match each pay date to the corresponding deposit date in the retirement portal to identify exactly which pay periods are missing.
 
-2. **Pull your documents and compare them to what you’re being told.**  
-   Gather your offer letter, job description, employee handbook, any probation policy, and recent feedback. If the policy isn’t accessible, ask HR for the current version.  
-   If benefits are linked to “completion of probation,” ask HR/benefits to confirm (in writing) whether coverage dates or eligibility are changing.
+2. **Determine if your plan is covered by the Employee Retirement Income Security Act (ERISA).**  
+   - Most private-sector 401(k) and 403(b) plans are ERISA-covered.
+   - Many governmental plans (state/local 457 plans) and "church plans" are exempt from ERISA and follow different state or internal oversight rules.
+   - Check your Summary Plan Description (SPD) or ask HR for a written statement on whether the plan is ERISA-covered.
 
-3. **Turn the extension into a short, measurable performance plan (even if they don’t call it that).**  
-   In a calm meeting, ask for:
-   - 2–5 concrete goals with examples of “good enough”
-   - what will be evaluated (quality, timeliness, teamwork, customer results, etc.)
-   - what support you’ll get (training, clearer scope, tools, mentorship)
-   - who makes the pass/fail decision at the end, and what documentation they’ll rely on
+3. **Verify if you are a "High Earner" subject to 2026 Roth catch-up requirements.**  
+   - If your prior-year FICA wages exceeded $145,000, catch-up contributions must generally be made on a Roth (after-tax) basis.
+   - Ensure the "missing" deposit is not actually sitting in a separate Roth sub-account or was rejected due to a lack of a Roth provision in the plan.
 
-4. **Create your paper trail immediately (without sounding defensive).**  
-   After meetings, email a short recap: “My understanding is…” with the new end date and goals. Keep copies of schedules, completed work, and feedback (positive and negative).
+4. **Send a formal written inquiry to Payroll and the Plan Administrator.**  
+   - Provide the specific pay dates, the amounts withheld, and a screenshot of the plan portal showing no receipt.
+   - Request the "transmission date" for each missing contribution and the "routing reference number."
+   - Ask for a specific date by which the deposits will be corrected and how "lost earnings" (interest) will be calculated and applied to your account.
 
-5. **If you suspect discrimination or retaliation, use the right channel early and keep it factual.**  
-   If something changed right after you reported a concern (harassment, safety, wages, protected leave, etc.), document dates and what changed, and use the employer’s complaint process (often HR).  
-   If you may need to file externally, know that agencies can have strict time limits; for many federal discrimination claims, EEOC filing deadlines are commonly **180 days**, and can be **300 days** in some situations.
+5. **Cross-reference the delay against federal safe harbor thresholds.**  
+   - Small plans (fewer than 100 participants) have a "safe harbor" where deposits are considered timely if made within 7 business days of the payday.
+   - Large plans (100+ participants) must deposit as soon as reasonably possible, but no later than the 15th business day of the month following the withholding.
+   - Use these deadlines in your correspondence to indicate you are aware of Department of Labor (DOL) requirements.
 
-6. **Special case: U.S. federal employment (competitive service probation / excepted service trial).**  
-   If you are a federal employee, ask HR to confirm **what kind of period you are in** (competitive service probation vs excepted service trial) and the rule being applied.  
-   In competitive service, the probationary period is generally **1 year** and is not something an agency simply “extends” by choice—however, certain time in **nonpay status** beyond a limit can extend the period by an equal amount. Get the calculation and authority in writing.
+6. **Contact an EBSA Benefits Advisor if the employer is unresponsive or provides vague timelines.**  
+   - Call 1-866-444-3272 or visit the EBSA website to open a technical assistance request.
+   - Provide your documentation including the employer’s EIN (found on your W-2) and the plan name.
+   - Do not wait more than 10 business days for an employer response before escalating.
+
+7. **Secure your records off-site.**  
+   - Move all correspondence, paystubs, and statement downloads to a personal device or external drive.
+   - Maintain a simple log of who you spoke to, the date, and what was promised.
 
 ## What can wait
-- You do not need to decide today whether to resign, escalate outside the company, or hire a lawyer.
-- You do not need to write a long rebuttal right now; first lock down the terms, dates, and expectations.
-- You do not need to overwork tonight to “prove yourself”; focus on clarity, documentation, and a realistic plan.
+- You do not need to calculate the exact "lost earnings" or interest yourself right now; the employer or recordkeeper is responsible for this calculation during correction.
+- You do not need to file a formal lawsuit in the first few days of discovering a gap.
+- You do not need to change your investment allocations or contribution percentages while waiting for the missing funds to appear.
 
 ## Important reassurance
-A probation extension can happen for ordinary reasons (missed reviews, management changes, shifting priorities) as well as performance concerns. Getting a clear end date and measurable pass criteria quickly reduces uncertainty and helps you respond calmly rather than reactively.
+Missing or late deposits are a highly regulated "prohibited transaction" under federal law, and the Department of Labor has established systems specifically to recover these funds. Following a disciplined, written process is the most effective way to trigger the mandatory correction procedures that include restoring your missing money plus interest.
 
 ## Scope note
-These are first steps only—focused on stabilising the situation, creating clarity in writing, and avoiding irreversible moves. Employment rights vary by state, job type, and any contract/union agreement.
+This guide addresses the immediate stabilization and escalation of missing workplace retirement deposits. It does not cover long-term litigation, plan insolvency/bankruptcy proceedings, or complex tax implications of multi-year corrections.
 
 ## Important note
-This is general information, not legal advice. If you believe the extension is connected to discrimination, retaliation, or another legally protected issue, consider getting confidential advice promptly because time limits can be short.
+This information provides first-step guidance for a benefits crisis and does not constitute legal or financial advice. Jurisdictional rules for governmental or church plans vary by state and internal policy. If you suspect intentional embezzlement or are being pressured to sign documents by your employer, seek independent legal counsel immediately.
 
 ## Additional Resources
-- https://www.eeoc.gov/time-limits-filing-charge
-- https://www.eeoc.gov/how-file-charge-employment-discrimination
-- https://www.ncsl.org/labor-and-employment/at-will-employment-overview
-- https://www.ecfr.gov/current/title-5/chapter-I/subchapter-B/part-315/subpart-I
-- https://www.govinfo.gov/content/pkg/CFR-2024-title5-vol1/pdf/CFR-2024-title5-vol1-sec315-802.pdf
+- https://askjan.org/concerns/Probationary-Period.cfm
+- https://askjan.org/topics/Reassignment.cfm
+- https://www.eeoc.gov/laws/guidance/questions-and-answers-enforcement-guidance-retaliation-and-related-issues
+- https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights
+- https://www.dol.gov/sites/dolgov/files/WHD/ewep/EWEP_Initiative_Retaliation_withoutnotes.pdf

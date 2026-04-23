@@ -1,79 +1,92 @@
-﻿---
+---
 title: "What to do if… you are told your home is unsafe to occupy and you may have to leave quickly"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - home unsafe to occupy
-  - told to evacuate home
-  - uninhabitable house notice
-  - leave home quickly
-  - emergency move out
-  - building unsafe warning
-  - condemned house uk
-  - unsafe flat to live in
-  - sudden evacuation housing
-  - landlord says move out now
-  - council says leave property
-  - emergency accommodation tonight
-  - temporary housing urgent
-  - essentials to grab before leaving
-  - gas leak evacuation
-  - suspected carbon monoxide at home
-  - structural safety concern
-  - fire safety evacuation home
-  - flood damage leave home
-last_reviewed: "2026-03-04"
+  - "home unsafe to occupy"
+  - "told to evacuate home"
+  - "uninhabitable house notice"
+  - "leave home quickly"
+  - "emergency move out"
+  - "building unsafe warning"
+  - "condemned house uk"
+  - "unsafe flat to live in"
+  - "sudden evacuation housing"
+  - "landlord says move out now"
+  - "council says leave property"
+  - "emergency accommodation tonight"
+  - "temporary housing urgent"
+  - "essentials to grab before leaving"
+  - "gas leak evacuation"
+  - "suspected carbon monoxide at home"
+  - "structural safety concern"
+  - "fire safety evacuation home"
+  - "flood damage leave home"
+  - "what do i do if my home is unsafe"
+  - "what do i do if i am evacuated"
+  - "what do i do if i have no where to sleep tonight"
+  - "what do i do if my house is condemned"
+  - "help i am being told to leave my house"
+  - "help i have to evacuate my flat"
+  - "help i have no emergency housing"
+  - "help i cannot live in my home"
+  - "smell of gas in house"
+  - "visible cracks in building"
+  - "water coming through ceiling"
+  - "burning smell in flat"
+  - "buzzing electrical sounds"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told your home is unsafe to occupy and you may have to leave quickly (UK)
 
 ## Short answer
-Treat this as a safety issue first: get people and pets to a safer place, then get clear written confirmation of *who* is telling you to leave and *why* before you do anything else.
+Prioritise physical safety by moving all residents and pets outside the risk area immediately. Identify the authority issuing the instruction and contact your local council’s emergency homelessness team if you have no alternative shelter for tonight.
 
 ## Do not do these things
-- Don’t ignore the instruction if there’s any chance of immediate danger (fire risk, gas smell, structural movement, flooding, electrical hazards).
-- Don’t re-enter repeatedly “just to grab a few more things” if you’ve been told it’s unsafe—limit entry unless a competent person says it’s safe.
-- Don’t turn switches on/off if you suspect gas or you’re standing in water.
-- Don’t argue on the doorstep while you’re still inside risk—step outside first, then clarify.
-- Don’t sign anything you haven’t read or don’t understand while you’re panicked (you can usually ask for it in writing and respond later).
+- Don’t ignore an official instruction to evacuate if there is a risk of fire, gas leak, structural collapse, or flooding.
+- Don’t operate light switches, use doorbells, or light matches if you suspect a gas leak.
+- Don’t re-enter the property to collect belongings until a competent person (fire officer, structural engineer, or gas technician) confirms it is safe.
+- Don’t sign any permanent tenancy surrender documents or liability waivers while in an acute state of panic.
+- Don’t use a lift if the hazard involves fire or electrical failure.
 
 ## What to do now
-1. **Get to a safer pause (outside the risk area).** Take keys, phone, and anyone with you (including pets). If you believe there’s *immediate* danger to life, call **999**.
-2. **Identify the source of the instruction and get it in writing (or photo it).** Ask:  
-   - “Which organisation are you from?” “What is the hazard?” “Is entry prohibited or restricted?”  
-   - If there’s a notice (on a door/wall), **photograph it** clearly, including any reference numbers.
-3. **If you suspect gas or carbon monoxide: leave and call the gas emergency line.** From outside (or a neighbour’s), call the **National Gas Emergency Service: 0800 111 999**. Don’t operate electrical switches or naked flames.
-4. **If you rent: notify your landlord/agent immediately in a traceable way.** Send a short message/email: “I’ve been told the property is unsafe to occupy; here are photos; please confirm the safety status, access restrictions, and what emergency/temporary accommodation options you can offer.”  
-   - If you’re in social housing, ask for the landlord’s emergency housing/decant process and a named contact.
-5. **If you have nowhere safe to stay tonight, contact the local council for emergency homelessness help (including out-of-hours).** Use wording like: “I cannot occupy my home due to safety risk and need emergency accommodation.”  
-   - **England and Wales:** ask for the council homelessness team / emergency accommodation.  
-   - **Scotland and Northern Ireland:** the route is different, but your local authority still has an urgent housing help pathway—ask for the emergency/out-of-hours homelessness service.
-6. **Take a 2–3 minute “grab list” only if it’s safe and allowed.** Prioritise:  
-   - ID, bank cards, keys, phone + charger/power bank  
-   - essential medicines/medical devices, glasses/hearing aids  
-   - baby supplies, pet essentials (lead/carrier/food)  
-   - warm layer, basic toiletries  
-   If you can’t safely collect items, don’t—focus on safety and shelter first.
-7. **Create a quick record for later (this helps insurance and disputes).** From a safe place: note the time, who told you, what they said, and take photos/videos of visible damage **only if safe to do so**. Keep any receipts for emergency costs.
-8. **Contact your insurer if you can (but don’t get stuck on hold).** If it’s taking too long, leave a call-back request and switch back to securing a place to stay and informing landlord/council.
+1. **Move to a safer pause outside the building immediately.** Ensure all people and pets are accounted for and stay clear of the structure. If there is an active fire or immediate threat to life, call **999**.
+2. **If you suspect gas or carbon monoxide, ventilate and report.** Open windows and doors on your way out if safe to do so. Once outside, call the **National Gas Emergency Service on 0800 111 999**.
+3. **Report electrical hazards or power risks.** If you see sparks, smell burning plastic, or there is flooding near electrics, call **105** to reach the local electricity network operator.
+4. **Identify the authority and record the instruction.** Ask the person on-site for their name, organisation, and a written notice or reference number.
+   - Photograph any "Notice of Unfitness" or "Prohibition Order" posted on the property.
+   - Clarify if the ban is total or if limited access is permitted for essential retrieval.
+5. **Contact your local council for emergency housing assistance.** State clearly that you are "homeless due to an emergency" (fire, flood, or disaster), which often qualifies you for Priority Need status.
+   - **England/Wales:** Ask for the "Homelessness Duty" or out-of-hours emergency housing officer.
+   - **Scotland:** Contact the local authority's 24-hour homeless service.
+   - **Northern Ireland:** Contact the **Northern Ireland Housing Executive (NIHE)** emergency line.
+6. **Gather a "grab list" only if explicitly permitted by emergency services.** Focus on high-priority items:
+   - Passports, ID, bank cards, and house keys.
+   - Essential medication, prescriptions, and medical devices.
+   - Mobile phones, chargers, and portable power banks.
+   - Baby formula, nappies, and pet leads/carriers.
+7. **Notify your landlord or insurance provider from a safe location.** If you rent, send a traceable message (email/text) informing them the property is uninhabitable and asking for their emergency accommodation policy.
+   - If you are a homeowner, call your buildings and contents insurer to trigger "Alternative Accommodation" coverage.
+8. **Secure a log of events.** Note the time, the specific hazard identified, and the names of officials you spoke with. Keep all receipts for emergency transport, food, or temporary lodging.
 
 ## What can wait
-- You do not need to decide today whether to repair, move permanently, or make a claim “perfectly.”
-- You don’t need to inventory everything you own right now—just preserve evidence and keep receipts.
-- You don’t need to resolve liability (landlord vs. insurer vs. builder vs. council) in the first hours.
+- You do not need to provide a full inventory of damaged items or personal property in the first few hours.
+- You do not need to determine long-term liability or fault right now.
+- You do not need to decide on permanent rehousing or major repairs today.
+- You do not need to cancel utility contracts or redirect mail in the immediate moments of evacuation.
 
 ## Important reassurance
-Being told to leave your home can feel unreal and destabilising. In the first hour, the goal is simple: get safe, get clarity in writing, and make sure you have somewhere to sleep—everything else can be handled step-by-step.
+It is normal to feel overwhelmed, confused, or physically shaky when forced to leave your home. The immediate priority is simply finding a safe, warm place to stay for the next few hours. Once you are physically safe and have contacted the local authority, the legal and financial details can be processed one at a time.
 
 ## Scope note
-This is first-steps-only guidance for the initial hours. Later steps (repairs, disputes, rehousing, and legal rights) often depend on the cause (fire risk, structural issues, flooding, utilities) and your housing situation.
+This guide provides first-step stabilization for the initial hours of an emergency evacuation. Long-term housing rights, repair disputes, and insurance claims require specialist advice once the immediate crisis has passed.
 
 ## Important note
-This is general information, not legal advice. If you feel unsafe or unsure, prioritise getting out and contacting emergency services or your local council for urgent housing help.
+This information is for emergency stabilization and does not constitute legal or professional housing advice. If you are in high-rise housing in England, you may have specific rights to a Personal Emergency Evacuation Plan (PEEP) under 2026 regulations if you have mobility or sensory impairments.
 
 ## Additional Resources
-- https://www.nationalgas.com/emergency-contacts
-- https://www.gov.uk/homelessness-help-from-council
+- https://www.citizensadvice.org.uk/housing/fire-safety/if-your-flat-isnt-fire-safe/
+- https://www.citizensadvice.org.uk/housing/building-safety/if-the-structure-of-the-building-you-live-in-isnt-safe/
 - https://england.shelter.org.uk/housing_advice/homelessness/emergency_housing_from_the_council
-- https://england.shelter.org.uk/housing_advice/repairs/emergency_hazards_council_housing_association
+- https://england.shelter.org.uk/housing_advice/homelessness/emergency_housing_from_the_council/types_of_emergency_housing
 - https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018

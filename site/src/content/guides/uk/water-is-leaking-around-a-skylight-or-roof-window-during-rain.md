@@ -1,83 +1,91 @@
-﻿---
+---
 title: "What to do if… water is leaking around a skylight or roof window during rain"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - skylight leaking in rain
-  - roof window leaking
-  - water coming in around skylight
-  - rain leaking through roof window
-  - ceiling leak near skylight
-  - dripping from skylight frame
-  - water pooling on window sill
-  - roof leak during storm
-  - sudden indoor water leak
-  - leak near ceiling light
-  - wet plaster around skylight
-  - damp patch spreading fast
-  - buckets under ceiling drip
-  - protect belongings from leak
-  - stop rainwater entering attic
-  - emergency roof leak uk
-  - skylight seal failed
-  - flashing leak around roof window
-last_reviewed: "2026-03-04"
+  - "skylight leaking in rain"
+  - "roof window leaking"
+  - "water coming in around skylight"
+  - "rain leaking through roof window"
+  - "ceiling leak near skylight"
+  - "dripping from skylight frame"
+  - "water pooling on window sill"
+  - "roof leak during storm"
+  - "sudden indoor water leak"
+  - "leak near ceiling light"
+  - "wet plaster around skylight"
+  - "damp patch spreading fast"
+  - "buckets under ceiling drip"
+  - "protect belongings from leak"
+  - "stop rainwater entering attic"
+  - "skylight seal failed"
+  - "flashing leak around roof window"
+  - "what do i do if my skylight is leaking"
+  - "what do i do if it is raining inside"
+  - "what do i do if water is dripping from ceiling"
+  - "help i have a roof leak"
+  - "help i have water in my light fitting"
+  - "my skylight is dripping"
+  - "my roof window is leaking"
+  - "brown stain on ceiling near window"
+  - "water dripping from window handle"
+  - "bubbling paint on ceiling"
+  - "water running down internal wall"
+  - "attic window leak in rain"
+  - "velux window leaking in rain"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… water is leaking around a skylight or roof window during rain (UK)
+
 ## Short answer
-Treat it as an electrical + ceiling-collapse risk first: keep people away from the drip area, contain the water, and switch off power to the affected area if water is near lights/outlets or you’re unsure.
+Isolate electrical risks first by turning off power to the affected area at the consumer unit, move people away from the drip, and contain the water using buckets or towels. Do not attempt to access the roof during rain or wind.
 
 ## Do not do these things
-- Do not go onto the roof in rain or windy conditions, even “just to check”.
-- Do not touch wet light fittings, ceiling roses, smoke alarms, or switches that are getting dripped on.
-- Do not run extension leads, chargers, or appliances through wet areas “temporarily”.
-- Do not poke holes in a bulging ceiling to “drain it” (collapse and wiring risk).
-- Do not start permanent repairs or apply sealant outside during the storm.
+- Do not go onto the roof or use a ladder outside while it is raining or windy.
+- Do not touch any light fittings, switches, or sockets that appear wet or are near the leak.
+- Do not use a consumer unit (fuse box) if your hands are wet or if you are standing in water.
+- Do not poke or perfore a bulging or sagging ceiling to "drain" the water.
+- Do not attempt to apply temporary sealants or "emergency" tape to the exterior of the window until the storm has passed.
 
 ## What to do now
-1. **Make a safer pause.** Move people/pets away from the leak area and anything that could slip (wet floors, rugs). Put a towel down as a “no-step” marker.
-2. **Deal with electricity first (quick check).**
-   - If water is dripping near **ceiling lights, smoke alarms, sockets, wiring runs, or any appliance**, **switch off the affected circuit at the consumer unit** if you can do so **without standing in water**.
-   - If you can’t confidently isolate just one circuit, **switch off the main switch** (only if safe and dry to access).
-3. **Contain and redirect the water.**
-   - Put a **bucket/large bowl** under the main drip. Add a towel in the bucket to reduce splashing.
-   - Use **plastic sheeting/bin bags + tape** to create a simple “funnel” that guides drips into the bucket (tape to nearby dry surfaces, not to a wet fitting).
-4. **If safe, reduce hidden spread from inside only (optional).**
-   - If you can access the **loft/attic hatch from inside** and it’s **dry underfoot**, take a torch and look for the drip path above the ceiling.
-   - **Do not touch anything electrical.** If you see water near wiring, junction boxes, downlights, or cables, **back out and keep power off**.
-   - If it’s clear of electrics, you can place a **container** or **plastic sheet** to guide drips into a container to limit soaking of insulation/plaster.
-5. **Protect what will be ruined fast.** Move electronics, soft furnishings, paperwork, and anything valuable away from the drip line. If water is running down walls, pull furniture a few inches forward.
-6. **Check for “stop and leave the room” signs.** If you see any of these, keep the room closed off and get help urgently:
-   - water dripping **through a light fitting** or **from a smoke alarm**
-   - **ceiling sagging/bulging**, cracking noises, or plaster falling
-   - burning smell, buzzing, sparking, or repeated trips at the consumer unit
-7. **Document the situation quickly (30–60 seconds).** Take photos/videos of: the leak point, any interior damage, and the wider room (for insurance/landlord).
-8. **Call the right person for your housing situation.**
-   - **Owner-occupier:** contact your **home insurer’s emergency helpline** and ask what “make-safe” work they authorise during a storm; then contact a roofer for temporary weatherproofing when conditions allow.
-   - **Tenant:** report it to your **landlord/letting agent** immediately as an emergency repair; send photos.
-   - **Leasehold/flat with building management:** notify the **managing agent/freeholder/building maintenance** if the roof is communal.
-9. **Know who to call for electrical supply danger.**
-   - If there’s **immediate danger** (sparking/fire/ceiling collapse risk), call **999**.
-   - If you notice **damage to external/supply electricity equipment** or you have a **power cut**, call the free power-cut number **105** (Great Britain) to reach your local network operator.
+1. **Move people and pets away from the immediate area.** Establish a safe distance from the drip and any visible ceiling bulges to prevent injury from falling plaster or slips on wet flooring.
+2. **Switch off the electricity to the affected room.** Go to your consumer unit (fuse box) and flip the switch for the specific lighting or power circuit involved.
+   - If you cannot identify the correct circuit, use the main switch to turn off all power to the property.
+   - Only do this if the consumer unit itself is dry and you can reach it without standing in water.
+3. **Contain the water to prevent floor and structural damage.** Place a bucket, basin, or large pot directly under the drip.
+   - Place a cloth or sponge inside the bucket to prevent splashing.
+   - Lay towels around the bucket to catch any spray or secondary drips.
+4. **Move valuable items and furniture.** Clear electronics, paperwork, and soft furnishings from the path of the water.
+   - If water is running down a wall, pull furniture several inches away from that wall to prevent mould and saturation.
+5. **Check the loft space if it is safe and internal.** Access the attic only if the hatch is located away from the leak and you can move safely without touching wet insulation or wiring.
+   - Place a tray or bucket under the drip point in the loft to prevent water from soaking through the ceiling plaster.
+   - Do not move or touch any cables or junction boxes in the loft.
+6. **Identify emergency triggers for external help.** Contact emergency services (999) only if the situation escalates to a life-safety risk.
+   - Call 999 if you see smoke, sparks, or fire from wet electricals.
+   - Call 999 if a large section of the ceiling collapses or appears imminently ready to fall.
+7. **Contact the relevant property authority.**
+   - **Tenants (Private or Social):** Notify your landlord or housing association immediately. Under 2026 rules, emergency electrical hazards in social housing must be addressed within 24 hours.
+   - **Homeowners:** Contact your building insurance provider's 24-hour emergency helpline to request a "make-safe" visit from a contractor.
+   - **Flat Owners:** Contact the managing agent if the leak appears to originate from the communal roof structure.
+8. **Report network safety concerns.** Call 105 if the leak is affecting external power lines or the main service entry point to the building.
 
 ## What can wait
-- You do **not** need to find the exact outside source during the rain.
-- You do **not** need to decide today whether it’s “the skylight” or “the roof” — treat it as a leak and get it made safe.
-- You do **not** need to start drying/painting/repairing plaster until the water ingress is stopped and electrics are confirmed safe.
+- You do not need to identify the exact entry point on the roof (e.g., failed flashing vs. blocked gully) while the rain is falling.
+- You do not need to begin drying or cleaning the area until the power is confirmed safe by a professional.
+- You do not need to decide on permanent replacement windows immediately; focus only on temporary stabilization.
 
 ## Important reassurance
-A skylight/roof-window leak during heavy rain is common and often comes from flashing or drainage paths rather than a “ruined roof”. Your job right now is just: keep people safe, minimise damage, and get the right help lined up.
+Leaks around roof windows often look worse than they are because water spreads quickly across plasterboard. Most skylight leaks are caused by blocked drainage channels or degraded seals rather than total roof failure. Taking the immediate steps above will significantly reduce the risk of permanent damage.
 
 ## Scope note
-These are first steps to stabilise the situation during/just after the rain. Diagnosis and permanent repair (flashing, seals, roof coverings, condensation/weep paths) should be done by a competent roofer or the property’s responsible party.
+This guide covers first-step stabilization only. It does not provide instructions for roof repairs, electrical testing, or structural assessment. A qualified roofer and/or electrician will be required for diagnosis once the weather is clear.
 
 ## Important note
-This is general information, not a substitute for professional inspection. If you’re unsure about electrical safety, treat the area as live until checked by a qualified electrician and avoid contact with wet fittings or wiring.
+Water conducts electricity. If water has entered a light fitting or socket, consider that circuit live and dangerous until it has been isolated at the consumer unit and inspected by a qualified electrician. Never touch wet electrical components with your bare hands.
 
 ## Additional Resources
-- https://www.hse.gov.uk/construction/safetytopics/roofwork.htm
-- https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/
-- https://niceic.com/news/flooding-electrical-safety/
-- https://www.gov.uk/help-during-flood
-- https://www.energynetworks.org/customers/power-cut
+- https://www.velux.co.uk/support/wiki/windows-appear-leaking
+- https://www.velux.co.uk/resources/care-and-maintenance
+- https://www.axa.co.uk/home-insurance/tips-and-guides/roof-health-check/
+- https://www.aviva.co.uk/insurance/home-products/home-insurance/knowledge-centre/does-home-insurance-cover-roof-leaks/
+- https://www.moneyhelper.org.uk/en/everyday-money/insurance/what-is-buildings-insurance

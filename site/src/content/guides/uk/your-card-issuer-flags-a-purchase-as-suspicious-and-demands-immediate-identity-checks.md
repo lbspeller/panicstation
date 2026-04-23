@@ -1,81 +1,93 @@
-﻿---
+---
 title: "What to do if… your card issuer flags a purchase as suspicious and demands immediate identity checks"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - card issuer flagged purchase
-  - suspicious transaction alert
-  - card payment declined fraud check
-  - bank says verify identity now
-  - urgent identity check request
-  - fraud department call
-  - bank text about suspicious spend
-  - unexpected verification code
-  - one-time passcode request
-  - approve notification scam worry
-  - card security check message
-  - card temporarily frozen
-  - issuer wants extra checks
-  - possible bank impersonation
-  - vishing bank call
-  - phishing link from bank
-  - send id photo to bank
-  - upload id for card check
-  - card added to digital wallet
-last_reviewed: "2026-01-09"
+  - "card issuer flagged purchase"
+  - "suspicious transaction alert"
+  - "card payment declined fraud check"
+  - "bank says verify identity now"
+  - "urgent identity check request"
+  - "fraud department call"
+  - "bank text about suspicious spend"
+  - "unexpected verification code"
+  - "one-time passcode request"
+  - "approve notification scam worry"
+  - "card security check message"
+  - "card temporarily frozen"
+  - "issuer wants extra checks"
+  - "possible bank impersonation"
+  - "vishing bank call"
+  - "phishing link from bank"
+  - "send id photo to bank"
+  - "upload id for card check"
+  - "card added to digital wallet"
+  - "bank identity check text"
+  - "identity verification request card"
+  - "suspicious purchase bank call"
+  - "verify identity for purchase"
+  - "card issuer identity check"
+  - "my card issuer flagged a purchase"
+  - "help i got a suspicious purchase alert"
+  - "what do i do if my card is flagged"
+  - "what do i do if bank asks for identity check"
+  - "bank calling about suspicious purchase"
+  - "smishing bank link"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your card issuer flags a purchase as suspicious and demands immediate identity checks (UK)
+
 ## Short answer
-End any unexpected contact and verify it’s really your card issuer by contacting them through a trusted route (the number on the back of your card or your banking app). Don’t share one-time passcodes or approve prompts you didn’t start.
+End all active contact immediately and re-initiate communication through a verified channel, such as the phone number on the back of your physical card or the official banking app. Never share one-time passcodes (OTPs) or approve in-app prompts during an unexpected incoming call.
 
 ## Do not do these things
-- Don’t stay on an incoming call just because they sound convincing or “urgent”.
-- Don’t read out a one-time passcode, app code, or card-reader code to anyone.
-- Don’t click a link in a text/email to “verify now” unless you independently confirm it’s genuine.
-- Don’t send photos/scans of ID or a “selfie” by email, text, or messaging apps because someone asked you to.
-- Don’t install any remote-access/screen-sharing app or let anyone “talk you through” steps on your phone.
-- Don’t share your full PIN, online banking password, or full security details.
-- Don’t move money to a “safe account” or hand over cards/cash to anyone because of this message/call.
-- Don’t assume the phone number shown is real (caller ID can be spoofed).
+- Do not provide a one-time passcode (OTP), card-reader code, or app-generated security number to anyone over the phone.
+- Do not click links in "urgent" SMS or email alerts to sign in or "verify your identity."
+- Do not stay on the line to "confirm" details if the call was unexpected; scammers often spoof caller IDs to look like your bank.
+- Do not download remote access software or screen-sharing tools to your device.
+- Do not move money to a "safe account" or "holding account" under any circumstances.
+- Do not send photos of your ID or "selfie" videos via email, WhatsApp, or any link sent to you in an unsolicited message.
 
 ## What to do now
-1. **Stop and separate “verification” from “contact”.** If this is a call, say you’ll call back and end it. If it’s a text/email, don’t reply or tap anything yet.
-2. **Contact your issuer via a trusted route (choose one):**
-   - Call the **number on the back of your card**, or use the contact option inside your official banking app.
-   - If you’re unsure about a call claiming to be your bank, you can **hang up and dial 159** (it won’t call you). If 159 doesn’t connect you to your bank, use the number on your card instead.
-3. **Confirm what’s actually happened.** Ask:  
-   - Is there a flagged/declined transaction right now?  
-   - Has my card been temporarily blocked/frozen by you?  
-   - What identity check do you need, and what will you *not* ask me to share?
-4. **Do identity checks only through official channels you reached safely.** If they need ID documents, ask for the option to **upload in the banking app/secure portal you opened yourself**, or to complete checks in-branch (if your provider offers it). Avoid sending ID by email or via a link you didn’t initiate.
-5. **Lock down the card while you verify.** If your app allows it, **freeze/lock the card** until you’ve completed verification on the trusted channel.
-6. **Treat unexpected codes/prompts as a red flag.** If you received a passcode or a push notification you weren’t expecting, **do not approve it**. Tell the issuer you got an unsolicited code/prompt and ask whether someone is trying to log in or add your card to a digital wallet.
-7. **Check recent transactions (last 7–30 days) and act on anything you don’t recognise.** If anything looks unauthorised, report it on the verified call and ask what they’re doing next (replacement card, new card number, dispute steps).
-8. **If you think this was a scam attempt, make quick reports (optional but useful):**
-   - **Forward scam texts/calls to 7726** (free) to help your mobile provider investigate.
-   - **Forward suspicious emails to report@phishing.gov.uk**.
-   - To report fraud/cyber crime: **Report Fraud** (England/Wales/Northern Ireland) online, or call **0300 123 2040**. In **Scotland**, report to **Police Scotland via 101**.
+1. **Terminate the current contact immediately.** 
+   - If on a call, hang up. 
+   - If viewing a text or email, close the application. 
+   - Wait at least 15 seconds to ensure the line has fully cleared.
+2. **Contact your card issuer using a trusted method only.**
+   - Call the **number printed on the back of your physical card**.
+   - Or, open your **official banking app** and use the "Contact Us" or "Help" feature within the app.
+   - You may also **dial 159**, the secure hotline for most UK banks, to be safely routed to your bank's fraud department.
+3. **Verify the status of your account once you have reached a confirmed official representative.** 
+   - Ask if there is a **genuine transaction flag** on your account. 
+   - Ask if your **card or digital wallet** has been restricted. 
+   - Confirm if any **identity verification** is actually required by the bank.
+4. **Complete identity checks only within secure environments.** 
+   - If the bank requires ID, use the **official banking app’s document upload tool** or visit a physical branch if applicable. 
+   - Do not use any external portal or website link that was provided in a text or email.
+5. **Freeze your card if your app permits it.** 
+   - While you are verifying the situation, **manually toggle the "Freeze Card" or "Lock" setting** in your banking app to prevent further attempts.
+6. **Report the unsolicited contact if it was fraudulent.**
+   - Forward scam texts to **7726** (free on all UK mobile networks).
+   - Forward suspicious emails to **report@phishing.gov.uk**.
+   - If you have lost money, contact **Report Fraud** (formerly Action Fraud) at **0300 123 2040** (England/Wales/NI) or call **Police Scotland on 101**.
 
 ## What can wait
-- You don’t need to decide right now whether it’s “definitely fraud” or “definitely legitimate” — your priority is moving the conversation onto a trusted channel.
-- You don’t need to write a full timeline immediately. Just note the basics (time, what they asked for, any reference numbers/messages).
-- You don’t need to contact the merchant unless your issuer specifically tells you to.
+- You do not need to identify the "source" of the fraud or how they got your number right now.
+- You do not need to cancel all other cards immediately unless there is evidence of wider compromise.
+- You do not need to contact the retailer involved in the suspicious purchase until your bank confirms if the transaction is pending or blocked.
 
 ## Important reassurance
-Fraud flags are common and often mean your issuer’s systems are working. Feeling rattled is normal — scams rely on urgency, so slowing down and calling back safely is a strong move.
+Security flags are a standard protective measure and do not always mean your account has been emptied. It is normal to feel pressured by the "urgent" tone of these messages, but taking two minutes to hang up and call back is the most effective way to protect your money.
 
 ## Scope note
-These are first steps only to reduce harm and avoid irreversible mistakes. If there are unauthorised transactions or signs of identity misuse, you may need additional follow-up after things are stable.
+This guide provides first-step stabilization for responding to suspicious purchase alerts. It does not cover the long-term process of filing an indemnity claim or recovering lost funds if a transaction has already completed.
 
 ## Important note
-This is general information, not legal, financial, or professional advice. Processes vary by issuer and account type. If anything feels off, end contact and use the number on your card or your official banking app.
+This information is for general guidance and is not financial or legal advice. Fraud tactics evolve rapidly; always prioritize instructions given by your bank through their verified, official communication channels.
 
 ## Additional Resources
-- https://stopscamsuk.org.uk/our-work/159-phone-number/
-- https://www.bankofengland.co.uk/contact/scams-and-fraud
-- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
-- https://www.reportfraud.police.uk/contact-us/
-- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.nationwide.co.uk/help/fraud-and-security/fraud-alert-messages
+- https://www.nationwide.co.uk/help/fraud-and-security/reporting-fraud-or-a-scam
+- https://www.ukfinance.org.uk/press/press-releases/scam-alert-fake-automated-calls-claiming-be-banks-and-card-companies
+- https://www.nationwide.co.uk/help/fraud-and-security/scams
 - https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
-- https://www.scotland.police.uk/guidance/scams-and-frauds/

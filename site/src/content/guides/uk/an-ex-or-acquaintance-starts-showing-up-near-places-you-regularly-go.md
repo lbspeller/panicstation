@@ -1,75 +1,84 @@
-﻿---
+---
 title: "What to do if… an ex or acquaintance starts showing up near places you regularly go"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - ex keeps showing up
-  - acquaintance showing up repeatedly
-  - unwanted run-ins near work
-  - unwanted run-ins near home
-  - someone waiting outside places
-  - being followed in public
-  - repeated unwanted encounters
-  - loitering near my usual spots
-  - feeling watched when out
-  - stalking warning signs
-  - harassment in public places
-  - someone knows my routine
-  - safety plan for daily routes
-  - ex turning up at gym
-  - ex turning up at cafe
-  - person appears on commute
-  - worried it is not a coincidence
-  - keep a record of incidents
-  - panic after seeing them again
-last_reviewed: "2026-01-10"
+  - "ex keeps showing up"
+  - "acquaintance showing up repeatedly"
+  - "unwanted run-ins near work"
+  - "unwanted run-ins near home"
+  - "someone waiting outside places"
+  - "what do i do if an ex is following me"
+  - "what do i do if i am being watched"
+  - "what do i do if a stranger knows my routine"
+  - "what do i do if i see my ex at the gym"
+  - "help i think i am being stalked"
+  - "help i am being followed in public"
+  - "help i saw my ex outside my house"
+  - "help i feel unsafe on my commute"
+  - "my ex is loitering near my flat"
+  - "my acquaintance is always at my cafe"
+  - "my routine is being watched"
+  - "my safety is at risk from an ex"
+  - "seeing same person everywhere"
+  - "pattern of unwanted encounters"
+  - "stalking signs uk"
+  - "incident log for harassment"
+  - "silent solution 999 uk"
+  - "feeling followed in the street"
+  - "person waiting by car"
+  - "unexplained appearances near work"
+  - "ex showing up uninvited"
+  - "repeated chance meetings"
+  - "stranger outside workplace"
+  - "security for stalking victims"
+  - "safety plan for stalking"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… an ex or acquaintance starts showing up near places you regularly go (UK)
 
 ## Short answer
-Prioritise safety over certainty: treat repeated “chance” appearances as a risk, start an incident log, and tell someone today. If you feel in immediate danger, call 999.
+Move immediately to a staffed, public area to create a safe pause, tell one person your location, and start a detailed incident log. If you feel you are being followed or are in immediate danger, call 999.
 
 ## Do not do these things
-- Don’t confront them alone, “to clear it up”, or agree to meet to talk.
-- Don’t try to “catch them out” yourself (following them, testing them, escalating messages).
-- Don’t dismiss it as coincidence if it’s making you feel scared, pressured, or unsafe.
-- Don’t post real-time location/routine details (stories, check-ins, gym/work tags).
-- Don’t delete messages, call logs, DMs, or photos that might later help show a pattern.
-- Don’t block them until you’ve saved what you might need (screenshots/voicemails); consider muting instead.
-- Don’t make big irreversible changes in a panic (quitting your job, moving home) before you’ve had support and a plan.
+- Don't confront the individual or attempt to "talk it out" alone.
+- Don't try to "test" the situation by taking unusual routes just to see if they follow you.
+- Don't delete any existing call logs, messages, or social media interactions.
+- Don't post your real-time location or future plans on social media.
+- Don't block them immediately if you need to preserve evidence; use "mute" or "restrict" functions instead to stop notifications while keeping the data.
+- Don't assume it is a coincidence if the pattern makes you feel anxious or unsafe.
 
 ## What to do now
-1. **Get to a safer pause.** If you’ve just seen them, go into a staffed, public place (shop, café, reception, transport hub) and stay near other people. If you feel threatened or think they may follow you, **call 999**. If it’s unsafe to speak, you can still call 999 and (where prompted) use **“Silent Solution”** by pressing **55**.
-2. **Tell one person immediately and arrange check-ins.** Message/call a trusted friend/family member and tell them what you’ve noticed (where/when). Agree a simple plan for the next 24–48 hours (e.g., someone meets you after work, or you check in when you arrive/depart).
-3. **Inform the places you regularly go (practical, specific requests).** Tell your workplace reception/security, campus security, gym staff, or building manager: who the person is, what they look like, and what you want staff to do (e.g., don’t confirm your schedule, call you if they appear, walk you to transport/car, call police if you ask for it).
-4. **Start an incident log (today) and save evidence.** Write down each sighting/contact with: date/time, exact place, what happened, who saw it, and what you did next. Save screenshots of messages/social media contact, and keep any photos you can safely take without engaging.
-5. **Report it to police (even if you’re unsure).**  
-   - If you’re in immediate danger, call **999**.  
-   - If it’s not an emergency, contact police via **101**, online reporting, or by visiting a police station.  
-   Be clear this is **repeated**, and is affecting your sense of safety. Ask for an **incident number** and how to add updates if it happens again.
-6. **Get specialist stalking support for a safer plan.** Contact the **National Stalking Helpline** (Suzy Lamplugh Trust) for confidential advice on safety planning and logging patterns: **0808 802 0300**.
-7. **Ask about protective options that can be used.** When you report, ask what options apply locally, including **Stalking Protection Orders** (which police can seek). If this is an ex-partner/family-type relationship, ask a specialist service (or legal adviser) whether a **non-molestation order** could be relevant for you.
-8. **Reduce how easy it is to “predict” you (short-term changes).** For the next week, make small, realistic changes: leave a bit earlier/later, use a different entrance, park in well-lit areas, ask for an escort to your car/bus stop, and avoid being alone in car parks or quiet corridors.
-9. **Lock down “routine leaks” on your phone and accounts.** Turn off location sharing you don’t need, review who can see your posts/stories, and change key passwords (email first, then social media) with two-factor authentication. If you suspect device/account access, use a trusted device to reset credentials.
+1. **Get to a staffed, public location immediately.** Enter a shop, café, library, or transport hub where there are other people and staff members present. **If you believe you are being actively followed or threatened, call 999.**
+2. **Use the "Silent Solution" if it is unsafe to speak.** Dial 999 and wait for the operator to answer; if you cannot speak, listen to the automated prompts and **press 55** when instructed to signal a genuine emergency to the police.
+3. **Notify a trusted contact and arrange a check-in.** Call or message a friend or family member to state exactly where you are and what you have observed. Agree on a specific time for your next check-in (e.g., "I will text you as soon as I am inside my home").
+4. **Inform the security or management at your regular locations.** Speak to your workplace security, gym manager, or building reception to provide a description of the individual and request that they do not confirm your presence or schedule to anyone.
+5. **Download and activate a police-approved safety app.** Install **Hollie Guard** (free version available) which allows you to trigger an alert by shaking your phone, automatically recording audio and video evidence that is stored in the cloud.
+6. **Start a formal incident log of all sightings.** Record the date, time, precise location, and a description of the individual’s behavior for every encounter. **Note any witnesses present** and save any related digital evidence (screenshots or voicemails) in a secure folder or external drive.
+7. **Contact the police via 101 for non-emergency reporting.** Report the pattern of behavior as stalking or harassment and request an **Incident Reference Number**. Be specific that these are repeated, unwanted appearances that are causing you distress or fear.
+8. **Seek specialist safety planning advice.** Contact the **National Stalking Helpline** (0808 802 0300) for an expert risk assessment.
+   - Monday and Wednesday: 09:30 – 20:00.
+   - Tuesday, Thursday, and Friday: 09:30 – 16:00.
+9. **Inquire about Stalking Protection Orders (SPOs).** Ask the police about applying for an SPO, which can prohibit the individual from going to specific locations or contacting you, even before a criminal conviction is secured.
+10. **Assess eligibility for a Non-Molestation Order if the person is an ex-partner.** Under January 2026 guidance, you can apply for an urgent protective order that prohibits specific behaviors (like loitering near your home) and recognizes coercive control and stalking as forms of abuse.
 
 ## What can wait
-- You do **not** need to decide today whether to move, change jobs, or confront them.
-- You do **not** need perfect proof before seeking help; a pattern and your safety concerns are enough to report.
-- You can wait to organise longer-term steps (formal legal advice, housing/work changes) until you’ve documented incidents and spoken to police or a specialist service.
+- You do not need to decide whether to change your job or move house right now.
+- You do not need "perfect" evidence or photos of the person to begin reporting to the police.
+- You do not need to explain your history with the person to everyone you tell; focus only on the current behavior and your safety needs.
 
 ## Important reassurance
-It’s common to second-guess yourself in situations like this, especially when each single incident could be explained away. You’re allowed to take it seriously and protect yourself early — that’s not overreacting, it’s risk management.
+Feeling hyper-vigilant or second-guessing your instincts is a normal reaction to an unpredictable situation. Taking safety precautions is a logical response to a pattern of behavior, not an "overreaction." You have the right to move through public spaces without fear.
 
 ## Scope note
-These are first steps to stabilise and reduce immediate risk. If the behaviour continues, specialist support can help you plan next steps safely and with less stress.
+This guide provides first-step stabilization and harm-reduction actions for the immediate aftermath of noticing a pattern of unwanted appearances. It does not replace a long-term legal strategy or a professional police risk assessment.
 
 ## Important note
-This guide is general information, not legal advice. If you feel in immediate danger, call 999.
+This information is for guidance only and does not constitute legal or professional safety advice. Laws regarding protective orders and police procedures may vary by region within the UK. Always call 999 in an emergency.
 
 ## Additional Resources
-- https://www.gov.uk/report-stalker
-- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
-- https://www.gov.uk/government/publications/stalking-protection-act-statutory-guidance-for-the-police/stalking-protection-orders-statutory-guidance-for-the-police-accessible-version
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
+- https://www.cps.gov.uk/information-and-support-victims/support-victims/support-victims-stalking-or-harassment
+- https://www.citizensadvice.org.uk/law-and-courts/discrimination/taking-action-about-discrimination/taking-action-about-harassment/
 - https://www.suzylamplugh.org/pages/category/national-stalking-helpline
-- https://enough.campaign.gov.uk/reporting-abuse/other-reporting-options
+- https://www.gov.uk/government/publications/stalking-protection-act-statutory-guidance-for-the-police/stalking-protection-orders-statutory-guidance-for-the-police-accessible-version

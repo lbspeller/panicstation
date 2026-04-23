@@ -1,83 +1,99 @@
-﻿---
+---
 title: "What to do if… you notice black, tarry stools or blood in the toilet bowl"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - black tarry stool
-  - black poo
-  - tarry poo
-  - very dark poo
-  - melena
-  - blood in toilet bowl
-  - blood in poo
-  - rectal bleeding
-  - dark red poo
-  - fresh red blood in stool
-  - blood on toilet paper
-  - pink water in toilet
-  - bloody diarrhoea
-  - bleeding from the bottom
-  - worried about bowel bleeding
-  - on blood thinners and bleeding
-  - after taking iron tablets black stool
-  - after bismuth indigestion medicine black stool
-  - coffee grounds vomit
-last_reviewed: "2026-01-18"
+  - "black tarry stool"
+  - "black sticky stool"
+  - "blood in the toilet"
+  - "rectal bleeding"
+  - "melena"
+  - "melaena"
+  - "bloody diarrhoea"
+  - "what do i do if my poo is black"
+  - "what do i do if there is blood in the toilet"
+  - "what do i do if i am bleeding from my bottom"
+  - "what do i do if i vomit blood"
+  - "help i have black poo"
+  - "help i am bleeding from my bottom"
+  - "help i saw blood in the toilet bowl"
+  - "help my vomit looks like coffee grounds"
+  - "my poo is dark red"
+  - "my stool is black and tarry"
+  - "my toilet water turned red"
+  - "smelly black stools"
+  - "coffee grounds vomit"
+  - "blood on toilet paper"
+  - "pink water in toilet"
+  - "dark red blood in poo"
+  - "bleeding while on blood thinners"
+  - "iron tablets black stool"
+  - "bismuth medicine black stool"
+  - "feeling faint with blood in stool"
+  - "anaemia symptoms blood in stool"
+  - "stomach pain and bleeding"
+  - "rectal examination symptoms"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you notice black, tarry stools or blood in the toilet bowl (UK)
 
 ## Short answer
-Treat black, tarry stools or visible blood in the toilet as something to be checked urgently. If there’s a lot of blood, you feel faint/unwell, or bleeding won’t stop, call 999 or go to A&E now.
+Treat black, sticky, tarry stools or significant blood in the toilet bowl as a medical emergency. If you feel faint, dizzy, or are bleeding non-stop, call 999 or go to A&E immediately.
 
 ## Do not do these things
-- Do not assume it’s “just food” (or iron tablets) if the stool is black/tarry or the toilet bowl is red—get checked.
-- Do not drive yourself to A&E if you feel weak, dizzy, short of breath, or unwell—call 999 or ask someone else to take you.
-- Do not stop prescribed anticoagulants/antiplatelets (for example warfarin, apixaban, clopidogrel) on your own; instead, seek urgent advice and tell the clinician you take them.
-- Do not take aspirin or ibuprofen “just in case” for pain unless a clinician has told you to (they can worsen bleeding for some people).
-- Do not use laxatives, enemas, or “cleansing” products to try to clear the bowel.
-- Do not delay seeking help because you feel embarrassed—clinicians deal with this every day.
+- Do not assume black stool is caused by food or iron supplements without a clinical assessment.
+- Do not drive yourself to the hospital if you feel dizzy, weak, or short of breath.
+- Do not stop taking prescribed anticoagulants or antiplatelet medications (such as warfarin or apixaban) unless specifically instructed by a doctor during your assessment.
+- Do not take aspirin or ibuprofen for associated pain, as these can aggravate gastrointestinal bleeding.
+- Do not use laxatives or enemas to clear the bowel.
+- Do not delay seeking help due to embarrassment; these are common clinical presentations.
 
 ## What to do now
-1. **Decide if this is an emergency (act immediately if any apply):**
-   - Bleeding is **non-stop**, or there’s **a lot of blood** (for example the toilet water turns red) or **large clots**.
-   - You feel **faint, dizzy, confused, very weak**, have **cold/clammy skin**, chest pain, or severe tummy pain.
-   - You are **vomiting blood** or vomit that looks like **coffee grounds**.
-   - **If yes:** **call 999** or go to **A&E** (do not drive yourself). Bring your medicines or a list of them.
-2. **If it’s not “999 now,” but your poo is black/tarry or dark red, or you have bloody diarrhoea:**  
-   **Ask for an urgent GP appointment or contact NHS 111 today** (phone or online). If you cannot get urgent assessment promptly—especially for **black/tarry** stools—go to **A&E**.
-3. **If you’re on blood thinners, antiplatelets, or have a bleeding disorder (even if the amount looks small):**  
-   Treat this as **more urgent**. Contact **NHS 111** or your GP urgently (or **999** if you feel unwell), and tell them exactly which medicines you take and when you last took them.
-4. **Capture the key details (helps triage and reduces repeating yourself):**
-   - When it started; how many times; whether it’s **black/tarry**, **dark red**, or **bright red**.
-   - Any tummy pain, vomiting, fever, weakness, shortness of breath, or recent illness.
-   - Any recent triggers: constipation/straining, diarrhoea, heavy alcohol intake, known ulcers.
-   - Medicines/supplements: anticoagulants, aspirin, ibuprofen/naproxen, steroids, iron tablets, bismuth indigestion medicines.
-   - If safe and not distressing, take a quick **photo** of the stool/toilet water for clinicians (keep it private on your phone).
-5. **Do a quick “look-alike” check—without using it to dismiss symptoms:**
-   - Iron tablets, bismuth-containing indigestion medicines, and certain foods can darken stool.  
-   Even so, **new black/tarry stool** should still be assessed—especially if it’s recurring or you feel unwell.
-6. **If you’re waiting for help/transport:**  
-   Stay near a toilet, keep warm, and avoid alcohol. If you become faint, have worsening pain, or the bleeding increases, **escalate to 999**.
+1. **Check for emergency "red flag" symptoms immediately.**
+   - **Call 999 or go to A&E now if:**
+   - The bleeding is non-stop or you are passing large amounts of blood or clots.
+   - The toilet water has turned entirely red.
+   - You are vomiting blood or material that looks like dark coffee grounds.
+   - You feel faint, dizzy, confused, or have cold and clammy skin.
+   - You have sudden, severe abdominal pain or chest pain.
+2. **Contact NHS 111 or your GP for an urgent same-day appointment if the situation is not an immediate emergency.**
+   - **This applies if:**
+   - Your stool is black, sticky, tarry, and has a characteristically offensive smell.
+   - Your stool is dark red or you have bloody diarrhoea.
+   - You have blood in your stool but feel otherwise stable.
+3. **Notify the clinician immediately if you take blood-thinning medications.**
+   - **Provide the names of medicines such as:**
+   - Anticoagulants (e.g., warfarin, rivaroxaban, apixaban, edoxaban, dabigatran).
+   - Antiplatelets (e.g., aspirin, clopidogrel).
+   - State exactly when you took your last dose.
+4. **Prepare a summary of your observations for the triage nurse or doctor.**
+   - **Note the following details:**
+   - The colour and consistency (bright red, dark red, black/tarry, or sticky).
+   - Frequency of bowel movements since the bleeding started.
+   - Any other symptoms like extreme tiredness, shortness of breath, or tummy cramps.
+   - A list of all current medications, including supplements like iron or bismuth-based indigestion liquids.
+5. **Isolate a sample or take a photo only if it does not delay seeking care.**
+   - **If you are stable and waiting for a call back:**
+   - Taking a clear photo of the stool in the toilet bowl can assist clinicians with triage, but you must prioritize getting to a hospital or speaking to 111 over capturing images.
 
 ## What can wait
-- You do **not** need to work out the cause right now.
-- You do **not** need to change your diet or start home treatments tonight to “fix it.”
-- You do **not** need to decide about tests or referrals—just get the right level of assessment first.
-- You can leave internet searching until after you’ve spoken to NHS 111/your GP or been assessed.
+- You do not need to identify the specific cause (such as ulcers, piles, or cancer) before seeking help.
+- You do not need to change your diet or fast unless instructed by a clinician.
+- You do not need to decide on long-term treatment plans or specialist referrals right now.
+- You can delay researching symptoms online until after you have been professionally triaged.
 
 ## Important reassurance
-Seeing black, tarry stool or blood in the toilet is frightening, but getting checked promptly is exactly what clinicians expect—and it often turns out to be treatable. Taking calm, practical steps now (urgent triage, clear details, safe transport) protects you while you get answers.
+Seeing blood or black stools is distressing, but most cases are identified and managed effectively once reported. NHS staff are trained to handle these symptoms with privacy and urgency. Taking the step to get triaged now is the most effective way to manage the situation.
 
 ## Scope note
-This is first-steps-only guidance for the next few hours/day. Follow-up tests, treatment choices, and longer-term prevention depend on what a clinician finds.
+This is first-step guidance only. It focuses on the immediate triage and stabilization of a potential gastrointestinal bleed. Long-term diagnosis and treatment require follow-up clinical investigation.
 
 ## Important note
-This guide provides general information and is not a diagnosis. If symptoms are severe, worsening, or you feel faint/unwell, seek emergency care immediately.
+This guide is for informational purposes and does not replace professional medical advice. If you are on blood thinners or have a history of ulcers, treat any new bleeding as high priority.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/
-- https://111.nhs.uk/
-- https://www.birminghamsolihull.icb.nhs.uk/health-information-and-advice/policies/bowel-and-rectum
+- https://www.nhs.uk/conditions/bowel-cancer/symptoms/
+- https://www.nhsinform.scot/illnesses-and-conditions/cancer/cancer-types-in-adults/bowel-cancer/
 - https://www.plymouthhospitals.nhs.uk/display-pil/pil-upper-gastrointestinal-bleeding-advice-for-adults-6023/
-- https://www.nth.nhs.uk/resources/anticoagulants-blood-thinners/
+- https://111.wales.nhs.uk/cancerofthecolon%2Crectumorbowel/

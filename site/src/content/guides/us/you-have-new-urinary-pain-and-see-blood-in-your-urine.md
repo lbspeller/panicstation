@@ -1,87 +1,90 @@
-﻿---
+---
 title: "What to do if… you have new urinary pain and see blood in your urine"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - blood in urine
-  - blood in pee
-  - red urine
-  - pink urine
-  - urinary pain
-  - painful urination
-  - burning when peeing
-  - stinging when peeing
-  - pee hurts
-  - dysuria
-  - visible hematuria
-  - new hematuria
-  - urinary tract symptoms
-  - suspected uti
-  - bladder infection symptoms
-  - possible kidney stone
-  - flank pain and blood in urine
-  - urgency to pee
-  - frequent urination
-  - lower abdominal pain peeing
-  - blood clots in urine
-last_reviewed: "2026-01-21"
+  - "blood in urine"
+  - "blood in pee"
+  - "red urine"
+  - "pink urine"
+  - "urinary pain"
+  - "painful urination"
+  - "burning when peeing"
+  - "stinging when peeing"
+  - "pee hurts"
+  - "dysuria"
+  - "visible hematuria"
+  - "new hematuria"
+  - "what do i do if i see blood in my urine"
+  - "what do i do if it hurts to pee"
+  - "what do i do if my urine is red"
+  - "what do i do if there is blood in my pee"
+  - "help i see blood in my urine"
+  - "help i have urinary pain"
+  - "help my pee is pink"
+  - "help my bladder hurts"
+  - "visible red clots in urine"
+  - "dark brown urine"
+  - "cloudy bloody urine"
+  - "side pain and blood"
+  - "back pain when peeing"
+  - "blood in toilet"
+  - "pee looks like tea"
+  - "pee looks like cola"
+  - "sudden urinary burning"
+  - "fever and bloody urine"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you have new urinary pain and see blood in your urine (USA)
 
 ## Short answer
-Get same-day medical evaluation. If you’re passing clots, can’t pee, have severe side/back pain, or have fever/chills or feel very unwell, go to the ER or call 911.
+Seek medical evaluation within the next few hours. If you cannot urinate, are passing visible blood clots, have a high fever, or experience severe one-sided back pain, call 911 or go to the nearest Emergency Room (ER) immediately.
 
 ## Do not do these things
-- Do not ignore visible blood in urine, even if it happens once.
-- Do not take leftover antibiotics or someone else’s antibiotics.
-- Do not try to “flush it out” by chugging large amounts of water quickly (drink normally).
-- Do not hold your urine to “save a sample” if you’re in pain or desperate to go.
-- Do not take extra or repeated doses of pain medicine because you’re panicking.
-- Do not stop prescribed medicines (including blood thinners) without clinician advice.
-- Do not assume it’s a simple UTI if you’re male, pregnant, immunocompromised, have kidney disease, or symptoms are severe.
+- Do not ignore the presence of blood, even if it only happens once and then stops.
+- Do not take antibiotics that were not specifically prescribed for this current episode.
+- Do not consume excessive amounts of water in a short window; drink at a normal rate.
+- Do not delay urination to "save a sample" if you are in significant pain.
+- Do not stop taking prescribed medications, such as blood thinners, unless a clinician tells you to do so.
+- Do not use "cranberry flushes" or supplements as a substitute for a clinical evaluation.
 
 ## What to do now
-1. **Decide if this is an emergency right now.**  
-   **Go to the ER or call 911** if you have any of the following:
-   - You **cannot urinate** (or only a few drops)
-   - **Heavy bleeding**, **blood clots**, or rapidly worsening bleeding
-   - **Severe** one-sided back/flank pain (especially with nausea/vomiting)
-   - **Fever**, chills, shaking, confusion, fainting, severe weakness
-   - Recent significant injury to your abdomen/back
-2. **If no emergency signs: still get same-day care.**  
-   - Call your **primary care clinician** for an urgent visit **today**, or go to an **urgent care** that can do a urine test and start treatment if needed.
-   - If you can’t be seen quickly, symptoms are worsening, or you feel unsafe at home, go to the **ER**.
-3. **Help the clinician act quickly (without making yourself worse).**  
-   - If you’re comfortable and don’t urgently need to go, try not to urinate right before leaving in case they want a sample.  
-   - **If you need to pee, go—don’t delay in pain.** Tell them you may not be able to provide a sample immediately.
-   - Note: when it started, urine color (pink/red/brown), any clots, burning/pain level, urgency/frequency, lower abdominal pain, side/back pain, fever/chills, pregnancy possibility, recent hard exercise or injury.
-   - Bring a **medication list**, especially **blood thinners** (warfarin, apixaban, rivaroxaban, etc.) and any recent antibiotics.
-4. **While you’re waiting (safer comfort steps).**  
-   - Drink **normal** fluids (avoid dehydration; don’t force excess).
-   - Avoid alcohol until you’re assessed.
-   - For pain, **acetaminophen (Tylenol)** is often a common first option for many people if they can take it. Follow package directions, and avoid taking multiple products that contain acetaminophen. If you have liver disease, heavy alcohol use, are pregnant, or you’re unsure what’s safe, ask a clinician/pharmacist.
-   - Be cautious with **NSAIDs** (ibuprofen/naproxen), especially if you have kidney disease, ulcers/GI bleeding history, are on blood thinners, or you’re unsure—ask a clinician/pharmacist first.
-5. **Escalate sooner if you’re higher-risk.**  
-   Prefer **ER or same-day clinician evaluation** if you are: **pregnant**, a **child or teen**, male with new urinary symptoms, have a **single kidney**, **kidney disease**, recent urologic surgery/procedure, are **immunocompromised**, or take **anticoagulants**.
+1. **Identify immediate emergency triggers.** **Call 911 or go to the ER immediately if you observe any of the following:**
+   - Total inability to urinate or only passing a few drops despite the urge.
+   - Large or frequent blood clots in the urine (often look like dark red "worms" or jelly).
+   - High fever (over 103°F / 39.4°C), shaking chills, or sudden confusion.
+   - Severe, stabbing pain in your back or side (flank) that makes it hard to sit still.
+   - Sudden fainting, dizziness, or a rapid heart rate.
+2. **Contact your primary care office or go to Urgent Care if no emergency triggers are present.** **Call your doctor right now and request a same-day "sick visit" or proceed to a local Urgent Care center.**
+   - Tell the receptionist you have "gross hematuria" (visible blood) and "dysuria" (painful urination).
+   - If they cannot see you today, go to the ER; visible blood in the urine requires evaluation within 24 hours.
+3. **Prepare for a urine sample and physical exam.** **Avoid urinating for 30 to 60 minutes before your appointment if possible, but do not hold it if the pain is severe.**
+   - If you must go, tell the clinic staff as soon as you arrive so they can provide a collection cup.
+   - Write down the exact color you saw (pink, bright red, or tea-colored) and whether the blood appeared at the start, end, or throughout the stream.
+4. **Compile a list of your current medications and health history.** **Gather all current medications or take photos of the labels to show the clinician.**
+   - Note specifically if you take blood thinners (e.g., warfarin, Eliquis, Xarelto, aspirin).
+   - Document any recent injuries to your back or stomach, or any history of kidney stones or recent urologic procedures.
+5. **Manage pain only with verified safe methods while waiting.** **Use a heating pad on your lower abdomen or back for comfort, and follow the exact dosage instructions on over-the-counter pain relief labels.**
+   - Avoid taking multiple products that contain acetaminophen (Tylenol).
+   - If you have kidney disease or are on blood thinners, consult a pharmacist before taking NSAIDs like ibuprofen (Advil/Motrin).
 
 ## What can wait
-- You do **not** need to figure out the cause right now.
-- You do **not** need to start supplements, cranberry products, or “detox” routines today.
-- You do **not** need to decide about imaging or referrals right now—focus on getting evaluated and following the next instruction you’re given.
+- You do not need to determine the cause (infection, stone, or other) before seeking help.
+- You do not need to choose a specialist (urologist) yet; start with primary care, urgent care, or the ER.
+- You do not need to provide a definitive "last time I peed" count if you are overwhelmed; approximate timing is sufficient.
 
 ## Important reassurance
-Blood in urine is scary to see, but there are many possible causes, including treatable ones. Prompt evaluation is the safest way to prevent complications and avoid missing something important.
+Seeing blood in the toilet or on tissue is a highly visible symptom that often causes immediate alarm. While it must be evaluated urgently, many causes are identifiable and manageable with standard medical treatment. Feeling anxious or startled is a normal response to this situation.
 
 ## Scope note
-This guide is for **first steps in the next few hours**. After evaluation, you may be given antibiotics, pain control, imaging, or referral—follow the plan and return urgently if symptoms worsen.
+This guide is limited to first-step stabilization and triage for the first 1 to 4 hours after noticing symptoms. It does not provide diagnostic services or long-term treatment plans.
 
 ## Important note
-This is general information, not a diagnosis. If you develop fever/chills, severe pain, clots, or trouble urinating, treat it as urgent and use emergency services.
+This information is for educational purposes and is not a substitute for professional medical advice, diagnosis, or treatment. Always follow the instructions provided by emergency dispatchers or your attending clinician.
 
 ## Additional Resources
-- https://www.niddk.nih.gov/health-information/urologic-diseases/hematuria-blood-urine
+- https://medlineplus.gov/ency/article/003145.htm
 - https://medlineplus.gov/ency/article/003138.htm
-- https://www.cdc.gov/uti/about/index.html
-- https://www.mayoclinic.org/diseases-conditions/blood-in-urine/symptoms-causes/syc-20353432
-- https://my.clevelandclinic.org/health/diseases/15234-hematuria
+- https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-infection-uti-in-adults
+- https://www.niddk.nih.gov/health-information/urologic-diseases/kidney-infection-pyelonephritis/symptoms-causes
+- https://www.niddk.nih.gov/health-information/urologic-diseases/hematuria-blood-urine

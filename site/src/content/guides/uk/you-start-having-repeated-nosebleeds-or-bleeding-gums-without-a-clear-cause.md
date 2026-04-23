@@ -1,87 +1,101 @@
-﻿---
+---
 title: "What to do if… you start having repeated nosebleeds or bleeding gums without a clear cause"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - repeated nosebleeds
-  - frequent nosebleeds
-  - unexplained nosebleeds
-  - bleeding gums suddenly
-  - gums bleeding for no reason
-  - bleeding when brushing
-  - nosebleeds and bleeding gums
-  - unexplained bleeding
-  - easy bruising with bleeding
-  - tiny red purple spots rash
-  - heavy periods plus nosebleeds
-  - on blood thinners bleeding
-  - aspirin anticoagulants bleeding
-  - bleeding won’t stop
-  - mouth bleeding not dental pain
-  - worried about blood clotting
-  - sudden bleeding episode
-  - recurrent epistaxis
-last_reviewed: "2026-02-21"
+  - "repeated nosebleeds"
+  - "frequent nosebleeds"
+  - "unexplained nosebleeds"
+  - "bleeding gums suddenly"
+  - "gums bleeding for no reason"
+  - "bleeding when brushing"
+  - "nosebleeds and bleeding gums"
+  - "unexplained bleeding"
+  - "easy bruising with bleeding"
+  - "tiny red purple spots"
+  - "heavy periods plus nosebleeds"
+  - "bleeding gums UK"
+  - "recurrent epistaxis"
+  - "gum bleeding without brushing"
+  - "what do i do if my nose keeps bleeding"
+  - "what do i do if my gums are bleeding"
+  - "what do i do if i have unexplained bruising"
+  - "what do i do if bleeding wont stop"
+  - "help i have a nosebleed that wont stop"
+  - "help i am bleeding from my gums"
+  - "help i have purple spots on skin"
+  - "help i have repeated nosebleeds"
+  - "blood in spit no pain"
+  - "metallic taste in mouth bleeding"
+  - "blood on pillow from nose"
+  - "clots in nosebleed"
+  - "blood thinners and nosebleeds"
+  - "anticoagulants and bleeding gums"
+  - "bleeding gums and dizziness"
+  - "bruising on arms and legs"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you start having repeated nosebleeds or bleeding gums without a clear cause (UK)
+
 ## Short answer
-If you’re getting repeated nosebleeds or your gums are bleeding without a clear reason, treat any active bleed and get same-day clinical advice via NHS 111 or an urgent GP/dentist contact—especially if it’s new for you.
+Apply immediate first aid to stop any active bleeding, then contact NHS 111 or an urgent GP appointment for same-day assessment of recurring or unexplained symptoms. Seek emergency care if bleeding is heavy or persists for more than 30 minutes.
 
 ## Do not do these things
-- Do not lean your head back or lie flat during a nosebleed (it can make you swallow blood).
-- Do not keep “checking” the bleed every minute by releasing pressure early—set a timer.
-- Do not stop prescribed blood thinners/antiplatelet medicines on your own (only change them after clinical advice).
-- Do not ignore other bleeding signs (easy bruising, tiny red/purple spots, blood in pee/poo, very heavy periods).
-- Do not assume it’s “just brushing too hard” if the gum bleeding is new, frequent, or happening without brushing.
+- Do not lean your head back or lie flat while the nose is bleeding.
+- Do not swallow blood; it can irritate the stomach and cause vomiting.
+- Do not release pressure on the nose to "check" if it has stopped before 10 minutes have passed.
+- Do not blow your nose, pick scabs, or perform heavy lifting for 24 hours after a bleed stops.
+- Do not stop or change prescribed anticoagulants or antiplatelet medications without clinical instruction.
+- Do not insert tissues, gauze, or cotton buds into the nostrils.
 
 ## What to do now
-1. **If you feel very unwell or the bleeding is heavy, call 999.**  
-   Especially if you feel faint/weak, have trouble breathing, you’re vomiting blood, or you cannot keep yourself safely upright.
+1. **Call 999 or 112 if you feel very unwell or have lost a large amount of blood.**
+   - You should do this if you feel faint, dizzy, or confused.
+   - You should do this if you are vomiting blood or having difficulty breathing.
 
-2. **Stop an active nosebleed (first aid).**  
-   Sit down and **lean forward** (mouth open). Pinch the soft part of your nose just above your nostrils and hold **steady pressure for 10 to 15 minutes**. Breathe through your mouth. Do not keep letting go to check—time it.
+2. **Stop an active nosebleed using standard first aid.**
+   - **Sit down and lean your head forward** while keeping your mouth open.
+   - **Pinch the soft part of your nose** firmly just above the nostrils.
+   - **Maintain steady pressure for 10 minutes** without releasing.
+   - **Breathe through your mouth** and spit any blood into a bowl or tissue.
+   - **Apply a cool compress** to the bridge of the nose or forehead if available.
 
-3. **Go to A&E if any of these apply (immediate action).**  
-   - the nosebleed lasts **longer than 10 to 15 minutes**  
-   - the bleeding seems excessive  
-   - you’re swallowing a lot of blood and it makes you vomit  
-   - it started after a blow to your head  
-   - you feel weak or dizzy  
-   - you have difficulty breathing  
-   **Do not drive to A&E.** Ask someone to take you, or **call 999** for an ambulance if needed.
+3. **Repeat pressure if the bleeding continues after 10 minutes.**
+   - **Apply firm pressure for a second 10-minute period** if the first attempt did not stop the flow.
+   - **Continue to lean forward** and avoid speaking or swallowing.
 
-4. **Get same-day advice for repeated or unusual bleeding.**  
-   If you’re having **regular nosebleeds**, or **new bleeding gums without a clear trigger**, use **NHS 111** (online or phone) for guidance on where you should be seen today.
+4. **Go to A&E immediately if the nosebleed lasts longer than 30 minutes.**
+   - You must also go to A&E if the bleeding is extremely heavy and cannot be slowed.
+   - You must go to A&E if the bleeding started after a serious head injury or impact.
+   - **Do not drive yourself**; ask someone to take you or call for an ambulance.
 
-5. **Choose the right first contact for gum bleeding (and don’t overthink it).**  
-   - If gums bleed mainly with brushing/eating and you also have sore/swollen gums or bad breath: **contact a dentist**.  
-   - If gum bleeding happens even when you’re not brushing, or you also have nosebleeds/easy bruising/tiny red-purple spots, or you feel generally unwell: **prioritise NHS 111 / urgent GP advice**, even if you also plan to see a dentist.
+5. **Access same-day clinical advice for recurring symptoms.**
+   - **Contact NHS 111** (online or by phone) if you have nosebleeds that keep coming back.
+   - **Request an urgent GP appointment** if you notice new gum bleeding alongside easy bruising or tiny purple/red spots (petechiae).
+   - **Contact your dentist** if the bleeding is confined to the gums and occurs primarily during brushing or eating.
 
-6. **If you take medicines that affect clotting, treat this as urgent advice-needed.**  
-   If you’re on medicines such as **warfarin** (or other blood-thinners/antiplatelets) and you have a nosebleed or gum bleeding that’s new or recurring, contact **NHS 111** or your usual anticoagulation/GP contact the same day (do not stop medicines yourself).
-
-7. **Write down the key details for the clinician (2 minutes).**  
-   When it started; how often; how long nosebleeds last; how heavy; any recent cold/allergies/nasal dryness; recent dental work; pregnancy/postpartum; alcohol binges; and **all medicines/supplements** (including over-the-counter painkillers like ibuprofen/aspirin and any herbal products). Bring this list with you.
+6. **Prepare a summary for the clinician.**
+   - **List all medications** you are currently taking, especially blood thinners like warfarin, rivaroxaban, or aspirin.
+   - **Note the frequency and duration** of the bleeding episodes.
+   - **Identify other symptoms** such as fatigue, unusually heavy periods, or blood in your urine or stools.
 
 ## What can wait
-- You do not need to work out the cause right now or search symptoms online for hours.
-- You do not need to book specialist appointments yourself today—start with **NHS 111/urgent GP** and/or a **dentist**, and let them direct you.
-- You do not need to make medication changes without clinician advice.
+- You do not need to identify the medical cause of the bleeding yourself right now.
+- You do not need to book a specialist (ENT or Hematology) appointment immediately; the GP or NHS 111 will triage and refer you if necessary.
+- You do not need to purchase new oral health products until a dentist has assessed the gum bleeding.
 
 ## Important reassurance
-It’s common to feel alarmed by bleeding, especially when it repeats or seems to have “no reason.” Many causes are treatable and not an emergency, but **new, repeated, or hard-to-stop bleeding** is worth prompt assessment so you’re not left guessing.
+Bleeding episodes, especially when repeated, are high-stress events. It is common to feel a sense of urgency or alarm. Most cases of recurring nosebleeds or gum bleeding are manageable once the underlying cause is identified by a professional. Taking these initial steps to stop the bleed and seek assessment is the standard procedure for stabilization.
 
 ## Scope note
-This guide covers first steps for stopping bleeding and getting the right same-day pathway. It does not diagnose the cause. If bleeding keeps recurring, clinicians may recommend a dental assessment and/or tests to rule out treatable problems.
+This guide is for first-step stabilization and navigating UK urgent care pathways. It does not provide medical diagnosis or replace professional clinical assessment.
 
 ## Important note
-This is general information, not medical advice. If you are very unwell, the bleeding is heavy, or you cannot stop it, seek emergency care immediately.
+This information is for general guidance in the UK. If you are on blood-thinning medication or have a known clotting disorder, any new or increased bleeding should be treated as a priority for clinical review.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/nosebleed/
 - https://www.nhs.uk/conditions/gum-disease/
-- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/
-- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/nhs-111/
-- https://www.nhs.uk/nhs-services/dentists/how-to-find-an-nhs-dentist-in-an-emergency/
-- https://www.sja.org.uk/first-aid-advice/nosebleed/
+- https://www.nhs.uk/conditions/von-willebrand-disease/
+- https://www.guysandstthomas.nhs.uk/health-information/bleeding-disorders
+- https://www.nhs.uk/conditions/myelodysplastic-syndrome-mds/symptoms/

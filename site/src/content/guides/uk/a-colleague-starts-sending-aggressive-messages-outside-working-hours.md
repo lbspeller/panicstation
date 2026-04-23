@@ -1,71 +1,98 @@
-﻿---
+---
 title: "What to do if… a colleague starts sending aggressive messages outside working hours"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - colleague aggressive messages
-  - coworker hostile texts
-  - aggressive emails after hours
-  - bullying by messages
-  - harassment outside working hours
-  - out of hours work messages
-  - threatening coworker messages
-  - abusive slack messages
-  - angry teams messages
-  - late night work contact
-  - colleague texting personal phone
-  - work chat intimidation
-  - coworker crossing boundaries
-  - escalating workplace conflict
-  - unwanted contact from colleague
-  - hostile tone from coworker
-  - after work harassment
-  - bullying outside workplace
-last_reviewed: "2026-01-07"
+  - "staffing agency changed end date"
+  - "temp assignment end date moved"
+  - "assignment cut short suddenly"
+  - "assignment extended unexpectedly"
+  - "recruiter changed last day"
+  - "agency worker end date unclear"
+  - "short notice assignment change"
+  - "client ended assignment early"
+  - "assignment end date dispute"
+  - "temp job ending earlier than told"
+  - "agency work contract end moved"
+  - "assignment finished sooner than planned"
+  - "rota changed last minute agency"
+  - "little explanation end date"
+  - "temporary work ending date change"
+  - "agency assignment shortened"
+  - "end date moved up"
+  - "end date moved back"
+  - "staffing agency assignment ending"
+  - "what do i do if my assignment ends early"
+  - "what do i do if my agency changes my shifts"
+  - "help i was told my temp job ends tomorrow"
+  - "help my recruitment agency shortened my contract"
+  - "what do i do if my agency end date is wrong"
+  - "my boss says my assignment is finished"
+  - "notice of shift cancellation agency"
+  - "pay for cancelled shifts recruitment"
+  - "written confirmation of assignment end"
+  - "no notice period agency worker"
+  - "assignment ended with no reason"
+  - "agency work last day changed"
+  - "contracted end date moved"
+  - "agency worker rights 2026"
+  - "fair work agency complaint"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a colleague starts sending aggressive messages outside working hours (UK)
 
 ## Short answer
-Stop engaging right now, preserve the messages, and raise it promptly with your manager or HR so it is formally logged. If there is any threat of violence or you feel unsafe, prioritise safety and contact emergency services.
+Obtain the new end date and the specific reason in writing immediately, then secure copies of all timesheets, rotas, and your Key Information Document (KID) to protect your final pay.
 
 ## Do not do these things
-- Do not reply in anger or try to “win” the argument in writing.
-- Do not delete messages or “tidy up” the chat history.
-- Do not meet them alone to “clear the air” if you feel intimidated.
-- Do not share screenshots widely at work or on social media (it can inflame things and breach policies).
-- Do not assume it will “blow over” if the tone is escalating or repetitive.
+- Do not stop attending scheduled shifts until you have received a written instruction confirming your revised last working day.
+- Do not apologize for performance or conduct issues that have not been explicitly raised in writing.
+- Do not sign any "confirmation of end date" or new terms of engagement while in a state of shock; request 24 hours to review documents.
+- Do not rely on verbal or phone agreements; every conversation must be followed by a summary email to the consultant.
+- Do not return equipment (laptops, passes, keys) until you have exported or screenshotted your time-logs and shift history.
 
 ## What to do now
-1. **Create a calmer pause.** Put the conversation on mute and turn on “do not disturb” for that contact. If any message suggests immediate harm, **call 999** and get to a safer place first.
-2. **Preserve evidence (before you block or change settings).** Take screenshots that include names, dates, and times. If it’s a chat app, export or save the conversation if that feature exists. Keep a simple log: date/time, what was said, and how it affected you.
-3. **Stop using personal channels.** If they’re contacting your personal number or social accounts, switch to work-only communication (work email/work chat) and silence personal channels after you’ve saved what you need.
-4. **Send one boundary message only (optional, and only if it feels safe).** Example: “I’m not available outside working hours. Please keep messages work-related and respectful. We can address this in working time.” Then stop replying.
-5. **Report it promptly to the right person.** Tell your line manager and/or HR and ask for it to be recorded as a bullying/harassment concern. If your manager is involved or you do not feel safe raising it with them, go to HR or another manager named in your policy.
-6. **Use your workplace process (informal or formal) rather than private negotiation.** Many issues are handled first by raising it informally, but if it feels unsafe, severe, repeated, discriminatory, or you’ve already tried informal steps, it may be appropriate to raise a **formal grievance**. Follow your organisation’s policy and keep your report factual.
-7. **Use your right to support in formal meetings.** If you’re invited to a formal grievance meeting (or an appeal hearing), ask to bring a **“companion”** (usually a trade union representative or a work colleague). Confirm this in writing when the meeting is arranged.
-8. **If it overlaps with discrimination or hate incidents, flag that clearly.** If the aggression includes comments linked to a protected characteristic (for example race, sex, disability, religion), say so when reporting it and keep the messages.
-9. **If it’s moving into threats or stalking, escalate outside work too.** If contact continues despite boundaries, involves intimidation, or you fear for safety, consider reporting to police (999 in emergencies; otherwise 101) and tell your employer you’ve done so.
+1. **Request written confirmation of the change within the next hour** via email to your agency consultant, specifically asking for:
+   - the exact date and time of your final shift
+   - whether the instruction originated from the hirer (client) or the agency
+   - the specific reason category (e.g., project completion, budgetary reduction, or a performance-related concern)
+   - the date of your final payment and the deadline for final timesheet submission
+2. **Verify your entitlement to "reasonable notice" or cancellation pay** by checking your Written Statement of Employment Particulars and current 2026 statutory rules.
+   - Under the Employment Rights Act 2025 / 2026, you may be entitled to compensation for shifts cancelled or curtailed at short notice.
+   - Ask the agency: "Please confirm what shift cancellation pay or notice pay applies to this change under my contract and the 2026 Fair Work guidelines."
+3. **Audit your essential employment documents immediately** to ensure you have saved copies of:
+   - your Key Information Document (KID)
+   - your Written Statement of Employment Particulars (Day-One Statement)
+   - the original Assignment Details Form (which listed the expected duration)
+4. **Isolate pay evidence before access is revoked** by saving screenshots or PDF exports of:
+   - all approved and pending timesheets
+   - digital rotas or scheduling app screenshots
+   - text messages or emails from site managers regarding your hours
+5. **Formally notify the agency of your availability for new work** in writing to preserve your status and rights.
+   - "I am available for a new assignment starting [Date]. Please confirm that my profile remains active and advise on the next steps for reassignment."
+6. **Escalate to an agency manager if the explanation is withheld or pay is disputed** by sending a formal "Letter before Complaint" to the agency's registered office or a senior branch manager.
+7. **Contact Acas if you suspect the termination was due to discrimination or a breach of Day-One rights.**
+   - In 2026, most employment tribunal time limits are **6 months minus 1 day** from the date of the incident.
+   - You must notify Acas for "Early Conciliation" before filing a claim; this process can now last up to **12 weeks**.
+8. **Report systemic non-compliance to the Fair Work Agency (FWA)** if the agency has failed to provide a KID, withheld pay, or refused to provide a Written Statement of Employment Particulars.
 
 ## What can wait
-- You do not need to decide now whether to take legal action, resign, or “forgive and forget”.
-- You do not need to write a perfect statement tonight—capturing and saving the messages is the key first step.
-- You do not need to confront them face-to-face to prove it’s serious.
-- You can decide later whether to block them everywhere (save evidence first, then choose what helps you feel safe).
+- You do not need to decide whether to leave the agency entirely today.
+- You do not need to update your CV or job board profiles until you have secured your final pay evidence.
+- You do not need to respond to a request for an "exit interview" or feedback until you have received your final written confirmation of the end date.
 
 ## Important reassurance
-It is normal to feel shaken, angry, or unable to sleep after aggressive out-of-hours messages. Taking a pause, keeping evidence, and moving the problem into a documented workplace process is a sensible, protective response.
+A sudden shift in an assignment end date is a standard operational occurrence in the UK temporary labour market, often triggered by client budget cycles or project milestones. Requiring a written explanation and evidence of hours worked is a professional right, not a sign of "being difficult."
 
 ## Scope note
-These are first steps to stabilise things and prevent escalation. Longer decisions (formal complaints, mediation, legal steps, changing roles) can come later, ideally with support.
+This guide provides first-step stabilization for the first 48 hours following an assignment change. It does not cover the specifics of complex discrimination claims or the recovery of large-scale unpaid holiday pay.
 
 ## Important note
-This is general information, not legal advice. If you feel in immediate danger, call 999. If you’re unsure how to raise this safely at work, you can get independent guidance and consider speaking to a union representative or an employment adviser.
+This information is for general guidance regarding agency worker rights in the UK as of March 2026. It does not constitute legal advice. Your specific rights depend on whether you are classified as a "worker" or an "employee" of the agency, and the specific terms of your Written Statement of Employment Particulars.
 
 ## Additional Resources
-- https://www.acas.org.uk/bullying-at-work/if-you-think-youre-being-bullied
-- https://www.acas.org.uk/grievance-procedure-step-by-step
-- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
 - https://www.gov.uk/workplace-bullying-and-harassment
-- https://www.gov.uk/contact-police
-- https://www.police.uk/pu/contact-us/
+- https://www.acas.org.uk/bullying-at-work
+- https://www.acas.org.uk/bullying-at-work/if-you-think-youre-being-bullied
+- https://www.citizensadvice.org.uk/work/discrimination-at-work/dealing-with-discrimination-at-work/checking-if-its-discrimination/if-youre-being-harassed-or-bullied-at-work/
+- https://www.citizensadvice.org.uk/work/discrimination-at-work/dealing-with-discrimination-at-work/taking-action-work-discrimination/gathering-evidence-about-discrimination-at-work/

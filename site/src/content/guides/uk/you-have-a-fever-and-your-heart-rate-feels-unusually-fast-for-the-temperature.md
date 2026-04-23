@@ -1,76 +1,81 @@
-﻿---
+---
 title: "What to do if… you have a fever and your heart rate feels unusually fast for the temperature"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - fever and fast heart rate
-  - fever with racing pulse
-  - high pulse with mild fever
-  - unusually fast heart rate fever
-  - fever tachycardia feels wrong
-  - shivering and rapid heartbeat
-  - infection feels severe
-  - possible sepsis symptoms
-  - dehydration fast pulse fever
-  - flu with fast heart rate
-  - covid fever racing heart
-  - palpitations with fever
-  - lightheaded with fever
-  - chest discomfort with fever
-  - short of breath with fever
-  - feeling very unwell fever
-  - fever and confusion
-  - fast pulse at rest
-  - worried fever heart rate
-last_reviewed: "2026-02-10"
+  - "fever and fast heart rate"
+  - "racing pulse with high temperature"
+  - "what do i do if my pulse is fast with fever"
+  - "help i have a fever and my heart is racing"
+  - "my pulse feels too fast for my temperature"
+  - "what do i do if i have fever tachycardia"
+  - "feeling dizzy with a fever and fast pulse"
+  - "help i feel very unwell with a high temperature"
+  - "shivering with a rapid heartbeat"
+  - "fast pulse at rest with infection"
+  - "palpitations and fever symptoms"
+  - "short of breath with high temperature"
+  - "mottled skin and fever"
+  - "confusion with high pulse"
+  - "not passing urine with fever"
+  - "blue lips with high temperature"
+  - "fever and racing heart help"
+  - "chest pain and fever at rest"
+  - "high pulse rate fever symptoms"
+  - "racing heart with temperature"
+  - "fast heartbeat and infection"
+  - "unusually rapid pulse with fever"
+  - "fever pulse feels wrong"
+  - "rapid resting heart rate fever"
+  - "fast pulse shivering infection"
+  - "my heart rate is high with flu"
+  - "heart racing with covid symptoms"
+  - "pounding heart with fever"
+  - "fever fast pulse dizziness"
+  - "rapid heartbeat and high temperature"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you have a fever and your heart rate feels unusually fast for the temperature (UK)
 
 ## Short answer
-If your heart rate feels unusually fast at rest with fever—especially if you feel seriously unwell—**get urgent triage now**: **call 999 or go to A&E** for severe symptoms or if you suspect sepsis; otherwise **call NHS 111** for same-day advice.
+If your resting heart rate is over 130 beats per minute or you feel dangerously unwell with a fever, **call 999 or go to A&E immediately** and ask "Could it be sepsis?". For a fast but stable pulse with no severe red flags, **call NHS 111** for urgent clinical assessment.
 
 ## Do not do these things
-- Don’t “push through” with exercise, hot baths/saunas, or alcohol—these can raise your heart rate and worsen dehydration.
-- Don’t take extra doses of paracetamol/ibuprofen to chase your temperature down. Use only the packet directions.
-- Don’t accidentally double-dose by combining cold/flu products with paracetamol or ibuprofen (many “all-in-one” remedies already contain them).
-- Don’t ignore worsening symptoms because your fever “isn’t that high.” A fast pulse with feeling very unwell matters.
-- Don’t drive yourself to A&E if you’re faint, confused, very weak, or having chest pain—call 999.
+- Do not attempt any physical exertion, exercise, or household chores.
+- Do not use hot baths, saunas, or steam rooms, as these can further elevate heart rate and increase the risk of fainting.
+- Do not consume alcohol or caffeine, which can worsen dehydration and tachycardia.
+- Do not exceed the maximum dose of paracetamol or ibuprofen listed on the packet.
+- Do not take "all-in-one" cold and flu remedies if you have already taken paracetamol or ibuprofen separately.
+- Do not ignore your symptoms even if your temperature reading seems low or "mild."
+- Do not drive yourself to the hospital if you feel faint, dizzy, or confused.
 
 ## What to do now
-1. **Do a 60-second check and write it down (helps rapid triage).**  
-   - Measure your temperature.  
-   - Count your pulse for a full 60 seconds while seated and resting.  
-   - Note any of these: severe breathlessness; chest pain/pressure; new confusion; fainting/near-fainting; blue/grey lips/skin; extreme shivering; skin that looks mottled/very pale; a new rash that does not fade when pressed; passing very little urine; severe or rapidly worsening pain; feeling you might collapse.
-2. **Choose the urgent route based on red flags.**
-   - **Call 999 or go to A&E now** if you have any severe symptoms above, **or** you think you might have sepsis (for example: fever/shivering plus you feel dangerously unwell, with a **very fast pulse at rest**, severe breathlessness, confusion, collapse, mottled/blue skin, or very little urine).  
-   - **Call NHS 111 now** if you are stable but concerned (for example: your pulse is faster than usual at rest with fever, you’re getting worse, you’re struggling to keep fluids down, or you’re worried an infection is not behaving normally).
-3. **While you’re arranging help, reduce strain on your body.**
-   - Sit upright or lie down if dizzy. Keep the room comfortably cool (not cold).
-   - Sip fluids steadily (small sips every few minutes). If you’re vomiting, keep to frequent tiny sips.
-   - If safe for you, take paracetamol or ibuprofen **exactly as directed on the packet**.
-4. **Check if you’re in a higher-risk group (pushes toward urgent assessment).**  
-   Seek urgent triage (111 or 999/A&E depending on severity) if you are pregnant or recently postpartum, immunocompromised (e.g., chemotherapy, transplant medicines, high-dose steroids), have significant heart/lung/kidney disease, have diabetes with concerning symptoms, or you’ve recently had surgery or an invasive procedure.
-5. **Prepare one clear sentence for the call/triage.**  
-   Example: “I have a fever and my heart rate feels unusually fast at rest. My readings are temp __ and pulse __. I also have [breathlessness/dizziness/reduced urination/confusion/chest discomfort].”
+1. **Count your pulse for 60 seconds while sitting or lying still.** **Note down the exact number of beats per minute and your current temperature reading.**
+2. **Identify any immediate emergency "Red Flag" symptoms.** **Check if you have any of the following: a heart rate over 130 bpm at rest; new confusion or slurred speech; severe breathlessness; blue, grey, or pale blotchy skin; a non-fading rash; or no urine passed in the last 18 hours.**
+3. **Contact emergency services if Red Flags are present.** **Call 999 or go to A&E immediately if any of the above symptoms occur or if you feel you are deteriorating rapidly.**
+   - Tell the operator: "I have an infection or fever and I am worried about sepsis."
+   - Specifically ask: "Could it be sepsis?"
+4. **Contact NHS 111 if you are concerned but stable.** **Call 111 now if your heart rate is between 91 and 130 bpm at rest, or if you are shivering, vomiting, or unable to keep fluids down.**
+5. **Begin steady hydration and rest once help is requested.** **Sit or lie down in a comfortably cool room and take small, frequent sips of water or rehydration salts.**
+6. **Check if you belong to a high-risk group.** **Seek urgent medical assessment via 111 or 999 if you are pregnant, recently gave birth, are over 65, have a weakened immune system, or have had recent surgery.**
 
 ## What can wait
-- You do **not** need to work out the exact cause right now (viral illness, dehydration, infection, etc.).
-- You do **not** need to keep rechecking your pulse every few minutes—focus on getting triage and following instructions.
-- You can postpone decisions about work/school and plans until you’ve been assessed and are stable.
+- You do not need to identify the specific type of infection (e.g., flu vs. bacterial) before seeking help.
+- You do not need to continue checking your pulse every few minutes once you have contacted medical services.
+- You do not need to notify work or school until you have been triaged and stabilized.
 
 ## Important reassurance
-A faster heart rate can happen with fever, pain, dehydration, and anxiety. Noticing that it feels “out of proportion” is still worth acting on—getting prompt triage is a safe, sensible step.
+A fast heart rate is a common response to fever as the body works to cool itself and fight infection. However, noticing that the rate feels "out of proportion" to your temperature is a valid observation; seeking professional triage is the safest and most appropriate response to this sensation.
 
 ## Scope note
-This is first-steps-only guidance to stabilise you and get you to the right level of care. Further decisions and treatment depend on assessment.
+This guide provides first-step stabilization and triage guidance only. It is intended to help you navigate the first few minutes of a medical concern and reach the appropriate level of NHS care.
 
 ## Important note
-This is general information, not a diagnosis. If you think you’re deteriorating, trust that instinct and seek urgent help.
+This information is for general guidance and is not a clinical diagnosis. If you feel that something is seriously wrong or your condition is worsening, trust your instincts and seek emergency medical assistance immediately.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/sepsis/
-- https://www.hey.nhs.uk/patient-leaflet/sepsis-safety-netting-advice-for-adults-aged-16-years/
-- https://www.nhsinform.scot/illnesses-and-conditions/blood-and-lymph/sepsis/
-- https://www.england.nhs.uk/wp-content/uploads/2020/02/easy-read-signs-of-sepsis-and-what-to-do.pdf
+- https://sepsistrust.org/about-sepsis/
+- https://indepth.nice.org.uk/sepsis-what-nice-says/index.html
+- https://www.nice.org.uk/guidance/ng253/chapter/Face-to-face-assessment
 - https://www.uhsussex.nhs.uk/resources/sepsis-in-adults/

@@ -1,81 +1,102 @@
-﻿---
+---
 title: "What to do if… you suspect you swallowed a caustic household product and your throat or mouth is burning"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - swallowed caustic cleaner
-  - drank household chemical
-  - mouth burning after cleaner
-  - throat burning after chemical
-  - accidental chemical swallow
-  - swallowed bleach by mistake
-  - swallowed oven cleaner
-  - swallowed drain cleaner
-  - swallowed limescale remover
-  - swallowed dishwasher tablet
-  - chemical burn in mouth
-  - corrosive ingestion
-  - caustic ingestion
-  - alkali burn throat
-  - acid burn throat
-  - burning mouth after sip
-  - cleaning product in mouth
-  - unsure if i swallowed cleaner
-  - chemical taste and burning
-  - painful swallowing after chemical
-last_reviewed: "2026-02-23"
+  - "swallowed a caustic household product"
+  - "throat or mouth is burning"
+  - "swallowed caustic cleaner"
+  - "drank household chemical"
+  - "mouth burning after cleaner"
+  - "throat burning after chemical"
+  - "accidental chemical swallow"
+  - "swallowed bleach by mistake"
+  - "swallowed oven cleaner"
+  - "swallowed drain cleaner"
+  - "swallowed limescale remover"
+  - "swallowed dishwasher tablet"
+  - "chemical burn in mouth"
+  - "corrosive ingestion"
+  - "caustic ingestion"
+  - "alkali burn throat"
+  - "acid burn throat"
+  - "burning mouth after sip"
+  - "cleaning product in mouth"
+  - "unsure if i swallowed cleaner"
+  - "chemical taste and burning"
+  - "painful swallowing after chemical"
+  - "what do i do if i swallowed cleaner"
+  - "what do i do if my throat is burning from chemicals"
+  - "what do i do if i drank bleach"
+  - "what do i do if i swallowed dishwasher powder"
+  - "help i swallowed a caustic product"
+  - "help i drank cleaning fluid"
+  - "my mouth is burning from cleaner"
+  - "my throat is burning after chemical sip"
+  - "visible burns on lips"
+  - "smell of bleach on breath"
+  - "swallowed floor cleaner"
+  - "swallowed toilet cleaner"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you suspect you swallowed a caustic household product and your throat or mouth is burning (UK)
 
 ## Short answer
-This needs urgent advice. If you have **any** breathing trouble, severe symptoms, or you’re getting worse, **call 999/112 now**. Otherwise, **call NHS 111 immediately** and follow their instructions (they may send you to A&E).
+Call 999 or 112 immediately if you are struggling to breathe, swallowing is extremely painful, or you are drooling; otherwise, call NHS 111 for urgent triage. Do not induce vomiting or drink anything unless specifically instructed by an emergency clinician.
 
 ## Do not do these things
-- **Do not** make yourself vomit.
-- **Do not** try to “neutralise” it with vinegar, baking soda, lemon juice, alcohol, or anything else.
-- **Do not** drink a large amount “to dilute it”.
-- **Do not** take activated charcoal unless told to by a clinician.
-- **Do not** brush your teeth, scrape your tongue, or gargle aggressively.
-- **Do not** put anything in your mouth if you’re **drooling, vomiting, coughing/choking, or struggling to swallow**.
+- **Do not** induce vomiting, as this causes the corrosive substance to burn the throat and mouth a second time.
+- **Do not** attempt to "neutralise" the chemical with vinegar, lemon juice, milk, or baking soda.
+- **Do not** drink water, milk, or any other liquid unless a 999 or 111 clinician tells you to do so.
+- **Do not** take activated charcoal or any home "poison remedies."
+- **Do not** wait for symptoms to worsen before seeking professional advice.
+- **Do not** brush your teeth or scrape the affected area.
 
 ## What to do now
-1. **Get the right help now.**
-   - If you have **trouble breathing**, choking/gasping, **drooling**, repeated vomiting, severe pain, drowsiness/confusion, you feel faint, or you’re rapidly worsening: **call 999/112**.
-   - If you’re alert and breathing okay: **call NHS 111 now** and say you may have swallowed a **caustic/corrosive household product** and your mouth/throat is burning.
-2. **Spit out anything still in your mouth.**
-   - Gently rinse your mouth with cool water and **spit it out**.
-   - You can repeat a few times to clear taste/residue, but **do not swallow** the rinse water.
-   - If rinsing triggers coughing, choking, or breathing trouble, **stop and call 999**.
-3. **Sit upright and keep still.**  
-   Stay upright (not flat) while you wait for advice or transport.
-4. **If any got on your skin/clothes, rinse and remove.**
-   - Carefully remove contaminated clothing/jewellery (avoid pulling it over your head if it’s wet with chemical).
-   - Rinse affected skin with cool/lukewarm running water.
-5. **Prepare what NHS 111/999/A&E will need.**
-   - Bring the **product container/label** (or take clear photos of front + ingredients + warnings).
-   - Note **what** it was, **when** it happened, and roughly **how much** (sip vs mouthful).
-6. **If you become very sleepy or collapse, escalate fast.**
-   - If someone is with you and you’re not fully awake but breathing, they should put you in the **recovery position** and call **999**.
-   - If you stop breathing, they should start **CPR** and call **999**.
+1. **Check for emergency triggers and call 999 or 112 if necessary.**
+   - Call 999 immediately if you have any of the following:
+   - Difficulty breathing, gasping, or wheezing.
+   - Severe pain or inability to swallow.
+   - Excessive drooling or foaming at the mouth.
+   - Visible swelling of the lips or tongue.
+   - Drowsiness, confusion, or loss of consciousness.
+2. **Contact NHS 111 if symptoms are currently stable.**
+   - If you are alert and breathing normally, call 111 now for specialist poisoning triage.
+   - Explain that you suspect a **caustic or corrosive ingestion** and describe the burning sensation.
+3. **Remove any remaining substance from the mouth.**
+   - If you are fully conscious and not choking, spit out any liquid or solid residue.
+   - Gently rinse your mouth with cool water and **spit it out immediately**; do not swallow the rinse water.
+4. **Identify the specific product involved.**
+   - Locate the container or packaging of the substance you suspect was swallowed.
+   - Keep the container within reach to read the ingredients and "Warning" labels to the operator.
+   - If you are going to A&E, take the container or a clear photo of the label with you.
+5. **Sit in an upright position and remain still.**
+   - Stay sitting up to help keep the airway clear and reduce the risk of vomiting.
+   - Lean slightly forward to allow saliva or residue to drain out of the mouth rather than down the throat.
+6. **Remove contaminated clothing or jewellery.**
+   - If the chemical splashed onto your skin or clothes, carefully remove the items.
+   - Rinse the affected skin with cool running water for at least 20 minutes while waiting for help.
+7. **Monitor for changes in consciousness.**
+   - If you feel faint or drowsy, ensure you are in a safe position on the floor.
+   - If someone else is present, they should place you in the recovery position if you become unresponsive but are still breathing.
 
 ## What can wait
-- You do **not** need to decide right now whether it was “enough to matter” — burning is enough to seek urgent advice.
-- You do **not** need to look up home treatments or try to “coat” your throat.
-- You do **not** need a perfect timeline — just the product, time, amount, and symptoms.
+- You do not need to identify the exact volume swallowed to the millilitre; "a sip" or "a mouthful" is sufficient for initial triage.
+- You do not need to look up the "Material Safety Data Sheet" (MSDS) yourself if you have the product name.
+- You do not need to decide if the exposure was "serious enough" before calling; all suspected caustic ingestions require clinical assessment.
 
 ## Important reassurance
-It’s common to feel panicky and uncertain about what you swallowed. With caustic products, the safest approach is to get urgent guidance quickly and avoid actions (like vomiting or neutralising) that can cause more injury.
+Panic and a fast heartbeat are standard physical responses to a chemical taste or burning sensation. Medical professionals in the UK have established protocols (NHS Pathways) specifically for household chemical ingestions, and reaching out to 999 or 111 is the correct way to access these protocols safely.
 
 ## Scope note
-This is first-steps-only guidance for the first hour or two. NHS 111/999 and hospital staff will advise next steps based on the exact product and your symptoms.
+This guide provides first-step stabilization for the immediate minutes following suspected ingestion. It does not replace the specific instructions given by NHS 111, 999, or hospital clinicians.
 
 ## Important note
-This is general information, not medical diagnosis or personal medical advice. If you suspect caustic ingestion or have mouth/throat burning, **seek urgent medical help** via **999/112** (severe symptoms) or **NHS 111** (urgent advice).
+This information is for emergency stabilization and is not a substitute for professional medical diagnosis or treatment. Caustic substances can cause internal damage that is not visible; always seek immediate medical advice via 999, 112, or 111.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/poisoning/
-- https://111.wales.nhs.uk/encyclopaedia/p/article/poisoning/
+- https://www.nhs.uk/conditions/acid-and-chemical-burns/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
 - https://www.sja.org.uk/first-aid-advice/poisoning/
-- https://www.redcross.org.uk/first-aid/learn-first-aid/poisoning
-- https://www.sserc.org.uk/advisory-service/first-aid-etc/oral-exposure/
+- https://www.sja.org.uk/first-aid-advice/chemical-burn/

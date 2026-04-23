@@ -1,84 +1,101 @@
-﻿---
+---
 title: "What to do if… your fridge or freezer stops cooling and food is thawing"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - fridge stopped cooling
-  - freezer stopped freezing
-  - food thawing in freezer
-  - fridge not cold enough
-  - freezer defrosting unexpectedly
-  - power cut food in fridge
-  - no electricity fridge warming
-  - fridge warm food safe
-  - freezer warm ice melting
-  - food spoilage risk
-  - milk meat left out fridge
-  - what to do with thawed food
-  - fridge breakdown emergency
-  - freezer failure overnight
-  - frozen food partially thawed
-  - fridge thermometer 5c
-  - freezer 24 48 hours estimate
-  - power cut longer than 4 hours
-last_reviewed: "2026-03-03"
+  - "fridge stopped cooling"
+  - "freezer stopped freezing"
+  - "food thawing in freezer"
+  - "fridge not cold enough"
+  - "freezer defrosting unexpectedly"
+  - "power cut food in fridge"
+  - "no electricity fridge warming"
+  - "fridge warm food safe"
+  - "freezer warm ice melting"
+  - "food spoilage risk"
+  - "milk meat left out fridge"
+  - "what to do with thawed food"
+  - "fridge breakdown emergency"
+  - "freezer failure overnight"
+  - "frozen food partially thawed"
+  - "fridge thermometer 5c"
+  - "freezer 24 48 hours estimate"
+  - "power cut longer than 4 hours"
+  - "fridge cooling repair uk"
+  - "help i have a fridge outage"
+  - "my freezer is thawing"
+  - "my fridge is not cold"
+  - "what do i do if my fridge breaks"
+  - "help i lost power to my fridge"
+  - "smell of warm food fridge"
+  - "visible condensation in fridge"
+  - "fridge buzzing sound stopped"
+  - "softening frozen vegetables"
+  - "water leaking from freezer"
+  - "ice cream melting in freezer"
+  - "raw meat temperature safety"
+  - "medicines in warm fridge"
+  - "refrigerated insulin power cut"
+  - "landlord repair fridge timeline"
+  - "food poisoning from warm fridge"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your fridge or freezer stops cooling and food is thawing (UK)
+
 ## Short answer
-Keep the doors shut and note the time. If it’s a **power cut**, a closed fridge typically stays safe for about **4 hours**; if the appliance has **failed while power is on**, move the most perishable foods into an iced cool box quickly.
+Keep the doors shut immediately and record the time. If the fridge was at 5°C or below when power was lost, food generally remains safe for 4 hours; for longer outages or appliance failures, move high-risk perishables to a cool box with ice.
 
 ## Do not do these things
-- Don’t keep opening the doors “to check”.
-- Don’t taste food to judge safety.
-- Don’t leave thawing foods on the worktop.
-- Don’t refreeze food that has fully thawed if you can’t be confident it stayed cold (especially meat/fish/poultry, cooked dishes, dairy).
-- Don’t put warm food into the fridge/freezer while it’s struggling.
+- Don't keep opening the doors to check the temperature or the state of the food.
+- Don't taste-test food to determine if it is still safe to eat.
+- Don't leave thawing food at room temperature on kitchen worktops.
+- Don't refreeze high-risk foods (meat, fish, poultry, or dairy) if they have fully thawed.
+- Don't put warm or room-temperature food into a failing appliance.
+- Don't store food outside if the temperature is below 0°C, as unintended freezing can ruin food quality and safety.
 
 ## What to do now
-1. **Shut the doors and set a timer.** Write down when you first noticed the problem (or when the power went out).
-2. **Work out which situation you’re in (this changes what to do next).**
-   - **Power cut:** other lights/sockets are out and/or your consumer unit has tripped.
-   - **Appliance failure:** the house has power but the fridge/freezer isn’t cooling (or is making unusual noises / the compressor isn’t running).
-3. **If it’s a power cut and it’s been under ~4 hours:**  
-   **Keep doors closed**. Don’t start moving lots of food around yet unless something is already obviously thawing/warming.
-4. **If it’s a power cut and it’s heading beyond ~4 hours (or you’re unsure):**
-   - Keep doors closed as much as possible.
-   - If you have a **cool box/cooler and plenty of ice/frozen packs**, prepare it now so you can transfer perishables quickly.
-5. **If it’s an appliance failure (power is on): move the highest-risk foods first (one quick opening).**
-   - **Highest risk:** raw/cooked meat, poultry, fish/shellfish; leftovers; cooked rice/pasta; dairy; ready-to-eat chilled foods with a use-by date.
-   - Put these into a **cool box with ice/frozen packs**. Keep raw items sealed and separate from ready-to-eat foods.
-6. **Use temperatures if you have them (best option).**
-   - In normal circumstances, fridges are generally kept at **5°C or below**.
-   - In a power cut, chilled food can often be kept safe while the fridge is **under 8°C**.
-   - **If the fridge reaches 8°C or above:** prioritise eating high-risk chilled foods within **about 4 hours**; if you can’t keep them cold or you’re unsure how warm they got, discard the high-risk items.
-7. **Freezer triage (don’t unpack it).**
-   - Keep the freezer door shut. As an estimate, a **full freezer** may keep food frozen for up to **~48 hours**, and a **half-full freezer** for **~24 hours**, if kept closed (these are estimates and vary).
-   - If food is **still hard frozen** or has **ice crystals**, keep it in the freezer with the door shut.
-   - If items are **fully thawed and no longer cold**, treat high-risk foods as unsafe unless you can chill and cook them safely straight away.
-8. **If it’s cold outside (below ~8°C), you can use the outdoors to help (optional).**
-   - Store food **outside** only in **clean, dry conditions**, **out of sunlight**, in a **sealed container** protected from animals.
-9. **If you rent or live in managed accommodation, report it immediately.**
-   - Use the landlord/agent/building manager repairs route and keep a record of when you reported it (message/email if possible).
-10. **If you store medicines that must be refrigerated:**
-   - Keep them in the **closed fridge** for now.
-   - If you think they warmed, **ask a pharmacist** for urgent advice before using them.
+1. **Seal the doors and note the time.** **Write down the exact time you discovered the failure or the power went out.**
+2. **Determine if the issue is a power cut or an appliance failure.**
+   - **Check if other lights or sockets in your home are working.**
+   - **Inspect your consumer unit (fuse box) to see if a circuit has tripped.**
+3. **If the outage is under 4 hours and the fridge was previously cold:**
+   - **Keep all doors tightly closed and do not move food.**
+   - **If the 4-hour mark is approaching, prepare an alternative cold storage solution.**
+4. **If power is on but the appliance has failed:**
+   - **Identify high-risk foods immediately.**
+   - **Prioritize moving raw meat, poultry, fish, soft cheeses, and cooked leftovers into a cool box with ice packs.**
+   - **Keep raw and ready-to-eat foods in separate sealed containers within the cool box.**
+5. **Use a thermometer to check the safety threshold.**
+   - **Chilled food is generally considered safe if the internal fridge temperature stays below 8°C.**
+   - **If the temperature rises to 8°C or above for more than 4 hours, discard all high-risk perishable items.**
+6. **Triage the freezer contents without fully unpacking them.**
+   - **Check for ice crystals on the packaging or food surface.**
+   - **If food still contains ice crystals or is hard-frozen, it can be safely kept in the freezer for up to 24 hours (half-full) or 48 hours (full).**
+   - **Discard any food that has reached room temperature or shows signs of spoilage (unusual smell or color).**
+7. **Handle refrigerated medicines with extreme caution.**
+   - **Note if the fridge temperature exceeded 8°C.**
+   - **If you use insulin or other temperature-sensitive medications, contact a pharmacist or 111 for advice before using them if they have warmed.**
+8. **Contact your landlord or building manager if the appliance was provided as part of your tenancy.**
+   - **Report the failure in writing (email or text) to establish a timeline.**
+   - **Under UK "reasonable time" standards, a landlord should typically aim to repair or replace a broken fridge within 3 to 7 days.**
 
 ## What can wait
-- You do **not** need to decide what to replace or claim for right now.
-- You do **not** need to sort every item immediately — prioritise high-risk foods and anything already thawing.
-- You do **not** need to deep-clean or defrost the appliance right now.
+- You do not need to dispose of "best before" items (condiments, hard cheeses, or most vegetables) immediately, as these are more resilient to temperature changes.
+- You do not need to defrost or clean the appliance until you have a confirmed repair date or a replacement plan.
+- You do not need to finalize insurance claims or "spoilage" lists in the first hour; focus on temperature stabilization first.
 
 ## Important reassurance
-This is a common household problem, and most risk comes from repeated door-opening or eating food that warmed too long. If you keep doors closed, use ice/cool boxes for high-risk foods, and make conservative decisions when unsure, you’ll prevent the main harms.
+Fridge and freezer failures are common, and appliances are designed to retain cold for several hours if left undisturbed. By keeping the doors closed and prioritizing high-risk items like meat and dairy, you are significantly reducing the risk of foodborne illness. Most food poisoning is preventable through these early stabilization steps.
 
 ## Scope note
-These are first steps only: stabilise temperatures, reduce food-poisoning risk, and buy time. Later you can decide what to salvage, how to clean up, and how to get repairs/replacement.
+This guide provides first-step stabilization only. It does not cover technical appliance repair, long-term food preservation methods, or the specific storage requirements of specialized clinical medications.
 
 ## Important note
-This is general information, not medical or legal advice. Food safety depends on time and temperature, which vary by appliance and room conditions. If you’re unsure whether a high-risk food is safe, it’s safer to discard it. For medicines, follow pharmacist advice.
+This information is for general guidance and does not replace professional food safety standards or medical advice. If you are in doubt about the safety of a food item, discard it. For all refrigerated medications, consult a pharmacist or your prescribing clinician to ensure efficacy has not been compromised by a break in the cold chain.
 
 ## Additional Resources
+- https://www.food.gov.uk/safety-hygiene/how-to-chill-freeze-and-defrost-food-safely
 - https://www.food.gov.uk/safety-hygiene/food-safety-in-a-power-cut-advice-for-consumers
-- https://www.foodstandards.gov.scot/consumer-advice/food-safety/food-safety-in-the-kitchen/power-cuts
-- https://www.gov.uk/government/publications/public-health-advice-from-uk-cmos-during-a-national-power-outage/food-and-nutrition-scripts-for-broadcast-media
+- https://www.food.gov.uk/sites/default/files/media/document/freezing.pdf
+- https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/return-faulty-goods/
+- https://www.citizensadvice.org.uk/consumer/template-letters/letters/consumer-template-letters/letter-to-complain-about-faulty-goods/

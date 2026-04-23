@@ -1,78 +1,88 @@
-﻿---
+---
 title: "What to do if… your overtime or shift premiums are missing from your pay"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - overtime not paid
-  - missing overtime pay
-  - overtime missing from payslip
-  - shift premium missing
-  - shift allowance missing
-  - unsociable hours premium missing
-  - night shift premium missing
-  - weekend premium missing
-  - bank holiday premium missing
-  - underpaid wages
-  - paid wrong amount
-  - payroll error overtime
-  - timesheet hours missing
-  - rota hours not paid
-  - unpaid extra hours
-  - short pay this month
-  - wage deduction problem
-  - missing shift differential
-last_reviewed: "2026-01-08"
+  - "work schedule changed suddenly"
+  - "work schedule night shift change"
+  - "work schedule weekend addition"
+  - "work schedule warning period"
+  - "rota changed at short notice"
+  - "forced onto night shifts"
+  - "weekend working added"
+  - "shift pattern changed"
+  - "hours changed without notice"
+  - "nights and weekends rota"
+  - "unpredictable shifts"
+  - "last minute rota change"
+  - "manager changed my shifts"
+  - "night worker limits"
+  - "commuting safety at night"
+  - "clashing with childcare shifts"
+  - "can i refuse night work"
+  - "workplace shift change dispute"
+  - "new shift pattern notice"
+  - "employment contract variation"
+  - "working time rest between shifts"
+  - "what do i do if my work schedule changes"
+  - "what do i do if i am put on nights"
+  - "what do i do if i have to work weekends"
+  - "what do i do if rota changes"
+  - "help i am forced to work nights"
+  - "help i cannot work weekends"
+  - "help my schedule changed"
+  - "my rota was changed without warning"
+  - "smell of office dispute"
+  - "visible change in rota app"
+  - "hearing about new shifts"
+  - "feeling pressured to sign contract"
+  - "burning bridge with manager"
+  - "night worker health assessment"
+  - "six month tribunal limit"
+  - "restricted variation employment"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your overtime or shift premiums are missing from your pay (UK)
 
 ## Short answer
-Pause and document it: match your rota/timesheet to your payslip, total what’s missing, then ask payroll/your manager to correct it in writing (ideally as an off-cycle payment).
+Request the new schedule in writing and state that you need time to review your contract and personal constraints before formally agreeing. Check if your contract has a flexibility clause and verify that the change complies with the 48-hour weekly limit and mandatory rest periods.
 
 ## Do not do these things
-- Do not assume it will “sort itself out next payday” without written confirmation and a payment date.
-- Do not sign anything that re-labels your hours or “agrees” a lower rate unless you fully understand it.
-- Do not “fix it” by changing future timesheets to compensate.
-- Do not send heated messages — keep it factual so it stays solvable as a payroll/timekeeping issue.
-- Do not quit on the spot if you can avoid it; it can make recovering pay harder and more stressful.
+- Do not fail to attend a scheduled shift without prior written notification to your manager.
+- Do not resign or hand in notice immediately while in a state of stress or anger.
+- Do not rely on verbal assurances that the change is temporary; always request a written timeframe.
+- Do not sign a "contract variation" letter or a new statement of particulars on the spot.
+- Do not post details of the scheduling dispute on social media or internal company messaging groups.
+- Do not ignore the change; failing to object in writing can sometimes be viewed as "implied agreement" over time.
 
 ## What to do now
-1. **Freeze the evidence for this pay period:** save your payslip, rota, clock-in/out history, overtime approvals, and any messages about shift premiums. If it’s in an app/portal, download the relevant week(s).
-2. **Make a simple “what’s missing” list (payroll-friendly):**
-   - pay period/date(s)
-   - hours worked (including start/finish times if relevant)
-   - premium expected (overtime rate, night/unsocial hours allowance, weekend/bank holiday premium, etc.)
-   - premium paid (if any)
-   - total shortfall (best estimate)
-3. **Check what the workplace says should happen:** look at your contract / written statement and any pay policy or handbook section on overtime, shift allowances, “cut-off” dates, and how premiums are triggered (for example, approval required, minimum shift length, specific role/grade).
-4. **Ask payroll for two specifics, in writing:** (a) **why** it’s missing (for example, timecard cut-off, missing approval, wrong pay code), and (b) **how/when** it will be corrected (ask for an off-cycle correction if waiting until the next payroll run would cause hardship).
-5. **If the answer is verbal, turn it into a record:** reply with a short recap email: “To confirm, you said X is missing due to Y, and it will be paid on Z date.” Keep copies.
-6. **If you’re an agency worker, use the 12-week rule if it applies:** after **12 weeks in the same role**, you can be entitled to equal treatment on pay compared with direct hires doing the same job. This can include **overtime pay** and **shift/unsocial-hours allowances** where those are paid to comparable direct employees. Ask the agency/hirer to confirm what comparator rate/premium you should be on.
-7. **If it isn’t fixed quickly, protect your time limit:** unpaid/underpaid wages often have strict tribunal time limits (commonly **3 months minus 1 day** from when you should have been paid; if it happened repeatedly, the clock is usually from the **last** underpayment). Claims for a “series” of underpayments can also have limits on how far back you can go (often **up to 2 years back** in many unlawful deduction cases), so don’t let it drift.
-8. **If your average pay for the pay reference period may have dropped below National Minimum Wage:** raise that explicitly. You can complain to HMRC using the pay and work rights route. Keep that complaint focused on minimum wage underpayment (and avoid duplicating the same minimum-wage issue in two processes at once).
-9. **If your employer is insolvent or has stopped trading:** you may be able to claim unpaid wages via the government insolvency route. What you can claim generally depends on what you’re entitled to under your contract. You can often claim up to **8 weeks** of wage arrears (which can include overtime/commission if contractual). You’ll usually need the insolvency case reference (“CN”) from the insolvency practitioner/official receiver to apply.
+1. **Document the exact details of the change immediately.** Save screenshots of the old and new rotas, time-stamped app notifications, and any emails or texts where the change was announced.
+2. **Review your existing employment contract for flexibility and notice clauses.** Look specifically for "variation of hours" or "shift pattern" clauses that allow the employer to change your hours, and check if a minimum notice period (e.g., one week or one month) is specified.
+3. **Request a formal written statement of the proposed change.** Ask your employer to confirm if the change is a permanent variation of your contract or a temporary request, and remind them that under the Employment Rights Act, they must provide updated written particulars within one month of a change.
+4. **Identify specific "restricted variations" if the change is being forced.** Under 2026 rules, unilateral changes to shift patterns (moving from days to nights or weekdays to weekends) are heavily restricted; note if you are being asked to accept a "restricted variation" without a genuine business need or consultation.
+5. **Formally communicate your practical constraints in writing.** If the new schedule creates conflicts with childcare, existing health conditions, or safe transport, list these facts clearly and propose an alternative (e.g., a phased transition or a shift swap).
+6. **Verify your status and rights as a "night worker" if applicable.** If you are required to work at least 3 hours between 11:00 PM and 6:00 AM, your employer must offer you a free health assessment before you start and ensure you do not exceed an average of 8 hours of work in a 24-hour period.
+7. **Check that you are receiving the mandatory statutory rest periods.** Ensure the new schedule allows for at least 11 hours of consecutive rest between shifts and either 24 hours of rest per week or 48 hours per fortnight.
+8. **Explicitly state if you are working the new shifts "under protest."** If you feel you must cover the shifts to avoid immediate disciplinary action while the dispute is ongoing, write to HR/management stating that you are doing so temporarily and "without prejudice" to your right to object to the permanent change.
 
 ## What can wait
-- You do not need to decide today whether to take legal action — first secure the evidence and request a written correction.
-- You do not need to build a months-long spreadsheet right now — start with the pay period(s) affected.
-- You do not need to confront senior leadership immediately — start with payroll/manager, then escalate through the formal route if needed.
-- You do not need to argue about whether overtime “should” be paid in principle — focus on what your contract/policy says and what was actually worked.
+- You do not need to decide whether this is a "constructive dismissal" situation in the first 24 hours.
+- You do not need to file a formal grievance today; an informal request for a meeting is usually the first step.
+- You do not need to provide deep personal evidence (like medical records) until a formal health assessment or flexible working request is initiated.
+- You do not need to worry about the old 3-month tribunal deadline; as of late 2026, the time limit for most employment claims has increased to 6 months.
 
 ## Important reassurance
-Payroll and timekeeping mismatches are common — cut-offs, wrong codes, and approvals not syncing can all cause missing premiums. You’re not overreacting by stopping, documenting it, and asking for a written correction with a date.
+It is common to feel overwhelmed or uncertain when a schedule changes without notice, especially when it disrupts your sleep or family life. Taking a few hours to gather your contract and respond in writing is a standard professional step and does not constitute "troublemaking."
 
 ## Scope note
-These are first steps to stabilise the situation and preserve options. If it becomes a pattern, you may need tailored help (for example from Acas, a union rep, or an employment adviser) based on your contract and status.
+This guide provides first-step stabilization for a sudden scheduling change. It does not cover the full legal process for Employment Tribunals or complex collective redundancy consultations.
 
 ## Important note
-This is general information, not legal advice. The right route can depend on your contract type (employee/worker/contractor), whether you’re agency staff, and what your contract/policies say about overtime and premiums. If you’re asked to sign anything that changes recorded hours, pay codes, or backdates records, consider getting advice first.
+This information is for general guidance and does not constitute legal advice. Employment rights are highly dependent on individual contracts and specific workplace policies. If you are a member of a trade union, contact your representative immediately for tailored support.
 
 ## Additional Resources
+- https://www.acas.org.uk/pay-for-working-extra-hours
 - https://www.acas.org.uk/if-your-wages-are-not-paid
 - https://www.acas.org.uk/if-your-wages-are-not-paid/raising-an-issue-with-your-employer
-- https://www.acas.org.uk/deductions-from-pay-and-wages
-- https://www.acas.org.uk/early-conciliation/how-early-conciliation-works
-- https://www.gov.uk/overtime-your-rights
-- https://www.acas.org.uk/agency-workers/understanding-your-employment-rights-after-12-weeks
-- https://www.gov.uk/find-hmrc-contacts/national-minimum-wage-enquiries-and-complaints
-- https://www.gov.uk/your-rights-if-your-employer-is-insolvent/what-you-can-get
+- https://www.acas.org.uk/early-conciliation
+- https://www.gov.uk/employment-tribunals

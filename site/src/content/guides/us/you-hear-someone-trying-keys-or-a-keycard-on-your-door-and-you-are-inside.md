@@ -1,75 +1,87 @@
-﻿---
+---
 title: "What to do if… you hear someone trying keys or a keycard on your door and you are inside"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - someone trying my door lock
-  - key in my lock sound
-  - keycard beep at my door
-  - doorknob jiggling
-  - door handle rattling
-  - stranger trying keys
-  - attempted break-in while home
-  - someone testing my door
-  - intruder outside my door
-  - unexpected entry attempt
-  - apartment door keycard attempt
-  - hallway noise at my door
-  - scared inside my apartment
-  - inside when someone tries door
-  - possible burglary in progress
-  - lock being tampered with
-  - someone trying to get in
-  - keys scraping in lock sound
-last_reviewed: "2026-01-11"
+  - "someone trying my door lock"
+  - "key in my lock sound"
+  - "keycard beep at my door"
+  - "doorknob jiggling"
+  - "door handle rattling"
+  - "stranger trying keys"
+  - "attempted break-in while home"
+  - "someone testing my door"
+  - "intruder outside my door"
+  - "unexpected entry attempt"
+  - "apartment door keycard attempt"
+  - "hallway noise at my door"
+  - "inside when someone tries door"
+  - "possible burglary in progress"
+  - "lock being tampered with"
+  - "someone trying to get in"
+  - "keys scraping in lock sound"
+  - "help i hear someone at my door"
+  - "what do i do if someone is trying my lock"
+  - "what do i do if someone is using a keycard on my door"
+  - "what do i do if i hear my door handle move"
+  - "my door handle is rattling"
+  - "help i think someone is trying to break in"
+  - "rattling door handle at night"
+  - "electronic lock beeping unexpectedly"
+  - "stranger at apartment door"
+  - "unauthorized keycard entry attempt"
+  - "someone outside my hotel room door"
+  - "lock scratching sounds"
+  - "metal clicking at door"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you hear someone trying keys or a keycard on your door and you are inside (USA)
 
 ## Short answer
-Do not open the door. Lock it (any extra latches), move away from the doorway, and call **911** if you think someone is trying to get in or you feel unsafe.
+Do not open the door or look through the peephole. Immediately engage all manual locks and deadbolts, move to a room with a secondary door, and call **911** if the attempt continues or you feel in danger.
 
 ## Do not do these things
-- Do not open the door “to see what’s going on,” even if they claim it’s a mistake.
-- Do not step into the hallway to confront them.
-- Do not shout personal details (like being alone) through the door.
-- Do not stand where you’re clearly visible from a window or door glass.
-- Do not focus on recording video instead of calling for help.
-- Do not assume it’s harmless if they keep trying the lock or move to other entry points.
+- Do not open the door to "check" the hallway or confront the person.
+- Do not use the peephole if you hear active scratching or clicking at the lock, as this places your face directly behind the primary point of contact.
+- Do not shout your personal status (e.g., "I am alone") or identifying information through the door.
+- Do not prioritize filming or recording over securing your physical safety and calling for help.
+- Do not assume a "keycard beep" is a system error if the handle is turned immediately after.
+- Do not unlock the door for anyone claiming to be "maintenance" or "security" unless you have verified it with the front desk or 911 dispatcher.
 
 ## What to do now
-1. **Lock and reinforce the door immediately.** Engage any deadbolt, latch, chain, or security bar you already have installed. If you have a building buzzer/intercom, **do not buzz anyone in**.
-2. **Move to a safer position.** Go to a room away from the entry door (ideally an interior room). Close and lock it if possible.
-3. **Bring essentials with you.** Take your phone, keys, and shoes. If others are with you, gather them into the same room and keep voices low.
-4. **Call 911 if you believe a crime is happening or you feel in danger.** Tell the dispatcher:
-   - Your exact address and unit number
-   - “Someone is trying keys / a keycard on my door and I’m inside”
-   - Any sounds you hear (handle rattling, key scraping, card beeps) and whether it seems like more than one person
-5. **If you can’t safely speak, still try to contact 911 discreetly.**
-   - If you can place a **voice call**, do so and keep the line open as long as you safely can.
-   - If your area supports **Text-to-911**, text **911** with your exact location/unit and a brief description (“Someone is trying keys on my door; I’m inside”). If Text-to-911 is not available where you are, you may receive a bounce-back message.
-6. **If you can check without exposing yourself, get quick details.** Use a peephole, door camera, or a camera feed if available. Note clothing and direction if they leave. Avoid standing directly in front of the door or in a lit window.
-7. **If you’re in an apartment/hotel with staff or security, contact them too (after 911 if urgent).** Ask them to check the hallway **without confrontation** and to pull any door-entry/CCTV information if your building uses those systems.
-8. **Stay in a secure spot until you’re confident it’s safe.** If the sounds stop, don’t rush to open the door. Wait for instructions, and only open when you’re satisfied it’s safe (for example, after police/building staff confirmation).
+1. **Engage every manual lock immediately.** **Turn the deadbolt thumb-turn, slide the security chain, or flip the swing-bar latch.**
+   - If using an electronic keycard lock (hotel/apartment), the manual deadbolt is usually the only way to override an authorized staff or master key.
+2. **Move to a secondary secure space.** **Retreat to a bedroom or bathroom that has a locking door and stay away from the entry door's line of sight.** 
+3. **Gather your communication tools.** **Keep your mobile phone with you and ensure it is not on "Silent" or "Do Not Disturb" so you can hear the dispatcher.**
+4. **Call 911 immediately if you believe someone is trying to force entry.** **Tell the dispatcher "I am inside my home/room and someone is trying to use a key or keycard to enter my door right now."**
+   - Provide your exact address, floor, and unit number.
+   - Describe the sounds (e.g., "I hear a keycard beeping," "I hear metal scraping in the lock," or "The handle is being turned repeatedly").
+5. **Follow the "Call if you can, text if you must" protocol.** **If you cannot safely speak without being heard by the person at the door, text 911 if your area supports Text-to-911.** 
+   - If you place a voice call but cannot speak, leave the line open so the dispatcher can listen to the background noise.
+6. **Alert building security only after contacting 911.** **If you are in a hotel or managed apartment, use the room phone or a secondary device to call the front desk once the 911 call is established.**
+   - Request that they send security to the hallway but instruct them not to open your door.
+7. **Verify identity through a barrier.** **If the person claims to be police or staff, do not open the door until you verify their presence through the 911 dispatcher or by calling the official building number.**
+8. **Stay in your secure position until help arrives.** **Do not exit the room even if the noise stops; wait for a verbal confirmation from authorities or a call back from the dispatcher.**
 
 ## What can wait
-- Figuring out whether it was the wrong unit, a former tenant, or something else.
-- Reviewing footage carefully or saving clips.
-- Calling property management about rekeying/replacing keycards.
-- Messaging neighbors/building chats.
-- Writing a detailed account (do it later when you’re calm).
+- Determining if the person was a confused neighbor or a former tenant.
+- Checking your smart doorbell or hallway camera footage.
+- Calling property management to request a lock change or keycard reset.
+- Posting about the incident on neighborhood social media apps or group chats.
+- Moving furniture to "barricade" the door if you are already in a secondary locked room.
 
 ## Important reassurance
-Your fear response is doing its job: it’s telling you this could become dangerous quickly. You don’t need to “handle it yourself.” The safest approach is to **stay behind a locked barrier, create distance, and get help**.
+It is normal to feel an immediate "fight or flight" response to sounds of attempted entry. Hesitating to call 911 because you "might be wrong" is a common reaction, but your safety is the priority. Emergency dispatchers prefer to investigate a "mistake" than respond to a completed break-in.
 
 ## Scope note
-These are first steps for the next few minutes. Once the immediate risk has passed, you can decide on follow-up actions (reporting, lock changes, building issues) with a clearer head.
+This guide provides first-step stabilization for an active, unexpected entry attempt. It does not cover long-term security upgrades, legal rights regarding landlord entry, or post-incident trauma support.
 
 ## Important note
-This guide is general information for immediate first steps, not professional safety or legal advice. If you believe someone is attempting to enter your home or you feel unsafe, treat it as an emergency and contact local authorities.
+This information is for emergency stabilization and does not constitute legal or professional security advice. Always follow the direct instructions of 911 dispatchers and local law enforcement during an active incident.
 
 ## Additional Resources
-- https://www.911.gov/calling-911/frequently-asked-questions
-- https://www.fcc.gov/consumers/guides/what-you-need-know-about-text-911
-- https://raleighnc.gov/emergency-communications-911/services/what-expect-when-calling-911
-- https://www.cityofrochester.gov/departments/emergency-communications-department/how-911-works-what-happens-when-you-call-or-text
+- https://www.usa.gov/report-crime
+- https://www.thehotline.org/plan-for-safety/create-your-personal-safety-plan/
+- https://www.thehotline.org/resources/stalking-safety-planning/
+- https://www.womenslaw.org/safety-planning
+- https://victimconnect.org/

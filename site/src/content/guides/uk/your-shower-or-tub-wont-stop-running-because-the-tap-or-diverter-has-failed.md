@@ -1,79 +1,91 @@
-﻿---
+---
 title: "What to do if… your shower or tub won’t stop running because the tap or diverter has failed"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - shower won’t turn off
-  - bath won’t turn off
-  - tap won’t stop running
-  - stuck shower tap
-  - failed diverter valve
-  - diverter stuck on shower
-  - bath tap stuck on
-  - mixer tap stuck open
-  - shower keeps running
-  - water won’t stop in bathroom
-  - emergency turn off water uk
-  - find stopcock
-  - stop tap under sink
-  - water shut off valve flat
-  - leaking shower valve
-  - overflow risk bath
-  - runaway water flow
-  - bathroom flooding risk
-  - tap handle spins freely
-last_reviewed: "2026-03-04"
+  - "shower won't turn off"
+  - "bath won't turn off"
+  - "tap won't stop running"
+  - "stuck shower tap"
+  - "failed diverter valve"
+  - "diverter stuck on shower"
+  - "bath tap stuck on"
+  - "mixer tap stuck open"
+  - "shower keeps running"
+  - "water won't stop in bathroom"
+  - "emergency turn off water uk"
+  - "find stopcock uk"
+  - "stop tap under sink"
+  - "water shut off valve flat"
+  - "leaking shower valve"
+  - "overflow risk bath"
+  - "runaway water flow"
+  - "bathroom flooding risk"
+  - "tap handle spins freely"
+  - "what do i do if my shower wont turn off"
+  - "what do i do if my bath tap is stuck"
+  - "what do i do if the water wont stop running"
+  - "what do i do if i cant find the stopcock"
+  - "help i cant turn my shower off"
+  - "help i have a bathroom flood"
+  - "help my tap is broken and running"
+  - "help my diverter is stuck"
+  - "water coming through ceiling"
+  - "broken bathroom mixer"
+  - "bath overflow help"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your shower or tub won’t stop running because the tap or diverter has failed (UK)
 
 ## Short answer
-Stop the water at the nearest shut-off point you can access (isolation valve first, then your inside stop tap). Once the flow is stopped (or if you can’t stop it quickly), contact your landlord/building maintenance or an emergency plumber.
+Isolate the water supply immediately at the nearest valve (isolation valve or main stopcock). Turn off the boiler and any electrical power to the shower to prevent secondary damage or scalding.
 
 ## Do not do these things
-- Don’t leave it “to run itself out” — it can overflow and cause serious damage quickly.
-- Don’t use extreme force or long levers on a stuck valve/stop tap; if it won’t turn reasonably, escalate to help.
-- Don’t start dismantling taps/diverters while water is still on or while you’re standing in pooled water.
-- Don’t use electrical items in a wet bathroom, and don’t trail extension leads into the area.
-- Don’t stay in the spray if the water is very hot — step back and focus on shutting off safely.
+- Don’t leave the water running to "wait it out" as bath overflows cannot always handle a full-flow tap failure.
+- Don’t use pliers or wrenches to force a seized plastic tap head or diverter knob, as this can snap the spindle and make isolation harder.
+- Don’t touch any electrical switches, sockets, or lights if water is dripping from the ceiling or pooling near them.
+- Don’t reach into very hot water or steam to try and fix the tap; stay back and focus on the pipework valves.
+- Don’t ignore a slow-moving drain while the tap is running; clear any debris from the plughole immediately to prevent an overflow.
 
 ## What to do now
-1. **Get to a safer pause (30–60 seconds).**  
-   Put the shower head into the bath and close the shower screen/curtain to contain splash. Clear slip hazards. Keep children/pets out.
-2. **Shut off at the closest isolation valves (fastest fix).**  
-   Look for **hot and cold isolation valves** feeding the bath/shower (often behind an access panel, under the bath, in a nearby cupboard, or on pipework you can reach). Turn **clockwise to close** (some are quarter-turn slots with a flat screwdriver).
-3. **If you can’t find those, use your inside stop tap/stopcock.**  
-   Common locations include under the kitchen sink, in an airing cupboard, under the stairs, a downstairs toilet/utility area, or near where the pipe enters the property. Turn **clockwise** slowly until it stops.
-4. **If you’re in a flat and can’t locate an individual stop tap, escalate to building management.**  
-   Many blocks have managed meter/valve cupboards or communal risers. Contact the **concierge/building manager/landlord/agent** and tell them you need the supply isolated urgently.
-5. **Relieve pressure and confirm the flow is stopping.**  
-   Once the supply is off, open a **cold tap** briefly (often a low-level one if you have it) to relieve pressure. Expect a short burst/residual trickle from the shower/bath as pipework drains.
-6. **If hot water was involved, reduce scald risk (only if you can do so safely and confidently).**  
-   If the water was running very hot, you can turn **hot water/heating controls to off** to reduce the chance of very hot water resuming when supply is restored. If you’re unsure how, skip this and tell the plumber/maintenance team.
-7. **Contact the right person with a clear message.**  
-   - **Renting / housing association / council / managed block:** report as an emergency repair: “Shower/bath won’t turn off; water isolated at [isolation valves / inside stop tap].”  
-   - **Owner-occupier:** call an **emergency plumber**.
-8. **Limit damage while you wait.**  
-   Use towels/buckets where overflow could occur. If water has reached lights, sockets, or the ceiling below, keep people out of that area and avoid interacting with electrics while standing on wet floors.
+1. **Contain the water flow to prevent immediate flooding.**
+   - Place the shower head face-down in the bath or shower tray.
+   - Close the shower screen or curtain to keep spray inside the waterproof area.
+   - Remove any mats or towels from the floor that might soak up water and become a slip hazard.
+2. **Turn off the electricity to the shower and bathroom.**
+   - **Locate the pull-cord switch outside or inside the bathroom and pull it to the "off" position (usually indicated by a mechanical flag or light turning off).**
+   - **If water is affecting lights or leaking through the floor, turn off the "Lighting" or "Shower" circuit at your main consumer unit (fuse box).**
+3. **Shut off the local isolation valves if they are accessible.**
+   - **Look for small valves on the metal or plastic pipes feeding the bath or shower (check under the bath, behind an access panel, or in an adjacent airing cupboard).**
+   - **Turn the slotted screw in the middle of the valve 90 degrees (quarter-turn) so the slot is perpendicular to the pipe, or turn the small lever handle until it is at a right angle to the pipe.**
+4. **Locate and close the internal stopcock if local isolation fails.**
+   - **Find your main stopcock, typically located under the kitchen sink, in a downstairs toilet, under the stairs, or in a utility room.**
+   - **Turn the handle clockwise (to the right) firmly until it stops turning; this will shut off all water to the property.**
+5. **Turn off the boiler or water heater.**
+   - **Switch off the power to your boiler or immersion heater once the water is off to prevent the system from trying to heat an empty or unpressurised tank.**
+6. **Drain the system to relieve pressure.**
+   - **Open a cold tap on the ground floor (such as the kitchen sink) to allow residual water in the pipes to drain away from the failed bathroom fixture.**
+7. **Report the emergency to your landlord or a plumber.**
+   - **If renting, call your landlord or management agency's emergency line immediately and state that there is an "uncontrollable water flow" or "failed internal plumbing."**
+   - **If you own the home, contact an emergency plumber registered with WaterSafe or a similar professional body.**
 
 ## What can wait
-- You don’t need to diagnose whether it’s a cartridge, washer, diverter, or mixer fault right now.
-- You don’t need to decide on replacement taps/fixtures or collect quotes before the water is safely off.
-- You don’t need a perfect cleanup — stabilise first, then dry and ventilate when safe.
+- You do not need to identify the specific internal part (washer, cartridge, or spindle) that caused the failure.
+- You do not need to clean up all the water until the flow has been completely stopped and the area is electrically safe.
+- You do not need to worry about the cost of the repair or replacement fixtures while the water is still running.
 
 ## Important reassurance
-This is a common, fixable failure. Once the water is isolated, the situation is usually stable and you’ve already prevented the biggest risks (flooding, scalding, and electrical hazards).
+Once you have turned the stopcock or isolation valves, the water will stop. The immediate threat of flooding is over. Most tap and diverter failures are standard repairs for a qualified plumber and do not require the entire bathroom to be ripped out.
 
 ## Scope note
-These are first steps only — to stop the water and reduce immediate risk. Repair may require access panels, replacement cartridges/diverters, or seized-valve handling by a plumber or your maintenance provider.
+This guide covers first-step stabilisation for a running water emergency only. It does not cover the mechanical repair of taps, the replacement of thermostatic cartridges, or the restoration of electrical systems damaged by water.
 
 ## Important note
-This is general information, not professional plumbing, gas, or electrical advice. If you can’t safely stop the water, or it’s affecting electrics/ceilings/other flats, treat it as urgent and get professional help immediately.
+This information is for emergency stabilisation and does not constitute professional plumbing or electrical advice. If water has entered electrical fittings, do not restore power until a qualified electrician has inspected the circuit. If you are unable to locate your stopcock or the valve is seized, contact your local water supplier or an emergency plumber immediately.
 
 ## Additional Resources
+- https://trustedtraders.which.co.uk/articles/how-to-stop-a-water-leak/
+- https://trustedtraders.which.co.uk/articles/what-to-do-if-your-stopcock-or-stop-tap-doesn-t-work/
 - https://www.watersafe.org.uk/advice/general_plumbing_advice/winter_advice/locate-internal-stop-tap/
-- https://www.watersafe.org.uk/advice/general_plumbing_advice/turning_off_your_water/how_do_i_turn_the_water_off_to_carry_out_work_in_my_property/
-- https://www.thameswater.co.uk/help/water-and-waste-help/how-to-turn-your-water-on-and-off/how-to-find-and-use-your-inside-stop-valve
-- https://www.gov.uk/private-renting/repairs
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/check-if-your-landlord-has-to-do-repairs/
-- https://www.hse.gov.uk/healthservices/scalding-burning.htm
+- https://www.watersafe.org.uk/advice/hiring_a_plumber/emergency_plumbers/
+- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/getting-your-landlord-to-do-repairs/getting-repairs-done-if-youre-renting-privately-ew/getting-repairs-done-if-youre-renting-privately/

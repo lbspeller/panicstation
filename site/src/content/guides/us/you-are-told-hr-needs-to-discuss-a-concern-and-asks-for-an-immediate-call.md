@@ -1,72 +1,108 @@
-﻿---
+---
 title: "What to do if… you are told HR needs to discuss a concern and asks for an immediate call"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - urgent hr call
-  - hr wants immediate call
-  - hr needs to discuss concern
-  - hr asks to talk now
-  - unexpected hr meeting request
-  - called into hr suddenly
-  - hr investigation interview
-  - hr complaint discussion
-  - supervisor says hr concern
-  - hr wants a quick call
-  - asked to call hr asap
-  - hr meeting no details
-  - union rep for hr meeting
-  - weingarten rights meeting
-  - panic after hr message
-  - hr scheduling immediate meeting
-  - investigatory interview discipline
-last_reviewed: "2026-01-07"
+  - "provide work authorization urgently"
+  - "told bring i-9 documents today"
+  - "taken off the schedule threat"
+  - "removed from shifts documents"
+  - "hr requests passport scan now"
+  - "employer asks for specific i-9"
+  - "i-9 reverify work authorization"
+  - "employment eligibility check urgent"
+  - "asked for ead proof urgently"
+  - "list a list b list c docs"
+  - "document abuse at work"
+  - "unfair documentary practices"
+  - "i-9 paperwork panic"
+  - "job says prove work status"
+  - "worried request is a scam"
+  - "asked for ssn card photo"
+  - "remote i-9 verification request"
+  - "what do i do if my boss threatens my shifts over i-9"
+  - "what do i do if i-9 documents are missing"
+  - "what do i do if company demands my passport"
+  - "what do i do if i need to reverify work status"
+  - "help i am being taken off the schedule"
+  - "help i cannot find my social security card"
+  - "help i am being asked for a green card"
+  - "help my employer is auditing i-9 forms"
+  - "my boss says i need to show documents today"
+  - "my work authorization is expiring"
+  - "smell of scam in hr request"
+  - "visible threat of job loss"
+  - "unusual heat from supervisor about docs"
+  - "notice of inspection at work"
+  - "substantive i-9 violation"
+  - "late i-9 completion fine"
+  - "ier worker hotline"
+  - "uscis form i-9 edition 01 20 25"
+  - "alternative procedure remote verification"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told HR needs to discuss a concern and asks for an immediate call (USA)
 
 ## Short answer
-Don’t take a surprise HR call on the spot if you’re rattled — ask what it’s about and schedule it a bit later so you can be private, take notes, and (if you’re union-represented) request representation.
+State in writing that you will present acceptable original documents of your choice from the official Form I-9 Lists by the legal deadline. Do not send sensitive ID photos through unverified or insecure channels.
 
 ## Do not do these things
-- Do not quit in a panic or offer to resign to “make it easier”.
-- Do not guess, ramble, or volunteer extra details beyond what you’re asked.
-- Do not admit wrongdoing just to end an uncomfortable call.
-- Do not delete, edit, or “clean up” work messages/files after being told there’s a concern.
-- Do not contact coworkers to compare stories or pressure them to “back you up”.
-- Do not assume HR is “on your side” or “against you” based only on the vague message — treat it as a formal work interaction.
+- Do not ignore the request; failure to complete Form I-9 within the legal window allows an employer to legally remove you from the schedule.
+- Do not send photos of your Passport, Social Security card, or Green Card via text message or personal email.
+- Do not provide more documents than the law requires; you only need one item from List A OR a combination of one from List B and one from List C.
+- Do not allow a supervisor to keep your original documents; they must be inspected and returned to you immediately.
+- Do not assume a request for "re-verification" is valid if you are a U.S. citizen or if your Lawful Permanent Resident card (Green Card) has expired.
 
 ## What to do now
-1. **Reply (in writing) asking for the minimum details you need.** For example:  
-   “I can talk. Please share the topic at a high level, who will be on the call, whether this is investigatory, and whether notes will be taken. I’m available at [time later today] or [tomorrow morning].”
-2. **Move the call to a private, calm setting.** If they want “immediately,” ask for a short delay (“I can call in 30–60 minutes once I’m in a private place and can take notes”). Avoid taking it in an open office, hallway, or with other people present.
-3. **If you are union-represented and reasonably believe discipline could result, invoke Weingarten.** Say clearly:  
-   “If this discussion could lead to discipline, I request a union representative be present.”  
-   If they continue with detailed questions, use: “I’m going to wait to answer further questions until my representative is here.” (They may choose to pause and reschedule, or end the interview.)
-4. **If you are not union-represented, you can still slow it down.** Ask to reschedule for a time you can be private and take notes, and ask whether you may bring a support person. Your employer may say no — but asking can buy time and reduce pressure.
-5. **Check your employer’s policy quickly before the call.** Look in your handbook/intranet for investigation/discipline procedures, whether meetings are recorded/noted, and any rules about representation or support people.
-6. **Open the call by clarifying the purpose and boundaries.** Ask: “Is this an investigatory interview? What is the concern in plain terms, and what are you asking me to do today?” Then keep responses factual and short.
-7. **Use “I need to check” as a safety phrase.** If you’re unsure about dates, wording, or what happened, say: “I don’t want to guess — let me check and follow up in writing.”
-8. **Before ending, confirm next steps and timelines.** Ask what happens next (another meeting, written statement, follow-up questions), any deadlines, and whether you’ll receive a written summary of the concern.
-9. **Document immediately after.** Write down: who was on the call, the exact concerns stated, questions asked, what you answered, and any deadlines. Then email HR a brief “my understanding” recap and ask them to correct anything that’s inaccurate.
+1. **Confirm the request through an official company channel to ensure it is not a phishing scam.**  
+   **Contact your HR department or use an internal portal to verify the request.**  
+   - Ask if this is for initial Form I-9 completion or for "Supplement B" re-verification.
+   - Ask for the name of the designated "Authorized Representative" who will be inspecting your documents.
+
+2. **Request the "Lists of Acceptable Documents" and the specific internal deadline.**  
+   **State in writing that you are preparing your documents and ask for the official list of options.**  
+   - Federal law allows YOU to choose which documents to present from the Lists.
+   - Initial Section 1 must be finished by your first day of work; Section 2 (document inspection) must be finished within three business days of starting.
+
+3. **Schedule an appointment to present original documents in person.**  
+   **Propose a specific time today or tomorrow to bring your original, unexpired documents to the work site.**  
+   - As of April 1, 2026, employers must physically inspect documents unless they are enrolled in E-Verify and using the "Alternative Procedure" (live video call).
+   - If your employer uses remote verification, ensure they provide a secure link for you to upload encrypted copies before the video call.
+
+4. **Decline requests for specific documents if they are not the ones you chose to provide.**  
+   **Respond in writing if an employer demands a "Passport" or "Green Card" specifically.**  
+   - Use this phrasing: "I will provide [Document Name] which is a valid [List A/B/C] document. Under Department of Justice rules, I have the right to choose which acceptable documents to present."
+
+5. **Verify if re-verification is actually required by law for your status.**  
+   **Ask the employer to specify why they are requesting new documents if you have already completed an I-9.**  
+   - Re-verification is never required for U.S. citizens or noncitizen nationals.
+   - Re-verification is generally not required when a Permanent Resident Card expires, provided it was valid when you were hired.
+
+6. **Contact the Immigrant and Employee Rights Section (IER) if the employer threatens you.**  
+   **Call the DOJ IER Worker Hotline at 1-800-255-7688 if you are being pressured to provide specific documents.**  
+   - This hotline provides immediate assistance to workers facing "document abuse" or unfair documentary practices.
+
+7. **Maintain a log of all interactions regarding this request.**  
+   **Save copies of emails, texts, and notes of verbal threats to remove you from the schedule.**  
+   - Include the date, time, and the name of the person making the demand.
 
 ## What can wait
-- You do not need to provide a full narrative, detailed statement, or “defense” during the first unexpected call.
-- You do not need to decide today whether to file a complaint, escalate, or consult an attorney — first get clarity on the concern and process.
-- You do not need to figure out motives or office politics right now; focus on staying accurate and creating a clean record.
+- You do not need to apply for a new Social Security card or Passport today if you have other acceptable documents on the list.
+- You do not need to consult a private immigration attorney for a standard I-9 request unless your work authorization is actually disputed.
+- You do not need to provide your Social Security number in Section 1 unless your employer uses E-Verify.
 
 ## Important reassurance
-A vague “we need to discuss a concern” message often reflects confidentiality, early-stage fact gathering, or a standard HR script — not a final decision. Your safest move is to slow down, get the topic and process clarified, and respond only to what you know is true.
+It is common for HR departments to conduct internal audits or "cleanup" of I-9 files, which often results in urgent-sounding requests for missing information. This threat is usually a standardized response to federal compliance deadlines rather than a personal accusation. Providing the documents typically resolves the issue immediately.
 
 ## Scope note
-This covers the first hour: the message, the scheduling, and the first call. Later steps depend on whether this is an investigation, a performance issue, misconduct allegation, or something else.
+This guide covers first-step stabilization for urgent document requests in the workplace. It does not provide legal advice for complex immigration status issues or long-term litigation for wrongful termination.
 
 ## Important note
-This is general information, not legal advice. Under current National Labor Relations Board (NLRB) law, Weingarten rights generally apply to union-represented employees in an investigatory interview they reasonably believe could lead to discipline; rules can differ in public-sector workplaces and by employer policy.
+The information provided is based on USCIS and Department of Justice regulations as of 2026. Employment eligibility rules are subject to federal changes. If your employer refuses to accept valid documents or retaliates against you, contact the IER hotline or a qualified legal professional immediately.
 
 ## Additional Resources
-- https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/weingarten-rights
-- https://gradschool.cornell.edu/about/union-representation/weingarten-rights/
-- https://www.hr.ucsb.edu/hr-units/employee-labor-relations/employee-right-representation-weingarten-rights
-- https://efte.twc.texas.gov/ee_s_right_to_representation.html
-- https://www.law.cornell.edu/supremecourt/text/420/251
+- https://beta.dol.gov/policy-regulations/unions-collective-bargaining/what-union/retaliation-employer
+- https://www.dol.gov/general/topics/whistleblower
+- https://www.eeoc.gov/facts-about-retaliation
+- https://www.eeoc.gov/retaliation-making-it-personal
+- https://askjan.org/articles/Requests-For-Medical-Documentation-and-the-ADA.cfm

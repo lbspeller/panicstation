@@ -1,81 +1,84 @@
-﻿---
+---
 title: "What to do if… you are told a prepaid funeral plan exists but no one can find the provider details"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - prepaid funeral plan missing
-  - lost funeral plan provider
-  - funeral plan no paperwork
-  - can't find funeral plan details
-  - funeral plan company unknown
-  - funeral plan certificate missing
-  - direct debit funeral plan
-  - funeral plan payments found
-  - funeral plan mentioned verbally
-  - funeral plan provider closed
-  - funeral plan transferred provider
-  - funeral plan provider rebranded
-  - funeral plan scam worries
-  - bereavement admin urgent
-  - tracing a funeral plan
-  - find my plan nafpp
-  - fca funeral plan register check
-  - financial ombudsman funeral plan
-  - fscs funeral plan protection
-last_reviewed: "2026-02-23"
+  - "lost funeral plan"
+  - "missing funeral plan provider"
+  - "prepaid funeral plan search"
+  - "help i cannot find funeral plan details"
+  - "what do i do if funeral plan is lost"
+  - "my deceased relative has no funeral paperwork"
+  - "finding a lost funeral plan"
+  - "nafpp find my plan service"
+  - "fca funeral plan register"
+  - "funeral plan company trace"
+  - "tracing a prepaid funeral"
+  - "funeral plan direct debit trace"
+  - "bank statement funeral plan search"
+  - "lost funeral plan certificate"
+  - "what do i do if funeral provider changed names"
+  - "unidentified funeral plan payments"
+  - "funeral director records search"
+  - "missing funeral plan documents"
+  - "help i lost the funeral plan name"
+  - "funeral plan trust check"
+  - "fscs funeral plan protection 2026"
+  - "financial ombudsman funeral plan complaint"
+  - "funeral plan scam prevention"
+  - "funeral plan paperwork missing"
+  - "find my plan uk search"
+  - "locating funeral plan details"
+  - "pre-paid funeral trace"
+  - "bereavement admin help"
+  - "funeral plan provider unknown"
+  - "searching for funeral plan"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you are told a prepaid funeral plan exists but no one can find the provider details (UK)
 
 ## Short answer
-Pause any “we can find it for a fee” offers, then do a quick, structured search of the person’s bank/email/paper trail and use the UK industry “Find my Plan” route before you commit money you can’t easily recover.
+Do not pay a third party to "trace" the plan; instead, use the free National Association of Funeral Plan Providers (NAFPP) search tool and check bank statements for recurring payments to known providers.
 
 ## Do not do these things
-- Don’t pay a “tracing agent” or claims firm upfront to “locate the plan” or “unlock funds”.
-- Don’t assume the plan doesn’t exist just because no one can find paperwork today.
-- Don’t share the deceased’s sensitive documents with unsolicited callers/emails or via links you didn’t independently verify.
-- Don’t delay essential funeral decisions indefinitely waiting for the plan to surface (you can keep searching in parallel).
+- Do not pay upfront fees to "tracing agents" or claims firms promising to locate the funds.
+- Do not assume the plan is invalid if you find paperwork for a company that no longer exists; most were transferred to new providers.
+- Do not provide the deceased's personal ID or bank details to unsolicited callers claiming to have found the plan.
+- Do not delay notifying a funeral director of the death, but tell them a plan search is currently in progress.
 
 ## What to do now
-1. **Create one page of “known facts” (10 minutes).** Write: full name (including previous names), date of birth, last address, approximate year the plan was bought, any funeral director/provider name mentioned, and who told you the plan existed.
-2. **Do a focused paperwork + digital sweep (30–60 minutes).** Look for anything labelled: “funeral plan”, “pre-paid”, “pre-need”, “plan certificate”, “welcome pack”, “terms”, “trust”, “deed”, or similar. Check:
-   - A “life admin” folder, safe, wallet cards, will file, solicitor papers
-   - Email inbox (and deleted items), text messages, and scanned documents
-3. **Check the money trail (often the fastest proof).**
-   - Look for **Direct Debits/standing orders** that might relate to a plan provider, plan administrator, or a funeral business.
-   - Look for **one-off card payments** around the likely purchase date.
-   - If you have executor/administrator authority, ask the bank to help identify regular payments and the merchant/recipient details.
-4. **Use NAFPP “Find my Plan” (single form) as a batch search.** This lets you submit one request that can be sent to participating institutions/providers you select, rather than contacting companies one-by-one. If it returns no match, that doesn’t prove a plan never existed—continue with Steps 5–7.
-5. **If you get a provider name, verify it before you call.**
-   - Use the FCA’s tools (eg the Financial Services Register / firm checker) to confirm whether the provider is authorised for funeral plans, where relevant.
-   - Contact the firm using contact details you find via official channels, not details sent in a random message.
-6. **If the provider appears to have failed/vanished, keep two tracks running.**
-   - **Track A (practical):** proceed with arranging the funeral you can afford without assuming the plan will pay on time.
-   - **Track B (recovery):** gather evidence of plan existence (bank lines, letters, emails, names, dates, any plan number).
-7. **If there’s a dispute, route it through the right escalation (only if it applies).**
-   - Start with the provider’s complaints process (in writing).
-   - The Financial Ombudsman Service can look at many types of complaints about funeral plans **from 29 July 2022** (sale, administration, redemption, delivery) where within scope.
-   - FSCS protection may apply if your funeral plan provider **went out of business on/after 29 July 2022** and was **FCA-authorised** (or your plan was transferred to an authorised provider). Keep any proof of payments and plan documents, even partial.
+1. **Collate the deceased's core details onto a single reference sheet.** **This must include their full legal name, any previous surnames (maiden names), date of birth, and every address they lived at for the last 10 years.**
+   - Include the name of any funeral director they mentioned or used for other family members.
+2. **Conduct a physical search of specific high-probability locations for a "Welcome Pack" or "Certificate of Entitlement".** **Search the deceased's wallet for a plastic membership card, their most recent Will file, or any folder marked "Life Admin" or "Insurance".**
+   - Check the "Safe Custody" or "Solicitor's File" if they had a legal firm handling their affairs.
+3. **Review 12 months of bank statements specifically looking for monthly Direct Debits or a single large lump sum.** **Look for names such as Golden Charter, Dignity, Co-op, Ecclesiastical, Westerleigh, or "Funeral Plan" followed by a reference number.**
+   - If the person was an executor, ask the bank's bereavement team to identify any regular payments to funeral-related businesses over the last three years.
+4. **Submit a single search request via the National Association of Funeral Plan Providers (NAFPP) "Find my Plan" service.** **This free tool sends your enquiry to the majority of UK funeral plan providers simultaneously to check for a record match.**
+   - You will need to provide proof of your relationship to the deceased before a provider will release specific plan details.
+5. **Contact local independent funeral directors in the area where the deceased lived.** **Many individuals "allocate" their plans to a specific local director who may have a record of the plan even if the provider paperwork is missing.**
+   - Ask them to check their "pre-need" or "allocated plan" database.
+6. **Verify the status of any provider you identify using the Financial Conduct Authority (FCA) Financial Services Register.** **Ensure the firm is authorised to "administer and process claims on an existing funeral plan" to confirm they are legitimate.**
+   - If the identified firm is not authorised, contact the FCA consumer helpline for guidance on who took over their "book of business."
+7. **Check if Financial Services Compensation Scheme (FSCS) protection applies if the provider has failed.** **Since December 2025, the FSCS protection limit for funeral plans is £120,000 per person if the firm was FCA-authorised at the time of failure.**
+   - You can verify eligibility on the FSCS website using the name of the authorised firm.
 
 ## What can wait
-- You do **not** need to decide today whether anyone “misled” you about the plan.
-- You do **not** need to argue with relatives about who is “responsible” for finding it.
-- You do **not** need to sign any expensive upgrades “just in case the plan covers it”.
-- You can postpone any formal complaint/escalation until you’ve gathered the basic evidence (payments, dates, names).
+- You do not need to settle the final funeral bill before the search is complete.
+- You do not need to resolve disputes between family members regarding the deceased's intentions.
+- You do not need to submit a formal complaint to the Financial Ombudsman until you have a final "no" or a "rejection" from a specific provider.
 
 ## Important reassurance
-It’s common for families to know *a plan exists* but not have the details—paperwork gets filed away, providers rebrand, and payments can look unfamiliar on statements. A calm, methodical check is usually more effective than making dozens of urgent calls.
+It is very common for funeral plan paperwork to be lost or for providers to have rebranded since the plan was purchased. The UK industry is now more regulated than ever, and there are established, free pathways to reconnect families with these funds without needing to pay for professional "tracing."
 
 ## Scope note
-This is first-steps-only guidance to locate the provider or confirm whether a plan exists. Later steps (recovering money, challenging a provider, or handling insolvency) may need specialist help depending on the provider and contract type.
+This guide is for first-step stabilization and location of a missing plan only. It does not cover the legal process of probate or the specific technicalities of claiming from a trust-based versus insurance-based plan.
 
 ## Important note
-This is general information, not legal or financial advice. If you’re unsure about your authority to access accounts or documents, act cautiously and use official channels. Share documents only through verified routes you initiate (for example, your bank, or a provider you’ve independently confirmed).
+All information is provided for general guidance and does not constitute legal or financial advice. Ensure you are using official, verified websites (ending in .org.uk or .gov.uk) when entering sensitive personal data. If you suspect a scam, report it to Action Fraud immediately.
 
 ## Additional Resources
 - https://nafpp.org/find-my-plan/
+- https://nafpp.org/who-administers-our-funeral-plan/
 - https://www.fca.org.uk/consumers/funeral-plans-check-provider-authorised
-- https://www.fca.org.uk/consumers/how-check-firm-individual-authorised
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/complaints/pre-paid-funeral-plans
-- https://www.fscs.org.uk/what-we-cover/funeral-plans/
-- https://www.fscs.org.uk/what-we-cover/
+- https://www.moneyhelper.org.uk/en/family-and-care/death-and-bereavement/rules-and-regulation-for-a-pre-paid-funeral-plan
+- https://www.fca.org.uk/news/news-stories/funeral-plan-providers-firms-not-authorised-29-july-2022

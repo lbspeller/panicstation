@@ -1,72 +1,86 @@
-﻿---
+---
 title: "What to do if… you notice signs your door lock has been tampered with since you last left"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - door lock tampered
-  - lock looks picked
-  - keyhole scratched
-  - lock forced entry signs
-  - attempted break in
-  - possible burglary
-  - return home suspicious door
-  - door won’t unlock normally
-  - lock cylinder damaged
-  - lock feels different
-  - someone tried my door
-  - latch area damage
-  - came back to disturbed lock
-  - home entry attempt
-  - front door security scare
-  - door handle tampering
-  - worried someone is inside
-  - signs of break in
-last_reviewed: "2026-01-10"
+  - "door lock tampered"
+  - "lock looks picked"
+  - "keyhole scratched"
+  - "lock forced entry signs"
+  - "attempted break in"
+  - "possible burglary"
+  - "return home suspicious door"
+  - "door won't unlock normally"
+  - "lock cylinder damaged"
+  - "lock feels different"
+  - "someone tried my door"
+  - "latch area damage"
+  - "came back to disturbed lock"
+  - "home entry attempt"
+  - "front door security scare"
+  - "door handle tampering"
+  - "worried someone is inside"
+  - "signs of break in"
+  - "help i think someone tried to get in"
+  - "what do i do if my lock is scratched"
+  - "what do i do if my door handle is loose"
+  - "help i think my house was targeted"
+  - "key won't go in lock"
+  - "metal shavings in keyhole"
+  - "door frame splintered"
+  - "marks on door frame"
+  - "tampered lock symptoms"
+  - "suspicious marks on front door"
+  - "unlocked door after being out"
+  - "disturbed lock barrel"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you notice signs your door lock has been tampered with since you last left (UK)
 
 ## Short answer
-Don’t go inside. Get to a safer place nearby and contact the police: call 999 if you think there’s any immediate risk or someone could still be inside; otherwise contact them via 101 (or your local police force’s online reporting).
+Do not enter the property. Move to a safe location away from the entrance and call 999 if you suspect someone is still inside or 101 if the property is clearly empty.
 
 ## Do not do these things
-- Don’t go in “just to check quickly,” even if the door still seems locked.
-- Don’t keep trying the key, forcing the handle, or attempting a quick repair right now.
-- Don’t call out through the door or confront anyone you can’t see.
-- Don’t touch the lock/handle/doorframe more than you already have, or start cleaning up if you’ve already gone inside.
-- Don’t post about it publicly (including that your home is empty).
+- Don’t enter the property to "check" for intruders or missing items.
+- Don’t touch the lock, handle, or door surface, as this may contaminate forensic evidence like DNA or fingerprints.
+- Don’t alert anyone inside by shouting or knocking on the door.
+- Don’t use your key to "test" the lock if it looks visibly damaged or obstructed.
+- Don’t post photos of the damage or your location on social media while the situation is active.
 
 ## What to do now
-1. **Create distance and pause.** Step back from the door. From where you are, look for anything else unusual (open window, moved curtains, unfamiliar marks, lights changed).
-2. **Move somewhere safer to make calls.** A neighbour’s home, a nearby shop/café, or your locked car is better than standing right outside your door.
-3. **Contact the police using the safest option.**
-   - **Call 999** if there’s any chance someone is inside, you see an open entry point, you heard something, or you’re simply not sure.
-   - If there’s clearly no immediate danger, **call 101** or use your **local police force’s online reporting**.
-   Tell them: your address, what looks different about the lock/door, when you last left, and whether anyone should be inside.
-4. **Wait outside until police say it’s safe.** Stay in a secure place. If you can, keep a clear view of the entrance without making yourself obvious.
-5. **Preserve the scene without handling it.** If it’s safe and you’re not delaying urgent help, take a few photos from a distance (lock, doorframe, nearby windows) and then stop. Don’t touch the lock, handle, or doorframe.
-6. **If you rent or live in managed housing, notify the right person after you’ve contacted police.** Ask about emergency lock changes and how access will be handled (for example, who will attend and when).
-7. **If you already went inside and now feel unsure:** leave immediately, get to a safer place, and call 999 if there’s any possibility someone could still be there.
-8. **When you speak to police, ask what reference you should record.** You may be given an incident or crime reference number, which can be useful later (for example, for insurance or housing).
+1. **Create immediate physical distance from the entrance.** Move away from the door and any ground-floor windows to a position where you cannot be seen from inside.
+2. **Relocate to a verified safe space.** Go to a neighbour’s house, a nearby public shop, or sit in your car with the doors locked while you make contact with authorities.
+3. **Contact the police using the appropriate emergency level.**
+   - **Call 999** if you have heard noise inside, see an open window, or have any reason to believe an intruder is still present.
+   - **Call 101** or use the "Live Chat" / online reporting tool on your local police force's website if the property appears empty and the danger is not immediate.
+   - Use the **Silent 999** service if you are in danger and cannot speak: dial 999 and then press 55 when prompted.
+4. **Provide specific sensory details to the operator.** Mention visible cues such as metal shavings in the keyhole, "snap" marks on a cylinder lock, screwdriver gouges on the frame, or a door that is slightly ajar.
+5. **Wait for a police unit to arrive and clear the property.** Do not re-enter until an officer explicitly tells you the premises are secure.
+6. **Preserve the scene for investigation.** If safe to do so from a distance, take a photograph of the damage without touching any surfaces.
+7. **Contact a Master Locksmiths Association (MLA) approved locksmith once the police finish.** Ask for an "emergency make-secure" service.
+   - Avoid "emergency" stickers found on communal doors as these are often rogue traders.
+   - Use the MLA website to find a vetted professional.
+8. **Notify your landlord or housing association if you do not own the property.** Inform them that a crime has been reported and request an emergency repair to the door or frame if it cannot be secured.
+9. **Record the Crime Reference Number (CRN) or Incident Number.** You will need this for insurance claims or if you need to justify an emergency lock change to a landlord.
 
 ## What can wait
-- You don’t need to decide right now whether to change locks, upgrade security, or buy alarms/cameras.
-- You don’t need to do a full inventory of what’s missing immediately.
-- You don’t need to book a locksmith before police have advised it’s safe to re-enter (unless you’re explicitly told to).
-- Calls to insurers, arranging repairs, and updating neighbours can wait until you’re safe.
+- You do not need to conduct a full inventory of your belongings right now.
+- You do not need to decide on permanent security upgrades (CCTV, smart doorbells) today.
+- You do not need to contact your home insurance provider until you have a police reference number.
+- You do not need to notify your employer or wider social circle immediately.
 
 ## Important reassurance
-It’s normal to feel shaky, angry, or “silly for worrying.” Lock damage can have innocent explanations, but treating it as a safety issue first is the safer choice—and it’s okay to prioritise caution.
+Feeling a sense of violation or "hyper-vigilance" after noticing tampering is a standard physiological response to a threat. Even if no one entered, the threat to your private space is real, and taking cautious steps is a logical, protective action, not an overreaction.
 
 ## Scope note
-This is first-steps-only guidance for the minutes and hours after you notice possible tampering. Follow-up actions (repairs, insurance, longer-term security) can happen once the immediate risk is resolved.
+This guide provides first-step stabilization for the immediate period after discovering potential tampering. It does not cover long-term security planning, legal disputes with landlords, or insurance claim processes.
 
 ## Important note
-This guide provides general information, not legal advice. If you feel in immediate danger or think someone may be inside, call 999.
+This information is for guidance only and does not constitute legal or professional security advice. Always follow the direct instructions of police officers on the scene. If you feel your life is in danger, call 999 immediately.
 
 ## Additional Resources
-- https://www.gov.uk/contact-police
-- https://www.police.uk/pu/contact-us/
-- https://www.independentage.org/get-advice/your-home-and-housing/home-security/if-youve-been-burgled
-- https://news.npcc.police.uk/releases/police-now-attending-scene-of-every-home-burglary
-- https://www.college.police.uk/guidance/residential-burglary/initial-response
+- https://www.police.uk/pu/contact-us/what-and-how-to-report/what-report/
+- https://www.met.police.uk/contact/af/contact-us-beta/contact-us/report-crime-incident-suspicion/report-crime/
+- https://www.met.police.uk/cp/crime-prevention/protect-home-crime/door-security-advice/
+- https://www.police.uk/cp/crime-prevention/protect-home-crime/keep-burglars-out-property/
+- https://www.met.police.uk/cp/crime-prevention/protect-home-crime/residential-burglary-facts/

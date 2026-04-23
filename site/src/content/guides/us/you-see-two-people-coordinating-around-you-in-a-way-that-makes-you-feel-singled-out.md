@@ -1,85 +1,86 @@
-﻿---
+---
 title: "What to do if… you see two people coordinating around you in a way that makes you feel singled out"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - people coordinating around me
-  - two strangers watching me
-  - feeling singled out in public
-  - think i am being followed
-  - being watched on the street
-  - suspicious behaviour near me
-  - coordinated strangers nearby
-  - someone tailing me
-  - being targeted in a crowd
-  - street harassment fear
-  - uneasy gut feeling outside
-  - strangers circling my route
-  - public transit feels unsafe
-  - followed into a store
-  - worried i am being set up
-  - distraction technique concern
-  - alone and feel unsafe
-  - they keep matching my moves
-  - crime in progress concern
-last_reviewed: "2026-01-17"
+  - "people coordinating around me"
+  - "two strangers watching me"
+  - "feeling singled out in public"
+  - "think i am being followed"
+  - "being watched on the street"
+  - "suspicious behaviour near me"
+  - "coordinated strangers nearby"
+  - "someone tailing me"
+  - "being targeted in a crowd"
+  - "street harassment fear"
+  - "uneasy gut feeling outside"
+  - "strangers circling my route"
+  - "public transit feels unsafe"
+  - "followed into a store"
+  - "worried i am being set up"
+  - "distraction technique concern"
+  - "alone and feel unsafe"
+  - "they keep matching my moves"
+  - "crime in progress concern"
+  - "suspicious coordination"
+  - "coordinated behavior strangers"
+  - "feeling targeted by two people"
+  - "surveillance in public space"
+  - "what do i do if people are following me"
+  - "what do i do if strangers are watching me"
+  - "what do i do if i feel singled out"
+  - "help i am being followed by two people"
+  - "help i am being watched"
+  - "my gut says i am being followed"
+  - "suspicious activity reporting"
+  - "stalking behavior strangers"
+  - "stakers nearby"
+  - "suspicous strangers"
+  - "two people watching me at night"
+  - "security in shopping mall"
+  - "coordinated movement strangers"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you see two people coordinating around you in a way that makes you feel singled out (USA)
 
 ## Short answer
-Move into a staffed, public place and get staff/security to help you contact emergency services. If you feel in immediate danger or a crime may be in progress, call **911**.
+Immediately move into a well-lit, staffed public location such as a store, hospital, or fire station and ask staff or security for help. Call **911** if you feel you are in immediate danger or believe a crime is being prepared.
 
 ## Do not do these things
-- Don’t confront them, argue, or try to “catch them out”.
-- Don’t go straight home or to a secluded parking area if you think you’re being tracked to a destination.
-- Don’t isolate yourself (alleys, stairwells, empty lots, quiet transit platforms) to “get away faster”.
-- Don’t pull out cash, unlock banking apps, or display valuables if you suspect a distraction/theft setup.
-- Don’t let embarrassment stop you from asking for help.
+- Don't confront the individuals, use aggressive language, or attempt to "expose" them.
+- Don't go to your home, your car, or any secluded area where you could be isolated.
+- Don't take shortcuts through alleys, empty parking lots, or quiet side streets to get away faster.
+- Don't look down at your phone for long periods; maintain visual awareness of your surroundings.
+- Don't ignore your intuition or stay in a quiet area because you are worried about "overreacting."
 
 ## What to do now
-1. **Change the environment: go to staffed help.**  
-   Walk into the nearest **staffed** place (store, café, hotel lobby, hospital/urgent care reception, campus/building security desk, or any location with visible staff). Stay near a counter or security presence.
-
-2. **Use a simple script that gets action.**  
-   Tell staff: “I feel unsafe — two people seem to be coordinating around me. Can you call security or 911 and let me wait here?”  
-   If you’re in a mall, transit hub, or large building, ask for **security** to meet you where you are.
-
-3. **Call 911 if you feel immediate danger.**  
-   911 is for emergencies such as reporting a crime in progress, someone being threatened, or when you believe immediate harm may occur. If you’re unsure but feel threatened, it’s appropriate to call and describe what you’re seeing and where you are.
-
-4. **If you can’t safely speak, text 911 only if your area supports it.**  
-   General rule: **call if you can, text only if you can’t safely call**. Text-to-911 isn’t available everywhere; if it’s not supported where you are, you may receive an automated “bounce-back” text telling you to contact 911 another way.
-
-5. **Make yourself harder to isolate while you wait.**  
-   Stay in a busy, well-lit area; keep your back to a wall; keep your bag closed and in front of you. If you have someone you trust, call them and state your **current** location (e.g., “I’m inside the [store name] on [street]”) and ask them to stay on the line. Avoid saying your home address or plans out loud.
-
-6. **Do a quick “don’t lead them anywhere” check.**  
-   If you were heading to your car/home, stop that plan for now. Stay with staff/security or move to another staffed location.
-
-7. **Note details only once you’re in a safe pause.**  
-   Without staring, jot down: clothing, approximate height/build, distinguishing features, direction they went, and any vehicle make/model/plate (if you can do it safely). This helps responders.
-
-8. **If you’re safe but still want it logged, use local non-emergency reporting.**  
-   Ask staff/security to help you find the **local police department’s non-emergency number** or the city/county **online reporting** option for suspicious activity.
+1. **Move immediately to the nearest staffed, public "safe haven" location.** **This includes open businesses, hotel lobbies, hospital emergency rooms, or fire stations where people are present.**
+2. **Alert staff or security as soon as you enter the building.** **Use a direct statement such as: "I am being followed by two people and I feel unsafe; I need to wait here and would like you to call security."**
+3. **Call 911 if you cannot find a staffed building or if the individuals attempt to follow you inside.** **Tell the dispatcher your exact location, a description of the people, and why their coordination makes you feel targeted.**
+4. **Utilize text-to-911 only if you are in a location where speaking aloud would increase your risk.** **If you text 911 and the service is unavailable in your area, you will receive a "bounce-back" message; in that case, you must place a voice call immediately.**
+5. **Keep your back to a wall while you wait for assistance.** **This prevents anyone from approaching you from behind and allows you to maintain a clear view of all entrances and exits.**
+6. **Stay on the phone with a trusted contact or emergency services until help arrives.** **Clearly state your current location and stay in the line of sight of staff or security cameras.**
+7. **Cancel your original travel plans and arrange for a secure escort or a rideshare from the safe location.** **Do not walk to your vehicle or home until law enforcement or security has confirmed the area is clear or provides an escort.**
+8. **Note physical descriptions and vehicle details only once you are behind a locked door or with security.** **Focus on height, clothing, distinct marks, and the direction of their travel to assist police in a report later.**
 
 ## What can wait
-- You don’t need to decide right now whether you were “right” about their intentions.
-- You don’t need to confront them or gather proof.
-- You don’t need to change your routines tonight or make big life decisions.
-- You don’t need to post about it or warn others online in the moment.
+- You don't need to verify if their behavior was actually "malicious" before seeking help.
+- You don't need to check your own security footage or "investigate" why you were targeted right now.
+- You don't need to decide whether to file a formal police report until you are in a permanently safe environment.
+- You don't need to notify your employer or friends about the incident until the immediate threat has passed.
 
 ## Important reassurance
-Feeling singled out by coordinated behaviour is a real stress trigger. Moving to staffed help and involving security or emergency services is a practical way to protect yourself without escalating the situation.
+It is normal to feel a physical "fight or flight" response when you notice coordinated behavior from strangers. Trusting your intuition and moving to a populated, staffed area is the most effective way to disrupt a potential setup and ensure your safety. Taking these steps is a proactive safety measure, not an overreaction.
 
 ## Scope note
-This covers first steps in the moment. If you think this is repeated targeting, stalking, or harassment, you may need more tailored support and follow-up planning.
+This guide provides immediate stabilization steps for suspected public coordination or stalking. It does not cover long-term safety planning for domestic violence or persistent harassment.
 
 ## Important note
-This is general information, not legal advice. If you believe you are in danger or a crime is in progress, call 911.
+This information is for safety stabilization and does not constitute legal advice. If you are experiencing a pattern of behavior that feels like stalking, you can contact the VictimConnect Resource Center at 855-484-2846 for confidential support and referrals.
 
 ## Additional Resources
-- https://www.911.gov/calling-911
-- https://www.911.gov/calling-911/frequently-asked-questions
-- https://www.fcc.gov/consumers/guides/what-you-need-know-about-text-911
-- https://www.fcc.gov/document/text-911-bounce-back-message-order
+- https://www.thehotline.org/resources/stalking-safety-planning/
+- https://ovc.ojp.gov/topics/stalking
+- https://www.womenslaw.org/safety-planning/safety-tips-stalking-victims
+- https://www.stalkingawareness.org/definition-faqs/
+- https://victimconnect.org/get-help/

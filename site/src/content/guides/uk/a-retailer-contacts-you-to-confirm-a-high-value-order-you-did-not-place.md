@@ -1,89 +1,98 @@
-﻿---
+---
 title: "What to do if… a retailer contacts you to confirm a high-value order you did not place"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - retailer called about an order
-  - high-value order you didn’t place
-  - unexpected order verification call
-  - unauthorised online purchase
-  - fake customer service call
-  - order confirmation you didn’t make
-  - card not present fraud
-  - retail account takeover
-  - delivery address changed
-  - scam order cancellation request
-  - asked for one-time passcode
-  - payment card used without consent
-  - suspicious merchant contact
-  - phishing about an order
-  - parcel sent in your name
-  - unexpected purchase alert
-  - “did you place this order”
-  - high value transaction query
-last_reviewed: "2026-01-10"
+  - "retailer called about an order"
+  - "high-value order you didn't place"
+  - "unexpected order verification call"
+  - "unauthorised online purchase"
+  - "fake customer service call"
+  - "order confirmation you didn't make"
+  - "card not present fraud"
+  - "retail account takeover"
+  - "delivery address changed"
+  - "scam order cancellation request"
+  - "asked for one-time passcode"
+  - "payment card used without consent"
+  - "suspicious merchant contact"
+  - "phishing about an order"
+  - "parcel sent in your name"
+  - "unexpected purchase alert"
+  - "did you place this order"
+  - "high value transaction query"
+  - "what do i do if a shop calls me about an order"
+  - "what do i do if i get a fake order call"
+  - "what do i do if someone used my card at a retailer"
+  - "what do i do if my delivery address was changed"
+  - "help i got a text about a high value order"
+  - "help i think my retail account was hacked"
+  - "help someone is ordering things in my name"
+  - "help i am being scammed by a fake retailer call"
+  - "smell of burning plastic"
+  - "unusual heat from device"
+  - "caller sounds professional but pushy"
+  - "text message from unknown number about delivery"
+  - "unexpected verification code email"
+  - "retailer verification scam"
+  - "order cancellation fraud"
+  - "unrecognised pending transaction"
+  - "bank account compromised by retail hack"
+  - "suspicious login notification"
+  - "change of account details alert"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a retailer contacts you to confirm a high-value order you did not place (UK)
 
 ## Short answer
-Treat the contact as potentially fraudulent and don’t confirm any details. Verify the order by contacting the retailer using details you find independently, and if any payment may be involved, contact your bank/card provider immediately.
+Treat the contact as fraudulent, hang up or close the message immediately, and verify the order independently by logging into your account via the official app or website. If you suspect your payment details are compromised, contact your bank using the 159 hotline or the number on the back of your card.
 
 ## Do not do these things
-- Don’t click links, scan QR codes, or use phone numbers given in the message/voicemail.
-- Don’t “confirm” personal details (full name, address, date of birth) just because they already know some of them.
-- Don’t share one-time passcodes (OTPs), banking app approval prompts, or card security codes (CVV).
-- Don’t let anyone “help you cancel” by taking payment or asking you to install software.
-- Don’t assume it’s safe because the caller sounds professional or knows your order “number”.
-- Don’t ignore it if you see any matching transaction in your bank/card activity.
+- Don't trust the Caller ID displayed on your phone, as scammers frequently spoof official retailer numbers.
+- Don't click links, scan QR codes, or download attachments in any message or email regarding the "order".
+- Don't provide any "verification" details such as your full address, mother's maiden name, or bank details.
+- Don't share One-Time Passcodes (OTP) or approve "security" notifications in your banking app during the call.
+- Don't allow the caller to "remote access" your computer or phone to "help" you cancel the order.
+- Don't use any phone number provided by the caller or included in a suspicious text/email.
 
 ## What to do now
-1. **Pause and switch to verification mode.** Say: “I’m not able to confirm anything on this call/message. I’ll contact you via your official customer service channel.”
-2. **Check whether an order actually exists (without using their link).**  
-   - Open the retailer’s app or type the retailer’s web address yourself.  
-   - Look at **order history**, **saved delivery addresses**, and **saved payment methods**.  
-   - If you can’t access the account, treat that as a warning sign and move to step 3.
-3. **Contact the retailer using a number/address you find independently.**  
-   - Use the contact details on the retailer’s official website/app, a paper receipt, or a previous genuine email (not the new message).  
-   - Ask them to **cancel the order**, **remove any new delivery addresses**, and **note your account for suspected fraud**.  
-   - Ask what information they can use to locate the order **without** you giving sensitive data.
-4. **Check your bank/card activity right now.**  
-   - Look for a matching **pending** or **authorised** transaction.  
-   - If you see anything you don’t recognise (or you’re unsure), **call your bank/card provider using the number on the back of your card** and tell them it may be fraud. Ask them to **block/replace the card as needed** and explain how they want you to **dispute** the payment.
-5. **Lock down the most likely “entry points”.**  
-   - Change the password on your **email account** first (email often controls password resets).  
-   - Then change the password on the **retailer account** and turn on **two-step verification** where available.  
-   - Check the retailer account for **new addresses**, **new phone numbers**, or **new payment methods**, and remove anything you don’t recognise.
-6. **If shipping is involved, try to stop the parcel safely (if available).**  
-   - If you can see tracking inside your own account (not from a link), ask the retailer (via verified channels) whether they can **stop shipment**, **cancel delivery**, or **return to sender**.  
-   - If a parcel arrives that you didn’t order, you can often **refuse delivery**. Don’t confront anyone you suspect is trying to collect it.
-7. **Report the scam attempt (or any loss of money/details).**  
-   - If you’re in **England, Wales, or Northern Ireland**, report cyber crime and fraud to **Report Fraud** (online) or by phone on **0300 123 2040**.  
-   - If you’re in **Scotland**, report to **Police Scotland** by calling **101**.  
-   - If it came via email, forward it to **report@phishing.gov.uk**. If it came by text, forward it to **7726** (free).
-8. **Do a quick identity check if it feels “bigger than one order”.**  
-   - Get your **statutory credit report** from **Experian**, **Equifax**, and **TransUnion** (they don’t all hold identical data).  
-   - If you’re worried your details are being used repeatedly, consider **Cifas Protective Registration** (it prompts extra identity checks by many organisations for a period of time).
+1. **Terminate the contact and wait for a clear line.** If you are on a landline, wait at least 5 minutes or use a different phone to ensure the scammer hasn't kept the line open.
+2. **Verify the order through official channels only.**  
+   - Log in to the retailer’s website by typing the address directly into your browser or using their official app.
+   - Check **Order History** and **Recent Activity**.
+   - Review **Saved Addresses** and **Payment Methods** for any recent changes you did not authorise.
+3. **Contact the retailer’s fraud department independently.**  
+   - Find the official customer service number on the retailer's "Contact Us" page or a physical receipt.
+   - Report the unauthorised order and ask them to **cancel the transaction**, **freeze the account**, and **remove any new delivery addresses**.
+4. **Secure your financial accounts immediately.**  
+   - **Call 159** (the UK's secure fraud hotline) to be connected to your bank, or use the number on the back of your debit/credit card.
+   - Inform them of a potential fraudulent transaction or account compromise.
+   - Ask the bank to **cancel and replace your card** if the retailer account held your full card details.
+5. **Change your primary security credentials.**  
+   - Change your **email password** first, as this is often used for password resets.
+   - Change your **retailer account password** and enable **Two-Factor Authentication (2FA)** if it was not already active.
+6. **Report the incident to the authorities.**  
+   - If you are in England, Wales, or Northern Ireland, report to **Report Fraud** (formerly Action Fraud) at `reportfraud.police.uk` or call **0300 123 2040**.
+   - If you are in Scotland, report the fraud to **Police Scotland** by calling **101**.
+   - Forward suspicious emails to `report@phishing.gov.uk` and suspicious texts to **7726**.
 
 ## What can wait
-- You don’t need to decide right now whether to pay for credit monitoring or buy an identity protection product.
-- You don’t need to contact multiple organisations at once; prioritise **retailer verification** and **bank/card provider** first.
-- You don’t need to make a police report unless there’s an immediate safety risk or you’re specifically advised to for your situation.
-- You don’t need to change every password today—focus on **email + retailer + banking** first.
+- You do not need to check every single online account today; focus only on the compromised retailer, your email, and your bank.
+- You do not need to pay for a private credit monitoring service immediately; you can access your statutory reports for free later.
+- You do not need to file a formal police report unless you are in Scotland or have been directed to do so by Report Fraud.
 
 ## Important reassurance
-This situation is common, and retailers sometimes contact customers because *they* suspect fraud. You’re not being difficult by refusing to confirm details on an inbound call or message—verifying independently is the safest move and usually speeds up resolution.
+It is a standard security procedure to hang up and call back on a trusted number. Genuine retailers will understand this and will never pressure you to stay on the line or provide passcodes. Taking these steps quickly significantly reduces the likelihood of financial loss.
 
 ## Scope note
-These are first steps to stop loss and reduce the chance of repeat attempts. If there are signs of broader identity misuse (new accounts, repeated orders, credit applications), you may want additional support after the immediate risk is contained.
+This guide covers first-step stabilization for a suspected fraudulent retail contact. It does not cover long-term identity theft recovery or legal disputes over delivered goods.
 
 ## Important note
-This guide is general information, not legal or financial advice. If you believe money has been taken or your account security is compromised, your bank/card provider and the retailer are the right first points of contact.
+This information is for guidance only and does not constitute legal or financial advice. In 2026, scammers use sophisticated AI to mimic voices and official numbers; independent verification is the only reliable way to confirm a contact is genuine.
 
 ## Additional Resources
-- https://www.gov.uk/report-suspicious-emails-websites-phishing
-- https://www.reportfraud.police.uk/
-- https://www.reportfraud.police.uk/news/report-fraud-service-goes-live/
-- https://www.moneyhelper.org.uk/en/everyday-money/credit/how-to-check-your-credit-report
-- https://www.cifas.org.uk/pr
-- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-call
+- https://www.citizensadvice.org.uk/debt-and-money/banking/your-payment-card-was-used-without-your-permission-distance-sales/
+- https://www.moneyhelper.org.uk/en/everyday-money/credit/identity-theft-and-scams-what-you-are-liable-for
+- https://www.ncsc.gov.uk/collection/phishing-scams/spot-scams
+- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
+- https://www.citizensadvice.org.uk/consumer/scams/check-if-you-can-get-your-money-back-after-a-scam/

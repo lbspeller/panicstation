@@ -1,87 +1,103 @@
-﻿---
+---
 title: "What to do if… you receive a credible warning that someone may come to confront you at your location"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - someone is coming to my location
-  - person is on their way to confront me
-  - credible warning someone will show up
-  - threatened at home right now
-  - threatened at work right now
-  - someone coming to my house
-  - someone coming to my workplace
-  - hostile person may arrive
-  - confrontation at the door
-  - someone waiting outside for me
-  - threatened by an ex turning up
-  - threatened by a neighbour turning up
-  - angry person heading to me
-  - intimidation someone coming over
-  - fear of violence from visitor
-  - someone may force entry
-  - worried they know my address
-  - warning they are nearby
-  - imminent confrontation warning
-last_reviewed: "2026-01-10"
+  - "someone is coming to my location"
+  - "person is on their way to confront me"
+  - "credible warning someone will show up"
+  - "threatened at home right now"
+  - "threatened at work right now"
+  - "someone coming to my house"
+  - "someone coming to my workplace"
+  - "hostile person may arrive"
+  - "confrontation at the door"
+  - "someone waiting outside for me"
+  - "threatened by an ex turning up"
+  - "threatened by a neighbour turning up"
+  - "angry person heading to me"
+  - "intimidation someone coming over"
+  - "fear of violence from visitor"
+  - "someone may force entry"
+  - "worried they know my address"
+  - "warning they are nearby"
+  - "imminent confrontation warning"
+  - "help i am being threatened at home"
+  - "help i am being threatened at work"
+  - "what do i do if someone is coming to fight me"
+  - "what do i do if someone is on their way to my house"
+  - "what do i do if someone is coming to confront me"
+  - "what do i do if someone is coming to my location"
+  - "my ex is on the way to confront me"
+  - "my coworker is coming to confront me"
+  - "unfamiliar vehicle outside my home"
+  - "repeated knocking on my door"
+  - "yelling outside my workplace"
+  - "aggressive person approaching building"
+  - "confrontation threat at workplace"
+  - "location safety emergency"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you receive a credible warning that someone may come to confront you at your location (USA)
 
 ## Short answer
-Get to a safer position and involve other people (security, staff, neighbors). If you feel at risk of harm or they may be arriving imminently, call **911**.
+Immediately move to a secure interior location or a staffed public area and call **911** if you believe the threat is imminent or you feel in danger of physical harm.
 
 ## Do not do these things
-- Do not step outside, open the door, or go to a parking lot “to see what happens”.
-- Do not get pulled into arguing or negotiating by text/call while you’re trying to stay safe.
-- Do not watch from windows or doorways where you can be seen.
-- Do not post your location, movements, or real-time updates.
-- Do not stay alone if you can safely avoid it.
+- Do not go outside or onto a porch / balcony to "see if they are there."
+- Do not open the door to speak with them or "de-escalate" through a screen or window.
+- Do not engage in back-and-forth text or phone arguments with the person.
+- Do not post your current situation or live location on social media.
+- Do not attempt to physically block a door with your body if entry is forced.
 
 ## What to do now
-1. **Move to the safest available place (tens of seconds).**
-   - If you can **leave safely**, go to a staffed public place (store, lobby, front desk) or a trusted neighbor/friend.
-   - If leaving could increase risk, **stay inside**, move away from doors/ground-floor windows, and choose a more interior spot if possible.
+1. **Move to a secure position immediately (tens of seconds).**
+   - If you are at home and can safely leave before they arrive, go to a nearby police station, fire station, or busy public building.
+   - If you cannot leave safely, move to an interior room with a lockable door and away from ground-floor windows.
 
-2. **Lock down what you can quickly and safely.**
-   - Lock doors and accessible windows.
-   - If you’re in a managed building, avoid entering hallways/parking areas to check for them.
+2. **Secure all entry points to your current space.**
+   - Lock all exterior doors, windows, and garage entries.
+   - Close curtains or blinds to prevent anyone from seeing your exact position inside.
 
-3. **Get other people involved on-site (do not handle this alone).**
-   - **Workplace/venue:** notify a supervisor/reception/security and ask them to control entry and not connect anyone to you.
-   - **Home:** contact a trusted person to stay on the phone with you; if they’re nearby, ask them to come over only if it’s safe.
+3. **Alert on-site support or security personnel.**
+   - **Workplace:** Inform security or a supervisor that a hostile individual may arrive; ask them to restrict visitor access and notify you if the person is spotted.
+   - **Public Building:** Alert front-desk staff or security about the specific warning you received.
+   - **Residential Building:** Contact the building manager or on-site security if available.
 
-4. **Call 911 if there’s any immediate danger or you believe the person is about to arrive and you feel unsafe.**
-   - Start with your location and what you were told: who may arrive, any threats, and any description/vehicle information.
-   - Follow the call-taker’s instructions and don’t hang up unless told to.
+4. **Call 911 if you believe the person is arriving or if the threat is specific and violent.**
+   - State your exact location first, then describe the person (name, appearance, vehicle) and the nature of the threat.
+   - Tell the dispatcher where you are hiding or located within the building.
+   - Stay on the line until emergency responders arrive at your side.
 
-5. **If you can’t safely talk, text 911 where it’s available.**
-   - The general rule is: **call if you can, text if you can’t**.
-   - Keep it short: your exact location first, then what’s happening. Avoid emojis/slang.
+5. **Use Text-to-911 if you cannot safely speak out loud.**
+   - Send your exact address and the word "emergency" as the first message.
+   - Keep subsequent messages brief and follow all instructions from the dispatcher.
 
-6. **If it’s serious but not immediate, use your local non-emergency route.**
-   - Look up your local police department’s non-emergency number. Some cities also use **311** for non-emergency local services.
-   - The key goal is to get the situation logged and get guidance without tying up emergency lines.
+6. **Preserve the evidence of the warning.**
+   - Take a screenshot of the message or save the voicemail.
+   - Write down the name of the person who relayed the warning to you and the exact time you received it.
 
-7. **Preserve the warning without engaging.**
-   - Screenshot/save the warning message or write down the exact wording and time.
-   - Do not argue back. If you must communicate at all, keep it minimal and safety-focused (or don’t respond).
+7. **Verify the arrival of law enforcement before opening your door.**
+   - If police arrive, they will identify themselves; do not open the door until you are certain it is the responding officers.
+   - Follow their instructions for exiting the building or providing a statement.
 
 ## What can wait
-- You do not need to decide right now about restraining/protective orders, formal statements, or longer-term security changes.
-- You do not need to tell the whole story to multiple people—share only what’s needed to keep you safe.
-- You do not need to confront them, “clear the air,” or prove anything today.
+- You do not need to decide on filing for a temporary restraining order (TRO) or protective order this second.
+- You do not need to notify your entire social circle or family until the immediate moment has passed.
+- You do not need to gather a complete history of your relationship with the person for the initial 911 call.
 
 ## Important reassurance
-A credible warning can spike adrenaline fast—shaking, tunnel vision, nausea, or feeling frozen are common. The safest approach is to **increase distance, reduce access, and bring in support** (other people and emergency services), rather than trying to manage it alone.
+It is normal to feel a sudden rush of adrenaline, shaking, or a "freeze" response when receiving a threat. These are biological survival signals designed to help you prioritize safety. Focusing on the physical environment—locking doors and creating distance—can help manage the immediate feeling of panic.
 
 ## Scope note
-This covers first steps for the next minutes to hours. Once you’re safe, you can consider follow-up reporting and additional supports.
+This guide covers first-step stabilization for the immediate period surrounding a threat of confrontation. It does not provide long-term legal strategies or personal protection training.
 
 ## Important note
-This is general information, not legal advice or a guarantee of safety. If you think violence is possible or imminent, call 911 and prioritise getting to a safer place.
+This information is for safety stabilization and is not legal advice. Response times for emergency services vary by jurisdiction. If you are in immediate fear for your life, prioritize physical escape or secure shelter and contact authorities.
 
 ## Additional Resources
-- https://www.911.gov/calling-911
-- https://www.911.gov/calling-911/frequently-asked-questions
-- https://www.fcc.gov/consumers/guides/what-you-need-know-about-text-911
-- https://www.fcc.gov/sites/default/files/text-to-911_-_what_you_need_to_know.pdf
+- https://www.womenslaw.org/safety-planning
+- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/
+- https://www.stalkingawareness.org/risk-and-safety/
+- https://victimconnect.org/
+- https://www.womenslaw.org/safety-planning/safety-confidential-address

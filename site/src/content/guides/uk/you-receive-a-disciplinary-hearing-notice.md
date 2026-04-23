@@ -1,79 +1,103 @@
-﻿---
+---
 title: "What to do if… you receive a disciplinary hearing notice"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - disciplinary hearing notice
-  - disciplinary meeting invite
-  - invited to a disciplinary
-  - misconduct hearing letter
-  - capability hearing notice
-  - performance disciplinary meeting
-  - hr disciplinary hearing
-  - formal disciplinary letter
-  - notice of allegations at work
-  - disciplinary meeting at work
-  - facing a disciplinary hearing
-  - right to be accompanied
-  - bring a companion to hearing
-  - union rep for disciplinary
-  - colleague companion disciplinary
-  - postpone disciplinary hearing
-  - disciplinary evidence pack
-  - written warning hearing notice
-  - dismissal hearing notice
-last_reviewed: "2026-01-07"
+  - "misconduct allegation letter"
+  - "written allegation from employer"
+  - "accused of misconduct at work"
+  - "disciplinary allegation received"
+  - "investigation letter from work"
+  - "disciplinary meeting invite"
+  - "investigatory meeting invite"
+  - "gross misconduct allegation"
+  - "complaint made about you"
+  - "hr allegation letter"
+  - "workplace accusation in writing"
+  - "asked to respond to allegation"
+  - "suspension pending investigation"
+  - "formal disciplinary process"
+  - "allegation details unclear"
+  - "worried about losing job"
+  - "employment misconduct charge"
+  - "disciplinary procedure started"
+  - "what do i do if i get a disciplinary letter"
+  - "what do i do if i am accused of misconduct"
+  - "what do i do if i am suspended from work"
+  - "what do i do if hr emails me allegations"
+  - "help i have a disciplinary meeting"
+  - "help i am being investigated at work"
+  - "help i got a misconduct letter"
+  - "help i am suspended pending investigation"
+  - "smell of burning at desk"
+  - "notice of disciplinary hearing"
+  - "right to be accompanied uk"
+  - "acas code of practice misconduct"
+  - "unclear workplace allegations"
+  - "disciplinary letter from manager"
+  - "investigation meeting at work"
+  - "misconduct charge letter"
+  - "employment rights bill 2025"
+  - "unfair dismissal day one rights"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you receive a disciplinary hearing notice (UK)
 
 ## Short answer
-Reply promptly to confirm you’ve received it, ask for the allegation(s) and evidence in writing, and arrange your companion (union official/rep or a colleague) before you say anything substantive.
+Acknowledge the letter in writing without commenting on the facts, request all evidence and the specific policy breached, and secure a trade union representative or colleague for any formal hearing.
 
 ## Do not do these things
-- Do not ignore the notice or “no-show” the hearing without explaining and requesting a new date.
-- Do not resign in a rush “to avoid a record” — that can remove protections and options.
-- Do not send a long defensive email or admit fault before you’ve seen the evidence and the procedure.
-- Do not delete messages, tidy up files, or “fix” records — that can look like misconduct even if you panicked.
-- Do not debate the case in work chats, group messages, or on social media.
-- Do not go in alone if you can reasonably bring a companion.
+- Do not resign immediately or send a defensive, emotional, or detailed reply.
+- Do not delete any emails, files, or messages, as this may be treated as additional misconduct or "destruction of evidence."
+- Do not discuss the allegations with colleagues, as these conversations can be used as witness evidence against you.
+- Do not record any meeting (audio or video) covertly, as this is often considered a gross misconduct breach of trust.
+- Do not sign any document or statement at an initial meeting if you have not had time to review it.
+- Do not assume you must answer every question immediately; you are entitled to see the evidence first.
 
 ## What to do now
-1. **Lock down the basics (in writing).** Save the notice (PDF/screenshot). Note the **date/time**, who it’s with, what outcome is being considered (warning/dismissal), and any deadline to respond.
-2. **Ask for what you need to prepare.** Reply to HR/your manager requesting:
-   - the exact allegation(s) (what, when, where)
-   - the policy/rule they say was breached
-   - copies of the evidence they rely on (including any witness statements they’re using)
-   - who will attend the hearing and what procedure will be followed  
-   Keep your reply short and neutral: you’re asking to prepare properly.
-3. **Arrange your companion (this is a legal right in disciplinary hearings).** Contact your union immediately if you have one. If not, pick a trusted colleague. Tell HR who your companion will be.
-4. **If your companion can’t attend, request a postponement promptly.** You can propose another time that’s **reasonable and within five working days** of the original date (this is the statutory postponement right). If you need longer than five working days, you can still ask — it may be reasonable depending on the circumstances, but it’s not automatic.
-5. **Build a simple timeline while it’s fresh.** On paper (or a private document), write:
-   - what happened, in order, with dates/times
-   - who was present
-   - what documents/messages exist that support your account  
-   Keep it factual. Avoid assumptions about motives.
-6. **Gather your own supporting documents safely.** Pull together emails, rotas, training records, policies you were given, relevant messages, performance reviews, and notes of prior meetings. **Do not alter anything.** Avoid taking confidential personal data (customers/patients/staff) or exporting large datasets. If you need copies of documents the employer holds, ask HR to provide them.
-7. **Ask for adjustments if you need them to participate fairly.** If disability, health, language, or neurodiversity affects how you handle meetings, request reasonable adjustments now (for example: extra time, breaks, written questions, remote attendance). If you want someone present who is not your legal “companion” (for example an interpreter or support worker), ask — employers often can allow this as an adjustment or good practice, but it’s not the same as the statutory companion right.
-8. **Keep any “this is unfair” concerns separate and calm.** If the notice has clear factual errors, missing information, or feels retaliatory, raise it briefly in writing (for example: “I dispute X and request Y evidence”). Your immediate goal is time, clarity, and a fair process.
+1. **Save a digital and physical copy of the allegation letter and any attached evidence immediately.**  
+   Ensure you have a copy stored on a personal device or in a safe physical location, as your access to work systems may be restricted without notice. If the letter refers to specific evidence you do not have, write a list of these items to request later.
+
+2. **Verify whether the proposed meeting is "investigatory" or a "disciplinary hearing."**  
+   Check the wording of the letter to see if a formal sanction (like a warning or dismissal) is a possible outcome of this specific meeting. If the letter says "disciplinary hearing" or "disciplinary meeting," your legal right to be accompanied is active.
+
+3. **Request the full "evidence pack" and the specific company policy you are alleged to have breached.**  
+   Send a written request for all witness statements, CCTV, emails, or digital logs the employer intends to rely on. State that you require a reasonable amount of time to review this material before you can provide a formal response or attend a hearing.
+
+4. **Exercise your statutory right to be accompanied if the meeting is a formal hearing.**  
+   Inform the employer in writing that you will be bringing a trade union representative or a workplace colleague. If your chosen companion cannot attend on the proposed date, you have a legal right to request a postponement of up to 5 working days.
+   - If the meeting is "investigatory," check your employee handbook, as many policies allow a companion even if the law does not strictly require it.
+
+5. **Create a factual timeline of events on a personal device.**  
+   List dates, times, people present, and what was said or done relating to the allegations. Include references to specific documents or messages (e.g., "Email sent to Manager at 14:02 on 12/05") so you can easily locate them later.
+
+6. **Submit a written request for reasonable adjustments if a health condition affects your ability to participate.**  
+   If you have a disability (including mental health conditions like acute anxiety or depression), request specific changes such as having questions in advance, taking frequent breaks, or having the meeting held at a neutral location.
+
+7. **Contact your Trade Union or Acas immediately for procedural guidance.**  
+   If you are not a union member, the Acas helpline provides free information on whether your employer is following the statutory Code of Practice. Do not wait until the day of the meeting to seek this information.
+
+8. **Ask for the specific justification if you are placed on suspension.**  
+   Request in writing the reason why suspension is necessary and why alternatives (such as working from home or moved duties) were not possible. Under 2026 guidance, suspension should only be used if there is a clear risk to the investigation, people, or the business.
 
 ## What can wait
-- You do not need to decide today whether to resign, “settle,” or make a formal legal claim.
-- You do not need a perfect statement right now — start with a timeline and questions for the hearing.
-- You do not need to plan an appeal unless and until an outcome is issued.
+- You do not need to provide your full side of the story in the first acknowledgement email.
+- You do not need to decide whether to file a counter-grievance today.
+- You do not need to decide if you will stay with the company or leave until you have seen the strength of their evidence.
+- You do not need to apologize for things you have not yet seen evidence for.
 
 ## Important reassurance
-Getting a disciplinary notice is frightening, but it does not mean the outcome is decided. A fair process includes clear allegations, time to prepare, and the ability to be accompanied — you’re allowed to slow this down and get organised.
+Receiving a formal allegation is a high-stress event, and feeling a sense of panic or shock is a standard physiological response. The process is designed to be a formal information-gathering exercise; it is not an immediate verdict. Following the procedure and staying factual protects your legal position regardless of the eventual outcome.
 
 ## Scope note
-This is first-steps-only guidance to stabilise the situation and prevent avoidable mistakes. Later decisions (appeals, grievances, settlement discussions) may need specialist advice based on your contract and facts.
+This guide provides first-step stabilization for receiving written allegations in the UK. It does not cover the specifics of defending against specialized professional conduct charges or long-term employment tribunal strategies.
 
 ## Important note
-This is general information, not legal advice. Workplace policies and contracts vary, and some roles (regulated work, safeguarding, financial services, etc.) add extra rules. If you’re unsure, keep communications brief, stay factual, and get help from your union, ACAS, or a qualified adviser.
+This guide is for general information purposes only and does not constitute legal advice. UK employment laws, particularly regarding unfair dismissal and the right to be accompanied, are subject to change under the Employment Rights Act 2025 and 2026 updates. For specific legal protection, consult a qualified solicitor, a trade union official, or Citizens Advice.
 
 ## Additional Resources
+- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-2-following-a-fair-procedure
 - https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
-- https://www.acas.org.uk/sites/default/files/2024-08/discipline-and-grievances-at-work-the-acas-guide.pdf
-- https://www.legislation.gov.uk/ukpga/1999/26/section/10
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/disciplinary-meetings-where-to-start/
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/
+- https://www.acas.org.uk/disciplinary-meeting-letter-templates
+- https://www.gov.uk/disciplinary-procedures-and-action-at-work/disciplinary-hearings
+- https://www.gov.uk/solve-workplace-dispute

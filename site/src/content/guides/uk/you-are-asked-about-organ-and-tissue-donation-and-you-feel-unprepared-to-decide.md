@@ -1,94 +1,115 @@
-﻿---
+---
 title: "What to do if… you are asked about organ and tissue donation and you feel unprepared to decide"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - asked about organ donation
-  - asked about tissue donation
-  - family asked to decide donation
-  - next of kin organ donation
-  - unprepared to decide donation
-  - overwhelmed at hospital decision
-  - end of life donation request
-  - donation consent question
-  - deemed consent confusion
-  - opt out organ donation confusion
-  - nhs organ donor register check
-  - specialist nurse organ donation
-  - donation and funeral timing worry
-  - open casket funeral concern
-  - faith or beliefs and donation
-  - cornea eye donation question
-  - organ donation after death
-  - tissue donation after death
-  - sudden bereavement decision
-  - family disagreement about donation
-last_reviewed: "2026-02-23"
+  - "asked about organ donation"
+  - "asked about tissue donation"
+  - "family asked to decide donation"
+  - "next of kin organ donation"
+  - "unprepared to decide donation"
+  - "overwhelmed at hospital decision"
+  - "end of life donation request"
+  - "donation consent question"
+  - "deemed consent confusion"
+  - "deemed authorisation scotland"
+  - "opt out organ donation confusion"
+  - "nhs organ donor register check"
+  - "specialist nurse organ donation"
+  - "snod nurse support"
+  - "donation and funeral timing worry"
+  - "open casket funeral concern"
+  - "faith or beliefs and donation"
+  - "cornea eye donation question"
+  - "organ donation after death"
+  - "tissue donation after death"
+  - "sudden bereavement decision"
+  - "family disagreement about donation"
+  - "help i am asked for consent"
+  - "help i have to decide on donation"
+  - "what do i do if they ask about organs"
+  - "what do i do if snod nurse calls"
+  - "what do i do if i dont know my loved ones wishes"
+  - "what do i do if im not ready to decide"
+  - "smell of hospital room"
+  - "beeping of monitors"
+  - "feeling of numbness"
+  - "seeing intensive care unit"
+  - "hearing donation request"
+  - "misunderstood opt out rules"
+  - "confusion over registered decision"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you are asked about organ and tissue donation and you feel unprepared to decide (UK)
 
 ## Short answer
-Ask for the specialist nurse/team handling donation, tell them you feel unprepared, and ask them to slow down and explain exactly what decision is needed *now* versus what can wait.
+Ask to speak with a Specialist Nurse for Organ Donation (SNOD), inform them you feel unprepared, and request a clear explanation of what must be decided immediately versus what can wait.
 
 ## Do not do these things
-- Don’t agree “just to get it over with” if you don’t understand what you’re agreeing to (organs vs tissue, which parts, and any limits).
-- Don’t feel pressured to decide before you’ve checked whether your loved one recorded a decision (or clearly expressed views).
-- Don’t assume donation will automatically derail viewing or funeral plans; it is generally still possible to view them afterwards, but you should ask what applies in *this* case.
-- Don’t let a family argument become the decision; focus on what your loved one would have wanted.
-- Don’t sign anything you haven’t read or that you’re too distressed to process—ask for a pause and a clear summary.
+- Don’t agree to the request immediately just to end the conversation if you do not understand the specifics of what is being asked.
+- Don’t assume the "opt-out" or "deemed consent" system means you have no say; your knowledge of your loved one's wishes is essential to the process.
+- Don’t ignore your concerns about funeral traditions, viewing the body, or faith requirements; these are valid questions that the specialist team must address.
+- Don’t feel forced to resolve a family dispute on the spot; the focus is legally on what the deceased person would have wanted.
+- Don’t sign any paperwork while you are too distressed to read it; you are entitled to ask for a summary and a pause.
 
 ## What to do now
-1. **Ask for the right person and a calmer moment.**  
-   Say: “I’m not ready to decide yet. Please can the Specialist Nurse for Organ Donation (or the donation team) speak with us, and can we have a few minutes to take this in first?”
+1. **Request the presence of a Specialist Nurse for Organ Donation (SNOD) or a Specialist Requester.**  
+   These staff members are specifically trained to support families and explain the clinical and legal details of donation, rather than the general medical staff who may have initially mentioned it.
 
-2. **Ask what rules/process apply *where you are in the UK*.**  
-   UK organ donation consent systems differ across the UK nations. Ask the nurse to explain which system applies *here*, and what role the family has in practice.
+2. **Ask which specific consent system applies based on where you are in the UK.**  
+   While most of the UK uses an "opt-out" system, the specific terminology and family role can vary.
+   - In England, Wales, and Northern Ireland, the term is "deemed consent."
+   - In Scotland, the term is "deemed authorisation."
+   - Ask the nurse to explain if any "excluded groups" apply (e.g., if the person was under 18/16, had lived in that UK nation for less than 12 months, or lacked mental capacity to understand the law for a year before death).
 
-3. **Check for any recorded decision or clear prior wishes.**  
-   Ask the team to check whether your loved one recorded a decision on the NHS Organ Donor Register (including any limits, or a recorded “no”).  
-   If nothing is recorded, tell the nurse anything you know (previous conversations, written notes, long-held beliefs). If family members strongly disagree, ask the nurse what information they need from you and how they handle objections in practice.
+3. **Request a search of the NHS Organ Donor Register for any recorded decisions.**  
+   The SNOD can check if your loved one recorded a "Yes" or "No" decision, or if they appointed a specific "Nominated Representative" to make the choice for them.
+   - If a decision is recorded, this is usually the final word, but the nurse will still discuss how to honour it with you.
+   - If no decision is recorded, the law "deems" they would have consented unless you provide evidence otherwise.
 
-4. **Reduce the decision to a few clear choices.**  
-   Ask the nurse to write down (or repeat slowly) the options in plain language, for example:  
-   - “Organs and tissue” vs “tissue only” (or “eyes/corneas only”)  
-   - Any limits (what you are/aren’t comfortable with)  
-   - Whether donation is even medically possible in this situation (sometimes it isn’t)
+4. **Ask for a simplified list of the choices you are being asked to make.**  
+   Request that the nurse separates the options into clear, distinct points.
+   - Organ donation (e.g., heart, lungs, kidneys).
+   - Tissue donation (e.g., cornea/eyes, skin, bone, heart valves).
+   - Any specific exclusions you know your loved one would have wanted.
 
-5. **Ask the practical “will this change today?” questions.**  
-   Ask directly about:  
-   - Whether this will affect the timing of saying goodbye  
-   - Whether viewing (including open-casket plans) is still possible  
-   - Whether there are faith/cultural washing, dressing, or handling wishes they can accommodate
+5. **Ask how donation will specifically affect your immediate plans for the body.**  
+   Get concrete answers to practical questions to reduce your uncertainty.
+   - Will this delay the funeral or the release of the body to the funeral director?
+   - Is an open-casket viewing still possible? (In almost all cases, it is).
+   - Can specific faith-based handling or washing requirements be met?
 
-6. **If the death is being investigated, ask about the coroner early.**  
-   Say: “Is the coroner involved or do you need to notify the coroner? Does that affect whether donation can go ahead or how quickly we need to decide?”
+6. **Determine if the Coroner (or Procurator Fiscal in Scotland) is involved in the death.**  
+   If the death was sudden or accidental, the Coroner must give permission for donation to proceed.
+   - Ask: "Has the Coroner been notified, and have they raised any objections to donation?"
 
-7. **If you still feel unprepared, request a short, structured pause.**  
-   Say: “I need a short pause to think clearly and make one call. What time constraints do you have, and what happens if we can’t decide right away?”  
-   If there truly isn’t time, ask them to explain why, and what the default outcome is if you say “not right now”.
+7. **Request a structured time window for a pause.**  
+   Ask the SNOD how much time is available before a decision must be made for donation to remain medically viable.
+   - Use this time to step away from the clinical environment or speak with a trusted family member or faith leader.
 
-8. **If the family is split, anchor to your loved one’s values.**  
-   Ask: “If they were sitting here, what would they say?”  
-   Then share any known values (helping others, religious stance, fear of bodily procedures, desire for a certain kind of farewell) and ask the nurse to help you translate that into a decision.
+8. **Anchor the decision to the deceased person's known values.**  
+   If you are unsure of their specific views on donation, ask yourself what they valued in life.
+   - Did they believe in helping others?
+   - Did they express views on medical procedures?
+   - Share these values with the SNOD, who can help you interpret how they apply to this situation.
 
 ## What can wait
-- You do not need to decide anything about funerals, death registration, wills, or notifications *as part of this donation conversation*.
-- You do not need to decide how you feel about donation in general—only what aligns with your loved one’s wishes and what you can live with today.
-- You do not need to contact recipients or think about follow-up support right now.
+- You do not need to decide on a funeral director or burial versus cremation right now.
+- You do not need to notify the wider family or friends about the donation decision while it is being made.
+- You do not need to worry about the legal paperwork for death registration yet; the hospital and SNOD will guide you on the sequence of events.
 
 ## Important reassurance
-Feeling unprepared is extremely common. Being asked about donation can land like a second shock on top of the first. Asking for time, asking “basic” questions, or saying you need things repeated does not make you difficult—it makes you careful.
+It is normal to feel overwhelmed, confused, or even defensive when asked about donation during a crisis. These feelings do not mean you are doing anything wrong. The specialist nurses are accustomed to supporting people in shock and expect you to have questions or need time to process the information.
 
 ## Scope note
-This is first steps only: slowing things down, finding any recorded decision, and making the smallest necessary choice without panic. Later questions (bereavement support, paperwork, faith needs, family conflict) can be handled after the immediate decision window.
+This guide provides first-step stabilization for the immediate donation conversation only. It does not cover the clinical retrieval process, long-term bereavement support, or the specific legalities of the Human Tissue Act beyond the initial decision window.
 
 ## Important note
-This is general information, not legal or medical advice. Donation decisions depend on the circumstances of the death, medical suitability, and which UK nation’s rules apply. Hospital staff and the specialist donation team can explain what applies in your situation and what options are available.
+This information is for guidance only and does not constitute legal or medical advice. Organ donation laws and clinical practices are subject to change. Always consult with the Specialist Nurse for Organ Donation (SNOD) at the hospital to understand the specific rules and medical suitability applicable to your situation.
 
 ## Additional Resources
+- https://www.organdonation.nhs.uk/about-organ-donation/get-the-facts/
+- https://www.organdonation.nhs.uk/register-your-decision/
+- https://www.organdonation.nhs.uk/about-organ-donation/talk-to-your-loved-ones/
 - https://www.organdonation.nhs.uk/about-organ-donation/consent/
 - https://www.organdonation.nhs.uk/uk-laws/
-- https://www.odt.nhs.uk/odt-structures-and-standards/organ-donation-retrieval-and-transplantation-teams/role-of-specialist-nurse/
-- https://www.organdonation.nhs.uk/about-organ-donation/get-the-facts/
-- https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-26-organ-donation/

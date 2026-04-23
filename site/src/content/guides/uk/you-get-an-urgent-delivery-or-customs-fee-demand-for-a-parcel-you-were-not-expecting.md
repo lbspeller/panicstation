@@ -1,90 +1,108 @@
-﻿---
+---
 title: "What to do if… you get an urgent delivery or customs fee demand for a parcel you were not expecting"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - unexpected customs fee demand
-  - urgent delivery fee text
-  - parcel fee scam message
-  - missed delivery payment request
-  - unpaid postage fee notice
-  - parcel stuck in customs claim
-  - courier payment link text
-  - fake delivery notification
-  - smishing parcel message
-  - phishing delivery email
-  - unknown tracking number alert
-  - pay to release package
-  - delivery fee card scam
-  - unexpected import duty demand
-  - suspicious parcel invoice
-  - redelivery fee request
-  - fake courier website link
-  - parcel you did not order
-last_reviewed: "2026-01-10"
+  - "unexpected customs fee demand"
+  - "urgent delivery fee text"
+  - "parcel fee scam message"
+  - "missed delivery payment request"
+  - "unpaid postage fee notice"
+  - "parcel stuck in customs claim"
+  - "courier payment link text"
+  - "fake delivery notification"
+  - "smishing parcel message"
+  - "phishing delivery email"
+  - "unknown tracking number alert"
+  - "pay to release package"
+  - "delivery fee card scam"
+  - "unexpected import duty demand"
+  - "suspicious parcel invoice"
+  - "redelivery fee request"
+  - "fake courier website link"
+  - "parcel you did not order"
+  - "urgent delivery demand"
+  - "customs fee text message"
+  - "help i got a fake delivery text"
+  - "help i clicked a parcel scam link"
+  - "what do i do if i get a fake customs email"
+  - "what do i do if a courier asks for money"
+  - "my tracking number is not working"
+  - "my parcel is held in customs scam"
+  - "what to do if you get an urgent delivery demand"
+  - "customs fee demand help"
+  - "unexpected parcel fee advice"
+  - "courier fee payment scam"
+  - "royal mail fee to pay card scam"
+  - "fake hmrc customs fee"
+  - "shipping fee demand text"
+  - "unpaid delivery fee notification"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you get an urgent delivery or customs fee demand for a parcel you were not expecting (UK)
 
 ## Short answer
-Treat it as a scam until you independently confirm there’s a real parcel and a real fee using official routes you find yourself (not the message).
+Assume the message is fraudulent and do not interact with its links or contact details; verify the claim independently through the courier's official website or app.
 
 ## Do not do these things
-- Don’t click the link, scan the QR code, or download an “app” from the message.
-- Don’t call a phone number shown in the message or reply to it if it looks suspicious.
-- Don’t enter card details, bank details, or personal info (address, date of birth, passwords) to “release” a parcel.
-- Don’t feel pressured by countdowns, threats of return/destruction, or “final notice” wording.
-- Don’t pay by bank transfer, crypto, gift cards, or “payment vouchers” for a delivery fee.
+- Don't click links, scan QR codes, or download any attachments or apps mentioned in the message.
+- Don't use phone numbers or email addresses provided in the suspicious message to contact the company.
+- Don't enter payment card details, bank information, or personal identity data on any site reached via the message.
+- Don't allow "urgent" or "final notice" language to pressure you into immediate payment.
+- Don't pay any requested fees using cryptocurrency, gift cards, bank transfers, or payment vouchers.
 
 ## What to do now
-1. **Pause and capture evidence (without interacting).**  
-   Screenshot it. Note the date/time, the sender address/number, the amount requested, and any tracking/reference number shown.
+1. **Preserve a record of the message without clicking any part of it.** 
+   - Take a screenshot of the message or email.
+   - Note the sender's number or email address and any reference numbers provided.
 
-2. **Check whether a parcel is even plausible.**  
-   Look at recent order confirmations/dispatch emails from retailers you recognise, and ask anyone you live with if they’re expecting a delivery to your address.
+2. **Verify the existence of a parcel using a trusted independent route.** 
+   - Open a new browser window and type the courier’s official web address yourself.
+   - Use the official "Track a Parcel" tool on that site to enter the tracking number from the message.
+   - If the tracking number is not recognized or the location details do not match your area, it is a scam.
 
-3. **Verify any tracking number independently (not via the message).**  
-   Type the courier’s official website into your browser yourself and use their tracking tool.  
-   - If the tracking number doesn’t work on the official site, or the details don’t match what you know (retailer, delivery area), treat it as a scam.
+3. **Check your own records for legitimate pending deliveries.** 
+   - Search your inbox for "order confirmation" or "dispatch" emails from retailers you use.
+   - Confirm with other members of your household if they have ordered a parcel to your address.
 
-4. **If it claims a “fee to pay” or customs charge (Royal Mail/Parcelforce/courier): only pay via an official route you reached yourself.**  
-   If you can match the tracking/reference to a genuine retailer/sender, pay only on the courier’s official site or official app (downloaded from the legitimate app store), not via a link in the message.
+4. **Contact the courier service directly using verified contact information.** 
+   - Look up the courier's official customer service number on their primary website.
+   - Ask them to verify if a fee is genuinely outstanding for your address or tracking number.
 
-5. **If you’re still unsure, contact the courier using official contact details you look up yourself.**  
-   Ask them to confirm whether (a) a parcel exists and (b) any fee is due on that tracking/reference. If they can’t confirm, do not pay.
+5. **Secure your financial accounts if you have already shared data.** 
+   - **If you entered card or bank details:** Call your bank immediately using the number on the back of your card or the official app to report a potential scam and freeze your account.
+   - **If you shared a password:** Change that password immediately on the affected site and any other accounts where the same password was used.
+   - **Enable two-factor authentication (2FA):** Activate 2FA on your primary email and financial accounts to prevent unauthorized access.
 
-6. **If you clicked a link or entered details, act fast to limit damage.**
-   - **If you paid or shared bank/card details:** call your bank/card provider immediately (use the number on the back of your card or in your banking app). Tell them it may be a scam payment and ask what they can do to stop/recall it and protect your account (including cancelling the card if needed).
-   - **If you entered a password:** change it immediately (and anywhere else you reused it) and turn on two-factor authentication where you can.
+6. **Report the fraudulent communication to the relevant UK authorities.** 
+   - **Suspicious texts:** Forward the message to **7726** (free of charge).
+   - **Suspicious emails:** Forward the email to **report@phishing.gov.uk**.
+   - **Claimed Royal Mail scams:** Send a screenshot to **reportascam@royalmail.com**.
+   - **Claimed HMRC scams:** Forward texts to **60599** (network rates apply) or email **phishing@hmrc.gov.uk**.
+   - **If money was lost (England, Wales, NI):** Report to **Report Fraud** at **0300 123 2040** or via their official website.
+   - **If money was lost (Scotland):** Report directly to **Police Scotland** by calling **101**.
 
-7. **Report it (this helps block future messages).**
-   - **Suspicious texts (general):** forward to **7726** (free) to report to your mobile provider.
-   - **Suspicious emails (general):** forward to **report@phishing.gov.uk**.
-   - **If it claims to be Royal Mail:** report it to **reportascam@royalmail.com** (for texts, send a screenshot; for emails, forward the email without clicking anything).
-   - **If it claims to be HMRC:** forward suspicious texts to **60599** (your network rate may apply) or email **phishing@hmrc.gov.uk**.
-   - **If you lost money or shared details:** report to **Action Fraud / Report Fraud**.
-
-8. **If an unexpected parcel turns up anyway, don’t let that “prove” the message was real.**  
-   You can often refuse delivery if you’re unsure it’s for you. If you accept it, keep the packaging/labels, and ignore any “pay now” link inside—verify any fees via official courier routes.
+7. **Ignore or refuse any unexpected physical deliveries that require payment at the door.** 
+   - If a courier arrives asking for cash payment for a parcel you do not recognize, you can refuse the delivery.
+   - Real Royal Mail surcharges are usually handled via a grey "Fee to Pay" card left at your property, not a doorstep cash demand.
 
 ## What can wait
-- You do not need to decide today whether to pursue the matter beyond making a basic scam report.
-- You do not need to “prove” anything to the sender of the message. Don’t engage.
-- You do not need to work out how they got your number right now—focus first on stopping loss and securing accounts.
+- You do not need to identify how the sender obtained your contact details right now.
+- You do not need to respond to the sender to "cancel" the delivery or "opt-out" of messages.
+- You do not need to decide on long-term identity theft protection services today unless your bank specifically advises it.
 
 ## Important reassurance
-These “delivery fee/customs fee” demands are extremely common and designed to trigger fast payment. Taking a few minutes to verify through official channels is the safest move and often prevents any loss.
+These messages are sent in bulk to thousands of people simultaneously and are not usually evidence that your specific accounts have been hacked. Taking a moment to verify the details independently is a standard safety procedure that prevents the majority of fraud losses.
 
 ## Scope note
-This is first-steps-only guidance to prevent immediate financial harm. If money has left your account or you shared identity details, you may want follow-up support from your bank and specialist fraud support.
+This guidance is for first-step stabilization only. If you have lost significant funds or believe your full identity has been compromised, you may require specific legal or financial advice from your bank and victim support services.
 
 ## Important note
-This is general information, not legal or financial advice. If you think you’re at risk of immediate financial loss, prioritise contacting your bank/card provider using official contact details.
+This guide provides general procedural information and does not constitute financial or legal advice. If you are in the middle of a live financial theft, your priority must be contacting your bank's fraud department immediately.
 
 ## Additional Resources
-- https://www.gov.uk/report-suspicious-emails-websites-phishing
-- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
-- https://www.royalmail.com/help/scam-protection
-- https://www.actionfraud.org.uk/royal-mail-scams/
-- https://www.gov.uk/find-hmrc-contacts/report-suspicious-hmrc-emails-texts-social-media-accounts-and-phone-calls
+- https://www.royalmail.com/help/scam-examples
+- https://help.royalmail.com/personal/s/article/Help-with-paying-a-fee-to-receive-my-item
+- https://www.ncsc.gov.uk/guidance/scam-missed-parcel-sms-messages
 - https://www.gov.uk/guidance/check-if-a-text-message-youve-received-from-hmrc-is-genuine
+- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/

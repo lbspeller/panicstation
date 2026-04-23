@@ -4,13 +4,14 @@ import UkFlagUrl from "../assets/flags/uk.svg?url";
 import UsFlagUrl from "../assets/flags/us.svg?url";
 
 // import HTML bodies for footer info cards
-import AboutHtml from "../content/site/about.html?raw";
-import DisclaimerHtml from "../content/site/disclaimer.html?raw";
-import PrivacyHtml from "../content/site/privacy.html?raw";
+import AboutHtml from "../site/about.html?raw";
+import DisclaimerHtml from "../site/disclaimer.html?raw";
+import PrivacyHtml from "../site/privacy.html?raw";
+
 
 const { title, jurisdiction } = Astro.props;
 
-const path = Astro.url.pathname;              // "/" or "/uk/..." or "/us/..."
+const path = Astro.url.pathname;
 const isGuide = /^\/(uk|us)\//i.test(path);
 const isHome = path === "/";
 
@@ -34,14 +35,12 @@ const isUsActive = jurisdiction === "us";
     <link rel="icon" href="/favicon.ico" />
     <link rel="manifest" href="/site.webmanifest" />
 
-    <!-- Font Awesome -->
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
       referrerpolicy="no-referrer"
     />
 
-    <!-- Google AdSense (publisher ID) -->
     <meta name="google-adsense-account" content="ca-pub-6393180948620179" />
   </head>
 
@@ -91,13 +90,15 @@ const isUsActive = jurisdiction === "us";
             />
 
             <div class="ps-search-icons" aria-label="Search controls">
-              <!-- Custom clear button (replaces native search X) -->
               <button id="ps-clear-btn" class="ps-icon-btn ps-clear-btn" type="button" aria-label="Clear search" hidden>
                 <i class="fa-solid fa-xmark" aria-hidden="true"></i>
               </button>
 
               <button id="ps-filter-btn" class="ps-icon-btn" type="button" aria-label="Filter by category">
-                <i class="fa-solid fa-filter" aria-hidden="true"></i>
+                <span class="ps-filter-icon-wrap">
+                  <i class="fa-solid fa-filter" aria-hidden="true"></i>
+                  <span id="ps-filter-badge" class="ps-filter-badge" hidden>0</span>
+                </span>
               </button>
 
               <button id="ps-search-btn" class="ps-icon-btn" type="button" aria-label="Search">
@@ -112,17 +113,15 @@ const isUsActive = jurisdiction === "us";
         </div>
 
         <div id="ps-filter-box" class="ps-filter-box" hidden>
-          <div class="ps-filter-box-inner" role="listbox" aria-label="Category filter"></div>
+          <div class="ps-filter-box-inner" role="group" aria-label="Category filters"></div>
         </div>
 
-        <!-- Home-only hint line (visibility controlled by JS) -->
         <div id="ps-search-hint" class="ps-search-hint" hidden>
           <i class="fa-solid fa-lightbulb" aria-hidden="true"></i>
           <span>Start typing to search for a guide. Use the filter button to narrow results by category</span>
         </div>
       </div>
 
-      <!-- Expose server-imported HTML bodies to the browser -->
       <script is:inline define:vars={{ AboutHtml, DisclaimerHtml, PrivacyHtml }}>
         window.__PS_INFO_BODIES__ = {
           about: { body: AboutHtml },
@@ -131,7 +130,6 @@ const isUsActive = jurisdiction === "us";
         };
       </script>
 
-      <!-- Info card area (About / Disclaimer / Privacy) -->
       <section id="ps-info-wrap" class="ps-info-wrap" hidden aria-live="polite">
         <div class="ps-info-card ps-card ps-generic" role="region" aria-label="Site information">
           <div class="ps-info-head">
@@ -151,7 +149,6 @@ const isUsActive = jurisdiction === "us";
     </header>
 
     <main class="ps-shell">
-      <!-- Home-only “full results” panel (filled by JS when search button or Enter is used) -->
       <section id="ps-home-results" class="ps-home-results" hidden>
         <div class="ps-home-results-inner">
           <div class="ps-home-results-head">
@@ -181,7 +178,7 @@ const isUsActive = jurisdiction === "us";
 
     <script is:inline>
       (() => {
-        const pageType = document.body.getAttribute("data-ps-page"); // home | guide | other
+        const pageType = document.body.getAttribute("data-ps-page");
         const toggle = document.querySelector(".ps-toggle");
         if (!toggle) return;
 
@@ -250,14 +247,13 @@ const isUsActive = jurisdiction === "us";
       })();
     </script>
 
-    <!-- Clicking the brand clears search + filters (keeps country) -->
     <script is:inline>
       (() => {
         const homeLink = document.getElementById("ps-home-link");
         if (!homeLink) return;
 
         homeLink.addEventListener("click", () => {
-          localStorage.removeItem("ps_category");
+          localStorage.removeItem("ps_categories");
           sessionStorage.removeItem("ps_show_results");
           sessionStorage.removeItem("ps_results_query");
         });
@@ -272,18 +268,17 @@ const isUsActive = jurisdiction === "us";
       const inner = box?.querySelector(".ps-search-results-inner");
 
       const filterBtn = document.getElementById("ps-filter-btn");
+      const filterBadge = document.getElementById("ps-filter-badge");
       const filterBox = document.getElementById("ps-filter-box");
       const filterInner = filterBox?.querySelector(".ps-filter-box-inner");
 
       const hint = document.getElementById("ps-search-hint");
 
-      // Home “full results” elements
       const homePanel = document.getElementById("ps-home-results");
       const homeTitle = document.getElementById("ps-home-results-title");
       const homeList = document.getElementById("ps-home-results-list");
       const homeClear = document.getElementById("ps-home-results-clear");
 
-      // Info panel elements
       const infoWrap = document.getElementById("ps-info-wrap");
       const infoTitle = document.getElementById("ps-info-title");
       const infoBody = document.getElementById("ps-info-body");
@@ -291,18 +286,15 @@ const isUsActive = jurisdiction === "us";
       const infoCloseTop = document.getElementById("ps-info-close-top");
       const infoButtons = Array.from(document.querySelectorAll("button.ps-footer-link[data-ps-info]"));
 
-      const pageType = document.body.getAttribute("data-ps-page"); // home | guide | other
+      const pageType = document.body.getAttribute("data-ps-page");
 
       if (!input || !searchBtn || !box || !inner || !filterBtn || !filterBox || !filterInner) {
-        // missing UI
       } else {
-        // Close on-screen keyboard on mobile and stop caret blinking
         function dismissKeyboard() {
           input.blur();
           window.getSelection?.()?.removeAllRanges?.();
         }
 
-        // Custom clear button visibility (ONLY show when there is non-whitespace text)
         function updateClearVisibility() {
           if (!clearBtn) return;
           const hasText = (input.value || "").trim().length > 0;
@@ -335,17 +327,17 @@ const isUsActive = jurisdiction === "us";
           String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
         const CATEGORIES = [
-          { key: "bereavement", label: "Bereavement & Family Crises",            icon: "fa-heart-crack" },
-          { key: "legal",       label: "Legal, Police & Official Matters",      icon: "fa-scale-balanced" },
-          { key: "sexual",      label: "Sexual Violence & Sensitive Issues",    icon: "fa-hand" },
-          { key: "travel",      label: "Travel, Documents & Abroad",            icon: "fa-passport" },
-          { key: "health",      label: "Health & Medical Scares",               icon: "fa-kit-medical" },
-          { key: "money",       label: "Money & Financial Emergencies",         icon: "fa-sterling-sign" },
-          { key: "tech",        label: "Tech & Digital Loss",                   icon: "fa-lock" },
-          { key: "work",        label: "Work & Employment Crises",              icon: "fa-briefcase" },
-          { key: "home",        label: "Home & Property Emergencies",           icon: "fa-house-circle-exclamation" },
-          { key: "safety",      label: "Personal Safety & Immediate Danger",    icon: "fa-shield-halved" },
-          { key: "transport",   label: "Transport & Mobility Issues",           icon: "fa-car-burst" },
+          { key: "bereavement", label: "Bereavement & Family Crises",        icon: "fa-heart-crack" },
+          { key: "legal",       label: "Legal, Police & Official Matters",   icon: "fa-scale-balanced" },
+          { key: "sexual",      label: "Sexual Violence & Sensitive Issues", icon: "fa-hand" },
+          { key: "travel",      label: "Travel, Documents & Abroad",         icon: "fa-passport" },
+          { key: "health",      label: "Health & Medical Scares",            icon: "fa-kit-medical" },
+          { key: "money",       label: "Money & Financial Emergencies",      icon: "fa-sterling-sign" },
+          { key: "tech",        label: "Tech & Digital Loss",                icon: "fa-lock" },
+          { key: "work",        label: "Work & Employment Crises",           icon: "fa-briefcase" },
+          { key: "home",        label: "Home & Property Emergencies",        icon: "fa-house-circle-exclamation" },
+          { key: "safety",      label: "Personal Safety & Immediate Danger", icon: "fa-shield-halved" },
+          { key: "transport",   label: "Transport & Mobility Issues",        icon: "fa-car-burst" },
         ];
 
         const CATEGORY_FULL = {
@@ -371,7 +363,28 @@ const isUsActive = jurisdiction === "us";
           return m;
         })();
 
-        let selectedCategoryKey = null;
+        let selectedCategoryKeys = [];
+        let draftCategoryKeys = [];
+
+        function arraysEqual(a, b) {
+          if (a.length !== b.length) return false;
+          return a.every((v, i) => v === b[i]);
+        }
+
+        function sortCategoryKeys(keys) {
+          const order = new Map(CATEGORIES.map((c, i) => [c.key, i]));
+          return [...keys].sort((a, b) => (order.get(a) ?? 999) - (order.get(b) ?? 999));
+        }
+
+        function updateFilterButtonState() {
+          const count = selectedCategoryKeys.length;
+          filterBtn.classList.toggle("ps-filter-active", count > 0);
+
+          if (filterBadge) {
+            filterBadge.hidden = count === 0;
+            filterBadge.textContent = String(count);
+          }
+        }
 
         function updateHintVisibility() {
           if (!hint) return;
@@ -382,7 +395,7 @@ const isUsActive = jurisdiction === "us";
           }
 
           const hasText = norm(input.value).length > 0;
-          const hasCategory = !!selectedCategoryKey;
+          const hasCategory = selectedCategoryKeys.length > 0;
 
           const suggestionsShowing = box && !box.hidden;
           const filtersShowing = filterBox && !filterBox.hidden;
@@ -491,53 +504,28 @@ const isUsActive = jurisdiction === "us";
           updateHintVisibility();
         };
 
-        function setFilterIconDefault() {
-          filterBtn.innerHTML = `<i class="fa-solid fa-filter" aria-hidden="true"></i>`;
-        }
-
-        function setFilterIconToCategory(cat) {
-          filterBtn.innerHTML = `<i class="fa-solid ${cat.icon}" aria-hidden="true"></i>`;
-        }
-
         function persistCategorySelection() {
-          if (selectedCategoryKey) localStorage.setItem("ps_category", selectedCategoryKey);
-          else localStorage.removeItem("ps_category");
+          if (selectedCategoryKeys.length) localStorage.setItem("ps_categories", JSON.stringify(selectedCategoryKeys));
+          else localStorage.removeItem("ps_categories");
         }
 
         function restoreCategorySelection() {
-          const saved = localStorage.getItem("ps_category");
-          if (!saved) return;
-          const cat = CATEGORIES.find((x) => x.key === saved);
-          if (!cat) return;
-          selectedCategoryKey = saved;
-          setFilterIconToCategory(cat);
-          updateHintVisibility();
-        }
+          const raw = localStorage.getItem("ps_categories");
+          if (!raw) return;
 
-        filterInner.addEventListener("click", (e) => {
-          const btn = e.target.closest("button.ps-cat-pill");
-          if (!btn) return;
+          try {
+            const parsed = JSON.parse(raw);
+            if (!Array.isArray(parsed)) return;
 
-          const key = btn.dataset.key;
-          const cat = CATEGORIES.find((x) => x.key === key);
-          if (!cat) return;
-
-          if (selectedCategoryKey === key) {
-            selectedCategoryKey = null;
-            setFilterIconDefault();
-          } else {
-            selectedCategoryKey = key;
-            setFilterIconToCategory(cat);
+            const valid = parsed.filter((key) => CATEGORIES.some((x) => x.key === key));
+            selectedCategoryKeys = sortCategoryKeys(valid);
+          } catch {
+            selectedCategoryKeys = [];
           }
 
-          persistCategorySelection();
-          closeFilterBox();
-
-          if (!box.hidden) doSuggestSearch();
-          if (isHomeResultsMode()) runHomeResultsSearch();
-
+          updateFilterButtonState();
           updateHintVisibility();
-        });
+        }
 
         function renderCategoryBox() {
           filterInner.innerHTML = "";
@@ -547,10 +535,11 @@ const isUsActive = jurisdiction === "us";
             const b = document.createElement("button");
             b.type = "button";
             b.className = "ps-cat-pill";
-            b.setAttribute("role", "option");
+            b.setAttribute("role", "checkbox");
+            b.setAttribute("aria-checked", draftCategoryKeys.includes(c.key) ? "true" : "false");
             b.dataset.key = c.key;
 
-            if (selectedCategoryKey === c.key) b.classList.add("ps-selected");
+            if (draftCategoryKeys.includes(c.key)) b.classList.add("ps-selected");
 
             b.innerHTML = `
               <span class="ps-cat-left" aria-hidden="true">
@@ -563,12 +552,21 @@ const isUsActive = jurisdiction === "us";
             frag.appendChild(b);
           }
 
+          const actions = document.createElement("div");
+          actions.className = "ps-filter-actions";
+          actions.innerHTML = `
+            <button type="button" class="ps-filter-action-btn ps-filter-action-clear">Clear all</button>
+            <button type="button" class="ps-filter-action-btn ps-filter-action-apply">Apply filters</button>
+          `;
+          frag.appendChild(actions);
+
           filterInner.appendChild(frag);
         }
 
         function openFilterBox() {
           closeInfo();
           hideSearchResults();
+          draftCategoryKeys = [...selectedCategoryKeys];
           renderCategoryBox();
           showFilter();
           updateHintVisibility();
@@ -578,10 +576,68 @@ const isUsActive = jurisdiction === "us";
           hideFilter();
         }
 
-        filterBtn.addEventListener("click", () => {
+        function toggleDraftCategory(key) {
+          if (!key) return;
+
+          if (draftCategoryKeys.includes(key)) {
+            draftCategoryKeys = draftCategoryKeys.filter((k) => k !== key);
+          } else {
+            draftCategoryKeys = sortCategoryKeys([...draftCategoryKeys, key]);
+          }
+
+          renderCategoryBox();
+        }
+
+        function applyDraftCategories({ close = true } = {}) {
+          const nextKeys = sortCategoryKeys(draftCategoryKeys);
+          const changed = !arraysEqual(selectedCategoryKeys, nextKeys);
+
+          selectedCategoryKeys = nextKeys;
+          persistCategorySelection();
+          updateFilterButtonState();
+
+          if (close) closeFilterBox();
+
+          if (changed) {
+            if (!box.hidden) doSuggestSearch();
+            if (isHomeResultsMode()) runHomeResultsSearch();
+          }
+
+          updateHintVisibility();
+        }
+
+        filterInner.addEventListener("click", (e) => {
+          e.stopPropagation();
+
+          const categoryBtn = e.target.closest("button.ps-cat-pill");
+          if (categoryBtn) {
+            toggleDraftCategory(categoryBtn.dataset.key);
+            return;
+          }
+
+          const clearAllBtn = e.target.closest("button.ps-filter-action-clear");
+          if (clearAllBtn) {
+            draftCategoryKeys = [];
+            applyDraftCategories({ close: true });
+            return;
+          }
+
+          const applyBtn = e.target.closest("button.ps-filter-action-apply");
+          if (applyBtn) {
+            applyDraftCategories({ close: true });
+          }
+        });
+
+        filterBtn.addEventListener("click", (e) => {
+          e.stopPropagation();
           closeInfo();
-          if (!filterBox.hidden) closeFilterBox();
-          else openFilterBox();
+
+          if (!filterBox.hidden) {
+            closeFilterBox();
+          } else {
+            openFilterBox();
+          }
+
           updateHintVisibility();
         });
 
@@ -719,9 +775,12 @@ const isUsActive = jurisdiction === "us";
           const pagefind = await ensurePagefind();
 
           const filters = { jurisdiction: preferredJur };
-          if (selectedCategoryKey) {
-            const full = CATEGORY_FULL[selectedCategoryKey];
-            if (full) filters.category = full;
+          if (selectedCategoryKeys.length) {
+            filters.category = {
+              any: selectedCategoryKeys
+                .map((key) => CATEGORY_FULL[key])
+                .filter(Boolean)
+            };
           }
 
           const search = await pagefind.search(q, { filters });
@@ -750,9 +809,12 @@ const isUsActive = jurisdiction === "us";
 
         function buildFiltersForSearch() {
           const filters = { jurisdiction: preferredJur };
-          if (selectedCategoryKey) {
-            const full = CATEGORY_FULL[selectedCategoryKey];
-            if (full) filters.category = full;
+          if (selectedCategoryKeys.length) {
+            filters.category = {
+              any: selectedCategoryKeys
+                .map((key) => CATEGORY_FULL[key])
+                .filter(Boolean)
+            };
           }
           return filters;
         }
@@ -769,8 +831,13 @@ const isUsActive = jurisdiction === "us";
           homeList.innerHTML = "";
 
           const qLabel = (rawQuery || "").trim();
-          const filtersLabel = selectedCategoryKey
-            ? ` • ${escapeHtml(CATEGORIES.find(c => c.key === selectedCategoryKey)?.label || "Filtered")}`
+          const filtersLabel = selectedCategoryKeys.length
+            ? ` • ${escapeHtml(
+                selectedCategoryKeys
+                  .map((key) => CATEGORIES.find((c) => c.key === key)?.label)
+                  .filter(Boolean)
+                  .join(", ")
+              )}`
             : "";
 
           homeTitle.innerHTML = qLabel
@@ -933,27 +1000,30 @@ const isUsActive = jurisdiction === "us";
 
         document.addEventListener("click", (e) => {
           const clickedSearch =
-            box.contains(e.target) ||
-            e.target === input ||
-            e.target === searchBtn ||
-            (searchBtn && searchBtn.contains(e.target)) ||
-            e.target === clearBtn ||
-            (clearBtn && clearBtn.contains(e.target));
+            e.target.closest("#ps-search-results") ||
+            e.target.closest("#ps-search") ||
+            e.target.closest("#ps-search-btn") ||
+            e.target.closest("#ps-clear-btn");
 
           const clickedFilter =
-            filterBox.contains(e.target) ||
-            (filterBtn && filterBtn.contains(e.target));
-
-          const clickedInfo =
-            (infoWrap && infoWrap.contains(e.target)) ||
-            (e.target.closest && e.target.closest("button.ps-footer-link"));
+            e.target.closest("#ps-filter-box") ||
+            e.target.closest("#ps-filter-btn");
 
           if (!clickedSearch) hideSearchResults();
-          if (!clickedFilter) hideFilter();
+
+          if (!clickedFilter) {
+            if (!filterBox.hidden) {
+              applyDraftCategories({ close: true });
+            } else {
+              hideFilter();
+            }
+          }
+
           updateHintVisibility();
           updateClearVisibility();
         });
 
+        updateFilterButtonState();
         updateHintVisibility();
         updateClearVisibility();
       }
@@ -987,14 +1057,12 @@ const isUsActive = jurisdiction === "us";
     --ps-logo-red: #d24b4b;
   }
 
-  /* FIX: your .ps-icon-btn sets display:grid, which can override native [hidden]{display:none}.
-     Force hidden to always hide, regardless of other display rules. */
   :global([hidden]){
     display: none !important;
   }
 
   .ps-page{
-    min-height: 100vh;   /* fallback */
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
   }
@@ -1045,12 +1113,12 @@ const isUsActive = jurisdiction === "us";
     color:#0b1220;
     white-space: nowrap;
   }
+
   .ps-brand-dot{ color: var(--ps-logo-red); }
 
   .ps-toggle{
     flex: 0 1 auto;
     min-width: 0;
-
     display:flex;
     gap: 0;
     padding: clamp(3px, 1.2vw, 6px);
@@ -1108,13 +1176,11 @@ const isUsActive = jurisdiction === "us";
     width: 100%;
   }
 
-  /* Ensure no browser draws a native search cancel UI */
   .ps-search{
     -webkit-appearance: none;
     appearance: none;
   }
 
-  /* WebKit native search affordances */
   :global(input[type="search"]::-webkit-search-cancel-button),
   :global(input[type="search"]::-webkit-search-decoration),
   :global(input[type="search"]::-webkit-search-results-button),
@@ -1124,7 +1190,6 @@ const isUsActive = jurisdiction === "us";
     display: none;
   }
 
-  /* Old Edge/IE variants (safe elsewhere) */
   :global(input[type="search"]::-ms-clear),
   :global(input[type="search"]::-ms-reveal){
     display: none;
@@ -1140,7 +1205,7 @@ const isUsActive = jurisdiction === "us";
     border:1px solid var(--ps-border);
     background:#fff;
     outline:none;
-    padding-right: 190px; /* room for 3 icon buttons */
+    padding-right: 190px;
   }
 
   .ps-search:focus{
@@ -1180,16 +1245,47 @@ const isUsActive = jurisdiction === "us";
     box-shadow: 0 0 0 3px rgba(34,75,122,.18);
   }
 
+  .ps-icon-btn.ps-filter-active{
+    color: var(--ps-logo-red);
+  }
+
+  .ps-filter-icon-wrap{
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ps-filter-badge{
+    position: absolute;
+    top: -6px;
+    right: -8px;
+    min-width: 14px;
+    height: 14px;
+    padding: 0 3px;
+    border-radius: 999px;
+    background: var(--ps-logo-red);
+    color: #fff;
+    font-size: 9px;
+    font-weight: 900;
+    line-height: 1;
+    text-align: center;
+    border: 1.5px solid #f6f7fb;
+    pointer-events: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
   .ps-search-hint{
     width: 100%;
     max-width: 1100px;
     margin: 24px auto 0;
     padding: 0 16px;
-
     align-items: center;
     justify-content: center;
     gap: 10px;
-
     color: #7a8699;
     font-size: 14px;
     font-weight: 650;
@@ -1372,7 +1468,7 @@ const isUsActive = jurisdiction === "us";
   @media (max-width: 520px){
     .ps-search-icons{ right: 8px; gap: 8px; }
     .ps-icon-btn{ width: 42px; height: 42px; }
-    .ps-search{ padding-right: 146px; } /* 3 * 42 + gaps */
+    .ps-search{ padding-right: 146px; }
   }
 
   @media (max-width: 360px){
@@ -1381,7 +1477,6 @@ const isUsActive = jurisdiction === "us";
 </style>
 
 <style is:global>
-  /* Search dropdown container */
   #ps-search-results{
     max-width: 1100px;
     margin: 10px auto 0;
@@ -1400,19 +1495,15 @@ const isUsActive = jurisdiction === "us";
     width: 100%;
     display: block;
     text-align: left;
-
     border: 0;
     background: transparent;
-
     padding: 14px 16px;
     border-top: 1px solid #eef1f7;
-
     color: #0b1220;
     font-weight: 800;
     font-size: 16px;
     letter-spacing: -0.1px;
     line-height: 1.25;
-
     cursor: pointer;
   }
 
@@ -1438,7 +1529,6 @@ const isUsActive = jurisdiction === "us";
     font-size: 14px;
   }
 
-  /* Filter dropdown container */
   #ps-filter-box{
     max-width: 1100px;
     margin: 10px auto 0;
@@ -1452,7 +1542,6 @@ const isUsActive = jurisdiction === "us";
     box-shadow: var(--ps-shadow);
     overflow: hidden;
     padding: 12px;
-
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 12px;
@@ -1466,11 +1555,9 @@ const isUsActive = jurisdiction === "us";
     padding: 0;
     cursor: pointer;
     overflow: hidden;
-
     display: inline-flex;
     align-items: stretch;
     gap: 0;
-
     font-weight: 900;
     font-size: 14px;
     color: #0b1220;
@@ -1523,6 +1610,50 @@ const isUsActive = jurisdiction === "us";
     background: var(--ps-logo-red);
   }
 
+  .ps-filter-actions{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    min-width: 0;
+  }
+
+  .ps-filter-action-btn{
+    width: 100%;
+    min-height: 40px;
+    border-radius: 999px;
+    border: 1px solid var(--ps-border);
+    background: #fff;
+    color: #0b1220;
+    font: inherit;
+    font-size: 13px;
+    font-weight: 800;
+    cursor: pointer;
+    padding: 8px 10px;
+    min-width: 0;
+  }
+
+  .ps-filter-action-btn:hover{
+    background: rgba(34, 75, 122, 0.06);
+  }
+
+  .ps-filter-action-btn:focus{
+    outline: none;
+  }
+
+  .ps-filter-action-btn:focus-visible{
+    box-shadow: 0 0 0 3px rgba(34,75,122,.18);
+  }
+
+  .ps-filter-action-apply{
+    background: var(--ps-accent);
+    border-color: var(--ps-accent);
+    color: #fff;
+  }
+
+  .ps-filter-action-apply:hover{
+    background: #1c3f68;
+  }
+
   @media (max-width: 900px){
     #ps-filter-box .ps-filter-box-inner{
       grid-template-columns: repeat(2, 1fr);
@@ -1535,7 +1666,6 @@ const isUsActive = jurisdiction === "us";
     }
   }
 
-  /* Home full-results panel */
   .ps-home-results{
     margin: 0 auto 24px;
     max-width: 1100px;
@@ -1597,29 +1727,22 @@ const isUsActive = jurisdiction === "us";
     appearance: none;
     background: #fff;
     background-image: none;
-
     border: 1px solid var(--ps-border);
     border-radius: 18px;
     overflow: hidden;
-
     margin: 0;
     padding: 0;
-
     width: 100%;
     min-height: 56px;
-
     display: flex;
     flex-direction: row;
     align-items: stretch;
     justify-content: flex-start;
-
     text-align: left;
     cursor: pointer;
-
     box-shadow:
       0 1px 0 rgba(0,0,0,.02),
       0 8px 24px rgba(15, 23, 42, 0.04);
-
     font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   }
 
@@ -1642,14 +1765,11 @@ const isUsActive = jurisdiction === "us";
   button.ps-home-result-btn > .ps-home-result-icon{
     width: 64px;
     flex: 0 0 64px;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     background: var(--ps-accent);
     color: #fff;
-
     border-top-left-radius: 18px;
     border-bottom-left-radius: 18px;
   }
@@ -1662,14 +1782,11 @@ const isUsActive = jurisdiction === "us";
     flex: 1 1 auto;
     display: flex;
     align-items: center;
-
     padding: 16px 18px;
-
     font-size: 16px;
     line-height: 1.65;
     font-weight: 800;
     letter-spacing: -0.1px;
-
     text-align: left;
     color: #0b1220;
   }

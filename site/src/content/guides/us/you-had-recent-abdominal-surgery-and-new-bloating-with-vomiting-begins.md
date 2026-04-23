@@ -1,78 +1,90 @@
-﻿---
+---
 title: "What to do if… you had recent abdominal surgery and new bloating with vomiting begins"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - recent abdominal surgery
-  - post op bloating
-  - vomiting after surgery
-  - nausea and vomiting post op
-  - swollen abdomen after surgery
-  - abdominal distension and vomiting
-  - can’t keep liquids down
-  - not passing gas after surgery
-  - no bowel movement after surgery
-  - severe belly bloating after surgery
-  - possible bowel obstruction symptoms
-  - ileus after surgery
-  - postoperative complication warning signs
-  - sudden vomiting days after surgery
-  - throwing up after abdominal operation
-  - bloating plus vomiting
-  - worsening abdominal pain after surgery
-  - dehydration from vomiting
-  - what if my stomach is swollen post op
-last_reviewed: "2026-02-21"
+  - "recent abdominal surgery"
+  - "postoperative vomiting"
+  - "swollen belly after surgery"
+  - "abdominal distension post-op"
+  - "nausea and vomiting after operation"
+  - "cannot keep liquids down"
+  - "not passing gas after surgery"
+  - "no bowel movement after surgery"
+  - "green vomit after surgery"
+  - "bilious vomiting post-op"
+  - "stomach bloating and throwing up"
+  - "help i am vomiting after my surgery"
+  - "what do i do if my stomach is swollen after surgery"
+  - "my belly is hard and i am vomiting"
+  - "bowel obstruction symptoms after surgery"
+  - "ileus symptoms after surgery"
+  - "vomiting days after abdominal surgery"
+  - "abdominal pain and distension"
+  - "stomach swelling after gastric bypass"
+  - "throwing up after gallbladder surgery"
+  - "cannot pass gas post-op"
+  - "vomiting green fluid"
+  - "surgical complication warning signs"
+  - "bloated belly and nausea"
+  - "post-op bowel issues"
+  - "vomiting after colon surgery"
+  - "hard abdomen after operation"
+  - "signs of blocked bowel"
+  - "vomiting and no gas passage"
+  - "abdominal surgery recovery emergency"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you had recent abdominal surgery and new bloating with vomiting begins (USA)
 
 ## Short answer
-This can signal a **serious post-op complication**. **Call your surgeon’s on-call line now** and get **urgent evaluation**—go to the **ER** if you can’t reach them promptly or symptoms are worsening.
+Stop all food, liquid, and oral medication intake immediately and call your surgeon’s 24-hour on-call line. If you cannot reach them, or if you experience fainting, trouble breathing, or green-colored vomit, go to the nearest emergency room (ER) immediately.
 
 ## Do not do these things
-- Do **not** keep eating, and do **not** force drinks if you’re vomiting.
-- Do **not** take extra opioid pain medicine “to get through it” (it can worsen constipation and mask worsening symptoms).
-- Do **not** take anti-nausea meds in higher-than-prescribed doses to avoid being seen.
-- Do **not** drive yourself to the ER if you feel weak, dizzy, faint, drowsy, or are actively vomiting.
+- Do not eat any solid food or drink any liquids, including water.
+- Do not take oral pain medications, anti-nausea drugs, or laxatives unless specifically instructed by your surgical team during this current episode.
+- Do not wait for your scheduled follow-up appointment to report these symptoms.
+- Do not drive yourself to the hospital if you are actively vomiting, feeling faint, or in severe pain.
+- Do not use a heating pad on the abdomen as this can mask worsening inflammation.
 
 ## What to do now
-1. **Stop eating now.** Avoid drinking large amounts. If your mouth is dry, take **tiny sips** just to moisten your mouth and **stop** if vomiting continues.
-2. **Call your surgeon’s on-call number immediately** (often on your discharge papers or patient portal). Start with:  
-   “Recent abdominal surgery; **new abdominal bloating/distension and vomiting**.”
-3. **If you cannot reach a clinician promptly, go to the ER now.** Post-op vomiting with new distension commonly needs urgent assessment.
-4. **Call 911 now** if any of these are present:  
-   - severe or worsening abdominal pain, a hard/tender abdomen, or you can’t stand up straight from pain  
-   - **worsening distension** plus you **can’t pass gas or stool**  
-   - repeated vomiting, especially **green (bilious)** vomiting  
-   - fever with feeling very unwell, confusion, fainting, or severe weakness  
-   - trouble breathing or chest pain  
-   - vomiting blood / black “coffee-ground” material, or black tarry stool  
-   - you cannot keep down even tiny sips, or you’re urinating very little (possible significant dehydration)
-5. **Bring the essentials to the ER (or have them ready for EMS):**  
-   - your **discharge summary/operative report** if you have it  
-   - a list (or photos) of **all medications** taken since discharge (including opioids, stool softeners/laxatives, anti-nausea meds)  
-   - allergies, surgeon/hospital name, and emergency contact  
-   - if you have a **stoma**, note any major changes in output
-6. **Write down key details** to report quickly: when symptoms started, vomiting frequency, whether you can keep anything down, last bowel movement, last time you passed gas, and whether the pain/distension is getting worse.
+1. **Stop all oral intake immediately.** Do not consume food, water, or medications by mouth, as these can worsen a potential bowel obstruction or ileus (intestinal paralysis).
+2. **Call 911 immediately if you experience life-threatening symptoms.** 
+   - Chest pain or difficulty breathing.
+   - Fainting, loss of consciousness, or inability to stay awake.
+   - Signs of shock, such as a cold, clammy feeling or a rapid, weak pulse.
+   - Inability to stand up due to extreme pain.
+3. **Contact your surgeon’s emergency on-call service now.** Use the number provided on your discharge papers or Patient Portal; tell the operator: "I am a recent abdominal surgery patient with new-onset vomiting and abdominal distension."
+4. **Go to the Emergency Room immediately if you have any of the following:**
+   - Vomiting that is green (bilious) or looks like coffee grounds.
+   - Complete inability to pass gas or have a bowel movement.
+   - A fever over 101.5°F (38.6°C).
+   - A hard, rigid, or extremely tender abdomen.
+   - Decreased urination (signs of severe dehydration).
+5. **Support your incision site during vomiting.** **Hold a pillow firmly against your abdomen (splinting)** to prevent the strain of vomiting from opening your surgical incision or causing a hernia.
+6. **Gather your surgical records and current vitals.** 
+   - Locate your discharge summary and operative report.
+   - List all medications taken in the last 24 hours, especially opioids (narcotics).
+   - Note the time of your last bowel movement and the last time you passed gas.
+   - If you have a stoma, check the bag and note if output has stopped or changed significantly.
 
 ## What can wait
-- You do **not** need to figure out whether this is “normal,” an ileus, a blockage, or a medication effect—let clinicians assess.
-- You do **not** need to decide about diet changes, laxatives, or home remedies right now.
-- You do **not** need to decide who to call for paperwork, insurance, or follow-up details until you’re medically assessed.
+- You do not need to determine the specific cause (such as adhesions, ileus, or infection) before seeking help.
+- You do not need to worry about missing work or future appointments until you are stabilized.
+- You do not need to pack a large bag; focus only on your ID, insurance card, and surgical discharge papers.
 
 ## Important reassurance
-It makes sense to feel alarmed—after abdominal surgery, **new distension with vomiting** is a pattern clinicians want assessed quickly. Going in urgently is the safer choice, even if it turns out to be treatable and not severe.
+It is common for the digestive system to react to surgical manipulation or anesthesia, but vomiting combined with a swollen abdomen requires a professional physical exam and often imaging (like a CT scan). Seeking care quickly is the standard protocol for these symptoms and helps prevent the situation from escalating.
 
 ## Scope note
-These are **first steps only**. The right treatment depends on your surgery type and exam/tests. The priority is getting assessed quickly and safely.
+This guide provides first-step stabilization for postoperative abdominal symptoms only. It does not replace the specific instructions provided by your surgical team at discharge.
 
 ## Important note
-This is general information, not medical advice or a diagnosis. If symptoms are worsening, you can’t keep fluids down, or you can’t reach your surgical team promptly, seek emergency care.
+This information is for educational purposes and does not constitute medical advice or a diagnosis. Postoperative complications like bowel obstructions or anastomotic leaks are time-sensitive medical emergencies that require immediate clinical evaluation.
 
 ## Additional Resources
+- https://medlineplus.gov/ency/patientinstructions/000150.htm
 - https://medlineplus.gov/ency/article/000260.htm
-- https://medlineplus.gov/intestinalobstruction.html
-- https://effectivehealthcare.ahrq.gov/health-topics/intestinal-obstruction
-- https://www.uhhospitals.org/services/surgery-services/conditions-and-treatments/colorectal-surgery/patient-resources/concerns-after-discharge
-- https://my.clevelandclinic.org/health/diseases/bowel-obstruction
+- https://www.mayoclinic.org/symptoms/nausea/basics/when-to-see-doctor/sym-20050736
+- https://www.mayoclinic.org/diseases-conditions/intestinal-obstruction/symptoms-causes/syc-20351460
+- https://medlineplus.gov/adhesions.html

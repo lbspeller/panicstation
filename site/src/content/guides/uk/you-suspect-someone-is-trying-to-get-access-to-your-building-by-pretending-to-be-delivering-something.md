@@ -1,83 +1,88 @@
-﻿---
+---
 title: "What to do if… you suspect someone is trying to get access to your building by pretending to be delivering something"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - fake delivery person at door
-  - pretending to be a courier
-  - bogus delivery driver entry
-  - stranger at communal door
-  - someone buzzing my flat
-  - unexpected delivery at intercom
-  - parcel delivery ruse
-  - suspicious person in lobby
-  - tailgating into building
-  - piggybacking through security door
-  - building entry scam
-  - letting in a stranger mistake
-  - delivery uniform looks real
-  - pressured to open the door
-  - courier says for another resident
-  - someone wants access code
-  - door buzzer safety
-  - apartment block security door
-  - suspicious missed delivery message
-  - someone won’t leave doorway
-last_reviewed: "2026-01-10"
+  - "fake delivery person at door"
+  - "pretending to be a courier"
+  - "bogus delivery driver entry"
+  - "stranger at communal door"
+  - "someone buzzing my flat"
+  - "unexpected delivery at intercom"
+  - "parcel delivery ruse"
+  - "suspicious person in lobby"
+  - "tailgating into building"
+  - "piggybacking through security door"
+  - "building entry scam"
+  - "letting in a stranger mistake"
+  - "delivery uniform looks real"
+  - "pressured to open the door"
+  - "courier says for another resident"
+  - "someone wants access code"
+  - "door buzzer safety"
+  - "apartment block security door"
+  - "suspicious missed delivery message"
+  - "someone won't leave doorway"
+  - "what do i do if someone is at my door"
+  - "what do i do if a delivery is suspicious"
+  - "what do i do if someone wants access to my building"
+  - "what do i do if a courier is fake"
+  - "help i let a stranger into my building"
+  - "help i think a fake delivery driver is outside"
+  - "help i am being pressured at my door"
+  - "my intercom is buzzing but i expect nothing"
+  - "smell of scam at the door"
+  - "visible fake uniform at entrance"
+  - "hearing strange voices at the communal door"
+  - "feeling pressured by a delivery person"
+  - "doorstep crime uk"
+  - "courier fraud at door"
+  - "communal entrance security breach"
+  - "verification of delivery drivers uk"
+  - "unauthorized building entry"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you suspect someone is trying to get access to your building by pretending to be delivering something (UK)
 
 ## Short answer
-Don’t buzz them in or open the door. Keep a physical barrier between you and them while you verify, and if they won’t leave or try to force entry, call 999 (or 112).
+Do not open the door or buzz the person into the building. Keep all physical barriers locked and end the interaction immediately if you cannot verify the delivery through an official, independent source.
 
 ## Do not do these things
-- Don’t “just let them in quickly” because they look like a courier or seem impatient.
-- Don’t share entry codes, swipe/fob access, or hold a communal door for someone you don’t know.
-- Don’t go downstairs alone to “sort it out” if you feel unsure or pressured.
-- Don’t argue on the doorstep or let the situation pull you into a face-to-face confrontation.
-- Don’t click “missed delivery” links or pay “redelivery fees” from unexpected texts/emails while you’re stressed.
+- Don't open the door "just a crack" or use a door chain to talk to the person.
+- Don't "just let them in quickly" to the lobby or communal area because they seem to be in a rush.
+- Don't provide entry codes, swipe card access, or hold a secure door open for them.
+- Don't go to the communal entrance to investigate or confront the person alone.
+- Don't look through glass panels if it allows the person to see you or gauge your location.
+- Don't follow any instructions to "check a package" or "sign for a neighbor" if the person is unverified.
 
 ## What to do now
-1. **Create a safer pause.** Lock your door and step back from it. If you use a chain/door bar, use it **while you’re speaking**—don’t do anything that would stop you leaving quickly in an emergency (for example, a fire alarm). If you’re at the building entry system, **don’t buzz anyone in**.
-2. **Use distance to assess.** Speak through the closed door/intercom only. Ask:  
-   - “Who is it for (name/flat number)?”  
-   - “Which company are you with?”  
-   Then say: **“I’m not letting anyone in. Please ring the intended flat / contact the recipient.”**
-3. **Make “no” simple and repeatable.** Use one line and repeat it:  
-   - “I can’t help. Please use the correct buzzer.”  
-   - “Leave it with reception/concierge.” (If you have one.)  
-   - “If there’s no reception, please mark it undeliverable / take it back.”  
-   You don’t need to justify yourself.
-4. **Verify without relying on what they tell you.** If you’re expecting a parcel, check tracking **in the official app/website you normally use** (not via a link they provide). If you can’t verify quickly, treat it as unverified and **do not grant entry**.
-5. **Loop in someone who can act on the building now.**  
-   - If there’s a **concierge/caretaker/security**, contact them immediately.  
-   - If not, message your **building management/landlord/managing agent**: “Possible fake delivery attempt at [door/lobby] at [time]. Please check communal door is secure and review any CCTV.”  
-6. **Escalate based on risk.**  
-   - If someone is attempting to force entry, threatening you, or you feel in immediate danger, **call 999 (or 112)**.  
-   - If they’ve gone but you’re concerned (e.g., trying multiple buzzers, testing doors, tailgating), call **101** to report suspicious behaviour.  
-   If you can do it safely, note the time, description, and any vehicle details.
-7. **If this started from a “delivery problem” message you clicked:** stop and reset. Don’t enter passwords or payment details. If you’ve already shared card/bank details, contact your bank immediately. You can forward suspicious texts to **7726** (free) to report them to your mobile provider.
+1. **Maintain physical distance and lock all entry points.** Ensure your individual flat door is locked and stay away from any windows that allow the person to see into your home. If you are at a communal intercom, do not press the release button under any circumstances while you are unsure.
+2. **Communicate only through a closed door or intercom system.** Ask the person for the name of the recipient and the specific flat number they are visiting. If they claim to be from a specific company, ask for their employee ID number or the tracking number of the parcel.
+3. **State your refusal clearly and do not engage in negotiation.** Say: "I am not expecting a delivery and I cannot let you in. Please contact the resident directly or leave the building." Repeat this single phrase if they continue to pressure you, then terminate the call or walk away from the door.
+4. **Contact your building's security or management immediately.** If your building has a concierge, caretaker, or on-site security team, use your internal phone or mobile to alert them to a suspicious person at the entrance. Provide a description if you saw them through a camera or peephole.
+5. **Verify the delivery via official channels only.** If you were expecting a parcel, check the status on the official website or app of the retailer you purchased from. Do not click links in "missed delivery" texts or emails that arrive during or immediately after the encounter.
+6. **Call 159 if the encounter involved bank-related requests.** If the person asked for your bank cards, PINs, or mentioned "fraudulent activity" on your account, hang up and call 159 (the UK's secure hotline to connect directly with your bank).
+7. **Escalate to the police based on the immediate threat level.** Call 999 if the person is attempting to force entry, behaving aggressively, or refusing to leave your property. Call 101 to report the suspicious behavior if the person has left but you believe they are targeting other residents.
+8. **Report the incident to the appropriate fraud authority.** If you are in England, Wales, or Northern Ireland, report the attempt to "Report Fraud" at reportfraud.police.uk. If you are in Scotland, report the incident to Police Scotland by calling 101.
 
 ## What can wait
-- You don’t need to decide right now whether it was “definitely” a scam.
-- You don’t need to confront them, chase them, or gather proof.
-- You don’t need to change locks or overhaul building security in the moment (just report any faults promptly).
-- If you think you’ve been scammed (money/details taken), you can report fraud once you’re safe and calm (the route differs across the UK, so use the official “Report Fraud” service for your nation, or Police Scotland via 101).
+- You do not need to determine if the delivery was "actually" a scam right now.
+- You do not need to check with your neighbors to see if they were expecting anything.
+- You do not need to review CCTV footage yourself; this is a task for management or the police.
+- You do not need to update your building's security protocols or replace locks today.
 
 ## Important reassurance
-It’s normal to feel awkward refusing entry—these situations rely on politeness and urgency. In secure buildings, **not letting unknown people in is a sensible default**, even if it turns out to be legitimate.
+It is common to feel a sense of social pressure or "rudeness" when refusing entry to someone who appears to be working. Secure buildings rely on every resident following the rule of "no verification, no entry." Your priority is the physical security of yourself and your neighbors, and legitimate couriers are trained to expect and respect these security measures.
 
 ## Scope note
-These are first steps to stabilise the situation and prevent an unsafe entry. Follow-up (building security improvements, formal complaints, longer reporting) can happen after you’re calm and safe.
+This guide provides first-step stabilization for an active or recent encounter with a suspicious person seeking building access. It does not cover long-term security upgrades or legal proceedings.
 
 ## Important note
-This is general safety information, not legal advice. If you believe someone is trying to enter unlawfully or you feel at risk, prioritise getting to safety and contacting emergency services.
+This information is for safety guidance only and does not constitute legal or professional security advice. Always follow the instructions of emergency services (999) if you are in immediate danger.
 
 ## Additional Resources
-- https://www.avonandsomerset.police.uk/crime-prevention-advice/home-protection/know-the-signs-of-doorstep-crime/
-- https://www.met.police.uk/advice/advice-and-information/fa/fraud/personal-fraud/dtdc/door-to-door-and-courier-fraud/
-- https://www.ncsc.gov.uk/guidance/scam-missed-parcel-sms-messages
-- https://www.gov.uk/report-suspicious-emails-websites-phishing
-- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
-- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/7726-reporting-scam-texts-and-calls
+- https://www.ageuk.org.uk/information-advice/money-legal/scams-fraud/doorstep-scams/
+- https://www.which.co.uk/consumer-rights/advice/doorstep-scams-and-how-to-avoid-them-aWers5g8JA3V
+- https://www.met.police.uk/advice/advice-and-information/asb/asb/antisocial-behaviour/annoying-phone-calls-or-unwanted-visits/
+- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
+- https://www.met.police.uk/contact/af/contact-us-beta/contact-us/report-crime-incident-suspicion/report-crime/

@@ -1,73 +1,87 @@
-﻿---
+---
 title: "What to do if… you suspect someone is waiting for you in a hallway, stairwell, or entry area"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - someone waiting in hallway
-  - suspicious person in stairwell
-  - unsafe entry area
-  - someone outside my apartment door
-  - someone in building corridor
-  - think someone is hiding nearby
-  - followed home to my apartment
-  - someone loitering in entryway
-  - fear of ambush at entrance
-  - unsafe shared hallway
-  - apartment stairwell safety
-  - building entrance feels unsafe
-  - stranger waiting by door
-  - possible threat in corridor
-  - worried about being confronted
-  - scared to go inside building
-  - i don’t feel safe entering
-  - suspicious activity near my door
-  - someone waiting near elevator
-last_reviewed: "2026-01-10"
+  - "someone waiting in hallway"
+  - "suspicious person in stairwell"
+  - "unsafe entry area"
+  - "someone outside my apartment door"
+  - "someone in building corridor"
+  - "think someone is hiding nearby"
+  - "followed home to my apartment"
+  - "someone loitering in entryway"
+  - "fear of ambush at entrance"
+  - "unsafe shared hallway"
+  - "apartment stairwell safety"
+  - "building entrance feels unsafe"
+  - "stranger waiting by door"
+  - "possible threat in corridor"
+  - "worried about being confronted"
+  - "scared to go inside building"
+  - "i don't feel safe entering"
+  - "suspicious activity near my door"
+  - "someone waiting near elevator"
+  - "help i think someone is in the hallway"
+  - "help i think someone is in the stairwell"
+  - "what do i do if someone is waiting for me"
+  - "what do i do if i see a stranger at my door"
+  - "what do i do if the hallway is unsafe"
+  - "what do i do if someone followed me into the building"
+  - "muffled voices in hallway"
+  - "unusual shadows in stairwell"
+  - "smell of cigarette smoke in corridor"
+  - "clicking sounds near door"
+  - "loitering in lobby"
+  - "stranger in stairwell"
+  - "hiding in entryway"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you suspect someone is waiting for you in a hallway, stairwell, or entry area (USA)
 
 ## Short answer
-Don’t enter the hallway/stairwell. Move to a safer, more public place and call 911 if you feel threatened or think a crime may be in progress.
+Do not enter the area and immediately move toward a well-lit, public space with other people. Call 911 if you believe someone is hiding or if you feel an immediate threat of confrontation.
 
 ## Do not do these things
-- Don’t go in “just to check” or to prove you’re wrong.
-- Don’t confront, argue, or announce yourself to see what happens.
-- Don’t unlock, prop, or hold an entry door open while you look around.
-- Don’t walk into a stairwell or down a corridor to get to your unit faster.
-- Don’t let pressure (embarrassment, being “polite,” not wanting to overreact) push you into entering alone.
+- Don't enter the space to "check" if anyone is actually there.
+- Don't call out or announce your presence to "scare" someone off.
+- Don't prop doors open or use keys while distracted or looking around.
+- Don't enter a confined space like an elevator or small stairwell with a stranger who makes you feel uneasy.
+- Don't ignore sensory cues like the smell of smoke, unusual shadows, or muffled sounds in an otherwise empty area.
 
 ## What to do now
-1. **Increase distance right away.** Step back outside to a more visible area, or into a nearby open business if one is close. If you’re in a vehicle, **stay inside with doors locked** and leave if you can do so safely.
-2. **Call 911 if this feels urgent.** If you genuinely feel unsafe, treat it as an emergency and call 911.
-3. **If you’re in a managed site, get an escort.** Call building security/concierge/property management (or campus/hospital security if you’re on a campus/medical site). Ask them to **meet you at the entrance** or **walk you in**, rather than you entering alone.
-4. **Give dispatch clear location details.** Say:
-   - the address, which entrance you’re at, and any gate/intercom details you can safely share,
-   - what you observed (and why you suspect someone is waiting),
-   - whether you can see the person now and a brief description if safe.
-5. **Stay connected if it’s safe.** If the dispatcher asks questions, answer what you can and **don’t hang up** unless you’re told to.
-6. **If you can’t speak safely, still contact 911 — but expect variations.** Procedures differ by area. If it’s safe to do so, **stay on the line** so the call taker can try to confirm what’s happening and where you are.
-7. **If you can’t safely make a voice call and Text-to-911 might help, use it cautiously.** Text-to-911 is not available everywhere. If you try it where it isn’t supported, you may get an automatic “bounce-back” telling you to contact emergency services another way. If you text, start with **location + what’s happening + what help you need** (for example: “I’m outside [address], someone may be waiting in the stairwell, I need police”).
-8. **If you’re already inside but you have a safer pocket of space.** Move to the nearest staffed or lockable area you control (for example, a front desk, an occupied office, or your locked unit if you can reach it without entering an isolated stairwell), lock the door, and call 911 if you feel in danger.
+1. **Increase your distance from the entry point immediately.** Move back to a street with foot traffic, a 24-hour business, or stay inside your vehicle with the doors locked. 
+2. **Call 911 if you observe specific signs of a person waiting.** Tell the dispatcher you are at a specific address and describe what you noticed.
+   - Unusual shadows or feet visible under a door or around a corner.
+   - Sounds of movement, whispering, or muffled voices in an unlit area.
+   - Odors that suggest recent presence, such as cigarette smoke or strong perfume.
+   - A person loitering near your specific door or transition point without a clear purpose.
+3. **Contact onsite security or a concierge if you are at a managed property.** Request that they meet you at a safe, public exterior point or view the hallway cameras before you enter.
+4. **Silence your phone but keep the line open if you are already inside.** If you have already entered and feel trapped, move to the nearest lockable room or exit and stay on the line with 911.
+   - Turn down your screen brightness.
+   - Disable any "Find My" or location-sharing pings that make audible noises.
+5. **Use Text-to-911 only if you cannot safely speak.** If you text, provide your exact location, apartment/unit number, and the nature of the threat (e.g., "Someone hiding in 3rd-floor stairwell") in the first message.
+6. **Describe the person only if you can do so without looking back.** If you caught a glimpse, note height, clothing color, and any bags or tools, but do not return to the area to get a better look.
+7. **Identify a "safe haven" nearby.** If you cannot go home, identify the closest police station, fire station, or hospital emergency room and move toward it.
 
 ## What can wait
-- You do **not** need to confirm who the person is or why they’re there.
-- You do **not** need to search the hallway/stairwell, check cameras, or “gather proof” right now.
-- You do **not** need to decide today whether to escalate with management — safety first.
-- You can handle follow-up later (reporting to property management, requesting lock/lighting repairs, documenting patterns).
+- You do not need to notify property management or the landlord until you are in a secure location.
+- You do not need to determine if the person is a neighbor or a guest right now.
+- You do not need to check your own security cameras or "gather evidence" while near the suspected person.
+- You do not need to decide whether to file a formal police report until the immediate threat is cleared.
 
 ## Important reassurance
-When something feels off near an enclosed space like a stairwell or entry, stepping back and getting help is a sensible safety choice. You’re allowed to prioritize safety over social discomfort.
+Sensing that a confined or transition space is unsafe is a common physiological response to environmental cues. Choosing to wait, relocate, or call for an escort is a standard safety protocol and does not require an apology or justification to others.
 
 ## Scope note
-These are first steps for the minutes when you’re deciding whether to enter. If this is recurring (or you believe you’re being targeted), you may need additional support and a more detailed plan with local professionals.
+This guide provides first-step stabilization for the minutes during or immediately following a suspected ambush or loitering threat. It does not cover long-term stalking, legal restraining orders, or building-wide security audits.
 
 ## Important note
-This is general information, not legal advice. If you believe you’re in immediate danger, get to a safer place and contact emergency services.
+This information is for emergency situational awareness and does not constitute legal or professional security advice. Always follow the direct instructions of 911 dispatchers and law enforcement officers on the scene.
 
 ## Additional Resources
-- https://www.nena.org/page/911GeneralInfo
-- https://www.nena.org/page/911tipsguidelines
-- https://www.ada.gov/resources/access-911/
-- https://www.nad.org/resources/technology/access-to-911-emergency-services/
-- https://www.hptx.org/482/9-1-1-Tips-for-Callers
+- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/
+- https://victimconnect.org/get-help/
+- https://www.thehotline.org/resources/stalking-safety-planning/
+- https://www.womenslaw.org/safety-planning/safety-tips-stalking-victims
+- https://www.stalkingawareness.org/stalking-behaviors/

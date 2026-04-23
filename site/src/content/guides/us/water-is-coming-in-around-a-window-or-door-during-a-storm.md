@@ -1,81 +1,94 @@
-﻿---
+---
 title: "What to do if… water is coming in around a window or door during a storm"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - storm water coming in window
-  - water leaking around window
-  - rain coming in through window frame
-  - window leaking in heavy rain
-  - water coming in around door
-  - rain coming under door
-  - door threshold leaking
-  - wind driven rain leak
-  - sudden indoor water ingress
-  - emergency window leak
-  - emergency door leak
-  - flooding through window
-  - water pooling by window
-  - water near outlets
-  - keep water out during storm
-  - temporary leak stop inside
-  - soak-through around frames
-  - storm damage first steps
-last_reviewed: "2026-03-03"
+  - "storm water ingress window"
+  - "rain leaking through door frame"
+  - "water coming in under door"
+  - "window leaking during heavy rain"
+  - "storm water leaking through door"
+  - "rain coming through window sill"
+  - "water pooling by window frame"
+  - "leaking window threshold"
+  - "what do i do if water is coming in my window"
+  - "what do i do if rain is leaking through my door"
+  - "what do i do if water is entering around window frame"
+  - "what do i do if my window leaks in a storm"
+  - "help i have water coming in my window"
+  - "help i have rain leaking under my door"
+  - "help my window is leaking during a storm"
+  - "help my door is letting in water"
+  - "smell of burning near wet window"
+  - "buzzing sound from wet wall"
+  - "water near electrical outlet"
+  - "sparking outlet from rain leak"
+  - "wet floor near power strip"
+  - "water entering around electrical box"
+  - "window drip during storm"
+  - "door seal leak in rain"
+  - "indoor flooding from window"
+  - "rain coming in window during night"
+  - "water leak in apartment window"
+  - "storm water ingress in house"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… water is coming in around a window or door during a storm (USA)
+
 ## Short answer
-Keep water away from electricity first, then contain the leak from the inside (buckets/towels/plastic) and move essentials and electronics to higher, drier places. Avoid outside “quick fixes” while the storm is active.
+De-energize any electrical circuits near the water immediately, then contain the flow from the inside using buckets and towels. Do not attempt to repair the exterior or enter the roof area until the storm has fully passed.
 
 ## Do not do these things
-- Don’t touch outlets, power strips, cords, or electrical panels if you’re standing on a wet floor or water is reaching them.
-- Don’t try to turn power on or off while you’re standing in water.
-- Don’t go outside to seal the window/door during high winds, lightning, or poor visibility.
-- Don’t use space heaters, hairdryers, or corded fans near wet flooring to “dry it faster.”
-- Don’t run extension cords across wet areas.
-- Don’t drive or walk through floodwater to fetch supplies (if flooding is part of the storm).
+- Don’t walk through standing water to reach an electrical panel or breaker box.
+- Don’t touch any outlets, switches, or cords if you feel a "tingle" or see water running over them.
+- Don’t use a plug-in wet/dry vacuum while standing on a wet surface or in a damp area.
+- Don’t go outside to inspect or seal the leak during high winds, rain, or lightning.
+- Don’t use a ladder to check gutters or the roof until the storm has ended and surfaces are dry.
+- Don’t use corded heaters or fans to dry the area while water is still entering.
 
 ## What to do now
-1. **Move people and pets away from the leaking area.** Close interior doors to slow the spread of water into other rooms.
-2. **Make electricity safer immediately.**
-   - If water is **approaching outlets, power strips, appliances, or your breaker panel area**, **turn off power** at the main breaker **only if you can reach it safely and the floor/panel area is dry**.
-   - If the panel area is wet, you smell hot insulation, hear buzzing, or see sparking: **don’t touch it**. Keep everyone away and contact your power company/electrician.
-   - **Do not re-energize** circuits/outlets that may have gotten wet until they’ve been checked.
-3. **Contain the water from the inside (fast, low-risk actions).**
-   - Put a **bucket/bowl** under any drip or stream.
-   - Use **towels** to create a barrier and to “channel” water into the bucket.
-   - Tape a **plastic sheet or trash bag** over the inside edges of the window/door frame as a temporary splash guard, directing flow downward into a container.
-4. **Move what gets dangerous or ruined first.**
-   - Unplug and relocate **electronics** and anything plugged in near the leak (laptops, chargers, power strips).
-   - Move **important documents, medications, and keys** to a higher shelf or upstairs.
-5. **Limit water soaking into walls and floors.**
-   - Lift curtains/blinds away from wet sills.
-   - If water is running along baseboards, press a towel into the corner and keep swapping/wringing to slow the spread.
-6. **Treat storm/flood water as “not clean” if it’s coming from outside or the ground.**
-   - Keep kids/pets away from puddles, avoid splashes to eyes/mouth, and wash hands after handling wet items.
-7. **Know when to call for help.**
-   - If there’s immediate, life-threatening danger (sparking/arcing you can’t avoid, rapidly rising water, collapse risk), call **911**.
-   - If the meter/service panel area got wet or there are downed lines nearby, keep well away and contact your power company. If officials tell you to evacuate, do so.
+1. **Isolate the area from electricity immediately.**
+   - **Identify all outlets and electronics** on the affected wall or floor.
+   - **Shut off power at the main breaker** to those rooms only if you can reach the panel without walking through water and if the panel area itself is dry.
+   - **Stop and call for help** if you hear buzzing, smell burning, or see sparking from any wet electrical component.
+2. **Move people and pets away from the path of the water.**
+   - **Evacuate the immediate room** if water is encroaching on large appliances or the furnace area.
+   - **Close interior doors** to prevent moisture and potential contaminants from spreading to dry areas of the home.
+3. **Contain the water using internal barriers (fast, low-risk actions).**
+   - **Place buckets or heavy bowls** directly under the primary drip or stream.
+   - **Lay heavy towels or blankets** along the floor/sill to create a "dam" that directs water into your containers.
+   - **Relocate rugs and furniture** at least 5 feet away from the wet zone to prevent soaking.
+4. **Relocate high-priority items to higher ground.**
+   - **Move laptops, chargers, and small electronics** to a different room or an upper floor.
+   - **Gather medications, identification, and keys** into a waterproof bag or elevated container.
+5. **Protect interior surfaces from saturation.**
+   - **Pin up or remove curtains and blinds** so they are not sitting in water on the sill.
+   - **Wring out and replace towels frequently** as they become saturated to prevent water from traveling under baseboards.
+6. **Minimize contact with the water.**
+   - **Wear rubber-soled shoes** and gloves if you must handle wet items.
+   - **Wash skin immediately** if you come into contact with the water, as storm runoff may contain pathogens or chemicals.
+7. **Monitor for escalation.**
+   - **Call 911** if water begins rising rapidly from the ground or if structural shifting (cracking/creaking) is observed.
+   - **Contact your utility provider** if you see water entering the main electrical service mast or meter box outside.
 
 ## What can wait
-- You do **not** need to figure out the exact cause (failed seal, wind-driven rain, gutters/roof) while the storm is still happening.
-- You do **not** need to start major cleanup or tear-out right now.
-- You do **not** need to make insurance decisions tonight—focus on safety, containment, and quick documentation (photos) when safe.
+- You do **not** need to identify the exact source (roof, siding, or window seal) while it is raining.
+- You do **not** need to contact your insurance agent during the peak of the storm.
+- You do **not** need to begin deep cleaning or mold remediation until the leak has fully stopped.
+- You do **not** need to check gutters or downspouts until visibility is clear and winds are calm.
 
 ## Important reassurance
-A sudden leak during a storm can feel overwhelming, but the first priority is simple: keep electricity and water separated, then slow and collect the water. Those steps meaningfully reduce the chance of injury and major damage.
+Seeing water enter your home is alarming, but most window and door leaks during storms can be managed by simple containment. Focus strictly on separating water from electricity and collecting the liquid. Structural damage usually takes time to develop; your priority is immediate safety and slowing the spread.
 
 ## Scope note
-These are first steps for the storm window. After conditions improve, you may need professional inspection/repairs, and you should treat any circuits/outlets that got wet as unsafe until checked.
+This guide is for first-step stabilization only. Once the storm passes, a professional inspection is required to determine if electrical systems were compromised or if building materials require professional drying.
 
 ## Important note
-This is general information, not professional advice. If floodwater may be contaminated or water contacted electrical systems, gas/propane equipment, or structural elements, get appropriate professional help before restoring power or making repairs.
+This information is for general emergency stabilization and is not professional electrical or structural advice. If water has contacted any electrical systems or if structural integrity is in question, consult a licensed professional before restoring power or attempting permanent repairs.
 
 ## Additional Resources
-- https://www.ready.gov/floods
-- https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html
-- https://www.cdc.gov/floods/safety/reentering-your-flooded-home-safety.html
-- https://www.redcross.org/get-help/disaster-relief-and-recovery-services/utilities-major-systems.html
-- https://www.fema.gov/node/return-home-and-clean-sample-text
-- https://www.weather.gov/safety/flood-turn-around-dont-drown
+- https://www1.eere.energy.gov/buildings/publications/pdfs/corporate/windows_doors.pdf
+- https://floodinfo.venturacounty.gov/flood-proofing-structures/
+- https://healthyhomes.ces.ncsu.edu/news/keeping-your-home-dry-how-water-enters-your-home/
+- https://www.energy.gov/energysaver/detecting-air-leaks
+- https://basc.pnnl.gov/resource-guides/windows-and-doors-are-fully-flashed

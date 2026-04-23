@@ -1,97 +1,108 @@
-﻿---
+---
 title: "What to do if… you learn the rent or mortgage for a person who died is due and you do not know what to do next"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - rent due after death
-  - mortgage due after death
-  - deceased tenant rent payment
-  - deceased homeowner mortgage payment
-  - paying bills after someone dies
-  - executor unsure about rent
-  - executor unsure about mortgage
-  - next of kin rent demand
-  - next of kin mortgage demand
-  - landlord asking for rent after death
-  - lender asking for mortgage after death
-  - bereavement payments what now
-  - tenancy ending after death
-  - council tenancy after death
-  - private tenancy after death
-  - rent arrears after tenant dies
-  - mortgage bereavement team
-  - direct debit after death
-  - worried about eviction after death
-  - worried about repossession after death
-last_reviewed: "2026-02-23"
+  - "rent due after death"
+  - "mortgage due after death"
+  - "deceased tenant rent payment"
+  - "deceased homeowner mortgage payment"
+  - "paying bills after someone dies"
+  - "executor unsure about rent"
+  - "executor unsure about mortgage"
+  - "next of kin rent demand"
+  - "next of kin mortgage demand"
+  - "landlord asking for rent after death"
+  - "lender asking for mortgage after death"
+  - "bereavement payments what now"
+  - "tenancy ending after death"
+  - "council tenancy after death"
+  - "private tenancy after death"
+  - "rent arrears after tenant dies"
+  - "mortgage bereavement team"
+  - "direct debit after death"
+  - "worried about eviction after death"
+  - "worried about repossession after death"
+  - "rent or mortgage for a person who died"
+  - "what to do if rent is due after death"
+  - "what to do if mortgage is due after death"
+  - "rent due deceased person"
+  - "mortgage due deceased person"
+  - "renting homes wales death"
+  - "scottish secure tenancy death"
+  - "nihe rent after death"
+  - "housing association rent after death"
+  - "probate rent payments"
+  - "letters of administration mortgage"
+  - "death notification service uk"
+  - "tell us once housing"
+  - "rent arrears estate liability"
+  - "mortgage payment holiday bereavement"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you learn the rent or mortgage for a person who died is due and you do not know what to do next (UK)
 
 ## Short answer
-Do not panic-pay from your own money. First identify who has legal authority to deal with the person’s affairs (executor/administrator), then contact the landlord or mortgage lender to notify them of the death and ask what they need while you get paperwork in place.
+Do not make payments from your personal funds or agree to new contracts until legal authority (executor or administrator) is established. Notify the landlord or mortgage lender immediately of the death to trigger a pause in enforcement and request their specific bereavement requirements in writing.
 
 ## Do not do these things
-- Don’t use your own money “just to stop trouble” unless you’re certain you are personally liable (many people aren’t).
-- Don’t ignore letters/texts/calls from the landlord, agent, or lender — silence can escalate fees and action.
-- Don’t rush-cancel direct debits/standing orders without first identifying what each one is for; if you’re unsure, contact the relevant bank/provider and ask for their bereavement process.
-- Don’t hand back keys, clear the property, or agree to end a tenancy unless you’re authorised to act (or you’ve confirmed you can).
-- Don’t let anyone pressure you into giving bank details, paying immediately, or signing anything on the spot.
+- Do not use personal money to cover the debt unless you were a joint tenant or joint borrower and are personally liable.
+- Do not ignore correspondence from the landlord, agent, or lender, as silence may lead to automated enforcement or additional fees.
+- Do not cancel direct debits or standing orders without first identifying the specific purpose; instead, notify the bank using the Death Notification Service.
+- Do not hand over keys, clear the property, or sign surrender documents until you have confirmed you have the legal authority to act for the estate.
+- Do not feel pressured to give your own bank details or sign personal guarantees to "keep the account open."
 
 ## What to do now
-1. **Stabilise the situation in 5 minutes: write down three facts**
-   - What’s due (rent or mortgage), the **due date**, and who is demanding payment (landlord/agent/lender/servicer).
-   - The **address** and whether anyone is living there right now.
-   - Whether the person who died was the **sole tenant/sole owner**, or there was a joint tenant/joint owner.
+1. **Identify the specific payment due date and the nature of the property ownership or tenancy.**
+   - Determine if the deceased was a sole tenant / owner or if there is a surviving joint tenant / owner.
+   - Note the exact amount being requested and the contact details for the billing entity (lender, council, or private landlord).
 
-2. **Check which part of the UK you’re dealing with (because rules can differ)**
-   - Note whether the property is in **England, Scotland, Wales, or Northern Ireland**, and whether it’s **private renting** or **council/housing association**.
-   - If you’re not in England, still do the steps below, but treat legal “rules” as **often/typically** rather than guaranteed, and use local housing advice if anything is disputed.
+2. **Use the "Tell Us Once" and "Death Notification Service" to notify relevant institutions immediately.**
+   - Access the Tell Us Once service via GOV.UK to notify the local council and Department for Work and Pensions (DWP) in one step.
+   - Use the Death Notification Service (online) to notify major UK banks and building societies of the death simultaneously.
 
-3. **Find the “authority” person (or name yourself as the contact for now)**
-   - Look for a will and the named **executor**.
-   - If there is no will yet / no executor able to act, there may need to be an **administrator**.
-   - If you’re not the executor/administrator, you can still **notify** organisations of the death, but you may not be able to **make binding decisions** (like ending a tenancy) until an authorised person is in place.
+3. **Establish who has the legal authority to manage the deceased person's financial affairs.**
+   - Locate the will to identify the named executors.
+   - If no will exists, identify who will apply for Letters of Administration (known as the Administrator).
+   - Recognize that while anyone can notify a landlord of a death, only the executor or administrator can legally end a tenancy or sell a property.
 
-4. **Contact the landlord/agent or mortgage lender today (even if you have no documents yet)**
-   - Say: the person has died, you’re identifying the executor/administrator, and you need a **short pause** while you provide documents.
-   - Ask for: the **account reference**, what **documents** they need (often a death certificate and proof of authority), and whether they will **pause late fees / enforcement** while this is sorted.
-   - Ask them to put what they need **in writing** (email/letter).
+4. **Contact the landlord or mortgage lender to request a formal bereavement pause.**
+   - Provide the account reference number and state clearly that the account holder has died.
+   - Request that they freeze interest, late fees, and enforcement actions while probate or administration is being arranged.
+   - Ask for a written list of the documents they require, such as a certified copy of the death certificate.
 
-5. **If it’s rent: separate “notifying the landlord” from “ending the tenancy”**
-   - Often, the tenancy **does not automatically end** on death, and rent can continue to accrue to the estate until the tenancy is properly ended or transferred (the details depend on tenancy type and UK nation).
-   - If it’s **private renting**, the executor/administrator can often ask the landlord to agree an early end date (sometimes called a **surrender**). Get a clear **end date in writing**, and confirmation of what will be owed up to that date.
-   - If it’s **council or housing association** housing, contact the council/housing association and ask specifically about **succession** (whether someone can take over the tenancy) and **who they’ll accept instructions from** while probate/authority is being arranged.
+5. **Follow nation-specific rules for tenancies to avoid accidental arrears or loss of rights.**
+   - **England:** From May 2026, mandatory possession for rent arrears (Ground 8) requires a threshold of 3 months' rent; notify the landlord to prevent reaching this threshold.
+   - **Wales:** Refer to the "Occupation Contract" (not tenancy agreement) and notify the "Community Landlord" or private landlord to discuss "succession" rights for occupants.
+   - **Scotland:** If the deceased had a "Scottish Secure Tenancy," check if occupants notified the landlord 12 months prior to the death, as this is a strict requirement for succession.
+   - **Northern Ireland:** For NIHE properties, be aware that rent remains due until the keys are formally returned; prioritize returning keys if the property is empty.
 
-6. **If it’s a mortgage: notify the lender’s bereavement team and prevent avoidable arrears**
-   - Call the lender/servicer and ask for their **bereavement / deceased customer** process and the exact documents they require.
-   - Ask what happens to upcoming payments while the estate is being administered, and what they need to speak to the executor/administrator.
-   - Check whether there is **mortgage life insurance** or other cover (paperwork, bank statements, or insurer letters). If cover exists, starting the claim can reduce pressure quickly.
+6. **Notify the mortgage lender's bereavement team to discuss payment options for the estate.**
+   - Ask for a "payment holiday" or "informal freeze" while the estate assets are valued and the executor is confirmed.
+   - Check the deceased person's records for mortgage life insurance or protection policies that may cover the balance.
 
-7. **Protect the home while you sort the paperwork**
-   - If the property is empty: ensure it’s secure, and that post is safe (important letters often arrive by post).
-   - Take photos of meter readings and the general condition if you’re worried about disputes later.
-   - Keep a simple log: date/time, who you spoke to, and what they said.
+7. **Secure the property without removing items that belong to the estate.**
+   - Ensure windows and doors are locked and take photographs of the property's current condition and meter readings.
+   - Keep a written log of every phone call, name, and date involving the landlord or lender.
 
 ## What can wait
-- You do not need to decide today whether the home will be sold, kept, or transferred.
-- You do not need to clear the property immediately (and you should not rush this if it could create conflict or confusion).
-- You do not need to fully understand probate before you make the first stabilising calls and get the account references.
-- You do not need to argue about responsibility right now — first get the landlord/lender into “pause and process” mode.
+- You do not need to decide immediately whether the property will be kept, sold, or vacated.
+- You do not need to settle the full balance of any arrears using your own funds today.
+- You do not need to clear the furniture or personal effects until the legal status of the tenancy or property is confirmed.
+- You do not need to fully understand the probate process before making the initial notification calls.
 
 ## Important reassurance
-This is a very common “administration shock” after a death: bills keep arriving as if nothing happened. Getting the right person recognised (executor/administrator) and making one clear notification call/email often reduces the immediate pressure.
+It is a standard procedural reality for bills and payment demands to continue arriving immediately after a death. Lenders and landlords in the UK have established bereavement protocols designed to handle these "limbo" periods, and making a formal notification usually moves the account into a protected status while the estate is settled.
 
 ## Scope note
-These are first steps only — just enough to stop avoidable arrears, prevent accidental agreements, and buy time. The right next steps depend on the tenancy type, who lived there, and which UK nation’s housing rules apply.
+This guide provides first-step stabilization only. It does not cover the long-term legal process of probate, the complexities of inheritance tax, or the specific details of varying tenancy types in Scotland, Wales, or Northern Ireland.
 
 ## Important note
-This guide is general information, not legal or financial advice. Housing and estate situations vary across the UK. If there’s a risk of eviction/repossession, dispute among family, or uncertainty about who can act, get advice from an appropriate UK advice service or a solicitor.
+This information is for general guidance and does not constitute legal or financial advice. Liability for rent and mortgages depends on specific contracts and UK regional law. If you are threatened with immediate eviction or repossession, contact a solicitor or a specialized UK housing advice service.
 
 ## Additional Resources
-- https://england.shelter.org.uk/housing_advice/private_renting/private_tenant_dies
-- https://england.shelter.org.uk/housing_advice/council_housing_association/council_housing_association_tenancies_tenant_dies
-- https://england.shelter.org.uk/housing_advice/council_housing_association/can_you_inherit_a_council_tenancy
-- https://england.shelter.org.uk/professional_resources/legal/renting/succession/succession_to_a_tenancy
-- https://www.gov.uk/probate-estate
 - https://www.citizensadvice.org.uk/family/death-and-wills/dealing-with-the-financial-affairs-of-someone-who-has-died/
+- https://www.citizensadvice.org.uk/housing/staying-in-your-council-home-when-someone-dies/stay-in-your-council-home-when-someone-dies/
+- https://www.moneyhelper.org.uk/en/family-and-care/death-and-bereavement/sorting-out-the-estate-when-there-is-a-will
+- https://assets.publishing.service.gov.uk/media/681c8ea243d6699b3c1d2a39/Bereavement_eLeaflet_updated_link_pdf.pdf
+- https://www.moneyhelper.org.uk/en/family-and-care/death-and-bereavement/dealing-with-the-debts-of-someone-has-died

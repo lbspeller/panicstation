@@ -1,84 +1,100 @@
-﻿---
+---
 title: "What to do if… you develop sudden swelling and pain in a joint and it feels hot to the touch"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - sudden hot swollen joint
-  - joint feels hot to touch
-  - sudden joint swelling and pain
-  - one joint suddenly painful
-  - red hot painful joint
-  - painful swollen knee suddenly
-  - painful swollen ankle suddenly
-  - big toe hot swollen pain
-  - could this be gout
-  - could this be joint infection
-  - sudden joint pain with fever
-  - can’t move joint because pain
-  - joint swelling after minor knock
-  - hot tender joint skin change
-  - new joint swelling overnight
-  - severe joint pain started suddenly
-  - swollen joint feels warm
-  - acute monoarthritis
-last_reviewed: "2026-02-10"
+  - "sudden hot swollen joint"
+  - "joint feels hot to touch"
+  - "sudden joint swelling and pain"
+  - "one joint suddenly painful"
+  - "red hot painful joint"
+  - "painful swollen knee suddenly"
+  - "painful swollen ankle suddenly"
+  - "big toe hot swollen pain"
+  - "help i have a hot swollen joint"
+  - "help i have a sudden painful knee"
+  - "what do i do if my joint is hot"
+  - "what do i do if my knee is swollen and hot"
+  - "what do i do if my joint is red and painful"
+  - "what do i do if i can't move my joint"
+  - "my joint is hot and swollen"
+  - "my ankle is painful and red"
+  - "my knee feels hot and painful"
+  - "my toe is swollen and red"
+  - "hot tender joint skin change"
+  - "new joint swelling overnight"
+  - "severe joint pain started suddenly"
+  - "swollen joint feels warm"
+  - "acute monoarthritis symptoms"
+  - "signs of septic arthritis"
+  - "signs of gout in toe"
+  - "red skin on joint"
+  - "joint infection indicators"
+  - "unable to walk joint pain"
+  - "shivering with joint pain"
+  - "fever and joint swelling"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you develop sudden swelling and pain in a joint and it feels hot to the touch (UK)
+
 ## Short answer
-Treat a sudden hot, swollen, painful joint as **urgent**: get **same-day medical assessment** via **NHS 111** or an **urgent GP appointment** (or **A&E** if you’re very unwell or can’t use the joint).
+Treat a sudden hot, swollen, painful joint as a medical urgency and obtain a **same-day clinical assessment** via **NHS 111**, an **urgent GP appointment**, or **A&E** if systemic symptoms like fever or confusion are present.
 
 ## Do not do these things
-- Do not delay seeking help if the joint is **hot, swollen, and very painful**, especially if it started suddenly.
-- Do not take **leftover antibiotics** or someone else’s prescription (it can delay correct diagnosis and testing).
-- Do not apply **heat**, deep massage, or try to “work it loose” through severe pain.
-- Do not try to **drain**, puncture, or squeeze anything around the joint.
-- Do not keep **weight-bearing** on the joint if walking/using it sharply increases pain.
+- Do not delay seeking medical advice; joint infections (septic arthritis) can cause permanent damage within hours if untreated.
+- Do not apply direct heat, hot water, or deep heat creams to the joint.
+- Do not attempt to "walk off" the pain or "work the joint loose" through exercise.
+- Do not take any leftover antibiotics or medications prescribed for someone else.
+- Do not stop taking any currently prescribed long-term medications (such as allopurinol for gout) unless specifically instructed by a doctor during this episode.
+- Do not attempt to drain or puncture the swelling yourself.
 
 ## What to do now
-1. **Get urgent help today**
-   - Contact **NHS 111** (phone or online) and say: “**sudden hot, swollen, painful joint**.”
-   - If you can access it quickly, ask your GP practice for an **urgent same-day appointment**.
-   - Go to **A&E now** (or call **999/112** if you’re too unwell to travel safely) if any of these apply:
-     - you feel **very unwell** (confused, faint, rapidly worsening)
-     - you have a **high temperature** or feel **hot, cold, or shivery**
-     - the pain is so severe you **can’t move or use** the joint
-     - you have a **prosthetic (replacement) joint**, are **immunosuppressed**, recently had a **joint injection/surgery**, or there’s **spreading redness** around the joint
+1.  **Access urgent medical assessment immediately**
+    - **Contact NHS 111 (phone or online) immediately** if your GP surgery is closed or you cannot get an urgent appointment.
+    - **Request an urgent same-day appointment** if your GP surgery is open.
+    - **Go to A&E or call 999** if the pain is following a severe injury, or if you have the joint pain alongside:
+        - a high temperature, cold shivers (rigors), or feeling generally very unwell
+        - a rapid heartbeat or sudden confusion
+        - a replacement (prosthetic) joint in that location
+        - an inability to move the joint at all or put any weight on the limb.
 
-2. **Protect the joint while you arrange care**
-   - **Rest** the joint; stop the activity you were doing.
-   - If it’s a leg joint, avoid walking on it; if it’s an arm/hand joint, keep it supported.
-   - **Remove rings, watches, or tight items** near the swollen area early (swelling can increase).
-   - If it helps, use a **cool pack** wrapped in cloth for 10–15 minutes at a time (don’t put ice directly on skin).
+2.  **Immobilise and support the affected area**
+    - **Stop all weight-bearing activities** if the pain is in a leg, hip, or ankle; use crutches or a wheelchair if available.
+    - **Keep the limb elevated** above the level of your heart where possible to reduce swelling.
+    - **Remove any restrictive items** such as rings, watches, or tight clothing near the joint, as swelling may increase rapidly.
 
-3. **Note key details (takes 60 seconds)**
-   - When it started (rough time), which joint, and whether it came on **suddenly**.
-   - Any **fever** (if you can, take your temperature).
-   - Any recent **injury**, skin break, bite, infection elsewhere, **joint injection**, or surgery.
-   - Your key conditions/meds (e.g., diabetes, steroids, immune-suppressing meds, blood thinners).
-   - Keep these notes ready for 111/GP/A&E.
+3.  **Manage the temperature of the joint**
+    - **Apply an ice pack (or a bag of frozen peas)** wrapped in a clean towel to the area.
+    - **Limit application to 20 minutes** every 2 to 3 hours.
+    - **Check the skin regularly** to ensure no ice burns occur; never place ice directly against the skin.
 
-4. **Pain relief, only if safe for you**
-   - If you can usually take it, consider **paracetamol** as directed on the packet.
-   - Only consider an NSAID (like ibuprofen) if you **usually tolerate it** and you’ve **not** been told to avoid it (for example due to kidney disease, stomach ulcer/bleeding history, or certain blood thinners). If unsure, ask **NHS 111**, your GP practice, or a pharmacist.
+4.  **Prepare information for the clinician**
+    - **Record the exact time the pain and swelling started** and whether it appeared "out of the blue" or over several hours.
+    - **Note any recent triggers** such as a cut, an animal bite, a recent illness, a joint injection, or surgery.
+    - **Identify if the skin is red or discoloured** (note: redness may be harder to see on brown or black skin, so focus on heat and swelling).
+    - **List your current medications**, especially blood thinners, steroids, or diabetes medication.
+
+5.  **Use simple pain relief only if safe**
+    - **Take paracetamol** if you are not allergic and it is safe for you, following the packet instructions.
+    - **Avoid ibuprofen or other NSAIDs** until you have spoken to a clinician if you have a history of stomach ulcers, kidney disease, asthma, or take blood-thinning medication.
 
 ## What can wait
-- You do **not** need to decide whether it’s gout, infection, or “just a sprain” right now — the priority is **same-day assessment**.
-- You do **not** need to research diets, long-term arthritis plans, or supplements today.
-- You do **not** need to push through exercises or “test it” repeatedly.
+- You do not need to determine the cause (e.g., gout vs. infection) yourself; this requires professional testing of blood or joint fluid.
+- You do not need to research long-term dietary changes or supplements today.
+- You do not need to decide on long-term activity modifications until the acute stage is resolved.
 
 ## Important reassurance
-Sudden hot, swollen joint pain is alarming because it can change quickly and limit movement. Getting assessed urgently is a steady, sensible move — it’s about **ruling out serious causes early** and protecting the joint.
+It is normal to feel significant alarm when a joint suddenly becomes hot and unusable. These symptoms are recognized as a priority by the NHS; seeking immediate help is the standard and correct protocol to ensure the joint is protected and the cause is treated effectively.
 
 ## Scope note
-These are first steps for the next few hours. Diagnosis (including whether joint fluid needs testing) and treatment decisions belong to a clinician assessing you in person.
+This guide provides first-step stabilization and triage instructions. It does not replace a physical examination, joint aspiration, or blood tests required for a definitive diagnosis.
 
 ## Important note
-This guide is general information, not a diagnosis. If you are rapidly worsening, very unwell, or cannot safely get to care, seek emergency help.
+Septic arthritis is a medical emergency that can lead to joint destruction or sepsis. If symptoms worsen rapidly, or if you feel faint or confused, seek emergency care immediately.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/joint-pain/
 - https://www.nhs.uk/conditions/septic-arthritis/
-- https://www.nidirect.gov.uk/conditions/septic-arthritis
-- https://rightdecisions.scot.nhs.uk/media/skdbjx00/non-traumatic-painful-joint.pdf
-- https://www.uhsussex.nhs.uk/resources/knee-pain-emergency-department-leaflet/
+- https://www.nhs.uk/conditions/gout/
+- https://www.nhs.uk/conditions/bursitis/
+- https://www.nhs.uk/conditions/reactive-arthritis/

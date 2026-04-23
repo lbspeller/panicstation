@@ -1,74 +1,86 @@
-﻿---
+---
 title: "What to do if… you receive a legal threat from a former employer about contacting clients or colleagues"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - legal threat former employer
-  - cease and desist work letter
-  - demand letter ex employer
-  - lawyer letter after leaving job
-  - client non solicitation clause
-  - coworker non solicitation clause
-  - restrictive covenant employment dispute
-  - noncompete agreement threat
-  - threatened lawsuit from employer
-  - threatened injunction or tro
-  - trade secrets allegation work
-  - confidentiality agreement after leaving
-  - contacting former clients risk
-  - contacting former colleagues risk
-  - preserve evidence employment dispute
-  - worried about being sued work
-  - state law noncompete confusion
-  - bar referral find lawyer
-last_reviewed: "2026-01-08"
+  - "urgent gift card request at work"
+  - "fake boss asking for gift cards"
+  - "boss needs gift cards for clients"
+  - "business email compromise"
+  - "help i bought gift cards for my boss"
+  - "my manager is texting me for money"
+  - "what do i do if my ceo emails me to buy gift cards"
+  - "what do i do if work asks for a wire transfer"
+  - "help i sent a zelle payment to a coworker"
+  - "what do i do if i shared gift card codes"
+  - "urgent confidential work request scam"
+  - "ceo fraud email"
+  - "manager whatsapp scam"
+  - "invoice fraud work"
+  - "vendor bank details change request"
+  - "payroll diversion scam"
+  - "requested to buy apple gift cards at work"
+  - "workplace payment scam help"
+  - "test payment request work"
+  - "suspicious urgent work email"
+  - "smelling a scam at work"
+  - "heard boss needs gift cards"
+  - "seen urgent invoice request"
+  - "received text from manager for payment"
+  - "fake boss email"
+  - "executive impersonation"
+  - "work gift card scam"
+  - "gift card codes work"
+  - "scammed by work email"
+  - "urgent payment for boss"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you receive a legal threat from a former employer about contacting clients or colleagues (USA)
+
 ## Short answer
-Pause any outreach that could look like client solicitation or coworker recruiting, preserve everything, and get state-specific legal advice before you respond.
+Stop all communication and do **not** send money or codes. Verify the request through a separate, pre-established channel (like a known phone number) and report the attempt to your IT or security department immediately.
 
 ## Do not do these things
-- Do not reply with a detailed explanation, apology, or admissions.
-- Do not ignore it if it threatens a temporary restraining order (TRO), injunction, or has a short deadline.
-- Do not contact clients or colleagues to “straighten it out” or ask what they told your former employer.
-- Do not delete texts, DMs, emails, call logs, or files (including anything on your phone or laptop).
-- Do not keep using any customer lists, pricing, templates, CRM exports, or documents from your former employer.
-- Do not vent about the dispute on social media or in industry/community groups.
+- Do not buy gift cards or share photos of the front or back of any card.
+- Do not send wire transfers, ACH payments, or use apps like Zelle, Venmo, or Cash App based on a text or email.
+- Do not perform any "test payments" to verify a new bank account or vendor.
+- Do not click links to "secure portals" or open attachments labeled as "urgent invoices" or "payment instructions."
+- Do not keep the request secret, even if the message insists on confidentiality or bypasses standard accounting procedures.
+- Do not reply to the suspicious message or use any contact information provided within it.
 
 ## What to do now
-1. **Freeze the risky conduct.** Until you understand your contract and your state’s rules, pause proactive, business-related contact with former clients/customers and any messages to former coworkers about joining you, switching vendors, moving accounts, or hiring.
-2. **Preserve the threat letter and your proof.** Save the envelope/email headers and attachments. Screenshot relevant messages. Write a basic timeline: who contacted whom first, when, and what was said.
-3. **Pull the agreements that matter.** Find:
-   - offer letter + any noncompete/non-solicit/non-disclosure agreement
-   - severance or separation agreement
-   - any bonus/commission “repayment” agreement tied to leaving
-   - any written policy you signed that’s referenced in the threat
-4. **Separate “people contact” issues from “information” issues.** Threats often bundle:
-   - non-solicitation / non-interference (clients or coworkers)
-   - confidentiality / trade secrets (files, lists, pricing, internal docs)  
-   If any company material is on your devices or cloud accounts, **stop using it and isolate it** (do not forward it; do not delete it).
-5. **Check for legal help you already have.** Look for legal expense coverage via insurance or an employee benefit. If the letter was sent to or copied to your new employer, keep any internal communication minimal and factual — and, when possible, do it after you’ve spoken to counsel.
-6. **Get state-specific counsel quickly.** Enforcement varies a lot by state and by wording. Use a state/local bar association lawyer-referral service or an employment attorney who regularly handles restrictive covenants.
-7. **If the threat is trying to stop you and coworkers discussing workplace conditions, note there may be legal protections.** In many private-sector workplaces, federal labor law protects certain group discussions about wages and working conditions. Coverage is not universal (for example, many supervisors/managers, independent contractors, and some public-sector workers are treated differently). If you think the letter is targeting that kind of protected activity, consider contacting the National Labor Relations Board (NLRB) for guidance.
-8. **If you must respond before you have a lawyer, send a holding reply only.** Confirm receipt, say you’re seeking counsel, and ask them to identify the specific clauses and specific alleged contacts (names/dates). Do not provide your narrative or documents yet.
+1. **Stop the transaction immediately and disconnect.** If you are currently at a store, on a call, or logged into a banking portal, stop all actions and hang up the phone.
+   - Scammers often stay on the line to prevent you from speaking to others; end the connection now.
+2. **Verify the request using a known, trusted contact method.** **Call the person who supposedly sent the message using a number from your company directory or one you have previously used.**
+   - Do not use the phone number provided in the suspicious message.
+   - If the person is unavailable, assume the request is a scam and do not proceed.
+3. **Report the incident to your internal security or IT team.** **Forward the suspicious email as an attachment (do not just click "forward") or provide screenshots of text/WhatsApp messages to your company's security lead.**
+   - Inform your finance or payroll department if the request involved changing vendor details or direct deposit information.
+4. **Contact your financial institution if money was moved.** **Call your bank immediately to report a fraudulent transfer and specifically request a "Hold Harmless Letter" or "Letter of Indemnity" to assist in the recovery process.**
+   - If you used a payment app (Zelle, Venmo), report the fraud within the app and contact the linked bank account issuer.
+5. **Contact the gift card issuer if codes were shared.** **Find the "Report Fraud" contact for the specific card brand (e.g., Apple, Google Play, Amazon) immediately and provide the card numbers and receipt details.**
+   - Ask if the funds can be frozen or if a refund is possible, though recovery is time-sensitive and not guaranteed.
+6. **File federal reports with the FTC and FBI.** **Submit a report at ReportFraud.ftc.gov and file a complaint at IC3.gov, specifically labeling it as "Business Email Compromise" (BEC).**
+   - Provide as much detail as possible, including headers, phone numbers, and payment instructions used by the scammer.
+7. **Secure your work accounts if credentials were shared.** **Notify your IT department if you entered your password into any link or portal provided in the message so they can reset your credentials and check for unauthorized access.**
 
 ## What can wait
-- You do not need to decide today whether to change jobs, rebrand, relocate, or shut down your business plans.
-- You do not need to sign an “undertaking” or settlement terms without legal review.
-- You do not need to “prove you’re right” to clients or coworkers right now.
-- You do not need to argue enforceability until you’ve mapped your state law and your facts.
+- You do not need to figure out how the scammer got your information or whose account was hacked.
+- You do not need to worry about being disciplined for double-checking an "urgent" request from an executive.
+- You do not need to confront the scammer or try to "trap" them; let law enforcement and security teams handle investigation.
 
 ## Important reassurance
-A threatening letter can feel like an emergency, but your safest first move is to slow down and avoid creating new facts (new outreach, deleted evidence, or accidental admissions). Preserving records and getting local legal advice puts you back in control.
+These scams are professional operations designed to exploit workplace urgency and the desire to be helpful. Being targeted does not mean you have failed; stopping to verify is the correct professional response. Most companies prefer a slight delay for verification over a permanent financial loss.
 
 ## Scope note
-These are first steps only. The enforceability of noncompete and non-solicit terms is highly state- and fact-specific, and the best response depends on the exact language and what you actually did.
+This guide provides first-step stabilization for identifying and stopping an active workplace payment scam. It does not cover long-term corporate security audits or legal recovery of lost business funds.
 
 ## Important note
-This guide is general information, not legal advice. If the letter mentions a TRO/injunction or a near deadline, treat it as urgent and consult a qualified attorney in your state.
+This information is for general guidance and does not constitute legal or financial advice. Recovery of funds lost to gift card scams or wire fraud is extremely difficult and depends on the speed of reporting and individual bank policies.
 
 ## Additional Resources
-- https://www.nlrb.gov/about-nlrb/rights-we-protect/our-enforcement-activity/protected-concerted-activity
-- https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/your-rights-to-discuss-wages
-- https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/
+- https://www.eeoc.gov/youth/retaliation-faqs
+- https://www.eeoc.gov/laws/guidance/questions-and-answers-enforcement-guidance-retaliation-and-related-issues
+- https://www.atg.wa.gov/labor-and-antitrust
+- https://oag.ca.gov/news/press-releases/attorney-general-bonta-issues-consumer-alert-reminding-california-workers-their
+- https://ag.ny.gov/resources/individuals/workers-rights/noncompete-agreements

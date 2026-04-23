@@ -1,90 +1,104 @@
-﻿---
+---
 title: "What to do if… you start a new medicine and feel faint, unusually restless, or severely sweaty"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - new medicine feels faint
-  - started medication dizzy
-  - lightheaded after tablets
-  - sweating a lot after medicine
-  - sudden sweating on meds
-  - unusually restless after medication
-  - agitation after new prescription
-  - side effect after first dose
-  - reaction to new medicine
-  - drug reaction symptoms
-  - nearly fainting after medication
-  - shaky sweaty lightheaded
-  - medication made me feel weird
-  - started antidepressant sweaty
-  - started antibiotic dizzy
-  - started painkiller faint
-  - fast heartbeat and sweating on meds
-  - hot flushes after medication
-  - medication side effects urgent
-  - when to call 111 for side effects
-last_reviewed: "2026-02-21"
+  - "new medicine feels faint"
+  - "started medication dizzy"
+  - "lightheaded after tablets"
+  - "sweating a lot after medicine"
+  - "sudden sweating on meds"
+  - "unusually restless after medication"
+  - "agitation after new prescription"
+  - "side effect after first dose"
+  - "reaction to new medicine"
+  - "drug reaction symptoms"
+  - "nearly fainting after medication"
+  - "shaky sweaty lightheaded"
+  - "medication made me feel weird"
+  - "started antidepressant sweaty"
+  - "started antibiotic dizzy"
+  - "started painkiller faint"
+  - "fast heartbeat and sweating on meds"
+  - "hot flushes after medication"
+  - "medication side effects urgent"
+  - "what do i do if i feel faint on new meds"
+  - "what do i do if i am sweating on medication"
+  - "what do i do if i am restless after pills"
+  - "what do i do if medicine makes me dizzy"
+  - "help i feel faint after my medicine"
+  - "help i am sweating after new tablets"
+  - "help i feel agitated on new meds"
+  - "help i feel shaky on medication"
+  - "my medicine makes me feel lightheaded"
+  - "my tablets make me restless"
+  - "muscle twitching on new antidepressants"
+  - "serotonin syndrome symptoms uk"
+  - "feeling weird after first dose"
+  - "unsteady after starting prescription"
+  - "new medicine panic attack or side effect"
+  - "when to call 111 for side effects"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you start a new medicine and feel faint, unusually restless, or severely sweaty (UK)
 
 ## Short answer
-Treat this as potentially urgent: sit or lie down safely and get same-day advice. If you have any signs of a severe allergic reaction or you collapse, call 999.
+Treat these symptoms as potentially urgent: lie down flat immediately to prevent a fall and seek same-day clinical advice via NHS 111 or your prescriber. Call 999 if you experience any swelling of the face, difficulty breathing, or if you collapse.
 
 ## Do not do these things
-- Do not drive, cycle, or “push through it” to get somewhere while you feel faint or unsteady.
-- Do not take another dose “to see if it settles” until you’ve checked what to do with a clinician or pharmacist.
-- Do not suddenly stop a prescribed medicine without advice unless you’re being told to by an emergency clinician (some medicines need tapering).
-- Do not drink alcohol or take recreational drugs “to calm down” — it can worsen side effects and make it harder to assess what’s happening.
-- Do not stay alone if you feel like you might pass out, especially after a first dose or a dose increase.
+- Do not drive, cycle, or operate machinery while feeling unsteady, faint, or unusually agitated.
+- Do not take a second dose of the medication until you have spoken to a healthcare professional.
+- Do not suddenly stop a prescribed medication without advice unless instructed by an emergency clinician, as some drugs require gradual tapering to avoid withdrawal.
+- Do not drink alcohol or use recreational substances to manage the restlessness; this can mask or worsen the reaction.
+- Do not try to "walk off" the faintness; staying upright increases the risk of a domestic fall or injury.
 
 ## What to do now
-1. **Get into a safer position immediately.**  
-   - If you feel faint: **lie flat** and, if you can, **raise your legs** on a cushion or chair.  
-   - If you’re short of breath: **sit upright** instead.  
-   - Loosen tight clothing and keep the room cool.
+1. **Get into a safe physical position immediately.**
+   - **Lie down flat on your back** to ensure blood flow reaches the brain.
+   - **Raise your legs** using cushions or a chair so they are higher than your heart.
+   - If you are short of breath, **sit upright** with your back supported instead of lying flat.
 
-2. **Check for “call 999 now” signs (don’t wait for them to get worse).** Call 999 if you have any of these, especially soon after taking the medicine:  
-   - Trouble breathing, wheeze, tight throat, swelling of face/lips/tongue, widespread hives/rash  
-   - Collapsing, fainting that does not quickly improve when lying flat, severe confusion  
-   - Severe chest pain, new one-sided weakness, seizure, or blue/grey lips
+2. **Check for emergency "Red Flag" symptoms.** Call 999 immediately if you notice:
+   - Swelling of the lips, face, tongue, or throat.
+   - New wheezing, a "tight" chest, or significant difficulty breathing.
+   - A widespread, itchy red rash or hives.
+   - Severe confusion, seizures, or blue/grey tinged lips or skin.
 
-3. **If you have an adrenaline auto-injector and you think this is anaphylaxis: use it and call 999.**  
-   Say “**anaphylaxis**” when you call. If symptoms are **not improving after about 5 minutes**, or they improve and then **return**, and you have a **second auto-injector**, use it (follow your device instructions).
+3. **Administer adrenaline if you have an auto-injector and suspect anaphylaxis.**
+   - **Use the device according to its specific brand instructions** (e.g., EpiPen, Jext).
+   - **Call 999 and clearly state "Anaphylaxis"** to the operator.
+   - If symptoms do not improve **after 5 minutes**, or if they return, **use a second auto-injector** if available.
 
-4. **If you are stable but still feel faint/restless/severely sweaty, get urgent advice today via NHS 111.**  
-   - **111 online** is generally for people aged **5 and over**.  
-   - **Call 111** if it’s for a **child under 5**, or if you cannot use the online service.  
-   Tell them: the medicine name/strength/dose, when you took it (and if it was a first dose or dose increase), your symptoms, and any other medicines/supplements you’ve taken.
+4. **Contact NHS 111 for urgent triage if you are stable but symptoms persist.**
+   - **Use 111 online** (for those aged 5 and over in England) or **call 111** (for children under 5 or if you cannot use the website).
+   - Have the medication packaging ready to provide the exact name, strength, and time of the last dose.
+   - Specifically mention if you are experiencing **muscle twitching, shivering, or high fever** alongside the restlessness and sweating.
 
-5. **Speak to a pharmacist the same day if you can’t reach the prescriber quickly.**  
-   Ask specifically: “Should I take my next dose?” and “Could this be a serious reaction or interaction with my other medicines?”
+5. **Alert a household member or neighbor.**
+   - **Ensure someone knows you are feeling unwell** and ask them to check on you every few minutes until you have received medical advice.
+   - Leave your front door unlocked if you are alone and expecting an ambulance.
 
-6. **If you have diabetes or are prone to low blood sugar, check it.**  
-   Treat low glucose as you’ve been advised to, and still seek advice if symptoms persist or you’re unsure.
-
-7. **Write down a quick “symptom timeline” now.**  
-   Note the time you took the medicine, when symptoms started, and any changes. Keep the packaging/leaflet handy — this helps 111/clinicians decide faster.
+6. **Check your blood sugar if you have diabetes.**
+   - **Test your levels immediately** as some new medications can affect glucose stability, mimicking faintness or sweating.
+   - Treat a "hypo" as you usually would, but still report the event to 111 or your GP.
 
 ## What can wait
-- You do not need to decide today whether you’ll keep taking the medicine long-term — the priority is **safety and getting the right immediate advice**.
-- You do not need to diagnose the cause (side effect vs. allergy vs. interaction) right now.
-- You can report suspected side effects later; first focus on getting assessed/triaged.
+- You do not need to decide whether to continue the treatment plan long-term right now; focus only on the current reaction.
+- You do not need to provide a formal "Yellow Card" report to the MHRA immediately; this can be done once you are stabilized.
+- You do not need to determine if this is an "allergy" versus a "side effect" yourself; let the clinician make that distinction.
 
 ## Important reassurance
-Feeling faint, unusually agitated/restless, or drenched in sweat after starting a new medicine can be frightening, and it’s reasonable to treat it as urgent. Many reactions are manageable once a clinician knows exactly what you took and what you’re feeling — the key is **not being alone with it and not taking extra doses until advised**.
+It is normal to feel anxious or startled when a new medicine causes physical symptoms like sweating or dizziness. Most of these episodes are manageable once assessed by a clinician. Lying down flat is the most effective way to manage the immediate feeling of faintness and prevents injury from falling.
 
 ## Scope note
-This is first-steps-only guidance for the first hours/day after symptoms start. Medication reactions and interactions can be complex, so same-day clinical triage is often the safest next move.
+This guide provides first-step stabilization for acute reactions occurring shortly after starting a new medication. It does not replace the need for professional clinical assessment or long-term management of side effects.
 
 ## Important note
-This is general information, not a diagnosis or a substitute for medical care. If you feel you might collapse, you’re struggling to breathe, or symptoms are rapidly worsening, call 999.
+This information is for guidance only and is not a substitute for professional medical advice, diagnosis, or treatment. Always follow the instructions provided in your medication's Patient Information Leaflet (PIL). If you feel your condition is life-threatening, call 999.
 
 ## Additional Resources
-- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
-- https://111.nhs.uk/
 - https://www.nhs.uk/conditions/anaphylaxis/
-- https://www.nhsinform.scot/illnesses-and-conditions/immune-system/anaphylaxis/
-- https://www.nhs.uk/symptoms/fainting/
+- https://www.chelwest.nhs.uk/your-visit/patient-leaflets/medicine-services/allergic-reactions
 - https://yellowcard.mhra.gov.uk/
-- https://www.resus.org.uk/library/additional-guidance/guidance-anaphylaxis/emergency-treatment-anaphylactic-reactions
+- https://www.gov.uk/report-problem-medicine-medical-device
+- https://yellowcard.mhra.gov.uk/medicines

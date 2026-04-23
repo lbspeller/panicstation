@@ -1,87 +1,111 @@
-﻿---
+---
 title: "What to do if… you suddenly have no running water in your home"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - no running water
-  - no water in house
-  - taps not working
-  - water shut off suddenly
-  - water outage at home
-  - low water pressure suddenly
-  - main water valve closed
-  - shutoff valve problem
-  - water utility outage
-  - boil water advisory worry
-  - safe drinking water emergency
-  - no water for toilet
-  - apartment no water
-  - landlord water issue
-  - private well no water
-  - emergency water shortage
-  - sudden loss of water
-last_reviewed: "2026-03-03"
+  - "no running water"
+  - "no water in house"
+  - "taps not working"
+  - "water shut off suddenly"
+  - "water outage at home"
+  - "low water pressure suddenly"
+  - "main water valve closed"
+  - "shutoff valve problem"
+  - "water utility outage"
+  - "boil water advisory worry"
+  - "safe drinking water emergency"
+  - "no water for toilet"
+  - "apartment no water"
+  - "landlord water issue"
+  - "private well no water"
+  - "emergency water shortage"
+  - "sudden loss of water"
+  - "what do i do if my water stopped"
+  - "what do i do if no water is coming out"
+  - "what do i do if the tap is dry"
+  - "what do i do if i have no water"
+  - "help i have no running water"
+  - "help i have no water in my apartment"
+  - "help i have no water in my house"
+  - "my faucet is not working"
+  - "smell of sewage no water"
+  - "air in pipes no water"
+  - "gurgling pipes no water"
+  - "brown water before outage"
+  - "no water in the morning"
+  - "water out at night"
+  - "water leak no pressure"
+  - "burst pipe no water"
+  - "frozen pipe no water"
+  - "emergency water storage needs"
+  - "cdc boil water instructions"
+  - "epa emergency water guidelines"
+  - "water main break protocol"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you suddenly have no running water in your home (USA)
+
 ## Short answer
-Figure out fast whether it’s your home (a shutoff/inside problem) or a broader outage (neighbors/utility), then follow local official guidance—especially if there’s any drinking-water advisory.
+Determine if the outage is isolated to your home or affects the whole neighborhood, then stop using any tap water for consumption until the utility confirms it is safe.
 
 ## Do not do these things
-- Don’t drink tap water “just in case” after pressure drops unless local officials say it’s safe (outages can trigger advisories).
-- Don’t assume the utility will know without reports—if your neighbors are out too, notify the water utility.
-- Don’t force a stuck main shutoff valve if you’re not confident (you can break it and create a leak).
-- Don’t use water from radiators/boilers/home heating systems for drinking or cooking.
-- Don’t ignore landlord/property management if you rent—report it immediately.
+- Don’t drink or cook with tap water until you confirm there is no Boil Water Advisory in effect.
+- Don’t use water or ice from a refrigerator dispenser, as these lines may contain contaminated water.
+- Don’t assume a home pitcher filter or refrigerator filter makes contaminated water safe.
+- Don’t force a stuck or corroded main shutoff valve, which can lead to a catastrophic indoor flood.
+- Don’t use water from boilers, radiators, or waterbeds for drinking or hygiene.
+- Don’t ignore signs of flooding or hissing sounds behind walls, which indicate a major leak.
 
 ## What to do now
-1. **Confirm whether it’s just your home or the whole area (2–5 minutes).**
-   - Check the **cold tap closest to where water enters the home** (often a kitchen sink) and one other tap.
-   - Ask a neighbor (or building group chat) if they also have no water or very low pressure.
+1. **Determine if the outage is limited to your property or is a neighborhood-wide issue.**
+   - Open the cold water tap at the lowest point of your home (often a basement or kitchen sink).
+   - Check with immediate neighbors or look outside for utility crews or water main breaks.
 
-2. **Check whether a shutoff has been turned off (only if you’re confident).**
-   - If you know where the **main shutoff** is and can check safely, confirm it hasn’t been turned off.
-   - If you’re unsure, in an apartment/condo, or anything looks damaged, stop and contact property management or a plumber.
+2. **Verify that your main water shutoff valve is in the open position.**
+   - Locate your main valve (usually in a basement, crawlspace, or near the water meter).
+   - If you have recently had a repair or a landlord visit, ensure the valve was not left closed.
+   - If the valve is open and you still have no water, the problem is likely external.
 
-3. **Look for signs that change what you do next.**
-   - If you see **leaks, flooding, or water damage**, get help fast (maintenance/plumber). If you can safely stop the water, do so; then focus on preventing electrical hazards.
-   - If there’s no leak and neighbors are also out, it’s likely a **utility interruption**.
+3. **Identify any immediate hazards such as flooding or electrical risks.**
+   - If you see standing water near electrical panels or outlets, do not enter the area.
+   - Contact an emergency plumber or your property manager immediately if you find a major leak inside the home.
 
-4. **Contact the right responder immediately.**
-   - **If neighbors are affected:** check the **water utility’s outage alerts/outage map** (if available) and call the utility to report “no water/low pressure.”
-   - **If only your unit is affected (or you rent):** contact **property management/landlord** and ask for the emergency maintenance process.
-   - **If you’re on a private well:** contact a **licensed well/pump service** (avoid DIY electrical work if you’re not trained).
+4. **Contact your local water utility or property management to report the loss of service.**
+   - Search "[Your City] water utility outage map" or call the number listed on your most recent water bill.
+   - If you rent, follow your lease's emergency maintenance protocol to report the outage.
+   - For private well users, check your circuit breaker first; if power is on but there is no water, contact a licensed well technician.
 
-5. **Treat the water as potentially unsafe until you know otherwise.**
-   - Follow **local utility and local/state health department notices**.
-   - If you’re under a **Boil Water Advisory**, CDC guidance is to bring water to a **rolling boil for 1 minute** (and **3 minutes above 6,500 feet**), then let it cool before use.
+5. **Begin using stored bottled water for all consumption and hygiene needs.**
+   - Use only bottled water for drinking, brushing teeth, making ice, and preparing food.
+   - If you must use tap water under a Boil Water Advisory, bring it to a **full rolling boil** (bubbles stay constant when stirred).
+   - **Boil for 1 minute** at altitudes below 5,000 feet.
+   - **Boil for 3 minutes** at altitudes of 5,000 feet or higher.
 
-6. **Cover basic needs safely while you wait for restoration.**
-   - Drinking/cooking: use **bottled water** or water you know is safe.
-   - Hygiene: use **hand sanitizer** if you can’t wash hands with soap and running water.
-   - Toilets: if you have safe non-drinking water available, you can often keep toilet flushing going by adding water to the bowl/tank carefully (avoid overflow).
+6. **Manage sanitation and hygiene without running water.**
+   - Use hand sanitizer containing at least 60% alcohol if you cannot wash hands with safe water.
+   - To flush a toilet, pour about 2 gallons of any water (even "gray" water from a bucket) quickly into the toilet bowl to trigger a manual flush.
 
-7. **If the outage will last, ration calmly and document.**
-   - Note the **time the water stopped**, any messages from the utility/landlord, and any visible issues (photos if there’s damage).
-   - As a preparedness benchmark, CDC recommends storing **at least 1 gallon of water per person per day for 3 days** (more for pets and higher needs). Use what you have safely and prioritize drinking and sanitation.
+7. **Track official updates from local health or utility departments.**
+   - Sign up for local emergency alerts (often via text or email) for updates on restoration and safety.
+   - Note the exact time the water stopped to help utility workers or plumbers diagnose the timeline.
 
 ## What can wait
-- You don’t need to troubleshoot every possible plumbing cause right now—first determine **utility vs home plumbing** and get the correct service involved.
-- You don’t need to decide about major repairs immediately unless there’s active damage (leaks/flooding).
-- You don’t need to “flush everything” until you’ve confirmed whether any advisory was issued and then follow local guidance.
+- You do not need to identify the exact mechanical cause of a utility-side outage.
+- You do not need to decide on permanent plumbing repairs until a professional assesses the system.
+- You do not need to flush your pipes or water heater until the utility officially declares the water safe and provides specific flushing instructions.
 
 ## Important reassurance
-Sudden loss of water is often a temporary utility issue, a building shutoff, or a simple valve problem. You’re not behind—the most important thing is to avoid unsafe water use and get accurate, local status from the utility or property management.
+Sudden water loss is a common occurrence due to water main repairs, utility maintenance, or building-wide shutoffs. Most municipal outages are resolved within hours. As long as you prioritize using bottled or boiled water, you are managing the situation safely.
 
 ## Scope note
-These are first steps to stabilize, reduce health risk, and prevent avoidable damage. Longer outages, contamination advisories, or repeated shutoffs may need professional plumbing and local public health guidance.
+This guide provides first-step stabilization for a sudden loss of water service. It does not cover technical plumbing repairs, well-pump mechanics, or long-term disaster recovery.
 
 ## Important note
-This guide is general information, not professional plumbing, medical, or legal advice. Follow instructions from your local water utility and local/state health department. If you have flooding, electrical hazards near water, or anyone becomes ill, prioritize immediate safety and emergency help.
+This information is for general guidance and is not a substitute for professional plumbing or medical advice. Always follow the specific instructions of your local water utility and the CDC regarding water safety. If you feel ill after consuming water during an outage, contact a healthcare provider.
 
 ## Additional Resources
 - https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html
-- https://www.cdc.gov/natural-disasters/psa-toolkit/boil-water-advisory.html
-- https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html
-- https://www.ready.gov/kit
 - https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water
+- https://www.cdc.gov/water-emergency/about/index.html
+- https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html
+- https://www.epa.gov/waterutilityresponse/water-decontamination-frequently-asked-questions-customers

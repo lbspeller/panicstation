@@ -1,77 +1,92 @@
-﻿---
+---
 title: "What to do if… you are asked to provide a DNA sample to help identify a person who died"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - asked for dna sample
-  - family dna reference sample
-  - dna swab for identification
-  - cheek swab for identification
-  - identify a deceased person
-  - body identification request
-  - asked by police for dna
-  - asked by coroner office
-  - asked by procurator fiscal
-  - bereavement sudden death admin
-  - disaster victim identification
-  - unidentified remains identification
-  - missing person found deceased
-  - dna sample consent questions
-  - dna sample privacy worries
-  - what happens to my dna sample
-  - dna database retention concern
-  - confirming identity of caller
-  - overwhelmed after notification
-last_reviewed: "2026-03-03"
+  - "asked for dna sample"
+  - "family dna reference sample"
+  - "dna swab for identification"
+  - "cheek swab for identification"
+  - "identify a deceased person"
+  - "body identification request"
+  - "unidentified remains identification"
+  - "missing person found deceased"
+  - "dna sample consent questions"
+  - "dna sample privacy worries"
+  - "what happens to my dna sample"
+  - "dna database retention concern"
+  - "confirming identity of caller"
+  - "help i am asked for dna"
+  - "help i need to provide dna"
+  - "help i have to give a swab"
+  - "what do i do if i am asked for dna"
+  - "what do i do if police ask for dna"
+  - "what do i do if coroner asks for dna"
+  - "my relative needs dna identification"
+  - "my family dna sample request"
+  - "smell of remains"
+  - "visible dental records"
+  - "finding personal items for dna"
+  - "dna swab procedure"
+  - "dna sample destruction rules"
+  - "dna reference sample UK"
+  - "familial dna request"
+  - "surrogate dna sample"
+  - "dna profile storage"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you are asked to provide a DNA sample to help identify a person who died (UK)
 
 ## Short answer
-Pause and verify who is asking and why, then only give a sample through an official, clearly explained process with a named contact and reference number.
+Verify the request through official channels (101 or the relevant legal authority), ask about the specific purpose under the Human Tissue Act 2004, and ensure the sample is collected via a documented, official process.
 
 ## Do not do these things
-- Don’t give a DNA sample to someone who contacts you informally (unknown number, “I’m from the police” with no verifiable details).
-- Don’t hand over a sample “on the spot” if you feel pressured, rushed, or unclear about what it’s for.
-- Don’t post or message photos of documents or personal details to “prove who you are” unless you’ve verified the official contact and method.
-- Don’t assume you must do it immediately; it’s reasonable to ask for time to think and to have the request explained.
-- Don’t substitute the official process with a consumer ancestry/health DNA kit unless the verified investigator explicitly tells you to use a specific route (official collection is usually needed for chain-of-custody).
+- Don't provide a DNA sample to anyone contacting you via social media or an unverified mobile number.
+- Don't feel obligated to give a sample "on the spot" during an initial notification or home visit without checking credentials.
+- Don't send photos of your ID or the deceased's personal documents to unverified email addresses.
+- Don't use a commercial ancestry DNA kit (e.g., 23andMe) as a substitute for an official sample unless specifically instructed by a verified Senior Investigating Officer (SIO).
+- Don't handle the deceased's personal items (like toothbrushes or hairbrushes) with bare hands if you are asked to provide them for "surrogate DNA" testing.
 
 ## What to do now
-1. **Get to a calmer pause and write down basics.** Note the caller’s name, role, organisation, phone number, and any reference/case number. If you’re shaken, ask them to repeat it slowly.
-2. **Verify the request using a trusted route.**
-   - **If they say they are police:** end the call, then call **101** (or your local force’s publicly listed number) and ask to be put through to the officer/unit using the name + reference number you wrote down.
-   - **If they mention a death investigation authority:** use **publicly listed** contact details to confirm the request:
-     - **England/Wales & Northern Ireland:** the **coroner’s office** for the area involved.
-     - **Scotland:** the **Procurator Fiscal** service for the area involved.
-3. **Ask the three essential questions (and take notes).**
-   - **Purpose:** “Is this purely to help identify the deceased/unidentified remains?”
-   - **Process:** “What exactly will you take (often a cheek swab), where, and who will collect it?”
-   - **What happens next:** “What will happen to the sample/profile afterwards (storage, access, and how long it may be kept)?”
-4. **Ask for a single point of contact.** Request a named contact (you may be offered a family liaison contact) so you’re not repeating your story to multiple people.
-5. **Check what ‘type’ of DNA they want.** They may ask for a **family reference sample** from you, or they may ask about the deceased person’s personal items (for example, a toothbrush). Only provide items if the verified official contact explains how they want them handled and collected.
-6. **If you agree, arrange the sample through an official collection method.** Prefer a scheduled appointment at a police station or other official location, or a documented home visit arranged by the verified authority, with identification checks and paperwork you can keep.
-7. **Ask for the consent/records in writing where possible.** Request a copy (paper or email) of what you’re consenting to, and ask what they can confirm about retention (in some identification contexts, retention may be long-term or indefinite).
-8. **Bring support if you can.** If you’re attending an appointment, take someone you trust to sit with you, take notes, and help you remember what was said.
+1. **Record the caller's full details and reference number.** 
+   - Write down their name, rank or job title, organisation (e.g., Police Force, Coroner's Office, or COPFS), and a direct department telephone number. 
+   - Request the unique case reference number or "Hermes" reference if it involves the UK Missing Persons Unit.
+2. **Verify the request using a trusted public telephone number.**
+   - **If the caller claims to be police:** Hang up, wait one minute for the line to clear, and call **101**. Ask the operator to verify the officer's identity and put you through to them or their unit.
+   - **If the caller is from a death investigation authority:** Use a separate device to look up the official contact details for the **Coroner's Office** (England/Wales/NI) or the **Crown Office and Procurator Fiscal Service (COPFS)** (Scotland) for that specific area. Call them back through their main switchboard.
+3. **Ask for the legal basis of the consent request.**
+   - Ask if the request is being made under the **Human Tissue Act 2004**. 
+   - Confirm if they are asking for a **Familial DNA sample** (from you) or a **Surrogate DNA sample** (from the deceased’s belongings).
+4. **Clarify the sample collection and destruction timeline.**
+   - **Purpose:** Confirm that the sample will only be used for the purpose of identification. 
+   - **Destruction:** In England and Wales, for identification purposes, your physical sample must usually be destroyed within 6 months once a profile is created. Ask for this to be confirmed in writing.
+   - **Retention:** Ask if the resulting DNA profile will be stored on the **Missing Persons DNA Database (MPDD)** and for how long.
+5. **Arrange for an official collection appointment.**
+   - Request that the sample (usually a mouth/cheek swab) be taken at a police station or an official clinical setting. 
+   - If a home visit is necessary, ask for the names of the two attending officers/officials in advance and check their ID cards upon arrival before allowing entry.
+6. **Request a copy of the signed consent form.**
+   - Ensure you receive a paper or digital copy of the form you sign, which should clearly state what you are consenting to, how the data will be used, and your rights to withdraw consent.
+7. **Identify a single point of contact for updates.**
+   - Ask for the name of the **Family Liaison Officer (FLO)** or the specific Coroner’s Officer/Precinct Officer who will handle your case to avoid repeating sensitive information to different departments.
 
 ## What can wait
-- You do not have to decide right now whether you’ll view the body, attend formal identification, or speak to media/extended family.
-- You do not have to understand all the forensic detail today; you only need the “who/why/how/what happens next” basics.
-- You do not need to make funeral or legal decisions before you’ve had a clear update on identification and next steps.
+- You do not need to decide on funeral arrangements until the identification is formally confirmed.
+- You do not need to speak to the media or provide statements about the deceased's life today.
+- You do not need to understand the complex science of DNA markers or "DNA-20+" kits to comply with the identification request.
+- You do not have to decide immediately whether to view the body.
 
 ## Important reassurance
-Being asked for DNA in this situation can feel shocking, invasive, or unreal. It’s also a practical tool used when visual identification isn’t possible or isn’t appropriate. You are allowed to slow the process down enough to understand and verify what’s being requested.
+It is normal to feel overwhelmed or suspicious when asked for DNA. This request is a standard procedural step when other forms of identification (such as visual ID or dental records) are not possible or definitive. Taking time to verify the official source is a responsible action and will not be viewed as uncooperative by legitimate authorities.
 
 ## Scope note
-These are first steps to help you verify the request, protect your privacy, and get through the next hours or days with less pressure. Later decisions (legal, investigative, or longer-term data concerns) may need specialist advice.
+This guide covers first-step stabilization and verification for DNA requests in identification cases only. It does not cover DNA requests for criminal investigations (PACE samples) or paternity disputes.
 
 ## Important note
-This is general information, not legal advice. Processes and retention practices vary by circumstance (for example, disaster victim identification versus a single death investigation). If anything feels unclear, you can pause, ask for the explanation in writing, and insist on a verified point of contact.
+This information is for general guidance and is not legal advice. Consent rules under the Human Tissue Act 2004 and the Scottish Biometrics Commissioner’s code of practice are specific and subject to change. If you have concerns about how your genetic data will be used, you may wish to consult a solicitor or the Information Commissioner’s Office (ICO).
 
 ## Additional Resources
-- https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1183088/DNA_factsheet_-Information_for_families.pdf
-- https://www.college.police.uk/app/civil-emergencies/disaster-victim-identification
-- https://www.college.police.uk/app/civil-emergencies/disaster-victim-identification/recovering-and-identifying-deceased-and-human-remains
-- https://www.college.police.uk/app/major-investigation-and-public-protection/missing-persons/missing-person-investigations
 - https://www.gov.uk/government/publications/autosomal-dna-relationship-testing-fsr-gui-0014/autosomal-dna-relationship-testing-accessible
-- https://www.gov.uk/government/publications/international-dna-and-fingerprint-exchange-policy-for-the-uk/forensic-information-database-service-finds-international-dna-and-fingerprint-exchange-policy-for-the-united-kingdom-accessible-version
+- https://www.hta.gov.uk/sites/default/files/2021-06/Guidance%20on%20consent%20and%20licensing%20requirements%20for%20removing%20samples%20from%20the%20deceased%20for%20testing.pdf
+- https://www.missingpeople.org.uk/get-help/help-services/how-police-search/found-deceased
+- https://www.missingpeople.org.uk/get-help/my-loved-one-is-missing/unidentified-bodies-and-remains
+- https://www.staffordshire.police.uk/SysSiteAssets/media/downloads/staffordshire/advice/bereavement-booklet.pdf

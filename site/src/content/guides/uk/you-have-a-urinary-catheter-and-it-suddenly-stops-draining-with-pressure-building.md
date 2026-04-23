@@ -1,85 +1,94 @@
-﻿---
+---
 title: "What to do if… you have a urinary catheter and it suddenly stops draining with pressure building"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - catheter not draining
-  - urinary catheter blocked
-  - foley catheter blockage
-  - leg bag not filling
-  - catheter stopped draining suddenly
-  - bladder pressure building
-  - bladder feels full with catheter
-  - catheter tubing kinked
-  - drainage bag air lock
-  - catheter bypassing leaking
-  - suprapubic catheter not draining
-  - urethral catheter not draining
-  - lower belly pressure catheter
-  - urine not flowing into bag
-  - catheter valve closed
-  - catheter blockage pain
-  - urine retention with catheter
-  - catheter debris or clots
-  - catheter emergency help uk
-last_reviewed: "2026-02-22"
+  - "catheter not draining"
+  - "blocked urinary catheter"
+  - "foley catheter blockage"
+  - "leg bag not filling"
+  - "catheter stopped draining suddenly"
+  - "bladder pressure building"
+  - "bladder feels full with catheter"
+  - "catheter tubing kinked"
+  - "urine bypassing catheter"
+  - "suprapubic catheter not draining"
+  - "urethral catheter not draining"
+  - "lower belly pressure catheter"
+  - "urine not flowing into bag"
+  - "catheter valve stuck"
+  - "catheter blockage pain"
+  - "urine retention with catheter"
+  - "catheter debris or clots"
+  - "help i cannot pee with catheter"
+  - "my catheter is not working"
+  - "my bladder is bursting with catheter"
+  - "no urine in catheter bag"
+  - "painful bladder with catheter"
+  - "leaking around catheter tube"
+  - "sediment in catheter tube"
+  - "cloudy urine catheter"
+  - "catheter pressure in tummy"
+  - "kinked catheter line"
+  - "full bladder sensation"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you have a urinary catheter and it suddenly stops draining with pressure building (UK)
+
 ## Short answer
-If you have a catheter and it stops draining **and you feel your bladder filling/pressure building**, treat this as **urgent**: do a 30–60 second check for a simple blockage, then **get urgent NHS help immediately** (district nurse / catheter service / NHS 111). If pain is severe or you can’t get help fast, go to **A&E** or call **999**.
+If your catheter stops draining and you feel bladder pressure, check immediately for physical kinks or a closed valve. If a quick check does not start the flow, **contact your District Nurse, Catheter Service, or NHS 111 immediately**, as this is a medical urgency that can lead to bladder damage or infection.
 
 ## Do not do these things
-- Do not **pull, cut, clamp, or remove** the catheter yourself.
-- Do not **force urine out** by pressing hard on your lower tummy.
-- Do not try to **flush/irrigate** the catheter unless you have been specifically trained and told to do so for your catheter.
-- Do not **rapidly drink large volumes** to “push it through” when you already feel very full/pressured. If you’re allowed fluids, stick to normal sips while you arrange urgent help.
-- Do not “wait and see” for hours if **no urine is draining** and pressure is building.
+- Do not **pull or attempt to remove** the catheter yourself.
+- Do not **cut the catheter tube** or the inflation balloon port.
+- Do not **squeeze or "milk" the tubing** (stripping) unless a nurse has specifically trained you to do this.
+- Do not **flush or irrigate** the catheter using a syringe unless you have been provided with the equipment and training for this specific purpose.
+- Do not **force urine out** by pressing or massaging your lower abdomen.
+- Do not **increase your fluid intake** significantly if no urine is exiting the body; stick to small sips.
 
 ## What to do now
-1. **Get into a safer, calmer setup (right now).**  
-   Sit or lie comfortably. Keep the drainage bag where you can see it. This reduces the risk of tugging or twisting the catheter while panicking.
+1. **Check for physical obstructions in the tubing immediately.**
+   - Ensure the tubing is not **kinked, twisted, or looped** under your body, clothing, or wheelchair/bed frame.
+   - Verify that the **catheter valve is in the "open" position** (usually lever pointed down) if you do not use a continuous drainage bag.
+   - Check that the **leg bag straps** are not so tight that they are pinching the tube.
 
-2. **Do a fast 30–60 second “simple blockage” check (don’t delay beyond this):**  
-   - Make sure the **drainage bag is below bladder level** (below your lower tummy), not on a chair/bed above you.  
-   - Check the **tubing is not kinked, twisted, looped**, trapped under your thigh/body, or pulled tight.  
-   - If you use a **catheter valve**, make sure it’s **open**. If you normally keep it connected to a bag, ensure the connection is **secure**—but **don’t disconnect** things unnecessarily.
-   - If the bag is very full, **empty it** (a heavy bag can tug and interfere with flow).
+2. **Ensure the drainage bag is positioned correctly.**
+   - The bag must be **at least 30cm below the level of your bladder** at all times to allow gravity to pull the urine down.
+   - If the bag is more than half full, **empty it immediately**, as the weight of a full bag can cause the tube to kink at the connection point.
 
-3. **Change position once, gently.**  
-   Stand up (if safe), or roll slightly to the other side, or straighten your leg. Sometimes this releases a kink or improves drainage.
+3. **Change your physical position once.**
+   - **Stand up and walk a few steps** (if you are able) or roll onto your other side if in bed.
+   - This can sometimes shift the catheter tip away from the bladder wall or release a hidden kink in the tubing.
 
-4. **If it still won’t drain and pressure is building: get urgent NHS help now.**  
-   Use the quickest route available to you:  
-   - **Call your district nurse / continence or urology catheter service** if you have a contact number.  
-   - If you don’t, call **NHS 111** and say: “Urinary catheter stopped draining; bladder pressure/pain building; I think it’s blocked.”
+4. **Consider your bowel status.**
+   - Identify if you are **constipated or haven't opened your bowels** recently; a full rectum can press against the catheter and prevent drainage.
+   - Do not attempt to strain to resolve this now; simply note it for the medical professional you contact.
 
-5. **Escalate immediately if symptoms are severe or you can’t get help fast.**  
-   - Go to **A&E** if you are very uncomfortable or rapidly worsening.  
-   - Call **999** if pain is severe/unmanageable, you feel faint/collapse, you’re confused, or you cannot get to A&E safely.
+5. **Contact your urgent clinical support line.**
+   - **Call the District Nursing team or Urology/Continence service** using the number in your "Catheter Passport" or care folder.
+   - If you cannot find a direct number or it is out of hours, **call NHS 111** and state clearly: "My catheter has stopped draining, my bladder feels full, and I am in discomfort."
 
-6. **While waiting for help:**  
-   - Keep the bag **below bladder level** and tubing straight; avoid tugging.  
-   - If you can, note roughly **when it last drained** and whether you can see **debris/clots** in the tube or bag.  
-   - If you develop fever/chills, vomiting, confusion, worsening pain, or you feel faint: **escalate** (111/999 as above).
+6. **Escalate to emergency services for "Red Flag" symptoms.**
+   - **Go to A&E or call 999** if you experience severe, unmanageable abdominal pain.
+   - Seek immediate emergency help if you develop **signs of sepsis**, such as shivering (rigors), high fever, sudden confusion, or feeling very faint.
 
 ## What can wait
-- You do not need to decide **why** it blocked or whether you “did something wrong” right now.
-- You do not need to clean/change equipment beyond basic hand hygiene and keeping tubing unkinked.
-- You do not need to sort supplies, reorder bags, or plan long-term prevention until it’s draining again and you’ve been assessed.
+- You do not need to identify the exact cause (clots, sediment, or spasms) before seeking help.
+- You do not need to worry about the long-term schedule for your next catheter change.
+- You do not need to clean or replace the drainage bags or valves yourself while waiting for a clinician.
 
 ## Important reassurance
-A sudden stop in drainage can happen even when you’ve done everything right (positioning, kinks, debris, spasms). Feeling panicky with a “full bladder” sensation is normal—your job is simply: **quick check, then urgent help**.
+It is normal to feel an intense, distressing urge to urinate when a catheter blocks. This sensation is caused by the bladder wall pressing against the catheter balloon. While uncomfortable, this is a common mechanical issue that community nurses are equipped to fix quickly once they arrive.
 
 ## Scope note
-This is first-steps-only guidance for the moment your catheter stops draining with discomfort/pressure building. After it’s resolved, a clinician may suggest changes (catheter size/type, maintenance plan, review for infection or debris).
+This guide provides first-step stabilization for a suspected catheter blockage. It does not replace the specific instructions in your personalized Catheter Passport or the clinical judgment of your nursing team.
 
 ## Important note
-This guide is general information, not a diagnosis or a substitute for urgent medical care. A catheter that stops draining with building pressure can represent **urinary retention**, which needs prompt assessment and may require catheter change or specialist help.
+A blocked catheter that causes urine retention is a time-sensitive medical issue. If left unaddressed, it can lead to kidney strain or autonomic dysreflexia (in patients with high-level spinal cord injuries). Always seek professional assessment if the flow does not restart within minutes of troubleshooting.
 
 ## Additional Resources
-- https://www.uhsussex.nhs.uk/resources/catheters-advice-for-patients-discharged-from-the-emergency-department-with-a-new-urethral-catheter/
 - https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Catheter.pdf
 - https://www.esht.nhs.uk/wp-content/uploads/2024/04/1099.pdf
-- https://www.nhs.uk/tests-and-treatments/urinary-catheters/living-with/
-- https://www.nhs.uk/tests-and-treatments/urinary-catheters/risks/
+- https://www.dgft.nhs.uk/pil/catheter-care/
+- https://leedscommunityhealthcare.nhs.uk/our-services-a-z/continence-urology-and-colorectal-cucs/catheter-information-cucs/indwelling-urinary-catheter-cucs/
+- https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Suprapubic.pdf

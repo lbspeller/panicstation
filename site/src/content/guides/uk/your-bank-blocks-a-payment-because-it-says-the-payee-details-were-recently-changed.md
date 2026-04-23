@@ -1,87 +1,101 @@
-﻿---
+---
 title: "What to do if… your bank blocks a payment because it says the payee details were recently changed"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - bank blocked payment
-  - bank transfer blocked
-  - payment stopped for fraud checks
-  - payee details changed warning
-  - beneficiary details changed
-  - new payee flagged by bank
-  - invoice bank details changed
-  - supplier changed bank account
-  - landlord changed bank details
-  - builder changed bank details
-  - suspicious payee update
-  - confirmation of payee no match
-  - name mismatch sort code account
-  - bank app says payee changed
-  - scam warning on bank transfer
-  - invoice redirection scam
-  - authorised push payment scam risk
-  - payment delayed for verification
-last_reviewed: "2026-01-09"
+  - "bank blocked payment"
+  - "bank transfer blocked"
+  - "payment stopped for fraud checks"
+  - "payee details changed warning"
+  - "beneficiary details changed"
+  - "new payee flagged by bank"
+  - "invoice bank details changed"
+  - "supplier changed bank account"
+  - "landlord changed bank details"
+  - "builder changed bank details"
+  - "suspicious payee update"
+  - "confirmation of payee no match"
+  - "name mismatch sort code account"
+  - "bank app says payee changed"
+  - "scam warning on bank transfer"
+  - "invoice redirection scam"
+  - "authorised push payment scam risk"
+  - "payment delayed for verification"
+  - "what do i do if bank blocks payment"
+  - "what do i do if payee details changed"
+  - "what do i do if invoice details differ"
+  - "what do i do if bank warns of scam"
+  - "help i cant send bank transfer"
+  - "help i got a scam warning from bank"
+  - "help i think my invoice is a scam"
+  - "help i need to verify bank details"
+  - "my bank transfer was stopped"
+  - "my payee details were flagged"
+  - "my bank says account details changed"
+  - "my payment is being investigated"
+  - "smell of fraud warning"
+  - "notice of payment block"
+  - "see bank warning screen"
+  - "hear bank fraud advisor"
+  - "feel pressured to pay"
+  - "invoice bank account mismatch"
+  - "wrong account name warning"
+  - "payment held for four days"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your bank blocks a payment because it says the payee details were recently changed (UK)
+
 ## Short answer
-Pause and don’t try to force the payment through. Independently verify the payee’s bank details, then contact your bank using the number on your card or your in-app support to understand what changed and what they need to safely release the payment.
+Stop the transaction immediately and do not attempt to bypass the block. Independently verify the recipient's bank details using a trusted, pre-existing contact method before contacting your bank's official fraud department to discuss the flag.
 
 ## Do not do these things
-- Don’t retry repeatedly or split the payment into smaller transfers to “get around” the block.
-- Don’t rely on new bank details that arrived only by email/text/WhatsApp, especially if they “recently changed”.
-- Don’t call phone numbers or click links from messages about the block—use the number on your card, statement, or your bank’s official app.
-- Don’t share one-time passcodes, card reader codes, or approve in-app prompts you didn’t initiate.
-- Don’t let anyone rush you with urgency (“pay today or you’ll lose the booking/keys/discount”) while details are changing.
+- Don't attempt to bypass the block by splitting the amount into smaller transfers or using a different banking app.
+- Don't use contact details provided in the latest invoice, email, or message that triggered the change warning.
+- Don't share your banking passwords, one-time passcodes (OTPs), or card reader codes with anyone, even if they claim to be from your bank's fraud team.
+- Don't ignore a "No match" or "Close match" Confirmation of Payee (CoP) warning.
+- Don't allow a third party to rush or panic you into completing the payment during a "limited time" window.
 
 ## What to do now
-1. **Stop and capture the details.** Note (or screenshot) the exact warning, the amount, the payee name, sort code/account number you tried, the reference you used, and the time/date.
-2. **Assume “details changed” could mean a scam until proven otherwise.** This warning often appears with invoice/redirection scams (where someone tries to divert you to a “new account”).
-3. **Check whether the change happened inside your banking (not just in a message).**
-   - Review your payee/recipient list for anything you don’t recognise (new payees, edited payees, unusual references).
-   - If your bank shows recent logins/devices, check for anything unfamiliar and tell the bank immediately if you see it.
-4. **Verify the payee using a contact method you already trust.**
-   - Use a phone number you already had for them (old invoice/contract, official website), not the one in the “new details” message.
-   - Ask them to confirm the **account name** as well as sort code and account number (name-checking can fail if you use a trading name or shorthand).
-   - If it’s a business/supplier: ask for confirmation through an established portal/account you’ve used before.
-5. **Contact your bank through a trusted route and ask exactly what changed.**
-   - Use in-app secure chat/phone, or call the number on the back of your card.
-   - Ask: **“Which payee field changed (name, sort code, account number), when did it change, and what do you need me to do to verify it?”**
-   - If your bank uses **Confirmation of Payee**, ask what result you got (match/close match/no match/unavailable) and what payee name they recommend entering.
-6. **If the payee really did change details, slow the process down on purpose.**
-   - Get confirmation via a second channel (for example: you phone them after receiving an email, using an old number).
-   - For large/high-stakes payments (rent deposits, conveyancing, big invoices), follow any extra verification steps your bank requires before sending any funds.
-7. **If you must pay something time-critical, reduce damage without sending to newly changed details.**
-   - Contact whoever you owe using their official contact details and explain your bank is verifying changed payment details.
-   - Ask for a short grace period.
-   - If there’s an alternative, use only an **official** route you independently found (a known portal, a verified phone payment line, or another established method you’ve used before).
-8. **If anything feels off, keep the block in place and treat it as suspected fraud.**
-   - Tell your bank you suspect an **invoice redirection / APP scam** and ask them to check your account for suspicious changes.
-   - Change your online banking password (and any email password used for banking) and enable stronger sign-in checks if your bank offers them.
-9. **If money has already left your account, act immediately.**
-   - Contact your bank right away and ask them to try to **stop/recall** the transfer (what’s possible depends on the payment type and timing).
-   - Ask the bank how to make an **APP scam claim** (and whether reimbursement protections may apply in your circumstances).
-   - Report the fraud: in England, Wales and Northern Ireland this is typically via **Report Fraud/Action Fraud**; in Scotland, report to **Police Scotland**. If it’s an emergency or someone is threatening you, call **999**.
+1. **Secure the evidence of the block.** Capture a screenshot or note the exact wording of the warning message, the specific payee details (name, sort code, account number), the amount, and the time the block occurred.
+2. **Contact the recipient using a verified, independent channel.**
+   - Call a phone number you have used successfully in the past or one found on an official, established website.
+   - Speak directly to the person or a known representative; do not rely on email or text-based confirmation.
+   - Ask them to verbally confirm the full account name, sort code, and account number.
+3. **Check your own account for unauthorized changes.**
+   - Log in to your banking app directly (not via a link) and check if any new payees have been added or if existing payee details have been modified without your knowledge.
+   - Review your recent login history and active devices for any sessions you do not recognize.
+4. **Initiate contact with your bank via a known secure route.**
+   - Use the "Call us" feature inside your official banking app or the phone number printed on the back of your debit/credit card.
+   - Inform the bank that you have received a "details changed" warning and ask for the specific reason for the block.
+   - Ask the bank to confirm the Confirmation of Payee (CoP) result: "Match", "Close match", or "No match".
+5. **Prepare for a mandatory payment delay.** Be aware that under UK regulations, banks may legally delay a suspicious outbound payment for up to four business days to complete fraud investigations.
+6. **Provide the bank with the results of your independent verification.**
+   - Tell the bank that you have spoken to the recipient on a trusted number and confirmed the details.
+   - If the recipient confirms they have *not* changed their details, inform the bank immediately that you suspect an "Invoice Redirection" or "Mandate" scam.
+7. **Report the incident to the national fraud reporting service.**
+   - In England, Wales, or Northern Ireland, use the **Report Fraud** service (formerly Action Fraud) online at reportfraud.police.uk or call 0300 123 2040.
+   - In Scotland, contact **Police Scotland** by calling 101.
+8. **Request an APP Scam assessment if funds were partially released.**
+   - If any money left your account before the block, ask your bank to start an Authorised Push Payment (APP) scam claim.
+   - Under mandatory reimbursement rules, banks are generally required to reimburse victims of APP fraud within five business days, subject to a standard cap and assessment of "gross negligence".
 
 ## What can wait
-- You don’t need to decide today whether the payee is trustworthy or whether to escalate a complaint—first make sure you’re not sending money to the wrong place.
-- You don’t need to “fix it” by changing banks or changing every security setting at once—focus on verifying this payee and locking down your access.
-- You don’t need to argue with the payee while you’re stressed; you can simply say your bank requires verification because the details changed.
+- You do not need to decide whether to close your account or move banks right now; focus on securing this specific transaction first.
+- You do not need to provide the bank with a "guarantee" that the payee is safe; the bank only needs you to follow their verification protocol.
+- You do not need to settle any late payment fees or interest with the recipient until the security of the bank details is confirmed.
 
 ## Important reassurance
-This kind of block is a common anti-fraud measure and doesn’t mean you’ve done something wrong. Taking a pause here is exactly what prevents the most expensive mistakes.
+Bank blocks on changed payee details are a standard security feature designed to intercept "Invoice Redirection" scams. Receiving this warning does not mean you have done anything wrong; it means the system is working to prevent an irreversible loss of funds. Taking 24–48 hours to verify details is a normal and responsible response to a financial flag.
 
 ## Scope note
-This is first-step guidance for a blocked payment where payee details appear to have changed. For property transactions or anything involving a solicitor/conveyancer, follow their secure verification process and your bank’s checks before sending any funds.
+This guide covers first-step stabilization for a blocked UK bank transfer involving changed payee details. It does not cover long-term debt management, legal disputes over unpaid invoices, or complex business-to-business (B2B) payment recovery.
 
 ## Important note
-This is general information, not legal, financial, or banking advice. If you think you’re being scammed or pressured, prioritise slowing down and using trusted contact routes. If you’re unhappy with how your bank handled things, you can use the bank’s complaints process and then escalate to the Financial Ombudsman Service if needed.
+This information is for general guidance and does not constitute financial or legal advice. UK banking regulations, including the Payment Systems Regulator (PSR) reimbursement rules and the "Report Fraud" service protocols, are subject to specific eligibility criteria. If you are unhappy with your bank's final response, the Financial Ombudsman Service is the available escalation route for consumer complaints.
 
 ## Additional Resources
+- https://www.moneyhelper.org.uk/en/everyday-money/banking/making-phone-or-online-transfers
+- https://www.citizensadvice.org.uk/consumer/scams/check-if-something-might-be-a-scam/
 - https://www.fca.org.uk/consumers/fraudulent-payments
-- https://www.psr.org.uk/information-for-consumers/app-fraud-reimbursement-protections/
 - https://www.ukfinance.org.uk/policy-and-guidance/guidance/confirmation-payee
-- https://www.takefive-stopfraud.org.uk/
-- https://www.reportfraud.police.uk/contact-us/
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/fraud-scams
+- https://www.psr.org.uk/our-work/app-scams/confirmation-of-payee/

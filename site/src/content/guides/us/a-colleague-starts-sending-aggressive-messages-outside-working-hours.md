@@ -1,71 +1,97 @@
-﻿---
+---
 title: "What to do if… a colleague starts sending aggressive messages outside working hours"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - coworker aggressive messages
-  - colleague hostile texts
-  - abusive messages after hours
-  - harassment by text from coworker
-  - threatening coworker messages
-  - hostile slack messages
-  - angry teams messages
-  - after work intimidation
-  - unwanted contact from coworker
-  - workplace bullying texts
-  - coworker crossing boundaries
-  - escalating workplace harassment
-  - off duty work messages
-  - aggressive emails at night
-  - coworker stalking behavior
-  - hostile work environment messages
-  - report coworker harassment
-  - digital workplace harassment
-last_reviewed: "2026-01-07"
+  - "staffing agency changed end date"
+  - "temp assignment end date moved"
+  - "assignment cut short suddenly"
+  - "assignment extended unexpectedly"
+  - "recruiter changed last day"
+  - "temp job ending earlier than expected"
+  - "end date changed without reason"
+  - "client ended assignment early"
+  - "staffing contract end moved"
+  - "assignment ended early notice"
+  - "temp worker end date changed"
+  - "agency assignment shortened"
+  - "last day changed short notice"
+  - "schedule changed staffing agency"
+  - "unclear last day temp job"
+  - "assignment end date dispute"
+  - "sudden assignment change"
+  - "end date moved up"
+  - "end date moved back"
+  - "temporary assignment ending"
+  - "what do i do if assignment ends early"
+  - "what do i do if recruiter changes my end date"
+  - "what do i do if my temp job ends suddenly"
+  - "help i was told my assignment ends tomorrow"
+  - "help my staffing agency shortened my contract"
+  - "help i need to know my last day of work"
+  - "smell of burning bridge with agency"
+  - "visible sign of assignment termination"
+  - "unusual shift change notification"
+  - "sudden email about assignment ending"
+  - "wrong last day on timecard"
+  - "miscalculation of assignment length"
+  - "agency last day error"
+  - "staffing assignment confusion"
+  - "notified of contract end by client"
+  - "termination of temp role without notice"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a colleague starts sending aggressive messages outside working hours (USA)
 
 ## Short answer
-Stop engaging, save the messages, and report it promptly through your workplace reporting path (supervisor/HR) so it is documented and addressed. If there is any threat of violence or you feel unsafe, prioritize safety and contact emergency services.
+Request the specific new end date and the reason category in writing immediately, then formally request reassignment to preserve your eligibility for unemployment benefits.
 
 ## Do not do these things
-- Do not argue back or keep the conversation going to “set the record straight”.
-- Do not delete, edit, or selectively forward messages in a way that changes context.
-- Do not meet them alone to resolve it if you feel intimidated or unsafe.
-- Do not post about it publicly or rally coworkers in group chats (it can escalate and complicate investigations).
-- Do not assume “off-hours” means it’s not a workplace issue—especially if it affects work or your safety.
+- Do not stop reporting for work until you have a written instruction from the staffing agency (not just the client) to do so.
+- Do not rely on verbal agreements or phone calls regarding your final pay or last day.
+- Do not sign any document labeled "Voluntary Resignation" or "Mutual Separation" if the change was forced by the agency or client.
+- Do not leave the client site without securing physical or digital copies of your approved timecards and manager contact info.
+- Do not engage in arguments with client-site supervisors about the decision; they are generally not your legal employer.
 
 ## What to do now
-1. **Get a calmer pause.** Mute the thread/contact and turn on “do not disturb.” If any message suggests immediate harm, **call 911** and get to a safer place first.
-2. **Preserve evidence (before blocking).** Screenshot messages showing names/usernames and timestamps. If it’s on a work platform, save/export the conversation if possible. Write a quick log of incidents (date/time, platform, what was said, any witnesses, impact on you at work).
-3. **Stop using personal channels.** If they’re contacting your personal number or social accounts, move communication to work-only channels (work email/work chat) and silence personal channels after saving what you need.
-4. **Send one boundary message only (optional, and only if safe).** Example: “I’m not available outside work hours. Please keep communication professional and work-related. We can address this during work.” Then stop replying.
-5. **Report it through your employer’s process right away.** Notify your supervisor and/or HR and ask for the complaint to be documented. If your supervisor is involved or you don’t feel safe reporting to them, use an alternate reporting route in your policy (another manager, HR hotline, ethics/compliance line).
-6. **Use workplace safety channels if there are threats.** If messages include threats, stalking, or intimidation, ask HR/security for immediate steps (for example: a safety plan, a no-contact instruction, changing schedules/work location, escorts, or limiting access).
-7. **If you’re union-represented, use your representation rights in investigatory interviews.** If management wants to question you in a meeting you reasonably believe could lead to discipline, clearly request your union representative before continuing. (Employers may not remind you of this right.)
-8. **If it may be unlawful harassment or discrimination, label it clearly.** If the aggression involves protected characteristics (race, sex, religion, disability, etc.), or sexual content, state that in your report. Keep it factual: what happened, when, where (platform), and how it affected your work.
-9. **If your employer does not respond or retaliation starts, consider external options.** If you believe it involves discrimination/harassment under federal or state law, you can contact the EEOC (or a state fair employment agency). Deadlines can be short, so it can help to reach out early even if you’re not sure yet.
-10. **If contact continues or you fear for safety, escalate outside work too.** If there are threats or stalking behavior, consider contacting local law enforcement and let your employer know you’ve done so (especially if workplace access is involved).
+1. **Obtain written verification of the change from your recruiter** including the exact date and time of your final shift.
+   - Ask if you are expected to work out a notice period or if the assignment ends immediately.
+   - Clarify if the agency still considers you "active" for future placements.
+2. **Request a reason category in writing** such as "Project Completion," "Budgetary Reduction," or "End of Need."
+   - If the reason is performance-related, ask for a brief summary of the specific concerns cited by the client.
+3. **Submit a formal written request for reassignment immediately.**
+   - Many state unemployment laws require temp workers to contact their agency for a new assignment within 24 to 72 hours of an assignment ending to remain eligible for benefits.
+   - Send this via email or the agency's official portal so you have a time-stamped record.
+4. **Export all timekeeping records and performance documentation.**
+   - Take screenshots of your submitted and approved timecards for the current pay period.
+   - Save copies of any emails or messages from client supervisors praising your work or confirming your schedule.
+5. **Verify the final paycheck deadline for your specific state.**
+   - While federal law (FLSA) does not mandate immediate payment, states like California require immediate payment for involuntary termination, and others like Texas require it within six calendar days.
+   - Confirm with the agency's payroll department whether your final pay will be a physical check or a direct deposit.
+6. **File for unemployment benefits the first day you are fully out of work.**
+   - Provide the state agency with the staffing agency's corporate address, not the client-site address.
+   - Note that you are "Available for work" and have "Requested reassignment" as per your agency's policy.
+7. **Document any indicators of retaliation or discrimination.**
+   - If the date change occurred immediately after you reported a safety issue, requested an ADA accommodation, or reported harassment, record the timeline of events.
+   - Note any witnesses to the conversation where the date change was announced.
 
 ## What can wait
-- You do not need to decide tonight whether to quit, transfer, or pursue a legal claim.
-- You do not need to craft a perfect report right away—saving the messages and making a clear initial report is enough.
-- You do not need to confront them in person to “prove” it’s serious.
-- You can decide later whether to block them everywhere (save evidence first, then choose what helps you feel safe).
+- You do not need to decide whether to file a formal complaint with the EEOC or a state labor board today.
+- You do not need to update your resume or begin active job searching in the first hour of notification.
+- You do not need to return equipment (laptops/badges) until you have a documented hand-off procedure or shipping label from the agency.
 
 ## Important reassurance
-Being rattled by aggressive out-of-hours messages is a normal reaction. Moving this out of private back-and-forth and into a documented workplace process is a protective step that reduces risk and helps prevent escalation.
+Sudden changes to assignment end dates are a common structural feature of contingent labor and often reflect client-side budget shifts rather than your individual performance. Taking steps to document the change and request reassignment is a standard professional response that protects your legal and financial interests.
 
 ## Scope note
-These are immediate first steps to stabilize the situation and reduce harm. Longer-term decisions (formal investigations, accommodations, legal steps) can come later, ideally with support.
+This guide provides first-step stabilization for the immediate hours following a change in assignment status. It does not cover long-term legal strategies or specialized contract disputes.
 
 ## Important note
-This is general information, not legal advice. If you are in immediate danger, call 911. If you’re unsure how to report safely or you think the situation involves discrimination/harassment, consider speaking with HR, a union representative (if applicable), an employee assistance program, or an appropriate agency.
+This information is for general guidance and does not constitute legal advice. Employment laws, particularly regarding final pay and unemployment eligibility, vary significantly by state jurisdiction and specific contract terms. If you suspect your rights have been violated, consult with your state's Department of Labor or a qualified employment attorney.
 
 ## Additional Resources
-- https://www.eeoc.gov/harassment
-- https://www.eeoc.gov/filing-charge-discrimination
 - https://www.osha.gov/workplace-violence
-- https://www.cdc.gov/niosh/violence/about/index.html
-- https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/weingarten-rights
+- https://www.eeoc.gov/questions-and-answers-employees-harassment-work
+- https://www.eeoc.gov/laws/guidance/what-you-should-know-what-do-if-you-believe-you-have-been-harassed-work
+- https://www.eeoc.gov/retaliation
+- https://www.eeoc.gov/how-file-charge-employment-discrimination

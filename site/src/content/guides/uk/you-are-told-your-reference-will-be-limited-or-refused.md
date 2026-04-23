@@ -1,96 +1,90 @@
-﻿---
+---
 title: "What to do if… you are told your reference will be limited or refused"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - reference refused
-  - reference limited
-  - employer won't give reference
-  - hr reference only
-  - factual reference only
-  - employment dates title only
-  - reference policy
-  - job offer reference check
-  - new employer chasing reference
-  - reference delayed
-  - reference withdrawn
-  - worried about bad reference
-  - unfair misleading reference
-  - refusing reference after complaint
-  - regulated role reference
-  - regulated financial services reference
-  - regulatory reference requirement
-  - settlement agreement reference clause
-  - proof of employment letter
-  - leaving job no reference
-last_reviewed: "2026-01-07"
+  - "layoff rumours at work"
+  - "rumours of redundancy"
+  - "possible layoffs in department"
+  - "restructuring rumours"
+  - "headcount reduction rumours"
+  - "job cuts rumour"
+  - "hearing you may be redundant"
+  - "worried about redundancy selection"
+  - "redundancy consultation uncertainty"
+  - "collective redundancy rumours"
+  - "manager hints layoffs"
+  - "team downsizing rumour"
+  - "sudden reorg at work"
+  - "fear of job loss"
+  - "department budget cuts rumour"
+  - "employer cutting roles"
+  - "workplace layoff gossip"
+  - "at risk of redundancy"
+  - "what do i do if my company is laying off people"
+  - "what do i do if i hear rumours of layoffs"
+  - "what do i do if my department is being cut"
+  - "what do i do if i am at risk of redundancy"
+  - "help i heard rumours of layoffs"
+  - "help i might be made redundant"
+  - "help my company is restructuring"
+  - "help i am worried about my job"
+  - "smell of office gossip"
+  - "hushed meetings in office"
+  - "unexpected manager 121"
+  - "sudden calendar invites"
+  - "redundancy selection pool confusion"
+  - "redundency rumors"
+  - "lay-off rumors"
+  - "in a flat"
+  - "at the office"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told your reference will be limited or refused (UK)
+
 ## Short answer
-Pause and get clarity in writing on *what* they will (and won’t) say, then immediately line up alternative proof of employment and referees with your prospective employer.
+Avoid taking irreversible actions like resigning and begin gathering your personal employment documentation. Verify the situation through official company channels or your trade union representative to determine if a formal consultation period has been triggered.
 
 ## Do not do these things
-- Do not send angry messages or threats about “legal action” while you still need their cooperation.
-- Do not guess what they will say or repeat rumours to the new employer as fact.
-- Do not offer fake referees, fake emails, or edited documents.
-- Do not resign from your current role (or withdraw from a new offer) purely out of panic until you know what the new employer actually needs.
-- Do not assume you can force them to show you the reference through a data request — confidential employment references are often exempt from access rights, and you may not be entitled to see the wording.
+- Do not resign or "jump ship" based on unconfirmed rumours; doing so may forfeit your right to statutory redundancy pay or a notice period.
+- Do not remove, download, or forward company-confidential documents or internal data to personal accounts.
+- Do not sign any settlement agreements, revised contracts, or resignation letters during an initial "informal chat" without seeking advice.
+- Do not engage in public speculation or heated exchanges on internal messaging platforms (e.g., Slack, Teams).
+- Do not stop performing your daily duties, as this could provide grounds for a conduct-based dismissal unrelated to redundancy.
 
 ## What to do now
-1. **Get the exact position in writing (today).**  
-   Ask HR (or whoever handles references) to confirm:
-   - whether they will provide *any* reference at all
-   - whether it will be “factual only” (typically dates and job title)
-   - the correct contact method the new employer should use (generic HR inbox is fine)
-   - whether they have a written reference policy you can see
-
-2. **Ask for a “factual reference” / employment confirmation letter even if they won’t do a full reference.**  
-   Specifically request a short letter (or email from an official HR account) confirming:
-   - your employment dates
-   - your job title(s)
-   - whether you are currently employed (if true)
-
-3. **Check whether they are *required* to give a reference in your situation.**  
-   - Check your contract/offer paperwork for any written promise to provide a reference.  
-   - If the new role is in certain FCA/PRA-regulated financial services roles, the hiring firm may need a **regulatory reference** (for example under the Senior Managers & Certification Regime). Ask the prospective employer whether they need a regulatory reference, and if so what they require from your former/current employer.
-
-4. **Tell the prospective employer early, briefly, and with alternatives.**  
-   Use neutral wording: “My employer provides factual-only references (dates/title). Here are alternatives.”  
-   Offer **two or more** of:
-   - a manager/mentor reference from a different employer
-   - a professional character reference (not family)
-   - payslips, P45/P60, contract, offer letter, or HR employment confirmation letter (only what’s requested; redact unnecessary personal data)
-
-5. **If you believe they’ll give an unfair or misleading reference, switch into evidence-and-process mode.**  
-   - Ask the prospective employer whether they received anything that raised a concern and whether they can share the wording (some will, some won’t).  
-   - If you learn something specific and factual is wrong, write a short correction email to the referee/HR with:
-     - the inaccurate statement
-     - what is correct
-     - one supporting document (for example, a dated email, outcome letter, appraisal)
-
-6. **If you suspect discrimination or retaliation, keep a tight record and get early guidance.**  
-   Save screenshots/emails noting dates, who said what, and any link to a protected characteristic or to you raising a concern/complaint. If you may need to escalate, speak to ACAS promptly — formal deadlines can be short.
+1. **Locate and save copies of your essential employment documents.** Keep these in a secure place you can access outside of work systems.
+   - Your current signed employment contract and any written amendments.
+   - Recent payslips (last 3-6 months) and your latest P60.
+   - Documentation of your start date (for continuous service calculations).
+   - Your job description and recent performance review records.
+2. **Check for official internal announcements or HR updates.** Look for company-wide emails, intranet posts, or "town hall" recordings that mention restructuring, "headcount rationalisation," or budget adjustments.
+3. **Contact your Trade Union representative privately if you are a member.** Ask if they have been formally notified of proposed redundancies or if a "Section 188" notice (collective consultation) has been issued by the employer.
+4. **Clarify the status of any "quick chat" or unexpected meeting with your manager.** If invited to a meeting, ask in writing: "Is this meeting part of a formal redundancy consultation process, and may I be accompanied by a colleague or union representative?"
+5. **Identify if collective consultation thresholds have been met.** Under UK law, if an employer proposes 20 or more redundancies at one establishment within 90 days, they must follow specific collective consultation rules.
+   - Note that as of April 6, 2026, the maximum "protective award" for an employer’s failure to consult correctly has doubled to 180 days' gross pay per employee.
+6. **Request information on the proposed "selection pool" and criteria if a process starts.** Ask how the company decided which roles or departments are at risk and what objective measures (e.g., skills, attendance, performance) will be used for selection.
+7. **Verify your statutory redundancy pay eligibility.** If you have at least two years of continuous service, you are generally entitled to statutory redundancy pay based on your age and length of service.
+8. **Keep a factual, dated log of all relevant interactions.** Record the time, date, and content of conversations regarding the rumours or restructuring, especially if they occur verbally rather than in writing.
 
 ## What can wait
-- You do not need to decide today whether to raise a formal grievance or legal claim.
-- You do not need to write a long explanation of workplace history to the new employer.
-- You do not need to “clear your name” with everyone — focus on what the new employer needs to complete checks.
+- You do not need to decide on a voluntary redundancy package or a settlement offer immediately.
+- You do not need to calculate your final pension or benefit entitlements until a formal notice of redundancy is issued.
+- You do not need to submit a Subject Access Request (SAR) or formal grievance at the rumour stage unless you suspect immediate discrimination.
+- You do not need to update your CV or start applications during work hours until your status is clarified.
 
 ## Important reassurance
-A limited reference (for example, “dates and job title only”) is extremely common and often reflects company policy, not a judgement about you. Many employers can proceed with alternative verification once you present it clearly.
+Hearing rumours of job losses is a high-stress event that often triggers an immediate "fight or flight" response. It is normal to feel anxious or distracted. In the UK, the redundancy process is heavily regulated; employers must follow fair procedures and consult with staff before making final decisions. Taking a few days to gather information before acting helps protect your legal rights.
 
 ## Scope note
-This is first-steps guidance to stabilise the situation and prevent avoidable harm to your job search. If the issue escalates into a dispute (especially involving discrimination/retaliation, whistleblowing, or regulated roles), specialist advice may be needed.
+This guide covers first-step stabilization for the early "rumour" or "proposal" stage of redundancies in the UK. If you receive a formal "at risk" notification, you will require more detailed procedural guidance.
 
 ## Important note
-This is general information, not legal advice. Processes and rights can depend on your contract, sector, and why the reference is being limited or refused.
+This information is for general guidance and does not constitute legal advice. Employment rights vary based on your specific contract, length of service, and whether you are classified as an employee or a worker. For specific cases, consult Acas, a trade union, or a qualified employment solicitor.
 
 ## Additional Resources
-- https://www.gov.uk/work-reference
-- https://www.acas.org.uk/providing-a-job-reference
+- https://www.citizensadvice.org.uk/work/after-leaving-your-job/getting-a-job-reference/
 - https://www.acas.org.uk/providing-a-job-reference/what-employers-can-say-in-a-reference
+- https://www.acas.org.uk/providing-a-job-reference/if-you-cannot-get-a-reference
 - https://www.acas.org.uk/providing-a-job-reference/if-you-get-a-bad-reference
-- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/subject-access-request-q-and-as-for-employers/
-- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/right-of-access/exemptions-when-can-we-refuse-a-sar/
-- https://handbook.fca.org.uk/handbook/SYSC/22/2.html
+- https://www.acas.org.uk/providing-a-job-reference

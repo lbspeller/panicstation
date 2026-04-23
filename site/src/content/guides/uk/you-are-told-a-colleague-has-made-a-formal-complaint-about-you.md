@@ -1,79 +1,89 @@
-﻿---
+---
 title: "What to do if… you are told a colleague has made a formal complaint about you"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - colleague complaint about me
-  - formal complaint at work
-  - hr says complaint filed
-  - accused by coworker
-  - grievance about my behaviour
-  - disciplinary process started
-  - allegation at work
-  - bullying complaint at work
-  - harassment complaint at work
-  - told i'm being investigated
-  - complaint made against me
-  - called to hr meeting
-  - asked for my statement at work
-  - workplace investigation interview
-  - worried about losing my job
-  - told not to contact colleague
-  - asked to attend disciplinary hearing
-  - complaint escalated to formal
-last_reviewed: "2026-01-07"
+  - "told to sign today"
+  - "sign on the spot"
+  - "pressured settlement agreement"
+  - "settlement agreement on spot"
+  - "forced resignation letter"
+  - "resignation letter on spot"
+  - "asked to resign immediately"
+  - "hr asks to sign now"
+  - "surprise exit meeting"
+  - "sign or be dismissed threat"
+  - "quick signature request"
+  - "asked to waive claims"
+  - "settlement offer meeting"
+  - "resigning under pressure"
+  - "agreement without advice"
+  - "take document away"
+  - "verbal promises only"
+  - "sign without time"
+  - "exit paperwork pressure"
+  - "what do i do if forced to resign"
+  - "what do i do if asked to sign settlement"
+  - "what do i do if pressured by hr"
+  - "what do i do if given settlement offer"
+  - "help i have to sign today"
+  - "help i am being fired today"
+  - "help i am being asked to quit"
+  - "help i am in a surprise meeting"
+  - "my boss wants me to resign"
+  - "my hr says i must sign"
+  - "my employer offered a settlement"
+  - "my resignation letter is written for me"
+  - "smell of unfair dismissal"
+  - "hearing disciplinary charges"
+  - "seeing a lawyer for work"
+  - "feeling pressured at work"
+  - "threatened with dismissal"
+  - "workplace exit negotiations"
+  - "employment rights act 1996"
+  - "acas consideration period"
+  - "legal advice for settlement"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told a colleague has made a formal complaint about you (UK)
 
 ## Short answer
-Don’t contact the colleague who complained. Ask HR for a written summary of what’s alleged and which procedure is being used, then get support (union rep or suitable workplace companion) before you give a detailed response.
+Do not sign any document during the meeting. State that you require a copy of the paperwork and time to seek independent legal advice before making a decision.
 
 ## Do not do these things
-- Do not confront, message, “clear the air” with, or ask friends to pressure the colleague who complained.
-- Do not vent about it in work chats, Slack/Teams, email, or social media (even “anonymously”).
-- Do not delete, edit, or “tidy up” messages/files/notes that might be relevant (it can look like you’re hiding something).
-- Do not resign, accept blame, or sign a statement “just to make it go away” while you’re in shock.
-- Do not try to “gather intelligence” by questioning witnesses or comparing stories with coworkers.
-- Avoid covertly recording meetings. If you want an accurate record, ask for written minutes/notes, or ask permission to record (and follow your employer’s policy).
+- Do not sign a settlement agreement, resignation letter, or any "acknowledgment of terms" just to exit the room or end the stress of the meeting.
+- Do not write, type, or send a resignation email "to confirm" a verbal discussion if you do not want to leave your role.
+- Do not rely on verbal assurances regarding future payments, references, or the reason for leaving unless they are explicitly written in the final document.
+- Do not use work-monitored devices or email accounts to save copies of the agreement or your own notes; send these to a personal account immediately.
+- Do not engage in a detailed argument about the terms while in the meeting; your primary goal is to pause the process and secure the documents.
 
 ## What to do now
-1. **Get the basics in writing (today).** Ask HR for:
-   - a summary of what the complaint alleges (what conduct, roughly when/where)
-   - whether this is being handled as a **grievance** (your colleague’s complaint) and/or a **disciplinary** matter (possible action against you)
-   - the **policy/procedure** being used and the next steps
-2. **Clarify what kind of meeting you’re being called to.** Ask: “Is this an informal chat, an **investigation meeting**, a **grievance meeting**, or a **disciplinary hearing**?”
-3. **Ask what HR needs from you and by when.** For example: an interview, names of witnesses, or a written statement.
-4. **Use your right to be accompanied where it applies.**
-   - If you’re invited to a **grievance meeting** or a **disciplinary hearing** that could result in a formal warning or other disciplinary action, you can make a reasonable request to be accompanied by a companion (for example, a trade union representative or a work colleague).
-   - If it’s an **investigation meeting**, there is usually **no statutory right** to be accompanied, but you can still ask your employer to allow it as a reasonable adjustment to help you participate calmly.
-5. **Request what you need to prepare (without demanding).** Ask when you’ll receive the documents HR plans to rely on (for example, notes of allegations, relevant messages, witness summaries) and whether you can see them before any hearing.
-6. **Write your own timeline while it’s fresh (private, factual, dated).** Note:
-   - what you’ve been told (who said what, when)
-   - any relevant interactions/events (dates, locations, who was present)
-   - what records might exist (messages, rotas, meeting invites, work outputs)
-7. **Preserve relevant material safely.** Keep relevant emails/messages/notes intact and in place on work systems. Don’t forward confidential information to personal accounts or devices. If you’re worried your access could be removed, ask HR how you’ll be able to see the evidence later through the process.
-8. **Choose one calm support route.** If you have a union, contact them promptly. If you do not, identify a trusted colleague who could accompany you where permitted, and a separate person outside work for emotional support.
-9. **If you’re not thinking clearly, ask for a short pause.** If you’re asked for an immediate statement, say you want to cooperate but need reasonable time to review what’s alleged and respond carefully.
+1. **State clearly that you will not be signing any documents today.** You may use a neutral phrase such as: "I need to take these documents away and speak with an independent adviser before I can sign or agree to anything."
+2. **Request a physical or digital copy of all documents and take them with you.** Ensure you have the full settlement agreement, any schedules, any proposed resignation letters, and any "side letters" regarding references or confidentiality. If they refuse a physical copy, ask them to **email it to your personal address immediately** before you leave the room.
+3. **Ask for clarification on your current employment status.** Ask specifically: "Are you ending my employment today, or is this an invitation to negotiate an exit?" and "If I do not sign this, what is the next step in the formal process?"
+4. **Invoke the ACAS recommended consideration period.** Remind the employer that the ACAS Code of Practice recommends a minimum of **10 calendar days** for an employee to consider a settlement offer and seek advice. 
+5. **Check if the meeting is a formal disciplinary or grievance hearing.** If it is a formal hearing that could result in a warning or dismissal, you have a statutory right to be accompanied by a colleague or trade union representative. If your companion is unavailable, you have a legal right to **postpone the meeting for up to 5 working days** to allow them to attend.
+6. **Request confirmation of the employer's contribution to legal fees.** For a settlement agreement to be legally binding in the UK, you MUST receive advice from a "relevant independent adviser" (usually a solicitor or certified trade union official). Most employers will pay a fixed fee (often £250–£500+ VAT) for this advice; ask them to confirm this in writing.
+7. **Document the interaction immediately after leaving.** Write a chronological log of the meeting: who was there, the exact time it started and ended, any deadlines or threats mentioned (e.g., "if you don't sign now, you get nothing"), and how you felt pressured. 
 
 ## What can wait
-- You do not need to craft a “perfect defence” right now—start with getting the allegation, the process, and the dates clear.
-- You do not need to decide whether to quit, counter-complain, or escalate externally until you know what’s actually being alleged and what procedure is being used.
-- You do not need to contact everyone who might “back you up” yet—focus on preserving facts and using the formal process.
+- You do not need to decide whether the offer is "fair" or "enough" while you are still in the building.
+- You do not need to explain your reasons for potentially rejecting the offer or resigning.
+- You do not need to provide a counter-offer or start negotiations today.
+- You do not need to respond to deadlines that expire in less than 24 hours; these are often used to create false urgency.
 
 ## Important reassurance
-Being told there is a formal complaint is frightening, but it does not mean a decision has been made. A fair process should tell you what’s alleged and give you a chance to respond. Feeling shaky, angry, or ashamed in the first hours is a normal stress reaction—your job right now is to slow down and avoid irreversible moves.
+It is normal to feel shocked, intimidated, or "frozen" when presented with a surprise exit offer. Taking the paperwork away to think is a standard professional response, and it does not mean you are being difficult or "guilty" of anything. Employers use these meetings to try and resolve issues quickly, but you have the legal right to slow the process down.
 
 ## Scope note
-This is first-step guidance for the initial shock period. Later steps (how to frame a statement, what evidence matters, whether to seek specialist advice) depend heavily on the allegation and your workplace policy.
+This guide provides first-step stabilization for employees facing immediate pressure to sign exit documents. It does not cover the specifics of negotiating higher payouts, tribunal claims, or the merits of your specific case, which require professional consultation.
 
 ## Important note
-This is general information, not legal advice. Workplace processes vary by employer and sector. If you believe you’re at immediate risk of harm, or your health is deteriorating, seek urgent support.
+This information is for general guidance and does not constitute legal advice. Employment law is complex and subject to individual contract terms. If you are a member of a trade union, contact them immediately. If not, seek a qualified employment solicitor. If you feel physically unsafe or harassed, you should leave the premises and seek help from a safe location.
 
 ## Additional Resources
-- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
-- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
-- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures/html
-- https://www.gov.uk/handling-employee-grievance/grievance-procedure
+- https://www.gov.uk/disciplinary-procedures-and-action-at-work
+- https://www.gov.uk/disciplinary-procedures-and-action-at-work/disciplinary-hearings
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/disciplinary-meetings-where-to-start/
 - https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/
-- https://www.legislation.gov.uk/ukpga/1999/26/section/10/notes
+- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings

@@ -1,75 +1,91 @@
-﻿---
+---
 title: "What to do if… you see someone peering into your windows from outside"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - someone peering in my window
-  - person looking through window
-  - stranger outside my window
-  - someone at my window at night
-  - window peeper outside house
-  - peeping tom outside
-  - suspicious person outside home
-  - someone watching through window
-  - someone scoping my home
-  - intruder casing the house
-  - stranger in my garden
-  - someone on my property
-  - person at my ground floor window
-  - someone trying windows
-  - unknown person outside flat window
-  - voyeur outside window
-  - I feel unsafe at home now
-  - someone lurking outside my window
-last_reviewed: "2026-01-11"
+  - "someone peering in my window"
+  - "person looking through window"
+  - "stranger outside my window"
+  - "someone at my window at night"
+  - "window peeper outside house"
+  - "peeping tom outside"
+  - "suspicious person outside home"
+  - "someone watching through window"
+  - "someone scoping my home"
+  - "intruder casing the house"
+  - "stranger in my garden"
+  - "someone on my property"
+  - "person at my ground floor window"
+  - "someone trying windows"
+  - "unknown person outside flat window"
+  - "voyeur outside window"
+  - "i feel unsafe at home now"
+  - "someone lurking outside my window"
+  - "help i see a man outside my window"
+  - "what do i do if someone is looking in my window"
+  - "what do i do if a stranger is in my garden"
+  - "what do i do if someone is watching my house"
+  - "help someone is peering into my flat"
+  - "suspicious man at window"
+  - "scary person outside window"
+  - "stranger looking through glass"
+  - "man watching me through window"
+  - "unknown figure in garden"
+  - "person staring through window"
+  - "prowler outside house"
+  - "shadow outside window"
+  - "someone tapping on window"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you see someone peering into your windows from outside (UK)
 
 ## Short answer
-Move away from the window, lock up quickly, and call **999** if you feel unsafe or the person is still there.
+Move immediately to a position where you cannot be seen from the outside and call **999** if you feel in danger or the person is still on your property.
 
 ## Do not do these things
-- Don’t go outside to confront them or “check” who it is.
-- Don’t open the door, even “just to tell them to leave”.
-- Don’t chase them if they move off.
-- Don’t stand at the window where you’re clearly visible.
-- Don’t switch on inside lights right by the window if that makes you easier to see.
-- Don’t post live updates about it happening.
+- Don't go outside to confront the person or ask what they are doing.
+- Don't open the door or window to speak to them.
+- Don't stand in front of the window to get a better look if they can see you.
+- Don't switch on lights in the room you are in if it makes you more visible to them.
+- Don't chase the person if they begin to walk or run away.
+- Don't alert the person to your presence unless necessary for your immediate safety.
 
 ## What to do now
-1. **Create distance and cover.** Step away from windows and exterior doors. If you can, move to an internal room where you’re not visible from outside.
-2. **Secure the home fast.** Lock doors, close/lock any accessible windows, and close curtains/blinds. If you can switch on an outside light from inside, do that.
-3. **Call police now (choose the right number).**
-   - **Call 999** if you feel in danger, the person is still there, or you think they may try to get in.
-   - **Call 101** if they’ve gone and there’s no immediate risk (or use your local force’s online reporting **if available**).
-4. **If you can’t speak safely on a 999 call:**
-   - **On a mobile:** call **999**, listen to the operator’s questions, and respond by **coughing/tapping** if you can. If prompted, **press 55** (or tap when prompted) so the call is treated as genuine and transferred to police.
-   - **On a landline:** stay on the line. If you don’t speak but the operator can hear background noise, they can transfer you to police. (Avoid repeatedly hanging up and redialling.)
-5. **Give the operator what helps fastest.** Your exact address, where the person is (front/back, which window), what they’re doing (peering, lingering, trying handles), and a description (clothing, height/build, any vehicle, direction of travel).
-6. **Only if it’s safe, note details without being seen.** From a safe position (not close to the glass), note time, description, and any vehicle registration. If you can record from inside without approaching the window or drawing attention, that can help later.
-7. **Make sure everyone inside is together.** Quietly bring children/pets into the safer room. Grab your phone, keys, and any essential medication in case you’re advised to leave.
-8. **If you’re in a flat/managed building:** after calling police (or while someone else calls), alert concierge/building security/management so they can check shared entrances and preserve any CCTV.
-9. **If you have a hearing or speech impairment (optional):** in emergencies you can use **textphone 18000** (or, if pre-registered, text **999** via the emergency text service). For non-emergencies, some services use **textphone 18001 101**.
+1. **Move to a secure internal room immediately.** Step away from all windows and glass doors, moving to a part of the home where you cannot be seen from the outside.
+2. **Lock all accessible entry points quickly.** If you can do so without being seen, ensure doors are locked and windows are shut / latched.
+3. **Close curtains or blinds in your safe area.** This prevents the person from tracking your movements within the house.
+4. **Call 999 if you feel threatened or the person remains present.**
+   - Use **999** for emergencies (person still there, attempting entry, or you feel unsafe).
+   - Use **101** only if the person has left and there is no immediate risk.
+5. **Follow the Silent Solution protocol if you cannot speak safely.**
+   - **On a mobile:** Call **999** and listen. When prompted by the automated message ("You are through to the police"), **press 55**. This transfers the call to the police without you needing to speak.
+   - **On a landline:** Call **999** and stay on the line. Landlines do not use the "55" system; the operator will listen for background noise and transfer you if they suspect an emergency.
+6. **Provide the operator with specific location details.**
+   - Give your full address and postcode first.
+   - Describe exactly where the person is (e.g., "in the back garden by the kitchen window").
+   - Describe the person (clothing, height, any tools or bags) and their actions.
+7. **Note any vehicle details from a distance.** If you can see a car or bike without approaching the window, try to remember the make, color, or partial registration number.
+8. **Contact building security if you live in a managed flat.** Once the police have been alerted, notify concierge or on-site security so they can monitor communal areas and preserve CCTV.
+9. **Use emergency text services only if pre-registered.** If you have a hearing or speech impairment and have previously registered your phone, text **999** with your location and the nature of the emergency.
 
 ## What can wait
-- Deciding whether to install cameras, extra locks, or motion lighting.
-- Contacting your insurer/landlord (unless there’s damage that needs urgent repair).
-- Reviewing doorbell/CCTV footage in detail — do it once you’re calm and safe.
-- Writing a full timeline; for now, just keep the basics (time, what happened, description).
+- Inspecting your garden or property for footprints or damage.
+- Checking your own CCTV or doorbell footage (wait until police arrive or the situation is cleared).
+- Researching new security lights, cameras, or upgraded locks.
+- Calling your landlord or housing association.
 
 ## Important reassurance
-It’s normal to feel shaken, angry, or frozen. Treating someone peering into windows as a real safety issue is reasonable — your job right now is to get safe and get support.
+It is normal to feel an immediate spike in adrenaline, a sense of panic, or a "freeze" response. Seeing a stranger peering into your private space is a significant breach of safety; taking immediate steps to hide and call for help is a correct and protective reaction.
 
 ## Scope note
-These are first steps to stabilise the situation and reduce immediate risk. If this becomes repeated or targeted, you may need additional support and a more detailed safety plan.
+This guide covers the first few minutes of discovering a person outside your window. It focuses on immediate physical safety and the correct way to alert authorities in the UK.
 
 ## Important note
-This is general information, not legal advice. If you believe you are in immediate danger or a crime is happening right now, call **999**.
+This information is for emergency stabilization and does not constitute legal advice. If you believe a crime is in progress or your life is at risk, always prioritize calling **999** over reading further instructions.
 
 ## Additional Resources
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
+- https://www.suzylamplugh.org/stalking-help-and-advice
+- https://www.suzylamplugh.org/pages/category/national-stalking-helpline
 - https://www.gov.uk/contact-police
-- https://www.police.uk/pu/contact-us/
-- https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
-- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
-- https://www.relayuk.bt.com/how-to-use-relay-uk/contact-999-using-relay-uk.html
+- https://www.gov.uk/report-crime

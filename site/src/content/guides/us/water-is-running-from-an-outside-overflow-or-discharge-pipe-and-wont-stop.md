@@ -1,79 +1,90 @@
-﻿---
+---
 title: "What to do if… water is running from an outside overflow or discharge pipe and won’t stop"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - overflow pipe running
-  - outside discharge pipe leaking
-  - discharge pipe won’t stop
-  - water running nonstop outside
-  - water heater tpr valve leaking
-  - t&p valve discharge tube
-  - pressure relief valve leaking
-  - relief valve discharge outside
-  - hot water heater overflow pipe
-  - pipe dripping nonstop outside
-  - water won’t stop flowing outside
-  - toilet keeps running
-  - toilet keeps filling
-  - toilet shutoff valve
-  - main water shutoff emergency
-  - shut off water heater
-  - prevent water damage now
-last_reviewed: "2026-03-04"
+  - "overflow pipe running"
+  - "outside discharge pipe leaking"
+  - "discharge pipe won’t stop"
+  - "water running nonstop outside"
+  - "water heater tpr valve leaking"
+  - "t&p valve discharge tube"
+  - "pressure relief valve leaking"
+  - "relief valve discharge outside"
+  - "hot water heater overflow pipe"
+  - "pipe dripping nonstop outside"
+  - "water won’t stop flowing outside"
+  - "what do i do if water is running outside"
+  - "what do i do if my overflow pipe is leaking"
+  - "what do i do if the discharge pipe won't stop"
+  - "what do i do if the relief valve is open"
+  - "help i have water running outside from a pipe"
+  - "help i cannot stop the water pipe outside"
+  - "help my water heater is leaking outside"
+  - "help my overflow pipe is spraying"
+  - "steam coming from outside pipe"
+  - "hot water spraying from exterior wall"
+  - "boiling water from overflow"
+  - "vibration in pipes and outside leak"
+  - "sump pump discharge vs overflow"
+  - "drain pipe outside house"
+  - "water running at night outside"
+  - "outside pipe leaking in winter"
+  - "emergency water shutoff for outside leak"
+  - "main water valve location"
+  - "water heater safety valve"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… water is running from an outside overflow or discharge pipe and won’t stop (USA)
+
 ## Short answer
-Don’t block the pipe. If you can do so safely, shut off the water (and shut down the water heater if the discharge seems hot), then call a licensed plumber/qualified tech urgently.
+Do not block or cap the pipe. Shut off the water supply to the home or the specific appliance and turn off the power or gas to your water heater immediately.
 
 ## Do not do these things
-- Do not cap, plug, clamp, or tape the pipe shut — it may be a safety discharge (especially from a water heater).
-- Do not put your hand into the stream (it can be hot enough to scald).
-- Do not keep turning the water heater back on “to see if it stops.”
-- Do not repeatedly lift or “test” a relief valve handle to try to fix the leak.
-- Do not ignore steady flow; it can quickly become major water damage.
+- Do not plug, cap, tape, or clamp the discharge pipe shut as this can cause a pressure explosion.
+- Do not touch the water or the pipe directly if you see steam or hear boiling sounds.
+- Do not attempt to "test" the handle of a temperature and pressure (T&P) relief valve while it is actively discharging.
+- Do not leave the water heater powered on if the discharge is hot or steaming.
+- Do not ignore the flow even if it is a slow trickle, as it indicates a safety device failure.
 
 ## What to do now
-1. **Keep everyone away and do a quick, safer check: is it likely hot or cold?**
-   - If you see **steam**, the pipe is **too hot to approach**, or it clearly runs from the **water heater area**, assume **hot** and go to Step 2.
-   - Otherwise, briefly catch a little in a bucket and **feel the outside of the bucket** (not the stream). If it feels warm/hot, treat as hot.
-2. **If it seems connected to the water heater (hot/warm, or the line comes from the heater): shut the heater down.**
-   - **Turn off power**: switch the breaker OFF for an electric water heater.
-   - **For gas water heaters:** turn the gas control to **OFF** (follow the label/instructions on your unit).
-   - **Shut off the cold water supply to the water heater** (the valve on the cold inlet line above the tank), if you can do so easily and safely.
-3. **Shut off the home’s main water to stop the flow.**
-   - Close the **main shutoff valve** where the service line enters the home (often basement, garage, utility room, or an exterior wall).
-   - If you can’t find it or it won’t turn, and water is continuing, **call your local water utility’s emergency line** for guidance/assistance.
-4. **Quick inside check (no dismantling) for the simplest source.**
-   - Check toilets: if one is continuously running/refilling, close the **toilet stop valve** (small valve behind/under the toilet) to isolate that fixture.
-   - Look around the water heater for obvious leaking at the relief-valve discharge area or pooling near the tank.
-5. **Call the right help based on your situation.**
-   - **If you rent:** contact your landlord/property manager’s **emergency maintenance** and report “continuous discharge/overflow from exterior pipe; water shut off.”
-   - **If you own:** call a **licensed plumber**. If it appears to be a water heater relief discharge, say “possible T&P relief valve discharge.”
-   - **Condo/apartment building:** notify building management immediately (shared shutoffs/mechanical rooms may be involved).
-6. **Reduce damage while waiting.**
-   - Put a bucket outside if it won’t overflow back toward the foundation.
-   - Move items away from wet areas; use towels to contain indoor drips.
-   - Take a short video/photo showing the pipe and the flow rate (helps diagnosis).
+1. **Identify if the water is hot or cold without touching the stream directly.**
+   - Look for visible steam or listen for a loud hissing or boiling sound coming from the pipe or the water heater tank.
+   - Observe if the pipe exits the wall directly behind the location of your water heater.
+   - If steam is present, treat the situation as an emergency overheating event and keep all people and pets away from the discharge point.
+2. **Shut off the power or gas supply to the water heater immediately.**
+   - **For electric heaters:** Locate your electrical service panel and flip the dedicated water heater breaker to the OFF position.
+   - **For gas heaters:** Rotate the gas control knob on the front of the unit to the OFF position, and close the manual gas shut-off valve on the incoming gas line (turn the handle until it is perpendicular to the pipe).
+3. **Close the water supply valve to the water heater or the main house shut-off.**
+   - **Isolate the heater:** Turn the valve on the cold-water inlet pipe (usually located above the tank) clockwise until it stops.
+   - **Main shut-off:** If the flow continues, locate your main water shut-off valve (found in the basement, garage, near the water meter, or in a curb box at the street) and close it fully.
+4. **Open a hot water faucet inside the house to relieve system pressure.**
+   - Turn on a hot water tap in a sink or bathtub and leave it open.
+   - This allows pressure to escape through the faucet rather than forcing more water through the failed relief valve.
+5. **Contact a licensed plumbing professional or emergency maintenance.**
+   - **If you rent:** Call the emergency maintenance line and state that an exterior safety discharge pipe is running continuously and you have shut off the utilities.
+   - **If you own:** Call a licensed plumber and report a "suspected T&P relief valve failure" or "continuous exterior overflow."
+6. **Clear the area around the discharge point and the water heater.**
+   - Move any property or debris away from the outdoor discharge area to prevent water damage to the foundation.
+   - Use towels to soak up any indoor pooling near the base of the water heater if it is safe to do so.
 
 ## What can wait
-- You do **not** need to diagnose the exact failed part right now.
-- You do **not** need to replace a relief valve or open the water heater in the moment.
-- You do **not** need to decide on replacement vs repair today — stabilizing and getting qualified help is enough.
+- You do not need to determine why the valve failed (e.g., high pressure vs. high temperature) right now.
+- You do not need to purchase a replacement valve or expansion tank before the professional arrives.
+- You do not need to drain the entire water heater tank unless instructed by a technician.
 
 ## Important reassurance
-A continuous exterior discharge usually means something isn’t shutting off correctly or a safety device is relieving pressure. The safest immediate moves are to avoid blocking the outlet, shut off water (and heater power if it’s hot), and bring in qualified help.
+It is normal to feel concerned when water is spraying or running from a pipe on your home. These pipes are designed to divert water outside specifically to prevent indoor flooding or equipment damage. By shutting off the utilities, you have already taken the most important step to stabilize the situation.
 
 ## Scope note
-First steps only. Repairs may involve safety devices (like a water heater T&P valve) and should be handled by a qualified professional.
+This guide covers first-step stabilization only. A discharging T&P valve is a safety warning; repairs must be performed by a qualified professional to ensure the system meets local plumbing codes and safety standards.
 
 ## Important note
-This is general information, not professional or code advice. A continuously discharging water heater safety valve can indicate unsafe temperature/pressure conditions — treat it as urgent and **do not** obstruct the discharge pipe.
+A water heater relief valve that discharges hot water can indicate dangerously high internal temperatures or pressures. Do not obstruct the pipe or attempt to restart the heater until it has been inspected by a licensed technician.
 
 ## Additional Resources
-- https://www.nationalboard.org/index.aspx?ID=247&pageID=164
-- https://www.watts.com/resources/references-tools/t-and-p-relief-valves
-- https://www.hotwater.com/info-center/water-heater-maintenance.html
-- https://www.epa.gov/system/files/documents/2023-08/ws-homes-TRM-1-FreeofLeaksTechSheet.pdf
-- https://pubs.naruc.org/pub/63201E3A-C199-FD91-2127-52F59547EE97
+- https://www.energy.gov/energysaver/common-air-conditioner-problems
+- https://www.energy.gov/energysaver/air-conditioner-maintenance
+- https://www.clarksvilletn.gov/326/Backflow-Cross-Connection-Thermal-Expans
+- https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home
+- https://extension.umn.edu/moisture-and-mold-indoors/controlling-moisture-problems-your-home

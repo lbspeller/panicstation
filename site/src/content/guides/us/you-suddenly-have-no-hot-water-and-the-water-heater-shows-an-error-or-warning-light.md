@@ -1,85 +1,95 @@
-﻿---
+---
 title: "What to do if… you suddenly have no hot water and the water heater shows an error or warning light"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - suddenly no hot water
-  - water heater error light
-  - water heater warning light
-  - flashing water heater light
-  - water heater fault code
-  - no hot water gas water heater
-  - no hot water electric water heater
-  - pilot light out worry
-  - water heater shut off
-  - breaker tripped water heater
-  - carbon monoxide alarm concern
-  - gas smell near water heater
-  - tank water heater problem
-  - tankless heater error code
-  - homeowner hot water emergency
-  - renter no hot water
-  - apartment no hot water
-  - water heater safety shutdown
-  - cold showers emergency
-last_reviewed: "2026-03-04"
+  - "suddenly no hot water"
+  - "water heater error light"
+  - "water heater warning light"
+  - "flashing water heater light"
+  - "water heater fault code"
+  - "no hot water gas water heater"
+  - "no hot water electric water heater"
+  - "water heater status light flashing"
+  - "water heater red light"
+  - "water heater blinking code"
+  - "help i have no hot water"
+  - "help my water heater is blinking"
+  - "what do i do if my water heater has an error light"
+  - "what do i do if there is no hot water"
+  - "my water heater is showing a fault"
+  - "my water heater stopped working"
+  - "smell of gas near water heater"
+  - "rotten egg smell in basement"
+  - "hissing sound near gas line"
+  - "carbon monoxide alarm going off"
+  - "water heater leaking from bottom"
+  - "water heater reset button"
+  - "water heater power light off"
+  - "error light on tankless heater"
+  - "warning light on gas heater"
+  - "cold water only in shower"
+  - "water heater lockout"
+  - "emergency water heater repair"
+  - "water heater shutdown"
+  - "flashing status light"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you suddenly have no hot water and the water heater shows an error or warning light (USA)
 
 ## Short answer
-First check for danger: if you smell gas, hear hissing, or a carbon monoxide (CO) alarm goes off, **leave immediately** and from a safe location call **911** and/or your **gas utility emergency line**. If there are no danger signs, photograph the error light/code and arrange service (property manager if you rent; licensed plumber/HVAC if you own).
+If you smell gas, hear hissing, or a carbon monoxide alarm sounds, **evacuate the building on foot immediately** and call **911** from a safe distance. If no danger signs exist, photograph the error code and contact a licensed professional or your landlord to resolve the safety lockout.
 
 ## Do not do these things
-- Do not keep trying to restart/reset a heater that immediately faults again.
-- Do not relight a pilot or open panels unless the **manufacturer’s instructions are on the unit** and there are **no** gas/CO warning signs.
-- Do not ignore a CO alarm or symptoms like headache, dizziness, nausea—especially near fuel-burning appliances.
-- If you smell gas, do not operate light switches, garage door openers, or other electronics before leaving.
-- Do not use unvented devices (oven, grill, generator) to “make heat” while you wait.
+- Do not use a phone, flashlight, or light switch inside the building if you smell gas.
+- Do not attempt to relight a pilot light while an error light is flashing or a fault code is displayed.
+- Do not reset the circuit breaker or power more than once if the unit immediately shuts down again.
+- Do not enter any area with standing water if the water heater is electric or near electrical outlets.
+- Do not use portable generators, grills, or ovens to heat your home or water while waiting for repairs.
+- Do not attempt to disassemble the burner assembly or venting system.
 
 ## What to do now
-1. **Do a fast safety scan (30 seconds).**
-   - **Gas smell or hissing near the heater or gas line:** get everyone out and call **911** and/or your **gas utility emergency line** from outside.
-   - **CO alarm sounding or anyone feels suddenly unwell:** get into fresh air immediately and call **911**.
+1. **Conduct an immediate sensory safety scan.**
+   - **Check for the smell of rotten eggs (sulfur) or a hissing sound:** If present, evacuate everyone on foot immediately and call 911 or your gas utility from outside.
+   - **Check for carbon monoxide (CO) symptoms:** If anyone feels sudden headache, dizziness, nausea, or confusion, move to fresh air immediately and call 911.
+   - **Check for standing water:** If the floor is flooded near the heater, do not step in the water or touch any nearby electrical panels.
 
-2. **Stabilize the area.**
-   - Stop using hot water for now.
-   - Keep the area around the heater clear so responders/techs can access it easily.
+2. **Capture the error information.**
+   - **Photograph the flashing light pattern or digital error code.**
+   - **Photograph the manufacturer’s label (make, model, and serial number).**
+   - **Note if the status light is a solid color, a specific blinking sequence, or an alphanumeric code (e.g., E02, 7 flashes).**
 
-3. **Record what you’re seeing (this speeds up safe help).**
-   - Take photos of: the **error code/light pattern**, the **make/model/serial label**, and (if visible) the **control panel**.
-   - Write down when it started and whether there was a recent outage, storm, leak, or maintenance visit.
+3. **Isolate the unit if there is a visible leak.**
+   - **Locate the cold-water shut-off valve above the heater.**
+   - **Turn the valve handle clockwise (or perpendicular to the pipe) to stop water flow into the tank.**
+   - **Only perform this if the area is dry and you can reach the valve without touching electrical components.**
 
-4. **Do only external “no-tools” checks.**
-   - **Electric water heater:** check your **circuit breaker** for a trip (don’t touch anything with wet hands or standing water).
-   - **Gas water heater:** if you do **not** smell gas, see whether other gas appliances work; if nothing gas-related works, contact your utility.
-   - Look for obvious **water leaks** around the tank/lines. If there’s active leaking and it’s safe to access, you can shut off the **cold-water supply valve** to the heater. If there’s any electrical hazard (water near wiring/outlets), don’t touch valves—step back and call for help.
+4. **Verify external power and fuel sources.**
+   - **For electric heaters:** Check the main electrical panel for a tripped breaker labeled "Water Heater."
+   - **For gas heaters:** Check if other gas appliances (like a stove) are functioning to determine if the issue is unit-specific or a utility-wide outage.
 
-5. **Contact the right party and use the info you captured.**
-   - **If you rent:** report “no hot water + error light/code” to your landlord/property manager and send the photos.
-   - **If you own:** contact a **licensed plumber or HVAC service** and provide the photos and model/serial. If it’s under warranty/service plan, use that provider’s service line.
-
-6. **If you consider a reset, keep it conservative.**
-   - Only do a **single reset** if the manufacturer’s quick-start instructions are on the unit/manual and there are **no** gas/CO danger signs.
-   - If it faults again, stop and wait for a professional.
+5. **Arrange for authorized service.**
+   - **Tenants:** Contact your landlord or property manager immediately with the error code and photos you captured.
+   - **Homeowners:** Call a licensed plumber or HVAC technician; provide the error code and model number to ensure they bring the correct diagnostic tools or parts.
+   - **Warranty:** If the unit is under a manufacturer warranty (often 6–12 years), contact the manufacturer’s support line found on the label.
 
 ## What can wait
-- You don’t need to interpret the fault code perfectly or order parts now.
-- You don’t need to decide “repair vs replace” today.
-- You can wait to troubleshoot deeper (pilot, gas valve, venting, sensors) until a qualified tech is present.
+- You do not need to identify the technical cause of the fault code yourself.
+- You do not need to purchase replacement parts or heating elements before a professional diagnosis.
+- You do not need to decide between repair and replacement during the initial lockout.
 
 ## Important reassurance
-Many heaters shut down to protect you (ignition problems, venting/combustion issues, overheating, or power interruptions). A quick safety check plus getting the right service arranged is the safest way forward.
+Modern water heaters are designed with safety sensors that trigger a "lockout" when they detect issues like improper venting, gas pressure fluctuations, or overheating. Seeing an error light means the safety system is functioning as intended to prevent a more serious hazard.
 
 ## Scope note
-This guide covers immediate safety and first actions only. Your exact steps can differ by heater type (tank vs tankless; gas vs electric) and by local utility guidance.
+This guide addresses first-step stabilization and safety for residential water heater fault indicators in the USA. It does not provide repair instructions or diagnostic interpretations for specific error codes.
 
 ## Important note
-This is general information, not professional or emergency guidance. If you suspect a gas leak or carbon monoxide exposure, treat it as urgent and involve emergency services and/or your gas utility.
+This information is for safety stabilization only and is not a substitute for professional plumbing or emergency services. Gas and electrical systems pose significant risks of fire, explosion, or electrocution if handled incorrectly.
 
 ## Additional Resources
-- https://archive.cdc.gov/www_cdc_gov/media/releases/2018/s0105-carbon-monoxide-poisoning.html
-- https://stacks.cdc.gov/view/cdc/47927
-- https://www.cpsc.gov/Newsroom/News-Releases/1983/CPSC-Issues-Winter-Safety-Warning
-- https://www.sdge.com/safety/gas-safety/gas-appliance-safety
-- https://www.mayoclinic.org/diseases-conditions/carbon-monoxide/symptoms-causes/syc-20370642
+- https://www.aosmithatlowes.com/support/help/pilot-lights%2C-status-light-flashes/43
+- https://www.bradfordwhite.com/bw-faq/what-does-the-flashing-lights-mean-on-my-water-heaters-gas-valve/
+- https://www.cpsc.gov/Recall-Products/Gas-Water-Heaters
+- https://files.rheem.com/blobazrheem/wp-content/uploads/sites/2/AP21980-Rev-02-Electric-Residential-WH-with-e-control-HIGH-TIER.pdf
+- https://media.rinnai.us/salsify_asset/s-d7680150-5ee9-4b1f-9f19-b4e6be7a41c4/100000652-Troubleshooting%20TWH%20Diagnostic%20Codes%20%281%29.pdf

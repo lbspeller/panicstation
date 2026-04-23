@@ -1,80 +1,95 @@
-﻿---
+---
 title: "What to do if… you develop blistering or peeling skin after starting a new medication"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - blistering skin after medicine
-  - peeling skin after medication
-  - new medication skin reaction
-  - severe drug rash
-  - painful rash with blisters
-  - mouth sores after medicine
-  - eye irritation with rash
-  - rash with fever after new tablets
-  - skin sloughing
-  - possible stevens-johnson syndrome
-  - toxic epidermal necrolysis concern
-  - medication allergy vs reaction
-  - rash not itchy but painful
-  - new antibiotic rash blisters
-  - anticonvulsant rash blisters
-  - reaction after first dose
-  - reaction after dose increase
-  - mucosal blistering
-  - widespread red or purple rash
-last_reviewed: "2026-02-21"
+  - "blistering skin after medicine"
+  - "peeling skin after medication"
+  - "new medication skin reaction"
+  - "severe drug rash"
+  - "painful rash with blisters"
+  - "mouth sores after medicine"
+  - "eye irritation with rash"
+  - "rash with fever after new tablets"
+  - "skin sloughing"
+  - "possible stevens-johnson syndrome"
+  - "toxic epidermal necrolysis concern"
+  - "medication allergy vs reaction"
+  - "rash not itchy but painful"
+  - "new antibiotic rash blisters"
+  - "anticonvulsant rash blisters"
+  - "reaction after first dose"
+  - "reaction after dose increase"
+  - "mucosal blistering"
+  - "widespread red or purple rash"
+  - "what do i do if my skin is peeling after medication"
+  - "what do i do if i have blisters from pills"
+  - "what do i do if my medicine caused a rash"
+  - "what do i do if i have sores in my mouth after medication"
+  - "help i have a blistering rash"
+  - "help i am peeling after new meds"
+  - "help i have target lesions"
+  - "my skin is falling off after medication"
+  - "purple patches on skin"
+  - "burning eyes after new tablets"
+  - "skin feels like it is burning after pills"
+  - "circles on skin with dark centers"
+  - "medication burn marks"
+  - "drug allergy skin loss"
+  - "blisters on genitals after medication"
+  - "fever and rash after starting meds"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you develop blistering or peeling skin after starting a new medication (UK)
 
 ## Short answer
-Treat blistering or peeling skin after a new medication as an emergency: get urgent medical help now (999 or A&E). Do not take another dose unless an emergency clinician tells you to.
+Treat blistering or peeling skin following a new medication as a medical emergency: call 999 or 112 immediately. Stop taking the suspected medication at once and do not take further doses unless a hospital clinician explicitly instructs you to do so.
 
 ## Do not do these things
-- Do not “wait and see” if skin is blistering, peeling, very painful, or you have sores in your mouth/eyes/genitals.
-- Do not take another dose of the new medication “to test it,” unless you are explicitly told to by the hospital team.
-- Do not try to treat this at home with leftover antibiotics, steroids, or someone else’s medicines.
-- Do not apply strong topical products (acid peels, retinoids, “burn” creams) to broken/blistered skin.
-- Do not start any new over-the-counter medicines or supplements (including cold/flu products) unless a clinician advises it.
+- Do not wait for symptoms to improve or "see how it looks in the morning" if the skin is blistering, peeling, or intensely painful.
+- Do not take another dose of the suspected medicine to "check" if it is the cause; this can trigger a life-threatening escalation.
+- Do not take ibuprofen, aspirin, or other NSAIDs for associated fever, as these can sometimes worsen certain drug reactions.
+- Do not apply creams, ointments, or "burn gels" to the affected areas unless prescribed by the emergency team.
+- Do not puncture or "pop" any blisters that have formed.
+- Do not use adhesive tapes or tight bandages directly on fragile or peeling skin.
 
 ## What to do now
-1. **Get urgent help immediately.**  
-   - **Call 999** if you have blistering/peeling, widespread rash, skin pain, fever, facial swelling, trouble breathing, confusion, or you feel rapidly worse.  
-   - Otherwise **go to A&E now** (do not drive yourself if you feel unwell or dizzy).
-2. **Pause the suspected new medication until assessed.**  
-   If the reaction began after starting a new medicine (or a recent dose increase), **do not take another dose** unless the emergency team instructs you to. (If you’re on a medicine where stopping suddenly can be risky—e.g., some seizure medicines—tell the emergency team immediately so they can manage this safely.)
-3. **Bring the “evidence” with you (this helps doctors act fast).**  
-   - Take the medication boxes/blister packs/bottles (including over-the-counter meds, herbals, and supplements).  
-   - Write down: **name, dose, first day taken, last dose time**, and any recent changes.  
-   - Note any recent infections/illnesses, and any previous drug reactions.
-4. **Document what’s happening (quickly, calmly).**  
-   Take a few clear photos in good light (wide shot + close-up), and note when symptoms started and how fast they’re spreading.
-5. **Protect your skin while you travel.**  
-   - Wear loose, soft clothing.  
-   - If areas are raw/oozing, cover lightly with a **clean, non-stick** dressing if you have one (don’t tape aggressively to fragile skin).  
-   - Avoid heat, friction, and sun on affected areas.
-6. **Use NHS 111 only if symptoms are mild and not blistering/peeling.**  
-   If there is **any** blistering/peeling, mouth/eye/genital sores, breathing symptoms, or you feel very unwell, **do not rely on 111**—use **999/A&E** as above.
+1. **Call 999 or 112 immediately for an ambulance.**  
+   - **Explain that you have a "severe blistering rash after starting a new medication"** so the call handler can prioritize your triage.
+   - **Mention if you have "mucosal involvement"** (sores in the mouth, eyes, or genitals) or a high fever.
+2. **Stop the suspected medication immediately.**  
+   - **Cease taking the new medicine** or any medicine that had a recent dose increase.
+   - **Note if the medicine is for seizures or heart conditions**, as you must tell the paramedics immediately that you have stopped it; they will manage the risks of sudden cessation.
+3. **Identify sensory cues and document them.**  
+   - **Look for "target lesions"** (circular rashes that look like a bullseye with a darker or purple center).
+   - **Check for skin pain** that feels disproportionately high compared to how the rash looks.
+   - **Take 1-2 quick photos** of the worst-affected areas to show doctors, as the rash can change rapidly.
+4. **Gather all current medications.**  
+   - **Collect all original packaging**, blister packs, and bottles, including over-the-counter supplements and herbal remedies.
+   - **Write down the time of the very last dose** taken.
+5. **Protect the skin while waiting for help.**  
+   - **Remove any restrictive jewelry** (rings/watches) in case of swelling.
+   - **Wear very loose, soft cotton clothing** or cover yourself with a clean, smooth sheet.
+   - **Stay in a cool environment** and avoid direct sunlight on the skin.
 
 ## What can wait
-- You do not need to figure out “which condition this is” right now.
-- You do not need to decide today whether to restart, switch, or permanently stop any long-term medicines — the hospital team will guide next steps.
-- You do not need to write a detailed timeline beyond the key facts (start date, last dose time, first symptoms).
-- Once you’re safe and stable, you can **tell your GP/pharmacy to record this as a suspected serious reaction** and (if appropriate) **report it via the MHRA Yellow Card scheme**.
+- You do not need to diagnose the specific condition (such as SJS or TEN) yourself; this requires specialist hospital assessment.
+- You do not need to contact your GP or original prescriber before seeking emergency care.
+- You do not need to worry about the long-term plan for the condition the medication was treating; acute stabilization is the only priority now.
+- You do not need to report the reaction to the Yellow Card scheme immediately; this can be done once you are stable.
 
 ## Important reassurance
-This can be frightening, and it’s reasonable to feel panicked. Blistering or peeling after a new medication is uncommon, but when it happens it needs **urgent hospital assessment**—seeking help quickly is the right move.
+It is normal to feel overwhelmed or frightened by a sudden skin reaction. These reactions are rare but well-recognised by emergency medical teams. By seeking help at the first sign of blistering or peeling, you are taking the single most important step to manage the situation safely.
 
 ## Scope note
-These are first steps to keep you safe and get you assessed quickly. Ongoing treatment and medication decisions should be made with your hospital team and usual prescriber.
+This guide provides first-step stabilization and emergency contact procedures only. It is not a substitute for clinical diagnosis or hospital-based treatment for severe cutaneous adverse reactions.
 
 ## Important note
-This guide is general information, not a diagnosis. If you have blistering/peeling skin or sores in the mouth/eyes after starting a medicine, treat it as urgent and seek emergency care.
+Severe drug reactions involving skin peeling or blistering are medical emergencies. If you cannot reach 999, go directly to the nearest A&E (Emergency Department). For reporting later, the MHRA Yellow Card scheme can be reached online or via freephone at 0800 731 6789.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/stevens-johnson-syndrome/
-- https://www.nhs.uk/conditions/anaphylaxis/
-- https://www.bad.org.uk/pils/sjs-ten
-- https://bnf.nice.org.uk/medicines-guidance/adverse-reactions-to-drugs/
-- https://www.gov.uk/report-problem-medicine-medical-device
-- https://yellowcard.mhra.gov.uk/
+- https://www.nhs.uk/medicines/antibiotics/side-effects/
+- https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stevens-johnson-syndrome/
+- https://www.skinhealthinfo.org.uk/condition/sjs-ten/
+- https://www.allergyuk.org/about-allergy/types-of-allergies/drug-allergy/

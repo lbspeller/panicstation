@@ -1,94 +1,98 @@
-﻿---
+---
 title: "What to do if… you notice your spare key may have been accessed or moved without your permission"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - spare key moved
-  - spare key missing
-  - hidden key disturbed
-  - key safe tampered
-  - someone accessed my spare key
-  - think someone has a copy of my key
-  - possible unauthorised entry
-  - signs someone has been in my home
-  - worried about break in
-  - keys may be compromised
-  - home security panic
-  - landlord accessed without permission
-  - letting agent key access
-  - stranger might have my house key
-  - someone knows where spare key is
-  - spare key under mat
-  - spare key in lockbox
-  - returning home feels unsafe
-  - suspicious change at door
-last_reviewed: "2026-01-17"
+  - "unauthorized key access"
+  - "spare key moved"
+  - "spare key missing"
+  - "hidden key disturbed"
+  - "key safe tampered"
+  - "someone has my house key"
+  - "think someone has a copy of my key"
+  - "signs of unauthorized entry"
+  - "what do i do if my house key was moved"
+  - "what do i do if my spare key is missing"
+  - "what do i do if someone used my spare key"
+  - "what do i do if i suspect a break in"
+  - "help i think someone was in my house"
+  - "help i found my spare key moved"
+  - "help my landlord entered without permission"
+  - "my spare key has been touched"
+  - "scratches around door lock"
+  - "door not sitting right in frame"
+  - "lockbox code compromised"
+  - "landlord access laws uk 2026"
+  - "master locksmiths association uk"
+  - "bs3621 british standard locks"
+  - "house key compromised"
+  - "letting agent unauthorized entry"
+  - "suspicious activity at front door"
+  - "unauthorized key use"
+  - "key safe code reset"
+  - "signs of lock picking"
+  - "house key displaced"
+  - "spare key misplaced"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you notice your spare key may have been accessed or moved without your permission (UK)
 
 ## Short answer
-Treat this as a possible security breach: get to a safe pause, and if there’s any chance someone is (or was just) inside, don’t go in—call 999; otherwise report via 101 (or online) and secure the locks as soon as you can.
+Treat the property as compromised: move to a safe location, determine if an emergency 999 or non-emergency 101 report is required, and arrange for an accredited locksmith to replace all external locks immediately.
 
 ## Do not do these things
-- Don’t go inside to “check quickly” if you feel unsafe or notice anything else out of place (door/window ajar, marks, lights changed).
-- Don’t confront or message someone you suspect in the moment (it can escalate or destroy clarity).
-- Don’t keep using the same lock/key setup “until you know for sure”.
-- Don’t broadcast it on social media or in a building group chat with identifying details (it can increase risk).
-- Don’t tidy up or handle anything that looks disturbed if you may want police to attend (leave things as-found where practical).
+- Don't enter the property if you notice additional signs of entry such as a door ajar, changed lighting, or unusual sounds.
+- Don't handle the door handle, lock, or spare key location more than necessary to avoid disturbing potential forensic evidence.
+- Don't confront individuals you suspect of access, including landlords or neighbors, until you have secured the property and recorded the incident.
+- Don't hide replacement keys in "secret" outdoor locations like plant pots, mats, or gutters.
+- Don't delay the lock change while waiting for "proof" of entry if you feel the key's security is breached.
 
 ## What to do now
-1. **Create a safer pause (30–60 seconds).**  
-   Go to a neighbour’s place, your car, a well-lit public spot, or behind a locked door. If you’re on the doorstep and uneasy, step away first.
+1. **Create a safer pause by moving at least 50 meters away from the entrance.**  
+   **Go to a well-lit public area, a neighbor's home, or lock yourself inside a vehicle while you assess the situation.** If you are currently at the doorstep and feel uneasy, do not attempt to investigate.
 
-2. **Decide “999 vs 101” based on immediate risk.**  
-   - **Call 999** if you think someone could still be inside, you hear movement, or you feel in danger.  
-   - **Call 101** (or your force’s online reporting) if it looks like a non-emergency incident but you want it logged and you’re worried about unlawful entry.
+2. **Call 999 immediately if you believe an intruder is currently inside or if there are signs of forced entry.**  
+   **Under 2026 Home Office standards, police are expected to respond within 15 minutes in urban areas and 20 minutes in rural areas for crimes in progress or immediate threats.** If the situation is not an emergency but involves suspected unauthorized entry, call 101 or use the online reporting tool for your local force to obtain a crime reference number.
 
-3. **Do a quick external check only (no entering).**  
-   From outside: look for a door not sitting right in the frame, fresh scratches around the lock, open windows, moved curtains, or anything that suggests entry. If you see clear signs of a break-in, stay out and call police.
+3. **Perform a visual external check of all entry points without entering the building.**  
+   **Look specifically for fresh scratches around the lock cylinder, doors not sitting flush in their frames, or windows that are slightly open.** If any window or door appears disturbed, stay back and wait for police attendance.
 
-4. **Secure the property: rekey/replace the external locks as soon as you can.**  
-   - If you can safely stay elsewhere for a few hours, do that and arrange a locksmith.  
-   - If you must stay, keep doors locked, stay in one room, and ask a trusted person to be with you while you organise lock changes.  
-   - If you have a **key safe/lockbox**, assume its code/location is compromised: remove the key, **change the code**, and consider relocating it.
+4. **Contact a Master Locksmiths Association (MLA) approved professional to replace external locks.**  
+   **Ensure all replacement hardware meets BS3621 British Standards to maintain the validity of your home insurance policy.** 
+   - Ask for a locksmith who is Vetted, Inspected, and Qualified.
+   - Verify their DBS (criminal record check) clearance before they begin work.
+   - Request "anti-snap" cylinders if you have uPVC or composite doors.
 
-5. **If you rent: notify the landlord/letting agent in writing and ask for immediate key control.**  
-   Ask (in writing) for:  
-   - confirmation of **who currently holds keys** (landlord, agent, contractors)  
-   - whether any recent access occurred and why  
-   - an urgent **rekey/lock change** plan  
-   In the UK (including England), landlords should give **at least 24 hours’ notice** and visit at a **reasonable time** for inspections/repairs, unless it’s an emergency needing immediate access. If you believe someone entered without permission, keep it factual in writing and consider contacting your **local council’s private renting/tenancy relations** service for help with next steps.
+5. **Disable or reset all secondary access methods including key safes and smart locks.**  
+   **If you use a mechanical key safe, remove the key immediately and change the code to a sequence you have not used before.** For smart locks or digital keypads, revoke all guest permissions and change the master access code.
 
-6. **Reduce other access routes you might forget.**  
-   - If you have a communal entrance fob, building key, garage key, or shared back gate key: tell building management and ask what can be changed/reissued.  
-   - If you use an alarm, smart lock, or keypad: **change codes** and remove unknown users.
+6. **Issue a formal written notice to your landlord or letting agent if you suspect they have entered without permission.**  
+   **UK law requires landlords to provide at least 24 hours' written notice and obtain your explicit consent before entering for non-emergencies.**
+   - Request a log of everyone who holds a set of keys.
+   - Ask for confirmation of any recent maintenance or inspections.
+   - Remind them of your statutory right to "quiet enjoyment" of the property.
 
-7. **Document what you noticed (for police/landlord/insurance).**  
-   Take photos of the spare-key location, the door/lock, and anything disturbed. Write down the time you noticed it and the last time you’re sure it was normal. Keep messages factual.
-
-8. **If anything is missing (or you find clear entry damage), notify your insurer after reporting.**  
-   Insurers often ask for a crime reference number. Don’t rush into a claim if you’re not sure yet—just keep a clear record of what you’ve found.
+7. **Document the exact position of the displaced key and the time of discovery.**  
+   **Take clear photographs of the key's location and any visible marks on the door or lock before the locksmith begins work.** Write down the last time you are certain the key was in its correct position.
 
 ## What can wait
-- You do **not** need to work out who did it right now.
-- You do **not** need to decide today whether to move, install a full alarm/CCTV system, or make major security upgrades.
-- You do **not** need to confront a neighbour, housemate, contractor, or landlord immediately—focus on safety and securing access first.
-- If nothing is missing and there’s no damage, you can wait to do a full inventory until you’re calmer.
+- You do not need to identify the person who moved the key before securing your home.
+- You do not need to perform a full inventory of your possessions until the locks are changed and the property is secure.
+- You do not need to decide on long-term security upgrades like CCTV or alarm systems in the next hour.
+- You do not need to resolve disputes with landlords or agents today; focus on physical security first.
 
 ## Important reassurance
-Noticing a spare key has moved can feel violating and surreal. Your job right now is simple: treat it as “access may be compromised”, slow things down, and lock down entry points. Taking calm, practical steps is enough for today.
+Finding a spare key moved or accessed is a high-stress event that often triggers a "violation" response. It is normal to feel hyper-vigilant or startled. By focusing on the physical barrier of the lock and obtaining professional assistance, you are taking the most effective steps to regain control of your environment.
 
 ## Scope note
-This is first-step guidance only: immediate safety, securing access, and creating a clear record. Later decisions (disputes with a landlord/agent, longer-term security changes) can come once you’re safe and have facts.
+This is first-step guidance only. It focuses on immediate physical stabilization and jurisdictional reporting. Later decisions regarding tenancy disputes or comprehensive security audits should be conducted once the immediate threat of unauthorized access is mitigated.
 
 ## Important note
-This is general information, not legal advice. If you feel at risk or unsafe, prioritise getting to a safer place and contacting the police.
+This guide provides general operational steps and does not constitute legal or professional security advice. In the UK, if you feel in immediate danger, always prioritize calling 999. Use only accredited tradespeople for lock repairs to ensure insurance compliance.
 
 ## Additional Resources
-- https://www.police.uk/pu/contact-us/
-- https://www.police.uk/cp/crime-prevention/protect-home-crime/door-window-lock-advice/
-- https://www.gov.uk/private-renting
-- https://www.legislation.gov.uk/ukpga/1985/70/section/11
-- https://england.shelter.org.uk/housing_advice/private_renting/what_to_look_for_in_your_tenancy_agreement/landlord_access
-- https://www.wandsworth.gov.uk/housing/private-housing/private-housing-tenants/private-tenants-rights/landlords-access-into-the-property/
+- https://www.gov.uk/report-crime
+- https://www.gov.uk/contact-police
+- https://www.locksmiths.co.uk/services/house-and-home/lost-keys/
+- https://england.shelter.org.uk/housing_advice/private_renting/landlord_enter_without_notice_or_permission
+- https://www.citizensadvice.org.uk/housing/complaints-about-landlords-and-letting-agents/complaining-about-your-landlord/

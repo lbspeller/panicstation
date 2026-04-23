@@ -1,75 +1,83 @@
-﻿---
+---
 title: "What to do if… a money transfer service says the recipient cannot collect because of a name mismatch"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - money transfer name mismatch
-  - recipient cannot collect transfer
-  - wrong recipient name on transfer
-  - cash pickup name mismatch
-  - western union receiver name mismatch
-  - moneygram receiver name mismatch
-  - recipient id does not match transfer
-  - legal name differs from nickname
-  - middle initial missing on transfer
-  - hyphenated last name mismatch
-  - accent or spelling mismatch
-  - remittance transfer mistake
-  - transfer on hold for verification
-  - edit recipient details transfer
-  - cancel and resend money transfer
-  - reference number pickup problem
-  - receiver information incorrect
-  - worried about money transfer scam
-  - urgent international money transfer delay
-  - error notice to transfer provider
-last_reviewed: "2026-01-10"
+  - "money transfer name mismatch"
+  - "recipient cannot collect transfer"
+  - "wrong recipient name on transfer"
+  - "cash pickup name mismatch"
+  - "receiver name mismatch"
+  - "recipient id does not match transfer"
+  - "legal name differs from nickname"
+  - "middle initial missing on transfer"
+  - "hyphenated last name mismatch"
+  - "accent or spelling mismatch"
+  - "remittance transfer mistake"
+  - "transfer on hold for verification"
+  - "edit recipient details transfer"
+  - "cancel and resend money transfer"
+  - "reference number pickup problem"
+  - "receiver information incorrect"
+  - "worried about money transfer scam"
+  - "urgent international money transfer delay"
+  - "error notice to transfer provider"
+  - "what do i do if name is wrong on transfer"
+  - "what do i do if recipient cannot pick up money"
+  - "what do i do if money transfer name is incorrect"
+  - "what do i do if id does not match money transfer"
+  - "help i put the wrong name on western union"
+  - "help i put the wrong name on moneygram"
+  - "help i spelled recipient name wrong"
+  - "my recipient cannot collect money"
+  - "spelling error on money transfer"
+  - "middle name missing on transfer"
+  - "suffix missing on money transfer"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a money transfer service says the recipient cannot collect because of a name mismatch (USA)
 
 ## Short answer
-Confirm the recipient’s legal name exactly as shown on their government-issued ID, then contact the transfer provider to correct the recipient details or cancel and redo the transfer.
+Verify the recipient's legal name exactly as it appears on their government-issued photo ID and use the transfer provider's app or customer service line to update the name or cancel the transaction.
 
 ## Do not do these things
-- Don’t send another transfer or “extra fee” payment to unlock the first one.
-- Don’t share the full transfer reference/confirmation number in public messages or with anyone except the intended recipient and the provider’s official support.
-- Don’t assume a nickname, shortened middle name, or missing hyphen is “close enough.”
-- Don’t keep bouncing between pickup locations without first confirming what exact recipient name is on the transfer record.
-- Don’t follow instructions from a third party who tells you not to contact the provider directly.
+- Do not send additional money or "release fees" to "unlock" the transfer; name mismatches are fixed by data correction, not payment.
+- Do not share the full transfer reference number or MTCN on social media or with anyone other than the intended recipient.
+- Do not assume that a nickname, a shortened middle name, or a missing hyphen will be accepted by the payout agent.
+- Do not instruct the recipient to keep visiting different pickup locations if the record name is fundamentally incorrect.
+- Do not follow instructions from a third party who claims they can "override" the system for a fee.
 
 ## What to do now
-1. **Get the recipient to type their name exactly as on their ID.** Ask them to type the full legal name (spelling + order + suffix like Jr. + hyphens/spaces/accents) exactly as shown. Avoid asking for ID photos unless the provider explicitly requires it, and only share sensitive info via a secure channel.
-2. **Check what name you actually entered.** Open your receipt/app/email confirmation and read the recipient name exactly as recorded. Common causes: missing middle name/initial, swapped last-name order, hyphen removed, “Mike” vs “Michael,” suffix missing.
-3. **Verify the transaction status immediately.** Track the transfer or contact official support with the confirmation/reference number to confirm it’s still pending and not paid out. If it shows paid out and your recipient didn’t receive it, tell the provider immediately and ask for their fraud/dispute process.
-4. **Ask the provider to correct the recipient name (if possible) while the transfer is unreleased.** Say: “The recipient cannot collect due to a name mismatch. Can you update the recipient name to match their government ID?” Have ready:
-   - confirmation/reference number
-   - sender details used for the transfer
-   - the corrected recipient name (exactly as typed from the ID)
-5. **If the provider can’t edit it, cancel and resend with the exact legal name.** Ask what happens to fees and how cancellation/refunds work for your payment method.
-6. **If this was a remittance transfer from the U.S. to a foreign country, use the federal “notice of error” process if needed.** If the provider won’t fix an obvious mistake, submit a notice of error (oral or written) and keep a record of when/how you notified them. A common deadline is **180 days from the disclosed “available date”** on your receipt. Providers generally must investigate within **90 days** of your notice and tell you the result shortly after finishing the investigation. Some banks and credit unions may be exempt from certain federal remittance-transfer error protections, but you should still contact them and ask what they can do.
-7. **Escalate if you’re getting nowhere.** If you’re not satisfied with the provider’s response, you can submit a complaint to the Consumer Financial Protection Bureau (CFPB). If you suspect fraud, you can also report it to the Federal Trade Commission (FTC) and consider reporting to your state attorney general or state financial regulator.
-8. **Watch for scam patterns and stop further losses.** Red flags: someone insists the “name mismatch” can be solved only by sending more money, switching the recipient to a different person, or paying a “release fee.” If any appear, stop sending money and ask the provider to cancel or lock the transfer.
+1. **Confirm the exact legal name shown on the recipient's government-issued ID.** Ask the recipient to type out their full name, including any middle names, suffixes (e.g., Jr, Sr), hyphens, and exact spelling as it appears on the document they will present at the pickup location.
+2. **Review your transfer receipt or app confirmation for discrepancies.** Compare the name you provided with the recipient's confirmed legal name, looking for common errors like swapped first/last names, missing initials, or "Mike" instead of "Michael."
+3. **Check the transfer status through the provider’s official tracking tool.** Ensure the funds are still "Ready for Pickup" or "Pending"; if the status is "Paid" but the intended recipient does not have the money, report it to the provider's fraud department immediately.
+4. **Attempt to edit the recipient name through the provider’s website or mobile app.** Many services allow the sender to modify the recipient's name directly if the funds have not yet been collected.
+   - Look for "Edit Transfer," "Modify Recipient," or "Update Name" options in your transaction history.
+5. **Contact the provider’s customer support if self-service editing is unavailable.** Request a name correction for a pending transfer due to a clerical error. 
+   - Be prepared to provide the tracking number (MTCN/Reference number), the sender's ID details, and the corrected recipient name.
+6. **Cancel the transfer for a refund if the name cannot be edited.** If the provider’s policy prohibits name changes (common for certain jurisdictions or large amounts), request a full cancellation.
+   - Under the federal Remittance Transfer Rule, you generally have 30 minutes to cancel an international transfer for a full refund if the funds have not been picked up or deposited.
+7. **Submit a formal "Notice of Error" for international transfers if the provider refuses to assist.** If the transfer was sent from the U.S. to another country, you have 180 days from the "available date" to report the error under Regulation E. 
+   - The provider must investigate within 90 days and report the results to you within 3 business days of finishing the investigation.
+8. **Escalate the issue to the Consumer Financial Protection Bureau (CFPB) if the provider fails to resolve the error.** Submit a complaint through the CFPB website if the provider ignores your notice of error or refuses to refund uncollected funds.
 
 ## What can wait
-- You don’t need to decide right now whether this was a scam until you’ve verified the transaction status directly with the provider.
-- You don’t need to keep trying multiple pickup locations today if the record itself is wrong.
-- You don’t need to take legal action now; focus on correction/cancellation and documented escalation first.
+- You do not need to determine if this was a scam attempt until you have verified the funds are still secure with the provider.
+- You do not need to seek legal counsel immediately; administrative correction and federal error resolution processes are the standard first steps.
+- You do not need to worry about permanent loss of funds if the money remains uncollected and you have your original receipt.
 
 ## Important reassurance
-A name mismatch is a common, routine reason for a transfer to be blocked. In many cases, it’s resolved by correcting the recipient details or cancelling and resending with the exact legal name.
+Name mismatches are a routine security measure designed to protect your money from being intercepted by the wrong person. Providers deal with these errors daily, and they are usually resolved through a simple administrative update or a "cancel and resend" process.
 
 ## Scope note
-This guide covers the first steps to unblock a transfer or safely stop it. If the transfer shows as paid out to someone else, move quickly through the provider’s dispute steps and formal consumer-protection channels.
+This guide provides first-step stabilization for name mismatch errors in money transfers sent within or from the USA. It does not cover transfers that have already been paid out to an unauthorized person or legal disputes involving seized funds.
 
 ## Important note
-This is general information, not legal or financial advice. Rules vary by provider and pickup location, and identity verification can be strict. If you feel pressured to pay extra money to “release” funds, pause and verify everything through the provider’s official support.
+This information is for general guidance and does not constitute legal or financial advice. Policies regarding name edits vary significantly between companies and destination countries. Direct contact with the provider's official support is required for any transaction changes.
 
 ## Additional Resources
 - https://www.consumerfinance.gov/ask-cfpb/i-sent-money-to-someone-and-they-couldnt-get-the-money-because-the-information-didnt-match-what-i-provided-what-can-i-do-en-1739/
 - https://www.consumerfinance.gov/ask-cfpb/how-do-i-notify-the-remittance-transfer-provider-about-a-mistake-with-my-money-transfer-en-1753/
-- https://www.consumerfinance.gov/rules-policy/regulations/1005/33
-- https://www.law.cornell.edu/cfr/text/12/1005.33
-- https://www.moneygram.com/us/en/help-center/faq/send-receive/edit-transaction
+- https://www.consumerfinance.gov/consumer-tools/sending-money/
+- https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/
 - https://www.westernunion.com/global/en/receiver-name-change.html
-- https://www.ftc.gov/

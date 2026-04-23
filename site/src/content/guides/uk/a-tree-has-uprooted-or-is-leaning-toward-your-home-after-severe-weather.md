@@ -1,92 +1,109 @@
-﻿---
+---
 title: "What to do if… a tree has uprooted or is leaning toward your home after severe weather"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - tree leaning toward house
-  - uprooted tree after storm
-  - storm damaged tree risk
-  - tree about to fall on home
-  - fallen tree near property
-  - cracked trunk after high winds
-  - exposed roots after severe weather
-  - neighbour tree leaning over
-  - tree threatening roof
-  - tree threatening windows
-  - hanging branches after storm
-  - storm cleanup tree danger
-  - power lines near tree
-  - fallen cable near home
-  - emergency tree make safe
-  - windblown tree near building
-  - dangerous tree on road
-  - tree on verge outside house
-last_reviewed: "2026-03-04"
+  - "tree leaning toward house"
+  - "uprooted tree after storm"
+  - "storm damaged tree risk"
+  - "tree about to fall on home"
+  - "fallen tree near property"
+  - "cracked trunk after high winds"
+  - "exposed roots after severe weather"
+  - "neighbour tree leaning over"
+  - "tree threatening roof"
+  - "tree threatening windows"
+  - "hanging branches after storm"
+  - "storm cleanup tree danger"
+  - "power lines near tree"
+  - "fallen cable near home"
+  - "emergency tree make safe"
+  - "windblown tree near building"
+  - "dangerous tree on road"
+  - "tree on verge outside house"
+  - "what do i do if a tree is leaning"
+  - "what do i do if my tree uprooted"
+  - "what do i do if a tree fell on my roof"
+  - "what do i do if storm damaged my tree"
+  - "help i have a leaning tree"
+  - "help i have a fallen tree"
+  - "my tree is uprooted"
+  - "my neighbour tree is falling"
+  - "smell of ozone near tree"
+  - "sparking power lines tree"
+  - "buzzing sound from fallen tree"
+  - "cracking wood sounds storm"
+  - "visible root plate lifting"
+  - "tree root ball exposed"
+  - "tree resting on power lines"
+  - "leaning tree at night"
+  - "storm damage tree in garden"
+  - "tree surgeon emergency uk"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a tree has uprooted or is leaning toward your home after severe weather (UK)
 
 ## Short answer
-Get everyone away from the “fall zone” (the side the tree is leaning toward) and keep well clear of any cables or lines. If there’s an immediate risk to life/serious injury, call 999; otherwise arrange urgent help via the landowner (council/highways for public land, or an insured tree surgeon for private land).
+Evacuate the "fall zone" (the area the tree is leaning toward) immediately and maintain a distance of at least twice the height of the tree. Call 999 if there is an immediate risk to life or if the tree is touching power lines; otherwise, contact an Arboricultural Association approved tree surgeon or the relevant local authority.
 
 ## Do not do these things
-- Don’t stand under the leaning side or near the lifted root plate (uprooted trees can shift suddenly).
-- Don’t touch, approach, or try to move anything near overhead lines or fallen cables.
-- Don’t try to cut, pull, brace, or “tie back” a storm-damaged tree yourself.
-- Don’t use ladders or go onto the roof near the likely fall path.
-- Don’t let children/pets into the garden/driveway area around the tree.
-- Don’t assume “it’s stable because it’s stopped moving” — storm damage can fail later.
+- Don’t stand under the leaning side of the tree or near the lifted root plate.
+- Don’t touch, approach, or move any cables, even if they appear "dead" or are not sparking.
+- Don’t attempt to prune, brace, or secure the tree using ropes, chains, or personal vehicles.
+- Don’t use ladders to inspect roof damage if the tree is leaning toward that section of the building.
+- Don’t allow pets or children into any outdoor area within the tree's potential fall path.
+- Don’t assume the tree is safe because it has stopped moving; root failure can be delayed by hours or days.
 
 ## What to do now
-1. **Create a safety perimeter immediately.**  
-   Move everyone to a safer part of the home away from the fall path (or leave the building if the safest rooms are still in the fall zone). Keep well back from the tree and any hanging branches.
+1. **Evacuate the fall zone and create a safety perimeter.**  
+   **Move all residents to a room on the opposite side of the house from the lean, or leave the property entirely if the structure is threatened.** Ensure you stay back a distance equal to at least twice the height of the tree to account for "snap-back" or secondary branch fall.
 
-2. **Check quickly (from a distance) for electrical hazards and treat them as live.**  
-   If the tree is touching lines, there are cables on the ground, or you see/hear sparking/arcing:
-   - **Call 999** if there’s immediate danger to life/serious injury.
-   - **Report it to the electricity network operator:**  
-     **England/Scotland/Wales:** call **105** (free).  
-     **Northern Ireland:** use your electricity network’s emergency line (not 105).  
-   Keep everyone away until professionals confirm it’s safe.
+2. **Check for electrical hazards from a safe distance.**  
+   **If the tree is touching overhead lines or if cables are on the ground, treat them as live and lethal.**
+   - **In England, Scotland, or Wales:** Call **105** to reach the electricity network operator.
+   - **In Northern Ireland:** Call **03457 643643** (NIE Networks).
+   - **Call 999** if there is sparking, fire, or immediate danger to people.
 
-3. **If it’s affecting a road/pavement or public land, report it to the right authority.**  
-   - If it’s an **immediate danger**, call **999**.  
-   - Otherwise, report an obstruction/dangerous tree to your **local council/highway authority** (or **National Highways** if it’s a motorway/trunk road in England).
+3. **Contact an emergency tree surgeon for an urgent "make-safe" assessment.**  
+   **Search the Arboricultural Association directory for an "Approved Contractor" near you who offers 24-hour emergency services.**
+   - Tell them specifically: "Uprooted tree leaning toward a dwelling."
+   - Confirm they have public liability insurance before they begin work.
 
-4. **If you rent or live in a managed building, tell the right person early.**  
-   Call your **landlord/letting agent/building manager** (use their out-of-hours/emergency number). Ask them to arrange urgent “make safe” work. Safety comes first—do not wait for permission if you need to move out of danger.
+4. **Report trees on public land or highways to the local authority.**  
+   **Call your local council's emergency highways line if the tree is on a public verge, pavement, or road.**
+   - If the tree is on a motorway or major trunk road in England, call **National Highways** on **0300 123 5000**.
+   - For similar major roads in Scotland, contact **Traffic Scotland** on **0800 028 1414**.
 
-5. **If it’s on private land (yours or a neighbour’s), get urgent professional help.**  
-   Contact an **insured tree surgeon/arborist** for an urgent make-safe visit. Say: “tree uprooted/leaning toward the house after severe weather.”
+5. **Notify your landlord or building manager if you do not own the property.**  
+   **Use their emergency or out-of-hours contact number to report the hazard immediately.** Prioritize your physical safety and evacuation over waiting for their specific instructions or permission to act.
 
-6. **Reduce the impact if it falls (only if safe and quick).**  
-   Without going near the tree: move cars/bins/garden furniture out of the fall zone; keep doorways/exits clear.
+6. **Clear the fall zone of portable assets only if it is safe to do so.**  
+   **Move cars, bins, or garden furniture away from the path of the lean only if you can do so without entering the area directly under the canopy or near the roots.** Do not enter the "danger zone" to save property.
 
-7. **Document and notify your insurer early.**  
-   Take photos/video from a safe distance (lean angle, exposed roots, proximity to roof/windows, any visible damage) and contact your home insurer—especially if you may need emergency works.
+7. **Take photographs for insurance purposes from a distance.**  
+   **Capture the angle of the lean, the condition of the root plate, and any initial contact with the building.** This documentation helps with subsequent claims once the immediate hazard is stabilized.
 
-8. **If the home has been struck or looks structurally compromised, treat it as unsafe.**  
-   If you see major cracking, sagging, or sudden movement, leave the building. Call **999** if there’s immediate danger. Only shut off utilities if you can do so without entering the risk area.
+8. **Monitor the building for structural distress.**  
+   **If you observe new cracks in walls, windows failing to close, or sagging ceilings, evacuate the building immediately.** Call 999 to report a potential structural collapse.
 
 ## What can wait
-- You do not need to decide liability or “whose tree it is” right now.
-- You don’t need to clear debris immediately (especially not with ladders or chainsaws).
-- You don’t need full repair quotes before making the situation safe.
-- You can wait to write formal complaints/claims until the immediate hazard is controlled.
+- You do not need to determine who owns the tree or who is liable for costs right now.
+- You do not need to clear smaller debris, branches, or leaves until the main trunk is secured.
+- You do not need a full replanting or landscaping plan.
+- You can wait for the storm to subside before performing a full professional structural survey of the house.
 
 ## Important reassurance
-It’s normal to feel shaken and to want to “fix it fast.” With storm-damaged trees, the safest choice is usually to **slow down, keep distance, and bring in the right service**—especially if electricity might be involved.
+It is normal to feel significant anxiety when a large tree threatens your home. Trees are heavy and their movement is unpredictable after a storm. By moving away and calling professional arborists, you are taking the most effective action to prevent injury. Professionals have the specialized rigging and heavy machinery required to manage "tension wood" and unstable root systems safely.
 
 ## Scope note
-This is first-step guidance for the next few hours. Once the area is safe, you may need follow-up help (insurer, council/highways, structural checks, or a qualified tree professional) depending on damage and where the tree stands.
+This guide covers first-step stabilization and emergency reporting only. Long-term removal, insurance loss adjustment, and permanent structural repairs will require specialist follow-up once the site is declared "safe" by an arborist.
 
 ## Important note
-This is general information, not professional or legal advice. If you think anyone is in immediate danger, call 999. If you cannot confirm something is safe (especially around electricity), treat it as unsafe and wait for professionals.
+This information is for guidance only and does not replace the judgment of emergency services or qualified arborists. If you suspect an immediate threat to life, always call 999. Do not attempt any DIY tree work on storm-damaged timber; "windblown" trees are under extreme tension and can move with lethal force when cut.
 
 ## Additional Resources
-- https://www.gov.uk/report-obstruction-road
-- https://prepare.campaign.gov.uk/be-informed-about-hazards/power-cuts/
-- https://www.energynetworks.org/newsroom/power-cut-emergency-number-reaches-fifth-birthday
-- https://www.powercut105.com/en/
-- https://www.hse.gov.uk/treework/index.htm
-- https://www.hseni.gov.uk/news/post-storm-advice-working-fallen-or-damaged-trees
+- https://www.citizensadvice.org.uk/housing/problems-with-neighbours/if-you-disagree-with-your-neighbour-about-a-tree-or-hedge/
+- https://www.gov.uk/find-local-council
+- https://www.gov.uk/guidance/tree-preservation-orders-and-trees-in-conservation-areas
+- https://www.citizensadvice.org.uk/consumer/insurance/types-of-insurance/buildings-insurance/
+- https://www.citizensadvice.org.uk/consumer/insurance/problems-with-insurance-policies/problems-with-an-insurance-claim/

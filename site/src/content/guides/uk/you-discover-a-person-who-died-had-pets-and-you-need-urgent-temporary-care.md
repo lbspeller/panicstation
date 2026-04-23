@@ -1,90 +1,112 @@
-﻿---
+---
 title: "What to do if… you discover a person who died had pets and you need urgent temporary care"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - deceased person had pets
-  - owner died pets left behind
-  - urgent temporary pet care
-  - emergency pet fostering uk
-  - pet care after death
-  - pets alone in house
-  - keys access pets after death
-  - dog left after owner died
-  - cat left after owner died
-  - finding pet care instructions
-  - executor will pet arrangements
-  - microchip scan found pet
-  - report stray dog to council
-  - emergency pet boarding
-  - neighbour found pets after death
-  - temporary carer for pets
-  - pets need food water now
-  - pets locked in property
-last_reviewed: "2026-02-23"
+  - "deceased person left pets"
+  - "owner died pets alone"
+  - "urgent temporary pet care"
+  - "emergency animal fostering uk"
+  - "pet care after death"
+  - "pets locked in house"
+  - "access pets deceased owner"
+  - "dog left after owner died"
+  - "cat left after owner died"
+  - "finding pet care instructions"
+  - "executor will pet responsibility"
+  - "emergency pet boarding uk"
+  - "temporary carer for pets"
+  - "pets need food water now"
+  - "pets trapped in property"
+  - "what do i do if owner died pets left"
+  - "what do i do if neighbor died pets inside"
+  - "help i found pets in dead persons house"
+  - "my relative died and had dogs"
+  - "smell of pet waste in house"
+  - "barking from house owner deceased"
+  - "pets with no food or water"
+  - "finding a microchip scanner"
+  - "rspca emergency pet care"
+  - "cinnamon trust fostering"
+  - "animal welfare act 2006 uk"
+  - "estate property pets"
+  - "who looks after cats when owner dies"
+  - "local council duty of care pets"
+  - "executor duties regarding pets"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you discover a person who died had pets and you need urgent temporary care (UK)
 
 ## Short answer
-Get the pets safely contained with water and basic care, then quickly involve the next of kin/executor (if known) and the appropriate local service (vet and, for dogs without an available owner, the local council dog warden) so the pets’ whereabouts are traceable and lawful.
+Contact the executor or next of kin immediately to establish legal authority, then provide water and containment while calling the RSPCA (0300 1234 999) or local council if animals are at risk and no family can act.
 
 ## Do not do these things
-- Don’t assume the pets can “manage for a day” without checking water, temperature, and access to toilets/litter trays.
-- Don’t force entry to a property or “borrow keys” informally if you’re not authorised—get help via the right people/services.
-- Don’t remove the pets and hand them to someone casually (“a friend of a friend”) without leaving a clear written record of where they went and why.
-- Don’t advertise the exact address or share house keys widely on social media while you’re distressed.
-- Don’t attempt risky handling (cornering, grabbing collars, scruffing) if the animal is frightened—use calm containment instead.
-- Don’t give human medicines or new foods “to help” unless a vet tells you to.
+- Don't force entry into a locked property yourself if you are not the next of kin or legal representative.
+- Don't assume animals are safe because they have a large bowl of food; check for water, hazards, and sanitation.
+- Don't give pets any human medications or change their diet drastically without veterinary advice.
+- Don't rehome pets permanently or hand them to strangers without written consent from the executor.
+- Don't handle frightened or aggressive animals directly; use rooms or crates to contain them safely.
+- Don't wait more than a few hours to seek help if the animals are without water or in extreme temperatures.
 
 ## What to do now
-1. **Stabilise the animals’ immediate welfare (first 10 minutes).**  
-   Put each pet in a safe enclosed space (one room if possible), away from open doors/windows and hazards. Provide fresh water. If you find their usual food, offer a small amount.
+1. **Secure the animals and provide immediate welfare (first 10 minutes).**
+   **Contain each pet in a safe, hazard-free room with fresh water and ventilation.**
+   - Do not use rooms with open windows or fragile items.
+   - Separate different species (e.g., cats from dogs) to reduce stress.
+   - Provide a small amount of familiar food only if it is easily found.
 
-2. **If you don’t have lawful access to the pets, don’t improvise entry.**  
-   If the pets are inside a locked home and you’re not authorised to enter, contact the next of kin/executor (if known) and, if needed, the police (non-emergency) or building manager/landlord for a welfare/access plan. Keep the focus on the animals’ welfare and safety.
+2. **Identify the legal authority for the animals.**
+   **Contact the named executor in the will or the nearest next of kin immediately.**
+   - In the UK, pets are legally classified as "chattels" (personal property) and belong to the deceased's estate.
+   - Only the executor or a person authorized by the family has the legal right to move the animals or authorize boarding.
 
-3. **Check for urgent risk and decide if you need a vet right now.**  
-   If any pet is collapsed, struggling to breathe, severely injured, trapped, or in extreme heat/cold, call a local veterinary practice immediately (many have out-of-hours messages) for emergency instructions.
+3. **Handle access issues through official channels.**
+   **If pets are locked inside and you lack access, contact the landlord, building manager, or the RSPCA.**
+   - Police (101) may attend if there is a concern for life, but they generally do not provide access for animal welfare alone unless instructed by a court or during a welfare check on a person.
+   - The RSPCA (0300 1234 999) or Scottish SPCA (03000 999 999) can advise on emergency access if neglect is imminent.
 
-4. **Look for “pet care instructions” inside the home (5–15 minutes, quick scan only).**  
-   Check obvious places: a note on the fridge, pet folder, kitchen drawer, near food bowls, or by the door. Look for: vet name, feeding schedule, medication, microchip details, and any plan naming a temporary carer.
+4. **Search for "Pet Care Instructions" or a "Pet Card" (5-15 minutes).**
+   **Look for a folder, fridge note, or wallet card containing vet details and emergency contacts.**
+   - Check the kitchen drawers, the area near pet food, or a noticeboard.
+   - Look specifically for mention of "The Cinnamon Trust," "Canine Care Card" (Dogs Trust), or "Cat Guardians" (Cats Protection).
 
-5. **Contact the right person for authority to act.**  
-   - If you know **next of kin**, ask them to nominate **one temporary carer** today (so the pets don’t get passed around).  
-   - If you can identify the **executor**, contact them too. Ask for confirmation (text is fine) that you’re arranging temporary welfare care.
+5. **Contact a local veterinary practice for a microchip scan.**
+   **Ask a vet to check for a microchip to verify the owner's details and secondary emergency contacts.**
+   - Many vets will assist with a scan for a bereaved pet to ensure the correct family is notified.
+   - Vets can also provide emergency boarding referrals if the family is unable to act today.
 
-6. **Create a simple handover note immediately (even if it’s just on paper).**  
-   Write: date/time you found the pets, number/type, where they are now, what you provided (water/food), any meds found/given (or none), and your contact number. Leave a copy in the home and keep a photo.
+6. **Establish a temporary care agreement in writing.**
+   **If you take the pets into your care, send a text or email to the family/executor confirming the arrangement.**
+   - Note the time you took the pets, their current condition, and their location.
+   - This prevents accusations of theft and ensures the estate knows where the "property" is.
 
-7. **If the dog’s owner isn’t available, contact the local council (dog warden) and follow their instructions.**  
-   If you **know who the owner is**, you should try to contact them/return the dog via family/executor. If you **don’t know** or no owner is available, contact the local council to report the dog and explain you can provide safe temporary containment while next steps are arranged.
+7. **Contact specialist charities for bereaved pet support.**
+   **Call The Cinnamon Trust (01736 757 900) if the owner was elderly or terminally ill.**
+   - This charity specializes in keeping pets of the elderly/terminally ill and can often provide emergency fostering or long-term care for bereaved pets.
+   - Office hours are typically Monday to Friday, 9 am to 5 pm.
 
-8. **For cats and other pets: use a vet/recognised charity route to identify and place safely.**  
-   A local vet (or a cat charity) can scan for a microchip and advise on safe temporary options. If family can’t act today, ask the vet about emergency boarding or reputable short-term care.
-
-9. **If family can’t act and you need an urgent temporary placement, use a known service rather than ad-hoc rehoming.**  
-   - **Vet**: ask about emergency boarding/referrals.  
-   - **The Cinnamon Trust**: can offer foster options in some situations, including “forever foster” for pets whose owners have died (availability and eligibility vary).
+8. **Involve the local council if no family or funds are available.**
+   **Contact the local authority's Environmental Health or Social Services department.**
+   - Under the Public Health Act 1984 or the Care Act 2014, councils may have a duty to protect the property (including pets) of someone who has died or been hospitalised if no one else can act.
 
 ## What can wait
-- You don’t need to decide permanent rehoming today.
-- You don’t need to sort ownership, wills, or “who pays” before the pets have safe temporary care.
-- You don’t need to deep-clean the home or search every room—only locate essentials for the animals.
-- You don’t need to post online unless a professional service (council/vet/charity) advises it.
+- You do not need to settle the deceased's estate or ownership papers today.
+- You do not need to find a permanent "forever home" in the first 48 hours.
+- You do not need to pay for veterinary or boarding costs yourself; these are typically liabilities of the estate.
+- You do not need to clean the entire property; focus only on the pet's immediate area.
 
 ## Important reassurance
-It’s normal to feel shocked and out of your depth doing practical animal care alongside grief. If you focus on containment, water, and getting the right person/service involved, you’re doing what matters most in the first hours.
+It is common to feel overwhelmed when balancing animal welfare with the shock of a death. By securing the animals and notifying the legal representatives, you have fulfilled the most critical requirements. Professional services and charities are equipped to handle the transition once you have made the initial report.
 
 ## Scope note
-This is first-steps-only guidance for the first hours to a couple of days. Longer-term decisions (rehoming, estate issues, ongoing costs) may need the executor, a vet, and/or an animal welfare charity.
+This guide provides first-step stabilization for pet welfare within the first 24 to 48 hours after an owner's death. It does not cover long-term rehoming, legal probate for pets, or veterinary medical procedures.
 
 ## Important note
-This is general information, not legal or veterinary advice. If you’re unsure about the animal’s immediate health or safety, contact a veterinary practice urgently. If you can’t safely contain the animal or you feel at risk, step back and seek professional help rather than trying to handle it yourself.
+This information is for general guidance and does not constitute legal or veterinary advice. Pets are legally part of the deceased person's estate. If an animal appears severely ill, injured, or distressed, contact a qualified veterinarian immediately.
 
 ## Additional Resources
-- https://www.gov.uk/report-stray-dog
-- https://www.legislation.gov.uk/ukpga/1990/43/section/149
-- https://www.rspca.org.uk/adviceandwelfare/pets/lost/dog
-- https://www.cats.org.uk/help-and-advice/lost-found-and-feral-cats/found-a-cat
-- https://cinnamon.org.uk/how-can-you-support-the-trust/fostering-a-pet/
+- https://www.cats.org.uk/what-we-do/catguardians/catguardians-qanda
+- https://www.dogstrust.org.uk/get-help/canine-care-card
+- https://www.bluecross.org.uk/pet-peace-of-mind
+- https://www.rspca.org.uk/whatwedo/care/homeforlife
+- https://www.cats.org.uk/what-we-do/giving-up-a-cat

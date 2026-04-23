@@ -1,95 +1,92 @@
-﻿---
+---
 title: "What to do if… you are told your background check has failed after you already started work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - background check failed after starting
-  - failed background screening at work
-  - told vetting failed after hire
-  - background check problem first week
-  - screening mismatch wrong person
-  - employment started then check failed
-  - pre-employment checks delayed result
-  - dbs issue after starting job
-  - right to work check problem
-  - vetting flagged after onboarding
-  - hr says screening failed
-  - hired then checks came back
-  - conditional offer check issue
-  - started work then offer withdrawn
-  - employment screening dispute
-  - identity check failed at employer
-  - reference check problem after start
-  - compliance check failed at work
-  - worried about being sacked
-last_reviewed: "2026-01-08"
+  - "work email deleted soon"
+  - "email access being revoked"
+  - "leaving job email account closure"
+  - "offboarding email shutdown"
+  - "employer deleting mailbox"
+  - "need emails for evidence"
+  - "need records from work email"
+  - "recover messages from outlook"
+  - "microsoft 365 mailbox removed"
+  - "gmail workspace account removed"
+  - "need payslips and hr emails"
+  - "need performance review copies"
+  - "need disciplinary records copy"
+  - "grievance emails missing"
+  - "told account ends on short notice"
+  - "need handover records urgently"
+  - "subject access request work emails"
+  - "dsar from employer uk"
+  - "help i am losing work access"
+  - "what do i do if work email is closing"
+  - "what do i do if i need old emails"
+  - "what do i do if i am leaving my job"
+  - "my work email is being deleted"
+  - "my emails are going to be deleted"
+  - "my boss is closing my email"
+  - "my hr records are missing"
+  - "see work emails after leaving"
+  - "smell of burning bridges"
+  - "visual notice of account closure"
+  - "feeling of losing proof"
+  - "hearing about email shutdown"
+  - "wrongful dismissal proof"
+  - "unfair dismissal records"
+  - "p45 missing email"
+  - "p60 digital copy"
+  - "contract of employment lost"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told your background check has failed after you already started work (UK)
 
 ## Short answer
-Ask, in writing, exactly **which check** “failed” and **what they plan to do next**, and request a short pause so you can **see the information and correct any mistake** before any decision is made.
+Send a written request to HR or IT immediately to confirm the exact deletion time and request that your essential employment records (contracts, pay records, and HR correspondence) be moved to a company-owned shared drive or archived for your future access.
 
 ## Do not do these things
-- Do not resign “to make it easier” or sign anything on the spot (especially settlement/waiver documents).
-- Do not guess or volunteer extra personal history to “explain” it before you’ve seen what the issue is.
-- Do not hand over original identity documents informally or outside HR’s normal process.
-- Do not argue in chat/Teams texts while upset — keep messages brief and factual.
-- Do not assume it’s a criminal-record issue; “failed” is often an admin/ID/right-to-work mismatch.
+- Do not mass-forward work emails to a personal account, as this often triggers security alerts or breaches confidentiality clauses in your contract.
+- Do not download large volumes of company data or client information to personal USB drives or personal cloud storage.
+- Do not delete emails or files in a way that looks like "wiping" the account, as this may be viewed as misconduct.
+- Do not assume that IT can "undelete" a mailbox after the retention period (often 30 days) has expired.
+- Do not wait until your final hour of employment to ask for access, as accounts are often disabled at the start of the final day.
 
 ## What to do now
-1. **Get the exact reason in writing.** Ask:
-   - *Which check?* (DBS basic/standard/enhanced, right-to-work, references, credit/financial, qualification verification, etc.)
-   - *What exactly is flagged?* (identity mismatch, missing document, “could not verify”, adverse record, dates not matching, etc.)
-   - *What action are you considering?* (pause/suspension, redeployment, termination, “offer withdrawn”, etc.)
-
-2. **Ask to see what they’re relying on (or the key details).**
-   - If it’s a **DBS check**, ask what level it was and what they saw, then review **your DBS certificate** carefully (name, DOB, addresses, certificate date, and any listed information).
-   - If it’s **right to work**, ask which method they used (online check with share code, manual document check, or an identity service provider/IDVT) and what did not match.
-
-3. **If it’s a DBS issue and something is wrong: start a dispute quickly.**
-   - DBS certificate disputes must be raised **within 3 months of the date on the certificate**.
-   - If personal details or disclosed record information are incorrect, begin the DBS dispute process and keep a record of what you submitted (certificate number/date and a screenshot/photo of the relevant part).
-
-4. **If it’s a right-to-work/ID mismatch: re-do the check using the correct route.**
-   - Offer the correct evidence route (for example, provide a share code if you have digital status, or present the correct original documents via the employer’s normal process).
-   - Ask HR to confirm, in writing, what they need from you and that they will record the check in the prescribed way.
-
-5. **Use data-rights to correct wrong data (especially where a screening company is involved).**
-   - Tell HR: “I believe the information used may be inaccurate. Please correct any inaccurate personal data you hold about me related to this screening decision.”
-   - Ask for a copy of the data they hold about you for the screening decision (a subject access request).
-   - If a third-party screening company produced a report, make a similar access/rectification request to that company via its privacy/SAR process as well.
-
-6. **Ask for a temporary ‘hold’ on decisions while you correct errors.**
-   - Ask for a short, specific pause: “Please hold any final decision until I’ve reviewed the information and submitted corrections/disputes.”
-   - If the role is regulated (for example, care, schools, security, finance), ask whether you can be **temporarily reassigned** to non-restricted duties while checks are resolved.
-
-7. **If they move toward disciplinary action or dismissal, insist on a fair process.**
-   - Ask what procedure they are using and request everything in writing.
-   - If you’re invited to a **disciplinary hearing/meeting** that could result in a formal warning or other formal action, you have the right to be accompanied by an eligible companion. (If it’s only an investigation meeting, there is not usually a legal right — but you can still ask to bring someone.)
-   - If they dismiss you, ask immediately how to **appeal** and the deadline.
-
-8. **Make an evidence pack today (10 minutes).**
-   - Save: offer letter/contract, any “conditional” wording, onboarding emails, the message saying the check “failed”, any certificate/report you have, and a simple timeline of dates.
+1. **Request the cutoff details and data handling plan in writing.** Send an email to HR or your IT department asking for the specific date and time your access will cease. 
+   - Ask if the mailbox is being permanently deleted or if it will be held in a "Discovery" or "Archive" state that can be searched later if needed.
+2. **Compile a list of specific "Right of Access" documents.** Identify exactly which documents you require for your own records rather than general work data.
+   - contracts and any written variations to terms
+   - pay slips, P60s, and P45s (if not accessible via a separate payroll portal)
+   - performance reviews, appraisal outcomes, and promotion letters
+   - formal correspondence regarding grievances, disciplinary matters, or health and safety.
+3. **Ask for an internal, company-approved transfer of your professional work.** If you need to retain project files for a handover, request that IT move these specific folders to a shared mailbox or a company SharePoint site.
+   - This ensures you are not "taking" data, but rather ensuring it remains available to the business under their control.
+4. **Submit a formal Subject Access Request (SAR) if a dispute is likely.** If you believe records are being deleted to hide evidence, invoke your rights under the UK GDPR. 
+   - State clearly: "I am making a Subject Access Request for my personal data, specifically [list items such as disciplinary records or specific email threads between X and Y dates]."
+   - Under the Data (Use and Access) Act 2025, the employer must perform "reasonable and proportionate" searches, so being specific helps ensure compliance.
+   - Note that the employer can "stop the clock" on their one-month deadline if they need you to clarify your request.
+5. **Request a copy of the company data retention policy.** This document will tell you how long they are legally required to keep your records (usually 6 years for contracts and 3 years for payroll) even after the email account itself is gone.
+6. **Seek guidance from Acas or your Union rep.** If you are being denied access to records you are legally entitled to, contact the Acas helpline for advice on how the Acas Code of Practice applies to your situation.
 
 ## What can wait
-- You do not need to decide today whether to threaten legal action, go to tribunal, or “accept it and move on”.
-- You do not need to write a long explanation of your life history — first confirm whether this is an **error vs. a policy decision**.
-- You do not need to contact multiple bodies at once; start with the employer’s written reason + the relevant dispute/correction route.
+- You do not need to organize or categorize every single email today; focus only on those with long-term legal or professional significance.
+- You do not need to file a formal complaint about the deletion today, provided you have made your request for records in writing.
+- You do not need to decide on your final legal strategy or whether to go to an Employment Tribunal.
 
 ## Important reassurance
-This situation is common and often fixable. “Failed background check” frequently means **something didn’t match** (name format, address history, document route, or a record attached to the wrong person) rather than that you’ve done anything wrong. Your job right now is to slow the process down and get the decision based on correct information.
+It is normal to feel a sense of urgency when digital access is being withdrawn, especially during a job exit. However, your legal rights to your personal data (under UK GDPR) and your core employment records (under the Limitation Act 1980) exist independently of your active email login. A written trail of your requests is your best protection.
 
 ## Scope note
-These are first steps only — to stabilise things, prevent panic mistakes, and buy time. If the employer is moving toward dismissal or the role has strict regulatory requirements, you may need specialist employment advice once you have the documents and timeline.
+This guide provides first-step stabilization for preserving access to essential records. It does not cover technical "how-to" guides for specific email software or provide legal strategy for employment disputes.
 
 ## Important note
-This is general information, not legal advice. Employment rights and processes depend on your contract terms, length of service, and whether regulated checks are legally required. If you feel pressured to resign or sign documents, pause and get independent advice before doing anything irreversible.
+This information is for general guidance and does not constitute legal advice. Data rights and employer obligations are subject to your specific contract of employment and the Data Protection Act 2018 (as amended by 2025/2026 legislation). If you are involved in a complex legal dispute, consult a qualified employment solicitor or a trade union representative.
 
 ## Additional Resources
+- https://www.citizensadvice.org.uk/work/getting-a-job/if-your-job-offer-is-withdrawn/
+- https://www.gov.uk/employers-checks-job-applicants
+- https://www.gov.uk/guidance/dbs-check-requests-guidance-for-employers
 - https://www.gov.uk/report-problem-criminal-record-certificate/dispute-a-mistake
-- https://www.gov.uk/government/publications/dbs-certificate-disputes-and-fingerprint-consent-forms-and-guidance-af14-af15
-- https://assets.publishing.service.gov.uk/media/6878ead80263c35f52e4dd76/26_06_25_Guidance_Right_to_work_checks_-_an_employer_s_guide.pdf
-- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
-- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/subject-access-request-q-and-as-for-employers/
-- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/right-to-rectification/
+- https://www.gov.uk/guidance/basic-dbs-checks-guidance

@@ -1,95 +1,101 @@
-﻿---
+---
 title: "What to do if… you discover your workplace retirement contributions have not been paid into your plan"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - 401k contributions not deposited
-  - retirement plan missing deposits
-  - payroll withheld 401k not sent
-  - employer not funding 401k
-  - elective deferrals not remitted
-  - retirement contributions missing
-  - plan account not updated
-  - 403b contributions missing
-  - 457 contributions missing
-  - paycheck deferral not in plan
-  - late 401k deposits
-  - missing employer match deposits
-  - plan administrator no record
-  - ERISA contribution problem
-  - EBSA complaint retirement plan
-  - retirement plan deposit delay
-  - deductions taken not invested
-  - missing contributions after payday
-last_reviewed: "2026-01-07"
+  - "client disputes completed work"
+  - "client refusing to pay"
+  - "payment stopped mid project"
+  - "invoice unpaid after delivery"
+  - "disputed deliverables"
+  - "client withholding final payment"
+  - "work accepted then disputed"
+  - "last minute scope dispute"
+  - "client claims work is incomplete"
+  - "deadlines still approaching"
+  - "urgent project deadline dispute"
+  - "client stops payment suddenly"
+  - "nonpayment after completion"
+  - "client demands changes for free"
+  - "milestone payment not released"
+  - "retainer unpaid dispute"
+  - "chargeback risk after delivery"
+  - "client ghosting after delivery"
+  - "client delays sign off"
+  - "help i have a client dispute"
+  - "what do i do if client stops payment"
+  - "what do i do if client disputes work"
+  - "my client stopped paying me"
+  - "my client says work is incomplete"
+  - "help client refused final invoice"
+  - "completed work dispute"
+  - "payment stopped"
+  - "deadline dispute"
+  - "unpaid project work"
+  - "freelance payment dispute help"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you discover your workplace retirement contributions have not been paid into your plan (USA)
 
 ## Short answer
-Document the missing deposits, then contact **both** your employer/payroll and the **plan administrator/recordkeeper** in writing today—then escalate to **EBSA (U.S. Department of Labor)** if it’s an ERISA-covered plan and you don’t get a clear, prompt correction.
+Stop all active production immediately and send a formal "dispute clarification" notice that links further work to the resolution of current arrears. Document the exact state of deliverables and preserve all communications before the client can restrict your access to shared systems.
 
 ## Do not do these things
-- Don’t assume the plan is “gone” from one missing deposit—sometimes deposits post late or are misallocated.
-- Don’t rely on verbal promises; get dates and amounts **in writing**.
-- Don’t stop contributing, take a loan/withdrawal, or roll over the account in panic—changes can complicate corrections.
-- Don’t sign any settlement or waiver without independent advice.
-- Don’t accuse individuals publicly; keep it factual and records-based.
+- Do not continue working on future milestones in hopes that "good faith" will trigger payment.
+- Do not delete, "brick," or remotely sabotage work already delivered, as this creates a legal counterclaim for damages.
+- Do not engage in rapid-fire texting or phone calls; move all communication to email for an evidentiary trail.
+- Do not apologize for perceived "errors" or "delays" in writing, as these admissions can be used to justify non-payment.
+- Do not hand over administrative passwords, source files, or final assets that were not already delivered.
 
 ## What to do now
-1. **Freeze the facts (15 minutes).**  
-   Gather:
-   - paystubs showing your retirement deductions/deferrals (and any employer match notation),
-   - your plan account statements/transaction history showing missing deposits,
-   - any benefits enrollment confirmation you have,
-   - the pay dates affected and the dollar amounts withheld.
+1. **Freeze all production and create an "as-is" evidence archive.**
+   - **Save a local copy of every contract, Statement of Work (SOW), and approved change order.**
+   - **Capture screenshots of all written approvals, including "looks good" or "proceed" messages.**
+   - **Export a timestamped list of all files delivered or milestones reached up to the moment payment stopped.**
 
-2. **Identify what kind of plan this is (5 minutes).**  
-   EBSA enforces ERISA for most **private-sector** retirement plans, but many **governmental plans** (common for many 457 plans and some public-school 403(b) plans) and **church plans** generally aren’t covered by ERISA. If you’re not sure, ask HR/benefits or the plan administrator to confirm whether the plan is ERISA-covered.
+2. **Check your contract for "Suspension of Services" and "Acceptance" clauses.**
+   - **Identify if the contract allows you to stop work for non-payment without being in breach.**
+   - **Verify the "Acceptance Period" (often 5-10 days) to see if the work is already legally "accepted" by default.**
 
-3. **Confirm who the plan administrator is and get the plan’s complaint route (today).**  
-   If it’s ERISA-covered, request the plan’s key documents (like the Summary Plan Description and how to file a claim/complaint) from the plan administrator. If it’s not ERISA-covered, ask for the plan’s formal complaint route and the plan’s oversight contact (for example, the plan’s board/retirement system office).
+3. **Send a "Status and Deadline Impact" notice via email today.**
+   - **State clearly that all work is paused effective immediately due to the payment dispute.**
+   - **Request a written, itemized list of specific deficiencies that the client believes deviate from the agreed SOW.**
+   - **Provide a revised schedule showing that for every day payment is delayed, the final deadline shifts by at least one day.**
 
-4. **Email payroll/HR (today) with a specific checklist.**  
-   Ask:
-   - were my deferrals withheld on each listed payday and in what amounts,
-   - on what date were they transmitted to the plan (with any confirmation/reference),
-   - if not transmitted, what is the correction date and how will missed earnings be addressed,
-   - whether employer match is affected for the same periods.
+4. **Verify payment platform dispute windows immediately.**
+   - **Check if the payment was through a platform like Upwork, Stripe, or PayPal, which have strict 7 to 20-day merchant response windows.**
+   - **Upload your delivery proof and contract to the platform's resolution center the moment a formal dispute or chargeback is flagged.**
 
-5. **Contact the plan administrator/recordkeeper (today).**  
-   Ask them to confirm:
-   - whether contributions were received but not yet posted to your account,
-   - whether any deposits were posted to the wrong participant or held in a suspense account,
-   - the plan’s timeline and process to correct missing/late contributions.
+5. **Request payment for the "Undisputed Portion" of the invoice.**
+   - **Ask the client to release funds for segments of the work they have not specifically criticized.**
+   - **State that defining the "punch list" for disputed items requires the account to be current for all other completed work.**
 
-6. **Use the deposit rules to frame urgency (don’t wait around).**  
-   For ERISA-covered plans, participant contributions must be deposited **as soon as they can reasonably be segregated** from the employer’s assets. There is a **7-business-day safe harbor** for plans with **fewer than 100 participants** (deeming deposits timely if made by that point), but that does **not** mean an employer may delay if it can deposit sooner.
+6. **Secure your hosted environments and intellectual property.**
+   - **Revoke "Edit" or "Admin" permissions on shared cloud drives if the contract allows you to retain ownership until final payment.**
+   - **Ensure you have a complete offline backup of the project in its current state.**
 
-7. **If you don’t get a clear, prompt correction, contact EBSA (ERISA plans).**  
-   Provide your documentation (employer name, plan name, pay dates, amounts withheld, and what the plan account shows). EBSA Benefits Advisors can explain next steps and may help you recover benefits.
-
-8. **Keep your own “clean record” file.**  
-   Store copies off your work device and keep a simple timeline. If deposits are later corrected, save the before/after statements.
+7. **Determine if the relationship is "Contractor" or "Employee" for legal escalation.**
+   - **Check if you meet the "Economic Reality" test used by the Department of Labor (DOL) in 2026, focusing on your control over the work and profit/loss opportunity.**
+   - **If you are misclassified as a contractor but function as an employee, prepare to contact the DOL Wage and Hour Division.**
 
 ## What can wait
-- You don’t need to decide today whether to hire a lawyer or file a lawsuit.
-- You don’t need perfect calculations of lost earnings right now—first confirm whether deposits were made and when.
-- You don’t need to change investments or move your retirement account while deposits are being corrected.
+- You do not need to hire a lawyer or file a lawsuit in the first 24 hours.
+- You do not need to provide the "fixes" the client is demanding until the dispute is defined in writing.
+- You do not need to decide if you will ever work with this client again; focus only on the current invoice.
+- You do not need to respond to "urgent" demands for the approaching deadline while the pause is in effect.
 
 ## Important reassurance
-Finding a gap is scary, especially when money was taken from your paycheck. Moving from panic to documentation and written requests is the fastest way to get a clean correction—and missing/late deposits are taken seriously.
+It is a standard business practice to pause services when a payment is stopped or a fundamental dispute arises. You are not "failing" the project by protecting your right to be paid; you are preventing the accumulation of further uncompensated debt. Most professional disputes are resolved once a clear evidentiary trail and a work-stoppage notice are established.
 
 ## Scope note
-This guide covers first steps to confirm and escalate missing workplace retirement plan deposits. Later stages (formal claims, corrections, penalties, insolvency) may require specialized help.
+This guide provides first-step stabilization for commercial payment disputes. It does not cover specialized mechanics' liens, intellectual property litigation, or international debt collection.
 
 ## Important note
-This is general information for urgent first steps, not legal or tax advice. If you’re being pushed to sign something or to “drop it,” consider independent advice before agreeing.
+This information is for educational purposes and is not legal advice. State laws vary regarding statutory interest for late payments and small claims court limits. If the client threatens legal action or the amount exceeds small claims limits (typically $5,000–$10,000 depending on the state), consult an attorney licensed in your jurisdiction.
 
 ## Additional Resources
 - https://www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa
-- https://www.dol.gov/general/topic/retirement/erisa
-- https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa
-- https://www.law.cornell.edu/cfr/text/29/2510.3-102
-- https://webapps.dol.gov/elaws/ebsa/fiduciary/q4e.htm
-- https://www.irs.gov/retirement-plans/401k-plan-fix-it-guide-you-havent-timely-deposited-employee-elective-deferrals
+- https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/enforcement/eci
+- https://www.dol.gov/node/63395
+- https://www.dol.gov/sites/dolgov/files/EBSA/about-ebsa/our-activities/resource-center/fact-sheets/employee-contributions-fact-sheet.pdf
+- https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/enforcement/oe-manual/complaints

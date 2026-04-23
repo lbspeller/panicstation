@@ -1,87 +1,104 @@
-﻿---
+---
 title: "What to do if… you think a death may become public and you need to choose a family spokesperson quickly"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - death may become public
-  - family spokesperson
-  - choose spokesperson quickly
-  - media calling after death
-  - reporters contacting family
-  - press statement for family
-  - sudden bereavement public attention
-  - public information officer
-  - police investigation death
-  - medical examiner coroner case
-  - social media after a death
-  - stop rumours spreading
-  - who speaks for the family
-  - holding statement template
-  - family statement to media
-  - privacy after a death
-  - decline interview politely
-  - one voice for family
-last_reviewed: "2026-03-03"
+  - "choosing a family spokesperson"
+  - "death spokesperson"
+  - "family media representative"
+  - "public death protocol"
+  - "press contact after death"
+  - "handling media after bereavement"
+  - "what do i do if a death becomes public"
+  - "what do i do if reporters are calling"
+  - "what do i do if media is outside my house"
+  - "what do i do if my loved one is in the news"
+  - "help i need a spokesperson now"
+  - "help i am being contacted by news"
+  - "my family needs a media statement"
+  - "my private loss is public"
+  - "reporters calling my phone"
+  - "camera crews at the door"
+  - "social media death rumors"
+  - "holding statement template"
+  - "declining media interviews"
+  - "victim witness advocate contact"
+  - "public information officer"
+  - "police media contact"
+  - "press release after death"
+  - "privacy rights after crime"
+  - "marsys law privacy"
+  - "death notice public"
+  - "funeral media policy"
+  - "bereavement spokesperson"
+  - "news coverage of death"
+  - "media harassment after death"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you think a death may become public and you need to choose a family spokesperson quickly (USA)
 
 ## Short answer
-Choose **one** spokesperson now and use **one** short “holding statement” repeatedly. Direct all media to that person (and, if authorities are involved, redirect factual questions to the agency’s public-information contact).
+Select **one** person as the sole spokesperson and direct all inquiries to them using a pre-written three-sentence statement. Redirect all factual or investigative questions to the Public Information Officer (PIO) of the responding agency.
 
 ## Do not do these things
-- Don’t let multiple relatives “just answer a few questions” — inconsistent details spread instantly.
-- Don’t confirm or guess details (cause, timeline, witnesses, locations) in texts, DMs, or comments.
-- Don’t post emotional updates to “set the record straight” while you’re flooded — screenshots travel.
-- Don’t hand over documents/photos to journalists in the first hours.
-- Don’t feel pressured by deadlines like “we need a quote in 10 minutes.”
+- Do not allow multiple family members to answer "just one question" from different reporters.
+- Do not speak "off the record," as this provides no legal or professional guarantee of privacy.
+- Do not confirm names, cause of death, or timelines until the official agency (Police or Medical Examiner) has made a formal public release.
+- Do not post emotional rebuttals on social media to "correct" rumors.
+- Do not provide personal photos or documents to journalists during the first 24 hours.
+- Do not feel obligated to meet any reporter's deadline or "breaking news" window.
 
 ## What to do now
-1. **Make the decision small: pick one spokesperson for the next 24 hours.**  
-   Choose the person who can stay calm, repeat a script, and ignore provocation. Pick a backup only for missed calls.
+1. **Appoint one spokesperson and one backup for the next 24 hours.**  
+   - Select a person who is not the primary next of kin (such as a trusted cousin, family friend, or attorney) to handle communication.
+   - Ensure this person can repeat a script verbatim without adding personal commentary.
 
-2. **Send the family a one-sentence rule everyone can follow:**  
-   “Please don’t comment. If anyone asks, say: *‘Please contact [Name]. We’re not speaking individually.’*”
+2. **Distribute a single "no-comment" rule to all family members and friends.**  
+   - Instruct everyone to use the same phrase: "Please contact our spokesperson [Name] at [Phone/Email]; we are not speaking individually at this time."
 
-3. **Create a holding statement (2–4 sentences) and do not freestyle.**  
-   Example you can adapt:  
-   - “Our family is grieving and asking for privacy. We are not able to speak about details right now. If we have updates we want to share, they will come through our family spokesperson.”
+3. **Write a standard three-sentence holding statement to be read or emailed.**  
+   - Use this template: "Our family is currently grieving and we ask for privacy during this difficult time. We are cooperating with authorities and will not be sharing further details at this stage. Please direct any future inquiries to [Name] at [Contact Information]."
 
-4. **If law enforcement is involved, ask who handles media/public information for the case.**  
-   Call the agency’s non-emergency line and ask: “Who is the public information contact for media enquiries on this case?” Then tell reporters: “Please contact that office for confirmed information.” This helps you avoid being pulled into speculation during an investigation.
+4. **Identify the Public Information Officer (PIO) for the responding law enforcement agency.**  
+   - Call the non-emergency line of the local police or sheriff's department.
+   - **Ask for the name and contact details of the PIO assigned to the case.**
+   - Tell reporters: "For all confirmed facts regarding the investigation, please contact the [Agency Name] Public Information Officer."
 
-5. **If the medical examiner/coroner is involved, ask about their public-information process (if any).**  
-   Some offices have a designated contact for releases. If not, ask the main line: “Who can answer general questions about what information is public and when?” (You’re not asking for details — you’re asking how to avoid rumours.)
+5. **Request assistance from a Victim Witness Advocate.**  
+   - Call the local District Attorney’s office or the responding police department and ask to speak with a Victim Witness Advocate.
+   - **Ask the advocate about your state's privacy protections (such as Marsy’s Law) regarding the release of records or photos.**
 
-6. **Set up a single intake channel that you control.**  
-   - One phone number + one email for the spokesperson.  
-   - Voicemail: “Please email [address]. We’re not taking calls.”  
-   - If you can, use a trusted friend to screen messages so the spokesperson isn’t ambushed.
+6. **Establish a single intake channel for all media requests.**  
+   - Create a new email address or designate one phone number for media only.
+   - **Update the voicemail greeting for that number to state: "Media inquiries must be sent via email to [Address]. No phone interviews are being granted at this time."**
 
-7. **Quickly reduce accidental public signals.**  
-   - Ask close family not to post yet (even a name + “RIP” can trigger attention).  
-   - Adjust privacy settings, limit tagging/mentions, and avoid public comment threads for 24 hours.  
-   - If someone has already posted, ask them to edit/remove until you decide what you want public.
+7. **Secure social media accounts and digital footprints immediately.**  
+   - Set all family profiles to "Private."
+   - **Turn off "Tagging" and "Mentions" to prevent public comments from appearing on your timeline.**
+   - Request that friends remove any "RIP" posts or photos that have already been uploaded.
 
-8. **Decide a short “no-comment list” now.**  
-   Pick a few items you will not address (cause of death, “rumors,” family conflict, blame). The spokesperson repeats: “We’re not discussing that.”
+8. **Log every media contact attempt.**  
+   - Keep a simple list including the reporter's name, their outlet, their phone/email, and the time they called.
+   - **Do not respond to these individually; the spokesperson should send the holding statement once to each unique outlet.**
 
 ## What can wait
-- You don’t need to write a full statement, obituary, or memorial details right now.
-- You don’t need to respond to every message or correct every rumor today.
-- You don’t need to commit to interviews — “not now” is a complete answer.
-- You can switch spokespersons later when things stabilize.
+- You do not need to write an obituary or a full public tribute today.
+- You do not need to decide whether to grant a formal interview; "not at this time" is a sufficient permanent answer.
+- You do not need to monitor the news or social media comments.
+- You do not need to correct factual errors in news reports yourself; the PIO handles official corrections.
 
 ## Important reassurance
-In the first hours, a single calm voice and a single short script protect your family. You’re allowed to set boundaries — choosing a spokesperson is about reducing harm, not “going public.”
+It is normal to feel overwhelmed or harassed when a private tragedy becomes public. You are not "hiding" or being "uncooperative" by choosing a single voice to protect your family's boundaries. Establishing a spokesperson is a standard safety procedure designed to reduce further trauma.
 
 ## Scope note
-This is first-steps guidance for the next hours/day: choosing a spokesperson, controlling information flow, and routing media pressure away from grieving family members. Later choices can be made with more support and time.
+This guide provides first-step stabilization for managing media and public attention in the immediate hours following a death. It does not cover long-term reputation management or legal strategies.
 
 ## Important note
-This is general information, not legal advice. If there’s an active investigation, be especially cautious about details and rely on official public-information channels for confirmed facts.
+This information is for immediate crisis management and does not constitute legal advice. In cases involving active criminal investigations or high-profile litigation, consult with an attorney before making any public statements.
 
 ## Additional Resources
-- https://ovc.ojp.gov/library/publications/privacy-dignity-guide-interacting-media
-- https://www.wisdoj.gov/Crime%20Victims%20Services/Interacting_with_the_Media_What_You_Should_Know.pdf
-- https://www.ojp.gov/pdffiles1/ojjdp/212703.pdf
+- https://afsp.org/practical-information-for-immediately-after-a-loss/
+- https://afsp.org/talking-to-others-about-what-happened/
+- https://ovc.ojp.gov/sites/g/files/xyckuh226/files/pubs/OVC_Archives/nvaa2000/chapter18.htm
+- https://ovc.ojp.gov/sites/g/files/xyckuh226/files/ncvrw2020/info_flyers/message/eng/2020NCVRW_CommunicatingYourMessage_eng_508.pdf
+- https://ovc.ojp.gov/sites/g/files/xyckuh226/files/pubs/OVC_Archives/ncvrw/2005/pdf/workingwiththemedia.pdf

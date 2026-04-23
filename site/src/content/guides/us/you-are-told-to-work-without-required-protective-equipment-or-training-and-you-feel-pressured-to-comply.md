@@ -1,71 +1,94 @@
-﻿---
+---
 title: "What to do if… you are told to work without required protective equipment or training and you feel pressured to comply"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - told to work without ppe
-  - required ppe not provided
-  - pressured to do unsafe work
-  - asked to work untrained
-  - no safety training given
-  - unsafe equipment without training
-  - boss says just do it
-  - fear of retaliation at work
-  - report workplace safety hazard
-  - refuse dangerous work
-  - no respirator provided
-  - no fall protection gear
-  - chemical task without ppe
-  - asked to skip lockout tagout
-  - safety complaint confidentiality
-  - threatened for speaking up
-  - workplace hazard documentation
-  - forced to do risky task
-last_reviewed: "2026-01-08"
+  - "expense reimbursement denied"
+  - "approved expense not paid"
+  - "expense report rejected"
+  - "prior approval reversed"
+  - "work expenses unpaid"
+  - "business expense refusal"
+  - "reimbursement delayed unexpectedly"
+  - "finance says non reimbursable"
+  - "receipts submitted already"
+  - "expense claim stuck"
+  - "manager approved then denied"
+  - "out of pocket for work"
+  - "told expense violates policy"
+  - "payroll refused reimbursement"
+  - "expense claim approval reversed"
+  - "unpaid business costs"
+  - "employer refuses to pay expense"
+  - "rejected expense claim help"
+  - "reimbursement policy dispute"
+  - "what do i do if my expense claim is denied"
+  - "what do i do if work wont pay my expenses"
+  - "what do i do if my manager denies an approved expense"
+  - "what do i do if i am out of pocket for work"
+  - "help i paid for work travel and wasnt reimbursed"
+  - "help i have a denied expense claim"
+  - "help my employer wont pay back my expenses"
+  - "help my reimbursement was rejected"
+  - "smell of burning bridge"
+  - "notice of claim denial"
+  - "receipts missing or lost"
+  - "itemized statement of expenses"
+  - "written prior approval record"
+  - "denied after travel completed"
+  - "refusal to pay business trip"
+  - "corporate card debt dispute"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are told to work without required protective equipment or training and you feel pressured to comply (USA)
 
 ## Short answer
-Stop the specific task and move to a safe pause until you have the required PPE and training (or the hazard is controlled another way). If you’re in immediate danger, get to safety first and use emergency help if needed.
+Collect your written prior approval and itemized receipts into a single packet, then request a written explanation of which specific policy rule justifies the reversal. If internal escalation fails, determine if your state (such as CA, IL, or NY) mandates reimbursement or if the unreimbursed cost drops your effective pay below the local minimum wage.
 
 ## Do not do these things
-- Do not start the task “just to prove you can” if PPE or training is missing.
-- Do not let anyone talk you into using damaged, wrong-size, or improvised PPE as a substitute.
-- Do not sign a form saying you completed training/fit-testing if you did not.
-- Do not get pulled into a shouting match or make threats — keep it brief and factual.
-- Do not keep your only notes/photos on a work device or work email if you think retaliation is possible.
+- Do not incur further out-of-pocket expenses for the company until the current dispute is resolved in writing.
+- Do not delete or lose the original "prior approval" emails, messages, or portal screenshots.
+- Do not sign any document admitting the expense was "personal" or "unauthorized" if you were directed to incur it.
+- Do not use aggressive language or "cc" the entire executive team, as this shifts the focus from an administrative error to a conduct issue.
+- Do not assume that "prior approval" is legally ironclad in all states; some jurisdictions allow policy changes if notice is provided, while others treat approved expenses as vested wages.
 
 ## What to do now
-1. **Create a safe pause.** Step away from the hazard area and stop the specific task. If you’re operating equipment, shut down safely only if you can do so without increasing risk.
-2. **Use one clear line.** Example: “I can’t do this safely without the required PPE/training. I’m available for other work while we fix that.”
-3. **Ask for the exact requirement, in plain terms.** “What PPE is required for this task, and where is it?” and “When will I be trained/cleared to do this?” If the job needs certification, fit-testing, or supervision, ask who will provide it and when.
-4. **Ask for a safer alternative right now.** Request reassignment, a different task, or to wait for PPE/training. This matters if someone later claims you were “refusing to work.”
-5. **Document immediately (off the work network if possible).** Note: date/time, location, task, hazard, what PPE/training was missing, who instructed you, and what you said. If safe and permitted, take a photo of the setup or missing PPE — but notes alone are enough.
-6. **Send a short follow-up in writing.** Text/email a factual summary: you were instructed to do X, PPE/training was missing, you paused for safety, and you’re ready to work once it’s safe.
-7. **If you believe it’s an emergency or imminent danger, treat it as urgent.** Get to safety. Use 911 if needed. For imminent danger/emergencies, call OSHA rather than relying on online forms or email.
-8. **Use OSHA if your employer won’t fix it.** You can file a safety and health complaint and request an inspection. You can also call OSHA at **1-800-321-OSHA (6742)**. OSHA says your identity can be kept confidential. If you’re in a state with an OSHA State Plan, your state program may handle the case — OSHA can route you.
-9. **If retaliation starts, act fast.** If you’re fired, threatened, suspended, hours cut, or punished for raising safety concerns or refusing dangerous work, contact OSHA immediately. Under the OSH Act, you generally must file a retaliation complaint within **30 days** (other laws can differ), so don’t wait.
+1. **Gather your "proof of authorization" packet.** Compile the following documents into a single PDF:
+   - The specific written approval (email, Slack message, or system timestamp) received before the spend.
+   - The version of the expense policy that was active at the time of approval.
+   - All itemized receipts and the submitted expense report.
+   - The notice of denial or the communication stating it will not be paid.
+2. **Request a "formal basis for denial" in writing.** Send a neutral email to finance or payroll asking for:
+   - The specific section of the company policy currently being cited for the denial.
+   - A clarification on why the prior approval is being superseded.
+   - The name of the individual with "exception authority" who can override the current rejection.
+3. **Engage your approving manager immediately.** Ask the manager who gave the initial approval to confirm in writing (to you and Finance) that the expense was "necessary and authorized for business purposes."
+4. **Perform an "effective wage" calculation.** If you are a non-exempt/hourly employee, subtract the unreimbursed amount from your gross pay for that period and divide by hours worked.
+   - If the result is below your state or local minimum wage (e.g., $17.00/hr in NY or $16.00/hr in CA), the employer may be in violation of the FLSA "kickback" rule.
+5. **Identify state-specific statutory protections.** Check if you work in a state with mandatory reimbursement laws:
+   - **California (Labor Code § 2802):** Employers must reimburse all "necessary expenditures." This includes a reasonable portion of cell phone/internet for remote work and mileage (2026 IRS rate: $0.725/mile).
+   - **Illinois (820 ILCS 115/9.5):** Employers must reimburse necessary expenses within 30 days. If receipts are lost, you may provide a "signed statement" instead.
+   - **New York (Labor Code § 198-c):** Expense reimbursements are considered "wage supplements." Failure to pay them as promised in a policy is a misdemeanor and subject to civil penalties.
+6. **Issue a "formal internal appeal" via HR.** Use the evidence packet to show that you relied on the company's prior authorization to your financial detriment. State that you are seeking a "reconciliation of the prior approval with the current denial."
+7. **Keep a record of the "Corporate Card" status.** If the expense is on a company-issued card in your name, notify the card issuer in writing that the charges are "disputed business expenses" to protect your personal credit, though this does not guarantee the bank will pause collections.
 
 ## What can wait
-- You do not need to decide right now whether to quit, hire a lawyer, or go public.
-- You do not need to prove the whole safety case in the moment — you only need enough to justify a safe pause and report clearly.
-- You do not need to negotiate policy changes today; focus on getting PPE/training or a safe reassignment.
+- You do not need to file a formal lawsuit or hire a private attorney in the first 48 hours.
+- You do not need to decide if this is "constructive discharge" or grounds for resignation immediately.
+- You do not need to resolve disputes over "optional" or "luxury" upgrades today; focus on the base business costs first.
 
 ## Important reassurance
-Feeling pressured can make you second-guess yourself, even when your safety concern is valid. Pausing and asking for PPE/training is a normal safety action, and a calm written record can protect you if the situation escalates.
+Reimbursement denials are frequently the result of automated system flags, "coding" errors, or a new auditor misinterpreting an old policy. Presenting a calm, organized packet that shows "I was told 'yes' before I spent 'X'" often triggers an administrative override.
 
 ## Scope note
-These are first steps only — to reduce immediate risk and prevent irreversible mistakes. Rules and processes vary by industry, state, and job status, so consider getting tailored advice once you’re safe.
+This guide provides immediate administrative and protective steps for U.S.-based employees facing a reversal of expense approval. It does not cover long-term litigation strategy or tax-deductibility of unreimbursed expenses.
 
 ## Important note
-This is general information, not legal advice. If you are in immediate danger, prioritize safety and emergency help. Keep communications factual, and keep copies of notes/messages/schedules outside workplace systems if retaliation is a concern.
+Reimbursement laws vary significantly by state. While federal law (FLSA) only protects you if the expense drops your pay below minimum wage, states like CA, IL, and MA have much broader protections. This guide is for informational purposes and does not constitute legal advice.
 
 ## Additional Resources
 - https://www.osha.gov/workers
 - https://www.osha.gov/workers/right-to-refuse
+- https://www.osha.gov/personal-protective-equipment
+- https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.30
 - https://www.osha.gov/workers/file-complaint
-- https://www.osha.gov/whistleblower/wbcomplaint
-- https://www.osha.gov/form/osha7
-- https://www.osha.gov/sites/default/files/publications/OSHA3812.pdf
-- https://www.dol.gov/agencies/whd/retaliation

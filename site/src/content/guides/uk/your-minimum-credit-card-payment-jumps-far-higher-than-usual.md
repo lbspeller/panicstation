@@ -1,96 +1,101 @@
-﻿---
+---
 title: "What to do if… your minimum credit card payment jumps far higher than usual"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - minimum credit card payment jumped
-  - minimum payment suddenly higher
-  - credit card minimum payment doubled
-  - unexpected minimum payment due
-  - minimum payment spike this month
-  - credit card bill shock
-  - minimum due increased sharply
-  - payment amount changed unexpectedly
-  - card minimum payment recalculated
-  - minimum payment after promo ends
-  - credit card interest jumped
-  - late fee raised payment
-  - overlimit fee increased minimum
-  - missed payment made minimum higher
-  - new charges made minimum higher
-  - cash withdrawal increased minimum
-  - balance transfer ended payment higher
-  - can’t afford minimum payment
-  - worried about missing payment
-last_reviewed: "2026-01-09"
+  - "minimum credit card payment jumped"
+  - "minimum payment suddenly higher"
+  - "credit card minimum payment doubled"
+  - "unexpected minimum payment due"
+  - "minimum payment spike this month"
+  - "credit card bill shock"
+  - "minimum due increased sharply"
+  - "payment amount changed unexpectedly"
+  - "card minimum payment recalculated"
+  - "minimum payment after promo ends"
+  - "credit card interest jumped"
+  - "late fee raised payment"
+  - "overlimit fee increased minimum"
+  - "missed payment made minimum higher"
+  - "new charges made minimum higher"
+  - "cash withdrawal increased minimum"
+  - "balance transfer ended payment higher"
+  - "can-t afford minimum payment"
+  - "worried about missing payment"
+  - "help i can-t pay my credit card"
+  - "my minimum payment tripled"
+  - "what do i do if my card bill went up"
+  - "why did my credit card payment increase"
+  - "persistent debt letter uk"
+  - "fca persistent debt rules 2026"
+  - "credit card interest rate hike"
+  - "minimum payment calculation change"
+  - "priority debt help uk"
+  - "breathing space debt scheme"
+  - "debt arrangement scheme scotland"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your minimum credit card payment jumps far higher than usual (UK)
+
 ## Short answer
-Check your latest statement/app to find the specific reason the minimum jumped, then contact your card provider before the due date if you can’t afford it so you can agree a temporary, affordable arrangement.
+Identify the specific trigger on your statement (such as a promotional rate ending or a persistent debt intervention) and contact your provider immediately to request a "forbearance" plan if the new amount is unaffordable.
 
 ## Do not do these things
-- Don’t ignore it or assume it will “sort itself out next month” — late fees, extra interest and credit-file markers can follow.
-- Don’t pay the new minimum if it means missing priority bills (rent/mortgage, council tax, energy, essential food/medicine).
-- Don’t take high-cost short-term credit just to cover the minimum.
-- Don’t cancel your direct debit in a panic without replacing it with another plan (you can accidentally miss the due date).
-- Don’t assume it’s correct if anything looks unfamiliar (a fee, rate change, or unexpected transaction can drive the minimum up).
+- Don't ignore the increase; the new amount is a contractual requirement and missing it will trigger late fees and credit file damage.
+- Don't pay the card if it means you cannot afford priority bills like rent, mortgage, council tax, or energy.
+- Don't take out a high-interest "payday" loan or use another credit card to cover this month's minimum payment.
+- Don't cancel your direct debit without having an alternative payment or communication plan in place.
+- Don't assume the provider has made a mistake without checking for a "Persistent Debt" notice or a "Notice of Variation" letter first.
 
 ## What to do now
-1. **Open the latest statement and find the exact “minimum payment” figure and due date.**  
-   Screenshot/save the page that shows the minimum and what’s been added this month (interest, fees, instalment-plan amounts).
+1. **Locate the specific "minimum payment" figure and the date it will be taken from your account.**
+   - Look for a highlighted "Important Information" box on your digital or paper statement.
+   - Check your email or app notifications for a "Notice of Variation" which explains changes to terms.
 
-2. **Identify what changed this month (these are the most common causes).**
-   - **Promotional/0% period ended** (interest is now being added).
-   - **A late/overlimit fee** was charged (often increases the minimum).
-   - **Cash withdrawal / cash-like transaction** fees or interest were added.
-   - **Balance is higher** (new spending, reversed refunds, returned payments).
-   - **Your provider changed how it calculates minimum payments** (they should tell you; the minimum may now include this month’s interest/fees differently).
+2. **Identify the exact cause of the increase from your transaction history.**
+   - **Promotional 0% period ended:** Interest is now being added to the balance for the first time.
+   - **Persistent Debt Intervention:** If you have paid more in interest/fees than principal for 36 months, the FCA requires your lender to increase your payment to clear the debt in 3-4 years.
+   - **Fees and Interest:** A late payment fee, over-limit fee, or cash-advance interest has been added to this month's total.
+   - **Calculation Change:** The provider has updated its formula (e.g., increasing the percentage of the balance you must pay from 1% to 2%).
 
-3. **Protect priority bills first, then decide what you can safely pay to the card.**  
-   If money is tight, keep rent/mortgage, council tax, energy and essential living costs covered before unsecured credit cards.
+3. **Check if you have received a letter mentioning "Persistent Debt" or "FCA rules."**
+   - If this is the cause, the provider is legally required to help you if the higher payment is unaffordable, but they may suspend the card to prevent further debt.
 
-4. **If you can pay the new minimum without harming essentials, schedule it today and stop using the card.**  
-   Pay from an account that won’t be pushed into overdraft by the payment. Keep the confirmation.
+4. **Calculate your "available income" after paying for food, housing, and utilities.**
+   - Deduct your rent/mortgage, council tax, and energy bills from your take-home pay. 
+   - Ensure you have enough for essential food and medicine before allocating money to the credit card.
 
-5. **If you can’t afford the new minimum, contact the card provider before the due date and ask for help with payment difficulty.**  
-   Ask for:
-   - A clear explanation of **what changed** and how the minimum was calculated
-   - A **temporary reduced payment plan** you can actually meet
-   - **Interest/charge freezes or reductions** where possible
-   - **Fee reversal** if the jump is mainly a one-off late/overlimit fee and this is unusual for you
+5. **Contact the card provider's "Payment Holiday" or "Financial Difficulty" team before the due date.**
+   - **Boldly state that you are experiencing financial difficulty and cannot meet the new minimum.**
+   - Ask for "forbearance," which may include:
+     - A temporary freeze on interest and charges.
+     - A reduced payment plan that fits your actual budget.
+     - A reversal of recent fees if the jump was caused by a one-off error.
 
-   Practical script: “My minimum payment has jumped to £__ and I can’t afford that this month. Please explain what changed, and help me set an affordable temporary payment plan so I don’t miss the due date.”
+6. **Request a "Breathing Space" if you live in England or Wales, or the "Debt Arrangement Scheme" if in Scotland.**
+   - These statutory schemes provide a 60-day (E&W) or ongoing (Scotland) pause on enforcement and interest while you seek professional advice.
+   - If you are in a mental health crisis, ask for the "Mental Health Crisis Breathing Space," which lasts for the duration of your treatment plus 30 days.
 
-6. **If you think a charge or fee is wrong, raise it immediately and keep it in writing.**  
-   Send a short message: what the item is, why you think it’s wrong, and what you want (correction/refund). Save copies and dates.
-
-7. **Get free debt advice quickly if this isn’t a one-off.**  
-   A free adviser can help you prioritise bills, draft a holding message to creditors, and check what formal protections could apply.
-   - **If you live in England or Wales:** ask the adviser whether the **Breathing Space (Debt Respite Scheme)** is suitable.
-   - **If you live in Scotland or Northern Ireland:** debt protections and schemes differ — an adviser can tell you the right local option.
-
-8. **If your provider won’t help or you think they’ve treated you unfairly, complain.**  
-   Complain to the provider first (keep notes). If unresolved, you can escalate to the **Financial Ombudsman Service**.
+7. **Verify any "Cash-like" transactions if the jump seems tied to interest.**
+   - Transactions involving gambling, currency, or crypto-assets often carry much higher interest rates and immediate charges that inflate the minimum payment.
 
 ## What can wait
-- You don’t need to decide today whether to close the card, consolidate, or switch providers.
-- You don’t need a perfect long-term plan on the first call — stabilising this month’s due date is enough.
-- You don’t need to argue every line item at once; focus on whatever caused the jump and any clear errors.
+- You do not need to decide whether to close the account permanently today.
+- You do not need to choose a long-term debt solution (like an IVA or Trust Deed) in the next 24 hours.
+- You do not need to justify your previous spending to the bank; focus only on your current inability to pay the new amount.
 
 ## Important reassurance
-A sudden minimum-payment jump is common and usually has a concrete cause (a promo ending, fees, interest, or a change in how the minimum is calculated). Taking one calm step — “find the reason, protect essentials, contact the provider early” — is often enough to stop it escalating.
+A spike in a minimum payment is often a regulatory "safety trigger" designed to stop you from being in debt forever, but the timing can be a shock. Lenders are required under the FCA's Consumer Duty and CONC rules to treat you fairly and provide support if you tell them you are struggling.
 
 ## Scope note
-This is first-steps-only guidance to stabilise the next payment and prevent avoidable damage. Longer-term choices (repayment strategy, refinancing, formal debt solutions) are separate decisions for when you’re steadier.
+This guide provides first-step stabilization for a sudden payment increase. It does not cover long-term debt management or legal defense for CCJs.
 
 ## Important note
-This is general information, not financial advice. Card terms and support options vary by provider and by where you live in the UK. If you’re at risk of missing priority bills or multiple debt payments, get free UK debt advice as soon as possible.
+This information is not financial advice. Statutory debt protections vary significantly between England, Scotland, Wales, and Northern Ireland. Always consult a free, regulated UK debt advisor (such as StepChange, National Debtline, or Citizens Advice) before entering into formal debt agreements.
 
 ## Additional Resources
+- https://www.moneyhelper.org.uk/en/everyday-money/credit/persistent-debt
+- https://www.moneyhelper.org.uk/en/everyday-money/credit/reclaiming-unfair-credit-card-charges
+- https://www.moneyhelper.org.uk/en/everyday-money/credit/managing-credit-well
 - https://www.citizensadvice.org.uk/debt-and-money/borrowing-money/credit-cards/if-youre-struggling-to-pay-your-credit-card/
 - https://www.citizensadvice.org.uk/debt-and-money/help-with-debt/dealing-with-your-debts/making-a-plan-to-pay-your-debts/
-- https://www.moneyhelper.org.uk/en/everyday-money/credit/persistent-debt
-- https://handbook.fca.org.uk/handbook/CONC/13/1.html
-- https://www.gov.uk/options-for-dealing-with-your-debts/breathing-space
-- https://www.citizensadvice.org.uk/debt-and-money/budgeting1/get-help-with-bills/

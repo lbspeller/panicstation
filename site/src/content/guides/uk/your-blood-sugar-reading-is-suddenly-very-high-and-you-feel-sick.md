@@ -1,83 +1,98 @@
-﻿---
+---
 title: "What to do if… your blood sugar reading is suddenly very high and you feel sick"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - blood sugar suddenly high
-  - very high glucose reading
-  - high blood sugar feel sick
-  - hyperglycaemia symptoms sudden
-  - meter reading high
-  - glucose spike feel nauseous
-  - vomiting with high blood sugar
-  - dehydration high blood sugar
-  - ketones check at home
-  - worried about dka
-  - fruity breath high glucose
-  - rapid breathing high sugar
-  - confusion with high glucose
-  - insulin missed high glucose
-  - illness raises blood sugar
-  - type 1 sick day worries
-  - type 2 very high sugars
-  - sglt2 and ketones risk
-  - blood ketone meter reading
-  - urine ketone strips positive
-last_reviewed: "2026-01-21"
+  - "blood sugar suddenly high"
+  - "very high blood sugar"
+  - "high blood sugar reading"
+  - "high blood sugar feels sick"
+  - "blood sugar reading high"
+  - "what do i do if my blood sugar is high and i feel sick"
+  - "what do i do if my glucose is high"
+  - "what do i do if i have high ketones"
+  - "what do i do if my sugar reading is high"
+  - "help i have high blood sugar"
+  - "help i feel sick with high sugar"
+  - "my blood sugar is 20"
+  - "my glucose reading is very high"
+  - "fruity breath"
+  - "pear drop breath"
+  - "rapid breathing"
+  - "vomiting with high sugar"
+  - "stomach pain with high sugar"
+  - "drowsy with high glucose"
+  - "nausea and high blood sugar"
+  - "high sugar reading error"
+  - "glucose monitor high reading"
+  - "ketone meter reading"
+  - "urine ketone strips"
+  - "type 1 sick day rules"
+  - "type 2 sick day rules"
+  - "sglt2 inhibitor sick days"
+  - "dapagliflozin sick day"
+  - "canagliflozin sick day"
+  - "empagliflozin sick day"
+  - "diabetic ketoacidosis signs"
+  - "dka symptoms"
+  - "high sugar feeling sick"
+  - "glucose spike nausea"
+  - "blood sugar 15 and sick"
+  - "blood sugar 25 and sick"
+  - "very thirsty and high sugar"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… your blood sugar reading is suddenly very high and you feel sick (UK)
 
 ## Short answer
-Treat this as urgent: check for ketones (if you can) and get same-day medical advice now. If you have signs of diabetic ketoacidosis (DKA) or you cannot safely manage at home, call 999 or go to A&E.
+Treat this as a medical emergency: check for ketones immediately and call 999 or go to A&E if ketones are high or you have symptoms of diabetic ketoacidosis (DKA). If you cannot check ketones, seek urgent same-day medical advice via 111 or your GP.
 
 ## Do not do these things
-- Do not try to “exercise it down” when you feel sick or if ketones might be present.
-- Do not take extra insulin in a new/guessed dose if you do not have a sick-day/correction plan you’ve already been given.
-- Do not stop your insulin (especially long-acting/basal) unless a clinician tells you to.
-- Do not ignore repeated vomiting, severe drowsiness/confusion, or breathing that becomes deep/rapid.
-- Do not drink sugary drinks to “pick yourself up” unless you’re treating low blood sugar.
-- Do not keep taking an SGLT2 inhibitor if you are vomiting/dehydrated or have possible DKA symptoms without getting urgent medical advice (these medicines have specific “sick day” rules for many people).
-- Do not drive yourself to urgent care if you feel faint, confused, very sleepy, or your vision is blurred.
+- Do not attempt to exercise to lower the reading if you feel sick or if ketones are present.
+- Do not stop taking your long-acting (basal) insulin under any circumstances unless directed by a hospital doctor.
+- Do not take a "guess" dose of extra insulin; only follow a written sick-day correction plan provided by your clinical team.
+- Do not wait to "see if it passes" if you have vomited more than once or cannot keep fluids down.
+- Do not consume sugary drinks or foods unless you are actively treating a confirmed low blood sugar (hypoglycaemia).
+- Do not drive yourself to a medical facility if you feel drowsy, confused, or have blurred vision.
 
 ## What to do now
-1. **Check for “call 999 now” red flags.** Call **999** (or go to **A&E**) if any of these apply:
-   - You **have high ketones** (commonly: **blood ketones over 3 mmol/L**, or **urine ketones over 2+**).
-   - You **do not know your ketone level** but have DKA-type symptoms (very thirsty/peeing a lot, **sleepy or confused**, breath that smells fruity, deep/rapid breathing, vomiting).
-   - You can’t keep fluids down, you’re getting more drowsy, or you’re getting confused.
-2. **Re-check the reading to rule out a bad test.** Wash and dry hands, use a fresh strip, and re-test. If you use a CGM, confirm with a fingerstick if the number doesn’t match how you feel.
-3. **Check ketones as soon as possible (especially if type 1, pregnant, or on an SGLT2 inhibitor).**
-   - Test ketones if you’re unwell, and especially if your glucose is **above your target range** (for many people with type 1 this is often **around/above 14 mmol/L**, but follow your own plan if different).
-   - **If ketones are present or rising**, get urgent clinical advice the same day.
-4. **Follow your personal “sick day” plan exactly (if you have one).**
-   - Take insulin/diabetes medicines as prescribed, including any clinician-written correction guidance for illness.
-   - If you use an insulin pump and sugars are unexpectedly high: check the pump is delivering, check the cannula/infusion set and site, and follow your pump sick-day instructions. If you don’t have a clear backup plan and you suspect delivery failure, get urgent advice rather than improvising.
-5. **Start small, steady fluids.** Sip **sugar-free** fluids regularly (water is fine). If you’re vomiting, try very small sips frequently. If you **cannot keep fluids down**, treat that as urgent and seek medical help.
-6. **Get urgent help if you’re unsure, alone, or not improving.**
-   - If it’s not an emergency but you need urgent advice: use **NHS 111** (in Scotland, this reaches **NHS 24**). In **Northern Ireland**, use your **GP out-of-hours** service for urgent medical advice when your GP practice is closed.
-   - If you are worsening or have any red flags (Step 1): **999 / A&E**.
-7. **If you take an SGLT2 inhibitor and you feel very unwell, act early.** If you have nausea/vomiting, abdominal pain, deep/rapid breathing, unusual sleepiness, or you’re dehydrated, seek urgent assessment (and mention you take an SGLT2 inhibitor), because ketones can be a concern even when glucose isn’t extremely high.
-8. **Keep a simple record for clinicians.** Note the times and results of glucose/ketones, any vomiting/fever, and what medication you’ve taken.
-9. **Have someone stay with you if possible.** Ask a friend/family member to check in. If you must go to hospital, bring your diabetes meds, devices, and test supplies if you can do so safely.
+1. **Check for immediate "Call 999" emergency red flags.** Call **999** or go to **A&E** immediately if:
+   - Your blood ketone reading is **over 3.0 mmol/L**.
+   - Your urine ketone strip result is **over 2+ (medium or high)**.
+   - You have DKA symptoms: **fruity/pear-drop breath**, **deep or rapid breathing**, **abdominal pain**, or **persistent vomiting**.
+   - You are becoming **confused, extremely drowsy**, or find it difficult to stay awake.
+2. **Wash your hands and re-test your blood sugar.** Ensure your hands are clean and dry, then use a new test strip to rule out a false high reading (e.g., from sugar on the skin). If using a Continuous Glucose Monitor (CGM) or Flash sensor, confirm the high reading with a finger-prick blood test.
+3. **Test for ketones immediately if your glucose is above 11.0 mmol/L (or 13.0 mmol/L per your plan).**
+   - Use a blood ketone meter (preferred) or urine strips.
+   - **If blood ketones are 0.6 to 1.5 mmol/L:** Test again in 2 hours and follow your sick-day plan.
+   - **If blood ketones are 1.6 to 2.9 mmol/L:** This is a high risk of DKA; contact your GP or diabetes team for urgent same-day advice.
+4. **Stop taking SGLT2 inhibitors immediately if you are unwell.** If you take "flozin" medication (such as **Dapagliflozin**, **Empagliflozin**, or **Canagliflozin**), stop taking it today if you have a fever, vomiting, or diarrhoea. Seek urgent medical advice as these can cause "euglycaemic DKA" where ketones are high even if blood sugar seems normal.
+5. **Implement your clinical "sick day rules" if you have them.**
+   - Follow your written plan for adjusting insulin doses during illness. 
+   - If you use an insulin pump, check for delivery failures (occlusions/kinks) and consider giving a correction dose via an insulin pen instead.
+6. **Sip sugar-free fluids regularly to prevent dehydration.** Aim for small, frequent sips of water (approx. 100ml every hour). If you **cannot keep any fluids down**, treat this as a medical emergency and seek hospital assessment.
+7. **Contact urgent care if you cannot reach your usual team.**
+   - Call **111** (NHS 111 England/Wales/Northern Ireland or NHS 24 in Scotland) if you need urgent advice and your GP is closed.
+   - In **Northern Ireland**, contact your local **GP Out-of-Hours** service.
+8. **Keep a written log for the medical team.** Note down your blood sugar levels, ketone levels, the time you last took insulin, and whether you have a fever or have vomited.
 
 ## What can wait
-- You do **not** need to work out the exact cause right now (food, stress, infection, missed dose) — focus on safety and getting help.
-- You do **not** need to make long-term medication changes today.
-- You do **not** need to “push through” normal activities; resting and monitoring is enough until you’re stable and advised.
+- You do **not** need to identify the exact cause of the high reading (e.g., specific food or stress) before seeking help.
+- You do **not** need to worry about long-term HbA1c levels or routine appointments while in an acute high-sugar/sickness state.
+- You do **not** need to maintain your usual work or physical activity schedule; rest is required.
 
 ## Important reassurance
-Feeling sick with a very high reading is frightening, and it’s reasonable to treat it as urgent. Getting ketones checked and getting help early is a protective step that can prevent serious complications.
+Feeling nauseous when blood sugar is high is a common biological response to the build-up of acids (ketones) or dehydration. Taking these steps now is the standard protocol to stabilize the situation and prevent serious complications.
 
 ## Scope note
-These are first steps for the next few hours to reduce immediate risk. Ongoing management (dose changes, infection work-up, medication review) should be done with your diabetes clinician.
+This guide provides first-step stabilization for acute hyperglycaemia and suspected DKA in the UK. It is not a substitute for a personalized clinical sick-day plan or hospital treatment.
 
 ## Important note
-This guide is general information, not medical advice. High blood sugar with illness can become an emergency quickly (including DKA or hyperosmolar hyperglycaemic state). If you’re worsening, pregnant, on an SGLT2 inhibitor, can’t check ketones, or you’re unsure what to do next, err on the side of urgent medical assessment.
+Very high blood sugar combined with illness can lead to life-threatening conditions like Diabetic Ketoacidosis (DKA) or Hyperosmolar Hyperglycaemic State (HHS). If you are pregnant, use an insulin pump, or take SGLT2 inhibitors, your risk profile is higher and you should have a lower threshold for seeking urgent medical assessment.
 
 ## Additional Resources
-- https://www.nhs.uk/conditions/diabetic-ketoacidosis/
-- https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/illness
+- https://www.nhs.uk/conditions/high-blood-sugar-hyperglycaemia/
 - https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/hypers
-- https://www.gov.uk/drug-safety-update/sglt2-inhibitors-updated-advice-on-the-risk-of-diabetic-ketoacidosis
-- https://www.nhs24.scot/111/
-- https://www.nidirect.gov.uk/articles/gp-out-hours-service
+- https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/diabetic-ketoacidosis
+- https://www.nhs.uk/conditions/diabetic-ketoacidosis/
+- https://www.southtees.nhs.uk/resources/sick-day-rules-associated-with-insulin-dependent-diabetes/

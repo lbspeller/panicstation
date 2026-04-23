@@ -1,74 +1,91 @@
-﻿---
+---
 title: "What to do if… you have sudden loss of vision in one eye or a curtain-like shadow"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - sudden vision loss one eye
-  - curtain-like shadow vision
-  - dark curtain in vision
-  - sudden partial vision loss
-  - sudden blind spot one eye
-  - vision went dark suddenly
-  - flashes and floaters sudden
-  - new floaters with shadow
-  - painless vision loss one eye
-  - sudden eye emergency symptoms
-  - possible retinal detachment
-  - possible eye stroke
-  - transient vision loss episode
-  - amaurosis fugax concern
-  - one eye blurry suddenly
-  - missing side vision suddenly
-  - sudden dim vision one eye
-  - sudden visual field loss
-last_reviewed: "2026-01-21"
+  - "sudden vision loss"
+  - "curtain in eye"
+  - "shadow over vision"
+  - "dark curtain vision"
+  - "flashes of light"
+  - "new eye floaters"
+  - "painless vision loss"
+  - "blind spot one eye"
+  - "what do i do if my vision went dark"
+  - "what do i do if i see a shadow in my eye"
+  - "what do i do if one eye is blurry"
+  - "what do i do if i see lightning bolts"
+  - "help i lost vision in one eye"
+  - "help i see black spots"
+  - "help my vision is cloudy"
+  - "help i have a shadow in my eye"
+  - "lightning bolt flashes"
+  - "gray curtain in vision"
+  - "missing side vision"
+  - "distorted vision suddenly"
+  - "dim vision one eye"
+  - "eye stroke symptoms"
+  - "retinal detachment signs"
+  - "amaurosis fugax"
+  - "transient monocular vision loss"
+  - "sudden vision blacking out"
+  - "vision loss in one eye at night"
+  - "curtain shadow in flat"
+  - "sudden partial vision loss"
+  - "one eye vision changes"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you have sudden loss of vision in one eye or a curtain-like shadow (USA)
+
 ## Short answer
-**Call 911 now** if the vision loss is sudden/severe, you have any stroke warning signs, or you can’t get to care safely. Otherwise, get to the **Emergency Room immediately** for same-day evaluation.
+**Call 911 immediately** if the vision loss is accompanied by facial drooping, arm weakness, or speech trouble. For isolated sudden vision loss or a "curtain" shadow, go to the nearest **Emergency Room or specialized Eye Emergency center** within 90 minutes.
 
 ## Do not do these things
-- Do not “wait and see,” even if it’s painless or seems to come and go.
-- Do not drive yourself if your vision is affected, you feel unwell, or stroke is possible—call 911.
-- Do not rub or press on the eye.
-- Do not use leftover prescription eye drops/medication unless a clinician tells you to.
-- Do not put contact lenses back in (keep them out).
-- Do not assume it’s “just eye strain” or “just a migraine” if this is new or one-sided, especially with a curtain-like shadow.
+- Do not wait for a routine appointment, even if the vision loss is painless or temporary.
+- Do not drive yourself to the hospital; have someone else drive or call 911.
+- Do not rub, press on, or apply any pressure to the affected eye.
+- Do not use any eye drops, medications, or old prescriptions.
+- Do not put contact lenses back in if they have been removed.
+- Do not assume it is a migraine or eye strain if this is a new or one-sided symptom.
 
 ## What to do now
-1. **Check for stroke warning signs and act immediately.**  
-   If you have **face drooping, arm weakness/numbness, speech trouble, confusion, severe headache, trouble walking/balance**, call **911** and say: “Sudden trouble seeing in one eye / curtain-like shadow.”
-2. **If there are no stroke signs, still treat this as urgent and go to the ER now.**  
-   If you can reach an **ophthalmologist/eye emergency service** faster than the ER (same-day), do that—but do not wait for a routine appointment.
-3. **If you’re alone:** unlock your door, sit somewhere safe, keep your phone with you, and call someone nearby to come over if possible (but don’t delay urgent care).
-4. **Record the timing:** when it started (or when you were last normal), and whether it improved or worsened.
-5. **Capture key symptoms in a quick note** (for EMS/ER staff):
-   - Curtain/shadow (which side; spreading or fixed)
-   - Flashes of light, sudden new floaters, distortion, blurred patches
-   - Eye pain vs no pain, redness, recent injury, recent eye surgery
-   - Headache, weakness/numbness, speech changes, imbalance
-6. **Gather essentials to bring (or tell EMS):**
-   - Medication list/photos (especially blood thinners), allergies, medical conditions
-   - ID/insurance info if available
-   - A contact person who can help speak for you if you’re overwhelmed
+1. **Check for "FAST" stroke signs and call 911 if any are present.**
+   - Face: Does one side of the face droop when smiling?
+   - Arms: Does one arm drift downward when both are raised?
+   - Speech: Is speech slurred or strange?
+   - Time: Call 911 immediately and report "sudden vision loss" as a stroke symptom.
+2. **Seek emergency eye evaluation within 90 minutes if stroke signs are absent.**
+   - Go to an Emergency Room (ER) or an urgent ophthalmology clinic immediately.
+   - Mention specifically if you see a "curtain" or "dark shadow" moving across your field of view.
+3. **Minimize physical activity and keep your head still.**
+   - Sit or lie down in a safe position to prevent further mechanical stress on the retina.
+   - Avoid bending over, lifting heavy objects, or straining.
+4. **Note the exact time the vision change began.**
+   - This information is critical for doctors to determine if you are eligible for certain time-sensitive treatments.
+5. **Notice specific visual cues to describe to the medical team.**
+   - Note if you see "lightning bolt" flashes of light.
+   - Note if there is a "shower" of many tiny black specks (floaters).
+   - Note if the shadow is fixed or if it is spreading further across your vision.
+6. **Gather your current medications or a photo of your prescriptions.**
+   - Doctors specifically need to know if you are on blood thinners (anticoagulants).
 
 ## What can wait
-- You do **not** need to figure out the cause before getting help.
-- You do **not** need to keep testing your vision, search symptoms online, or try home remedies right now.
-- You do **not** need to decide about reporting, paperwork, or follow-up today—first get urgent evaluation.
+- You do not need to identify the medical cause (such as retinal detachment or eye stroke) yourself.
+- You do not need to test your vision repeatedly or "wait for it to clear."
+- You do not need to notify your employer or handle non-urgent paperwork right now.
 
 ## Important reassurance
-This is a scary symptom, and your reaction makes sense. Some causes of sudden one-eye vision change are time-sensitive, so getting urgent evaluation quickly is the safest choice—even if vision partially returns.
+Sudden vision changes are high-priority medical events, and it is normal to feel overwhelmed. Seeking care immediately is the most effective way to protect your sight. Modern emergency treatments for the retina and ocular blood flow are highly successful when initiated quickly.
 
 ## Scope note
-These are immediate first steps only—focused on rapid, safe access to urgent care. The ER/eye specialist will decide next steps based on the exam and tests.
+This guide provides first-step stabilization and triage instructions for sudden vision changes in the USA. It is not a substitute for professional medical diagnosis or surgical intervention.
 
 ## Important note
-This guide is general information, not medical advice or a diagnosis. Sudden trouble seeing in one eye or a curtain-like shadow can be an emergency. If you’re unsure, err on the side of calling 911.
+Sudden loss of vision or a curtain-like shadow is a medical emergency that can lead to permanent blindness if not treated within hours. If you cannot reach an eye doctor immediately, go to the nearest emergency department.
 
 ## Additional Resources
-- https://www.cdc.gov/stroke/signs-symptoms/index.html
+- https://medlineplus.gov/retinaldetachment.html
 - https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinal-detachment
-- https://www.aao.org/eye-health/diseases/detached-torn-retina
 - https://medlineplus.gov/ency/article/001027.htm
+- https://medlineplus.gov/ency/article/000054.htm
+- https://www.mayoclinic.org/diseases-conditions/retinal-detachment/symptoms-causes/syc-20351344

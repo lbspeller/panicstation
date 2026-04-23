@@ -1,98 +1,105 @@
-﻿---
+---
 title: "What to do if… you discover a person who died had a co-parenting arrangement and upcoming handovers need immediate planning"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - co-parent died
-  - other parent died
-  - separated parents death
-  - child handover after death
-  - upcoming contact handover
-  - child arrangements order
-  - lives with order
-  - spends time with order
-  - parental responsibility question
-  - who can pick up child
-  - school collection after death
-  - emergency parenting plan
-  - kinship carer sudden
-  - guardian named in will
-  - contact schedule disruption
-  - blended family bereavement
-  - child welfare immediate steps
-  - urgent family court help
-  - cafcass may be involved
-  - safeguarding after bereavement
-  - high conflict co-parenting
-last_reviewed: "2026-03-02"
+  - "co-parent died"
+  - "other parent died"
+  - "separated parents death"
+  - "child handover after death"
+  - "upcoming contact handover"
+  - "child arrangements order"
+  - "lives with order"
+  - "spends time with order"
+  - "parental responsibility question"
+  - "who can pick up child"
+  - "school collection after death"
+  - "emergency parenting plan"
+  - "kinship carer sudden"
+  - "guardian named in will"
+  - "contact schedule disruption"
+  - "blended family bereavement"
+  - "child welfare immediate steps"
+  - "urgent family court help"
+  - "safeguarding after bereavement"
+  - "high conflict co-parenting"
+  - "help i need to plan a child handover"
+  - "what do i do if my co-parent died"
+  - "what do i do if child is at the deceased house"
+  - "what do i do if the other parent wants the child now"
+  - "my co-parent just died help"
+  - "help my child's mother died"
+  - "help my child's father died"
+  - "parental responsibility check"
+  - "testamentary guardian england"
+  - "emergency child arrangements"
+  - "school pickup safeguarding"
+  - "sudden bereavement childcare"
+  - "custody after death uk"
+  - "bereaved partner paternity leave"
+  - "time off for dependants"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you discover a person who died had a co-parenting arrangement and upcoming handovers need immediate planning (UK)
 
 ## Short answer
-Pause any “routine” handover plans until you’ve confirmed who currently has parental responsibility (PR) and what any court order says. Your first job is a safe, child-centred stopgap plan for the next 24–72 hours (who the child is with, who can collect, and how school/childcare will handle pickups).
+Stabilise the child's location for the next 24 hours while confirming who holds Parental Responsibility (PR) and whether an active Child Arrangements Order (CAO) exists. Do not execute a handover if there is immediate uncertainty about the legal authority of the person collecting the child.
 
 ## Do not do these things
-- Do not assume a previous schedule still applies “as written” after a death.
-- Do not refuse contact or change arrangements by heated texts; keep messages factual and brief.
-- Do not hand the child to a third party (relative/friend) unless you are confident they have PR/authority, or you have clear written agreement from the surviving parent with PR.
-- Do not involve the child in adult conflict (“your mum/dad wanted…”, “you have to choose”).
-- Do not post about the death or arrangements on social media.
+- Do not assume an informal verbal agreement or the previous "routine" schedule remains legally binding after a death.
+- Do not hand the child to a third party (friend / extended relative) who does not hold PR unless you have written consent from the surviving parent with PR.
+- Do not attempt to negotiate long-term custody or residency via text message or social media.
+- Do not involve the child in discussions regarding the legality of the handover or the deceased's wishes.
+- Do not ignore school or nursery safeguarding protocols by sending an unlisted adult for collection.
 
 ## What to do now
-1. **Create a 24–72 hour safety plan in writing (even a simple note).**  
-   Include: where the child will sleep tonight, who will do school/nursery runs, who is allowed to collect, and what happens at the next scheduled “handover” time.
+1. **Identify all individuals who currently hold Parental Responsibility (PR).**
+   - Confirm if the surviving parent is on the birth certificate (for births after Dec 2003) or has a PR agreement / order.
+   - Note that if the deceased parent had a "lives with" Child Arrangements Order, any guardian named in their will may take effect immediately, sharing PR with a surviving parent.
 
-2. **Confirm the controlling paperwork: PR and any family court order.**  
-   Practical checks:
-   - Find the most recent **Child Arrangements Order** (and any other relevant order). Photograph/scan it.
-   - Identify who has **parental responsibility** (PR). If you are unsure, do not guess—treat it as “to be confirmed” and keep arrangements conservative and calm.
-   - If someone says “there’s a guardian in the will,” note it, **but do not treat it as controlling for handovers** without checking: in England & Wales, a testamentary guardian appointment usually only takes effect in specific situations (for example, if there is no surviving person with PR).
+2. **Secure a 24-hour physical safety plan for the child.**
+   - **Determine where the child will sleep tonight and who is responsible for their immediate physical needs.**
+   - **Communicate this single, temporary location to the surviving parent (or their solicitor) to prevent "missing person" reports.**
 
-3. **Make one respectful, factual contact to the surviving parent (or their representative).**  
-   Aim: agreement for the next few days only. Keep it short:
-   - confirm the child is safe,
-   - acknowledge the death,
-   - propose a temporary plan (next exchange + next school run),
-   - ask for a copy of the order/PR details if you don’t have them.
-   If direct contact is volatile, use email and stick to logistics.
+3. **Notify the school or nursery’s Designated Safeguarding Lead (DSL) immediately.**
+   - **Inform the school of the death and explicitly state that the "authorised collection list" is frozen or restricted until further notice.**
+   - **Request that the school requires photo identification for any adult attempting to collect the child today.**
 
-4. **Lock down school/nursery collection and safeguarding today.**  
-   Contact the school/childcare and ask them to:
-   - update the “who can collect” list immediately,
-   - require ID for any unfamiliar adult,
-   - record that arrangements are temporarily changing due to a bereavement.
+4. **Review the most recent Family Court Order (if one exists).**
+   - **Locate the physical or digital copy of the Child Arrangements Order.**
+   - **Check for "lives with" (residency) or "spends time with" (contact) clauses.**
+   - **Identify if there are any Prohibited Steps Orders (PSO) that prevent the child from being moved.**
 
-5. **If a handover is due within hours and authority is unclear, choose the lowest-conflict stopgap.**  
-   Options that often reduce risk:
-   - keep the child in their current safe placement until you’ve spoken to the surviving parent with PR (or seen the order),
-   - move the exchange to **school pickup** (with the school told in advance),
-   - avoid using extended family as “go-betweens” unless everyone agrees in writing.
+5. **Send one factual, logistics-only communication to the surviving parent.**
+   - **Confirm the child is physically safe and aware (or not yet aware) of the death.**
+   - **Propose a specific, time-limited plan for the next handover (e.g., "The child will stay here tonight; we can meet at the school gates at 08:30 tomorrow").**
+   - **Avoid discussing the estate, funeral, or permanent custody in this message.**
 
-6. **If you believe the child is at immediate risk, act on safety first.**  
-   If you believe the child is in immediate danger, call **999**. If it’s urgent but not immediate danger, call **101** for police advice and/or contact your local authority children’s services for safeguarding guidance.
+6. **Manage immediate work obligations using statutory rights.**
+   - **Notify your employer that you are taking "Time Off for Dependants" to deal with an emergency involving a child.**
+   - **Note that if you are the partner of the deceased and the child is under one year old, you may be entitled to "Bereaved Partner's Paternity Leave" from April 2026.**
 
-7. **If there’s a dispute and an order exists (or is urgently needed), get urgent family-court advice.**  
-   If an order is being breached or can’t safely be followed, urgent legal advice can help you decide whether to apply to vary/enforce. If the case goes to family court, **Cafcass may be involved** in safeguarding and child-focused enquiries.
+7. **Escalate to emergency services only if there is a threat of harm.**
+   - **Call 999 if an individual attempts to remove the child by force or if you believe the child is in immediate physical danger.**
+   - **Contact a family law solicitor for an "Emergency Prohibited Steps Order" or "Specific Issue Order" if a surviving parent is threatening to remove the child against a standing court order.**
 
 ## What can wait
-- You do not need to decide the long-term custody/contact pattern today.
-- You do not need to resolve estate issues, wills, or longer-term guardianship decisions in the next 24–72 hours.
-- You do not need to “prove” everything right now beyond keeping the child safe and routines stable.
+- You do not need to decide on permanent living arrangements or school changes today.
+- You do not need to allow extended family members (grandparents/aunts) contact if it complicates the immediate safety plan.
+- You do not need to resolve probate, the deceased's will, or property access within this initial 24–72 hour window.
 
 ## Important reassurance
-It’s normal for handovers to become confusing and emotionally charged after a death—especially when everyone is grieving and frightened about losing time with the child. A short, written stopgap plan plus clear school pickup controls protects the child and reduces conflict while you confirm the legal position.
+It is common to feel hesitant or confused about legal authority during a sudden family crisis. Delays caused by verifying Parental Responsibility or court orders are standard safeguarding practice and do not constitute "parental alienation" in an emergency context. Physical stability for the child is the priority.
 
 ## Scope note
-These are first steps only: stabilise the next few days, prevent a chaotic handover, and confirm PR/court orders. Longer-term arrangements often need family-court guidance, mediation, or legal advice—especially if there’s disagreement.
+This guide provides first-step stabilization for the immediate hours following a co-parent's death. It does not replace legal advice or the long-term mediation required for permanent child arrangements.
 
 ## Important note
-This is general information, not legal advice. Family situations vary and the safest step is often to slow down, confirm authority (PR/court orders), and use official channels (school safeguarding procedures, urgent legal advice, and—if needed—police/children’s services).
+Parental Responsibility laws differ between England/Wales, Scotland, and Northern Ireland. If a "lives with" order was in place, the legal transition of care may be automatic; if no order existed, the surviving parent usually has immediate custody rights. Consult a specialist family solicitor to confirm the status of specific court orders.
 
 ## Additional Resources
-- https://www.gov.uk/parental-rights-responsibilities/who-has-parental-responsibility
-- https://www.gov.uk/parental-rights-responsibilities/apply-for-parental-responsibility
-- https://www.legislation.gov.uk/ukpga/1989/41/section/5
 - https://www.gov.uk/government/publications/parental-responsibility-court-orders-testamentary-guardians-and-loco-parentis-caseworker-guidance/parental-responsibility-court-orders-testamentary-guardians-and-loco-parentis-accessible-version
 - https://childlawadvice.org.uk/information-pages/testamentary-guardianship/
-- https://childlawadvice.org.uk/information-pages/residence/
+- https://www.cafcass.gov.uk/parent-carer-or-family-member/applying-order-gives-you-parental-responsibility
+- https://www.gov.uk/parental-rights-responsibilities/apply-for-parental-responsibility
+- https://www.gov.uk/government/publications/urgent-court-hearings-about-child-arrangements-cb2/urgent-hearings-about-child-arrangements-cb2

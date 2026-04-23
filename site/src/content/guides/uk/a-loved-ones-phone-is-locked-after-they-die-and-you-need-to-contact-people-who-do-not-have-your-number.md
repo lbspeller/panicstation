@@ -1,88 +1,104 @@
-﻿---
+---
 title: "What to do if… a loved one’s phone is locked after they die and you need to contact people who do not have your number"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - locked phone after death
-  - bereavement phone locked
-  - deceased iphone locked
-  - deceased android locked
-  - can’t unlock loved one’s phone
-  - need to contact people from their phone
-  - need their contacts but phone locked
-  - phone passcode unknown after death
-  - face id not working after death
-  - sim still active after death
-  - access apple id after death
-  - access google account after death
-  - contact list on phone inaccessible
-  - notify friends when someone dies
-  - urgent calls from deceased’s phone
-  - executor needs phone access
-  - next of kin digital access
-  - emergency contacts on lock screen
-  - deceased phone account holder
-last_reviewed: "2026-03-02"
+  - "locked phone after death"
+  - "bereavement phone locked"
+  - "deceased iphone locked"
+  - "deceased android locked"
+  - "cant unlock loved ones phone"
+  - "need to contact people from their phone"
+  - "need their contacts but phone locked"
+  - "phone passcode unknown after death"
+  - "face id not working after death"
+  - "sim still active after death"
+  - "access apple id after death"
+  - "access google account after death"
+  - "contact list on phone inaccessible"
+  - "notify friends when someone dies"
+  - "urgent calls from deceaseds phone"
+  - "executor needs phone access"
+  - "next of kin digital access"
+  - "emergency contacts on lock screen"
+  - "deceased phone account holder"
+  - "what do i do if loved one died and phone is locked"
+  - "what do i do if i cant unlock deceased persons phone"
+  - "what do i do if i need contacts from locked phone"
+  - "what do i do if my partner died and phone is locked"
+  - "help i cant get into my dads phone"
+  - "help i need to notify people from a locked phone"
+  - "my mums phone is locked and she passed away"
+  - "my friend died and i cant open their phone"
+  - "locked screen notifications"
+  - "missing passcode after death"
+  - "biometric lockout bereavement"
+  - "digital legacy request uk"
+  - "computer misuse act bereavement"
+  - "mobile network bereavement team uk"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… a loved one’s phone is locked after they die and you need to contact people who do not have your number (UK)
 
 ## Short answer
-Keep the phone number active and avoid “guessing” or resetting the device, then use the mobile network’s bereavement route and Apple/Google’s official after-death processes to reach contacts without losing data.
+Maintain the active phone line and use official bereavement procedures from Apple, Google, or the mobile network to request account access or data rather than attempting to bypass the device passcode.
 
 ## Do not do these things
-- Don’t repeatedly guess the passcode (it can cause escalating lockouts and, if certain settings are enabled, the device may become disabled or erase data).
-- Don’t factory reset, restore, or erase the phone “to get in” (it often destroys the contacts/messages you need and can make recovery impossible).
-- Don’t use bypass tools/services or “phone unlocking” shops (high scam risk; high chance of data loss; may breach terms/rights).
-- Don’t cancel the mobile contract immediately (you may lose the number, voicemail, and incoming calls/texts that help you reach people).
-- Don’t post their number or personal details publicly to “find people” (it can invite fraud and impersonation).
+- Don't attempt to guess the passcode repeatedly (exceeding attempts can permanently disable the device or trigger a factory reset/data wipe).
+- Don't use third-party "unlocking" software or high-street shops (these services often fail, risk data loss, and can compromise the security of the estate's data).
+- Don't reset or "wipe" the device to gain access (this removes the contacts and messages you are attempting to retrieve).
+- Don't cancel the mobile contract or SIM immediately (the number is often required for two-factor authentication for other accounts and remains an active "inbox" for incoming calls).
+- Don't use a shared password to log in if you are not the legally authorised personal representative (under the Computer Misuse Act 1990, unauthorised access can be a criminal offence).
 
 ## What to do now
-1. **Stabilise the device so you don’t accidentally lose information**
-   - Put the phone somewhere safe and keep it charged.
-   - Often, it’s best not to power it off if it’s already on (restarting can sometimes increase security prompts or make access harder).
-   - Gather anything that proves ownership/authority (device box/receipt, the SIM packaging, any bills, any written instructions).
+1. **Secure the physical device to prevent data loss**
+   - **Keep the device powered on and connected to a charger.** 
+   - **Avoid restarting the phone if it is currently on**, as biometrics (FaceID/TouchID) usually require a passcode immediately after a reboot.
+   - **Place the phone in a safe location where notifications can be observed without moving the device.**
 
-2. **Use what you can access without unlocking**
-   - Check the lock screen for missed calls and notifications that show names/numbers. Don’t clear notifications—just note details on paper.
-   - On many iPhones, tap **Emergency** and look for **Medical ID / Emergency Contacts** (if set up). Call one trusted contact and ask them to help relay news to others.
+2. **Check for emergency contact information on the lock screen**
+   - **On an iPhone, tap 'Emergency' then 'Medical ID' to see if emergency contacts are listed.**
+   - **On an Android phone, tap 'Emergency' then 'Emergency information' (you may need to tap it twice) to find designated contacts.**
+   - **Call these contacts from your own phone and ask them to help identify and notify other friends or colleagues.**
 
-3. **Treat the phone number as your “inbox” (don’t disconnect it yet)**
-   - Keep the SIM/service active so friends/colleagues can call or text the existing number.
-   - If you already know the voicemail PIN and can access voicemail legitimately from another phone, note down caller names/numbers and save key messages. If you don’t have the PIN, ask the provider’s bereavement team what options exist.
+3. **Monitor the lock screen for incoming communications**
+   - **Note down names and numbers that appear in notification banners as they arrive.**
+   - **Do not swipe away or clear notifications**, as you may not be able to see the details again without the passcode.
+   - **Record any incoming calls or voicemails (if you can hear them) to identify frequent contacts.**
 
-4. **Contact the mobile network’s bereavement team (practical next step in the UK)**
-   - Ask about: **keeping the number active temporarily**, **transferring responsibility for the line**, and (where available) **moving/retaining the number** (some providers may use processes such as a PAC or account transfer once they’ve verified the death and your authority).
-   - Have ready: the account holder’s details (name, address, mobile number), your ID, and the death certificate (providers commonly ask for documentation).
-   - If you don’t know the provider, check the SIM, any bill emails/letters, or the network name shown on the phone.
+4. **Contact the mobile network’s dedicated bereavement team**
+   - **Notify the provider (e.g., EE, O2, Vodafone, Three) of the death to stop future billing while keeping the line active.**
+   - **Request a 'Transfer of Ownership' or 'Bereavement Transfer' if you wish to move the number to your name to access incoming texts/calls.**
+   - **Use 'Life Ledger' (a free UK service) to notify the mobile network and other utilities simultaneously if you have the death certificate details.**
+      - You will need the account holder's full name, address, mobile number, and the death certificate number.
 
-5. **Use the phone-maker’s official after-death route (don’t rely on “hacks”)**
-   - **If it’s an iPhone:** If a **Legacy Contact** was set up and you have the **Access Key**, Apple has a formal Digital Legacy request process using the access key plus a death certificate. If no Legacy Contact exists, Apple still provides a formal route to request access to or deletion of a deceased person’s Apple Account data in limited circumstances.
-   - **If it’s Android/Google:** Use Google’s deceased-user request process. In some cases, content may be provided, but Google will not provide passwords or login details.
+5. **Initiate official Digital Legacy requests**
+   - **For iPhones, check if you were appointed as a 'Legacy Contact' and use the provided Access Key on Apple's Digital Legacy portal.**
+   - **If no Legacy Contact exists for an Apple account, prepare to provide a Grant of Probate and a Court Order, as Apple typically requires these for UK data access.**
+   - **For Android, use Google’s 'Request regarding a deceased user's account' form to request data or account closure.**
+      - Google may provide specific data (like contacts or photos) to authorised representatives but will not provide the account password.
 
-6. **Build a “notify people” workaround that doesn’t require unlocking**
-   - Look for offline lists: address book, diary, recent post, club letters, workplace paperwork.
-   - If there’s a laptop/tablet already signed into their email, use it to message a few key people and ask them to pass the news on.
-   - If a funeral director is involved, ask if they can help coordinate notifications to known contacts (many families use them as a relay point).
+6. **Check for alternative access points**
+   - **Look for tablets or computers that may already be logged into the deceased person's email or social media.**
+   - **Use these 'trusted' devices to send a broadcast message to known contacts or to look up contact lists in the email address book.**
 
 ## What can wait
-- You do **not** need to decide today about closing accounts, memorialising social media, or sorting their entire digital life.
-- You do **not** need full phone access immediately to notify people—use the number/voicemail (if legitimately accessible), emergency contacts, existing signed-in email, and paper trails first.
-- You can postpone legal/probate steps unless there’s an urgent safeguarding or fraud risk.
+- You do not need to resolve the long-term "memorialisation" of social media accounts today.
+- You do not need to settle the final mobile phone bill immediately (bereavement teams can pause charges).
+- You do not need to provide a full Grant of Probate just to notify the network, though it may be needed for account transfers later.
 
 ## Important reassurance
-It’s very common to hit a locked-phone barrier after someone dies. The urgency you feel is understandable, but the biggest irreversible mistakes come from rushing (guessing passcodes, resetting, or paying an “unlocker”). The official routes are slower, but they’re the ones most likely to preserve what you need.
+Encountering a locked device is one of the most common hurdles during bereavement. While the process of gaining legal access to data is often slow, following official channels is the only way to ensure the data is not permanently erased by security protocols. It is normal to feel frustrated by these security barriers; they are designed to protect privacy, not to block your efforts.
 
 ## Scope note
-These are first steps to help you contact people and prevent accidental data loss. Later decisions (digital estate, probate, disputes, high-value accounts) may need specialist help.
+This guide provides first-step stabilization for UK-based users attempting to manage a deceased person's digital contacts. It does not cover long-term digital estate planning or the legal complexities of the Computer Misuse Act.
 
 ## Important note
-This is general information, not legal advice. Networks and online services have their own rules and can require proof of identity and authority before they act. If you’re unsure you have the right to access something, use official bereavement/legacy processes rather than workarounds.
+This information is for general guidance and does not constitute legal advice. Accessing a deceased person's digital accounts without explicit authority (even with a password) may technically violate the Computer Misuse Act 1990. Always consult a solicitor if you are unsure of your legal rights as an executor or next of kin.
 
 ## Additional Resources
-- https://www.ofcom.org.uk/phones-and-broadband/accessibility/notifying-a-provider-of-a-customers-death
 - https://support.apple.com/en-gb/102431
-- https://digital-legacy.apple.com/
 - https://support.google.com/accounts/troubleshooter/6357590?hl=en
-- https://www.three.co.uk/vulnerability/major-life-event/bereavement-support
-- https://www.vodafone.co.uk/support/articles/how-do-i-report-a-bereavement----8c3d9d2e-95bc-457d-87a5-e133bd0e5e74
+- https://www.ofcom.org.uk/phones-and-broadband/accessibility/notifying-a-provider-of-a-customers-death
+- https://digitallegacyassociation.org/mobile-phone-guide/
+- https://www.citizensadvice.org.uk/family/death-and-wills/what-to-do-after-a-death/

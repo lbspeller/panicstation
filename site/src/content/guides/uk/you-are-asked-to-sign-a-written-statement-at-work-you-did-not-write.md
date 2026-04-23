@@ -1,80 +1,92 @@
-﻿---
+---
 title: "What to do if… you are asked to sign a written statement at work you did not write"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - asked to sign a statement
-  - sign written statement at work
-  - statement i did not write
-  - pressured to sign at work
-  - hr wants me to sign
-  - disciplinary statement to sign
-  - investigation meeting statement
-  - witness statement workplace
-  - refusing to sign statement
-  - signature means agreement
-  - acknowledge receipt only
-  - document not in my words
-  - workplace allegations statement
-  - forced to sign letter
-  - written account workplace
-  - employment meeting paper to sign
-  - sign now or else pressure
-last_reviewed: "2026-01-08"
+  - "copied into internal email"
+  - "cc'd on email about me"
+  - "email suggests misconduct"
+  - "email hints dismissal"
+  - "accused of misconduct at work"
+  - "disciplinary email appears"
+  - "internal email evidence"
+  - "workplace allegation email"
+  - "dismissal threat in writing"
+  - "misconduct accusation message"
+  - "what do i do if i am copied into an email about me"
+  - "what do i do if a work email mentions dismissal"
+  - "what do i do if i see a misconduct accusation"
+  - "what do i do if my manager emails about my firing"
+  - "help i saw an internal email about my misconduct"
+  - "help i was cc'd on a disciplinary thread"
+  - "help i am being fired by email"
+  - "help my manager is discussing my dismissal"
+  - "misconduct email notice"
+  - "dismissal email notice"
+  - "internal complaint evidence"
+  - "disciplinary procedure start"
+  - "hr investigation email"
+  - "seen email by mistake"
+  - "wrongly copied on email"
+  - "email suggests gross misconduct"
+  - "internal investigation mention"
+  - "acas disciplinary code 2026"
+  - "fair work agency uk"
+  - "employment rights act 2025"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are asked to sign a written statement at work you did not write (UK)
 
 ## Short answer
-Don’t sign it on the spot. Ask for a copy and time to check it, and offer to provide your own written statement (or corrections) in your own words.
+Do not reply to the email or forward it externally. Save a copy of the message within the work system and request a private meeting with HR or your manager to clarify if a formal process has been initiated.
 
 ## Do not do these things
-- Do not sign anything you have not fully read and understood (including attachments, “appendices”, or later pages).
-- Do not sign a blank, partially completed, or “we’ll fill it in later” document.
-- Do not accept “it’s just a formality” unless they confirm in writing what your signature means.
-- Do not get drawn into an argument about the facts in the room—focus on process: copy, time, accuracy, and your own statement.
-- Do not delete texts/emails/Teams messages related to this (keep everything as-is).
-- Do not resign “to make it go away” while you’re under pressure.
+- Do not "Reply All" to defend yourself, apologize, or express anger.
+- Do not delete the email or attempt to modify your inbox history.
+- Do not forward the email to personal accounts or external parties, as this may breach data protection or confidentiality policies.
+- Do not confront the sender or any mentioned witnesses in person or via instant messenger.
+- Do not record meetings secretly; always ask for permission or request a formal note-taker.
+- Do not resign immediately or threaten legal action while in a state of shock.
+- Do not sign any "mutual separation" or settlement documents during an initial meeting without independent advice.
 
 ## What to do now
-1. **Pause and use one clear sentence.**  
-   “I can’t sign this today because I didn’t write it. Please give me a copy and time to check it for accuracy.”
-2. **Ask what your signature would mean.**  
-   Ask: “Does signing mean I agree it’s true, or only that I’ve received it?” If they say “receipt only”, ask them to **write that on the document** (or confirm by email).
-3. **Get the whole pack, not just one page.**  
-   Ask for the statement plus any attachments/exhibits it refers to, the relevant policy, and the deadline. If they won’t give you a copy, say you cannot responsibly sign without being able to review and keep it.
-4. **If it’s presented as “your statement”, make it accurate before anything is signed.**  
-   In UK workplace investigations, a “witness statement” is often the investigator’s notes written up, then given to the witness to check and sign as accurate. If it’s wrong or incomplete, ask to:  
-   - correct errors (names, dates, quotes, meaning),  
-   - add short clarifications, and/or  
-   - attach your own separate signed, dated statement.  
-   Only sign once it clearly reflects what you said/observed. If it cannot be corrected, **don’t sign**.
-5. **Work out what kind of meeting this is and use the right process.**  
-   Ask: “Is this an investigatory meeting, or a disciplinary/grievance hearing?”  
-   - For a **disciplinary hearing** (and many **grievance** meetings), you can **reasonably request to be accompanied** by a trade union representative/official or a fellow worker.  
-   - For **investigation meetings**, there is not usually the same statutory right, but you can still ask if a companion is allowed under your workplace policy.
-6. **Create your own record immediately.**  
-   As soon as you can, write a short factual note: date/time, who was present, what you were asked to sign, what you asked for (copy/time), what they said your signature would mean, and any deadlines. Email it to yourself for a timestamp.
-7. **If they insist on “a signature today”, offer a safer alternative only if wording is explicit.**  
-   If (and only if) the document clearly states your signature is **acknowledgement of receipt** (not agreement), you can consider signing for receipt. If it doesn’t clearly say that, don’t sign.
+1. **Move to a neutral space and stop interacting with the email thread.** Close the application to prevent an accidental click or "read receipt" until you have a plan.
+2. **Preserve a record of the email using approved internal methods.**
+   - Keep the original email in your inbox.
+   - Note the exact time, sender, and all recipients (To and CC fields).
+   - If your company policy allows, save the email as a PDF to a secure work folder.
+3. **Send a brief, private request for clarification to your manager or HR.** Use a neutral tone focused on the process rather than the allegations.
+   - Example: "I have seen the email thread regarding [Topic] which I was copied into. I would like to request a meeting to clarify the nature of these concerns and understand what the next steps in the process will be."
+4. **Locate your employer’s current disciplinary and investigation policy.** Look for specific sections on:
+   - The definition of misconduct versus gross misconduct.
+   - Suspension procedures and pay entitlements.
+   - Estimated timelines for investigations.
+5. **Establish whether the next meeting is an investigation or a disciplinary hearing.** The procedural rights for these stages differ significantly.
+   - **Investigation Meeting:** This is fact-finding. There is no statutory right to be accompanied, but you should check if your contract or a disability-related reasonable adjustment allows for a companion.
+   - **Disciplinary Hearing:** If the meeting could result in a formal warning or dismissal, you have a statutory right to be accompanied by a colleague or a trade union representative.
+6. **Contact your Trade Union representative immediately if you are a member.** Provide them with the timeline and a copy of the email you received.
+7. **Create a factual timeline of the events mentioned in the email.** Document dates, times, and any relevant interactions that contradict or clarify the allegations while the details are fresh.
+8. **Request copies of any evidence mentioned in the email thread.** Under the ACAS Code of Practice, you are entitled to see the evidence against you before a formal disciplinary hearing.
+9. **Prepare to use a Subject Access Request (SAR) if information is withheld.** Under the Data (Use and Access) Act 2025, you can request all personal data the company holds about you, though be aware that employers can now "stop the clock" on the 30-day response limit if they require clarification of your request.
 
 ## What can wait
-- You do not need to decide today whether to raise a formal grievance, contact ACAS, or take legal advice.
-- You do not need to respond to every allegation immediately; you can respond once you have the full document and anything it relies on.
-- You do not need to negotiate outcomes (warnings, resignation, settlement) in the same meeting you were surprised with paperwork.
+- You do not need to provide a detailed rebuttal or "statement of defense" in the first 24 hours.
+- You do not need to decide whether to stay at the company or "fight" the case immediately.
+- You do not need to clear your name with colleagues; informal "counter-messaging" usually complicates the formal investigation.
+- You do not need to hire a private solicitor for the initial clarification meeting.
 
 ## Important reassurance
-Being put on the spot to sign something you didn’t write is a common pressure moment at work. Asking for a copy, time to check accuracy, and the chance to provide your own statement is reasonable and protective.
+Being accidentally copied into a sensitive email is a significant procedural error by the sender. It is a highly stressful situation, but your reaction in the first hour is critical. Shifting the focus from the "shock" of the content to the "process" of the investigation allows you to regain control and ensures your rights are protected under UK law.
 
 ## Scope note
-These are first steps to slow things down, prevent accidental admissions, and create a clean record. Next steps depend on whether this is an investigation, a disciplinary process, or a grievance.
+This guide covers first-step stabilization and procedural safeguarding only. It does not provide legal strategies for employment tribunals or specific advice for gross misconduct hearings.
 
 ## Important note
-This is general information, not legal advice. Workplace procedures and rights can vary by contract and policy. If the document involves serious allegations or you feel coerced, consider getting specialist advice before signing anything.
+This information is for general guidance and does not constitute legal advice. Employment rights in the UK changed significantly with the Employment Rights Act 2025, including the removal of the two-year qualifying period for unfair dismissal for many employees. If you are facing dismissal or believe you are being targeted due to whistleblowing or discrimination, you should consult ACAS or an employment law specialist immediately.
 
 ## Additional Resources
 - https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-5-if-there-are-witnesses
 - https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
-- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
-- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
-- https://www.legislation.gov.uk/ukpga/1999/26/section/10
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/disciplinary-meetings-where-to-start/
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/preparing-for-a-disciplinary-or-dismissal-meeting/
+- https://www.acas.org.uk/grievance-procedure-step-by-step

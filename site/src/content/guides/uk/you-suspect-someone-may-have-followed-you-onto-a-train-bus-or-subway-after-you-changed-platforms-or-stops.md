@@ -1,82 +1,100 @@
-﻿---
+---
 title: "What to do if… you suspect someone may have followed you onto a train, bus, or subway after you changed platforms or stops"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - followed onto train
-  - followed onto bus
-  - followed onto subway
-  - someone followed after changing platforms
-  - someone followed after changing stops
-  - being followed on public transport
-  - suspicious passenger keeps matching moves
-  - changed car and they followed
-  - moved platforms and they followed
-  - unsafe feeling on train
-  - unsafe feeling on the bus
-  - unsafe feeling on the tube
-  - commuter being followed
-  - stranger tracking your route
-  - public transit personal safety
-  - worried someone is tailing you
-  - someone copying your transfers
-  - late night transit safety
-last_reviewed: "2026-01-10"
+  - "followed onto train"
+  - "followed onto bus"
+  - "followed onto subway"
+  - "someone followed after changing platforms"
+  - "someone followed after changing stops"
+  - "being followed on public transport"
+  - "suspicious passenger keeps matching moves"
+  - "changed car and they followed"
+  - "moved platforms and they followed"
+  - "unsafe feeling on train"
+  - "unsafe feeling on the bus"
+  - "unsafe feeling on the tube"
+  - "commuter being followed"
+  - "stranger tracking your route"
+  - "public transit personal safety"
+  - "worried someone is tailing you"
+  - "someone copying your transfers"
+  - "late night transit safety"
+  - "what do i do if someone is following me on the train"
+  - "help i am being followed on the bus"
+  - "my stalker followed me onto the subway"
+  - "what do i do if someone followed me after a transfer"
+  - "help i changed platforms and they are still there"
+  - "my transit journey feels unsafe"
+  - "seeing same person after switching lines"
+  - "hearing footsteps matching my pace in station"
+  - "smell of someone standing too close on empty train"
+  - "noticing someone watching from another carriage"
+  - "feeling of being watched on the bus"
+  - "suspicious person on night bus"
+  - "safety on the london underground"
+  - "safety on the glasgow subway"
+  - "reporting harassment on national rail"
+  - "texting btp for help"
+  - "emergency on a train uk"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you suspect someone may have followed you onto a train, bus, or subway after you changed platforms or stops (UK)
 
 ## Short answer
-Move to a busier, staffed area and involve transport staff or police discreetly. If you feel in immediate danger, call 999.
+Move immediately to a high-visibility, staffed area such as a ticket office or the area near the bus driver, and contact transport staff or the police.
 
 ## Do not do these things
-- Do not confront them, argue, or try to “prove” they’re following you.
-- Do not isolate yourself (empty carriage, far end of a platform, quiet station exit, deserted bus stop).
-- Do not get off at an isolated stop or take a secluded route just to “lose” them.
-- Do not lead them to your home (or your usual walking route) if you can avoid it.
-- Do not accept help from a stranger who tries to move you somewhere out of view.
+- Do not confront the individual, ask why they are there, or attempt to "test" them further.
+- Do not isolate yourself in an empty carriage, a quiet end of a platform, or a deserted upper deck.
+- Do not get off at a quiet or unfamiliar stop just to see if they follow you.
+- Do not lead them to your home, your workplace, or your parked car.
+- Do not accept help from an unstaffed stranger who suggests moving to a secluded area for "safety."
 
 ## What to do now
-1. **Create safety density: people + visibility + staff.**  
-   Move to where there are **more people and better sightlines**. In a station, go toward **ticket gates, a staffed area, or a Help Point** rather than the far end of a platform.
+1. **Move to an area with maximum visibility and density.**  
+   **Prioritise areas with active staff, ticket barriers, or large groups of people.** If you are on a station platform, move toward the "Help Point" or the platform staff office rather than waiting in shadows or at the far ends of the platform.
 
-2. **Change your position without “making it a scene.”**  
-   - **On a train/tube:** move to a **busier part of the carriage** or (at the next stop) **walk along the platform** and board a **more crowded carriage**.  
-   - **On a bus:** move **closer to the driver** and stay in clear view of other passengers.
+2. **Change your position within the vehicle to be near help.**  
+   - **On a bus:** Sit as close to the driver as possible and remain within their line of sight.  
+   - **On a train or Tube:** Move to a carriage that is busy or has a visible "Emergency Alarm" or "Help Point" handle. If the train stops, you can walk along the platform to a busier carriage, provided there are staff or many passengers visible.
 
-3. **Get staff/police involved early (discreetly).**  
-   - Tell a member of **transport staff** what’s happening (briefly: “I think I’m being followed; I’m staying here in public; can you help me get to a safe area?”).  
-   - **British Transport Police (BTP) for rail/tram/underground networks they police:** text **61016** or call **0800 40 50 40** for non-emergency reporting.  
-   - **If you feel threatened right now:** call **999**. If you can’t safely speak, you can still call 999 and follow the operator’s silent-call instructions.
+3. **Contact the authorities discreetly using UK-specific services.**  
+   - **For Rail, Tube, or Tram (Great Britain):** Text the British Transport Police (BTP) on **61016** or call **0800 40 50 40**.  
+   - **For Buses or Road incidents:** Call **101** for non-emergencies.  
+   - **In an immediate emergency:** Call **999**. If you cannot speak, follow the "Silent Solution" protocol: stay on the line and **press 55** when prompted by the operator.
+   - **Note:** Your network provider may charge for texts to 61016.
 
-4. **If you choose to get off, do it at a busy, staffed place.**  
-   Get off at the **next busy station/stop** (not a quiet one). Go straight to a **staffed, well-lit public area** (ticket hall, barriers, help point). Stay in public view while you contact staff/police.
+4. **Identify specific sensory cues to share with responders.**  
+   **Note the person's appearance and the specific actions that caused your concern.**  
+   - Cues include: matching your pace after a transfer, repeatedly switching carriages when you do, or standing close to you despite empty seats elsewhere.  
+   - Note the vehicle's fleet number (buses) or carriage number (trains), the line/route name, and the direction of travel.
 
-5. **Give responders what helps them find you fast.**  
-   Share: line/route, direction of travel, **next stop**, time, platform, and any identifiers you can safely note (carriage number if shown, bus route and fleet number). Add a simple description (clothing, bag).
+5. **Exiting the transport network only at a "Safe Haven" stop.**  
+   **Only get off the vehicle if the stop is well-lit, staffed, and busy.** If the next stop is isolated or dark, stay on the vehicle until you reach a major station. Once off, go directly to a staffed ticket office or a "Help Point" and state: "I believe I am being followed; I need to stay here in view of staff."
 
-6. **Use a trusted person as an “anchor.”**  
-   Call/message someone you trust: where you are, the next stop, and that you’re staying near staff. If helpful, ask them to **meet you at a busy, staffed station** (not outside in a quiet area).
+6. **Establish a remote "anchor" with a trusted contact.**  
+   **Call a friend or family member and stay on the line with them.** Tell them exactly where you are, which vehicle you are on, and the name of the next major station where you plan to meet staff or police.
 
 ## What can wait
-- You do **not** need to decide whether they “definitely” followed you—treat it as a safety concern and hand it to staff/police.
-- You do **not** need to gather proof, film them, or take photos if that increases risk.
-- You do **not** need to complete your planned journey. A safe pause in a public, staffed place is the priority.
+- You do not need to confirm with 100% certainty that you are being followed before asking for help.
+- You do not need to worry about being an "inconvenience" to transport staff or the police.
+- You do not need to finish your journey or arrive at your original destination on time.
+- You do not need to collect video or photo evidence if doing so puts you at risk.
 
 ## Important reassurance
-Freezing, second-guessing, or feeling embarrassed is common in situations like this. Moving to a busier area and asking staff/police for help are normal safety actions on public transport.
+It is normal to feel a sense of hyper-vigilance, "butterflies," or a desire to second-guess your instincts in this situation. Public transport is designed for collective safety; moving toward staff and using reporting services like 61016 are standard procedures intended for exactly these moments.
 
 ## Scope note
-These are first steps only, to stabilise and get support quickly. Anything beyond immediate safety can be decided later.
+This guide provides first-step stabilization for immediate personal safety on UK public transport. Long-term safety planning or legal reporting can be addressed once you are in a secure, staffed environment.
 
 ## Important note
-This is general information, not professional advice. If you are in immediate danger, call **999**. For non-emergencies, local police can usually be reached on **101**; on rail networks, BTP can be contacted via **61016**/**0800 40 50 40** depending on the situation and location.
+This guide is for informational purposes and does not replace the advice of police or emergency services. In any situation where you feel your life or safety is at risk, call **999** immediately. 
 
 ## Additional Resources
+- https://www.btp.police.uk/cp/crime-prevention/btp/railway-crime/travel-safely-rail/
 - https://www.btp.police.uk/police-forces/british-transport-police/areas/campaigns/61016-text-service/
-- https://www.btp.police.uk/contact/af/contact-us/
-- https://www.nationalrail.co.uk/help-and-assistance/text-61016/
-- https://www.gov.uk/contact-police
-- https://www.police.uk/pu/contact-us/
-- https://tfl.gov.uk/travel-information/safety/report-a-crime-or-incident
-- https://www.gov.uk/government/publications/bus-and-coach-security-recommended-best-practice
+- https://www.btp.police.uk/reportcrime/
+- https://tfl.gov.uk/travel-information/safety/report-it-to-stop-it
+- https://www.met.police.uk/cp/crime-prevention/personal-safety-how-to-stay-safe/

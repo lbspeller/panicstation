@@ -1,93 +1,91 @@
-﻿---
+---
 title: "What to do if… you find stormwater pooling against your foundation and it is rising toward entry points"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - stormwater pooling at foundation
-  - rainwater against house wall
-  - water rising toward door
-  - water at doorstep during storm
-  - surface water flooding home
-  - water reaching air bricks
-  - water near basement entry
-  - water near garage threshold
-  - garden flooding into house
-  - driveway runoff into property
-  - drains overwhelmed heavy rain
-  - diverting water from foundation
-  - emergency flood protection
-  - sudden flash flooding home
-  - stopping water entering doorway
-  - pooling water by external wall
-  - water coming toward front door
-  - water coming toward back door
-  - flooding risk at ground floor
-last_reviewed: "2026-03-05"
+  - "stormwater pooling at foundation"
+  - "rainwater against house wall"
+  - "water rising toward door"
+  - "water at doorstep during storm"
+  - "surface water flooding home"
+  - "water reaching air bricks"
+  - "water near basement entry"
+  - "water near garage threshold"
+  - "garden flooding into house"
+  - "driveway runoff into property"
+  - "drains overwhelmed heavy rain"
+  - "diverting water from foundation"
+  - "emergency flood protection"
+  - "sudden flash flooding home"
+  - "stopping water entering doorway"
+  - "pooling water by external wall"
+  - "water coming toward front door"
+  - "water coming toward back door"
+  - "flooding risk at ground floor"
+  - "help i have water at my door"
+  - "what do i do if my garden is flooding"
+  - "what do i do if water is at my air bricks"
+  - "help i have water against my wall"
+  - "rising water at foundation"
+  - "external wall flooding"
+  - "puddles against house"
+  - "blocked gully flooding"
+  - "runoff entering house"
+  - "flash flood entry points"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you find stormwater pooling against your foundation and it is rising toward entry points (UK)
 
 ## Short answer
-Act immediately to divert water away from the building and block the lowest entry points, while keeping clear of electrical risks and contaminated water.
+Immediately divert the flow away from the building using simple barriers or channels and block the lowest entry points (doors and air bricks) while avoiding contact with water near electrical sources.
 
 ## Do not do these things
-- Don’t step into water if it may be contacting sockets, extension leads, outside lights, boilers, or buried electrics.
-- Don’t try to “solve it” by opening doors to let water through the house (it often makes damage worse and can trap you).
-- Don’t lift or remove drain covers/manholes while water is surcharging (they can shift and the water may be foul).
-- Don’t run electrical pumps/tools from wet areas or with wet hands.
-- Don’t assume sandbags will fully stop water (they often only slow it and can give a false sense of security).
-- Don’t ignore gas risk: if you smell gas or suspect a leak, leave the building and get help.
+- Don't enter standing water if it has reached electrical sockets, extension leads, or the bottom of a floor-mounted boiler.
+- Don't attempt to walk or drive through fast-moving water outside; 15cm of moving water can knock an adult over.
+- Don't lift manhole covers or drain grates while water is surcharging, as they can be difficult to replace and create a fall hazard.
+- Don't use a vacuum cleaner or standard domestic pump to remove water while standing in it.
+- Don't wait for the local council to provide sandbags; they are rarely distributed during active flash flooding.
+- Don't touch the gas meter or electrical consumer unit if they are located in a flooded cellar or basement.
 
 ## What to do now
-1. **Get to a safer pause and do a 30-second check.**  
-   Keep children/pets away from the pooling area and any water near power. Put shoes on (no bare feet).
-
-2. **Find where the water is coming from (and where it’s trying to get in).**  
-   Look for: overflowing gutters/downpipes, blocked gullies, runoff down the drive/path, water rising over thresholds, air bricks/vents being splashed, garage door gaps, cellar/basement steps, light wells.
-
-3. **Clear the quickest blockages you can reach safely.**  
-   If you can do it without standing in water: clear leaves from **gullies/grates**, unblock **downpipe shoes**, and move obvious debris away from the flow path.
-
-4. **Divert the flow away from the foundation—fast, simple moves first.**  
-   - Extend/redirect **downspout/downpipe discharge** away from the wall (temporary extension if you have one).  
-   - Cut a shallow **temporary channel** in gravel/soil to guide water to a safer low point (away from the house).  
-   - Use a **squeegee/push broom** to push shallow water away from thresholds if it’s safe to approach.
-
-5. **Block the lowest entry points before water reaches them.**  
-   Prioritise: doors, low vents/air bricks, garage threshold, cellar/basement steps, light wells.  
-   - If you have them: fit **flood boards/barriers**, **air brick covers**, **threshold seals**.  
-   - If you don’t: heavy plastic sheeting plus towels/blankets to make a compressible seal, then brace with a rigid board and weight it securely.
-
-6. **If water is entering or about to: protect electrics and move key items up.**  
-   - Move valuables, medicines, documents, and chargers **upstairs or onto high shelves**.  
-   - **Only** switch off electricity if you can reach the **consumer unit/fuse box from a dry, safe location**. Do not touch switches while standing in water.  
-   - If you cannot safely isolate the power, or you see damage to outside electrical equipment/lines, call **105** (free) to reach your local electricity network operator.
-
-7. **Get flood information and report wider flooding (once you’ve stabilised the entry points).**  
-   - Use **Floodline** for flood warnings/information and to sign up for alerts (England/Scotland/Wales).  
-   - Report flooding affecting roads/drains to your **local council** (highways/drainage/emergency out-of-hours).  
-   - If you have buildings insurance, notify your **insurer’s emergency/claims line** when you’re out of immediate danger.
-
-8. **If there’s immediate danger to life (fast-rising water trapping you), call 999.**  
-   If you smell gas or suspect a leak, leave the building and get emergency help.
+1. **Identify and clear immediate blockages to the drainage path.**
+   - **Check gullies and grates** for leaves, plastic, or silt that can be kicked or raked away.
+   - **Clear debris** from the "shoe" (bottom) of downpipes to ensure roof water isn't adding to the pooling.
+2. **Divert surface water away from the foundation walls.**
+   - **Create a temporary channel** in soil or gravel using a spade to guide water to a lower part of the garden.
+   - **Use weighted barriers** such as bags of compost, rolled-up rugs wrapped in plastic, or timber boards to nudge the flow away from thresholds.
+   - **Push water away** using a wide floor squeegee or stiff broom if the depth is shallow.
+3. **Seal air bricks and low-level vents immediately.**
+   - **Cover air bricks** with plastic kitchen wrap, heavy-duty tape, or dedicated flood covers if you have them.
+   - **Ensure a tight seal** against the brickwork, but remember to remove these as soon as the water recedes to allow the sub-floor to breathe.
+4. **Protect doorways and low thresholds.**
+   - **Place a waterproof barrier** (like a heavy plastic sheet) across the bottom of the door and secure it with a weighted board or heavy objects.
+   - **Stuff gaps** with towels or blankets behind the plastic to create a compressible seal.
+5. **Isolate power and gas if ingress is certain.**
+   - **Switch off the electricity** at the consumer unit only if you can do so from a dry, safe standing position.
+   - **Call 105** to report the risk to your local electricity network operator if you cannot safely reach the switch.
+   - **Call 0800 111 999** (National Gas Emergency Service) if water is likely to affect your gas supply or if you smell gas.
+6. **Move critical items to higher ground.**
+   - **Prioritise items** such as prescription medications, passports, chargers, and small electronics.
+   - **Raise furniture** by placing legs in sturdy plastic buckets or on top of bricks if the water has already started to enter.
 
 ## What can wait
-- You do **not** need to decide today about builders, long-term drainage works, or who is “at fault”.
-- You do **not** need to start ripping out carpets or drilling walls while water is still rising.
-- You can leave photos, inventories, and detailed clean-up plans until the water level has stabilised and it’s safe.
+- You do not need to contact your insurance company until the immediate physical threat to the property is stabilized.
+- You do not need to determine the permanent cause of the flooding (e.g., neighbor's runoff or council pipe failure) right now.
+- You do not need to begin a detailed inventory of damp materials or carpets while the water is still rising.
 
 ## Important reassurance
-This can feel suddenly out of control. A few targeted actions—diverting flow, blocking the lowest gaps, and avoiding electrical hazards—often makes a meaningful difference even if you can’t stop all water.
+Physical barriers and simple diversions are effective at reducing the volume of water entering a property. Focus on the next few inches of height; preventing even a small amount of ingress significantly reduces clean-up time and structural damage.
 
 ## Scope note
-These are first steps only to reduce harm and buy time. Once the immediate risk passes, you may need follow-up help (insurer, qualified trades, or local authority) to assess damage and prevent recurrence.
+This guide provides first-step stabilization for sudden surface water pooling. It does not cover long-term flood resilience or the management of river/coastal flooding.
 
 ## Important note
-This is general information, not a substitute for professional inspection or emergency services advice. If you cannot act safely (especially around electricity, deep/fast water, or suspected sewage), stop and get help.
+This information is for emergency stabilization. Always follow the instructions of emergency services. If water is rising rapidly or you are trapped, call 999. Do not interact with electrical systems if you are wet or standing in water.
 
 ## Additional Resources
-- https://www.gov.uk/help-during-flood
-- https://www.gov.uk/get-flood-warnings
-- https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/
-- https://www.ukpowernetworks.co.uk/power-cut
-- https://powercut105.com/en/
+- https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/your-home/protecting-your-property-from-flooding
+- https://www.gov.uk/prepare-for-flooding/protect-your-property
+- https://www.gov.uk/guidance/adapting-your-home-or-business-to-the-risk-of-flooding
+- https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/climate-change/climate-adaptation/surface-water-flooding/how-prepare-flash-flooding
+- https://flood.essex.gov.uk/what-to-do-about-flooding/how-to-be-protect-your-home-from-flooding/

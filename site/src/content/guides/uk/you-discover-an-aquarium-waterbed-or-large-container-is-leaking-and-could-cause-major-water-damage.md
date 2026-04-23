@@ -1,80 +1,91 @@
-﻿---
+---
 title: "What to do if… you discover an aquarium, waterbed, or large container is leaking and could cause major water damage"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - aquarium leaking
-  - fish tank leaking
-  - waterbed leaking
-  - large container leaking
-  - indoor water leak
-  - sudden water spill
-  - major water damage risk
-  - water near electrics
-  - stopcock emergency
-  - stop tap leak
-  - flooding from tank
-  - burst container indoors
-  - water on floor now
-  - leak upstairs disaster
-  - soaking carpet quickly
-  - ceiling water drip
-  - puddle spreading fast
-  - unknown leak source
-  - pets and water spill
-last_reviewed: "2026-03-04"
+  - "aquarium leaking"
+  - "fish tank leaking"
+  - "waterbed leaking"
+  - "large container leaking"
+  - "indoor water leak"
+  - "sudden water spill"
+  - "water near electrics"
+  - "stopcock emergency"
+  - "flooding from tank"
+  - "burst container indoors"
+  - "water on floor now"
+  - "puddle spreading fast"
+  - "what do i do if my aquarium is leaking"
+  - "what do i do if my waterbed burst"
+  - "what do i do if a large tank is leaking"
+  - "what do i do if water is near my plug sockets"
+  - "help i have a major water leak"
+  - "help i have a flood in my flat"
+  - "help i have water coming through my ceiling"
+  - "help i have a leaking fish tank"
+  - "smell of burning plastic near water"
+  - "buzzing sound from wet sockets"
+  - "water dripping from light fittings"
+  - "sparks from wet appliances"
+  - "visible ceiling staining"
+  - "wet carpet from tank"
+  - "aquarium crack"
+  - "fish tank split"
+  - "waterbed valve leak"
+  - "water in floorboards"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you discover an aquarium, waterbed, or large container is leaking and could cause major water damage (UK)
 
 ## Short answer
-Stop the flow, then reduce electrical risk: shut off the nearest water source (or stop the container leaking) and keep well away from sockets/appliances—switch off power at the consumer unit only if you can reach it without stepping in water and it’s dry.
+Isolate the water source immediately and move away from all electrical points. Do not touch any wet electrical equipment; if safe and dry, turn off the power at the consumer unit (fuse box).
 
 ## Do not do these things
-- Don’t step into pooled water to reach plugs, extension leads, or the consumer unit.
-- Don’t touch wet plugs, sockets, chargers, or appliances (including aquarium heaters/pumps) with wet hands or while standing on a wet floor.
-- Don’t keep “mopping forever” while the leak is still running—stop the flow first.
-- Don’t lift or move a heavy aquarium/waterbed while it’s still full and leaking.
-- Don’t go near water dripping through ceilings or light fittings—treat that as an electrical hazard.
-- Don’t turn power back on “to check if it works” if water has reached electrics—leave it off until it’s been checked.
+- Don't step into standing water to reach plug sockets, extension leads, or appliances.
+- Don't touch any electrical item, including aquarium heaters or pumps, with wet hands or while standing on a damp floor.
+- Don't attempt to mop or clean until the flow of water has been stopped and the area is confirmed electrically safe.
+- Don't lift or move a heavy, partially full aquarium or waterbed, as the shift in weight can cause a total structural failure.
+- Don't turn the electricity back on to "test" items until a qualified electrician has inspected the affected circuits.
+- Don't ignore water dripping through light fittings or ceiling voids; these are high-risk electrical hazards.
 
 ## What to do now
-1. **Get to a safer pause.** Step onto a dry surface. Keep children and pets out of the wet area.
-2. **If there are electrical danger signs, back off and get emergency help.** If you see **sparks/arcing**, smell **burning**, hear **buzzing/crackling** from electrics, or water is entering **light fittings/sockets/consumer unit**, do not touch anything electrical—move everyone to safety and call **999** (ask for Fire and Rescue).
-3. **Stop the leak at the simplest safe point.**
-   - **Aquarium/container:** stop any top-ups, siphons, filters returning water, or overflow. If it’s safe, remove nearby items that could fall into the spill.
-   - **Waterbed:** stop any filling. Close the fill valve if you can access it without kneeling in water.
-   - If it’s a **feed pipe/valve**, close the nearest isolation valve if it’s clearly reachable and dry.
-4. **If you can’t stop it locally, turn off water at the inside stop valve/stopcock.** Turn it **clockwise** to shut off. If it’s stuck, don’t force it hard enough to risk snapping—move on to getting urgent help (step 7).
-5. **Reduce electrical risk (only if safe).** If water is close to electrics, switch off electricity at the **consumer unit** only if you can reach it without stepping in water and it’s dry with no signs of overheating/arcing.
-6. **Contain and protect (once flow is stopped or slowing).**
-   - Put towels/blankets down to slow spread; use buckets/trays under drips.
-   - Move **extension leads, chargers, electronics, and important papers** to a dry, higher surface.
-   - If water is dripping from above, keep the area below clear and away from lights/sockets; focus on collecting water in containers and reducing spread.
-7. **Call the right help early.**
-   - **If you rent:** report it urgently to your landlord/letting agent (or your council/housing association repairs line).
-   - **If you own:** call an emergency plumber if the leak hasn’t stopped, is coming through ceilings/walls, or the stop valve won’t shut off.
-   - **If you can’t shut off the water at the stop valve** (or you’re in a building with a communal supply and can’t access it), contact your **water supplier** for urgent guidance.
-8. **Document once it’s stable.** Take photos/video of the source, affected rooms, and any visible ceiling staining/drips. Note the time you discovered it and what you turned off.
-9. **Start drying as soon as it’s safe.** Ventilate, lift wet rugs if possible, and keep air moving. If large areas are soaked (especially carpets/underlay), consider professional drying to reduce mould and hidden damage.
+1. **Move to a dry surface immediately.** Ensure all children and pets are moved out of the affected room and away from any spreading water.
+2. **Check for immediate electrical danger signs.** If you see **sparks or arcing**, smell **burning plastic**, or hear **buzzing or crackling** from sockets or appliances, do not approach the area.
+   - Call **999** and ask for the Fire and Rescue service if there is a fire or immediate risk of one.
+   - Call **105** (the national number for your District Network Operator) to report a serious electrical hazard.
+3. **Stop the water flow at the source if it is safe to reach.** 
+   - For an **aquarium**, unplug the filter and heater (only if the plug is completely dry and away from the spill) and stop any automated top-up systems.
+   - For a **waterbed**, close the fill valve if it is accessible on a dry part of the mattress.
+   - For **containers connected to plumbing**, locate the nearest isolation valve (usually a small chrome valve on the pipework) and turn it a quarter-turn so it is perpendicular to the pipe.
+4. **Turn off the main water supply if the leak continues.** Locate your internal **stopcock** (usually under the kitchen sink, in a hallway cupboard, or under the stairs). Turn the handle **clockwise** until it stops to shut off the water.
+5. **Isolate the electricity only if the consumer unit is in a dry area.** If the floor beneath the consumer unit is dry and there are no signs of water ingress, moisture, or arcing on the unit itself, switch the **main red switch** to the OFF position.
+6. **Protect your belongings from further damage.** 
+   - Move portable electronics, chargers, and documents to a higher floor or a dry room.
+   - Place buckets or basins under active drips from the ceiling.
+   - Lay down towels or blankets at the edge of the spill to prevent water from entering other rooms or floor voids.
+7. **Contact the correct emergency help.**
+   - **If you rent:** Notify your landlord or managing agent immediately. Under the **Renters’ Rights Act 2026** and **Awaab’s Law**, landlords must respond to emergency hazards that threaten safety within 24 hours.
+   - **If you own:** Call an emergency plumber if the leak is from a plumbed-in system or if you cannot close the stopcock.
+   - **If the leak involves communal areas:** Contact your building manager or the local water authority (e.g., Thames Water, United Utilities) if the leak is before your internal stopcock.
+8. **Document the scene for insurance purposes.** Take clear photos and videos of the source of the leak, the extent of the flooding, and any damage to floors, ceilings, or furniture.
 
 ## What can wait
-- You do **not** need to decide today whether to replace the aquarium/waterbed or redecorate.
-- You do **not** need to deep-clean immediately—first stop the leak, make it electrically safe, and begin drying.
-- You do **not** need to settle blame or costs right now—record what happened and report it.
+- You do not need to decide how to repair or replace the container right now.
+- You do not need to attempt a full cleanup or deep-dry of carpets until the source is confirmed stopped.
+- You do not need to determine liability or argue over costs in the first hour of the emergency.
 
 ## Important reassurance
-A fast leak feels instantly catastrophic because it spreads and can involve electrics. Once the water source is shut off and the area is electrically safe, the problem becomes much more controllable: containment, drying, and repairs.
+A large volume of water on the floor looks and sounds overwhelming, but the damage is often limited once the source is stopped and the power is cut. Focus entirely on the next 60 seconds of safety rather than the long-term repair.
 
 ## Scope note
-These are first steps for the first minutes/hours to reduce harm. Follow-on work (electrical checks, drying strategy, mould prevention, repairs, insurance) may need professionals depending on how far water travelled.
+This guide provides first-step stabilization for indoor flooding from containers. It does not cover the technical repair of aquariums, waterbeds, or household plumbing, nor does it replace a professional electrical inspection.
 
 ## Important note
-This is general information, not professional advice. If you suspect any electrical danger, prioritise avoiding shock and get qualified help rather than taking risks.
+Water conducts electricity; if water has entered floor voids or wall cavities, surfaces may remain hazardous even after the visible water is cleared. Always consult a registered electrician if water has come into contact with your home's fixed wiring.
 
 ## Additional Resources
-- https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/
-- https://powercuts.nationalgrid.co.uk/power-cut-advice/safety-first
-- https://www.thameswater.co.uk/help/water-and-waste-help/how-to-turn-your-water-on-and-off/how-to-find-and-use-your-inside-stop-valve
-- https://www.watersafe.org.uk/advice/general_plumbing_advice/winter_advice/locate-internal-stop-tap/
-- https://www.southernwater.co.uk/help-and-support/wheres-my-stop-tap/
+- https://www.moneyhelper.org.uk/en/everyday-money/insurance/buildings-insurance-what-does-a-good-policy-look-like
+- https://www.moneyhelper.org.uk/en/everyday-money/insurance/contents-insurance-what-does-good-look-like
+- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/check-if-your-landlord-has-to-do-repairs/
+- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/repairs-leak-from-a-neighbouring-property/
+- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/getting-your-landlord-to-do-repairs/asking-the-council-to-help-you-get-repairs-done/asking-the-local-authority-for-help-with-repairs/

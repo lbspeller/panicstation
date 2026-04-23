@@ -1,72 +1,83 @@
-﻿---
+---
 title: "What to do if… you suspect someone is targeting you at a playground or park by repeatedly approaching your family"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - suspicious person at playground
-  - stranger keeps approaching my family
-  - being followed at the park
-  - unwanted contact near my kids
-  - person won’t leave us alone in public
-  - someone watching my children
-  - targeted at a playground
-  - harassment at the park
-  - stranger talking to my child
-  - repeated approaches in public place
-  - unsafe situation at playground
-  - person returns after being told no
-  - creepy adult near kids
-  - family safety in public
-  - park safety concern
-  - possible stalking behavior
-  - suspicious activity at park
-  - play ground stranger approach
-last_reviewed: "2026-01-17"
+  - "suspicious person at playground"
+  - "stranger keeps approaching my family"
+  - "being followed at the park"
+  - "unwanted contact near my kids"
+  - "person won't leave us alone in public"
+  - "someone watching my children"
+  - "targeted at a playground"
+  - "harassment at the park"
+  - "stranger talking to my child"
+  - "repeated approaches in public place"
+  - "unsafe situation at playground"
+  - "person returns after being told no"
+  - "creepy adult near kids"
+  - "family safety in public"
+  - "park safety concern"
+  - "loitering near children's equipment"
+  - "man following us at park"
+  - "woman following us at park"
+  - "taking photos of my kids without permission"
+  - "help i am being followed at the park"
+  - "what do i do if a stranger follows my family"
+  - "what do i do if someone is watching us at the park"
+  - "what do i do if i am targeted at a playground"
+  - "my family is being followed"
+  - "my kids are being watched by a stranger"
+  - "suspicious activity at playground"
+  - "strange person at playground"
+  - "park visitor won't leave us alone"
+  - "being watched at the playground"
+  - "help i feel unsafe at the park"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you suspect someone is targeting you at a playground or park by repeatedly approaching your family (USA)
+
 ## Short answer
-Get your family moving to a safer, busier place and leave the area if you can. If you feel in immediate danger or the person won’t stop, call 911.
+Gather your family and move immediately to a populated, well-lit area or staffed building. Call 911 if the person continues to follow you or if you feel in immediate danger.
 
 ## Do not do these things
-- Do not stay to “be polite” if the interaction feels wrong.
-- Do not let children wander while you assess the situation.
-- Do not confront the person alone, argue, or try to physically block them.
-- Do not share identifying details (kids’ names, school, where you live, your routine).
-- Do not post your location in real time.
-- Do not assume you must be certain before calling for help.
+- Do not prioritize being polite over your personal intuition or safety.
+- Do not allow your children to remain separated from you while you assess the person.
+- Do not confront the person alone or engage in a long argument.
+- Do not provide your name, children's names, or your destination.
+- Do not walk directly to your car if you believe you are being followed.
+- Do not wait for a physical threat before seeking help or leaving.
 
 ## What to do now
-1. **Create space immediately.** Bring children close, collect your things, and move toward a **busier/visible area** (entrance, parking lot near other people, park office, concessions, ranger station, a group of parents). If you can, **leave the park** and go somewhere staffed (store, café, library).
-2. **Keep kids “inside your body line.”** Put yourself between the person and your children. Hold hands or use a firm “stand right next to me” instruction. If you drove, get keys ready so you’re not searching for them at the car.
-3. **Use one clear boundary sentence.** Calmly: **“Stop approaching us. Do not speak to my children.”** Then disengage and keep moving. Your goal is a clear boundary, not a debate.
-4. **Pull in witnesses and staff.** Tell another parent: **“I don’t feel safe — can you stay with us while we leave / while I call?”** If the park has staff/security/rangers, ask them to **walk with you** and help you get to your car or a safer area.
-5. **Decide between 911 and a non-emergency report.**
-   - **Call 911** if you feel in immediate danger, the person is escalating, blocking your path, making threats, trying to lure a child away, or you believe a crime is happening.
-   - If you’re safe now but it’s repeated and concerning, **call your local police non-emergency number** to log it and ask what they want you to do if it happens again. If you don’t know the number, look it up once you’re safe — don’t delay leaving or getting help if you feel threatened.
-   - If you’re in a **national park** and it’s not an emergency, you can also **submit a tip to the National Park Service**; in an emergency, **dial 911**.
-6. **Capture details while prioritizing movement.** Note **time, exact location, what happened, description**, and any **vehicle plate** if you can see it. If it’s clearly safe, you can take a photo/video **from a distance** — but don’t do anything that keeps you in place, distracts you from your children, or provokes the person. If you skip filming, write details immediately after.
-7. **If you can’t safely leave, “go public” instead of private.** Move into a place with people and staff, ask someone to **stay with you**, and keep your kids close until help arrives or you can depart safely.
-8. **After you’re away, write a short incident log.** In plain language: what happened, where, when, who saw it, what you said (“stop approaching us”), and what the person did next. If there’s a pattern, this helps law enforcement understand repeated conduct.
+1. **Gather your family into a tight group immediately.** Put yourself physically between the individual and your children. Instruct children to stay "within arm's reach" and collect your belongings quickly.
+2. **Move toward a populated or staffed area.** Walk toward a park office, concession stand, ranger station, or a large group of other parents. If you are in a remote area of the park, head toward the nearest public road or busy trailhead.
+3. **Set one firm, loud boundary.** If the person approaches again, state clearly: **"Stop approaching us. Do not speak to my family."** Do not wait for a response; continue moving toward safety. 
+4. **Enlist immediate witnesses.** Approach another adult or group and say: **"I am being followed and do not feel safe; please stay with me while I get to my car / call for help."**
+5. **Call 911 for immediate threats.**
+   - Call 911 if the person is blocking your path, making threats, attempting to lure a child, or refusing to stop following you.
+   - If you are in a National Park, 911 calls may be routed to a park-specific dispatch; provide your exact location, such as a trailhead name or mile marker.
+6. **Report non-emergency suspicious activity in federal parks.** If you are safe but wish to report the behavior in a National Park, call the **NPS-wide Tip Line at 888-653-0009** or text **888-653-0009**.
+7. **Verify you are not being followed to your vehicle.** Before entering your car, look back to see if the person is trailing you. If they are, do not get in the car; instead, head to a staffed area or stay with a group and call 911.
+8. **Note descriptive details once you are in a locked, safe place.** Write down the person's physical description (height, clothing, tattoos), the time of the encounters, and the make/model/license plate of any vehicle they are using.
 
 ## What can wait
-- Figuring out whether it legally qualifies as stalking or harassment.
-- Trying to identify the person yourself.
-- Posting about it online or warning others publicly.
-- Deciding about protective orders — that’s a later step if the behavior continues.
+- Deciding whether the behavior meets the legal definition of stalking.
+- Reviewing park maps to find the person's likely entry point.
+- Sharing the story on social media or community boards.
+- Attempting to take photos or videos if it compromises your focus on your children's safety.
 
 ## Important reassurance
-You don’t need to “prove” intent to prioritize your family’s safety. Repeated unwanted approaches — especially involving children — are enough reason to leave, enlist help, and report.
+It is normal to feel a "fright or flight" response when a stranger repeatedly approaches your children. Your priority is the physical safety of your family, and you are not required to justify your decision to leave a public space or involve authorities when you feel unsafe.
 
 ## Scope note
-This is first-step guidance for the next minutes and hours: create distance, get witnesses/support, and make a clear report if needed. If the behavior continues, consider a longer-term safety plan with appropriate local support.
+This guide provides first-step stabilization for an active safety concern in a public park. It focuses on immediate distance and reporting. Long-term safety planning or legal actions should be handled with professional support after the immediate threat is resolved.
 
 ## Important note
-This is general information, not legal advice. If you believe you or your children are in immediate danger, call 911.
+This information is for safety stabilization and does not constitute legal advice. If you believe a crime is in progress or your family is in danger, contact emergency services immediately.
 
 ## Additional Resources
-- https://www.justice.gov/ovw/stalking
-- https://ovc.ojp.gov/topics/stalking
-- https://www.dhs.gov/see-something-say-something/how-to-report-suspicious-activity
-- https://www.nps.gov/orgs/1563/submit-a-tip.htm
-- https://www.fcva.us/departments/public-safety-communications/do-s-and-don-ts-of-911
+- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/
+- https://www.womenslaw.org/safety-planning/safety-tips-stalking-victims
+- https://rainn.org/strategies-to-reduce-risk-increase-safety/safety-planning-for-survivors-of-assault-harassment-stalking/
+- https://www.stalkingawareness.org/documentation-log/
+- https://www.stalkingawareness.org/risk-and-safety/

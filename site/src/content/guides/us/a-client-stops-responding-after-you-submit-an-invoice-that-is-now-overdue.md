@@ -1,77 +1,84 @@
-﻿---
+---
 title: "What to do if… a client stops responding after you submit an invoice that is now overdue"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - client stops responding
-  - client ghosting after invoice
-  - invoice overdue no reply
-  - unpaid invoice after work
-  - chasing invoice payment
-  - customer silent after invoice
-  - overdue invoice follow up
-  - late payment from client
-  - client not paying invoice
-  - invoice past due usa
-  - freelance invoice unpaid
-  - contractor invoice overdue
-  - business invoice not paid
-  - client ignoring reminders
-  - invoice sent no response
-  - payment overdue after service
-  - invoice overdue what now
-  - worried about unpaid invoice
-last_reviewed: "2026-01-08"
+  - "start work no contract"
+  - "recruiter wants me to work now"
+  - "begin work before signing"
+  - "no offer letter provided"
+  - "verbal job offer only"
+  - "start before onboarding forms"
+  - "pressured to work immediately"
+  - "asked for ssn too early"
+  - "asked for bank details before hiring"
+  - "unclear pay and hours"
+  - "unsure if employee or contractor"
+  - "unpaid trial work request"
+  - "job start date changed suddenly"
+  - "promised employment paperwork later"
+  - "work before i-9 completed"
+  - "w-4 not provided by recruiter"
+  - "no written employment terms"
+  - "help i have no job contract"
+  - "what do i do if recruiter is rushing me"
+  - "what do i do if i have no offer letter"
+  - "what do i do if they want me to start today"
+  - "my boss wont give me a contract"
+  - "my recruiter is asking for my passport"
+  - "my start date is today but no paperwork"
+  - "smell of recruitment fraud"
+  - "no official company email address"
+  - "recruiter uses whatsapp for hiring"
+  - "pressure to quit current job"
+  - "urgent start date no contract"
+  - "missing payroll information"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a client stops responding after you submit an invoice that is now overdue (USA)
 
 ## Short answer
-Get everything into writing and escalate in two clean steps: send one clear overdue reminder with a reasonable deadline, then send a formal demand letter to the client’s correct legal name and address before you consider small claims or other legal action.
+Do not perform work until core terms (pay, role, employer identity, and classification) are confirmed in writing. Legitimate U.S. employers require specific onboarding documentation (Form I-9) before or at the moment work begins.
 
 ## Do not do these things
-- Don’t spam every employee or contact you can find at the client — keep it professional and targeted.
-- Don’t threaten, harass, or imply criminal consequences over a civil debt.
-- Don’t post public accusations or reviews while you’re still trying to collect.
-- Don’t keep providing new work or extending deadlines automatically once payment is overdue (unless your contract requires it).
-- Don’t add late fees or interest unless your contract clearly allows it and you can justify it under your state’s rules.
-- Don’t rely on verbal promises only — if you talk by phone, follow up the same day with an email summary.
+- Do not perform "test tasks" or "trial shifts" without a written agreement specifying the pay rate and your status as an employee or contractor.
+- Do not provide sensitive identifiers like your Social Security number (SSN) or bank account details until you have independently verified the company exists.
+- Do not pay for your own background check, equipment, or "onboarding software" as a condition of employment.
+- Do not resign from a current position or commit to relocation expenses based solely on a verbal promise or a text message.
+- Do not assume a job is legitimate just because the recruiter has an "official-looking" logo or knows your work history.
 
 ## What to do now
-1. **Build a one-folder “evidence packet.”** Save: contract/SOW, invoice, proof you sent it, any PO, proof of delivery/acceptance, and your payment terms (including any late fee clause).
-2. **Check for common payment blockers that look like “ghosting.”**  
-   Confirm whether they needed: W-9, vendor onboarding form, ACH details, a PO number, a specific “bill-to” address, or portal upload — and whether you actually provided what they require.
-3. **Send one overdue invoice reminder with a deadline you choose.**  
-   Keep it short: invoice number, amount, due date, the invoice attached/linked, how to pay, and one direct question: “Is anything missing on our end that’s preventing payment?” Set a reasonable deadline (often around **7 days**) and say you’ll send a formal demand letter if you don’t hear back.
-4. **Identify the correct legal target for a demand letter.**  
-   Use your contract plus the client’s official details (for companies, often the state business registry/registered agent information) so you address the right legal entity and a reliable mailing address.
-5. **Send a formal demand letter and keep proof you sent it.**  
-   State: who you are, what you delivered, invoice details, total owed, how to pay, and a final deadline to pay/respond (often around **10–14 days**). Many small-claims processes expect you to have asked for the money before filing; your state court may treat a demand letter (or written demand) as an important “before you sue” step.
-6. **Stabilize your exposure while you wait.**  
-   - Pause new work and avoid new costs tied to the client.  
-   - If you control ongoing services (hosting, subscriptions, access), don’t “self-help” in a way that could breach contract or trigger claims; if suspension is allowed, give written notice and a reasonable chance to cure.
-7. **If there’s still no response, pick the simplest escalation that fits.**  
-   - **Small claims court** is often designed for straightforward unpaid-money disputes, but limits, filing location, and service rules vary by state (and sometimes county). Use your state court’s self-help page to choose the right court and steps.  
-   - If you hire a **collection agency** or other third-party collector, use a reputable firm and make sure communications stay professional and compliant with applicable debt-collection laws.
+1. **Request a summary of the four essential terms via email:**  
+   **Ask for the legal name of the employing entity, the specific pay rate (salary or hourly), the expected hours, and whether you are being hired as a W-2 employee or a 1099 independent contractor.**
+2. **Issue a clear, professional boundary regarding paperwork:**  
+   **State: "I am eager to begin, but I require the written offer letter and standard onboarding documents to be completed before I can start any work output."**
+3. **Verify the employer's physical presence and contact information:**  
+   **Search for the company's official corporate website and call the main human resources department using the number listed there, not the number provided by the recruiter.**
+4. **Adhere to federal I-9 compliance deadlines to signal professionalism:**  
+   **For W-2 employees, you must complete Section 1 of Form I-9 no later than your first day of work for pay; if the employer is not providing this form, treat it as a significant procedural red flag.**
+   - Note that remote verification is only permitted for employers in good standing with E-Verify.
+5. **Document all interactions if you have already started tasks:**  
+   **Keep a log of the dates and times worked, the specific individuals who gave you directions, and copies of all digital files you created or modified.**
+6. **Report suspicious pressure or withheld wages to federal authorities:**  
+   **Contact the U.S. Department of Labor Wage and Hour Division at 1-866-487-9243 if you have performed work but are being denied pay or formal documentation.**
 
 ## What can wait
-- You do **not** need to decide today whether to hire a lawyer, use a collection agency, or file in court — first send one clean reminder and a proper demand letter with proof.
-- You do **not** need to negotiate a payment plan immediately; your first goal is a clear response (pay / dispute / timeline).
-- You do **not** need to guess intent — treat it like an admin delay until you have evidence otherwise.
+- You do not need to finalize your health insurance selections or retirement contributions during the first conversation.
+- You do not need to provide a rationale for why you want a contract; wanting the terms in writing is a standard business expectation.
+- You do not need to decide if you like the company culture before securing your legal right to be paid.
 
 ## Important reassurance
-Silence after an invoice is often internal bureaucracy, vendor setup delays, or approval bottlenecks. A calm, documented escalation protects you and keeps you credible if you later need a court process.
+Feeling pressured to start immediately is a common tactic used to bypass a candidate's natural caution. It is normal to feel anxious about "losing the opportunity," but a legitimate employer will respect your need for a written record of your compensation and legal status. Protecting your identity and your labor is a high priority.
 
 ## Scope note
-This is first-step guidance to prevent panic mistakes and preserve your options. Court procedures and deadlines vary by state; for larger sums, cross-state clients, or disputed work, local legal advice can be worth it.
+This guide covers first-step stabilization for employment offers lacking documentation. It does not address long-term contract negotiation, benefit comparisons, or legal action for wrongful termination.
 
 ## Important note
-This is general information, not legal advice. State laws and court rules differ, and the right next step can depend on your contract and where the client is located. If any communication becomes threatening or you feel unsafe, stop direct contact and switch to written-only communication.
+This information is for general educational purposes and does not constitute legal advice. Employment laws, including "at-will" status and contractor classifications, vary significantly by state. If you suspect identity theft or a sophisticated employment scam, consult with a qualified attorney or your local state labor board.
 
 ## Additional Resources
-- https://www.ncsc.org/resources-courts/understanding-small-claims-court
-- https://www.selfhelp.courts.ca.gov/form/demand-letter
-- https://selfhelp.courts.ca.gov/small-claims/ask-for-money
-- https://consumer.ftc.gov/articles/debt-collection-faqs
-- https://www.consumerfinance.gov/ask-cfpb/what-laws-limit-what-debt-collectors-can-say-or-do-en-329/
-- https://www.consumerfinance.gov/ask-cfpb/what-is-an-original-creditor-and-what-is-the-difference-between-an-original-creditor-and-a-debt-collector-en-1387/
+- https://www.americanbar.org/groups/gpsolo/resources/ereport/archive/what-do-when-your-client-doesnt-pay/
+- https://www.americanbar.org/groups/law_practice/resources/law-technology-today/2019/five-great-collection-letter-templates-for-your-law-firm/
+- https://selfhelp.courts.ca.gov/form/demand-letter
+- https://nycourts.gov/courthelp/smallclaims/index.shtml
+- https://www.nycourts.gov/courthelp/pdfs/smallclaims-nyc-li.pdf

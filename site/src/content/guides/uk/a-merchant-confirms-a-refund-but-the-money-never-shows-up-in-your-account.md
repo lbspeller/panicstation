@@ -1,83 +1,96 @@
-﻿---
+---
 title: "What to do if… a merchant confirms a refund but the money never shows up in your account"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - refund not received
-  - refund missing from account
-  - merchant confirmed refund
-  - refund confirmed but no money
-  - card refund not showing
-  - debit card refund missing
-  - credit card refund missing
-  - refund pending too long
-  - refund to closed card
-  - refund sent wrong card
-  - refund reference number
-  - acquirer reference number arn
-  - proof of refund email
-  - money not returned
-  - refund not recived
-  - refunnd not received
-  - refund promised not arrived
-  - transaction credit not posted
-last_reviewed: "2026-01-09"
+  - "refund not received"
+  - "refund missing from account"
+  - "merchant confirmed refund"
+  - "refund confirmed but no money"
+  - "card refund not showing"
+  - "debit card refund missing"
+  - "credit card refund missing"
+  - "refund pending too long"
+  - "refund to closed card"
+  - "refund sent wrong card"
+  - "refund reference number"
+  - "acquirer reference number"
+  - "arn"
+  - "proof of refund email"
+  - "money not returned"
+  - "refund not recived"
+  - "refunnd not received"
+  - "refund promised not arrived"
+  - "transaction credit not posted"
+  - "what do i do if my refund is missing"
+  - "what do i do if merchant wont refund"
+  - "help i havent received my refund"
+  - "help my refund is not in my bank"
+  - "money missing after refund confirmed"
+  - "missing credit transaction"
+  - "bank cannot find refund"
+  - "tracing missing refund"
+  - "refund status pending"
+  - "merchant says refunded but no money"
+  - "waiting for refund to post"
+  - "section 75 refund missing"
+  - "chargeback for missing refund"
+  - "direct debit guarantee refund"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… a merchant confirms a refund but the money never shows up in your account (UK)
 
 ## Short answer
-Get the refund’s trace/reference details from the merchant (especially the ARN for card refunds) and ask your bank/card provider to trace the refund through the card network—don’t just keep waiting.
+Request the Acquirer Reference Number (ARN) or trace ID from the merchant and provide it to your bank's dispute team to locate the transaction within the card network.
 
 ## Do not do these things
-- Don’t assume “refunded” means “in your account already” — it can be initiated but not yet posted to you.
-- Don’t keep waiting until you miss dispute windows (card-scheme time limits are often around **120 days**, and can vary).
-- Don’t start multiple conflicting routes at once (e.g., asking the merchant to re-refund while also raising a bank dispute) without tracking exactly what you opened and when.
-- Don’t close the account/card or switch banks until this is resolved (it can make tracing harder).
-- Don’t stop paying a credit card bill because you expect a refund — avoid late fees/credit file issues while it’s being sorted.
+- Do not assume a "processed" status from a merchant means the funds are immediately available in your bank balance.
+- Do not wait longer than 120 days from the date the refund was promised to take formal action, as you may lose card-scheme dispute rights.
+- Do not stop making minimum payments on a credit card balance while waiting for a refund to arrive.
+- Do not close the bank account or card associated with the original payment until the funds are successfully recovered.
+- Do not attempt to raise a bank dispute and a merchant re-processing request simultaneously without informing both parties.
 
 ## What to do now
-1. **Freeze the facts (2 minutes):** write down the **merchant name**, **amount**, **date they said they refunded**, **how you originally paid** (debit card / credit card / bank transfer / Direct Debit / PayPal or wallet), and screenshot any “refund confirmed” messages.
-2. **Check the common “it’s there but hidden” problems:**
-   - Check **pending**, **transactions**, and your **latest statement** (some apps show credits differently).
-   - If the **card was replaced** since the purchase, note that (refunds often still route through, but may need tracing).
-   - If the **account is closed**, ask your bank where incoming credits go (sometimes they get redirected or handled separately).
-3. **Ask the merchant for the trace details (use their exact words):**
-   - For card refunds: request the **ARN (Acquirer Reference Number)** (or “refund trace/reference number”), plus the **refund date/time** and **amount**.
-   - Ask them to confirm the **last 4 digits** of the card/payment method they refunded to.
-   - If they say they can’t provide an ARN, ask for any **processor reference** or “refund confirmation/receipt” that your bank can use to locate it.
-4. **Contact your bank/card provider and ask them to trace it using the ARN/reference:**
-   - Say: “The merchant confirmed the refund and provided the ARN/reference. Please **trace the refund** and tell me whether it’s been received, rejected, or misrouted.”
-   - If the first person can’t help, ask for the team that handles **card transaction disputes/chargebacks**.
-5. **If you paid by card and it still isn’t showing, protect your options quickly:**
-   - Ask about **chargeback** if the credit/refund isn’t arriving. Time limits are scheme-based and are **often around 120 days** (sometimes longer depending on the scenario), so raise it promptly.
-   - If you paid by **credit card** and the purchase qualifies, ask whether **Section 75** might apply (it’s separate from chargeback).
-6. **If this was a Direct Debit (not a card payment):**
-   - Tell your bank you want a refund under the **Direct Debit Guarantee** if there was an error (wrong amount, wrong date, or the payment shouldn’t have been taken).
-   - If your bank refunds you and it later turns out there was no error, you may be asked to **repay**—but you don’t need to resolve that question before you start the guarantee process.
-7. **If your bank/card provider won’t act, switch to the complaint route:**
-   - Make a **formal complaint** to the bank/card provider and keep the reference number.
-   - If you don’t get a final response within **8 weeks**, or you’re unhappy with the final response, you can usually take it to the **Financial Ombudsman Service** (typically within **6 months** of the final response date).
+1. **Document the core transaction details immediately.**
+   - **Record the merchant name, the exact amount, the original payment date, and the specific payment method used.**
+   - **Save a copy of the refund confirmation email or a screenshot of the "refund successful" screen.**
+2. **Verify the status of the account and the specific card used.**
+   - **Check your banking app for "Pending" transactions or "Credits" that may not yet have been added to your main balance.**
+   - **Identify if the card used for the purchase has since expired or been replaced; refunds are usually routed automatically but sometimes require manual bank intervention.**
+3. **Request a formal trace ID from the merchant.**
+   - **Ask the merchant specifically for the Acquirer Reference Number (ARN) for Visa or Mastercard transactions.**
+      - If the ARN is unavailable, ask for the System Trace Audit Number (STAN) or a "Retrieval Reference Number" (RRN).
+   - **Confirm the last four digits of the destination card or account number the merchant has on file for the refund.**
+4. **Contact your bank or card issuer to initiate a trace.**
+   - **Provide the ARN or reference number to the bank and ask them to "locate the incoming credit on the card network."**
+   - **Ask to speak specifically with the "Transaction Disputes" or "Chargeback" department if the general customer service agent cannot see the incoming funds.**
+5. **Protect your rights using formal dispute mechanisms.**
+   - **Inform the bank you wish to initiate a "Chargeback" if the merchant has confirmed the refund but the funds have not arrived within 15 days.**
+   - **Request a Section 75 claim if the original purchase was made on a credit card and the item/service value was between £100 and £30,000.**
+6. **Utilize the Direct Debit Guarantee for non-card payments.**
+   - **Contact your bank to request an "Indemnity Claim" under the Direct Debit Guarantee if the merchant took a payment in error and has failed to return it.**
+   - **Be aware that these refunds are usually processed within one working day once the bank accepts the claim.**
+7. **Escalate to a formal complaint if the bank fails to assist.**
+   - **Submit a formal written complaint to the bank; they must provide a final response within 15 business days for complaints related to "payment services" (including refunds).**
+   - **Retain the complaint reference number to allow future escalation to the Financial Ombudsman Service.**
 
 ## What can wait
-- You don’t need to decide right now whether to leave reviews, threaten legal action, or argue with customer service scripts.
-- You don’t need to work out who is “at fault” (merchant vs bank) before you act—tracing with the ARN/reference usually answers that.
-- You don’t need a huge evidence pack; the basics plus the merchant’s confirmation and trace/reference details are enough to start.
+- You do not need to initiate Small Claims Court proceedings or legal action while the bank trace is active.
+- You do not need to contact the Financial Ombudsman Service until 15 business days (for payment issues) or 8 weeks (for other issues) have passed since your formal complaint.
+- You do not need to prove "fault" between the merchant and the bank to start the tracing process.
 
 ## Important reassurance
-This is common and usually fixable. “Refund processed” often means the merchant has initiated it—not that your bank has credited it yet. Asking for a trace using the ARN/reference is a normal, routine request.
+Delays between a merchant "sending" money and a bank "posting" it are extremely common. Often, the money is held in a central clearing account because a card has expired or a reference number was slightly mismatched. Providing the ARN usually resolves these "stuck" transactions within a few days.
 
 ## Scope note
-These are first steps to locate the refund and prevent you missing key dispute windows. If tracing and a dispute/claim still don’t resolve it, you may need extra complaints support—but you don’t need that to begin.
+This guide provides first-step stabilization for missing refunds in the UK. It does not cover fraudulent account takeovers or long-term debt management.
 
 ## Important note
-This is general information, not legal or financial advice. Exact processes and timelines vary by bank, card scheme, and payment method. If you’re unsure which payment method was used, start by checking the original transaction details in your banking app/statement.
+This guide is for informational purposes and does not constitute financial or legal advice. Timelines for chargebacks are governed by card scheme rules (Visa/Mastercard) and are not a statutory right. Section 75 is a legal right under the Consumer Credit Act 1974 for specific credit card purchases.
 
 ## Additional Resources
-- https://www.ukfinance.org.uk/our-expertise/cards/chargeback-and-section-75
+- https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/getting-your-money-back-if-you-paid-by-card-or-paypal/
 - https://www.moneyhelper.org.uk/en/everyday-money/credit/how-youre-protected-when-you-pay-by-card
-- https://www.financial-ombudsman.org.uk/consumers/how-to-complain
-- https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
-- https://www.directdebit.co.uk/direct-debit-guarantee/
-- https://www.bacs.co.uk/documentlibrary/ddi_and_dd_guidelines.pdf
-- https://www.natwest.com/support-centre/bank-accounts-and-supporting-information/general/what-is-an-arn-acquirer-reference-number.html
+- https://www.visa.co.uk/how-you-pay-matters/chargeback-purchase-disputes.html
+- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/credit-borrowing-money/goods-services-bought-credit
+- https://www.ukfinance.org.uk/our-expertise/cards/chargeback-and-section-75

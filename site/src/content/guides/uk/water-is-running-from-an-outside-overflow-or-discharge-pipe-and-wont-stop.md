@@ -1,84 +1,95 @@
-﻿---
+---
 title: "What to do if… water is running from an outside overflow or discharge pipe and won’t stop"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - overflow pipe running
-  - outside pipe leaking water
-  - constant overflow outside wall
-  - discharge pipe dripping nonstop
-  - water pouring from overflow
-  - overflow pipe won’t stop
-  - outside discharge won’t stop
-  - toilet overflow pipe outside
-  - toilet keeps filling running
-  - loft tank overflow pipe
-  - cistern overflow won’t stop
-  - tundish dripping continuously
-  - unvented cylinder discharge
-  - boiler pressure relief pipe leaking
-  - pipe leaking outside house
-  - mystery pipe dripping outside
-  - hot water cylinder safety discharge
-  - cold water tank overflow
-last_reviewed: "2026-03-04"
+  - "overflow pipe running"
+  - "outside pipe leaking water"
+  - "constant overflow outside wall"
+  - "discharge pipe dripping nonstop"
+  - "water pouring from overflow"
+  - "overflow pipe won't stop"
+  - "outside discharge won't stop"
+  - "toilet overflow pipe outside"
+  - "toilet keeps filling running"
+  - "loft tank overflow pipe"
+  - "cistern overflow won't stop"
+  - "tundish dripping continuously"
+  - "unvented cylinder discharge"
+  - "boiler pressure relief pipe leaking"
+  - "pipe leaking outside house"
+  - "mystery pipe dripping outside"
+  - "hot water cylinder safety discharge"
+  - "cold water tank overflow"
+  - "help i have water running outside"
+  - "what do i do if my overflow is running"
+  - "what do i do if outside pipe is leaking"
+  - "what do i do if toilet overflow won't stop"
+  - "help i have a dripping tundish"
+  - "help my boiler pipe is leaking water"
+  - "copper pipe dripping outside wall"
+  - "white plastic pipe leaking outside"
+  - "hot water leaking from outside pipe"
+  - "steam coming from outside pipe"
+  - "overflow pipe dripping at night"
+  - "flat overflow pipe leaking"
+  - "over flow pipe"
+  - "leaking overfill pipe"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… water is running from an outside overflow or discharge pipe and won’t stop (UK)
+
 ## Short answer
-Don’t block the pipe. If you can do so safely, turn off the water supply (and switch off boiler/immersion if the water seems hot), then arrange urgent repair.
+Isolate the water supply at the main stopcock and switch off all heating and hot water power. Do not block or plug the pipe, as it may be a safety discharge for a pressurized system.
 
 ## Do not do these things
-- Do not cap, plug, tape over, or block the outside pipe — it may be a safety discharge.
-- Do not put your hand in the stream (it can be hot enough to scald).
-- Do not ignore a steady flow or repeated restarting — treat it as a fault.
-- Do not keep restarting/resetting the boiler or repeatedly “topping up” pressure while water is discharging.
-- Do not climb into a loft you can’t access safely (poor lighting, slippery hatch, no proper boards).
-- Do not dismantle valves/cylinder parts yourself if you’re not trained — especially on unvented hot water systems.
+- Do not cap, plug, or tape over the outside pipe outlet.
+- Do not touch the water stream or the pipe itself, as discharge from safety valves can reach 95°C and cause instant scalding.
+- Do not attempt to dismantle a tundish, unvented cylinder, or boiler valves.
+- Do not reset or repressurise your boiler while water is actively discharging.
+- Do not enter a loft space unless there is a fixed ladder, adequate lighting, and proper boarding.
 
 ## What to do now
-1. **Keep people away and do a quick, safer check: is it likely hot or cold?**
-   - If you see **steam**, the pipe is **too hot to approach**, or it’s clearly coming from the **boiler/hot water cylinder area**, assume **hot/safety discharge** and skip to Step 2.
-   - Otherwise, you can briefly catch a little in a bucket and **feel the outside of the bucket** (not the stream). If it feels warm/hot, treat as hot.
-2. **If it seems heat-related, make the system safer first (no dismantling).**
-   - **Switch off the boiler** at its power switch (or fused spur) and turn heating/hot water off at the programmer if present.
-   - If you have an **immersion heater**, switch it **off** at its fused spur.
-3. **Stop the water supply to buy time.**
-   - Turn off the **main stopcock** (usually under the kitchen sink or where the mains enters). Turn clockwise until it stops; **don’t force** it if seized.
-   - If you’re confident it’s just the **toilet** (it keeps refilling / starts after flushing), you can turn off the **toilet isolation valve** (small valve on the supply pipe to the cistern) to keep the rest of the home supplied.
-4. **Do a quick inside scan to narrow the source (no panels off).**
-   - Check **toilets** for constant filling/running.
-   - If you have a hot water cylinder cupboard, look for a **tundish** (a small fitting in the discharge pipe with a visible gap) that’s dripping/running.
-   - Note anything obvious (where the pipe exits outside; whether it’s a drip vs steady flow). A photo/video helps.
-5. **If you’re in a flat/terrace, reduce knock-on harm.**
-   - If water might affect a neighbour (shared stack/wall), **tell them** and/or **building management** right away.
-6. **Get the right urgent help (UK-specific).**
-   - **If you rent:** report to your landlord/letting agent’s **emergency repairs** contact and say you’ve isolated the water.
-   - **If it’s connected to a boiler/gas heating:** ask for a **Gas Safe registered** engineer.
-   - **If you have an unvented hot water cylinder (often with a tundish):** ask for someone qualified for **unvented hot water (G3)** work.
-   - If you **cannot** shut the water off, or you suspect the problem is at/near the incoming supply and you can’t isolate it, contact your **water company** for urgent assistance.
-7. **Limit damage while you wait.**
-   - Put a bucket outside if safe and stable (so it won’t tip/overflow back toward the building).
-   - Move valuables away from damp areas and use towels to contain any indoor drips.
+1. **Check for steam or high heat without touching the pipe.**
+   - If you see steam or the pipe is copper and vibrating, assume it is a high-temperature safety discharge.
+   - If the water has already touched your skin, immediately cool the area under cool running water for 20 minutes and seek medical advice.
+2. **Switch off the power to your heating and hot water systems.**
+   - **Turn off the boiler** using the main power switch or the fused spur (usually a wall switch with a fuse).
+   - **Turn off the immersion heater** at the switch (often located near the hot water cylinder).
+3. **Close the internal mains water stopcock.**
+   - **Locate the stopcock**, typically found under the kitchen sink, under the stairs, or in a utility cupboard.
+   - **Turn the handle clockwise** until the water stops.
+   - **Open a cold tap** at the lowest point in the house (usually the kitchen sink) to drain the remaining pressure from the pipes.
+4. **Identify the type of discharge pipe to help the engineer.**
+   - **Observe the pipe material:** white plastic usually indicates a toilet or cold water tank overflow; copper usually indicates a boiler or hot water cylinder safety pipe.
+   - **Check the toilet cisterns:** look for water continuously running into the bowl.
+   - **Check for a tundish:** look in your airing cupboard for a small black or white plastic fitting with a visible "air gap" where water is dripping.
+5. **Notify relevant parties if the leak is not contained.**
+   - **Contact your landlord or emergency maintenance line** immediately if you are a tenant.
+   - **Alert neighbours** if you live in a flat or terraced house and water is pooling near their property or shared walls.
+6. **Arrange for the correct qualified professional.**
+   - **Call a Gas Safe registered engineer** if the pipe is connected to a gas boiler.
+   - **Call a G3-qualified plumber** if you have an unvented hot water cylinder (indicated by a tundish and no cold water tank in the loft).
+   - **Call a standard plumber** for toilet or cold water storage tank overflow issues.
 
 ## What can wait
-- You do **not** need to diagnose the exact part right now (float valve vs relief valve vs other).
-- You do **not** need to open up a cistern, remove cylinder covers, or drain tanks in a panic.
-- You do **not** need to decide “repair vs replace” today — stabilising and getting the correct trade in is enough.
+- You do not need to identify the specific failed component (e.g., float valve vs. pressure relief valve).
+- You do not need to drain the entire hot water cylinder or cold water storage tank.
+- You do not need to decide between repair or replacement of the appliance immediately.
+- You do not need to clean up external water pooling until the flow has been stopped and the area is confirmed cool.
 
 ## Important reassurance
-This is a common “something isn’t shutting off properly” situation. Turning things off in the right order (don’t block; isolate water; switch off heat if needed) usually prevents major damage while you wait for a professional.
+Seeing water pouring from a house can be alarming, but these pipes are designed as safety outlets to prevent internal flooding or over-pressurisation. By turning off the water and the heat source, you have already removed the energy and the volume needed for the situation to worsen.
 
 ## Scope note
-First steps only. The correct fix depends on what that pipe serves and may involve safety devices on hot water systems that should be handled by a qualified engineer.
+This guide covers first-step stabilization for domestic water discharge in the UK. It does not replace the mandatory requirement for safety inspections by G3 or Gas Safe qualified engineers on pressurized systems.
 
 ## Important note
-This is general information, not professional advice. If the discharge appears hot or is linked to an unvented hot water system, treat it as urgent and **do not** obstruct the outlet.
+This information is for emergency stabilization and does not constitute professional plumbing or engineering advice. High-temperature discharges indicate a safety device has been triggered; never obstruct these outlets.
 
 ## Additional Resources
-- https://www.gov.uk/government/publications/sanitation-hot-water-safety-and-water-efficiency-approved-document-g
-- https://assets.publishing.service.gov.uk/media/66f6c6ce3b919067bb4828cc/ADG_with_2024_amendments.pdf
-- https://www.watersafe.org.uk/advice/general_plumbing_advice/turning_off_your_water/how_do_i_turn_the_water_off_to_carry_out_work_in_my_property/
-- https://www.thameswater.co.uk/help/water-and-waste-help/how-to-turn-your-water-on-and-off
-- https://www.ofwat.gov.uk/nonhouseholds/supply-and-standards/responsibility-supply-pipes/
-- https://www.e-lindsey.gov.uk/media/4257/050-Unvented-hot-water-storage-systems/pdf/050Unventedhotwaterstoragesystems.pdf
+- https://trustedtraders.which.co.uk/articles/how-to-stop-a-water-leak/
+- https://www.homeserve.co.uk/insurance-cover/plumbing-and-drainage-comparison/plumbing-advice/overflow-pipe-leaking/
+- https://www.worcester-bosch.co.uk/quick-guide-to-condensate
+- https://www.britishgas.co.uk/heating/guides/what-is-a-pressure-relief-valve.html
+- https://www.citizensadvice.org.uk/consumer/energy/energy-supply/save-energy-at-home/getting-your-broken-boiler-repaired-or-replaced/

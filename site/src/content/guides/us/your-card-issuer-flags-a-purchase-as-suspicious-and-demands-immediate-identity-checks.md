@@ -1,84 +1,98 @@
-﻿---
+---
 title: "What to do if… your card issuer flags a purchase as suspicious and demands immediate identity checks"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - card issuer flagged purchase
-  - suspicious charge alert
-  - fraud department wants verification
-  - card declined identity check
-  - urgent verification request
-  - bank impersonation scam worry
-  - one-time passcode request
-  - unexpected verification code text
-  - approve notification request
-  - call from card security
-  - phishing link from bank
-  - vishing call from bank
-  - account takeover concern
-  - credit card fraud alert
-  - debit card fraud alert
-  - freeze card temporarily
-  - verify caller identity
-  - report fraud to ftc
-  - place a fraud alert
-  - freeze your credit
-  - report to ic3
-last_reviewed: "2026-01-09"
+  - "card issuer flagged purchase"
+  - "suspicious charge alert"
+  - "fraud department verification"
+  - "card declined identity check"
+  - "urgent verification request"
+  - "bank impersonation scam"
+  - "one-time passcode request"
+  - "unexpected verification code"
+  - "approve notification request"
+  - "call from card security"
+  - "phishing link from bank"
+  - "vishing call from bank"
+  - "account takeover concern"
+  - "credit card fraud alert"
+  - "debit card fraud alert"
+  - "freeze card temporarily"
+  - "verify caller identity"
+  - "place a fraud alert"
+  - "freeze your credit"
+  - "suspicious text from bank"
+  - "what do i do if my bank calls about fraud"
+  - "what do i do if i get a suspicious charge text"
+  - "what do i do if my card is flagged"
+  - "what do i do if i shared a security code"
+  - "help i clicked a link from my bank"
+  - "help i gave my info to a scammer"
+  - "help i am being asked for a selfie check"
+  - "help i got a fraud alert i didnt start"
+  - "my card was declined for verification"
+  - "my bank account is locked for fraud"
+  - "smell of digital fraud"
+  - "suspicious bank email link"
+  - "automated voice fraud alert"
+  - "hyper-personalized scam call"
+  - "identity check demand"
+  - "fraud department impersonation"
+  - "unauthorized transaction alert"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your card issuer flags a purchase as suspicious and demands immediate identity checks (USA)
+
 ## Short answer
-Treat it as potentially real *or* a scam: end any unexpected contact and verify by calling your issuer using the number on the back of your card or the official app. Don’t share verification codes or approve prompts you didn’t initiate.
+Treat the contact as a potential scam and immediately end the interaction. Verify the situation by calling your card issuer directly using the official phone number printed on the back of your physical card or the contact button inside their official mobile app.
 
 ## Do not do these things
-- Don’t keep talking just because they say it’s “urgent” or “your account will be closed.”
-- Don’t read a one-time passcode/“verification code” to someone who contacted you.
-- Don’t click “verify now” links in texts/emails until you’ve independently confirmed they’re legitimate.
-- Don’t send photos/scans of ID or a “selfie” by email/text/message app because someone asked you to.
-- Don’t install remote-access/screen-sharing apps or let anyone take control of your phone/computer.
-- Don’t share your PIN, online banking password, or full security details.
-- Don’t move money, buy gift cards, crypto, or “secure” funds because of a fraud alert.
-- Don’t trust caller ID — it can be spoofed.
+- Don’t stay on the line if the caller uses high-pressure language or threats like “your account will be permanently closed in ten minutes.”
+- Don’t read a one-time passcode (OTP) or “verification code” out loud to anyone who called you, even if they claim they sent it.
+- Don’t click “verify identity” or “secure account” links in unexpected texts or emails.
+- Don’t provide photos of your ID, your Social Security number, or a “live selfie” via a link sent in a text or third-party messaging app.
+- Don’t install any software, remote-access tools, or screen-sharing apps if instructed to do so by a “fraud agent.”
+- Don’t move money to a “safe account,” buy gift cards, or use cryptocurrency to “protect” your funds.
+- Don’t trust the name on your caller ID, as scammers frequently spoof official bank names and numbers.
 
 ## What to do now
-1. **Break the urgency loop.** If it’s a call, hang up. If it’s a text/email, don’t reply or click.
-2. **Call your card issuer back using a trusted number.**
-   - Use the **number on the back of your card**, or open your issuer’s official app and use the help/contact option there.
-   - If you reached them via a link or unknown number, stop and restart using the trusted number.
-3. **On the verified line, confirm two things:**
-   - “Is there a fraud alert or suspicious transaction on my account right now?”  
-   - “What identity checks do you need, and what will you never ask me to share?”
-4. **Do identity checks only through official channels you opened yourself.** If they need ID documents, ask to complete it via the **issuer’s app/secure portal** you accessed independently, or another official method they provide. Avoid links you didn’t initiate.
-5. **Lock down the card while you verify.** If your app allows it, **freeze/lock the card** temporarily, then unfreeze once you’ve completed verification safely.
-6. **Treat unexpected codes/prompts as a red flag.** If you received a code or a push notification you didn’t request, **do not approve it**. Tell the issuer you got an unsolicited code/prompt and ask if someone is trying to log in or add your card to a digital wallet.
-7. **Review recent transactions immediately.** Check recent charges and pending authorizations. If anything is unauthorized, report it and follow your issuer’s dispute steps (replacement card/new card number, etc.).
-8. **If you shared personal info, codes, or moved money, add these quick protections (optional but often worth it):**
-   - **Report the scam** at **ReportFraud.ftc.gov**.
-   - If you suspect identity theft, go to **IdentityTheft.gov** to build a personal recovery plan.
-   - Consider placing a **free credit freeze** and/or a **one-year fraud alert** with the nationwide credit reporting agencies.
-9. **If it was online/phishing/account-takeover related, consider a second report (optional):**
-   - You can also report cyber-enabled fraud to the **FBI’s Internet Crime Complaint Center (IC3)**.
+1. **Sever the current connection immediately.** Hang up the phone, close the text thread, or exit the email without clicking any links or buttons.
+2. **Retrieve a verified contact method for your issuer.** 
+   - Locate the physical card and find the customer service number on the back.
+   - Alternatively, open the official banking app you already have installed or type the bank's known web address directly into your browser.
+3. **Initiate a new, secure contact with the issuer.**
+   - **Call the number on the back of your card** or use the "Call Us" feature within the authenticated app.
+   - Once connected, explain: "I received a suspicious fraud alert and want to verify if there are actual issues with my account."
+4. **Confirm the existence of a legitimate fraud flag.** Ask the agent to list the specific transactions that triggered the alert and verify your recent activity through their internal system.
+5. **Freeze the card using your mobile app (optional).** 
+   - **Locate the "Lock Card" or "Freeze Card" toggle** in your banking app to prevent new charges while you resolve the identity check.
+6. **Perform identity checks only through the bank's own secure infrastructure.** If the bank requires documents or biometrics, ask to upload them through the **"Secure Message Center" or "Identity Verification" section** within the official app you logged into yourself.
+7. **Report unsolicited security codes.** If you received a verification code that you did not request, **inform the bank immediately**, as this suggests an active attempt to bypass your multi-factor authentication (MFA).
+8. **Secure your credit profile if you shared any information.**
+   - **Place a free initial fraud alert** by contacting one of the three bureaus (Equifax, Experian, or TransUnion); the one you contact is legally required to notify the other two.
+   - **Place a credit freeze** at each of the three bureaus individually to prevent unauthorized new accounts.
+9. **File official reports if info was compromised.** 
+   - Use **IdentityTheft.gov** to create a recovery plan if you shared personal details.
+   - Use **ReportFraud.ftc.gov** to report the impersonation attempt to federal authorities.
 
 ## What can wait
-- You don’t need to prove whether it was a scam right now — your priority is switching to a verified contact method.
-- You don’t need to contact the merchant unless your issuer specifically tells you to.
-- You don’t need to make big account changes in panic. First confirm what happened and stop any ongoing access.
+- You do not need to identify the exact source of the scam or how they got your number right now.
+- You do not need to contact the merchant of the "suspicious purchase" unless the bank confirms the charge is real and asks you to dispute it.
+- You do not need to change all your passwords immediately unless you suspect your primary banking login was compromised.
 
 ## Important reassurance
-Fraud flags are common and often mean your issuer’s systems are working. Feeling pressured or shaky is normal — slowing down and calling back safely is exactly the right move.
+Receiving a fraud alert can be startling, but it is a standard security procedure. Scammers rely on the "urgency loop" to stop you from thinking clearly. By hanging up and calling a known number, you are taking complete control of the situation and removing the scammer's only leverage.
 
 ## Scope note
-These are first steps only to reduce harm and avoid irreversible mistakes. If there are unauthorized transactions or signs of identity theft, you may need additional follow-up after things are stable.
+This guide covers first-step stabilization for suspicious identity check demands. It does not replace full identity theft recovery or the formal dispute process required for unauthorized transactions.
 
 ## Important note
-This is general information, not legal or financial advice. Policies and verification methods vary by issuer. If anything feels off, end contact and use the number on your card or the official app.
+This information is for general guidance and is not legal or financial advice. Security protocols vary by institution. Always prioritize the instructions provided by your bank through their verified, official communication channels.
 
 ## Additional Resources
-- https://consumer.ftc.gov/consumer-alerts/2024/06/got-call-about-fraud-activity-on-your-bank-account-it-could-be-scammer
-- https://reportfraud.ftc.gov/
-- https://www.identitytheft.gov/
-- https://www.ftc.gov/news-events/news/press-releases/2018/09/starting-today-new-federal-law-allows-consumers-place-free-credit-freezes-yearlong-fraud-alerts
-- https://www.occ.gov/topics/consumers-and-communities/consumer-protection/fraud-resources/credit-card-and-debit-card-fraud.html
-- https://www.ic3.gov/
-- https://www.consumerfinance.gov/about-us/blog/beware-of-new-cfpb-imposter-scams/
+- https://www.consumerfinance.gov/ask-cfpb/i-received-an-email-from-my-bank-or-credit-union-asking-me-to-verify-my-account-information-what-should-i-do-en-999/
+- https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discover-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/
+- https://www.consumerfinance.gov/ask-cfpb/what-do-i-do-if-i-think-i-have-been-a-victim-of-identity-theft-en-31/
+- https://www.helpwithmybank.gov/help-topics/fraud-scams/identity-theft/identity-theft-fraud.html
+- https://www.usa.gov/where-report-scams

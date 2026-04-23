@@ -1,75 +1,90 @@
-﻿---
+---
 title: "What to do if… you see someone peering into your windows from outside"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - someone peering in my window
-  - person looking through window
-  - stranger outside my window
-  - someone at my window at night
-  - window peeper outside house
-  - peeping tom outside
-  - suspicious person outside home
-  - someone watching through window
-  - someone scoping my home
-  - intruder casing the house
-  - stranger in my yard
-  - someone in my backyard
-  - someone on my property
-  - person at my ground floor window
-  - someone trying windows
-  - unknown person outside apartment window
-  - voyeur outside window
-  - I feel unsafe at home now
-  - someone lurking outside my window
-last_reviewed: "2026-01-11"
+  - "someone peering in my window"
+  - "person looking through window"
+  - "stranger outside my window"
+  - "someone at my window at night"
+  - "window peeper outside house"
+  - "peeping tom outside"
+  - "suspicious person outside home"
+  - "someone watching through window"
+  - "someone scoping my home"
+  - "intruder casing the house"
+  - "stranger in my yard"
+  - "someone in my backyard"
+  - "someone on my property"
+  - "person at my ground floor window"
+  - "someone trying windows"
+  - "unknown person outside apartment window"
+  - "voyeur outside window"
+  - "i feel unsafe at home now"
+  - "someone lurking outside my window"
+  - "shadow outside window"
+  - "prowler at window"
+  - "help i see a stranger in my yard"
+  - "help someone is looking in my window"
+  - "what do i do if someone is watching my house"
+  - "what do i do if i see a prowler"
+  - "what do i do if a stranger is at my window"
+  - "man looking in window"
+  - "tapping on window at night"
+  - "face at the window"
+  - "unauthorized person on property"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you see someone peering into your windows from outside (USA)
 
 ## Short answer
-Get away from the window, lock down your home, and call **911** if the person is still there or you feel threatened.
+Move away from the window to a secure interior room, lock all entry points, and call **911** immediately to report a prowler or suspicious person.
 
 ## Do not do these things
-- Don’t go outside to confront them or “see what they want”.
-- Don’t open the door to talk through it.
-- Don’t chase them if they leave.
-- Don’t stand in a lit window where you’re clearly visible.
-- Don’t assume it’s a misunderstanding until you’re safe.
-- Don’t disconnect from **911** unless the call-taker tells you to.
+- Don't confront the person or go outside to investigate.
+- Don't turn on interior lights in the room you are in; this makes you more visible.
+- Don't open the window or door to shout at them.
+- Don't chase the individual if they begin to leave the property.
+- Don't assume it is a neighbor or "just a mistake" until police arrive.
+- Don't hang up with emergency services until the dispatcher explicitly tells you to do so.
 
 ## What to do now
-1. **Move to a safer spot immediately.** Step away from windows and exterior doors. If possible, go to an interior room where you’re not visible from outside.
-2. **Secure entry points fast.** Lock doors, close/lock accessible windows, and close blinds/curtains. If you can turn on outdoor lights from inside, do that.
-3. **Call 911 (or have someone else call while you secure).** Tell the call-taker:
-   - Your exact address (and apartment/unit number if applicable)
-   - Where the person is (front/back, which window/side)
-   - What they’re doing (peering in, lingering, trying handles, moving around)
-   - A description (clothing, height/build) and any vehicle details
-4. **Stay on the line and follow instructions.** 911 call-takers use questions to get the right help to you quickly. Generally, **don’t hang up** until the call-taker instructs you to.
-5. **If you can’t speak:** if you can, keep the call connected and follow any prompts. If you truly can’t talk, **texting 911** may work in your area — call if you can, and text only if you can’t. If text-to-911 isn’t available, you may receive an automatic “bounce-back” message.
-6. **Observe only if it’s safe.** From a spot where you are not visible (and not near the glass), note the time and details. You don’t need to take risks to “get proof.”
-7. **Get everyone inside to the safer room.** Quietly bring kids/pets with you. Grab your phone, keys, and essential medications in case you’re advised to leave.
-8. **If you’re in an apartment/building:** after calling 911 (or while another person calls), notify building security/management so they can check shared entrances and preserve any CCTV.
-9. **If the person leaves before officers arrive:** tell the call-taker and share the direction of travel/vehicle details. They may still take the report or advise you on the best non-emergency way to document what happened.
+1. **Move to a safe interior space immediately.** Get out of the line of sight of any windows or glass doors. Move to a room with solid walls, such as a bathroom or a hallway, and stay low.
+2. **Lock all doors and windows without exposing yourself.** Quietly secure any locks you can reach safely.
+   - Close blinds or curtains in lit rooms to block the person's view of the interior.
+   - If you have smart home controls, turn on all exterior lights to eliminate hiding spots.
+3. **Call 911 from your safe position.** Provide the following information clearly:
+   - Your full address, including apartment or unit number.
+   - The current location of the person (e.g., "at the kitchen window on the north side").
+   - A physical description (approximate height, clothing, any visible items).
+   - Any vehicle details if you saw them arrive or park nearby.
+4. **Text 911 only if you cannot safely speak.** If you are hiding and noise will alert the intruder, use text-to-911 if available in your area.
+   - If you receive a "bounce-back" message stating text-to-911 is unavailable, you must place a voice call.
+5. **Gather everyone in the home to the same secure room.** Quietly bring children and pets to your location.
+   - Designate one person to stay on the phone with 911 while another monitors the interior for any signs of attempted entry.
+6. **Observe only from a distance.** Do not approach the window to "get a better look." If you can safely see the person from a dark room or through a doorbell camera, note their direction of travel if they move.
+7. **Notify building security or management if applicable.** If you live in an apartment complex or gated community, alert on-site security so they can secure shared gates or entrances.
+8. **Keep your phone in your hand.** Ensure it is not on silent so you can hear instructions from the dispatcher or responding officers.
 
 ## What can wait
-- Deciding whether to install cameras, upgrade locks, or add motion lighting.
-- Contacting your landlord/HOA (unless there’s immediate damage that needs repair).
-- Reviewing doorbell/CCTV footage in detail — do it once you’re calm and safe.
-- Writing a full narrative: for now, capture the basics (time, description, where it happened).
+- Reviewing doorbell or security camera footage in detail.
+- Checking for property damage (wait until officers arrive and clear the perimeter).
+- Calling your landlord or property manager (unless there is a broken window or door).
+- Researching new security systems or lighting upgrades.
+- Posting about the incident on social media or neighborhood apps.
 
 ## Important reassurance
-Feeling alarmed after someone peers into your windows is a normal reaction. You don’t need to prove intent to take it seriously — creating distance, locking up, and contacting help is a reasonable safety response.
+It is normal to feel a sudden surge of adrenaline or fear when your privacy and safety are compromised. Taking these steps to create distance and involve law enforcement is the correct and professional response to a suspicious intruder. Your reaction is a protective measure.
 
 ## Scope note
-These are first steps to stabilise the moment and reduce immediate risk. If this repeats or feels targeted, you may need additional support and a more detailed safety plan.
+This guide is for immediate stabilization during a suspected prowling or voyeurism incident. It does not cover long-term legal actions, filing restraining orders, or technical security system installation.
 
 ## Important note
-This is general information, not legal advice. If you believe you’re in immediate danger or a crime may be in progress, call **911**.
+This information is for safety guidance and does not constitute legal advice. Jurisdictions may vary in how they categorize "Peeping Tom" laws versus "Prowling" or "Stalking" statutes. Always prioritize 911 for in-progress suspicious activity.
 
 ## Additional Resources
-- https://www.911.gov/calling-911
-- https://www.911.gov/calling-911/frequently-asked-questions/
-- https://www.dhs.gov/see-something-say-something/how-to-report-suspicious-activity
-- https://www.usa.gov/report-crime
+- https://www.thehotline.org/resources/stalking-safety-planning/
+- https://ovc.ojp.gov/topics/stalking
+- https://ovc.ojp.gov/sites/g/files/xyckuh226/files/pubs/helpseries/HelpBrochure_Stalking.html
+- https://www.womenslaw.org/safety-planning/safety-tips-stalking-victims
+- https://victimconnect.org/get-help/

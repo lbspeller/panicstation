@@ -1,100 +1,103 @@
-﻿---
+---
 title: "What to do if… you are charged for an old negative balance you believed was settled"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - charged again after settlement
-  - old negative balance returned
-  - overdraft resurfaced unexpectedly
-  - bank says you still owe
-  - surprise debt on closed account
-  - settled balance disputed
-  - old account fee suddenly taken
-  - negative balance reappeared
-  - bank set off took money
-  - money taken without warning
-  - debt collector for paid debt
-  - prove it letter situation
-  - dispute debt amount wrong
-  - credit file shows old default
-  - reopened balance you don’t recognise
-  - unexpected arrears notice
-  - payment demanded for old overdraft
-  - historic balance adjustment
-last_reviewed: "2026-01-10"
+  - "charged again after settlement"
+  - "old negative balance returned"
+  - "overdraft resurfaced unexpectedly"
+  - "bank says you still owe"
+  - "surprise debt on closed account"
+  - "settled balance disputed"
+  - "old account fee suddenly taken"
+  - "negative balance reappeared"
+  - "bank set off took money"
+  - "money taken without warning"
+  - "debt collector for paid debt"
+  - "prove it letter situation"
+  - "dispute debt amount wrong"
+  - "credit file shows old default"
+  - "reopened balance you don’t recognise"
+  - "unexpected arrears notice"
+  - "payment demanded for old overdraft"
+  - "historic balance adjustment"
+  - "what do i do if bank took money for old debt"
+  - "what do i do if debt collector calls about settled debt"
+  - "what do i do if old overdraft reappears"
+  - "what do i do if negative balance was paid"
+  - "help i am being charged for settled debt"
+  - "help i paid a debt but they want more"
+  - "my bank took money from my savings for a debt"
+  - "my credit file shows a settled debt as unpaid"
+  - "statute barred debt uk rules"
+  - "right of set off notice period"
+  - "financial ombudsman 8 week rule"
+  - "direct debit guarantee refund"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are charged for an old negative balance you believed was settled (UK)
 
 ## Short answer
-Treat it as a dispute, not a bill: gather proof of settlement and raise a written dispute immediately, asking for recovery and further charges to be paused while they investigate.
+Treat the demand as a formal dispute: immediately request a "statement of account" and a "letter of dead-lock" if they refuse to stop collection, while asserting your rights under the Direct Debit Guarantee or FCA "right of set-off" rules if money was taken without notice.
 
 ## Do not do these things
-- Don’t pay “just to make it go away” if you genuinely think it was settled — a payment can make it harder to challenge later.
-- Don’t write anything that sounds like you accept you owe it if you’re not sure.
-- Don’t ignore letters headed “default”, “notice”, “pre-action”, or “court” — you can still dispute, but you must respond.
-- Don’t rely on phone calls alone — if you speak to someone, follow up in writing the same day.
-- Don’t click links or call numbers from unexpected texts/emails about the debt — use the bank/firm’s official website/app to contact them.
+- Don't make a small "goodwill" payment — in England and Wales, this can "reset the clock" on a debt that might otherwise be legally expired (statute-barred).
+- Don't acknowledge the debt in writing (e.g., saying "I know I owed this but I paid it") until you have seen their proof of the balance.
+- Don't ignore "Letters of Claim" or court forms — failing to respond to these can lead to a County Court Judgment (CCJ) even if the debt is incorrect.
+- Don't assume a phone agent's verbal promise to "look into it" stops the automated collection or interest process.
+- Don't give new debit card details to a debt collector "for security" if you are disputing the entire amount.
 
 ## What to do now
-1. **Stop the immediate damage to your day-to-day money.**
-   - If money has been taken and you can’t cover essentials (rent/mortgage, food, utilities), contact your bank the same day and say this is causing hardship.
-   - If you think the same banking group might take more money (for example by moving funds between accounts), consider **temporarily moving your next income** to an account at a different banking group — and make sure you also move (or manually cover) any essential direct debits/standing orders so you don’t miss priority payments.
+1. **Secure your essential living costs immediately.**
+   - **Check if you have enough funds for "priority" payments** (rent, mortgage, council tax, utilities, and food).
+   - **Move your upcoming income** to a different banking group if your current bank has "set off" money (taken it from one account to pay another) and you fear they will do it again.
+   - **Notify the bank of financial hardship** if the charge has left you unable to pay for essentials; they have a regulatory duty to treat you fairly under FCA "Consumer Duty" rules.
 
-2. **Identify what kind of “charge” it is (this changes your fastest route).**
-   - **Direct Debit taken by mistake?** Ask your bank for a refund under the **Direct Debit Guarantee** and ask them to reverse any related fees/interest caused by the error.
-   - **Money moved between your accounts?** Ask if they used the **right of set-off**, what debt they say was “due and payable”, and what notice they gave you.
-   - **Letter from a debt collector?** Treat it as a disputed debt and ask for proof and a full breakdown (see step 5).
+2. **Reclaim money taken via Direct Debit or "Set-off" errors.**
+   - **Invoke the Direct Debit Guarantee** if the money was taken by a third party without the required 10-working-day notice or after you cancelled the instruction.
+   - **Challenge a "Right of Set-off" transfer** if the bank moved money between your accounts without providing the standard 14 days' notice or if it caused you to miss priority bills.
+   - **Demand an immediate refund** from your bank for any "Indemnity Claim" under the Direct Debit scheme; banks must usually refund this immediately while they investigate.
 
-3. **Collect a simple proof pack (aim for 10 minutes).**
-   - Any “paid/settled” confirmation email/letter, final statement showing £0, screenshots from your app, reference numbers, and any messages agreeing a final amount.
-   - If you don’t have it, request: a **final statement**, **transaction history**, and a **full breakdown** showing how the balance was calculated (dates, interest, fees, reversals).
+3. **Verify the "Statute Barred" status of the debt.**
+   - **Check the date of your last payment or written acknowledgement.**
+   - **In England and Wales:** If it has been more than 6 years since the last activity, the debt is likely "statute-barred" and cannot be enforced through the courts.
+   - **In Scotland:** If it has been more than 5 years without activity, the debt is "extinguished" and legally no longer exists.
 
-4. **Send a written dispute and ask for a pause while it’s investigated.**
-   - Title it: **“Formal dispute: old negative balance believed settled”**.
-   - Include: your name, address, account/reference, what was taken/asked for, and: **“I dispute that this balance is owed. I understood it was settled.”**
-   - Ask them to:
-     - mark the account **“in dispute”**
-     - provide the evidence and calculation
-     - **pause/suspend recovery action and further charges/interest** while they investigate
+4. **Issue a "Prove It" notice in writing.**
+   - **Send a formal letter stating: "I do not recognize this debt and I dispute any liability."**
+   - **Request a full breakdown of the balance,** including the original default date, interest applied, and any fees.
+   - **Ask for a copy of the "Full and Final Settlement" agreement** if you have a record of paying it off previously.
 
-5. **If a debt collector is involved, keep it “prove it” simple.**
-   - Ask for written proof of the debt, the original creditor, and a full statement showing how the amount is made up.
-   - State clearly that you **dispute the debt** and ask them to **pause recovery activity** while the dispute is investigated with the original creditor.
+5. **Formalize the dispute to pause collection.**
+   - **Label your correspondence "OFFICIAL COMPLAINT"** to trigger the bank's formal 8-week investigation window.
+   - **Request a "stop" on all interest, charges, and collection activity** while the dispute is active, as required by FCA CONC 7.14 rules.
+   - **Inform any debt collection agency** involved that the account is in a "formal dispute" with the original creditor.
 
-6. **Check your credit file quickly (to prevent long-term knock-on effects).**
-   - Check your credit reports with the **three UK credit reference agencies** (Experian, Equifax, TransUnion) for any new/returned defaults or arrears markers.
-   - If something appears, dispute it with **both** the credit reference agency and the company reporting it, and keep copies of what you send.
+6. **Protect your credit file.**
+   - **Check Experian, Equifax, and TransUnion** to see if a "Default" or "Arrears" marker has been added for this old balance.
+   - **Add a "Notice of Correction"** (up to 200 words) to your credit file explaining that the amount is settled and currently in formal dispute.
 
-7. **Escalate via complaints, then the Financial Ombudsman Service (FOS) if needed.**
-   - Tell the bank/firm you want this handled as a **formal complaint** and ask for their complaint reference.
-   - If you get a **final response** and you’re still unhappy, you can usually take it to the **FOS** — and you generally need to do that **within 6 months** of the final response.
-   - If you **haven’t had a final response within 8 weeks**, you can usually still take it to the FOS.
-
-8. **If collection pressure is intense, consider a protective pause through free debt advice.**
-   - A free debt adviser can tell you if **Breathing Space (Debt Respite)** is suitable and, if so, start it for you (you generally can’t start it yourself).
+7. **Prepare for escalation.**
+   - **Diary the 8-week deadline;** if the firm does not resolve the issue or provide a "Final Response" by then, you can take the case to the Financial Ombudsman Service (FOS).
+   - **Keep all evidence of previous settlement,** such as bank statements showing a £0 balance or confirmation emails from the time.
 
 ## What can wait
-- Deciding whether to close accounts or switch banks permanently.
-- Writing long explanations — keep everything short, factual, and in writing for now.
-- Any negotiation about payment plans (only consider this if it turns out you do owe something).
-- Legal action — only consider it after you have the written breakdown and a complaint response.
+- Hiring a solicitor — most financial disputes can be handled for free through the Financial Ombudsman Service.
+- Closing your main bank account — wait until you have a confirmed "settled" status to avoid trailing fees.
+- Correcting your credit score — the "Notice of Correction" is a temporary fix; the full removal of markers happens after the dispute is won.
 
 ## Important reassurance
-Old balances sometimes reappear because of admin corrections, sold debts, data mismatches, or fees/interest being added later — and it’s also common for these demands to be wrong. You’re allowed to slow this down, insist on evidence, and protect your essentials first.
+Banks and debt collectors often work with old, imperfect data. It is very common for "zombie" debts to reappear due to IT migrations or the sale of old ledgers. Finding yourself in this situation does not mean you have failed or that you will definitely have to pay; you have a legal right to see clear evidence of any debt before you are required to settle it.
 
 ## Scope note
-These are first steps to stabilise the situation, prevent extra losses, and force the issue into a documented dispute/complaints process. Sorting the underlying balance may need specialist debt advice depending on what the paperwork shows.
+This guide covers first-step stabilization for unexpected UK bank charges or debt demands for historic balances. It focuses on immediate financial protection and the formal dispute process. It is not a substitute for professional legal advice or comprehensive debt management.
 
 ## Important note
-This is general information, not legal advice. If you’re unsure whether you owe it, avoid wording or actions that could be treated as accepting liability, and get free independent debt advice before paying.
+Statute-barred rules are complex; if you have unknowingly acknowledged the debt recently, the 5 or 6-year clock may have reset. Always consult a free service like StepChange, National Debtline, or Citizens Advice before signing any repayment agreements for old debts.
 
 ## Additional Resources
-- https://handbook.fca.org.uk/handbook/conc7
-- https://www.financial-ombudsman.org.uk/consumers/how-to-complain
+- https://www.citizensadvice.org.uk/debt-and-money/help-with-debt/dealing-with-your-debts/check-if-you-have-to-pay-a-debt/
+- https://www.citizensadvice.org.uk/debt-and-money/help-with-debt/dealing-with-your-debts/collecting-information-about-your-debts/
+- https://www.citizensadvice.org.uk/debt-and-money/borrowing-money/types-of-borrowing/bank-overdrafts/
 - https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/bank-accounts
-- https://www.financial-ombudsman.org.uk/businesses/complaints-deal/banking-and-payments/bank-accounts-right-set-off
-- https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
-- https://www.gov.uk/government/publications/debt-respite-scheme-breathing-space-guidance/debt-respite-scheme-breathing-space-guidance-for-creditors
-- https://nationaldebtline.org/get-information/sample-letters/disputing-liability-debt/
-- https://www.directdebit.co.uk/direct-debit-guarantee/
+- https://www.citizensadvice.org.uk/debt-and-money/banking/complaints-about-banks-and-building-societies/

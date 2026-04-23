@@ -1,84 +1,92 @@
-﻿---
+---
 title: "What to do if… your online banking login stops working and you suspect a lockout or takeover"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - bank login not working
-  - online banking locked out
-  - mobile banking app locked
-  - suspect account takeover
-  - bank account hacked
-  - cant sign in to bank
-  - password suddenly rejected
-  - too many login attempts
-  - unexpected otp code
-  - phishing pretending bank
-  - password reset scam
-  - new device login alert
-  - sim swap risk
-  - email account compromised
-  - unauthorized transfer worry
-  - debit card unauthorized charge
-  - banking security lockout
-  - identity theft reporting
-  - credit freeze needed
-last_reviewed: "2026-01-08"
+  - "bank login not working"
+  - "online banking locked out"
+  - "mobile banking app locked"
+  - "suspect account takeover"
+  - "bank account hacked"
+  - "cant sign in to bank"
+  - "password suddenly rejected"
+  - "too many login attempts"
+  - "unexpected otp code"
+  - "phishing pretending bank"
+  - "password reset scam"
+  - "new device login alert"
+  - "sim swap risk"
+  - "email account compromised"
+  - "unauthorized transfer worry"
+  - "banking security lockout"
+  - "identity theft reporting"
+  - "credit freeze needed"
+  - "help i cant login to bank"
+  - "help i am locked out of bank"
+  - "what do i do if my bank login stops working"
+  - "what do i do if i suspect bank takeover"
+  - "online banking security breach"
+  - "my online banking password is not working"
+  - "unauthorized zelle transfer"
+  - "fraud alert credit bureau"
+  - "stolen banking credentials"
+  - "bank login failure"
+  - "locked out of savings account"
+  - "mobile banking takeover"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… your online banking login stops working and you suspect a lockout or takeover (USA)
 
 ## Short answer
-Stop login attempts and contact your bank or credit union immediately using a trusted number (the one on your card/statement) or the official website/app you reach by typing it in yourself. Ask them to secure the account, review activity, and immediately limit outgoing transfers while you secure your email and phone number.
+Contact your bank or credit union immediately via a verified phone number (on your physical card or statement) to freeze all outgoing transfers and secure your credentials. You must report suspected login compromise within 2 business days to maintain maximum legal protection under Regulation E.
 
 ## Do not do these things
-- Don’t keep retrying passwords/codes or “testing” multiple logins (it can extend lockouts and muddy the timeline).
-- Don’t click links in texts/emails/pop-ups about your account being locked or “compromised”.
-- Don’t share one-time passcodes (OTP), security question answers, or approve unexpected in-app prompts.
-- Don’t move money because someone tells you to “protect it” (including “safe accounts”, crypto, gift cards, or cash withdrawals).
-- Don’t install remote-access/screen-sharing software because someone says they’re “from the bank” or “from the government”.
-- Don’t do sensitive recovery steps on public Wi-Fi if you can avoid it.
+- Don’t keep attempting to log in after the first failure (this may extend the lockout period).
+- Don’t click links in any text or email claiming your account is locked.
+- Don’t share one-time passcodes (OTP) or security PINs with anyone, even someone claiming to be from the bank.
+- Don’t move money to a "safe account" or buy gift cards / crypto because a caller tells you to.
+- Don’t grant remote access to your computer or phone to anyone claiming to provide "technical support."
+- Don’t use public Wi-Fi to attempt account recovery.
 
 ## What to do now
-1. **Write down what’s happening (1 minute).** Note the error message, time, and any alerts you received (screenshots help).
-2. **Call your bank/credit union using a trusted number — now.**
-   - Use the **number on the back of your debit/ATM card** or a **recent statement**, or
-   - Go to the bank’s site by **typing the address yourself** (not from a link) and use the official contact options.
-3. **Use direct language so you get the fraud/security pathway.** Say: “**My online banking login stopped working and I’m worried about a lockout or account takeover. Please secure my account and check for unauthorized activity.**”
-4. **Ask the bank to take specific protective actions immediately.**
-   - Ask what they can **freeze/disable right now**: online access, **online transfers**, **wires**, and any **peer-to-peer service (like Zelle)** linked to your account.
-   - Review **recent transactions**, **pending transfers**, **new payees/recipients**, and **profile changes** (email/phone/address).
-   - Start the bank’s process to **dispute unauthorized transfers/charges** and ask what can still be **stopped or recalled**.
-   - Reset access securely: new password, new device/app registration, and (if advised) a **new account number and/or replacement card**.
-   - Get a **case/reference number** and ask how to **submit notice in writing/in-app** if required.
-5. **Secure the “keys” that can reset your banking login (email + phone).**
-   - Change your **email password** and turn on strong **two-factor authentication** for email.
-   - If you suspect a **SIM swap** (no service, “SIM changed”, calls/texts not working), contact your **mobile carrier** immediately to lock the line and add extra verification.
-6. **If you see unauthorized transfers/charges, act fast.** There may be **time limits** for disputing errors or limiting your losses, so notify your bank as soon as you notice anything wrong and follow their instructions.
-7. **If identity theft is possible, start an official recovery plan.**
-   - File a report at **IdentityTheft.gov** (FTC) to create a step-by-step recovery plan you can follow.
-8. **Put a speed bump in front of new credit (optional but often wise).**
-   - Place a **credit freeze** (or a fraud alert) with the major credit bureaus to make it harder for someone to open new accounts in your name.
+1. **Call your bank or credit union using a trusted number immediately.**
+   - Use the **number on the back of your physical debit/ATM card** or a recent paper statement.
+   - If you must use a website, **type the address yourself** to find the official contact page.
+2. **Use specific terminology to trigger the security protocol.** Say: "**My online banking login stopped working and I suspect an account takeover. I need to secure my account and freeze all outgoing transfers immediately.**"
+3. **Instruct the representative to place specific holds on the account.**
+   - Ask them to **disable all online transfers**, **wire capabilities**, and **P2P services (like Zelle)**.
+   - Verify that your **contact information (email and phone)** has not been changed.
+   - Review **recent and pending transactions** for anything you did not authorize.
+   - Request a **case or reference number** for this report.
+4. **Secure your mobile phone line if you have lost service.**
+   - If your phone shows "No Service" or "Emergency Calls Only," call your **mobile carrier** from a different phone.
+   - Ask for a "**Number Lock**" or "**Port-out PIN**" to prevent a SIM swap.
+5. **Update your primary email password and security settings.**
+   - Change your password to a **unique phrase** not used elsewhere.
+   - Enable **app-based two-factor authentication** (like Google Authenticator) instead of SMS-based codes if possible.
+6. **Notify a credit bureau if you believe your identity is compromised.**
+   - Call **one** of the three major bureaus (Equifax: 800-685-1111, Experian: 888-397-3742, or TransUnion: 888-909-8872) to place a **fraud alert**. They are required to notify the other two.
+7. **File an official report at IdentityTheft.gov.**
+   - This provides an **FTC Identity Theft Affidavit** which is often required by banks to process fraud claims.
 
 ## What can wait
-- Deciding whether to switch banks or close everything (first stop the bleeding and regain control).
-- Contacting every creditor or changing every password immediately (prioritize bank, email, and mobile carrier first).
-- Filing police reports unless your bank requests it or there’s a clear reason (you can do this after the account is secured).
-- Detailed disputes and documentation packaging — get the incident logged and the account protected first.
+- Deciding whether to close the account permanently or switch banks.
+- Filing a local police report (unless the bank specifically requires it for your claim).
+- Changing passwords for non-financial apps (social media, shopping).
+- Reviewing old statements for historical errors (focus only on the last 48 hours first).
 
 ## Important reassurance
-A login failure can be a normal security lockout or a technical issue — and it can also be a warning sign. You don’t need to diagnose which one right now. The safest move is the same in both cases: contact the bank through a trusted channel, lock down access, then secure email/phone.
+A login failure is often a technical glitch or an automated security lockout triggered by the bank's own systems to protect you. Even if a takeover has occurred, federal law (Regulation E) provides strong protections for consumers who report the issue promptly. Your priority is stopping the clock on liability, not solving the technical error.
 
 ## Scope note
-This covers first steps to prevent further loss and buy time. If money moved or your identity details may be compromised, you’ll likely need follow-up steps after the immediate lockdown.
+This guide addresses first-step stabilization for suspected digital banking breaches. It does not cover long-term credit repair, physical mail theft, or legal disputes regarding established fraud.
 
 ## Important note
-This is general information, not legal or financial advice. Banks and credit unions have different processes. Follow your institution’s instructions once you’ve reached them through a verified contact method.
+This information is not legal or financial advice. Liability limits under Regulation E depend on the timing of your report and the type of transaction. Always follow the specific security instructions provided by your financial institution's fraud department.
 
 ## Additional Resources
 - https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discover-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/
-- https://www.consumerfinance.gov/rules-policy/regulations/1005/6
-- https://www.ecfr.gov/current/title-12/chapter-X/part-1005/subpart-A/section-1005.6
-- https://www.identitytheft.gov/assistant
-- https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts
-- https://www.usa.gov/credit-freeze
-- https://www.usa.gov/identity-theft
+- https://consumer.ftc.gov/articles/what-know-about-identity-theft
+- https://consumer.ftc.gov/consumer-alerts/2024/09/how-recover-identity-theft
+- https://www.helpwithmybank.gov/file-a-complaint/index-file-a-complaint.html
+- https://www.occ.treas.gov/topics/consumers-and-communities/consumer-protection/fraud-resources/index-fraud-resources.html

@@ -1,93 +1,100 @@
-﻿---
+---
 title: "What to do if… you are told a critically ill relative may be transferred to another hospital and you must respond quickly"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - critically ill relative transfer
-  - hospital transfer decision
-  - moved to another hospital
-  - ICU transfer family call
-  - urgent hospital decision
-  - asked to consent to transfer
-  - next of kin hospital transfer
-  - health and welfare lpa hospital
-  - welfare power of attorney scotland
-  - mental capacity best interests
-  - transfer due to no beds
-  - specialist centre transfer
-  - inter-hospital transfer UK
-  - receiving hospital details
-  - rapid response hospital call
-  - relative moved overnight
-  - told to decide quickly
-  - hospital says transfer imminent
-last_reviewed: "2026-03-03"
+  - "critically ill relative transfer"
+  - "hospital transfer decision"
+  - "moved to another hospital"
+  - "icu transfer family call"
+  - "urgent hospital decision"
+  - "health and welfare lpa"
+  - "welfare power of attorney scotland"
+  - "mental capacity best interests"
+  - "transfer due to no beds"
+  - "specialist centre transfer"
+  - "inter-hospital transfer uk"
+  - "receiving hospital details"
+  - "rapid response hospital call"
+  - "relative moved overnight"
+  - "hospital says transfer imminent"
+  - "what do i do if my relative is being moved"
+  - "what do i do if they are moving hospitals"
+  - "what do i do if transfer is urgent"
+  - "what do i do if next of kin cannot decide"
+  - "help i need to stop a hospital transfer"
+  - "help i do not want my relative moved"
+  - "help i am being told to decide on transfer"
+  - "my relative is in icu and moving"
+  - "my relative is too ill to move"
+  - "smell of hospital"
+  - "sounds of icu alarms"
+  - "visible medical equipment"
+  - "nurse in charge"
+  - "duty registrar"
+  - "best interests decision"
+  - "patient advice and liaison service"
+  - "llais wales"
+  - "registered lpa"
+  - "adults with incapacity act"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you are told a critically ill relative may be transferred to another hospital and you must respond quickly (UK)
 
 ## Short answer
-Ask to speak to the senior clinician leading the decision and get the key facts written down: **where, why, when, and who will take over care**. If there is a registered legal decision-maker (for example a health and welfare LPA attorney), say so immediately.
+Ask to speak to the senior clinician leading the decision to confirm the destination, the reason for moving, and who will take over care. If a registered legal decision-maker (such as a Health and Welfare attorney) exists, state this to the team immediately.
 
 ## Do not do these things
-- Do not agree or refuse based only on panic, rumours, or a rushed phone call—ask for the specific reason for the transfer and the plan for care during travel and on arrival.
-- Do not assume “next of kin” automatically gives you decision-making authority for an adult patient; it is usually a contact role. Decision-making depends on the person’s capacity and any legal authority—but family views still matter in “best interests”.
-- Do not rely on informal messages passed through staff you haven’t spoken to—ask for the named team making the decision.
-- Do not travel to the new hospital without confirming the exact site, ward/unit, and the best number to call on arrival.
-- Do not have multiple relatives calling the ward separately; pick one point of contact to avoid delays and mixed messages.
+- Do not agree or refuse based on a rushed phone call without asking for the specific clinical reason for the move and the safety plan for the journey.
+- Do not assume "next of kin" status provides legal authority to consent or refuse for an adult; it is primarily a contact role.
+- Do not rely on verbal messages from junior staff—request to speak with the senior nurse or consultant making the transfer arrangement.
+- Do not travel to the receiving hospital until you have confirmed the exact site, ward, and contact number for the new unit.
+- Do not allow multiple family members to call the ward independently; designate one person as the sole point of contact.
 
 ## What to do now
-1. **Get to the right person fast (with a realistic fallback).** Ask to speak to the **consultant/senior doctor responsible**, or if they’re not immediately available, the **duty registrar/senior clinician** and the **nurse in charge**. Say: “I need the transfer decision details and the plan—please talk me through it.”
-2. **Write down the four essentials (don’t rely on memory):**
-   - **Destination:** hospital name + exact site + unit/ward.
-   - **Reason:** specialist treatment vs capacity/bed pressures vs equipment/staffing issue.
-   - **Timing:** expected departure window and what might change it.
-   - **Clinical handover:** who is accepting them (team/unit) and how continuity will work.
-3. **Clarify what you are being asked to decide (often it’s not what it feels like).** Ask: “Are you asking for *consent* from the patient / legal decision-maker, or informing family of a *clinical transfer decision*?”
-   - If your relative can decide and communicate, ask staff to speak to them directly.
-   - If they cannot, ask what process they are using for a best-interests decision and who they are consulting.
-4. **State legal authority clearly, if it exists (and when it applies).**
-   - **England & Wales:** If there is a **registered Health and Welfare LPA**, the attorney generally makes relevant decisions **only if the person lacks capacity** for that decision. Say: “I am the Health & Welfare attorney. I can send a copy of the registered LPA now.”
-   - **Scotland / Northern Ireland:** Ask if there is a **welfare power of attorney / guardian** arrangement and how to provide it.
-   - If there is an **Advance Decision/Directive** about treatment, tell the team—this can affect what can be consented to or refused.
-5. **Ask for a ‘transfer briefing’ you can repeat back.** Keep it tight:
-   - “What are the risks of staying vs moving?”
-   - “What monitoring/escorts will be with them during transfer?”
-   - “What treatment will continue during the move?”
-   - “What will happen immediately on arrival?”
-   - “Who should I call for an update during and after the move?”
-6. **Get the receiving contact details before anything moves.** Ask for:
-   - the receiving unit’s phone number (or hospital switchboard instructions),
-   - confirmation the receiving unit has accepted the patient and is ready,
-   - when you should expect the first update after arrival.
-7. **If communication is breaking down, escalate via the right route for the time of day.**
-   - Ask for **PALS** (if available right now) to help obtain clear information and coordinate responses.
-   - If it’s out of hours or PALS isn’t available, ask who the hospital’s **on-call site manager / duty manager / senior nurse** is and request a call-back time.
-8. **Protect the practical essentials (prevents later chaos).**
-   - Ask what happens to **personal belongings** (who packs, what can travel with them, what must be collected).
-   - Note key identifiers you have (for example **NHS number** if known) and any critical facts you know (allergies, major conditions) so you can relay them if needed.
-9. **Keep one calm channel.** Choose one person to speak to staff and one person to update family. If you’re not that person, support with transport, childcare, chargers, and a written notes list.
-10. **If the wrong person is being consulted, say so plainly.** Tell staff who the correct contact/attorney/decision-maker is and how to reach them **now**—don’t assume they can find them in time.
+1. **Identify the senior clinician responsible for the transfer decision.** Ask to speak to the **Consultant**, the **Duty Registrar**, or the **Nurse in Charge** to clarify the clinical plan.
+2. **Note down the four essential transfer details immediately.**
+   - **Destination:** the hospital name, the specific site, and the receiving unit or ward.
+   - **Reason:** whether the move is for specialist care, bed capacity, or equipment requirements.
+   - **Timing:** the expected departure time and any factors that could delay it.
+   - **Continuity:** the name of the receiving team and how the clinical handover will be performed.
+3. **Clarify whether the hospital is seeking consent or informing you of a clinical decision.** Ask: "Is this a best-interests decision being made by the clinical team, or are you asking for formal consent from a legal representative?"
+4. **State any existing legal authority clearly to the medical team.**
+   - **England and Wales:** Inform them if there is a **registered Health and Welfare Lasting Power of Attorney (LPA)**; the attorney makes decisions only if the patient lacks capacity.
+   - **Scotland:** State if there is a **Welfare Power of Attorney** or **Guardian** under the **Adults with Incapacity (Scotland) Act 2000**.
+   - **Northern Ireland:** Mention if there is a court-appointed controller or an **Advance Directive** in place.
+5. **Request a brief transfer safety summary from the clinician.**
+   - Ask what level of monitoring and which staff (e.g., doctor or specialist nurse) will accompany the patient during the move.
+   - Confirm which treatments will continue throughout the journey.
+6. **Obtain the receiving unit's direct contact information before the patient departs.** Ensure you have a phone number for the specific ward or a direct line to the nurse in charge at the new location.
+7. **Use formal escalation routes if you have urgent concerns about patient safety or the decision process.**
+   - **England:** Request **Martha’s Rule** if you believe the patient’s condition is deteriorating and a second opinion is needed urgently.
+   - **Wales:** Request **Call4Concern** (WHC/2026/001) for an immediate clinical review.
+   - **General:** Contact the **Patient Advice and Liaison Service (PALS)** in England, **Llais** in Wales, or the **Patient Advice and Support Service (PASS)** in Scotland for coordination help.
+8. **Organise the patient's personal belongings and identifiers.**
+   - Confirm who is packing the patient's items and whether they will travel with the patient or need to be collected.
+   - Keep a record of the patient's **NHS number** and any known allergies to relay to the new team if requested.
+9. **Assign one person to manage all communication with the hospital.** This individual should be the only one receiving updates and then disseminating them to the wider family to prevent ward disruption.
+10. **Correct the hospital records if they are contacting the wrong person.** Provide the correct contact details for the legal decision-maker or primary contact immediately.
 
 ## What can wait
-- You do not need to decide today who was “at fault,” whether to complain, or what the long-term plan is.
-- You do not need to organise full travel logistics until you have the **confirmed receiving site and unit**.
-- You do not need to contact every relative immediately—first get accurate facts, then update.
-- You do not need to understand every medical detail right now; focus on the transfer plan, safety, and who is responsible at each step.
+- You do not need to determine who is responsible for the situation or file a formal complaint during the transfer window.
+- You do not need to arrange your own travel or accommodation until the destination and arrival time are confirmed.
+- You do not need to understand every technical medical detail; focus on the safety of the move and the point of contact at the receiving site.
+- You do not need to update every relative immediately; wait until you have the confirmed facts from the senior clinician.
 
 ## Important reassurance
-It’s normal to feel pressured and powerless when a transfer is mentioned, especially when someone is critically ill. Wanting clear answers—where they’re going, why, and who will care for them—and writing it down is a practical way to reduce the chance of mistakes.
+Feeling overwhelmed or pressured when a relative is critically ill is a common reaction. Asking for clear, written facts about a transfer is a standard and helpful way to ensure the safety of your relative and does not interfere with their care.
 
 ## Scope note
-This is first-steps guidance for the first urgent hour. Later (once the situation is stable), you may want fuller discussions about prognosis, visiting arrangements, and formal complaints or second opinions.
+This guide provides first-step stabilization for the initial hour of a transfer notification. Later discussions regarding long-term prognosis, visiting hours, or formal second opinions should occur once the patient is settled at the new site.
 
 ## Important note
-This is general information, not medical or legal advice. Hospital transfer processes and decision-making steps can vary across the UK and by situation. If you are unsure who can decide or receive updates, ask the clinical team to explain what applies in your hospital and to document the plan and key contacts in the notes.
+This information is for general guidance and does not constitute legal or medical advice. Procedures vary by NHS Trust and Health Board. Always ask the local clinical team to document the transfer plan and the names of the responsible consultants in the patient's medical records.
 
 ## Additional Resources
-- https://www.nhs.uk/nhs-services/hospitals/what-is-pals-patient-advice-and-liaison-service/
-- https://www.gov.uk/manage-lasting-power-attorney/health-welfare
-- https://www.nhs.uk/social-care-and-support/making-decisions-for-someone-else/mental-capacity-act/
-- https://www.gov.uk/government/publications/health-and-social-care-workers-mental-capacity-act-decisions/making-decisions-about-your-health-welfare-or-finances
-- https://www.ficm.ac.uk/sites/ficm/files/documents/2021-10/Transfer_of_Critically_Ill_Adult.pdf
-- https://www.bma.org.uk/media/tyufopmh/best-interests-toolkit-updated-2025.pdf
+- https://www.chelwest.nhs.uk/your-visit/patient-leaflets/icu/critical-care-transfers
+- https://www.england.nhs.uk/wp-content/uploads/2021/12/B1215-framework-to-support-inter-hospital-transfer-of-critical-care-patients.pdf
+- https://www.england.nhs.uk/long-read/national-framework-for-inter-facility-transfers/
+- https://www.england.nhs.uk/contact-us/feedback-and-complaints/complaint/
+- https://www.gov.uk/government/publications/the-nhs-choice-framework/the-nhs-choice-framework-what-choices-are-available-to-me-in-the-nhs

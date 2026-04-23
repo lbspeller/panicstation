@@ -1,93 +1,102 @@
-﻿---
+---
 title: "What to do if… you suspect a mailing address was changed after a death and important letters may be intercepted"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - usps change of address fraud
-  - address changed after death
-  - suspected mail interception
-  - mail being forwarded without permission
-  - missing letters after bereavement
-  - estate mail control
-  - executor mail access
-  - deceased person's mail
-  - fraudulent mail hold
-  - important letters not arriving
-  - intercepted bank statements
-  - stop mail theft after death
-  - usps informed delivery preview
-  - hold mail at post office
-  - identity theft after death
-  - protect probate correspondence
-  - redirect mail for estate
-  - post office change of address dispute
-last_reviewed: "2026-03-03"
+  - "address changed after death"
+  - "deceased person mail fraud"
+  - "usps change of address fraud after death"
+  - "stolen mail after bereavement"
+  - "mail intercepted after death"
+  - "fraudulent mail forwarding deceased"
+  - "estate mail interception"
+  - "help i think someone is stealing the deceased's mail"
+  - "help i am not getting the estate mail"
+  - "help i think my dad's mail was forwarded by someone else"
+  - "help i suspect identity theft of a deceased relative"
+  - "what do i do if mail stopped arriving after a death"
+  - "what do i do if a mailing address was changed without permission"
+  - "what do i do if letters are missing after a funeral"
+  - "what do i do if i suspect mail theft from an estate"
+  - "mailbox empty after death"
+  - "missing bank statements deceased"
+  - "letters not arriving for probate"
+  - "smell of burning mail"
+  - "tampered mailbox lock"
+  - "empty mailbox for weeks"
+  - "missing utility bills deceased"
+  - "postal fraud after death"
+  - "usps ps form 3575 fraud"
+  - "probate mail theft"
+  - "executor mail access denied"
+  - "stopping mail diversion"
+  - "securing estate mail"
+  - "identity theft deceased protection"
+  - "reporting mail crime to uspis"
+last_reviewed: "2026-03-16"
 ---
-
 # What to do if… you suspect a mailing address was changed after a death and important letters may be intercepted (USA)
 
 ## Short answer
-Stop further diversion first: secure the mailbox and report a potentially fraudulent change-of-address or mail hold to USPS/USPIS, then shift mail monitoring and delivery to an address you control for the estate.
+Secure the physical mailbox immediately and report the suspected fraudulent activity to the U.S. Postal Inspection Service (USPIS) and the local Post Office to stop unauthorized mail diversion.
 
 ## Do not do these things
-- Don’t confront a suspected person or escalate conflict—focus on safely stopping the mail flow problem.
-- Don’t send sensitive documents (death certificate, SSN, account numbers) by regular email/text.
-- Don’t assume “USPS is just slow” if multiple senders say they mailed time-sensitive items—treat missing mail as urgent.
-- Don’t rush into changing many accounts online while you don’t control where verification letters go.
-- Don’t share access to the deceased person’s online accounts unless you’ve confirmed you’re authorized to act.
+- Don’t confront a suspected individual directly - focus on establishing official mail control through USPS.
+- Don’t send sensitive estate documents (death certificates or Social Security numbers) via unencrypted email or text message.
+- Don’t assume missing mail is a delivery delay if multiple senders confirm items were dispatched - treat it as a potential theft event.
+- Don’t attempt to change account addresses online until you have secured the mail stream to receive verification codes.
+- Don’t share access to the deceased person's online USPS or Informed Delivery accounts with unauthorized individuals.
 
 ## What to do now
-1. **Secure the physical mailbox immediately.**  
-   If you can access the property, empty the mailbox and secure it (working lock; replace if compromised). If you can’t access it safely, use a trusted keyholder, property manager, or landlord to do a same-day check and secure it.
+1. **Secure the physical mailbox at the property immediately.**  
+   **Empty the mailbox and, if the lock appears compromised or you suspect key unauthorized access, replace the lock or install a secure, USPS-approved locking mailbox.** If you cannot access the property safely, coordinate with a trusted property manager or landlord to secure the site.
 
-2. **If you believe theft is happening right now, put safety first.**  
-   If you think someone is actively stealing mail, or you feel unsafe at the property, call **911**.
+2. **Call 911 if you witness mail theft occurring in real-time.**  
+   **Report any active criminal activity or threats to your personal safety at the property to local law enforcement.** Do not attempt to intervene in a theft yourself.
 
-3. **Contact the local Post Office for that address and ask what they can verify or flag.**  
-   Ask to speak with a supervisor and say: **bereavement + suspected fraudulent change-of-address or mail hold**. Be prepared to show ID and, if requested, proof you’re the executor/administrator. Ask what they can do to:
-   - check whether there’s an active **COA (Change of Address)** or **Hold Mail** affecting delivery
-   - place notes/alerts for the carrier or local unit procedures
-   - advise the safest immediate option (for example, holding mail for pickup while records are corrected)
+3. **Visit the local Post Office servicing the deceased's address in person.**  
+   **Ask to speak with a supervisor regarding a "potential fraudulent Change of Address or Hold Mail request for a deceased person."** You must bring:
+   - Your government-issued photo ID.
+   - A certified copy of the death certificate.
+   - Court-certified Letters Testamentary or Letters of Administration proving your status as Executor or Administrator.
+   - A request to check for any active PS Form 3575 (Change of Address) or Hold Mail orders.
 
-4. **Report it to the U.S. Postal Inspection Service (USPIS).**  
-   File a report for suspected mail-related crime (including identity theft / fraudulent change of address or mail hold). Keep the USPIS reference number—banks and other institutions often respond faster when there’s an official report.
+4. **File an official report with the U.S. Postal Inspection Service (USPIS).**  
+   **Call 1-877-876-2455 or file a report online at the USPIS website for mail theft or identity theft.** Obtain a case or reference number, as banks and financial institutions often require this to process estate fraud claims.
 
-5. **Use USPS Hold Mail tactically (only if it won’t harm others at the address).**  
-   If the property is vacant or you need a temporary “freeze,” submit a **Hold Mail** request so mail is held at the Post Office for pickup. Hold Mail typically holds **all mail for all individuals at the address**, so only do this if it won’t disrupt uninvolved household members.
+5. **Place a 30-day USPS Hold Mail request if the property is vacant.**  
+   **Submit an Authorization to Hold Mail (PS Form 8076) to stop all delivery to the address for up to 30 days while you stabilize the estate.** 
+   - Note that online requests submitted before 2:00 A.M. CT can begin the same day.
+   - This holds all mail for everyone at the address; do not use this if other residents still live there and need their mail.
 
-6. **Set up controlled monitoring (if eligible) with realistic expectations.**  
-   If the address is eligible, **USPS Informed Delivery** can show preview images of many **letter-sized** mailpieces and provide package notifications. Not every item is imaged or shown, and sign-up/verification requirements may apply—use it as an early-warning tool, not proof of delivery.
+6. **Submit a formal Change of Address (PS Form 3575) to a secure location.**  
+   **Redirect the deceased's mail to your own address or a secure P.O. Box you control as the authorized representative.** This must be done in person at a Post Office; it cannot be completed online for a deceased person.
 
-7. **Tell the highest-risk senders to pause sensitive mail to the old address.**  
-   Call (don’t email) the bereavement/fraud departments for banks, credit cards, insurers, retirement plan administrators, and any relevant government benefits offices. Ask them to:
-   - add a note: **“Do not change address without executor/administrator verification”**
-   - switch to a **secure online inbox** where possible, or **hold** correspondence until you confirm a safe mailing address
-   - re-issue time-sensitive letters only after you confirm the mail stream is secure
+7. **Contact high-risk senders to pause sensitive correspondence.**  
+   **Call the fraud or bereavement departments of banks, credit card issuers, and insurance companies to request a "Correspondence Hold."** 
+   - Instruct them not to update the mailing address without secondary verification from you.
+   - Request that they switch to secure electronic notifications where possible.
 
-8. **If you suspect broader identity theft, document it and protect yourself quickly.**  
-   Use the federal identity theft reporting route to create a record and checklist. If you think your own identity may be affected (for example, your address/mail has been hijacked), consider a fraud alert or credit freeze for yourself. For the deceased person’s file, ask each institution/credit bureau what documentation they require in a death case.
-
-9. **Start a simple one-page timeline and mail log.**  
-   Record: date of death, when missing mail began, USPS/USPIS reference numbers, which senders say they mailed letters, and dates you checked the mailbox. This supports escalation without you having to re-tell everything under stress.
+8. **Notify the three major credit bureaus to place a "Deceased Alert" on the file.**  
+   **Contact Equifax, Experian, and TransUnion to flag the deceased's Social Security number, which prevents new fraudulent credit lines from being opened through intercepted mail.** You will likely need to mail a copy of the death certificate to each bureau.
 
 ## What can wait
-- You do not need to prove who did it today—your priority is stopping diversion and protecting the estate.
-- You do not need to update every address right now—start with financial and government-related senders that mail access codes, checks, or benefit letters.
-- You do not need to decide on civil/legal steps in the first hours—get USPS/USPIS documentation and stabilize mail control first.
+- You do not need to identify the perpetrator immediately—the priority is securing the mail stream.
+- You do not need to notify low-priority senders (catalogs, non-financial subscriptions) in the first 48 hours.
+- You do not need to decide on filing a civil lawsuit for mail interference until the estate is stabilized.
 
 ## Important reassurance
-Feeling alarmed by missing mail after a death is reasonable—mail often carries access codes, checks, and official notices. Getting USPS/USPIS documentation and shifting mail control to an address you manage are practical steps that reduce risk quickly.
+It is common to feel overwhelmed when mail goes missing, as it often contains the primary evidence of a person's financial life. Taking formal control through the Post Office and USPIS is a standard procedure that effectively cuts off unauthorized access to the estate's information.
 
 ## Scope note
-These are first steps to stabilize mail control and reduce immediate harm. Estate administration, disputes, and longer-term identity protection may require follow-on help (estate attorney, financial institutions’ bereavement teams, or identity theft resources).
+This guide provides first-step stabilization for suspected mail diversion and theft. It does not cover long-term probate litigation or complex identity restoration, which may require an estate attorney.
 
 ## Important note
-This is general information for immediate stabilization and harm prevention, not legal advice. If you’re not yet legally authorized to act for the estate, focus on the safest actions (secure mailbox, report concerns, ask senders to hold/verify) until authority is confirmed.
+This information is for harm prevention and does not constitute legal advice. Authority to manage a deceased person's mail is governed by federal postal regulations and state probate laws; ensure you have proper court documentation before requesting permanent address changes.
 
 ## Additional Resources
+- https://www.usps.com/manage/mail-for-deceased.htm
+- https://www.usps.com/manage/forward.htm
+- https://faq.usps.com/articles/Knowledge/Change-of-Address-The-Basics
 - https://www.uspis.gov/report
-- https://mailtheft.uspis.gov/?ComplaintType=Identity+Theft
-- https://faq.usps.com/s/article/Identity-Theft
-- https://faq.usps.com/s/article/USPS-Hold-Mail-The-Basics
-- https://informeddelivery.usps.com/
-- https://www.identitytheft.gov/
+- https://www.irs.gov/individuals/deceased-person

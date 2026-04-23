@@ -1,73 +1,108 @@
-﻿---
+---
 title: "What to do if… you are asked to hand over a personal device for a workplace investigation"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - asked to hand over phone
-  - asked to hand over laptop
-  - personal device for investigation
-  - workplace investigation phone
-  - workplace investigation laptop
-  - employer wants my phone
-  - employer wants my laptop
-  - bring your own device work
-  - byod investigation request
-  - asked to unlock my phone
-  - asked to share device passcode
-  - asked to give device access
-  - work messages on personal phone
-  - private photos on work investigation
-  - work apps on personal device
-  - asked to install monitoring app
-  - hr asked for my phone
-  - internal investigation device request
-last_reviewed: "2026-01-07"
+  - "asked to share work login"
+  - "share work password request"
+  - "someone asked for my login"
+  - "approve mfa prompt not mine"
+  - "unexpected mfa push notification"
+  - "mfa prompt spam at work"
+  - "mfa fatigue push bombing"
+  - "2fa prompt i did not request"
+  - "work account social engineering"
+  - "phishing message from it"
+  - "boss asked for my password"
+  - "colleague asked for login details"
+  - "verification code request at work"
+  - "approve sign-in request"
+  - "work email hacked concern"
+  - "work account takeover fear"
+  - "fake helpdesk call"
+  - "suspicious teams slack message"
+  - "help i got an unexpected mfa prompt"
+  - "help i shared my work password"
+  - "what do i do if i get an mfa push i didn't start"
+  - "what do i do if it asks for my code"
+  - "my work account is being targeted"
+  - "my boss is asking for my login on slack"
+  - "unexpected number matching request"
+  - "mfa prompt from different city"
+  - "suspicious verification code text"
+  - "help i clicked a support link"
+  - "login details request"
+  - "password sharing request"
+  - "approve sign in"
+  - "mfa prompt spamming"
+  - "mfa notification loop"
+  - "push notification pop up"
+last_reviewed: "2026-03-17"
 ---
-
 # What to do if… you are asked to hand over a personal device for a workplace investigation (USA)
 
 ## Short answer
-Avoid handing over your personal device unlocked on the spot—ask for the request in writing and offer a narrower way to provide only the work-related information they actually need.
+Do not share your login details and do not approve the prompt. Contact your company IT or security team immediately using a known, trusted communication channel to report the incident.
 
 ## Do not do these things
-- Do not hand over your phone/laptop unlocked, or share passcodes/biometrics, without written scope and a clear, limited handling plan; if you’re told it’s mandatory, pause and get advice before consenting.
-- Do not delete messages, wipe the device, or “tidy up” accounts; it can be treated as destruction of evidence even if you’re panicking.
-- Do not sign a broad consent (“all data”, “full access”, “any time”) in a rush.
-- Do not argue policy or law from memory in the moment; keep it factual and ask for specifics.
-- Do not assume you have (or don’t have) privacy rights—rules can vary by state, job type, and whether you’re in a union or a government role.
+- Do not share your password, MFA code, push approval, or recovery info with anyone, including those claiming to be from IT, HR, or leadership.
+- Do not approve an MFA push or verification prompt that you did not initiate, even if you are receiving multiple prompts in a row.
+- Do not click links or install any software sent by the person requesting your credentials.
+- Do not continue the conversation through the same channel that contacted you.
+- Do not wait to see if it happens again before reporting.
+- Do not delete the suspicious message or clear your notification history until IT instructs you to do so.
 
 ## What to do now
-1. **Ask for the request in writing.** You want: what they need, why, the time period, which apps/accounts, who will access it, the method (targeted export vs full-device imaging), and retention/deletion timing.
-2. **Offer narrower alternatives that meet the investigation need.** For example:
-   - export or screenshot only relevant work messages/emails for the specified date range
-   - provide data from employer systems (email server, Teams/Slack admin exports) instead of your personal device
-   - if you have a managed “work profile”/MDM container, offer access to the work container/app only (not personal photos, texts, or apps)
-3. **Ask for the handling safeguards up front.** Request a written plan covering minimization (search terms/date ranges), who will view the material, where any copy will be stored, and when it will be deleted. If your device contains highly sensitive personal material, say so and ask for a limiting method (work-app-only collection or independent filtering/redaction).
-4. **Check the policies you agreed to.** Look for BYOD, acceptable use, investigation/cooperation, MDM, and “no expectation of privacy” language. Note the exact wording and the date you accepted it.
-5. **If you are union-represented in a private-sector workplace covered by the NLRA, invoke Weingarten rights.** If you reasonably believe questioning could lead to discipline, clearly request a union representative before any investigatory interview or device review discussion. (You generally must request representation to trigger it.)
-6. **If you work for a government/public employer, pause and get support.** Personal-device searches can raise additional legal/policy issues in some contexts, and public-sector representation rules vary. Ask for the agency policy and consider contacting your union (if any) or an attorney before consenting.
-7. **If they want to take the device, reduce immediate harm and disputes.** Ask for:
-   - a written receipt (make/model/serial if possible), who holds it, and expected return time
-   - confirmation of whether they will copy (“image”) the device or only collect specific work data
-   - time to secure access to essentials (e.g., move 2-factor authentication to another device, note key contact numbers) without deleting or altering investigation-relevant material
-8. **Document everything.** Write down dates/times, who asked, what they said, any deadlines, and keep copies of all messages/forms. If you provide exports/screenshots, record exactly what you provided and the date range.
+1. **Refuse the request and stop all interaction with the source.**  
+   - If you received a push notification: tap Deny or Reject, or simply ignore the prompt if a Deny option is unavailable.  
+   - If a person is contacting you via chat, email, or phone: state that you are unable to share credentials per policy and end the call or close the chat.
+
+2. **Report the attempt to your internal security team or help desk through a verified channel.**  
+   **Use a corporate directory or internal portal to find the correct contact method rather than using any information provided in the suspicious request.**  
+   - Provide the approximate time of the request.  
+   - Detail the medium used (e.g., Teams, Slack, SMS, or phone call).  
+   - Mention if the prompt included a specific location or device type that was not yours.
+
+3. **Inform IT immediately if you have already shared information or approved a prompt.**  
+   **Clearly state that your account may be compromised so they can prioritize your ticket for session revocation and password reset.**  
+   - Ask for a forced sign-out of all active sessions.  
+   - Request a review of recent sign-in logs for unusual IP addresses.
+
+4. **Change your corporate password from a known-safe device if your policy permits.**  
+   **Access your company password reset portal directly by typing the URL into your browser rather than clicking a link.**  
+   - If you are unable to log in, notify IT that you may be locked out of your account.
+
+5. **Isolate any device that you believe may have been compromised by a malicious link or file.**  
+   **If you downloaded an attachment or installed software, disconnect the device from the Wi-Fi or Ethernet and wait for IT instructions.**  
+   - Do not attempt to run third-party "cleaner" tools unless they are approved by your employer.
+
+6. **Document the evidence by taking screenshots of the request.**  
+   **Capture the sender's handle, the timestamp, and the specific text of the message.**  
+   - Save these images locally and provide them to your security team through their official reporting intake process.
+
+7. **Use external reporting routes for work-related phishing only if explicitly permitted by your employer.**  
+   - Forward phishing emails to reportphishing@apwg.org.  
+   - Forward suspicious text messages to SPAM (7726) on your mobile device.  
+   - Report significant cyber-enabled fraud to the FBI at ic3.gov.
 
 ## What can wait
-- You do not need to decide right now whether to quit, file a complaint, or start a lawsuit.
-- You do not need to give a full narrative of events immediately; it’s reasonable to ask for the allegation and the evidence they’re seeking first.
-- You can sort out longer-term boundaries (separate work device, removing work apps from personal devices) after the urgent request is handled.
+- You do not need to determine the identity of the attacker or their motive.
+- You do not need to notify your entire contact list; IT will handle organizational alerts if necessary.
+- You do not need to decide if this requires an HR report immediately; focus on securing the account first.
+- You do not need to change passwords for unrelated personal accounts right now unless you reused the same password.
 
 ## Important reassurance
-Being asked for your personal phone or laptop can feel threatening and humiliating. Slowing it down, getting the request in writing, and offering a limited way to cooperate is a practical way to protect yourself.
+Unexpected MFA prompts and credential requests are common tactics used to bypass security. By refusing the request and reporting it, you are following standard security protocol. Many organizations now use "number matching" or phishing-resistant FIDO keys specifically to prevent these types of "push bombing" attacks.
 
 ## Scope note
-These are first steps for the first hours/day. The right approach can depend on your state, your job (private vs public sector), union status, and your employer’s BYOD/MDM setup.
+This guide provides first-step stabilization for a potential account takeover attempt. Long-term recovery, forensic analysis, and formal incident documentation will be managed by your organization's security and legal departments.
 
 ## Important note
-This is general information, not legal advice. If you’re under pressure to surrender a device or provide passwords immediately, consider getting help from your union (if applicable) or a qualified employment attorney in your state before you consent.
+This guide provides general information for crisis stabilization and does not constitute legal or professional security advice. Always prioritize the specific incident response policies and direct instructions provided by your employer’s IT or security department.
 
 ## Additional Resources
-- https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/weingarten-rights
-- https://www.nlrb.gov/sites/default/files/attachments/basic-page/node-3024/basicguide.pdf
-- https://beta.dol.gov/policy-governance/protections-rights/unions-collective-bargaining/employee-rights-nlra
-- https://www.oyez.org/cases/1974/73-1363
+- https://www.ncsl.org/technology-and-communication/privacy-of-employee-and-student-social-media-accounts
+- https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=980.&lawCode=LAB
+- https://labor.illinois.gov/laws-rules/conmed/privacy-workplace.html
+- https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gle&enactments=false&section=3-712
+- https://www.nlrb.gov/news-outreach/news-story/nlrb-general-counsel-issues-memo-on-unlawful-electronic-surveillance-and
