@@ -1,108 +1,94 @@
----
+﻿---
 title: "What to do if… your employer stops reimbursing approved expenses without notice"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "overtime not paid"
-  - "missing overtime pay"
-  - "overtime missing from payslip"
-  - "shift premium missing"
-  - "shift allowance missing"
-  - "unsocial hours premium missing"
-  - "night shift premium missing"
-  - "weekend premium missing"
-  - "bank holiday premium missing"
-  - "underpaid wages"
-  - "paid wrong amount"
-  - "payroll error overtime"
-  - "timesheet hours missing"
-  - "rota hours not paid"
-  - "unpaid extra hours"
-  - "short pay this month"
-  - "wage deduction problem"
-  - "missing shift differential"
-  - "help i am missing overtime pay"
-  - "help i have not been paid my shift premium"
-  - "my overtime is not on my payslip"
-  - "my shift allowance is wrong"
-  - "what do i do if my overtime is missing"
-  - "what do i do if i was underpaid for shifts"
-  - "what do i do if my bank holiday pay is missing"
-  - "what do i do if overtime pay is wrong"
-  - "missing overtime on pay stub"
-  - "unpaid weekend premium"
-  - "shift allowance error"
-  - "overtime calculation mistake"
-  - "missing night shift pay"
-  - "overtime hours not recorded"
-  - "shift premium calculation"
-  - "unpaid overtime UK"
-  - "missing shift pay UK"
-last_reviewed: "2026-03-17"
+  - employer stopped reimbursing expenses
+  - approved expenses not paid
+  - expense reimbursement suddenly stopped
+  - expenses not reimbursed after approval
+  - unpaid work expenses
+  - business expenses not repaid
+  - travel expenses not reimbursed
+  - mileage not reimbursed
+  - expense claim ignored
+  - expense payment delayed
+  - expense reimbursements frozen
+  - out of pocket work costs
+  - company won’t repay expenses
+  - employer changed expenses policy
+  - expenses not paid this month
+  - reimbursement withheld without notice
+  - submitted expenses not paid
+  - reimbursment not paid
+last_reviewed: "2026-01-07"
 ---
-# What to do if… your employer stops reimbursing approved expenses without notice (UK)
 
+# What to do if… your employer stops reimbursing approved expenses without notice (UK)
 ## Short answer
-Document the discrepancy by matching your rota to your payslip and submit a written request for a correction (off-cycle payment) to your manager or payroll department.
+Pause any further out-of-pocket spending for work, and put a clear written request in today: what was approved, what you paid, what you’re owed, and the date you need payment by.
 
 ## Do not do these things
-- Do not assume the error will automatically correct itself in the next pay cycle without a written confirmation.
-- Do not sign new agreements or "corrected" timesheets that re-classify your hours or rates unless you have verified the math.
-- Do not attempt to offset the loss by manually adding hours to future timesheets.
-- Do not use aggressive or accusatory language in communications; maintain a factual, record-based approach.
-- Do not resign immediately, as this can complicate the process of recovering outstanding wages and premiums.
+- Do not keep paying out-of-pocket “to be helpful” while reimbursement is uncertain.
+- Do not assume it’s “just timing” without getting a written explanation and a payment date.
+- Do not send only informal messages—keep an itemised list with receipts and the approval.
+- Do not threaten, accuse, or post about it publicly while you’re still trying to get it fixed.
+- Do not let it drift: if approved expenses remain unpaid, log dates/amounts and watch any formal time limits.
 
 ## What to do now
-1. **Secure all primary evidence for the affected pay period immediately.**
-   - payslips for the current and previous month
-   - rotas or shift schedules
-   - clock-in and clock-out records or digital log-ins
-   - written approvals for overtime or additional shifts
-   - emails or messages confirming shift changes or premium eligibility
-2. **Create a specific itemised list of the shortfall for payroll processing.**
-   - specific dates and times worked
-   - total hours worked versus hours paid
-   - the specific premium type (e.g., time-and-a-half, night rate, bank holiday premium)
-   - the monetary value of the missing amount
-3. **Review your contract of employment and staff handbook for pay triggers.**
-   - Look for "cut-off dates" for payroll processing which may have caused a delay.
-   - Check if premiums require specific manager "sign-off" or a minimum number of hours to activate.
-4. **Request a formal explanation and an off-cycle payment in writing.**
-   - Ask for the specific reason for the omission (e.g., technical error, missing approval).
-   - If the delay causes financial hardship, request a "manual payment" or "BACS advance" before the next scheduled payday.
-5. **Confirm any verbal instructions or promises via a follow-up email.**
-   - Summarise what was said, who said it, and the date the payment is promised.
-   - Keep a copy of this correspondence outside of your work email account.
-6. **Verify your rights under the Agency Workers Regulations 2010 if applicable.**
-   - If you have worked in the same role for 12 weeks, you are generally entitled to the same basic pay conditions as a direct hire, including overtime and shift premiums.
-   - Request your agency to provide a "written statement" of the comparable pay rates if you suspect an underpayment.
-7. **Calculate if the missing pay brings your average rate below the National Minimum Wage.**
-   - If your total pay divided by total hours worked is below the statutory minimum (£12.71 for age 21+ from April 2026), you can report this to the Fair Work Agency (FWA).
-8. **Monitor the strict legal time limits for "unlawful deduction from wages" claims.**
-   - Most claims must be started within 3 months minus 1 day of the missing payment.
-   - Note: Under the Employment Rights Act 2025, this limit is scheduled to increase to 6 months for claims arising after October 2026.
-9. **Follow the government insolvency route if the employer has stopped trading.**
-   - Obtain the "CN" (case reference) number from the insolvency practitioner.
-   - You can claim up to 8 weeks of unpaid wages (including contractual overtime) through the Redundancy Payments Service, capped at £719 per week.
+1. **Pause new spending immediately.**  
+   If you’re being asked to book travel, buy equipment, entertain clients, or pay mileage, reply calmly (in writing): you cannot incur further costs personally until the approved reimbursements are paid. Ask for a **company card, booking through a central travel system, or a cash advance** instead.
+
+2. **Make a clean “evidence pack” (10 minutes).**  
+   Create one folder (or a single PDF) containing:
+   - the approval (email/chat screenshot showing who approved and when)
+   - the expenses policy/guidance you followed
+   - receipts/invoices
+   - your submitted claim(s) and any reference numbers
+   - any responses you’ve had (including “seen”/acknowledged messages)
+
+3. **Send one clear payment request (today).**  
+   Email your manager and whoever processes expenses (finance/payroll/shared mailbox). Include:
+   - total owed
+   - an itemised list (date / vendor / amount / reason / where approval is)
+   - when you submitted the claim(s)
+   - a direct question: “**When will this be paid, and what changed?**”
+   - a boundary: you are pausing further out-of-pocket spending unless a company-funded method is provided
+
+4. **Ask for a short-term safety option if money is tight.**  
+   If this is causing overdrafts/late fees, say so plainly and ask whether they can:
+   - run an **off-cycle payment**, or
+   - provide a **temporary advance**, or
+   - switch you to **direct supplier booking** so you are not fronting costs
+
+5. **If you get a vague answer, escalate formally (quickly).**  
+   If they will not give a payment date/reason (or keep delaying), raise it via your employer’s **formal grievance process** in writing. Keep it factual: “approved expenses not reimbursed,” amounts, dates, impact, and what resolution you want (payment by a specific date, and confirmation of the policy going forward).  
+   If you’re invited to a formal grievance meeting that qualifies, **by law you can bring a companion** (a work colleague or trade union representative/official).
+
+6. **Protect your options if it’s not resolving.**  
+   Unpaid approved expenses can be serious (and may depend on what your contract/policy says and what was agreed). If you may need to take it further, note:
+   - For **most types of employment tribunal claim**, you must **notify Acas and go through early conciliation first** (some claims are exempt).
+   - There are strict time limits; **in most cases it’s “3 months minus 1 day”** from the relevant event, but some claim types have different limits.  
+   You do not need to choose a formal route today—but you do need to avoid missing deadlines.
 
 ## What can wait
-- You do not need to file a formal grievance on day one; wait for the initial response from payroll or your manager.
-- You do not need to appoint a solicitor or legal representative for the initial internal enquiry.
-- You do not need to calculate your entire year's potential underpayment if only the current month is affected.
-- You do not need to decide whether to take the matter to a tribunal until you have completed the internal resolution process and Acas Early Conciliation.
+- You do not need to decide today whether to quit, threaten resignation, or “go legal.”
+- You do not need to argue about intent (cashflow crisis vs error vs misconduct) to take effective first steps.
+- You do not need a perfect spreadsheet—get the key approvals/receipts together and get the request logged.
 
 ## Important reassurance
-Missing premiums are frequently caused by administrative errors such as "syncing" failures between digital rotas and payroll software. Requesting a correction is a standard procedural step, and employers are legally prohibited from subjecting you to "detriment" for asserting your statutory right to be paid correctly.
+It’s reasonable to feel alarmed when money you fronted for work suddenly is not returned—especially if it was approved and you relied on being repaid. Treat this as a documentation-and-boundaries problem first: pause new spending, put the facts in writing, and push for a clear timeline.
 
 ## Scope note
-This guide covers first-step stabilisation for missing contractual or statutory premiums. It does not cover long-term industrial disputes or complex holiday pay back-claims which may require trade union or specialist legal assistance.
+This is first-steps guidance to stabilise the situation and avoid financial harm. Later steps (claims, legal strategy, resignation decisions) depend on your contract/policy wording, your status, and how long the non-payment has been happening.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Entitlements to overtime and shift premiums are primarily governed by the specific wording of your employment contract. If your employer is insolvent or if you are an agency worker, different statutory caps and qualifying periods apply. Always verify current statutory rates and tribunal deadlines as these are subject to legislative change in 2026.
+This is general information, not legal advice. Employment rights and the best next step can vary with your contract terms and circumstances. If you’re unsure, get independent advice before taking irreversible action.
 
 ## Additional Resources
 - https://www.acas.org.uk/expenses
-- https://www.citizensadvice.org.uk/work/pay/problems-getting-paid/
-- https://www.gov.uk/tax-relief-for-employees
-- https://www.acas.org.uk/if-your-wages-are-not-paid/raising-an-issue-with-your-employer
-- https://www.gov.uk/pay-and-work-rights
+- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
+- https://www.gov.uk/handling-employee-grievance/grievance-procedure
+- https://www.acas.org.uk/early-conciliation/how-early-conciliation-works
+- https://www.acas.org.uk/employment-tribunal-time-limits
+- https://www.legislation.gov.uk/ukpga/1999/26/notes/division/3/2/4

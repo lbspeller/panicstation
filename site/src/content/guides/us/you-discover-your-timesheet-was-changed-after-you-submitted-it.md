@@ -1,88 +1,91 @@
----
+﻿---
 title: "What to do if… you discover your timesheet was changed after you submitted it"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "it-laptop-collection"
-  - "company-laptop-return"
-  - "work-equipment-pickup"
-  - "sudden-it-request"
-  - "employer-laptop-recall"
-  - "work-computer-confiscation"
-  - "immediate-laptop-return"
-  - "what-do-i-do-if-it-wants-my-laptop"
-  - "what-do-i-do-if-work-takes-my-laptop"
-  - "what-do-i-do-if-hr-collects-my-equipment"
-  - "what-do-i-do-if-i-am-locked-out"
-  - "help-i-have-to-return-my-laptop-now"
-  - "help-i-am-being-investigated-at-work"
-  - "my-employer-took-my-laptop"
-  - "my-work-access-was-removed"
-  - "handover-receipt-for-laptop"
-  - "equipment-condition-photos"
-  - "personal-files-on-work-laptop"
-  - "private-accounts-on-company-device"
-  - "final-paycheck-rules"
-  - "weingarten-rights-explained"
-  - "investigatory-interview-witness"
-  - "employment-status-confirmation"
-  - "workplace-suspension-steps"
-  - "internal-investigation-procedure"
-  - "unexpected-equipment-recall"
-  - "digital-evidence-preservation"
-  - "laptop-serial-number-log"
-  - "it-ticket-laptop-return"
-  - "sudden-loss-of-access"
-last_reviewed: "2026-03-17"
+  - timesheet changed after submission
+  - time card edited
+  - timecard altered
+  - manager changed hours
+  - clock in clock out changed
+  - shift hours reduced
+  - overtime missing
+  - paystub hours wrong
+  - underpaid wages hours
+  - payroll discrepancy
+  - timekeeping app edited
+  - punch log changed
+  - hours worked dispute
+  - wage theft concern
+  - submitted timesheet modified
+  - timesheet audit trail
+  - pay period hours missing
+  - time record correction request
+last_reviewed: "2026-01-08"
 ---
-# What to do if… you discover your timesheet was changed after you submitted it (USA)
 
+# What to do if… you discover your timesheet was changed after you submitted it (USA)
 ## Short answer
-Hand over the device without altering its contents, but do not release it until you have recorded the serial number and obtained a dated receipt or email confirmation from the collector.
+Lock down your proof first (copies/screenshots of submitted vs. changed hours), then dispute it in writing to payroll/your supervisor and ask for the system’s edit history and a correction before the next paycheck.
 
 ## Do not do these things
-- Do not refuse the request or physically block the collection of company property.
-- Do not delete browser history, wipe files, or factory reset the device.
-- Do not transfer work files or screenshots to personal cloud storage or email.
-- Do not attempt to log back into company systems once access is revoked.
-- Do not discuss the situation on internal messaging apps like Slack or Teams.
-- Do not sign any disciplinary or separation agreements during the initial handover.
+- Do not confront someone with accusations in a hallway conversation—keep it factual and in writing.
+- Do not change the time entries back yourself if it could be logged as you altering records.
+- Do not accept a “we’ll fix it later” without a clear written plan for when and how it will be corrected.
+- Do not sign any statement confirming hours you don’t agree with.
+- Do not quit on the spot if you need the income—pause, document, and escalate through the right channel.
 
 ## What to do now
-1. **Request the authorization details and the destination of the device.** Ask the IT representative for the ticket number or the name of the manager/HR partner who authorized the immediate collection.
-2. **Log the physical details of the handover before the device is moved.** 
-   - Write down the **exact time/date**, **collector’s name**, and **asset tag/serial number**.
-   - Note the **physical condition** of the screen and casing.
-   - List **all peripherals** being taken (power cables, adapters, security badges).
-3. **Capture photographic evidence of the hardware status.** Take clear photos of the device turned on (if possible) to show it is functional, and photos of any existing damage to prevent later claims of user-caused breakage.
-4. **Change passwords for personal accounts from a separate, personal device.** If you were signed into personal email, banking, or social media on the work laptop, use a different phone or computer to log out of all sessions and update passwords immediately.
-5. **Request a written confirmation of receipt.** Ask the collector to send a brief email or provide a signed note stating: "Received [Model/Serial] from [Your Name] on [Date/Time]."
-6. **Send a status inquiry to HR via personal email.** Ask for immediate clarification on the following:
-   - Your current employment status (active, suspended with pay, or suspended without pay).
-   - Expected work duties for the remainder of the day.
-   - The primary point of contact for future communication.
-7. **Identify if a meeting constitutes an "investigatory interview" before participating.**
-   - If you are in a union, state: "If this discussion could lead to my being disciplined or terminated, I respectfully request that my union representative be present." 
-   - If you are not in a union, you do not have a federal "Weingarten" right to a witness, but you may still request to have a witness present or ask for questions in writing.
-8. **Check your state's final paycheck requirements.** If you suspect termination, verify if your state (such as California or Colorado) requires "immediate" payment of all earned wages and accrued vacation time upon involuntary separation.
+1. **Preserve evidence immediately.**  
+   - Screenshot the timecard showing the changed entries, dates, total hours, and any “edited by / edited at / history” view.  
+   - Save your original submission/approval confirmation (email/app notification).  
+   - Save your schedule/rota, if you have one.
+
+2. **Create your own “hours worked” record for the affected days.**  
+   Write down start/end times, meal breaks, and any off-site work. Save supporting items you already have (calendar entries, dispatch tickets, work orders, messages about shift changes).
+
+3. **Dispute it in writing today (simple and specific).**  
+   Email payroll and your supervisor (or HR, if that’s your process):  
+   - the pay period/date range  
+   - the exact entries that changed  
+   - your claimed correct hours  
+   - what you want: **“Please provide the edit history and correct the timecard for this payroll run (or confirm how/when the correction will be paid).”**
+
+4. **Ask for the audit trail and the correction method in writing.**  
+   If they say “we had to adjust it,” ask: who made the edit, what policy they relied on, and whether the correction will be handled by a timecard fix before payroll or a separate payment later.
+
+5. **Check your paystub (or upcoming pay) for impact.**  
+   - If you’ve already been paid, identify the shortfall (hours × rate, plus any overtime you believe applies).  
+   - If payday hasn’t happened yet, ask payroll to confirm what hours they will use and the deadline to correct.
+
+6. **Use internal escalation if you’re brushed off.**  
+   - If you’re unionized, contact your steward/rep and follow the grievance process.  
+   - If you’re not, escalate to HR or a higher manager with your screenshots and your written timeline.
+
+7. **Know you’re not being “difficult” by asking for records.**  
+   Under federal FLSA rules, covered employers generally have to keep payroll records for **years**, and keep records used to compute wages (including time cards/time records) for a period as well. You’re asking for a correction to the record that drives your pay.
+
+8. **If pay is being shorted or the pattern continues, you can contact WHD (and retaliation is prohibited).**  
+   You can ask questions or file a complaint with the U.S. Department of Labor’s **Wage and Hour Division (WHD)**. Retaliation for asserting wage/hour rights or cooperating with an investigation is prohibited under the FLSA.
 
 ## What can wait
-- You do not need to provide a statement or defense regarding the "why" until you are officially questioned.
-- You do not need to decide on resignation or legal counsel in the first hour.
-- You do not need to return personal items stored in the office unless specifically told to vacate the premises.
+- You do **not** need to decide today whether to sue, go to the media, or resign.
+- You do **not** need to prove intent right now—focus on preserving records and getting the hours corrected/paid.
+- You can wait to do a detailed pay-rule calculation until after you’ve confirmed the employer’s stated reason and correction plan.
 
 ## Important reassurance
-Sudden equipment collection is a standard corporate protocol for various scenarios, including security audits, software migrations, or internal reviews. Losing access to your laptop is a physical event that does not, by itself, determine the final outcome of your employment status. Following a strict handover process protects you from later accusations of data loss or property damage.
+Seeing your hours changed can feel violating and destabilizing. Taking calm, concrete steps—screenshots, a written dispute, and a clear request for the edit history—often resolves honest errors and gives you strong footing if it’s not an error.
 
 ## Scope note
-This guide covers first-step stabilization and property handover protocols only. It does not provide legal strategy for wrongful termination or long-term employment litigation.
+These are first actions to protect your record and pay and to route the issue into a process that can correct it. Next steps depend on your job type, state rules, and what the employer says happened.
 
 ## Important note
-Employment laws regarding equipment and privacy vary significantly by state and specific employment contracts. Information regarding labor rights (such as Weingarten rights) is subject to National Labor Relations Board (NLRB) rulings which may change. If you are placed on unpaid leave or terminated, consult your state's Department of Labor or a qualified employment attorney.
+This is general information, not legal advice. Wage and hour rights can vary by state and by whether you’re exempt/nonexempt. If you’re unsure which rules apply to you, or the employer won’t correct the record, consider contacting an appropriate worker-rights resource (such as the U.S. Department of Labor’s WHD or your state labor agency).
 
 ## Additional Resources
-- https://www.dol.gov/agencies/whd/contact/complaints
-- https://www.dol.gov/agencies/whd/contact/complaints/information
 - https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping
-- https://www.dol.gov/agencies/whd/fact-sheets/22-flsa-hours-worked
+- https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-A/part-516
+- https://www.dol.gov/agencies/whd/contact/complaints
+- https://www.worker.gov/actions-whd-claim/
+- https://www.dol.gov/agencies/whd/retaliation
 - https://www.dol.gov/agencies/whd/fact-sheets/77a-flsa-prohibiting-retaliation

@@ -1,99 +1,81 @@
----
+﻿---
 title: "What to do if… you receive an email asking you to change payroll bank details and it feels suspicious"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "unsafe practice at work"
-  - "unsafe workplace situation"
-  - "dangerous work activity"
-  - "workplace safety violation"
-  - "told not to report safety"
-  - "pressured to stay quiet"
-  - "supervisor says do not report"
-  - "safety concern at work"
-  - "whistleblowing about safety"
-  - "fear of retaliation at work"
-  - "cover up a near miss"
-  - "unsafe procedure being used"
-  - "reporting wrongdoing at work"
-  - "workplace hazard witnessed"
-  - "asked to break safety rules"
-  - "discouraged from reporting"
-  - "blocked from incident reporting"
-  - "threats for reporting safety"
-  - "help i saw something unsafe"
-  - "what do i do if my boss hid a hazard"
-  - "my manager told me not to report an injury"
-  - "witnessed dangerous work behavior"
-  - "retaliation for safety reporting"
-  - "osha whistleblower complaint"
-  - "workplace safety recordkeeping"
-  - "hazard reporting blocked"
-  - "safety violation cover up"
-  - "witnessed unsafe practice"
-  - "report unsafe practice"
-  - "unsafe practice reporting"
-last_reviewed: "2026-03-17"
+  - suspicious payroll email
+  - change payroll bank details
+  - payroll direct deposit scam
+  - direct deposit change request
+  - payroll diversion attempt
+  - fake hr payroll request
+  - bank account change email
+  - urgent payroll update email
+  - payroll phishing message
+  - salary payment redirected
+  - business email compromise
+  - employee self service portal scam
+  - payroll account takeover
+  - paycheck deposit redirected
+  - update bank details link
+  - unexpected payroll instruction
+  - impersonation finance request
+  - payroll identity fraud
+  - new bank details request
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… you receive an email asking you to change payroll bank details and it feels suspicious (USA)
 
 ## Short answer
-Isolate yourself from the hazard and create a factual record of the observation and the instruction to stay silent. Report the hazard through a verifiable channel, such as an official safety system or a direct email to HR or a safety officer, to prevent it from being hidden.
+Don’t act from the email. Verify through your employer’s known HR/payroll channels and alert HR/payroll and IT/security immediately so they can lock down your direct deposit and block the scam.
 
 ## Do not do these things
-- Do not ignore a serious hazard or a "near miss" because of verbal instructions to keep it quiet.
-- Do not engage in arguments, accusations, or workplace politics regarding the instruction.
-- Do not post details about the hazard or the employer on social media or public forums.
-- Do not delete your own personal records, photos, or notes of the event.
-- Do not sign any document that falsely claims a hazard is resolved or that an incident did not occur.
-- Do not place yourself in physical danger or violate restricted area protocols to gather evidence.
+- Don’t click the link or open attachments (even if it looks like your payroll portal).
+- Don’t reply to the email or continue the conversation by email or text.
+- Don’t call any phone number in the message or use any “helpdesk” link it provides.
+- Don’t change direct deposit details based only on an email request.
+- Don’t forward it broadly to coworkers (send it only to the right internal reporting channel).
+- If you already entered credentials, don’t wait until payday to see what happens.
 
 ## What to do now
-1. **Ensure immediate physical safety for yourself and others.**  
-   If the hazard poses an immediate threat of injury or death, move away from the area and alert anyone in the vicinity to the danger. If an emergency has already occurred or is imminent, call **911** immediately.
-
-2. **Create a contemporaneous factual record.**  
-   Write down the date, time, specific location, and a description of what you saw. Include the names of those present and the exact words used by anyone who told you not to report the issue. Keep this record in a secure, personal location rather than on a work device.
-
-3. **Submit a formal report through a documented channel.**  
-   Use your employer’s official safety reporting software, an internal ethics hotline, or send a brief, factual email to a supervisor or HR representative. Documentation is essential to ensure the report cannot be claimed as "never received."
-   - State the facts of the hazard.
-   - Mention the risk of injury or non-compliance.
-   - Retain a copy of the sent timestamp and the recipient list.
-
-4. **Identify your specific jurisdiction and coverage.**  
-   Determine if your workplace is covered by federal OSHA or a state-approved OSHA plan. If you are a state or local government employee, you are generally covered only if your state has an approved State Plan that includes public sector workers.
-
-5. **File a safety and health complaint with OSHA if the hazard remains.**  
-   You have the right to request an OSHA inspection if you believe there is a serious hazard or that your employer is not following safety standards. This can be done online, by mail, or by calling **1-800-321-OSHA (6742)**. You may request that your identity remains confidential from your employer.
-
-6. **Monitor for retaliatory actions and note the 30-day deadline.**  
-   If you experience an "adverse action" (such as a firing, demotion, pay cut, or threat) after reporting a hazard, you must file a whistleblower retaliation complaint under Section 11(c) of the OSH Act. This complaint must generally be filed within **30 days** of the retaliatory act.
-
-7. **Escalate to the appropriate industry regulator if applicable.**  
-   Some industries have specific safety regulators that take precedence over OSHA.
-   - Aviation: Federal Aviation Administration (FAA).
-   - Mining: Mine Safety and Health Administration (MSHA).
-   - Interstate Trucking: Federal Motor Carrier Safety Administration (FMCSA).
+1. **Verify using a trusted channel you already know.**  
+   Contact HR/payroll using the number in your employee directory/handbook, a trusted internal directory, or your company intranet. Ask: “Did you request a change to my direct deposit details?”
+2. **Check your payroll/self-service portal from a clean route.**  
+   Do not use the email link. Manually open the site the way you normally do (bookmark/typed URL). Look for **recent changes** to direct deposit, contact info, or security settings, and for any password-reset notices you didn’t initiate.
+3. **Ask payroll to lock down your direct deposit immediately.**  
+   Request a **temporary hold on any direct deposit changes** on your employee profile until you confirm through their normal identity checks. If a payroll run is near, ask them to confirm **which account** your next pay is scheduled to go to and what their change cut-off is.
+4. **Report it to IT/security right away.**  
+   Use your company’s official method (phishing-report button, security inbox, or service desk). IT can quarantine the message, block domains, and check for mailbox compromise.
+5. **If you clicked or entered credentials, treat it as a compromise.**  
+   - Change your work password from the legitimate login page (not from the email).  
+   - Turn on MFA if available, or ask IT to help you enable it.  
+   - Tell IT exactly what you clicked and what you typed.
+6. **If you shared sensitive personal info, reduce identity-theft risk.**  
+   Tell HR/payroll what was shared (routing/account numbers, address, SSN, etc.). If SSN or other high-risk info was exposed, consider placing a **fraud alert or credit freeze** with the major credit bureaus, and follow identity-theft recovery steps if needed.
+7. **If money was diverted (or you’re not sure), contact your bank immediately.**  
+   Ask what they can do to stop or recall the transfer and what documentation they need from payroll. Also keep payroll in the loop so they can confirm the payment path and timing.
+8. **Report externally if appropriate.**  
+   You can file a complaint with the FBI’s Internet Crime Complaint Center (**IC3**) and report scams to the Federal Trade Commission via **ReportFraud**.
 
 ## What can wait
-- You do not need to decide whether to resign or seek legal counsel immediately.
-- You do not need to prove the employer’s intent or "motive" for hiding the report.
-- You do not need to wait for a hazard to cause an injury before you are allowed to report it.
-- You do not need to confirm that a specific OSHA standard was violated before filing a complaint.
+- You don’t need to investigate the scam or argue with the sender.
+- You don’t need to make big decisions today (closing accounts, legal steps) unless you confirm money was diverted or identity data was exposed.
+- You can handle longer-term security improvements later, once HR/IT confirms your payroll record is safe.
 
 ## Important reassurance
-The pressure to stay silent about workplace hazards is a common experience, but federal law explicitly protects your right to speak up about safety. Taking a factual, procedural approach helps move the focus from personal conflict to the physical safety of the environment.
+This is a common workplace scam because it targets urgency and routine payroll tasks. Hesitating is the right instinct. Your job now is to slow down, verify through known channels, and get HR/IT involved.
 
 ## Scope note
-This guide provides first-step stabilization and reporting procedures for unsafe workplace practices. It does not cover long-term legal strategies, civil litigation, or specific union grievance procedures.
+These are immediate first steps to prevent paycheck diversion and contain a possible account compromise. Follow-up steps depend on what HR/IT and your bank confirm happened.
 
 ## Important note
-This information is for general guidance and is not legal advice. Safety regulations and whistleblower protections vary significantly between federal jurisdiction and various state-run programs. If you are in immediate danger, prioritize emergency services and physical exit over documentation.
+This guide is general information, not legal, financial, or cybersecurity advice. Policies and payroll systems differ by employer and state. If funds were diverted or an account may be compromised, escalate to your employer’s payroll/IT contacts and your financial institution promptly.
 
 ## Additional Resources
-- https://www.ic3.gov/PSA/2019/PSA190910
-- https://www.ic3.gov/PSA/2024/PSA240911
 - https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise
+- https://www.ic3.gov/PSA/2018/PSA180918
 - https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
-- https://www.ic3.gov/CrimeInfo/AccountTakeover
+- https://reportfraud.ftc.gov/
+- https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts
+- https://www.identitytheft.gov/Info-Lost-or-Stolen

@@ -1,103 +1,82 @@
----
+﻿---
 title: "What to do if… you are told your expense claim will not be paid despite prior approval"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "false information in hr record"
-  - "incorrect personnel file entry"
-  - "wrong hr file details"
-  - "hr record has mistakes"
-  - "false disciplinary record"
-  - "inaccurate performance note"
-  - "personnel file misinformation"
-  - "hr file says i did"
-  - "incorrect employment record"
-  - "wrong write up in file"
-  - "false allegation at work file"
-  - "hr notes are wrong"
-  - "personnel record error found"
-  - "wrong termination reason record"
-  - "incorrect background check info"
-  - "dispute background report error"
-  - "hr file correction request"
-  - "personnel file contains lies"
-  - "what do i do if hr record is wrong"
-  - "what do i do if my personnel file has errors"
-  - "what do i do if workplace records are false"
-  - "what do i do if i find mistakes in employee file"
-  - "help i found lies in my hr file"
-  - "help i have wrong info in my employment record"
-  - "help i need to fix my personnel file"
-  - "help i found false claims in my work record"
-  - "smell of burning bridges at work"
-  - "visible errors in work history"
-  - "unusual heat in hr meeting"
-  - "sudden noise about performance"
-  - "personnel file access"
-  - "hr record correction"
-  - "employment file dispute"
-  - "work record inaccuracy"
-  - "disciplinary record mistake"
-last_reviewed: "2026-03-17"
+  - expense reimbursement denied
+  - approved expense not paid
+  - expense report rejected
+  - prior approval reversed
+  - work expenses unpaid
+  - business expense refusal
+  - reimbursement delayed unexpectedly
+  - finance says non reimbursable
+  - receipts submitted already
+  - expense claim stuck
+  - manager approved then denied
+  - out of pocket for work
+  - told expense violates policy
+  - payroll refused reimbursement
+  - reimbursement exception request
+  - company changed expense policy
+  - expense coded wrong
+  - claim denied after travel
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are told your expense claim will not be paid despite prior approval (USA)
 
 ## Short answer
-Identify the specific inaccuracy, request a formal correction or the attachment of a written rebuttal in writing, and demand that the information not be used for pending employment decisions while under dispute.
+Get the denial and its reason in writing, then respond with the prior approval and a clean itemized summary asking what exact fix (if any) is required to pay it. If they still refuse, escalate through HR/payroll and (if relevant) your state’s wage-claim options.
 
 ## Do not do these things
-- Do not attempt to physically or digitally alter, delete, or remove any document from the file yourself.
-- Do not send aggressive or accusatory communications to the suspected author of the note.
-- Do not sign any disciplinary acknowledgments or performance plans that contain the false information while the dispute is active.
-- Do not post details of the inaccuracy on internal messaging platforms or public social media.
-- Do not quit or threaten to resign until you have documented the error and the employer's response.
+- Do not keep spending your own money for work without fresh written approval that explicitly says it’s reimbursable (and notes limits).
+- Do not send angry messages or mass emails — it can turn a fixable admin issue into a conduct dispute.
+- Do not sign a statement that the expense was “personal” or “unauthorized” if you disagree, without time to review.
+- Do not rely on “we’ll fix it next month” without getting that in writing.
+- Do not assume the same reimbursement rule applies everywhere — obligations vary a lot by state and by pay classification.
 
 ## What to do now
-1. **Secure the exact wording of the disputed entry.**  
-   **Obtain a copy or screenshot of the specific page where the error appears.**  
-   - If physical access is denied, transcribe the entry exactly as written, noting the date, the author (if listed), and the specific file or folder it was located in.
-
-2. **Verify your state-specific access and correction rights.**  
-   **Check if you are in a state with statutory personnel file rights (such as California, Washington, Illinois, or Massachusetts).**  
-   - In Washington (as of 2025/2026), employers must provide files within 21 days.
-   - In California (updated 2026), files must be provided within 30 days and now explicitly include training and education records.
-   - Note that OSHA regulations provide a federal right to access your own medical and toxic exposure records regardless of state law.
-
-3. **Submit a formal "Correction or Rebuttal" request in writing.**  
-   **Draft a concise message to HR that quotes the error and provides the corrected fact.**  
-   - Attach objective evidence if available (e.g., timecards, emails, GPS logs, or certifications).
-   - Explicitly request that the record be corrected or that your written statement be permanently attached to the disputed document.
-
-4. **Request a stay on decisions relying on the disputed information.**  
-   **Ask HR in writing to pause any pending actions—such as promotion reviews, disciplinary steps, or layoff selections—until the data is verified.**  
-   - Use the phrase: "I request that this disputed information not be used as a basis for any employment action until the correction process is complete."
-
-5. **Initiate an FCRA dispute if the error is in a third-party background report.**  
-   **Contact the background screening company directly if the information came from an external report.**  
-   - Under the Fair Credit Reporting Act (FCRA), you have a right to a free copy of the report if adverse action was taken.
-   - The screening agency has 30 days to investigate and must provide a "Pre-Adverse Action Notice" before the employer can finalize a negative decision based on the report.
-
-6. **Contact your union or legal representative if applicable.**  
-   **Notify your shop steward or representative immediately if you are covered by a collective bargaining agreement.**  
-   - They can often enforce "just cause" provisions that require records to be accurate and can assist in "Weingarten" meetings regarding the file entry.
+1. **Build a tight evidence packet (15 minutes).** Save: the written approval, the policy that applied when you got approval, your submitted report, receipts, and the denial notice.
+2. **Ask for the denial reason as a checklist, not a debate.** Ask finance/payroll:
+   - the exact policy rule they’re relying on
+   - which line items are denied (and why) vs which could be paid
+   - what specific correction/document would make it payable
+   - who can approve an exception (name/role), since it was pre-approved
+3. **Send an itemized “reconciliation” message.** In one short note: list each expense, date, amount, and business purpose, and point to the approval. Ask them to confirm in writing if it’s a final decision and the basis for it.
+4. **Escalate internally in the right order.** Use the same evidence packet with:
+   - your approving manager (ask them to reaffirm approval in writing)
+   - HR (to enforce the written policy and consistent treatment)
+   - payroll (if reimbursements are run through payroll)
+5. **If you are hourly/non-exempt, do a quick pay-impact check.** Document the pay period, hours, gross pay, and the unreimbursed amount. Under federal wage-and-hour rules, employer-required costs that primarily benefit the employer can become an issue if they effectively push pay below minimum wage (or cut into overtime due).
+6. **If you’re in a state with an expense-reimbursement law, name it in your escalation.** Examples:
+   - **California:** employers generally must reimburse “necessary expenditures” incurred in direct consequence of job duties (Labor Code § 2802).
+   - **Illinois:** employers must reimburse “necessary expenditures” within scope of employment (820 ILCS 115/9.5).
+7. **If internal routes fail, use a low-drama official option (state-specific).**
+   - **California:** you can look at filing a wage claim with the Labor Commissioner’s Office (DLSE) and attach your approval/evidence packet.
+   - **Illinois:** you can look at filing a wage claim/complaint with the Illinois Department of Labor under the Wage Payment and Collection Act.
+8. **Protect yourself by keeping everything factual.** Save copies of approvals, policy excerpts, receipts, pay stubs, and any messages about the denial. Keep your requests focused on “what is required to pay this” and “please confirm the final decision in writing.”
 
 ## What can wait
-- You do not need to decide today whether to file an EEOC charge or a private lawsuit.
-- You do not need to identify the "motive" behind the false information; the priority is the accuracy of the record.
-- You do not need to provide a multi-page narrative of your entire employment history; keep the initial dispute focused only on the provable falsehood.
+- You do not need to decide today whether to hire a lawyer or file a lawsuit.
+- You do not need to write a long history of workplace problems — keep it to this reimbursement decision.
+- You do not need to resign or “make a stand” immediately.
 
 ## Important reassurance
-Discovering a documented falsehood can feel like an invisible threat to your career. It is a standard procedural step to insist on an accurate record. Employers frequently deal with data entry errors, and requesting a correction or attaching a rebuttal is a recognized right in most professional environments.
+This kind of reversal is often a process breakdown (coding, documentation, shifting policy interpretation) rather than a final “no.” A clear paper trail with the prior approval and an itemized summary often gets it corrected.
 
 ## Scope note
-This guide provides first-step stabilization for identifying and disputing internal or third-party record errors. It does not cover legal strategies for defamation, discrimination, or complex litigation.
+This is first-steps guidance to stop the bleeding, document clearly, and trigger the right internal/external pathways. Next steps can vary a lot by state and by whether you’re exempt or non-exempt.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Employee rights regarding personnel files vary significantly by state and whether the employer is public or private. Federal rights like the FCRA apply specifically to third-party reports, while state laws govern internal HR files. Always maintain a dated paper trail of all requests and responses.
+This guide is general information, not legal advice. U.S. reimbursement obligations vary widely by state, and federal wage-and-hour rules apply differently depending on your pay classification and circumstances.
 
 ## Additional Resources
-- https://www.dir.ca.gov/dlse/lawstimemannerpaymentwages.pdf
-- https://labor.illinois.gov/file-a-workplace-complaint.html
-- https://labor.illinois.gov/laws-rules/fls/wage-payment-collection.html
-- https://www.dol.gov/agencies/whd/field-operations-handbook/Chapter-32
 - https://www.dol.gov/agencies/whd/fact-sheets/16-flsa-wage-deductions
+- https://www.law.cornell.edu/cfr/text/29/531.35
+- https://www.dol.gov/sites/dolgov/files/WHD/opinion-letters/FLSA/2020_08_31_12_FLSA.pdf
+- https://www.dol.gov/agencies/whd/fact-sheets/77a-flsa-prohibiting-retaliation
+- https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=2802
+- https://www.ilga.gov/documents/legislation/ilcs/documents/082001150k9.5.htm
+- https://www.dir.ca.gov/dlse/howtofilewageclaim.htm
+- https://labor.illinois.gov/complaints.html

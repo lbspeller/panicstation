@@ -1,89 +1,86 @@
----
+﻿---
 title: "What to do if… you are told to provide work authorisation documents urgently or be taken off the schedule"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "background check failed after starting"
-  - "failed background screening at work"
-  - "told background check failed hired"
-  - "background report error wrong person"
-  - "screening mismatch after onboarding"
-  - "started job then check failed"
-  - "hr says background check failed"
-  - "consumer report dispute employment"
-  - "adverse action notice confusion"
-  - "hired then screening came back"
-  - "offer conditional then started"
-  - "background check identity mismatch"
-  - "criminal record mix up work"
-  - "employment check inaccurate report"
-  - "told cannot keep job screening"
-  - "background check clearance issue"
-  - "job retention after screening"
-  - "failed employment background check help"
-  - "what do i do if my background check failed"
-  - "what do i do if employer says i failed screening"
-  - "what do i do if background check is wrong"
-  - "what do i do if i am fired for background check"
-  - "help i failed my work background check"
-  - "help i already started work and background failed"
-  - "my background check is incorrect"
-  - "my background report has someone else's record"
-  - "smell of incorrect data in report"
-  - "visible error on background check"
-  - "notice of pre-adverse action"
-  - "failed background check in washington 2026"
-  - "failed background check in virginia 2026"
-  - "failed background check in philadelphia 2026"
-  - "fcra summary of rights 2026"
-  - "consumer reporting agency dispute process"
-  - "background check reporting error"
-last_reviewed: "2026-03-17"
+  - provide work authorization urgently
+  - told bring i-9 documents today
+  - taken off the schedule threat
+  - removed from shifts documents
+  - hr requests passport scan now
+  - employer asks for specific i-9
+  - i-9 reverify work authorization
+  - employment eligibility check urgent
+  - asked for ead proof urgently
+  - list a list b list c docs
+  - document abuse at work
+  - unfair documentary practices
+  - i-9 paperwork panic
+  - job says prove work status
+  - worried request is a scam
+  - asked for ssn card photo
+  - remote i-9 verification request
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are told to provide work authorisation documents urgently or be taken off the schedule (USA)
 
 ## Short answer
-Request the **exact report and the Pre-Adverse Action Notice in writing** immediately. Under the Fair Credit Reporting Act (FCRA), employers must provide you with a copy of the report and a summary of your rights before taking any final action, allowing you a minimum of five business days to dispute inaccuracies.
+Respond immediately in writing, confirm whether this is for **Form I-9 (or re-verification)**, and arrange to present acceptable documents through the employer’s standard secure process. Don’t send sensitive ID to an unverified contact.
 
 ## Do not do these things
-- Do not resign or sign any separation agreements, waivers, or non-disclosure documents immediately.
-- Do not offer verbal explanations or admissions before reviewing the physical report.
-- Do not assume a "failed" status is final or legally disqualifying without verification.
-- Do not attempt to "clean" or "fix" your record through third-party services; use the official dispute process only.
-- Do not delete any emails or onboarding documents related to your hiring and background authorization.
+- Do not ignore the request if you want to stay on the schedule — reply quickly, even if you need a short appointment window.
+- Do not send photos of your passport, Social Security card, green card, or other IDs to a personal email/text number you cannot verify as HR.
+- Do not provide extra documents “to be safe” — for Form I-9 you generally choose acceptable document(s) from the Lists, and the employer should not demand more than required.
+- Do not let a supervisor keep your original documents.
+- Do not pay anyone who claims they can “expedite” verification or “fix” your work authorization.
 
 ## What to do now
-1. **Request the Pre-Adverse Action Notice and a complete copy of the background report.** Under federal law, if an employer considers terminating or reassigning you based on a background check, they must provide these documents and the "Summary of Your Rights Under the FCRA" before making a final decision.
-2. **Verify which specific item in the report caused the "fail" status.** Ask HR to clarify in writing if the issue is related to criminal history, identity verification, education, employment dates, or a credit report.
-3. **Notify the employer that you intend to dispute any inaccuracies in the report.** State clearly that you are exercising your right to review the findings and ask for a "pause" on any employment decisions for at least five business days (the standard federal "reasonable" period).
-4. **Initiate a formal dispute with the Consumer Reporting Agency (CRA) immediately.** Use the contact information found on the Pre-Adverse Action Notice to file a dispute via certified mail or the CRA’s official portal, documenting every error (e.g., incorrect dates, expunged records, or "mixed file" errors belonging to another person).
-5. **Gather physical evidence that contradicts the report’s findings.**
-   - Obtain court dispositions showing charges were dismissed or downgraded.
-   - Collect W-2s or diplomas if the issue is employment or education verification.
-   - Provide government ID if the issue is an identity mismatch.
-6. **Check for state-specific protections effective in 2026.**
-   - In Washington (effective July 2026), medium/large employers must delay inquiries and conduct individualized assessments.
-   - In Virginia (effective July 2026), many misdemeanors are automatically sealed and cannot be reported.
-   - In Philadelphia (effective January 2026), lookback periods for misdemeanors are shortened.
-7. **Request the Final Adverse Action Notice if the employer proceeds with termination.** Ensure this notice includes the CRA’s contact info and a statement that the CRA did not make the hiring decision.
+1. **Verify the request is legitimate (and identify who is responsible for I-9).**  
+   Contact HR using a trusted channel you already have (HR portal, official company directory email, onboarding paperwork). Ask: “Is this for Form I-9 completion or I-9 re-verification, and what is the approved secure way to present documents?”
+
+2. **Ask for the “Lists of Acceptable Documents” and the exact deadline.**  
+   Write: “Please send the Lists of Acceptable Documents and confirm the deadline/time today.”  
+   (This matters because, in an I-9 situation, you generally choose which acceptable document(s) to present.)
+
+3. **Offer a same-day plan to show original documents securely.**  
+   Propose:
+   - **In person**: you bring original acceptable document(s) to HR/site manager for inspection; or
+   - **Remote alternative procedure**: only if your employer confirms they are eligible to use it and provides their official instructions (otherwise, expect physical inspection).
+
+4. **If they demand a specific document (for example “passport only” or “green card only”), reset it calmly in writing.**  
+   Example: “For Form I-9, I will present acceptable document(s) of my choice from the Lists of Acceptable Documents. Please confirm where and when to present them today.”
+
+5. **If HR says you must be re-verified because a document expired, pause and ask them to confirm the rule they’re applying.**  
+   Reverification is **not** required for U.S. citizens or noncitizen nationals, and it is generally **not** required just because a Permanent Resident Card (“green card”) expires. Ask: “Can you confirm this is a required I-9 re-verification, and which status/document it applies to?”
+
+6. **If you can’t present documents today, request a short, specific extension and propose the earliest appointment.**  
+   Example: “I can present acceptable documents tomorrow at 9am at [location] (or via your eligible remote procedure). Please confirm I will remain scheduled while we complete verification.”
+
+7. **Save a simple record.**  
+   Keep screenshots/emails of the request, the threat to remove shifts, what documents they asked for, and your written replies offering a standard process.
+
+8. **If you suspect immigration-related discrimination or “document abuse,” get help early (optional).**  
+   If they treat you differently because of citizenship/immigration status, demand extra documents, or refuse acceptable documents, consider contacting the U.S. Department of Justice **Immigrant and Employee Rights Section (IER)** for guidance.
 
 ## What can wait
-- You do not need to hire a lawyer or file a lawsuit in the first 24 hours.
-- You do not need to contact the EEOC or FTC until you have the report and have initiated the dispute.
-- You do not need to determine your long-term career path or job search strategy today.
+- You do not need to decide today whether to quit, threaten a lawsuit, or post publicly.
+- You do not need to disclose personal immigration details beyond what’s required for the employment verification process.
+- You do not need to “over-comply” with extra IDs or unrelated paperwork.
 
 ## Important reassurance
-Background check "failures" are frequently caused by automated data errors, outdated court records, or mixed files involving people with similar names. Receiving a notice of a failed check is a procedural trigger that grants you specific legal rights to see the evidence and force a correction; it is not a definitive judgment on your character or your legal right to work.
+Urgent I-9 requests often happen because of onboarding errors, an internal audit, or a missing record — not because you personally did something wrong. Keeping it calm, written, and process-focused usually defuses the “taken off the schedule” pressure.
 
 ## Scope note
-This guide provides first-step stabilization for federal FCRA compliance only. Regulated industries (such as healthcare, finance, or government contracting) and specific state "Fair Chance" or "Ban the Box" laws may provide additional protections or impose stricter requirements.
+This is first steps only — to help you respond safely and keep your shifts while verification happens. If your employer keeps demanding specific documents, refuses standard options, or retaliates after you comply, you may need specialist help.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Your specific rights may vary based on your state, the nature of the role, and the type of screening conducted. If you are pressured to sign documents or waived rights under duress, seek independent legal counsel immediately.
+This is general information, not legal advice. Verification rules and employer procedures can vary, and your specific documents and timeline matter. If you feel pressured to provide sensitive IDs insecurely or are being treated differently, get qualified support.
 
 ## Additional Resources
-- https://www.justice.gov/crt/form-i-9-and-e-verify
-- https://www.justice.gov/crt/iers-frequently-asked-questions-faqs
-- https://www.justice.gov/crt/worker-information
-- https://www.justice.gov/crt/overview-immigrant-and-employee-rights-section
-- https://www.eeoc.gov/laws/guidance/fact-sheet-immigrants-employment-rights-under-federal-anti-discrimination-laws
+- https://www.uscis.gov/i-9
+- https://www.uscis.gov/sites/default/files/document/forms/i-9instr.pdf
+- https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents
+- https://www.uscis.gov/i-9-central/remote-examination-of-documents
+- https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274/60-completing-supplement-b-reverification-and-rehire-of-form-i-9
+- https://www.justice.gov/crt/immigrant-and-employee-rights-section

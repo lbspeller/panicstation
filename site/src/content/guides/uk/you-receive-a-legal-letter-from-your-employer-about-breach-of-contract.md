@@ -1,98 +1,99 @@
----
+﻿---
 title: "What to do if… you receive a legal letter from your employer about breach of contract"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "suspicious payroll email"
-  - "change payroll bank details"
-  - "payroll bank details scam"
-  - "payroll diversion attempt"
-  - "fake hr payroll request"
-  - "salary bank details change"
-  - "bank account change email"
-  - "urgent payroll update email"
-  - "payroll phishing message"
-  - "salary payment redirected"
-  - "business email compromise"
-  - "employee self service portal scam"
-  - "payslip bank details mismatch"
-  - "payroll details verification"
-  - "update bank details link"
-  - "unexpected payroll instruction"
-  - "impersonation finance request"
-  - "payroll account takeover"
-  - "what do i do if my payroll email is fake"
-  - "what do i do if someone wants my bank details"
-  - "what do i do if hr emails for bank update"
-  - "what do i do if i suspect a payroll scam"
-  - "help i clicked a payroll link"
-  - "help i changed my payroll bank details"
-  - "help i think my salary is being stolen"
-  - "help my payroll account was hacked"
-  - "my payroll email looks wrong"
-  - "my salary payment is suspicious"
-  - "email asking for bank details"
-  - "urgent request for payroll change"
-  - "suspicious sender address"
-  - "unusual payroll portal link"
-  - "mismatched banking request"
-  - "fake payroll form"
-  - "hr impersonation email"
-  - "payroll update urgency"
-  - "diversion of salary"
-  - "salary fraud attempt"
-  - "work email scam"
-  - "finance department impersonation"
-last_reviewed: "2026-03-17"
+  - employer legal letter
+  - legal letter from work
+  - breach of contract allegation
+  - accused of contract breach
+  - solicitor letter from employer
+  - letter before claim at work
+  - threatened court action employer
+  - employment contract dispute
+  - workplace contract claim
+  - confidentiality breach allegation
+  - restrictive covenant letter
+  - post employment restrictions threat
+  - demand letter from employer
+  - cease and desist from employer
+  - accused of taking company data
+  - urgent response deadline letter
+  - panicking about legal threat at work
+  - employer breach notice
+  - contract breach accusation workplace
+  - former employer legal threat
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you receive a legal letter from your employer about breach of contract (UK)
 
 ## Short answer
-Pause and verify the request using a trusted communication channel, such as calling HR on a known internal number. Do not use any links, phone numbers, or contact details provided within the suspicious email.
+Don’t reply substantively yet. Stabilise the situation by preserving records, pausing anything they say is a breach, and getting UK employment legal advice before you respond.
 
 ## Do not do these things
-- Do not click any links or download any attachments, including "updated forms" or "secure portal" documents.
-- Do not reply to the email to ask for clarification, as this confirms your email is active to the sender.
-- Do not use any contact information provided in the message, such as phone numbers or WhatsApp links.
-- Do not forward the email to colleagues unless you are sending it specifically to your IT security team for analysis.
-- Do not enter your login credentials into any page reached via the email.
+- Do not ignore the letter or miss any stated deadline.
+- Do not send explanations, apologies, or “just to clarify…” messages that add new details.
+- Do not delete emails, chats, files, call logs, or device data (even “tidying up” can look bad later).
+- Do not sign anything (including a settlement agreement) without independent advice.
+- Do not discuss the allegations widely at work or ask colleagues to “confirm your side” in writing.
+- Do not move, copy, or “clean up” work data on personal devices/accounts in a way that changes what was there.
 
 ## What to do now
-1. **Verify the request through an independent channel.**  
-   **Call your HR or Payroll department using a trusted number from your physical employee handbook, the company intranet, or a previous confirmed payslip.** Do not use the number in the email signature. Ask specifically if they have sent a request for bank details today.
-2. **Report the message to your internal IT or Security team.**  
-   **Use your organisation’s official reporting method, such as a "Report Phishing" button in your email client or by forwarding the email to the designated IT security address.** State whether you clicked any links or entered any data before you realised the message was suspicious.
-3. **Forward the email to the national reporting service.**  
-   **Forward the suspicious email to report@phishing.gov.uk to alert the National Cyber Security Centre (NCSC).** This helps the authorities track and shut down malicious domains.
-4. **Access your payroll portal directly through a clean route.**  
-   **Open your web browser and manually type in the official address for your payroll or HR portal, or use a previously saved bookmark.** Check for any "pending" bank changes or unusual activity in your account settings.
-5. **Request a temporary freeze on payroll changes.**  
-   **Ask your Payroll department to place a hold on any bank detail updates for your account until you have verified your identity in person or via a secure, pre-arranged process.** Confirm which bank account is currently listed for your next scheduled payment.
-6. **Change your work password immediately if you entered credentials.**  
-   **Go to your official organisation login page and reset your password if you clicked any links or typed your password into a portal reached from the email.** Ensure multi-factor authentication (MFA) is enabled on your work and payroll accounts.
-7. **Contact your bank if you shared financial information.**  
-   **Call your bank immediately—using the number on the back of your card or by calling 159—if you provided your current bank details or a debit card number.** Inform them that you may be the target of a payroll diversion scam.
-8. **Report the incident to the police if a loss has occurred.**  
-   **Contact Report Fraud (the successor to Action Fraud) at 0300 123 2040 or via reportfraud.police.uk if you are in England, Wales, or Northern Ireland.**
-   - If you are in Scotland, call Police Scotland on 101 or report via the Police Scotland website.
+1. **Make a clean copy pack (10 minutes).**  
+   Save scans/photos of the full letter and any attachments (and envelope if posted). Note when you received it and the exact deadline(s) stated.
+
+2. **Verify the sender safely before you share more.**  
+   If it’s from a solicitor or law firm, confirm their contact details independently (for example via the firm’s official website) and only then communicate. If it’s from your employer, route any acknowledgement through a known, official HR/legal contact channel.
+
+3. **Identify what kind of letter this is (without arguing with it).**  
+   Note any wording like “letter before claim/letter of claim”, “pre-action”, “injunction”, “without prejudice”, or “settlement”. This affects urgency and how carefully you should communicate.
+
+4. **Pause the specific behaviour they say is a breach (for now).**  
+   Examples: contacting certain clients, using certain materials, working on a side project in the same market, sharing information, or accessing company systems after termination.  
+   Don’t destroy anything—just stop the activity and keep things stable.
+
+5. **Preserve evidence and keep originals intact.**  
+   Make a folder with: your contract, any variations, relevant policies (confidentiality/IT/data), any restrictive covenant clauses, and the emails/messages/documents referenced. Keep originals unedited where possible.
+
+6. **Freeze “company data on personal devices” without moving it yet.**  
+   If you suspect any employer documents/emails are in personal accounts or on personal devices, stop opening/forwarding them and don’t copy anything new. Get advice on the safest way to return/handle them without creating a “tampering” argument.
+
+7. **Get support that can act (and be clear where you are in the UK).**  
+   - **Union member:** contact your rep/legal support and forward the letter.  
+   - **England/Scotland/Wales:** you can contact **Acas** for general guidance, and a solicitor for advice/representation.  
+   - **Northern Ireland:** contact the **Labour Relations Agency (LRA)** for employment relations guidance, and a solicitor for advice/representation.
+
+8. **If a deadline is close, send only a neutral holding reply.**  
+   Acknowledge receipt, say you are seeking advice, and request a reasonable extension. Do not address the allegations point-by-point.
+
+9. **Treat court papers or “injunction” threats as urgent.**  
+   If you receive anything that looks like official court forms, or the letter says they will apply for an injunction, get urgent legal advice and do not rely on informal HR conversations.
+
+10. **Optional: consider a subject access request (SAR), but don’t rely on it for urgent deadlines.**  
+   A SAR can help you obtain your personal data from your employer, but it can take time and may not produce everything you expect. Use it as a parallel step, not your main response strategy.
 
 ## What can wait
-- You do not need to identify the exact source or identity of the sender.
-- You do not need to investigate if other colleagues received the same email; IT will handle the broader scan.
-- You do not need to decide on long-term changes to your banking setup unless a breach is confirmed by your bank.
+- Deciding whether to resign, “fight”, settle, or threaten counter-action.
+- Writing a long narrative rebuttal or assembling every possible screenshot.
+- Debating the situation with managers/colleagues or trying to “win the argument” by email.
+- Making big public career moves (announcing a new job, broad client outreach) while this is live.
 
 ## Important reassurance
-Payroll diversion scams are highly sophisticated and often use artificial intelligence to mimic the tone of senior staff. Feeling uncertain or suspicious is a valid response to an unexpected request. Most organisations prefer a short delay for verification over the risk of a fraudulent payment.
+A legal letter can be designed to feel urgent and intimidating. You do not need to solve it in one sitting. The safest early wins are: don’t worsen the record, don’t miss deadlines, and get advice before you speak.
 
 ## Scope note
-This guide is for first-step stabilization and harm prevention only. It does not cover long-term identity theft protection or legal recovery of lost funds.
+These are first steps only. The right response depends on the allegation type (confidentiality, restrictive covenants, IP, notice periods, repayment clauses) and whether they are threatening court action or proposing settlement.
 
 ## Important note
-This guide is for informational purposes and does not constitute legal, financial, or cybersecurity advice. Always follow your employer’s specific internal security protocols. If funds have already been moved, contact your bank and the police immediately as every minute affects the chance of recovery.
+This is general information, not legal advice. If you’ve been served with court papers or there’s a credible risk of an injunction, seek urgent advice from a regulated UK legal professional.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/work/contracts-of-employment/
+- https://www.justice.gov.uk/courts/procedure-rules/civil/rules/pd_pre-action_conduct
+- https://www.acas.org.uk/getting-legal-advice
+- https://www.acas.org.uk/settlement-agreements
 - https://www.acas.org.uk/employment-contracts-and-the-law
-- https://www.gov.uk/your-employment-contract-how-it-can-be-changed/dealing-with-problems
-- https://www.acas.org.uk/employment-contracts-and-the-law/exclusivity-clauses
-- https://www.acas.org.uk/final-pay-when-someone-leaves-a-job/if-someone-leaves-without-working-their-notice
+- https://ico.org.uk/for-the-public/time-limits-for-responding-to-data-protection-rights-requests/
+- https://www.gov.uk/find-legal-advice/find-legal-adviser
+- https://www.lawsociety.org.uk/en/public/for-public-visitors/find-a-solicitor
+- https://www.nidirect.gov.uk/contacts/labour-relations-agency

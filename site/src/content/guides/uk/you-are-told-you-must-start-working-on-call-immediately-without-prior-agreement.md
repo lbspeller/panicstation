@@ -1,93 +1,77 @@
----
+﻿---
 title: "What to do if… you are told you must start working on-call immediately without prior agreement"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "my role is eliminated effective immediately"
-  - "told my position is eliminated today"
-  - "role eliminated with no warning"
-  - "redundancy effective immediately"
-  - "immediate redundancy meeting"
-  - "made redundant on the spot"
-  - "job ending today redundancy"
-  - "position abolished at work"
-  - "role being removed from team"
-  - "laid off uk confusion"
-  - "asked to leave immediately work"
-  - "pay in lieu of notice question"
-  - "sudden dismissal vs redundancy"
-  - "final pay and holiday pay"
-  - "settlement agreement offered suddenly"
-  - "employer says not performance"
-  - "hr says role is gone"
-  - "redundancy consultation not happened"
-  - "what do i do if my job is cut"
-  - "what do i do if i am made redundant"
-  - "what do i do if my role is gone"
-  - "what do i do if i am fired today"
-  - "help i lost my job today"
-  - "help i am being made redundant"
-  - "help i have no notice period"
-  - "help i was told to leave work"
-  - "smell of office tension"
-  - "visible hr presence"
-  - "sudden calendar invite"
-  - "locked out of laptop"
-  - "redundancy pay calculator uk"
-  - "statutory redundancy eligibility"
-  - "acas redundancy help"
-  - "redundant vs fired"
-  - "role elimination process"
-  - "position ending immediately"
-last_reviewed: "2026-03-17"
+  - told to start on call now
+  - forced to be on call
+  - unexpected on call duty
+  - on call added without agreement
+  - standby duty sprung on me
+  - rota changed last minute
+  - sudden change to working hours
+  - contract change without consent
+  - asked to answer calls overnight
+  - required to respond immediately
+  - on call pay not explained
+  - standby allowance not confirmed
+  - pressured to agree on call
+  - worried on call breaks rest
+  - on call counts as working time
+  - threatened for refusing on call
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… you are told you must start working on-call immediately without prior agreement (UK)
 
 ## Short answer
-Ask for all termination details in writing and do not sign any documents during the initial meeting. Your immediate priority is to clarify whether you are being paid in lieu of notice and to secure a written statement of your statutory entitlements.
+Don’t agree on the spot. Get the on-call instruction and expectations in writing, then check what your contract (and any collective agreement/policy) actually says before you accept a new on-call duty.
 
 ## Do not do these things
-- Do not sign a settlement agreement, a resignation letter, or any "acceptance" of terms during the meeting.
-- Do not agree that the termination is "mutual" or say "I resign" if you wish to protect your redundancy rights.
-- Do not download, email, or take any company / client data for personal use as this may breach your contract.
-- Do not hand over your laptop or phone until you have verified how you will receive your personal pay records.
-- Do not post details of the meeting on social media or internal messaging channels while in the immediate shock of the news.
-- Do not assume that "effective immediately" means you lose your right to notice pay or statutory redundancy pay.
+- Do not say “yes/I agree” just to stop the pressure if you have not checked your terms and pay.
+- Do not resign in the moment or send a message you’ll regret.
+- Do not “pretend it’s fine” if fatigue or safety is an issue (especially if you drive, provide care, or do safety-critical work).
+- Do not delete or lose chats, texts, rota screenshots, or call logs.
+- Do not let “it’s only standby” turn into unpaid work — if you do any work, record it.
 
 ## What to do now
-1. **Request a formal written summary of the decision before you leave the premises or log off.** **This document must include your final date of employment, the specific reason for dismissal, and a breakdown of your final payments.**
-2. **Clarify whether you are expected to work a notice period or if you are receiving "Pay in Lieu of Notice" (PILON).** **If the employer wants you to leave immediately, they must usually pay you for the notice period specified in your contract or the statutory minimum (1 week per year of service, capped at 12 weeks).**
-3. **Ask if the employer is following a collective consultation process.** **If 20 or more roles are being made redundant at one site within 90 days, specific legal timelines apply; failure to follow these can result in a "Protective Award" of up to 180 days' pay for dismissals after April 6, 2026.**
-4. **Identify which personal documents you need to retrieve from HR systems before access is revoked.** **Focus only on your own employment contract, recent payslips, P60s, and any correspondence regarding this redundancy.**
-   - If you are already locked out, ask HR to send these files to your personal email address.
-5. **Confirm your eligibility for statutory redundancy pay based on your length of service.** **You are generally entitled to statutory redundancy pay if you have been an employee for at least 2 continuous years.**
-   - 0.5 week’s pay for each full year you were under 22.
-   - 1 week’s pay for each full year you were 22 or older, but under 41.
-   - 1.5 week’s pay for each full year you were 41 or older.
-   - Note: From April 6, 2026, the weekly pay cap is £751 and the maximum total is £22,530.
-6. **Ask for an itemised list of all final payments including accrued holiday and bonuses.** **Your employer is legally required to pay for any holiday you have earned but not yet taken by your final date.**
-7. **Request a timeline for when you will receive your P45 and final payslip.** **These documents are essential for starting a new role or claiming benefits.**
-8. **Inform the employer that you will seek independent legal advice if a settlement agreement is mentioned.** **A settlement agreement is only legally binding if you receive advice from a qualified independent professional, such as a solicitor or certified trade union official.**
+1. **Get the instruction in writing (or write it back to them).**  
+   Ask: *When does on-call start/end? What response time? What counts as a call-out? Do I have to stay at home / stay within a certain distance? Who do I escalate to?*  
+   If they won’t write it, send a calm message summarising what you were told and ask them to confirm.
+2. **Check what you already agreed to — not just the handbook.**  
+   Look at your contract/offer letter and any on-call/rota policy. Also check whether there’s a **collective agreement** (union/staff association) or an established **pattern of “custom and practice”** that your employer will point to.
+3. **Do a quick “rest and safety” check before you accept responsibility.**  
+   If being on-call tonight means you’re unlikely to get proper rest (for example, you’ll be called repeatedly, or you must respond so fast you can’t sleep), flag this immediately in writing as a health/safety and working-time concern and ask what rest arrangement will apply the next day.
+4. **Ask for pay and time-recording rules in one message.**  
+   Get clarity on: standby/availability allowance, call-out minimums, overtime/time off in lieu, and exactly how to log time spent responding (calls/messages/remote login/travel). Keep it factual: *“Please confirm the rate and how I record time spent working while on-call.”*
+5. **If you need to push back, offer a temporary boundary rather than a legal argument.**  
+   Example: *“I can’t agree to a new on-call requirement with no prior agreement. If you need emergency cover tonight, I can discuss a one-off arrangement once expectations, pay, and rest arrangements are confirmed in writing.”*  
+   If you genuinely cannot do it (childcare/health/fatigue), say that plainly and propose the earliest time you can discuss cover.
+6. **Start a simple evidence log now.**  
+   Note: when you were told, what restrictions were imposed, each call-out/contact, time spent working, and impact on sleep/rest. Keep copies of rota changes and messages.
+7. **Escalate through the right channel quickly if threats start.**  
+   If you’re being told you’ll be disciplined for not agreeing immediately, ask for that instruction/threat in writing and contact HR and/or your union rep.  
+   If you’re called into a **formal** disciplinary or grievance meeting about this, request to bring a **companion** (colleague or union representative).  
+   For confidential external advice, contact Acas. **If you’re in Northern Ireland, contact the Labour Relations Agency (LRA).**
 
 ## What can wait
-- Deciding whether to appeal the redundancy or bring a claim for unfair dismissal.
-- Negotiating the specific wording of a job reference or ex-gratia payments.
-- Notifying your entire professional network or updating your LinkedIn profile.
-- Calculating the long-term impact on your pension or investments.
-- Returning non-essential company property like branded clothing or office supplies.
+- You do not need to decide today whether to stay in the job long-term.
+- You do not need to submit a formal grievance immediately — first secure the facts in writing and keep records.
+- You do not need to “prove the law” in the moment — focus on written expectations, pay/timekeeping rules, and safety/rest.
 
 ## Important reassurance
-Receiving news of immediate role elimination often causes a "freeze" or "fight or flight" response. It is normal to feel confused or unable to process technical details in the moment. Taking a pause and insisting on written communication is a standard professional response that protects your legal position.
+Being put on the spot with “this is mandatory” can feel intimidating. Asking for written confirmation and checking your agreed terms is a normal, professional response — it protects you from misunderstandings and unfair blame later.
 
 ## Scope note
-This guide covers immediate stabilization only. Your specific rights depend on your employment status, length of service, and the details of your written contract.
+This is first-steps-only guidance for the first hours/day. If this becomes ongoing pressure, pay problems, or disciplinary action, you may need specialist employment support.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Employment laws and statutory payment caps are subject to annual change; always verify current figures with ACAS or a qualified legal professional if you are unsure of your entitlements.
+This is general information, not legal advice. Whether on-call counts as working time and how changes can be imposed depend on your contract terms, any collective agreement, and how restricted you are while on-call. If fatigue or safety is a concern, prioritise safety and document it promptly in writing.
 
 ## Additional Resources
+- https://www.gov.uk/your-employment-contract-how-it-can-be-changed
+- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees
 - https://www.acas.org.uk/working-time-rules/employees-who-are-on-call-or-sleep-in
-- https://www.acas.org.uk/employment-contracts-and-the-law
-- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees/if-your-employer-introduces-a-contract-change-without-your-agreement
-- https://www.citizensadvice.org.uk/work/working-hours-and-rest-breaks/if-youre-working-too-many-hours/
-- https://www.citizensadvice.org.uk/work/changes-to-employment-contracts-overview/
+- https://www.acas.org.uk/working-time-rules
+- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
+- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting

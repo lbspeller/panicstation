@@ -1,91 +1,80 @@
----
+﻿---
 title: "What to do if… your scheduled hours are suddenly cut to zero without clear reason"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "timesheet error at work"
-  - "clocking system glitch"
-  - "recorded hours wrong"
-  - "asked to confirm attendance"
-  - "payroll hours discrepancy"
-  - "missing clock in clock out"
-  - "rota vs timesheet mismatch"
-  - "attendance record incorrect"
-  - "asked to sign hours"
-  - "shift hours not recorded"
-  - "pay affected by hours error"
-  - "workplace system error hours"
-  - "disputed working hours"
-  - "confirm presence at work"
-  - "hours worked not showing"
-  - "timesheet correction request"
-  - "attendance confirmation email"
-  - "employer says system error"
-  - "what do i do if my hours are wrong"
-  - "what do i do if my work clocking system failed"
-  - "what do i do if hr asks to confirm shifts"
-  - "what do i do if payroll is incorrect"
-  - "help i have a timesheet error"
-  - "help i am missing hours on my payslip"
-  - "help i was asked to sign incorrect hours"
-  - "help i cannot remember my exact shifts"
-  - "smell of burning office hardware"
-  - "screen showing system error"
-  - "error code on clocking machine"
-  - "missing punch in log"
-  - "wrong hours on portal"
-  - "incorrect payroll date"
-  - "unpaid overtime UK"
-  - "fair work agency enforcement"
-  - "subject access request for timesheets"
-  - "acas grievance for pay"
-last_reviewed: "2026-03-17"
+  - scheduled hours cut to zero
+  - rota suddenly empty
+  - shifts removed without explanation
+  - taken off the schedule
+  - no shifts this week
+  - zero hours on rota
+  - hours dropped to none
+  - manager stopped scheduling me
+  - workplace ghosting shifts
+  - unpaid week unexpectedly
+  - temporary layoff uk
+  - short-time working uk
+  - guaranteed hours cut
+  - contract hours removed
+  - my shifts disappeared
+  - work cancelled last minute
+  - no reason for no shifts
+  - income stopped suddenly
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… your scheduled hours are suddenly cut to zero without clear reason (UK)
 
 ## Short answer
-Withhold any formal confirmation or signature until the employer provides a specific list of the dates, times, and system logs affected by the error.
+Get it confirmed in writing and check what your contract guarantees. In the meantime, protect your income by acting quickly on pay/benefits options.
 
 ## Do not do these things
-- Do not sign a blanket confirmation statement if any part of the record is missing or unclear.
-- Do not attempt to reconstruct your hours from memory alone without checking external cues.
-- Do not ignore the request, as this may be interpreted as a failure to cooperate with reasonable management instructions.
-- Do not delete personal evidence such as Google Maps timelines, parking receipts, or sent emails that could verify your location.
-- Do not assume that a "system error" automatically means your pay will be delayed; employers have a legal duty to pay for work done.
+- Do not resign “to make a point” before you know whether you’re still employed, laid off, or on a zero-hours arrangement.
+- Do not accept a verbal explanation as the final word — ask for a written confirmation of what’s happening and from when.
+- Do not sign or agree to any “new hours” or “temporary change” on the spot if you’re not sure what it means.
+- Do not go quiet or disappear — keep a written record that you are available to work and asking for shifts/pay clarity.
+- Do not assume this is automatically “redundancy” or “dismissal” — different steps and rights apply.
 
 ## What to do now
-1. **Request the specific details of the failure in writing.** Ask your manager or HR to confirm exactly which software or hardware failed and the precise date range where data is missing.
-2. **Obtain the current "broken" record from the employer.** Ask for a copy of what the system currently shows for your name, including any "missing punch" flags or error logs generated for your user ID.
-3. **Submit a formal Subject Access Request (SAR) if data is withheld.** Use your rights under the UK GDPR and Data Protection Act 2018 to demand all raw data held about your attendance, including swipe card logs, login/logout timestamps, and CCTV if necessary.
-   - Specify that the request is for "all time, attendance, and payroll data for the period [Date] to [Date]."
-4. **Compile a secondary evidence timeline.** Look for digital "breadcrumbs" that prove you were working at specific times:
-   - Sent timestamps on emails or Slack / Teams messages.
-   - Entry and exit logs from building security or car park gates.
-   - Call logs or helpdesk ticket updates assigned to you.
-   - Public transport ticket timestamps or fuel receipts.
-5. **Issue a "Conditional Confirmation" for known dates.** If you are certain about some days but not others, provide a written statement that clearly distinguishes between them.
-   - Use phrasing: "I can confirm attendance for [Dates A, B, C]. For [Date D], I believe I worked [Times], but I am awaiting [Evidence] to confirm the exact minute of departure."
-6. **Check if the error will cause your pay to fall below the National Minimum Wage (NMW).** If the missing hours result in a payment that, when divided by actual hours worked, is less than the current NMW, notify the employer that they are in immediate breach of statutory requirements.
-7. **Identify the correction timeline.** Ask payroll for the "cut-off date" for the current pay cycle and whether an out-of-cycle payment will be made if the reconciliation takes longer than the standard payroll run.
-8. **Assert your statutory right to be accompanied if the matter becomes formal.** If you are asked to attend a formal meeting regarding "attendance discrepancies" or "conduct," inform the employer you will be bringing a trade union representative or a workplace colleague.
+1. **Save proof of the change today.** Screenshot the rota/app showing zero hours, any messages about shifts, and your recent payslips/timesheets showing your usual pattern.
+2. **Check the single most important thing: what does your contract guarantee?** Look for:
+   - **minimum / contracted hours** (or wording like “guaranteed hours”)
+   - **zero-hours/casual** wording (often says there’s no obligation to offer or accept work)
+   - any clause about **“lay-off” or “short-time working”**
+   - any clause allowing your employer to **change hours** (and how)
+3. **Send one calm written message asking for status and dates.** Ask:
+   - whether you are **still employed**
+   - whether this is **lay-off / short-time working**, a **disciplinary/HR action**, or a **contract change**
+   - the **date** the change started and when it will be reviewed
+   - what you will be **paid** while no hours are scheduled (and when payroll will reflect that)
+4. **If you have contracted hours, put your position on record.** For example:
+   - *“My contract states X hours. I’m ready and available to work those hours. Please confirm when shifts will be scheduled and how pay will be handled if no work is provided.”*
+5. **If they say it’s unpaid lay-off/short-time: check whether your contract allows it.** Unpaid lay-off/short-time working is usually only straightforward if there’s a contractual right to do it. If you have guaranteed hours and no such clause, you may still be owed pay for your contracted hours — get advice quickly.
+6. **Check whether statutory guarantee pay might apply.** This is a small legal payment in some lay-off/short-time situations. It generally applies to **employees** (not everyone) and often depends on things like **continuous service** and being **available for work**. Ask your employer in writing whether they will pay it, and keep your availability documented.
+7. **Escalate promptly if you get no clear answer.** If there’s no written clarification within a short time (or your normal pay date is at risk), contact:
+   - your **union rep** (if you have one), or
+   - **ACAS** for free, confidential advice on your options and how to raise the issue formally.
+8. **Stabilise your money for the next few weeks.** If your income has effectively stopped, check entitlement for **Universal Credit** (and help with rent/council tax). If you might qualify, starting the process quickly can reduce gaps.
 
 ## What can wait
-- You do not need to decide whether to resign or take legal action before seeing the corrected pay figures.
-- You do not need to provide proof for hours that the employer has already correctly recorded.
-- You do not need to raise a formal grievance immediately if the employer is actively working to fix the error in good faith.
+- You do **not** need to decide today whether to bring a formal claim, resign, or “fight it.”
+- You do **not** need to write a long grievance immediately — first get the employer’s position in writing and gather your documents.
+- You do **not** need to guess the reason to take protective steps.
+- If this doesn’t resolve, **formal grievance routes and ACAS early conciliation** are later steps — not your first move while you’re still trying to confirm basic status and pay.
 
 ## Important reassurance
-Payroll and software glitches are common administrative hurdles and do not inherently mean your integrity is being questioned. By insisting on a written evidence trail, you are following standard professional practice that protects both your income and your employment record.
+It’s normal to feel shocked and personally targeted when your rota suddenly goes to zero. The safest approach is slow, factual, written communication and quick protection of your pay/income options while the facts are pinned down.
 
 ## Scope note
-This is first-step guidance only. If your employer refuses to pay for confirmed hours or starts a disciplinary process regarding your attendance records, you must seek detailed advice from a union or specialist.
+This covers first steps to stabilise the situation and prevent irreversible mistakes. If the hours stay at zero, the right next steps depend heavily on your contract type and employment status.
 
 ## Important note
-This guide provides general information based on UK employment law as of 2026. The Fair Work Agency now handles enforcement for many pay-related issues, but their involvement depends on specific thresholds. Time limits for making a claim to an employment tribunal for unpaid wages have been extended to 6 months in most cases under recent reforms. Always check your specific contract of employment for clauses related to "overpayments" or "deductions from wages" before agreeing to any payroll adjustments.
+This is general information, not legal advice. Employment rights can depend on your contract wording, your employment status (employee vs worker), and what has been agreed and practiced at your workplace.
 
 ## Additional Resources
-- https://www.acas.org.uk/zero-hours-contracts
-- https://www.citizensadvice.org.uk/work/changes-to-employment-contracts-overview/
-- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees/if-your-employer-introduces-a-contract-change-without-your-agreement
-- https://www.citizensadvice.org.uk/work/redundancy/check-your-rights-if-youre-made-redundant/if-youre-laid-off/layoffs-and-short-time-working/
-- https://www.gov.uk/contract-types-and-employer-responsibilities/zero-hour-contracts
+- https://www.acas.org.uk/lay-offs-and-short-time-working
+- https://www.gov.uk/lay-offs-short-timeworking
+- https://www.gov.uk/lay-offs-short-timeworking/guarantee-pay
+- https://www.acas.org.uk/changing-an-employment-contract
+- https://www.citizensadvice.org.uk/work/layoffs-and-short-time-working/lay-offs-and-short-time-working/

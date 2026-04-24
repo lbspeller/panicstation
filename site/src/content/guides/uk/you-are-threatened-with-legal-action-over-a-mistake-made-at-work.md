@@ -1,84 +1,82 @@
----
+﻿---
 title: "What to do if… you are threatened with legal action over a mistake made at work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "told to carry on working"
-  - "told to continue as normal"
-  - "safety incident at work"
-  - "near miss at work"
-  - "accident just happened"
-  - "hazard not cleared yet"
-  - "incident under investigation"
-  - "asked to stay on shift"
-  - "pressured to keep working"
-  - "unsafe working conditions"
-  - "serious and imminent danger"
-  - "stop work concern"
-  - "refuse unsafe work uk"
-  - "worried about retaliation"
-  - "report health and safety risk"
-  - "risk assessment not shared"
-  - "asked to go back in area"
-  - "not confident it is safe"
-  - "workplace accident protocol"
-  - "employer ignoring safety"
-  - "section 44 employment rights act"
-  - "help i was told to keep working after accident"
-  - "what do i do if my boss ignores a safety risk"
-  - "what do i do if a workplace hazard is not fixed"
-  - "what do i do if i feel unsafe at work"
-  - "my manager told me to keep working after a near miss"
-  - "help i am being forced to work in a dangerous area"
-  - "smell of gas at work"
-  - "visible fire hazard on shift"
-  - "broken machinery safety concern"
-last_reviewed: "2026-03-17"
+  - threatened with legal action at work
+  - legal threat from employer
+  - legal threat from client
+  - letter before action work
+  - mistake at work lawsuit threat
+  - negligence allegation workplace
+  - disciplinary investigation started
+  - grievance or discipline meeting
+  - asked to admit fault at work
+  - asked to sign statement work
+  - asked to resign under pressure
+  - work complaint turned legal
+  - employer solicitor letter
+  - professional indemnity claim risk
+  - worried about being sued personally
+  - workplace incident investigation
+  - legal action threat email
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are threatened with legal action over a mistake made at work (UK)
 
 ## Short answer
-Move to a safe distance and inform your supervisor that you cannot resume the specific task or enter the affected area until you have been briefed on the updated risk assessment and confirmed control measures. Request these details in writing and ask for temporary reassignment to a safe area while the assessment is completed.
+Pause, keep everything factual and in writing, and get support before you respond. Your first job is to preserve records and avoid rushed admissions or signatures.
 
 ## Do not do these things
-- Do not re-enter the hazard zone or restart equipment "just to finish a task" if you reasonably believe a serious risk remains.
-- Do not engage in verbal arguments regarding blame or fault; focus only on the current presence of hazards and the lack of confirmed controls.
-- Do not feel compelled to make an immediate decision under pressure; you are entitled to a safe pause to understand safety instructions.
-- Do not sign any document stating an area is "safe" or "cleared" if you have not personally seen the evidence of the fix or the risk assessment.
-- Do not assume that the presence of an investigator or manager in the area automatically means the hazard is neutralized.
+- Do not reply in anger, speculate, or apologise in a way that accepts personal legal liability.
+- Do not sign anything “to make it go away” (statements, settlement agreements, repayment plans, resignation letters) without advice.
+- Do not destroy, edit, backdate, or “tidy up” records—even if you feel embarrassed.
+- Do not move confidential documents off work systems or send them to personal email/accounts if that breaches policy or confidentiality duties.
+- Do not discuss details widely at work, or post about it on social media.
+- Do not contact the complaining customer/client/other party directly if your employer has a complaints/legal route.
 
 ## What to do now
-1. **Move to a safe pause position immediately.** **Physically distance yourself from the equipment, substance, or area involved in the incident.** If there is an ongoing emergency like a fire, gas leak, or structural failure, trigger the site alarm and call **999**.
-2. **State your concern using neutral, safety-focused language.** **Tell your supervisor: "I am pausing work on this task because the safety controls for the recent incident are not yet confirmed."** Avoid discussing emotions; focus on the observable hazard or the lack of a briefed safety plan.
-3. **Ask for the current risk assessment and control measures.** **Request to see the specific steps taken to make the area safe since the incident occurred.** 
-   - Ask: "What physical controls (e.g., isolations, barriers, PPE) have been added in the last hour?"
-   - Ask: "Who specifically has authorized this area as safe to resume work?"
-4. **Request temporary reassignment to a different area.** **Ask to be moved to a task that does not involve the hazard while the investigation is ongoing.** This demonstrates you are willing to work but are prioritizing safety protocols.
-5. **Request your instructions in a traceable format.** **If you are ordered to continue despite your concerns, ask for that instruction via email, text, or a written log entry.** Note the time, the name of the person giving the instruction, and exactly what they told you regarding the hazard.
-6. **Log the incident in the mandatory workplace accident book or reporting system.** **Ensure the incident or near-miss is officially recorded as soon as you are in a safe area.** Most UK workplaces are legally required to maintain an accident book (BI 510 or digital equivalent); ensure you get a reference number or a copy of your entry.
-7. **Contact your union or employee safety representative.** **Involve your trade union safety rep or the designated health and safety lead for your site.** They have specific rights to inspect the workplace and consult with management following an incident.
-8. **Check the mandatory Health and Safety Law poster.** **Locate the poster (usually in a breakroom or lobby) to find the contact details for your specific enforcing authority.** This will be either the Health and Safety Executive (HSE) or your local council’s environmental health department.
-9. **Invoke your statutory rights if you believe there is "serious and imminent danger."** **Under Section 44 of the Employment Rights Act 1996, employees and workers have the right to leave or refuse to return to a workplace in circumstances of danger they reasonably believe to be serious and imminent.** If you take this step, remain available in a safe location and immediately put your reasons in writing to your employer.
-10. **Escalate to the HSE or Local Authority if the hazard is ignored.** **Use the HSE "Tell us about a health and safety issue" online service if your employer refuses to address a significant risk.** Note that retail, office, and leisure workplaces are usually regulated by the local council, while industrial, construction, and healthcare sites are regulated by the HSE.
+1. **Get the threat into a clear written form.** If it was verbal, send a short note: “Please confirm in writing what legal action is being threatened, by whom, what the allegation is, and what you’re asking me to do by when.”
+2. **Preserve what already exists (do not alter anything).** Keep relevant emails, messages, tickets, logs, meeting invites, and document versions *as they are* in your work systems. Separately, write a private factual timeline (dates, who was involved, what you did, what you were told).
+3. **Ask what process is being used right now.** Clarify whether this is:
+   - an internal investigation (fact-finding),
+   - a disciplinary process,
+   - a grievance/complaint process, and/or
+   - an external civil claim (for example a “letter before action”).
+4. **Bring representation/support in early.**
+   - If you have a **trade union**, contact them now and ask for representation.
+   - **By law**, an employee or worker can usually be accompanied by a “companion” at a **disciplinary hearing** that could result in a formal warning or other disciplinary action, and at certain **grievance meetings**. A companion is typically a coworker, a certified workplace union rep, or a union official.
+   - In a **disciplinary investigation meeting**, there is **no legal right** to be accompanied, although an employer may allow it—ask in writing.
+5. **Ask for the allegation and evidence in writing.** Request copies of any complaint, incident report, or allegation letter, plus the policy/procedure they say you breached—so you respond to specifics, not panic.
+6. **If you’re told to attend a meeting, set simple boundaries in writing.** Ask for:
+   - whether it’s fact-finding or disciplinary,
+   - who will be present,
+   - what documents they’ll rely on,
+   - and reasonable time to prepare.
+7. **If you receive a solicitor’s letter / “letter before action”, don’t ignore it.** Acknowledge receipt briefly and state you’re seeking advice and will respond after that. If the deadline is tight, ask for a short extension in writing.
+8. **If suspension is mentioned, keep it procedural.** Ask for the suspension decision and terms in writing (for example whether it’s with pay, expected duration, and any contact restrictions) and do not argue the merits in the moment.
+9. **Check whether insurance or professional rules require notification.** If your work is covered by professional indemnity (through employer, membership body, or your own policy), notify the correct channel promptly and factually.
 
 ## What can wait
-- You do not need to determine who was "at fault" for the incident right now.
-- You do not need to decide if you want to file a formal grievance or legal claim today.
-- You do not need to provide a comprehensive, finalized witness statement in the first few minutes; a brief note of the facts is sufficient.
-- You do not need to research your full long-term employment rights while the hazard is still active.
+- You do not need to decide today whether to resign, “offer to pay,” or accept any settlement.
+- You do not need to produce a perfect explanation immediately—focus on preserving facts and getting the allegation clearly stated.
+- You do not need to contact the other side personally.
+- You do not need to argue your case in chats or corridors—keep it contained and written.
 
 ## Important reassurance
-It is common to feel a sense of "safety silence" or pressure to minimize an event after an incident occurs. Taking a pause to verify safety controls is a standard professional procedure, and your hesitation to enter a potentially dangerous area is a natural and responsible reaction.
+A threat of “legal action” is often used to create urgency even when the situation is still at an internal investigation or complaints stage. You can cooperate professionally while protecting yourself by keeping things factual, written, and supported.
 
 ## Scope note
-This guide covers immediate stabilization and harm-reduction steps in the hours following a workplace safety incident. It does not cover long-term litigation, complex RIDDOR reporting duties for employers, or internal disciplinary procedures.
+These are first steps only. What comes next depends on who is threatening action (employer, client, regulator), what documents you’ve received, and whether this is disciplinary, civil, or both.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional safety advice. UK health and safety law is complex; if you are unsure of your rights, contact ACAS or your trade union. In an immediate life-threatening emergency, always follow site evacuation protocols and contact emergency services.
+This is general information, not legal advice. If you receive a solicitor’s letter, court papers, or a formal disciplinary invitation, consider getting advice from a qualified UK employment solicitor or your union before responding in detail.
 
 ## Additional Resources
-- https://www.gov.uk/disciplinary-procedures-and-action-at-work
-- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/dealing-with-disciplinary-action-and-dismissal-at-work/
-- https://www.citizensadvice.org.uk/work/after-leaving-your-job/if-your-employer-says-you-owe-them-money/
-- https://www.acas.org.uk/deductions-from-pay-and-wages
+- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
+- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
+- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
+- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures/html
+- https://www.justice.gov.uk/courts/procedure-rules/civil/rules/pd_pre-action_conduct
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/

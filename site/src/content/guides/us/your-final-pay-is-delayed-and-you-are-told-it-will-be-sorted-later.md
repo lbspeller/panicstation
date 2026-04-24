@@ -1,91 +1,86 @@
----
+﻿---
 title: "What to do if… your final pay is delayed and you are told it will be sorted later"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "paycheck not received"
-  - "paycheck late"
-  - "missing direct deposit"
-  - "pay not deposited"
-  - "employer didn't pay me"
-  - "unpaid wages"
-  - "late wages"
-  - "payroll mistake"
-  - "pay stub no deposit"
-  - "salary not paid"
-  - "not paid for hours worked"
-  - "overtime not paid"
-  - "tips not paid"
-  - "commission not paid"
-  - "pay day missed"
-  - "wage claim how to"
-  - "report unpaid wages"
-  - "paycheck missing today"
-  - "help i wasnt paid"
-  - "what do i do if my pay is late"
-  - "what do i do if employer missed payday"
-  - "what do i do if direct deposit failed"
-  - "what do i do if my check is missing"
-  - "no money in bank account"
-  - "empty bank on payday"
-  - "missing money from work"
-  - "paycheck delay"
-  - "paychec missing"
-  - "paychek late"
-  - "missing wages at work"
-  - "employer holding pay"
-  - "missed payroll"
-  - "hr not responding to pay"
-  - "work unpaid"
-last_reviewed: "2026-03-17"
+  - final paycheck delayed
+  - last paycheck not paid
+  - unpaid final wages
+  - payroll says later
+  - employer withholding pay
+  - missing last payday
+  - late wages after termination
+  - resigned not paid
+  - fired not paid wages
+  - terminated no paycheck
+  - unpaid overtime in final check
+  - pto payout missing
+  - vacation payout missing
+  - wage claim state labor department
+  - wage and hour complaint
+  - paycheck short after quitting
+  - final pay dispute
+  - ex employer owes money
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… your final pay is delayed and you are told it will be sorted later (USA)
 
 ## Short answer
-Contact your employer’s payroll or HR department immediately to confirm the payment status and request an immediate manual check or wire transfer. Document all communication in writing and maintain copies of your time records.
+Get it in writing today: ask payroll/HR for the exact pay date and an itemized breakdown, then use your state labor agency wage-claim process if the regular payday (or your state’s final-pay deadline) has passed.
 
 ## Do not do these things
-- Do not wait for the next scheduled pay cycle without a written agreement on the specific date you will receive the missing funds.
-- Do not resign, walk off the job, or stop performing work in a way that could be classified as job abandonment before receiving legal or union advice.
-- Do not accept off-the-books cash payments or "under the table" settlements that bypass your official pay stub.
-- Do not pay any fees or "processing costs" to receive your own earned wages or to access an emergency payment.
-- Do not share your personal bank passwords or multi-factor authentication (MFA) codes with anyone claiming they need them to "trace" the deposit.
+- Do not rely on “we’ll fix it later” without a specific date and written confirmation.
+- Do not sign a release, “paid in full” form, or severance paperwork you don’t understand just to get your paycheck.
+- Do not accept off-the-books cash without a pay stub/earnings statement.
+- Do not threaten or post publicly — keep your leverage by staying factual and documentation-based.
+- Do not wait weeks once it’s overdue — state enforcement options exist, but delays can complicate recovery.
 
 ## What to do now
-1. **Verify your records and bank status before contacting HR.** **Confirm the exact pay period dates, your recorded hours, and whether any changes were made to your bank account or routing numbers recently.**
-   - Check if you were recently switched from direct deposit to a paper check (common for first/last checks).
-   - Check your bank's "pending" section for ACH transfers that may be delayed by bank holidays or processing windows.
-2. **Contact your payroll or HR representative immediately through official channels.** **Ask specifically if your payment was issued, the exact method used (e.g., ACH, paper check, paycard), and the reference or check number.**
-   - If you do not have a payroll department, contact your direct supervisor or the business owner.
-3. **Request a same-day resolution if the error was internal.** **Ask if the employer can issue an immediate "on-demand" manual check or an instant bank wire to correct the missing pay.**
-   - Note that many employers have "emergency check" procedures for payroll errors.
-4. **Send a summary email to your employer following any verbal conversation.** **Document the date, the person you spoke with, the reason given for the delay, and the promised date of payment.**
-   - Example: "Per our conversation, my pay for [Date Range] was not received today. You stated [Reason] and that I will receive the funds via [Method] by [Time/Date]."
-5. **Secure your physical and digital evidence of work performed.** **Save copies of your timesheets, clock-in logs, schedules, and any messages (emails/texts) regarding your shifts or approved overtime.**
-   - If you are a tipped employee, ensure you have records of your daily tip logs.
-6. **Consult your union representative or employment contract if applicable.** **Review any specific grievance procedures or "pay shortage" clauses that require the employer to pay penalties for late wages.**
-7. **Identify your state’s wage claim process if the employer remains unresponsive.** **Search for "[Your State] Department of Labor wage claim" to find the specific filing portal for your jurisdiction.**
-   - Note: Some states (e.g., Florida, Alabama) do not have a state-level agency for wage claims; in these cases, you must use the federal route.
-8. **Contact the U.S. Department of Labor Wage and Hour Division (WHD) for federal assistance.** **Call the national toll-free helpline at 1-866-487-9243 (1-866-4-USWAGE) for guidance on filing a federal complaint under the Fair Labor Standards Act (FLSA).**
-   - For individuals who are deaf, hard of hearing, or have a speech disability, dial 7-1-1 to access telecommunications relay services.
+1. **Confirm whether you’re already overdue.**  
+   Employers are not required by federal law to give a final paycheck immediately, but states can require faster payment. If the **regular payday for your last pay period** has passed and you haven’t been paid, treat it as overdue and move to escalation.
+
+2. **Identify which rule applies in your state (quit vs fired matters).**  
+   Final-pay deadlines often differ depending on whether you **quit** or were **terminated/laid off**. Look up your state labor agency’s “final paycheck” or “unpaid wages” page and note the stated deadline (or call the agency if the guidance is unclear).
+
+3. **Send one clear written request to payroll/HR (email is best).** Include:
+   - Your name, employee ID (if any), last day worked, and the pay period dates
+   - “My final paycheck has not been paid” (or “is short”)
+   - A request for: **(a)** the pay date, **(b)** how it will be paid (direct deposit or paper check), **(c)** an itemized breakdown (hours, overtime, commissions/bonuses due, reimbursements), and **(d)** whether accrued PTO/vacation is being paid out (state law and company policy vary)
+
+4. **Prevent a “we sent it” delay: confirm payment method details.**  
+   If your direct deposit account was closed/changed, or you moved, tell them immediately and confirm your current mailing address. If necessary, request a **paper check** for pickup or mailing.
+
+5. **Capture your proof now (10 minutes).** Save:
+   - Offer letter/contract, and any handbook/policy about pay and PTO payout
+   - Commission/bonus plan terms (and any written approvals or sales reports, if relevant)
+   - Time records (timesheets, schedules, punch reports) and supervisor approvals
+   - Recent pay stubs and a screenshot of direct deposit history/bank statement showing the missing payment
+   - Separation paperwork (termination letter, resignation email/acceptance, exit checklist)
+
+6. **If it’s overdue and they still won’t pay, file with the right agency.**
+   - Start with your **state labor department / labor commissioner wage claim** process (most states handle unpaid final wages).
+   - If your issue includes **minimum wage and/or overtime**, you can also contact the **U.S. Department of Labor Wage and Hour Division (WHD)** to ask about filing a complaint.
+
+7. **If essentials are at risk, buy time without making things worse.**  
+   Tell your landlord/utility/lender (briefly) that your final paycheck is delayed and you are actively pursuing it, and ask about a short extension while it’s corrected.
 
 ## What can wait
-- You do not need to hire a private attorney immediately to start the claims process.
-- You do not need to decide whether to file a formal lawsuit today; government agencies can often recover back pay through administrative investigations.
-- You do not need to inform your coworkers of the situation unless you are part of a coordinated union action.
+- You do not need to decide today whether to hire a lawyer — first get a written employer position and your documentation in order.
+- You do not need to calculate the exact penny before you act — a good-faith estimate is enough to start a wage claim.
+- You do not need to argue about the reason for the delay — focus on “when will it be paid” and “what is included.”
 
 ## Important reassurance
-Missing pay is a high-stress event, but it is often the result of administrative errors, banking glitches, or payroll software malfunctions. Federal and state laws provide clear protections against unpaid wages. By keeping a written trail and following the internal reporting process first, you are placing yourself in the strongest position to recover what is owed, including potential penalties if the delay continues.
+This happens often, and you’re not overreacting by insisting on a written date and an itemized breakdown. A short, documented request is frequently what triggers payroll to cut the check.
 
 ## Scope note
-This guide covers first-step stabilization for a missed payday. It does not cover long-term litigation strategies, collective bargaining negotiations, or specific rules for independent contractors (1099 workers), who may have different contractual rights.
+These are first steps to stop an open-ended delay and set you up to use state/federal channels if needed. The best next move after this depends on your state’s final-pay rules and what type of pay is owed.
 
 ## Important note
-This guide is for informational purposes and does not constitute legal advice. Wage-payment requirements, including deadlines for final checks and penalties for late pay, vary significantly by state. Most federal wage claims must be filed within 2 years of the violation (3 years for willful violations). If your employer is insolvent or filing for bankruptcy, different priority rules for wage claims may apply.
+This is general information, not legal advice. Final paycheck timing rules are mostly set by state law and can differ based on whether you quit or were terminated, and on what pay is owed (wages vs commissions vs PTO). If you’re unsure which agency applies, start with your state labor department and/or the U.S. Department of Labor WHD for guidance.
 
 ## Additional Resources
 - https://www.dol.gov/general/topic/wages/lastpaycheck
 - https://www.dol.gov/agencies/whd/contact/complaints
-- https://www.dol.gov/agencies/whd/state/contacts
-- https://www.dol.gov/agencies/whd/state
+- https://www.dol.gov/agencies/whd
 - https://www.worker.gov/actions-whd-claim/

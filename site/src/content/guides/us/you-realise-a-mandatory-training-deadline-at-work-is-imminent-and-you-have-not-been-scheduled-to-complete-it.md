@@ -1,107 +1,68 @@
----
+﻿---
 title: "What to do if… you realise a mandatory training deadline at work is imminent and you have not been scheduled to complete it"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "employer legal letter"
-  - "legal letter from work"
-  - "breach of contract allegation"
-  - "accused of contract breach"
-  - "attorney letter from employer"
-  - "demand letter from employer"
-  - "cease and desist from employer"
-  - "threatened lawsuit by employer"
-  - "employment contract dispute"
-  - "workplace contract claim"
-  - "confidentiality breach allegation"
-  - "trade secrets accusation"
-  - "noncompete threat letter"
-  - "nonsolicitation allegation"
-  - "accused of taking company data"
-  - "deadline to respond letter"
-  - "former employer legal threat"
-  - "panic after legal notice"
-  - "employment agreement dispute"
-  - "lawsuit papers from employer"
-  - "summons and complaint"
-  - "arbitration demand notice"
-  - "what do i do if my employer sues me"
-  - "what do i do if i get a demand letter"
-  - "help i received a legal letter"
-  - "help i am being sued by work"
-  - "notice of intent to sue"
-  - "legal notice from company"
-  - "received lawyer letter"
-  - "contract violation notice"
-  - "wrongful breach allegation"
-  - "employment law notice"
-  - "legal document from boss"
-  - "breach of contract letter"
-  - "legal letter help"
-last_reviewed: "2026-03-17"
+  - mandatory training deadline imminent
+  - not scheduled for required training
+  - compliance training not assigned
+  - lms shows not enrolled
+  - training module missing from system
+  - required training due tomorrow
+  - overdue workplace training requirement
+  - no invite to mandatory training
+  - cannot access training link
+  - training sessions full or unavailable
+  - manager did not schedule training
+  - hr system role change not updated
+  - worried about discipline for training
+  - asked to certify training not done
+  - required safety training not completed
+  - request extension for training deadline
+  - need urgent enrolment in training
+  - investigatory meeting union rep request
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you realise a mandatory training deadline at work is imminent and you have not been scheduled to complete it (USA)
 
 ## Short answer
-Do not respond to the sender immediately. Preserve all related documents and digital data exactly as they exist, stop any conduct specifically identified as a breach, and consult an employment attorney in your state to determine if the notice is a demand or a formal court summons.
+Notify your supervisor and the training/HR contact today, in writing, that you are not enrolled/scheduled and need urgent access or a documented extension before the deadline.
 
 ## Do not do these things
-- Do not ignore the letter or any deadlines mentioned in the text.
-- Do not reply to the letter, even "off the record," to explain your side or apologize.
-- Do not delete, move, or "clean up" any files, emails, texts, or browser histories.
-- Do not sign any "acknowledgment of receipt" or settlement offer without legal review.
-- Do not contact the sender or their law firm to "verify" the letter using only the contact info provided in the document.
-- Do not discuss the matter on social media or with current or former coworkers.
-- Do not attempt to return company property or data without specific instructions from your own counsel.
+- Do not ignore the deadline or assume the system will “fix itself”.
+- Do not use another person’s login, share passwords, or ask someone to complete it for you.
+- Do not certify completion if you have not actually completed the training.
+- Do not send a heated or accusatory message; keep it factual and time-stamped.
+- Do not keep performing duties you believe require current training (especially safety-related) without flagging the risk and asking your supervisor what you should do instead.
 
 ## What to do now
-1. **Secure the physical and digital copies of the notice.**
-   **Save the original envelope (to prove the postmark date) and create a high-resolution scan or photo of every page.**
-2. **Identify the document type and specific deadlines.**
-   **Look at the header to see if it is a "Demand Letter" (from a law firm), an "Arbitration Demand," or a "Summons and Complaint" (from a court).**
-   - Note any "Respond By" dates or "Court Appearance" dates immediately.
-3. **Verify the sender's credentials through independent sources.**
-   **Search the state bar association website for the name of the attorney who signed the letter to ensure they are licensed and in good standing.**
-   - Check if the law firm’s official website matches the branding on the letter.
-   - Look for signs of "scam" letters, such as requests for immediate payment via wire transfer or suspicious grammar.
-4. **Initiate a personal litigation hold on all relevant data.**
-   **Identify and preserve every device, account, and document related to your employment or the alleged breach.**
-   - This includes personal cell phones, cloud storage (Google Drive / iCloud), and personal email accounts.
-   - Disable "auto-delete" or "disappearing messages" features on all messaging apps.
-5. **Locate your signed employment agreements.**
-   **Find the specific contract the employer claims was breached, including any non-compete, non-solicitation, or confidentiality addendums.**
-   - Look for an "Arbitration Clause" or a "Choice of Law" provision that specifies which state's laws apply.
-6. **Cease any conduct explicitly named as the breach.**
-   **If the letter alleges you are using trade secrets or contacting forbidden clients, stop that specific activity immediately while you seek counsel.**
-   - Do not admit fault by stopping; this is a risk-mitigation step to prevent further alleged "damages."
-7. **Find an employment attorney licensed in your specific state.**
-   **Use the National Employment Lawyers Association (NELA) directory or your state’s Bar Association referral service to find a plaintiff-side employment lawyer.**
-   - If you are a union member, contact your union representative immediately.
-8. **Request a deadline extension if you cannot find counsel in time.**
-   **If a deadline is within 48 hours, send a brief, neutral message stating: "I am in receipt of your letter and am currently seeking legal counsel; I request an extension of [number] days to respond."**
-   - Do not discuss the facts of the case in this message.
-9. **Calculate your formal response window if served with a lawsuit.**
-   **In Federal Court, you generally have 21 days from formal service to file a response (Rule 12), but this may be 60 days if you waived service.**
-   - State court deadlines vary (e.g., 30 days in California) and are often strictly enforced.
+1. **Verify the requirement and deadline in the official source.** Check your LMS/training portal assignments, your email/calendar (including spam), and any policy memo that lists the course and due date.
+2. **Document what you see right now.** Screenshot “not assigned”, “no sessions available”, “enrollment closed”, or access errors, and note the date/time.
+3. **Email/message your supervisor immediately with a clear ask.** Include: course name, deadline, what the system shows, and what you need (assignment, a session booking, or written extension). Ask them to confirm, in writing, what they want you to do before the deadline.
+4. **Contact the training owner/admin in parallel.** This might be HR, Learning & Development, Compliance, Safety/EHS, or your site administrator. If your workplace uses an IT/helpdesk ticket, open one and mark it time-sensitive due to a compliance deadline. Attach screenshots.
+5. **Offer a concrete completion plan if self-paced training is possible.** Example: “If you assign access today, I can complete it during my shift at [time].” Ask them to confirm the time is approved.
+6. **If the only option is outside your normal hours, pause and get clarity first.** Under federal wage-and-hour rules, training time is generally treated as paid work time unless all of these are true: it’s outside regular work hours, truly voluntary, not directly job-related, and you do no productive work while attending. Ask your supervisor/HR how they want you to schedule and record the time so you don’t accidentally create a pay/timekeeping issue while trying to fix a training issue (and note that state law or a contract/policy can be more protective).
+7. **If training is safety-related or required for certain tasks, reduce risk immediately.** Tell your supervisor if you believe you should stop specific duties until trained (for example, operating equipment, handling hazardous chemicals, certain patient/data workflows) and ask what alternate duties they want assigned.
+8. **If you’re called into an investigatory interview and you are union-represented, use your representation right.** If you reasonably believe the interview could lead to discipline, clearly request a union representative before answering questions. If you are not union-represented, ask HR whether your employer’s policy allows a support person to attend.
 
 ## What can wait
-- Deciding whether to settle or fight the claim in court.
-- Gathering "character witnesses" or statements from other employees.
-- Notifying your new employer (if applicable) about the letter, unless your attorney advises it is contractually required.
-- Analyzing the financial cost of a potential lawsuit.
+- You do not need to decide right now whether to file a formal complaint about the scheduling failure.
+- You do not need to write a long explanation; a short timeline plus screenshots is enough.
+- You do not need to accept blame in the moment; focus on getting scheduled/assigned and getting instructions in writing.
 
 ## Important reassurance
-Receiving a legal letter is a procedural step, not a final judgment. Employers often use demand letters as a high-pressure tactic to force a specific behavior or a quick settlement. Taking a few days to secure a lawyer and preserve evidence is a standard, protective response that does not imply guilt.
+This happens often when roles change, systems fail to auto-assign training, or session capacity runs out. What protects you is acting quickly, being factual, and creating a clear written record that you tried to comply before the deadline.
 
 ## Scope note
-This guide covers first-step stabilization for civil contract disputes in the USA. It does not cover criminal allegations, government employment (which may have different administrative rules), or non-US jurisdictions.
+These are first steps to prevent avoidable harm (discipline, compliance risk, unsafe work) and to buy time. Next steps depend on your employer’s policy, whether the training is legally/regulator-required, and whether you are union-represented.
 
 ## Important note
-This information is for educational purposes and does not constitute legal advice. Deadlines for responding to legal notices and lawsuits are strict and varies by state and court system; missing a deadline can result in a default judgment against you. Always consult with a qualified attorney licensed in your jurisdiction before taking action.
+This is general information, not legal advice. Rules can differ by state, union contract, and industry. If the situation is escalating toward discipline, consider getting support from your union (if applicable) or another appropriate workplace representative.
 
 ## Additional Resources
 - https://www.osha.gov/workers/employer-responsibilities
-- https://www.osha.gov/training/compliance
-- https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.30
 - https://www.dol.gov/agencies/whd/fact-sheets/22-flsa-hours-worked
-- https://webapps.dol.gov/elaws/whd/flsa/hoursworked/screenEE16.asp
+- https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-B/part-785/subpart-C/subject-group-ECFR517a5a13c426150/section-785.27
+- https://www.law.cornell.edu/cfr/text/29/785.27
+- https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/weingarten-rights

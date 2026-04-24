@@ -1,77 +1,97 @@
----
+﻿---
 title: "What to do if… you are asked to bring a colleague or representative to a meeting and the invite is vague"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "urgent passport scan request"
-  - "asked to email id scan"
-  - "hr wants passport copy"
-  - "insecure channel id request"
-  - "hiring paperwork time pressure"
-  - "right to work check panic"
-  - "share code instead of scan"
-  - "employer checking service eligibility"
-  - "id documents over whatsapp"
-  - "identity theft prevention step"
-  - "recruiter asks for passport"
-  - "onboarding document request"
-  - "suspicious hr email request"
-  - "send passport via sms"
-  - "photo of passport request"
-  - "job offer document verification"
-  - "data protection at work"
-  - "verify requester identity"
-  - "uk right to work 2026"
-  - "evisa share code help"
-  - "identity service provider uk"
-  - "idvt check passport"
-  - "secure id transfer"
-  - "human resources id request"
-  - "passport scam prevention"
-last_reviewed: "2026-03-17"
+  - vague meeting invite
+  - asked to bring a colleague
+  - asked to bring a representative
+  - bring someone to a meeting
+  - surprise meeting with manager
+  - meeting with manager and hr
+  - unclear meeting purpose
+  - no agenda provided
+  - disciplinary hearing notice
+  - grievance meeting companion
+  - investigatory meeting at work
+  - right to be accompanied
+  - companion not available
+  - last minute hearing
+  - asked to attend a hearing
+  - meeting outcomes not stated
+  - workplace meeting support person
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are asked to bring a colleague or representative to a meeting and the invite is vague (UK)
 
 ## Short answer
-Stop the transfer and verify the request through a known, trusted contact channel before offering a compliant digital alternative such as a Home Office share code or a certified Identity Service Provider (IDSP) link.
+Get the meeting clarified in writing (what it is, what it’s about, and possible outcomes) before you attend. If it’s a disciplinary hearing or a qualifying grievance meeting, make a reasonable request to be accompanied.
 
 ## Do not do these things
-- Do not send unencrypted images of your passport, birth certificate, or visa to personal email addresses or via messaging apps like WhatsApp or SMS.
-- Do not allow "urgency" or "onboarding deadlines" to pressure you into bypassing standard data security protocols.
-- Do not assume that an emailed scan is legally sufficient for a "manual" right to work check; employers must see the physical original to gain legal protection.
-- Do not provide secondary documents like bank statements or National Insurance letters over the same insecure channel.
-- Do not click links in unsolicited emails that ask you to "upload your ID" without verifying the domain owner first.
+- Do not guess what the meeting is about and “wing it”.
+- Do not go alone just because it feels awkward to ask questions.
+- Do not assume you automatically have a legal right to be accompanied at every workplace meeting (for example, initial fact-finding/investigatory meetings are often different).
+- Do not sign anything you have not had time to read and understand.
+- Do not hand over passwords, personal devices, or personal accounts “on the spot” without a clear, written reason and time to consider it.
+- Do not vent, speculate, or accuse in writing while you still don’t know the purpose of the meeting.
 
 ## What to do now
-1. **Verify the identity of the requester independently.** Do not use the phone number or reply-to address provided in the urgent message. **Call the company's main switchboard or use a known HR contact from the official website to confirm the request is genuine.**
-2. **Determine the specific legal purpose of the request.** Ask if the document is required for a statutory **Right to Work check**, a DBS criminal record check, or general internal identity verification. **Request a written explanation of how the data will be stored and when it will be deleted.**
-3. **Use the Home Office online service if you are not a British or Irish citizen.** Most visa holders and those with settled status now use **eVisas**. **Provide the employer with a "share code" generated via the GOV.UK website instead of a scan of a physical document.**
-   - This allows the employer to verify your status digitally without you needing to send high-resolution passport images.
-4. **Suggest a certified Identity Service Provider (IDSP) for British or Irish passports.** If you are a British or Irish citizen with a valid biometric passport and the role is remote, ask the employer to use a **certified IDSP using Identity Document Validation Technology (IDVT).**
-   - This involves a secure app-based scan and "liveness" check rather than sending an insecure email attachment.
-5. **Insist on a manual check if digital routes are unavailable.** For a manual check, the employer must be in **physical possession of your original document.** **Arrange to bring the original document to the office in person or, if remote, ask for a secure, tracked courier service to transport the original for inspection.**
-   - Inspection via a live video call while holding a scan or photocopy is no longer a valid legal "adjusted check" in 2026.
-6. **Use an encrypted transfer method if a copy is strictly required and verified.** If you must send a file, place the scan in a **password-protected PDF or ZIP file.** **Provide the password through a different communication channel, such as a phone call or a separate text message.**
-7. **Request access to a secure HR portal.** Ask if the company has a **dedicated, encrypted onboarding portal** where documents can be uploaded directly rather than sent via email.
-8. **Document the interaction.** Keep a log of who you spoke to and the safety concerns you raised. **If you have already sent a scan insecurely, contact the company's Data Protection Officer (DPO) immediately to request the file be moved to secure storage and deleted from the email server.**
+1. **Reply (briefly) asking what the meeting actually is — in writing.**  
+   Ask them to confirm which of these it is: an *investigation meeting* (fact-finding), a *disciplinary hearing*, a *grievance meeting/hearing*, or something else. Also ask for:
+   - the specific issue(s)/allegation(s) or topic(s)
+   - who will attend (names/roles) and who will chair it
+   - the expected duration and format
+   - **the possible outcomes** (for example, whether formal action is being considered)
+
+2. **Ask for what you’re expected to respond to — before the meeting.**  
+   Request copies of any evidence/information they plan to rely on (emails, reports, policy sections, complaint summary, notes). If they will not share everything, ask for a written outline of topics and the timeframe being discussed.
+
+3. **If it’s a disciplinary hearing: request to be accompanied (this is a legal right).**  
+   Put it in writing: “I’m making a reasonable request to be accompanied.”  
+   Your companion must usually be one of:
+   - someone you work with, or
+   - a workplace trade union representative certified by their union to act as a companion, or
+   - an official employed by a trade union.
+
+4. **If it’s a grievance meeting: check whether the legal right to be accompanied applies — and request anyway.**  
+   The legal right applies when the grievance is about the employer breaching a legal or contractual duty (including implied duties). If it’s unclear, ask them to treat it as accompanied as a matter of good practice.
+
+5. **If it’s an investigatory/fact-finding meeting: ask (in writing) to bring a note-taker/support person anyway.**  
+   Say you want someone present to take notes and help you stay accurate. If they say no, ask for:
+   - written questions/topics in advance, and/or
+   - permission to take your own notes, and/or
+   - a short reschedule so you can prepare.
+
+6. **If your chosen companion can’t attend the proposed time for a disciplinary/grievance hearing, propose a reasonable alternative promptly.**  
+   Ask to postpone to a reasonable time you propose (the statutory “rearrange” rule can apply if the alternative is reasonable and not more than five working days after the original proposed date).
+
+7. **Do a 2–5 minute “stability prep” so you don’t get rushed.**
+   - Write down: what you know, what you do not know, and 3 questions you will ask at the start.
+   - Agree with your companion: they take notes; you pause before answering; either of you can ask for a break if new information appears.
+
+8. **If you end up in the meeting without clarity, slow it down immediately.**  
+   At the start: “Before we begin, please confirm what type of meeting this is, what it’s about, and the possible outcomes.”  
+   If new allegations/evidence appear for the first time: “I need time to review this. I’m requesting a short adjournment and a follow-up meeting.”
 
 ## What can wait
-- You do not need to decide whether to report the requester for a data breach until you have secured your personal information.
-- You do not need to provide "just in case" documents today; only provide the specific document required for the current stage of the check.
-- You do not need to justify your caution; data security is a standard professional requirement, not a personal inconvenience.
+- You do **not** need to prepare a full response until you know what the meeting is and what the issue is.
+- You do **not** need to decide whether to raise a grievance, submit a counter-complaint, or appeal anything today.
+- You do **not** need to argue facts immediately if you have not been given the evidence they’re relying on.
+- You do **not** need to accept “informal” questioning if you’ve asked for clarification and accompaniment/support.
 
 ## Important reassurance
-It is normal to feel anxious when a new job or start date is framed as being at risk. However, legitimate UK employers are subject to strict UK GDPR and Home Office regulations; they are legally required to provide secure ways to handle your sensitive ID. Taking a few minutes to ensure a secure transfer protects you from identity theft and does not reflect poorly on your professionalism.
+A vague invite plus “bring a colleague/representative” can feel alarming. Asking for clarity, asking for documents, and bringing support are normal, reasonable steps that reduce the risk of being rushed into mistakes.
 
 ## Scope note
-This guide provides first-step stabilization for protecting identity data during the UK hiring process. It does not cover long-term identity theft recovery or complex immigration appeals.
+These are first steps to slow things down, get clarity, and protect you from avoidable errors. Later steps depend on whether this is investigatory, disciplinary, or grievance-related, and what your employer’s own policy says.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Right to work requirements and data protection standards are subject to change by the Home Office and the Information Commissioner's Office (ICO). Always prioritize official GOV.UK guidance for statutory compliance.
+This is general information, not legal advice. Your contract and workplace policies may give you more (or clearer) process rights than the legal minimum. Keep requests calm and in writing, and prioritise clarity and support before engaging with allegations.
 
 ## Additional Resources
-- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/
 - https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
-- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/preparing-for-a-disciplinary-or-dismissal-meeting/
+- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
+- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures/html
+- https://www.acas.org.uk/sites/default/files/2024-08/discipline-and-grievances-at-work-the-acas-guide.pdf
+- https://www.legislation.gov.uk/ukpga/1999/26/section/10

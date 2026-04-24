@@ -1,95 +1,95 @@
----
+﻿---
 title: "What to do if… you receive a request at work to preserve emails and documents for a legal hold"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "workplace retaliation"
-  - "retaliation after complaint"
-  - "punished for complaint at work"
-  - "punished for reporting wrongdoing"
-  - "whistleblowing retaliation"
-  - "retaliation for reporting safety"
-  - "demotion after complaint"
-  - "hours cut after complaint"
-  - "fired after reporting issue"
-  - "sudden write up after complaint"
-  - "performance plan after complaint"
-  - "supervisor backlash after report"
-  - "hostile treatment after complaint"
-  - "fear of termination after report"
-  - "employer targeting me"
-  - "workplace reprisal"
-  - "retaliation for discrimination complaint"
-  - "retaliation for raising concerns"
-  - "documented adverse action"
-  - "what do i do if my boss is retaliating"
-  - "what do i do if i was demoted after a report"
-  - "what do i do if hours were cut after grievance"
-  - "what do i do if i suspect retaliation"
-  - "help i am being retaliated against"
-  - "help i reported wrongdoing and now i am in trouble"
-  - "help my supervisor is punishing me for a report"
-  - "help i was fired for whistleblowing"
-  - "burning sensation from supervisor"
-  - "visible exclusion from meetings"
-  - "sudden negative performance review"
-  - "unexplained pay cut"
-  - "retaliation for safety report"
-  - "wrongful termination retaliation"
-  - "eeoc retaliation filing"
-  - "osha whistleblower protection"
-last_reviewed: "2026-03-17"
+  - legal hold notice at work
+  - litigation hold request
+  - preserve emails and documents
+  - stop deleting work emails
+  - preserve electronically stored information
+  - preservation notice workplace
+  - email retention hold
+  - preserve teams messages
+  - preserve slack chats
+  - preserve google chat work
+  - preserve text messages for work
+  - preserve shared drive files
+  - preserve onedrive documents
+  - preserve google drive files
+  - preserve email attachments
+  - preserve calendar invites
+  - preserve meeting notes
+  - do not alter documents
+  - do not overwrite files
+  - workplace lawsuit hold
+  - workplace investigation preserve records
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you receive a request at work to preserve emails and documents for a legal hold (USA)
 
 ## Short answer
-Pause, document, and preserve evidence off your work devices immediately — then identify the specific federal or state agency that matches your complaint to avoid missing short filing deadlines. Acting early preserves your legal standing even if you are still attempting to resolve the issue internally.
+Immediately stop deleting or changing any potentially related emails, chats, texts, and documents, then follow the hold notice and ask IT/legal to apply a technical litigation hold so routine deletion doesn’t occur.
 
 ## Do not do these things
-- Do not quit on impulse or send an emotional resignation message; pause first and protect your options.
-- Do not sign severance agreements, waivers, or last-minute disciplinary documents on the spot; request time to review.
-- Do not delete emails, texts, or call logs; you may require these records for future proceedings.
-- Do not remove confidential company data or restricted files; preserve only evidence you are legally permitted to access.
-- Do not record conversations without verifying your state's consent laws and company policy; use written recaps instead.
-- Do not post details of the dispute or employer actions on social media or public forums.
+- Do not delete emails, chats, texts, files, drafts, or calendar items related to the matter (even if they seem unimportant).
+- Do not “clean up” by renaming, re-saving, backdating, editing, or consolidating files (it can change metadata and create suspicion/confusion).
+- Do not move work material to personal email, personal cloud storage, or a USB drive.
+- Do not forward the hold notice broadly or discuss details in large group chats.
+- Do not decide on your own what is “relevant enough” to keep—preserve first.
+- Do not assume backups mean you’re covered; retention settings can still delete content unless a hold is in place.
 
 ## What to do now
-1. **Create a chronological timeline of events starting today.** **List exactly what you reported, the date of the report, the person you reported it to, and every specific change in your treatment that followed.**
-   - Include dates, times, specific quotes, and names of witnesses.
-   - Note changes such as pay cuts, schedule shifts, exclusion from meetings, or sudden negative feedback.
-2. **Move copies of relevant evidence to a personal device or secure physical location.** **Save your own sent emails, copies of letters, and screenshots of messages that show dates and times.**
-   - If evidence exists only on work platforms you cannot copy, record the date, sender, subject line, and channel so it can be identified later.
-3. **Establish a paper trail for all work interactions going forward.** **Request that all performance concerns, allegations, or changes to your job duties be provided in writing.**
-   - Send short, neutral email summaries after meetings: "To confirm our discussion, the new requirement is X, and the deadline is Y."
-4. **Submit a clear, internal report of the suspected retaliation to HR or your compliance department.** **State the date of your original report, the adverse action that occurred afterward, and why you believe the two are linked.**
-   - Request that the adverse action be paused while the matter is investigated.
-5. **Determine the correct external filing agency based on the nature of your report.** **Deadlines vary significantly by agency and statute, some as short as 30 days.**
-   - **Discrimination or Harassment:** File an EEOC charge within 180 days (extended to 300 days in many states with local enforcement agencies).
-   - **General Workplace Safety (OSHA):** File a Section 11(c) complaint within 30 days of the retaliatory act.
-   - **Protected Concerted Activity (Union/Group Rights):** File an NLRB charge within 6 months.
-   - **Federal Employees:** Contact an agency EEO counselor within 45 days of the event.
-6. **Comply with 2026 NLRB evidence requirements if filing a labor charge.** **You must e-file a chronological outline of events and supporting documentation within 14 days of docketing your charge or it may be dismissed for lack of cooperation.**
-7. **Secure written notice of any disciplinary actions or termination.** **Ask for the specific policy allegedly violated, the evidence used, and the deadline for an internal appeal.**
-8. **Consult a qualified employment attorney or legal aid organization.** **Provide your timeline and evidence of adverse actions to help them identify the safest procedural path and ensure no deadlines are missed.**
+1. **Stop any deletion right now (including auto-deletion habits).**  
+   Don’t empty Trash/Deleted Items, don’t clear chat histories, don’t delete old versions, and don’t wipe call/text logs if they relate to the matter.
+
+2. **Freeze any “auto-cleanup” you control.**  
+   Pause mailbox cleanup rules, auto-archive, scripts that purge folders, or routines that wipe downloads/temp folders—until IT confirms what’s allowed under the hold.
+
+3. **Open the hold notice and capture the essentials (privately).**  
+   Write down:
+   - matter name/reference
+   - time period
+   - topics/people/projects
+   - systems covered (email, Teams/Slack, SharePoint/OneDrive, Google Drive/Chat, local drives, phones, paper)
+   - who to contact with questions
+
+4. **Acknowledge receipt promptly and ask for two clarifications if needed.**  
+   Ask:
+   - what data sources are in scope for you, and
+   - whether IT will apply a platform hold (so preservation doesn’t rely on manual behavior).
+
+5. **Ask specifically how the technical hold will be implemented in your environment.**  
+   You are not asking to do it yourself—just to ensure it exists. Examples you can name if relevant: a Microsoft 365/Purview eDiscovery hold, or a Google Vault hold that overrides retention/deletion for the accounts/spaces/drives in scope.
+
+6. **Flag anything that could be routinely deleted or wiped.**  
+   Tell IT/legal today if any apply: mailbox quotas that force deletions, short chat retention, planned device replacement, offboarding steps, shared folders with deletion schedules, or project tools with “auto-delete after X days”.
+
+7. **List likely locations of relevant information (without exporting/collecting).**  
+   Make a quick inventory: Outlook/Gmail folders, Teams/Slack/Chat DMs, shared drives, SharePoint sites, OneDrive/Google Drive, local folders, notes apps used for work, work phone messages, paper notebooks. Share the inventory only with the designated contact if they ask.
+
+8. **If any work on this topic touched personal devices or personal accounts, disclose it—don’t move it.**  
+   Example: “Some client texts were on my personal phone.” Don’t self-export, screenshot, or forward anything unless legal/IT gives the approved method (privacy, policy, and chain-of-custody issues can apply).
 
 ## What can wait
-- You do not need to decide today whether you will eventually file a lawsuit or resign.
-- You do not need a completed case file or "perfect" evidence before you report retaliation internally or to an agency.
-- You can postpone broader career decisions until you have stabilized your immediate legal standing and preserved evidence.
-- You do not need to confront the individuals you suspect of retaliating; keep all interactions strictly procedural.
+- You do **not** need to decide what the case is “about” or who is right—your job is preservation.
+- You do **not** need to start producing documents to anyone unless the official process requests it.
+- You do **not** need to write a full narrative statement unless HR/legal asks you to.
+- You do **not** need to contact outside parties yourself unless instructed by counsel/HR.
 
 ## Important reassurance
-Retaliation often manifests as subtle shifts in communication, exclusion, or sudden "performance issues" that did not exist previously. Creating a factual timeline helps restore clarity and allows you to move from a reactive state to a documented, procedural response.
+A legal hold often goes to many people and can be routine when litigation, a government inquiry, or an internal investigation is possible. The safest response is consistent and simple: don’t delete, don’t edit, don’t move data off-system, and route questions through the official contact.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction actions. Later stages involving formal litigation, settlement negotiations, or administrative hearings require specialized legal advice and an understanding of specific state and federal statutes.
+This is first-steps-only guidance to prevent accidental deletion or irreversible mistakes. Your employer’s legal/HR/IT teams may have specific instructions based on your systems and role.
 
 ## Important note
-This information is for general guidance and is not legal advice. Filing deadlines are strictly enforced and missing a deadline can permanently bar your claim. The appropriate agency and time limit depend on the type of wrongdoing reported and the nature of your employer. If you believe a deadline is approaching, seek professional legal counsel immediately.
+This guide is general information, not legal advice. If you’re unsure about scope, personal-device involvement, or what counts as “changing” a record, ask the designated legal/HR/IT contact before taking any action that alters, moves, or deletes data.
 
 ## Additional Resources
-- https://www.hhs.gov/web/governance/digital-strategy/it-policy-archive/litigation-holds.html
-- https://www.fda.gov/media/188398/download
-- https://policymanual.nih.gov/1743-2
+- https://www.uscourts.gov/sites/default/files/2025-02/federal-rules-of-civil-procedure-dec-1-2024_0.pdf
 - https://www.law.cornell.edu/rules/frcp/rule_37
-- https://www.ned.uscourts.gov/internetDocs/cle/2010-07/LitigationHoldTopTen.pdf
+- https://learn.microsoft.com/en-us/purview/edisc-hold-create
+- https://support.google.com/vault/answer/3374023
+- https://support.google.com/vault/answer/3374023?hl=en

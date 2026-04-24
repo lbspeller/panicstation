@@ -1,86 +1,84 @@
----
+﻿---
 title: "What to do if… you witness unsafe practiceat work and are told not to report it"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "employer insolvency announcement"
-  - "employer bankruptcy uk"
-  - "company entering administration"
-  - "company liquidation announced"
-  - "business going insolvent"
-  - "wages might not be paid"
-  - "redundancy due to insolvency"
-  - "redundancy payments service claim"
-  - "unpaid wages after insolvency"
-  - "holiday pay owed insolvency"
-  - "notice pay not paid"
-  - "employer in cva"
-  - "job at risk insolvency"
-  - "workplace closing warning"
-  - "employer appoints administrators"
-  - "insolvency practitioner contact"
-  - "payslips missing payroll collapse"
-  - "sudden workplace shutdown"
-  - "employer stops trading"
-  - "statutory redundancy claim"
-  - "insolvency service claim"
-  - "case reference number cn"
-  - "loss of notice number ln"
-  - "what do i do if my company goes bust"
-  - "what do i do if my employer is insolvent"
-  - "what do i do if business enters administration"
-  - "help i am being made redundant insolvency"
-  - "help i have not been paid wages"
-  - "help my boss said company is bankrupt"
-  - "my employer is in liquidation"
-  - "my wages are unpaid insolvency"
-  - "smell of office closure"
-  - "notice of redundancy"
-  - "administration staff briefing"
-  - "liquidator contact details"
-  - "preferential creditor status"
-last_reviewed: "2026-03-17"
+  - unsafe practiceat work
+  - unsafe practice at work
+  - unsafe workplace situation
+  - dangerous work activity
+  - health and safety breach
+  - told not to report safety
+  - pressured to stay quiet
+  - manager says ignore hazard
+  - safety concern at work
+  - whistleblowing about safety
+  - fear of retaliation at work
+  - cover up a near miss
+  - unsafe procedure being used
+  - reporting wrongdoing at work
+  - workplace hazard witnessed
+  - asked to break safety rules
+  - discouraged from reporting
+  - blocked from incident reporting
+  - safety issue being hidden
+last_reviewed: "2026-01-07"
 ---
-# What to do if… you witness unsafe practiceat work and are told not to report it (UK)
 
+# What to do if… you witness unsafe practiceat work and are told not to report it (UK)
 ## Short answer
-Identify the specific insolvency type and get the contact details for the appointed insolvency practitioner immediately. Secure your personal employment records and do not resign until you have confirmed how it affects your redundancy and notice pay rights.
+If anyone could be harmed, prioritise immediate safety and make a clear, factual report through a channel that creates a record (in writing where possible). If your workplace blocks you, you can raise the concern as whistleblowing and/or report it to the relevant health and safety enforcing authority.
 
 ## Do not do these things
-- Do not resign immediately to "beat the rush," as this may disqualify you from statutory redundancy payments or notice pay.
-- Do not assume the business is closing today; procedures like Administration or a Company Voluntary Arrangement (CVA) often involve continued trading.
-- Do not continue working on verbal promises of future payment; track every hour worked from this moment onward.
-- Do not sign any "waiver of rights" or variations to your contract until you have reviewed the document away from the workplace.
-- Do not leave the premises with company property or return equipment without obtaining a signed and dated receipt.
-- Do not rely on your work email or internal portals for communication; they may be deactivated without warning.
+- Do not “just keep quiet” if there is a real risk of injury or serious harm.
+- Do not get drawn into an argument about blame or motives — stick to observable facts and risk.
+- Do not post about it on social media or share it widely at work (it can escalate conflict and undermine confidentiality).
+- Do not destroy or alter records (including deleting messages) out of fear.
+- Do not start secretly recording people unless you’ve thought through the risks in your situation (it can backfire). If you think recording might matter, consider getting advice first (for example via your union or an adviser).
+- Do not sign anything “confirming it’s resolved” if you do not genuinely believe the risk is controlled.
 
 ## What to do now
-1. **Request the exact insolvency details in writing from HR or the appointed practitioner.** **You need to know if the process is a Liquidation, Administration, or CVA, the formal start date, and the name of the Insolvency Practitioner (IP).**
-2. **Obtain the Case Reference (CN) number from the insolvency practitioner as soon as it is available.** **You cannot start a claim with the Redundancy Payments Service (RPS) without this unique code.**
-3. **Download and secure all personal employment evidence to a non-work device immediately.** **This must include your last 12 months of payslips, your most recent P60, your signed employment contract, and any documentation regarding pension contributions or bonuses.**
-4. **Create a meticulous log of all money currently owed to you.** **List unpaid wages (capped at 8 weeks by the RPS), accrued but untaken holiday (capped at 6 weeks), and any unreimbursed expenses.**
-5. **Verify your status if a business sale or TUPE transfer is mentioned.** **If the business is sold as a "going concern," your contract and any unpaid wages usually transfer to the new owner, but this depends on the specific insolvency type.**
-6. **Apply for your primary payments through the GOV.UK Redundancy Payments Service once you have been dismissed.** **Use the CN number to claim redundancy pay, holiday pay, and arrears of wages; the RPS uses a weekly pay cap of £751 (from 6 April 2026).**
-7. **Monitor your personal email for a separate "LN number" to claim statutory notice pay.** **This is usually sent after your statutory notice period has ended, and you cannot claim "loss of notice" until you receive this specific reference.**
-8. **Contact Acas for a status check if you are an agency worker or contractor.** **Rights in insolvency vary significantly depending on whether you are legally classified as an "employee" or a "worker."**
+1. **Make the situation safer first (if needed).**  
+   If there’s an immediate risk (for example, faulty equipment in use, unsafe work at height, chemical exposure, risk of violence), step back to a safer position and alert the person in charge of the work. If there is imminent danger to life, call **999**.
+
+2. **Write down a clean, time-stamped account while it’s fresh.**  
+   Note: date/time, exact location, what you saw (not opinions), who was present, what the risk is, and what you did — including being told not to report it. Keep it factual and short.
+
+3. **Use your employer’s safety reporting route — but switch to writing quickly.**  
+   If you have an incident/near-miss system, health & safety mailbox, or policy, use it. If you’re verbally told “don’t report”, send a brief email/message such as:  
+   “I’m raising a health and safety concern: [facts]. I’m concerned about risk of harm. Please confirm what control measures are in place.”  
+   Keep copies.
+
+4. **Escalate to a safer internal person if your line manager is blocking it.**  
+   Go one step up the line, or to a designated health & safety lead, HR, a whistleblowing contact, or a recognised trade union safety representative (if you have one). Ask for confidentiality if you need it.
+
+5. **If internal routes are blocked or you fear a cover-up, consider whistleblowing protections.**  
+   Health and safety concerns can fall under UK whistleblowing law. Many workers are protected by law if they make a qualifying disclosure (but protections depend on the circumstances), so keep your disclosure factual and focused on the risk and who else could be affected.
+
+6. **Report it to the correct enforcing authority if the risk is serious and work will not act.**  
+   First, **check who enforces health and safety for your workplace** (it’s often the **HSE**, but some workplaces are enforced by the **local authority**). Then report the concern to the relevant authority. If you need to go outside your employer, raising it to an appropriate external body for health and safety can also be a recognised whistleblowing route.
+
+7. **If you’re threatened or punished for raising it, get early employment guidance.**  
+   Keep a simple timeline of what changed (hours, duties, warnings, treatment) and when. Consider contacting **Acas** for guidance on whistleblowing and next steps.
 
 ## What can wait
-- You do not need to calculate the exact pence of your claim today; getting the records is the priority.
-- You do not need to decide on a new career path or job offer in the first few hours of the announcement.
-- You do not need to initiate legal action or Employment Tribunal claims immediately; the RPS is designed to pay out before a tribunal is necessary.
+- You do not need to decide today whether to resign, “go public”, or start a legal claim.
+- You do not need to prove intent or gather “perfect evidence” before raising a safety concern.
+- You do not need to confront the person who told you to stay quiet beyond making a clear report and escalating appropriately.
 
 ## Important reassurance
-It is normal to feel overwhelmed or panicked when a workplace faces insolvency. The UK has a robust safety net (the National Insurance Fund) specifically designed to pay employees when a company cannot, and as long as you have your records and the IP's contact details, the process is procedural rather than personal.
+It’s common to feel shocked, guilty, or scared of fallout when you’re pressured to stay quiet. Focusing on immediate risk and making a calm, factual report is a reasonable way to protect people and protect yourself.
 
 ## Scope note
-This guide provides first-step stabilization for the first 24 to 48 hours following an insolvency announcement. It does not cover long-term litigation, complex pension deficit claims, or director-specific liability issues.
+These are first steps to reduce immediate harm and prevent an irreversible mistake. Later stages (formal grievances, tribunals, or complex whistleblowing decisions) often need specialist advice.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Statutory limits and eligibility for payments depend on your specific contract and the type of insolvency procedure. If your wages are stopped or you are pressured to sign documents, seek independent advice from Acas or a qualified employment solicitor.
+This guide is general information, not legal advice. The correct route can vary by workplace and sector. If you believe there is immediate danger, prioritise safety and emergency help first.
 
 ## Additional Resources
 - https://www.gov.uk/whistleblowing
+- https://www.gov.uk/government/publications/whistleblowing-and-the-public-interest-disclosure-act-1998-c23/whistleblowing-and-the-public-interest-disclosure-act-1998-c23-accessible-version
 - https://www.acas.org.uk/whistleblowing-at-work
 - https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about
-- https://www.acas.org.uk/whistleblowing-at-work/how-to-make-a-whistleblowing-disclosure
-- https://www.gov.uk/government/publications/blowing-the-whistle-list-of-prescribed-people-and-bodies--2
+- https://www.hse.gov.uk/contact/tell-us-about-a-health-and-safety-issue.htm
+- https://www.hse.gov.uk/contact/authority.htm

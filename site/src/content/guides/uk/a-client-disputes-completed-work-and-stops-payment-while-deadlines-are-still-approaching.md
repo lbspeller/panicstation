@@ -1,92 +1,102 @@
----
+﻿---
 title: "What to do if… a client disputes completed work and stops payment while deadlines are still approaching"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "freelance account suspended"
-  - "freelance platform suspended"
-  - "freelance work in progress"
-  - "active freelance work"
-  - "freelance account suspension appeal"
-  - "marketplace account locked"
-  - "online freelance account banned"
-  - "help my freelance account is suspended"
-  - "what do i do if my freelance account is banned"
-  - "what do i do if i cannot log in to upwork"
-  - "what do i do if my fiverr account is disabled"
-  - "help i cannot message my freelance client"
-  - "my active contract is frozen"
-  - "red banner on freelance dashboard"
-  - "access denied message on login"
-  - "suspension email from trust and safety"
-  - "identity verification failed notice"
-  - "escrow funds frozen"
-  - "payout on hold"
-  - "missed deadline due to suspension"
-  - "freelance profile under review"
-  - "freelance profile hidden"
-  - "platform compliance hold"
-  - "subject access request freelance"
-  - "ico complaint freelance platform"
-  - "work in progress account lock"
-  - "freelance suspension evidence"
-  - "saving freelance chat history"
-  - "freelance contract documentation"
-  - "locked out of active project"
-last_reviewed: "2026-03-17"
+  - client disputes completed work
+  - client refusing to pay
+  - payment stopped mid project
+  - invoice unpaid after delivery
+  - disputed deliverables
+  - client withholding final payment
+  - work accepted then disputed
+  - last minute scope dispute
+  - client claims work is incomplete
+  - deadlines still approaching
+  - urgent project deadline dispute
+  - client stops payment suddenly
+  - nonpayment after completion
+  - client demands changes for free
+  - retainer or milestone unpaid
+  - contract deliverable dispute
+  - payment hold over quality
+  - client ghosting after delivery
+  - client delays sign off
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… a client disputes completed work and stops payment while deadlines are still approaching (UK)
 
 ## Short answer
-Isolate your local work files and evidence immediately, then submit a single, factual appeal through the platform’s official "Trust and Safety" or support channel requesting temporary access for project handover.
+Pause further work until the dispute and the payment position are clarified in writing, and send a calm “facts + what’s disputed + deadline impact” message today. Your goal is to stop the situation getting messier while you protect your evidence, your time, and your ability to recover payment.
 
 ## Do not do these things
-- Do not attempt to create a secondary "backup" account while the first is suspended, as this often triggers a permanent IP or identity ban.
-- Do not contact your client through external social media or personal email if the platform’s Terms of Service (ToS) strictly forbid off-platform communication.
-- Do not delete any local browser history, cache, or files related to the platform until you have secured screenshots.
-- Do not send multiple, repetitive support tickets, which can reset your place in the automated review queue.
-- Do not initiate a bank chargeback for previous platform fees unless you have decided to abandon the account permanently, as this usually results in an immediate, irreversible ban.
+- Do not keep working “to prove yourself” while payment is stopped (it often deepens losses and muddies what was agreed).
+- Do not send angry or threatening messages—assume everything may be read by a third party later.
+- Do not agree (in writing) that your work was “not delivered” or “not usable” just to move things along.
+- Do not hand over additional source files, admin access, or extra deliverables unless it’s part of a clear, written settlement.
+- Do not delete client materials, shut systems down, or lock them out in panic—avoid anything that looks like retaliation.
+- Do not let “their deadline” force you into unpaid overtime or rushed concessions.
 
 ## What to do now
-1. **Capture a digital trail of the current state.** Use a screen recorder or take manual screenshots of the following:
-   - The specific suspension notice or "Access Denied" screen.
-   - Any ticket numbers or case IDs provided in the notification.
-   - All active contract titles, client names, and milestone deadlines.
-   - Current balance screens, including "Pending," "In Review," and "Available" funds.
-2. **Search your registered email inbox for specific compliance codes.** Look for terms such as "Verification," "TOS," "Section," or "Compliance Review."
-   - Identify if the suspension is a "Hard Block" (no login possible) or a "Financial Hold" (work continues, but funds are frozen).
-3. **Secure all local work product and project communication.** Save copies of all drafts, source files, and delivery notes currently on your device.
-   - Prepare a "Handover Document" offline that details exactly what stage the active work has reached.
-4. **Submit a formal appeal via the platform’s designated 2026 support route.** Ensure your message includes:
-   - Your full account name and registered email.
-   - A list of active Contract IDs that are now at risk of missing deadlines.
-   - A specific request for "Limited Handover Access" to deliver files to clients.
-   - A statement of willingness to provide further identity or tax documentation if required.
-5. **Check your "Making Tax Digital" (MTD) record compliance if applicable.** If your self-employed income exceeds £50,000, ensure your local digital records for the 2026/27 tax year are updated independently of the platform's dashboard.
-   - Under UK law, you must maintain your own digital records of income and expenses; do not rely solely on the platform's history.
-6. **Issue a "Subject Access Request" (SAR) if the reason for suspension is withheld.** Use the Information Commissioner’s Office (ICO) standard wording to request all personal data held about your account, including internal notes on the suspension.
-   - Be aware that the platform can "stop the clock" on the 31-day response limit if they require clarification on your identity or the scope of your request.
-7. **Notify active clients only if the platform allows it.** If messaging is still functional, send a neutral status update.
-   - **"My account is currently under a standard security review. I am working with support to resolve this and will provide a status update as soon as access is restored."**
-8. **Document the financial impact.** Keep a log of the date of suspension, the value of the work currently in escrow, and any work you have completed but cannot yet submit.
+1. **Freeze the moving parts (10 minutes).**  
+   Stop new work and stop informal back-and-forth. Make a single place to track: contract/SOW, change requests, emails/messages, versions, approvals, meeting notes, invoices, payment terms, and exactly what you delivered.
+
+2. **Check the contract for acceptance, disputes, and suspension rights.**  
+   Look for: sign-off/acceptance steps, time to raise issues (if any), change-control wording, dispute resolution, and whether you can suspend work for non-payment. If the contract is thin, pull together what was agreed in writing (quote/estimate/email).
+
+3. **Send a “dispute clarification + deadline impact” message (today).**  
+   Keep it short and structured:
+   - what was delivered (with links/attachments and dates)  
+   - what was previously approved/confirmed (quote the message)  
+   - request a **written, itemised** list of issues and how they differ from the agreed scope  
+   - ask whether they dispute **all** of the invoice or only part  
+   - state your immediate position: work is **paused** until (a) the undisputed amount is paid and (b) the disputed items and acceptance criteria are defined  
+   - state the consequence: deadlines move because work is paused (give the earliest realistic next-delivery date)
+
+4. **Ask for the “undisputed amount” to be paid immediately.**  
+   If they say “we’re withholding payment,” ask them to pay what’s not in dispute now and put the rest into a punch list with due dates and clear acceptance criteria.
+
+5. **Lock in proof of completion (today).**  
+   Export or screenshot: delivery messages, shared-drive upload logs, repository commits, ticket closures, approvals, and any client feedback acknowledging completion. Save a clean copy of what you delivered (exact files/versions).
+
+6. **Make a clear stop/go call on upcoming deadlines.**  
+   Choose one:
+   - **Go** only if they pay and confirm (in writing) what “done” means for the next milestone; or  
+   - **Stop** and confirm you cannot responsibly commit to deadlines while payment is withheld and requirements are disputed.
+
+7. **If you’re a small business and the customer is a larger private-sector business, consider the Office of the Small Business Commissioner (OSBC).**  
+   OSBC can help with payment disputes where a **small business** complains about a **larger business** (and can also provide guidance/signposting when it cannot investigate). Keep it as a support/escalation option while you continue to document the dispute. (If your work falls under specialist regimes like some construction adjudication routes, OSBC may not be the right place.)
+
+8. **Keep statutory late-payment remedies as a later rung on your escalation ladder (only if it’s genuinely “late,” not legitimately disputed).**  
+   If the invoice (or a portion of it) is accepted/undisputed and simply overdue in a business-to-business deal, you may be entitled to statutory interest and a fixed compensation amount. If the invoice is legitimately disputed, treat interest/compensation as something to revisit after the dispute is narrowed or resolved.
+
+9. **If they still won’t engage, prepare the right kind of pre-action letter for your situation.**  
+   - If the client is an **individual** (including a sole trader) and you’re pursuing a debt, the **Pre-Action Protocol for Debt Claims** may apply.  
+   - Otherwise, follow the general **Practice Direction – Pre-Action Conduct and Protocols** / any relevant protocol.  
+   Keep it factual: what you provided, what’s owed, what’s disputed, what you need to restart, and a clear deadline to respond/pay. If you later issue a claim, use the appropriate HMCTS online route for money claims where suitable.
 
 ## What can wait
-- You do not need to provide a detailed rebuttal to a "Terms of Service" violation until you have received the specific reason for the flag.
-- You do not need to contact the ICO or a legal professional in the first 48 hours; most platforms require an initial "internal appeal" period.
-- You do not need to worry about your "Job Success Score" or platform rating immediately, as these are often frozen or hidden during active reviews.
+- You do not need to decide today whether you will sue, mediate, or write off the debt.
+- You do not need to redesign your whole contract or pricing model right now.
+- You do not need to respond instantly to every message—one clear daily update is often safer than rapid-fire replies.
+- You do not need to negotiate scope live; you can insist on a written, itemised issues list first.
 
 ## Important reassurance
-Account suspensions are frequently triggered by automated security filters, such as logging in from a new IP address or a routine identity re-verification. These "safety holds" do not necessarily mean your account is lost or that you have committed a violation. Following the official appeal process is the standard path to restoration.
+A sudden non-payment dispute feels personal, but it’s also a common leverage point in commercial relationships. Slowing down, getting specifics in writing, and pausing further work is a normal professional response that prevents the situation from snowballing.
 
 ## Scope note
-This guide provides first-step stabilization and evidence preservation for UK-based freelancers. It does not cover long-term legal claims, arbitration for large-sum disputes, or cross-border tax advice.
+These are first steps to stabilise the situation and prevent irreversible mistakes. If the amount is large, deadlines are critical, or the relationship is breaking down, tailored legal advice may be appropriate.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Platform terms of service are private contracts and your rights depend on the specific agreement signed. UK data protection rights (SARs) apply to personal data but may not always force the disclosure of proprietary fraud-detection logic. If significant funds are frozen, consult a qualified legal professional or the Citizens Advice Bureau.
+This is general information, not legal advice. The best next step depends on the contract terms, whether the client is a business or an individual, and which UK legal system applies. If you feel pressured to act immediately, prioritise: written clarity, evidence preservation, and pausing unpaid work.
 
 ## Additional Resources
 - https://www.gov.uk/late-commercial-payments-interest-debt-recovery
 - https://www.gov.uk/late-commercial-payments-interest-debt-recovery/charging-interest-commercial-debt
-- https://www.smallbusinesscommissioner.gov.uk/help-and-guidance/all-advice/legal-action-for-late-payments/
-- https://www.gov.uk/make-court-claim-for-money
-- https://www.businesscompanion.info/focus/alternative-dispute-resolution/the-adr-process
+- https://www.justice.gov.uk/documents/debt-pap.pdf
+- https://www.justice.gov.uk/courts/procedure-rules/civil/rules/pd_pre-action_conduct
+- https://www.moneyclaims.service.gov.uk/make-claim
+- https://www.gov.uk/government/publications/money-claim-online-user-guide
+- https://www.smallbusinesscommissioner.gov.uk/faqs/
+- https://www.smallbusinesscommissioner.gov.uk/contact-us/

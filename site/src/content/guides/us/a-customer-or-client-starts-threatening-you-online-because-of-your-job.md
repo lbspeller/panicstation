@@ -1,103 +1,81 @@
----
+﻿---
 title: "What to do if… a customer or client starts threatening you online because of your job"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "customer threatens me online"
-  - "client threatening messages"
-  - "online harassment from customer"
-  - "abusive client emails"
-  - "social media threats at work"
-  - "work-related online threats"
-  - "client intimidation online"
-  - "doxxed by a customer"
-  - "review extortion threat"
-  - "threatening dm from client"
-  - "customer rage on socials"
-  - "online stalking by client"
-  - "client complaint threats"
-  - "threats because of my job"
-  - "unsafe client contact"
-  - "public posts targeting me"
-  - "help i am being threatened online by a client"
-  - "what do i do if a customer threatens me"
-  - "what do i do if a client is harassing me"
-  - "what do i do if i am being doxxed"
-  - "my client is sending threatening messages"
-  - "my customer is stalking me online"
-  - "help a client is threatening my family"
-  - "help i feel unsafe because of a customer"
-  - "burning smell from laptop"
-  - "scary messages on instagram"
-  - "angry client emails"
-  - "harassment on linkedin"
-  - "workplace violence prevention"
-  - "employer duty of care threats"
-  - "threat of physical harm at work"
-  - "cyberbullying by customers"
-  - "professional boundary crossing"
-  - "job-related stalking"
-  - "social media abuse"
-  - "internet threats"
-last_reviewed: "2026-03-17"
+  - customer threatens me online
+  - client threatening messages
+  - online harassment from customer
+  - abusive client emails
+  - social media threats at work
+  - work-related online threats
+  - client intimidation online
+  - doxxed by a customer
+  - review extortion threat
+  - threatening dm from client
+  - customer rage on socials
+  - online stalking by client
+  - client complaint threats
+  - threats because of my job
+  - unsafe client contact
+  - public posts targeting me
+  - employer support for threats
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… a customer or client starts threatening you online because of your job (USA)
 
 ## Short answer
-Cease all direct contact with the individual and immediately preserve all evidence of the threats. Report the incident to your employer’s security or HR department and contact law enforcement if you believe there is a risk of physical harm.
+Stop engaging, save the evidence, and report it through your workplace safety/HR channels now. If you feel in immediate danger, call 911.
 
 ## Do not do these things
-- Do not argue, justify your actions, or attempt to negotiate with the person in comments or direct messages.
-- Do not delete any messages, posts, or emails until you have confirmed they are backed up and screenshotted.
-- Do not provide personal information such as your home address or private phone number in an attempt to defend yourself.
-- Do not agree to meet the person in a physical location to resolve the dispute.
-- Do not monitor the person’s social media profiles or "investigate" them yourself.
+- Don’t argue, “explain,” or negotiate in DMs, comments, or review replies.
+- Don’t delete messages/posts before saving proof (you may lose evidence).
+- Don’t share personal details to defend yourself (home address, routine, family info).
+- Don’t meet the person in real life to “resolve it”.
+- Don’t keep taking direct calls/messages from the same client once threats start.
 
 ## What to do now
-1. **Determine if you are in immediate physical danger.** If the individual has indicated they know your location or are traveling to find you, call 911 immediately.
-   - Request an officer to take a formal report.
-   - Note the responding officer’s name and badge number.
+1. **Decide if this is an emergency.**  
+   If you believe there’s an immediate risk of harm or the person may show up, **call 911**. If it’s threatening/harassing but not an emergency, contact your **local police non-emergency** option.
 
-2. **Capture and preserve all digital evidence before the content is removed or edited.** Take screenshots that include the platform name, the offender’s username, the date and time of the post, and the full text or image of the threat.
-   - Save the direct URLs of the threatening posts.
-   - Export or "save as" emails to preserve technical header information.
-   - Create a simple log of the events in chronological order.
+2. **Preserve evidence (before you block).**  
+   Screenshot the threats with **usernames, dates/times, and URLs**. Save emails in a way that keeps message details if you can. Write a brief timeline: what happened, when, and how it connects to your job.
 
-3. **Report the threat to your employer through official safety or HR channels.** Notify your supervisor or the designated workplace violence prevention team immediately.
-   - Request that the employer logs the incident as a workplace safety hazard.
-   - Ask for a copy of the internal incident report for your records.
+3. **Report it internally right away and ask for concrete protections.**  
+   Notify your **manager/HR/security** (or your workplace violence reporting channel). Ask them to **log the threat**, preserve relevant work records (customer account notes, call logs, scheduling records), and confirm who owns next steps.
 
-4. **Request immediate safety measures that your employer is responsible for providing.** Under federal safety guidelines, employers must address recognized hazards that could cause harm.
-   - Request to have the client reassigned or banned from future service.
-   - Ask for your contact information or name to be removed from public-facing websites.
-   - Request that all future communications from that client be routed through a managed team inbox.
+4. **Request immediate risk-reducing changes that your employer controls.**  
+   Examples: reassign the client; pause service; route communications through a **team inbox/phone line**; remove your name from outward-facing comms where possible; adjust your schedule/location; brief front desk/security; consider banning/trespass procedures if your workplace uses them.
 
-5. **Report the abuse to the host platform and adjust your privacy settings.** Use the "Report" function on the social media site or email provider to flag harassment or violent threats.
-   - Block or mute the individual once evidence is saved.
-   - Set all personal profiles to private and remove any mentions of your specific work location.
+5. **Report the content to the platform and reduce exposure.**  
+   Use the platform’s reporting tools for threats/harassment and request takedown. After saving evidence, **block/mute**. Tighten privacy settings and limit what your profile reveals (workplace, location, contact info).
 
-6. **Report cyber-enabled extortion or fraud to the appropriate federal authorities.** If the individual is demanding money or attempting to hack your accounts, use official government reporting portals.
-   - Submit a report to the FBI Internet Crime Complaint Center (IC3) for financial scams or extortion.
-   - Use tips.fbi.gov for reporting non-emergency threats of violence or terrorism.
+6. **If the threats involve protected-characteristic harassment, document and escalate.**  
+   If the content targets race, sex, religion, national origin, disability, age, etc., flag that to HR. Employers may have duties to act on harassment connected to work, including by non-employees, depending on the situation and what the employer can control—so get it on record and request prompt corrective action.
+
+7. **If it’s cyber-enabled extortion/scam activity, use official reporting routes (but don’t misroute emergencies).**  
+   If the person is trying to extort money/data or this involves fraud, you can report to **the FBI’s Internet Crime Complaint Center (IC3)**. For time-sensitive threats or immediate danger, **call 911/local police first**. Beware lookalike “reporting portals”—use official government channels.
 
 ## What can wait
-- Deciding whether to hire a private attorney or pursue a civil lawsuit.
-- Issuing a public statement or responding to negative reviews left by the individual.
-- Evaluating your long-term career options or job changes.
-- Applying for a formal restraining order or order of protection unless the threat of physical violence is imminent.
+- Writing a public “statement” or long reply thread.
+- Deciding whether to pursue a restraining order, lawsuit, or media response.
+- Trying to “investigate” the person yourself online.
+- Major career decisions until the immediate risk is controlled.
 
 ## Important reassurance
-It is normal to feel significant stress, anxiety, or hyper-vigilance when your professional role leads to personal threats. Taking these steps to distance yourself and involve authorities is a standard safety protocol, not an overreaction.
+Feeling shaky, angry, or embarrassed is a normal reaction to being threatened. You’re not overreacting by treating this as a safety issue and involving your workplace.
 
 ## Scope note
-This guide provides first-step stabilization only. Long-term resolution may require legal counsel, workplace investigations, or specialized support for victims of stalking and harassment.
+This is first-steps guidance to stabilize and prevent escalation. Next steps may involve workplace investigations, legal advice, or victim support depending on the nature of the threats.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Workplace safety laws and reporting requirements vary by state and industry. If you are in immediate danger, always contact 911.
+This is general information, not legal advice. If you’re in immediate danger, call 911. If you’re being threatened or harassed, report it to your employer and appropriate law enforcement.
 
 ## Additional Resources
-- https://www.eeoc.gov/harassment
 - https://www.osha.gov/workplace-violence
-- https://www.eeoc.gov/small-business-fact-sheet-harassment-workplace
-- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/
-- https://complaint.ic3.gov/
+- https://www.osha.gov/sites/default/files/publications/factsheet-workplace-violence.pdf
+- https://www.eeoc.gov/harassment
+- https://www.eeoc.gov/laws/guidance/enforcement-guidance-harassment-workplace
+- https://www.fbi.gov/investigate/cyber
+- https://www.ic3.gov/

@@ -1,84 +1,84 @@
----
+﻿---
 title: "What to do if… your overtime or shift premiums are missing from your pay"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "work schedule changes"
-  - "night shift schedule change"
-  - "weekend work shifts"
-  - "little warning schedule change"
-  - "sudden work schedule change"
-  - "forced night shift"
-  - "last minute schedule change"
-  - "help i have a new work schedule"
-  - "what do i do if my schedule changed"
-  - "what do i do if my manager changed my hours"
-  - "what do i do if i have no notice for shifts"
-  - "my work schedule changed with no notice"
-  - "my boss changed my shift to nights"
-  - "help i cannot work weekends"
-  - "predictive scheduling laws"
-  - "fair workweek ordinance"
-  - "predictability pay rules"
-  - "clopening shift protections"
-  - "retail scheduling rights"
-  - "fast food schedule laws"
-  - "schedule changed to nights"
-  - "schedule changed to weekends"
-  - "work hours warning"
-  - "employment schedule change"
-  - "shift change notification"
-  - "written schedule evidence"
-  - "schedule change constraints"
-  - "workplace availability conflict"
-  - "night shift commute safety"
-  - "weekend childcare conflict"
-last_reviewed: "2026-03-17"
+  - overtime not paid
+  - missing overtime pay
+  - time and a half missing
+  - overtime missing from paycheck
+  - shift differential missing
+  - shift premium missing
+  - premium pay missing
+  - underpaid paycheck
+  - wrong pay stub
+  - missing overtime hours
+  - payroll error overtime
+  - unpaid extra hours
+  - unpaid wages overtime
+  - overtime rate wrong
+  - hours worked not paid
+  - wage complaint overtime
+  - shorted on paycheck
+  - missing night shift pay
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… your overtime or shift premiums are missing from your pay (USA)
 
 ## Short answer
-Request the new schedule in writing and save all previous scheduling records immediately. Determine if you are covered by local "Fair Workweek" or "Predictive Scheduling" laws that mandate advance notice and premium pay for late changes before formally stating your availability constraints.
+Document the missing hours/premiums and ask payroll to correct it in writing — if it’s not fixed quickly, file a wage complaint (federal and/or state) rather than chasing forever.
 
 ## Do not do these things
-- Do not fail to report for a scheduled shift (no-call/no-show) while the matter is unresolved.
-- Do not resign immediately before verifying your local legal protections or contract rights.
-- Do not sign new availability forms or waivers without a full review of the terms.
-- Do not rely on verbal agreements; everything must be documented in writing.
-- Do not use workplace group chats or social media to vent about the change.
+- Do not assume it will be fixed “next pay period” without written confirmation and a date.
+- Do not alter time records, ask someone to clock you in/out, or “make up” hours later.
+- Do not sign anything that waives back pay or reclassifies your time unless you understand the impact.
+- Do not fire off threats as a first move — keep it factual so it stays resolvable.
+- Do not let it drag on; wage claims have time limits, and evidence gets harder to pull later.
 
 ## What to do now
-1. **Save all existing scheduling records immediately.** Capture screenshots of the original schedule, the new schedule, and any timestamps on digital portals or app notifications. Document the exact time you were notified and the method used (text, email, or verbal).
-2. **Review your initial employment documents for scheduling clauses.** Check your offer letter, employee handbook, and any collective bargaining agreement (CBA) if you are in a union. Look for specific language regarding notice periods, "guaranteed hours," or requirements for employee consent regarding shift changes.
-3. **Verify if you work in a city or state with active predictive scheduling laws.** Federal law does not require notice for schedule changes, but as of 2026, the following jurisdictions have strict requirements for covered industries (typically retail, hospitality, or food service):
-   - **Oregon:** Large employers (500+ employees globally) must provide 14 days' notice and pay "predictability pay" for later changes.
-   - **New York City:** Fast food employers must give 14 days' notice; retail employers must give 72 hours' notice and are prohibited from "on-call" shifts.
-   - **Chicago:** Covered industries (including healthcare and warehouse) must give 14 days' notice for employees earning up to $32.60/hour or $62,561.90/year.
-   - **Seattle:** Large retail/food employers (500+ employees) must provide 14 days' notice and a 10-hour rest period between shifts.
-   - **Philadelphia:** Retail, food, and hospitality employers with 250+ employees and 30+ locations must give 14 days' notice.
-   - **California Cities:** San Francisco, Los Angeles (City and County), Berkeley, and Emeryville have individual ordinances requiring 14 days' notice for formula retail or large employers.
-4. **Request the full details of the schedule change in writing.** Ask for the specific start date, whether the change is temporary or permanent, and the expected duration of the new hours. If you believe your jurisdiction requires predictability pay, ask how these premiums will be reflected in your next pay statement.
-5. **Formally communicate your availability constraints and propose a compromise.** If the new schedule conflicts with childcare, school, or a second job, provide a written response stating exactly which hours you can work and which you cannot. Suggest a specific alternative, such as a shift swap with a coworker or a phased transition period.
-6. **Initiate a formal HR request if the change affects a medical condition or disability.** Request a "reasonable accommodation" for a schedule adjustment in writing if the night or weekend shifts conflict with a documented disability or medical treatment plan. Focus on the required adjustment rather than disclosing a full diagnosis to immediate supervisors.
-7. **Contact the relevant enforcement agency if you suspect a legal violation.** Reach out to your city's Office of Labor Standards or your state's Department of Labor if an employer fails to provide mandated notice or predictability pay. For issues involving safety (such as dangerous late-night commutes), document these concerns as a workplace safety notification.
+1. **Save evidence right now:** keep copies of pay stubs, timecards/clock-in history, schedules, overtime approvals, and any written policy/offer letter about shift differentials or premium pay.
+2. **Make a one-page “what’s missing” summary:**
+   - pay period dates
+   - days/hours worked
+   - what you expected (overtime and/or a stated premium like night shift differential)
+   - what you received
+   - your best estimate of the missing amount
+3. **Separate “overtime” from “premiums” (so you claim the right thing):**
+   - Under federal law, employees covered by the FLSA must receive overtime pay for **hours over 40 in a workweek** at **not less than 1.5×** the regular rate (unless properly exempt).
+   - Federal law does **not** require extra pay just because it’s a weekend or holiday — those premiums are usually owed only if your employer promised them (policy, offer letter, or union contract).
+   - Some bonuses and shift differentials can affect the “regular rate” used to calculate overtime, so missing premiums can also mean overtime was under-calculated.
+4. **Ask payroll/HR for a correction and a timeline (in writing):** request:
+   - the reason it’s missing (timecard cut-off, missing approval, wrong code, edit made to your time, etc.)
+   - whether they will run an **off-cycle payment**
+   - a corrected pay stub showing the overtime/premium line items
+5. **Escalate once internally if there’s no fast fix:** use your company’s payroll dispute process (ticket/email) and copy your supervisor. If you’re covered by a union contract, contact your steward and follow the required grievance steps.
+6. **File a complaint instead of chasing forever (especially if it repeats):**
+   - **Federal option:** contact the U.S. Department of Labor, Wage and Hour Division (WHD) to file a complaint about unpaid overtime/minimum wage (if covered).
+   - **State option:** many states have wage-claim agencies that can address unpaid wages and certain promised premiums; state rules can be stronger than federal.
+7. **Protect yourself from retaliation (calmly, in writing):** federal law generally prohibits retaliation for raising wage concerns, filing a complaint, or cooperating with a WHD investigation. Save any sudden schedule cuts, threats, or write-ups that appear after you report the missing pay.
+8. **If you think DOL already recovered wages for you:** check the Department of Labor’s **Workers Owed Wages (WOW)** database.
 
 ## What can wait
-- You do not need to decide whether to stay or quit in the first 24 hours.
-- You do not need to provide a detailed personal explanation for why you cannot work certain hours; start with a simple statement of "unavailability."
-- You do not need to file a formal legal complaint until you have confirmed the specific coverage thresholds for your employer size and industry.
+- You do not need to decide today whether to hire a lawyer — start with the written correction request and/or an agency complaint.
+- You do not need perfect math before speaking up — your time records plus a clear estimate is enough to start.
+- You do not need to confront executives — payroll + documented escalation is the first lane.
+- You do not need to win an “exempt vs. non-exempt” argument in real time — file based on what happened and let the process sort coverage.
 
 ## Important reassurance
-Unpredicted changes to work hours often cause immediate stress regarding sleep, safety, and personal obligations. Taking a moment to gather your documentation before responding helps ensure that your rights are preserved and that any subsequent discussions are based on evidence rather than memory.
+This is common: timekeeping cut-offs, wrong pay codes, and misapplied differentials happen in ordinary workplaces. You’re doing the right thing by documenting it and pushing for a written correction instead of trying to “absorb it” or fix it informally.
 
 ## Scope note
-This guide provides first-step stabilization for sudden schedule changes in the USA. It does not cover specific industry-wide safety regulations for transportation (e.g., DOT hours-of-service) or specialized medical residency rules.
+These are first steps to stop the immediate harm and preserve options. If this is repeated or tied to classification/regular-rate issues, you may need tailored help from a union, WHD/state agency, or an employment attorney.
 
 ## Important note
-Employment laws regarding scheduling are highly jurisdictional and frequently depend on employer size and industry type. This information is for general guidance and does not constitute legal advice. If you are a union member, your first point of contact should be your union steward, as your contract may provide protections that exceed local laws.
+This is general information, not legal advice. Wage and overtime rules can vary by state, and whether overtime is owed can depend on your classification, job duties, and how your employer defines the workweek and calculates the regular rate. If you’re asked to sign anything that changes recorded hours or pay rates, consider getting advice first.
 
 ## Additional Resources
 - https://www.dol.gov/agencies/whd/fact-sheets/23-flsa-overtime-pay
+- https://www.dol.gov/agencies/whd/fact-sheets/56a-regular-rate
 - https://www.dol.gov/agencies/whd/contact/complaints
-- https://www.dol.gov/general/topic/wages/backpay
-- https://www.usa.gov/workplace-laws
-- https://www.dol.gov/agencies/whd/contact
+- https://www.dol.gov/agencies/whd/fact-sheets/77a-flsa-prohibiting-retaliation
+- https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping
+- https://www.dol.gov/agencies/whd/wow
+- https://www.worker.gov/actions-whd-claim/

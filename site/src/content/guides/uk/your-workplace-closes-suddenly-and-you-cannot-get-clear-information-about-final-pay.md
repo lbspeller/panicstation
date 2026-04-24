@@ -1,94 +1,96 @@
----
+﻿---
 title: "What to do if… your workplace closes suddenly and you cannot get clear information about final pay"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "business is being sold"
-  - "company being sold"
-  - "takeover at work"
-  - "acquisition of employer"
-  - "new owner taking over"
-  - "transfer to new employer"
-  - "tupe transfer"
-  - "object to tupe transfer"
-  - "told terms may change"
-  - "employment terms changing"
-  - "new contract offered"
-  - "contract variation pressure"
-  - "consultation about transfer"
-  - "pay may change at work"
-  - "benefits may change at work"
-  - "role moving to new employer"
-  - "sale of business staff"
-  - "merger and terms changed"
-  - "service provision change"
-  - "what do i do if my work is being sold"
-  - "what do i do if i have a new boss"
-  - "what do i do if my contract changes"
-  - "what do i do if tupe applies"
-  - "help i am being transferred to a new company"
-  - "help i am being told to sign a new contract"
-  - "help i might lose my job in a sale"
-  - "help i am worried about business takeover"
-  - "my boss sold the company"
-  - "my contract is being varied"
-  - "my holiday entitlement changed"
-  - "my continuous service date"
-  - "notice of business sale"
-  - "letter about tupe transfer"
-  - "announcement of acquisition"
-  - "new employer payroll setup"
-  - "workplace restructure notice"
-  - "business sale staff meeting"
-  - "employment terms protection"
-  - "automatic transfer of staff"
-last_reviewed: "2026-03-17"
+  - workplace closed without warning
+  - employer shut down overnight
+  - no final pay information
+  - missing last paycheck
+  - unpaid wages after closure
+  - company went bust
+  - employer insolvent
+  - liquidation or administration
+  - no hr contact
+  - payslip not received
+  - holiday pay not paid
+  - commission not paid
+  - overtime not paid
+  - redundancy confusion
+  - locked out of workplace
+  - payroll system offline
+  - employer not responding
+  - final pay delayed
+last_reviewed: "2026-01-07"
 ---
-# What to do if… your workplace closes suddenly and you cannot get clear information about final pay (UK)
 
+# What to do if… your workplace closes suddenly and you cannot get clear information about final pay (UK)
 ## Short answer
-Do not resign or sign any new documents immediately. Your current contract and length of service usually transfer automatically to the new owner under TUPE regulations, and changes made solely because of the transfer are generally void.
+Secure proof of what you worked and what you’re owed, then confirm whether the employer is insolvent. If they are, get the “CN” case reference and start the official insolvency claim process for wages/holiday pay (and redundancy if applicable).
 
 ## Do not do these things
-- Do not hand in your notice "to get ahead of it" as this may forfeit your right to redundancy pay or a transfer.
-- Do not sign a new contract or "letter of variation" under immediate pressure during a meeting.
-- Do not delete or leave behind copies of your current contract, bonus schemes, or pension details.
-- Do not "object to the transfer" in writing until you have checked if this ends your employment without notice.
-- Do not assume a "share sale" (where the company name stays the same) triggers the same TUPE protections as an "asset sale."
+- Do not assume “it’ll sort itself out next payroll” if the business has closed or staff cannot access systems.
+- Do not sign any resignation, settlement, or “full and final” document while you do not know what you are owed.
+- Do not hand over originals of payslips, contracts, or ID documents—only copies/screenshots.
+- Do not give bank details or personal data to a “new payroll contact” unless you can verify who they are and why they’re entitled to it.
+- Do not return keys/laptops/uniform without getting a dated receipt (a photo of the receipt is fine).
+- Do not rely on verbal promises; keep everything in writing from now on.
+- Do not wait so long for “clarity” that you miss deadlines.
 
 ## What to do now
-1. **Identify the specific cues that a transfer is occurring.** Look for formal announcements of a new parent company, requests for "Employee Liability Information" (audits of your contract/pay), or invitations to "TUPE consultation" meetings.
-2. **Request a written summary of the proposed transfer details today.** **Ask for the expected transfer date, the legal name of the new employer, and whether the company is treating this as a TUPE transfer.**
-   - Request clarification on whether this is an asset sale or a share sale.
-3. **Secure your entire employment record immediately.** **Download or print your original contract, all signed variations, your most recent P60, and payslips from the last six months.**
-   - Include evidence of "custom and practice" benefits, such as regular discretionary bonuses or remote work patterns.
-4. **Ask for a written list of any "measures" the new employer envisages.** **"Measures" are any changes the new owner intends to make to your working life, such as different pay dates, new reporting lines, or office relocations.**
-   - If they say "no measures," get that statement in writing.
-5. **Check the consultation route based on your workplace size.** **Ask if there is a recognised trade union or if employee representatives need to be elected for the consultation process.**
-   - Under 2026 rules, if the employer has fewer than 50 staff, or the transfer involves fewer than 10 people, they may consult you directly if no representatives already exist.
-6. **Verify your continuous service date with HR.** **Ensure the new employer acknowledges your original start date, as this affects your 2026 rights regarding unfair dismissal and statutory redundancy.**
-7. **Challenge any immediate contract "harmonisation."** **If you are told you must sign a new contract to "match" existing staff at the new company, point out that changes made primarily because of the transfer are legally void under TUPE.**
-   - Changes are only valid for "Economic, Technical or Organisational" (ETO) reasons involving a change in the workforce (like a restructure).
-8. **Pause before objecting to the transfer.** **Understand that if you formally object to transferring, your employment usually ends on the transfer date without a notice period and without the right to redundancy pay.**
+1. **Make a quick “what I’m owed” snapshot (10 minutes).**  
+   Write down: last day you worked, last day you were paid, what pay period is outstanding, any overtime/commission already earned, and any untaken holiday you believe you accrued.
+
+2. **Secure proof before systems disappear.**  
+   Save or screenshot: contract/offer letter, payslips, rota/timesheets, bank statements showing past payments, any commission plan, and any messages about the closure. Save this somewhere not controlled by work.
+
+3. **Confirm whether the employer is insolvent using official records (not rumours).**  
+   Do one or more of these:
+   - Use the GOV.UK service to check if the company is being liquidated/provisionally liquidated.
+   - Check the Companies House register for the company’s status/filings.
+   - Search insolvency notices (The Gazette).  
+   You’re looking for a named insolvency practitioner/official receiver and the formal status (administration, liquidation, etc.).
+
+4. **If the employer is insolvent: identify the person handling it and get the “CN” number.**  
+   The insolvency practitioner/official receiver should provide a **CN (case reference) number**. You usually cannot submit the main claim without it.
+
+5. **Start the GOV.UK claim for redundancy and other money you’re owed (if eligible).**  
+   This route can cover things like **unpaid wages, holiday pay, overtime and commission** in insolvency situations.  
+   - **Deadline caution:** redundancy pay claims in insolvency situations must generally be made **within 6 months of being dismissed**. If you’re close to that window, do not delay.  
+   - **Notice pay caution:** there is a separate process/timing for statutory notice pay—follow the instruction you’re given during the claim journey about when to apply.
+
+6. **If insolvency is not confirmed (or it’s still trading “in some form”): send one clear written pay request today.**  
+   Email/text the last known manager/payroll contact:  
+   “Please confirm my employment end date (if it has ended), when outstanding wages/holiday pay will be paid, and provide a final payslip and breakdown.”  
+   Keep screenshots showing it was sent (and any reply).
+
+7. **Protect your time limits by starting Acas Early Conciliation if pay is late or you’re being ignored.**  
+   Many employment tribunal claims require Acas Early Conciliation first, and for unpaid wages the time limit is often **3 months minus 1 day from the date you should have been paid**. Starting the Acas step is a way to stop the situation drifting while you gather documents.
+
+8. **Separate “money for essentials this week” from the pay dispute.**  
+   If you need immediate support, explore benefits quickly. If you claim Universal Credit and you expect final wages/holiday pay very soon, timing can affect your first payment—but if wages are delayed/unclear, you can still claim and report any later payments. If eligible, you may be able to request an advance after reporting the change.
 
 ## What can wait
-- You do not need to decide if you want to stay with the new owner for the long term right now.
-- You do not need to agree to new shift patterns or locations until the consultation period is complete.
-- You do not need to start legal proceedings immediately; focus on gathering evidence of your current terms first.
-- You do not need to re-apply for your own job unless a formal redundancy/restructure process is launched.
+- You do not need to decide today whether to bring an employment tribunal claim or get a solicitor.
+- You do not need to calculate the exact penny amount right now—get a defensible estimate and preserve proof.
+- You do not need to confront anyone in person or post publicly about the employer.
+- You do not need to make long-term job decisions before you stabilise your income and paperwork.
 
 ## Important reassurance
-It is normal to feel significant anxiety when your employer changes. In the UK, TUPE is a powerful protection designed specifically to stop new owners from simply "wiping the slate clean" of staff rights. Your length of service and core terms are legally tethered to you during the move, and employers face heavy financial penalties (up to 13 weeks' pay per person) if they fail to consult properly.
+It is normal to feel shocked and powerless when a workplace disappears and nobody will give straight answers. Securing your evidence and moving onto the correct official track (insolvency claim and/or Acas route) is how you regain control.
 
 ## Scope note
-This guide covers first-step stabilization for business transfers. It does not cover the specific complexities of insolvent businesses, transfers involving the public sector under the 2026 Code of Practice, or pension-specific rights which may differ from general contract terms.
+These are first steps only—focused on preserving evidence, confirming the employer’s status, and avoiding missed deadlines. Longer-term steps (formal claims, negotiations, or legal advice) come after you have the basics secured.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Employment law regarding TUPE is highly technical and depends on the specific structure of the sale. If you are facing redundancy, a "fire and rehire" scenario, or are being asked to sign a settlement agreement, you should contact ACAS or a qualified solicitor immediately.
+This is general information, not legal advice. Your employment status and the employer’s exact insolvency status can change what you can claim and how quickly. If you’re unsure, use official services (Acas and GOV.UK) and keep written records of everything.
 
 ## Additional Resources
-- https://www.acas.org.uk/final-pay-when-someone-leaves-a-job
-- https://www.citizensadvice.org.uk/work/pay/getting-paid-if-your-employer-goes-out-of-business-or-disappears/
-- https://www.gov.uk/your-rights-if-your-employer-is-insolvent
 - https://www.gov.uk/your-rights-if-your-employer-is-insolvent/apply-money-owed
-- https://www.citizensadvice.org.uk/work/pay/getting-paid-when-you-leave-a-job-rights/
+- https://www.gov.uk/claim-redundancy
+- https://www.gov.uk/find-out-if-a-company-is-in-financial-trouble
+- https://find-and-update.company-information.service.gov.uk/
+- https://www.thegazette.co.uk/insolvency
+- https://www.acas.org.uk/if-your-wages-are-not-paid/raising-an-issue-with-your-employer
+- https://www.acas.org.uk/early-conciliation/how-early-conciliation-works
+- https://www.gov.uk/universal-credit-advance-hardship-payment/circumstances-changed

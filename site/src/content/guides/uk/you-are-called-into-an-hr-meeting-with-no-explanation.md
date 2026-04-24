@@ -1,82 +1,78 @@
----
+﻿---
 title: "What to do if… you are called into an HR meeting with no explanation"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "unexpected performance improvement plan"
-  - "surprise pip at work"
-  - "put on a pip suddenly"
-  - "performance plan meeting shock"
-  - "performance targets changed suddenly"
-  - "capability process starting"
-  - "performance management escalation"
-  - "set up to fail concerns"
-  - "manager says performance issues"
-  - "asked to sign pip today"
-  - "pip with unclear goals"
-  - "worried about dismissal risk"
-  - "documenting work performance"
-  - "raising concerns at work"
-  - "reasonable adjustments and performance"
-  - "union support for pip"
-  - "hr performance plan process"
-  - "what do i do if i get a pip"
-  - "help i have been put on a pip"
-  - "my manager gave me a surprise pip"
-  - "what do i do if my performance is questioned"
-  - "performence improvement plan help"
-  - "pip meeting rights uk"
-  - "capability hearing сопровождение"
-  - "unfair performance goals"
-  - "unmeasurable pip targets"
-  - "threat of dismissal pip"
-  - "workplace performance monitoring"
-  - "employee rights capability procedure"
-  - "pip evidence trail"
-  - "disciplinary for poor performance"
-last_reviewed: "2026-03-17"
+  - called into hr
+  - hr meeting no explanation
+  - sudden hr meeting invite
+  - surprise meeting with hr
+  - unexpected disciplinary meeting
+  - unexpected grievance meeting
+  - investigatory meeting at work
+  - hr meeting no notice
+  - manager and hr meeting
+  - meeting invite no agenda
+  - workplace allegations unknown
+  - asked to attend hearing
+  - summoned to office meeting
+  - hr meeting on short notice
+  - pressured to sign documents
+  - asked to resign on the spot
+  - bring a companion
+  - trade union rep meeting
+last_reviewed: "2026-01-07"
 ---
-# What to do if… you are called into an HR meeting with no explanation (UK)
 
+# What to do if… you are called into an HR meeting with no explanation (UK)
 ## Short answer
-Pause the conversation and request the full performance improvement plan (PIP) in writing. Do not sign any document acknowledging the accuracy of the concerns until you have reviewed them against your records.
+Calmly ask what the meeting is and whether it’s an investigation meeting, a disciplinary hearing, or a grievance meeting. If it’s a grievance meeting or a disciplinary hearing that could lead to formal action, ask to rearrange it so you can bring a companion and have time to prepare.
 
 ## Do not do these things
-- Do not resign immediately in a state of shock, as this can forfeit your right to claim unfair dismissal or negotiate a settlement.
-- Do not sign any document that includes a clause stating you "agree the performance concerns are accurate" if you dispute them; you can sign to acknowledge receipt only.
-- Do not argue your entire case or provide defensive evidence verbally during the initial surprise meeting.
-- Do not forward confidential company documents, client lists, or colleagues' personal data to your private email address to use as "proof," as this is often a breach of contract and UK GDPR that can lead to summary dismissal.
-- Do not record meetings in secret; check your staff handbook first, as many UK employers consider covert recording a disciplinary offence.
-- Do not ignore the PIP deadlines or skip scheduled review meetings while you are processing the situation.
+- Do not resign “to make it go away” or agree to “leave today” on the spot.
+- Do not sign anything you have not read and understood (including “outcome” letters, settlement documents, or “I agree” statements).
+- Do not guess what the issue is or fill silences with speculation.
+- Do not admit to things you have not been clearly told you’re being asked about.
+- Do not hand over personal passwords/devices or log into personal accounts because you feel pressured.
+- Do not record the meeting without thinking it through first — workplace policies (and consequences) vary. If you want an accurate record, ask whether notes will be taken and whether you can have a copy, or ask for permission to record.
 
 ## What to do now
-1. **Request the PIP document and the company’s capability or performance policy in writing immediately.** This ensures you have the exact wording of the allegations, the specific targets, the proposed support, and the formal timeline (typically 4–12 weeks in the UK).
-2. **Use a standard holding response if you are currently in a meeting and feel overwhelmed.** You can say: "I am taking this seriously and want to engage properly, so I need to review these documents and respond in writing after I have had time to process the details."
-3. **Establish if the meeting is informal management or a formal capability hearing.** Ask: "Is this a formal stage of the capability procedure, and does it carry the risk of a formal warning or dismissal if the targets are not met?"
-4. **Identify if any health conditions or disabilities are impacting your work and request reasonable adjustments.** Under the Equality Act 2010, if a disability puts you at a "substantial disadvantage" during a performance process, the employer must make adjustments to the process or the targets.
-5. **Check your statutory right to be accompanied if the meeting is formal.** You have a legal right to be accompanied by a trade union representative or a work colleague at any formal hearing that could result in a formal warning or dismissal.
-6. **Start an external log of all relevant interactions and communications today.** Keep a record of dates, times, attendees, and summaries of what was said; ensure you save copies of previous positive appraisals or emails of praise that contradict the PIP.
-7. **Verify the objectives against the "SMART" criteria (Specific, Measurable, Achievable, Relevant, Time-bound).** If targets are vague or unachievable, write a polite request for clarification on exactly how "success" will be measured at each review point.
-8. **Contact your trade union or Acas if the process feels procedurally unfair.** If the employer fails to follow the Acas Code of Practice on Disciplinary and Grievance Procedures, an Employment Tribunal can increase any future compensation award by up to 25%.
+1. **Take a 30–60 second reset before you go in.** Slow your breathing, lower your voice, and get a notebook/notes app ready. If you can, send yourself a quick timestamped note: date/time, who called you, and where you’re going.
+2. **At the start, ask three clarifying questions (and write the answers down):**
+   - “What is the purpose of this meeting?”
+   - “Is this an investigation meeting, a disciplinary hearing, or a grievance meeting?”
+   - “Could this meeting lead to a formal warning or other disciplinary action?”
+3. **Ask who will be present and how this will be recorded.** Ask whether someone will take notes/minutes, and whether you can have a copy afterwards. If they show documents on screen, ask for copies or time to read them properly.
+4. **If it’s a grievance meeting or a disciplinary hearing, use the right words to pause and protect yourself.** Say: “I’m making a reasonable request to be accompanied. I’m not able to proceed today without arranging my companion.”  
+   - If your chosen companion cannot attend at the proposed time, **ask to move the meeting to a reasonable alternative time within the next 5 working days** so they can attend.
+5. **If it’s an investigation meeting, be aware the rules are different — then ask anyway.** There’s usually **no legal right** to be accompanied at an investigatory meeting, but employers often allow it. Say: “I’d like to have a colleague or union rep present — is that allowed under our policy?” If not, ask for a short break and for the questions/concerns to be set out clearly.
+6. **Get the concern stated plainly and pin it down.** Ask: “What exactly is the concern, and what dates/events does it relate to?” If they won’t provide it in writing, repeat it back: “So the concern is… (repeat). Is that correct?”
+7. **Keep your responses short and factual.** Useful phrases:
+   - “I want to cooperate, but I need the specific allegation/concern first.”
+   - “I’d like time to review the documents and policy before answering.”
+   - “I don’t recall — I’d need to check records.”
+8. **If they push you to sign something, slow it down.** Ask for a copy to take away. If they only want acknowledgement of receipt, write “Received on [date/time]” (not “agree”) and keep your own copy/photo where permitted.
+9. **Before you leave, confirm next steps and deadlines out loud.** Ask: “What happens next, when will I hear back, and who do I contact if I find relevant information?”
+10. **Immediately after, make a contemporaneous record.** Write down: who was there, what was said, what you were asked, what you answered, documents shown, and any deadlines. Save it somewhere safe and timestamped.
 
 ## What can wait
-- You do not need to decide whether to fight the PIP or seek a settlement agreement today.
-- You do not need to submit a formal grievance immediately; you can wait until you have reviewed the evidence used against you.
-- You do not need to perform a Subject Access Request (SAR) today, though it remains a tool for later if you need to see internal emails about your performance.
-- You do not need to explain the situation to your colleagues or clients while the process is ongoing.
+- Deciding whether to raise a grievance, appeal, or seek legal advice.
+- Writing a full statement (do this only after you know the exact allegation/issue and have seen any documents/policy they’re relying on).
+- Debating motives or worst-case outcomes.
 
 ## Important reassurance
-Receiving a surprise PIP is a high-stress event that often triggers a "freeze" or "fight" response. Protecting yourself by moving the interaction to written correspondence is a standard professional practice and does not make you look "guilty" or uncooperative.
+An unexplained HR meeting feels alarming because it’s ambiguous and formal. Your aim right now is not to “win” the conversation — it’s to avoid irreversible mistakes, make sure any formal steps happen properly, and keep a clear record of what was actually said.
 
 ## Scope note
-This guide provides first-step stabilization for the immediate aftermath of an unexpected PIP. It does not cover long-term legal strategies, the specifics of the Employment Rights Act 1996, or the detailed negotiation of settlement agreements.
+These are first steps to help you get through the meeting and protect your position in the moment. If the situation moves into a formal process, the right next move can depend on your contract, workplace policies, and the specifics of what’s being raised.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Employment rights in the UK depend on factors including your length of service, your specific contract terms, and your employment status (e.g., employee vs. worker). For complex cases involving discrimination or whistleblowing, consult a qualified solicitor or a specialist employment advisor.
+This is general information, not legal advice. Workplace procedures and what is “reasonable” can depend on your role, your contract, and your employer’s policies. If you’re in a union, contacting your rep early is often the fastest way to get practical support.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/disciplinary-meetings-where-to-start/
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/preparing-for-a-disciplinary-or-dismissal-meeting/
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/
 - https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
-- https://www.gov.uk/disciplinary-procedures-and-action-at-work/disciplinary-hearings
+- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
+- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
+- https://www.legislation.gov.uk/ukpga/1999/26/section/10
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/disciplinary-meetings-where-to-start/

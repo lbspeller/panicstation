@@ -1,85 +1,74 @@
----
+﻿---
 title: "What to do if… you are told the business is being sold and your employment terms may change"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "forced contractor switch"
-  - "told to go self employed"
-  - "employee to contractor overnight"
-  - "sudden contract change at work"
-  - "pressured to sign new contract"
-  - "asked to become freelance now"
-  - "move to contractor status"
-  - "change from payroll to invoice"
-  - "employer says no longer employee"
-  - "fire and rehire threat"
-  - "contract variation without consent"
-  - "losing employee benefits suddenly"
-  - "off-payroll working rules switch"
-  - "paye to self employed change"
-  - "worried about employment rights"
-  - "asked for ltd company setup"
-  - "told to use umbrella company"
-  - "what do i do if forced to be a contractor"
-  - "what do i do if my boss says i am freelance"
-  - "what do i do if my job changes to contract"
-  - "what do i do if i lose my employee status"
-  - "help i am being fired and rehired"
-  - "help i have to sign a new contract today"
-  - "help my boss is changing my status"
-  - "my employer wants me to be a contractor"
-  - "smell of constructive dismissal"
-  - "notice of contract variation"
-  - "unilateral contract change"
-  - "losing holiday pay suddenly"
-  - "no more sick pay notice"
-  - "work status mismatch"
-  - "contractor label vs employee reality"
-last_reviewed: "2026-03-17"
+  - business is being sold
+  - company being sold
+  - takeover at work
+  - acquisition of employer
+  - new owner taking over
+  - transfer to new employer
+  - tupe transfer
+  - object to tupe transfer
+  - told terms may change
+  - employment terms changing
+  - new contract offered
+  - contract variation pressure
+  - consultation about transfer
+  - pay may change at work
+  - benefits may change at work
+  - role moving to new employer
+  - sale of business staff
+  - merger and terms changed
+  - service provision change
+last_reviewed: "2026-01-07"
 ---
-# What to do if… you are told the business is being sold and your employment terms may change (UK)
 
+# What to do if… you are told the business is being sold and your employment terms may change (UK)
 ## Short answer
-Do not sign any new agreements or resignation letters immediately. Request the proposal in writing, state that you do not agree to an immediate change, and seek advice from Acas or a union representative before responding.
+Do not resign or sign anything on the spot. Get the key facts in writing and keep copies of your current contract, pay and benefits documents before anything changes.
 
 ## Do not do these things
-- Do not sign a contractor agreement, "new terms" document, or resignation letter under pressure.
-- Do not assume that changing your job title to "contractor" removes your legal rights if the way you work stays the same.
-- Do not stop attending work or walk out, as this may be treated as a voluntary resignation.
-- Do not delete or destroy your current employment contract, offer letter, or payslips.
-- Do not agree to "trial" the new status without a written agreement that your original employee rights are preserved during the trial.
-- Do not forward trade secrets or confidential client lists to personal accounts while saving your own employment records.
+- Do not hand in your notice “to get ahead of it” (that can reduce your options).
+- Do not sign a new contract, “variation”, settlement agreement, or redundancy paperwork under pressure.
+- Do not accept “nothing will change” as reassurance unless it’s confirmed in writing with details.
+- Do not delete emails, payslips, rotas, or benefits information (keep your own copies).
+- Do not “object to the transfer” impulsively without understanding the consequences.
 
 ## What to do now
-1. **Request the full proposal in writing via a formal channel like email.** Ask for the specific terms of the new arrangement, including the start date, the proposed pay rate (gross), and a clear statement of what happens to your existing continuous service, notice period, and accrued holiday pay.
-2. **State clearly in writing that you do not agree to the change today.** Send a brief message stating: "I have received the proposal to change my status. I am not agreeing to any variation of my contract at this stage and require time to seek advice on the details."
-3. **Secure copies of all relevant personal employment documents immediately.** Save your current signed contract, your most recent P60, and your last three months of payslips to a personal device or external drive.
-4. **Log the exact details of the conversation where the switch was demanded.** Record the date, time, who was present, and the specific words used, particularly any threats of dismissal if you do not comply (often called "fire and rehire").
-5. **Check the 2024 Statutory Code of Practice on Dismissal and Re-engagement requirements.** Note that employers are legally required to consult meaningfully; an unreasonable failure to follow this code can lead to a 25% increase in compensation at an employment tribunal.
-6. **Identify if the change affects 20 or more people at once.** If a group is being moved to contractor status simultaneously, the employer must follow collective consultation rules; failing to do so can result in a "protective award" of up to 180 days' pay per employee as of 2026.
-7. **Contact the relevant advisory body for your specific location.** 
-   - In England, Scotland, or Wales: Call the Acas helpline at 0300 123 1100.
-   - In Northern Ireland: Call the Labour Relations Agency (LRA) at 03300 555 300 (note that LRA notification is mandatory before most tribunal claims).
-8. **Assess the tax implications using the HMRC Check Employment Status for Tax (CEST) tool.** Use this tool to see how HMRC views your status based on your actual working conditions (control, equipment, and substitution) rather than the label your employer is using.
+1. **Ask for a short written update today.** Request: the expected sale/transfer date, who the new employer will be, whether you’re expected to transfer, and what changes (if any) are being proposed to pay, hours, location, duties, holiday, and benefits.
+2. **Secure your “before” paperwork while you still can.** Save or print: your contract and any variations, job description, recent payslips, bonus/commission terms, holiday entitlement and current balance, benefits documents, pension information, and any policies that affect you (remote work, overtime, on-call, car allowance, expenses).
+3. **Ask explicitly whether this is being treated as a TUPE transfer.** If TUPE applies, employment usually transfers to the new employer with continuity of employment preserved. Ask: “Is this a TUPE transfer?” and “Will my continuous service date stay the same?”
+4. **Ask what “measures” are planned and get them in writing.** If anything is going to change around the transfer (for example: reorganisation, role changes, location changes, different hours, new reporting lines, benefits changes), ask the employer to list those proposed measures in writing.
+5. **Check how informing and consulting will happen (and whether reps must be elected).** Ask: “Who are the recognised union or employee representatives for this transfer?”  
+   - If there is a recognised union, contact your rep.  
+   - If there are no existing reps, ask whether the employer will run elections for employee representatives (and when), or whether they plan to consult directly because the transfer is small. Ask them to confirm the consultation route in writing.
+6. **If you’re presented with new terms, slow it down.** Say: “I’m not able to agree today. Please send the proposed terms in writing and give me time to review.” Keep communication calm and in writing.
+7. **Treat ‘because of the transfer’ as a warning sign for contract changes.** Where TUPE applies, transfer-related changes to terms are generally not valid and can be treated as void, even if someone signs, unless a limited exception applies. If you’re told changes are “non-negotiable”, ask for the business reason in writing and what alternatives (if any) were considered.
+8. **If you are thinking about refusing the transfer, pause.** Under TUPE you can object to transferring, but doing so can end your employment on the transfer date and may limit your rights to claim. If this is on your mind, get advice before you send any objection in writing.
+9. **Get independent support early if you feel pressured.** If you’re unsure what you’re being asked to accept, contact your union (if applicable) or ACAS for early guidance before signing anything.
 
 ## What can wait
-- You do not need to register for Self Assessment or set up a Limited Company today.
-- You do not need to purchase professional indemnity insurance or join an umbrella company immediately.
-- You do not need to decide whether you are going to stay at the company long-term or look for a new job.
-- You do not need to provide an "all-or-nothing" answer during the initial meeting.
+- You do not need to decide today whether you will stay long-term or look for a new job.
+- You do not need to argue your case in a big meeting right now—focus on getting clear written facts first.
+- You do not need to negotiate immediately; your priority is avoiding irreversible decisions and preserving evidence of your current terms.
+- You do not need to make a formal complaint unless and until you have clarity on what is actually changing.
 
 ## Important reassurance
-It is normal to feel pressured when an employer demands a status change "overnight." Employment law in the UK is designed to prevent unilateral changes to fundamental terms like status and pay without a proper process. Taking a pause to document the situation is a standard protective step, not an act of aggression.
+It’s normal to feel alarmed when you hear “sale” and “terms may change”. In many UK transfers, contracts and continuity carry over, and employers have legal duties about informing and (in some cases) consulting employees and their representatives. Your job right now is to slow things down, get the facts in writing, and keep your records.
 
 ## Scope note
-This guide provides first-step stabilization only for individuals facing a sudden change in employment status. It does not provide legal representation or tax planning advice.
+This is first-steps guidance for the initial shock period. If you later face a proposed contract change, redundancy, relocation, or pressure to sign documents, you may need tailored advice based on your contract, union status, and whether TUPE applies.
 
 ## Important note
-This guide is for general information only and does not constitute legal or tax advice. Employment status is a complex area determined by the reality of the working relationship and the specific wording of contracts. Rights and procedures differ between Great Britain and Northern Ireland. Always consult a qualified professional or a union representative before making final decisions regarding your employment contract.
+This is general information, not legal advice. Employment situations vary (including whether TUPE applies and what the buyer plans to do). If you are asked to sign anything, or you are threatened with dismissal or redundancy, consider getting independent advice promptly.
 
 ## Additional Resources
-- https://www.acas.org.uk/tupe/advice-for-employers-and-employees
-- https://www.acas.org.uk/tupe/advice-for-employers-and-employees/transferring-to-your-new-employer
+- https://www.gov.uk/transfers-takeovers/transfers-of-employment-contracts
+- https://www.gov.uk/transfers-takeovers/consulting-and-informing
+- https://www.acas.org.uk/inform-and-consult-staff-in-a-tupe-transfer
+- https://www.acas.org.uk/inform-and-consult-staff-in-a-tupe-transfer/who-you-must-inform-and-consult
 - https://www.acas.org.uk/tupe/advice-for-employers-and-employees/changing-your-employment-contract-after-a-tupe-transfer
-- https://www.citizensadvice.org.uk/work/changes-to-employment-contracts-overview/
-- https://www.acas.org.uk/tupe/advice-for-employers-and-employees/after-a-transfer
+- https://www.acas.org.uk/tupe/advice-for-employers-and-employees/if-employees-do-not-want-to-transfer
+- https://www.acas.org.uk/tupe/advice-for-employers-and-employees/transferring-to-your-new-employer

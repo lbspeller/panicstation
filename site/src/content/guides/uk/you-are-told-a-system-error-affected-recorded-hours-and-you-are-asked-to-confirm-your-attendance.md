@@ -1,93 +1,91 @@
----
+﻿---
 title: "What to do if… you are told a system error affected recorded hours and you are asked to confirm your attendance"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "told to work without ppe"
-  - "no protective equipment provided"
-  - "asked to do unsafe task"
-  - "pressured to comply at work"
-  - "missing safety training"
-  - "untrained for hazardous work"
-  - "no induction for job"
-  - "told to skip safety steps"
-  - "unsafe manual handling demand"
-  - "no respirator for dusty work"
-  - "no hard hat on site"
-  - "unsafe chemicals without training"
-  - "fear of retaliation for refusing"
-  - "workplace safety concern raised"
-  - "refusing dangerous work"
-  - "threatened for speaking up"
-  - "safety rules ignored by manager"
-  - "asked to sign off training"
-  - "section 44 employment rights act"
-  - "limb b worker ppe rights"
-  - "refusing unsafe work uk"
-  - "health and safety detriment"
-  - "unsafe working conditions refusal"
-  - "mandatory training missing"
-  - "employer refusing ppe"
-  - "unsafe equipment no training"
-  - "pressure to work dangerously"
-  - "safety equipment not provided"
-  - "workplace hazard report"
-  - "emergency stop unsafe work"
-last_reviewed: "2026-03-17"
+  - timesheet error at work
+  - clocking system glitch
+  - recorded hours wrong
+  - asked to confirm attendance
+  - payroll hours discrepancy
+  - missing clock in clock out
+  - rota vs timesheet mismatch
+  - attendance record incorrect
+  - asked to sign hours
+  - shift hours not recorded
+  - pay affected by hours error
+  - workplace system error hours
+  - disputed working hours
+  - confirm presence at work
+  - hours worked not showing
+  - timesheet correction request
+  - attendance confirmation email
+  - employer says system error
+last_reviewed: "2026-01-07"
 ---
-# What to do if… you are told a system error affected recorded hours and you are asked to confirm your attendance (UK)
 
+# What to do if… you are told a system error affected recorded hours and you are asked to confirm your attendance (UK)
 ## Short answer
-Stop the task immediately and inform your supervisor that you cannot proceed until the required Personal Protective Equipment (PPE) or training is provided. Under UK law, you have a right to refuse work that you reasonably believe poses a serious and imminent danger.
+Don’t “confirm” anything until you’ve seen exactly which dates/times are affected—reply in writing that you’re willing to help reconcile the record, but you need the details first.
 
 ## Do not do these things
-- Do not perform the task "just this once" to avoid conflict.
-- Do not pay for your own PPE; employers are legally prohibited from charging any worker for required safety equipment.
-- Do not sign training records, inductions, or fit-test certificates if the training has not actually taken place.
-- Do not accept damaged, expired, or ill-fitting PPE as a substitute for correct equipment.
-- Do not enter a hazardous area to take photos or gather evidence if you lack the equipment to do so safely.
-- Do not engage in an emotional or loud argument; keep all communication professional and focused on the safety gap.
+- Do not guess or “sign off” a blanket confirmation if you’re unsure about any dates/times.
+- Do not ignore the message (silence can look like agreement or non-cooperation).
+- Do not accuse anyone of fraud or misconduct while it might genuinely be a system problem.
+- Do not edit or overwrite records informally—if you do submit a correction, make sure it’s clearly recorded as a correction (with dates/times and a short note).
+- Do not hand over personal data you don’t need to (for example, full location history) if a simpler work record will do.
+- Do not rely on informal chats only—make sure there’s a written trail.
 
 ## What to do now
-1. **Identify the specific safety cue or hazard present.** Note the observable indicators that the task is unsafe without equipment or training.
-   - Blue mandatory safety signs indicating PPE requirements (e.g., ear protection, eye protection).
-   - Warning symbols on chemical containers (COSHH).
-   - Visible dust, fumes, or sparking equipment.
-   - Moving machinery without guards or interlocks.
-2. **Execute a safe pause and isolate the hazard.** Stop the work and move to a safe location. If the task involves machinery, ensure it is in a "safe state" (powered down or braked) before stepping away, provided you can do so without immediate risk to yourself.
-3. **State your refusal using neutral, factual language.** Use a single, clear statement to define the boundary.
-   - "I cannot continue this task because I have not been trained to use this equipment safely."
-   - "I require the PPE specified in the risk assessment before I can start this work."
-4. **Request the written Safe System of Work (SSoW) or Risk Assessment.** Ask to see the formal documentation for the task, which must list the required controls and PPE. This moves the conversation from personal opinion to a review of company policy.
-5. **Identify your employment status regarding PPE rights.** Note that as of 2026, both "employees" and "limb (b) workers" (casual, gig, or zero-hours workers) have the same legal right to be provided with free, suitable PPE by the employer.
-6. **Request an authorized witness or safety representative.** If available, involve a Trade Union safety rep or an employee health and safety representative to observe the discussion. 
-7. **Document the interaction immediately.** Record the following details in a personal notebook or digital file.
-   - The date, time, and specific location.
-   - The name of the person giving the instruction.
-   - The specific equipment or training that was missing.
-   - The exact words you used to refuse.
-8. **Provide a formal written follow-up.** Send a brief email or message to your manager or HR department. State that you have paused the work for safety reasons and are waiting for the necessary equipment or training to proceed safely.
-9. **Escalate to the correct enforcing authority if the danger persists.** If the employer insists on you performing unsafe work, report the concern externally.
-   - Contact the Health and Safety Executive (HSE) for industrial, construction, or manufacturing sites.
-   - Contact the Local Authority Environmental Health department for retail, office, or catering sites.
+1. **Get clarity in writing (before you confirm anything).** Reply asking:
+   - the exact **date range** affected
+   - what system failed (clock-in app, swipe access, rota, payroll)
+   - what they mean by “confirm attendance” (confirm you were scheduled? confirm you were present? confirm hours worked? confirm breaks?)
+   - the **deadline** and who is handling corrections (manager, HR, payroll)
+2. **Ask for what they currently have on file.** Request a copy/screenshot/export of:
+   - the hours they have recorded for you for the affected period
+   - any “exceptions” or missing punches they believe exist  
+   This helps you avoid accidentally “confirming” their incorrect version.
+3. **Rebuild your own timeline quickly using low-effort evidence.** Pull together what you already have, for the affected days:
+   - rota/schedule screenshots, shift confirmations
+   - calendar entries
+   - sent emails/messages, Teams/Slack timestamps
+   - work logs (tickets, calls), job sheets
+   - travel receipts or parking records (only if helpful and proportionate)
+4. **Write a simple reconciliation list.** For each affected day, note:
+   - start/end time you believe you worked, and any break you remember
+   - what evidence supports it
+   - anything you’re **not** sure about (mark it clearly as “uncertain”)
+5. **Confirm what you can, and limit what you can’t.** Use a format like:
+   - “I can confirm I attended on [dates]. For [date], I worked approximately [times] with [break]. I cannot confirm exact times for [date] without checking records—please cross-check against rota/access logs/manager sign-off.”  
+   This keeps you cooperative without locking you into wrong detail.
+6. **If pay might be affected, name that and ask for the correction path.** Ask payroll/HR:
+   - whether the error affects **this pay period**
+   - when corrections will be made (next payroll run? adjustment?)
+   - what you’ll receive as confirmation (updated time record and/or corrected pay figures)
+7. **Ask for an updated payslip/pay statement if the pay changes.** If your pay varies by hours, ask for a payslip that clearly shows the hours being paid for (so you can check it matches what you worked).
+8. **If you’re pressured to sign something you don’t agree with, slow it down.**
+   - Ask for the request in writing and time to review.
+   - If you’re invited to a **formal** grievance or disciplinary meeting about this, you can usually ask to bring a companion (for example a workplace colleague or trade union representative).
 
 ## What can wait
-- You do not need to decide whether to quit your job or file a tribunal claim in this moment.
-- You do not need to prove that an accident "would have happened"—only that you reasonably believed there was a danger.
-- You do not need to resolve long-standing issues with management or culture right now.
+- You do **not** need to decide now whether to raise a formal grievance or seek specialist advice.
+- You do **not** need to produce “perfect proof” today—start with your best reconstruction and ask them to provide the system data they’re relying on.
+- You do **not** need to make big job decisions (like resigning) while the facts are still unclear.
 
 ## Important reassurance
-It is a normal response to feel anxious or pressured when a supervisor ignores safety protocols. Refusing unsafe work is a protected legal act in the UK under the Employment Rights Act 1996; prioritizing your physical safety is the correct procedural response to a missing safety control.
+System and payroll errors happen, and it’s normal for employers to ask staff to help reconcile records. Staying calm, factual, and written—confirming only what you truly know—protects you while still showing you’re cooperating.
 
 ## Scope note
-This guide covers immediate stabilization and the initial refusal of unsafe work. It does not cover the long-term management of employment disputes, whistleblowing litigation, or industrial action.
+This is first-step guidance to stabilise the situation, protect your record, and buy time. If it turns into a pay dispute or disciplinary issue, you may need specialist advice based on your exact circumstances.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Safety protections under Section 44 and Section 100 of the Employment Rights Act 1996 depend on the reasonableness of your belief and the specific circumstances of the danger. Always prioritize immediate physical safety over procedural compliance.
+This is general information, not legal advice. Workplace policies, contracts, and the reason for the “attendance confirmation” request can change what’s appropriate—when in doubt, keep communications factual and written, and don’t sign confirmations you can’t stand behind.
 
 ## Additional Resources
-- https://www.acas.org.uk/if-your-wages-are-not-paid
 - https://www.acas.org.uk/if-your-wages-are-not-paid/raising-an-issue-with-your-employer
+- https://www.acas.org.uk/if-your-wages-are-not-paid
 - https://www.acas.org.uk/payslips
-- https://www.gov.uk/paye-for-employers/keeping-records
-- https://www.citizensadvice.org.uk/work/pay/problems-getting-paid/
+- https://www.gov.uk/payslips
+- https://www.gov.uk/raise-grievance-at-work/grievance-procedure
+- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting

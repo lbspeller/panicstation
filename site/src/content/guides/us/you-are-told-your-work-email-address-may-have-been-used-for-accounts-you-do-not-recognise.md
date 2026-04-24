@@ -1,94 +1,76 @@
----
+﻿---
 title: "What to do if… you are told your work email address may have been used for accounts you do not recognise"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "work authorisation sponsorship withdrawn"
-  - "sponsorship withdrawal usa"
-  - "h-1b sponsorship withdrawn"
-  - "visa sponsorship ending"
-  - "work visa withdrawal"
-  - "employment termination visa"
-  - "what do i do if my sponsor withdraws my visa"
-  - "what do i do if my work authorization is ending"
-  - "what do i do if my h1b is withdrawn"
-  - "what do i do if i am laid off on a visa"
-  - "help i am losing my work sponsorship"
-  - "help i lost my sponsored job"
-  - "help i have 60 days to find a job"
-  - "my employer is withdrawing my petition"
-  - "my work authorization is being cancelled"
-  - "my visa sponsor is ending my contract"
-  - "smell of office closure"
-  - "notice of termination"
-  - "hr meeting about sponsorship"
-  - "email regarding petition withdrawal"
-  - "i-94 expiration"
-  - "i-797 notice withdrawal"
-  - "h1b grace period"
-  - "work authorization grace period"
-  - "uscis address change"
-  - "ar-11 filing"
-  - "visa portability"
-  - "h1b transfer"
-  - "l-1 termination"
-  - "tn visa withdrawal"
-  - "o-1 sponsorship ending"
-  - "e-2 sponsorship withdrawn"
-  - "unauthorised work risk"
-  - "status expiration check"
-last_reviewed: "2026-03-17"
+  - work email used to sign up
+  - company email used for accounts
+  - unknown accounts using my email
+  - unexpected account signup emails
+  - random welcome emails at work
+  - verification emails i did not request
+  - password reset emails i did not request
+  - work email possibly compromised
+  - someone created accounts with my email
+  - suspicious subscription confirmations
+  - inbox rules changed at work
+  - email forwarding i did not set
+  - microsoft 365 sign in i dont recognise
+  - google workspace login alert
+  - business email compromise warning
+  - my work address on websites
+  - spoofed work email address
+  - unwanted registrations using my email
+  - workplace cyber incident
+  - account takeover concern at work
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are told your work email address may have been used for accounts you do not recognise (USA)
 
 ## Short answer
-Immediately secure written confirmation of the withdrawal date and your last day of employment, then retrieve your current I-94 to determine your "authorized stay" deadline. Consult a US immigration attorney to verify if you qualify for an "up to 60-day" discretionary grace period and to assess portability options before your status expires.
+Assume it could be a security incident: don’t click links in the messages, and report it immediately through your employer’s IT/security process so they can check access logs and contain it.
 
 ## Do not do these things
-- Do not assume your visa stamp in your passport determines your length of stay; the date on your I-94 or I-797 approval notice is the legal boundary.
-- Do not continue working after your termination date, even if HR suggests "finishing up tasks" or "wrapping up," as this constitutes unauthorized employment.
-- Do not sign severance or separation agreements immediately if they include a "retroactive" termination date, as this can backdate your status expiration.
-- Do not depart the United States until you have confirmed with an attorney that you can re-enter; a withdrawn petition may invalidate your current visa for re-entry.
-- Do not rely on generalized advice that you "always have 60 days"; the grace period is discretionary and is the shorter of 60 days or your I-94 expiration.
-- Do not ignore any physical mail from USCIS or the Department of Labor.
+- Don’t click “verify”, “unsubscribe”, or “reset password” links in the alert emails.
+- Don’t forward the messages to your personal email account or store them in personal cloud drives.
+- Don’t delete the emails or clear your mailbox yet.
+- Don’t rush to “recover” unknown accounts by repeated password resets or trial-and-error logins.
 
 ## What to do now
-1. **Request written clarification of the withdrawal specifics.** Ask HR or the company's immigration counsel for a written statement specifying:
-   - The exact date and time your employment ends.
-   - Whether they are withdrawing an I-129 nonimmigrant petition or an I-140 immigrant petition.
-   - The date the withdrawal notice will be (or was) sent to USCIS.
-2. **Download and save your most recent I-94 record immediately.** Visit the official CBP I-94 website to retrieve your "Admit Until" date.
-   - If your I-797 approval notice has an I-94 attached at the bottom, compare that date to the online CBP record.
-   - Note the earlier of the two dates; this is your primary legal deadline.
-3. **Establish a clear timeline of your authorized stay.** List your last day worked, your I-94 expiration, and (if applicable) the 60th day following your last day of work.
-   - Recognize that the grace period only applies to specific categories: E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1, and TN.
-4. **Consult a qualified US immigration attorney within 24–48 hours.** Provide them with:
-   - Your current visa classification and your I-94 "Admit Until" date.
-   - Copies of all I-797 approval notices and your last three pay stubs.
-   - Information on any dependents (H-4, L-2, etc.) whose status is tied to yours.
-5. **Request "reasonable costs of return transportation" if terminated.** Under 8 CFR 214.2(h)(4)(iii)(E), H-1B and O-1 employers are generally required to pay for your one-way airfare to your last country of residence if they terminate you before the petition expires.
-6. **Verify your eligibility for "Portability" if seeking a new employer.** Ask your attorney if you can begin working for a new sponsor as soon as a "non-frivolous" petition is filed, or if you must wait for a receipt notice.
-7. **Update your address with USCIS within 10 days of any move.** Use the USCIS online account and the Enterprise Change of Address (E-COA) tool to ensure you receive all government notices.
-   - Keep a screenshot or PDF of the submission confirmation.
-8. **Secure your physical and digital evidence trail.** Save copies of your original offer letter, all LCA (Labor Condition Application) filings, and any emails regarding the withdrawal.
+1. **Report it through your company’s official channel right away.**  
+   Use your helpdesk ticketing system, security hotline, or “report phishing” workflow. Use clear wording: “My work email is receiving account creation/verification/password reset emails for services I don’t recognize.”
+2. **Preserve the evidence (without engaging).**  
+   Keep the emails. Note (or screenshot) the subject lines, sender shown, and time received. Use your employer’s preferred reporting method (for example, a “report phishing” button or forwarding as an attachment) so security can capture headers.
+3. **Ask IT/security to check for compromise indicators that matter most.**  
+   Specifically: unusual sign-ins, new inbox rules/filters, external auto-forwarding, unfamiliar delegated access, and unknown connected apps/OAuth grants.
+4. **Secure your work account using your employer’s process.**  
+   If directed: reset your password to a new unique one, sign out of other sessions/devices, and confirm multi-factor authentication is enabled and working. Don’t bypass policy or “fix” settings in a way your org can’t audit.
+5. **Create a short inventory of the unknown services.**  
+   Search your mailbox for “welcome”, “verify”, “confirm”, and “password reset”. List the service names + dates/times + what the email claims. Share that list with IT/security.
+6. **Escalate internally if there’s any sign of impersonation or sensitive data exposure.**  
+   If coworkers/clients received emails “from you” that you didn’t send, or if any message suggests company data was entered, tell your manager and your security/privacy/compliance contact so they can coordinate response and communications.
+7. **If it looks like personal identity misuse (not just work email misuse), take one official step.**  
+   If you see your Social Security number, bank details, tax/benefits references, or accounts being opened in your name, file a report and follow the guided recovery steps at **IdentityTheft.gov**. If you choose, you can also place a fraud alert or consider a credit freeze as part of that process.
 
 ## What can wait
-- You do not need to decide on a long-term relocation or a different visa category (like B-2 or F-1) in the first hour; focus on identifying your hard expiration dates first.
-- You do not need to notify your bank, landlord, or school immediately until your attorney confirms your grace period window.
-- You do not need to finalize severance negotiations today; ensure the termination date is accurate for immigration purposes before signing.
+- You do **not** need to contact every website immediately or spend the day trying to close accounts one-by-one.
+- You do **not** need to decide about police reports right now; first confirm whether your work account was actually accessed.
+- You do **not** need to notify clients/customers unless your IT/security team confirms a real risk of impersonation or data access.
+- If there’s no evidence of personal identity misuse, credit/identity protection steps can usually wait until you know what your employer’s investigation shows.
 
 ## Important reassurance
-Learning that sponsorship is being withdrawn is a high-stress event, but the US immigration system provides specific (though limited) windows for transition. Most workers in these categories have a window of time to seek new employment or change status. Obtaining your I-94 date and written employer confirmation provides the factual foundation needed to manage the transition safely.
+This often starts with something simple (someone mistyping an email address) but it’s still smart to treat it as real until your security team confirms otherwise. Your job right now is to avoid risky clicks, preserve evidence, and get the right people involved quickly.
 
 ## Scope note
-This guide addresses the immediate stabilization of immigration status after a notice of sponsorship withdrawal. It does not cover individual legal strategy, green card portability (AC21 Section 106/104), or long-term career planning.
+These are first steps for the first hours/day. Later actions (closing specific accounts, broader communications, HR steps, or legal steps) depend on what your employer’s investigation finds.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. US immigration regulations are subject to frequent change and strict interpretation of dates. If your sponsorship is being withdrawn, consult a licensed US immigration attorney immediately to protect your status and prevent unlawful presence.
+This is general information, not legal or professional advice. Follow your employer’s policies and incident response instructions. If you believe your personal identity is being misused outside work systems, use official reporting and recovery resources.
 
 ## Additional Resources
-- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
-- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
-- https://consumer.ftc.gov/articles/what-know-about-identity-theft
-- https://www.usa.gov/identity-theft
-- https://support.microsoft.com/en-us/account-billing/how-to-recover-a-hacked-or-compromised-microsoft-account-24ca907d-bcdf-a44b-4656-47f0cd89c245
+- https://www.identitytheft.gov/
+- https://www.identitytheft.gov/Steps?scroll=true
+- https://www.ftc.gov/news-events/topics/identity-theft/report-identity-theft
+- https://www.cisa.gov/secure-our-world/turn-mfa
+- https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/multi-factor-authentication

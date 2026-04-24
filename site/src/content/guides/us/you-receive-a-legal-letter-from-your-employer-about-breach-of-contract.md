@@ -1,82 +1,98 @@
----
+﻿---
 title: "What to do if… you receive a legal letter from your employer about breach of contract"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "suspicious payroll email"
-  - "change payroll bank details"
-  - "payroll direct deposit scam"
-  - "direct deposit change request"
-  - "payroll diversion attempt"
-  - "fake hr payroll request"
-  - "bank account change email"
-  - "urgent payroll update email"
-  - "payroll phishing message"
-  - "salary payment redirected"
-  - "business email compromise"
-  - "employee self service portal scam"
-  - "payroll account takeover"
-  - "paycheck deposit redirected"
-  - "update bank details link"
-  - "unexpected payroll instruction"
-  - "impersonation finance request"
-  - "payroll identity fraud"
-  - "new bank details request"
-  - "help i got a fake payroll email"
-  - "what do i do if my payroll email is fake"
-  - "help i clicked a payroll scam link"
-  - "what do i do if i shared bank info"
-  - "smell a payroll scam"
-  - "notice a suspicious direct deposit change"
-  - "my paycheck was sent to another bank"
-  - "bank account change scam"
-  - "hr impersonation email"
-  - "payroll diversion alert 2026"
-  - "direct deposit redirect help"
-last_reviewed: "2026-03-17"
+  - employer legal letter
+  - legal letter from work
+  - breach of contract allegation
+  - accused of contract breach
+  - attorney letter from employer
+  - demand letter from employer
+  - cease and desist from employer
+  - threatened lawsuit by employer
+  - employment contract dispute
+  - workplace contract claim
+  - confidentiality breach allegation
+  - trade secrets accusation
+  - noncompete threat letter
+  - nonsolicitation allegation
+  - accused of taking company data
+  - deadline to respond letter
+  - former employer legal threat
+  - panic after legal notice
+  - employment agreement dispute
+  - lawsuit papers from employer
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you receive a legal letter from your employer about breach of contract (USA)
 
 ## Short answer
-Do not interact with the email or click any links. Immediately contact your HR or payroll department through a known, trusted phone number or internal portal to report the message and confirm your current direct deposit settings are secure.
+Don’t respond substantively yet. Preserve everything, pause anything they claim is a breach, and get advice from an employment attorney licensed in your state before you say or sign anything.
 
 ## Do not do these things
-- Do not click any links or download attachments, as these often lead to credential-stealing "clone" portals.
-- Do not reply to the sender or engage in any "verification" steps requested within the email thread.
-- Do not use any "helpdesk" or "support" phone numbers provided in the message.
-- Do not change your password using a link provided in the suspicious email.
-- Do not assume the email is safe because it contains your name, employee ID, or company logo.
-- Do not wait until your scheduled payday to check if your money arrived.
+- Do not ignore the letter—especially if it sets a deadline or threatens immediate court action.
+- Do not reply with explanations, apologies, or extra details “to clear it up”.
+- Do not delete texts, emails, chats (Slack/Teams), files, cloud folders, or device data.
+- Do not sign agreements, acknowledgements, or settlement terms without legal review.
+- Do not call the opposing lawyer using only the phone/email on the letter until you’ve verified it independently.
+- Do not post about it online or recruit coworkers to make statements for you.
 
 ## What to do now
-1. **Verify the request through an established internal channel.** **Contact your payroll or HR representative using a phone number from your official employee handbook or internal directory.** Do not use contact info from the email. Ask if a request for a bank change was recently initiated for your account.
-2. **Access your payroll portal using a clean, manual route.** **Open a new browser window and type the address of your company's payroll portal directly or use your existing bookmarks.** Check for any unauthorized changes to your banking details, contact email, or mailing address.
-3. **Request an immediate freeze on direct deposit changes.** **Ask your payroll department to place a temporary administrative lock on your payment profile until you confirm your identity in person or via a secure, company-approved video call.** Inquire about the "PAYROLL" label requirement for your next ACH deposit under 2026 Nacha fraud monitoring rules.
-4. **Notify your IT or cybersecurity department immediately.** **Forward the email as an attachment (or use your company’s phishing report tool) so they can block the sender’s domain and scan for similar messages sent to coworkers.** This allows IT to check if your mailbox has been compromised by hidden "forwarding rules" often set by scammers.
-5. **Treat your credentials as compromised if you clicked any links.** **Change your work password immediately through your official IT portal and ensure Multi-Factor Authentication (MFA) is active on both your email and payroll accounts.** If you entered your old password into a fake site, change it on every other account where you use that same password.
-6. **Report the exposure of personal data if sensitive info was shared.** **Inform HR exactly what was shared, such as your Social Security Number (SSN), bank account numbers, or home address.** 
-   - If your SSN was exposed, visit IdentityTheft.gov to start a recovery plan.
-   - Consider locking your SSN through myE-Verify to prevent unauthorized employment filings.
-7. **Contact your bank to enable enhanced matching protocols.** **Ask your financial institution to monitor for incoming direct deposits and confirm they are using the 2026 deposit verification rules to match the name on the deposit to the account holder.** If money has already been diverted, request an immediate ACH recall.
-8. **File reports with federal authorities.** **Submit a complaint to the FBI’s Internet Crime Complaint Center (IC3.gov) and report the incident to the FTC at ReportFraud.ftc.gov.** If the email impersonated the IRS or involved tax data, forward it to phishing@irs.gov.
+1. **Secure the letter and log the basics (10 minutes).**  
+   Save a PDF/photo of the entire letter (and envelope if mailed). Write down the date/time received and every deadline mentioned.
+
+2. **Verify who really sent it before you share information.**  
+   If it’s from a law firm, confirm the firm’s contact details independently (official website or bar directory listing) and avoid sharing more than a neutral acknowledgement until you have counsel.
+
+3. **Sort what you received: demand letter vs. arbitration vs. lawsuit.**  
+   Look for labels like “arbitration demand”, “notice of intent”, or official court documents (often “Summons” and “Complaint”). This determines how fast you must act.
+
+4. **Freeze the situation: stop the conduct they claim is the breach.**  
+   Examples: contacting certain clients, using certain materials, working for a competitor in a restricted way, sharing information, or accessing company systems after termination.  
+   Don’t delete—just stop and preserve.
+
+5. **Preserve evidence cleanly.**  
+   Save: your employment agreement(s), offer letter, any noncompete/nonsolicit/confidentiality/IP terms, handbook acknowledgements, separation documents, and the communications/timeline the letter references. Keep originals unaltered.
+
+6. **Check for “arbitration / venue / choice-of-law” clauses.**  
+   Many employment agreements specify arbitration, where disputes must be filed, and which state’s law applies. Flag these clauses for your attorney immediately.
+
+7. **If company data might be on personal devices/accounts, don’t move it yet.**  
+   Stop opening/forwarding it and don’t copy anything new. Your attorney can advise the safest way to return/handle it without creating a “tampering” or “trade secrets” argument.
+
+8. **Get help that can represent you in your state.**  
+   - If you’re in a union: contact your union representative/legal services.  
+   - Otherwise: contact an employment attorney licensed in your state.  
+   - If cost is a concern: use bar-association lawyer referral services, legal aid directories, or pro bono intake options in your state.
+
+9. **If you must communicate before you have counsel, use a short holding message only.**  
+   Acknowledge receipt, say you are seeking counsel, and request a reasonable extension. Do not address the facts or admit anything.
+
+10. **If you are served with a lawsuit, do not miss the response deadline.**  
+   In U.S. federal court, a defendant generally must answer **within 21 days** after being served, but there are exceptions (for example, different timing if service is waived). State courts and arbitration can have different deadlines—treat any official papers as urgent and get legal help immediately.
 
 ## What can wait
-- You do not need to identify the specific hacker or determine the origin of the email.
-- You do not need to permanently close your primary bank accounts unless your bank confirms they were directly breached.
-- You can delay long-term identity monitoring setups until you have stabilized your payroll and email security.
+- Deciding whether to counter-threaten, negotiate directly, or “tell your side” in writing.
+- Writing a detailed point-by-point rebuttal before you’ve gotten legal advice.
+- Calling former managers/coworkers to “get aligned”.
+- Big public moves (announcing a new job, broad client outreach) until you know your risk.
 
 ## Important reassurance
-Payroll redirection is a standard tactic that relies on social engineering and simulated urgency. Pausing to verify the request is the standard safety procedure and does not indicate a lack of professionalism. Most modern payroll systems have recovery protocols for these situations when reported early.
+A legal letter can feel like you’re already losing. Often it’s an opening move meant to pressure a quick mistake. Your best early advantage is staying quiet, preserving records, and responding through proper advice.
 
 ## Scope note
-This guide covers immediate stabilization and harm-prevention steps following a suspicious payroll-related communication. It does not provide legal advice regarding wage recovery or long-term cybersecurity auditing.
+These are first steps only. Contract and employment rules vary by state and by allegation type (noncompete, confidentiality, trade secrets, repayment clauses, notice obligations), so your next actions should be tailored by a qualified professional.
 
 ## Important note
-This information is provided for general guidance and does not constitute legal, financial, or cybersecurity advice. Payroll policies, state labor laws, and banking regulations vary. Always follow your specific employer’s IT and HR security protocols. If financial loss has occurred, consult with your financial institution and local law enforcement.
+This is general information, not legal advice. If you’ve been served with court papers or the letter threatens emergency court action (like an injunction), seek urgent advice from a lawyer licensed in your state.
 
 ## Additional Resources
-- https://texaslawhelp.org/article/employment-contracts-in-texas
-- https://texaslawhelp.org/article/understanding-contracts
-- https://texaslawhelp.org/article/how-to-write-a-demand-letter
-- https://www.workplacefairness.org/contracts/
-- https://www.workplacefairness.org/at-will-employment/
+- https://www.law.cornell.edu/rules/frcp/rule_12
+- https://www.uscourts.gov/sites/default/files/2025-02/federal-rules-of-civil-procedure-dec-1-2024_0.pdf
+- https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/
+- https://www.usa.gov/legal-aid
+- https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help
+- https://www.abafreelegalanswers.org/
+- https://www.americanbar.org/groups/public_education/resources/public-information/how-do-i-find-a-lawyer-/

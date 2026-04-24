@@ -1,91 +1,101 @@
----
+﻿---
 title: "What to do if… you receive a sudden warning about work attendance that you think is inaccurate"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "someone using my name at work"
-  - "name used to approve purchases"
-  - "name used for work invoices"
-  - "unauthorised invoice approvals"
-  - "workplace identity misuse"
-  - "suspected procurement fraud"
-  - "fraudulent purchase approvals"
-  - "fake approvals in my name"
-  - "misused signature at work"
-  - "accounts payable name misuse"
-  - "system login used by someone else"
-  - "unrecognised work approvals"
-  - "finance system name misuse"
-  - "someone else approving as me"
-  - "help i am being framed for fraud"
-  - "help someone is using my work login"
-  - "help my name is on fake invoices"
-  - "what do i do if my name is on a work purchase"
-  - "what do i do if someone uses my signature"
-  - "what do i do if i see fake approvals"
-  - "what do i do if invoices have my name"
-  - "suspicious workplace invoice"
-  - "unauthorised company spend"
-  - "digital signature misuse"
-  - "delegated authority fraud"
-  - "login audit trail help"
-  - "unauthorised procurement spend"
-  - "cloned work identity"
-  - "impersonation in the office"
-  - "wrongful approval credit"
-last_reviewed: "2026-03-17"
+  - sudden attendance warning at work
+  - attendance warning is wrong
+  - written warning for lateness
+  - marked absent by mistake
+  - wrongly recorded as late
+  - clocking system error at work
+  - missed punch caused warning
+  - timesheet shows wrong hours
+  - schedule change not logged
+  - sickness absence coded wrong
+  - approved leave not counted
+  - attendance points wrong uk
+  - no call no show mistake
+  - manager disputes my attendance
+  - hr attendance record inaccurate
+  - disciplinary warning feels unfair
+  - attendance meeting short notice
+  - payroll says i was absent
+last_reviewed: "2026-01-08"
 ---
-# What to do if… you receive a sudden warning about work attendance that you think is inaccurate (UK)
 
+# What to do if… you receive a sudden warning about work attendance that you think is inaccurate (UK)
 ## Short answer
-Notify your manager and the Finance or Accounts Payable department in writing immediately to freeze the relevant approvals and preserve system audit logs. Request that all pending payments linked to your name be placed on hold until an internal verification is completed.
+Pause and respond in writing: ask for the exact dates/allegations and the attendance evidence they relied on, and request the chance to correct any errors before anything is finalised or put on file.
 
 ## Do not do these things
-- Do not confront the suspected individual or discuss your suspicions in public channels like group chats or open offices.
-- Do not attempt to "correct" or delete system records, emails, or approval logs to hide the discrepancies.
-- Do not log in to the suspected account or system to "investigate" beyond what is necessary to secure your own access.
-- Do not forward internal financial documents or system screenshots to your personal email unless specifically instructed by your HR or Legal department.
-- Do not wait to gather "absolute proof" before alerting the internal controls team or your manager.
+- Do not sign anything that says you “agree” or “admit” if you don’t.
+- Do not try to “explain it all” in a hurried verbal conversation where details can be misquoted.
+- Do not ignore deadlines (for a meeting, written response, or appeal), even if the warning feels unfair.
+- Do not delete messages, calendar entries, or logs “to tidy up” — it can look suspicious later.
+- Do not make up evidence or backfill entries (that can turn a record error into a misconduct issue).
+- Do not resign in the heat of the moment unless you’ve taken a pause and got advice.
 
 ## What to do now
-1. **Secure your digital access immediately (minutes):**  
-   **Change your passwords for your work computer, email, and any procurement or finance systems where your name is used for approvals.** Ensure Multi-Factor Authentication (MFA) is active. Contact IT to check for unauthorized "forwarding rules" in your email or "approve on behalf of" permissions that may have been granted without your knowledge.
-2. **Formally notify the control owners (today):**  
-   **Send a factual, written email to your direct manager and the Head of Finance or Accounts Payable.** State clearly that you have identified approvals or invoices bearing your name that you did not authorize. Include:
-   - Specific invoice numbers or purchase order (PO) references.
-   - The dates and times the approvals allegedly occurred.
-   - A request to freeze all payments associated with these specific records immediately.
-3. **Request a temporary suspension of your approval role (today):**  
-   **Ask the Finance or System Administration team to temporarily deactivate your approval authority or route all your approvals to a secondary verifier.** This prevents further misuse of your name while the investigation is ongoing and provides a clear "cut-off" point for your liability.
-4. **Capture evidence without altering the environment (today):**  
-   **Take screenshots of the unauthorized approvals as they appear in the system, ensuring the timestamp and your name are visible.** Save any automated notification emails you received regarding these approvals. Do not move or delete these files; keep them in their original location or a dedicated "evidence" folder if your IT department advises.
-5. **Request a "Bank Detail" and "Vendor Master" audit (today):**  
-   **Ask Finance to check if the bank details for the involved suppliers were recently changed or if the vendors are "newly created" in the system.** Fraud involving unauthorized name use often coincides with redirecting payments to new, fraudulent accounts.
-6. **Follow the formal internal reporting procedure (today):**  
-   **Locate your company's Whistleblowing or Fraud Policy and follow the prescribed reporting route if you believe management is involved.** If your employer has a confidential reporting line or an independent "Protected Disclosure" contact, use it to ensure your report is handled according to the Public Interest Disclosure Act (PIDA).
-7. **Report externally if internal routes are compromised:**  
-   **Contact Action Fraud (England, Wales, and Northern Ireland) or Police Scotland (dial 101) if the organization refuses to act or if the fraud is high-value.**
-   - For England, Wales, and NI: Report via the Action Fraud online portal or call 0300 123 2040.
-   - For Scotland: Call 101 to report business-related fraud.
-   - If a crime is happening now or there is an immediate threat to safety, dial 999.
+1. **Get the allegation clearly pinned down (in writing).** Reply calmly asking:
+   - the specific dates/times they say you were absent/late
+   - whether this is **informal** (coaching) or **formal** (disciplinary/warning)
+   - copies of any documents they relied on (timekeeping report, schedule/rota, exception report, manager notes)
+   - the attendance policy/standard they say you breached  
+   Also ask whether you can provide a written statement to be kept with the record.
+
+2. **If there’s a meeting, protect the process before you walk in.**
+   - Ask what the meeting is and what outcomes are on the table.
+   - Ask for the documents in advance.
+   - If it’s a disciplinary hearing (or an appeal hearing), **request to be accompanied** (union rep or a colleague) and ask for a **reasonable postponement** if your chosen companion cannot attend.
+
+3. **Build a simple “timeline pack” for the disputed days.** Pull together whatever exists *already*:
+   - schedule/rota you were given, any swap approvals
+   - clock-in/out or timesheet entries; HR portal screenshots
+   - emails/messages showing you were working (handoffs, meeting invites, task confirmations)
+   - building access/badge logs if you have them, or any job/dispatch records
+   - if illness is involved: a fit note or other basic confirmation (share only what’s necessary)
+
+4. **Send a short, factual correction (don’t argue the whole case).** Keep it tight:
+   - “I believe the warning is based on inaccurate attendance data for [dates].”
+   - list the exact items you dispute
+   - attach your timeline pack
+   - ask for the record to be corrected and for any warning to be paused/withdrawn while checked
+
+5. **If a warning has already been issued, use the appeal route quickly.**
+   - Ask for the appeal deadline and how to submit it.
+   - In the appeal, focus on **inaccuracy and evidence** (not motives or personalities).
+   - State what outcome you want (correction of records, removal or amendment of warning, updated absence classification).
+
+6. **If management won’t correct obvious errors, escalate in the cleanest way.**
+   - Consider a **formal grievance** about inaccurate records and/or unfair handling.
+   - If you need underlying personal data held about you (time/attendance records, internal notes about you), consider a **subject access request**. A SAR is for *personal data* and can take time, so if you mainly need the attendance report/policy for specific dates, ask HR for those directly first.
+
+7. **Use representation or support early if you have it.**
+   - If you’re in a union, contact your rep before any hearing.
+   - Keep your key points in writing to reduce misunderstandings.
 
 ## What can wait
-- You do not need to identify the perpetrator or determine their motive before making your initial report.
-- You do not need to decide on long-term employment actions, such as resignation, in the immediate aftermath of discovery.
-- You can wait to perform a personal credit check or register for protective services unless there is evidence your personal (non-work) identity is also compromised.
+- You do not need to decide today whether to “take legal action” or leave your job.
+- You do not need to write a long statement about your whole employment history.
+- You do not need to disclose detailed medical information right now (only what’s needed to explain protected/authorised absence).
+- You do not need to confront colleagues or try to “prove who caused the error” — focus on correcting the record first.
 
 ## Important reassurance
-Discovering that your name has been used without your consent in a professional environment is a significant stressor. Taking immediate, documented action to alert the relevant departments is the most effective way to protect your professional reputation and demonstrate that you are not a party to the activity. Hesitation is common, but prompt reporting is a standard safety procedure in financial environments.
+It’s common for attendance warnings to be triggered by messy data (schedule changes, clocking system issues, manager overrides, sickness coded incorrectly). Treat this like an admin-and-process problem first: get clarity, get evidence, and make sure your correction is on the record.
 
 ## Scope note
-This guide provides immediate stabilization steps to stop unauthorized financial activity and preserve evidence. It does not cover long-term disciplinary procedures, legal defense for fraud allegations, or the recovery of lost corporate funds.
+These are first steps to stabilise the situation, correct the record, and avoid preventable mistakes. Later decisions may need specialist advice based on your contract, your employer’s policies, and the facts.
 
 ## Important note
-This information is for guidance purposes and does not constitute legal or professional advice. Procedures for reporting fraud vary significantly between the public and private sectors and across different industries. Under the Economic Crime and Corporate Transparency Act 2023, UK businesses have heightened obligations to prevent fraud; your report may be essential for the company to meet its legal duties.
+This is general information, not legal advice. Workplace policies and timelines vary by employer, and the right approach can depend on whether the warning is informal or formal, and whether sickness/disability-related absence is involved.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/dealing-with-disciplinary-action-and-dismissal-at-work/
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/disciplinary-meetings-where-to-start/
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/
+- https://www.gov.uk/disciplinary-procedures-and-action-at-work/disciplinary-hearings
+- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
+- https://www.acas.org.uk/appealing-a-disciplinary-or-grievance-outcome/getting-ready-for-an-appeal-hearing
 - https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures/html
-- https://www.acas.org.uk/appealing-a-disciplinary-or-grievance-outcome/how-to-appeal
+- https://www.gov.uk/raise-grievance-at-work
+- https://www.acas.org.uk/grievance-procedure-step-by-step/step-2-raising-a-formal-grievance
+- https://ico.org.uk/for-the-public/getting-copies-of-your-information-subject-access-request/what-to-expect-after-making-a-subject-access-request/
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/subject-access-requests/a-guide-to-subject-access/

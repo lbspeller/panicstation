@@ -1,122 +1,70 @@
----
+﻿---
 title: "What to do if… you realise a mandatory training deadline at work is imminent and you have not been scheduled to complete it"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "legal letter from employer"
-  - "employer legal letter"
-  - "breach of contract allegation"
-  - "accused of contract breach"
-  - "solicitor letter from work"
-  - "letter before claim employment"
-  - "employment contract dispute"
-  - "workplace contract claim"
-  - "confidentiality breach notice"
-  - "restrictive covenant threat"
-  - "post-employment restrictions letter"
-  - "cease and desist employer"
-  - "accused of taking company data"
-  - "urgent employment law threat"
-  - "employer breach notice"
-  - "contract breach accusation"
-  - "former employer legal action"
-  - "received letter from work solicitor"
-  - "help i have a legal letter from my boss"
-  - "what do i do if my employer sues me"
-  - "what do i do if i get a solicitor letter from work"
-  - "what do i do if i am accused of breach of contract"
-  - "what do i do if my work says i breached contract"
-  - "help i received a letter before claim"
-  - "help i am being threatened with an injunction"
-  - "my employer sent a legal demand"
-  - "my former boss is threatening court"
-  - "smell of legal action work"
-  - "visible court forms employment"
-  - "notice of pending litigation work"
-  - "threat of high court injunction"
-  - "disciplinary letter breach of contract"
-  - "legal letter employee rights"
-  - "response to employer solicitor"
-  - "extending deadline for legal letter"
-  - "employment tribunal breach claim"
-  - "acas early conciliation contract"
-  - "lra northern ireland breach"
-  - "scottish employment solicitor find"
-last_reviewed: "2026-03-17"
+  - mandatory training deadline imminent
+  - not scheduled for mandatory training
+  - compliance training not assigned
+  - lms shows no enrolment
+  - training module missing from portal
+  - required training due tomorrow
+  - overdue workplace training
+  - mandatory elearning not available
+  - classroom training not booked
+  - no invite to required training
+  - training access not granted
+  - manager forgot to schedule training
+  - hr system not updated for role
+  - training deadline email received late
+  - worried about disciplinary for training
+  - need extension for mandatory training
+  - cannot complete required training in time
+  - work policy training not completed
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you realise a mandatory training deadline at work is imminent and you have not been scheduled to complete it (UK)
 
 ## Short answer
-Withhold any substantive or detailed response until you have verified the sender and consulted a regulated UK employment solicitor. Preserve all digital and physical evidence immediately and stop any activity the letter identifies as a breach.
+Tell your line manager (and the training owner, if you know who that is) today, in writing, that you are not enrolled/scheduled and need urgent access or a documented extension.
 
 ## Do not do these things
-- Do not delete, alter, or "clean up" any files, emails, messages, or browser histories related to the allegations.
-- Do not reply with apologies, admissions of guilt, or detailed explanations before receiving legal advice.
-- Do not contact colleagues or clients to "get their story straight" or discuss the letter.
-- Do not sign any "undertakings" or settlement agreements presented with the letter without independent review.
-- Do not assume a tight deadline (e.g., 24 or 48 hours) is legally binding without checking Civil Procedure Rules.
-- Do not move company data from personal devices to other locations, as this may be flagged as further tampering.
+- Do not ignore it and hope it “won’t matter”.
+- Do not use someone else’s login, share passwords, or ask someone to “click through” for you.
+- Do not backdate attestations or say you completed training you have not completed.
+- Do not send an angry or blaming message while you are stressed (keep it factual and time-stamped).
+- Do not quietly carry on with duties you believe require the training without flagging the risk and asking your manager what you should do instead.
 
 ## What to do now
-1. **Secure the physical and digital evidence (5 minutes).**  
-   **Save a high-resolution scan or photo of the letter, all attachments, and the envelope.**
-   - Place the original documents in a safe, dry location.
-   - Note the exact date, time, and method of delivery (e.g., email, hand-delivered, or registered post).
-
-2. **Verify the legal professional using official registers.**  
-   **Check the credentials of the sender before providing any information.**
-   - If in England or Wales, use the Solicitors Regulation Authority (SRA) Solicitors Register.
-   - If in Scotland, use the Law Society of Scotland "Find a Solicitor" tool.
-   - If in Northern Ireland, use the Law Society of Northern Ireland register.
-
-3. **Calculate your actual response window.**  
-   **Identify if the letter is a formal "Letter Before Claim" under the Pre-Action Conduct rules.**
-   - Under 2026 Civil Procedure Rules (England/Wales), a "reasonable time" for a response is generally 14 days for straightforward claims.
-   - Complex cases involving technical data or high-value intellectual property may allow up to 30 days or longer.
-
-4. **Cease the disputed activity immediately.**  
-   **Stop any behavior the employer claims is a breach of contract to prevent further escalation.**
-   - Examples include contacting clients, using proprietary software, or working for a competitor.
-   - This "pause" is a temporary stabilization measure and does not constitute an admission of wrongdoing.
-
-5. **Isolate relevant personal and work data.**  
-   **Create a list of all devices and accounts (personal or work) that may contain relevant information.**
-   - Do not delete anything from these accounts.
-   - If work data is on a personal device, stop accessing that data until a solicitor advises on the safe method of return or deletion.
-
-6. **Request a "Holding Response" extension if the deadline is imminent.**  
-   **Send a neutral acknowledgment if you cannot secure advice before the stated deadline.**
-   - State: "I am in receipt of your letter dated [Date] and am currently seeking independent legal advice. I will provide a substantive response by [Date, usually 14 days from receipt]."
-
-7. **Contact the appropriate regional advisory body.**  
-   **Seek initial procedural guidance based on your specific UK nation.**
-   - In England, Scotland, or Wales: Contact Acas (Advisory, Conciliation and Arbitration Service) for guidance on Early Conciliation.
-   - In Northern Ireland: Contact the Labour Relations Agency (LRA).
-   - If you are a trade union member, contact your regional representative immediately.
-
-8. **Identify the specific type of breach alleged.**  
-   **Review the contract clauses cited in the letter without making notes on the document itself.**
-   - Look for terms like "Restrictive Covenants," "Non-Compete," "Non-Solicitation," or "Confidentiality."
-   - Check if the contract mentions "Liquidated Damages" (specific sums you must pay for a breach).
+1. **Confirm the exact requirement and deadline (in the official system).** Check your LMS/training portal “Assigned” learning, your email/calendar invites (including junk/spam), and any internal policy page or memo that names the course and due date.
+2. **Capture proof that you are not scheduled/enrolled.** Take screenshots showing “not assigned”, “no sessions available”, “no booking”, or access errors. Note the date/time you checked.
+3. **Message your line manager right away with a simple request.** Include: course name, deadline, what the system shows, and what you need (enrolment, a session booking, or written extension). Ask them to confirm, in writing, what you should do before the deadline.
+4. **Contact the course owner/admin in parallel (if applicable).** This might be Learning & Development, HR, Compliance, Information Security, or Health & Safety. Use the internal ticketing system if you have one and mark it urgent due to a compliance deadline. Attach your screenshots.
+5. **If self-paced completion is possible, ask to block work time for it today.** Propose a specific slot (for example, “I can complete it 14:00–15:00 today if access is granted”) and ask them to confirm that’s acceptable.
+6. **If it’s classroom/live training and no sessions exist, ask for the “exception path”.** Specifically request one of: an emergency session, being added to a waitlist with priority, temporary access to an equivalent online module, or a documented extension until the next available session.
+7. **If the training is linked to safe working or authorisation, reduce risk immediately.** Tell your manager if you think you should pause certain duties until trained (for example, operating equipment, lone working, handling certain data, or driving on work business) and ask what alternative duties they want you to do.
+8. **If you’re being blamed or pulled into a formal process, protect yourself procedurally.** Ask what the meeting is about and request the concerns and any evidence in writing. In the UK, you have a legal right to be accompanied at a formal disciplinary or grievance hearing (by an eligible companion such as a colleague or trade union representative). For informal chats or investigatory meetings you may not have that legal right, but you can still ask if someone can attend with you.
 
 ## What can wait
-- Deciding whether you want to stay with the company or resign.
-- Confronting your manager or HR representative about the letter.
-- Gathering character references or personal testimonials from colleagues.
-- Calculating potential financial settlements or court costs.
+- You do not need to decide today whether to make a formal complaint about who caused the scheduling failure.
+- You do not need to write a long explanation or defence right now; a short, factual timeline plus screenshots is enough.
+- You do not need to threaten resignation, tribunals, or legal action to get the immediate practical problem fixed.
 
 ## Important reassurance
-Receiving a solicitor's letter is a standard procedural step in civil disputes and does not mean you are going to court immediately. Most contract disputes are resolved through negotiation or mediation once both parties have professional representation. Taking a few days to find the right solicitor is a standard and expected part of the process.
+This situation is common: people change roles, systems fail to auto-enrol, and calendars get missed. The key thing is that you spotted it, raised it promptly, and created a clear record that you tried to comply.
 
 ## Scope note
-This guide covers first-step stabilization for civil breach of contract allegations. It does not cover criminal allegations (such as theft or fraud) or internal disciplinary procedures, which follow different legal frameworks.
+These are first steps to stabilise the situation and reduce the risk of being unfairly blamed. Later steps (formal grievance, union support, legal advice) depend on what your employer does next.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Laws regarding employment contracts differ significantly between England/Wales, Scotland, and Northern Ireland. If you have been served with court papers or a "Notice of Application for an Injunction," you must consult a regulated solicitor immediately as these involve strict court-mandated timelines.
+This is general information, not legal advice. Workplace policies and regulated roles differ. If you feel at risk of discipline, consider getting support from your union (if you have one) or a suitable workplace representative.
 
 ## Additional Resources
-- https://www.acas.org.uk/getting-paid-for-mandatory-training
 - https://www.hse.gov.uk/simple-health-safety/training/index.htm
-- https://www.hse.gov.uk/competence/what-is-competence.htm
-- https://www.gov.uk/training-study-work-your-rights/asking-for-time-off
+- https://www.gov.uk/taking-disciplinary-action/disciplinary-investigations-and-hearings
+- https://www.gov.uk/raise-grievance-at-work
+- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
+- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
 - https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures/html
+- https://www.legislation.gov.uk/ukpga/1999/26/crossheading/disciplinary-and-grievance-hearings

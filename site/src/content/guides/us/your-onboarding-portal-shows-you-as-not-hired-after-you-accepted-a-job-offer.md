@@ -1,99 +1,68 @@
----
+﻿---
 title: "What to do if… your onboarding portal shows you as not hired after you accepted a job offer"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "work authorization under review"
-  - "security clearance under review"
-  - "employment eligibility review"
-  - "work authorization check"
-  - "clearance status review"
-  - "my work authorization is under review"
-  - "help i have a security clearance review"
-  - "what do i do if my work authorization is reviewed"
-  - "help my security clearance is suspended"
-  - "what do i do if my work authorization is questioned"
-  - "e-verify tentative nonconfirmation"
-  - "e-verify mismatch notice"
-  - "i-9 reverification request"
-  - "mismatch in e-verify"
-  - "further action notice received"
-  - "continuous vetting flag"
-  - "facility security officer contact"
-  - "records mismatch at work"
-  - "authorization document expired"
-  - "work permit under review"
-  - "social security mismatch"
-  - "dhs mismatch notice"
-  - "eligibility for access paused"
-  - "security clearance eligibility"
-  - "work authorization status"
-  - "authorization for work"
-  - "clearance review notice"
-  - "work authorization papers"
-  - "authorization system check"
-  - "security clearance status check"
-last_reviewed: "2026-03-17"
+  - onboarding portal says not hired
+  - portal shows not hired
+  - offer accepted then removed
+  - job offer accepted not hired
+  - hr system error new hire
+  - new hire status rescinded
+  - start date disappeared portal
+  - accepted offer then rejected
+  - at will offer confusion
+  - offer letter rescinded
+  - background check delayed onboarding
+  - pre-employment screening pending
+  - consumer report hiring decision
+  - adverse action notice missing
+  - onboarding link looks suspicious
+  - new hire account deactivated
+  - rescinded offer discrimination worry
+  - offer accepted then revoked
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… your onboarding portal shows you as not hired after you accepted a job offer (USA)
 
 ## Short answer
-Request the specific notice in writing to identify if the trigger is an E-Verify/I-9 mismatch or a security clearance Continuous Vetting flag, then adhere to the strict federal response deadlines provided in that documentation.
+Treat the portal status as unconfirmed until HR tells you directly. Save proof of your offer and acceptance, then contact HR/recruiting through a trusted channel today for written confirmation of whether you are hired and what your start date is.
 
 ## Do not do these things
-- Do not resign, admit fault, or sign termination papers during the initial notification meeting.
-- Do not attempt to bypass access blocks or continue sensitive work if your access is formally paused.
-- Do not provide unsolicited personal documents to HR outside of the specific requirements of the I-9 or E-Verify process.
-- Do not contact the Social Security Administration or Department of Homeland Security before you have received a formal Referral Date Confirmation.
-- Do not miss the 8-federal-working-day window to contact the government if you choose to contest an E-Verify mismatch.
-- Do not discuss the review status with colleagues or on social media platforms.
+- Do not quit your current job or make irreversible money moves (lease, relocation deposits) based only on a portal status.
+- Do not keep uploading sensitive documents or banking info if anything looks inconsistent, rushed, or unfamiliar—verify first to reduce identity-theft risk.
+- Do not accuse anyone of wrongdoing in writing; keep it factual and ask for clarification.
+- Do not assume “at-will” means “nothing matters” and drop it—documentation and timelines still matter if the issue is an error or an unlawful reason.
+- Do not miss emails from screening vendors (background check) or HR; check spam/junk and keep copies.
 
 ## What to do now
-1. **Identify the specific system initiating the review.**
-   - Ask HR if the issue is a **Form I-9 reverification** or an **E-Verify Tentative Nonconfirmation (TNC)**.
-   - Ask the Facility Security Officer (FSO) or Security Office if the issue is a **Security Clearance Eligibility** review or a local **Access Suspension**.
-
-2. **Follow the mandatory E-Verify TNC contest protocol if applicable.**
-   - Request the **Further Action Notice (FAN)** from your employer immediately.
-   - Sign the notice to indicate whether you will contest the mismatch; the employer must provide you with a **Referral Date Confirmation**.
-   - Contact the government agency (DHS or SSA) within **8 federal government working days** from the date the case is referred in the system.
-   - Confirm with HR that you are permitted to continue working during the resolution period, as federal rules prohibit adverse action based solely on a TNC.
-
-3. **Manage I-9 reverification compliance.**
-   - Present any document from the **List of Acceptable Documents** (List A or List C) that proves current work authorization.
-   - Exercise your right to choose which document to present; employers cannot legally require a specific document (e.g., they cannot demand a Green Card if you have a Social Security card and State ID).
-   - Verify that the employer is using the **Edition 01/20/2025** of Form I-9 for the reverification.
-
-4. **Address a security clearance eligibility or access flag.**
-   - Request a written statement from the FSO regarding whether your **eligibility** (the clearance itself) or only your **access** (permission to see specific data) is under review.
-   - Follow all instructions for providing updated information via the **Defense Information System for Security (DISS)** or the **e-APP/e-QIP** system.
-   - Ask for a "work-around" plan, such as reassignment to unclassified duties, if your access is suspended but your employment is not terminated.
-
-5. **Establish a contemporary record of all interactions.**
-   - Keep copies of all signed notices, referral forms, and dated submission receipts.
-   - Maintain a factual log of names, dates, and specific instructions provided by HR or security personnel.
-
-6. **Seek specialized procedural guidance.**
-   - Contact a union representative or employee advocate if your workplace is organized.
-   - Consult an immigration attorney if the review involves complex visa or work permit status issues.
+1. **Save your proof (2 minutes):** Screenshot the portal status (“not hired”), including date/time and any candidate ID. Save your offer letter, your acceptance, and any message naming your start date and contingencies.
+2. **Check your offer letter for conditions:** Look for “contingent on” language (background check/consumer report, references, drug test, employment eligibility verification, licensure). Make a short list of what you completed and what is pending.
+3. **Contact HR through a trusted route (now):** Use the phone number/email from the offer letter or the employer’s official website (not a link inside the portal message). Ask for a simple, written confirmation: “Am I hired? Is my offer active? What is my start date? Is the portal status an error?”
+4. **If a consumer report/background check might be involved, ask for the specific notices:** “If you’re considering not hiring me based on a consumer report, please send me a copy of the report and the required Summary of Rights before a final decision. If a decision has already been made, please send the adverse action notice and tell me how to dispute any incorrect information.”
+5. **If medical/disability-related questions or exams came up after the offer:** Ask HR to confirm in writing what stage you are at (for example, whether it was a real conditional offer). In the U.S., post-offer medical questions/exams are generally only allowed after an offer, and typically must be handled consistently for all entering employees in the same job category.
+6. **If you already resigned from your current job:** Contact your current employer immediately and ask if your resignation date can be extended or rescinded due to an unexpected change in your new role’s confirmation.
+7. **If you suspect discrimination or retaliation:** Write down what happened (dates, names, exact wording, screenshots). If you might file with the EEOC, note deadlines are often **180 days** from the event (sometimes **300 days**, depending on where you are). Consider contacting the EEOC or your state fair-employment agency promptly to preserve options.
 
 ## What can wait
-- You do not need to decide on long-term career changes or relocation while the initial review is pending.
-- You do not need to prepare a formal appeal or "Statement of Reasons" (SOR) until a preliminary determination or intent to deny is actually issued.
-- You do not need to justify your status to managers or supervisors outside of the HR/Security reporting chain.
+- You do not need to decide today whether to hire a lawyer or go public.
+- You do not need to argue the merits of your candidacy until you know whether this is a system error, a failed condition, or an actual rescission.
+- You do not need to complete additional onboarding forms until HR confirms you are hired and the portal access is legitimate.
 
 ## Important reassurance
-An "under review" status is a procedural step, not a final determination. Many reviews are triggered by automated Continuous Vetting (CV) systems or data mismatches between government databases that are resolvable through the standard referral process. Following the established timelines is the most effective way to protect your status.
+Onboarding systems frequently mislabel people during account changes, start-date edits, duplicate profiles, or pending screenings. The stabilising move is getting a clear written answer from HR; you are not “overreacting” by asking for confirmation.
 
 ## Scope note
-This guide covers first-step stabilization and harm prevention only. It does not cover the formal adjudication of security clearances, administrative law hearings, or long-term immigration litigation.
+This is first-step guidance to reduce panic, preserve evidence, and get a definitive status. If the offer was rescinded and you suffered harm (for example, you left another job), you may need state-specific advice based on your offer letter and timeline.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Employment eligibility and security clearance protocols are subject to specific federal regulations and agency-specific policies. Deadlines for E-Verify and I-9 compliance are strictly enforced by USCIS and ICE. If you are uncertain about your right to work, consult with your employer's HR department for their written determination.
+This is general information, not legal advice. U.S. employment rules vary by state and by the documents you signed, and many jobs are “at-will” (with important exceptions, including discrimination laws). If you believe your rights may have been violated, preserve records and seek qualified help quickly.
 
 ## Additional Resources
-- https://consumer.ftc.gov/articles/employer-background-checks-and-your-rights
+- https://www.ftc.gov/business-guidance/resources/using-consumer-reports-what-employers-need-know
 - https://www.consumerfinance.gov/ask-cfpb/when-i-apply-for-a-job-what-do-employers-see-when-they-do-a-credit-check-for-employment-and-a-background-check-en-1823/
-- https://www.justice.gov/crt/immigrant-and-employee-rights-section
-- https://www.eeoc.gov/pre-employment-inquiries-and-medical-questions-examinations
-- https://www.eeoc.gov/laws/guidance/job-applicants-and-ada
+- https://www.uscis.gov/i-9
+- https://www.eeoc.gov/time-limits-filing-charge
+- https://www.eeoc.gov/disability-discrimination-and-employment-decisions
+- https://www.ncsl.org/labor-and-employment/at-will-employment-overview

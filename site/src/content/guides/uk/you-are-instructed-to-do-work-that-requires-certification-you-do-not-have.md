@@ -1,86 +1,84 @@
----
+﻿---
 title: "What to do if… you are instructed to do work that requires certification you do not have"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "pressured to falsify records"
-  - "asked to falsify timesheets"
-  - "told to change worked hours"
-  - "manager wants me to lie"
-  - "asked to inflate performance figures"
-  - "asked to alter kpi numbers"
-  - "asked to backdate documents"
-  - "asked to edit audit logs"
-  - "pressured to submit false report"
-  - "being told to cover up"
-  - "workplace fraud pressure"
-  - "fear retaliation at work"
-  - "threatened if i refuse"
-  - "whistleblowing at work uk"
-  - "pressured to sign false figures"
-  - "asked to misreport payroll"
-  - "asked to fake compliance records"
-  - "told to make numbers work"
-  - "what do i do if my boss asks me to lie"
-  - "what do i do if i am asked to falsify records"
-  - "what do i do if i am pressured to lie at work"
-  - "what do i do if i see fraud at work"
-  - "help i am being pressured to change records"
-  - "help i am being asked to backdate files"
-  - "help i am being asked to fake data"
-  - "help i have to lie about my hours"
-  - "my manager is falsifying data"
-  - "my boss is making me lie about performance"
-  - "my company is faking audit logs"
-  - "smell of fraud at work"
-  - "vague verbal instructions to change data"
-  - "unexplained changes to performance stats"
-  - "missing audit trail for entries"
-  - "pressure to sign off inaccurate work"
-  - "falsification of work records uk"
-  - "reporting workplace fraud uk"
-last_reviewed: "2026-03-17"
+  - told to do certified work
+  - asked to work without certification
+  - asked to work without licence
+  - pressured to do unqualified work
+  - told to do regulated work
+  - asked to sign off work
+  - asked to use someone elses certificate
+  - not competent for task
+  - not trained to use equipment
+  - unsafe work refusal
+  - serious and imminent danger
+  - told to cut corners at work
+  - worried about disciplinary action
+  - document instruction in writing
+  - report a safety concern
+  - raise a workplace risk
+  - escalate to health and safety
+  - record who told you
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… you are instructed to do work that requires certification you do not have (UK)
 
 ## Short answer
-Do not alter, delete, or create any records that you know to be inaccurate. Request all instructions in writing and immediately seek advice from a confidential whistleblowing service or your union representative.
+Pause the task and state (preferably in writing) that you do not hold the required certification/authorisation and cannot do or sign off the work. Ask to be reassigned or for a properly certified person to do it and take responsibility.
 
 ## Do not do these things
-- Do not agree to "fix it later" or comply once to show loyalty; this may establish personal liability for fraud.
-- Do not engage in heated arguments or make verbal accusations without a witness or record.
-- Do not use company systems to download or forward large amounts of confidential data to a personal email, as this can lead to summary dismissal for data breach.
-- Do not attempt to "hack" or access files you do not have authorized permission to view to find evidence.
-- Do not delete your own drafts, calendar entries, or logs that show your actual work or the pressure you received.
+- Do not “just do it this once” if the work requires certification/licensing/authorisation you do not have.
+- Do not sign, countersign, or “tick the box” to say you’re certified/competent if you are not.
+- Do not let your name, login, signature, or email be used to imply you supervised/authorised work you didn’t.
+- Do not borrow someone else’s certificate number, login, signature, or name.
+- Do not let anyone rush you into starting before you’ve clarified what credential is required and who will be responsible.
+- Do not argue about motives in the moment—keep it factual and about competence/safety/compliance.
+- Do not delete messages or notes about the instruction.
 
 ## What to do now
-1. **Create a safe pause by requesting time to verify the data.** If you are being pressured in person or on a call, state clearly that you need to check the figures against the primary records before you can sign off or submit.
-2. **Request the instruction and the justification in a written format.** Send a follow-up email stating: "To ensure I follow the correct procedure, please could you confirm in writing the specific changes you are requesting to [record name] and the reason for the adjustment."
-3. **Make a contemporaneous personal record of the request outside of company systems.** Write down the date, time, location, exactly what was said, who was present, and any specific threats or promises made (e.g., "we need this to hit our bonus" or "don't make this difficult").
-4. **Identify the specific type of wrongdoing being requested.** Determine if the request involves a criminal offence (fraud), a breach of a legal obligation (regulatory non-compliance), or a danger to health and safety (falsifying safety checks), as these are "qualifying disclosures" under the Public Interest Disclosure Act 1998 (PIDA).
-5. **Locate your organization’s internal whistleblowing or "Speak Up" policy.** Identify the designated Whistleblowing Officer or the external reporting line provided by your employer to bypass your immediate management.
-6. **Submit a formal, factual disclosure in writing to the designated contact.** Use neutral language to describe what you were asked to do, why you believe it is wrong, and provide the names of any witnesses.
-7. **Contact a prescribed person or regulator if internal reporting is unsafe.** If the pressure comes from senior leadership or the internal route is compromised, report directly to the relevant body, such as the Financial Conduct Authority (FCA) for financial records or HM Revenue & Customs (HMRC) for payroll/tax fraud.
-8. **Seek immediate confidential advice from Protect or Acas.** Call the Protect advice line (020 3117 2520) for legally privileged guidance on how to raise the concern while maximizing your protection against detriment or dismissal.
+1. **Stop and stabilise the situation.** If you’re already at the work area/equipment, step back to a safe point and pause the task.
+2. **Name the issue plainly.** Say: “I don’t hold the required certification/authorisation for this task, so I can’t do it (or can’t do it unsupervised). Who is the authorised person for this work?”
+3. **Ask for the compliant alternative immediately.** Request one of these:
+   - reassignment to work you *are* authorised/competent to do
+   - a certified/authorised person to perform and sign off
+   - direct supervision where the authorised person remains responsible and signs off
+4. **Get it in writing (or create a written record).** Reply by email/message capturing:
+   - what you were told to do
+   - what credential/authorisation you understand is required (even if you’re not fully sure)
+   - that you do not hold it
+   - what you’re willing to do instead (assist with non-regulated parts, prep, observe, or wait for supervision)
+5. **Check your workplace’s controls quickly.** Look for what your employer uses for this (even if it’s informal):
+   - training record / competence matrix
+   - authorised-person list, permit-to-work, or sign-off register
+   - method statement/SOP for the task
+   If you can’t confirm quickly, treat it as “not confirmed” and keep the task paused.
+6. **If this also creates a health and safety danger, use the safety route.** Report it via your organisation’s procedure (manager, health and safety rep, or the named reporting route). If you reasonably believe there is a serious and imminent danger, prioritise getting to a safe place and reporting it.
+7. **Escalate once, calmly, if you’re pressured.** If your manager insists, escalate to a higher manager and/or HR/Health & Safety using the same wording: “I’m not certified/authorised for this. I’m asking for reassignment or a competent, authorised person to take it.”
+8. **Make a clean record for your future self.** Write a quick timeline (date/time, who said what, who you told, what you did). Keep copies somewhere you can still access if your work accounts are restricted later.
+9. **If you need quick employment-rights guidance, contact Acas (and/or your union).** Keep it practical: “I’m being instructed to do work I’m not certified/authorised for; I’ve refused and escalated; what should I do next?”
 
 ## What can wait
-- You do not need to decide immediately whether to resign or stay.
-- You do not need to confront the person who pressured you after you have made your report.
-- You do not need to gather a complete "case file" of every company document before speaking to an advisor.
-- You do not need to inform your colleagues that you have raised a concern.
+- You do not need to decide right now whether to raise a formal grievance, whistleblowing disclosure, or external report.
+- You do not need to prove the full legal/regulatory position before pausing—“I’m not certified/authorised” is enough to stop you doing/signing off regulated work.
+- You do not need to resign or threaten resignation in the moment.
 
 ## Important reassurance
-It is normal to feel significant stress when asked to choose between your job and your integrity. UK law provides specific protections for workers who raise "protected disclosures" in the public interest, meaning you should not be treated unfairly or dismissed for refusing to falsify records. These protections apply from the first day of your employment.
+It’s normal to freeze or feel pressured when someone senior tells you to “just do it.” Pausing and being precise about what you are (and are not) authorised to do protects you and others—especially where safety, legal compliance, or professional standards are involved.
 
 ## Scope note
-This guide provides first-step stabilization for immediate workplace pressure regarding record accuracy. It is not a substitute for legal representation or a full whistleblowing strategy, which may vary by industry.
+These are first steps to prevent harm and protect you from being pushed into an irreversible mistake. After the immediate pressure is off, you may need role-specific guidance from your union/professional body or an employment adviser.
 
 ## Important note
-This guide is for informational purposes and does not constitute legal advice. Whistleblowing law is complex, and protection depends on the specific nature of the disclosure and to whom it is made. If you are already facing disciplinary action or have been dismissed, contact a solicitor or your union representative immediately.
+This is general information, not legal advice. If anyone is in immediate danger, prioritise getting to safety and calling emergency services.
 
 ## Additional Resources
-- https://www.hse.gov.uk/work-equipment-machinery/training-competence.htm
-- https://www.hse.gov.uk/treework/site-management/training.htm
-- https://www.acas.org.uk/health-and-safety-at-work
+- https://www.acas.org.uk/health-and-safety-at-work/reporting-a-risk
 - https://www.acas.org.uk/health-and-safety-at-work/protection-from-dismissal-and-detriment
-- https://www.acas.org.uk/grievance-letter-template
+- https://www.hse.gov.uk/work-equipment-machinery/training-competence.htm
+- https://www.hse.gov.uk/competence/what-is-competence.htm
+- https://www.legislation.gov.uk/ukpga/1996/18/section/44
+- https://www.legislation.gov.uk/ukpga/1996/18/section/100
+- https://www.acas.org.uk/contact

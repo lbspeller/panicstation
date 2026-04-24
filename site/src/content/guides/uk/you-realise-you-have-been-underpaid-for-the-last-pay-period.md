@@ -1,89 +1,83 @@
----
+﻿---
 title: "What to do if… you realise you have been underpaid for the last pay period"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "net pay zero"
-  - "payslip net pay zero"
-  - "payslip much lower than expected"
-  - "pay statement shows zero"
-  - "wages paid wrong amount"
-  - "underpaid this payday"
-  - "payroll error this month"
-  - "unexpected deductions"
-  - "tax deducted too much"
-  - "national insurance too high"
-  - "wrong tax code on payslip"
-  - "overpayment taken back"
-  - "attachment of earnings"
-  - "student loan deduction shock"
-  - "salary short this month"
-  - "salary not in bank"
-  - "bank transfer salary missing"
-  - "hours missing on payslip"
-  - "pay period wrong"
-  - "what do i do if my pay is zero"
-  - "what do i do if i was underpaid"
-  - "what do i do if my payslip is wrong"
-  - "what do i do if my wages are missing"
-  - "help i got paid zero pounds"
-  - "help i have no money in my bank from work"
-  - "my net pay is lower than usual"
-  - "my salary was not paid"
-  - "missing wages on statement"
-  - "unexpected payroll deduction"
-  - "hmrc tax code change 2026"
-  - "fair work agency complaint"
-  - "acas underpayment advice"
-  - "zero net pay error"
-  - "incorrect hours on payslip"
-  - "unauthorised deduction from wages"
-last_reviewed: "2026-03-17"
+  - underpaid last pay period
+  - paid less than expected
+  - short pay on payday
+  - wages missing from payslip
+  - payslip is wrong
+  - incorrect hours on payslip
+  - missing overtime pay
+  - pay rate wrong this month
+  - payroll error underpayment
+  - not paid full wages
+  - shorted on wages
+  - unpaid wages last payday
+  - net pay lower than usual
+  - gross pay incorrect
+  - rota hours not paid
+  - timesheet not processed
+  - bonus or commission missing
+  - unlawful deduction from wages
+  - employer underpaid me
+last_reviewed: "2026-01-07"
 ---
-# What to do if… you realise you have been underpaid for the last pay period (UK)
 
+# What to do if… you realise you have been underpaid for the last pay period (UK)
 ## Short answer
-Isolate whether the issue is a deduction on the payslip or a failure in payment delivery, then request a written explanation and a correction date from payroll immediately.
+Check the pay-period numbers (hours/rate/deductions), then raise it with payroll/your manager immediately and get a written confirmation of the shortfall and when it will be paid.
 
 ## Do not do these things
-- Do not assume the error will automatically resolve itself in the next pay cycle.
-- Do not resign or stop attending work before receiving a formal explanation of the pay discrepancy.
-- Do not share images of your payslip or personal tax details on public forums or group chats.
-- Do not ignore new deductions, even if they appear official, as statutory orders can be applied in error.
-- Do not accept verbal promises of "fixing it later" without a written record of the agreed correction date.
+- Do not assume it will “sort itself out” next payday without a clear written plan for when and how it will be corrected.
+- Do not sign anything you do not understand (for example, documents about changing hours, pay rate, or deductions) while you’re panicking.
+- Do not accuse anyone of “theft” or “fraud” before you’ve checked whether it’s a payroll mistake.
+- Do not quit on the spot or walk out mid-shift as your first response.
+- Do not accept cash “top-ups”, informal IOUs, or vague promises like “we’ll add it later” without a proper payroll correction.
 
 ## What to do now
-1. **Verify the basic payroll data on the statement within 2 minutes.** Confirm that the specific dates for the pay period, the total hours recorded, and the gross pay amount match your own records.
-   - check the tax code listed (e.g., 1257L or an "emergency" code like BR/0T)
-   - identify any line items under "Deductions" that were not present on your last payslip
-2. **Determine if the issue is a deduction or a delivery failure.** Look at the "Net Pay" figure on the statement; if it is zero or low, the money was withheld during payroll processing; if it is normal but your bank account is empty, the issue is with the bank transfer or account details.
-3. **Contact the payroll or HR department today to request a written explanation.** Ask them to provide a "plain-English" breakdown of the specific deduction that reduced the net pay and to confirm if a manual or off-cycle payment can be made.
-4. **Identify if a common statutory or contractual deduction has been triggered.** Ask payroll directly if the reduction relates to a specific 2026 update or standard recovery process.
-   - recovery of a previous overpayment (which can legally reduce pay below minimum wage thresholds)
-   - a new Attachment of Earnings Order (AEO) or student loan start
-   - a change in pension contributions or auto-enrolment status
-5. **Check for the automatic removal of tax reliefs if the tax amount is the cause.** As of April 2026, HMRC may have automatically removed employment expenses or Gift Aid relief from your tax code if they deemed the data outdated; verify your current code via the HMRC Personal Tax Account or app.
-6. **Request an immediate "Correction Plan" if an error is admitted.** Ensure the plan includes the exact date the missing funds will reach your account and whether the employer will cover any bank charges incurred due to the delay.
-7. **Organise an evidence bundle of your employment records.** Save a digital copy of the incorrect payslip, your previous "normal" statement, and any rota or timesheet data for that period.
-8. **Escalate to the Fair Work Agency or Acas if the matter remains unresolved.** If the employer refuses to provide a reason or a correction, contact the Fair Work Agency (launched April 2026) or Acas for early conciliation regarding an "unauthorised deduction from wages."
+1. **Confirm what’s missing (keep it tight and factual).**  
+   Check your pay information for that pay period (payslip/pay portal/bank payment). Compare: hours paid, hourly rate/salary, overtime, commission/bonus, and deductions. Write down the exact shortfall and the pay period end date.
+2. **If you’re entitled to an itemised pay statement and didn’t get one, note that as part of the problem.**  
+   If your pay varies by hours worked, your pay statement should usually show the number of hours paid. If you cannot access a payslip/pay statement at all, screenshot the portal error (if any) and keep the bank payment record.
+3. **Gather the minimum proof you’ll need.**  
+   Save: the payslip/pay statement, your contract/offer (rate and pay date), rota/schedule, approved timesheets, clock-in/out records (if available), and messages approving overtime or shifts. Screenshot anything that could change.
+4. **Raise it the same day if you can — then create a paper trail.**  
+   Tell payroll or your manager: “I believe I’ve been underpaid by £X for the pay period ending [date]. Please confirm the amount owed and when it will be paid.”  
+   If you discuss it verbally, follow up with a short email/message confirming what was agreed.
+5. **Ask for a specific correction plan (date + amount + payslip fix).**  
+   Ask them to confirm in writing:
+   - the calculation (what they think you should have been paid)
+   - **when** they will pay the shortfall (and whether they can pay it before the next payday)
+   - how it will appear on your next payslip so tax/NI/deductions are correct
+6. **If it’s not fixed promptly, raise a formal grievance in writing.**  
+   Attach the payslip/timesheet/contract and clearly state what you want: payment of the shortfall, corrected payroll records, and written confirmation.
+7. **If you might miss deadlines, contact Acas early.**  
+   There are strict time limits. For unpaid/underpaid wages it’s usually **3 months minus 1 day** from the date you should have been paid (or, if it happened more than once, from the last underpayment). In most cases you must start **Acas Early Conciliation** within your time limit before you can make an employment tribunal claim (some claims are exempt).
+8. **If the underpayment may take you below the National Minimum Wage, use the minimum-wage route.**  
+   You can make a pay-and-work-rights complaint (which goes to the relevant enforcement body — for minimum wage, that’s HMRC). If you’re also considering other routes (like an unlawful deductions claim), get advice quickly so you don’t miss time limits.
 
 ## What can wait
-- You do not need to calculate the exact tax or National Insurance percentages yourself right now.
-- You do not need to decide on long-term legal action or a formal grievance in the first few hours.
-- You do not need to update your HMRC records until you have confirmed with payroll what code they are currently using.
+- You do not need to decide today whether to bring a legal claim.
+- You do not need to escalate to senior leadership or threaten a tribunal to fix a one-off payroll error.
+- You do not need to audit every historic payslip right now — stabilise the last pay period first.
+- You do not need to resign or job-hunt in the first wave of panic.
 
 ## Important reassurance
-Receiving a zero-pay statement is a high-stress event, but most instances are the result of identifiable payroll inputs, tax code shifts, or administrative errors. Obtaining a written explanation is the standard first step to resolving the discrepancy and protecting your rights.
+A short pay packet is destabilising, especially when bills are due. Many cases are payroll/admin errors (hours not processed, rate not updated, deductions misapplied) and are fixable once the right person sees clear figures and documents. Your job is to stay calm, document it, and get a written correction plan.
 
 ## Scope note
-This guide provides first-step stabilization for immediate pay discrepancies. It does not cover long-term employment tribunal strategies or complex tax disputes involving multiple years of records.
+This covers immediate first steps after you notice an underpayment. If it repeats, involves disputed deductions, or affects multiple workers, you may need specialist advice (for example from Acas or a union) on next stages.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. If a lack of pay prevents you from meeting essential costs, contact your landlord, utility providers, or lenders immediately to inform them that your wages are in dispute and a correction is being sought.
+This is general information, not legal advice. Employment situations vary and deadlines can be strict. If you feel pressured, threatened, or are close to a deadline, get independent advice promptly before taking irreversible steps.
 
 ## Additional Resources
+- https://www.gov.uk/payslips
 - https://www.acas.org.uk/if-your-wages-are-not-paid
 - https://www.acas.org.uk/if-your-wages-are-not-paid/raising-an-issue-with-your-employer
-- https://www.citizensadvice.org.uk/work/pay/problems-getting-paid/
+- https://www.acas.org.uk/grievance-procedure-step-by-step/step-2-raising-a-formal-grievance
+- https://www.acas.org.uk/early-conciliation/how-early-conciliation-works
+- https://www.acas.org.uk/deductions-from-pay-and-wages
 - https://www.gov.uk/pay-and-work-rights
-- https://www.gov.uk/government/publications/pay-and-work-rights-complaints

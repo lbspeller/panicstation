@@ -1,94 +1,77 @@
----
+﻿---
 title: "What to do if… you are told to continue work as normal after a safety incident while it is being assessed"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "medical note in 24 hours"
-  - "told to get a sick note"
-  - "fit note deadline"
-  - "threatened removal from duties"
-  - "taken off work duties"
-  - "sudden sick leave demand"
-  - "employer wants doctor note"
-  - "self certify sickness"
-  - "off sick less than 7 days"
-  - "urgent fit note request"
-  - "workplace sickness evidence"
-  - "manager demands medical proof"
-  - "return to work note pressure"
-  - "sickness absence rules uk"
-  - "medical evidence for absence"
-  - "hr demands sick note"
-  - "panic about sick note"
-  - "cannot get gp appointment fast"
-  - "24 hour sick note ultimatum"
-  - "help i need a fit note now"
-  - "my boss wants a doctors note today"
-  - "what do i do if my manager demands a sick note"
-  - "ssp day one rights 2026"
-  - "private sick note fee uk"
-  - "self certification form sc2"
-  - "nhs app self certification"
-  - "doctor refused sick note for 3 days"
-  - "emergency sick note request"
-  - "threatened with suspension for no sick note"
-  - "workplace medical note crisis"
-last_reviewed: "2026-03-17"
+  - told to carry on working
+  - told to continue as normal
+  - safety incident at work
+  - near miss at work
+  - accident just happened
+  - hazard not cleared yet
+  - incident under investigation
+  - asked to stay on shift
+  - pressured to keep working
+  - unsafe working conditions
+  - serious and imminent danger
+  - stop work concern
+  - refuse unsafe work uk
+  - worried about retaliation
+  - report health and safety risk
+  - risk assessment not shared
+  - asked to go back in area
+  - not confident it's safe
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are told to continue work as normal after a safety incident while it is being assessed (UK)
 
 ## Short answer
-Send a written response immediately to state you are self-certifying (the legal standard for the first 7 days) and request an extension to gather any specific medical evidence required. As of April 2026, Statutory Sick Pay (SSP) is a day-one right, and employers generally cannot demand a GP fit note for absences of 7 calendar days or fewer.
+Pause and move to a safer position, then tell your manager you cannot continue in the affected area/task until you understand what controls are in place and it’s confirmed safe. Ask for the instruction and the risk assessment/control measures in writing.
 
 ## Do not do these things
-- Do not ignore the request; silence is often interpreted as a refusal to cooperate or a "no-show" for work.
-- Do not attempt to forge or alter an old medical document to meet the 24-hour deadline.
-- Do not agree to take unpaid leave or resign under pressure just because you cannot get a GP appointment today.
-- Do not pay for an expensive private medical certificate without first checking if your employer will reimburse the fee (often £25–£40).
-- Do not provide your full medical records or detailed diagnosis; you only need to share how your condition affects your ability to work.
+- Do not go back into the affected area or restart the same task “just this once” if you think there’s still a serious risk.
+- Do not let yourself be forced into an on-the-spot decision (“do it now or else”) — ask for a short pause to clarify safety controls.
+- Do not argue about blame on the shop floor — keep it calm, factual, and about risk controls.
+- Do not sign anything you have not read or do not agree with (for example, a statement that the area is “safe”) while you’re stressed.
+- Do not share photos/details on social media or informal group chats in the moment.
+- Do not assume “it’s being assessed” means “it’s safe” — check what has actually changed since the incident (shutdown, isolation, barriers, supervision, procedure change, PPE).
 
 ## What to do now
-1. **Send a formal written response to the person making the demand.** **Confirm the 24-hour deadline and state clearly that you are following the UK government's self-certification rules for the first 7 days of absence.**
-   - Include the date your sickness started and the date you expect to return (if known).
-   - Use the phrase: "I am currently self-certifying my absence as per ACAS and DWP guidance."
-
-2. **Submit a self-certification form immediately as your "proof of action."** **Use the NHS App, your employer’s internal HR portal, or download the HMRC SC2 form (Employee's Statement of Sickness) and email it to your manager.**
-   - This provides immediate, legally recognized evidence of your sickness without requiring a GP appointment.
-   - Keep a timestamped copy of the submission or a "Sent" email receipt.
-
-3. **Request a specific extension and clarification on why the 24-hour deadline is being imposed.** **Ask if this is a requirement for Statutory Sick Pay (SSP) or a "fitness for duty" assessment related to health and safety.**
-   - Remind them that under the Employment Rights Act 2025 (effective April 2026), SSP is payable from day one and fit notes are not required for the first 7 days.
-   - Ask: "Can you confirm which company policy requires a fit note before the 7th calendar day of absence?"
-
-4. **Contact your GP surgery to request a fit note if you have been ill for more than 7 days.** **If you are within the first 7 days and the employer insists, explain to the GP receptionist that your employer is demanding a "private certificate" for a short-term absence.**
-   - Be aware that GPs are not required to provide NHS fit notes for the first 7 days and may charge a private fee for doing so.
-   - If the GP refuses, ask for a "printout of my recent consultation" or a "patient summary" as alternative evidence.
-
-5. **Propose "adjusted duties" as an alternative to being taken off work entirely.** **If the demand is because they think you are unsafe to work, ask if you can work from home or perform restricted tasks while you wait for a medical appointment.**
-   - This shows you are willing to work and shifts the burden onto the employer to justify why you are being "taken off duties."
-
-6. **Gather evidence of your attempt to get a medical note.** **Take screenshots of your call logs to the GP, any "no appointments available" messages on the surgery website, or emails sent to the clinic.**
-   - If you face disciplinary action later, this "best efforts" evidence is vital for your defense.
-
-7. **Notify your Union Representative or a trusted colleague if you have one.** **Forward the 24-hour ultimatum to them immediately so they are aware of the timeline and can intervene if the employer moves to suspend you.**
+1. **Create a safer pause.** Step away from the immediate area/equipment/process involved. If there is any immediate danger (fire, gas, structural risk, violence), follow site emergency procedures and call **999** if needed.
+2. **Name the specific hazard, not the emotion.** Say: “There was a safety incident at [location]. I can’t continue this task/in that area until the controls are confirmed and I understand them.”
+3. **Ask two concrete questions that force clarity:**
+   1) “What controls are in place right now to prevent a repeat?”  
+   2) “Who has assessed it as safe to continue, and when will that be reviewed again?”
+4. **Ask for a safe alternative while it’s assessed.** Request temporary reassignment to a different task/area or non-exposure duties (admin, packing, training, housekeeping outside the affected zone) until controls are confirmed.
+5. **Ask for the instruction in writing.** If someone insists you continue, ask them to confirm by message/email/log: “Please confirm you’re instructing me to continue [task] in [area] while the incident is being assessed, and what controls you’re relying on.” Keep your reply short and factual.
+6. **Use your workplace reporting route immediately.** Report the incident/near miss via your employer’s system (digital form, incident log, or an accident book if your workplace still uses one). Include: time, exact location, what happened, what you were told, and what controls you could/could not see. Ask for a reference number or a copy/receipt.
+7. **Bring in the right people fast.** Contact: your supervisor/manager → the site health & safety lead → your union safety rep (if you have one) or another trained safety representative. Ask them to attend the area with you for a quick walk-through of controls.
+8. **If you reasonably believe there’s serious and imminent danger, say so plainly and act proportionately.** UK law can protect employees in certain circumstances if they reasonably believe there’s serious and imminent danger and they take appropriate steps (for example, leaving the area or refusing to return while danger persists). Keep it focused: stay available, propose safer work, and keep notes.
+9. **If you’re not the direct employee, notify your route too.** If you’re agency staff/contractor, also inform your agency/contract manager (briefly, in writing) that you’re raising an unresolved safety concern and requesting reassignment until controls are confirmed.
+10. **Escalate outside the company if nothing changes.** You can raise a concern with the enforcing authority (this is either **HSE** or your **local council** depending on the workplace). If you’re unsure which applies, use HSE’s “correct enforcing authority” guidance/checker, or contact your local council’s health & safety/environmental health team.
+11. **If anyone was injured or exposed, prioritise health.** Use first aid/medical routes available at work and document any symptoms/exposure details. If you’re advised to “wait and see” but you’re worried, ask for occupational health input or GP advice.
 
 ## What can wait
-- You do not need to prove your long-term "capability" to do the job within this 24-hour window.
-- You do not need to decide right now whether to raise a formal grievance or start legal action.
-- You do not need to answer detailed questions about your medication or private health history.
+- You do not need to decide right now whether to raise a grievance, start a claim, or resign.
+- You do not need to “prove” the incident in the moment — focus on preventing repeat harm and confirming controls.
+- You do not need a perfect written statement immediately; a short factual note now is enough.
+- You do not need to identify who is legally at fault right now.
 
 ## Important reassurance
-It is common for managers to use "24-hour" language to create urgency, but UK law provides significant protection for short-term sickness. Responding in writing with a self-certification form is usually enough to stop an immediate "removal from duties" or at least provides you with the documentation needed to challenge any unfair pay deductions later.
+It’s normal to feel shaken, angry, or pressured after a safety incident — especially if others are acting like it’s “nothing.” Wanting a pause and clear controls before continuing is a reasonable safety response.
 
 ## Scope note
-This guide covers the immediate 24-hour response to an evidence demand. It does not cover long-term disability discrimination, complex disciplinary hearings, or specific rules for safety-critical industries (like aviation or rail), which may have stricter medical requirements.
+These are first steps for the hours immediately after the incident. The next stages (formal investigation, regulator reporting decisions, HR steps) depend on what happened and how your employer responds.
 
 ## Important note
-This information is for guidance only and is not a substitute for legal advice. Laws regarding Statutory Sick Pay changed significantly in April 2026; always check your specific employment contract for any "enhanced" sick pay rules that may differ from the statutory minimum.
+This is general information, not legal advice. If you think you or others are in immediate danger, use emergency procedures and emergency services. If you’re unsure about your rights or next steps, consider getting advice from a union, Acas, or a qualified professional.
 
 ## Additional Resources
-- https://www.acas.org.uk/health-and-safety-at-work
 - https://www.acas.org.uk/health-and-safety-at-work/reporting-a-risk
+- https://www.acas.org.uk/health-and-safety-at-work/risk-assessments
 - https://www.acas.org.uk/health-and-safety-at-work/protection-from-dismissal-and-detriment
-- https://www.hse.gov.uk/simple-health-safety/risk/
+- https://www.legislation.gov.uk/ukpga/1996/18/section/44
+- https://www.hse.gov.uk/contact/authority.htm
 - https://www.hse.gov.uk/contact/tell-us-about-a-health-and-safety-issue.htm
+- https://www.hse.gov.uk/riddor/

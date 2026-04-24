@@ -1,87 +1,89 @@
----
+﻿---
 title: "What to do if… you are told you cannot bring anyone to a formal meeting that could affect your job"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "paid sick leave stopped"
-  - "sick pay stopped suddenly"
-  - "employer says paperwork insufficient"
-  - "sick leave paperwork missing"
-  - "sick note not accepted"
-  - "fit note not received"
-  - "proof of sickness needed"
-  - "self certify sickness"
-  - "payroll stopped sick pay"
-  - "hr says missing documents"
-  - "medical evidence for absence"
-  - "sickness absence documentation"
-  - "company sick pay paused"
-  - "statutory sick pay problem"
-  - "return to work pressure"
-  - "worried about losing pay"
-  - "short notice pay change"
-  - "what do i do if sick pay is stopped"
-  - "what do i do if payroll says no sick note"
-  - "what do i do if my fit note is late"
-  - "what do i do if i cannot get a doctor note"
-  - "help i am not being paid for sick leave"
-  - "help i have no money because of sick pay"
-  - "help my employer is withholding sick pay"
-  - "my employer says my sick note is wrong"
-  - "my sick pay is missing from payslip"
-  - "email says sick pay stopped"
-  - "notice of pay withholding"
-  - "missing sick pay paperwork"
-  - "statutory sick pay dispute"
-  - "hmrc dispute sick pay"
-  - "fit note delay"
-  - "ssp1 form missing"
-  - "sick pay evidence"
-  - "workplace sickness policy"
-last_reviewed: "2026-03-17"
+  - told i cannot bring anyone
+  - bring someone to meeting
+  - formal meeting at work
+  - meeting could affect my job
+  - disciplinary hearing alone
+  - grievance meeting alone
+  - investigatory meeting alone
+  - right to be accompanied
+  - bring a companion
+  - bring a colleague as witness
+  - union rep in meeting
+  - hr meeting without support
+  - meeting about misconduct
+  - meeting about performance
+  - asked to attend hearing
+  - denied companion request
+  - can i take someone with me
+  - told no one can attend
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… you are told you cannot bring anyone to a formal meeting that could affect your job (UK)
 
 ## Short answer
-Request the decision and the list of missing documents in writing, then submit the required evidence via a trackable method. If the dispute involves Statutory Sick Pay (SSP), request an SSP1 form and escalate to the HMRC Statutory Payment Dispute Team if it remains unresolved.
+Don’t agree to go in alone until you know what kind of meeting it is. If it’s a disciplinary hearing or a qualifying grievance meeting/hearing, make a written request to be accompanied and ask to rearrange the meeting so your companion can attend.
 
 ## Do not do these things
-- Do not rely on verbal agreements or telephone conversations — ensure all requirements and deadlines are documented in writing.
-- Do not submit original medical documents without retaining a high-quality scan or physical copy for your records.
-- Do not provide full medical records or detailed diagnostic history; provide only the standard fit note or self-certification required by law.
-- Do not resign or agree to unpaid leave during the discussion; this may affect your future eligibility for sick pay or benefits.
-- Do not assume a notice of "insufficient paperwork" is a final refusal — it is often a request for clarification or a missing form.
+- Do not treat it as “just an informal chat” if it could lead to warnings, dismissal, or other sanctions.
+- Do not resign on the spot, or threaten resignation, to try to regain control of the situation.
+- Do not sign anything you have not read and understood (especially “outcome letters”, “agreements”, or meeting notes you disagree with).
+- Do not argue your case by firing off long, emotional emails or messages while you’re upset.
+- Do not record the meeting without permission unless you clearly understand your workplace rules and the potential consequences. If you want a recording, ask in advance and be prepared for them to say no.
 
 ## What to do now
-1. **Request a written explanation of the decision to stop or withhold pay today.** This must clarify whether they are referring to Statutory Sick Pay (SSP) or company/contractual sick pay, the specific documents missing, the submission deadline, and if pay is paused or terminated.
-2. **Identify which sick pay scheme applies to your current absence.** Check your contract of employment or staff handbook to see if you are entitled to company sick pay (which has internal rules) or only the legal minimum SSP.
-3. **Confirm your evidence matches the duration of your sickness.** 
-   - For absences of 7 calendar days or fewer, you are entitled to self-certify your sickness without a medical note.
-   - For absences over 7 calendar days (including weekends), you must provide a medical fit note from a healthcare professional.
-4. **Notify your employer immediately in writing if there is a delay in obtaining a fit note.** Explain the reason for the delay and provide the date you expect the note to be issued; fit notes can be backdated by clinicians if they are satisfied with the evidence.
-5. **Provide a self-certification form for the first 7 days of any absence.** If your employer requires medical evidence for the first 7 days and your GP charges a fee for a private note, request that your employer confirms they will reimburse this cost.
-6. **Submit all available evidence using a trackable email or postal service.** Include your full name, employee ID, and the specific dates the evidence covers, then request a written receipt confirming when pay will be reinstated.
-7. **Calculate your expected SSP rate to ensure the withholding is the only issue.** As of April 2026, SSP is a day-one right (no waiting days) and is paid at the lower of 80% of your average weekly earnings or the flat rate of £123.25.
-8. **Demand an SSP1 form if your employer maintains you are not entitled to SSP.** This form is a legal requirement and is necessary to claim other benefits or to start a formal dispute with HMRC.
-9. **Escalate the dispute to HMRC if internal HR or payroll routes fail.** Contact the HMRC Statutory Payment Dispute Team at 03003 229 422 if your employer refuses to pay SSP that you believe you are entitled to.
+1. **Ask (in writing) what type of meeting this is and what outcomes are on the table.**  
+   “Please confirm whether this is investigatory, disciplinary, or a grievance meeting/hearing, and whether any formal outcome (for example a warning or dismissal) is possible.”
+
+2. **Ask for the information you need before you attend.**  
+   Request: the concern/allegation in writing, any evidence they’ll rely on, the relevant policy/procedure, who will be present, and whether notes/minutes will be taken (and shared).
+
+3. **If this is a disciplinary hearing or grievance hearing, make a clear written request to be accompanied (and name who).**  
+   State that you are making a reasonable request to bring a companion from an allowed category (for example a work colleague or an appropriate trade union representative/official).
+
+4. **If your companion cannot attend at the proposed time, propose a reasonable alternative within 5 working days.**  
+   Give a specific date/time that is practical (for example when those involved are normally at work and available) and within 5 working days of the original meeting date.
+
+5. **If they say it’s “investigatory” and therefore you must attend alone, pin down the risk and ask for good-practice support anyway.**  
+   Ask: “Can you confirm this investigation meeting will not by itself result in disciplinary action, and that any decision would only be made at a later disciplinary hearing?”  
+   Then ask if they will allow a companion anyway as good practice (even if they say there’s no legal right at this stage).
+
+6. **If they still refuse and want to proceed, protect yourself calmly at the start of the meeting.**  
+   Say: “I requested to be accompanied and that was refused. Please record that in the notes. I’ll do my best to answer, but I may need breaks and I may need to follow up in writing after reviewing any documents/evidence.”  
+   If you do not have the basics (what the allegation is, key documents), ask to adjourn and reschedule once you’ve had a reasonable chance to prepare.
+
+7. **Take your own notes and ask for a copy of the meeting notes/minutes.**  
+   Write down: date/time, who attended, what was put to you, what you said, and any deadlines given.
+
+8. **Immediately after, write a short ‘record of events’.**  
+   Save a private note/email to yourself: what meeting type they said it was, your companion request (and refusal), and the next steps they set.
+
+9. **Get support quickly if the stakes are high.**  
+   If you’re in a union, contact your rep. If not, consider contacting Acas for procedural guidance, and specialist employment advice if dismissal, discrimination, or retaliation is a realistic risk.
 
 ## What can wait
-- You do not need to decide whether to file a formal grievance or Employment Tribunal claim today.
-- You do not need to provide a detailed history of your medical condition or symptoms beyond what is on the fit note.
-- You do not need to resolve disagreements about workplace adjustments or return-to-work plans while focusing on stabilizing your pay.
+- You do **not** need to decide today whether to raise a formal grievance, appeal an outcome, or make any legal claim.
+- You do **not** need to produce a full written response until you’ve seen what the meeting is about and what evidence/policy they’re relying on.
+- You do **not** need to agree in the room that their notes are accurate—review them afterwards and correct anything important in writing.
 
 ## Important reassurance
-Pay interruptions are frequently caused by administrative errors, such as a fit note being sent to the wrong department or an automated payroll cutoff date. Following the formal submission process and obtaining a written checklist usually resolves the issue without the need for legal action.
+Being told you must attend alone can feel like you’re being boxed in. You can usually regain control by getting the meeting type confirmed, insisting on basic written information, and (where the right applies) making a clear request to be accompanied and to reschedule reasonably.
 
 ## Scope note
-This guide provides first-step stabilization for pay disputes related to sickness documentation. If pay continues to be withheld after you have provided valid evidence, you may require professional legal advice or trade union representation.
+This is first-steps guidance to prevent avoidable mistakes and buy time. It does not cover the full disciplinary/grievance process, settlement discussions, or tribunal strategy.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Statutory Sick Pay rules changed on April 6, 2026, removing waiting days and the lower earnings limit; ensure you are referencing these current standards. Contractual sick pay is governed by your specific employment agreement and may have different notice requirements.
+This is general information, not legal advice. Workplace procedures and your rights can depend on your contract, workplace policies, union arrangements, and the exact type of meeting. If there’s a credible risk of dismissal or discrimination, consider getting specialist advice promptly.
 
 ## Additional Resources
 - https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
-- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures/html
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/preparing-for-a-disciplinary-or-dismissal-meeting/
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/
 - https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
+- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
+- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures/html
+- https://www.legislation.gov.uk/ukpga/1999/26/section/10
+- https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/

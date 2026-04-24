@@ -1,94 +1,95 @@
----
+﻿---
 title: "What to do if… you are told you will be taken off work duties unless you provide a medical note within 24 hours"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "work email used to sign up"
-  - "company email used for accounts"
-  - "unknown accounts using my email"
-  - "unexpected account signup emails"
-  - "random welcome emails at work"
-  - "verification emails i did not request"
-  - "password reset emails i did not request"
-  - "work email possibly compromised"
-  - "someone created accounts with my email"
-  - "suspicious subscription confirmations"
-  - "inbox rules changed at work"
-  - "email forwarding i did not set"
-  - "microsoft 365 sign in i dont recognise"
-  - "google workspace login alert"
-  - "business email compromise warning"
-  - "my work address on websites"
-  - "spoofed work email address"
-  - "unwanted registrations using my email"
-  - "workplace cyber incident"
-  - "account takeover concern at work"
-  - "help i have unknown work accounts"
-  - "help i am getting random sign up emails"
-  - "what do i do if my work email is on a weird site"
-  - "what do i do if i get a random verification code"
-  - "what do i do if my work email has been used elsewhere"
-  - "what do i do if i suspect a work email hack"
-  - "smell of burning plastic near server"
-  - "unusual heat from laptop fan"
-  - "unexpected computer fan noise"
-  - "visible sign in from unknown city"
-  - "incorrect login attempts notification"
-  - "account sign up error"
-  - "work email sign-up"
-  - "unrecognised account creation"
-  - "unauthorised email usage"
-last_reviewed: "2026-03-17"
+  - medical note in 24 hours
+  - told to get a sick note
+  - fit note deadline
+  - threatened removal from duties
+  - taken off work duties
+  - sudden sick leave demand
+  - employer wants doctor note
+  - self certify sickness
+  - off sick less than 7 days
+  - urgent fit note request
+  - workplace sickness evidence
+  - manager demands medical proof
+  - return to work note pressure
+  - sickness absence rules uk
+  - medical evidence for absence
+  - HR demands sick note
+  - panic about sick note
+  - can't get GP appointment fast
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are told you will be taken off work duties unless you provide a medical note within 24 hours (UK)
 
 ## Short answer
-Treat the situation as a potential security incident by immediately reporting it to your organisation's IT or cyber-security team without clicking any links or buttons within the suspicious emails.
+Reply in writing immediately, ask whether this is about sickness absence evidence or “fitness/safety for duties”, and request a short extension while you provide self-certification (the usual approach for the first 7 calendar days) and arrange any medical evidence they genuinely need.
 
 ## Do not do these things
-- Do not click "verify," "unsubscribe," "confirm email," or any password reset links in the messages.
-- Do not download or open any attachments included in these registration emails.
-- Do not forward the emails to your personal account or external cloud storage.
-- Do not delete the emails or empty your deleted items folder until IT tells you to.
-- Do not attempt to log into the unknown accounts or "take them over" by resetting the password yourself.
+- Do not forge, alter, or “borrow” a medical note.
+- Do not resign on the spot, or agree to unpaid leave, just to make the pressure stop.
+- Do not overshare your diagnosis or private medical details to a manager (you can describe functional impact instead).
+- Do not ignore the message — silence can be misread as refusal.
+- Do not rush into paying privately for a letter without first confirming what evidence they’ll accept and who will cover any fee.
 
 ## What to do now
-1. **Report the incident through your workplace’s official security channel immediately.**  
-   Use your internal IT helpdesk, dedicated security email, or a "Report Phishing" button if available in your mail client. State clearly that you are receiving unrequested account creation or verification emails.
-2. **Preserve all metadata and headers without interacting with the email body.**  
-   Keep the messages in your inbox. Note the sender's full email address, the exact time received, and the specific service mentioned.
-3. **Check for unauthorized changes to your mailbox settings if it is safe to do so.**  
-   Look for:
-   - New "Inbox Rules" that move or delete incoming mail.
-   - Automatic forwarding rules sending your mail to an external address.
-   - Unfamiliar delegated access or shared permissions.
-4. **Notify your Data Protection Officer (DPO) or Compliance Lead if you suspect data exposure.**  
-   UK organisations may have a statutory duty to report personal data breaches to the Information Commissioner’s Office (ICO) within 72 hours. Early internal notification ensures the organisation can meet this legal window.
-5. **Secure your primary work account using employer-approved methods only.**  
-   Follow your IT team's specific protocol for password resets. If your organisation uses Single Sign-On (SSO), do not change passwords on external sites until the central account is confirmed secure.
-6. **Report the suspicious emails to the national reporting service.**  
-   If your internal policy allows, forward the suspicious messages to the National Cyber Security Centre (NCSC) at **report@phishing.gov.uk**.
-7. **Document the list of "unknown accounts" for the security team.**  
-   Create a simple text list of the services (e.g., "LinkedIn," "Dropbox," "Unknown Retailer") and the dates the emails arrived. Provide this list to your IT investigators to help them trace the scope of the incident.
+1. **Get the demand into writing (or confirm it in writing).**  
+   Send a short message that records: the 24-hour deadline, what “taken off duties” means (sent home? unpaid? redeployed? suspended?), and who is making the decision.
+
+2. **Ask what they’re actually asking for — absence proof, pay evidence, or safety/fitness.**  
+   Request:
+   - the relevant sickness/absence or fitness-for-duty policy wording
+   - what counts as acceptable evidence *by tomorrow* (self-certification, email confirmation, appointment confirmation, discharge/attendance letter)
+   - whether this affects **Statutory Sick Pay (SSP)**, contractual sick pay, or just which duties you can do
+
+3. **State the UK baseline (calmly) and offer a workable alternative.**  
+   Say: “For the first 7 calendar days off sick, employees generally do not need a fit note from a healthcare professional and can self-certify. I can provide self-certification now and I’m arranging further evidence if needed.”
+
+4. **If SSP is involved, use the SSP rule to slow down escalation.**  
+   Ask HR to confirm they are following SSP rules: employers can only ask for a fit note when someone has been off sick for **more than 7 days in a row (including non-working days)**, and they cannot withhold SSP just because a fit note arrives late.
+
+5. **Create “proof of action” within 24 hours (even if you can’t get a fit note).**  
+   Do at least one:
+   - submit your employer’s self-certification method (often a form or an email); if you need a template, HMRC’s “SC2” self-certification form is commonly used
+   - request a GP/online consultation or use your GP practice’s fit note request route and keep the confirmation
+   - if you were seen by a hospital/clinic, ask for an attendance/discharge letter or summary confirming you were seen
+
+6. **If they insist on “evidence” in the first 7 days, address fees and responsibility.**  
+   Reply: “If you require clinician evidence within the first 7 days, please confirm what you need and whether the organisation will cover any fee the healthcare professional may charge.”
+
+7. **If this is really about safety/fitness for specific duties, propose a temporary solution instead of being removed.**  
+   Ask: “Can we agree temporary adjusted duties / a restriction on specific tasks / remote work while I obtain medical evidence?”  
+   Also ask HR about an occupational health referral if your workplace uses it.
+
+8. **If the issue might be long-term or recurring, use reasonable-adjustment language early.**  
+   In writing: “I’m requesting temporary adjustments while I obtain medical confirmation focused on work impact and restrictions.” Keep it about what you can/can’t do.
+
+9. **Bring in support quickly if you can.**  
+   If you’re in a union, forward the written demand to your rep today. If not, keep a timeline and consider contacting ACAS for guidance on sickness evidence disputes and employer processes.
 
 ## What can wait
-- You do not need to contact the external websites to close the accounts yourself right now.
-- You do not need to notify clients or external partners unless specifically instructed by your legal or security department.
-- You do not need to determine the "motive" or identity of the person using the address today.
-- You do not need to file a personal police report unless your IT team confirms that your personal data (outside of work) has been compromised or money has been lost.
+- You do not need to decide today whether to raise a grievance, start legal action, or leave your job.
+- You do not need to disclose detailed medical history — focus on dates, functional impact, and what you can provide now.
+- You do not need to “prove” you’re ill in real time; your job right now is to respond, document, and propose a realistic evidence timeline.
 
 ## Important reassurance
-Receiving unexpected sign-up emails is a common occurrence and does not always mean your account has been "hacked"; it can be caused by automated "credential stuffing" or simple user error. By following your internal reporting procedure and not clicking links, you are successfully containing the risk and protecting the organisation.
+A 24-hour ultimatum can feel impossible when access to appointments is limited. You can still protect yourself by responding promptly in writing, self-certifying appropriately, showing you are taking reasonable steps to obtain evidence, and asking for a proportionate, documented process.
 
 ## Scope note
-This guide covers first-step stabilization for the first few hours after discovery. Further actions, such as formal ICO notification or forensic investigation, must be led by your organisation's specialists.
+These are first steps only — to reduce panic decisions and prevent the situation escalating through silence or rushed concessions. Later steps (pay disputes, formal processes, disability-related adjustments) may need specialist advice.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional cybersecurity advice. Always prioritize your employer's specific IT policies and incident response plans. If you believe you are a victim of a crime and are in England, Wales, or Northern Ireland, you can report it via the Report Fraud service (reportfraud.police.uk); in Scotland, contact Police Scotland on 101.
+This is general information, not legal advice. Workplace policies vary, but you can ask for clarity, proportionality, and a realistic timeframe — especially where appointment availability is the limiting factor.
 
 ## Additional Resources
-- https://www.acas.org.uk/fit-notes-and-proof-of-sickness
-- https://www.gov.uk/employers-sick-pay/notice-and-fit-notes
 - https://www.gov.uk/taking-sick-leave
-- https://www.gov.uk/government/publications/the-fit-note-a-guide-for-patients-and-employees/the-fit-note-guidance-for-patients-and-employees
+- https://www.gov.uk/employers-sick-pay/notice-and-fit-notes
+- https://www.acas.org.uk/fit-notes-and-proof-of-sickness
 - https://www.acas.org.uk/sick-leave
+- https://www.nhs.uk/nhs-services/gps/getting-a-fit-note/
+- https://www.acas.org.uk/using-occupational-health-at-work
+- https://www.acas.org.uk/getting-a-doctors-report-about-an-employees-health

@@ -1,100 +1,88 @@
----
+﻿---
 title: "What to do if… you suspect someone is using your name to approve purchases or invoices at work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "employer restructuring announced"
-  - "urgent restructure at work"
-  - "asked to choose role"
-  - "choose role immediately"
-  - "pressured job change decision"
-  - "redeployment offer deadline"
-  - "alternative role offered"
-  - "redundancy consultation meeting"
-  - "role change under pressure"
-  - "restructure meeting shock"
-  - "new job terms unclear"
-  - "asked to sign today"
-  - "internal role selection"
-  - "sudden reorganisation announcement"
-  - "job role changed suddenly"
-  - "at risk of redundancy"
-  - "offered different position"
-  - "workplace restructure deadline"
-  - "what do i do if my job is restructuring"
-  - "what do i do if i have to choose a role today"
-  - "what do i do if my employer is changing my role"
-  - "what do i do if i am at risk of redundancy"
-  - "help i have to pick a new job role"
-  - "help i am being pressured to sign at work"
-  - "help my company is reorganising"
-  - "help i need to delay an employment decision"
-  - "smell of burning office morale"
-  - "visible corporate restructuring"
-  - "feeling pressured in a meeting"
-  - "hearing about job cuts"
-  - "redundancy notice period confusion"
-  - "suitable alternative employment trial"
-  - "settlement agreement pressure"
-  - "tupe transfer rights 2026"
-  - "protective award 180 days"
-  - "section 188 notice"
-last_reviewed: "2026-03-17"
+  - someone used my name at work
+  - approvals made in my name
+  - invoices approved under my name
+  - fake purchase approvals
+  - procurement fraud suspicion
+  - accounts payable issue
+  - vendor invoice scam at work
+  - unauthorised approval in system
+  - email account used for approvals
+  - approval workflow misused
+  - finance system audit trail
+  - signature misuse at work
+  - delegated authority abused
+  - worried i’ll be blamed
+  - workplace fraud reporting
+  - whistleblowing fraud at work
+  - raising a grievance at work
+  - identity misuse at workplace
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… you suspect someone is using your name to approve purchases or invoices at work (UK)
 
 ## Short answer
-Do not commit to a role or sign any documents during the initial meeting. Formally request the full terms of all options in writing and ask for a 48 to 72-hour window to review them before responding.
+Stop any further approvals under your name and report it immediately (in writing) to your manager and Finance/Accounts Payable (and Procurement if separate), asking them to freeze approvals/hold payments and preserve audit logs.
 
 ## Do not do these things
-- Do not resign immediately to avoid the process, as this usually forfeits your right to redundancy pay.
-- Do not sign any "settlement agreement" or "waiver of rights" without independent legal advice; these are not legally binding in the UK unless certified by a qualified adviser.
-- Do not accept verbal assurances about future pay, hours, or seniority that are not included in the formal written offer.
-- Do not agree to a "suitable alternative" role if the location, pay, or duties are fundamentally different without first confirming your right to a trial period.
-- Do not assume that a "choice" offered today is the only path available; procedural errors by the employer can lead to significant protective awards.
+- Do not confront the person you suspect or make accusations in a group chat, open email thread, or meeting.
+- Do not “fix” it quietly by re-approving, backdating approvals, or editing records to make things “match”.
+- Do not delete emails, approval notifications, messages, or log entries (even if they look confusing).
+- Do not forward invoices, supplier bank details, or screenshots to personal accounts unless your employer explicitly allows it.
+- Do not wait for “more proof” if approvals or payments might still be happening.
 
 ## What to do now
-1. **Use a neutral holding statement to pause the conversation immediately.**  
-   State clearly: "I cannot make an informed decision right now; please provide the full details of these roles and the proposed terms in writing so I can review them."
-2. **Request a comprehensive written "information pack" before the end of the day.**  
-   Ensure this pack includes:
-   - Specific job descriptions and reporting lines for all available roles.
-   - Exact salary, grade, benefits, and location (including hybrid/remote status).
-   - The selection criteria being used to match people to roles.
-   - The consequences of not selecting a role (e.g., move to a redundancy pool).
-3. **Determine the exact legal nature of the "choice" being offered.**  
-   Ask your manager or HR: "Am I officially 'at risk' of redundancy, and is this role being offered as 'suitable alternative employment' under statutory rules?"
-4. **Create a contemporaneous written record of the meeting.**  
-   Document the names of everyone present, the specific time the "immediate" demand was made, and any deadlines mentioned. Save this in a personal file, not on a company device.
-5. **Check if collective consultation rules have been triggered.**  
-   If 20 or more redundancies are proposed at your location within 90 days, ask for the "Section 188" notice and the names of the elected employee or union representatives. Note that from April 6, 2026, the maximum protective award for failing to consult has doubled to 180 days' pay.
-6. **Confirm your right to a statutory four-week trial period for any new role.**  
-   **Ask for the trial period start and end dates to be confirmed in writing before you begin the new position.** If you need training to make the role "suitable," ensure any extension to the trial period is also agreed in writing before the trial starts.
-7. **Request time to seek independent advice if a settlement agreement is mentioned.**  
-   Tell the employer you will take the document away for review and ask what fixed sum they will contribute toward your legal fees, as independent advice is a statutory requirement for these agreements.
-8. **Clarify whether TUPE protections apply if the restructure involves a transfer of business.**  
-   Ask: "Is this restructure related to a service provision change or a business transfer under the TUPE regulations?"
-9. **Contact ACAS or your trade union representative immediately for guidance.**  
-   Call the ACAS helpline (0300 123 1100) to verify if the "immediate" deadline complies with fair consultation requirements for your specific length of service.
+1. **Pause anything that could add to the problem (minutes):**  
+   Stop using the approval function. Ask Finance/Procurement to **temporarily suspend approvals under your user ID/name** (or require a second approver) and to **hold any pending payments** linked to approvals in your name until reviewed.
+2. **Report to the right internal owners (today, in writing):**  
+   Notify **your manager** and **Accounts Payable/Finance** (and **Procurement** if separate). Keep it factual: invoice numbers, supplier names, amounts (if known), dates/times, and where you saw your name attached. Ask them to confirm **in writing** they have started a review.
+3. **Get IT to secure and preserve access evidence (today):**  
+   Contact IT/service desk and ask them to:  
+   - reset your password(s) and confirm **MFA/2FA** is enabled  
+   - check for **mailbox rules/forwarding**, suspicious logins, and any delegated access  
+   - confirm who has “approve on behalf of” permissions (or shared roles) in the finance/procurement system  
+   Ask them to **preserve relevant logs** (don’t investigate yourself).
+4. **Preserve what you’ve seen without “digging” (today):**  
+   Make a simple private timeline note (date/time/what/where). Save approval notifications and take screenshots that show your name attached to an approval **without changing any records**.
+5. **Ask Finance/Procurement to run a targeted control check (today):**  
+   Ask them to verify:  
+   - the **approval matrix** (who can approve what) and whether it changed  
+   - whether any **supplier bank details** were recently changed  
+   - whether there are **duplicate invoices** or invoices split to bypass limits  
+   - whether your name is attached via a **workflow role** rather than your actual login
+6. **If you feel exposed, ask for a protective temporary measure (today):**  
+   Ask Finance/Procurement to **remove your approval role temporarily** (or route approvals away from you) and confirm the interim arrangement in writing so you are not pressured to “keep approving” while it’s unresolved.
+7. **If you’re worried the issue involves management or you could face retaliation:**  
+   Use your employer’s **whistleblowing/protected disclosure** route (or confidential reporting channel) if available, and keep your report factual. If you’re unsure what route fits, consider getting general workplace process advice (for example from Acas guidance) before you escalate further.
+8. **If it appears to be fraud beyond an internal mistake:**  
+   Ask your employer who will make any external reports. If you need to report personally:  
+   - If you live in **England, Wales, or Northern Ireland**, you can report fraud/cybercrime to **Report Fraud**.  
+   - If you live in **Scotland** (or it happened there), report to **Police Scotland** (typically via **101**).  
+   If it is happening now or there is immediate risk, use the appropriate emergency route (**999**).
 
 ## What can wait
-- You do not need to decide today whether the new role is your "forever" career path.
-- You do not need to negotiate the specific details of a redundancy package in the first hour of the announcement.
-- You do not need to update your external job profiles or tell colleagues your decision until you have received and read the written terms.
-- You do not need to determine if the employer's process is "illegal" on your own; gather the documents first.
+- You do not need to decide now whether to resign, confront anyone, or threaten legal action.
+- You do not need to identify the person responsible before reporting — containment and log preservation come first.
+- You can wait to take wider personal identity steps (credit checks, protective registration) unless you see signs your identity is being used outside work.
 
 ## Important reassurance
-It is normal to feel overwhelmed or pressured when faced with a sudden demand to change your job role. A restructure is a significant life event, and your hesitation to sign or decide immediately is a standard, protective response. Taking a pause is a professional way to ensure the long-term security of your employment rights.
+It’s normal to feel panicked or ashamed — especially if you’re worried you’ll be blamed. Prompt, factual reporting and asking for audit logs to be preserved is a sensible protective step and helps separate an honest concern from wrongdoing.
 
 ## Scope note
-This guide covers first-step stabilization for UK employment restructures. Final outcomes depend on your specific contract, length of service (specifically if over or under two years), and the total number of staff affected.
+These are first steps to stop further damage and protect you from being wrongly linked to approvals. Later steps (formal investigation, recovery of funds, disciplinary action) should follow your employer’s formal processes and may need specialist support.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Employment law in the UK is subject to strict timelines and specific procedural requirements that vary based on individual circumstances. Always consult a qualified legal professional, a trade union representative, or ACAS before signing documents that waive your statutory rights or terminate your employment.
+This is general, first-step information, not legal advice. Workplace systems and reporting routes vary by employer and sector. If you’re pressured to approve or “sign off” anything you do not understand, it’s reasonable to pause and insist the issue is handled through documented internal channels.
 
 ## Additional Resources
-- https://www.cifas.org.uk/services/identity-protection/victim-of-impersonation
-- https://www.moneyhelper.org.uk/en/everyday-money/credit/identity-theft-and-scams-what-you-are-liable-for
-- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
-- https://www.acas.org.uk/whistleblowing-at-work
+- https://www.reportfraud.police.uk/
 - https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.scotland.police.uk/guidance/scams-and-frauds/
+- https://www.gov.uk/whistleblowing
+- https://www.acas.org.uk/grievance-procedure-step-by-step
+- https://www.gov.uk/raise-grievance-at-work

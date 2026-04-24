@@ -1,91 +1,76 @@
----
+﻿---
 title: "What to do if… you are told your work email address may have been used for accounts you do not recognise"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "work authorisation sponsorship withdrawn"
-  - "visa sponsor may withdraw"
-  - "employer stopping sponsorship"
-  - "skilled worker sponsorship risk"
-  - "certificate of sponsorship cancelled"
-  - "sponsorship being reported to home office"
-  - "losing sponsored job uk"
-  - "redundancy on skilled worker visa"
-  - "sponsor licence problem employee"
-  - "curtailment notice ukvi"
-  - "home office letter curtailment"
-  - "right to work sponsorship ended"
-  - "sponsored worker job ending"
-  - "visa tied to employer uk"
-  - "sponsorship withdrawal rumour"
-  - "sponsorship withdrawal email"
-  - "sponsor says ending employment"
-  - "immigration status after job loss"
-  - "what do i do if my sponsorship is withdrawn"
-  - "what do i do if my visa is cancelled"
-  - "help i am losing my sponsored job"
-  - "help i got a curtailment letter"
-  - "my employer is stopping sponsorship"
-  - "my work visa is being cancelled"
-  - "smell of burning office electronics"
-  - "visible red redundancy notice"
-  - "email from home office"
-  - "letter from ukvi"
-  - "notice of sponsorship withdrawal"
-  - "rumours of sponsor licence revocation"
-last_reviewed: "2026-03-17"
+  - work email used to sign up
+  - company email used for accounts
+  - unknown accounts using my email
+  - unexpected account signup emails
+  - random welcome emails at work
+  - verification emails i did not request
+  - password reset emails i did not request
+  - work email possibly compromised
+  - someone created accounts with my email
+  - suspicious subscription confirmations
+  - inbox rules changed at work
+  - email forwarding i did not set
+  - microsoft 365 sign in i dont recognise
+  - google workspace login alert
+  - business email compromise warning
+  - my work address on websites
+  - spoofed work email address
+  - unwanted registrations using my email
+  - workplace cyber incident
+  - account takeover concern at work
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are told your work email address may have been used for accounts you do not recognise (UK)
 
 ## Short answer
-Request written confirmation of the withdrawal date from your employer and update your contact details in your UKVI account immediately. Do not resign or leave the UK until you have received advice from a regulated immigration professional.
+Treat this as a potential security incident: don’t click anything in the messages, and report it to your organisation’s IT/security team immediately using your normal internal route.
 
 ## Do not do these things
-- Do not resign or sign a settlement agreement until you have confirmed how it affects your "grace period" for switching sponsors.
-- Do not assume you automatically have 60 days to stay; the Home Office can cancel permission with immediate effect in some circumstances.
-- Do not engage in any work, including unpaid or informal help, after your final date of sponsored employment.
-- Do not travel outside the UK if you have received a curtailment or cancellation notice, as you may be refused re-entry.
-- Do not rely on verbal promises from your employer regarding when they will report the change to the Home Office.
-- Do not miss the deadline to respond to a Home Office "minded to curtail" letter if one is issued.
+- Don’t click “verify”, “unsubscribe”, “reset password”, or attachment links from the alert emails.
+- Don’t forward the emails to your personal account or upload them to personal storage “to deal with later”.
+- Don’t delete the emails, empty your deleted items, or clean up your mailbox yet.
+- Don’t try to “take over” unknown accounts by repeatedly resetting passwords or guessing what happened.
 
 ## What to do now
-1. **Request a formal written statement from your employer regarding your sponsorship status.** Ask for the following specific details:
-   - The exact date the employer intends to stop sponsoring your role.
-   - The date the employer will report the change to the Home Office.
-   - Whether the withdrawal is due to redundancy, a business change, or a performance-related issue.
-2. **Download and secure all sponsorship-related documents immediately.** Save digital copies to a personal device or cloud storage:
-   - Your current Certificate of Sponsorship (CoS).
-   - Your latest three months of payslips and bank statements showing salary credits.
-   - Your employment contract and any "Worker Rights and Welfare" information provided by the sponsor.
-3. **Log in to your UKVI account to verify and update your contact information.** Ensure the Home Office has your current personal email address and mobile number:
-   - Check that your eVisa is linked to your current, valid passport.
-   - Generate a "Right to Work" share code and save the PDF for your records.
-4. **Identify your specific nationality-based restrictions under 2026 rules.**
-   - If you are a national of Afghanistan, Cameroon, Myanmar, or Sudan, check if the 2026 "Visa Brake" affects your ability to submit new applications from outside the UK.
-5. **Contact a regulated immigration adviser (OISC Level 1-3 or a qualified solicitor).** Provide them with your visa expiry date, your CoS details, and the written notice from your employer:
-   - Ask for a "statutory protection" assessment if you plan to make a new application before your current leave expires.
-6. **Report your current address to the Home Office if it has changed.** Use the official "Update your UK Visas and Immigration account" service to ensure all physical mail arrives at your current residence.
-7. **Create a chronological log of all communication regarding your sponsorship.**
-   - Note the date and time of every meeting with HR.
-   - Save copies of all emails regarding "at risk" status or sponsorship withdrawal.
+1. **Report it through your workplace’s official process now.**  
+   Use your IT helpdesk, security channel, or “report phishing” workflow. Say: “I’m receiving sign-up/verification/password reset emails for services I don’t recognise using my work address.”
+2. **Preserve the evidence without clicking.**  
+   Keep the messages. Note (or screenshot) the subject lines, the time received, and the sender shown. If your organisation asks you to report suspicious email in a specific way (for example, using a built-in “report phishing” button or forwarding as an attachment), do that.
+3. **If you can’t find an internal route quickly, use a safe fallback (if your workplace allows).**  
+   Forward suspicious emails to the UK Suspicious Email Reporting Service at **report@phishing.gov.uk** (this is for reporting suspicious messages, not for getting account access back).
+4. **Ask IT/security to check for the highest-risk signs of mailbox misuse.**  
+   Specifically ask them to check for: unusual sign-ins, new inbox rules, unexpected auto-forwarding, unfamiliar delegated access/shared mailbox permissions, and unknown connected apps.
+5. **Secure your work account using your organisation’s approved method.**  
+   If IT/security instructs you to, reset your password to a new unique one, sign out of other sessions/devices, and confirm multi-factor authentication is enabled and working. Follow your employer’s exact steps (especially if you use Single Sign-On).
+6. **Make a simple list of the “unknown accounts” for IT/security.**  
+   Search your mailbox for “welcome”, “verify”, “confirm your email”, and “password reset”. List: service name + date/time + what the email claims. Give that list to IT/security.
+7. **Escalate internally if there’s any hint of data exposure or impersonation.**  
+   If any email suggests personal/company data was entered, or if colleagues report messages “from you” that you didn’t send, tell your manager and your organisation’s data protection/privacy or compliance contact (if you have one). Your organisation should assess whether this is a personal data breach and what must be reported externally.
 
 ## What can wait
-- You do not need to choose a new visa category in the first 24 hours.
-- You do not need to notify your bank or landlord about a potential change in status until it is confirmed in writing.
-- You do not need to book a flight out of the UK until you have received regulated advice on your specific curtailment date.
+- You do **not** need to contact every website immediately or spend hours trying to close accounts today.
+- You do **not** need to decide whether this is “identity theft” right now — first confirm whether your work mailbox/account was accessed.
+- You do **not** need to warn clients/customers or your whole team unless IT/security confirms there is a real risk of impersonation or data access.
+- If you have not lost money and there’s no evidence of hacking beyond your workplace systems, external reporting can wait until your employer confirms what happened.
 
 ## Important reassurance
-Uncertainty regarding your right to stay is a high-stress event, and feeling overwhelmed is a standard response. Most people in this situation have a window of time to seek advice and plan their next steps once the official notice is issued. Taking control of your documents and contact details reduces the risk of missing critical deadlines.
+Unexpected sign-up or verification emails are common and can be caused by typos or automated abuse. Taking the cautious route (don’t click, report quickly, preserve evidence) is the right response and helps your organisation confirm whether this is just “email misuse” or an actual account compromise.
 
 ## Scope note
-This guide provides first-step stabilization and harm reduction only. It does not cover the legal merits of challenging a sponsorship withdrawal or the requirements for switching to other visa routes.
+These are first steps for the first hours/day. Later actions (closing specific accounts, wider communications, HR steps, or formal reporting) depend on what IT/security finds.
 
 ## Important note
-This information is for general guidance and is not a substitute for regulated immigration advice. Immigration rules, including salary thresholds and "visa brakes" for specific nationalities, are subject to frequent change. Consult the Home Office website or a qualified professional for case-specific deadlines.
+This is general information, not legal or professional advice. Follow your employer’s policies and incident response instructions. If you believe you’ve lost money or your personal identity is being misused outside work systems, you can also report cyber crime/fraud via UK police reporting routes once you’re safe and have the basic facts.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
-- https://www.ncsc.gov.uk/collection/phishing-scams/what-to-do
-- https://www.ncsc.gov.uk/guidance/data-breaches
 - https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
-- https://ico.org.uk/for-the-public/how-to-make-a-data-protection-complaint/
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://ico.org.uk/for-organisations/report-a-breach/personal-data-breach/personal-data-breaches-a-guide/
+- https://www.reportfraud.police.uk/

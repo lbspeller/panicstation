@@ -1,106 +1,75 @@
----
+﻿---
 title: "What to do if… you are told you must relocate or change work location"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "reference refused"
-  - "reference limited"
-  - "employer won't give reference"
-  - "hr reference only"
-  - "factual reference only"
-  - "employment dates only"
-  - "reference policy"
-  - "job offer reference check"
-  - "new employer chasing reference"
-  - "reference delayed"
-  - "reference withdrawn"
-  - "worried about bad reference"
-  - "unfair misleading reference"
-  - "refusing reference after complaint"
-  - "regulated role reference"
-  - "regulatory reference requirement"
-  - "settlement agreement reference clause"
-  - "proof of employment letter"
-  - "leaving job no reference"
-  - "what do i do if my reference is limited"
-  - "what do i do if employer refuses reference"
-  - "what do i do if reference is factual only"
-  - "what do i do if i cannot get a reference"
-  - "help i have a bad reference"
-  - "help i have no reference"
-  - "help i need a reference for a new job"
-  - "my reference is being blocked"
-  - "smell of burning bridges"
-  - "visible disciplinary record"
-  - "hearing about bad reference"
-  - "refusal of reference"
-  - "limit of reference"
-  - "refused reference"
-  - "limited reference"
-last_reviewed: "2026-03-17"
+  - told to relocate for work
+  - forced workplace move
+  - change of work location
+  - office relocating notice
+  - job moved to new site
+  - new worksite requirement
+  - mobility clause in contract
+  - place of work clause
+  - commute suddenly changed
+  - transfer to another branch
+  - work location change demand
+  - site move short notice
+  - remote work being removed
+  - return to office mandate
+  - flexible working request
+  - caring responsibilities commute
+  - disability travel barrier
+  - asked to sign contract change
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are told you must relocate or change work location (UK)
 
 ## Short answer
-Request written confirmation of the specific information the employer is willing to provide and present alternative evidence of employment to the prospective employer immediately.
+Don’t agree in the moment—get the change in writing, then check your contract’s “place of work” and any mobility/flexibility clause before you accept, refuse, or resign.
 
 ## Do not do these things
-- Do not send aggressive communications or threats of legal action to the current or former employer.
-- Do not speculate on the contents of a confidential reference or repeat unverified rumors to a new employer.
-- Do not provide falsified documents, fake referee contact details, or edited emails.
-- Do not resign from a current position or withdraw from a new job offer before understanding the new employer's specific requirements.
-- Do not assume you have an immediate legal right to see the wording of a confidential reference; these are often exempt from Subject Access Requests (SARs) while the recruitment process is active.
+- Do not resign “to get it over with” or stop turning up without first clarifying what is being required and when.
+- Do not sign a new contract, variation letter, or “acceptance” form on the spot.
+- Do not rely on “it’s in your contract” as a summary—ask to see the exact clause and the proposed new terms in writing.
+- Do not assume a mobility clause means any move is automatically enforceable—how “reasonable” it is (notice, distance, impact) can matter.
+- Do not make irreversible life decisions (ending a tenancy, selling, moving children’s schools) until you know whether this is definite, temporary, and what alternatives exist.
 
 ## What to do now
-1. **Request the employer's reference position in writing immediately.**
-   **Ask HR or the designated referee to clarify the exact scope of the information they will provide.**
-   - Confirm if they provide "factual only" references (usually limited to job title and dates).
-   - Ask for a copy of the formal company reference policy.
-   - Request the specific email address or portal the new employer should use to ensure requests are not lost.
-
-2. **Secure an alternative "employment confirmation letter" if a full reference is denied.**
-   **Ask for a standard letter on company letterhead that confirms neutral data points.**
-   - Request start and end dates.
-   - Request the final job title held.
-   - This document can often serve as a "basic reference" to satisfy initial HR checks at a new firm.
-
-3. **Verify if the role requires a mandatory "regulatory reference."**
-   **Determine if your industry has specific legal requirements for data sharing, such as financial services under the FCA or PRA.**
-   - If the role is regulated, the employer may be legally required to provide a reference within 4 weeks.
-   - Ask the prospective employer exactly what regulatory data they need so you can cross-reference this with your current employer's obligations.
-
-4. **Communicate with the prospective employer using neutral, factual language.**
-   **Explain the situation briefly without sounding defensive or apologetic.**
-   - Use a standard phrase: "My previous employer has a policy of providing factual-only references confirming dates and titles."
-   - Provide alternative proof immediately, such as P60s, P45s, payslips, or original contract copies (redacting sensitive financial data unless specifically requested).
-
-5. **Offer alternative referees or a probationary solution.**
-   **Provide the new employer with other ways to verify your suitability.**
-   - Offer a character reference from a former manager at a different company or a professional mentor.
-   - Suggest a performance-based probationary period or a "trial" week if the lack of a detailed reference is a dealbreaker.
-
-6. **Record all interactions if you suspect discrimination or retaliation.**
-   **Maintain a chronological log of who said what and when regarding the reference refusal.**
-   - Keep copies of emails where a reference was promised or denied.
-   - Contact ACAS (0300 123 1100) for guidance if you believe the refusal is linked to a protected characteristic or a previous whistleblowing event.
+1. **Ask for the instruction in writing.** Request: the new work address, start date, whether it’s permanent or temporary, expected days/hours on site, and what happens if you cannot relocate.
+2. **Collect your key documents and save copies.** Contract, offer letter, any later variation letters, and any handbook/policy that is stated to form part of your contract.
+3. **Find the “place of work” term and any mobility/flexibility clause.** Note the exact wording (area limits, notice, “reasonable” wording) and whether your employer is treating this as a temporary assignment or a permanent change.
+4. **Ask your employer to point to what they’re relying on.** If they say it’s covered by a clause, ask them to quote it and explain why this move is reasonable in your case (distance, notice, costs, caring responsibilities, health/disability).
+5. **Send a holding response to avoid accidental agreement.** Example: “I’m reviewing the proposed change against my contract and my circumstances. I’d like to discuss options and I’ll respond by [date].”
+6. **If the move creates a practical barrier, use a formal route (when appropriate):**
+   - **Flexible working:** if hybrid/remote work, adjusted hours, or fewer on-site days would help, consider making a **statutory flexible working request** (this creates a clear, documented process).
+   - **Disability-related barriers:** if a disability makes the new location/commute harder, **ask for reasonable adjustments in writing** (for example, altered start/finish times, hybrid working, reduced travel, or a nearer site where feasible).
+7. **Ask about support and mitigation in writing.** For example: phased transition, temporary arrangements, travel cost support, relocation assistance, or a nearer alternative site.
+8. **If you’re in a union, contact your rep.** If not, ask if there are employee representatives and whether wider consultation is happening (especially if many employees are affected).
+9. **Document everything.** Keep emails, letters, meeting notes (date/time/attendees/what was said), and deadlines. After meetings, email a brief recap: “To confirm my understanding…”
+10. **If they mention “fire and rehire,” slow down and get advice before you reply formally.** If your employer proposes **dismissal and re-engagement** to force the change, contact Acas promptly for guidance.
 
 ## What can wait
-- You do not need to initiate a formal grievance or legal claim for "negligent misstatement" today.
-- You do not need to provide a exhaustive history of workplace disputes to your new employer.
-- You do not need to "prove" your character to everyone in the industry; focus only on the specific requirements of the current offer.
+- You do not need to decide today whether you will move house.
+- You do not need to accept or refuse until you have the written proposal and have checked your contract wording.
+- You do not need to escalate immediately to a formal grievance if a documented meeting and formal request (flexible working/adjustments) can still resolve it.
+- You do not need to negotiate every detail now—first stabilise what is being required, by when, and on what contractual basis.
 
 ## Important reassurance
-A "factual only" reference is a standard corporate policy for many UK companies and is rarely a personal judgment on the employee. Most modern HR departments are accustomed to seeing limited references and have standard procedures for using alternative evidence to clear a candidate.
+This can feel like an ultimatum and trigger panic. It’s reasonable to slow the pace, insist on clarity in writing, and respond calmly while you work out what is realistically possible for you.
 
 ## Scope note
-This is first-step guidance only. If the situation involves allegations of discrimination, breach of a settlement agreement, or complex regulatory disputes in the financial sector, you may require specialist employment law advice.
+This is first-steps-only guidance to prevent rushed decisions and protect your position. Next steps depend on your contract wording, how the change is being introduced, and your circumstances.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Your rights regarding references depend on your specific employment contract, your industry's regulations, and the specific circumstances of your departure.
+This is general information, not legal advice. Employment situations are fact-specific, and small details (contract wording, reasonableness, consultation, and your circumstances) can materially change your options.
 
 ## Additional Resources
 - https://www.gov.uk/employer-relocation-your-rights
-- https://www.citizensadvice.org.uk/work/changes-to-employment-contracts-overview/
 - https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees
-- https://www.gov.uk/your-employment-contract-how-it-can-be-changed
-- https://www.citizensadvice.org.uk/work/dismissal/check-your-rights-if-youre-dismissed/claiming-constructive-dismissal/
+- https://www.acas.org.uk/employment-contracts-and-the-law/implied-and-imposed-terms/custom-and-practice/flexibility-clauses
+- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees/if-your-employer-proposes-to-dismiss-and-rehire-you
+- https://www.acas.org.uk/statutory-flexible-working-requests/the-right-to-request
+- https://www.gov.uk/flexible-working/applying-for-flexible-working
+- https://www.acas.org.uk/reasonable-adjustments

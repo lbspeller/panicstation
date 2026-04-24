@@ -1,100 +1,84 @@
----
+﻿---
 title: "What to do if… you are told your probation period is being extended unexpectedly"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "workplace pension missing contributions"
-  - "pension deductions not paid in"
-  - "employer not paying pension"
-  - "pension contributions not received"
-  - "auto enrolment missing payments"
-  - "pension statement shows zero"
-  - "pension pot not updated"
-  - "payslip pension deduction mismatch"
-  - "retirement contributions withheld"
-  - "pension provider missing money"
-  - "late pension contributions uk"
-  - "unpaid workplace pension"
-  - "payroll deducted pension not sent"
-  - "pension payments overdue"
-  - "missing employer pension payments"
-  - "contributions not in my pension"
-  - "scheme account missing deposits"
-  - "workplace pension problem now"
-  - "what do i do if my pension is missing"
-  - "what do i do if my employer hasn't paid my pension"
-  - "what do i do if my payslip shows pension but my portal doesn't"
-  - "what do i do if my employer is stealing my pension"
-  - "help i think my employer hasn't paid my pension"
-  - "help i have no pension contributions"
-  - "help my pension account is empty"
-  - "help my employer is late with pension payments"
-  - "smell of payroll error"
-  - "visible gap in pension history"
-  - "missing deposit notification"
-  - "incorrect pension balance"
-  - "pension contribution delay"
-  - "pension portal update lag"
-  - "unpaid pension contributions at work"
-  - "missing pension in flat"
-last_reviewed: "2026-03-17"
+  - probation extended unexpectedly
+  - probation period extension
+  - probation extended at last minute
+  - extended probation meeting
+  - probation extension letter
+  - new probation end date
+  - probation not confirmed
+  - trial period extended
+  - extended review period at work
+  - asked to sign probation extension
+  - unclear expectations probation
+  - worried about failing probation
+  - manager says probation extended
+  - probation extension reasons
+  - probation extension notice period
+  - probation extension after sickness
+  - probation extension after absence
+  - performance concerns during probation
+  - probation extended without warning
+last_reviewed: "2026-01-07"
 ---
-# What to do if… you are told your probation period is being extended unexpectedly (UK)
 
+# What to do if… you are told your probation period is being extended unexpectedly (UK)
 ## Short answer
-Compare your most recent payslip against your pension portal history to identify the exact months missing, then send a formal written inquiry to your employer's payroll department and your pension provider simultaneously.
+Do not react in the moment. Ask for the extension to be confirmed in writing with a clear new end date, the specific reasons, and what “passing” now looks like.
 
 ## Do not do these things
-- Do not assume criminal intent or company insolvency immediately, as technical lags between payroll and portal updates are common.
-- Do not stop your own pension contributions or opt out of the scheme, as this may result in the permanent loss of the employer's contribution portion.
-- Do not accept verbal assurances that the issue will be fixed without a written timeline for reconciliation.
-- Do not agree to receive missing pension money as a "cash bonus" or direct bank transfer, as this bypasses the tax-efficiency of the pension and may violate auto-enrolment laws.
-- Do not resign or threaten to quit before securing the evidence of the missing payments.
+- Do not resign on the spot or threaten to quit while you’re shocked.
+- Do not agree verbally to unclear terms like “we’ll see how it goes” without a date and measurable expectations.
+- Do not sign a new letter/contract immediately if you have not read it carefully.
+- Do not start a heated argument (especially in writing) before you know exactly what concerns are being raised.
+- Do not assume the extension is “standard” or “unfair” until you’ve checked what your contract and policies say.
 
 ## What to do now
-1. **Download and archive your evidence.**
-   - **Save copies of the last 6 months of payslips** showing "Employee Pension" and "Employer Pension" deductions.
-   - **Download a transaction history or annual statement** from your pension provider portal that shows the "zero" or missing entries.
-   - **Locate your original enrolment letter** to confirm the expected contribution percentages.
+1. **Ask for the extension in writing (today) with the essentials.**  
+   Ask them to confirm the **new probation end date**, the **reasons** for extending, and **what you must demonstrate** to pass. Also ask whether **any terms change** (for example notice period, pay review timing, bonuses, or benefits eligibility).
 
-2. **Verify the legal payment deadlines.**
-   - **Check the dates of the missing payments.** By law, employee contributions deducted from your pay must reach the pension scheme by the 22nd day of the following month (or the 19th if paid by cheque).
-   - **Note that the portal amount may look different than your payslip.** If your scheme uses "Relief at Source," your portal might show a higher amount because the provider adds tax relief later.
+2. **Check your contract/handbook and treat this as a “terms” question, not just a feelings question.**  
+   Look for whether probation **can be extended**, who can authorise it, and what probation changes (notice, pay reviews, benefits, bonus rules).  
+   If they are changing anything that’s part of your contract terms, ask HR to confirm **what is changing and whether they consider it a contract change**. If you need time to consider it, say so.
 
-3. **Email your payroll or HR department.**
-   - **Request a written explanation for the discrepancy** between the deductions on your payslips and the credits in your pension account.
-   - **Ask for the specific dates and reference numbers** of the transfers made to the provider for the missing periods.
-   - **Ask for your specific Policy Number or Member ID** if it is not clearly listed on your portal.
+3. **Turn the extension into a written, measurable plan.**  
+   Ask for 2–5 clear objectives (not vague “be more proactive”), how they’ll be assessed, and what support you’ll get (training, clearer priorities, tools, mentoring). Get **scheduled check-ins** and a final review meeting date into the diary.
 
-4. **Contact the pension provider’s member services.**
-   - **Inquire if there are "unallocated" funds** sitting in the scheme's holding account that have not yet been attached to your specific member ID.
-   - **Ask if they have already flagged your employer** for a payment breach, as providers are legally required to report material payment failures to The Pensions Regulator (TPR).
+4. **Send a calm follow-up email after any conversation.**  
+   “Thanks for meeting. My understanding is… (new end date)… (objectives)… (check-in dates)… (support agreed)…”. Keep it factual. This creates a record if the story later shifts.
 
-5. **Initiate a formal grievance if the response is unsatisfactory.**
-   - **Submit a formal written grievance** to your employer if they fail to provide proof of payment or a reconciliation date within 10 working days.
-   - **Follow the Internal Dispute Resolution Procedure (IDRP)** provided by your pension scheme if the provider is the party responsible for the delay.
+5. **If health, disability, pregnancy/maternity, or caring responsibilities are in the background, name it carefully and early.**  
+   If the extension is linked to sickness absence, a disability, pregnancy-related illness, maternity leave, or caring issues, ask (in writing) what adjustments/support will be put in place and how they will ensure you are not disadvantaged. Keep it specific and non-accusatory.
 
-6. **Escalate to official bodies after the initial check.**
-   - **Report the concern to The Pensions Regulator (TPR)** if the employer admits they cannot pay or fails to respond. While TPR often waits for a 90-day lag before acting on late payments, you can report concerns sooner if you suspect bad faith.
-   - **Contact The Pensions Ombudsman (TPO) Early Resolution Service** for informal help if you are struggling to communicate with the employer or provider.
+6. **If it feels unfair, inconsistent, or retaliatory, use the internal route while it’s still fresh.**  
+   Ask HR for the **grievance procedure** and put your concern in writing (short timeline, key facts, what you want to happen next—usually clarity and a fair review).  
+   If it becomes a **formal** grievance or disciplinary hearing, you can usually be accompanied by a trade union rep or a workplace colleague. For other meetings, you can still ask if you may bring someone.
+
+7. **Get confidential, practical guidance before escalating.**  
+   If you’re unsure how to phrase your concerns or what process applies, contact **Acas** for guidance on handling workplace disputes and contract changes.
 
 ## What can wait
-- You do not need to calculate the exact loss of investment growth or "lost interest" immediately.
-- You do not need to decide on a new job or career change while the audit is ongoing.
-- You do not need to hire a solicitor for the initial inquiry phase.
+- You do not need to decide today whether to stay long-term, resign, or start a formal dispute.
+- You do not need to write a long defence statement right now—first pin down the new end date, reasons, and pass criteria.
+- You do not need to threaten legal action to get basic clarity; get the paperwork and the plan first.
 
 ## Important reassurance
-It is common for there to be a 30-to-90-day lag between money leaving your payslip and appearing in a digital portal due to standard processing cycles. Identifying a gap is a routine administrative check, and most discrepancies are resolved through simple payroll corrections once a paper trail is established.
+An unexpected probation extension is common and can reflect uncertainty, missed reviews, or shifting priorities—not a final decision. Getting the terms in writing and converting it into specific targets is the quickest way to reduce risk and regain control.
 
 ## Scope note
-This guide provides first-step stabilization for identifying and reporting missing workplace contributions. It does not cover the recovery of funds during active company liquidation or the legalities of pension transfers.
+These are first steps only—focused on stabilising the situation, getting clarity in writing, and avoiding irreversible moves. Later decisions may need specialist advice.
 
 ## Important note
-This information is for guidance only and does not constitute financial or legal advice. Pension regulations are subject to change. If you suspect your employer is insolvent or if you are being coerced into ignoring missing payments, contact MoneyHelper or a qualified employment specialist for individual assistance.
+This is general information, not legal advice. Employment rights and processes depend on your contract, workplace policies, length of service, and the reasons for the employer’s actions. If you believe discrimination or retaliation may be involved, consider getting confidential advice promptly.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/work/contracts-of-employment/
-- https://www.acas.org.uk/what-must-be-written-in-an-employment-contract/what-the-written-statement-must-include
-- https://www.acas.org.uk/changing-an-employment-contract/employer-responsibilities
-- https://www.acas.org.uk/performance-management/problems-with-an-employees-performance
-- https://www.acas.org.uk/grievance-procedure-step-by-step/step-2-raising-a-formal-grievance
+- https://www.acas.org.uk/sites/default/files/2022-06/Starting-staff-induction_0.docx
+- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees
+- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees/if-changes-to-your-employment-contract-are-agreed
+- https://www.gov.uk/your-employment-contract-how-it-can-be-changed
+- https://www.acas.org.uk/grievance-procedure-step-by-step
+- https://www.acas.org.uk/discrimination-and-the-law
+- https://www.gov.uk/guidance/equality-act-2010-guidance

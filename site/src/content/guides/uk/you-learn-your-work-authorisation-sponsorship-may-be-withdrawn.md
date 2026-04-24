@@ -1,107 +1,91 @@
----
+﻿---
 title: "What to do if… you learn your work authorisation sponsorship may be withdrawn"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "professional certification expiring soon"
-  - "professional registration expiring"
-  - "licence renewal deadline missed"
-  - "cannot renew in time"
-  - "renewal window closing"
-  - "late renewal application"
-  - "renewal not processed yet"
-  - "renewal pending approval"
-  - "expired licence at work"
-  - "lapsed professional registration"
-  - "regulated profession status"
-  - "protected title risk"
-  - "employer compliance problem"
-  - "what do i do if my registration expires"
-  - "what do i do if my certification is expiring"
-  - "what do i do if i cannot renew my licence"
-  - "what do i do if my nmc pin expires"
-  - "help i forgot to renew my registration"
-  - "help i missed my hcpc renewal"
-  - "help i cannot pay my renewal fee"
-  - "my professional certificate is out of date"
-  - "my licence is about to expire"
-  - "my registration renewal is blocked"
-  - "my cpd is not finished for renewal"
-  - "missing renewal deadline UK"
-  - "practising with expired registration"
-  - "nmc readmission process 2026"
-  - "hcpc restoration process 2026"
-  - "gmc registration renewal rules"
-  - "gdc annual retention fee missed"
-  - "protected title nurse legislation"
-  - "working without a valid licence"
-  - "certification expiry notice"
-  - "forgot to renew professional registration"
-  - "professional body portal not working"
-last_reviewed: "2026-03-17"
+  - work authorisation sponsorship withdrawn
+  - visa sponsor may withdraw
+  - employer stopping sponsorship
+  - skilled worker sponsorship risk
+  - certificate of sponsorship cancelled
+  - sponsorship being reported to home office
+  - losing sponsored job uk
+  - redundancy on skilled worker visa
+  - sponsor licence problem employee
+  - curtailment notice ukvi
+  - home office letter curtailment
+  - right to work sponsorship ended
+  - sponsored worker job ending
+  - visa tied to employer uk
+  - sponsorship withdrawal rumour
+  - sponsorship withdrawal email
+  - sponsor says ending employment
+  - immigration status after job loss
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you learn your work authorisation sponsorship may be withdrawn (UK)
 
 ## Short answer
-Notify your employer immediately and stop all activities that require the credential as soon as it expires. Do not attempt to work through a lapse based on a "pending" application unless you have explicit written confirmation from your regulator.
+Treat this as time-sensitive: get the facts in writing from your employer and get regulated immigration advice quickly. Make sure UKVI can reach you and avoid work or travel decisions until you know your exact immigration position.
 
 ## Do not do these things
-- Do not keep performing regulated tasks after the expiry date, even if the renewal application is submitted.
-- Do not assume there is an automatic grace period; most UK regulators (NMC, HCPC, GDC) remove registrants from the digital register at midnight on the expiry date.
-- Do not hide the situation from your manager or compliance officer, as this can turn a technical error into a gross misconduct issue.
-- Do not use a protected title (such as Nurse, Physiotherapist, or Dietitian) in any professional capacity or signature once your registration has lapsed.
-- Do not attempt to backdate CPD logs or declarations to meet a missed deadline.
+- Do not resign, sign a settlement agreement, or accept redundancy terms on the spot if sponsorship is part of the situation.
+- Do not assume you have “60 days” in every case or that the clock starts from when you first heard a rumour.
+- Do not work after your employment has ended (including “helping out” informally), or agree to duties/hours/location changes that drift away from what you are sponsored to do.
+- Do not rely on verbal assurances like “we won’t report it yet” — you need dates and confirmation.
+- Do not leave the UK until you understand how sponsorship withdrawal or any curtailment/cancellation notice could affect re-entry and your options.
+- Do not ignore post/email from the Home Office or UKVI, or miss a deadline because you felt too overwhelmed to open it.
 
 ## What to do now
-1. **Verify your exact expiry timestamp and status.**
-   - **Log into your regulator's online portal immediately to check the exact date and time of removal.**
-   - **Download a copy of your current entry and any receipts for partially completed renewal steps.**
-
-2. **Identify the specific blocker preventing renewal.**
-   - **Determine if the delay is caused by unpaid fees, missing CPD hours, a pending DBS check, or a lack of employer countersignature.**
-   - **Confirm if there is a "grace period" application for CPD specifically (for example, the GDC eight-week grace period request).**
-
-3. **Check the legal status of your role and title.**
-   - **Consult the 2026 list of UK regulated professions and protected titles to see if your specific job title is now legally restricted.**
-   - **Note that as of 2026, the title "Nurse" is fully protected in law, and using it without registration is a criminal offence.**
-
-4. **Contact your professional body or regulator today.**
-   - **Call the registration or renewals helpline to explain the bottleneck and ask for an "interim status" or "late submission" procedure.**
-   - **Ask specifically: "If I am removed from the register, what is the fastest route for readmission or restoration?"**
-
-5. **Inform your employer in writing before the deadline.**
-   - **Send a formal email to your line manager and the HR or compliance department detailing the expiry date and the steps you are taking.**
-   - **Request a temporary reassignment to a non-regulated role (for example, moving from a Nurse role to a Healthcare Support Worker role) to maintain your employment status legally.**
-
-6. **Cease all restricted activities at the moment of expiry.**
-   - **Stop signing off prescriptions, clinical notes, or legal documents that require your registration number.**
-   - **Update your email signature and ID badges if they display a protected title that you no longer hold.**
-
-7. **Begin the readmission or restoration process immediately.**
-   - **Follow the regulator's "readmission" path if you have already lapsed; note that this can take up to six weeks for bodies like the NMC.**
-   - **Gather required evidence, such as proof of professional indemnity insurance or updated character references, which are often mandatory for restoration.**
-
-8. **Secure professional and legal advice.**
-   - **Contact your union (such as RCN, UNISON, or BDA) for assistance in negotiating temporary role changes with your employer.**
-   - **Note that under the Employment Rights Act 2025, you have access to a 12-week ACAS Early Conciliation period if the lapse leads to a threat of dismissal.**
+1. **Get the key facts in writing today (email is fine).** Ask HR (and the employer’s immigration contact, if there is one):
+   - Are they actually **ending your employment** (or considering it)?
+   - Are they **withdrawing sponsorship / reporting changes** related to your sponsorship — and **when**?
+   - **What date** will your employment end (if it will), and what will your final working day be?
+   - If they mention performance/disciplinary issues, ask what process they’re following and what evidence they’re relying on (keep this factual).
+2. **Secure and copy your core documents now.** Create a folder (cloud + a backup) containing:
+   - Passport ID page, BRP (if you have one) and/or eVisa details, your visa decision letter/email
+   - Your Certificate of Sponsorship (CoS) reference number and any CoS emails
+   - Employment contract, job description, latest payslips, recent rota/timesheets, HR letters
+   - Any messages mentioning sponsorship changes, role changes, reduced hours, or termination.
+3. **Log in to your UKVI account and make sure you can prove your status.**
+   - Check your details match your passport/travel document.
+   - Generate a **right-to-work share code** (and save a screenshot/PDF of what you see).
+   - If you cannot access your account, start account recovery immediately.
+4. **Make sure UKVI/Home Office can contact you.** Use the official services to update your contact details (address, phone, email) so you don’t miss any notice:
+   - Update details in your **UKVI account (eVisa)** where applicable.
+   - Use the Home Office service to **update address or legal representative** details where applicable.
+5. **Ask for a “safe pause” at work.** If things are moving fast, ask HR for:
+   - **Paid leave / garden leave** (or written confirmation you remain employed while the situation is clarified), and
+   - A single point of contact for immigration-related communications.
+6. **Get regulated immigration help quickly.** Contact a UK immigration solicitor or regulated immigration adviser and tell them: route (for example Skilled Worker), visa expiry, CoS details, and what your employer has said in writing. If you have a union, contact them the same day (employment process + sponsorship can interact).
+7. **If you receive a Home Office/UKVI notice (including anything about curtailment/cancellation):**
+   - Photograph/scan it, note the date on the letter and the date you received it, and keep the envelope if posted.
+   - Get advice immediately — the safest next step often depends on exact wording and dates.
+8. **Keep your situation stable while you clarify.**
+   - Do not change jobs/roles/hours informally.
+   - Avoid travel.
+   - Keep a simple timeline of events and save every message.
 
 ## What can wait
-- You do not need to explain the "why" to your clients or patients immediately; your employer will manage the communication regarding your change in duties.
-- You do not need to decide on a long-term career change; most lapses are resolvable through the restoration process.
-- You do not need to respond to unofficial "reminder" services or third-party renewal agencies.
+- You do **not** need to decide today which future visa route you might apply under.
+- You do **not** need to explain your situation to colleagues, friends, or on social media right now.
+- You do **not** need to rush into a grievance or tribunal steps in the first hours (unless a hard deadline is clearly stated in writing).
+- You do **not** need to pack, move, or book flights until you have clear written information and advice.
 
 ## Important reassurance
-Lapsing from a professional register is a common administrative error and does not automatically imply a lack of fitness to practise. Regulators and employers generally respect professionals who self-disclose the error promptly and immediately stop restricted work to protect public safety.
+It’s normal to feel panicked or frozen when sponsorship feels uncertain. Getting the facts in writing, securing your documents, and speaking to a regulated adviser are the quickest steps that prevent avoidable harm.
 
 ## Scope note
-This guide covers the immediate steps for managing a looming or recent expiry of professional registration in the UK. It does not cover the specific clinical or technical requirements for every individual professional body.
+This guide covers first steps only. Later decisions (new applications, switching roles/sponsors, employment disputes) are case-specific and may need specialist help.
 
 ## Important note
-This information is for guidance only and does not constitute legal or professional advice. Professional regulations and protected title laws in the UK are subject to change; always verify your status directly with your regulator (e.g., GMC, NMC, HCPC, GDC, GPhC). Practising without required registration may invalidate your professional indemnity insurance and lead to criminal prosecution.
+This is general information, not legal advice. Immigration situations can change quickly and deadlines can be strict; if you are unsure about your right to work or stay, get regulated UK immigration advice promptly.
 
 ## Additional Resources
 - https://www.gov.uk/employee-lose-sponsor-licence
 - https://www.gov.uk/skilled-worker-visa/update-your-visa-if-you-change-job-or-employer
-- https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers
-- https://www.gov.uk/government/publications/considering-immigration-status-and-deciding-enforcement-action/cancellation-and-curtailment-of-permission-accessible
-- https://www.citizensadvice.org.uk/work/right-to-work-in-the-uk/check-how-to-prove-your-right-to-work-in-the-uk/
+- https://www.gov.uk/evisa/update-ukvi-account
+- https://www.update-my-details.homeoffice.gov.uk/
+- https://www.gov.uk/government/publications/workers-and-temporary-workers-guidance-for-sponsors-part-3-sponsor-duties-and-compliance/workers-and-temporary-workers-guidance-for-sponsors-part-3-sponsor-duties-and-compliance-accessible
+- https://assets.publishing.service.gov.uk/media/694573293022cdf03a0eb834/Cancellation_and_Curtailment_of_permission.pdf

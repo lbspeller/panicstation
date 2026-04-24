@@ -1,100 +1,83 @@
----
+﻿---
 title: "What to do if… you are asked to hand over a personal device for a workplace investigation"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "asked to share work login"
-  - "share work password request"
-  - "someone asked for my login"
-  - "approve mfa prompt not mine"
-  - "unexpected mfa push notification"
-  - "mfa prompt spam at work"
-  - "mfa fatigue push bombing"
-  - "2fa prompt i did not request"
-  - "work account social engineering"
-  - "phishing message from it"
-  - "boss asked for my password"
-  - "colleague asked for login details"
-  - "verification code request at work"
-  - "approve sign-in request"
-  - "work account hack help"
-  - "login details requested"
-  - "mfa prompt spam help"
-  - "approve sign in notification"
-  - "help i shared my password"
-  - "my work account is hacked"
-  - "my boss wants my password"
-  - "help someone is logging into my work email"
-  - "mfa push notification not me"
-  - "suspicious teams chat request"
-  - "fake helpdesk phone call"
-  - "mfa number matching prompt"
-  - "smell of phishing email"
-  - "burning account takeover"
-  - "unexpected text code"
-  - "security prompt from unknown location"
-last_reviewed: "2026-03-17"
+  - asked to hand over phone
+  - asked to hand over laptop
+  - personal device for investigation
+  - workplace investigation phone
+  - workplace investigation laptop
+  - employer wants my phone
+  - employer wants my laptop
+  - bring your own device work
+  - byod investigation request
+  - asked to unlock my phone
+  - asked to share device passcode
+  - asked to give device access
+  - work messages on personal phone
+  - private photos on work investigation
+  - work apps on personal device
+  - asked to install monitoring app
+  - workplace misconduct investigation device
+  - hr asked for my phone
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are asked to hand over a personal device for a workplace investigation (UK)
 
 ## Short answer
-Do not share your login details, passwords, or codes, and do not approve any multi-factor authentication (MFA) prompts you did not start. Report the incident immediately to your organisation's internal IT or security service desk using a known, trusted contact method.
+Pause and get the request in writing (scope, reason, deadline), then push for a narrow way to provide only the work-related material—without giving full access to your personal device.
 
 ## Do not do these things
-- Do not provide your password, "one-time passcode" (OTP), or recovery codes to anyone, even if they claim to be from IT, HR, or senior management.
-- Do not approve an MFA push notification or enter a "matching number" on your device unless you are currently attempting to sign in.
-- Do not click "Approve" or "Yes" just to make repeated notifications stop; this is a known "MFA fatigue" attack.
-- Do not use the contact details provided in a suspicious email, text, or chat to "verify" the request.
-- Do not try to investigate the source of the login attempt yourself.
-- Do not delete the suspicious message until you have followed your company’s evidence preservation policy.
+- Do not hand over your device unlocked “on the spot” without written scope (what will be accessed, how, and by whom) and a chance to read any consent form.
+- Do not delete, edit, “clean up”, factory-reset, or run tools meant to hide content — it can look like tampering even if your intent is just to protect privacy.
+- Do not sign anything that gives open-ended access to “anything/everything” on the device.
+- Do not argue your rights from memory in the moment; keep it calm and procedural and ask for specifics.
+- Do not use your personal device to debate the allegation over calls/texts if you think it may be requested again.
 
 ## What to do now
-1. **Deny the request immediately.**
-   - If an MFA prompt appears on your phone or computer, select **Deny**, **No**, or **Report Fraud** within the app.
-   - If a person is asking via phone or chat, end the interaction immediately without providing any data.
-
-2. **Report the incident to your internal IT or Security team.**
-   - **Find your organisation’s official IT helpdesk number or security email address** via the staff directory or intranet.
-   - **Inform them of the specific details:**
-     - The type of request (password ask, MFA prompt, or number match).
-     - The time and date the attempt occurred.
-     - The method used (email, SMS, Teams / Slack, or phone call).
-     - Whether you accidentally clicked a link or entered any data before stopping.
-
-3. **Secure your account if you have already shared details.**
-   - **Notify IT immediately** that the account is compromised so they can revoke active sessions and reset your credentials.
-   - **Change your work password** using your organisation’s official self-service portal, but only from a device you know is secure.
-
-4. **Preserve the evidence as instructed by IT.**
-   - **Take a screenshot** of the suspicious prompt, email sender address, or phone number.
-   - **Forward suspicious emails** to your company’s dedicated "report phishing" mailbox if one exists.
-
-5. **Report to national services if permitted by company policy.**
-   - **Forward suspicious emails** to the NCSC at **report@phishing.gov.uk**.
-   - **Forward suspicious text messages** to **7726** (free on all UK networks).
-   - **Report the incident** to the **Report Fraud** service (formerly Action Fraud) via **reportfraud.police.uk** or by calling **0300 123 2040** if your employer requires a crime reference number.
-
-6. **Monitor for wider impact.**
-   - **Check for unusual activity** in your sent items, new email forwarding rules, or changes to your payroll / banking details in HR systems.
+1. **Ask for the request in writing right away.** Ask them to confirm:
+   - exactly what they want (which apps/accounts, what date range, what files)
+   - why they need it (what issue it relates to)
+   - who will access it (HR, IT, external investigators)
+   - the method (view-only review, targeted export, search terms, full-device imaging)
+   - how long anything will be kept and when your device will be returned (if they want to retain it)
+2. **Offer narrower alternatives (you are cooperating, just limiting scope).** For example:
+   - export/screenshot only the relevant work chats/emails for specified dates
+   - ask them to pull records from employer systems (Teams/Slack/email) instead of your phone
+   - if you have a managed “work profile”/container, offer access to the work container/app only (not the whole device)
+3. **Ask for their data-handling plan before you consent.** Request (in writing) how they will minimise access to personal data, keep it secure, who will see it, and when it will be deleted. If there is highly sensitive personal content on the device, say so and ask for a method that avoids exposing it (work-app-only collection, search-term limits, or an independent reviewer/redaction process).
+4. **Check what you already agreed to.** Look up your contract, staff handbook, BYOD policy, acceptable use policy, and any mobile device management (MDM) terms you accepted. Note the exact clause(s) about investigations, access, monitoring, remote wipe, or work apps on personal devices.
+5. **Ask to have someone with you.**
+   - **Investigation meetings:** there is usually **no legal right** to be accompanied, but employers may allow it as good practice—ask for a companion (union rep or colleague) to be present for any device review or questioning.
+   - **Disciplinary hearing/meeting that could result in formal action:** ask to **exercise your legal right** to be accompanied by a colleague or trade union representative.
+6. **If they want to take the device away, reduce immediate harm.** Ask for:
+   - a written receipt (make/model/serial if possible), who holds it, and expected return time
+   - confirmation of whether they will copy (“image”) the device or only collect specific work data
+   - time to secure access to essentials (e.g., move 2-factor authentication to another device, note key contact numbers) without deleting or altering investigation-relevant material
+7. **Create a paper trail.** Write down (or email yourself) the date/time of the request, who asked, what was said, and any deadline. Keep copies of any forms/instructions.
+8. **If you’re told “hand it over now or you’re suspended,” slow it down safely.** Calmly state you are not refusing, but you need written scope and a privacy-protecting method. Re-offer a targeted export today and a scheduled, limited review with IT/external investigators.
 
 ## What can wait
-- You do not need to identify the specific geographical location of the attacker.
-- You do not need to warn your entire department or company yourself; IT and Security will manage coordinated communications.
-- You do not need to determine if this was a "test" or a real attack before reporting it.
-- You do not need to update your personal, non-work passwords immediately unless you reuse the same password for multiple accounts.
+- You do not need to decide today whether to raise a grievance, resign, or start legal action.
+- You do not need to write a detailed statement about the allegation right now; it’s reasonable to ask for the allegation and scope first.
+- You can consider later whether to make a subject access request for personal data your employer holds about you — that’s not an emergency step.
 
 ## Important reassurance
-Unexpected MFA prompts and "MFA bombing" are standard tactics used to exploit the high volume of notifications employees receive. Stopping the request and reporting it internally is the standard, expected professional response. IT departments prefer "false alarm" reports over late reports of a confirmed breach.
+It’s normal to feel invaded or panicked when someone asks for your personal phone or laptop. Asking for written scope and a narrower method is a steady way to protect your privacy while still cooperating.
 
 ## Scope note
-This guide provides first-step stabilisation for work-related credential security incidents in the UK. Subsequent steps involving data breach reporting (GDPR) or HR investigations are governed by your specific organisational policies.
+These are first steps to stabilise the moment and prevent irreversible mistakes. Later steps depend on your contract, your employer’s policies, and how your device is used for work.
 
 ## Important note
-This guide is for informational purposes and does not constitute legal or professional cybersecurity advice. Your employer’s internal security protocols and the instructions of your IT department take precedence over this guide. Failure to follow internal reporting policies may have employment implications.
+This is general information, not legal advice. If you’re under immediate pressure to surrender your device or sign broad consent, consider getting support from your union (if applicable) or independent employment/data protection advice before you agree.
 
 ## Additional Resources
-- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-2-preparing-for-an-investigation
-- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-3-carrying-out-an-investigation
 - https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
+- https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures
+- https://www.gov.uk/disciplinary-procedures-and-action-at-work/disciplinary-hearings
 - https://www.citizensadvice.org.uk/work/disciplinary-meetings/dealing-with-disciplinary-action-and-dismissal-at-work/
+- https://ico.org.uk/media2/migrated/1563/ico_bring_your_own_device_byod_guidance.pdf
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/subject-access-request-q-and-as-for-employers/
 - https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/

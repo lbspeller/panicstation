@@ -1,81 +1,86 @@
----
+﻿---
 title: "What to do if… you are asked to attend a confidential settlement discussion and you are unsure why"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "interview for my own job"
-  - "asked to reapply for role"
-  - "re-interviewing for current position"
-  - "job looks like my own"
-  - "redundancy selection interview"
-  - "internal recruitment for my role"
-  - "restructuring interview invitation"
-  - "suitable alternative employment interview"
-  - "at risk of redundancy process"
-  - "what do i do if i have to interview for my job"
-  - "what do i do if my job is reposted"
-  - "what do i do if i am at risk"
-  - "what do i do if invited to reselection interview"
-  - "help i have to interview for my own work"
-  - "help i am being replaced"
-  - "my job description is being used for a vacancy"
-  - "my role is in a selection pool"
-  - "smell of redundancy process"
-  - "notice of restructuring meeting"
-  - "visible changes to org chart"
-  - "hear rumors of layoffs"
-  - "interview for own post"
-  - "selection criteria for redundancy"
-  - "pool of one redundancy"
-  - "scoring for job retention"
-  - "internal vacancy overlap"
-  - "identical role advertisement"
-  - "same duties different title"
-  - "redundancy consultation rights"
-  - "statutory trial period"
-last_reviewed: "2026-03-17"
+  - confidential settlement discussion
+  - confidential meeting at work
+  - surprise hr meeting invite
+  - asked to attend settlement meeting
+  - protected conversation invite
+  - without prejudice meeting
+  - settlement agreement discussion
+  - exit package discussion
+  - severance style offer
+  - unsure why meeting is confidential
+  - hr says confidential discussion
+  - manager wants confidential chat
+  - unexpected private meeting with hr
+  - asked to sign something at work
+  - pressured to agree on the spot
+  - pre-termination negotiation
+  - settlement offer at work
+  - confidential exit meeting
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are asked to attend a confidential settlement discussion and you are unsure why (UK)
 
 ## Short answer
-Request written clarification on whether the interview is for a new vacancy or part of a formal redundancy re-selection process before attending.
+Treat it as potentially serious, and slow everything down: ask what the meeting is about (in writing), and do not agree to or sign anything in the meeting.
 
 ## Do not do these things
-- Do not resign immediately or send "bridge-burning" messages to management or HR.
-- Do not assume the process is a mistake or purely a formality without seeing the selection criteria.
-- Do not sign new contracts, settlement agreements, or "voluntary" exit papers during the initial meeting.
-- Do not ignore the invitation; failure to participate in a fair selection process can weaken a future unfair dismissal claim.
-- Do not export sensitive company data to personal devices, as this may breach your contract and provide grounds for dismissal.
+- Do not assume “confidential” means harmless or routine.
+- Do not resign, accept an outcome, or agree to “an exit” on the spot.
+- Do not sign anything (including a settlement agreement, confidentiality wording, or a “full and final” release) in the meeting.
+- Do not assume you have a legal right to bring someone to a settlement discussion — but do ask to bring a companion anyway.
+- Do not rely on verbal summaries like “this won’t affect your record” — ask for written wording.
+- Do not send emotional messages to colleagues or post about it while you’re still unclear what this is.
 
 ## What to do now
-1. **Send a formal written request for process clarification.** Reply to the invitation asking if this is a "competitive interview for a new vacancy" or "selection for a redundancy pool" and request the full job description (JD) and assessment criteria.
-2. **Determine if you are in a formal redundancy consultation period.** Ask HR directly if you have been placed "at risk" and request the "Selection Criteria and Scoring Matrix" used to compare candidates in your pool.
-3. **Confirm the number of people affected to identify your consultation rights.** If the employer proposes 20 or more redundancies at one establishment within 90 days, collective consultation rules apply.
-   - For dismissals on or after 6 April 2026, the maximum protective award for failure to consult collectively has increased to 180 days' pay.
-4. **Exercise your right to be accompanied if the meeting is a formal consultation.** You have a legal right to bring a trade union representative or a workplace colleague to formal meetings that could result in redundancy.
-5. **Request a side-by-side comparison of the "new" role and your current role.** If the duties are 80 percent or more the same, it may be "suitable alternative employment," which grants you a statutory 4-week trial period in the new role.
-6. **Start a private, contemporaneous evidence log.** Record dates, times, and summaries of all verbal conversations regarding the restructure, and save copies of your current JD and the proposed JD.
-7. **Prepare your interview answers using your current performance data.** If the role is nearly identical to yours, treat the interview as a formal audit of your current success; use specific figures, project outcomes, and feedback to anchor your "suitability."
-8. **Clarify the "trial period" terms in writing.** If you are offered the role as an alternative to redundancy, confirm the trial period start date and ensure it is documented that your right to statutory redundancy pay is preserved if the trial proves the role is unsuitable.
+1. **Reply and ask for the basics in writing (before you attend).** Ask:
+   - the purpose of the meeting (one sentence is enough)
+   - who will attend and their roles (HR, manager, legal)
+   - whether this is about a proposed **settlement agreement** / “protected conversation” / pre-termination negotiation
+   - whether any documents will be discussed, and to receive them in advance (or at least at the start)
+2. **Ask to bring a companion.** There’s **no legal right** to be accompanied to a settlement agreement meeting, but it’s widely treated as good practice to allow it. Ask to bring:
+   - a colleague, or
+   - a workplace trade union representative (if you have one)
+   If they say no, ask for a short reschedule so you can get advice and arrive prepared.
+3. **Check whether this is actually a formal process meeting.** Ask them to confirm whether the meeting is:
+   - a **settlement discussion**, or
+   - a **formal disciplinary hearing** or **formal grievance meeting** (where a statutory right to be accompanied can apply).
+4. **Set a boundary upfront: “I will listen, take notes, and respond later.”** Write this in your email and repeat it at the start of the meeting. Your goal is to prevent being rushed into an irreversible “yes”.
+5. **In the first minute, clarify what “confidential” means here.** Settlement talks are usually confidential, but there are situations where what’s said can later be relied on (for example, if there is improper behaviour or discrimination). Ask:
+   - “Is this intended to be a settlement discussion leading to a settlement agreement?”
+   - “Are you treating this as ‘without prejudice’ and/or under section 111A (pre-termination negotiations)?”
+6. **If they present terms, ask for the written offer and time to consider.** Practical wording:
+   - “Please send me the proposal in writing. I’m not making decisions today.”
+   - “What deadline are you proposing, and what happens if I need more time to take advice?”
+7. **If they imply you must sign to get anything, pause and end the meeting politely.** You can say:
+   - “I’m not in a position to respond without independent advice. I’ll come back to you after I’ve reviewed the written offer.”
+8. **Immediately after the meeting, create a record.**
+   - Write a dated note of what was said, who attended, and any deadlines or pressures.
+   - Email HR/your manager a brief factual summary: “To confirm my understanding…” (This reduces later disputes about what was promised.)
 
 ## What can wait
-- You do not need to decide whether to accept or reject a "new" role until you have the formal offer and contract in writing.
-- You do not need to file a formal grievance in the first 24 hours; seeking written clarity is the appropriate first step.
-- You do not need to update your external CV or start job-hunting in the next hour (this can be done once the "at risk" status is confirmed).
-- You do not need to disclose the situation to clients or external partners while the internal process is ongoing.
+- You do **not** need to decide today whether you’ll accept a settlement, leave, raise a grievance, or challenge anything.
+- You do **not** need to explain yourself to colleagues right now.
+- You do **not** need to “negotiate” in the meeting—your job is to get clarity and a written proposal.
 
 ## Important reassurance
-Being asked to "interview for your own job" is a standard part of UK restructuring law intended to ensure selection is fair rather than arbitrary. While it feels personal, the process is legally required to focus on the role and business needs, and following the steps above protects your future rights.
+It’s normal to feel blindsided by a “confidential settlement discussion” invite. Many people freeze or agree too quickly under pressure. Slowing the process down and insisting on written clarity is a reasonable, professional response.
 
 ## Scope note
-This guide covers first-step stabilization for UK employees facing internal re-selection or restructuring interviews. It does not cover specific legal strategies for Employment Tribunals or the calculation of statutory redundancy pay.
+These are first steps to prevent avoidable mistakes and buy time. The right next move depends on what the meeting is actually about (performance, redundancy, relationship breakdown, complaint, or an exit proposal).
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Employment rights depend on your specific contract, length of service, and the employer's specific redundancy rationale. For complex cases, consult ACAS or a qualified employment solicitor.
+This is general information, not legal advice. In the UK, a settlement agreement is normally only able to waive legal claims if it meets legal conditions (including being in writing and you getting advice from a relevant independent adviser). If you are offered one, avoid signing until you’ve had that independent advice.
 
 ## Additional Resources
 - https://www.acas.org.uk/settlement-agreements
 - https://www.acas.org.uk/settlement-agreements/discussing-and-negotiating-an-offer
 - https://www.acas.org.uk/settlement-agreements/confidentiality
-- https://www.citizensadvice.org.uk/work/negotiating-with-your-employer/making-a-settlement-agreement/
-- https://www.lawsociety.org.uk/public/for-public-visitors/common-legal-issues/workplace-problems
+- https://www.acas.org.uk/acas-code-of-practice-settlement-agreements
+- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
+- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting

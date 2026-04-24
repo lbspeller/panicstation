@@ -1,103 +1,80 @@
----
+﻿---
 title: "What to do if… your commission or bonus is withheld at the last minute"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "employer says repay overpayment"
-  - "repay overpaid wages immediately"
-  - "payroll overpayment pay back now"
-  - "urgent repayment request from work"
-  - "salary overpayment demand"
-  - "overpaid paycheck what to do"
-  - "employer wants money back now"
-  - "unexpected paycheck deduction"
-  - "threatened deduction for overpayment"
-  - "repay wage error quickly"
-  - "overpayment on pay stub"
-  - "pay back extra wages"
-  - "repay overpayment by payroll deduction"
-  - "repayment agreement pressure"
-  - "employer asks direct repayment"
-  - "payroll mistake overpayment"
-  - "lump sum repayment demand"
-  - "what do i do if my employer overpaid me"
-  - "what do i do if my boss wants money back"
-  - "what do i do if payroll made a mistake"
-  - "what do i do if i was overpaid"
-  - "help i was overpaid and they want it back"
-  - "help i got an overpayment notice"
-  - "my employer is deducting my pay"
-  - "my paycheck is lower than expected"
-  - "extra money in my bank account from work"
-  - "negative balance on pay stub"
-  - "clerical error in wages"
-  - "mathematical error in pay"
-  - "overpayment in different tax year"
-  - "wage deduction laws 2026"
-  - "fair labor standards act overpayment"
-  - "unauthorized wage deduction"
-  - "minimum wage after overpayment deduction"
-last_reviewed: "2026-03-17"
+  - commission withheld last minute
+  - bonus withheld last minute
+  - unpaid commission payday
+  - missing bonus on paycheck
+  - promised bonus not paid
+  - sales commission not paid
+  - performance bonus withheld
+  - variable pay not received
+  - commission plan dispute
+  - incentive pay withheld
+  - paycheck short commission
+  - bonus delayed payroll
+  - commission not paid on time
+  - end of quarter commission missing
+  - withheld compensation usa
+  - wage claim commission bonus
+  - unpaid earnings dispute
+  - commission agreement dispute
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… your commission or bonus is withheld at the last minute (USA)
 
 ## Short answer
-Do not provide immediate payment or sign any authorization until you have received a written, itemized breakdown of the alleged error and verified it against your own records.
+Pause before doing anything drastic. Get the employer’s reason in writing and pull your commission/bonus plan plus pay records so you can show what was promised and what was actually paid.
 
 ## Do not do these things
-- Do not pay via cash, gift cards, or personal payment apps (Venmo / Zelle) under any circumstances.
-- Do not sign a wage-deduction authorization during the initial conversation or while feeling pressured.
-- Do not agree to pay any interest, administrative fees, or "processing charges" on top of the principal amount.
-- Do not assume the employer has the automatic right to deduct the full amount from your next check; many states require written consent or specific notice periods.
-- Do not ignore the demand; failing to respond in writing can allow the employer to proceed with deductions based on their own calculations.
+- Do not quit on the spot before you’ve collected your plan documents and requested a written explanation.
+- Do not rely on a verbal “we’ll fix it next check” without an amount, date, and written confirmation.
+- Do not sign a new plan, acknowledgment, or release/waiver under pressure just to get paid.
+- Do not accept retroactive rule changes (“new rules apply to last quarter”) without a written copy and time to review.
+- Do not vent publicly or in broad workplace channels—keep communications factual and targeted.
+- Do not stop showing up for work as a tactic (it can shift the issue to attendance/discipline).
 
 ## What to do now
-1. **Step away from the immediate conversation to a "safe pause" before agreeing to any terms.**
-   - Tell the employer you need to review your personal financial records and pay stubs before confirming the error.
-   - Request that all further communication regarding this matter be conducted in writing via email or physical letter.
-
-2. **Request a written, itemized notice of the overpayment error today.**
-   - Request the specific pay periods affected and the cause of the error (e.g., incorrect hourly rate, mathematical error, or double-payment).
-   - Request the specific "gross" versus "net" amounts involved.
-   - Request a statement confirming the employer is seeking the principal amount only, with no additional fees or interest.
-
-3. **Gather and compare your own employment documentation immediately.**
-   - Locate pay stubs for the affected periods.
-   - Review your offer letter or recent pay change notices to confirm the correct rate of pay.
-   - Check timekeeping records or schedules if the overpayment involves hours worked.
-
-4. **Respond in writing to acknowledge the notice while reserving your rights.**
-   - State: "I have received the notice and am currently reviewing my records to verify the calculation."
-   - Request that any scheduled deductions be paused until the verification process is complete.
-   - Ask for the specific state labor law or company policy they are citing for the recovery process.
-
-5. **Verify the deduction limits for your specific state.**
-   - Check if your state (e.g., New York, California, Washington) requires a specific notice period (such as 3 weeks in NY) before deductions begin.
-   - Confirm that any proposed deduction will not bring your hourly rate below the state or federal minimum wage.
-   - Note that in certain states, unilateral deductions for overpayments are prohibited without a court judgment or voluntary employee agreement.
-
-6. **Handle tax implications for different tax years if the error occurred in a prior year.**
-   - Ask payroll for a written explanation of how they will handle tax adjustments (e.g., Form W-2c).
-   - If repaying wages from a previous year, ensure you are only repaying the "net" amount if the employer can still recover the taxes from the IRS, or the "gross" amount if they cannot.
+1. **Confirm what happened: delayed, reduced, or denied.**  
+   Ask payroll/HR (in writing) for: the amount withheld, what period it covers, and the exact plan/policy clause they’re relying on.
+2. **Download your “paper trail” immediately.**  
+   Save: offer letter, commission agreement/plan, bonus plan, any target/eligibility documents, emails/portal pages confirming rates and thresholds, sales/CRM reports, and your recent pay statements and direct deposit records.
+3. **Request the written pay calculation (not just “a fix”).**  
+   Federal law doesn’t require pay stubs everywhere, but employers covered by federal wage law must keep wage-and-hour records. Ask for the itemized calculation showing how they computed your commission/bonus for that pay period.
+4. **If you’re nonexempt (hourly/OT-eligible), flag the overtime angle.**  
+   Ask payroll to confirm whether the withheld commission/bonus changes your “regular rate” and whether any overtime recalculation or back pay is required if/when it’s paid.
+5. **Send one short written request to correct it.**  
+   Include: (a) what you expected and why (quote the plan clause / show your metrics), (b) what you received, (c) attachments, and (d) a specific request: off-cycle payment or next payroll date, and how it will appear.
+6. **If they say “discretionary bonus,” pin down the decision.**  
+   Ask them to confirm in writing whether they are saying: “no bonus is being awarded,” or “a bonus was awarded but is being withheld/reduced,” and the reason.
+7. **Escalate to the right enforcement channel if they won’t fix it.**  
+   - If the issue implicates minimum wage, overtime, or pay-record compliance, contact the U.S. Department of Labor’s Wage and Hour Division (WHD) to ask about filing a complaint.  
+   - If it’s mainly a commission/bonus contract dispute, state law often controls. State processes vary—ask your state labor department what types of wage claims they accept for commissions/bonuses.
+8. **If you’re separated from the job, protect your final pay.**  
+   Final paycheck timing is mostly state-based. If the regular payday has passed and you were not paid what you’re owed, contact WHD or your state labor department.
 
 ## What can wait
-- You do not need to decide on a full repayment plan in the first 24 hours.
-- You do not need to choose between a lump sum or installments until the total amount is verified.
-- You do not need to determine if you need a lawyer until after you have received the itemized notice.
-- You do not need to decide if you will quit or stay with the employer.
+- You do not need to decide today whether to sue, go public, or leave your job.
+- You do not need a perfect legal theory tonight—get the plan terms, the numbers, and the written reason first.
+- You can wait to involve an attorney until you know whether a state wage-claim route applies and you have the documents.
 
 ## Important reassurance
-It is normal to feel startled or defensive when an employer demands money back. Overpayments are common clerical errors, and taking time to verify the numbers is a standard professional step, not an act of hostility. You have the right to ensure your paycheck is protected from incorrect or illegal deductions.
+This kind of last-minute pay shock is common in commission/bonus roles—sometimes it’s a payroll mistake, sometimes it’s a sudden interpretation change. You’ll protect yourself best by slowing down, documenting everything, and forcing the dispute into writing so the story can’t keep shifting.
 
 ## Scope note
-This guide provides first-step stabilization for handling a sudden wage overpayment demand. It does not cover long-term legal strategies, collective bargaining agreement specifics, or recovery of overpaid benefits.
+These are first steps only: stabilise, document, and start the correct complaint path. Next steps depend heavily on your state, your written plan, and whether the issue involves wage-and-hour law versus contract terms.
 
 ## Important note
-This guide is for general information and does not constitute legal advice. Wage and hour laws vary significantly by state. If your employer initiates a deduction without your consent or threatens your job over a disputed amount, contact your state’s Department of Labor or a qualified employment attorney.
+This guide is general information, not legal advice. The FLSA does not require employers to offer commissions, and commission/bonus rights vary widely by state and by the wording of your plan/offer letter. If you’re being pressured to sign a waiver or retroactive change, consider getting independent advice before signing.
 
 ## Additional Resources
 - https://www.dol.gov/general/topic/wages/commissions
-- https://www.workplacefairness.org/employee-commissions/
-- https://www.workplacefairness.org/unpaid-wages/
-- https://www.dol.gov/agencies/whd/state/contacts
 - https://www.dol.gov/agencies/whd/contact/complaints
+- https://www.dol.gov/general/topic/wages/lastpaycheck
+- https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping
+- https://www.dol.gov/agencies/whd/fact-sheets/56c-bonuses
+- https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-B/part-778/subpart-B/subject-group-ECFR7be43dce58760d9/section-778.117
+- https://www.worker.gov/actions-whd-claim/

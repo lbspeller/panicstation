@@ -1,91 +1,77 @@
----
+﻿---
 title: "What to do if… you are suspended from work pending an investigation"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "told to accept pay cut"
-  - "asked to take pay cut"
-  - "forced pay cut at work"
-  - "pay cut ultimatum"
-  - "salary reduced suddenly"
-  - "hours reduced at short notice"
-  - "shifts cut by employer"
-  - "reduced hours and pay"
-  - "asked to sign contract change"
-  - "contract change pay and hours"
-  - "pay reduced without agreement"
-  - "short-time working concern"
-  - "layoff or short time pay"
-  - "worried about unlawful pay cut"
-  - "reduced hours to avoid redundancy"
-  - "employer says accept or leave"
-  - "income drop at work"
-  - "pay cut meeting tomorrow"
-  - "what do i do if my pay is cut"
-  - "what do i do if my hours are reduced"
-  - "what do i do if i am asked to take a pay cut"
-  - "what do i do if my boss reduces my salary"
-  - "help i am being forced to take a pay cut"
-  - "help i have been told to work fewer hours"
-  - "help my employer is cutting my pay"
-  - "help my contract is being changed"
-  - "smell of redundancy"
-  - "notice of pay variation"
-  - "salary reduction letter"
-  - "signed under protest"
-  - "unlawful deduction of wages"
-  - "statutory guarantee pay 2026"
-  - "fire and rehire rules 2026"
-  - "employment rights act 2025 changes"
-  - "fair work agency complaint"
-last_reviewed: "2026-03-17"
+  - suspended from work pending investigation
+  - suspension pending investigation
+  - put on suspension at work
+  - suspended from job investigation
+  - work investigation suspension
+  - suspended from work full pay
+  - suspended without pay uk
+  - investigation meeting at work
+  - disciplinary investigation suspended
+  - told not to contact colleagues
+  - employer investigation process
+  - suspension letter from employer
+  - suspension terms and conditions
+  - suspended from work what next
+  - workplace misconduct investigation
+  - sudden suspension from work
+  - suspention pending investigation
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are suspended from work pending an investigation (UK)
 
 ## Short answer
-Do not agree to any changes immediately. Ask for the full proposal in writing and state that you need time to review the details and seek advice before providing a formal response.
+Treat suspension as a holding step, not a verdict: ask for the suspension terms in writing (pay, rules, and who to contact), then pause and start a simple facts log so you don’t make things worse by accident.
 
 ## Do not do these things
-- Do not sign any "variation of contract" letters or new agreements during the initial meeting.
-- Do not assume that a verbal agreement to a "temporary" cut is safe; without written dates and terms, it may become permanent.
-- Do not stop attending work or "walk out" in protest, as this may be treated as a voluntary resignation or fundamental breach of contract.
-- Do not perform "top-up" work for free to show loyalty; this sets a precedent that the new hours are sufficient for the workload.
-- Do not rely on your employer's interpretation of the law regarding "fire and rehire," which is strictly limited under 2026 regulations.
+- Do not resign “to get it over with” or send an angry message you cannot take back.
+- Do not guess what the allegation is and start defending yourself to colleagues, clients, or group chats.
+- Do not access work systems, files, or premises unless you’re clearly told you can.
+- Do not contact witnesses or people involved if you’ve been told not to (if unclear, ask for clarity in writing).
+- Do not forward confidential work documents to your personal email or download company/client data “for safekeeping.”
+- Do not hand over your personal phone/laptop or personal accounts “for a quick look” without written scope and advice.
+- Do not post about it on social media, even indirectly.
 
 ## What to do now
-1. **Request the full proposal in writing immediately.** Ensure the document specifies the new hourly rate or salary, the specific reduction in hours, the proposed start date, and whether the change is temporary or permanent.
-   - Ask for a "review date" if the employer claims the cut is a temporary measure.
-   - Clarify in writing how this affects your pension contributions, holiday accrual, and any bonuses.
-2. **Review your existing contract for "variation" or "lay-off" clauses.** Look for specific wording that allows the employer to change terms without consent or to put you on "short-time working."
-   - Note that even if a clause exists, it must be exercised reasonably and usually requires a specific notice period.
-3. **Issue a formal "holding response" in writing.** State: "I am in receipt of your proposal dated [Date]. I am not agreeing to these changes at this time. I am currently reviewing the details and seeking advice, and will provide a formal response by [Date]."
-4. **Determine if the request is part of a redundancy avoidance scheme.** Ask the employer to confirm in writing if refusing the pay cut will trigger a formal redundancy consultation process.
-5. **Calculate if the new rate falls below the 2026 National Living Wage.** From April 2026, the rate for workers aged 21 and over is £12.71 per hour.
-   - If the pay cut puts you below this, the change is illegal regardless of whether you agree to it.
-   - Report minimum wage concerns to the Fair Work Agency (FWA).
-6. **Check your eligibility for Statutory Guarantee Pay.** If you are placed on "short-time working" or "lay-off," you may be entitled to £41 per day (for up to 5 days in a 3-month period) under 2026 statutory limits.
-7. **Document any "under protest" work.** If the employer imposes the change without your signature, continue working but immediately send a letter stating you are working "under protest" to avoid implying that you have accepted the new terms through conduct.
-8. **Contact Acas or your Trade Union representative.** Inform them if the employer mentions "dismissal and re-engagement" (fire and rehire).
-   - Under 2026 rules, dismissing an employee for refusing a contract change is often "automatically unfair" unless the employer can prove severe financial necessity and followed the statutory Code of Practice.
-   - Tribunals can now increase compensation by up to 25% if the employer fails to follow this Code.
+1. **Ask for written confirmation of your suspension terms (today).** Your employer may not be legally required to give a suspension letter, but written confirmation helps prevent misunderstandings. Ask HR/your manager to confirm:
+   - that this is **suspension pending investigation** (not a disciplinary sanction)
+   - whether it is **on full pay** (and what happens to benefits/commission)
+   - what you **must not** do (contacting colleagues/clients, attending the workplace, system access)
+   - who your **single point of contact** is
+2. **Ask how the suspension will be reviewed.** Request (in writing) how often it will be reviewed, how you’ll be updated, and who can change the restrictions (for example, if you’re later allowed limited contact for handover).
+3. **Confirm practical rules that people commonly trip over.** Ask:
+   - whether you must remain **available during working hours**
+   - how to **report sickness** while suspended
+   - whether you can take **annual leave** during suspension (and how it affects pay/benefits)
+4. **Check your contract and policies now (not your memory).** Look for clauses on suspension, pay during suspension, confidentiality, contacting colleagues/clients, and your disciplinary/investigation procedure. Save copies (PDF) to a personal folder.
+5. **Write a clean, factual timeline while it’s fresh.** Note dates/times, who said what, what you were told not to do, and where objective records might exist (work emails, rota, meeting invites, CCTV, system logs). Keep it factual—no speculation.
+6. **Preserve your own safe documents—without taking company data.** Keep copies of what you already have legitimately and personally (contract, handbook, HR emails/letters, meeting invites). If you think you need work-held documents, **request them through HR or your union rep** rather than copying confidential material yourself.
+7. **If you’re in a union, contact your rep now.** Tell them you’re suspended pending investigation and ask for help preparing communications and representation. You have a legal right to be accompanied at a **formal disciplinary hearing**; investigation meetings are not usually covered by that legal right, but employers may allow a companion—ask.
+8. **Keep communications brief and calm.** A safe default message is: “Please confirm the suspension terms, restrictions, and next steps in writing. I’m available and will cooperate with the process.”
 
 ## What can wait
-- You do not need to decide whether to resign or claim constructive dismissal today; these are complex legal routes that require specialist advice.
-- You do not need to negotiate a counter-offer in the first 24 hours; your priority is establishing that no agreement has been reached yet.
-- You do not need to apply for new benefits (like Universal Credit) until you have a confirmed start date for the reduced pay or hours.
+- You do not need to write a full “defence statement” immediately.
+- You do not need to decide today whether to raise a grievance or seek legal advice—first stabilise, get the rules in writing, and log facts.
+- You do not need to chase colleagues for support statements (and you may be told not to contact them).
+- You do not need to plan your next job today.
 
 ## Important reassurance
-It is standard practice to ask for time to consider changes to your livelihood. Taking 48 to 72 hours to review a contract change is a professional and legally protective step, not a sign of being "difficult" or "unproductive."
+Suspension pending an investigation is often used to protect the process (and everyone involved), not to declare guilt. Feeling shocked or panicky is common—your best move is to slow down, get clarity in writing, and avoid irreversible decisions.
 
 ## Scope note
-This guide provides first-step stabilization for employment contract disputes in the UK. It does not cover specific industry-wide collective bargaining agreements or specialized sectors like the Civil Service or Armed Forces.
+This is first-steps guidance for the initial hours/days after suspension. If the situation escalates toward a disciplinary hearing, dismissal, or police involvement, get tailored help from a union representative, ACAS, or an employment specialist.
 
 ## Important note
-This information is for guidance only and does not constitute legal advice. Employment law in the UK underwent significant changes with the Employment Rights Act 2025 and the 2026 rate updates; always verify your specific situation with Acas or a qualified solicitor as strict tribunal deadlines often apply.
+This is general information, not legal advice. Workplace processes vary by employer and contract. If you’re unsure about pay, restrictions, or what you’re allowed to do while suspended, get clarification in writing and consider independent advice.
 
 ## Additional Resources
+- https://www.acas.org.uk/suspension-during-an-investigation/the-process-for-suspending-someone
+- https://www.acas.org.uk/suspension-during-an-investigation/pay-and-holiday
 - https://www.acas.org.uk/suspension-during-an-investigation
 - https://www.gov.uk/disciplinary-procedures-and-action-at-work/suspension-from-work
-- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/dealing-with-disciplinary-action-and-dismissal-at-work/
-- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-2-following-a-fair-procedure
+- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing

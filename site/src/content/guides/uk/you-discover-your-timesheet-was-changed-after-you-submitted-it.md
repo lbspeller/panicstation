@@ -1,91 +1,93 @@
----
+﻿---
 title: "What to do if… you discover your timesheet was changed after you submitted it"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "it wants laptop back"
-  - "asked to return laptop"
-  - "company laptop collected"
-  - "laptop collected immediately"
-  - "not told why at work"
-  - "sudden access removal"
-  - "locked out of work systems"
-  - "laptop taken without explanation"
-  - "hr meeting suddenly scheduled"
-  - "possible suspension at work"
-  - "investigation starting at work"
-  - "disciplinary meeting likely"
-  - "handover equipment receipt"
-  - "document device condition"
-  - "personal accounts on work laptop"
-  - "told not to contact colleagues"
-  - "keep a timeline notes"
-  - "what to say to hr now"
-  - "uk employment rights suspension"
-  - "acas suspension guidance 2026"
-  - "right to be accompanied uk"
-  - "work laptop seized"
-  - "my laptop was taken away"
-  - "help i was asked for my laptop"
-  - "help i cannot log in to work"
-  - "what do i do if it took my computer"
-  - "work computer confiscated"
-  - "sudden hardware collection"
-  - "unexplained laptop retrieval"
-  - "professional conduct investigation"
-last_reviewed: "2026-03-17"
+  - timesheet changed after submission
+  - time sheet edited
+  - timecard altered
+  - hours changed by manager
+  - shift log changed
+  - overtime removed
+  - pay hours incorrect
+  - underpaid after timesheet
+  - payroll discrepancy hours
+  - timekeeping system edit
+  - clock in clock clock out changed
+  - rota does not match hours
+  - timesheet approval dispute
+  - wage deduction mistake
+  - work hours record dispute
+  - timesheet audit trail
+  - pay period hours missing
+  - submitted timesheet modified
+last_reviewed: "2026-01-08"
 ---
-# What to do if… you discover your timesheet was changed after you submitted it (UK)
 
+# What to do if… you discover your timesheet was changed after you submitted it (UK)
 ## Short answer
-Hand over the device without resistance, but request a written receipt and formal confirmation of your current work status from HR or your manager immediately.
+Freeze the evidence first: save a copy of what you submitted and what it was changed to, then raise it calmly in writing to payroll/your manager asking for the edit reason and an immediate correction.
 
 ## Do not do these things
-- Do not refuse to return the device; it is company property and refusal can be cited as gross misconduct or insubordination.
-- Do not delete browser history, "tidy" files, or wipe the device, as this may be interpreted as destroying evidence or tampering.
-- Do not transfer work files or screenshots to personal accounts; this often triggers automated data loss prevention (DLP) alerts and complicates your legal position.
-- Do not engage in an argument with IT staff; they are typically following a ticketed instruction and do not have the authority to explain the underlying reason.
-- Do not contact clients or colleagues to explain what is happening if you have been instructed to maintain confidentiality.
+- Do not accuse someone of fraud or theft in a meeting or group chat while you’re still gathering facts.
+- Do not “fix it back” inside the system if that could look like you changed records too.
+- Do not sign/approve an amended timesheet or “confirm hours” unless you’ve checked every day and break.
+- Do not wait until the next payday if you can already see it’s wrong (delays make it harder to untangle).
+- Do not quit in the heat of the moment if you rely on this income—pause and document first.
 
 ## What to do now
-1. **Request a formal handover receipt for all equipment.** **Note the date, time, and the full name of the individual collecting the device.**
-   - Include serial numbers or asset tag numbers for the laptop and any accessories (chargers, phones, security keys).
-   - Take a photograph of the device's physical condition before handing it over to prevent later disputes about damage.
-2. **Request a moment to log out of personal accounts.** **Inform the collector or HR in writing if you have personal data or accounts currently logged in on the device.**
-   - Under UK GDPR, you have a right to privacy, but you should not use this as an excuse to delete any work-related data.
-   - If IT refuses to let you log out, do not force the issue; instead, send an email to HR immediately stating that personal sessions remain active and must be secured.
-3. **Ask for written confirmation of your employment status.** **Send an email to your manager and HR asking if you are being formally suspended or placed on "garden leave."**
-   - In the UK, suspension is not a disciplinary sanction but a neutral act to allow an investigation.
-   - Ask for the specific reasons for the equipment collection and when you can expect a formal update.
-4. **Clarify your pay and benefits during this period.** **Confirm in writing that you will remain on full pay and retain all contractual benefits during any period of suspension.**
-   - Suspension without pay is generally a breach of contract in the UK unless explicitly permitted by your written terms of employment.
-5. **Establish a single point of contact (SPOC).** **Ask HR to designate one person for all communications to avoid conflicting instructions.**
-   - Ask how you should handle urgent work matters or pending deadlines while you are without equipment.
-6. **Request a copy of the company's disciplinary and investigation policies.** **Review these documents to understand the expected timelines and your rights during the process.**
-   - Check if the policy allows for a companion during "investigatory" meetings, even if not legally required.
-7. **Start a private log of events on a personal device.** **Record exactly what was said, who was present, and the sequence of events as they occurred.**
-   - Keep this log entirely separate from work systems.
-   - Include timestamps for any access changes, such as being locked out of email or Slack.
-8. **Contact your Trade Union representative if you are a member.** **Provide them with the details of the equipment collection and any communications you have received.**
-   - If you are not in a union, consider seeking initial advice from ACAS or a qualified employment solicitor.
+1. **Save what you can see right now (before it changes again).**  
+   - Download/export the timesheet if possible.  
+   - Take screenshots showing the hours, dates, and any “last edited by / edited at / history” area.  
+   - Save any submission/approval emails or notifications.
+
+2. **Write a quick “paper trail” message today (keep it factual).**  
+   Email (or HR system message) payroll and your manager:  
+   - that you noticed changes after submission  
+   - the pay period/date range affected  
+   - the specific entries that changed  
+   - a clear ask: **“Please confirm who changed it, why, and correct it (or tell me the formal correction process).”**
+
+3. **Ask specifically for the edit/audit trail and supporting logs.**  
+   Ask payroll/HR to provide (or let you view) any timesheet “history” and related records (for example, clock-in/clock-out logs or supervisor adjustments) for the affected dates.
+
+4. **Check whether pay is already affected (and capture that too).**  
+   - If you’ve already been paid, compare your **payslip** to your own record/rota and note the exact shortfall.  
+   - If you have not been paid yet, ask payroll to confirm what hours will be used for this payroll run and the cut-off to correct it.
+
+5. **Make your own clean timeline (for your own use).**  
+   Write down: when you submitted, when you noticed the change, what changed, who you contacted, and their responses. Keep it factual.
+
+6. **If you’re getting pushback, use the workplace process quickly.**  
+   - If you’re in a union, contact your rep and share your saved copies.  
+   - If informal messages don’t resolve it, raise it as a **formal grievance in writing** (your employer should have a written grievance procedure).
+
+7. **If they won’t share records you believe relate to you, consider a Subject Access Request.**  
+   If you need your timekeeping/payroll data and the employer won’t provide it informally, you can *generally* request your personal data (including relevant logs about you) under UK data protection rules. Keep it narrow: dates, systems, and exactly what you need.
+
+8. **If pay is being shorted and it’s not resolved, get outside help early (you’re not committing to a claim).**  
+   Contact **Acas** for confidential advice. If you might need a tribunal claim, be aware there are **strict time limits** and raising the issue internally does **not** usually extend them—so don’t let the calendar run while you wait for replies.
 
 ## What can wait
-- You do not need to provide a statement or "defend" yourself in the first few hours; wait until the allegations are presented in writing.
-- You do not need to decide whether to resign; impulsive resignations can affect your ability to claim unfair dismissal later.
-- You do not need to worry about personal files immediately; if the device is seized, you can later request access to personal data under a Data Subject Access Request (DSAR).
+- You do **not** need to decide today whether to take legal action, resign, or “go public”.
+- You do **not** need a perfect calculation of every minute right now—capture evidence, identify the specific changed entries, and get payroll to confirm what will be paid.
+- You can wait to write a longer statement until after you’ve received the first reply (unless payroll cut-offs are imminent).
 
 ## Important reassurance
-Equipment collection is a standard procedural step for many workplace processes, including security audits, role changes, and internal investigations. It does not automatically mean you will be dismissed. Following the process calmly and documenting every step protects your professional reputation and your legal rights.
+It’s common to feel shocked or angry when a record you rely on is altered. Taking 10–15 minutes to preserve what you saw and move the conversation into calm, written facts protects you and often gets a faster, cleaner fix.
 
 ## Scope note
-This guide covers the immediate stabilization of an employment crisis involving equipment seizure. It does not provide legal strategy for long-term disciplinary proceedings or tribunal claims.
+These are first steps to stabilise the situation, protect your pay record, and create a clear trail. Later steps (formal disputes or claims) depend on the details of your contract, pay arrangements, and what your employer says.
 
 ## Important note
-This information is based on UK employment law and ACAS guidance as of 2026. Individual employment contracts and specific company policies may vary and will take precedence in certain circumstances. This guide does not constitute legal advice; if you are facing formal disciplinary action, consult a solicitor or a trade union representative.
+This is general information, not legal advice. Employment rights and the best route depend on your role, contract, and the reason the timesheet was edited. If you feel pressured, confused by the process, or the issue repeats, consider getting tailored advice (for example from Acas or a union adviser).
 
 ## Additional Resources
+- https://www.acas.org.uk/deductions-from-pay-and-wages
 - https://www.acas.org.uk/if-your-wages-are-not-paid
-- https://www.acas.org.uk/if-your-wages-are-not-paid/raising-an-issue-with-your-employer
-- https://www.acas.org.uk/payslips
-- https://www.citizensadvice.org.uk/work/pay/problems-getting-paid/
-- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees/if-your-employer-introduces-a-contract-change-without-your-agreement
+- https://www.gov.uk/raise-grievance-at-work/grievance-procedure
+- https://www.acas.org.uk/grievance-procedure-step-by-step
+- https://www.acas.org.uk/early-conciliation/how-early-conciliation-works
+- https://www.acas.org.uk/early-conciliation
+- https://www.acas.org.uk/employment-tribunal-time-limits
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/subject-access-request-q-and-as-for-employers/

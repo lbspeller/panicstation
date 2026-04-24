@@ -1,86 +1,96 @@
----
+﻿---
 title: "What to do if… you are told to accept a demotion immediately"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "told to start on call now"
-  - "forced to be on call"
-  - "unexpected on call duty"
-  - "on call added without agreement"
-  - "standby duty sprung on me"
-  - "rota changed last minute"
-  - "sudden change to working hours"
-  - "contract change without consent"
-  - "asked to answer calls overnight"
-  - "required to respond immediately"
-  - "on call pay not explained"
-  - "standby allowance not confirmed"
-  - "pressured to agree on call"
-  - "worried on call breaks rest"
-  - "on call counts as working time"
-  - "threatened for refusing on call"
-  - "working under protest"
-  - "unilateral contract variation"
-  - "last minute rota change"
-  - "what do i do if forced on call"
-  - "what do i do if my hours change"
-  - "help i have to work tonight"
-  - "help i am being forced to be on call"
-  - "my boss says i am on call"
-  - "my rota has changed"
-  - "burning red eyes"
-  - "unusual fatigue"
-  - "racing heart from work stress"
-  - "blurred vision from lack of sleep"
-  - "wrong call allowance"
-  - "incorrect stand-by pay"
-last_reviewed: "2026-03-17"
+  - told to accept demotion now
+  - forced demotion at work
+  - pressured to sign demotion
+  - asked to accept role downgrade
+  - immediate job downgrade
+  - sudden demotion meeting
+  - demotion letter same day
+  - change to job title and duties
+  - change to pay and role
+  - pay cut with demotion
+  - employer changing my contract
+  - flexibility clause contract change
+  - work under protest demotion
+  - demotion as disciplinary outcome
+  - right to be accompanied hearing
+  - appeal demotion decision
+  - threatened with demotion if refuse
+  - demotion after raising concerns
+last_reviewed: "2026-01-08"
 ---
-# What to do if… you are told to accept a demotion immediately (UK)
 
+# What to do if… you are told to accept a demotion immediately (UK)
 ## Short answer
-Avoid giving immediate verbal agreement to the new requirement. Request the full instruction and compensation details in writing and state that you must review your existing contract terms before accepting a variation to your working hours.
+Do not agree or sign on the spot. Ask for the proposed demotion in writing and ask for time to consider it.
 
 ## Do not do these things
-- Do not say "yes" or "I agree" just to stop immediate pressure if you have not checked your rest entitlements and pay rates.
-- Do not resign or walk out during the conversation as this may affect your right to claim unfair dismissal later.
-- Do not ignore the instruction entirely without communicating your position, as this could be treated as a conduct issue.
-- Do not delete or lose evidence such as text messages, screenshots of the rota, or logs of phone calls from management.
-- Do not perform on-call duties in a way that compromises safety if you are already fatigued or have exceeded safe working limits.
+- Do not sign anything (including “acknowledgements”) if you are not sure what it changes.
+- Do not say “I accept” verbally just to end the meeting.
+- Do not resign on the spot.
+- Do not rely on “it’s temporary” promises unless they’re written into the terms.
+- Do not fire off angry messages or post about it publicly; keep communications factual.
+- Do not record meetings without checking workplace rules and getting permission where possible—recording (especially covertly) can breach policy and create new problems.
 
 ## What to do now
-1. **Request the specific details of the on-call instruction in writing immediately.**  
-   Ask for clarity on the start time, the required response time, the geographical restrictions (such as staying at home), and the specific duties you must perform if called.
-2. **Review your current written contract of employment and any relevant staff handbook.**  
-   Check for "flexibility clauses" that allow your employer to change hours, but note that these must be specific and exercised reasonably.
-3. **Notify your employer in writing if you are "working under protest" should you choose to comply for one night.**  
-   Send a message or email stating: "I will cover this shift to ensure service continuity but I am doing so 'under protest' while I seek advice on my contractual obligations and pay."
-4. **Conduct an immediate health and safety risk assessment regarding rest periods.**  
-   Calculate if the on-call duty will prevent you from receiving 11 hours of daily rest between shifts or if it will push you over the 48-hour weekly average limit without a valid opt-out.
-5. **Ask for confirmation of the "standby allowance" and "call-out" pay rates before the shift starts.**  
-   Ensure you know exactly how to log time spent on calls or logging into systems, and keep your own independent record of all work performed during the on-call period.
-6. **State clearly if you have an immediate "reasonable excuse" for not being able to comply.**  
-   Inform management in writing if you have pre-existing childcare commitments, medical needs, or have already consumed alcohol and are therefore unable to drive or work safely.
-7. **Contact your trade union representative or Acas if you are threatened with disciplinary action.**  
-   If you are called to a formal meeting about this, you have a statutory right to be accompanied by a colleague or a trade union representative if the meeting could result in a formal warning.
+1. **Ask for the full proposal in writing before you respond.** Request:
+   - new job title, reporting line, duties, location/working pattern
+   - new pay/benefits/bonus impact
+   - effective date (and whether it’s temporary or permanent)
+   - the reason for the change and whether it’s linked to performance/disciplinary action, grievance, or reorganisation
+   - what they say will happen if you do not accept
+2. **Say clearly you are not accepting “immediately”.** For example:
+   - “I’m not agreeing today. Please send the full terms in writing and I’ll respond in writing after I’ve reviewed them.”
+3. **Create a same-day paper trail.** Email a brief recap:
+   - confirm you were asked to accept a demotion immediately
+   - confirm you are requesting written terms and time to consider
+   - confirm you are not agreeing to any change yet
+4. **Pull your documents together (tonight).** Find:
+   - contract and any later variations
+   - your current job description/grade and any recent role changes
+   - handbook/policies referenced in your contract
+   - any collective agreement (if you’re covered by one)
+   - any flexibility/variation clause wording (sometimes used to justify changes)
+5. **Work out what process you’re in (and use the right rights).**
+   - If this is a **disciplinary hearing**, you have a legal right to be accompanied by a trade union rep or a work colleague (and there should usually be a right of appeal).
+   - If this is a **grievance meeting** (about your employer breaching a legal/contractual duty), you can also have a companion.
+   - If it’s an **appeal hearing**, you can also have a companion.
+   - If they call it an **investigatory meeting**, the legal right to be accompanied may not apply in the same way—ask for a pause to get advice, ask for notes/minutes, and ask if they will allow a companion as good practice.
+6. **If they frame the demotion as a disciplinary outcome, ask for the formal outcome and appeal route.**
+   - Ask for the decision in writing, the reason/evidence relied on, and how/when you can appeal.
+   - If you disagree, appeal in writing within the deadline they give (even if you’ll add detail later).
+7. **If they try to impose the change anyway, put “non-agreement” in writing.**
+   - Write that you **do not agree** to the change and you want it resolved.
+   - If you keep working while disputing it, you can state you are working **under protest** and repeat this regularly while it continues (for example, each pay day if pay is affected).
+8. **Check your next payslip urgently if pay changes.**
+   - If pay drops or deductions appear, raise it in writing to HR/payroll immediately and keep copies of payslips and any pay notices.
+9. **Use early support if you can.**
+   - Union member: contact your rep and ask them to attend future hearings/meetings.
+   - Not in a union: contact Acas for guidance on contract changes and next steps. If you’re in Northern Ireland, consider contacting the Labour Relations Agency (LRA).
 
 ## What can wait
-- You do not need to decide today whether the on-call requirement is a reason to leave the company permanently.
-- You do not need to file a formal grievance in the first few hours; secure the facts and the written instruction first.
-- You do not need to "prove" the law to your manager in the moment; focus on recording your disagreement and the lack of prior notice.
+- You do not need to decide today whether you accept the demotion long-term.
+- You do not need to resign, threaten legal action, or write a long rebuttal tonight.
+- You do not need to negotiate the “best deal” right now—first get the terms, dates, and process clear in writing.
 
 ## Important reassurance
-It is normal to feel pressured or anxious when a major change to your schedule is imposed without notice. Requesting time to check your contract is a standard professional procedure and does not mean you are being "difficult" or uncooperative. Taking a moment to clarify terms now prevents much larger disputes regarding pay and safety later.
+Pressure to decide instantly is a common tactic in workplace crises, and it can make anyone freeze. Buying time, keeping a calm written record, and getting the terms and process clarified is a protective first move.
 
 ## Scope note
-This guide provides first-step stabilization for the first 24 hours of an imposed schedule change. Ongoing disputes regarding contract variations, "fire and rehire" practices, or persistent Working Time Regulations breaches require specialized advice from a union, Acas, or an employment solicitor.
+This is first-steps-only guidance to slow things down and preserve options. Later steps depend on your contract wording, whether changes are being imposed, and whether a disciplinary/grievance process is involved.
 
 ## Important note
-This information is for guidance only and does not constitute legal advice. Employment rights regarding on-call time and contract variations depend on individual contract wording and specific circumstances. If your work involves safety-critical tasks, prioritize safety and fatigue management over compliance with a disputed instruction and document all safety concerns in writing.
+This is general information, not legal advice. Employment rights depend on your contract, workplace policies, union agreements, and the facts. If you feel pressured, threatened, or singled out, consider getting personalised advice from Acas (or the LRA in Northern Ireland) or a qualified employment adviser.
 
 ## Additional Resources
-- https://www.acas.org.uk/changes-to-employment-contracts
+- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees
 - https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees/if-your-employer-introduces-a-contract-change-without-your-agreement
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/disciplinary-meetings-where-to-start/
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/disciplinary-meetings-appealing-against-disciplinary-action/
+- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
+- https://www.acas.org.uk/appealing-a-disciplinary-or-grievance-outcome/getting-ready-for-an-appeal-hearing
+- https://www.gov.uk/disciplinary-procedures-and-action-at-work/disciplinary-hearings
+- https://www.gov.uk/your-employment-contract-how-it-can-be-changed/dealing-with-problems
+- https://www.citizensadvice.org.uk/work/changes-to-employment-contracts-overview/

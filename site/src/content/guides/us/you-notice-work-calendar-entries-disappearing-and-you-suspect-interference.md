@@ -1,95 +1,85 @@
----
+﻿---
 title: "What to do if… you notice work calendar entries disappearing and you suspect interference"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "disciplinary hearing notice"
-  - "disciplinary meeting notice"
-  - "written disciplinary notice"
-  - "hr disciplinary meeting"
-  - "called into hr meeting"
-  - "investigatory interview notice"
-  - "being disciplined at work"
-  - "misconduct allegation at work"
-  - "performance discipline meeting"
-  - "final warning meeting notice"
-  - "termination meeting notice"
-  - "union rep disciplinary meeting"
-  - "request representation meeting"
-  - "weingarten rights request"
-  - "employee handbook discipline"
-  - "asked to attend hearing"
-  - "notice of charges at work"
-  - "workplace discipline process"
-  - "afraid of getting fired"
-  - "what do i do if i get a disciplinary notice"
-  - "what do i do if hr calls a meeting"
-  - "what do i do if i am being investigated at work"
-  - "help i got a disciplinary letter"
-  - "help i am being fired"
-  - "my boss gave me a disciplinary notice"
-  - "my hr sent a hearing invite"
-  - "smell of trouble at work"
-  - "received notice of misconduct"
-  - "workplace investigation procedures"
-  - "employee rights in disciplinary meetings"
-  - "investigatory interview rights"
-  - "disciplinary hearing procedure"
-  - "workplace rights notice"
-  - "unfair disciplinary action"
-  - "disciplinary notice at will"
-last_reviewed: "2026-03-17"
+  - work calendar entries disappearing
+  - outlook calendar events missing
+  - work meetings vanished
+  - calendar appointments deleted
+  - shared calendar tampering
+  - calendar invites cancelled
+  - calendar entries removed
+  - suspect coworker interference
+  - possible it security incident
+  - microsoft 365 calendar missing
+  - exchange calendar changes
+  - delegate access calendar
+  - calendar permissions changed
+  - workplace digital sabotage
+  - meetings removed from calendar
+  - calendar audit log
+  - work schedule erased
+  - unsure who changed calendar
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you notice work calendar entries disappearing and you suspect interference (USA)
 
 ## Short answer
-Acknowledge receipt of the notice in writing without admitting fault, request the specific allegations and relevant policies, and determine if you are legally entitled to representation before the meeting begins.
+Treat this as an internal IT/security incident: document what changed, then report it through your company’s IT/security channel so audit logs and recoverable items can be preserved before you make more changes.
 
 ## Do not do these things
-- Do not resign immediately in a panic, as "quitting before being fired" may disqualify you from unemployment benefits or legal remedies.
-- Do not provide a detailed written defense, apology, or admission of facts until you have reviewed the specific evidence or policies the employer is citing.
-- Do not delete workplace communications, files, or calendar entries, even if they seem incriminating, as this can be used as separate grounds for termination.
-- Do not record the meeting secretly if you are in an "all-party consent" state (such as CA, FL, IL, MA, MI, PA, or WA), as this may be a criminal offense.
-- Do not assume that HR is a neutral party; their primary function is to protect the organization from liability and ensure policy compliance.
-- Do not post about the notice or the allegations on social media, Slack, or internal messaging platforms.
+- Do not confront or accuse a coworker (or send heated messages). It can escalate and complicate an investigation.
+- Do not delete more items, empty trash/deleted folders, or reinstall apps until IT has checked logs and recoverable items.
+- Do not change sharing/delegate permissions or access settings unless IT/security instructs you to (and capture evidence first if you safely can).
+- Do not move work calendar data to personal email, personal cloud storage, or a personal device.
+- Do not broadcast suspicions in team chat or on social media.
 
 ## What to do now
-1. **Secure a copy of the notice and all related attachments immediately.** **Save the original email or letter to a personal device or print it, ensuring you capture the sender's details and the exact timestamp.**
-2. **Respond to the notice with a brief, neutral request for information.** **Send a written reply stating that you have received the notice and require the specific allegations, the names of all attendees, and the sections of the employee handbook or policy being cited.**
-   - Request a copy of any documents or evidence that will be discussed during the hearing.
-   - If the meeting is scheduled within 24 hours, request a reasonable extension to review the materials.
-3. **Assert your Weingarten rights if you are a union member.** **If you belong to a union and the meeting is an "investigatory interview" that you reasonably believe could lead to discipline, you must explicitly state that you want your union representative present.**
-   - Use the phrase: "If this discussion could in any way lead to my being disciplined or terminated, I request that my union representative be present."
-   - Note that the employer is not required to inform you of this right; you must ask for it yourself.
-4. **Determine your status if you are not in a union.** **Review your employment contract or the employee handbook to see if the company has committed to a specific "progressive discipline" process or allows a support person for non-union employees.**
-   - Be aware that in most "at-will" private-sector roles, you do not have a federal right to a witness or coworker in the meeting unless your contract states otherwise.
-5. **Create a factual, private timeline of events leading to the notice.** **Write down dates, times, locations, and names of individuals involved in the alleged incident while the details are fresh in your memory.**
-   - Stick to observable facts rather than feelings or interpretations.
-   - Keep this document on a personal device, not a work computer.
-6. **Identify potential "protected activity" if you suspect retaliation.** **Note if you have recently filed a safety complaint, requested a disability accommodation, reported harassment, or discussed wages with coworkers.**
-   - Federal law prohibits disciplining an employee for engaging in these "protected activities" under EEOC and NLRB rules.
-7. **Prepare a list of "stalling phrases" to avoid being cornered during the meeting.** **Plan to use neutral statements if you are pressured for an immediate answer to a complex or unexpected question.**
-   - "I need a moment to process that information."
-   - "Can you provide that question in writing so I can ensure my answer is accurate?"
-   - "I would like to refer to my records before answering that specifically."
+1. **Write down what you noticed (2–5 minutes).** Which entries disappeared, when you noticed, which calendar(s) (your own vs shared), and which devices/apps (desktop/mobile/web).
+2. **Capture evidence without “fixing” anything yet.**
+   - Take screenshots showing missing entries/gaps, the calendar name/account, the date range you’re viewing, and any update notices on meeting invites.
+   - Note the date/time you observed the changes.
+3. **Do quick, low-risk checks for common causes.**
+   - Confirm you’re viewing the correct calendar and date range (and not a filtered view).
+   - Check Deleted Items/Trash for the missing entries.
+4. **If your setup offers “recover deleted” options, use them carefully.**
+   - If you use something like **Recover Deleted Items**, only do it after screenshots and only if you need urgent schedule continuity; write down exactly what you restored and when so IT can interpret logs correctly.
+   - If you’re unsure, leave recovery to IT/admins.
+5. **If you suspect account compromise, treat it as urgent.**
+   - If you’ve received unexpected MFA prompts, password reset emails you didn’t request, or “new sign-in/device” alerts, report that immediately through the security incident route and follow IT/security instructions.
+6. **For shared calendars, document access.**
+   - Note who has edit rights/delegate access.
+   - Screenshot the permissions list if you can view it.
+7. **Report it through your org’s IT/security incident route (open a ticket).**
+   - Ask them to review audit logs for calendar deletions/changes and to preserve relevant logs/recoverable items.
+   - If your org has a security team/SOC, request they treat it as potential unauthorized access until ruled out.
+8. **Notify your manager (brief, factual, written).**
+   - Include the ticket number and the operational impact (missed meetings, client risk, schedule integrity).
+   - Ask for a temporary workaround if needed (for example, having organizers re-send invitations) while IT investigates.
+9. **If you think it’s tied to discrimination/harassment or retaliation under EEO laws, route it the right way.**
+   - Make a separate, factual report to HR (or your ethics/compliance hotline) describing the pattern and impact.
+   - External options (like the EEOC or a state/local fair employment agency) are typically relevant only in that discrimination/harassment/retaliation context, and deadlines can be short and vary—so get advice promptly if you think that applies.
 
 ## What can wait
-- You do not need to decide whether to file a lawsuit or hire an attorney before the first meeting has occurred.
-- You do not need to prepare a "final" written statement until you have heard the employer's full case during the hearing.
-- You do not need to inform your coworkers about the situation or seek their testimony yet.
+- You do **not** need to identify the person responsible right now—focus on preserving evidence and getting IT to verify what happened.
+- You do **not** need to decide today whether to escalate outside the company; start with IT/security and HR channels.
+- You do **not** need to rebuild your calendar immediately; recovery and audit review should happen first.
 
 ## Important reassurance
-Receiving a formal disciplinary notice triggers an immediate "fight or flight" response, which can cloud your judgment. This reaction is a natural physiological response to a perceived threat to your livelihood. Taking a few hours to gather information and slow the process down is a standard and professional way to handle workplace conflict.
+Calendar issues are often caused by sync problems, accidental deletions, shared-calendar permissions, or automated policy changes. Taking calm, evidence-focused steps and involving IT/security early is the best way to protect yourself and get clarity.
 
 ## Scope note
-This guide provides first-step stabilization only for the immediate period following the receipt of a notice. It does not cover legal strategy, the specifics of a hearing defense, or post-termination procedures.
+These are first steps to stabilize, preserve records, and trigger the correct internal investigation path. Later steps (HR escalation, compliance reporting, or external complaints) depend on what the technical review shows.
 
 ## Important note
-This is general informational guidance and does not constitute legal advice. Employment laws in the United States vary significantly by state and are heavily influenced by whether your status is at-will, unionized, or public sector. If you believe your civil rights are being violated or you are facing unlawful retaliation, you should consult with a qualified employment attorney or your union representative.
+This is general information, not legal advice. Employer policies and state/federal protections vary; if you feel unsafe or believe you’re being targeted for a protected reason, consider getting independent advice from a qualified professional.
 
 ## Additional Resources
-- https://support.google.com/calendar/answer/37113
-- https://support.google.com/calendar/answer/6261951
-- https://support.google.com/accounts/answer/6294825
-- https://support.google.com/accounts/answer/3067630
-- https://support.microsoft.com/en-us/office/recover-and-restore-deleted-items-in-outlook-49e81f3c-c8f4-4426-a0b9-c0fd751d48ce
+- https://support.microsoft.com/en-gb/office/recover-and-restore-deleted-items-in-outlook-49e81f3c-c8f4-4426-a0b9-c0fd751d48ce
+- https://learn.microsoft.com/en-us/purview/audit-search
+- https://learn.microsoft.com/en-us/purview/audit-mailboxes
+- https://www.eeoc.gov/retaliation
+- https://www.eeoc.gov/how-file-charge-employment-discrimination
+- https://www.usa.gov/job-discrimination-harassment

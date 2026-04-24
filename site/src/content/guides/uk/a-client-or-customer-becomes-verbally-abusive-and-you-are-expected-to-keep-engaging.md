@@ -1,91 +1,92 @@
----
+﻿---
 title: "What to do if… a client or customer becomes verbally abusive and you are expected to keep engaging"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "manager asking medical details"
-  - "boss wants diagnosis"
-  - "line manager requests medical information"
-  - "employer asking for medical records"
-  - "work sickness information request"
-  - "sick note privacy at work"
-  - "fit note confidentiality"
-  - "pressured to disclose health condition"
-  - "medical details for sick leave"
-  - "medical info request at workplace"
-  - "asked to share test results at work"
-  - "sharing health details with manager"
-  - "occupational health request"
-  - "hr asks for medical information"
-  - "return to work medical questions"
-  - "disability information at work"
-  - "reasonable adjustments evidence request"
-  - "what do i do if my manager asks for medical info"
-  - "what do i do if my boss wants my medical records"
-  - "what do i do if hr asks for a diagnosis"
-  - "what do i do if i am asked for health details at work"
-  - "help i am being pressured to share medical info"
-  - "help i have to give my manager a doctor report"
-  - "help my boss wants to see my medication"
-  - "help i am being asked for medical proof"
-  - "smell of hospital"
-  - "visible medical records"
-  - "doctor letter request"
-  - "private health data"
-  - "access to medical reports act 1988"
-  - "special category data uk gdpr"
-  - "workplace privacy rights"
-  - "fit note requirements uk"
-  - "occupational health referral consent"
-  - "confidential health contact"
-last_reviewed: "2026-03-17"
+  - verbally abusive customer
+  - abusive client at work
+  - customer shouting at me
+  - hostile customer interaction
+  - rude customer confrontation
+  - customer swearing at staff
+  - customer intimidation at work
+  - threatening customer language
+  - abuse from the public
+  - third party harassment work
+  - frontline staff verbal abuse
+  - retail worker being abused
+  - call centre abuse by customer
+  - being yelled at work
+  - aggressive customer complaint
+  - client bullying during service
+  - customer escalation in store
+  - verbal aggression from customer
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… a client or customer becomes verbally abusive and you are expected to keep engaging (UK)
 
 ## Short answer
-Pause and do not provide a diagnosis, medication list, or full medical history directly to your line manager. Ask what specific work-related decision they need to make, and offer to provide a fit note or an Occupational Health report through the company’s confidential HR or health channel.
+Create a brief pause, set one clear boundary, and bring in backup (a manager/colleague/security). If it continues or you feel unsafe, hand over or disengage and get it logged.
 
 ## Do not do these things
-- Do not hand over your full GP records, hospital discharge summaries, or screenshots of your NHS app data to your manager.
-- Do not agree to a verbal request for your manager to call your doctor directly.
-- Do not feel forced to name your specific condition or diagnosis to justify a short-term absence.
-- Do not discuss sensitive health details in open-plan offices, group emails, or messaging apps like WhatsApp.
-- Do not ignore the request entirely, as this can be treated as a failure to follow absence procedures.
+- Do not argue, match their tone, or try to “win” — it usually escalates.
+- Do not stay alone with an abusive person if you can move to a staffed/visible area.
+- Do not share personal details (your full name, rota, where you live, personal socials).
+- Do not offer “just to end this” promises (refunds/exceptions) you cannot keep.
+- Do not keep absorbing abuse because you’re “supposed to” — escalate and ask for a handover.
+- Do not delete or “tidy up” tickets, chat logs, recordings, or notes that show what happened.
 
 ## What to do now
-1. **Request the specific reason for the information in writing.** **Ask your manager to clarify what decision they are trying to make, such as recording an absence, assessing fitness for duty, or considering reasonable adjustments.** 
-   - Ask: "Can you confirm what information you need and why it is necessary for my role?"
-2. **Offer functional information instead of a medical diagnosis.** **Explain how your health affects your ability to do your job today without naming the underlying condition.** 
-   - Focus on what you can do (e.g., "I can work from home but cannot commute") and what you cannot do (e.g., "I cannot lift heavy objects for two weeks").
-3. **Follow the statutory evidence rules for sickness.** **If you have been off for 7 calendar days or fewer, you only need to self-certify and do not legally require a doctor's note.** 
-   - If your employer insists on a private fit note for fewer than 7 days, they are usually expected to cover the private GP fee.
-4. **Redirect sensitive documents to a confidential channel.** **State that you are happy to provide medical evidence but will only share it with HR or an Occupational Health (OH) professional rather than your line manager.** 
-   - Use the phrase: "I want to ensure my sensitive health data is handled according to UK GDPR 'Special Category' protections; who is the designated confidential contact?"
-5. **Exercise your rights under the Access to Medical Reports Act 1988.** **If the employer requests a report from your GP, you have the legal right to see that report before it is sent to your employer.** 
-   - You have 21 days to arrange to see the report once your doctor has been notified.
-   - You can ask the doctor to amend factual errors or, in most cases, refuse to allow the report to be shared at all.
-6. **Verify the consent process for Occupational Health referrals.** **Check the referral form before it is submitted to ensure the questions being asked are limited to your fitness for work.** 
-   - You must provide informed consent for any OH assessment. 
-7. **Document the request and your response.** **Keep a private log of when the request was made, what was asked for, and your response.** 
-   - Save copies of emails or take notes of verbal conversations immediately after they happen.
+1. **Take a 10-second reset.** One breath. Slower voice. Shorter sentences. Your goal is control and safety, not persuasion.
+2. **Say one boundary line (once).** Pick one and stick to it:
+   - “I want to help, but I can’t continue while you speak to me like that.”
+   - “If the language continues, I’ll need to involve my manager.”
+3. **Offer one “safe” next step that keeps service moving without you taking the abuse.**
+   - “We can continue if we keep it respectful — or I’ll get my manager to join.”
+   - “I’m going to put you on a brief hold while I get someone to help.”
+4. **If you’re expected to keep engaging, switch to “supported” engagement.**
+   - Ask for a **two-person interaction**: “I can continue with a colleague/manager present.”
+   - Move to a **visible** position (front desk, open area) rather than staying isolated.
+   - If available, switch channels: “I’ll continue this in writing via our official system.”
+5. **Bring in support early (don’t wait).**
+   - In person: use your workplace signal (call button, radio, code word) or directly ask: “Can you join me, please.”
+   - Phone: transfer to a supervisor/second line, or place them on hold to get support.
+   - Online: escalate to a lead/admin; keep everything inside the official platform.
+6. **If abuse continues after the boundary, stop being the “target.”**
+   - If your policy allows: “I’m ending/pausing this conversation due to abusive language. A manager will take over.” Then hand over.
+   - If your policy does **not** allow ending: repeat once, “I’m getting my manager now,” then **pause** (hold / step back / stop replying) while support takes over.
+7. **Treat threats or escalation as a safety issue.**
+   - If you hear threats (“I’ll come back,” “I’ll hurt you”), see blocking/looming, or feel unsafe: create distance, get to staff-only/safer space, involve security if you have it, and call **999** if there is immediate danger.
+8. **Capture essentials while it’s fresh (2 minutes).**
+   - Date/time, where it happened, exact short phrases (especially threats/slurs), witnesses, what you did (boundary given, manager called, handover/pause).
+   - Save the ticket/chat transcript if available; don’t edit the original record.
+9. **Report it the same day and ask for it to be logged.**
+   - Tell your manager it was **work-related verbal abuse/threats** and you want it recorded (violence/aggression incident log if your workplace has one).
+   - If the abuse involved harassment (for example linked to sex/race/religion/disability), report it through your harassment route too. Even where an employer is not normally legally liable for third-party harassment under discrimination law, they still have a duty of care; and employers have a specific preventative duty around **sexual harassment**, including from third parties.
+10. **If you’re being pressured to keep engaging despite feeling unsafe, use safety wording.**
+   - “I’m not refusing service — I’m stepping back because I feel unsafe. I need a manager to take over.”
+   - If you reasonably believe there is **serious and imminent danger**, prioritise stepping away and reporting it immediately.
 
 ## What can wait
-- You do not need to decide right now whether to disclose a long-term disability.
-- You do not need to sign a blanket consent form for "all medical records" immediately.
-- You do not need to start a formal grievance process unless the manager ignores your redirection to HR or continues to pressure you for a diagnosis.
+- Deciding whether to raise a formal grievance/complaint — first get safe, then write your notes.
+- Analysing what you “should have said” — you can refine scripts later.
+- Longer follow-up (HR meetings, union involvement, external advice) — that comes after the incident is recorded.
 
 ## Important reassurance
-It is normal to feel protective of your medical privacy. UK law recognizes that health information is highly sensitive "Special Category" data, and most managers do not actually need to know your diagnosis to manage your workload or pay. Setting a boundary is a standard professional action, not an admission of guilt or a sign of being difficult.
+Feeling shaky, angry, or tearful after being shouted at is a normal stress response. Wanting abuse to stop is reasonable — many organisations treat verbal abuse and threats as a safety issue, not a customer-service issue.
 
 ## Scope note
-This guide covers the immediate steps to take when a manager requests health data. It does not cover long-term "capability" procedures, complex disability discrimination claims, or the specific rules for safety-critical roles (like pilots or HGV drivers), which may have stricter disclosure requirements.
+These are first steps for the next minutes/hours. Later decisions (formal processes, ongoing safety adjustments) depend on your role and workplace policies.
 
 ## Important note
-This information is provided for general guidance and does not constitute legal advice. While you have a right to medical privacy, refusing to provide any evidence of fitness for work can sometimes allow an employer to make decisions without medical input, which could affect your pay or job security. If you are a member of a trade union, contact your representative for specific support.
+This is general information, not legal advice. If you are in immediate danger, prioritise getting to safety and contacting emergency services.
 
 ## Additional Resources
 - https://www.hse.gov.uk/violence/worker/index.htm
 - https://www.hse.gov.uk/violence/employer/index.htm
-- https://www.acas.org.uk/discrimination-and-bullying
-- https://www.citizensadvice.org.uk/work/discrimination-at-work/dealing-with-discrimination-at-work/checking-if-its-discrimination/if-youre-being-harassed-or-bullied-at-work/
+- https://www.hse.gov.uk/violence/employer/the-law.htm
 - https://www.acas.org.uk/discrimination-and-the-law/harassment
+- https://www.acas.org.uk/discrimination-and-the-law/how-and-when-discrimination-can-happen
+- https://www.equalityhumanrights.com/employer-8-step-guide-preventing-sexual-harassment-work
+- https://www.legislation.gov.uk/ukpga/1996/18/section/44

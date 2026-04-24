@@ -1,92 +1,78 @@
----
+﻿---
 title: "What to do if… you are asked to hand over detailed process notes and you suspect outsourcing is coming"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "asked to sign a statement"
-  - "sign written statement at work"
-  - "statement i did not write"
-  - "pressured to sign at work"
-  - "hr wants me to sign"
-  - "disciplinary statement to sign"
-  - "investigation meeting statement"
-  - "witness statement workplace"
-  - "refusing to sign statement"
-  - "signature means agreement"
-  - "acknowledge receipt only"
-  - "document not in my words"
-  - "workplace allegations statement"
-  - "forced to sign letter"
-  - "written account workplace"
-  - "employment meeting paper to sign"
-  - "sign now or else pressure"
-  - "what do i do if asked to sign a statement"
-  - "help i have to sign a statement"
-  - "my boss wants me to sign notes"
-  - "hr pressure to sign document"
-  - "witness statement accuracy"
-  - "confirming notes of a meeting"
-  - "employment relations act companion"
-  - "acas witness statement guidance"
-  - "signing meeting minutes"
-  - "not my words at work"
-  - "correction of witness statement"
-  - "workplace investigation record"
-last_reviewed: "2026-03-17"
+  - asked to write process notes
+  - knowledge transfer handover
+  - handover documentation request
+  - documenting my role
+  - suspect outsourcing
+  - role being outsourced
+  - offshoring concerns
+  - redundancy warning signs
+  - training replacement fear
+  - asked to train others
+  - create sop quickly
+  - management wants workflows
+  - job at risk
+  - sudden restructure rumours
+  - workload handover pressure
+  - worried about being replaced
+  - process documentation anxiety
+  - business continuity documentation
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are asked to hand over detailed process notes and you suspect outsourcing is coming (UK)
 
 ## Short answer
-Do not sign the document immediately; request a copy and a reasonable amount of time to review it for accuracy. State that you will provide corrections or your own written account in your own words rather than signing a document you did not author.
+Pause, get the request clearly defined in writing, and respond professionally while quietly creating a dated record of what’s being asked and what you provide.
 
 ## Do not do these things
-- Do not sign any document that you have not read in its entirety, including all appendices or referenced attachments.
-- Do not sign a blank or incomplete template with the promise that it will be finished later.
-- Do not engage in an argument regarding the facts of the case while in the meeting room.
-- Do not delete any digital correspondence (emails, Teams, or Slack messages) that mentions the request to sign.
-- Do not resign under immediate pressure to "end the process" without first seeking advice.
-- Do not feel compelled to "confirm" information that you did not personally see or hear.
+- Do not refuse, threaten, or accuse anyone of outsourcing in writing based on suspicion.
+- Do not delete, alter, or “clean up” work systems, logs, tickets, emails, or files to protect yourself.
+- Do not take confidential documents or customer data home / to personal accounts “just in case”.
+- Do not add speculation (“this is to replace me”) into the notes or into chats/emails.
+- Do not agree to unrealistic deadlines or scope in the moment if you’re panicking—slow it down and clarify.
+- Do not sign new confidentiality/settlement/exit paperwork on the spot if it appears—ask for time to read it and get advice.
 
 ## What to do now
-1. **State clearly that you require a copy of the document and time to review it for accuracy before signing.** 
-   - Inform the employer that because you did not write the text, you cannot verify its contents without a line-by-line comparison against your own recollection.
-2. **Ask the employer to define exactly what your signature signifies on this specific document.** 
-   - Ask: "Does this signature confirm I agree with every word as an accurate record, or does it only acknowledge that I have received a copy?" 
-   - If they claim it is for "receipt only," ask them to write "Acknowledged for receipt only" above the signature line.
-3. **Request the full evidence pack including any attachments, exhibits, and the relevant workplace policy.** 
-   - Ensure you have the deadline for returning the signed or corrected version.
-   - If the employer refuses to provide a copy for you to keep, state that you cannot responsibly sign a document you are not permitted to retain.
-4. **Identify errors or omissions and submit a corrected version or a separate addendum.** 
-   - In UK workplace investigations, "witness statements" are often just the investigator's notes; you have the right to amend these until they accurately reflect your account.
-   - If the investigator refuses to change the notes, do not sign them; instead, write your own statement, sign and date it, and ask for it to be attached to the official record.
-5. **Determine the formal nature of the meeting to exercise your right to be accompanied.** 
-   - Under Section 10 of the Employment Relations Act 1999, you have a statutory right to be accompanied by a trade union representative or a colleague at disciplinary, grievance, or appeal hearings.
-   - For investigation meetings, check your specific company policy; many employers allow a companion even if not legally required.
-   - If you have a disability, you may request a support worker or a person with knowledge of your condition as a "reasonable adjustment" under the Equality Act 2010.
-6. **Create an immediate personal record of the encounter.** 
-   - Write down the date, time, who was present, exactly what you were asked to sign, and the employer's response to your request for more time.
-   - Email this note to a personal account to create a third-party timestamp of your version of events.
-7. **Understand that a refusal to sign will be recorded but does not "delete" the evidence.** 
-   - If you refuse to sign because the statement is inaccurate and the employer won't change it, they will likely note "witness refused to sign" in their report. 
-   - This is safer than signing a false or misleading statement that could be used against you or others later.
+1. **Ask for the request in writing (or summarise it back in writing).**  
+   Ask: what exactly they want (SOPs, runbooks, screenshots), how detailed, which processes, who the audience is, and when it’s needed. If it was verbal, send a short recap message: “To confirm, you’re asking for X, covering Y, by Z date.”
+2. **Clarify boundaries before you start writing.**  
+   Ask whether there’s a preferred template, where it should live (company wiki / shared drive), and what must be excluded (credentials, security details, client personal data, confidential vendor terms). If they want “everything”, ask them to prioritise the top 3–5 processes first.
+3. **Create a private, factual timeline for yourself (keep it non-confidential).**  
+   On your own device/paper, keep dated notes of: who asked, what was asked, deadlines, meetings scheduled, and what you delivered (file names/locations, not contents). Do **not** copy company documents, screenshots, customer data, or internal files into your personal notes, and do not forward work emails/files to personal accounts.
+4. **Deliver “transferable” documentation, not personal extras.**  
+   Write clear steps and checks, but avoid adding personal commentary, blame, or anything that reads like an argument. Use neutral language like “If X happens, escalate to [team/role]” rather than naming individuals unless required.
+5. **Ask a direct process question that forces clarity without confrontation.**  
+   Examples: “Is this part of business continuity planning or a wider restructure?” / “Will there be any consultation or changes to the team structure connected to this work?” Keep it calm and let them answer.
+6. **If you believe your role may be affected, start using the right channels early.**  
+   - **If you have a union:** contact your rep and share the *facts* (what was requested, any meetings).  
+   - **If redundancy is mentioned or you’re told you’re “at risk”:** ask what consultation process will be followed and when.  
+   - **If outsourcing/contract change is openly discussed:** ask whether a TUPE transfer/service-provider change is being considered and how staff will be informed/consulted.
+7. **If pressure escalates or you’re singled out, get support before it becomes disciplinary.**  
+   If you’re being threatened for asking for clarity, consider getting early advice from Acas and (if relevant) raising concerns through your workplace grievance process.
 
 ## What can wait
-- You do not need to decide today whether you will take the matter to an Employment Tribunal or start ACAS Early Conciliation.
-- You do not need to respond to every allegation or point in the statement while you are still in the meeting.
-- You do not need to accept any "deal" or settlement offer made during the pressure of the signature request.
+- You do **not** need to decide today whether to resign, “fight it”, or confront leadership.
+- You do **not** need to update your CV/LinkedIn or start job-searching right this minute to be safe—stabilise the situation first.
+- You do **not** need to negotiate redundancy/severance terms unless and until something concrete is put to you.
 
 ## Important reassurance
-It is a standard procedural right in the UK to review and correct any record of your own evidence. Feeling pressured or startled by a sudden request to sign is a common experience, but taking a pause to ensure accuracy is a professional and protective step that does not imply guilt or lack of cooperation.
+It’s common for employers to ask for better documentation for many reasons (audit, business continuity, quality control, scaling), and it’s also common to feel alarmed because the request resembles “knowledge transfer.” You can protect yourself by slowing the process down, keeping everything factual, and making sure expectations and processes are clear—without doing anything dramatic or risky.
 
 ## Scope note
-This guide provides first-step stabilization for handling a signature request. It does not cover the long-term strategy of a disciplinary case or the specific legal merits of an employment claim.
+This is first-steps-only guidance to help you avoid panic mistakes, create time, and protect your position. If the situation becomes a formal restructure, redundancy process, or TUPE situation, you may need specialist advice based on your contract and facts.
 
 ## Important note
-This information is for general guidance regarding UK workplace procedures and does not constitute legal advice. Employment rights can vary based on your specific contract and the nature of the allegations. If you are facing serious misconduct charges or feel coerced, consult a trade union representative or an employment solicitor before signing.
+This is general information, not legal advice. Employment situations turn on specific facts (your contract, status, sector, and what your employer actually communicates). If you feel under immediate pressure, get personalised advice from a qualified employment adviser/union.
 
 ## Additional Resources
-- https://www.acas.org.uk/tupe-transfers
+- https://www.acas.org.uk/your-rights-during-redundancy/how-your-employer-must-consult-you
+- https://www.gov.uk/redundancy-your-rights/consultation
 - https://www.acas.org.uk/tupe/advice-for-employers-and-employees
-- https://www.acas.org.uk/inform-and-consult-staff-in-a-tupe-transfer/when-you-should-inform-and-consult
-- https://www.acas.org.uk/your-rights-during-redundancy
-- https://assets.publishing.service.gov.uk/media/5a7ca7e8ed915d7c983bc171/bis-14-502-employment-rights-on-the-transfer-of-an-undertaking.pdf
+- https://www.acas.org.uk/inform-and-consult-staff-in-a-tupe-transfer
+- https://www.acas.org.uk/grievance-procedure-step-by-step
+- https://www.acas.org.uk/non-disclosure-agreements

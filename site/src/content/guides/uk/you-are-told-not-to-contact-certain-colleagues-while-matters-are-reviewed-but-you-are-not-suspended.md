@@ -1,84 +1,71 @@
----
+﻿---
 title: "What to do if… you are told not to contact certain colleagues while matters are reviewed but you are not suspended"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "pre-approved time off cancelled"
-  - "approved holiday cancelled"
-  - "annual leave cancelled last minute"
-  - "manager revoked holiday"
-  - "leave booking refused after approval"
-  - "rota changed and leave removed"
-  - "short staffed holiday cancelled"
-  - "business needs cancelled leave"
-  - "holiday approval reversed"
-  - "time off rescinded"
-  - "pto cancelled uk"
-  - "employer says no to booked leave"
-  - "told to work during booked holiday"
-  - "can employer cancel annual leave"
-  - "holiday cancellation notice period"
-  - "approved leave withdrawn"
-  - "what do i do if my holiday is cancelled"
-  - "what do i do if my boss cancels my leave"
-  - "what do i do if my annual leave is revoked"
-  - "what do i do if my time off is refused"
-  - "help i have a holiday dispute"
-  - "help i have a leave problem"
-  - "help i have a work holiday crisis"
-  - "help i have a vacation cancellation"
-  - "cancelled leave for business needs"
-  - "refused leave for staffing issues"
-  - "holiday cancelled by manager"
-  - "working time regulations holiday notice"
-  - "notice to cancel annual leave uk"
-  - "employment rights act 2025 holiday"
-  - "fair work agency holiday dispute"
-last_reviewed: "2026-03-17"
+  - told not to contact colleagues
+  - told not to contact coworkers
+  - asked not to speak to colleagues
+  - no contact instruction at work
+  - contact restriction at work
+  - workplace investigation under review
+  - matter being reviewed at work
+  - not suspended but restricted
+  - hr review not suspended
+  - workplace confidentiality instruction
+  - told to keep it confidential
+  - told not to discuss at work
+  - disciplinary investigation starting
+  - grievance investigation ongoing
+  - management told me avoid someone
+  - told not to message coworkers
+  - told not to email colleagues
+  - told not to call colleagues
+last_reviewed: "2026-01-07"
 ---
-# What to do if… you are told not to contact certain colleagues while matters are reviewed but you are not suspended (UK)
 
+# What to do if… you are told not to contact certain colleagues while matters are reviewed but you are not suspended (UK)
 ## Short answer
-Request the cancellation in writing and check if the employer has provided the statutory notice period, which must be at least the same length as the leave being cancelled. Respond formally to confirm the notice rule being applied and propose one alternative staffing solution or reimbursement for non-refundable costs.
+Pause and comply with the “no contact” instruction for now, then get it clarified in writing (exactly who, what channels, and what you *can* still do for work) so you don’t accidentally make things worse.
 
 ## Do not do these things
-- Do not fail to attend work on the cancelled dates without a written resolution — this is typically treated as unauthorised absence or gross misconduct.
-- Do not delete any prior approval emails, calendar invites, or confirmation messages.
-- Do not resign or threaten to quit during the initial conversation.
-- Do not provide exhaustive personal details about your travel plans or family commitments.
-- Do not book further travel or pay non-refundable deposits until the cancellation is resolved.
+- Do not “explain yourself” to the colleagues you’ve been told not to contact, even if it feels unfair or urgent.
+- Do not use indirect contact (asking someone else at work to pass messages) unless HR/your manager explicitly says that’s allowed.
+- Do not post about the situation on social media or in group chats, including vague statements.
+- Do not delete messages, emails, calendar items, or files related to the matter.
+- Do not assume “not suspended” means “business as usual” — treat this as a formal instruction until clarified.
 
 ## What to do now
-1. **Secure copies of the original approval and the new cancellation notice immediately.** **Collect screenshots, emails, or system logs that show the date the leave was first approved, who approved it, and the exact timestamp of the message withdrawing that approval.** 
-2. **Calculate the notice period provided by the employer against the length of the leave.** **Under the Working Time Regulations 1998, an employer must give notice that is at least the same length as the period of leave they are cancelling.** 
-   - If you booked 5 days of leave, they must tell you at least 5 days before the leave starts.
-   - Check your employment contract, as it may require the employer to give more notice than this statutory minimum.
-3. **Verify the type of leave being cancelled to determine which rules apply.** **Distinguish between standard annual leave, statutory paternity/parental leave (which became day-one rights on 6 April 2026), and sick leave.** 
-   - If you are unwell, follow your company's sickness reporting procedure instead of treating it as a holiday dispute.
-4. **Send a formal written response requesting the specific basis for the cancellation.** **Ask the manager to confirm the "business need" in writing and state whether they are following the statutory notice rule or a specific contractual clause.** 
-5. **Propose one specific alternative that addresses the business need without cancelling the entire block of leave.** **Offer a compromise such as attending one critical meeting remotely or shifting the leave by 48 hours, rather than arguing about general fairness.**
-6. **Request a written decision on reimbursement for non-refundable costs if the notice given was insufficient.** **State clearly that the leave was approved in writing and financial commitments were made based on that approval.**
-   - Include a summary of costs (e.g., flight booking, hotel deposit) but do not provide full bank statements.
-7. **Escalate the matter to HR or a union representative if the manager does not respond within one working day.** **Involve a representative early if you believe the cancellation is targeted or linked to a protected characteristic such as pregnancy or disability.**
-8. **Contact the Fair Work Agency if the dispute remains unresolved and prevents you from taking your statutory 5.6 weeks of leave.** **Note that from 7 April 2026, the Fair Work Agency acts as the primary enforcement body for statutory holiday rights in the UK.**
+1. **Write down exactly what you were told, and by whom (today).** Note date/time, the wording used, and whether any reasons were given. Keep this record private and factual.
+2. **Ask for the instruction in writing (or confirm it yourself in writing).** A simple message to HR/your manager is enough: who you must not contact, which channels (email/Teams/phone/in person/social media), and whether it applies inside/outside working hours.
+3. **Ask for a “workable” route to do your job without breaching the instruction.** For example: one named contact for task allocation, using a shared mailbox, having meetings re-routed, or having your manager/HR act as a relay for essential work questions.
+4. **Ask who your point of contact is during the review.** Ask who you should speak to with questions (for example, the investigator, your manager, or HR), and how quickly they expect you to respond to requests.
+5. **Clarify confidentiality boundaries (including representation).** Investigations are often kept confidential. Ask them to confirm what you must not discuss and with whom — and confirm you can still talk to your trade union representative or workplace representative if you have one.
+6. **If a meeting is scheduled, clarify what it is and what support you can have.**
+   - Ask whether it is an **investigation meeting** (fact-finding) or a **disciplinary hearing** / **grievance meeting**.
+   - In a **disciplinary investigation meeting**, there is **no legal right** to be accompanied, but you can ask the employer to allow it.
+   - In a **disciplinary hearing** that could give/confirm a formal warning or other disciplinary action, and in qualifying **grievance meetings**, there is a legal **right to be accompanied** by a suitable companion.
+7. **Preserve evidence without breaching rules.** Do not delete anything. Keep a private timeline of key events and who said what. Avoid forwarding work material to personal accounts or downloading/printing personal data unless your employer’s policy allows it. If you need documents to respond, ask HR how you can access them safely.
+8. **If you’re too distressed to work safely, make a small, practical request.** For example: a short pause, temporary duty changes, or a clear written workflow while the restriction is in place. Keep it simple: “I’m complying, but I need the allowed comms route clarified to do my job.”
 
 ## What can wait
-- You do not need to file a formal grievance in the first 24 hours.
-- You do not need to justify why your holiday is important to you.
-- You do not need to find your own cover or manage the rota; providing one suggestion is sufficient.
+- You do not need to decide today whether to raise a grievance, resign, or threaten legal action.
+- You do not need to “win the narrative” with colleagues right now — that often backfires.
+- You do not need to prepare a full written defence until you know the issue being reviewed and what process is being used.
+- You can wait to get specialist advice (union/solicitor) until you have the instruction in writing and the basics of the process.
 
 ## Important reassurance
-Receiving a last-minute cancellation of approved plans is highly stressful, and a feeling of frustration is a standard reaction. Using the notice period rules provides a factual, non-emotional framework to challenge the decision or negotiate a better outcome.
+Being told not to contact certain colleagues during a review is often a containment step to protect the integrity of a process and working relationships. It does not automatically mean a decision has been made about you. The safest immediate move is to slow down, follow the instruction, and make the boundaries clear so you don’t accidentally breach them.
 
 ## Scope note
-This guide provides first-step stabilization for holiday disputes in the UK. It does not cover long-term employment tribunal strategies or specific industry-wide collective bargaining agreements that may have different notice requirements.
+This is first steps only — to prevent a panic reaction, protect your position, and buy time. Later choices (formal statements, grievances, settlement discussions) depend on details and may need specialist advice.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. UK employment law, including the Employment Rights Act 2025 and the Working Time Regulations, can be complex. For tailored assistance, contact ACAS, the Fair Work Agency, or your trade union representative.
+This is general information, not legal advice. Workplace processes vary by employer and contract, and the safest approach is to keep communications calm, written, and within the instruction while you get clarity and support.
 
 ## Additional Resources
 - https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-2-preparing-for-an-investigation
-- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step
-- https://www.acas.org.uk/suspension-during-an-investigation
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/dealing-with-disciplinary-action-and-dismissal-at-work/
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/preparing-for-a-disciplinary-or-dismissal-meeting/
+- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
+- https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
+- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
+- https://www.legislation.gov.uk/ukpga/1999/26/section/10/notes?view=plain

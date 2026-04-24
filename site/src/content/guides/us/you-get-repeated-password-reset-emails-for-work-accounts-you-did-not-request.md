@@ -1,111 +1,102 @@
----
+﻿---
 title: "What to do if… you get repeated password reset emails for work accounts you did not request"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - "repeated password reset emails"
-  - "unrequested password reset emails"
-  - "password reset emails at work"
-  - "work account password reset email"
-  - "help i get password reset emails"
-  - "what to do if password reset emails"
-  - "my work account password reset"
-  - "reset email for account i didnt request"
-  - "suspicious work reset email"
-  - "fake password reset email"
-  - "password reset link email"
-  - "work account security alert"
-  - "unexpected reset request email"
-  - "account recovery email at work"
-  - "multiple reset emails for work"
-  - "password reset email flood"
-  - "repeated account reset notification"
-  - "unsolicited password reset email"
-  - "reset my work password email"
-  - "password reset email spam"
-  - "strange password reset email"
-  - "password reset request not me"
-  - "work email reset link"
-  - "security code email at work"
-  - "unauthorized password reset email"
-  - "verification code email for work"
-  - "microsoft 365 reset email"
-  - "google workspace reset email"
-  - "work email account reset"
-  - "inbox rules changed"
-  - "email forwarding setup"
-  - "unknown device sign in"
-  - "oauth app permissions"
-  - "credential stuffing email"
-  - "phishing password reset"
-last_reviewed: "2026-03-17"
+  - repeated password reset emails
+  - password reset emails at work
+  - unrequested password reset link
+  - work account reset email
+  - suspicious reset notifications
+  - account takeover warning signs
+  - credential stuffing attempts
+  - phishing using reset emails
+  - mfa prompt you didnt request
+  - unexpected security code email
+  - microsoft 365 reset email
+  - google workspace reset email
+  - work email login alerts
+  - mailbox rules changed
+  - email forwarding set up
+  - unknown device sign in
+  - oauth app permissions granted
+  - reset email flood attack
+  - someone knows my work email
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you get repeated password reset emails for work accounts you did not request (USA)
 
 ## Short answer
-Do not click any links or buttons in the emails. Immediately contact your organization's IT or security department using a verified internal channel to report a potential account takeover attempt.
+Don’t click anything in the emails. Contact your company IT/security team through a trusted channel right now so they can verify the reset activity and secure your account.
 
 ## Do not do these things
-- Do not click "reset password," "not me," or "unsubscribe" buttons within the suspicious emails.
-- Do not open attachments or "security reports" included in these messages.
-- Do not call phone numbers or use chat links provided inside the email body.
-- Do not approve any Multi-Factor Authentication (MFA) push notifications that appear on your phone if you did not just initiate a login.
-- Do not share one-time passcodes (OTP) or verification codes with anyone, even if they claim to be from "IT support."
-- Do not forward the emails to your personal account for "safekeeping."
+- Do not click reset links or open attachments in the emails.
+- Do not use phone numbers, chat links, or “helpdesk” contacts shown in the email (they can be part of a scam).
+- Do not approve MFA prompts or share verification codes with anyone unless you initiated the sign-in.
+- Do not forward potentially sensitive work emails to personal/external addresses unless your company policy explicitly allows it.
+- Do not assume it’s harmless “spam” until your IT/security team confirms.
 
 ## What to do now
-1. **Isolate the emails and stop interacting with them.**
-   Close the email window or tab. The presence of repeated requests suggests an attacker is either attempting to guess your password (credential stuffing) or trying to trick you into clicking a fraudulent link.
+1. **Pause and avoid the links.**  
+   Treat repeated reset emails as a sign someone may be trying to access your account, or trying to trick you into a fake login page.
 
-2. **Contact your official IT help desk via a trusted, out-of-band method.**
-   Use your company's internal directory, an established Slack/Teams channel, or a known-good phone number. 
-   - **Verify the identity of the IT staff member you speak with.**
-   - Request a video call or a second-channel confirmation to ensure you are not speaking to a "vishing" attacker impersonating support.
+2. **Report it to IT/security using a known-good method.**  
+   Use your normal helpdesk number, your internal portal, or your company chat channel you already trust (not anything inside the email). Provide:
+   - the affected account(s)
+   - when it started and frequency
+   - the sender name/address shown and subject lines
+   - whether you clicked anything or entered credentials
 
-3. **Report the specific details of the notifications to your security team.**
-   Provide only the following information:
-   - The exact sender address (e.g., security-noreply@microsoft.com).
-   - The time and frequency of the emails.
-   - Any specific account names or services mentioned.
-   - Whether you clicked any links or entered your current password into any forms.
+3. **Ask IT/security to take containment actions now.**  
+   Ask them to:
+   - review sign-in logs and password reset events
+   - force sign-out / invalidate sessions and tokens if available
+   - confirm MFA status and remove any unknown MFA methods
+   - check for mailbox tampering (forwarding, rules, delegated access)
+   - check for suspicious “connected apps”/consents if supported
+   - check whether other employees are seeing the same thing (broader attack)
 
-4. **Request an account audit from your IT administrator.**
-   Ask them to check for the following indicators of compromise:
-   - Recent successful logins from unrecognized IP addresses or locations.
-   - New "Inbox Rules" that auto-forward, hide, or delete messages.
-   - Newly granted "OAuth" or "Third-Party App" permissions.
-   - Changes to MFA methods, such as a new phone number or hardware key added.
+4. **Only change your password via the official portal if permitted and IT/security hasn’t told you to pause.**  
+   From a device you trust, use your organization’s official sign-in page (not the email link). If your org requires IT/admin-driven resets or asks you to wait while they investigate, follow their direction.
 
-5. **Manually check your own email security settings if permitted.**
-   If you still have access, navigate to your account settings via the official portal (not via the email link) to check:
-   - **Forwarding:** Ensure no unknown addresses are receiving your mail.
-   - **Rules:** Look for rules with names like "." or "Archive" that may be hiding security alerts.
-   - **Delegation:** Confirm no one else has been granted permission to read your mailbox.
+5. **Look for stealthy changes attackers often make (if you have access).**  
+   Check your email/security settings for:
+   - auto-forwarding to an unfamiliar address
+   - inbox rules that auto-delete or hide messages
+   - unfamiliar “connected apps” with mail access
 
-6. **Change your password only through the official organizational portal.**
-   If IT confirms the activity is malicious, use your company's official "Self-Service Password Reset" (SSPR) page or follow the admin-led reset process.
-   - Use a unique passphrase that has never been used on any other account.
+6. **If you interacted with the email, escalate immediately.**  
+   If you clicked a link, entered your password, or approved a prompt:
+   - tell IT/security explicitly (don’t downplay it)
+   - follow their steps for password reset, MFA reset, and device checks
+   - assume your credentials may be compromised until proven otherwise
 
-7. **Alert your manager to potential "Business Email Compromise" (BEC) risk.**
-   If your role involves financial transactions, HR data, or sensitive client info, inform your supervisor that your account is being targeted. This ensures they verify any urgent "requests" coming from your email address via a phone call or in-person check.
+7. **Protect business processes that can be exploited fast.**  
+   If your role touches payments, purchasing, payroll/HR changes, or customer data, tell your manager you’ve reported a potential account-security incident—so any urgent requests “from you” are verified out-of-band today and high-risk changes are double-checked.
+
+8. **Preserve evidence without spreading it.**  
+   Keep the emails and note timestamps. Let IT/security collect headers or copies using your company’s approved process.
 
 ## What can wait
-- You do not need to determine if the email is "real" or "fake" yourself; let the security team perform the header analysis.
-- You do not need to notify the FBI or IC3 unless your organization confirms a financial loss or data breach has occurred.
-- You do not need to perform a factory reset of your device unless your IT team identifies a specific malware infection.
+- You don’t need to figure out whether it’s a real reset or a fake today—IT/security can confirm.
+- You don’t need to report to law enforcement unless there’s confirmed fraud/loss or your company asks you to. **If money was sent/changed, payroll details were altered, or sensitive data may have been exposed, escalate immediately through your company incident process and follow their guidance on reporting (for example, IC3 for business email compromise losses).**
+- You don’t need to do a full device overhaul right now unless IT/security identifies signs of compromise.
 
 ## Important reassurance
-Receiving a password reset email does not mean your account is already hacked. It often means an attacker has found your email address in a public breach and is attempting to trigger a reset or lure you into a phishing site. By not clicking and reporting it immediately, you are preventing the breach from occurring.
+Repeated reset emails don’t automatically mean someone is in your account—often it’s password testing or phishing. The key is not to “help” the attacker by clicking links, and to let IT/security validate and shut down any access attempts.
 
 ## Scope note
-This guide provides first-step stabilization for individual employees. It does not replace your organization's formal Incident Response Plan (IRP) or mandatory reporting requirements under CIRCIA 2026.
+This guide covers first steps to stabilize the situation. Your organization may have mandatory incident reporting steps; follow them once you’re connected to IT/security.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional cybersecurity advice. Always prioritize the specific security policies and instructions provided by your employer's IT department. Organizations in critical infrastructure sectors may be required to report "substantial cyber incidents" to CISA within 72 hours under 2026 federal regulations.
+This is general information, not legal advice or a substitute for your employer’s security policies. If you believe your account may be compromised, follow your organization’s IT/security instructions first.
 
 ## Additional Resources
+- https://www.cisa.gov/secure-our-world/recognize-and-report-phishing
+- https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks
 - https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
-- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
-- https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers
 - https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/spoofing-and-phishing
-- https://complaint.ic3.gov/
+- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise
+- https://www.ic3.gov/CrimeInfo/BEC
+- https://learn.microsoft.com/en-us/defender-office-365/responding-to-a-compromised-email-account

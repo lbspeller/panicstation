@@ -1,101 +1,81 @@
----
+﻿---
 title: "What to do if… a customer or client starts threatening you online because of your job"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "accused of time fraud"
-  - "accused of time theft"
-  - "timesheet dispute at work"
-  - "questioned about hours worked"
-  - "alleged falsifying timesheet"
-  - "disciplinary allegation no evidence"
-  - "employer says clocking fraud"
-  - "challenged on clock in times"
-  - "accused of buddy punching"
-  - "rota mismatch accusation"
-  - "payroll hours dispute"
-  - "investigation meeting at work"
-  - "disciplinary hearing preparation"
-  - "worried about gross misconduct"
-  - "asked to explain time records"
-  - "manager alleges timekeeping issue"
-  - "accused of stealing time"
-  - "timekeeping system error blamed"
-  - "what do i do if accused of time fraud"
-  - "what do i do if accused of time theft"
-  - "what do i do if manager says i stole time"
-  - "what do i do if employer lacks evidence of fraud"
-  - "help i am accused of time fraud"
-  - "help i am accused of stealing hours"
-  - "my manager says i falsified timesheets"
-  - "my employer is investigating time fraud"
-  - "smell of disciplinary action"
-  - "see disciplinary letter"
-  - "hear fraud accusation"
-  - "feel work panic"
-  - "burn mark on reputation"
-  - "accused of time fruad"
-  - "accused of time thef"
-  - "workplace investigation dates"
-  - "time record dispute in flat"
-  - "allegation of clocking in early"
-  - "accused of working from home fraud"
-last_reviewed: "2026-03-17"
+  - customer threatens me online
+  - client threatening messages
+  - online harassment from customer
+  - abusive client emails
+  - social media threats at work
+  - work-related online threats
+  - client intimidation online
+  - doxxed by a customer
+  - review extortion threat
+  - threatening dm from client
+  - customer rage on socials
+  - online stalking by client
+  - client complaint threats
+  - threats because of my job
+  - unsafe client contact
+  - public posts targeting me
+  - employer support for threats
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… a customer or client starts threatening you online because of your job (UK)
 
 ## Short answer
-Request the specific allegations and all supporting evidence in writing before providing a formal response. Do not attempt to "fix" records or engage in off-the-cuff verbal explanations.
+Stop engaging, save the evidence, and tell your employer now. If you think anyone is in immediate danger, call 999; otherwise report threatening/harassing messages via 101 or your local police online reporting.
 
 ## Do not do these things
-- Do not edit, delete, or "fix" any historical timesheets, calendar entries, or system logs to make them appear more accurate.
-- Do not resign immediately or sign any "admission of guilt" or repayment agreements during an initial meeting.
-- Do not attempt to log into work systems to "prove" your location if you have been suspended or told to stay away.
-- Do not contact colleagues or witnesses to "get their story straight" as this can be interpreted as witness tampering or harassment.
-- Do not provide a spontaneous verbal defence in an unscheduled "chat" with a manager; insist on a formal process.
+- Don’t argue, “explain”, or negotiate in DMs, comments, or review replies.
+- Don’t delete messages/posts before you’ve captured them (you may lose evidence).
+- Don’t share personal details to “prove your side” (address, routine, workplace location, family info).
+- Don’t meet the person in real life to “clear it up”.
+- Don’t keep accepting direct contact from the same client once threats start (route it through work).
 
 ## What to do now
-1. **Request the full details of the allegation in writing immediately.** **Ask for the specific dates, times, and instances where the fraud is alleged to have occurred.**
-   - Ask which company policy is cited as being breached.
-   - Clarify if the current stage is a "fact-finding investigation" or a "formal disciplinary hearing."
-2. **Ask for all evidence the employer is relying upon before you attend a formal meeting.** **This includes any data points they claim show a discrepancy.**
-   - Request timekeeping logs and badge / CCTV swipe data.
-   - Request system audit logs (showing who edited records and when).
-   - Request witness statements or manager "exception reports."
-3. **Preserve your own personal records without altering them.** **Gather any external evidence that supports your presence at work during the disputed times.**
-   - Save sent email timestamps and meeting invites.
-   - Document GPS / location history from personal devices if relevant.
-   - Collect travel receipts, parking tickets, or toll records.
-   - Keep copies of work-related chat logs or ticketing system activity.
-4. **Draft a factual timeline of the period in question for your own use.** **Write down start times, finish times, and break durations while the details are still fresh.**
-   - Note any known system glitches or login issues that occurred on those dates.
-   - List any managers or colleagues who saw you working during the disputed hours.
-5. **Exercise your statutory right to be accompanied if invited to a disciplinary hearing.** **You have the legal right to bring a fellow worker or a trade union representative who is certified to act as a companion.**
-   - If your companion cannot attend at the proposed time, you can suggest an alternative time within five working days.
-6. **Submit a Subject Access Request (SAR) if the employer refuses to share key data.** **Under the UK GDPR and Data Protection Act 2018, you can request a copy of your personal data, including time logs and emails mentioning you.**
-   - Keep the request focused on the specific systems and dates involved in the allegation.
-7. **Verify the terms of your suspension if you are told to leave the premises.** **Ask for a written letter confirming that the suspension is on full pay and does not constitute disciplinary action.**
-   - Ensure you know who your designated point of contact is while you are away from the office.
-8. **Request a copy of the company’s formal Disciplinary and Grievance Policy.** **Check if the employer’s actions align with the ACAS Code of Practice.**
-   - Pay close attention to the definition of "Gross Misconduct" within your specific contract or handbook.
+1. **Decide whether this is an emergency.**  
+   If you believe the person might act now, turn up, or harm you/someone else, **call 999**. If it’s threatening/harassing but not an immediate danger, **call 101** or use your **local police online reporting**.
+
+2. **Capture and preserve the evidence (before you block).**  
+   Take screenshots showing the **account name, exact wording, dates/times, and URLs**. If it’s email, save the messages (including message details if available). Write a short timeline: what happened, when, and how it links to your work.
+
+3. **Tell your employer in a “safety + record” way.**  
+   Send the evidence and timeline to your **line manager/HR** (and **security/reception** if relevant). Ask for it to be logged as a workplace incident, and ask who is the named owner for next actions.
+
+4. **Ask for immediate controls and a risk review (you’re not being “difficult”).**  
+   Request changes that reduce risk now, for example: **reassign the client**, pause service/appointments, route all contact through a **team inbox/phone line**, remove your name from outward-facing comms where possible, adjust visits/front-desk duties, and brief reception/security. Ask for the organisation to **review the violence/aggression risk** for your role and put controls in place.
+
+5. **Report it to the platform and reduce visibility.**  
+   Use the platform’s **report** tools for threats/harassment and request removal. After saving evidence, **mute/block** as needed. Tighten privacy settings (who can message/tag you, who sees your profile info).
+
+6. **If personal details were shared or threatened (doxxing), treat it as a safety issue.**  
+   Tell your employer and police. Brief your household (or building reception) so unexpected visitors are handled safely. Ask work to protect your contact details in systems and public-facing pages.
+
+7. **If they’re demanding something (“refund or I’ll ruin you”), don’t pay or bargain.**  
+   Save the demand and keep your side quiet and factual. Let your organisation handle it through formal complaint/refund routes. If it involves a **scam/hacking or money lost**, also report it through the UK’s **fraud/cybercrime reporting service** (and keep police involved for any threats).
 
 ## What can wait
-- You do not need to prove your innocence in the first few minutes; focus on gathering the employer's evidence first.
-- You do not need to decide whether to file a tribunal claim or a formal grievance today.
-- You do not need to explain every minor discrepancy immediately if you haven't seen the logs the employer is using.
+- Drafting a “perfect” public statement or reply.
+- Deciding whether to start a formal grievance, tribunal claim, or legal action.
+- Trying to investigate the person yourself online.
+- Big career decisions (quitting, changing roles) until the immediate risk is reduced and logged.
 
 ## Important reassurance
-It is normal to feel defensive or panicked when your integrity is questioned. Most "time fraud" allegations stem from system errors, sync delays, or misunderstandings of local informal rules; following a slow, written process is your best protection against a rush to judgment.
+Freezing, feeling embarrassed, or wanting to fix it fast is a normal stress response. A customer/client threatening you online is a workplace safety issue, and it’s reasonable to escalate and ask for protective changes.
 
 ## Scope note
-This guide provides first-step stabilization for UK employees facing internal misconduct allegations. It does not cover legal strategy for Employment Tribunals or complex cases involving criminal fraud investigations.
+This is first-steps guidance to stabilise the situation and prevent escalation. Next steps may involve HR processes, police follow-up, or specialist advice depending on what was said and where it was posted.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Employment rights can vary significantly based on your length of service and specific contract terms. If you are threatened with summary dismissal or asked to sign a settlement agreement, you should seek immediate advice from a qualified solicitor, your trade union, or ACAS.
+This is general information, not legal advice. If you think you’re in immediate danger, call 999. If you’re being threatened or harassed, report it to the police and to your employer.
 
 ## Additional Resources
-- https://www.met.police.uk/advice/advice-and-information/har/harassment-on-social-media/
 - https://www.police.uk/advice/advice-and-information/online-safety/online-safety/what-is-sending-threatening-messages/
-- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/protection-from-online-stalking-and-harassment/
-- https://www.suzylamplugh.org/cyberstalking
+- https://www.hse.gov.uk/violence/worker/index.htm
+- https://www.hse.gov.uk/violence/employer/index.htm
+- https://www.hse.gov.uk/violence/employer/assessing-the-risks.htm
 - https://www.acas.org.uk/discrimination-and-the-law/harassment
+- https://www.reportfraud.police.uk/

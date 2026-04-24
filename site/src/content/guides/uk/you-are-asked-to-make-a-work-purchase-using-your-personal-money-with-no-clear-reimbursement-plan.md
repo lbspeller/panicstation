@@ -1,110 +1,85 @@
----
+﻿---
 title: "What to do if… you are asked to make a work purchase using your personal money with no clear reimbursement plan"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - "asked to train replacement"
-  - "training my own replacement"
-  - "job being phased out"
-  - "handover to new person"
-  - "being pushed out at work"
-  - "suspected redundancy training"
-  - "forced knowledge transfer"
-  - "training a new starter for my role"
-  - "workplace restructuring training"
-  - "shadowed by new employee"
-  - "what do i do if i am being replaced"
-  - "what do i do if my job is at risk"
-  - "what do i do if they are hiring my replacement"
-  - "what do i do if i am asked to train a new hire"
-  - "help i am training my replacement"
-  - "help i think i am being replaced"
-  - "help i am being made redundant"
-  - "my boss asked me to train someone"
-  - "smell of redundancy"
-  - "sudden training request cues"
-  - "burning bridge at work"
-  - "replasing me at work"
-  - "redundency training"
-  - "knowledge transfer pressure"
-  - "role handover signs"
-  - "redundancy selection training"
-  - "employment rights act 2026"
-  - "acas early conciliation uk"
-  - "unfair dismissal training replacement"
-  - "training duties added suddenly"
-last_reviewed: "2026-03-17"
+  - asked to pay for work
+  - work purchase on personal card
+  - out of pocket work expenses
+  - no reimbursement plan
+  - expenses not approved
+  - employer wants me to front costs
+  - pay for work supplies myself
+  - personal money for company purchase
+  - unclear expense policy
+  - reimbursement delayed
+  - expense claim not paid
+  - told to buy for work today
+  - manager asked me to purchase items
+  - pressured to use my own money
+  - no purchase order provided
+  - corporate card not available
+  - work costs on personal account
+  - being asked to cover business costs
+last_reviewed: "2026-01-07"
 ---
+
 # What to do if… you are asked to make a work purchase using your personal money with no clear reimbursement plan (UK)
 
 ## Short answer
-Request the training objectives and the reason for the request in writing while maintaining your current duties and contract compliance. Do not resign or refuse the task immediately, as this can jeopardize your redundancy or unfair dismissal protections.
+Pause and don’t spend your own money until you have written approval and a clear reimbursement route (or they provide an alternative like a company card or purchase order).
 
 ## Do not do these things
-- Do not refuse the instruction to train without first seeking written clarification of the request.
-- Do not accuse the trainee or management of replacing you in a verbal confrontation.
-- Do not resign in response to the request, as this may be treated as a voluntary resignation rather than a dismissal or redundancy.
-- Do not download, copy, or remove confidential company data or intellectual property for personal use.
-- Do not stop performing your primary job duties or lower your performance standards.
+- Do not put it on your personal credit card (or use cash) “just this once” if you can’t afford to wait for repayment.
+- Do not accept vague promises like “we’ll sort it later” without something in writing.
+- Do not exceed a maximum amount you have not agreed in writing (including delivery, VAT, or add-ons).
+- Do not hand over your personal bank details to unfamiliar suppliers or click payment links you’re unsure about.
+- Do not throw away receipts/confirmations or rely on a screenshot that doesn’t show what was bought and who asked for it.
+- Do not let anyone pressure you into taking a loan/overdraft to cover business costs.
 
 ## What to do now
-1. **Request a written brief for the training task immediately.**
-   - Ask for a list of specific skills, systems, or processes to be covered.
-   - Confirm the expected timeline and the trainee's job title / role description.
-   - Ask which of your existing tasks should be deprioritized to accommodate the training time.
-
-2. **Send a follow-up email after any verbal meeting about the training.**
-   - **Summarize what was discussed and the reasons given for the training request.**
-   - Use neutral language: "Following our meeting, I understand I am to train [Name] on [System] due to [Reason given, e.g., departmental cover / restructure]."
-
-3. **Inquire formally if your role is at risk of redundancy or change.**
-   - **Ask if there is a formal restructure or redundancy process currently active.**
-   - If the employer confirms you are "at risk," they must follow statutory consultation rules.
-   - For 20 or more redundancies at one site, collective consultation must begin at least 30 days before the first dismissal (increasing to 45 days for 100+).
-
-4. **Keep a private, dated log of all related interactions and observations.**
-   - **Record dates of training requests, changes to your access levels, and comments regarding headcount.**
-   - Note any instances where the trainee is given tasks that were previously your sole responsibility.
-   - Save copies of relevant emails, performance reviews, and your current job description to a personal device.
-
-5. **Review your contract of employment and staff handbook today.**
-   - **Identify your notice period and check for a redundancy policy or "flexibility clause" regarding duties.**
-   - Locate the grievance procedure to understand how to raise a formal concern if the situation escalates.
-
-6. **Contact your Trade Union representative or a legal professional if you have one.**
-   - **Advise them of the training request and any statements made about your future role.**
-   - If you have at least 2 years of continuous service, you have stronger protections against unfair dismissal.
-
-7. **Raise an informal concern if the workload becomes unmanageable.**
-   - **Explain in writing how the training duties are impacting your primary deliverables.**
-   - This creates a record that you are attempting to comply while highlighting the impracticality of the situation.
-
-8. **Identify if you have a right to a written statement of reasons for dismissal.**
-   - **Note that if you are dismissed, and have 2 years' service, you can request this in writing.**
-   - Under 2026 rules, the employer must provide this statement within 14 days of your request.
-
-9. **Note the mandatory requirement for Acas Early Conciliation.**
-   - **Understand that you must contact Acas before you can lodge most claims at an employment tribunal.**
-   - The time limit for most claims is 3 months minus 1 day from the date of the act or dismissal.
+1. **Buy time and get it in writing (one message).** Reply calmly: you can help, but you need written confirmation of:
+   - exactly what to buy (item/spec and supplier if required)
+   - the **maximum total** you’re authorised to spend
+   - who is approving it (name/role)
+   - **how** you will be reimbursed (expenses system, bank transfer, payroll, etc.)
+   - what evidence they need (receipt, invoice, screenshot, delivery note)
+2. **Ask for a safer payment method instead of your money.** Request one of these:
+   - a company card
+   - a purchase order (PO)
+   - the supplier invoicing the business directly
+   - an advance arranged by finance (for example petty cash/float)
+3. **If they insist it must be you, set a boundary that protects you.** For example: you’ll place the order **only after** written approval + reimbursement route is confirmed, and only up to the agreed cap.
+4. **If you already paid (or you decide you must pay to prevent immediate disruption):**
+   - Save the receipt/confirmation (PDF if possible) and take clear photos as backup.
+   - Write down: date/time, what it was for, who instructed you, and where they approved it (email/chat).
+   - Submit the expense claim immediately (or email finance/payroll if there’s no system) and ask them to confirm when it will be reimbursed.
+5. **Use your workplace process, then formalise it if needed.**
+   - Spend 10 minutes checking the expenses policy/handbook/intranet for approval and claim rules, then follow it exactly.
+   - If you’re being pressured or repayment is being blocked/delayed without explanation, **raise a formal grievance in writing** (keep it factual and attach your evidence).
+   - If there’s a grievance meeting, you can usually be accompanied by a colleague or trade union representative.
+6. **Escalate to the right internal team (for a paper trail).** Forward the original request and your “need approval/reimbursement details” reply to finance/payroll (and HR if appropriate). If you have a union rep, involve them early.
+7. **If you’re on or near National Minimum Wage, keep records and get help quickly.** If the employer requires you to make work-related payments (or you have to pay for required work-connected costs), that can reduce your National Minimum Wage pay. If you think this is happening, keep pay slips and evidence of the payments together and consider using the GOV.UK pay/work rights complaints route (or contacting Acas).
 
 ## What can wait
-- You do not need to decide whether to accept a settlement agreement or "exit package" the moment it is offered.
-- You do not need to start a formal grievance until you have sought initial advice or received a response to your written clarifications.
-- You do not need to inform the trainee of your suspicions or your legal strategy.
-- You do not need to update your CV or start applications during work hours.
+- You do **not** need to decide today whether to resign, threaten legal action, or post publicly about the employer.
+- You do **not** need to figure out tax relief options right now—focus first on getting reimbursed (or stopping the spend).
+- You do **not** need to argue about blame. Your immediate goal is a clear, documented process and protecting your money.
 
 ## Important reassurance
-It is normal to feel anxious or defensive when asked to transfer your knowledge to a new person without a clear explanation. This request does not always mean you are being replaced; it can be for genuine business resilience or cover. By getting everything in writing and following the process, you are putting yourself in the strongest possible position regardless of the outcome.
+It’s reasonable to ask for written approval and a clear reimbursement route before spending your own money. Many employers have a proper expenses process, and when they don’t, asking for clarity is a normal, professional safeguard.
 
 ## Scope note
-This guide provides first-step stabilization for UK employment situations. It does not cover the specific legal requirements for TUPE transfers, whistleblowing, or discrimination claims, which require detailed legal assessment.
+These are first steps to stabilise the situation, prevent personal financial harm, and create a paper trail. Next steps (like a formal grievance, early conciliation, or other action) depend on your contract, pay arrangement, and how your employer responds.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Employment law in the UK is subject to specific service-length requirements and strict tribunal deadlines. If you are told you are redundant or are dismissed, you should seek immediate advice from Acas, a union, or a qualified solicitor.
+This is general information, not legal or financial advice. If the amount is significant, you’re on a low income, or your employer is refusing/delaying repayment, get independent advice promptly and keep all records.
 
 ## Additional Resources
 - https://www.acas.org.uk/expenses
-- https://www.acas.org.uk/if-your-wages-are-not-paid/raising-an-issue-with-your-employer
-- https://www.acas.org.uk/discipline-and-grievance
-- https://www.acas.org.uk/deductions-from-pay-and-wages
-- https://www.citizensadvice.org.uk/work/pay/problems-getting-paid/
+- https://www.gov.uk/raise-grievance-at-work/grievance-procedure
+- https://www.gov.uk/raise-grievance-at-work/grievance-meetings
+- https://www.gov.uk/hmrc-internal-manuals/national-minimum-wage-manual/nmwm11100
+- https://www.gov.uk/government/publications/pay-and-work-rights-complaints
+- https://www.acas.org.uk/early-conciliation
+- https://www.acas.org.uk/grievance-procedure-step-by-step
