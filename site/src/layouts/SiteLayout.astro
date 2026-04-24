@@ -45,6 +45,27 @@ const isUsActive = jurisdiction === "us";
     <!-- Google AdSense -->
     <meta name="google-adsense-account" content="ca-pub-6393180948620179" />
 
+    {isHome && (
+      <script is:inline>
+        (() => {
+          const ADSENSE_CLIENT = "ca-pub-6393180948620179";
+
+          window.adsbygoogle = window.adsbygoogle || [];
+          window.adsbygoogle.pauseAdRequests = 1;
+
+          const existing = document.querySelector(
+            `script[src*="adsbygoogle.js?client=${ADSENSE_CLIENT}"]`
+          );
+          if (existing) return;
+
+          const s = document.createElement("script");
+          s.async = true;
+          s.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`;
+          s.crossOrigin = "anonymous";
+          document.head.appendChild(s);
+        })();
+      </script>
+    )}
   </head>
 
   <body class={`ps-page ${isHome ? "ps-home" : ""}`} data-ps-page={isHome ? "home" : isGuide ? "guide" : "other"}>
