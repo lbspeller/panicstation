@@ -1,87 +1,76 @@
----
+﻿---
 title: "What to do if… police ask you to come in to be photographed or recorded as part of an inquiry"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "police ask me to come in"
-  - "police want to photograph me"
-  - "police want to record me"
-  - "voluntary police interview"
-  - "interview under caution"
-  - "recorded police interview"
-  - "what do i do if police want a photo"
-  - "what do i do if police want to record my voice"
-  - "help i have a voluntary interview"
-  - "help i am a suspect"
-  - "my rights at the police station"
-  - "my rights for a voluntary interview"
-  - "police identification inquiry"
-  - "police inquiry photo request"
-  - "being photographed as part of an inquiry"
-  - "being recorded as part of an inquiry"
-  - "police station identification"
-  - "is a voluntary interview mandatory"
-  - "voluntary attendance police"
-  - "refusing police photo"
-  - "refusing police recording"
-  - "voice recording police inquiry"
-  - "identification procedure"
-  - "witness or suspect"
-  - "do i need a lawyer for police inquiry"
-  - "police inquiry appointment"
-  - "detective appointment uk"
-  - "station inquiry attendance"
-  - "police photo request"
-  - "police video recording request"
-last_reviewed: "2026-03-17"
+  - police ask me to come in
+  - invited to police station
+  - police want to photograph me
+  - police want to record me
+  - police want a statement
+  - police want to interview me
+  - voluntary police interview
+  - interview under caution
+  - recorded police interview
+  - do i have to go to station
+  - am i under arrest
+  - am i a suspect or witness
+  - detective called me uk
+  - police appointment inquiry
+  - police asked me to attend
+  - come in for identification
+  - asked to be photographed
+  - asked to be recorded
+  - worried about talking to police
+  - police station interview rights
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… police ask you to come in to be photographed or recorded as part of an inquiry (UK)
 
 ## Short answer
-Do not attend until you have confirmed your legal status and arranged a solicitor. This request is likely a "Voluntary Interview" or a formal identification procedure where anything you say or provide will be used as evidence.
+Treat this as a legal situation, not a chat. First confirm whether it’s voluntary; if it is, you can decline or rearrange until you’ve had legal advice.
 
 ## Do not do these things
-- Don’t attend "for a quick chat" without professional legal representation; there is no such thing as an informal chat in a criminal inquiry.
-- Don’t assume being "voluntary" means the situation is low-risk; if you refuse to attend, the police may have the power to arrest you to "necessitate" the interview.
-- Don’t consent to provide fingerprints, photographs, or DNA samples without first asking your solicitor if you are legally required to do so.
-- Don’t try to explain your way out of the situation on the phone; the officer is trained to gather evidence, not to be your confidant.
-- Don’t delete any digital evidence (messages, photos, call logs) as this can lead to a charge of perverting the course of justice.
-- Don’t bring friends or family members into the interview room; they cannot provide the legal protection a solicitor offers.
+- Don’t “pop in quickly” to be helpful without checking whether you’re a suspect, a witness, or being asked to attend a voluntary interview.
+- Don’t agree to be interviewed, recorded, or “give your side” before you’ve had legal advice.
+- Don’t assume “it’s just a photo/voice recording” is routine — ask what they’re asking you to do, and on what basis.
+- Don’t take friends/relatives as your substitute for legal advice (a solicitor is different).
+- Don’t delete or alter messages, photos, call logs, or posts after police contact; it can raise questions later.
+- Don’t get drawn into discussing the incident on the phone “just to clarify”.
 
 ## What to do now
-1. **Identify the officer and the case.** Ask for the officer's full name, rank, collar number, station, and a CAD (Computer Aided Despatch) or crime reference number.
-2. **Clarify your legal status immediately.** Ask the officer: "Am I being treated as a suspect or a witness?"
-   - If you are a suspect, the police are likely seeking a "Voluntary Interview" (also known as Caution Plus 3).
-   - If you are a witness, they are seeking a Section 9 statement.
-3. **Ask for the specific legal basis of the request.** Ask: "Is this request for a photograph / recording voluntary, or is it a formal procedure under PACE Code D?"
-   - Write down exactly what they want: a headshot, a full-body photo, a voice sample, or a video recording.
-4. **Arrange for free legal advice.** 
-   - **England and Wales:** You are entitled to free, independent legal advice from a duty solicitor or your own solicitor for any interview under caution. Tell the officer: "I will attend, but I require my solicitor to be present."
-   - **Scotland:** Under the Criminal Justice (Scotland) Act 2016, you have the right to a solicitor before and during any interview if you are a suspect.
-   - **Northern Ireland:** You have a right to free legal advice for voluntary interviews; do not waive this right.
-5. **Slow the process down.** Do not feel pressured to go "right now." Tell the officer you need to consult your solicitor to find a mutually convenient time when your legal representative is available to attend with you.
-6. **Listen for the Caution.** If the officer says, "You do not have to say anything, but it may harm your defence...", **stop talking immediately**. This is a formal warning that you are a suspect and your words are being recorded as evidence.
-7. **Request an Appropriate Adult if applicable.** Tell the officer if you are under 18 or if you have a mental health condition, learning disability, or any difficulty communicating.
-   - The police must arrange an Appropriate Adult to be present to ensure you understand your rights and the process.
-8. **Note any "Special Measures" or recording methods.** Ask if the recording will be audio, visual, or both, and where the data will be stored.
+1. **Get the basics and slow it down.** Ask for the officer’s name/number, station, a reference/case number, what they want (photo, video, voice recording, interview, statement), and **whether attendance is voluntary**.
+2. **Ask the key question plainly:** “**Am I being interviewed under caution, or as a witness?**” If they won’t say, treat it as higher risk and get legal advice before attending.
+3. **Arrange legal advice before you go.**  
+   - **If you’re in England & Wales:** you can ask for **free and independent legal advice** for a police interview, including via the duty solicitor scheme, and have a solicitor present.  
+   - **If you’re in Scotland or Northern Ireland:** ask for **free legal advice** and what the local process is for having a solicitor before any interview/recording.
+4. **If the request is “just for a photograph/recording,” ask what basis they’re relying on.** For example: “Is this voluntary/with my consent, or because I’m detained/arrested?” If it’s voluntary/consent-based, **don’t consent until you’ve had legal advice**.
+5. **Control the appointment.** If you do attend, **book a time** when your solicitor can be present (or available by phone), and confirm where to report. Don’t arrive early and start chatting informally.
+6. **If you’re vulnerable, ask for safeguards.**  
+   - **England & Wales:** if you’re under 18, have a mental health condition, learning disability, or struggle to communicate, tell them and ask about an **appropriate adult**.  
+   - **Scotland/Northern Ireland:** tell them you need the local equivalent support and ask what will be arranged before any interview/recording.
+7. **Write down what happened (for you/your solicitor, not to hand over).** Note dates/times, who contacted you, exactly what was requested, and any deadlines mentioned.
+8. **If you feel unsafe attending alone, say so and ask for adjustments.** Ask to wait in a public area until your solicitor arrives, request an interpreter if needed, and flag accessibility needs.
 
 ## What can wait
-- You do not need to decide whether you will answer questions or "go no-comment" until you have had a private consultation with your solicitor.
-- You do not need to provide a written statement or "your side of the story" before the formal meeting.
-- You do not need to worry about the specific evidence the police may have; your solicitor will request "disclosure" (the details of the allegation) before the interview starts.
+- You do not need to decide today whether you will “cooperate fully” or “contest everything.” Your job right now is to **avoid an unadvised recorded interview/statement**.
+- You don’t need to prepare a perfect statement, apology, or explanation before legal advice.
+- You don’t need to contact other people involved or post about it.
 
 ## Important reassurance
-Police inquiries are a standard part of investigative work, and being asked to attend does not mean you will be charged with a crime. Requesting a solicitor is your legal right and is not seen as an admission of guilt; it is a standard procedural safeguard used by everyone, including police officers themselves if they are under inquiry.
+Being contacted by police can happen for many reasons, including routine inquiries — but it’s normal to feel shaken. Slowing things down and getting legal advice first is a sensible safety step, not an admission of guilt.
 
 ## Scope note
-This guide covers the immediate first steps when contacted by police for a voluntary photograph, recording, or interview in the UK. It does not cover the strategy of a legal defence or the specifics of a court trial.
+These are first steps to reduce risk and prevent irreversible mistakes in the first 24–48 hours. Anything beyond that (formal statements, evidence strategy, negotiations) is for you and a solicitor to handle carefully.
 
 ## Important note
-Legal procedures differ significantly between England & Wales, Scotland, and Northern Ireland. This information is for general stabilization only and is not a substitute for professional legal advice from a qualified solicitor in your specific jurisdiction.
+This is general information, not legal advice. Police processes and terminology differ across the UK. If you’re unsure whether attendance is voluntary or whether you’re being treated as a suspect, treat it as serious and get legal advice before going in.
 
 ## Additional Resources
-- https://www.gov.uk/arrested-your-rights/giving-fingerprints-photographs-and-samples
+- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version
 - https://www.gov.uk/government/publications/voluntary-police-interview-your-rights
-- https://www.gov.uk/arrested-your-rights/legal-advice-at-the-police-station
-- https://www.gov.uk/government/publications/pace-code-c-2023/pace-code-c-2023-accessible
-- https://www.gov.uk/government/publications/guidance-for-appropriate-adults/being-an-appropriate-adult
+- https://www.gov.uk/arrested-your-rights/your-rights-in-custody
+- https://www.gov.uk/government/publications/pace-code-c-2019/pace-code-c-2019-accessible
+- https://www.gov.uk/government/publications/pace-code-d-2023/pace-code-d-2023-accessible
+- https://library.college.police.uk/docs/NPCC/Voluntary-interview-guidance-2024.pdf

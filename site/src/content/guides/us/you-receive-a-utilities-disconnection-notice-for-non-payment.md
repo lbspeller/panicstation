@@ -1,99 +1,75 @@
----
+﻿---
 title: "What to do if… you receive a utilities disconnection notice for non-payment"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - "utility shutoff notice"
-  - "utility disconnection notice"
-  - "shut off warning letter"
-  - "service termination notice"
-  - "past due utility bill"
-  - "behind on utilities"
-  - "overdue utility bill"
-  - "non payment utility bill"
-  - "electric shutoff notice"
-  - "gas shutoff notice"
-  - "water shutoff notice"
-  - "notice of disconnection"
-  - "final notice utility bill"
-  - "utility bill cant pay"
-  - "utilities about to be shut off"
-  - "utility termination warning"
-  - "missed utility payment"
-  - "utility shutoff date"
-  - "disconnection scheduled"
-  - "help with electric bill"
-  - "help with gas bill"
-  - "liheap application help"
-  - "public utility commission complaint"
-  - "medical protection for utilities"
-  - "utilities shutoff protection"
-  - "help i cant pay my water bill"
-  - "what do i do if my power is being shut off"
-  - "what do i do if my gas is being disconnected"
-  - "help i got a utility termination notice"
-  - "my electricity is scheduled for shutoff"
-  - "smell of gas"
-  - "no running water"
-  - "lights flickering"
-  - "power outage notice"
-last_reviewed: "2026-03-17"
+  - utility shutoff notice
+  - utility disconnection notice
+  - shut off warning letter
+  - service termination notice
+  - past due utility bill
+  - behind on utilities
+  - overdue utility bill
+  - non payment utility bill
+  - electric shutoff notice
+  - gas shutoff notice
+  - water shutoff notice
+  - notice of disconnection
+  - final notice utility bill
+  - utility bill cant pay
+  - utilities about to be shut off
+  - utility termination warning
+  - missed utility payment
+  - utility shutoff date
+  - disconnection scheduled
+last_reviewed: "2026-01-08"
 ---
-# What to do if… you receive a utilities disconnection notice for non-payment (USA)
 
+# What to do if… you receive a utilities disconnection notice for non-payment (USA)
 ## Short answer
-Call the utility company immediately to request a payment arrangement or a "crisis hold" while you apply for emergency assistance. Confirm the exact date of disconnection and ask what specific action stops the shutoff today.
+Call the utility right away using a trusted number (from your statement or the utility’s official website) and ask what stops the shutoff today (payment arrangement, assistance application steps, or a temporary hold while hardship/medical protection is reviewed).
 
 ## Do not do these things
-- Do not pay anyone who demands immediate payment via gift card, cryptocurrency, wire transfer, or a QR code scan.
-- Do not ignore the notice; utility companies are often more flexible before the service is actually disconnected.
-- Do not agree to a payment plan with monthly amounts you cannot realistically afford.
-- Do not use outdoor grills, camp stoves, or portable generators inside the home for heat or cooking if service is cut.
-- Do not provide your full Social Security number or banking passwords to anyone calling you about a "pending shutoff" unless you initiated the call to a verified number.
+- Don’t pay someone who contacts you with threats and demands immediate payment by gift card, crypto, wire transfer, or by scanning a QR code/barcode — that’s a common scam pattern.
+- Don’t ignore the notice until the shutoff date; options often narrow as the date approaches.
+- Don’t agree to a payment amount you know you can’t maintain.
+- Don’t use unsafe heating/cooking indoors if service is shut off (grills, camp stoves, generators indoors, or running a car in a garage).
+- Don’t give Social Security numbers, banking logins, or remote access to your phone/computer to “fix” a utility problem.
 
 ## What to do now
-1. **Locate the account number and the scheduled disconnection date on the notice.**
-   - Determine if the account is in your name, a landlord's name, or a previous tenant's.
-   - Note if the notice covers electricity, gas, water, or telecommunications.
-2. **Verify the notice is legitimate by calling the utility at their official number.**
-   - Do not use numbers provided in a text message or a suspicious voicemail.
-   - Use the number printed on your most recent paper bill or the company's official ".com" or ".gov" website.
-3. **Ask the representative for a "payment arrangement" or a "hardship hold."**
-   - **Request a "deferred payment agreement" (DPA) to spread the debt over several months.**
-   - **Ask if a "crisis hold" can be placed for 15–30 days while you seek financial aid.**
-   - **Record the representative's name, ID number, and the date/time of your call.**
-4. **Identify any "vulnerable person" protections that apply to your household.**
-   - **Inform the utility if anyone in the home is under age 18, over age 65, or has a serious medical condition.**
-   - **Ask for a "Medical Certification Form" if electricity or gas is required for medical equipment or temperature control.**
-   - **Submit the medical form within 3 business days; most states require a signature from a licensed physician or nurse practitioner.**
-5. **Apply for the Low Income Home Energy Assistance Program (LIHEAP) immediately.**
-   - **Call 211 or visit the LIHEAP Clearinghouse website to find your local application office.**
-   - **Inform the utility company as soon as you have an application number or appointment date.**
-   - **Note that the Affordable Connectivity Program (ACP) for internet has expired; ask for "Lifeline" discounts for phone or broadband instead.**
-6. **Report attempted utility scams to the Federal Trade Commission (FTC).**
-   - **Visit ReportFraud.ftc.gov if you were threatened with immediate shutoff for not paying via gift card.**
-7. **Prepare a basic safety kit in case the disconnection proceeds.**
-   - Charge all mobile phones and external battery packs.
-   - Keep flashlights and fresh batteries in a known location.
-   - If you have refrigerated medication, identify a neighbor or facility with power where it can be stored temporarily.
+1. **Confirm what utility this is and who is legally responsible for the bill.** Electric/gas, water, or phone/internet? Is the account **in your name**, your landlord’s, or a previous tenant’s? Note the account number and the shutoff date.
+2. **Verify the notice is real before you pay.** Call the utility using a phone number from a recent bill or the utility’s official website. Ask: “Is my account scheduled for shutoff? What date/time, and what stops it today?”
+3. **Ask for the exact “stop shutoff” option they will accept today.** Use simple phrases:
+   - “I’m requesting a payment arrangement.”
+   - “Do you have a hardship option or a crisis hold?”
+   - “Can you place a temporary hold while I submit assistance/medical paperwork?”
+   Write down the agent’s name/ID, date/time, and what they said.
+4. **If someone in the home is higher risk, ask about protections and what proof they need.** Examples: infants/young children, older adults, serious illness/disability, pregnancy, or medical equipment needs. **Some** utilities/states allow a medical certification or similar documentation for temporary shutoff protection. Ask what form they require, how to submit it, and whether a hold can be placed while you submit it.
+5. **Apply for emergency help immediately (even if you also set up a payment plan).**
+   - Ask about **LIHEAP** (Low Income Home Energy Assistance Program) for heating/cooling electricity or gas help, and how to apply in your area.
+   - Call **211** to find local utility-assistance programs and charities that may help with the minimum needed to prevent shutoff.
+   - If you need state-specific shutoff rules or protections, ask your utility what applies in your state and where to verify it.
+6. **If you think the bill is wrong, dispute it and escalate fast.** Tell the utility you dispute the bill and ask what evidence they need (meter reading, move-in/out date, leak report, etc.). If you can’t resolve it quickly, ask for the contact details for your **state utility regulator / public utilities commission** and say it’s urgent due to a scheduled shutoff.
+7. **Do a quick safety prep in case service stops anyway.** Charge phones and battery packs, keep flashlights handy, save key numbers offline, and make a safe backup plan if you rely on refrigerated medication or powered medical devices. If you have advance notice of a possible **water** shutoff, fill a small number of clean containers for essential use.
 
 ## What can wait
-- You do not need to decide on switching utility providers or "ESCOs" during a shutoff crisis.
-- You do not need to pay the entire balance today unless the utility states it is the only way to stop a same-day disconnection.
-- You do not need to file a formal dispute with the Public Utilities Commission (PUC) until you have first attempted to resolve the issue directly with the utility.
+- You don’t need to decide today about switching providers, taking a loan, or making big financial changes.
+- You don’t need to resolve every detail of your budget right now — focus on preventing shutoff and stabilizing essentials.
+- You don’t need to argue your entire case on the first call; start by getting a hold, an arrangement, or an assistance application in motion.
 
 ## Important reassurance
-A shutoff notice is a legal requirement intended to ensure you contact the provider before service stops. Most major utilities have established "hardship" protocols and are often required by state law to offer at least one payment arrangement or a temporary hold for medical reasons.
+A shutoff notice is meant to trigger contact, and many utilities have standard options once you engage: payment arrangements, hardship pathways, and referrals to assistance. It’s okay if you feel overwhelmed — one clear call and one assistance application is a strong first move.
 
 ## Scope note
-This guide covers first-step stabilization for a pending utility shutoff. It does not cover long-term debt restructuring, bankruptcy, or legal disputes regarding meter accuracy.
+This is first steps only — to reduce immediate risk and buy time. Longer-term debt solutions, benefit planning, and legal advice (if needed) can come later.
 
 ## Important note
-Utility regulations, including winter and summer shutoff moratoriums, vary significantly by state. This information is for general stabilization and does not constitute legal or financial advice. If you are in immediate danger due to loss of heat or medical equipment power, call 911.
+This guide provides general information, not legal or financial advice. Shutoff rules and protections vary by state, utility type, and household circumstances. If you feel unsafe, unwell, or unable to advocate for yourself, ask a trusted person to sit with you while you make the call.
 
 ## Additional Resources
-- https://www.usa.gov/help-with-utility-bills
 - https://www.usa.gov/help-with-energy-bills
-- https://www.211.org/get-help/utilities-expenses
-- https://liheapch.acf.hhs.gov/Disconnect/hot-weather.htm
+- https://acf.gov/ocs/programs/liheap
+- https://liheapch.acf.gov/Disconnect/disconnect.htm
+- https://211.org/get-help/utilities-expenses
 - https://consumer.ftc.gov/articles/scammers-pretend-be-your-utility-company
+- https://consumer.ftc.gov/consumer-alerts/2024/07/got-barcode-your-utility-company-make-payment-thats-scam

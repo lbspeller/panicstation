@@ -1,106 +1,93 @@
----
+﻿---
 title: "What to do if… a tyre pressure warning comes on and you have pulled over safely to check it"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
-  - "tire pressure warning light"
-  - "tpms light came on"
-  - "low tire pressure warning"
-  - "tire pressure monitor alert"
-  - "dashboard tire icon"
-  - "pulled over to check tires"
-  - "stopped on shoulder to check"
-  - "possible flat tire warning"
-  - "slow leak suspicion"
-  - "tire pressure dropped suddenly"
-  - "tire looks fine but warning"
-  - "door jamb tire pressure label"
-  - "tire and loading information label"
-  - "roadside tire pressure check"
-  - "gas station air pump"
-  - "tire sidewall bulge concern"
-  - "can i keep driving on tpms"
-  - "tpms warning after inflation"
-  - "tire pressure sensor issue"
-  - "help i have a low tire"
-  - "help my tire light is on"
-  - "what do i do if my tire is low"
-  - "what do i do if tire light stays on"
-  - "what do i do if i see a tire icon"
-  - "what do i do if dashboard says low pressure"
-  - "hissing sound from tire"
-  - "hot tire smell"
-  - "steering pulling to one side"
-  - "vibration in steering wheel"
-  - "tire looks squashed"
-  - "low tyre pressure"
-  - "flat tyre light"
-  - "tire pressure reset procedure"
-  - "tread wear indicator"
-  - "sidewall damage check"
-  - "highway shoulder safety"
-last_reviewed: "2026-03-17"
+  - tire pressure warning light
+  - tpms light came on
+  - low tire pressure warning
+  - tire pressure monitor alert
+  - dashboard tire icon
+  - pulled over to check tires
+  - stopped on shoulder to check
+  - possible flat tire warning
+  - slow leak suspicion
+  - tire pressure dropped suddenly
+  - tire looks fine but warning
+  - door jamb tire pressure label
+  - tire and loading information label
+  - roadside tire pressure check
+  - gas station air pump
+  - tire sidewall bulge concern
+  - can i keep driving on tpms
+  - tpms warning after inflation
+  - tire pressure sensor issue
+  - tyre pressure warning light
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… a tyre pressure warning comes on and you have pulled over safely to check it (USA)
 
 ## Short answer
-Assume at least one tire is significantly underinflated until you verify the pressure with a gauge against the vehicle's placard; do not continue driving if you find visible damage or a tire that cannot hold air.
+Assume at least one tire is underinflated until you confirm with a gauge: check all tires against the door-jamb placard, and don’t continue if any tire is damaged or losing air.
 
 ## Do not do these things
-- Don't continue driving on an underinflated tire to reach a destination, as this causes internal heat buildup that can lead to a blowout.
-- Don't rely on a visual inspection alone; radial tires can be dangerously low (below 20 PSI) without appearing flat.
-- Don't put your body between your car and active traffic while checking pressures or inspecting the tread.
-- Don't inflate or drive on a tire that has visible sidewall bulges, deep cuts, or exposed metal/fabric cords.
-- Don't use the "Max Press" PSI listed on the tire sidewall; this is the tire's structural limit, not the vehicle's safe operating pressure.
+- Don’t keep driving on an underinflated tire “just to get there” — that can cause a blowout or wheel damage.
+- Don’t rely on looking at the tire alone; many low tires don’t look dramatically flat.
+- Don’t put yourself at risk on a busy shoulder (standing close to traffic, kneeling in a live lane, or reaching into the roadway).
+- Don’t inflate a tire with a visible sidewall cut, bulge, or exposed cords — treat that as unsafe to drive.
+- Don’t guess the correct PSI from the tire sidewall; use the vehicle placard (door jamb) or owner’s manual.
 
 ## What to do now
-1. **Ensure the vehicle is fully stabilized and positioned as far from the travel lane as possible.**  
-   - Engage the parking brake and turn on hazard lights.  
-   - If you are on a high-speed highway with a narrow shoulder, remain in the vehicle with your seatbelt on and call for roadside assistance rather than exiting.
+1. **Make the stop as safe as possible before you focus on the tires.**  
+   - Hazard lights on, parking brake on.  
+   - If the shoulder is narrow, visibility is poor, or traffic is close/fast, keep the inspection minimal and switch to getting help rather than taking risks.
 
-2. **Conduct a visual assessment of all four tires and the ground beneath them.**  
-   - Look for tires that appear "squashed" or have a larger contact patch with the road.  
-   - Listen for hissing sounds and look for embedded objects like nails or screws in the tread.  
-   - Check the sidewalls for "scuffing" or dark rings, which indicate the tire has been run while flat.
+2. **Do a quick visual walk-around.**  
+   Look for:
+   - A tire noticeably lower than the others
+   - A nail/screw in the tread
+   - Cuts, bulges, or sidewall damage
+   - Hissing or debris  
+   If anything looks damaged or flat, **don’t drive on it**.
 
-3. **Locate the Tire and Loading Information placard to find the required PSI for your vehicle.**  
-   - Open the driver’s side door and look for the silver, white, or yellow label on the B-pillar (door jamb).  
-   - Note the specific front and rear pressures, as they may differ.
+3. **Check all tires with a pressure gauge.**  
+   - Check each tire’s pressure (and the spare if you have one and it’s accessible).  
+   - Compare to the **recommended cold inflation pressure** on the Tire and Loading Information label (commonly on the driver’s door jamb).
 
-4. **Measure the pressure of every tire using a handheld gauge if you have one available.**  
-   - Remove the valve cap, press the gauge firmly onto the valve stem, and wait for a stable reading.  
-   - Check the spare tire if your vehicle is equipped with one, as a low spare can sometimes trigger the warning light.  
-   - If your vehicle has a tire repair kit (sealant/compressor) instead of a spare, check that the canister is unexpired.
+4. **If a tire is low but not obviously damaged, inflate to the placard PSI — then re-check.**  
+   - Inflate to the placard PSI.  
+   - Re-check the gauge reading to confirm it’s correct.
 
-5. **Determine if the vehicle is safe to move based on the pressure readings and tire condition.**  
-   - **Safe to drive (cautiously):** The tire is slightly low (within 5-8 PSI of the placard), holds air when filled, and shows no physical damage.  
-   - **Unsafe to drive:** The tire is below 15-20 PSI, shows sidewall damage, has a visible puncture, or the vehicle felt unstable/vibrated before you stopped.
+5. **Make the “continue vs don’t continue” call based on safety.**  
+   - **Okay to continue (cautiously):** pressures are corrected, no damage seen, and the tire is not dropping again.  
+   - **Do not continue:** any tire won’t hold air, you see sidewall damage/bulge, you can’t change a tire safely, or the vehicle feels unstable.
 
-6. **Call for professional assistance if the tire is damaged or you cannot safely add air.**  
-   - Dial **911** only if you are in a live lane, have been involved in a collision, or your location creates an immediate traffic hazard.  
-   - Call your roadside assistance provider or **511** (where available for freeway assist) if you are in a safe spot but cannot resolve the tire issue.
+6. **If you’re in immediate danger, call for emergency help; otherwise call roadside assistance.**  
+   - Call **911** if you’re in/near a live lane, you’re blocked on a curve, there’s a crash/injuries, fire/smoke, or you feel unsafe where you are.  
+   - Otherwise, call your roadside assistance provider (insurance/auto club/manufacturer) and tell them what you measured and what you saw.
 
-7. **Perform a system reset only after you have confirmed all tires are at the correct pressure.**  
-   - Refer to your owner’s manual for the specific reset sequence; some vehicles require a button press while parked, while others require driving at 20+ mph for several minutes.  
-   - If the light flashes for 60-90 seconds before staying solid, this indicates a system malfunction (faulty sensor) rather than low pressure.
+7. **If the warning stays on after pressures are correct, treat it as “needs service soon,” not “ignore.”**  
+   - Some vehicles update after a short drive; others require a reset procedure in the owner’s manual.  
+   - If the light remains on despite correct pressures, arrange a tire shop/service check for leaks, valve issues, or a TPMS fault.
 
 ## What can wait
-- You do not need to identify exactly what caused the pressure drop (e.g., a slow leak vs. a sudden temperature change) while on the shoulder.
-- You do not need to book a professional tire repair or replacement until you have reached a safe, permanent location.
-- You do not need to worry about long-term tread wear or alignment issues until the immediate inflation problem is stabilized.
+- You do **not** need to figure out the exact cause right now (temperature change vs slow leak vs sensor issue).
+- You do **not** need to buy parts or book repairs while you’re on the shoulder; the priority is confirming the tires are safe to drive on.
+- You do **not** need to do any reset steps if they distract you or require extra driving around; do that once you’re somewhere safe.
 
 ## Important reassurance
-A tire pressure warning is a standard safety alert designed to give you time to act before a failure occurs. Most low-pressure issues are caused by seasonal temperature drops or minor slow leaks that are easily manageable once you have identified which tire is affected.
+A TPMS warning is common and often fixable. Pulling over and checking early reduces the risk of a sudden tire failure and helps you make a calm, safe decision about whether to continue.
 
 ## Scope note
-This guide covers first-step stabilization for a TPMS alert. It is not a guide for changing a flat tire or performing permanent repairs. If a tire is visibly shredded or the rim is touching the ground, do not attempt to inflate it.
+This is first-steps guidance for the moment you’ve stopped. If you find damage, repeated air loss, or you’re stopped somewhere exposed, the safest next step is professional roadside help rather than troubleshooting under pressure.
 
 ## Important note
-This information is for general guidance and does not replace the specific instructions in your vehicle's owner's manual. Tire failures can happen suddenly; if the car feels difficult to steer or makes unusual noises, stop immediately and seek professional mechanical help.
+This guide is general information, not mechanical or legal advice. If you’re unsure it’s safe to drive, or the location makes checking unsafe, prioritise personal safety and get professional help.
 
 ## Additional Resources
-- https://www.nhtsa.gov/vehicle-safety/tires
-- https://www.nhtsa.gov/sites/nhtsa.gov/files/brochure.pdf
-- https://www.nhtsa.gov/sites/nhtsa.gov/files/2021-11/Tires_InTheGarage_Infographic_102621_v1_-eng-tag.pdf
-- https://cluballiance.aaa.com/the-extra-mile/series/the-extra-mile-magazine/how-to-check-and-correct-tire-pressure
-- https://cluballiance.aaa.com/the-extra-mile/advice/car/what-is-a-tpms-light-and-why-is-it-on
+- https://www.ace.aaa.com/automotive/advocacy/what-to-do-if-car-breaks-down-guide.html
+- https://tires.bridgestone.com/en-us/learn/tire-maintenance/tpms-light-on
+- https://www.schradertpms.com/en/driver-education/what-do-when-your-tpms-light-turns
+- https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/tirepressure-fmvss-138.pdf
+- https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.138

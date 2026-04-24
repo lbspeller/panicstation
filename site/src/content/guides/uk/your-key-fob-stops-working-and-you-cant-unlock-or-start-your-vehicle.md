@@ -1,82 +1,79 @@
----
+﻿---
 title: "What to do if… your key fob stops working and you can’t unlock or start your vehicle"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "key fob not working"
-  - "car key fob stopped working"
-  - "keyless entry not working"
-  - "keyless start not working"
-  - "push button start not detecting key"
-  - "locked out of car key fob"
-  - "can't unlock car with remote"
-  - "can't start car with fob"
-  - "dead key fob battery"
-  - "flat car key battery"
-  - "emergency key in key fob"
-  - "hidden keyhole on door handle"
-  - "car won't detect key"
-  - "no key detected error"
-  - "help i am locked out of my car"
-  - "what do i do if my car key battery is dead"
-  - "what do i do if my key fob is not responding"
-  - "what do i do if i cannot start my car push button"
-  - "what do i do if my smart key is broken"
-  - "my car won't open with the remote"
-  - "my keyless start isn't working"
-  - "help i cannot get into my vehicle"
-  - "my car alarm is going off and won't stop"
-  - "smell of battery acid near car"
-  - "visible corrosion on key fob"
-  - "red light on key fob not flashing"
-  - "car key buttons feel stuck"
-  - "immobiliser light flashing on dashboard"
-  - "central locking failure uk"
-  - "broken car key help"
-last_reviewed: "2026-03-17"
+  - key fob not working
+  - car key fob stopped working
+  - keyless entry not working
+  - keyless start not working
+  - push button start not detecting key
+  - locked out of car key fob
+  - can't unlock car with remote
+  - can't start car with fob
+  - dead key fob battery
+  - flat car key battery
+  - emergency key in key fob
+  - hidden keyhole on door handle
+  - car won't detect key
+  - stranded in car park
+  - roadside breakdown help
+  - spare car key missing
+  - car alarm triggered by manual key
+  - smart key not responding
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your key fob stops working and you can’t unlock or start your vehicle (UK)
 
 ## Short answer
-Use the physical emergency key blade hidden inside your fob to manually unlock the driver's door and then hold the fob directly against the start button or designated backup slot to start the engine. If the vehicle has no power at all, contact your breakdown provider for a suspected flat 12V vehicle battery.
+Get yourself to a safe, well-lit pause, then use the physical emergency key and your vehicle’s backup start method (often holding the fob against the start button). If you still can’t get in or start it, call your breakdown provider or a reputable locksmith rather than forcing entry.
 
 ## Do not do these things
-- Do not remain in an isolated or unlit area while troubleshooting the vehicle.
-- Do not apply significant force to the door handle covers or the emergency key blade.
-- Do not attempt to pry open the door or window with improvised tools, as this can trigger side-impact airbags or damage electronic seals.
-- Do not smash a window unless there is an immediate threat to life, such as a child or animal trapped inside in high temperatures.
-- Do not repeatedly press the fob buttons, as this can deplete a weak battery entirely.
+- Don’t stay in an unsafe place to troubleshoot — move to a staffed, well-lit spot first (petrol station/shop) and work from there.
+- Don’t keep pressing the fob buttons repeatedly for minutes — it can drain a weak fob battery faster and increases stress.
+- Don’t try to “jimmy” the door with improvised tools (coat hangers, wedges, screwdrivers) — it commonly damages seals, wiring, airbags, or paint.
+- Don’t smash a window unless there’s an immediate safety emergency (for example, someone in the vehicle in distress).
+- Don’t accept help from a stranger who approaches offering “locksmith” services without checking identity and agreeing the total price first.
 
 ## What to do now
-1. **Move to a safe location and ensure you have a means of communication.** If you are in a dark or isolated area, relocate to a staffed building or well-lit public space before attempting further troubleshooting. If you are in immediate physical danger, call **999**.
-2. **Attempt to unlock the vehicle from a closer distance.** Stand immediately next to the driver's door handle and press the unlock button; a weak battery may still function at very close range.
-3. **Extract the manual emergency key from the fob.** Look for a small sliding switch or release button on the side or back of the plastic fob housing. Pull the metal blade out once released.
-4. **Locate the manual key cylinder on the driver’s door.** Check the door handle for a visible keyhole or a small plastic cap at the end of the handle. If a cap is present, look for a small notch on the underside where the key blade can be inserted to gently pop the cover off.
-5. **Manually unlock the door and enter the vehicle.** Insert the metal blade and turn it to unlock; be prepared for the vehicle alarm to sound if the system does not recognize the manual entry.
-6. **Identify the vehicle's emergency start location.** **Check the steering column, the center console, or the area immediately surrounding the start button for a key icon or a small slot.** 
-   - If no slot is visible, press the brake pedal (automatic) or clutch (manual) and hold the key fob directly against the Start / Stop button while pressing it.
-7. **Verify the status of the vehicle’s 12V battery.** If the dashboard remains dark and no interior lights appear when the door is opened, the issue is likely a flat car battery rather than a fob failure.
-8. **Contact professional assistance if the vehicle fails to start.** Call your breakdown provider (e.g., AA, RAC, Green Flag) and specify that you have a "lockout" or "no-start" situation involving a keyless system.
-   - If you require a locksmith, ensure they are members of the Master Locksmiths Association (MLA).
-   - Have your V5C logbook and photo ID ready to prove ownership before the technician arrives.
+1. **Get to a safer pause and protect your phone battery.** Step into a nearby staffed place if you’re isolated, it’s dark, or you feel uneasy. If you feel threatened, call **999**.
+2. **Do a 30-second quick check.**
+   - Try your **spare key/fob** if you have one.
+   - If the fob was **dropped or got wet**, assume it may have failed and move straight to manual entry + backup start.
+3. **Use the physical emergency key to get into the car.**
+   - Most fobs have a **hidden metal key** that slides out.
+   - The driver door key cylinder may be behind a small cover near the handle. Use the emergency key to release it if needed (avoid sharp tools that can scratch).
+4. **If the alarm sounds after manual unlocking, keep it simple.**
+   - Get in, close the door, and try the **backup start** method below.
+   - If the alarm **doesn’t stop quickly** once the vehicle recognises/disarms, stop repeatedly locking/unlocking and move to step 7 (call for help).
+5. **Try the vehicle’s “backup start” method (works on many cars even with a dead fob battery).**
+   - Many push-button start cars can still read the fob’s chip when you **hold the fob right against the start button** while starting.
+   - Some cars have a **designated slot/pocket** where the fob must be placed. If you’re unsure, check your handbook (paper copy at home, or any manufacturer handbook app/site you can access on your phone).
+6. **If the car seems totally unpowered, consider the *car’s* 12V battery.**
+   - No interior lights and no dashboard response often points to a **flat vehicle battery**, which needs a jump/battery support rather than a fob fix.
+7. **Call the right help and tell them exactly what you’re seeing.**
+   - **Breakdown provider / insurer roadside assistance:** ask for **lockout assistance** and/or **battery help**. Say: “keyless entry + push-button start; fob not working; car has/doesn’t have dash power.”
+   - If you need a replacement key/fob urgently, contact your **manufacturer/dealer** or a service such as **AA Key Assist** (they can arrange replacement/cutting/programming depending on vehicle).
+   - If using a locksmith: choose a **reputable, local** firm, confirm total cost before dispatch, and ask what proof of ownership they’ll require.
 
 ## What can wait
-- You do not need to replace the fob battery immediately if the manual start method works.
-- You do not need to reprogram the vehicle’s security system today unless a technician confirms a software fault.
-- You do not need to decide on a permanent spare key solution while at the roadside.
+- You do **not** need to decide today whether to replace the whole fob, reprogram keys, or change your breakdown policy.
+- You do **not** need to do roadside electronics troubleshooting beyond the steps above.
+- You can deal with prevention later (fresh spare battery, spare key plan, where the manual keyhole is) once you’re home.
 
 ## Important reassurance
-Most modern keyless systems include a passive RFID chip that does not require battery power to start the engine when held in the correct backup position. Being unable to unlock the car remotely is a common occurrence and does not necessarily indicate a permanent failure of the vehicle's electronics.
+This is a common situation and it’s usually fixable with the emergency key plus the backup start method, or with a straightforward breakdown/locksmith call. The priority right now is your safety and getting unstuck — not diagnosing the exact cause.
 
 ## Scope note
-This guide provides first-step stabilization for gaining entry and starting a vehicle with a non-responsive key fob. It does not cover long-term electronic repairs, battery replacement procedures, or mechanical lock failures.
+These are first steps to regain safe access/start and connect you with the right help. If the fob still won’t work afterwards, the next stage is non-urgent: replace the fob battery, check for damage/water ingress, and (if needed) arrange dealer or specialist key programming.
 
 ## Important note
-Vehicle security systems vary significantly by manufacturer, model, and year. If manual entry requires excessive force or if you suspect the vehicle has been tampered with, stop immediately and contact your breakdown service or the police non-emergency line on 101.
+This is general information, not vehicle-specific mechanical or legal advice. Keyless systems vary by make/model/year; if anything would require force or uncertain disassembly, stop and use a breakdown service or reputable locksmith.
 
 ## Additional Resources
 - https://www.rac.co.uk/drive/advice/know-how/key-fob-not-working-heres-what-to-do/
-- https://www.rac.co.uk/drive/advice/know-how/help-my-car-wont-start-what-do-i-do/
-- https://www.theaa.com/driving-advice/security/keys
-- https://www.rac.co.uk/car-care/car-repairs/key-programming-and-codes
+- https://blog.greenflag.com/2020/keyless-entry-advice/
+- https://www.startrescue.co.uk/breakdown-cover/motoring-advice/car-servicing-and-repairs/car-wont-start-here-are-common-causes-and-solutions
 - https://www.theaa.com/breakdown-cover/key-assist
+- https://www.theaa.com/driving-advice/security/keys

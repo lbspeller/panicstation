@@ -1,98 +1,88 @@
----
+﻿---
 title: "What to do if… you are told you must provide biometric information for entry and you feel unprepared"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "biometric information for entry"
-  - "fingerprints at the airport"
-  - "facial photo at border"
-  - "cbp facial biometrics"
-  - "border biometrics surprise"
-  - "asked for biometrics suddenly"
-  - "immigration biometrics confusion"
-  - "secondary inspection anxiety"
-  - "visa biometrics appointment confusion"
-  - "uscis biometrics appointment panic"
-  - "application support center biometrics"
-  - "entry requirements surprise"
-  - "unsure request is official"
-  - "worried about biometric data misuse"
-  - "travel documents not ready"
-  - "denied entry fear"
-  - "traveling abroad border checks"
-  - "what do i do if i need to give fingerprints"
-  - "what do i do if they take my photo at customs"
-  - "what do i do if i missed uscis biometrics"
-  - "what do i do if airport biometrics fail"
-  - "help i am at the border and confused"
-  - "help i am unprepared for biometrics"
-  - "help i do not want to give biometrics"
-  - "my fingerprints are not working at customs"
-  - "my photo was taken at the gate"
-  - "biometric entry exit program"
-  - "simplified arrival facial recognition"
-  - "uscis reschedule 12 hour rule"
-  - "official cbp biometric signage"
-  - "manual passport check request"
-  - "opt out of facial recognition"
-  - "fingerprint collection at us border"
-  - "biometric data retention 75 years"
-  - "secondary inspection waiting area"
-last_reviewed: "2026-03-17"
+  - biometric information for entry
+  - fingerprints at the airport
+  - facial photo at border
+  - cbp facial biometrics
+  - border biometrics surprise
+  - asked for biometrics suddenly
+  - immigration biometrics confusion
+  - secondary inspection anxiety
+  - visa biometrics appointment confusion
+  - uscis biometrics appointment panic
+  - application support center biometrics
+  - entry requirements surprise
+  - unsure request is official
+  - worried about biometric data misuse
+  - travel documents not ready
+  - denied entry fear
+  - traveling abroad border checks
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you are told you must provide biometric information for entry and you feel unprepared (USA)
 
 ## Short answer
-Verify the identity of the person making the request and confirm your citizenship status; U.S. citizens may opt out of facial biometrics in favor of a manual check, while non-citizens are generally required to comply to secure entry or boarding. If you are at a designated Application Support Center (ASC) for a visa/green card and are unprepared, you must reschedule via your myUSCIS account at least 12 hours before the appointment.
+Stop and confirm whether the biometrics request is coming from an **official border/immigration authority** or a legitimate visa/permit process. If it’s legitimate but you’re unprepared, ask for a **clear explanation and options** (step aside, interpreter, contact the airline/consulate) rather than rushing into anything you can’t verify.
 
 ## Do not do these things
-- Do not provide biometrics to anyone not in an official government uniform or at a clearly marked official station.
-- Do not use third-party websites or QR codes found in public to "book" or "pay" for biometrics.
-- Do not sign any document titled "Withdrawal of Application for Admission" or similar without understanding that it may result in immediate removal from the U.S.
-- Do not attempt to physically bypass biometric kiosks or cameras once directed to use them by an officer.
-- Do not assume that refusing biometrics at the border is a right for non-U.S. citizens; it typically results in a denial of entry.
+- Do not provide fingerprints/face scans to “agents,” websites, QR codes, or phone links you can’t verify as official.
+- Do not pay a stranger or third-party “fixer” at the airport to “process” your entry or “book biometrics.”
+- Do not sign forms you don’t understand; request an interpreter or a written explanation you can keep.
+- Do not hand over passwords or unlock your phone for unofficial personnel. If an official request is made, ask what authority/policy it’s under and what the consequences are; understand refusal may affect your processing or entry.
+- Do not delete travel emails, appointment notices, or boarding passes in a rush.
 
 ## What to do now
-1. **Determine your eligibility to opt out based on citizenship.** **U.S. citizens have the right to opt out of facial recognition (facial biometrics) at U.S. ports of entry and boarding gates.**
-   - If you are a U.S. citizen, notify the Customs and Border Protection (CBP) officer or airline representative that you wish to opt out and request a manual inspection of your passport.
-   - If you are a non-U.S. citizen (including Lawful Permanent Residents in most cases), facial biometrics and/or fingerprints are mandatory for entry and exit under the 2026 comprehensive biometric program.
+1. **Clarify where you are and who is asking**
+   - **At a U.S. port of entry (airport/land border/seaport):** ask which agency is collecting biometrics and whether it is part of entry processing.
+   - **Entering another country from the U.S.:** treat messages as unverified until confirmed on that country’s official site.
+   - **At a biometrics appointment location:** ask staff to confirm the agency and what notice/ID is required to be admitted.
 
-2. **Verify the official nature of the request if you are not at a standard booth.** **Ask for the name of the agency and the specific reason for the collection (e.g., identity verification for entry or exit).**
-   - Look for official Department of Homeland Security (DHS) or CBP signage at the location.
-   - If the request is via a mobile device, ensure the officer is in a full CBP uniform and the device is an official government-issued tool.
+2. **Ask for the minimum clear facts (and write them down)**
+   - What biometrics: photo, fingerprints, signature?
+   - Is it mandatory **today**? What happens if you cannot complete it now?
+   - Is there an alternative (later appointment, different location, withdrawal/rebook)?
 
-3. **Request an interpreter or a "safe pause" if you cannot understand the instructions.** **If you are overwhelmed or do not understand the forms, state clearly that you require a moment or an interpreter.**
-   - Say: "I am not refusing, but I do not understand these instructions and need an interpreter."
-   - Ask to be moved to a secondary inspection area or a waiting area where you can sit down and review your documents.
+3. **Verify legitimacy the “safe way”**
+   - Use only official **.gov** sources (type the site address yourself; don’t click message links).
+   - For U.S. government processes, verify via official CBP / USCIS / State Department pages.
+   - If you’re in person, ask for the agency name and any printed notice or official signage that explains what you’re being asked to do.
 
-4. **Identify if the request is for a USCIS appointment rather than a border check.** **If you are at a USCIS Application Support Center (ASC) and realize you lack the proper ID or notice, you must act before the appointment time.**
-   - Check the time; if your appointment is more than 12 hours away, use your myUSCIS online account to reschedule immediately.
-   - If it is less than 12 hours away or you have already arrived, speak to the staff about a "walk-in" later that day or call the USCIS Contact Center at 1-800-375-5283.
+4. **If you’re at the border and overwhelmed, request a safer pause**
+   - Say: “I’m not refusing. I’m not prepared and I need clarification / an interpreter / a moment to contact someone.”
+   - Ask if you can step aside to a waiting area while you gather documents and make a call.
 
-5. **Clarify the consequences of being "unprepared" versus "refusing."** **Ask the officer what the specific result will be if you cannot provide the biometrics at this exact moment.**
-   - For non-citizens, being "unprepared" (e.g., having damaged fingertips or being unable to look at a camera) may lead to secondary inspection for manual verification.
-   - Outright refusal by a non-citizen generally triggers a denial of entry or a "Refusal of Admission."
+5. **If you cannot comply right now (missing documents, wrong place, no valid appointment)**
+   - Ask what your immediate options are: waiting, rebooking, returning on the next flight, or formal refusal/withdrawal processing (terminology varies).
+   - Ask what written record they can provide (if any). If they can’t provide paperwork, note the time, location, and the stated reason.
 
-6. **Contact consular services if you are a U.S. citizen facing biometrics issues abroad.** **If a foreign border authority is demanding biometrics you feel are unsafe or unofficial, contact the nearest U.S. Embassy.**
-   - Call +1 202-501-4444 (State Department) if you are outside the U.S. and need emergency assistance regarding travel documentation or detention.
+6. **If this is a USCIS biometrics appointment (not border collection)**
+   - Find your appointment notice and required ID list.
+   - If your USCIS online account/notice offers an official rescheduling option, use that. Otherwise use USCIS’s official rescheduling guidance (and avoid third-party “appointment reschedulers”).
+
+7. **Get U.S. consular help if you’re abroad or in serious trouble**
+   - If you are outside the U.S. and you’re detained, threatened, or unable to safely leave the immigration area, ask local authorities to notify the **U.S. embassy/consulate**, and use the State Department’s help-abroad channels to reach assistance.
 
 ## What can wait
-- You do not need to decide whether to file a privacy complaint or a civil rights grievance right now.
-- You do not need to research data retention policies (75 years for non-citizens, 12 hours for U.S. citizens) while at the booth.
-- You do not need to resolve long-term visa or residency questions during the biometric capture process.
+- You don’t need to decide right now whether to complain, request records, or take legal action.
+- You don’t need to resolve broader privacy concerns in the moment—focus on verifying legitimacy and keeping your immediate options open.
+- You can handle rebooking, refunds, and formal follow-up after you are safe and have a clear record of what happened.
 
 ## Important reassurance
-Biometric processing is a standard, automated part of modern U.S. border security and immigration. Feeling startled or unprepared when asked for sensitive data is a common reaction. Most biometric captures at the border take less than 10 seconds and are handled by automated systems. Taking a moment to verify the officer's identity and your own rights can help you regain a sense of control.
+This situation feels intense because it’s sensitive personal data and you may feel cornered. Your job is to slow things down: verify who is asking, understand the consequences, and avoid giving biometrics to anyone unofficial. Staying calm and procedural is often the fastest route back to control.
 
 ## Scope note
-This guide provides first-step stabilization for immediate encounters with biometric requests at U.S. borders or USCIS offices. It does not cover specific legal strategies for asylum seekers, those in removal proceedings, or biometrics for criminal investigations.
+This is first-steps guidance for the moment you learn biometrics are required and you feel unprepared. Requirements vary by destination, citizenship, visa status, and port of entry—confirm the exact rule set for your situation using official sources once you’ve stabilised.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Biometric regulations are subject to federal law and Department of Homeland Security policy changes. Non-U.S. citizens should be aware that compliance with biometric requirements is typically a condition of admission to the United States.
+This is general information, not legal advice. Border and visa rules can change and may be applied differently depending on your circumstances. If you are in immediate danger or detention, prioritise safety and contact the nearest U.S. embassy/consulate or the State Department for assistance.
 
 ## Additional Resources
-- https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/border-biometrics.html
-- https://travel.state.gov/content/travel/en/us-visas/other-visa-categories/safety.html
-- https://travel.state.gov/content/travel/en/us-visas/immigrate/the-immigrant-visa-process/step-10-prepare-for-the-interview/step-11-applicant-interview.html
-- https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/forms/ds-160-online-nonimmigrant-visa-application/ds-160-faqs.html
-- https://my.uscis.gov/citizenship/what_to_expect
+- https://travel.state.gov/en/international-travel/help-abroad.html
+- https://www.cbp.gov/travel/biometrics/environments
+- https://www.cbp.gov/newsroom/national-media-release/dhs-announces-final-rule-advance-biometric-entry/exit-program
+- https://www.uscis.gov/forms/filing-guidance/preparing-for-your-biometric-services-appointment
+- https://www.uscis.gov/newsroom/news-releases/uscis-launches-online-rescheduling-of-biometrics-appointments

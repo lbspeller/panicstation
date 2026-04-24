@@ -1,107 +1,98 @@
----
+﻿---
 title: "What to do if… you receive a notice that an online account will be deleted soon for inactivity"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "account deletion notice"
-  - "account will be deleted"
-  - "inactive account warning"
-  - "inactivity deletion email"
-  - "account closure for inactivity"
-  - "account deactivation notice"
-  - "losing access to online account"
-  - "data loss risk"
-  - "email says account deleted soon"
-  - "service says inactive"
-  - "keep account active"
-  - "download your data"
-  - "export account data"
-  - "verify email is real"
-  - "prevent account takeover"
-  - "recovery email check"
-  - "phone number recovery"
-  - "two-step verification"
-  - "phishing account deletion scam"
-  - "account scheduled for closure"
-  - "deadline to keep account"
-  - "online account deletion help"
-  - "what do i do if my account is being deleted"
-  - "what do i do if i get an inactivity email"
-  - "what do i do if i lose access to my data"
-  - "help i got an account closure notice"
-  - "my account is inactive"
-  - "my email says it will be deleted"
-  - "my photos are at risk of deletion"
-  - "smell of scam email"
-  - "fake account deletion warning"
-  - "suspicious security notice"
-  - "how to keep an inactive account"
-  - "automated account closure UK"
-  - "digital legacy data loss"
-last_reviewed: "2026-03-17"
+  - account deletion notice
+  - account will be deleted
+  - inactive account warning
+  - inactivity deletion email
+  - account closure for inactivity
+  - account deactivation notice
+  - losing access to online account
+  - data loss risk
+  - email says account deleted soon
+  - service says inactive
+  - keep account active
+  - download your data
+  - export account data
+  - verify email is real
+  - prevent account takeover
+  - recovery email check
+  - phone number recovery
+  - two-step verification
+  - phishing account deletion scam
+  - account scheduled for closure
+  - deadline to keep account
+last_reviewed: "2026-03-08"
 ---
-# What to do if… you receive a notice that an online account will be deleted soon for inactivity (UK)
 
+# What to do if… you receive a notice that an online account will be deleted soon for inactivity (UK)
 ## Short answer
-Do not click links or buttons in the notification. Manually type the official website address into a browser, sign in securely, and immediately use the service’s "Export" or "Download Data" tool to save your files.
+Don’t click links in the message. Go to the service by typing the address yourself, sign in, and immediately export/download anything you’d be upset to lose.
 
 ## Do not do these things
-- Do not log in using any link or "Keep Account" button provided in an email or text message.
-- Do not provide your password, multi-factor codes, or recovery keys to anyone requesting them via message.
-- Do not assume the data can be recovered after the stated deadline; many providers use permanent, automated deletion.
-- Do not use a public or shared computer to access sensitive accounts if a private device is available.
-- Do not ignore the notice if you have irreplaceable photos, documents, or purchase history linked to the account.
+- Don’t log in via buttons/links in the email or text (these notices are commonly mimicked by scammers).
+- Don’t “confirm your password”, one-time codes, or recovery codes in response to a message.
+- Don’t ignore it assuming you can recover everything later — deletion can be irreversible once it happens.
+- Don’t start changing lots of security settings until you’ve confirmed you’re on the real site/app (panic-clicking can lock you out).
+- Avoid using a public/shared computer if you can. If you must, use a private/incognito window, don’t save passwords, and sign out fully.
 
 ## What to do now
-1. **Open a new browser window and navigate to the service manually.**  
-   **Type the official URL (e.g., google.com, outlook.com) directly into the address bar.** Do not use search engine results or bookmarks if you suspect your device may be compromised.
+1. **Pause and treat it as potentially fake until proven real.**  
+   Don’t click anything in the notice. Open a fresh browser/app and type the service name/address yourself (or use a bookmark you already trust).
 
-2. **Check for internal notifications once you are signed in.**  
-   **Look for a red banner or a message in your "Security" or "Account Settings" tab that mirrors the deletion warning.** If the account dashboard shows no warnings about inactivity or closure, the email you received is likely a phishing attempt.
+2. **Verify whether the account is actually at risk inside the account settings.**  
+   Once signed in via the real site/app, look for items like **“Account status,” “Inactive,” “Deactivation,” “Closure,” “Data retention,”** or **“Security notices.”** If there’s no warning inside the account, assume the message may be a scam.
 
-3. **Perform a "Core Activity" action to reset the inactivity timer.**  
-   **Execute a single, standard action within the account that the provider recognizes as activity.**  
-   - Send a test email from the account.
-   - Open and save a file in the associated cloud storage.
-   - View a photo or video stored on the platform.
+3. **If you want to keep the account, do a small, reversible action that often counts as “activity” (it varies by provider).**  
+   Don’t do anything risky. Examples that *often* count include: signing in, using a core feature briefly (send a test email; open/edit and save a document), or confirming you still control the account. Then sign out and sign back in once to confirm you still have access.
 
-4. **Initiate an immediate data export.**  
-   **Locate the "Download your data" or "Takeout" tool in your privacy settings.** Start the process even if you intend to keep the account. Prioritise:
-   - Personal media (photos and videos).
-   - Contact lists and sent/received messages.
-   - Legal documents, tax receipts, and purchase history.
+4. **Immediately download/export your data (even if you plan to keep the account).**  
+   Look for **Export / Download your data / Transfer your data / Archive / Backup**. Prioritise:
+   - **Anything irreplaceable:** photos, messages, contacts, documents, notes
+   - **Anything that proves ownership:** receipts, licences, purchase history, subscriptions  
+   Save exports in **two places** (for example: your computer + an external drive, or two separate cloud storage accounts).
 
-5. **Verify your recovery information.**  
-   **Ensure the recovery email address and phone number currently listed are correct and accessible.** Update these immediately if they belong to a former employer or an old phone provider.
+5. **Do a quick security check (high-impact, low-drama).**
+   - Check **recovery email/phone** are current and belong to you.
+   - Turn on **two-step verification** if available.
+   - Review **recent sign-ins/devices** and sign out of anything you don’t recognise (if the service provides this).
 
-6. **Enable Two-Step Verification (2SV).**  
-   **Turn on an additional layer of security if the account does not already have it.** This prevents scammers from taking over the account if they have already obtained your password through a fake deletion notice.
+6. **If you can’t sign in, move fast but stay on official routes.**
+   - Use the provider’s **“Can’t sign in?” / “Forgot password?”** flow from the real site/app.
+   - Take screenshots of any **error codes** and the stated **deadline**.
+   - Use the provider’s official **help centre** route — avoid “support” numbers found in messages or ads.
 
-7. **Contact your IT department for work or school accounts.**  
-   **Notify your administrator if the account is managed by an organisation.** Institutional accounts often follow strict retention policies that individual users cannot override manually.
+7. **If this is a work/school account, notify the right person today.**  
+   Contact your IT/admin/helpdesk and share: **the account address, the deletion deadline, and what data is at risk**. Organisational accounts often have different retention rules and only admins can stop deletion.
 
-8. **Report suspicious messages to the NCSC.**  
-   **Forward suspicious emails to report@phishing.gov.uk and forward suspicious texts to 7726.** If you have already entered your details into a suspicious link:
-   - Change your password immediately on the real site.
-   - Report the incident to Report Fraud (England, Wales, and NI) or call Police Scotland on 101.
+8. **If you suspect it’s a scam, report it using UK routes and contain it.**
+   - Forward suspicious emails to **report@phishing.gov.uk**. Forward suspicious texts to **7726** (free).
+   - If you think you’ve been hacked or lost money, report it via **Report Fraud** (England/Wales/Northern Ireland). In **Scotland**, report to **Police Scotland** (101) if you’ve been a victim.
+   - Mark the message as **phishing/spam** in your email app.
+   - If you clicked a link or entered details: go to the real site/app and **change your password**, and review **recent login activity**.
 
 ## What can wait
-- You do not need to decide whether to close the account permanently today.
-- You do not need to organise the downloaded files or delete unwanted data right now.
-- You do not need to research "perfect" backup solutions; a single local copy of your data is sufficient for immediate safety.
+- You don’t need to decide whether to permanently leave the service today.
+- You don’t need to reorganise your whole digital life or move everything perfectly right now.
+- You don’t need to chase the “best” backup method — a fast export in two places is enough for today.
+- You don’t need to debate policy details before you’ve secured a copy of your data.
 
 ## Important reassurance
-Inactivity notices are standard automated procedures for most major tech companies, but they are also a common template for scammers. It is normal to feel a sense of urgency when threatened with data loss. By following official sign-in routes and prioritising a data export, you can secure your information regardless of whether the original message was genuine.
+These notices are designed to create urgency — and scammers copy that style. Slowing down to verify the message first is the safest move. If you act in the right order (verify → sign in safely → export → secure), you usually avoid the worst outcomes even if the deadline feels close.
 
 ## Scope note
-This guide provides first-step stabilization for individual users facing potential account closure or phishing. It does not cover legal disputes over account ownership or complex data migration for enterprise-level systems.
+This is first-steps-only guidance to prevent sudden data loss and account takeover. Later, you may want specialist help for account recovery disputes, business accounts, or complex data migration.
 
 ## Important note
-This information is for general guidance and does not constitute technical or legal advice. Terms of service regarding inactivity and data retention vary by provider and are subject to change. Always refer to the official documentation provided by your service provider for the most current policy details.
+This is general information, not legal, security, or IT advice. Account policies vary by provider and account type; if you can’t confirm something inside the service itself, proceed cautiously and use the provider’s official support channels.
 
 ## Additional Resources
-- https://ico.org.uk/for-the-public/getting-copies-of-your-information-subject-access-request/
-- https://ico.org.uk/for-the-public/make-a-subject-access-request/
-- https://ico.org.uk/for-the-public/your-right-to-data-portability/
-- https://ico.org.uk/for-the-public/your-right-to-get-your-data-deleted/
-- https://ico.org.uk/for-the-public/how-to-make-a-data-protection-complaint/
+- https://support.google.com/accounts/answer/12418290?hl=en
+- https://www.microsoft.com/servicesagreement
+- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
+- https://consumer.ftc.gov/consumer-alerts/2025/04/protect-yourself-phishing-scams
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
+- https://www.reportfraud.police.uk/phishing/
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/right-to-data-portability/

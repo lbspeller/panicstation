@@ -1,98 +1,92 @@
----
+﻿---
 title: "What to do if… your device says the startup disk is not detected and you still need the data on it"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "administrator permission prompt"
-  - "unexpected admin pop-up"
-  - "uac prompt windows"
-  - "administrator protection windows 11"
-  - "mac admin password request"
-  - "help i have a strange admin prompt"
-  - "my laptop keeps asking for admin"
-  - "what do i do if settings need admin"
-  - "what do i do if a prompt appears"
-  - "permission request for settings change"
-  - "unknown publisher warning windows"
-  - "unverified app asking for access"
-  - "elevation request out of nowhere"
-  - "smell of burning hardware"
-  - "device feels unusually hot"
-  - "strange clicking noise from laptop"
-  - "frozen screen with admin prompt"
-  - "blue screen after admin request"
-  - "admin password prompt loop"
-  - "help i typed my password into a pop-up"
-  - "scam support number in prompt"
-  - "unexpected password request mac"
-  - "system settings blocked by admin"
-  - "work laptop permission error"
-  - "account suddenly standard not admin"
-  - "malware admin prompt signs"
-  - "virus asking for permission"
-  - "phishing pop-up on desktop"
-  - "suspicious msi repair prompt"
-  - "unexpected elevation windows 2026"
-last_reviewed: "2026-03-17"
+  - startup disk not detected
+  - startup disk missing
+  - boot disk not found
+  - no boot device found
+  - disk not showing up
+  - drive not detected
+  - ssd not detected
+  - hard drive not detected
+  - mac won’t boot
+  - windows won’t boot
+  - bios cannot see drive
+  - disk utility can’t see disk
+  - bitlocker recovery key needed
+  - filevault recovery key needed
+  - need data off the drive
+  - recover files from dead laptop
+  - accidental format warning
+  - data recovery first steps
+  - important photos and documents
+  - computer failure after update
+last_reviewed: "2026-03-08"
 ---
-# What to do if… your device says the startup disk is not detected and you still need the data on it (UK)
 
+# What to do if… your device says the startup disk is not detected and you still need the data on it (UK)
 ## Short answer
-Do not enter any credentials or click "Allow." Disconnect the device from the internet if the prompt appeared without a clear user-initiated action, then verify the requester via "Show Details" or "More Information."
+Stop “fixing” and stop anything that might write to the disk. Power off, then focus on the safest route to copy your data (or use a professional recovery service if the drive isn’t detected).
 
 ## Do not do these things
-- Do not enter an administrator password or provide biometric authentication simply to dismiss a recurring prompt.
-- Do not click "Yes" or "Allow" if the publisher is listed as "Unknown" or "Unverified."
-- Do not call any telephone numbers displayed within a pop-up window or system prompt.
-- Do not grant remote access to your device to any individual or "support agent" who contacted you as a result of the prompt.
-- Do not disable User Account Control (UAC) or Administrator Protection settings to bypass the requirement.
+- Don’t reinstall the operating system, reset the device, or run major repair options if the data is irreplaceable.
+- Don’t click **Initialize**, **Format**, **Erase**, **Partition**, or anything that says it will “set up” the disk.
+- Don’t keep rebooting repeatedly “to check if it comes back” — limit yourself to one careful check, then stop.
+- Don’t keep the device running if you hear repeated clicking/grinding, smell overheating, or it keeps disconnecting/reconnecting.
+- Don’t open sealed devices or force connectors if you’re not confident — physical damage can make recovery harder.
 
 ## What to do now
-1. **Document the exact details of the request.**  
-   **Take a photograph or screenshot of the prompt window, ensuring the program name, file path, and publisher are visible.** Identify exactly what you were doing at the moment the prompt appeared, such as browsing a specific website, plugging in a USB drive, or opening an email attachment.
+1. **Pause, document, and power off.**  
+   Photograph the exact message. Write down what happened just before it (drop/spill, update, low storage, power cut, unusual noise). Then shut down fully.
 
-2. **Isolate the device from the network if the request was unsolicited.**  
-   **Disable Wi-Fi via the hardware switch or system menu and unplug any Ethernet cables immediately.** This prevents potential malware from communicating with external servers or exfiltrating data while you investigate the source.
+2. **Check whether you already have the data elsewhere (fast win).**  
+   From another device (phone/tablet/another computer), check cloud sync and backups you might already use: iCloud Drive/Photos, OneDrive, Google Drive, Time Machine backups, external backup drives, NAS, work/school storage. If the files are there, you can stop here and deal with the computer later.
 
-3. **Inspect the identity of the requesting process.**  
-   **Expand the "Show details" or "More information" section of the prompt to view the program's origin.**
-   - On Windows: Look for a "Verified Publisher" (e.g., Microsoft Windows or a known software brand). Be cautious if the file location is a temporary folder (e.g., AppData/Local/Temp).
-   - On macOS: Verify that the app icon shown in the password prompt matches the application you are currently using.
+3. **Do one “clean” detection check (no writing).**  
+   Disconnect non-essential USB devices/hubs/docks. Power on once and check:  
+   - **Mac:** start macOS Recovery and open **Disk Utility**. In Disk Utility, use **View > Show All Devices** so the physical drive can appear if it’s detectable.  
+   - **Windows/PC:** enter BIOS/UEFI and see if the internal drive is listed at all.  
+   If you don’t know the key/steps, don’t guess repeatedly—look up the official steps for your exact model, then do one attempt.
 
-4. **Verify management status for work or school equipment.**  
-   **Stop all troubleshooting on managed devices and contact your organization's IT helpdesk via their official internal portal or phone number.** Provide the screenshot and specify if this is a "Standard" user account that does not normally have administrative privileges.
+4. **If the drive appears anywhere, go “copy-first.”**  
+   Your goal is to read data, not to repair booting. If the disk is visible (even if it won’t boot), prioritise copying the most important folders first to a different drive (not the same disk). Typical priority: family photos/videos, work documents, finance/tax, password vault exports (if you can access them safely), and anything time-sensitive.
 
-5. **Perform a local safety check before re-engaging with the prompt.**  
-   **Close all active applications and check for recently installed software or browser extensions that you do not recognize.** 
-   - Open your device's "Add or Remove Programs" or "Applications" folder and sort by "Date Installed."
-   - Run a full system scan using your installed antivirus or the built-in Windows Security / macOS XProtect.
+5. **If encryption might be involved, locate the recovery key now.**  
+   If you used **FileVault** (Mac) or **BitLocker** (Windows), you may need the recovery key to access files when the system won’t boot normally. Gather any saved/printed keys and check your Apple ID/Microsoft account records if applicable.
 
-6. **Report suspicious triggers to the relevant UK authorities.**  
-   **Forward any email that preceded the prompt to report@phishing.gov.uk as an attachment, or forward suspicious text messages to 7726.** If the prompt was triggered by a website, report the URL to the National Cyber Security Centre (NCSC) via their official "Report a suspicious website" tool.
+6. **Use a read-only path where possible.**  
+   If you can access the drive as a non-boot disk (for example, via Target Disk Mode between Macs, or by connecting the drive via a USB enclosure/adapter to another computer), copy data off. If you see prompts to “repair,” “initialize,” or “format,” **cancel** and switch approach.
 
-7. **Secure accounts if you have already provided credentials.**  
-   **Use a different, uninfected device to change the passwords for the compromised account and any services that share the same login details.** Ensure multi-factor authentication (MFA) is enabled on all critical accounts, including email and banking.
+7. **Know when to stop and escalate to professional recovery.**  
+   Stop DIY attempts and consider a reputable data recovery service if:  
+   - the drive is **not detected at all** (not shown in BIOS/UEFI or Disk Utility),  
+   - you hear repeated clicking/beeping or see overheating, or  
+   - it repeatedly drops in/out.  
+   Minimising power-on attempts can preserve recoverability.
 
-8. **Contact Police Scotland or Report Fraud if money or data has been lost.**  
-   **Report the incident to Report Fraud (England, Wales, and NI) or call Police Scotland on 101 if you have experienced financial loss or identity theft.** Keep a record of the crime reference number provided for future insurance or banking claims.
+8. **If the device is under warranty/return window, protect your options while protecting the data.**  
+   If you may need retailer/manufacturer support, keep photos/notes of the fault and avoid actions that could complicate service (like disassembly) unless you’re sure. Decide which matters more right now: quickest hardware replacement, or maximum chance of data recovery.
 
 ## What can wait
-- You do not need to perform a full factory reset of the operating system until a professional scan or IT department confirms a deep infection.
-- You do not need to identify the specific malware variant or "CVE" vulnerability yourself.
-- You do not need to replace your hardware unless a physical fault (such as extreme overheating) is observed during the incident.
+- You don’t need to decide today whether to buy a new computer or upgrade storage.
+- You don’t need to “solve the root cause” before saving the most important files.
+- You don’t need to pick a recovery app or run repeated repairs while the data is still at risk.
 
 ## Important reassurance
-It is normal to feel a sense of urgency when a device blocks your actions with a security prompt. These prompts are designed to be intrusive to ensure you notice them. Pausing to investigate is a correct security practice and does not mean you have already been compromised.
+This message often means the computer can’t boot from the drive—not that your files are definitely gone. The biggest factor you control is avoiding panic actions that overwrite data or stress failing hardware.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction for unexpected permission requests. It does not replace professional IT support for managed systems or specialized malware removal services for persistent infections.
+These are first steps to prevent avoidable data loss and get you to the safest recovery route. If the drive has physical or firmware failure, specialist recovery may be the only realistic path.
 
 ## Important note
-This information is for general guidance and may not cover every device configuration or specific security software behavior. In the UK, unexpected prompts are frequently associated with "tech support" scams. If you are prompted for admin access while on a website or during an unsolicited phone call, assume the request is malicious.
+This is general information, not professional IT or data recovery advice. If the data is high-stakes or there are signs of physical failure (noise/heat/not detected anywhere), minimise further power-on attempts and use professional help.
 
 ## Additional Resources
-- https://support.apple.com/en-gb/102601
 - https://support.apple.com/en-gb/102611
 - https://support.apple.com/en-gb/102518
-- https://support.microsoft.com/en-us/windows/windows-recovery-environment-0eb14733-6301-41cb-8d26-06a12b42770b
-- https://www.which.co.uk/news/article/how-to-fix-a-broken-hard-drive-aW7pd8V88Fjy
+- https://support.apple.com/en-gb/102603
+- https://support.apple.com/en-gb/guide/mac-help/mchlp1443/mac
+- https://support.microsoft.com/en-gb/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5
+- https://support.microsoft.com/en-gb/windows/startup-repair-85deb0b9-fa3d-44a3-a3d0-d0f1515c2c9b

@@ -1,98 +1,86 @@
----
+﻿---
 title: "What to do if… you receive an official request to meet an investigator at a location you did not expect"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - "unexpected investigator meeting request"
-  - "law enforcement wants to meet"
-  - "detective asks to talk"
-  - "agent request to meet off site"
-  - "asked to come in for questioning"
-  - "official call to meet investigator"
-  - "verify badge and agency"
-  - "possible police impersonation scam"
-  - "caller id spoofed police number"
-  - "asked to meet at cafe or parking lot"
-  - "asked to answer questions informally"
-  - "talk to police without lawyer"
-  - "right to remain silent"
-  - "request to bring phone or documents"
-  - "subpoena interview request confusion"
-  - "worried about arrest at meeting"
-  - "probation parole investigator contact"
-  - "jail prison investigator interview request"
-  - "what do i do if an investigator calls"
-  - "what do i do if a detective wants to meet"
-  - "what do i do if a federal agent visits"
-  - "what do i do if police ask to meet off-site"
-  - "help i have to meet an investigator"
-  - "help i am being questioned"
-  - "my investigator wants to meet in public"
-  - "my detective asked for money"
-  - "burning plastic smell near investigator"
-  - "visible badge check"
-  - "unmarked car investigator"
-  - "official meeting location verification"
-  - "police questioning rights"
-  - "fifth amendment invocation"
-  - "sixth amendment right to counsel"
-  - "scam law enforcement call"
-last_reviewed: "2026-03-17"
+  - unexpected investigator meeting request
+  - law enforcement wants to meet
+  - detective asks to talk
+  - agent request to meet off site
+  - asked to come in for questioning
+  - official call to meet investigator
+  - verify badge and agency
+  - possible police impersonation scam
+  - caller id spoofed police number
+  - asked to meet at cafe or parking lot
+  - asked to answer questions informally
+  - talk to police without lawyer
+  - right to remain silent
+  - request to bring phone or documents
+  - subpoena interview request confusion
+  - worried about arrest at meeting
+  - probation parole investigator contact
+  - jail prison investigator interview request
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you receive an official request to meet an investigator at a location you did not expect (USA)
 
 ## Short answer
-Do not attend the meeting or provide information immediately; verify the investigator’s identity through official agency channels and invoke your right to legal counsel before any discussion.
+Don’t meet or talk first—verify the request through official channels and get a lawyer before any interview or “just a few questions.”
 
 ## Do not do these things
-- Do not go to a private or secluded location (such as a park, cafe, or parking lot) to meet someone claiming to be an official.
-- Do not answer substantive questions over the phone, via text, or in person without a lawyer present.
-- Do not provide personal identifiers, financial data, or login credentials to verify your identity to the caller.
-- Do not hand over, unlock, or permit the "cloning" of your mobile device or documents without a warrant or legal advice.
-- Do not pay any "fees," "fines," or "bond" via gift cards, wire transfers, or cryptocurrency kiosks.
+- Don’t go to an unexpected location to meet an investigator, especially alone.
+- Don’t answer questions “informally” by phone, text, email, or at the doorstep.
+- Don’t click links or share personal identifiers because someone claims to be law enforcement.
+- Don’t pay money, “bond”, “fees”, or “fines” because of a call/text—especially by gift card, wire, crypto, or payment app.
+- Don’t hand over your phone, unlock devices, or volunteer documents without legal advice.
 
 ## What to do now
-1. **State clearly that you need to verify the request and speak with an attorney.** You can use the phrase: "I am not prepared to meet or answer questions today. I need to verify this request and consult with my lawyer. Please provide your contact details and the agency you represent."
-2. **Treat any request for an off-site meeting as high-risk.** Legitimate investigators may occasionally conduct field interviews, but unexpected locations are a primary indicator of both predatory scams and high-pressure investigative tactics.
-3. **End the contact immediately if money or immediate payment is demanded.** Hang up the phone or walk away. Real law enforcement agencies do not demand immediate payment via phone or text to resolve legal issues.
-4. **Verify the investigator’s identity using an independently sourced phone number.**
-   - Request the person’s full name, badge or ID number, agency, and case reference number.
-   - Look up the official public number for that agency (e.g., the local Sheriff's office, FBI field office, or State Police) using a trusted government website.
-   - Call that main line and ask to be connected to the specific individual or their supervisor to confirm the request is legitimate.
-5. **Ask for the meeting to be moved to an official government facility.**
-   - Request that any interview take place at the agency’s headquarters or a local precinct.
-   - Refuse to meet in private vehicles or non-official buildings.
-6. **Invoke your rights vocally and unambiguously if you are questioned.**
-   - Say: "I am invoking my right to remain silent and I want a lawyer."
-   - Once these words are said, stop talking entirely. In the U.S., silence alone is often not enough to invoke your rights; you must state it out loud.
-7. **Clarify your legal status without discussing the facts of the case.**
-   - Ask: "Am I being contacted as a witness, a victim, or a subject of an investigation?"
-   - Ask: "Am I free to leave right now?"
-8. **Contact your supervising officer if you are under court supervision (Probation/Parole).**
-   - Use the official office number you were previously provided to verify if the new investigator has been authorized to contact you.
-9. **Renew your request for counsel if you are incarcerated and re-approached.**
-   - If you previously asked for a lawyer but have not seen one in over 14 days, you must explicitly state "I want a lawyer" again if a new investigator attempts to question you.
-10. **Document the interaction for your legal counsel.**
-    - Save all incoming texts, voicemails, and call logs.
-    - Note the exact time, date, and specific location the person requested you to attend.
+1. **Create a pause and take control of timing.** You can say: “I can’t meet or answer questions today. I need to verify this and speak with counsel. Please provide the request in writing.”
+2. **Treat “unexpected location” as unverified until confirmed.** Off-site meetings and urgency are common in scams and can also be used to pressure you.
+3. **If they ask for money or payment in any form: end the contact.** Hang up/stop replying. Then verify independently (next step). Demands for immediate payment are a strong scam indicator.
+4. **Verify independently using an official main number (not the number they gave you).**
+   - Ask for: full name, agency, badge/ID number, supervisor/unit, and a case/reference number.
+   - Look up the agency’s official public phone number (city police, sheriff, state agency, or federal field office) and call that number to confirm the person works there and that the request is real.
+5. **Clarify what you are being asked to do—without discussing facts.**
+   - Are you being contacted as a **witness**, a **victim**, or a **suspect**?
+   - Is this voluntary, or do they claim you have a subpoena/court order? (If they claim a court order, ask for a copy in writing.)
+6. **If you might be a suspect (or it’s unclear), invoke your rights and stop.**
+   - Say: “I am not answering questions. I want a lawyer.”
+   - Then stop talking about the situation. Even “helpful” context can be used against you.
+7. **If a real meeting is needed, move it to an official setting and bring counsel.**
+   - Request the meeting happen at the agency office (or another clearly official location) and only with your attorney present.
+   - If they insist on a secluded/off-site location or discourage counsel, do not attend.
+8. **If you are on probation/parole or under court supervision:**
+   - Contact your supervising officer using the official number you already have (or the agency’s main line) to confirm whether the contact is legitimate and whether you have reporting requirements.
+   - Still avoid discussing the facts of any allegation without a lawyer.
+9. **If you are incarcerated or the request comes through jail/prison channels:**
+   - Use the facility’s process to request counsel and to verify the investigator’s identity (name/agency/case number).
+   - Do not agree to an “off the record” interview; ask for counsel and a formal process.
+10. **Preserve what you received.** Save voicemails, texts, emails, letters, envelopes, and note date/time/location requested. This helps a lawyer verify and respond.
+11. **If someone shows up in person and pressures you, end it safely.**
+   - Ask: “Am I free to leave / end this conversation?”
+   - If yes, end it.
+   - If not, say you want a lawyer and remain silent beyond what you are legally required to provide in your state (which can vary).
 
 ## What can wait
-- You do not need to prepare a statement or "clear your name" right now.
-- You do not need to gather evidence or documents requested by the investigator until you have legal representation.
-- You do not need to decide whether to cooperate or sign any waivers today.
+- You do not need to explain your side, assemble evidence, or write a statement right now.
+- You do not need to decide whether to “cooperate” before you know who is contacting you and why.
+- You do not need to attend any surprise meeting just because it was requested.
 
 ## Important reassurance
-Receiving a sudden request from an investigator is designed to create a sense of urgency. Taking time to verify identity and secure a lawyer is a standard legal protection and does not constitute a "confession" or "interference" with justice.
+An unexpected “official” request can make anyone freeze or comply reflexively. Verifying identity and asking for a lawyer are protective, common steps.
 
 ## Scope note
-This is first-step stabilization guidance only. Laws regarding police interactions and the requirement to identify yourself vary by state. Later decisions regarding cooperation or testimony require specific legal advice from a qualified attorney.
+This is first-steps guidance to reduce harm and buy time. U.S. rules vary by state and by whether the contact is local, state, or federal—your best next step depends heavily on whether you are a witness or a suspect.
 
 ## Important note
-This guide provides general information and is not legal advice. If you are the subject of a criminal investigation, speaking to a licensed attorney in your jurisdiction is the most effective way to protect your rights.
+This is general information, not legal advice. If you may be questioned about suspected wrongdoing, speaking to a qualified attorney in your state before any interview is usually the safest immediate step.
 
 ## Additional Resources
-- https://consumer.ftc.gov/articles/how-avoid-government-impersonation-scam
-- https://oig.ssa.gov/scam-awareness/scam-alert/
-- https://www.irs.gov/help/how-to-know-its-the-irs
+- https://www.aclu.org/know-your-rights/what-do-when-encountering-law-enforcement-questioning
+- https://consumer.ftc.gov/consumer-alerts/2025/06/scammers-are-impersonating-local-law-enforcement
 - https://www.fbi.gov/contact-us/field-offices/philadelphia/news/fbi-warns-public-to-beware-of-scammers-impersonating-law-enforcement-and-government-officials
-- https://www.fbi.gov/investigate/cyber/alerts/2025/senior-us-officials-continue-to-be-impersonated-in-malicious-messaging-campaign
+- https://www.usa.gov/legal-aid
+- https://www.fbi.gov/contact-us

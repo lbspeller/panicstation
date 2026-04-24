@@ -1,95 +1,77 @@
----
+﻿---
 title: "What to do if… you are contacted about workplace benefits for a person who died and deadlines are approaching"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "workplace benefits after death"
-  - "employer benefits claim"
-  - "deceased employee insurance"
-  - "group life insurance paperwork"
-  - "401k beneficiary notice"
-  - "pension survivor benefits"
-  - "hr benefits administrator"
-  - "plan administrator request"
-  - "summary plan description"
-  - "erisa claim deadline"
-  - "cobra election after death"
-  - "survivor health coverage"
-  - "beneficiary paperwork"
-  - "letters testamentary for benefits"
-  - "final paycheck after death"
-  - "beneficiary designation on file"
-  - "what do i do if i am contacted about benefits for the deceased"
-  - "what do i do if a life insurance deadline is approaching"
-  - "what do i do if my spouse died and the employer called"
-  - "what do i do if i am the beneficiary of a 401k"
-  - "help i received a benefits letter for a dead person"
-  - "help i missed a benefits claim deadline"
-  - "help i need to extend a benefits deadline"
-  - "my husband died and his work called about insurance"
-  - "my wife died and her hr sent paperwork"
-  - "smell of old paperwork"
-  - "official letter from employer"
-  - "unexpected call from hr"
-  - "urgent benefit notice"
-  - "certified death certificate requirement"
-  - "letters of administration"
-  - "probate court documents"
-  - "employer benefits claim form"
-  - "workplace survivor benefits"
-  - "deceased worker pay"
-  - "health insurance bridge coverage"
-last_reviewed: "2026-03-16"
+  - workplace benefits after death
+  - employer benefits claim deadline
+  - deceased employee insurance claim
+  - group life insurance claim
+  - 401k beneficiary contacted
+  - pension survivor benefit claim
+  - hr benefits administrator call
+  - plan administrator documents
+  - summary plan description request
+  - erisa claim deadline
+  - cobra after employee death
+  - survivor health coverage election
+  - bereavement paperwork panic
+  - verify benefits letter is real
+  - avoid scam after a death
+  - certified death certificate needed
+  - executor letters testamentary
+  - approaching deadline extension request
+  - final paycheck after death
+  - beneficiary designation on file
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… you are contacted about workplace benefits for a person who died and deadlines are approaching (USA)
 
 ## Short answer
-Verify the contact's identity through the employer's official switchboard, request all plan procedures in writing, and submit a written request for a deadline extension while you secure certified death certificates.
+Verify the request using a trusted employer/plan contact, then ask for the exact plan deadlines in writing and request an extension while you gather the minimum documents (often a certified death certificate and proof of authority).
 
 ## Do not do these things
-- Don't use contact details provided in an unsolicited text, email, or social media message to verify benefit claims.
-- Don't send sensitive identification, such as Social Security numbers or bank details, until you have confirmed the recipient is the authorized Plan Administrator.
-- Don't assume that receiving a notice makes you the legal beneficiary; employer plans are generally bound by the designation forms currently on file.
-- Don't pay any processing fees, "release" charges, or taxes directly to an individual or third party to receive benefits.
-- Don't ignore the deadline if you lack documents; a "protective filing" or written extension request preserves your legal rights.
+- Don’t call numbers or click links from an unexpected email/text about benefits until you verify it independently.
+- Don’t send Social Security numbers, bank details, or copies of ID to “move things along” unless you’re sure it’s the real HR/plan administrator/insurer and you understand what they’re requesting.
+- Don’t assume the person who got the message is automatically the beneficiary — employer plans may pay based on beneficiary forms on file.
+- Don’t miss an appeal/election window because you’re overwhelmed; if you can’t finish everything, submit the minimum to open the claim and ask what else can follow.
+- Don’t pay any “fee” to release benefits.
 
 ## What to do now
-1. **Verify the contact through the employer's main office.** **Call the company's official Human Resources (HR) or Benefits department using a number from a trusted source, such as a past pay stub or the official company website.**
-   - Ask for the name of the Plan Administrator and the specific insurance carrier for any group policies.
-   - Confirm if an official claim file has been opened and request the claim number.
-2. **Request the Summary Plan Description (SPD) and claim forms in writing.** **Under ERISA law, you have the right to request the written procedures for claiming benefits, which include the specific timelines for appeals and elections.**
-   - Ask for the "minimum submission requirements" to stop the clock on a deadline while you wait for official certificates.
-3. **Notify the Social Security Administration (SSA) directly.** **Call 1-800-772-1213 (TTY 1-800-325-0778) between 8:00 a.m. and 7:00 p.m. local time to report the death.**
-   - Reports are only accepted by phone or in person; do not attempt to report via email.
-   - If the person was a federal employee, also contact the Office of Personnel Management (OPM); for military retirees, contact the Defense Finance and Accounting Service (DFAS).
-4. **Request a formal extension for any approaching deadlines.** **Send a written request (email or certified mail) stating that you are in the process of obtaining certified death certificates or Letters Testamentary and require a 30-day extension.**
-   - Keep a copy of this request and any confirmation receipt.
-5. **Secure the "Minimum Viable Packet" for submission.** **Prepare the basic documents required to initiate most workplace claims without waiting for the full estate settlement.**
-   - Certified copies of the Death Certificate (order at least 5–10 copies).
-   - Letters Testamentary or Letters of Administration from the probate court if the estate is the beneficiary.
-   - The Social Security numbers of the deceased and the potential beneficiaries.
-6. **Protect health insurance election windows.** **Confirm the COBRA election period, which is typically 60 days from the later of the death or the date the election notice is provided.**
-   - Note that if a legal representative has not been appointed, this 60-day window may be "tolled" (paused) until an executor or administrator is authorized to act.
-7. **Document every interaction in a dedicated log.** **Record the date, time, name of the representative, and exactly what was promised or requested during every call.**
-   - Save all "read receipts" for digital submissions and "certified mail" receipts for physical documents.
+1. **Write down what this deadline is for (exactly).** Separate the benefits into buckets: group life insurance, 401(k)/retirement plan, pension, final paycheck/unused PTO, and health coverage (COBRA). Deadlines are different for each.
+2. **Verify the contact through a trusted route.** Use the employer’s main switchboard number, a number from an existing benefits booklet, or the insurer/plan administrator listed on official benefits materials. Ask: “Is there an open claim for [name]? What is needed and by when?”
+3. **Ask for the plan’s written instructions and documents.**
+   - Request the **claim forms** and the plan’s written claims procedures (often in the Summary Plan Description).
+   - Ask who the **plan administrator** is and where document requests should be sent. If you’re a participant/beneficiary, ask how to request plan documents in writing.
+4. **If you can’t meet the deadline, request an extension in writing today.** Use plain language: “I’m obtaining certified death certificates / court appointment documents. Please confirm an extension or tell me what the minimum submission is to preserve rights by the deadline.”
+5. **Get the “minimum viable packet” ready.** Ask what they accept and submit only what’s required to start:
+   - Certified death certificate (or the number of certified copies they require).
+   - Your contact info and relationship to the person who died.
+   - Proof you’re allowed to act (for example, letters testamentary/letters of administration, or the document they specify).
+6. **Protect health coverage time windows (if dependents are losing coverage).** Ask HR/benefits whether spouse/dependents are eligible for COBRA and when the election notice will be sent. The COBRA election period is **at least 60 days**, measured from the later of the qualifying event or when the election notice is provided — so ask them to confirm the dates that apply in this case and how to avoid a coverage gap.
+7. **Confirm Social Security reporting (especially if survivors benefits may apply).** In many cases a funeral home can report the death, but if you’re unsure, contact Social Security to confirm it’s been recorded and ask what survivors should do next.
+8. **Start a call log and a single folder for everything.** Save emails, scan what you send, and keep proof of submission (portal upload receipt, certified mail receipt, fax confirmation). If there’s later confusion about a deadline, this matters.
 
 ## What can wait
-- You do not need to decide on 401(k) rollover strategies or tax withholding options today.
-- You do not need to settle the deceased person's debts or funeral bills before responding to the employer.
-- You do not need to resolve disputes between potential beneficiaries before requesting the plan documents.
+- You do not need to decide today how to handle taxes, rollovers, or distribution strategy for retirement benefits.
+- You do not need to settle the whole estate before you respond to the employer; your priority is preserving claim and election rights.
+- You do not need to argue about beneficiary disputes right now — first secure the written plan rules, then get help if there’s a conflict.
 
 ## Important reassurance
-Workplace benefit systems are heavily automated and use standard templates that can seem aggressive or cold. This urgency is usually a result of system settings rather than a personal judgment. Taking a few minutes to verify the source and request the rules in writing is a standard professional step that protects the assets.
+Benefits administration after a death often feels cold and urgent because it runs on standardized deadlines and templates. Taking one calm verification call, getting the rules in writing, and submitting the minimum to open the claim is a strong protective first move.
 
 ## Scope note
-This guide covers first-step stabilization and deadline preservation for workplace benefits. It does not cover long-term tax planning, probate litigation, or private life insurance policies not associated with an employer.
+This covers immediate steps to avoid missed deadlines, scams, and documentation errors. If there’s a denial, a dispute about beneficiaries, or a complex estate situation, you may need specialist help.
 
 ## Important note
-This information is for general guidance and does not constitute legal, financial, or tax advice. Benefit plans are governed by specific plan documents and federal laws like ERISA and COBRA; individual plan terms always take precedence over general summaries.
+This is general information, not legal, tax, or financial advice. Employer plans vary, and the correct steps depend on the specific plan documents and the state where the estate is being handled.
 
 ## Additional Resources
-- https://www.dol.gov/agencies/ebsa/workers-and-families/death-of-a-family-member
-- https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/an-employees-guide-to-health-benefits-under-cobra
-- https://www.ssa.gov/survivor
-- https://www.ssa.gov/faqs/en/questions/KA-02083.html
-- https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-death
+- https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/publications/how-to-obtain-employee-benefit-documents.pdf
+- https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/reporting-and-filing/forms/requests
+- https://www.cms.gov/cciio/programs-and-initiatives/other-insurance-protections/cobra_qna
+- https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf
+- https://www.ssa.gov/personal-record/when-someone-dies
+- https://www.usa.gov/social-security-report-a-death
+- https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary

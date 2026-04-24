@@ -1,87 +1,85 @@
----
+﻿---
 title: "What to do if… you are asked to meet privately to “clear the air” after sexual harassment and you do not feel safe doing so"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "asked to clear the air"
-  - "private meeting after harassment"
-  - "unsafe work meeting"
-  - "sexual harassment at work"
-  - "do not feel safe meeting"
-  - "pressured to meet alone"
-  - "informal meeting request"
-  - "work confrontation request"
-  - "accused of overreacting"
-  - "asked to talk privately"
-  - "scared to meet coworker"
-  - "scared to meet manager"
-  - "workplace harassment follow up"
-  - "after reporting harassment"
-  - "unwanted private discussion"
-  - "feel unsafe at work"
-  - "meeting behind closed doors"
-  - "requested one to one"
-  - "clear the air meeting"
-  - "workplace safety concern"
-  - "harassment reporting follow up"
-  - "unsafe meeting invitation"
-  - "asked to meet harasser"
-  - "fear of workplace retaliation"
-  - "help i feel unsafe at work"
-  - "help i am being pressured to meet"
-  - "what do i do if asked to clear the air"
-  - "what do i do if i feel unsafe meeting a manager"
-  - "my manager wants a private chat after harassment"
-  - "my coworker wants to talk privately"
-  - "smell of alcohol at work"
-  - "visible distress at work"
-  - "unusual heat in meeting room"
-  - "locked door during meeting"
-  - "isolation in office"
-last_reviewed: "2026-03-17"
+  - asked to clear the air
+  - private meeting after harassment
+  - unsafe work meeting
+  - sexual harassment at work
+  - do not feel safe meeting
+  - manager wants private chat
+  - one to one after complaint
+  - pressured to meet alone
+  - informal meeting after harassment
+  - work confrontation request
+  - accused of overreacting at work
+  - asked to talk privately
+  - scared to meet coworker
+  - scared to meet manager
+  - workplace harassment follow up
+  - after reporting harassment
+  - unwanted private discussion
+  - feel unsafe at work
+last_reviewed: "2026-03-14"
 ---
-# What to do if… you are asked to meet privately to “clear the air” after sexual harassment and you do not feel safe doing so (UK)
 
+# What to do if… you are asked to meet privately to “clear the air” after sexual harassment and you do not feel safe doing so (UK)
 ## Short answer
-Do not attend a private or one-to-one meeting if you feel unsafe or pressured. State in writing that you are not willing to meet alone and that any further discussion must take place through a formal workplace process with a representative or neutral third party present.
+
+Do not go to a private meeting just because someone is pressing for it. Tell them, in writing if you can, that you are not willing to meet alone and that any discussion must go through a formal work process with HR, a manager not involved, or another appropriate person present.
 
 ## Do not do these things
-- Do not agree to an immediate, "on-the-spot" conversation in person or via video call.
-- Do not meet behind closed doors, off-site, or outside of standard working hours.
-- Do not delete any evidence of the request, including emails, calendar invites, or text messages.
-- Do not assume an "informal chat" is a neutral event or that it bypasses your right to safety.
-- Do not feel required to justify or explain your safety concerns in detail to the person asking to meet.
+
+- Do not meet alone to be “reasonable” if you do not feel safe.
+- Do not let anyone rush you into an immediate conversation on the spot.
+- Do not agree to a meeting format you cannot tolerate, such as behind closed doors, off-site, after hours, or without someone else present.
+- Do not delete messages, emails, diary notes, or calendar invites connected to what happened.
+- Do not assume an “informal chat” is neutral just because it is described as clearing the air.
+- Do not feel obliged to explain your boundaries in detail.
 
 ## What to do now
-1. **Send a brief written response declining the private meeting.** State clearly that you are not willing to discuss the matter one-to-one and request that any further communication be handled through HR or a formal grievance process.
-2. **Request that all future communication regarding this matter be kept in writing.** This ensures there is a permanent record of what is said and prevents "off-the-record" pressure.
-3. **Review your employer’s Harassment or Dignity at Work policy immediately.** Identify the official reporting route and submit a formal record of this meeting request as a further concern, stating specifically that the request makes you feel unsafe.
-4. **Exercise your statutory right to be accompanied if a formal meeting is arranged.** Under UK law, you have a legal right to be accompanied by a colleague or trade union representative at grievance hearings concerning a legal duty, which includes sexual harassment.
-5. **Document the specific language used in the request.** Note the time, date, and exact wording used, such as "clear the air" or "sort this out between us," and save this information in a personal file outside of work systems.
-6. **Ask for immediate interim safety measures.** Request that your employer implements "no-contact" arrangements, changes to seating plans, or different reporting lines while the situation is being reviewed.
-7. **Contact a union representative or Acas for procedural guidance.** If you are not a union member, the Acas helpline can provide information on your rights regarding workplace grievance procedures.
-8. **Check if your report qualifies as a protected disclosure.** For reports made on or after 6 April 2026, sexual harassment is explicitly classified as a qualifying disclosure for whistleblowing protection under the Employment Rights Act 2025.
-9. **Identify external support if the harassment involved criminal conduct.** If the situation involved assault, stalking, or threats, prioritize your physical safety by moving to a public area or leaving the premises.
-   - You can contact the police to report "sex-based harassment," which is a specific criminal offence as of 1 April 2026.
+
+1. Reply briefly and clearly that you will not attend a private meeting. Keep it simple: you are not willing to discuss this alone, and any next step must be through HR, a formal grievance route, or another manager who is not involved.
+
+2. Ask for communication in writing for now. If they want to raise anything, ask them to send it by email or through your workplace process so there is a record.
+
+3. Check your employer’s harassment, grievance, dignity at work, or speak-up policy and use the reporting route it gives. If you already reported the harassment, add this meeting request as a new concern and say plainly that you do not feel safe being asked to meet privately.
+
+4. Ask for a safer format if any meeting is needed: a formal grievance meeting, HR present, a neutral manager, written questions instead of a live discussion, or a remote meeting if that feels safer.
+
+5. If you are invited to a formal grievance meeting about your complaint, ask to bring a companion. In the UK, workers have a statutory right to be accompanied at grievance meetings that deal with a complaint about a duty owed by the employer. If the meeting is only described as informal or investigatory, the legal right may not apply in the same way, but it is still reasonable to ask for accompaniment.
+
+6. Save the practical details now: who asked, when, exact wording such as “clear the air,” whether the request was private or informal, and anything that made it feel unsafe. Send yourself a dated note or keep it somewhere you can access later.
+
+7. Ask for interim separation steps while this is being handled. That can include no direct contact, no one-to-one meetings, communication through HR or a named manager only, a temporary change in seating or work location, different reporting lines, or rota changes where possible.
+
+8. If you have a union, contact your representative now. If you do not, and you need help understanding workplace options or grievance handling, contact Acas.
+
+9. If you think raising this may also be protected as whistleblowing from 6 April 2026, do not let anyone push you into keeping it off the record. Keep the concern in writing and use a formal reporting route.
+
+10. If what happened included sexual assault, threats, stalking, or you are afraid of being followed or cornered at work, treat this as a safety issue first. Get to a safer pause, contact someone you trust, and seek specialist support. Reporting to the police is your choice.
 
 ## What can wait
-- You do not need to decide right now whether you will stay in your job or resign.
-- You do not need to decide whether to take the matter to an Employment Tribunal today.
-- You do not need to have a perfect, finalized version of your full statement ready this minute.
-- You do not need to respond to any "follow-up" messages that arrive while you are stabilizing.
+
+You do not need to decide today whether to stay in the job, make a tribunal claim, confront the person directly, or give a full account to everyone at work. You also do not need to agree today on the “best” wording for a formal complaint. The immediate job is only to avoid an unsafe one-to-one conversation and move the issue into a safer process.
 
 ## Important reassurance
-It is a standard procedural right to refuse an informal meeting in favor of a formal, recorded process. Choosing to have a witness or a written record is a routine workplace practice and does not mean you are being "difficult." Feeling hesitant or anxious after such a request is a normal reaction to a high-pressure situation.
+
+It is reasonable to refuse a private meeting when you do not feel safe. Wanting a witness, a formal route, or written communication is not making things difficult. It is a sensible boundary.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction advice only. It does not cover the long-term management of a legal claim or the specific details of a police investigation.
+
+This is about first steps only. Later decisions about formal complaints, legal options, or workplace changes may need specialist help.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Workplace safety depends on specific context and employer policies. If you are in immediate physical danger, call 999. Specialist support from organizations like Rape Crisis can help you explore your options at your own pace.
+
+This is general information, not legal or clinical advice. Workplace policies and the exact facts matter. If you are in immediate danger, call 999. If the situation may also be criminal, specialist sexual violence support can help you think through options at your pace.
 
 ## Additional Resources
-- https://www.acas.org.uk/sexual-harassment
-- https://www.acas.org.uk/how-to-raise-a-problem-at-work
-- https://www.citizensadvice.org.uk/work/discrimination-at-work/dealing-with-discrimination-at-work/checking-if-its-discrimination/if-youre-being-harassed-or-bullied-at-work/
-- https://www.citizensadvice.org.uk/work/discrimination-at-work/dealing-with-discrimination-at-work/taking-action-work-discrimination/deciding-what-to-do-about-discrimination-at-work/
-- https://www.citizensadvice.org.uk/work/grievance-meetings/dealing-with-grievances-at-work/
+- https://www.acas.org.uk/sexual-harassment/handling-a-sexual-harassment-complaint
+- https://www.acas.org.uk/grievance-procedure-step-by-step/step-4-the-grievance-meeting
+- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
+- https://www.acas.org.uk/handling-a-bullying-discrimination-complaint
+- https://www.acas.org.uk/whistleblowing-at-work
+- https://www.gov.uk/contact-police

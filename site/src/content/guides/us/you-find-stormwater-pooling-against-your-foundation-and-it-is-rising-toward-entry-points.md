@@ -1,105 +1,95 @@
----
+﻿---
 title: "What to do if… you find stormwater pooling against your foundation and it is rising toward entry points"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - "stormwater pooling at foundation"
-  - "rainwater against house wall"
-  - "water rising toward door"
-  - "water at doorstep during storm"
-  - "surface water flooding home"
-  - "water reaching basement entry"
-  - "water near garage threshold"
-  - "driveway runoff into house"
-  - "yard flooding toward house"
-  - "drains overwhelmed heavy rain"
-  - "stopping water entering doorway"
-  - "emergency flood protection"
-  - "sudden flash flooding home"
-  - "basement water rising outside"
-  - "water near electrical panel"
-  - "diverting water from foundation"
-  - "pooling water by exterior wall"
-  - "water coming toward front door"
-  - "water coming toward back door"
-  - "storm runoff threatening entry"
-  - "help i have water at my door"
-  - "what do i do if my foundation is flooding"
-  - "help my basement window is filling with water"
-  - "what do i do if rain is entering my garage"
-  - "clogged yard drain flooding house"
-  - "water rising against exterior wall"
-  - "emergency sandbagging house"
-  - "water at foundation entry point"
-  - "foundation flooding during storm"
-  - "runoff moving toward home"
-last_reviewed: "2026-03-17"
+  - stormwater pooling at foundation
+  - rainwater against house wall
+  - water rising toward door
+  - water at doorstep during storm
+  - surface water flooding home
+  - water reaching basement entry
+  - water near garage threshold
+  - driveway runoff into house
+  - yard flooding toward house
+  - drains overwhelmed heavy rain
+  - stopping water entering doorway
+  - emergency flood protection
+  - sudden flash flooding home
+  - basement water rising outside
+  - water near electrical panel
+  - diverting water from foundation
+  - pooling water by exterior wall
+  - water coming toward front door
+  - water coming toward back door
+  - storm runoff threatening entry
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… you find stormwater pooling against your foundation and it is rising toward entry points (USA)
 
 ## Short answer
-Assess for electrical hazards first; if safe, immediately clear debris from drains and redirect water flow away from the foundation using tools or temporary barriers.
+Prioritize safety, then quickly redirect the flow away from the house and seal the lowest entry points—without taking electrical risks.
 
 ## Do not do these things
-- Do not enter any room or basement if water has reached electrical outlets, cords, or the service panel.
-- Do not touch the electrical breaker box or any switches if you are standing in water or if the floor is damp.
-- Do not attempt to "equalize pressure" by opening doors to let water in; this increases structural risk and interior damage.
-- Do not walk into moving water that is higher than your ankles; six inches of moving water can knock an adult down.
-- Do not dig channels to redirect water if you are unsure of the location of underground gas or electric lines.
-- Do not use a standard vacuum to remove water; only use a dedicated wet/dry vac plugged into a GFCI-protected outlet in a dry area.
+- Don’t enter a flooded basement/room if water could be touching outlets, cords, appliances, a furnace/water heater, or your electrical panel.
+- Don’t flip breakers or use plugged-in pumps/tools while you’re standing in water or touching wet surfaces.
+- Don’t open doors “to equalize” water pressure or let water run through the house (it usually increases damage and can trap you).
+- Don’t lift/remove manhole or drain covers while water is surcharging (hazardous and may involve sewage).
+- Don’t assume sandbags will stop water completely (they generally only slow it).
+- Don’t touch the electric meter or service drop in flood conditions.
 
 ## What to do now
-1. **Verify personal safety and check for electrical or gas hazards.**  
-   **Ensure you are wearing rubber-soled shoes and keep children and pets away from the pooling water.**  
-   - If you smell gas (rotten eggs) or hear a hissing sound, leave the area immediately and call 911.  
-   - Scan for submerged outdoor outlets, extension cords, or AC units near the pooling water.
+1. **Get to a safer pause and do a quick hazard scan.**  
+   Keep kids/pets away from pooling water and any area near outside outlets, AC units, basement windows/light wells, or the electrical service. Put on shoes.
 
-2. **Locate the primary source of the inflow and the lowest entry point.**  
-   **Identify exactly where the water is currently breaching or most likely to enter first.**  
-   - Check downspouts, window wells, garage door seams, and basement stairwells.  
-   - Determine if the water is coming from a clogged drain, driveway runoff, or a neighboring property.
+2. **Identify the main inflow and the first “failure point.”**  
+   Look for: downspouts dumping next to the wall, clogged yard drains, runoff down a driveway, water rising at door thresholds, basement stairwells, garage door gaps, window wells.
 
-3. **Clear surface debris from visible drains and grates.**  
-   **Use a rake or shovel to remove leaves, mulch, or trash from yard drains and gutter outlets.**  
-   - Do this only if you can reach the drain without wading into deep or fast-moving water.  
-   - Ensure the path where the water *should* go is clear of obstructions.
+3. **Clear easy blockages you can reach safely.**  
+   If you can do it without standing in water: clear leaves from **grates**, **gutter outlets**, and **downspout exits** so water can move away instead of stacking up at the foundation.
 
-4. **Redirect the flow of water away from the building foundation.**  
-   **Reposition downspout extensions or use a heavy-duty push broom to move water toward a lower area of the yard.**  
-   - If the soil is soft, you can create a shallow temporary trench to steer water away, provided no underground utilities are present.  
-   - Use boards, sandbags, or even bags of mulch to create a temporary "wing" to divert the current.
+4. **Redirect water away from the foundation immediately.**  
+   - Aim downspout discharge **farther from the house** (temporary extension or repositioning).  
+   - Create a quick **shallow channel** in gravel/soil to steer water to a safer low point away from the building.  
+   - If shallow and safe, use a **push broom/squeegee** to move water away from door thresholds and garage seams.
 
-5. **Seal and reinforce the immediate entry points.**  
-   **Place heavy plastic sheeting across door thresholds or vents and weight it down with heavy objects.**  
-   - Use towels or blankets behind the plastic to create a compressible seal.  
-   - If you have a backwater check valve in your plumbing system, ensure it is clear and functional from a dry location.
+5. **Seal the lowest entry points before water reaches them.**  
+   Prioritize: exterior doors, garage threshold, basement/cellar doors, window wells, vents.  
+   - If you have them: install **flood barriers/door shields** and any **purpose-made vent covers** you already own.  
+   - If you don’t: heavy plastic sheeting + towels/blankets as a compressible seal, then brace with a rigid board and weight it securely.  
+   - If you already have a **sewer backwater valve** and you can safely access it from a dry area, close it. If not, don’t attempt plumbing changes now.
 
-6. **Protect interior property if a breach is imminent.**  
-   **Move high-value items, medications, and essential documents to an upper floor or high shelves.**  
-   - If it is safe to do so from a completely dry area, shut off the main electrical breaker.  
-   - Unplug appliances in rooms that may be affected.
+6. **If water is entering or imminent: protect people first, then property.**  
+   - Move critical items (medications, documents, electronics) **upstairs or onto high shelving**.  
+   - If you have standing water indoors and can shut off power at the **main breaker from a dry location**, do so.  
+   - If you would have to step into water to reach the panel, **do not** attempt it—call a **licensed electrician** or your **utility** for guidance/disconnect.
 
-7. **Contact emergency services or local authorities if the situation escalates.**  
-   **Call 911 if water is rising rapidly, occupants are trapped, or you see downed power lines nearby.**  
-   - Notify your local Public Works department if a street drain or city culvert is blocked and causing the flooding.
+7. **Escalate when the situation is bigger than “DIY.”**  
+   - If there is **immediate danger to life** (rapidly rising water, trapped occupants), call **911**.  
+   - If you’re not in immediate danger but water is entering, contact your **home insurance** emergency/claims line and ask about approved mitigation vendors.  
+   - If flooding is affecting streets/drainage, contact your **city/county public works** or local emergency management for updates.
+
+8. **Reduce health risks from floodwater.**  
+   Treat floodwater as potentially contaminated. Wash hands, keep cuts covered, and keep kids/pets away from standing water.
 
 ## What can wait
-- You do not need to begin cleanup or demolition of wet materials while the storm is still active.
-- You do not need to contact a foundation specialist or permanent drainage contractor until the weather has cleared.
-- You can wait to perform a full inventory of damaged items for insurance until the water has fully receded and it is safe to enter the area.
+- You do **not** need to decide right now about permanent drainage systems, grading projects, or foundation work.
+- You do **not** need to start demolition (carpet/drywall removal) while water is still rising.
+- You can wait on detailed documentation and inventories until the water level stabilizes and it’s safe.
 
 ## Important reassurance
-Seeing water move toward your home is high-stress, but taking even a few minutes to redirect the flow or clear a drain can significantly reduce the volume of water that enters. Focus only on the next few inches of rise; your immediate goal is stabilization, not a permanent fix.
+It’s normal to feel overwhelmed when water starts “winning” against the house. Even quick, imperfect steps—redirecting flow and sealing the first entry points—can reduce damage and buy time.
 
 ## Scope note
-This guide provides first-step stabilization for surface water flooding. It does not cover long-term grading, permanent floodproofing, or remediation of mold and structural damage.
+These are first steps only to stabilize the moment. After the immediate risk passes, you may need qualified help (restoration, electrician, plumber, or contractor) and insurer guidance for safe drying and repairs.
 
 ## Important note
-This information is for emergency stabilization only and does not replace the advice of emergency responders or licensed professionals. If you feel unsafe or cannot identify electrical risks, evacuate to higher ground and wait for professional assistance.
+This is general information, not professional or emergency advice. If you cannot act safely—especially around electricity, deep/fast water, or suspected sewage—stop and seek help from emergency services or qualified professionals.
 
 ## Additional Resources
-- https://extension.umn.edu/moisture-and-mold-indoors/moisture-basements-causes-and-solutions
-- https://nchh.org/information-and-evidence/learn-about-healthy-housing/health-hazards-prevention-and-solutions/moisture/
-- https://www.epa.gov/mold/what-are-main-ways-control-moisture-your-home
-- https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home
-- https://www.cdc.gov/floods/safety/index.html
+- https://www.cdc.gov/floods/safety/reentering-your-flooded-home-safety.html
+- https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-from-electrical-hazards.html
+- https://www.ready.gov/floods
+- https://www.ready.gov/sites/default/files/2024-03/ready.gov_flood_hazard-info-sheet.pdf
+- https://www.fema.gov/emergency-managers/risk-management/floods

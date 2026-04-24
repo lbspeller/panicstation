@@ -1,84 +1,82 @@
----
+﻿---
 title: "What to do if… your charging cable won’t release from the car or the charger and you need to leave"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "charging cable stuck"
-  - "ev charger won’t unplug"
-  - "connector won’t release"
-  - "cable locked in car"
-  - "cable locked in charger"
-  - "can’t remove charging plug"
-  - "charge port won’t unlock"
-  - "charging session won’t stop"
-  - "public charger cable stuck"
-  - "home charger cable stuck"
-  - "type 2 cable stuck"
-  - "rapid charger stuck"
-  - "tethered cable stuck"
-  - "untethered cable stuck"
-  - "car won't release cable"
-  - "charger won't release cable"
-  - "leave charging station stuck"
-  - "help i can't unplug my car"
-  - "what do i do if my ev cable is stuck"
-  - "what do i do if the charger won't release"
-  - "what do i do if the cable is locked"
-  - "my charging cable is stuck"
-  - "my ev won't unplug"
-  - "my car is stuck to the charger"
-  - "stuck ev connector uk"
-  - "emergency release ev port"
-  - "manual release charging cable"
-  - "locking pin stuck ev"
-  - "type 2 connector jammed"
-  - "ccs cable won't come out"
-last_reviewed: "2026-03-17"
+  - charging cable stuck
+  - ev charger won’t unplug
+  - connector won’t release
+  - cable locked in car
+  - cable locked in charger
+  - can’t remove charging plug
+  - charge port won’t unlock
+  - charging session won’t stop
+  - public charger cable stuck
+  - home charger cable stuck
+  - type 2 cable stuck
+  - rapid charger stuck
+  - tethered cable stuck
+  - untethered cable stuck
+  - key fob unlock not working
+  - need to leave while charging
+  - charger handle button stuck
+  - ev charging connector jammed
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… your charging cable won’t release from the car or the charger and you need to leave (UK)
 
 ## Short answer
-Ensure the charging session is fully stopped via the charger or vehicle app, then perform a triple-unlock cycle with your key fob while pushing the connector gently inward to reset the latch. If it remains stuck, use the vehicle's manual emergency release pull-cord, typically located in the boot or under the bonnet.
+Stop the charging session first, then unlock the car and try a careful “reseat the connector + unlock cycle” release. If it still won’t release, use your vehicle’s manual/emergency release method (only when it’s not charging) and call the chargepoint operator helpline shown on the unit.
 
 ## Do not do these things
-- Don't pull, yank, or use tools to pry the connector out, as this can snap the electronic locking pin and cause permanent damage to the port.
-- Don't use the manual emergency release while the vehicle is actively drawing power.
-- Don't attempt to drive the vehicle while the cable is still physically attached to the port.
-- Don't press the red "Emergency Stop" button on a public charger unless there is a fire, spark, or immediate physical danger, as this may lock the cable permanently until a technician arrives.
-- Don't leave the cable under heavy tension while trying to unlock it; always support the weight of the cable.
+- Don’t yank, twist hard, or lever the connector with tools — it can damage the port/connector and make it harder to release.
+- Don’t use any manual/emergency release while the vehicle is actively charging.
+- Don’t drive off with the cable still attached.
+- Don’t switch off power at the chargepoint/electrics unless you’re the owner/operator and you know it’s safe to do so.
+- Don’t leave the cable under tension (pulled tight) while you “try one more time” — reduce tension first.
 
 ## What to do now
-1. **Confirm the vehicle is in Park and the charging session has officially ended.** **Check the charger screen, your vehicle dashboard, or the charging app to ensure the session status says "Finished" or "Completed."** 
-   - If the session is "Active" or "Paused," use the app or the charger's "Stop" button to end it.
-2. **Perform a specific unlock sequence using your vehicle's key fob.** **Press the "Unlock" button on your key fob three to five times in quick succession while standing next to the charging port.**
-   - Many UK EVs (such as those from Kia, Hyundai, and Volkswagen) require this repeated signal to trigger the actuator to retract the locking pin.
-3. **Relieve physical tension by pushing the connector inward.** **Gently push the charging handle further into the car's port until you hear a click, then try to pull it straight out.**
-   - The weight of a heavy rapid-charging (CCS) cable can snag the locking pin; lifting the handle slightly while unlocking can help.
-4. **Check the vehicle's infotainment settings for "Charge Cable Lock" options.** **Navigate to the charging menu on your car's touchscreen and look for a setting that says "Unlock connector when finished" or an "Unlock Port" button.**
-   - Some vehicles are set to "Always Lock" by default, which keeps the cable secured even after the session ends until a manual override is pressed on the screen.
-5. **Locate and use the manual emergency release if the electronic lock is unresponsive.** **Consult your owner's manual to find the physical release cord, which is usually a bright plastic tab or wire loop located inside the boot (behind a side panel) or under the bonnet near the port.**
-   - Ensure the car is powered down before pulling the cord.
-6. **Call the Charge Point Operator (CPO) helpline if the cable is stuck in a public unit.** **Look for the 24/7 support number printed on the charger housing and provide the station ID number.**
-   - Operators can often send a remote "hard reset" command to the post which physically releases the internal solenoid holding your cable.
-7. **Contact your breakdown provider if you cannot safely leave the vehicle.** **Notify your roadside assistance service that the vehicle is "immobile due to a charging port lock failure" if the manual release fails to work.**
+1. **Make it safe to pause for 60 seconds.** Put the car in **Park**, apply the parking brake, and slow down so you don’t damage anything in a rush.
+2. **End the charging session cleanly.**
+   - Use the **charger/app/RFID card** to stop the session (or the station’s stop button, if it has one).
+   - If your car has an in-car “stop charging” control, use that too.
+3. **Unlock the car (properly).**
+   - Unlock with the key fob and **keep the vehicle unlocked** for a moment.
+   - If it doesn’t release, try **pressing unlock several times** and/or a few **lock → unlock** cycles (some vehicles only release the port lock after a fresh unlock).
+4. **Remove tension and reseat the plug.**
+   - Hold the connector straight, **push it gently fully in** (so the latch can reset), then try removing it **straight out**.
+   - Make sure the cable isn’t pulled tight, kinked, or bearing weight.
+5. **Try a structured “unlock cycle” (often recommended by networks).**
+   - With charging stopped and the car in Park: **press unlock 5 times**, then (if needed) **toggle lock/unlock 3 times**, checking after each set whether it releases.
+6. **If it’s stuck in the chargepoint (your detachable cable):**
+   - Call the **service/helpline number on the post**. Operators may be able to **end/reset the session** or advise a safe reboot procedure.
+   - If there’s a staffed site (car park, supermarket, depot), ask staff to contact facilities/security.
+7. **If it’s stuck in the car: use the vehicle’s manual/emergency release.**
+   - Check the **owner’s manual** (often “charge port” → “manual release”).
+   - Only do this once you’re sure charging has stopped.
+8. **If you truly must leave and it still won’t release:**
+   - Call the helpline and explain you’re blocked and need to depart.
+   - If you’re on private land, notify site staff/security so the bay isn’t treated as abandoned.
+   - Arrange an alternative way to continue your journey (taxi/public transport) rather than forcing the connector.
 
 ## What can wait
-- You do not need to determine if the fault lies with the charger's hardware or the car's software right now.
-- You do not need to worry about "overstay" fees if you have notified the operator that the cable is stuck.
-- You do not need to attempt a DIY repair or disassembly of the connector.
+- You don’t need to diagnose whether it’s the car, the cable, or the charger right now.
+- You don’t need to make decisions about repairs, warranties, or blame on the spot.
+- You don’t need to keep retrying beyond a few careful cycles — once you’ve done the safe steps above, switch to calling the operator/manual release.
 
 ## Important reassurance
-Charging cables becoming stuck due to communication "handshake" errors or physical pin friction is a common occurrence with Type 2 and CCS hardware. Most cases are resolved within minutes by a simple software reset or by relieving the weight of the cable on the locking pin.
+This is a common EV charging glitch and is often just a “session didn’t end” or “port lock didn’t cycle” issue. Going slowly and resetting the latch cleanly is usually what frees it — force is what most often makes it worse.
 
 ## Scope note
-This guide provides first-step stabilization for a stuck charging connector in the UK. It does not cover electrical repairs or long-term troubleshooting for faulty on-board chargers.
+These are first steps to get you safely unplugged and moving. If the issue repeats, you may need vehicle-specific help from your manufacturer and/or the charging network.
 
 ## Important note
-This information is for emergency stabilization only and does not replace the manufacturer's specific instructions. If you see smoke, smell burning, or see exposed wiring, do not touch the cable and move away immediately. Contact the charging network and emergency services if there is an immediate fire or electrical hazard.
+This guide is general information for urgent situations, not mechanical or electrical advice. If anything looks damaged, smells hot, is sparking, or you feel unsafe, step back and get professional help (and use emergency services only if there is immediate danger).
 
 ## Additional Resources
-- https://support.ev.energy/en/support/solutions/articles/80001026178-the-charging-cable-is-stuck-what-to-do-
-- https://chargeplacescotland.org/charging-guide/
-- https://podenergy.com/guides/what-to-do-if-my-ev-charging-cable-is-stuck
-- https://instavolt.co.uk/faqs/
-- https://www.rac.co.uk/breakdown-cover/electric-car-breakdown-cover
+- https://www.chargepoint.com/en-gb/drivers/support/faqs/how-can-i-get-connector-unstuck-my-electric-vehicles-charging-port
+- https://ohme-ev.com/support/i-cant-unplug-my-charger/
+- https://help.char.gy/support/solutions/articles/77000132798-my-cable-is-stuck-in-the-charge-point
+- https://help.char.gy/support/solutions/articles/77000553889-my-cable-is-stuck-in-my-car
+- https://www.evsolutions.uk/stuck-unplug-electric-car-ev-charger/

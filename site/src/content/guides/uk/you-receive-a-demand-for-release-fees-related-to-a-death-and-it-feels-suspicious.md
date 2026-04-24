@@ -1,91 +1,85 @@
----
+﻿---
 title: "What to do if… you receive a demand for “release fees” related to a death and it feels suspicious"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "release fee scam"
-  - "suspicious death fees"
-  - "funeral fee demand"
-  - "bereavement scam call"
-  - "bereavement scam email"
-  - "funeral livestream paywall"
-  - "fake donation link"
-  - "estate payment release fee"
-  - "inheritance release fee"
-  - "advance fee fraud bereavement"
-  - "scam after a death"
-  - "unexpected fee after death"
-  - "urgent payment request funeral"
-  - "bank transfer scam demand"
-  - "someone wants fees to release funds"
-  - "release fees message"
-  - "funeral notice scam"
-  - "impersonation after death"
-  - "grieving targeted by scammers"
-  - "help i got a text about a funeral fee"
-  - "help i am being asked for money for a body release"
-  - "what do i do if i get a suspicious funeral link"
-  - "what do i do if a funeral home asks for bank transfer"
-  - "what do i do if i suspect a bereavement scam"
-  - "what do i do if a solicitor asks for a release fee"
-  - "my funeral director is asking for crypto"
-  - "my bank says a funeral payment is suspicious"
-  - "my email has a funeral payment link"
-  - "smell of scam in funeral message"
-  - "notice of funeral payment due"
-  - "urgent estate fee request"
-  - "death certificate fee scam"
-  - "probate release fee fraud"
-  - "mortuary release fee suspicious"
-last_reviewed: "2026-03-16"
+  - release fee scam
+  - suspicious death fees
+  - funeral fee demand
+  - bereavement scam call
+  - bereavement scam email
+  - funeral livestream paywall
+  - fake donation link
+  - estate payment release fee
+  - inheritance release fee
+  - advance fee fraud bereavement
+  - scam after a death
+  - unexpected fee after death
+  - urgent payment request funeral
+  - bank transfer scam demand
+  - someone wants fees to release funds
+  - “release fees” message
+  - funeral notice scam
+  - impersonation after death
+  - grieving targeted by scammers
+last_reviewed: "2026-03-03"
 ---
+
 # What to do if… you receive a demand for “release fees” related to a death and it feels suspicious (UK)
 
 ## Short answer
-Do not pay, click any links, or provide personal details. Stop all communication immediately and verify the request using contact details you find independently from official websites or existing paperwork.
+Do not pay or share any details. Pause, then verify the request using contact details you find independently (not the ones in the message), and report it as suspected fraud.
 
 ## Do not do these things
-- Do not send money under pressure, even if the requester claims the situation is urgent or time-sensitive.
-- Do not click on links, download attachments, or scan QR codes provided in the suspicious message.
-- Do not call the phone number provided in the message or use the "reply" function to ask for clarification.
-- Do not share your bank details, National Insurance number, or the deceased person’s sensitive data with unverified parties.
-- Do not pay via non-standard methods such as bank transfers to personal accounts, cryptocurrency, or gift cards.
-- Do not keep the request a secret, even if the sender tells you the matter is "confidential" or "private."
+- Do not send money “just to get it over with”, even if they say it’s urgent or “time-limited”.
+- Do not click links, scan QR codes, or open attachments from the message.
+- Do not call back the number in the message or keep chatting to “clear it up”.
+- Do not share bank details, card details, copies of ID, National Insurance number, or the deceased person’s details beyond what a verified professional asks for.
+- Do not pay via unusual methods (bank transfer to a personal account, crypto, gift cards, money transfer apps, or “admin fees” to unlock something).
+- Do not let them rush you into secrecy (“don’t tell anyone”, “keep this private”).
 
 ## What to do now
-1. **Stop all interaction and label the request as unverified.** **Put the device down for at least ten minutes to allow the initial surge of adrenaline or panic to subside.**
-2. **Collect evidence of the demand without replying.** **Take screenshots of the message, email, or call log, and save any relevant links into a separate notes document without clicking them.**
-3. **Verify the request through a trusted, independent channel.** **Use a known official phone number or website to contact the relevant organization directly.**
-   - For funeral directors, use the number on your original contract or their official website.
-   - For coroners or hospital mortuaries, find the number via the local council or NHS Trust website.
-   - For solicitors or estate executors, use the firm’s main switchboard number found through the Law Society directory.
-4. **Contact your bank immediately if you have already shared money or details.** **Call your bank using the number on the back of your card, or dial 159 (the UK's secure fraud hotline) to be connected to your bank's fraud team.**
-   - Ask the bank to stop or recall any pending transfers.
-   - Request a "stop" on your cards if card details were shared.
-5. **Report the incident to the national fraud reporting service.** **If you are in England, Wales, or Northern Ireland, report the incident to Report Fraud (formerly Action Fraud) online or by calling 0300 123 2040.**
-   - If you are in Scotland, report the fraud directly to Police Scotland by calling 101.
-   - Call 999 if you are in immediate danger or if the scammer is currently threatening you in person.
-6. **Use official reporting channels for the specific message type.** **Forward suspicious text messages to 7726 (the free UK reporting service) and forward suspicious emails to report@phishing.gov.uk.**
-7. **Notify other family members or executors involved in the bereavement.** **Briefly inform them that a suspicious fee demand has been received and advise them not to make any payments until the situation is verified.**
+1. **Stop and label it as “unverified”.** Put the message aside for 10 minutes. If you’re shaking, do one small reset: feet on the floor, slow exhale, then continue.
+2. **Capture evidence without interacting.** Screenshot the message, note the date/time, and keep the email/text/voicemail. If it’s a website link, copy it into a notes app (don’t open it).
+3. **Verify through a trusted route (not their route).**
+   - If it claims to be from a **funeral director**, contact the funeral director using the number on their official website, paperwork you already have, or a trusted professional directory (not a link from the message).
+   - If it mentions a **coroner**, **hospital mortuary**, or “release of the body”, phone the **coroner’s office / hospital bereavement office** using contact details you find independently (e.g., the NHS hospital website or your local council website).
+   - If it claims to be about an **estate, inheritance, insurance, or “funds being held”**, contact the executor/solicitor you already know (or the firm’s main switchboard found independently). Treat any “pay a fee to release money” demand as a major red flag.
+4. **If any money or details were already shared, act fast with your bank.**
+   - Call your bank using the number on your bank card or official app/website and ask for the **fraud team**.
+   - If you made a bank transfer, ask whether the payment can be **stopped or recalled** and what protective steps they recommend for your account.
+   - If you gave card details, ask about cancelling the card and disputing the payment.
+5. **Report it as fraud (even if you didn’t pay).**
+   - If you’re in **England, Wales, or Northern Ireland**, report via **Report Fraud** (online, or by phone on **0300 123 2040**).
+   - If you’re in **Scotland**, report to **Police Scotland** (typically via **101** for non-emergency).
+   - If you feel threatened, harassed, or someone is attempting to coerce payment right now, call **999**.
+6. **Do two quick “damage-limiting” reports (optional but helpful).**
+   - If it was a **scam text**, forward it to **7726** (goes to your phone provider).
+   - If it was a **scam email**, forward it to **report@phishing.gov.uk**.
+7. **Tell one other person involved in the bereavement.** A simple message like: “I got a suspicious ‘release fee’ demand related to the death. Please don’t pay or click anything — we’re verifying directly with the funeral director/coroner.”
 
 ## What can wait
-- You do not need to decide right now whether to pursue a legal case against the sender.
-- You do not need to identify exactly how the sender obtained information about the death today.
-- You do not need to respond to the sender to "prove" you know it is a scam.
-- You do not need to handle the reporting process alone if you are feeling overwhelmed; a trusted friend or family member can assist with the calls.
+- You do not need to decide today whether to pursue the scammer, confront them, or “teach them a lesson”.
+- You do not need to figure out exactly how they got the information right now.
+- You do not need to post publicly about it while you’re still shaken (do that later if you choose).
+- You do not need to handle it alone — you can hand the practical calls to someone you trust.
+- You do not need to resolve a dispute with your bank today; first, make sure your account is protected and the incident is logged.
 
 ## Important reassurance
-Scammers frequently target people during bereavement because they know that grief and the pressure of funeral arrangements can make anyone more vulnerable to rush decisions. Feeling startled, confused, or even angry is a natural response to this type of intrusion. Taking a moment to pause and verify is the most effective way to protect yourself.
+This kind of fraud often targets people during bereavement because urgency and grief make anyone easier to pressure. Feeling unsure, angry, or embarrassed is a normal reaction — the safest move is to slow everything down and verify using a route you control.
 
 ## Scope note
-This guide provides first-step stabilization and harm prevention for those receiving suspicious financial demands after a death. It does not provide long-term legal, financial, or probate advice.
+These are first steps to prevent loss and stabilise the situation. If money has gone, or if the scammer has personal data, you may need additional help from your bank and the relevant reporting bodies.
 
 ## Important note
-This information is for general guidance and is based on UK procedures as of March 2026. Reporting services and banking protocols may vary by region or specific bank policy. If you have lost money, always prioritize contact with your bank and the police.
+This is general information, not legal or financial advice. Processes can vary by UK nation and local area. If you’re unsure, default to not paying, verifying independently, and using official reporting plus your bank’s fraud team. If you disagree with how your bank or payment firm handled a scam payment, you can use their complaints process and may be able to escalate to the Financial Ombudsman Service.
 
 ## Additional Resources
-- https://www.gov.uk/after-a-death/when-a-death-is-reported-to-a-coroner
-- https://www.citizensadvice.org.uk/family/death-and-wills/what-to-do-after-a-death/
-- https://www.moneyhelper.org.uk/en/family-and-care/death-and-bereavement/help-paying-for-a-funeral
-- https://www.citizensadvice.org.uk/family/death-and-wills/complaining-about-a-funeral/
-- https://www.nafd.org.uk/standards/nafd-resolve/
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
+- https://www.scotland.police.uk/advice/scams-and-frauds/
+- https://www.nafd.org.uk/funeral-advice/livestream-and-social-media-funeral-scams/
+- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
+- https://www.fca.org.uk/consumers/fraudulent-payments
+- https://www.financial-ombudsman.org.uk/businesses/complaints-deal/fraud-scams/app-fraud-scams-involving-authorised-payments

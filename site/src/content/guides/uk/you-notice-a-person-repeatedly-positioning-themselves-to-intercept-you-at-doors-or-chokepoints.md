@@ -1,82 +1,74 @@
----
+﻿---
 title: "What to do if… you notice a person repeatedly positioning themselves to intercept you at doors or chokepoints"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "person intercepting me at doors"
-  - "chokepoint safety"
-  - "someone blocking the doorway"
-  - "repeatedly positioning at doors"
-  - "what do i do if someone intercepts me"
-  - "help i am being followed to a door"
-  - "help i feel trapped in a stairwell"
-  - "my exit is being blocked"
-  - "what do i do if a stranger waits for me"
-  - "stranger at building entrance"
-  - "intercepting at doors"
-  - "chokepoints"
-  - "doorway safety"
-  - "stairwell danger"
-  - "lift lobby safety"
-  - "shadowing at exits"
-  - "suspicious loitering at doors"
-  - "being funneled into corridor"
-  - "someone waiting by the exit"
-  - "repeated chokepoint encounters"
-  - "feeling targeted at doorways"
-  - "avoiding isolated entrances"
-  - "silent solution 55"
-  - "streetsafe uk"
-  - "four stalking signs"
-  - "fixated obsessive unwanted repeated"
-  - "personal safety uk"
-  - "doorway interception help"
-  - "safety in public spaces"
-  - "stalking red flags"
-last_reviewed: "2026-03-17"
+  - someone blocking a doorway
+  - stranger at building entrance
+  - being intercepted at doors
+  - person waiting by the exit
+  - repeated chokepoint encounters
+  - suspicious loitering near entrance
+  - being followed to a doorway
+  - uneasy in a stairwell
+  - lift lobby feels unsafe
+  - corridor chokepoint safety
+  - someone trying to corner me
+  - shadowing me in public
+  - intercepting me at turnstiles
+  - someone positioning to block me
+  - feeling targeted at exits
+  - avoiding isolated doorways
+  - worried someone is watching me
+  - public place safety concern
+  - unsure if stalking behaviour
+  - what to do if followed
+last_reviewed: "2026-01-11"
 ---
+
 # What to do if… you notice a person repeatedly positioning themselves to intercept you at doors or chokepoints (UK)
 
 ## Short answer
-Stop before the next doorway, retreat to a busy, staffed area immediately, and call 999 if you feel threatened or unable to exit safely. Do not allow yourself to be funneled into a confined space or an isolated exit.
+Don’t go through the next “pinch point” with them. Step back into a safer, more public/staffed spot (shop, reception, well-lit area) and call 999 if you feel in immediate danger.
 
 ## Do not do these things
-- Do not enter a lift, stairwell, narrow corridor, or car park lobby if they are already positioned to intercept you there.
-- Do not "test" their intent by continuing toward the chokepoint to see if they will actually block you.
-- Do not enter your own vehicle if the person is close by, as this may trap you inside.
-- Do not go straight to your home or a quiet side entrance where there are no witnesses.
-- Do not look down at your phone, dig for keys, or allow yourself to be distracted while approaching a door.
-- Do not accept "help" or directions from them that lead toward more secluded areas.
-- Do not keep looking back repeatedly once you have spotted them; maintain a forward-facing, purposeful retreat to a safe area.
+- Don’t enter a lift, stairwell, narrow corridor, car park stair/door, or doorway if they’re waiting to funnel you through it.
+- Don’t “prove it to yourself” by letting them get close at a door to see what happens.
+- Don’t confront them in a confined space or let them block you between a door and a wall.
+- Don’t go straight to your home, a quiet side entrance, or an isolated parking area if you think you’re being targeted.
+- Don’t get distracted unlocking doors, finding keys, or looking down at your phone while they’re close behind you.
+- Don’t accept “help” that moves you into a more secluded place (e.g., “come this way”, “use this entrance”).
 
 ## What to do now
-1. **Break the pattern immediately by changing your route.** If you see someone move to "meet" you at a door, stop moving toward it. Turn around and walk toward the nearest staffed location, such as a shop, reception desk, or crowded café.
-2. **Seek a "safe pause" in a public area.** Stay in a well-lit, busy environment where other people are present. Position yourself with your back to a wall and a clear view of the exits, ensuring you are not boxed in.
-3. **Alert staff or security on-site.** State clearly: "I am being followed by someone who is trying to block my path at doorways. I do not feel safe. Can you stay with me or help me get to a safe exit?"
-4. **Call 999 if you believe you are in immediate danger.** If you cannot speak safely, use the "Silent Solution" from a mobile. **You must press 55 when prompted** to be connected to the police; if you do not press 55, the call will be terminated.
-5. **Register for EmergencySMS if you have speech or hearing difficulties.** Text the word "register" to 999 and follow the automated instructions to enable text-based emergency reporting for future safety.
-6. **Report the behavior via 101 if it is not an emergency.** If the immediate threat has passed but the person is still in the area or this has happened before, call 101. Mention if the behavior is **FOUR**: Fixated, Obsessive, Unwanted, and Repeated.
-7. **Use StreetSafe to flag the specific location.** If you felt unsafe due to the environment or the person's behavior, use the anonymous **StreetSafe** tool on the Police.uk website. This helps police identify "hotspots" for increased patrols or better lighting.
-8. **Request an escort or safer transport.** Do not leave the safe area alone. Ask a friend to meet you, request a security escort to your car, or take a licensed taxi/Uber from directly outside the staffed entrance.
+1. **Break the pattern immediately (without drama).** Stop before the next door/chokepoint. Turn around, step back into a busier area, or enter the nearest open, staffed place (shop, café, reception, hotel lobby).
+2. **Create space and keep an exit.** Stand where you’re not boxed in (near other people, with a clear route back out). If you’re at a building entrance, **don’t go in**—wait for others, re-route, or ask staff to open/escort you through.
+3. **Use people and authority on-site.** Tell a staff member/security plainly: “I don’t feel safe—someone keeps positioning themselves to intercept me at doors. Can you stay with me / call security / help me leave safely?” If you’re in a residential building, return to the main entrance and use the intercom/concierge rather than going to a quieter entry.
+4. **Call the police if it feels urgent.** If you believe you’re in immediate danger, call **999**. If you can’t safely speak, still call 999 and follow the recorded prompt; on a mobile you may be asked to press **55** to confirm you need police help.
+5. **If it’s not an emergency, report it while it’s fresh.** Call **101** to report/ask advice. Tell them it has happened repeatedly at specific doors/chokepoints and give exact locations/times.
+6. **Capture the minimum details safely.** Without escalating, note: location, time, what doors/chokepoints, direction of travel, and a description (clothes, height, distinguishing features). If you’re in a staffed place, ask them to note it too.
+7. **Use StreetSafe for “unsafe place” concerns (not emergencies).** If you’re not reporting an emergency but want to flag a location where you felt unsafe (e.g., someone repeatedly lurking by a doorway/underpass), you can use **StreetSafe** (anonymous). If you’re in immediate danger, use 999 instead.
+8. **Once you’re safe, reset your next move.** Choose a safer way to get where you need to go: travel with others if possible, request an escort from staff/security, or take a more public route. If you’re heading home, consider meeting at a busy nearby location first rather than going straight to your front door.
 
 ## What can wait
-- You do not need to decide if this "counts" as stalking right now; your immediate safety takes priority over legal definitions.
-- You do not need to confront the person or ask why they are there.
-- You do not need to review CCTV or gather evidence yourself; let the police or building security handle data collection.
-- You do not need to worry about "overreacting" or "causing a scene" by involving staff or the police.
+- You do **not** need to decide right now whether this is “definitely stalking” or “definitely harmless”.
+- You do **not** need to gather perfect evidence (photos/videos) before contacting police or staff—don’t delay safety actions to collect proof.
+- You do **not** need to write a detailed statement, contact building management, or make a public post in the moment.
+- If you might ever need to contact 999 without speaking, you can **later** look into pre-registering for **emergencySMS/Relay UK** (this is not something you need to do in the moment).
 
 ## Important reassurance
-Trusting your intuition when you notice someone manipulating space to intercept you is a critical safety skill. It is normal to feel a "gut feeling" or a "ping" of fear in these moments; these are biological signals designed to help you avoid entrapment. You are not being "paranoid" by choosing a longer, busier route or asking for help.
+Noticing repeated “intercept” positioning at doors is a valid red flag to act on. You’re allowed to prioritise safety and create distance, even if you’re not 100% sure what their intent is.
 
 ## Scope note
-This guide provides first-step stabilization for an immediate encounter with interceptive behavior. It does not replace a long-term safety plan or a formal police investigation into stalking or harassment.
+This is first steps only to stabilise the situation and reduce risk. If this becomes a pattern around your home/work or keeps recurring in the same places, you may need specialist support and a longer-term safety plan.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional safety advice. Procedures for emergency services may change; always follow the instructions of the 999 operator.
+This is general information, not legal advice. If you feel unsafe or threatened, treat it as a safety issue and contact emergency services.
 
 ## Additional Resources
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-to-do-if-youre-being-stalked-or-harassed/
-- https://www.victimsupport.org.uk/crime-info/types-crime/stalking-and-harassment/
-- https://www.suzylamplugh.org/stalking-help-and-advice
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/stalking-harassment-support-organisations/
-- https://www.met.police.uk/cp/crime-prevention/personal-safety-how-to-stay-safe/
+- https://www.gov.uk/contact-police
+- https://www.police.uk/pu/contact-us/
+- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
+- https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
+- https://www.police.uk/streetsafe
+- https://www.askthe.police.uk/view-category/~/view-category/?id=fd08df18-6ad2-eb11-bacb-000d3ad61986
+- https://www.relayuk.bt.com/how-to-use-relay-uk/contact-999-using-relay-uk.html

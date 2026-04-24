@@ -1,108 +1,83 @@
----
+﻿---
 title: "What to do if… your calls start going straight to voicemail and texts arrive late or not at all"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "cloud account mass deletions"
-  - "cloud files deleted not by me"
-  - "someone deleted my cloud files"
-  - "cloud storage hacked"
-  - "account takeover cloud storage"
-  - "unexpected file deletions"
-  - "cloud sync deleted everything"
-  - "shared folder emptied"
-  - "missing files in cloud drive"
-  - "cloud activity log suspicious"
-  - "restore deleted cloud files"
-  - "cloud recycle bin recovery"
-  - "cloud version history restore"
-  - "unknown device signed in"
-  - "suspicious login cloud account"
-  - "connected apps unauthorized"
-  - "unauthorized api access"
-  - "ransomware deleting cloud files"
-  - "cloud files disappeared overnight"
-  - "file a cybercrime report ic3"
-  - "enable multi-factor authentication"
-  - "enable passkeys cloud security"
-  - "google drive trash recovery"
-  - "onedrive files restore window"
-  - "dropbox rewind help"
-  - "icloud recently deleted files missing"
-  - "massive file loss cloud sync"
-  - "help i lost all my cloud files"
-  - "what do i do if my cloud drive is empty"
-  - "what do i do if my files are being deleted"
-  - "my cloud account was compromised"
-  - "help someone is deleting my work files"
-  - "clout account security breach"
-  - "recovery from mass deletion event"
-  - "suspicious device logged into drive"
-  - "check cloud account access logs"
-last_reviewed: "2026-03-17"
+  - calls go straight to voicemail
+  - texts delayed or not arriving
+  - sms not coming through
+  - phone not receiving calls
+  - missed calls no ringing
+  - incoming calls silent
+  - mobile service suddenly bad
+  - signal but no calls
+  - can’t send texts
+  - delayed text messages
+  - no service suddenly
+  - phone not registered network
+  - sim issue maybe
+  - esim not connecting
+  - do not disturb blocking calls
+  - call forwarding accidentally on
+  - carrier outage maybe
+  - people can’t reach me
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your calls start going straight to voicemail and texts arrive late or not at all (USA)
 
 ## Short answer
-Isolate all syncing devices by disconnecting them from the internet, then secure your account using a new password and phishing-resistant multi-factor authentication (MFA) before attempting a provider-level "Point-in-Time" restoration.
+Assume a network/connectivity problem first: do a quick reconnect (airplane mode + restart), then check for a carrier outage before making big changes.
 
 ## Do not do these things
-- Do not keep your computer or phone connected to the internet while deletions are still occurring.
-- Do not interact with or pay any ransom demands if a "readme" or "recovery" file appears in your folders.
-- Do not empty the "Trash," "Recycle Bin," or "Recently Deleted" folders.
-- Do not follow support links from unsolicited emails or texts; only use the official provider website or app.
-- Do not reuse a previous password or use a simple variation of your old one.
-- Do not assume the files are gone forever without checking both the "Trash" and the "Point-in-Time" restoration tools.
+- Don’t repeatedly call again and again — it wastes battery/time during a fault and may add to congestion when networks are struggling.
+- Don’t factory reset your phone or wipe it in panic.
+- Don’t assume it’s only your device until you’ve checked for a carrier outage.
+- Don’t share verification codes with anyone “helping” — delayed SMS can create confusing, scam-friendly situations.
+- Don’t rush into buying hardware boosters or switching carriers today.
 
 ## What to do now
-1. **Isolate all synced devices immediately to stop the deletion from spreading.** 
-   - Switch all computers, tablets, and phones to airplane mode or unplug the ethernet cables.
-   - Force-quit cloud sync applications (Google Drive, OneDrive, iCloud, Dropbox) to prevent local file copies from being deleted or overwritten.
-
-2. **Secure the account from a separate, clean device.** 
-   - Log in to your cloud provider’s website from a device that was not recently used or a trusted computer.
-   - **Change your password** to a unique passphrase.
-   - **Enable MFA** (prefer Passkeys or a security key over SMS).
-   - Use the "Sign out of all sessions" or "Manage devices" feature to force-close any unauthorized active connections.
-
-3. **Audit and remove unauthorized access points.** 
-   - Check the **Security Activity Log** for logins from unknown locations or devices.
-   - Review **Connected Apps / Third-Party Permissions** and revoke access for any applications you do not recognize or no longer use.
-   - Verify that your **Recovery Email** and **Phone Number** have not been changed.
-
-4. **Initiate a point-in-time restoration through the provider's tools.** 
-   - Locate the service-specific recovery feature:
-     - **Microsoft OneDrive:** Use "Restore your OneDrive" (available for Microsoft 365 subscribers) to roll back the entire drive to a state within the last 30 days.
-     - **Google Drive:** Use the "Trash" folder (30-day window) or contact a "Google Drive Specialist" for personal accounts; admins can restore data within 25 days.
-     - **Dropbox:** Use "Dropbox Rewind" to take a folder or account back to a specific time (30–365 days depending on plan).
-     - **iCloud:** Check the "Recently Deleted" folder in iCloud Drive or the "Data Recovery" section on iCloud.com.
-
-5. **Check for "Second-Stage" or "Admin" recovery if files are not in the Trash.** 
-   - In Microsoft 365/OneDrive for Business, check the **Second-stage recycle bin** at the bottom of the standard recycle bin page.
-   - If this is a work or school account, contact your IT administrator immediately, as they often have higher-level recovery windows (e.g., 93 days for Microsoft).
-
-6. **File an official report if fraud or extortion is involved.** 
-   - If you are being extorted or have lost sensitive financial data, file a complaint with the **FBI Internet Crime Complaint Center (IC3)** at ic3.gov.
-   - If you believe your Social Security number or personal identity info was accessed, visit **IdentityTheft.gov** to create a recovery plan.
+1. **If you must reach help right now:** use **Wi-Fi Calling** (if already enabled), a **landline**, or ask someone nearby to call for you. For emergencies, call **911**.
+2. **Rule out silent-divert settings:**
+   - Turn off **Do Not Disturb / Focus**.
+   - Confirm **Call Forwarding** is off, and important contacts aren’t blocked.
+   - If you use a feature that silences unknown callers, temporarily turn it off to test.
+3. **Force a fresh network connection (fast reset):**
+   - Turn **Airplane Mode on**, wait about **5–10 seconds**, then **off**.
+   - Fully **power off**, wait ~20 seconds, then power back on.
+4. **Try one different spot and retest:** step outside or move a short distance to check whether it’s a building/local tower issue.
+5. **Check if it’s a carrier problem:**
+   - Use your carrier’s **outage/status** page or app.
+   - If there’s congestion/outage, keep attempts brief. (Texts may sometimes go through when calls don’t — but delays can still happen.)
+6. **Refresh SIM/eSIM:**
+   - Physical SIM: power off, remove/reinsert SIM, power on.
+   - eSIM: toggle the cellular line off/on (or cellular data off/on) to prompt re-registration.
+7. **Do one deeper fix if it still fails:**
+   - Install pending **OS/carrier updates**.
+   - As a last resort, **reset network settings** (expect saved Wi-Fi networks/passwords and VPN/APN settings to be cleared).
+8. **Call your carrier support with a tight summary:** “incoming calls go straight to voicemail + SMS delayed/missing,” your **ZIP code**, and **time windows** it happened. Ask them to check:
+   - local outages/tower issues,
+   - account/service blocks,
+   - and whether your SIM/eSIM needs a **refresh/reprovisioning** or replacement.
 
 ## What can wait
-- Reorganizing your folder structure or fixing file names.
-- Notifying all shared-folder collaborators (wait until the account is secure).
-- Purchasing additional backup hardware or switching cloud providers.
-- Reviewing your entire digital security footprint beyond this specific account.
+- You don’t need to decide now whether to change carriers, replace your phone, or buy any signal equipment.
+- You don’t need to troubleshoot every advanced setting unless your carrier tells you to.
+- You don’t need to escalate complaints until you’ve logged a few clear examples (dates/times/locations).
 
 ## Important reassurance
-Sudden mass deletions are frequently reversible if you stop the sync process quickly. Most major cloud providers retain deleted data in a "soft-deleted" state or a version history for at least 30 days. Finding your account empty is a common result of a sync error or a compromised session token, both of which can be addressed through the provider's native recovery dashboard.
+This exact pattern is common when a phone temporarily drops its network registration, when there’s carrier congestion/outage, or when a setting like Focus/forwarding/silencing is on. It’s usually recoverable with simple steps plus carrier support if needed.
 
 ## Scope note
-This guide covers first-step stabilization and recovery for personal and small-business cloud accounts. It does not replace professional forensic investigation or legal advice for high-stakes corporate data breaches.
+These are first actions to restore calling/SMS and prevent irreversible mistakes. If it keeps recurring across multiple locations and days, the next step is carrier-led diagnostics (SIM replacement, reprovisioning, device checks).
 
 ## Important note
-This information is for guidance only. Cloud provider retention policies and restoration features change frequently. Recovery success depends heavily on the specific subscription tier you hold and the time elapsed since the deletions occurred. Always refer to the official support documentation for your specific service provider.
+This is general information, not professional advice. If you can’t reliably place calls and you’re at risk, use alternate methods immediately (Wi-Fi Calling/landline/another person) and contact your carrier as soon as practical.
 
 ## Additional Resources
+- https://www.fcc.gov/consumers/guides/wireless-911-service
+- https://www.fcc.gov/reports-research/guides/tips-communicating-emergency
 - https://support.apple.com/en-us/118427
-- https://support.apple.com/en-us/118433
-- https://support.apple.com/en-us/120000
-- https://support.google.com/messages/answer/9077245?co=GENIE.Platform%3DAndroid&hl=en
-- https://www.att.com/support/article/wireless/KM1062174/
+- https://www.samsung.com/us/support/troubleshoot/TSG10001939/
+- https://www.att.com/wireless/stay-connected-during-network-outages
+- https://www.verizon.com/support/troubleshooter/cant-receive-a-call/

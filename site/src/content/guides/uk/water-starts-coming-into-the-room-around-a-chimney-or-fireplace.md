@@ -1,88 +1,75 @@
----
+﻿---
 title: "What to do if… water starts coming into the room around a chimney or fireplace"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "water coming through chimney"
-  - "water leaking around fireplace"
-  - "chimney breast leak"
-  - "water ingress chimney"
-  - "rain coming down chimney"
-  - "damp patch around chimney breast"
-  - "chimney leak after heavy rain"
-  - "water dripping in fireplace"
-  - "leak behind chimney stack"
-  - "chimney flashing leak"
-  - "fireplace surround wet"
-  - "ceiling stain by chimney"
-  - "water running down chimney wall"
-  - "chimney leak in storm"
-  - "chimney fireplace water leak"
-  - "water pooling near hearth"
-  - "chimney stack leak inside"
-  - "what do i do if my chimney is leaking"
-  - "what do i do if water is coming in through the fireplace"
-  - "what do i do if rain is dripping down the chimney"
-  - "what do i do if my fireplace is wet"
-  - "help i have a leak in my chimney"
-  - "help i have water in my fireplace"
-  - "help my chimney breast is wet"
-  - "help water is coming through the ceiling near the chimney"
-  - "brown stains on chimney breast"
-  - "bubbling plaster on chimney"
-  - "smell of soot and wetness"
-  - "damp chimney stack"
-  - "chimney breast dampness"
-  - "fireplace water pooling"
-  - "wet hearth"
-  - "chimney leak in flat"
-  - "chimney leak in house"
-last_reviewed: "2026-03-17"
+  - water coming through chimney
+  - water leaking around fireplace
+  - chimney breast leak
+  - water ingress chimney
+  - rain coming down chimney
+  - damp patch around chimney breast
+  - chimney leak after heavy rain
+  - water dripping in fireplace
+  - leak behind chimney stack
+  - chimney flashing leak
+  - chimney cap missing water
+  - fireplace surround wet
+  - ceiling stain by chimney
+  - water running down chimney wall
+  - chimney leak in storm
+  - chimney fireplace water leak
+  - water pooling near hearth
+  - chimney stack leak inside
+last_reviewed: "2026-03-03"
 ---
-# What to do if… water starts coming into the room around a chimney or fireplace (UK)
 
+# What to do if… water starts coming into the room around a chimney or fireplace (UK)
 ## Short answer
-Isolate the area immediately and switch off the electricity at the consumer unit (fuse box) if water is near any sockets, switches, or cables. Do not use any heating appliances connected to that chimney until they have been professionaly inspected.
+Treat this as an electrical-and-structural risk first: keep people away from the wet area, and switch off electricity at the mains **if** water could reach wiring, sockets, or appliances and you can do it safely.
 
 ## Do not do these things
-- Do not touch any electrical sockets, switches, or plugged-in devices if the wall or floor is wet.
-- Do not use the fireplace, wood burner, or gas fire to "dry out" the area.
-- Do not climb onto the roof or up a ladder while it is raining or during a storm.
-- Do not attempt to seal or patch the leak from the inside while water is still entering.
-- Do not ignore signs of structural change like sagging plaster or falling masonry.
+- Do not touch sockets, switches, or plugged-in appliances if the wall, floor, or your hands are wet.
+- Do not keep using the fireplace/wood burner/gas fire “to dry it out” (water plus heat can worsen damage).
+- Do not climb onto the roof in bad weather or when you’re alone.
+- Do not “seal it from the inside” while water is actively coming in (it can trap water and hide damage).
+- Do not ignore new bulging plaster, sagging ceilings, cracking, or falling debris around the chimney breast.
 
 ## What to do now
-1. **Move to a dry area and create a safer pause.** Keep children and pets away from the wet wall or hearth. Ensure you are wearing shoes with rubber soles and are not standing in water while assessing the room.
-2. **Safely isolate the power if water is near electrics.** Turn the main switch on your consumer unit (fuse box) to the "OFF" position **only if** you can reach it without touching wet surfaces or standing in water.
-   - If you see sparks, smoke, or smell burning, exit the property and call **999**.
-   - If you cannot safely reach the fuse box and are concerned about the internal wiring, call **105** to reach your local electricity network operator.
-3. **Shut down all appliances connected to the chimney.**
-   - **Solid fuel (wood/coal):** Stop adding fuel and let the fire go out; do not attempt to clear the grate while it is hot.
-   - **Gas fires:** Turn the appliance off at the control tap. If you smell gas or a Carbon Monoxide (CO) alarm sounds, call the National Gas Emergency Service on **0800 111 999**.
-4. **Contain the water to prevent further spread.** Place buckets or plastic containers directly under drips. Use towels to create a barrier around the hearth to protect flooring.
-5. **Secure the area from falling debris.** If the plaster on the chimney breast is soft, bulging, or if the ceiling looks heavy and swollen, move all furniture and people out of the "fall zone" beneath it.
-6. **Capture evidence for insurance or repairs.** Take clear photographs or video of the water entry points, the damp patches, and any damage to the fireplace or surround once you are in a stable position.
-7. **Contact a specialist for a professional assessment.**
-   - **If you rent:** Notify your landlord or managing agent immediately, as this is an urgent repair involving the building envelope.
-   - **If you own:** Contact a Gas Safe registered engineer (for gas fires) or a HETAS-registered specialist (for solid fuel) to check the flue, and a roofer to inspect the chimney stack and flashing.
+1. **Create a safer pause.** Keep children/pets out of the room. Put on shoes. Keep clear of wet walls/floors, especially near sockets, extension leads, TVs, or other electrics.
+2. **If water could contact electrics, switch power off safely.** Turn off electricity at the consumer unit/main switch **only if** you can reach it without stepping into water or touching wet surfaces.  
+   - If there is **immediate danger** (sparking, smoke/fire, someone injured), move away and call **999**.  
+   - If you **can’t safely isolate power** and you’re worried water is affecting electrical supply equipment or cables, contact your local electricity network operator (you can call **105**).
+3. **Stop using anything venting through that chimney.**
+   - **Open fire / stove / wood burner:** stop using it until checked and dried.
+   - **Gas fire or any gas appliance connected to that flue/chimney:** turn it off. If a **carbon monoxide alarm sounds**, you smell gas/exhaust fumes, or anyone feels unwell, follow gas emergency guidance and get to fresh air.
+4. **Contain the water to limit damage.** Put a bucket/trug where it’s dripping. Lay towels around the hearth/skirting. If water runs down a wall, tape a plastic sheet so it channels into a container (keep away from hot surfaces).
+5. **Reduce collapse risk.** If plaster is soft/bubbling, masonry crumbs are falling, or the ceiling near the chimney looks swollen or is dripping, keep the area underneath clear and avoid sleeping in that room until it’s assessed.
+6. **Document quickly, then contact the right party.**
+   - Take photos/video of where water appears and any ceiling/wall changes.
+   - If you **rent**, report it as an urgent repair to your landlord/agent (roof/chimney leaks can escalate quickly). Use their out-of-hours/emergency repairs contact if needed.
+   - If you **own**, contact your insurer/home emergency provider (if applicable) and book a **roofer or chimney specialist**. Leaks here are commonly from flashing/soakers, failed pointing, chimney crown, or a missing/damaged cap/cowl.
+7. **Before you use any gas appliance again, get it checked if you’re unsure.** If water has affected a gas fire or you’re uncertain about the flue’s condition, arrange a **Gas Safe registered engineer** check before reuse.
 
 ## What can wait
-- You do not need to identify the exact entry point on the roof (e.g., flashing, masonry, or cap) right now.
-- You do not need to begin cleaning stains or stripping wet plaster until the ingress has been stopped and the electrics are certified safe.
-- You do not need to file a full insurance claim immediately; focuses on safety and preventing further damage first.
+- You do not need to diagnose the exact cause (flashing vs cap vs masonry) right now.
+- You do not need to strip plaster, repaint, or run dehumidifiers until water ingress has stopped and electrics are confirmed safe.
+- You do not need to decide today whether to make an insurance claim—focus on safety, evidence (photos), and stopping further damage.
 
 ## Important reassurance
-It is normal to feel overwhelmed when water enters the home suddenly during a storm. Most chimney leaks are caused by simple wear to external seals or heavy wind-driven rain. Following these steps prioritizes your physical safety from shock and fire while you wait for the weather to clear for a professional inspection.
+This is a common “sudden panic” problem in heavy rain and storms. The safest first steps are simple: avoid electrical shock risk, stop using the fireplace/appliance, contain the water, and get the roof/chimney checked when it’s safe to access.
 
 ## Scope note
-This guide provides first-step stabilization only. Water entering a chimney can involve electrical, gas, and structural risks that require inspection by qualified professionals before the room or fireplace can be used again.
+These are first steps only. The repair usually needs a roofer/chimney professional, and if water has been near wiring or sockets an electrician may need to confirm safety.
 
 ## Important note
-This information is for general guidance and does not replace professional medical, legal, or technical advice. If you suspect a gas leak, carbon monoxide exposure, or imminent structural collapse, evacuate the property and contact emergency services.
+This is general information, not a professional inspection or legal advice. If you suspect electrical danger, structural instability, a gas leak, or a carbon monoxide risk, treat it as urgent and get professional help.
 
 ## Additional Resources
-- https://www.which.co.uk/news/article/how-to-dry-your-home-out-after-a-leak-or-flood-aqpBo3b5qS0v
-- https://www.cse.org.uk/advice/condensation-damp-and-mould/
-- https://www.gov.uk/private-renting/repairs
-- https://england.shelter.org.uk/housing_advice/repairs/damp_and_mould_in_rented_homes
-- https://www.moneyhelper.org.uk/en/everyday-money/insurance/what-is-buildings-insurance
+- https://www.gov.uk/help-during-flood
+- https://www.gov.uk/prepare-for-flooding/protect-your-property
+- https://www.energynetworks.org/work/105-service
+- https://www.powercut105.com/en/
+- https://www.gassaferegister.co.uk/gas-emergency/what-to-do-in-a-gas-emergency/
+- https://www.hse.gov.uk/safetybulletins/fluesinvoids.htm
+- https://www.electricalsafetyfirst.org.uk/media-centre/press-releases/2022/08/what-should-i-do-if-my-home-is-flooded-vital-electrical-safety-flood-advice-as-severe-weather-hits-parts-of-the-uk/

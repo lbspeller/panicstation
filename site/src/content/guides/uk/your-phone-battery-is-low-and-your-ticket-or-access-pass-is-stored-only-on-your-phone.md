@@ -1,98 +1,91 @@
----
+﻿---
 title: "What to do if… your phone battery is low and your ticket or access pass is stored only on your phone"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "phone battery low ticket"
-  - "ticket only on phone"
-  - "e-ticket battery dying"
-  - "mobile ticket won-t open"
-  - "ticket app won-t load"
-  - "no signal for e-ticket"
-  - "qr code won-t scan"
-  - "barcode won-t display"
-  - "phone about to die at station"
-  - "rail e-ticket on phone"
-  - "train barrier needs ticket"
-  - "bus ticket in phone app"
-  - "contactless payg phone battery"
-  - "tap in tap out battery low"
-  - "access pass stored on phone"
-  - "phone wallet travel pass"
-  - "charger missing while travelling"
-  - "power saving for ticket screen"
-  - "booking reference only on phone"
-  - "mobile ticket offline access"
-  - "unpaid fare notice battery"
-  - "penalty fare dead phone"
-  - "national rail e-ticket dead"
-  - "tfl phone battery dead"
-  - "help i have no ticket battery"
-  - "what do i do if my phone dies with my ticket"
-  - "what do i do if my train ticket is on my dead phone"
-  - "what do i do if my bus ticket won-t load"
-  - "what do i do if my mobile ticket is gone"
-  - "my phone is dying and i need my ticket"
-  - "my phone battery is 1 percent ticket"
-  - "help i cannot show my ticket"
-  - "help i cannot tap out"
-last_reviewed: "2026-03-17"
+  - phone battery low ticket
+  - ticket only on phone
+  - e-ticket battery dying
+  - mobile ticket won’t open
+  - ticket app won’t load
+  - no signal for e-ticket
+  - qr code won’t scan
+  - barcode won’t display
+  - phone about to die at station
+  - rail e-ticket on phone
+  - train barrier needs ticket
+  - bus ticket in phone app
+  - contactless payg phone battery
+  - tap in tap out battery low
+  - access pass stored on phone
+  - phone wallet travel pass
+  - charger missing while travelling
+  - power saving for ticket screen
+  - booking reference only on phone
+  - mobile ticket offline access
+last_reviewed: "2026-03-11"
 ---
+
 # What to do if… your phone battery is low and your ticket or access pass is stored only on your phone (UK)
 
 ## Short answer
-Download your ticket for offline use immediately and approach a member of staff (ticket office or gateline) to verify your travel authority before your device shuts down.
+Get your ticket/pass visible in an offline-ready form immediately, then go to a staffed point (ticket office/gateline/help point) *before* you’re challenged, while you still have enough battery to show it.
 
 ## Do not do these things
-- Don't keep your screen at high brightness while waiting; this is the fastest way to lose the last 2% of power.
-- Don't rely on a screenshot of your ticket; National Rail and most UK bus operators do not accept screenshots as valid proof of travel.
-- Don't wait for a ticket inspector to find you; if your phone dies before inspection, you are legally liable for a Penalty Fare or an Unpaid Fare Notice.
-- Don't assume you will have 4G/5G signal at the ticket barrier or in underground stations to load the app.
-- Don't start a contactless journey on a phone if you have less than 5% battery, as you may be unable to "touch out," resulting in a maximum fare charge.
+- Don’t keep the ticket app open at full brightness “just in case” — it can drain the last few % fast.
+- Don’t wait until you’re at the barrier or in front of an inspector to mention it; act while you still have power.
+- Don’t assume you’ll have signal to load your ticket at stations, underground areas, or on platforms.
+- Don’t rely on screenshots unless your operator explicitly says they’re accepted (many don’t accept them).
+- If you’re using **pay as you go/contactless on a phone**, don’t start a journey if you think the phone may die before you can finish any required “touch out” step.
+- Don’t hand your unlocked phone to strangers to “help” — keep control of it.
 
 ## What to do now
-1. **Activate maximum power saving immediately.**
-   - **Turn on Low Power Mode / Battery Saver.**
-   - **Lower screen brightness to the minimum readable level.**
-   - **Turn off Wi-Fi, Bluetooth, and Location Services (GPS).**
-   - **Close all background apps except the one containing your ticket.**
+1. **Preserve battery immediately (30 seconds).**
+   - Turn on Low Power Mode.
+   - Turn down brightness.
+   - Close other apps.
+   - Turn off Wi-Fi/Bluetooth unless your ticket/pass requires it.
 
-2. **Secure an offline copy of the ticket.**
-   - **Add the ticket to your Apple Wallet or Google Wallet** if the app allows it; these often work with less power than a full app.
-   - **Download the PDF version of the e-ticket** from your confirmation email directly to your phone's local storage.
-   - **Take a photo of the ticket with a second device** if you are travelling with a companion, though this is for emergency reference only and not a guaranteed valid ticket.
+2. **Make the ticket/pass work without signal (do this before moving).**
+   - Open the ticket and get the barcode/QR ready.
+   - If your operator/app offers it, **download the eTicket in-app** or **add it to your mobile wallet**.
+   - If your ticket is a **PDF eTicket** from an email/receipt, **download it to your phone** so it opens offline.
+   - **Quick offline check:** switch to Airplane Mode for a moment and confirm the ticket still displays. (Turn it back off if you need data again.)
 
-3. **Approach staff before the battery fails.**
-   - **Go to a staffed ticket office, gateline, or Help Point.**
-   - **Explain the situation clearly:** "My ticket is on my phone and the battery is failing; can you verify my ticket or booking reference now while I still have power?"
-   - **Note down your Booking Reference Number** on a piece of paper or your hand; staff may be able to use this to issue a temporary pass or verify your purchase if the device dies.
+3. **Go to staff while you still have battery.**
+   - At stations: go to the **ticket office** (if open), a staffed **gateline**, or use the **Help Point**.
+   - Say: “My ticket is only on my phone and the battery is about to die — can you help me verify it or advise what to do before I travel?”
 
-4. **Identify emergency power sources.**
-   - **Look for USB charging points** on newer trains (often under seats or on seat backs) or buses.
-   - **Check for public charging kiosks** in major stations (e.g., WHSmith or dedicated "ChargeBox" stations).
-   - **Ask at a station coffee shop** if they can allow a 5-minute emergency charge if you have your own cable.
+4. **If you’re already onboard and worried about inspection, show it early.**
+   - If you see staff or an inspection is likely, approach when practical and **show the ticket immediately** while it still loads.
+   - Have your booking reference, route, and travel time ready in case they need to verify details.
 
-5. **Utilise "Power Reserve" for contactless travel.**
-   - **Attempt to touch out even if the screen is black** if you are using an iPhone with "Express Mode" enabled; some models allow transit taps for up to 5 hours after the battery dies.
-   - **Carry a physical backup card** if you frequently use mobile contactless, as readers cannot process a completely dead device without these specific hardware features.
+5. **Get power quickly (even a brief top-up helps).**
+   - Ask staff if there’s a charging point nearby.
+   - If you have a cable, ask a café/shop if you can use a socket briefly.
+   - If you must buy something now, prioritise a **small power bank** or the correct **charging cable**.
+
+6. **If you’re using pay as you go/contactless on a phone, reduce risk.**
+   - If you haven’t started yet and you have another option, use a **physical contactless card** instead of a phone.
+   - If you’ve started a pay as you go journey and fear the phone may die, focus on preserving enough power to complete any required “touch out” step.
 
 ## What can wait
-- You do not need to delete photos or large files to save battery; the power consumed by the processor for these tasks is higher than the idle savings.
-- You do not need to contact the ticket retailer for a refund yet.
-- You do not need to worry about "touching in" for future legs of the journey until you have secured a charge.
+- You do not need to argue policy, chase refunds, or appeal anything right now.
+- You do not need to set up perfect backups for every future journey today.
+- You do not need to diagnose why your battery is draining — just stabilise *this* trip first.
 
 ## Important reassurance
-Station staff deal with failing phone batteries daily. If you approach them proactively before your device dies, they are significantly more likely to assist you or provide a "stand-to-side" charging opportunity than if you are caught with a dead device during a formal inspection.
+This is a common, solvable travel problem. Acting early — making the ticket work offline and speaking to staff before you’re stuck — is what usually prevents it turning into a bigger issue.
 
 ## Scope note
-This guide covers immediate stabilization of a travel authority crisis. It does not cover the legal appeals process for Penalty Fares already issued or technical troubleshooting for broken phone hardware.
+These are first steps to get you through the next barrier/inspection/boarding. Operator-specific follow-ups (fare adjustments, penalty fare appeals, refunds) can be handled later, when you’re not under time pressure.
 
 ## Important note
-Under the National Rail Conditions of Travel and TfL Conditions of Carriage, it is the passenger's legal responsibility to ensure their device is charged and functional for the duration of the journey. Failure to produce a valid ticket due to a dead battery is generally treated as "failure to show a valid ticket" and can result in a Penalty Fare, Unpaid Fare Notice, or prosecution.
+This is general information, not legal advice. Rules vary by operator and ticket type (including whether screenshots are accepted). If you’re unsure, follow your operator/app instructions and ask staff as early as possible.
 
 ## Additional Resources
-- https://www.nationalrail.co.uk/tickets-railcards-and-offers/ticket-types/season-tickets/season-tickets-terms-and-conditions/
-- https://www.ticketmaster.co.uk/mobile-tickets
-- https://support.apple.com/en-gb/guide/security/sec90cd29d1f/web
-- https://support.apple.com/en-gb/105123
-- https://tfl.gov.uk/fares/penalty-fares-and-how-to-pay-them
+- https://www.southwesternrailway.com/train-tickets/smart-ticketing/etickets
+- https://www.southwesternrailway.com/train-tickets/smart-ticketing/etickets/etickets-frequently-asked-questions
+- https://www.nationalrail.co.uk/tickets-railcards-and-offers/buying-a-ticket/pay-as-you-go-with-contactless/
+- https://content.tfl.gov.uk/tfl-conditions-of-carriage.pdf
+- https://tfl.gov.uk/fares/ways-to-pay/pay-as-you-go

@@ -1,108 +1,90 @@
----
+﻿---
 title: "What to do if… you receive a credible warning that someone may come to confront you at your location"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "someone is coming to my location"
-  - "person is on their way to confront me"
-  - "credible warning someone will show up"
-  - "threatened at home right now"
-  - "threatened at work right now"
-  - "someone coming to my house"
-  - "someone coming to my workplace"
-  - "hostile person may arrive"
-  - "confrontation at the door"
-  - "someone waiting outside for me"
-  - "threatened by an ex turning up"
-  - "threatened by a neighbour turning up"
-  - "angry person heading to me"
-  - "intimidation someone coming over"
-  - "fear of violence from visitor"
-  - "someone may force entry"
-  - "worried they know my address"
-  - "warning they are nearby"
-  - "imminent confrontation warning"
-  - "help i am being followed to my house"
-  - "what do i do if someone is coming to attack me"
-  - "what do i do if an ex is coming to my flat"
-  - "what do i do if someone is outside my house"
-  - "what do i do if i am being threatened at home"
-  - "my ex is coming to my house"
-  - "my neighbor is coming to confront me"
-  - "help i am scared at home"
-  - "help someone is on their way to find me"
-  - "smell of burning"
-  - "shaking and racing heart"
-  - "locked door"
-  - "police 999"
-  - "silent solution 55"
-  - "home safety"
-  - "workplace safety"
-last_reviewed: "2026-03-17"
+  - someone is coming to my location
+  - person is on their way to confront me
+  - credible warning someone will show up
+  - threatened at home right now
+  - threatened at work right now
+  - someone coming to my house
+  - someone coming to my workplace
+  - hostile person may arrive
+  - confrontation at the door
+  - someone waiting outside for me
+  - threatened by an ex turning up
+  - threatened by a neighbour turning up
+  - angry person heading to me
+  - intimidation someone coming over
+  - fear of violence from visitor
+  - someone may force entry
+  - worried they know my address
+  - warning they are nearby
+  - imminent confrontation warning
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… you receive a credible warning that someone may come to confront you at your location (UK)
 
 ## Short answer
-Move to a secure or public area immediately and alert others who can provide support or security. If you believe the person is arriving or you are in immediate danger, call **999**.
+Get to a safer position and involve other people (security, neighbours, staff). If you feel at risk of harm or they may be arriving imminently, call **999**.
 
 ## Do not do these things
-- Do not go outside or open the door to "talk it out" or "reason" with them.
-- Do not stand near windows or glass doors to watch for their arrival.
-- Do not reply to threatening messages or engage in phone arguments.
-- Do not post your location or the situation on social media or in group chats.
-- Do not attempt to physically block the door with your body if someone tries to force entry.
+- Do not go outside, open the door, or “meet them” to calm things down.
+- Do not get drawn into arguing by text/call while you’re trying to stay safe.
+- Do not stand at windows or doorways “to see if it’s them”.
+- Do not broadcast your location, movements, or plans (including in group chats or social media).
+- Do not stay isolated if you can safely avoid it.
 
 ## What to do now
-1. **Relocate to a safer position immediately (tens of seconds).**
-   - If you can **leave the building safely** before they arrive, go to a staffed public place like a shop, library, or supermarket.
-   - If you cannot leave safely, **stay inside** and move to a room with a lock and a solid door, away from ground-floor windows.
+1. **Move to the safest available place (tens of seconds).**
+   - If you can **leave safely**, go to a staffed, public place nearby (shop, reception area, lobby) or a trusted neighbour/friend.
+   - If leaving could increase risk, **stay inside**, move away from doors/ground-floor windows, and choose a spot with a solid barrier between you and the entrance.
 
-2. **Secure all entry points without exposing yourself.**
-   - Lock all external doors and windows.
-   - Do not enter communal hallways or stairwells in shared buildings to check if the person has arrived.
+2. **Secure access points without putting yourself in danger.**
+   - Lock doors and accessible windows.
+   - If you’re in a shared building, avoid going into hallways/communal entrances to investigate.
 
-3. **Notify on-site assistance or trusted contacts.**
-   - **At work:** inform security or management immediately and tell them not to allow the person access.
-   - **At home:** call or message a neighbour or nearby friend to let them know you are concerned and ask them to stay on the line.
+3. **Bring in on-site help immediately.**
+   - **Workplace/venue:** tell reception/security/manager: “I’ve had a credible warning someone may come to confront me. Please don’t let anyone in to see me, and call police if they attempt to force contact.”
+   - **Home:** message or call a trusted neighbour/friend to stay on the phone with you or come over (only if it’s safe for them to do so).
 
-4. **Contact the police using the appropriate number for the risk level.**
-   - Call **999** if the person is arriving, trying to enter, making threats of violence, or if you feel immediate harm is likely.
-   - Call **101** only if the threat is not immediate but you want to report the warning for the record.
+4. **Decide which police number fits the risk right now.**
+   - Call **999** if there is **immediate danger**, threats of violence, someone trying to get in, or you believe they are arriving imminently and you feel unsafe.
+   - Call **101** (or report online) if it’s serious but **not immediate**, so there’s a record and you can get advice.
 
-5. **Prepare details for the emergency operator to ensure a fast response.**
-   - **Have your exact location ready**, including floor number, flat number, or specific building entrance.
-   - State clearly who is coming, how you know, and what they have threatened to do.
+5. **Prepare the essentials for a quick, clear call (write it down).**
+   - Exact address/location (floor, entry instructions), your phone number, who may arrive, and any description/vehicle details you have.
+   - What you want to happen: e.g., “I need officers to attend / I need advice / I need this logged.”
 
-6. **Use the Silent Solution if you cannot speak safely on a mobile.**
-   - Dial **999** and listen to the automated instructions.
-   - **Press 55** when prompted to confirm it is a genuine emergency; this connects you to a police handler.
-   - Once connected, if you still cannot speak, respond to the handler’s questions by tapping the handset or coughing.
+6. **If you cannot speak safely on a 999 call, use the Silent Solution.**
+   - Dial **999**. If you can, respond to questions by coughing/tapping.
+   - **If prompted**, press **55** on a mobile to indicate it’s a genuine emergency and be connected to police.
+   - If you can safely do so, still try to provide your location in any way you can.
 
-7. **Follow landline procedures if calling from a home phone.**
-   - Dial **999** and stay on the line; landlines do not use the "55" system.
-   - If you stay silent, the operator will listen for background noise and may connect you to police automatically because landlines provide location data.
-
-8. **Pause all non-essential location sharing on your devices.**
-   - Disable "Find My" or "Live Location" features in messaging apps.
-   - Avoid checking in or tagging your current location on any platform.
+7. **Make it harder to be intercepted.**
+   - Don’t go to predictable exit points (front door, car park) unless you’re leaving safely with a clear destination.
+   - Pause non-essential location sharing and avoid live updates in messaging apps for now.
 
 ## What can wait
-- You do not need to decide whether you want to press charges or take the matter to court right now.
-- You do not need to look through old messages or evidence to "prove" the threat while the person is arriving.
-- You do not need to explain the history of your relationship with the person to the emergency operator; focus on the immediate threat.
+- You do not need to decide right now whether to make a formal statement, pursue charges, or take legal action.
+- You do not need to explain the full history to multiple people—focus only on what helps keep you safe in the next hour.
+- You do not need to respond to further messages from the person or anyone relaying messages, unless it helps immediate safety.
 
 ## Important reassurance
-It is normal to experience physical symptoms like shaking, a racing heart, or difficulty thinking clearly when you receive a threat. These are natural survival responses to a perceived danger. Taking steps to put physical distance and locked barriers between yourself and the person is a practical way to manage the situation.
+A credible warning can trigger a strong stress response (shaking, racing thoughts, nausea, feeling “stuck”). That doesn’t mean you’re overreacting—it means your body is trying to protect you. The safest approach is to **increase distance, reduce access, and get support involved**.
 
 ## Scope note
-This guide provides first-step stabilization for the minutes following a warning. Long-term safety planning, injunctions, or non-molestation orders will require separate professional advice.
+This is first-steps-only guidance for the next minutes to hours. After you’re safe, you may want follow-up support and planning with appropriate services.
 
 ## Important note
-This information is for general guidance and cannot guarantee safety. If you are in fear for your life or physical safety, your priority is to contact emergency services via 999.
+This is general information, not legal advice or a guarantee of safety. If you think harm is possible or imminent, prioritise immediate safety and contact emergency services.
 
 ## Additional Resources
-- https://www.gov.uk/report-stalker
-- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
-- https://www.cps.gov.uk/information-and-support-victims/support-victims/support-victims-stalking-or-harassment
-- https://www.victimsupport.org.uk/crime-info/types-crime/stalking-and-harassment/
-- https://www.paladinservice.co.uk/
+- https://www.gov.uk/contact-police
+- https://www.police.uk/pu/contact-us/
+- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
+- https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
+- https://www.westyorkshire.police.uk/advice/our-services/999-or-101-which-number/pocket-dial-silent-999-calls
+- https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/

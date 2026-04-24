@@ -1,112 +1,85 @@
----
+﻿---
 title: "What to do if… your computer displays a ransom note but you have not paid or contacted anyone yet"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "computer won't start"
-  - "pc won't boot"
-  - "laptop won't turn on"
-  - "computer not powering on"
-  - "black screen on startup"
-  - "stuck on boot screen"
-  - "need files urgently"
-  - "files trapped on computer"
-  - "only copy on device"
-  - "hard drive recovery"
-  - "ssd recovery"
-  - "get files off dead laptop"
-  - "windows bitlocker recovery key"
-  - "mac target disk mode"
-  - "share disk macos recovery"
-  - "usb sata adapter enclosure"
-  - "power outage then won't start"
-  - "spill drop then won't boot"
-  - "important documents on computer"
-  - "photos only on laptop"
-  - "work files on broken computer"
-  - "what do i do if my computer won't turn on"
-  - "what do i do if i lost my files"
-  - "what do i do if my pc is dead"
-  - "what do i do if my hard drive is clicking"
-  - "help i need files from a broken computer"
-  - "help i can't access my documents"
-  - "help i have no backup"
-  - "help my laptop screen is black"
-  - "my files are only on this pc"
-  - "my computer is clicking"
-  - "my laptop is making noises"
-  - "recovery key bitlocker missing"
-  - "broken computer file retrieval"
-last_reviewed: "2026-03-17"
+  - ransom note on computer
+  - ransomware note
+  - files encrypted
+  - computer locked ransomware
+  - ransomware pop-up
+  - bitcoin ransom demand
+  - crypto ransom demand
+  - decrypt key demanded
+  - system encrypted
+  - desktop ransom message
+  - strange file extensions
+  - network share encrypted
+  - work laptop ransom note
+  - home pc ransomware
+  - not paid ransom
+  - not contacted attacker
+  - scared to respond
+  - data held hostage
+  - extortion message
+  - malware ransom screen
+last_reviewed: "2026-03-08"
 ---
-# What to do if… your computer displays a ransom note but you have not paid or contacted anyone yet (USA)
 
+# What to do if… your computer displays a ransom note but you have not paid or contacted anyone yet (USA)
 ## Short answer
-Stop all attempts to repair or restart the device if you hear clicking or grinding noises. Your immediate priority is to isolate the storage drive and use a second computer or a professional service to copy the files before attempting any system fixes.
+Immediately isolate the affected computer from the internet/network, then document the ransom note (photos/screenshots) and do not communicate with the attacker.
 
 ## Do not do these things
-- Do not use factory reset, system restore, or "Reinstall Windows / macOS" options as these may overwrite data.
-- Do not keep forcing the computer to restart if it fails more than twice.
-- Do not open the hard drive or SSD casing.
-- Do not use DIY "tricks" like freezing the drive or tapping it.
-- Do not install "recovery software" onto the same drive you are trying to rescue.
-- Do not send the device for warranty repair without a written guarantee regarding data preservation.
+- Don’t pay, bargain, or message the attacker “to see if it’s real.”
+- Don’t click links, QR codes, or “support” buttons in the ransom note.
+- Don’t attach backup drives or USB storage to “save what you can” — you may spread encryption/infection.
+- Don’t sign up for random “decryption” services that contact you first — scams are common.
+- Don’t log into key accounts (email, banking, cloud, password manager) on the infected computer.
+- Don’t wipe/reinstall yet — not until you’ve isolated the device and have a trusted recovery plan (and, for work/school devices, explicit IT instructions).
 
 ## What to do now
-1. **Listen for mechanical noises and power down immediately if detected.**
-   - If the device is clicking, grinding, or whirring loudly, turn it off and do not attempt further DIY steps.
-   - Mechanical failure can cause permanent data loss if the drive continues to spin.
-
-2. **Document the exact symptoms and state of the device.**
-   - **Note if the screen is entirely black, stuck on a logo, or showing an error code.**
-   - **Check for power indicators like keyboard lights, fans, or charging LEDs.**
-   - Record what happened immediately before the failure, such as a drop, liquid spill, or power surge.
-
-3. **Verify cloud backups from a different device.**
-   - **Log into your accounts on a phone or another computer to check for synced files.**
-     - Personal: OneDrive, iCloud Drive, Google Drive, or Dropbox.
-     - Work/School: SharePoint, Google Workspace, or company-specific servers.
-     - Communication: Check "Sent" folders in email for recently shared attachments.
-
-4. **Attempt external access using Mac-specific transfer modes (if applicable).**
-   - **Use a Thunderbolt cable to connect the failing Mac to a working Mac.**
-   - For Intel Macs: Hold the "T" key while powering on to enter Target Disk Mode.
-   - For Apple silicon Macs: Hold the power button until "Loading startup options" appears, select Options > Utilities > Share Disk.
-   - If the drive appears on the second Mac, copy the most critical folders first.
-
-5. **Retrieve the BitLocker or FileVault recovery key.**
-   - **Locate your 48-digit Windows BitLocker key via a different device.**
-     - Personal accounts: Visit aka.ms / myrecoverykey.
-     - Work or school accounts: Visit aka.ms / aadrecoverykey.
-   - For Macs, ensure you have your login password or the recovery key generated during FileVault setup.
-
-6. **Check for physical drive accessibility on Windows PCs.**
-   - **Determine if the storage is removable or soldered to the motherboard.**
-   - If the drive is removable (most desktops and older laptops), it can be placed in a USB-to-SATA or M.2 enclosure to be read by another computer.
-   - Do not attempt this if the device is under a strict "no-tamper" warranty or if you are uncomfortable with hardware handling.
-
-7. **Contact a professional data recovery service for critical files.**
-   - **Cease all DIY efforts if the files are irreplaceable or the drive is not recognized.**
-   - Look for services with a "no data, no fee" policy and a certified cleanroom environment.
-   - Provide the service with the symptoms and any encryption keys you have located.
+1. **Isolate the device (first priority).**  
+   - Turn off Wi-Fi and Bluetooth.  
+   - Unplug Ethernet if connected.  
+   - Disconnect from any dock/office network and shared storage.
+2. **Preserve what you’re seeing.**  
+   - Take photos/screenshots of the ransom note, any “victim ID,” contact method, and the time/date.  
+   - Write down what changed (e.g., “files won’t open,” “extensions renamed,” “network drive affected”).
+3. **If it’s work/school/managed IT: stop and report internally.**  
+   - Contact your IT/security/helpdesk from a different device/phone.  
+   - Say clearly: *“Ransom note on screen; device isolated; no payment; no contact with attacker.”*
+4. **From a known-clean device, secure your accounts.**  
+   - Change passwords for: email, banking, Apple/Google/Microsoft accounts, cloud storage, and any remote-access tools.  
+   - Turn on multi-factor authentication where available.  
+   - If you get unexpected password reset prompts, treat them as a red flag.
+5. **Report once through an official channel.**  
+   - File a report with the **FBI’s IC3** (a common route for individuals and organizations).  
+   - CISA notes victims can report to the **FBI, CISA, or the U.S. Secret Service**, and you only need to report the incident once.
+6. **If money or identity theft risk feels possible, slow it down now.**  
+   - Call your bank using the number on your card/app (not any number on the ransom note).  
+   - Monitor for unauthorized login alerts, new payees, or unexpected transfers.
+7. **Keep the infected computer isolated until a trusted recovery plan exists.**  
+   - If you must transport it, keep it powered off and disconnected, and avoid plugging it into other computers.
 
 ## What can wait
-- You do not need to decide whether to buy a new computer right now.
-- You do not need to troubleshoot the cause of the boot failure until the data is safe.
-- You do not need to organize the files; focus on a raw copy-paste of your user folders.
+- You do **not** need to decide right now whether you will ever pay.
+- You do **not** need to attempt “cleanup” or “decryption” immediately.
+- You do **not** need to talk to the attacker to “buy time.”
+- You can postpone deeper cleanup (rebuild, restore from backups, forensic checks) until after reporting/containment.
 
 ## Important reassurance
-It is normal to feel a sense of panic when critical files seem unreachable. In many cases where a computer will not start, the internal storage remains intact. By stopping active troubleshooting now, you are significantly increasing the likelihood that a professional or a file-first recovery method will succeed.
+Ransom notes are meant to push you into fast, irreversible choices. Not paying or contacting anyone yet is a strong starting position — isolating the device and switching to clean-device actions protects you while you decide next steps.
 
 ## Scope note
-This guide provides first-step stabilization for data preservation. It does not cover permanent hardware repair, operating system reinstallation, or forensic data recovery.
+This is first steps only for stabilization and harm-prevention. Full recovery can involve IT support, restoring from backups, checking for data theft, and (for organizations) incident response planning.
 
 ## Important note
-This information is for general educational purposes and is not a substitute for professional technical services. Interacting with hardware or encryption systems carries an inherent risk of permanent data loss. If your data is sensitive, high-value, or regulated, consult a certified data recovery specialist before proceeding.
+This guide is general information, not legal or professional advice. If the computer belongs to an employer/school or holds other people’s data, follow your organization’s incident process and don’t self-remediate unless you’re instructed to.
 
 ## Additional Resources
+- https://www.cisa.gov/stopransomware/ive-been-hit-ransomware
+- https://www.cisa.gov/stopransomware/report-ransomware
+- https://www.cisa.gov/stopransomware/ransomware-guide
 - https://www.ic3.gov/CrimeInfo/Ransomware
-- https://consumer.ftc.gov/articles/malware-how-protect-against-detect-and-remove-it
-- https://support.microsoft.com/en-us/security/protect-your-pc-from-ransomware
-- https://consumer.ftc.gov/media/video-0103-hijacked-computer-what-do
-- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
+- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/ransomware

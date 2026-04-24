@@ -1,109 +1,93 @@
----
+﻿---
 title: "What to do if… you find an unfamiliar item placed on your car like a note, tag, or object you did not leave"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "unknown item on car"
-  - "note on windshield"
-  - "tag left on my car"
-  - "object attached to vehicle"
-  - "something under car"
-  - "unfamiliar device on bumper"
-  - "possible tracker on car"
-  - "possible bluetooth tracker"
-  - "unwanted airtag alert"
-  - "airtag found moving with you"
-  - "car marked in car park"
-  - "strange zip tie on car"
-  - "flyer under wiper"
-  - "returning to car alone"
-  - "suspicious package on vehicle"
-  - "found object on car at night"
-  - "unidentified box under car"
-  - "wires seen on vehicle"
-  - "magnetic object on chassis"
-  - "what do i do if i find a note on my car"
-  - "what do i do if someone marked my car"
-  - "what do i do if there is a zip tie on my car"
-  - "what do i do if i found a tracker"
-  - "help i found a strange item on my car"
-  - "help i think my car is being tracked"
-  - "help i found a suspicious package"
-  - "help someone left a note on my car"
-  - "my car has a strange tag"
-  - "my car has a device attached"
-  - "burning smell from car"
-  - "taped object on door handle"
-  - "unfamiliar electronic device"
-  - "item under rear bumper"
-  - "strange mark on window"
-  - "liquid on car door"
-last_reviewed: "2026-03-17"
+  - unknown item on car
+  - note on windshield
+  - tag left on my car
+  - object attached to vehicle
+  - something under car
+  - unfamiliar device on bumper
+  - possible tracker on car
+  - possible bluetooth tracker
+  - unwanted airtag alert
+  - airtag found moving with you
+  - car marked in car park
+  - strange zip tie on car
+  - flyer or note under wiper
+  - returning to car alone
+  - car park personal safety
+  - worried someone is watching
+  - suspicious package on vehicle
+  - possible stalking warning sign
+  - found object on car at night
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… you find an unfamiliar item placed on your car like a note, tag, or object you did not leave (UK)
 
 ## Short answer
-Move at least 15 metres away from the vehicle immediately. If the item appears attached, hidden, or contains wires or batteries, do not touch it and call 999.
+Get to a safer place and assess from a distance. If the item looks attached, bulky, tampered-with, or clearly out of place, don’t touch the item or the car—move away and call 999.
 
 ## Do not do these things
-- Do not touch, move, or attempt to open any item that appears attached by magnets, tape, or wires.
-- Do not use a mobile phone or electronic device within 15 metres of a suspicious item.
-- Do not get into the vehicle if you suspect it has been tampered with or if you feel you are being watched.
-- Do not drive the vehicle if an unidentified object is located near the wheels, fuel tank, or exhaust.
-- Do not confront anyone nearby who you suspect may have placed the item.
+- Don’t touch, open, move, or peel off anything that looks attached (magnet/tape/box/wires) or out of place.
+- Don’t get into your car if you feel watched, followed, or boxed-in—step back and change location first.
+- Don’t confront someone you suspect placed it, and don’t reply to a note with your phone number or social accounts.
+- Don’t drive the car away if you suspect something has been attached to it (especially underneath or near the wheels/engine area).
+- Don’t post photos online that include your number plate, home street, regular workplace, or other identifying details.
 
 ## What to do now
-1. **Create immediate distance between yourself and the vehicle.**
-   - Move at least 15 metres away before using your phone or assessing the situation.
-   - If the item is large or you suspect an explosive risk, move at least 100 metres away behind hard cover (like a building).
+1. **Make yourself safer first.**  
+   Go back inside a building/shop, stand in a well-lit busy area, or ask staff/security to stay with you.
 
-2. **Assess the item using the HOT protocol from a distance.**
-   - **Hidden:** Has the item been deliberately concealed or tucked into a crevice (e.g., behind a wheel, under the chassis)?
-   - **Obviously suspicious:** Does it have visible wires, batteries, tape, circuit boards, or an unusual smell?
-   - **Typical:** Is this item what you would expect to find in this location (e.g., a standard promotional flyer vs. a taped plastic box)?
+2. **Look without touching (10–20 seconds). Decide which of these it is:**
+   - **A loose paper note/flyer/tag** (tucked under a wiper, hanging, placed on the roof), *not* connected to the car.
+   - **Something attached or “installed”** (taped/magnetised object, device, wires, box, anything placed underneath, or anything you can’t identify quickly).
 
-3. **If the item meets any HOT criteria, treat it as a threat.**
-   - **Call 999 immediately** once you are at a safe distance (minimum 15 metres).
-   - **State clearly** that you have found a suspicious item attached to your vehicle.
-   - **Remain out of the line of sight** of the object until police arrive.
+3. **If it’s attached / bulky / suspicious: treat it as unsafe.**  
+   - **Do not touch the item or the vehicle.**  
+   - **Move away** and ask others nearby to keep clear.  
+   - **Call 999** and say there’s an unknown item on your vehicle and it appears attached/under the car.
 
-4. **If the item is a loose note or flyer and appears non-threatening:**
-   - **Photograph the item** from a distance showing its position on the car.
-   - **Remove the item** using a barrier (like a tissue or glove) if you intend to keep it as evidence.
-   - **Place it in a clean bag** and avoid further handling to preserve potential forensic evidence.
-   - **Look for nearby CCTV cameras** and note their locations to provide to the police later if needed.
+4. **If it’s a loose note/tag and nothing suggests immediate danger:**  
+   - **Photograph it in place** first (wide shot showing the car and surroundings, then close-up).  
+   - **Write down** the time, exact location, and anything you noticed (people nearby, vehicles lingering, etc.).  
+   - **If you’re in a car park/shop site with cameras:** ask staff/security to **preserve CCTV** for the relevant time window and note who you spoke to (name/role/desk).  
+   - If you may want to report it later, **remove it with minimal handling** (tissue/gloves if available) and **seal it in a bag/envelope**.
 
-5. **Perform a visual perimeter check of the car before entering.**
-   - Walk around the vehicle at a distance of 1 metre.
-   - Check the ground beneath the car for leaked fluids or fallen objects.
-   - Inspect the door handles, wheel arches, and exhaust for anything unusual.
+5. **Quick check for anything else unusual before you get in.**  
+   Walk once around the car and look for anything new: under wipers, door handles, wheel arches, under the rear bumper, unusual tape/magnets, or something wedged near the fuel flap. If anything seems attached, step back and follow Step 3.
 
-6. **Check for electronic tracking alerts on your mobile device.**
-   - Review any "Unknown Accessory Detected" or "Item Moving With You" notifications.
-   - Follow the on-screen instructions to play a sound if the phone identifies a Bluetooth tracker.
-   - Take screenshots of the notification and any map data showing the tracking path.
+6. **Check for signs of unwanted tracking on your phone (1–2 minutes).**  
+   - If you get an alert about an unknown tracker, **take screenshots**.  
+   - If your phone offers it, run a **manual “unknown tracker” scan**.  
+   This won’t detect everything, but it can catch common Bluetooth item trackers.
 
-7. **Report non-emergency suspicious activity to the police.**
-   - **Call 101** if the item is not an immediate threat but suggests harassment or a crime.
-   - **Report via ACT (Action Counters Terrorism)** online or via 0800 789 321 if the activity feels related to national security.
+7. **If you feel personally targeted (repeat incidents, a threatening/specific message, someone waiting nearby):**  
+   - If you’re in danger or being followed: **call 999**.  
+   - Otherwise, **call 101** (non-emergency) to report it and ask for a **reference number** (incident or crime).  
+   - If (and only if) you genuinely suspect the situation could be linked to terrorism-related suspicious activity, you can also report via **ACT (Action Counters Terrorism)** channels.
 
 ## What can wait
-- You do not need to identify the person who left the item immediately.
-- You do not need to review CCTV footage yourself; the police will handle evidence collection if a crime is reported.
-- You do not need to decide if you want to press charges in this moment.
+- You do **not** need to figure out who did it or why right now.
+- You do **not** need to decide today whether it’s “serious enough” to report—your priority is getting safe and preserving options.
+- You do **not** need to change routines, move home, or overhaul your online accounts in this moment (unless there’s clear ongoing risk and support in place).
 
 ## Important reassurance
-Finding an unfamiliar item on your vehicle is a valid reason to feel alert. Many such items are misplaced or marketing materials, but using a structured assessment like the HOT protocol ensures you are taking a measured, safe approach to an unknown situation.
+It’s normal to feel shaken and to doubt yourself in situations like this. Many items on cars are harmless (flyers, mistakes, lost property), but it’s reasonable to treat an unfamiliar attached object or a targeted message as a safety issue until you know more.
 
 ## Scope note
-This guide covers first-step stabilization for the discovery of an unknown item. It is not a substitute for professional police assessment or a long-term security plan for stalking or harassment.
+This is first-steps guidance for the next few minutes. If this becomes a pattern (repeat notes/objects, unwanted contact, being followed), you may need specialist stalking/harassment support and a more detailed safety plan.
 
 ## Important note
-This information is for safety guidance and does not constitute legal advice. In any situation involving an immediate threat to life or a suspected explosive device, call 999 from a safe distance.
+This is general information, not legal advice. If you believe you are in immediate danger, call 999.
 
 ## Additional Resources
-- https://www.suzylamplugh.org/personal-safety-out-and-about
+- https://www.gov.uk/contact-police
+- https://www.protectuk.police.uk/unattended-and-suspicious-items
+- https://www.protectuk.police.uk/suspicious-items-1
+- https://act.campaign.gov.uk/
+- https://support.apple.com/en-gb/119874
+- https://support.google.com/android/answer/13658562?hl=en
 - https://www.suzylamplugh.org/pages/category/national-stalking-helpline
-- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
-- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
-- https://www.police.uk/pu/contact-the-police/report-a-crime-incident/

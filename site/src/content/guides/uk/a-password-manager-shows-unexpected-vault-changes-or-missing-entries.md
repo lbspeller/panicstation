@@ -1,109 +1,94 @@
----
+﻿---
 title: "What to do if… a password manager shows unexpected vault changes or missing entries"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "password manager changed"
-  - "vault items missing"
-  - "missing passwords in vault"
-  - "unexpected vault edits"
-  - "password vault rolled back"
-  - "password manager sync problem"
-  - "vault not syncing"
-  - "entries disappeared after update"
-  - "shared vault changed"
-  - "unknown device signed in"
-  - "master password may be compromised"
-  - "password manager hacked"
-  - "vault history revert"
-  - "deleted items in password manager"
-  - "suspicious account activity"
-  - "lost 2fa codes in vault"
-  - "password manager shows new logins"
-  - "vault emptied"
-  - "password manager recovery"
-  - "what do i do if my passwords disappeared"
-  - "what do i do if my vault is empty"
-  - "what do i do if someone changed my master password"
-  - "what do i do if i see unknown devices in my password manager"
-  - "help i lost my passwords"
-  - "help i think my password manager was hacked"
-  - "help i can't find my vault entries"
-  - "help my password manager is syncing wrong"
-  - "unexpected vault changes"
-  - "missing vault entries"
-  - "password manager vault"
-  - "vault changes"
-  - "vault entries"
-  - "password manager accounts"
-  - "recovery codes vault"
-  - "syncing vault items"
-last_reviewed: "2026-03-17"
+  - password manager changed
+  - vault items missing
+  - missing passwords in vault
+  - unexpected vault edits
+  - password vault rolled back
+  - password manager sync problem
+  - vault not syncing
+  - entries disappeared after update
+  - shared vault changed
+  - unknown device signed in
+  - master password may be compromised
+  - password manager hacked
+  - vault history revert
+  - deleted items in password manager
+  - suspicious account activity
+  - lost 2fa codes in vault
+  - password manager shows new logins
+  - vault emptied
+  - password manager recovery
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… a password manager shows unexpected vault changes or missing entries (UK)
 
 ## Short answer
-Isolate the account by signing out all active sessions and changing your master password from a single trusted device. Identify the cause through vault history or logs before attempting to restore deleted data or reset individual account credentials.
+Stop making changes and secure the password-manager account first (sign out other sessions, change the master password, turn on two-step verification). Then work from a clean device to recover the vault (history/trash/restore) and capture what changed.
 
 ## Do not do these things
-- Do not start deleting remaining entries or "cleaning up" the vault, as this can overwrite the sync history needed for recovery.
-- Do not uninstall the password manager app or wipe the local cache on your primary device, which may contain the only remaining copy of your data.
-- Do not repeatedly log in and out on multiple devices to force a sync, as this can propagate a corrupted or compromised state.
-- Do not use the "Search" function on a browser to find support; only use the official "Help" or "Support" links found directly inside the authenticated app.
-- Do not ignore "unknown device" or "new login" notifications received via email.
+- Don’t start mass-editing passwords or deleting entries “to tidy up” — you can overwrite evidence and make recovery harder.
+- Don’t uninstall/reinstall the password manager or wipe your device yet — you may lose local vault data needed to restore.
+- Don’t keep logging in/out on multiple devices trying to “force sync” — that can spread a bad sync state.
+- Don’t reuse your master password anywhere else, and don’t share it (or recovery codes) with anyone.
+- Don’t click “support” links from emails/messages or sponsored results — use in-app help, or type the vendor’s address yourself.
 
 ## What to do now
-1. **Disconnect other devices from the internet to preserve local data.**  
-   If you have a mobile phone or secondary laptop that was recently synced, put it in Airplane Mode immediately. This prevents the "missing data" state from overwriting a potentially intact local database on those devices.
+1. **Pause syncing changes (reduce further damage).**  
+   Stop editing the vault. Close the app on other devices. If needed, temporarily take other devices offline so they don’t push/pull more changes while you stabilise.
 
-2. **Secure the password manager account from one trusted, updated device.**  
-   **Log in to the web vault or desktop app and navigate to the security or sessions settings.**  
-   - **Select the option to "Deauthorise all sessions" or "Log out of all other devices" immediately.**  
-   - **Change the master password to a completely new, unique passphrase that you have never used elsewhere.**  
-   - **Verify that 2-step verification (2SV) is active and that the registered email/phone number has not been changed.**  
-   - **Generate a new set of emergency recovery codes and save them securely offline.**
+2. **From one trusted device, secure the password-manager account.**  
+   - Check the password manager’s **security/devices/sessions** page for unknown devices or recent logins.  
+   - **Sign out of all other sessions** (or “log out of all devices”).  
+   - **Change the master password** immediately to a new, long passphrase.  
+   - **Turn on 2-step verification (2SV)** for the password manager account (or confirm it’s still on).  
+   - If the service provides recovery codes, **generate new ones** after securing access (old ones may be exposed).
 
-3. **Examine the vault for built-in recovery and history tools.**  
-   **Check the "Trash," "Deleted Items," or "Archive" folders for the missing entries.**  
-   - **Look for an "Item History" or "Version History" link on individual entries to see if they were recently edited.**  
-   - **Check for a "Vault Restore" or "Account Rollback" feature provided by the service to revert the entire vault to a previous date.**
+3. **Create a “do-not-touch” snapshot for later (quick record).**  
+   Take screenshots or notes of: the date/time you noticed, what’s missing, any “vault updated” messages, device list/logins, and any alerts. This helps if you need vendor support or later reporting.
 
-4. **Verify if the changes originated from a shared or family vault.**  
-   **Review the "Sharing Center" or "Shared Folders" to see if another user with access performed the deletions or edits.**  
-   - **Contact the administrator of any shared collections to check audit logs or restore permissions.**
+4. **Check for built-in recovery inside the password manager.**  
+   Look for **trash/archived items**, **item history**, **vault restore**, **previous versions**, or **sync conflict** prompts.  
+   - If it’s a shared/family/work vault, check whether another member made changes and whether there’s an admin/audit trail.
 
-5. **Secure the primary email account associated with the manager.**  
-   **Change your email account password and confirm that 2-step verification (2SV) is enabled.**  
-   - **Review "Forwarding Rules" in your email settings to ensure your security alerts are not being redirected to an attacker.**
+5. **Secure the most common reset route: your email account.**  
+   Secure the email account used for the password manager: change the email password, turn on 2SV, and review account sign-in activity.
 
-6. **Reset credentials for high-priority financial and recovery accounts.**  
-   **Manually change passwords for your bank accounts, mobile network provider, and primary identity providers (like Google, Apple, or Microsoft).**  
-   - **Prioritise any account that can be used to "Reset Password" for other services.**
+6. **Check whether a device issue is driving the changes.**  
+   Install pending OS/browser updates. If something seems off (unknown extensions/apps, repeated pop-ups, unexpected “device management” prompts), run a reputable security scan and consider getting hands-on IT help before you do broad password resets.
 
-7. **Report the incident to UK authorities if you suspect a criminal breach.**  
-   **Contact Report Fraud (the national reporting centre for England, Wales, and Northern Ireland) online or by calling 0300 123 2040.**  
-   - **If you are in Scotland, report the cybercrime via the Police Scotland online reporting form or by calling 101.**
+7. **Prioritise a small set of high-impact accounts first.**  
+   If compromise is possible, change passwords (and enable 2SV) for:  
+   - your **email**, **banking**, **mobile network account**, **main Apple/Google/Microsoft account**, and anything that can **reset other passwords**.  
+   Do this from your trusted device after you’ve secured the password manager account.
 
-8. **Notify the Information Commissioner’s Office (ICO) if sensitive third-party data was exposed.**  
-   **Determine if your vault contained personal data belonging to others (such as clients or employees) as you may have a legal obligation to report a data breach within 72 hours.**
+8. **Get vendor support if anything doesn’t add up.**  
+   Use the password manager’s official support and ask specifically about: unexpected vault version changes, rollback, sync conflicts, missing entries, and account access logs.
+
+9. **If money was stolen or you were defrauded, report it through UK channels.**  
+   Use **Report Fraud** (the UK service for reporting cyber crime and fraud). If you live in Scotland or it happened there, report via **Police Scotland (101)**.
 
 ## What can wait
-- You do not need to replace your password manager software immediately.
-- You do not need to change passwords for low-risk accounts (like newsletters or retail sites) until the core vault is stable.
-- You do not need to factory-reset your hardware unless a security scan confirms an active virus or malware infection.
+- You do **not** need to decide today whether to switch password managers.
+- You do **not** need to change every password immediately — focus on securing the password manager and the most sensitive accounts first.
+- You do **not** need to factory-reset devices unless there are strong signs of compromise and simpler steps fail.
 
 ## Important reassurance
-Vault discrepancies are frequently caused by non-malicious sync conflicts, software updates, or accidental edits in shared environments. By securing your master password and isolating your devices, you stop further changes and create a stable environment to determine if the issue is a technical error or an unauthorized access event.
+This can happen from a benign sync conflict, an accidental shared-vault edit, a device restore, or an actual account compromise — and it often looks the same at first. Taking a calm “freeze changes, secure access, then recover” approach gives you the best chance of getting data back and preventing further loss.
 
 ## Scope note
-This guide provides first-step stabilization for unexpected vault changes. It does not replace technical support from your software vendor or legal advice regarding data breach notifications.
+These are first steps to stabilise and prevent irreversible mistakes. If you confirm an account takeover or malware, you may need deeper incident response (IT support, bank fraud team, or specialist cyber help).
 
 ## Important note
-This information is for general guidance and does not constitute professional security, legal, or financial advice. Security protocols for password managers vary by provider; always refer to your specific vendor's official 2026 documentation. If you believe your identity has been stolen or funds have been taken, contact your bank and the police immediately.
+This is general information, not legal, financial, or professional security advice. If you believe a crime is in progress, you’re at immediate risk, or you’ve lost money, use official reporting and your bank’s fraud channels promptly.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
 - https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/password-managers
 - https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv
-- https://support.1password.com/item-history/
-- https://bitwarden.com/help/password-and-generator-history/
+- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.reportfraud.police.uk/
+- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police

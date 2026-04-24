@@ -1,101 +1,94 @@
----
+﻿---
 title: "What to do if… you suspect someone is trying to access the money or property of a person who died quickly"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "someone died suddenly"
-  - "suspicious access after death"
-  - "money missing after death"
-  - "bank account accessed after death"
-  - "card used after death"
-  - "attempts to withdraw cash"
-  - "online banking hacked after death"
-  - "executor not trusted"
-  - "family member taking money"
-  - "estate fraud concerns"
-  - "property being emptied"
-  - "keys taken after death"
-  - "mail being intercepted"
-  - "identity misuse after bereavement"
-  - "will and probate worries"
-  - "valuables disappearing"
-  - "house break-in after funeral"
-  - "accounts not yet frozen"
-  - "direct debits and payments after death"
-  - "probate fraud help"
-  - "stolen inheritance concerns"
-  - "help i think someone is stealing from a dead person"
-  - "what do i do if money is gone from bank after death"
-  - "unauthorised bank access after bereavement"
-  - "my late relatives card is being used"
-  - "how to freeze bank account of deceased"
-  - "reporting theft from a deceased person"
-  - "land registry fraud alert death"
-  - "suspicious activity on estate accounts"
-  - "unauthorised property access after death"
-last_reviewed: "2026-03-16"
+  - someone died suddenly
+  - suspicious access after death
+  - money missing after death
+  - bank account accessed after death
+  - card used after death
+  - attempts to withdraw cash
+  - online banking hacked after death
+  - executor not trusted
+  - family member taking money
+  - estate fraud concerns
+  - property being emptied
+  - keys taken after death
+  - mail being intercepted
+  - identity misuse after bereavement
+  - will and probate worries
+  - valuables disappearing
+  - house break-in after funeral
+  - accounts not yet frozen
+  - direct debits and payments after death
+last_reviewed: "2026-02-23"
 ---
-# What to do if… you suspect someone is trying to access the money or property of a person who died quickly (UK)
 
+# What to do if… you suspect someone is trying to access the money or property of a person who died quickly (UK)
 ## Short answer
-Contact the deceased person’s banks immediately to freeze all accounts and notify the Report Fraud service (or Police Scotland). Secure the property only if you have a legal right to do so and it is safe to enter.
+Act fast to “pause” access: tell the relevant bank/building society and secure the person’s home/keys if it’s safe and you’re allowed to. If theft is happening now, call 999.
 
 ## Do not do these things
-- Don’t confront suspects directly or alone, as this may lead to personal danger or the destruction of evidence.
-- Don’t attempt to "check" the accounts yourself by logging into their online banking or using their cards.
-- Don’t remove any items from the property unless you are the legal executor or administrator and it is necessary for safekeeping.
-- Don’t share your suspicions or details of the person’s assets on social media.
-- Don’t delay reporting because you lack a final death certificate; banks can act on an interim certificate or initial notification.
+- Don’t confront the suspected person alone or in a heated moment (it can escalate and evidence gets lost).
+- Don’t try to “test” access by logging into their online banking or using their card/PIN (even if you know it).
+- Don’t post details about the death, assets, or family disputes on social media.
+- Don’t throw away envelopes, statements, or devices that might show what happened.
+- Don’t change locks or remove items if you have no right to be in the property (if unsure, focus on notifying institutions first).
 
 ## What to do now
-1. **Call 999 if there is a crime currently in progress or a threat to safety.**  
-   **Bold** If someone is physically removing property or attempting to break into the home right now, use emergency services.
+1. **Get to a safer pause and check immediate risk.**  
+   If someone is inside the home removing property, or there’s an active break-in, **call 999**. If it’s not an emergency but you believe a crime has happened, call **101**.
 
-2. **Notify the bank or building society bereavement teams immediately to freeze all sole accounts.**  
-   **Identify every financial institution the person used and call their dedicated bereavement or fraud line.**  
-   - State clearly: *"The account holder has died and I suspect unauthorised access or fraud is occurring."*
-   - Request an immediate block on all withdrawals, transfers, and card usage.
-   - Use the **Death Notification Service** online to notify multiple major UK banks simultaneously, but follow up with a phone call for those where you suspect active fraud.
+2. **Call the bank/building society card provider(s) now and ask for an urgent stop.**  
+   Ask for the **bereavement team** (or fraud team) and say: *“The account holder has died and we suspect unauthorised access.”*  
+   Request:  
+   - the account(s) be **frozen/blocked from withdrawals and transfers**  
+   - **cards cancelled** and online access locked down  
+   - a **fraud marker/note** placed so staff treat any caller as high-risk  
+   If you don’t have full authority yet, still ask what they can do **immediately to prevent loss** and what proof they need next (often a death certificate or interim certificate).
 
-3. **Secure the physical property and keys if you are legally entitled to do so.**  
-   **If you are the next of kin or named executor, ensure the property is locked and all spare keys are accounted for.**  
-   - Note down who currently has access to the property.
-   - If the property is empty and at risk, consider having a professional locksmith change the locks, provided you have the legal standing to do so.
-   - Take wide-angle photographs of every room to document the contents as they are now.
+3. **Tell the person who is legally responsible for the estate (if you know who it is) and make one clear request.**  
+   Contact the **executor** (named in the will) or the person likely to apply to administer the estate, and say:  
+   - what you’ve noticed (dates/times, amounts, items missing)  
+   - which organisations you’ve contacted  
+   - that you need them to take over formal notifications and record-keeping
 
-4. **Report the suspected fraud to the national reporting service.**  
-   **For England, Wales, and Northern Ireland, report the incident to Report Fraud (the successor to Action Fraud).**  
-   - Report online at reportfraud.police.uk or call **0300 123 2040**.
-   - If you are in **Scotland**, report the matter to **Police Scotland by calling 101**.
-   - Keep the reference number provided for future correspondence with banks.
+4. **Secure the home in a minimal, defensible way (only if you’re allowed and it’s safe).**  
+   - Collect and safely store **keys**, and note who has copies.  
+   - If you are a legitimate keyholder/occupant and there’s real risk, consider a **lock change** via a reputable locksmith and keep the invoice and old lock/cylinder.  
+   - Photograph rooms/valuables **as they are** (wide shots first), then stop—don’t start “inventorying everything” in panic.
 
-5. **Protect the deceased person's property title (England and Wales only).**  
-   **Sign up for the HM Land Registry Property Alert service for the deceased person's home.**  
-   - This free service sends an email if anyone applies to change the register or take out a mortgage against the property.
-   - Note that this alert does not automatically block the change, but it provides the information needed to contact a solicitor or the Land Registry's fraud line immediately.
+5. **Reduce the chance of mail-based fraud.**  
+   - Gather post (if you can do so lawfully) and look for **bank letters, replacement cards, PIN reminders, cheque books, loan letters, title documents**.  
+   - If mail seems to be going missing, take that seriously as a fraud signal and tell the bank(s).
 
-6. **Gather and preserve potential evidence without disturbing the scene.**  
-   **Keep a log of what you have observed, including dates, times, and specific items or amounts missing.**  
-   - Secure any post, bank statements, or mobile devices belonging to the deceased person if they are at risk of being taken.
-   - Do not delete any emails or text messages that may be relevant to the unauthorised access.
+6. **Report it through the right channel for where it happened.**  
+   - **England/Wales/Northern Ireland:** report suspected fraud/cyber crime via **Report Fraud** (the official reporting service).  
+   - **Scotland:** report fraud to **Police Scotland via 101**.  
+   When you report, keep it factual: who died, what you saw, what you’ve already done to stop access, and what records exist.
+
+7. **Put a basic “watch” on the property title (England & Wales) if property fraud is a worry.**  
+   If the deceased owned a registered property, sign up to **HM Land Registry Property Alert** for that address (it’s designed to warn of certain activity). If you already have authority/advice, ask a solicitor about additional protections such as a restriction on the title.
 
 ## What can wait
-- You do not need to apply for a Grant of Probate or Letters of Administration before notifying banks to freeze accounts.
-- You do not need to identify exactly who is responsible before making a police or Report Fraud report.
-- You do not need to begin a full inventory of the estate's smaller household items today.
+- You do **not** need to sort out probate, inheritance tax, or the whole estate today.
+- You do **not** need to prove who did it before you contact banks/police reporting channels.
+- You do **not** need to negotiate family disputes right now—focus on stopping access and preserving a clear record.
 
 ## Important reassurance
-It is normal to feel a high degree of stress or "alertness" when you suspect bad faith during a time of grief. Taking swift action to freeze accounts and notify authorities is a standard protective measure and does not require you to have absolute proof of a crime.
+It’s common to feel shocked, suspicious, or guilty when money/property issues appear right after a death. Acting quickly to freeze access and document what you’ve seen is a protective step, not an accusation.
 
 ## Scope note
-This guide provides first-step stabilization to prevent further financial loss or property removal. It does not cover the legal recovery of stolen assets or the long-term resolution of estate disputes, which require professional legal advice.
+These are first-step actions to reduce loss and preserve options. Next steps (formal probate steps, disputes, recovery of funds, property title issues) often need help from a solicitor, the bank’s bereavement team, or the police process.
 
 ## Important note
-This information is for guidance and does not constitute legal advice. If you are unsure of your legal right to access a property or act on behalf of the deceased, consult a solicitor. Accessing accounts or property without authority can have legal consequences, even if your intentions are protective.
+This is general information, not legal advice. If you feel unsafe or threatened, prioritise immediate safety and emergency services. If you’re unsure whether you have the right to enter or secure the property, focus on notifying banks/insurers/police first and get proper authority before taking physical control.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/family/death-and-wills/dealing-with-the-financial-affairs-of-someone-who-has-died/
-- https://www.moneyhelper.org.uk/en/family-and-care/death-and-bereavement/sorting-out-the-estate-when-there-is-a-will
-- https://www.gov.uk/update-property-records-someone-dies
-- https://www.thegazette.co.uk/deceasedestates
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.scotland.police.uk/advice/scams-and-frauds/
 - https://www.gov.uk/protect-land-property-from-fraud
+- https://www.gov.uk/guidance/property-alert
+- https://propertyalert.landregistry.gov.uk/

@@ -1,83 +1,78 @@
----
+﻿---
 title: "What to do if… multiple drains start gurgling and your home smells like sewage"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "multiple drains gurgling"
-  - "gurgling sink drains"
-  - "toilet bubbling when sink runs"
-  - "sewage smell inside house"
-  - "smells like sewer gas home"
-  - "foul drain smell suddenly"
-  - "slow drains whole house"
-  - "main drain blockage signs"
-  - "backed up drains warning"
-  - "sewage odor after flushing"
-  - "downstairs drain gurgling"
-  - "shower drain gurgling"
-  - "floor drain smells sewage"
-  - "intermittent sewer smell"
-  - "drain gurgling noise"
-  - "sewer smell in bathroom"
-  - "sewer smell in kitchen"
-  - "help i have multiple gurgling drains"
-  - "help i smell sewage in my home"
-  - "what do i do if drains are gurgling"
-  - "what do i do if my house smells like sewage"
-  - "what do i do if multiple toilets bubble"
-  - "help my drains are gurgling and smelling"
-  - "sewage backup signs uk"
-  - "blocked main drain signs"
-  - "sewer gas odor"
-  - "gurgling plumbing vents"
-  - "multiple slow drains"
-  - "sewage smell downstairs"
-  - "toilet gurgling when shower runs"
-last_reviewed: "2026-03-17"
+  - multiple drains gurgling
+  - gurgling sink drains
+  - toilet bubbling when sink runs
+  - sewage smell inside house
+  - smells like sewer gas home
+  - foul drain smell suddenly
+  - slow drains whole house
+  - main drain blockage signs
+  - backed up drains warning
+  - sewage odor after flushing
+  - downstairs drain gurgling
+  - shower drain gurgling
+  - floor drain smells sewage
+  - intermittent sewer smell
+  - plumbing vent problem smell
+  - drain trap dried out smell
+  - shared sewer blockage
+  - suspected sewer backup
+  - home smells like drains
+last_reviewed: "2026-03-03"
 ---
+
 # What to do if… multiple drains start gurgling and your home smells like sewage (UK)
 
 ## Short answer
-Stop all water use immediately and check if water or waste is backing up into your lowest toilets, showers, or baths. If the blockage appears to be in the shared public sewer outside your boundary, contact your local water company; otherwise, call an emergency drainage specialist.
+Stop using water in the property right now (don’t flush, run taps, or use appliances) and check whether anything is backing up at the lowest drain/toilet. If it may be a shared/public sewer blockage, contact your water company; otherwise contact an emergency plumber/drain specialist.
 
 ## Do not do these things
-- Don’t flush toilets or run taps to "test" the system, as this can cause an immediate sewage overflow.
-- Don’t use caustic chemical drain cleaners in multiple fixtures, as they can damage pipes and create hazardous fumes if a blockage is total.
-- Don’t attempt to clean up raw sewage without heavy-duty waterproof gloves, eye protection, and rubber boots.
-- Don’t touch electrical switches or appliances if you are standing in water or if water is near sockets.
-- Don’t stay in the property if you experience headaches, nausea, or dizziness from sewer gas fumes.
+- Don’t keep flushing or “test it again” by running taps (this can force sewage back into the home).
+- Don’t pour drain cleaners/caustic chemicals into multiple fixtures (they rarely fix a main blockage and can injure you or a tradesperson later).
+- Don’t enter/clean any area with sewage water without protective gloves/boots and good ventilation.
+- Don’t use electrical sockets/appliances in any area where water is rising or the floor is wet.
+- Don’t ignore dizziness, nausea, headache, or breathing irritation—step outside for fresh air.
 
 ## What to do now
-1. **Isolate all water and appliance use immediately.** **Ensure everyone in the household knows not to flush toilets, run taps, or use the washing machine or dishwasher.**
-2. **Ventilate the affected areas.** **Open windows and external doors to allow sewer gas fumes to dissipate, and keep children and pets away from bathrooms or utility rooms.**
-3. **Identify the lowest drainage point in the property.** **Check the downstairs toilet, shower tray, bath, or floor drain for rising water levels, bubbling, or visible waste.**
-   - If water is rising without you using it, the blockage is likely in a shared or public sewer.
-4. **Locate your external inspection chamber if safe.** **Check your garden or driveway for a manhole cover and see if it is overflowing or if there is pooling water around it.**
-   - Do not attempt to pry open a stuck or heavy lid if you do not have the proper tools or physical capability.
-5. **Determine responsibility based on location.** **If the external chamber is overflowing or your neighbours are also affected, contact your local water company (e.g., Thames Water, Anglian Water) immediately.**
-   - Under UK law, water companies are responsible for shared "lateral" drains and public sewers.
-   - If only your property is affected and the external chamber is clear, contact an emergency plumber or drainage specialist.
-6. **Shut off the internal stopcock if necessary.** **If you are concerned that someone might accidentally use the water or if a fixture is overflowing, turn off the main water supply to the house.**
-7. **Document the incident for insurance or landlord records.** **Take clear photos or videos of the gurgling fixtures, any visible sewage, and the state of any external manholes.**
-8. **Sanitise any skin contact with sewage immediately.** **Wash thoroughly with soap and warm water if you have touched any waste or contaminated surfaces, and remove any affected clothing.**
+1. **Pause all water use immediately.** Tell everyone in the home: no flushing, no showers, no dishwasher/washing machine, no running taps.
+2. **Ventilate and create a safer “waiting zone”.** Open windows/external doors if safe to do so. Keep children and pets away from bathrooms/utility areas.
+3. **Check for a developing backup (2 minutes).**
+   - Look at the **lowest** places: downstairs toilet, shower tray, bath, floor drain, or lowest sink.
+   - If water level is rising, bubbling, or there’s visible waste: treat it as a **sewage backup**.
+4. **Do a quick outside check (only if safe).**
+   - If you have an **inspection chamber/manhole cover** on your property, look around it for **overflowing water/sewage** or obvious pooling.
+   - **Do not open covers** if you’re not confident and equipped to do it safely—just use what you can see as a clue for who to call.
+5. **If a backup is starting, prevent worsening damage.**
+   - **Turn off the main water supply** at the stopcock/isolating valve if anyone might accidentally use water.
+   - If any floor area is wet and near electrics, **switch off power to affected circuits** at the consumer unit **only if you can do so safely from a dry area**. If you can’t do this safely, leave electrics alone and keep people out of the area.
+6. **Work out who to call first (this matters in the UK).**
+   - If you suspect a **blocked sewer** (outside chamber/cover area overflowing, or signs suggest it’s beyond your internal pipework): **contact your local water company** to report a blockage.
+   - If it seems confined to **your property only** (no outside overflow and only your home affected): call an **emergency plumber/drain clearance company**.
+   - If you rent: **notify your landlord/letting agent immediately** and ask who they want you to use for emergency call-outs.
+7. **If you can do it safely, take quick evidence for later.** Photos/video of gurgling fixtures, any visible overflow points, and affected areas (useful for landlord/insurer and any water-company process).
+8. **If anyone has been in contact with sewage water:** wash skin thoroughly with soap and water, remove contaminated clothing, and keep contaminated items away from kitchens/food areas.
 
 ## What can wait
-- You do not need to diagnose the specific cause (e.g., tree roots, fatberg, or collapsed pipe) before calling for help.
-- You do not need to begin a deep-clean of the area until the blockage has been fully cleared and the risk of further backup is gone.
-- You do not need to negotiate with your insurance company or landlord regarding permanent repairs in the first few minutes; focus entirely on stopping the inflow.
+- You don’t need to diagnose whether it’s a vent, trap, or main blockage right now—**treat it as a possible main/sewer issue until proven otherwise**.
+- You don’t need to start deep-cleaning or ripping out materials until the blockage/source is fixed and any sewage water has stopped.
+- You don’t need to decide today what to replace or claim—focus on preventing spread and documenting what you can.
 
 ## Important reassurance
-Gurgling in multiple drains is a standard early warning sign of a pressure imbalance or a blockage in the main line. By stopping water use and reporting the issue early, you significantly reduce the risk of a full sewage flood inside your living space.
+Gurgling across multiple drains plus a sewage smell is a common sign of drainage/venting problems or a developing blockage. Acting early—by stopping water use and calling the right service—often prevents a much worse sewage backup and reduces repair time and cost.
 
 ## Scope note
-This guide provides first-step stabilization for domestic drainage emergencies. It does not cover long-term pipe repairs, formal insurance claim procedures, or professional biohazard remediation.
+These are first steps to stabilise the situation and avoid making it worse. Diagnosis, cleanup, repairs, and any insurance/water-company processes come after the system is made safe and the source is confirmed.
 
 ## Important note
-Sewer gas contains methane and hydrogen sulfide, which can be hazardous in high concentrations. If ventilation does not clear the smell or if you feel physically unwell, evacuate the area and seek fresh air immediately.
+This is general information, not professional plumbing, legal, or health advice. If you feel unwell from fumes, can’t ventilate, or sewage is actively entering living areas, prioritise getting to fresh air and getting urgent professional help.
 
 ## Additional Resources
+- https://www.gov.uk/report-flood-cause
 - https://www.citizensadvice.org.uk/consumer/water/sewerage/who-is-responsible-for-repairing-drains-and-sewers/
-- https://www.gov.uk/report-blocked-drain
-- https://www.gov.uk/report-environmental-problem
-- https://www.water.org.uk/customers/find-your-supplier
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/getting-your-landlord-to-do-repairs/asking-the-council-to-help-you-get-repairs-done/asking-the-local-authority-for-help-with-repairs/
+- https://www.thameswater.co.uk/help/water-and-waste-help/sewer-flooding/sewer-pipe-responsibility
+- https://www.wessexwater.co.uk/your-wastewater/sewer-pipe-responsibility
+- https://www.york.gov.uk/council-homes/advice-stop-taps

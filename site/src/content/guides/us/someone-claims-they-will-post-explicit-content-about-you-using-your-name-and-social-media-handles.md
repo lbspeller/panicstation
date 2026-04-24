@@ -1,97 +1,85 @@
----
+﻿---
 title: "What to do if… someone claims they will post explicit content about you using your name and social media handles"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "threatened to post nudes"
-  - "threat to share intimate images"
-  - "sextortion threat"
-  - "revenge porn threat"
-  - "blackmail with explicit photos"
-  - "intimate images leaked threat"
-  - "doxxing with explicit content"
-  - "using my name and handles"
-  - "threatened to tag my accounts"
-  - "threatened to expose me online"
-  - "coercion with sexual images"
-  - "deepfake porn threat"
-  - "nude leak blackmail"
-  - "explicit video leak threat"
-  - "online sexual harassment threat"
-  - "threatened to send to contacts"
-  - "someone says they have my nudes"
-  - "threatened to post on social media"
-  - "what do i do if someone is blackmailing me with nudes"
-  - "what do i do if someone has my explicit photos"
-  - "what do i do if someone is threatening to leak my pictures"
-  - "what do i do if i am being sextorted"
-  - "help i am being blackmailed online"
-  - "help i am being threatened with revenge porn"
-  - "help i am being doxxed with nudes"
-  - "my handles are being used to threaten me"
-  - "smell of burning plastic"
-  - "unusual heat from device"
-  - "visible account compromise"
-  - "social media handles"
-  - "explicit content"
-  - "threat to post"
-  - "name and handles"
-  - "blackmail images"
-  - "leak threat"
-  - "post explicit content"
-last_reviewed: "2026-03-17"
+  - threatened to post nudes
+  - threat to share intimate images
+  - sextortion threat
+  - revenge porn threat
+  - blackmail with explicit photos
+  - intimate images leaked threat
+  - doxxing with explicit content
+  - using my name and handles
+  - threatened to tag my accounts
+  - threatened to expose me online
+  - coercion with sexual images
+  - deepfake porn threat
+  - nude leak blackmail
+  - explicit video leak threat
+  - online sexual harassment threat
+  - threatened to send to contacts
+  - someone says they have my nudes
+  - threatened to post on social media
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… someone claims they will post explicit content about you using your name and social media handles (USA)
 
 ## Short answer
-Do not pay, negotiate, or send additional images. Document the messages, secure your social media accounts immediately, and report the threat to the platform and the FBI (IC3).
+Don’t negotiate or pay. Save evidence, lock down your accounts, and report the threat through platforms and appropriate support/law-enforcement channels—starting with urgent safety first.
 
 ## Do not do these things
-- Do not pay the person, send gift cards, or provide cryptocurrency (demands typically increase after payment).
-- Do not send more images or videos to appease the person.
-- Do not click links, download files, or install applications sent by the person.
-- Do not post public "call-outs" or responses on social media.
-- Do not delete the original messages or the account profile before taking screenshots.
-- Do not assume a threat is fake if the person has provided specific details or handles.
+- Do not pay, send gift cards/crypto, or send more images to “make it stop” (demands often escalate).
+- Do not keep bargaining once you’ve captured enough evidence to report.
+- Do not click links, open files, or install apps they send (could be account takeover/malware).
+- Do not post public “call-outs” while panicked (it can amplify the threat and expose more identifiers).
+- Do not wipe your messages immediately if you may want to report later (you may need them as proof).
+- Do not assume the threat is fake—treat it as real until you’ve reported and secured your accounts.
 
 ## What to do now
-1. **Move to a safer pause.** If the threat includes physical violence or you believe you are being watched in person, **call 911** or go to a secure location.
-2. **Collect evidence immediately.** Capture screenshots of the following:
-   - The extortionist's full profile including their username and handle.
-   - The specific messages containing the threat and any demands (money, images, etc.).
-   - Any links or payment addresses they have provided.
-3. **Mute and stop all communication.** Do not argue, explain, or announce that you are reporting them. Once evidence is captured, use the platform's **mute** or **block** function.
-4. **Harden your social media privacy settings.** 
-   - Set all profiles to **private** or "friends only."
-   - Disable **tagging**, **mentions**, and **comments** from people you do not follow.
-   - Restrict **Direct Messages (DMs)** to existing contacts only.
-   - Enable **two-factor authentication (2FA)** and change your password if you suspect account access has been compromised.
-5. **Report the account to the platform host.** Use the "report" tool on the specific profile or message, selecting categories like **blackmail**, **harassment**, or **non-consensual intimate imagery**.
-6. **File a federal report for sextortion.** Report the incident to the **FBI’s Internet Crime Complaint Center (IC3)** at ic3.gov or call **1-800-CALL-FBI (225-5324)**.
-7. **Address the age of the subjects.** 
-   - If you (or the person in the images) were under 18 when the content was created: report immediately to **NCMEC’s CyberTipline** at cybertipline.org.
-   - Use the **NCMEC "Take It Down"** tool to help prevent the images from being shared on participating platforms.
-8. **Use hashing tools for adult content.** If you are 18 or older and have access to the images being threatened, use **StopNCII.org** to create a digital fingerprint (hash) that participating platforms use to automatically block re-uploads.
-9. **Invoke the TAKE IT DOWN Act (2025).** Under federal law, covered platforms must remove non-consensual intimate imagery within **48 hours** of receiving a valid request. Reference this requirement when submitting removal requests to platforms.
+1. **Get to a safer pause.** If you feel in immediate physical danger, are being stalked, or the threat includes violence, **call 911** right away.
+2. **Document the threat clearly (then stop engaging).** Screenshot the messages showing the account name/handle, profile link, timestamps, the explicit threat, and any demand. Save any payment details they sent. After that, **mute/block** (once you have what you need).
+3. **Harden your social accounts quickly (containment first).**
+   - Switch profiles to **private** where possible.
+   - Restrict **tagging/mentions**, **comments**, and **DMs from non-contacts**.
+   - Remove public phone/email; limit who can find you by number/email.
+   - Turn on **two-factor authentication (2FA)** and change passwords if you suspect compromise.
+   - **Sign out of other sessions/devices** and remove any suspicious connected apps/services (where the platform provides this).
+4. **Report the account and messages on every platform involved.** Use categories like **blackmail**, **non-consensual intimate imagery**, **sexual exploitation**, or **harassment**. Save any confirmation/reference numbers from reports.
+5. **Get specialist support for image-based abuse.** Use the **Cyber Civil Rights Initiative (CCRI) Safety Center** (and its Image Abuse Helpline, if you want to talk to someone) for help navigating options and support resources if you feel overwhelmed or unsure what to do next.
+6. **Report to the right place (you can do more than one).**
+   - If there is immediate danger: **call 911 first** (or contact your local police department).
+   - For cyber-enabled extortion/scams: file a complaint with the **FBI’s Internet Crime Complaint Center (IC3)**.
+   - If you’re under 18 (or the images were taken when you were under 18): report to **NCMEC’s CyberTipline**.
+   - You can also contact the FBI about sextortion via **tips.fbi.gov** or a local FBI field office.
+   - Optional (consumer reporting): you can report intimate-image abuse concerns to the **FTC**.
+7. **If you were under 18 when the content was made:** use **NCMEC “Take It Down”** to help get nude/sexually explicit images removed from online platforms that participate.
+8. **Use a “do-not-share” protection tool if you have the image/video.** If the threat involves content you possess (or can safely access), consider **StopNCII.org** to create a digital fingerprint that participating platforms can use to detect and block re-uploads.
+
+*(Optional, only if you may want to report later: keep the screenshots and links somewhere safe. If the account disappears, those records can still help.)*
 
 ## What can wait
-- You do not need to decide whether to pursue a civil lawsuit tonight.
-- You do not need to notify your employer or family members immediately.
-- You do not need to search the internet for potential leaks yourself.
-- You do not need to determine the person's real identity or location right now.
+- You do **not** need to decide right now whether to go public, confront them, or “explain” to everyone.
+- You do **not** need to hunt for the person’s real identity tonight.
+- You do **not** need to do a full search of the internet for copies right now (it’s distressing and not a first-step priority).
+- You do **not** need to draft messages to friends/employer immediately—containment and reporting come first.
 
 ## Important reassurance
-Threats involving intimate imagery are intended to cause intense fear, shame, and a sense of powerlessness. These are normal reactions to an invasive crime. Taking these steps to document and secure your accounts is the most effective way to limit the person’s leverage and protect your privacy.
+Threats like this are designed to create panic and urgency. Feeling frozen, nauseated, ashamed, or frantic is a normal stress response—and it does not mean you’ve done anything wrong. You can regain control by slowing down and taking the smallest effective steps: document, secure, report, and get support.
 
 ## Scope note
-This guide provides first-step stabilization for image-based threats only. Long-term legal strategies or reputation management may require professional assistance from specialized attorneys or safety advocates.
+These are first steps to reduce immediate harm and keep options open. Later decisions (legal actions, longer-term safety planning, broader removal strategy) are best made after you’ve stabilized, ideally with specialist support.
 
 ## Important note
-This guide is for informational purposes and is not a substitute for legal advice or law enforcement intervention. Reporting to the FBI or NCMEC provides a record of the crime, but does not guarantee a specific outcome.
+This is general information, not legal advice. If you are in immediate danger, call 911. You’re allowed to choose what you do next—nothing here requires you to report if you’re not ready.
 
 ## Additional Resources
-- https://consumer.ftc.gov/articles/nonconsensual-distribution-intimate-images
+- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/sextortion
+- https://www.ic3.gov/
 - https://cybercivilrights.org/ccri-safety-center/
-- https://www.justice.gov/ovw/sharing-intimate-images-without-consent-know-your-rights
-- https://complaint.ic3.gov/
-- https://cybercivilrights.org/existing-laws/
+- https://cybercivilrights.org/nonconsensual-distribution-of-intimate-images/
+- https://takeitdown.ncmec.org/faq/
+- https://www.missingkids.org/gethelpnow/isyourexplicitcontentoutthere
+- https://stopncii.org/
+- https://consumer.ftc.gov/articles/nonconsensual-distribution-intimate-images

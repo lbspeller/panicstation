@@ -1,96 +1,88 @@
----
+﻿---
 title: "What to do if… your child’s travel document details do not match the booking and you are about to check in"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "child passport mismatch booking"
-  - "child travel document mismatch"
-  - "name on ticket wrong child"
-  - "tsa boarding pass name mismatch"
-  - "secure flight name mismatch"
-  - "dob mismatch airline reservation"
-  - "passport number wrong check-in"
-  - "first name misspelled booking"
-  - "surname mismatch ticket passport"
-  - "hyphen apostrophe name problem"
-  - "middle name missing ticket"
-  - "double last name truncated"
-  - "about to check in airport panic"
-  - "airline refuses name change"
-  - "same-day reissue ticket child"
-  - "travel agent entered wrong name"
-  - "international flight apis mismatch"
-  - "boarding pass won’t generate"
-  - "help i misspelled child name"
-  - "my child dob is wrong on flight"
-  - "what do i do if child name wrong passport"
-  - "what do i do if child name wrong ticket"
-  - "what do i do if booking name mismatch"
-  - "what do i do if passport details wrong check in"
-  - "help i put wrong birth date on flight"
-  - "help i missed letter in child name"
-  - "misspelled child name on boarding pass"
-  - "wrong child date of birth reservation"
-  - "boarding pass error child document"
-  - "incorrect passport number for child"
-  - "child name truncated airline ticket"
-  - "mismatch between passport and ticket"
-  - "airline name correction policy child"
-  - "travel document error check in"
-  - "misspelled name international flight child"
-last_reviewed: "2026-03-17"
+  - child passport mismatch booking
+  - child travel document mismatch
+  - name on ticket wrong child
+  - tsa boarding pass name mismatch
+  - secure flight name mismatch
+  - dob mismatch airline reservation
+  - passport number wrong check-in
+  - first name misspelled booking
+  - surname mismatch ticket passport
+  - hyphen apostrophe name problem
+  - middle name missing ticket
+  - double last name truncated
+  - about to check in airport panic
+  - airline refuses name change
+  - same-day reissue ticket child
+  - codeshare operating carrier fix
+  - travel agent entered wrong name
+  - international flight apis mismatch
+  - boarding pass won’t generate
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… your child’s travel document details do not match the booking and you are about to check in (USA)
 
 ## Short answer
-Do not complete the check-in process; instead, immediately request a "minor name correction" from the airline to match the child's government-issued travel document. Most airlines allow corrections of up to three characters for typos without requiring a full ticket reissue or name change fee.
+Don’t finish check-in yet—get the airline to correct the passenger details on the reservation/ticket so they match your child’s travel document. Use the words **“typo/data correction for the same passenger (not a transfer)”**.
 
 ## Do not do these things
-- Don't attempt to check in repeatedly with different spelling variations, as this can flag the reservation for manual security review.
-- Don't assume a "one-letter" error is acceptable for international travel, as Advance Passenger Information System (APIS) transmissions to CBP must be exact.
-- Don't pay for a new ticket until you have explicitly asked the airline for a "typo correction to match the Secure Flight data."
-- Don't rely on updating a frequent flyer profile, as this does not automatically push changes to an existing ticketed reservation.
-- Don't leave the airport ticket counter to call the airline; wait in the physical line while using phone support simultaneously.
+- Don’t keep re-entering different spellings hoping one “sticks”—you can create conflicting records that are harder to fix quickly.
+- Don’t assume “only one letter” is always fine—airline systems and required passenger data checks often fail when name/DOB don’t match what you’ll present.
+- Don’t buy a new ticket immediately unless the airline confirms they cannot correct or reissue the existing one under the fare rules.
+- Don’t rely on changing a frequent-flyer profile to fix today’s ticket—today’s reservation/ticket must be corrected.
+- Don’t wait on hold at home while time runs down—get in the airline help line/desk queue at the same time.
 
 ## What to do now
-1. **Identify the exact discrepancy between the reservation and the child's passport or ID.**  
-   Check the first, middle, and last names for character-for-character accuracy, including hyphens, spaces, and apostrophes. Verify the Date of Birth (DOB) and Gender fields, as these are critical for TSA Secure Flight Passenger Data (SFPD) matching.
+1. **Write down the correct “travel version” of your child’s details (2 minutes).**  
+   From the passport (international) or the ID/document you’re using for the trip, copy exactly:
+   - first name(s) and last name (including hyphens, apostrophes, spacing)
+   - date of birth  
+   These are the most common mismatch points. (For many U.S. domestic trips, children under 18 usually don’t show ID at TSA, but airline ticketing and passenger data checks can still be affected by incorrect name/DOB.)
 
-2. **Contact the airline’s airport ticket counter or customer service line immediately.**  
-   Request a "minor name correction" or "typo fix" for the same passenger, rather than a "name change." Use the phrase: "I need to align the ticketed name with the Secure Flight Passenger Data to match the child's government ID."
+2. **Go straight to the airline (or operating carrier) and ask for a correction to match ID.**  
+   Say: “This is the same child passenger. We need a **typo/data correction to match the government ID/passport** so check-in and the boarding pass can be issued.”
 
-3. **Provide proof of the correct details using the child's passport or birth certificate.**  
-   Present the document to the agent or upload a clear photo if using a chat/app service. For domestic U.S. flights, children under 18 traveling with an adult do not technically require photo ID at the TSA checkpoint, but the airline still requires the reservation to match the child’s identity for manifest purposes.
+3. **If you booked through a travel agent/third-party site, start with the airline at the airport anyway.**  
+   The seller may technically need to reissue the ticket, but airport staff can tell you the fastest path (airline correction vs seller reissue). If staff say only the seller can change it, call the seller while you stay in the airline line.
 
-4. **Address third-party booking issues directly at the airline counter first.**  
-   If you booked via an Online Travel Agency (OTA), the airline may tell you to call the agent, but ask the airport staff if they can "take control of the ticket" for an emergency airport correction. If they cannot, call the OTA while standing at the counter so you can relay technical requirements between both parties.
+4. **Ask for the least disruptive fix first, then the next option.**
+   - **Minor correction/typo correction** (same passenger; not a name change to someone else)
+   - If they can’t directly edit it: **reissue/revalidate** the ticket with corrected passenger details (fees/fare differences may apply)
+   - If neither is possible: ask for **same-day options** (later flight, rebook rules) and what happens to the original ticket value
 
-5. **Ensure the agent updates both the ticket name and the Secure Flight Passenger Data (SFPD).**  
-   The name printed on the boarding pass and the data transmitted to the TSA must both be corrected to prevent a "Do Not Board" or "Selectee" status at the security gate. Ask the agent to confirm that the "APIS data" has been refreshed for international segments.
+5. **If you’re close to departure, protect time and avoid parallel “conflicting fixes.”**
+   - Stay physically present at the desk/line while you also use phone/chat support.
+   - Keep one written “source of truth” for spelling and DOB, and don’t authorize multiple different edits with different agents.
 
-6. **Verify the correction on a new boarding pass or the mobile app before leaving the counter.**  
-   Check that the name, DOB, and gender are now accurate. If the system still prevents check-in, ask the agent for the specific "error code" or "mismatch field" preventing the issuance of the boarding pass.
+6. **Once corrected, attempt check-in again and confirm the corrected data shows on the reservation.**
+   - Ask the agent to show you the corrected passenger name/DOB on their screen, or to reprint/reissue your child’s itinerary/boarding pass.
+   - If the system still errors, ask what field is failing (name, DOB, document info, or something else) so you don’t guess.
 
-7. **Verify that the adult escorting the child has a REAL ID-compliant document.**  
-   As of May 2025, all passengers 18 and older must have REAL ID or a passport for domestic flights. If the child's documents are fixed but the adult's ID is non-compliant, you will still be denied entry to the security checkpoint.
+7. **If international (to/from the U.S.): re-check APIS/passport details after the fix.**  
+   Airlines transmit passenger manifest data to U.S. border systems for international travel, so confirm the passport number/expiry and names in the airline’s document section match the passport exactly after any correction.
 
 ## What can wait
-- You do not need to update your child's permanent frequent flyer profile or saved traveler data during this crisis.
-- You do not need to file a formal complaint or seek a refund for "name correction fees" until after you have reached your destination.
-- You do not need to contact the TSA or CBP directly; the airline is the sole gatekeeper for manifest data corrections.
+- You do **not** need to write complaints, dispute charges, or start insurance claims before you either travel or know you’ve missed the flight.
+- You do **not** need to fix every saved passenger profile today—only today’s reservation/ticket needs to match for processing.
+- You do **not** need to decide whether to escalate to regulators right now—focus on getting the airline to issue a usable boarding pass first.
 
 ## Important reassurance
-Name mismatches for children are common due to character limits in booking systems and manual entry errors. Most airlines have "typo" protocols specifically designed to resolve these discrepancies at the airport without canceling the trip.
+You’re not the first parent this happens to—children’s names get truncated, hyphens get dropped, and booking forms sometimes change characters. A calm, single correction through the airline (or the ticket-issuing seller) is usually the quickest way out of the spiral.
 
 ## Scope note
-This guide provides first-step stabilization for immediate check-in and boarding issues. It does not cover long-term legal name changes or complex custody documentation requirements.
+This is immediate, first-step guidance for the next hour. If you miss travel or incur costs, you may need follow-up with the airline/agent and possibly your insurer after the urgent moment has passed.
 
 ## Important note
-This information is based on 2026 TSA and airline industry standards. Individual airline policies regarding "minor corrections" vs. "major reissues" vary and may involve fees depending on the fare class and carrier.
+This guide is general information, not legal advice. Airline ticket rules vary widely, and check-in/boarding depends on the airline’s systems and applicable U.S. security and border requirements.
 
 ## Additional Resources
-- https://www.transportation.gov/individuals/aviation-consumer-protection/buying-ticket
-- https://www.transportation.gov/airconsumer/complaint-process
-- https://travel.state.gov/content/travel/en/passports/have-passport/change-correct.html
-- https://travel.state.gov/content/travel/en/passports/get-fast.html
-- https://www.usa.gov/child-passport
+- https://www.transportation.gov/airconsumer/fly-rights
+- https://www.tsa.gov/travel/security-screening/identification
+- https://www.cbp.gov/travel/travel-industry-personnel/advance-passenger-information-system
+- https://www.cbp.gov/travel/us-citizens/know-before-you-go/your-trip
+- https://www.united.com/en/us/fly/travel/airport/secure-flight.html

@@ -1,92 +1,84 @@
----
+﻿---
 title: "What to do if… you receive an extortion message claiming your files were copied and you are unsure if it is real"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "unauthorized app subscription"
-  - "unknown in-app purchases"
-  - "apple account charges i did not make"
-  - "google play charges i did not make"
-  - "app store subscription i did not start"
-  - "random subscriptions on my phone"
-  - "in-app purchase fraud"
-  - "card charged by apple com bill"
-  - "card charged by google play"
-  - "carrier billing charges i did not make"
-  - "child or family sharing purchase confusion"
-  - "hacked apple account"
-  - "hacked google account"
-  - "app purchase refund request"
-  - "cancel unknown subscriptions"
-  - "unexpected digital purchases"
-  - "recurring charges i do not recognize"
-  - "payment method used without permission"
-  - "what do i do if i have unknown apple charges"
-  - "what do i do if my google play was hacked"
-  - "what do i do if my phone bill is too high"
-  - "what do i do if my child bought app items"
-  - "help i have unknown subscriptions"
-  - "help i was charged for an app i do not have"
-  - "help i see random apple bill charges"
-  - "help i have unknown google play transactions"
-  - "my apple account has unknown purchases"
-  - "my google account shows unauthorized spending"
-  - "my bank card was used for apps"
-  - "my phone bill has premium charges"
-  - "smell of digital fraud"
-  - "visible unknown order receipts"
-  - "unexpected purchase confirmation email"
-  - "sudden bank alert for apple"
-  - "strange transaction on mobile bill"
-  - "apple billing error"
-  - "google billing error"
-  - "unrecognized itunes charge"
-last_reviewed: "2026-03-17"
+  - extortion email about stolen files
+  - blackmail message says files copied
+  - ransomware style demand bitcoin
+  - data theft threat email
+  - hacker claims they have my files
+  - scam email says i was hacked
+  - email says they know my password
+  - sextortion style blackmail email
+  - i got an extortion dm
+  - someone threatens to leak my data
+  - unsure if breach is real
+  - urgent payment demand message
+  - account compromise warning email
+  - files exfiltrated threat
+  - received blackmail invoice email
+  - cyber extortion message
+  - email claims webcam recording
+  - data breach fear email
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… you receive an extortion message claiming your files were copied and you are unsure if it is real (UK)
 
 ## Short answer
-Cancel the unauthorized subscriptions immediately within your device account settings and submit a formal refund request through the official platform portal (Apple or Google). Contact your bank or mobile provider to report the unauthorized transactions and secure your payment methods.
+Don’t reply or pay. Preserve the message, then quickly check for any real account/device compromise (from a clean device) and report it via the UK’s official reporting routes.
 
 ## Do not do these things
-- Don't ignore small transactions, as they are often used to verify account access before larger thefts occur.
-- Don't simply delete the app, as this does not stop recurring billing cycles for subscriptions.
-- Don't delete any confirmation emails, digital receipts, or SMS alerts until the dispute is resolved.
-- Don't click links in "refund" or "failed payment" emails, as these may be phishing attempts to steal your login credentials.
-- Don't assume the account is stolen until you have verified if a family member or shared device authorized the purchase.
-- Don't delay reporting to your bank, as time limits apply to chargebacks and fraud protection.
+- Don’t pay, even “to make it go away” (it can trigger more targeting).
+- Don’t reply, negotiate, or click any links/attachments/QR codes in the message.
+- Don’t forward it to friends/colleagues “to ask if it’s real” (you may spread malicious links or expose personal data).
+- Don’t panic-change passwords on a device you suspect is infected (do changes from a clean device).
+- Don’t delete everything immediately (keep evidence first, then clean up).
 
 ## What to do now
-1. **Document the unauthorized charges immediately.** **Screenshot the subscription list, purchase history, and any relevant bank or mobile bill entries, ensuring app names and order IDs are visible.**
-2. **Identify the exact merchant responsible for the billing.** **Check your bank statement for descriptors such as "apple.com/bill," "Google Play," or a specific mobile network name to determine which platform to contact.**
-3. **Cancel the active subscription to prevent future renewals.**
-   - For iPhone/iPad: Go to Settings → [Your Name] → **Subscriptions** → select the item → **Cancel Subscription**.
-   - For Android: Open Google Play app → Profile Icon → **Payments & subscriptions** → **Subscriptions** → select the item → **Cancel**.
-4. **Submit a refund request directly through the platform's official reporting tool.** **Use reportaproblem.apple.com for Apple Account purchases or play.google.com for Google Play transactions to log a formal dispute.**
-5. **Secure the compromised account with new credentials.** **Change your password to a unique phrase and verify that two-factor authentication (2FA) is enabled and linked to your current device.**
-6. **Report the unauthorized payments to your financial provider.** **Contact your bank or card issuer to flag the transactions as unauthorized and follow their advice regarding card replacement or merchant blocking.**
-7. **Dispute phone bill charges through your mobile network and the regulator if necessary.** **If the charge is on your mobile bill, contact your network provider and cite the Ofcom (formerly PSA) double opt-in requirements for phone-paid services.**
-8. **Report the incident to the appropriate national fraud service.**
-   - In England, Wales, or Northern Ireland: Use the **Report Fraud** online portal (reportfraud.police.uk) or call 0300 123 2040.
-   - In Scotland: Contact **Police Scotland** via the 101 non-emergency number to report the crime.
+1. **Get to a calm pause and contain risk.** If you clicked a link/opened an attachment or entered a password, **disconnect that device from Wi-Fi/mobile data** (airplane mode) and stop using it until you’ve checked it.
+2. **Preserve evidence (2 minutes).** Take screenshots of the message, note the sender address/handle, payment details they provided, dates/times, and keep the original email/message (don’t “clean up” your inbox yet).
+3. **Report the message safely (UK).**
+   - **Email:** forward the suspicious email to **report@phishing.gov.uk**, then delete it.
+   - **Text message:** forward suspicious texts to **7726** (this spells SPAM on most keypads), then delete it.
+   - **In-app message/DM:** use the platform’s **Report** function and block the sender.
+4. **Check whether this is likely a bulk scam vs a real compromise (quick indicators).**
+   - If the email includes an **old password** you recognise: treat it as a warning sign your details were in a past breach, **not proof they’re in your device now**.
+   - If they provide **no specific proof** (no real filenames, no accurate private details, no unique screenshot of your files), assume scam until proven otherwise.
+5. **Check your accounts for real signs of compromise (from a clean device).**
+   - Email account first: review **recent sign-ins**, unfamiliar devices, and any **auto-forwarding rules** or “mail filters” you didn’t create.
+   - Cloud storage (e.g., iCloud/Google/Microsoft/Dropbox): review **recent activity** and any unfamiliar shared links or third-party app access.
+6. **Lock down your key accounts (from a clean device).**
+   - Change your **email password** first (email is the reset key for everything).
+   - Turn on **two-factor authentication (2FA)** for email and cloud accounts.
+   - Change passwords for any accounts that reused the same password; sign out of other sessions/devices where the service allows it.
+7. **If you suspect your device is infected, do a “clean check.”**
+   - Run a reputable antivirus scan and apply operating system updates.
+   - If signs persist (unknown admin accounts, security tools disabled, repeated logins you don’t recognise), **stop troubleshooting** and get help from a trusted repair professional or a cyber incident responder (especially for work devices).
+8. **If this involves work/school systems, escalate immediately.** Use your organisation’s IT/security contact (not the attacker). Don’t “handle it quietly” on your own.
+9. **If you think money, identity, or accounts are at risk, report as cybercrime.**
+   - **England/Wales/Northern Ireland:** report to **Action Fraud** (keep any reference number).
+   - **Scotland:** report to **Police Scotland via 101** (or your local police route).
+   - If there’s an immediate risk to you (threats of violence, stalking, or blackmail involving imminent harm), contact police via **999** (emergency).
 
 ## What can wait
-- Determining the exact point of entry for the breach can wait until the account is secured and refunds are requested.
-- Confronting family members or housemates can wait until you have the specific time and device logs from the purchase history.
-- Resetting your device to factory settings is usually unnecessary unless you suspect persistent malware is present.
+- You do **not** need to decide today whether you will “pursue” anyone or make public statements.
+- You do **not** need to wipe your devices immediately; evidence and account control come first.
+- You do **not** need to contact the attacker to “test” them—silence is safer.
 
 ## Important reassurance
-Unauthorized digital charges are common and often resolvable through structured reporting. The appearance of these charges does not always mean your entire identity is stolen; it is frequently limited to a single platform or shared device. Following the cancellation and reporting sequence is the standard method for stopping further loss.
+These messages are commonly sent in bulk and are designed to trigger panic and fast payment. Feeling shocked or embarrassed is normal — but you can slow this down, verify calmly, and regain control step by step.
 
 ## Scope note
-This guide covers first-step stabilization for digital purchase disputes only. It does not address long-term identity theft protection or complex legal recovery for high-value fraud.
+These are first steps to stabilise the situation and reduce harm. If you confirm a real compromise (especially involving work systems or sensitive personal data), you may need specialist technical and/or legal advice later.
 
 ## Important note
-This information is provided for general guidance and does not constitute legal or financial advice. Refund eligibility depends on the specific terms of service for Apple, Google, or your mobile network provider. For complex cases involving significant financial loss, you should consult with your bank's fraud department or a legal professional.
+This guide is general information, not legal or professional security advice. If you believe you’re in immediate danger or being targeted directly, contact UK emergency services. If you’re dealing with organisational systems, follow your organisation’s incident process.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/files/sextortion-scams-infographic.pdf
-- https://www.ncsc.gov.uk/guidance/sextortion-scams-how-to-protect-yourself
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.reportfraud.police.uk/
+- https://www.actionfraud.police.uk/report-phishing
 - https://www.ncsc.gov.uk/ransomware/home
-- https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks
-- https://www.ncsc.gov.uk/guidance/data-breaches

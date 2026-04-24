@@ -1,105 +1,94 @@
----
+﻿---
 title: "What to do if… your photo library suddenly shows “optimising” and many photos look missing or low-quality"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "unknown devices on router"
-  - "strange devices on network"
-  - "unrecognized wifi connections"
-  - "router shows unknown devices"
-  - "network shows random devices"
-  - "many devices on my wifi"
-  - "what do i do if unknown devices are on my router"
-  - "what do i do if my network is hacked"
-  - "what do i do if many devices show up on wifi"
-  - "what do i do if unauthorized devices are connected"
-  - "help i see strangers on my wifi"
-  - "help i have unknown network devices"
-  - "help my router has too many devices"
-  - "help my wifi network is compromised"
-  - "unknown mac address on router"
-  - "suspicious ip on network"
-  - "router admin login hijacked"
-  - "unauthorized access to home network"
-  - "wifi security compromised"
-  - "unknown laptop on my network"
-  - "strange phone on my wifi"
-  - "unidentified smart device on router"
-  - "ghost devices on network"
-  - "extra devices on wifi list"
-  - "rogue device on home network"
-  - "router shows neighbor on wifi"
-  - "network security breach noticed"
-  - "unsupported router risk"
-  - "end of life router safety"
-  - "wifi password leaked"
-last_reviewed: "2026-03-17"
+  - photos missing after optimizing
+  - photo library stuck optimizing
+  - iphone photos blurry previews
+  - icloud photos not showing
+  - photos only thumbnails
+  - low quality photos suddenly
+  - photos disappeared but storage full
+  - recently deleted photos recovery
+  - hidden album photos missing
+  - icloud sync stuck
+  - photos not downloaded originals
+  - optimize storage confusion
+  - ipad photos missing
+  - mac photos low resolution
+  - google photos looks missing
+  - cloud photo sync problem
+  - photo library not fully loaded
+  - photos missing after update
+  - photos missing after sign in
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your photo library suddenly shows “optimising” and many photos look missing or low-quality (USA)
 
 ## Short answer
-Isolate the network by disconnecting the internet, then immediately change the router admin credentials and Wi-Fi password while disabling insecure features like WPS and UPnP.
+Don’t delete anything yet. Assume you’re seeing placeholders while syncing/downloading: keep the device on Wi-Fi and power, confirm you’re signed into the right account, and verify whether the full library still appears in the cloud or on another device.
 
 ## Do not do these things
-- Don’t trust the names listed for connected devices, as these are easily spoofed or generic.
-- Don’t attempt to block devices one-by-one, as this does not fix the underlying security vulnerability.
-- Don’t log into bank accounts, medical portals, or primary email addresses using the compromised Wi-Fi until it is secured.
-- Don’t factory-reset the router unless you have your ISP login details ready to re-configure the connection.
-- Don’t share screenshots of your network map or MAC addresses on public forums for help.
+- Don’t delete “empty-looking” photos, albums, or “duplicates” while the library is optimizing.
+- Don’t empty “Recently Deleted” (or Trash/Bin) until you’re sure everything you want is safely visible elsewhere.
+- Don’t sign out of your Apple ID/Google Account as a “reset” unless you’ve confirmed your photos are safe in another view/device first.
+- Don’t factory reset/restore, or use “cleaner”/“recovery” apps that ask for broad access.
+- Don’t turn off iCloud Photos/Google Photos backup as a quick fix. If a prompt says it will remove items from *this device*, stop and cancel until you’ve verified where your originals are.
 
 ## What to do now
-1. **Switch your current device to cellular data or a hardwired ethernet connection.**  
-   Avoid using the wireless signal you are currently investigating for any security-sensitive changes.
+1. **Slow down and prevent an irreversible mis-tap.**  
+   If you feel rushed, step away from the Photos grid for 30 seconds. The main risk here is accidental deletion while you’re trying to “fix” it.
 
-2. **Physically disconnect the router from the internet source.**  
-   Unplug the **Ethernet/WAN cable** (usually the yellow or blue port) connecting the router to the modem or wall jack to stop unauthorized external access.
+2. **Check the common “they’re not gone” locations first.**  
+   - In Apple Photos: check **Recently Deleted** and **Hidden**.  
+   - In Google Photos: check **Trash/Bin** (often under **Collections** or **Library**, depending on app version).  
+   - If you recently joined/shared a library in Apple Photos, switch between library views if available.
 
-3. **Log into the router administrative panel and change the admin password.**  
-   Locate the **Administration** or **System** tab and update the login credentials for the router itself; do not use the default "admin" or "password" values.
+3. **Confirm the correct account is active.**  
+   - Apple Photos/iCloud: verify you’re signed into the expected Apple ID and iCloud Photos is enabled.  
+   - Google Photos: verify the correct Google Account profile.  
+   If you recently changed a password, got a new phone, or restored from backup, syncing may be catching up.
 
-4. **Change the Network Name (SSID) and the Wi-Fi password simultaneously.**  
-   Assign a new, unique **SSID** and a strong Wi-Fi password (at least 16 characters) to force all existing devices to disconnect.
+4. **Give “optimizing” a fair chance to finish.**  
+   Plug into power, connect to stable Wi-Fi, disable Low Power Mode (if enabled), and leave Photos open for a while. Optimization can involve indexing, storage management, and downloading originals.
 
-5. **Set encryption to WPA3-Personal or WPA2-AES only.**  
-   Navigate to **Wireless Security** and select **WPA3** if available; if using WPA2, ensure it is set specifically to **AES** and not TKIP.
+5. **Do the “where are the originals?” safety check.**  
+   Look at the same account on a second device (tablet/computer), or sign into the service’s web photo library view.  
+   - If everything looks normal there, your originals likely still exist and this device is showing previews while it syncs/downloads.  
+   - If photos are missing there too, stop making changes and move to support escalation (step 9).
 
-6. **Disable Wi-Fi Protected Setup (WPS) and Universal Plug and Play (UPnP).**  
-   Turn off **WPS** (often a push-button or PIN setting) and **UPnP** in the advanced settings to close common entry points for automated attacks.
+6. **Check storage + the “optimize vs download originals” setting.**  
+   When device storage is low, some services keep smaller on-device versions and fetch full-resolution only as needed. If you switch to “download/keep originals,” be sure you have enough device storage and reliable Wi-Fi before you start.
 
-7. **Disable Remote Management and WAN Administration.**  
-   Ensure that settings allowing the router to be configured from outside the home network are set to **Off**.
+7. **Capture evidence for support.**  
+   Take screenshots of: the “optimizing” message, any error icons (like exclamation marks), and your storage screens. Write down roughly when it started (after update, after sign-in, after storage full, etc.).
 
-8. **Check the router manufacturer's website for "End of Life" or "End of Support" (EOS) status.**  
-   Verify if your model is still receiving security patches; if the router is no longer supported, it cannot be secured and must be replaced immediately.
+8. **If you see signs of account compromise, secure the account first.**  
+   Change your password, review signed-in devices/sessions, and enable two-factor authentication. If you believe identity theft or fraud is involved in the USA, consider reporting at IdentityTheft.gov (FTC). If you’re in immediate danger, call 911.
 
-9. **Apply the latest firmware update if the device is still supported.**  
-   Check for and install any pending **firmware updates** and enable "Auto-Update" if the feature is provided.
-
-10. **Reconnect only known devices one at a time.**  
-   Join each of your own devices to the new network name and monitor the "connected devices" list to ensure no unexpected entries reappear.
-
-11. **Report suspected financial or identity compromise to official federal agencies.**  
-   - For unauthorized financial activity, contact your **bank or credit card issuer** to freeze accounts.
-   - For identity theft concerns, file a report at **IdentityTheft.gov**.
-   - For cyber-enabled fraud or hacking, file a complaint with the **FBI Internet Crime Complaint Center (IC3)**.
+9. **Escalate to official support with your notes.**  
+   Contact Apple Support / Google Photos Help and share what you found: whether the cloud/web view shows the originals, what’s in Recently Deleted/Hidden/Trash, storage levels, and any error icons.
 
 ## What can wait
-- You do not need to identify the physical location or identity of the unknown devices.
-- You do not need to hide the SSID (Network Name) once a strong password and WPA3 are active.
-- You can delay setting up guest networks or static IP addresses until the primary network is verified as stable.
+- You don’t need to reorganize your library, delete duplicates, or “clean storage” today.
+- You don’t need to decide on switching cloud providers right now.
+- You don’t need to pay for recovery tools or services while the status is “optimizing”.
 
 ## Important reassurance
-Many "unknown" devices are actually smart home components, printers, or virtual MAC addresses from modern smartphones (private Wi-Fi address settings). Seeing a long list is often a result of poor device labeling rather than an active attack, and the steps above will neutralize most unauthorized access regardless of the source.
+This situation is very commonly a temporary syncing/indexing/storage-management state—especially after an update, restore, account sign-in, or when storage gets tight. The safest move is to avoid deletions and verify where the originals still exist before changing settings.
 
 ## Scope note
-This guide provides first-step stabilization for home networks. It does not cover enterprise-grade security, forensic analysis of network traffic, or the removal of malware from individual laptops or phones.
+These are first steps to stabilize the situation and confirm whether your originals exist in the cloud/another device. If items are truly missing everywhere, you may need deeper, service-specific troubleshooting with official support.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT security, legal, or law enforcement advice. Digital security standards change rapidly; consult your ISP or router manufacturer for model-specific security protocols.
+This is general information, not legal, medical, or professional advice. If any prompt warns that turning something off will remove items from your device, stop and read it carefully before proceeding.
 
 ## Additional Resources
-- https://support.apple.com/en-us/105061
-- https://support.apple.com/en-us/108782
-- https://support.apple.com/en-us/118558
-- https://support.apple.com/en-us/111762
-- https://support.apple.com/en-us/118447
+- https://support.apple.com/118558
+- https://support.apple.com/124460
+- https://support.apple.com/105061
+- https://support.google.com/photos/answer/6306652?hl=en
+- https://support.google.com/photos/answer/6174018?hl=en
+- https://www.identitytheft.gov/

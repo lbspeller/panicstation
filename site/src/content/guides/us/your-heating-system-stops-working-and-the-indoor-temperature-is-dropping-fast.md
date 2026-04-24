@@ -1,89 +1,79 @@
----
+﻿---
 title: "What to do if… your heating system stops working and the indoor temperature is dropping fast"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - "heating system stopped working"
-  - "indoor temperature dropping fast"
-  - "furnace not working help"
-  - "what do i do if my heater stops working"
-  - "what do i do if the house is freezing"
-  - "what do i do if my furnace is broken"
-  - "what do i do if the heater wont turn on"
-  - "help i have no heat"
-  - "help my house is too cold"
-  - "help my furnace stopped"
-  - "my indoor temperature is dropping"
-  - "no heat emergency usa"
-  - "smell of gas furnace"
-  - "carbon monoxide symptoms house"
-  - "shivering and confusion indoors"
-  - "bright red skin baby cold"
-  - "space heater safety 3 feet"
-  - "frozen pipes prevention drip"
-  - "warming centers near me"
-  - "landlord no heat rights"
-  - "liheap emergency assistance"
-  - "heater cord power strip danger"
-  - "furnace service switch location"
-  - "broken heating system rental"
-  - "thermostat batteries dead"
-  - "tripped breaker furnace"
-  - "ice on hvac vent"
-  - "cold house at night"
-  - "blocked furnace exhaust snow"
-  - "portable heater wall outlet"
-last_reviewed: "2026-03-17"
+  - furnace stopped working
+  - no heat in the house
+  - indoor temperature dropping fast
+  - heater not working
+  - hvac not heating
+  - thermostat not working
+  - cold house emergency
+  - space heater safety
+  - carbon monoxide concern
+  - carbon monoxide symptoms
+  - winter cold exposure risk
+  - hypothermia warning signs
+  - rental no heat problem
+  - landlord not fixing heat
+  - need a warming center
+  - call 211 for help
+  - emergency energy assistance
+  - keep warm short term
+  - prevent freezing indoors
+  - kids cold at home
+last_reviewed: "2026-03-03"
 ---
+
 # What to do if… your heating system stops working and the indoor temperature is dropping fast (USA)
 
 ## Short answer
-Move everyone to a single central room, put on multiple dry layers, and verify that there are no signs of carbon monoxide poisoning. Immediately notify your landlord or an HVAC professional and locate a local warming center if the temperature cannot be stabilized.
+Move everyone into the warmest safe room, layer up, and quickly rule out carbon monoxide danger. Then call for repair (landlord/HVAC) and make a “somewhere warm tonight” plan early — especially for children, older adults, or anyone with health risks.
 
 ## Do not do these things
-- Do not use a gas oven, stovetop, charcoal grill, or camp stove to heat your home; these produce lethal levels of carbon monoxide.
-- Do not leave portable space heaters unattended or running while you are asleep.
-- Do not use extension cords or power strips for space heaters; plug them directly into a wall outlet to prevent electrical fires.
-- Do not use a blowtorch, kerosene heater, or any open flame to attempt to thaw frozen pipes.
-- Do not place heaters within 3 feet of curtains, bedding, or furniture.
-- Do not attempt to disassemble internal furnace components or work on gas lines without professional certification.
+- Do not heat your home with a charcoal grill, camp stove, generator, or the oven/stovetop — this can cause carbon monoxide poisoning or fire.
+- Do not run a space heater while sleeping, or leave it unattended.
+- Do not plug space heaters into extension cords or power strips.
+- Do not place a heater near bedding, curtains, or furniture — keep a clear safety zone (about 3 feet) from anything that can burn.
+- Do not attempt DIY work on gas lines, burners, or internal furnace components.
+- Do not ignore “flu-like” symptoms (headache, dizziness, nausea, confusion), especially if multiple people feel sick — treat as possible carbon monoxide exposure.
 
 ## What to do now
-1. **Identify a "warm room" and seal it off immediately.** **Choose a room with the fewest windows and doors, typically a central living area.**
-   - Close all doors to unused rooms and use towels or blankets to block drafts at the base of doors and windows.
-   - Close curtains or blinds to retain residual heat.
-2. **Conduct a priority check for carbon monoxide (CO) hazards.** **If a CO alarm sounds or anyone experiences a sudden headache, dizziness, or nausea, evacuate all residents to fresh air and call 911 immediately.**
-   - Ensure you have a working CO alarm on every level of the home, as required by 2026 safety standards.
-   - If anyone is confused, slurred in speech, or unconscious, treat it as a medical emergency.
-3. **Verify the basic power and settings of the system.** **Check that the thermostat is set to "Heat," the temperature setting is higher than the current room temperature, and the batteries are fresh.**
-   - Locate your electrical panel and look for a tripped breaker labeled "Furnace" or "HVAC."
-   - Check the furnace service switch (resembling a standard light switch) usually located on or near the side of the furnace unit.
-4. **Monitor vulnerable residents for cold-related illness.** **Check infants for bright red, cold skin and low energy, and check older adults for shivering, exhaustion, or fumbling hands.**
-   - If a resident’s body temperature drops below 95°F, seek emergency medical attention.
-5. **Protect your plumbing from freezing and bursting.** **Open kitchen and bathroom cabinet doors to allow room air to reach pipes, and let a cold-water faucet served by an exterior-wall pipe drip at a steady trickle.**
-6. **Notify the responsible party for repairs.** **If you are a renter, contact your landlord or property manager by phone and follow up immediately with a written message stating the heat is out and the temperature is dropping.**
-   - If you own the home, call an emergency HVAC repair service.
-7. **Access emergency community resources for warmth.** **Call 211 to find local warming centers, emergency shelters, or to get contact information for your state’s LIHEAP (Low Income Home Energy Assistance Program) office.**
-   - If your area uses 311, call to report the lack of heat if it is a building code violation or to ask about local emergency heating services.
-8. **Establish a relocation plan for the night.** **If the indoor temperature is expected to fall below 55°F and repairs are not confirmed, arrange to stay with friends or family, or move to a hotel or warming center before travel becomes dangerous.**
+1. **Stop the heat loss (10 minutes):** choose one main room, shut doors, close curtains, block drafts with towels, and keep people off cold floors (shoes/slippers, blankets).
+2. **Check carbon monoxide risk immediately:**
+   - If your **CO alarm sounds** or you suspect CO (flu-like symptoms, worse indoors): get everyone to **fresh air right away** and call **911** if anyone collapses, can’t be awakened, is confused, has trouble breathing, or has chest pain.
+   - If you’re in fresh air and need guidance, call **Poison Control at 1-800-222-1222** (still call 911 for severe symptoms).
+3. **Do only “safe, simple checks” (2–5 minutes):** confirm the thermostat is set to heat and has power/batteries; check your electrical panel for a tripped breaker affecting the furnace; and check the **furnace service switch** (often a light-switch-style switch near the unit) is on. Do not open sealed panels or disassemble anything.
+4. **Watch for cold injury (especially in babies/older adults):** shivering, unusual sleepiness, confusion, fumbling hands, or slurred speech can be warning signs — get to a reliably warm place and seek medical care if you’re worried.
+5. **If you rent:** notify your landlord/property manager **immediately** (and in writing/text/email). Say: *“No heat; indoor temperature dropping quickly — urgent repair needed.”* Take timestamped photos of the thermostat display and a thermometer reading if you have one.
+6. **Call for warmth and emergency help options early:**
+   - Call **211** to find local resources like warming centers, shelters, or emergency utility/heating assistance (including programs like LIHEAP, depending on location and eligibility).
+   - If your city/county has **311**, you can also ask about warming centers or housing code help (availability varies).
+7. **Reduce burst-pipe risk if it’s very cold:** open kitchen/bathroom cabinet doors under sinks to let warmer air reach pipes. In very cold conditions, letting a cold-water faucet drip can help keep water moving (especially on exterior-wall plumbing).
+8. **Use safe, short-term warmth:**
+   - Put on dry layers, hats/socks; use blankets; drink something warm; eat if you can.
+   - **Space heater (only if used safely):** place it on a flat surface, keep it about 3 feet from anything that can burn, plug it directly into a wall outlet, and turn it off when you leave the room or go to sleep.
+9. **Make a “somewhere warm” plan for tonight:** if the temperature is dropping fast and repair is not imminent, arrange to stay with friends/family, or go to a warming center/shelter/hotel if you safely can.
 
 ## What can wait
-- You do not need to determine the specific mechanical cause of the furnace failure yourself.
-- You do not need to research furnace replacement costs or models until the immediate cold hazard is resolved.
-- You do not need to file a formal legal complaint against a landlord in the first few hours; prioritize physical safety and notification first.
+- You do not need to diagnose the furnace failure tonight.
+- You do not need to decide on replacing the whole system right now.
+- You do not need to start a legal dispute immediately — document, notify, and focus on heat and safety first.
 
 ## Important reassurance
-Sudden utility failures in cold weather frequently cause a sense of urgency and scattered focus. These are standard physiological responses to stress. Focusing on the "warm room" and checking CO safety provides an immediate baseline of protection while you wait for professional help.
+A rapidly cooling home can make you feel urgent, scattered, and panicky — that’s normal. The goal is not to solve HVAC; it’s to keep people safe, avoid CO/fire hazards, and get either repairs or a warm place lined up.
 
 ## Scope note
-This guide provides first-step stabilization only. Long-term repairs, tenant-landlord legal disputes, and specific HVAC diagnostics require specialized professional or legal assistance.
+This is first steps for the next few hours. Local tenant rights, building codes, and repair timelines vary by state and city — those details are easier to handle once you’re warm and safe.
 
 ## Important note
-This information is for safety stabilization and is not a substitute for professional medical, legal, or HVAC advice. In a life-threatening emergency or suspected gas leak, evacuate and call 911 immediately.
+This is general information, not medical or legal advice. If carbon monoxide exposure is possible, move to fresh air and use emergency services as needed. For local help finding warming centers or emergency energy assistance, 211 is often the fastest starting point.
 
 ## Additional Resources
-- https://www.cdc.gov/winter-weather/safety/stay-safe-during-after-a-winter-storm-safety.html
-- https://www.cdc.gov/winter-weather/about/index.html
-- https://www.usa.gov/help-with-energy-bills
-- https://www.osha.gov/node/57113
-- https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/
+- https://www.cpsc.gov/Newsroom/News-Releases/2025/Theres-a-Chill-in-the-Air-Stay-Warm-Safely-Be-Cautious-When-Using-Generators-Furnaces-and-Space-Heaters
+- https://www.cdc.gov/winter-weather/prevention/index.html
+- https://www.poison.org/
+- https://www.211.org/about-us/your-local-211
+- https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html
+- https://acf.gov/ocs/programs/liheap

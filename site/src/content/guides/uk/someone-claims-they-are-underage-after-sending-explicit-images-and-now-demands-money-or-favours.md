@@ -1,86 +1,70 @@
----
+﻿---
 title: "What to do if… someone claims they are underage after sending explicit images and now demands money or favours"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "someone claims they are underage"
-  - "underage after sending explicit images"
-  - "demands money or favours"
-  - "help i sent nudes and they say they are 16"
-  - "what do i do if someone is blackmailing me with photos"
-  - "my nudes are being used for blackmail"
-  - "sextortion with underage claim"
-  - "online blackmail demand for money"
-  - "sexual favours demand after explicit chat"
-  - "threatened with exposure after sexting"
-  - "help i am being blackmailed for money"
-  - "what do i do if someone says they are a minor"
-  - "underage scam threat after explicit images"
-  - "claims they are seventeen after photos"
-  - "scammer says they are sixteen after images"
-  - "explicit images blackmail help"
-  - "threat to send photos to family"
-  - "money demand after sending images"
-  - "help someone says they are underage now"
-  - "online extortion after explicit exchange"
-  - "blackmail for money after nudes"
-  - "demand for favours after sexting"
-  - "blackmail images underage claim"
-  - "sextortion uk support"
-  - "stopping online blackmail demands"
-  - "underage image blackmail scam"
-  - "sexting blackmail what to do"
-  - "someone claiming to be a minor"
-  - "explicit content blackmail threat"
-  - "sending money to stop blackmail"
-last_reviewed: "2026-03-17"
+  - someone says theyre underage
+  - says they are a minor
+  - explicit images then blackmail
+  - demands money after nudes
+  - demands sexual favours
+  - underage claim after sexting
+  - says she is 17
+  - says he is 16
+  - age lie after photos
+  - blackmail after explicit chat
+  - sextortion after nude images
+  - threatening to expose me
+  - claims to be under 18
+  - asks for money now
+  - asks for favours now
+  - panic after explicit messages
+  - worried i broke the law
+  - stranger sent explicit images
+  - underage scam threat
+  - someone changed their age
+last_reviewed: "2026-03-14"
 ---
-# What to do if… someone claims they are underage after sending explicit images and now demands money or favours (UK)
 
+# What to do if… someone claims they are underage after sending explicit images and now demands money or favours (UK)
 ## Short answer
-Stop all communication immediately, do not pay any money, and do not provide any further images or favours. This is a common form of "sextortion" where the threat of an underage claim is used to create panic; the safest action is to block the user and move the situation into a holding pattern for professional assessment.
+Stop replying, do not pay, and do not agree to any favour. Move the situation into a holding pattern: keep the messages, block further contact where you can, and get immediate support from a trusted person or a UK service if you feel overwhelmed.
 
 ## Do not do these things
-- Do not send money, gift cards, cryptocurrency, or any "proof" of identity to the blackmailer.
-- Do not argue about their age or try to negotiate a "settlement" through private messages.
-- Do not delete the conversation history until you have captured screenshots of the account, the threats, and the demands.
-- Do not forward, re-upload, or share the explicit images with friends or online groups to ask for opinions.
-- Do not confess to illegal activity or hand over personal details like your home address or workplace.
+- Do not send money, gift cards, crypto, sexual images, or any other “proof” or favour to make this stop.
+- Do not keep arguing about their age or try to “sort it out” by private messages.
+- Do not delete the whole conversation straight away if you may need platform, bank, or police help later.
+- Do not forward, re-upload, or show the explicit images around while asking for opinions.
+- Do not send copies of the images to yourself on other devices or accounts.
+- Do not let panic push you into confessing things, making promises, or handing over more personal information.
 
 ## What to do now
-1. **End all contact with the individual immediately by muting and then blocking their account.** Do not send a "goodbye" message or explain why you are blocking; simply cut the connection to stop the cycle of psychological pressure.
-2. **Take screenshots of the entire interaction, including the user’s profile page, the specific threats, and any payment or favour demands.** 
-   - Capture the username and any unique ID numbers.
-   - Store these screenshots in a secure, private folder.
-   - Do not share or distribute the explicit images themselves while doing this.
-3. **Report the account to the platform where the interaction occurred using their specific reporting tools for "blackmail," "sexual harassment," or "harassment."** Most major social media platforms and dating apps have expedited routes for reporting sexual coercion.
-4. **Contact your bank or card provider immediately if you have already sent money or provided payment details.** State that you have been a victim of an online scam and blackmail; they can help secure your account and may be able to stop pending transactions.
-5. **Report the incident to the police via the non-emergency 101 number or your local force's online reporting portal.** If you are in England, Wales, or Northern Ireland, you should also report the cyber-crime aspect to "Report Fraud" (the successor to Action Fraud) at 0300 123 2040 or reportfraud.police.uk.
-6. **Use specialized image-removal tools to prevent the content from being shared across participating platforms.** 
-   - If the image is of you and you were 18 or older at the time it was taken, use StopNCII.org.
-   - If you were under 18 in the image, or the other person claims to be under 18, use Childline’s "Report Remove" or the "Take It Down" tool provided by NCMEC.
-7. **Make a report to CEOP (Child Exploitation and Online Protection) if the threats involve a minor or if you are under 18 yourself.** They specialize in cases where there is a risk of child sexual abuse or exploitation.
-8. **Secure your online presence by changing your passwords and enabling two-factor authentication (2FA) on all sensitive accounts.** Set your social media profiles to private and restrict who can see your friend lists or contact information.
-9. **Inform a trusted third party or a professional support service to help you manage the immediate stress of the situation.** Use a simple statement: "I am dealing with an online blackmail situation and I need someone to help me stay offline and not respond while I wait for official advice."
+1. End contact now. Stop messaging, mute if you need a moment, then block the account once you have saved the basic details you may need later, such as the username, profile, payment request, and threats.
+2. Keep a minimal record. Take screenshots of the profile, threats, payment demands, usernames, dates, and any bank, wallet, or gift-card instructions. Keep the record private and do not re-share the images.
+3. Report the account inside the platform where this happened, using the platform’s own reporting route for blackmail, sexual coercion, or image-based abuse.
+4. Lock down your access points. Change passwords for the account involved and for your email, turn on two-factor authentication, and hide friend lists, phone number, and other contact details if the person can still see them.
+5. If you already paid or sent account details, contact your bank or card provider immediately and say you were pressured into a scam or blackmail payment. Ask them to review or stop further payments and secure the account.
+6. If the threats continue, you feel at risk, or you want formal help, contact your local police force on 101 or use your force’s online reporting route. If there is immediate danger, call 999.
+7. If an intimate image of you is at risk of being shared and you were 18 or over in the image, consider using StopNCII to help participating platforms detect and remove matching copies without uploading the image itself.
+8. If you are under 18, or the image is of you when you were under 18, use Childline’s Report Remove and consider making a report to CEOP rather than trying to manage this alone.
+9. Tell one steady person what is happening today. Use simple words: “Someone is blackmailing me online and I need help staying calm and not responding.”
 
 ## What can wait
-- You do not need to determine if the person’s claim about their age is true right now.
-- You do not need to decide if you want to pursue a full criminal prosecution today.
-- You do not need to explain the specific nature of the images to everyone you seek support from.
-- You do not need to solve the entire problem in the next hour; once you have blocked and reported, the immediate leverage of the blackmailer is reduced.
+You do not need to work out right now whether the person is telling the truth about their age. You do not need to decide today whether to make a full formal report. You do not need to explain the whole story perfectly before getting support.
 
 ## Important reassurance
-This tactic is designed to trigger intense shame and fear to force a quick payment. Reaching out for help or pausing the conversation does not make you a criminal; the person making the demand is the one committing an offense of blackmail. Many people have navigated this situation by slowing down and using official reporting routes.
+This kind of threat is designed to create panic, shame, and urgency. Freezing, spiralling, or wanting to make it disappear fast is a very normal reaction. You are safer slowing this down than trying to fix it by yourself in the chat.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction actions for the immediate aftermath of a blackmail threat. It does not provide legal defense, forensic analysis of images, or long-term therapeutic support.
+These are first steps only. Later decisions about reporting, legal risk, image removal, or emotional support may need specialist help.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Laws regarding indecent images and blackmail are complex; if you are worried about your legal position, you should consult a solicitor or a legal aid service. Always prioritize reporting to official bodies like the police or the National Crime Agency (NCA) in cases of extortion.
+This is general information, not legal advice. In situations like this, the safest immediate approach is usually to stop contact, avoid any payment or favour, keep a basic record, and use platform, bank, police, or specialist support as needed. If you may want help later, keep screenshots of the threats and account details, but avoid storing, forwarding, or circulating explicit images any further.
 
 ## Additional Resources
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/threats-to-share-intimate-images/
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/sextortion-and-webcam-blackmail/
 - https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/kidnap-and-extortion/sextortion
-- https://www.iwf.org.uk/resources/sextortion/adults/
-- https://www.iwf.org.uk/resources/sextortion/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/sextortion-help-and-support/
+- https://www.police.uk/pu/contact-the-police/report-a-crime-incident/
+- https://stopncii.org/faq/?lang=en-gb
+- https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/report-remove/
+- https://www.ceop.police.uk/Safety-Centre/

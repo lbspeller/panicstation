@@ -1,90 +1,82 @@
----
+﻿---
 title: "What to do if… police ask you to hand over your device “for examination” and you are unsure what that means"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "police want my phone"
-  - "asked to hand over my device"
-  - "device for examination"
-  - "phone forensics request"
-  - "police asked to search my phone"
-  - "police asked to look through my phone"
-  - "police asked for my passcode"
-  - "police asked me to unlock my phone"
-  - "phone seizure uncertainty"
-  - "consent to phone search"
-  - "do i have to give my phone"
-  - "police retention of phone"
-  - "police taking my laptop"
-  - "digital device extraction request"
-  - "i feel pressured to comply"
-  - "voluntary handover confusion"
-  - "police evidence request"
-  - "worried about private data"
-  - "what does examination mean"
-  - "asked to sign consent form"
-  - "pcsc act 2022 section 37"
-  - "ripa section 49 notice"
-  - "police extracting messages"
-  - "give police my pin"
-  - "witness phone extraction uk"
-  - "victim phone extraction uk"
-  - "police taking device as evidence"
-  - "handing over electronic devices"
-  - "digital forensics police uk"
-  - "right to refuse phone search"
-last_reviewed: "2026-03-17"
+  - police want my phone
+  - asked to hand over my device
+  - device “for examination”
+  - phone “forensics” request
+  - police asked to search my phone
+  - police asked to look through my phone
+  - police asked for my passcode
+  - police asked me to unlock my phone
+  - phone seizure uncertainty
+  - consent to phone search
+  - do i have to give my phone
+  - police retention of phone
+  - police taking my laptop
+  - digital device extraction request
+  - i feel pressured to comply
+  - voluntary handover confusion
+  - police evidence request
+  - worried about private data
+  - what does examination mean
+  - asked to sign consent form
+last_reviewed: "2026-03-05"
 ---
-# What to do if… police ask you to hand over your device “for examination” and you are unsure what that means (UK)
 
+# What to do if… police ask you to hand over your device “for examination” and you are unsure what that means (UK)
 ## Short answer
-Ask the officer to clarify if they are requesting voluntary extraction under the Police, Crime, Sentencing and Courts Act 2022 or seizing the device under a legal power like PACE 1984. Do not provide passcodes or unlock the device until you have received legal advice and a written notice explaining the necessity of the request.
+Pause and ask: **“Is this voluntary, or are you taking it under a legal power or warrant?”** Don’t unlock the device or share passcodes while you get clarity and (if needed) legal advice.
 
 ## Do not do these things
-- Don't provide your passcode, PIN, or biometric unlock (fingerprint/face) "just to be helpful" without legal advice.
-- Don't sign any "voluntary extraction" or "consent" forms until you have read the written notice explaining what data is being taken and why.
-- Don't delete any data, messages, or apps before handing over a device, as this can be treated as perverting the course of justice.
-- Don't physically resist if an officer declares they are seizing the device under a legal power.
-- Don't assume that "examination" only means looking at messages; it can involve a full forensic download of all data on the device.
+- Don’t hand over your passcode, PIN, or passwords “just to be helpful”.
+- Don’t unlock the device or disable security features unless you have chosen to after you understand what’s being requested.
+- Don’t sign anything you don’t understand (including “consent”, “agreement”, or “extraction” forms) in the moment.
+- Don’t physically resist if they say they are taking it anyway—stay calm and focus on getting the legal basis and paperwork.
+- Don’t delete messages/files or try to “clean” the device—panic actions can create bigger problems.
 
 ## What to do now
-1. **Request the specific legal basis for the request.** Say:
-   **"I need you to clarify: are you asking for my voluntary agreement to extract data under the PCSC Act 2022, or are you seizing this device under a legal power such as PACE?"**
-2. **Ask for the mandatory written notice if you are a victim or witness.** Say:
-   **"As a victim / witness, I require the written notice that explains why the extraction is necessary, what specific data you are looking for, and how long you will keep my device."**
-   - Under the 2022 Code of Practice, police must provide this information to ensure "informed agreement."
-3. **Clarify the scope of the "examination."** Ask:
-   - "Is this a targeted extraction of specific messages or a full forensic copy of the device?"
-   - "What specific reasonable line of enquiry makes this extraction necessary and proportionate?"
-4. **Request free legal advice if you are at a police station.** Say:
-   **"I wish to speak to the duty solicitor before I make a decision about my device or provide any passcodes."**
-   - This right applies whether you are under arrest or attending voluntarily.
-5. **Flag any legally privileged or highly sensitive material.** Say:
-   **"This device contains legally privileged communications with my solicitor and I require this to be recorded before any examination."**
-6. **Ask for a formal receipt if the device is taken.** Ensure the receipt includes:
-   - The officer's name and collar number.
-   - The station they are based at.
-   - A specific description of the device (make, model, serial number).
-   - The relevant occurrence or case reference number.
-7. **Maintain device security.** If the device is still in your possession, ensure it is locked. You are not required to provide a passcode immediately unless served with a specific "Section 49 RIPA Notice" signed by a high-ranking officer or judge.
+1. **Get the key clarification (voluntary vs seized).** Say:  
+   **“I need to understand: are you asking for my agreement, or are you seizing it under a legal power or a warrant?”**
+2. **Ask what “examination” means in practice.** Calmly ask:  
+   - “Are you planning to extract data, or just keep the device as an item of evidence?”  
+   - “What information are you seeking (messages/photos/app data/location/call logs)?”  
+   - “How long do you expect to keep it?”
+3. **If this is an “agreement” / “consent” request, ask for the written document and don’t decide yet.** Say:  
+   **“Please give me the written notice/form that explains what you want to extract, why, and how long it will be kept. I’m not agreeing until I’ve read and understood it.”**
+4. **If you are being detained/in custody, ask for legal advice immediately.** Say:  
+   **“I want free legal advice and to speak to the duty solicitor before I agree to anything about my device.”**  
+   If you are *not* detained, you can still say: **“I’m not agreeing right now. I want to contact a solicitor first.”**
+5. **If they say they are seizing it, ask for the legal basis and a receipt.** Ask:  
+   - “Under what power are you seizing it (or what warrant are you relying on)?”  
+   - “Please give me a written record/receipt of what’s taken and a reference/case number.”
+6. **Keep the device locked.** Don’t type your PIN in front of them and don’t share passwords.  
+   If you can do it calmly and it won’t escalate (no sudden movements), you can consider turning the device fully off so it restarts to a passcode screen on many phones.
+7. **Flag legally privileged/confidential material (if relevant).** If it contains communications with your solicitor or other protected/confidential material, say:  
+   **“This device contains legally privileged/confidential material. I need that recorded and handled appropriately.”**
+8. **Write down details as soon as you can.** Note: officer names/numbers, station, date/time, whether they said “voluntary” or “seized”, what you were asked to sign, and what paperwork you received.
+9. **If losing the phone creates immediate risks, say so.** If it affects two-factor authentication, access to work/benefits/medical care/childcare, tell them and ask if any practical accommodation is possible (for example, allowing you to note essential numbers or move authentication) **without unlocking it for a search**.
 
 ## What can wait
-- You do not need to decide immediately whether to agree to a voluntary request; you can ask for time to consult a solicitor.
-- You do not need to explain why you have specific apps or encrypted folders during the initial encounter.
-- You do not need to argue about the legality of a seizure on the street; this is handled later through legal representation or a formal complaint.
+- You do **not** need to explain your entire digital life on the spot.
+- You do **not** need to argue legal points in the moment—focus on clarity, calm non-consent to voluntary access, and documentation.
+- You do **not** need to decide now whether to complain or challenge the seizure—first get the paperwork and legal advice.
 
 ## Important reassurance
-It is standard procedure to ask for clarification and legal advice when the police request access to your private digital life. Refusing to provide a passcode or sign a voluntary form in the moment is a legal right and does not automatically imply you are hiding evidence. Police are required by law to demonstrate that their request is "strictly necessary" and "proportionate."
+It’s normal to feel pressured when an authority figure asks for a device. Asking whether it’s voluntary, refusing to agree until you understand, requesting paperwork, and seeking legal advice are standard, reasonable steps.
 
 ## Scope note
-This guide covers the immediate stabilization of a request for device access. It does not cover the long-term legal strategy for digital forensics or the specific procedures for national security investigations.
+These are first steps only to stabilise the situation and prevent irreversible mistakes. If your device is seized or you’re under investigation, the safest next steps depend heavily on your status (witness/victim/suspect) and what you were asked to agree to.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Police powers regarding digital extraction are governed by the Police and Criminal Evidence Act 1984 (PACE), the Regulation of Investigatory Powers Act 2000 (RIPA), and the Police, Crime, Sentencing and Courts Act 2022. If your device is seized, contact a qualified solicitor immediately.
+This is general information, not legal advice. Rules and police powers can apply differently depending on circumstances. If you’re unsure, prioritise: **(1) safety and calm**, **(2) clarity on voluntary vs seizure**, **(3) no unlocking/passwords without advice**, **(4) written records/receipts**, and **(5) prompt legal advice**.
 
 ## Additional Resources
-- https://www.gov.uk/government/consultations/extraction-of-information-from-electronic-devices-code-of-practice/extraction-of-information-from-electronic-devices-code-of-practice-accessible
+- https://www.gov.uk/government/publications/pace-code-b-2013/pace-code-b-accessible
+- https://www.gov.uk/government/publications/pace-code-c-2019/pace-code-c-2019-accessible
+- https://www.legislation.gov.uk/ukpga/1984/60/section/19
+- https://assets.publishing.service.gov.uk/media/634810a38fa8f53463dcb957/E02802691_Electronic_Devices_Code_of_Practice_WEB.pdf
 - https://www.gov.uk/government/publications/police-crime-sentencing-and-courts-bill-2021-factsheets/police-crime-sentencing-and-courts-bill-2021-data-extraction-factsheet
-- https://assets.publishing.service.gov.uk/media/699f2977532c9ad91ebbcd00/Digital_devices_seizure_and_retention_and_data_extraction_policy.pdf
-- https://www.scotland.police.uk/about-us/what-we-do/specialist-crime-division/cybercrime-investigations-and-digital-forensics/digital-device-examination-by-agreement/
-- https://www.gov.uk/government/publications/circular-0072022-extraction-of-information-from-electronic-devices/circular-0072022-extraction-of-information-from-electronic-devices
+- https://www.college.police.uk/app/detention-and-custody/response-arrest-and-detention

@@ -1,92 +1,75 @@
----
+﻿---
 title: "What to do if… you hear movement in your yard, driveway, or alley while you are safely inside"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "hear movement outside home"
-  - "noise in yard at night"
-  - "someone in my garden"
-  - "footsteps in driveway"
-  - "movement in alley behind house"
-  - "prowler outside house"
-  - "suspicious noise outside window"
-  - "rattling gate or fence noise"
-  - "car doors outside my house"
-  - "someone on my property"
-  - "outside motion sensor alert"
-  - "doorbell camera alert at night"
-  - "worried someone is casing house"
-  - "unknown person outside at night"
-  - "hear banging outside house"
-  - "late night driveway sounds"
-  - "someone near back door"
-  - "heard voices outside home"
-  - "what do i do if i hear movement in my yard"
-  - "what do i do if someone is in my driveway"
-  - "what do i do if there is noise in my alley"
-  - "what do i do if someone is outside my house"
-  - "help i hear someone in my garden"
-  - "help i think someone is outside my window"
-  - "help i heard movement on my property"
-  - "help i can hear someone in my driveway"
-  - "my yard has someone in it"
-  - "my driveway has suspicious activity"
-  - "my alleyway is noisy at night"
-  - "my home security alert went off"
-  - "shadows moving outside"
-  - "sound of breaking glass outside"
-  - "heavy footsteps outside"
-  - "gate opening at night"
-  - "prowlers in the garden"
-  - "suspicious vehicle in driveway"
-  - "intruder in the yard"
-  - "movement near windows"
-  - "safety inside while noises outside"
-last_reviewed: "2026-03-17"
+  - hear movement outside home
+  - noise in yard at night
+  - someone in my garden
+  - footsteps in driveway
+  - movement in alley behind house
+  - prowler outside house
+  - suspicious noise outside window
+  - rattling gate or fence noise
+  - car doors outside my house
+  - someone on my property
+  - outside motion sensor alert
+  - doorbell camera alert at night
+  - worried someone is casing house
+  - unknown person outside at night
+  - hear banging outside house
+  - late night driveway sounds
+  - someone near back door
+  - heard voices outside home
+last_reviewed: "2026-01-11"
 ---
+
 # What to do if… you hear movement in your yard, driveway, or alley while you are safely inside (UK)
 
 ## Short answer
-Stay inside, secure your immediate area, and move to a room away from ground-floor windows. Call **999** immediately if you believe someone is attempting to enter or a crime is in progress.
+Stay inside, lock up, and move to a safer position away from doors and windows. If you think someone is trying to get in or a crime is in progress, call **999**.
 
 ## Do not do these things
-- Don’t go outside to investigate, even if you have a torch or feel capable of challenging someone.
-- Don’t open any doors or windows to shout at the person or "scare them off".
-- Don’t stand near windows or in line with glass doors where you can be seen from the outside.
-- Don’t turn on indoor lights in the room you are in, as this makes it easier for those outside to see you.
-- Don’t grab a kitchen knife or other implement to "go looking"; this increases the risk of escalation or being mistaken for an aggressor.
-- Don’t assume it is a false alarm or "just a fox" if your instinct or security alerts suggest otherwise.
+- Don’t go outside “just to check”, even if it feels quicker.
+- Don’t open the door to challenge anyone or “see who it is”.
+- Don’t shout through a window or reveal where you are in the house.
+- Don’t grab a weapon and go looking; it can escalate and you can be mistaken for a threat.
+- Don’t waste time posting on social media or messaging group chats first.
+- Don’t assume it’s “probably nothing” if you have a clear reason to feel unsafe.
 
 ## What to do now
-1. **Secure your current position and the house.** Lock the door of the room you are in and ensure all ground-floor doors and windows are secured ONLY if you can reach them without approaching the source of the noise.
-2. **Move everyone to a safe zone.** Gather all residents and pets into a single room, preferably upstairs or an internal room without large windows, and stay low.
-3. **Use the "Silent Solution" if you cannot speak safely.** 
-   - **On a mobile:** Dial **999** and listen for the automated prompt; you must **press 55** when asked to confirm it is a genuine emergency and be put through to the police.
-   - **On a landline:** Dial **999** and stay on the line; if the operator hears suspicious background noise or you pick up the phone again after hanging up (within 45 seconds), they will connect you to the police.
-4. **Utilize smart security and lighting remotely.** Check doorbell cameras or CCTV apps from your phone rather than looking through windows. Switch on external "deterrent" lights only if they can be activated via an app or a switch that does not require you to stand in front of a window.
-5. **Provide the police with 2026-priority details.** Inform the operator if you are in a urban or rural area, as new 2026 standards require police to aim for a 15-minute (urban) or 20-minute (rural) response for crimes in progress.
-   - Mention specifically if you see weapons, if entry is being forced, or if there are multiple people.
-6. **Eliminate sensory clues of your location.** Silence your phone (including vibration), turn off televisions or music, and remain quiet so you can hear external movement clearly.
-7. **Create a final barrier if entry is attempted.** If you hear glass breaking or a door being forced, move into your designated safe room, lock it, and if possible, push a heavy piece of furniture against the door while staying on the line with the emergency operator.
+1. **Secure the house in place.** Lock external doors, close and lock accessible windows, and if you have an alarm, set it (or set it to “home” mode).
+2. **Move people to a safer spot.** Bring everyone (including pets) into one room upstairs or an inner room, away from ground-floor doors/windows. Keep the hallway/entry area clear.
+3. **Reduce easy targets (without exposing yourself).** If you can do it quickly without going near windows or the front door, move car keys/handbags/valuables away from doors and ground-floor windows. If that would take you into an exposed area, skip it.
+4. **Turn on light strategically.** Switch on indoor lights and, if you can do it without going near windows, turn on outside lights (or use an app for smart lights). Avoid standing silhouetted at a window.
+5. **Look and listen safely.** From a protected position (behind a wall, not in the window), check any camera/doorbell feed you have. Note what you can: number of people, direction of travel, and any vehicle details you can see safely.
+6. **Call the police using the right number.**
+   - Call **999** if you believe someone is attempting to enter, you can see suspicious activity on your property, you hear active attempts to force entry, or you feel you’re in immediate danger.
+   - Call **101** (or report online) if it seems suspicious but is not an immediate threat (for example, a brief noise with no sign of an entry attempt).
+7. **If you can’t safely speak on a 999 call:**
+   - **On a mobile:** call **999** and listen. If you don’t speak, you may be prompted to **cough/tap** or, **if prompted**, to **press 55** to confirm it’s a genuine emergency so you can be put through to the police.
+   - **On a landline:** call **999** and stay on the line. Follow any operator prompts as best you can.
+   - If you *can* speak safely, speaking is usually the fastest way to get help.
+8. **If someone starts trying to get in:** get everyone into the safest room, lock it, place solid furniture as a barrier if possible, and call **999** (or stay on the line if you already called).
 
 ## What can wait
-- You do **not** need to check the garden, shed, or garage for damage until daylight.
-- You do **not** need to review or save CCTV footage right this second; the live feed or police arrival is the priority.
-- You do **not** need to notify neighbours or post on social media until the police have arrived or the situation is cleared.
-- You do **not** need to decide on permanent security upgrades or new locks tonight.
+- You do **not** need to go outside tonight to “confirm what it was”.
+- You do **not** need to decide right now whether to install new security devices or change locks.
+- You can deal with neighbours, community group messages, and saving/sharing any CCTV clips later—after you’re calm and safe.
+- You do **not** need to make a perfect judgement about “emergency vs non-emergency” before calling if you feel threatened.
 
 ## Important reassurance
-It is a natural physiological response to feel a racing heart or shaking hands when you hear unexpected movement outside. These reactions are your body’s way of preparing you to stay alert. By staying inside and calling for help, you are taking the most effective action to ensure your safety.
+A sudden noise outside can trigger a strong fear response even when you’re physically safe indoors. Choosing to stay inside, lock down, and get help if needed is a sensible, safety-first response.
 
 ## Scope note
-This guide is for immediate stabilization during an active concern about movement outside. It does not cover long-term home security planning or legal advice regarding self-defence.
+This is first-steps guidance for the next minutes to hour. Follow-up actions (reports, cameras, security upgrades, neighbour coordination) can come later.
 
 ## Important note
-Emergency response times are targets and can be affected by local demand. Always prioritize your physical withdrawal to a safe room over any other action.
+This guide provides general safety information for the UK and can’t assess your specific risk. If you believe you’re in immediate danger, call 999.
 
 ## Additional Resources
-- https://www.gov.uk/report-crime
 - https://www.gov.uk/contact-police
-- https://crimestoppers-uk.org/give-information/forms/give-information-anonymously
-- https://www.gov.uk/how-report-antisocial-behaviour/report-police
+- https://www.police.uk/pu/contact-us/
 - https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
+- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
+- https://www.gov.uk/government/news/single-non-emergency-101-police-number-launched

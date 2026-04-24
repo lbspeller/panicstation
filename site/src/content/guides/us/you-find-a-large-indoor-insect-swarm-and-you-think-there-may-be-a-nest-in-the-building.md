@@ -1,91 +1,79 @@
----
+﻿---
 title: "What to do if… you find a large indoor insect swarm and you think there may be a nest in the building"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - "insect swarm indoors"
-  - "swarm in house"
-  - "bugs suddenly everywhere"
-  - "flying insects inside"
-  - "many wasps in room"
-  - "bees in building"
-  - "suspected hive in wall"
-  - "nest in attic"
-  - "insects coming from vent"
-  - "insects coming from light fixture"
-  - "insects from chimney"
-  - "yellowjackets indoors"
-  - "bee swarm in home"
-  - "allergic reaction concern"
-  - "stung indoors"
-  - "unknown insect infestation"
-  - "insects in flat"
-  - "bugs in rental"
-  - "winged insects in wall"
-  - "hive in ceiling"
-  - "what do i do if insects are swarming in my room"
-  - "what do i do if bees are in my wall"
-  - "what do i do if wasps are in the attic"
-  - "what do i do if bugs are coming out of the vent"
-  - "help i have a swarm in my house"
-  - "help i have bees in my chimney"
-  - "help i have wasps in my ceiling"
-  - "my room is full of bees"
-  - "my wall is buzzing"
-  - "my ceiling has a nest"
-  - "black and yellow insects indoors"
-  - "brown flying bugs in house"
-  - "nest in wall void"
-  - "structural bee infestation"
-  - "indoor stinging hazard"
-  - "insect cloud in room"
-last_reviewed: "2026-03-17"
+  - insect swarm indoors
+  - swarm in house
+  - bugs suddenly everywhere
+  - flying insects inside
+  - many wasps in room
+  - bees in building
+  - suspected hive in wall
+  - nest in attic
+  - insects coming from vent
+  - insects coming from light fixture
+  - insects from chimney
+  - yellowjackets indoors
+  - bee swarm in home
+  - allergic reaction concern
+  - stung indoors
+  - unknown insect infestation
+  - apartment building pest issue
+  - landlord pest control
+  - keep insects contained
+  - safe pesticide use
+last_reviewed: "2026-03-04"
 ---
+
 # What to do if… you find a large indoor insect swarm and you think there may be a nest in the building (USA)
 
 ## Short answer
-Evacuate all people and pets from the immediate area, close the doors to contain the insects, and do not attempt to kill or remove the swarm yourself. If anyone shows signs of a severe allergic reaction, such as difficulty breathing or swelling, call 911 immediately.
+Get everyone (and pets) away from the swarm, close doors to contain it, and avoid provoking the insects. If anyone has trouble breathing or signs of a severe allergic reaction, call 911 now.
 
 ## Do not do these things
-- Do not swat at, vacuum, or spray the insects (disturbing a swarm can trigger defensive stinging behavior or scatter the insects further into the structure).
-- Do not seal the entry or exit hole the insects are using (blocking their path can force them deeper into the living spaces of the building).
-- Do not use foggers or "bug bombs" inside rooms where you suspect a nest is located in the walls or ceiling.
-- Do not open or close windows in the swarm area (changes in light or air pressure can cause the swarm to move unpredictably).
-- Do not use outdoor-only pesticides inside the home.
-- Do not enter attics or crawlspaces to "scout" for the nest.
+- Do not swat at, vacuum, or spray a large swarm (it can provoke stinging insects and scatter them through the building).
+- Do not seal or plug the suspected entry/exit hole yet unless a professional tells you to (blocking exits can redirect insects further indoors).
+- Do not use outdoor pesticides indoors, or use “more than recommended” thinking it will work faster.
+- Do not set off bug bombs/foggers as a first move when you suspect a nest in walls/ceilings/attics.
+- If you already used a fogger, **do not re-enter early**—follow the label’s “time out” and ventilation instructions.
 
 ## What to do now
-1. **Evacuate the area and isolate the room.** Move everyone to a safe part of the building and **close all doors** leading to the swarm area. 
-   - Place a heavy towel at the base of the door to prevent insects from crawling underneath.
-2. **Check for medical emergencies.** If someone has been stung and experiences wheezing, throat tightness, dizziness, or facial swelling, **call 911 now**.
-   - Help the person use their prescribed epinephrine auto-injector if they have one and request assistance.
-   - If the person feels faint or dizzy, have them lie flat on their back with their legs raised.
-3. **Turn off environmental triggers.** If it can be done from a distance or via a thermostat, **turn off the HVAC system and any ceiling fans** to prevent insects from being pulled into the ductwork.
-   - Turn off lights in the infested room if the switch is located outside the door, as many swarming insects are attracted to light.
-4. **Identify the activity from a safe distance.** Note the specific location where insects are most concentrated (e.g., a specific vent, light fixture, or corner of a window).
-   - Look for a "streaming" pattern where insects are consistently entering or exiting a single gap in the wall or ceiling.
-5. **Contact a structural pest professional.** Call a **licensed pest control company** and inform them specifically that you have an "indoor swarm" and suspect a "structural nest."
-   - If the insects are honey bees (forming a dense cluster), you may contact a local beekeeping association for a referral, but structural nests (inside walls) usually require a specialist licensed for structural work.
-6. **Notify building management if applicable.** If you are in a rental or multi-unit building, **inform the landlord or property manager** immediately, as nests in wall voids often affect adjacent units.
+1. **Make space and contain.** Move people and pets to a separate area, **close doors** between you and the swarm, and keep that zone “off-limits.” If you can do it without entering the swarm area, place a towel at the bottom of the door to reduce spread.
+2. **Screen for a medical emergency.** If anyone is wheezing, struggling to breathe, dizzy/faint, or has swelling of lips/mouth/throat/tongue after a sting, **call 911 immediately**. If they have an epinephrine auto-injector, help them use it if they want help.
+3. **Limit building-wide spread (only if you can do it safely).**
+   - Turn off fans that could move insects around.
+   - If your HVAC has an accessible on/off control, consider turning it off temporarily to avoid moving insects through vents.
+4. **Identify “stinging vs non-stinging” from a distance.** Use a phone zoom to get a photo/video without approaching. Note:
+   - where they are clustering (window, vent, light fixture, baseboard)
+   - whether they are **streaming from one point** (gap, vent, wall crack), suggesting a nest in a wall/ceiling/attic
+5. **Choose the right help based on what this is.**
+   - If it looks like a **temporary cluster/swarm of honey bees** (often a dense “ball” of bees) and it’s not inside the structure, contact your **local beekeepers association** or **Cooperative Extension** for a referral to a swarm catcher when feasible.
+   - If it’s **indoors** or you suspect a **nest in the structure** (wall void/attic/ceiling), **don’t wait**: contact a **licensed pest control company** or a specialist bee-removal service experienced with structural nests.
+6. **If it looks like wasps/yellowjackets (or you’re unsure): contact licensed pest control now.** Tell them it’s an **indoor swarm** and you suspect a **nest in the structure**, and share the photo and likely entry point.
+7. **If you live in an apartment/condo:** notify the **property manager/HOA** immediately. A nest in a wall/roof void may require coordinated access and treatment.
+8. **If the swarm is mostly in one room:** keep doors closed. Opening an exterior window can help **only** if you can do it without getting near the cluster (do not attempt if insects are concentrated on/around that window).
 
 ## What can wait
-- You do not need to identify the exact species of the insect before calling for professional help.
-- You do not need to clean up dead insects until the source nest has been professionally treated.
-- You do not need to repair any holes or gaps today; sealing should only occur after the nest is confirmed empty.
-- You do not need to decide between removal or extermination until a specialist has assessed the location and species.
+- You don’t need to figure out the exact species right now; focus on containment and getting the right help.
+- You don’t need to open walls, enter attics, or “confirm the nest” yourself.
+- You don’t need to buy pesticides immediately. The wrong product (or wrong use) can make things worse indoors.
+- Sealing cracks/vents can wait until after removal advice—sealing too early can redirect insects further into the building.
 
 ## Important reassurance
-Finding a swarm indoors is a high-stress event, but insects generally only become aggressive if they feel the nest is being directly attacked. By containing the room and keeping your distance, you significantly reduce the immediate risk of stings while waiting for professional help.
+A sudden indoor swarm feels out of control, but the safest early moves are simple: separate people from insects, avoid escalating defensive behavior, and bring in the right kind of help for what’s likely in the walls or attic.
 
 ## Scope note
-This guide provides first-step stabilization only. It does not cover the technical removal of nests, structural repairs, or the application of pesticides, which should be handled by qualified professionals.
+This covers first steps to stabilise the moment and avoid escalation. Nest removal, repair, and prevention should follow after the situation is assessed by a qualified professional (or a beekeeper where appropriate).
 
 ## Important note
-This information is for general safety and does not constitute medical or professional pest control advice. Always prioritize emergency medical services (911) for any signs of anaphylaxis or respiratory distress.
+This is general information, not professional pest control or medical advice. If you suspect anaphylaxis or any breathing difficulty after stings, call 911 immediately and use prescribed epinephrine if available.
 
 ## Additional Resources
-- https://www.epa.gov/safepestcontrol/termites-how-identify-and-control-them
-- https://apps.extension.umn.edu/garden/diagnose/insect/indoor/flies/medium/pavement-ant-queen.html
-- https://extension.umn.edu/insects-infest-homes/ants
-- https://extension.usu.edu/archive/what-to-do-about-wasps
-- https://extension.umn.edu/yard-and-garden-insects/wasps-and-bees
+- https://www.epa.gov/safepestcontrol/dos-and-donts-pest-control
+- https://www.epa.gov/safepestcontrol/safety-precautions-total-release-foggers
+- https://npic.orst.edu/ingred/ptype/fogger.html
+- https://www.aaaai.org/conditions-treatments/allergies/anaphylaxis
+- https://acaai.org/allergies/allergic-conditions/insect-sting-allergies/
+- https://www.canr.msu.edu/news/what-should-i-do-if-i-find-a-swarm-of-bees
+- https://extension.msstate.edu/blogs/extension-for-real-life/what-do-if-you-find-honey-bee-swarm

@@ -1,106 +1,96 @@
----
+﻿---
 title: "What to do if… a ferry or crossing is delayed for hours and you may run out of food, water, or battery power while waiting"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "ferry delayed for hours"
-  - "crossing delayed"
-  - "stuck at ferry terminal"
-  - "queued for ferry"
-  - "waiting in car for ferry"
-  - "stuck on board ferry"
-  - "port delay no updates"
-  - "departure delayed 90 minutes"
-  - "running out of water waiting"
-  - "no food while waiting"
-  - "phone battery dying travel"
-  - "no signal at terminal"
-  - "power bank ran out"
-  - "missed connection after ferry"
-  - "delayed sailing overnight"
-  - "stranded at port car park"
-  - "ferry crossing delay"
-  - "ferry food and water"
-  - "ferry battery power"
-  - "help i am stuck at a ferry port"
-  - "help i am running out of water"
-  - "what do i do if my ferry is delayed"
-  - "what do i do if i run out of food at the port"
-  - "my ferry is delayed for hours"
-  - "my phone is dying at the terminal"
-  - "dry mouth and thirst"
-  - "dizzy from waiting in heat"
-  - "headache while waiting for ferry"
-  - "stuck in car ferry queue"
-  - "ferry operator delay help"
-  - "maritime passenger rights uk"
-  - "refreshments for delayed ferry"
-  - "overnight stay ferry delay"
-  - "ferry terminal facilities closed"
-  - "rebooking delayed ferry"
-last_reviewed: "2026-03-17"
+  - ferry delayed for hours
+  - crossing delayed
+  - stuck at ferry terminal
+  - queued for ferry
+  - waiting in car for ferry
+  - stuck on board ferry
+  - port delay no updates
+  - departure delayed 90 minutes
+  - running out of water waiting
+  - no food while waiting
+  - phone battery dying travel
+  - no signal at terminal
+  - power bank ran out
+  - missed connection after ferry
+  - delayed sailing overnight
+  - stranded at port car park
+  - need medical help while waiting
+  - ferry rebook or refund
+  - maritime passenger rights
+last_reviewed: "2026-03-11"
 ---
-# What to do if… a ferry or crossing is delayed for hours and you may run out of food, water, or battery power while waiting (UK)
 
+# What to do if… a ferry or crossing is delayed for hours and you may run out of food, water, or battery power while waiting (UK)
 ## Short answer
-Isolate essential phone power immediately and request a formal status update from staff to trigger your legal right to refreshments and assistance. Prioritize securing drinking water for all passengers before physical symptoms of dehydration appear.
+Secure water and preserve phone power immediately, then get one clear update from staff about timing and what assistance (refreshments/refund or re-routing) is available.
 
 ## Do not do these things
-- Don't wait until you or others feel faint or confused before asking for water or medical attention.
-- Don't leave your vehicle or assigned queue position without explicit confirmation from terminal staff that your boarding priority is preserved.
-- Don't deplete your remaining phone battery on social media or entertainment; save it for boarding passes and emergency communication.
-- Don't rely on unofficial passenger groups for timing updates; only act on announcements from the vessel master or port authorities.
-- Don't ignore physical cues like a lack of sweating, extreme thirst, or dark urine, which indicate a need for immediate hydration.
+- Don’t wait until you’re dizzy, shaky, or “nearly out” to seek water or help—act early.
+- Don’t let your phone die if you still need it for tickets/QR codes, updates, or contacting someone.
+- Don’t leave your vehicle/queue or block lanes/ramps unless staff confirm it’s allowed and you won’t lose your place.
+- Don’t rely on rumours or social media threads as your main update source—use staff announcements and official operator updates.
+- Don’t share booking references, QR codes, or payment details publicly while asking for help.
 
 ## What to do now
-1. **Conduct an immediate health assessment of everyone in your party.** 
-   Check for signs of heat exhaustion or dehydration, including dark urine, dry mouth, dizziness, or headaches.
-   - If someone is confused, has a seizure, or remains unwell 30 minutes after drinking fluids and cooling down, call 999 or notify crew immediately.
-   - For non-emergency medical advice while waiting, call 111.
+1. **Quick health check (you + anyone with you).**  
+   If someone has chest pain, severe breathlessness, confusion, repeated vomiting, faints, or seems dangerously overheated/very cold: **tell terminal staff/crew immediately** and ask for medical help.
 
-2. **Request a formal status update from a staff member or the information desk.** 
-   Ask specifically for the "Estimated Time of Departure" (ETD) and whether passengers are permitted to leave their vehicles to access terminal facilities. Record the name of the staff member and the time the update was given.
+2. **Get the status from a human and note the key facts.**  
+   Ask staff: “What’s the estimated departure time?” and “Are we staying in vehicles or able to access the terminal?”  
+   Note the scheduled departure time and when you were told of the delay (a phone note is enough).
 
-3. **Formally trigger your right to refreshments if the delay exceeds 90 minutes.** 
-   State clearly to staff: "Under maritime passenger rights, this 90-minute delay entitles us to refreshments; what is being provided and where can we collect it?"
-   - The operator must provide snacks or meals in proportion to the wait, provided they are available or can reasonably be supplied.
-   - If facilities are unavailable, they are not legally required to provide them, but you should still ask for bottled water.
+3. **Use the UK 90-minute trigger to ask for help clearly (script).**  
+   If the departure delay is **90 minutes or more**, calmly say:  
+   “We’ve now been delayed over 90 minutes. Can you confirm what **refreshments** are available, and whether you’re offering **refund or re-routing**?”  
+   (Even if you don’t plan to claim later, this phrasing often prompts staff to check what they can provide.)
 
-4. **Secure a minimum of 500ml of water per person immediately.** 
-   Purchase water from terminal shops or ask staff for drinking water if you are restricted to your vehicle or the vessel. If you have limited supplies, ration them in small, frequent sips rather than large gulps.
+4. **Secure water first (then simple calories).**  
+   - Buy water as soon as you can access a shop/café.  
+   - If facilities are limited or you’re confined onboard/in vehicles, **ask staff for drinking water**, especially for children, older adults, pregnancy, diabetes, or anyone feeling faint.
 
-5. **Maximize phone battery preservation before the charge drops below 20%.** 
-   Enable 'Low Power Mode', turn off Bluetooth and Wi-Fi (unless using the terminal network), and reduce screen brightness to the minimum. Screenshot your booking reference and any rebooking instructions so you can view them while the phone is in 'Airplane Mode'.
+5. **Preserve battery power now (before it’s “low”).**  
+   - Enable **Low Power Mode**, reduce brightness, close battery-heavy apps, and stop streaming.  
+   - Use **Airplane Mode** and reconnect briefly on a set schedule (e.g., every 30–60 minutes) to check updates.  
+   - Screenshot/save: booking reference, QR codes, and any messages about rebooking.
 
-6. **Establish a timed check-in schedule to reduce cognitive load.** 
-   Set a timer for 60 minutes and only check for updates or use your phone when it goes off. This prevents "scrolling fatigue" and preserves battery life for the duration of the delay.
+6. **Make a simple ration plan that reduces panic-draining.**  
+   Decide: water sips at regular intervals; one snack now and the next in 2 hours (adjust for children/medical needs).  
+   Check updates on a timer rather than continuously.
 
-7. **Clarify your options for re-routing or reimbursement if the delay is significant.** 
-   If the delay is over 90 minutes, you have the right to choose between an alternative sailing at the earliest opportunity or a full refund within seven days. Note that if you choose a refund, the operator may no longer be responsible for providing refreshments or accommodation.
+7. **Know what assistance you can reasonably ask for during long delays.**  
+   Under UK maritime passenger-rights guidance, you should generally expect **refreshments from 90 minutes of delay**, increasing with longer waits (light refreshments/snack/hot meal, depending on length). If there are **no facilities**, the operator may not have to supply them—still ask staff what’s available and where.  
+   If delay/cancellation means you **cannot be re-routed** and you need an overnight stay, you may be entitled to **accommodation up to a cap** (with exceptions such as unsafe weather/safety-related delays).
 
-8. **Request accommodation if the delay necessitates an overnight stay.** 
-   Ask staff for "adequate accommodation" either on board or ashore, including transport to the hotel. Operators can limit the cost to £70 per night per person for a maximum of 3 nights, and they are not required to provide this if the delay is caused by weather endangering safe operation.
+8. **If you decide you can’t safely continue (health/children/needs), ask about leaving without losing options.**  
+   Say: “We need to leave the terminal for food/water/medical reasons—what do we need to do so we can **rebook** or **refund** correctly?”  
+   Get the instruction in writing if possible (text/email/posted notice).
 
-9. **Note the escalation path if assistance is refused.** 
-   If the operator fails to provide required assistance, you must first complain to the operator. If unresolved, contact ABTA (for ferry services in England/Wales) or the Consumer Council (Northern Ireland); the Maritime and Coastguard Agency (MCA) is the final National Enforcement Body.
+9. **If staff cannot resolve it, use the UK escalation route.**  
+   - First: complain to the operator.  
+   - If still unresolved for a ferry service: the UK guidance lists **ABTA** as the relevant organisation for ferry complaints; the **Maritime and Coastguard Agency (MCA)** enforces the maritime passenger-rights regulations.
 
 ## What can wait
-- You do not need to file a formal compensation claim or 25% to 50% partial refund request while still at the terminal; this is done after the journey.
-- You do not need to decide on permanent travel changes until the operator provides a definitive "cancellation" notice.
-- You do not need to worry about missed onward connections now, as maritime operators are generally not liable for consequential losses like missed trains or flights.
+- You do **not** need to decide now whether to claim compensation or write a formal complaint.
+- You do **not** need to keep checking your phone constantly—set timed check-ins to preserve battery.
+- You do **not** need to make major rerouting decisions until you have a realistic estimate (unless health/safety requires leaving).
 
 ## Important reassurance
-Physical symptoms like thirst and the sight of a dying phone battery often trigger a rapid "fight or flight" response. This is a normal physiological reaction to the loss of resources. By securing water and putting your phone into power-save mode, you remove the immediate stressors, allowing you to focus on the 90-minute legal triggers for assistance.
+When water or battery feels like it’s running out, stress spikes fast and judgement gets worse. Getting water, saving power, and using clear “90-minute” wording with staff usually brings the situation back into something manageable.
 
 ## Scope note
-This guide provides first-step stabilization for health, communication, and immediate passenger rights during a live delay. It does not cover long-term legal claims, insurance disputes, or international maritime law for non-UK jurisdictions.
+These are first steps for staying safe and functional during the delay. Refunds, compensation, and detailed disputes are “later” tasks once you’re stable and have the key facts written down.
 
 ## Important note
-This information is for general guidance and does not constitute legal or medical advice. In any medical emergency, or if you feel unsafe at a port or on a vessel, contact the emergency services on 991 or 999 immediately. Passenger rights may be limited by "extraordinary circumstances" such as extreme weather or safety risks.
+This is general information, not legal or medical advice. If anyone becomes unwell or you feel unsafe, prioritise immediate help via terminal staff/crew and emergency services as appropriate.
 
 ## Additional Resources
-- https://www.gov.uk/government/publications/passenger-rights-when-travelling-by-sea-and-inland-waterways/passenger-rights-when-travelling-by-sea-and-inland-waterways
 - https://www.gov.uk/guidance/maritime-passenger-rights-your-journey
-- https://www.gov.uk/government/publications/draft-guidance-notes-relating-to-regulation-eu-no-1177-2010/obligations-of-carriers-and-terminal-operators-in-the-event-of-interrupted-travel-guidance-note-6
+- https://www.gov.uk/government/publications/a-passenger-guide-to-regulation-eu-11772010/maritime-passenger-rights
+- https://www.legislation.gov.uk/eur/2010/1177
+- https://www.abta.com/help-and-complaints/frequently-asked-questions/my-ferry-has-been-delayed-what-are-my-rights
 - https://www.abta.com/help-and-complaints/ferry-complaints
-- https://www.consumercouncil.org.uk/consumers/help-consumers/travel-and-transport/ferry-travel

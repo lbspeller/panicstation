@@ -1,94 +1,77 @@
----
+﻿---
 title: "What to do if… a car-share vehicle will not unlock even though your booking is active"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "car-share vehicle unlock issue"
-  - "car-share booking active"
-  - "car-share vehicle door stuck"
-  - "car-share app not unlocking"
-  - "car-share vehicle access failure"
-  - "car-share bluetooth connection error"
-  - "car-share smartcard not working"
-  - "what do i do if car-share wont unlock"
-  - "what do i do if rental car wont open"
-  - "what do i do if booking started but car locked"
-  - "what do i do if car club app fails"
-  - "help i cannot unlock my car-share"
-  - "help i am at my car-share but doors locked"
-  - "help i have active car-share booking no access"
-  - "help i cannot find my car-share registration"
-  - "my car-share app is loading forever"
-  - "my car-share bluetooth is not connecting"
-  - "my car-share smartcard reader is red"
-  - "my car-share vehicle is missing from bay"
-  - "smell of electronics near car-share reader"
-  - "visible damage on car-share door"
-  - "flashing red light on car-share windscreen"
-  - "no signal at car-share location"
-  - "wrong vehicle in car-share bay"
-  - "car-share vehicle in london"
-  - "car-share vehicle in manchester"
-  - "car-share vehicle in edinburgh"
-  - "car-share vehicle at night"
-  - "active booking car-share"
-  - "vehicle unlock car-share"
-  - "car-share app error"
-  - "car-share door handle stuck"
-  - "car-share registration mismatch"
-  - "car-share virtual key download"
-  - "car-share selfie verification fail"
-last_reviewed: "2026-03-17"
+  - car share won't unlock
+  - car club won't unlock
+  - booking active but car locked
+  - app unlock not working
+  - smartcard won't unlock car
+  - can't start rental unlock
+  - can't access reserved car
+  - keyless car share unlock issue
+  - car share bluetooth unlock problem
+  - car share no signal unlock
+  - wrong car in bay panic
+  - reservation window not started
+  - car share app stuck loading
+  - car share locked out
+  - stranded at pickup location
+  - car club helpline unlock help
+  - car share vehicle access failure
+  - car share door won't open
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… a car-share vehicle will not unlock even though your booking is active (UK)
 
 ## Short answer
-Verify the vehicle registration matches your app and that the booking start time has passed, then call the provider’s support line (the "Clubhouse" or help desk) while standing next to the vehicle.
+Stay with the vehicle (in a safe spot), confirm you’re at the correct car and your booking has actually started, then call the car-share provider’s support line while you are still next to the vehicle.
 
 ## Do not do these things
-- Don’t pull or force the door handles, windows, or card reader panels.
-- Don’t repeatedly tap a smartcard or press "unlock" in the app more than twice without checking settings.
-- Don’t walk away from the vehicle to a different location before calling support.
-- Don’t share your login credentials or "unlock codes" with anyone claiming to be a bystander or official.
-- Don’t attempt to jump-start or move the vehicle manually to "wake it up."
+- Don’t force the door, window, or reader panel (you could be held responsible for damage).
+- Don’t keep repeatedly pressing unlock for several minutes without changing anything (it can waste time and increase stress).
+- Don’t walk away assuming it will fix itself if you’re close to the start of your booking (support often needs you beside the vehicle to troubleshoot).
+- Don’t accept “help” from strangers who want you to share login codes or let them use your phone.
+- Don’t try improvised “solutions” (tampering, towing, pushing) unless instructed by the provider or an authorised official.
 
 ## What to do now
-1. **Match the vehicle registration and bay ID exactly to your booking.** Check the number plate against the app; if there is any mismatch, the app will not send the unlock command to that specific vehicle.
-2. **Verify that the booking has officially started in the app.** Many UK providers (such as Enterprise Car Club or Co Wheels) will not allow the "Unlock" button to function until the exact minute the reservation begins.
-3. **Complete any required pre-unlock verification steps.** 
-   - Check if the app requires a "Live Selfie" or identity check before downloading the virtual key (common for Hiyacar/QuickStart).
-   - Ensure you have confirmed the vehicle's external condition or reported damage if prompted by the app.
-4. **Optimise your phone's connection settings.** 
-   - Enable **Bluetooth**, **Location Services** (set to "Precise" or "High Accuracy"), and **Mobile Data**.
-   - Turn off any active VPNs or battery-saver modes that might block background app communication.
-   - If you have no signal, move to a spot where data is available to "refresh" the booking, then return to stand within one metre of the car.
-5. **Perform one clean restart and attempt.**
-   - Force-close the app entirely and reopen it.
-   - If using a smartcard, hold it against the windscreen reader for a full 5 seconds until the light changes colour.
-6. **Call the provider’s support line immediately while standing by the car.** 
-   - For Enterprise Car Club, call the **Clubhouse** on 0345 266 9290.
-   - For Co Wheels, call **Customer Service** on 0191 375 1050.
-   - For Hiyacar, use the **Live Chat** in the app for immediate diagnostic checks.
-7. **Ask the agent to perform a remote unlock or "re-poll" the vehicle.** Tell them the registration and your exact location; they can often see if the vehicle's onboard computer is "asleep" or if a previous user left the ignition in "Ready" mode, which blocks new rentals.
-8. **Document the failure for billing protection.** Take a screenshot of the app showing the active booking and the error message or "greyed out" button. Note the time you arrived and the time you called support.
+1. **Move to a calmer, safer pause point.** Step a few metres away from traffic/driveways, keep your belongings with you, and take 3 slow breaths so you don’t rush into damaging the car or losing your booking.
+2. **Confirm you’re at the right vehicle and the booking has actually started.** Match the **registration/number plate** (and any bay/spot ID) to the app. If you’re early by even a few minutes, many services won’t enable “start/unlock” until the exact start time.
+3. **Check the most common phone/app blockers (only what applies to your operator).**
+   - Make sure your phone has enough battery to stay on a call.
+   - If your operator uses phone-unlock, confirm the app has the permissions it needs (commonly **Bluetooth** and sometimes **Location Services**).
+   - If you have no data signal (e.g., underground), step briefly to where you can load/refresh the booking screen, then **return to stand right next to the car** before trying unlock again.
+4. **Try one clean unlock attempt (then stop and escalate).**
+   - Fully close the app, reopen it, go to your active booking, and press **Unlock/Start rental** once.
+   - If your service uses a **smartcard**, try that method once (hold it to the reader long enough to register, if applicable).
+5. **Call the provider’s support/helpline while you are still with the vehicle.** Tell them:
+   - you have an active booking (start time/end time),
+   - the vehicle registration,
+   - exact location/bay,
+   - what the app shows (greyed-out button, spinning, error message),
+   - what you already tried.
+   **Ask them to note the access failure on your booking** and to **end/restart/reassign** it if needed so you’re not charged for time you couldn’t use.
+6. **If you’re stuck somewhere unsafe, prioritise personal safety.** Move to a staffed/public place nearby (shop, station entrance, hotel lobby) and make the support call from there. If there is immediate danger to life, call **999**.
+7. **Preserve proof without getting pulled into billing right now.** Screenshot the active booking page, the error, and the time; note the vehicle reg and location. This is for later if you need to dispute charges.
 
 ## What can wait
-- You do not need to resolve billing disputes or request a refund for the lost time during the initial phone call.
-- You do not need to reinstall the app or update your phone's OS while standing on the street.
-- You do not need to decide on an alternative transport plan until the support agent confirms they cannot unlock the car.
+- You do **not** need to argue about fees, refunds, or compensation right now.
+- You do **not** need to write a detailed complaint while you’re stressed and stranded.
+- You do **not** need to do major troubleshooting (reinstalling the app, factory resets, changing phones) unless support tells you to.
 
 ## Important reassurance
-App-to-vehicle communication failures are common due to local signal "dead zones" or temporary server delays. Most UK car-share providers can see the vehicle's status remotely and can either unlock the doors for you or move your booking to a nearby vehicle without additional cost.
+This is a common, fixable failure mode with app-based access. The most protective move is to slow down, confirm the basics (right car + start time), and get the provider to troubleshoot while you’re beside the vehicle.
 
 ## Scope note
-This guide covers immediate stabilization and vehicle access troubleshooting for UK-based car clubs. It does not cover long-term membership disputes, insurance claims, or mechanical breakdowns occurring after the vehicle is already unlocked.
+This is first-steps only: stabilise, verify, contact support, and document. Anything about longer-term account issues, charges, or membership status can be handled after you’re safe and no longer time-pressured.
 
 ## Important note
-This information is provided for general guidance and does not replace the specific Terms and Conditions of your car-share provider. Emergency support numbers and procedures are subject to change by the operators; always prioritize your personal safety if you are in an isolated or poorly lit area.
+This guide is general information, not legal advice. Car-share systems and procedures vary by operator and vehicle; follow the provider’s instructions and local safety guidance in the moment.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/complain-about-a-service/
-- https://www.citizensadvice.org.uk/consumer/template-letters/letters/problems-with-services/letter-to-complain-about-the-poor-standard-of-a-service/
-- https://www.citizensadvice.org.uk/consumer/get-more-help/if-you-need-more-help-about-a-consumer-issue/
-- https://www.moneyhelper.org.uk/en/getting-help-and-advice/consumer-rights/consumer-rights-what-you-need-to-know
-- https://www.moneyhelper.org.uk/en/everyday-money/credit/how-youre-protected-when-you-pay-by-card
+- https://co-wheels.zendesk.com/hc/en-gb/articles/22547174694674-App-UNLOCK
+- https://co-wheels.zendesk.com/hc/en-gb/articles/4405433850898-I-can-t-get-the-vehicle-to-lock-unlock-with-the-smartcard-app
+- https://www.enterprisecarclub.co.uk/gb/en/help-centre.html
+- https://www.enterprisecarclub.co.uk/gb/en/mobile-app/mobile-pp-faq.html

@@ -1,92 +1,93 @@
----
+﻿---
 title: "What to do if… you receive a notice that goods or property of yours are being held pending verification"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - "notice property held"
-  - "goods held pending verification"
-  - "property held for verification"
-  - "seized property notice"
-  - "notice of seizure"
-  - "intent to forfeit letter"
-  - "administrative forfeiture notice"
-  - "forfeiture claim deadline"
-  - "file a forfeiture claim"
-  - "petition for remission mitigation"
-  - "law enforcement holding property"
-  - "property held as evidence"
-  - "property inventory receipt"
-  - "proof of ownership request"
-  - "verify agency case number"
-  - "suspicious official notice scam"
-  - "package detained by authorities"
-  - "jail property held"
-  - "prison property office"
-  - "property return request"
-  - "what do i do if property is seized"
-  - "what do i do if my package is held for verification"
-  - "what do i do if customs took my money"
-  - "help i received a seizure notice"
-  - "help i got an intent to forfeit letter"
-  - "help my goods are held by police"
-  - "my package has a notice of seizure"
-  - "my car was seized for forfeiture"
-  - "smell of scam seizure notice"
-  - "official gov forfeiture notice verify"
-  - "forfeiture claim under oath"
-  - "notice of detention commercial goods"
-  - "verified claim 35 day deadline"
-  - "hardship release request property"
-last_reviewed: "2026-03-17"
+  - notice property held
+  - goods held pending verification
+  - property held for verification
+  - seized property notice
+  - notice of seizure
+  - intent to forfeit letter
+  - administrative forfeiture notice
+  - forfeiture claim deadline
+  - file a forfeiture claim
+  - petition for remission mitigation
+  - law enforcement holding property
+  - property held as evidence
+  - property inventory receipt
+  - proof of ownership request
+  - verify agency case number
+  - suspicious official notice scam
+  - package detained by authorities
+  - jail property held
+  - prison property office
+  - property return request
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive a notice that goods or property of yours are being held pending verification (USA)
 
 ## Short answer
-Verify the notice via an official government website (.gov) or published phone number, then respond in writing before the deadline—typically 35 days—using a "Claim" to preserve your right to a court hearing.
+Verify the notice by contacting the agency through its official website, then respond promptly in writing with the case number and copies of proof of ownership—without sending originals or paying unexpected fees.
 
 ## Do not do these things
-- Do not pay any "insurance," "anti-terrorism," "clearance," or "yellow tag" fees to release the property; official agencies do not charge these.
-- Do not wire money or use cryptocurrency to pay an "administrative fine" mentioned in a phone call or email.
-- Do not ignore the notice; missing a deadline (often 35 days from the notice date) usually results in permanent and irreversible loss of the property.
-- Do not send original documents (titles, receipts, or IDs) through the mail; send clear photocopies only.
-- Do not file a "Petition for Remission" alone if you want a judge to decide the case; a Petition is a request for mercy, while a "Claim" is a legal challenge.
+- Do not wire money, buy gift cards, or pay “verification/release fees” from a link/number in the notice before independently confirming the agency and case.
+- Do not share one-time passcodes, full passwords, or full card details “to verify identity”.
+- Do not mail original identity documents or the only copy of title/deed.
+- Do not miss the deadline printed on the notice (treat it as controlling).
+- Do not provide a detailed narrative about events if the hold might relate to an investigation—start with ownership/identity/return request.
 
 ## What to do now
-1. **Preserve every part of the notice and its delivery.** **Keep the envelope, the letter, and any attachments exactly as they arrived.**
-   - Take photos of the postmark on the envelope to prove when it was mailed.
-   - Note any Case Number, Seizure Number, or Notice ID.
-2. **Verify the agency using an independent search.** **Do not call the number or click links provided in the notice itself.**
-   - Go to the official agency website (e.g., cbp.gov, fbi.gov, uspis.gov) and look for a "Property" or "Asset Forfeiture" unit number.
-   - Call the official main line and ask: "Can you confirm that Case Number [Number] is a valid active case in your system?"
-3. **Determine if the property was seized by Customs (CBP).** **If the hold involves a commercial shipment, check if you must use the 2026 Mandatory Forced Labor Portal.**
-   - For commercial goods held under the Uyghur Forced Labor Prevention Act (UFLPA) or Withhold Release Orders, all admissibility challenges must now be submitted through the centralized online portal.
-4. **Request an inventory and a formal "Receipt for Property."** **If you do not have a detailed list of what was taken, demand one in writing immediately.**
-   - Ensure the list includes serial numbers, quantities, and the exact condition of the items when taken.
-5. **Decide between filing a "Claim" or a "Petition."** **Filing a "Claim" is the only action that stops administrative forfeiture and forces the government to go to court.**
-   - A **Claim** must be filed within the deadline (usually 35 days for personal notice). It must identify the property and your interest in it, and it must be signed under penalty of perjury.
-   - A **Petition for Remission/Mitigation** asks the agency for mercy. It does not stop the forfeiture clock. If the Petition is denied after the Claim deadline passes, you lose the property.
-6. **Check for "Hardship Release" eligibility.** **If the seized property is an essential vehicle or primary residence, you may be able to request immediate release under 18 U.S.C. § 983(f).**
-   - You must show that the government's continued possession causes a substantial hardship (e.g., inability to get to work) that outweighs the risk of the property being lost or destroyed.
-7. **Submit copies of ownership proof.** **Prepare a packet containing photocopies of receipts, bank statements, or photos of you with the items.**
-   - Include a brief cover letter: "I am the lawful owner of the property under Case [Number] and I request its immediate return/release."
+1. **Preserve the notice exactly as received.** Save PDFs/screenshots, envelope photos, and attachments. Note the date you received it and any case/receipt numbers.
+2. **Verify authenticity using an official channel you find yourself.**
+   - Use the agency’s official website (local government site for city/county/state, or a federal .gov site) to find a main phone number or contact portal.
+   - Ask: “Can you confirm this case number and that this notice was issued by your office?”
+3. **Identify what type of hold it is (this changes your next step).** Ask for confirmation in writing:
+   - evidence retention / safekeeping / lost-and-found,
+   - contraband screening,
+   - seizure with possible civil or administrative forfeiture.
+4. **If police/sheriff seized it, request the property receipt/inventory and release conditions.**
+   - If you never received a receipt, ask for one (item description, serial numbers, date/location, officer/unit, case number).
+   - Ask whether any items can be released now, what ID is required, and whether pickup is appointment-only.
+5. **Reply in writing with a simple “ownership + return” packet.** Include:
+   - your name and contact info,
+   - the case/receipt number,
+   - a one-sentence request: “I claim lawful ownership and request return/release once verification is complete,”
+   - **copies** of proof of ownership (receipts, order confirmations, photos of serial numbers, insurance listing, repair records),
+   - **copies** of ID only if the verified agency requires it (mask irrelevant details where possible).
+6. **If the notice mentions forfeiture or “intent to forfeit,” treat it as time-sensitive and procedural.**
+   - **Use the deadline on your notice.** Do not assume extensions.
+   - For federal forfeitures listed on Forfeiture.gov, to contest forfeiture in U.S. District Court you generally must **file a claim with the notifying agency** at the address in the notice **by the notice deadline**.
+   - A federal claim generally must identify the property, state your ownership/interest, and be made **under oath/penalty of perjury** (or an equivalent unsworn declaration).
+   - Filing a timely claim generally stops the administrative forfeiture track and moves it toward court processing.
+7. **Know the other federal route: petitions are different from claims.** Federal agencies also allow a **petition for remission/mitigation** (often about discretionary return/relief). Petitions have their own deadlines (often tied to publication or the personal notice). If you are unsure which route to use, get quick legal advice—choosing wrong can cost time.
+8. **If this is jail/prison property (yours or a loved one’s), use the facility’s property office process in writing.** Ask:
+   - what exactly is being verified (identity, authorization, inventory match, contraband rules),
+   - what documents they accept for release/forwarding,
+   - whether they require a notarized authorization or specific facility form.
+   (Federal prison rules and forms differ from state/county facilities—don’t assume they’re the same.)
+9. **Escalate if you cannot get basic written confirmation.**
+   - Ask for a supervisor in the property/evidence unit.
+   - Use the agency’s published complaint process or records request channel if they will not confirm inventory/status.
 
 ## What can wait
-- You do not need to hire an attorney in the first 24 hours, but you should consult one before the 35-day deadline expires.
-- You do not need to provide a statement about how the property was used or where the money came from in your initial verification call.
-- You do not need to decide on a lawsuit (like a Rule 41(g) motion) until the agency's initial response period has passed.
+- You do not need to decide today whether to sue or make a public complaint.
+- You do not need to write a long story—start with verification, a written status, and ownership proof.
+- You do not need to replace the item immediately; focus on avoiding scams and meeting any stated deadline.
 
 ## Important reassurance
-Receiving a seizure notice does not automatically mean you are under criminal investigation. Holds occur for many administrative reasons, including identity verification, mail screening, or documentation errors. Following the procedural steps ensures your rights are protected even if the government made a mistake.
+Temporary “verification” holds happen for routine reasons (identity checks, inventory matching, evidence handling, shipping flags, contraband screening). Calm, documented steps now mainly protect you from scams and from missed procedural deadlines.
 
 ## Scope note
-This guide covers first-step stabilization for domestic (USA) property holds and administrative forfeitures. It does not cover criminal defense strategy or international international law.
+This is first steps only: verify authenticity, preserve your position, and avoid irreversible mistakes. If forfeiture or criminal allegations are involved, you may need jurisdiction-specific legal advice.
 
 ## Important note
-This information is for general guidance and is not legal advice. Asset forfeiture laws are complex and involve strict statutory deadlines. Consult with a qualified attorney to protect your specific legal interests.
+This is general information, not legal advice. Procedures vary widely across local, state, and federal agencies. When in doubt, slow down, insist on written confirmation, and use only official agency contact routes.
 
 ## Additional Resources
-- https://www.help.cbp.gov/s/article/Article-1112?language=en_US
-- https://www.help.cbp.gov/s/article/Article-1171
-- https://www.cbp.gov/trade/basic-import-export/internet-purchases
-- https://faq.usps.com/s/article/Where-is-my-package
-- https://www.usps.com/help/missing-mail.htm
+- https://www.forfeiture.gov/FilingClaim.htm
+- https://www.forfeiture.gov/FilingPetition.htm
+- https://www.law.cornell.edu/uscode/text/18/983
+- https://www.bop.gov/policy/progstat/5580_008.pdf
+- https://www.ecfr.gov/current/title-28/chapter-V/subchapter-C/part-553/subpart-B

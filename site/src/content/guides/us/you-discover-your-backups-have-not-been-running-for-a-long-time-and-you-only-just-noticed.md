@@ -1,110 +1,101 @@
----
+﻿---
 title: "What to do if… you discover your backups have not been running for a long time and you only just noticed"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "backups stopped"
-  - "backup failure"
-  - "backups not running"
-  - "missed backups"
-  - "no recent backup"
-  - "backup schedule broken"
-  - "backup job failing"
-  - "backup warnings missed"
-  - "restore point too old"
-  - "business data at risk"
-  - "personal photos not backed up"
-  - "cloud backup not syncing"
-  - "backup drive unplugged"
-  - "backup storage full"
-  - "backup credentials expired"
-  - "backup agent disabled"
-  - "accidental deletion risk"
-  - "ransomware recovery worry"
-  - "backup integrity check"
-  - "test restore"
-  - "what do i do if backups stopped"
-  - "what do i do if backup failed"
-  - "what do i do if my cloud backup is old"
-  - "what do i do if my backup drive is empty"
-  - "help i have no current backup"
-  - "help i noticed my backup is stale"
-  - "help i just realized my backups are broken"
-  - "my backup shows error"
-  - "my backup logs are empty"
-  - "my server has no backups"
-  - "failed backup job"
-  - "stale backup files"
-  - "outdated restore point"
-  - "broken sync"
-  - "backup agent error"
-  - "manual backup copy"
-  - "external drive backup fail"
-  - "missing cloud sync"
-last_reviewed: "2026-03-17"
+  - backups stopped
+  - backup failure
+  - backups not running
+  - missed backups
+  - no recent backup
+  - backup schedule broken
+  - backup job failing
+  - backup warnings missed
+  - restore point too old
+  - business data at risk
+  - personal photos not backed up
+  - cloud backup not syncing
+  - backup drive unplugged
+  - backup storage full
+  - backup credentials expired
+  - backup agent disabled
+  - accidental deletion risk
+  - ransomware recovery worry
+  - backup integrity check
+  - test restore
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… you discover your backups have not been running for a long time and you only just noticed (USA)
 
 ## Short answer
-Isolate the current system state by taking a manual safety copy of critical data to a separate physical or cloud location before attempting any repairs or running new backup jobs.
+Stop making big changes, take a fresh safety copy of the most important data, then repair the backup and prove recovery with a small test restore.
 
 ## Do not do these things
-- Don’t delete, "clean up," or overwrite any existing old backup archives to make room for new ones.
-- Don’t restart or reinstall the backup software until you have manually exported or screenshotted the current error logs.
-- Don’t run a "full sync" or "repair" operation immediately, as these can sometimes overwrite the only remaining good data if the source is corrupted.
-- Don’t assume the current files on your drive are safe; treat the system as if it has no protection until the first new copy is verified.
-- Don’t ignore the possibility of a security incident if the backup services were disabled without your intervention.
+- Don’t wipe and reinstall your backup tool first — you can erase the history that tells you when/why it failed.
+- Don’t run “cleanup,” mass deletions, or drive reformatting to “start over” until you’ve captured a current copy.
+- Don’t overwrite existing backup archives/snapshots until you’ve checked whether they contain your last usable restore point.
+- Don’t assume a backup job that “runs” is recoverable — don’t relax until you restore a file **to a separate location** and open it.
+- Don’t rule out compromise if the failure is unexplained (disabled services, changed credentials, unusual admin activity).
 
 ## What to do now
-1. **Immediately perform a manual "drag-and-drop" copy of your most critical files to an independent device.**  
-   - Use a clean external USB drive, a different cloud provider, or a separate network share.
-   - Focus only on irreplaceable data (documents, unique photos, active project databases) to ensure the copy finishes quickly.
+1. **Pause risky activity and announce it if needed.**  
+   If this affects a team or business system: “Backups look stale — pausing changes until we take a fresh safety copy and confirm restore.”
 
-2. **Capture and save all current backup error messages and logs before making changes.**  
-   - Take screenshots of the backup dashboard showing the last successful date and the specific error code.
-   - Export log files to a text document if the software allows it; this evidence is vital for determining if data was lost during the "dark" period.
+2. **Create an immediate, independent safety copy of what you have today.**  
+   - Copy the most irreplaceable folders (current work, photos, key project directories) to a second place: an external drive *or* a cloud storage account.  
+   - Aim for “good enough right now,” not perfect.
 
-3. **Check the physical and logical connection of the backup destination.**  
-   - Verify if the external drive is plugged in, the NAS is reachable on the network, or the cloud account is logged in.
-   - Check for "Disk Full" or "Quota Exceeded" notifications on the destination storage.
+3. **Quickly check for signs of data loss or an active incident.**  
+   Look for missing files, suddenly unreadable documents, or suspicious file renaming/encryption. If anything looks off, minimize changes and treat it as a potential incident.
 
-4. **Verify the integrity of the oldest available backup before attempting a new run.**  
-   - Attempt to "Mount" or "Explore" the last successful backup created before the failure started.
-   - Try to restore a single small file from that old backup to a temporary folder to ensure the existing archive isn't also corrupt.
+4. **Identify the last successful backup and the failure point.**  
+   In your backup console/logs, record:
+   - last successful run
+   - first failed run and error
+   - destination and retention settings
+   - whether the destination is reachable and has space
+   - whether credentials/keys/tokens expired  
+   Save screenshots/notes before you change settings.
 
-5. **Isolate the system from the network if you suspect the backup failure was caused by unauthorized access.**  
-   - If the backup service was manually stopped or credentials were changed by an unknown party, disconnect the internet to prevent potential exfiltration or encryption.
-   - Follow the CISA "StopRansomware" checklist for identifying indicators of compromise.
+5. **Protect existing backup data before you “fix” the job.**  
+   If you have an external/NAS/cloud destination:
+   - avoid deleting old versions
+   - if possible, make the destination read-only or disconnect it briefly while you verify what’s present (to prevent accidental overwrite)
 
-6. **Resolve the primary failure trigger using the least destructive method possible.**  
-   - Re-authenticate expired cloud tokens or update passwords if prompted.
-   - Clear space on the destination by moving (not deleting) old archives to secondary storage if the drive is full.
+6. **Fix the simplest non-destructive cause first.**  
+   Common low-risk fixes:
+   - reconnect the drive / re-authenticate the destination
+   - resolve “storage full” by expanding capacity (not deleting backups)
+   - re-enable schedules/services/agents
+   - correct a changed path/share name  
+   Avoid “reset everything” options until you’ve preserved what exists.
 
-7. **Initiate a new, targeted backup job once the connection is restored.**  
-   - Run a backup for a small, non-critical folder first to verify the software can successfully write to the destination.
-   - Once the small test succeeds, start the full backup of all critical data.
+7. **Run a small backup, then do a real restore test.**  
+   - Back up a small folder.  
+   - Restore 1–2 files to a **different location** and open them.  
+   This confirms recovery, not just copying.
 
-8. **Perform a final verification restore to a different location.**  
-   - Restore a random selection of files from the *new* backup.
-   - Open these files to confirm they are not zero-byte files or unreadable.
+8. **If there’s any chance this is tied to ransomware or destructive activity, follow US guidance and escalate.**  
+   Use your organisation’s incident response process. Prioritize (a) **offline and/or otherwise protected backups** and (b) **regularly testing the availability and integrity of backups** with real restore tests, as recommended in US ransomware guidance, rather than trying ad-hoc fixes in the moment.
 
 ## What can wait
-- You do not need to purchase a new backup subscription or different software today.
-- You do not need to reformat your computer or perform a system restore unless there is evidence of a virus.
-- You can delay setting up "3-2-1" redundancy (three copies, two media types, one off-site) until the current data is stabilized.
+- You do **not** need to redesign your whole backup strategy today.
+- You do **not** need to migrate to a new provider/tool immediately.
+- You can postpone advanced improvements (immutable backups, 3-2-1 refinements, monitoring/alerting) until you’ve confirmed you can restore.
+- You don’t need to do a full system rebuild right now unless there are clear signs of compromise or corruption.
 
 ## Important reassurance
-Backup failures are often silent and affect many users. Discovering the failure now, before a total data loss event occurs, provides an opportunity to secure a fresh copy. Following a methodical "copy-then-repair" sequence minimizes the risk of accidental deletion.
+This happens to a lot of people and organizations because backup failures can be silent. You’re not “behind forever” — the key is to stop risky changes, capture a safe copy now, and validate recovery with a test restore.
 
 ## Scope note
-This guide provides first-step stabilization for a noticed backup failure. It does not cover forensic data recovery for already deleted files or enterprise-level disaster recovery orchestration.
+These are first steps to stabilize and prevent irreversible mistakes. If you suspect compromise, have regulated data, or the system is business-critical, the next phase usually requires experienced IT/security help.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT or cybersecurity advice. If your data is subject to legal or regulatory requirements (such as HIPAA or CJIS), or if you suspect a criminal cyberattack, contact a qualified incident response professional or your organization's IT department immediately.
+This is general information, not professional, legal, or security advice. If you suspect malware/unauthorized access, follow your incident response process and get qualified assistance.
 
 ## Additional Resources
-- https://www.ftc.gov/business-guidance/small-businesses/cybersecurity
-- https://www.ftc.gov/business-guidance/blog/2020/12/ransomware-prevention-update-businesses
-- https://www.ftc.gov/business-guidance/blog/2018/11/cybersecurity-small-business-ransomware
-- https://nvlpubs.nist.gov/nistpubs/ir/2016/nist.ir.7621r1.pdf
-- https://csrc.nist.gov/CSRC/media/Projects/ransomware-protection-and-response/documents/NIST_Tips_for_Preparing_for_Ransomware_Attacks.pdf
+- https://www.cisa.gov/stopransomware/ransomware-guide
+- https://www.cisa.gov/sites/default/files/2025-03/StopRansomware-Guide%20508.pdf
+- https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-184.pdf
+- https://www.nist.gov/document/election-security-series-data-integrity-and-recovery-infographic

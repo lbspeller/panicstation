@@ -1,98 +1,85 @@
----
+﻿---
 title: "What to do if… you receive a debt collection letter for a debt you do not recognise"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "debt collection letter not mine"
-  - "debt i do not recognise"
-  - "chased for wrong debt"
-  - "collection agency wrong person"
-  - "prove it debt letter"
-  - "debt buyer letter surprise"
-  - "unknown account number on letter"
-  - "debt collector scam letter"
-  - "mistaken identity debt demand"
-  - "old debt i never had"
-  - "identity theft debt letter"
-  - "credit report debt i dont know"
-  - "letter from debt recovery firm"
-  - "debt collection notice error"
-  - "someone used my details for credit"
-  - "debt collector asking for payment"
-  - "debt not in my name letter"
-  - "unexpected demand for repayment"
-  - "what do i do if i get a debt letter for someone else"
-  - "what do i do if i get a debt letter for a debt i dont know"
-  - "what do i do if a debt collector contacts me for a debt i dont owe"
-  - "what do i do if my credit report has a debt i dont recognise"
-  - "help i got a debt letter but it is not mine"
-  - "help i am being chased for a debt i dont recognise"
-  - "help i have a debt collection letter for an unknown account"
-  - "help i think someone stole my identity for credit"
-  - "my credit file has a debt i dont know"
-  - "my name is on a debt letter for a debt i never took out"
-  - "wrong person debt letter"
-  - "unknown creditor letter"
-  - "phantom debt demand"
-  - "statute barred debt letter"
-  - "blue envelope debt letter"
-  - "county court judgment i didnt know about"
-last_reviewed: "2026-03-17"
+  - debt collection letter not mine
+  - debt i do not recognise
+  - chased for wrong debt
+  - collection agency wrong person
+  - prove it debt letter
+  - debt buyer letter surprise
+  - unknown account number on letter
+  - debt collector scam letter
+  - mistaken identity debt demand
+  - old debt i never had
+  - identity theft debt letter
+  - credit report debt i dont know
+  - letter from debt recovery firm
+  - debt collection notice error
+  - someone used my details for credit
+  - debt collector asking for payment
+  - debt not in my name letter
+  - unexpected demand for repayment
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… you receive a debt collection letter for a debt you do not recognise (UK)
 
 ## Short answer
-Do not make any payment or admit liability; instead, send a written "prove it" request to the sender and check your credit files for identity fraud. Under UK regulations, the burden of proof is on the collector to demonstrate that the debt is yours and is legally enforceable.
+Don’t pay, and don’t say (or sign) anything that could be treated as admitting the debt. Respond in writing to dispute it and ask for evidence, and keep everything in writing from here.
 
 ## Do not do these things
-- Don’t make a "goodwill" payment or agree to a small repayment plan, as this can restart the limitation period or be used as an admission of the debt.
-- Don’t phone the number on the letter immediately; use independent contact details to verify the firm first.
-- Don’t ignore formal court documents (N1 claim forms) or statutory demands, even if the debt is not yours.
-- Don’t provide sensitive documents like your passport or driving licence to the collector until you have verified they are a legitimate, FCA-regulated firm.
+- Don’t phone the number on the letter or click links/QR codes until you’ve verified the company independently.
+- Don’t pay “just to stop it”, agree to a repayment plan, or sign anything while you’re unsure what the debt is.
+- Don’t share extra personal data (full date of birth, bank details, copies of ID) unless you’re confident you’re dealing with the right firm and you understand why it’s needed.
+- Don’t ignore follow-up letters that escalate (especially anything that looks like a formal court claim, or an enforcement/bailiff notice).
 
 ## What to do now
-1. **Verify the firm via the Financial Services Register.**  
-   - Most debt collectors must be authorised by the Financial Conduct Authority (FCA).  
-   - Search the register using the firm's reference number or name to find their official website and phone number.
-2. **Send a formal "prove it" letter or email.**  
-   **Clearly state that you do not recognise the debt and request a copy of the original credit agreement and a full statement of account.**  
-   - Request that they suspend all collection activity while the dispute is investigated (as required by FCA CONC 7.14).  
-   - Explicitly state that all future contact must be in writing only.
-3. **Check all four UK credit reference agencies.**  
-   **Access your statutory credit reports from Experian, Equifax, TransUnion, and Crediva to look for unfamiliar accounts or "searches."**  
-   - Note any addresses linked to your name that you have never lived at.  
-   - Look for "Default" notices or "CCJs" (County Court Judgments) related to the letter you received.
-4. **Report suspected identity theft to the correct authorities.**  
-   **If you believe the debt resulted from fraud, obtain a crime reference number to provide to the debt collector.**  
-   - In England, Wales, or Northern Ireland: Report via the **Report Fraud** service (online or at 0300 123 2040).  
-   - In Scotland: Report to **Police Scotland** by calling 101.
-5. **Consider Cifas Protective Registration.**  
-   **Apply for a "Protective Registration" marker (costing £30 for 2 years) which forces lenders to carry out extra identity checks when your details are used for credit.**  
-   - This prevents fraudsters from opening further accounts in your name while you resolve the current issue.
-6. **Dispute the accuracy of credit file entries.**  
-   **If the unrecognised debt appears on your credit report, raise a "Notice of Correction" or a formal dispute with the relevant credit reference agency.**  
-   - The agency has 28 days to investigate and must mark the entry as "disputed" during this time.
-7. **Verify the "Statute Barred" status of the debt.**  
-   **Check if the debt is more than 6 years old (5 years in Scotland) without any payment or written admission from you.**  
-   - If the debt is "statute barred" under the Limitation Act 1980, it is legally unenforceable in court, and you can tell the collector to stop contacting you entirely.
+1. **Create a paper trail.** Photograph/scan every page (and the envelope). Start a simple log: date received, who wrote, what they want, and any deadlines they claim.
+2. **Verify the sender independently (before you engage).**  
+   - If they say they’re authorised for consumer credit, check the **Financial Services Register** for the firm name and contact details.  
+   - Cross-check the firm’s address/phone via an independent search or Companies House.  
+   - If the letter says who the *original creditor* is (bank, lender, utility), use the creditor’s official contact details (from their real website/your old statements) to ask if they’ve instructed a collector and what the reference should be.
+3. **Send a written dispute + “prove it” request.**  
+   Write (letter or email) saying:
+   - “I do not recognise this debt and I dispute liability.”  
+   - “Please provide written evidence I owe it (original creditor name, what it’s for, key dates, and a statement/breakdown; if you rely on an agreement, provide the details you’re relying on).”  
+   - “Please mark this account as **in dispute** and keep all contact **in writing only** while you investigate.”  
+   Keep a copy and send it in a way you can prove you sent it.
+4. **Check your UK credit files for anything you don’t recognise.**  
+   Check all three: **Experian, Equifax, and TransUnion**. Look for unfamiliar accounts, defaults, collection entries, or addresses. Save screenshots/PDFs.
+5. **If your credit file is wrong, dispute it with the right places.**  
+   Raise a dispute with the **credit reference agency** showing the entry, and also contact the **lender/collector** supplying it to say it’s inaccurate and disputed. Keep everything in writing.
+6. **If identity theft is possible, contain it (without overreacting).**  
+   - If you’re in **England/Wales/Northern Ireland**, consider making a report via **Report Fraud (Action Fraud)** so you have a reference.  
+   - If you’re in **Scotland**, use **Police Scotland** reporting routes (for example via 101/non-emergency) for fraud.  
+   - Consider **Cifas Protective Registration** if you believe someone may be applying for credit in your name.  
+   - Change passwords on your email/banking (email first), and tell your bank immediately if any accounts/transactions look wrong.
+7. **Use the complaints route if they keep chasing without evidence.**  
+   Complain to the firm in writing and ask for their final position. If the business is **FCA-regulated** and you’re not resolved, the **Financial Ombudsman Service** may be able to look at your complaint after you’ve complained to the firm first.
+8. **Treat anything “official-looking” as urgent, but verify it.**  
+   If you receive a court claim form or an enforcement/bailiff notice, get free independent debt advice immediately and respond within the stated deadlines. If you’re not the debtor, respond clearly and provide basic proof (for example, that you don’t match the named person/address).
 
 ## What can wait
-- You do not need to hire a solicitor or legal representative immediately; the initial dispute process is designed for consumers to handle themselves.
-- You do not need to "clear" your credit score today; focus first on removing the inaccurate entries, which will naturally correct the score later.
-- You do not need to find every bank statement from the last decade before sending your first "prove it" request.
+- You don’t need to negotiate, “settle”, or work out a payment plan while the debt is unproven.
+- You don’t need to decide today whether to take wider legal action—first, get the debt evidenced and your records corrected.
+- You don’t need to dig out years of paperwork before you dispute it; start by making them substantiate the claim.
 
 ## Important reassurance
-Receiving a demand for an unknown debt is a common occurrence caused by "trace and access" errors, where collectors link the wrong person to a debt based on a shared name or old address. Once you formally dispute the debt in writing, FCA rules require the firm to stop chasing you until they provide evidence of your liability.
+It’s common for people to be contacted in error (wrong person, mixed records, old addresses), and scams also exist. A calm written dispute, plus a few verification checks, usually stops the panic spiral and puts the burden back on them to prove it’s yours.
 
 ## Scope note
-This guide provides first-step stabilization for unrecognised debt demands. It covers initial disputes and identity fraud reporting. It does not cover legal defense for debts you acknowledge but cannot pay, or complex court litigation.
+This is first steps only: stabilise, prevent accidental admission/payment, and trigger the right checks and complaint routes. If the firm produces evidence or formal court papers arrive, get tailored debt advice.
 
 ## Important note
-This information applies to consumer credit debts (loans, cards, catalogues). Different rules may apply to "priority" debts like Council Tax, HMRC taxes, or court fines. If you receive a County Court Claim Form (N1), you must respond within 14 days; seek free advice from National Debtline or Citizens Advice immediately in such cases.
+This is general information, not legal advice. The right process can vary by debt type (consumer credit vs council tax/fines/HMRC) and by whether the collector is regulated. If you feel pressured or unsure, get free independent debt advice before doing anything that could be hard to undo.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/debt-and-money/help-with-debt/dealing-with-your-debts/check-if-you-have-to-pay-a-debt/
-- https://nationaldebtline.org/get-information/sample-letters/complaining-to-debt-collection-agencies-you-do-not-owe-debt/
+- https://handbook.fca.org.uk/handbook/conc7/conc7s14
 - https://nationaldebtline.org/get-information/sample-letters/disputing-liability-debt/
-- https://www.stepchange.org/debt-info/your-rights/disputing-debts-with-creditors.aspx
-- https://www.citizensadvice.org.uk/debt-and-money/action-your-creditor-can-take/if-youre-being-taken-to-court-for-debt/
+- https://www.reportfraud.police.uk/identity-fraud-and-identity-theft/
+- https://ico.org.uk/for-the-public/identity-theft/
+- https://ico.org.uk/for-the-public/credit/
+- https://www.financial-ombudsman.org.uk/businesses/complaints-deal/consumer-credit/debt-collection
+- https://www.citizensadvice.org.uk/debt-and-money/help-with-debt/dealing-with-your-debts/check-if-you-have-to-pay-a-debt/

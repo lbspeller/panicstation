@@ -1,87 +1,76 @@
----
+﻿---
 title: "What to do if… your laptop battery starts swelling and the casing or trackpad begins to lift"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "unknown linked device"
-  - "companion device you do not recognise"
-  - "new device connected to messaging app"
-  - "messaging account linked to new device"
-  - "unknown companion device linked"
-  - "what do i do if my account is linked to a new device"
-  - "what do i do if my messaging app shows a new device"
-  - "help i see a new companion device"
-  - "help i have a linked device i do not recognise"
-  - "my messaging app has a suspicious link"
-  - "my account shows a device i do not know"
-  - "suspicious linked session"
-  - "linked devices notification"
-  - "whatsapp linked devices unknown"
-  - "signal linked device unknown"
-  - "google messages web pairing"
-  - "account session not approved"
-  - "possible account takeover"
-  - "phone may be compromised"
-  - "someone reading my messages"
-  - "qr code pairing scam"
-  - "messaging account hacked"
-  - "device added to account alert"
-  - "login activity i do not recognise"
-  - "secure my messaging account now"
-  - "sign out other devices"
-  - "remove unknown session"
-  - "unauthorised companion device"
-  - "linked device security"
-  - "messaging app privacy alert"
-last_reviewed: "2026-03-17"
+  - swollen laptop battery
+  - laptop battery swelling
+  - trackpad lifting
+  - casing lifting laptop
+  - bulging battery laptop
+  - expanding battery
+  - lithium ion battery swelling
+  - laptop feels bloated
+  - laptop lid not closing
+  - battery pushing trackpad
+  - spicy pillow laptop
+  - laptop battery odor
+  - laptop overheating suddenly
+  - laptop won’t sit flat
+  - puffy battery
+  - laptop chassis bending
+  - battery deformation
+  - battery fire risk laptop
+  - device swelling warning
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your laptop battery starts swelling and the casing or trackpad begins to lift (USA)
 
 ## Short answer
-Immediately open the messaging app's settings and unlink or log out the unrecognized device to terminate the active session. Once the session is closed, update your account security and enable two-factor authentication from a trusted device.
+Stop using it now: shut it down, unplug it, and move it to a cool, non-flammable surface away from people and pets. Treat it like a fire risk until it’s safely serviced or disposed of.
 
 ## Do not do these things
-- Do not send messages to the unknown device or attempt to communicate with the potential intruder.
-- Do not approve any new "link a device" or "pair device" prompts that appear on your screen.
-- Do not share any six-digit verification codes or QR codes with anyone, even if they claim to be from support.
-- Do not log out of your primary phone app; only remove the specific linked "companion" sessions.
-- Do not use a public or unsecured Wi-Fi network while resetting your security credentials.
+- Don’t keep using it or keep it plugged in “to see if it settles”.
+- Don’t press the trackpad/case back down, clamp it, or force the lid shut.
+- Don’t puncture, bend, crush, or try to open the battery pack.
+- Don’t put it in household trash or curbside recycling.
+- Don’t store it on soft surfaces (bed/sofa) or near flammables (papers/curtains).
+- Don’t attempt battery removal if it requires prying/force or you’re not trained.
 
 ## What to do now
-1. **Terminate the unknown session immediately within the app settings.**
-   - For WhatsApp: Open Settings > Linked Devices > tap the unknown device > Log Out.
-   - For Signal: Tap your profile icon > Settings > Linked Devices > swipe left or tap "Unlink" on the unknown device.
-   - For Google Messages: Tap your profile icon > Device pairing > tap the 'X' or "Unpair all devices."
-2. **Switch your connection to a secure cellular data network.** Avoid performing security resets on the same network where the suspicious linking occurred until you have secured the account.
-3. **Update the password for the account that governs the messaging app.**
-   - If the app is tied to a Google or Apple ID, change that password immediately from a trusted device.
-   - Use a unique password that has never been used on other platforms.
-4. **Enable or reset Two-Factor Authentication (2FA) or a Registration PIN.**
-   - Set a custom PIN within the messaging app (e.g., WhatsApp "Two-step verification") so that your phone number cannot be re-registered or linked without it.
-5. **Check your mobile service for signs of a SIM swap attack.**
-   - If your phone suddenly shows "No Service" or "SOS only" and you cannot make calls, contact your mobile carrier (e.g., Verizon, AT&T, T-Mobile) immediately from a different phone to report unauthorized number porting.
-6. **Notify your immediate contacts through a different medium.** Send a brief text or call key people to let them know your messaging account may have been compromised and to ignore any unusual links or requests sent in your name.
-7. **Report identity misuse or cyber-enabled fraud through official channels.**
-   - Use **IdentityTheft.gov** (FTC) if you believe your personal data is being used to impersonate you.
-   - Use **ic3.gov** (FBI) to report the incident as a cybercrime if you have suffered financial loss or threats.
+1. **Shut down.** Use normal shutdown if possible. If it’s frozen, hold the power button until it turns off.
+2. **Unplug and isolate.** Disconnect the charger and any accessories. Do not reconnect power.
+3. **Move it to a safer location.** Place it on a **hard, non-flammable surface** (tile/stone/metal) in a **cool, ventilated area**, away from anything that can burn. Keep kids/pets away.
+4. **Monitor for escalation.** Watch for **hissing, popping, smoke, chemical smell, or rapid heating**. If any appear, do not handle the device further.
+5. **If it smokes, catches fire, or heats rapidly: call 911.** Tell the dispatcher it’s a **swollen lithium-ion laptop battery**. If safe, keep people away and close the door to the room.
+6. **Protect your data without energising the battery (preferred).**
+   - **Do not power it back on** as your default.
+   - If the data is important, a reputable repair shop/manufacturer service can often **remove the storage drive** (or do data recovery) without you trying to run the laptop.
+   - Only if it’s **completely cool, stable, and not worsening**, and you **accept the risk**, you could do a **seconds-only** power-up to grab one critical file—then shut down immediately at the first sign of warmth or further lifting.
+7. **Set up service and safe disposal.**
+   - **Contact the manufacturer/retailer** and report **battery swelling / trackpad or casing lifting**. Follow their handling instructions for drop-off or shipping.
+   - **Dispose via the proper route:** take the laptop to a **household hazardous waste (HHW)** program or a **battery/e-waste recycling** drop-off your local government or recycler recommends.
+   - If the battery is already **separate/removable without force**, reduce fire risk during transport by **taping terminals and/or bagging the battery individually**. If it’s an internal battery, **don’t open the device**—transport the whole laptop powered off.
+   - If available in your area and accepted for your item, you can also look for **Call2Recycle** or other approved takeback locations (policies vary, especially for damaged batteries—check first).
 
 ## What can wait
-- You do not need to identify the physical location of the intruder before unlinking them.
-- You do not need to delete your entire message history unless you believe it contains sensitive credentials.
-- You do not need to factory-reset your primary smartphone unless the unrecognised links reappear immediately after being removed.
+- You do **not** need to diagnose the cause, run battery health apps, or do updates.
+- You do **not** need to decide today whether to repair vs replace.
+- You do **not** need to wipe the laptop immediately; safety comes first.
 
 ## Important reassurance
-It is normal to feel a sense of intrusion when an unknown device links to your private messages. In most cases, manually unlinking the device and setting a secondary PIN or 2FA is enough to stop the access. Taking these steps quickly prevents the intruder from maintaining a long-term connection to your data.
+This is scary, but the safest response is simple: power off, unplug, isolate, and use an approved service/disposal path. Taking it seriously early usually prevents a bigger incident.
 
 ## Scope note
-This guide covers first-step stabilization to remove unauthorized access to a messaging session. It does not provide a full forensic analysis of how the compromise occurred or long-term legal strategies for identity recovery.
+These are first steps only. Next steps are manufacturer/retailer service or a qualified repair shop, plus an approved HHW/battery recycling route for disposal.
 
 ## Important note
-This information is provided for emergency stabilization and does not constitute legal or professional cybersecurity advice. If you are experiencing persistent stalking, harassment, or domestic interference, contact a specialized support service or law enforcement. Procedures for unlinking devices may change as app developers update their interfaces.
+This is general information, not professional advice. If there is smoke, fire, or rapid heating, prioritize getting people to safety and contacting emergency services.
 
 ## Additional Resources
-- https://www.epa.gov/recycle/frequent-questions-lithium-ion-batteries
+- https://www.nfpa.org/education-and-research/home-fire-safety/lithium-ion-batteries
 - https://www.epa.gov/recycle/used-lithium-ion-batteries
-- https://www.transportation.gov/sites/dot.gov/files/2024-07/PHH50-0213-0724_CTB_Lithium_Battery_Fact_Sheet_508_Compliant.pdf
-- https://www.cpsc.gov/Recalls/2017/Toshiba-Expands-Recall-of-Laptop-Computer-Battery-Packs
-- https://www.cpsc.gov/Recalls/2017/HP-Expands-Recall-of-Batteries-for-HP-and-Compaq-Notebook-Computers
+- https://www.epa.gov/recycle/used-household-batteries
+- https://www.dhses.ny.gov/how-do-i-dispose-lithium-ion-batteries
+- https://batterynetwork.org/safety/avoid-the-spark/

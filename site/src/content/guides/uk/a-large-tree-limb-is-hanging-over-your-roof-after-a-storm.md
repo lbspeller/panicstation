@@ -1,90 +1,78 @@
----
+﻿---
 title: "What to do if… a large tree limb is hanging over your roof after a storm"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "tree limb over roof"
-  - "hanging branch after storm"
-  - "storm damaged tree near house"
-  - "cracked limb above house"
-  - "branch about to fall on roof"
-  - "tree branch on roof edge"
-  - "storm debris over property"
-  - "roof damage risk from tree"
-  - "dangerous leaning tree limb"
-  - "after storm home damage"
-  - "suspected roof impact"
-  - "wet roof and falling branch"
-  - "tree damage near power lines"
-  - "emergency tree surgeon"
-  - "insurer storm claim"
-  - "neighbour tree over my roof"
-  - "council tree storm damage"
-  - "branches hanging loose"
-  - "what do i do if a tree limb is on my roof"
-  - "what do i do if a branch falls on my house"
-  - "what do i do if a storm damaged my tree"
-  - "what do i do if a tree is leaning on my roof"
-  - "help i have a tree limb hanging over my roof"
-  - "help i have storm damage to my tree"
-  - "help my tree is about to fall on my house"
-  - "my roof is hit by a tree branch"
-  - "fallen tree limb emergency uk"
-  - "unstable branch above roofline"
-  - "cracked bough over property"
-  - "storm debris safety uk"
-last_reviewed: "2026-03-17"
+  - tree limb over roof
+  - hanging branch after storm
+  - storm damaged tree near house
+  - cracked limb above house
+  - branch about to fall on roof
+  - tree branch on roof edge
+  - storm debris over property
+  - roof damage risk from tree
+  - dangerous leaning tree limb
+  - after storm home damage
+  - suspected roof impact
+  - wet roof and falling branch
+  - tree damage near power lines
+  - emergency tree surgeon
+  - insurer storm claim
+  - neighbour tree over my roof
+  - council tree storm damage
+  - branches hanging loose
+last_reviewed: "2026-03-04"
 ---
+
 # What to do if… a large tree limb is hanging over your roof after a storm (UK)
 
 ## Short answer
-Treat the limb as unstable and evacuate the fall zone immediately. Do not go onto the roof or attempt to move the debris; contact your insurer and a professional arborist to coordinate a safe removal.
+Treat it as unstable and dangerous: keep everyone away from the fall zone and do not go onto the roof. If there’s any chance it’s near electricity lines, keep well back and report it immediately.
 
 ## Do not do these things
-- Do not go onto the roof to inspect the damage or attempt to pull the limb down.
-- Do not attempt to cut, shake, or prune the limb yourself, as storm-damaged wood can be under extreme tension and move unpredictably.
-- Do not stand or walk underneath the hanging limb or allow others to enter the potential fall zone.
-- Do not touch any wires, cables, or metallic objects that the limb is touching, as they may be live.
-- Do not approach low-hanging or grounded overhead electricity lines; maintain a distance of at least 10 metres.
-- Do not park vehicles or store equipment directly under the affected area.
+- Don’t go onto the roof to “have a look” or try to pull it down.
+- Don’t cut or shake the limb yourself (storm-damaged wood can be under tension and move suddenly).
+- Don’t stand underneath it, or let children/pets near it “just for a second”.
+- Don’t touch any wire/cable or anything the limb is touching (assume it could be live).
+- Don’t go near damaged, low, or grounded overhead electricity lines — keep well back (around 10 metres).
+- Don’t move your car directly under it to “unload” items or take photos.
 
 ## What to do now
-1. **Establish a clear exclusion zone around the hazard.** Keep all residents, pets, and visitors away from the area where the limb could fall, accounting for potential bouncing or sliding upon impact.
-2. **Identify electricity hazards from a safe distance of at least 10 metres.** Look for any contact between the tree and power lines or any snapped cables on the ground.
-   - **Call 105** immediately from anywhere in the UK to reach your local electricity network operator if lines are affected.
-   - **Call 999** if there is an immediate threat to life, such as fire, sparking, or lines blocking essential access.
-3. **Monitor the interior of the property for structural changes.** Stay away from rooms directly beneath the hanging limb and check for:
-   - New or widening cracks in ceilings or walls.
-   - Bulging plaster or falling debris.
-   - Doors or windows that have suddenly become stuck or difficult to close.
-4. **Document the situation safely for insurance purposes.** Take photographs or video **from a distance or from behind a window** only. Ensure the images show the limb’s position relative to the roof and any visible attachment points.
-5. **Contact your home insurance emergency helpline.** Notify them that a suspended limb is posing an immediate risk to the property.
-   - Confirm if they will appoint an approved tree surgeon or if you must find your own.
-   - Ask for authorization for "make safe" emergency work to prevent further damage.
-   - Verify if professional temporary measures, such as industrial tarping, are covered.
-6. **Hire a qualified and insured arboricultural contractor.** Ensure they are "Arboricultural Association Approved" or equivalent to handle high-risk emergency storm work. Tell them the limb is **suspended over a roof** so they can prepare specialist rigging or lifting equipment.
-7. **Address ownership and liability without delaying safety steps.**
-   - If the tree is on **public land** or blocking a public highway, report it to the **local council's Highways or Trees department** as an emergency.
-   - If the tree belongs to a **neighbour**, inform them of the danger as soon as possible, but proceed with emergency "make safe" actions on your property if the risk is imminent.
+1. **Create a no-go zone.** Keep everyone indoors and away from the area that the limb could reach if it drops (think: straight down plus a sideways swing/bounce). Close off the garden/drive if needed.
+2. **Check for electricity hazards from a safe distance.** If the limb is near overhead lines, touching lines, or you can’t be sure, **stay well back (around 10 metres)**.  
+   - In **England, Wales and Scotland**, **call 105** (free) to reach your local electricity network operator and report a dangerous situation.  
+   - In **Northern Ireland**, use your electricity emergency reporting route/number (often **03457 643643**).  
+   - If there’s an **immediate serious risk to the public** (for example, arcing/sparking, fire, lines down across access routes), **call 999**.
+3. **Look for immediate signs you should leave the room/area below.** From inside, check ceilings and walls near the impact area for: new bulging, spreading cracks, falling debris, sudden leaks, or doors/windows suddenly sticking. If you see these, **move everyone to a different part of the home** and avoid that room.
+4. **Document safely.** Take a few photos/video **from indoors or from a safe distance** (include the roofline and where the limb is attached). Note the date/time and what happened (e.g., “after high winds overnight”).
+5. **Contact your home insurer (or emergency helpline) early.** Tell them there’s a suspended limb over the roof and whether there’s visible damage or leaks. Ask:
+   - whether they will **send an approved contractor** (tree surgeon/roofer),
+   - what “make safe” work you can authorise immediately,
+   - whether temporary measures (e.g., tarping) are covered.
+6. **Arrange professional “make safe” removal.** If it’s clearly not near electricity equipment, contact a **qualified, insured tree surgeon/arborist** for storm damage work (not general gardening). Tell them it’s **hanging over a roof** so they bring the right kit.
+7. **If the tree is not yours (neighbour/council/public land), still prioritise safety.**
+   - If it’s a **utility hazard**, report via the electricity emergency route above (and 999 if immediate danger).
+   - If it appears to be from **public land** or blocking public access, report to your **local council/highways** as a dangerous tree/branch.
+   - If it’s a **neighbour’s tree**, notify them (briefly, in writing if possible) — but don’t delay immediate “make safe” action needed to protect people/property.
 
 ## What can wait
-- You do not need to determine legal liability or "fault" before taking action to make the property safe.
-- You do not need to obtain multiple competitive quotes if your insurer has authorized emergency "make safe" work.
-- You do not need to begin permanent roof repairs until the limb is fully removed and a structural assessment is completed.
-- You do not need to clear minor garden debris until the primary overhead hazard is resolved.
+- You do not need to decide who is “at fault” today.
+- You do not need to get multiple quotes before making the situation safe (ask your insurer about emergency authorisation first).
+- You do not need to start non-urgent repairs until the limb is removed and the roof is assessed.
 
 ## Important reassurance
-It is normal to feel pressured to act quickly to save your property, but hanging limbs are deceptively heavy and unstable. By keeping people at a distance and waiting for professional equipment, you are preventing the most common cause of storm-related injuries. 
+It’s normal to feel an urgent need to “do something now” — but with hanging limbs, the safest action is often to **stop people getting close** and get the right professional help. Keeping distance prevents the most serious injuries.
 
 ## Scope note
-This guide provides first-step stabilization for an acute physical hazard. It does not cover long-term tree health assessments, legal disputes between neighbours, or permanent structural reconstruction.
+This is first-step guidance to stabilise the situation and avoid common hazards. Later steps (repairs, liability, neighbour disputes, longer-term tree work) may need insurer guidance or specialist advice.
 
 ## Important note
-This information is for general safety guidance and does not replace professional arborist or structural engineering advice. If you suspect an immediate structural collapse or electrical fire, evacuate the building and call 999.
+This is general information, not a substitute for professional inspection or emergency services. If you believe anyone is in immediate danger, call 999.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/consumer/insurance/types-of-insurance/buildings-insurance/
-- https://www.abi.org.uk/products-and-issues/topics-and-issues/flooding/storms/storm-faq/
-- https://www.rhs.org.uk/plants/types/trees/the-law
-- https://www.rhs.org.uk/plants/types/trees/near-buildings
-- https://www.gov.uk/guidance/tree-preservation-orders-and-trees-in-conservation-areas
+- https://www.energynetworks.org/work/105-service
+- https://www.powercut105.com/en/
+- https://www.ukpowernetworks.co.uk/safety-equipment/power-lines/working-near-power-lines
+- https://prepare.campaign.gov.uk/be-informed-about-hazards/power-cuts/
+- https://www.spenergynetworks.co.uk/pages/report_a_power_cut_or_emergency.aspx
+- https://www.spenergynetworks.co.uk/pages/what_do_i_do_if_trees_are_touching_or_have_damaged_overhead_power_cables.aspx

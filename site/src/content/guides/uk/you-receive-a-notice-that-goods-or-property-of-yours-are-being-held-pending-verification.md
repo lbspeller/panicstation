@@ -1,88 +1,81 @@
----
+﻿---
 title: "What to do if… you receive a notice that goods or property of yours are being held pending verification"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "property held pending verification"
-  - "notice property held"
-  - "goods held for checks"
-  - "property retention notice"
-  - "seized goods help"
-  - "customs seizure advice"
-  - "parcel held for verification"
-  - "my items were seized"
-  - "help i received a seizure notice"
-  - "what do i do if my property is held"
-  - "what do i do if my goods are seized"
-  - "my parcel is being held"
-  - "help my vehicle was seized"
-  - "smell of burning plastic"
-  - "visible damage to parcel"
-  - "missing items notice"
-  - "official letter property"
-  - "seizure information notice"
-  - "held pending investigation"
-  - "property collection help"
-  - "restoration request uk"
-  - "notice of claim help"
-  - "police property office"
-  - "evidence retention rules"
-  - "proof of ownership request"
-  - "verified sender check"
-  - "official contact details"
-  - "property release appointment"
-  - "items withheld for inspection"
-  - "claiming back property"
-last_reviewed: "2026-03-17"
+  - notice property held
+  - goods held pending verification
+  - item withheld verification
+  - property retention letter
+  - seized goods notice
+  - notice of seizure uk
+  - border force notice 12a
+  - hmrc seizure letter
+  - customs seizure notice
+  - parcel held by authorities
+  - police property held
+  - property held as evidence
+  - proof of ownership request
+  - verify sender reference number
+  - suspicious official notice scam
+  - property release appointment
+  - property office collection
+  - return of seized items
+  - detained goods verification
+  - held pending checks
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive a notice that goods or property of yours are being held pending verification (UK)
 
 ## Short answer
-Independently verify the sender's contact details, then submit a written request for restoration or a notice of claim within the strict one-calendar-month legal deadline.
+Verify the notice using official contact details you find yourself, then respond in writing with the reference number and copies of proof of ownership—without paying or sending originals.
 
 ## Do not do these things
-- Do not pay any "release fees," "storage charges," or "courier costs" via links or phone numbers provided in the notice itself.
-- Do not provide one-time passcodes (OTP), bank PINs, or full login credentials to anyone claiming to "verify your identity" for property release.
-- Do not send original physical documents like passports, V5C logbooks, or original receipts through the post.
-- Do not ignore the notice: some authorities can legally destroy or sell non-perishable goods after 45 days if no contact is made.
-- Do not visit a police station or property office without a pre-arranged appointment and a confirmed reference number.
+- Do not pay “release”, “verification”, “storage”, or “courier” fees from a link/number in the notice until you’ve independently verified the organisation.
+- Do not share one-time passcodes, full card details, or passwords “to verify identity”.
+- Do not post original documents (passport, V5C, deeds, certificates).
+- Do not miss stated response windows: some official seizures have strict deadlines.
+- Do not show up in person without confirming the property office address, opening hours, and whether an appointment is required.
 
 ## What to do now
-1. **Preserve the physical notice and all packaging.** Keep the envelope, any digital headers if sent by email, and take clear photos of all pages and reference numbers.
-2. **Verify the organization through a known official channel.**
-   - For suspected customs or border issues, go to GOV.UK and search for "customs seizures" to find the official National Post Seizure Unit address.
-   - For police matters, use the official website of the specific force named to find their property office contact form or email address. 
-3. **Submit a formal written request for the return of items.** You must choose between accepting the seizure was legal and asking for the items back ("restoration request") or challenging the lawfulness of the seizure ("notice of claim").
-   - A notice of claim must be received by the authority within one calendar month of the seizure date.
-   - A restoration request has no formal deadline, but non-perishable goods are typically disposed of after 45 days.
-4. **Prepare a "verification pack" of copies to prove ownership.** Do not send originals. Include:
-   - your full name and current address,
-   - the specific reference number from your notice,
-   - copies of purchase receipts, invoices, or bank statements showing the transaction,
-   - photos of the items (if you have them) or serial numbers,
-   - two forms of address proof (utility bills or bank statements) no older than 3 months.
-5. **Mark requests for items inside seized vehicles clearly.** If you had personal property inside a vehicle that was seized, you must write to the address on the notice within 45 days and mark the letter "Personal Property."
-6. **Ask for an inventory if the notice is vague.** If the notice does not list every item held, send a written request for a full "schedule of property" to ensure all your items are accounted for.
-7. **Request the "Officer in Case" (OIC) details for police-held items.** For items held as evidence, ask for the OIC’s name and the specific property reference number (often different from a crime reference number).
-8. **Check for Environment Agency deadlines if relevant.** If the property was seized regarding waste or environmental issues, you may only have 16 working days to submit a claim of entitlement.
+1. **Save the notice and its details.** Keep the envelope, screenshots, PDFs, attachments. Write down the date received, reference number(s), and exactly what is being held.
+2. **Verify the sender via an official route (not the notice).**
+   - If it claims **Border Force/HMRC/customs**, use GOV.UK pages to identify the correct process and contact details, then quote the seizure/reference number.
+   - If it claims **police**, contact your local force via official channels (or call **101**) and ask for the property/evidence office using the reference or crime number.
+3. **Get the basics in writing (or confirm what’s already written).** Ask: who holds it (office/unit), why it’s held (verification/evidence/seizure), what items (inventory/description/serials), and what the next decision point is.
+4. **Send a short written reply with a “verification pack”.** Include:
+   - your name + contact details,
+   - the reference number(s),
+   - a one-sentence request: “I believe I am the lawful owner and request return/release once verification is complete,”
+   - **copies** of ownership evidence (receipt/order confirmation, serial-number photos, insurance listing, repair record, bank statement line showing merchant + amount),
+   - **copies** of ID only if the verified organisation requests it (mask irrelevant details where possible).
+5. **If this is a customs seizure (Border Force/HMRC), choose the right route immediately.** These are different on GOV.UK:
+   - **Ask for your things back (restoration request):** there’s *no deadline* to apply, but non-perishable goods are often sold/destroyed around **45 days after seizure** if no request is made. If you submit a restoration request, non-perishable items are usually kept while it’s considered.
+   - **Ask for a court hearing (notice of claim):** if you think the seizure was illegal, the notice of claim must be **received within 1 month** of seizure.
+   - **Personal property left in a seized vehicle:** if you couldn’t take it at the time, GOV.UK says to write to the address on the seizure notice; the letter must arrive within **45 days**, and you must arrange collection within about **2 months**.
+6. **If this is police-held property, ask what can be released now and what needs verification.** Request the property reference/receipt (if you don’t have it), the exact ID/ownership documents required, and how collection works (appointment-only is common).
+7. **Keep your own record.** Make a simple log of dates, names, and what was said/sent. Keep copies of everything.
+8. **If they refuse to return property (or keep delaying) after verification, ask what formal route is available.** In some cases, an application can be made to the Magistrates’ Court under the **Police (Property) Act 1897** to seek return of property—this is a point where getting legal advice can help.
 
 ## What can wait
-- You do not need to hire a solicitor immediately just to verify the notice or send basic proof of ownership.
-- You do not need to travel to the location where the goods are held until you have a confirmed collection appointment.
-- You do not need to decide on a formal court appeal on the first day; focus on the "restoration request" or "notice of claim" deadlines first.
+- You do not need to decide today whether to complain, go to court, or “fight the whole case”.
+- You do not need to write a long explanation—start with verification + ownership proof + a clear written request for the next step.
+- You do not need to replace the item immediately; focus on avoiding scams and meeting any deadline.
 
 ## Important reassurance
-"Pending verification" often indicates a routine procedural check for unpaid duty, safety compliance, or standard evidence logging. It does not automatically mean you are under criminal investigation or that the property is lost. Following the official written procedures is the most effective way to trigger a review of the hold.
+“Held pending verification” can be routine (identity checks, ownership checks, evidence handling, import/shipping flags). The calm, written steps above mainly protect you from scams and from missing time-sensitive options.
 
 ## Scope note
-This guide covers first-step stabilization and deadline management only. Complex disputes involving high-value assets or criminal proceedings may require professional legal representation.
+This is first steps only: verify authenticity, preserve your position, and avoid irreversible mistakes. Later stages may need specialist legal help depending on the reason for the hold.
 
 ## Important note
-This information reflects UK procedures as of 2026. Deadlines and specific office addresses are subject to change. Always confirm the current contact details via GOV.UK or official police websites before sending any personal documentation.
+This is general information, not legal advice. Processes and deadlines depend on the organisation and the legal basis for holding the property. If you feel pressured, slow down and insist on written confirmation using official contact routes.
 
 ## Additional Resources
-- https://www.gov.uk/guidance/what-you-can-do-if-things-are-seized-by-hmrc-or-border-force
+- https://www.gov.uk/customs-seizures
 - https://www.gov.uk/customs-seizures/get-your-things-back
-- https://www.gov.uk/tax-tribunal
-- https://www.nationalcrimeagency.gov.uk/contact-us/return-of-seized-property
-- https://www.avonandsomerset.police.uk/victims-witnesses-and-offenders/request-return-of-property-seized/
+- https://www.gov.uk/customs-seizures/disagree-with-a-customs-seizure
+- https://www.gov.uk/guidance/what-you-can-do-if-things-are-seized-by-hmrc-or-border-force
+- https://www.police.uk/pu/contact-us/
+- https://www.legislation.gov.uk/ukpga/Vict/60-61/30

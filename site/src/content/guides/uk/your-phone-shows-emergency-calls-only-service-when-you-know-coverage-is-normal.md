@@ -1,101 +1,91 @@
----
+﻿---
 title: "What to do if… your phone shows emergency-calls-only service when you know coverage is normal"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "phone restart loop"
-  - "stuck in restart loop"
-  - "phone stuck on logo"
-  - "phone updates then restarts"
-  - "help i stuck in restart loop"
-  - "my phone keeps restarting"
-  - "what do i do if my phone is in a boot loop"
-  - "phone rebooting endlessly after update"
-  - "iphone stuck on apple logo"
-  - "android stuck on boot screen"
-  - "failed software update phone"
-  - "phone restart loop help"
-  - "help i bricked my phone"
-  - "my phone is stuck restarting"
-  - "what do i do if phone updates and loops"
-  - "smell of burning phone"
-  - "phone feels very hot"
-  - "screen shows computer icon"
-  - "visible screen glitching"
-  - "phone rebooting too fast"
-  - "phone wont boot past logo"
-  - "samsung boot loop"
-  - "pixel restart loop"
-  - "ios 26 update failure"
-  - "phone frozen on startup"
-  - "what do i do if phone is rebooting"
-  - "help i cant turn my phone on"
-  - "restart loop after download"
-  - "looping phone recovery"
-  - "phone update recovery mode"
-last_reviewed: "2026-03-17"
+  - emergency calls only
+  - sos only
+  - no service in normal area
+  - sudden signal loss
+  - phone not registering on network
+  - stuck on emergency calls only
+  - cannot make normal calls
+  - cannot receive sms
+  - cannot use mobile data
+  - sim not working suddenly
+  - esim stopped working
+  - network selection failed
+  - roaming settings confusion
+  - carrier settings update needed
+  - reset network settings
+  - account barred or suspended
+  - outage but coverage should be fine
+  - after update no signal
+  - emergency calls only message
+  - signal bars gone suddenly
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your phone shows emergency-calls-only service when you know coverage is normal (UK)
 
+# What to do if… your phone shows emergency-calls-only service when you know coverage is normal (UK)
 ## Short answer
-Isolate the device from heat, connect it to a stable power source, and attempt one manual forced restart. If the loop continues, use the manufacturer’s official recovery mode via a computer or a nearby compatible device to attempt a software "Update" before resorting to a data-clearing "Restore."
+Move to a clear spot (near a window or outside), then force your phone to re-register on the network (airplane mode toggle + restart). If it still shows emergency-calls-only, switch to Wi-Fi calling/messaging and contact your mobile network to re-provision your SIM/eSIM.
 
 ## Do not do these things
-- Do not repeat forced restart sequences more than twice if they do not break the loop immediately.
-- Do not perform a "Factory Reset" or "Wipe Data" until you have attempted a non-destructive "Update" or "Repair" via a computer.
-- Do not use third-party "system repair" software from unverified websites; use only official Apple, Google, or Samsung tools.
-- Do not leave the phone charging inside a case or under fabric while it is looping, as constant rebooting generates high internal heat.
-- Do not disconnect the phone from a computer once a firmware update or restore process has begun.
+- Don’t factory reset your phone as a first move (it can lock you out of accounts and won’t fix a network-side fault).
+- Don’t start changing APN/carrier settings based on random forum posts (you can make it worse).
+- Don’t assume your number has been “hacked” just because service vanished (this symptom is usually registration/SIM/network).
+- Don’t keep power-cycling repeatedly for hours (do a few deliberate steps, then switch to a different route like Wi-Fi + network support).
+- Don’t wait to “see if it fixes itself” if you need your phone for something time-sensitive today (switch to Wi-Fi options now).
 
 ## What to do now
-1. **Stabilize the hardware environment.**
-   - **Remove any protective cases or covers immediately.**
-   - **Disconnect all external accessories except for a known-good charging cable.**
-   - **Place the device on a cool, flat surface if it feels warm to the touch.**
-
-2. **Execute a single forced restart sequence.**
-   - **For iPhone 8 and later (including 2026 models):** Press and quickly release Volume Up, press and quickly release Volume Down, then press and hold the Side button until the Apple logo appears.
-   - **For most Android devices:** Press and hold the Power button and Volume Down button simultaneously for approximately 20 seconds until the screen goes black.
-   - **If the device returns to the loop after this attempt, stop further manual restart attempts.**
-
-3. **Use "Restore Nearby" for compatible 2026 iOS devices.**
-   - **Place the looping iPhone next to another unlocked iPhone or iPad running iOS 18 or later.**
-   - **Connect the looping device to power.**
-   - **Follow the on-screen prompts on the working device to share Wi-Fi and attempt a wireless system recovery.**
-
-4. **Enter Recovery Mode via a computer for iPhones.**
-   - **Connect the device to a Mac (Finder) or PC (Apple Devices app).**
-   - **Perform the restart sequence (Up, Down, hold Side) but continue holding the Side button even after the Apple logo appears until the "Connect to Computer" screen shows.**
-   - **Select "Update" in the pop-up window on your computer to attempt a reinstall without erasing data.**
-
-5. **Access Android Recovery Mode for system repair.**
-   - **Power the device off (if possible) or wait for a black-screen moment in the loop, then hold Power and Volume Down until a menu appears.**
-   - **Use volume buttons to navigate to "Recovery Mode" and select it with the Power button.**
-   - **If the "No Command" screen appears, hold Power and tap Volume Up once.**
-   - **Select "Reboot system now" first; if the loop persists, a "Wipe data/factory reset" may be required, which erases all local files.**
-
-6. **Exercise your UK statutory rights for faulty digital content.**
-   - **Contact the retailer where the handset was purchased if the loop occurred immediately following an official update.**
-   - **State that under the Consumer Rights Act 2015, you are entitled to a repair or replacement for faulty digital content that has damaged your device.**
-   - **Consult the Citizens Advice Consumer Helpline at 0808 223 1133 for guidance on claiming compensation if the software update has rendered the hardware unusable.**
+1. **Get to a “known-good” spot for signal for 2 minutes.**  
+   Go outdoors or by a window, away from thick walls/underground areas.
+2. **Force a network re-attach (fastest fix for glitches).**  
+   - Turn **Airplane Mode ON for at least 15 seconds**, then OFF.  
+   - If no change, **restart** the phone once.
+3. **Check you haven’t accidentally disabled the right SIM/eSIM line.**  
+   - Make sure your **SIM line/eSIM is turned on** (dual-SIM phones can switch lines off).  
+   - Ensure **Mobile Data** isn’t disabled at the line level (some phones show confusing states even for calls).
+4. **Try manual network selection once (then return to automatic).**  
+   In Mobile/Cellular settings, temporarily switch **Network selection** from Automatic to Manual, wait for the list, and try your provider. If it fails, return it to **Automatic**.
+5. **Do one “safe” SIM/eSIM check (no deletions).**  
+   - Physical SIM: power off, remove SIM, check for obvious damage, reinsert firmly, power on.  
+   - eSIM: toggle the eSIM line off/on (**don’t delete it** unless your provider tells you to).
+6. **Check for a device/carrier update that can unblock registration.**  
+   On Wi-Fi if needed: install any **pending system update**. On iPhone, also check for a **carrier settings update** when prompted after reconnecting (or after restarting).
+7. **Switch to Wi-Fi for urgent communications immediately.**  
+   - Join a trusted Wi-Fi network.  
+   - Turn on **Wi-Fi Calling** (if available) and try a normal call.  
+   - Use a messaging app/email to contact someone if SMS won’t arrive.
+8. **Check for an account-side block using Wi-Fi.**  
+   Open your network’s app/account page and look for: **service suspended**, **barred outgoing**, **SIM swap/change**, **reported lost/stolen**, or billing problems.
+9. **If it’s still “emergency calls only,” contact your mobile network and ask for specific checks.**  
+   Tell them: “Phone shows emergency-calls-only in an area with normal coverage; I’ve restarted, toggled airplane mode, and reseated SIM/toggled eSIM.” Ask them to check:
+   - local outage/maintenance
+   - whether your SIM/eSIM is provisioned correctly (and to re-provision it)
+   - whether your account/line is barred
+   - whether your device is blocked on the network (IMEI/handset block)
+10. **If you need urgent help while this is happening:**  
+   - In the UK, **999 and 112** reach emergency services **when any network is reachable**.  
+   - If you can’t connect a call, use **another phone immediately** (a neighbour/shop/public venue). For police non-emergencies, use **101** from another phone.
 
 ## What can wait
-- You do not need to identify the specific software bug or "faulty line of code" causing the issue.
-- You do not need to replace the battery or hardware components immediately unless there is visible swelling or a smell of burning.
-- You do not need to worry about permanent data loss if you have a prior cloud backup (iCloud/Google One), as this will remain accessible even if the phone is wiped.
+- You don’t need to decide today whether to change networks or buy a new phone.
+- You don’t need to delete your eSIM, wipe your phone, or install “signal booster” apps.
+- You don’t need to chase perfect diagnosis (SIM vs phone vs network). Your goal is to restore basic calling/SMS, or get a temporary workaround (Wi-Fi calling / alternate phone).
 
 ## Important reassurance
-A software loop is a logical failure, not necessarily a permanent hardware "death." Most devices have a dedicated "Recovery Mode" partition that remains functional even when the main operating system is corrupted. Following the official computer-based recovery path is the standard method for resolving these errors.
+This is a common, fixable failure mode: your phone isn’t registering properly on the mobile network (or the line is blocked), even though coverage is fine. Doing a few targeted steps—then switching to Wi-Fi and contacting your network—usually resolves it faster than repeated tinkering.
 
 ## Scope note
-This guide provides first-step stabilization only. It does not cover hardware repairs for motherboard failures, battery degradation, or data recovery from physically damaged chips.
+These are first steps to stabilise access to calls/texts/data and avoid lockouts. If it keeps happening after it’s fixed, you may need deeper troubleshooting later (SIM replacement, eSIM re-issue, handset checks).
 
 ## Important note
-This information is for general guidance regarding software-induced restart loops. Procedures for entering recovery modes vary significantly by manufacturer and software version (e.g., One UI, iOS, or Pixel UI). Choosing "Restore," "Reset," or "Wipe" will result in the permanent deletion of all data not previously backed up to a cloud service or external drive.
+This guide is general information, not professional telecom or legal advice. If you can’t make calls and you need urgent help, use another phone immediately.
 
 ## Additional Resources
 - https://support.apple.com/en-gb/120000
-- https://support.google.com/pixelphone/answer/14116080?hl=en-GB
-- https://support.google.com/pixelphone/answer/2926415?hl=en-GB
-- https://www.ofcom.org.uk/mobile-coverage-checker
-- https://www.samsung.com/uk/support/mobile-devices/what-to-do-when-your-galaxy-device-is-unable-to-make-or-receive-calls/
+- https://www.gov.uk/guidance/999-and-112-the-uks-national-emergency-numbers
+- https://www.ofcom.org.uk/__data/assets/pdf_file/0029/219854/Dialling-emergency-services-numbers.pdf
+- https://www.ofcom.org.uk/siteassets/resources/documents/phones-telecoms-and-internet/advice/3-digit.pdf
+- https://www.howtogeek.com/how-to-fix-an-android-phone-that-says-emergency-calls-only/

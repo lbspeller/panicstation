@@ -1,109 +1,85 @@
----
+﻿---
 title: "What to do if… your electronic travel authorisation shows as “pending” and your departure is within 24 hours"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "travel authorisation pending"
-  - "eta pending status"
-  - "electronic travel authorisation stuck"
-  - "application under review"
-  - "travel approval not received"
-  - "pending travel clearance"
-  - "boarding denied risk"
-  - "no eta no travel"
-  - "uk eta processing time"
-  - "esta pending 24 hours"
-  - "help i have no travel authorisation"
-  - "help my eta is pending"
-  - "help my esta is not approved"
-  - "what do i do if my eta is pending"
-  - "what do i do if my travel permit is stuck"
-  - "what do i do if departure is tomorrow and pending"
-  - "what do i do if airline says no authorisation"
-  - "smell of panic"
-  - "visible flight countdown"
-  - "unconfirmed digital status"
-  - "payment receipt but no approval"
-  - "e-visa pending error"
-  - "application reference number missing"
-  - "wrong passport number on eta"
-  - "boarding gate closure"
-  - "international airport departure"
-  - "transit landside pending"
-  - "electronic travel authorisation"
-  - "pending travel permit"
-  - "departure within 24 hours"
-  - "stuck application status"
-  - "travel documents"
-  - "digital travel permission"
-  - "check eta status"
-  - "carrier support hub"
-last_reviewed: "2026-03-17"
+  - travel authorisation pending
+  - eta pending
+  - esta pending
+  - electronic travel authorisation stuck
+  - travel approval not received
+  - application still pending
+  - pending travel clearance
+  - flight in 24 hours no authorisation
+  - departure tomorrow pending
+  - airline says authorisation required
+  - check authorisation status
+  - pending after payment
+  - boarding denied risk
+  - visa waiver authorisation pending
+  - travel permit pending
+  - travel authorisation under review
+  - authorisation not issued yet
+  - digital travel permission pending
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your electronic travel authorisation shows as “pending” and your departure is within 24 hours (UK)
 
 ## Short answer
-Assume you cannot board the aircraft while the status is "pending." Contact the official passenger helpline for imminent travel and prepare to rebook if the status does not change to "approved" before check-in closes.
+Treat “pending” as “not approved yet”: assume you could be refused boarding until it changes to an approved/issued status. Verify the status in the official system, then make a fast fallback plan (delay/rebook) while you keep checking.
 
 ## Do not do these things
-- Do not go to the airport expecting to explain the situation to airline staff; they cannot override a "pending" status in the government system.
-- Do not submit a second application immediately; duplicate applications often trigger manual reviews and further delays.
-- Do not rely on payment confirmation or application submission emails as travel documents.
-- Do not attempt to travel via a different port or carrier to "bypass" the check; the system is digital and linked to your passport number across all carriers.
-- Do not contact third-party "expediting" services; they have no authority over government processing times.
+- Do not rely on screenshots, a payment receipt, or “submitted” emails as proof you’re allowed to travel.
+- Do not submit multiple new applications in panic unless the official guidance for that specific scheme tells you to (duplicates can complicate matching).
+- Do not use third-party “fast track” sites that promise to speed up government authorisations.
+- Do not change passport details mid-process (new passport, name format, different passport) unless you’re sure how the authorisation links to your passport.
+- Do not wait until you’re at the airport to find out whether “pending” means “no boarding” for your airline.
 
 ## What to do now
-1. **Verify the exact status in the official government portal.**
-   - Access the official GOV.UK "Check your ETA status" page or the UK ETA app.
-   - Confirm that the passport number, name, and date of birth entered match your physical passport exactly.
-   - Look for specific status messages such as "Under Review" or requests for further information.
+1. **Identify exactly which authorisation is pending and which passport it’s tied to.**  
+   For example: UK ETA (for travel to the UK), US ESTA, Canada eTA, or another country’s digital permission. Confirm you used the same passport you’ll present at check-in (number, issuing country, expiry date, name format).
 
-2. **Check for "Action Required" notifications in all folders.**
-   - Search your email (including spam and junk) for messages from "UK Visas and Immigration" or "Home Office."
-   - Check the message center within the mobile app used for the application.
-   - Look for requests to resubmit a photo or clarify a passport detail.
+2. **Check status the right way for that scheme (and don’t assume there’s a live tracker).**  
+   - **If it’s a UK ETA:** you may only have a decision once you receive it (often via the UK ETA app and/or a decision message). GOV.UK’s “Check your ETA” service is not for people who have only *applied* and are still waiting for a decision.  
+   - **If it’s another country’s authorisation:** use that government’s official “check status / existing application” feature and note the exact wording (“pending”, “under review”, “not approved”, “approved/issued”) and any reference number.
 
-3. **Call the UK Passenger Support Helpline for imminent travel.**
-   - Use the dedicated 24/7 line for travelers facing issues with digital permissions: 0800 876 6921 (UK) or +44 203 337 0927 (Outside UK).
-   - Provide your application reference number and state that your departure is within 24 hours.
-   - Note that this line provides guidance but cannot manually "push through" a pending security check.
+3. **Check for “action needed” messages right now.**  
+   Look for requests to fix a photo, provide extra information, confirm identity, or respond to an email. Check spam/junk folders and any in-app message centre tied to the application.
 
-4. **Confirm your status if you are a dual British or Irish citizen.**
-   - Ensure you are traveling on your British or Irish passport.
-   - If you are using a foreign passport (e.g., USA or EU) because your British passport is expired, you must have an ETA; there is no "emergency" exception at the gate for dual nationals without the correct document.
+4. **Call your airline now and ask one specific question:**  
+   “If my authorisation still shows ‘pending’ at check-in, will you refuse boarding?”  
+   Then ask their cut-off time to change/rebook before you become a no-show. Write down what they say.
 
-5. **Contact your airline to confirm their "No Show" policy.**
-   - Ask for the specific deadline to change or cancel your ticket without forfeiting the entire fare.
-   - Inquire if they can see a specific error code for your passport (such as "0B - No Record found").
-   - Inform them you are waiting for a digital authorisation and ask if they allow late check-ins if the status updates.
+5. **If you’re travelling to the UK and your UK ETA is still not granted:**  
+   Assume you may not be able to travel on this departure. Start your backup plan immediately (step 7) while you continue checking for a decision.
 
-6. **Establish a "Point of No Return" time.**
-   - Identify the exact minute check-in closes for your flight.
-   - Set a personal deadline (e.g., three hours before departure) to stop waiting and begin the rebooking process.
-   - This prevents a high-stress "dash" to the airport that results in a denied boarding.
+6. **Use only the official help route for the scheme — but don’t bet the flight on it.**  
+   If the issuing authority has an official help/contact route, use it and provide: full name, date of birth, passport number/country, application/reference number, flight date/time, and the exact status wording. If official guidance says to wait a set period before chasing (for UK ETA, this may be measured in working days), treat that as a sign there may be no same-day escalation.
 
-7. **Initiate your fallback travel plan.**
-   - Check the availability of flights 24 to 48 hours later.
-   - Review your travel insurance policy for "Travel Disruption" or "Missed Departure" clauses.
-   - If traveling for an essential commitment, notify the relevant parties of a potential delay.
+7. **Make a fallback plan now (this prevents irreversible losses).**  
+   - Check your ticket rules: change/rebook/cancellation deadlines, no-show penalties, and whether your travel insurance has any relevant cover.  
+   - Check later flights you could move to if approval arrives late.  
+   - If others are relying on you (group trip, family), tell one trusted person now so you’re not handling this alone.
+
+8. **If you still go to the airport, set a clear stop point before you leave home.**  
+   Example: “If it’s still pending by the time online check-in closes / bag drop closes, I stop and rebook.” This prevents a last-minute scramble at the gate.
 
 ## What can wait
-- You do not need to determine the specific reason for the "pending" status right now.
-- You do not need to file a formal complaint or appeal while the application is still in process.
-- You do not need to update your accommodation or local transport bookings until the flight is officially changed.
+- You do not need to work out *why* it’s pending today.
+- You do not need to argue your case at the airport — the key is avoiding a no-show and protecting your options.
+- You do not need to decide your whole trip plan — only whether you can lawfully/technically board this specific departure.
 
 ## Important reassurance
-A "pending" status is often a result of routine system maintenance or a facial recognition match that requires a brief manual check. It does not mean your application has been refused. Taking steps to secure your ticket options now is a proactive way to manage a situation that is currently outside your direct control.
+“Pending” feels like “nearly done”, but for boarding purposes it usually behaves like “not decided yet.” Making a backup plan now is a calm, protective move — not pessimism.
 
 ## Scope note
-This guide provides first-step stabilization for the 24 hours preceding a flight. It does not cover the legal requirements for visas if an ETA is eventually refused.
+These are first steps for the next 24 hours to reduce harm and prevent avoidable losses. The correct longer-term fix depends on the destination and the exact authorisation type.
 
 ## Important note
-Digital travel authorisations are mandatory. Carriers are legally required to deny boarding to passengers without an "approved" status. This information is based on 2026 UK Home Office protocols and does not constitute legal immigration advice.
+This guide is general information, not legal or immigration advice. Boarding and entry decisions depend on the destination’s rules, your nationality, and what the issuing government system shows at the time of travel.
 
 ## Additional Resources
-- https://www.gov.uk/eta
 - https://www.gov.uk/eta/apply
 - https://www.gov.uk/check-eta
-- https://www.gov.uk/guidance/using-the-uk-eta-app
-- https://www.gov.uk/contact-ukvi-inside-outside-uk
+- https://homeofficemedia.blog.gov.uk/electronic-travel-authorisation-eta-factsheet-february-2026/

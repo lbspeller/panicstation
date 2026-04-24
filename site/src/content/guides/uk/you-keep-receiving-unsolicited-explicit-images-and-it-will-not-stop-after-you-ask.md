@@ -1,86 +1,92 @@
----
+﻿---
 title: "What to do if… you keep receiving unsolicited explicit images and it will not stop after you ask"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "unsolicited explicit images"
-  - "unwanted sexual images"
-  - "receiving explicit images"
-  - "receiving unsolicited images"
-  - "explicit images won’t stop"
-  - "help i keep receiving explicit images"
-  - "what do i do if i keep receiving explicit images"
-  - "what do i do if someone sends explicit images"
-  - "help i keep getting sexual pictures"
-  - "my messages are full of explicit images"
-  - "unsolicited sexual photos"
-  - "cyberflashing help"
-  - "reporting cyberflashing uk"
-  - "sexual harassment online"
-  - "unwanted genital images"
-  - "images of genitals sent to me"
-  - "seeing unwanted nudity"
-  - "stop sexual messages"
-  - "persistent online harassment"
-  - "explicit images at work"
-  - "sexual images in dms"
-  - "unknown sender sexual pics"
-  - "repeated sexual photos"
-  - "harassment by sexual images"
-  - "digital sexual abuse"
-  - "reporting unwanted nudes"
-  - "explicit imagery in messages"
-  - "someone sending me nudes"
-  - "stopping unsolicited pictures"
-  - "online safety for sexual content"
-last_reviewed: "2026-03-17"
+  - unsolicited explicit images
+  - unwanted sexual images
+  - unwanted nudes
+  - unsolicited nudes
+  - receiving dick pics
+  - cyberflashing
+  - sexual images won’t stop
+  - asked them to stop
+  - blocked but they return
+  - explicit images in dms
+  - harassment by messages
+  - sexual harassment online
+  - unknown sender explicit pics
+  - explicit photos from someone
+  - repeated sexual messages
+  - feeling unsafe online
+  - worried they’ll escalate
+  - explicit images at work
+  - colleague sent explicit images
+  - dating app explicit pictures
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… you keep receiving unsolicited explicit images and it will not stop after you ask (UK)
 
 ## Short answer
-Cease all communication immediately, use platform-level blocking and reporting tools to stop the sender, and secure your privacy settings to prevent further contact.
+Stop engaging, make it harder for them to reach you (block/report/lock down settings), and keep a small record only if it won’t re-distress you.
 
 ## Do not do these things
-- Do not respond with further warnings, arguments, or requests to stop; any engagement often encourages the sender to continue.
-- Do not screenshot, save, or share the images if there is any possibility the person pictured is under 18, as this may constitute a crime of possession or distribution.
-- Do not delete the message thread entirely if you intend to report to the police, as the platform may be able to recover metadata even if you hide the chat.
-- Do not move the conversation to a different app or "private" channel to explain your boundaries.
-- Do not feel pressured to view every image or read every message to "prove" what is happening.
+- Do not reply again to “warn” them, argue, negotiate, or try to shame them — it often increases contact.
+- Do not share the images with friends/groups for advice (it can spread the harm and complicate reporting).
+- Do not click links, download files, or move the chat to another app “to explain” — it can be a setup for scams or escalation.
+- Do not post their details publicly as a first move — it can backfire and make you easier to target.
+- Do not feel you must report immediately if you’re overwhelmed — stabilising first is allowed.
 
 ## What to do now
-1. **Create a safe physical distance from the device.** **Put the phone or laptop face-down and step away for several minutes to lower your immediate distress.**
-2. **Use platform reporting tools immediately.** **Report both the individual messages and the sender’s account using the "unsolicited nudity," "harassment," or "sexual content" categories.**
-   - Under the Online Safety Act 2026 regulations, platforms are now legally required to proactively remove and prevent "priority offences" like cyberflashing.
-3. **Apply a total block on the sender.** **Select the "block and report" option to prevent any further notifications or contact from that specific account.**
-4. **Restrict your incoming message settings.** **Change your privacy settings to "Friends Only" or "Contacts Only" for direct messages to stop new accounts from reaching you.**
-   - On most platforms, this is found under Settings > Privacy > Messages / DMs.
-5. **Verify the age of the person in the images.** **If the images appear to be of a child or young person (under 18), do not save or screenshot them; instead, note the platform and username and report directly to the police.**
-   - Contact **999** if you believe a child is in immediate danger.
-   - Report concerns regarding online child sexual abuse to **CEOP** (Child Exploitation and Online Protection).
-6. **Report to the police via official channels.** **Call 101 or use your local force's online reporting tool to report "cyberflashing," which is a specific criminal offence across the UK.**
-   - In England and Wales, sending unsolicited genital images with intent to cause alarm, distress, or for sexual gratification is a crime under the Sexual Offences Act (as amended).
-   - In Scotland, this is a statutory offence under Section 187 of the Online Safety Act.
-7. **Address workplace-related incidents through formal channels.** **If the sender is a colleague or client, notify your HR department or manager using your employer’s sexual harassment or safeguarding policy.**
-8. **Utilize "Report Remove" for under-18s.** **If you are under 18 and a sexual image of you is being shared or sent, use the Childline "Report Remove" service to request its removal from the internet.**
+1. **Create a quick safety pause.** Put your phone face-down, step away for 60 seconds, and decide: “My next action is to reduce contact, not to ‘solve’ this right now.”
+2. **Stop the channel they are using.**
+   - Block the sender account(s).
+   - Use the platform’s **report** tool for harassment / sexual content / unsolicited nudity.
+   - If it allows, report both the **account** and the specific **message/image**.
+3. **Lock down how people can reach you (2–3 settings only).**
+   - Restrict DMs/messages to “friends/contacts only”, or “people you follow”.
+   - Turn off message requests, or move unknown senders to a filtered folder.
+   - If new accounts keep appearing, temporarily make your profile private and limit who can comment/tag/DM you.
+4. **Preserve options without overdoing “evidence.”**
+   - You **do not** have to gather screenshots before reporting.
+   - If it won’t worsen your distress, take **one** set of screenshots showing: the account name/ID, the message thread with timestamps, and any threats/coercion.
+   - Save them somewhere you don’t have to look at them again.
+5. **If this is connected to work, use a work channel to stop it.**
+   - If it’s a colleague/customer/client, report it to your manager/HR using your employer’s harassment process.
+   - If you feel unsafe doing that alone, ask a trusted colleague to sit with you while you send the report.
+6. **If you want official help, choose the least-draining route.**
+   - If you’re in immediate danger or someone is trying to locate you: call **999**.
+   - Otherwise, contact the police via **101** or your local force’s online reporting.
+   - In **England and Wales**, sending unsolicited genital images (“cyberflashing”) is a specific criminal offence; in **Scotland/Northern Ireland**, other offences may apply — you can still report what happened and get advice.
+7. **If a child/young person is involved (as sender or recipient), escalate immediately.**
+   - If you believe a child is at risk right now: call **999**.
+   - If you’re worried about online sexual abuse/grooming or sexual communication with a child: make a report to **CEOP** (Child Exploitation and Online Protection).
+   - If someone under 18 is worried about a nude/sexual image of themselves being shared, **Childline “Report Remove”** can help request takedown.
+8. **Get support that won’t pressure you.**
+   - If this links to image-based abuse, threats to share images, stalking, or blackmail, specialist services can help you choose next steps and reduce ongoing harm.
 
 ## What can wait
-- You do not need to decide right now whether you want to go through a full criminal prosecution.
-- You do not need to write a detailed witness statement today.
-- You do not need to figure out the sender's identity or motivations.
-- You do not need to permanently delete your social media accounts; stabilizing the immediate settings is sufficient.
+- You do not need to decide today whether to “make a case” or pursue a formal complaint.
+- You do not need to write a long statement, collect every message, or prove intent right now.
+- You do not need to confront the person, figure out why they’re doing it, or “teach them a lesson.”
+- You do not need to change all your accounts — only the one or two settings that stop contact.
 
 ## Important reassurance
-Receiving unsolicited sexual imagery is a violation of your digital personal space and it is normal to feel shocked, angry, or physically nauseated. These feelings are a standard response to a boundary violation. Taking steps to stop the contact is the priority, and you are not responsible for the sender's behavior.
+Receiving unsolicited explicit images can feel shocking, violating, or nauseating — even if you’re “fine on paper.” Your reaction is a normal response to a boundary being crossed. The priority is to reduce contact and get you back to a steadier place before any bigger decisions.
 
 ## Scope note
-This guide provides first-step stabilization and harm reduction for receiving unsolicited images. It does not cover long-term legal strategy, workplace tribunal procedures, or therapy for image-based abuse.
+This is first steps only: stabilise, stop the contact, and preserve options. If there’s ongoing harassment, a workplace power imbalance, stalking, threats, or blackmail, specialist support can help you avoid steps that increase risk.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Laws regarding cyberflashing and online harassment vary between England and Wales, Scotland, and Northern Ireland. If you are in immediate danger or being threatened with physical harm, contact the emergency services.
+This guide is general information, not legal advice. Processes and offences can differ across the UK (for example between England/Wales, Scotland, and Northern Ireland). If you’re unsure what applies where you are, it’s still appropriate to block/report on the platform and seek support while you decide whether to involve your workplace or the police.
 
 ## Additional Resources
-- https://revengepornhelpline.org.uk/
-- https://revengepornhelpline.org.uk/how-can-we-help/
-- https://revengepornhelpline.org.uk/information-and-advice/about-intimate-image-abuse/what-is-intimate-image-abuse/
-- https://reportharmfulcontent.com/harms/intimate-image-abuse/?lang=en-gb
-- https://www.victimsupport.org.uk/crime-info/types-crime/image-based-sexual-abuse/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/cyberflashing/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/cyberflashing/cyberflashing-what-you-can-do-reporting-it-to-us/
+- https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer
+- https://www.cps.gov.uk/prosecution-guidance/communications-offences
+- https://www.acas.org.uk/sexual-harassment
+- https://www.ceop.police.uk/Safety-Centre/
+- https://www.ceop.police.uk/Safety-Centre/how-can-you-report-online-cse/
+- https://www.ceop.police.uk/reporting-unavailable/

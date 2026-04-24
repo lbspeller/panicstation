@@ -1,107 +1,98 @@
----
+﻿---
 title: "What to do if… a merchant says they refunded you but the card transaction is still showing as reversed"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - "merchant says refunded"
-  - "refund not showing"
-  - "card transaction reversed"
-  - "reversed payment still there"
-  - "refund promised not received"
-  - "refund pending in banking app"
-  - "card payment shows reversal"
-  - "authorization reversed confusion"
-  - "voided card transaction"
-  - "missing card credit"
-  - "refund stuck pending"
-  - "banking app shows reversed"
-  - "card statement doesn’t match"
-  - "refund confirmation missing"
-  - "refund trace number"
-  - "acquirer reference number arn"
-  - "card refund delayed"
-  - "reversed charge but no money"
-  - "credit not posted"
-  - "refund says completed but isn’t"
-  - "what do i do if merchant says they refunded me"
-  - "what do i do if refund is missing"
-  - "what do i do if my card refund is delayed"
-  - "what do i do if transaction shows reversed but no credit"
-  - "help i haven’t received my refund"
-  - "help i got a refund but it isn't in my account"
-  - "help i am missing a merchant credit"
-  - "help i see a reversed charge but no refund"
-  - "my refund is not appearing"
-  - "my merchant refund is missing"
-  - "my credit card refund is stuck"
-  - "my debit card refund was reversed"
-  - "arn trace number refund"
-  - "merchant credit failure"
-  - "transaction reversed versus refund"
-  - "missing money after reversal"
-last_reviewed: "2026-03-17"
+  - merchant says refunded
+  - refund not showing
+  - card transaction reversed
+  - reversed payment still there
+  - refund promised not received
+  - refund pending in banking app
+  - card payment shows reversal
+  - authorization reversed confusion
+  - voided card transaction
+  - missing card credit
+  - refund stuck pending
+  - banking app shows reversed
+  - card statement doesn’t match
+  - refund confirmation missing
+  - refund trace number
+  - acquirer reference number arn
+  - card refund delayed
+  - reversed charge but no money
+  - credit not posted
+  - refund says completed but isn’t
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… a merchant says they refunded you but the card transaction is still showing as reversed (USA)
 
 ## Short answer
-Verify if the transaction was a "void" (charge disappears) or a "refund" (separate credit), obtain the Acquirer Reference Number (ARN) from the merchant, and file a formal "failure to reflect a credit" notice with your bank if the funds do not post within 15 days.
+Confirm whether the charge actually posted or whether it was only an authorization that got reversed, then get the merchant’s refund details (date + trace/reference) and contact your issuer/bank to trace the missing credit—using the written dispute/error process if needed.
 
 ## Do not do these things
-- Don't assume a "reversed" status on a pending charge is a refund; it usually means a temporary hold was cancelled and no money was ever taken.
-- Don't wait more than 60 days from your statement date to notify your bank; federal protections under the FCBA and Regulation E have strict expiration windows.
-- Don't delete emails or chat logs containing the merchant's "refund processed" confirmation or reference numbers.
-- Don't close the card account to fix the issue; credits can still be routed to closed accounts, but they are significantly harder for you to access or trace.
-- Don't send original receipts to the bank if you file a dispute; always send clear photocopies or digital scans.
+- Don’t treat “reversed” as proof you received a refund; it may only mean an authorization hold was cancelled.
+- Don’t wait until much later if you’re approaching a statement date; formal protections for billing errors and EFT errors can depend on notifying your issuer within set timeframes.
+- Don’t cancel the card or close the account just to “reset” things; it can complicate tracing a refund.
+- Don’t send originals of receipts/return records; keep originals and send copies.
+- Don’t rely on phone calls alone if your issuer tells you to use a specific written notice/address to preserve your rights.
 
 ## What to do now
-1. **Identify the transaction type in your digital banking history.**
-   - **Check if the original charge is "Pending" or "Posted."**
-   - If the charge was pending and "reversed," it may simply disappear from your history without a separate credit line.
-   - If the charge was posted (actually deducted), it must be returned as a separate line item labeled "Credit" or "Refund."
+1. **Check whether you were charged or it was only a hold.**
+   - Look for whether the transaction is **pending/authorization** versus **posted**.
+   - Check whether a refund appears as a **separate credit line** (refunds typically post separately).
+   - Check both your **available balance** and your **statement balance** to see whether funds actually left.
 
-2. **Obtain the Acquirer Reference Number (ARN) from the merchant.**
-   - **Request the specific 23-digit or 15-digit ARN or Trace ID from the merchant's billing department.**
-   - This number is the industry-standard "tracking number" that proves the merchant's bank (the acquirer) sent the money to your bank (the issuer).
-   - Ask for the exact date, time, and the specific card last-4 digits used for the refund.
+2. **Save evidence while screens still show the wording.**
+   - Screenshot the transaction details and the “reversed” status.
+   - Write down: amount, merchant name, transaction date/time, and any reference numbers shown.
 
-3. **Verify the "Available Balance" versus "Statement Balance."**
-   - **Compare your total account balance with your available funds.**
-   - A refund may be "shadowed" or pending, meaning it has arrived at the bank but has not yet "cleared" to your statement.
+3. **Ask the merchant for traceable refund proof.**
+   Request:
+   - **Refund date and time**
+   - **Refund amount**
+   - Confirmation it went to the **same card/payment token** (same last 4 digits, or same wallet card token)
+   - A **refund trace/reference** (and if available, an **ARN/acquirer reference** from their processor)
+   - Confirmation they issued a **refund** (not just a “void/reversal” of an authorization)
 
-4. **Contact your card issuer’s "Research" or "Disputes" department with the ARN.**
-   - **Provide the ARN/Trace ID to the bank agent and ask them to "trace a missing credit."**
-   - Do not just ask if a refund is there; ask them to look for a "stuck" or "unapplied" credit matching that specific reference number.
+4. **Ask your issuer/bank to “trace a missing credit.”**
+   Provide:
+   - Original transaction date/amount/merchant
+   - Merchant’s refund date and reference/ARN
+   Ask whether the refund is pending, misapplied, or stuck due to a **card replacement**, **account change**, or **digital wallet token**.
 
-5. **Send a formal "Failure to Reflect a Credit" notice (Credit Cards).**
-   - **Submit a written billing error notice to the specific address for "Disputes" listed on your statement if the credit doesn't appear within 15 days of the merchant's refund date.**
-   - State clearly that the merchant issued a credit that has not been reflected on your account.
-   - This must reach the issuer within 60 days of the statement that should have shown the credit.
+5. **If this is a credit card, protect your FCBA rights by sending a written billing error notice.**
+   - A missing credit/refund can be treated as a **billing error** (failure to reflect a credit).
+   - To preserve the strongest protections, send your dispute so it **reaches** the issuer **within 60 days** after the statement on which the credit should have appeared was sent.
+   - Send it to the issuer’s **billing inquiries/billing disputes** address (not the payment address), include copies of supporting documents, and keep proof you sent it.
 
-6. **File a Regulation E "Error Notice" (Debit Cards).**
-   - **Notify the bank of the missing credit verbally or in writing within 60 days of the statement date.**
-   - If you notify them verbally, follow up with a written letter via certified mail if they require it to maintain your right to a "provisional credit" during the investigation.
+6. **If this is a debit card (or checking account funds), report it as an error under Regulation E—and ask for a debit-card dispute too.**
+   - Notify the bank **within 60 days** of the statement where the error first appears.
+   - You can often start by phone, but the bank may require **written confirmation** shortly after an oral report; if they do, follow their instructions quickly and keep a copy.
+   - Also ask the bank to open a **debit-card dispute/chargeback** for “refund not received/missing credit” under the card network rules, and tell you what evidence they need.
 
-7. **Escalate to the CFPB if the bank fails to locate a verified ARN.**
-   - **Submit a complaint to the Consumer Financial Protection Bureau (CFPB) if you have an ARN from the merchant but the bank claims they cannot find the funds.**
-   - Include the merchant's refund receipt and the ARN in your complaint.
+7. **If the issuer/bank won’t fix it, escalate in writing and consider a regulator complaint.**
+   - Ask for the issuer’s **billing disputes/error resolution** team and get the decision and reason in writing.
+   - If you’re getting nowhere, you can submit a complaint to the **Consumer Financial Protection Bureau** about many banks and card issuers, attaching your timeline and documents.
 
 ## What can wait
-- You do not need to contact the merchant again once you have a valid ARN; the issue is now between the banking networks.
-- You do not need to pay the disputed portion of a credit card bill while the "failure to reflect a credit" investigation is active (though you must pay all other undisputed amounts).
-- You do not need to hire an attorney; the federal dispute process is designed for consumers to handle directly with their financial institutions.
+- You don’t need to decide today whether you’ll take legal action; first do the trace and send the correct written notice if needed.
+- You don’t need to keep negotiating with the merchant once you have traceable refund details; focus on getting the issuer/bank to locate/post the credit.
+- You don’t need to replace the card unless you believe there is fraud or ongoing unauthorized activity.
 
 ## Important reassurance
-It is very common for a banking app to use the word "reversed" to describe a cancelled authorization hold. This can be confusing because the money didn't "come back"—it simply stopped being "held." If you have a specific trace number (ARN), the money is identifiable and can be recovered even if there is a technical delay at your bank.
+This is a common confusion: “reversed” can mean an authorization hold was cancelled, not that a refund credit has posted. Once you have the refund’s processing date and a traceable reference, issuers can usually locate where the credit is.
 
 ## Scope note
-This guide covers first-step stabilization for missing merchant credits and refunds in the USA. It does not cover disputes for "quality of goods" or merchant scams where no refund was ever initiated.
+These are immediate first steps to stop you losing time and documentation. If the dispute process becomes extended or complex, you may need specialist help for the next stage—but you don’t need that to start correctly today.
 
 ## Important note
-Banking regulations (Regulation Z / FCBA for credit cards and Regulation E for debit cards) provide specific legal timelines. Failure to provide written notice within 60 days of a statement can result in the loss of your right to a mandatory investigation or provisional credit.
+This guide is general information, not legal advice. Exact procedures vary by issuer and account type; keep everything documented and follow your issuer’s dispute instructions, especially about the address and timing for written notices.
 
 ## Additional Resources
-- https://www.consumerfinance.gov/ask-cfpb/how-can-i-get-a-refund-on-a-product-or-service-i-purchased-with-my-credit-card-en-1969/
+- https://www.consumerfinance.gov/rules-policy/regulations/1026/13
 - https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges
-- https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discover-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/
 - https://www.consumerfinance.gov/rules-policy/regulations/1005/11/
-- https://consumer.ftc.gov/articles/what-do-if-youre-billed-things-you-never-got-or-you-get-unordered-products
+- https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-a-charge-on-my-credit-card-bill-en-61/
+- https://www.consumerfinance.gov/complaint/

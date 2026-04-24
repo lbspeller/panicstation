@@ -1,100 +1,74 @@
----
+﻿---
 title: "What to do if… a colleague keeps making sexual jokes or comments about you and it is getting worse"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "colleague sexual jokes"
-  - "colleague sexual comments"
-  - "sexual jokes making it worse"
-  - "workplace sexual jokes"
-  - "workplace sexual comments"
-  - "sexual comments getting worse"
-  - "help i have a colleague making sexual jokes"
-  - "help i have a colleague making sexual comments"
-  - "what do i do if a colleague keeps making sexual jokes"
-  - "what do i do if a colleague keeps making sexual comments"
-  - "my colleague keeps making sexual jokes"
-  - "my colleague keeps making sexual comments"
-  - "unwanted sexual remarks at work"
-  - "sexualised teasing at work"
-  - "inappropriate comments from coworker"
-  - "hostile work environment cues"
-  - "observed sexual harassment"
-  - "smell of alcohol and sexual remarks"
-  - "personal comments about body"
-  - "jokes about sexual orientation"
-  - "jokes about gender identity"
-  - "harassment via work chat"
-  - "harassment via text messages"
-  - "escalating workplace behavior"
-  - "retaliation concerns at work"
-  - "eeoc filing deadlines"
-  - "federal employee eeoc 45 days"
-  - "reporting harassment to hr"
-  - "supervisor harassment reporting"
-  - "incidents getting more frequent"
-  - "sexual jokes in office"
-  - "sexual comments in office"
-  - "workplace safety concerns"
-  - "coworker sexual comments"
-  - "coworker sexual jokes"
-last_reviewed: "2026-03-17"
+  - coworker sexual jokes
+  - sexual comments at work
+  - workplace sexual harassment
+  - unwanted sexual remarks
+  - sexualised teasing escalating
+  - coworker targeting me
+  - inappropriate jokes about me
+  - hostile work environment
+  - harassment in workplace
+  - harassment via texts at work
+  - worried about retaliation
+  - report to hr harassment
+  - supervisor harassment complaint
+  - keep record of incidents
+  - sexual harassment getting worse
+  - boundaries with coworker
+  - unsafe at work
+  - eeoc harassment
+  - file a charge eeoc
+  - retaliation protections
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… a colleague keeps making sexual jokes or comments about you and it is getting worse (USA)
 
 ## Short answer
-Move to a public or populated area of the workplace, begin a private record of every incident, and initiate a formal report through your employer's designated internal channels (HR or management).
+Get to a safer, calmer position at work, start a basic record, and report it through your employer’s process (supervisor/HR) as soon as you can. If you feel at risk right now, prioritise immediate safety and getting on-site help.
 
 ## Do not do these things
-- Do not delete any electronic evidence including emails, texts, work chats, or voicemails.
-- Do not feel obligated to respond to the jokes or "play along" to minimize the situation.
-- Do not confront the individual alone if you feel physically unsafe or if the behavior is escalating.
-- Do not assume you must wait for a "severe" incident before you are allowed to report.
-- Do not use work computers or work-monitored accounts to keep your private incident log.
+- Do not feel you have to play along to avoid being labelled “difficult.”
+- Do not confront them alone if the behaviour is escalating or you feel unsafe.
+- Do not delete texts, emails, DMs, or chat messages connected to what’s happening.
+- Do not send long, heated messages while you’re panicking — keep any communication short and factual.
+- Do not assume you must “wait until it’s severe” to report it.
 
 ## What to do now
-1. **Increase physical distance or move to a public space immediately.** If the colleague is currently making comments, move to an area with other coworkers, a lobby, or a public breakroom.
-2. **Document the specific observable cues of the behavior.** Write down exactly what was said or done, including:
-   - The specific words used in the jokes or comments.
-   - The date, time, and specific work location (e.g., "conference room B").
-   - The names of any coworkers or supervisors who were present and might have heard or seen the interaction.
-   - Any physical cues such as the colleague blocking your path or leaning into your personal space.
-3. **Preserve all digital evidence in a secure location.** 
-   - Take screenshots of work chat messages or emails if your company policy allows.
-   - Save copies of relevant texts or call logs on your personal device.
-   - Do not forward work-sensitive or proprietary information to personal accounts; focus only on the harassing content itself.
-4. **Identify your company’s specific reporting procedure.** Look for the "Anti-Harassment Policy" or "Employee Handbook" to find the designated contact person, which is typically:
-   - A direct supervisor (if they are not the one involved).
-   - A Human Resources (HR) representative.
-   - An anonymous ethics or compliance hotline provided by the employer.
-5. **Submit a factual report to the designated channel as soon as possible.** Use clear, non-emotional language to describe the behavior and its frequency. State explicitly that the comments are "unwelcome."
-6. **State your concerns regarding retaliation during the reporting process.** Ask the person receiving the report for a copy of the company's non-retaliation policy and a timeline for when they will follow up with you.
-7. **Request specific interim safety measures if needed.** 
-   - Separation of shifts or schedules.
-   - Relocation of your desk or workstation.
-   - A "no-contact" directive issued by management.
-8. **Monitor external reporting deadlines.** 
-   - **Federal Employees:** You generally must contact an EEO Counselor within **45 days** of the incident.
-   - **Private/State/Local Employees:** You typically have **180 days** to file a charge with the EEOC, which may be extended to **300 days** if a state or local agency also covers the claim.
+1. **Create a safer pause today.** Move to a more public area, stay near supportive coworkers, and avoid being alone with them where possible. If you feel in immediate danger, leave the area and contact security/management.
+2. **Start a simple incident record (2 minutes).** Write: date/time, what happened (exact words if possible), location, witnesses, and how it affected you at work. Keep it somewhere private (personal notes, not accessible to them).
+3. **Preserve written evidence safely.** Keep copies of messages, emails, or work chat logs **that you can access legitimately**. If you’re unsure what your employer allows (screenshots, forwarding, printing), ask HR/IT how to preserve records. Do not try to access anything you’re not authorised to access.
+4. **Use one clear boundary statement (only if it feels safe).** Example: “Stop making sexual jokes/comments about me. It’s not welcome.” Then disengage. You do not owe a debate.
+5. **Report through your employer’s policy as soon as you can.** Common options:
+   - Tell your supervisor or manager (or a different manager if yours is involved).
+   - Contact HR or use any hotline/ethics reporting channel your workplace provides.
+   - If you’re in a union, consider contacting your union rep to support you while reporting.
+6. **Ask for immediate protective changes.** Examples: schedule/shift separation, different seating, a different reporting line, a no-contact instruction at work, or a specific manager assigned to handle updates. Keep requests practical and concrete.
+7. **Name retaliation concerns up front.** When you report: “I’m worried about retaliation for raising this.” Ask for clear expectations about what retaliation looks like, how to report it quickly, and who will handle it.
+8. **If your workplace doesn’t act, consider an external complaint route.** Sexual harassment at work can fall under federal protections enforced by the **EEOC**. In harassment cases, EEOC time limits are often **180 days** from the last incident, and **extended to 300 days in many places** (depending on state/local coverage) — so if things are escalating, it can help to get advice early. Some states or local fair-employment agencies also take charges and can affect deadlines.
 
 ## What can wait
-- You do not need to decide today whether you want to resign or find a new job.
-- You do not need to have a complete legal "case" prepared before speaking to HR.
-- You do not need to determine if the behavior meets the legal definition of "hostile work environment" yet; that is for the investigators to assess.
-- You do not need to consult an attorney before making an initial internal report.
+- You do not need to decide today whether to quit, transfer, or pursue a lawsuit.
+- You do not need a perfectly written statement or every detail to start reporting.
+- You do not need to confront the coworker again if it feels unsafe.
+- You do not need to decide now whether to report to police (unless you were threatened or assaulted).
 
 ## Important reassurance
-It is normal to feel hesitant, frustrated, or anxious when workplace behavior escalates. Hesitation or a "freeze" response during an uncomfortable joke is a common reaction and does not mean you have consented to the behavior. You have the right to work in an environment free from unwelcome sexual conduct.
+Escalating sexual jokes or comments can feel violating and destabilizing, especially when you’re targeted. It’s common to second-guess yourself or freeze in the moment. You’re allowed to take it seriously and to ask your employer to stop it and protect you.
 
 ## Scope note
-This is first-step stabilization guidance only. It focus on immediate safety and initial reporting. Long-term legal strategies, lawsuits, or extended mediation will require specialized professional assistance.
+This is first-step guidance to stabilize and reduce harm. If the behavior continues, your employer doesn’t respond appropriately, or you fear retaliation, consider specialist support (HR/union, legal aid, or an employment attorney) and using external reporting options where appropriate.
 
 ## Important note
-This guide provides general information based on U.S. federal standards and does not constitute legal advice. Jurisdictional rules vary by state; some states offer broader protections than federal law. If you have been physically threatened or assaulted, contact local law enforcement or security immediately.
+This guide is general information, not legal advice. If you are in immediate danger or have been threatened or assaulted, prioritize safety and contact emergency services.
 
 ## Additional Resources
-- https://www.eeoc.gov/questions-and-answers-employees-harassment-work
-- https://www.eeoc.gov/laws/guidance/what-you-should-know-what-do-if-you-believe-you-have-been-harassed-work
-- https://www.eeoc.gov/sexual-harassment
-- https://www.eeoc.gov/facts-about-retaliation
 - https://www.eeoc.gov/harassment
+- https://www.eeoc.gov/time-limits-filing-charge
+- https://www.eeoc.gov/retaliation
+- https://www.eeoc.gov/how-file-charge-employment-discrimination
+- https://www.usa.gov/job-discrimination-harassment

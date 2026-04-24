@@ -1,97 +1,73 @@
----
+﻿---
 title: "What to do if… someone wants you to sign a “consent” or “release” form for intimate filming you did not expect"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "pressured to sign release"
-  - "consent form for intimate video"
-  - "unexpected intimate filming"
-  - "coerced consent paperwork"
-  - "surprise filming agreement"
-  - "intimate filming you did not expect"
-  - "threatened to sign consent"
-  - "blackmailed over intimate footage"
-  - "intimate images shared without consent"
-  - "filmed without your agreement"
-  - "asked to sign waiver after sex"
-  - "sexual coercion paperwork"
-  - "unsafe to refuse signing"
-  - "intimate content release form"
-  - "consent signed under pressure"
-  - "someone wants a signature now"
-  - "worried video will be posted"
-  - "help i was filmed without permission"
-  - "what do i do if someone filmed me"
-  - "what do i do if forced to sign a waiver"
-  - "what do i do if they wont let me leave without signing"
-  - "my partner filmed me and wants a release"
-  - "my intimate video was recorded secretly"
-  - "help i am being blackmailed with a video"
-  - "forced signature on sexual release"
-  - "signing a consent form under duress"
-  - "legal release for sex tape"
-  - "non-consensual recording help"
-  - "camera hidden during sex"
-  - "stop someone from posting my video"
-  - "legal help for sextortion"
-  - "sexual assault medical exam info"
-  - "rainn hotline contact"
-  - "ccri helpline for filming"
-  - "recorded sexual assault"
-  - "intimidation after intimate filming"
-last_reviewed: "2026-03-17"
+  - pressured to sign release
+  - consent form for intimate video
+  - unexpected intimate filming
+  - coerced consent paperwork
+  - surprise filming agreement
+  - intimate filming you did not expect
+  - threatened to sign consent
+  - blackmailed over intimate footage
+  - intimate images shared without consent
+  - filmed without your agreement
+  - asked to sign waiver after sex
+  - sexual coercion paperwork
+  - unsafe to refuse signing
+  - intimate content release form
+  - consent signed under pressure
+  - someone wants a signature now
+  - worried video will be posted
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… someone wants you to sign a “consent” or “release” form for intimate filming you did not expect (USA)
 
 ## Short answer
-Do not sign the document. Create immediate physical distance by leaving the area or moving to a public space, then contact a specialist helpline to discuss your safety and options.
+Don’t sign in the moment—get to a safer place and contact a sexual assault hotline/advocate for confidential support so you can slow this down and protect your options.
 
 ## Do not do these things
-- Don’t sign any paper or digital document if you feel rushed, intimidated, or unsure of the contents.
-- Don’t attempt to bargain by offering to sign if they "promise" to delete the footage.
-- Don’t unlock your phone or provide passwords to the other person under pressure.
-- Don’t stay in an isolated room or allow someone to block your exit while you "think about it."
-- Don’t blame yourself for anything that happened prior to this moment; focus entirely on reaching safety now.
+- Don’t sign anything if you feel rushed, threatened, intimidated, intoxicated, or unsure what you’re agreeing to.
+- Don’t let them keep you alone, block an exit, or take your phone “while you decide.”
+- Don’t give passwords, unlock your phone, or send additional intimate content to “prove” or “fix” anything.
+- Don’t try to bargain with threats (for example, “I’ll sign if you delete it”)—that can escalate pressure.
+- Don’t blame yourself for freezing or complying earlier—focus on safety now.
 
 ## What to do now
-1. **Prioritize physical exit.** Move toward a door, a public area, or a staffed location immediately.
-2. **State your refusal clearly and briefly.** 
-   - “I am not signing this.”
-   - “I am leaving now.”
-   - Do not stay to justify your decision or engage in an argument.
-3. **If you are being physically blocked or threatened, call 911.** If you cannot safely speak, you can text 911 in many jurisdictions or leave the line open so dispatchers can hear the situation.
-4. **Request time to review if you cannot leave immediately.** 
-   - Use a stalling phrase: “I need to read this over with my own advisor first.”
-   - This is not an agreement to sign later; it is a tool to reduce immediate tension and create space.
-5. **Contact the Cyber Civil Rights Initiative (CCRI) Crisis Helpline.**
-   - Call **844-878-2274** for specific support regarding non-consensual filming, sextortion, and "revenge porn."
-6. **Contact RAINN for confidential sexual assault support.**
-   - Call **800-656-HOPE (4673)** or use the RAINN online chat. They can provide local referrals for advocates who understand coercion and consent.
-7. **Seek a medical evaluation if there was physical or sexual contact.** 
-   - You can visit an emergency room or a specialized clinic for a sexual assault medical forensic exam (SAFE).
-   - These exams are most effective for evidence collection if done within 72 to 120 hours, but medical care for health and safety is always available.
-   - You have the right to have an advocate present and to refuse any part of the exam.
-8. **Preserve evidence of threats.** If they send messages threatening to post the video unless you sign, take screenshots and save them in a secure place. Do not delete communications even if they are upsetting, as they may be needed for legal protection later.
-9. **Identify one safe person to talk to.** Call a friend or family member and ask them to stay on the line with you until you are in a secure, private location.
+1. **Make a safety pause.** Step into a public/staffed area, call a trusted person, or leave. If you’re in immediate danger, call **911**.
+2. **Use one clear line and repeat it.**  
+   “I’m not signing anything. I’m leaving now.”  
+   You do not need to argue, explain, or justify.
+3. **If you can’t leave immediately, switch to “time” not “agreement.”**  
+   “I’m not signing today. I’ll review it later.”  
+   Avoid giving contact details that feel unsafe; choose the safest channel you control.
+4. **If they threaten to post/share the footage, treat it as coercion.** If it’s safe, save the threat (screenshots, voicemails). Don’t engage in a long message exchange.
+5. **Contact confidential specialist support.**  
+   - **RAINN National Sexual Assault Hotline: 800-656-HOPE** (and RAINN’s online chat). They can connect you to local resources and advocates.
+6. **Consider medical care (your choice; no pressure).** You can seek medical attention even if you do not want to involve police. If you want it, ask a hospital/clinic about a **sexual assault medical forensic exam (SAFE)** and whether an advocate can be present. You can ask questions, pause, or stop any part of care you don’t want.
+7. **Tell one trusted person and ask for practical help.** For example: “Can you stay on the phone while I get somewhere safe and write down what happened?”
+8. **Write a quick “facts note” (2–5 minutes).** Date/time, location, names/usernames, what was filmed, what you were asked to sign, any threats, any witnesses. Keep it private.
+9. **If you may want to report later:** try not to delete messages or erase communications. You don’t need to investigate—just avoid destroying what already exists.
 
 ## What can wait
-- You do not need to decide whether to file a police report right now.
-- You do not need to figure out how to get the video deleted this second; specialist advocates can help with "takedown" procedures later.
-- You do not need to explain the situation to your employer, school, or family immediately.
-- You do not need to respond to further messages from the person once you are safe.
+- You don’t have to decide right now whether to report to police.
+- You don’t have to decide right now whether to pursue a lawyer/civil action.
+- You don’t need to contact platforms, employers, schools, or family immediately—do that after you have support and a plan.
+- You don’t need to respond to them once you’re safe (and it’s often safer not to).
 
 ## Important reassurance
-Coercion is not consent. Being pressured to sign a document after the fact does not make the filming legal or consensual. It is normal to feel shocked, trapped, or panicked in this situation. Taking a moment to step away and seek expert advice is a protective and appropriate response.
+High-pressure “sign this now” requests around intimate filming are often about control and intimidation, not legitimacy. Feeling shocked, numb, or unsure is a normal response to coercion. You’re allowed to slow down, get support, and choose what happens next.
 
 ## Scope note
-This guide provides first-step stabilization for immediate safety and harm reduction. It does not provide legal advice or long-term litigation strategies.
+These are first steps only—focused on safety, reducing pressure, and preserving choices. A local advocate can help you think through medical care, reporting options, and safer communication without pushing you in any direction.
 
 ## Important note
-If you are in immediate physical danger, contact 911. Laws regarding non-consensual filming and "revenge porn" vary by state, and a local advocate or attorney can provide specific legal guidance for your jurisdiction.
+This is general information, not legal advice. If you’re in immediate danger, call 911. You deserve confidential support, and you can reach out even if you’re uncertain about what you want to do next.
 
 ## Additional Resources
-- https://rainn.org/reporting-sexual-assault-to-law-enforcement/how-to-report-tech-enabled-sexual-abuse/
-- https://www.womenslaw.org/about-abuse/abuse-using-technology/ways-survivors-use-and-abusers-misuse-technology/abuse-17
-- https://www.justice.gov/ovw/sharing-intimate-images-without-consent-know-your-rights
-- https://rainn.org/what-counts-as-sexual-violence/get-the-facts-about-tech-enabled-sexual-abuse/
-- https://www.womenslaw.org/about-abuse/abuse-using-technology/all
+- https://rainn.org/help-and-healing/hotline/
+- https://www.justice.gov/ovw/sexual-assault-medical-forensic-examination-safe-information
+- https://www.justice.gov/ovw/sexual-assault
+- https://womenshealth.gov/relationships-and-safety/other-types/sexual-coercion

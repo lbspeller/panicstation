@@ -1,93 +1,80 @@
----
+﻿---
 title: "What to do if… you see a roofline sagging slightly after severe weather and it looks new"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "roofline sagging slightly after severe weather"
-  - "roofline sagging looks new"
-  - "new roof sagging after storm"
-  - "what do i do if my roof is sagging"
-  - "help i see a dip in my roof"
-  - "what do i do if my roof looks uneven"
-  - "my new build roof is sagging"
-  - "roof ridge dipping after high winds"
-  - "visible dip in roofline"
-  - "sagging roof trusses"
-  - "ceiling cracking near roof"
-  - "doors sticking after heavy weather"
-  - "creaking sounds in attic"
-  - "popping noises in roof"
-  - "storm damage to roof structure"
-  - "newly built roof defect"
-  - "roofline looks wrong after storm"
-  - "sagging roofline cues"
-  - "structural concerns after weather"
-  - "loft space feeling unsafe"
-  - "roof movement after gale"
-  - "dipping ridge line"
-  - "cracks in ceiling corners"
-  - "roofline bowing after snow"
-  - "uneven roof tiles after rain"
-  - "newly finished roof dipping"
-  - "roof frame movement"
-  - "dangerous structure reporting uk"
-  - "reporting dangerous roof to council"
-  - "structural engineer for sagging roof"
-last_reviewed: "2026-03-17"
+  - roofline sagging after storm
+  - roof sagging slightly
+  - new roof looks wrong
+  - storm damage roof structure
+  - possible roof collapse risk
+  - roof truss movement
+  - roof ridge dipping
+  - ceiling cracking after wind
+  - doors sticking after storm
+  - creaking roof after weather
+  - water ingress attic after storm
+  - loft feels unsafe
+  - chimney or gable movement
+  - new build structural concern
+  - recently built roof sagging
+  - wind damage to roof frame
+  - heavy rain roof strain
+  - after severe weather house shifting
+  - roof looks uneven suddenly
+last_reviewed: "2026-03-04"
 ---
-# What to do if… you see a roofline sagging slightly after severe weather and it looks new (UK)
 
+# What to do if… you see a roofline sagging slightly after severe weather and it looks new (UK)
 ## Short answer
-Evacuate the area directly beneath the sag, isolate the loft space, and contact your local authority Building Control team to report a potentially dangerous structure.
+Treat a newly noticeable roofline sag after severe weather as a potential structural safety issue: keep people out from under it, avoid the loft/roof, and get urgent local-authority and professional advice on whether it’s safe.
 
 ## Do not do these things
-- Do not enter the loft, attic, or roof space to investigate the cause.
-- Do not climb onto the roof or use ladders to inspect the sagging area.
-- Do not attempt to shore up, prop, or brace the roof timbers yourself.
-- Do not apply weight to the floors or ceilings directly under the sag.
-- Do not ignore new "popping," "cracking," or "creaking" sounds coming from the roof.
-- Do not allow unsolicited contractors ("storm chasers") to perform immediate repairs without a formal structural assessment.
+- Do not go into the loft or onto the roof “to take a closer look” right now.
+- Do not try to prop, jack, or “brace” anything yourself.
+- Do not drill, cut, or remove ceilings/walls/timbers to investigate.
+- Do not ignore new sounds (creaking, popping) or cracks that are getting worse.
+- Do not let unsolicited “storm chasers” start work immediately without verifying identity, insurance, and a written scope.
 
 ## What to do now
-1. **Clear the area directly below and around the sagging roofline.** Ensure no people or pets are in rooms situated under the affected part of the structure.
-2. **Isolate the loft and upper floors.** Prevent anyone from entering the attic or the top floor if the movement appears significant or is accompanied by internal ceiling cracks.
-3. **Perform a visual check for internal structural cues from a safe distance.**
-   - Look for new diagonal cracks above door frames or in ceiling corners.
-   - Check if internal doors or windows have suddenly become difficult to open or close.
-   - Listen for ongoing structural noises such as snapping or loud creaks.
-4. **Call 999 if there is an immediate risk of collapse or public danger.**
-   - This includes situations where debris (tiles, masonry, timber) is falling onto public footpaths or roads.
-   - This includes visible, rapid worsening of the sag or separation of the roof from the walls.
-5. **Report the situation to your Local Authority Building Control department.** Search for your local council's "Dangerous Structures" or "Building Control" emergency line; most provide a 24-hour service for reporting structural hazards.
-6. **Contact your buildings insurance provider's emergency claim line.** Inform them of the sudden change in the roofline and follow their instructions regarding "making safe" the property.
-7. **Find a qualified professional to conduct an urgent structural assessment.**
-   - Locate a Chartered Structural Engineer via the **Institution of Structural Engineers (IStructE)**.
-   - Locate a Chartered Building Surveyor via the **Royal Institution of Chartered Surveyors (RICS)**.
-8. **Check for secondary utility hazards.**
-   - **If you smell gas or suspect a leak:** Evacuate to fresh air and call the **National Gas Emergency Service** on **0800 111 999**.
-   - **If you see damaged power lines or experience electrical sparking:** Call the **National Power Cut** line on **105** (or **03457 643643** in Northern Ireland).
-9. **Identify your warranty and builder details if the roof is recently built.**
-   - Determine if the property is within the first 2 years of completion (builder liability) or years 3-10 (structural insurance/warranty period).
-   - Locate your **NHBC Buildmark** or equivalent warranty documents to prepare for a formal notification alongside your standard home insurance.
+1. **Move people (and pets) away from the risk zone.** Stay out of rooms directly under the sagging area, and keep everyone out of the loft/attic space.
+2. **Do a quick safety scan from safe positions (no climbing).**
+   - Look for **new cracks** at ceiling corners, around doors/windows, or where walls meet ceilings.
+   - Check if **doors/windows suddenly stick**.
+   - Listen for **ongoing creaks/pops**. If you hear continuing movement, treat it as urgent.
+3. **If you think there’s any immediate collapse risk, leave and call 999.** “Immediate” includes: rapid worsening, falling debris, loud/continuous cracking, or visible separation/bowing.
+4. **Contact your local council/local authority urgently to report a potentially dangerous structure.** Different areas label this differently (for example, “dangerous structures”, “building control”, or “building standards”), and many have an out-of-hours number.
+   - **England & Wales:** you can use the GOV.UK “report a dangerous building or structure” service to find the right council contact.
+   - **Scotland/Northern Ireland:** contact your local authority directly (look for dangerous buildings/building standards/emergency out-of-hours contact).
+5. **Arrange a prompt structural assessment.** Ask for a **chartered structural engineer** or a **qualified building surveyor** experienced in post-storm structural safety.
+6. **Notify your insurer if you have buildings insurance.** Use their emergency/home claim line and ask what they want you to do next (for example, whether they’ll send an approved contractor for temporary making-safe).
+7. **Document what you can without taking risks.** Take photos/videos from ground level outside, and inside from safe doorways. Note the date/time and what weather event occurred. Do not enter unsafe areas for “better pictures”.
+8. **Handle utility hazards separately if they’re suspected.**
+   - **Smell gas / suspect a gas or carbon monoxide emergency:** get everyone to fresh air and call **0800 111 999**.
+   - **Damaged electrical equipment outside / power cut risk:** if it’s dangerous, call **105** (England/Scotland/Wales) or **03457 643643** (Northern Ireland).
+
+### If it “looks new” (new build / recent roof work)
+9. **Pull your paperwork now (10 minutes).** Find the completion date, builder/roofer details, and any warranty documents (for example, an NHBC or similar new-home warranty). Report the issue through the builder/warranty route **and** your insurer in parallel—don’t assume the cause yet.
 
 ## What can wait
-- You do not need to determine the cause (e.g., design flaw vs. storm damage) right now.
-- You do not need to obtain repair quotes until the structure is professionally stabilised or declared safe.
-- You do not need to take close-up photos of the damage from the roof level.
-- You do not need to resolve liability disputes with the builder or insurer in the first few hours.
+- You do not need to decide today whether this is “poor build quality” vs “storm damage”.
+- You do not need to choose a long-term repair plan or contractor before the structure is assessed as safe.
+- You do not need to argue liability with the builder/warranty/insurer right now—focus first on making-safe and getting an official/professional view.
+- You do not need to access the loft to “check for water” right now.
 
 ## Important reassurance
-Noticing a structural change and responding by creating distance is the most effective way to prevent injury. Houses often provide clear sensory warnings (sounds, sticking doors) before a major failure, and professional Building Control officers are trained to manage these exact scenarios.
+Noticing a slight sag and treating it cautiously is a sensible response. Severe weather can reveal hidden weaknesses quickly, and stepping back from the risk zone is the safest first move.
 
 ## Scope note
-This guide provides first-step stabilization and reporting instructions only. It does not cover long-term structural repairs, legal claims against builders, or detailed insurance negotiation.
+This is first-steps-only guidance for the hours after you notice a new roofline sag. Once you have confirmation what’s safe (or not safe), next steps may involve insurers, warranty providers, engineers, and formal repair quotes.
 
 ## Important note
-This information is for emergency stabilization and is not a substitute for professional engineering advice. If you suspect a collapse is imminent, evacuate immediately and contact emergency services.
+This is general information, not a substitute for an on-site structural assessment. If you believe there is any risk of collapse, prioritise getting to a safer place and contacting emergency services and your local authority.
 
 ## Additional Resources
-- https://www.abi.org.uk/products-and-issues/topics-and-issues/flooding/storms/
-- https://www.abi.org.uk/products-and-issues/topics-and-issues/flooding/storms/storm-faq/
-- https://www.citizensadvice.org.uk/consumer/insurance/types-of-insurance/buildings-insurance/
 - https://www.gov.uk/report-dangerous-building-structure
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/check-if-your-landlord-has-to-do-repairs/
+- https://www.nationalgas.com/emergency-contacts
+- https://prepare.campaign.gov.uk/be-informed-about-hazards/power-cuts/
+- https://powercuts.nationalgrid.co.uk/how-to-report-a-power-cut
+- https://www.nhbc.co.uk/homeowners/make-a-claim
+- https://www.istructe.org/resources/news/dealing-with-storm-damage-advice-for-uk-homeowners/

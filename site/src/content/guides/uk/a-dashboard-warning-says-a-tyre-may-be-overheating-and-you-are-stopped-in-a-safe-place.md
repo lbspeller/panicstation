@@ -1,94 +1,87 @@
----
+﻿---
 title: "What to do if… a dashboard warning says a tyre may be overheating and you are stopped in a safe place"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "tyre overheating warning"
-  - "tire overheating warning"
-  - "hot tyre light"
-  - "hot tire light"
-  - "tpms warning and hot tyre"
-  - "dashboard tyre temperature alert"
-  - "burning rubber smell in car"
-  - "wheel area feels hot"
-  - "pulled over safely tyre issue"
-  - "stopped in a safe place tyre"
-  - "motorway breakdown safe place"
-  - "emergency refuge area stopped"
-  - "tyre blowout risk"
-  - "tyre pressure when cold"
-  - "underinflated tyre heat"
-  - "dragging brake overheating wheel"
-  - "smoke near wheel arch"
-  - "vibration after tyre warning"
-  - "overheated tyre after long drive"
-  - "overheated tyre after motorway"
-  - "warning says tyre too hot"
-  - "help i have a hot tyre"
-  - "what do i do if my tyre is hot"
-  - "what do i do if tyre overheating light comes on"
-  - "my car says tyre overheating"
-  - "help my tyre is smoking"
-  - "what do i do if i stop with hot tyre"
-  - "car tyre temperature too high"
-  - "smell of burning rubber from wheel"
-  - "hot wheel rim after driving"
-last_reviewed: "2026-03-17"
+  - tyre overheating warning
+  - tire overheating warning
+  - hot tyre light
+  - hot tire light
+  - tpms warning and hot tyre
+  - dashboard tyre temperature alert
+  - burning rubber smell in car
+  - wheel area feels hot
+  - pulled over safely tyre issue
+  - stopped in a safe place tyre
+  - motorway breakdown safe place
+  - emergency refuge area stopped
+  - tyre blowout risk
+  - tyre pressure when cold
+  - underinflated tyre heat
+  - dragging brake overheating wheel
+  - smoke near wheel arch
+  - vibration after tyre warning
+  - overheated tyre after long drive
+  - overheated tyre after motorway
+  - warning says tyre too hot
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… a dashboard warning says a tyre may be overheating and you are stopped in a safe place (UK)
 
 ## Short answer
-Stay stopped, evacuate all passengers to a safe distance behind a barrier, and allow the tyre and braking system to cool completely before attempting any inspection or adjustment.
+Stay stopped, keep everyone well away from the wheel area, and let the tyre(s) cool fully before you touch anything, check pressures, or drive again.
 
 ## Do not do these things
-- Don’t resume driving to "check" if the warning light goes out.
-- Don’t attempt to release air from a hot tyre to lower the pressure.
-- Don’t touch the tyre, wheel rim, or brake components with your hands.
-- Don’t pour water or any liquid onto a hot wheel or tyre.
-- Don’t stand between the vehicle and oncoming traffic or near the affected wheel.
-- Don’t ignore crackling sounds, visible smoke, or a strong chemical burning smell.
+- Don’t continue driving “to see if it clears”.
+- Don’t make pressure decisions while the tyre is hot (including letting air out).
+- Don’t touch the tyre, wheel, or brake area with bare hands.
+- Don’t pour water on a hot tyre or wheel.
+- Don’t attempt wheel removal/jacking unless you are fully off the road in a genuinely safe place and you’re confident—otherwise get breakdown recovery.
+- Don’t ignore smoke, a strong burning smell, or crackling/popping noises.
 
 ## What to do now
-1. **Secure the vehicle in its current position.**  
-   **Switch on your hazard warning lights immediately.** Ensure the vehicle is in **Park** (automatic) or in gear (manual). Apply the parking brake, but be aware that if the brakes are the source of the heat, they may "bind" or smell strongly as they cool.
+1. **Make the stop safer (even if you’re already “safe”).**  
+   Hazard lights on. Put the car in **Park** (or in gear for a manual). Use the parking brake only as needed to prevent rolling. Keep passengers out of the traffic side.
 
-2. **Evacuate the vehicle safely.**  
-   **Exit all passengers through the doors furthest from the traffic.** If you are on a motorway or A-road, move everyone behind the safety barrier and stay well upstream of the vehicle. Do not stand directly behind or in front of the car.
+2. **Create distance from the risky area.**  
+   Everyone should stand well away from the wheel(s). If you’re near fast traffic, wait behind a barrier if there is one. Assume the tyre could fail.
 
-3. **Perform a visual "danger check" from a distance.**  
-   **Look for smoke, steam, or signs of melting rubber around the wheel arch.** 
-   - If you see flames or heavy smoke, move at least 50 metres away and call **999** immediately. 
-   - If no fire is visible, do not approach the wheel to feel for heat.
+3. **Do a quick “danger check” without getting close.**  
+   Look for smoke from a wheel arch, signs of fire, or a tyre that looks visibly distorted/flat.  
+   - **If you suspect fire (smoke/flames):** move well away from the vehicle and call **999**.
 
-4. **Identify your exact location.**  
-   **Check for marker posts or emergency area signs if you are on a motorway.** On traditional motorways, orange SOS phones are spaced every mile; on smart motorways, they are located in Emergency Areas (EAs). If you cannot find a phone, use a mobile mapping app or the numbers on the nearest blue/white driver location sign.
+4. **Let it cool before any inspection or pressure check.**  
+   Don’t drive and don’t handle the wheel area. For a meaningful “cold” pressure reading, it’s typically **at least a couple of hours after driving** (longer after high-speed driving), or follow your vehicle handbook guidance.
 
-5. **Contact National Highways or your breakdown provider.**  
-   **Use the roadside emergency telephone if one is available.** When using these phones, always face the oncoming traffic so you can see approaching hazards. If you are using a mobile, call National Highways on **0300 123 5000** or your recovery service.
+5. **Once cool, check only what you can check safely.**  
+   - Visually inspect the tyre sidewalls and tread for **bulges, splits, exposed cords**, or rubbed/melted areas (for example, from contact with the bodywork).  
+   - If you have a gauge, compare cold pressures to the vehicle’s **recommended** pressures (door/handbook), not the number on the tyre sidewall.
 
-6. **Allow the system to cool for at least two to three hours.**  
-   **Do not attempt to check tyre pressures until the rubber is cold to the touch.** High-speed driving or mechanical faults (like a sticking brake caliper) generate extreme heat that makes immediate pressure readings dangerous and inaccurate.
+6. **Choose the safest next move.**  
+   - **Any bulge/split/cords showing, repeated warning, or you’re unsure:** do **not** drive—call your breakdown provider.  
+   - **If a tyre is low once cold and looks undamaged:** inflate to the vehicle’s recommended pressure. If it won’t hold pressure or the warning returns soon after, stop and get breakdown recovery.
 
-7. **Inspect for structural damage once fully cooled.**  
-   **Look for bulges, "bubbling" on the sidewall, or exposed metal cords.** If the tyre appears distorted or has visible damage from the heat, do not attempt to drive. If no damage is visible, check the pressure against the vehicle handbook (not the tyre sidewall) using a gauge.
+7. **If you’re on a motorway or in an emergency area/refuge:**  
+   Use the **emergency roadside telephone** where provided and follow the operator’s advice before rejoining traffic. If you feel unsafe (for example, you can’t get to a place of relative safety), call **999**.
 
 ## What can wait
-- You do not need to determine if the cause is a brake fault, low pressure, or high ambient temperature while at the roadside.
-- You do not need to decide on a replacement tyre brand or repair shop immediately.
-- You do not need to notify your insurance company unless a fire or collision has occurred.
+- You don’t need to diagnose the exact cause right now (common causes include low pressure, damage, heavy load, sustained speed/heat, or a brake issue).
+- You don’t need to decide about repairs, tyre brands, or insurance at the roadside.
+- You don’t need to “fine-tune” pressures beyond restoring a clearly low tyre to the recommended setting once cold and only if it looks undamaged.
 
 ## Important reassurance
-A tyre temperature or overheating warning is a preventative alert. Stopping immediately has likely prevented a high-speed blowout or a vehicle fire. It is normal to feel anxious or startled by the warning; taking a safe pause is the correct technical response.
+A “tyre overheating” alert is designed to make you stop before something fails. Stopping in a safe place and giving it time to cool is the safest first move.
 
 ## Scope note
-This guide provides first-step stabilization for a vehicle already stopped. It does not cover wheel changing, which should only be performed by professionals in high-traffic environments.
+This is first-steps-only guidance to reduce immediate risk (burns, fire, blowout, unsafe roadside decisions). A tyre shop or mechanic may be needed to confirm the cause before you return to normal driving.
 
 ## Important note
-This information is for emergency stabilization and is not a substitute for professional mechanical assessment. If you are on a motorway and cannot reach a place of relative safety, or if you see smoke or flames, call 999. Do not drive a vehicle with visible tyre damage or a persistent overheating warning.
+This is general information for a stressful moment, not professional advice. If you see smoke/flames, feel unsafe where you’re stopped, or the tyre shows any damage once cool, don’t drive—prioritise safety and get professional roadside help.
 
 ## Additional Resources
-- https://www.rac.co.uk/drive/advice/know-how/car-dashboard-warning-lights-meaning/
-- https://www.theaa.com/breakdown-cover/advice/dashboard-warning-lights
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
+- https://nationalhighways.co.uk/road-safety/driving-on-motorways/
+- https://www.theaa.com/cars/advice/top-tips/tyre-pressures-cold
 - https://www.rac.co.uk/drive/advice/how-to/checking-tyre-pressure/
-- https://www.rac.co.uk/drive/advice/tyres/tyre-safety/
-- https://www.highwaycodeuk.co.uk/vehicle-maintenance-safety-and-security.html
+- https://www.tyresafe.org/vehicle-owners/

@@ -1,113 +1,94 @@
----
+﻿---
 title: "What to do if… you find a new device listed as “trusted” on your Apple, Google, or Microsoft account"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "unknown trusted device"
-  - "new trusted device apple account"
-  - "apple account trusted device"
-  - "google account unfamiliar device"
-  - "microsoft account unknown device"
-  - "device you dont recognise"
-  - "someone added a trusted device"
-  - "signed in on another device"
-  - "account takeover warning"
-  - "account security alert device"
-  - "strange device in account"
-  - "new login device listed"
-  - "security settings changed"
-  - "mfa device added"
-  - "passkey device added"
-  - "trusted computer added"
-  - "account is hacked"
-  - "unexpected device in devices list"
-  - "new phone in trusted devices"
-  - "new laptop in trusted devices"
-  - "trusted device listed"
-  - "unknown apple account device"
-  - "unknown google account device"
-  - "unknown microsoft account device"
-  - "what do i do if unknown device"
-  - "what do i do if trusted device added"
-  - "what do i do if account hacked"
-  - "what do i do if strange login"
-  - "help i see new device"
-  - "help i have unknown device"
-  - "help i have security alert"
-  - "help i have trusted device"
-  - "my apple account has new device"
-  - "my google account has new device"
-  - "my microsoft account has new device"
-  - "my account shows unknown device"
-last_reviewed: "2026-03-17"
+  - unknown trusted device
+  - new trusted device apple id
+  - apple account trusted device
+  - google account unfamiliar device
+  - microsoft account unknown device
+  - device you dont recognise
+  - someone added a trusted device
+  - signed in on another device
+  - account takeover warning
+  - account security alert device
+  - strange device in account
+  - new login device listed
+  - security settings changed
+  - 2fa device added
+  - passkey device added
+  - trusted computer added
+  - i think my account is hacked
+  - unexpected device in devices list
+  - new phone in trusted devices
+  - new laptop in trusted devices
+last_reviewed: "2026-03-08"
 ---
-# What to do if… you find a new device listed as “trusted” on your Apple, Google, or Microsoft account (USA)
 
+# What to do if… you find a new device listed as “trusted” on your Apple, Google, or Microsoft account (USA)
 ## Short answer
-Treat the unknown device as a sign of account compromise. Change your account password immediately from a secure device and remove the unrecognized device from your trusted list to terminate its access.
+Treat it as a possible account takeover: from a device you control, change the password and remove/sign out the unknown device and sessions right away.
 
 ## Do not do these things
-- Do not click links in "Security Alert" emails or text messages; navigate directly to the official account website.
-- Do not assume the device is a system error or a delay in reporting your own activity.
-- Do not remove the device without also changing your password and recovery information.
-- Do not use a public or shared computer to perform these security updates.
-- Do not delete your own primary multi-factor authentication (MFA) method before adding a replacement.
+- Don’t click “security alert” links from email/text to fix this—go directly to your Apple/Google/Microsoft account settings instead.
+- Don’t assume “trusted” means safe; attackers can add their device as trusted.
+- Don’t remove the device but leave your password, recovery email/phone, or MFA methods unchanged.
+- Don’t do account recovery on a shared/work-managed/public computer if you can avoid it.
+- Don’t rush into wiping your phone/laptop if it’s your only MFA device—you can lock yourself out.
 
 ## What to do now
-1. **Access your account from a secure, known device.**  
-   **Use a personal phone or computer on a private network to sign in to the affected account.**
-   - Apple: account.apple.com
-   - Google: myaccount.google.com
-   - Microsoft: account.microsoft.com
+1. **Switch to a safer login situation (30 seconds).**  
+   Use your personal phone/computer on a trusted network. If you’re worried that device is compromised, use a different device you control and a fresh browser session.
 
-2. **Update your primary security credentials.**  
-   **Change your account password to a unique, long string of characters not used elsewhere.**
-   - Verify that your recovery email and phone number have not been changed.
-   - If you use multi-factor authentication, check that no unrecognized methods (like an attacker's authenticator app) were added.
+2. **Lock the account down first (password + MFA).**  
+   - Change the password to a long, unique one.  
+   - Turn on (or re-check) multi-factor authentication (MFA). If available, prefer authenticator apps or passkeys over SMS.  
+   - **Before removing any sign-in methods**, make sure you still have at least one method you control (so you don’t lock yourself out).
 
-3. **Remove the unrecognized trusted device.**  
-   **Locate the device list and remove any entry you do not physically possess or recognize.**
-   - Apple: Go to Sign-In and Security / Account Security / Trusted Devices. Select the device and choose Remove from Account.
-   - Google: Go to Security / Your devices / Manage all devices. Select the unknown device and choose Sign out.
-   - Microsoft: Go to Devices. Select the unknown device and choose Remove device.
+3. **Remove the unknown “trusted” device and sign out sessions.**  
+   - **Apple:** review your Apple Account device list/trusted devices and remove anything you don’t recognize.  
+   - **Google:** in Google Account **Security**, review **Your devices** and sign out anything unfamiliar.  
+   - **Microsoft:** remove/unlink unfamiliar devices from your Microsoft account devices list, and use “sign out everywhere” if you suspect unauthorized access (it may take up to about a day to fully apply—keep going with the steps below in the meantime).
 
-4. **Force a global sign-out of all sessions.**  
-   **Initiate a "sign out everywhere" command to terminate active sessions on all hardware.**
-   - Microsoft: Under Security / Advanced security options, select Sign out everywhere (this process can take up to 24 hours to complete across all services).
-   - Google: Removing a device automatically signs it out; review recent security activity to confirm.
+4. **Confirm recovery details and trusted methods are yours.**  
+   Check and correct: recovery email(s), phone number(s), backup codes, passkeys/security keys, and remembered/trusted browsers/devices. Remove anything you didn’t add.
 
-5. **Review third-party app permissions.**  
-   **Check for unrecognized apps or services that have been granted access to your account data.**
-   - Remove any third-party access that you did not explicitly authorize.
-   - Check for email forwarding rules or filters that may have been set up to intercept your messages.
+5. **Check for “keep access” settings and connected apps.**  
+   In the affected email/account settings, look for: forwarding addresses, rules/filters, and third-party app access you don’t recognize. Remove them.
 
-6. **Monitor financial accounts linked to the platform.**  
-   **Review recent purchase history in the App Store, Google Play, or Microsoft Store.**
-   - If unauthorized charges appear, contact your bank or credit card issuer immediately.
+6. **Quickly check for financial or identity impact.**  
+   - Review recent sign-ins/security events.  
+   - Review purchase/subscription history tied to the account.  
+   - If any card/bank info was used, contact your bank or card issuer using the official number on your card or statement.
 
-7. **Report the incident to federal authorities.**  
-   **File a report if you have experienced financial loss or identity theft.**
-   - Report cyber-enabled fraud to the FBI Internet Crime Complaint Center (IC3) at ic3.gov.
-   - Report identity theft and create a recovery plan at IdentityTheft.gov (FTC).
-   - Contact local law enforcement if there is an immediate threat to your physical safety.
+7. **Preserve a small amount of evidence (without spiraling).**  
+   Screenshot the unknown device entry and recent login/security event details. Note dates/times.
+
+8. **If there’s fraud or loss, report through the common U.S. channels (type the official site address yourself).**  
+   - For cyber-enabled fraud/scams or money loss connected to the takeover, you can report to the **FBI’s IC3**.  
+   - For consumer recovery steps for hacked accounts, use the **FTC** guidance (and if you suspect identity theft, follow the pathway from there to IdentityTheft.gov).  
+   If you’re in immediate danger or a local crime is actively in progress, call 911.
 
 ## What can wait
-- You do not need to notify all of your contacts unless you confirm that messages were sent from your account to theirs.
-- You do not need to factory reset your own known devices unless you suspect they are infected with malware.
-- You do not need to change passwords for unrelated accounts immediately, though you should do so later if you reused the same password.
+- You don’t need to reset every password you’ve ever used right now—start with the affected Apple/Google/Microsoft account and any email it can reset.
+- You don’t need to contact everyone immediately unless messages were sent from your account.
+- You don’t need to factory reset devices unless there are strong signs of malware; focus first on account access control.
 
 ## Important reassurance
-Seeing an unknown device is a serious indicator, but taking immediate steps to change your password and remove the device effectively cuts off the attacker's access. These platforms provide tools specifically designed to reclaim and lock down accounts once unauthorized access is detected.
+This is fixable. Unknown “trusted” devices often come from password reuse, phishing, or automated credential-stuffing attempts. A careful sequence—secure access, remove sessions/devices, then lock down recovery and MFA—usually stops the takeover.
 
 ## Scope note
-This guide provides first-step stabilization for personal account security. If the account is managed by an employer or educational institution, you must also report the incident to their IT security department.
+These are first steps to prevent immediate harm. If this account is tied to work, school, or a family organizer role, involve the appropriate IT/admin support next and secure any linked accounts.
 
 ## Important note
-This information is for procedural guidance and does not constitute legal or technical expert advice. Account interface labels and security protocols may change; always refer to the official support documentation for Apple, Google, and Microsoft.
+This is general information, not legal or professional advice. Account settings and labels vary by platform and update over time; type official site addresses into your browser instead of using links from alerts.
 
 ## Additional Resources
-- https://support.apple.com/en-us/122621
 - https://support.apple.com/en-us/102649
 - https://support.google.com/accounts/answer/3067630?hl=en
-- https://support.microsoft.com/en-us/account-billing/what-happens-if-there-s-an-unusual-sign-in-to-your-account-eba43e04-d348-b914-1e95-fb5052d3d8f0
-- https://support.microsoft.com/en-us/account-billing/what-is-the-recent-activity-page-23cf5556-4dbe-70da-82c8-bb3a8d8f8016
+- https://support.microsoft.com/en-us/windows/manage-devices-used-with-your-microsoft-account-d4044995-81db-b24b-757e-1102d148f441
+- https://support.microsoft.com/en-us/account-billing/how-to-sign-out-of-your-microsoft-account-everywhere-58da4a74-a719-43a6-9dd0-74a7e613229f
+- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
+- https://www.ic3.gov/
+- https://www.cisa.gov/topics/cybersecurity-best-practices/multifactor-authentication

@@ -1,84 +1,74 @@
----
+﻿---
 title: "What to do if… your passport chip or photo page will not scan during airport self-service checks"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "passport won't scan"
-  - "passport chip failure"
-  - "photo page not reading"
-  - "egate rejection help"
-  - "biometric passport error"
-  - "airport kiosk passport problem"
-  - "help i can't scan my passport"
-  - "help my passport chip is broken"
-  - "what do i do if my passport wont scan"
-  - "what do i do if egates reject me"
-  - "passport scanner not working"
-  - "machine readable zone scan failed"
-  - "passport laminate lifting"
-  - "document check required airport"
-  - "airline kiosk document error"
-  - "failed biometric scan arrival"
-  - "passport damaged at airport"
-  - "cannot use egates"
-  - "egate age requirements uk"
-  - "passport cover blocking scanner"
-  - "digital travel credential failure"
-  - "manual passport control lane"
-  - "border force officer assistance"
-  - "emergency travel document uk"
-  - "boarding pass says doc check"
-  - "check in machine wont read passport"
-  - "mrz line damaged"
-  - "passport chip not detected"
-  - "water damaged passport scan"
-  - "unreadable passport chip"
-last_reviewed: "2026-03-17"
+  - passport won’t scan
+  - passport chip not reading
+  - photo page not scanning
+  - airport self service check
+  - e-gates not working
+  - egate passport rejected
+  - biometric passport scan failed
+  - passport reader won’t read
+  - machine readable zone issue
+  - mrz line won’t scan
+  - passport cover blocking scan
+  - kiosk document verification failed
+  - airline check in kiosk passport
+  - boarding pass says docs check
+  - travel document check problem
+  - passport damaged or worn
+  - passport laminate lifting
+  - airport manual document check
+  - border control manual inspection
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… your passport chip or photo page will not scan during airport self-service checks (UK)
 
 ## Short answer
-Stop attempting to use the machine after two failed tries and proceed to a staffed desk or manual border lane immediately. Staff are trained to handle manual document verification, and repeated retries risk missing your flight or boarding window.
+Stop trying repeatedly and switch to a staffed check. Airport and border staff can complete the identity/document checks manually, and repeated retries can waste the time you need to make your flight.
 
 ## Do not do these things
-- Don't apply physical pressure to the passport reader or attempt to bend the document to force a connection.
-- Don't use cleaning chemicals, pens, or sharp objects to scrape the photo page or the Machine Readable Zone (MRZ).
-- Don't hand your passport to anyone other than uniformed airport staff or Border Force officers.
-- Don't assume a scan failure means you are being detained or denied entry; technical glitches and chip failures are routine.
-- Don't wait at the machine for more than 60 seconds; if it fails twice, the issue is likely the document or the reader.
+- Don’t force the passport into the reader, press hard enough to bend it, or scrape at the photo-page laminate.
+- Don’t keep retrying across multiple machines until you’re close to boarding time.
+- Don’t assume you’re “in trouble” because an eGate or kiosk rejects you—technical issues and additional checks happen.
+- Don’t hand your passport to strangers offering to “help” away from official desks.
 
 ## What to do now
-1. **Move to a safe pause away from the machine to check your document and time.** If you are within 45 minutes of your flight or in a long queue, prioritize finding a staff member over troubleshooting the hardware.
-2. **Perform one final, controlled re-scan after checking basic physical factors.** **Ensure any passport covers or sleeves are removed.** 
-   - Verify you are at the correct machine (eGates require a biometric symbol on the cover, and users must be 10+ years old; 10–17 year olds must be accompanied by an adult).
-   - Ensure the photo page is completely flat against the glass and aligned with the guides.
-   - Check the Machine Readable Zone (the two lines of text at the bottom) for smudges or moisture; wipe gently with a dry, soft cloth if needed.
-3. **Switch to a staffed service point immediately if the second scan fails.** 
-   - **At UK Arrival eGates:** Look for the "Assistance" or "Staffed Lane" sign nearby; a Border Force officer will be stationed there to process failed scans manually.
-   - **At Departure Kiosks:** Go to the airline’s staffed check-in or bag-drop desk and inform them the self-service machine could not read your document.
-4. **Use clear, operational language to expedite your handling.** **Tell the official: "The self-service machine will not read my passport; I need a manual document check."** This specific phrasing helps staff identify that the issue is technical rather than a visa or eligibility problem.
-5. **Point out any visible damage if you suspect it caused the failure.** **If you see lifting laminate, water stains, or deep scratches on the photo page, show them to the officer.** They will determine if the document is "damaged" (requiring replacement) or merely "worn" (acceptable for the current journey).
-6. **Seek consular assistance only if the document is rejected by staff and you are currently abroad.** **Call the Foreign, Commonwealth & Development Office (FCDO) at +44 (0)20 7008 5000 if you cannot board your flight and need an Emergency Travel Document.** 
-   - Note that an Emergency Travel Document costs £100 and may require an in-person appointment at the nearest British embassy or consulate.
+1. **Step aside, breathe, and protect your time window.** If you’re on a tight schedule, treat this as a “go to staffed desk now” moment rather than a troubleshooting project.
+2. **Try one careful re-scan only (then stop).**
+   - Remove any passport cover/wallet.
+   - Open the photo page fully so it lies as flat as possible.
+   - Make sure the photo page (and the lines of text at the bottom) are clean and dry; gently wipe with a soft cloth.
+   - Follow the machine prompts exactly (correct page, fully inserted, hold still).
+3. **If it still won’t scan, use the staffed option immediately.**
+   - **If this is at UK border eGates on arrival to the UK (and at UK juxtaposed controls such as Eurostar):** follow signs to a **Border Force officer** / staffed passport control lane.
+   - **If this is an airline self-service kiosk (check-in / bag drop / “document check”):** go to the airline’s **manned check-in/bag-drop desk** or ask a uniformed ground staff member to direct you to **document verification**.
+4. **Say the simple, useful sentence:** “My passport won’t scan at the self-service machine—can you do a manual document check?” (This helps staff route you correctly.)
+5. **If you suspect physical damage, point it out calmly.** Examples: lifting laminate on the photo page, torn/creased photo page, water damage, deep scratches, or anything that looks altered. Staff can tell you what they can accept today and what must be replaced.
+6. **If you’re abroad and this blocks travel, shift to “today’s acceptance” first.**
+   - Ask the airline what document condition they’ll accept for boarding today, and whether they can rebook you while you resolve it.
+   - If you cannot travel and need consular help, contact the **nearest British embassy/consulate** for options in your location (availability depends on circumstances).
 
 ## What can wait
-- You do not need to determine if your passport chip is "faulty" (a manufacturing error) or "damaged" while at the airport.
-- You do not need to file a formal report about the machine failure; the system logs the rejection automatically.
-- You do not need to pay any fees at the airport for a failed scan.
-- You can wait until you return home to apply for a replacement if the staff allow you to travel on the current document.
+- You do not need to decide today whether the passport is “faulty” or “damaged” in an official sense.
+- You do not need to file any report at the airport unless staff specifically instruct you to.
+- You can sort replacement paperwork after you’re safely through the immediate journey (or after you’ve been rebooked).
 
 ## Important reassurance
-Self-service scanner failures are extremely common and occur for many reasons, including machine sensitivity, lighting interference, or minor chip wear. Being directed to a person is a standard part of airport operations and does not imply you have committed an offence or that your passport is invalid.
+Self-service failures are common and usually mean “manual check needed,” not “you’ve done something wrong.” Staffed checks exist for exactly this situation, and being routed to a person is a normal outcome.
 
 ## Scope note
-This guide provides first-step stabilization for document scan failures at airports. It does not cover long-term passport replacement procedures, detailed visa advice, or legal appeals for entry refusal.
+This is first steps only for the airport moment. Follow-up steps (replacement, timing, fees) depend on whether the issue was the machine, handling, or genuine damage/fault.
 
 ## Important note
-Airport and border procedures are subject to the discretion of individual officers and airline policies. Having a valid Electronic Travel Authorisation (ETA) or visa is still required even if the passport scans correctly. If your passport is deemed too damaged for travel by staff, you must follow their instructions regarding rebooking or emergency documentation.
+This is general information, not legal advice. Airport procedures vary by airline and location, and border officers/airline staff can require additional checks. If you think your passport is damaged or has been tampered with, avoid further handling and follow staff instructions.
 
 ## Additional Resources
+- https://www.gov.uk/uk-border-control/at-border-control
 - https://www.gov.uk/government/publications/coming-to-the-uk/reasons-you-may-not-get-through-epassport-gates-egates
 - https://assets.publishing.service.gov.uk/media/661fc9603771f5b3ee757e45/Border_Force_letter_about_eGates.pdf
 - https://www.gov.uk/government/publications/damaged-and-faulty-passports/damaged-british-passports-accessible
-- https://www.gov.uk/passport-advice-line
-- https://www.gov.uk/get-a-passport-urgently
+- https://www.gov.uk/government/publications/damaged-and-faulty-passports

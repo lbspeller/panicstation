@@ -1,95 +1,81 @@
----
+﻿---
 title: "What to do if… your messaging app shows your account is linked to a new companion device you do not recognise"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "password manager not unlocking"
-  - "password vault wont open"
-  - "cant access saved logins"
-  - "locked out of password manager"
-  - "forgot master password"
-  - "master password not working"
-  - "password manager stuck loading"
-  - "password manager app broken"
-  - "password manager sync not working"
-  - "cant get into 1password"
-  - "cant unlock bitwarden"
-  - "cant access lastpass vault"
-  - "icloud passwords not accessible"
-  - "google password manager locked out"
-  - "lost two factor codes"
-  - "lost authenticator access"
-  - "emergency access password manager"
-  - "recovery code not found"
-  - "cant reset passwords quickly"
-  - "password manager says wrong password"
-  - "vault recovery key lost"
-  - "master password hint not working"
-  - "what do i do if my password manager is locked"
-  - "what do i do if i forgot my master password"
-  - "what do i do if my vault wont open"
-  - "what do i do if 1password wont accept my password"
-  - "help i cant get into my password vault"
-  - "help i lost my password manager recovery code"
-  - "my password manager app is frozen"
-  - "my bitwarden master password is not working"
-  - "red banner on login screen"
-  - "unexpected mfa prompt on phone"
-  - "invalid master password error"
-  - "cannot reach sync server"
-  - "forgotten master password"
-  - "frozen login screen"
-  - "wrong master password"
-last_reviewed: "2026-03-17"
+  - unknown linked device
+  - companion device you don't recognise
+  - new device connected to messages
+  - someone linked my messaging account
+  - suspicious linked session
+  - linked devices notification
+  - whatsapp linked devices unknown
+  - signal linked device i don't know
+  - messages for web paired without me
+  - account session i didn't approve
+  - possible account takeover
+  - phone may be compromised
+  - someone reading my messages
+  - qr code pairing scam
+  - messaging account hacked
+  - device added to account alert
+  - login activity i don't recognise
+  - secure my messaging account now
+  - sign out other devices
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your messaging app shows your account is linked to a new companion device you do not recognise (UK)
 
 ## Short answer
-Stop attempting random passwords to avoid permanent lockout or data corruption. Verify your device time, check for service outages, and attempt access through a secondary device or the web vault before using official recovery codes.
+Treat it as a live compromise: immediately unlink/log out that companion device from inside the app, then secure the underlying account (new password + 2-step verification) from a device you trust.
 
 ## Do not do these things
-- Don't uninstall the app or clear browser data yet; if your vault is not synced to the cloud, this may delete the only remaining encrypted copy of your data.
-- Don't click on sponsored search results for "Password Manager Support" as these are frequently used by scammers to harvest master passwords.
-- Don't repeatedly enter incorrect passwords in rapid succession; many managers use "key stretching" which makes each attempt slower and can eventually trigger a hard lockout.
-- Don't share your recovery PDF, Secret Key, or QR codes with anyone claiming to be "support" over the phone or social media.
-- Don't attempt to "reset" the vault until you have confirmed that no other logged-in device (like an old tablet or work laptop) has access.
+- Don’t “test” the situation by messaging the unknown device/user or sending codes/screenshots to anyone.
+- Don’t approve any prompts you didn’t initiate (QR pairing, “new device” pop-ups, login approvals).
+- Don’t change lots of settings at random first — unlinking/logging out unknown devices comes first.
+- Don’t reuse an old password or a similar “variation” (attackers often try common variants).
+- Don’t ignore it because “nothing looks different” — companion devices can quietly mirror messages.
 
 ## What to do now
-1. **Stabilize the device and check hardware inputs.** Ensure your device is plugged in, Caps Lock is off, and you are using the correct keyboard language layout (e.g., UK vs US English).
-2. **Verify the system time and internet connection.** Check that your device date and time are set to "Automatic," as a mismatch of even a few minutes can cause multi-factor authentication (MFA) and encryption handshakes to fail.
-3. **Attempt access via an alternative "path" to isolate the fault.** Try to log in through the official web vault in a private / incognito browser window, or check a secondary device where you are already signed in.
-   - If the web vault works but the app doesn't, the issue is local to the device.
-   - If no devices work, the issue is likely account-wide or a provider outage.
-4. **Check the official service status page for your provider.** Search for the name of your password manager plus "status" (e.g., "1Password Status" or "Bitwarden Status") to see if there is a known server-side issue.
-5. **Locate and use your official recovery materials.** Find the physical or digital "Emergency Kit," "Recovery Key," or "Master Password Hint" you were prompted to save when creating the account.
-   - **For 1Password:** Use the "Secret Key" found on your Emergency Kit PDF.
-   - **For Bitwarden:** Use the "Recovery Code" if you have lost your 2FA device.
-   - **For LastPass:** Use the "Password Hint" email or attempt "Mobile Account Recovery" if you previously enabled biometrics.
-   - **For Google/iCloud:** Follow the standard OS-level account recovery process for your Google or Apple ID.
-6. **Request help from an administrator if you are on a Family or Business plan.** Contact the "Family Organizer" or your company IT admin, as they can often trigger a secure "Account Recovery" process that allows you to reset your password without losing vault data.
-7. **Secure your primary email account immediately.** Since most recovery paths involve email, ensure your email password is unique and that MFA is active on that account specifically.
-8. **Report suspected criminal activity if you believe you have been hacked.** If you notice money missing or receive unexpected MFA prompts, take the following steps:
-   - **England, Wales, and Northern Ireland:** Report to **Report Fraud** online at `reportfraud.police.uk` or call **0300 123 2040**.
-   - **Scotland:** Report to **Police Scotland** by calling **101**.
-   - **Suspicious messages:** Forward suspicious emails to `report@phishing.gov.uk` and scam texts to `7726`.
+1. **Get to a safer pause and use a trusted connection.** If you’re on public Wi-Fi, switch to mobile data or a known safe network before you do anything else.
+2. **Unlink the unknown companion device immediately (inside the messaging app).**  
+   - Look for menus like **Linked devices / Companion devices / Device pairing / Sessions** and **log out/remove** anything you don’t recognise.  
+   - If there are multiple unknown entries, remove them all.
+3. **Take quick evidence for yourself (30 seconds).** Screenshot the linked device list showing device names, dates/times, and any “last active” info. This helps later if support, your employer, or police ask what happened.
+4. **Secure the account behind the messaging app (from a clean device).** Do these in this order:
+   - **Change the account password** (or your Apple/Google account password if that’s what the app relies on).
+   - **Turn on 2-step verification (2SV)** / two-factor authentication in the account security settings.
+   - **Sign out of other sessions/devices** in the account’s security page (look for “Your devices” / “Manage devices” / “Sign out all”).
+5. **If you can’t remove the device (or it comes back), escalate immediately.** Use the app/provider’s **official website** and start their **account recovery/support** flow (avoid links from messages or emails you weren’t expecting).
+6. **Check the email account that can reset your messaging account.** Attackers often keep access by adding hidden rules. Quickly check for:
+   - New **forwarding addresses**, **mail rules/filters**, or unfamiliar **recovery email/phone numbers**.
+7. **Rule out SIM-swap risk (important if you use SMS codes).**
+   - If your phone suddenly lost signal earlier, you got “SIM changed” messages, or you can’t receive texts/calls, contact your mobile network provider using a known number (from their official site or your bill) and ask them to **check for unauthorised SIM swaps/porting** and add extra security where available.
+8. **Tell a small number of people the minimum.** If the attacker could message as you, send a short note (via a different channel, if possible) to close contacts or any group admins: “My account may have been accessed. If you get unusual messages/links from me, don’t act on them.”
+9. **If money, threats, or impersonation are involved, report it.**
+   - In the UK, report cybercrime/fraud to **Report Fraud** (England, Wales, and Northern Ireland).  
+   - If you live in **Scotland** (or the crime happened there), report via **Police Scotland** (often via **101**).  
+   - If the crime is happening right now or you’re in immediate danger, use **999**.
 
 ## What can wait
-- You do not need to choose a new password manager provider immediately.
-- You do not need to change every single password in your vault once you regain access; focus only on high-value accounts (email, banking).
-- You can wait to perform a full malware scan until after you have secured your primary email.
+- You do **not** need to work out *how* it happened right now.
+- You do **not** need to confront anyone, post public warnings, or gather “proof” beyond a couple of screenshots.
+- You do **not** need to factory-reset your phone unless you later confirm malware or ongoing re-linking.
 
 ## Important reassurance
-Regaining access to a password manager is often a matter of finding the right "entry point" (such as a forgotten secondary device or a cached web session). Panic often leads to "resetting" accounts too early; taking a few minutes to look for your original recovery codes can prevent permanent data loss.
+This situation is common and fixable. Acting quickly to unlink the device and secure the underlying account usually stops message mirroring fast, even if you’re not sure how the link was created.
 
 ## Scope note
-This guide covers immediate stabilization and recovery paths for commercial password managers. It does not provide technical instructions for "cracking" or bypassing encryption, which is generally impossible by design in zero-knowledge systems.
+These are first steps to stop access and prevent immediate harm. If the device reappears after you remove it, you may need deeper account recovery (and potentially device security checks) with the provider’s support.
 
 ## Important note
-This information is for general guidance and does not constitute professional technical or legal advice. Recovery options are strictly limited by the specific security model of your chosen provider. If you cannot produce a master password or recovery key, the provider may be unable to retrieve your data due to zero-knowledge encryption.
+This guide gives general, practical first actions and isn’t legal or technical-forensics advice. If you believe you’re at risk of targeted harassment, stalking, or repeated account compromise, consider getting specialist support and making a formal report.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/news/ncsc-warns-of-messaging-app-targeting
-- https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online
-- https://faq.whatsapp.com/378279804439436
-- https://faq.whatsapp.com/834124628020911
 - https://faq.whatsapp.com/1428782138011916
+- https://support.signal.org/hc/en-us/articles/360007321111-Unlinking-devices
+- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.ncsc.gov.uk/files/recovering-hacked-accounts-infographics.pdf
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/

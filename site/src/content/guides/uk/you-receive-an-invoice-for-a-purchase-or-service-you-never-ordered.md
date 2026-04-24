@@ -1,91 +1,83 @@
----
+﻿---
 title: "What to do if… you receive an invoice for a purchase or service you never ordered"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "invoice i never ordered"
-  - "unexpected bill for services"
-  - "fake invoice uk"
-  - "invoice scam email"
-  - "bill for something i didnt buy"
-  - "demand for payment i dont recognise"
-  - "unsolicited invoice"
-  - "wrong name on invoice"
-  - "invoice to old address"
-  - "payment request phishing"
-  - "company says i owe money"
-  - "debt letter not mine"
-  - "late fee threat invoice"
-  - "credit rating threat letter"
-  - "direct debit set up i didnt authorise"
-  - "purchase i didnt make invoice"
-  - "scam payment request uk"
-  - "invoice for subscription i never started"
-  - "fraud invoice by post"
-  - "help i got a fake bill"
-  - "what do i do if i get a fake invoice"
-  - "what do i do if a company bills me by mistake"
-  - "what do i do if i get a bill for someone else"
-  - "what do i do if i get a debt collection letter"
-  - "my bank account has an unknown charge"
-  - "my credit card has an unknown charge"
-  - "help i am being scammed by an invoice"
-  - "help i received a suspicious bill"
-  - "smell of scam invoice"
-  - "fake logo on bill"
-  - "threat of legal action on invoice"
-  - "urgent payment required notice"
-  - "unknown subscription charge uk"
-  - "payment demand for unordered goods"
-last_reviewed: "2026-03-17"
+  - invoice i never ordered
+  - unexpected bill for services
+  - fake invoice uk
+  - invoice scam email
+  - bill for something i didn't buy
+  - demand for payment i don't recognise
+  - unsolicited invoice
+  - wrong name on invoice
+  - invoice to old address
+  - payment request phishing
+  - company says i owe money
+  - debt letter not mine
+  - late fee threat invoice
+  - credit rating threat letter
+  - direct debit set up i didn't authorise
+  - purchase i didn't make invoice
+  - scam payment request uk
+  - invoice for subscription i never started
+  - fraud invoice by post
+last_reviewed: "2026-01-09"
 ---
-# What to do if… you receive an invoice for a purchase or service you never ordered (UK)
 
+# What to do if… you receive an invoice for a purchase or service you never ordered (UK)
 ## Short answer
-Do not pay the invoice, do not use any contact details provided within the document, and do not click any links. Verify the status of your accounts independently using official apps or websites you have found yourself to confirm if any real transaction has occurred.
+Don’t pay it, and don’t use the contact details on the invoice. Verify safely via a trusted route (your own bank/app/portal or independently found official contact details) and stop any payments you didn’t authorise.
 
 ## Do not do these things
-- Don't pay the amount requested to "make the problem go away" or avoid threatened late fees.
-- Don't click links, download attachments, or scan QR codes contained in a suspicious email or text.
-- Don't call phone numbers or use email addresses printed on the invoice itself.
-- Don't provide bank details, card numbers, or copies of your ID to "prove" who you are to the sender.
-- Don't ignore the document if it appears to be a genuine County Court Judgment (CCJ) or official court claim - these require a specific legal response.
-- Don't admit liability or agree to a "temporary" payment plan while you investigate.
+- Don’t pay “just to stop it escalating” or to avoid a “late fee” while you’re unsure.
+- Don’t click links, scan QR codes, open attachments, or call the phone number shown on the invoice.
+- Don’t share bank details, card details, one-time codes, passwords, or photo ID in response to the invoice.
+- Don’t admit you owe anything or agree to a payment plan “until it’s sorted” (keep it as “I don’t recognise this”).
+- Don’t ignore documents that look like official court paperwork — handle those promptly and separately.
+- Don’t throw the invoice away (keep a copy in case you need to dispute or report it).
 
 ## What to do now
-1. **Secure the evidence without interacting with the sender.** Save the original email as a file (including headers if possible), take screenshots of text messages, or keep physical letters and their envelopes.
-2. **Check your actual financial statements through a trusted route.** Log in to your banking app or online portal directly (not via a link) to see if any matching funds have actually left your account or if any new "Pending" transactions appear.
-3. **Contact your bank immediately if you find an unauthorised transaction.** Use the number on the back of your card or the official number in your banking app to report the fraud.
-   - If a Direct Debit was set up without your permission, ask your bank to cancel it and process an "Indemnity Claim" under the Direct Debit Guarantee for an immediate refund.
-   - If a card payment was taken, ask the bank to initiate a chargeback or a section 75 claim if applicable.
-4. **Verify the sender using contact details you find independently.** If the invoice claims to be from a known brand (like Amazon, Geek Squad, or HMRC), find their official customer service number on their genuine website and call them to ask if an account exists in your name.
-5. **Mark physical mail addressed to someone else as "return to sender."** Write "Not known at this address" on the envelope and put it back in a post box without adding any of your own personal details.
-6. **Report the communication to the relevant authorities.**
-   - Forward suspicious emails to **report@phishing.gov.uk**.
-   - Forward suspicious text messages to **7726** (this is a free service).
-   - Report the fraud to **Action Fraud** (for England, Wales, and Northern Ireland) online or by calling 0300 123 2040.
-   - In Scotland, report fraud by calling **Police Scotland** on 101.
-7. **Contact the Citizens Advice consumer service for guidance on your rights.** Call 0808 223 1133 (Monday to Friday, 9am to 5pm) to report the scam to Trading Standards or get advice on disputing a bill for "inertia selling" (where a trader sends unrequested goods and demands payment).
-8. **Check your credit report for signs of identity theft.** If you suspect your details have been compromised, check your files with Experian, Equifax, or TransUnion to ensure no new accounts have been opened in your name.
-9. **Consider applying for Cifas Protective Registration.** For a fee of £30 for two years, this places a flag on your credit file that requires lenders to carry out extra verification checks when your details are used for an application.
+1. **Pause and save what you’ve received.** Save the email as a file (or take screenshots) and keep the header details if you can. Photograph letters/envelopes. Note the date it arrived.
+2. **Check whether any real money moved.**
+   - Look for a matching payment in your bank/card statements.
+   - If the invoice claims you have an “account” or “subscription”, sign in to the provider only by typing the address you already know (not via the invoice) and check for any orders.
+3. **Stop any payment mechanism you didn’t authorise.**
+   - If a **Direct Debit** has been set up or taken, contact your bank or building society to **cancel it** and ask for a **refund under the Direct Debit Guarantee** for any payment taken in error.
+   - If it’s a card payment you don’t recognise, contact your card provider using the number on the back of your card or inside your banking app and ask about disputing the transaction and preventing further payments.
+4. **Verify the sender independently (do not use invoice contact details).** If it names a real company, find their official contact details from a trusted route (their genuine website you locate yourself, or details you already have) and ask: “Do you have an account or order under my name/address? What are the order date and delivery/service details?”
+5. **If it’s addressed to someone else or a previous occupant:** do not pay. If it’s post, mark it **“Not known at this address”** and return it. Don’t add extra personal information.
+6. **If it mentions debt collectors, collections, or credit rating:**
+   - Ask for everything **in writing** and request evidence of the underlying contract/order and when it was supposedly agreed.
+   - Don’t “verify” extra personal details they ask for — stick to the minimum needed to say “This is not mine.”
+7. **Report it through official channels (even if you didn’t pay).**
+   - **Phishing route (if it arrived by email/text):** forward suspicious emails to the UK phishing reporting mailbox and forward suspicious texts to **7726**.
+   - **Fraud route:** If you’re in **England, Wales or Northern Ireland**, report to **Report Fraud** (online or by phone). If you’re in **Scotland** and you’ve lost money or there’s clear fraud, report to **Police Scotland** (101).
+   - For consumer/scam advice and to pass reports to Trading Standards where appropriate, contact the **Citizens Advice consumer service**.
+8. **If you see signs your identity is being used (new accounts, repeated demands, collections):**
+   - Check your credit files with the UK credit reference agencies (statutory credit reports are available).
+   - Consider a fraud-protection flag such as **Cifas Protective Registration** if you believe your personal details have been compromised.
 
 ## What can wait
-- You do not need to decide immediately if this is a technical error or a deliberate scam; your only priority is preventing payment.
-- You do not need to respond to "debt collection" threats until you have verified if a debt actually exists.
-- You do not need to hire a solicitor or legal professional for a single unrecognised invoice unless it escalates to formal court proceedings.
+- You don’t need to decide right now whether this is identity theft or a simple mistake — first confirm whether any real transaction exists and stop any unauthorised payment route.
+- You don’t need to argue with the sender or “prove” anything immediately; you only need to avoid paying and verify safely.
+- You don’t need to contact multiple agencies at once if there’s no loss and no ongoing risk.
 
 ## Important reassurance
-Receiving a demand for money does not mean you are legally required to pay it. Scammers frequently use "invoice fraud" because it triggers a sense of urgency and fear of debt. These emotions are a natural response to a perceived threat, but taking a moment to pause and verify through official channels will protect your finances.
+A surprising invoice is common and often relies on urgency and embarrassment. Receiving an invoice does not automatically mean you owe money — slowing down and verifying independently is the safest move.
 
 ## Scope note
-This guide covers the immediate steps to take upon receiving a single unrecognised invoice. If you are experiencing persistent harassment from debt collectors or have confirmed your identity has been stolen, you will require more specialized assistance from consumer rights groups or legal advisors.
+This is first-step guidance for the initial shock of an unexpected invoice. If the issue continues (repeat demands, debt collection contact, or signs your identity is being misused), you may need more specialist support beyond these immediate steps.
 
 ## Important note
-This information is for guidance only and does not constitute legal or financial advice. Jurisdictional rules in the UK regarding "unsolicited goods" mean that you generally have no obligation to pay for or return items you did not order. Always contact your financial institution through verified channels if money has been taken from your account.
+This guide provides general information for urgent first steps and harm prevention. It isn’t legal or financial advice. If you’ve paid, shared sensitive information, or payments are leaving your account, prioritise contacting your bank/card provider through trusted contact routes.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/consumer/template-letters/letters/problems-with-goods-or-services/letter-to-say-you-received-goods-or-services-you-didnt-ask-for/
-- https://www.citizensadvice.org.uk/consumer/scams/check-if-something-might-be-a-scam/
-- https://www.citizensadvice.org.uk/consumer/scams/check-if-you-can-get-your-money-back-after-a-scam/
+- https://www.reportfraud.police.uk/invoice-scams/
+- https://www.ncsc.gov.uk/collection/phishing-scams
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
 - https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
-- https://www.citizensadvice.org.uk/consumer/get-more-help/if-you-need-more-help-about-a-consumer-issue/
+- https://www.citizensadvice.org.uk/consumer/get-more-help/report-to-trading-standards/
+- https://www.directdebit.co.uk/direct-debit-guarantee/
+- https://www.cifas.org.uk/pr
+- https://www.gov.uk/guidance/avoiding-misleading-payment-requests

@@ -1,92 +1,81 @@
----
+﻿---
 title: "What to do if… an exterior wall shows a new bulge or bowing section that wasn’t there before"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "exterior wall bulge"
-  - "bulging outside wall"
-  - "bowing exterior wall"
-  - "wall suddenly bowing"
-  - "new wall bulge"
-  - "wall bulging brickwork"
-  - "wall bowing brickwork"
-  - "outside wall leaning"
-  - "wall moving outward"
-  - "house wall bowing"
-  - "sudden structural movement"
-  - "new crack and bulge"
-  - "wall bulge after rain"
-  - "wall bulge after freeze"
-  - "wall bulge after building work"
-  - "bulge in masonry wall"
-  - "bulging render outside"
-  - "bowing wall emergency"
-  - "exterior wall deformation"
-  - "what do i do if my wall is bulging"
-  - "what do i do if the house wall is bowing"
-  - "what do i do if a wall leans"
-  - "what do i do if brickwork moves"
-  - "help i have a bulging wall"
-  - "help i see a bow in my wall"
-  - "help my wall is leaning out"
-  - "help my exterior wall has a bump"
-  - "cracked bulging brickwork"
-  - "falling render and bulge"
-  - "leaning garden wall"
-  - "movement in gable end"
-  - "bulge in stone wall"
-  - "wall separating from roof"
-  - "visible wall movement"
-  - "emergency structural engineer"
-  - "dangerous structure reporting"
-last_reviewed: "2026-03-17"
+  - exterior wall bulge
+  - bulging outside wall
+  - bowing exterior wall
+  - wall suddenly bowing
+  - new wall bulge
+  - wall bulging brickwork
+  - wall bowing brickwork
+  - outside wall leaning
+  - wall moving outward
+  - house wall bowing
+  - sudden structural movement
+  - new crack and bulge
+  - wall bulge after rain
+  - wall bulge after freeze
+  - wall bulge after building work
+  - bulge in masonry wall
+  - bulging render outside
+  - bowing wall emergency
+  - exterior wall deformation
+last_reviewed: "2026-03-04"
 ---
-# What to do if… an exterior wall shows a new bulge or bowing section that wasn’t there before (UK)
 
+# What to do if… an exterior wall shows a new bulge or bowing section that wasn’t there before (UK)
 ## Short answer
-Isolate the area immediately by moving people and pets away from the wall; if the bulge is over a public pavement or showing signs of active collapse, call 999. Contact your local authority Building Control (England / Wales) or Building Standards (Scotland) to report a dangerous structure.
+Treat a new bulge/bow in an exterior wall as a potential collapse risk: keep people away from that area and arrange urgent professional assessment. If it looks like it could fail soon (worsening quickly, falling masonry, loud cracking), call 999.
 
 ## Do not do these things
-- Don't approach the wall to touch, push, or "test" the stability of the masonry.
-- Don't lean ladders against the affected section or use it for any weight-bearing activity.
-- Don't attempt to "shore up" or brace the wall yourself using timber or jacks.
-- Don't stay in or enter rooms that are directly adjacent to or supported by the bowing wall.
-- Don't ignore secondary signs of movement like fresh debris on the ground or internal cracks.
-- Don't turn on electrical switches if the movement has damaged gas pipes (smell of gas).
+- Don’t push on the wall, lean ladders against it, or “test” it by banging/tapping.
+- Don’t drill, chisel, remove bricks/render, or start “temporary bracing” unless instructed by a qualified professional.
+- Don’t stay in (or let anyone sleep in) rooms directly next to/under the bulge “to see if it settles”.
+- Don’t ignore new warning signs like fresh cracks spreading, debris on the ground, doors/windows suddenly sticking, or audible creaks/cracks.
+- Don’t turn on/off electrical switches if you can smell gas (avoid anything that could spark).
 
 ## What to do now
-1. **Clear the immediate area and create a no-go zone inside and outside the property.** Move all occupants away from rooms shared with the bowing wall and ensure no one stands directly beneath the bulge on the outside. 
-2. **Identify immediate "leave now" triggers that require a 999 call.** If you see bricks falling, the bulge is visibly moving, or you hear loud cracking/grinding sounds, evacuate the building immediately and call 999 (ask for Fire and Rescue).
-3. **Report the wall as a "dangerous structure" to your local council if it faces a public space.** Call the local authority Building Control department (or Building Standards in Scotland); they have an emergency duty officer available 24/7 to assess risks to the public. 
-4. **Follow the national protocol if you smell gas or suspect utility damage.**
-   - **For gas:** Call the National Gas Emergency Service on 0800 111 999 (Great Britain) or 0800 002 001 (Northern Ireland).
-   - **For electricity (GB):** Call 105 to reach the network operator if power lines appear strained or damaged.
-   - **For electricity (NI):** Call NIE Networks on 03457 643 643.
-5. **Notify the person or entity responsible for the structure's maintenance.**
-   - **If renting:** Call your landlord or letting agent immediately to report an emergency structural failure.
-   - **If leasehold:** Contact the freeholder or managing agent to trigger a block-wide safety assessment.
-6. **Arrange for a private structural engineer to conduct an urgent inspection.** Request a "structural safety assessment" specifically for a "new exterior wall bulge" to determine if the building remains habitable.
-7. **Document the deformation from a safe distance once the area is clear.** Take photos showing the extent of the bow and any associated cracking, as these will be required by your buildings insurance provider.
-8. **Contact your buildings insurer to log a potential claim for structural movement.** Inform them that the property has an unstable wall; they may appoint their own surveyor or loss adjuster to oversee the stabilization.
+1. **Create a no-go zone immediately.** Move everyone (and pets) away from the wall and the rooms nearest it. Keep people away from the outside too (don’t stand under the bulge).
+2. **Do a 30-second safety check for “leave now” signs.** If you see falling bricks/render, the bulge is growing quickly, you hear repeated cracking/tearing sounds, or the wall looks like it’s separating from floors/roof, **leave the building** and **call 999** (ask for Fire and Rescue).
+3. **If you smell gas or suspect a leak, treat that as a separate emergency.** Get everyone into fresh air and call the **National Gas Emergency Service on 0800 111 999** (24/7). If it’s safe to do so on your way out, leave doors open.
+4. **If there’s any electrical danger outside (damaged cables/equipment) or a power cut linked to damage,** keep well clear and report it to your electricity network operator:
+   - **In England, Wales and Scotland (Great Britain): call 105 (free)** to reach the local network operator.
+   - **In Northern Ireland:** use your electricity network/utility emergency contact route (do not approach damaged equipment).
+   If someone is in immediate danger, call 999 first.
+5. **Document without getting close.** From a safe distance, take photos/video showing:
+   - the whole wall and the bulge (include something for scale),
+   - any new cracks inside near that wall,
+   - any debris on the ground,
+   - a short note of when you first noticed it and anything that changed recently (heavy rain, nearby digging, building work, impact).
+6. **Contact the right “responsible person” fast.**
+   - **If you rent:** report it to your landlord/agent as an urgent structural safety issue and say you’ve set a no-go zone.
+   - **If leasehold/flat block:** notify the managing agent/freeholder/building manager urgently.
+7. **Get urgent professional assessment.** Ask for a **structural engineer** (or building surveyor who can escalate to a structural engineer) and say: “new exterior wall bulge/bowing; concerned about stability.”
+8. **Loop in your insurer early.** Contact your buildings insurer/home insurer and report “possible structural movement” (they may require specific contractors/engineers and want photos).
+9. **If it may be an immediate public safety risk (for example, a bulging wall over a pavement/road),** report it to your **local council/local authority** as a dangerous structure:
+   - this is usually handled by **building control** (and **building standards** in Scotland),
+   - keep people away until it’s assessed, and follow any instructions you’re given.
 
 ## What can wait
-- You do not need to identify the technical cause (e.g., wall tie failure or subsidence) before making the area safe.
-- You do not need to obtain repair quotes or compare builders while the wall is in an unstable state.
-- You do not need to determine who is at fault (e.g., a previous contractor or neighbor) in the first few hours.
-- You do not need to move all your belongings out unless a professional inspector officially declares the building unsafe to enter.
+- You do **not** need to decide the cause (subsidence, wall ties, damp, etc.) right now.
+- You do **not** need to choose repair methods or gather quotes today.
+- You do **not** need to argue liability (insurer vs builder vs neighbour) before the building is made safe.
+- You do **not** need to move everything out unless an emergency responder/engineer tells you to.
 
 ## Important reassurance
-Sudden structural changes are startling, and it is common to feel a sense of urgency or alarm. Taking the step to isolate the area and call for professional assessment is the standard safety protocol and the most effective way to prevent escalation.
+It’s reasonable to feel shaken by this. A “new and different” bulge is a valid red flag, and the safest response is simply to reduce exposure, keep people back, and get qualified eyes on it quickly.
 
 ## Scope note
-This guide covers first-step stabilization and emergency reporting only. Long-term remedial work, insurance disputes, and permanent repairs will require ongoing professional management.
+These are first steps to stabilise risk and get the right help moving. Once the immediate safety question is answered, longer decisions (repairs, claims, disputes) may need specialist input.
 
 ## Important note
-This information is for initial risk reduction and does not constitute a professional structural survey or a guarantee of safety. If you believe collapse is imminent, evacuate immediately and alert the emergency services.
+This is general, first-step information, not a diagnosis or a guarantee of safety. If you think collapse could be imminent or anyone is at risk, leave the area and call 999.
 
 ## Additional Resources
 - https://www.gov.uk/report-dangerous-building-structure
-- https://www.gov.uk/guidance/your-garden-walls-better-to-be-safe
-- https://www.brent.gov.uk/planning-and-building-control/building-control/dangerous-structures
-- https://www.property-care.org/homeowners/advice/structural-repairs/cavity-wall-ties/
-- https://www.simplifystructures.co.uk/guides/why-are-my-walls-bowing-or-bulging
+- https://www.nationalgas.com/emergency-contacts
+- https://powercuts.nationalgrid.co.uk/how-to-report-a-power-cut
+- https://prepare.campaign.gov.uk/be-informed-about-hazards/power-cuts/
+- https://www.labc.co.uk/professionals/dangerous-structures

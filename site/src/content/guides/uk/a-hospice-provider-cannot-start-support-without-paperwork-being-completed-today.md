@@ -1,104 +1,84 @@
----
+﻿---
 title: "What to do if… a hospice provider cannot start support without paperwork being completed today"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "hospice paperwork delay"
-  - "hospice admission forms"
-  - "urgent palliative care referral"
-  - "end of life support paperwork"
-  - "terminal care delay today"
-  - "nhs continuing healthcare fast track"
-  - "chc fast track delay"
-  - "hospice at home start"
-  - "what do i do if hospice cannot start today"
-  - "what do i do if hospice forms are not signed"
-  - "what do i do if palliative care is delayed"
-  - "what do i do if hospice is waiting for paperwork"
-  - "help i cannot get hospice support"
-  - "help i need urgent hospice care"
-  - "help i am stuck with hospice forms"
-  - "my hospice support is delayed"
-  - "my palliative care paperwork is missing"
-  - "smell of medication"
-  - "visible respiratory distress"
-  - "patient in pain"
-  - "agitation in terminal phase"
-  - "confusion over admission forms"
-  - "missing signatures hospice"
-  - "out of hours palliative help"
-  - "paperwork blocking care"
-  - "hospice clinical triage"
-  - "hospice duty manager"
-  - "urgent community nursing uk"
-  - "palliative care nhs 111 option 4"
-  - "integrated care board chc"
-  - "terminal phase care delay"
-  - "hospice referral signatures"
-last_reviewed: "2026-03-16"
+  - hospice paperwork delay
+  - hospice cannot start today
+  - hospice admission forms
+  - end of life care start
+  - palliative care paperwork
+  - urgent hospice support
+  - hospice at home delay
+  - referral form not done
+  - waiting for signatures
+  - paperwork needed today
+  - carer stuck with forms
+  - terminal care support delay
+  - fast track chc
+  - last days care delay
+  - urgent community nursing
+  - out of hours gp end of life
+  - family crisis hospice delay
+  - hospice referral urgent
+  - care package not in place
+last_reviewed: "2026-03-03"
 ---
+
 # What to do if… a hospice provider cannot start support without paperwork being completed today (UK)
 
 ## Short answer
-Identify the specific document preventing care, then contact the patient's GP or NHS 111 (Option 4) to request an "Appropriate Clinician" initiate an NHS Continuing Healthcare (CHC) Fast Track referral for immediate provision of care.
+Get the hospice to name the *one* document blocking care and who can sign it, then escalate via the patient’s GP (or NHS 111 when the GP is closed) so urgent end-of-life support can be arranged today.
 
 ## Do not do these things
-- Do not sign any document that you do not understand or that contains inaccurate information about the patient's needs.
-- Do not hand over original legal documents such as Lasting Power of Attorney (LPA) certificates; provide photocopies or digital scans.
-- Do not accept administrative delays as a reason for untreated pain or respiratory distress.
-- Do not attempt to coordinate multiple different agencies simultaneously; identify the lead clinician (GP or Hospital Consultant) and communicate through them.
-- Do not use 999 for paperwork issues; use emergency services only if there is an immediate threat to life or safety.
+- Do not sign anything you do not understand, or that you feel pressured to sign “right now”.
+- Do not hand over original legal documents (keep originals; share copies/photos).
+- Do not accept “paperwork delay” as a reason for uncontrolled symptoms—push for urgent clinical help in parallel.
+- Do not try to coordinate multiple agencies at once—choose one lead professional and keep the plan with them.
+- Do not use emergency services for paperwork alone—use them if symptoms are severe or safety is at risk.
 
 ## What to do now
-1. **Identify the exact document name and the reason for the hold.**  
-   **Ask the hospice provider to specify if the missing paperwork is a clinical referral, a consent form, a funding application (such as CHC), or a medication administration record.**
-   - Ask for the name and contact details of the specific person at the hospice who has the authority to waive the delay or accept a clinical workaround.
+1. **Get clarity in 2 minutes: “What exact paperwork is missing?”**  
+   Ask the hospice for the document name(s), what single missing detail is stopping care, and whether it is a *referral*, *consent*, *funding*, *medication* or *care plan* document.
 
-2. **Verify who is legally authorised to sign and provide the required evidence.**  
-   **Check if the patient has mental capacity to sign; if they do not, identify the person with Health and Welfare Lasting Power of Attorney (LPA).**
-   - If no LPA is in place, ask the clinician to document a "Best Interests" decision under the Mental Capacity Act 2005 to allow care to proceed.
-   - Ask if the hospice will accept a digital signature or a clear photograph of a signed document via a secure NHS email.
+2. **Confirm who can sign (and how) today.**  
+   Ask if they accept a **photo/scan** and **electronic signature**. If the patient cannot decide/sign, ask what they need from the authorised person (for example, evidence of a Health and Welfare LPA or deputyship). If nobody has formal authority, ask what their process is for clinician “best interests” decisions.
 
-3. **Request an immediate clinical assessment or nurse triage.**  
-   **Ask the hospice for a phone-based clinical triage or an initial nursing assessment to stabilise symptoms while the administrative file is being completed.**
-   - If this is refused, request to speak with the Clinical Lead or Duty Manager immediately to discuss the safety risks of a delay.
+3. **Ask for a same-day clinical workaround while admin is completed.**  
+   Say: “Can you do a nurse phone triage or an initial assessment today while paperwork catches up?” If they say no, ask who their duty manager/clinical lead is and request escalation.
 
-4. **Escalate through the lead clinical pathway based on the patient's location.**  
-   **Contact the hospital palliative care team if the patient is currently an inpatient, or the GP if the patient is at home.**
-   - If the GP surgery is closed, call NHS 111 and ask specifically for "Option 4" (the Palliative and End of Life Care line) where available.
-   - State clearly: "We have a patient with a rapidly deteriorating condition and care is being blocked by a paperwork delay."
+4. **Escalate through one clinical route (pick the one that applies):**
+   - **If the person is in hospital:** ask the ward to contact the **palliative care team** and **discharge team** today and to complete any urgent end-of-life paperwork needed for services to start.  
+   - **If the person is at home (GP open):** call the **GP practice** and say: “End-of-life support is delayed due to paperwork. We need urgent clinical help today.”  
+   - **If the GP is closed or you cannot get through:** contact **NHS 111**, who can route you to the right urgent service (often including out-of-hours GP or urgent community nursing) based on the situation.
 
-5. **Request an NHS Continuing Healthcare (CHC) Fast Track referral.**  
-   **Ask a registered nurse or medical practitioner (the "Appropriate Clinician") to complete the CHC Fast Track Pathway Tool today.**
-   - Under 2026 guidance, an Integrated Care Board (ICB) must accept a correctly completed Fast Track tool immediately.
-   - Note that care packages should be commissioned within 48 hours of a successful Fast Track referral.
-   - Verify the current name of your local ICB, as some boundaries and names changed in early 2026.
+5. **If rapid deterioration/terminal phase: ask about NHS CHC fast-track today.**  
+   Ask the clinician (hospital team, GP, community nurse, or palliative care) to consider **NHS Continuing Healthcare fast-track**. In NHS guidance, the goal is to get an appropriate care package in place **as soon as possible, often within 48 hours**—but it can still help even if local arrangements take longer. Ask who will send it to the local **Integrated Care Board (ICB) CHC team** and when.
 
-6. **Request "Just in Case" (anticipatory) medications if not already present.**  
-   **Ask the GP or 111 clinician to prescribe and arrange delivery of anticipatory medicines for pain, agitation, and breathlessness to ensure symptoms can be managed at home tonight.**
+6. **If symptoms are not controlled, treat that as the emergency (not the forms).**  
+   If there is severe pain, breathlessness, agitation/confusion you cannot manage, repeated falls, or you cannot keep them safe: use **NHS 111** for urgent clinical help, or **999** if it’s life-threatening/immediate danger.
 
-7. **Record the contact details for the person responsible for the next step.**  
-   **Write down the name, job title, and direct phone number of the individual who has committed to unblocking the care today.**
-   - Set a specific time (e.g., two hours from now) to call back if you have not received confirmation that care has started.
+7. **Before you end any call, pin down a “today plan”.**  
+   Write down: who is responsible, what will happen next, the direct number, and what to do if nothing happens by a specific time (for example: “If no call by 6pm, phone X / call 111 again”).
 
 ## What can wait
-- Negotiating long-term care preferences or choice of specific hospice providers beyond the immediate need.
-- Completing non-essential data collection forms or satisfaction surveys.
-- Financial assessments for social care, as CHC Fast Track is non-means-tested and covers the full cost of care.
-- Discussions regarding funeral arrangements or permanent changes to the patient's home.
+- Choosing a “perfect” hospice provider or negotiating non-urgent service details.
+- Longer funding discussions beyond urgent fast-track decisions.
+- Completing non-essential forms that do not affect today’s comfort or safety.
+- Decisions about funerals, wills, or wider family communications if you are overwhelmed.
 
 ## Important reassurance
-It is common for end-of-life care to involve complex coordination between different NHS and voluntary sectors. Feeling overwhelmed by administrative requirements during a health crisis is a normal response. You have the right to request that clinical safety takes priority over the completion of non-legal administrative forms.
+It’s common for end-of-life care to involve multiple teams and forms, and it can feel brutally “administrative” at the worst moment. You are allowed to escalate firmly for a same-day clinical plan—especially if comfort or safety is at risk.
 
 ## Scope note
-This guide provides first-step stabilization to unblock urgent hospice or palliative care. It does not cover long-term funding disputes or legal appeals regarding capacity.
+These are first steps to unblock care and get urgent support in place. Later decisions (funding disputes, complaints, long-term planning) can come after the immediate situation is stabilised.
 
 ## Important note
-This information is for general guidance and does not constitute medical or legal advice. In any situation involving rapid physical deterioration or uncontrolled pain, prioritise immediate contact with NHS clinical services over the completion of paperwork.
+This is general information, not medical or legal advice. If you are unsure who can consent/sign, or the person’s condition is worsening, prioritise urgent clinical assessment through NHS services.
 
 ## Additional Resources
-- https://www.hospiceuk.org/information-and-support/your-guide-hospice-and-end-life-care/im-looking-hospice-care/what-hospice
-- https://www.mariecurie.org.uk/information/getting-care/hospice-care
-- https://www.mariecurie.org.uk/information/getting-care/nursing-and-personal-care
 - https://www.nhs.uk/social-care-and-support/money-work-and-benefits/nhs-continuing-healthcare/
 - https://www.gov.uk/government/publications/nhs-continuing-healthcare-fast-track-pathway-tool
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
+- https://www.nhs.uk/tests-and-treatments/end-of-life-care/what-it-involves-and-when-it-starts/
+- https://www.gov.uk/government/publications/hospital-discharge-and-community-support-guidance/hospital-discharge-and-community-support-guidance

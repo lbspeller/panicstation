@@ -1,101 +1,90 @@
----
+﻿---
 title: "What to do if… you receive a message claiming there is an explicit video of you and you are sent a screenshot as “proof”"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "sextortion message"
-  - "blackmail explicit video claim"
-  - "screenshot proof scam"
-  - "threatened to share video"
-  - "intimate image threat"
-  - "fake explicit video"
-  - "deepfake porn threat"
-  - "someone says they have nudes"
-  - "extortion demand money"
-  - "explicit video of me"
-  - "nude video threat"
-  - "online sexual blackmail"
-  - "instagram sextortion"
-  - "snapchat sextortion"
-  - "dating app blackmail"
-  - "hacked webcam claim"
-  - "porn site blackmail email"
-  - "non-consensual intimate images"
-  - "intimate image abuse threat"
-  - "panic after sextortion"
-  - "do not pay sextortion"
-  - "received screenshot of video"
-  - "what do i do if someone is blackmailing me with a video"
-  - "what do i do if someone has a video of me"
-  - "what do i do if i am being sextorted"
-  - "what do i do if i get a blackmail email"
-  - "help i sent a video and now they want money"
-  - "help i am being blackmailed online"
-  - "help i got a screenshot of a video of me"
-  - "my webcam was hacked blackmail"
-  - "my private video is being shared"
-  - "blurry screenshot of me"
-  - "demand for bitcoin email"
-  - "hello pervert email message"
-  - "threatening message on instagram"
-  - "threat to send video to followers"
-last_reviewed: "2026-03-17"
+  - sextortion message
+  - blackmail explicit video claim
+  - screenshot proof scam
+  - threatened to share video
+  - intimate image threat
+  - fake explicit video
+  - deepfake porn threat
+  - someone says they have nudes
+  - extortion demand money
+  - explicit video of me
+  - nude video threat
+  - online sexual blackmail
+  - instagram sextortion
+  - snapchat sextortion
+  - dating app blackmail
+  - hacked webcam claim
+  - porn site blackmail email
+  - non-consensual intimate images
+  - intimate image abuse threat
+  - panic after sextortion
+  - do not pay sextortion
+last_reviewed: "2026-03-13"
 ---
-# What to do if… you receive a message claiming there is an explicit video of you and you are sent a screenshot as “proof” (UK)
 
+# What to do if… you receive a message claiming there is an explicit video of you and you are sent a screenshot as “proof” (UK)
 ## Short answer
-Cease all communication immediately and do not provide payment, further images, or personal information. Secure your digital accounts and report the incident to the official UK authorities and the platform where the contact occurred.
+Stop engaging with the sender and do not pay or comply. Don’t delete anything in panic—secure your accounts, then report it through the official UK routes and the platform where it happened.
 
 ## Do not do these things
-- Don't pay the ransom or negotiate because compliance often leads to higher demands.
-- Don't delete the messages or the account used by the sender before securing evidence.
-- Don't argue, insult, or threaten the sender.
-- Don't click any links, download attachments, or scan QR codes provided in the message.
-- Don't share screenshots of the threat on public social media feeds.
-- Don't assume a screenshot proves a video exists, as images are frequently faked or taken from non-explicit public content.
+- Don’t pay, send more images, or “negotiate” to get them to stop.
+- Don’t argue, insult, or try to “outsmart” them in chat (it often escalates demands).
+- Don’t click links, open files, scan QR codes, or install anything they send.
+- If you want your account removed, don’t delete it in panic—deactivate it rather than delete it.
+- Don’t post public explanations or screenshots with their username/number (it can spread your personal info and increase harassment).
+- Don’t assume the screenshot proves anything (screenshots can be faked, edited, or made from a lookalike/deepfake).
 
 ## What to do now
-1. **End all contact with the sender immediately.** Block the user on the platform where they contacted you and any other platforms where they may attempt to reach you.
-2. **Secure your primary digital accounts.**
-   - Change your email password first, as this is the gateway to other accounts.
-   - Update passwords for the social media or messaging accounts involved.
-   - Enable two-factor authentication (2FA) on all sensitive accounts.
-   - Check "logged in devices" in your settings and remove any sessions you do not recognise.
-3. **Preserve a record of the interaction.**
-   - Take screenshots of the threat, the sender’s username, their profile URL, and any payment details (e.g., cryptocurrency addresses) they provided.
-   - Note the date and time the message was received.
-4. **Report the incident to the appropriate UK authority.**
-   - **If you are under 18:** Report the incident to the CEOP Safety Centre.
-   - **If you are 18 or older:** Report the blackmail to the Report Fraud service online or by calling 0300 123 2040.
-   - **If the threat was received via email:** Forward the email to the Suspicious Email Reporting Service (SERS) at report@phishing.gov.uk.
-5. **Use reporting tools on the platform involved.**
-   - Use the internal "Report" function on apps like Instagram, Snapchat, or WhatsApp to flag the user for extortion or harassment.
-   - Adjust your privacy settings to "Private" and restrict direct messages to "Friends Only" or "Contacts Only."
-6. **Utilise preventative image-blocking tools if you believe images exist.**
-   - Access **StopNCII.org** to create a digital fingerprint (hash) of your images to prevent them from being uploaded to participating platforms.
-   - If you are under 18, use the **Report Remove** tool provided by Childline and the IWF.
-7. **Contact specialist support for practical guidance.**
-   - Reach out to the **Revenge Porn Helpline** (0345 6000 459) if you are over 18 for assistance with content removal or legal rights.
-8. **Inform a trusted person.** State that you are dealing with an online threat and require someone to be present while you complete these security and reporting steps.
+1. **End contact immediately.** Block the account/number on every platform they used. If they switch accounts, block those too.
+2. **Stabilise your accounts (10-minute lockdown).**
+   - Change passwords for your email first, then any social accounts connected to it.
+   - Turn on two-factor authentication (2FA) for email and social accounts.
+   - Check for unfamiliar devices/sessions and recovery email/phone changes; remove anything you don’t recognise.
+3. **Keep a minimal record by not deleting what you already have.**
+   - Keep the message thread, the username/handle, and the screenshot they sent.
+   - Note the date/time and the platform/app used.
+   - You don’t need to gather lots of extra “evidence” before reporting—just don’t wipe it.
+4. **If this came as a threatening email (especially with crypto demands): report it as suspicious email.**
+   - Forward the email to the UK suspicious email reporting service, then delete it (without clicking anything in it).
+5. **Report it through UK channels (choose what fits).**
+   - **If you’re under 18:** report to **CEOP Safety Centre**.
+   - **If you’re 18+ (or unsure):** use the UK police sextortion reporting guidance, and the **Report Fraud (Action Fraud)** service where appropriate for online blackmail/fraud.
+   - **If you feel in immediate danger or someone is trying to meet you in person:** call **999**.
+6. **Report and limit spread on the platform where it happened.**
+   - Use in-app reporting for blackmail/sextortion and request account action/takedown if anything is posted.
+   - Tighten privacy: set accounts to private, restrict DMs to contacts, review follower/friend lists, and remove unknown accounts.
+7. **If you think an intimate image/video of you may be shared (18+): use a preventive tool.**
+   - Consider **StopNCII.org** (it can help participating platforms detect and block re-sharing of intimate images; it doesn’t cover the whole internet and generally won’t apply to end-to-end encrypted private messages).
+8. **If you’re 18+ and want specialist help with threats or image-based abuse:** contact the **Revenge Porn Helpline** for practical support and takedown guidance.
+9. **Get support without having to “tell the whole story.”**
+   - Message one trusted person: “I’m being blackmailed online with a sexual threat. Can you stay with me while I secure accounts and report it?”
 
 ## What can wait
-- Determining if the video is genuine or a "deepfake."
-- Investigating the identity or location of the sender.
-- Making permanent decisions about deleting your social media presence.
-- Responding to the sender to "explain" your side or provide a defense.
+- Deciding whether it’s “real” or “fake” (your immediate steps are the same either way).
+- Writing a perfect report or gathering lots of extra evidence.
+- Confronting the person, “warning” them, or trying to track who they are.
+- Making big decisions like deleting all social media or changing your phone number (do later, if needed, after reporting and securing accounts).
 
 ## Important reassurance
-Sextortion is a standardized tactic designed to use shame to force immediate compliance. Receiving such a message is a common experience and does not indicate a failure on your part. Established UK procedures exist to handle these reports with confidentiality.
+This is a common coercion tactic designed to trigger shame and panic so you comply quickly. Being targeted does not mean you did anything wrong, and support and reporting routes exist specifically for this.
 
 ## Scope note
-This guide provides first-step stabilization and harm-mitigation actions. Ongoing support or complex content removal may require further engagement with specialist helplines or legal professionals.
+These are first steps to reduce harm, stop escalation, and buy time. If images are shared or the threats persist, you may want further specialist help for takedowns, safety planning, and ongoing support.
 
 ## Important note
-This information is for general guidance and does not constitute legal or clinical advice. If you are in immediate physical danger or a person is attempting to meet you, call 999.
+This is general information, not legal or clinical advice. If you are under 18, treat any sexual imagery involving you as a child-safety issue and use child-specific reporting/support routes. If you are in immediate danger, call 999.
 
 ## Additional Resources
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/sextortion-reporting-it-to-us/
+- https://www.reportfraud.police.uk/sextortion/
+- https://www.ncsc.gov.uk/files/sextortion-scams-infographic.pdf
 - https://www.ncsc.gov.uk/guidance/sextortion-scams-how-to-protect-yourself
-- https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/kidnap-and-extortion/sextortion
+- https://stopncii.org/
+- https://stopncii.org/faq/?lang=en-gb
+- https://www.iwf.org.uk/resources/sextortion/adults/
 - https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/
-- https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/sextortion-reporting-it-to-social-media-companies-if-it-happened-online/
-- https://reportharmfulcontent.com/harms/intimate-image-abuse/?lang=en-gb

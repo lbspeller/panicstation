@@ -1,87 +1,75 @@
----
+﻿---
 title: "What to do if… a cash deposit is credited for less than the amount you handed over"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "cash deposit credited short"
-  - "cash deposit missing money"
-  - "bank credited less than deposited"
-  - "teller deposit wrong amount"
-  - "cash paying-in discrepancy"
-  - "paid in cash wrong credit"
-  - "cash deposit receipt mismatch"
-  - "branch deposit shortfall"
-  - "atm cash deposit short"
-  - "cash deposit machine error"
-  - "cash deposit dispute bank"
-  - "paying-in slip wrong amount"
-  - "deposit credited incorrectly"
-  - "cash deposit not fully credited"
-  - "bank deposit amount incorrect"
-  - "handed over cash missing"
-  - "cash deposit credited low"
-  - "deposit short at counter"
-  - "what do i do if my deposit is short"
-  - "what do i do if the bank lost my cash"
-  - "what do i do if the atm ate my cash"
-  - "what do i do if the bank credited the wrong amount"
-  - "help i paid in cash but it is missing"
-  - "help i have a cash deposit discrepancy"
-  - "my bank receipt is wrong"
-  - "my cash deposit was not full"
-  - "smell of burning at atm"
-  - "atm making grinding noise"
-  - "receipt showing partial credit"
-  - "teller error cash count"
-  - "bank deposit missing UK"
-  - "missing money after deposit"
-  - "post office deposit discrepancy"
-  - "banking hub cash error"
-  - "short deposit at counter"
-last_reviewed: "2026-03-17"
+  - cash deposit credited short
+  - cash deposit missing money
+  - bank credited less than deposited
+  - teller deposit wrong amount
+  - cash paying-in discrepancy
+  - paid in cash wrong credit
+  - cash deposit receipt mismatch
+  - branch deposit shortfall
+  - atm cash deposit short
+  - cash deposit machine error
+  - cash deposit dispute bank
+  - paying-in slip wrong amount
+  - deposit credited incorrectly
+  - cash deposit not fully credited
+  - bank deposit amount incorrect
+  - handed over cash missing
+  - cash deposit credited low
+  - deposit short at counter
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… a cash deposit is credited for less than the amount you handed over (UK)
 
 ## Short answer
-Keep your receipt and immediately report the discrepancy to the bank to trigger a cash reconciliation or "journal review" of the till or machine.
+Keep the receipt and report it to the bank as soon as you notice (same day if possible) so they can open a cash-deposit discrepancy case and reconcile the cash.
 
 ## Do not do these things
-- Don't discard the receipt, the original paying-in slip, or any machine-generated error notices.
-- Don't leave the branch or ATM area without noting the exact time and the specific ID number of the machine.
-- Don't rely on a verbal promise from a staff member; always obtain a written reference or case number.
-- Don't provide "estimated" figures; provide the exact amount you believe was handed over versus the amount shown on the receipt.
-- Don't attempt to force or re-enter the ATM slot if the machine has jammed or failed to count the cash.
+- Don’t throw away the receipt, paying-in slip, or any envelope/confirmations from a cash deposit machine.
+- Don’t rely on memory alone—don’t “estimate” the amount. Use what you wrote on the paying-in slip and what the receipt/account shows.
+- Don’t close the account or switch banks before the bank confirms the case is resolved (it can complicate tracing the transaction).
+- Don’t post screenshots or personal banking details online while seeking help.
+- Don’t escalate with accusations in the moment—stick to facts so the bank can review records properly.
 
 ## What to do now
-1. **Secure the physical evidence immediately.** Keep the receipt, any rejected notes, and the paying-in slip copy in a safe place.
-   - If the error happened at an ATM, take a photo of the screen if it shows an error message.
-2. **Log the discrepancy with the bank staff or via the official app.** If you are in a branch, report it to a teller immediately; if at a standalone ATM or outside hours, call the number on the back of your card or use the "Report a problem" feature in your app.
-3. **Request a formal "Cash Deposit Discrepancy" investigation.** Ask the agent to log this as a specific transaction dispute and provide you with a case reference number.
-4. **Specify the type of review required based on the deposit method.**
-   - **For counter deposits:** Ask the bank to balance the teller’s till and review internal security footage of the count.
-   - **For ATM/Machine deposits:** Ask for a "journal log review" and a physical reconciliation of the machine's cash cassettes.
-   - **For Post Office/Banking Hub deposits:** Contact your own bank first, but also notify the Post Office branch staff so they can note the discrepancy for their own daily balancing.
-5. **Request a "Summary Resolution" within three business days.** Under FCA rules (DISP 1.5), banks can resolve complaints informally by the close of the third business day; tell the bank you expect an update or resolution within this window to avoid escalation.
-6. **Ask for a written acknowledgement of the dispute.** This should be sent via secure app message, email, or post, confirming the date, time, location, and the disputed amount.
-7. **Monitor your account for a "Corrective Credit."** If the bank identifies a surplus during reconciliation, they will often apply a corrective credit to your balance automatically.
+1. **Capture the key facts (2 minutes).** Write down: date/time, branch/ATM location, amount you handed over, amount credited, and any transaction/reference numbers. Keep the receipt safe.
+2. **Check what proof you already have.**
+   - **Counter deposit:** your paying-in slip copy and any stamped receipt.
+   - **ATM/cash deposit machine:** the machine receipt (note any ATM/machine ID if shown).
+3. **Contact the bank using a trusted route and get it logged.** Use the number on the back of your card, your banking app, or the bank’s official website. Ask them to **log a “cash deposit discrepancy”** and give you a **case/reference number**.
+4. **If it was a branch counter deposit, ask for a branch review.** Ask whether they can review:
+   - the transaction record for your deposit (time, amount entered)
+   - the relevant till/branch cash balancing for that day
+   - whether any relevant security footage is available for review under their process
+   Ask for a **written acknowledgement** (or secure message) that the discrepancy has been raised.
+5. **If it was an ATM/cash deposit machine, ask for a machine-deposit investigation.** Ask the bank to review the machine’s records (often called a journal/log) and reconcile the cash in the machine against what was credited.
+6. **Put it in writing the same day (even if you called).** Use secure in-app message or the bank’s published complaints route. Include: amount deposited vs credited, date/time/location, reference numbers, and photos of the receipt if you have them. Ask for any knock-on fees (e.g., unpaid item charges) to be reversed if the bank error caused them.
+7. **If the bank says to wait briefly for processing, keep control of the timeline.** Some banks may say an ATM issue can correct itself after overnight processing and ask you to wait a short period before they investigate. If they say this, ask them to **note the issue now**, and tell you **exactly when and how** to re-contact them if it hasn’t corrected.
+8. **Protect essentials if the shortfall affects bills.** Pause non-urgent spending. If you’re at risk of missing rent/mortgage/utilities, contact the biller and ask for a short pause while the bank investigates.
 
 ## What can wait
-- You do not need to contact the Financial Ombudsman Service (FOS) today; you must allow the bank’s internal process to conclude first.
-- You do not need to prove the bank's intent or fault; the reconciliation of the physical cash against the digital record is the primary evidence used.
-- You do not need to decide on long-term banking changes until the investigation is finalized.
+- You do not need to decide now whether to switch banks or take legal action.
+- You do not need to prove “fault” today—your job is to get the discrepancy logged with a reference number and preserve evidence.
+- You do not need to contact the Financial Ombudsman Service today. First complain to the bank; **if you’re unhappy with the bank’s final response, or you don’t get a final response within 8 weeks, you can usually take it to the Financial Ombudsman Service.**
 
 ## Important reassurance
-Cash deposit discrepancies are standard operational issues for banks. Automated machines and tellers have strict daily reconciliation protocols designed to catch and correct "surplus" cash that has not been correctly credited to an account.
+This is a common, solvable banking issue. Acting quickly, keeping the receipt, and getting a formal case opened gives the bank the best chance to match your deposit to reconciliation records.
 
 ## Scope note
-This guide covers first-step stabilization only. If the bank issues a final deadlock letter or exceeds the 15-business-day (for Payment Services) or 8-week (for general banking) response limit, specialist advice or FOS escalation may be required.
+These are first steps only. If the bank disputes what happened, later steps may involve a formal complaint escalation—but you don’t need to map that out in the first hour.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Banking processes are governed by the FCA Handbook (DISP rules) and the specific terms of your account agreement.
+This is general information, not legal or financial advice. Banks’ processes vary by deposit method and the records available (receipts, transaction logs, machine records, and security procedures).
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/debt-and-money/banking/complaints-about-banks-and-building-societies/
-- https://www.fca.org.uk/consumers/how-complain
+- https://www.financial-ombudsman.org.uk/make-complaint
 - https://www.financial-ombudsman.org.uk/consumers/how-to-complain
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/disputed-transactions
-- https://www.citizensadvice.org.uk/debt-and-money/financial-advice/check-if-a-financial-service-has-followed-the-rules/
+- https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
+- https://handbook.fca.org.uk/handbook/DISP/1/6.html
+- https://www.citizensadvice.org.uk/debt-and-money/banking/complaints-about-banks-and-building-societies/
+- https://www.natwest.com/support-centre/banking-near-me/atm-cash-deposit-machine-cdm/is-there-a-timescale-to-reclaim-funds-from-an-atm-dispute.html

@@ -1,97 +1,76 @@
----
+﻿---
 title: "What to do if… a teacher, coach, or mentor asks you to communicate through secret or disappearing messages"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "teacher asks for secret messages"
-  - "coach wants disappearing messages"
-  - "mentor says keep it private"
-  - "secret chat with adult"
-  - "vanishing messages snapchat"
-  - "disappearing messages whatsapp"
-  - "hidden communication request"
-  - "adult wants off-platform chat"
-  - "asked to move to private app"
-  - "asked to delete messages"
-  - "secrecy about communication"
-  - "uncomfortable teacher texting"
-  - "school staff boundary crossing"
-  - "grooming warning signs"
-  - "student worried about messages"
-  - "pressured to keep secrets"
-  - "teacher says dont tell anyone"
-  - "mentor late night messaging"
-  - "help i have a secret chat with a teacher"
-  - "help i was asked to use vanishing mode"
-  - "what do i do if a coach wants to be secret"
-  - "what do i do if my mentor asks for privacy"
-  - "what do i do if a teacher texts me privately"
-  - "what do i do if messages are disappearing"
-  - "my teacher wants to chat on snapchat"
-  - "my coach sent a disappearing photo"
-  - "my mentor said dont tell my parents"
-  - "seeing secret notifications from teacher"
-  - "smell of grooming behavior"
-  - "feeling pressured to delete chats"
-  - "vanishing chat settings turned on"
-  - "private messaging request from staff"
-last_reviewed: "2026-03-17"
+  - teacher asks for secret messages
+  - coach wants disappearing messages
+  - mentor says keep it private
+  - secret chat with adult
+  - vanishing messages snapchat
+  - disappearing messages whatsapp
+  - hidden communication request
+  - adult wants off-platform chat
+  - asked to move to private app
+  - asked to delete messages
+  - secrecy about communication
+  - uncomfortable teacher texting
+  - school staff boundary crossing
+  - grooming warning signs
+  - student worried about messages
+  - pressured to keep secrets
+  - teacher says dont tell anyone
+  - mentor late night messaging
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… a teacher, coach, or mentor asks you to communicate through secret or disappearing messages (UK)
 
 ## Short answer
-Stop responding to the messages immediately and tell a trusted adult or your school's safeguarding lead. If you feel in immediate danger or are being pressured to meet, call 999.
+Stop using secret/disappearing messages with them, and tell a safe adult today (a parent/carer or your school/college safeguarding lead). If you feel in immediate danger, call 999.
 
 ## Do not do these things
-- Don’t agree to move the conversation to a different private app or "vanishing" mode.
-- Don’t delete the existing messages or call logs if you have already received them.
-- Don’t meet the person alone to "discuss" why you are uncomfortable.
-- Don’t assume you are "getting them in trouble" by reporting a breach of professional rules.
-- Don’t wait for the messages to become "worse" before seeking advice.
+- Don’t agree to “keep it just between us,” move to a private app, or use disappearing/vanishing mode.
+- Don’t meet them alone “to talk about it” or to “clear up a misunderstanding.”
+- Don’t delete chats, photos, or logs to “avoid trouble” (even if they ask).
+- Don’t confront them directly if you feel pressured or unsafe.
+- Don’t assume you need proof before telling someone.
 
 ## What to do now
-1. **End the communication immediately and close the app.**
-   **Stop replying to any messages and do not open new ones from that person.**
-   - Do not send a "goodbye" or explanation message.
-   - If the app has a "vanishing" or "disappearing" setting, do not toggle it or interact with it further.
-2. **Preserve what is visible without further investigation.**
-   **If it is safe to do so, take a screenshot of the request for secrecy or disappearing messages.**
-   - Include the account name or phone number in the screenshot.
-   - If you cannot take a screenshot safely, or if the messages have already vanished, do not worry; your verbal report is sufficient.
-   - Do not go looking through old messages or files to find "more proof."
-3. **Report the contact to your school or college safeguarding lead today.**
-   **Ask to speak to the Designated Safeguarding Lead (DSL) in England, the Child Protection Coordinator in Scotland, or the Designated Safeguarding Person (DSP) in Wales.**
-   - Tell them: "A staff member asked me to use secret/disappearing messages and I am worried about it."
-   - If the person involved is the safeguarding lead, ask to speak directly to the Headteacher or Principal.
-   - If the person involved is the Headteacher, ask for the contact details of the Chair of Governors.
-4. **Inform a trusted adult outside the organisation.**
-   **Tell a parent, carer, or another adult you trust about the request.**
-   - You can say: "A teacher/coach is asking to message me privately in a way that is against the rules, and I need help reporting it."
-5. **Contact a specialist helpline for confidential advice.**
-   **Use a professional service if you are unsure who to talk to or if you do not feel heard at school.**
-   - **Childline:** Call 0800 1111 (for those 18 and under).
-   - **NSPCC Helpline:** Call 0808 800 5000 (available 10am–4pm Mon–Fri, or email help@nspcc.org.uk 24/7).
-   - **LADO:** You or your parents can contact the Local Authority Designated Officer (LADO) at your local council if you feel the school is not taking the report seriously.
-6. **Call 999 if the person attempts to see you or threatens you.**
-   **If they show up at your home, follow you, or threaten to share information about you, contact the police immediately.**
+1. **Create a safer pause and end the channel.**  
+   Stop replying. Turn off disappearing messages for that chat if you can. If you feel safer, block or mute them. If it’s a school platform, log out and don’t continue the conversation.
+2. **Only if it’s safe, save just enough to show the problem (don’t go looking for more).**  
+   If messages might vanish and your device is private/safe to use, save or screenshot a small amount that shows the account name and the request for secrecy/disappearing messages. If you’re not sure your phone is private (or screenshots could put you at risk), skip this and tell a trusted adult—your safety matters more than “evidence.”
+3. **Tell the safeguarding person at your school/college (today).**  
+   In England this is often the **Designated Safeguarding Lead (DSL)** (or Deputy DSL). If you don’t know who it is (or you’re outside England), ask reception/admin: **“Who is the safeguarding/child protection lead?”**  
+   Say plainly: “A staff member asked me to use secret/disappearing messages and keep it private. I’m worried.”  
+   If the safeguarding lead is the person involved, tell the **headteacher/principal** or the **chair of governors/proprietor** (or equivalent) and ask them to follow the school’s safeguarding process for concerns about staff.
+4. **Tell a safe adult outside school as well.**  
+   If you can, tell a parent/carer or another trusted adult (relative, friend’s parent, youth worker). If you’re worried about how they’ll react, you can start with: “I need you to listen first. I’m not in trouble. I need help with a safeguarding issue.”
+5. **Get specialist support if you’re unsure, or you can’t safely tell someone locally.**  
+   - If you’re under 19, contact **Childline (0800 1111)** for confidential support.  
+   - If you’re an adult worried about a child (including yourself when you were under 18), contact the **NSPCC Helpline (0808 800 5000)** for advice on what to do next.
+6. **If you’re scared right now or they try to escalate contact.**  
+   If they threaten you, try to arrange a meeting, show up at your home, or you feel unsafe: call **999**. If it’s not an emergency but you need police help, call **101**.
 
 ## What can wait
-- You do not need to decide whether you want to press charges or involve the police for non-emergencies right now.
-- You do not need to know the specific name of the school policy being broken.
-- You do not need to have a "perfect" memory of every message sent; a general summary of the request for secrecy is enough.
+- You do **not** need to decide right now whether to make a formal complaint, involve police, or label it as grooming or abuse.
+- You do **not** need to write a full timeline tonight. A few key facts (who, what was asked, when, where) is enough for now.
+- You do **not** need to confront the person, warn others, or try to investigate.
 
 ## Important reassurance
-It is normal to feel hesitant or confused when someone in a position of authority asks for a secret. Professionals are trained to know that secret or disappearing communication with students is a violation of safety rules. Reporting this is a standard procedure to keep everyone safe, and you are not responsible for the consequences of their request.
+Feeling confused, embarrassed, or worried about “getting someone in trouble” is very common—especially when the person is respected. You are not overreacting: asking for secrecy/disappearing messages is a serious boundary-crossing signal, and you deserve support and protection.
 
 ## Scope note
-This guide provides first-step stabilization for a specific boundary violation. It does not cover long-term legal processes, disciplinary hearings, or forensic data recovery.
+These are first steps to help you pause, preserve options, and get the concern into the right safeguarding hands. Later steps may involve formal school processes or specialist services, but you don’t have to figure that out alone in the first moments.
 
 ## Important note
-This information is for guidance only and does not constitute legal advice. If you are in immediate danger, contact emergency services on 999. Organisations have a legal duty to investigate concerns involving staff conduct with minors.
+This is general information, not legal advice. If you are in immediate danger, call 999. If you cannot safely act on any step, prioritise getting to a safer situation and contacting a trusted adult or specialist helpline.
 
 ## Additional Resources
-- https://www.nspcc.org.uk/keeping-children-safe/online-safety/social-media/chat-apps/
-- https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/online-grooming/
-- https://www.nspcc.org.uk/keeping-children-safe/types-of-abuse/grooming/
-- https://www.nspcc.org.uk/keeping-children-safe/online-safety/online-reporting/
-- https://www.nspcc.org.uk/keeping-children-safe/outside-the-home/at-school/
+- https://www.gov.uk/government/publications/keeping-children-safe-in-education--2
+- https://assets.publishing.service.gov.uk/media/68add931969253904d155860/Keeping_children_safe_in_education_from_1_September_2025.pdf
+- https://www.nspcc.org.uk/about-us/our-services/childline/
+- https://www.nspcc.org.uk/about-us/our-services/nspcc-helpline/
+- https://learning.nspcc.org.uk/safeguarding-child-protection/managing-allegations-of-abuse/allegations-about-staff-volunteers
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/

@@ -1,114 +1,93 @@
----
+﻿---
 title: "What to do if… a friend tells you they were sexually assaulted and you do not know what to do first"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "friend tells me they were raped"
-  - "someone disclosed sexual assault to me"
-  - "how to support sexual assault survivor"
-  - "responding to sexual violence disclosure"
-  - "what to say after sexual assault"
-  - "friend says they were abused"
-  - "help i do not know what to do"
-  - "what do i do if my friend was raped"
-  - "my friend was sexually assaulted help"
-  - "help my friend was just attacked"
-  - "trauma disclosure first steps"
-  - "sexual assault support uk"
-  - "confidential sexual assault helplines"
-  - "listening to survivors"
-  - "avoiding victim blaming"
-  - "sarc referral process"
-  - "rape crisis support line"
-  - "sexual violence emergency steps"
-  - "friend is shaking and crying"
-  - "friend is silent after assault"
-  - "smell of alcohol or chemicals"
-  - "torn clothing or bruises"
-  - "disclosed in a flat"
-  - "disclosed at a party"
-  - "disclosed on the phone"
-  - "disclosed at night"
-  - "disclosure of recent assault"
-  - "disclosure of historic abuse"
-  - "supporting a survivor without judging"
-  - "sexual assault help for men"
-  - "sexual assault help for women"
-  - "supporting non-binary survivors"
-last_reviewed: "2026-03-17"
+  - friend disclosed sexual assault
+  - someone told me they were raped
+  - what to say to a survivor
+  - how to respond to sexual assault disclosure
+  - i froze when they told me
+  - i don't know what to do first
+  - supporting a friend after assault
+  - listening after sexual violence
+  - afraid of saying wrong thing
+  - they told me in confidence
+  - helping someone after rape
+  - immediate steps after disclosure
+  - friend says they were abused
+  - sexual assault disclosure help
+  - what if it happened long ago
+  - what if it just happened
+  - panic after friend told me
+  - trauma disclosure response
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… a friend tells you they were sexually assaulted and you do not know what to do first (UK)
 
 ## Short answer
-Ensure the person is in a safe location, believe their account without questioning, and ask what they need in the next few minutes. Call 999 if there is an immediate threat to life or safety.
+Stay with them (in person or on the phone), believe them, and ask what they need *right now* to feel safer. If they’re in immediate danger or need urgent medical help, call 999.
 
 ## Do not do these things
-- Do not ask why they did or did not take specific actions during or after the event.
-- Do not pressure the person to report the incident to the police or take any legal action.
-- Do not investigate the event or ask for a detailed chronological account.
-- Do not contact the alleged perpetrator or other people to verify the story.
-- Do not offer physical contact such as a hug without asking for permission first.
-- Do not promise absolute confidentiality if a child is at risk or there is a threat of serious harm to others.
+- Do not ask “why” questions (why they didn’t leave, fight, scream, report, etc.).
+- Do not press them to report to police or to “do something right now”.
+- Do not investigate, interrogate, or ask for detailed step-by-step descriptions.
+- Do not contact the perpetrator or mutual friends to “confirm” anything.
+- Do not promise total secrecy if there is immediate danger to them or a child is at risk (you can still be honest and gentle about this).
+- Do not post, text screenshots, or share their story without explicit permission.
 
 ## What to do now
-1. **Acknowledge the disclosure with a neutral and supportive statement.**  
-   **Use clear language to validate their experience.**  
-   - "I believe you."  
-   - "This was not your fault."  
-   - "I am sorry this happened to you."
+1. **Ground the moment in one simple sentence.**  
+   Say something like: “I’m really sorry this happened. I believe you. You’re not to blame.”
 
-2. **Establish immediate physical and environmental safety.**  
-   **Ask if the person feels safe in the current location and if the perpetrator is nearby.**  
-   - If they are in danger, help them move to a staffed public space or a locked room.  
-   - Call 999 if there is an ongoing threat.
+2. **Check immediate safety (without forcing details).**  
+   Ask: “Are you safe right now?” and “Is the person who hurt you nearby or likely to come to you?”  
+   - If **yes** or you’re unsure: help them get to a safer place (another room, a friend’s home, a staffed public place), and **call 999** if there’s immediate danger.
 
-3. **Provide jurisdictional-specific specialist contact information.**  
-   **Offer to sit with them while they call a support line for advice that does not require a police report.**  
-   - England and Wales: Call the **24/7 Rape & Sexual Abuse Support Line** (for ages 16+) on **0808 500 2222**.  
-   - Scotland: Call the **Rape Crisis National Helpline** on **08088 010 302** (daily, 5:00 PM to midnight).  
-   - Northern Ireland: Call the **Domestic and Sexual Abuse Helpline** on **0808 802 1414** (24/7).  
-   - Under 18s (All UK): Contact **Childline** on **0800 1111** or the **NSPCC** on **0808 800 5000**.
+3. **Ask what *they* want in the next 30 minutes. Give options.**  
+   Offer 2–3 concrete choices, not an open-ended “what should we do?” For example:  
+   - “Do you want me to stay on the phone / come over?”  
+   - “Do you want to talk to a specialist support line together?”  
+   - “Do you want help getting medical care or somewhere safe to sleep tonight?”
 
-4. **Address time-sensitive medical needs without pressure.**  
-   **Inform them that certain medical options are time-limited if they occurred recently.**  
-   - HIV Post-Exposure Prophylaxis (PEP) is most effective if started within 24 hours and must be started within 72 hours.  
-   - Emergency contraception is effective for up to 3 to 5 days depending on the type.  
-   - Use NHS 111 to find the nearest Sexual Assault Referral Centre (SARC) for these services.
+4. **Offer specialist support that does not require reporting.**  
+   If they want trained support right away, offer to sit with them while they contact the **24/7 Rape & Sexual Abuse Support Line** (free) on **0808 500 2222** (phone) or use the free online chat option. This line is **not an emergency service**.  
+   If they are outside England (for example Scotland or Northern Ireland), you can still use the same approach: focus on safety first (999 for emergencies), and consider calling **111** for urgent medical advice and direction to local services.
 
-5. **Explain the option of evidence preservation.**  
-   **State that they can choose to preserve evidence even if they do not want to report to the police yet.**  
-   - If the assault was recent, suggest they avoid washing, eating, or changing clothes until they speak to a SARC.  
-   - Explain that clothing can be stored in a clean paper bag (not plastic).
+5. **If it may have happened recently, offer medical support as an option (no pressure).**  
+   You can say: “You don’t have to decide about police. If you want, a Sexual Assault Referral Centre (SARC) can offer medical care and support.”  
+   If they want help accessing care, help them find the nearest SARC or seek medical help for injuries. If you’re not sure whether it’s an emergency, **111** can help you decide what to do next.
 
-6. **Prioritise the survivor's autonomy in all decisions.**  
-   **Ask what they want to happen in the next 30 minutes rather than making plans for them.**  
-   - Offer specific choices: "Would you like me to stay here, or should I call someone else for you?"  
-   - Respect a decision to do nothing or to go to sleep.
+6. **Keep control with them.**  
+   Use consent-based questions: “Is it okay if I ask…?” “Do you want advice or just someone with you?”  
+   If they say “don’t tell anyone,” respond: “Okay. I won’t share this without your permission, unless I’m really worried you or someone else is in immediate danger.”
 
-7. **Offer one immediate practical stabilizer.**  
-   **Provide a small comfort that requires no complex decision-making.**  
-   - Offer a glass of water or a blanket.  
-   - Offer to charge their phone or arrange transport home.
+7. **If they might want the option to report later, gently protect choices (optional).**  
+   You can say: “Only if you want and it feels safe, you might choose to avoid changing or washing until you’ve spoken to a SARC—just so you keep your options open.” (If that feels upsetting or impractical, skip it.)
+
+8. **Help with one practical stabiliser.**  
+   Offer something small and immediate: water, a blanket, a quiet room, turning off notifications, arranging a taxi, or drafting a short message they can send to someone they trust (“I’m not okay tonight—can you be with me?”).
 
 ## What can wait
-- Deciding whether to make a formal police report.
-- Providing a full statement or written account of the event.
-- Deciding on long-term therapy or counselling.
-- Telling family members or mutual acquaintances.
-- Assessing the legal strength of the case.
+- They do **not** need to decide today whether to report to the police.
+- They do **not** need to give you every detail for you to help them.
+- You do **not** need to “solve” it or figure out what legally happened right now.
+- Any written account, timelines, screenshots, or next-step planning can wait until they’re safer and supported.
 
 ## Important reassurance
-It is common for survivors to feel shock, numbness, or confusion. It is also common for supporters to feel uncertain or worried about saying the wrong thing. Simply being present, listening without judgment, and respecting their choices is the most effective way to provide immediate stability.
+It’s common to freeze, feel clumsy, or not know what to say. Being calm, believing them, and helping them connect to specialist support is already meaningful help.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction only. It does not replace specialist medical, legal, or psychological support.
+This is first steps only. Later choices (medical care, reporting, workplace/university steps, longer-term support) can be made with specialist help at their pace.
 
 ## Important note
-This information is for guidance in a crisis-adjacent situation and is not legal or medical advice. If there is an immediate risk of harm or a medical emergency, contact 999.
+This guide is general information for immediate first steps, not legal or medical advice. If someone is in immediate danger or needs urgent medical help, call 999.
 
 ## Additional Resources
-- https://rapecrisis.org.uk/get-help/supporting-a-survivor/
-- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
-- https://rapecrisis.org.uk/get-help/reporting-to-the-police/
 - https://rapecrisis.org.uk/get-help/want-to-talk/
-- https://enough.campaign.gov.uk/get-support
+- https://247sexualabusesupport.org.uk/
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
+- https://www.gov.uk/government/news/new-24-7-support-service-for-victims-of-rape-launched

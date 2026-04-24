@@ -1,88 +1,76 @@
----
+﻿---
 title: "What to do if… you suspect someone is watching your home from a parked car across the street"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "suspicious car outside home"
-  - "parked car watching house"
-  - "someone observing my house"
-  - "possible burglary scouting"
-  - "being watched from vehicle"
-  - "car loitering across street"
-  - "unknown vehicle outside"
-  - "someone sitting in car"
-  - "potential stalking at home"
-  - "suspicious person in car"
-  - "home surveillance fear"
-  - "vehicle casing homes"
-  - "repeated car outside house"
-  - "suspicious activity near home"
-  - "concern about break in"
-  - "worried someone is monitoring me"
-  - "stranger parked outside"
-  - "car outside at night"
-  - "what do i do if a car is watching my house"
-  - "what do i do if i am being watched"
-  - "what do i do if a stranger is outside"
-  - "what do i do if i see a suspicious car"
-  - "help i think a car is watching me"
-  - "help i am being followed home"
-  - "help i feel unsafe at home"
-  - "help my house is being watched"
-  - "watching my home from car"
-  - "watching my address from car"
-  - "street surveillance from car"
-  - "parked car surveillance"
-  - "casing my home"
-  - "unfamiliar car outside"
-  - "strange car across street"
-  - "loitering vehicle UK"
-  - "reporting suspicious car"
-last_reviewed: "2026-03-17"
+  - suspicious car outside home
+  - parked car watching house
+  - someone observing my house
+  - possible burglary scouting
+  - being watched from vehicle
+  - car loitering across street
+  - unknown vehicle outside
+  - someone sitting in car
+  - potential stalking at home
+  - suspicious person in car
+  - home surveillance fear
+  - vehicle casing homes
+  - repeated car outside house
+  - suspicious activity near home
+  - concern about break in
+  - worried someone is monitoring me
+  - stranger parked outside
+  - car outside at night
+last_reviewed: "2026-01-17"
 ---
+
 # What to do if… you suspect someone is watching your home from a parked car across the street (UK)
 
 ## Short answer
-Move out of direct sight of the vehicle immediately and secure all entry points to your home.
+Get yourself and anyone with you away from windows, secure the house, and contact police if you think a crime may be in progress or you feel unsafe.
 
 ## Do not do these things
-- Don’t go outside to confront the driver or knock on the car window.
-- Don’t "test" the occupants by shouting, waving, or shining a torch directly at them.
-- Don’t stay by the window where you can be seen while observing them.
-- Don’t post about the situation on social media in real time.
-- Don’t leave your house to "investigate" the vehicle.
+- Don’t go outside to confront the person or knock on the car window.
+- Don’t “test” them by shouting, shining a bright light at them, or making threats.
+- Don’t keep returning to the window where you can be seen.
+- Don’t post about it publicly in real time (it can escalate and reveal your routine).
+- Don’t leave the house to “check” by driving around.
 
 ## What to do now
-1. **Move to a room where you cannot be seen from the street.** Ensure you and anyone else in the building are away from front-facing windows.
-2. **Lock all doors and windows immediately.** Check that side gates, garages, and rear entrances are also secured.
-3. **Turn on interior lights in a room you are not using.** This creates the impression of activity without revealing your exact location.
-4. **Note the vehicle details from a safe, hidden vantage point only if possible.** If you can see without being seen, record:
-   - the make, model, and colour of the car
-   - the full registration number (number plate)
-   - the number of people inside and their activities
-5. **Call 999 if you believe a crime is in progress or you are in immediate danger.** Use this number if the person approaches your door, tries to enter, or if you feel a threat to life is imminent.
-   - If you cannot speak, dial 999 and then press 55 when prompted (the Silent Solution).
-6. **Call 101 to report the suspicious activity if there is no immediate threat.** Use this non-emergency number if the vehicle is loitering but no one has attempted to approach your property.
-7. **Request an incident or log number for your report.** Keep this reference in case the vehicle returns or the situation escalates later.
-8. **Check your security camera or doorbell footage if you have it.** Do not go outside to check the cameras; use a phone or indoor monitor to see if the vehicle has been recorded.
+1. **Move to a safer position inside.** Get everyone into a room away from front-facing windows (an upstairs or interior room is often better). Keep pets close.
+2. **Secure entry points and reduce “easy wins.”** Lock doors, close/lock accessible windows, and keep car keys/valuables out of sight and away from the front door area.
+3. **Turn on light without approaching the car.** Switch on a couple of indoor lights and/or exterior lights so you can see outside safely.
+4. **Arm what you already have.** If you have a burglar alarm, set it. If you have a doorbell camera/CCTV, check it’s recording and that clips can be saved.
+5. **Note details from a safe viewpoint (don’t linger).** If you can do it without being visible:
+   - exact location of the car
+   - make/model/colour
+   - **number plate**
+   - number of occupants and what they’re doing (e.g., watching houses, taking photos, getting in/out repeatedly)
+   - when you first noticed it and any changes
+6. **Call the right police number for urgency.**
+   - **Call 999** if you believe a crime is in progress, someone is in immediate danger, or the person approaches your home/tries doors or windows.
+   - **Call 101** if it feels suspicious but not immediately dangerous (for example: sitting there watching, returning repeatedly, circling the street).
+   - Some forces also allow **online reporting** for non-urgent concerns.
+7. **When you speak to police, be concrete.** Start with: “There’s a vehicle parked across the street and I’m concerned it’s watching my address.” Give the details you noted and say if you’re alone or if children are present. Ask for an **incident/reference number**.
+8. **If it’s not urgent but you want to share information anonymously.** You can use Crimestoppers to pass on **non-urgent** information about suspected crime. Do **not** use this if you or anyone else is in danger, or if it’s happening now (use **999**).
 
 ## What can wait
-- You do not need to identify who the person is right now.
-- You do not need to decide if they are "definitely" a criminal before calling the police.
-- You do not need to install new security hardware or lights tonight.
+- You don’t need to decide now whether it was “definitely criminal” or “definitely nothing.”
+- You don’t need to confront them or gather “proof” beyond what you can safely observe.
+- You don’t need to make long-term security upgrades tonight.
 
 ## Important reassurance
-It is normal to feel anxious or hyper-vigilant when you feel your privacy or safety is being compromised. Reporting suspicious behavior is a responsible action and helps the police understand patterns of activity in your neighborhood.
+Feeling on-edge is a normal reaction to this. You’re allowed to contact police about something suspicious, especially if you can describe what you’re seeing and why it worries you.
 
 ## Scope note
-This guide is for first-step stabilization and immediate safety. If this behavior is part of a pattern of harassment or stalking by someone you know, additional specialist legal and protective measures will be required.
+These are first steps for the next minutes to hours. If this becomes repeated, targeted, or linked to someone you know, you may need more tailored support and longer-term safety planning.
 
 ## Important note
-This information is for general safety guidance and does not constitute legal or professional advice. Always trust your instincts regarding your personal safety. If you believe you are in danger, contact emergency services on 999.
+This is general information, not legal advice. Trust your instincts about immediate safety. If you believe you’re in danger or a crime is in progress, call 999.
 
 ## Additional Resources
-- https://www.suzylamplugh.org/personal-safety-at-home
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-to-do-if-youre-being-stalked-or-harassed/
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
-- https://www.suzylamplugh.org/pages/category/national-stalking-helpline
+- https://www.gov.uk/contact-police
+- https://www.police.uk/pu/contact-us/
+- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/
+- https://www.gov.uk/report-crime
+- https://crimestoppers-uk.org/give-information/forms/give-information-anonymously

@@ -1,88 +1,83 @@
----
+﻿---
 title: "What to do if… someone keeps pressuring you to send voice notes or videos saying sexual things you do not want recorded"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "being pressured to sext"
-  - "forced sexual voice notes"
-  - "unwanted sexual videos"
-  - "pressured to send recordings"
-  - "sexual coercion online"
-  - "partner demanding explicit clips"
-  - "pressured into sexual messages"
-  - "asked for dirty voice notes"
-  - "asked for sexual videos"
-  - "don't want it recorded"
-  - "someone won't stop asking"
-  - "online sexual pressure"
-  - "coercive sexual messages"
-  - "pressured by partner online"
-  - "worried they will save it"
-  - "sexual things on camera"
-  - "intimate recording pressure"
-  - "what do i do if someone wants sexual videos"
-  - "what do i do if i am being pressured to send voice notes"
-  - "what do i do if i am being coerced online"
-  - "help i am being pressured to send nudes"
-  - "my partner is pressuring me for sexual videos"
-  - "my boyfriend wants a sexual voice note"
-  - "my girlfriend is demanding sexual recordings"
-  - "help i am being sextorted"
-  - "smell of burning phone"
-  - "feelings of panic and dread"
-  - "seeing repeated demanding messages"
-  - "hearing constant notification pings"
-  - "pressure to record sexual acts"
-  - "recording sexual things under pressure"
-  - "forced to say sexual things on tape"
-  - "digital sexual abuse"
-  - "non-consensual intimate imagery threats"
-  - "image based sexual abuse"
-last_reviewed: "2026-03-17"
+  - being pressured to sext
+  - forced sexual voice notes
+  - unwanted sexual videos
+  - pressured to send recordings
+  - sexual coercion online
+  - partner demanding explicit clips
+  - pressured into sexual messages
+  - asked for dirty voice notes
+  - asked for sexual videos
+  - don't want it recorded
+  - scared to say no
+  - someone won't stop asking
+  - online sexual pressure
+  - coercive sexual messages
+  - pressured by partner online
+  - worried they will save it
+  - sexual things on camera
+  - intimate recording pressure
+last_reviewed: "2026-03-14"
 ---
-# What to do if… someone keeps pressuring you to send voice notes or videos saying sexual things you do not want recorded (USA)
 
+# What to do if… someone keeps pressuring you to send voice notes or videos saying sexual things you do not want recorded (USA)
 ## Short answer
-Do not create or send the recording. Disengage from the conversation immediately, save evidence of the pressure, and contact a specialist support service to help you secure your digital safety.
+
+Do not send the recording. Pause the conversation, save what they said, and tell one trusted person so you are not handling the pressure alone.
 
 ## Do not do these things
-- Do not send a "shorter" or "less explicit" version to try and satisfy the person.
-- Do not delete the messages or call logs until you have saved evidence.
-- Do not engage in a debate or keep explaining why you are saying no.
-- Do not agree to meet in person to discuss the requests if you feel unsafe or controlled.
-- Do not ignore your instinct that this feels wrong, even if the person says it is "normal" for couples.
+
+- Do not send “just enough to make them stop.”
+- Do not keep debating after you have said no.
+- Do not delete the messages immediately if you may want support or may need to show what happened.
+- Do not send sexual content because you are scared they will get angry, leave, expose you, or keep asking.
+- Do not meet them alone to discuss it if the pressure feels threatening or controlling.
+- Do not assume it is harmless because it is “only online” or “only audio.”
 
 ## What to do now
-1. **Stop all recording and sending immediately.** If you are in the middle of a conversation, put the phone down or close the app without providing a detailed explanation.
-2. **Secure the evidence of coercion.** Take screenshots of the requests, any threats (e.g., "if you don't do this, I'll..."), the person's profile, and the date/time of the messages.
-   - If using apps with disappearing messages, use another device to take a photo of the screen if a screenshot would trigger a notification.
-3. **Exit the interaction.** Mute the individual or the specific chat thread to stop the influx of notifications and pressure while you decide on your next steps.
-4. **Report and block the account.** Use the platform's internal tools to report "harassment" or "sexual solicitation," then block the user.
-5. **Contact a specialized support line for safety planning.** 
-   - Call the RAINN National Sexual Assault Hotline at 800-656-HOPE (4673) or use their online chat.
-   - If this is part of a domestic or dating relationship, call the National Domestic Violence Hotline at 800-799-SAFE (7233) or text "START" to 88788.
-   - For immediate text-based support, text "HOME" to 741741 to reach the Crisis Text Line.
-6. **Use proactive protection tools if you fear images may be shared.** If the person already has intimate content or you are worried about future distribution, visit StopNCII.org to proactively hash (digitally fingerprint) content so it can be blocked by participating platforms.
-7. **Notify a trusted adult if you are under 18.** Contact a parent, counselor, or teacher. You can also report online exploitation of minors to the NCMEC CyberTipline at 1-800-THE-LOST (843-5678).
-8. **File a report for online coercion if desired.** You can submit a report of online harassment or coercion to the FBI's Internet Crime Complaint Center (IC3.gov).
+
+1. **Stop creating anything for them.** A brief reply is enough: “I’m not sending that.” You do not owe a longer explanation.
+
+2. **Get out of the live pressure loop.** Mute the chat, log off the app for a bit, or hand your phone to a trusted person while you steady yourself.
+
+3. **Save the evidence once, then step back.** Screenshot the messages, username, profile, date, and any threats or repeated demands. If it happened on disappearing messages, write down the app and what was said while it is still fresh.
+
+4. **Use platform safety tools.** Report the account for sexual harassment, coercion, or threats, then block or restrict it if that is the safest option for you. If you think your device or account activity may be watched by the person pressuring you, use a safer device or browser before changing settings or making reports.
+
+5. **Tell one trusted person today.** Say directly that someone is pressuring you to send sexual recordings you do not want to make. Ask them to stay with you while you report, block, or make a plan for the next few hours.
+
+6. **Reach out to a specialist support service if this feels violating, controlling, or connected to abuse.** RAINN has a national sexual assault hotline and online chat. If this is happening in a dating relationship or through coercive control, the National Domestic Violence Hotline can help with safety planning.
+
+7. **If you are under 18, involve a trusted adult immediately.** A parent, caregiver, school counselor, teacher, or another safe adult can help you respond. For online sexual exploitation involving a minor, reports can be made to NCMEC’s CyberTipline.
+
+8. **If sexual images or videos are later shared without your permission, use the current removal and reporting routes.** The FTC has guidance on nonconsensual distribution of intimate images and says reports can be made through ReportFraud.
+
+9. **If you are in immediate danger, call 911.** If there is no immediate danger, you can still choose later whether you want to speak to local law enforcement or a support advocate first.
 
 ## What can wait
-- You do not need to decide if you want to end the relationship permanently right this second.
-- You do not need to decide whether to file a formal police report immediately.
-- You do not need to "prove" the pressure was bad enough to count as abuse before seeking help.
+
+You do not need to decide right now whether to file a police report, confront the person again, or make big decisions about the relationship. You also do not need to go through every message repeatedly to “be sure it counts.”
 
 ## Important reassurance
-It is normal to feel panicked, trapped, or guilty when someone you know or love pressures you for sexual content. This pressure is a form of coercion and is not your fault. You have the absolute right to control your image and your voice, regardless of your past interactions with this person.
+
+Pressure to make sexual recordings you do not want is not your fault. People often freeze, minimize it, or worry they are overreacting. You are allowed to stop, block, ask for help, and take this seriously even if nothing was sent.
 
 ## Scope note
-This is first-step stabilization only. It is designed to help you stop the immediate pressure and secure evidence. Longer-term safety planning and legal options should be discussed with a trained advocate or legal professional.
+
+This is first steps only. It is focused on helping you stabilise things and avoid making the situation harder in the next few hours. Later decisions about reporting, safety, or the relationship may need specialist support.
 
 ## Important note
-This guide is for informational purposes and does not constitute legal or crisis counseling advice. Under the Take It Down Act (2026), there are federal civil and criminal protections against the non-consensual distribution of intimate imagery; however, state laws vary. Always consult with a specialized advocate to understand the specific protections available in your jurisdiction.
+
+This is general information, not legal, medical, or crisis counselling advice. Rules and reporting options can vary by state and by platform. If you may want to report later, saving screenshots and avoiding new recordings can help, but you do not have to decide everything now.
 
 ## Additional Resources
-- https://www.loveisrespect.org/pdf/What_Is_Digital_Abuse.pdf
-- https://www.loveisrespect.org/resources/what-is-sexual-coercion/
+- https://rainn.org/help-and-healing/hotline/
+- https://rainn.org/what-counts-as-sexual-violence/get-the-facts-about-tech-enabled-sexual-abuse/
+- https://www.thehotline.org/
+- https://www.thehotline.org/plan-for-safety/internet-safety/
+- https://www.missingkids.org/gethelpnow/cybertipline
 - https://consumer.ftc.gov/articles/nonconsensual-distribution-intimate-images
-- https://cybercivilrights.org/ccri-safety-center/
-- https://www.loveisrespect.org/resources/what-is-revenge-porn/

@@ -1,97 +1,99 @@
----
+﻿---
 title: "What to do if… your printer or webcam shows new network settings you did not configure"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "repeated allow access prompts"
-  - "unexpected allow access popups"
-  - "allow access loop"
-  - "permission prompts won’t stop"
-  - "apps asking for access you didn’t open"
-  - "random permission request"
-  - "suspicious phone pop up"
-  - "possible malware on phone"
-  - "unknown app requesting permissions"
-  - "strange authentication prompts"
-  - "account approval spam"
-  - "phone might be compromised"
-  - "device security scare"
-  - "i keep getting access requests"
-  - "unexpected sign in approval prompt"
-  - "google prompt i didn’t request"
-  - "apple account access request"
-  - "what do i do if my screen shows repeated access prompts"
-  - "what do i do if apps ask for access i didnt open"
-  - "what do i do if i get random permission requests"
-  - "what do i do if my phone keeps showing allow access"
-  - "help i keep getting allow access prompts"
-  - "help i clicked allow by mistake on a popup"
-  - "help i have a permission prompt loop"
-  - "help my screen is showing repeated prompts"
-  - "smell of burning phone battery"
-  - "visible screen flickering with prompts"
-  - "unusual device heat during prompts"
-  - "ghost touch prompts"
-  - "unauthorized access request screen"
-  - "security prompt spam"
-  - "mfa fatigue attack"
-  - "unauthorized sign in request"
-  - "system access prompt"
-last_reviewed: "2026-03-17"
+  - printer network settings changed
+  - webcam network settings changed
+  - camera shows new wifi
+  - printer ip address changed
+  - device says new network
+  - smart device tampering
+  - iot device tampered with
+  - router compromised signs
+  - unknown devices on wifi
+  - camera account compromised
+  - printer admin password forgotten
+  - device connected to wrong wifi
+  - port forwarding changed
+  - remote access enabled unexpectedly
+  - wifi password changed without me
+  - suspicious device settings
+  - someone changed my wifi settings
+  - unexpected ssid on device
+  - printer dns settings changed
+  - webcam remote viewing enabled
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your printer or webcam shows new network settings you did not configure (USA)
 
+# What to do if… your printer or webcam shows new network settings you did not configure (USA)
 ## Short answer
-Do not tap any buttons on the prompt—immediately enable Airplane mode to sever the connection while you secure your accounts from a separate, trusted device.
+Take the device offline immediately, then secure your home router account (router admin login + Wi-Fi password) before you reconnect the printer/webcam.
 
 ## Do not do these things
-- Don’t tap **“Allow,” “Approve,” “Yes,”** or any "X" to dismiss the prompt, as these may be spoofed.
-- Don’t provide one-time codes or "verification numbers" to anyone via phone or text, even if they claim to be official support.
-- Don’t install "security tools," VPNs, or configuration profiles suggested by the prompt itself.
-- Don’t change passwords on the device currently showing the prompts.
-- Don’t grant permissions to "test" which app is causing the issue.
-- Don’t ignore the prompts even if they stop temporarily.
+- Don’t leave the printer/webcam connected “while you troubleshoot” — that can keep the door open.
+- Don’t approve unexpected “remote access”, “cloud sharing”, or “pairing” prompts.
+- Don’t reuse passwords (especially for router, email, or camera accounts).
+- Don’t factory reset before grabbing quick photos/screenshots of what changed.
+- Don’t ignore it if you also see strange router settings (DNS/port forwarding/remote management) — that often matters more than the device itself.
 
 ## What to do now
-1. **Isolate the device immediately:** swipe to open your control center and **toggle Airplane mode on**. 
-   - Ensure both Wi-Fi and Bluetooth are disabled.
-   - If the prompts prevent you from accessing settings, **power the device off** completely.
-2. **Document the specific prompt:** use a different device to **take a photo** of the screen or note the exact wording of the prompt.
-   - Look for specific app names, service names (Apple, Google, Microsoft), or specific permission types (Accessibility, Device Admin, Location).
-3. **Secure core accounts from a secondary trusted device:** use a separate computer or phone to **change your primary passwords**.
-   - Start with your **Email account**, then your **Apple Account or Google Account**, followed by **Banking and Financial apps**.
-   - Check the "Recent Devices" or "Active Sessions" list in your account security settings and **remove any unrecognized devices**.
-4. **Check for unauthorized configuration profiles (Apple):** go to **Settings > General > VPN & Device Management**.
-   - Review any listed profiles; if you do not recognize a profile and do not have a work/school-managed device, **do not approve it**.
-   - If a suspicious profile exists, note its name before removing it.
-5. **Verify background security settings (Apple):** go to **Settings > Privacy & Security** and ensure **Background Security Improvements** is toggled on.
-   - This ensures the device receives silent "Rapid Security Responses" for known exploits like DarkSword or Coruna.
-6. **Use Safe Mode to identify malicious apps (Android):** hold the power button, then long-press "Power Off" until the **Safe Mode** prompt appears.
-   - While in Safe Mode, navigate to **Settings > Apps** and look for recent downloads or apps with generic names/no icons.
-   - Uninstall any suspicious entries and restart the device.
-7. **Clear browser permissions if the prompts look like notifications:** go to your browser settings (Chrome/Safari) and **clear all site data and notification permissions**.
-   - Scammers often use "web push notifications" to mimic system-level access prompts.
-8. **Report the incident if financial or identity data is involved:** contact the **FTC** and **FBI**.
-   - Note: Online services at IdentityTheft.gov or ReportFraud.ftc.gov may be affected by federal funding lapses; if unavailable, keep a local log of the incident.
-   - File a report with the **FBI Internet Crime Complaint Center (IC3)** at ic3.gov.
+1. **Disconnect the device right away.**  
+   - Printer: unplug Ethernet or disable Wi-Fi; if unsure, power it off.  
+   - Webcam: unplug it. For built-in webcams, disable it and cover the lens for now.
+
+2. **Record what changed (fast, minimal interaction).**  
+   Take photos/screenshots of: Wi-Fi name (SSID), IP/DNS settings, “remote access” toggles, any new users/admin accounts shown, and timestamps.
+
+3. **Secure the router (priority).**  
+   From a device you trust, log into your router/admin app and:
+   - **Change the router’s admin password** (the router login — not the Wi-Fi password). If you can, change the default admin username too.  
+   - **Change the Wi-Fi password** and reconnect only your devices.  
+   - Turn off **remote management** unless you knowingly use it.  
+   - If you don’t knowingly need it, turn off **UPnP** (note any port forwards first).  
+   - If available, use **WPA2/WPA3** and disable **WPS**.
+
+4. **Check for unfamiliar devices and unexpected rules.**  
+   - Review your router’s connected-device list and remove/block anything you don’t recognize.  
+   - Check for unexpected **port forwards**, **DNS changes**, or new administrator accounts.
+
+5. **Secure any cloud accounts tied to the webcam/printer.**  
+   - Change the password for the device vendor account/app.  
+   - Turn on **multi-factor authentication** if available.  
+   - Sign out of other sessions/devices if the service supports it.
+
+6. **Update firmware (router + device) before reconnecting.**  
+   - Install router firmware updates if available.  
+   - Update the printer/webcam firmware using the manufacturer’s official method.
+
+7. **Reset and reconnect in a controlled way (only if needed).**  
+   If settings still look wrong after steps 3–6: **factory reset** the printer/webcam and set it up again. If your router supports it, put smart devices on a **guest network**.
+
+8. **If this feels like surveillance or stalking, treat it as a safety issue.**  
+   Keep the webcam unplugged/covered until you’re confident it’s secure. If someone may have had physical access, prioritize changing router/admin passwords and account passwords from a device they don’t control.
+
+9. **Report if there’s clear intrusion, fraud, extortion, or financial loss.**  
+   - File a report with the **FBI’s Internet Crime Complaint Center (IC3)**.  
+   - **If money, identity theft, or consumer fraud is involved**, consider reporting to the **FTC** and contact your bank/card issuer promptly.
 
 ## What can wait
-- You do not need to perform a factory reset immediately if the prompts stop after removing a profile or app.
-- You do not need to replace the hardware right now.
-- You can wait to notify non-essential social media or retail accounts until your primary email and banking are secured.
+- You do **not** need to identify the attacker right now.
+- You do **not** need to replace all your equipment today.
+- You do **not** need to contact the manufacturer unless you can’t update/reset.
+- You do **not** need to make big decisions about your whole smart home setup while you’re stressed.
 
 ## Important reassurance
-Repeated prompts are often a tactic known as "MFA Fatigue," designed to annoy you into clicking "Allow." By enabling Airplane mode, you have successfully stopped the immediate attack vector. Securing your accounts from a different device effectively locks out the unauthorized party regardless of what is happening on the first screen.
+This is scary, but it’s often containable quickly. Taking the device offline and locking down the router and related accounts usually stops ongoing access, and you can reconnect only once you’re in control again.
 
 ## Scope note
-This guide provides first-step stabilization for digital prompts only. If prompts persist after these steps, the device may require professional forensic cleaning or a factory restore by an authorized service provider.
+These are first steps to reduce harm and stop further access. If you later find evidence of account takeover, harassment, or financial loss, you may want additional help (law enforcement reporting, bank fraud support, or a trusted IT professional).
 
 ## Important note
-This information is for situational stabilization and does not constitute professional cybersecurity, legal, or financial advice. Jurisdictional availability of government reporting tools may change based on federal budget status. If you suspect your physical safety is at risk due to a compromised account, contact local law enforcement.
+This is general information, not legal advice or forensic guidance. If you feel personally unsafe or believe a camera may be used to monitor you, prioritize immediate safety and seek local help.
 
 ## Additional Resources
-- https://consumer.ftc.gov/node/78375
-- https://consumer.ftc.gov/articles/securing-your-internet-connected-devices-home
 - https://consumer.ftc.gov/articles/how-secure-your-home-security-cameras
-- https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers
+- https://consumer.ftc.gov/articles/securing-your-internet-connected-devices-home
+- https://consumer.ftc.gov/node/78375
 - https://www.ic3.gov/
+- https://www.fbi.gov/investigate/cyber

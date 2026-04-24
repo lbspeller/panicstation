@@ -1,96 +1,86 @@
----
+﻿---
 title: "What to do if… you notice an unfamiliar vehicle repeatedly parked near your home or workplace at odd times"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "unfamiliar vehicle parked nearby"
-  - "suspicious car outside house"
-  - "strange van parked outside"
-  - "car repeatedly parked odd hours"
-  - "unknown vehicle watching me"
-  - "vehicle loitering near home"
-  - "vehicle loitering near workplace"
-  - "parked car outside at night"
-  - "repeated parking near my address"
-  - "being followed to work maybe"
-  - "possible stalking by car"
-  - "someone sitting in car outside"
-  - "car idling near my home"
-  - "unknown plates outside home"
-  - "suspicious vehicle near office"
-  - "car parked across the street"
-  - "car keeps returning same spot"
-  - "unfamiliar vehicle near driveway"
-  - "suspicious vehicle in car park"
-  - "vehicle near home at odd times"
-  - "what do i do if a strange car is outside my house"
-  - "what do i do if someone is watching my house from a car"
-  - "what do i do if a car follows me home"
-  - "what do i do if a vehicle is loitering near my work"
-  - "help i think i am being followed by a car"
-  - "help i see a suspicious van outside"
-  - "my neighbour says a car is watching me"
-  - "car parked with engine running outside house"
-  - "unfamiliar vehicle odd hours"
-  - "repeated vehicle sightings"
-  - "car outside house at 3am"
-  - "stranger in car outside workplace"
-  - "suspicious vehicle identification"
-  - "reporting a suspicious car UK"
-  - "police report for suspicious vehicle"
-last_reviewed: "2026-03-17"
+  - unfamiliar vehicle parked nearby
+  - suspicious car outside house
+  - strange van parked outside
+  - car repeatedly parked odd hours
+  - unknown vehicle watching me
+  - vehicle loitering near home
+  - vehicle loitering near workplace
+  - parked car outside at night
+  - repeated parking near my address
+  - being followed to work maybe
+  - possible stalking by car
+  - someone sitting in car outside
+  - car idling near my home
+  - unknown plates outside home
+  - suspicious vehicle near office
+  - car parked across the street
+  - car keeps returning same spot
+  - unfamiliar vehicle near driveway
+  - suspicious vehicle in car park
+  - vehicle near home at odd times
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… you notice an unfamiliar vehicle repeatedly parked near your home or workplace at odd times (UK)
 
 ## Short answer
-Create a safe pause by going indoors and locking all entries, then document the vehicle's details from a distance without approaching. Call 999 if you feel in immediate danger or believe a crime is in progress; otherwise, report the pattern to the police via 101 or their online reporting tool.
+Create a safe pause (indoors, doors locked, away from windows) and do not approach the vehicle. If you feel in immediate danger or think a crime is in progress, call 999; otherwise report the repeated pattern via 101 or your local police’s online reporting.
 
 ## Do not do these things
-- Do not approach the vehicle or confront the driver to ask why they are there.
-- Do not stand by windows or doors where you are clearly visible to the person in the vehicle.
-- Do not attempt to block the vehicle in or prevent it from leaving.
-- Do not post images of the vehicle or the number plate on public social media groups.
-- Do not use your own car to "scout" or follow the vehicle if it moves.
-- Do not ignore your instincts if the presence feels targeted or threatening.
+- Do not confront the driver or walk up to the vehicle “to check”.
+- Do not block the vehicle in with your car, stand in its path, or escalate the situation.
+- Do not post the number plate or photos publicly (it can inflame the situation and may harm an investigation).
+- Do not assume it’s “definitely nothing” and dismiss your instincts if the pattern continues.
+- Do not change your routine in a dramatic, panicked way (it can increase risk); make small, calm safety adjustments instead.
 
 ## What to do now
-1. **Move to a secure location immediately and ensure all entry points are locked.** This means going inside your home, a workplace with security, or a busy public building like a shop or café.
-2. **Alert a trusted person or building security about the vehicle's presence.** 
-   - If at home, tell a family member or call a friend to let them know the situation.
-   - If at work, notify your manager, facilities team, or the building's reception/security staff.
-3. **Capture the vehicle details only if you can do so safely from a concealed position.** Write down the following:
-   - The vehicle's make, model, colour, and registration number (number plate).
-   - Any distinguishing features such as damage, stickers, or roof racks.
-   - The exact times the vehicle arrives and departs.
-   - Any specific behaviour observed, such as the driver taking photos or watching specific entrances.
-4. **Determine if the situation requires an emergency response.** 
-   - **Call 999** if the person is attempting to enter your property, following you, making threats, or if you believe a crime (like theft or assault) is about to happen.
-   - **Call 101** (or use the police website's "Report" tool) if the vehicle is suspicious but there is no immediate threat to life or property.
-5. **Use the 'Silent Solution' if you need to call 999 but cannot speak safely.** 
-   - On a **mobile**: Call 999 and, if you cannot speak, listen for the automated prompt and **press 55** to be connected to the police.
-   - On a **landline**: Stay on the line. Operators can see your location data automatically and will listen for background noise to assess the danger.
-   - For **hearing or speech impairments**: Use the emergencySMS service (if pre-registered) by texting 999, or use the 999 BSL app.
-6. **Save any available digital evidence from security systems.** If you have a doorbell camera, dashcam, or CCTV, download and save the footage from the specific timestamps you recorded. Do not wait, as many systems overwrite data within 24 to 48 hours.
-7. **Request an incident reference number from the police when reporting.** If the vehicle returns, call 101 again and quote this reference number so the police can see the growing pattern of behaviour.
-8. **Vary your travel routes and times slightly to avoid being predictable.** If you usually leave or arrive at the exact same time, try to adjust your schedule by 10–15 minutes and use different streets or entrances where possible.
+1. **Get to a safer pause.** Go indoors or into a staffed/public place (work reception, shop, café). Lock doors. Keep distance and avoid standing at a window where you’re easy to spot.
+2. **Bring another person into the situation.**
+   - At home: tell someone you live with (or call/text a friend) and stay connected.
+   - In a block/office: tell building reception/concierge/facilities so they can monitor entrances and note the vehicle.
+   - At work: alert your manager, reception, or security/facilities and ask them to keep an eye out.
+3. **Capture the minimum useful details (from a safe place).** Write down:
+   - exact location (street/landmarks), dates/times, how long it stayed
+   - make/model/colour, number plate, distinguishing marks (stickers, dents)
+   - what you observed (waiting, watching entrances, following someone, taking photos)
+   If safe, take a photo/video discreetly from indoors—never from close range.
+4. **Preserve any relevant footage you already have.** If you have a doorbell camera/CCTV, save clips for the times it appears (many systems overwrite quickly). If at work, ask security/facilities to retain the relevant timestamps.
+5. **Choose the right contact route based on risk right now.**
+   - **Call 999** if you feel threatened, the person is approaching you, trying doors, following you, making threats, or you believe a crime is in progress.
+   - **Call 101 (or report online)** if it’s concerning but not an immediate threat. Give the pattern (repeat visits) and your recorded details.
+   - **If you need to call 999 but can’t speak safely:** stay on the line and follow the operator’s prompts. If calling from a **mobile**, you may be prompted to **press 55** to be put through to police. If calling from a **landline** and you can’t speak, staying silent while the operator can hear background noise may get you put through to police.
+6. **Ask for a reference/incident number and keep adding to the same report.** A clear timeline (even a short one) helps show the pattern.
+7. **Make a small, calm safety plan for the next 24 hours.**
+   - Leave/arrive with someone where possible (buddy system).
+   - Use well-lit routes/entrances and avoid lingering outside alone.
+   - Keep keys/phone ready before you step outside (not while walking distracted).
+   - If you park, choose a well-lit spot near people/cameras rather than the most convenient one.
+8. **Reduce predictable visibility at home (without making yourself feel trapped).** Close curtains at night, switch on external lights when arriving, and avoid spending time right by front windows if the vehicle is present.
+9. **If it seems targeted at you (not just the location), widen your support carefully.** Tell one trusted neighbour/colleague what the vehicle looks like and ask them to contact you (not confront) if they see it.
 
 ## What can wait
-- You do not need to identify the driver or the owner of the vehicle yourself.
-- You do not need to decide if this legally constitutes "stalking" or "harassment"—the police will make that determination based on your report.
-- You do not need to install new permanent security lighting or cameras in the next few minutes; focus on your immediate physical safety first.
+- You do not need to figure out who owns the vehicle right now.
+- You do not need to confront anyone, “gather proof”, or make a social media post.
+- You do not need to buy new security equipment immediately; preserving existing footage and reporting the pattern matters more in the first hours.
+- You do not need to decide whether this is stalking/harassment yet—focus on safety and documentation.
 
 ## Important reassurance
-It is a natural and protective response to feel hyper-vigilant when you notice a change in your environment. Noticing a pattern and documenting it is a proactive safety step. Many suspicious vehicle sightings have innocent explanations (such as delivery drivers on breaks or shift workers waiting for colleagues), but the police would rather you report a good-faith concern than ignore a potential risk.
+Noticing a repeated, odd-hours pattern and taking it seriously is a normal safety response. Many unfamiliar vehicles have harmless explanations, but you do not need certainty to take calm steps that keep you safer and make it easier for authorities to help if it escalates.
 
 ## Scope note
-This guide provides first-step stabilization for a suspicious vehicle sighting. It does not replace professional security assessments or a full police investigation.
+These are first steps to stabilise the situation and reduce risk. If the pattern continues, you may want tailored advice from local police, workplace security, or specialist support services.
 
 ## Important note
-If you are currently outside and feel you are being followed by the vehicle, do not go home. Move toward the nearest open police station or a busy, well-lit public area and call 999.
+This guide is general information for immediate safety and decision support, not legal advice. If you believe you are in immediate danger, call 999.
 
 ## Additional Resources
-- https://www.gov.uk/report-crime
-- https://www.gov.uk/how-report-antisocial-behaviour/report-police
-- https://www.police.uk/pu/contact-us/what-and-how-to-report/what-report/
+- https://www.gov.uk/contact-police
+- https://www.police.uk/pu/contact-us/
+- https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
+- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
 - https://crimestoppers-uk.org/give-information
-- https://www.met.police.uk/advice/advice-and-information/asb/asb/antisocial-behaviour/nuisance-parking/

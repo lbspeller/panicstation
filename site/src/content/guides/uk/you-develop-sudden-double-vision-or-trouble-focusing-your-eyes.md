@@ -1,85 +1,80 @@
----
+﻿---
 title: "What to do if… you develop sudden double vision or trouble focusing your eyes"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "sudden double vision"
-  - "sudden trouble focusing eyes"
-  - "new diplopia"
-  - "seeing two images"
-  - "blurred vision suddenly"
-  - "eyes not working together"
-  - "trouble seeing clearly"
-  - "vision change out of nowhere"
-  - "help i have double vision"
-  - "what do i do if my vision is double"
-  - "what do i do if i can't focus my eyes"
-  - "help i see two of everything"
-  - "my eyes are crossing suddenly"
-  - "shadowy vision in one eye"
-  - "ghosting images in vision"
-  - "eye alignment problem"
-  - "sudden dizziness and vision"
-  - "severe headache with double vision"
-  - "one pupil larger than the other"
-  - "vision change after head injury"
-  - "double vision when tired"
-  - "diplopia emergency symptoms"
-  - "eye emergency uk"
-  - "nhs eye casualty double vision"
-  - "seeing double and feeling sick"
-  - "sudden double vision in adults"
-  - "what do i do if i see two images"
-  - "new-onset diplopia signs"
-  - "sudden trouble focusing both eyes"
-  - "unbalanced with double vision"
-last_reviewed: "2026-03-16"
+  - sudden double vision
+  - sudden trouble focusing eyes
+  - new diplopia
+  - seeing two images
+  - blurred vision suddenly
+  - eyes not working together
+  - trouble seeing clearly
+  - vision change out of nowhere
+  - possible stroke symptoms
+  - tia warning signs
+  - sudden dizziness and vision
+  - new severe headache with vision
+  - eye movement problem
+  - one eye vs both eyes
+  - cannot keep eyes aligned
+  - sudden vision disturbance
+  - sudden nausea with vision change
+  - cannot read due to double vision
+  - sudden imbalance with vision
+  - sudden eye pain and double vision
+last_reviewed: "2026-01-21"
 ---
+
 # What to do if… you develop sudden double vision or trouble focusing your eyes (UK)
 
 ## Short answer
-If your double vision started suddenly, go to A&E or an Eye Casualty department immediately. Call 999 if you also have a severe headache, one pupil larger than the other, or any signs of stroke such as facial drooping or limb weakness.
+If your double vision or focusing problem **started suddenly**, get **urgent medical help today**: call **NHS 111** (or request an urgent GP appointment). **Call 999** if you also have any stroke/TIA signs, a **severe headache**, **one pupil larger than the other**, or this started after a **head injury**.
 
 ## Do not do these things
-- Do not drive, cycle, or operate any vehicle.
-- Do not use stairs or walk on uneven ground without assistance, as double vision severely impacts depth perception and balance.
-- Do not use power tools, cook with high heat, or engage in tasks requiring precise hand-eye coordination.
-- Do not take unprescribed medication or alcohol to manage the disorientation.
-- Do not ignore the symptom if it goes away briefly; transient double vision still requires urgent assessment.
+- Do not **drive** (or cycle) to get help.
+- Do not keep walking around “to see if it settles,” especially on **stairs** or uneven ground.
+- Do not use power tools, cook on high heat, or do anything where mis-seeing could cause injury.
+- Do not take extra doses of medicines, alcohol, or drugs to try to “calm it down.”
+- If you have **trouble swallowing** or think you might be having a **stroke/TIA**, avoid food and drink until you’ve been assessed (to reduce choking risk).
 
 ## What to do now
-1. **Sit down in a stable position and stop all physical activity.** Reducing movement prevents falls and minimizes the risk of injury caused by impaired depth perception.
-2. **Call 999 immediately if you have any emergency red flags.**
-   - Face drooping, weakness in one arm, or slurred speech (FAST signs of stroke/TIA).
-   - A sudden, severe headache (often described as the worst headache you have ever had).
-   - One pupil is noticeably larger or a different shape than the other.
-   - The double vision started after a recent head injury.
-3. **Go to your nearest A&E or Eye Casualty department if the double vision is isolated but sudden.** Most major UK hospitals have an eye-specific emergency department (Eye Casualty) that can assess sudden-onset diplopia more quickly than a general A&E.
-   - If you are unsure where to go, call NHS 111 for immediate triage to the correct local facility.
-4. **Test each eye individually to report the results to the doctor.**
-   - **Cover your left eye with your hand and note if the double vision remains.**
-   - **Cover your right eye and note if the double vision remains.**
-   - If the double vision disappears when either eye is covered, it is "binocular." If it stays when one eye is covered, it is "monocular."
-5. **Ask someone else to drive you or call a taxi.** Do not attempt to travel alone or use public transport that requires significant walking, as the visual distortion can cause severe imbalance.
-6. **Note down the exact time the symptoms started.** Clinicians need to know if the onset was instantaneous or if it developed over several hours to determine the appropriate treatment window for potential neurological causes.
+1. **Pause and make it physically safe.** Sit down. Keep lighting steady. If you feel unsteady, stay seated and ask someone to stay with you.
+2. **Check for emergency red flags — call 999 if any apply.**
+   - Signs of **stroke/TIA**: face droop, one-sided weakness/numbness, speech trouble/confusion, sudden severe dizziness/loss of balance, sudden vision changes (including double vision), trouble swallowing.
+   - Double vision with a **severe headache**, or **one pupil suddenly larger than the other**.
+   - Double vision **after a head injury**.
+3. **If it started suddenly but you don’t have the red flags above, get urgent same-day advice.**
+   - Call **NHS 111** (or use 111 online) and say: “**sudden onset double vision / sudden trouble focusing**.”
+   - Follow their instructions (they may send you to A&E / urgent treatment centre or arrange same-day assessment).
+4. **Make your vision safer while you wait.**
+   - If you must move briefly, **cover one eye** with your hand or a loose eye cover to reduce double vision and falls risk.
+   - Avoid screens if they worsen symptoms.
+5. **Write down key facts for the clinician/call handler.**
+   - The **exact time** it started (or “last known normal”).
+   - Whether it’s constant or comes and goes.
+   - Whether it changes when **one eye is covered** (just report what happens).
+   - Any new headache, eye pain, fever, neck pain, recent infection, recent new medicines, blood thinners, or recent injury.
+6. **If you’re 50+ and have a new headache, scalp tenderness, jaw pain when chewing, or new visual symptoms, treat this as same-day urgent.**
+   - Call **NHS 111** immediately (or **999** if you feel very unwell or symptoms are rapidly worsening).
 
 ## What can wait
-- You do not need to identify the underlying cause yourself; this requires clinical diagnostic equipment.
-- You do not need to book a routine optician appointment; sudden double vision is an urgent medical matter, not a standard vision correction issue.
-- You do not need to notify the DVLA in the first few hours; the immediate requirement is only that you must not drive.
+- You do **not** need to work out the cause right now.
+- You do **not** need to book a routine optician appointment first if this was **sudden**—start with **111/urgent triage**.
+- You do **not** need to make any DVLA reporting decisions today; the immediate rule is simply **don’t drive**. If a clinician diagnoses diplopia, they can advise you on next steps.
 
 ## Important reassurance
-Sudden double vision is physically disorienting and often causes a feeling of panic or nausea. This is a common physiological response to the brain receiving two conflicting images. Seeking urgent medical help is the standard and necessary protocol to ensure your safety.
+Sudden double vision is disorienting and scary. Getting urgent help is the sensible move here—many causes are treatable, and acting quickly protects you if it’s something time-sensitive.
 
 ## Scope note
-This guide provides first-step stabilization and emergency triage for sudden-onset double vision. It does not cover long-term management of chronic eye conditions or provide medical diagnoses.
+These are first steps only: immediate safety and getting you to the right urgent service. Diagnosis and treatment decisions come after an in-person assessment.
 
 ## Important note
-Sudden double vision can be a sign of serious neurological or vascular conditions, including stroke or aneurysm. Always prioritize emergency services (999 or A&E) for any sudden change in vision.
+This is general information, not a diagnosis. Sudden double vision or sudden difficulty focusing can have many causes, including emergencies. If symptoms are sudden, worsening, or include neurological signs, call 999.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/double-vision/
+- https://www.nhs.uk/conditions/stroke/symptoms/
 - https://www.nhs.uk/conditions/transient-ischaemic-attack-tia/symptoms/
-- https://mft.nhs.uk/royal-eye/patients-visitors/is-it-an-emergency/
-- https://www.southtees.nhs.uk/services/ophthalmology/eye-casualty-department/
-- https://www.moorfields.nhs.uk/ae/emergency-conditions
+- https://www.nhs.uk/conditions/temporal-arteritis/
+- https://cks.nice.org.uk/topics/giant-cell-arteritis/management/management/

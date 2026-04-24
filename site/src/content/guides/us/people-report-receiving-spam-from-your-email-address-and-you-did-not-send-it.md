@@ -1,88 +1,86 @@
----
+﻿---
 title: "What to do if… people report receiving spam from your email address and you did not send it"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "spam from my email"
-  - "emails sent i didn't send"
-  - "my email was hacked"
-  - "account takeover email"
-  - "email address spoofing"
-  - "someone is impersonating my email"
-  - "hacked mailbox"
-  - "suspicious sent emails"
-  - "unexpected bounce backs"
-  - "my contacts got spam"
-  - "my email sending junk"
-  - "email forwarding rule added"
-  - "mailbox rules changed"
-  - "compromised email login"
-  - "email security breach"
-  - "someone logged into my email"
-  - "i didn't send these messages"
-  - "gmail sending spam not me"
-  - "outlook sending spam not me"
-  - "yahoo sending spam not me"
-  - "bulk mail sent from my address"
-  - "sent folder full of spam"
-  - "address spoofing help"
-  - "unexpected email activity"
-  - "identity theft via email"
-  - "unauthorized email access"
-  - "hacker using my email"
-  - "junk mail coming from me"
-  - "email security settings check"
-  - "help with spam emails"
-last_reviewed: "2026-03-17"
+  - spam from my email
+  - emails sent i didn’t send
+  - my email was hacked
+  - account takeover email
+  - email address spoofing
+  - someone is impersonating my email
+  - hacked mailbox
+  - suspicious sent emails
+  - unexpected bounce backs
+  - my contacts got spam
+  - my email sending junk
+  - email forwarding rule added
+  - mailbox rules changed
+  - compromised email login
+  - email security breach
+  - someone logged into my email
+  - i didn’t send these messages
+  - gmail sending spam not me
+  - outlook sending spam not me
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… people report receiving spam from your email address and you did not send it (USA)
 
 ## Short answer
-Immediately secure your account by changing your password and enabling Multi-Factor Authentication (MFA) to stop unauthorized access. If no "sent" records exist in your mailbox, your address is likely being spoofed, which requires reviewing domain security settings.
+Assume either your email account is compromised or your address is being spoofed. First, regain control of the account (or start provider recovery) and lock it down with a new password plus MFA.
 
 ## Do not do these things
-- **Do not** reply to the spam messages or click any links within them to "investigate" the content.
-- **Do not** share any MFA or verification codes with anyone, even if they claim to be from your email provider's support team.
-- **Do not** send "test" emails to multiple contacts to see if the issue is fixed, as this may further damage your account's reputation.
-- **Do not** download or install remote-access software recommended by unsolicited callers claiming to help fix your "hacked" account.
-- **Do not** assume the problem is "just spoofing" until you have checked your login history and account rules for signs of a breach.
+- Don’t reply to the spam messages or click links/attachments “to see what it is”.
+- Don’t trust inbound calls/texts claiming to be “support” asking for MFA codes — never share verification codes.
+- Don’t install remote-access apps or screen-share with unsolicited “support” while you’re panicking.
+- Don’t delay because you think it’s “probably spoofing” — check your account rules/forwarding and sign-in activity first.
+- Don’t keep reusing the same password on other sites after this.
 
 ## What to do now
-1. **Change your email password to a long, unique passphrase immediately if you still have access.** Ensure this password is not used on any other website or service.
-   - Use at least 16 characters.
-   - Use a combination of unrelated words that are easy for you to remember but hard for software to guess.
-2. **Enable Multi-Factor Authentication (MFA) or Two-Step Verification on the account settings page.** This adds a critical layer of security that requires a code from your phone or an app to log in.
-3. **Use the "Sign out of all other sessions" or "Remove trusted devices" feature in your security settings.** This forcefully disconnects any unauthorized users or hackers who may currently be logged into your mailbox.
-4. **Initiate the official account recovery process if you are locked out of your account.** Use the provider's dedicated recovery page (e.g., g.co / recover for Google or the Microsoft account recovery form).
-   - Provide as much historical detail as possible to prove ownership.
-   - Be prepared for a 24 to 72-hour waiting period if you lack backup recovery methods.
-5. **Check for unauthorized mailbox rules, filters, or forwarding addresses.** Hackers often set rules to hiddenly forward your incoming mail to their own address or to auto-delete "Password Reset" notifications.
-   - Search for "Forwarding" and "Rules" in your email settings.
-   - Delete any destination addresses or rules you did not create.
-6. **Review your "Sent" folder, "Trash," and "Recent Activity" logs for specific cues of a breach.** Observable cues include sent messages you did not write, login attempts from unfamiliar cities or countries, and "Undelivered" bounce-back messages for emails you never sent.
-7. **Notify your primary contacts and financial institutions that your email was compromised.** Use a different communication channel, such as a phone call or text message, to warn them not to open attachments or act on payment requests from your address.
-8. **Report the incident to federal authorities if there is financial loss or a clear fraud attempt.**
-   - File a report at **ReportFraud.ftc.gov** for general scams.
-   - File a complaint at **ic3.gov** (FBI Internet Crime Complaint Center) if the incident involved money transfers, gift cards, or business fraud.
-9. **Update SPF, DKIM, and DMARC records if you use a custom domain name for your email.** If your account shows no "sent" mail but spam is still arriving from your address, "spoofing" is the cause; these DNS settings are the only physical way to prevent others from using your domain name as a mask.
+1. **Stop using the account for anything sensitive for the moment.** If someone is inside, they can see password resets, replies, invoices, and payment details.
+2. **If you can still sign in, secure the email account right away:**
+   - Change the password to a long, unique one.
+   - Enable **MFA** on the email account.
+   - Use your provider’s security settings to **sign out of all other sessions/devices**.
+3. **If you can’t sign in (or settings keep reverting), switch to recovery mode:**
+   - Use your provider’s **account recovery** steps (or their support process) to regain control.
+   - Once back in, immediately change the password, enable MFA, and sign out other sessions.
+4. **Look for takeover settings inside the mailbox (common and easy to miss):**
+   - Check **forwarding** addresses you didn’t add.
+   - Review **filters/rules** that auto-forward, auto-delete, auto-archive, or mark messages as read.
+   - Review **connected apps / third-party access** and remove anything you don’t recognize.
+   - Check **recovery email/phone** details and remove anything you didn’t set.
+5. **Confirm whether messages were actually sent from your account:**
+   - Check **Sent**, **Outbox**, and **Trash/Deleted**.
+   - Review **recent sign-in activity** (locations/devices/times) if your provider shows it, and note anything unfamiliar. (Some providers show limited detail — don’t treat missing logs as proof nothing happened.)
+6. **Protect other important accounts that use this email for password resets:**
+   - Change passwords (starting with financial accounts) and enable MFA where available.
+   - If you reused the email password anywhere else, treat those accounts as exposed.
+7. **Warn people without amplifying the scam:**
+   - Use another channel where possible (text/phone/another email) to tell key contacts: “Don’t open recent unexpected links/attachments from me, and don’t act on ‘new payment details’ or invoices from me without verifying by phone.”
+8. **Report if there’s fraud, money loss, or a serious scam trail:**
+   - File a report using the **Federal Trade Commission (FTC)** online fraud reporting tool.
+   - If this involved payment requests, gift cards, crypto, wire transfers, or significant losses, file a report with the **FBI Internet Crime Complaint Center (IC3)**.
+9. **If you use a custom domain (your own domain / business email):**
+   - Contact whoever manages your email/domain hosting today and ask them to review mail logs and anti-spoofing controls (**SPF, DKIM, DMARC**). If it’s spoofing, this is often the key fix.
 
 ## What can wait
-- You do not need to identify the specific virus or phishing link that caused the breach right now.
-- You do not need to replace your computer or mobile device immediately, provided you have secured the account from a known safe device.
-- You do not need to delete the email account entirely unless recovery attempts fail repeatedly over several weeks.
+- You don’t need to determine the exact cause (phishing vs. breach vs. device issue) before securing the account.
+- You don’t need to notify everyone at once — focus on people most likely to click/pay/respond.
+- You don’t need to do a full device overhaul immediately; prioritize account recovery/lock-down and rule/forwarding checks first.
 
 ## Important reassurance
-Receiving reports of spam from your address is a common occurrence. It typically indicates a manageable account breach or a "spoofing" tactic where the hacker doesn't actually have your password. Taking the security steps above provides immediate stabilization and prevents the situation from escalating into identity theft.
+This is a common pattern and usually comes down to either account takeover or simple spoofing. The steps above are the right first moves either way: they stop ongoing access, reduce further spread, and protect your other accounts.
 
 ## Scope note
-This guide provides first-step stabilization for an email security incident. It does not cover long-term forensic analysis or legal actions against specific hackers.
+These are first steps for stabilization and harm prevention. If you find ongoing access, you may need provider-led recovery and deeper cleanup later.
 
 ## Important note
-This information is for general guidance and does not constitute technical, legal, or financial advice. If you are handling sensitive corporate data or have suffered significant financial loss, you should contact a professional cybersecurity incident response team or your organization's IT department.
+This is general information, not legal, technical, or financial advice. If there’s confirmed financial loss, sensitive work data exposure, or ongoing impersonation, consider getting professional incident-response help.
 
 ## Additional Resources
-- https://consumer.ftc.gov/node/77537
-- https://consumer.ftc.gov/consumer-alerts/2024/04/lets-talk-about-spam-texts-emails
+- https://www.cisa.gov/secure-our-world/turn-mfa
 - https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
-- https://reportfraud.ftc.gov/faq
-- https://www.ic3.gov/CrimeInfo/BEC
+- https://consumer.ftc.gov/consumer-alerts/2024/03/whats-verification-code-why-would-someone-ask-me-it
+- https://www.ic3.gov/

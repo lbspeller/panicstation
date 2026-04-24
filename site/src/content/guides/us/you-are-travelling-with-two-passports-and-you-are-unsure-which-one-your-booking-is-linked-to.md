@@ -1,100 +1,83 @@
----
+﻿---
 title: "What to do if… you are travelling with two passports and you are unsure which one your booking is linked to"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "travelling with two passports"
-  - "dual citizen travel"
-  - "two passports which to use"
-  - "booking linked to passport"
-  - "booking linked to passport number"
-  - "passport details in manage trip"
-  - "advance passenger data mismatch"
-  - "apis passport details wrong"
-  - "check-in passport mismatch"
-  - "international flight passport uncertainty"
-  - "entry permission linked passport"
-  - "esta or visa tied passport"
-  - "airport security name mismatch"
-  - "secure flight passenger data"
-  - "precheck name mismatch"
-  - "us entry passport requirement"
-  - "us exit passport requirement"
-  - "two passports at airport"
-  - "multiple nationalities travel"
-  - "what do i do if i have two passports"
-  - "what do i do if my booking has the wrong passport"
-  - "what do i do if i am a dual citizen flying"
-  - "what do i do if i forgot which passport i used"
-  - "help i have two passports for my flight"
-  - "help i am a dual national at the airport"
-  - "my booking has the wrong passport number"
-  - "my airline has my foreign passport but i am american"
-  - "smell of jet fuel"
-  - "visible boarding pass barcode"
-  - "electronic travel authorisation 2026"
-  - "etias dual citizen rules"
-  - "uk eta for us citizens"
-  - "boarding pass name mismatch"
-  - "tsa precheck name match 2026"
-last_reviewed: "2026-03-17"
+  - travelling with two passports
+  - dual citizen travel
+  - two passports which to use
+  - booking linked to passport
+  - booking linked to passport number
+  - passport details in manage trip
+  - advance passenger data mismatch
+  - apis passport details wrong
+  - check-in passport mismatch
+  - international flight passport uncertainty
+  - entry permission linked passport
+  - esta or visa tied passport
+  - airport security name mismatch
+  - secure flight passenger data
+  - precheck name mismatch
+  - us entry passport requirement
+  - us exit passport requirement
+  - two passports at airport
+  - multiple nationalities travel
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you are travelling with two passports and you are unsure which one your booking is linked to (USA)
 
 ## Short answer
-Verify that your **reservation name exactly matches the passport** you will use for that specific leg of travel, and ensure the airline's **Advance Passenger Information System (APIS)** record contains the document details for your destination country.
+Make sure your **reservation name matches your ID**, then ensure your airline has the **correct passport information for APIS** for the international legs—especially if any part of the trip **enters or leaves the United States**.
 
 ## Do not do these things
-- Don't assume a booking is permanently locked to one passport number; these details are usually stored as editable travel document data.
-- Don't present a different passport at the boarding gate than the one recorded in the airline's check-in system.
-- Don't attempt to "test" the airline's website by entering false passport details to see if the system accepts them.
-- Don't delay correcting the record until you reach the security checkpoint.
-- Don't post photos of your boarding pass or booking reference on social media.
+- Don’t assume the booking is “locked” to a passport number; airlines often store passport details separately as travel document/APIS data.
+- Don’t switch which passport you present at check-in or boarding without getting the airline travel document record updated.
+- Don’t guess passport details in an online form to make it accept your entry.
+- Don’t wait until the last minute if the airline website/app won’t let you edit travel document details.
+- Don’t share photos of boarding passes/booking references online.
 
 ## What to do now
-1. **Compare the passenger name on your e-ticket to the name on both passports.**  
-   If the names differ between passports (e.g., due to marriage or middle name inclusion), the reservation must match the passport used for that flight segment.  
-   - If using TSA PreCheck, the reservation name must be an exact match to the name on your PreCheck application.
+1. **Check the exact name on your reservation.**  
+   Open the confirmation/e-ticket and compare the passenger name to the ID you plan to use at the airport. If you have TSA PreCheck, your reservation name should match the name on your PreCheck application to avoid losing PreCheck benefits.
 
-2. **Identify which passport is required for each leg of the journey.**  
-   Under U.S. law, U.S. citizens (including dual nationals) must enter and depart the United States using a valid U.S. passport.  
-   - For travel to the UK as of 2026, U.S. citizens require an Electronic Travel Authorisation (ETA) unless they also hold a UK/Irish passport.  
-   - For travel to the Schengen Area, U.S. citizens may require an ETIAS authorization linked to the specific passport used for the booking.
+2. **If you are a U.S. citizen (including dual national) and any leg enters or leaves the U.S., plan to use your U.S. passport for those parts.**  
+   U.S. guidance states U.S. nationals (including dual nationals) must use a U.S. passport to enter and leave the United States. This is a common reason people get denied boarding when travelling on a foreign passport.
 
-3. **Locate the "Travel Documents" or "APIS" section in your airline's booking management tool.**  
-   Access the airline website or mobile app and look for fields labeled "International Traveler Information," "Passport Details," or "Secure Flight Passenger Data."
+3. **Find where your airline stores “Travel documents / APIS / passenger information.”**  
+   In “Manage trip/booking” (website or app), look for “Passport information”, “APIS”, “International traveler info”, or “Travel documents”.
 
-4. **Update the stored passport information to match the document required for your next destination.**  
-   Input the passport number, issuing country, and expiration date for the passport you intend to present to border authorities at your next landing point. 
+4. **Align the airline’s stored passport details to the passport you will present for that leg.**  
+   For legs entering/leaving the U.S., that usually means your U.S. passport (if you are a U.S. citizen). For other countries, use the passport that matches the entry permission you’re using (visa/ESTA/etc., if applicable). Update passport number, issuing country, and expiry date.
 
-5. **Request a manual update if the online system produces an error or appears locked.**  
-   Contact the airline's customer service line or visit a staffed check-in counter at the airport.  
-   - Provide the booking reference (PNR).  
-   - State: "I am a dual citizen and need to update the APIS passport record for my upcoming flight to [Destination]."
+5. **If you can’t edit it cleanly online, call the airline and ask them to confirm and change the stored travel document/APIS record.**  
+   Say: “I have two passports. Please confirm which passport is in my travel document/APIS record for this booking and update it to [issuing country + last 4 digits].”  
+   If you booked through a travel agent, the agent may need to make the change.
 
-6. **Bring both physical passports to the airport.**  
-   Keep both documents accessible. If an automated kiosk fails or a "Doc Check" flag appears on your boarding pass, a staffed agent must verify both documents to clear the APIS transmission.
+6. **Bring both passports to the airport and use a staffed counter if anything is still uncertain.**  
+   For international flights, airlines transmit passenger details to authorities before travel. A staffed desk can often correct travel document/APIS details before you’re boarded.
 
-7. **Maintain consistency through the boarding process.**  
-   Present the passport that matches the airline's recorded APIS data during boarding. Use the appropriate passport for the jurisdiction when passing through government immigration or customs.
+7. **Avoid casual mid-process switching.**  
+   Present the passport that matches what the airline has recorded for that leg. At borders, use the passport you are entitled/required to use for that country. If you realise you need to switch, pause and ask airline staff to update your travel document record first.
 
 ## What can wait
-- You do not need to update your passport details in your airline's frequent flyer profile today, as long as the specific booking is correct.
-- You do not need to decide on a "primary" passport for all future travel right now.
-- You do not need to resolve minor discrepancies in your airline profile (like home address) unless they prevent the APIS data from saving.
+- You don’t need to perfect your profiles across every airline account today—just make this booking’s travel document/APIS details correct.
+- You don’t need to decide “which passport you always travel on” right now.
+- You don’t need to solve unrelated identity issues unless the ticket name itself is wrong.
 
 ## Important reassurance
-Dual nationality is a standard occurrence in international aviation. Airline systems are designed to transmit updated APIS data up until the flight departs. Most issues are resolved quickly at a staffed check-in desk by aligning the airline's digital record with the physical document you are carrying.
+Airlines and airports deal with this regularly. Problems are usually resolved once the **reservation name is acceptable** and the airline has the **correct passport recorded for the relevant international leg**.
 
 ## Scope note
-This guide covers immediate stabilization of your flight booking and check-in process. It does not provide legal advice on citizenship status, visa eligibility, or tax obligations for dual nationals. Complex name changes or visa issues may require consultation with an embassy or legal professional.
+These are first steps for stabilising check-in and boarding. If you have visa/ESTA questions, complex transit routing, or a name discrepancy across documents, you may need specialist help—but you can still reduce immediate risk by aligning the airline record now and bringing both passports.
 
 ## Important note
-U.S. law requires all U.S. citizens to enter and leave the country on a U.S. passport. Entry requirements for other nations vary by 2026 regulations, including new ETA and ETIAS mandates. Always verify the specific document requirements for your destination and any transit points before travel.
+This is general information, not legal advice. Airline systems and requirements vary, and international entry rules depend on nationality, destination, and transit points. If anything doesn’t match, the safest approach is to correct it with the airline before departure and bring both passports to a staffed check-in desk.
 
 ## Additional Resources
+- https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/Relinquishing-US-Nationality/Dual-Nationality.html
 - https://travel.state.gov/en/international-travel/planning/personal-needs/dual-nationality.html
-- https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/frequently-asked-questions/about-basics.html
-- https://www.aa.com/i18n/travel-info/international-travel/international-travel.jsp
-- https://www.delta.com/us/en/travel-planning-center/know-before-you-go/travel-from-the-us
-- https://www.delta.com/us/en/travel-planning-center/know-before-you-go/travel-requirements-guide
+- https://www.cbp.gov/travel/travel-industry-personnel/advance-passenger-information-system
+- https://www.cbp.gov/travel/travel-industry-personnel/apis/apis-departure-req
+- https://www.united.com/en/us/fly/travel/airport/secure-flight.html
+- https://www.dhs.gov/redress-control-numbers

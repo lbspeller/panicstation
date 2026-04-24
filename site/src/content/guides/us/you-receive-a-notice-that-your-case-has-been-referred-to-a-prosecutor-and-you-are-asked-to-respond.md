@@ -1,105 +1,82 @@
----
+﻿---
 title: "What to do if… you receive a notice that your case has been referred to a prosecutor and you are asked to respond"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - "notice of referral to prosecutor"
-  - "case referred for prosecution"
-  - "prosecutor request for response"
-  - "target letter federal investigation"
-  - "help i got a letter from a prosecutor"
-  - "what do i do if a prosecutor contacted me"
-  - "what do i do if my case was sent to the da"
-  - "what do i do if a prosecutor wants a statement"
-  - "district attorney letter response"
-  - "pre-charge investigation help"
-  - "invoking right to counsel usa"
-  - "sixth amendment right to lawyer"
-  - "fifth amendment right to silence"
-  - "prosecutor interview request"
-  - "legal notice from attorney general"
-  - "criminal referral notice"
-  - "grand jury target letter"
-  - "subject of federal investigation"
-  - "asked to respond to criminal allegations"
-  - "prosecutor review pending"
-  - "pre-indictment legal steps"
-  - "avoiding obstruction of justice"
-  - "criminal defense first steps"
-  - "how to hire a criminal lawyer"
-  - "public defender eligibility pre-charge"
-  - "referral"
-  - "prosecutor"
-  - "notice"
-  - "case"
-  - "referred"
-  - "respond"
-  - "asked"
-  - "referral letter"
-  - "prosecutor contact"
-  - "case review"
-  - "referred notice"
-last_reviewed: "2026-03-17"
+  - prosecutor letter received
+  - notice referred to prosecutor
+  - case sent for charging review
+  - prosecutor review pending
+  - asked to respond to prosecutor
+  - request for written statement
+  - request for interview response
+  - should i talk to prosecutor
+  - contacted by police again
+  - do i have to reply
+  - right to remain silent
+  - invoke my rights clearly
+  - i want a lawyer
+  - Miranda warning confusion
+  - preserve texts and emails
+  - subpoena or summons received
+  - court date notice confusion
+  - appointed counsel if indigent
+  - pre charge investigation
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive a notice that your case has been referred to a prosecutor and you are asked to respond (USA)
 
 ## Short answer
-Do not provide a substantive response or statement without a qualified criminal defense attorney. Your immediate priority is to verify the deadline, preserve all relevant records, and clearly invoke your right to remain silent and your right to counsel.
+Do not respond on the substance without a lawyer. Your safest immediate action is to verify the notice is real, note the deadline, and clearly invoke your right to counsel before any questioning or statement.
 
 ## Do not do these things
-- Don’t contact the prosecutor or their office to explain your side or "clear things up" on your own.
-- Don’t provide a written statement, email response, or recorded interview without a lawyer present.
-- Don’t lie or provide false information to any government official, as this can lead to independent "false statement" or "obstruction of justice" charges.
-- Don’t delete, alter, or hide any physical or digital evidence, including texts, emails, or location data.
-- Don’t contact any alleged victims, witnesses, or co-defendants to discuss the case or the notice.
+- Don’t call the prosecutor to “clear things up” or give an “off the record” explanation.
+- Don’t answer substantive questions by email, text, voicemail, or in person without counsel.
+- Don’t consent to an interview “just to get it over with.”
+- Don’t contact any complainant, witness, or co-defendant (even to apologize or ask what they said).
+- Don’t delete messages, photos, location data, or social posts — even if they look bad.
 
 ## What to do now
-1. **Identify the exact nature of the notice immediately.**  
-   Check if the document is a "Target Letter" (common in federal cases), a "Notice of Referral," a "Summons to Appear," or a "Grand Jury Subpoena." 
-   - Note if there is a specific case number or "Matter of" heading.
-   - Note the specific deadline provided for your response.
+1. **Check what kind of document this is (this matters).**  
+   If it’s a **subpoena, summons, court order, or notice with a court date**, don’t ignore it. Put the date/deadline on your calendar and get a lawyer immediately to confirm how to comply *without* discussing the facts of the case yourself.
 
-2. **Secure all records related to the notice and the underlying events.**  
-   **Preserve original copies of the notice, the envelope it arrived in, and any digital metadata if it was sent via email.**
-   - Do not sort or "clean up" your records; keep them exactly as they are for your attorney to review.
+2. **Confirm the notice is genuine (without discussing the allegation).**  
+   Look for a case/reference number, office name, and contact details. If you’re unsure, verify using an official government directory/website for that office (not a number from a suspicious email).
 
-3. **Verify the authenticity of the sender through official channels.**  
-   **Use an official government website (.gov) to find the main phone number for the District Attorney or U.S. Attorney’s office listed.**
-   - Call the main switchboard to confirm the office exists and that the named prosecutor is employed there.
-   - Do not discuss the facts of your case during this verification call.
+3. **Write down exactly what they are asking for, and the deadline.**  
+   Is it asking for: (a) a written statement, (b) documents, (c) a meeting/interview, or (d) “call us to discuss”? Keep this list short and factual.
 
-4. **Retain a criminal defense attorney before the response deadline.**  
-   **Prioritize finding an attorney who has specific experience with the agency involved (e.g., a federal defense lawyer for a U.S. Attorney's letter).**
-   - Provide the attorney with the notice immediately so they can establish contact with the prosecutor on your behalf.
-   - If you cannot afford a lawyer, contact the local Public Defender’s office, though be aware that many jurisdictions do not appoint counsel until formal charges are filed in court.
+4. **Get a criminal defense lawyer before you respond.**  
+   If you already have counsel, forward the notice and stop communicating directly. If you can’t afford counsel, ask how to apply for **appointed counsel** in your area (this can be through a public defender office, an appointed-counsel program, or the court—process varies).
 
-5. **Invoke your rights clearly if contacted directly by investigators.**  
-   **State clearly and unequivocally: “I am exercising my right to remain silent and I will not answer any questions without my lawyer present.”**
-   - After stating this, stop talking immediately.
-   - Do not answer "preliminary" or "background" questions once you have invoked your rights.
+5. **If anyone tries to question you, invoke your rights clearly.**  
+   Say: **“I am exercising my right to remain silent. I want a lawyer.”** Then stop talking. Don’t explain, argue, or answer “background” questions that drift into the facts.
 
-6. **Create a private, chronological timeline for your attorney only.**  
-   **Write down everything you remember about the events mentioned in the notice, including dates, times, and names of people involved.**
-   - Label this document "Attorney-Client Privileged Information" and do not share it with anyone except your legal counsel.
+6. **If you must acknowledge receipt, send only a holding reply.**  
+   Keep it to: you received the notice, you are obtaining counsel, and future communication should go through your attorney. Do not describe events or provide “context.”
+
+7. **Preserve records and make a private timeline for your lawyer.**  
+   Save the notice, envelopes, emails, and attachments. Write a private, dated timeline of key events and contacts while you remember them. Keep it for your attorney.
 
 ## What can wait
-- You do not need to decide how you will plead or if you will "cooperate" right now.
-- You do not need to prove your innocence to the prosecutor today.
-- You do not need to gather character references or witnesses at this immediate stage.
-- You do not need to respond to the substance of the allegations until your attorney has reviewed the evidence.
+- You do not need to decide today whether to plead, negotiate, or “tell your story.”
+- You do not need to write a detailed statement right now.
+- You do not need to gather every piece of evidence tonight — just preserve it and list what exists.
+- You do not need to contact anyone connected to the case to “fix” it.
 
 ## Important reassurance
-Receiving a notice that a case has been referred to a prosecutor does not mean you have been charged with a crime. This is often an investigative stage where the prosecutor is deciding whether there is enough evidence to proceed. Taking the time to secure counsel and remain silent is a standard legal protection and is not an admission of guilt.
+A referral to a prosecutor often means the prosecutor is reviewing what law enforcement gathered, not that charges are guaranteed. You’re allowed to slow down, get counsel, and avoid saying anything that could be misunderstood or used against you.
 
 ## Scope note
-This guide covers initial stabilization and procedural steps for individuals receiving pre-charge notices from a prosecutor's office in the United States. It does not cover trial strategy, sentencing, or civil litigation procedures.
+These are first steps only. What happens next depends on the state, the office involved, whether you’re a suspect or witness, and whether there is an existing case number or court date.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Laws regarding the "attachment" of the right to counsel and the procedures for pre-charge investigations vary significantly by state and between state and federal jurisdictions. Always consult a licensed attorney in your specific jurisdiction regarding any legal notice.
+This is general information, not legal advice. Laws and procedures vary by state and by the exact stage of the case. If you are being asked for an interview, a statement, or you face a deadline or court date, get local legal advice immediately.
 
 ## Additional Resources
-- https://selfhelp.courts.ca.gov/criminal-court/overview/charges-filed
-- https://www.uscourts.gov/about-federal-courts/types-cases/criminal-cases
-- https://www.americanbar.org/groups/legal_services/flh-home/flh-faq/
-- https://www.americanbar.org/groups/legal_services/flh-home/flh-hire-a-lawyer/
-- https://www.usa.gov/legal-aid
+- https://constitution.congress.gov/constitution/amendment-5/
+- https://constitution.congress.gov/constitution/amendment-6/
+- https://tile.loc.gov/storage-services/service/ll/usrep/usrep384/usrep384436/usrep384436.pdf
+- https://tile.loc.gov/storage-services/service/ll/usrep/usrep372/usrep372335/usrep372335.pdf
+- https://www.uscourts.gov/sites/default/files/mirandawarningfinal.pdf

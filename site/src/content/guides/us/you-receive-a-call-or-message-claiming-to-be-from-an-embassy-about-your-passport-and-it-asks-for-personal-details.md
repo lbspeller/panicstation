@@ -1,84 +1,76 @@
----
+﻿---
 title: "What to do if… you receive a call or message claiming to be from an embassy about your passport and it asks for personal details"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "embassy call about passport"
-  - "consulate message passport details"
-  - "fake passport verification call"
-  - "passport data phishing"
-  - "passport fraud alert"
-  - "travel document scam"
-  - "what do i do if an embassy calls about my passport"
-  - "what do i do if i got a text from the embassy"
-  - "what do i do if someone asks for my passport number"
-  - "what do i do if my passport is being used by scammers"
-  - "help i gave my passport number to a caller"
-  - "help i got a whatsapp from a consulate"
-  - "help i received a suspicious embassy text"
-  - "my passport details were requested by phone"
-  - "my passport number was asked for by text"
-  - "suspicious passport status message"
-  - "caller says embassy passport issue"
-  - "text from us embassy passport"
-  - "consulate impersonation scam"
-  - "spoofed embassy phone number"
-  - "whatsapp consulate message scam"
-  - "passport verification request suspicious"
-  - "government impersonation passport fraud"
-  - "identity theft passport scan shared"
-  - "identity theft shared passport number"
-  - "embassy call asking for ssn"
-  - "consulate text urgent passport"
-  - "fake passport alert text"
-  - "suspicious message about visa"
-  - "phishing call for travel documents"
-last_reviewed: "2026-03-17"
+  - embassy call about passport
+  - embassy message about passport
+  - consulate scam passport
+  - fake embassy phone call
+  - embassy impersonation scam
+  - government impersonation scam
+  - passport verification call
+  - asked for passport number by phone
+  - asked for personal details by text
+  - urgent embassy request
+  - caller id spoofed embassy
+  - unknown number says embassy
+  - whatsapp embassy message
+  - sms embassy passport alert
+  - travel document scam
+  - abroad and embassy contacted me
+  - is this embassy call real
+  - passport data phishing
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you receive a call or message claiming to be from an embassy about your passport and it asks for personal details (USA)
 
 ## Short answer
-End the contact immediately and do not provide any information or click any links.
+Stop responding and do not share any personal details. Verify by contacting the embassy/consulate using contact information you look up yourself (not what the caller/text provided).
 
 ## Do not do these things
-- Don't share your passport number, Social Security number, or date of birth.
-- Don't provide photos or scans of your passport, ID, or any other travel documents.
-- Don't click links or download attachments in a text or email, even if the sender looks official.
-- Don't trust the name or number on your caller ID; government numbers are frequently spoofed.
-- Don't send money, buy gift cards, or transfer cryptocurrency to "fix" a passport issue.
+- Don’t share your passport number, Social Security number, date of birth, address, or photos/scans of documents.
+- Don’t share one-time passcodes, login codes, or “verification codes” for any account.
+- Don’t click links or open attachments from the message, even if it looks official.
+- Don’t trust caller ID; official-looking numbers can be spoofed.
+- Don’t send money via wire transfer, crypto, or gift cards because someone claims it’s required “right now”.
 
 ## What to do now
-1. **Hang up the phone or close the messaging app immediately.** Do not engage with the caller, even to tell them you know it is a scam, as this confirms your number is active.
-2. **Document the contact details without interacting further.** Save a screenshot of the message or write down the caller’s number, the date, and the specific claim they made (e.g., "passport revoked" or "fee required").
-3. **Verify the request through the official National Passport Information Center (NPIC) or the State Department.**
-   - If in the U.S.: Call the NPIC at **877-487-2778** (TDD/TTY: 888-874-7793).
-   - If abroad: Call the local U.S. Embassy’s main switchboard using the number found on their official **.gov** website, or call Overseas Citizens Services (OCS) at **+1 202-501-4444**.
-4. **Secure your identity immediately if you already shared information.**
-   - If you shared a passport number or scan: Go to **IdentityTheft.gov** to create an official FTC Identity Theft Report and follow the customized recovery plan.
-   - If you shared financial details: Contact your bank or credit card's fraud department to freeze your accounts and request new cards.
-   - If you shared a Social Security number: Contact one of the three credit bureaus (Experian, TransUnion, or Equifax) to place a free fraud alert on your credit file.
-5. **Report the impersonation to federal authorities.**
-   - File a report with the Federal Trade Commission (FTC) at **ReportFraud.ftc.gov**.
-   - If the contact occurred online (email, WhatsApp, or SMS), report it to the FBI’s Internet Crime Complaint Center at **IC3.gov**.
-   - Report the specific passport fraud attempt to the **Diplomatic Security Service (DSS)** via their official crime tips portal or a local field office.
+1. **End the contact.** Hang up or stop replying. If it’s a robocall, don’t press any numbers.
+2. **Save evidence without engaging.** Screenshot texts/emails, save voicemail, and write down the number, date/time, and the exact claim (“passport issue”, “immigration hold”, “pay a fee”, etc.).
+3. **Verify using official channels you find yourself (not from the message).**
+   - Look up the embassy/consulate’s public contact details on official government sources, then call the **main switchboard** and ask for consular services.
+   - Say: “I received a message claiming to be from you asking for passport/personal details. Can you confirm whether you contacted me?”
+4. **If it claims to be a U.S. embassy/consulate and you’re unsure, use the State Department verification route.**
+   - Call the Department of State’s **Overseas Citizens Services** at **888-407-4747** to help verify whether a situation is real or a scam.
+5. **If you shared information, contain the damage immediately.**
+   - If you shared passwords or codes: change passwords (start with your email), enable multi-factor authentication, and sign out of other sessions if available.
+   - If you shared bank/card details or paid: contact your bank/card issuer immediately and ask for the fraud department.
+   - If you shared identity details (like SSN or a passport scan): use the FTC’s identity theft recovery steps (you may choose to place a fraud alert or credit freeze).
+6. **Report it (U.S. reporting routes).**
+   - Report the scam to the **Federal Trade Commission (FTC)** using its official fraud reporting channel.
+   - If it’s cyber-enabled fraud (links, online messaging, payment apps, email, etc.), report to the **FBI’s Internet Crime Complaint Center (IC3)**.
+   - If you’re in the U.S. and feel in immediate danger or are being actively threatened, call **911**. Otherwise, contact local law enforcement via a non-emergency number.
 
 ## What can wait
-- You don’t need to determine how they got your number or if your data was part of a specific breach right now.
-- You don’t need to notify your local police unless you are being physically threatened or have suffered a specific financial loss.
-- You don’t need to replace your physical passport immediately unless the State Department (via verified channels) confirms it has been compromised or revoked.
+- You don’t need to prove it’s a scam by “testing” the caller or continuing the conversation.
+- You don’t need to send any documents until you’ve independently confirmed a legitimate request through verified contact details.
+- You don’t need to make big travel decisions right now; first, stop contact, verify, and secure accounts.
 
 ## Important reassurance
-Scammers use high-pressure tactics and official-sounding titles to trigger a "fight or flight" response. It is a completely normal and responsible action to hang up on a suspicious caller and verify through an official, independent channel. Taking a few minutes to confirm the situation does not make you "uncooperative" or "at risk" with the real government.
+These scams are designed to create panic and urgency so you act before thinking. Hanging up and verifying through a number you look up yourself is a normal, appropriate step with any supposed government or embassy contact.
 
 ## Scope note
-This guide provides first-step stabilization for a suspected impersonation scam. It does not replace the formal passport application process or official consular legal advice.
+This is first steps only to prevent irreversible mistakes and buy time. If you are overseas and have a real consular issue, the next step is contacting the correct embassy/consulate through verified official contact information.
 
 ## Important note
-The U.S. Department of State and U.S. Embassies do not initiate contact via social media, WhatsApp, or unsolicited calls to request payment or sensitive personal data. If you are in immediate danger, contact local emergency services (911 in the U.S.).
+This guide is general information, not legal advice. For urgent safety threats, contact emergency services where you are.
 
 ## Additional Resources
-- https://travel.state.gov/en/international-travel/travel-advisories/scams.html
-- https://travel.state.gov/content/travel/en/contact-us/reporting-fraud.html
 - https://consumer.ftc.gov/articles/how-avoid-government-impersonation-scam
-- https://consumer.ftc.gov/consumer-alerts/2022/07/scammers-impersonate-us-immigration-officers
-- https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fraud.html
+- https://consumer.ftc.gov/articles/what-do-if-you-were-scammed
+- https://reportfraud.ftc.gov/
+- https://travel.state.gov/en/international-travel/travel-advisories/scams.html
+- https://www.ic3.gov/
+- https://www.usa.gov/where-report-scams

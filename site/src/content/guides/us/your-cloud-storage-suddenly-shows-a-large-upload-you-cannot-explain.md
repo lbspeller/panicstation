@@ -1,102 +1,98 @@
----
+﻿---
 title: "What to do if… your cloud storage suddenly shows a large upload you cannot explain"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "unexpected proxy"
-  - "proxy server suddenly enabled"
-  - "computer using unknown proxy"
-  - "web traffic routed through proxy"
-  - "browser redirect through proxy"
-  - "system proxy settings changed"
-  - "windows proxy turned on"
-  - "mac proxy settings changed"
-  - "vpn i did not install"
-  - "unknown network configuration"
-  - "possible malware proxy"
-  - "suspicious internet connection"
-  - "device may be managed"
-  - "proxy auto configuration pac file"
-  - "automatic proxy setup enabled"
-  - "setup script i dont recognise"
-  - "credentials at risk online"
-  - "account takeover prevention"
-  - "public wifi tampering concern"
-  - "work laptop proxy enforced"
-  - "residential proxy malware"
-  - "what do i do if computer has proxy"
-  - "what do i do if web traffic redirected"
-  - "what do i do if proxy settings locked"
-  - "what do i do if vpn started itself"
-  - "help i see a proxy i did not set"
-  - "help i have a suspicious proxy server"
-  - "help i cannot turn off proxy"
-  - "help i have unauthorized proxy"
-  - "my computer is using a proxy"
-  - "my browser settings changed"
-  - "my internet is going through a proxy"
-  - "my network settings are suspicious"
-  - "smell of burning plastic"
-  - "visible popups"
-  - "slow internet speed"
-  - "browser redirects"
-  - "unauthorized proxy server"
-  - "unknown pac script"
-  - "unknown server address"
-last_reviewed: "2026-03-17"
+  - unexplained cloud upload
+  - sudden large upload
+  - cloud storage hacked
+  - cloud account compromise
+  - unexpected sync activity
+  - unknown device signed in
+  - suspicious account activity
+  - possible ransomware sync
+  - files uploaded without you
+  - shared folder changed
+  - connected app access
+  - revoke third party access
+  - sign out of all sessions
+  - change cloud password now
+  - enable two factor authentication
+  - storage usage spike
+  - unexpected data transfer
+  - cloud audit log check
+  - backup app gone wrong
+  - malware on computer upload
+  - stolen credentials cloud
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your cloud storage suddenly shows a large upload you cannot explain (USA)
 
 ## Short answer
-Immediately disconnect the device from all internet connections and disable any unknown proxy or auto-configuration scripts before attempting to access sensitive accounts from a separate, trusted device.
+Stop syncing and secure the account: sign out other sessions, change your password, and turn on two-factor authentication so unauthorized access can’t keep uploading.
 
 ## Do not do these things
-- Don't enter any passwords, credit card numbers, or MFA codes while the proxy is active.
-- Don't assume the proxy is a harmless system update; treat it as an active data-interception risk.
-- Don't try to "fix" the issue by downloading software from the internet while the proxy is still active.
-- Don't restart the computer and immediately log back into your browser; some malware re-enables the proxy upon reboot.
-- Don't use "public" or "free" Wi-Fi to troubleshoot the issue.
+- Don’t mass-delete files or “clean up” the cloud account before you’ve secured it and captured what you’re seeing.
+- Don’t leave sync running while you investigate (it can keep uploading or spread harmful changes).
+- Don’t use “security alert” links from emails/texts—go directly to the provider’s official site/app.
+- Don’t reuse an old password or one used on other sites.
+- Don’t immediately factory-reset devices if you suspect malware—stabilize first and note key details.
 
 ## What to do now
-1. **Physically or digitally isolate the machine from the network.**
-   **Turn off Wi-Fi and unplug any Ethernet cables immediately to stop data from being routed through the unauthorized server.**
-2. **Contact your employer or school IT department if the device is managed.**
-   **If you are using a work or school laptop, stop all activity and notify your IT helpdesk that an unauthorized proxy or PAC script has appeared.**
-   - Managed devices may have legitimate proxies, but IT must verify if this specific change was authorized.
-3. **Verify and disable proxy settings in the system menus.**
-   **Navigate to your operating system's network settings and turn off all "Manual Proxy" and "Automatic Proxy Setup" toggles.**
-   - On Windows: Go to **Settings > Network & internet > Proxy**; disable "Use a proxy server" and "Use setup script."
-   - On macOS: Go to **System Settings > Network > [Your Connection] > Details > Proxies**; toggle all protocols to "Off."
-4. **Record the unauthorized proxy details for potential reporting.**
-   **Take a screenshot or write down the IP address, port number, or script URL (PAC file) listed in the settings before you clear them.**
-5. **Check for "hidden" proxy overrides via the command line on Windows.**
-   **Open Command Prompt as an Administrator and type `netsh winhttp show proxy` to see if a proxy is set at the system level that doesn't appear in the standard Settings menu.**
-   - If a proxy is found, type `netsh winhttp reset proxy` to clear it.
-6. **Secure your primary accounts from a separate, clean device.**
-   **Using a trusted phone or a different computer, change the password for your primary email account first, then your banking and password manager.**
-   - Ensure Multi-Factor Authentication (MFA) is active and check for any "authorized devices" or "active sessions" you don't recognize.
-7. **Perform a local security scan while remaining offline.**
-   **Run the built-in security software (like Windows Defender or macOS XProtect) to scan for "residential proxy" malware or unauthorized remote management tools.**
-8. **Report the incident to the FBI Internet Crime Complaint Center (IC3).**
-   **Visit ic3.gov from a clean device and file a report, specifically mentioning the proxy address you recorded and any 2026 alerts regarding residential proxy exploitation (PSA260312).**
+1. **Freeze the situation (prevent more uploading).**  
+   Pause syncing or quit the cloud app on every device that uses it. If you can’t pause, disconnect that device from the internet while you secure the account.
+
+2. **Sign in the safe way.**  
+   Use the cloud provider’s official app or type the address yourself. Avoid links from messages.
+
+3. **Kick out other sessions.**  
+   In account security settings, use “sign out of all devices/sessions” (or equivalent). This helps stop unauthorized access fast.
+
+4. **Change the password and enable 2FA.**  
+   Set a strong, unique password. Turn on **two-factor authentication (2FA)** for the cloud account and (if possible) for the email account used for password resets.
+
+5. **Check and correct recovery/security controls (so they can’t get back in).**  
+   In security/account settings, review and fix:
+   - recovery email/phone number (remove anything you don’t recognize)
+   - backup codes (generate/save new ones if offered)
+   - trusted devices / remembered browsers (remove unknown ones)
+   - security alerts/notifications (turn them on if available)
+
+6. **Check the most common non-attack causes (fast).**  
+   In the cloud service:
+   - Review **recent activity / sign-in history / device list** for unknown devices, locations, or times.
+   - Review **connected apps** (third-party access) and revoke anything unfamiliar.
+   - Review **sharing settings** (shared folders, shared links, collaborators) and remove anything you didn’t set.
+   - Consider whether a **backup feature** (photos, desktop backup, scanner app) was enabled and is uploading a backlog.
+
+7. **Capture a minimal record (30–60 seconds).**  
+   Screenshot the activity showing upload size/time, unknown devices, and security/recovery changes. Write down the date/time.
+
+8. **Check devices that sync to the cloud.**  
+   Run an up-to-date malware scan on computers that sync to the cloud, update the operating system and the cloud app, and reboot. If this is a work-managed account/device, stop and follow your organization’s IT/security incident process.
+
+9. **If you suspect significant fraud/loss, use official reporting routes (optional).**  
+   - If there’s substantial financial loss, extortion, or a clear cyber-enabled crime pattern, you can file a report with the FBI’s **IC3**.
+   - If personal information (like SSN or financial account access) may be misused, use **IdentityTheft.gov** for guided recovery steps.
 
 ## What can wait
-- You don't need to wipe your hard drive immediately unless a security professional confirms the infection is persistent.
-- You don't need to notify every single minor online service; focus only on email, finance, and identity-related accounts for now.
-- You don't need to determine the physical location of the proxy server yourself.
+- You do **not** need to decide right now whether to permanently delete files, rebuild your cloud structure, or notify everyone you know.
+- You do **not** need to wipe devices immediately unless you have clear evidence of infection and you’ve first secured accounts and saved key details.
+- You do **not** need to purchase security tools in the moment—stabilizing access and stopping sync comes first.
 
 ## Important reassurance
-Finding an unauthorized proxy is a significant security event, but taking the machine offline immediately stops the attacker from intercepting further traffic. By using a second, clean device to secure your accounts, you can prevent the most serious consequences of a proxy hijack.
+A sudden large upload can be caused by legitimate syncing/backup settings, a second device you forgot was connected, or an app you previously authorized. Securing the account and pausing sync is the right first step either way.
 
 ## Scope note
-This guide provides first-step stabilization for identifying and disabling unauthorized proxy settings. It does not replace a full forensic audit or professional malware removal, which may be necessary if the proxy settings return after a reboot.
+These are first steps to stabilize and reduce harm. If you confirm unauthorized access, later steps may include deeper device cleanup, reviewing what was exposed, and provider-led recovery.
 
 ## Important note
-This information is for immediate crisis stabilization and does not constitute professional cybersecurity or legal advice. If you suspect your identity has been stolen or your financial accounts have been accessed, contact your bank and the relevant authorities directly. During government funding lapses, federal reporting portals like ReportFraud.ftc.gov may be unavailable; in such cases, prioritize securing your accounts and contacting local law enforcement if financial loss has occurred.
+This is general information, not legal, medical, or professional cybersecurity advice. If workplace systems or sensitive data are involved, use official provider support and your organization’s incident reporting process.
 
 ## Additional Resources
-- https://support.google.com/accounts/answer/3067630?hl=en
-- https://support.google.com/accounts/answer/6294825?hl=en
-- https://support.google.com/photos/answer/6193313?hl=en
-- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
-- https://consumer.ftc.gov/articles/malware-how-protect-against-detect-and-remove-it
+- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
+- https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts
+- https://consumer.ftc.gov/consumer-alerts/2024/10/email-or-social-media-hacked-heres-what-do
+- https://www.ic3.gov/
+- https://www.identitytheft.gov/Info-Lost-or-Stolen

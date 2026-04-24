@@ -1,88 +1,74 @@
----
+﻿---
 title: "What to do if… you hear someone trying keys or a keycard on your door and you are inside"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "someone trying my door lock"
-  - "keys in my door"
-  - "keycard beep at my door"
-  - "door handle rattling"
-  - "someone jiggling the handle"
-  - "stranger trying keys"
-  - "attempted break-in while home"
-  - "someone testing locks"
-  - "intruder at the door"
-  - "unexpected entry attempt"
-  - "someone outside my flat door"
-  - "keys in lock sound"
-  - "handle moving on its own"
-  - "card reader beeping"
-  - "someone at the door at night"
-  - "trying keys on my door"
-  - "scraping sound in lock"
-  - "person outside flat"
-  - "lock tampering sounds"
-  - "help someone is at my door"
-  - "what do i do if someone is trying my door"
-  - "what do i do if i hear keys in my door"
-  - "what do i do if my door handle rattles"
-  - "what do i do if someone uses a keycard on my door"
-  - "help i hear someone trying my lock"
-  - "help someone is outside my door trying keys"
-  - "help i hear a keycard beep"
-  - "my door handle is moving"
-  - "my lock is being turned"
-  - "corridor noise near lock"
-  - "communal hallway intruder"
-  - "apartment door entry attempt"
-  - "keycard lock failure"
-  - "unauthorized entry attempt"
-last_reviewed: "2026-03-17"
+  - someone trying my door lock
+  - keys in my door
+  - keycard beep at my door
+  - door handle rattling
+  - someone jiggling the handle
+  - stranger trying keys
+  - attempted break-in while home
+  - someone testing locks
+  - intruder at the door
+  - unexpected entry attempt
+  - someone outside my flat door
+  - apartment door keycard attempt
+  - corridor noise at my door
+  - scared at home alone
+  - inside when someone tries door
+  - possible burglary in progress
+  - lock being tampered with
+  - keys scraping in lock sound
+last_reviewed: "2026-01-11"
 ---
+
 # What to do if… you hear someone trying keys or a keycard on your door and you are inside (UK)
 
 ## Short answer
-Keep the door closed and locked, move to a safe room away from the entrance, and call 999 immediately if you believe a break-in is being attempted.
+Do not open the door. Lock it (any extra bolts/latches), move away from the doorway, and call **999** if you think someone is trying to get in or you feel unsafe.
 
 ## Do not do these things
-- Do not open the door to investigate or confront the person.
-- Do not shout personal information such as the fact that you are alone.
-- Do not use an intercom or buzzer to grant access to a communal building.
-- Do not stand directly behind the door or in line with any glass panels.
-- Do not assume it is a simple mistake if the person continues to rattle the handle or try multiple keys.
-- Do not delay calling for help to film or record the noise.
+- Do not open the door “to check” or argue through the gap.
+- Do not confront them in the hallway/communal area.
+- Do not shout details like “I’m alone” or “I don’t have my phone”.
+- Do not keep peering through windows where you can be seen clearly.
+- Do not waste time searching for proof (filming, checking every window) instead of getting help.
+- Do not assume it’s “probably a mistake” if the behaviour continues or escalates.
 
 ## What to do now
-1. **Ensure the door is fully locked and any secondary security devices are engaged.** This includes deadbolts, chains, or thumb-turn locks that can be operated from the inside.
-2. **Move immediately to a different room and close the door behind you.** Choose a room with a lock if possible, or one that provides a clear exit or a second barrier between you and the front door.
-3. **Gather your phone and any other people in the property to one location.** Keep everyone together and remain as quiet as possible to avoid drawing attention to your specific location within the home.
-4. **Call 999 and inform the operator that an attempted break-in is in progress.** Provide your full address, including the flat number and floor, and describe the specific sounds you are hearing.
-   - Mention if you hear more than one person or any specific tools being used.
-5. **Use the Silent Solution protocol if it is not safe for you to speak aloud.** If calling 999 from a mobile and you cannot talk, listen for the automated prompt and press 55 to signal that you are in a genuine emergency.
-   - If you are on a landline, the operator may listen for background noise; stay on the line even if you cannot speak.
-6. **Check any internal security cameras or smart doorbells only if you can do so safely from your phone.** Look for descriptions of clothing, physical appearance, or direction of travel without approaching the door itself.
-7. **Contact on-site security or a concierge only after you have alerted the police.** If your building has a 24-hour desk, inform them so they can monitor CCTV or communal areas, but instruct them not to confront the person directly.
-8. **Stay in your safe position until the police arrive or you are certain the person has left.** Do not open the door until you have verified the identity of the person outside, even if the noise stops.
+1. **Lock and reinforce the door immediately.** Engage any deadbolt, thumbturn, chain/bar latch, or secondary lock you already have fitted. If you have an intercom/door-entry system, **do not buzz anyone in**.
+2. **Create distance and cover.** Move to a room away from the front door (ideally an interior room). Close and lock that room if possible.
+3. **Bring essentials to you.** Take your phone, keys, and shoes. If you have children or others with you, bring them with you and keep everyone together and quiet.
+4. **Call 999 if you think they’re trying to enter or you feel in danger.** Say clearly:
+   - Your address and flat/unit number
+   - “Someone is trying keys / a keycard on my door and I’m inside”
+   - Whether you can hear more than one person, and any sounds (handle rattling, key scraping, card beeps)
+5. **If you can’t safely speak, still call 999 and stay connected.** Listen to the operator. If you can, respond with a cough/tap when asked questions. **If you’re prompted (commonly on a mobile), press 55** to confirm it’s a genuine emergency so you can be put through to police.
+6. **If you can safely check without exposing yourself, gather quick details.** Use a peephole/camera display if you have one. Note clothing, direction of movement, and whether they try multiple doors. Don’t stand directly in line with the door or any glass panel.
+7. **If you’re in a block with staff/security/concierge, contact them as well (only after 999 if urgent).** Ask them to check the corridor **without confronting anyone** and to preserve any door-entry/CCTV information.
+8. **Stay put until you’re confident it’s safe.** If the noises stop, don’t rush to the door. Wait, stay on the line if instructed, and only open when you’re satisfied it’s safe (for example, after police/staff confirmation).
 
 ## What can wait
-- Checking if the door or lock mechanism has been physically damaged.
-- Contacting the landlord or building management regarding lock upgrades.
-- Reviewing recorded footage from the last several hours.
-- Informing neighbours or posting about the incident on community forums.
-- Deciding whether you need to change your keys or keycard.
+- Figuring out exactly who it was or why they did it.
+- Reviewing CCTV properly, door-entry logs, or doorbell footage.
+- Contacting your landlord/agent about locks or keycards.
+- Posting in building chats or social media.
+- Writing a detailed timeline (you can do that later when you’re calmer).
 
 ## Important reassurance
-Hearing someone interact with your door lock is a high-stress event, and it is normal for your heart rate to increase or for your hands to shake. These reactions are part of your body's natural alert system helping you prioritize your safety. By staying behind a locked door and calling for professional assistance, you are taking the most effective steps to protect yourself.
+This situation is frightening because it’s ambiguous and close. Freezing, shaking, or feeling “over-alert” is a normal body response. Your job right now is simply to **stay behind a locked barrier, buy time, and get help**—not to solve the mystery.
 
 ## Scope note
-This guide provides first-step stabilization for the immediate minutes during an unexpected entry attempt. It does not cover long-term security audits, legal reporting procedures, or post-incident trauma support.
+These are first steps for the next few minutes. After the immediate risk passes, you may want follow-up help (building management, lock changes, reporting), but you do not need to decide any of that right now.
 
 ## Important note
-This information is for immediate safety guidance and does not constitute legal or professional security advice. Always follow the instructions of emergency dispatchers and police officers during an active incident.
+This guide is general information for immediate first steps, not professional safety or legal advice. If you believe someone is attempting to enter your home or you feel unsafe, treat it as urgent and contact emergency services.
 
 ## Additional Resources
-- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/
-- https://www.gov.uk/report-crime
-- https://www.police.uk/pu/contact-us/what-and-how-to-report/what-report/
-- https://www.met.police.uk/cp/crime-prevention/protect-home-crime/keep-burglars-out-property/
-- https://crimestoppers-uk.org/give-information
+- https://www.gov.uk/contact-police
+- https://www.police.uk/pu/contact-us/
+- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
+- https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
+- https://www.derbyshire.police.uk/news/derbyshire/news/news/forcewide/2025/january/when-you-need-to-call-999-but-cant-talk/

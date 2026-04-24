@@ -1,92 +1,79 @@
----
+﻿---
 title: "What to do if… you realise your visa or entry permission start date is later than your arrival date"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "visa start date later"
-  - "entry permission starts later"
-  - "visa valid from date"
-  - "vignette valid from date"
-  - "evisa start date mismatch"
-  - "travel date before visa valid"
-  - "arriving before visa valid"
-  - "flight arrives too early"
-  - "denied boarding visa dates"
-  - "refused entry visa dates"
-  - "immigration permission dates"
-  - "entry clearance dates wrong"
-  - "visa dates printed wrong"
-  - "visa validity window"
-  - "travel itinerary date mismatch"
-  - "airport check-in visa issue"
-  - "arrival before permission starts"
-  - "travel documents validity dates"
-  - "wrong travel date booked"
-  - "what do i do if my visa starts after i arrive"
-  - "what do i do if i booked my flight too early for my visa"
-  - "what do i do if my evisa date is wrong"
-  - "what do i do if my vignette start date is wrong"
-  - "help i arrive in the uk before my visa starts"
-  - "help i am arriving in london before my visa"
-  - "help my flight lands before my visa is valid"
-  - "help my permission to travel starts tomorrow"
-  - "my visa starts after my flight lands"
-  - "my entry clearance date is wrong"
-  - "my immigration start date mismatch"
-  - "incorrect visa start date"
-  - "early arrival uk border"
-  - "ukvi account date error"
-  - "vignette correction outside uk"
-last_reviewed: "2026-03-17"
+  - visa start date later
+  - entry permission starts later
+  - visa valid from date
+  - vignette valid from date
+  - evisa start date mismatch
+  - travel date before visa valid
+  - arriving before visa valid
+  - flight arrives too early
+  - denied boarding visa dates
+  - refused entry visa dates
+  - immigration permission dates
+  - entry clearance dates wrong
+  - visa dates printed wrong
+  - visa validity window
+  - travel itinerary date mismatch
+  - airport check-in visa issue
+  - arrival before permission starts
+  - travel documents validity dates
+  - wrong travel date booked
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you realise your visa or entry permission start date is later than your arrival date (UK)
 
 ## Short answer
-Do not attempt to travel to the UK until the "valid from" date on your visa or eVisa. You must either rebook your travel to arrive on or after the start date or apply for an official correction of the document before departure.
+Do not travel to the UK before your permission is valid. Confirm the exact “valid from” date on your visa/permission, then rebook travel or get the dates corrected before you attempt to travel.
 
 ## Do not do these things
-- Do not travel to the airport if your arrival time is even one minute before the "valid from" date/time.
-- Do not assume carriers (airlines, rail, or ferry) will allow boarding; 2026 digital pre-travel checks automatically flag date mismatches.
-- Do not rely on a "standard visitor" entry at the border if you have a pending or future-dated student or work visa, as this can invalidate your main permission.
-- Do not attempt to explain the discrepancy to border officers after arrival; entering without valid permission can lead to a formal refusal of entry and a re-entry ban.
-- Do not ignore the time difference; UK entry permission is based on UK local time (GMT/BST).
+- Do not travel anyway “to try your luck” at check-in or the border — you may be refused boarding or refused entry.
+- Do not ignore the difference between *departure* and *arrival* dates (overnight flights can catch people out).
+- Do not assume a screenshot or informal explanation will be accepted at check-in if your carrier can’t verify your permission.
+- Do not cancel everything in a panic if the fix is simply rebooking to arrive on/after the valid-from date.
+- If you think you may have already entered the UK before your permission began, do not make assumptions about “it’ll be fine” — treat it as a potential status issue and get advice promptly.
 
 ## What to do now
-1. **Verify the exact "valid from" timestamp on your immigration permission.**
-   - Check the digital "view and prove" service in your UKVI account for eVisas.
-   - Check the physical vignette (sticker) in your passport if one was issued.
-2. **Calculate your arrival time in UK local time.**
-   - **Confirm whether your flight lands before midnight on the day your visa starts.**
-   - Factor in time for taxiing and immigration queues; however, the legal arrival time is recorded when you present your documents to a carrier or officer.
-3. **Contact the Home Office International Enquiry Service immediately if the date was issued in error.**
-   - **Request an administrative correction if the dates on your visa do not match the dates on your decision letter.**
-   - Note that if the error was yours during the application process, a correction may not be possible without a new application.
-4. **Reschedule your travel to align with the valid permission window.**
-   - **Move your arrival date to occur on or after the "valid from" date stated on your permission.**
-   - This is the standard procedure to avoid a "no permission, no travel" block at the departure gate.
-5. **Notify your sponsor, employer, or university of the delay today.**
-   - **Inform them if your new arrival date will be after your course or job start date.**
-   - Request an updated "latest start date" confirmation if necessary to ensure compliance with sponsorship duties.
-6. **Gather all evidence of the discrepancy into a single digital or physical folder.**
-   - Include the original visa application, the decision letter, the current visa/eVisa, and your original travel itinerary.
+1. **Confirm the exact “valid from” date on your immigration permission.**  
+   Check the “valid from” date on your entry clearance vignette (sticker) *or* what your UKVI account/eVisa shows for your permission dates. Make sure you’re not confusing this with a course/job start date or booking date.
+
+2. **Check your flight’s *arrival* date in UK local time.**  
+   If you land before the valid-from date/time (including just before midnight), you can still be arriving too early.
+
+3. **If you haven’t travelled yet: change travel so you arrive on/after the valid-from date.**  
+   This is usually the lowest-risk option. Do it before you go to the airport.
+
+4. **If you think the permission dates are wrong: use the correct correction route immediately.**
+   - **If your eVisa details are wrong:** report it using the official “report an error with your eVisa” service.  
+   - **If your passport vignette (sticker) details are wrong:** contact the visa application centre (VAC) that issued/handled it as soon as possible to request a correction.  
+   If you’re sponsored (for example by a university or employer), tell them today as well so they can advise on timing and compliance.
+
+5. **Get your evidence ready in one place (digital + paper if possible).**  
+   Passport photo page, vignette page (if you have one), eVisa view/share details, decision letter/email, and your itinerary showing planned arrival.
+
+6. **If you’re already in the UK and suspect you entered before your permission began: stabilise and document first.**  
+   Gather proof of your travel timeline (boarding pass, booking confirmation, passport entry stamp if present, emails). Then get advice quickly from a qualified immigration adviser/solicitor or (if you’re sponsored) your sponsor’s compliance team. Avoid taking steps that depend on your immigration conditions until you’ve had it checked.
 
 ## What can wait
-- You do not need to cancel your entire trip or visa; a simple delay in arrival usually resolves the immediate compliance issue.
-- You do not need to apply for a new visa immediately unless the Home Office confirms that the existing one cannot be corrected.
-- You do not need to worry about your long-term status if you have not yet travelled; the issue is only hazardous if you attempt to enter the UK early.
+- You do not need to decide today whether to cancel your whole trip long-term — focus only on aligning your *arrival date* with your *permission validity* (or correcting the permission).
+- You do not need to have a confrontation at the airport; you reduce risk by fixing this before travel.
+- You do not need to make irreversible life changes (ending a lease, shipping belongings, quitting a job) until your entry timeline is confirmed.
 
 ## Important reassurance
-Arrival date mismatches are common administrative issues often caused by timezone overlaps or overnight travel. Carriers are now strictly required to check these dates before you board, which serves as a safety check to prevent you from facing an entry refusal at the UK border. Adjusting your travel timing is a standard and recognized way to remain compliant.
+This is a common, fixable panic moment — especially with overnight flights and date windows. Slowing down, matching your arrival to the valid-from date (or correcting an error), and keeping clear records is the safest way through it.
 
 ## Scope note
-This guide covers first-step stabilization for individuals who have identified a date mismatch before or during travel. It does not cover the legal process for those who have already entered the UK without valid permission, which requires immediate professional legal advice.
+These are first steps to prevent refused boarding/entry or accidental non-compliance. If you think you already entered the UK before your permission began, the right remedy depends on your exact situation, so specialist advice is important.
 
 ## Important note
-This information is for general guidance and is not legal advice. UK immigration rules and digital enforcement systems are subject to frequent change in 2026. If you are unsure of your status or the correction process, consult the Home Office International Enquiry Service or a qualified OISC-regulated immigration adviser.
+This is general information, not legal advice. UK immigration processes can be fact-specific and digital permission systems can change; if you cannot verify what applies to your permission type, take the cautious option (do not travel early) and seek qualified help before taking any irreversible step.
 
 ## Additional Resources
-- https://www.gov.uk/student-visa
-- https://www.gov.uk/government-authorised-exchange
-- https://www.gov.uk/international-agreement-worker-visa
-- https://www.gov.uk/evisa/travel-with-evisa
-- https://www.gov.uk/apply-to-come-to-the-uk/prepare-your-application
+- https://www.gov.uk/uk-border-control/before-you-leave-for-the-uk
+- https://www.gov.uk/evisa/report-error-evisa
+- https://www.ukcisa.org.uk/student-advice/visas-and-immigration/passport-and-visa-problems/
+- https://students.leeds.ac.uk/visa-information-changes/doc/correcting-visa-errors

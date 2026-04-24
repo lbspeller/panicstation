@@ -1,85 +1,84 @@
----
+﻿---
 title: "What to do if… you get a bite or sting and the swelling keeps increasing over hours"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "what to do if bite swelling increases"
-  - "help i have a bite swelling keeps growing"
-  - "my sting is getting bigger every hour"
-  - "what to do if sting swelling spreads"
-  - "insect bite swelling spreading up arm"
-  - "wasp sting swelling getting worse"
-  - "bee sting swelling increasing over hours"
-  - "large local reaction to bite"
-  - "allergic reaction symptoms uk"
-  - "delayed swelling after insect sting"
-  - "bite swelling near eye what to do"
-  - "sting in mouth swelling help"
-  - "skin feels hot and swollen after bite"
-  - "redness spreading from insect bite"
-  - "infected bite signs and symptoms"
-  - "swelling keeps increasing after hours"
-  - "help my bite is expanding"
-  - "what do i do if my sting is swollen"
-  - "bite swelling getting bigger hours later"
-  - "increasing swelling after wasp sting"
-  - "bite redness expanding with time"
-  - "swelling spreading up leg"
-  - "painful hot swollen bite site"
-  - "worried swelling keeps growing"
-  - "infection after insect bite symptoms"
-  - "cellulitis after bite signs"
-  - "swelling after multiple stings"
-  - "blue skin anaphylaxis sign"
-  - "trouble breathing after sting"
-last_reviewed: "2026-03-16"
+  - bite swelling getting bigger
+  - sting swelling getting worse
+  - insect bite swelling hours later
+  - wasp sting swelling increasing
+  - bee sting swelling spreading
+  - bite redness expanding
+  - swelling spreading up arm
+  - swelling spreading up leg
+  - large local reaction sting
+  - allergic reaction after sting
+  - delayed swelling after bite
+  - painful hot swollen bite site
+  - bite swelling near eye
+  - sting in mouth swelling
+  - worried swelling keeps growing
+  - swelling after multiple stings
+  - infection after insect bite
+  - cellulitis after bite worry
+last_reviewed: "2026-01-21"
 ---
+
 # What to do if… you get a bite or sting and the swelling keeps increasing over hours (UK)
 
 ## Short answer
-If swelling is still increasing hours later, contact **NHS 111** or a pharmacist for same-day advice. Call **999 or 112** immediately if you experience breathing difficulties, a swollen tongue, or feel faint.
+If swelling is still increasing over hours, get same-day advice via **NHS 111** (or urgent GP/pharmacist advice). If you have any breathing/throat symptoms, fainting/confusion, or swelling of lips/tongue/face, call **999 or 112** immediately.
 
 ## Do not do these things
-- Do not wait to see if it improves if the swelling involves the **eyes, mouth, or throat**.
-- Do not scratch, squeeze, or attempt to "pop" the swollen area.
-- Do not apply a tight bandage or tourniquet to the limb.
-- Do not exceed the dosage instructions on the packet for any medication.
-- Do not use home remedies like vinegar, bicarbonate of soda, or toothpastes.
-- Do not use steroid or antihistamine creams if you suspect contact with **caterpillar hairs**.
+- Do not “wait it out” if swelling is spreading quickly, involves the **eye/face/mouth/throat**, or you feel unwell.
+- Do not scratch, squeeze, or cut the bite/sting.
+- Do not use a tight wrap or tourniquet.
+- Do not exceed the packet directions for antihistamines or painkillers.
+- Do not use home remedies that irritate the skin (for example, powders/pastes/chemicals) or anything that burns.
 
 ## What to do now
-1. **Check immediately for signs of a severe whole-body allergic reaction (anaphylaxis).** **Call 999 or 112 if you have trouble breathing, a tight throat, a swollen tongue/lips/face, or feel suddenly confused or dizzy.**
-   - Look for skin, lips, or tongue turning blue, grey, or pale (on brown or black skin, check the palms of hands or soles of feet).
-2. **Use an adrenaline auto-injector (e.g., EpiPen) now if you have one and suspect anaphylaxis.** **Follow the instructions on the side of the device and call 999 immediately after use.**
-   - Lie down flat and raise your legs if possible; if breathing is difficult, sit up slowly but do not stand or walk.
-   - If symptoms do not improve after 5 minutes and you have a second injector, use it in the other leg.
-3. **Remove any jewellery or tight clothing near the site before swelling increases.** **Take off rings, watches, or bracelets immediately if the bite is on your arm or hand.**
-4. **Remove the stinger if it is still visible in the skin.** **Scrape the stinger out sideways using the edge of a bank card or a fingernail.**
-   - Do not use tweezers to pull a stinger, as this can squeeze more venom into the skin.
-5. **Apply a cold compress to the area to slow the swelling.** **Use an ice pack wrapped in a cloth or a cold, wet flannel for at least 20 minutes.**
-   - Keep the affected limb raised (above the level of your heart) while resting.
-6. **Mark the area of redness or swelling to track its progress.** **Draw a line around the outer edge of the swelling with a pen and note the time.**
-   - Take a clear photo of the site to show a healthcare professional later.
-7. **Contact NHS 111 or a pharmacist for same-day advice if the swelling continues to grow.** **Ask a pharmacist about the "Pharmacy First" service if you are over 1 year old and suspect the bite is infected.**
-   - Seek urgent advice if you have a fever, swollen glands, or the bite is near your eye or inside your mouth.
+1. **Check for emergency allergy signs (act immediately).** Call **999 or 112** if any of these are happening now: trouble breathing/wheezing, throat tightness, trouble swallowing, swelling of tongue/lips/face, blue/grey/pale lips or skin, sudden confusion/drowsiness, fainting, collapse, or feeling suddenly very unwell (often with a widespread itchy/raised rash).
+2. **If anaphylaxis is possible and you have an adrenaline auto-injector, use it now.** Then call **999 or 112** and say “anaphylaxis.”
+   - **Lie down** (raise legs if you can). If breathing is difficult, you may need to sit up slowly.
+   - If symptoms **have not improved after 5 minutes** and you have a **second** auto-injector, use it.
+   - Avoid standing or walking, even if you start to feel better.
+3. **Reduce risk from swelling straight away.**
+   - Remove rings, watches, tight clothing or shoes from that limb **before** swelling makes it hard.
+   - Rest the area and **raise it** if it’s an arm/leg.
+   - Apply a **cold pack** (wrapped) or a cold, wet cloth for around **20 minutes** if swollen.
+4. **Remove anything left in the skin (only what’s on the surface).**
+   - If it looks like a **bee/wasp/hornet stinger**, **brush or scrape it sideways** with a fingernail or the edge of a card. Avoid tweezers (they can squeeze more venom out).
+5. **Wash and mark the edge so you can tell if it’s spreading.**
+   - Wash with soap and water.
+   - Draw a pen line around the edge of redness/swelling and write the time; take a clear photo. If the line keeps being crossed over the next few hours, that’s important to report.
+6. **Use symptom relief that matches UK self-care advice (if safe for you).**
+   - Consider an **oral antihistamine** for itching.
+   - Consider **paracetamol or ibuprofen** for pain (if you can take them).
+   - An over-the-counter **hydrocortisone cream** can reduce itching and swelling—follow the label.
+7. **Get same-day help if swelling keeps increasing over hours. Choose the quickest route:**
+   - **NHS 111** (phone or online), especially if symptoms are getting worse or not improving, you feel dizzy/lightheaded, you have tummy pain/vomiting, fever/high temperature or swollen glands, you were stung **more than once**, you were stung in the **mouth/throat/near the eyes**, or you’ve had a serious reaction before.
+   - **A pharmacist (same day)** if the area is hot/red/painful/swollen or there’s any weeping/pus (pharmacists can recommend treatments and, where available, supply antibiotics for infected bites/stings).
+8. **If symptoms are worsening quickly and you can’t get prompt advice, go to urgent care/A&E.** Rapidly increasing swelling, increasing pain with heat/redness, red streaks up a limb, or feeling feverish/unwell should not wait.
 
 ## What can wait
-- You do not need to identify the exact species of insect to get effective treatment.
-- You do not need to seek an allergy specialist today; acute stabilization is the priority.
-- You do not need to decide if the reaction is "normal" yet; professional assessment is safer.
+- You do not need to identify the exact insect right now.
+- You do not need to decide today whether you “have an allergy” long-term.
+- You do not need to keep checking it by pressing/squeezing; monitor spread with the pen line/photo instead.
 
 ## Important reassurance
-It is normal for some bites to cause a "large local reaction" where swelling increases over 24 to 48 hours. This can look alarming and feel very hot or painful without being a life-threatening emergency. Using a pen to track the spread helps medical staff determine if you need further treatment like antibiotics.
+It’s common for bites and stings to look worse before they look better. Some people get a **large local reaction** where swelling continues to build and may peak around **24–48 hours**—that can still be miserable, but it’s different from an emergency whole-body reaction. You’re doing the right thing by seeking help if it’s **still expanding**, in a risky area (eye/mouth/throat), or you feel unwell.
 
 ## Scope note
-This guide provides first-step stabilization for a worsening local reaction. It does not replace a clinical diagnosis for infection or long-term allergy management.
+These are first steps for the next few hours. Longer-term decisions (allergy referral, prevention plans, or follow-up if infection is confirmed) can come later.
 
 ## Important note
-This information is for general guidance. If you feel unwell, dizzy, or if the swelling is spreading rapidly, contact NHS 111 or your GP immediately.
+This is general information, not a diagnosis. If you’re unsure, contact NHS 111—especially when swelling is continuing to increase, spreading, or you feel unwell.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/insect-bites-and-stings/
-- https://www.nhsinform.scot/healthy-living/outdoor-health/bites-and-stings/
-- https://111.wales.nhs.uk/encyclopaedia/i/article/insectbitesandstings/
-- https://www.cuh.nhs.uk/patient-information/insect-bites-and-stings/
-- https://www.nice.org.uk/guidance/ng182
+- https://www.nhs.uk/conditions/anaphylaxis/
+- https://www.nhs.uk/conditions/cellulitis/
+- https://www.sja.org.uk/first-aid-advice/insect-bites-and-stings/
+- https://www.resus.org.uk/sites/default/files/2021-05/Emergency%20Treatment%20of%20Anaphylaxis%20May%202021_0.pdf
+- https://www.anaphylaxis.org.uk/fact-sheet/adrenaline/
+- https://www.allergyuk.org/resources/wasp-and-bee-sting-allergy/

@@ -1,99 +1,86 @@
----
+﻿---
 title: "What to do if… you realise you entered your passport number incorrectly on an entry form and departure is close"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "wrong passport number entry form"
-  - "passport number typo travel form"
-  - "entered passport number incorrectly"
-  - "incorrect passport details travel"
-  - "api passenger info wrong"
-  - "advance passenger information mistake"
-  - "apis passport number wrong"
-  - "airline passenger info correction"
-  - "online check-in passport number error"
-  - "visa waiver passport number mistake"
-  - "esta passport number wrong"
-  - "canada eta passport number wrong"
-  - "uk eta passport number wrong"
-  - "etias passport number wrong"
-  - "travel authorization linked to passport"
-  - "cannot edit submitted application"
-  - "reapply travel authorization"
-  - "departure is close travel document error"
-  - "flight tomorrow passport number wrong"
-  - "border entry form mistake"
-  - "resubmit passenger info form"
-  - "risk denied boarding document mismatch"
-  - "what do i do if passport number is wrong"
-  - "what do i do if i made a typo on esta"
-  - "what do i do if i made a typo on eta"
-  - "help i put the wrong passport number on my flight"
-  - "help i entered the wrong passport info"
-  - "my passport number is wrong on my boarding pass"
-  - "my esta has the wrong number"
-  - "passport number mismatch at airport"
-  - "typo in passport number"
-  - "wrong digit in passport info"
-  - "passport number error online check in"
-  - "apls passport error help"
-last_reviewed: "2026-03-17"
+  - wrong passport number entry form
+  - passport number typo travel form
+  - entered passport number incorrectly
+  - incorrect passport details travel
+  - api passenger info wrong
+  - advance passenger information mistake
+  - apis passport number wrong
+  - airline passenger info correction
+  - online check-in passport number error
+  - visa waiver passport number mistake
+  - esta passport number wrong
+  - canada eta passport number wrong
+  - travel authorization linked to passport
+  - cannot edit submitted application
+  - reapply travel authorization
+  - departure is close travel document error
+  - flight tomorrow passport number wrong
+  - border entry form mistake
+  - resubmit passenger info form
+  - risk denied boarding document mismatch
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you realise you entered your passport number incorrectly on an entry form and departure is close (USA)
 
 ## Short answer
-Identify immediately whether the error is in the airline's Advance Passenger Information System (APIS) or a government travel authorization (ESTA, eTA, ETA, or ETIAS). Airline-side errors can often be corrected at check-in, but government authorizations with passport number errors almost always require a new, paid application.
+Assume this could stop you from boarding until you fix it. First, determine whether the wrong passport number is in **your airline’s passenger information (API/APIS)** or in a **government travel authorization/visa**—then correct the right one immediately.
 
 ## Do not do these things
-- Do not assume a government travel authorization can be "edited" after submission; most systems lock passport data once the fee is paid.
-- Do not use third-party "fast-track" or "visa assistance" websites found via search ads; use only official government (.gov) portals.
-- Do not ignore the error if your name and birthdate are correct; automated gate readers and APIS checks prioritize the passport number.
-- Do not wait until you arrive at the airport to address a government authorization error if you have time to reapply now.
-- Do not cancel flight bookings until you have verified if the airline can manually override the passenger info at the counter.
+- Do not assume airport staff can change a government travel authorization at the last minute.
+- Do not use “visa help” sites when you’re stressed—use the destination government’s official site.
+- Do not ignore it because your name is correct; some checks match the passport number exactly.
+- Do not send passport photos to unknown emails/text numbers while rushing.
+- Do not cancel your whole trip in panic before you’ve tried the fast fixes (re-submit API / re-apply authorization if required).
 
 ## What to do now
-1. **Determine if the error is in the carrier's passenger info or a government travel document.**
-   - Carrier info (APIS) is found in your airline's app or website under "Manage Booking," "Travel Docs," or "Passenger Information."
-   - Government authorizations (ESTA for USA, eTA for Canada, ETA for UK, ETIAS for Schengen) are separate digital permits linked to your passport.
+1. **Identify exactly what you filled out (carrier vs government).**
+   - **Carrier form:** inside airline app/site (often “Passenger information,” “Travel documents,” “APIS/API”).
+   - **Government authorization:** a separate application/approval (travel authorization/visa/eVisa).
 
-2. **Attempt to update the airline APIS details directly through the airline's "Manage Booking" portal.**
-   - Many airlines allow you to re-scan or manually re-enter passport details up until the check-in window closes.
-   - If the system is locked, look for a "Clear Data" or "Edit Passenger" option to reset the document fields.
+2. **If it’s airline API/APIS, try to correct it immediately in your booking/check-in flow.**
+   - Many airlines allow you to re-enter passenger document details before departure (sometimes by re-submitting the form).
+   - Re-check the saved details after you submit.
 
-3. **Check the specific "update" rules for the destination country's travel authorization system.**
-   - **For US ESTA:** You cannot update a passport number; you must submit a new application and pay the fee again.
-   - **For Canada eTA / UK ETA:** You cannot edit the passport number once submitted; a new application is required.
-   - **For Europe ETIAS (2026):** Errors in the passport number render the authorization invalid and require a fresh submission.
+3. **If you can’t fix airline API/APIS online, contact the airline urgently and ask them to correct the passport number on your passenger details.**
+   - Use official channels (in-app chat, official phone number, airport customer service).
+   - Have your confirmation number and passport in hand.
 
-4. **Submit a new government authorization application immediately if the passport number is incorrect.**
-   - Do not wait for the previous (incorrect) application to be "rejected."
-   - Ensure you use the exact alphanumeric string from the Machine Readable Zone (MRZ) at the bottom of your passport photo page.
+4. **If it’s a government travel authorization, use the official rules for that system—passport details often require a new application.**
+   - For U.S. ESTA, CBP guidance says you can update most fields, **except passport details** (and some other fields), which require a **new application**.
+   - For other countries’ authorizations, use their official “update/check status” tools to confirm what can be changed.
 
-5. **Contact the airline's urgent customer service line if you cannot fix the APIS info online.**
-   - Ask the agent specifically to "update the APIS document details" for your PNR (booking reference).
-   - Have your physical passport and the new authorization approval number (if applicable) ready.
+5. **Confirm the fix using the official “check status” function (don’t guess).**
+   - Look for an official status page that shows the authorization is linked to the correct passport number, or re-check your airline’s passenger info page to confirm the corrected number is saved.
 
-6. **Arrive at the airport at least one hour earlier than planned for manual document verification.**
-   - If the online system still shows the old number, the check-in agent can often manually enter the correct passport details at the counter.
-   - Bring a printed copy or screenshot of any new travel authorization approval to show the agent if the digital link is not yet appearing in their system.
+6. **Prepare for the terminal as if you still might need manual intervention.**
+   - Arrive earlier than normal.
+   - Keep your passport and your most recent confirmations accessible offline (save a screenshot/print if you can).
+   - If you submitted a new authorization, make sure you’re using the same passport that authorization is linked to.
 
 ## What can wait
-- You do not need to seek a refund for the first (incorrect) application fee immediately; these are generally non-refundable, but this can be checked after you travel.
-- You do not need to contact your embassy or consulate; they cannot typically correct typos in electronic travel systems or airline manifests.
-- You do not need to update secondary travel details like "Address in the U.S." until the primary passport number is corrected.
+- You don’t need to decide right now whether to seek a refund, file a complaint, or use travel insurance.
+- You don’t need to “prove fault” beyond saving confirmations.
+- You don’t need to make replacement bookings until you know whether the correct passport number is now accepted.
 
 ## Important reassurance
-Passport number typos are among the most common travel errors, and both airline systems and government portals are designed to process new, corrected applications rapidly. Most electronic authorizations are processed within minutes to a few hours, even when submitted close to departure.
+This kind of mistake is common under time pressure, and the problem is usually confined to one of two places: the airline’s passenger info or the government authorization. Once you know which one is wrong, the next action is typically clear.
 
 ## Scope note
-This guide addresses clerical errors in passport number entry for airline passenger manifests and electronic travel authorizations. It does not cover expired passports, visa denials for security reasons, or requirements for traditional paper visas.
+This guide covers immediate harm-prevention steps to reduce the risk of being denied boarding due to a passport-number mismatch. It does not cover complex visa refusals, secondary screening, or emergency passport issuance.
 
 ## Important note
-Entry into any country and boarding of any aircraft are subject to the discretion of border officials and carrier staff. Correcting information in a system does not guarantee approval or entry. If you are unable to obtain a valid authorization linked to your correct passport number, you may be denied boarding.
+This is general information, not legal advice. Boarding and entry decisions depend on the destination country’s rules and the carrier’s document checks, and those can change. If you cannot verify the corrected passport number in the official system, treat it as unresolved.
 
 ## Additional Resources
-- https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/forms/ds-160-online-nonimmigrant-visa-application/ds-160-faqs.html
-- https://www.aa.com/i18n/travel-info/security/secure-flight.jsp
-- https://www.delta.com/us/en/travel-planning-center/know-before-you-go/travel-requirements-guide
-- https://www.delta.com/us/en/travel-planning-center/travel-planning-overview
-- https://travel.state.gov/en/international-travel/planning/checklist.html
+- https://www.help.cbp.gov/s/article/Article-1255
+- https://esta.cbp.dhs.gov/faq?lang=en
+- https://esta.cbp.dhs.gov/
+- https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1197&top=16
+- https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html
+- https://www.eurostar.com/us-en/travel-info/your-trip/travel-documents/advance-passenger-information

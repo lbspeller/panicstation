@@ -1,101 +1,71 @@
----
+﻿---
 title: "What to do if… someone keeps turning up at places you go and making sexual comments in public"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "someone keeps turning up"
-  - "sexual comments in public"
-  - "keeps appearing in public"
-  - "unwanted sexual remarks"
-  - "public sexual harassment"
-  - "repeated unwanted contact"
-  - "same person keeps appearing"
-  - "follows me to places"
-  - "waits near places i go"
-  - "making sexual comments"
-  - "harassment in public spaces"
-  - "stalking in public"
-  - "unwanted attention outside"
-  - "person keeps finding me"
-  - "safe routine in public"
-  - "repeated public encounters"
-  - "help i am being followed"
-  - "what do i do if someone is following me"
-  - "what do i do if someone makes sexual comments"
-  - "what do i do if i feel unsafe in public"
-  - "help i am being harassed in public"
-  - "my stalker is in public"
-  - "my harasser keeps appearing"
-  - "smell of unwanted presence"
-  - "visible loitering near me"
-  - "hearing sexual remarks"
-  - "feeling watched in public"
-  - "constant public monitoring"
-  - "fixated obsessive unwanted repeated"
-  - "stalking pattern recognition"
-  - "reporting harassment online uk"
-  - "safety in public spaces uk"
-last_reviewed: "2026-03-17"
+  - someone keeps showing up
+  - turns up where i go
+  - keeps appearing in public
+  - unwanted sexual comments
+  - sexual remarks in public
+  - public sexual harassment
+  - repeated unwanted contact
+  - same person keeps appearing
+  - follows me to places
+  - waits near places i go
+  - makes comments about my body
+  - harassment in public spaces
+  - stalking in public
+  - unwanted attention outside
+  - person keeps finding me
+  - unsafe on my routine
+  - scared to go out
+  - repeated public encounters
+last_reviewed: "2026-03-14"
 ---
-# What to do if… someone keeps turning up at places you go and making sexual comments in public (UK)
 
+# What to do if… someone keeps turning up at places you go and making sexual comments in public (UK)
 ## Short answer
-Get to a populated or staffed area immediately and do not engage with the person. Treat this as a pattern of stalking or harassment and report it to the police online or via 101, using the "FOUR" mnemonic (Fixated, Obsessed, Unwanted, Repeated) to describe the behaviour.
+Treat this as a safety issue, not something you have to manage alone. At the earliest safe pause, tell one trusted person, write down what has been happening, and report it to police if it is repeated or is making you feel scared, distressed, or unsafe.
 
 ## Do not do these things
-- Do not confront the person directly or try to "reason" with them to make them stop.
-- Do not ignore the pattern if it has happened two or more times.
-- Do not delete any evidence you already have, such as photos, videos, or messages.
-- Do not blame yourself for your routine or for being in public spaces.
-- Do not wait for a physical threat before seeking help or recording the incidents.
-- Do not agree to go to a quiet or private location if they suggest it.
+- Do not keep testing whether it is “serious enough” before getting help.
+- Do not agree to meet them privately to “clear it up”.
+- Do not post about them publicly while you are still trying to make yourself safer.
+- Do not delete messages, call logs, photos, or notes you already have.
+- Do not force yourself to keep the same routine just to prove you are not scared.
+- Do not feel you have to confront them on your own, especially in a quiet place.
 
 ## What to do now
-1. **Get to a safe pause in a populated or staffed location.** Move toward a shop, café, library, workplace reception, or transport office and stay where there are other people visible. 
+1. Get to a safer pause. Go somewhere staffed or populated if you can, such as a shop, reception desk, library, café, workplace front desk, or transport office, and stay near other people while you decide your next step.
 
-2. **Tell a staff member or a trusted contact what is happening.** Use clear, factual language: "I am being followed by someone who is making unwanted sexual comments."
-   - Ask them to walk with you to your next location.
-   - Ask them to act as a witness or a check-in point.
+2. Tell one person exactly what is happening. Use plain words: that the same person has been turning up at places you go and making sexual comments in public. Ask them to stay with you, walk with you, meet you after work or class, or be your check-in contact for the next few days.
 
-3. **Check the behaviour against the "FOUR" mnemonic used by UK police.** Identify if the pattern is:
-   - Fixated: they appear to be focusing on you specifically.
-   - Obsessive: they seem to be watching or waiting for you.
-   - Unwanted: the contact is not invited and makes you feel unsafe.
-   - Repeated: this has happened on two or more occasions.
+3. Start a simple incident log today. For each time, note the date, time, place, what they said or did, whether they seemed to be waiting for you or appeared unexpectedly, who saw it, and how it affected you. If there are messages, calls, photos, CCTV possibilities, or witnesses, note that too.
 
-4. **Start a specific incident log immediately.** Record the following for each encounter:
-   - Date, time, and exact location.
-   - Exactly what was said or done (the sexual comments or loitering).
-   - A description of the person and any vehicle they used.
-   - Names of any witnesses or the presence of CCTV cameras.
+4. If you are in immediate danger, think they are nearby waiting, or feel you may be followed right now, call 999. If it is not an emergency, report it to police on 101 or online. Repeated unwanted behaviour that makes you feel scared, distressed, or threatened can be stalking or harassment, and a single incident can still be worth reporting if it has made you feel unsafe.
 
-5. **Report the pattern to the police online or via 101.** Use the police website for your local area to file a report for "stalking or harassment" as this creates a digital trail that is easier to update if the behaviour continues.
-   - If you are in immediate danger or being followed right now, call 999.
-   - If you wish to remain anonymous, call Crimestoppers on 0800 555 111.
+5. Tell the place where this keeps happening. Ask a manager, security desk, workplace, college, gym, venue, or transport staff member to make an internal record and keep any relevant CCTV if available. Ask for the incident reference, report number, or the name of the person you spoke to.
 
-6. **Ask the police about a Stalking Protection Order (SPO).** When you report, mention that the behaviour is repeated and unwanted; the police can apply for an SPO to place restrictions on the person even before a criminal conviction.
+6. Reduce how easy you are to predict for the next few days. Change the exact time or route of regular journeys where you reasonably can, avoid leaving alone after a known activity, and arrange company for arrival and departure rather than trying to handle it quietly by yourself.
 
-7. **Notify the management of the locations where this happens.** Tell the security or manager at your gym, workplace, or frequent venues so they can keep a record and preserve any CCTV footage from the time of the incident.
-
-8. **Contact a specialist stalking advocacy service for safety planning.** Reach out to the National Stalking Helpline (0808 802 0300) or the Suzy Lamplugh Trust for advice on managing your digital and physical safety.
+7. If this is affecting work, study, housing, or daily safety, contact a stalking support service as well as — or before — reporting. The National Stalking Helpline and advocacy services listed through the Suzy Lamplugh Trust can help you think through immediate safety, what details to note, and how to describe the pattern when you report it.
 
 ## What can wait
-- You do not need to decide right now whether you want to go to court or pursue a full prosecution.
-- You do not need to change your entire life or move house immediately.
-- You do not need to have a "perfect" memory of every single past encounter before making your first report.
+You do not need to decide today whether to make a formal complaint, seek a long-term legal outcome, or explain the whole history perfectly. You also do not need to decide right now whether to keep every routine, stay socially active, or tell everyone in your life.
 
 ## Important reassurance
-It is common to feel hesitant about reporting behaviour that does not involve physical contact, but repeated sexual comments and loitering are recognised as serious offences in the UK. Your reaction of concern or fear is a normal response to a pattern of intrusive behaviour.
+Feeling shaken, doubtful, embarrassed, or worried about “making a fuss” is common in this situation. Repeated public sexual comments and turning up where you go can be frightening and disruptive even if nobody else seems to grasp the pattern immediately.
 
 ## Scope note
-This guide provides first-step stabilization for identifying and reporting public harassment and stalking in the UK. Ongoing safety planning and legal steps require consultation with specialist advocacy services or legal professionals.
+This is first steps only, focused on immediate safety, support, and preserving options. Later decisions may need specialist help.
 
 ## Important note
-This information is for guidance only and does not constitute legal or clinical advice. Your safety is the priority; if you feel you are being followed or are in danger, contact emergency services on 999 immediately. Keeping a log is for evidence purposes, but do not prioritize record-keeping over your physical safety.
+This is general information, not personal legal or clinical advice. If you may want to report later, keeping notes and not deleting existing evidence can help, but your safety matters more than collecting more. If a child is involved, or you think the behaviour is escalating quickly, contact police urgently.
 
 ## Additional Resources
+- https://www.gov.uk/report-stalker
 - https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-to-do-if-youre-being-stalked-or-harassed/
 - https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
-- https://www.suzylamplugh.org/pages/category/national-stalking-helpline
-- https://www.legislation.gov.uk/ukpga/2023/47
+- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-to-do-if-youre-being-stalked-or-harassed/
+- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/stalking-harassment-support-organisations/

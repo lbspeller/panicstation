@@ -1,106 +1,91 @@
----
+﻿---
 title: "What to do if… you receive a notice that your communication with someone is restricted by an official order"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "notice you must not contact someone"
-  - "official order restricting contact"
-  - "non-molestation order served"
-  - "restraining order contact ban"
-  - "police bail no contact condition"
-  - "unwanted prisoner contact notice"
-  - "court order stay away"
-  - "communication restriction letter"
-  - "what do i do if i get a non-molestation order"
-  - "what do i do if i get a restraining order"
-  - "what do i do if police say no contact"
-  - "what do i do if i am served an injunction"
-  - "help i have a no contact order"
-  - "help i received a bail condition"
-  - "my bail says no contact"
-  - "my order says no communication"
-  - "smell of legal papers"
-  - "hand delivered court notice"
-  - "police station bail form"
-  - "prison contact restriction email"
-  - "no contact order confusion"
-  - "contact restriction misinterpretation"
-  - "breach of order notice"
-  - "legal document from court"
-  - "prohibited from messaging"
-  - "indirect contact through third party"
-  - "non-contact order with children"
-  - "exclusion zone on map"
-  - "service of non-molestation order"
-  - "fl435 response form"
-  - "return hearing 28 days"
-  - "direct and indirect communication ban"
-last_reviewed: "2026-03-17"
+  - notice you must not contact someone
+  - told you cannot communicate
+  - no contact order notice
+  - restraining order contact ban
+  - non-molestation order served
+  - bail condition no contact
+  - prohibited from messaging them
+  - told not to call or text
+  - indirect contact not allowed
+  - third party message risk
+  - unwanted prisoner contact
+  - stop prisoner contact request
+  - official order restricting contact
+  - served with court order
+  - order says stay away
+  - protected person contacts you first
+  - confusion about allowed contact
+  - communication restriction letter
+  - told to avoid a person
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive a notice that your communication with someone is restricted by an official order (UK)
 
 ## Short answer
-Stop all direct and indirect contact immediately and do not attempt to clarify the situation with the protected person; verify the exact terms with a solicitor or the issuing body before taking any action involving that person.
+Stop all direct and indirect contact immediately, and get clarity from a solicitor or the issuing authority before you do anything that could be classed as contact.
 
 ## Do not do these things
-- Do not send a final message to explain, apologize, or say goodbye, as this constitutes a breach of most orders.
-- Do not ask a third party, such as a mutual friend or family member, to pass on information or "check in" on the person.
-- Do not react to, like, or comment on the person’s social media posts, even if they are public.
-- Do not rely on the other person’s verbal consent to meet or talk; only a court or the police can vary an official order.
-- Do not destroy or discard the physical notice, the envelope it arrived in, or any accompanying documents.
-- Do not assume a breach is minor; breaching a non-molestation order or restraining order is a criminal offence that can lead to immediate arrest.
+- Do not reply to the person “just to explain” or “to sort it out” — that can be treated as contact.
+- Do not ask friends/family to pass on messages, gifts, apologies, or “checking in” — indirect contact is often covered.
+- Do not rely on what the other person says (“it’s fine”, “I consent”, “I invited you”) — the written order/conditions are what matter.
+- Do not “test the boundary” (liking posts, reacting, tagging, drive-bys, turning up “by coincidence”).
+- Do not destroy messages, call logs, letters, or the notice — keep a clean record.
+- Do not assume it’s only about one channel (e.g., “just WhatsApp”) unless the notice explicitly limits it.
 
 ## What to do now
-1. **Disable every digital and physical link to the person named in the order.**
-   - Switch off "read receipts" and "last seen" status on messaging apps.
-   - Mute or block the person's profile on all social media platforms to prevent accidental interactions.
-   - Remove yourself from shared digital calendars, shared notes, or collaborative gaming lobbies.
-   - Cease all "indirect" actions, such as sending gifts, money transfers with messages, or tagging them in posts.
+1. **Freeze contact across every channel you control.**  
+   Stop calls, texts, emails, DMs, comments, likes/reactions, gaming chat, shared apps, and in-person contact. Block/mute if it helps you avoid accidental contact.
 
-2. **Identify the specific type of order and its issuing authority.**
-   - Locate the heading of the document to see if it is from a Family Court (Non-Molestation Order), a Criminal Court (Restraining Order), or the Police (Bail Conditions).
-   - Check for a "Power of Arrest" clause, which indicates the police can arrest you immediately if a breach is reported.
-   - Find the "Return Hearing" date if the order was made "without notice"; under 2026 rules, this hearing must typically occur within 28 days.
+2. **Read the notice like a checklist and identify what it is.**  
+   On paper, write down: (a) the issuing body (court / police bail paperwork / prison / probation), (b) the exact people covered, (c) what counts as contact (direct/indirect), (d) any distance/exclusion zone, (e) any exceptions (children, legal reps), and (f) the start/end date or next hearing date.  
+   If anything is unclear, treat it as “no contact at all” until clarified.
 
-3. **Establish the exact boundaries of prohibited behavior.**
-   - **Note every person named as "protected":** check if it includes children or other family members.
-   - **Check for an "exclusion zone":** look for specific addresses or a radius (e.g., 100 meters) from which you are banned.
-   - **Identify exceptions:** search the text for terms like "except through solicitors" or "except for the purpose of child contact."
+3. **Save proof and create a simple “compliance log.”**  
+   Keep a copy/photo/PDF of the notice. Make a dated note of when you received it and what you did immediately (blocked numbers, changed settings, informed household members). This is for your protection if there’s later confusion.
 
-4. **Prepare the mandatory response form if the order is from a Family Court.**
-   - Locate form FL435 (Response to a Non-Molestation Order), which is the 2026 standard for notifying the court whether you agree to the order or intend to challenge it.
-   - Do not fill this out immediately; keep it with the notice to review with a solicitor.
+4. **If the restricted person contacts you first: do not respond.**  
+   Don’t answer, don’t react, don’t forward it to them, don’t ask them to stop. Save it. If you’re worried about allegations or confusion, show it to your solicitor and follow their advice.
 
-5. **Log the date, time, and method of service.**
-   - Record exactly how you received the notice (e.g., hand-delivered by a process server, given at a police station, or received by post).
-   - Save the contact details of the person who served the notice if they provided a business card or ID number.
+5. **If you need essential communication (children, shared home, urgent property/finances), only use a clearly permitted channel.**  
+   Look for an explicit allowance in the notice/order (for example, communication via solicitors only, or via a named third party). If there is no clear allowance, **do not invent one** — ask a solicitor about applying to vary/clarify the order/conditions.
 
-6. **Contact a solicitor specializing in the relevant field (Criminal or Family law).**
-   - Provide them with the exact wording of the order via email or secure upload.
-   - Ask specifically about "indirect contact" if you share financial responsibilities or parenting duties.
-   - If you are on police bail, ask your solicitor about applying to the Magistrates' Court to vary conditions under Criminal Procedure Rules Part 14.
+6. **Contact the right “gatekeeper” for clarification/changes (same day if possible).**  
+   - **If it’s a restraining order or other criminal court order:** contact your solicitor (or duty solicitor if you have one) and ask them to confirm the exact wording and what to do if you need a variation.  
+   - **If it’s a bail condition (set by police or the court):** contact your solicitor promptly and ask what the paperwork means in practice, and how to request a change (if appropriate).  
+   - **If it’s family court-related (e.g., non-molestation order):** contact a family solicitor; ask specifically what counts as “indirect” contact and how child-related logistics should be handled.
 
-7. **Use the official Unwanted Prisoner Contact Service if the notice concerns a prisoner.**
-   - If you are the recipient of unwanted contact from a prisoner, use the online GOV.UK "Stop prisoner contact" form.
-   - Alternatively, call the service at 0300 060 6699 (available Monday to Friday, 9am to 4pm).
+7. **If the notice is because someone in prison must not contact you (or you want contact to stop), use the official prison “non-contact” route.**  
+   In England & Wales, you can make a request via the Unwanted Prisoner Contact Service (online form/helpline/email). Keep the notice/any contact attempts so you can provide details if asked.
+
+8. **If you feel unsafe or think the order is being breached against you, use the appropriate police route.**  
+   - **Immediate danger:** call **999**.  
+   - **Not immediate:** call **101**. Have the order/notice wording to hand. If you’re not sure it’s legally a “breach”, report what happened and provide the wording so police can assess it.
 
 ## What can wait
-- You do not need to decide whether to contest the underlying allegations in the next hour.
-- You do not need to retrieve your belongings from a restricted property immediately; this can be arranged later through legal channels or a police-assisted "civil stand-by."
-- You do not need to explain the situation to mutual friends or employers today.
+- You do not need to decide right now whether to “fight it” or “agree to it” — first focus on not breaching it.
+- You do not need to draft a long explanation to the other person — sending it may itself be contact.
+- You do not need to collect “all the evidence” tonight — preserve what you already have and get advice.
+- You do not need to resolve the underlying dispute today — this is only about the first safe steps.
 
 ## Important reassurance
-Receiving a restrictive order is a high-stress event, and it is normal to feel an urgent need to correct misunderstandings. However, the legal system treats "silence and distance" as the only safe response in the immediate term. Following the written rules exactly, even if they seem incorrect, is the most effective way to protect your legal position while you seek professional advice.
+Getting a notice like this can feel shocking and unfair, and it’s common to want to “fix it” immediately. The safest move is the boring one: stop contact, follow the wording, and use formal channels to clarify or change it.
 
 ## Scope note
-This guide provides first-step stabilization for individuals served with a UK-based non-contact order or bail condition. it does not cover the long-term legal defense or the specifics of domestic abuse proceedings.
+This covers first steps after you receive an official restriction on communicating (court order, bail condition, family court order, or prison-related non-contact restriction). It does not replace advice on the underlying case.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Breaching an official order can result in criminal prosecution and imprisonment. Always consult a qualified solicitor to interpret the specific terms of an order served upon you.
+This is general information, not legal advice. Orders and conditions vary, and consequences for breach can be serious. If you are unsure about any wording, act as if contact is fully prohibited until a qualified professional or the issuing authority confirms otherwise.
 
 ## Additional Resources
 - https://www.cps.gov.uk/prosecution-guidance/restraining-orders
-- https://www.gov.uk/charged-crime/bail
+- https://sentencingcouncil.org.uk/resources/common-offences/breach-of-a-protective-order/
 - https://www.gov.uk/injunction-domestic-violence
-- https://www.gov.uk/guidance/apply-for-a-domestic-abuse-protection-order-in-a-family-court
-- https://www.citizensadvice.org.uk/law-and-courts/discrimination/taking-action-about-discrimination/taking-action-about-harassment/
+- https://www.gov.uk/guidance/send-prison
+- https://unwanted-prisoner-contact.form.service.justice.gov.uk/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/protective-orders/

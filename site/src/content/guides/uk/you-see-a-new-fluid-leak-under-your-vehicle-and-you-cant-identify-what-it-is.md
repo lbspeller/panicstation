@@ -1,105 +1,93 @@
----
+﻿---
 title: "What to do if… you see a new fluid leak under your vehicle and you can’t identify what it is"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "unknown fluid under car"
-  - "mystery puddle under vehicle"
-  - "car leaking fluid suddenly"
-  - "new leak under my car"
-  - "fluid drip after parking"
-  - "puddle under engine bay"
-  - "leak under front of car"
-  - "leak under middle of car"
-  - "leak under rear of car"
-  - "can-t tell what fluid it is"
-  - "worried about driving with a leak"
-  - "dashboard warning light and leak"
-  - "after driving i see a puddle"
-  - "leak at home driveway"
-  - "leak in car park"
-  - "vehicle breakdown fluid leak"
-  - "possible oil coolant brake leak"
-  - "electric vehicle fluid leak"
-  - "van fluid leak unidentified"
-  - "what do i do if my car is leaking fluid"
-  - "what do i do if there is a puddle under my car"
-  - "what do i do if i see a leak"
-  - "what do i do if fluid is dripping"
-  - "help i have a leak under my car"
-  - "help i see fluid under my vehicle"
-  - "help my car is dripping"
-  - "help my vehicle has a puddle"
-  - "smell of petrol under car"
-  - "rainbow puddle under vehicle"
-  - "thick black fluid under car"
-  - "pink fluid under vehicle"
-  - "blue liquid under car"
-  - "dripping from nearside"
-  - "dripping from offside"
-last_reviewed: "2026-03-17"
+  - unknown fluid under car
+  - mystery puddle under vehicle
+  - car leaking fluid suddenly
+  - new leak under my car
+  - fluid drip after parking
+  - puddle under engine bay
+  - leak under front of car
+  - leak under middle of car
+  - leak under rear of car
+  - can’t tell what fluid it is
+  - worried about driving with a leak
+  - dashboard warning light and leak
+  - after driving i see a puddle
+  - leak at home driveway
+  - leak in car park
+  - vehicle breakdown fluid leak
+  - possible oil coolant brake leak
+  - electric vehicle fluid leak
+  - van fluid leak unidentified
+last_reviewed: "2026-03-10"
 ---
-# What to do if… you see a new fluid leak under your vehicle and you can’t identify what it is (UK)
 
+# What to do if… you see a new fluid leak under your vehicle and you can’t identify what it is (UK)
 ## Short answer
-Treat any unidentified fluid leak as a potential safety failure. Do not drive the vehicle until you have confirmed the fluid is non-critical or have received professional assessment from a breakdown technician or mechanic.
+Treat an unknown new leak as a safety issue: don’t drive until you’ve done a quick safety check and you’re confident it’s safe to move. If you’re not sure, arrange breakdown recovery to a garage.
 
 ## Do not do these things
-- Do not drive the vehicle to "test" the leak or see if it stops.
-- Do not touch the fluid with bare skin or sniff it closely, as vehicle fluids can be corrosive, toxic, or flammable.
-- Do not start the engine if you smell fuel or see a large, rapidly spreading puddle.
-- Do not use a naked flame (such as a lighter or match) to inspect the area.
-- Do not ignore dashboard warning lights, specifically those for oil pressure, braking, or engine temperature.
-- Do not place a warning triangle if you are on a motorway or high-speed road.
-- Do not crawl under the vehicle if it is only supported by a temporary jack.
+- Don’t “just drive it a little and see” if the leak could be oil, coolant, brake fluid, or fuel.
+- Don’t touch the liquid with bare hands or sniff it closely.
+- Don’t start the engine repeatedly to “watch where it comes from” if you can’t rule out fuel.
+- Don’t ignore warning lights/messages or sudden changes in braking/steering/temperature.
+- Don’t crawl under the vehicle if it’s only supported by the jack.
+- Don’t attempt repairs if you’re on a motorway, hard shoulder, or anywhere close to high-speed traffic.
+- Don’t place a warning triangle on a motorway.
 
 ## What to do now
-1. **Move to a place of relative safety away from moving traffic.**  
-   - **If you are on a motorway or A-road, leave at the next exit or service area if possible.**  
-   - **If the vehicle is stationary in a live lane, switch on hazard lights immediately.**  
-   - **Exit the vehicle via the nearside (side furthest from traffic) and get behind a safety barrier if one is available.**
+1. **Get to a place of relative safety (then stop).**  
+   If you’re already stopped, prioritise *you and passengers* being away from moving traffic. If you’re on a motorway or other high-speed road and the vehicle is still moving safely, leave at the next exit or pull into a service area if possible.
 
-2. **Assess the scene for immediate fire or traction hazards.**  
-   - **Check for a strong smell of petrol or diesel, which indicates a high fire risk.**  
-   - **Look for "rainbow" patterns on the ground or a very large volume of fluid that could make the road surface slippery for other users.**  
-   - **If the leak is significant and on a public road, call 999 and ask for the police to assist with a hazard in the carriageway.**
+2. **Make the scene safer using Highway Code basics (especially on fast roads).**  
+   - Switch on **hazard warning lights** (and **sidelights** if it’s dark/visibility is poor).  
+   - If it’s safe and possible, **exit on the side furthest from traffic** and get well away from the vehicle and traffic (behind a barrier where there is one).  
+   - If you **cannot** safely get out and away (for example you’re stuck in a live lane or can’t exit safely), **stay belted in with hazards on and call 999 and ask for the police** (or use your vehicle’s SOS/eCall button if fitted).
 
-3. **Identify observable cues without touching the substance.**  
-   - **Note the color of the fluid: clear/water (likely air conditioning condensation), red (likely power steering or transmission), blue/pink/green (likely coolant), or black/brown (likely engine oil).**  
-   - **Check the location: leaks from the very front are often coolant/condenser; leaks under the engine are often oil; leaks near the wheels are often brake fluid.**  
-   - **Take a photograph of the puddle and its position relative to the tyres to show a technician later.**
+3. **Do a fast “is this unsafe to drive?” check (30–60 seconds).**  
+   Without touching the fluid:
+   - Look for **dashboard warnings** (oil pressure, temperature/overheating, brake system).  
+   - Notice any **strong fuel smell**, visible dripping/spraying, or a rapidly growing puddle.  
+   - Check how the car feels right now: **spongy brake pedal**, overheating/steam, burning smell.  
+   **If any of these apply: do not drive — arrange recovery.**
 
-4. **Verify critical dashboard indicators and physical symptoms.**  
-   - **Turn the ignition to 'on' (without starting the engine if fuel is suspected) to check for warning lights.**  
-   - **Press the brake pedal; if it feels soft, "spongy," or goes to the floor, do not attempt to move the vehicle.**  
-   - **Look for steam or a sweet, syrupy smell, which often indicates a high-pressure coolant leak.**
+4. **Capture quick evidence for the mechanic (reduces guesswork).**  
+   - Take photos of: **puddle**, **where it sits under the vehicle**, and the **dashboard**.  
+   - Note: **when it appeared** (after a trip, overnight, after refuelling, after using air con).  
+   - If safe, place **paper/cardboard near (not under)** the drip area to see **colour/amount** without touching.
 
-5. **Isolate the vehicle and seek professional assistance.**  
-   - **Contact your breakdown provider and specify that you have an "unidentified fluid leak" and require a safety assessment.**  
-   - **Provide the technician with the photos and your observations regarding the color and location of the leak.**  
-   - **If on a motorway and your phone is unavailable, use the roadside emergency telephone to connect directly to National Highways or the police.**
+5. **Check only the safest, simplest levels (engine off, parked, cooled).**  
+   - If the engine is hot, **wait for it to cool** before opening the bonnet.  
+   - Check **engine oil** (dipstick) and **coolant reservoir** level by the markings (do not open a hot pressurised system).  
+   - If the **brake fluid reservoir** is visible/translucent, you can *look* at the level. **If it looks low: do not drive.**  
+   **If any level is low or you’re unsure: choose recovery.**
 
-6. **Place a temporary absorbent if safe and off-road.**  
-   - **If you are on a private driveway, you may place cardboard or sand over the leak to prevent environmental contamination.**  
-   - **Do not attempt this on a live road or high-speed hard shoulder.**
+6. **Arrange the right help for where you are.**  
+   - Contact your **breakdown recovery service** and tell them: “**new unknown fluid leak — not driving until assessed**.”  
+   - If you’re on a motorway and able to do so safely, you can also use a **roadside emergency telephone** where available to get help and confirm your location.
+
+7. **Only move the vehicle a very short distance if you’re confident it’s safe (and only to reduce immediate danger).**  
+   Move slowly for the shortest distance necessary (e.g., off a narrow lane). Stop immediately if a warning light appears, the temperature rises, braking feels abnormal, or the leak worsens.
 
 ## What can wait
-- You do not need to determine the exact mechanical cause or component failure immediately.
-- You do not need to clean the spill on a public highway; this is the responsibility of the authorities or recovery services.
-- You do not need to decide on a repair garage or cost estimates until the vehicle is in a stable, non-emergency location.
+- You don’t need to correctly identify the fluid right now.
+- You don’t need to decide on repairs, costs, or which garage today — first focus on safety and avoiding damage.
+- You don’t need to clean the spill immediately if doing so would push you to handle unknown fluid unsafely.
 
 ## Important reassurance
-Seeing fluid under a vehicle is common and often turns out to be harmless condensation from the air conditioning system. However, treating it with caution is the correct safety protocol. Choosing to wait for a professional assessment prevents potentially catastrophic engine failure or loss of braking control.
+It’s normal to feel alarmed by a new puddle under the car. Choosing caution — especially arranging recovery when you’re unsure — is a common, sensible decision that can prevent both danger and expensive damage.
 
 ## Scope note
-This guide provides first-step stabilization only. It is intended to prevent the user from driving an unroadworthy vehicle. A qualified technician must perform a physical inspection to confirm the vehicle's safety.
+This is first-steps guidance to stabilise the situation and avoid harmful next actions. A roadside technician or mechanic may need to inspect the vehicle to confirm the source.
 
 ## Important note
-Vehicle fluids such as brake fluid, battery acid, and fuel are hazardous materials. If you are in a live traffic lane and cannot move the vehicle to a safe location, call 999. Do not attempt to repair or inspect the vehicle's underside on a motorway or high-speed road.
+This guide is general information, not mechanical, legal, or safety certification. If you suspect fuel leakage, brake system problems, overheating, or you’re in a dangerous location, prioritise personal safety and professional help.
 
 ## Additional Resources
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
 - https://www.rac.co.uk/drive/advice/know-how/car-leaking-how-to-identify-liquid-dripping-from-your-car-and-what-to-do/
 - https://www.theaa.com/breakdown-cover/advice/why-is-my-car-leaking-water
-- https://www.theaa.com/breakdown-cover/advice/car-oil-leaks
-- https://www.rac.co.uk/drive/advice/car-maintenance/coolant-leaks-why-do-they-happen-and-what-should-you-do/
-- https://www.theaa.com/breakdown-cover/advice/how-to-check-your-engine-coolant
+- https://www.theaa.com/breakdown-cover/advice/what-to-do-if-you-break-down

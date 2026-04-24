@@ -1,95 +1,69 @@
----
+﻿---
 title: "What to do if… you think protection was removed or not used as agreed during sex"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "protection removed without consent"
-  - "protection not used as agreed"
-  - "condom removed during sex"
-  - "condom slipped off"
-  - "stealthing"
-  - "unprotected sex without agreement"
-  - "consent violated during intercourse"
-  - "worried about pregnancy after sex"
-  - "emergency contraception uk"
-  - "emergency hormonal contraception"
-  - "copper iud for emergency"
-  - "worried about sti exposure"
-  - "sexual assault support uk"
-  - "sexual assault referral centre"
-  - "sarc self referral"
-  - "unsure if sex was consensual"
-  - "shocked after sexual encounter"
-  - "pressured into sex without protection"
-  - "afraid to talk to partner"
-  - "medical help after sexual assault"
-  - "partner took off condom"
-  - "non consensual condom removal"
-  - "what do i do if protection was removed"
-  - "what do i do if he lied about a condom"
-  - "what do i do if she lied about protection"
-  - "what do i do if i had unprotected sex"
-  - "help i think my condom was removed"
-  - "help i think protection was not used"
-  - "my partner did not use a condom"
-  - "my protection was tampered with"
-  - "smell of semen after sex"
-  - "visible condom on floor"
-  - "missing condom after sex"
-  - "no condom found after sex"
-  - "genital soreness after sex"
-last_reviewed: "2026-03-17"
+  - condom removed without consent
+  - protection not used as agreed
+  - condom slipped off without knowing
+  - lied about using a condom
+  - stealthing
+  - unprotected sex without consent
+  - consent was violated during sex
+  - worried about pregnancy after sex
+  - emergency contraception after sex
+  - worried about sti exposure
+  - need sexual assault support
+  - unsure if this counts as assault
+  - feel shocked after sex
+  - pressured into sex without protection
+  - afraid to confront partner
+  - want help but not sure reporting
+  - want medical help after sex
+  - partner removed condom
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… you think protection was removed or not used as agreed during sex (UK)
 
 ## Short answer
-Get to a location where you feel physically safe and contact a Sexual Assault Referral Centre (SARC) or NHS 111 immediately for time-sensitive medical care, including emergency contraception and HIV prevention. You can access these services confidentially without involving the police.
+Get yourself somewhere you feel physically safe, then contact a Sexual Assault Referral Centre (SARC) or NHS 111 for urgent, confidential help (including emergency contraception, STI care, and support). You do not have to decide about reporting to police right now.
 
 ## Do not do these things
-- Do not feel you must define the situation as a crime before seeking medical help or emotional support.
-- Do not confront the other person if you feel unsafe, intimidated, or physically shaken.
-- Do not wash, brush your teeth, or dispose of clothes/bedding yet if you might want forensic evidence collected.
-- Do not delay seeking emergency contraception; the most effective options have strict time windows.
-- Do not assume that "missing the window" for one type of care means no support is available.
+- Do not force yourself to “work out what it was” before getting help—support and medical care are still available even if you’re unsure.
+- Do not confront or negotiate with the other person while you feel shaken or unsafe (especially in person).
+- Do not blame yourself or try to “prove” anything to yourself by replaying details—write things down later if you want.
+- Do not delay time-sensitive medical options (like emergency contraception) while you decide what to do socially or legally.
+- Do not share identifying details widely or on social media while you’re distressed.
 
 ## What to do now
-1. **Prioritize your immediate physical safety.** If you are still with the person and feel uneasy, find a reason to leave the room or building:
-   - Go to the bathroom and lock the door to call for help.
-   - Tell them you need to step out for fresh air or to meet a friend.
-   - If you are in immediate danger, call **999**. If you cannot speak, stay on the line and press **55** when prompted (The Silent Solution).
-2. **Contact a specialist support service for your region.** These services are confidential and do not require a police report:
-   - **England and Wales:** Call the 24/7 Rape and Sexual Abuse Support Line on **0808 500 2222**.
-   - **Scotland:** Call the Rape Crisis Scotland Helpline on **08088 01 03 02** (daily, 5pm to midnight) or text **07537 410 027**.
-   - **Northern Ireland:** Contact the 24-hour Domestic and Sexual Abuse Helpline on **0808 802 1414**.
-3. **Locate your nearest Sexual Assault Referral Centre (SARC).** **SARCs provide specialist medical care, including pregnancy prevention and STI/HIV medication (PEP).** 
-   - You can self-refer to a SARC without the police.
-   - They can collect and store forensic evidence (usually within 7 days in Scotland or up to 10 days in England/Wales) while you decide what to do next.
-4. **Access emergency contraception as soon as possible.** **Tell the clinician or pharmacist that protection was not used as agreed.** 
-   - The **emergency pill** can be taken up to 3 days (Levonelle) or 5 days (ellaOne) after sex. 
-   - The **copper IUD** is the most effective method and can be fitted up to 5 days after sex, or up to 5 days after your earliest expected ovulation date.
-5. **Request HIV prevention medication (PEP) if relevant.** **Post-Exposure Prophylaxis (PEP) can reduce the risk of HIV infection if started within 72 hours of exposure.** It is most effective when started within 24 hours. This is available at SARCs and most A&E departments.
-6. **Preserve evidence if it feels manageable.** If you think you may want to report this later, try not to wash, eat, or drink until you have spoken to a SARC. 
-   - If you have already washed, you can still receive medical care and support.
-   - Keep any items (like a removed condom or stained clothing) in a clean paper bag, not plastic.
+1. **Get to a safer pause.** If you’re with the person and feel uneasy, create space: go to the bathroom, call a friend, step outside, or leave. If you’re in immediate danger, call **999**.
+2. **Choose a confidential support route (you can do this without police).** Pick the one that feels most doable:
+   - **A Sexual Assault Referral Centre (SARC)** can offer confidential medical care and support, and talk through options at your pace.
+   - **Rape Crisis England & Wales 24/7 Support Line**: **0808 500 2222** (phone or online chat).
+   - **NHS 111** can give urgent health advice and help direct you to local sexual health/SARC services.
+3. **Ask about pregnancy prevention now (time-sensitive).** Tell the clinician/pharmacist you’re concerned contraception was not used as agreed. They can discuss emergency contraception options, including the **emergency pill** and the **copper IUD** (usually **within 5 days / 120 hours** after unprotected sex; sometimes it may still be an option depending on where you are in your cycle—ask urgently).
+4. **Ask about STI care and HIV prevention (time-sensitive).** A SARC or sexual health clinic can arrange STI testing and, if relevant, discuss medications that may reduce HIV risk if started quickly after exposure.
+5. **Choose one supportive person to contact.** If possible, message or call someone you trust with a simple ask: “Can you stay on the phone with me?” or “Can you come sit with me?”
+6. **If you may want formal options later:** if it feels doable, avoid washing your body or disposing of items until you’ve spoken to a SARC. If you already have washed/changed, you can still get care and support.
 
 ## What can wait
-- You do not need to decide today whether you want to make a formal police report.
-- You do not need to tell family, friends, or your employer about what happened.
-- You do not need to have a "perfect" memory of the events to be eligible for care and support.
-- You can wait until you feel more grounded to decide if you want to seek long-term counseling or legal advice.
+- You do not need to decide right now whether to report to police, tell friends/family, or confront the other person.
+- You do not need to label what happened with a specific legal term to deserve support.
+- You can decide later whether you want counselling, a statement, or any longer process—today is about immediate safety and health.
 
 ## Important reassurance
-It is normal to feel shocked, confused, or numb if your boundaries were ignored. Many people experience a "freeze" or "fawn" response during these moments, which is a natural biological survival mechanism and not a sign of consent. Your reaction is valid, and help is available regardless of how you feel right now.
+Many people freeze, comply, or feel confused in moments where consent is violated—those responses are common and not your fault. Feeling shaky, numb, angry, or unsure is a normal reaction to something that crossed your boundaries.
 
 ## Scope note
-This guide provides first-step stabilization focusing on physical safety and time-sensitive health options. It is not a substitute for legal advice or long-term therapeutic support.
+These are first steps to stabilise and reduce harm (safety, urgent health options, immediate support). Anything beyond that—reporting, ongoing support, or legal advice—can come later, with specialist help if you want it.
 
 ## Important note
-This is general information and not legal, medical, or forensic advice. If you wish to report to the police in a non-emergency, you can call **101** or report online via your local police force website. For immediate emergencies, always call **999**.
+This is general information, not medical, legal, or forensic advice. If you feel in immediate danger call **999**. If you are not in immediate danger but want police help, you can contact them via **101**.
 
 ## Additional Resources
-- https://rapecrisis.org.uk/get-informed/types-of-sexual-violence/what-is-stealthing/
-- https://www.brook.org.uk/your-life/talking-about-condoms/
 - https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
-- https://www.nhs.uk/service-search/sexual-health-services/find-a-rape-and-sexual-assault-referral-centre/
-- https://www.cps.gov.uk/prosecution-guidance/rape-and-sexual-offences-chapter-6-consent
+- https://rapecrisis.org.uk/get-help/want-to-talk/
+- https://www.nhs.uk/contraception/emergency-contraception/
+- https://www.nhs.uk/contraception/methods-of-contraception/iud-coil/where-to-get-it/
+- https://www.gov.uk/contact-police

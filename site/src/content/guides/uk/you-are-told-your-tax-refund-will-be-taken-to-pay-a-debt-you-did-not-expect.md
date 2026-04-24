@@ -1,105 +1,94 @@
----
+﻿---
 title: "What to do if… you are told your tax refund will be taken to pay a debt you did not expect"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "tax refund taken for debt"
-  - "hmrc refund set off"
-  - "refund reduced unexpectedly"
-  - "unexpected hmrc debt"
-  - "tax repayment withheld"
-  - "repayment offset notice"
-  - "p800 says refund reduced"
-  - "simple assessment surprise bill"
-  - "self assessment refund withheld"
-  - "tax credits overpayment recovery"
-  - "dispute tax credits overpayment"
-  - "hmrc taking refund for arrears"
-  - "repayment used to pay debt"
-  - "sudden tax bill shock"
-  - "hmrc letter i do not recognise"
-  - "owe money i did not expect"
-  - "what do i do if my tax refund is smaller"
-  - "what do i do if hmrc took my refund"
-  - "what do i do if i have an unexpected tax debt"
-  - "what do i do if my p800 is wrong"
-  - "help i owe hmrc money i do not recognise"
-  - "help i got a simple assessment letter"
-  - "help my tax refund was intercepted"
-  - "help hmrc says i owe tax credits"
-  - "visible debt on personal tax account"
-  - "smell a scam hmrc refund"
-  - "notice of tax debt set off"
-  - "unexpected tax liability 2026"
-  - "hmrc debt collection 2026"
-  - "tax repayment reduction notice"
-last_reviewed: "2026-03-17"
+  - tax refund taken for debt
+  - hmrc refund set off
+  - refund reduced unexpectedly
+  - unexpected hmrc debt
+  - tax repayment withheld
+  - repayment offset notice
+  - p800 says refund reduced
+  - simple assessment surprise bill
+  - self assessment refund withheld
+  - tax credits overpayment recovery
+  - dispute tax credits overpayment
+  - hmrc taking refund for arrears
+  - is this hmrc a scam
+  - refund intercepted uk
+  - owe money i did not expect
+  - repayment used to pay debt
+  - sudden tax bill shock
+  - hmrc letter i don't recognise
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… you are told your tax refund will be taken to pay a debt you did not expect (UK)
 
 ## Short answer
-Verify the debt through your official HMRC Personal Tax Account or Self Assessment account before taking any action. Identify the specific tax year and debt type (such as a PA302 Simple Assessment or TC846 tax credit overpayment) to determine if a challenge or payment plan is required.
+Assume it might be genuine **and** might be a scam until you verify it safely. Sign in to your HMRC account directly (not via any link), then get the debt details (tax type, tax year, amount) before you agree to pay anything.
 
 ## Do not do these things
-- Do not click links or scan QR codes in any text or email claiming to be from HMRC.
-- Do not provide bank or card details to "release" a refund; HMRC never asks for payment to process a repayment.
-- Do not ignore official letters or notices; in 2026, HMRC can use Direct Recovery of Debt (DRD) to take money from bank accounts if warnings are ignored for debts over £1,000.
-- Do not assume a message is genuine just because it uses your correct name or National Insurance number.
-- Do not commit to a high-interest loan or sell assets under immediate pressure; verify the debt via official channels first.
-- Do not assume recovery stops automatically once you dispute it; you must often request a temporary suspension of collection.
+- Do not click links, scan QR codes, or call numbers from the message/letter if you’re not sure it’s genuine.
+- Do not pay a “fast-release fee,” “processing charge,” or “verification payment” to get your refund.
+- Do not share your HMRC login, bank details, or card details because of a text/email/call claiming there’s a rebate/penalty.
+- Do not assume it’s your debt just because the message uses your name or a realistic amount.
+- Do not ignore it (delays can make fixing mistakes harder, even if you eventually prove it’s wrong).
+- Do not borrow urgently or sell anything today just because you feel pressured—verify first.
 
 ## What to do now
-1. **Access your HMRC account through official channels only.**  
-   **Navigate directly to GOV.UK and sign in to your Personal Tax Account or Self Assessment portal.**
-   - Do not use any link provided in a message.
-   - Check the "Payments" or "Messages" section for a "Notice of Set-off" or an updated statement of account.
-   - Confirm if the reduction matches the figures shown in your secure online record.
+1. **Verify the message safely (anti-scam first).**  
+   Using your own browser, go to GOV.UK and sign in to your HMRC online account (Personal Tax Account and/or Self Assessment). Do not use any link in the message. Look for a notice, statement, or secure message showing your repayment and any reduction/set-off.
 
-2. **Identify the specific "bucket" of debt mentioned.**  
-   **Determine if the debt relates to PAYE (P800), Simple Assessment (PA302), or legacy Tax Credits.**
-   - If you are NOT in Self Assessment, look for a PA302 (Simple Assessment) or a P800 tax calculation.
-   - If you ARE in Self Assessment, check the specific tax year balance in your "View your calculation" screen.
-   - Note that tax credits officially ended on 5 April 2025; recovery may now be managed by DWP or via your tax code.
+2. **Write down exactly what you’re being told (before you call anyone).**  
+   Note: the repayment amount you expected, the amount being taken, dates, and any reference numbers. If you can see the entry in your online account, screenshot/save it.
 
-3. **Verify the debt breakdown via official HMRC contact lines.**  
-   **Call the specific HMRC helpline for the tax type mentioned (e.g., Income Tax or Tax Credits) using numbers found on GOV.UK.**
-   - Ask for the exact tax year the debt originated from.
-   - Ask for a copy of the original notice or "Annual Review" if you do not have it.
-   - Record the date, time, and the name of the advisor you spoke with.
+3. **Work out which “bucket” it falls into (this determines the right fix).**
+   - **If you are NOT in Self Assessment:** you may be dealing with a **P800 tax calculation** or a **Simple Assessment** letter that explains an over/underpayment.  
+   - **If you ARE registered for Self Assessment:** you typically won’t get a P800/Simple Assessment for this; the over/underpayment is usually reflected in your **Self Assessment account/bill**.
+   - **Tax credits overpayment recovery:** HMRC can still recover legacy tax credits overpayments, even though tax credits have ended for new claims.
 
-4. **Initiate a formal challenge if the figures are incorrect.**  
-   **Follow the specific dispute route for the identified debt type immediately.**
-   - **For Simple Assessment (PA302):** You must contact HMRC within 60 days of the letter date to disagree with the figures.
-   - **For Tax Credits Overpayments:** Use form TC846 ("Dispute recovery of an overpayment") if you believe HMRC made a mistake.
-   - **For P800 (PAYE):** Inform HMRC of any missing income data or incorrect tax codes used in the calculation.
+4. **Get a clear breakdown using official contact routes.**  
+   Contact HMRC using official GOV.UK contact details (not the number on a suspicious letter/text). Ask for:
+   - what the debt is for (tax/benefit type and the tax year/period),
+   - how it was calculated,
+   - where and when the notice/decision was issued (and ask for a copy if you don’t have it).
+   Keep a call log (date/time, who you spoke to, what was said).
 
-5. **Protect your essential living costs for the next 48 hours.**  
-   **Review your immediate budget to ensure the missing refund does not prevent payment of "priority" costs.**
-   - Priority costs include rent/mortgage, council tax, energy bills, and critical medication.
-   - If the loss of the refund creates immediate hardship, contact your bank or bill providers to explain the delay before a payment is missed.
+5. **If you think it’s wrong, start the matching challenge route immediately.**
+   - **Tax credits overpayment:** use HMRC’s “dispute recovery of an overpayment” process (often referred to as TC846 online/by post). Gather your award notices and notes of when you told HMRC about changes or spotted mismatches.  
+   - **P800/Simple Assessment (non-Self Assessment):** tell HMRC what you believe is wrong (for example, missing income details, duplicated employments, incorrect tax code history) and ask what evidence they need to correct the calculation.  
+   - **Self Assessment:** check the specific tax year in your SA account, then contact HMRC about the entry causing the balance/set-off (misapplied payments, duplicated income, amended figures, penalties/interest you dispute).
 
-6. **Request a payment arrangement if the debt is correct but unaffordable.**  
-   **Apply for a "Time to Pay" arrangement if you cannot clear the remaining balance.**
-   - Self Assessment taxpayers can often set up a payment plan online for debts up to £30,000.
-   - For larger debts or different tax types, you must negotiate directly with the HMRC Debt Management team.
+6. **If you suspect fraud or account compromise, lock down access.**  
+   Change your HMRC sign-in credentials, review any contact/email/phone changes on your account, and report the suspicious contact through the official HMRC scam reporting route.
+
+7. **If the debt is yours but you can’t afford it, ask about a payment plan (often called “Time to Pay”).**  
+   If you still owe money after the set-off (or expect further collection), use the GOV.UK “cannot pay your tax bill on time” route to request a payment plan. Ask for confirmation of any arrangement in writing.
+
+8. **If losing the repayment will cause immediate hardship, protect essentials for the next 48 hours.**  
+   List what must be paid first (housing, energy, food, travel to work, critical medicines). If you’re about to miss a payment, contact that provider and ask for a brief hold/arrangement while you get the HMRC paperwork clarified.
 
 ## What can wait
-- You do not need to file a formal complaint against HMRC in the first hour; prioritize identifying and disputing the debt figures first.
-- You do not need to hire a tax advisor or "refund specialist" immediately; most initial verifications can be done via your Personal Tax Account.
-- You do not need to decide on a long-term debt strategy today; focus only on the next 14 to 30 days of liquidity.
+- You do **not** need to decide today whether to make a formal complaint—first get the facts and paperwork.
+- You do **not** need to commit to a long-term repayment strategy today—first confirm what the debt is and whether it’s correct.
+- You do **not** need to pay anyone to “help you release the refund.”
+- You do **not** need to gather every document immediately—start with the notices/amounts and then collect supporting paperwork once you know what HMRC is relying on.
 
 ## Important reassurance
-Unexpected debt notifications are stressful, but they are frequently the result of automated "reconciliations" where information from employers or banks does not match HMRC records. You have a legal right to a breakdown of any debt and the right to challenge it if the data used is incorrect or if HMRC made an error.
+A surprise reduction in a tax repayment is upsetting, especially when you weren’t expecting any debt. This is often a records-and-process issue (a notice you didn’t see, a mismatch in information, or an automatic set-off), and you’re entitled to a clear explanation before you accept it.
 
 ## Scope note
-This guide provides first-step stabilization for unexpected tax debt or refund set-offs. It focuses on verification, fraud prevention, and identifying the correct dispute route. It does not provide legal defense or long-term tax planning.
+This is first steps only: verify safely, prevent scam losses, identify the debt type, and start the right dispute or payment-plan route. Later decisions may need specialist debt or tax help, but you don’t need to choose that in the first hour.
 
 ## Important note
-This information is based on UK tax procedures as of March 2026. Processes and thresholds (such as Time to Pay limits) can change. Always use official GOV.UK portals for financial transactions. This guide is for informational purposes and does not constitute professional tax or legal advice.
+This guide gives general, practical steps and isn’t legal or tax advice. Processes vary by the type of tax/debt and your circumstances. If you’re unsure anything is genuine, use only official GOV.UK channels and your HMRC online account to verify.
 
 ## Additional Resources
+- https://www.gov.uk/report-suspicious-emails-websites-phishing/report-scam-HMRC-messages-calls-social-media
 - https://www.gov.uk/tax-overpayments-and-underpayments
-- https://www.gov.uk/tax-overpayments-and-underpayments/if-you-owe-tax
-- https://www.gov.uk/find-hmrc-contacts/payment-problems-enquiries
-- https://www.gov.uk/tax-appeals/decision
-- https://www.citizensadvice.org.uk/debt-and-money/help-with-debt/dealing-with-urgent-debts/dealing-with-income-tax-arrears/
+- https://www.gov.uk/difficulties-paying-hmrc
+- https://www.gov.uk/difficulties-paying-hmrc/pay-in-instalments
+- https://www.gov.uk/government/publications/tax-credits-overpayment-tc846
+- https://www.gov.uk/hmrc-internal-manuals/debt-management-and-banking/dmbm802040

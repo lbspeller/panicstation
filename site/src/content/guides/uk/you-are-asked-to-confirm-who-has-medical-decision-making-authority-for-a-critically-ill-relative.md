@@ -1,103 +1,98 @@
----
+﻿---
 title: "What to do if… you are asked to confirm who has medical decision-making authority for a critically ill relative"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "medical decision-making authority"
-  - "what do i do if hospital asks for medical authority"
-  - "help i need to prove i can make medical decisions"
-  - "my relative is in intensive care who decides"
-  - "lasting power of attorney health and welfare"
-  - "court of protection health deputy"
-  - "who is legal next of kin for hospital decisions"
-  - "mental capacity act 2005 medical treatment"
-  - "serious medical treatment imca referral"
-  - "advance decision to refuse treatment"
-  - "best interests decision making process"
-  - "confirming medical authority uk hospital"
-  - "disagreement over medical treatment authority"
-  - "next of kin vs lasting power of attorney"
-  - "cannot find lpa paperwork hospital"
-  - "attorney for health and welfare decisions"
-  - "medical treatment consent critically ill relative"
-  - "proving health and welfare lpa to doctors"
-  - "court of protection deputy life-sustaining treatment"
-  - "patient lacks capacity who makes decisions"
-  - "how to confirm medical decision maker"
-  - "help i am next of kin but hospital says no"
-  - "my relative lacks capacity who gives consent"
-  - "independent mental capacity advocate eligibility"
-  - "medical authority for unconscious relative"
-last_reviewed: "2026-03-16"
+  - medical decision-maker
+  - who can consent treatment
+  - critically ill relative
+  - intensive care decisions
+  - hospital asked to confirm authority
+  - next of kin vs legal authority
+  - next of kin authority
+  - health and welfare lpa
+  - lasting power of attorney health
+  - court of protection deputy
+  - best interests decision
+  - mental capacity act process
+  - family disagreement about decisions
+  - no paperwork who decides
+  - confirm decision-making rights
+  - relative lacks capacity
+  - advance decision refuse treatment
+  - imca advocate
+  - urgent consent questions
+  - proxy for medical decisions
+last_reviewed: "2026-03-03"
 ---
+
 # What to do if… you are asked to confirm who has medical decision-making authority for a critically ill relative (UK)
 
 ## Short answer
-State clearly if you hold a registered Health and Welfare Lasting Power of Attorney (LPA) or a Court of Protection Deputyship. If no such legal authority exists, the medical team acts as the legal decision-maker in the patient's "best interests" after consulting those close to them; "Next of Kin" status alone does not provide legal authority to consent to or refuse treatment.
+Ask the clinical team exactly what decision is needed *today*, then identify whether your relative still has capacity; if not, check for a Health and Welfare Lasting Power of Attorney (LPA) or a court-appointed deputy. If there is no legal decision-maker, the team usually makes the decision in your relative’s best interests while consulting those close to them.
 
 ## Do not do these things
-- Don't assume that being the spouse, parent of an adult, or named "Next of Kin" gives you the legal right to sign consent forms for treatment.
-- Don't promise the hospital you have "power of attorney" if you only have a Property and Financial Affairs LPA; it must be the Health and Welfare version for medical decisions.
-- Don't ignore a Deputy order, but do not assume a Deputy can refuse life-sustaining treatment; the Court of Protection usually reserves this power for the judge or clinicians unless explicitly written in the order.
-- Don't argue with other relatives in front of the clinical team; this may lead the hospital to seek urgent legal intervention or an advocate to resolve the deadlock.
-- Don't feel pressured to make a medical decision yourself if you are not a legal attorney; your role is to help the doctors understand what the patient would have wanted.
+- Don’t assume “next of kin” automatically has legal authority to consent to or refuse treatment.
+- Don’t sign hospital forms you don’t understand or that seem to give wider authority than you intend.
+- Don’t argue the medical details in the corridor; ask for a short, structured discussion (and notes) so facts don’t get lost.
+- Don’t share private documents or IDs widely—give them only to the ward team or hospital legal/patient services as requested.
+- Don’t agree to be “the decision-maker” if you’re unsure; it’s okay to say you need to check paperwork first.
 
 ## What to do now
-1. **Ask the clinician exactly what decision is required and by when.** 
-   Ask: "Is this a decision for consent, or are you consulting us for a Best Interests assessment?" 
-   Identify the specific treatment or intervention the team is seeking authority for.
+1. **Pause and get the exact ask in writing (or repeat it back).**  
+   Ask: “What decision needs to be made, by when, and what happens if we can’t confirm authority today?”  
+   Request the name/role of the person asking and where to send documents.
 
-2. **Check the patient's mental capacity for this specific decision.** 
-   Ask the consultant: "Has a formal capacity assessment been recorded for this specific decision?" 
-   If your relative has any periods of alertness, ask the team to support them in making the decision themselves, as capacity is time-specific and decision-specific.
+2. **Clarify capacity right now (for this specific decision).**  
+   Ask the consultant/registrar or senior nurse: “Do you think they can decide this themselves today?”  
+   If your relative can communicate, ask the team to speak with them directly (even briefly) before anyone else acts.
 
-3. **Locate and provide the specific legal document required.** 
-   Search for a **Health and Welfare Lasting Power of Attorney (LPA)** registered with the Office of the Public Guardian (OPG).
-   - Check the "Life-sustaining treatment" section (Section 5 of the LPA) to see if the attorney has the power to give or refuse consent to such treatment.
-   - If no LPA exists, check for a **Court of Protection Deputyship Order** and read the specific "Schedule of Powers" to see what health decisions are permitted.
+3. **Do a fast document check: LPA / deputyship / advance decisions.**  
+   Ask family members (and check your relative’s papers/phone if you already have lawful access) for:
+   - A **Health and Welfare LPA** (and who the attorneys are)  
+   - A **Court of Protection** order appointing a deputy (if one exists)  
+   - Any **Advance Decision to Refuse Treatment (ADRT)** or written care preferences  
+   If multiple people claim authority, ask each to provide the document or official confirmation.
 
-4. **Verify the existence of an Advance Decision to Refuse Treatment (ADRT).** 
-   Ask other family members or the GP if the patient has a "Living Will" or ADRT.
-   - If a valid and applicable ADRT exists and refuses the specific treatment being discussed, the medical team is legally bound to follow it.
-   - Provide a copy of the ADRT to the ward sister or consultant immediately.
+4. **If there’s an LPA, confirm it the way the hospital needs.**  
+   Tell the ward who the attorney(s) are and provide what the hospital requests (commonly a copy of the LPA and ID).  
+   If attorneys are **joint**, decisions may need to be made together; if **joint and several**, one may be able to act—ask the team what they require to record this safely.
 
-5. **Formalise your role if no legal document exists.** 
-   Tell the medical team: "There is no LPA or Deputy, so I understand the clinical team is the decision-maker under the Mental Capacity Act 2005."
-   - Explicitly ask to be included in the "Best Interests" consultation.
-   - Request that the hospital records your input regarding the patient’s past wishes, values, and beliefs.
+5. **If there is no legal decision-maker, ask for the “best interests” process and a documented plan.**  
+   Say: “If there’s no LPA/deputy, please record who you consulted, what you understand their wishes/values to be, and the best-interests reasoning.”  
+   Ask for a **best-interests discussion/meeting** if the decision is significant or the family is split.
 
-6. **Request an Independent Mental Capacity Advocate (IMCA) if there is no one else to consult.** 
-   Ask the hospital's Safeguarding Lead or Lead Nurse: "Is the patient eligible for an IMCA for this serious medical treatment decision?"
-   - This applies if the patient lacks capacity and has no family or friends "willing or appropriate" to be consulted.
+6. **If your relative has no appropriate family/friends to consult, ask about an IMCA.**  
+   If they lack capacity and there is no suitable person to consult, ask: “Does this decision qualify for an Independent Mental Capacity Advocate (IMCA) referral?”  
+   IMCA involvement applies to specific types of decisions and won’t fit every situation—ask the team to confirm eligibility.
 
-7. **Escalate to the correct patient support body if there is a dispute.** 
-   Contact the hospital's specific support service based on your location:
-   - **England:** Patient Advice and Liaison Service (PALS).
-   - **Scotland:** Patient Advice and Support Service (PASS).
-   - **Wales:** Llais (formerly Community Health Councils) or the local PALS team.
-   - **Northern Ireland:** Patient and Client Council.
+7. **Reduce conflict quickly if relatives disagree.**  
+   Use one sentence: “Let’s keep this about what *they* would want.”  
+   Ask the team to speak to one nominated spokesperson for updates, but keep a written list of everyone who should be consulted.
 
-8. **Nominate a single point of contact for the clinical team.** 
-   Ensure the hospital has one phone number for the primary contact to avoid conflicting information being given to different family members.
-   - This person should be responsible for relaying clinical updates to the wider family.
+8. **If there’s a serious dispute, escalate calmly and early.**  
+   Ask for: the consultant in charge, the ward/ICU matron, and the hospital’s patient advice/feedback service (often **PALS in England**, with different equivalents in Scotland, Wales and Northern Ireland).  
+   If needed, ask what the route is for urgent legal advice or court involvement for unresolved, high-stakes disagreements.
 
 ## What can wait
-- You do not need to provide the physical "original" LPA document immediately; a certified copy or the OPG online summary code is usually sufficient.
-- You do not need to settle disagreements about the patient's long-term care or "End of Life" plans if the current decision is only about an immediate, acute intervention.
-- You do not need to appoint a solicitor right now unless the hospital is threatening to take the case to the Court of Protection due to a family dispute.
+- You do **not** need to settle inheritance, funeral plans, or family “who’s in charge” long-term right now.
+- You do **not** need to write a perfect summary of their whole medical history—focus on their known wishes, values, and any relevant paperwork.
+- You do **not** need to decide future living arrangements or care home options during an ICU crisis.
 
 ## Important reassurance
-It is normal to feel overwhelmed when asked about "authority." The hospital asks this to ensure they are acting legally. Even if you do not have a Power of Attorney, the law requires doctors to listen to you to understand the patient’s wishes. You are not "failing" your relative by not having paperwork; the Best Interests process is designed to protect them in this exact situation.
+It’s normal to feel thrown by this question—hospitals ask it because they must record who can legally speak for someone if they can’t decide themselves. Needing time to find paperwork, or asking the team to follow a clear process, is a responsible step, not a delay.
 
 ## Scope note
-This guide covers the immediate steps to clarify legal standing and decision-making roles in a UK hospital setting. It does not cover the long-term application for Deputyship or the details of the Mental Health Act.
+These are first steps to confirm decision-making authority and avoid accidental over-commitment. Later steps (especially if there’s conflict or court involvement) may need specialist legal advice.
 
 ## Important note
-This information is based on the Mental Capacity Act 2005 (England and Wales), the Adults with Incapacity (Scotland) Act 2000, and the Mental Capacity Act (Northern Ireland) 2016. Laws regarding life-sustaining treatment and the powers of Deputies vary significantly between these jurisdictions. Always ask the clinical lead to explain the specific legal framework they are following.
+This is general information, not legal or medical advice. UK rules differ between parts of the UK and depending on the type of decision and documents in place. Hospital teams can explain what they need to record and the process they must follow in your relative’s situation.
 
 ## Additional Resources
-- https://www.gov.uk/make-decisions-for-someone
-- https://www.nhs.uk/social-care-and-support/making-decisions-for-someone-else/giving-someone-power-of-attorney/
-- https://www.gov.uk/manage-lasting-power-attorney/health-welfare
 - https://www.nhs.uk/social-care-and-support/making-decisions-for-someone-else/mental-capacity-act/
-- https://www.gov.uk/become-deputy
+- https://www.gov.uk/make-decisions-for-someone
+- https://www.scie.org.uk/mca/imca/
+- https://www.scie.org.uk/mca/imca/info-for/doctors/
+- https://www.gov.uk/government/publications/independent-mental-capacity-advocates/making-decisions-the-independent-mental-capacity-advocate-service-web-version
+- https://www.bma.org.uk/media/tyufopmh/best-interests-toolkit-updated-2025.pdf
+- https://compassionindying.org.uk/how-we-can-help/making-decision-someone-else/

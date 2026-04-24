@@ -1,84 +1,80 @@
----
+﻿---
 title: "What to do if… you suspect someone has installed a tracker or access to monitor where you go to control you sexually"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "being tracked by partner"
-  - "suspected location tracking"
-  - "tracker in car or bag"
-  - "airtag tracker concern"
-  - "unknown bluetooth tracker alert"
-  - "phone monitored by someone"
-  - "stalkerware worry"
-  - "spyware on my phone"
-  - "coerced sex control tactics"
-  - "sexual coercion and monitoring"
-  - "controlling where i go"
-  - "someone knows my location"
-  - "hidden tracking device"
-  - "find my location sharing"
-  - "google location sharing abuse"
-  - "icloud account being watched"
-  - "shared passwords used to track"
-  - "domestic abuse tech abuse"
-  - "stalking with tracking devices"
-  - "unsafe to change passwords"
-  - "help i think im being tracked"
-  - "what do i do if im being tracked"
-  - "what do i do if my partner is tracking me"
-  - "help i found a tracker in my car"
-  - "what do i do if there is a tracker in my bag"
-  - "monitoring my movements for sex"
-  - "unexpected appearance of partner"
-  - "digital stalking symptoms"
-  - "phone acting strange battery drain"
-  - "someone knowing where i am"
-  - "sexual control through tracking"
-  - "electronic monitoring domestic abuse"
-  - "coercive control location tracking"
-last_reviewed: "2026-03-17"
+  - being tracked by partner
+  - suspected location tracking
+  - tracker in car or bag
+  - airtag tracker concern
+  - unknown bluetooth tracker alert
+  - phone monitored by someone
+  - stalkerware worry
+  - spyware on my phone
+  - coerced sex control tactics
+  - sexual coercion and monitoring
+  - controlling where i go
+  - someone knows my location
+  - hidden tracking device
+  - find my location sharing
+  - google location sharing abuse
+  - icloud account being watched
+  - shared passwords used to track
+  - domestic abuse tech abuse
+  - stalking with tracking devices
+  - unsafe to change passwords
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you suspect someone has installed a tracker or access to monitor where you go to control you sexually (UK)
 
 ## Short answer
-Prioritize physical safety by moving to a secure location and contacting a specialist service from a device the suspected person has never accessed. Do not alert the person to your suspicions or change device settings until you have a professional safety plan.
+Treat this as a safety issue first: get to a safer place and use a device/account they cannot access to contact specialist support. Avoid confronting the person or making sudden device changes that could escalate risk.
 
 ## Do not do these things
-- Do not confront the person about the suspected tracking or show them "proof" while you are within their reach.
-- Do not perform a factory reset or change major passwords on a monitored device, as this can alert the person and escalate danger.
-- Do not use a suspected device to research safety options, contact lawyers, or speak with support services.
-- Do not discard a physical tracker (like an AirTag) immediately, as its disappearance or sudden location change can trigger a confrontation.
-- Do not accept technical "help" from the person to fix or check your devices.
+- Do not confront them about tracking, “prove it”, or threaten to report them while you’re still in their reach.
+- Do not do a factory reset, mass password changes, or delete apps/logs if there’s any chance they’ll notice immediately and retaliate.
+- Do not accept “help” from them to “check your phone” or “fix settings”.
+- Do not rely on a device you think may be monitored to plan safety steps or contact support.
+- Do not go alone to a private place to search for a tracker if you feel unsafe or pressured.
 
 ## What to do now
-1. **Identify observable cues of tracking.** Note if the person turns up unexpectedly at your location, makes comments about where you have been without being told, or uses knowledge of your movements to pressure you into sexual acts.
-2. **Reach a safer pause immediately.** Move to a public space, a library, or a trusted friend's home. If you are in immediate danger or being followed, call **999**.
-3. **Use a clean device for all safety communications.** Borrow a phone from someone you trust or use a public computer to contact support. Assume any device the person has handled or has the password for is compromised.
-4. **Contact the National Domestic Abuse Helpline (Refuge).** Call **0808 2000 247** (available 24/7). They provide specialist advice on tech-facilitated abuse and can help you create a safety plan before you change any settings.
-5. **Contact the Rape and Sexual Abuse Support Line.** Call **0808 500 2222** (available 24/7) or use their online chat service. They offer confidential support for situations involving sexual coercion and control.
-6. **Check opening hours for the National Stalking Helpline.** Call **0808 802 0300** (09:30–16:00 weekdays; until 20:00 on Mondays and Wednesdays) for specific guidance on electronic stalking and hidden trackers.
-7. **Gather information without changing settings.** Use a safe device to log into accounts (Google, iCloud, social media) to see if "Location Sharing" or "Find My" is active.
-   - Note which accounts are sharing data.
-   - Do not disable the sharing yet if doing so would alert the person.
-8. **Check for physical devices safely.** If you suspect a tracker in a car or bag, ask a trusted third party to help you look in a neutral, public location. If you find a device, leave it where it is until you have spoken to a domestic abuse advocate.
+1. **Get to a safer pause.** If you’re with them or feel watched, move to a public place or to someone you trust. If you are in immediate danger, call **999**.
+2. **Switch to safer communications.** Use a friend’s phone, a work device, or a library computer. If you must use your phone, consider using mobile data instead of shared Wi-Fi and keep messages neutral until you’re safe.
+3. **Talk to specialist support (confidential, no pressure to report).** Options include:
+   - **Rape Crisis England & Wales 24/7 Support Line: 0808 500 2222** (or online chat).
+   - **National Domestic Abuse Helpline (Refuge): 0808 2000 247** (24/7) for safety planning, including tech-abuse concerns.
+   - **National Stalking Helpline: 0808 802 0300** for stalking/harassment advice and options.
+4. **If reporting feels right, choose the safest route.** If it’s not an emergency, call **101** (or contact your local force online). You can also get confidential support first and decide later.
+5. **Reduce the most dangerous leak: live location sharing.** From a **safe device/account** (not the one you suspect is monitored), check whether your location is being shared via:
+   - Apple/Google location sharing features,
+   - Social apps with live location,
+   - Shared calendars or “family” accounts.
+   If you find sharing enabled, **don’t rush to switch it off** if that could trigger escalation—note what you find and decide with a specialist how to change it safely.
+6. **Create a “clean” contact route.** If you can do so safely, set up a new email address and a new PIN/passcode on a device they have never handled, and use that only for getting help (support services, GP, housing, benefits, legal advice).
+7. **If you suspect a physical tracker (bag/car/clothing): get help to check safely.** Ask a trusted person to help you look, or go somewhere with staff/CCTV (a busy shop, transport hub). If you find something, prioritise your safety—an advocate can help you think through next steps.
+8. **Write down what’s happening (briefly).** On paper or on a safe device, note dates/times and what made you suspect tracking (e.g., they show up unexpectedly, comments about your movements, sexual pressure linked to where you’ve been). This is for *you* and any support worker—no need to make it perfect.
 
 ## What can wait
-- You do not need to decide whether to report to the police or leave the situation permanently right now.
-- You do not need to "fix" the technology or secure your accounts tonight; isolation of the risk is more important than technical resolution.
-- You do not need to have physical evidence of a tracker to receive help from specialist services.
+- You do not need to decide right now whether to report to police, leave the relationship, or confront them.
+- You do not need to “solve the tech” tonight; safe planning with the right support is more important than quick fixes.
+- You do not need to gather proof before you ask for help.
 
 ## Important reassurance
-Sudden arrivals or "coincidences" that make you feel watched are often valid indicators of tracking. Feeling hyper-vigilant or confused is a standard response to being monitored. Specialist services are trained to help you manage these risks without requiring you to be a "tech expert."
+If someone is using monitoring or tracking to sexually control you, your unease makes sense. Feeling confused, hyper-alert, or unsure what is “real” is a common reaction to coercive control and tech abuse. You deserve support that puts your safety and choices first.
 
 ## Scope note
-This guide provides first-step stabilization only. Long-term digital security and legal options require detailed planning with specialists in domestic and sexual violence.
+These are first steps only—focused on immediate safety and reducing harm. More detailed tech checks, reporting routes, and longer-term safety planning are best done with specialist support because sudden changes can sometimes increase risk.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional safety advice. In an emergency, always call 999. If you are unable to speak, stay on the line and press 55 when prompted to alert the operator.
+This is general information, not legal or medical advice. If you are in immediate danger call 999. If you want medical care, support, or to discuss options confidentially, specialist services (including SARCs and sexual violence support lines) can help you without pressure to report.
 
 ## Additional Resources
-- https://refuge.org.uk/i-need-help-now/how-we-can-help-you/secure-your-tech/
+- https://rapecrisis.org.uk/
+- https://247sexualabusesupport.org.uk/
+- https://www.nationaldahelpline.org.uk/
+- https://www.suzylamplugh.org/pages/category/national-stalking-helpline
+- https://www.gov.uk/contact-police
+- https://www.police.uk/pu/contact-us/
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
 - https://womensaid.org.uk/information-support/what-is-domestic-abuse/cover-your-tracks-online/
-- https://www.gov.uk/government/publications/controlling-or-coercive-behaviour-statutory-guidance-framework/controlling-or-coercive-behaviour-statutory-guidance-framework-accessible
-- https://www.cps.gov.uk/prosecution-guidance/stalking-or-harassment
-- https://www.bathnes.gov.uk/recognise-and-get-support-online-and-technology-abuse

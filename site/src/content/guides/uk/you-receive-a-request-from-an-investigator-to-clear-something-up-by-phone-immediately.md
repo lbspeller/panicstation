@@ -1,107 +1,93 @@
----
+﻿---
 title: "What to do if… you receive a request from an investigator to “clear something up” by phone immediately"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "investigator phone call"
-  - "police call clear something up"
-  - "detective wants to talk now"
-  - "return this call urgently"
-  - "informal police questions"
-  - "request to talk on phone"
-  - "clear the air phone interview"
-  - "voluntary interview request"
-  - "interview under caution"
-  - "asked to come in for chat"
-  - "unknown number says police"
-  - "officer wants statement"
-  - "pressured to answer immediately"
-  - "asked to confirm details by phone"
-  - "call back the investigator"
-  - "worried i will look guilty"
-  - "asked to explain yourself"
-  - "just a few questions"
-  - "police want to clarify something"
-  - "what do i do if the police call me"
-  - "what do i do if a detective calls"
-  - "what do i do if an investigator calls"
-  - "help i have a missed call from police"
-  - "help i am being asked for a phone interview"
-  - "my investigator wants a quick chat"
-  - "my police officer called me"
-  - "smell of a scam call"
-  - "heard a fake police officer"
-  - "feel pressured by police"
-  - "notice an urgent voicemail"
-  - "voluntary attendance"
-  - "caution plus three"
-  - "rights during interview"
-  - "legal advice for phone call"
-last_reviewed: "2026-03-17"
+  - investigator phone call
+  - police call clear something up
+  - detective wants to talk now
+  - return this call urgently
+  - informal police questions
+  - request to talk on phone
+  - clear the air phone interview
+  - voluntary interview request
+  - interview under caution
+  - asked to come in for chat
+  - unknown number says police
+  - officer wants statement
+  - pressured to answer immediately
+  - asked to confirm details by phone
+  - call back the investigator
+  - worried i’ll look guilty
+  - asked to explain yourself
+  - “just a few questions”
+  - police want to clarify something
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive a request from an investigator to “clear something up” by phone immediately (UK)
 
 ## Short answer
-Do not participate in an immediate phone interview. Politely end the call, verify the investigator’s identity through an official police switchboard, and state that you will only answer questions after receiving legal advice.
+Don’t do the phone call. Politely pause, verify who they are via an official route, and get legal advice before answering any questions.
 
 ## Do not do these things
-- Don’t "just have a quick chat" to be helpful - informal comments are recorded in pocket notebooks and can be used as evidence.
-- Don’t attempt to "clear your name" by explaining your side before you know exactly what the allegation is.
-- Don’t agree to a voluntary interview (in person or by phone) without a solicitor present.
-- Don’t assume the caller is genuine because they have your personal details or a "private number."
-- Don’t use the phone they called you on to verify them immediately - wait at least one minute or use a different device to ensure the line has disconnected.
-- Don’t delete call logs, texts, or recordings of the interaction.
+- Don’t “just have a quick chat” to be helpful — casual calls can become evidence.
+- Don’t explain, justify, or correct details on the phone “to clear it up”.
+- Don’t agree to be interviewed (or to attend somewhere) without legal advice first.
+- Don’t assume the caller is genuine because they know your name or a few facts.
+- Don’t get drawn into confirming personal details beyond what’s needed to verify identity.
+- Don’t delete call logs, messages, or notes afterwards “to tidy things up”.
 
 ## What to do now
-1. **End the call or pause the conversation immediately.**
-   **Tell the caller that you are not in a position to talk and need to verify their identity.**
-   - Say: "I cannot discuss this right now. Please provide your full name, rank, collar number, and which police force or agency you are from."
-   - Ask for a reference number or CAD (Computer Aided Dispatch) number for the matter.
+1. **Stop the call (or don’t return it) and create space.**  
+   Say: “I’m not able to discuss anything by phone. Please give me your name, force/unit, and a contact reference. I’ll call back via an official number.”
 
-2. **Wait and verify the contact independently.**
-   **Disconnect the call and wait at least 60 seconds (or use a different phone) before dialing 101.**
-   - Call **101** (the national non-emergency number) or the official switchboard of the specific force mentioned.
-   - Ask to be put through to the officer using the name and collar number they provided.
-   - If the switchboard cannot find them or the reference number, report the original call as a potential scam or impersonation.
+2. **Collect only verification details (not the “story”).**  
+   Ask for: full name, role (e.g., police officer / investigator), force/unit, station/office base, and a case/reference number. Write down the date/time and what was asked.
 
-3. **Identify the legal status of the request.**
-   **Ask the verified officer if they are treating you as a suspect or a witness.**
-   - If they say you are a suspect, the interview (even "voluntary") must be conducted "under caution."
-   - Ask: "Is this a voluntary interview under caution?"
+3. **Verify the contact independently before speaking again.**  
+   Use an official route (not the number they gave you), from a calm/private place (not while driving, not on speaker in front of others).  
+   - If they claim to be police: call **101** (or your police force’s publicly listed number) and ask to be put through to that person/unit using the details you wrote down.  
+   - If they claim another public body: find the organisation’s main published number and ask for their office/unit to confirm the person exists and is trying to contact you.  
+   Keep it to verification/transfer — don’t start “explaining” to a switchboard operator.
 
-4. **Request free legal advice immediately.**
-   **State clearly that you want to exercise your right to legal advice before answering any questions.**
-   - You are entitled to free and independent legal advice for any police interview under caution, including voluntary ones.
-   - Say: "I am happy to cooperate, but I will not answer questions until I have spoken to a solicitor. Please provide a time for a formal interview so I can arrange representation."
+4. **If they want an interview, treat it as serious and request legal advice.**  
+   Ask (once verified): “Is this an interview under caution / voluntary interview?”  
+   If it is, say: “I want legal advice. I won’t answer questions until I’ve spoken to a solicitor.”  
+   In **England & Wales**, voluntary suspect interviews and interviews under caution come with safeguards, including access to **free and independent legal advice**. If you’re in **Scotland or Northern Ireland**, processes differ — still pause and ask for legal advice before any questioning.
 
-5. **Mention any vulnerabilities or requirements.**
-   **Tell the officer immediately if you are under 18 or have a condition that affects your understanding.**
-   - If you are under 18 or a vulnerable adult, the police **must** arrange an "Appropriate Adult" to be present before any questioning begins.
-   - This applies even if you feel you "don't need one."
+5. **Move the conversation away from the phone.**  
+   Ask them to:  
+   - Put the request in writing (email/letter) with the reference number, and  
+   - Propose times for a **formal** interview setting (not an immediate phone call).  
+   If they insist it must be “right now”, repeat: “I’m not discussing this by phone. My solicitor will arrange contact.”
 
-6. **Request "Disclosure" via your solicitor.**
-   **Do not ask for the evidence yourself; let a solicitor handle it.**
-   - A solicitor will demand "disclosure" (the details of the evidence against you) before the interview starts.
-   - If you talk now, you are answering questions without knowing what proof the police actually have, which puts you at a significant disadvantage.
+6. **If you are on licence/bail/in prison-related supervision, don’t guess the rules on the spot.**  
+   Verify who is contacting you (probation, prison intelligence, police, etc.) and get legal advice before making statements. If you have a named probation/offender manager contact, you can inform them that you were contacted — without discussing allegations or details.
+
+7. **If you feel at risk right now, switch to safety.**  
+   If you believe the call is part of harassment, impersonation, or you feel threatened, end the call, keep the evidence (voicemail/texts), and contact police via **101** (or **999** if immediate danger).
 
 ## What can wait
-- You do not need to decide right now whether you are "guilty" or "innocent" in the eyes of the law.
-- You do not need to provide a statement today.
-- You do not need to look for documents, receipts, or "proof" while you are still on the phone.
-- You do not need to tell your family or employer about the call until you have professional advice.
+- You do not need to decide “whether to cooperate” right now — you only need to avoid an unplanned phone interview.
+- You do not need to write a statement tonight.
+- You do not need to reconstruct timelines or search for “proof” immediately.
+- You do not need to explain yourself to friends/employer on the spot (unless there’s an urgent safety need).
 
 ## Important reassurance
-It is a standard investigative tactic to suggest a "quick chat" to make the process feel less formal. Choosing to wait for a solicitor is a legal right, not a sign of guilt. Most investigators expect suspects to ask for legal advice and will respect the pause once you state it clearly.
+It’s normal to feel pressured by “we just need to clear something up.” Pausing is not being difficult — it’s protecting yourself from misunderstandings and irreversible mistakes when you don’t yet know what the investigator believes or what the call is really about.
 
 ## Scope note
-This guide covers the first minutes of unexpected contact from a police officer or investigator (such as HMRC, DWP, or local authority). It is for stabilization and the prevention of self-incrimination before formal legal representation is secured.
+This is first-step guidance for unexpected investigator contact. If you later need to attend an interview or respond formally, that’s the point to get tailored legal advice based on what the allegation actually is.
 
 ## Important note
-This information applies to the UK (England, Wales, Scotland, and Northern Ireland), though specific terminology (e.g., "Voluntary Attendance" vs "Voluntary Statement") and legal aid structures vary by nation. This is not legal advice. Always default to speaking with a qualified solicitor before engaging in a criminal or regulatory interview.
+This is general information, not legal advice. Procedures vary by nation within the UK, by force/agency, and by your situation (e.g., arrest vs voluntary interview; bail/licence conditions). If you’re unsure, default to: **verify identity, don’t answer questions by phone, and get legal advice before engaging**.
 
 ## Additional Resources
 - https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version
-- https://www.gov.uk/government/publications/pace-code-c-2023/pace-code-c-2023-accessible
-- https://www.gov.uk/arrested-your-rights/legal-advice-at-the-police-station
-- https://www.newcastle.gov.uk/services/environment-and-waste/investigations-and-enforcement-policies/being-invited-interview
-- https://www.citizensadvice.org.uk/benefits/benefits-introduction/problems-with-benefits-and-tax-credits/if-youve-been-invited-to-an-interview-under-caution-for-benefit-fraud/
+- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights
+- https://www.gov.uk/government/publications/pace-code-c-2019/pace-code-c-2019-accessible
+- https://library.college.police.uk/docs/NPCC/Voluntary-interview-guidance-2024.pdf
+- https://www.gov.uk/contact-police
+- https://www.police.uk/pu/contact-us/
+- https://www.legislation.gov.uk/uksi/2018/829/note/made

@@ -1,105 +1,91 @@
----
+﻿---
 title: "What to do if… you receive an eSIM activation message or QR code you did not request"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "unexpected access token"
-  - "unknown api key created"
-  - "new app connection i did not create"
-  - "suspicious oauth app"
-  - "unknown third party app access"
-  - "account token compromise"
-  - "api credentials leak"
-  - "developer account hacked"
-  - "cloud console suspicious activity"
-  - "github token created without me"
-  - "new integration appeared"
-  - "unauthorized app authorization"
-  - "strange connected apps"
-  - "someone has access token"
-  - "security keys and tokens issue"
-  - "new credentials in dashboard"
-  - "token created overnight"
-  - "suspicious login and token"
-  - "access tokens appearing"
-  - "api keys appearing"
-  - "app connections appearing"
-  - "unauthorized developer access"
-  - "help i have unknown tokens"
-  - "what do i do if tokens are created"
-  - "what do i do if keys are created"
-  - "what do i do if apps are connected"
-  - "my api key was leaked"
-  - "my github was hacked"
-  - "my aws console has new keys"
-  - "burning smell from server"
-  - "unexpected email about login"
-  - "unrecognized connected device"
-  - "new webhook found"
-  - "new mfa method added"
-  - "recovery email changed"
-  - "access token ghost login"
-last_reviewed: "2026-03-17"
+  - esim activation message
+  - unexpected esim qr code
+  - esim qr you did not request
+  - sim swap text message
+  - sim swap warning message
+  - sim swap scam
+  - simjacking alert
+  - number hijack attempt
+  - unauthorised sim change
+  - unsolicited mobile activation
+  - phone number taken over
+  - mobile account takeover
+  - porting request you didn't make
+  - pac request text
+  - sudden loss of signal
+  - can't make calls suddenly
+  - sms codes not arriving
+  - otp texts stopped
+  - fake carrier message
+  - unknown qr code for esim
+last_reviewed: "2026-03-09"
 ---
-# What to do if… you receive an eSIM activation message or QR code you did not request (UK)
 
+# What to do if… you receive an eSIM activation message or QR code you did not request (UK)
 ## Short answer
-Revoke the unknown tokens and app connections immediately and terminate all active sessions to force a re-authentication requirement across all devices.
+Treat it as a possible SIM-swap attempt: **do not scan the QR code**, and **contact your mobile network immediately using a trusted number** to block any eSIM or number-transfer change.
 
 ## Do not do these things
-- Do not delay revocation to investigate the source of the creation first.
-- Do not delete activity logs or audit trails that document the unauthorized creation.
-- Do not use a device you suspect is compromised to perform security resets.
-- Do not reset every credential simultaneously if it will prevent you from accessing the admin console.
-- Do not assume a password change alone will invalidate existing OAuth tokens or active sessions.
+- Don’t scan the QR code or follow links in the message “to cancel” or “verify”.
+- Don’t reply to the message, and don’t share any one-time passcodes (OTP), security codes, or account PINs with anyone who contacted you.
+- Don’t call back a number provided in the message. Use the number from your bill, your network’s official app, or your network’s official website.
+- Don’t assume it’s harmless just because your phone still has signal — act before service is taken over.
+- Don’t rush to factory-reset your phone. This rarely helps and can make recovery harder.
 
 ## What to do now
-1. **Switch to a known-secure device to perform all recovery actions.**  
-   Avoid using any computer or mobile device that may have been the source of a credential leak or session theft. Type the service URLs directly into the browser instead of clicking links in security alerts.
+1. **Pause the activation path immediately.**  
+   Don’t scan the QR code, don’t tap any “set up eSIM” prompts, and don’t enter codes into any website/app linked from the message.
 
-2. **Revoke the unauthorized access tokens and API keys immediately.**  
-   Locate the specific credentials you do not recognise and delete or deactivate them. Note that some stateless tokens (like certain JWTs) may remain functional for up to 60 minutes after revocation; disabling the parent service account or user profile is the only way to stop these instantly.
+2. **Contact your mobile network right away (use another phone if you can).**  
+   Say: “I received an eSIM activation/number transfer message I did not request. Please block any SIM/eSIM swap or number transfer and secure my account.”  
+   Ask for:
+   - A **block/freeze on SIM swaps and number transfers** (the name varies by network).
+   - A **new account security PIN/password** on the mobile account (not one you’ve used elsewhere).
+   - Confirmation of **whether any eSIM has been issued** or **any change is pending**, and **how** it was requested (online / phone / store).
+   - A **reference number** for the contact and a note added: “suspected unauthorised SIM/eSIM change”.
 
-3. **Remove unknown third-party apps and OAuth permissions.**  
-   Check the "Connected Apps" or "Authorised Applications" section of your account and revoke access for any integration you did not personally authorise.
+3. **Check whether your number is already being affected.**  
+   Warning signs include: sudden loss of signal, “no service”, calls/texts failing, or OTP texts no longer arriving.  
+   If you’ve lost service, tell the network this may already be an active SIM swap and you need your number restored and the account locked down.
 
-4. **Terminate all active web and mobile sessions.**  
-   Look for a "Sign out of all devices" or "Revoke all sessions" button. This is critical because attackers often use session cookies to bypass Multi-Factor Authentication (MFA).
+4. **Immediately secure accounts that rely on SMS codes — starting with your email.**  
+   From a device/account you still control:
+   - Change the password on your **primary email** account first.
+   - Then change passwords for **banking**, **payment apps**, and **any account that can reset other passwords** (Apple ID/Google account, key social accounts).
+   - Where possible, switch away from **SMS two-factor codes** to an authenticator app or passkey.
 
-5. **Secure your primary identity provider or SSO account.**  
-   **Change your password** to a unique, 12+ character phrase.  
-   **Check for unauthorized MFA methods**, such as a new authenticator app or hardware key that you did not add.  
-   **Review recovery settings**, including backup email addresses and phone numbers, to ensure they have not been altered.
+5. **Notify your bank(s) and payment providers if anything looks off.**  
+   If you see unfamiliar login alerts, password resets you didn’t do, or unusual transactions, contact your bank’s fraud team and ask them to **add extra verification** and **monitor/hold high-risk transfers**.
 
-6. **Enable MFA on all cloud services as per 2026 Cyber Essentials standards.**  
-   If the platform offers any form of Multi-Factor Authentication, you must enable it immediately. Preference should be given to FIDO2/WebAuthn (passkeys) or authenticator apps over SMS.
+6. **Report it if you believe it’s fraud or you’ve suffered loss.**  
+   - If you’re in **England, Wales or Northern Ireland**, report via **Report Fraud (Action Fraud)** so you have a reference for banks/providers.  
+   - If you’re elsewhere in the UK, use your local police reporting route if needed.
 
-7. **Pause automated pipelines and deployments.**  
-   If the compromised keys have access to CI/CD systems (like GitHub Actions or Jenkins), pause all active deployments. Check for malicious changes to build scripts or hidden "backdoor" secrets added to the pipeline configuration.
-
-8. **Rotate sensitive production credentials in a controlled sequence.**  
-   After securing the root account, generate new keys for database access, payment gateways, and cloud infrastructure. Replace the old keys in your applications one at a time to ensure service continuity.
-
-9. **Evaluate the legal requirement to notify the ICO within 72 hours.**  
-   Under UK GDPR, if the unauthorized access constitutes a personal data breach that is likely to result in a risk to the rights and freedoms of individuals, you must report it to the Information Commissioner's Office (ICO). This report must be made without undue delay and, where feasible, within 72 hours of you becoming aware of the incident.
+7. **If your provider is slow, escalate inside the provider immediately.**  
+   Ask for their **fraud/security** team. Keep a simple timeline: time the message arrived, what it said, what you did, and what service changes you noticed.
 
 ## What can wait
-- Identifying the exact technical method used to create the tokens (e.g., phishing vs. malware).
-- Compiling a final incident report for stakeholders or insurance providers.
-- Implementing long-term architectural changes like moving to a hardware-based "Secret Manager."
+- You don’t need to decide today whether to change mobile networks, change your phone, or change your number.
+- You don’t need to do a full device wipe or reinstall apps right now.
+- You don’t need to confront the sender — focus on locking the number and securing key accounts first.
 
 ## Important reassurance
-It is a common tactic for attackers to create secondary "backdoor" access methods like tokens or app connections to maintain access after a password reset. Finding these items and revoking them is a standard part of the recovery process and does not necessarily mean your entire network is permanently compromised.
+These messages are designed to rush you into scanning or “verifying.” Often it’s still preventable if you avoid the QR/link, get the provider to lock the account, and secure your email and financial access quickly.
 
 ## Scope note
-This guide covers immediate stabilization for account-level credential compromise. If there is evidence that customer databases were exported or financial assets were moved, you will require professional forensic and legal assistance.
+This is first-steps guidance to stabilise the situation and reduce immediate risk. If money was taken or accounts were accessed, you may need follow-up support from your bank, your mobile provider’s fraud team, and formal reports to support disputes.
 
 ## Important note
-This information is provided for emergency stabilization and does not constitute legal or professional cybersecurity advice. Organizations operating in the UK must adhere to the UK GDPR and the Data Protection Act 2018 regarding breach notification. If you are an employee, follow your internal Information Security Policy and report the incident to your Data Protection Officer (DPO) or IT Security lead immediately.
+This is general information, not legal, financial, or technical advice. Names for “SIM swap/transfer locks” vary by mobile network. If you feel overwhelmed, use a trusted friend’s phone to contact your network and bank and take it one call at a time.
 
 ## Additional Resources
-- https://www.vodafone.co.uk/newscentre/features/how-to-protect-yourself-from-sim-swap-fraud/
-- https://www.three.co.uk/privacy-safety/fraud-to-watch-out-for
-- https://www.o2.co.uk/help/safety-and-security/fraud-scams-and-unwanted-calls/scams-and-fraud
-- https://ee.co.uk/help/security/staying-safe-online/avoid-and-prevent-scams
-- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
+- https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/campaigns/fraud/cyber-protect_protect-yourself-from-sim-swap-fraud.pdf
+- https://www.reportfraud.police.uk/
+- https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime
+- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/
+- https://www.ncsc.gov.uk/guidance/business-communications-sms-and-telephone-best-practice

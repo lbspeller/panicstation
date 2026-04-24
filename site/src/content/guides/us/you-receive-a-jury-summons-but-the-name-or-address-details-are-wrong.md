@@ -1,85 +1,71 @@
----
+﻿---
 title: "What to do if… you receive a jury summons but the name or address details are wrong"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - "jury summons wrong name"
-  - "jury duty summons wrong address"
-  - "jury duty notice not for me"
-  - "jury summons previous resident"
-  - "jury duty letter old address"
-  - "juror questionnaire incorrect details"
-  - "jury office contact clerk"
-  - "missed jury duty notice"
-  - "worried about warrant jury duty"
-  - "jury duty scam phone call"
-  - "court letter wrong recipient"
-  - "juror qualification form correction"
-  - "federal jury summons wrong info"
-  - "county jury summons wrong person"
-  - "moved and got jury summons"
-  - "update juror address"
-  - "identity mix up jury duty"
-  - "ejuror login help"
-  - "summons misspelled name"
-  - "help i got someone elses jury duty"
-  - "help i moved and got a summons"
-  - "what do i do if jury summons is wrong"
-  - "what do i do if jury summons for former tenant"
-  - "my jury summons has the wrong address"
-  - "my name is spelled wrong on jury duty"
-  - "wrong person summoned for jury"
-  - "returned to sender jury summons"
-  - "clerk of court jury office"
-  - "us district court juror info"
-  - "jury duty scam alert"
-last_reviewed: "2026-03-17"
+  - jury summons wrong name
+  - jury duty summons wrong address
+  - jury duty notice not for me
+  - jury summons previous resident
+  - jury duty letter old address
+  - juror questionnaire incorrect details
+  - jury office contact clerk
+  - missed jury duty notice
+  - worried about warrant jury duty
+  - jury duty scam phone call
+  - court letter wrong recipient
+  - juror qualification form correction
+  - federal jury summons wrong info
+  - county jury summons wrong person
+  - moved and got jury summons
+  - update juror address
+  - identity mix up jury duty
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive a jury summons but the name or address details are wrong (USA)
 
 ## Short answer
-Contact the specific court's jury office listed on the document immediately to correct the error, as ignoring a summons can lead to legal penalties even if the details are inaccurate.
+Don’t ignore it: follow the summons instructions or contact the court’s jury office/clerk listed on the summons to correct the name/address issue, because jury processes are local and the court needs to update its records.
 
 ## Do not do these things
-- Do not ignore the document; a mismatch in name or address does not automatically invalidate your legal obligation to respond.
-- Do not pay any "fine" or "fee" requested over the phone or via text to resolve a "missed" summons; courts never demand immediate payment via phone or gift cards.
-- Do not provide your Social Security number, credit card details, or bank information to anyone calling you about a jury error.
-- Do not fill out the questionnaire using someone else's identity if the mail was intended for a previous resident.
-- Do not click links in unsolicited emails or texts regarding jury service; only use official ".gov" websites.
+- Don’t pay anyone who calls/texts saying you missed jury duty and must pay immediately — that pattern is strongly associated with scams.
+- Don’t share sensitive personal or financial information with an unsolicited caller claiming to be “from the court” or “law enforcement”.
+- Don’t complete or sign a juror form pretending to be the named person if it isn’t you.
+- Don’t click links in unexpected texts/emails about jury duty; use the court’s official website or the contact info printed on the summons.
+- Don’t panic and make irreversible moves (closing accounts, sending money, giving SSN) before you’ve verified the contact is real.
 
 ## What to do now
-1. **Locate the 9-digit "Participant Number" or "Badge Number" on the document.**
-   This unique identifier is required for almost all online portal logins and phone inquiries.
-2. **Determine if the document is a "Qualification Questionnaire" or a "Summons to Appear."**
-   A questionnaire is a pre-screening form that usually requires a response within 10 days; a summons is a direct order to report on a specific date.
-3. **Log in to the official court portal (often "eJuror") to submit corrections electronically.**
-   Look for the ".gov" URL printed on the document. Most systems allow you to update your name, address, or residency status directly in the portal.
-4. **Return the mail to the post office if it is addressed to someone who does not live there.**
-   - **Cross out the address and barcode with a thick black marker** to prevent automated machines from redelivering it to you.
-   - **Write "Return to Sender – Not at this Address" clearly on the envelope.**
-   - **Place it in an outgoing mail bin.**
-5. **Call the Jury Clerk’s office directly if you cannot use the online portal.**
-   If you suspect the document or a follow-up call is a scam, do not use the number provided in the message. Search for the official U.S. District Court or County Court website independently to find the verified clerk's number.
-6. **Report fraudulent "threat of arrest" calls to the Federal Trade Commission (FTC).**
-   If a caller claims you will be arrested unless you pay for a "wrong address" mistake, hang up and report it at reportfraud.ftc.gov.
+1. **Identify the issuing court (and whether it’s state/county or federal).**
+   The summons will name the court (for example, a county/state court jury office or a U.S. District Court). Use the phone/address printed on the summons, or the court’s official website.
+2. **If the summons is meant for you but has wrong details: correct them exactly where the summons tells you to.**
+   Many courts have a juror questionnaire/qualification form or an online juror portal where you can correct your name/address and submit the response so the court updates its records.
+3. **If the summons is not for you (wrong person at your address): return it and/or notify the jury office.**
+   - **If unopened:** mark the envelope “Return to Sender – Not at this Address” and put it back in the mail.
+   - **If already opened:** don’t fill anything out as the named person. Call/email the jury office listed on the paperwork and say only: “This person does not live at this address.”
+4. **If you received it late because it went to an old address: contact the jury office immediately and say so plainly.**
+   Use one sentence: “I only received this on [date] because it was sent to my former address.” Ask what they want you to do next (submit a correction, reschedule, or confirm you’re not the person).
+5. **If you get a threatening “pay now or be arrested” message: treat it as a scam and switch to verification mode.**
+   Hang up (or don’t respond). Then independently look up the court’s official number (or use the summons contact) and ask if there’s any real issue with your jury status.
+   - **If it involves federal jury duty:** U.S. Courts guidance says you can notify the **Clerk of Court** for the U.S. District Court in your area, and you can also report to the FTC.
+6. **After the immediate issue is contained: reduce repeats by updating your address where your area pulls jury pools from.**
+   This varies, but commonly includes driver license/DMV records and/or voter registration. Do this after you’ve handled today’s summons.
 
 ## What can wait
-- You do not need to update your driver's license or voter registration before responding to the court, though you should do so afterward to prevent future errors.
-- You do not need to hire a lawyer to fix a simple spelling mistake or an old address on a summons.
-- You do not need to decide on a request for excusal (for work or travel) until your identity and address are first confirmed and corrected with the court.
+- You don’t need to determine “who made the mistake” today — just get the record corrected with the jury office.
+- You don’t need to update every agency record before you contact the court — do the court step first.
+- You don’t need to decide right now whether you’ll seek an excusal/deferral — first confirm the court’s expectations for this summons.
 
 ## Important reassurance
-Administrative errors in jury pools are common due to outdated DMV or voter records. Courts are generally helpful in correcting these records and do not expect you to serve if you have moved out of their jurisdiction. A simple notification to the clerk usually resolves the immediate issue.
+Administrative mismatches happen a lot (moves, similar names, stale lists). Courts generally want a clean record and a clear response — the fastest way to calm this down is to contact the jury office through the official channels listed on the summons.
 
 ## Scope note
-This guide covers first-step stabilization for administrative errors only. It does not provide legal defense for "failure to appear" or instructions for seeking medical or financial excusals.
+These are first steps to prevent escalation and avoid scams. If the court tells you there’s already a missed response or a scheduled appearance you can’t make, follow the jury office instructions and consider contacting local legal aid or an attorney for jurisdiction-specific help.
 
 ## Important note
-Jury procedures are governed by specific local and federal laws that vary by district. Always prioritize the instructions on the physical document or the official court website over general advice.
+This is general information, not legal advice. Jury procedures vary by state and by court, so your summons instructions and the court’s official jury office are the most reliable sources for your next step.
 
 ## Additional Resources
 - https://www.uscourts.gov/court-programs/jury-service/juror-scams
-- https://www.flsd.uscourts.gov/content/name-andor-address-my-summons-wrong-what-should-i-do
-- https://cand.uscourts.gov/jurors/responding-your-jury-summons
-- https://www.iand.uscourts.gov/content/what-if-jury-mail-addressed-person-who
-- https://www.njd.uscourts.gov/FAQs-eJuror-QUESTIONNAIRES
+- https://consumer.ftc.gov/consumer-alerts/2025/03/call-or-email-saying-you-missed-jury-duty-need-pay-its-scam
+- https://content.govdelivery.com/accounts/USFEDCOURTS/bulletins/3ac42c9

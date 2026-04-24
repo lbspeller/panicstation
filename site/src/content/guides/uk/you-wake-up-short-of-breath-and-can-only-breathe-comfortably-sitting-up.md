@@ -1,88 +1,77 @@
----
+﻿---
 title: "What to do if… you wake up short of breath and can only breathe comfortably sitting up"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "woke up breathless"
-  - "waking up gasping for air"
-  - "can’t breathe lying flat"
-  - "only breathe sitting up"
-  - "sudden night breathlessness"
-  - "short of breath at rest"
-  - "breathlessness in bed"
-  - "needs extra pillows to breathe"
-  - "orthopnoea symptoms"
-  - "paroxysmal nocturnal dyspnoea"
-  - "chest tightness with breathlessness"
-  - "wheeze at night"
-  - "cough with breathlessness"
-  - "fast breathing on waking"
-  - "breathlessness after sleep"
-  - "breathless when lying down"
-  - "short of breath suddenly"
-  - "breathing feels worse flat"
-  - "what do i do if i cant breathe lying down"
-  - "what do i do if i wake up gasping"
-  - "what do i do if i need to sit up to breathe"
-  - "what do i do if my chest feels tight at night"
-  - "help i woke up and cant breathe"
-  - "help i have to sit up in bed to breathe"
-  - "help i am breathless while sitting"
-  - "help my breathing is bad when i lie down"
-  - "blue lips at night"
-  - "gasping for air in sleep"
-  - "choking sensation waking up"
-  - "heavy chest at night"
-  - "struggling to speak breathlessness"
-  - "breathless sitting up"
-  - "breathless comfortably sitting"
-  - "waking up short of breath"
-  - "breathing comfortably sitting up"
-last_reviewed: "2026-03-16"
+  - woke up breathless
+  - waking up gasping for air
+  - can’t breathe lying flat
+  - only breathe sitting up
+  - sudden night breathlessness
+  - short of breath at rest
+  - breathlessness in bed
+  - needs extra pillows to breathe
+  - orthopnoea symptoms
+  - paroxysmal nocturnal dyspnoea
+  - chest tightness with breathlessness
+  - wheeze at night
+  - cough with breathlessness
+  - fast breathing on waking
+  - breathlessness after sleep
+  - breathless when lying down
+  - short of breath suddenly
+  - breathing feels worse flat
+last_reviewed: "2026-02-21"
 ---
+
 # What to do if… you wake up short of breath and can only breathe comfortably sitting up (UK)
 
 ## Short answer
-Treat this as a medical priority. Remain sitting upright and seek same-day medical assessment; call **999** immediately if you are struggling to speak, have chest pain, or your skin or lips appear blue, grey, or unusually pale.
+Treat this as urgent. Stay sitting upright and get same-day medical help — call **999** if you’re struggling to breathe (for example, gasping/choking or only able to speak in short phrases), you have chest pain, blue/grey lips/skin, confusion/drowsiness/dizziness, or you’re getting worse.
 
 ## Do not do these things
-- Do not lie back down to "test" if the feeling has gone away if you are still short of breath.
-- Do not attempt to drive yourself to a hospital or GP surgery if you feel dizzy or faint.
-- Do not take medication prescribed for someone else, such as inhalers or water tablets.
-- Do not smoke, vape, or consume alcohol while waiting for medical advice.
-- Do not wait until morning to seek help if you are currently breathless while resting.
+- Do not lie flat “to see if it passes” if sitting up is the only way you can breathe comfortably.
+- Do not try to drive yourself to A&E if you feel faint, very breathless, or your symptoms are worsening.
+- Do not take someone else’s inhaler, antibiotics, leftover steroids, or “water tablets”.
+- Do not ignore new breathlessness at rest, especially if it woke you from sleep.
+- Do not smoke or vape right now, and don’t drink alcohol “to calm down”.
 
 ## What to do now
-1. **Remain sitting completely upright on the edge of your bed or in a supportive chair.** **Keep your feet flat on the floor and lean slightly forward with your arms supported on your knees or a table to help your chest expand.**
-2. **Check for emergency red flags and call 999 immediately if any are present.** 
-   - You are gasping for air, choking, or can only speak a few words at a time.
-   - You have a heavy, crushing, or tight pain in your chest that may spread to your arms, neck, or jaw.
-   - Your lips, tongue, or skin look blue, grey, or pale (on brown or black skin, check for these changes on your palms or the soles of your feet).
-   - You feel suddenly confused, very drowsy, or like you are about to faint.
-3. **Open a window or door to ensure there is a supply of fresh, moving air in the room.** **This can help reduce the sensation of suffocation and provides a cooling effect that may assist with steadying your breathing.**
-4. **Follow your prescribed medical action plan if you have a pre-existing lung or heart condition.** **Use your reliever inhaler (usually blue) exactly as instructed by your doctor; however, if the inhaler does not provide relief within a few minutes, treat this as an emergency and call 999.**
-5. **Contact NHS 111 for urgent same-day advice if you do not have 999 red flags but are still short of breath.** **Tell the operator clearly: "I woke up short of breath and I can only breathe if I am sitting up."**
-   - Mention if you have noticed any new swelling in your ankles or legs.
-   - Disclose if you have a history of heart failure, asthma, or COPD.
-6. **Gather your current medications and a list of any known health conditions while you wait for assistance.** **If you are with someone else, ask them to stay with you and keep the front door unlocked for emergency responders.**
+1. **Get into the safest breathing position.** Sit upright on the edge of the bed or in a chair, feet on the floor. Support your arms on your thighs or a table. Loosen tight clothing.
+2. **Check quickly for emergency red flags — and act immediately if any are present.**  
+   Call **999** if you have any of these:
+   - severe difficulty breathing (gasping, choking, or struggling to speak)
+   - chest tightness/heaviness or pain (especially spreading to arm/back/neck/jaw)
+   - lips, tongue, face or skin turning blue or grey (on brown or black skin, check lips, gums, tongue, palms/soles)
+   - sudden confusion, you’re very drowsy, very dizzy, or you feel like you might pass out
+   - a fast new swelling of face/lips/tongue, or a severe allergic reaction
+3. **If you have a prescribed reliever inhaler (e.g., salbutamol), use it exactly as you’ve been told.** If you have an asthma/COPD action plan, follow the “breathless” steps on it.
+4. **If there are no 999 red flags but you are still short of breath at rest, get urgent same-day advice.** Call **NHS 111** and say:  
+   “I woke up short of breath and I can only breathe comfortably sitting up. It’s new/worse than usual.”  
+   If you already have a heart or lung condition, say that early in the call.
+5. **Prepare for help to arrive (or for an urgent assessment).**  
+   - Keep sitting up; avoid lying down again.  
+   - Gather your medications/inhalers, a list of conditions, and any recent readings (peak flow, oxygen sats, BP) if you have them.  
+   - If you live with someone, tell them what’s happening and ask them to stay nearby.
+6. **If symptoms worsen at any point, upgrade to 999.** A change from “uncomfortable” to “struggling” matters.
 
 ## What can wait
-- You do not need to identify the specific medical cause (such as fluid on the lungs or a heart issue) before seeking help.
-- You do not need to pack a bag for a long stay or arrange for long-term care right now.
-- You do not need to worry about "wasting time" if the symptoms improve slightly while sitting up; the fact they occurred while lying down requires professional review.
+- You do not need to work out the cause right now (there are several possible causes, some serious).
+- You do not need to decide about tests, referrals, or long-term treatment today.
+- You do not need to message multiple people or search the internet for reassurance while you’re still breathless.
 
 ## Important reassurance
-It is normal to feel a sense of panic when you cannot breathe comfortably. Sitting upright is the correct physical response to this symptom, and seeking urgent medical advice is the safest action to take. Medical professionals are trained to assess these specific symptoms quickly.
+Waking up breathless and needing to sit up is frightening, and it can make you feel panicky very quickly. You’re not “overreacting” by treating this as urgent — getting assessed promptly is the safest move.
 
 ## Scope note
-This guide provides first-step stabilization and triage instructions only. It does not replace a clinical diagnosis or a formal emergency dispatch assessment.
+These are first steps to stabilise you and get you to the right level of care. Follow-up and prevention depend on what clinicians find.
 
 ## Important note
-Breathlessness that occurs specifically when lying down (orthopnoea) or that wakes you from sleep (PND) is a significant clinical symptom. Always choose the most urgent care option if you are in doubt about your safety or if your condition begins to deteriorate.
+This is general information, not a diagnosis or a substitute for medical care. If you feel seriously unwell, symptoms are worsening, or you’re unsure, choose the safer option and seek urgent help.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/shortness-of-breath/
+- https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/
 - https://111.nhs.uk/
-- https://www.cuh.nhs.uk/patient-information/leaflet-4-positions-to-ease-breathlessness/
-- https://www.nhs.uk/conditions/heart-failure/
-- https://www.bradfordhospitals.nhs.uk/heart-failure/pathway-2/
+- https://www.nhsinform.scot/illnesses-and-conditions/lungs-and-airways/shortness-of-breath/
+- https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/signs-you-should-contact-your-doctor

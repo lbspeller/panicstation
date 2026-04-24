@@ -1,90 +1,72 @@
----
+﻿---
 title: "What to do if… your computer warns of disk errors and offers a repair that could risk data loss"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "device unusually hot light use"
-  - "suspect failing battery"
-  - "laptop battery overheating"
-  - "phone battery getting hot"
-  - "tablet battery swelling"
-  - "device battery thermal runaway"
-  - "what do i do if my phone is hot"
-  - "what do i do if my laptop is hot"
-  - "what do i do if my tablet is hot"
-  - "what do i do if my battery is swelling"
-  - "help i think my battery is failing"
-  - "help i smell burning from device"
-  - "help my device is hissing"
-  - "help my battery is bulging"
-  - "sweet chemical smell from phone"
-  - "white smoke from laptop"
-  - "device hissing sounds"
-  - "hot device popping noise"
-  - "bulging screen from battery"
-  - "warped case battery heat"
-  - "overheating in sleep mode"
-  - "hot while idle"
-  - "device too hot to touch"
-  - "battery heat light use"
-  - "device heating up randomly"
-  - "lithium battery fire risk"
-  - "failing battery symptoms"
-  - "device heat safety"
-  - "battery emergency steps"
-  - "hazardous battery disposal"
-last_reviewed: "2026-03-17"
+  - disk errors warning
+  - hard drive error alert
+  - ssd error warning
+  - repair disk prompt
+  - disk repair might erase data
+  - file system corruption message
+  - drive might be failing
+  - windows scan and repair message
+  - mac disk utility first aid warning
+  - chkdsk prompt
+  - startup disk needs repair
+  - disk check found errors
+  - bad sectors warning
+  - storage device failing
+  - protect files before repair
+  - urgent backup before disk fix
+  - computer says drive error
+  - save data from failing drive
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your computer warns of disk errors and offers a repair that could risk data loss (USA)
 
 ## Short answer
-Stop using and charging the device immediately, place it on a noncombustible surface away from flammable materials, and call 911 if you observe smoke, hissing, or rapid swelling.
+Don’t run the repair yet — copy your most important files to another drive first. Disk repairs can change or remove damaged data, so “backup first” is the safest move.
 
 ## Do not do these things
-- Don’t continue charging or using the device even for a few minutes.
-- Don’t put the device in a pocket, bag, or drawer while it is hot.
-- Don’t place the device on carpet, bedding, or near curtains.
-- Don’t apply ice or water directly to the device.
-- Don’t attempt to puncture, squeeze, or open a swollen battery.
-- Don’t ignore a sweet, metallic, or chemical smell coming from the unit.
-- Don’t throw the device in the household trash or curbside recycling.
+- Don’t click “Repair/Fix” before you’ve copied what you can.
+- Don’t keep using the computer like normal (updates, installs, gaming, big downloads) — that adds new writes to a potentially failing disk.
+- Don’t run multiple “fix” utilities in a row (or repeat repairs over and over) hoping one will work.
+- Don’t defragment or run aggressive cleanup tools.
+- Don’t assume cloud-sync is a backup if files might already be corrupted or syncing deletions.
 
 ## What to do now
-1. **Cut the power source.** Immediately unplug the charger from the wall and the device. **Disconnect all external accessories or power banks.** 
-2. **Power down the device.** If the screen is responsive and the device is safe to touch, **shut it down completely**. Do not just put it in sleep or standby mode.
-3. **Isolate the device on a noncombustible surface.** Move the device to a **surface that will not burn**, such as a stone countertop, a metal sink, a tile floor, or a concrete porch. 
-   - Ensure there is at least 3 feet of clearance from paper, fabric, or chemicals.
-   - If it is safe to move outdoors, place it on bare dirt or concrete.
-4. **Identify signs of thermal runaway.** Observe the device from a distance for the following:
-   - Visible white or grey smoke.
-   - Hissing, whistling, or popping sounds.
-   - A distinct sweet or chemical odor.
-   - Rapid bulging of the casing or screen.
-5. **Evacuate and call 911 if the situation escalates.** If smoke, flames, or intense hissing occurs, **leave the room immediately**, close the door to contain the area, and call emergency services. Inform the dispatcher it is a "lithium battery fire" (Class L hazard).
-6. **Wait for full stabilization.** Leave the device isolated until it is **completely cool to the touch** (at least 60 minutes). Do not assume it is safe just because the heat has plateaued.
-7. **Perform a backup only if the device is room-temperature.** If the device has cooled and is not swelling, you may **briefly power it on** to perform a critical cloud sync or data transfer. Stop immediately if the heat returns.
-8. **Check for federal safety recalls.** Use the **U.S. Consumer Product Safety Commission (CPSC)** recall database to see if your specific model is known for battery defects.
-9. **Report the hazard.** File an unsafe product report at **SaferProducts.gov** to document the failure, especially if it occurred during light or normal use.
-10. **Dispose of the device through specialized channels.** Locate a **household hazardous waste (HHW) facility** or a certified battery recycler via Call2Recycle. 
-    - Note that many retail drop-off boxes do **not** accept damaged or swollen batteries; you must call ahead to verify.
+1. **Stop new activity that writes to the disk.** Save what’s open if you can, close apps, and leave the computer on stable power.
+2. **Choose “Skip/Cancel/Not now” on the repair prompt.** Your priority is a safe copy of data.
+3. **Plug in an external drive (or use another computer/network location) as the backup destination.** Avoid copying onto the same internal disk.
+4. **Copy the irreplaceable data first, fast:** documents, photos, passwords/2FA backup codes, financial/tax files, work/project folders.  
+   - If you hit errors, **skip that item and keep going** so you don’t lose time on one bad spot.
+5. **If the machine slows drastically, freezes, or starts making unusual noises:** reduce stress on the drive. Copy only the top-priority folders/files and stop repeated attempts.
+6. **If you have a Mac and the warning involves Disk Utility “First Aid”: copy first if you can.**  
+   - If you **can’t boot normally**, you **may** still be able to copy files to another Mac using Apple-supported transfer options **before** you run repairs (for example **Share Disk** from macOS Recovery on Apple silicon Macs, or **Target Disk Mode** on some Intel Macs).
+7. **After you have a backup you trust, run one built-in repair pass** (the tool the system is offering). If it can’t repair, or warnings return soon after, assume the disk is unreliable.
+8. **Plan for replacement.** If the system indicates the disk is failing, replacement is often required — file-system repairs can’t fix dying hardware.
+9. **If the computer is under warranty or you bought it recently:** once your files are safe, **contact the seller/manufacturer support** before doing anything that could complicate warranty service. Keep a simple timeline (what warning appeared, when, what you tried).
+10. **If a shop or support agent offers “reset/erase as the first step”:** pause and confirm you already have your files backed up. If you don’t, ask explicitly for a data-preserving option first.
 
 ## What can wait
-- You do not need to determine the cause of the failure or troubleshoot software right now.
-- You do not need to contact the manufacturer for a warranty claim while the device is still hot.
-- You do not need to research replacement devices until the immediate fire risk is neutralized.
+- You don’t need to decide right now whether to wipe/reinstall the operating system.
+- You don’t need to fully diagnose the root cause (hardware vs software) before saving files.
+- You don’t need to optimize backups or clean up storage in the panic moment.
 
 ## Important reassurance
-It is normal to feel anxious when a device behaves unpredictably. Stopping use at the first sign of unusual heat is the most effective way to prevent a battery fire. You have taken the correct steps by isolating the device and prioritizing safety over equipment.
+A disk warning doesn’t mean you’ve already lost everything. The safest first move is simply to switch from “fixing” to “copying,” starting with the files you can’t replace.
 
 ## Scope note
-This guide covers first-step stabilization and fire-risk reduction for suspected lithium-ion battery failure. It does not provide long-term technical repair advice or legal guidance regarding consumer rights.
+This is first steps only — once your files are safe, you can troubleshoot calmly, replace hardware, or use professional help if needed.
 
 ## Important note
-This information is for general safety guidance and does not replace the instructions of emergency responders or certified fire safety professionals. Lithium-ion battery fires involve toxic fumes and high temperatures; always prioritize evacuation over property preservation.
+This is general information, not professional IT or legal advice. If the device holds business-critical or sensitive data, or you’re in a warranty/return window, consider using official support channels or a reputable data recovery professional rather than repeated repair attempts.
 
 ## Additional Resources
-- https://support.microsoft.com/en-us/topic/what-to-do-about-a-critical-warning-for-a-storage-device-258e0042-e091-277d-5fa6-3c710fba70d7
-- https://support.microsoft.com/en-us/topic/error-message-windows-could-not-start-because-of-a-computer-disk-hardware-configuration-problem-11bb9125-e012-1f11-4516-70c75971c4cf
-- https://support.microsoft.com/en-us/windows/system-restore-a5ae3ed9-07c4-fd56-45ee-096777ecd14e
-- https://support.microsoft.com/en-us/windows/backup-restore-and-recovery-in-windows-e6d629c4-2568-4406-814f-209a2af06ef7
-- https://support.microsoft.com/en-us/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk
+- https://support.apple.com/en-us/102611
+- https://support.apple.com/en-us/102518
+- https://consumer.ftc.gov/articles/warranties
+- https://www.ftc.gov/legal-library/browse/statutes/magnuson-moss-warranty-federal-trade-commission-improvements-act

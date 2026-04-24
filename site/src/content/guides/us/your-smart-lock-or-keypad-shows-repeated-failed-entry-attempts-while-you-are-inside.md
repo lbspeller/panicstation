@@ -1,89 +1,71 @@
----
+﻿---
 title: "What to do if… your smart lock or keypad shows repeated failed entry attempts while you are inside"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - "smart lock failed attempts"
-  - "keypad wrong code alerts"
-  - "repeated pin failures"
-  - "door lock tamper alert"
-  - "someone trying door code"
-  - "attempted break in at door"
-  - "lock keypad beeping repeatedly"
-  - "smart lock lockout mode"
-  - "door handle tried outside"
-  - "doorbell camera motion at door"
-  - "unknown person at front door"
-  - "suspicious entry attempts"
-  - "home alone door security"
-  - "apartment entry keypad attempts"
-  - "night time door code tries"
-  - "smart home security alert"
-  - "keypad lock keeps flashing"
-  - "lock app shows attempts"
-  - "what do i do if my smart lock is beeping"
-  - "what do i do if someone is guessing my door code"
-  - "what do i do if my keypad shows failed attempts"
-  - "what do i do if i get a tamper alert"
-  - "help i think someone is trying my door code"
-  - "help i have a smart lock lockout alert"
-  - "help i see someone at my door on camera"
-  - "help my door keypad is flashing red"
-  - "my smart lock shows unauthorized entry attempts"
-  - "my door code was entered incorrectly multiple times"
-  - "someone is testing my door handle"
-  - "unauthorized keypad access attempts"
-  - "electronic lock security breach"
-  - "lock app notifications for failed pin"
-  - "security alert for smart lock"
-  - "keypad security warning"
-  - "wrong code entered alert"
-last_reviewed: "2026-03-17"
+  - smart lock failed attempts
+  - keypad wrong code alerts
+  - repeated pin failures
+  - door lock tamper alert
+  - someone trying door code
+  - attempted break in at door
+  - lock keypad beeping repeatedly
+  - smart lock lockout mode
+  - door handle tried outside
+  - doorbell camera motion at door
+  - unknown person at front door
+  - suspicious entry attempts
+  - home alone door security
+  - apartment entry keypad attempts
+  - night time door code tries
+  - smart home security alert
+  - keypad lock keeps flashing
+  - lock app shows attempts
+last_reviewed: "2026-01-11"
 ---
+
 # What to do if… your smart lock or keypad shows repeated failed entry attempts while you are inside (USA)
 
 ## Short answer
-Secure your immediate location by moving to an interior room, ensure the door is physically deadbolted, and call 911 if you believe an unauthorized person is actively attempting to enter.
+Assume it could be someone trying to get in until you can confirm otherwise. Get everyone into a safer interior position, secure a room, and call 911 if you think a break-in may be happening or you feel unsafe.
 
 ## Do not do these things
-- Do not open the door to investigate or confront the person.
-- Do not stand in direct line of sight of the door or windows.
-- Do not go outside to check the keypad or porch area.
-- Do not remotely unlock the door through the app to "reset" the system.
-- Do not ignore the alert as a "glitch" while active attempts are occurring.
-- Do not use the intercom or "talk" feature on doorbell cameras if you are trying to remain undetected.
+- Do not open the door to “see who it is” or confront anyone through the doorway.
+- Do not go outside to check your porch/entryway.
+- Do not stand in front of windows or glass panels facing the door while you look.
+- Do not remotely unlock the door “to reset” the lock.
+- Do not announce personal details (like being alone) through the door.
+- Do not share entry codes or confirm who is inside if someone calls/messages claiming they “just need the code”.
+- Do not assume it’s just a tech issue if the attempts are repeated like deliberate guesses.
 
 ## What to do now
-1. **Move yourself and others to a secure interior room immediately.** Choose a room with a solid door and a lock, preferably away from the entryway being targeted.
-2. **Verify that the entry door is physically latched and deadbolted.** If the smart lock is a "smart deadbolt" type, ensure the interior thumbturn is fully in the locked position.
-   - If your lock has a physical "Privacy Mode" or "Lockout" toggle on the interior unit, engage it now to disable the exterior keypad.
-3. **Use your smartphone to check camera feeds without approaching the door.** View doorbell or entryway cameras to identify if a person is present or if the attempts are due to an environmental factor.
-4. **Call 911 if you see an unauthorized person or hear active tampering.** State your address first, then report that an unknown person is attempting to bypass your electronic door lock.
-5. **Turn on exterior lighting using your smart home app if possible.** Increasing visibility may deter an intruder without requiring you to move toward the door to flip physical switches.
-6. **Silence your phone and remain quiet if you believe a break-in is imminent.** Stay low to the floor and away from the door of your secure room while waiting for authorities.
-7. **Use text-to-911 only if making a voice call would increase your danger.** If you must text, provide your exact location and the nature of the emergency (e.g., "someone trying to guess door code at [Address]") in the first message.
-   - Be aware that text-to-911 is not available in all US jurisdictions; if you receive a "bounce-back" message, you must make a voice call.
-8. **Communicate with building security or management if you are in a multi-unit complex.** Use a non-emergency or internal line once you are in a safe position to alert them to a suspicious person in the hallway.
+1. **Move to a safer pause.** Bring kids/pets with you into an interior room (preferably one with a solid door). Lock that room if possible. Take your phone and (if safely reachable) your keys.
+2. **Create distance from the entry door.** Quietly lock any interior doors between you and the front door. Stay low and away from lines of sight to the entry.
+3. **Check without approaching the door.** Use a doorbell camera, peephole camera, or indoor camera view if you have it. If it’s safe, start recording and save the clip.
+4. **Increase deterrence without exposing yourself.** If you can turn on exterior lights from your phone, do it. Avoid walking into view at the front of the home to flip switches.
+5. **Use lock safety features if available.** If your lock/app offers a keypad lockout, temporary keypad disable, or “vacation/lockout mode” after failed attempts, enable it. Avoid changing multiple settings that could accidentally unlock the door.
+6. **Call 911 if there’s any sign of an active attempt.** Examples: you hear the handle/door being tested, see someone at the door, attempts continue in real time, or you feel at risk. Be ready to give your address/unit first, then what you’re seeing/hearing.
+7. **If you can’t speak safely:** calling 911 is still the default. If making a voice call would increase danger, **text-to-911 may be available in some areas**—start with **address/unit + what’s happening**. Availability varies; if it’s not supported where you are, you may receive a message telling you to contact 911 another way.
+8. **If you’re in an apartment/building:** contact building security/management (if available) to check hallways/cameras **while you stay inside**. If you have a trusted neighbor, ask them to call 911 if they see someone at your door—do not ask them to confront.
+9. **Keep key details ready.** Your full address/unit, which door is being targeted, number of people inside, any camera description, and whether you have any immediate medical needs.
 
 ## What can wait
-- Changing your master PIN or user codes.
-- Reviewing historical activity logs or "tamper" history from previous days.
-- Contacting the lock manufacturer's technical support line.
-- Replacing batteries or updating lock firmware.
-- Posting about the incident on neighborhood watch apps or social media.
+- Resetting the lock, changing codes, adding/removing users, or doing firmware updates.
+- Calling the manufacturer/installer.
+- Digging through long activity logs or trying to identify the person right now.
+- Posting publicly or trying to coordinate a group response in the moment.
 
 ## Important reassurance
-It is common to feel a surge of adrenaline or fear when a security device alerts you to an unauthorized attempt. Taking immediate steps to put distance between yourself and the door is a standard and effective safety protocol. Whether this is a neighbor at the wrong door or a technical malfunction, prioritizing your physical safety over investigation is the correct response.
+It’s normal to feel shaken by this, even if it turns out to be a false alarm or a mistaken visitor. Taking quiet, protective steps first is a reasonable response.
 
 ## Scope note
-This guide provides first-step stabilization for an active security alert. It does not cover long-term home hardening, forensic digital analysis of smart home accounts, or legal definitions of trespassing.
+These are immediate first steps to reduce risk and buy time. Once you’re safe, you can decide on follow-up like reporting, lock changes, and improving entry security.
 
 ## Important note
-This information is for emergency stabilization and does not constitute professional security or legal advice. Contact local law enforcement for any situation involving potential criminal activity or immediate threats to your safety.
+This is general information, not personalized legal or security advice. If you feel unsafe or unsure, treat it as an emergency and contact local authorities.
 
 ## Additional Resources
-- https://www.911.gov/calling-911/
-- https://mpdc.dc.gov/sites/default/files/dc/sites/mpdc/publication/attachments/Burglary%20Prevention.pdf
-- https://www.statefarm.com/simple-insights/residence/front-door-security
-- https://www.lmpd.gov/379/Home-Security
-- https://lcf.ca.gov/home-burglary-prevention/
+- https://www.911.gov/calling-911
+- https://www.911.gov/calling-911/frequently-asked-questions
+- https://www.fcc.gov/consumers/guides/what-you-need-know-about-text-911
+- https://www.usa.gov/report-crime

@@ -1,112 +1,98 @@
----
+﻿---
 title: "What to do if… you are told a relative died while in custody and you do not know who to contact to confirm details"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "told someone died in custody"
-  - "death in custody verification"
-  - "confirm death details uk"
-  - "prison death phone call"
-  - "police custody death message"
-  - "relative died in detention"
-  - "who to contact after custody death"
-  - "next of kin not notified"
-  - "unsure if it is a scam call"
-  - "custody death confirmation"
-  - "death following police contact"
-  - "coroner reference number"
-  - "procurator fiscal contact"
-  - "northern ireland coroner"
-  - "bereavement in prison uk"
-  - "detained person died"
-  - "urgent confirmation of death"
-  - "family liaison officer details"
-  - "death notification confusion"
-  - "help i was told a relative died in prison"
-  - "what do i do if someone says my brother died in custody"
-  - "verify death in police cell"
-  - "death in custody notification process"
-  - "hmpps bereavement contact"
-  - "scottish fatalities investigation unit"
-  - "independent office for police conduct"
-  - "prisons and probation ombudsman"
-  - "police ombudsman northern ireland"
-  - "pirc scotland contact"
-  - "prison death scam"
-  - "notifying next of kin in prison"
-  - "how to find out if someone died in jail"
-  - "who investigates prison deaths"
-  - "police family liaison officer contact"
-last_reviewed: "2026-03-16"
+  - told someone died in custody
+  - death in custody verification
+  - confirm death details uk
+  - prison death phone call
+  - police custody death message
+  - relative died in detention
+  - who to contact after custody death
+  - next of kin not notified
+  - unsure if it is a scam call
+  - custody death confirmation
+  - death following police contact
+  - coroner reference number
+  - procurator fiscal contact
+  - northern ireland coroner
+  - bereavement in prison uk
+  - detained person died
+  - urgent confirmation of death
+  - family liaison officer details
+  - death notification confusion
+last_reviewed: "2026-03-03"
 ---
+
 # What to do if… you are told a relative died while in custody and you do not know who to contact to confirm details (UK)
 
 ## Short answer
-Verify the information immediately by calling the official main switchboard of the facility or the police force mentioned. Do not use contact details provided in the initial message; find the verified public number for the relevant agency and ask for the Duty Governor or Custody Manager.
+Treat the message as unconfirmed until you verify it through official channels. Your immediate goal is to get one official contact name plus a reference/case number from the right authority for where the death happened.
 
 ## Do not do these things
-- Don't provide personal financial information, bank details, or photos of your ID to anyone contacting you via phone or text.
-- Don't call back the number that contacted you until you have verified the organisation through an independent source.
-- Don't post sensitive details or the name of the deceased on social media until the official Next of Kin (NOK) notification is confirmed.
-- Don't travel to a prison or police station without a confirmed appointment or a named contact person.
-- Don't feel pressured to give a formal statement or interview immediately; you have the right to wait until you have support.
+- Don’t send money, bank details, or copies/photos of ID to anyone who contacted you out of the blue.
+- Don’t rely on social media posts or forwarded messages as “confirmation”.
+- Don’t agree to an interview, statement, or recorded call if you feel pressured; you can say you need a named contact and a call-back route.
+- Don’t post details publicly while you’re still verifying identity and next-of-kin status.
+- Don’t travel long distances based on a single unverified call/text unless you’ve confirmed the facility and a named point of contact via an official main number.
 
 ## What to do now
-1. **Document every detail provided in the initial contact.**  
-   **Record the time of the call, the name of the person who spoke to you, their stated rank or role, and the specific facility they named.**
-   - If they gave a reference number or "prison number," write it down exactly.
+1. **Pause and write down what you have.**  
+   Record: the caller’s name, role, organisation, phone number, date/time, where they say the death happened, and any reference number (custody record/prison number/incident number).
 
-2. **Verify the facility's identity using a public directory.**  
-   **Go to the official government website (GOV.UK, gov.scot, or nidirect.gov.uk) to find the main switchboard number for the prison or police force.**
-   - Do not use a number provided in a text message or a voicemail.
+2. **Assume it could be misinformation or a scam until you verify it.**  
+   Do not call back the incoming number. Use only an organisation’s main published switchboard number.
 
-3. **Call the official switchboard and ask for the senior officer in charge.**  
-   **State clearly that you have received a report of a death and need to verify it with the Duty Governor (for prisons) or the Custody Manager (for police).**
-   - Ask for the full name and DOB of the person they have in custody to ensure it matches your relative.
+3. **Identify which system it likely was (police, prison, or immigration detention).**  
+   If you’re unsure, start with the **police force** for the area where your relative was last known to be and ask them to confirm which agency had custody.
 
-4. **Identify the correct independent investigation body for the jurisdiction.**  
-   **Confirm which agency is investigating the death, as this varies by nation and setting.**
-   - England / Wales Police: Ask if the **Independent Office for Police Conduct (IOPC)** has been notified.
-   - England / Wales Prison: Ask if the **Prisons and Probation Ombudsman (PPO)** has started an investigation.
-   - Scotland: Contact the **Scottish Fatalities Investigation Unit (SFIU)** via the Crown Office and Procurator Fiscal Service (COPFS).
-   - Northern Ireland: Contact the **Prisoner Ombudsman** or the **Police Ombudsman for Northern Ireland (OPONI)**.
+4. **Contact the place/agency that had custody using its main published number. Ask for the right role.**  
+   Use simple wording:  
+   “I received information that [full name, date of birth] may have died while in your custody. I need to confirm whether this is true and who the official next-of-kin contact is.”  
+   Ask for: (a) the **reference number**, (b) the **name/role** of the person assigned to speak with family, (c) the **next step** for formal notification/identification in your area.
+   - **Police custody / following police contact:** ask for the **custody duty officer** or **Family Liaison Officer (FLO)** route (if an FLO is appointed).
+   - **Prison:** ask for the **duty governor** or **family/bereavement liaison** contact.
+   - **Immigration detention:** ask for the centre’s **bereavement/family liaison** contact and the investigation/reference details they can share.
 
-5. **Request the contact details for the assigned Family Liaison Officer (FLO).**  
-   **Ask for the name and direct office number of the FLO or the person responsible for family communication.**
-   - If an FLO has not yet been assigned, ask for the "Duty Officer" responsible for bereavement liaison.
+5. **Then contact the death-investigation authority for the nation where the death happened (this matters).**
+   - **England & Wales:** contact the **coroner’s office** for the area where the death occurred and ask whether they have a case for your relative (name + DOB), and for the **coroner’s reference number** and the best contact route for next of kin.
+   - **Scotland:** contact the **Crown Office and Procurator Fiscal Service (COPFS)** death investigation contact for the **Scottish Fatalities Investigation Unit (SFIU)** hub covering the area, and ask for the reference/contact for the investigation.
+   - **Northern Ireland:** contact the **Coroners Service for Northern Ireland** (or relevant coroner contact route) and ask how next of kin should be updated and what reference details they can confirm.
 
-6. **Confirm your status as the point of contact.**  
-   **Tell the official you are speaking to your relationship to the deceased and provide your verified contact details.**
-   - Ask them to confirm who they have listed as the official "Next of Kin" on their records.
+6. **If police contact is involved in England & Wales, confirm the IOPC referral and get the IOPC contact.**  
+   Ask the police force to confirm that the death was referred to the **Independent Office for Police Conduct (IOPC)** (as required for deaths during/following police contact in England & Wales) and to provide the **IOPC reference/contact route** you should use.
 
-7. **Contact the relevant Coroner or Procurator Fiscal’s office.**  
-   **In England, Wales, and Northern Ireland, contact the local Coroner's office; in Scotland, contact the SFIU hub (North, East, or West).**
-   - Ask for the "Coroner’s Reference Number" or the "SFIU Case Reference."
+7. **If a prison/immigration detention setting is involved, ask about the PPO investigation and family liaison.**  
+   Ask the place of detention to confirm that the death has been referred to the **Prisons and Probation Ombudsman (PPO)** (which investigates deaths in custody it covers) and how you will be kept updated (family liaison contact, expected communications, reference number).
 
-8. **Verify if the death has been formally referred for an independent investigation.**  
-   **Under Article 2 of the Human Rights Act, all deaths in state custody must undergo an independent investigation; ask for confirmation that this has been triggered.**
+8. **Confirm and correct “next of kin” details immediately.**  
+   Say clearly: your relationship, that you may be next of kin, and your correct phone/email/postal address. Ask them to record it and tell you what they can/can’t share right now.
 
-9. **Ask for a written summary of the next steps.**  
-   **Request that the facility or investigating body sends you a brief email or letter outlining who your lead contact is and what happens next regarding the body and identification.**
+9. **Ask for written confirmation of the official contact and reference numbers.**  
+   Request an email/letter with: organisation name, staff member name/role, main switchboard number, and the reference number(s). This reduces confusion and helps protect you from scams.
+
+10. **If you’re overwhelmed, bring a trusted person in as your note-taker.**  
+   Put calls on speaker with someone you trust, or ask them to make calls while you sit with them.
 
 ## What can wait
-- You do not need to appoint a solicitor or legal team in the first few hours.
-- You do not need to make funeral arrangements until the Coroner or Procurator Fiscal has authorised the release of the body.
-- You do not need to respond to media enquiries or provide comments to journalists.
-- You do not need to understand the full cause of death immediately; initial reports are often "unexplained" or "awaiting post-mortem."
+- You do **not** need to decide today about complaints, legal action, media, or campaigning.
+- You do **not** need a full explanation immediately; early information is often limited and later corrected.
+- You do **not** need to make funeral decisions until you know who has authority for release and what the relevant process is in that nation.
 
 ## Important reassurance
-Receiving news like this is a profound shock, and it is normal to feel confused or suspicious of the source. Taking a moment to verify the caller through an official switchboard is a standard and necessary safety step. You are not "wasting time" by ensuring the information is legitimate before taking further action.
+Shock can make it hard to think, remember names, or ask questions. For now, it’s enough to confirm the facts through official numbers and get one reliable contact person plus a reference number.
 
 ## Scope note
-This guide is for the immediate stabilization and verification of a reported death in custody within the UK. It does not cover the long-term inquest process, legal representation for Fatal Accident Inquiries (FAIs), or civil litigation.
+This is first-steps-only guidance for confirming a reported death in custody and finding the correct official contacts. Later steps (inquest/FAI participation, formal complaints, representation, and support) may need specialist advice and advocacy.
 
 ## Important note
-Procedures for death notifications and investigations differ significantly between England and Wales, Scotland, and Northern Ireland. Always ensure you are speaking to the authority in the specific nation where the person was being held. This information is for practical guidance and does not constitute legal advice.
+This guide provides general information and practical first actions, not legal advice. Processes vary across the UK and by agency. If you cannot confirm something directly, treat it as uncertain and focus on getting an official point of contact and a reference/case number.
 
 ## Additional Resources
-- https://www.prisonersfamilies.org/bereavement
-- https://www.prisonersfamilies.org/helpline
-- https://inquest.org.uk/get-help/guidance-and-advice/inquest-handbook/
-- https://www.gov.uk/after-a-death/when-a-death-is-reported-to-a-coroner
-- https://www.judiciary.uk/courts-and-tribunals/coroners-courts/coroners-appointments-contacts-and-areas/
+- https://assets.publishing.service.gov.uk/media/5c0feb4940f0b60bacefd1ee/CPFG_Leaflet_plain_HM_Gov_colours_FINAL.pdf
+- https://www.policeconduct.gov.uk/sites/default/files/documents/a_brief_guide_to_investigations_2020.pdf
+- https://www.gov.uk/government/organisations/prisons-and-probation-ombudsman
+- https://www.copfs.gov.uk/contact/contact-us-about-a-death-investigation/
+- https://www.justice-ni.gov.uk/articles/coroners-service-northern-ireland
+- https://assets.publishing.service.gov.uk/media/612753118fa8f53dd0d6017d/dso-08-2014-_death-in-detention_-v3_GOV.pdf

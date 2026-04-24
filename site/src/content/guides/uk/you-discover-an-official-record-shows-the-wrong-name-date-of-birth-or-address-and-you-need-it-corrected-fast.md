@@ -1,108 +1,103 @@
----
+﻿---
 title: "What to do if… you discover an official record shows the wrong name, date of birth, or address and you need it corrected fast"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "wrong details on official record"
-  - "incorrect name on record"
-  - "incorrect date of birth on record"
-  - "wrong address on record"
-  - "official record error urgent"
-  - "need record corrected fast"
-  - "identity details mismatch"
-  - "personal data incorrect"
-  - "government record wrong"
-  - "police record wrong details"
-  - "prison record wrong details"
-  - "dbs certificate mistake"
-  - "driving licence details wrong"
-  - "passport details wrong"
-  - "benefits record wrong details"
-  - "urgent correction request"
-  - "record has my old address"
-  - "name spelled wrong official"
-  - "dob recorded incorrectly"
-  - "address recorded incorrectly"
-  - "what do i do if my name is wrong on a dbs"
-  - "help i have the wrong dob on my passport"
-  - "what do i do if my address is wrong on my licence"
-  - "help i found an error on my police record"
-  - "rectification of inaccurate personal data"
-  - "right to rectification uk gdpr"
-  - "official record typo correction"
-  - "urgent data accuracy dispute"
-  - "mismatched identity details on certificate"
-  - "incorrect gender on official document"
-last_reviewed: "2026-03-17"
+  - wrong details on official record
+  - incorrect name on record
+  - incorrect date of birth on record
+  - wrong address on record
+  - official record error urgent
+  - need record corrected fast
+  - identity details mismatch
+  - personal data incorrect
+  - government record wrong
+  - police record wrong details
+  - prison record wrong details
+  - dbs certificate mistake
+  - driving licence details wrong
+  - passport details wrong
+  - benefits record wrong details
+  - urgent correction request
+  - record has my old address
+  - name spelled wrong official
+  - dob recorded incorrectly
+  - address recorded incorrectly
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you discover an official record shows the wrong name, date of birth, or address and you need it corrected fast (UK)
 
 ## Short answer
-Identify the organisation acting as the data controller, submit a formal written request for "rectification" with clear evidence, and simultaneously demand a "restriction of processing" to prevent the incorrect data from being used while the dispute is reviewed.
+Get a copy of the exact wrong entry, identify who controls that record, then send one clear written correction request with evidence and ask them to flag it as disputed (and limit reliance on it where possible) while they review.
 
 ## Do not do these things
-- Don't attempt to use documents with mismatched details for high-stakes applications / such as travel or employment / while the error exists.
-- Don't rely on verbal promises from call centre staff that the record has been updated without obtaining written confirmation.
-- Don't send original identity documents through the post unless specifically instructed via a secure / tracked method; use high-quality scans or certified copies where possible.
-- Don't ignore the error because it seems minor; small typos in dates of birth or names can trigger fraud flags in automated systems.
-- Don't post the error on social media to seek advice; this exposes the reference numbers and personal data you are trying to protect.
+- Don’t try to “fix it” by using mismatched or false documents (even if you’re panicking).
+- Don’t make multiple conflicting requests to different teams without keeping copies — it creates delays and contradictions.
+- Don’t ignore deadlines attached to the record (court dates, licence deadlines, employment checks) — raise the dispute and ask what interim options exist.
+- Don’t assume “someone else will update everywhere” (e.g., DVLA ≠ HM Passport Office ≠ DBS ≠ police).
+- Don’t post screenshots of official records online to “prove” the error — it can expose sensitive identifiers.
 
 ## What to do now
-1. **Secure the exact evidence of the error and the record reference number.**  
-   **Obtain a copy / screenshot / or scan of the specific document or digital entry that contains the inaccuracy.**  
-   - Identify the "Data Controller" (the organisation that owns the record).
-   - Locate the specific reference number / case ID / or account number associated with that record.
+1. **Get the exact wording of the wrong entry (today).**  
+   Ask for (or download) the page/screen that shows the incorrect name/DOB/address, plus any reference numbers. If you only heard about it second-hand, ask what document/check/system it came from.
 
-2. **Submit a formal "Right to Rectification" request in writing.**  
-   **Send an email or letter to the organisation's Data Protection Officer (DPO) or their specific correction team stating you are exercising your right to rectification under the UK GDPR.**  
-   - Quote exactly what is currently recorded.
-   - Provide the correct details.
-   - State that the record is "factually inaccurate."
+2. **Work out who actually controls the record (the “data controller”).**  
+   Write down: organisation name, department (if known), and what the record is used for (e.g., DBS certificate, police system, prison record, driving licence, passport, benefits, housing, court). Corrections usually must go to the team that owns the system.
 
-3. **Demand a "Restriction of Processing" while the correction is pending.**  
-   **Explicitly ask the organisation to "restrict processing" of the inaccurate data under Article 18 of the UK GDPR.**  
-   - This means they should not use the data to make decisions about you (e.g., barring you from a job or rejecting a visa) until they have verified the accuracy.
-   - Ask them to add a "disputed" flag to the file immediately.
+3. **If there’s an urgent consequence, ask for an interim safeguard immediately.**  
+   In the same message/call, say:  
+   - “I’m disputing the accuracy of this record.”  
+   - “Please **flag/annotate** it as disputed and tell me what you can do **now** to reduce harm while it’s checked (for example, a note on file or a ‘correction pending’ confirmation).”  
+   - Ask whether they can avoid making a final decision **solely** on the disputed data until your evidence is reviewed.
 
-4. **Provide a single / clear "Evidence Pack" in your first message.**  
-   **Attach clear copies of primary identity documents that prove the correct information.**  
-   - For Name / DOB: Passport, birth certificate, or marriage certificate.
-   - For Address: Recent utility bill, council tax statement, or bank statement (dated within 3 months).
-   - If the error is a misspelling: Highlight the correct spelling in your supporting documents.
+4. **Send a written correction request that is hard to misunderstand.**  
+   Use one email/letter (even if you also call) with:  
+   - exactly what is wrong (quote it)  
+   - exactly what it should be  
+   - why it’s wrong (one sentence)  
+   - evidence attached (scan/photo)  
+   - your contact details and any case/reference numbers  
+   Ask for written confirmation they received it and who is handling it.
 
-5. **Follow the specific route for high-priority UK records.**  
-   **Use these dedicated channels for common official errors to ensure the fastest response:**  
-   - **DBS Certificates:** Use the "DBS certificate dispute form" within 3 months of the certificate date.
-   - **Driving Licences:** Update addresses online via GOV.UK; for name changes, you must usually use form D1 or D2, but check if your valid UK passport allows an online name update.
-   - **Police Records (PNC):** Contact ACRO Criminal Records Office for a Subject Access Request (SAR) to see the full record, but contact the "Data Protection" office of the specific police force that made the entry to request the actual correction.
-   - **Passports:** Use the HM Passport Office "Contact us" form specifically for errors on an issued passport; they generally do not charge to fix their own mistakes.
+5. **Use the UK right to rectification when it’s about personal data accuracy.**  
+   You don’t need special wording, but it can help to state you are requesting correction of inaccurate personal data and you want their response in writing. Keep copies of everything you send.
 
-6. **Diaries the one-month legal deadline for a response.**  
-   **Note that under UK data protection law / the organisation must respond to your rectification request within one month.**  
-   - If the case is complex, they can extend this by a further two months, but they must tell you within the first month that they are doing so.
+6. **If it’s one of these common records, use the dedicated process:**
+   - **DBS certificate (mistake in personal details or records):** raise a dispute using the DBS dispute process (there is a time limit from the certificate date).  
+   - **Driving licence address/name:** address changes have an online route; **name changes use a different DVLA process** and typically require additional evidence — use the DVLA “change name” route for that.  
+   - **Police-held information:** if you need a copy of what’s held on the Police National Computer (PNC), use the **ACRO Subject Access Request** route. If you need records from **Scotland**, the process can be different — use the Scotland-specific subject access route for the relevant body.  
+   - **Passport error:** if the issued passport itself is wrong, contact His Majesty’s Passport Office using their error/complaints routes for urgent correction.
 
-7. **Escalate to the Information Commissioner’s Office (ICO) if they refuse or stall.**  
-   **If the organisation does not correct the record or provide a valid legal reason for refusal / submit a complaint to the ICO.**  
-   - Keep a log of every contact, including dates and names of people you spoke with.
-   - Include the "restriction" request you made earlier to show you attempted to mitigate harm.
+7. **Create a simple “evidence pack” you can reuse (10 minutes).**  
+   One folder (paper or digital) containing:  
+   - a clear scan/photo of a primary identity document showing correct name/DOB  
+   - proof of address (if address is the problem)  
+   - a short timeline (what you discovered, when, and why it matters urgently)  
+   This reduces repeated explaining and speeds up escalations.
+
+8. **Escalate quickly but cleanly if they stall.**  
+   If you don’t get a sensible response, ask for: a supervisor, the Data Protection Officer / information rights lead, and the formal complaints route. If needed, you can escalate to the UK data protection regulator (ICO) — but keep your first move focused on getting the organisation to correct it (or clearly mark it as disputed) with your evidence.
 
 ## What can wait
-- You do not need to notify every minor private company (like loyalty cards or subscriptions) today; focus on "source" government records first.
-- You do not need to hire a solicitor for simple factual typos; the UK GDPR process is designed to be accessible to individuals without legal representation.
-- You do not need to understand *how* the error happened right now; the priority is the correction, not the investigation of the cause.
+- You do **not** need to correct every linked system today — focus on the one causing immediate harm (the check/decision happening now).
+- You do **not** need to argue about blame — stick to accuracy, evidence, and urgency.
+- You do **not** need to “explain your whole life story” — a clear correction + proof is usually more effective.
 
 ## Important reassurance
-Inaccuracies in official databases are common and are frequently the result of manual data entry errors or outdated "legacy" systems failing to sync. A formal, evidence-backed request triggers a legal process that organisations must take seriously. Identifying the error early is the most effective way to prevent it from causing long-term administrative issues.
+This happens more than people think: typos, transposed dates, old addresses, and mismatched systems can create serious-looking problems fast. You’re not being “difficult” by challenging it — accurate records matter, and a calm, documented request is often the quickest way to get it fixed.
 
 ## Scope note
-This guide covers first-step stabilization for factual inaccuracies in personal data held by UK organisations. It does not cover "deletion" of accurate but unfavorable records (like valid criminal convictions) or disputes regarding the "opinion" of an official (like a social worker's report).
+These are first steps to stabilise the situation, reduce immediate harm, and start the correction process. If the error affects criminal justice, immigration, employment vetting, or benefits, later steps may need specialist help — but you don’t need to decide that right now.
 
 ## Important note
-This information is for guidance only and does not constitute legal advice. Data protection laws and organisational procedures are subject to change. If an error on an official record puts you at risk of immediate arrest / deportation / or significant financial loss, consult a qualified legal professional or a specialist advice service like Citizens Advice immediately.
+This is general information, not legal advice. Processes vary by organisation and the type of record. If you feel at risk or the error could lead to arrest/detention or loss of liberty, get urgent advice from an appropriate qualified adviser.
 
 ## Additional Resources
 - https://ico.org.uk/for-the-public/your-right-to-get-your-data-corrected/
-- https://www.gov.uk/correct-birth-registration
-- https://www.gov.uk/tell-hmrc-change-of-details
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/right-to-rectification/
+- https://ico.org.uk/for-organisations/law-enforcement/guide-to-le-processing/individual-rights/the-right-to-rectification/
+- https://www.gov.uk/report-problem-criminal-record-certificate/dispute-a-mistake
 - https://www.gov.uk/change-address-driving-licence
-- https://www.nhs.uk/contact-us/nhs-app-contact-us/
+- https://www.gov.uk/copy-of-police-records
+- https://www.acro.police.uk/s/acro-services/subject-access

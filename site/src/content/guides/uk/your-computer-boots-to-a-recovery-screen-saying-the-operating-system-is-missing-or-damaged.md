@@ -1,109 +1,95 @@
----
+﻿---
 title: "What to do if… your computer boots to a recovery screen saying the operating system is missing or damaged"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "unexpected admin account"
-  - "new local administrator"
-  - "unknown administrator user"
-  - "random admin on login screen"
-  - "windows new admin account"
-  - "mac new admin user"
-  - "linux new sudo user"
-  - "account i did not create"
-  - "computer shows extra user"
-  - "new user appears suddenly"
-  - "possible hacked computer"
-  - "suspicious privileged account"
-  - "admin account added overnight"
-  - "device compromise warning"
-  - "unauthorised account on pc"
-  - "local admin created without me"
-  - "unknown account has admin rights"
-  - "what do i do if a new user appeared on my pc"
-  - "what do i do if my computer has a ghost admin"
-  - "what do i do if i see an unknown administrator"
-  - "what do i do if my laptop shows two admins"
-  - "help i have a new admin account"
-  - "help i did not create this user"
-  - "help my pc was hacked with a new account"
-  - "help unknown person has admin access"
-  - "smell of burning plastic from laptop"
-  - "computer running slow with new user"
-  - "strange login name on startup"
-  - "user account with random numbers"
-  - "ghost admin user on windows"
-  - "suspicious root access"
-  - "unrecognised profile on mac"
-  - "new user on login screen"
-  - "extra administrator profile"
-last_reviewed: "2026-03-17"
+  - os missing screen
+  - os damaged recovery screen
+  - operating system not found
+  - windows boot failure
+  - pc won’t start
+  - stuck in recovery
+  - boot device not found
+  - no bootable device
+  - startup repair loop
+  - blue recovery screen
+  - mac question mark folder
+  - flashing question mark folder
+  - disk not detected
+  - possible drive failure
+  - worried about losing files
+  - need data off laptop
+  - bios boot order wrong
+  - update broke windows
+  - windows recovery environment
+  - system won’t boot today
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your computer boots to a recovery screen saying the operating system is missing or damaged (UK)
 
 ## Short answer
-Isolate the device by disconnecting it from all internet and network connections immediately. Treat the appearance of an unauthorised privileged account as a critical security compromise and do not use the device for sensitive tasks.
+Protect your data first: stop repeated restarts, unplug external drives, and avoid any reset/erase option until you’re sure you’ve recovered what you need.
 
 ## Do not do these things
-- Do not log into the suspicious account to investigate its contents or settings.
-- Do not use the compromised device to change passwords, access banking, or check email.
-- Do not delete the account immediately, as this may destroy forensic evidence needed for an investigation.
-- Do not run "one-click" fix-it tools or registry cleaners found via web searches.
-- Do not accept unsolicited remote assistance from anyone claiming to have detected the issue.
+- Don’t choose options that say **Reset**, **Erase**, **Factory reset**, or **Reinstall and remove files** unless you’re fully sure you don’t need anything on the internal drive.
+- Don’t keep rebooting over and over “to see if it fixes itself” — if a drive is failing, repeated cycles can reduce recovery chances.
+- Don’t run random “miracle boot fix” tools found via ads/pop-ups.
+- Don’t plug in your backup drive “just to check” if you suspect malware/ransomware — keep backups disconnected.
 
 ## What to do now
-1. **Physically and digitally isolate the device.**
-   - **Disable Wi-Fi and unplug any Ethernet cables immediately.**
-   - **Turn off Bluetooth and disconnect any active VPN sessions.**
-   - **Unplug any unfamiliar USB drives or peripherals.**
+1. **Stabilise and capture what you’re seeing (for support and warranty).**
+   - Photograph the screen and write down the exact wording and any error code.
+   - Note what changed just before (update, power cut, new drive, drop/spill).
 
-2. **Record observable details of the compromise.**
-   - **Take a photograph of the login screen showing the exact name of the new account.**
-   - **Note the date and time you first observed the account.**
-   - **Write down any other unusual symptoms, such as new desktop icons or unexpected software.**
+2. **Disconnect anything that could confuse booting (or get harmed).**
+   - Unplug USB drives, memory cards, external SSD/HDDs, docking stations, and non-essential peripherals.
 
-3. **Secure your primary accounts from a separate, trusted device.**
-   - **Change your primary email password using a phone or different computer.**
-   - **Update credentials for banking, government services, and password managers.**
-   - **Review multi-factor authentication (MFA) settings and use the "sign out of all sessions" feature where available.**
+3. **Do the simplest safe boot check.**
+   - Restart once with only power + keyboard/mouse.
+   - If your computer offers a boot-device menu, confirm it’s trying to boot from the internal drive (not USB/network).
 
-4. **Escalate to your organisation if the device is managed.**
-   - **Contact your workplace or school IT helpdesk immediately if the device is not personal.**
-   - **State clearly that an unauthorised local administrator account has appeared.**
-   - **Follow their specific incident response protocols before attempting any local scans.**
+4. **If Windows asks for a BitLocker recovery key, pause.**
+   - Don’t guess or brute-force.
+   - Retrieve the key via your Microsoft account (personal device) or your organisation/IT admin (work/school device), then continue only when you have it.
 
-5. **Initiate an offline security scan.**
-   - **On Windows, use Microsoft Defender Offline to scan the system before the OS fully loads.**
-   - **Use a separate, clean device to create a bootable rescue USB if your primary antivirus fails to run.**
-   - **Keep the device disconnected from the internet throughout the entire scanning process.**
+5. **Use built-in repair tools before anything destructive.**
+   - **Windows:** in the recovery menu, choose **Troubleshoot → Advanced options → Startup Repair** (wording may vary). Prefer automatic repair over reset/reinstall.
+   - **Mac:** if you see a flashing folder with a question mark, start macOS Recovery and run **Disk Utility → First Aid** on the startup disk first.
 
-6. **Report the incident to the appropriate national body.**
-   - **In England, Wales, or Northern Ireland, use the Report Fraud service online at reportfraud.police.uk or call 0300 123 2040.**
-   - **In Scotland, call Police Scotland on 101 or contact the Cyber and Fraud Centre Scotland on 0800 1670 623.**
-   - **Use the NCSC Cyber Incident Signposting Service (CISS) if you are unsure which agency has jurisdiction.**
+6. **If repair isn’t clearly working and you care about the files, switch to “data-first mode.”**
+   - Stop trying fixes that might write to the internal drive (reinstalling, resetting, partition/boot commands).
+   - Plan to copy files off the internal drive using a cautious approach (for example, a reputable technician or data-recovery provider; if you’re doing it yourself, aim to avoid actions that modify the disk and stop if you’re unsure).
 
-7. **Prepare for a full system recovery.**
-   - **Assume the operating system is untrustworthy if the account was created maliciously.**
-   - **Back up essential documents and photos only, avoiding any executable files or applications.**
-   - **Perform a full factory reset or "wipe and reload" from official installation media.**
+7. **If you think this could be malware/ransomware (only if there were signs):**
+   - Disconnect from Wi-Fi/Ethernet.
+   - Keep backup drives unplugged and don’t restore backups yet.
+
+8. **If it’s under warranty or you may need consumer help, preserve your position.**
+   - Keep receipts and your photos/error codes.
+   - Contact the seller/manufacturer support with the exact wording and what you already tried.
+   - If the issue relates to **paid digital content** (e.g., a purchased OS/app/update) that’s faulty, UK digital-content rights can apply in some situations; for **hardware faults**, your retailer/warranty route is usually the practical first contact.
 
 ## What can wait
-- You do not need to identify the specific individual or "hacker" responsible for the account.
-- You do not need to determine the exact vulnerability used to create the account before securing your financial data.
-- You do not need to decide on a permanent replacement device immediately; isolation is the priority.
+- You don’t need to decide today whether to reinstall the OS, replace the drive, or replace the computer.
+- You don’t need to run advanced command-line repairs while panicked.
+- You don’t need to reconnect backups or re-enable syncing immediately.
 
 ## Important reassurance
-Seeing an unknown administrator account is a standard indicator of a potential security event, and your reaction of caution is appropriate. By isolating the device and moving your password management to a secondary trusted device, you significantly limit the potential for further data loss or financial harm.
+This screen is common after updates, power interruptions, wrong boot settings, or a failing drive. Slowing down and choosing data-first steps is often what prevents permanent loss.
 
 ## Scope note
-This guide provides first-step stabilization for personal or small-business users experiencing a suspected device compromise. It does not cover deep forensic analysis, corporate disaster recovery, or legal proceedings regarding data breaches.
+These are first steps to avoid irreversible mistakes and get you to a safe next decision point (repair, recovery, or data retrieval). If the disk is failing or encrypted, specialist help may be needed.
 
 ## Important note
-This information is for general guidance and does not constitute professional technical or legal advice. If you suspect your identity or financial details have been stolen, contact your bank and the relevant UK authorities immediately. Managed devices should always be handled according to your employer's specific security policies.
+This guide is general information, not professional IT, legal, or data-recovery advice. If you’re unsure whether an option will erase data, treat it as risky and pause until you can confirm.
 
 ## Additional Resources
-- https://support.microsoft.com/en-gb/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5
+- https://support.microsoft.com/en-gb/topic/-an-operating-system-wasn-t-found-error-when-booting-windows-2c149e3a-dc37-0322-4d79-336f3888906b
+- https://support.microsoft.com/en-gb/windows/startup-repair-85deb0b9-fa3d-44a3-a3d0-d0f1515c2c9b
 - https://support.microsoft.com/en-gb/windows/windows-recovery-environment-0eb14733-6301-41cb-8d26-06a12b42770b
+- https://support.microsoft.com/en-gb/windows/windows-startup-settings-1af6ec8c-4d4a-4b23-adb7-e76eef0b847f
 - https://support.apple.com/en-gb/102601
-- https://support.apple.com/en-gb/102655
-- https://support.google.com/chromebook/answer/1080595?hl=en-GB
+- https://www.ncsc.gov.uk/section/respond-recover/ml-ransomware-attack
+- https://www.citizensadvice.org.uk/consumer/phone-internet-downloads-or-tv/problem-with-an-app-software-or-download/
+- https://commonslibrary.parliament.uk/faulty-goods-digital-content-services-2/

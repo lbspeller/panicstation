@@ -1,109 +1,89 @@
----
+﻿---
 title: "What to do if… you receive an official notice that your benefits may be stopped due to an investigation"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - "benefits investigation notice"
-  - "notice of adverse action"
-  - "benefits may be terminated"
-  - "benefits may be stopped"
-  - "benefits termination letter"
-  - "benefits suspension investigation"
-  - "fraud investigation benefits"
-  - "overpayment investigation notice"
-  - "snap investigation letter"
-  - "medicaid investigation notice"
-  - "unemployment benefits investigation"
-  - "benefits stopped suddenly"
-  - "appeal benefits decision"
-  - "request a fair hearing"
-  - "keep benefits during appeal"
-  - "agency verification request"
-  - "aid continuing request"
-  - "statutory benefit continuation"
-  - "notice of intent to terminate"
-  - "notice of planned action"
-  - "letter says benefits ending"
-  - "investigation into eligibility"
-  - "what do i do if my benefits are stopped"
-  - "what do i do if i get a benefit investigation letter"
-  - "what do i do if ssa stops my money"
-  - "what do i do if snap is investigated"
-  - "help i received a benefits termination notice"
-  - "help i might lose my medicaid"
-  - "help i need to appeal a benefit cut"
-  - "my benefits are under investigation"
-  - "my snap benefits are being stopped"
-  - "my social security is suspended"
-  - "smell of official mail"
-  - "official envelope from department of social services"
-  - "letter with deadline date"
-  - "notice of overpayment"
-  - "request for information letter"
-  - "failure to provide verification notice"
-last_reviewed: "2026-03-17"
+  - benefits investigation notice
+  - notice of adverse action
+  - benefits may be terminated
+  - benefits may be stopped
+  - benefits termination letter
+  - benefits suspension investigation
+  - fraud investigation benefits
+  - overpayment investigation notice
+  - snap investigation letter
+  - medicaid investigation notice
+  - unemployment benefits investigation
+  - ssa notice benefits stopped
+  - appeal benefits decision
+  - request a fair hearing
+  - keep benefits during appeal
+  - agency asked for verification
+  - benefits cut off suddenly
+  - respond to official notice
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive an official notice that your benefits may be stopped due to an investigation (USA)
 
 ## Short answer
-Identify the earliest deadline on the notice and file a written request for a "Fair Hearing" or "Appeal" immediately, specifically requesting "Aid Continuing" or "Continued Benefits" if you wish to keep receiving payments while the case is reviewed.
+Do two things immediately: **(1) protect your deadline by filing the appeal/hearing request right away**, and **(2) respond in writing to any verification request** so your case isn’t closed for “failure to respond.”
 
 ## Do not do these things
-- Don’t wait until the day of the deadline; many programs require action within 10 days of the notice date to keep current benefits active.
-- Don’t rely on a phone call as proof of appeal; many agencies require a written form or a documented online portal submission.
-- Don’t guess on forms if you are confused by investigation questions; state "I am providing the requested records" rather than speculating.
-- Don’t send original documents through the mail; use copies and obtain "Proof of Mailing" or a "Certificate of Mailing."
-- Don’t ignore "Verification Requests" even if you have already filed an appeal; missing a document deadline can cause a separate "failure to cooperate" termination.
+- Don’t ignore the notice or wait until you “feel ready.” Deadlines can be short and strict.
+- Don’t assume a phone call fixes it. If you call, follow up in writing with what you were told.
+- Don’t guess or embellish. If you’re unsure, say so and offer to provide records.
+- Don’t send original documents unless required and you can keep copies and proof of delivery.
+- Don’t assume you automatically get benefits while you appeal — **some programs allow it and some don’t**, and it may depend on requesting it quickly.
 
 ## What to do now
-1. **Locate the specific "Notice Date" and the "Effective Date" of the planned action.**
-   - Look for headers like **Notice of Adverse Action**, **Notice of Intent to Terminate**, or **Notice of Planned Action**.
-   - Note the **10-day window** (often starting from the notice date) which is the standard deadline for requesting continued benefits (Aid Continuing).
-   - Note the **60-day or 90-day window** which is usually the absolute deadline for filing any appeal at all.
+1. **Extract the deadline and the exact action the agency plans to take**
+   - On a note, write: **benefit program**, **date of notice**, **effective date of termination/reduction**, **appeal/hearing deadline**, and any **“respond by”** date for documents.
+   - Take photos/scans of every page (front/back). Keep the envelope if you have it.
 
-2. **File the appeal request using the exact terminology found in the notice.**
-   - Use the specific terms mentioned: **Fair Hearing**, **Administrative Review**, **Reconsideration**, or **Appellate Review**.
-   - Submit via the method that provides an immediate receipt (online portal screenshot, fax with confirmation page, or in-person with a date-stamped copy).
-   - If using mail, use **Certified Mail, Return Receipt Requested**.
+2. **File the request that matches the exact wording in your notice (even if you’re still gathering proof)**
+   - The notice may call it an **appeal**, **fair hearing**, **reconsideration**, or **review** — use the notice’s instructions.
+   - Submit it the way they accept (online portal, fax, mail, in-person). Keep confirmation, screenshots, fax reports, or certified mail receipts.
+   - In your request, keep it simple: your name, case number (if listed), what decision you disagree with, and “I request an appeal/hearing.”
 
-3. **Check the box or write the phrase "I request Aid Continuing" on your appeal form.**
-   - In most states, for SNAP, Medicaid, or Cash Assistance, you must explicitly ask to keep benefits during the appeal.
-   - For Social Security (SSI/SSDI), you typically have **10 days from receipt** (presumed 5 days after mailing) to request "Statutory Benefit Continuation."
-   - Be aware: If you lose the appeal, you may be required to pay back the benefits received during the "Aid Continuing" period.
+3. **Ask immediately whether you can keep benefits while the appeal is pending (if that would keep you safe)**
+   - Some programs (for example certain SNAP/Medicaid situations) can allow **continued benefits/services** if you request a hearing/appeal quickly and meet the program rules.
+   - Put the question/request in writing: “I request continued benefits/services pending appeal if I’m eligible, and written confirmation of what applies to my case.”
 
-4. **Verify if you are in a Medicaid Managed Care plan.**
-   - If your Medicaid is through a private company (Managed Care), you may be required to file an **Internal Plan Appeal** before you can request a State Fair Hearing.
-   - Check the notice for a "Final Adverse Benefit Determination" from your health plan.
+4. **Request your case file / evidence used (in writing)**
+   - Ask the agency for copies of the records and evidence they relied on, and what exactly is missing or disputed.
+   - This helps you avoid responding to vague accusations and keeps you focused on what matters.
 
-5. **Submit a written request for your "Case File" and the "Evidence Packet."**
-   - You have a legal right to see the evidence the agency is using for the investigation before the hearing occurs.
-   - Specifically ask for "any investigator reports, third-party data matches, or witness statements" relied upon by the agency.
+5. **Respond to verification requests with a “clean, minimal packet”**
+   - Send only what matches the notice (ID/residency, household, income, rent, medical coverage, work/search logs, etc.).
+   - Include a one-page cover note listing what you’re submitting and the date range of each document.
+   - Keep copies of everything you submit.
 
-6. **Provide a "Minimalist Response" to specific verification requests.**
-   - If the investigation is about household members, provide only the requested proof (like a lease or utility bill) without adding extra narrative.
-   - Include a cover sheet listing every document provided, the date, and your case number.
+6. **If the notice is from Social Security (SSA): use SSA’s appeal route right away**
+   - SSA notices commonly explain how to appeal; appeals are **generally due within 60 days** (the notice will state the deadline and how to count time).
+   - Continued payments are only available in **some** SSA situations and usually only if you act quickly — rely on what your specific notice says, and ask SSA to confirm in writing if unclear.
 
-7. **Contact a local Legal Aid or Disability Rights organization.**
-   - Search for **[Your State] Legal Aid** or the **National Disability Rights Network**.
-   - Tell them you have an "Adverse Action Notice" with a specific deadline.
+7. **Get help fast from a local benefits/legal aid service**
+   - Contact local **Legal Aid**, a disability rights organization, or a benefits advocacy group. Tell them: “termination due to investigation,” the program, and the deadline.
+   - If you’re at immediate risk of losing housing, food, or essential medical coverage, say that up front — many organizations triage urgent benefit cutoffs.
 
 ## What can wait
-- You do not need to prove your entire life history right now; focus only on the specific "disputed facts" named in the notice.
-- You do not need a lawyer to file the initial appeal; you can file the request yourself to stop the clock and find a lawyer later.
-- You do not need to pay any "Overpayment" amounts mentioned in the notice until the appeal process is finalized.
+- You do **not** need to craft a perfect narrative right now — you need to **file on time** and **submit what they asked for**.
+- You do **not** need to decide today whether to file complaints about agency conduct (that can come after your benefits are stabilized).
+- You do **not** need to send every document you’ve ever had — focus on the specific issue the notice names.
 
 ## Important reassurance
-Receiving an investigation notice does not mean you have committed fraud or that your benefits are gone forever. These notices are often triggered by automated systems (data matches) or missing paperwork. Filing an appeal on time is a procedural tool that pauses the agency's action and forces a human review of the facts.
+An “investigation” notice is frightening, but many are triggered by routine verification, data matches, or unclear paperwork. The most protective early actions are simple: **meet deadlines, keep everything in writing, and ask for the evidence and your file**.
 
 ## Scope note
-This guide covers the first 24–72 hours after receiving a notice of benefit termination or investigation. It is designed to prevent the immediate loss of income or health coverage. It does not cover the technical conduct of a hearing or long-term legal strategy.
+These are first steps to prevent avoidable loss of benefits and preserve your rights while you gather help and documents. Program rules vary by state and by benefit type, so getting local advice quickly can make a big difference.
 
 ## Important note
-Benefit rules, deadlines, and "Aid Continuing" eligibility vary significantly by state and by program (e.g., SNAP vs. Unemployment vs. SSI). Always follow the specific instructions and deadlines printed on the official notice you received. If you are at risk of losing essential medication or housing, inform your caseworker and legal aid immediately of the "imminent risk."
+This is general information, not legal advice. Deadlines, appeal steps, and whether benefits can continue during an appeal depend on the program and the specific notice. If you’re unsure, assume the earliest deadline applies and submit an appeal/hearing request immediately.
 
 ## Additional Resources
-- https://www.ssa.gov/manage-benefits/resolve-overpayment
-- https://www.ssa.gov/ssi/text-overpay-ussi.htm
-- https://www.ssa.gov/ssi/text-appeals-ussi.htm
-- https://www.ssa.gov/forms/ssa-561.html
-- https://www.ssa.gov/manage-benefits/resolve-overpayment/ask-us-waive-overpayment
+- https://www.ssa.gov/apply/appeal-decision-we-made
+- https://www.ecfr.gov/current/title-7/subtitle-B/chapter-II/subchapter-C/part-273/subpart-F/section-273.15
+- https://www.govinfo.gov/link/cfr/7/273?link-type=pdf&sectionnum=15&year=mostrecent
+- https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-431/subpart-E
+- https://www.law.cornell.edu/cfr/text/42/431.230

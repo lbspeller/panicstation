@@ -1,101 +1,98 @@
----
+﻿---
 title: "What to do if… an operating system update breaks your login and you cannot get into your device"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "os update broke login"
-  - "cant sign in after update"
-  - "locked out of device"
-  - "device stuck on login screen"
-  - "password not accepted after update"
-  - "pin not working after update"
-  - "biometrics stopped working"
-  - "windows cant log in"
-  - "mac cant log in"
-  - "android cant unlock"
-  - "iphone passcode not working"
-  - "account locked after attempts"
-  - "recovery mode sign in problem"
-  - "bitlocker recovery key needed"
-  - "filevault locked out"
-  - "update caused black screen login"
-  - "corporate device mdm lockout"
-  - "need to recover without data loss"
-  - "afraid of factory reset"
-  - "what do i do if update broke login"
-  - "help i cannot get into my laptop"
-  - "my password is not working after update"
-  - "what do i do if i am locked out of windows"
-  - "wrong password message after update"
-  - "forgotten passcode recovery 2026"
-  - "device unavailable lockout"
-  - "security lockout iphone help"
-  - "microsoft account recovery key"
-  - "mac recovery assistant terminal"
-  - "android factory reset recovery"
-last_reviewed: "2026-03-17"
+  - os update broke login
+  - cant sign in after update
+  - locked out of device
+  - device stuck on login screen
+  - password not accepted after update
+  - pin not working after update
+  - biometrics stopped working
+  - windows cant log in
+  - mac cant log in
+  - android cant unlock
+  - iphone passcode not working
+  - account locked after attempts
+  - recovery mode sign in problem
+  - bitlocker recovery key needed
+  - filevault locked out
+  - update caused black screen login
+  - corporate device mdm lockout
+  - need to recover without data loss
+  - afraid of factory reset
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… an operating system update breaks your login and you cannot get into your device (UK)
 
 ## Short answer
-Stop repeated login attempts to avoid permanent lockouts, disconnect external hardware, and use the device’s built-in "Recovery Environment" to uninstall the latest update or reset the password via your official cloud account (Microsoft, Apple, or Google).
+Stop repeated login attempts, keep the device powered, and use the device’s built-in recovery options to roll back the update or reset the login in an official way (without “bypass” tools). Only consider erasing/resetting once you’re sure you can restore your data.
 
 ## Do not do these things
-- Don’t keep guessing passwords or PINs — multiple failed attempts can trigger a security lockout timer or hardware encryption (BitLocker/FileVault) lock.
-- Don’t use third-party "password cracking" or "unlocker" software — these tools often contain malware or cause permanent data corruption on encrypted drives.
-- Don’t perform a factory reset immediately — this is an irreversible action that wipes all local data; keep it as a last resort.
-- Don’t cut the power during a repair or update rollback — sudden power loss can cause a "no boot" situation that requires a full OS reinstallation.
+- Don’t keep guessing passwords/PINs over and over — you can trigger timed lockouts or make recovery harder.
+- Don’t follow “bypass lock screen” videos, cracking tools, or paid unlock services — they can steal data or permanently lock/encrypt you out.
+- Don’t factory reset just to “see if it works” unless you’ve accepted that data on the device may be wiped.
+- Don’t sign into your accounts on a random borrowed public computer if you can avoid it (libraries, hotel kiosks) — use your own phone or a trusted device.
+- Don’t repeatedly power-cut during repairs (unless you’re deliberately entering the built-in recovery menu). Sudden interruptions can corrupt updates further.
 
 ## What to do now
-1. **Clear the login environment and check hardware.**
-   - **Disconnect all USB docks, external keyboards, or mice** to ensure a driver conflict isn't causing ghost keystrokes or layout issues.
-   - **Verify the keyboard layout** by clicking the language icon (e.g., ENG/UK) on the login screen to ensure it hasn't defaulted to a different region where symbols are mapped differently.
-   - **Use the "On-Screen Keyboard"** (found under the Accessibility/Ease of Access icon) if physical keys are not responding correctly.
+1. **Pause and reduce the lockout risk (30–60 seconds).**
+   - If you see a lock timer (“Try again in…”), stop and wait it out.
+   - If the login screen offers an alternative (password vs PIN vs biometrics), choose the **password** option if available (updates sometimes break PIN/biometrics temporarily).
 
-2. **Access the Recovery Environment for your specific platform.**
-   - **Windows 11/10:**
-     - **Hold the Shift key and select Power > Restart** from the login screen.
-     - **Navigate to Troubleshoot > Advanced Options > Uninstall Updates.**
-     - **Select "Uninstall latest quality update"** first; if the issue persists, try "Uninstall latest feature update."
-   - **Mac (Apple Silicon - M1/M2/M3/M4):**
-     - **Shut down the Mac**, then press and hold the Power button until "Loading startup options" appears.
-     - **Select Options > Continue**, then use the Utilities menu > Terminal and type `resetpassword` to open the Recovery Assistant.
-   - **Mac (Intel):**
-     - **Restart the Mac** and immediately hold Command (⌘) + R until the Apple logo appears.
-     - **Use the Utilities menu > Terminal** and type `resetpassword` if the standard reset options do not appear.
+2. **Do quick, low-risk checks that often fix “wrong password” symptoms.**
+   - Check **Caps Lock**, keyboard language/layout, and whether the cursor is in the right field.
+   - If you use an external keyboard/mouse/dock, disconnect it and try the built-in keyboard/trackpad (or swap to a simple wired keyboard if Bluetooth seems unreliable at boot).
 
-3. **Use on-device "Forgot" prompts for mobile devices.**
-   - **iPhone/iPad (iOS 17+):**
-     - **Enter the wrong passcode** until the "[Device] Unavailable" or "Security Lockout" screen appears.
-     - **Tap "Forgot Passcode?"** (bottom corner) and select "Start iPhone Reset" if you are connected to Wi-Fi/Cellular and have your Apple Account password.
-   - **Android (Modern versions):**
-     - **Sign in to "Find My Device"** on another trusted device to attempt a remote wipe/reset if the local screen is unresponsive.
+3. **Use the official recovery path for your device type (pick one).**
+   - **Windows PC**
+     - Enter **Windows Recovery Environment (WinRE)** and try:
+       - **Startup Settings → Safe Mode** (if available) to see whether you can sign in there, then restart normally, or
+       - **Uninstall Updates** (start with the **latest quality update**; only try the feature update option if needed), or
+       - **Startup Repair**.
+     - If you’re prompted for a **BitLocker recovery key**, don’t guess. Retrieve it from your Microsoft account (recovery keys/devices area) or, if it’s a work/school device, from your organisation/IT (often via a managed “company portal” route).
+   - **Mac**
+     - If you see a message that your account is locked after attempts, wait the stated time, restart, and try again.
+     - If you still can’t get in, start up in **macOS Recovery** and use Apple’s official password reset options. The on-screen steps can vary based on how your Mac is set up.
+   - **iPhone/iPad**
+     - If you see **iPhone/iPad unavailable** or **Security Lockout**, Apple’s official options involve **erasing and resetting** the device (which removes local data). Depending on what’s shown on screen, you may be able to erase using your **Apple Account** credentials, or you may need to connect to a computer and use **Recovery Mode** to restore.
+     - Before you erase, make sure you can sign in to your Apple Account afterwards (activation) and that you have a backup you expect to restore.
+   - **Android phone/tablet**
+     - If you genuinely can’t unlock it, Google’s official guidance is that you’ll need to **erase** the device to set it up again and create a new screen lock.
+     - If possible, use Google’s **Find Hub / Find My Device** service to erase it remotely. After erasing, you’ll need your Google Account password to use the device again, and restores depend on what was backed up.
 
-4. **Retrieve mandatory recovery keys from official vaults.**
-   - **For Windows BitLocker:** Access your Microsoft Account via another device (laptop/phone) at `account.microsoft.com/devices/recoverykey` to find the 48-digit key required to unlock the drive in Recovery Mode.
-   - **For Mac FileVault:** Locate the recovery key you were prompted to save or print during setup; if you chose to store it with Apple, use the Apple Account reset route.
+4. **Protect your accounts while you’re locked out (from a trusted device).**
+   - Prioritise regaining access to the account that controls the device (Microsoft/Apple/Google) using its official recovery route.
+   - If you suspect compromise, only change the account password if you’re confident you can still pass sign-in/recovery checks (for example you still have your trusted number/device or backup codes).
 
-5. **Engage UK-specific technical or corporate support.**
-   - **Contact your employer’s IT Service Desk** if the device is managed by an organisation (MDM); they can often push an "Unlock" command or provide a bypass code that you cannot generate yourself.
-   - **Consult the manufacturer's UK support site** (e.g., Apple UK, Microsoft Support UK) for 2026-specific firmware issues related to local regional updates.
+5. **If it’s a work/school device, stop and escalate early.**
+   - Contact your IT/service desk before attempting resets, “uninstalls”, or recovery actions that could break encryption/management (BitLocker, MDM, corporate login policies).
+
+6. **If you might need a repair shop, prepare proof now (without wiping).**
+   - Note the device model/serial number (from the casing/box/receipt if you can’t access Settings/About).
+   - In the UK, if you need hands-on help under warranty, start with the **manufacturer’s UK support** or your retailer’s support route so you don’t accidentally reduce support options by using unofficial tools.
 
 ## What can wait
-- You do -not- need to decide whether to buy a new device or pay for a repair service yet.
-- You do -not- need to worry about losing your cloud-synced data (Photos, iCloud, OneDrive, Google Drive), as this remains safe in the cloud regardless of the local device state.
-- You do -not- need to update your password on all other accounts until you have stabilized the primary device.
+- You do **not** need to decide today whether to reinstall the OS, replace the device, or “start fresh”.
+- You do **not** need to contact everyone about “lost data” until you know whether you can roll back the update or recover the login.
+- You do **not** need to sort out a perfect backup strategy right now — focus on getting back in safely first.
 
 ## Important reassurance
-Login failures after updates are frequently caused by a temporary "handshake" error between the security chip (TPM/T2) and the operating system. This does not necessarily mean your data is gone or that your password is "wrong." Using the "Uninstall Update" or "Recovery Assistant" paths often restores access without any data loss.
+This is a common failure mode: updates can break sign-in components, PIN/biometric handling, or trigger encryption prompts even when your password is correct. There are legitimate recovery paths, and taking a careful, official route is the best way to avoid making the problem irreversible.
 
 ## Scope note
-This guide provides first-step stabilization only. If the "Uninstall Update" process fails or the recovery key is missing, you may require a full system restore or professional hardware assessment.
+These are first steps only — once you regain access (or confirm you can’t), the next stage is deciding whether to roll back, reinstall, restore from backup, or get supported repair help.
 
 ## Important note
-This information is for general guidance and does not constitute professional technical or security advice. Success depends on your specific device encryption settings and backup status. Always verify your identity through official manufacturer portals (Microsoft, Apple, or Google).
+This guide provides general information, not legal, security, or technical professional advice. Device states vary (encryption, management profiles, backup status). When unsure, choose the least destructive option first and use official recovery tools.
 
 ## Additional Resources
-- https://support.microsoft.com/en-gb/windows/account-protection-in-the-windows-security-app-7e467a24-c86b-49af-8ef2-fb74bc17a68a
-- https://support.microsoft.com/en-gb/windows/windows-10-notification-you-re-not-receiving-security-updates-d1757026-2364-41fb-8802-ea443fdb1522
+- https://support.microsoft.com/en-gb/windows/windows-recovery-environment-0eb14733-6301-41cb-8d26-06a12b42770b
+- https://support.microsoft.com/en-gb/windows/how-to-uninstall-a-windows-update-c77b8f9b-e4dc-4e9f-a803-fdec12e59fb0
+- https://support.microsoft.com/en-gb/windows/find-your-bitlocker-recovery-key-6b71ad27-0b89-ea08-f143-056f5ab347d6
 - https://support.apple.com/en-gb/102633
-- https://support.apple.com/en-gb/118574
+- https://support.apple.com/en-gb/118430
 - https://support.google.com/android/answer/7663172?hl=en-GB
+- https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/always-back-up-your-most-important-data

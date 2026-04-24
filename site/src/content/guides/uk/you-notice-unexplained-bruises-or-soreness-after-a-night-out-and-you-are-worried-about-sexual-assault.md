@@ -1,89 +1,74 @@
----
+﻿---
 title: "What to do if… you notice unexplained bruises or soreness after a night out and you are worried about sexual assault"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "unexplained bruises after night out"
-  - "soreness after night out"
-  - "woke up bruised and confused"
-  - "memory gap after drinking"
-  - "blackout and worried"
-  - "think i was assaulted"
-  - "not sure if consent happened"
-  - "possible drink spiking"
-  - "feeling drugged after night out"
-  - "woke up in unfamiliar place"
-  - "underwear or clothes missing"
-  - "unexplained injuries after party"
-  - "pain after sex but unsure"
-  - "hazy night out concerns"
-  - "shock numbness after night out"
-  - "worried about sexual contact"
-  - "bruising on arms legs torso"
-  - "after clubbing feel unsafe"
-  - "cant remember getting home"
-  - "worried about sexual assault"
-  - "unexplained bruises"
-  - "unexplained soreness"
-  - "worried about sexual assault uk"
-  - "sexual assault support uk"
-  - "bruises after night out"
-  - "soreness after night out"
-  - "unexplained bruises after night"
-  - "unexplained soreness after night"
-  - "notice unexplained bruises"
-  - "notice unexplained soreness"
-  - "worried about assault"
-  - "night out sexual assault"
-  - "help i have unexplained bruises"
-  - "help i have unexplained soreness"
-  - "what do i do if i have unexplained bruises"
-  - "what do i do if i have unexplained soreness"
-last_reviewed: "2026-03-17"
+  - unexplained bruises after night out
+  - soreness after night out
+  - woke up bruised and confused
+  - memory gap after drinking
+  - blackout and worried
+  - think i was assaulted
+  - not sure if consent happened
+  - possible drink spiking
+  - feeling drugged after night out
+  - woke up in unfamiliar place
+  - underwear or clothes missing
+  - unexplained injuries after party
+  - pain after sex but unsure
+  - hazy night out concerns
+  - shock numbness after night out
+  - worried about sexual contact
+  - bruising on arms legs torso
+  - after clubbing feel unsafe
+  - can't remember getting home
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… you notice unexplained bruises or soreness after a night out and you are worried about sexual assault (UK)
 
 ## Short answer
-Get to a safe place and contact a specialist Sexual Assault Referral Centre (SARC) or urgent medical care as soon as possible. You do not need to decide whether to report the incident to the police right now to receive medical help or support.
+Get to a safe place and contact specialist sexual-violence support and/or urgent medical care as soon as you can. You do not have to decide about reporting to police right now.
 
 ## Do not do these things
-- Do not force yourself to mentally reconstruct the entire night if it causes distress or panic.
-- Do not wash, shower, or change your clothes if you want to keep the option of a forensic exam open.
-- Do not brush your teeth, eat, or drink if you suspect oral contact may have occurred.
-- Do not delete any digital evidence such as taxi receipts, GPS history, or messages from the night.
-- Do not assume you cannot get help because you were drinking or have gaps in your memory.
-- Do not confront anyone you suspect while you are alone or feeling unstable.
+- Do not force yourself to “figure it out” alone by replaying the night over and over.
+- Do not confront anyone you suspect while you’re alone or still in shock.
+- Do not delete messages, photos, or travel receipts from the night if you may want options later.
+- Do not blame yourself or assume you “must be sure” before getting help.
+- Do not delay urgent medical care if you have significant pain, bleeding, injuries, or you feel unwell.
 
 ## What to do now
-1. **Find a safe environment immediately.** If you are still out or in an unfamiliar location, go to a trusted friend's home or a public place where you feel secure.
-2. **Call 999 if you are in immediate danger or have serious injuries.** This includes heavy bleeding, severe pain, difficulty breathing, or if you suspect you have been poisoned or drugged and feel physically unwell.
-3. **Contact a Sexual Assault Referral Centre (SARC) for confidential advice.** SARCs provide medical care and can store forensic evidence even if you are undecided about reporting to the police.
-   - **In England or Wales:** Find your local SARC via the NHS website or call the 24/7 Rape and Sexual Abuse Support Line on **0808 500 2222**.
-   - **In Scotland:** Call the National Sexual Assault Self-Referral Phone Service 24/7 on **0800 148 8888** (available if the incident was within the last 7 days).
-   - **In Northern Ireland:** Contact The Rowan (Regional SARC) 24/7 on **0800 389 4424**.
-4. **Seek urgent medical assessment for physical symptoms today.** If you have genital soreness, discharge, unusual bleeding, or injuries like a head bump or bruising to the neck, go to A&E or contact NHS 111 (NHS 24 in Scotland on 111).
-5. **Preserve physical evidence if you are able to do so.** If you have changed clothes, place the items worn during the night into a clean paper bag (or a clean plastic bag if paper is unavailable) and do not wash them.
-6. **Mention "spiking" clearly if you suspect your drink was tampered with.** Medical staff can prioritize specific tests that are time-sensitive, usually within 24 to 72 hours depending on the substance.
-7. **Write down basic "anchor points" of the night.** Note the names of venues, people you were with, and the last time you remember feeling in control, but do not feel pressured to write a full statement.
+1. **Get to safety and support.** If you’re with someone you trust, ask them to stay with you. If you’re in immediate danger or need urgent medical help, **call 999**.
+2. **Switch to a safer way to communicate.** Move somewhere private. If you’re worried someone can access your phone/accounts, keep messages simple and avoid logging into extra accounts right now.
+3. **Contact a Sexual Assault Referral Centre (SARC).** SARCs can provide confidential medical care, support, and options whether or not you want to involve police.
+4. **Use the right route for where you are in the UK (pick one):**
+   - **England/Wales:** You can usually contact your nearest SARC directly to arrange care.
+   - **Scotland:** You can **self-refer to SARCS by phone 24/7** (the national self-referral line).
+   - **Northern Ireland:** The regional SARC is **The Rowan** (24/7 service).
+5. **Get urgent medical advice today if you’re in pain or feel unwell.** If you have significant pain, bruising, genital soreness, bleeding, vomiting, faintness, confusion, or possible head injury: go to **A&E**. If it’s urgent but not life-threatening, you can also use **111** for urgent NHS advice and direction to the right service (in Scotland, this is NHS 24 on 111).
+6. **If you think your drink may have been spiked or you were drugged, say that clearly.** Ask the clinician/SARC what testing or documentation is appropriate (some options can be time-sensitive).
+7. **Make a quick “memory snapshot.”** In notes or on paper: where you were, who you were with, when you last remember feeling OK, where you woke up, and what you noticed (bruises/soreness/clothing). Keep it brief.
+8. **If you may want the option of a forensic exam later (only if you want):** avoid washing if you can, and keep any clothing/bedding from the night in a **clean, dry bag** (paper if you have it; otherwise any clean bag). If you’ve already washed or changed, you can still get help—don’t let that stop you.
+9. **Reach confidential emotional support (optional but often helpful).** If you’re in **England or Wales**, the **24/7 Rape and Sexual Abuse Support Line** can listen and help you think through options without pressure.
 
 ## What can wait
-- You do not need to decide today if you want to pursue a criminal investigation or go to court.
-- You do not need to explain what happened to friends, family, or your employer right now.
-- You do not need to define exactly what happened before you are allowed to access support.
-- You do not need to worry about "proving" your bruises were caused by an assault before speaking to a professional.
+- You do not need to decide right now whether it “counts,” whether to report to police, or what you want to happen next.
+- You do not need to contact the venue, friends from the night, or anyone you suspect today unless it helps your immediate safety.
+- You do not need to write a detailed account or collect proof yourself before getting medical/support help.
 
 ## Important reassurance
-Feeling confused, numb, or having "blackouts" are common responses to trauma or substances. Not having a clear memory does not mean your concerns are invalid. SARCs and support lines are staffed by professionals who are trained to help you without judgment, regardless of the circumstances of your night out.
+Not remembering clearly, freezing, or feeling confused is common after trauma and/or possible intoxication. Bruises and soreness can have different causes—but your worry is enough reason to get specialist support and medical care. You deserve help that is calm, confidential, and on your terms.
 
 ## Scope note
-This guide provides first-step stabilization and direction to official UK support services. It does not replace medical diagnosis, legal advice, or long-term therapeutic support.
+This is first-steps-only guidance to help you stabilise, get safe support, and keep options open. Later decisions (medical follow-up, reporting, workplace/education support) can be made with specialist help when you feel steadier.
 
 ## Important note
-If you are under 18 (or under 16 in Scotland), different safeguarding procedures may apply when you contact services. Emergency medical needs always take priority over forensic evidence collection.
+This guide is general information, not medical, legal, or investigative advice. If you are in immediate danger or need urgent medical attention, call 999. If you are unsure what to do, contacting a SARC (or the England/Wales 24/7 support line if applicable) is a safe first move.
 
 ## Additional Resources
 - https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
-- https://www.nhs.uk/service-search/sexual-health-services/find-a-rape-and-sexual-assault-referral-centre/
-- https://www.gov.uk/report-rape-sexual-assault
-- https://rapecrisis.org.uk/get-help/it-happened-recently/
-- https://www.victimsupport.org.uk/crime-info/types-crime/rape-and-sexual-assault/
+- https://247sexualabusesupport.org.uk/
+- https://www.gov.uk/government/news/new-24-7-support-service-for-victims-of-rape-launched
+- https://www.nhsinform.scot/turn-to-sarcs/
+- https://therowan.hscni.net/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/

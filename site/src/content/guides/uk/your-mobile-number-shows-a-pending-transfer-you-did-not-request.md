@@ -1,96 +1,83 @@
----
+﻿---
 title: "What to do if… your mobile number shows a pending transfer you did not request"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "phone missing"
-  - "lost phone unexpected location"
-  - "find my device wrong place"
-  - "find my phone showing someone's house"
-  - "phone moved on map"
-  - "track my phone showing different street"
-  - "what do i do if my phone is missing"
-  - "what do i do if my phone shows in a different city"
-  - "what do i do if find my device is wrong"
-  - "what do i do if i lost my phone and it is moving"
-  - "help i lost my phone and someone has it"
-  - "help i think my phone was stolen"
-  - "help i cannot find my device"
-  - "my phone is in an unexpected place"
-  - "my phone is showing at a random address"
-  - "my android is missing"
-  - "my iphone is showing elsewhere"
-  - "burning smell from phone"
-  - "phone screen frozen on map"
-  - "red dot on find my map"
-  - "phone tracking location jumping"
-  - "phone location incorrect"
-  - "phone location inaccurate"
-  - "phone stolen recovery uk"
-  - "lost mobile liability window"
-  - "imei block uk"
-  - "sim card bar uk"
-  - "unexpected place phone tracking"
-  - "find my device phone missing"
-  - "missing phone find my device"
-last_reviewed: "2026-03-17"
+  - mobile number pending transfer
+  - phone number porting scam
+  - unauthorised number transfer
+  - sim swap warning text
+  - pac request you did not make
+  - number port-out fraud
+  - phone account takeover
+  - lost mobile service suddenly
+  - unexpected pac code message
+  - mobile number hijacked
+  - someone porting my number
+  - mobile provider transfer pending
+  - sms codes intercepted risk
+  - bank texts not arriving
+  - account recovery by sms risk
+  - urgent stop number transfer
+  - porting request not mine
+  - sim change not requested
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your mobile number shows a pending transfer you did not request (UK)
 
+# What to do if… your mobile number shows a pending transfer you did not request (UK)
 ## Short answer
-Isolate the device and your mobile number immediately by using a secondary device to remotely lock the handset and calling your network provider to bar the SIM and block the IMEI. Do not attempt to travel to or confront the location shown on the map.
+Treat this as urgent: contact your mobile network provider immediately and tell them you have an unauthorised port/transfer pending, and you need it stopped and your account locked down.
 
 ## Do not do these things
-- Do not travel to the location shown on the map to attempt a recovery.
-- Do not confront anyone you suspect has the device.
-- Do not click links in SMS or email "found phone" notifications; these are often phishing attempts to steal your cloud credentials.
-- Do not "Remove from Account" or "Unlink" the device from your Apple or Google account, as this disables anti-theft locks.
-- Do not enter your passwords or PINs into the device if it is returned to you by a stranger until you have verified it has not been tampered with.
+- Don’t click links or call back numbers in the “transfer pending/PAC” message unless you independently find your provider’s official contact details.
+- Don’t share one-time passcodes (OTP), PAC codes, account PINs, or security answers with anyone who contacts you first.
+- Don’t “wait to see what happens” if the transfer is pending — delays can make it harder to reverse.
+- Don’t rely on SMS-based login codes right now for important accounts if you can avoid it.
+- Don’t factory reset your phone or delete messages before you’ve taken a few notes/screenshots of what you’re seeing.
 
 ## What to do now
-1. **Access "Find My" (Apple) or "Find My Device" (Android) from a secondary trusted device immediately.**
-   - Select the option to "Mark as Lost" or "Secure Device" to lock the screen with a passcode.
-   - Set a custom message on the screen with an alternative contact number.
-   - If the device contains highly sensitive data and you have no expectation of recovery, select "Erase Device" (but do not remove it from your account afterward).
-2. **Call your mobile network provider within 24 hours of the loss.**
-   - Ask the agent to "Bar the SIM" to prevent unauthorized calls, texts, and data usage.
-   - Ask the agent to "Block the Handset" (IMEI blocking) to make the device unusable on all UK networks.
-   - Request your 15-digit IMEI number from the agent; you will need this for the police report.
-   - Confirm that your liability for unauthorized charges is capped at £100 (standard for most UK networks if reported within 24 hours).
-3. **Change the passwords for your primary accounts in this specific order.**
-   - 1. Email account associated with the phone (to prevent password resets).
-   - 2. Apple ID or Google Account.
-   - 3. Banking, payment apps, and digital wallets.
-   - 4. Social media and messaging apps (WhatsApp / Signal).
-4. **Report the loss or theft to the police to obtain a Crime Reference Number (CRN).**
-   - Call **101** or use the local police online reporting tool.
-   - Provide the IMEI number and the specific location/time shown on your tracking map.
-5. **Report any suspected fraud or cybercrime to the national reporting centre.**
-   - **England, Wales, and Northern Ireland:** Use the "Report Fraud" service at `reportfraud.police.uk` or call 0300 123 2040.
-   - **Scotland:** Contact the "Cyber and Fraud Hub Scotland" at 0808 281 3580 or call Police Scotland on 101.
-6. **Contact your bank directly if you use mobile banking or contactless payments.**
-   - Ask them to monitor for unusual activity and specifically mention that the device associated with the app is missing.
-7. **Forward any suspicious "found phone" text messages to 7726.**
-   - This free service allows your network provider to investigate and block phishing origins.
+1. **Call your mobile network provider using an official route.**  
+   Use the number on your provider’s website/app, on a recent bill, or on the back of your SIM packaging (not the text you received). Say: **“Unauthorised port/transfer pending — stop it, add a block/lock, and require strong ID checks.”**
+2. **Ask your provider to do specific protective actions while you’re on the call.**  
+   Request (wording varies by provider):  
+   - **Cancel/stop the pending port/transfer** and confirm it’s been stopped.  
+   - **Lock your account** (extra security note, porting block, number transfer lock, or “no port” marker).  
+   - **Reset/replace any account PIN/passphrase** and remove unknown email addresses/contacts.  
+   - Confirm whether a **PAC** was issued or requested and **invalidate it** if possible.
+3. **If your service has already dropped, switch to a different way to communicate.**  
+   Use Wi-Fi calling (if it still works), a trusted friend’s phone, or a landline to keep making calls while you stabilise the account. If you can, **go to a provider shop with photo ID** and ask for urgent account recovery and a new SIM (if appropriate).
+4. **Protect your email first (it’s the key to most account resets).**  
+   From a device you still control: change your email password, sign out of other sessions, and turn on a non-SMS second factor (authenticator app, passkey, or security key if you have one).
+5. **Contact your bank(s) and any account that uses SMS codes.**  
+   Tell them: **“My mobile number may be being ported/sim-swapped; SMS codes may be intercepted.”** Ask them to add a note and apply extra verification, and to check for suspicious transfers, new payees, or password resets.
+6. **Make a brief incident record.**  
+   Screenshot the “pending transfer/PAC” notice, note the time/date, what your phone showed (e.g., “No Service”), and any unusual calls/texts/emails. This helps if you need to prove timeline to your provider/bank.
+7. **Report it through the UK reporting route for fraud.**  
+   - **England, Wales, Northern Ireland:** report to **Report Fraud**.  
+   - **Scotland:** report to **Police Scotland (101 or online reporting)**.
+8. **If you received suspicious texts/emails connected to this, report them (using official reporting addresses).**  
+   - Forward scam/suspicious texts to **7726** (free).  
+   - Forward suspicious emails to **report@phishing.gov.uk**.
 
 ## What can wait
-- Filing an insurance claim (this usually requires the CRN first).
-- Purchasing a replacement handset or permanent SIM.
-- Re-securing long-term 2FA (Two-Factor Authentication) settings once a new device is secured.
-- Analyzing why the location was "unexpected" (it may be a result of GPS drift or network-cell approximation).
+- You don’t need to figure out who did this or “how they got your details” right now.
+- You don’t need to post publicly about it or warn everyone immediately — focus on stopping the transfer and securing key accounts first.
+- You don’t need to replace your phone today unless your provider/bank specifically identifies device compromise.
+- Longer-term monitoring steps can wait until your number is stable again.
 
 ## Important reassurance
-It is normal to feel a sense of urgency or panic when a device appears in an unfamiliar location. Location tracking can often be imprecise by several hundred metres or represent a "last seen" point rather than a live one. Taking the physical steps to lock the device and bar the SIM is the most effective way to prevent financial or data loss, regardless of where the phone is physically located.
+This situation is common enough that mobile providers and banks have processes for it. Feeling panicked makes sense — but the most effective move is simply to get your provider to **stop the transfer and lock the account**, then secure email and banking.
 
 ## Scope note
-This guide provides first-step stabilization for a missing device with active tracking. It does not cover long-term data recovery, hardware repair, or legal proceedings against third parties.
+These are first steps to stop the transfer, reduce immediate account takeover risk, and create a basic record. If money was taken or accounts were accessed, you may need additional help from your bank and the relevant reporting bodies.
 
 ## Important note
-This information is for guidance only and does not constitute legal or technical advice. Jurisdiction-specific processes for fraud reporting and network liability are subject to change by providers and regulators. If you believe you are in immediate physical danger, call 999.
+This guide is general information, not legal, financial, or investigative advice. If anything feels unclear when you contact your provider or bank, ask them to repeat back what protections they have applied and what to expect next.
 
 ## Additional Resources
-- https://www.ofcom.org.uk/phones-and-broadband/switching-provider/switching-mobile
-- https://www.ofcom.org.uk/make-a-complaint/complain-about-mobile-phone-or-internet-services/changing-provider
 - https://www.reportfraud.police.uk/
-- https://www.cifas.org.uk/services/identity-protection/victim-of-impersonation
-- https://www.ncsc.gov.uk/guidance/data-breaches
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
+- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/7726-reporting-scam-texts-and-calls
+- https://www.scotland.police.uk/advice/internet-safety/cybercrime/
+- https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/campaigns/fraud/cyber-protect_protect-yourself-from-sim-swap-fraud.pdf

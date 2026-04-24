@@ -1,105 +1,104 @@
----
+﻿---
 title: "What to do if… you overwrite a key file and the “previous version” option is missing"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "overwritten file"
-  - "saved over a file"
-  - "replaced the wrong file"
-  - "lost earlier version"
-  - "no previous versions available"
-  - "version history missing"
-  - "previous version option missing"
-  - "restore previous version"
-  - "recover old version"
-  - "autosave version"
-  - "cloud sync overwrite"
-  - "onedrive overwrite"
-  - "sharepoint overwrite"
-  - "google drive version history"
-  - "dropbox version history"
-  - "time machine restore file"
-  - "file history restore"
-  - "document reverted wrong"
-  - "key work file overwritten"
-  - "accidental overwrite"
-  - "help i saved over a document"
-  - "help i overwritten my work"
-  - "what do i do if i saved over a file"
-  - "what do i do if i replaced a folder"
-  - "my file version history is empty"
-  - "my previous versions are gone"
-  - "smell of burning computer"
-  - "audible clicking from hard drive"
-  - "visible sync error icons"
-  - "file date modified updated"
-last_reviewed: "2026-03-17"
+  - overwritten file
+  - saved over a file
+  - replaced the wrong file
+  - lost earlier version
+  - no previous versions available
+  - version history missing
+  - previous version option missing
+  - restore previous version
+  - recover old version
+  - autosave version
+  - cloud sync overwrite
+  - onedrive overwrite
+  - sharepoint overwrite
+  - google drive version history
+  - dropbox version history
+  - time machine restore file
+  - file history restore
+  - document reverted wrong
+  - key work file overwritten
+  - accidental overwrite
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you overwrite a key file and the “previous version” option is missing (UK)
 
 ## Short answer
-Stop saving changes and pause cloud syncing immediately, then use the web-browser interface of your storage provider (OneDrive, Google Drive, or Dropbox) to check for server-side version history.
+Stop making changes and stop syncing right now, then try cloud/app version history and backups before anything overwrites the last recoverable copy.
 
 ## Do not do these things
-- Don't keep the file open or continue clicking "Save" to test if it works—every save operation can overwrite blocks of data that were previously recoverable.
-- Don't rename or move the file within a synced folder, as this creates new sync "events" that can clear the version cache.
-- Don't run "disk cleaners" or "optimizer" software, which may mark the "deleted" data blocks of your old version as safe to be overwritten by new data.
-- Don't restore a backup directly over the existing file; always choose "Restore as a copy" or "Restore to a new location" to avoid losing the current version.
-- Don't attempt to re-install the application (e.g., Word or Excel) in an attempt to find the file; this does not help and increases disk activity.
+- Don’t keep opening and re-saving the file “to check” — each save can destroy recoverable data.
+- Don’t restore a version **over the file** until you’ve made a safe copy (use “restore a copy” where available).
+- Don’t rename/move lots of files in the same folder yet (it creates more disk activity and sync churn).
+- Don’t run “cleaners/optimisers,” reinstall apps, or try multiple recovery tools at random.
+- Don’t leave cloud sync running while you troubleshoot — it can propagate the overwrite everywhere.
 
 ## What to do now
-1. **Freeze the data state immediately.** 
-   - **Close the application** that performed the overwrite without saving again.
-   - **Pause cloud syncing** on your computer (right-click the OneDrive, Dropbox, or Google Drive icon in the taskbar) or disconnect from the internet to stop the "new" version from replacing the "old" version on other devices.
+1. **Freeze the situation (30 seconds):**
+   - Close the app that overwrote the file.
+   - If the file is in a synced folder (OneDrive/SharePoint/Google Drive/Dropbox), **pause syncing** (or disconnect from the internet temporarily) to stop the overwrite spreading.
 
-2. **Access your files via a web browser.** 
-   - **Log in to the web version** of your storage provider (e.g., onedrive.live.com or drive.google.com).
-   - **Check the "Version History"** by right-clicking the file in the browser; cloud providers often keep versions that the Windows "Previous Versions" tool cannot see.
-      - OneDrive Personal: generally keeps the last 25 versions for 30 days.
-      - Dropbox Plus/Family: keeps versions for 180 days (as of 2026).
-      - Google Drive: keeps non-Google format versions for 30 days or 100 versions.
+2. **Make a safe copy of the current file (without editing it):**
+   - Copy the overwritten file to a different location (ideally outside the sync folder, or onto an external drive/USB).
+   - Do not open or re-save that copy yet.
 
-3. **Check the provider’s Recycle Bin or Trash.** 
-   - **Navigate to the "Bin" or "Recycle Bin"** on the website; sometimes a "replaced" file is treated as a deletion of the old version and a creation of a new one.
+3. **Check cloud “trash/recycle bin” first (fast win):**
+   - In **OneDrive/SharePoint**, check the **Recycle bin** on the web.
+   - In **Google Drive**, check **Bin**.
+   - In **Dropbox**, check **Deleted files** (and then version history if needed).
 
-4. **Use "Files Restore" for mass overwrites (OneDrive/SharePoint only).** 
-   - **Select "Restore your OneDrive"** from the settings menu on the web interface if a large number of files were overwritten simultaneously.
-   - **Pick a point in time** (e.g., "Yesterday") to roll back the entire library to that state.
+4. **Check cloud version history (even if Windows “Previous versions” is missing):**
+   - **OneDrive / SharePoint:** right-click the file → **Version history**; restore an earlier version (or restore a copy if offered).
+   - If many files were impacted, look for **Restore your OneDrive** on the OneDrive website **if available** (this is commonly limited to recent history, such as the last 30 days, and feature access can depend on your account/subscription).
+   - **Google Drive:** for uploaded files, use **Manage versions**; for Google Docs/Sheets/Slides use **File → Version history** and restore.
+   - **Dropbox:** use **Version history** to roll back.
 
-5. **Search local application-specific recovery folders.** 
-   - **Navigate to the "AutoRecover" location** in your app settings (e.g., in Word: File > Options > Save > AutoRecover file location).
-   - **Look for .asd or .tmp files** with a timestamp prior to the overwrite.
+5. **If you’re on Windows and “Restore previous versions” is empty, check whether backups were ever enabled:**
+   - Right-click the *folder* that contained the file (or the drive) → **Restore previous versions** (this only works if File History/backup/shadow copies exist).
+   - If you have **File History** enabled, restore the file/folder from File History.
 
-6. **Check for File History or Time Machine backups.** 
-   - **Windows:** Search for "Restore your files with File History" in the Start menu; if it was turned on, you can browse a timeline of that specific folder.
-   - **Mac:** Open the folder where the file lived, then **open Time Machine** from the menu bar to see past states of that folder.
+6. **If you’re on a Mac: use Versions / Time Machine**
+   - In many apps: **File → Revert To → Browse All Versions** (prefer “restore a copy” if offered).
+   - If you use **Time Machine**, restore the earlier version from the backup.
 
-7. **Escalate to IT Support for work or school accounts.** 
-   - **Notify your IT administrator** immediately; they often have access to secondary backup tiers (like "Second-Stage Recycle Bins" in SharePoint) or snapshots that are invisible to end-users.
+7. **Check the app’s own recovery store (especially Office files):**
+   - In Microsoft Word/Excel/PowerPoint, use the app’s recovery options (e.g., Version History inside the app for cloud files, or “Recover Unsaved…”/AutoRecover where available).
+   - Save any recovered content immediately under a **new** filename in a **new** location.
 
-8. **Assess for personal data breaches (UK GDPR).** 
-   - **Determine if the lost data** includes personal information about others (customers, staff, or clients).
-   - **Document the incident** in an internal log, noting when it happened and what was lost.
-   - **Report to the ICO within 72 hours** if the loss of data poses a risk to the rights and freedoms of individuals.
-      - Note: Some sectors, such as trust service providers (eIDAS), must report within 24 hours.
+8. **If this is a work/school file, escalate early:**
+   - Contact your organisation’s **IT service desk** and say: “Key file overwritten; syncing paused; can you restore from backups/snapshots/version history?”
+   - If the file is in SharePoint/Teams/OneDrive for work, admins often have restore options you can’t see.
+
+9. **If the file contains personal data and this could be part of a personal data breach:**
+   - Start a simple incident log (what happened, when you noticed, what you paused/did).
+   - Follow your organisation’s route (manager + DPO/Information Governance/security).
+   - If it meets the threshold for reporting, UK GDPR requires reporting to the **ICO** without undue delay and within **72 hours** of becoming aware.
 
 ## What can wait
-- You do not need to investigate why the "Previous Versions" tab was missing or empty right now; focus entirely on recovery first.
-- You do not need to worry about fixing the errors in the newly recovered document immediately; simply securing any older copy is the priority.
-- You can delay deciding whether to pay for professional data recovery services until all built-in cloud and OS tools have been exhausted.
+- You do **not** need to decide now whether to use paid recovery software or a specialist service.
+- You do **not** need to “fix” the document right now — the priority is recovering *any* earlier copy.
+- You can postpone investigating why “previous versions” was missing until after you’ve tried restore routes.
 
 ## Important reassurance
-Overwrite errors are a standard occurrence in digital environments, particularly when using sync-enabled folders. The "Previous Versions" option in Windows is often hidden or disabled even when the cloud provider (OneDrive/Google/Dropbox) still holds a complete history of the file on their servers.
+This is a common, human mistake — especially with similar filenames and sync tools. “Previous versions” being missing in one place doesn’t mean there aren’t versions elsewhere (cloud history, app history, Time Machine/File History, or organisational backups).
 
 ## Scope note
-This guide provides first-step stabilization for digital data loss. It does not cover physical drive repair or forensic data recovery for hardware that has suffered mechanical failure.
+These are first steps to stop further loss and try the most common restore routes. If the file is business-critical or legally sensitive, the next step after stabilising is usually IT/admin support or a professional recovery service.
 
 ## Important note
-This information is for general guidance and does not guarantee data recovery. Success depends on your specific software settings, backup configurations, and the amount of time that has passed since the overwrite. If the data is of high legal or financial value, consider contacting a professional data recovery specialist before attempting further manual steps.
+This is general information, not legal, technical, or professional advice. Recovery success depends on where the file lives (local vs cloud), whether versioning/backups were enabled, and how much has been written/synced since the overwrite.
 
 ## Additional Resources
-- https://support.microsoft.com/en-gb/office/restore-a-previous-version-of-a-file-without-unwanted-changes-bdb2cafa-d588-475c-97d7-20e8b9949b84
 - https://support.microsoft.com/en-gb/office/restore-a-previous-version-of-a-file-stored-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893
-- https://support.microsoft.com/en-gb/office/recover-an-earlier-version-of-an-office-file-169cb166-e7e2-438e-8f39-9a8927828121
+- https://support.microsoft.com/en-gb/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15
+- https://support.microsoft.com/en-us/windows/backup-and-restore-with-file-history-7bf065bf-f1ea-0a78-c1cf-7dcf51cc8bfc
 - https://support.apple.com/en-gb/guide/mac-help/mh40710/mac
-- https://www.ncsc.gov.uk/collection/using-online-services-safely/back-up-critical-data
+- https://support.apple.com/en-gb/guide/mac-help/mh11422/mac
+- https://support.google.com/drive/answer/2409045?hl=en-GB
+- https://help.dropbox.com/delete-restore/version-history-overview
+- https://ico.org.uk/for-organisations/advice-for-small-organisations/personal-data-breaches/72-hours-how-to-respond-to-a-personal-data-breach/

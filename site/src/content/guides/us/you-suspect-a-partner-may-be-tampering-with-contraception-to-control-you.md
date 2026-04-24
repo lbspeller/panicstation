@@ -1,82 +1,72 @@
----
+﻿---
 title: "What to do if… you suspect a partner may be tampering with contraception to control you"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "partner tampering with contraception"
-  - "contraception sabotage help"
-  - "birth control sabotage symptoms"
-  - "reproductive control by partner"
-  - "partner control and pregnancy"
-  - "tampering with my pills"
-  - "help i think my partner is poking holes in condoms"
-  - "my partner is stealing my birth control"
-  - "what do i do if my partner hides my pills"
-  - "what do i do if my partner refuses condoms"
-  - "reproductive coercion safety plan"
-  - "stealthing sexual assault help"
-  - "condom removal without consent"
-  - "tampering with birth control ring"
-  - "tampering with contraceptive patch"
-  - "suspicious holes in condoms"
-  - "missing birth control pills"
-  - "partner interferes with contraception"
-  - "help i think my birth control was tampered with"
-  - "what do i do if i suspect contraception tampering"
-  - "confidential birth control usa"
-  - "secret contraception options"
-  - "hidden birth control for safety"
-  - "reproductive coercion signs"
-  - "signs of contraception tampering"
-  - "broken condom during sex"
-  - "unplanned pregnancy pressure"
-  - "forced pregnancy coercion"
-  - "interference with family planning"
-  - "partner sabotaging reproductive health"
-last_reviewed: "2026-03-17"
+  - partner tampering with contraception
+  - contraception sabotage
+  - birth control sabotage
+  - reproductive coercion
+  - forced pregnancy control
+  - condom tampering
+  - condom removal without consent
+  - pills missing or altered
+  - holes in condoms
+  - partner controls reproduction
+  - scared of pregnancy pressure
+  - worried about stealthing
+  - need emergency contraception
+  - discreet clinic help
+  - intimate partner coercion
+  - safety planning now
+  - private medical visit
+  - suspected birth control interference
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… you suspect a partner may be tampering with contraception to control you (USA)
 
 ## Short answer
-Prioritize your immediate safety and privacy, then seek confidential medical care at a Title X clinic or OB-GYN for emergency contraception or long-acting birth control while connecting with a domestic violence advocate for safety planning.
+Focus on safety and privacy first, then get confidential reproductive health care to protect against pregnancy/STIs and contact a domestic violence/sexual assault support service for help and safety planning.
 
 ## Do not do these things
-- Do not confront the partner or show them the tampered items if doing so could lead to physical harm or increased control.
-- Do not use shared devices, browsers, or phone plans to search for help if you believe your digital activity is being monitored.
-- Do not leave medical receipts, clinic brochures, or new medication where the partner can find them.
-- Do not wait for "proof" or a confirmed pregnancy before seeking support or medical advice.
-- Do not assume that deleting your browser history is sufficient; some monitoring software (stalkerware) may still track your activity.
+- Do not confront them or accuse them if that could escalate your risk.
+- Do not rely on shared devices/accounts for help-seeking if you think they monitor you (shared phone plan, shared Apple/Google account, shared laptop).
+- Do not leave birth control, condoms, receipts, or clinic paperwork where they can find or track it.
+- Do not feel you have to “prove it” before getting medical care or support.
+- Do not assume you can fully erase internet or phone history; attempts to “clean up” can sometimes increase risk if it alerts them.
 
 ## What to do now
-1. **Move to a safer location where you can speak or search privately.** If you are in immediate physical danger, call **911** or go to a public place like a library, grocery store, or a trusted friend’s home.
-2. **Use a safer device for all communications and research.** Avoid using shared computers or phones on a shared family plan; instead, use a device the partner cannot access, such as a work phone, a library computer, or a friend's device.
-3. **Contact a Title X family planning clinic or a trusted medical provider immediately.** **Tell the staff you are concerned about reproductive coercion or birth control sabotage to ensure your visit remains confidential.**
-   - Ask for **Emergency Contraception (EC)** if there has been a risk in the last 3–5 days (time-sensitive).
-   - Discuss **Long-Acting Reversible Contraception (LARC)** options like an IUD or implant, which are difficult for a partner to see or interfere with.
-   - Request an **STI screen** if you suspect a condom was removed or damaged without your knowledge.
-4. **Call or text a specialist support service to create a safety plan.** **Advocates can help you navigate the risks of staying in or leaving a relationship where reproductive control is present.**
-   - **National Domestic Violence Hotline:** Call **1-800-799-SAFE (7233)**, TTY **1-800-787-3224**, or text **START** to **88788**.
-   - **RAINN (National Sexual Assault Hotline):** Call **1-800-656-HOPE (4673)** or text **HOPE** to **64673**.
-5. **Secure any untampered contraception in a hidden location.** **If it is safe to do so, move your birth control or condoms to a place the partner cannot access, such as a locked cabinet at work or with a trusted neighbor.**
-6. **Note your observations privately if you may want to report later.** **Keep a record of what you saw, such as physical damage to condoms or missing pills, in a digital or physical location the partner will never find.**
+1. **Get to a safer pause.** If you’re in immediate danger, call **911**. If you can, move somewhere you can think and communicate privately (outside, bathroom, friend’s place).
+2. **Use safer communications.** Prefer a phone/device they can’t access (trusted friend, work phone, library computer). If you must use your own device, treat it as possibly monitored and choose the lowest-risk option (for example, calling from a safer phone rather than messaging).
+3. **Protect yourself from pregnancy (confidential care).**
+   - Contact a **reproductive health clinic** (such as a local family planning clinic), an **OB-GYN**, or another trusted clinic and say you’re concerned about **reproductive coercion / birth control sabotage** and need confidential options.
+   - Ask about **emergency contraception** if there’s any chance of recent risk, and about a method that’s harder for a partner to interfere with.
+   - Ask for a **pregnancy test** plan (now and repeat if recommended).
+4. **Consider STI support if condom interference is possible.** A clinic can advise on **testing** and any time-sensitive preventive options that apply to you.
+5. **Get specialist support and safety planning (you can be unsure).**
+   - **National Domestic Violence Hotline (24/7): 1-800-799-SAFE (7233)**, or **text START to 88788**, or use online chat if that’s safer for you.
+   - **RAINN (National Sexual Assault Hotline, 24/7): 800-656-HOPE (4673)** or online chat.
+6. **Reduce immediate access.** If it’s safe, keep contraception/condoms and related items somewhere they can’t access (with a trusted person, a locked bag, or outside the home). Avoid changes that might alert them if that increases risk.
+7. **If you may want to report later:** you can privately note what you noticed and when (in a place they cannot access). Do not risk your safety to collect evidence.
 
 ## What can wait
-- You do not need to decide whether to end the relationship right now.
-- You do not need to file a police report or seek legal action immediately.
-- You do not need to have a perfect explanation; medical and advocacy professionals are trained to understand the nuances of coercion.
+- You do not have to decide right now whether to end the relationship, move out, or report to law enforcement.
+- You do not have to gather proof before getting care or speaking to an advocate.
+- You do not need to explain everything perfectly — you can say “I’m not sure, but I’m worried.”
 
 ## Important reassurance
-It is normal to feel confused, betrayed, or overwhelmed when you suspect a partner is overriding your reproductive choices. This behavior is a recognized form of abuse known as reproductive coercion. You are entitled to bodily autonomy and confidential healthcare, and there are systems in place specifically designed to support you without alerting your partner.
+It’s common to feel unsure, embarrassed, or frozen when someone may be controlling your reproductive choices. Getting help based on suspicion is valid, and confidential advocates and clinics deal with this often.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction actions. Ongoing safety and long-term health decisions should be managed with the support of a healthcare professional or a domestic violence advocate.
+These are first steps to stabilise, protect your health, and connect with specialist support. Longer-term decisions are best made with tailored help once you’re safer.
 
 ## Important note
-This information is for educational purposes and does not constitute legal or medical advice. Laws regarding "stealthing" and reproductive coercion vary by state. If you are in a crisis, contact emergency services or a national hotline immediately.
+This guide is general information, not medical or legal advice. If you’re in danger, call emergency services and seek urgent support.
 
 ## Additional Resources
+- https://www.thehotline.org/get-help/
 - https://www.thehotline.org/resources/reproductive-coercion/
-- https://www.womenslaw.org/about-abuse/forms-abuse/reproductive-abuse-and-coercion
-- https://www.loveisrespect.org/resources/what-is-reproductive-coercion/
-- https://www.thehotline.org/resources/types-of-abuse/
-- https://www.plannedparenthood.org/files/3613/9611/7697/IPV_and_Reproductive_Coercion_Fact_Sheet_2012_FINAL.pdf
+- https://rainn.org/help-and-healing/hotline/
+- https://www.cdc.gov/intimate-partner-violence/about/violence-and-pregnancy.html
+- https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/02/reproductive-and-sexual-coercion

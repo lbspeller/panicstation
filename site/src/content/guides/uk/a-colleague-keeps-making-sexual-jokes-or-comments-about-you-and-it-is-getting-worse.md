@@ -1,96 +1,75 @@
----
+﻿---
 title: "What to do if… a colleague keeps making sexual jokes or comments about you and it is getting worse"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "colleague sexual jokes"
-  - "sexual comments at work"
-  - "workplace sexual harassment"
-  - "unwanted sexual remarks"
-  - "sexualised banter escalating"
-  - "colleague making it worse"
-  - "sexual jokes about me"
-  - "sexist comments at work"
-  - "inappropriate comments colleague"
-  - "sexual harassment getting worse"
-  - "what do i do if a colleague makes sexual jokes"
-  - "what do i do if sexual comments are getting worse"
-  - "what do i do if a colleague targets me with jokes"
-  - "what do i do if i am sexually harassed at work"
-  - "help i am being targeted by sexual jokes"
-  - "help i feel unsafe because of sexual comments"
-  - "help i am worried about work retaliation"
-  - "help i need to report a colleague"
-  - "my colleague makes sexual comments"
-  - "my manager is ignoring sexual harassment"
-  - "my work environment is hostile"
-  - "my colleague is escalating their behaviour"
-  - "smell of alcohol at work"
-  - "visible sexual gestures"
-  - "hearing sexual nicknames"
-  - "comments on body"
-  - "sexualized banter"
-  - "feeling frozen at work"
-  - "colleague sexual jokes"
-  - "jokes getting worse"
-  - "making sexual comments"
-  - "colleague comments"
-  - "sexual jokes UK"
-  - "reporting sexual jokes"
-  - "evidence of sexual comments"
-  - "workplace sexual jokes"
-last_reviewed: "2026-03-17"
+  - colleague sexual jokes
+  - sexual comments at work
+  - workplace sexual harassment
+  - unwanted sexual remarks
+  - sexualised banter escalating
+  - colleague making it worse
+  - being targeted at work
+  - sexual jokes about me
+  - sexist comments at work
+  - inappropriate comments colleague
+  - feeling unsafe at work
+  - worried about retaliation
+  - manager not taking seriously
+  - hr complaint about harassment
+  - formal grievance sexual harassment
+  - record of incidents
+  - harassment through messages
+  - boundary setting at work
+  - workplace dignity violated
+  - sexual harassment getting worse
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… a colleague keeps making sexual jokes or comments about you and it is getting worse (UK)
 
 ## Short answer
-Prioritise your immediate safety by moving to a public or supervised area, then begin a private log of all incidents to support a formal or informal report to your employer. From 6 April 2026, sexual harassment is a qualifying disclosure under UK whistleblowing law, protecting you from retaliation when reporting.
+Get yourself to a calmer, safer position at work, then start a simple record and raise it with your employer (informally or formally). If you feel at risk right now, prioritise immediate safety and getting support on-site.
 
 ## Do not do these things
-- Do not feel required to participate in sexualised banter or "laugh along" to maintain workplace harmony.
-- Do not agree to meet the individual in private or outside of work hours to resolve the issue yourself.
-- Do not delete any evidence including emails, Slack/Teams messages, or text messages that contain the comments.
-- Do not assume you must wait for a "major incident" to occur before you are entitled to employer protection.
-- Do not ignore the behaviour in the hope that it will stop on its own if it is already escalating.
+- Do not feel you have to “laugh it off” or respond in kind to keep the peace.
+- Do not meet the person alone “to clear the air” if the behaviour is escalating or you feel uneasy.
+- Do not delete messages, emails, or chat logs that show what’s happening.
+- Do not send long, emotional messages while you’re in distress — keep any communication short and factual.
+- Do not assume it has to be “really serious” before you can report it.
 
 ## What to do now
-1. **Relocate to a safer area immediately if you feel targeted.** If you are currently near the individual, move to a shared space, a different floor, or a position where you are visible to other colleagues or managers. 
-2. **Create a private record of the escalating behaviour.** **Document the date, time, specific location, and the exact words used in the jokes or comments as soon as possible.**
-   - Include the names of any witnesses who were present or may have overheard the remarks.
-   - Note the impact the behaviour is having on your work or your feeling of safety.
-   - Keep this log on a personal device or in a private physical notebook, not on a shared work drive.
-3. **Preserve digital evidence without violating company IT policies.** **Save copies of relevant emails, screenshots of messages, or call logs to a secure, private location.**
-   - If using a work computer, follow internal rules for "exporting" data to ensure you do not trigger security alerts. 
-   - Forwarding emails to a personal account may be against policy; if so, take photographs of the screen with a personal phone.
-4. **Issue a single, clear boundary statement if you feel safe to do so.** **State clearly that the sexual comments or jokes are unwelcome and must stop immediately.**
-   - Example: "I find those sexual comments inappropriate; please stop making them."
-   - Once said, disengage from the conversation and move away; you do not need to explain why or engage in a debate.
-5. **Report the situation through your employer's established channels.** **Choose the route that feels most secure: your line manager, a different manager, HR, or a designated "Dignity at Work" contact.**
-   - If your manager is the one making the comments, go directly to HR or a more senior executive.
-   - Explicitly state: "I am making a report of sexual harassment."
-6. **Request immediate protective measures to prevent further contact.** **Ask for practical changes such as a shift change, a seating relocation, or a temporary change in reporting lines while the matter is reviewed.**
-   - Employers have a legal duty to take reasonable steps to prevent sexual harassment from continuing.
-7. **Contact Acas for confidential advice on workplace rights and processes.** **Call the Acas helpline to discuss how to frame a formal grievance or to understand the 2026 whistleblowing protections.**
-   - This can help you prepare if you feel your employer is not taking the escalating behaviour seriously.
+1. **Create a safer pause today.** If you can, move your work location, stay near other people, and avoid being alone with them (especially in enclosed spaces). If you feel in immediate danger, leave the area and get help from a manager/security.
+2. **Start a simple incident record (2 minutes).** Note: date/time, what was said/done (exact words if you can), where it happened, who was present, and how it affected your ability to work. Keep it somewhere they cannot access (personal phone/notes, or a private folder).
+3. **Preserve any written evidence safely.** Keep copies of relevant emails, chat messages, meeting invites, or notes **in a way that follows your workplace rules**. If you’re unsure what’s allowed, ask HR (or another trusted manager) how to preserve records. Avoid doing anything that could be seen as accessing systems you should not.
+4. **Use one clear boundary statement (only if you feel safe).** In person or in writing: “Stop making sexual jokes/comments about me. It’s not welcome.” Then disengage. You do not owe debate, explanation, or repeated warnings.
+5. **Report it using your workplace route — as soon as you can.** Choose the option that feels safest:
+   - **Informal**: tell your line manager, HR, or a named harassment/dignity contact.
+   - **If your manager is involved or unsafe**: go to another manager, HR, your whistleblowing/ethics channel (if you have one), or your union rep.
+   - **Formal**: raise a **grievance** if it’s too serious to handle informally or it’s not stopping.
+6. **Ask for immediate, practical protections.** Examples: different seating/rota, a different reporting line, not being scheduled alone with them, and a named contact for updates. Keep requests specific and workable.
+7. **If you fear backlash, say so plainly.** When you report: “I’m concerned about retaliation or being treated badly for raising this.” Ask what will be done to prevent this and how issues will be handled if it happens.
+8. **Use external support if you feel stuck or overwhelmed.** If you need help understanding options or how to word things, contact **Acas** for confidential advice on workplace processes.
 
 ## What can wait
-- You do not need to decide today whether you will take the case to an Employment Tribunal.
-- You do not need to have "absolute proof" like a recording to initiate an internal investigation.
-- You do not need to worry about being "difficult" or "ruining the office culture" by asking for the behaviour to stop.
-- You do not need to confront the person again if you have already done so or if it feels unsafe to do so.
+- You do not need to decide right now whether to make a police report.
+- You do not need a perfect timeline or “proof beyond doubt” before raising it.
+- You do not need to confront them again if you’ve already made it clear or it feels unsafe.
+- You do not need to make big job decisions today (resign, transfer, “go public”).
 
 ## Important reassurance
-It is normal to feel anxious, confused, or "frozen" when workplace boundaries are repeatedly crossed, especially when the behaviour is escalating. UK law requires employers to protect staff from this specific type of harm. Reporting it is a legitimate step to reclaim your safety and professional focus; you are not "making a scene" by seeking protection.
+What you’re describing can be deeply unsettling — especially when it escalates — and it’s normal to feel anxious, angry, frozen, or unsure what “counts.” You’re allowed to take this seriously and to ask your workplace to stop it and protect you.
 
 ## Scope note
-This is first-step guidance only to help you stabilize your situation and begin the reporting process. UK employers are under a "preventative duty" (enhanced in 2026) to stop sexual harassment. If the behaviour involves physical contact, threats, or criminal acts, contact the police.
+This is first-step guidance to stabilise and reduce harm. Employers in the UK are expected to take reasonable steps to prevent sexual harassment at work, and to act when concerns are raised. If the behaviour continues, if your employer does not respond appropriately, or if you feel unsafe, you may need specialist support (union/HR advisers, legal advice, or safeguarding support).
 
 ## Important note
-This guide provides general information on UK workplace procedures and is not a substitute for legal advice. From 6 April 2026, reporting sexual harassment provides specific "whistleblower" protections from detriment. If you are in immediate physical danger, call 999.
+This guide is general information, not legal advice. If you are in immediate danger or have been threatened or assaulted, prioritise getting to safety and contacting emergency services.
 
 ## Additional Resources
-- https://www.acas.org.uk/sexual-harassment
 - https://www.acas.org.uk/sexual-harassment/if-youve-been-sexually-harassed-at-work
-- https://www.citizensadvice.org.uk/work/discrimination-at-work/dealing-with-discrimination-at-work/checking-if-its-discrimination/if-youre-being-harassed-or-bullied-at-work/
-- https://www.citizensadvice.org.uk/law-and-courts/discrimination/taking-action-about-discrimination/taking-action-about-harassment/
+- https://www.acas.org.uk/sexual-harassment
+- https://www.acas.org.uk/grievance-procedure-step-by-step
+- https://www.gov.uk/workplace-bullying-and-harassment
+- https://www.gov.uk/government/news/new-protections-from-sexual-harassment-come-into-force
 - https://www.equalityhumanrights.com/guidance/sexual-harassment-and-harassment-work-technical-guidance

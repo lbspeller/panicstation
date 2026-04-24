@@ -1,109 +1,93 @@
----
+﻿---
 title: "What to do if… someone files a payment app dispute against you and your funds are put on hold"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "payment app dispute against me"
-  - "funds put on hold"
-  - "money on hold in app"
-  - "account balance frozen"
-  - "payment reversed dispute"
-  - "chargeback against me"
-  - "buyer opened a dispute"
-  - "unauthorised payment claim"
-  - "item not received dispute"
-  - "not as described dispute"
-  - "p2p payment dispute"
-  - "mobile payment dispute"
-  - "payment under review"
-  - "account limited by app"
-  - "help i have a payment hold"
-  - "my money is stuck in app"
-  - "my balance is negative"
-  - "what do i do if someone disputes a payment"
-  - "help i am being scammed by a buyer"
-  - "what do i do if my funds are held"
-  - "help my account is restricted"
-  - "smell of scam in payment app"
-  - "see notification of payment dispute"
-  - "hear alert for transaction reversal"
-  - "feel panic about frozen funds"
-  - "notice unexpected account hold"
-  - "dispute over bank transfer"
-  - "dispute over digital goods"
-  - "dispute over service provided"
-  - "app says money is pending"
-  - "payment app balance zeroed"
-  - "transaction id case number"
-  - "held funds in digital wallet"
-  - "dispute deadline approaching"
-  - "wrongly accused of fraud in app"
-last_reviewed: "2026-03-17"
+  - payment app dispute against me
+  - funds put on hold
+  - money on hold in app
+  - account balance frozen
+  - payment reversed dispute
+  - chargeback against me
+  - buyer opened a dispute
+  - unauthorised payment claim
+  - item not received dispute
+  - not as described dispute
+  - p2p payment dispute
+  - mobile payment dispute
+  - payment under review
+  - account limited by app
+  - dispute deadline evidence
+  - transaction id case id
+  - seller proof of delivery
+  - service provided dispute
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… someone files a payment app dispute against you and your funds are put on hold (UK)
 
 ## Short answer
-Keep all communication and evidence within the app’s official dispute center, respond before the stated deadline, and isolate the affected account from your essential daily spending.
+Keep everything inside the app’s official dispute process, respond before the deadline with clear evidence, and secure your account so the hold doesn’t escalate.
 
 ## Do not do these things
-- Don’t attempt to "settle" the dispute by sending money outside the app (via bank transfer, cash, or crypto) while the in-app hold is active.
-- Don’t delete any communication logs, receipts, postage records, or service agreements.
-- Don’t miss the response deadline provided by the app, even if you are still waiting for their customer support to answer your questions.
-- Don’t try to empty the account or bypass the hold by moving other funds, as this often triggers permanent account bans.
-- Don’t contact the other party to argue or use language that could be interpreted as intimidation.
+- Don’t refund or “settle” outside the app (bank transfer, cash, gift cards, crypto) while a dispute is open.
+- Don’t move money around trying to “outrun” the hold (it can trigger longer limits or extra reviews).
+- Don’t delete chats, listings, receipts, delivery proof, or emails.
+- Don’t miss the app’s response deadline, even if you’re waiting for support to reply.
+- Don’t share login codes, screenshots of security prompts, or your full banking details with the other party.
+- Don’t contact the other party in a way that could be read as harassment or intimidation.
 
 ## What to do now
-1. **Document the exact status of the hold.**  
-   **Take screenshots of the dispute notification, including the Case ID, Transaction ID, the specific amount held, and the "respond by" date.**
+1. **Capture exactly what’s happened.**  
+   Screenshot the dispute/hold notice showing the case ID, transaction ID, reason (if shown), amount, dates, and any “respond by” deadline.
 
-2. **Identify the specific type of claim being made.**  
-   **Check if the dispute is categorized as "unauthorised transaction," "item not received," or "significantly not as described."** If the app does not specify, use the in-app help function to ask: "Is this an internal app dispute or a bank-initiated chargeback?"
+2. **Confirm what kind of dispute it is.**  
+   Check whether it’s **unauthorised payment**, **item not received**, **not as described**, or a **card chargeback** handled via the payer’s bank/card. If it’s not clear, ask support (in-app): “Is this an in-app dispute or a card/bank chargeback, and what is my evidence deadline?”
 
-3. **Secure your login credentials immediately.**  
-   **Change your password and ensure two-step verification (2FA) is active to prevent the other party from gaining access if the dispute is part of a wider takeover attempt.** Review "linked devices" in your settings and log out of any sessions you do not recognize.
+3. **Secure your account immediately.**  
+   Change your password, enable 2-step verification (if available), and review linked email/phone, connected bank/cards, and recent logins/devices. Remove anything you don’t recognise and contact support through the in-app route.
 
-4. **Export all primary transaction evidence.**  
-   **Download the original receipt, the listing or invoice, and the full message history related to this specific transaction.**
-   - Do not edit or crop these documents.
-   - Ensure the buyer’s details and the date are clearly visible.
+4. **Export and preserve your transaction records.**  
+   Download/export the receipt/statement for the disputed payment (and any linked invoice, order confirmation, or booking record). Keep originals, not edited versions.
 
-5. **Compile delivery or completion proof.**  
-   **Gather the specific evidence required for the claim type:**
-   - For physical goods: Use the tracking number and a PDF of the delivery confirmation showing the recipient's postcode.
-   - For services: Collate signed work orders, timestamped photos of the completed work, or message logs where the buyer confirmed they were satisfied.
+5. **Gather “decision-grade” evidence matched to the claim.**  
+   - What was agreed (listing/invoice/terms + the message thread confirming it).  
+   - Proof you delivered/provided the service (tracking/delivery confirmation, signed collection, time-stamped photos, appointment logs).  
+   - Any proof the payer accepted or confirmed completion (messages, completion confirmation, follow-up).  
+   Keep it factual and organised.
 
-6. **Submit your response through the formal Dispute Centre.**  
-   **Upload your evidence and provide a factual timeline of the transaction using a short list of bullets.** Focus on dates and actions (e.g., "12 March: Item posted via tracked delivery").
+6. **Respond in the app’s dispute centre as soon as you can.**  
+   Upload the key evidence and write a short timeline (3–7 bullets: date → event → which attachment proves it). Avoid long narratives or accusations.
 
-7. **Escalate to a formal complaint if the app misses regulatory deadlines.**  
-   **Use the provider’s official "Make a Complaint" link if they do not review your evidence or refuse to explain the hold.** In the UK, payment service providers must provide a final response to complaints about payment services within 15 business days (extendable to 35 business days only in exceptional circumstances).
+7. **If support won’t explain the hold or won’t review your evidence, escalate through complaints.**  
+   Use the provider’s formal complaints route (not just live chat) and keep the complaint reference. For complaints about payment services/e-money, firms are typically expected to resolve within **15 business days** (up to **35** in exceptional circumstances). If you get a final response you disagree with, or the firm misses the deadline, you can usually take it to the Financial Ombudsman Service.
 
-8. **Report the incident if you suspect criminal fraud.**  
-   **Contact Report Fraud (online at reportfraud.police.uk or by calling 0300 123 2040) if you believe the dispute is a "friendly fraud" scam or part of a coordinated theft.** 
-   - If you are in Scotland, call Police Scotland on **101**.
-   - Keep the reference number to provide to the payment app.
+8. **If you suspect fraud, make a report you can reference.**  
+   - **England, Wales, Northern Ireland:** report via Action Fraud/Report Fraud.  
+   - **Scotland:** report to Police Scotland on **101**.  
+   Keep any reference number and share it with the payment app if asked.
 
-9. **Redirect your essential payments.**  
-   **Move any upcoming automated payments (like rent or utility bills) to a different, unaffected bank account if the hold has created a negative balance.** Notify priority creditors immediately if a payment will be delayed by the hold.
+9. **If the hold threatens essentials, reduce immediate fallout today.**  
+   Contact urgent payees (rent, utilities, council tax, childcare) and ask for a short extension due to a temporary payment hold. Use other legitimate funds for essentials rather than trying to route money through the held account.
 
 ## What can wait
-- Deciding whether to take the other party to Small Claims Court.
-- Closing the payment app account entirely (wait until the dispute is resolved and funds are released).
-- Writing a lengthy emotional rebuttal to the buyer’s claims.
-- Changing your overall business model or how you accept payments.
+- Deciding whether to pursue the other party directly (letters, small claims, solicitors).
+- Writing a long “point-by-point” rebuttal (a short evidence-led timeline is usually stronger).
+- Changing how you accept payments in future.
+- Closing your account or opening replacements (do this later, once you’ve downloaded records and the dispute outcome is clear).
 
 ## Important reassurance
-A temporary hold is a standard automated response to a dispute and does not mean the app has already decided against you. Following the formal process and providing "decision-grade" evidence (tracking numbers and clear contracts) is the most effective way to have the hold lifted.
+A hold during a dispute is common and doesn’t automatically mean you’ve done something wrong. Your best leverage is calm documentation, a fast in-app response, and keeping everything inside the official process.
 
 ## Scope note
-This guide covers first-step stabilization for funds held due to a transaction dispute. It does not cover long-term debt recovery or disputes involving physical safety.
+These are first steps to stabilise the situation, protect your account, and give you the best chance of a fair review. Next steps vary by app, dispute type, and whether a card issuer/bank is involved.
 
 ## Important note
-This information is for guidance only and does not constitute legal or financial advice. Payment apps operate under specific terms of service and UK financial regulations (DISP rules) which can change. If the held amount is significant, consider consulting a qualified legal professional or the Citizens Advice Bureau.
+This is general information, not legal or financial advice. Payment apps have their own rules and timelines, and some disputes are driven by card/bank processes outside the app. If the amount is large or you’re at risk of missing essential payments, consider getting independent advice.
 
 ## Additional Resources
-- https://www.paypal.com/uk/brc/article/customer-disputes-claims-chargebacks-bank-reversals
-- https://www.paypal.com/uk/brc/article/funds-availability
-- https://www.paypal.com/uk/cshelp/article/how-do-i-respond-to-%E2%80%98item-not-received%E2%80%99-and-%E2%80%98significantly-not-as-described%E2%80%99-disputes-help1083
-- https://www.paypal.com/uk/legalhub/paypal/seller-protection
-- https://www.paypal.com/uk/cshelp/article/evidence-to-provide-for-chargebacks-a-guide-for-sellers-help1103
+- https://www.financial-ombudsman.org.uk/businesses/resolving-complaint/before-get-involved
+- https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
+- https://handbook.fca.org.uk/handbook/DISP/1/6.html
+- https://www.reportfraud.police.uk/
+- https://www.scotland.police.uk/guidance/scams-and-frauds/

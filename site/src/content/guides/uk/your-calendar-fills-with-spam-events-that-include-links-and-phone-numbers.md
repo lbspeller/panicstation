@@ -1,98 +1,94 @@
----
+﻿---
 title: "What to do if… your calendar fills with spam events that include links and phone numbers"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "your cloud account shows many files moved to trash without you doing it"
-  - "cloud account files in trash"
-  - "cloud storage files deleted"
-  - "files moved to bin"
-  - "google drive files trashed"
-  - "onedrive recycle bin full"
-  - "dropbox deleted files"
-  - "icloud recently deleted files"
-  - "cloud sync deleted my files"
-  - "shared folder files missing"
-  - "unauthorized file deletion"
-  - "account takeover cloud storage"
-  - "hacked cloud storage account"
-  - "suspicious cloud account activity"
-  - "restore files from trash"
-  - "lots of files missing suddenly"
-  - "someone accessed my cloud account"
-  - "cloud account compromised"
-  - "accidental bulk delete in cloud"
-  - "files disappeared from cloud drive"
-  - "cloud backup deleted"
-  - "help i have cloud account files in trash"
-  - "what do i do if my cloud account shows files moved to trash"
-  - "help my cloud account shows many files moved to trash"
-  - "what do i do if your cloud account shows files moved to trash"
-  - "smell of burning plastic"
-  - "unauthorized sign in notification"
-  - "new device added to account"
-  - "security settings changed email"
-  - "files moved to bin suddenly"
-  - "unexpected bin activity"
-last_reviewed: "2026-03-17"
+  - calendar spam events
+  - google calendar spam
+  - iphone calendar spam
+  - outlook calendar spam
+  - spam invites with links
+  - calendar events with phone numbers
+  - random appointments on my calendar
+  - unwanted calendar notifications
+  - subscribed calendar i didnt add
+  - meeting invites i never accepted
+  - calendar phishing
+  - spam calendar subscription
+  - suspicious calendar entries
+  - fake virus warning calendar
+  - events added without permission
+  - calendar account compromised
+  - stop automatic calendar invites
+  - remove spam from calendar app
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your calendar fills with spam events that include links and phone numbers (UK)
 
+# What to do if… your calendar fills with spam events that include links and phone numbers (UK)
 ## Short answer
-Isolate all synced devices immediately to stop further deletions and secure the account using a new, unique password and two-step verification. Most major providers (Google, Apple, Microsoft) purge items from the bin after 30 days, making the first 72 hours critical for recovery.
+Don’t click, call, or respond to the events. Remove the source (a subscribed calendar, invite auto-add setting, or connected app), then secure the account that owns the calendar.
 
 ## Do not do these things
-- Don't empty the bin or "delete forever" any items until the cause is identified.
-- Don't leave multiple devices synced and connected while investigating.
-- Don't click links in "security alert" emails that arrive immediately after the event.
-- Don't share screen access with anyone claiming to be "support" over the phone.
-- Don't assume the cloud account is the only target; check the linked recovery email.
+- Do not click any links in the event description or attachments.
+- Do not call any phone numbers shown in the events.
+- Do not “Accept”, “Maybe”, or “Decline” spam invites just to make them go away (that can signal you’re an active target).
+- Do not install “support”, “cleaner”, or “antivirus” apps suggested by the event.
+- Do not assume deleting visible events fixes it if new ones keep appearing—remove what’s generating them.
 
 ## What to do now
-1. **Pause or quit all cloud sync applications on every device.**
-   - **Immediately disconnect the internet or shut down computers and phones that are actively syncing.**
-   - **Check the taskbar or menu bar for the cloud icon (Google Drive, OneDrive, or Dropbox) and select "Pause syncing" or "Quit."**
+1. **Stop interacting and take one screenshot.**  
+   Capture a single spam event showing the **calendar name/source** (useful if workplace IT asks, or you later report it).
 
-2. **Access the account only via a secure, web-based browser session.**
-   - **Log in to the official website for your provider (e.g., drive.google.com or onedrive.live.com) to assess the state of the "Bin" or "Recycle Bin."**
-   - **Check the "Activity" or "Recent" tab to see when the deletions occurred and which device or user initiated them.**
+2. **Work out what’s adding them (pick the closest match).**
+   - **You see a calendar you don’t recognise** in your calendar list → likely a **subscribed spam calendar**.
+   - **They look like meeting invites from strangers** → your calendar may be **auto-adding invitations**.
+   - **It started after installing/connecting something** → a **connected app/service** may have calendar access.
 
-3. **Secure the primary account and all active sessions.**
-   - **Change your password to a strong, unique phrase that is not used anywhere else.**
-   - **Select the "Sign out of all other sessions" or "Manage devices" option to revoke access for every device except the one you are currently using.**
-   - **Enable Two-Step Verification (2SV) using an authenticator app rather than SMS if possible.**
+3. **If you’re on iPhone/iPad (Apple Calendar / iCloud): remove the subscription/source.**
+   - In **Calendar**, open a spam event and tap **Unsubscribe from this Calendar** (or delete the subscribed calendar).
+   - Also check **Settings → Calendar → Accounts → Subscribed Calendars** and remove anything you don’t recognise.
+   - If you see **“Report Junk”** for an invite, you can use it (availability can vary by device/account).
 
-4. **Verify the security of your recovery email account.**
-   - **Check your email's "Sent" folder and "Forwarding" rules to ensure no unauthorized messages or auto-forwards were created.**
-   - **Change the password for the email account linked to your cloud storage.**
+4. **If you’re on Google Calendar: reduce what gets added, then remove what’s already there.**
+   - Use **Report as spam** if it’s available (this typically applies to events actually sent through Google Calendar; it may not appear for events created by other apps/providers).
+   - In Google Calendar settings, set **“Add invitations to my calendar”** so unknown senders don’t get added automatically (for example, only add when you respond / only if the sender is known).
+   - If you have a **“Subscribed calendars / Other calendars”** entry you don’t recognise, remove it.
 
-5. **Perform a batch restoration test.**
-   - **Select a single folder or a small group of 5-10 files from the bin and restore them.**
-   - **Monitor the account for several minutes to ensure the files do not move back to the bin automatically.**
-   - **If the files remain in place, proceed with restoring remaining data in manageable batches.**
+5. **If you’re on Outlook / Microsoft 365: turn off “events from email” and remove unknown calendars.**
+   - In **Outlook on the web / Outlook.com** calendar settings, turn **“Events from email”** off (or tighten it) so Outlook doesn’t create events automatically from messages.
+   - Remove any **unknown additional calendars** (subscriptions/shared calendars) that appeared around the time the spam started.
+   - If you’re getting lots of meeting-response clutter in Outlook desktop, you can also review the **“Automatically process meeting requests and responses…”** option (this is about handling responses, not a cure for spam calendars).
 
-6. **Report the incident based on the data type and your location.**
-   - **If money has been stolen or you are a victim of fraud, report to "Report Fraud" online (reportfraud.police.uk) or call 0300 123 2040.**
-   - **If you are in Scotland, report the incident to Police Scotland by calling 101.**
-   - **If the files contain personal data belonging to others (customers or employees), you must notify your organization's Data Protection Officer; organizations may need to report to the ICO within 72 hours.**
+6. **Secure the account behind the calendar (this prevents repeat attacks).**
+   - Change the account password (Google/Apple/Microsoft/email) and turn on **two-step verification**.
+   - Review **connected apps / third-party access** and revoke anything you don’t recognise (especially anything with calendar permissions).
+   - Check for unfamiliar **signed-in devices/sessions** and sign them out.
+
+7. **If you clicked, called, installed something, paid, or shared details: report and get help.**
+   - Forward suspicious **emails** to **report@phishing.gov.uk** and suspicious **texts** to **7726** (free).
+   - If you lost money or gave personal/financial details, report it to **Action Fraud** (and tell your bank/card provider promptly).
+   - If this is a work account, report to your organisation’s IT/security team.
 
 ## What can wait
-- You do not need to identify the exact malware or "hacker" identity right now.
-- You do not need to factory reset your hardware immediately if sync is paused.
-- You do not need to notify all contacts until you have confirmed if messages were sent from your account.
+- You don’t need to delete every spam entry right now if they keep regenerating—focus on removing the subscription/setting/app access that’s generating them.
+- You don’t need to decide whether your device is “infected” in this moment; calendar spam is often invite/subscription abuse rather than malware.
+- You don’t need to confront the sender or “unsubscribe” via any link inside the event.
 
 ## Important reassurance
-A mass move to the bin is often a sign of a sync error or a compromised password rather than a total loss of data. Because the files are currently in a "soft delete" state, they are usually recoverable within the first 30 days. Taking a moment to pause sync prevents the situation from becoming permanent.
+This is common and designed to provoke a quick, fearful reaction—especially when it includes phone numbers or “urgent” language. If you don’t engage and you remove the source (subscription/auto-add/app access), the flood usually stops.
 
 ## Scope note
-This guide provides first-step stabilization for personal or small-business cloud accounts. If you find evidence of a large-scale corporate breach or a Category 1-3 cyber incident as defined by the NCSC, you will require professional forensic IT support.
+These are first steps to stop the spam and reduce risk. If your account shows unfamiliar sign-ins or you shared passwords/payment details, you may need additional account recovery and fraud steps.
 
 ## Important note
-This information is for guidance and does not constitute legal or technical advice. Data recovery and reporting requirements under the UK GDPR or the Data (Use and Access) Act 2025 vary based on the nature of the data and the scale of the incident. Always use official government or provider portals for reporting and recovery.
+This is general information, not legal or professional advice. If you think an account is compromised, prioritise securing it (password + two-step verification + revoke access) and get help from your provider or workplace IT.
 
 ## Additional Resources
 - https://support.apple.com/en-gb/102444
-- https://support.google.com/calendar/answer/13155911?co=GENIE.Platform%3DDesktop&hl=en
-- https://support.google.com/calendar/answer/12790228?hl=en
-- https://support.google.com/calendar/answer/13159188?co=GENIE.Platform%3DAndroid&hl=en
-- https://www.ncsc.gov.uk/collection/phishing-scams
+- https://support.google.com/calendar/answer/13155911
+- https://support.google.com/calendar/answer/13159188
+- https://support.microsoft.com/en-gb/office/calendar-settings-in-outlook-on-the-web-12cba5a4-4f95-4d00-bfc3-b694aa67ac8f
+- https://support.microsoft.com/en-us/office/automatically-add-events-from-your-email-to-your-calendar-32e5cf0c-3e65-4870-9ff9-df3683d3fc97
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
+- https://www.reportfraud.police.uk/how-to-report-suspicious-activity/

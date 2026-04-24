@@ -1,92 +1,73 @@
----
+﻿---
 title: "What to do if… you notice someone repeatedly watching your drink and hovering when you set it down"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "someone watching my drink"
-  - "hovering near my drink"
-  - "drink left unattended"
-  - "suspicious person at bar"
-  - "worried my drink was tampered"
-  - "unattended beverage safety"
-  - "stranger watching glass"
-  - "unsafe situation nightlife"
-  - "stranger won-t leave me alone"
-  - "unwanted attention at bar"
-  - "protect my drink"
-  - "scared to make a scene"
-  - "what to do right now"
-  - "night out safety steps"
-  - "getting help from staff"
-  - "what do i do if someone is watching my drink"
-  - "what do i do if my drink was left alone"
-  - "what do i do if a stranger is hovering"
-  - "help i think my drink is unsafe"
-  - "my drink looks cloudy"
-  - "my drink is fizzing weirdly"
-  - "help i feel suddenly dizzy at a bar"
-  - "someone is following me at a club"
-  - "suspicious behavior near drinks"
-  - "unattended glass at club"
-  - "stranger lingering near table"
-  - "safety in crowded bars"
-  - "ask for angela usa"
-  - "angel shot meaning"
-  - "california drink cover law"
-last_reviewed: "2026-03-17"
+  - someone watching my drink
+  - hovering near my drink
+  - drink left unattended
+  - suspicious person at bar
+  - worried my drink was spiked
+  - possible drink tampering
+  - roofied concern
+  - date rape drug fear
+  - unsafe situation nightlife
+  - stranger won't leave me alone
+  - targeted at a club
+  - unwanted attention at bar
+  - protect my drink
+  - scared to make a scene
+  - what to do right now
+  - night out safety steps
+  - possible drugging symptoms
+  - getting help from staff
+last_reviewed: "2026-03-13"
 ---
-# What to do if… you notice someone repeatedly watching your drink and hovering when you set it down (USA)
 
+# What to do if… you notice someone repeatedly watching your drink and hovering when you set it down (USA)
 ## Short answer
-Stop consuming the drink immediately and move to a well-lit, populated area near staff or security. Alert venue employees or a trusted contact that you feel unsafe and require assistance with a safe exit.
+Trust the signal: stop drinking, move to staff or trusted people immediately, and get help arranging a safe exit.
 
 ## Do not do these things
-- Do not continue drinking to test if the beverage is safe.
-- Do not leave the drink unattended again or attempt to "watch it closer."
-- Do not allow the individual to move you to a private or quieter area, such as a hallway, bathroom, or parking lot.
-- Do not confront the person directly or accept a replacement drink from them.
-- Do not leave the venue alone if you feel any sudden physical changes or disorientation.
+- Don’t keep drinking to “see if it’s fine” or to avoid attention.
+- Don’t leave the drink unattended again — even briefly.
+- Don’t let the person isolate you (outside, hallway, parking lot, “quieter spot”).
+- Don’t confront them alone or accept a new drink from them.
+- Don’t go home alone if you feel uneasy, pressured, or even slightly unwell.
 
 ## What to do now
-1. **Abandon the beverage immediately and do not take another sip.**  
-   If you have seen someone hovering or if the drink was out of your sight for any duration, assume it is compromised. Cues to look for include:
-   - Sudden cloudiness or change in color.
-   - Excessive fizzing in non-carbonated drinks.
-   - Ice that has sunk to the bottom of the glass.
-   - A salty or bitter taste.
-2. **Relocate to a position of high visibility near staff or security.**  
-   Move toward the bar, the host stand, or a bouncer. If you are with friends, tell them clearly that you do not feel safe and need them to stay with you physically.
-3. **Use a discrete help signal or tell staff directly that you suspect tampering.**  
-   Many US bars recognize the "Angel Shot" or "Ask for Angela" protocols; check for signs in restrooms or ask staff if they use a specific safety code. Alternatively, state plainly: "I am concerned my drink was tampered with; I need help getting home safely."
-4. **Request a safe transportation arrangement from the venue.**  
-   Ask staff to watch you while you book a rideshare or wait for a trusted friend to arrive. If you must walk to a vehicle, request a security escort to your car.
-5. **Call 911 or the National Poison Help Hotline if you feel physical effects.**  
-   If you experience sudden dizziness, extreme sleepiness, confusion, or nausea, seek medical help immediately.
-   - For emergencies (loss of consciousness, trouble breathing): **Call 911**.
-   - For non-emergency medical guidance: **Call Poison Control at 1-800-222-1222**.
-6. **Apply first aid if you or a friend become unresponsive.**  
-   If someone appears to be losing consciousness, place them in the **recovery position** (on their side with their head tilted back to keep the airway clear) and stay with them until EMS arrives.
-7. **Contact RAINN for confidential crisis support.**  
-   You can call the **National Sexual Assault Hotline at 800-656-HOPE (4673)** or visit **online.rainn.org** for 24/7 confidential assistance and information on local resources.
+1. **Stop drinking immediately.**  
+   If the drink has been out of your control, treat it as not safe to consume. Keep it with you only if that feels safe; otherwise leave it behind and focus on getting away.
+2. **Move to safety first, not to “figure it out.”**  
+   Go straight to the bar, staff, security, or a well-lit busy area. If you’re with friends, say clearly: “I need you with me now — I don’t feel safe.”
+3. **Tell staff/security plainly and ask for specific help.**  
+   “Someone keeps hovering over my drink. I’m worried about tampering. Can you get me to a safe spot and help me leave safely?”  
+   Ask them to help you reconnect with friends and arrange a rideshare/taxi or a friend pickup. If you’re walking to your car, ask for an escort.
+4. **If you’re alone, create a fast “anchor.”**  
+   Stand close to staff, a group of supportive-looking patrons, or a couple; call a friend and stay on the phone; and ask staff to stay with you while transportation is arranged.
+5. **If you feel unwell, treat it as urgent.**  
+   Sudden dizziness, confusion, extreme sleepiness, vomiting, trouble breathing, fainting, or you can’t stay awake = **call 911** (or ask staff to). Severe symptoms should be handled by **911/EMS and an ER**. If you feel drugged or “not like yourself” but are stable, going to an **ER** is still appropriate for medical assessment.
+6. **If you may want to report later, preserve options only if it doesn’t increase risk.**  
+   If it’s safe and doesn’t keep you near the person, keep the cup/bottle and note the **time, location, and what happened** in your phone. If it’s not safe, skip keeping anything and just write the note.
+7. **Get confidential support if you want a calm next step.**  
+   You can contact the **National Sexual Assault Hotline (RAINN)** for confidential support and local options (phone or online chat), even if you’re unsure what happened or what you want to do next.
 
 ## What can wait
-- You do not need to identify exactly what substance may have been used.
-- You do not need to decide whether to file a police report right this second.
-- You do not need to confront the individual or "prove" their intent.
-- You do not need to worry about "making a scene" or being wrong about the threat.
+- You do **not** have to decide right now whether to report, confront anyone, or “prove” something happened.
+- You do **not** need to identify the person, argue, or gather statements.
+- You do **not** need to diagnose what substance it might be.
 
 ## Important reassurance
-Trusting your instincts is a protective action. In nightlife environments, "hovering" and "watching" are credible indicators of risk. Staff are trained to handle these situations, and requesting help is a standard safety procedure, not an overreaction.
+Your discomfort is enough reason to act. Getting staff involved, leaving, or calling for help is not overreacting — it’s a safety move.
 
 ## Scope note
-This guide provides first-step stabilization for a high-risk situation. It does not replace medical diagnostics or legal advice. If you suspect you have been drugged or assaulted, seek an evaluation at a hospital emergency room as soon as possible.
+This is first-steps-only guidance for the moment you notice credible risk. If anything escalates or you later suspect you were drugged or assaulted, you deserve medical care and specialist support, with choices made at your pace.
 
 ## Important note
-This information is for safety guidance and does not constitute medical or legal advice. In California, under AB 2375, certain bars are required to provide drink testing kits or covers; ask staff if these are available. Always prioritize your physical safety over the preservation of evidence unless you are in a secure medical environment.
+This is general information, not medical or legal advice. If you feel in immediate danger or seriously unwell, call 911. If you want confidential support or local resources without pressure to report, RAINN can help you find options.
 
 ## Additional Resources
-- https://rainn.org/strategies-to-reduce-risk-increase-safety/alcohol-safety/
+- https://rainn.org/help-and-healing/hotline/
 - https://rainn.org/what-counts-as-sexual-violence/get-the-facts-about-drug-facilitated-sexual-assault/
-- https://rainn.org/strategies-to-reduce-risk-increase-safety/4-tips-to-stay-safer-at-shows-concerts-raves-and-festivals/
-- https://rainn.org/strategies-to-reduce-risk-increase-safety/tips-for-safer-dating-online-and-in-person/
-- https://victimconnect.org/get-help/
+- https://womenshealth.gov/a-z-topics/date-rape-drugs
+- https://www.dea.gov/factsheets/gamma-hydroxybutyric-acid-ghb

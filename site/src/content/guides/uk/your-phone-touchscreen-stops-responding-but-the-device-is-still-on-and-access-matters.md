@@ -1,106 +1,101 @@
----
-
+﻿---
 title: "What to do if… your phone touchscreen stops responding but the device is still on and access matters"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "printer network settings changed"
-  - "webcam network settings changed"
-  - "camera shows new wifi"
-  - "printer ip address changed"
-  - "device says new network"
-  - "smart device tampering"
-  - "iot device tampered with"
-  - "router compromised signs"
-  - "unknown devices on wifi"
-  - "camera account compromised"
-  - "printer admin password forgotten"
-  - "device connected to wrong wifi"
-  - "port forwarding changed"
-  - "remote access enabled unexpectedly"
-  - "wifi password changed without me"
-  - "suspicious device settings"
-  - "someone changed my wifi settings"
-  - "unexpected ssid on device"
-  - "printer dns settings changed"
-  - "webcam remote viewing enabled"
-  - "new network configuration printer"
-  - "unauthorized webcam access"
-  - "printer hacking signs"
-  - "webcam showing unknown network"
-  - "printer wifi settings modified"
-  - "help i did not change printer settings"
-  - "what do i do if my webcam has new settings"
-  - "my printer network settings changed itself"
-  - "unexpected changes to webcam network"
-  - "unconfigured network settings on device"
-last_reviewed: "2026-03-17"
+  - phone touchscreen not responding
+  - touch screen stopped working
+  - screen taps not registering
+  - phone on but can’t unlock
+  - phone frozen touch input
+  - touch not working after drop
+  - touchscreen dead but phone works
+  - can’t enter passcode touchscreen
+  - locked out because screen unresponsive
+  - need 2fa code but screen broken
+  - need banking app but screen won’t work
+  - need boarding pass on phone
+  - need authenticator but screen won’t respond
+  - phone screen not responding to touch
+  - iphone touch not working
+  - android touch not working
+  - touchscreen intermittent response
+  - phone still rings but no touch
+  - urgent access to accounts on phone
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your phone touchscreen stops responding but the device is still on and access matters (UK)
 
 ## Short answer
-Immediately disconnect the affected device from the network by unplugging its power or Ethernet cable, then secure your router’s administrative access before attempting any reconfiguration.
+Don’t factory-reset or keep randomly tapping. First, stabilise access by using another device to reach your key accounts (email/banking/Apple or Google account/2FA), then try a safe force restart and (if available) non-touch workarounds to regain control long enough to back up or transfer what you need.
 
 ## Do not do these things
-- Do not continue using the device to "test" the connection while it is still online.
-- Do not enter your existing passwords into any new prompts or pop-ups that appear on the device screen.
-- Do not ignore the change even if the device seems to be functioning normally.
-- Do not perform a factory reset until you have noted the specific unauthorized settings (IP, SSID, or DNS).
-- Do not assume a "glitch" if you also notice unusual network speeds or other devices behaving oddly.
+- Don’t factory reset “to fix it” if you still need data or authentication apps — it can permanently lock you out of accounts and wipe what you need.
+- Don’t keep mashing the screen; it can trigger emergency calling shortcuts or wrong passcode attempts and make lockouts worse.
+- Don’t sign out of your Apple/Google account on other devices “for security” unless you’re sure you can sign back in without this phone.
+- Don’t hand the phone to a repair shop without first securing the accounts tied to it (email, banking, Apple/Google) and noting what you need from it.
+- Don’t press on the screen or apply heat if the failure followed a drop, water exposure, or the phone looks swollen.
 
 ## What to do now
-1. **Physically isolate the affected hardware.**
-   - Unplug the webcam from its USB port or power source.
-   - Remove the Ethernet cable from the printer or use the physical "Wi-Fi Off" button if available.
-   - If the device has a built-in battery and cannot be disconnected from the network, power it down completely.
+1. **Pick your immediate goal (60 seconds):**
+   - What do you need right now (a one-time code, a ticket/QR, a contact, a work login, a payment approval)?
+   - Which accounts are “keys to everything” for you (usually **email**, **banking**, **Apple/Google**, **password manager**, **authenticator**)?
 
-2. **Document the unauthorized configuration.**
-   - Use a separate mobile phone to take photos of the device's display panel.
-   - Note the specific network name (SSID) it was connected to, the IP address, and any "Gateway" or "DNS" values.
-   - Look for and record any newly created "User" or "Admin" profiles in the device settings.
+2. **Shift control to another device first (before troubleshooting):**
+   - Use a laptop/tablet/another phone to sign into your **primary email** and **password manager**.
+   - Try web versions of what you need (bank website, airline/train site, cloud notes/docs, email attachments).
+   - If you rely on app-based 2FA: look for **backup codes**, a **second device** already signed in, or a **security key** you previously set up.
 
-3. **Check the physical integrity of your router.**
-   - Look for any unfamiliar USB sticks or cables plugged into the back of your router.
-   - Check if the "Reset" button on the router appears to have been depressed or tampered with.
+3. **Secure key accounts while you still can:**
+   - Change the password for your **email** first (it’s commonly the reset path for other services).
+   - Adjust 2-step verification so you’re not dependent on this one phone (backup codes stored safely, security key, or an authenticator on another device if supported).
+   - If the phone may be **lost/stolen** or someone else could access it, use **Find My / Find Hub** from another device to **lock/mark as lost**. Only **erase** if the risk of someone accessing your data outweighs losing what’s on the phone (lock/erase features generally require the service to have been enabled and the device to be online/signed in).
 
-4. **Secure the primary network gateway.**
-   - Access your router’s administrative panel from a different, trusted device.
-   - **Change the router admin password** (this is the password used to log into the router settings).
-   - **Change the Wi-Fi password** and select WPA3 or WPA2-AES encryption.
-   - **Disable UPnP (Universal Plug and Play)** and "Remote Management" in the advanced settings.
+4. **Try the safest “quick fixes” that don’t risk data:**
+   - Remove any **case** or **screen protector**.
+   - Plug into **power** for 10–15 minutes (low battery can cause odd behaviour).
+   - **Force restart using hardware buttons (no touchscreen needed):**
+     - **iPhone with Face ID:** quick press Volume Up, quick press Volume Down, then hold Side button until the Apple logo appears.
+     - **Android:** force-restart combos vary by model/manufacturer. One common pattern is holding **Power + Volume Down** for a sustained press, but check the official steps for your exact model from another device.
 
-5. **Verify and lock down the manufacturer cloud account.**
-   - Log into the web portal for your printer or webcam brand (e.g., HP, Canon, Ring, Nest).
-   - **Change the account password** and enable Multi-Factor Authentication (MFA).
-   - Check the "Account Recovery" section to ensure the recovery email and phone number are still yours.
-   - Use the "Sign out of all sessions" or "Remove all devices" option if available.
+5. **Try non-touch control (especially on Android) if your setup supports it:**
+   - **USB mouse + USB-OTG adapter (Android):** this may work if your phone supports USB-OTG and can power the accessory. If it works, you’ll see a pointer and can navigate without touch. If your phone doesn’t support OTG (or can’t accept input at the lock screen), it won’t help.
+   - If you already enabled hands-free/accessibility controls (voice control, external keyboard, assistant features), use what’s already configured.
 
-6. **Reset the device to factory defaults.**
-   - Follow the manufacturer's manual to perform a full "hard reset" to wipe all current settings.
-   - Reconnect the device to your newly secured Wi-Fi network.
-   - Check for and install any available firmware updates immediately after reconnection.
+6. **If you regain access even briefly, extract what matters immediately:**
+   - Send the critical item off-device (email it to yourself; save to a cloud drive you already use).
+   - Confirm cloud sync/backup for essentials (contacts, photos, notes) is current.
+   - Reduce dependence on this handset for sign-ins (store backup codes safely; add a second sign-in method where your services allow).
 
-7. **Report the intrusion to the national authorities.**
-   - If you are in England, Wales, or Northern Ireland, report the incident to **Report Fraud** (the successor to Action Fraud) online at reportfraud.police.uk or call 0300 123 2040.
-   - If you are in Scotland, report the incident to **Police Scotland** by calling 101 or using their online cybercrime reporting form.
+7. **Protect your mobile number (if SMS codes are part of your access):**
+   - Contact your mobile network about moving your number to a replacement **SIM/eSIM** if you may need a new handset quickly.
+   - Ask about an **account security PIN/password** and any extra protections against number-porting fraud.
+
+8. **Repair/replacement with UK-specific rights in mind (if the phone is faulty):**
+   - If it’s a fault (not accidental damage) and the phone was bought recently, your main consumer rights are typically against the **retailer** under the Consumer Rights Act 2015.
+   - As a rule of thumb, there is a **30-day short-term right to reject** faulty goods for a refund; after that, the retailer will usually get a chance to **repair or replace** first. If you’re unsure where you are in the timeline, record the purchase date and contact the retailer with proof of purchase and a clear description of the fault (touch not responding; phone otherwise powered on).
 
 ## What can wait
-- You do not need to identify the specific individual who made the changes right now.
-- You do not need to replace your router or hardware immediately if the isolation steps are successful.
-- You do not need to review months of network logs today; focus only on the current configuration.
+- You do **not** need to decide today whether to upgrade, switch ecosystems, or restructure your accounts.
+- You do **not** need to fully diagnose hardware vs software before stabilising access and securing key accounts.
+- You do **not** need to wipe the phone unless it’s lost/stolen or you cannot otherwise protect sensitive data.
 
 ## Important reassurance
-Seeing settings change without your input is a clear sign that a security boundary has been crossed, but physical isolation stops the threat instantly. Once the device is unplugged, it can no longer send data or provide a bridge into your home network, giving you the time needed to reset your passwords safely.
+This failure mode is common: the phone can be “alive” while the touch layer isn’t. The biggest avoidable harm is self-inflicted lockout (resets, sign-outs, repeated failed unlock attempts). Once you shift control to your email/cloud accounts and secure them, you can slow down and handle repair or replacement calmly.
 
 ## Scope note
-This guide provides first-step stabilization for individual hardware configuration changes. It does not cover deep-dive network forensics or the legal recovery of compromised financial accounts.
+These are first steps to stabilise access and prevent irreversible mistakes. Repair decisions, deeper troubleshooting, and longer-term security hardening can come after you’ve recovered what you need.
 
 ## Important note
-This information is for general guidance and does not constitute technical or legal advice. If you suspect your camera has been used for illegal surveillance or if you feel physically unsafe, contact the police immediately. The transition from Action Fraud to the Report Fraud service in 2026 may involve updated web addresses; always verify you are on a .police.uk or .gov.uk domain.
+This is general information, not legal, financial, or technical diagnostic advice. Device models and account setups vary; only use steps that match your phone and what you already had enabled. If you’re unsure whether an action could erase data or break sign-in, pause and secure account access from another device first.
 
 ## Additional Resources
-- https://support.google.com/android/answer/7666942?hl=en
-- https://support.google.com/android/answer/7664998?hl=en-GB
-- https://support.google.com/pixelphone/answer/6010316?hl=en-GB
 - https://support.apple.com/en-gb/guide/iphone/iph8903c3ee6/ios
-- https://www.samsung.com/uk/support/mobile-devices/my-galaxy-smartphone-has-frozen-how-do-i-restart-it/
+- https://support.apple.com/en-gb/116940
+- https://support.apple.com/en-gb/guide/icloud/mm6b1aa045/icloud
+- https://support.google.com/accounts/answer/6160491
+- https://www.google.com/android/find/about
+- https://www.sony.co.uk/electronics/support/articles/SX367801
+- https://commonslibrary.parliament.uk/faulty-goods-digital-content-services-2/
+- https://www.moneyhelper.org.uk/en/getting-help-and-advice/consumer-rights/consumer-rights-what-you-need-to-know

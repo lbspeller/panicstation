@@ -1,102 +1,97 @@
----
+﻿---
 title: "What to do if… you are told your bank accounts may be frozen because of a legal order"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "bank accounts may be frozen"
-  - "legal order to freeze bank account"
-  - "what do i do if my bank account is frozen"
-  - "help i am told my account may be frozen"
-  - "account freezing order"
-  - "poca account freeze"
-  - "restraint order bank account"
-  - "magistrates court freezing order"
-  - "crown court restraint order"
-  - "frozen funds legal order"
-  - "bank account freeze threat"
-  - "my money is stuck in a frozen account"
-  - "what do i do if a legal order freezes my bank"
-  - "legal order to freeze funds"
-  - "money held by court order"
-  - "bank account freeze notice"
-  - "wages stuck in frozen account"
-  - "benefits in frozen bank account"
-  - "direct debits failing frozen account"
-  - "account freezing order threshold"
-  - "poca section 303z1"
-  - "varying a freezing order for living expenses"
-  - "smell of scam bank freeze"
-  - "official contact bank freeze"
-  - "accessing money for food while account frozen"
-  - "urgent bills frozen account"
-  - "suspicious activity report bank hold"
-  - "tipping off bank freeze"
-  - "legal order freeze procedure"
-  - "court reference bank freeze"
-last_reviewed: "2026-03-17"
+  - bank account freeze threat
+  - account may be frozen
+  - legal order to freeze funds
+  - account freezing order afo
+  - restraint order bank account
+  - court order freezing money
+  - told by bank funds frozen
+  - compliance hold uk bank
+  - money held by bank order
+  - wages stuck in frozen account
+  - benefits stuck in frozen account
+  - direct debits about to fail
+  - urgent bills during freeze
+  - scam pretending legal order
+  - police say bank will freeze
+  - solicitor help frozen account
+  - how to access living expenses
+  - legal expenses from frozen account
+last_reviewed: "2026-03-06"
 ---
-# What to do if… you are told your bank accounts may be frozen because of a legal order (UK)
 
+# What to do if… you are told your bank accounts may be frozen because of a legal order (UK)
 ## Short answer
-Contact your bank's legal compliance department via a verified number to identify the specific type of order and case reference. Do not attempt to move funds until you have confirmed if the freeze is a bank-led investigative hold or a court-mandated Account Freezing Order.
+Pause and verify the claim through your bank’s official channels, then get the order type and case reference in writing and speak to a solicitor quickly—some court freezes can be varied to allow essential living and legal expenses, but you must do it the right way.
 
 ## Do not do these things
-- Don't attempt to withdraw or transfer funds immediately after receiving a warning; this may trigger further "suspicious activity" reports or be blocked automatically.
-- Don't provide one-time passcodes (OTPs), login details, or remote device access to anyone claiming they can "intercept" or "fix" the legal order.
-- Don't use contact details provided in an unsolicited text, email, or phone call to verify the order.
-- Don't ignore the situation if the bank refuses to give information; this often indicates an investigative hold where "tipping off" laws apply.
-- Don't assume you can use frozen funds for criminal legal fees if the order is a Crown Court Restraint Order.
+- Don’t rush transfers or withdrawals “to save it” after a warning—this can create serious problems and may be blocked anyway.
+- Don’t share one-time passcodes, PINs, or let anyone remote-access your device to “help” with the order.
+- Don’t use contact details from a surprising text/call/email; contact your bank via the number on your card or official app.
+- Don’t assume it’s definitely genuine because someone sounds official—verify independently.
+- Don’t ignore written notices—there may be deadlines to respond or apply to vary the order.
 
 ## What to do now
-1. **Verify the status of the account through a known-safe channel.**
-   - **Call the bank using the official number on the back of your debit card or the official app.**
-   - **Request to speak specifically with the "Legal," "Compliance," or "Financial Crime" team.**
-   - **Ask if there is a formal court order (such as an Account Freezing Order or Restraint Order) or if the account is under an internal investigative review.**
+1. **Switch to verification mode and use only official channels.**  
+   Call your bank using the number on your card/official app (not a number you were given). Ask for their **legal/compliance team** and request confirmation, in writing if possible, of:
+   - whether a freeze is already in place or only being considered,
+   - **what kind of order** it is called (exact wording),
+   - the **court**, **case reference**, and the **date the bank received it**.
 
-2. **Obtain the specific legal identifiers for the freeze.**
-   - **If a court order exists, demand the name of the court, the case reference number, and the date the order was served.**
-   - **Identify the specific type of order:**
-      - Account Freezing Order (AFO) – typically Magistrates’ Court, civil POCA.
-      - Restraint Order – Crown Court, usually linked to criminal proceedings.
-      - Third Party Debt Order – linked to a civil debt or judgment.
-      - Validation Order Requirement – linked to a winding-up petition (business accounts).
+2. **Pin down the order type (because your next steps depend on it).**  
+   Ask the bank which of these it is (or what it most closely matches):
+   - an **Account Freezing Order** (often linked to POCA “freezing of bank/building society accounts”),
+   - a **restraint order** (criminal proceedings),
+   - another court process affecting payments/withdrawals.  
+   If they can’t tell you, ask for the name of the document/section heading and the court details so a solicitor can identify it fast.
 
-3. **Establish exactly which banking functions are restricted.**
-   - **Ask the bank to confirm if incoming payments (salary, benefits, or pensions) will be accepted or returned to the sender.**
-   - **Check if scheduled payments (Direct Debits, Standing Orders, or mortgage payments) are currently blocked or will be processed.**
-   - **Verify the current balance and ask if the freeze applies to the entire balance or only a specific amount (noting the statutory £3,000 minimum threshold for AFOs).**
+3. **Clarify what still works right now.**  
+   Ask the bank, specifically:
+   - Are **incoming payments** (salary/benefits) still allowed?
+   - Are **direct debits/standing orders** still going out?
+   - Are **card payments/cash withdrawals** allowed at all, or is it a full block?
+   Write down what you’re told (date/time, name/ID, and any reference number).
 
-4. **Secure alternative essential funds for the next 72 hours.**
-   - **Identify any accounts at different banking institutions that are not affected by the order.**
-   - **Contact employers or the Department for Work and Pensions (DWP) to redirect the *next* payment to an alternative account if the current one is fully blocked.**
-   - **Use existing credit facilities or cash on hand only for essential survival needs (food, medicine, and travel to work) until legal advice is obtained.**
+4. **Stabilise essentials for the next 72 hours without moving existing frozen funds.**  
+   If you have another account or credit facility you can legally use, use it **only for essentials** (food, travel, critical bills).  
+   If you expect **future** income (salary/benefits), do not make panicked changes. First confirm what the order covers; then, if permitted and you need continuity, ask the payer about routing the **next** payment to an account you already control. Keep this transparent and get legal advice promptly.
 
-5. **Initiate the process for an "Exclusion" for living expenses.**
-   - **Inform the bank and the relevant enforcement officer (if named) that you require access to funds for "reasonable living expenses."**
-   - **Gather evidence of essential outgoings, including rent/mortgage statements, utility bills, and grocery receipts, to support a variation application.**
-   - **Note that for AFOs (Magistrates' Court), you may also apply for an exclusion to cover "reasonable legal expenses," but this is generally prohibited for Restraint Orders (Crown Court).**
+5. **If it is an Account Freezing Order, ask about “exclusions” (for essentials) in practical terms.**  
+   Account Freezing Orders can be made “subject to exclusions,” and can be varied to add exclusions. Tell the bank you will be seeking legal advice about an **exclusion for reasonable living expenses and/or reasonable legal expenses**, and ask what they need from you to process any **court-authorised** payments.
 
-6. **Engage a specialist solicitor with POCA expertise.**
-   - **Search for a firm specializing in "Proceeds of Crime Act," "Account Freezing Orders," or "Financial Crime."**
-   - **Provide the solicitor with the court name, case reference, and the specific bank's contact details immediately to allow them to negotiate a variation.**
+6. **Get legal help quickly (right specialist).**  
+   Look for a solicitor experienced in **POCA / account freezing orders / restraint orders**. When you call, have ready:
+   - the court name, case reference, and date received,
+   - which accounts are affected and what is currently blocked,
+   - proof of income and a list of essential outgoings (rent/mortgage, utilities, food, travel, medication).
+
+7. **Treat any unexpected “police/court/bank” contact as potentially fraudulent until verified.**  
+   If someone contacted you out of the blue claiming to be police/court/bank:
+   - end the call,
+   - contact the organisation back via a verified number,
+   - don’t click links or download files “to view the order.”
 
 ## What can wait
-- You do not need to provide a full defense or explanation of the source of your funds during the initial call to the bank.
-- You do not need to gather historical bank statements beyond the last three months for the initial stabilization phase.
-- You do not need to notify all of your creditors today; focus first on whether Direct Debits will fail before contacting them.
+- You do **not** need to explain your whole situation to multiple people right now—focus on getting the **order name, court, case reference, and what is currently blocked**.
+- You do **not** need to decide today whether to challenge the order fully—first get advice on **what it is** and whether you can apply to **vary it for essentials**.
+- You do **not** need to gather every document immediately—start with ID, account details, recent statements, proof of income, and essential bills.
 
 ## Important reassurance
-A bank account freeze is a procedural tool used by authorities to pause activity while they review documentation. It does not automatically mean you have been charged with a crime or that your money is lost. There are established legal routes to vary these orders to ensure you can meet your basic needs.
+A threatened or sudden freeze is frightening, but it is often a procedural step triggered by paperwork. Your best protection right now is to slow down, verify what’s real, avoid rash money moves, and get the exact case details so you can use the proper process to protect essentials.
 
 ## Scope note
-This guide covers first-step stabilization for UK-based bank accounts. It is not a substitute for legal representation in POCA or Restraint Order proceedings, which involve complex statutory timelines and evidential requirements.
+This is first steps only. Different legal orders freeze accounts in different ways. Once you have the exact order type and case reference, a solicitor can advise on variations/exclusions and the next deadlines.
 
 ## Important note
-Information regarding "tipping off" regulations means bank staff may be legally unable to tell you why an account is frozen if it is under an active SAR investigation. This guide is for general information and does not constitute legal or financial advice.
+This guide is general information, not legal advice. If you feel pressured to move money or share access details, pause and verify through official channels first.
 
 ## Additional Resources
-- https://www.gov.uk/government/publications/third-party-debt-orders-and-charging-orders-ex325/respond-to-a-third-party-debt-order
-- https://www.citizensadvice.org.uk/debt-and-money/action-your-creditor-can-take/creditor-takes-money-from-your-bank-account/
-- https://www.moneyhelper.org.uk/en/blog/everyday-money/frozen-bank-account-what-to-do
-- https://www.gov.uk/government/publications/civil-procedure-rules-court-forms/list-of-civil-court-forms-arranged-by-subject-matter
-- https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part72
+- https://www.legislation.gov.uk/ukpga/2002/29/part/5/chapter/3B/crossheading/freezing-of-bank-and-building-society-accounts
+- https://www.legislation.gov.uk/ukpga/2002/29/section/303Z5
+- https://www.legislation.gov.uk/ukpga/2017/22/section/16
+- https://assets.publishing.service.gov.uk/media/5a72fdfded915d0e8e398655/20180224__Forfeiture_of_money_held_in_bank_or_building_society_accounts.pdf
+- https://www.gov.uk/government/statistics/asset-recovery-statistics-financial-years-ending-2019-to-2024/user-guide-to-asset-recovery-statistics

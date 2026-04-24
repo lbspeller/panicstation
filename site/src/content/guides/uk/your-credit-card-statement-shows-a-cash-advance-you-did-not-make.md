@@ -1,90 +1,88 @@
----
+﻿---
 title: "What to do if… your credit card statement shows a cash advance you did not make"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "unauthorised cash advance"
-  - "credit card cash withdrawal fraud"
-  - "unknown cash advance on statement"
-  - "help i have a cash advance i didn't make"
-  - "what do i do if my statement shows cash withdrawal"
-  - "my credit card was used at an atm"
-  - "fraudulent cash advance uk"
-  - "stolen card pin withdrawal"
-  - "cloned credit card cash"
-  - "atm withdrawal not mine"
-  - "unrecognised cash advance fee"
-  - "card skimming cash withdrawal"
-  - "report fraud uk cash advance"
-  - "cash advance interest charged fraud"
-  - "mystery atm withdrawal on credit card"
-  - "help i didn't take cash out"
-  - "my statement has a cash advance"
-  - "unauthorised transaction credit card"
-  - "suspicious cash advance activity"
-  - "cash withdrawl on statement"
-  - "cash advnce on statement"
-  - "atm location unknown"
-  - "card still in possession fraud"
-  - "account takeover cash advance"
-  - "statement show cash advance"
-  - "what do i do if a withdrawal is pending"
-  - "bank fraud cash advance uk"
-  - "unauthorised credit card use"
-last_reviewed: "2026-03-17"
+  - cash advance not mine
+  - cash advance i didn’t do
+  - cash advance on statement
+  - unknown cash advance charge
+  - unauthorised cash withdrawal
+  - atm withdrawal i didn’t make
+  - card used at atm
+  - credit card cash withdrawal
+  - cash withdrawal on credit card
+  - statement cash advance fraud
+  - suspected card skimming cash
+  - cloned card cash withdrawal
+  - pin compromised suspected
+  - stolen card and pin
+  - unexpected cash advance fee
+  - cash advance interest charged
+  - cash advance pending
+  - mystery cash advance
+  - cash withdrawl on statement
+  - cash advnce on statement
+last_reviewed: "2026-01-09"
 ---
-# What to do if… your credit card statement shows a cash advance you did not make (UK)
 
+# What to do if… your credit card statement shows a cash advance you did not make (UK)
 ## Short answer
-Contact your card provider immediately to report the transaction as unauthorised and have the card frozen or cancelled. Use the number on the back of your card or call 159 to be connected to your bank's fraud department.
+Contact your card provider immediately using the number on the back of your card (or in your banking app) and report the cash advance as unauthorised so they can stop further withdrawals and open a fraud case.
 
 ## Do not do these things
-- Don't use any phone number provided in a text message or email about the transaction; these are often phishing attempts.
-- Don't share your full PIN, online banking passwords, or one-time passcodes (OTPs) with anyone, even if they claim to be from your bank or the police.
-- Don't delay reporting because the amount is small; fraudsters often perform "test" withdrawals before larger amounts.
-- Don't attempt to contact the ATM operator or the merchant yourself to resolve the dispute.
-- Don't pay for "fraud recovery" services; your bank and the Financial Ombudsman Service handle these cases for free.
+- Don’t call any “bank” number from a text/email about this—use the number on your card, your banking app, or your provider’s official website.
+- Don’t share your PIN, one-time passcodes, or “security codes” with anyone (including someone claiming to be your bank or the police).
+- Don’t wait to “see if it happens again”—cash withdrawals can repeat quickly.
+- Don’t cancel or close the account yourself before the provider has logged the fraud and told you what to do.
+- Don’t pay anyone who offers to “recover” the money or “speed up” a refund.
 
 ## What to do now
-1. **Call your card provider’s official fraud line immediately.** 
-   **Use the number on the back of your card, your official banking app, or dial 159 (the secure hotline for UK banks).**
-   - **Tell the agent you have an "unauthorised cash advance" on your statement.**
-   - **Ask them to freeze or cancel the card and issue a replacement with a new 16-digit number.**
-   - **Request a "cash advance block" on the new card if you do not intend to use it for withdrawals.**
-2. **Confirm the specific details of the transaction while on the call.**
-   **Ask for the date, time, exact amount, and the physical location or ATM ID of the withdrawal.**
-   - **Note down if the card was physically present or if it was a "card-not-present" or digital wallet transaction.**
-   - **Write down the time of your call and any case reference number provided by the bank.**
-3. **Verify the security of your online banking and contact details.**
-   **Check your account settings for any changes to your phone number, email address, or registered "trusted devices."**
-   - **Change your online banking password and enable two-factor authentication if it is not already active.**
-   - **If your PIN was potentially compromised (e.g., used at an ATM), ask the bank for a full PIN reset for the replacement card.**
-4. **Physically confirm the location of all your credit and debit cards.**
-   **Check that the card in question is still in your possession to determine if the fraud is due to a stolen card, a cloned card, or an account takeover.**
-5. **Report the incident to the national fraud reporting service.**
-   **If you are in England, Wales, or Northern Ireland, report to Report Fraud online (reportfraud.police.uk) or call 0300 123 2040.**
-   - **If you are in Scotland, report the fraud to Police Scotland by calling 101.**
-   - **Obtain a crime reference number and provide this to your card provider.**
-6. **Check for other unauthorised activity across your accounts.**
-   **Review recent statements for all linked accounts for small, unfamiliar "active card checks" (often £0.00 or £1.00 transactions).**
+1. **Call your card provider’s fraud team (official number only) and say: “Unauthorised cash advance.”**  
+   Ask them to:
+   - **Freeze/cancel the card** and issue a replacement.
+   - **Block cash advances** (ask them to disable cash withdrawals on your account if possible).
+   - Confirm the **date, time, amount, and location/ATM operator** they have on record.
+   - Tell you what they need next (some providers ask for a form or a written confirmation).
+2. **Treat your PIN and online access as potentially compromised.**  
+   - Ask the provider to **reset/replace your cash/PIN** (or advise how to change it).  
+   - Change your **banking app/online password** from a trusted device, and remove any unfamiliar “trusted devices” if your app shows them.
+3. **Check whether this is “card theft” or “account takeover.”**  
+   - **Physically check your card** is still with you.  
+   - In your account settings, check whether your **phone number, email, or address** has been changed.
+4. **Scan for other suspicious activity and turn on alerts.**  
+   Look for any other transactions you don’t recognise and switch on **instant transaction notifications** if available.
+5. **Save the evidence you can see right now.**  
+   Screenshot/photograph the statement line and note the key details (amount, date/time, any reference/location shown). Write down the time you called and any case/reference number.
+6. **Report the fraud to the right police channel for where you live.**  
+   - **England, Wales, Northern Ireland:** Report to **Report Fraud** online, or call **0300 123 2040**.  
+   - **Scotland:** Report to **Police Scotland on 101**.  
+   Keep any reference number and provide it to your card provider if they ask.
+7. **If you’re worried new credit could be taken out in your name, consider adding an identity check flag.**  
+   Consider **Cifas Protective Registration** if your personal details may have been exposed (for example: missing post, unknown new accounts, or multiple institutions contacting you unexpectedly).
+8. **If you hit resistance, use the complaints route quickly.**  
+   Tell the provider you want to make a **formal complaint**. You can usually go to the **Financial Ombudsman Service** if you get a final response you disagree with, or if **8 weeks** pass without a final response.
 
 ## What can wait
-- You do not need to identify the perpetrator or how the card was compromised before reporting it to the bank.
-- You do not need to file a formal complaint with the Financial Ombudsman Service until your bank has provided a "final response" letter or 15 business days have passed for payment-related disputes.
-- You do not need to apply for protective registration (such as Cifas) until the immediate threat to your card and account is neutralized.
+- You do **not** need to work out how it happened before reporting it.
+- You do **not** need to contact the ATM owner yourself unless your provider asks you to.
+- You do **not** need to decide right now about longer-term identity products—focus first on stopping further loss and getting the fraud case opened.
 
 ## Important reassurance
-Unauthorised cash advances are a documented form of financial crime. UK law, specifically the Payment Services Regulations 2017 and the Consumer Credit Act 1974, provides robust protections for victims of unauthorised transactions. Reporting the incident immediately is the most effective step in limiting your liability and securing a refund for the unauthorised amount and associated interest.
+This is a common fraud pattern, and feeling shaken is normal. The fastest way to regain control is to get the card blocked, cash advances disabled, and the fraud case logged—everything else becomes easier after that.
 
 ## Scope note
-This guide provides first-step stabilization for discovering unauthorised cash transactions on a UK credit card. It does not cover long-term credit repair, legal action against third parties, or recovery from identity theft beyond the immediate financial instrument.
+This guide covers first steps only: stopping further withdrawals, documenting what happened, and starting the right reporting/complaints paths. Later stages (investigations, timelines, refunds) vary by provider and circumstances.
 
 ## Important note
-This information is for guidance only and does not constitute legal or financial advice. Your liability for unauthorised transactions may be limited to £35 or £50 unless the provider can prove "gross negligence." Always follow the specific instructions provided by your bank's fraud department.
+This is general information, not legal or financial advice. If any instruction you receive feels odd or pressuring, end the call and contact your provider again using a trusted number from your card or official app.
 
 ## Additional Resources
-- https://www.moneyhelper.org.uk/en/blog/scams-and-fraud/what-is-credit-card-fraud-how-prevent-it
-- https://www.moneyhelper.org.uk/en/everyday-money/credit/identity-theft-and-scams-what-you-are-liable-for
-- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/disputed-transactions
-- https://www.moneyhelper.org.uk/en/money-troubles/money-problems-and-complaints/how-to-complain
+- https://www.reportfraud.police.uk/debit-and-credit-card-fraud/
+- https://www.reportfraud.police.uk/
+- https://www.cityoflondon.police.uk/news/city-of-london/news/2025/december/report-fraud-service-goes-live-with-full-public-launch-in-january-2026/
+- https://www.scotland.police.uk/guidance/scams-and-frauds/
+- https://www.financial-ombudsman.org.uk/make-complaint
+- https://www.financial-ombudsman.org.uk/businesses/resolving-complaint/before-get-involved
+- https://www.cifas.org.uk/pr
+- https://www.legislation.gov.uk/uksi/2017/752/regulation/77

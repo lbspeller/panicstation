@@ -1,106 +1,90 @@
----
+﻿---
 title: "What to do if… you are billed for a subscription you cancelled and the company will not reverse it quickly"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - "charged after cancelling subscription"
-  - "subscription still billing after cancel"
-  - "recurring charge won’t stop"
-  - "membership billed after cancellation"
-  - "company refuses subscription refund"
-  - "delayed refund subscription charge"
-  - "automatic renewal charge dispute"
-  - "cancel subscription but charged"
-  - "recurring debit card charge"
-  - "recurring credit card billing"
-  - "bank account auto debit dispute"
-  - "unauthorized subscription payment"
-  - "stop recurring payment order"
-  - "billing error dispute letter"
-  - "subscription cancellation proof"
-  - "charged after free trial cancel"
-  - "dispute recurring charge card issuer"
-  - "merchant keeps charging after cancel"
-  - "help i am still being billed"
-  - "what do i do if they wont refund subscription"
-  - "what do i do if i cancelled but still charged"
-  - "what do i do if a merchant refuses a refund"
-  - "my bank account was debited after i cancelled"
-  - "my card was charged for a cancelled service"
-  - "help i cannot stop a recurring payment"
-  - "smell of fraud subscription"
-  - "notice of unauthorized transfer"
-  - "incorrect billing amount subscription"
-  - "cancelation proof email missing"
-  - "subscritpion charge error"
-  - "unauthorized ach transfer 2026"
-  - "revoked authorization for payments"
-  - "payment billed on saturday"
-  - "charge on bank statement after cancel"
-  - "stop payment order bank rules"
-last_reviewed: "2026-03-17"
+  - charged after cancelling subscription
+  - subscription still billing after cancel
+  - recurring charge won’t stop
+  - membership billed after cancellation
+  - company refuses subscription refund
+  - delayed refund subscription charge
+  - automatic renewal charge dispute
+  - cancel subscription but charged
+  - recurring debit card charge
+  - recurring credit card billing
+  - bank account auto debit dispute
+  - unauthorized subscription payment
+  - stop recurring payment order
+  - billing error dispute letter
+  - subscription cancellation proof
+  - charged after free trial cancel
+  - dispute recurring charge card issuer
+  - merchant keeps charging after cancel
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… you are billed for a subscription you cancelled and the company will not reverse it quickly (USA)
 
 ## Short answer
-Revoke authorization for future payments with the merchant and your bank, then file a formal dispute (billing error or unauthorized transfer) with your financial institution to recover the funds.
+Stop future charges first (with your bank/card issuer), then dispute the charge using the process that matches how it was paid (credit card, debit card, or bank account auto-debit).
 
 ## Do not do these things
-- Don’t delete the cancellation confirmation email or close the browser tab showing your "account closed" status without a screenshot.
-- Don’t wait for the merchant to "fix it" if they have already missed one promised refund deadline.
-- Don’t close your bank account or credit card immediately, as this can prevent the bank from successfully processing a reversed credit or refund.
-- Don’t provide a different card or bank account number to the merchant to "test" a refund.
-- Don’t rely on verbal promises from customer service; assume the charge will stand unless you have a reference number or written confirmation.
+- Don’t assume a “cancel” button worked without saving proof (screenshots/emails).
+- Don’t wait until multiple charges pile up—act before the next scheduled billing date.
+- Don’t close your account in a panic (it can complicate disputes and refunds).
+- Don’t give the merchant new payment access “to fix it” (new card, new bank details).
+- Don’t rely only on phone calls—get at least one written record (email/message) with dates.
 
 ## What to do now
-1. **Identify the specific transaction type and billing date.**
-   - Locate the charge on your statement and determine if it was:
-     - A credit card transaction (protected by the Fair Credit Billing Act).
-     - A debit card or ACH (bank account) transfer (protected by Regulation E).
-     - A third-party wallet payment (e.g., PayPal or Apple Pay).
+1. **Identify the payment type (this changes the stop/dispute steps).**
+   - Classify the charge as:
+     - **Credit card**
+     - **Debit card (card network charge)**
+     - **Bank account auto-debit (ACH / electronic fund transfer)**
+     - **PayPal / wallet**
+   - Note the **amount**, **date**, and **merchant descriptor**.
 
-2. **Revoke authorization in writing to the merchant.**
-   - **Send a brief message to the merchant stating that you revoked their authority to charge your account as of [date of cancellation].**
-   - Explicitly demand a refund for the most recent unauthorized charge.
-   - Save a copy of this message to use as evidence for your bank.
+2. **Stop the next payment from going through.**
+   - **If it’s a bank account auto-debit (ACH / preauthorized transfer):**
+     - Tell the merchant you **revoke authorization** for further debits (do this in writing if you can).
+     - Also tell your bank you want a **stop payment** for that merchant. If you notify the bank **at least 3 business days before** the next scheduled debit, the bank must honor it. If you give the stop-payment request orally, the bank may require **written confirmation within 14 days**—do it.
+   - **If it’s a credit or debit card recurring charge:**
+     - Ask your card issuer to **stop recurring charges from that merchant if available** (some issuers can place a recurring/merchant block). Also ask them to **dispute the current charge**.
+   - **If it’s PayPal:** cancel the merchant’s **automatic payment** in PayPal.
 
-3. **Stop future payments through your financial institution.**
-   - **For bank account transfers (ACH):** Notify your bank that you have revoked authorization. Under federal law (Regulation E), if you give the bank a stop-payment order at least 3 business days before the scheduled transfer, they must stop it.
-      - If you give this order orally, the bank may require you to provide a written confirmation within 14 days to keep the stop-payment active.
-   - **For credit or debit cards:** Ask the issuer if they can place a "merchant block" on that specific company. Some issuers can block recurring tokens without requiring a new card number.
+3. **Capture proof (quickly, then stop).**
+   - Save screenshots/emails showing: when you cancelled, confirmation number, account status (cancelled), and the charge on your statement.
 
-4. **File a formal dispute with your bank or card issuer.**
-   - **For Credit Cards:** File a "billing error" dispute. To ensure full protection under the Fair Credit Billing Act, your written dispute must reach the issuer within 60 days of the first statement that showed the error.
-   - **For Debit Cards or Bank Transfers:** Report the charge as an "unauthorized transfer" or "error." You must typically report this within 60 days of the statement date to avoid liability for subsequent charges.
-   - **Ask for a dispute case number and a timeline for the investigation.**
+4. **Open the dispute with the right place (don’t wait on the merchant).**
+   - **Credit card:** dispute it as a **billing error** with your card issuer. For the strongest federal billing-error protections, send your dispute **in writing** so it **reaches the issuer within 60 days** after the **first statement** showing the error was sent to you.
+   - **Debit card or ACH from your bank account:** tell your bank you’re reporting an **error** tied to a cancelled subscription and do it fast—generally within **60 days of the statement** that first shows the transfer. If you report by phone, the bank may ask you to **confirm in writing within 10 business days**—do it.
+   - Ask for a **case number** and written confirmation that the dispute is opened.
 
-5. **Organize your evidence for the bank's investigation.**
-   - **Gather the following documents and keep them in a single folder:**
-      - The original cancellation confirmation (email or screenshot).
-      - The message you sent revoking authorization.
-      - Any previous correspondence where the merchant agreed to cancel or refund.
+5. **Send one short written demand to the merchant (for the record).**
+   - “I cancelled on (date). You charged me $X on (date). I revoke authorization for any future charges. Refund this charge and confirm cancellation in writing.”
 
-6. **Escalate if the bank or merchant fails to follow federal procedures.**
-   - **File a complaint with the Consumer Financial Protection Bureau (CFPB) if your bank refuses to investigate the error.**
-   - **File a report with the Federal Trade Commission (FTC) if the merchant used "dark patterns" or made cancellation intentionally difficult.**
+6. **If you’re getting bounced around, escalate through complaint channels.**
+   - If a **bank or card issuer** is mishandling the dispute process, file a complaint with the **Consumer Financial Protection Bureau (CFPB)**.
+   - If the merchant’s subscription practices are deceptive or they keep charging after cancellation, report to the **Federal Trade Commission (FTC)** and (if useful) your **state attorney general**.
 
 ## What can wait
-- You do not need to file a small claims court case right now; the bank dispute process is designed to handle this first.
-- You do not need to replace all your cards unless your bank specifically identifies a security compromise.
-- You do not need to write a long history of your relationship with the company; keep your dispute focused on the date of cancellation and the date of the unauthorized charge.
+- You do **not** need a long narrative today—stop future charges and open the dispute first.
+- You do **not** need to decide about lawsuits or hiring a lawyer to start getting traction.
+- You do **not** need to cancel every card you own—focus on stopping the specific merchant/authorization unless your issuer advises otherwise.
 
 ## Important reassurance
-It is very common for automated billing systems to fail to sync with cancellation requests. Federal laws (the Fair Credit Billing Act and the Electronic Fund Transfer Act) provide specific, time-bound paths for you to get your money back when a merchant refuses to cooperate. Following the bank's formal dispute process triggers a legal requirement for them to investigate.
+This is a common mess-up: cancellations can fail to register, and a recurring authorization can keep running. You’re allowed to revoke permission for future payments and use established dispute processes to get the charge reviewed.
 
 ## Scope note
-This guide covers first-step financial stabilization and recovery of unauthorized subscription charges. It does not cover disputes regarding the quality of services received or complex contract law where a cancellation period was not met.
+These are first steps to stop further loss and trigger the formal dispute/refund path. If the merchant claims you agreed to new terms or used the service after cancelling, you may need more tailored consumer or legal help.
 
 ## Important note
-Procedures for stopping payments and the duration of stop-payment orders vary by institution. While federal law sets minimum protections, individual bank policies may provide additional steps. Reporting a charge as "unauthorized" to your bank is a legal claim; ensure you have attempted to cancel according to the merchant's terms before filing.
+This is general information, not legal advice. Procedures and timelines can vary by bank, card network, and the facts. If the charge causes immediate hardship (rent, utilities, food), tell your bank right away and ask about fee waivers or short-term options while the dispute is investigated.
 
 ## Additional Resources
-- https://consumer.ftc.gov/consumer-alerts/2022/11/tried-cancel-service-couldnt-learn-steps-take
-- https://consumer.ftc.gov/consumer-alerts/2023/05/how-stop-subscriptions-you-never-ordered
-- https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions
-- https://www.usa.gov/company-product-service-complaints
-- https://www.consumerfinance.gov/complaint/
+- https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges
+- https://www.consumerfinance.gov/rules-policy/regulations/1026/13
+- https://www.consumerfinance.gov/rules-policy/regulations/1005/10
+- https://www.consumerfinance.gov/rules-policy/regulations/1005/11
+- https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/

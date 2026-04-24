@@ -1,89 +1,81 @@
----
+﻿---
 title: "What to do if… a car-share vehicle will not unlock even though your booking is active"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
-  - "car-share vehicle will not unlock"
-  - "active booking car locked"
-  - "car-share app unlock not working"
-  - "cannot unlock car-share"
-  - "help i cannot unlock my rental"
-  - "my car-share booking is active but car is locked"
-  - "what do i do if my car-share wont unlock"
-  - "zipcar unlock button not working"
-  - "free2move car wont open"
-  - "gig car share bluetooth problem"
-  - "rental car app error 2026"
-  - "car-share bluetooth permissions error"
-  - "active reservation vehicle locked"
-  - "car-share rfid card not working"
-  - "help i am locked out of car-share"
-  - "car-share location services error"
-  - "what do i do if rental car wont unlock"
-  - "app says active but car is locked"
-  - "car-share vehicle reader not responding"
-  - "cannot find car-share vehicle"
-  - "active booking car-share lockout"
-  - "car-share support for unlock failure"
-  - "locked out of zipcar"
-  - "locked out of gig car"
-  - "locked out of free2move"
-  - "car-share bluetooth pairing failed"
-  - "car-share precise location off"
-  - "rental car app spinning on unlock"
-  - "car-share vehicle plate match error"
-  - "car-share start rental button greyed out"
-last_reviewed: "2026-03-17"
+  - car share won't unlock
+  - zipcar won't unlock
+  - getaround won't unlock
+  - booking active but car locked
+  - app unlock not working
+  - can't start rental unlock
+  - can't access reserved car
+  - keyless car share unlock issue
+  - car share bluetooth unlock problem
+  - car share permissions problem
+  - car share location services off
+  - reservation window not started
+  - locked out of car share
+  - stranded at pickup location
+  - car share support unlock help
+  - car share app error
+  - right car wrong plate check
+  - car share no signal unlock
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… a car-share vehicle will not unlock even though your booking is active (USA)
 
 ## Short answer
-Verify you are at the correct vehicle and within your reservation window, then toggle your phone's Bluetooth and Precise Location settings before calling the operator's 24/7 support line.
+Get to a safe spot near the vehicle, confirm you’re at the correct car and within your reservation window, then contact the car-share company’s support while you are still beside the vehicle.
 
 ## Do not do these things
-- Do not attempt to force the door handles, windows, or the RFID reader hardware.
-- Do not repeatedly tap the unlock button in the app if the first three attempts fail.
-- Do not leave the immediate vicinity of the car until you have spoken with support.
-- Do not share your phone or account credentials with bystanders offering assistance.
-- Do not assume a "confirmed" booking is "active" if you are even one minute early.
+- Don’t force the door, window, or any reader hardware (it can create liability and escalate the situation).
+- Don’t keep tapping unlock repeatedly for long stretches without changing anything (it wastes time and increases stress).
+- Don’t share your login, verification codes, or phone with strangers offering to “help.”
+- Don’t assume your booking is fine without checking the exact start time (some apps won’t enable unlock until the reservation begins).
+- Don’t leave the area in frustration if support may need you next to the vehicle to confirm details.
 
 ## What to do now
-1. **Confirm the vehicle identity and reservation status.** Check the license plate against your app and verify the current time is within your booking window.
-   - If you modified the trip recently, check your email for a "modification confirmed" notification.
-   - Verify that you have tapped the "Start Trip" or "Start Rental" button, as some apps require this before enabling the unlock command.
-2. **Refresh your phone's connection and permissions.** Toggle Bluetooth off and on, and ensure "Precise Location" is enabled for the car-share app in your system settings.
-   - If you are in a parking garage with no signal, move to a spot with cellular reception to allow the app to fetch the digital key, then return to the car.
-   - Ensure your phone battery is not in "Low Power Mode" or "Battery Saver," which can disable background Bluetooth functions.
-3. **Attempt one manual unlock using the RFID reader if applicable.** If your service provides a physical card (e.g., Zipcar), hold it over the windshield reader for 30 continuous seconds.
-   - Listen for a beep or a mechanical "thunk" from the door locks.
-   - If the driver's door does not open, check the passenger doors and the trunk/hatch.
-4. **Contact the operator’s emergency support line immediately.** Use the in-app "Help" or "Call" button to reach an agent who can remotely trigger the unlock.
-   - Zipcar: 866-4ZIPCAR (866-494-7227).
-   - Free2move: +1 844-543-7332.
-   - Gig Car Share: Use the "Call Support" button in the active trip screen.
-5. **Document the failure for billing protection.** Take a photo of the vehicle’s license plate and a screenshot of the app’s error message or the "spinning" unlock icon.
-   - Note the exact time of the first failed attempt.
-   - Ask the support agent for a "Case Number" or "Incident ID" to ensure you are not charged for the time you were locked out.
-6. **Move to a safe location if the car cannot be accessed.** If support cannot unlock the car remotely, ask them to cancel the trip without charge or reassign you to a different vehicle.
-   - If you feel unsafe in your current location, move to a public, well-lit area before continuing the support call.
+1. **Pause somewhere safe and visible.** Stand out of traffic and away from drive lanes. Keep your belongings with you. Take 3 slow breaths so you can follow steps without rushing.
+2. **Verify the basics that most often explain “booking active, won’t unlock.”**
+   - Confirm the **license plate** matches the app.
+   - Confirm you’re at the correct location/spot.
+   - Confirm you are **within your reservation window** (not early/late).
+   - If you extended or modified the trip, confirm the change is actually **confirmed** in the app/account (and any confirmation message/email your operator uses).
+3. **Fix common phone/app blockers (only what applies to your operator).**
+   - If your operator uses phone-unlock, confirm **Bluetooth** is on and the app has the needed permissions (often Bluetooth and **Location Services**; cellular data can help as a fallback).
+   - If you’re in a garage or dead zone, step to a place with reception to load/refresh the trip screen, then **return to stand right next to the car** before trying unlock again.
+4. **Try one clean unlock attempt.**
+   - Fully close the app, reopen it, open the active trip, and use the app’s **Unlock/Start** control once.
+   - If your service provides a **membership card/key fob** option (e.g., a Zipcard), try that method once.
+5. **If it still won’t unlock, contact support from the trip screen (or call the support number).** Be ready to give:
+   - your reservation start/end time,
+   - the vehicle plate and exact location,
+   - the exact error message or what the button looks like (greyed out, spinning, “start rental” unavailable),
+   - what you already tried.
+   **Ask them to document the access failure** and to **restart/reassign/end the trip** if needed so you’re not charged for time you couldn’t access the vehicle.
+6. **If you feel unsafe or the situation is escalating, prioritize safety over the car.**
+   - Move to a staffed/public place (store, hotel lobby, transit area) and make the support call from there.
+   - If there is immediate danger to life or a serious medical emergency, call **911**.
+7. **Document now, dispute later.** Screenshot the active trip/booking, the failure/error, and the current time. Note the plate and location. This protects you if you’re charged for time you couldn’t use.
 
 ## What can wait
-- You do not need to resolve refund amounts or account credits while standing by the vehicle.
-- You do not need to diagnose why the hardware failed or "check under the car" for issues.
-- You do not need to worry about "abandoning" the car if support has officially ended the reservation for you.
+- You do **not** have to resolve billing, refunds, or credits while you’re stranded.
+- You do **not** need to uninstall/reinstall the app or make major phone changes unless support specifically asks.
+- You do **not** need to “figure out who’s at fault” right now—focus on access + safety + documentation.
 
 ## Important reassurance
-Digital key failures are a known issue in car-sharing and are almost always handled as technical errors by member services. Once you have documented the time and plate, the responsibility for the non-functional vehicle lies with the operator.
+This happens to many people and is usually solved once the basics are confirmed and support can see your active trip. Slowing down and giving support the right details is often the fastest path out.
 
 ## Scope note
-This guide covers immediate stabilization and access troubleshooting only. It does not address long-term billing disputes, insurance claims for missed appointments, or Getaround-specific procedures as that service is no longer operational in the USA.
+These are first steps to stabilise and regain access (or get reassigned) without making the situation worse. Any later decisions (refunds, complaints, account flags) can be handled once you’re safe and no longer time-pressured.
 
 ## Important note
-Car-share hardware varies by year and model; always prioritize the specific instructions provided within your active app session. This information is provided for general guidance and does not replace the Terms of Service of your specific car-share provider. If you are in a life-safety emergency, dial 911.
+This guide is general information, not legal advice. Car-share access methods and support processes vary by company and vehicle; follow the in-app instructions and the company’s support guidance.
 
 ## Additional Resources
+- https://www.zipcar.com/ziptopia/going-places/what-to-do-locked-out-of-zipcar
 - https://support.zipcar.com/hc/en-us/articles/4415642580115-I-m-having-trouble-unlocking-with-my-phone-what-should-I-do
 - https://support.zipcar.com/hc/en-us/articles/360033129293-How-do-I-lock-unlock-my-Zipcar
-- https://www.enterprisecarshare.com/us/en/mobile-app.html
 - https://getaround.com/help/articles/a6ee4040f2c9
-- https://support.zipcar.com/hc/en-us/articles/4415643228819-Can-I-unlock-my-car-while-in-a-garage-with-poor-or-no-reception

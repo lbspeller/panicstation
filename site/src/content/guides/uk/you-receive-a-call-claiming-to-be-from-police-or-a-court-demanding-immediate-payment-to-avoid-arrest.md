@@ -1,90 +1,75 @@
----
+﻿---
 title: "What to do if… you receive a call claiming to be from police or a court demanding immediate payment to avoid arrest"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "police scam call"
-  - "court scam phone call"
-  - "fake arrest threat"
-  - "pay now or arrested"
-  - "warrant scam call"
-  - "spoofed caller id"
-  - "press 1 scam call"
-  - "unpaid fine scam"
-  - "demanding gift cards"
-  - "demanding bank transfer"
-  - "crypto payment demand"
-  - "official payment demand"
-  - "impersonating authorities"
-  - "urgent payment pressure"
-  - "suspicious official call"
-  - "avoid arrest call"
-  - "magistrates court scam call"
-  - "court fine phone scam"
-  - "police payment demand"
-  - "court payment demand"
-  - "fake bailiff call"
-  - "enforcement officer scam"
-  - "help i got a call from the police"
-  - "what do i do if the court calls me for money"
-  - "what do i do if a bailiff calls me"
-  - "help i am being threatened with arrest over the phone"
-  - "my caller id says police but they want money"
-  - "my phone says court but it is a recording"
-  - "automated court call"
-  - "hmcts scam call"
-  - "police badge number scam"
-  - "fake warrant threat"
-  - "immediate payment scam"
-  - "threatened with jail over phone"
-  - "police calling about a fine"
-  - "court calling about a warrant"
-last_reviewed: "2026-03-17"
+  - police scam call
+  - court scam phone call
+  - fake arrest threat
+  - pay now or arrested
+  - warrant scam call
+  - spoofed caller id
+  - press 1 scam call
+  - unpaid fine scam
+  - demanding gift cards
+  - demanding bank transfer
+  - crypto payment demand
+  - “official” payment demand
+  - impersonating authorities
+  - urgent payment pressure
+  - suspicious official call
+  - “avoid arrest” call
+  - magistrates’ court scam call
+  - court fine phone scam
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you receive a call claiming to be from police or a court demanding immediate payment to avoid arrest (UK)
 
 ## Short answer
-Hang up immediately and do not provide any personal or financial information. Legitimate UK police forces and courts will never call you to demand immediate payment over the phone to prevent an arrest.
+End the call and do not pay. Then verify independently by contacting the real police force or court using an official number you find yourself (not one the caller gives you).
 
 ## Do not do these things
-- Do not stay on the line to be transferred to an "officer," "clerk," or "supervisor."
-- Do not pay using gift cards, cryptocurrency, cash vouchers, or bank transfers.
-- Do not provide your National Insurance number, home address, or banking PIN.
-- Do not trust the name or number on your caller ID, as these are easily spoofed by criminals.
-- Do not click on any links sent via text or email while you are on the call.
-- Do not keep the call a secret if the caller tells you "not to tell anyone" or "stay on the line while you go to the bank."
+- Do not stay on the line to be “transferred” to a “supervisor”, “court clerk”, “payment team”, or “officer in charge”.
+- Do not pay by bank transfer, card, cash voucher, gift cards, cryptocurrency, or via a link/text sent during the call.
+- Do not share personal or banking details (address, date of birth, bank name, account details, one-time codes, PINs).
+- Do not trust caller ID, a “case/reference number”, or a convincing script as proof (numbers can be spoofed).
+- Do not let them keep you isolated (e.g., “don’t tell anyone”, “stay on the phone while you pay”).
+- Do not call back a number they provide or click any link/attachment they send.
 
 ## What to do now
-1. **End the call immediately without engaging in further conversation.** You do not need to explain why you are hanging up or prove that you know it is a scam.
-2. **Ensure the phone line is disconnected before making a new call.** If using a landline, wait at least five minutes or use a different device (like a mobile) to ensure the fraudster has not "held" the line open.
-3. **Contact your bank immediately if you shared any financial details.**
-   - Call **159** from your mobile or landline to be connected directly to your bank's fraud department.
-   - Alternatively, use the number on the back of your physical bank card.
-4. **Verify the claim through an official, independent channel.**
-   - For police claims: Call **101** (the non-emergency police number) or use the official website of your local police force to find a contact number.
-   - For court or fine claims: Use the "Find a court or tribunal" tool on the official GOV.UK website to find the direct contact details for the court mentioned. 
-5. **Report the incident to the national fraud reporting service.**
-   - In England, Wales, or Northern Ireland: Use the **Report Fraud** website or call **0300 123 2040**.
-   - In Scotland: Contact **Police Scotland on 101**. 
-6. **Forward any suspicious follow-up text messages to 7726.** This free service allows your mobile provider to investigate and block the sender.
+1. **End the call.** Say: “I’m going to verify this through official channels.” Then hang up.
+2. **Clear the line before you call anyone back.** If you used a **landline**, wait **at least five minutes** and make sure you hear a normal dial tone, or use a **different phone** (for example, a mobile).
+3. **If the call involved money or your bank, use a safe route back to your bank.** Dial **159** (where available) to be connected securely to your bank, or call the number on the back of your bank card / your bank’s official app.
+4. **Verify the claim independently (pick what matches what they said):**
+   - If they claimed **the police**: contact your local police force via its publicly listed number or use **101** (non-emergency). If you feel in immediate danger, call **999**.
+   - If they claimed **a court / fines / warrants**: contact the **relevant court** via an official website or central switchboard number you look up yourself (not from the caller). If they mentioned a specific “court” name, use that exact court’s official contact route.
+5. **Capture what you still have (without re-contacting the caller):** claimed organisation/court, caller name, any “badge” or “reference number”, number displayed, what they demanded, payment method, and date/time. Save voicemails, texts, emails, and screenshots.
+6. **If you paid or shared details, treat it as urgent:**
+   - Call your bank’s fraud team using a trusted number (bank card / official app/website). Ask them to **stop/recall transfers if possible**, cancel cards if needed, and add extra checks to your account.
+   - If you shared passwords or one-time codes, **change passwords immediately** (start with email and banking) and strengthen sign-in security (for example, multi-factor authentication).
+7. **Report it:**
+   - Report to **Report Fraud (Action Fraud)** online or by phone.
+   - If you’re in **Scotland**, report to **Police Scotland on 101** (and you can also contact **Advice Direct Scotland** for scam advice/support).
 
 ## What can wait
-- You do not need to prove your innocence to the caller or "clear your name" right now.
-- You do not need to change your phone number today unless the calls become persistent.
-- You do not need to visit a police station or court in person today if you have verified the call was a scam via 101 or official government contact tools.
+- You do not need to argue with the caller, prove it’s a scam, or “clear your name” on the spot.
+- You do not need to decide today whether to change your phone number.
+- You do not need to contact multiple agencies today if you’ve already secured your accounts and made at least one official report.
 
 ## Important reassurance
-It is normal to feel a sudden sense of panic when someone claiming to be an authority figure threatens you with arrest. These callers use high-pressure tactics specifically to disable your logical thinking. Hanging up is the safest and most responsible action you can take to protect your assets.
+These calls are designed to trigger panic and urgency, even in very cautious people. Hanging up and verifying independently is the right response, and legitimate organisations will not punish you for checking.
 
 ## Scope note
-This guide provides first-step stabilization for responding to suspicious phone calls from individuals impersonating UK authorities. It does not cover the management of legitimate, documented debt or legal proceedings initiated through official postal mail.
+This is first-steps-only guidance to stop immediate harm and buy time. If you later discover there is a genuine fine, warrant, or court matter, deal with it through official letters, verified numbers, and (if needed) legal advice.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Official procedures for courts (HMCTS) and police forces are subject to change. If you believe you are in immediate physical danger, call 999.
+This is general information, not legal advice. Processes vary by location and situation. If you think you might be at immediate risk, contact emergency services.
 
 ## Additional Resources
-- https://www.met.police.uk/advice/advice-and-information/fa/fraud/personal-fraud/banking-payment-card-investment-pension-fraud/
-- https://www.met.police.uk/advice/advice-and-information/fa/how-to-check-an-officers-identity/
 - https://www.gov.uk/guidance/guidance-on-hmcts-related-suspicious-phone-calls-emails-and-text-messages
-- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/courier-fraud/
+- https://www.askthe.police.uk/faq/?id=0608c109-1717-ed11-b83f-6045bd0e7a65
+- https://www.moneyhelper.org.uk/en/money-troubles/scams/a-beginners-guide-to-scams
 - https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/

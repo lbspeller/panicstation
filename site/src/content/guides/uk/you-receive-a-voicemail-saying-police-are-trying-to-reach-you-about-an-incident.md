@@ -1,91 +1,82 @@
----
+﻿---
 title: "What to do if… you receive a voicemail saying police are trying to reach you about an “incident”"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "police voicemail incident"
-  - "unknown incident police call"
-  - "verify police call uk"
-  - "police impersonation scam"
-  - "spoofed caller id police"
-  - "missed call from police"
-  - "voicemail from officer"
-  - "call back police number"
-  - "incident reference number"
-  - "asked to attend station"
-  - "voluntary interview request"
-  - "police want a statement"
-  - "worried it is a scam"
-  - "courier fraud police"
-  - "demand money to avoid arrest"
-  - "gift card fine scam"
-  - "call 101 to verify"
-  - "report cyber crime fraud uk"
-  - "panic after police voicemail"
-  - "what do i do if police leave a voicemail"
-  - "what do i do if an officer calls me"
-  - "help i got a call from the police"
-  - "help i think the police called me"
-  - "my voicemail says the police called"
-  - "my phone says police incident"
-  - "officer warrant number check"
-  - "collar number verification"
-  - "report fraud uk 2026"
-  - "police scotland scam report"
-  - "voicemail from unknown officer"
-  - "police incident call back"
-  - "emergency investigation voicemail"
-last_reviewed: "2026-03-17"
+  - police voicemail incident
+  - unknown incident police call
+  - verify police call uk
+  - police impersonation scam
+  - spoofed caller id police
+  - missed call from police
+  - voicemail from officer
+  - call back police number
+  - incident reference number
+  - asked to attend station
+  - voluntary interview request
+  - police want a statement
+  - worried it’s a scam
+  - courier fraud police
+  - demand money to avoid arrest
+  - gift card fine scam
+  - call 101 to verify
+  - report cyber crime fraud uk
+  - panic after police voicemail
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… you receive a voicemail saying police are trying to reach you about an “incident” (UK)
 
 ## Short answer
-Do not call the number provided in the voicemail or return the call directly from your call log; instead, verify the contact by calling 101 from a different phone or after waiting at least five minutes.
+Don’t call the voicemail number back. Save the message, then verify independently by contacting the police via 101 (or via your local force’s official contact details).
 
 ## Do not do these things
-- Do not call back the number that left the message or use any phone number provided in the recording.
-- Do not provide personal identifiers such as your date of birth, address, National Insurance number, or bank details to an unverified caller.
-- Do not make any payments via bank transfer, cryptocurrency, gift cards, or cash couriers to "resolve" an investigation.
-- Do not click links sent via text or email that claim to lead to police documentation or evidence.
-- Do not delete the voicemail, call history, or associated messages, as these are evidence if the contact is a scam.
+- Don’t ring back the number the voicemail came from, or click any link it mentions.
+- Don’t share personal details (date of birth, address, NI number, bank details) on an inbound call “to confirm identity.”
+- Don’t pay anything or “settle it today” — especially not by gift cards, crypto, bank transfer, or handing cash/items to a courier.
+- Don’t rush to attend a station immediately because you feel pressured or embarrassed.
+- Don’t delete the voicemail, call log, or any texts/emails linked to it.
 
 ## What to do now
-1. **Stop interacting with the device for five minutes.** This ensures that if the caller has attempted to keep your phone line open (a common scam technique), the connection is fully severed before you make a new call.
-2. **Use a different phone to call 101 if possible.** If a second phone is unavailable, ensure you hear a clear dial tone before dialing 101.
-3. **Contact the police switchboard to verify the officer.** Dial **101** (or **999** only if there is an immediate threat to life) and explain that you received a message regarding an "incident."
-   - State that you need to verify the identity of the person who contacted you.
-   - Provide the name and station of the officer if they left those details.
-4. **Obtain official verification details once connected.** If 101 confirms the contact is legitimate, request the following:
-   - The officer's full name and collar (warrant) number.
-   - Their specific department and base station.
-   - A central switchboard number or official police email address for future contact.
-5. **Report the contact if it is unverified or suspicious.**
-   - **England, Wales, and Northern Ireland:** Report the incident to **Report Fraud** (formerly Action Fraud) online at reportfraud.police.uk or by calling 0300 123 2040.
-   - **Scotland:** Report the matter directly to **Police Scotland** via **101**.
-6. **Request legal advice before agreeing to an interview.** If the contact is genuine and you are asked to attend a "voluntary interview" or "caution plus three" interview:
-   - Ask for the specific purpose of the interview and what the allegations are.
-   - State that you wish to have a solicitor present.
-   - Note that you are entitled to free legal advice for any formal police interview, even if it is voluntary and not at a police station.
-7. **Maintain a record of the interaction.** Document the time of the original voicemail, the number displayed, and the names of any staff you speak to during the verification process.
+1. **Make a brief calm pause.** Sit down, take one slow breath, and remind yourself: vague “incident” messages are often routine or a scam tactic — you’re going to verify first.
+2. **Preserve what you have.** Save the voicemail. Screenshot the number, time/date, and any transcript your phone shows.
+3. **Verify using a trusted route (not the voicemail).**
+   - If you think someone is in immediate danger, call **999**.
+   - Otherwise call **101** and say: *“I received a voicemail claiming police are trying to reach me about an incident. Can you confirm if this is genuine and advise next steps?”*
+4. **Ask for verification details (and write them down).** If 101 confirms it may be genuine, ask for:
+   - the officer/staff member’s **name** and **collar/warrant number**
+   - their **station/unit**
+   - an **incident/reference number**
+   - a **switchboard** or other official call-back route
+5. **If it looks suspicious, stop contact and report it.**
+   - End contact with the caller/number you received.
+   - **England, Wales, Northern Ireland:** report cyber crime/fraud via **Report Fraud** (online or by phone).
+   - **Scotland:** report to **Police Scotland** (typically via **101**) and follow their advice on reporting scams.
+6. **If it’s genuine and they want to “have a chat” or invite you in: slow it down.**
+   - Ask: *“Am I being asked to attend voluntarily, or am I required to?”*
+   - If it’s voluntary, it’s okay to say: *“I’m not discussing this on the phone. Please tell me the purpose and how to arrange this via official contact details.”*
+7. **If you’re arrested or formally detained:** ask for legal advice before answering questions.
+   - Say clearly: *“I want a solicitor before any interview or questions.”*
+   - **England/Wales/Northern Ireland:** if you are in custody at a police station, you can request legal advice (including a duty solicitor) before interview.
 
 ## What can wait
-- You do not need to provide an immediate explanation or statement regarding the "incident" mentioned.
-- You do not need to decide whether to attend a voluntary interview until you have consulted with a legal professional.
-- You do not need to grant police remote access to your phone or computer based on a phone request.
-- You do not need to gather evidence or "prove your innocence" before verifying the contact.
+- You do **not** need to explain what happened, “clear it up,” or prepare a detailed statement right now.
+- You do **not** need to decide today whether you’re a witness, suspect, or complainant — verification comes first.
+- You do **not** need to hand over documents, phone access, or passwords because of a voicemail.
 
 ## Important reassurance
-Receiving an unexpected message from the police often causes an immediate physical stress response. This reaction is normal and occurs whether the contact is a routine administrative query, a genuine witness request, or a criminal scam. Using the 101 verification process is the standard, safest way to regain control of the situation.
+It’s normal to feel a jolt of fear when you hear “police” and “incident.” Many genuine police contacts are routine (witness queries, admin checks, mistaken identity). Scams also commonly use authority and urgency. Verifying through 101 is a safe, steady next step.
 
 ## Scope note
-This guide provides first-step stabilization for verifying police contact and preventing immediate financial or legal escalation. It does not replace the advice of a qualified solicitor if you are involved in a criminal investigation.
+These are first steps only — to reduce panic and prevent irreversible mistakes (like calling back a scammer or walking into an interview unprepared). If the contact is genuine, getting tailored legal advice may help with any interview or statement.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Police procedures may vary slightly between forces. If you are in immediate danger or a crime is in progress, always call 999.
+This is general information, not legal advice. If you believe you’re at immediate risk, call 999. If you’re unsure whether a contact is real, verify through official channels before engaging.
 
 ## Additional Resources
-- https://www.met.police.uk/advice/advice-and-information/fa/how-to-check-an-officers-identity/
-- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
-- https://www.citizensadvice.org.uk/consumer/scams/check-if-something-might-be-a-scam/
-- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/7726-reporting-scam-texts-and-calls
-- https://www.which.co.uk/news/article/police-impersonation-scams-what-you-need-to-know-aCeZ41H53MSN
+- https://www.police.uk/advice/advice-and-information/fa/how-to-check-an-officers-identity/
+- https://www.gov.uk/contact-police
+- https://www.reportfraud.police.uk/
+- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
+- https://www.gov.uk/government/publications/pace-code-c-2023/pace-code-c-2023-accessible
+- https://www.legislation.gov.uk/ukpga/1984/60/section/58

@@ -1,85 +1,96 @@
----
+﻿---
 title: "What to do if… messages start auto-archiving or skipping your inbox and you did not change any settings"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "messages auto-archiving"
-  - "messages skipping inbox"
-  - "emails auto-archiving"
-  - "emails skipping inbox"
-  - "inbox settings changed"
-  - "messages bypassing inbox"
-  - "what do i do if messages start auto-archiving"
-  - "what do i do if emails skip my inbox"
-  - "what do i do if my inbox is empty"
-  - "what do i do if filters changed"
-  - "help i am missing new emails"
-  - "help i have unwanted email forwarding"
-  - "help my email is being archived"
-  - "help my messages are skipping inbox"
-  - "gmail skip inbox filter"
-  - "outlook rule auto archive"
-  - "unknown forwarding address"
-  - "rogue email filters"
-  - "unauthorized account access"
-  - "hacked email settings"
-  - "messages going to trash"
-  - "missing incoming mail"
-  - "auto-archive enabled without permission"
-  - "third party app access"
-  - "suspicious sign in activity"
-  - "hidden email rules"
-  - "diverted email recovery"
-  - "account security check"
-last_reviewed: "2026-03-17"
+  - emails skipping inbox
+  - messages auto-archiving
+  - email going to archive
+  - inbox suddenly empty
+  - missing new emails
+  - gmail skip inbox
+  - outlook rules changed
+  - inbox rules you didnt make
+  - unwanted email forwarding
+  - email filters changed
+  - mailbox settings changed
+  - suspected email account hack
+  - unknown device signed in
+  - third party app access
+  - mail client imap pop issue
+  - shared mailbox delegate access
+  - email suddenly sorting wrong
+  - important emails not arriving
+  - messages bypassing inbox
+  - account security check
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… messages start auto-archiving or skipping your inbox and you did not change any settings (USA)
 
 ## Short answer
-Isolate the account by changing your password and enabling two-factor authentication, then audit and delete any unauthorized filters, rules, or forwarding addresses.
+Assume compromise until proven otherwise: lock down the account (password + 2FA + sign-out), then remove any rules/filters/forwarding that are diverting your mail.
 
 ## Do not do these things
-- Do not request password resets for other services (banking, social media) until this email account is secured.
-- Do not click security links inside emails that claim to be "verification" unless you specifically triggered them.
-- Do not delete large batches of archived or junk mail immediately, as they may contain evidence of the unauthorized change.
-- Do not assume the issue is resolved just because you deleted a rule; hackers often use third-party app permissions to re-create them.
+- Don’t request password resets for important accounts until you’ve secured the email account.
+- Don’t click “security verification” links from random emails or pop-ups—go directly to your provider’s official site/app.
+- Don’t delete large volumes of mail (Archive/Junk/Deleted) while stressed; you may remove clues about what changed.
+- Don’t keep logging in from every device you own until you’ve checked for a rogue app/device that may be re-creating rules.
 
 ## What to do now
-1. **Secure the primary account credentials immediately.** **Change your email password to a strong, unique phrase and enable two-factor authentication (2FA) if it is not already active.** This stops an unauthorized user from immediately re-accessing the account after you clear the rogue settings.
+1. **Reduce the chance of immediate damage (keep it reversible).**  
+   For the next few minutes, avoid any action that uses this email account as proof-of-identity (password resets, “verify it’s you” links) until you’ve secured it. If something is truly urgent, prefer a recovery method you already control (authenticator app, phone prompts, backup codes you previously saved) rather than changing contact details while panicked.
 
-2. **Terminate all active sessions across all devices.** **Use the "sign out of all other web sessions" or "sign out everywhere" feature in your account security settings.** 
-   - Note for Outlook / Microsoft users: This action can take up to 24 hours to fully propagate across all devices and apps.
+2. **Secure the account before you “fix the inbox.”**  
+   - Change the email password to a strong, unique one.  
+   - Turn on two-factor authentication (2FA).  
+   - Sign out of other sessions/devices if your provider supports it.  
+   This prevents an attacker from simply re-adding the same rule after you remove it.
 
-3. **Remove unauthorized filters and rules.** **Navigate to your email settings to identify and delete any rules that include actions like "Skip the Inbox," "Archive it," or "Move to Folder."**
-   - In Gmail: Check "Filters and Blocked Addresses."
-   - In Outlook: Check "Rules" and also the "Sweep" settings, which can automatically move mail from specific senders.
+3. **Check for rules/filters that “Skip Inbox,” auto-archive, delete, or move mail.**  
+   Look for anything broad or unfamiliar, especially actions like **Archive**, **Move**, **Mark as read**, **Delete**, or **Skip Inbox**.  
+   - **Gmail:** review filters (especially any with “Skip the Inbox (Archive it)”).  
+   - **Outlook/Outlook.com:** review mail rules that move messages to Archive/Deleted/another folder.
 
-4. **Disable unauthorized email forwarding.** **Check the "Forwarding and POP/IMAP" settings to ensure your mail is not being sent to an unfamiliar external address.** Delete any addresses you do not recognize, as this is a common method for attackers to monitor your communications after losing direct access.
+4. **Check and disable forwarding/redirect you didn’t set.**  
+   Remove unknown forwarding addresses. Forwarding is a common “silent persistence” technique after a takeover.
 
-5. **Audit third-party apps and service permissions.** **Review the list of apps with access to your account and revoke permission for any unfamiliar "email cleaners," "productivity tools," or "third-party clients."** These apps can often bypass password changes and continue to manipulate your inbox via API access.
+5. **Audit sign-ins, devices, and connected apps.**  
+   - Remove unknown devices from your account/device list.  
+   - Remove third-party app access you don’t recognize (email “cleaners,” add-ons, extensions, automations).  
+   - If this is a work/school account, alert IT/security right away and follow their process.
 
-6. **Check for "Sent" mail or "Trash" activity you did not initiate.** **Look in your "Sent" folder for messages you did not send and your "Trash" or "Deleted Items" for messages you did not delete.** This helps determine if the account was used for outbound spam or if specific sensitive incoming mail was targeted for deletion.
+6. **Verify whether mail is arriving but being re-filed.**  
+   Search “All Mail/All Messages,” “Archive,” and “Other/Focused” tabs. Send yourself a harmless test email and see where it lands. This helps separate “delivery” problems from “inbox diversion.”
 
-7. **Report the incident to official USA-specific channels if fraud occurred.** **If you lost money or believe your identity was stolen due to this compromise, file a report at IdentityTheft.gov or with the FBI’s Internet Crime Complaint Center (IC3).** 
-   - If this is a work or school account, you must contact your organization's IT security department immediately.
+7. **Stop a rogue mail app/device from re-creating the problem.**  
+   If you use multiple clients (phone app + Outlook + Apple Mail + tablet):  
+   - Temporarily sign out of the account on the least-trusted device/app.  
+   - Re-check whether the unwanted behavior returns after you delete the rule/filter.  
+   Then run a malware scan and review browser extensions on devices you use to access email.
+
+8. **If you suspect you were hacked, use one USA-specific support/reporting path (only if relevant).**  
+   - For consumer recovery steps (including checking for forwarding rules you didn’t set): follow the FTC’s “recover your hacked email or social media account” guidance.  
+   - If this involved scams, money loss, or impersonation: file a complaint with the FBI’s IC3.
 
 ## What can wait
-- Organizing your folders or re-labeling mail that was incorrectly archived.
-- Notifying all your contacts about the technical issue.
-- Updating your password on unrelated websites that do not use this email for recovery.
+- Reorganizing labels/folders and cleaning up old mail.
+- Sending detailed explanations to contacts (do this after your account is secure).
+- Investigating exactly how it happened—secure first, investigate second.
 
 ## Important reassurance
-Seeing your inbox empty or messages disappearing can be highly distressing, but these "silent" rules are a common and documented tactic used to hide security alerts or password reset notifications from a victim. Taking these steps systematically allows you to regain control of your digital communications.
+Mail suddenly “skipping the inbox” is usually caused by a rule/filter/forwarding change. It can happen accidentally, but it’s also a known pattern in account takeovers—so taking security-first steps is the right instinct.
 
 ## Scope note
-This guide covers the immediate technical stabilization of an email account showing unauthorized rule changes. It does not provide forensic analysis or long-term identity protection strategies.
+These are immediate stabilisation steps only. After things stop diverting, do a broader password audit (especially if you reused passwords) and review recovery options so you can regain access if it happens again.
 
 ## Important note
-This information is for general guidance and does not constitute technical or legal advice. Recovery procedures vary by provider; always refer to the official support documentation for Gmail, Microsoft Outlook, or your specific email host. If your account is managed by an employer, their internal security protocols take precedence over this guide.
+This guide is general information, not legal, technical, or security consulting. If the affected account belongs to your employer or school, your fastest safe path is to involve their IT/security team, because they may need to check for wider compromise.
 
 ## Additional Resources
-- https://consumer.ftc.gov/node/77537
-- https://support.google.com/mail/answer/6579
-- https://support.google.com/mail/answer/10957
-- https://support.microsoft.com/en-us/office/set-up-rules-in-outlook-75ab719a-2ce8-49a7-a214-6d62b67cbd41
-- https://support.apple.com/en-us/117379
+- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
+- https://www.ic3.gov/
+- https://support.google.com/mail/answer/6579?hl=en
+- https://support.google.com/mail/answer/10957?hl=en
+- https://support.microsoft.com/en-us/office/manage-email-messages-by-using-rules-in-outlook-c24f5dea-9465-4df4-ad17-a50704d66c59
+- https://support.microsoft.com/en-us/account-billing/how-to-sign-out-of-your-microsoft-account-everywhere-58da4a74-a719-43a6-9dd0-74a7e613229f

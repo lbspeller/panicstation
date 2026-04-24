@@ -1,101 +1,83 @@
----
+﻿---
 title: "What to do if… an electronic monitoring device malfunctions and you are told it could be treated as a violation"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "electronic tag malfunction"
-  - "ankle tag not working"
-  - "gps tag fault"
-  - "curfew tag problem"
-  - "alcohol tag issue"
-  - "monitoring unit not working"
-  - "base station not working"
-  - "tag strap broken"
-  - "tag battery won’t charge"
-  - "tag not charging"
-  - "false tamper alert"
-  - "false violation alert"
-  - "equipment failure curfew"
-  - "power cut monitoring equipment"
-  - "no signal tag"
-  - "told it’s a breach"
-  - "accused of tampering"
-  - "tag alarm going off"
-  - "tag error message"
-  - "what do i do if my tag is beeping"
-  - "help i can’t charge my tag"
-  - "what do i do if my base station has no power"
-  - "my tag is vibrating and won’t stop"
-  - "electronic monitoring service contact"
-  - "serco ems contact number"
-  - "g4s scotland monitoring contact"
-  - "tagging equipment red light"
-  - "ems fault report"
-  - "breach of curfew due to technical fault"
-  - "tagging strap loose"
-  - "ems alcohol tag malfunction"
-  - "ems location tag battery"
-  - "what to do if tag is faulty"
-  - "reporting a tag error"
-last_reviewed: "2026-03-17"
+  - electronic tag malfunction
+  - ankle tag not working
+  - gps tag fault
+  - curfew tag problem
+  - alcohol tag issue
+  - monitoring unit not working
+  - base station not working
+  - tag strap broken
+  - tag battery won’t charge
+  - tag not charging
+  - false tamper alert
+  - false violation alert
+  - equipment failure curfew
+  - power cut monitoring equipment
+  - no signal tag
+  - told it’s a breach
+  - accused of tampering
+  - tag alarm going off
+  - tag error message
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… an electronic monitoring device malfunctions and you are told it could be treated as a violation (UK)
 
 ## Short answer
-Report the fault immediately to your designated monitoring service (Serco EMS or G4S) and your supervising officer, then remain at your approved address and document the device’s state with photos.
+Get the malfunction officially logged immediately using the contact route on your tagging paperwork (or your monitoring unit), then stay compliant and do nothing that could look like tampering while you document a clear timeline.
 
 ## Do not do these things
-- Don’t attempt to cut, loosen, or remove the strap even if it is beeping or vibrating.
-- Don’t unplug the base station or monitoring unit to "reset" it unless specifically told to do so by a monitoring officer.
-- Don’t use a multi-plug adapter or extension lead for the base station if it was installed directly into a wall socket.
-- Don’t leave your approved address during curfew hours to "find a signal" or visit a police station.
-- Don’t ignore a low battery vibration; continue attempting to charge even if the light does not immediately change.
-- Don’t submerge the tag in water for longer than the manufacturer’s limit (usually 20–60 minutes) while it is malfunctioning.
+- Don’t cut, loosen, remove, cover, or “test” the strap/device (even briefly).
+- Don’t press random reset buttons, unpair devices, or change equipment setup unless the monitoring team tells you to.
+- Don’t ignore alarms, low-battery warnings, missed check-ins, or messages saying you’re in violation.
+- Don’t leave your approved address or break your schedule “to sort it out” unless you are explicitly instructed to (and you record who authorized it).
+- Don’t get pulled into heated arguments on calls/doorstep—focus on getting the fault logged.
+- If the device is causing urgent medical symptoms (for example severe swelling, numbness, skin burning, or signs of infection), don’t “push through” it—get urgent medical help first, then notify the monitoring team/supervisor as soon as it’s safe.
 
 ## What to do now
-1. **Identify the specific signs of malfunction.**  
-   Check for the following cues:
-   - Consistent or rapid beeping from the base station or tag.
-   - A vibrating sensation from the ankle tag that does not stop after connecting a charger.
-   - Red or flashing lights on the base station where there is usually a steady green light.
-   - "No Signal" or "Battery Fail" messages on the monitoring unit screen.
-2. **Call the 24/7 monitoring service for your specific region immediately.**  
-   - **England and Wales (Serco EMS):** Call 0800 137 291 for curfew/location tags or 08081 780 058 for alcohol tags.
-   - **Scotland (G4S):** Call 0800 840 0783.
-   - **Northern Ireland:** Use the number provided on your specific release paperwork or the sticker on your monitoring unit.
-3. **Request and record a specific incident or reference number.**  
-   **Note down the exact time of the call, the name of the operator, and the reference number provided.** This is your primary evidence that you attempted to report the fault promptly.
-4. **Notify your supervising contact (Probation Practitioner or Youth Justice Officer).**  
-   **Send a text or leave a voicemail stating the fault has occurred and provide the reference number you received from the monitoring service.** Do this even if it is outside of office hours so there is a time-stamped record.
-5. **Take clear photographs of the equipment in its current state.**  
-   **Capture the following images if possible:**
-   - The tag on your ankle showing the strap is intact and has not been tampered with.
-   - The screen or lights on the base station showing the error.
-   - The charger connected to the tag (if the issue is power-related).
-6. **Remain at your approved address if you are under a curfew.**  
-   **Stay within range of the base station even if you believe it is not working.** Leaving the property during curfew hours may be recorded as a separate "absence" violation, regardless of the equipment fault.
-7. **Keep a written log of all device behavior.**  
-   **Write down every time the device beeps, vibrates, or displays an error message.** Include the times you attempted to charge it and what happened (e.g., "vibrated at 18:00, plugged in, light stayed red").
-8. **Provide the reference number if police or monitoring officers visit.**  
-   **If you are told you are in breach, state: "I have reported a technical fault at [Time] and my reference number is [Number]."** Avoid detailed arguments; refer them to the logged report.
+1. **Stabilise your compliance first.** If you have a curfew/location requirement, **stay at your approved address** and keep your phone available unless your conditions clearly allow you to go elsewhere right now.
+2. **Use the official fault-report route you were given (paperwork or the equipment).**  
+   Call the number on your tagging paperwork, or use the call function on your monitoring unit/base station if you were shown how. Say: “I’m reporting a technical malfunction and I’m trying to remain compliant.”
+3. **If your tag is in England & Wales, you can also use the GOV.UK EMS numbers (24/7).**  
+   - Curfew/location tags: **EMS Curfew and Location Monitoring 0800 137 291**  
+   - Alcohol tags: **EMS Alcohol Monitoring 08081 780 058**  
+   If you are **not** in England & Wales (for example Scotland or Northern Ireland), **use the contact route on your paperwork** (services differ).
+4. **Ask for a reference/incident number and write it down.** Also record the time you called, who you spoke to, and what you were told to do next.
+5. **Notify your supervising contact as soon as you can (probation practitioner / youth justice / prison licence contact).**  
+   Keep it short: “Device malfunction reported at [time], ref [number]. I’m at [approved address] and staying compliant. Please advise.”
+6. **Create a quick “proof pack” (2–5 minutes).**  
+   - Write: when it started, what it did (beeps/lights/messages), where you were, and every call/text.  
+   - Photos: device on ankle (strap clearly intact), charger connected, and any error lights/messages on the monitoring unit/base station.
+7. **Do only the safest basics (no improvising).**  
+   - Keep required equipment powered and connected as you were instructed.  
+   - Put the tag on charge if required.  
+   - Don’t reset/reconfigure anything unless the monitoring team explicitly instructs you—record who instructed it.
+8. **If you’re told “this could be treated as a violation,” reply with three facts and one request.**  
+   - Facts: “I reported the malfunction at [time]. My reference is [number]. I am at [approved address] and staying compliant.”  
+   - Request: “Please confirm exactly what you want me to do next and whether I should remain at my approved address while this is resolved.”
+9. **If police attend or call about a breach, keep it brief and consistent.**  
+   “This is a technical malfunction. I reported it at [time] and have reference [number]. I’m following my conditions.” Ask them to note you **reported promptly** and **did not tamper**.
 
 ## What can wait
-- You do not need to contact a solicitor immediately unless you are formally arrested or a summons is issued.
-- You do not need to write a formal letter of complaint while the fault is still active.
-- You do not need to worry about the cost of replacement equipment if the fault is genuinely technical and not caused by damage.
+- You do **not** need to decide right now whether to make a complaint or challenge anything formally.
+- You do **not** need to write a long statement—your short timeline + reference numbers is enough for now.
+- You do **not** need to keep phoning multiple organisations repeatedly once the fault is logged, unless you’re told to.
 
 ## Important reassurance
-Equipment failures, battery degradation, and signal "black spots" are known issues in electronic monitoring. If you have reported the issue promptly and remained at your approved address, you are following the required procedure to protect your status. Documentation is your strongest defense against a breach accusation.
+Technical faults and signal/charging issues do happen. What usually helps most is showing good faith: you **reported it quickly**, **stayed compliant**, **didn’t tamper**, and **kept a clear record**.
 
 ## Scope note
-This guide covers first-step stabilization for technical malfunctions only. It does not provide legal advice for breach hearings or guidance on challenging the underlying court order or license conditions.
+These are first steps only, to reduce the risk of escalation and prevent irreversible mistakes. Any next-stage steps (formal dispute, legal advice, complaints) depend on your exact order/licence and local arrangements.
 
 ## Important note
-Electronic monitoring is managed by different private contractors depending on your location in the UK. Always prioritize the specific phone numbers and instructions printed on your personal "Home Monitoring" handbook or the equipment itself.
+This is general information, not legal advice. Electronic monitoring arrangements differ across the UK and by tag type and conditions. If your written conditions or official instructions conflict with anything here, follow your official instructions and document them.
 
 ## Additional Resources
 - https://www.gov.uk/electronic-tags
-- https://assets.publishing.service.gov.uk/media/5d4ab4b8e5274a5403cd2451/Subject_Handbook.pdf
-- https://www.gov.uk/government/publications/electronic-monitoring-in-the-criminal-justice-system/electronic-monitoring-in-the-criminal-justice-system
-- https://www.gov.uk/government/publications/electronic-monitoring-court-bail-protocol/electronic-monitoring-court-bail-protocol
-- https://unlock.org.uk/advice/licence-conditions/
+- https://www.gov.scot/policies/reducing-reoffending/electronic-monitoring/
+- https://www.g4s.com/en-gb/what-we-do/care-and-rehabilitation-services/electronic-monitoring-scotland
+- https://www.g4s.com/en-gb/contact/electronic-monitoring

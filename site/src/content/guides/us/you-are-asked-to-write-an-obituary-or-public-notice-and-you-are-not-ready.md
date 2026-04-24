@@ -1,103 +1,74 @@
----
+﻿---
 title: "What to do if… you are asked to write an obituary or public notice and you are not ready"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "asked to write an obituary"
-  - "not ready to write obituary"
-  - "pressured to publish notice"
-  - "death notice vs obituary"
-  - "public notice after death"
-  - "legal notice for estate"
-  - "court notice after death"
-  - "funeral notice wording"
-  - "writing about someone who died"
-  - "grieving and overwhelmed"
-  - "family asking for obituary"
-  - "newspaper notice deadline"
-  - "who should write obituary"
-  - "what to include in obituary"
-  - "what not to include obituary"
-  - "privacy in obituary"
-  - "identity theft after death"
-  - "obituary scam concerns"
-  - "can't face writing tribute"
-  - "what do i do if asked to write an obituary"
-  - "what do i do if forced to publish death notice"
-  - "what do i do if obituary pressure"
-  - "what do i do if i cannot write obituary"
-  - "help i have to write an obituary"
-  - "help i am not ready to write death notice"
-  - "help i need an obituary template"
-  - "help i am being pressured for funeral notice"
-  - "my family wants an obituary now"
-  - "my lawyer needs a probate notice"
-  - "my newspaper has an obituary deadline"
-  - "smell of funeral flowers"
-  - "seeing funeral home paperwork"
-  - "hearing probate court deadlines"
-  - "feeling grief brain"
-  - "obitchuary typo"
-  - "obit notice error"
-  - "obituary at night"
-  - "obituary for parent"
-  - "obituary for spouse"
-  - "obituary in small town"
-last_reviewed: "2026-03-16"
+  - asked to write an obituary
+  - not ready to write obituary
+  - pressured to publish notice
+  - death notice vs obituary
+  - public notice after death
+  - legal notice for estate
+  - court notice after death
+  - funeral notice wording
+  - writing about someone who died
+  - grieving and overwhelmed
+  - family asking for obituary
+  - newspaper notice deadline
+  - who should write obituary
+  - what to include in obituary
+  - what not to include obituary
+  - privacy in obituary
+  - identity theft after death
+  - obituary scam concerns
+  - can't face writing tribute
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… you are asked to write an obituary or public notice and you are not ready (USA)
 
 ## Short answer
-Identify if the request is for a personal tribute (obituary), a service announcement (death notice), or a legal requirement (probate notice), then submit a minimal factual notice to meet deadlines while delaying the full story.
+Don’t force a full obituary: confirm whether they want an obituary, a brief death notice, or a court/probate-related legal notice, then submit a minimal notice (or delegate) to meet any deadline without oversharing.
 
 ## Do not do these things
-- Do not include high-risk personal identifiers such as the deceased’s middle name, birth date, birthplace, or mother’s maiden name.
-- Do not list a specific home address for the deceased or for surviving family members.
-- Do not pay any "urgent" fees requested via text or phone by people claiming to be from a funeral home or newspaper.
-- Do not agree to publish a cause of death or sensitive family details until you have clear consensus from the immediate next of kin.
-- Do not attempt to draft the notice in a group chat or public forum where multiple people can edit the text simultaneously.
+- Do not publish unnecessary personal identifiers (for example: Social Security number, full home address, or detailed identifiers that could enable fraud).
+- Do not write anything about circumstances/cause of death unless the family has agreed and you’re certain.
+- Do not pay anyone who contacts you “out of the blue” claiming you must publish urgently—verify first.
+- Do not assume “public notice” is the same as an obituary (court/probate notices are a different thing and vary by state).
+- Do not send drafts to a wide group chat where edits spiral—pick one reviewer at most.
 
 ## What to do now
-1. **Categorize the specific request immediately.**  
-   - Determine if the requester needs an obituary (a biographical tribute), a death notice (a factual service announcement), or a Notice to Creditors (a legal probate requirement).
-   - If the request is for an "obituary," confirm if a 4-line death notice is acceptable to satisfy immediate newspaper or funeral home deadlines.
-2. **Submit a "Placeholder Notice" to buy time.**  
-   - Provide only the bare essentials: full legal name, city and state of residence, and the name of the funeral home handling arrangements.
-   - Use the phrase "Details to follow" or "Services are private" to satisfy immediate publication needs without committing to a full biography.
-3. **Route legal notices to the estate representative.**  
-   - If the request involves a "Notice to Creditors" or a court-ordered probate notice, forward it to the appointed Personal Representative (Executor) or the estate attorney.
-   - Be aware that as of 2026, some states (like California) require specific additional notices to departments such as Child Support Services or Health Care Services if certain conditions are met.
-4. **Notify the Social Security Administration (SSA).**  
-   - Call 1-800-772-1213 (or 1-800-325-0778 for TTY) to report the death.
-   - This step is the most effective way to prevent identity theft (ghosting) that often begins with information harvested from public obituaries.
-5. **Verify any requests for payment directly with the provider.**  
-   - If a funeral home or newspaper contacts you demanding payment to keep an obituary "on schedule," hang up.
-   - Call the facility back using a verified phone number from their official website or the General Price List (GPL) provided to you in person.
-6. **Delegate the initial draft to one person.**  
-   - Appoint a single trusted individual to gather facts (name, surviving relatives, service time) while you retain final "veto" power.
-   - Instruct the drafter to leave all biographical sections as "TBD" (To Be Determined) if you are not ready to review them.
-7. **Secure the deceased's home if service times are published.**  
-   - If you must publish the time and location of a funeral, ensure someone is physically present at the deceased's home during those hours.
-   - Burglars frequently use obituary service times to identify empty properties.
+1. **Ask what “public notice” means in this request:**  
+   “Do you mean (a) an obituary/tribute, (b) a short paid death notice with service info, or (c) a court/probate notice for the estate?”  
+   This prevents you from accidentally taking on a legal responsibility.
+2. **Buy time with a two-step plan:**  
+   “I can submit a short notice today; a longer obituary will follow when the family is ready.” Ask for an extension if needed.
+3. **If it’s for a newspaper or funeral home website:** submit the smallest safe version.  
+   Use only: name, city/state, and service info (“private service” / “details forthcoming” / funeral home contact). Many funeral homes will format and post a basic notice for you.
+4. **If it might be a court/probate notice:** stop and route it to the right authority.  
+   In the U.S., requirements depend on the state and the court. If you are not the appointed personal representative/executor, don’t guess—forward the request to the person handling the estate (often with a probate attorney). If you *are* the personal representative, contact the probate court or the estate attorney to confirm what (if anything) must be published.
+5. **Delegate drafting, keep final approval:** ask one trusted person to produce a first draft from facts only. Your job is to approve and remove anything you don’t want public.
+6. **Create a “safe facts list” before you write anything:** full legal name, preferred name, city/state, funeral home contact, and (optionally) surviving relatives by relationship. Mark unknown items as “TBD” rather than filling gaps.
+7. **Protect against scams while you’re under strain:** scammers target grieving families and may claim a funeral will be canceled unless you pay immediately. If money is requested, pause, verify by calling the funeral home using a number you find yourself, and avoid “urgent” payment demands.
 
 ## What can wait
-- You do not need to write a narrative biography or "life story" right now.
-- You do not need to select photos or coordinate a digital memorial page today.
-- You do not need to decide which family members to list or omit if there is a conflict.
-- You do not need to settle on the specific wording for a permanent headstone or memorial marker.
+- You do not need to write a life story, pick photos, or craft the “right” tone today.
+- You do not need to decide what to say about cause of death or family relationships right now.
+- You do not need to handle any court/probate notice personally unless you are the appointed personal representative and have confirmed local requirements.
 
 ## Important reassurance
-It is normal to feel "grief brain" or a complete inability to find the right words during the first few days after a loss. A short, factual notice is professionally and socially acceptable; it does not indicate a lack of love or respect for the person who died.
+Feeling unable to write is common and does not mean you’re failing. A short, factual notice is enough to stop the immediate pressure while you get through the first wave of grief.
 
 ## Scope note
-This guide covers immediate stabilization and harm reduction regarding public and legal notices. It does not provide legal advice for probate or long-term estate administration.
+These are first steps to reduce pressure and prevent harmful oversharing. If the request is tied to court/probate, disputes, or legal responsibility, the next step is to involve the personal representative and (often) a probate attorney in your state.
 
 ## Important note
-Probate and legal notice requirements vary significantly by state and the size of the estate. If you are the court-appointed personal representative, consult with a probate attorney to ensure you meet statutory publication deadlines for your jurisdiction.
+This is general information, not legal advice. Court/probate notice rules vary by state and situation. If you’re unsure whether something is a simple obituary/death notice or a court-related notice, slow down and confirm before publishing.
 
 ## Additional Resources
-- https://www.legacy.com/memorial-writing/how-to-write-an-obituary
-- https://www.legacy.com/memorial-writing/obituary-templates
-- https://www.funeralocity.com/blog/funeral-announcements-9-perfect-wording-samples/
-- https://www.usa.gov/death-loved-one
-- https://www.legacy.com/memorial-writing/obituary-examples
+- https://consumer.ftc.gov/consumer-alerts/2023/06/imposters-prey-families-preparing-funeral-loved-one
+- https://www.ftc.gov/business-guidance/blog/2023/06/scammers-impersonate-funeral-home-staff-prey-mourning-families-can-it-get-any-lower
+- https://www.aarp.org/money/scams-fraud/funeral-bereavement/
+- https://www.fbi.gov/contact-us/field-offices/elpaso/news/press-releases/fbi-el-paso-warns-about-scams-that-are-targeting-the-deceased-and-their-grieving-families-bereavement-scams
+- https://www.dignitymemorial.com/grief-and-sympathy/losing-a-loved-one/how-to-write-an-obituary
+- https://www.nmfh.org/how-do-i-write-an-obituary/

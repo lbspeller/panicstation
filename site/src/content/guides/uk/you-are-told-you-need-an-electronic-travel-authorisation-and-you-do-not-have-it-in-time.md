@@ -1,88 +1,81 @@
----
+﻿---
 title: "What to do if… you are told you need an electronic travel authorisation and you do not have it in time"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "travel authorisation missing"
-  - "eta not in time"
-  - "uk eta pending"
-  - "missing travel permission"
-  - "denied boarding uk"
-  - "airline says i need an eta"
-  - "help i dont have an eta"
-  - "what do i do if i need an eta"
-  - "my eta application is pending"
-  - "help i forgot my travel authorisation"
-  - "electronic travel authorisation help"
-  - "uk travel documents problem"
-  - "told at check-in i need permission"
-  - "transit authorisation uk"
-  - "airside transit requirements 2026"
-  - "wrong passport for eta"
-  - "check-in kiosk error travel document"
-  - "eta email not received"
-  - "cannot board flight to london"
-  - "ukvi contact for pending eta"
-  - "denied boarding documentation"
-  - "boarding pass refused eta"
-  - "emergency eta application"
-  - "uk immigration travel permission"
-  - "last minute travel documents"
-  - "no eta no travel"
-  - "travel authorisation for eu citizens"
-  - "esta vs eta confusion"
-  - "wrong nationality on flight booking"
-last_reviewed: "2026-03-17"
+  - travel authorisation missing
+  - eta not in time
+  - esta not in time
+  - eTA not in time
+  - travel permission required
+  - told at check-in
+  - airline says i can't board
+  - travel documents problem
+  - border entry permission
+  - last minute travel authorisation
+  - authorisation pending
+  - authorisation email not received
+  - wrong passport used
+  - new passport after applying
+  - transit authorisation confusion
+  - airside transit uk
+  - scam eta website
+  - urgent rebooking decision
+  - denied boarding paperwork
+  - check-in closing time
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you are told you need an electronic travel authorisation and you do not have it in time (UK)
 
 ## Short answer
-Apply immediately via the official UK ETA app or GOV.UK website and wait for a confirmation email; you cannot board a UK-bound flight without an approved status. If approval does not arrive before your check-in closes, you must rebook your flight for a later date.
+Verify the requirement on the official government site for your destination, then choose one path fast: apply correctly right now or rebook. If the issue is a UK ETA for travel to the UK, do not travel until you’ve received the email confirming you have an ETA.
 
 ## Do not do these things
-- Do not attempt to travel to the airport or board a plane with only a "submitted" or "pending" application receipt.
-- Do not pay third-party websites offering "expedited" or "premium" ETA services; they cannot speed up the Home Office process and often charge extra fees.
-- Do not apply multiple times in a panic, as this can cause technical conflicts and further delays in the UKVI system.
-- Do not assume that being a dual citizen or having a "connecting flight" automatically exempts you without verifying the 2026 transit rules.
-- Do not argue with gate staff about your entry rights; they are legally required to verify digital permission before you board.
+- Do not pay a third-party “fast track” website that looks unofficial or adds large fees.
+- Do not assume “I’ll sort it at the airport” — many authorisations must be approved before you can check in/board.
+- Do not apply multiple times in a panic with different answers or different passports unless the official guidance tells you to.
+- Do not book a new non-refundable flight until you’ve checked what changes your existing ticket allows.
+- Do not waste time arguing at the gate without a plan (apply now vs rebook): you can lose the minutes you need.
 
 ## What to do now
-1. **Identify the exact reason for the boarding block or check-in error.** Ask the airline agent if the issue is a missing Electronic Travel Authorisation (ETA), a mismatch between your passport and the booking, or an expired document.
-   - Observe if the check-in kiosk displays "Document Required" or "Contact Airline."
-   - Note if the agent mentions "No digital permission" or "ETA not found."
-2. **Determine if you need an ETA for your specific route and passport.** Check the official GOV.UK guidance to see if your nationality requires an ETA for the UK as of 2026.
-   - **Airside transit:** If you are staying within the international transit area at Heathrow or Manchester and not passing through UK border control, you may be exempt (verify this for your specific terminal).
-   - **Landside transit:** If you must change airports, collect bags, or stay overnight, an ETA is mandatory.
-   - **Dual Citizens:** If you hold British or Irish citizenship, you are ineligible for an ETA and must present your British or Irish passport to board.
-3. **Apply immediately using the official "UK ETA" app or GOV.UK portal.** Use the passport you intend to travel on and ensure every detail matches exactly, including middle names and passport numbers.
-   - The fee is £16 per person (non-refundable).
-   - You will need to take a digital photo of your face and scan your passport chip if using the app.
-4. **Wait for the confirmation email from UK Visas and Immigration (UKVI).** Decisions are often made in minutes but can take up to 3 working days if a manual review is required. 
-   - Check your spam and junk folders every 15 minutes.
-   - Do not travel until you have the 16-digit ETA reference number and confirmation that your status is "Approved."
-5. **Contact the airline to discuss rebooking options if the "Check-in Closed" time is approaching.** Ask specifically if they can "protect" your booking or move you to a flight 24–48 hours later while you wait for the decision.
-   - Ask about "no-show" policies if you cannot cancel in time.
-   - Request a "Denied Boarding" statement if the airline refuses you, though note that missing documentation is usually considered a valid reason for refusal.
-6. **Contact UKVI only if 3 working days have passed without a decision.** Use the digital status support line at 0300 790 6268 (or +44 300 790 6268 from abroad) for technical help with pending applications.
-   - Have your application reference number and passport details ready.
+1. **Get the exact requirement in writing (or screenshot).** Ask the airline/agent which authorisation you’re missing (for example: UK ETA, US ESTA, Canada eTA) and confirm which passport details are attached to your booking (nationality, passport number).
+2. **Check whether this is actually required for your exact journey.** Use the official government information for the country you are travelling *to* (and any countries you transit). For UK-related travel, also check:
+   - **Transit vs entry:** if you are only transiting and **will not go through UK passport control**, you may not currently need a UK ETA in some airside transit situations (rules depend on airport/routing and can change).
+3. **If you do need it, apply immediately using only the official channel.** Use the passport you will actually travel on and save:
+   - the application reference number,
+   - the confirmation email (when it arrives),
+   - screenshots of any “pending”/“submitted” page.
+4. **If the missing authorisation is a UK ETA (travelling to the UK):**
+   - UK guidance says you usually get a decision quickly, but you should allow **up to 3 working days (Monday–Friday)**.
+   - **You must wait for the email confirming you have an ETA before you travel to the UK.**
+   - If there’s **no decision after 3 working days**, check your spam/junk folder, then contact UKVI using the official contact options.
+   - Note: the “check your ETA” online service is for checking whether you **already have** an ETA and when it expires, not for a brand-new application that hasn’t had a decision yet.
+5. **Ask the airline one focused question immediately:** “If approval doesn’t arrive before check-in closes, what are my options to move this booking?” Ask about:
+   - moving to a later flight (same day/next day),
+   - change fees/waivers,
+   - whether they can hold the fare while you wait for the decision.
+6. **Know when you’re unlikely to get compensation.** If you’re refused boarding because you don’t have required travel documentation, that can be considered a reasonable denial of boarding (different from being “bumped” due to overbooking). Focus on rebooking/refund options and insurance rather than a compensation argument.
+7. **If you must rebook, make it harder to repeat the problem.** Before paying:
+   - re-check authorisation requirements for the new itinerary (including transit points),
+   - confirm the authorisation (once approved) will link to the same passport you will present.
 
 ## What can wait
-- You do not need to determine why your application went to "manual review" right now; the priority is obtaining the approval.
-- You do not need to pursue a refund for the £16 fee; it is a processing fee and is generally not returned even if you miss your flight.
-- You do not need to contact your embassy unless you have lost your passport or require an Emergency Travel Document.
+- You do not need to decide today whether to complain formally—first stabilise your travel plan.
+- You do not need to gather every receipt right now; keep booking confirmations and screenshots of any “authorisation required” messages.
+- You do not need to figure out why you were flagged (rule change vs mismatch) before acting—verify and fix first.
 
 ## Important reassurance
-It is normal to feel a sudden surge of panic when told you cannot board, especially if you were unaware of the 2026 rollout for your nationality. The digital system is designed to link to your passport automatically; once the approval email arrives, the airline's system will usually update within seconds, allowing you to proceed.
+This is a common, time-critical travel failure point—especially when rules change or a new passport is used. A calm sequence (official check → one correct application → clear rebooking decision) is usually the fastest way out.
 
 ## Scope note
-This guide covers first-step stabilization for travellers blocked by the UK ETA requirement. It does not provide legal advice for those with previous visa refusals, criminal records, or complex immigration histories which may lead to an ETA being denied.
+These are first steps to reduce harm (scams, wrong applications, missed check-in) and buy time. If you’re refused, have complicated immigration history, or urgent humanitarian travel, you may need specialist consular/immigration advice.
 
 ## Important note
-This information is for general guidance and reflects UK procedures as of March 2026. Entry requirements, fees, and processing times are subject to sudden change by the Home Office. Possession of an ETA does not guarantee entry into the UK; the final decision remains with Border Force officers upon arrival.
+This guide provides general information, not legal advice. Entry requirements and processing times can change quickly and depend on nationality, passport type, route (including transit), and individual screening. Always use official government channels for applications and status checks.
 
 ## Additional Resources
-- https://www.gov.uk/eta
 - https://www.gov.uk/eta/apply
-- https://www.gov.uk/guidance/check-when-you-can-get-an-electronic-travel-authorisation-eta
-- https://www.gov.uk/eta/when-not-need-eta
 - https://www.gov.uk/check-eta
+- https://homeofficemedia.blog.gov.uk/electronic-travel-authorisation-eta-factsheet-february-2026/
+- https://www.caa.co.uk/passengers-and-public/resolving-travel-problems/delays-and-cancellations/denied-boarding/

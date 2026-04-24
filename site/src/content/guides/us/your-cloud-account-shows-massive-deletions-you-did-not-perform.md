@@ -1,104 +1,103 @@
----
+﻿---
 title: "What to do if… your cloud account shows massive deletions you did not perform"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "unexplained cloud upload"
-  - "sudden large upload"
-  - "cloud storage hacked"
-  - "cloud account compromise"
-  - "unexpected sync activity"
-  - "unknown device signed in"
-  - "suspicious account activity"
-  - "possible ransomware sync"
-  - "files uploaded without you"
-  - "shared folder changed"
-  - "connected app access"
-  - "revoke third party access"
-  - "sign out of all sessions"
-  - "change cloud password now"
-  - "enable two factor authentication"
-  - "storage usage spike"
-  - "unexpected data transfer"
-  - "cloud audit log check"
-  - "backup app gone wrong"
-  - "malware on computer upload"
-  - "stolen credentials cloud"
-  - "what do i do if my cloud is uploading"
-  - "what do i do if i see unknown files"
-  - "what do i do if my storage is full"
-  - "what do i do if someone hacked my drive"
-  - "help i see suspicious uploads"
-  - "help i have unknown devices on my account"
-  - "help i lost control of my cloud storage"
-  - "help i think i have ransomware in the cloud"
-  - "unexpected synchronization"
-  - "unrecognized backup activity"
-  - "cloned cloud account"
-  - "unauthorized data transfer"
-  - "account takeover symptoms"
-  - "unexplained bandwidth spike"
-last_reviewed: "2026-03-17"
+  - cloud account mass deletions
+  - cloud files deleted not by me
+  - someone deleted my cloud files
+  - cloud storage hacked
+  - account takeover cloud storage
+  - unexpected file deletions
+  - cloud sync deleted everything
+  - shared folder emptied
+  - missing files in cloud drive
+  - cloud activity log suspicious
+  - restore deleted cloud files
+  - cloud recycle bin recovery
+  - cloud version history restore
+  - unknown device signed in
+  - suspicious login cloud account
+  - connected apps unauthorized
+  - ransomware deleting cloud files
+  - cloud files disappeared overnight
+  - file a cybercrime report ic3
+  - enable multi factor authentication
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your cloud account shows massive deletions you did not perform (USA)
 
 ## Short answer
-Pause all synchronization immediately to stop the data transfer, then terminate all active sessions and update your security credentials.
+Stop syncing and lock down the account first (password change + MFA + sign out other sessions), then recover quickly using the cloud provider’s “trash/recycle bin” and “restore/version history” tools.
 
 ## Do not do these things
-- Don’t delete the unexplained files immediately as they may contain evidence of how the breach occurred or what was targeted.
-- Don’t leave your internet connection active on the syncing device if the "pause sync" feature is unresponsive.
-- Don’t click "Secure your account" links in emails or text messages, as these are often phishing attempts.
-- Don’t reuse any password that has been used for other online services.
-- Don’t ignore the activity if the upload stops on its own; the access may still be active.
+- Don’t leave multiple devices syncing while you troubleshoot (it can propagate deletions).
+- Don’t empty “trash/recycle bin/recently deleted,” and don’t approve unexpected sign-in prompts.
+- Don’t follow “support” links that come via email/text you didn’t initiate; use in-app help or type the provider’s site yourself.
+- Don’t reuse an old password (or a minor variation) if compromise is possible.
+- Don’t pay extortion demands or “recovery fees.”
+- Don’t factory reset devices yet if you still need them to check logs, confirm what happened, or recover data.
 
 ## What to do now
-1. **Disable synchronization on all connected devices immediately.**  
-   Locate the cloud storage icon in your system tray or menu bar and select "Pause Syncing" or "Quit." If the software is unresponsive, disconnect the device from Wi-Fi or unplug the ethernet cable to physically break the connection.
+1. **Pause syncing immediately**
+   - Disconnect affected devices from the internet (airplane mode / Wi-Fi off / unplug ethernet).
+   - In the cloud app, **pause sync** or **sign out** on each device you can access.
+   - If this is a work/school account, notify your IT/admin now and ask them to **block sign-ins** temporarily while you secure it.
 
-2. **Access your account through a verified official channel.**  
-   Open a clean browser window and manually type the provider's official URL (such as drive.google.com, dropbox.com, or onedrive.live.com) rather than using bookmarks or history links.
+2. **Record what you’re seeing (before it changes)**
+   - Screenshot or export:
+     - account **sign-in history / security events**
+     - the **file activity log** showing deletions (timestamps, device names, user)
+     - any **new sharing links**, new collaborators, or permission changes
+   - Write down when you first noticed it and any recent suspicious emails or prompts.
 
-3. **Terminate every active session except your current one.**  
-   Navigate to the "Security" or "Recent Activity" section of your account settings and select "Sign out of all other sessions" or "Remove all trusted devices." This force-closes access for any unauthorized parties currently logged in.
+3. **Secure the account from a trusted device**
+   - From a device you trust (or a freshly updated one):
+     - **Change your password** to a strong, unique password.
+     - **Enable MFA** (prefer passkeys/security keys or app-based methods when available).
+     - Use the provider option to **sign out of all other devices/sessions**.
+   - Review and remove anything unfamiliar:
+     - logged-in **devices**
+     - **connected apps / third-party access**
+     - **recovery email/phone** changes you didn’t make
 
-4. **Update your password and implement app-based multi-factor authentication.**  
-   Create a unique password of at least 16 characters using a mix of types. Set up two-factor authentication (2FA) using an authenticator app or hardware security key rather than SMS codes, which are vulnerable to interception.
+4. **Recover files using built-in recovery features**
+   - Check the provider’s:
+     - **Trash / Recycle Bin / Recently Deleted**
+     - **Version history** for edited/overwritten files
+     - “**Restore to a previous time**” (some services can roll back a whole drive/account within a retention window)
+   - If you’re in an organization (Microsoft 365 / Google Workspace), ask an admin to use **admin recovery** tools (often different from personal accounts).
 
-5. **Examine the security recovery information for unauthorized changes.**  
-   Check that the recovery email address, backup phone number, and any physical security keys listed are yours. Delete any unrecognized contact methods or third-party "connected apps" that have permissions to view or manage your files.
+5. **Contact the cloud provider via official support**
+   - Use the provider’s official help/support site (type it yourself or use in-app help).
+   - Tell them: “**mass deletions not performed by me**,” the time window, and that you suspect **account takeover** or an **unauthorized app/session**.
+   - Ask what retention windows apply and whether they can restore from server-side retention.
 
-6. **Audit the recent activity logs for unrecognized IP addresses.**  
-   Review the "Login History" or "Audit Log" for locations or device types that do not match your hardware. Note the timestamps and IP addresses of any suspicious uploads for potential reporting.
-
-7. **Inspect the cloud "Trash" or "Recycle Bin" for deleted data.**  
-   Attackers often delete original files after uploading malicious versions or stealing data. Check if your legitimate files were moved to the trash recently without your knowledge.
-
-8. **Scan local devices for credential-stealing malware.**  
-   Run a full system scan using updated antivirus software on any computer that was syncing to the cloud. Do not enter your new cloud password on these devices until they are confirmed clean.
-
-9. **File a report if personal or financial data was exposed.**  
-   - Visit **IdentityTheft.gov** to create an official FTC Identity Theft Report if your SSN or financial details were in the cloud.
-   - Submit a complaint at **IC3.gov** if the upload appears to be part of an extortion attempt or significant cybercrime.
+6. **If there’s fraud/extortion or identity theft, report it**
+   - If you’ve lost money, paid someone, or this is part of a cyber-enabled scam, file a report with the **FBI Internet Crime Complaint Center (IC3)** (watch for lookalike scam sites).
+   - If you suspect **identity theft** (new accounts, tax/benefits issues, credit problems, SIM swap, etc.), start at **IdentityTheft.gov** and follow the steps it generates for your situation.
 
 ## What can wait
-- You do not need to identify every single file that was uploaded or changed in the first hour.
-- You do not need to factory reset your computer immediately if the malware scan is clean and sync is paused.
-- You do not need to contact your ISP to change your home IP address.
-- You do not need to purchase "dark web monitoring" services while you are still stabilizing the account.
+- Rebuilding folder structures or re-sharing permissions (do this after recovery).
+- Device wipe/reinstall decisions (after you’ve stopped the account takeover and recovered what you can).
+- Switching providers or redesigning your backup strategy.
+- Broad notifications to everyone in your contacts/customer list (wait until you know what was accessed or sent).
 
 ## Important reassurance
-Unexplained uploads are frequently caused by automated "desktop backup" features, large system updates being mirrored, or shared folder activity from a collaborator. Taking these steps secures you against a malicious actor while you determine if the cause was a simple configuration error.
+This situation is alarming, but many cloud services keep deleted files and older versions for a period. Moving quickly—but carefully—often preserves recovery options. The biggest preventable mistake is leaving syncing running while an attacker (or a bad token/app) is still active.
 
 ## Scope note
-This guide provides first-step stabilization only. If you confirm a breach involving sensitive personal or corporate data, you may require professional forensic recovery or legal counsel regarding data breach notification laws.
+This is first steps only to stabilize, regain control, and maximize the chance of restoring your data. If this is a workplace environment or involves sensitive data, you’ll likely need dedicated IT/security support after the immediate recovery phase.
 
 ## Important note
-This information is for general guidance and does not constitute professional cybersecurity or legal advice. If the account is managed by an employer or contains regulated data (such as HIPAA or financial records), you must follow your organization’s formal incident response plan and notify your IT security department immediately.
+This guide is general information, not legal or professional advice. Recovery windows, “restore” features, and admin tools vary by provider and account type—follow your provider’s official instructions and treat retention time limits as real.
 
 ## Additional Resources
-- https://support.google.com/accounts/answer/6294825?hl=en
-- https://support.google.com/drive/answer/2409045?co=GENIE.Platform%3DDesktop&hl=en
+- https://www.cisa.gov/resources-tools/resources/multi-factor-authentication-mfa
+- https://www.ic3.gov/
+- https://www.identitytheft.gov/steps
+- https://support.google.com/drive/answer/1716222?hl=en
 - https://support.microsoft.com/en-us/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15
-- https://help.dropbox.com/delete-restore/rewind
-- https://www.ic3.gov/CrimeInfo/AccountTakeover
+- https://support.microsoft.com/en-us/account-billing/how-to-recover-a-hacked-or-compromised-microsoft-account-24ca907d-bcdf-a44b-4656-47f0cd89c245
+- https://support.apple.com/guide/icloud/recover-files-and-information-mme6182cfc37/icloud

@@ -1,103 +1,90 @@
----
+﻿---
 title: "What to do if… police contact you about someone else and ask where they are right now"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "police ask where someone is"
-  - "police asking whereabouts"
-  - "police call about someone else"
-  - "police contact about third party"
-  - "asked to locate someone"
-  - "where are they right now"
-  - "police looking for someone"
-  - "request for current location"
-  - "welfare check request"
-  - "missing person enquiry"
-  - "outstanding warrant concern"
-  - "police identity check"
-  - "police impersonation scam"
-  - "unexpected call from police"
-  - "pressured to answer police"
-  - "worried about getting in trouble"
-  - "should i speak to police"
-  - "can i refuse to answer"
-  - "asked to give address now"
-  - "police questioning whereabouts"
-  - "giving location of third party"
-  - "police officer collar number"
-  - "calling 101 to verify identity"
-  - "duty solicitor police station"
-  - "section 17 pace entry"
-  - "witness rights uk police"
-  - "help i got a call from the police"
-  - "what do i do if police ask for my friend"
-  - "what do i do if police are at my door"
-  - "what do i do if police call me"
-  - "help i am being pressured by police"
-  - "my house is being visited by police"
-  - "my phone was called by police"
-  - "police asking for address"
-  - "verify police id 2026"
-last_reviewed: "2026-03-17"
+  - police ask where someone is
+  - police asking whereabouts
+  - police call about someone else
+  - police contact about third party
+  - asked to locate someone
+  - where are they right now
+  - police looking for someone
+  - request for current location
+  - welfare check request
+  - missing person enquiry
+  - outstanding warrant concern
+  - police identity check
+  - police impersonation scam
+  - unexpected call from police
+  - pressured to answer police
+  - worried about getting in trouble
+  - should i speak to police
+  - can i refuse to answer
+  - asked to give address now
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… police contact you about someone else and ask where they are right now (UK)
 
 ## Short answer
-Verify the officer's identity through official channels, then clarify if you are a witness or a suspect before providing any information. You are generally not legally required to disclose someone else's location on the spot without a specific court order or legal advice.
+Pause and verify it’s really the police, then do not guess or lie. If you’re unsure what you can safely say, ask to speak to a solicitor before answering.
 
 ## Do not do these things
-- Don't provide "best guesses," speculations, or theories about where the person might be.
-- Don't lie or provide false information, as this can lead to charges of obstructing justice or perverting the course of justice.
-- Don't feel obligated to invite officers into your home unless they show a warrant or cite a specific emergency power.
-- Don't hand over your phone or allow it to be searched without legal representation.
-- Don't communicate with the third party about the police contact until you have received legal advice, as this may be interpreted as "tipping off" in specific investigations.
+- Don’t lie, “fill gaps”, or guess their location to get off the phone.
+- Don’t share personal info (your address, workplace, bank details) just because the caller sounds official.
+- Don’t consent to searches of your phone or devices just because you feel pressured; ask whether you’re being required to do something or being asked to agree.
+- Don’t let yourself be rushed into letting officers into your home without understanding their legal basis (police can have lawful powers to enter without a warrant in limited urgent situations, but you can still ask what power they’re using).
+- Don’t start coordinating calls/texts about this while you’re stressed and unclear what’s happening; it can escalate risk and drag you into the situation.
 
 ## What to do now
-1. **Verify the identity of the person contacting you immediately.** 
-   - If they are on the phone, ask for their name, rank, collar number, and force. Hang up and dial 101 to ask the operator to verify that the officer is currently on duty and initiated the call.
-   - If they are in person, ask to see their warrant card. You can request that they contact their control room via their radio on loudspeaker so you can hear the operator confirm their identity and the incident log number.
+1. **Check you’re speaking to a real officer (this is step one).**  
+   Ask for their **name, rank, collar number, force, and an incident/log reference**. End the call and **dial 101** yourself to verify (or use a publicly listed switchboard number for that force). If you feel in immediate danger, dial **999**.
 
-2. **Establish your legal status in the conversation before answering questions.** 
-   - Ask clearly: "Am I being spoken to as a witness, or am I a suspect in an investigation?" 
-   - Ask for the incident or crime reference number associated with the enquiry.
+2. **Work out what they’re actually asking of you.**  
+   Calmly ask: “Is this about welfare/missing person, or something else?” and “Am I being asked as a witness, or am I suspected of anything?”  
+   If they suggest you’re suspected, or they want a formal statement/interview, move to step 6.
 
-3. **State your current knowledge clearly and without elaboration.** 
-   - If you do not know the location of the person, say: "I do not know where they are right now." 
-   - Do not allow yourself to be pressured into "thinking harder" or providing a list of people they might be with.
+3. **If you genuinely don’t know where the person is, say that clearly and stop there.**  
+   “I don’t know where they are right now.”  
+   Do not speculate (“maybe at…”) and do not provide “best guesses” under pressure.
 
-4. **Request legal advice if you feel pressured or if the situation is unclear.** 
-   - You can state: "I am not comfortable answering questions about another person's location without first speaking to a solicitor." 
-   - If they insist you must answer, ask them to cite the specific legal power they are using to require that information.
+4. **If you do know where they are, slow it down before you answer.**  
+   You can say: “I need legal advice before I answer questions about someone else’s location.”  
+   If they keep pressing, repeat it. Then ask: “Can you give me a reference number—I’ll call back via 101 / the switchboard.”
 
-5. **Manage in-person visits at the threshold of your property.** 
-   - You are entitled to speak to officers through a closed door or a window. 
-   - If they claim power of entry without a warrant (such as under Section 17 of the Police and Criminal Evidence Act 1984), ask them to specify if they are entering to "save life or limb" or to arrest a person for an "indictable offence." 
-   - Do not physically block their entry if they state they are using these powers, but record the interaction if possible.
+5. **If officers arrive in person, keep the interaction safe and controlled.**  
+   - Speak through the door first if you want to.  
+   - Ask to see a **warrant card/ID** and verify via **101** if you’re unsure.  
+   - Ask: “Do you have a warrant, or what power are you using to enter?”  
+   - Police *can* have lawful powers to enter without a warrant in certain urgent circumstances. If they say they are entering, **don’t physically block them**—step back and calmly ask for the incident reference and a record of what is happening.
 
-6. **Request a duty solicitor if you are detained or asked to attend an interview.** 
-   - In the UK, you have a right to free, independent legal advice at a police station. 
-   - Do not begin a formal interview until your solicitor is present and has been briefed on the situation.
+6. **If you are detained, arrested, or asked to attend an interview, ask for a solicitor immediately.**  
+   Say: “I want legal advice. I want the duty solicitor.” (In the UK, legal advice at the police station is available.)
 
-7. **Make a contemporaneous note of the interaction once it has concluded.** 
-   - Record the time, date, officer details, what was asked, and exactly what you said.
+7. **If you think someone is in immediate danger, treat that separately from the “where are they?” pressure.**  
+   If there’s a real and immediate risk to life/serious harm, call **999** and report the risk as plainly as you can. (You can still avoid guessing details you don’t know.)
+
+8. **Make a quick written note while it’s fresh.**  
+   Time/date, what was asked, what you said, names/collar numbers, incident reference, and any threats/pressure used.
 
 ## What can wait
-- You do not need to decide immediately whether you will provide a witness statement.
-- You do not need to explain your relationship with the third party or provide background history.
-- You do not need to review your own call logs or messages for the police while they are present.
+- You do not need to decide right now whether you “should cooperate fully” or “say nothing forever”.
+- You do not need to argue about the person’s character, explain your relationship, or provide a long story on the spot.
+- You do not need to hand over devices, passwords, or documents in the moment just because you feel intimidated.
 
 ## Important reassurance
-It is a common reaction to feel anxious or rushed when police ask for immediate information. Taking the time to verify identity and seek legal clarity is a standard procedure and does not imply that you are guilty of a crime or being uncooperative.
+It’s normal to feel panicky and pressured when police ask for an immediate location. Taking a minute to verify identity, avoid guessing, and ask for legal advice is a sensible way to protect yourself while keeping things safe.
 
 ## Scope note
-This guide covers first-step stabilization during initial police contact. It does not replace formal legal advice required if you are served with a witness summons or are formally arrested.
+These are first steps for the initial contact. If this becomes a formal investigation, interview, or search, you’ll likely need tailored legal advice.
 
 ## Important note
-This information is for general guidance and applies to UK jurisdictions. Police powers may vary slightly between England and Wales, Scotland, and Northern Ireland. Always consult a qualified solicitor if you are involved in a criminal investigation.
+This is general information, not legal advice. Police powers and your options depend on the situation and where you are in the UK. If you are unsure what you can safely say, get advice from a solicitor—especially before answering questions about someone else’s whereabouts.
 
 ## Additional Resources
-- https://www.gov.uk/police-powers-to-stop-and-search-your-rights/police-powers-stop-question
-- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version
-- https://www.cps.gov.uk/prosecution-guidance/public-justice-offences
-- https://www.cps.gov.uk/information-witnesses
-- https://www.citizensadvice.org.uk/law-and-courts/legal-system/going-to-court-as-a-witness1/you-might-have-to-go-to-court-as-a-witness/youve-given-a-witness-statement-to-the-police/
+- https://www.met.police.uk/advice/advice-and-information/fa/how-to-check-an-officers-identity/
+- https://www.essex.police.uk/police-forces/essex-police/areas/essex-police/au/about-us/officer-identity-check/
+- https://www.kent.police.uk/news/kent/latest/appeals/warning-issued-to-folkestone-residents-following-attempted-frauds/
+- https://www.gov.uk/arrested-your-rights/legal-advice-at-the-police-station
+- https://www.legislation.gov.uk/ukpga/1984/60/section/17

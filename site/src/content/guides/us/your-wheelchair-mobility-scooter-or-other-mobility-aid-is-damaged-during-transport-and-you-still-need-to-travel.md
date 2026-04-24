@@ -1,109 +1,92 @@
----
+﻿---
 title: "What to do if… your wheelchair, mobility scooter, or other mobility aid is damaged during transport and you still need to travel"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
-  - "damaged wheelchair during travel"
-  - "mobility scooter damaged in transit"
-  - "mobility aid broken on trip"
-  - "airline broke my wheelchair"
-  - "wheelchair damaged at airport"
-  - "damaged powerchair after flight"
-  - "mobility device mishandled"
-  - "what do i do if my wheelchair is broken at the airport"
-  - "what do i do if the airline damaged my scooter"
-  - "help i have a damaged powerchair"
-  - "help i am stranded without my mobility aid"
-  - "wheelchair not working after transport"
-  - "scooter controls broken"
-  - "joystick damaged"
-  - "wheel or caster broken"
-  - "frame bent after handling"
-  - "battery case cracked"
-  - "need loaner wheelchair now"
-  - "repair or replacement claim"
-  - "travel disruption disability"
-  - "airline passengers with disabilities bill of rights"
-  - "complaint resolution official help"
-  - "damaged mobility aid help"
-  - "broken wheelchair assistance"
-  - "mobility aid transport damage"
-  - "wheelchair repair travel"
-  - "scooter repair travel"
-  - "traveling with damaged wheelchair"
-  - "traveling with broken mobility scooter"
-  - "emergency wheelchair loaner"
-last_reviewed: "2026-03-17"
+  - damaged wheelchair during travel
+  - mobility scooter damaged in transit
+  - mobility aid broken on trip
+  - airline broke my wheelchair
+  - wheelchair damaged at airport
+  - damaged powerchair after flight
+  - mobility device mishandled
+  - need to keep traveling today
+  - stranded without mobility aid
+  - wheelchair not working after transport
+  - scooter controls broken
+  - joystick damaged
+  - wheel or caster broken
+  - frame bent after handling
+  - battery case cracked
+  - need loaner wheelchair now
+  - repair or replacement claim
+  - travel disruption disability
+last_reviewed: "2026-03-11"
 ---
+
 # What to do if… your wheelchair, mobility scooter, or other mobility aid is damaged during transport and you still need to travel (USA)
 
 ## Short answer
-Stop using the device if it appears unsafe, report the damage immediately to the carrier's supervisor or a Complaint Resolution Official (CRO), and demand a written incident report and a loaner device to continue your travel.
+Pause and check whether your device is safe to use, then report the damage **immediately** and ask for **a written claim/incident number, a loaner, and assistance to continue your trip**.
 
 ## Do not do these things
-- Do not continue using the device if you observe structural cracks, exposed wiring, leaking batteries, or compromised brakes.
-- Do not leave the terminal, station, or arrival area without a written claim number or a copy of the incident report.
-- Do not accept verbal promises of a callback or future repair without a printed or emailed confirmation of the current damage.
-- Do not sign any document stating the device was received in good condition if there is any visible or functional damage.
-- Do not attempt to force bent metal components or "jump" electrical systems yourself, as this can cause further damage or injury.
+- Don’t keep using the device if a safety-critical part is damaged (wheels, brakes, frame, steering/controls, seating, battery casing, exposed wiring).
+- Don’t leave the airport/station/terminal without a **written report** (claim/incident number) and a clear “today” plan.
+- Don’t let the carrier close the issue verbally — get something in writing (even a basic incident report) before you move on.
+- Don’t sign anything that says the device was returned undamaged or that your claim is closed, if that isn’t true — ask for the claim number and next steps instead.
+- Don’t attempt a quick fix that could fail mid-transfer (taping damaged electrical parts, forcing bent components, bypassing brakes).
 
 ## What to do now
-1. **Secure the device and move to a stable area (30–60 seconds).**  
-   **Move out of the flow of foot traffic to a flat, safe surface.** 
-   - Turn off the power if it is an electric device.
-   - Visually check for hazards: dragging parts, loose wheels, cracked frame joints, or punctured tires.
-   - If a battery casing is cracked or leaking, do not touch the fluid; alert staff immediately to a hazardous material spill.
+1. **Make it safe first (30–60 seconds).**  
+   Move to a calmer spot nearby. Power off (if powered). Look for hazards: loose wheel, brake failure, cracked frame, damaged battery casing, exposed wires, leaks, or anything dragging/rubbing.
 
-2. **Request a Complaint Resolution Official (CRO) immediately.**  
-   **If you are at an airport, ask for the airline's CRO in person or by phone.** 
-   - Under Department of Transportation (DOT) rules, airlines must have a CRO available to resolve disability-related issues during operating hours.
-   - State clearly: "My mobility aid was damaged during transport. I need to speak with the CRO to file a claim and arrange a loaner device so I can continue my trip."
+2. **Report damage immediately and get the paperwork started.**  
+   Say plainly:  
+   “My mobility device was damaged during handling/transport and I still need to travel. I need a written report/claim number, a loaner device, and assistance to continue.”
 
-3. **Obtain a written incident report and claim number.**  
-   **Ensure the carrier provides a paper or digital copy of the report before you move on.** 
-   - Ensure the report lists all observed damage specifically.
-   - Note the name and employee ID of the supervisor or agent handling the report.
-   - If flying, remind staff that for domestic flights, the standard baggage liability limit does not apply; the airline is liable for the full original purchase price of the device.
+3. **Collect proof fast (without delaying help).**  
+   Take quick photos (close + wide) of the damage and your itinerary/boarding pass/ticket, plus the make/model/serial number area (if safely reachable).
 
-4. **Request a loaner device that meets your functional needs.**  
-   **Explain the specific requirements you need to continue traveling safely.** 
-   - This may include specific seat widths, pressure-relief cushions, or power versus manual operation.
-   - If the carrier cannot provide an immediate loaner, ask them to pay for a rental from a local medical equipment provider and arrange for its delivery.
+4. **If you’re flying: ask for the CRO and the written notice of your rights.**  
+   Ask the airline for a **Complaints Resolution Official (CRO)** (in person or by phone). If your wheelchair/scooter was mishandled, airlines have specific obligations to:
+   - give you **written notice** of your rights and how to contact the CRO
+   - let you **file a claim** and **choose a preferred repair/replacement vendor**
+   - use best efforts to provide an **adequate loaner wheelchair/scooter** while you wait (they pay for the loaner)
 
-5. **Document the damage with photographs.**  
-   **Take clear photos of the damaged area, the serial number plate, and the device as a whole.** 
-   - Photograph your boarding pass, ticket, or luggage tag next to the damaged part of the device.
-   - Save these images to a cloud service or email them to yourself immediately.
+5. **Push for a workable “today” plan (even if the long-term fix takes time).**  
+   Ask for the safest combination of:
+   - a loaner that meets your basic functional/safety needs (tell them what must work: transfers, posture support, power vs manual, footrests, etc.)
+   - wheelchair assistance/escort through the terminal and to connections
+   - rebooking to an accessible option if you can’t safely continue as planned
+   - accessible ground transportation if you can’t proceed (keep receipts; reimbursement may be available depending on circumstances, especially for airlines)
 
-6. **Establish a "today" travel plan with the carrier.**  
-   **Ask for specific assistance to reach your next connection or final destination.** 
-   - This includes wheelchair assistance / escort services within the terminal.
-   - Ask for accessible ground transportation (e.g., an accessible van or taxi) if your device is unusable and you must reach a hotel or home.
-   - Keep all receipts for any transportation or equipment costs you incur due to the damage.
+6. **If you’re traveling by rail (e.g., Amtrak): request station help immediately.**  
+   At staffed stations, ask for assistance and whether a **courtesy wheelchair** is available so you can continue safely while your situation is sorted out. If you need plan changes, contact Amtrak’s accessibility help via phone/chat options.
 
-7. **Contact station or transit supervisors for rail and bus travel.**  
-   **If traveling via Amtrak or public transit, request an "ADA Supervisor" or station manager.** 
-   - At staffed Amtrak stations, ask for a "courtesy wheelchair" to move through the station while repairs are discussed.
-   - For bus/coach travel, request immediate re-accommodation on the next accessible vehicle if yours cannot be safely secured.
+7. **If you’re on bus/coach or local transit: ask for the ADA/accessibility supervisor and an incident report.**  
+   Request immediate assistance to continue safely (safe boarding/securement help, accessible reroute, or re-accommodation) and get a written incident record for the damage.
+
+8. **If you can’t stay safe (injury risk, can’t transfer, pressure sore risk): switch to “safe stop.”**  
+   Ask staff to help you get to a safe waiting area. If you feel medically unsafe, seek urgent medical care.
 
 ## What can wait
-- Finding a specific repair shop or getting formal repair quotes.
-- Writing a detailed emotional narrative of the event for a formal complaint.
-- Contacting your private insurance company (focus on carrier liability first).
-- Deciding on a permanent replacement if the device is totaled.
+- Long complaint narratives beyond the on-site supervisor/CRO.
+- Negotiating exact reimbursement amounts.
+- Repair quotes and documentation packages (do this once you’re stable).
+- Insurance calls and extended emails.
 
 ## Important reassurance
-A mobility aid is an extension of your body and your independence, not just luggage. It is normal to feel vulnerable or frustrated when it is damaged. You have federal rights under the Air Carrier Access Act (ACAA) and the Americans with Disabilities Act (ADA) to receive assistance and accommodation to continue your journey.
+This is a genuinely destabilizing emergency: your mobility aid is part of your safety and independence, not “just baggage.” It’s reasonable to insist on immediate assistance, documentation, and a loaner/alternative plan so you can keep traveling safely.
 
 ## Scope note
-This guide provides first-step stabilization for a transport-related mobility aid emergency. It focuses on safety, documentation, and obtaining a loaner to complete your immediate travel. Long-term legal claims or permanent repairs are outside this scope.
+These are first steps only, focused on safety and continuing travel today. Once you’re stable, you can decide whether to escalate complaints or pursue a full claim.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. While federal laws (ACAA/ADA) mandate accessibility and liability, the immediate availability of loaners or specific repair vendors depends on the carrier’s local resources. If you believe your rights have been violated, you may file a formal complaint with the Department of Transportation (for airlines) or the Department of Justice (for other transit).
+This is general information, not legal advice. What’s available on the spot varies by carrier and location, but you can still ask for immediate disability support, written documentation, and a safe alternative plan to continue your trip.
 
 ## Additional Resources
-- https://www.transportation.gov/resources/individuals/aviation-consumer-protection/assistive-device-guides/assistive-device-stowage
+- https://www.ecfr.gov/current/title-14/chapter-II/subchapter-D/part-382/subpart-I/section-382.130
 - https://www.transportation.gov/airconsumer/disabilitybillofrights
-- https://www.transportation.gov/individuals/aviation-consumer-protection/traveling-disability
-- https://www.amtrak.com/accessible-travel-services
-- https://www.greyhound.com/help-and-info/customers-with-disabilities
+- https://www.transportation.gov/individuals/aviation-consumer-protection/wheelchair-and-guided-assistance
+- https://www.amtrak.com/station-accessibility
+- https://www.amtrak.com/making-reservations-for-passengers-with-a-disability

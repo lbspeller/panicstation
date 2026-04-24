@@ -1,91 +1,78 @@
----
+﻿---
 title: "What to do if… you receive a request to transfer a loved one’s remains after they die and you are unsure it is legitimate"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "transfer remains request"
-  - "move the body request"
-  - "funeral home request sudden"
-  - "mortuary calling about remains"
-  - "unexpected funeral director contact"
-  - "someone says they have the body"
-  - "burial transport request"
-  - "repatriation request unsure"
-  - "ashes transfer request"
-  - "suspicious invoice after death"
-  - "bereavement scam concern"
-  - "what do i do if i get a suspicious funeral call"
-  - "what do i do if someone wants to move the body"
-  - "what do i do if a mortuary calls unexpectedly"
-  - "what do i do if a funeral home asks for money"
-  - "help i think a funeral director is a scammer"
-  - "help i am being pressured to move a body"
-  - "help i got a suspicious invoice for a deceased person"
-  - "my loved one died and a stranger called about the body"
-  - "smell of burning plastic"
-  - "visible smoke from funeral home"
-  - "unusual heat in mortuary"
-  - "pressure to pay urgent fees"
-  - "unknown firm contacting family"
-  - "identity of deceased confirmation"
-  - "next of kin authorisation question"
-  - "form 104 coroner requirement"
-  - "out of england certificate"
-  - "bereavement fraud reporting"
-  - "action fraud 2026 update"
-  - "suspicious bereavement courier"
-  - "transfer body scam"
-  - "unauthorised remains collection"
-  - "funeral arrangement verification"
-  - "deceased person transport fraud"
-last_reviewed: "2026-03-16"
+  - transfer remains request
+  - move the body request
+  - funeral home request sudden
+  - mortuary calling about remains
+  - unexpected funeral director contact
+  - someone says they have the body
+  - burial transport request
+  - repatriation request unsure
+  - ashes transfer request
+  - suspicious invoice after death
+  - bereavement scam concern
+  - is this legitimate call
+  - verifying funeral arrangements
+  - loved one died paperwork confusion
+  - pressure to pay for transport
+  - unknown firm contacting family
+  - identity of deceased confirmation
+  - next of kin authorisation question
+last_reviewed: "2026-02-23"
 ---
-# What to do if… you receive a request to transfer a loved one’s remains after they die and you are unsure it is legitimate (UK)
 
+# What to do if… you receive a request to transfer a loved one’s remains after they die and you are unsure it is legitimate (UK)
 ## Short answer
-Pause the transfer immediately and verify the current location of the deceased by calling the hospital, mortuary, or your chosen funeral director directly using an official number from their website.
+Pause the transfer and verify independently by contacting the hospital/mortuary/care home (or the funeral director you chose) using a trusted number — not the one you were given by the caller.
 
 ## Do not do these things
-- Do not agree to a transfer, collection, or courier service until you have confirmed who has legal custody of the remains.
-- Do not pay any "urgent" or "priority" fees requested over the phone or via unsolicited links.
-- Do not share sensitive documents such as passports, driving licences, or death certificates with unverified callers.
-- Do not allow any person to collect items or deliver paperwork to your home if they have not been previously vetted.
-- Do not trust caller ID or official-looking email logos, as these can be electronically spoofed.
+- Do not agree to a transfer, collection, or “courier” until you have verified who currently has custody of the person’s remains.
+- Do not pay “urgent fees” or share card/bank details because someone says there’s a deadline.
+- Do not share passports, driving licences, or copies of documents with an unverified person or firm.
+- Do not let anyone collect from your home (or deliver paperwork to sign at the door) if you are unsure who they are.
+- Do not rely on caller ID, emails, or logos as proof — these can be faked.
 
 ## What to do now
-1. **Terminate the contact to create a safe pause.** **Tell the caller you will call them back through an official number after you have checked your records, then hang up immediately.**
-2. **Document the specific details of the request immediately.** **Record the name of the firm, the person’s name, the phone number used, and the claimed location of the deceased.**
-   - Note any specific reference numbers or bank details provided.
-3. **Verify the current custody of the deceased person using a trusted contact method.** **Call the main switchboard of the hospital, care home, or hospice where the death occurred and ask for the Bereavement Office or Mortuary.**
-   - If you have already appointed a funeral director, call them using a number you have used previously.
-4. **Request specific verification from the custodian regarding release status.** **Ask if the deceased is physically in their care and if any request for release has already been logged.**
-   - Ask: "What specific paperwork do you require before you will release the person to a funeral director?"
-5. **Check the status of the Coroner's involvement.** **If the death was sudden or referred to the Coroner, confirm with the Coroner's Officer if the remains have been officially released for transfer.**
-   - In most UK jurisdictions, a body cannot be moved to a private funeral home until the Coroner or Medical Examiner has completed specific reviews.
-6. **Apply extra scrutiny to requests involving movement across borders.** **Verify if a "Notice of Intention to Remove a Body out of England" (Form 104) or a Coroner's "Out of England" certificate (Form 103) is required.**
-   - Permission from a Coroner is legally required to move a body out of England and Wales (including to Scotland).
-7. **Isolate financial and identity data if information was shared.** **Call your bank immediately using the number on the back of your card to report a potential bereavement-related scam.**
-8. **Report the suspicious contact to the relevant national authority.** **Submit a report to the national fraud reporting service to ensure the incident is on record.**
-   - In England, Wales, or Northern Ireland: Use the **Report Fraud** online tool or call **0300 123 2040**.
-   - In Scotland: Call **Police Scotland on 101**.
+1. **Create a safe pause.** Say: “I can’t authorise anything right now. I will call back through an official number.” Then end the call/message.
+2. **Write down what you were told (before it blurs).** Name of firm/person, phone numbers, email, claimed location of the deceased, what they want you to do, any reference numbers, and any payment details they provided.
+3. **Find out who currently has custody — using a trusted route.**
+   - If the death happened in a hospital/care home/hospice: call the main switchboard number from the organisation’s official website and ask for the **bereavement office** or **mortuary**.
+   - If you already instructed a funeral director: call **that** funeral director (using the number you already know/used) and ask if they have been contacted about any transfer request.
+4. **Ask the custodian to confirm what (if anything) is authorised right now.** For example:
+   - “Is the deceased in your care right now?”
+   - “Do you have a funeral director recorded for this person? If so, which one?”
+   - “Has anyone asked you to release or transfer the person? If yes, who, and where to?”
+   - “What do you require before you will release the person to a funeral director (and how do you normally receive that authorisation)?”
+5. **If a coroner is involved, slow down further.** If the death is being dealt with by the coroner, the body is **often not released** for transfer until the coroner’s process allows it. Ask the custodian (or your chosen funeral director) whether the coroner is involved and what is needed next.
+6. **If the request involves removal out of England or Wales, treat it as “extra verification needed.”** Local coroner areas usually have a process for permission/notice to remove a body out of England/Wales, and your funeral director typically handles the relevant paperwork. Do not proceed until your chosen funeral director (or the coroner’s office via an official number) confirms what is required in your area.
+7. **If money or personal data may already have been shared, act immediately to limit harm.**
+   - Call your bank/card provider using the number on your card/app and tell them you may have been targeted by a scam connected to bereavement arrangements.
+   - Change passwords for any email account you used to communicate, and enable two-factor authentication if you can.
+8. **Report the suspicious contact so it’s on record (even if you didn’t lose money).**
+   - If you’re in **England, Wales, or Northern Ireland**, report suspected fraud via **Report Fraud** (online) or by phone (**0300 123 2040**).
+   - If you’re in **Scotland**, report to **Police Scotland via 101**.
+   - If you feel threatened or someone is at your door, call **999**.
 
 ## What can wait
-- You do not need to decide which funeral director to use within the first few minutes or hours of a request.
-- You do not need to provide a "final answer" to an unsolicited caller, regardless of their claims of urgency.
-- You do not need to settle invoices for transport or storage until you have received a formal, verified contract.
+- You do not need to decide today which funeral director to use (or whether to move the person) to do basic verification.
+- You do not need to argue with the caller or “prove” it’s a scam — it’s enough to pause and verify independently.
+- You do not need to sign anything or send documents until you’ve confirmed custody and the correct process with the official custodian.
 
 ## Important reassurance
-It is common to feel a sense of urgency or guilt when contacted about "arrangements" for a loved one. Legitimate professionals in the bereavement sector are accustomed to families needing to verify details and will never pressure you to make an immediate payment or transfer.
+It’s common to feel pressured, confused, or guilty when someone contacts you about “urgent” arrangements. Legitimate services will accept a pause while you verify, and it is reasonable to insist on calling back through trusted numbers.
 
 ## Scope note
-This is first-step guidance only to prevent the unauthorised transfer of remains or financial loss. Further steps involving repatriation paperwork, probate, or legal disputes will require professional specialist support.
+This is first-steps-only guidance to help you avoid an irreversible mistake and confirm who has lawful custody. Later steps (repatriation, payment disputes, formal complaints, legal issues) may need specialist support.
 
 ## Important note
-This guide provides general information and does not constitute legal advice. Procedures regarding the custody and transfer of remains vary by local authority and Coroner area across the UK. Always prioritize your physical safety if you feel threatened by a caller.
+This is general information, not legal advice. Processes vary across the UK (and can differ by local coroner area). If anything feels off, prioritise independent verification and your safety.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/family/death-and-wills/what-to-do-after-a-death/
-- https://www.citizensadvice.org.uk/family/death-and-wills/arranging-a-funeral/
+- https://www.reportfraud.police.uk/
+- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
+- https://www.scotland.police.uk/contact-us/non-emergencies/
 - https://www.gov.uk/after-a-death/death-abroad
-- https://www.gov.uk/guidance/what-to-do-after-a-british-national-dies-abroad
-- https://www.nafd.org.uk/funeral-advice/choosing-a-funeral-director/
+- https://www.manchester.gov.uk/info/626/coroners/5532/when_death_occurs/12

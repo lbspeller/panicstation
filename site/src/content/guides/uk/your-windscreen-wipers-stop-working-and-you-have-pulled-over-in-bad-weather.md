@@ -1,91 +1,80 @@
----
+﻿---
 title: "What to do if… your windscreen wipers stop working and you have pulled over in bad weather"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "windscreen wipers stopped"
-  - "windscreen wipers not working"
-  - "wipers stopped working"
-  - "wipers failed in rain"
-  - "wipers stopped in bad weather"
-  - "wipers stopped in heavy rain"
-  - "wipers stopped in snow"
-  - "windscreen visibility lost"
-  - "cannot see through windscreen"
-  - "help i cannot see through my windscreen"
-  - "what do i do if my wipers stop working"
-  - "what do i do if my windscreen wipers fail"
-  - "what do i do if my wipers stop in a storm"
-  - "help i am pulled over in heavy rain"
-  - "wipers stuck on windscreen"
-  - "wiper motor failure signs"
-  - "smell of burning from wipers"
-  - "windscreen wiper fuse blown"
-  - "wipers not moving"
-  - "wipers moving slowly"
-  - "front wipers not working"
-  - "emergency area stop"
-  - "hard shoulder stop"
-  - "motorway breakdown rain"
-  - "wipers stopped on motorway"
-  - "windscreen washer failure"
-  - "visibility obscured by rain"
-  - "wipers stopped suddenly"
-  - "broken wiper linkage"
-  - "windscreen wiper arm loose"
-last_reviewed: "2026-03-17"
+  - windscreen wipers stopped
+  - wipers not working in rain
+  - wipers failed in storm
+  - wiper motor failure
+  - wiper fuse blown
+  - wipers stopped suddenly
+  - wipers stuck on windscreen
+  - pulled over in bad weather
+  - pulled over in heavy rain
+  - pulled over in snow
+  - visibility gone while driving
+  - can’t see through windscreen
+  - stranded on roadside rain
+  - stopped on hard shoulder
+  - motorway emergency area stop
+  - emergency refuge area stop
+  - car electrics failed wipers
+  - washer jets not working too
+  - demister on but fogging
+  - what to do now wipers
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… your windscreen wipers stop working and you have pulled over in bad weather (UK)
 
 ## Short answer
-Keep your vehicle stationary in a safe, visible location and do not resume driving until the windscreen is clear and visibility is restored. Use hazard warning lights and sidelights to remain visible to other road users while you wait for professional assistance.
+Stay stopped somewhere safe and visible, and don’t drive again until you can see clearly through the windscreen. Put your hazard warning lights on while you’re stationary and get help if you’re in a risky location.
 
 ## Do not do these things
-- Do not attempt to drive if the weather or road spray continues to obscure your view through the windscreen.
-- Do not stand between your vehicle and oncoming traffic or near the edge of the carriageway to inspect the wipers.
-- Do not attempt roadside mechanical repairs, such as checking fuses or linkages, while on a motorway or high-speed road.
-- Do not place a warning triangle on a motorway.
-- Do not stop in a live running lane if the vehicle is still capable of moving to a hard shoulder, emergency area, or exit.
-- Do not cross the carriageway on foot to reach an emergency phone on the opposite side.
+- Don’t set off “just to get home” if rain/spray is still reducing your view — this is how crashes happen.
+- Don’t stand between your car and moving traffic to look at the wipers (especially in rain/dark).
+- Don’t attempt repairs at the roadside on a motorway if it puts you outside the vehicle near live traffic.
+- Don’t put a warning triangle on a motorway.
+- Don’t stop under a bridge or on a bend where other drivers can’t see you until the last second.
+- Don’t leave the carriageway to reach help — use an emergency roadside telephone/SOS phone where provided.
 
 ## What to do now
-1. **Secure the vehicle in the safest possible position.** **If your vehicle is still operational, attempt to reach a service area, car park, or take the next exit.** 
-   - Switch on your hazard warning lights immediately.
-   - Turn on your sidelights if it is dark or visibility is poor.
-   - If on a motorway, pull as far to the left as possible onto the hard shoulder or into an emergency area (marked with orange SOS signs).
-   - Turn your steering wheel toward the left (away from the road).
-2. **Evacuate the vehicle safely if you are not in a live lane.** **If you have stopped on a hard shoulder or in an emergency area, exit the vehicle via the left-hand (passenger-side) doors only.** 
-   - Move all passengers behind the safety barrier or up the embankment.
-   - Stay well away from the carriageway and the hard shoulder.
-   - Keep any animals inside the vehicle unless it is an absolute emergency, in which case they must be kept under close control on the verge.
-3. **Contact emergency services if you are stuck in a live lane.** **If your vehicle has stopped in a lane with moving traffic and you cannot exit safely, stay in the car with your seatbelt fastened and call 999 immediately.** 
-   - Keep your hazard lights on and wait for the police or National Highways to close the lane or provide a rolling road block.
-   - Use your mobile phone to provide your exact location, including the road number, direction of travel, and nearest junction or marker post.
-4. **Use an emergency phone to request recovery on motorways.** **If you are on the hard shoulder or in an emergency area, use the free orange emergency phone to contact the Regional Control Centre.** 
-   - Follow the arrows on the marker posts at the back of the hard shoulder to find the nearest phone.
-   - Always face the oncoming traffic while speaking on the phone so you remain aware of hazards.
-   - State clearly if you are a vulnerable motorist (e.g., traveling alone, older, or disabled).
-5. **Call your breakdown provider if the situation is stable.** **Once you and your passengers are in a place of relative safety behind a barrier, contact your recovery service.** 
-   - Provide them with the reference number given by the National Highways operator if you used an emergency phone.
-   - Keep your mobile phone line clear for incoming calls from the recovery driver or emergency services.
+1. **Make the stop safer (first 30 seconds).**
+   - Keep your **seatbelt on**.
+   - Switch on **hazard warning lights** (and **side lights** if visibility is poor).
+   - If you can do it without re-entering danger, **relocate to a safer place** (services, a car park, a lay-by, or the next exit is usually safer than a verge).
+2. **If you’re on a motorway or smart motorway, use the official help route.**
+   - If you’re in an **emergency area** (sometimes called an emergency refuge area), **use the emergency telephone/SOS phone provided** and follow the operator’s instructions (they may arrange a lane closure for you to rejoin safely).
+   - If you’re on the **hard shoulder** and there is an **emergency roadside telephone** nearby, use it if you can reach it **without putting yourself in danger**. If you can’t, use your mobile.
+3. **Choose the safest option: stay in the car, or get behind a barrier.**
+   - If you are in a **live lane**, or if exiting would put you close to fast traffic/heavy spray, **stay in the car**, seatbelt on, hazards on, and **call 999**.
+   - If you’re on the **hard shoulder/emergency area** and it is clearly safer to get out, **exit by the left-side doors** and wait **well away from traffic**, ideally **behind a safety barrier** if there is one. Keep children under close control.
+4. **Get the right help moving.**
+   - If you feel **in immediate danger** where you are (poor visibility, near traffic, or you’re stranded in a live lane), **call 999**.
+   - Otherwise, contact your **breakdown provider**. If you need motorway advice/assistance and it’s appropriate for your situation, you can also contact **National Highways** (for England’s motorways and major A-roads).
+   - Give your exact location: road name/number, direction of travel, nearest junction, and any marker signs you can see.
+5. **Wait in a way that keeps you visible and reduces risk.**
+   - Keep hazards on; keep your **phone charged**.
+   - If you have a **high-vis** item and it’s safe to use it, put it on *before* opening the door.
 
 ## What can wait
-- You do not need to determine if the failure is caused by a motor, fuse, or linkage right now.
-- You do not need to decide which garage will perform the final repair.
-- You do not need to worry about the cost of the call-out or the recovery while you are still in a hazardous location.
+- You do **not** need to diagnose the exact fault (motor vs fuse vs linkage) right now.
+- You do **not** need to decide about repairs, costs, or which garage you’ll use while you’re still stressed and weather is bad.
+- You can sort out insurance/claims later (if anything was damaged).
 
 ## Important reassurance
-Sudden wiper failure in bad weather is a recognized emergency that makes a vehicle "dangerous to drive" under UK law. You have taken the correct first step by stopping. National Highways and recovery services are equipped to handle these specific situations, even in heavy rain or snow.
+This is a common kind of sudden failure, and pulling over was the right move. Your only job right now is to stay visible, avoid exposure to moving traffic, and not restart driving until you can see properly again.
 
 ## Scope note
-This guide covers first-step stabilization and safety protocols for the minutes following a wiper failure. It does not provide mechanical repair instructions or long-term vehicle maintenance advice.
+These are first steps for the next minutes to hour. Once you’re safe and recovered, a mechanic can check fuses, the wiper motor/linkage, and controls properly.
 
 ## Important note
-Driving with non-functional windscreen wipers in conditions requiring them is an offense under Section 40A of the Road Traffic Act 1988 (using a vehicle in a dangerous condition). This can result in a fine of up to £2,500 and three penalty points. If you are stranded on a motorway, the safest way to get help is via the orange emergency phones or 999.
+This is general safety information, not legal or mechanical advice for your specific vehicle. If you feel in immediate danger where you’ve stopped, prioritise getting emergency help.
 
 ## Additional Resources
-- https://www.gov.uk/check-vehicle-safe
-- https://www.gov.uk/government/publications/windscreen-wipers-and-washers-on-road-vehicles/summary-of-the-requirements-for-windscreen-wipers-and-washers-on-road-vehicles
-- https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/3-visibility
-- https://www.gov.uk/guidance/the-highway-code/annex-6-vehicle-maintenance-safety-and-security
-- https://www.gov.uk/guidance/the-highway-code/driving-in-adverse-weather-conditions-226-to-237
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287#rule278
+- https://nationalhighways.co.uk/road-safety/driving-on-motorways/
+- https://www.theaa.com/breakdown-cover/advice/what-to-do-motorway-breakdown
+- https://www.askthe.police.uk/faq/?id=930c3a53-cb7a-ec11-8d21-6045bd0f2c48

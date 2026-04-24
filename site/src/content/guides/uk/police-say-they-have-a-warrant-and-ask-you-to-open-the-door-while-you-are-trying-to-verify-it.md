@@ -1,88 +1,85 @@
----
+﻿---
 title: "What to do if… police say they have a warrant and ask you to open the door while you are trying to verify it"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "police at the door"
-  - "police say they have a warrant"
-  - "verifying a search warrant"
-  - "police warrant verification"
-  - "police identity check uk"
-  - "fake police at door"
-  - "police impersonation check"
-  - "how to check police badge"
-  - "keep door closed for police"
-  - "police entering my home"
-  - "search warrant rules uk"
-  - "pace code b search"
-  - "notice to occupier warrant"
-  - "police collar number check"
-  - "what to do if police knock"
-  - "refusing police entry warrant"
-  - "police want to search my house"
-  - "unexpected police visit help"
-  - "what do i do if police are at my door"
-  - "what do i do if police have a warrant"
-  - "what do i do if i suspect fake police"
-  - "help i think police at my door are fake"
-  - "my door is being knocked by police"
-  - "my rights during police search"
-  - "help police say they have a warrant"
-  - "smell of burning police visit"
-  - "loud banging at door police"
-  - "visible police uniform at window"
-  - "police car outside my house"
-  - "warrant address error help"
-  - "police warrant through door"
-  - "police search record uk"
-  - "police duty solicitor help"
-  - "arrested at home uk"
-last_reviewed: "2026-03-17"
+  - police at the door
+  - police say they have a warrant
+  - verifying a warrant
+  - search warrant at home
+  - police identity check
+  - someone claiming to be police
+  - warrant proof through door
+  - asked to open the door
+  - unexpected police visit
+  - knock at door police
+  - keep door closed police
+  - how to check police officers
+  - fear of fake police
+  - what to say to police at door
+  - police entry to premises
+  - rights during a search
+  - arrested at home
+  - police want to come in
+  - warrant address mismatch
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… police say they have a warrant and ask you to open the door while you are trying to verify it (UK)
 
 ## Short answer
-Keep the door locked and speak through it or a window while you ask for their names, collar numbers, and a sight of the warrant. Call **999** immediately if you have any doubt that the people outside are genuine police officers.
+Keep the door closed while you verify who they are, and ask to see the warrant through a window/peephole or to have it passed under the door. If you are unsure they are genuine police or you feel unsafe, call **101** (or **999** in an emergency) yourself.
 
 ## Do not do these things
-- Don't open the door until you have seen the warrant through a window or peephole.
-- Don't use a phone number provided by the people at the door to "verify" them.
-- Don't argue about the evidence or the case through the door; focus only on identity and the warrant document.
-- Don't physically block the door or resist if they begin to force entry after showing a warrant.
-- Don't attempt to hide, move, or destroy any items while the police are waiting.
+- Don’t open the door just because you feel rushed, embarrassed, or frightened.
+- Don’t argue about the law on the doorstep.
+- Don’t physically resist, or get between officers and the doorway if they force entry—step back and stay safe.
+- Don’t lie, give false details, or try to “hide” or destroy anything.
+- Don’t call a phone number they give you to “verify” them (use 101/999 yourself).
 
 ## What to do now
-1. **Communicate immediately through the closed door to acknowledge their presence.** **Tell them clearly: "I am not refusing entry, but I am verifying your identity and the warrant before I open the door."**
-2. **Request that the lead officer holds their warrant card and the search warrant up to a window or peephole.** **Check that the warrant card has a photograph, the officer's name, and a holographic emblem.**
-   - Verify that the address on the search warrant is exactly your address.
-   - Check that the warrant has been signed by a Justice of the Peace or a Judge.
-3. **Ask the officers for their names and collar numbers (or shoulder numbers).** **Write these details down or record them on your phone immediately.**
-4. **Call 999 if you feel unsafe or suspect they are not genuine officers.** **Tell the operator you have "police at the door" and need to "verify their identity and deployment."**
-   - If you are confident they are police but want to verify the specific warrant, call **101**.
-   - Provide the collar numbers and the force name to the call handler.
-5. **Ask the officers to provide the "Notice to Occupier."** **This is a standard document (under PACE Code B) that explains your rights and the police's powers during a search.**
-6. **Step back from the door once you have verified the warrant and are ready to open it.** **Keep your hands visible and move slowly to avoid appearing as a threat.**
-7. **If the police force entry before you finish verifying, move to a safe distance inside the house.** **Do not physically intervene; say clearly: "I do not consent to this search, but I will not physically resist for my own safety."**
-8. **Request legal advice immediately if you are arrested or if the search begins.** **Ask for the "duty solicitor" if you do not have your own lawyer, and do not answer investigative questions until they arrive.**
+1. **Get to a safer pause inside your home.** Put on shoes, grab your phone, and move to a spot where you can speak through the door without opening it.
+2. **Speak through the closed door, calmly and clearly.** Say: “I’m going to verify who you are and see the warrant. Please hold on while I do that.”
+3. **Ask for identity details you can repeat to a call handler.** Ask for:
+   - name and **collar number**
+   - which force/station they’re from
+   - why they’re here (briefly)
+4. **Ask to see the warrant without opening the door.** Ask them to:
+   - hold it up to a window/peephole so you can read it, or
+   - pass a copy under the door (if possible).
+   Look for: the address, what they’re authorised to search for, and who issued it.
+5. **Verify via an independent number if you have any doubt.**
+   - Call **101** and ask the call handler to **verify the officers’ collar numbers / call sign** and whether officers from that force are deployed to your address (they may not be able to share details, but can often confirm legitimacy).
+   - If you feel threatened, or you strongly suspect impersonation, call **999**.
+6. **If they insist you open the door immediately, slow it down with a clear script.** Say: “I’m not refusing. I’m verifying your identity and the warrant. Please wait while I do that.”
+7. **If they enter anyway (with a warrant or forced entry), prioritise safety over arguing.**
+   - Step back, keep hands visible, and comply with safety instructions.
+   - Say once: “I do not consent to any search beyond what the warrant allows.” (Then stop debating.)
+8. **Protect yourself in what you say.**
+   - Give basic identifying details **if required for safety/administration**, but don’t answer investigative questions on the doorstep.
+   - If you’re arrested or taken to a station, say: “I want legal advice,” and ask for the **duty solicitor** if you don’t have one.
+9. **Document what happens as soon as it’s safe.**
+   - Write down: time, officer names/collar numbers, what was said, and what areas/items were searched or taken.
+   - If property is taken, ask what paperwork you will receive and how to get a copy of the search record and the warrant (or a copy of what they relied on).
 
 ## What can wait
-- You do not need to decide whether the warrant is "fair" or based on true information right now.
-- You do not need to provide a statement or "your side of the story" on the doorstep.
-- You do not need to repair any damage caused by forced entry immediately; this can be handled via a claim later if the entry was unlawful or mistaken.
-- You do not need to check the legality of every item they seize in the moment; wait for the official search record.
+- You do not need to decide right now whether to make a complaint or take legal action.
+- You do not need to give a full explanation of anything at the door.
+- You do not need to “prove your innocence” in the moment—focus on verification and safety.
 
 ## Important reassurance
-It is a standard safety precaution to verify the identity of anyone claiming to be an official at your door. Genuine police officers are trained to expect identity checks and should provide their details and show the warrant without becoming aggressive. Feeling anxious or startled is a natural response to an unexpected police visit.
+Wanting to verify a warrant and identity before opening your door is a normal safety response. You can be calm and cooperative while still keeping the door closed until you’re satisfied it’s genuine.
 
 ## Scope note
-This guide covers only the initial moments of contact at the door. It does not cover the legal complexities of the search itself, seizure of property, or post-arrest procedures.
+These are first steps for the doorstep moment only. If officers search, seize items, or arrest you, the next steps can change quickly and may need urgent legal help.
 
 ## Important note
-This information is for stabilization during a crisis and does not constitute legal advice. Police powers vary depending on whether they are acting under the Police and Criminal Evidence Act (PACE), the Terrorism Act, or other specific statutes. Always prioritize physical safety.
+This is general information for an urgent, stressful moment and is not legal advice. Police powers and your options can depend on why they are there (and whether they have a warrant or another legal power to enter). When in doubt, prioritise immediate safety and independent verification.
 
 ## Additional Resources
 - https://www.gov.uk/government/publications/pace-code-b-2013/pace-code-b-accessible
 - https://www.legislation.gov.uk/ukpga/1984/60/section/8
-- https://www.legislation.gov.uk/ukpga/1984/60/section/15
-- https://www.legislation.gov.uk/ukpga/1984/60/section/16
+- https://www.cityoflondon.police.uk/advice/advice-and-information/fa2/how-to-check-an-officers-identity/
+- https://www.essex.police.uk/police-forces/essex-police/areas/essex-police/au/about-us/officer-identity-check/
+- https://www.kent.police.uk/news/kent/latest/appeals/warning-issued-to-folkestone-residents-following-attempted-frauds/
 - https://www.college.police.uk/app/investigation/investigative-strategies/search-powers-and-obtaining-and-executing-search-warrants

@@ -1,93 +1,85 @@
----
+﻿---
 title: "What to do if… an app update signs you out and your downloaded content or offline data is gone"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "app update signed me out"
-  - "app logged me out after update"
-  - "offline data disappeared"
-  - "downloaded content missing"
-  - "app cache cleared after update"
-  - "lost downloads in app"
-  - "offline mode stopped working"
-  - "app reset after updating"
-  - "content gone after reinstall"
-  - "cannot find my purchases"
-  - "restore purchases not working"
-  - "app data wiped"
-  - "lost offline maps"
-  - "lost notes inside app"
-  - "subscriptions not showing"
-  - "signed out unexpectedly"
-  - "app shows empty library"
-  - "downloaded videos missing"
-  - "missing apple account purchases"
-  - "google play library empty"
-  - "help i lost my downloads"
-  - "what do i do if my app is empty"
-  - "what do i do if app data is gone"
-  - "what do i do if update logged me out"
-  - "help i lost my offline data"
-  - "my app content vanished"
-  - "my downloaded movies are gone"
-  - "my saved files disappeared"
-  - "empty library screen"
-  - "missing premium features"
-  - "restore purchase button missing"
-  - "unexpected sign out prompt"
-last_reviewed: "2026-03-17"
+  - app update signed me out
+  - app logged me out after update
+  - offline data disappeared
+  - downloaded content missing
+  - app cache cleared after update
+  - lost downloads in app
+  - offline mode stopped working
+  - app reset after updating
+  - content gone after reinstall
+  - wrong account signed in
+  - cannot find my purchases
+  - restore purchases not working
+  - app data wiped
+  - lost offline maps
+  - lost notes inside app
+  - subscriptions not showing
+  - signed out unexpectedly
+  - app shows empty library
+  - downloaded videos missing
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… an app update signs you out and your downloaded content or offline data is gone (USA)
 
 ## Short answer
-Do not uninstall the app yet, as this may permanently delete local data. Verify you are signed into the correct Apple Account or Google Account, then use the app's internal "Restore Purchases" or "Sync" function while connected to Wi-Fi.
+Don’t uninstall the app yet. First confirm you’re signed into the *same account* as before, then use the app’s **Restore purchases / Restore downloads / Sync** option and check whether it’s still re-downloading or restoring.
 
 ## Do not do these things
-- Do not uninstall or reinstall the app as your first troubleshooting step.
-- Do not clear the app’s storage or cache in your device settings.
-- Do not click login links in unsolicited emails or text messages claiming your account was logged out.
-- Do not create a new account to "test" the app, as this can complicate entitlement syncing.
-- Do not pay third-party "data recovery" services found on social media or via direct messages.
+- Don’t uninstall/reinstall the app as a first move (it can delete local/offline data permanently).
+- Don’t clear the app’s storage/cache unless you’re sure your data is safely synced elsewhere.
+- Don’t follow login links from texts/emails saying you were “signed out” — go directly to official account settings.
+- Don’t keep switching between multiple accounts “to see if it appears” (it can tangle entitlements).
+- Don’t pay anyone who offers “data recovery” via DMs or unofficial sites.
 
 ## What to do now
-1. **Document the current state of the app.**  
-   Take screenshots of the empty library, any error messages, and the current account screen showing the username or email address currently logged in.
-2. **Restart your device immediately.**  
-   A full reboot can trigger the operating system to refresh its connection to the App Store or Play Store and re-verify your active subscriptions.
-3. **Verify the account used for the original purchase.**  
-   Open your device's main settings to ensure the Apple Account or Google Account matches the one used when you first downloaded the content or started the subscription.
-4. **Trigger the in-app restoration process.**  
-   Open the app's settings or "Store" section and select **Restore Purchases**, **Sync Library**, or **Check for Downloads**. 
-   - Note that "consumable" items (like virtual currency or one-time hints) generally cannot be restored this way.
-5. **Check for "Hidden Purchases" in the platform store.**  
-   - **Apple:** Go to App Store > Profile > [Your Name] > Hidden Purchases.  
-   - **Google:** Go to Play Store > Profile > Manage apps & device > Manage > change "Installed" to "Not installed."
-6. **Validate the subscription status on the platform side.**  
-   Check your official purchase history at **reportaproblem.apple.com** (Apple) or **pay.google.com** (Google) to confirm the transaction is still valid and linked to your current email.
-7. **Protect local-only data if it is still visible.**  
-   If you can see drafts or recordings but cannot sync them, use the "Share" or "Export" function to move those files to a cloud drive (like iCloud or Google Drive) before attempting any app resets.
-8. **Update your account security if the sign-out was unauthorized.**  
-   If you suspect your account was compromised, change your password immediately, enable passkeys or two-step verification, and log out of all other sessions.
-9. **File a report if you suspect fraud or account takeover.**  
-   If unauthorized charges are appearing or you have lost access to your account entirely, visit **IdentityTheft.gov** for a recovery plan or file a complaint at **ic3.gov** for the FBI Internet Crime Complaint Center.
+1. **Freeze the situation and document it.**  
+   Take screenshots of: account email/username, empty library, error messages, subscription screen, and the app version. Note when the update happened.
+2. **Confirm you’re signed into the same account you used before (most common fix).**  
+   Check the app’s profile/account screen. Then confirm your device store account (Apple Account / Google account) matches the one that originally purchased the content.
+3. **Use the app’s built-in recovery options first.**  
+   Look for: **Restore purchases**, **Restore downloads**, **Sync**, **Rebuild library**, or **Refresh subscription**. Many services store access on the account and need a manual restore after sign-out.
+4. **Check if it’s a restore/re-download delay, not true loss.**  
+   Some apps re-index after updates. Stay on Wi-Fi and power; check any in-app “Downloads” queue or “Pending” list.
+5. **Validate your purchase/subscription from the platform side.**  
+   - Apple: check **purchase history** and **subscriptions** under the same Apple Account you used before.  
+   - Google: check Play Store order history under the same Google account you used before.
+6. **If your offline/local data is critical (drafts, notes, recordings): protect the device state.**  
+   - If you suspect the app might sync an “empty” state down from the cloud, consider temporarily turning off internet **only if** you can still access (or confirm) the local data offline.  
+   - Avoid any “reset app” / “delete data” options until you’ve confirmed where data lives.
+7. **Treat unexpected sign-outs as a possible security flag.**  
+   If anything feels off (unknown logins, password-change emails, unexpected charges): change your password, review recent security events, and enable 2-step verification/passkeys where available.
+8. **Contact official support with specifics that speed escalation.**  
+   Send: screenshots, device model/OS version, app version, exact timing, and whether you had offline downloads. Ask directly whether:  
+   - the offline data is stored locally vs server-side  
+   - they can restore prior server-side state  
+   - your purchases are linked to the correct account
+9. **If you believe this was fraud or account takeover (USA-specific).**  
+   If you see unauthorized access or purchases, file a report at IdentityTheft.gov for a recovery plan. For cyber-enabled account takeover and online fraud, you can also file a complaint with the FBI’s IC3.
 
 ## What can wait
-- You do not need to decide whether to cancel your subscription or delete the service today.
-- You do not need to post a negative review or contact the developer until you have verified your account credentials.
-- You do not need to wipe your device or perform a factory reset.
+- You don’t need to decide right now whether to cancel services, replace your device, or switch apps.
+- You don’t need to post reviews or argue with support while you’re still collecting the basic facts.
+- You don’t need to wipe your phone or “start over” to make progress.
 
 ## Important reassurance
-It is common for major app updates to reset session tokens, causing an automatic sign-out. In most cases, the data is not deleted but is simply "invisible" because the app needs to re-handshake with the store servers to prove you still own the content.
+This happens to a lot of people after updates: the app signs out, offline downloads need re-authorization, or content is tied to a different account than expected. The safest early move is to avoid uninstalling and to focus on account verification + restore/sync.
 
 ## Scope note
-This guide provides first-step stabilization for digital content loss and sync errors. Recovering local-only files that were not backed up may require advanced technical support from the specific app developer.
+These are first steps to prevent irreversible loss and get you back to a stable place. Deeper steps (developer escalation, refunds, switching services) come later once you’ve confirmed what can be restored.
 
 ## Important note
-This guide is for general information only and does not constitute professional technical, legal, or financial advice. Data recovery is never guaranteed, especially for local-only "offline" data that has not been synced to a server. If you believe your financial information has been compromised, contact your bank or credit card issuer immediately.
+This guide is general information, not legal, financial, or professional technical advice. Apps differ widely in where offline data is stored and whether it’s recoverable. If you suspect identity theft or fraud, prioritize account security and official reporting channels.
 
 ## Additional Resources
-- https://support.google.com/android/answer/2819582?hl=en
-- https://support.google.com/android/answer/9455149?hl=en
-- https://support.apple.com/en-us/108771
-- https://support.apple.com/en-us/118105
-- https://help.netflix.com/en/node/65679
+- https://support.apple.com/guide/iphone/see-your-purchases-and-subscriptions-iph4e3e7324f/ios
+- https://support.google.com/googleplay/answer/2850369?hl=en
+- https://support.google.com/accounts/answer/6294825?hl=en
+- https://www.identitytheft.gov/
+- https://www.usa.gov/identity-theft
+- https://www.ic3.gov/CrimeInfo/AccountTakeover

@@ -1,105 +1,96 @@
----
+﻿---
 title: "What to do if… a friend tells you they were sexually assaulted and you do not know what to do first"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "friend tells you they were sexually assaulted"
-  - "friend disclosed sexual assault"
-  - "someone told me they were raped"
-  - "my friend was sexually assaulted"
-  - "help i don't know what to do after assault disclosure"
-  - "what do i do if a friend says they were abused"
-  - "what do i do if someone tells me they were raped"
-  - "help my friend was just assaulted"
-  - "sexual assault disclosure"
-  - "rape disclosure help"
-  - "supporting a survivor"
-  - "sexual violence support"
-  - "friend in shock after assault"
-  - "what to say to sexual assault victim"
-  - "confidential support for sexual assault"
-  - "friend says they were hurt"
-  - "rape kit information"
-  - "sexual assault hotline usa"
-  - "friend is crying after assault"
-  - "friend seems distant after trauma"
-  - "disclosure of past abuse"
-  - "recent sexual assault help"
-  - "sexual assault evidence collection"
-  - "rainn hotline number"
-  - "crisis text line for assault"
-  - "sexual assault medical care"
-  - "friend is scared after assault"
-  - "sexual assault help for friend"
-  - "immediate steps for assault disclosure"
-  - "friend disclosed rape today"
-last_reviewed: "2026-03-17"
+  - friend disclosed sexual assault
+  - someone told me they were raped
+  - what to say to a survivor
+  - how to respond to assault disclosure
+  - i froze when they told me
+  - i don't know what to do first
+  - supporting a friend after assault
+  - listening after sexual violence
+  - afraid of saying wrong thing
+  - they told me in confidence
+  - help a friend after rape
+  - immediate steps after disclosure
+  - friend says they were abused
+  - sexual assault disclosure help
+  - what if it happened long ago
+  - what if it just happened
+  - panic after friend told me
+  - trauma disclosure response
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… a friend tells you they were sexually assaulted and you do not know what to do first (USA)
 
 ## Short answer
-Stay with them, listen without judgment, and focus on their immediate physical and emotional safety. If there is an active threat or they have life-threatening injuries, call 911 immediately.
+Stay with them, believe them, and focus on safety and support in the next hour—not on “what to do forever.” If they’re in immediate danger or need urgent medical help, call 911.
 
 ## Do not do these things
-- Do not ask for specific details about the event or try to investigate what happened.
-- Do not ask "why" questions that could imply blame (e.g., why they were there or why they didn't fight).
-- Do not pressure them to call the police or make a formal report if they are not ready.
-- Do not contact the person who hurt them or share the story with mutual friends.
-- Do not take over the situation; let them lead the pace and the choices.
-- Do not express doubt or look for inconsistencies in their story.
+- Do not ask “why” questions (why they didn’t leave, fight, report, etc.).
+- Do not push them to report to police, confront the person, or “tell everyone.”
+- Do not ask for a detailed play-by-play or try to “check facts.”
+- Do not contact the alleged perpetrator or mutual friends to gather information.
+- Do not make promises you can’t keep (like “I won’t tell anyone no matter what”)—focus on safety.
+- Do not share their story, texts, photos, or name without explicit permission.
 
 ## What to do now
-1. **Say the basic stabilizing phrases out loud to show support.** 
-   - "I believe you."
-   - "It is not your fault."
-   - "I am sorry this happened to you."
-   - "I am here for you."
+1. **Say the stabilizing basics out loud.**  
+   “I’m sorry this happened. I believe you. It’s not your fault. I’m here with you.”
 
-2. **Assess their immediate physical safety and medical needs without forcing action.** 
-   - Ask: "Are you safe right now?"
-   - Ask: "Do you need medical attention for any physical injuries?"
-   - If they have a life-threatening injury or are in active danger, **call 911**.
+2. **Check immediate safety in plain language.**  
+   Ask: “Are you safe right now?” and “Are you worried the person who hurt you might show up?”  
+   - If there’s immediate danger or urgent injury: **call 911** (or go to the nearest emergency department).
 
-3. **Offer confidential specialist resources so they can speak with a trained advocate.** 
-   - Provide the **National Sexual Assault Hotline (RAINN)**: Call **800-656-HOPE (4673)**.
-   - Offer the text option: Text **"HOPE" to 64673**.
-   - Mention the **Crisis Text Line**: Text **"HOME" to 741741**.
+3. **Offer a small menu of next steps (so they don’t have to decide from scratch).**  
+   Examples:  
+   - “Do you want me to stay on the phone / come over?”  
+   - “Do you want to call a confidential hotline together?”  
+   - “Do you want help getting medical care tonight?”
 
-4. **Explain that they can receive medical care without having to report to the police.** 
-   - Inform them that a "sexual assault forensic exam" (rape kit) can preserve evidence if they choose to report later.
-   - Note that these kits are most effective if done within 120 hours (5 days).
-   - Mention that healthcare providers can also offer preventative care for STIs and pregnancy.
+4. **Offer confidential specialist support (without requiring a report).**  
+   If they want trained support right now, offer to contact **RAINN’s National Sexual Assault Hotline** together:  
+   - Call **800-656-HOPE (4673)**  
+   - Chat via RAINN’s hotline page  
+   - Or (if they prefer) text **“HOPE” to 64673**  
+   RAINN (or the local provider they connect you to) can also help identify nearby services if you don’t know what exists in your area.
 
-5. **Provide a small "menu" of immediate practical choices to help them feel in control.** 
-   - "Would you like me to sit here with you in silence, or would you like to talk?"
-   - "Do you want some water or a quiet place to rest?"
-   - "Is there someone else you trust that you want me to call for you?"
+5. **If it may have happened recently, offer medical care as an option (no pressure).**  
+   You can say: “You don’t have to decide about police. You *can* get medical care either way.”  
+   If they want help, help them get to an emergency department or another local provider of sexual assault care. If you’re unsure where to go, calling RAINN first can help you find the closest appropriate option.
 
-6. **Help them protect potential evidence only if the event was very recent.** 
-   - If they are considering a forensic exam, gently mention they may want to avoid showering, bathing, or changing clothes until they are seen by a professional.
-   - If they have already changed, they can place the clothes they were wearing in a paper bag (not plastic).
+6. **Keep control with them: ask consent before acting.**  
+   “Would you like advice, or would you rather I just listen?”  
+   “Is it okay if I sit closer / call someone / look up resources?”  
+   If they ask you to keep it private, you can say: “I won’t share this without your permission unless I’m worried you or someone else is in immediate danger.”
 
-7. **Maintain their privacy and respect their boundaries regarding confidentiality.** 
-   - Do not share their name or the details of the disclosure with anyone else unless you believe they are in immediate danger of harming themselves or others.
+7. **If they might want the option to report later, gently protect choices (optional).**  
+   You can say: “Only if you want and it feels safe, you might choose to avoid changing or washing until you’ve spoken to a medical professional—just to keep options open.” (If that feels upsetting or impractical, skip it.)
+
+8. **Do one practical stabilizer.**  
+   Offer water, a quiet place, a ride, staying the night somewhere safe, turning off notifications, or composing one short message to a trusted person (“I need someone with me tonight—can you come?”).
 
 ## What can wait
-- Decisions about whether to file a formal police report can wait.
-- Deciding on a long-term therapist or support group does not have to happen tonight.
-- Figuring out the legal definitions or "severity" of what happened is not necessary right now.
-- Notifying family members or employers can wait until they feel ready.
+- They do **not** need to decide right now about reporting to police.
+- They do **not** need to give you all details for you to support them.
+- You do **not** need to research laws, gather evidence, or “figure out what happened” tonight.
+- Any longer-term steps (formal reports, campus/work processes, therapy choices) can wait until they’re safer and supported.
 
 ## Important reassurance
-It is normal for both you and your friend to feel overwhelmed, shocked, or even numb. Simply being present and believing them is one of the most important things you can do to reduce the impact of trauma in these first moments.
+It’s normal to feel shocked, angry, or unsure what to say. Your calm presence, belief, and help connecting them to confidential support can reduce harm immediately.
 
 ## Scope note
-This guide provides first-step stabilization only. For legal, medical, or long-term psychological advice, your friend should be connected with a certified sexual assault advocate or healthcare professional.
+This is first steps only. For next-stage decisions, a local sexual assault service or hotline advocate can help them understand options without pressure.
 
 ## Important note
-This information is for immediate crisis stabilization and does not constitute legal or medical advice. Procedures and available resources may vary by state and local jurisdiction. If an emergency is occurring, contact 911.
+This guide is general information for immediate first steps, not legal or medical advice. If someone is in immediate danger or needs urgent medical care, call 911.
 
 ## Additional Resources
-- https://rainn.org/show-up-speak-out-step-in/how-to-talk-with-survivors-of-sexual-violence/
-- https://rainn.org/show-up-speak-out-step-in/show-up-to-help-survivors-heal/
+- https://rainn.org/learn-about-rainn/contact-us/
 - https://rainn.org/help-and-healing/hotline/
-- https://rainn.org/help-and-healing/if-youve-been-assaulted/getting-medical-help-after-sexual-assault/
-- https://rainn.org/2240/getting-a-sexual-assault-forensic-exam-safe/
+- https://rainn.org/show-up-speak-out-step-in/how-to-talk-with-survivors-of-sexual-violence/
+- https://www.cdc.gov/sexual-violence/about/index.html
+- https://rainn.org/show-up-speak-out-step-in/show-up-to-help-survivors-heal/

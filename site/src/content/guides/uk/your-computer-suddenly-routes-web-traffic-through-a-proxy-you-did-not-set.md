@@ -1,94 +1,95 @@
----
+﻿---
 title: "What to do if… your computer suddenly routes web traffic through a proxy you did not set"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "firewall settings changed"
-  - "firewall turned off by itself"
-  - "windows defender firewall changed"
-  - "mac firewall settings changed"
-  - "unexpected firewall rule change"
-  - "network protection settings changed"
-  - "security settings changed without me"
-  - "firewall profile changed to public"
-  - "firewall exceptions added"
-  - "unauthorized inbound connections"
-  - "suspicious admin changes"
-  - "device may be compromised"
-  - "possible malware sign"
-  - "work laptop security policy changed"
-  - "router firewall changed"
-  - "mpssvc firewall change event"
-  - "windows firewall event log 4950"
-  - "firewall reset to defaults"
-  - "unknown app allowed through firewall"
-  - "help i did not change my firewall"
-  - "what do i do if my firewall settings changed"
-  - "help i think my firewall is hacked"
-  - "what do i do if windows firewall rules changed"
-  - "my computer firewall is different"
-  - "my mac firewall turned off"
-  - "firewall notification of change"
-  - "unauthorized firewall exceptions"
-  - "security audit event 4946"
-  - "security audit event 4947"
-  - "firewall policy changed remotely"
-last_reviewed: "2026-03-17"
+  - unexpected proxy
+  - proxy server suddenly enabled
+  - computer using unknown proxy
+  - web traffic routed through proxy
+  - browser redirect through proxy
+  - system proxy settings changed
+  - windows proxy turned on
+  - mac proxy settings changed
+  - vpn i did not install
+  - unknown network configuration
+  - possible malware proxy
+  - suspicious internet connection
+  - device may be managed
+  - proxy auto configuration pac file
+  - automatic proxy setup enabled
+  - setup script i dont recognise
+  - credentials at risk online
+  - sign-ins from new device
+  - public wi-fi tampering concern
+  - work laptop proxy enforced
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your computer suddenly routes web traffic through a proxy you did not set (UK)
 
 ## Short answer
-Immediately disconnect the device from all internet and local network connections. Record the specific changes visible in your security settings before attempting to revert them.
+Disconnect from the internet, then disable any unexpected proxy or automatic proxy setup before you sign in anywhere again.
 
 ## Do not do these things
-- Do not continue using the device for sensitive tasks such as banking, email, or accessing password managers.
-- Do not download "fix-it" tools or "security scanners" from pop-up advertisements or unsolicited search results.
-- Do not disable other security layers, such as antivirus or real-time protection, to "restore" connectivity.
-- Do not perform a factory reset or "wipe" the drive immediately if you may need to provide evidence to an employer or insurer.
-- Do not assume the change is a harmless glitch; treat any unauthorized security modification as a potential breach until verified.
+- Don’t keep browsing “to see what happens” or log into banking, email, or work accounts while the proxy is active.
+- Don’t install random “proxy remover” tools or browser extensions suggested by pop-ups or unknown sites.
+- Don’t change settings on a work/school device if you’re not authorised—contact your IT/admin route instead.
+- Don’t wipe/reset the computer yet if you may need IT support, insurance documentation, or a report (secure accounts first).
 
 ## What to do now
-1. **Isolate the device from all networks.** Turn off Wi-Fi and Bluetooth via the hardware switch or system menu, and physically unplug any Ethernet cables.
-   - Disconnect any active VPN sessions or remote desktop connections.
-   - Ensure the device cannot communicate with other "smart" devices on your home or work network.
-2. **Document the current state of the firewall.** Use a separate device (like a phone camera) to take photos of the settings page.
-   - Capture the list of "Allowed Apps" or "Exceptions".
-   - Note if the firewall profile has shifted (e.g., from "Private" to "Public").
-   - Record the exact date and time the change was discovered.
-3. **Notify your IT department if the device is managed by work or school.** Many organizations push security updates or policy changes remotely.
-   - Contact them via a different device or phone.
-   - Ask if a "Global Policy" or "Mobile Device Management" (MDM) update was scheduled for your system.
-4. **Inspect system logs for unauthorized activity.** Do not spend hours on this; look for recent entries only.
-   - **Windows:** Open "Event Viewer", go to "Windows Logs" > "Security", and look for Event IDs 4946 (rule added), 4947 (rule modified), or 4950 (setting changed).
-   - **macOS:** Check "System Settings" > "Network" > "Firewall" > "Options". Also check "System Settings" > "General" > "Login Items & Extensions" for unfamiliar system extensions.
-5. **Conduct an offline malware scan.** Use the built-in security software (Windows Security or macOS XProtect) to run a "Full Scan" while the device remains disconnected from the internet.
-   - If the software allows for an "Offline Scan" (rebooting the computer to scan before the OS fully loads), select this option.
-6. **Secure your primary accounts from a clean device.** Use a different, trusted computer or smartphone to update your credentials.
-   - Change your primary email password first, as this is the gateway for password resets.
-   - Update banking, government (HMRC / Government Gateway), and work login details.
-   - Enable or refresh Multi-Factor Authentication (MFA) on all high-value accounts.
-7. **Report the incident if you suspect criminal intent.**
-   - For England, Wales, and Northern Ireland: Contact **Action Fraud** via their online portal or call 0300 123 2040.
-   - For Scotland: Report the incident to **Police Scotland** by calling 101.
-   - If you require technical recovery assistance in Scotland, contact the **Cyber and Fraud Centre Scotland** at 0800 1670 623.
+1. **Get to a safer pause and disconnect.**  
+   Turn off Wi-Fi and unplug Ethernet. This stops more traffic being routed through the proxy while you check settings.
+
+2. **Work/school device? Pause and report it to the right place.**  
+   If it’s managed by your employer/school, contact your IT/helpdesk and say: **“A proxy was enabled that I didn’t set.”** Ask if your device is managed and whether a proxy/PAC script is expected.
+
+3. **Check and disable “automatic proxy setup” / PAC script settings (the easy-to-miss one).**  
+   Look for options like **Automatic proxy setup**, **configuration script**, **Use setup script**, **Auto proxy discovery**, or **PAC**.  
+   - On **Windows**, this is typically under **Settings → Network & internet → Proxy**.  
+   - On **Mac**, this is typically under **System Settings → Network → (your connection) → Proxies**.  
+   If anything is enabled with an address you don’t recognise, **turn it off** and **take a screenshot/photo** of what it was.
+
+4. **Then check and disable any manually set proxy server.**  
+   If you see a proxy server address/port you didn’t set, disable it and **record the details** (screenshot/photo).
+
+5. **Restart, then confirm the proxy stayed off.**  
+   If it turns itself back on after reboot, treat this as a strong sign of **malware or unwanted remote management**. Disconnect again and move to account security + scanning.
+
+6. **From a different, trusted device, secure your most important accounts (email first).**  
+   Using a phone/other computer you trust (on a known network):  
+   - Change your **email password first** (it controls password resets).  
+   - Enable **two-step verification** where possible.  
+   - Review **recent sign-ins/devices** and sign out other sessions if the service offers it.  
+   Then do the same for banking, password manager, and any account linked to money.
+
+7. **Run reputable security checks and update the system.**  
+   Run a full scan using built-in security and a reputable anti-malware scanner from the vendor’s official source. Install pending OS/browser updates and restart.
+
+8. **If you suspect fraud/cybercrime, report it using the UK route that applies.**  
+   - **England, Wales, Northern Ireland:** report to **Report Fraud** (online or by phone).  
+   - **Scotland:** report to **Police Scotland** (101 / online reporting).  
+   If the crime is occurring **now**, call **999**. If you’re an organisation under a cyber attack, use the **urgent phone route** listed by Report Fraud.
 
 ## What can wait
-- You do not need to decide whether to permanently replace the hardware right now.
-- You do not need to learn how to write manual firewall "Packet Filter" rules or scripts.
-- Re-securing your home router or updating its firmware can wait until the primary device is stabilized.
+- You don’t have to work out who did it or exactly how it happened right now.
+- You don’t need to factory reset immediately—start with disabling the proxy, securing accounts, and scanning.
+- You don’t have to contact every service today—prioritise email and anything tied to money or account recovery.
 
 ## Important reassurance
-Seeing security settings change without your input is a valid reason to feel startled. Most incidents are resolved by a combination of isolating the device, checking for managed policy updates, and securing online accounts. Taking these steps systematically prevents a minor configuration error or isolated malware from escalating into a full identity breach.
+An unexpected proxy setting is alarming, but the most protective actions are straightforward: stop the connection, remove the proxy, secure accounts from a clean device, and scan. You don’t need certainty about the cause to reduce harm quickly.
 
 ## Scope note
-This guide provides first-step stabilization for an unexpected firewall change. It does not cover long-term forensic analysis, network infrastructure hardening, or the removal of advanced persistent threats.
+These are first steps only. If the proxy reappears, if this is a managed device, or if accounts were accessed, you may need specialist IT help and/or to make a formal report.
 
 ## Important note
-This information is for general guidance and does not constitute professional technical or legal advice. If you suspect your device is part of a wider corporate breach, follow your organization's formal incident response plan immediately.
+This is general information, not professional cybersecurity or legal advice. If you’re unsure whether a proxy is expected (especially on work/school devices), pause changes and use the official support route for that device.
 
 ## Additional Resources
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime
+- https://www.cityoflondon.police.uk/news/city-of-london/news/2025/december/report-fraud-service-goes-live-with-full-public-launch-in-january-2026/
+- https://www.scotland.police.uk/advice/internet-safety/cybercrime/
 - https://support.microsoft.com/en-us/windows/use-a-proxy-server-in-windows-03096c53-0554-4ffe-b6ab-8b1deee8dae1
 - https://support.apple.com/en-gb/guide/mac-help/mchlp2591/mac
-- https://support.microsoft.com/en-us/windows/virus-and-threat-protection-in-the-windows-security-app-1362f4cd-d71a-b52a-0b66-c2820032b65e
-- https://www.gov.uk/report-suspicious-emails-websites-phishing
-- https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take

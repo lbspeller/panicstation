@@ -1,110 +1,98 @@
----
+﻿---
 title: "What to do if… a landlord or supplier suddenly sends new bank details for where to pay"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - "landlord sent new bank details"
-  - "supplier changed bank account"
-  - "new payment details email"
-  - "rent payment account changed"
-  - "invoice bank details changed"
-  - "what do i do if landlord changed bank details"
-  - "what do i do if supplier email looks fake"
-  - "what do i do if payment instructions changed"
-  - "help i sent money to the wrong account"
-  - "help i paid a fake invoice"
-  - "my landlord sent a new routing number"
-  - "my supplier email was hacked"
-  - "suspicious payment request"
-  - "payment diversion scam"
-  - "business email compromise"
-  - "wire transfer fraud"
-  - "ach fraud false pretenses"
-  - "invoice redirection fraud"
-  - "vendor impersonation scam"
-  - "urgent payment demand"
-  - "mismatched email domain"
-  - "unusual reply-to address"
-  - "pressure to pay now"
-  - "new account for rent payments"
-  - "verify bank details independently"
-  - "financial fraud kill chain"
-  - "ic3 reporting guide"
-  - "bank wire recall process"
-  - "nacha 2026 fraud rules"
-  - "false pretenses ach return"
-last_reviewed: "2026-03-17"
+  - landlord sent new bank details
+  - supplier changed bank account
+  - new payment details email
+  - rent payment account changed
+  - invoice bank details changed
+  - payment instructions changed suddenly
+  - payment diversion scam
+  - business email compromise
+  - fake landlord payment request
+  - suspicious routing number
+  - wire transfer scam
+  - ach payment scam
+  - urgent payment request
+  - verify payment details independently
+  - sent money to wrong account
+  - request to update bank info
+  - scammer posing as vendor
+  - invoice redirection fraud
+  - new account for payments
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… a landlord or supplier suddenly sends new bank details for where to pay (USA)
 
 ## Short answer
-Immediately cease all payment activity and treat the request as a high-probability Business Email Compromise (BEC) scam. Verify the new instructions using an established, "out-of-band" communication channel such as a previously known phone number or physical office visit before transferring funds.
+Stop and treat it as a potential payment-diversion scam. Don’t pay the “new” bank details until you verify them using contact information you already trust. If you already sent money, contact your bank immediately and request a recall/reversal.
 
 ## Do not do these things
-- Do not reply to the email or message providing the new details to ask for confirmation.
-- Do not call any phone numbers listed in the suspicious message or its signature.
-- Do not click links or download "updated invoice" attachments, as these may contain malware.
-- Do not ignore your suspicion because the email appears to be part of an existing conversation thread.
-- Do not share Multi-Factor Authentication (MFA) codes or login credentials if prompted by the sender.
-- Do not allow threats of late fees or eviction to bypass your verification protocol.
+- Don’t call the phone number, click the link, or reply to the message that provided the “new” details.
+- Don’t change autopay/online bill pay/ACH instructions because the email “looks right”.
+- Don’t share login codes, MFA numbers, or “verification” codes with anyone.
+- Don’t send photos/screenshots of checks, banking screens, or ID to someone who contacted you first (only share sensitive info if you initiated contact through a trusted channel).
+- Don’t let “late fees”, “eviction notice”, “final warning”, or “today only” pressure you into rushing.
+- Don’t send payments via crypto, gift cards, or a third-party “agent”.
 
 ## What to do now
-1. **Identify observable cues of a "False Pretenses" scam.**  
-   **Check for subtle indicators that the communication is fraudulent.**  
-   - Inspect the sender's email address for character swaps (e.g., "m0nagement.com" instead of "management.com").  
-   - Check the "Reply-To" header to see if it differs from the "From" address.  
-   - Note any sudden shift in tone, such as extreme urgency or uncharacteristic grammatical errors.
+1. **Pause the payment and save evidence.**  
+   Screenshot the message and keep the original email/text. Avoid links and attachments.
 
-2. **Conduct an "out-of-band" verification.**  
-   **Confirm the bank change through a channel you already trust and control.**  
-   - Use a phone number from your original signed lease or contract.  
-   - Log in directly to an established tenant or vendor portal by typing the URL into your browser.  
-   - Ask for a verbal confirmation from a known person at the organization.
+2. **Verify through a trusted channel you choose (not theirs).**  
+   Use contact info from your signed lease/contract, a prior legitimate invoice, a known property management portal, or an official website you already know. Ask them to confirm:  
+   - whether they truly changed bank details  
+   - exactly what the new details are  
+   - when/why it changed  
+   If you can’t reach a trusted contact, treat the change as unverified.
 
-3. **Isolate the original communication.**  
-   **Preserve the suspicious message for reporting and evidence.**  
-   - Save the email in its original format (.eml or .msg) if possible, rather than just taking a screenshot.  
-   - Document the date and time you received the request.
+3. **If payment is due soon, avoid late trouble without paying the wrong place.**  
+   Pick the safest option that matches your existing agreement:  
+   - Pay using the **previous, known-good method** you’ve used before (only if you’re confident it’s legitimate).  
+   - Use an already-established method in your lease/contract (for example, the official payment portal you already use, or mailing to the address specified).  
+   - If you can’t safely pay yet, **set the money aside** and document your attempts to verify; request a short grace period via a trusted contact route.
 
-4. **Contact your financial institution immediately if money was sent.**  
-   **Request an immediate recall or reversal based on the payment type used.**  
-   - **For Wires:** Request a "Wire Recall" and ask the bank to contact the receiving institution to place a hold.  
-   - **For ACH:** Request a return based on "False Pretenses" (authorized under deception), citing 2026 NACHA Risk Management rules.  
-   - **For P2P (Zelle/Venmo):** Report the transaction through the app's internal fraud tool and notify your linked bank.
+4. **If you already sent money, call your bank’s fraud department immediately.**  
+   Use the number on your card/app/statement. Tell them you suspect fraud and ask for the right action based on how you paid:  
+   - **Wire:** request a **wire recall** and ask them to contact the receiving bank.  
+   - **ACH / online transfer:** ask about **return/reversal options** and stopping any pending transfers.  
+   - **P2P apps (if you used one):** contact the app’s support and your bank immediately.  
+   Recovery attempts are **time-sensitive and not guaranteed**, so move fast and follow the bank’s instructions.
 
-5. **Execute the "Letter of Indemnity" (LOI) process.**  
-   **Provide the necessary legal documentation your bank requires to attempt recovery.**  
-   - Ask your bank's fraud department if they require a "Hold Harmless" agreement or a formal LOI to facilitate communication with the receiving bank.  
-   - Complete and return these documents via a secure bank channel as soon as they are provided.
+5. **Report it to federal reporting channels (helps investigation and may support recovery).**  
+   - File a report with the FBI’s Internet Crime Complaint Center (**IC3**).  
+   - File a report with the FTC’s fraud reporting site.  
+   Keep any confirmation numbers if you receive them.
 
-6. **File a report with the FBI Internet Crime Complaint Center (IC3).**  
-   **Submit a detailed report at ic3.gov to trigger potential federal recovery assistance.**  
-   - Include the names of both the sending and receiving banks.  
-   - Provide the account numbers and routing numbers involved.  
-   - Mention if the wire transfer was $50,000 or more, as this may qualify for the Financial Fraud Kill Chain (FFKC) recovery process.
+6. **Ask your bank what else they need from you.**  
+   Some banks may request specific indemnification paperwork or a detailed timeline. Provide only what your bank asks for, using trusted contact channels you initiate.
 
-7. **Notify the legitimate landlord or supplier.**  
-   **Inform the actual party that their identity or email systems may be compromised.**  
-   - Use your verified contact method to alert them that you received a fraudulent request.  
-   - Advise them to check their email "forwarding rules" and account security.
+7. **If your bank isn’t responding appropriately, consider escalating (can usually wait unless the bank requests it).**  
+   If you’re dealing with a national bank, you can file a complaint with the **Office of the Comptroller of the Currency (OCC)** as an additional escalation route.
+
+8. **Expect “recovery” scammers.**  
+   After scams, it’s common to get follow-ups offering to recover funds for a fee or asking for more bank info. Don’t engage.
 
 ## What can wait
-- You do not need to determine how the breach occurred or who is "at fault" before initiating a bank recall.
-- You do not need to change your own bank account numbers unless you believe your personal login was compromised.
-- You do not need to respond to "recovery specialists" on social media who claim they can get your money back for a fee.
+- You don’t need to decide right now whether this was a hacked email, an impersonation, or an internal mistake—verification and stopping the payment comes first.
+- You don’t need to renegotiate contracts or change all your payments today.
+- You don’t need to confront the sender; keep communications factual and focused on confirming legitimate payment instructions.
 
 ## Important reassurance
-Standard bank security protocols are designed for these exact scenarios. While recovery is not guaranteed, pausing to verify a change in bank details is a high-level security practice, not a sign of paranoia. Most legitimate businesses will appreciate the caution, as it protects their revenue as well as your funds.
+Pausing to verify is the correct move—this scam pattern is common, and urgency is part of how it works. If you already paid, quick action with your bank is the best chance to limit losses.
 
 ## Scope note
-This guide provides first-step stabilization for suspected payment diversion and Business Email Compromise (BEC). It focuses on immediate harm prevention and the triggering of bank recovery protocols.
+This guide covers the first steps to prevent a wrong payment and trigger the fastest recovery paths. If money has moved, your bank’s fraud team may guide you through additional steps specific to the transfer type.
 
 ## Important note
-This guide is for informational purposes and does not constitute legal or financial advice. Banking procedures and recovery timelines vary significantly by institution and payment method (e.g., Wire vs. ACH). Always prioritize the specific instructions provided by your financial institution's fraud department.
+This guide is general information, not legal or financial advice. What’s possible depends on how you paid (wire vs ACH vs card/portal/P2P), how quickly you reported it, and your bank’s procedures—follow your bank’s instructions if they differ.
 
 ## Additional Resources
+- https://www.helpwithmybank.gov/help-topics/fraud-scams/scams/wire-transfer-scams/wire-transfer-scams-fraudulent.html
+- https://www.ic3.gov/CrimeInfo/BEC
 - https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise
-- https://www.ic3.gov/PSA/2024/PSA240911
-- https://www.ic3.gov/PSA/2018/PSA180712
-- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/spoofing-and-phishing
-- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
+- https://reportfraud.ftc.gov/
+- https://www.justice.gov/archives/opa/pr/united-states-files-forfeiture-action-recover-over-5m-funds-traceable-business-email

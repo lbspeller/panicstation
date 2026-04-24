@@ -1,107 +1,111 @@
----
+﻿---
 title: "What to do if… a key online account says your identity details were changed and you cannot tell what was altered"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "account takeover"
-  - "identity details changed"
-  - "profile changed without you"
-  - "email changed on account"
-  - "phone number changed on account"
-  - "name changed on account"
-  - "address changed on account"
-  - "date of birth changed"
-  - "security settings changed"
-  - "can’t tell what changed"
-  - "suspicious account alert"
-  - "unauthorized account changes"
-  - "hacked account warning"
-  - "login alert you didn’t do"
-  - "recovery details altered"
-  - "account locked out risk"
-  - "reset links not arriving"
-  - "unknown device sign-in"
-  - "identity info tampered with"
-  - "help i can't see my account changes"
-  - "what do i do if my identity details were changed"
-  - "help i got a security alert"
-  - "what do i do if my email was changed"
-  - "my password was changed by someone else"
-  - "help my recovery phone was removed"
-  - "smell of phishing link"
-  - "strange sign in location"
-  - "unrecognised login attempt"
-  - "account profile tampered"
-  - "online identity theft help"
-last_reviewed: "2026-03-17"
+  - account takeover
+  - identity details changed
+  - profile changed without you
+  - email changed on account
+  - phone number changed on account
+  - name changed on account
+  - address changed on account
+  - date of birth changed
+  - security settings changed
+  - can’t tell what changed
+  - suspicious account alert
+  - unauthorized account changes
+  - hacked account warning
+  - login alert you didn’t do
+  - recovery details altered
+  - account locked out risk
+  - reset links not arriving
+  - unknown device sign-in
+  - identity info tampered with
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… a key online account says your identity details were changed and you cannot tell what was altered (UK)
 
 ## Short answer
-Treat the alert as an active account takeover attempt by securing your email account first, then manually logging into the affected service to sign out all other devices and reset security credentials.
+Treat it as an account takeover attempt: secure your **email first**, then lock down the affected account by changing the password, signing out everywhere, and replacing any recovery details you don’t fully control.
 
 ## Do not do these things
-- Don't click any "review changes" or "log in here" links contained within the email or SMS alert.
-- Don't attempt to log in repeatedly if your password fails, as this can trigger a permanent security lockout.
-- Don't ignore the alert even if you still have access to the account.
-- Don't use the same password that was on the compromised account for any other service.
-- Don't delete the original notification, as the timestamp and specific wording are evidence for support and reporting.
+- Don’t click “review changes” links in the alert email/text unless you reached the site/app by typing the address yourself or using the official app (alerts can be phishing).
+- Don’t keep trying passwords repeatedly if you’re unsure — you can trigger lockouts while an attacker is still active.
+- Don’t rely on SMS-only codes if you can switch to stronger options later (some services still offer SMS, but it’s often not the best choice).
+- Don’t assume it’s “only this one account” until you’ve checked the email account and any saved payment methods.
+- Don’t delete the alert message yet — you may need the timestamp and wording when you contact support.
 
 ## What to do now
-1. **Access the service through a verified safe channel (2 minutes).**  
-   **Open a fresh browser window on a trusted device and manually type the website address or use the service's official mobile app.** Avoid using any links from the notification message to ensure you are not on a phishing site.
+1. **Get to a safer “clean” start point (2 minutes).**  
+   Use a device you trust. If possible, update the device, then open a browser and type the service’s address manually (or use the official app).
 
-2. **Secure your primary email account immediately.**  
-   **Change your email password to a unique, complex string and enable 2-step verification (2SV) if it is not already active.**  
-   - Review the email "Forwarding" and "Rules" or "Filters" settings to ensure no one is BCCing your incoming mail to an external address.  
-   - Navigate to the security tab and select "Sign out of all other sessions" to disconnect any unauthorised users.
+2. **Secure your email account immediately (because it unlocks everything else).**  
+   - Change your email password to a new, unique one.  
+   - Turn on 2-step verification for email.  
+   - In email settings: review **security / recent activity**, **forwarding**, and **filter rules**; remove anything you didn’t set.  
+   - Sign out of other sessions/devices from the email account’s security page.
 
-3. **Lock down the affected account using its internal security settings.**  
-   **Log into the compromised account and immediately change the password and select the option to sign out of all other devices.**  
-   - Look for a "Device Management" or "Recent Activity" section.  
-   - Revoke access for any unknown browsers, apps, or physical locations.  
-   - Remove any "Connected Apps" or third-party login permissions (e.g., "Sign in with Google/Facebook") that you do not recognise.
+3. **Lock down the affected account (even if you can still log in).**  
+   In the account’s **Security / Login / Privacy** area:
+   - Change the password (new, unique).  
+   - **Sign out of all devices/sessions** (often “log out of all devices”).  
+   - Remove unknown **devices**, **browsers**, or **active sessions**.  
+   - Revoke access for unfamiliar **connected apps** or **“Sign in with…”** connections.
 
-4. **Verify and reset all recovery information.**  
-   **Check the recovery email address and phone number to ensure they match your current contact details exactly.**  
-   - Generate new "Backup Codes" or a "Recovery Key" and save them offline.  
-   - If the service allows, switch from SMS-based codes to an authenticator app or a physical security key.
+4. **Rebuild your recovery details so you’re the only recovery route.**  
+   - Replace the recovery email/phone with ones you control.  
+   - Check for **alternate emails**, **backup codes**, **trusted devices**, or a **recovery key**; reset/reissue them if you didn’t create them.  
+   - If the service supports it, switch to an **authenticator app** or **passkeys** and remove recovery options you don’t want.
 
-5. **Perform a manual audit of personal data fields.**  
-   **Navigate to the "Profile," "Personal Info," or "Settings" page and check every field for subtle alterations.**  
-   - Check the display name, date of birth, and primary home address.  
-   - Review "Contact Preferences" to see if a second, hidden email address has been added.  
-   - Check "Payment Methods" for any new cards or changed billing addresses.
+5. **Find what changed (without guessing).**  
+   Look for pages like **Profile**, **Personal details**, **Account info**, **Addresses**, **Security**, **Payment**, **Documents/verification**, or **Settings → Account**. Specifically check:
+   - Name, date of birth, address(es)
+   - Username/handle
+   - Recovery email/phone
+   - Two-step verification method
+   - Any “contact preferences” email address
+   - Any new linked accounts
 
-6. **Contact the provider's official recovery or fraud department if you are locked out.**  
-   **Use the service's dedicated "hacked account" or "compromised account" recovery form.**  
-   - Provide the approximate time you received the alert.  
-   - State clearly that identity details were changed without your consent and you require a manual account freeze or rollback.
+6. **If you cannot access the account or you can’t view the altered details, use the provider’s official recovery flow and ask for a lock.**  
+   Use the provider’s “recover hacked/compromised account” help pages. In your message include:
+   - Approximate time of the alert
+   - That you received a notice about **identity details changed** but cannot see what
+   - Any suspicious logins/devices you can see  
+   Ask them to **lock the account**, **revert recent profile changes**, and **confirm which fields were altered**.
 
-7. **Report the incident to the national reporting centre.**  
-   **If you are in England, Wales, or Northern Ireland, report the incident to Report Fraud (formerly Action Fraud) online or by calling 0300 123 2040.**  
-   - If you are in Scotland, report the incident to Police Scotland via 101 or through their online reporting portal for cybercrime.
+7. **If payment methods or money are involved, act as if your card/bank details might be next.**  
+   - Remove stored cards/payment methods from the account (if safe to do so).  
+   - Check your bank/card app for pending transactions and set alerts.  
+   - If you see unauthorised transactions, contact your bank/card provider using the number on your card or in-app support.
 
-8. **Exercise your right to rectification for inaccurate data.**  
-   **Formally request that the organisation corrects any inaccurate personal data under the Data (Use and Access) Act and UK GDPR.** The organisation must generally respond or comply within one month. If they refuse, you can escalate the matter to the Information Commissioner's Office (ICO).
+8. **If you want to report it (or you’ve lost money/data), use the UK national fraud reporting route.**  
+   - If you live in **England, Wales or Northern Ireland**, report cyber crime and fraud via **Report Fraud** (online or by phone).  
+   - If you live in **Scotland**, fraud is typically reported to **Police Scotland via 101**.
+
+9. **If the company won’t correct inaccurate personal details, use your data rights path.**  
+   Ask the organisation to **rectify** (correct) inaccurate personal data and to confirm what they hold. If you can’t resolve it with them, you can escalate as a data protection complaint to the ICO.
 
 ## What can wait
-- You do not need to determine how the breach occurred in the immediate moment.
-- You do not need to replace every single online password today; focus only on your email and the specific affected account.
-- You do not need to close the account permanently until you have verified if financial or sensitive data was exported.
+- You do not need to figure out *how* it happened right now.
+- You do not need to change every password you’ve ever used — focus on **email + this account + anything sharing the same password**.
+- You do not need to decide today whether to close the account permanently (stabilise first; decide later).
 
 ## Important reassurance
-Receiving a notification about identity changes is a high-stress event, but these alerts are an early warning system designed to help you intervene. If you have secured your email account (the "root" of your digital identity) and forced a logout of all other sessions, you have significantly reduced the attacker's ability to maintain control.
+These alerts are designed to alarm you — but the situation is usually stabilisable if you secure the email “root account”, sign out all sessions, and replace recovery details. Moving carefully (official app/site only, one account at a time) is faster than panic-clicking.
 
 ## Scope note
-This guide covers immediate stabilization and account recovery for individuals in the UK. It does not replace specialist legal advice for large-scale identity theft or professional incident response for business accounts.
+This is first steps only for the first hour or two. If the account is financial, work-related, or connected to official identity checks, you may need the provider’s specialist support and (if losses occur) formal reporting.
 
 ## Important note
-This information is for practical guidance and does not constitute legal or technical advice. Account recovery processes are specific to each service provider. Always prioritize the instructions provided on the official support pages of the service in question (e.g., Microsoft, Google, Apple, or banking portals).
+This guide provides general information and practical first steps, not legal or professional advice. Processes and labels vary by service; use the provider’s official recovery pages and support channels for account-specific instructions.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
-- https://www.ncsc.gov.uk/collection/phishing-scams/what-to-do
-- https://www.gov.uk/report-suspicious-emails-websites-phishing
-- https://www.gov.uk/guidance/report-suspicious-activity-happening-in-your-hmrc-online-account
-- https://www.gov.uk/guidance/keeping-your-hmrc-login-details-safe
+- https://www.ncsc.gov.uk/section/respond-recover/sole-hacked-accounts
+- https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/activate-2-step-verification-on-your-email
+- https://www.reportfraud.police.uk/
+- https://stopthinkfraud.campaign.gov.uk/reporting-fraud/
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/right-to-rectification/
+- https://ico.org.uk/make-a-complaint/data-protection-complaints/

@@ -1,91 +1,79 @@
----
+﻿---
 title: "What to do if… water starts bubbling up in the garden or driveway and you suspect a buried pipe leak"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - "water bubbling in yard"
-  - "water bubbling in driveway"
-  - "suspected underground pipe leak"
-  - "buried water line leak"
-  - "possible water main break"
-  - "sudden water from ground"
-  - "wet spot growing fast"
-  - "yard leak near sidewalk"
-  - "water meter spinning check"
-  - "main shutoff valve location"
-  - "curb stop valve issue"
-  - "driveway sinking risk"
-  - "ground collapse concern"
-  - "water pooling outside home"
-  - "outdoor water line burst"
-  - "unexplained standing water"
-  - "leak near street curb"
-  - "call 811 before digging"
-  - "do not dig unmarked"
-  - "water line surfacing"
-  - "bubbling water in grass"
-  - "help i have water coming out of the ground"
-  - "my yard is flooding from underground"
-  - "what do i do if water is bubbling in my driveway"
-  - "water main break signs"
-  - "sinkhole forming in yard"
-  - "pavement cracking from water"
-  - "wet spot on dry day"
-  - "utility line leak reporting"
-  - "emergency water shutoff outdoors"
-last_reviewed: "2026-03-17"
+  - water bubbling in yard
+  - water bubbling in driveway
+  - suspected underground pipe leak
+  - buried water line leak
+  - possible water main break
+  - sudden water from ground
+  - wet spot growing fast
+  - yard leak near sidewalk
+  - water meter spinning check
+  - main shutoff valve location
+  - curb stop valve issue
+  - driveway sinking risk
+  - ground collapse concern
+  - water pooling outside home
+  - outdoor water line burst
+  - unexplained standing water
+  - leak near street curb
+  - call 811 before digging
+  - do not dig unmarked
+last_reviewed: "2026-03-04"
 ---
+
 # What to do if… water starts bubbling up in the garden or driveway and you suspect a buried pipe leak (USA)
 
 ## Short answer
-Isolate the area to prevent sinkhole or electrical accidents, **shut off your home’s interior water main** to check for flow, and **immediately contact your local water utility’s emergency line** to report the surfacing water.
+Treat bubbling water as both a **leak** and a **ground-collapse hazard**: keep people/vehicles away, **shut off your home’s water** at the main if you can, then **report it to your local water utility** (and your landlord/property manager if you rent).
 
 ## Do not do these things
-- Don’t start digging to find the pipe (you risk hitting gas, electric, or fiber-optic lines).
-- Don’t drive vehicles or walk directly over the bubbling point (voids can form underground, leading to sudden collapse).
-- Don’t attempt to operate the utility-side curb stop or meter valve with pliers (you may break the valve, making the leak uncontrollable).
-- Don’t assume the water is safe for pets or children to play in (it may be mixed with soil contaminants or sewage).
-- Don’t wait until business hours to report water surfacing in a street, sidewalk, or public right-of-way.
+- Don’t start digging to “find the break” (you can hit buried utilities and worsen the collapse).
+- Don’t drive over the area or let kids/pets play there (voids can form under the surface).
+- Don’t assume it’s safe just because the water looks “clean.”
+- Don’t delay contacting the utility if it’s near the street/sidewalk or flowing fast.
+- Don’t dig until you’ve contacted **811** and utility markings are completed.
 
 ## What to do now
-1. **Establish a safety perimeter around the surfacing water.**
-   - Keep all people and pets at least 30 feet away if the water is near electrical equipment or if the ground is visibly sinking.
-   - Move vehicles off the driveway if the water is surfacing nearby to prevent them from being trapped or swallowed by a cave-in.
-2. **Shut off your interior main water valve.**
-   - **Locate your main shutoff valve (usually in the basement, crawlspace, garage, or near the water heater) and turn it to the 'off' position.**
-   - This stops water usage inside the house so you can accurately check the meter.
-3. **Perform a meter check (no digging required).**
-   - **Go to your water meter box (often near the street/curb) and check the flow indicator.**
-   - If the small dial or digital display is moving while your house valve is shut, the leak is likely on your service line between the meter and the house.
-4. **Call your water utility’s emergency dispatch line.**
-   - **Report the exact location and describe the flow (e.g., "bubbling," "rushing," or "flooding").**
-   - If the water is in the street or sidewalk, the utility is usually responsible; if it is on your property, they can still perform an emergency shutoff at the street.
-5. **Contact a licensed plumber if the leak is on your property.**
-   - **Inform them that you have surfacing water and have already notified the utility.**
-   - Do not allow them to dig until an 811 "locate" has been performed, unless it is a life-safety emergency.
-6. **Alert your landlord or property manager immediately if you rent.**
-   - **Provide photos of the water surfacing point and any damage to the driveway or landscaping.**
-7. **Monitor for a Boil Water Advisory (BWA).**
-   - **Check your utility’s website or local news for alerts once the repair begins.**
-   - Significant pressure drops caused by main breaks can allow contaminants into the system.
+1. **Create a no-go zone.** Keep everyone and everything off the bubbling/wet area (including vehicles). If it’s a driveway, block it and avoid that section.
+2. **Shut off water to limit damage (if safe).**
+   - Turn off your home’s **main shutoff valve** (commonly where the line enters the house, basement/crawlspace, garage, or near the meter).
+   - If water is approaching electrical panels/outlets or powered equipment and you can’t isolate safely, increase distance and move to step 5.
+3. **Quick “is it still feeding?” check (no digging).**
+   - With all indoor water off, see if the **water meter** still shows flow (many meters have a small flow indicator). Continuous movement suggests an active leak.
+4. **Report it to the right place based on where it is.**
+   - **In/near the street, sidewalk, alley, or public right-of-way:** report to your **water utility/public works** right away.  
+     - If your city has **311**, it may route **non-life-threatening** street leak reports; if not, use the utility’s published emergency number or online “report a problem” tool.
+   - **Clearly on your property:** you may need a licensed plumber, but it can still be smart to **notify the utility** if you’re unsure or if it’s near the meter/curb area.
+   - **If you rent:** notify your **landlord/property manager immediately**.
+5. **Call 911 only for immediate danger.** Examples: rapid ground collapse, a street/sidewalk becoming unsafe to the public, water creating a serious electrical hazard, or a traffic hazard that can’t be controlled.
+6. **Document what you can safely.** Take photos/video (wide + close-up) showing:
+   - the bubbling point and surrounding wet ground,
+   - any cracking/sinking,
+   - proximity to the home, driveway edge, sidewalk, or curb.
+7. **If anyone may dig later, start with 811.** Submit a free **811 locate request** before any excavation so buried utilities can be marked.
 
 ## What can wait
-- You do not need to determine who is "at fault" or who will pay for the repair before reporting the hazard.
-- You do not need to clean up mud or debris until the water flow has been fully stopped by the utility or a plumber.
-- You do not need to dig a "test hole" to show the plumber where the pipe is.
+- You do **not** need to diagnose whether it’s “utility side vs customer side” before you report — reporting first is appropriate.
+- You do **not** need to dig test holes or trace the line today.
+- You do **not** need to sort repair bids/insurance decisions until the leak is controlled and responsibility is clearer.
 
 ## Important reassurance
-Seeing water rush from the ground is startling and often feels like a race against time. By clearing the area and making the phone calls to the utility and a plumber, you have already taken the most effective steps to stabilize the situation. Professionals handle these types of breaks daily and have the equipment to isolate the flow quickly.
+This feels urgent because it can change quickly — that instinct is valid. Keeping the area clear, stopping the water feed if you can, and getting the utility/landlord involved are the right early moves.
 
 ## Scope note
-This guide covers immediate stabilization and reporting for suspected underground water leaks. It does not cover repair techniques, insurance claim filing, or long-term landscape restoration.
+This guide covers first steps only. After the immediate risk is controlled, next steps may include utility assessment, leak location, repair scheduling, and documentation for your insurer or landlord.
 
 ## Important note
-This information is for emergency stabilization only and is not professional plumbing or engineering advice. Surfacing water can indicate a water main break, a sewer collapse, or a sinkhole. Always prioritize physical distance from the hazard and follow instructions from utility workers or emergency services on-site.
+This is general information, not professional plumbing, utility, or safety advice. If you see rapid sinking, major roadway/sidewalk damage, or a serious electrical hazard, prioritise distance and emergency services.
 
 ## Additional Resources
-- https://www.saws.org/connecth2o/reading-water-meter-to-help-identify-leaks/
-- https://www.saws.org/service/do-it-yourself-repairs/reading-your-water-meter/
-- https://www.saws.org/service/locates-service/
-- https://www.call811.com/
-- https://www.mtnregionalwaterutah.gov/do-you-have-a-water-leak
+- https://811beforeyoudig.com/before-you-dig/
+- https://commongroundalliance.com/811
+- https://www.usgs.gov/faqs/i-have-or-think-i-have-a-sinkhole-my-property-what-should-i-do
+- https://reportaproblem.dcwater.com/
+- https://www.phila.gov/2021-05-10-how-to-report-water-related-issues-in-philadelphia/
+- https://water.phila.gov/drops/water-infrastructure-emergencies/

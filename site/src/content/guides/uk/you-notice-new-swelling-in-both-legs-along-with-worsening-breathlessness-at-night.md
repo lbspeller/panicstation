@@ -1,97 +1,82 @@
----
+﻿---
 title: "What to do if… you notice new swelling in both legs along with worsening breathlessness at night"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "new swelling both legs"
-  - "swollen ankles and feet"
-  - "leg oedema suddenly worse"
-  - "breathless at night"
-  - "waking up short of breath"
-  - "worse when lying down"
-  - "needing extra pillows to breathe"
-  - "fluid retention symptoms"
-  - "rapid weight gain with swelling"
-  - "puffiness in legs and ankles"
-  - "tight shiny skin on legs"
-  - "shortness of breath at rest"
-  - "nighttime breathing trouble"
-  - "legs swelling no injury"
-  - "both legs swollen and breathless"
-  - "swelling with fatigue"
-  - "possible heart strain symptoms"
-  - "breathlessness lying flat"
-  - "swollen legs and wheezy cough"
-  - "what do i do if my legs are swollen"
-  - "what do i do if i cant breathe lying down"
-  - "what do i do if my ankles are puffy"
-  - "what do i do if i wake up gasping"
-  - "help i have swollen legs and breathlessness"
-  - "help i need pillows to breathe"
-  - "help i am short of breath at night"
-  - "help my shoes feel too tight"
-  - "stomach swelling and breathless"
-  - "pitting oedema symptoms"
-  - "orthopnoea signs"
-  - "paroxysmal nocturnal dyspnoea"
-  - "heart failure red flags"
-  - "bilateral leg swelling"
-  - "gaining weight quickly with swelling"
-  - "pink frothy phlegm"
-last_reviewed: "2026-03-16"
+  - new swelling both legs
+  - swollen ankles and feet
+  - leg oedema suddenly worse
+  - breathless at night
+  - waking up short of breath
+  - worse when lying down
+  - needing extra pillows to breathe
+  - fluid retention symptoms
+  - rapid weight gain with swelling
+  - puffiness in legs and ankles
+  - tight shiny skin on legs
+  - shortness of breath at rest
+  - nighttime breathing trouble
+  - legs swelling no injury
+  - both legs swollen and breathless
+  - swelling with fatigue
+  - possible heart strain symptoms
+  - breathlessness lying flat
+  - swollen legs and wheezy cough
+last_reviewed: "2026-02-21"
 ---
+
 # What to do if… you notice new swelling in both legs along with worsening breathlessness at night (UK)
 
 ## Short answer
-Treat this as a medical priority and seek urgent assessment. If you are struggling to breathe, gasping, or have chest pain, call 999 immediately; otherwise, contact NHS 111 now to report new bilateral leg swelling and breathlessness when lying flat.
+Treat this as urgent. If you’re more breathless when lying down or waking up at night short of breath, get urgent NHS help now (111), and call 999 if breathing is severe or you have chest pain/fainting/confusion.
 
 ## Do not do these things
-- Do not wait for a routine GP appointment if you are waking up gasping for air or cannot breathe while lying flat.
-- Do not drive yourself to the hospital if you feel faint, severely breathless, or have chest pain.
-- Do not take extra doses of water tablets (diuretics) or start new supplements without a direct medical instruction.
-- Do not significantly restrict your fluid intake before being seen, as this can complicate some underlying causes.
-- Do not ignore a sudden increase in weight (e.g., more than 2kg in two days) if accompanied by swelling.
+- Do not “sleep it off” if breathlessness is worsening at night or when lying down.
+- Do not drive yourself to A&E if you feel very breathless, faint, confused, or have chest pain — call 999 instead.
+- Do not take extra “water tablets” (diuretics) or other prescription medicines unless you have a written plan from a clinician for exactly this situation.
+- Do not drastically restrict fluids or take over-the-counter “water loss” products.
+- Do not keep repeatedly lying flat “to test it” if that makes breathing worse.
 
 ## What to do now
-1. **Call 999 or go to A&E immediately if you notice emergency red flags.**
-   - severe difficulty breathing where you cannot finish a sentence or are gasping for air
-   - coughing up frothy, pink-tinged, or foamy phlegm
-   - chest pain that feels heavy, tight, or like a crushing weight
-   - blue, grey, or very pale lips or skin (check palms or gums if you have dark skin)
-   - sudden confusion, fainting, or collapse
-2. **Contact NHS 111 immediately if it is not an emergency but you have nighttime breathing trouble.**
-   - Call 111 rather than using the online service for active breathing issues to ensure immediate clinical triage.
-   - State clearly: "I have new swelling in both legs and I am struggling to breathe when I lie down."
-3. **Sit in an upright, supported position while waiting for help or advice.**
-   - Prop yourself up with several pillows or sit in a firm chair. Avoid lying flat, as this often makes fluid-related breathlessness worse.
-4. **Check for other signs of fluid build-up to report to the clinician.**
-   - Press your finger into the swollen area for 5 seconds; note if an indent remains (pitting).
-   - Look for new swelling or a "bloated" feeling in your stomach area.
-   - Check if you have gained more than 1–2kg (approx. 2–4lbs) in the last few days.
-5. **Gather your medical information for the call handler or paramedics.**
-   - List all current medications, especially blood pressure or heart tablets.
-   - Note any known history of heart, lung, kidney, or liver conditions.
-   - Mention if you have recently had a viral infection or a high temperature.
-6. **Follow your specific heart failure action plan if you have been diagnosed previously.**
-   - Contact your heart failure nurse or specialist team if they are available, but do not delay calling 111 or 999 if your breathing is worsening or it is outside of their working hours.
+1. **Call 999 (or go to A&E) immediately if any emergency signs apply:**
+   - severe difficulty breathing (gasping/choking or unable to get words out)
+   - chest tightness/heaviness or chest pain, especially if it spreads
+   - blue/grey lips/skin, new confusion, or fainting/collapsing
+   - coughing up blood, especially with breathlessness or chest pain
+2. **If it’s not 999-level but clearly new/worsening: contact NHS 111 now.**
+   - Use **111 online** if you can, or **call 111** if online isn’t suitable for you (for example, you need interpretation/help over the phone, or you’re not within the online service’s age coverage).
+   - Say clearly: **“New swelling in both legs”** and **“Breathlessness worse when lying down / waking up at night short of breath.”**
+3. **Sit upright while you arrange help.**
+   - Sit supported upright (or propped up with pillows). Keep talking and movement minimal.
+4. **Prepare a 2-minute “info pack” for 111/clinicians.**
+   - Your medications (or photos of the boxes), allergies, and any heart/lung/kidney/liver problems.
+   - When the swelling started, whether it’s getting worse daily, and whether shoes/socks suddenly feel tight.
+   - If you can without exertion: today’s weight (and any rapid change), and your heart rate.
+5. **Watch for clot / lung “red flags” and state them clearly if present.**
+   - **DVT symptoms are usually in one leg.** If one leg is much more swollen/painful/red/hot than the other, tell 111/999.
+   - If you have chest pain, fainting, severe breathlessness, or cough up blood, treat as emergency and use 999/A&E.
+6. **If you already have a heart failure nurse/team or a written action plan:**
+   - Follow your plan for contacting them, **but do not wait** if breathlessness is worsening at night or you can’t reach the team quickly — use 111/999.
 
 ## What can wait
-- You do not need to determine the specific cause (such as heart, kidney, or liver issues) yourself.
-- You do not need to pack for a long hospital stay immediately; focus on the medical call first.
-- You do not need to adjust your diet or salt intake in the next few minutes.
+- You do not need to work out the exact cause tonight.
+- You do not need to start strict fluid restriction, new diets, or supplements right now.
+- You do not need to decide about long-term treatment changes until you’ve been assessed.
+- You can wait to sort work/family logistics until you’ve spoken to 111 or been evaluated.
 
 ## Important reassurance
-Waking up short of breath or noticing leg swelling can be frightening, but these are well-recognised symptoms that healthcare providers are equipped to assess urgently. Seeking help now is the correct action to prevent symptoms from progressing. 
+This pattern (new leg swelling plus breathlessness that’s worse lying down or waking you at night) is a well-recognised reason to seek urgent assessment. Many causes are treatable, and getting checked early reduces the chance of sudden worsening.
 
 ## Scope note
-This guide provides first-step stabilization and triage instructions only. It does not replace a clinical examination, which is necessary to diagnose the cause of fluid retention and breathlessness.
+These are first steps to keep you safe and get you to the right urgent service. Diagnosis and treatment decisions need a clinician who can examine you and arrange tests if needed.
 
 ## Important note
-The combination of bilateral leg swelling and orthopnoea (breathlessness when lying flat) is a clinical priority. Always choose the most urgent level of care if you are unsure of the severity.
+This is general information, not a diagnosis. If symptoms are severe, rapidly worsening, or you’re unsure, choose the safer option: call 999 or contact NHS 111 now.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/heart-failure/symptoms/
-- https://www.nhs.uk/conditions/heart-failure/
-- https://www.england.nhs.uk/long-read/managing-heart-failure-home-information-for-patients/
-- https://www.bhf.org.uk/informationsupport/conditions/heart-failure
-- https://www.leicspart.nhs.uk/wp-content/uploads/2022/07/109-CHS-purple-heart-failure-guide-to-symptom-management-6.pdf
+- https://www.nhs.uk/conditions/oedema/
+- https://www.nhs.uk/symptoms/shortness-of-breath/
+- https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
+- https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/ask-the-experts/swollen-ankles

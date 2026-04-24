@@ -1,99 +1,81 @@
----
+﻿---
 title: "What to do if… you feel close to fainting when you stand up and your heart rate jumps"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "feel faint standing up"
-  - "near fainting on standing"
-  - "heart rate jumps standing"
-  - "dizzy when standing"
-  - "lightheaded on standing"
-  - "head rush when i stand"
-  - "black spots vision standing"
-  - "legs weak when i stand"
-  - "palpitations when standing"
-  - "racing heart on standing"
-  - "almost passing out"
-  - "fainting warning signs"
-  - "postural dizziness"
-  - "orthostatic symptoms"
-  - "standing makes me dizzy"
-  - "faint feeling after getting up"
-  - "heart pounding standing"
-  - "sudden dizziness upright"
-  - "what do i do if i feel faint standing up"
-  - "what do i do if my heart races when i stand"
-  - "what do i do if i almost pass out standing up"
-  - "what do i do if i get dizzy getting out of bed"
-  - "help i feel faint when i stand"
-  - "help i nearly fainted standing up"
-  - "help my heart is racing and i feel dizzy"
-  - "help i have black spots in my eyes"
-  - "vision going dark standing up"
-  - "ringing in ears when standing"
-  - "nausea when standing up"
-  - "feeling hot and faint"
-  - "pots symptoms"
-  - "orthostatic hypotension"
-  - "vasovagal syncope"
-  - "dizzy when getting up"
-  - "near faint standing"
-  - "heart rate increase standing"
-last_reviewed: "2026-03-16"
+  - feel faint standing up
+  - near fainting on standing
+  - heart rate jumps standing
+  - dizzy when standing
+  - lightheaded on standing
+  - head rush when i stand
+  - black spots vision standing
+  - legs weak when i stand
+  - palpitations when standing
+  - racing heart on standing
+  - almost passing out
+  - fainting warning signs
+  - postural dizziness
+  - orthostatic symptoms
+  - standing makes me dizzy
+  - faint feeling after getting up
+  - heart pounding standing
+  - sudden dizziness upright
+last_reviewed: "2026-02-21"
 ---
-# What to do if… you feel close to fainting when you stand up and your heart rate jumps (UK)
 
+# What to do if… you feel close to fainting when you stand up and your heart rate jumps (UK)
 ## Short answer
-Lie down flat on the floor immediately and raise your legs above the level of your heart to maintain blood flow to the brain. If you experience chest pain, severe breathlessness, or if the faint occurred while you were already lying down or exercising, call 999.
+Sit or lie down immediately to prevent a fall, and raise your legs if you can. If you also have severe breathlessness, chest pain, new confusion, you faint, or you’re injured in a fall, call 999.
 
 ## Do not do these things
-- Do not attempt to "walk it off" or stay upright to see if the feeling passes.
-- Do not stand up quickly to test if the dizziness has stopped.
-- Do not drive, cycle, or operate machinery until you have been assessed by a clinician.
-- Do not take any new medications or skip prescribed heart or blood pressure doses without medical advice.
-- Do not ignore the episode if you actually lost consciousness, even briefly.
+- Do not “push through” it or keep walking to “shake it off” — that’s how people fall and hit their head.
+- Do not stand up again quickly “to test it”.
+- Do not drive, cycle, climb stairs, or use tools until you’re steady.
+- Do not drink alcohol right now.
+- Do not take extra doses of blood pressure/heart medicines (or stop them suddenly) unless a clinician has told you to.
 
 ## What to do now
-1. **Eliminate the risk of falling immediately.**  
-   - **Lie down flat on your back on the floor** as soon as you feel the warning signs.
-   - If you cannot lie down, sit on the floor and put your head between your knees.
-2. **Improve blood flow to your brain.**  
-   - **Raise your legs** by resting them on a chair, sofa, or a pile of cushions while lying flat.
-   - If someone is with you, ask them to support your ankles on their shoulders.
-3. **Screen for emergency "red flag" symptoms and call 999 if any occur.**  
-   - You have **chest pain, tightness, or a pounding/irregular heartbeat** that does not settle.
-   - You have **severe difficulty breathing** or your skin/lips appear pale, blue, or grey.
-   - The faint happened **while you were lying down** or during physical exercise.
-   - You have **new confusion**, have hit your head, or remain unresponsive for more than one minute.
-4. **Identify and record the triggers once you are stable.**  
-   - **Note exactly what you were doing** (e.g., getting out of a hot bath, standing up after a long meal, or waking up from sleep).
-   - Check if you are dehydrated, have skipped a meal, or are currently ill with a fever or stomach bug.
-5. **Use physical counter-manoeuvres before attempting to stand again.**  
-   - While still lying or sitting: **tense your leg and buttock muscles**, clench your fists, and squeeze your tummy muscles for 30 seconds.
-   - Move to an upright position **slowly and in stages**: lie to sit (wait 60 seconds), sit to stand (wait 60 seconds while holding a stable surface).
-6. **Contact the appropriate medical service for follow-up.**  
-   - If the symptoms have passed but this is a new or worsening problem, **call your GP for an urgent appointment** or contact **NHS 111**.
-   - If you have fainted and recovered, you still need a medical assessment to rule out underlying heart rhythm issues or low blood pressure.
-7. **Adhere to UK driving regulations if faints are recurrent.**  
-   - **Stop driving immediately** and inform the DVLA if you experience regular or unexplained fainting (syncope), as this is a legal requirement.
+1. **Get safe from falling (right now).**  
+   - Sit down immediately, or **lie flat**.  
+   - If you can, **raise your legs** on a chair/cushion, or lie with legs up against a wall for a few minutes.
+2. **If you’re alone, reduce the chance of injury.**  
+   - Put your phone within reach.  
+   - Move away from sharp edges/hot drinks. If you can safely do so, let someone know what’s happening.
+3. **Do a fast “red flag” check. Call 999 if any apply.**  
+   - You faint/collapse and **cannot be woken quickly** (or you remain very unwell afterwards).  
+   - Chest pain/tightness/heaviness; severe difficulty breathing; lips/skin turning very pale/blue/grey; **new confusion**; or you’ve had a significant fall/head injury.  
+   - You feel too unwell to safely stay at home.
+4. **If no red flags and you’re improving, rehydrate cautiously.**  
+   - Sip water.  
+   - If you haven’t eaten and you can swallow safely, try a small snack.
+5. **Use simple “counter-moves” before the next time you stand.**  
+   - Before standing: **tense your legs and buttocks**, pump your ankles, or cross your legs and squeeze for 20–30 seconds.  
+   - Stand up **in stages**: lying → sitting (pause) → standing (pause while holding something stable).
+6. **Do one quick note for a clinician (30 seconds).**  
+   - Time it happened, what you were doing (out of bed, after shower, after illness, after skipping food), any new medicines or dose changes, and whether you actually fainted.
+7. **Get the right help today if this is new, recurrent, or worrying.**  
+   - If it keeps happening, you actually fainted, or you’re getting repeated palpitations with near-fainting, it’s **usually appropriate to get same-day advice** via **NHS 111** (phone or 111 online).  
+   - If symptoms have settled but you’re still concerned, request an **urgent GP appointment**.
 
 ## What can wait
-- You do not need to determine the specific medical cause (such as POTS or Orthostatic Hypotension) yourself.
-- You do not need to purchase heart rate monitors or blood pressure cuffs today unless a doctor advises it.
-- You do not need to restart or change your exercise routine right now.
+- You do not need to diagnose the cause right now.
+- You do not need to “train yourself out of it” or change your whole diet today.
+- You do not need to repeatedly stand up to “check” — focus on preventing a fall and getting assessed if it’s new or recurrent.
 
 ## Important reassurance
-Feeling faint or having a racing heart when standing is often a result of temporary factors like dehydration, heat, or standing too quickly, which cause a brief drop in blood pressure or a compensatory rise in heart rate. While these sensations are alarming, lying down and raising your legs is a highly effective way to stabilize the body and prevent a fall.
+Feeling faint on standing with a racing heart can happen for several non-dangerous reasons (for example, being under-hydrated, recovering from illness, heat, or standing up too fast). But because it can overlap with heart rhythm problems, medication effects, or other treatable issues, it’s reasonable to take it seriously — especially if it’s new, frequent, or you actually faint.
 
 ## Scope note
-This guide provides first-step stabilization and safety advice only. It does not replace a clinical diagnosis or a formal "active stand test" performed by a healthcare professional.
+These are first steps to keep you safe and get you to the right level of help. If this is recurring, a clinician may check your pulse and blood pressure lying and standing, review medications, and decide if further tests are needed.
 
 ## Important note
-This information is for guidance and does not constitute medical advice. Seek immediate help via 999 for chest pain, severe breathing problems, or if a person does not regain consciousness quickly. If you are pregnant and feel faint, lie on your left side rather than flat on your back.
+This is general information, not a diagnosis. If you feel severely unwell, have chest pain, severe breathlessness, faint/collapse, new confusion, or you’ve injured yourself in a fall, seek urgent medical help immediately.
 
 ## Additional Resources
-- https://www.nhs.uk/conditions/postural-tachycardia-syndrome/
-- https://www.nhs.uk/conditions/low-blood-pressure-hypotension/
+- https://www.nhs.uk/symptoms/fainting/
+- https://www.nhs.uk/tests-and-treatments/first-aid/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/
+- https://www.nhs.uk/symptoms/shortness-of-breath/
+- https://www.sja.org.uk/first-aid-advice/fainting/
 - https://www.guysandstthomas.nhs.uk/health-information/postural-hypotension
-- https://www.potsuk.org/about-pots/what-is-pots/
-- https://www.nhs.uk/symptoms/heart-palpitations/

@@ -1,81 +1,68 @@
----
+﻿---
 title: "What to do if… you are worried a partner may not respect your request to pause or stop during sex"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "partner may not respect request to pause during sex"
-  - "worried partner won't stop during sex"
-  - "partner might ignore no during sex"
-  - "worried about request to stop sex"
-  - "afraid partner won't respect boundaries"
-  - "scared to ask to stop sex"
-  - "help i want to stop sex but am scared"
-  - "what do i do if i want to pause sex"
-  - "what do i do if i feel unsafe during sex"
-  - "what do i do if partner ignores stop"
-  - "my partner won't listen when i say stop"
-  - "my partner is pushing past sexual boundaries"
-  - "my partner makes me feel unsafe during sex"
-  - "my partner ignores consent mid sex"
-  - "unresponsive partner during sex"
-  - "aggressive reaction to stop request"
-  - "partner ignores physical cues to stop"
-  - "feeling pressured to continue sex"
-  - "sexual coercion concerns"
-  - "unsafe sexual situation"
-  - "withdrawing consent during sex"
-  - "freeze response during intimacy"
-  - "unable to speak during sex"
-  - "fear of escalation during sex"
-  - "uncertain sexual consent"
-  - "consent withdrawn mid act"
-  - "worried about rape"
-  - "sexual assault prevention"
-  - "boundary not respected during sex"
-  - "need to pause sexual activity"
-last_reviewed: "2026-03-17"
+  - partner won't stop during sex
+  - worried they won't respect no
+  - scared to say stop
+  - consent might be ignored
+  - not sure they will pause
+  - pressure to continue sex
+  - partner pushes past boundaries
+  - freeze response during sex
+  - afraid of partner reaction
+  - saying no feels unsafe
+  - consent withdrawn mid sex
+  - worried about coercion
+  - boundary not respected
+  - unsafe sexual situation
+  - need a safe way to stop
+  - want to pause intimacy
+  - concerned about escalation
+  - worried about being forced
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you are worried a partner may not respect your request to pause or stop during sex (UK)
 
 ## Short answer
-Prioritize immediate physical distance and do not proceed with any sexual activity if you are concerned about your safety or their response to a boundary.
+If you’re not confident you’ll be safe saying “stop,” don’t have sex with them right now—prioritise getting yourself to a safer situation and reaching out for confidential support.
 
 ## Do not do these things
-- Do not "go along with it" or stay silent to avoid a negative reaction or awkwardness.
-- Do not use drugs or alcohol to manage your anxiety or to make the situation easier to tolerate.
-- Do not stay in a location where your exit is blocked or where you do not have immediate access to your phone and transport.
-- Do not attempt to negotiate or justify your request if you feel in danger.
-- Do not assume that your past consent or current relationship status means you cannot stop right now.
+- Don’t “go along with it” to avoid awkwardness if you feel uneasy or unsafe.
+- Don’t rely on alcohol/drugs to make it easier to say yes or to “get through it.”
+- Don’t put yourself in a situation where you’d struggle to leave (locked room, no transport, phone out of reach).
+- Don’t let them argue you into “just a bit more” if you’re trying to pause.
+- Don’t assume you must explain, justify, or negotiate your boundary in the moment.
 
 ## What to do now
-1. **Remove yourself from the immediate sexual setting if you feel uneasy or unsafe.** Move to a separate room, such as a bathroom with a lock, or go outside to a public area.
-2. **Use the "Silent Solution" if you need the police but cannot speak safely.** Dial 999 from a mobile phone and, when prompted by the automated system, press 55 to inform the operator that you are in a genuine emergency but cannot talk.
-3. **State your boundary in a clear and final manner without inviting discussion.** Use phrases such as "Stop," "I am finished now," or "I am getting dressed," and begin the physical action of leaving or dressing immediately.
-4. **Contact the 24/7 Rape and Sexual Abuse Support Line for confidential guidance.** Call 0808 500 2222 at any time to speak with a trained specialist who can help you navigate your feelings and options.
-5. **Locate your nearest Sexual Assault Referral Centre (SARC) for medical or forensic support.** You can access these NHS services without involving the police for emergency contraception, STI testing, or evidence collection.
-   - If you want a forensic medical examination, try not to wash, eat, drink, smoke, or change clothes until you have spoken to a professional.
-   - Forensic evidence is most effectively collected within 72 hours of an incident, though support is available at any time.
-6. **Set up a "check-in" with a trusted friend if you are in a situation where you feel unsure.** Send them your location and arrange a time for them to call you; if you do not answer with a specific safe-word, they should call 999.
-7. **Secure your transport and communication devices immediately.** Ensure your phone is charged and kept within reach, and confirm you have a clear way to leave the premises (keys, taxi app, or public transport).
+1. **Choose the safest option today: don’t proceed with sex if you’re unsure they’ll stop.** You’re allowed to pause intimacy for any reason, at any time.
+2. **If you’re already with them and you want to stop, move toward a safer pause.** For example: step back, sit up, turn on the light, go to the bathroom, or say you need water—then decide your next step from a place with more control (door access, phone in hand).
+3. **Use clear, simple wording that doesn’t invite negotiation.** Examples: “Stop.” / “I’m not continuing.” / “I’m getting dressed now.” Then start doing the action (getting dressed, moving away) as you say it.
+4. **Have an exit plan before you’re alone together again.** Practical options: meet in a public place first, keep your phone on you, arrange your own transport, tell a trusted friend where you are, and set a check-in time. If you can’t safely arrange these, treat that as a warning sign and avoid being alone with them.
+5. **Set the boundary outside a sexual moment (only if you feel safe doing so).** A short message can reduce pressure later: “I need you to stop immediately if I say pause/stop. If you can’t respect that, we won’t have sex.” If their response is angry, dismissive, or manipulative, take that seriously and prioritise distance.
+6. **If anything sexual has happened without consent (or you’re not sure), you can get support without reporting.** In the UK, **Sexual Assault Referral Centres (SARCs)** can offer medical care and support, and you can access them even if you don’t want to involve the police.
+7. **If you feel in immediate danger, call 999.** If you’re safe but want to talk through options, you can contact specialist sexual violence support at any time (Rape Crisis England & Wales runs a 24/7 support line).
 
 ## What can wait
-- You do not need to decide whether to report an incident to the police today.
-- You do not need to determine if your partner's behavior meets a legal definition of assault before seeking help.
-- You do not need to explain your decision to stop or pause to your partner or anyone else.
-- You do not need to decide the future of the relationship while you are in a state of alarm.
+- You do not need to decide right now whether to label what happened, confront them, or report to the police.
+- You do not need to gather “proof” or write a perfect account before asking for help.
+- You do not need to make relationship decisions today—focus on immediate safety and support first.
 
 ## Important reassurance
-It is normal to feel frozen, confused, or scared when a boundary is not respected. These are biological survival responses designed to keep you safe. Your desire to stop or pause is valid regardless of the reason, and a respectful partner will always stop immediately when asked.
+Feeling unsure, freezing, or going along out of fear/pressure are common survival responses. Wanting to pause or stop is enough. Someone who respects you will treat “pause/stop” as final, not as the start of an argument.
 
 ## Scope note
-This guide provides first-step stabilization for immediate safety and access to support services. It does not replace legal advice or long-term therapeutic care.
+This is first-step guidance only—focused on immediate safety, reducing risk, and getting support. Longer-term decisions may benefit from specialist domestic/sexual violence services.
 
 ## Important note
-This information is for general guidance and is not a substitute for professional legal or medical advice. If you are in immediate danger, call 999. SARC and Rape Crisis services provide confidential support regardless of whether you choose to report to the police.
+This is general information, not legal or medical advice. If you’re in immediate danger, call emergency services. If you may want to report later, you can choose to seek specialist support first and discuss options at your pace.
 
 ## Additional Resources
-- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
 - https://rapecrisis.org.uk/get-informed/about-sexual-violence/sexual-consent/
-- https://www.brook.org.uk/your-life/sex-and-consent/
-- https://www.brook.org.uk/your-life/consent-and-sex-in-long-term-relationships/
-- https://www.cps.gov.uk/prosecution-guidance/rape-and-sexual-offences-chapter-6-consent
+- https://rapecrisis.org.uk/get-help/want-to-talk/
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://www.england.nhs.uk/commissioning/sexual-assault-and-abuse/
+- https://www.police.uk/ro/report/rsa/alpha-v1/advice/rape-sexual-assault-and-other-sexual-offences/consent/
+- https://www.met.police.uk/ro/report/rsa/alpha-v1/advice/rape-sexual-assault-and-other-sexual-offences/consent/

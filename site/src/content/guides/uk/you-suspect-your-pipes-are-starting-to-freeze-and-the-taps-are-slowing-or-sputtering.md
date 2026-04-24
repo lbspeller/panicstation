@@ -1,84 +1,80 @@
----
+﻿---
 title: "What to do if… you suspect your pipes are starting to freeze and the taps are slowing or sputtering"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "pipes starting to freeze"
-  - "taps slowing or sputtering"
-  - "no water from taps"
-  - "low water pressure sudden"
-  - "frozen pipe suspected"
-  - "pipe frozen in loft"
-  - "pipe frozen under sink"
-  - "pipe frozen in garage"
-  - "stopcock location unsure"
-  - "inside stop tap"
-  - "stop tap clockwise"
-  - "turn off water supply"
-  - "thaw frozen pipe safely"
-  - "cold tap trickle"
-  - "water only dripping"
-  - "winter plumbing emergency"
-  - "prevent burst pipe"
-  - "pipe about to burst"
-  - "heating on during cold snap"
-  - "tenant frozen pipes"
-  - "emergency plumber uk"
-  - "water mains valve"
-  - "thawing pipes with hairdryer"
-  - "frost on pipes"
-  - "burst pipe prevention"
-  - "frozen condensate pipe"
-  - "boiler condensate frozen"
-  - "no water in winter"
-  - "help i have no water"
-  - "what do i do if my pipes are frozen"
-  - "my tap is sputtering"
-  - "help my water is slowing down"
-  - "what do i do if my pipes freeze"
-  - "frozen pipe symptoms"
-  - "ice in pipes"
-last_reviewed: "2026-03-17"
+  - pipes starting to freeze
+  - taps slowing or sputtering
+  - no water from taps
+  - low water pressure sudden
+  - frozen pipe suspected
+  - pipe frozen in loft
+  - pipe frozen under sink
+  - pipe frozen in garage
+  - stopcock location unsure
+  - inside stop tap
+  - turn off water supply
+  - thaw frozen pipe safely
+  - cold tap trickle
+  - water only dripping
+  - winter plumbing emergency
+  - prevent burst pipe
+  - pipe about to burst
+  - heating on during cold snap
+  - tenant frozen pipes
+last_reviewed: "2026-03-04"
 ---
+
 # What to do if… you suspect your pipes are starting to freeze and the taps are slowing or sputtering (UK)
 
 ## Short answer
-Turn off your inside stop tap (stopcock) immediately to prevent flooding if a pipe has already split, then open the affected tap slightly and apply gentle heat using a hairdryer or hot water bottle.
+If you can, turn off your inside stop tap (stopcock) before you start thawing, then leave a cold tap slightly open and use only gentle heat (no flames).
 
 ## Do not do these things
-- Do not use a blowtorch, naked flame, or any high-heat source to warm the pipe.
-- Do not apply intense heat to a single point as rapid expansion can crack the pipe.
-- Do not keep forcing a tap handle if it is stiff or frozen.
-- Do not leave the property with the water supply turned on if you suspect a freeze.
-- Do not turn the water supply back on at full pressure once thawed.
+- Don’t use a blowtorch, naked flame, or anything that burns to warm a pipe.
+- Don’t apply intense heat to one small spot (rapid heating can crack pipes or fittings).
+- Don’t keep forcing taps on/off repeatedly to “blast it through”.
+- Don’t turn the water supply back on quickly; introduce water slowly while watching for leaks.
+- Don’t ignore damp patches, bulging pipe sections, or dripping that appears during thawing.
 
 ## What to do now
-1. **Locate your inside stop tap (stopcock) and turn it off immediately.** This is usually found under the kitchen sink, but may be in a hallway cupboard, under the stairs, or in a garage. Turn the valve clockwise to close it; if it is a lever-style valve, turn it 90 degrees until it is perpendicular to the pipe.
-2. **Open the affected cold tap slightly to allow water to escape as the ice melts.** This relieves the internal pressure that causes pipes to burst and provides a visual cue when the blockage begins to clear.
-3. **Turn off your central heating boiler and immersion heater if you are draining the system.** Running a boiler or water heater without a consistent water supply can cause overheating or mechanical failure.
-4. **Identify the frozen section by looking for frost, bulging, or sections that feel significantly colder.** Focus your search on unheated areas like lofts, garages, basements, or pipes running along external walls.
-5. **Apply gentle heat to the frozen area using a hairdryer or warm towels.** Use the hairdryer on a low or medium setting and keep it moving constantly; do not hold it too close to the pipe. Alternatively, wrap the pipe in towels soaked in warm (not boiling) water or use a hot water bottle.
-6. **Check for visible cracks or leaks before and during the thawing process.** If you see a split in the pipe or water begins to spray out as it thaws, keep the stop tap turned off and call an emergency plumber immediately.
-7. **Introduce water back into the system slowly once the flow returns to the tap.** Turn the inside stop tap anti-clockwise a small amount at a time while a second person monitors the previously frozen area for leaks.
-8. **Contact a WaterSafe approved plumber if the flow does not return or if you cannot find the freeze.** Professional assistance is required if the blockage is in an inaccessible location or if you identify any structural damage to the pipework.
+1. **Locate your inside stop tap (stopcock) and turn it off if you can.**  
+   It’s often under the kitchen sink, but can be in a cupboard, under stairs, downstairs toilet, garage, or cellar. Turn it clockwise until it stops.
+2. **Open the affected cold tap slightly and leave it that way.**  
+   A slight opening helps relieve pressure as ice melts and can help water move once thawing starts.
+3. **Do a fast leak-risk check before you warm anything.**  
+   Check under sinks, around toilets, in the loft/garage, and any visible pipe runs. If you see **active leaking**, keep the stop tap off.
+4. **Gently warm the suspected frozen section (no flames).**  
+   - Start near the tap end and work along the pipe.  
+   - Use **warm air from a hairdryer** (kept moving, not too close) or **hot water bottles/heat packs** held against the pipe.  
+   - Keep the cold tap slightly open while warming.
+5. **Warm the area around the pipe.**  
+   Open cupboard doors under sinks; safely let warm air reach pipework in cold spaces. Keep the home warm so the pipe doesn’t refreeze.
+6. **When water starts flowing, keep it slow and watch for leaks.**  
+   **Before turning the stop tap back on**, put towels/paper under exposed joints and along the pipe run you can see. Then **turn the stop tap on slowly** and watch every exposed section for several minutes.
+7. **If you’re a tenant or in managed housing: report it as an urgent repair.**  
+   Use your landlord/agent/housing repairs route and say: **“suspected frozen pipe, taps slowing/sputtering; I’ve left a tap slightly open and turned the stop tap off/on cautiously; please treat as urgent to prevent a burst.”**
+8. **If you can’t find/access the frozen section, flow doesn’t return, or you’re not confident:**  
+   Contact an emergency plumber. If you have home emergency cover, use its emergency line. (Watersafe can help you find an approved plumber.)
 
 ## What can wait
-- You do not need to contact your insurance provider until the immediate risk of flooding is managed.
-- You do not need to replace lagging or insulation until the pipes are fully thawed and checked for leaks.
-- You do not need to identify the exact cause of the freeze (e.g., specific draughts) until the water supply is stabilised.
+- You do **not** need to decide about insurance claims right now.
+- You do **not** need to start major DIY (opening walls, draining down everything, or re-insulating today).
+- You can do photos/notes later once water is stable and there’s no active leak.
 
 ## Important reassurance
-Sputtering or slowing taps are a clear early warning. If you have identified the issue before the pipe has actually burst, taking these steps to relieve pressure and thaw the pipe gently can often prevent any permanent damage or flooding. It is common for pipes to freeze in extreme UK cold snaps, and most can be resolved safely without specialist tools.
+A slowing or sputtering tap is a common early warning sign in cold weather. Acting early with pressure relief and gentle warming often prevents the worst damage.
 
 ## Scope note
-This guide covers first-step stabilisation for suspected frozen pipes in domestic properties. It does not cover repairs for burst pipes, communal heating systems, or commercial plumbing.
+These are first steps to stabilise and reduce the chance of a burst. If there’s any leak, repeated freezing, or you can’t access the pipe run, you’ll likely need a plumber/repairs service.
 
 ## Important note
-This information is for general guidance and may not apply to all property types. If you see water near electrical sockets, consumer units, or appliances, do not touch them; turn off the electricity at the main fuse box if it is safe to do so. If you suspect a gas leak or smell gas, evacuate the premises and call the National Gas Emergency Service.
+This is general information and may not fit every property (for example communal systems, unusual layouts, or hard-to-reach pipework). If you smell gas, see electrical arcing, or there’s flooding near electrics, prioritise safety and get professional help.
 
 ## Additional Resources
-- https://www.thameswater.co.uk/help/water-and-waste-help/frozen-or-burst-pipes
 - https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/your-home/frozen-or-burst-pipes
-- https://www.watersafe.org.uk/advice/general_plumbing_advice/winter_advice/what_should_i_do_if_a_pipe_freezes/
-- https://www.watersafe.org.uk/news/latest_news/let-it-flow-home/
-- https://www.watersafe.org.uk/advice/general_plumbing_advice/winter_advice/how_do_i_protect_against_frozen_pipes/
+- https://www.thameswater.co.uk/help/water-and-waste-help/frozen-or-burst-pipes
+- https://www.unitedutilities.com/help-and-support/winter/frozen-pipes/
+- https://www.renfrewshire.gov.uk/housing/council-housing/repairs-and-maintenance/frozen-pipes
+- https://www.nwl.co.uk/winter
+- https://www.watersafe.org.uk/

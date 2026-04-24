@@ -1,91 +1,75 @@
----
+﻿---
 title: "What to do if… you are told you need an electronic travel authorisation and you do not have it in time"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "travel authorization missing"
-  - "esta not in time"
-  - "eta not in time"
-  - "electronic travel authorization usa"
-  - "visa waiver authorization"
-  - "told at airport check-in"
-  - "airline won't let me board"
-  - "travel permission required"
-  - "authorization pending 72 hours"
-  - "last minute esta"
-  - "wrong passport in application"
-  - "new passport after applying"
-  - "transit authorization confusion"
-  - "official esta website"
-  - "urgent flight rebook"
-  - "denied boarding paperwork"
-  - "check-in closing time"
-  - "scam travel authorization site"
-  - "vwp rules confusion"
-  - "electronic passport required"
-  - "help i dont have an esta"
-  - "help i forgot my travel authorization"
-  - "help i need a visa waiver"
-  - "help i am at the airport without esta"
-  - "what do i do if i forgot esta"
-  - "what do i do if esta is pending"
-  - "what do i do if airline denied boarding"
-  - "what do i do if visa waiver denied"
-  - "esta fee 2026"
-  - "esta mobile app"
-  - "passport chip error"
-  - "boarding pass not issuing"
-  - "denied boarding usa"
-  - "vwp eligibility 2026"
-  - "esta biometric selfie"
-last_reviewed: "2026-03-17"
+  - travel authorization missing
+  - esta not in time
+  - eta not in time
+  - eTA not in time
+  - visa waiver authorization
+  - told at airport check-in
+  - airline won't let me board
+  - travel permission required
+  - authorization pending 72 hours
+  - last minute esta
+  - wrong passport in application
+  - new passport after applying
+  - transit authorization confusion
+  - official esta website
+  - urgent flight rebook
+  - denied boarding paperwork
+  - check-in closing time
+  - scam travel authorization site
+  - vwp rules confusion
+  - electronic passport required
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you are told you need an electronic travel authorisation and you do not have it in time (USA)
 
 ## Short answer
-Apply immediately via the official ESTA Mobile app or the official CBP website, then determine if you must rebook based on the airline's check-in deadline. Approval can take up to 72 hours, and airlines cannot override a missing or "pending" status.
+Confirm the requirement on the official government site (for example, ESTA for Visa Waiver Program travel), then choose one path fast: apply correctly right now or rebook. For Visa Waiver travel to the U.S., you generally need ESTA approval before boarding.
 
 ## Do not do these things
-- Do not use third-party "expeditor" websites that charge more than the official $40.27 fee.
-- Do not expect the airline gate agent to bypass the electronic system or "vouch" for you.
-- Do not submit a second application with different biographic data to try and "fix" a delay.
-- Do not attempt to board a flight to a land-border transit point (e.g., Canada/Mexico) to "walk across" without an ESTA, as it is now required for land entry too.
-- Do not pay for a new flight ticket until the current ticket's change/cancellation policy is verified.
+- Do not use a “visa/ESTA helper” site that charges extra or collects unnecessary personal data.
+- Do not assume an airline can “override” a missing authorization at the gate.
+- Do not submit multiple new applications with different answers in a panic (it can create delays and confusion).
+- Do not ignore passport mismatches (wrong passport number, expired passport, different nationality) — they are a common cause of failure.
+- Do not buy a new non-refundable ticket until you’ve asked about changing the current one.
 
 ## What to do now
-1. **Identify the specific document error.** Ask the check-in agent to confirm if the issue is a missing Electronic System for Travel Authorization (ESTA) or a passport that does not meet Visa Waiver Program (VWP) requirements (such as lacking an electronic chip).
-2. **Download the official ESTA Mobile app immediately.** Using the app on a smartphone is the current 2026 recommended method for urgent applications, as it allows for immediate passport scanning and the required biometric "selfie" capture.
-3. **Submit a clean application.** Ensure every detail—especially the passport number, expiration date, and country of citizenship—exactly matches the document in your hand.
-   - Pay the required fee ($40.27) only through the official app or esta.cbp.dhs.gov.
-   - Record the application number and take a screenshot of the "Payment Received" or "Authorization Pending" screen.
-4. **Establish your "drop-dead" time for the current flight.** Check the airline’s "check-in close" time (usually 60–90 minutes before departure for international flights).
-   - If the status is still "Pending" at this time, you will not be allowed to board.
-   - Inform the airline staff: "My ESTA is pending; what are my options for moving to the next available flight if it does not clear in the next 30 minutes?"
-5. **Verify VWP eligibility if the application is "Travel Not Authorized."** If the system denies you, do not reapply.
-   - You must transition to applying for a B1/B2 visitor visa.
-   - This process requires an embassy interview and cannot be completed at the airport.
-6. **Isolate the cause of the delay.** Check for common 2026 triggers:
-   - Recent travel to restricted countries (e.g., Cuba, Iran, Iraq).
-   - Dual nationality with a restricted country.
-   - A previously denied U.S. visa or ESTA.
+1. **Get clarity on what you’re missing.** Ask the airline/agent: “Which authorization is required for this itinerary and this passport?” Screenshot the message if it appears in the check-in app/website.
+2. **Verify the rule on official government information for the destination (and any transit points).** For U.S. Visa Waiver Program travel, confirm:
+   - you’re eligible for the VWP,
+   - your passport meets requirements (often an electronic “e-Passport”),
+   - your trip purpose and length fit the VWP.
+3. **If it’s U.S. ESTA and you’re eligible, apply on the official ESTA site immediately.** Save your application number. USA.gov says it may take **up to 72 hours** to find out if you’re authorised under the VWP—so if you’re inside that window, plan as if you may need to rebook.
+4. **Make the “rebook vs wait” decision using one deadline:** the airline’s check-in close time. Tell the airline: “I have applied for ESTA and will update you—what is the cheapest way to move this booking if approval doesn’t arrive before check-in closes?”
+5. **If you’re not eligible for ESTA/VWP (or you need to stay longer/work): switch to the visa plan and rebook.** Use official visitor visa information to understand the correct category and what you’d need to do next (application, interview, timing).
+6. **If you must rebook, reduce the chance of repeating the problem.** Before paying:
+   - re-check authorization requirements for every country on the itinerary (including transit),
+   - confirm the authorization will be tied to the same passport you will present.
+7. **Start the “coverage” track (quick checks).**
+   - Review your travel insurance and credit-card travel benefits for exclusions related to “failure to obtain required travel documents/authorizations.”
+   - Save proof: screenshots of the requirement message, application receipt, and any status page.
 
 ## What can wait
-- You do not need to determine why your previous ESTA (if you had one) was canceled or expired right now.
-- You do not need to contact the U.S. Embassy immediately; they cannot expedite ESTA applications over the phone or at the gate.
-- You do not need to file a travel insurance claim until you have received a definitive "denied" status or have incurred rebooking costs.
+- You do not need to argue at the gate—focus first on getting a workable later departure.
+- You do not need to figure out the root cause immediately; prioritize correct passport details and official application/status steps.
+- You do not need to file complaints now; you can do that after you’ve stabilised travel and lodging.
 
 ## Important reassurance
-A missing travel authorization is a common procedural hurdle. While the "72-hour" warning is the official standard, many applications are processed within minutes or hours. Focusing on a single, accurate application through the official app is the most effective way to resolve the situation.
+Getting caught out by an electronic authorization is very common, especially when rules change or you renew a passport. The fastest path is usually one clean official application and a clear rebooking decision if the timing won’t work.
 
 ## Scope note
-This guide covers the immediate steps for travelers missing an ESTA at the point of departure. It does not provide legal advice regarding visa eligibility, immigration law, or long-term travel planning.
+These are immediate first steps to prevent scams, avoid duplicate applications, and buy time with airlines. For complex eligibility issues or urgent travel, you may need professional immigration/legal advice.
 
 ## Important note
-Airlines are legally required to verify travel authorization before boarding. An ESTA is not a visa and does not guarantee entry into the United States; it only allows you to board a carrier for travel to a U.S. port of entry. Entry requirements are subject to change by U.S. Customs and Border Protection (CBP).
+This guide is general information, not legal advice. Entry requirements, eligibility, and processing times vary by nationality and can change. Airlines can deny boarding when required documentation/authorization is missing. Always use official government channels for applications and status checks.
 
 ## Additional Resources
-- https://travel.state.gov/en/international-travel/travel-advisories/united-kingdom.html
-- https://travel.state.gov/en/international-travel/planning/guidance/europe.html
-- https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/IsraeltheWestBankandGaza.html
-- https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/NewZealand.html
-- https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Australia.html
+- https://www.usa.gov/visa-waiver-esta
+- https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html
+- https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html
+- https://esta.cbp.dhs.gov/

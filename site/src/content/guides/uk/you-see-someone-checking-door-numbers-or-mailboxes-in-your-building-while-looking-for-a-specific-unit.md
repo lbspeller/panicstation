@@ -1,88 +1,73 @@
----
+﻿---
 title: "What to do if… you see someone checking door numbers or mailboxes in your building while looking for a specific unit"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "checking door numbers"
-  - "looking for unit"
-  - "mailbox checking"
-  - "flat door numbers"
-  - "reading names on mailboxes"
-  - "stranger in communal area"
-  - "unknown person in hallway"
-  - "person checking numbers"
-  - "what do i do if someone is checking door numbers"
-  - "what do i do if a stranger is in my hallway"
-  - "what do i do if someone is looking for a unit"
-  - "what do i do if i see someone reading mailboxes"
-  - "help i see a stranger by the mailboxes"
-  - "help i see someone trying door handles"
-  - "help i see someone looking at unit numbers"
-  - "my building has a stranger checking doors"
-  - "someone looking at my neighbor's door"
-  - "person hovering near letterboxes"
-  - "stranger following me into building"
-  - "checking door handles"
-  - "looking at intercom"
-  - "trying communal door"
-  - "lingering in corridor"
-  - "person looking lost in block"
-  - "unsure about visitor"
-  - "delivery person checking numbers"
-  - "suspicious hallway behavior"
-  - "stranger in corridor"
-  - "hallway safety"
-  - "secure entrance"
-last_reviewed: "2026-03-17"
+  - stranger checking door numbers
+  - person looking for a flat number
+  - someone reading mailboxes
+  - suspicious person in hallway
+  - unknown person in communal area
+  - someone casing flats
+  - someone loitering by doors
+  - person trying doors in block
+  - someone looking for specific unit
+  - door buzzer tailgating concern
+  - unwanted visitor in building
+  - lobby intruder concern
+  - corridor safety in flats
+  - mail theft worry in building
+  - unsure if delivery or scam
+  - someone asking which flat you are
+  - communal entrance security
+last_reviewed: "2026-01-17"
 ---
+
 # What to do if… you see someone checking door numbers or mailboxes in your building while looking for a specific unit (UK)
 
 ## Short answer
-Create distance immediately by entering your flat or a secure public area; do not engage or confront the person. Report the activity to building management or the concierge, and call 999 if you witness attempted entry, door-handle testing, or feel directly threatened.
+Don’t engage in the corridor. Get behind a locked door (or into a staffed/public area) and alert building management/concierge; if you believe a crime is in progress or anyone is at risk, call 999.
 
 ## Do not do these things
-- Avoid confronting the individual or asking what they are doing in a private corridor.
-- Avoid holding the communal door open or allowing "tailgating" for anyone you do not recognize.
-- Avoid opening your own door to "help" if you feel any uncertainty.
-- Avoid sharing your flat number or the occupancy status of your neighbors.
-- Avoid following the person through the building to monitor their movements.
-- Avoid attempting to take photos or videos if it requires getting closer to the individual.
+- Don’t confront them in the corridor or follow them to “see what they do”.
+- Don’t open your door to talk, and don’t let them “just come in” behind you.
+- Don’t buzz them in, hold the communal door, or prop doors open for them.
+- Don’t tell them your flat number, who lives where, or who is/isn’t home.
+- Don’t try to “verify” who they are by approaching them if you feel unsure.
 
 ## What to do now
-1. **Move to a secure location immediately.** If you are in a corridor or communal area, enter your flat and lock the door, or move to a staffed area such as a lobby or concierge desk.
-2. **Ensure your own door is fully secured.** If you have entered your flat, engage all locks (including deadbolts or multi-point locks on UPVC doors) and ensure the door is properly latched.
-3. **Verify the communal entrance is closed.** If you have just entered the building, wait for the door to close fully and check that it has latched behind you to prevent further unauthorized access.
-4. **Notify building staff or the managing agent.** Provide the concierge or landlord with specific, observable facts:
-   - The current floor or area where the person was seen (e.g., "second floor near the lift" or "by the lobby mailboxes").
-   - The specific behavior observed (e.g., "checking names on letterboxes" or "looking at door numbers on multiple floors").
-   - A basic physical description, including clothing color and any bags or tools being carried.
-5. **Report immediate criminal activity via 999.** Call emergency services if you see the person:
-   - Testing door handles or attempting to force a door.
-   - Tampering with or forcing open mailboxes.
-   - Following a resident closely to bypass security.
-   - Using tools to manipulate locks or intercoms.
-6. **Use the online reporting tool for non-emergencies.** If the behavior is suspicious but there is no immediate threat or crime in progress, report the incident via your local police force’s website or call 101.
-7. **Communicate through the door only.** If the person knocks on your door, do not open it. State clearly: **"I cannot help you. Please contact building management or the person you are looking for via the intercom."**
-8. **Request a security reminder for the building.** Ask the managing agent to send a notice to all residents regarding communal door safety and the importance of not "buzzing in" unknown visitors.
+1. **Create distance first.** Step back inside your flat and lock the door, or move to a staffed/public area (lobby/concierge) without drawing attention.
+2. **Secure the communal entry behind you.** If you’ve just come in, ensure the communal door closes and latches. Don’t allow tailgating.
+3. **Let staff verify instead of you.** Contact the concierge/managing agent/landlord and ask them to check whether anyone is expected (visitor list, contractor bookings, deliveries) and to attend the location.
+4. **Report what you can see (facts only).** Tell management/concierge:
+   - where they are (floor, corridor, by mailboxes),
+   - what they’re doing (checking door numbers/mailboxes, trying to find a specific flat),
+   - a brief description (clothing, approximate age, any bags/tools),
+   - whether they’re trying handles, pressing other residents to open doors, or refusing to leave.
+5. **Call police if there’s immediate risk.**
+   - **Call 999** if you think a crime is happening or about to happen (e.g., trying door handles, forcing mailboxes/doors, threats, stalking, weapons, someone in immediate danger).
+   - **Call 101** (or report online via your local force) if it’s suspicious but not an emergency.
+6. **If they knock, keep the barrier.** Don’t open the door. If you respond, speak through the door and say: **“I can’t help. Please contact the resident you’re looking for or the concierge/building management.”** Then stop engaging.
+7. **Capture details safely (optional).** From behind a closed door or a safe public area, write down the time and what happened. Only take a photo/video if you can do it without approaching or escalating.
+8. **Ask management to reduce risk for everyone.** Request a same-day reminder to residents: don’t buzz in strangers; don’t hold doors; report tailgating; report mailbox tampering.
 
 ## What can wait
-- You do not need to determine if the person is a genuine delivery driver or a solicitor right now.
-- You do not need to check if your neighbors are home or alert them door-to-door.
-- You do not need to review your own doorbell camera footage until you are in a settled state.
-- You do not need to decide on long-term security upgrades for your unit today.
+- You don’t need to decide whether they were “definitely casing” or “probably lost” right now.
+- You don’t need to investigate, patrol corridors, or coordinate residents to confront them.
+- You don’t need to buy security equipment or change locks unless there’s evidence of attempted entry or an access breach.
 
 ## Important reassurance
-It is normal to feel a sense of hesitation or "alertness" when seeing someone unfamiliar in a private space. Prioritizing your own safety by locking your door is a standard and appropriate response. You are not "overreacting" by choosing to let professional staff or the police handle the verification of a stranger.
+Freezing, doubting yourself, or worrying about “overreacting” is common. You’re allowed to prioritise a locked door and getting building staff or police involved without proving intent.
 
 ## Scope note
-This guide is for first-step stabilization and immediate risk reduction. It does not cover long-term building security audits or legal proceedings regarding trespassing.
+These are first steps to stabilise the situation and reduce risk in the moment. If there’s a pattern in your building, follow-up actions with management and police can come later.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional safety advice. If you believe a crime is occurring or you are in immediate danger, always contact the police via 999.
+This guide is general information, not legal advice. If you feel unsafe or believe a crime is in progress, prioritise getting to a safer place and contacting emergency services.
 
 ## Additional Resources
-- https://www.gov.uk/report-crime
 - https://www.gov.uk/contact-police
-- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/
-- https://crimestoppers-uk.org/give-information
-- https://www.gov.uk/how-report-antisocial-behaviour
+- https://www.police.uk/pu/contact-us/
+- https://www.met.police.uk/cp/crime-prevention/protect-home-crime/how-safe-is-your-flat/
+- https://www.police.uk/cp/crime-prevention/protect-home-crime/how-safe-is-your-flat/
+- https://www.ageuk.org.uk/information-advice/money-legal/scams-fraud/doorstep-scams/

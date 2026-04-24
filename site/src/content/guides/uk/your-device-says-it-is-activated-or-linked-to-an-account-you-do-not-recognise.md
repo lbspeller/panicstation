@@ -1,105 +1,92 @@
----
+﻿---
 title: "What to do if… your device says it is “activated” or “linked” to an account you do not recognise"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "device asks for recovery key"
-  - "disk encryption recovery prompt"
-  - "bitlocker recovery key screen"
-  - "filevault recovery key prompt"
-  - "recovery key after restart"
-  - "windows recovery key after update"
-  - "mac recovery key after reboot"
-  - "encryption key id shown"
-  - "locked out of computer startup"
-  - "boot asks for bitlocker key"
-  - "laptop asking for encryption key"
-  - "sudden drive encryption screen"
-  - "tpm change recovery mode"
-  - "bios update triggered bitlocker"
-  - "recovery key not found"
-  - "unsure if this is a scam screen"
-  - "work laptop recovery key request"
-  - "school device recovery key request"
-  - "device encryption key required"
-  - "what do i do if my laptop asks for a recovery key"
-  - "what do i do if windows shows bitlocker screen"
-  - "what do i do if mac asks for filevault key"
-  - "what do i do if i lost my encryption key"
-  - "help i am locked out by bitlocker"
-  - "help i cannot find my recovery key"
-  - "my screen says bitlocker recovery"
-  - "my mac says enter recovery key"
-  - "blue screen asking for 48-digit key"
-  - "grey screen asking for 24-character key"
-  - "recovery key id identifier"
-  - "windows 11 recovery key prompt"
-  - "macos tahoe recovery key"
-  - "lost disk encryption password"
-  - "restarted and now locked out"
-last_reviewed: "2026-03-17"
+  - device linked to unknown account
+  - activated to account i don’t recognise
+  - activation lock i don’t own
+  - iphone activation locked
+  - ipad linked to someone else
+  - android frp locked
+  - google account on phone not mine
+  - microsoft account linked device
+  - windows says linked to another account
+  - bought used phone locked
+  - refurbished device activation issue
+  - second hand device account locked
+  - setup asks for previous owner login
+  - device says managed by organisation
+  - work or school device management
+  - locked out after reset
+  - suspicious activation message
+  - device ownership dispute
+  - unknown apple account on device
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your device says it is “activated” or “linked” to an account you do not recognise (UK)
 
+# What to do if… your device says it is “activated” or “linked” to an account you do not recognise (UK)
 ## Short answer
-Verify that the prompt is a genuine system-level boot screen rather than a web-based scam, then retrieve the stored numerical key from your linked Microsoft/Apple account or organisational IT department.
+Don’t enter passwords or one-time codes into that screen (or any link you were sent). Treat it as either a genuine ownership/management lock (common with used or work devices) or a takeover attempt, and secure accounts from a trusted device first.
 
 ## Do not do these things
-- Don't enter the key into any website, QR code destination, or chat window that appears within a standard browser.
-- Don't attempt to factory reset or "erase disk" until all key retrieval options have been exhausted.
-- Don't repeatedly restart the device in an attempt to bypass the screen.
-- Don't provide the recovery key or your account credentials to anyone claiming to be "support" who contacted you first.
+- Don’t pay “unlock/FRP bypass” services or follow random videos/tools — scams and malware are common, and it can make recovery harder.
+- Don’t keep guessing passwords or doing repeated resets; you can trigger lockouts and lose data you might still recover.
+- Don’t click sign-in links from texts/emails claiming the device was “found,” “secured,” or “verified”; open the official account site/app yourself.
+- Don’t share proof of purchase, ID photos, or one-time codes with anyone you haven’t independently verified (especially if they contacted you first).
 
 ## What to do now
-1. **Confirm the legitimacy of the recovery request by observing the screen's appearance.**
-   - A genuine Windows BitLocker screen is typically a solid blue background with white text, appearing immediately after the manufacturer logo and before the Windows loading icon.
-   - A genuine macOS FileVault prompt appears as a grey login screen or a specific recovery assistant window before the desktop loads.
-   - If the request appears inside a window while you are already using the internet, it is likely a scam; close the window immediately.
+1. **Stop and capture evidence for support/refunds.**  
+   Take clear photos/screenshots of the exact message (including any email/phone number shown). Note the date/time and where you bought the device (and save the listing/receipt/messages).
 
-2. **Document the specific identifiers shown on the locked screen.**
-   - Write down the "Recovery Key ID" (Windows) or the "Serial Number" and "Key Identifier" (Mac).
-   - Take a photograph of the entire screen to ensure you have the exact terminology and codes for IT support or personal retrieval.
+2. **Check whether this is ownership lock vs organisation management.**  
+   Look for wording like **“managed by your organisation”**, **work/school**, **MDM**, **Company Portal/Intune**, **Jamf**, or “this device belongs to…”.  
+   - If it looks managed and you don’t recognise the organisation: don’t proceed — contact the seller/platform or (if it’s yours through work/school) your IT/admin team.
 
-3. **Check your personal cloud accounts for automatically backed-up keys.**
-   - For Windows (Personal): Use a separate device to visit **https://aka.ms/myrecoverykey** and sign in with the Microsoft account used to set up the PC.
-   - For Windows (Work/School): Visit **https://aka.ms/aadrecoverykey** and sign in with your organisational credentials.
-   - For Mac (FileVault): If you are using macOS Tahoe (2026) or later, check the **Passwords** app on another trusted Apple device signed into the same Apple Account; search for "Recovery Key."
+3. **If you bought it second-hand/refurbished: pause setup and contact the seller immediately.**  
+   Ask them to remove the device from their account (they can often do this remotely). If they won’t or can’t, **request a return/refund**. Don’t accept “it’ll unlock later” or “just reset it again”.
 
-4. **Search for physical or digital copies of the key created during initial setup.**
-   - Look for a printed document labeled "BitLocker Recovery Key" or "FileVault Recovery Key."
-   - Check your primary password manager for entries tagged with "encryption," "recovery," or "disk."
-   - Search your email history on a different device for setup confirmation messages from Microsoft or Apple.
+4. **If there’s any chance your own account is involved: secure it from another trusted device.**  
+   Using a device you trust, go directly (typed/bookmarked) to the provider’s official account area (Apple/Google/Microsoft).  
+   - Change the password.  
+   - Turn on/confirm two-step verification.  
+   - Review signed-in devices/sessions and sign out of anything you don’t recognise.
 
-5. **Contact your organisation's IT helpdesk if the device is managed by an employer or school.**
-   - Provide the **Key ID** you documented in Step 2.
-   - Managed environments often escrow (store) these keys centrally and can provide the 48-digit (Windows) or 24-character (Mac) code after verifying your identity.
+5. **If it’s an iPhone/iPad showing Activation Lock (during setup or after erase):**  
+   - If you are the rightful owner, use Apple’s official Activation Lock support route (you may be asked for proof of purchase).  
+   - If you are not the owner (e.g., used device), only the previous owner can remove it — return it if they can’t/won’t.
 
-6. **Disconnect the device from the network if you suspect the lock was triggered maliciously.**
-   - Turn off the Wi-Fi router or unplug the Ethernet cable if the prompt appeared following a suspicious download or remote access session.
-   - This prevents potential further communication between the device and a remote attacker while you investigate.
+6. **If it’s Android and it asks for a Google account you don’t recognise after a reset (FRP/Device Protection):**  
+   The practical routes are usually: the previous owner signs in and removes their account, or the seller/manufacturer resolves it with **proof of purchase that clearly matches the device** (serial/IMEI if possible). If you bought it used and the seller can’t fix it quickly, push for a refund.
 
-7. **Report suspected cybercrime to the relevant UK authorities.**
-   - England, Wales, and Northern Ireland: Report via the **Report Fraud** service at **https://reportfraud.police.uk** or call **0300 123 2040**.
-   - Scotland: Report to **Police Scotland** by calling **101** or using the official cybercrime reporting form on the Police Scotland website.
-   - Immediate Danger: Call **999** if you are currently being threatened or there is an immediate risk to life.
+7. **If this started with a suspicious message/link or “someone found your phone” claim: report it and disengage.**  
+   - Forward suspicious **texts** to **7726** (free).  
+   - Forward suspicious **emails** to **report@phishing.gov.uk**.  
+   If you entered details or lost money, report via **Report Fraud** (England/Wales/Northern Ireland) or **Police Scotland on 101** (Scotland).
+
+8. **If you suspect the device is stolen or not legitimately sold to you:**  
+   Stop using it, keep all receipts/messages, and contact the seller/platform/payment provider for a refund/dispute. If you feel at risk, use **101** (non-urgent) or **999** (emergency).
 
 ## What can wait
-- You do not need to decide whether to wipe and reinstall the operating system immediately; this should be a last resort.
-- You do not need to diagnose the technical cause (such as a BIOS update or TPM failure) before attempting to find the key.
-- You do not need to buy new hardware or seek professional data recovery services until account-based retrieval has failed.
+- You don’t need to decide today whether to wipe the device again — first confirm whether it’s an ownership/management lock and secure any accounts.
+- You don’t need to “fix” it with tools — seller/manufacturer support and official recovery routes come first.
+- You don’t need to argue live; gather evidence and keep communication in writing.
 
 ## Important reassurance
-Encryption recovery prompts are a standard security feature and frequently appear after legitimate firmware updates, hardware changes, or Windows updates. Seeing this screen does not necessarily mean your data is lost or that you have been hacked; it indicates the security system is functioning and requires verification to proceed.
+This message is a common shock, especially with second-hand devices and after resets. Often it’s simply theft protection or organisation management doing its job — slowing down before entering credentials is the safest move.
 
 ## Scope note
-This guide provides first-step stabilization for accessing a device locked by disk encryption. It does not cover forensic data recovery or the repair of hardware failures.
+These are first steps to prevent irreversible mistakes and reduce risk. Ownership disputes, refunds, and account recovery can take longer and may require the seller/platform, manufacturer support, or your payment provider.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT, legal, or security advice. If the device contains sensitive corporate data or evidence of a crime, follow your organization's formal incident response policy or consult a certified security professional. Microsoft and Apple support staff cannot bypass encryption or generate new keys for you if the original is lost.
+This guide is general information, not legal advice. If you think a crime is in progress or you’re in immediate danger, call 999.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
 - https://support.apple.com/en-gb/108794
 - https://support.apple.com/en-gb/108934
-- https://support.google.com/android/answer/9459346?hl=en-GB
-- https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/if-you-think-youve-bought-stolen-goods/
+- https://support.microsoft.com/en-gb/windows/manage-devices-used-with-your-microsoft-account-d4044995-81db-b24b-757e-1102d148f441
+- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/7726-reporting-scam-texts-and-calls
+- https://www.reportfraud.police.uk/
+- https://www.samsung.com/uk/support/mobile-devices/how-do-i-perform-factory-reset-on-my-mobile-device/

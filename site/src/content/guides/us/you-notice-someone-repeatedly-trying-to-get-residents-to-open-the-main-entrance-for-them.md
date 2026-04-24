@@ -1,86 +1,71 @@
----
+﻿---
 title: "What to do if… you notice someone repeatedly trying to get residents to open the main entrance for them"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - "someone trying to get in building"
-  - "stranger at apartment entrance"
-  - "repeated buzzing main door"
-  - "person asking to be let in"
-  - "lobby access security concern"
-  - "help i notice a stranger at the door"
-  - "help i have a suspicious person at the lobby"
-  - "my building entrance is not secure"
-  - "my apartment buzzer keeps ringing"
-  - "what do i do if someone is buzzing every unit"
-  - "what do i do if a stranger follows me in"
-  - "what do i do if someone claims to be delivery"
-  - "what do i do if a person is loitering at the entrance"
-  - "smell of tobacco near door"
-  - "sound of intercom ringing"
-  - "visible person at glass door"
-  - "unrecognized face at intercom"
-  - "buzzer bombing"
-  - "intercom scam"
-  - "access control breach"
-  - "piggybacking attempt"
-  - "tailgating attempt"
-  - "unauthorized entry attempt"
-  - "residential building security"
-  - "main entrance safety"
-  - "secure building access"
-  - "stranger at the lobby"
-  - "unknown person at the main door"
-  - "repeatedly trying to get residents to open"
-  - "residents to open the main entrance"
-  - "notice someone repeatedly trying"
-  - "open the main entrance"
-last_reviewed: "2026-03-17"
+  - someone buzzing multiple apartments
+  - repeated buzzing main entrance
+  - stranger trying to get into building
+  - unknown person at lobby door
+  - tailgating into apartment building
+  - piggybacking through secure entrance
+  - being asked to buzz someone in
+  - intercom scam at apartment building
+  - pretending to be a resident
+  - pretending to be delivery driver
+  - claiming to be maintenance
+  - claiming to be utility worker
+  - apartment building access control
+  - shared entrance safety
+  - secure building door concern
+  - letting in someone you dont know
+  - suspicious person at main door
+  - someone pressuring residents to open
+  - stranger loitering near entrance
+  - building lobby safety concern
+last_reviewed: "2026-01-17"
 ---
+
 # What to do if… you notice someone repeatedly trying to get residents to open the main entrance for them (USA)
 
 ## Short answer
-Do not grant entry through the intercom or hold the door open; immediately move to a secure, locked location and notify building security or management.
+Don’t buzz them in. Get to a secure place, notify building staff/management, and call 911 if you feel threatened or it looks like a crime in progress.
 
 ## Do not do these things
-- Do not open the door or "buzz" the person into the building for any reason.
-- Do not confront the individual or attempt to physically block their entry.
-- Do not exit the building to investigate the situation or speak to the person.
-- Do not share security codes, key fob access, or unit numbers with the individual.
-- Do not assume the person is legitimate because they are wearing a uniform or carrying a parcel.
+- Don’t “just let them in” because they sound convincing (delivery, “I live here,” “locked out,” “maintenance”).
+- Don’t go down to confront them or try to physically stop them at the door.
+- Don’t follow them or try to detain them.
+- Don’t hold a secured door open for someone you don’t recognize.
+- Don’t share door codes, key/fob access, or which units are occupied.
 
 ## What to do now
-1. **Move to a secure, private location immediately.** If you are in a common area such as the lobby, mailroom, or hallway, return to your apartment or a locked office and secure the door before taking further action.
-2. **Deny the entry request if contacted via intercom.** Do not engage in a conversation or offer explanations; state clearly that you cannot grant entry and that they must contact building management or their specific host.
-3. **Notify building security or the front desk staff immediately.** 
-   - Use the internal building phone or the direct number for on-site security if available.
-   - Inform them of the specific entrance where the person is located and the behavior observed.
-4. **Call the property manager or leasing office if there is no on-site security.** 
-   - Report the "buzzer bombing" or repeated entry attempts so they can alert other residents or inspect the access control system.
-5. **Call 911 if the situation escalates or feels threatening.**
-   - Request emergency assistance if the person begins to force the door, follows a resident inside, or displays aggressive behavior.
-   - Contact the non-emergency police line (or 311 where available) if the behavior is suspicious but does not present an immediate physical threat.
-6. **Note observable details from a safe distance.** 
-   - Record the time of the incident and which entrance was targeted.
-   - Observe physical descriptions or any vehicles associated with the person without approaching them or making yourself visible.
+1. **Get yourself to a safer pause first.** If you’re in a hallway/lobby, return to your apartment (or another controlled-access area) and lock your door before making calls or messages.
+2. **Do not grant entry through the intercom/buzzer.** If you respond at all, keep it short: “I can’t let you in—please contact the resident you’re visiting / building management.”
+3. **Notify your building’s point of contact immediately.**
+   - If there is **security/concierge/front desk**, call them right away.
+   - If not, contact the **property manager/leasing office/HOA** and report that someone is repeatedly buzzing residents to get in.
+4. **Call for help if there’s any immediate risk.**
+   - **Call 911** if the person is trying to force entry, is threatening anyone, is inside the building and you feel unsafe, or a crime appears in progress.
+   - If it’s suspicious but not an emergency, use your local **police non-emergency number** (typically listed on your city/police department website).
+5. **Capture basic details safely (no confrontation).** Note the time, which entrance, what they claimed (“delivery,” “locked out,” etc.), and a description. If your building has cameras, ask management to **preserve and review the footage**.
+6. **If they claim to be staff or a utility worker, verify before anyone lets them in.** Ask building staff/management to verify using a number from **building records, a bill, or the company’s official website**—not any phone number the person at the door provides.
 
 ## What can wait
-- You do not need to decide whether to post a warning to neighbors or on community message boards right now.
-- You do not need to investigate if the person was actually a delivery driver or a contractor.
-- You do not need to review building security policies or suggest hardware upgrades in this moment.
+- You don’t need to decide right now whether to escalate with neighbors, install new systems, or run your own “investigation.”
+- You don’t need to prove intent—just report the behavior and keep access controlled.
+- Longer-term prevention (resident reminders, door hardware fixes, access audits) can be handled after the immediate moment passes.
 
 ## Important reassurance
-Refusing entry to someone you do not recognize is the correct safety protocol for a secured building. It is common to feel hesitant or pressured by social norms, but maintaining the integrity of the entrance protects all residents and prevents unauthorized access.
+It’s normal to feel awkward refusing entry. In a secured building, not buzzing in unknown people is a standard safety practice and helps protect everyone who lives there.
 
 ## Scope note
-This guide provides first-step stabilization for an active attempt at unauthorized building entry. It does not cover long-term security planning, lease negotiations regarding safety, or the prosecution of trespassers.
+This covers immediate first steps when you notice repeated attempts to get residents to open the main entrance. If it becomes a pattern, follow up with management about entry procedures and building security improvements.
 
 ## Important note
-This information is for safety stabilization and does not constitute legal advice. If you believe a crime is in progress or you are in immediate danger, contact emergency services at 911.
+This is general information, not legal advice. If you feel in danger or think a crime is happening now, call 911.
 
 ## Additional Resources
-- https://www.nyc.gov/html/records/pdf/govpub/1089nychasafety.pdf
-- https://www.ojp.gov/pdffiles1/Digitization/45102NCJRS.pdf
-- https://www.ojp.gov/pdffiles1/Digitization/45202NCJRS.pdf
-- https://sterling-il.gov/DocumentCenter/View/145/Personal-Security-PDF
-- https://www.rentonwa.gov/files/assets/city/v/1/police/administrative-services/documents/cpted-residential-brochure_052924.pdf
+- https://www.nyc.gov/assets/nypd/downloads/pdf/crime_prevention/NYPDcptips_SafeguardApt.pdf
+- https://jeffersoncountytx.gov/Sheriff/crimeprevention/apartment-security
+- https://ucpd.berkeley.edu/safety/enhancing-safety-campus-and-community
+- https://www.brooklaw.edu/media/vw1fhmtl/safety-tips-for-building-residents.pdf

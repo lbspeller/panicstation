@@ -1,93 +1,85 @@
----
+﻿---
 title: "What to do if… you see new app subscriptions or in-app purchases you did not start"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "account security questions changed"
-  - "security questions reset unauthorized"
-  - "security question recovery altered"
-  - "what do i do if my security questions were reset"
-  - "help i did not change my security questions"
-  - "my account security questions changed on their own"
-  - "account takeover recovery help"
-  - "unauthorized password reset attempt"
-  - "security settings changed without permission"
-  - "recovery email changed by hacker"
-  - "recovery phone number altered"
-  - "hacked account security questions"
-  - "suspicious security alert received"
-  - "help i am locked out of my email"
-  - "what do i do if my account was hacked"
-  - "security question bypass noticed"
-  - "unknown device logged into my account"
-  - "mfa turned off without me"
-  - "multi factor authentication disabled"
-  - "sim swap signs notice"
-  - "no cell service suddenly"
-  - "identity theft report for account"
-  - "fbi ic3 account takeover report"
-  - "identitytheft gov recovery plan"
-  - "securing account after breach"
-  - "resetting compromised security questions"
-  - "fake password reset email"
-  - "lookalike login page scam"
-  - "phishing for security answers"
-  - "account settings reset by stranger"
-last_reviewed: "2026-03-17"
+  - unauthorized app subscription
+  - unknown in-app purchases
+  - apple id charges i didn't make
+  - google play charges i didn't make
+  - app store subscription i didn't start
+  - random subscriptions on my phone
+  - in app purchase fraud
+  - credit card charged by apple
+  - credit card charged by google play
+  - carrier billing charges i didn't make
+  - family sharing purchase confusion
+  - hacked apple id
+  - hacked google account
+  - dispute app charges
+  - request app store refund
+  - cancel unknown subscriptions
+  - recurring charges i don't recognize
+  - identity theft recovery plan
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… you see new app subscriptions or in-app purchases you did not start (USA)
 
 ## Short answer
-Treat the account as compromised and immediately initiate the provider’s official recovery process while securing your primary email account using a trusted device and a private connection.
+Prevent more charges first: cancel the subscription(s) in the App Store/Google Play account, then report the charges as unauthorized to your card/bank promptly.
 
 ## Do not do these things
-- Do not click links in "security alert" emails or texts that you did not explicitly trigger.
-- Do not enter passwords, one-time codes, or security answers on any website reached via a link in a message.
-- Do not use a device that you suspect may be infected with malware to perform recovery steps.
-- Do not share "backup codes" or "verification pins" with anyone, including individuals claiming to be technical support.
-- Do not reuse the previous password or any password associated with other digital accounts.
-- Do not ignore the alert even if you still have access; changes to recovery settings often precede a full lockout.
+- Don’t “wait for the next statement” — recurring subscriptions can renew quickly.
+- Don’t uninstall/delete the app to “stop billing” — subscriptions usually keep running until you cancel them in your account.
+- Don’t click links in surprise texts/emails about “refunds” — go through Apple/Google directly.
+- Don’t delete receipts/emails or screenshots yet — you may need order details to cancel and request refunds.
+- Don’t assume the phone is the problem — it can be an account sign-in on another device, Family Sharing, or a stored payment method being misused.
+- Don’t reuse the same password after suspected compromise.
 
 ## What to do now
-1. **Switch to a trusted device and a private network.** Use a different computer or phone that has not been used recently if possible, and ensure you are on a private home network rather than public Wi-Fi.
-2. **Secure your primary email account first.**
-   - Log in directly through the provider's official website (e.g., mail.google.com, outlook.com).
-   - Change the password to a unique passphrase of at least 15 characters.
-   - Review "Rules," "Filters," or "Forwarding" settings to ensure mail is not being diverted to an attacker.
-   - Check the "Recent Activity" or "Devices" list and select the option to "Sign out of all other sessions."
-3. **Initiate the official account recovery flow for the affected service.**
-   - Navigate to the "Forgot Password" or "Account Recovery" page by typing the address directly into your browser.
-   - Select the option indicating you no longer have access to your security questions or recovery methods if prompted.
-   - Follow the identity verification steps provided by the service (e.g., using a government ID, a known device, or a backup code).
-4. **Update all recovery and security settings once access is regained.**
-   - Set new security questions with answers that are non-factual or fabricated (e.g., use a random word instead of your actual high school).
-   - Enable "Passkeys" or an "Authenticator App" (e.g., Google Authenticator, Authy) instead of SMS-based verification.
-   - Verify that the recovery email and phone number are correct and belong to you.
-5. **Check for mobile carrier (SIM) unauthorized changes.**
-   - Contact your mobile provider directly if you notice a sudden loss of cell service or "SOS only" status.
-   - Request that "Number Lock" or a "Port-out PIN" be added to your account to prevent unauthorized transfer of your phone number.
-6. **File official reports for identity theft and cybercrime.**
-   - **Visit IdentityTheft.gov** to create an official FTC Identity Theft Report and receive a customized recovery plan.
-   - **File a complaint with the FBI Internet Crime Complaint Center (IC3)** at ic3.gov to report the unauthorized account access.
+1. **Capture proof before you change anything:** screenshot the subscription list and purchase history; note app name, date/time, amount, and any order ID.
+2. **Cancel the subscription to stop renewals.**
+   - **iPhone/iPad:** Settings → your name → **Subscriptions** → cancel anything you didn’t start.
+   - **Android:** Google Play app → profile icon → **Payments & subscriptions** → **Subscriptions** → cancel anything you didn’t start.
+3. **Check your platform purchase history to identify what was billed and from which account.**
+   - For Apple charges, your statement may show something like “apple.com/bill”; use Apple’s purchase/charge lookup guidance to confirm what it is.
+4. **Request refunds through the platform promptly.**
+   - **Apple:** submit a refund request via **reportaproblem.apple.com** (“Request a refund”).
+   - **Google Play:** use the Google Play refund request process (and, if needed, contact the developer from the Play listing).
+5. **Secure the account used for the purchase (Apple Account / Google account).**
+   - Change your password to a new, unique one.
+   - Turn on **two-factor authentication**.
+   - Review signed-in devices and remove anything you don’t recognize.
+6. **Report the payment as unauthorized to the right place (pick what applies):**
+   - **Credit/debit card:** contact the issuer/bank and say it’s an **unauthorized charge**. Ask what they recommend (for example: dispute/chargeback steps, a replacement card, and blocking the merchant from recurring charges).
+   - **PayPal/other wallet:** report the unauthorized transaction inside the wallet and secure the account.
+   - **Carrier billing:** contact your mobile carrier, dispute the charge, and ask if they can **block/disable third-party/premium billing** to prevent repeats.
+7. **If you suspect identity theft or broader account takeover, use official reporting/recovery tools (optional but helpful):**
+   - **IdentityTheft.gov** can generate a recovery plan for identity theft.
+   - **ReportFraud.ftc.gov** is the FTC’s portal for reporting scams/fraud and bad business practices.
+8. **Keep a simple log:** when you canceled, when you requested refunds, who you spoke to at the bank/carrier, and any case numbers.
 
 ## What can wait
-- You do not need to determine exactly how the attacker gained access right now.
-- You do not need to delete the compromised account immediately; securing it is the priority.
-- You do not need to notify all of your contacts until you have confirmed the account is secure.
-- You can wait to perform a full factory reset of your devices until the immediate account recovery is complete.
+- You don’t need to determine the exact cause (phishing vs. family purchase vs. stored card misuse) right now.
+- You don’t need to factory reset your phone unless trusted support guidance later points to malware after you’ve secured accounts and payments.
+- You don’t need to make big decisions about closing all accounts today — focus on stopping the recurring charges and securing access.
 
 ## Important reassurance
-It is a common tactic for attackers to change security questions to prevent the legitimate owner from regaining control. Taking immediate action to secure your email and reporting the incident to federal authorities through official channels (FTC and IC3) are the most effective steps to stop the takeover.
+Unauthorized app charges are common and often fixable when you move quickly: stop renewals, lock down the account, and get the payment provider involved.
 
 ## Scope note
-This guide provides first-step stabilization for a digital account compromise. Subsequent steps may include full device virus scans, credit freezes, and long-term monitoring of financial statements.
+These are first steps to stop additional losses and reduce damage. If charges continue after cancellation and account security, you’ll likely need follow-up with Apple/Google support and your card issuer’s fraud department.
 
 ## Important note
-This guide is for informational purposes and does not constitute legal, financial, or forensic advice. Recovery procedures vary by provider; always prioritize the instructions provided on the official website of your specific service provider.
+This is general information, not legal or financial advice. Refund eligibility and dispute outcomes depend on the platform, payment method, and timing. If you feel overloaded, do it in this order: cancel → refund request → secure account → contact bank/carrier.
 
 ## Additional Resources
-- https://consumer.ftc.gov/consumer-alerts/2023/05/how-stop-subscriptions-you-never-ordered
-- https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-a-charge-on-my-credit-card-bill-en-61/
-- https://support.apple.com/en-us/118223
-- https://support.google.com/googleplay/answer/2851610?hl=en
-- https://www.usa.gov/online-purchase-complaints
+- https://support.apple.com/en-us/102396
+- https://support.apple.com/en-gb/120164
+- https://support.apple.com/en-gb/118223
+- https://support.google.com/googlepay/answer/7644008?hl=en
+- https://www.identitytheft.gov/
+- https://reportfraud.ftc.gov/
+- https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges
+- https://www.ftc.gov/about-ftc/contact

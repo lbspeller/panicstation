@@ -1,99 +1,82 @@
----
+﻿---
 title: "What to do if… your files suddenly change names or extensions and you do not know why"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "bios password prompt"
-  - "uefi password prompt"
-  - "firmware password unknown"
-  - "startup password appeared"
-  - "power-on password suddenly"
-  - "admin password at boot"
-  - "supervisor password unknown"
-  - "hdd password prompt"
-  - "ssd password prompt"
-  - "what do i do if my laptop asks for a bios password"
-  - "what do i do if i forgot my bios password"
-  - "what do i do if i am locked out of uefi"
-  - "what do i do if uefi password is wrong"
-  - "help i cannot enter bios"
-  - "help i am stuck at bios screen"
-  - "help i need a bios unlock code"
-  - "help i bought a locked laptop"
-  - "laptop padlock icon on screen"
-  - "black screen with white password box"
-  - "system disabled code 5 digits"
-  - "system disabled code 8 digits"
-  - "incorrect password attempt limit"
-  - "bios update caused password prompt"
-  - "refurbished laptop firmware lock"
-  - "employer laptop boot password"
-  - "school laptop bios lock"
-  - "byos password"
-  - "bios passward"
-  - "stuck at startup"
-  - "boot menu locked"
-last_reviewed: "2026-03-17"
+  - files renamed suddenly
+  - file extensions changed
+  - strange file extensions
+  - files look encrypted
+  - folders renamed
+  - random file names
+  - files have .locked extension
+  - file extension .encrypted
+  - ransom note on computer
+  - possible ransomware
+  - possible malware infection
+  - cloud sync went wrong
+  - shared drive files changed
+  - external drive affected
+  - photos documents unreadable
+  - can't open my files
+  - windows files changed names
+  - mac files changed extensions
+  - happened all at once
+  - i don't know what changed them
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your files suddenly change names or extensions and you do not know why (USA)
 
+# What to do if… your files suddenly change names or extensions and you do not know why (USA)
 ## Short answer
-Cease all password entry attempts to prevent a permanent hardware lockout and identify whether the device is personally owned or managed by an organization. Access your data via external backup if the OS still boots, or seek official manufacturer/IT support with proof of ownership.
+Assume it could be ransomware: **immediately isolate the affected device from networks and stop cloud syncing**, then document what you see before attempting fixes.
 
 ## Do not do these things
-- Don’t continue guessing passwords; many modern systems trigger a "System Disabled" state or permanent TPM lockout after 3–10 failed attempts.
-- Don’t use "master password" generators or "BIOS bypass" software found on third-party forums, as these often contain malware or can corrupt the firmware chip.
-- Don’t attempt to short-circuit motherboard jumpers or remove the CMOS battery on modern laptops; this rarely clears passwords on modern UEFI systems and may void warranties.
-- Don’t pay third-party "unlocking services" that claim to provide codes for a fee; these are frequently scams.
-- Don’t attempt to reset firmware settings while the drive is encrypted (e.g., BitLocker) unless you have already secured the recovery key.
+- Don’t keep the device online while you experiment (that can spread encryption to shared drives and cloud storage).
+- Don’t rename files back or run “miracle decryptor” tools you found randomly online.
+- Don’t attach extra USB drives “to back up” until the device is isolated (malware can reach newly attached drives).
+- Don’t wipe/reinstall immediately if you may need evidence for IT support, insurance, or reporting.
+- Don’t pay or negotiate in a rush.
+- Don’t pay “recovery fees” to unsolicited callers/messages claiming to be “IC3/FBI” or a “recovery agent” (this is a common follow-on scam).
 
 ## What to do now
-1. **Record the exact screen state and any generated codes.**  
-   **Photograph the password prompt and any "system disabled" or "hint" codes that appear after failed attempts.**
-   - Document the Serial Number, Service Tag, or IMEI from the bottom of the laptop case.
-   - Note if a padlock icon or specific brand logo (Dell, HP, Lenovo, Apple) is visible.
-2. **Determine if the lockout is a Firmware Password or an OS Activation Lock.**  
-   **Identify if the prompt appears immediately after the manufacturer logo (Firmware) or after the OS begins to load (Activation Lock).**
-   - Firmware passwords (BIOS/UEFI) prevent the computer from starting at all.
-   - Activation Locks (Apple ID/Google/Microsoft) occur during or after the OS boot process.
-3. **Locate your device encryption recovery keys immediately.**  
-   **Access a secondary device to retrieve recovery keys if your drive is encrypted, as firmware changes may trigger a request for them.**
-   - Personal Microsoft accounts: `aka.ms/myrecoverykey`
-   - Work or School accounts: `aka.ms/aadrecoverykey`
-   - Apple devices: Check your Apple ID "Find My" status on another device.
-4. **Initiate an authorized support request for managed devices.**  
-   **Contact the IT department or Help Desk if the laptop was issued by an employer or educational institution.**
-   - Remote management tools (MDM) can often reset these passwords if the device is still enrolled.
-   - Provide the IT department with the codes recorded in Step 1.
-5. **Contact the manufacturer’s official support for personal devices.**  
-   **Use the official support portal for your brand (e.g., Dell Support, HP Customer Care, Apple Support) and prepare proof of purchase.**
-   - Most manufacturers require an original invoice or receipt showing the serial number to process a "BIOS Password Reset" or "Master Password" request.
-   - Be prepared to provide the specific "Challenge Code" displayed on the screen.
-6. **Execute a formal dispute for used or refurbished purchases.**  
-   **Contact the seller or the marketplace platform (eBay, Amazon, Back Market) to report the item as "not as described" if it arrived locked.**
-   - If the seller does not provide a working password or a return label within 3 business days, escalate through the platform’s money-back guarantee.
-7. **Submit a written billing dispute to your card issuer if the seller is unresponsive.**  
-   **Send a formal written notice to your credit card company’s billing inquiries address if you cannot resolve the issue with the seller.**
-   - Federal law (FCBA) requires you to submit this in writing within 60 days of the statement showing the charge for "billing errors."
-   - Card network rules (Visa/Mastercard) may allow up to 120 days for "claims and defenses" related to goods that do not work as advertised.
+1. **Disconnect the device from all networks (containment).**  
+   - Turn off Wi-Fi and Bluetooth, unplug Ethernet, disconnect from any hotspot.  
+   - If you use shared drives or NAS, disconnect that shared storage from the network to prevent spread.
+2. **Stop syncing and sharing (prevent propagation).**  
+   - Pause cloud sync on the affected device (OneDrive/iCloud/Dropbox/Google Drive).  
+   - If you can do so safely from another trusted device, pause sync from the provider’s web settings as well.
+3. **Capture evidence of what happened (quickly, calmly).**  
+   - Take photos/screenshots of ransom notes, changed extensions, and error messages.  
+   - Note the approximate time you first noticed changes and what you were doing just before (opened attachment, installed software, etc.).
+4. **Check if it’s spreading (without reconnecting the suspect device).**  
+   - From another device you trust, check whether cloud folders or shared drives show the same renamed/encrypted files.  
+   - If other devices are affected, isolate them too.
+5. **Contact the right support channel and report safely.**  
+   - If this is a work/school device: contact IT/security right away and say “possible ransomware/encryption; files renamed/extensions changed.”  
+   - Report to the **FBI Internet Crime Complaint Center (IC3)** and consider contacting your local FBI field office.  
+   - **Important:** type **www.ic3.gov** directly into your browser (avoid sponsored search results and lookalike sites). IC3/FBI won’t charge fees to “recover” money or files.
+6. **Preserve a small sample for recovery options later (after isolation).**  
+   - Copy a small set of affected files plus any ransom note text to a separate USB drive (ideally empty/newly formatted), then unplug it and label it (date/time).  
+   - Don’t reconnect that USB drive to other computers unless a trusted professional/IT advises you to.
+7. **If encryption still appears to be actively ongoing.**  
+   - If file names/extensions keep changing even after network disconnection, power the device down (CISA notes this can be appropriate if you can’t fully disconnect) and hand off to IT or a reputable incident response professional.
 
 ## What can wait
-- You do not need to decide on a motherboard replacement or professional data recovery service immediately.
-- You do not need to attempt hardware disassembly or "chip flashing" today.
-- You do not need to worry about permanent data loss if you have a recent cloud or external drive backup.
+- You do **not** need to decide right now whether to pay, wipe, or rebuild everything.
+- You do **not** need to identify the malware family today.
+- You do **not** need to start restoring backups immediately; containment and documentation come first.
 
 ## Important reassurance
-A firmware password prompt is a standard security feature and does not inherently mean your hardware is broken or your data is deleted. While these locks are designed to be difficult to bypass for security reasons, legitimate owners with proof of purchase can typically resolve the issue through official manufacturer channels.
+This is a common “freeze” moment: your brain wants to click and undo things fast. Taking one minute to isolate and pause syncing often prevents a bad situation from becoming much bigger.
 
 ## Scope note
-This guide provides first-step stabilization for hardware lockouts. It does not provide instructions for bypassing security features or illegal access.
+These are first steps to reduce harm and buy time. Full recovery (backups, account security, forensic review, notifications) depends on your exact setup and often needs specialist help.
 
 ## Important note
-Firmware security on modern laptops is often tied to the Trusted Platform Module (TPM) or security chips (like Apple’s T-series or M-series). In many cases, if a password is lost and official support cannot verify ownership, the only solution provided by the manufacturer may be a motherboard replacement. Ensure all ownership documentation is gathered before contacting support.
+This is general information, not legal, forensic, or professional incident-response advice. If you’re unsure what caused the changes, treating it as ransomware at first (isolate, stop sync, document, report) is typically the safest path.
 
 ## Additional Resources
+- https://www.cisa.gov/stopransomware/ive-been-hit-ransomware
+- https://www.cisa.gov/ransomware-response-checklist
 - https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/ransomware
-- https://www.ic3.gov/CrimeInfo/Ransomware
-- https://consumer.ftc.gov/articles/malware-how-protect-against-detect-and-remove-it
-- https://support.microsoft.com/en-us/security/protect-your-pc-from-ransomware
-- https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/ransomware
+- https://www.ic3.gov/PSA/2025/PSA250919

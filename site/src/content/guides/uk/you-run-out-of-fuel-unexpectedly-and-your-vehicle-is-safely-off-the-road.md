@@ -1,88 +1,75 @@
----
+﻿---
 title: "What to do if… you run out of fuel unexpectedly and your vehicle is safely off the road"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "ran out of fuel"
-  - "run out of petrol"
-  - "run out of diesel"
-  - "empty fuel tank"
-  - "vehicle fuel light ignored"
-  - "stranded in car uk"
-  - "vehicle safely off road"
-  - "pulled into lay-by"
-  - "stopped on hard shoulder"
-  - "emergency refuge area"
-  - "motorway breakdown fuel"
-  - "smart motorway fuel out"
-  - "hazard lights on"
-  - "waiting for recovery uk"
-  - "fuel delivery service"
-  - "car wont start no fuel"
-  - "unsafe to exit vehicle"
-  - "motorway marker posts"
-  - "national highways assistance"
-  - "broken down on a-road"
-  - "what do i do if i run out of fuel"
-  - "what do i do if my car stops"
-  - "help i ran out of petrol"
-  - "help i ran out of diesel"
-  - "my car ran out of fuel on motorway"
-  - "smell of fumes"
-  - "engine cutting out"
-  - "sputtering engine"
-  - "loss of power"
-  - "dashboard fuel warning"
-last_reviewed: "2026-03-17"
+  - ran out of fuel
+  - run out of petrol
+  - run out of diesel
+  - empty tank
+  - fuel gauge wrong
+  - fuel light ignored
+  - stranded in car
+  - vehicle safely off road
+  - pulled into lay-by
+  - stopped on hard shoulder
+  - emergency refuge area
+  - motorway breakdown
+  - smart motorway
+  - hazard lights on
+  - waiting for recovery
+  - fuel delivery
+  - can’t restart engine
+  - unsafe to exit
+  - location marker posts
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… you run out of fuel unexpectedly and your vehicle is safely off the road (UK)
 
 ## Short answer
-Make the vehicle visible with hazard lights, move all occupants to a safe waiting position away from traffic, and contact a breakdown provider or National Highways.
+Make the car conspicuous (hazards on), get yourself and any passengers into the safest waiting position for where you’ve stopped, then get help (breakdown provider, or National Highways if you’re on a motorway).
 
 ## Do not do these things
-- Do not attempt to walk along a motorway or high-speed A-road to find a petrol station.
-- Do not stand between your vehicle and oncoming traffic or near the edge of the carriageway.
-- Do not place a warning triangle if you are stopped on a motorway.
-- Do not use a naked flame or smoke near the vehicle.
-- Do not exit the vehicle toward the side of moving traffic.
-- Do not stay in the vehicle if a safe area (like behind a crash barrier) is accessible.
+- Don’t try to “stretch” the last fumes by continuing to drive if the engine is cutting out—stay stopped if you’re already safely off the road.
+- Don’t walk along a motorway or hard shoulder to look for fuel or help.
+- Don’t stand between your vehicle and live traffic, or wait near the rear of the car close to the carriageway.
+- Don’t attempt to place a warning triangle on a motorway.
+- Don’t accept fuel/help from a stranger if you feel unsure or pressured—prioritise official help.
+- Don’t smoke or use any naked flame near the vehicle (especially if you suspect a fuel leak).
 
 ## What to do now
-1. **Secure the vehicle in its current position.** Apply the handbrake and keep hazard warning lights active. If it is dark or visibility is poor, ensure sidelights (position lights) are switched on. Turn the steering wheel so the front wheels point away from the road (usually to the left).
-2. **Put on high-visibility clothing.** If you have high-visibility jackets or vests accessible within the cabin, put them on before exiting the vehicle.
-3. **Move all occupants to a safer waiting position.** 
-   - On motorways/high-speed roads: Exit via the doors furthest from traffic (the left-hand side). Move well away from the road and stand behind the safety barrier if one is present.
-   - In a lay-by or car park: You may remain with the vehicle, but stay alert to other entering traffic.
-   - If it is unsafe to exit (e.g., no verge or heavy traffic): Stay in the vehicle with seatbelts fastened and hazard lights on.
-4. **Identify your exact location.** 
-   - Note the road name/number and direction of travel.
-   - Look for the nearest junction number or landmark.
-   - On motorways, locate the nearest blue and white marker posts or emergency area signs.
-5. **Contact professional assistance.**
-   - If on a motorway: Use a roadside emergency telephone if reachable. Otherwise, call National Highways on 0300 123 5000 or use your vehicle's SOS/eCall button if equipped.
-   - If on any other road: Call your breakdown recovery provider or a local fuel delivery service.
-   - Call 999 immediately if you are stopped in a live lane or feel you are in immediate danger.
-6. **Report specific details to the operator.** State clearly that you have "run out of fuel," provide your location, vehicle registration, and the number of passengers, noting if anyone is vulnerable.
+1. **Secure the vehicle where it is.** Keep the car fully out of running lanes, apply the handbrake, and keep hazard warning lights on. If it’s dark or visibility is poor, use **sidelights** as well. If you’re stopped facing along the road, turn the **front wheels to the left** (away from traffic) if you can do so safely.
+2. **Choose the safest place to wait (depends on where you’ve stopped):**
+   - **Lay-by / car park / fully separated area:** you can usually stay with the vehicle.
+   - **Motorway hard shoulder or emergency refuge area:** only if it’s safe, **exit by the side furthest from traffic (usually the left)** and wait **well away from the vehicle and moving traffic, behind a safety barrier if there is one**.
+   - **If it does not feel safe to exit** (narrow shoulder, heavy traffic, poor visibility): **stay in the vehicle, seatbelt on, hazards on**, and call **999 (or 112)**.
+3. **Get your exact location before you call anyone.**
+   - Motorway: motorway name and direction, nearest **junction number**, and any **marker posts** / signs.
+   - Other roads: road name/number, nearest town/landmark, and use your phone’s map “share location” feature if possible.
+4. **Get help using the right route for where you are.**
+   - **On a motorway:** use a roadside **emergency telephone** if one is nearby (where provided). Or call **National Highways on 0300 123 5000** for advice/assistance.
+   - Otherwise, call your **breakdown provider** (or insurer/manufacturer assistance) and request **fuel delivery** or recovery.
+5. **Say the essentials (short and clear):** “Out of fuel,” exact location, vehicle description/registration, how many people with you, and whether anyone is vulnerable (e.g., disabled, older, travelling alone).
+6. **While waiting:** keep everyone together, keep phones charged, and stay out of traffic danger. If you drive a diesel and it has fully run dry, avoid repeated restart attempts—focus on getting professional help to attend.
 
 ## What can wait
-- You do not need to determine why the fuel level was miscalculated or if the gauge is faulty.
-- You do not need to arrange payment or insurance claims while standing at the roadside.
-- You do not need to attempt to vent or prime the fuel system yourself.
-- You do not need to worry about potential fixed penalty notices for stopping on the motorway until you are in a safe location.
+- You don’t need to decide right now **why** the fuel ran out (gauge fault, misread range, detour, etc.).
+- You don’t need to arrange payment, complaints, or insurance admin while you’re still roadside.
+- You don’t need to troubleshoot or “fix” anything beyond basic safety steps until you’re somewhere safe.
 
 ## Important reassurance
-Stopping unexpectedly due to fuel loss is a common occurrence that recovery services and highway authorities handle daily. Once you have moved away from the flow of traffic and requested help, the primary risk is managed. Physical symptoms of stress or frustration are normal and expected in this situation.
+Running out of fuel can feel suddenly embarrassing and frightening, but once you’re safely off the road your priorities are simple: stay visible, stay out of traffic danger, and get help to come to you.
 
 ## Scope note
-This guide provides first-step stabilization and safety actions. It does not cover mechanical repairs, fuel system priming, or long-term vehicle maintenance.
+These are first steps to keep you safe and get assistance. Prevention and follow-up checks can wait until you’re recovered.
 
 ## Important note
-This information is for general guidance and does not replace the Highway Code or instructions given by emergency services. If you are in a position where you cannot reach a safe area or your vehicle is obstructing a live lane, call 999.
+This is general safety information, not legal advice. If you’re in immediate danger, or you cannot wait safely where you are, call **999 (or 112)**.
 
 ## Additional Resources
 - https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
 - https://nationalhighways.co.uk/road-safety/driving-on-motorways/
-- https://www.rac.co.uk/drive/advice/driving-advice/my-fuel-light-came-on-how-many-miles-can-i-go/
-- https://www.theaa.com/breakdown-cover/fuel-assist
-- https://www.rac.co.uk/drive/advice/driving-advice/broken-down-without-cover-heres-what-you-can-do/
+- https://www.gov.uk/government/news/safety-tips-for-motorway-drivers-at-start-of-breakdown-season
+- https://www.theaa.com/breakdown-cover/advice/what-to-do-motorway-breakdown
+- https://www.westyorkshire.police.uk/ask-the-police/question/Q593

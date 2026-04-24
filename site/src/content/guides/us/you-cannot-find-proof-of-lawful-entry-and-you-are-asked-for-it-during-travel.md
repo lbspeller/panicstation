@@ -1,95 +1,81 @@
----
+﻿---
 title: "What to do if… you cannot find proof of lawful entry and you are asked for it during travel"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "proof of lawful entry missing"
-  - "asked for i-94 during travel"
-  - "cannot find i-94 record"
-  - "airline asks for legal entry proof"
-  - "border officer asks admission proof"
-  - "no entry stamp in passport"
-  - "forgot immigration documents"
-  - "lost visa paperwork"
-  - "need proof of lawful admission"
-  - "i-94 printout needed"
-  - "i-94 website not finding me"
-  - "i-94 wrong information"
-  - "deferred inspection office help"
-  - "travel document evidence problem"
-  - "immigration status proof not available"
-  - "lawful entry evidence unavailable"
-  - "document check panic at airport"
-  - "returning to us proof issue"
-  - "cbp travel history needed"
-  - "lawful entry evidence help"
-  - "missing proof of lawful entry"
-  - "where is my proof of lawful entry"
-  - "help i cannot find proof of lawful entry"
-  - "my proof of lawful entry is missing"
-  - "what do i do if i cannot find proof of lawful entry"
-  - "missing admission stamp usa"
-  - "no admission record found"
-  - "electronic i-94 retrieval help"
-  - "cbp link app i-94"
-  - "proof of entry for green card holders"
-  - "i-94 record not found help"
-  - "missing travel documents at airport"
-  - "proof of entry for nonimmigrants"
-  - "lawful entry verification 2026"
-  - "cbp deferred inspection site contact"
-last_reviewed: "2026-03-17"
+  - proof of lawful entry missing
+  - asked for i-94 during travel
+  - cannot find i-94 record
+  - airline asks for legal entry proof
+  - border officer asks admission proof
+  - no entry stamp in passport
+  - forgot immigration documents
+  - lost visa paperwork
+  - need proof of lawful admission
+  - i-94 printout needed
+  - i-94 website not finding me
+  - i-94 wrong information
+  - deferred inspection office help
+  - travel document evidence problem
+  - immigration status proof not available
+  - lawful entry evidence unavailable
+  - document check panic at airport
+  - returning to us proof issue
+  - cbp travel history needed
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you cannot find proof of lawful entry and you are asked for it during travel (USA)
 
 ## Short answer
-Do not engage in verbal disputes—identify the specific document requested and retrieve your official electronic admission record. Most nonimmigrant visitors (tourists, students, or workers) can retrieve their **CBP Form I-94** instantly from the official CBP website or the **CBP Link** mobile app.
+Don’t argue—identify what they mean by “proof,” then pull your official admission record. If you were admitted as a nonimmigrant (many visitors, students, and workers), that proof is often your **CBP Form I-94**, which you can retrieve and print from the official CBP I-94 site.
 
 ## Do not do these things
-- Do not guess your admission category or "admit until" date if you are not viewing an official record.
-- Do not hand original documents to anyone other than official airline staff or uniformed border officers at designated desks.
-- Do not use unofficial "templates," edited digital files, or third-party screenshots as proof of status.
-- Do not assume a missing physical passport stamp means you lack a legal record; most entries are now electronic.
-- Do not sign any document regarding the withdrawal of an application or voluntary departure while in a state of panic.
+- Do not guess your status category, dates, or “admit until” date if you’re not looking at an official record.
+- Do not hand over original documents to anyone who is not clearly an airline/border official at a desk.
+- Do not use fake screenshots, edited PDFs, or “templates” from online forums—this can create serious problems.
+- Do not assume “no stamp” means “no entry.” Many entries are recorded electronically.
+- Do not let panic push you into rebooking, withdrawing an application, or signing anything you don’t understand on the spot.
 
 ## What to do now
-1. **Request clarification on the required document:**
-   - Ask the official if they require a Form I-94 (Arrival/Departure Record), a visa page, an admission stamp, or a Permanent Resident Card (Form I-551).
-2. **Access the official CBP I-94 retrieval portal:**
-   - **Navigate to the official CBP I-94 website and select "Get Most Recent I-94."**
-   - Provide your name exactly as it appears on the passport used for entry, your date of birth, and your passport number.
-   - Note that most records from 1983 onward are available electronically.
-3. **Utilize the CBP Link mobile application if web access is restricted:**
-   - **Download the CBP Link app (which replaced CBP One for traveler services in 2025) to view your digital I-94.**
-   - Ensure you use a secure connection and have your passport biographical page available for data entry.
-4. **Troubleshoot "Record Not Found" errors systematically:**
-   - **Re-enter data using the passport you used during your most recent entry, even if that passport is now expired.**
-   - Try entering your name with and without middle names, or exactly as it appears in the Machine Readable Zone (MRZ) at the bottom of your passport ID page.
-   - Take a screenshot of the "No Record Found" screen to demonstrate a good-faith effort to comply.
-5. **Contact a CBP Deferred Inspection Site for urgent record corrections:**
-   - **Locate the nearest Deferred Inspection Site using the official CBP directory if your record is missing or contains biographical errors.**
-   - Many sites now accept correction requests via email; include scans of your passport ID page, visa, and any boarding passes from the date of entry.
-6. **Gather secondary evidence of arrival if the electronic record is inaccessible:**
-   - **Compile digital or physical copies of your flight itinerary, boarding passes, and the visa foil in your passport.**
-   - If you are a Lawful Permanent Resident (LPR) and have been abroad for over 180 days, be prepared for more intensive inspection protocols regarding your intent to maintain residency.
+1. **Ask exactly what they want:** “Do you need my I-94, my visa, my entry stamp, my green card, or proof of onward travel?”
+2. **Retrieve your I-94 (if you were admitted as a nonimmigrant):**
+   - Use the official CBP I-94 website option **Get Most Recent I-94**.
+   - Save and print it if you can. If someone requests your admission information, this is commonly what you provide.
+   - Optional: if you already use **CBP One**, you may be able to view a digital I-94 there too.
+3. **If the I-94 site can’t find you:**
+   - Re-enter your name exactly as in your passport (try with/without middle name if applicable).
+   - If you **entered using a previous passport**, try the document details from that entry to locate the record.
+   - Screenshot any “no record found”/error result to show you attempted the official lookup.
+4. **Gather alternate proof you may already have (even if imperfect):**
+   - Passport bio page + visa page (if you needed a visa) + any admission stamp.
+   - Boarding pass/itinerary from the trip where you entered (helps officials locate the record).
+   - If you are a permanent resident, your **Form I-551 (green card)** is key proof for return travel.
+5. **If your I-94 is missing or incorrect and you need it quickly:** contact a **CBP Deferred Inspection Site**.
+   - Use CBP’s official Deferred Inspection Sites list to find the correct email/phone for the port/region tied to your entry or current location.
+6. **If you’re being denied boarding or stopped at a checkpoint:**
+   - Ask for the reason and what specific document would resolve it (I-94 printout, corrected I-94, passport/visa match, green card, etc.).
+   - Keep it factual: “I’m pulling my CBP I-94 now / I’m contacting Deferred Inspection because the record is missing.”
+7. **Make a 2-minute “proof bundle” on your phone:** photos/PDFs of passport ID page, visa page (if any), admission stamp (if any), I-94 printout/screenshot, and your itinerary.
 
 ## What can wait
-- You do not need to resolve historical discrepancies in your 10-year travel history during the immediate boarding or checkpoint process.
-- You do not need to hire an immigration attorney at the airport; focus only on retrieving the single record requested by the official.
-- You do not need to file a formal complaint against the airline or agency until you have cleared the immediate travel barrier.
+- You do not need to fully untangle your immigration history at the counter—focus only on the specific proof they’re requesting right now.
+- You do not need to file complaints or hire anyone at the airport today.
+- You do not need to decide next legal steps while you’re stressed—first get through the immediate check, then verify records.
 
 ## Important reassurance
-In the current electronic-only environment, it is common for travelers to arrive at a checkpoint without a paper record. Most "missing" proof issues are resolved by a simple data-entry correction or by checking a previous passport number. A lack of a physical stamp does not equate to an illegal stay.
+“Proof of lawful entry” is often shorthand for an official admission record (commonly the I-94) or a clear match between passport, visa, and admission details. Many travelers don’t carry a paper record because it’s electronic—and that can be normal.
 
 ## Scope note
-This guide provides first-step stabilization for immediate travel document checks. It does not cover long-term adjustment of status or complex immigration litigation. If a record is fundamentally incorrect or you are denied entry, seek specialized legal counsel.
+These are first steps for the immediate travel checkpoint. If your record is missing, inconsistent, or you suspect you were admitted in the wrong category, you may need qualified immigration help after you’re out of the immediate situation.
 
 ## Important note
-This information is for immediate stabilization and does not constitute legal advice. Immigration requirements are subject to change and vary by individual status. Always rely on official .gov portals for the most current regulatory updates.
+This is general information for immediate stabilisation and harm-prevention, not legal advice. Requirements can vary by your status and the airline/country you’re dealing with. Use official CBP tools and stick to verifiable documents.
 
 ## Additional Resources
 - https://i94.cbp.dhs.gov/
+- https://www.cbp.gov/travel/international-visitors/i-94
 - https://i94.cbp.dhs.gov/help
-- https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/lost-stolen-visas.html
-- https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html
-- https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wilberforce-english.html
+- https://www.cbp.gov/about/contact/ports/deferred-inspection-sites
+- https://www.usa.gov/arrival-departure-record
+- https://www.uscis.gov/forms/all-forms/form-i-94-arrivaldeparture-record-information-for-completing-uscis-forms

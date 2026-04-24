@@ -1,86 +1,77 @@
----
+﻿---
 title: "What to do if… you return home and your interior lights or curtains are in a different position than you left them"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "interior lights changed position"
-  - "curtains moved while away"
-  - "what do i do if my curtains are open"
-  - "what do i do if lights are on when i get home"
-  - "what do i do if house looks different"
-  - "what do i do if i suspect a break in"
-  - "help i think someone is in my house"
-  - "help i think my flat was entered"
-  - "help i found my curtains closed"
-  - "help i found my lights turned off"
-  - "interior lights on unexpectedly"
-  - "curtains open unexpectedly"
-  - "signs of intruder uk"
-  - "unexplained changes in home position"
-  - "suspected residential burglary signs"
-  - "home interior disturbed"
-  - "returning home feeling unsafe"
-  - "burglary with no signs of forced entry"
-  - "signs of entry while out"
-  - "someone moved my things at home"
-  - "house lights changed position"
-  - "window curtains moved in flat"
-  - "unexpected interior changes"
-  - "possible intruder in house"
-  - "suspicious house movement"
-  - "light switch position changed"
-  - "living room curtains moved"
-  - "bedroom lights turned on"
-  - "home feels wrong after returning"
-  - "security breach interior signs"
-last_reviewed: "2026-03-17"
+  - lights changed when i got home
+  - curtains moved when i got home
+  - something is different in my house
+  - i think someone has been in my home
+  - signs of a break in
+  - possible burglary
+  - suspected intruder at home
+  - i came home and things were moved
+  - i came home and it feels wrong
+  - home looks disturbed
+  - unexplained changes in my flat
+  - i think someone entered while i was out
+  - door was locked but things changed
+  - i feel unsafe entering my home
+  - returning home feels unsafe
+  - someone may still be inside
+  - unexpected lights on or off
+  - curtains open or closed unexpectedly
+  - possible break-in no obvious damage
+last_reviewed: "2026-01-17"
 ---
+
 # What to do if… you return home and your interior lights or curtains are in a different position than you left them (UK)
 
 ## Short answer
-Do not enter the property; stay outside and move to a safe distance immediately. Call **999** if you suspect someone is still inside or the situation feels threatening; otherwise, call **101** to report a suspected burglary.
+Stay outside and treat it as a possible break-in. Move to a safer spot nearby and call **999** if you think someone may be inside, the crime may be in progress, or you feel in immediate danger; otherwise call **101** (or report online).
 
 ## Do not do these things
-- Do not enter the property to investigate or "clear" rooms yourself.
-- Do not shout into the house or announce your presence.
-- Do not attempt to block exits or trap an intruder inside.
-- Do not touch or move anything to "check" what is missing, as this destroys forensic evidence.
-- Do not assume it is an innocent mistake until the property has been verified as safe.
+- Do not go in “just to check” or call out into the property.
+- Do not confront anyone you see, or try to block exits.
+- Do not start touching, tidying, or moving things “back to normal”.
+- Do not go searching room-to-room, including sheds/garages/outbuildings.
+- Do not post about it on social media or message widely with your exact address.
 
 ## What to do now
-1. **Move to a safe observation point immediately.** Step away from all doors and ground-floor windows and relocate to a position where you are not easily seen but can observe the entrance.
-   - Go to a neighbor's house, a nearby open shop, or stay inside a locked vehicle.
-2. **Determine the correct emergency level.**
-   - **Call 999** if you have any reason to believe an intruder is still on the premises, if you hear noise inside, or if you feel in immediate danger.
-   - **Call 101** if you are certain you are safe and it appears the entry happened some time ago, but you still require a police report.
-3. **Use the "Silent Solution" if you cannot speak safely on a 999 call.** 
-   - **On a mobile:** Call 999 and, when prompted by the automated system, **press 55** to be transferred to the police. 
-   - **On a landline:** Call 999 and stay on the line; if the operator hears only background noise or silence, they will pass the call to the police as landlines provide automatic location data.
-4. **Provide specific details to the operator.** State your exact location and describe the specific changes (e.g., "I left my curtains closed and the hallway light off, but now the curtains are open and the light is on").
-   - Mention if anyone else has a key or permission to be inside.
-5. **Wait for police to arrive and declare the property safe.** Do not re-enter until an officer has checked the interior and confirmed no one is hidden inside. 
-6. **Preserve the scene for forensic recovery.** Once inside, avoid touching door handles, light switches, or window latches that appear to have been moved until you are told whether a Scenes of Crime Officer (SOCO) will attend.
-7. **Document the disturbances visually.** Use a mobile phone to take photos of the curtains, lights, or any moved furniture from a distance before you interact with them.
-8. **Request a Crime Reference Number (CRN).** Ensure the officer provides you with a reference number for your insurance and for tracking the investigation progress.
+1. **Pause at a safer distance.** Step away from the door (and any ground-floor windows). If you can, go to a neighbour, nearby shop, or sit in a locked car where you can still see the entrance from a safer distance.
+2. **Scan from where you are (don’t approach).** Look for anything obviously wrong (door not fully shut, damaged frame, open window, unfamiliar person/vehicle nearby, movement inside). Don’t go closer to “inspect”.
+3. **Call the police.**
+   - **Call 999** if you think someone may still be inside, you feel threatened, or you believe the crime may be in progress.
+   - **Call 101** if you’re outside and safe and it seems like whoever did it is gone, but you still suspect unlawful entry (you can also report non-emergencies online).
+   Tell them: your address, what changed (lights/curtains), whether anyone with permission could be inside, and any suspicious person/vehicle you noticed.
+4. **If you can’t speak safely on a 999 call, use the silent-call process.** Call **999** and listen to the operator’s questions.
+   - If you can, **cough or tap** the handset/keys to answer.
+   - **On a mobile**, if prompted, **press 55** to confirm it’s a genuine emergency and be put through to police.
+   - **On a landline**, staying on the line (with background noise) can lead to the call being transferred to police.
+5. **Wait for police guidance before entering.** If officers attend, ask them to confirm when it’s safe to go back in. If you have a monitored alarm, you can tell the monitoring service you are outside and police have been called.
+6. **Keep support simple.** Contact one trusted person to stay on the phone with you or wait nearby, so you’re not alone outside.
+7. **Once you’re told it’s safe to enter, change as little as possible at first.** Take a few photos of anything disturbed before you touch it. Avoid handling door/window areas that might have been used.
+8. **Write down the essentials while it’s fresh.** Note what seems different, any missing keys, and any missing high-risk items (car keys, ID, bank cards). Ask for the **crime reference number** if a report is taken.
 
 ## What can wait
-- You do not need to perform a full inventory of your belongings in the first hour.
-- You do not need to contact your insurance provider until you have a Crime Reference Number.
-- You do not need to decide on permanent security upgrades or lock changes until the immediate threat is resolved.
-- You do not need to notify your landlord or management company until the police have finished their initial assessment.
+- You do not need to decide right now whether it “definitely was” a break-in.
+- You do not need to do a full inventory immediately; safety and reporting come first.
+- You do not need to arrange new locks or repairs until the property is confirmed safe and you’ve documented what you can.
+- You do not need to contact insurers while you’re still shaken; you can do that after you have a crime reference number and a clearer picture.
+- You do not need to plan long-term security upgrades tonight.
 
 ## Important reassurance
-It is normal to feel a sudden "jolt" of adrenaline or fear when you notice something is wrong in your private space. Choosing to stay outside and call for help is a professional safety recommendation, not an overreaction. Even if the cause is later found to be accidental, prioritizing your physical safety is the correct first step.
+A sudden sense that something is “off” at home can trigger a strong fear response. Staying outside and getting help first is a sensible, protective choice, even if there later turns out to be an innocent explanation.
 
 ## Scope note
-This guide provides first-step stabilization and safety procedures for suspected unauthorized entry in the UK. It does not cover long-term security planning, forensic analysis, or legal claims.
+These are first steps to keep you safe and avoid damaging evidence. Later steps (repairs, insurance, longer-term security changes) can be handled once you’re safe and the situation is clearer.
 
 ## Important note
-This information is for safety guidance only and does not constitute legal advice. In any situation involving a potential intruder, your priority must be your physical safety and the use of official emergency services.
+This is general information, not legal advice. If you believe anyone is inside or you feel at risk, prioritise immediate safety and call emergency services.
 
 ## Additional Resources
-- https://www.gov.uk/report-crime
 - https://www.gov.uk/contact-police
-- https://www.met.police.uk/cp/crime-prevention/protect-home-crime/keep-burglars-out-property/
-- https://www.met.police.uk/cp/crime-prevention/protect-home-crime/leaving-your-home-checklist/
-- https://www.citizensadvice.org.uk/consumer/insurance/types-of-insurance/household-contents-insurance/
+- https://www.gov.uk/report-crime
+- https://www.police.uk/pu/contact-us/
+- https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
+- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution

@@ -1,95 +1,81 @@
----
+﻿---
 title: "What to do if… you hit a pothole and the steering feels “off” or a warning light appears afterwards"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "hit a pothole"
-  - "steering feels off"
-  - "pothole impact"
-  - "steering pulling after pothole"
-  - "vibration after pothole"
-  - "warning light after pothole"
-  - "tyre pressure light after pothole"
-  - "dashboard light after bump"
-  - "wheel damage suspected"
-  - "bent alloy wheel"
-  - "tyre sidewall bulge"
-  - "alignment feels wrong"
-  - "suspension noise after pothole"
-  - "car feels unsafe to drive"
-  - "motorway pothole incident"
-  - "tracking knocked out"
-  - "clunking after pothole"
-  - "sudden wobble after bump"
-  - "what do i do if i hit a pothole"
-  - "what do i do if my steering is heavy"
-  - "what do i do if my tyre light is on"
-  - "what do i do if my car vibrates"
-  - "help i hit a pothole and my car feels weird"
-  - "help i hit a bump and a light came on"
-  - "help i hit a pothole on the motorway"
-  - "help my steering is pulling left"
-  - "my car pulls to one side after pothole"
-  - "my steering wheel is not straight"
-  - "my tyre has a lump on the side"
-  - "visible wheel rim damage"
-  - "smell of burning rubber after pothole"
-  - "loud clunking when steering"
-  - "pothole damage uk report"
-  - "national highways pothole help"
-  - "traffic scotland pothole report"
-  - "traffic wales pothole report"
-last_reviewed: "2026-03-17"
+  - hit a pothole
+  - pothole impact
+  - steering feels off
+  - steering pulling after pothole
+  - vibration after pothole
+  - warning light after pothole
+  - tyre pressure light after pothole
+  - dashboard light after bump
+  - wheel damage suspected
+  - bent alloy wheel
+  - tyre sidewall bulge
+  - alignment feels wrong
+  - suspension noise after pothole
+  - car feels unsafe to drive
+  - motorway pothole incident
+  - tracking knocked out
+  - clunking after pothole
+  - sudden wobble after bump
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… you hit a pothole and the steering feels “off” or a warning light appears afterwards (UK)
 
 ## Short answer
-Slow down immediately and find a safe place to stop to inspect the tyres and wheels for internal or external damage. Do not continue driving at high speeds or on motorways if the car pulls to one side or a red warning light is visible.
+Treat this as a safety issue: slow down, get to a safe stop as soon as you can, and don’t keep driving at speed until you’ve checked the tyres/wheels and the car still steers and brakes normally.
 
 ## Do not do these things
-- Don’t attempt to "test" the steering by swerving, braking hard, or accelerating to see if the issue resolves.
-- Don’t continue at motorway speeds if you feel a new vibration, hear a clunking sound, or the steering wheel is off-centre.
-- Don’t exit your vehicle to inspect damage if you are stopped in a live lane of traffic or on a narrow verge.
-- Don’t walk back along the road or motorway to find or photograph the pothole.
-- Don’t ignore a Tyre Pressure Monitoring System (TPMS) light, even if the tyre looks inflated.
+- Don’t “test it” by weaving, braking hard, or accelerating to see if it sorts itself out.
+- Don’t continue at normal speed if the steering feels wrong, the car vibrates, or any red warning light appears.
+- Don’t return to the pothole location on foot or try to photograph it on a motorway.
+- Don’t put your hands near a hot wheel/brake area right after stopping.
+- Don’t ignore a sudden tyre-pressure warning or a new bulge/cut in the tyre sidewall.
 
 ## What to do now
-1. **Reduce your speed gradually and keep a firm, two-handed grip on the steering wheel.** Ease off the accelerator and avoid any sudden braking or sharp steering movements that could cause a loss of control if a tyre is failing.
-2. **Move to a safe stopping location as soon as possible.**
-   - On local roads, pull into a car park, lay-by, or quiet side road away from moving traffic.
-   - On "All Lane Running" (ALR) smart motorways, aim for the next junction, services, or a designated Emergency Area (marked with orange surfaces and SOS signs).
-   - If you cannot reach a safe area and must stop on a motorway, pull as far to the left as possible, switch on hazard lights, and if safe to do so, exit via the left-hand doors and wait behind the safety barrier.
-3. **If stopped in a motorway Emergency Area, use the SOS phone to contact the control centre.** Inform the operator that you have hit a pothole and describes any vehicle symptoms; they will use Stopped Vehicle Detection (SVD) and CCTV to monitor your location and provide a "lane divert right" or Red X signal to help you eventually rejoin safely.
-4. **Conduct a visual safety check of the "big three": tyres, rims, and dashboard lights.** 
-   - Check for sidewall bulges (eggs), deep cuts, or visible deflation in the tyres.
-   - Look for flattened, cracked, or bent edges on the wheel rims, especially on alloy wheels.
-   - Check the dashboard for red (immediate danger / stop) or amber (caution / get checked) warning lights.
-5. **Determine if the car is safe to drive based on physical symptoms.** 
-   - Call for breakdown recovery if the car pulls hard to one side, the steering wheel is severely misaligned, there is a heavy vibration, or a red warning light remains active.
-   - If there is no visible damage and only an amber light (like TPMS), you may drive slowly to the nearest garage, but avoid motorways and high-speed A-roads.
-6. **Report the pothole to the correct authority only once you are in a safe, stationary location.** 
-   - For motorways and major A-roads in England, contact National Highways (0300 123 5000).
-   - For trunk roads and motorways in Scotland, contact Traffic Scotland (0800 028 1414).
-   - For trunk roads and motorways in Wales, contact Traffic Wales (0300 123 1213).
-   - For all other local roads, use the GOV.UK "Report a pothole" tool to find the relevant local council.
+1. **Make the next 60 seconds about control, not diagnosis.** Ease off the accelerator, keep a firm hold of the wheel, increase following distance, and avoid sharp inputs.
+2. **Get to a safer stopping place.**
+   - Prefer a car park, lay-by, or side road.
+   - If you’re on a motorway or high-speed road, aim for the **next junction or services** if the car is controllable.
+   - If you must stop because the car feels unsafe, stop only in an **emergency area** (smart motorway) or the **hard shoulder** (where present) and keep yourself as far from live lanes as possible.
+   - If you stop in an **emergency area**, use the **emergency telephone** and follow the operator’s advice before you rejoin traffic.
+3. **Check the “big three” before you drive further: tyres, wheels, warning lights.**
+   - Walk around the car and look for: a soft/flat tyre, a bulge in the sidewall, a cut, or anything leaking.
+   - Look at the wheel rim for a visible bend/crack, or a tyre that looks “not seated” evenly on the rim.
+   - Note exactly which warning light is on and whether it’s **red** or **amber**.
+4. **Decide “drive a little” vs “don’t drive”.**
+   - **Do not drive** (call breakdown/recovery) if: steering suddenly pulls hard, the car won’t track straight, there’s strong vibration, you hear grinding/metallic scraping, the tyre is bulging/cut/flat, you see a cracked/badly bent wheel, fluid is leaking, or a **red** warning light stays on.
+   - If everything looks intact and the light is **tyre pressure** or another **amber** warning, you may be able to drive **slowly and briefly** to somewhere safer for help — but avoid high speeds and avoid motorways if the steering still feels “off”.
+5. **If it’s a tyre-pressure warning, check pressure properly.** Use a gauge (petrol station/portable). Inflate to the vehicle placard/handbook specification. If pressure won’t hold, stop driving and get tyre help.
+6. **Arrange a same-day check if steering feels “off” even slightly.** Ask a garage/tyre shop to inspect tyre sidewalls, wheel rims, and steering/suspension components, and to check alignment/tracking if needed. Tell them it happened immediately after a pothole impact.
+7. **Re-check pressures again soon.** Impacts can cause a slow leak or rim seal issue. If pressure drops again, stop driving and get the tyre/wheel examined.
+8. **Make a quick record while it’s fresh.** Note date/time, road name, direction of travel, nearest junction/landmark (or marker post feature), which warning light came on, and what you felt (pulling left/right, vibration, new noises). Take photos of your tyre/wheel damage in a safe place.
+9. **Report the pothole safely (and only when you’re not in danger).**
+   - For **motorways and major A-roads managed by National Highways (England)**, use the National Highways “Report a problem” service.
+   - Otherwise, report via the relevant local road authority for the road (often your local council).
 
 ## What can wait
-- You do not need to decide whether to make a compensation claim right now.
-- You do not need to determine the exact mechanical cause (e.g., tracking vs. suspension) before seeking professional help.
-- You do not need to obtain photographic evidence of the pothole if the location is currently dangerous to access.
+- You do **not** need to decide right now whether to claim compensation.
+- You do **not** need to figure out whether it’s “alignment” versus something else — your job is just to get a safety inspection.
+- You do **not** need to return to the site or collect pothole photos from a dangerous location.
 
 ## Important reassurance
-Modern vehicles are designed to handle significant impacts, but a pothole can easily knock wheels out of alignment or cause internal tyre damage that isn't immediately visible. It is a standard safety procedure to stop and check your vehicle after a heavy impact, and feeling startled or uncertain about the car's handling is a normal reaction to a sudden road hazard.
+A pothole can knock a wheel out of alignment, damage a tyre internally, or trigger a warning light even when the car still “sort of” drives. Taking a cautious pause and getting it checked is a normal, sensible response.
 
 ## Scope note
-This guide provides first-step stabilization for a vehicle impact and does not replace a professional mechanical inspection or legal advice regarding road maintenance claims.
+This is first-steps-only guidance to reduce immediate risk and prevent irreversible mistakes right after the impact. Repairs, reporting, and claims can come later.
 
 ## Important note
-If your steering feels "disconnected," the car is vibrating heavily, or a red warning light is displayed, the vehicle may be unroadworthy. Do not attempt to "limp home" or drive to a garage; instead, contact a breakdown recovery service to prevent further damage or a potential collision.
+This is general information, not mechanical, legal, or insurance advice. If you feel unsafe, the car is pulling/vibrating strongly, or a red warning light is on, prioritise stopping safely and getting professional assistance/recovery rather than continuing to drive.
 
 ## Additional Resources
-- https://www.theaa.com/breakdown-cover/advice/pothole-damage-how-to-claim
-- https://www.theaa.com/breakdown-cover/advice/steering-wheel-shaking
-- https://www.rac.co.uk/drive/advice/road-safety/report-a-pothole/
 - https://www.gov.uk/claim-for-damage-to-your-vehicle
-- https://nationalhighways.co.uk/our-roads/network-claims/claims-against-national-highways-red-claims/
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
+- https://nationalhighways.co.uk/road-safety/the-hard-shoulder/
+- https://report.nationalhighways.co.uk/
+- https://www.gov.uk/report-pothole
+- https://www.tyresafe.org/check-wheel-alignment-after-pothole-damage/

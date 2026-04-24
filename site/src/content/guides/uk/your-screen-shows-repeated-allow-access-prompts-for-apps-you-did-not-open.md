@@ -1,91 +1,84 @@
----
+﻿---
 title: "What to do if… your screen shows repeated “allow access” prompts for apps you did not open"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "social media account hacked"
-  - "account posting by itself"
-  - "posts i did not make"
-  - "random posts on my account"
-  - "someone took over my account"
-  - "account compromised"
-  - "unauthorized posts"
-  - "my profile got hacked"
-  - "my instagram got hacked"
-  - "my facebook got hacked"
-  - "my x account got hacked"
-  - "unknown login activity"
-  - "password changed without me"
-  - "messages sent from my account"
-  - "scam posts from my profile"
-  - "account takeover"
-  - "digital account breach"
-  - "suspicious account activity"
-  - "hacked after clicking a link"
-  - "hacked through third party app"
-  - "what do i do if my account is posting scams"
-  - "what do i do if someone else is using my account"
-  - "what do i do if i cannot log in to social media"
-  - "what do i do if my profile is hacked"
-  - "help i have been hacked on social media"
-  - "help i am locked out of my account"
-  - "help i see posts i did not write"
-  - "help i click a phishing link and now i am hacked"
-  - "my account is sending spam"
-  - "my followers are getting weird messages from me"
-  - "strange login from another country"
-  - "unrecognised device on my account"
-  - "haked social media"
-  - "recovery of compromised account"
-last_reviewed: "2026-03-17"
+  - repeated allow access prompts
+  - unexpected allow access popups
+  - allow access loop
+  - permission prompts won’t stop
+  - apps asking for access you didn’t open
+  - random permission request
+  - suspicious phone pop up
+  - possible malware on phone
+  - i clicked allow by mistake
+  - unknown app requesting permissions
+  - strange authentication prompts
+  - account approval spam
+  - phone might be compromised
+  - device security scare
+  - i keep getting access requests
+  - unexpected sign in approval prompt
+  - google prompt i didn’t request
+  - apple account access request
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your screen shows repeated “allow access” prompts for apps you did not open (UK)
 
+# What to do if… your screen shows repeated “allow access” prompts for apps you did not open (UK)
 ## Short answer
-Treat the situation as an active account takeover by securing your linked email first, then using the platform's official recovery tools to regain access and force a global sign-out of all sessions.
+Stop interacting with the prompts and disconnect the device from the internet (Airplane mode) so nothing new can be approved while you steady the situation.
 
 ## Do not do these things
-- Don’t attempt to "guess" your password repeatedly if it has been changed, as this can trigger a permanent security lockout.
-- Don’t interact with the attacker through comments or direct messages, as this confirms the account is being monitored and may lead to further social engineering.
-- Don’t click "Security Alert" or "Password Reset" links found in direct messages; only use links sent to your verified email after you requested them.
-- Don’t pay "account recovery" services found on social media; these are frequently scams.
-- Don’t assume the social media account is the only target; the breach often originates in the linked email or a reused password.
+- Don’t tap **“Allow/Approve/Yes”** just to make the prompt go away.
+- Don’t enter passwords, passcodes, or recovery codes into any pop-up you didn’t intentionally trigger.
+- Don’t install or “fix” anything **from the prompt itself** (links, profiles, VPNs, “security tools”). Only consider reputable tools from the official app store after you’ve stabilised.
+- Don’t do your most important password changes on the possibly-affected device if you can avoid it.
+- Don’t assume it’s harmless “just a bug” if it keeps repeating — treat it as suspicious until you’ve checked.
 
 ## What to do now
-1. **Access your linked email account using a trusted device and a private connection.** **Avoid using public Wi-Fi or devices that you suspect may be compromised.**
-2. **Check your email settings for unauthorized forwarding rules or filters.** **Attackers often set these up to intercept password reset emails or hide security notifications from your inbox.**
-   - Look in the "Forwarding and POP/IMAP" or "Rules" section of your email settings.
-   - Check the "Deleted Items" or "Archive" folders for hidden security alerts.
-3. **Change your email password and enable two-step verification (2SV) immediately.** **Ensure the new password is unique and not used for any other service.**
-4. **Initiate the official account recovery process through the social media platform.** **Navigate directly to the platform's help center or "hacked account" page rather than following external links.**
-   - For Instagram: Use the "Request Support" flow.
-   - For Facebook: Visit the "Identify Your Account" page.
-   - For X (Twitter): Use the "Hacked Account" reporting form.
-5. **Force a "sign out of all devices" once you regain access to the account.** **This terminates the attacker’s active session and prevents them from remaining logged in.**
-6. **Review and remove unrecognised third-party apps or connected services.** **Look for "Linked Accounts" or "Apps and Websites" in your security settings and revoke access for anything you do not recognize.**
-7. **Verify that your contact information in the account settings is correct.** **Ensure the recovery email and phone number have not been changed to the attacker's details.**
-8. **Issue a single, public notification to your followers once the account is secure.** **Inform them that the account was compromised and advise them not to click any links sent during the breach period.**
-9. **Report the incident to the national reporting centre if you have lost money or been defrauded.** **In England, Wales, and Northern Ireland, use the Report Fraud service (reportfraud.police.uk or 0300 123 2040).**
-   - In Scotland, report the incident to Police Scotland by calling 101.
-   - If there is an immediate threat to life or a crime is in progress, call 999.
+1. **Create a quiet pause:** put the device in **Airplane mode** (or switch off Wi-Fi and mobile data). If the prompts won’t stop, **power the device off** for a minute.
+2. **Capture what’s happening:** take **screenshots** of 2–3 prompts (showing the app name or website/service name if visible) and note the **time** it started.
+3. **Identify what kind of “allow access” it is (this changes the next step):**
+   - If it looks like a **sign-in approval** (“Is this you?” / “Allow access?” / “Approve sign-in”), assume someone may be trying to access an account.
+   - If it looks like a **device/app permission** (camera, contacts, files, accessibility, “device admin”), assume a suspicious app or setting is involved.
+   - If it looks like a **website prompt** (often “Allow notifications”), treat it like a browser/site permission.
+4. **If it’s a sign-in approval prompt: secure the account from another device first.**
+   - From a different, trusted device (or computer), change your **email password first** (because it controls resets), then banking, then your **Apple Account/Google Account**.
+   - Check **recent sign-ins/devices** and **sign out/remove** anything you don’t recognise.
+5. **Check for unknown “device management” on iPhone/iPad (high-impact):**
+   - Go to **Settings → General → VPN & Device Management**.
+   - If you see a profile/MDM you don’t recognise: **don’t approve anything**.  
+     - If it’s a **work/school device** or you’re unsure, stop and contact your **IT/admin** first.  
+     - If it’s clearly not yours, remove it and restart.
+6. **If you’re on Android and suspect a bad app: use Safe mode to remove it (method varies by phone).**
+   - Use your manufacturer’s Safe mode steps (Pixel has an official Safe mode method). In Safe mode, **uninstall apps you added around when this started**, or anything you don’t recognise.
+7. **If the prompt looks like a website/browser permission (“Allow notifications”):**
+   - Keep Airplane mode on, then open your browser settings and **remove site notification permissions** for any site you don’t recognise. (Do this calmly; don’t “Allow” anything to check.)
+8. **Update before returning to normal use:** once you’ve removed anything suspicious and secured key accounts, install OS/app updates. Reconnect and watch: **do prompts return?**
+9. **If this is a work or school device (or you use it for work accounts):** contact your **IT/admin team** before approving anything again.
+10. **If you think you approved access by mistake, shared codes, or lost money:** report it.
+   - In England/Wales/Northern Ireland, report cyber crime/fraud via **Report Fraud**.  
+   - If you’re in Scotland and you’ve lost money due to fraud, reporting is typically via **Police Scotland (101)**.
 
 ## What can wait
-- You do not need to identify the specific vulnerability or "how" the breach happened in the first few minutes.
-- You do not need to reply to individual messages sent by the attacker to your contacts.
-- You do not need to decide whether to permanently delete the account until after it has been stabilized and secured.
+- You do **not** need to decide right now whether to factory reset, buy a new device, or “nuke” every account.
+- You do **not** need to reply to any messages or callers claiming to be “support” who contact you after this starts.
+- You can postpone deep cleanup (password manager review, full account audit, device reconfiguration) until the prompts have stopped and your key accounts are secure.
 
 ## Important reassurance
-Account compromises are common technical events that can usually be resolved by following established recovery protocols. Regaining control of your linked email and forcing a global sign-out typically stops the immediate unauthorized activity. High-stress reactions are normal when personal data is accessed, but technical stabilization is the priority.
+Repeated access prompts are a common tactic in scams and account-takeover attempts because people eventually tap “Allow” out of stress. Pausing, disconnecting, and securing the key accounts first is the right pattern.
 
 ## Scope note
-This guide provides first-step stabilization for individual social media account takeovers in the UK. It does not cover long-term reputation management, legal action against platforms, or hardware-level forensic analysis.
+These are first steps to stop accidental approval and reduce immediate harm. If prompts continue after removing suspicious apps/profiles and updating, you may need hands-on help from official device support or a trusted technician.
 
 ## Important note
-This information is for general guidance and does not constitute legal or technical professional advice. If you are experiencing extortion, blackmail, or credible threats of physical harm, contact your local police service immediately via 101 or 999 in an emergency.
+This is general information, not professional security or legal advice. If you feel unsafe, threatened, or believe a serious crime is in progress, contact the relevant emergency services.
 
 ## Additional Resources
-- https://ico.org.uk/media2/migrated/2346/apps-consumer-guide.pdf
-- https://www.ncsc.gov.uk/files/Threat-report-on-application-stores-web-v2.pdf
-- https://www.ncsc.gov.uk/news/ncsc-partners-share-guidance-for-communities-at-high-risk-of-digital-surveillance
-- https://www.which.co.uk/news/article/signs-your-computer-has-been-hacked-alG437Z8XVxE
-- https://www.which.co.uk/news/article/what-to-do-if-you-accidentally-click-a-scam-link-aTcLb4O6kVab
+- https://www.reportfraud.police.uk/
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://support.apple.com/guide/iphone/install-or-remove-configuration-profiles-iph6c493b19/ios
+- https://support.google.com/accounts/answer/6294825?hl=en
+- https://support.google.com/accounts/answer/3067630?hl=en
+- https://support.google.com/pixelphone/answer/2852139?hl=en-GB
+- https://www.ncsc.gov.uk/section/about-this-website/report-scam-website

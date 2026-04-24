@@ -1,103 +1,88 @@
----
+﻿---
 title: "What to do if… you receive an audit notice from a tax authority and the response deadline is soon"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "what do i do if i get an hmrc audit letter"
-  - "help i received a tax enquiry letter"
-  - "my hmrc deadline is tomorrow"
-  - "what do i do if my audit deadline is soon"
-  - "hmrc compliance check letter"
-  - "tax investigation notice"
-  - "schedule 36 information notice"
-  - "hmrc check of self assessment"
-  - "vat compliance check"
-  - "corporation tax enquiry letter"
-  - "request extension from hmrc"
-  - "hmrc letter verification"
-  - "fake hmrc audit letter"
-  - "tax enquiry response deadline"
-  - "hmrc reference number"
-  - "unique taxpayer reference"
-  - "10 digit utr"
-  - "hmrc phishing letter"
-  - "compliance officer contact"
-  - "tax records request"
-  - "points based penalty system"
-  - "late submission penalty"
-  - "reasonable excuse for delay"
-  - "hmrc information request"
-  - "tax audit notice"
-  - "hmrc compliance check"
-  - "tax authority letter"
-  - "audit response"
-  - "letter looks official"
-  - "hmrc gov uk"
-last_reviewed: "2026-03-17"
+  - hmrc audit letter
+  - hmrc compliance check
+  - tax enquiry letter
+  - audit notice deadline soon
+  - respond to hmrc letter
+  - missed hmrc deadline worry
+  - ask hmrc for more time
+  - hmrc information request
+  - schedule 36 notice
+  - provide documents to hmrc
+  - self assessment check
+  - vat compliance check
+  - corporation tax enquiry
+  - letter looks suspicious hmrc
+  - proof of posting response
+  - respond by post or online
+  - what to send hmrc
+  - do i need an accountant now
+  - panic about audit
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive an audit notice from a tax authority and the response deadline is soon (UK)
 
 ## Short answer
-Verify the letter is a genuine HMRC communication via GOV.UK, then contact the specific officer or department named on the notice immediately to confirm the request and negotiate an extension if required.
+Don’t ignore it: today, verify the notice is genuinely from HMRC, then contact HMRC to confirm what they need and ask for more time if you can’t meet the deadline.
 
 ## Do not do these things
-- Don’t ignore the letter—silence can be interpreted as non-cooperation and may lead to automated penalties or estimated tax assessments.
-- Don’t reply to any contact details in the letter until you have verified the sender is genuine through official HMRC channels.
-- Don’t send original physical documents like passports, birth certificates, or original invoices unless explicitly requested; high-quality copies are the standard.
-- Don’t provide information that was not specifically requested, such as unrelated personal bank statements or social media records, without professional advice.
-- Don’t assume an extension is guaranteed; you must provide a valid reason or "reasonable excuse" for HMRC to move a deadline.
-- Don’t throw away the envelope or any enclosures, as postmarks may be needed to prove when a letter was actually received.
+- Don’t miss the deadline without telling HMRC — silence can lead to decisions being made without your input.
+- Don’t assume a letter is genuine just because it looks “official” — if anything feels off, verify via GOV.UK and use official HMRC contact routes rather than replying to unexpected details.
+- Don’t send original documents unless HMRC explicitly asks for originals (copies are usually safer).
+- Don’t send a rushed, inaccurate reply “just to say something” — errors can create bigger problems than a short delay with an agreed extension.
+- Don’t throw away the envelope, reference numbers, or any enclosures — they matter for tracking and proving timelines.
+- Don’t send a huge bundle of unrelated records — stick to what’s requested (and explain briefly if something isn’t available yet).
 
 ## What to do now
-1. **Secure the core identification data from the notice.** 
-   - Record the **HMRC reference number** and the **10-digit Unique Taxpayer Reference (UTR)**.
-   - Note the **full name of the officer** dealing with the case and their direct phone number or email address.
-   - Confirm the **deadline date** and the specific **tax periods** (e.g., 2024/25) being checked.
+1. **Stabilise and capture the essentials (2 minutes).**  
+   Write down: the **deadline date**, **HMRC reference number**, **tax year/period**, what they’re asking for, and any named HMRC team/officer.
 
-2. **Verify the authenticity of the communication.** 
-   - Check the sender's email address; genuine HMRC emails must end in `gov.uk` (not `hmrc-taxchecks.org` or similar).
-   - Check the UTR provided; a 6-digit number is a common red flag for fraud as genuine UTRs are 10 digits.
-   - Use the GOV.UK "Check if a letter you've received from HMRC is genuine" service to match the letter type against known campaigns.
+2. **Verify the notice is genuine (especially if anything feels “off”).**  
+   Use HMRC’s GOV.UK guidance to check whether the letter (or type of letter) is genuine and what to do if you’re unsure. If the letter includes a QR code, use HMRC’s GOV.UK guidance on checking QR codes too.
 
-3. **Contact the named HMRC officer before the deadline expires.** 
-   - Call the number on the letter or use the HMRC digital assistant to verify the officer exists and the check is open.
-   - Clarify the exact format required for responses (e.g., digital upload vs. post) and the specific list of documents needed.
+3. **Contact HMRC before the deadline (today if possible).**  
+   - If you’re satisfied it’s genuine, use the contact details on the letter/notice to confirm **exactly** what they want (documents, explanations, format, where to send, and whether copies are acceptable).  
+   - If you’re not satisfied it’s genuine, contact HMRC using the relevant GOV.UK helpline/webchat route for the tax involved and ask them to confirm whether the letter is real.
 
-4. **Request a formal extension if you cannot meet the date.** 
-   - State clearly that you intend to comply but require more time to retrieve records or consult an adviser.
-   - Propose a specific new date (e.g., "14 additional days") rather than an open-ended delay.
-   - Note that if this is a **Schedule 36 notice**, missing the deadline without an extension can trigger an immediate £300 penalty followed by £60 daily fines.
+4. **If you need more time, ask early and be specific.**  
+   Say you intend to cooperate, but you can’t meet the date. Ask for an extension and propose a realistic new date. Keep the reason brief and factual (records retrieval delay, illness, key person unavailable).
 
-5. **Identify any legally protected information.** 
-   - Separate any documents that may fall under **legal professional privilege** (communications with lawyers for legal advice), as these are generally exempt from HMRC information powers.
-   - Do not provide these items until you have confirmed their status with a qualified tax professional.
+5. **Create a “response pack” so you don’t lose control of what you sent.**  
+   - Make a folder (paper or digital).  
+   - Save: a copy/photo of the notice, your notes, and a checklist of requested items.  
+   - For each item you send, label it with the **reference number** and **tax period**, and keep a copy of everything.
 
-6. **Prepare a trackable response pack.** 
-   - Create digital copies of every document you intend to send.
-   - If sending by post, use a service that provides **proof of posting** and a delivery signature.
-   - If using an online portal, take screenshots of the "Success" or "Submission Received" pages.
+6. **Respond in a trackable way and keep proof.**  
+   If responding by post, use a tracked/signed service and keep proof of posting. If responding digitally, save confirmations/screenshots and copies of uploaded files.
 
-7. **Determine if professional representation is necessary.** 
-   - If the request involves technical areas like **marginal relief**, **Director Loan Accounts (Section 455)**, or complex **VAT repayments**, contact a Chartered Accountant immediately.
-   - You can authorize an agent to speak to HMRC on your behalf, which often pauses direct pressure on you.
+7. **If the request is large or technical, line up help fast (without delaying step 3).**  
+   If it involves a business, multiple tax years, VAT/PAYE, or you can’t understand what’s being asked, contact a qualified tax adviser/accountant today. You can still make the “we’ve received this and need an extension” call/message yourself immediately.
+
+8. **If it looks like a formal information notice, treat the deadline as especially important.**  
+   Some HMRC requests are issued using legal information powers (often referred to as **Schedule 36**). If the letter says it’s a formal notice (or you’re unsure), get advice quickly and do not let the deadline pass without contacting HMRC.
 
 ## What can wait
-- You do not need to calculate your final tax liability today; the first priority is managing the information request process.
-- You do not need to respond to the technical "findings" of the audit yet, as the investigation has likely not concluded.
-- You do not need to worry about the new **2026 points-based penalty system** for this specific letter if you meet the agreed extension deadline.
+- You don’t need to fully “solve” the audit today — you need to **avoid silence**, **clarify what’s required**, and **secure more time if needed**.
+- You don’t need to decide whether you “agree” with anything right now — focus on meeting the process (response, documents, timelines).
+- You don’t need to reconstruct years of records in one sitting — start with what the notice specifically requests.
 
 ## Important reassurance
-Receiving a compliance check is a procedural event and does not imply guilt or fraud. HMRC uses data-driven "red flags" and automated matching tools to trigger these checks. Establishing early, professional communication usually prevents the situation from escalating into a formal in-depth investigation.
+Getting an HMRC compliance check or enquiry letter is stressful, but it does not automatically mean you’ve done something wrong. The quickest way to reduce risk is to verify it, communicate early, and keep clear records of what you send and when.
 
 ## Scope note
-This guide provides first-step stabilization for handling an imminent deadline. It does not cover technical tax law, the appeals process for tax assessments, or representation at a First-tier Tribunal.
+These are first steps to help you avoid a preventable mistake when a deadline is close. Later stages (technical tax positions, penalties, formal notices, appeals) can need specialist advice.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Tax laws, including Schedule 36 powers and the 2026 penalty regimes, are subject to change. If the sums involved are significant or if you suspect a serious fraud investigation (e.g., Code of Practice 9), seek specialist legal advice immediately.
+This is general information, not legal or tax advice. Processes and wording vary by letter type and tax (Self Assessment, PAYE, VAT, Corporation Tax). If you’re unsure what you received, if the sums are large, or if you think it’s a formal information notice, get qualified advice promptly.
 
 ## Additional Resources
 - https://www.gov.uk/guidance/hmrc-compliance-checks-help-and-support
-- https://www.gov.uk/government/publications/general-information-about-compliance-checks-ccfs1a/about-compliance-checks-ccfs1a
-- https://www.gov.uk/government/publications/compliance-checks-checking-a-customers-tax-position-ccfs2/information-notices-ccfs2
-- https://www.gov.uk/hmrc-internal-manuals/compliance-handbook/ch223700
-- https://www.gov.uk/hmrc-internal-manuals/compliance-handbook/ch229300
+- https://www.gov.uk/guidance/get-help-if-hmrc-contacts-you-about-a-compliance-check
+- https://www.gov.uk/guidance/check-if-a-letter-youve-received-from-hmrc-is-genuine
+- https://www.gov.uk/guidance/check-if-a-qr-code-on-a-letter-youve-received-from-hmrc-is-genuine
+- https://www.legislation.gov.uk/ukpga/2008/9/schedule/36

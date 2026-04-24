@@ -1,93 +1,89 @@
----
+﻿---
 title: "What to do if… your mobile phone service is about to be suspended and you rely on it for banking codes"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "phone service about to be cut"
-  - "mobile service suspension notice"
-  - "phone bill overdue cut off"
-  - "late payment mobile service"
-  - "banking codes via text"
-  - "sms verification codes"
-  - "two factor login texts"
-  - "2fa texts not arriving"
-  - "locked out of online banking"
-  - "can’t receive bank otp"
-  - "need phone for bank login"
-  - "keep my mobile number"
-  - "urgent keep same number"
-  - "switch network keep number"
-  - "pay as you go emergency"
-  - "phone line barred incoming only"
-  - "sim stopped working soon"
-  - "banking app needs sms"
-  - "what do i do if my phone is cut off"
-  - "what do i do if i cant get banking texts"
-  - "what do i do if i cant pay my phone bill"
-  - "help i cant log into my bank"
-  - "help my phone is being suspended"
-  - "my mobile provider is cutting me off"
-  - "my bank verification is not working"
-  - "emergency mobile data uk"
-  - "vulnerable customer mobile protection"
-  - "ee basics social tariff"
-  - "voxi for now plan"
-  - "smarty social tariff uk"
-  - "bank otp backup method"
-  - "lost access to sms codes"
-  - "security settings online banking"
-  - "ofcom mobile suspension rules"
-  - "financial ombudsman banking access"
-last_reviewed: "2026-03-17"
+  - phone service about to be cut
+  - mobile service suspension notice
+  - phone bill overdue cut off
+  - late payment mobile service
+  - banking codes via text
+  - sms verification codes
+  - two factor login texts
+  - 2fa texts not arriving
+  - locked out of online banking
+  - can’t receive bank otp
+  - need phone for bank login
+  - keep my mobile number
+  - urgent keep same number
+  - switch network keep number
+  - pay as you go emergency
+  - phone line barred incoming only
+  - sim stopped working soon
+  - banking app needs sms
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… your mobile phone service is about to be suspended and you rely on it for banking codes (UK)
 
 ## Short answer
-Update your bank security settings immediately to an app-based or landline verification method and contact your mobile provider to request a "vulnerability stay" on the suspension.
+Act before the suspension happens: secure a non-SMS way to access your bank (or update your verification method) and contact your mobile provider immediately to stop or delay the bar.
 
 ## Do not do these things
-- Don’t click "payment" links sent via text or email; only use the official app or the number on your physical bill to avoid phishing.
-- Don’t attempt to port your number (using a PAC) until you have confirmed a backup login method with your bank, as you may lose access to codes during the transfer window.
-- Don’t repeatedly try to log in once the service is cut; three failed attempts usually triggers a hard lock on the account requiring a physical letter or branch visit.
-- Don’t assume a Wi-Fi connection allows you to receive standard SMS texts; most banking verification still requires a cellular signal for the SMS protocol.
-- Don’t wait until the line is fully disconnected to ask for help; providers have more power to pause a "pending" bar than to reconnect a terminated line.
+- Don’t click “pay now” links in texts/emails you weren’t expecting—use your provider’s official app/website or the number on your bill.
+- Don’t keep retrying bank logins until you’re locked out.
+- Don’t swap SIMs/eSIMs or change your number before you’ve updated your bank—this is how people get stuck without codes.
+- Don’t cancel your mobile service while trying to keep the same number (porting is easier when the line is still active).
+- Don’t share one-time passcodes with anyone (including anyone claiming to be your bank or mobile provider).
+- Don’t assume Wi-Fi alone will solve it—many banks still require a verification step tied to your registered number.
 
 ## What to do now
-1. **Log in to your banking app immediately while you still have service and change your "Security" or "Verification" settings.**  
-   Enable "In-app authentication" or "Digital Key" which uses the app and your phone’s biometric/PIN instead of SMS. If the bank allows it, add a landline or a trusted secondary mobile number as a backup for receiving codes.
+1. **Get into your banking right now (while texts still work) and set a backup access route.**  
+   Look for settings like “security”, “two-step verification”, “verification methods”, or “trusted devices”. Add at least one option that does **not** depend on SMS (for example, an in-app approval, authenticator app, or a voice/landline option if your bank supports it). If your bank offers backup codes, generate them and store them safely.
 
-2. **Call your bank's "Financial Difficulty" or "Vulnerability" team using the number on the back of your card.**  
-   Tell them: "I am at risk of losing my mobile service and I rely on it for account access." Ask them to record you as a vulnerable customer under FCA (Financial Conduct Authority) guidance, which may allow them to provide temporary physical security tokens or alternative access routes.
+2. **Call your bank using a trusted number and ask to move you off SMS codes today.**  
+   Use the number on the back of your card, your statement, or inside the bank’s official app/website (not a text message). Say: “My mobile service may be suspended; I need an alternative verification method so I can access my account.”  
+   If you can’t set this up digitally, ask what their **in-branch** option is and what ID to bring.
 
-3. **Contact your mobile provider and explicitly state that the phone is essential for accessing your finances.**  
-   Ask to speak to the "Vulnerability Team" or "Priority Support." Under Ofcom rules, providers must treat customers in financial difficulty fairly. Request a "Payment Truce" or a 14-day extension to keep the incoming SMS service active while you arrange a payment plan.
+3. **Contact your mobile provider’s billing/support and ask for a hold, extension, or payment plan that prevents the bar.**  
+   Ask three specific questions:  
+   - “Exactly when will the bar/suspension happen (date and time)?”  
+   - “Will I still be able to receive texts or make calls (even incoming only)?”  
+   - “What payment arrangement keeps my number active today?”  
+   If you’re in genuine financial difficulty, ask if they can move you to a cheaper tariff immediately or reduce restrictions while you pay.
 
-4. **Request your Porting Authorisation Code (PAC) by texting PAC to 65075 just in case.**  
-   This code is valid for 30 days. Having it now ensures you can move your number to a cheaper Pay-As-You-Go SIM or a social tariff if your current provider refuses to negotiate.
+4. **If you might need to switch providers quickly, request your switching code (PAC) now (while your SIM still works).**  
+   Text **PAC** to **65075** from the SIM tied to the number you need to keep, and save the reply. (A PAC is typically valid for a limited period, so keep it somewhere you can find quickly.)
 
-5. **Ask your provider to move you to a "Social Tariff" if you receive qualifying benefits.**  
-   Major UK networks offer mobile-specific social tariffs (such as EE Basics, VOXI For Now, or SMARTY Social Tariff) which cost approximately £10–£12 per month and do not require a credit check if you are already a customer.
+5. **Line up a “same-day backup phone path” in case the suspension happens anyway.**  
+   Pick one option you can do within hours, not days:
+   - A trusted friend/family phone you can use briefly to call your bank/provider.  
+   - Access via a bank branch if that’s the only way to regain control.  
+   - A temporary pay-as-you-go SIM/eSIM *only if your bank verification is already moved off SMS* or your number is safely in the middle of a switch you control.
 
-6. **Check if your bank has a physical "Branch Access" protocol for non-digital verification.**  
-   Ask exactly what ID is required (e.g., passport and recent utility bill) to perform urgent transfers or payments in person if you are locked out of the digital app.
+6. **If you’re eligible for cheaper phone packages, ask about “social tariffs” explicitly.**  
+   Some providers offer discounted broadband/phone packages for people on certain benefits (for example, Universal Credit or Pension Credit). Ask: “Do you offer a social tariff or essential/basic package I can move to today to keep my number active?”
+
+7. **If your provider won’t resolve it, start a formal complaint and keep a paper trail.**  
+   Note dates/times, who you spoke to, what was promised, and screenshots of warnings. If it remains unresolved, you can take it to an independent Alternative Dispute Resolution (ADR) scheme **once you’ve complained to the provider and either** it’s been **at least 8 weeks** since your initial complaint **or** you receive a **deadlock letter**.
 
 ## What can wait
-- You do not need to pay the full arrears immediately if you can agree to a smaller, good-faith payment to keep the line active.
-- You do not need to buy a new handset or change your data plan until the banking access is secured.
-- You do not need to resolve disputes about overcharges today; focus on preventing the service bar first and use the formal complaint process for billing errors later.
+- You don’t need to decide today whether to change phone model, upgrade, or shop for the “best” deal.
+- You don’t need to move every account to a new number tonight—focus only on the bank access you’ll need in the next 24–72 hours.
+- You don’t need to argue about blame right now; stabilise access first, dispute charges/complaints after you’re no longer at risk of losing service.
 
 ## Important reassurance
-Losing access to banking due to a mobile suspension is a known "digital exclusion" risk that banks and providers are trained to handle. You are not the first person to face this, and there are specific teams (Vulnerability and Financial Difficulty teams) whose entire job is to prevent you from being cut off from essential services.
+This is a very common failure point for modern banking, and it’s fixable. The panic comes from the feeling of a ticking clock—your job is simply to create *one* working route into your bank that doesn’t depend on your mobile texts.
 
 ## Scope note
-This guide provides first-step stabilization for maintaining banking access and preventing immediate mobile service disconnection. It does not cover long-term debt management or legal disputes regarding contract terms.
+These are first steps to stop the suspension, keep control of your number, and protect access to banking. Longer-term choices (switching providers, budgeting, debt advice) can come once your access is stable.
 
 ## Important note
-This information is for guidance only and does not constitute legal or financial advice. Banking security protocols and mobile provider policies are subject to change. Always verify phone numbers on official websites or the back of your debit card before calling.
+This guide is general information, not financial, legal, or telecoms advice. Provider policies and bank security processes vary, so use cautious, verified contact routes (official apps/websites and numbers on statements/cards) and ask for the exact options available on your account.
 
 ## Additional Resources
+- https://www.ofcom.org.uk/phones-and-broadband/switching-provider/switching-mobile
+- https://www.ofcom.org.uk/phones-and-broadband/saving-money/social-tariffs
 - https://www.citizensadvice.org.uk/consumer/phone-internet-downloads-or-tv/if-youre-struggling-to-pay-your-mobile-phone-internet-or-tv-bill/
-- https://www.ofcom.org.uk/phones-and-broadband/vulnerable-customers/treating-vulnerable-consumers-fairly
-- https://www.ofcom.org.uk/phones-and-broadband/vulnerable-customers/vulnerable-customers-must-be-treated-fairly
-- https://www.citizensadvice.org.uk/consumer/phone-internet-downloads-or-tv/dispute-a-phone-internet-or-tv-bill/
-- https://www.moneyhelper.org.uk/en/everyday-money/banking/beginners-guide-to-online-banking
+- https://www.ofcom.org.uk/phones-and-broadband/service-quality/adr-schemes
+- https://www.gov.uk/government/news/low-cost-broadband-and-mobile-phone-tariffs

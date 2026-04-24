@@ -1,106 +1,87 @@
----
+﻿---
 title: "What to do if… you suspect someone has remote access to your computer because the cursor moves on its own"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "app store account locked"
-  - "apple account locked suspicious purchases"
-  - "media and purchases disabled"
-  - "cannot download apps urgently"
-  - "app store locked out"
-  - "apple account locked not active"
-  - "google play purchases blocked"
-  - "play store payment declined account issue"
-  - "suspicious transaction payments profile"
-  - "payments profile suspended"
-  - "cannot update apps"
-  - "urgent access to essential apps"
-  - "in app purchases blocked"
-  - "subscriptions not renewing app store"
-  - "locked after purchase attempt"
-  - "payment verification needed google"
-  - "apple purchase disabled prompt"
-  - "app store security check"
-  - "account takeover suspected app store"
-  - "what do i do if app store locked"
-  - "what do i do if apple account suspended"
-  - "what do i do if google play payment declined"
-  - "what do i do if suspicious purchases lock"
-  - "help i cannot buy apps"
-  - "help i am locked out of app store"
-  - "help i need to update locked apps"
-  - "help i have suspicious purchase alert"
-  - "my app store is disabled"
-  - "my apple account is not active"
-  - "my google payments profile is suspended"
-  - "my apple account has been locked"
-  - "visible red alert app store"
-  - "smell of phishing text"
-  - "hear notification of fraud"
-  - "see disabled in app store message"
-  - "payment profile alert bell"
-  - "app store account locked error"
-  - "apple account locked fix"
-  - "google play account issues"
-last_reviewed: "2026-03-17"
+  - cursor moving by itself
+  - mouse moves on its own
+  - pointer moving on its own
+  - computer being controlled remotely
+  - someone has remote access
+  - remote access suspected
+  - hacked computer fear
+  - computer compromised
+  - unknown remote control
+  - screen acting on its own
+  - phantom mouse movement
+  - remote desktop without permission
+  - tech support scam worry
+  - remote access scam
+  - laptop hacked panic
+  - pc hacked panic
+  - suspicious computer activity
+  - account takeover risk
+  - safe immediate steps
+last_reviewed: "2026-03-08"
 ---
-# What to do if… you suspect someone has remote access to your computer because the cursor moves on its own (USA)
 
+# What to do if… you suspect someone has remote access to your computer because the cursor moves on its own (USA)
 ## Short answer
-Cease all purchase attempts and use the official "Request Reactivation" (Apple) or "Verify" (Google) prompts within your account settings to trigger a manual security review.
+Disconnect the computer from the internet immediately (turn off Wi-Fi and unplug Ethernet), and secure your email and financial accounts from a different, trusted device before doing anything else.
 
 ## Do not do these things
-- Don't repeatedly attempt the same purchase or toggle payment methods (this escalates automated fraud flags).
-- Don't follow links in text messages or emails claiming to be "fraud alerts" even if they appear urgent.
-- Don't provide your account password, two-factor codes, or remote device access to anyone claiming they can "expedite" the unlock.
-- Don't initiate a bank chargeback immediately, as this may result in a permanent platform-wide ban during the investigation.
+- Don’t keep using the computer to log into email, banking, or shopping accounts.
+- Don’t accept help from anyone who contacted you first (calls/pop-ups/messages claiming to be “support”).
+- Don’t install unfamiliar “security” tools or grant remote access to “fix” the problem.
+- Don’t factory reset a work/school computer without instructions from your IT/admin team.
+- Don’t enter personal details into “IC3 lookalike” sites—type the official address yourself rather than clicking ads or search results.
 
 ## What to do now
-1. **Record the specific error message and code displayed.**  
-   - Note if the screen says "Your Media & Purchases account has been disabled," "Apple Account locked/not active," or "Payments profile suspended."
-   - Identify specific error codes (e.g., Apple's "Support Code" or Google's "OR-FGEMF" codes).
+1. **Isolate the computer from the internet (right now).**  
+   Turn off Wi-Fi, unplug Ethernet, and disable Bluetooth if possible. If you can’t safely regain control and it looks actively controlled, **hold the power button to shut down** after disconnecting from the internet.
 
-2. **Trigger the official platform restoration pathway.**  
-   - **For Apple Accounts:** Tap the **Continue** or **Request Access** button directly on the "Account Locked" alert. If no button appears, visit the official Apple Support "Media & Purchases" reactivation portal.
-   - **For Google Accounts:** Sign in to **payments.google.com**, click the **Alerts (bell icon)** at the top right, and select **Verify Now**.
+2. **Use a separate trusted device to lock down your most important accounts.**  
+   Start with:
+   - **Email** (controls password resets)
+   - **Banking/payment apps**
+   - **Your Apple/Google/Microsoft account**  
+   Change passwords and use “sign out of all devices/sessions” where available. Turn on multi-factor authentication if it isn’t already enabled.
 
-3. **Submit required verification documents only through official portals.**  
-   - Upload government ID or payment card statements only when prompted by the secure `apple.com` or `google.com` domains.
-   - Ensure the billing name and ZIP code on the documents match your account settings exactly.
+3. **If it’s a work/school device, contact your IT/security team immediately.**  
+   Tell them you suspect unauthorized remote access and that you disconnected the device from the internet. Follow their containment steps.
 
-4. **Address "Security Reason" locks with a password reset.**  
-   - If the message explicitly states "locked for security reasons," navigate to **iforgot.apple.com** or the Google Account recovery page.
-   - Complete the two-factor authentication prompts to verify your identity and establish a new password.
+4. **Capture a minimal record of what happened.**  
+   Note the date/time and what you saw (cursor movement, windows opening, new programs). If safe, take a quick phone photo/video. This can help IT, banks, or a report later.
 
-5. **Verify card status with your financial institution.**  
-   - Call the number on the back of your payment card to check for "soft blocks" on digital store transactions.
-   - Confirm if the bank has flagged a specific transaction as fraudulent, which may have triggered the app store lock.
+5. **After accounts are secured, check for remote-access tools or new user accounts (only if you can do this safely).**  
+   If you can safely use the computer **while offline**, look for unfamiliar remote desktop/control apps and unfamiliar user accounts. Avoid clicking pop-ups or unknown files.
 
-6. **Transition to browser-based services for urgent needs.**  
-   - Access essential email, banking, or work tools via a web browser (Safari/Chrome) instead of the locked app.
-   - Avoid creating a second, temporary account on the same device, as this can lead to both accounts being linked and locked.
+6. **Keep it offline until you have a safe plan to clean it.**  
+   If you already have reputable security software installed, you can plan a full scan and updates once you’re confident the device isn’t being actively controlled. If you’re unsure, keep the device offline and get qualified help.
 
-7. **Check Screen Time restrictions (Apple only).**  
-   - Navigate to **Settings → Screen Time → Content & Privacy Restrictions**.
-   - Ensure **iTunes & App Store Purchases** is set to "Allow" to rule out local device settings.
+7. **Report it if there’s financial loss, account takeover, or suspected identity theft.**  
+   - For cyber-enabled fraud/cybercrime reports, use the FBI’s **Internet Crime Complaint Center (IC3)**.  
+   - If you believe your identity information may have been used or stolen, report and follow recovery steps via **IdentityTheft.gov** (FTC).  
 
 ## What can wait
-- You do not need to replace your hardware or device.
-- You do not need to cancel all active subscriptions immediately; most will remain in a "grace period" during the lock.
-- You do not need to decide on a new primary email or payment ecosystem today.
+- You don’t need to decide immediately whether you’ll wipe/reinstall the computer.
+- You don’t need to prove exactly how they got in right now.
+- You don’t need to secure every single account this minute—do email + financial + primary device accounts first.
 
 ## Important reassurance
-Digital storefronts use high-sensitivity automated filters to protect your financial data from unauthorized use. A lock does not necessarily mean your identity is stolen; it often indicates a mismatch in location, network, or billing data that requires a human reviewer to confirm.
+Sometimes cursor movement has a benign cause (faulty mouse/USB device, touchpad issues, accessibility settings, lag). But treating it as a possible compromise for the next hour is a safe way to prevent irreversible harm—especially to accounts and money.
 
 ## Scope note
-This guide is for immediate stabilization and account recovery. It does not cover legal disputes regarding unauthorized charges or long-term identity theft recovery.
+This is first-steps-only guidance to stop further damage and buy time. If the device is confirmed compromised, follow-up steps may involve professional technical support, account recovery processes, and formal reporting.
 
 ## Important note
-This information is for general guidance and does not constitute professional security or financial advice. Account recovery timelines are determined solely by the platform providers (Apple/Google) and may take 24 to 48 hours for review. Always verify you are on a legitimate `apple.com` or `google.com` domain before entering sensitive data.
+This is general information, not professional, legal, or forensic advice. If you believe you’re in immediate danger or someone is actively threatening you, call emergency services.
 
 ## Additional Resources
-- https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams
-- https://consumer.ftc.gov/articles/malware-how-protect-against-detect-and-remove-it
-- https://www.staysafeonline.org/articles/can-a-hacker-take-over-your-computer-what-to-know-about-remote-access-trojans
-- https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers
-- https://consumer.ftc.gov/media/79887
+- https://www.ic3.gov/
+- https://complaint.ic3.gov/
+- https://www.ic3.gov/PSA/2025/PSA250919
+- https://www.identitytheft.gov/
+- https://www.ftc.gov/news-events/topics/identity-theft/report-identity-theft
+- https://www.fbi.gov/investigate/cyber
+- https://www.cisa.gov/stopransomware/ransomware-guide

@@ -1,109 +1,92 @@
----
+﻿---
 title: "What to do if… your computer boots to a recovery screen saying the operating system is missing or damaged"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "unexpected admin account"
-  - "new local administrator"
-  - "unknown administrator user"
-  - "random admin on login screen"
-  - "windows new admin account"
-  - "mac new admin user"
-  - "linux new sudo user"
-  - "account i did not create"
-  - "computer shows extra user"
-  - "new user appears suddenly"
-  - "possible hacked computer"
-  - "suspicious privileged account"
-  - "admin account added overnight"
-  - "device compromise warning"
-  - "unauthorised account on pc"
-  - "local admin created without me"
-  - "unknown account has admin rights"
-  - "help i have a new admin user"
-  - "my pc has a new account"
-  - "what do i do if a new admin appears"
-  - "what do i do if my computer was hacked"
-  - "help i see an unknown user"
-  - "my login screen shows a new name"
-  - "unrecognized administrator account"
-  - "ghost admin account windows"
-  - "strange user on login screen"
-  - "pc security breach admin"
-  - "unauthorized privilege escalation"
-  - "unwanted computer user account"
-  - "suspicious account on laptop"
-last_reviewed: "2026-03-17"
+  - os missing screen
+  - os damaged recovery screen
+  - operating system not found
+  - windows boot failure
+  - pc won’t start
+  - stuck in recovery
+  - boot device not found
+  - no bootable device
+  - startup repair loop
+  - blue recovery screen
+  - mac question mark folder
+  - flashing question mark folder
+  - disk not detected
+  - possible drive failure
+  - worried about losing files
+  - need data off laptop
+  - bios boot order wrong
+  - update broke windows
+  - windows recovery environment
+  - system won’t boot today
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your computer boots to a recovery screen saying the operating system is missing or damaged (USA)
 
 ## Short answer
-Assume the device is compromised: **disconnect it from all networks immediately** and do not log into the suspicious account. Secure your sensitive accounts from a separate, trusted device before attempting to investigate or wipe the machine.
+Protect your data first: stop repeated restarts, unplug external drives, and avoid any reset/erase option until you’re confident your important files are safe.
 
 ## Do not do these things
-- Do not log into the suspicious account to "see what is inside" or "check settings."
-- Do not keep using the computer for email, banking, work, or password managers.
-- Do not delete the suspicious account immediately, as this may destroy digital evidence or logs needed for recovery.
-- Do not install "fix-it" tools or follow unverified technical advice from social media.
-- Do not allow anyone to remotely access the device unless you initiated the contact through an official, verified support channel.
-- Do not enter your BitLocker or FileVault recovery keys while the device is in an uncertain state unless prompted by an offline scan tool you initiated.
+- Don’t pick **Reset this PC**, **Erase**, **Factory reset**, or anything that mentions removing files unless you’re 100% sure you don’t need data from the internal drive.
+- Don’t keep power-cycling repeatedly — if the drive is failing, extra cycles can reduce recovery chances.
+- Don’t install random “boot fix” utilities from ads or pop-ups.
+- Don’t plug in backup drives if you suspect malware/ransomware — keep backups offline until you’re confident the system is clean.
 
 ## What to do now
-1. **Physically isolate the device from the network.**
-   - Turn off the Wi-Fi using a hardware switch or software menu.
-   - Unplug the Ethernet cable.
-   - Disconnect all VPNs and remove any unknown USB drives or peripherals.
+1. **Capture the exact message and any error code.**
+   - Take a photo of the screen and write down the wording.
+   - Note what happened right before (update, power loss, new hardware, spill/drop).
 
-2. **Record the visible details using a separate camera.**
-   - Take a clear photo of the login screen showing the new account name.
-   - Note the exact spelling and any profile pictures associated with the account.
-   - Document if your own account is still present and whether it still has its expected privileges.
+2. **Unplug anything non-essential.**
+   - Remove USB drives, SD cards, external hard drives/SSDs, docks, and adapters.
+   - Restart once with only keyboard/mouse (and power) connected.
 
-3. **Secure your primary digital identity from a different device.**
-   - Use a separate phone or computer (one you are certain is safe) to change your main email password.
-   - Change passwords for banking, primary cloud storage, and any account that uses the same password as your computer login.
-   - Use the "Sign out of all sessions" or "Check active devices" feature on sites like Google, Microsoft, or Apple.
+3. **Do the safest boot checks first.**
+   - If your computer has a boot-device menu, confirm it’s trying to start from the internal drive (not USB).
+   - If you recently added a drive, shut down fully and disconnect that new drive once to rule out “booting the wrong device.”
 
-4. **Escalate immediately if the device is managed by an employer or school.**
-   - Stop all actions and contact your IT helpdesk or Security Operations Center.
-   - Tell them: "I have identified an unauthorized local administrator account on my managed device; I have taken it offline and am awaiting instructions."
+4. **Use built-in repair options before anything that wipes data.**
+   - **Windows:** from the recovery menu, choose **Troubleshoot → Advanced options → Startup Repair** (wording varies by device).
+   - **Mac:** if you see a flashing folder with a question mark, start macOS Recovery and run **Disk Utility → First Aid** on the startup disk first.
 
-5. **Determine if the account is a system-managed "Shadow" or "Utility" account.**
-   - **Research the account name using a separate device.**
-   - Check if the name matches Windows 11 "Administrator Protection" (25H2+) features or specific manufacturer utility accounts (e.g., OEM support accounts).
-   - If the account name appears to be a random string or a person's name you do not know, treat it as a high-threat compromise.
+5. **If repair isn’t clearly working and you need the files, switch to “data-first mode.”**
+   - Stop attempts that can write to the disk (reinstall/reset/advanced boot commands).
+   - Plan to copy data off the internal drive using a cautious approach (trusted technician or reputable data-recovery provider; if you’re DIYing, avoid actions that modify the internal drive and stop if you’re unsure).
+   - If the drive disappears from boot options, makes clicking noises, or the system reports it can’t repair the disk, treat it as possible hardware failure and prioritize professional help.
 
-6. **Initiate an offline security scan if you are on Windows.**
-   - **Open Windows Security, go to Virus & Threat Protection, and select Scan Options.**
-   - **Select Microsoft Defender Offline scan and click Scan Now.**
-   - Note that the computer will restart and run in a restricted environment; ensure you have your BitLocker recovery key available on a separate device before starting, as it may be requested.
+6. **If you suspect malware/ransomware (only if there were signs):**
+   - Disconnect from Wi-Fi/Ethernet.
+   - Keep backup drives disconnected; don’t restore from backup until the situation is assessed.
 
-7. **Prepare for a clean reinstallation if the source is unverified.**
-   - **Back up only essential, non-executable files (photos, documents) to a brand-new external drive.**
-   - **Wipe the internal drive and reinstall the operating system using a "Clean Install" method from verified installation media.**
-   - Do not restore settings or "Applications" from a backup made after the suspicious account appeared.
-
-8. **Report the incident if there is evidence of financial fraud or data theft.**
-   - File a report with the **FBI Internet Crime Complaint Center (IC3)** if you suspect a remote hack or extortion.
-   - Visit **identitytheft.gov (FTC)** if your personal information or Social Security number may have been accessed via the device.
+7. **If the device is under warranty, preserve your options now.**
+   - Save a copy of the warranty (if you have it) and keep your receipt/order confirmation.
+   - Keep the error photos and the list of what you tried.
+   - Contact the seller/manufacturer support channel with the exact message and error code, and avoid steps that could be treated as “unauthorized repair.”
 
 ## What can wait
-- You do not need to figure out "how" the attacker got in before taking protective steps.
-- You do not need to notify all your contacts yet; focus on email and financial institutions first.
-- You do not need to buy new hardware unless a professional confirms a firmware-level infection.
+- You don’t have to decide right now whether you’ll reinstall the OS, replace the drive, or replace the computer.
+- You don’t need to run advanced command-line boot repairs while you’re panicked.
+- You don’t need to connect backup drives or re-enable syncing immediately.
 
 ## Important reassurance
-It is normal to feel concerned when your system security is uncertain. Identifying the account is the first step in stopping further access. By disconnecting the device, you have already removed the attacker's primary way to control the machine or steal more data.
+This problem often follows updates, power interruptions, incorrect boot settings, or a failing drive. Going slowly and choosing data-first steps is a normal, smart response — and it’s often what prevents permanent loss.
 
 ## Scope note
-This guide provides first-step stabilization only. It does not cover long-term forensic analysis, legal proceedings, or corporate incident response protocols.
+These are first steps to stabilize, avoid irreversible mistakes, and get you to a safe next decision (repair, recovery, or data retrieval). If the disk is failing or encrypted, specialist help may be needed.
 
 ## Important note
-This information is for general guidance and is not a substitute for professional cybersecurity, legal, or law enforcement advice. If the computer is owned by an organization, their specific security policies take precedence. If you suspect your financial accounts are actively being accessed, contact your bank's fraud department immediately.
+This guide is general information, not professional IT, legal, or data-recovery advice. If you’re unsure whether an option erases data, assume it might and pause until you can confirm.
 
 ## Additional Resources
-- https://support.microsoft.com/en-us/windows/startup-repair-85deb0b9-fa3d-44a3-a3d0-d0f1515c2c9b
-- https://support.microsoft.com/en-us/windows/windows-recovery-environment-0eb14733-6301-41cb-8d26-06a12b42770b
-- https://support.microsoft.com/en-us/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5
-- https://support.microsoft.com/en-us/windows/recovery-drive-abb4691b-5324-6d4a-8766-73fab304c246
-- https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/fix-common-issues/no-boot
+- https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/windows-boot-issues-troubleshooting
+- https://support.microsoft.com/en-us/topic/use-bootrec-exe-in-the-windows-re-to-troubleshoot-startup-issues-902ebb04-daa3-4f90-579f-0fbf51f7dd5d
+- https://support.microsoft.com/en-gb/topic/-an-operating-system-wasn-t-found-error-when-booting-windows-2c149e3a-dc37-0322-4d79-336f3888906b
+- https://support.apple.com/en-euro/102601
+- https://consumer.ftc.gov/articles/warranties
+- https://www.cisa.gov/stopransomware/ransomware-guide
+- https://csrc.nist.gov/files/pubs/other/2022/02/24/getting-started-with-cybersecurity-risk-management/final/docs/quick-start-guide--ransomware.pdf

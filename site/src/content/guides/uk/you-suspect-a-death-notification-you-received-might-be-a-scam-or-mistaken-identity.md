@@ -1,87 +1,79 @@
----
+﻿---
 title: "What to do if… you suspect a death notification you received might be a scam or mistaken identity"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "death notification scam"
-  - "fake bereavement message"
-  - "mistaken identity death notice"
-  - "unexpected death call"
-  - "death certificate confusion"
-  - "funeral director impersonation"
-  - "registrar verification"
-  - "tell us once confusion"
-  - "suspicious bereavement email"
-  - "bereavement phishing"
-  - "scam text about a death"
-  - "scam phone call about a death"
-  - "being asked for money after death"
-  - "urgent payment request after death"
-  - "unknown relative death claim"
-  - "wrong person declared dead"
-  - "identity mix up death record"
-  - "shock after death message"
-  - "verifying if someone died"
-  - "help i got a fake death text"
-  - "my relative is not dead but i got a call"
-  - "what do i do if i get a fake death email"
-  - "help i think this funeral bill is a scam"
-  - "death notification service spoofing"
-  - "fake coroner call"
-  - "suspicious police death notice"
-  - "urgent inheritance fee scam"
-  - "unexpected death notification UK"
-  - "how to verify a death in the UK"
-  - "report bereavement fraud"
-last_reviewed: "2026-03-16"
+  - death notification scam
+  - fake bereavement message
+  - mistaken identity death notice
+  - unexpected death call
+  - death certificate confusion
+  - funeral director impersonation
+  - registrar verification
+  - tell us once confusion
+  - suspicious bereavement email
+  - bereavement phishing
+  - scam text about a death
+  - scam phone call about a death
+  - being asked for money after death
+  - urgent payment request after death
+  - unknown relative death claim
+  - wrong person declared dead
+  - identity mix up death record
+  - shock after death message
+  - verifying if someone died
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… you suspect a death notification you received might be a scam or mistaken identity (UK)
 
 ## Short answer
-Stop all communication immediately and do not provide any personal or financial information. Verify the notification using official contact details you find yourself, such as through a local register office, the official Tell Us Once phone line, or known family members.
+Pause and don’t give any details or money. Verify the claim using contact routes you choose and already trust — not the number, email, or link that contacted you.
 
 ## Do not do these things
-- Don't send money, bank details, or one-time passcodes (OTPs) to "release" a body, pay for "urgent" funeral costs, or process an inheritance.
-- Don't click links, download attachments, or scan QR codes in an unexpected death notification to "view the certificate" or "confirm identity".
-- Don't call back using a number provided in the message or use the "redial" function on your phone.
-- Don't share sensitive identity documents like your passport, driving licence, or National Insurance number with the caller or sender.
-- Don't assume a notice is real just because it contains your name, address, or the name of a real relative; this data is often sourced from breaches or social media.
+- Don’t send money, bank details, one-time passcodes, copies of ID, or your address “to confirm who you are”.
+- Don’t call back on the number in the message or click links/QR codes to “view documents” or “open a case file”.
+- Don’t post about it on social media to “find out if it’s true” (it can spread the scam and expose private details).
+- Don’t forward the message widely in panic — if you warn others, label it clearly as **unverified**.
+- Don’t assume it’s genuine just because the caller knows your name or some personal details.
 
 ## What to do now
-1. **End the contact immediately without providing a reason.** If you are on a call, hang up; if it is a text or email, do not reply or click any "unsubscribe" links.
-2. **Record the specific details of the communication for reporting purposes.** Note the exact time, the displayed phone number or email address, the name used by the contact, and any specific "case reference" or "invoice number" they mentioned.
-3. **Verify the claim through an independent, trusted channel.** 
-   - If they claim to be a Registrar or Council: contact the Register Office in the area where the person lived using a number found on GOV.UK or the official council website.
-   - If they claim to be from "Tell Us Once": call the official service on 0800 085 7308 to verify if a notification exists (Note: this service is for England, Scotland, and Wales only).
-   - If they claim to be a Funeral Director: find the business on the National Association of Funeral Directors (NAFD) or SAIF website and call their public switchboard.
-   - If the person named is known to you: call a known, trusted number for that person or their immediate family.
-4. **Report the suspicious communication to the relevant UK authorities.** 
-   - Forward suspicious texts to **7726**.
-   - To report a suspicious phone call, text "Call" followed by the scammer's number to **7726**.
-   - Forward suspicious emails to **report@phishing.gov.uk**.
-5. **Contact your bank immediately if you have shared financial details or made a payment.** Use the number on the back of your card or the bank’s official app to secure your account and stop any pending transactions.
-6. **File an official fraud report if you have lost money or believe your identity is compromised.** 
-   - In England, Wales, or Northern Ireland: report to **Report Fraud** (the successor to Action Fraud) at reportfraud.police.uk or call 0300 123 2040.
-   - In Scotland: report directly to **Police Scotland** by calling 101.
-7. **Check your credit report if you have shared sensitive ID documents.** Use a service to ensure no new accounts or loans are being opened in your name using the data you shared.
+1. **Stop the conversation cleanly.** Say: “I can’t discuss this. I will verify independently.” Then hang up / stop replying.
+2. **Write down what you received (while you still can).** Note the date/time, phone number/email, exact wording, any “reference number”, and what they asked for. Screenshot texts/emails.
+3. **Verify using trusted routes you find yourself (pick what fits):**
+   - **If they claim to be police, a hospital, a coroner, a council, or a registrar:** find the organisation’s main number yourself (official website or trusted directory) and ask to be put through to the relevant team. Share only the minimum details needed to check whether the contact was genuine.
+   - **If they named a funeral director:** find the funeral director’s public switchboard number yourself and ask if they are dealing with that person (they may limit what they can confirm — that’s fine).
+   - **If the person is known to you:** contact a close relative/friend of the person using your existing contact list (not a number supplied in the message) and ask if they can confirm what’s going on.
+4. **If they mention death registration or “Tell Us Once”:** treat that as a red flag until verified. In real cases, “Tell Us Once” is used after a death is registered and you’re given a reference. Do not share details with a caller/text; verify via official registrar/council contact details you find yourself.
+5. **If you’ve been asked for money (funeral costs, “release fees”, travel, inheritance processing):** treat it as a scam until proven otherwise. Say you will only deal with anything **in writing** after you’ve independently verified who they are.
+6. **Report the message (choose the right route):**
+   - **Suspicious text:** forward the text to **7726** (free on most UK networks).
+   - **Suspicious email:** forward it to **report@phishing.gov.uk**.
+   - **Suspicious website/link:** report it using the official GOV.UK/NCSC phishing reporting guidance.
+   - **If you lost money or shared financial details:** report fraud to **Action Fraud** (England, Wales, Northern Ireland). If you’re in **Scotland**, report to **Police Scotland** (101 if it’s not an emergency).
+7. **Do a quick personal safety check (10 minutes):**
+   - If you shared bank details/authorised a payment: contact your bank immediately using the number on your card/app.
+   - If you shared copies of ID or personal data: assume they may try follow-up impersonation. Be cautious about unexpected calls/messages and avoid sharing anything else until you’ve verified who you’re dealing with.
 
 ## What can wait
-- You do not need to respond to "urgent" deadlines or threats of legal action; these are standard pressure tactics used by scammers.
-- You do not need to pay any "holding fees" or "document release fees" immediately; official institutions do not operate this way.
-- You do not need to notify other family members until you have verified the facts yourself to avoid spreading unnecessary alarm.
+- You do not need to decide right now whether to “report” versus “just block” — first, stop contact, verify the facts, and secure accounts.
+- You do not need to contact every organisation “just in case” until you have confirmation it’s real.
+- You do not need to respond to threats about “delays”, “legal consequences”, or “extra fees” — urgency is a common scam tactic.
 
 ## Important reassurance
-Receiving news of a death is a high-stress event that can bypass your normal critical thinking. Scammers use this "emotional hijack" deliberately. Taking 15 minutes to pause and verify through official channels is a responsible, protective action and does not mean you are being disrespectful to the deceased.
+A death notice can make it hard to think clearly. Feeling shocked, numb, tearful, or unable to judge what’s real is a normal reaction. Slowing everything down and verifying through channels you control is the safest first move.
 
 ## Scope note
-This guide covers first-step stabilization and verification of suspicious death-related communications. It does not cover the legal or administrative steps required once a death is confirmed as genuine.
+These are first steps to reduce harm and confirm what’s real. If it turns out to be genuine, the next stage (bereavement support and practical arrangements) can be handled once you’re steadier.
 
 ## Important note
-This information is for guidance only and does not constitute legal or financial advice. Verification processes and reporting bodies can change; always prioritize information from official GOV.UK or police sources. Northern Ireland has separate registration processes via the General Register Office (NI).
+This is general information, not legal, financial, or medical advice. Scams and official processes vary across the UK and over time; when unsure, default to not sharing personal information and verifying via independently found official contact details.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/consumer/scams/check-if-something-might-be-a-scam/
-- https://www.gov.uk/after-a-death
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-call
+- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/7726-reporting-scam-texts-and-calls
+- https://www.reportfraud.police.uk/
 - https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once
-- https://www.reportfraud.police.uk/identity-fraud-and-identity-theft/
-- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/

@@ -1,91 +1,72 @@
----
+﻿---
 title: "What to do if… your travel booking has the wrong gender marker and you are worried it will trigger document checks"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "wrong gender on ticket"
-  - "wrong gender marker booking"
-  - "gender marker mismatch travel"
-  - "airline booking gender error"
-  - "passport gender vs booking"
-  - "advance passenger information mismatch"
-  - "api details incorrect"
-  - "travel document check worry"
-  - "check-in gender marker issue"
-  - "boarding pass gender wrong"
-  - "title mr ms mismatch travel"
-  - "booking details do not match passport"
-  - "international travel gender marker"
-  - "document checks at airport"
-  - "travel booking correction"
-  - "flight reservation personal details"
-  - "gender marker typo booking"
-  - "eurostar api gender mismatch"
-  - "anxiety about border checks"
-  - "passenger details mismatch"
-  - "what do i do if gender is wrong on flight"
-  - "what do i do if ticket gender mismatch"
-  - "what do i do if api gender is wrong"
-  - "what do i do if passport and ticket gender differ"
-  - "help i put the wrong gender on my booking"
-  - "help i am worried about airport document checks"
-  - "help i have a gender mismatch on my boarding pass"
-  - "my booking gender does not match my passport"
-  - "my airline ticket has the wrong sex marker"
-  - "wrong gender on eurostar booking"
-  - "uk eta gender mismatch help"
-  - "eu ees gender marker error"
-  - "boarding denied for gender mismatch"
-  - "how to change gender on airline ticket 2026"
-  - "mismatched passport and booking gender"
-  - "airport check-in gender error"
-last_reviewed: "2026-03-17"
+  - wrong gender on ticket
+  - wrong gender marker booking
+  - gender marker mismatch travel
+  - airline booking gender error
+  - passport gender vs booking
+  - advance passenger information mismatch
+  - api details incorrect
+  - travel document check worry
+  - check-in gender marker issue
+  - boarding pass gender wrong
+  - title mr ms mismatch travel
+  - booking details don’t match passport
+  - international travel gender marker
+  - document checks at airport
+  - travel booking correction
+  - flight reservation personal details
+  - gender marker typo booking
+  - eurostar api gender mismatch
+  - anxiety about border checks
+  - passenger details mismatch
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your travel booking has the wrong gender marker and you are worried it will trigger document checks (UK)
 
 ## Short answer
-Ensure the Advance Passenger Information (API) / Secure Flight Passenger Data (SFPD) is updated to match the passport you will present, as this digital record is what carriers use to verify your permission to travel with the UK Home Office or international border authorities.
+Update the booking’s travel-document details (often called “API” or “passport details”) so the gender marker matches the passport you will actually present, and save written confirmation that it’s been corrected.
 
 ## Do not do these things
-- Do not leave the correction until the day of travel, as 2026 carrier rules require automated pre-clearance (ETA/EES) that may be blocked by data mismatches.
-- Do not cancel the entire booking or pay for a "name change" fee immediately; gender marker and "Title" (Mr/Ms) corrections are generally handled as free data amendments rather than passenger transfers.
-- Do not assume that a matching "Title" on the printed ticket overrides a mismatch in the digital API/passport data fields.
-- Do not volunteer medical or transition-related documentation at check-in unless specifically requested by a supervisor for a secondary identity check.
-- Do not attempt to travel if your passport itself is expired or the physical document is damaged, regardless of whether the booking details are correct.
+- Don’t leave it until the day of travel — mismatches can trigger manual checks and delays.
+- Don’t cancel and rebook in a rush if the operator can correct the passenger/travel-document details — rebooking can add fees and new errors.
+- Don’t assume the visible title (Mr/Ms/Mx) is the key field — the border-check data usually sits in “API / passport details.”
+- Don’t share extra personal/medical documents at check-in unless you choose to — most fixes are simple data corrections.
+- Don’t travel on an invalid or incorrect passport. If your passport itself is not correct for travel, focus on resolving that first and only travel with a valid document.
 
 ## What to do now
-1. **Identify the specific document you will present at the border and treat it as the absolute source of truth.** For most international journeys, this is your passport; ensure your booking matches the "Sex" or "Gender" field exactly as it appears on that document.
-2. **Access the "Manage Booking" or "Advance Passenger Information (API)" section on the carrier's website.** 
-   - Look for terms like "Passport Details," "Passenger Data," or "SFPD" (Secure Flight Passenger Data).
-   - For Eurostar, note that submitted API is often encrypted; you may need to "resubmit" a completely new API form rather than editing the existing one.
-3. **Correct the gender marker in the API fields to align with your passport.** 
-   - If the system is locked, contact the carrier’s customer service via chat or phone and state: "I need to update the gender/sex field in my Advance Passenger Information to match my travel document."
-   - For travel to the USA, be aware that 2026 protocols (under US Executive Order 14168) strictly require a binary "M" or "F" in the transmission; if your passport has an "X," ask the carrier which binary marker they require for their system to pass validation.
-4. **Verify that your UK Electronic Travel Authorisation (ETA) or EU Entry/Exit System (EES) record is linked correctly.** 
-   - If you are a non-visa national entering the UK, check that your ETA gender matches your passport; if they differ, you must apply for a new ETA.
-   - If you are a UK citizen entering the EU, ensure your EES biometric profile (if already created on a previous trip) aligns with your current passport details.
-5. **Request a written confirmation or take a screenshot of the updated "Confirmed" status.** 
-   - Ensure you have the booking reference and the names of the passengers visible in the confirmation.
-6. **Arrive at the terminal at least 60 minutes earlier than the standard recommended time if the online update failed.** 
-   - Go directly to a staffed check-in desk or "Special Assistance" point rather than an automated kiosk to have the API manually verified and "pushed" through the system.
+1. **Pick the document you will present and treat it as the “source of truth.”** For most international travel, that’s your **passport**.
+2. **Find the “API / travel document / passport details” section for your trip.**  
+   - In the operator’s “Manage booking / My booking,” look for **Advance Passenger Information (API)**, “passport details,” or “travel document details.”  
+   - If you booked via an agent, check both the agent portal and the operator’s own booking page (sometimes only one can edit these fields).
+3. **Correct the gender marker so it matches the passport you’ll use.**  
+   - If you can edit it online, update it there.  
+   - If you can’t, contact the airline/operator (or your agent) and ask them to **update the gender/sex field in your API/passport details on the booking** so it matches your passport.
+4. **Ask about deadlines if you’re close to departure.** Some operators ask for API by a set time before travel, while others allow it up to departure. If you’re within a day or two, say: “I’m travelling soon — can you confirm this update has taken effect in the API/passport details?”
+5. **Save quick proof you can show calmly.** Keep a screenshot or written confirmation (email/chat) plus your booking reference and journey details in one place on your phone.
+6. **If you’re travelling imminently and can’t get through on phone/chat:** go early to a **staffed check-in / ticket office** and ask them to verify and correct the **API/passport details** before you join the main check-in/boarding flow.
 
 ## What can wait
-- You do not need to decide now whether to file a formal complaint about the booking system's inclusivity or lack of options.
-- You do not need to update your gender on every frequent flyer program or saved traveler profile tonight.
-- You do not need to research the specific gender laws of your destination unless you are concerned about local police interactions beyond the airport/station.
+- You do not need to decide now whether to complain, request refunds, or change future booking habits.
+- You do not need to explain personal history or provide documents beyond your passport unless you want to.
+- You do not need to fix every saved traveller profile tonight — focus on the specific trip you’re taking.
 
 ## Important reassurance
-Digital data mismatches are common clerical issues that carriers are equipped to resolve daily. Taking a safe pause now to verify these details is the standard way to prevent a secondary check later; your anxiety about the process is a normal reaction to complex border systems, but the problem is a fixable data error, not a personal or legal failure.
+This kind of mismatch is usually treated as a booking-data problem, not something you need to justify. Once the API/passport details match the passport you’ll present, you’ve reduced the main trigger for delays — and giving yourself extra time can cover any manual verification.
 
 ## Scope note
-This guide provides first-step stabilization for correcting booking data to match travel documents. It does not cover the legal process for changing a passport gender marker, nor does it provide legal defense for visa or immigration issues.
+First steps only, to reduce disruption and prevent avoidable document-check problems. It doesn’t cover longer-term identity document changes, formal complaints, or detailed destination-specific entry rules.
 
 ## Important note
-This information reflects 2026 UK border directions and carrier policies but is not legal advice. Border requirements can change without notice, and individual carriers may have proprietary software constraints. For travel to high-risk jurisdictions, consult the Foreign, Commonwealth & Development Office (FCDO) travel advice.
+This is general information, not legal advice. Travel operators and border processes can change, and different routes/destinations can apply different checks. If you feel unsafe or anticipate harassment, consider travelling with a trusted companion and using staffed service points rather than self-service kiosks.
 
 ## Additional Resources
-- https://www.abta.com/help-and-complaints/frequently-asked-questions/name-one-my-travel-tickets-has-been-mis-spelt-can-my
-- https://www.abta.com/tips-and-advice/planning-and-booking-a-holiday/passports-and-visas
-- https://www.gov.uk/foreign-travel-advice
-- https://www.gov.uk/guidance/air-travel-checklist-for-travel-from-the-uk
-- https://www.caa.co.uk/passengers-and-public/resolving-travel-problems/how-the-caa-can-help/alternative-dispute-resolution/
+- https://www.eurostar.com/uk-en/travel-info/your-trip/travel-documents/advance-passenger-information
+- https://www.britishairways.com/content/information/passports-visas-and-api
+- https://www.britishairways.com/travel/webforms/public/en_gb?eId=120001&wfpId=apis_groups
+- https://www.gov.uk/government/publications/exit-checks-on-passengers-leaving-the-uk/exit-checks-fact-sheet
+- https://www.gov.uk/changing-passport-information/gender

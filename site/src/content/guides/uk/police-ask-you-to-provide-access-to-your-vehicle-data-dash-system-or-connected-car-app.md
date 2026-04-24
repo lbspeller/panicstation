@@ -1,89 +1,70 @@
----
+﻿---
 title: "What to do if… police ask you to provide access to your vehicle data, dash system, or connected car app"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "police ask for dashcam footage"
-  - "police want my dashcam sd card"
-  - "asked to hand over dash cam"
-  - "asked to unlock car app"
-  - "police want connected car data"
-  - "telematics data request"
-  - "vehicle data download request"
-  - "infotainment system data request"
-  - "black box car data request"
-  - "event data recorder request"
-  - "asked to share car location history"
-  - "asked to log into car app"
-  - "asked to give phone passcode"
-  - "officer asked for video evidence"
-  - "consent to search digital devices"
-  - "police request evidence from my car"
-  - "asked to export trip logs"
-  - "asked to show drive history"
-  - "police want vehicle telematics"
-  - "asked for infotainment data"
-  - "what do i do if police want my car data"
-  - "what do i do if police ask for my dashcam"
-  - "what do i do if police want my car app password"
-  - "what do i do if police want to see my dashcam"
-  - "help i have been asked for my car telemetry"
-  - "help i need to give police my car data"
-  - "help i have to unlock my car app for police"
-  - "my dashcam has been seized by police"
-  - "smell of burning plastic"
-  - "visible dashcam unit"
-  - "police officer pointing at windscreen"
-  - "roadside stop"
-  - "collision scene"
-  - "blue lights behind vehicle"
-  - "damaged sd card"
-  - "infotainment screen locked"
-  - "connected car app notification"
-  - "car black box"
-last_reviewed: "2026-03-17"
+  - police ask for dashcam footage
+  - police want my dashcam sd card
+  - asked to hand over dash cam
+  - asked to unlock car app
+  - police want connected car data
+  - telematics data request
+  - vehicle data download request
+  - infotainment system data request
+  - black box car data request
+  - event data recorder request
+  - asked to share car location history
+  - asked to log into car app
+  - asked to give phone passcode
+  - officer asked for video evidence
+  - consent to search digital devices
+  - police request evidence from my car
+  - asked to export trip logs
+  - asked to show drive history
+  - police want vehicle telematics
+  - asked for infotainment data
+last_reviewed: "2026-03-06"
 ---
-# What to do if… police ask you to provide access to your vehicle data, dash system, or connected car app (UK)
 
+# What to do if… police ask you to provide access to your vehicle data, dash system, or connected car app (UK)
 ## Short answer
-Do not provide passwords, biometric unlocks, or "on-the-spot" app access; ask the officer to specify the legal power they are using and state that you wish to seek legal advice before consenting to any digital extraction.
+Don’t unlock anything or hand over access “on the spot” just because you’re asked—politely ask what legal power they’re relying on, and say you’ll cooperate through the proper process after legal advice.
 
 ## Do not do these things
-- Don't provide your phone PIN, passcode, or biometric unlock (fingerprint/face) for a vehicle app while at the roadside.
-- Don't delete footage, format SD cards, or factory-reset vehicle systems after a police request has been made.
-- Don't attempt to "tidy up" or edit trip logs, GPS history, or speed data.
-- Don't sign a "voluntary" consent form or a Digital Processing Notice (DPN) until you have read it fully and understand the scope of the data being taken.
-- Don't physically resist if an officer informs you they are seizing the device or vehicle under PACE powers.
+- Don’t hand over your phone PIN/passcode, biometric unlock, app password, or “just log in for them” in the moment.
+- Don’t delete footage, factory-reset devices, pull logs, or “tidy up” after a request—don’t create a new problem.
+- Don’t argue about what the data “proves” at the roadside; keep it to process and safety.
+- Don’t sign consent forms or “voluntary” statements you don’t understand or feel pressured into.
+- Don’t let anyone “scroll through” your connected-car app or phone while you’re distracted.
 
 ## What to do now
-1. **Ask for clarification on the specific data requested.** Say: "Can you clarify exactly what information you are seeking access to, such as dashcam footage, telematics, or account data?"
-2. **Determine if the request is voluntary or a requirement.** Ask: "Are you asking for my voluntary consent under the Police, Crime, Sentencing and Courts Act 2022, or are you exercising a specific power to require this?"
-3. **Ask for the officer's name, collar number, and station.** Ensure you have a record of who is making the request and the incident reference number (URN) or CAD number.
-4. **Request a Digital Processing Notice (DPN) if they ask for voluntary access.** Under 2026 protocols, officers should provide a notice explaining why the data is needed and how it will be used.
-5. **State your intention to seek legal advice before consenting.** Say: "I am not refusing to cooperate, but I need to consult with a solicitor before I agree to provide digital access or credentials."
-6. **Preserve the data by safely isolating the device.** If you are concerned about dashcam footage being overwritten, power the device off or remove the power cable **only once you are safely parked**.
-   - Do not remove the SD card if the officer has already indicated they are seizing it.
-7. **Request a receipt for any seized hardware.** If the vehicle, dashcam, or SD card is seized under Section 19 of PACE, ask for a written record of the seizure and a property reference number.
-8. **Request a Duty Solicitor if you are detained or arrested.** If you are taken into custody, do not answer questions about vehicle data or provide passwords until you have spoken to the Duty Solicitor.
+1. **Slow it down and clarify the ask.** Say: “Can you tell me exactly what you want access to (dashcam footage, the SD card, the car’s system, or my connected-car app), and are you asking me to consent voluntarily?”
+2. **Ask what power/process they’re using.** If they say it’s required, ask: “What power are you using to require that?” (For example, they may rely on powers to seize items, statutory digital extraction powers, or a court order for particular data.) Ask for any reference number and for the request to be recorded.
+3. **If it’s voluntary, don’t consent on the spot.** Repeat calmly: “I’m not refusing to cooperate, but I’m not consenting to access right now. I want legal advice first.”
+4. **If you’re detained or arrested, ask for a solicitor.** Say clearly: “I want to speak to a solicitor.” Then keep your answers minimal until you’ve had legal advice.
+5. **Document the basics while your memory is fresh.** As soon as you can, note the officer’s name/number, force, time, location, what exactly was requested, and any incident/reference number.
+6. **Preserve what exists without changing it.** If you’re worried about dashcam overwriting, do only minimal preservation steps **once you’re safely parked** (e.g., power off). Don’t delete, format, edit, or remove storage at the roadside.
+7. **If they seize hardware, don’t obstruct.** If police lawfully seize the dashcam/SD card/vehicle/device, don’t physically resist. Ask for a receipt/property record of what was taken and keep your own notes of exactly what it was.
+8. **Don’t “help them around” formalities for provider-held data.** If they want connected-car cloud data, you can say: “If you need provider data, please contact the provider through the appropriate legal process.”
 
 ## What can wait
-- You do not need to decide immediately whether to provide a full witness statement regarding the data.
-- You do not need to explain or interpret data points (like recorded speed or GPS location) at the roadside.
-- You do not need to contact your car manufacturer or app provider right now.
-- You do not need to provide access to "cloud-stored" data that is not on the physical device unless presented with a specific warrant or senior officer authorization.
+- You don’t need to decide right now whether you’ll later provide a copy, a statement, or access credentials.
+- You don’t need to interpret the data (speed, GPS trails, driver-assist logs) on the spot.
+- You don’t need to contact your insurer, the car manufacturer, or your employer immediately unless there’s a separate urgent reason.
+- You can wait until you’re calmer to get legal advice and respond in a controlled, documented way.
 
 ## Important reassurance
-It is a standard legal procedure to ask for the "legal basis" of a police request. Feeling pressured or anxious during a roadside stop is a common reaction, and asking for time to seek legal advice is a protected right that does not imply guilt.
+It’s normal to feel intimidated when an officer asks for “just a quick look.” Wanting the request properly recorded and getting legal advice before granting digital access is a reasonable boundary.
 
 ## Scope note
-This guide covers first-step stabilization during an initial police interaction. It does not cover long-term legal defense, forensic data challenges, or manufacturer-specific data privacy settings.
+These are first steps only. The best next move depends on whether you’re a witness or suspect, who owns the vehicle/app account, what exactly is being sought, and which legal power is being used.
 
 ## Important note
-This information is for general guidance and is not legal advice. Laws regarding digital extraction under the Police, Crime, Sentencing and Courts Act 2022 and the 2026 Crime and Policing Bill updates are complex; always consult a qualified solicitor if you are under investigation or your property is seized.
+This is general information, not legal advice. If you’re under investigation, unsure whether you’re being compelled, or feel pressured, ask for legal advice as soon as possible and avoid on-the-spot decisions about access to digital data.
 
 ## Additional Resources
-- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/sharing-personal-data-with-law-enforcement-authorities/
-- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/online-tracking/guidance-for-consumer-internet-of-things-products-and-services/what-information-do-iot-products-use/
+- https://www.gov.uk/government/publications/pace-code-b-2013/pace-code-b-accessible
+- https://www.legislation.gov.uk/ukpga/1984/60/section/19
+- https://www.legislation.gov.uk/ukpga/1984/60/section/58
+- https://www.legislation.gov.uk/ukpga/2022/32/part/2/chapter/3
 - https://www.gov.uk/government/consultations/extraction-of-information-from-electronic-devices-code-of-practice/extraction-of-information-from-electronic-devices-code-of-practice-accessible
-- https://assets.publishing.service.gov.uk/media/699f2977532c9ad91ebbcd00/Digital_devices_seizure_and_retention_and_data_extraction_policy.pdf
-- https://www.gov.uk/government/publications/national-anpr-service-data-protection-impact-assessment/national-anpr-service-data-protection-impact-assessment-accessible

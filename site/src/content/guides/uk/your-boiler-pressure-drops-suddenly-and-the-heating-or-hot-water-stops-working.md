@@ -1,104 +1,81 @@
----
+﻿---
 title: "What to do if… your boiler pressure drops suddenly and the heating or hot water stops working"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "boiler pressure dropped"
-  - "low boiler pressure"
-  - "boiler lost pressure suddenly"
-  - "heating stopped working"
-  - "no hot water from boiler"
-  - "radiators gone cold"
-  - "boiler pressure gauge low"
-  - "boiler lockout low pressure"
-  - "combi boiler no heating"
-  - "central heating not working"
-  - "boiler needs repressurising"
-  - "top up boiler pressure"
-  - "filling loop on boiler"
-  - "boiler filling key"
-  - "pressure keeps dropping boiler"
-  - "boiler leaking water"
-  - "boiler fault after pressure drop"
-  - "boiler reset after pressure drop"
-  - "heating and hot water stopped"
-  - "boiler pressure in red zone"
-  - "what do i do if my boiler pressure is low"
-  - "what do i do if my heating stops working"
-  - "what do i do if my boiler pressure drops"
-  - "what do i do if my hot water stops"
-  - "help i have no heating or hot water"
-  - "help i have a boiler leak"
-  - "help i have low boiler pressure"
-  - "my boiler is making a noise"
-  - "sooty marks on boiler"
-  - "yellow boiler flame"
-  - "staining around boiler"
-  - "boiler pressure dial"
-  - "boiler bar reading"
-  - "repressurising a combi boiler"
-  - "filling loop silver hose"
-last_reviewed: "2026-03-17"
+  - boiler pressure dropped
+  - low boiler pressure
+  - boiler lost pressure suddenly
+  - heating stopped working
+  - no hot water from boiler
+  - radiators gone cold
+  - boiler pressure gauge low
+  - boiler lockout low pressure
+  - combi boiler no heating
+  - central heating not working
+  - boiler needs repressurising
+  - top up boiler pressure
+  - filling loop on boiler
+  - boiler filling key
+  - pressure keeps dropping boiler
+  - boiler leaking water
+  - boiler fault after pressure drop
+  - boiler reset after pressure drop
+  - heating and hot water stopped
+  - boiler pressure in red zone
+last_reviewed: "2026-03-04"
 ---
+
 # What to do if… your boiler pressure drops suddenly and the heating or hot water stops working (UK)
 
 ## Short answer
-If you smell gas or see signs of carbon monoxide, evacuate immediately and call 0800 111 999. Otherwise, check the pressure gauge and, if it is below 1.0 bar, use the filling loop to top it up to 1.5 bar before detaching the hose.
+If you smell gas or a carbon monoxide alarm is sounding, move everyone into fresh air immediately and call the gas emergency number. If there’s no gas/CO concern, check the boiler pressure and (only if you’re confident) top it up into the boiler’s normal/green range using the filling loop/key, then stop and call a Gas Safe engineer if the pressure won’t hold.
 
 ## Do not do these things
-- Don't operate electrical switches, light matches, or smoke if you smell gas.
-- Don't stay inside to investigate a carbon monoxide alarm or the smell of gas.
-- Don't attempt to dismantle the boiler casing or tamper with internal gas components.
-- Don't keep adding water more than twice; if the pressure drops again, there is a leak.
-- Don't leave the filling loop (the silver braided hose) attached after you have finished.
-- Don't overfill the system past 2.0 bar, as this can damage the internal safety valves.
+- Don’t stay inside to “just reset it” if you smell gas or a carbon monoxide alarm is sounding.
+- Don’t keep resetting the boiler repeatedly if it locks out again — stop and escalate.
+- Don’t keep adding water if the pressure drops again soon after — that suggests a leak or failed part.
+- Don’t open random valves or dismantle the boiler casing.
+- Don’t raise pressure above the normal/green range “to be safe”.
 
 ## What to do now
-1. **Rule out immediate gas or carbon monoxide danger first.** 
-   If you smell gas, see yellow / brown staining on the boiler, or hear a CO alarm: **get everyone out of the property to fresh air immediately, do not use light switches or phones inside, and call the National Gas Emergency Service on 0800 111 999**. If anyone has collapsed or has severe chest pain, call 999.
-2. **Switch off the boiler and let the system cool down completely.** 
-   Topping up a hot system can lead to inaccurate pressure readings and potential thermal shock to the heat exchanger.
-3. **Locate the pressure gauge and identify the current reading.** 
-   The gauge is typically on the front of the boiler or underneath near the pipes.
-   - If the needle is in the "red" zone or below 1.0 bar, it requires a top-up.
-   - Normal "cold" pressure for most UK combi boilers is between 1.0 and 1.5 bar.
-4. **Identify your filling loop type and prepare the connection.** 
-   Most systems use a silver braided hose (external filling loop) located directly underneath the boiler.
-   - Check that both ends of the silver hose are securely screwed onto the valves.
-   - Some modern boilers have an "internal" filling key or lever; consult your manual if no hose is visible.
-5. **Open the filling valves slowly while watching the gauge.** 
-   Turn the first valve handle 90 degrees, then slowly turn the second.
-   - You will hear the sound of water entering the boiler.
-   - **Stop immediately** when the needle reaches 1.5 bar (or the top of the green zone).
-6. **Close both valves firmly and disconnect the external hose.** 
-   Turn both handles back to their original "closed" positions.
-   - **Mandatory:** Under UK water regulations, you must unscrew the silver braided hose from the valves after use to prevent mains water contamination.
-   - Have a cloth ready to catch the small amount of water that will drip from the hose ends.
-7. **Restart the boiler and check for leaks or further drops.** 
-   Turn the power back on and press the 'Reset' button if a fault code is still showing.
-   - Monitor the gauge for 15 minutes.
-   - If the pressure drops again immediately or you see water dripping from the boiler, turn it off and contact a Gas Safe registered engineer.
-8. **Contact your landlord or managing agent if you are a tenant.** 
-   Under Section 11 of the Landlord and Tenant Act 1985, your landlord is legally responsible for maintaining the boiler and heating system.
-   - Report the issue in writing even if the top-up worked, so it is recorded as a maintenance event.
+1. **Rule out immediate danger first (takes 10 seconds).**  
+   If you smell gas, suspect carbon monoxide, or a carbon monoxide alarm is sounding: **open doors/windows on your way out if you can, get everyone outside to fresh air, and call the National Gas Emergency Service on 0800 111 999**. If there’s immediate fire danger, call 999.
+2. **Turn the boiler off at its controls and let it cool for a few minutes.**  
+   This makes it easier to check pressure and reduces the risk of overfilling while it’s hot.
+3. **Check the pressure reading on the boiler’s gauge/display.**  
+   On many UK systems, when cool, normal pressure is often **around 1–1.5 bar** (or the boiler’s “green” area). If it’s very low, the boiler may shut down to protect itself.
+4. **If you feel confident and your boiler has a filling loop/key, top up pressure slowly — then stop.**  
+   - Find the **filling loop** (often a silver braided hose under the boiler) or an **internal filling key/lever** (varies by model).  
+   - Open the filling control **slowly** while watching the gauge.  
+   - **Stop** when it reaches the normal/green area (often **around 1–1.5 bar when cool**, unless your boiler indicates otherwise).  
+   - Close the control firmly. Remove/secure any key if your model uses one.
+5. **Restart once, then observe.**  
+   Turn the boiler back on and try heating/hot water. Watch the pressure for the next 10–15 minutes.
+6. **If pressure won’t rise, drops again, or you see any leak: stop and escalate.**  
+   - If the gauge doesn’t move while filling, **close the filling controls immediately**.  
+   - If you see drips under the boiler, wet patches by radiators/pipework, or repeated pressure loss, **book a Gas Safe registered engineer** (and keep the boiler off if you’re unsure).
+7. **If you rent: report it as an urgent repair in writing (now).**  
+   Say the boiler has **no heating/hot water and pressure has dropped**. Take a photo of the pressure gauge and any error code, and keep a dated record of messages.
 
 ## What can wait
-- You do not need to bleed your radiators until the pressure is stable; doing so will cause the pressure to drop again.
-- You do not need to replace the boiler today unless an engineer confirms a catastrophic failure of the heat exchanger.
-- You do not need to investigate the source of a leak yourself if it is hidden behind walls or floors.
+- You do **not** need to bleed every radiator right now unless you already know trapped air is the cause and you’re comfortable doing it.
+- You do **not** need to decide on a new boiler, service plan, or upgrades today.
+- You do **not** need to try multiple “advanced” fixes — one safe top-up attempt is enough before calling for help.
 
 ## Important reassurance
-Low boiler pressure is one of the most common reasons for a loss of heating and is usually a simple maintenance task. Most modern boilers are designed to shut down safely (lockout) if they detect low pressure to prevent the system from overheating.
+A sudden pressure drop is a common reason boilers stop delivering heat or hot water, and it’s often fixable. Your job right now is simply to rule out gas/CO danger, check the gauge, and either restore normal pressure safely or stop early and get the right help.
 
 ## Scope note
-This is first-step stabilization guidance only. This guide does not replace a professional boiler service or repairs required by a Gas Safe registered engineer for internal component failures.
+This is first-step guidance to stabilise the situation and avoid damage. Persistent pressure loss, leaks, or repeated lockouts usually need a qualified engineer to diagnose safely.
 
 ## Important note
-This guide is for general information. Always refer to your specific boiler manufacturer’s manual for model-specific pressure requirements. If you smell gas or suspect a carbon monoxide leak, do not attempt any mechanical steps; evacuate and call the emergency services.
+This guide is general information, not professional advice. Boiler designs vary. If anything feels unsafe or unclear, leave the boiler off and contact a qualified professional.
 
 ## Additional Resources
+- https://www.nationalgas.com/emergency-contacts
+- https://www.gassaferegister.co.uk/gas-emergency/what-to-do-in-a-gas-emergency/
 - https://www.worcester-bosch.co.uk/heating-advice/boiler-pressure
-- https://www.worcester-bosch.co.uk/support/troubleshooting/faqs/all-faqs/the-heating-system-is-constantly-losing-pressure-what-should-i-do
-- https://www.britishgas.co.uk/heating/guides/boiler-pressure.html
-- https://idealheating.com/tips-and-advice/why-is-my-boiler-losing-pressure
-- https://www.gassaferegister.co.uk/gas-safety/gas-appliances/boiler-appliance-guide/
+- https://www.vaillant.co.uk/advice/understanding-heating-technology/boilers/what-do-i-do-if-my-boiler-had-no-pressure/
+- https://england.shelter.org.uk/professional_resources/legal/housing_conditions/responsibility_for_repairs/heating_hot_water_and_power_problems
+- https://www.legislation.gov.uk/ukpga/1985/70/section/11

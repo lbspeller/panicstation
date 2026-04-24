@@ -1,85 +1,82 @@
----
+﻿---
 title: "What to do if… your calls start going straight to voicemail and texts arrive late or not at all"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "cloud account mass deletions"
-  - "cloud files deleted not by me"
-  - "someone deleted my cloud files"
-  - "cloud storage hacked"
-  - "account takeover cloud storage"
-  - "unexpected file deletions"
-  - "cloud sync deleted everything"
-  - "shared folder emptied"
-  - "missing files in cloud drive"
-  - "cloud activity log suspicious"
-  - "restore deleted cloud files"
-  - "cloud recycle bin recovery"
-  - "cloud version history restore"
-  - "unknown device signed in"
-  - "suspicious login cloud account"
-  - "connected apps unauthorized"
-  - "email forwarding rule added"
-  - "ransomware deleting cloud files"
-  - "cloud files disappeared overnight"
-  - "cloud provider support urgent"
-  - "what do i do if my cloud files are missing"
-  - "what do i do if my onedrive is empty"
-  - "what do i do if google drive files are gone"
-  - "what do i do if icloud documents deleted"
-  - "help i lost all my cloud data"
-  - "help my cloud account was wiped"
-  - "my cloud files were deleted"
-  - "my dropbox is empty"
-  - "suspicious activity in cloud account"
-  - "unauthorized access to cloud storage"
-  - "mass file removal alert"
-  - "recovering from cloud ransomware"
-last_reviewed: "2026-03-17"
+  - calls go straight to voicemail
+  - texts delayed or not arriving
+  - sms not coming through
+  - phone not receiving calls
+  - missed calls no ringing
+  - incoming calls silent
+  - mobile network not working
+  - signal but no calls
+  - can’t send texts
+  - delayed text messages
+  - no service suddenly
+  - dropped off network
+  - sim problem maybe
+  - esim not connecting
+  - do not disturb blocking calls
+  - call forwarding accidentally on
+  - phone says connected but isn’t
+  - people say can’t reach me
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your calls start going straight to voicemail and texts arrive late or not at all (UK)
 
 ## Short answer
-Immediately disconnect all syncing devices from the internet and secure your account using a trusted device. Use the cloud provider’s native "Restore" or "Recycle Bin" features to roll back changes before the retention window expires.
+Treat it like a connectivity fault: do a quick reconnect (flight mode + restart), then check whether there’s a local network outage before changing anything drastic.
 
 ## Do not do these things
-- Do not leave devices connected to the internet while deletions are ongoing.
-- Do not empty the cloud trash, recycle bin, or "recently deleted" folder.
-- Do not approve any unexpected multi-factor authentication (MFA) or sign-in prompts.
-- Do not click links in "security alert" emails or texts; go directly to the provider's website.
-- Do not pay any fees or ransoms to third parties claiming they can recover your data.
-- Do not reinstall the operating system on your devices until you have attempted cloud recovery.
-- Do not reuse your old password or variations of it for the new security setup.
+- Don’t keep re-dialling repeatedly — it wastes battery/time during a fault and may add to congestion when networks are struggling.
+- Don’t factory reset your phone or erase it in panic.
+- Don’t assume it’s “definitely your phone” until you’ve checked for a local outage affecting others.
+- Don’t share one-time passcodes (banking/login codes) with anyone “helping” — delayed texts can make scams more confusing.
+- Don’t immediately replace your handset if you haven’t tried a SIM/eSIM refresh and provider checks.
 
 ## What to do now
-1. **Isolate all syncing devices to stop the deletion command from spreading.** Turn off Wi-Fi, unplug ethernet cables, and enable airplane mode on all phones or tablets that sync with the affected account.
-2. **Secure your primary account from a clean and trusted device.** Log in via a direct browser window (not a link), change your password to a unique phrase, and enable a passkey or hardware security key if supported.
-3. **Terminate all active sessions and remove unauthorized access.** Go to the security or activity dashboard to "Sign out of all locations" and delete any connected apps, third-party services, or recovery emails you do not recognize.
-4. **Initiate the provider’s bulk restoration tools immediately.** Look for features such as "Restore your OneDrive" (found in Settings > Options), "Google Drive Trash," or iCloud’s "Data Recovery" tool to roll back the entire account state.
-   - Note that most providers have a 30-day window for bulk restoration.
-   - Check "Version History" for individual files if bulk restoration is unavailable.
-5. **Report the incident to the appropriate national authorities.** Use the Report Fraud online tool (or call 0300 123 2040) if you are in England, Wales, or Northern Ireland.
-   - In Scotland, call Police Scotland on 101 or contact the Cyber and Fraud Centre Scotland on 0800 1670 623.
-6. **Notify your organization’s Data Protection Officer if professional data is involved.** If the account holds personal data of others, you may be legally required to report the breach to the Information Commissioner’s Office (ICO) within 72 hours.
+1. **If you need to make an urgent call right now:** try **Wi-Fi Calling** (if you already have it enabled), use a **landline**, or ask someone nearby to call. For emergencies, use **999/112**.
+2. **Check for settings that silently divert calls:**
+   - Turn off **Do Not Disturb / Focus / Sleep** modes.
+   - Check **Call Forwarding** is off, and you haven’t accidentally blocked key contacts.
+   - If you use a feature that silences unknown callers, temporarily turn it off to test.
+3. **Force the phone to re-register on the network (fast reset):**
+   - Turn **Flight mode on**, wait about **5–10 seconds**, then **off**.
+   - Fully **power off**, wait ~20 seconds, then power back on.
+4. **Move and retest once:** try calling/texting in a **different location** (even just outside) to rule out a very local coverage/building issue.
+5. **Check whether it’s a wider outage:**
+   - Use your provider’s **service status/outage checker** (website/app).
+   - If you’re unsure what “should” work where you are, use Ofcom’s **Map Your Mobile** coverage checker for that postcode.
+6. **Refresh SIM/eSIM (only when you’re in a safe, calm place):**
+   - If you have a physical SIM: power off, remove and reinsert it, then power on.
+   - If you use eSIM: toggle the eSIM line off/on (or mobile data off/on) to prompt a fresh connection.
+7. **Do one “deeper” fix if the basics didn’t work:**
+   - Install any pending **phone software** updates.
+   - As a last resort, **reset network settings** (this can remove saved Wi-Fi passwords and VPN/APN settings).
+8. **Contact your network provider with specifics:** tell them **calls go to voicemail + delayed/missing SMS**, your **postcode**, and **times** it happened. Ask them to check for:
+   - known local faults/outages,
+   - account/service blocks,
+   - and whether your line/SIM needs a **refresh / reprovisioning** or a **replacement SIM**.
 
 ## What can wait
-- Evaluating new cloud storage providers or backup hardware.
-- Performing a full forensic audit of your local devices.
-- Re-sharing folders or permissions with collaborators.
-- Re-organizing the file structure of recovered data.
+- You don’t need to decide today whether to change networks, upgrade your phone, or buy signal-boosting equipment.
+- You don’t need to chase advanced tweaks (APN edits, manual bands) unless your provider specifically tells you to.
+- You don’t need to make a formal complaint until you’ve logged a few clear examples (dates/times/locations).
 
 ## Important reassurance
-Mass deletions are often reversible because cloud providers design their systems with "soft-delete" buffers and versioning. Taking immediate action to stop syncing usually preserves the data in the cloud's internal recovery area, even if it has vanished from your local folders.
+This pattern (voicemail + delayed texts) is common when a phone briefly “drops” its network registration, when there’s congestion/outage, or when a setting like Focus/forwarding/silencing is on. It’s usually fixable without replacing your phone.
 
 ## Scope note
-This guide covers first-step stabilization and recovery for personal and small business cloud accounts. Large-scale enterprise breaches may require internal IT incident response protocols and specialist digital forensics.
+These are first steps to restore basic calling/SMS and avoid panic mistakes. If it keeps happening over multiple days or in multiple places, the next layer is provider-led investigation (SIM replacement, line checks, handset diagnostics).
 
 ## Important note
-Cloud recovery windows are strict and vary by provider and subscription level; some data may be unrecoverable after 30 days. This information does not constitute legal or technical advice and is based on standard 2026 security protocols.
+This is general information, not professional or legal advice. If you’re unable to reliably call for help and you’re at risk, use alternative routes immediately (Wi-Fi Calling/landline/another person) and contact your provider as soon as practical.
 
 ## Additional Resources
-- https://support.apple.com/en-gb/118427
-- https://support.apple.com/en-gb/118433
 - https://www.ofcom.org.uk/phones-and-broadband/service-quality/mobile-faults-guide
-- https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/map-your-mobile
-- https://support.google.com/messages/answer/9077245?co=GENIE.Platform%3DAndroid&hl=en
+- https://www.ofcom.org.uk/mobile-coverage-checker
+- https://www.ofcom.org.uk/phones-and-broadband/service-quality/problem-with-your-phone-provider
+- https://support.apple.com/en-gb/118427
+- https://www.samsung.com/uk/support/mobile-devices/what-to-do-when-your-galaxy-device-is-unable-to-make-or-receive-calls/

@@ -1,93 +1,77 @@
----
+﻿---
 title: "What to do if… a flexible supply line under a sink starts spraying or dripping rapidly"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - "flexible supply line leaking"
-  - "under sink supply hose spraying"
-  - "faucet supply line burst"
-  - "shut off valve under sink"
-  - "angle stop valve leak"
-  - "water spraying in sink cabinet"
-  - "hot water supply line leak"
-  - "cold water supply line leak"
-  - "main water shutoff location"
-  - "water meter shutoff emergency"
-  - "condo shared water shutoff"
-  - "apartment maintenance plumbing leak"
-  - "water leak near outlet"
-  - "stop kitchen flooding fast"
-  - "sudden plumbing leak under sink"
-  - "supply hose nut loose"
-  - "braided hose dripping rapidly"
-  - "emergency plumber call"
-  - "prevent water damage now"
-  - "what do i do if my sink is spraying water"
-  - "what do i do if the pipe under the sink burst"
-  - "what do i do if i cant find the water shutoff"
-  - "what do i do if water is hitting an outlet"
-  - "help i have a leak under the sink"
-  - "help i cant turn off the water valve"
-  - "help i have a flood in my kitchen"
-  - "help my supply line is spraying"
-  - "sink cabinet wet"
-  - "water spraying sound"
-  - "pooling water in cabinet"
-  - "sink supply line"
-  - "flexible water hose"
-  - "shutoff valve"
-  - "angle stop"
-  - "kitchen flood"
-  - "bathroom flood"
-last_reviewed: "2026-03-17"
+  - flexible supply line leaking
+  - under sink supply hose spraying
+  - faucet supply line burst
+  - shut off valve under sink
+  - angle stop valve leak
+  - water spraying in sink cabinet
+  - hot water supply line leak
+  - cold water supply line leak
+  - main water shutoff location
+  - water meter shutoff emergency
+  - condo shared water shutoff
+  - apartment maintenance plumbing leak
+  - water leak near outlet
+  - stop kitchen flooding fast
+  - sudden plumbing leak under sink
+  - supply hose nut loose
+  - braided hose dripping rapidly
+  - emergency plumber call
+  - prevent water damage now
+last_reviewed: "2026-03-04"
 ---
+
 # What to do if… a flexible supply line under a sink starts spraying or dripping rapidly (USA)
 
 ## Short answer
-Close the shutoff valves located directly under the sink by turning them clockwise; if the leak continues, immediately close the home’s main water shutoff valve.
+Stop the water flow immediately—close the shutoff valve(s) under the sink, and if that doesn’t stop it, close the home’s main water shutoff. Then keep water away from electricity and contact a licensed plumber (or building maintenance).
 
 ## Do not do these things
-- Don’t stand in pooled water while touching metal pipes or reaching for electrical cords, outlets, or garbage disposals.
-- Don’t attempt to tighten or "crank down" on a spraying fitting while it is under full pressure, as this can cause the line to snap completely.
-- Don’t leave the home after placing a bucket if the water is still actively spraying or dripping; pressure can cause the failure point to expand.
-- Don’t use a hair dryer or any corded electrical appliance to dry the area until the power to those outlets has been confirmed off at the breaker.
-- Don’t ignore a "bubbling" or "bulging" appearance on a braided hose; this indicates an imminent total burst.
+- Don’t stand in pooled water while touching metal pipes or reaching near outlets, disposals, or dishwashers—make the area electrically safe first.
+- Don’t “crank down” on fittings while they’re spraying; you can split parts or strip threads and make it worse.
+- Don’t rely on a towel wrap, tape, or a bucket alone while leaving the house—pressure can build and the leak can escalate.
+- Don’t ignore a warm/hot spray (hot feed) or a bulging/kinked braided hose—assume it can fail more suddenly.
+- Don’t use a hair dryer, shop-vac, or extension cord in a wet cabinet unless you are sure the area is electrically safe.
 
 ## What to do now
-1. **Isolate electrical hazards first.** If water is spraying toward an outlet, garbage disposal, or dishwasher connection, do not reach into the wet area.
-   - Go to your electrical panel and switch off the breaker labeled "Kitchen" or "Countertop."
-   - If you must stand in water to reach the panel, do not touch it; call your electrical utility or an emergency electrician immediately.
-   - If you are at a distance from the panel but can safely reach a breaker with a dry, non-conductive tool (like a wooden broom handle) without stepping in water, use that to trip the switch.
-2. **Close the local shutoff valves.** Reach under the sink and turn the small handles (angle stops) located on the pipes coming out of the wall.
-   - **For lever handles (ball valves):** Turn the lever 90 degrees so it is perpendicular to the pipe.
-   - **For oval/round handles (gate/compression valves):** Turn the handle clockwise several full rotations until it stops.
-3. **Locate the main shutoff if the leak persists.** If the under-sink valves are stuck or leaking themselves, shut off the water for the entire building.
-   - Look in the basement, garage, or utility closet where the main pipe enters the house, or outside near the water meter.
-   - Turn the valve clockwise (or 90 degrees for a lever) to stop all flow.
-4. **Relieve line pressure.** Open the faucet handles on the affected sink (and a faucet on a lower floor if available) to drain the remaining water in the pipes into the basin.
-5. **Clear the cabinet.** Remove all cleaning supplies and items from under the sink to prevent chemical spills or damage to personal property.
-6. **Contain the remaining water.** Place a bucket or basin directly under the spray or drip and use towels to create a "dam" at the edge of the cabinet to prevent water from reaching the subfloor or cabinets below.
-7. **Contact professional help.**
-   - **Renters:** Call building maintenance or the emergency landlord line immediately.
-   - **Homeowners:** Call a licensed plumber to replace the failed supply line and evaluate the shutoff valves.
+1. **Create a safer pause.** If water is near an outlet, disposal, dishwasher connections, or anything plugged in under the sink, keep your hands out of the wet area. If you can safely reach your **electrical panel without standing in water**, switch off the **kitchen** circuit (or main if unsure). If you would have to step/stand in water to reach the panel, **don’t**—keep away and call an electrician/utility for help.
+2. **Shut off water at the fixture first (fastest).**  
+   - Under the sink, turn the shutoff valve(s) (often “angle stops”) **clockwise** to close.  
+   - If you have separate hot and cold valves, close **both** if you’re not sure which is leaking.
+3. **If water still runs, shut off the home’s main water valve.**  
+   - Typical locations: where the water line enters the home (basement/crawlspace), garage, utility room, or at/near the **water meter**.  
+   - Turn the handle/knob **clockwise** until closed.
+4. **Relieve pressure.** After shutting off, open a **cold faucet** (and another if needed) to help drain residual water and reduce pressure. You can stop once flow slows/stops.
+5. **Contain and protect.**  
+   - Put a bucket under the leak point; use towels around cabinet edges to stop water reaching floors/walls.  
+   - Move items out of the cabinet immediately (cleaners can spill/mix when knocked over).
+6. **Get the right help fast.**  
+   - **Apartment/condo:** call **maintenance/building management**—there may be a shared shutoff you’re not allowed to operate.  
+   - **Single-family home:** call a **licensed plumber**, especially if the shutoff valve won’t close fully or the hose looks damaged.
+7. **If you cannot locate/operate the main shutoff and water is still flowing:** call your **water utility** (some utilities can advise or assist depending on meter type) and/or an emergency plumber.
+8. **Document briefly.** Once water is off, take photos/video of the leaking hose/connection and any water spread (useful for insurance or landlord/building records).
 
 ## What can wait
-- You don’t need to determine why the hose failed (e.g., corrosion vs. manufacturing defect) right now.
-- You don’t need to clean the entire cabinet or dry the items you removed until the water flow is 100% stopped.
-- You don’t need to decide which brand of replacement hose to buy; a plumber or maintenance tech will provide the correct specifications.
+- You don’t need to decide whether to replace the valve, hose, or faucet right now—just stop the flow and prevent electrical/water damage.
+- You don’t need to fully dry everything immediately; first stop additional water and protect outlets/appliances.
+- You don’t need to troubleshoot the exact failure point while stressed—leave diagnosis to maintenance/plumber if unsure.
 
 ## Important reassurance
-A spraying water line is loud and creates a high volume of water quickly, which often triggers an immediate panic response. This is a standard mechanical failure. Once you have closed the valves, the immediate threat of property damage is halted, and the situation is stabilized.
+A spraying supply line looks dramatic because it’s pressurized, but most of the time the biggest damage comes from delay. Turning off the right valve(s) quickly is the key step, and you’ve already done the most important part once the water stops.
 
 ## Scope note
-This guide provides first-step stabilization for a localized plumbing failure. It does not cover permanent repairs, mold remediation, or multi-unit structural drying, which require professional intervention.
+These are first steps for stabilization and damage control. Repairing/replacing supply lines or shutoff valves can be straightforward, but it’s safer to use qualified help if parts are corroded, stuck, leaking at the valve stem, or if you’re in a shared-building system.
 
 ## Important note
-This information is for emergency stabilization only. Improperly installed water lines can lead to catastrophic flooding and may void insurance coverage if not performed by a licensed professional or according to local building codes. If water has entered electrical conduits or walls, seek professional inspection.
+This guide is general information for immediate harm-prevention and damage-limitation. If water has reached electrical systems, ceilings below, or you can’t fully stop the leak, treat it as urgent and use qualified help.
 
 ## Additional Resources
+- https://www.ready.gov/safety-skills
+- https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-from-electrical-hazards.html
 - https://www.redcross.org/get-help/disaster-relief-and-recovery-services/utilities-major-systems.html
-- https://www.redcross.org/get-help/disaster-relief-and-recovery-services/disaster-cleanup.html
-- https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home
-- https://www.epa.gov/mold/mold-cleanup-your-home
-- https://content.naic.org/article/will-my-homeowners-insurance-policy-cover-water-damage-burst-pipe
+- https://www.seattle.gov/utilities/your-services/water/metering/how-to-shut-off
+- https://westernwaterca.gov/392/How-to-Turn-Off-Your-Water

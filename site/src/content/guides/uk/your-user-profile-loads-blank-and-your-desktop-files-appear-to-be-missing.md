@@ -1,109 +1,93 @@
----
+﻿---
 title: "What to do if… your user profile loads blank and your desktop files appear to be missing"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "dns records changed"
-  - "nameservers changed unexpectedly"
-  - "website redirecting elsewhere"
-  - "domain hijacked"
-  - "dns hijacking"
-  - "site traffic diverted"
-  - "domain pointing to wrong server"
-  - "registrar account compromised"
-  - "unauthorized dns changes"
-  - "website going to another site"
-  - "customers seeing wrong website"
-  - "my domain was taken over"
-  - "domain settings changed"
-  - "website sending users elsewhere"
-  - "someone changed my dns"
-  - "sudden traffic drop dns"
-  - "domain control lost"
-  - "what do i do if my website was hijacked"
-  - "what do i do if dns records changed"
-  - "what do i do if nameservers changed"
-  - "what do i do if traffic is diverted"
-  - "help i lost control of my domain"
-  - "help i cannot access my registrar"
-  - "help my website is pointing to a scam"
-  - "help my dns is wrong"
-  - "website showing wrong content"
-  - "domain redirecting to unknown site"
-  - "unexpected nameserver update"
-  - "unauthorized registrar login"
-  - "dns hijacking recovery"
-  - "domain name system breach"
-  - "uk domain hijack help"
-last_reviewed: "2026-03-17"
+  - blank user profile
+  - profile loads empty
+  - desktop files missing
+  - files disappeared
+  - missing documents folder
+  - missing downloads folder
+  - signed into wrong account
+  - temporary profile windows
+  - new user profile created
+  - onedrive desktop missing
+  - icloud desktop missing
+  - synced folders moved
+  - after update files missing
+  - after restart files missing
+  - ransomware warning screen
+  - suspected malware
+  - cloud sync confusion
+  - windows user folder missing
+  - mac desktop documents gone
+last_reviewed: "2026-03-08"
 ---
-# What to do if… your user profile loads blank and your desktop files appear to be missing (UK)
 
+# What to do if… your user profile loads blank and your desktop files appear to be missing (UK)
 ## Short answer
-Treat the situation as an account takeover by regaining control at the domain registrar, enabling multi-factor authentication, and restoring nameserver records from a verified backup.
+Stop making changes, and first check whether you’re in a temporary/wrong profile or your Desktop/Documents have been redirected into cloud sync. If anything suggests malware/ransomware, disconnect from the internet before you do anything else.
 
 ## Do not do these things
-- Do not make repeated, unrecorded changes to DNS settings while in a panic, as this destroys the audit trail.
-- Do not ignore the issue if it persists, assuming it is a temporary "propagation" delay.
-- Do not click links or call numbers in "alert" emails that claim to be from your registrar; they may be phishing attempts.
-- Do not pay "recovery specialists" on social media who claim they can "hack back" your domain for a fee.
-- Do not post admin screenshots or login details on public forums while trying to seek help.
+- Don’t start “cleaning up” (moving folders, creating lots of new files, reinstalling apps) until you confirm where your original files are.
+- Don’t run “PC cleaner/driver fixer/file recovery” tools you just found online — many are scams and can overwrite recoverable data.
+- Don’t pay a ransom or follow pop-up “support” phone numbers if you see a ransomware-style message.
+- Don’t keep rebooting repeatedly if you’re hearing unusual disk noises or seeing repeated file errors — pause and protect what’s left.
+- Don’t sign out of cloud sync accounts in a panic without first checking whether your files are there (you can accidentally trigger more deletions).
 
 ## What to do now
-1. **Isolate your administration environment.**
-   - **Log in only from a device and network known to be secure.**
-   - **Pause any automated deployment pipelines or DNS synchronization tools** that might automatically overwrite your manual fixes.
+1. **Pause and preserve what you’re seeing.**  
+   Take photos/screenshots of: the blank desktop, your username at sign-in, any error messages, and the time/date. This helps if you need IT support or to report a cyber incident.
 
-2. **Secure the domain registrar account immediately.**
-   - **Change the registrar account password** to a unique, complex passphrase.
-   - **Enable Multi-Factor Authentication (MFA)** if it is not already active.
-   - **Activate the "Registrar Lock" or "Domain Lock" feature** to prevent the domain from being transferred to another provider.
-   - **Audit the account's user list** and remove any unrecognized email addresses, API tokens, or delegated access permissions.
+2. **If you suspect malware/ransomware, isolate the device first.**  
+   If you saw a ransom note, sudden file extensions changing, or antivirus warnings: disconnect Wi-Fi/Ethernet (and if it’s a work network, tell IT immediately). Avoid plugging in backup drives until you know what’s happening.
 
-3. **Document the current unauthorized state.**
-   - **Capture screenshots of the current Nameserver (NS) settings** and all active DNS records (A, CNAME, MX, TXT).
-   - **Export the account's activity logs or audit trail** to identify when the changes occurred and which credentials were used.
+3. **Confirm you’re in the right account/profile (a common “blank profile” cause).**  
+   - **Windows:** check the signed-in user name (Start menu / lock screen). If it looks like a new profile or “temporary profile”, your original files may still exist under `C:\Users\` in a different folder name.  
+   - **Mac:** confirm you’re in the correct user account (Apple menu → System Settings → Users & Groups). A “new-looking” desktop can mean you’re in a different account.
 
-4. **Restore correct delegation and records.**
-   - **Reset the Nameservers to your authorized DNS provider's values** if they were changed.
-   - **Restore individual DNS records from a known-good backup or prior export.**
-   - **Prioritize web traffic (A/AAAA records) and email (MX records)** to restore core services first.
+4. **Check the most likely “moved, not deleted” places (in this order).**
+   - **Cloud web view first (safer):** sign in via a browser to **OneDrive / iCloud Drive** and look for “Desktop”, “Documents”, or recently moved items.  
+   - **If OneDrive is on your Windows PC:** also check `C:\Users\<your-username>\OneDrive\Desktop` and `C:\Users\<your-username>\OneDrive\Documents` (Desktop can look empty if it’s now the OneDrive version).  
+   - **Recycle/Trash:** check OneDrive Recycle bin (if OneDrive is involved) and your local Recycle Bin/Trash.  
+   - **Local user folder:** look in `C:\Users\<your-username>\Desktop` / `Documents` (Windows) or your home folder (Mac).
 
-5. **Verify DNSSEC and DS records.**
-   - **Check if DNSSEC was enabled or tampered with** in the registrar panel.
-   - **Remove or update mismatched DS records** to prevent valid traffic from being blocked by security checks.
+5. **If you recently updated Windows, check whether there’s a “previous install” folder.**  
+   If `C:\Windows.old` exists, use File Explorer search inside it for a distinctive missing file name, or for “Desktop” / “Documents”. Don’t delete `Windows.old` while you’re still looking for files.
 
-6. **Contact the relevant UK authorities and registries.**
-   - **Notify your registrar's security or abuse department** and request an "Investigation Lock" if the account remains at risk.
-   - **Contact Nominet (the .uk registry) via their abuse reporting form** if the domain is a .uk, .co.uk, or .org.uk extension and the registrar is unresponsive.
-   - **Call the Cyber and Fraud Centre Scotland at 0800 1670 623** if your business or organization is based in Scotland.
+6. **If OneDrive is in use, use built-in recovery rather than guessing.**  
+   On OneDrive on the web, check the Recycle bin and (if available to you) “Restore your OneDrive” to roll back unwanted mass changes. This is safer than dragging folders around while you’re unsure what happened.
 
-7. **Secure the associated email accounts.**
-   - **Update the password and MFA settings for the email inbox** used for registrar notifications, as this is a common entry point for hijackers.
-   - **Check for unauthorized mail forwarding rules** that might be sending password reset emails to an attacker.
+7. **If iCloud “Desktop & Documents” is involved (Mac), check the setting and the iCloud Drive location.**  
+   A change in iCloud Drive’s Desktop/Documents setting can make files *appear* to vanish locally because they’re now in iCloud Drive. Check iCloud Drive settings and look in iCloud Drive for your Desktop/Documents content.
 
-8. **Report the incident for criminal investigation.**
-   - **Use the Report Fraud portal (reportfraud.police.uk) or call 0300 123 2040** if you are in England, Wales, or Northern Ireland.
-   - **Call Police Scotland on 101** if you are located in Scotland.
-   - **Submit a report via the NCSC (National Cyber Security Centre) "Report a cyber incident" tool** if the breach has a significant impact on your business operations or customers.
+8. **If this is a work/school device, stop and escalate internally.**  
+   Don’t try “fixes” that could destroy evidence or make recovery harder. Contact your IT/helpdesk and tell them it looks like a profile load issue and/or missing redirected folders.
+
+9. **If you think this was a cyber attack (not just sync/profile confusion), report it to the right place.**  
+   - If you’ve lost money, handed over passwords, or think this is linked to fraud: report via **Action Fraud** (England/Wales/Northern Ireland) or **Police Scotland** (if in Scotland).  
+   - If this affects an organisation, is ongoing, or is significant, follow internal incident reporting and consider reporting via the **NCSC** cyber incident reporting service.
 
 ## What can wait
-- You do not need to migrate to a new registrar or hosting provider immediately.
-- You do not need to finalize long-term infrastructure improvements while the incident is active.
-- You do not need to perform a full forensic clean of every company device before securing the primary registrar account.
+- You don’t need to decide today whether you’ll use paid recovery services.
+- You don’t need to reinstall Windows/macOS or “reset the PC” right now — that can reduce recovery options.
+- You don’t need to change every password immediately until you confirm whether this was a sync/profile issue vs. a security incident (but do avoid logging into sensitive accounts on the affected device if you suspect malware).
 
 ## Important reassurance
-DNS hijacking often relies on compromised credentials rather than a flaw in the DNS protocol itself. By securing the registrar account and restoring records from a backup, the diversion can usually be corrected within the window of standard DNS TTL (Time to Live) expiration.
+This exact “everything looks blank” moment is often caused by signing into a different/temporary profile or by cloud sync redirecting Desktop/Documents — not instant permanent deletion. Going slowly and checking the common “moved” locations first gives you the best chance of getting everything back.
 
 ## Scope note
-This guide covers first-step stabilization for a DNS-level diversion only. If customer data has been exported or your internal servers have been breached, additional incident response steps for data loss and malware containment will be required.
+This is first steps only to stabilise the situation and prevent irreversible mistakes. Deeper recovery depends on whether this is a profile corruption, sync misconfiguration, an update side-effect, disk failure, or malware.
 
 ## Important note
-This information is for guidance purposes and does not constitute professional security or legal advice. If you are unable to regain access to your registrar or if the attacker maintains control, contact a certified cybersecurity incident response professional. Reporting cyber crime to the authorities is necessary for a crime reference number but does not guarantee the recovery of your domain.
+This is general information, not professional IT or legal advice. If you suspect malware/ransomware or this involves an employer/organisation, prioritise isolation and official/internal reporting over DIY fixes.
 
 ## Additional Resources
-- https://support.microsoft.com/en-gb/windows/fix-a-corrupted-user-profile-9e32ab2b-fa4d-40da-a78e-d294c1c94145
-- https://support.microsoft.com/en-gb/windows/-we-can-t-sign-in-to-your-account-error-message-3e08c5c8-92cc-48dc-80a4-f66d072c6edb
-- https://support.microsoft.com/en-gb/office/where-have-my-desktop-icons-gone-a7a4636e-b079-43a3-8a8b-f471b64c41d1
-- https://support.microsoft.com/en-gb/windows/find-lost-files-after-upgrading-windows-10af49aa-b372-b067-a334-2314401297a9
 - https://support.microsoft.com/en-gb/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15
+- https://support.microsoft.com/en-gb/office/find-lost-or-missing-files-in-onedrive-0d929e0d-8682-4295-982b-4bd75a3daa01
+- https://support.apple.com/en-gb/109344
+- https://www.ncsc.gov.uk/section/respond-recover/ml-ransomware-attack
+- https://report.ncsc.gov.uk/
+- https://www.dell.com/support/kbdoc/en-uk/000134012/windows-10-reports-you-are-on-a-temporary-profile
+- https://www.reportfraud.police.uk/

@@ -1,82 +1,70 @@
----
+﻿---
 title: "What to do if… you see water or condensation inside an outdoor electrical box or near the meter after rain"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "water in electric meter box"
-  - "condensation in meter cupboard"
-  - "rainwater inside electrical box"
-  - "wet electricity meter area"
-  - "damp around outdoor meter box"
-  - "water near electricity meter"
-  - "outdoor electrical enclosure leaking"
-  - "meter box seal broken"
-  - "tripping after rain outside"
-  - "electric box wet after storm"
-  - "water ingress electrical housing"
-  - "suspected leak into meter cabinet"
-  - "moisture near service head"
-  - "wet cables near meter"
-  - "outdoor fuse box wet"
-  - "water droplets in electrical box"
-  - "damp patch behind meter box"
-  - "wet meter cabinet after rain"
-  - "help i see water in my electric box"
-  - "what do i do if my meter box is wet"
-  - "help my electricity meter is dripping"
-  - "what do i do if there is condensation in my meter"
-  - "buzzing wet electrical box"
-  - "sparking meter box after rain"
-  - "water leaking into power meter"
-  - "wet cut out fuse"
-  - "damp electrical service head"
-  - "rain entering electric meter housing"
-  - "corroded meter box hinges"
-  - "water on electrical main switch"
-last_reviewed: "2026-03-17"
+  - water in electric meter box
+  - condensation in meter cupboard
+  - rainwater inside electrical box
+  - wet electricity meter area
+  - damp around outdoor meter box
+  - water near electricity meter
+  - outdoor electrical enclosure leaking
+  - meter box seal broken
+  - tripping after rain outside
+  - electric box wet after storm
+  - water ingress electrical housing
+  - suspected leak into meter cabinet
+  - moisture near service head
+  - wet cables near meter
+  - outdoor fuse box wet
+  - water droplets in electrical box
+  - damp patch behind meter box
+  - wet meter cabinet after rain
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… you see water or condensation inside an outdoor electrical box or near the meter after rain (UK)
 
 ## Short answer
-Treat all wet electrical equipment as live and hazardous: maintain a safe distance and report the issue immediately to your local electricity network operator by calling **105** (England, Scotland, and Wales) or **03457 643 643** (Northern Ireland).
+Treat it as potentially live and dangerous: keep away, keep others away, and report it to your electricity network operator — call **105** (free) if you’re in **England, Scotland, or Wales**, or call **NIE Networks 03457 643 643** if you’re in **Northern Ireland**.
 
 ## Do not do these things
-- Do not touch the meter box, its door, hinges, or any internal cables, even if you are wearing gloves.
-- Do not attempt to dry the equipment using a hairdryer, heater, cloth, or compressed air.
-- Do not stand on wet or damp ground while looking at or approaching the electrical enclosure.
-- Do not use any tools (screwdrivers, pliers) to open or probe the box if it is stuck or locked.
-- Do not assume that the absence of a power cut means the area is safe to touch.
-- Do not allow water to spray directly onto the box if you are cleaning or hosing nearby areas.
+- Do not open covers further, poke inside, or try to “dry it out” with cloths, heaters, hairdryers, or sprays.
+- Do not touch the meter, service head, cables, seals, or cut-out/fuses (even “just to check”).
+- Do not stand on wet ground and touch the box/metalwork, or lean your body against it while inspecting.
+- Do not assume it’s safe because “it’s only condensation” or because the power is still on.
+- Do not let children/pets near it, or leave the area accessible while you decide what to do.
 
 ## What to do now
-1. **Establish a exclusion zone around the equipment.** Ensure no children, pets, or other residents come within three metres of the wet enclosure.
-2. **Observe for signs of active electrical failure from a distance.** Look for visible smoke, steam, or blue flashes (arcing), and listen for loud buzzing or crackling sounds.
-   - If you see fire, heavy smoke, or active sparking, call **999** immediately and request the fire service.
-3. **Contact your Distribution Network Operator (DNO).** Report the "water ingress into service equipment" so they can assess the safety of the intake.
-   - **England, Scotland, or Wales:** Call **105**.
-   - **Northern Ireland:** Call **03457 643 643** (NIE Networks).
-4. **Isolate your internal power only if the environment is completely dry.** If your main consumer unit (fuse box) is located away from the wet area and the floor and walls surrounding it are bone-dry, you may switch off the Main Switch.
-   - If the consumer unit is also damp, or if you must walk across wet ground to reach it, do not touch it.
-5. **Divert external water flow without approaching the box.** If a leaking gutter or pipe is pouring water onto the cabinet, you may use a long object to nudge the flow away or place a bucket at the drip point, provided you stay at least two metres from the electrical equipment and its cables.
-6. **Note the presence of the "service head" or "cut-out."** When reporting, specify if the water is dripping onto the large fuse unit where the main cable enters the house, as this is a high-priority safety concern.
+1. **Create a safety buffer.** Keep everyone a few metres away. If the box is on a path/driveway, block access (close a gate/door, or put a temporary barrier in front).
+2. **Check for immediate danger signs (from a distance).** If you see/hear **sparking, buzzing, crackling, burning smell, smoke, or scorch marks**, call **999** and say there’s a possible electrical hazard near the meter.
+3. **Report water/moisture at the meter area.**
+   - **England/Scotland/Wales:** call **105** (free) and say: “Water/condensation inside the outdoor electrical box / near the electricity meter after rain.”
+   - **Northern Ireland:** call **NIE Networks 03457 643 643** and give the same message.
+4. **If you can safely isolate your home’s electricity, do so — only if everything around you is dry.** If your indoor consumer unit is in a **dry** location and you can reach it **without stepping on wet floors or touching wet walls/metal**, switch **OFF** the main switch.  
+   - If the consumer unit area is damp, you’re unsure, or you’d have to reach past wet surfaces: **don’t**.
+5. **Stop further runoff only if you can do it without approaching/touching the electrical equipment.** For example, if a gutter/downpipe is clearly pouring onto the cabinet, you can place a bucket under the drip point or redirect the drip away **without touching the cabinet, its fixings, or any cables**. If that isn’t possible safely, skip this.
+6. **Take a quick photo/video from a safe distance.** This helps when speaking to the network operator, landlord, or insurer (and helps you avoid repeatedly checking it).
+7. **If you rent or it’s communal equipment:** notify the landlord/managing agent and tell them you have reported it to the network operator.
 
 ## What can wait
-- You do not need to identify the entry point of the water (e.g., failed seal or cracked casing) immediately.
-- You do not need to determine if the condensation is "normal" or "excessive" before calling for help.
-- You do not need to contact an independent electrician until the network operator has confirmed the incoming supply is safe or has been isolated.
+- You do not need to decide right now whether it’s “your responsibility” or the network’s — **reporting it safely comes first**.
+- You don’t need to troubleshoot the cause (seal, hinge, cable entry, wall leak) tonight.
+- You don’t need to book repairs until the network operator has advised what must stay off and what can be handled by an electrician/builder.
 
 ## Important reassurance
-Water ingress into electrical housing is a common fault during heavy UK weather cycles. Network operators are equipped to handle these reports as priority safety calls. Taking the precaution of staying away and calling for a professional assessment is the standard safety protocol and is not an overreaction.
+Seeing moisture in or around meter equipment is unsettling — and you’re not overreacting by treating it as hazardous. The safest response is to **back off, report, and prevent contact**, rather than trying to investigate.
 
 ## Scope note
-This guide provides first-step stabilization for moisture in external metering equipment only. It does not cover internal flooding or the repair of the physical meter box structure, which may be the property owner's responsibility after the electrical components are made safe.
+These are first steps to reduce shock/fire risk and get the right responder involved. Later, you may need a qualified electrician and/or building repairs to stop the water ingress, but that comes after the immediate safety steps.
 
 ## Important note
-This information is for safety stabilization only and does not constitute professional electrical or legal advice. Electrical work on the network side of the meter (the cut-out and the meter itself) is legally restricted to authorized network technicians. Do not attempt to repair or bypass any seals or equipment.
+This is general safety information, not professional electrical advice. If you feel unsafe at any point, increase distance and call emergency services. Do not attempt DIY work on or near the meter, service head, cut-out, or other electricity network equipment.
 
 ## Additional Resources
+- https://www.powercut105.com/en/
+- https://www.energynetworks.org/customers/power-cut
+- https://www.nienetworks.co.uk/power-cuts/report-power-cut
 - https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/
-- https://www.ukpowernetworks.co.uk/safety-equipment/equipment-and-cables/replace-meter-board
-- https://www.ukpowernetworks.co.uk/safety-equipment/equipment-and-cables/replace-meter-box
-- https://www.ukpowernetworks.co.uk/safety-equipment/advice/safety-advice-and-resources
-- https://www.ukpowernetworks.co.uk/help/how-do-i-get-reconnected-after-a-fire-or-a-flood
+- https://powercuts.nationalgrid.co.uk/power-cut-advice/safety-first

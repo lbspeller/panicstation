@@ -1,93 +1,77 @@
----
+﻿---
 title: "What to do if… someone repeatedly asks for your home address after sexual chatting and you feel pressured to share it"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "someone wants my address"
-  - "pressured to share address"
-  - "sexual chat got pushy"
-  - "keeps asking where i live"
-  - "asking for my home address"
-  - "online sexual pressure"
-  - "pressured after sexting"
-  - "sexual messages and address"
-  - "stranger wants my location"
-  - "worried about giving address"
-  - "don’t feel safe sharing address"
-  - "person won’t stop asking"
-  - "repeated address requests"
-  - "online flirting feels unsafe"
-  - "pressured to meet at home"
-  - "sexual chat feels coercive"
-  - "asking for address repeatedly"
-  - "home address after chatting"
-  - "feel pressured to share address"
-  - "sexual chatting and pressure"
-  - "repeatedly asks for address"
-  - "giving home address to stranger"
-  - "safe online boundaries"
-  - "privacy after sexual chat"
-  - "online harassment address request"
-  - "stop someone asking for address"
-  - "help i gave my address"
-  - "what do i do if someone wants my address"
-  - "what do i do if i feel pressured"
-  - "my address is being requested"
-  - "sexual chat escalation"
-  - "webcam blackmail uk"
-  - "sextortion threats uk"
-  - "coercive sexual chatting"
-last_reviewed: "2026-03-17"
+  - someone wants my address
+  - pressured to share address
+  - sexual chat got pushy
+  - keeps asking where i live
+  - asking for my home address
+  - online sexual pressure
+  - pressured after sexting
+  - sexual messages and address
+  - stranger wants my location
+  - worried about giving address
+  - don’t feel safe sharing address
+  - person won’t stop asking
+  - repeated address requests
+  - online flirting feels unsafe
+  - pressured to meet at home
+  - sexual chat feels coercive
+  - asking for address repeatedly
+  - home address after chatting
+last_reviewed: "2026-03-14"
 ---
-# What to do if… someone repeatedly asks for your home address after sexual chatting and you feel pressured to share it (UK)
 
+# What to do if… someone repeatedly asks for your home address after sexual chatting and you feel pressured to share it (UK)
 ## Short answer
-Do not provide your address, postcode, or any location identifiers. Send one clear boundary message, stop responding to requests for personal details, and capture screenshots of the pressure or threats.
+Do not share your home address. The safest immediate move is to slow the interaction down, stop answering address questions, and switch to protecting your privacy and safety.
 
 ## Do not do these things
-- Do not give a "nearby" address, a local shop, or a fake house number to try and satisfy them.
-- Do not send photos that include your window view, car registration, or street signs.
-- Do not feel you must explain why you are saying no; "I am not sharing that" is a complete answer.
-- Do not delete the message history yet if they are being aggressive or threatening; you may need this evidence.
-- Do not move to a different app (like WhatsApp or Telegram) where your phone number or "Live Location" might be visible.
-- Do not agree to meet them anywhere near your home or a place you frequent regularly.
+- Do not give your full address, postcode, building name, flat number, or any “partial” version to get them off your back.
+- Do not send live location, a doorstep photo, a view from your window, or anything that could identify your home.
+- Do not let them rush you into proving trust, loyalty, or interest by sharing personal details.
+- Do not move the conversation onto a more private app just because they insist.
+- Do not argue for a long time once you have decided not to share it.
+- Do not meet them at your home or let them collect you from home.
+- If you may want to report this later, do not delete the whole conversation straight away; keep a few clear screenshots first.
 
 ## What to do now
-1. **Stop providing any further personal or identifying information immediately.** This includes your full name, workplace, routine, or details about who you live with.
+1. **Stop giving more personal information.** Do not confirm where you live, whether you live alone, your routine, your workplace, or nearby landmarks.
 
-2. **Send one final, brief statement regarding your boundary if you feel safe to do so.** State "I am not comfortable sharing my address and I will not be doing so," then do not engage in any further debate or justification.
+2. **Send one brief boundary message, then stop discussing it.** Something like: “I’m not sharing my address.” You do not need to explain, negotiate, or soften it.
 
-3. **Take clear screenshots of the entire conversation pattern.** Ensure you capture their profile name, ID, the specific requests for your address, and any instances of guilt-tripping, sexual coercion, or threats.
+3. **Take screenshots that show the pattern.** Capture their username, profile, the repeated requests, and any pressure, threats, guilt-tripping, or sexual coercion.
 
-4. **Block the user on the platform and use the "Report" function for harassment or unwanted sexual advances.** Most UK-accessible platforms have specific reporting categories for predatory behavior or unwanted pressure.
+4. **Block or restrict them on the app or platform if you want the contact to stop.** Also check whether the app lets you report unwanted sexual pressure, harassment, or unsafe behaviour.
 
-5. **Review your privacy settings across all social media accounts.** Ensure your location services are off, your "hometown" is hidden, and your "About Me" sections do not contain links to other apps that reveal your identity.
+5. **Tighten your account privacy now.** Hide location details, remove hometown or workplace information, switch off contact syncing if relevant, and review who can message you.
 
-6. **Contact the National Stalking Helpline for advice if the person continues to find ways to contact you.** You can call them on 0808 802 0300 (9:30 am to 8:00 pm Mon/Wed; 9:30 am to 4:00 pm Tue/Thu/Fri) for guidance on safety planning.
+6. **Check whether anything you already shared could reveal your address indirectly.** Look at old photos, parcel labels, calendar screenshots, food delivery screenshots, ride-share screenshots, and public profiles.
 
-7. **Call the non-emergency police number on 101 if the pressure feels like a threat to your safety.** In the UK, repeated unwanted contact that causes distress can be classified as stalking or harassment, and you can report this online via the Police.uk website.
+7. **If you feel frightened, watched, or the contact keeps continuing across accounts, treat it as a safety issue, not just an awkward chat.** In the UK, repeated unwanted online contact may amount to stalking or harassment, and you can contact the police if you feel unsafe.
 
-8. **Contact the Revenge Porn Helpline on 0345 6000 459 if they threaten to share intimate images of you.** In the UK, it is a criminal offence to threaten to share private sexual images without consent, even if they have not done it yet.
+8. **Get specialist support if the sexual pressure is leaving you shaken or stuck.** If something sexual happened without your consent, or you are not sure, you can contact Rape Crisis England & Wales for support without committing yourself to reporting anything.
 
-9. **Reach out to the 24/7 Rape and Sexual Abuse Support Line on 0808 500 2222 if the interaction has left you feeling shaken.** This service is run by Rape Crisis England & Wales and provides a safe space to talk about unwanted sexual pressure or confusion.
+9. **If they are threatening to share intimate images, or hinting they can expose you unless you cooperate, get help with the platform and account safety quickly.** The Revenge Porn Helpline supports adults in the UK affected by intimate image abuse, including threats to share intimate images.
 
 ## What can wait
-- You do not need to decide whether to press charges or involve the police permanently right now.
-- You do not need to find "the perfect reason" to give them for your refusal.
-- You do not need to figure out how to "fix" the relationship or the conversation.
+You do not need to decide right now whether to report them, confront them again, meet them, explain yourself better, or sort out every privacy setting perfectly. The urgent part is simply not giving your address and stopping the pressure from getting closer to your real life.
 
 ## Important reassurance
-It is normal to feel a sense of obligation or guilt after a sexual interaction, but a "sexual chat" is not a contract for your physical safety or your home address. You have the absolute right to stop any interaction at any point, regardless of what has already been said or shared.
+Feeling frozen, embarrassed, conflicted, or worried that you “led them on” is a very common reaction. Someone pressuring you for your address after sexual chatting does not create an obligation to share it.
 
 ## Scope note
-This guide provides first-step stabilization only. Ongoing safety concerns or legal actions regarding stalking and harassment should be managed with specialist support from the police or victim advocacy groups.
+This is first steps only. Later decisions about reporting, ongoing safety, or legal options may need specialist help.
 
 ## Important note
-This information is for general guidance and does not constitute legal or crisis counselling advice. Laws regarding online harassment and intimate image abuse vary between England & Wales, Scotland, and Northern Ireland; always check with a local specialist or legal professional for your specific jurisdiction.
+This is general information, not legal, medical, or crisis counselling advice. Guidance and processes can vary across the UK, and if anything shifts toward immediate danger, use emergency help straight away.
 
 ## Additional Resources
-- https://www.northants.police.uk/police-forces/northamptonshire-police/areas/northamptonshire-force-content/c/campaigns/2023/online-dating-safety-advice/
-- https://www.suzylamplugh.org/blog/personal-safety-and-online-dating
-- https://www.scotland.police.uk/advice/internet-safety/dating-apps-and-websites/
-- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/protection-from-online-stalking-and-harassment/
-- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
+- https://www.gov.uk/report-stalker
+- https://www.cps.gov.uk/types-crime/cyber-online-crime
+- https://www.cps.gov.uk/prosecution-guidance/stalking-or-harassment
+- https://rapecrisis.org.uk/get-help/want-to-talk/
+- https://rapecrisis.org.uk/get-help/im-not-sure-what-happened/
+- https://revengepornhelpline.org.uk/how-can-we-help/

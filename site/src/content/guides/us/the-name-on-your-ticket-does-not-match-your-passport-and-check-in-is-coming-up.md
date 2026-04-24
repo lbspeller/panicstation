@@ -1,87 +1,76 @@
----
+﻿---
 title: "What to do if… the name on your ticket does not match your passport and check-in is coming up"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "ticket name mismatch passport"
-  - "name on ticket not matching passport"
-  - "passport name and ticket name different"
-  - "wrong name on airline ticket"
-  - "mismatched passenger name"
-  - "help i misspelled my name on flight"
-  - "my name is wrong on boarding pass"
-  - "my middle name is missing on ticket"
-  - "what do i do if my ticket name is wrong"
-  - "what do i do if my middle name is missing"
-  - "what do i do if my names are swapped"
-  - "what do i do if i used a nickname on ticket"
-  - "secure flight name mismatch help"
-  - "tsa name mismatch at airport"
-  - "tsa confirmid fee 2026"
-  - "misspelled last name on plane ticket"
-  - "married name vs maiden name on flight"
-  - "name correction fee airlines"
-  - "boarding pass name error"
-  - "airline name correction vs name change"
-  - "swapped first and last name on ticket"
-  - "typo in flight reservation name"
-  - "name mismatch international flight"
-  - "denied boarding due to name error"
-  - "airline name correction policy"
-  - "tsa identity verification name mismatch"
-  - "check-in name error urgent"
-  - "passport name mismatch airline"
-  - "secure flight passenger data error"
-  - "name linking document marriage certificate"
-last_reviewed: "2026-03-17"
+  - ticket name mismatch passport
+  - wrong name on airline reservation
+  - boarding pass name does not match id
+  - secure flight name mismatch
+  - tsa name mismatch check-in
+  - misspelled name on plane ticket
+  - missing middle name on ticket
+  - nickname on booking not legal name
+  - swapped first last name airline
+  - legal name change travel
+  - married name vs maiden name flight
+  - urgent airline name correction
+  - online travel agency name wrong
+  - cannot check in name error
+  - international flight apis data
+  - denied boarding name mismatch
+  - same person name correction request
+  - check-in coming up fix now
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… the name on your ticket does not match your passport and check-in is coming up (USA)
 
 ## Short answer
-Contact the airline or travel agent immediately to request a "name correction" to match your passport exactly. Do not rely on airport security to overlook a mismatch, especially for international travel.
+Contact the ticket issuer (airline or travel agency) immediately and get the passenger name corrected to match your passport exactly, with a ticket reissue if required. Don’t rely on the airport checkpoint to resolve a mismatch.
 
 ## Do not do these things
-- Do not assume a middle name omission is always safe; while often permitted for domestic travel, international carriers may require an exact match.
-- Do not update your frequent flyer profile and expect the existing ticket to update automatically.
-- Do not wait until you arrive at the airport if the mismatch is significant (e.g., completely different last name).
-- Do not check in online if the airline system flags the name; doing so can "lock" the record and make corrections more difficult.
+- Do not rely on staff making exceptions if your boarding pass name doesn’t match your passport/ID.
+- Do not only update a profile (frequent-flyer/app) and assume the ticket updates automatically.
+- Do not check in with a clearly wrong name unless the airline tells you to; it can make fixes harder.
+- Do not buy a replacement ticket before confirming whether the issuer can correct/reissue the existing one.
 
 ## What to do now
-1. **Identify the exact type of mismatch against your passport.**
-   - Common types include a one-letter typo, swapped first and last names, missing middle name, or a maiden name vs. married name.
-2. **Contact the original issuer of the ticket directly.**
-   - If you booked through a third-party site (Expedia, Hopper, etc.), you must contact them first.
-   - If you booked directly with the airline, call their reservations line.
-3. **Request a "Name Correction" rather than a "Name Change."**
-   - **State clearly that the passenger is the same person but the name must match the passport for Secure Flight data.**
-   - **Ask the agent to "reissue" the ticket if a simple "re-validation" is not enough to update the name on the actual boarding pass.**
-4. **Prepare legal proof for surname mismatches.**
-   - **Have a digital copy of your marriage certificate, divorce decree, or court order ready to email if the name mismatch is due to a legal change.**
-5. **Verify the update across codeshare partners.**
-   - **If your trip includes flights operated by different airlines, ask the agent to confirm that the correction has synchronized with the partner airline systems.**
-6. **Inquire about the TSA ConfirmID process for domestic travel.**
-   - **If the airline cannot fix a minor mismatch in time for a domestic flight, ask if you can use the TSA ConfirmID system at the checkpoint.**
-   - Note: This involves a $45 fee and additional identity verification but may allow travel if the airline name matches your secondary ID documents.
-7. **Check the 24-hour refund window for very recent bookings.**
-   - **If you booked within the last 24 hours (and the flight is at least 7 days away), cancel the ticket for a full refund and rebook with the correct name immediately.**
+1. **Write down the mismatch precisely.** Example: one-letter typo, missing middle name, maiden vs married surname, first/last name swapped, or a completely different name.
+2. **Contact whoever issued the ticket (this matters).**
+   - If an online travel agency/travel agent issued it, start there.
+   - If you booked directly, contact the airline directly.
+3. **Ask for a “name correction to match passport” (same person) and confirm the boarding pass name.**
+   - Ask: “Can you correct the passenger name and **reissue the ticket if required**, so the **boarding pass prints exactly** as my passport?”
+   - If there are partner/codeshare flights, ask whether the correction will apply across the whole itinerary.
+4. **Ask them to re-send passenger screening/travel data after the change.**
+   - Airlines transmit passenger data for security screening; you want confirmation they’ve updated what will be used to generate your boarding pass and screening records.
+5. **If this is a legal name change, prepare proof that links the names.**
+   - Have your passport plus a document such as a marriage certificate or court order ready to upload/email if asked.
+6. **If time is tight, escalate channels fast.**
+   - Phone + chat + airline social media direct message.
+   - If you’re already at the airport, go to the airline counter early and say: “I need a **name correction/reissue** to match my passport.”
+7. **If they say it cannot be corrected, ask for the safest “salvage path” in writing.**
+   - Usually this means cancel/rebook (rules depend on fare).
+   - Ask what refund/credit applies and whether same-day rebooking options exist.
 
 ## What can wait
-- You do not need to apply for an emergency passport if the error is purely on the ticket side.
-- You do not need to file a formal DOT complaint while at the airport; focus on the correction first.
-- You do not need to worry about frequent flyer mile accrual right now; these can often be claimed retroactively after the flight.
+- You don’t need to figure out complaints or reimbursements right now; focus on getting a valid boarding pass for this trip.
+- You don’t need to try to change your passport for an imminent flight; it’s rarely realistic on short notice.
+- You don’t need to argue about policy; keep communications factual and focused on what action they can take before departure.
 
 ## Important reassurance
-Minor name corrections (up to 3 characters) and name inversions are routine tasks for airline desk agents. While it may involve a fee or a long hold time, most airlines have established procedures to ensure the Secure Flight Passenger Data (SFPD) matches your government ID before departure.
+This happens often from autofill, missing middle names, or recent surname changes. The quickest path is getting the ticket issuer to correct the passenger name in the reservation and (where needed) reissue the ticket so your boarding pass matches your passport.
 
 ## Scope note
-This guide covers first-step stabilization for name mismatches on air tickets. It does not cover visa name mismatches or name changes on non-transferable tickets where the traveler is a different person.
+These are first steps only. What’s possible depends on airline policy, fare type, and whether partner airlines are involved; some fixes require a ticket reissue rather than a simple edit.
 
 ## Important note
-Airlines are required by the TSA Secure Flight program to collect names exactly as they appear on government-issued IDs. Requirements for international travel are significantly stricter than for domestic travel. Always check your airline’s specific contract of carriage for name correction fees.
+This guide is general information, not legal advice. Airline/security requirements can be strict, and screening relies on the passenger data your airline transmits. Treat “match the passport exactly” as the safe standard and get confirmation from the issuer about what they changed.
 
 ## Additional Resources
-- https://www.aa.com/i18n/travel-info/security/secure-flight.jsp
-- https://www.delta.com/us/en/travel-planning-center/know-before-you-go/travel-from-the-us
+- https://www.tsa.gov/travel/security-screening/identification
+- https://www.cbp.gov/travel/us-citizens/know-before-you-go/your-trip
+- https://www.united.com/en/us/fly/travel/airport/secure-flight.html
 - https://pro.delta.com/content/agency/ca/en/policy-library/government-tsa/secure-flight-passenger-data--sfpd--faqs.html
-- https://pro.delta.com/content/agency/gb/en/policy-library/self-service-exceptions/name-correction-policy.html
-- https://www.southwest.com/vacations/terms-and-conditions/
+- https://www.tsa.gov/travel/frequently-asked-questions/does-name-my-airline-reservation-have-match-name-my-application

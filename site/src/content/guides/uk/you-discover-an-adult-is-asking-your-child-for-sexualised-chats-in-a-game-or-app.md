@@ -1,108 +1,80 @@
----
+﻿---
 title: "What to do if… you discover an adult is asking your child for sexualised chats in a game or app"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "adult asking sexual questions"
-  - "sexual chats in game"
-  - "sexual messages in app"
-  - "online grooming concern"
-  - "stranger in game chat"
-  - "adult messaging my child"
-  - "explicit chat request"
-  - "sexualised roleplay messages"
-  - "inappropriate gaming messages"
-  - "child contacted sexually online"
-  - "predator in gaming app"
-  - "unsafe app conversation"
-  - "asking for sexual chat"
-  - "adult pretending younger"
-  - "child online exploitation worry"
-  - "sexual talk in dm"
-  - "suspicious chat in game"
-  - "what do i do if my child is being groomed"
-  - "what do i do if an adult is messaging my child"
-  - "what do i do if a stranger asks for sexual chats"
-  - "what do i do if i find sexual messages on my childs phone"
-  - "help i found sexual messages in a game"
-  - "help i think my child is talking to an adult"
-  - "help i found an adult asking for sex in a game"
-  - "help i found grooming in an app"
-  - "smell of burning"
-  - "visible red marks"
-  - "child acting secretive"
-  - "child hiding screen"
-  - "unexpected gift in game"
-  - "request for private chat"
-  - "mention of meeting up"
-  - "grooming mispelling"
-  - "predator misspeled"
-  - "chat logs"
-  - "game messages"
-  - "in app chat"
-  - "online safety UK"
-  - "child protection online"
-last_reviewed: "2026-03-17"
+  - adult asking sexual questions
+  - sexual chats in game
+  - sexual messages in app
+  - online grooming concern
+  - stranger in game chat
+  - adult messaging my child
+  - explicit chat request
+  - sexualised roleplay messages
+  - inappropriate gaming messages
+  - child contacted sexually online
+  - predator in gaming app
+  - unsafe app conversation
+  - asking for sexual chat
+  - adult pretending younger
+  - child online exploitation worry
+  - sexual talk in dm
+  - suspicious chat in game
+last_reviewed: "2026-03-14"
 ---
-# What to do if… you discover an adult is asking your child for sexualised chats in a game or app (UK)
 
+# What to do if… you discover an adult is asking your child for sexualised chats in a game or app (UK)
 ## Short answer
-Stop all contact between your child and the adult immediately and do not delete the evidence. Report the incident to the Child Exploitation and Online Protection (CEOP) Command or call 999 if there is a threat of an immediate physical meeting.
+
+Get your child away from that conversation, stay calm with them, and treat this as a safeguarding concern rather than something for them to handle alone. If there is any suggestion of meeting offline, threats, blackmail, or immediate risk, contact police straight away.
 
 ## Do not do these things
-- Do not confront the adult or send messages from the account.
-- Do not delete the conversation, the app, or the account until you have captured evidence.
-- Do not ask your child to keep talking to the person to "catch" them.
-- Do not share screenshots of the messages on social media or in parent groups.
-- Do not blame the child or ask them to explain why they participated.
-- Do not allow the child to have further access to the device until contact is secured.
+
+- Do not tell your child to keep replying so you can “see what happens”.
+- Do not confront the adult through your child’s account.
+- Do not ask your child to retell everything repeatedly right now.
+- Do not blame your child for replying, playing along, or not spotting it sooner.
+- Do not delete the chat immediately if you may need to make a report.
+- Do not share screenshots with friends, group chats, or other parents.
+- Do not arrange your own call, meeting, or “sting”.
 
 ## What to do now
 
-1. **Remove the device from your child's hands and end the active session without deleting the data.** Close the application or lock the screen to stop the live interaction immediately.
-   - Do not log out if doing so will wipe local chat history.
-   - Place the device in a secure location where the child cannot re-access it.
+1. Move your child to a calmer, safer pause and stop contact with that person now. Close the chat, take the device out of active use for the moment, and stay with your child while you deal with the next steps.
 
-2. **Tell your child they are not in trouble and that the adult is the one who has done something wrong.** Use simple, neutral language to explain that you need to keep them safe and that you are taking over the situation.
-   - Avoid asking the child to re-read or recount the sexual details right now.
-   - Focus on physical safety and presence.
+2. Tell your child clearly that they are not in trouble and that this is not their fault. Keep your questions simple and practical, such as who the person claimed to be, where the chat happened, and whether they asked for photos, live video, secrecy, money, or a meetup.
 
-3. **Capture a digital record of the communication before the platform or the user can remove it.** Use another device to take clear photos of the screen, or use the device’s screenshot function if you are certain it will not alert the other user.
-   - Ensure the adult’s username, profile ID, and the specific platform name are visible.
-   - Capture the most recent sexualised messages and any requests for photos or meetings.
+3. If you may want to report this, keep a limited record before anything disappears. Save screenshots showing the username, profile, platform, and the sexualised messages, and note the date and time if visible. Keep it factual and brief.
 
-4. **Use the internal reporting and blocking tools provided by the game or app.** Most platforms have a specific "report" button for grooming or sexual content; use this to alert the platform's safety team.
-   - Under the Online Safety Act 2026, platforms are required to act on reports of child sexual exploitation and abuse (CSEA) content.
-   - Once the report is sent, use the "block" feature to prevent further contact.
+4. Use the game or app’s reporting and blocking tools as soon as you have what you need for a report. Report the account for sexual contact with a child or grooming, then block it so the person cannot keep contacting your child there.
 
-5. **Make a formal report to the National Crime Agency via the CEOP Safety Centre.** This is the primary UK law enforcement route for reporting online grooming or sexual advances toward a child.
-   - You will need to provide your contact details and the evidence you captured.
-   - CEOP advisors will review the report and coordinate with local police if necessary.
+5. You can make a report to CEOP if an adult has been making sexual advances or sexualised contact with your child online. This is a UK-specific route for concerns about online child sexual abuse and grooming involving under-18s.
 
-6. **Call 999 if there is an immediate risk of a physical meeting or if the adult knows your child’s location.** If the threat is not immediate but you want to speak to local police, call 101 or use the online reporting tool for your local force.
+6. Contact the police on 999 if your child is in immediate danger, the adult is trying to meet them, knows where they are, or is making threats. If it is not an emergency but you need police involvement, call 101 or report it online to the police.
 
-7. **Notify the Designated Safeguarding Lead (DSL) at your child’s school about the incident.** Schools have established protocols for supporting children who have experienced online harm and can provide additional monitoring.
+7. Get support for your child the same day from a trusted safeguarding adult if needed, such as the school’s safeguarding lead, especially if the contact is ongoing, your child is distressed, or the person may try to re-contact them.
 
-8. **Contact the NSPCC Helpline on 0808 800 5000 if you need professional advice on the next steps.** They can help you navigate the reporting process and discuss how to support your child’s emotional recovery.
+8. If sexual images have already been shared or there is pressure to send them, do not negotiate with the adult. Focus on safety, reporting, and specialist support. If you need extra support as a parent or carer, the NSPCC Helpline can help you think through the next immediate steps.
 
 ## What can wait
-- You do not need to decide on a permanent ban from gaming today.
-- You do not need to research the adult’s identity or location yourself.
-- You do not need to change every password or privacy setting on every device right this second.
-- You do not need to have a detailed "internet safety" lecture while the situation is still acute.
+
+You do not need to decide today whether to keep using that game or app, change every privacy setting, or have a big “internet safety” talk. You also do not need to work out who the adult really is, prove their age, or run your own investigation before reporting.
 
 ## Important reassurance
-Manipulation by adults online is designed to be confusing and to bypass a child's natural caution. Your child being targeted is a reflection of the adult's behavior, not your child’s character or your parenting. Taking these steps now is the most effective way to stop the harm and protect other children.
+
+Children are often manipulated in ways that are confusing, flattering, secretive, or frightening. A calm response from you now can reduce shame and make it more likely your child will keep telling you important things.
 
 ## Scope note
-This guide provides first-step stabilization and reporting instructions only. Long-term safeguarding and support should be managed through official channels like CEOP, the police, and school safeguarding teams.
+
+This is first steps only. Later decisions about safeguarding, school support, platform safety, or police follow-up may need specialist help.
 
 ## Important note
-This information is for general guidance and does not constitute legal or clinical advice. Always prioritize immediate physical safety by contacting emergency services if a child is in danger.
+
+This is general information, not legal, clinical, or investigative advice. In highly sensitive situations like this, the safest first priority is your child’s immediate emotional and physical safety, then using the appropriate reporting route.
 
 ## Additional Resources
 - https://www.ceop.police.uk/Safety-Centre/
-- https://www.ceop.police.uk/ceop-reporting/
-- https://www.nspcc.org.uk/keeping-children-safe/online-safety/online-games/
+- https://www.ceop.police.uk/Safety-Centre/what-is-online-child-sexual-abuse/
+- https://www.ceopeducation.co.uk/parents/Get-help/Reporting-an-incident/
+- https://www.gov.uk/report-child-abuse
 - https://www.nspcc.org.uk/keeping-children-safe/online-safety/online-reporting/
-- https://www.nspcc.org.uk/keeping-children-safe/types-of-abuse/grooming/

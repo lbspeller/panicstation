@@ -1,92 +1,87 @@
----
+﻿---
 title: "What to do if… you are asked for passport details to reissue a ticket and your passport is not accessible right now"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "asked for passport details"
-  - "reissue a ticket"
-  - "passport not accessible"
-  - "passport details request"
-  - "airline passport number request"
-  - "travel agent passport request"
-  - "advance passenger information uk"
-  - "api data request"
-  - "electronic travel authorisation uk"
-  - "eta passport details"
-  - "verify passport request"
-  - "airline ticket reissue"
-  - "passport locked away"
-  - "passport in hotel safe"
-  - "cannot find passport"
-  - "passport number for booking"
-  - "travel document request scam"
-  - "suspicious airline email"
-  - "verify travel agent"
-  - "airline booking reference"
-  - "travel document security"
-  - "protecting passport data"
-  - "uk travel requirements 2026"
-  - "rebooking flight passport"
-  - "passport expiry date request"
-  - "identity theft travel"
-  - "phishing for passport"
-  - "secure passport upload"
-  - "airline official website"
-  - "flight booking change"
-  - "passport details uk"
-  - "ticket reissue uk"
-  - "accessing passport details"
-  - "passport info needed"
-last_reviewed: "2026-03-17"
+  - asked for passport details
+  - airline wants passport number
+  - ticket reissue needs passport
+  - passport not accessible right now
+  - passport in hotel safe
+  - passport locked away
+  - can’t access my passport
+  - passport details request email
+  - passport details request call
+  - travel agent requesting passport
+  - airline rebooking passport info
+  - advance passenger information issue
+  - api details missing
+  - worried it’s a scam
+  - suspicious request for passport scan
+  - urgent passport info request
+  - identity theft concern
+  - travelling abroad documents
+  - reissue ticket time limit
+  - booking change passport details
+last_reviewed: "2026-03-08"
 ---
-# What to do if… you are asked for passport details to reissue a ticket and your passport is not accessible right now (UK)
 
+# What to do if… you are asked for passport details to reissue a ticket and your passport is not accessible right now (UK)
 ## Short answer
-Do not provide any data through the link or phone number provided in the request; instead, log in to your official airline or travel agent account independently to check for pending "Advance Passenger Information" (API) or "Electronic Travel Authorisation" (ETA) requirements. If the request is legitimate, use the secure portal within your account to provide only the minimum necessary fields.
+Pause and verify the request using an official contact route you choose. If it’s genuine, ask for a secure way to provide the **minimum** required details and a short extension until you can access your passport.
 
 ## Do not do these things
-- Don't click links in emails or texts that take you to a login page or a data-entry form.
-- Don't send a photograph or scan of your passport via email, WhatsApp, or social media messaging.
-- Don't provide payment for a "reissue fee" or "admin charge" via bank transfer, cryptocurrency, or gift cards.
-- Don't allow a caller to pressure you into revealing details by claiming your flight will be cancelled in the next few minutes.
-- Don't use a search engine to find a "customer service number" for the airline, as fraudulent "sponsored" numbers often appear at the top of results; use the official app or the URL on your original booking confirmation.
+- Don’t send a photo/scan of your passport over a random email thread, WhatsApp, or social media message just because it feels urgent.
+- Don’t use upload links from unexpected messages; instead, open the airline/agent app or type their official website address yourself and use the upload/form inside your account.
+- Don’t share more than asked (for example, don’t send a full passport scan if they only need the passport number and expiry date).
+- Don’t assume a caller is genuine because they know your name/flight details — those can be leaked or guessed.
+- Don’t rush into rebooking elsewhere while you’re unsure whether this is legitimate (it can create duplicate bookings/charges and make the reissue harder).
 
 ## What to do now
-1. **Verify the request by logging into your official account via a known safe route.** **Open the airline or travel agent's official website by typing the address directly into your browser or using their verified mobile app.**
-   - Look for alerts regarding Advance Passenger Information (API).
-   - Check if an Electronic Travel Authorisation (ETA) is required for your destination or transit point, as 2026 rules have expanded these requirements.
-2. **Contact the company using a verified phone number if no request is visible in your account.** **Call the official customer service number found on your original booking confirmation or the "Contact Us" section of their official website.**
-   - Explain that you received a request for passport details and need to verify its authenticity.
-   - Ask if the ticket reissue is mandatory and what the specific deadline is.
-3. **Request a secure upload method if you cannot provide the details immediately.** **Inform the agent that your physical passport is currently inaccessible and ask for a 24-hour extension to provide the data through their secure portal.**
-   - Most airlines allow you to save your progress and return to the API/ETA section later.
-   - Confirm exactly which fields are mandatory (usually passport number, expiry date, and issuing country).
-4. **Locate your details through a trusted, pre-existing digital record if available.** **Check your own secure records, such as an encrypted password manager, a previous booking confirmation you saved yourself, or the "Saved Travellers" section of your airline frequent flyer account.**
-   - Do not trust "copies" of your passport sent to you by third parties.
-   - Ensure the details found are current and have not expired.
-5. **Report the communication if it is confirmed to be fraudulent.** **Follow the UK government's reporting protocols for suspicious travel-related messages.**
-   - Forward suspicious emails to the National Cyber Security Centre (NCSC) at **report@phishing.gov.uk**.
-   - Forward suspicious text messages to **7726** (free of charge).
-   - If you are in England, Wales, or Northern Ireland and have shared data, report it to **Action Fraud** at 0300 123 2040.
-   - If you are in Scotland, report the incident to **Police Scotland** via 101.
+1. **Verify who is asking (before sharing anything).**  
+   Use a contact method you find yourself (airline/agent website or app, the number on your booking confirmation, or the contact details inside your airline account) — not the number/link in the message. Ask them to confirm:
+   - your booking reference
+   - what exact passport fields they need (e.g., number/expiry/issuing country)
+   - why they need it for a reissue (for example, to complete Advance Passenger Information for an international route, or to match traveller details)
+2. **Ask for the safest method and the minimum data.**  
+   Say: “My passport isn’t accessible right now. What’s the minimum you need, and can I provide it through your in-app form or secure portal reached from your official site?”  
+   If they insist on an image: ask **exactly** what they need visible and whether anything can be safely hidden — only redact non-required parts if they confirm what will still be accepted.
+3. **Buy time in a controlled way.**  
+   If it’s legitimate but you can’t access the passport, ask them to:
+   - place a short hold on the reissue (or note your file)
+   - confirm the deadline and what happens if you miss it
+   - send that deadline via an official channel (in-app message, or email from their official domain)
+4. **Check whether you already have the passport details safely (without guessing).**  
+   Look only in places you control:
+   - your airline account “traveller details” section (if you previously stored it)
+   - a secure password manager/encrypted notes vault you control
+   - travel documents you created yourself (not something a stranger sent you)  
+   If you find details, still provide them only via a verified secure route.
+5. **If anything feels off, stop and report it.**  
+   Warning signs include pressure (“final chance”), requests for extra data (bank login, payment card photos, selfie/video), mismatched domains, or refusal to use official channels. If suspicious:
+   - **Email scam**: forward to **report@phishing.gov.uk**
+   - **Text scam**: forward to **7726** (free)
+   - If you think you’ve been targeted by fraud: use **Report Fraud / Action Fraud** reporting routes  
+   Keep screenshots and sender details for your own records, but don’t forward passport data around.
 
 ## What can wait
-- You do not need to decide on whether to upgrade your ticket or change your seats while verifying the passport request.
-- You do not need to file a formal complaint about the "inconvenience" until your travel documents are secured and the ticket is reissued.
-- You do not need to renew your passport immediately unless you discover during this process that it has already expired.
+- You do not need to decide today whether to switch providers, escalate complaints, or pursue refunds.
+- You don’t need to send a full passport scan “just in case” — you can wait until you know exactly what’s required and how it will be handled.
+- You don’t need to resolve every travel-document detail right now; focus only on verifying legitimacy and meeting the reissue requirement safely.
 
 ## Important reassurance
-Requests for passport data are common during ticket reissues because of strict international "Advance Passenger Information" laws and the 2026 ETA rollouts. It is standard practice for a traveller to be cautious; legitimate companies expect you to use their secure portals rather than insecure email threads. Pausing to verify is a sign of good digital hygiene, not a failure to cooperate.
+It’s normal to feel rushed when travel is involved — that pressure is exactly what scams exploit. Taking a few minutes to verify and insisting on secure handling is a sensible, protective response.
 
 ## Scope note
-This guide covers first-step stabilization for responding to a data request. It does not cover the process for replacing a lost or stolen passport, nor does it provide legal assistance for identity theft.
+This is first-steps guidance for handling a request for passport details during a ticket reissue when you can’t access your passport immediately. If your passport is lost/stolen, or you’re abroad and cannot travel, you may need additional official help beyond this.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional travel advice. Carriers are legally required to collect specific data (API/ETA) under the Immigration Act 1971 and subsequent 2024/2026 orders. Always use verified channels to communicate with travel providers.
+This is general information, not legal advice. Airline and agent processes vary, and some routes require Advance Passenger Information for security/border purposes. If you’re unsure, use verified official contact routes and provide only the minimum information through secure channels.
 
 ## Additional Resources
-- https://www.gov.uk/get-a-passport-urgently
-- https://www.gov.uk/renew-adult-passport/replace
-- https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport
-- https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply
-- https://www.gov.uk/government/publications/passenger-name-record-data/passenger-name-record-data
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/collection/phishing-scams
+- https://www.actionfraud.police.uk/report-phishing
+- https://www.reportfraud.police.uk/phishing/
+- https://ico.org.uk/for-the-public/identity-theft/
+- https://www.nidirect.gov.uk/articles/advance-passenger-information-you-travel

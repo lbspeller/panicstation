@@ -1,102 +1,96 @@
----
+﻿---
 title: "What to do if… you lose access to a shared workspace because your role was changed without warning"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "lost access to shared workspace"
-  - "removed from shared drive"
-  - "workspace permissions changed"
-  - "role changed without warning"
-  - "access revoked at work"
-  - "locked out of work tools"
-  - "sso login suddenly failing"
-  - "mfa works but no access"
-  - "shared drive access removed"
-  - "google workspace access restricted"
-  - "microsoft 365 access removed"
-  - "slack workspace removal help"
-  - "account disabled by admin"
-  - "permissions downgraded unexpectedly"
-  - "sudden offboarding procedures uk"
-  - "access error after role change"
-  - "can’t open shared documents"
-  - "collaboration tools locked out"
-  - "admin rights removed suddenly"
-  - "work account restricted error"
-  - "help i lost access to teams"
-  - "help i can't see my files"
-  - "what do i do if my work email stopped working"
-  - "what do i do if i am locked out of slack"
-  - "what do i do if my permissions changed"
-  - "what do i do if i was removed from a group"
-  - "my sharepoint access is gone"
-  - "my work account is suspended"
-  - "greyed out files in workspace"
-  - "access denied message at work"
-last_reviewed: "2026-03-17"
+  - lost access to workspace
+  - removed from shared workspace
+  - workspace permissions changed
+  - role changed without warning
+  - access revoked at work
+  - locked out of work tools
+  - sso login suddenly failing
+  - mfa works but no access
+  - shared drive access removed
+  - google workspace access removed
+  - microsoft 365 access removed
+  - slack removed from workspace
+  - account disabled by admin
+  - permissions downgraded unexpectedly
+  - sudden offboarding fear
+  - access error after role change
+  - can’t open shared documents
+  - collaboration tools locked out
+  - admin rights removed
+  - work account restricted
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… you lose access to a shared workspace because your role was changed without warning (UK)
 
 ## Short answer
-Document the exact error message and timestamp, then immediately contact your IT helpdesk and line manager to clarify if the change was administrative, a security precaution, or an error.
+Treat this as either an administrative change or a security safeguard: stop trying random fixes, capture what you’re seeing, and contact your IT/helpdesk and your manager immediately with a clear request to confirm and restore the access you need.
 
 ## Do not do these things
-- Do not attempt to bypass access controls using personal accounts, VPNs, or colleagues' login credentials.
-- Do not repeatedly attempt to log in or trigger multiple MFA prompts, as this may be flagged as a brute-force attack by security systems.
-- Do not use personal devices to "search for" or "back up" corporate data once your official access has been restricted.
-- Do not post public or wide-group messages accusing individuals of misconduct or "firing" you until the situation is confirmed.
-- Do not delete local caches, browser history, or temporary files that may contain diagnostic evidence for IT.
+- Do not try to “work around” access controls (using someone else’s login, personal accounts, VPN tricks, or exporting restricted files).
+- Do not repeatedly spam login/2FA attempts — it can trigger lockouts and looks like suspicious activity.
+- Do not message wide groups accusing someone of misconduct; keep communications factual and private at first.
+- Do not install unapproved apps/extensions “to get back in”.
+- Do not delete local files, emails, or chat history in a panic.
 
 ## What to do now
-1. **Record the specific sensory and technical cues of the lockout.**
-   - Note the exact time access was lost.
-   - Capture the full text of any error codes (e.g., "Account Disabled", "403 Forbidden", "License Not Assigned").
-   - Identify if the failure is at the Identity Provider level (cannot sign in to SSO) or application level (can sign in but cannot see folders).
+1. **Pause and note exactly what changed (2 minutes).**  
+   Write down: the time it started, which workspace/tool (e.g., shared drive, Teams/SharePoint, Slack, Jira), what action fails (sign-in vs specific folders/channels), and the exact error message. Take a screenshot if allowed by policy.
 
-2. **Submit an urgent technical incident report via the approved company channel.**
-   - **Use neutral, objective language to describe the impact on your immediate duties.**
-   - State: "**I am currently unable to access [Specific Workspace Name] which is required for [Specific Task]. Please confirm if this is a licensing update, a group policy change, or a security-related suspension.**"
-   - Request a formal ticket number and a timeline for a response.
+2. **Check whether it’s an identity/SSO issue vs a permission issue.**  
+   - If you can’t sign in at all: note whether the failure is password, MFA, “account disabled”, or “contact admin”.  
+   - If you can sign in but can’t see projects/files/channels: that’s usually a role/group membership change.
 
-3. **Notify your direct line manager in writing using a secondary channel.**
-   - Send a brief, factual message via email or company-approved mobile messaging.
-   - **Inform them that you are currently blocked from work and have opened IT ticket #[Number].**
-   - Ask for confirmation on whether your role or permissions were intentionally modified.
+3. **Open an urgent IT ticket (or call the helpdesk) using clear, audit-friendly wording.**  
+   Say: “**My role/access appears to have changed without warning; I’ve lost access to [workspace] needed for today’s work. Please confirm whether my account was disabled/downgraded or group membership changed, restore required access, and advise if this was a security action.**”  
+   Ask for a **ticket/reference number** and **who is assigned**.
 
-4. **Follow suspected account compromise protocols if unauthorized activity is observed.**
-   - If you received password reset notifications or MFA prompts you did not trigger, report this as a "potential security incident" rather than a "technical bug".
-   - **Refer IT to NCSC guidelines for compromised work accounts if they require a standard framework for response.**
+4. **Ask your manager (in writing) to confirm what’s going on.**  
+   Send a short message: “I’ve suddenly lost access to [workspace]. IT ticket #____ is open. Can you confirm if my role or permissions were changed and what I should do next?”  
+   This creates a timestamped record without escalating emotionally.
 
-5. **Request a "Controlled Handover" if you hold critical admin or owner rights.**
-   - If your lack of access is causing a wider operational outage, ask IT for the "break-glass" procedure to transfer ownership to another verified staff member.
-   - **Do not attempt to perform this transfer via unofficial workarounds.**
+5. **If compromise is possible, treat it as a security incident and follow your organisation’s process.**  
+   If you see unexpected MFA prompts, unfamiliar device/session notices, “impossible travel” alerts, or password reset notices you didn’t trigger:  
+   - Report it to your **IT/security contact** as **suspected account compromise** (those words matter).  
+   - Ask them to confirm whether a security control restricted your access and to **revoke active sessions/force sign-out** as appropriate.  
+   - Follow their process for password reset and device checks on managed devices.
 
-6. **Create an offline log of blocked dependencies.**
-   - List every project or deadline that is currently halted due to the access change.
-   - **Notify relevant project leads that you are "technically blocked pending IT resolution" without speculating on the cause.**
+6. **If you were an admin/owner and access loss blocks operations, request a controlled handover.**  
+   Ask IT/security for the organisation’s **admin recovery / break-glass** route (another admin to temporarily grant access, reassign ownership, or restore a suspended user) and to **log** any changes they make.
 
-7. **Invoke Subject Access Request (DSAR) rights if the change is related to a dispute.**
-   - Under the Data (Use and Access) Act 2025, you have the right to request personal data held about you, including internal notes regarding role changes.
-   - **Submit this request in writing to the Data Protection Officer (DPO) if the lockout remains unexplained after 24 hours.**
+7. **Protect today’s work without moving restricted data.**  
+   - Make a simple list of what you must deliver today and what dependencies are blocked.  
+   - If you have drafts locally, keep them on approved storage only (managed device / approved drive).  
+   - Inform the relevant project owner that you are blocked pending IT restore (no blame, just impact).
+
+8. **If this looks like an employment/contract change, keep it procedural.**  
+   Ask for the change and its impact (duties, access, reporting line) **in writing**. If you need early workplace rights guidance, you can consider speaking to your union rep (if relevant) or ACAS — but first stabilise access and clarify the immediate situation.
 
 ## What can wait
-- You do not need to determine if this constitutes a "breach of contract" in the first hour.
-- You do not need to inform clients or external partners about internal access issues.
-- You do not need to decide on a formal grievance path or contact ACAS immediately unless the lockout is accompanied by a formal dismissal notice.
-- You do not need to assume the change is permanent or disciplinary until confirmed by HR or your manager.
+- You do not need to decide today whether to challenge the role change formally.
+- You do not need to write a long explanation to colleagues or clients right now.
+- You do not need to “clean up” accounts, files, or chats in the moment.
+- You do not need to guess whether it’s disciplinary, redundancy-related, or a security mistake — get confirmation first.
 
 ## Important reassurance
-Access changes are frequently caused by automated licensing refreshes, directory synchronization errors, or standard security protocols triggered by unusual login locations. These technical events are common in UK corporate environments and do not inherently indicate a change in your employment status.
+Sudden loss of access is common during reorganisations, license changes, group-policy updates, security actions, or admin mistakes. Feeling panicked is normal — but the safest move is to slow down, record what you see, and route it through IT and your manager so it can be corrected cleanly.
 
 ## Scope note
-This guide provides first-step stabilization only for the immediate technical and procedural lockout. It does not cover legal strategy for redundancy, dismissal, or long-term employment disputes.
+These are first steps to stabilise the situation, avoid policy breaches, and create a clear record. Later steps (formal grievance, contract questions, data requests) may be appropriate, but they’re not the priority in the first hour.
 
 ## Important note
-This information is for general guidance and does not constitute legal, HR, or cybersecurity advice. Always follow your specific organizational policies and use official reporting lines. Technical procedures for platforms like Microsoft 365 or Google Workspace are subject to change based on organizational administrative settings.
+This guide provides general, practical first-step information and is not legal, HR, or security advice. Follow your organisation’s policies and use official IT/security channels where possible.
 
 ## Additional Resources
+- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.ncsc.gov.uk/collection/using-online-services-safely/recovering-hacked-account-or-service
 - https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees
-- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees/consulting-on-changes-to-your-employment-contract
-- https://www.citizensadvice.org.uk/work/changes-to-employment-contracts-overview/
-- https://www.gov.uk/raise-grievance-at-work
-- https://www.citizensadvice.org.uk/work/grievance-meetings/dealing-with-grievances-at-work/
+- https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees/if-your-employer-introduces-a-contract-change-without-your-agreement
+- https://www.gov.uk/your-employment-contract-how-it-can-be-changed/dealing-with-problems
+- https://slack.com/intl/en-gb/help/articles/360055665434-Reactivate-your-Slack-account
+- https://knowledge.workspace.google.com/admin/users/restore-a-suspended-user

@@ -1,84 +1,91 @@
----
+﻿---
 title: "What to do if… you are on blood thinners and develop a new headache or unexplained bruising"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "blood thinners new headache"
-  - "anticoagulant headache and bruising"
-  - "warfarin unexplained bruises"
-  - "doac bruising for no reason"
-  - "apixaban bruising and headache"
-  - "rivaroxaban new headache"
-  - "dabigatran easy bruising"
-  - "edoxaban bruising concern"
-  - "sudden severe headache on anticoagulant"
-  - "headache after bump on blood thinners"
-  - "unexplained large bruises"
-  - "bruises getting bigger"
-  - "possible internal bleeding signs"
-  - "bleeding signs on blood thinners"
-  - "new headache not like usual"
-  - "bruising without injury"
-  - "blood thinner safety check"
-  - "what do i do if i have a headache on warfarin"
-  - "what do i do if i am bruising on apixaban"
-  - "what do i do if my head hurts on blood thinners"
-  - "what do i do if i have unexplained bruises"
-  - "help i am on blood thinners and have a headache"
-  - "help i have purple marks on my skin"
-  - "my bruises are spreading on blood thinners"
-  - "my head feels heavy on anticoagulants"
-  - "smell of blood in nose"
-  - "black marks on skin blood thinners"
-  - "tender purple patches on legs"
-  - "worst headache ever on blood thinners"
-  - "bruising on arms for no reason"
-last_reviewed: "2026-03-16"
+  - blood thinners new headache
+  - anticoagulant headache and bruising
+  - warfarin unexplained bruises
+  - doac bruising for no reason
+  - apixaban bruising and headache
+  - rivaroxaban new headache
+  - dabigatran easy bruising
+  - edoxaban bruising concern
+  - sudden severe headache on anticoagulant
+  - headache after bump on blood thinners
+  - unexplained large bruises
+  - bruises getting bigger
+  - possible internal bleeding signs
+  - bleeding risk blood thinner
+  - anticoagulant side effects worry
+  - warfarin inr too high symptoms
+  - new headache not like usual
+  - bruising without injury
+  - blood thinner safety check
+last_reviewed: "2026-01-21"
 ---
+
 # What to do if… you are on blood thinners and develop a new headache or unexplained bruising (UK)
 
 ## Short answer
-Treat a new, unusual, or severe headache as an emergency and call 999 or attend A&E immediately. For unexplained or spreading bruising without other symptoms, contact your GP, NHS 111, or anticoagulation clinic for an urgent review today.
+Treat this as **urgent**. If the headache is **sudden/severe**, you have **any stroke-like symptoms**, or you’ve had a **recent head knock/fall**, call **999** or go to **A&E** now.
 
 ## Do not do these things
-- Do not ignore a new or unusual headache while on blood thinners, even if you think it is a standard tension headache.
-- Do not take aspirin, ibuprofen, naproxen, or other non-steroidal anti-inflammatory drugs (NSAIDs) unless specifically instructed by a doctor who knows you are on an anticoagulant.
-- Do not apply heat to new or spreading bruises; use a cool compress if the area is swollen or tender.
-- Do not drive yourself to a medical facility if you feel dizzy, confused, or have any changes to your vision.
-- Do not stop taking your prescribed anticoagulant or skip doses to "stop the bleeding" without direct clinical instruction.
-- Do not wait until the next morning if you have signs of a "red flag" emergency.
+- Do **not** ignore a new or unusual headache while on blood thinners, especially if it’s getting worse.
+- Do **not** take **aspirin** or **NSAIDs such as ibuprofen** (and similar anti-inflammatories) unless a clinician has already told you it’s safe with your anticoagulant.
+- Do **not** start any new **over-the-counter medicines** (including cold/flu products) or **herbal supplements** without checking with a pharmacist/clinician first.
+- Do **not** drive yourself to get help if you feel faint, confused, or your vision/speech is affected.
+- Do **not** stop or skip doses “just in case” without **urgent clinical advice**. If you’re being sent to **A&E/999** for suspected serious bleeding, **do not take further doses unless a clinician tells you to**, and bring the medicine with you.
 
 ## What to do now
-1. **Identify if you need an emergency ambulance by checking for red flags.**  
-   Call **999** immediately if you experience a sudden, agonizing headache (often described as a "thunderclap"), confusion, slurred speech, facial drooping, or weakness in your limbs.
-2. **Seek immediate medical assessment if you have had any head injury.**  
-   Go to **A&E** or call **999** if you have bumped your head or fallen recently, as anticoagulants significantly increase the risk of internal bleeding that may not show symptoms immediately.
-3. **Contact an urgent clinical service for non-emergency symptoms.**  
-   Call **NHS 111**, your **GP**, or your **local anticoagulation clinic** today if you have new bruising that appears without injury, bruises that are larger than a 2-pound coin, or a headache that is persistent but not "severe."
-4. **Prepare your medication details for the clinician.**  
-   **Find the name and dosage of your blood thinner (e.g., Warfarin, Apixaban, Rivaroxaban, Edoxaban, or Dabigatran) and note exactly when you took your last dose.**
-5. **Locate your anticoagulation record or alert card.**  
-   **Keep your "yellow book" (INR record) or manufacturer’s alert card ready to show medical staff, as this contains vital information for managing potential bleeding.**
-6. **Ask a friend or family member to stay with you while you wait for advice.**  
-   **Ensure someone is present who can monitor you for changes in alertness or physical coordination while you are being assessed or waiting for a callback.**
+1. **Check for emergency red flags (act immediately if any apply).**  
+   Call **999** (or go to **A&E**) if you have:
+   - a **sudden, very severe** headache, or the “worst” headache you’ve had
+   - confusion, collapse, fainting, severe drowsiness, seizure
+   - weakness/numbness on one side, face droop, trouble speaking, vision changes, new imbalance
+   - a headache after a **fall, bump, or blow to the head** (even if you felt “OK” at the time)
+   - bleeding you can’t control, vomiting blood/“coffee grounds”, black/tarry poo, or red/pink/brown urine
+
+2. **If it’s not an emergency, get urgent clinical advice today.**  
+   - Call **NHS 111** now, or contact your **GP** / local **anticoagulation clinic** if you’re under one.  
+   - Say clearly: “I’m on a blood thinner and I have a new headache and/or unexplained bruising.”
+
+3. **Work out which blood thinner you’re on and when you last took it (so you can tell the clinician).**  
+   - Warfarin? Apixaban? Rivaroxaban? Dabigatran? Edoxaban?  
+   - Note the **dose** and the **time of the last dose**.
+
+4. **If you take warfarin, expect they may want an urgent INR check.**  
+   - Have your **INR record/booklet** (often a “yellow book”) or app/clinic details ready.  
+   - Mention any recent **missed/double doses**, illness with vomiting/diarrhoea, or new medicines (especially antibiotics) or supplements.
+
+5. **Quickly scan for other bleeding clues you might not have linked to this.**  
+   Look for: bleeding gums, frequent nosebleeds, unusually heavy periods, bruises that are **larger than expected**, **appear without injury**, or **keep growing**, plus blood in vomit/poo/urine or unusual dizziness/weakness.
+
+6. **Make it safer while you wait for help.**  
+   - Avoid falls/knocks: sit down if dizzy, avoid stairs/risky tasks.  
+   - If possible, ask someone to stay with you.  
+   - Gather medication packets and any **anticoagulant alert card** you have.
 
 ## What can wait
-- You do not need to identify why the bruising started before calling for help.
-- You do not need to worry about long-term medication changes right now; the focus is on stabilizing the current moment.
-- You do not need to "prove" the headache is serious by waiting for it to get worse.
+- You do **not** need to figure out the exact cause of the headache or bruises right now.
+- You do **not** need to decide whether you should stop anticoagulation long-term — that decision should be made with a clinician based on your clotting risk.
+- You do **not** need to “test” the headache with painkillers first (some are unsafe with anticoagulants).
+- You do **not** need to contact multiple services at once: one urgent clinical contact (111/GP/anticoag clinic) is enough unless red flags develop.
 
 ## Important reassurance
-It is normal to feel concerned when you notice unusual symptoms while taking blood thinners. These medications are effective at preventing clots, but they require vigilance regarding side effects. Seeking help early is the standard protocol and is the best way to ensure any issues are managed safely before they escalate.
+It’s common to feel alarmed by a new headache or unexpected bruising on blood thinners. Many causes are treatable, and getting advice early is the safest way to prevent serious bleeding complications without making risky medication changes in panic.
 
 ## Scope note
-This guide provides first-step stabilization for identifying and reacting to potential bleeding complications. It does not replace professional medical diagnosis or the long-term management of anticoagulation therapy.
+This guide covers **first steps only** for the next few hours. Ongoing decisions (dose changes, switching anticoagulants, investigating bruising) may need your GP, anticoagulation clinic, or hospital team.
 
 ## Important note
-This information is for general guidance and is not a substitute for professional medical advice. Anticoagulants carry a known risk of major bleeding; if you are in doubt about a symptom, always choose the safer option and seek urgent medical care.
+This is general information, not medical diagnosis or personal medical advice. If symptoms are severe, sudden, worsening, or you’re unsure, choose the safer option and seek urgent care.
 
 ## Additional Resources
 - https://www.nhs.uk/medicines/anticoagulants/side-effects/
-- https://www.nhs.uk/medicines/warfarin/
-- https://www.nhs.uk/medicines/apixaban/
-- https://www.nhs.uk/medicines/rivaroxaban/side-effects-of-rivaroxaban/
-- https://www.nth.nhs.uk/resources/anticoagulants-blood-thinners/
+- https://www.nhs.uk/medicines/warfarin/taking-warfarin-with-other-medicines-and-herbal-supplements/
+- https://www.nhs.uk/conditions/stroke/symptoms/
+- https://www.cuh.nhs.uk/patient-information/oral-anticoagulant-therapy-with-warfarin-phenindione-or-acencoumarol/
+- https://www.nbt.nhs.uk/our-services/a-z-services/pharmacy/pharmacy-patient-information-leaflets/warfarin-therapy
+- https://www.guysandstthomas.nhs.uk/health-information/vitamin-k-antagonists/side-effects
+- https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/drug-cabinet/doac

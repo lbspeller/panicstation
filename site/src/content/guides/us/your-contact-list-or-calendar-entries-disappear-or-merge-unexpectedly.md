@@ -1,103 +1,88 @@
----
+﻿---
 title: "What to do if… your contact list or calendar entries disappear or merge unexpectedly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "repeated permission popups"
-  - "system permissions after update"
-  - "permission prompts feel wrong"
-  - "app asking for camera access"
-  - "app asking for microphone access"
-  - "app asking for contacts access"
-  - "app asking for photos access"
-  - "app asking for location access"
-  - "unexpected privacy prompts"
-  - "android permission manager"
-  - "iphone privacy and security"
-  - "new permissions request loop"
-  - "possible malware on phone"
-  - "suspicious app behaviour"
-  - "update changed permissions"
-  - "prompts won't stop"
-  - "device privacy panic"
-  - "app privacy report iphone"
-  - "permission fatigue"
-  - "help i have too many popups"
-  - "my phone keeps asking for access"
-  - "what do i do if permissions wont stop"
-  - "what do i do if a prompt feels wrong"
-  - "my device is asking for location after update"
-  - "suspicious system permission request"
-  - "how to stop app prompts"
-  - "strange permission icons on screen"
-  - "device behaving weirdly after update"
-  - "privacy report shows camera usage"
-  - "security and privacy settings android"
-last_reviewed: "2026-03-17"
+  - contacts disappeared
+  - calendar events missing
+  - contacts merged unexpectedly
+  - duplicate contacts suddenly
+  - calendar entries merged
+  - phone contacts wiped
+  - synced contacts missing
+  - icloud contacts missing
+  - google contacts missing
+  - outlook contacts missing
+  - calendar trash restore
+  - undo contact changes
+  - wrong account signed in
+  - multiple accounts mixing
+  - sync conflict
+  - data overwritten by sync
+  - contacts missing after update
+  - calendar missing after new phone
+  - account takeover warning
+  - suspicious account activity
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your contact list or calendar entries disappear or merge unexpectedly (USA)
 
 ## Short answer
-Stop granting requests immediately and revoke sensitive access for any suspicious or unfamiliar apps through your device's core privacy settings. If you suspect your accounts are compromised, change your primary passwords from a separate, trusted device.
+Freeze syncing, confirm what still exists in the web account, then use the provider’s restore/undo features before you make any manual edits.
 
 ## Do not do these things
-- Don't keep selecting "Allow" or "Accept" just to clear the screen of pop-ups.
-- Don't download any "cleaner" or "antivirus" apps suggested by a pop-up or web ad.
-- Don't enter passwords or log in to sensitive accounts like banking while the prompts are active.
-- Don't follow links in texts or emails that claim you must "fix" your account security.
-- Don't ignore the prompts if they appear when no apps are actively open.
+- Don’t do bulk deletes, mass merges, or “clean up duplicates” while you’re unsure what changed.
+- Don’t keep syncing multiple devices “until it fixes itself” (it can propagate the wrong version everywhere).
+- Don’t factory reset, uninstall/reinstall, or sign out everywhere as a first step.
+- Don’t trust anyone who contacts you asking for verification codes or remote access because of this issue.
+- Don’t rebuild your contacts/events from memory until you’ve checked restore options.
 
 ## What to do now
-1. **Deny all unexpected or repetitive requests immediately.**  
-   If a prompt appears for an app you are not currently using, or if the name of the app is unfamiliar, select **Don't allow** or **Deny**. Repeatedly clicking "Allow" may grant a malicious process permanent access to your data.
-
-2. **Power the device off and back on once.**  
-   A restart can interrupt temporary malicious processes or glitching background services that are stuck in a request loop.
-
-3. **Check for apps with administrative privileges or special access.**  
-   Malicious apps often try to hide by gaining "Device Admin" status.
-   - **Android:** Go to **Settings -> Security & privacy -> More security settings -> Device admin apps**. Ensure no unfamiliar apps are listed.
-   - **iPhone:** Go to **Settings -> General -> VPN & Device Management** and check for any unrecognized profiles.
-
-4. **Audit and revoke sensitive permissions manually.**  
-   Use the device's built-in manager to see which apps have access to your camera, microphone, and location.
-   - **iPhone:** Go to **Settings -> Privacy & Security**. Tap through **Microphone**, **Camera**, and **Location Services** to revoke access for any app that does not strictly need it.
-   - **Android:** Go to **Settings -> Security & privacy -> Privacy -> Permission manager**. Review apps under **Camera**, **Microphone**, and **Location**. Set suspicious apps to **Don't allow**.
-
-5. **Run a manual safety scan on Android devices.**  
-   Open the **Google Play Store**, tap your **Profile Icon**, select **Play Protect**, and tap **Scan**. This checks your apps against known threats in the Google database.
-
-6. **Review the App Privacy Report on iPhone.**  
-   Go to **Settings -> Privacy & Security -> App Privacy Report**. If it is off, turn it on; if it was already on, review the list to see which apps have been accessing sensors or contacting unusual web domains in the last 24 hours.
-
-7. **Uninstall recently added or "lookalike" apps.**  
-   Delete any app that was installed shortly before the prompts started, especially if you downloaded it from a website rather than the official App Store or Play Store.
-
-8. **Secure your primary email and accounts from a different device.**  
-   If you believe the device is compromised, use a different computer or phone to change your email and banking passwords. Enable two-factor authentication (2FA) if it is not already active.
-
-9. **Report suspected cybercrime or identity theft.**  
-   If you have lost money or sensitive data, file a report through official channels.
-   - For internet-enabled fraud: **FBI Internet Crime Complaint Center (IC3)**.
-   - For identity theft: **FTC at IdentityTheft.gov**.
+1. **Pause sync on the device showing the problem.**  
+   - Use Airplane Mode *or* turn off Contacts/Calendar sync for the account involved (Apple ID / Google / Microsoft). The goal is to prevent overwriting a good copy.
+2. **Make a quick record of what happened.**  
+   - Screenshot missing/merged items and any sync/account warnings.  
+   - Write down: when you noticed, which app, and what you did right before (new phone, OS update, added an account, imported contacts, accepted a merge prompt, etc.).
+3. **Check the web version of the account to find the “source of truth.”**  
+   - Log in via a browser: iCloud.com, contacts.google.com, outlook.com People/Contacts, calendar.google.com.  
+   - If the web view is correct but your phone is wrong, treat it as a **device sync/display issue** and keep sync paused until you fix it safely.
+4. **Use built-in recovery/rollback tools (do this before manual edits).**  
+   - **Apple iCloud Contacts/Calendars:** use iCloud’s **Data Recovery** (for example via iCloud.com recovery tools) to restore Contacts and/or Calendars to an earlier archived version.  
+   - **Google Contacts:** use **Undo changes** to roll back the entire contact list **within the past 30 days**.  
+   - **Google Calendar (web):** open **Trash** and restore deleted events (deleted events stay in Trash for **30 days**). If you deleted a recurring series using options like “this and following”, some items may not appear in Trash.  
+   - **Outlook / Microsoft 365:** in People/Contacts, look for a **Deleted** folder (or check mailbox **Deleted Items**), then use **Recover deleted** / **Recover deleted items** if it’s available.
+5. **If the issue is “accounts mixing” (a common cause of merges): isolate accounts before re-enabling sync.**  
+   - On the device, confirm which accounts are enabled for Contacts and Calendars.  
+   - Temporarily leave only the one account you intend to be the default (for example, only Google *or* only iCloud), then re-enable sync cautiously.
+6. **If you suspect account compromise, secure the account right away.**  
+   - Change the password, sign out of all devices/sessions, and enable two-factor authentication (2FA).  
+   - Use your provider’s account activity/security pages to review recent logins and connected apps.
+7. **If this is a work/school account, involve the admin early.**  
+   - Ask IT/admin to check whether they can restore from Microsoft 365/Google Workspace admin tools/backups, and to confirm whether any retention policies affect recovery.
+8. **If you lost money, were scammed, or believe this is connected to a cybercrime, report it.**  
+   - Follow the FTC’s steps for recovering hacked email/social accounts.  
+   - Consider filing a complaint with the FBI’s IC3 if you’re a victim of cyber-enabled crime.
 
 ## What can wait
-- You do not need to perform a factory reset immediately if revoking permissions stops the prompts.
-- You do not need to contact your cellular provider unless you suspect your SIM card has been "swapped" or your phone number is being used by others.
-- You do not need to buy third-party security software; the built-in system tools are the first line of defense.
+- You don’t need to decide today whether to switch devices, apps, or providers.
+- You don’t need to manually re-create contacts or calendar entries until restore/undo options are exhausted.
+- You can delay any “dedupe/cleanup” until after you have a stable, restored dataset.
 
 ## Important reassurance
-It is common for legitimate system updates to trigger a series of new permission requests as privacy laws and technical standards change. Feeling suspicious is a helpful security instinct. Denying a permission is a safe action; if an app truly needs that access to function, it will simply ask again the next time you open it, giving you a chance to review it when you are less hurried.
+It’s normal to feel alarmed—contacts and calendars are “life infrastructure.” Many services keep backups, archives, or trash for a limited period, and the safest move is to stop sync from spreading the problem while you restore.
 
 ## Scope note
-This guide covers immediate stabilization and containment for mobile devices. It does not provide forensic analysis or long-term cybersecurity auditing.
+These are first steps to prevent irreversible loss and maximize recovery. If this turns into an account security issue, you may later want more detailed help securing your accounts and devices.
 
 ## Important note
-This information is for general guidance and does not constitute professional technical or legal advice. Software interfaces change frequently; if your menu names differ, search your device settings for "Privacy" or "Permissions." If the device behavior remains erratic after following these steps, contact the device manufacturer or a certified technician.
+This guide is general information, not professional advice. Recovery options and time limits vary by service and account type. If you’re unsure, pause sync first and use official restore/undo tools before making changes.
 
 ## Additional Resources
-- https://support.apple.com/en-us/102543
-- https://support.apple.com/en-us/102508
+- https://www.icloud.com/recovery
+- https://support.apple.com/guide/icloud/recover-files-and-information-mme6182cfc37/icloud
 - https://support.google.com/contacts/answer/7280886?co=GENIE.Platform%3DDesktop&hl=en
-- https://support.google.com/calendar/answer/37111?hl=en
-- https://support.microsoft.com/en-us/office/manage-duplicate-contacts-in-outlook-0fa9c0a0-499a-48ab-b818-4e6463ccb9fa
+- https://support.google.com/calendar/answer/37113?co=GENIE.Platform%3DDesktop&hl=en
+- https://support.office.com/en-US/article/Recover-a-deleted-contact-in-Outlook-51c83288-6888-4dcd-8c99-4932daabf643
+- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
+- https://www.ic3.gov/

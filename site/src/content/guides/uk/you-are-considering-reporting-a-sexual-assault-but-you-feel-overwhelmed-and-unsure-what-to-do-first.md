@@ -1,91 +1,78 @@
----
+﻿---
 title: "What to do if… you are considering reporting a sexual assault but you feel overwhelmed and unsure what to do first"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "considering reporting sexual assault"
-  - "unsure about reporting rape"
-  - "overwhelmed after sexual assault"
-  - "thinking about going to police"
-  - "sexual assault options uk"
-  - "what do i do if i was sexually assaulted"
-  - "what do i do if i want to report rape"
-  - "what do i do if i am scared to report"
-  - "help i was sexually assaulted and am confused"
-  - "my options after sexual assault"
-  - "help i want to tell the police"
-  - "my rights after rape"
-  - "smell of alcohol or drugs"
-  - "physical pain after assault"
-  - "visible bruising or marks"
-  - "feeling numb or frozen"
-  - "report sexual assault anonymously"
-  - "sexual assault referral centre"
-  - "sarc self referral"
-  - "isva support uk"
-  - "rape crisis helpline number"
-  - "forensic evidence collection timeframe"
-  - "preservation of evidence uk"
-  - "reporting assault in scotland"
-  - "sexual assault reporting process"
-  - "deciding to report sexual violence"
-  - "reporting rape anonymously"
-  - "confidential assault support"
-  - "police report sexual offence"
-  - "sexual violence help lines"
-last_reviewed: "2026-03-17"
+  - considering reporting sexual assault
+  - unsure about reporting rape
+  - overwhelmed after sexual assault
+  - not ready to report yet
+  - thinking about going to police
+  - scared to tell anyone
+  - what happens if i report
+  - do i have to report
+  - want support before reporting
+  - sexual assault options uk
+  - rape reporting anxiety
+  - unsure what counts as assault
+  - feel frozen and confused
+  - worried i will not be believed
+  - need help deciding next step
+  - want confidential support
+  - coping right after assault
+  - pressure to report
+  - unsure about medical help
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you are considering reporting a sexual assault but you feel overwhelmed and unsure what to do first (UK)
 
 ## Short answer
-Locate a secure space where you can pause for a few minutes, then contact a specialist support service to discuss your options without the pressure of making an immediate police report. You can access medical care and forensic evidence collection at a Sexual Assault Referral Centre (SARC) even if you have not decided to involve the police.
+Get one supportive, confidential person/service alongside you first, then take one small step: either speak to a specialist support line or contact a Sexual Assault Referral Centre (SARC). You do not need to decide about the police right now to get help.
 
 ## Do not do these things
-- Avoid forcing yourself to make a final "yes/no" decision about a police investigation while you are in shock or feeling overwhelmed.
-- Do not feel obligated to tell your story to multiple friends or family members to "verify" your memory; this can increase distress.
-- Avoid contacting the person who hurt you or posting specific details of the incident on social media.
-- Do not assume that washing or changing clothes means you cannot get help or report later; while forensics are time-sensitive, support is always available.
-- Avoid letting anyone pressure you into a specific course of action, whether that is reporting immediately or staying silent.
+- Don’t force yourself to make a full “final decision” (report / don’t report) while you’re in shock or panicking.
+- Don’t tell your story repeatedly to lots of people “to check you remember it right” — it can intensify distress and confusion.
+- Don’t let anyone pressure you into reporting, staying silent, confronting the person, or “handling it privately”.
+- Don’t post details online or message the person who hurt you while you’re overwhelmed.
+- Don’t punish yourself for not acting “perfectly” — freezing, doubting, or going numb is common.
 
 ## What to do now
-1. **Find a secure location where you can be undisturbed for at least one hour.**
-   - If you are in immediate physical danger or require urgent medical attention for injuries, call **999**.
-2. **Contact a specialist confidential support line to speak with a trained advocate.**
-   - In England and Wales: Call the **Rape Crisis 24/7 Support Line** on **0808 500 2222** or use their online chat.
-   - In Scotland: Call **Rape Crisis Scotland** on **08088 01 03 02** (6pm–midnight) or contact the **NHS Scotland SARCS** self-referral line on **0800 148 88 88** (24/7).
-3. **Locate your nearest Sexual Assault Referral Centre (SARC) if the incident happened recently.**
-   - SARCs provide medical checks, emergency contraception, and "forensic storage" (where evidence is kept while you decide whether to report).
-   - Forensic evidence is most effectively collected within the first **72 hours** (3 days), though some evidence can be gathered up to 7 days later.
-4. **Follow basic forensic preservation steps only if you intend to seek a medical examination.**
-   - If possible, avoid washing, brushing your teeth, smoking, eating, or drinking until you have spoken to a SARC or the police.
-   - Place any clothing worn during the incident in a **clean paper bag** (avoid plastic bags as they can degrade DNA).
-5. **Ask for an Independent Sexual Violence Adviser (ISVA).**
-   - An ISVA (or ChISVA for children/young people) is a trained professional who can explain your legal rights, help you navigate the police process if you choose it, and provide emotional support.
-   - You can request an ISVA through a SARC or your local Rape Crisis centre without making a police report.
-6. **Identify one trusted "point person" to handle immediate logistics if needed.**
-   - If you have someone you trust, ask them to sit with you or help with phone calls so you do not have to manage them alone.
-7. **Contact the police only when you feel ready to provide an initial account.**
-   - For non-emergencies, call **101** or use the online reporting tool for your local force.
-   - You can request to speak with a specialist officer (often called a SOIT or SLO) and have a support worker present.
+1. **Create a safer pause (just for the next hour).**  
+   Go somewhere you can lock a door or be with a trusted person. If you feel in immediate danger, call **999**.
+2. **Get confidential specialist support before you decide.**  
+   Call **Rape Crisis’s 24/7 Rape & Sexual Abuse Support Line: 0808 500 2222** (free) or use their online chat if speaking feels too hard right now.
+3. **Consider contacting a SARC (you can do this even if you’re unsure about reporting).**  
+   A **Sexual Assault Referral Centre (SARC)** can offer medical care, practical support, and talk through options at your pace. Ask if they can connect you with an **Independent Sexual Violence Adviser (ISVA)** for ongoing support.
+4. **If you want to talk to police, choose the least overwhelming route.**  
+   - **Emergency / immediate danger:** **999**  
+   - **Non-emergency:** **101** or your local police’s online reporting route  
+   You can also say upfront: “I’m overwhelmed. I need breaks, and I’d like support present.”
+5. **Protect your headspace: pick one “point person”.**  
+   Choose one trusted person to help with calls/messages and to sit with you. If you don’t have someone safe, use a support line and ask what local, in-person advocacy is available.
+6. **If you may want to report later, do one low-effort preservation step (only if it feels doable).**  
+   If you can, set aside the clothes you were wearing **unwashed** (ideally in a **paper bag** if you have one). If you can’t or you’ve already washed, don’t force it — you can still get support and care.
+7. **Write a private “for-you” note (optional).**  
+   In your phone notes, jot a few bullet points: what you remember, approximate time/place, any witnesses/messages. This is for you, not a “statement”.
 
 ## What can wait
-- You do not need to decide today whether you want to go to court or participate in a full criminal trial.
-- You do not need to have a perfect, chronological memory of the event right now; "memory gaps" are a standard biological response to trauma.
-- You do not need to tell your employer, your school, or your extended family until you have a support plan in place.
-- You do not need to gather "proof" or investigate the person yourself.
+- You do **not** need to decide today whether it was “serious enough”, whether to prosecute, or what label to use.
+- You do **not** need to make a detailed statement immediately — you can ask for time, breaks, and support.
+- You do **not** need to gather proof, investigate, or contact the person who hurt you.
+- You can postpone telling family/work/school until you’ve got support and a plan.
 
 ## Important reassurance
-It is normal to feel frozen, confused, or physically numb after a sexual assault. These are standard physiological responses to a high-stress event and do not mean you are failing to handle the situation correctly. Taking time to stabilize yourself and seek confidential advice is a valid and necessary first step.
+Feeling overwhelmed, numb, foggy, ashamed, or unsure is a very common reaction to sexual violence. Not knowing what to do first does not mean you’re doing anything wrong — it usually means your nervous system is overloaded. One small step toward support is enough for now.
 
 ## Scope note
-This guide focuses on immediate stabilization and identifying the first points of contact in the UK. It does not cover the long-term legal process, therapeutic recovery, or specific forensic protocols which vary by region.
+These are first steps to stabilise you and reduce the chance of rushed, harmful decisions. Later choices (reporting details, ongoing support, workplace/school issues, legal options) are best made with a specialist advocate or healthcare professional alongside you.
 
 ## Important note
-This information is for general guidance and does not constitute legal or medical advice. Procedures may differ in Northern Ireland. If you are in immediate danger or have life-threatening injuries, contact 999 immediately.
+This guide is general information, not medical, legal, or counselling advice. If you are in immediate danger, call 999. If you feel unable to keep yourself safe, seek urgent help right now via emergency services or an urgent NHS route.
 
 ## Additional Resources
 - https://www.gov.uk/report-rape-sexual-assault
-- https://rapecrisis.org.uk/get-help/reporting-to-the-police/
-- https://www.cps.gov.uk/rape-victims-guide
-- https://www.cps.gov.uk/rasso-guide/what-support-available-help-you-0
-- https://www.victimsupport.org.uk/crime-info/types-crime/rape-and-sexual-assault/
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://www.police.uk/ro/report/rsa/alpha-v1/advice/rape-sexual-assault-and-other-sexual-offences/how-to-report-rape-sexual-assault-other-sexual-offences/
+- https://rapecrisis.org.uk/get-help/want-to-talk/
+- https://rapecrisis.org.uk/get-help/sexual-assault-referral-centres-sarcs/

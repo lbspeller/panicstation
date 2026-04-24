@@ -1,98 +1,105 @@
----
+﻿---
 title: "What to do if… your cloud account shows massive deletions you did not perform"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "unexplained cloud upload"
-  - "sudden large upload"
-  - "cloud storage hacked"
-  - "cloud account compromise"
-  - "unexpected sync activity"
-  - "unknown device signed in"
-  - "suspicious account activity"
-  - "possible ransomware sync"
-  - "files uploaded without you"
-  - "shared folder changed"
-  - "connected app access"
-  - "revoke third party access"
-  - "sign out of all sessions"
-  - "change cloud password now"
-  - "enable multi-factor authentication"
-  - "storage usage spike"
-  - "unexpected data transfer"
-  - "cloud audit log check"
-  - "backup app gone wrong"
-  - "malware on computer upload"
-  - "stolen credentials cloud"
-  - "what do i do if my cloud is uploading"
-  - "what do i do if i see unknown uploads"
-  - "what do i do if my storage is full suddenly"
-  - "what do i do if someone else is in my cloud"
-  - "help i have a suspicious upload"
-  - "help i think my cloud was hacked"
-  - "help my files are syncing without me"
-  - "help my cloud shows new devices"
-  - "unexplained sync cues"
-  - "burning data usage"
-  - "unknown file sync"
-  - "storage spike notice"
-  - "cloud hack misspell"
-  - "clowd storage breach"
-last_reviewed: "2026-03-17"
+  - cloud account mass deletions
+  - cloud files deleted not by me
+  - someone deleted my cloud files
+  - cloud storage hacked
+  - account takeover cloud storage
+  - unexpected file deletions
+  - cloud sync deleted everything
+  - shared folder emptied
+  - missing files in cloud drive
+  - cloud activity log suspicious
+  - restore deleted cloud files
+  - cloud recycle bin recovery
+  - cloud version history restore
+  - unknown device signed in
+  - suspicious login cloud account
+  - connected apps unauthorized
+  - email forwarding rule added
+  - ransomware deleting cloud files
+  - cloud files disappeared overnight
+  - cloud provider support urgent
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your cloud account shows massive deletions you did not perform (UK)
 
 ## Short answer
-Immediately pause all syncing and secure the account by signing out all other sessions, changing your password, and enabling Multi-Factor Authentication (MFA).
+Stop syncing and secure the account from a trusted device first, before you do anything that could permanently remove recoverable files. Then start recovery using the provider’s “trash/recycle bin” and “restore to a previous time/version” features.
 
 ## Do not do these things
-- Don’t delete large batches of files until you have secured the account and noted the upload details.
-- Don’t leave the cloud application syncing while you investigate the cause.
-- Don’t click links in security alert emails or texts; navigate to the provider website manually.
-- Don’t reuse a password that has been used for any other service.
-- Don’t perform a factory reset on your devices until you have documented the suspicious activity.
+- Don’t keep all your devices logged in and syncing while you investigate (it can spread deletions everywhere).
+- Don’t empty the cloud “trash/recycle bin” or “recently deleted” area.
+- Don’t reinstall/reset devices yet if you still need them to view account activity or recover files.
+- Don’t click links in emails/texts claiming to be “support”, and don’t use phone numbers provided in unexpected messages.
+- Don’t tap “approve” on unexpected sign-in/MFA prompts.
+- Don’t reuse the same password again (or “a slightly changed” version) if you suspect compromise.
+- Don’t pay any ransom or “recovery fee” to someone contacting you about the deletions.
+- Don’t assume it’s “just a sync glitch” until you’ve checked sign-in/activity logs and connected apps.
 
 ## What to do now
-1. **Pause all syncing on every connected device immediately.** Stop the cloud application or disconnect the device from the internet (disable Wi-Fi or remove the ethernet cable) to prevent further data transfer or potential malware propagation.
+1. **Stop the bleeding (pause sync / cut connectivity)**
+   - Disconnect affected devices from the internet (**Wi-Fi off / unplug ethernet / airplane mode on phones**).
+   - In the cloud app, **pause syncing** or **sign out** on every device you can access.
+   - If this is a work/school account, tell your IT/admin now and ask them to **temporarily block sign-ins** while you secure it.
 
-2. **Sign in to your account through a known safe route.** Open the official application already installed on your device or type the provider's web address directly into your browser rather than following links from messages.
+2. **Capture what’s happening (so you don’t lose the trail)**
+   - Take screenshots (or export logs) of:
+     - **recent activity** / **sign-in history**
+     - **deletion events** (time, IP/location if shown, device name, user)
+     - any new **sharing links**, new collaborators, or permission changes
+   - Note the **first time** you noticed it and which device you were using.
 
-3. **Force a logout of all active sessions and devices.** Locate the "Sign out of all sessions" or "Manage devices" option in your security settings to revoke access for any unauthorised users immediately.
+3. **Secure the account from one trusted route**
+   - From a device you believe is clean (or a freshly updated one), go to the provider’s security settings and:
+     - **Change the password** to a strong, unique one.
+     - **Turn on 2-step verification (2SV)** if it isn’t already.
+     - **Sign out of other devices/sessions** everywhere the provider offers this.
+   - Check and remove anything you don’t recognise:
+     - signed-in **devices/sessions**
+     - **connected apps / third-party access**
+     - **recovery email/phone** you didn’t add
+   - Also check your **email account** settings directly (type the site address or use the official app): look for **auto-forwarding** or **mailbox rules** you didn’t create, because email access can be used to reset cloud passwords.
 
-4. **Update your password and enable Multi-Factor Authentication (MFA).** Create a strong, unique password and activate MFA (also known as 2-step verification) using an authenticator app or a passkey where available.
+4. **Recover files using built-in recovery tools**
+   - Immediately check:
+     - **Trash / Recycle Bin / Recently Deleted**
+     - **Version history** (for overwritten files) and **restore previous versions**
+     - Any “**Restore your account/drive to an earlier time**” feature (often helps if lots was deleted quickly)
+   - If you’re in an organisation, ask your admin to use **admin recovery** options (these can differ from what end users can do).
 
-5. **Audit and remove unauthorised account recovery methods.** Check for unfamiliar email addresses, phone numbers, or "trusted devices" in your security settings and remove them to prevent an attacker from regaining access.
+5. **Contact the cloud provider’s support through official channels**
+   - Use the provider’s in-product help/support pages (not links sent by email/text).
+   - Tell them clearly: **mass deletions**, **not performed by you**, **time window**, and that you suspect **account takeover** or an **unauthorised app/session**.
+   - Ask what recovery windows apply and whether they can restore from server-side retention/backups.
 
-6. **Check for non-malicious causes in your settings.** Verify if a recent software update enabled automatic backups for photos, desktop folders, or system files that might be processing a large backlog.
-   - Review "Connected Apps" and revoke access for any third-party services you do not recognise.
-   - Check "Shared Folders" to ensure no new collaborators have been added without your permission.
-
-7. **Record a minimal log of the activity.** Take screenshots of the activity history, the list of unknown devices, and any modified security settings for use in a police report or insurance claim.
-
-8. **If you suspect a crime or data theft, report the incident through official channels.** Use the appropriate reporting route based on your location and the severity of the situation.
-   - **England, Wales, and Northern Ireland:** Report to **Report Fraud** (formerly Action Fraud) online or by calling 0300 123 2040.
-   - **Scotland:** Report to **Police Scotland** by calling 101 or using their online cybercrime reporting form.
-   - **Support:** For immediate guidance in Scotland, you can also contact the **Cyber and Fraud Centre Scotland** hotline at 0800 1670 623.
-
-9. **Notify your bank if financial data was stored in the cloud.** If the account contained banking details, card numbers, or identity documents, contact your financial institutions to place a fraud alert on your profiles.
+6. **If money was lost or you were scammed, report it**
+   - If this involves fraud (payments, extortion, diverted transfers), report via **Report Fraud** (England, Wales, Northern Ireland — the national reporting service previously known as Action Fraud).
+   - If you’re in Scotland, report to **Police Scotland** (non-emergency via **101**).
 
 ## What can wait
-- You do not need to decide which files to permanently delete or how to reorganise your storage today.
-- You do not need to wipe or replace your hardware immediately if the account has been secured and sync is paused.
-- You do not need to notify your entire contact list until you have confirmed that your account was used to send malicious links or share files.
+- Deciding whether to change cloud providers or rebuild your whole backup strategy.
+- Deep device forensics, full OS reinstalls, or replacing hardware (do this after recovery attempts).
+- Notifying every contact/customer (do it once you know what was accessed/sent).
+- Long-term clean-up like reorganising folders or re-sharing permissions (after you’ve regained control).
 
 ## Important reassurance
-Unexplained activity in cloud storage is frequently caused by background sync processes, forgotten devices, or app updates. Taking the steps to pause syncing and reset your security credentials provides immediate protection regardless of whether the cause was accidental or malicious.
+Sudden mass deletions are frightening, but many cloud services keep deleted items and versions for a period, so fast, careful actions can genuinely improve recovery. The most important thing is to stop syncing and secure access first so you don’t accidentally make recoverable loss permanent.
 
 ## Scope note
-This guide provides first-step stabilization for a potential account compromise. If a data breach involving personal information is confirmed, additional legal obligations—such as reporting to the Information Commissioner’s Office (ICO)—may apply for business users.
+This is first steps only to stabilise, secure the account, and maximise the chance of recovery. If this involves a workplace, regulated data, or suspected targeted compromise, you’ll likely need specialist IT/security help after the immediate recovery phase.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional cybersecurity advice. If you are using a work-managed account or device, you must follow your organization's IT security policy and report the incident to your IT department or Data Protection Officer immediately.
+This guide is general information, not legal or professional advice. Cloud providers’ recovery windows and admin options vary, so follow your provider’s official support steps and treat retention time limits seriously.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.ncsc.gov.uk/collection/using-online-services-safely/recovering-hacked-account-or-service
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
 - https://support.microsoft.com/en-gb/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15
-- https://support.google.com/drive/answer/1716222?co=GENIE.Platform%3DDesktop&hl=en
-- https://support.apple.com/en-gb/guide/icloud/mme6182cfc37/icloud
-- https://www.citizensadvice.org.uk/consumer/get-more-help/Solve-an-ongoing-consumer-problem/
+- https://support.apple.com/en-gb/guide/icloud/mmae56ea1ca5/icloud

@@ -1,98 +1,74 @@
----
+﻿---
 title: "What to do if… a partner says they will share private sexual details about you unless you comply"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "partner threatening to expose you"
-  - "threatened to share sexual details"
-  - "threatened to tell others sex life"
-  - "threatened to spread sexual rumours"
-  - "threatened to out you sexually"
-  - "threatened to contact family or work"
-  - "sexual blackmail by partner"
-  - "coercion in relationship"
-  - "partner says comply or else"
-  - "threatened to post intimate content"
-  - "threatened to share private photos"
-  - "threatened to share private videos"
-  - "threatened to leak nudes"
-  - "threatened to leak sex info"
-  - "intimate image abuse threat"
-  - "revenge porn threat"
-  - "sextortion by partner"
-  - "digital abuse in relationship"
-  - "scared partner will expose me"
-  - "what do i do if my partner is blackmailing me"
-  - "what do i do if someone threatens to leak my nudes"
-  - "what do i do if my ex is threatening to share sex videos"
-  - "what do i do if i am being coerced sexually"
-  - "help i am being blackmailed with sexual photos"
-  - "help my boyfriend is threatening to tell people about our sex life"
-  - "help my girlfriend says she will leak my private info"
-  - "help my partner is using sexual details against me"
-  - "intimate state image threats"
-  - "sexual photographs disclosure threat"
-  - "sexual films disclosure threat"
-  - "online safety act intimate images"
-  - "sexual offences act 66b threats"
-  - "non-consensual intimate image abuse"
-  - "revenge porn helpline uk"
-  - "coercive control sexual threats"
-last_reviewed: "2026-03-17"
+  - partner threatening to expose you
+  - threatened to share sexual details
+  - threatened to tell others sex life
+  - threatened to spread sexual rumours
+  - threatened to out you sexually
+  - threatened to contact family or work
+  - sexual blackmail by partner
+  - coercion in relationship
+  - partner says comply or else
+  - threatened to post intimate content
+  - threatened to share private photos
+  - threatened to share private videos
+  - threatened to leak nudes
+  - threatened to leak sex info
+  - intimate image abuse threat
+  - revenge porn threat
+  - sextortion by partner
+  - digital abuse in relationship
+  - scared partner will expose me
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… a partner says they will share private sexual details about you unless you comply (UK)
 
 ## Short answer
-Cease all communication and avoid complying with any demands. Get to a safer pause and contact a specialist service to help you secure your accounts and report the threat without escalating the risk.
+Don’t comply. Get to a safer pause, stop the live back-and-forth, and get confidential specialist support so you can act without increasing risk.
 
 ## Do not do these things
-- Do not agree to "just one more" demand or payment, as this typically increases the perpetrator's leverage.
-- Do not send new sexual content, money, or passwords in an attempt to stop the threats.
-- Do not engage in lengthy arguments or provide further personal details that could be recorded or used against you.
-- Do not delete the threatening messages or your own accounts in a panic, as these are vital evidence.
-- Do not confront the partner in person if you feel physically unsafe or if they have a history of control or violence.
-- Do not use a shared or potentially monitored device to seek help if you live with the partner.
+- Do not agree to “just this once” demands (it usually increases leverage and repeats).
+- Do not send new sexual content, money, passwords, or “proof” to try to calm them down.
+- Do not argue in detail, justify yourself, or share more intimate details in messages (it can be copied and weaponised).
+- Do not delete messages/accounts in panic (you may want them later).
+- Do not confront them in person if that could put you at risk (especially if they’ve been violent or controlling).
+- Do not use a device/account they can access if you suspect monitoring.
 
 ## What to do now
-1. **Get to a safer pause immediately.** If you are physically with the person, find a reason to leave the room or the building.
-   - If you feel you are in immediate physical danger, call **999**.
-2. **Stop the communication loop.** Block the person on the platform where the threat occurred, but only after you have preserved the evidence.
-   - Do not reply to further messages, even if they become more aggressive.
-3. **Preserve the evidence of the threat safely.** Take screenshots of the threats, the demands, and the account profiles involved.
-   - Ensure you capture the date, time, and platform details.
-   - Store these screenshots in a secure "hidden" folder or send them to a trusted friend who can hold them for you, ensuring the partner cannot see them on your device.
-4. **Report the threat to the national intimate image abuse service.** Under the **Online Safety Act 2023**, threatening to share intimate images or sexual details is a specific criminal offence.
-   - Use the national **Police.uk** online reporting tool specifically for intimate image abuse.
-   - Alternatively, call **101** to report the crime of blackmail or coercive control under the **Domestic Abuse Act 2021**.
-5. **Contact the Revenge Porn Helpline for technical and emotional support.** This service supports adults (18+) in the UK and can help with practical steps to prevent images from being shared.
-   - Call **0345 6000 459** (10:00–16:00, Monday–Friday).
-   - They can assist with the **StopNCII.org** tool, which creates a digital fingerprint of your images to block them from being uploaded to participating platforms like Facebook, Instagram, and TikTok.
-6. **Trigger the 48-hour takedown rule if content is shared.** If the partner follows through and posts content, notify the platform immediately.
-   - Under 2026 regulations, regulated platforms are legally required to remove non-consensual intimate images within **48 hours** of a report.
-7. **If you are under 18, use the Childline "Report Remove" tool.** This tool, created with the Internet Watch Foundation (IWF), is the primary way for minors to get nude images or videos removed from the internet and prevent them from being shared.
-   - You can also report via the **CEOP Safety Centre** if you are being coerced or exploited.
-8. **Secure your digital environment.** If it is safe to do so, change your passwords for your email and primary social media accounts.
-   - Enable two-factor authentication (2FA).
-   - Check the "logged-in devices" section of your accounts and log out of any devices you do not recognize.
+1. **Get to a safer pause first.** If you’re with them, step away for a normal reason. If you feel in immediate danger, call **999**.
+2. **Stop the leverage.** If you can, stop responding. If you must reply, keep it brief and non-negotiating (for example: “I’m not discussing this.”). Don’t bargain or offer compromises.
+3. **Save the threat with minimal effort.** Screenshot key messages showing the demand and threat, their account name, and dates/times. Note the app/platform.  
+   - Only store/share copies **if you’re sure they cannot access** your phone/email/cloud. If unsure, consider asking a trusted person to hold copies or use a new, secure account they don’t know about.
+4. **Report it in the simplest way that feels safe.** Police.uk treats threats to share intimate images and “sexual pictures, videos, or information about you unless you… do something else” as illegal, and says you don’t need to work out which offence applies — you can report what happened and police will work it out. Use **101** (or **999** if you’re unsafe).
+5. **If the threat includes intimate images (real, edited, or fake), use specialist support.** Contact the **Revenge Porn Helpline** (UK adults) for practical help with threats, takedowns if anything is posted, and safer next steps. They can also point to tools like **StopNCII.org** that help prevent re-uploading on participating platforms.
+6. **If you’re under 18, treat this as child sexual exploitation.** Use the **CEOP Safety Centre** to report. You can also contact **Childline** for support; if sexual images of a child are involved online, the **Internet Watch Foundation** is a route to report them.
+7. **If you live together or fear retaliation, prioritise physical safety planning.** Quietly line up a safe place you can go, keep your phone charged, and consider contacting a domestic abuse service for confidential safety planning.
+8. **Do one quick account-safety step (only if safe to do so).** Change your **email password first**, then the account(s) where contact is happening; turn on two-factor authentication; check “logged-in devices” and sign out of unknown sessions.
 
 ## What can wait
-- You do not need to decide right now whether you want to go to court or tell your employer/family.
-- You do not need to have a "final conversation" with the partner to explain why you are leaving or stopping.
-- You do not need to figure out exactly which law they have broken; the police and specialist helplines will handle the legal classification.
-- You do not need to perfect your evidence folder before making the first contact with a support service.
+- You do not need to decide today whether to make a formal statement, pursue charges, or tell family/work.
+- You do not need to craft the “perfect message” to them; silence and safety come first.
+- You do not need to gather every screenshot or detail before asking for help.
+- You do not need to negotiate “terms” with them, even if they promise they’ll stop.
 
 ## Important reassurance
-Threatening to expose your private sexual life is a form of abuse and coercion. It is common to feel shame or a desire to comply to make the threat go away, but the responsibility for this situation lies entirely with the person making the threat. You are not alone, and there are established legal and technical systems designed specifically to protect you from this.
+Threatening to expose sexual details to control you is coercion and abuse. Freezing, complying, or feeling ashamed in the moment is common — and it still isn’t your fault.
 
 ## Scope note
-This guide provides first-step stabilization only. Long-term safety planning, especially in cases of domestic abuse, may require ongoing support from specialized domestic violence charities.
+These are first steps to stabilise and reduce harm. Next steps can depend on your safety, whether anything has been shared, and what support feels right for you.
 
 ## Important note
-This information is for guidance only and does not constitute legal advice. If you believe your physical safety is at risk, or if you suspect your devices are being monitored by your partner, prioritise reaching a safe location before taking digital steps.
+This is general information, not legal advice. If you are in immediate danger call 999. If taking any step above could put you at risk (for example, they monitor your phone or you live together), prioritise getting to safety and contacting confidential specialist support first.
 
 ## Additional Resources
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/sextortion-reporting-it-to-us/
 - https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/threats-to-share-intimate-images/
-- https://www.gov.uk/government/publications/domestic-abuse-bill-2020-factsheets/threats-to-disclose-private-sexual-photographs-and-films
-- https://www.cps.gov.uk/prosecution-guidance/domestic-abuse
-- https://www.citizensadvice.org.uk/family/gender-violence/domestic-violence-and-abuse/
-- https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/
+- https://news.npcc.police.uk/releases/new-online-reporting-service-for-victims-of-intimate-image-abuse
+- https://stopncii.org/?lang=en-gb
+- https://www.ceop.police.uk/safety-centre/
+- https://www.nhs.uk/live-well/getting-help-for-domestic-violence/

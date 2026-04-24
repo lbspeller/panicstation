@@ -1,108 +1,95 @@
----
+﻿---
 title: "What to do if… a messaging app says it cannot restore your chat backup and messages are missing"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "chat backup cannot restore"
-  - "messages missing after restore"
-  - "restore failed messaging app"
-  - "whatsapp restore failed"
-  - "signal backup restore failed"
-  - "telegram chats missing"
-  - "messenger chat history missing"
-  - "switched phones chats missing"
-  - "new phone missing messages"
-  - "cloud backup not found"
-  - "google drive backup missing"
-  - "icloud backup missing messages"
-  - "end-to-end encrypted backup"
-  - "wrong account used restore"
-  - "backup overwritten risk"
-  - "restore stuck or looping"
-  - "backup passphrase lost"
-  - "what do i do if my chats are gone"
-  - "what do i do if whatsapp says no backup found"
-  - "what do i do if signal cannot restore"
-  - "what do i do if icloud backup is missing"
-  - "help i lost my whatsapp messages"
-  - "help i cannot restore my chat history"
-  - "help my backup is missing"
-  - "help my messages disappeared after update"
-  - "smell of burning phone battery"
-  - "visible error message on screen"
-  - "app stuck on checking for backups"
-  - "backup found but restore failed"
-  - "missing chat folders in file manager"
-  - "wrong phone number error"
-  - "icloud storage full alert"
-  - "google account mismatch"
-last_reviewed: "2026-03-17"
+  - chat backup cannot restore
+  - messages missing after restore
+  - restore failed messaging app
+  - whatsapp restore failed
+  - signal backup restore failed
+  - telegram chats missing
+  - messenger chat history missing
+  - switched phones chats missing
+  - new phone missing messages
+  - cloud backup not found
+  - google drive backup missing
+  - icloud backup missing messages
+  - end to end encrypted backup
+  - wrong account used restore
+  - backup overwritten risk
+  - do not reinstall yet
+  - local backup vs cloud backup
+  - media missing after restore
+  - restore stuck or looping
+  - backup passphrase lost
+last_reviewed: "2026-03-09"
 ---
-# What to do if… a messaging app says it cannot restore your chat backup and messages are missing (UK)
 
+# What to do if… a messaging app says it cannot restore your chat backup and messages are missing (UK)
 ## Short answer
-Stop attempting repeated reinstalls to avoid overwriting existing cloud data. Verify that the phone number and cloud account (Apple ID or Google Account) exactly match those used for the original backup before attempting a final manual restoration.
+Stop trying random “fixes” that might overwrite the last good backup. First, confirm you’re signed into the *same phone number and the same cloud account* the backup was made with, and preserve any existing data on the old device.
 
 ## Do not do these things
-- Do not uninstall and reinstall the app more than once if it fails; this can trigger a new, empty backup that overwrites the previous one.
-- Do not delete "old" backup files from Google Drive or iCloud to make space.
-- Do not clear the app's "Cache" or "Data" in phone settings until a local copy of the database is secured.
-- Do not pay for third-party "data recovery" software that requires your private encryption keys or remote access to your device.
-- Do not factory reset the old device if it still contains the messages.
+- Don’t uninstall/reinstall repeatedly “to try again” if the app warns it can’t find/restore a backup (this can trigger new empty backups or complicate recovery).
+- Don’t set up the app on multiple devices/accounts at once while you’re troubleshooting (you can lose track of which account holds the backup).
+- Don’t clear app data, delete “old” backup files, or “free up space” by removing backup folders until you’ve confirmed what actually exists.
+- Don’t assume the company can recover your chats if the service is end-to-end encrypted (often they can’t).
+- Don’t pay third-party “chat recovery” services that ask for your passcodes/backup keys or remote access.
 
 ## What to do now
-1. **Isolate the old device to prevent data syncing.**
-   - **Switch the old phone to Airplane Mode immediately.**
-   - **Keep the device powered on but disconnected from the internet** to prevent the app from "refreshing" and potentially deleting local data to match an empty cloud state.
-   - **Export critical chats manually** using the app's "Export Chat" or "Email Chat" function if available and the app is still accessible.
+1. **Pause and preserve what you still have.**  
+   If you still have the old phone where the chats were visible, keep it powered, and don’t factory-reset it. If you’re worried the app might sync and overwrite something, consider leaving the old phone offline (for example, airplane mode). Take screenshots of key conversations and the app’s backup/restore screens (dates, sizes, exact error text).
 
-2. **Verify the "2.05x" storage requirement for iCloud or local memory.**
-   - **Ensure the new device has free space** equal to at least 2.05 times the size of the backup file.
-   - **Check iCloud storage levels** (Settings > [Name] > iCloud > Manage Account Storage); if storage is full, the backup may be visible but "unreadable" by the app.
+2. **Check you’re using the exact same identity the backup was made with.**  
+   - Verify the **phone number** in the app is the same as before.  
+   - Verify the **cloud account** is the same (e.g., the same Google account for Google-based backups, or the same Apple ID for iCloud-based backups).  
+   A mismatch here is one of the most common reasons restores fail or look “empty.”
 
-3. **Confirm the backup exists in the cloud management console.**
-   - **For Android:** Open the Google Drive app > Menu > Backups; verify a file named "WhatsApp [Number] Backup" or similar is listed.
-   - **For iOS:** Go to Settings > [Name] > iCloud > iCloud Backup; check the "Last Successful Backup" timestamp.
-   - **For Signal:** If using "Signal Secure Backups" (2026 feature), verify the 64-character recovery key is available; without this key, cloud data is permanently inaccessible.
+3. **Confirm a backup exists outside the app (without deleting anything).**  
+   Look for evidence of a device/app backup in the relevant system:
+   - **iPhone/iPad:** Settings → your name (Apple ID) → iCloud → iCloud Backup (and/or iCloud storage/backups screens).  
+   - **Android:** Settings → Google → Backup (or “Manage backup”), and confirm the correct Google account is selected.  
+   If there’s no sign of any backup, the app may be correct that there’s nothing to restore.
 
-4. **Update Google Play Services and System Software.**
-   - **Open the Google Play Store** and ensure "Google Play Services" is updated to the latest version, as this handles the "handshake" between the app and your cloud storage.
-   - **Check for iOS or Android system updates** and install them before retrying the restore process.
+4. **Remove the common restore blockers before trying again.**  
+   Ensure:  
+   - **Enough free phone storage** to unpack the backup (restores often fail when storage is tight).  
+   - A stable connection (try a different Wi-Fi, or mobile data).  
+   - The app and phone OS are up to date.  
+   - The phone stays plugged in during restore.
 
-5. **Attempt a "Local Database" transfer for Android-to-Android moves.**
-   - **Locate the database file** on the old phone at `Internal Storage > Android > media > com.whatsapp > WhatsApp > Databases`.
-   - **Copy the most recent `.db.crypt` file** to the same path on the new phone before opening the app for the first time.
-   - **Open the app and verify the number;** the app should detect the "Local Backup" and prioritize it over the cloud.
+5. **If the app supports “transfer from old phone”, prioritise that over cloud restore.**  
+   Some apps (especially end-to-end encrypted ones) can transfer directly device-to-device more reliably than cloud restore. If your old phone still has the chats, look for “transfer”, “move chats”, or “restore from device”.
 
-6. **Check for "Direct Transfer" options in the app settings.**
-   - **Use the "Transfer Chats" or "Move to iOS/Android" feature** if both phones are physically present; this bypasses cloud-related restoration errors.
+6. **If you must retry a restore, do it once—deliberately.**  
+   Close other apps, keep the phone awake/charging, and follow the app’s official restore steps. If it fails again, stop and write down the exact wording of the error and when it happened.
 
-7. **Submit a formal technical support request with a "Data Preservation" query.**
-   - **Contact the app's official help center** and provide the specific error code (e.g., "Error 101" or "No backup found").
-   - **Ask specifically:** "Is there a legacy backup stored on your servers that has not yet been overwritten by the recent empty sync?"
+7. **Contact the app’s official support with a tight evidence bundle.**  
+   Send: device type, OS version, app version, whether you changed phones/numbers, backup date/size shown, and screenshots of the error text. Ask specifically: “How do I avoid overwriting an existing backup while troubleshooting?”
 
-8. **Execute a Subject Access Request (SAR) under the Data (Use and Access) Act 2025.**
-   - **Submit a formal request to the company** for a copy of all personal data held.
-   - **Note that under 2026 UK law,** companies can "stop the clock" on the 30-day response limit if they require clarification, and they are only required to conduct "reasonable and proportionate" searches.
-   - **Be aware** that for end-to-end encrypted services, the company likely holds metadata (who you talked to) but not the content of the messages.
+8. **Optional: use UK data rights only as a slow, last-mile option.**  
+   You *can* ask a company for personal data it holds about you (a subject access request). This may help with account history/metadata, but it often won’t recreate end-to-end encrypted chats—and SAR guidance may change as UK guidance is updated. Treat this as separate from message recovery.
 
 ## What can wait
-- You do not need to decide today if the data is permanently lost; cloud backups often remain visible for 30–60 days before being purged.
-- You do not need to purchase a new device or upgrade your data plan immediately.
-- You do not need to notify all contacts about the missing history until troubleshooting is exhausted.
+- You do **not** need to decide today whether the messages are “gone forever”.
+- You do **not** need to change phones again, reset the device, or run “cleanup” tools.
+- You can postpone advanced troubleshooting (clearing data, deleting folders, multi-step reinstalls) until you’ve confirmed whether a backup exists and which account it’s tied to.
 
 ## Important reassurance
-Restoration failures are frequently caused by simple authentication "handshake" errors or insufficient local storage rather than the total destruction of the backup. By stopping active "fixes" now, you prevent the accidental overwriting of the data while you verify your account credentials.
+This is a very common failure mode when switching phones, changing accounts, or when the backup is encrypted and tied to a specific device or recovery code. Slowing down and preserving what remains is the best way to avoid making the loss worse.
 
 ## Scope note
-This guide provides first-step stabilization for digital data loss. It does not cover professional forensic recovery or the retrieval of messages that were never backed up.
+These are first steps to stabilise the situation and prevent accidental overwrites. Recovering chats can depend heavily on the specific app, your phone type, and whether end-to-end encryption is involved.
 
 ## Important note
-This information is for general guidance and does not constitute technical or legal advice. Restoration processes vary by application and operating system version. Under the UK Data (Use and Access) Act 2025, your rights to access data may be subject to "reasonable and proportionate" search limits by the provider. Encrypted messaging services generally cannot retrieve message content for you if the local or cloud backup file is corrupted or the encryption key is lost.
+This is general information, not legal or technical diagnosis. Backup and restore systems differ by app and device, and some encrypted services cannot recover message content if you don’t have the required backup file or recovery key.
 
 ## Additional Resources
-- https://support.apple.com/en-gb/102325
-- https://support.apple.com/en-gb/102385
-- https://support.google.com/android/answer/2819582?hl=en-GB
-- https://support.google.com/android/answer/13761358?hl=en-GB
-- https://www.citizensadvice.org.uk/consumer/phone-internet-downloads-or-tv/problem-with-an-app-software-or-download/
+- https://faq.whatsapp.com/589979312881396
+- https://support.signal.org/hc/en-us/articles/360007059752-Backup-and-Restore-Messages
+- https://support.apple.com/en-gb/108922
+- https://support.apple.com/en-gb/guide/icloud/mm122d3ef202/icloud
+- https://support.google.com/googleone/answer/9149304
+- https://ico.org.uk/for-the-public/make-a-subject-access-request/
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/subject-access-requests/a-guide-to-subject-access/

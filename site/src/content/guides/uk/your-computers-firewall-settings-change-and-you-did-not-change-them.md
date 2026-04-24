@@ -1,85 +1,83 @@
----
+﻿---
 title: "What to do if… your computer’s firewall settings change and you did not change them"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "device clock reset"
-  - "computer time wrong"
-  - "phone date reset"
-  - "system clock keeps changing"
-  - "time and date incorrect"
-  - "your clock is behind"
-  - "your clock is ahead"
-  - "secure website not loading"
-  - "https sites not working"
-  - "certificate date invalid"
-  - "secure connection failed"
-  - "connection not private warning"
-  - "tls certificate error"
-  - "browser says insecure"
-  - "wifi works but secure sites fail"
-  - "safari secure connection error"
-  - "chrome clock error"
-  - "firefox time error"
-  - "device lost time after restart"
-  - "laptop battery clock problem"
-  - "system time desynchronized"
-  - "what do i do if my clock reset"
-  - "what do i do if secure sites wont load"
-  - "help i cannot open secure websites"
-  - "help my computer time is wrong"
-  - "cmos battery failure"
-  - "real time clock error"
-  - "incorrect system date"
-  - "web browser security warning"
-  - "internet time sync failure"
-last_reviewed: "2026-03-17"
+  - firewall settings changed
+  - firewall turned off by itself
+  - windows defender firewall changed
+  - mac firewall settings changed
+  - unexpected firewall rule change
+  - network protection settings changed
+  - security settings changed without me
+  - firewall profile changed to public
+  - firewall exceptions added
+  - unauthorized inbound connections
+  - suspicious admin changes
+  - device may be compromised
+  - possible malware sign
+  - work laptop security policy changed
+  - router firewall changed
+  - mpssvc firewall change event
+  - windows firewall event log 4950
+  - firewall reset to defaults
+  - unknown app allowed through firewall
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your computer’s firewall settings change and you did not change them (UK)
 
+# What to do if… your computer’s firewall settings change and you did not change them (UK)
 ## Short answer
-Set your device date and time to "Set automatically" in system settings and restart your web browser. Do not bypass security warnings or enter sensitive data while the system clock is incorrect.
+Disconnect the device from the internet/network first. Then record what you saw and treat it as a possible security incident until you can explain the change.
 
 ## Do not do these things
-- Do not click through "Your connection is not private" or certificate expiry warnings to access sensitive sites.
-- Do not enter passwords, banking details, or one-time codes on any page displaying a security alert.
-- Do not install "root certificates" or "certificate fix" software from third-party pop-ups.
-- Do not disable your firewall or antivirus HTTPS scanning as a first troubleshooting step.
-- Do not assume the website is "down" until you have verified your local system time.
+- Don’t keep using the device for banking, email, password managers, or work systems “just to finish something”.
+- Don’t install “fix” tools from pop-ups, unknown websites, or unsolicited “support” messages.
+- Don’t disable other protections (antivirus/endpoint protection) to “make it work”.
+- Don’t immediately wipe/reset the device if you may need evidence for work IT, insurance, or a report.
+- Don’t assume it’s harmless just because the firewall is now “on” or “off” — the concern is the *unexpected change*.
 
 ## What to do now
-1. **Stop all sensitive transactions immediately.** **If you were attempting to access banking, GOV.UK, HMRC, or NHS services, close those tabs until the clock is synchronized.**
-2. **Enable automatic time synchronization in your operating system.** 
-   - **Windows:** Select Start → Settings → Time & language → Date & time → ensure **Set time automatically** and **Set time zone automatically** are both ON, then click **Sync now**.
-   - **macOS:** Open System Settings → General → Date & Time → ensure **Set time and date automatically** is toggled ON.
-   - **iPhone/iPad:** Open Settings → General → Date & Time → toggle **Set Automatically** to ON.
-   - **Android:** Open Settings → System → Date & time → toggle **Set time automatically** and **Set time zone automatically** to ON.
-3. **Restart the browser and the device.** **Close your web browser completely and reopen it; if the error persists, perform a full system restart to refresh hardware time sync.**
-4. **Test the connection on a different network.** **Switch from Wi-Fi to a mobile hotspot to check if the issue is caused by a router-level time sync failure or a captive portal.**
-5. **Check for failing hardware if the reset recurs.** **If the clock resets every time the device is powered off, the internal CMOS battery (on desktops) or the RTC battery (on laptops) may need professional replacement.**
-6. **Report suspicious activity if you were redirected.** **If you believe you were lured to a fake site because of this error, take the following steps:**
-   - Forward suspicious emails to **report@phishing.gov.uk**.
-   - Forward suspicious text messages to **7726**.
-   - If you are in England, Wales, or Northern Ireland and lost money, report to **Report Fraud** at reportfraud.police.uk.
-   - If you are in Scotland, report via the **Police Scotland** online crime reporting form or call **101**.
+1. **Disconnect from networks (containment).** Turn off Wi-Fi and Bluetooth; unplug Ethernet; disconnect any VPN. If it’s a work/school device, this helps prevent spread and buys time.
+2. **Capture what changed (before you edit settings).** Take screenshots/photos of:
+   - The firewall page showing the current state
+   - Any “allowed apps”, “exceptions”, or rules you can see
+   - The date/time on your device  
+   Also write down: what you were doing when you noticed, plus any recent installs/updates, USB devices, or remote-access sessions.
+3. **If it’s a work/school device, stop and contact IT/security.** Many organisations push firewall changes via management tools or policy. Tell them “firewall settings changed without me” and follow their instructions before reconnecting.
+4. **Do a quick check for how/when it changed (don’t get stuck).**
+   - **Windows:** In Event Viewer, look under the *Security* log for Windows Firewall auditing events around the time you noticed (you may see Event ID 4950 if auditing is enabled). Note: some policy-pushed changes may not show as “local setting changed” events.
+   - **macOS:** Apple menu → System Settings → Network → Firewall, then check Firewall options and any listed apps/services (note anything you don’t recognise).
+5. **Run a reputable malware scan, keeping risk low.** If your existing antivirus/endpoint protection can run an offline scan, do that first. Then (if needed) briefly reconnect to a trusted network to update the OS and security tools, and run a full scan.
+6. **Protect important accounts from a different device.** If you used the computer after the change, assume credentials *might* be at risk:
+   - Change your email password first (it’s the reset key for most accounts).
+   - Then change banking and other high-value accounts.
+   - Turn on 2-step verification where available.
+7. **Only if multiple devices seem affected: treat your home router as a suspect too.** If several devices show odd security prompts/settings, or you don’t know your router admin password:
+   - Avoid signing into sensitive accounts on that network for now.
+   - Disconnect the router from the internet if you think active misuse is happening and you can tolerate the disruption.
+8. **If you have losses or clear misuse, report and protect yourself.**
+   - Contact your bank immediately for any unauthorised transactions.
+   - For cyber crime/fraud reporting in **England, Wales, and Northern Ireland**, use **Report Fraud**. If you’re in **Scotland**, use Police Scotland’s route (e.g., 101 / local police guidance) for non-emergency reporting.
 
 ## What can wait
-- You do not need to replace your device immediately; clock resets are often solved by a simple setting change or a cheap battery replacement.
-- You do not need to perform a factory reset or "System Restore" until basic time settings have been verified.
-- You do do not need to contact your Internet Service Provider (ISP) unless the problem affects every device in your household simultaneously.
+- You do **not** need to decide today whether to wipe the device, replace it, or “rebuild everything”.
+- You do **not** need to fully understand firewall rules right now.
+- Router firmware updates and “perfect” network hardening can wait until you’ve contained the risk and secured key accounts.
 
 ## Important reassurance
-This issue is frequently a technical synchronization error rather than a security breach. Secure websites (HTTPS) use your system clock to verify that their security certificates are still valid; if your clock is wrong, the certificate appears expired, and the browser blocks access to protect you.
+Unexpected security setting changes feel alarming because they suggest something happened without your permission. Taking the calm first steps (disconnect, record, scan, secure accounts, involve IT if managed) is often enough to stop things getting worse while you work out whether it was malware, an update, or device management.
 
 ## Scope note
-This guide provides first-step stabilization for digital access issues caused by time desynchronization. It does not cover deep hardware repair or the recovery of accounts that have already been compromised.
+This is first steps only: stabilise, prevent avoidable damage, and get the right help involved. Repeated changes, signs of remote access, or a work-managed device usually need IT/security support.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT or legal advice. If you suspect your financial accounts have been accessed while your device was in an insecure state, contact your bank using a known-safe device and official phone numbers immediately. Ensure your clock is correct before attempting to change passwords on the affected machine.
+This is general information, not personalised technical or legal advice. If you can’t quickly confirm the change was legitimate, it’s safer to treat it as suspicious until confirmed.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/section/respond-recover/citizen-infected-devices
+- https://www.ncsc.gov.uk/section/respond-recover/ml-malware
 - https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks
-- https://www.ncsc.gov.uk/collection/phishing-scams
-- https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take
-- https://www.ncsc.gov.uk/collection/device-security-guidance/policies-and-settings/antivirus-and-other-security-software
+- https://support.apple.com/en-gb/guide/mac-help/mh11783/mac
+- https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4950
+- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
+- https://www.cityoflondon.police.uk/news/city-of-london/news/2025/december/report-fraud-service-goes-live-with-full-public-launch-in-january-2026/
+- https://www.reportfraud.police.uk/

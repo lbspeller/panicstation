@@ -1,104 +1,103 @@
----
+﻿---
 title: "What to do if… your bank confirms unauthorised payments but says the investigation may take weeks"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "unauthorised payments confirmed"
-  - "bank investigation taking weeks"
-  - "money missing from account"
-  - "card payments i did not make"
-  - "debit card fraud transactions"
-  - "credit card fraud transactions"
-  - "unknown merchant charges"
-  - "cash withdrawal i did not make"
-  - "online banking hacked"
-  - "card details stolen"
-  - "direct debit taken in error"
-  - "standing order set up fraud"
-  - "bank transfer i did not send"
-  - "scam payment from my account"
-  - "refund delayed by bank"
-  - "bank says wait weeks"
-  - "dispute unauthorised transaction"
-  - "payments i do not recognise"
-  - "stop further fraud payments"
-  - "bank refusing immediate refund"
-  - "unauthorised transaction regulation 76"
-  - "authorised push payment scam refund"
-  - "help i have been scaded"
-  - "help i have been defrauded"
-  - "my bank account was hacked"
-  - "my money was stolen online"
-  - "what do i do if my bank is slow"
-  - "what do i do if money is missing"
-  - "fraudulent bank charges uk"
-  - "reporting fraud in england"
-  - "reporting fraud in scotland"
-  - "cifas protective registration cost"
-last_reviewed: "2026-03-17"
+  - unauthorised payments confirmed
+  - bank investigation taking weeks
+  - money missing from account
+  - card payments i didnt make
+  - debit card fraud transactions
+  - credit card fraud transactions
+  - unknown merchant charges
+  - cash withdrawal i didnt make
+  - online banking hacked
+  - card details stolen
+  - direct debit taken in error
+  - standing order set up fraud
+  - bank transfer i didnt send
+  - scam payment from my account
+  - refund delayed by bank
+  - bank says wait weeks
+  - dispute unauthorised transaction
+  - payments i dont recognise
+  - stop further fraud payments
+last_reviewed: "2026-01-09"
 ---
-# What to do if… your bank confirms unauthorised payments but says the investigation may take weeks (UK)
 
+# What to do if… your bank confirms unauthorised payments but says the investigation may take weeks (UK)
 ## Short answer
-State that under the Payment Services Regulations 2017, the bank must refund unauthorised transactions by the end of the next business day unless they have evidence of fraud or gross negligence. Secure the account immediately to prevent further loss while you insist on this statutory timeline.
+If your bank has confirmed the payments were unauthorised, ask for a prompt refund and lock down the account so no more money leaves while they “investigate”.
 
 ## Do not do these things
-- Do not accept a multi-week timeline for a refund if the bank has already agreed the transactions were unauthorised.
-- Do not continue using any card, digital wallet, or online banking password that may have been compromised.
-- Do not move your remaining funds to a "safe account" suggested by anyone via phone or text, even if they claim to be from the bank.
-- Do not delete any evidence including texts, emails, or call logs related to the incident.
-- Do not pay third-party companies promising to recover your money for an upfront fee.
+- Don’t accept “it may take weeks” without asking what is being refunded now, what is being investigated, and what date they’ve set for the refund decision.
+- Don’t keep using the same card, digital wallet, PIN, or online banking password “until this is sorted”.
+- Don’t move your remaining money to a new payee you don’t fully control because someone (even “the bank”) tells you to.
+- Don’t delete texts/emails/app messages related to the fraud out of panic (save them first).
+- Don’t pay any “recovery service” that contacts you offering to get the money back for a fee.
 
 ## What to do now
-1. **Isolate the account to stop ongoing theft.**
-   - **Freeze the affected card immediately using your banking app or by calling the bank.**
-   - **Request a total "sign out" of all digital banking sessions from the bank's security team.**
-   - **Update your online banking password and the password for your primary email account using a separate, secure device.**
+1. **Stop anything else leaving your account (right now).**
+   - Freeze the card in-app (or ask the bank to do it) and request a replacement card (and a new PIN if relevant).
+   - Change your online banking password and your email password (email is often the reset route).
+   - Log out of online banking on all devices (or ask the bank to “sign out all sessions”).
 
-2. **Invoke Regulation 76 of the Payment Services Regulations 2017.**
-   - **Inform the bank that for unauthorised transactions, they are legally required to refund the money by the end of the business day following the day the fraud was reported.**
-   - **Ask the representative to explain in writing why they are delaying the refund if they have already confirmed the payments were unauthorised.**
-   - **Note that the bank can only withhold the refund if they have "reasonable grounds" to suspect you acted fraudulently or with gross negligence.**
+2. **Ask for the refund timeline you should get for unauthorised payments — and get it in writing.**
+   - Say clearly: “You’ve confirmed these are unauthorised payments. Please refund them promptly and restore my account balance.”
+   - If they say they won’t refund promptly, ask: “What is the exact reason, and will you confirm that in a secure message or letter?”
+   - Ask for written confirmation (secure message/email/letter) of:
+     - which transactions they’ve confirmed as unauthorised
+     - the refund amount(s)
+     - when the money will be back in your account
+     - a case reference number
 
-3. **Identify if the case is "Unauthorised" or an "Authorised Push Payment" (APP) Scam.**
-   - **Ask the bank to confirm if they are treating this as an unauthorised transaction (someone accessed your account without permission) or an APP scam (you were tricked into sending the money).**
-   - **If it is an APP scam via Faster Payments or CHAPS, confirm that you are seeking reimbursement under the mandatory PSR rules.**
-   - **Verify the maximum reimbursement cap (currently £85,000) and ask if they intend to apply the standard £100 claim excess.**
+3. **Make sure you’re in the right “type” of case (this changes what the bank does next).**
+   - Ask: “Are you treating this as **unauthorised transactions** (someone took money), or as an **authorised push payment scam** (I was tricked into sending it)?”
+   - If it’s an **authorised push payment scam**, ask the bank to confirm whether it’s in-scope of the UK mandatory reimbursement rules (for many Faster Payments and CHAPS APP scams, with exceptions) and to start the reimbursement claim today.
 
-4. **Request a written summary of the disputed items and the case status.**
-   - **Ask for a case reference number and a written list of every transaction currently under investigation.**
-   - **Request a "Letter of Deadlock" or a formal complaint acknowledgement if they refuse to meet the statutory next-day refund deadline.**
+4. **Remove the routes the fraudster used (so it can’t restart).**
+   - If it involved **Direct Debits**, ask your bank to refund any taken in error under the Direct Debit Guarantee and cancel the Direct Debit instruction(s).
+   - If it involved a **standing order**, cancel it immediately and ask the bank to confirm no further payments are scheduled.
+   - If it was **card payments**, ask them to block the merchant(s) and any recurring payments linked to the compromised card.
 
-5. **Address immediate financial hardship caused by the loss.**
-   - **Notify the bank if the missing funds prevent you from paying for housing, utilities, or food.**
-   - **Ask the bank to "prioritise" the case due to financial vulnerability and to waive any overdraft fees or interest caused by the unauthorised transactions.**
+5. **Protect your essentials for the next few weeks.**
+   - If this has left you short for rent/mortgage, utilities, food, or travel, tell the bank you’re in **financial difficulty** and ask what they can do immediately (for example: stop charges/interest linked to the fraud situation, reverse fees caused by the unauthorised payments, or prioritise handling).
+   - If your salary/benefits go into that account and you’re worried it’s still at risk, ask the bank for the safest way to receive incoming money while they secure the account.
 
-6. **Log the incident with the correct national authorities.**
-   - **Report the fraud to Report Fraud Police UK online or by calling 0300 123 2040 (if in England, Wales, or Northern Ireland).**
-   - **Call Police Scotland on 101 if you are located in Scotland.**
-   - **Retain the police report reference number (URN) to provide to your bank's fraud department.**
+6. **Start a simple “evidence log” (5 minutes).**
+   - Screenshot the transactions, note dates/times, how you noticed, and what the bank told you.
+   - Keep a single note with call times, names (if given), and what was promised.
 
-7. **Add identity protection if personal details were compromised.**
-   - **Check your credit reports with Experian, Equifax, and TransUnion for any unauthorised applications.**
-   - **Apply for Cifas Protective Registration (£30 for 2 years) to ensure lenders perform extra checks if your name is used for credit.**
+7. **If you suspect identity theft (not just card fraud), add a layer of protection.**
+   - Check your credit file(s) for new accounts you don’t recognise.
+   - Consider **Cifas Protective Registration** if your identity is at heightened risk (it can add extra checks when credit is applied for in your name).
+
+8. **Report the fraud if you can — but don’t let it delay the bank actions.**
+   - In **England, Wales, or Northern Ireland**, you can report fraud/cybercrime via **Report Fraud** (the national reporting service).
+   - In **Scotland**, reports of fraud and other financial crime should be made to **Police Scotland on 101**.
+   - If you’re in immediate danger, use emergency services.
 
 ## What can wait
-- You do not need to switch banks or close the account entirely today; focus on freezing the specific compromised "routes" (cards or digital access).
-- You do not need to contact the merchants where the money was spent unless the bank explicitly requests you to do so for their evidence.
-- You do not need to provide a full "victim statement" to the police immediately; the initial report to Report Fraud Police UK is the priority.
+- You don’t need to decide today whether to move banks permanently.
+- You don’t need to “prove” what happened to everyone involved right now — focus on (1) stopping more loss and (2) getting the refund/reimbursement process moving.
+- You don’t need to contact merchants yourself unless your bank specifically asks you to (and you’re confident it’s safe).
+- You don’t need to figure out the bigger “how did this happen?” root cause tonight — secure access first.
 
 ## Important reassurance
-Experiencing financial fraud is a high-stress event, and feeling overwhelmed or anxious is a standard response. UK regulations are designed to protect consumers in these specific moments. If your bank has already confirmed the transactions were not made by you, the law is on your side regarding the recovery of those funds.
+It’s very common to feel shaky, angry, or embarrassed after fraud — even when you’ve done nothing wrong. The bank confirming the payments were unauthorised is an important step. Your job now is to slow things down, lock things down, and make sure “weeks of investigation” doesn’t turn into “weeks without any clear action”.
 
 ## Scope note
-This guide covers the immediate stabilization of a bank account after unauthorised activity and the enforcement of statutory refund timelines in the UK. It does not cover long-term legal action against fraudsters or detailed tax implications of financial loss.
+These are first steps to stabilise the situation and protect your money while the bank works. If the bank stalls or keeps changing whether the payments were “unauthorised” versus “authorised”, you may need to use the bank’s complaint process and (if unresolved) take it further — but you don’t need to tackle that all at once.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Banking procedures and regulatory caps may change. For specific disputes, you may eventually need to escalate to the Financial Ombudsman Service (FOS) if the bank does not resolve the matter within 8 weeks.
+This is general information, not legal or financial advice. Processes differ by bank and by payment type (card, transfer, Direct Debit). If anything suggests immediate ongoing risk (new payments still leaving, your email compromised, or impersonation attempts), prioritise locking accounts and using official contact routes.
 
 ## Additional Resources
-- https://www.fca.org.uk/consumers/fraudulent-payments
-- https://www.citizensadvice.org.uk/debt-and-money/banking/your-payment-card-was-used-without-your-permission-distance-sales/
-- https://www.moneyhelper.org.uk/en/everyday-money/banking/how-to-sort-a-problem-with-a-payment
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/fraud-scams/scams-involving-unauthorised-payments-identity-theft
-- https://www.financial-ombudsman.org.uk/consumers/how-to-complain
+- https://www.legislation.gov.uk/uksi/2017/752/regulation/76
+- https://www.fca.org.uk/publication/finalised-guidance/fca-approach-to-payment-services-electronic-money-2017.pdf
+- https://www.financial-ombudsman.org.uk/businesses/complaints-deal/fraud-scams/unauthorised-transactions-identity-theft
+- https://www.directdebit.co.uk/direct-debit-guarantee/
+- https://www.psr.org.uk/publications/policy-statements/ps247-faster-payments-app-scams-reimbursement-requirement-confirming-the-maximum-level-of-reimbursement/
+- https://www.psr.org.uk/publications/policy-statements/ps245-chaps-app-scams-reimbursement-requirement/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.cifas.org.uk/pr

@@ -1,87 +1,80 @@
----
+﻿---
 title: "What to do if… a regulator asks you to provide passwords or passcodes during an inquiry"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - "regulator asks for passwords"
-  - "agency asks for passcode"
-  - "asked to unlock phone on the spot"
-  - "asked for device pin during investigation"
-  - "asked for work email password"
-  - "government inquiry credential request"
-  - "asked to approve authenticator prompt"
-  - "asked for two factor code"
-  - "asked for share login credentials"
-  - "subpoena and password demand"
-  - "warrant and unlock request"
-  - "compelled unlocking concern"
-  - "fifth amendment passcode question"
-  - "biometric unlock pressure"
-  - "unsure if request is lawful"
-  - "worried about refusing access"
-  - "asked for account access"
-  - "asked for unlock laptop"
-  - "official interview password request"
-  - "help i am being asked for my pin"
-  - "help i am being asked for my password"
-  - "what do i do if a regulator wants my passcode"
-  - "what do i do if the fbi asks for my password"
-  - "what do i do if the sec asks for my login"
-  - "what do i do if police want my phone code"
-  - "smell of coerced consent"
-  - "visible badge and demand for access"
-  - "pressure to unlock phone now"
-  - "verbal demand for credentials"
-  - "agency passcode request"
-  - "investigation password demand"
-  - "official inquiry credential request"
-  - "regulatory password request"
-  - "compelled decryption demand"
-  - "forced unlocking request"
-last_reviewed: "2026-03-17"
+  - regulator asks for passwords
+  - agency asks for passcode
+  - asked to unlock phone on the spot
+  - asked for device pin during investigation
+  - asked for work email password
+  - government inquiry credential request
+  - asked to approve authenticator prompt
+  - asked for two factor code
+  - asked to share login credentials
+  - subpoena and password demand
+  - warrant and unlock request
+  - compelled unlocking concern
+  - fifth amendment passcode question
+  - biometric unlock pressure
+  - unsure if request is lawful
+  - worried about refusing access
+  - asked for account access
+  - asked to unlock laptop
+  - official interview password request
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… a regulator asks you to provide passwords or passcodes during an inquiry (USA)
 
 ## Short answer
-Do not provide passwords, passcodes, or two-factor authentication (2FA) codes verbally during an initial encounter. Request the demand in writing via a subpoena, warrant, or formal administrative order, and contact legal counsel before granting any access.
+Don’t give passwords, passcodes, or 2FA codes verbally “in the moment”. Ask for the request in writing (subpoena, warrant, or court order) and involve an attorney (or your organization’s counsel/compliance lead) before providing any access.
 
 ## Do not do these things
-- Do not provide a memorized passcode or alphanumeric password based on a verbal request alone.
-- Do not allow biometrics (FaceID / TouchID) to remain active if you anticipate a device seizure; power the device off to require a manual passcode.
-- Do not unlock a device and hand it over without a defined, counsel-approved scope of search.
-- Do not delete data, wipe remote accounts, or alter logs after being contacted by a regulator.
-- Do not lie or claim to have forgotten a code if you remember it; state clearly that you are declining to provide it pending legal advice.
-- Do not physically interfere with an official who is seizing a device.
+- Don’t share your actual password, device PIN, or 2FA codes to “make it easier”.
+- Don’t unlock a device/account and then leave officials alone with it without counsel-approved boundaries.
+- Don’t delete messages, wipe devices, change accounts, or “clean up” after contact.
+- Don’t lie, guess, or volunteer extra accounts/devices because you’re flustered.
+- Don’t physically resist or interfere. Your goal is to pause, document, and route everything through the proper legal process.
 
 ## What to do now
-1. **Request the formal legal authority for the demand.** State that you require a written subpoena, warrant, or court order before disclosing access credentials.
-2. **Identify the requesting official and their agency.** Record the name, badge number, agency (e.g., SEC, DOJ, FBI), and the specific case or reference number associated with the inquiry.
-3. **Power down the device immediately if it is in your possession.** Turning the device off typically disables biometric unlocking (FaceID / Fingerprint) and moves the device into a "Before First Unlock" (BFU) state, which provides higher legal protection for the passcode.
-4. **Contact legal counsel or your organization’s compliance officer.** 
-   - If the request involves work-owned devices or accounts, notify your employer's legal department and IT security lead. 
-   - If you are being detained or are in custody, clearly state: "I will not provide any passcodes or statements without my attorney present."
-5. **Differentiate between physical biometrics and memorized codes.** Note that while some jurisdictions allow officials to compel biometric unlocking (placing a finger on a sensor), the Fifth Amendment generally provides stronger protection against compelling you to reveal a "testimonial" memorized passcode.
-6. **Ask for a copy of the warrant or "Formal Order of Investigation".** For 2026 SEC inquiries, verify if a "Formal Order" has been authorized by the Commission, as this dictates the staff's subpoena power.
-7. **Document the exact nature of the request.** Write down what specific accounts (email, cloud storage, social media) or devices were mentioned and whether the officials requested "full access" or specific files.
+1. **Move the request onto formal paper.** Calmly say:  
+   “I can’t share passwords or passcodes informally. Please provide the subpoena/warrant/court order or a written request stating the authority and scope.”
+2. **Identify who is asking and what tool they’re using.** Ask for the agent’s name, agency, and case/reference number, and whether this is:  
+   - a **subpoena/document demand**,  
+   - a request for **testimony/interview**, or  
+   - a request for **device/account access** tied to a warrant or court order.
+3. **Call counsel immediately (or your organization’s counsel).**  
+   - If you have a lawyer: contact them before disclosing anything.  
+   - If this is work-related: notify your legal/compliance contact and IT/security lead right away.  
+   - If you’re in custody: clearly request an attorney and stop discussing access credentials until you have advice.
+4. **Offer cooperative alternatives that avoid handing over credentials.** While counsel reviews the request, propose:  
+   - **Producing documents/data** through counsel (exports, copies, logs) limited to the written scope.  
+   - **A supervised review** where you navigate while they observe, limited to what’s legally authorized.  
+   - **Temporary/least-privilege access** created by IT/admin (time-limited account), instead of your personal credentials.
+5. **If they insist you must unlock immediately, ask for the exact written authority compelling that specific act.** In the U.S., compelled unlocking (especially memorized passcodes versus biometrics) can vary by jurisdiction and the facts. Your safest move is:  
+   - ask to see the **warrant/court order** they’re relying on,  
+   - say you will **respond through counsel**, and  
+   - **do not physically resist**.
+6. **Preserve and document.** Write down what happened (who asked, what they requested, when, what papers were shown). Preserve relevant devices and accounts as-is until your attorney gives direction.
 
 ## What can wait
-- You do not need to determine the legality of the warrant or subpoena yourself in the moment.
-- You do not need to decide whether to cooperate with a "voluntary" request for credentials until you have consulted counsel.
-- You do not need to explain why a device is locked or why you use specific security measures.
-- You do not need to provide 2FA codes or physical security keys during the initial encounter.
+- You do **not** need to decide today whether to provide broad access. Right now, you only need to avoid irreversible mistakes and get the request properly scoped and reviewed.
+- You do **not** need to provide a full explanation, background story, or extra accounts/devices in the moment.
+- You do **not** need to make technical changes or run searches unless counsel directs it.
 
 ## Important reassurance
-It is a standard and lawful procedure to request that government demands for private data be put in writing. Declining to provide a password "on the spot" to a regulator is a common exercise of constitutional and procedural rights and does not constitute an admission of guilt.
+It’s normal to freeze when an official asks for a passcode. Asking for written authority and involving counsel is a standard protective step—especially because passwords and 2FA can expose far more than a request is entitled to.
 
 ## Scope note
-This guide addresses the immediate stabilization of a situation where a US government regulator or law enforcement agent demands digital access credentials. It does not cover long-term defense strategy, international border crossings, or private employer-employee disputes.
+This covers immediate first steps when you’re asked for passwords/passcodes during an inquiry. The right response depends on whether this is a civil regulator, criminal investigation, custody setting, and what legal papers (if any) have been served.
 
 ## Important note
-This information is for general educational purposes and does not constitute legal advice. Compelled decryption laws vary significantly by federal circuit and state jurisdiction. If you are served with a warrant or subpoena, seek immediate assistance from a qualified attorney.
+This is general information, not legal advice. If you’re served with a subpoena, warrant, or court order—or you’re in custody—get legal advice immediately and avoid deleting or altering data.
 
 ## Additional Resources
-- https://www.sec.gov/files/sec1662.pdf
-- https://www.ftc.gov/business-guidance/blog/2018/01/so-you-received-cid-faqs-small-businesses
-- https://www.ftc.gov/business-guidance/blog/2025/03/did-your-business-receive-cid-ftc-means-business
-- https://www.law.cornell.edu/wex/taking_the_fifth
-- https://www.nacdl.org/Content/Compelled-Decryption-Primer
+- https://www.sec.gov/divisions/enforce/enforcementmanual.pdf
+- https://www.govinfo.gov/content/pkg/USCOURTS-caDC-23-03104/pdf/USCOURTS-caDC-23-03104-0.pdf
+- https://www.americanbar.org/groups/criminal_justice/resources/committee-articles/compelled-biometrics-fifth-amendment-rights/
+- https://www.nacdl.org/getattachment/31317952-b53d-48ce-93bc-e44889f4804b/compelleddecryptionprimer.pdf
+- https://www.justice.gov/jm/jm-9-13000-obtaining-evidence

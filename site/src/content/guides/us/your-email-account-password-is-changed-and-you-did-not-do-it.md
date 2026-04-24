@@ -1,84 +1,89 @@
----
+﻿---
 title: "What to do if… your email account password is changed and you did not do it"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "emails disappearing"
-  - "inbox deleting messages"
-  - "mail being auto-deleted"
-  - "messages moved to trash"
-  - "messages missing not deleted"
-  - "unexpected email loss"
-  - "mailbox empty suddenly"
-  - "email rules not set"
-  - "filters i did not create"
-  - "forwarding i did not add"
-  - "hacked email account"
-  - "suspicious sign-in email"
-  - "gmail missing emails"
-  - "outlook missing emails"
-  - "apple mail missing emails"
-  - "imap sync deleted emails"
-  - "mail app syncing wrong"
-  - "recover deleted emails"
-  - "stop further deletions"
-  - "email account compromised"
-  - "what do i do if my emails are deleting themselves"
-  - "what do i do if my inbox is empty"
-  - "what do i do if someone is deleting my mail"
-  - "help i lost all my emails"
-  - "help my mail is disappearing"
-  - "help someone hacked my gmail"
-  - "trash folder empty suddenly"
-  - "recovery of permanently deleted mail"
-  - "gmail message recovery tool"
-  - "unauthorized email forwarding"
-  - "deleted items folder missing"
-  - "pop3 sync deletion error"
-  - "security alert unrecognized sign in"
-last_reviewed: "2026-03-17"
+  - email password changed
+  - email account hacked
+  - locked out of email
+  - someone changed my password
+  - unauthorized password reset
+  - email account takeover
+  - account takeover email
+  - suspicious sign in alert
+  - can’t access inbox
+  - recovery email changed
+  - recovery phone changed
+  - forwarding rule added
+  - filters changed
+  - strange emails sent
+  - two factor changed
+  - compromised email address
+  - phished email login
+  - credential stuffing
+  - email security breach
+  - hacked gmail
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your email account password is changed and you did not do it (USA)
 
 ## Short answer
-Sign in to your email account through a web browser immediately to disable any unauthorized filters, rules, or forwarding addresses. Disconnect all third-party apps and mail clients to stop automated synchronization deletions.
+Treat this as an account takeover: use your email provider’s official account-recovery process immediately, then sign out everywhere and secure 2-factor authentication before doing anything else.
 
 ## Do not do these things
-- Don't keep refreshing your mail apps on your phone or tablet, as this can trigger sync commands that finalize the deletions.
-- Don't empty the Trash, Bin, or Deleted Items folders in an attempt to "clean up" the mess.
-- Don't click security links or "password reset" buttons inside any recent emails; navigate to the provider's official website manually.
-- Don't ignore the issue even if it stops temporarily; automated rules may be set to run at specific intervals.
+- Don’t use password-reset links from messages you didn’t request (go directly to the provider’s site/app).
+- Don’t keep guessing passwords repeatedly (it can trigger longer lockouts).
+- Don’t reuse an old password or a “close enough” variation.
+- Don’t forget to check forwarding/rules/authorized apps — attackers often leave a backdoor there.
+- Don’t warn people using the compromised email account (the attacker may still be reading it).
 
 ## What to do now
-1. **Sever the connection to all mail apps and third-party clients.** **Log out of or switch off sync on all smartphones, tablets, and desktop mail applications (like Apple Mail, Outlook Desktop, or Thunderbird) to prevent the "delete" command from spreading.**
-2. **Access your account via the official webmail interface.** **Open a private or incognito browser window on a trusted computer and navigate directly to your provider’s site (e.g., mail.google.com, outlook.com, or icloud.com).**
-3. **Audit and remove unauthorized Inbox Rules or Filters.** **Check your account settings for "Rules" or "Filters" and delete any instructions that mention "Delete," "Archive," "Mark as Read," or "Skip the Inbox" that you did not create.**
-4. **Disable unauthorized email forwarding.** **Verify the "Forwarding" settings in your webmail and remove any email addresses that are not yours, as attackers often forward mail to themselves before deleting the original from your inbox.**
-5. **Revoke access for third-party apps and active sessions.** **Go to your account security dashboard to "Sign out of all other sessions" and remove permissions for any third-party applications you do not recognize or no longer use.**
-6. **Secure the account with a new password and Passkeys.** **Change your password to a unique 12-15 character string and enable Multi-Factor Authentication (MFA), preferably using a Passkey or an authenticator app rather than SMS.**
-7. **Initiate the provider's specific mail recovery process.** **Use dedicated recovery tools if the messages are not in the Trash folder.**
-   - For Gmail: Use the "Gmail Message Recovery Tool" website.
-   - For Outlook: Select the "Deleted Items" folder and click "Recover items deleted from this folder."
-   - For iCloud: Check "Trash" on iCloud.com; Apple generally cannot recover mail once it is purged from the Bin.
-8. **Scan your primary device for malware.** **Run a full system scan with a reputable antivirus or anti-malware tool to ensure an "infostealer" or keylogger is not capturing your new credentials.**
+1. **Switch to a safer device if you suspect malware.** If your computer/phone might be infected (unknown extensions/apps, strange behavior), use a different device to recover the account, and run updates and a reputable security scan on the original device before signing in again.
+2. **Start provider recovery from the official site/app.** Use the provider’s built-in “account recovery” flow and complete all verification steps. If your recovery email/phone was changed, keep going — many providers offer alternative verification paths.
+3. **When you regain access, sign out everywhere and remove unknown access.**
+   - Sign out of all devices/sessions.
+   - Remove unfamiliar “connected apps”, third-party mail clients, and devices.
+4. **Set a new, unique password (then store it).** Use a long, unique password you’ve never used elsewhere; a password manager is the safest way to create and keep it.
+5. **Turn on 2-factor authentication (2FA) and secure recovery options.**
+   - Enable 2FA (authenticator app or security key if available).
+   - Verify recovery phone and recovery email are yours.
+   - Save backup codes somewhere safe you can reach if you get locked out again.
+6. **Check your mailbox settings for attacker “persistence”.** Remove anything you did not set:
+   - forwarding addresses
+   - rules/filters
+   - delegated access / “mailbox sharing”
+   - “send as” addresses
+   - signatures/auto-replies that could spread scams
+7. **Triage other accounts that rely on that email (start with the highest-risk).**
+   - Banking, credit cards, payment apps: change passwords (unique) and enable 2FA.
+   - **Mobile carrier account:** sign in (or call support) and set/verify a **port-out/transfer PIN** (and remove unknown lines/devices). This helps reduce SIM-swap/number-porting risk.
+   - Primary social accounts: change passwords (unique) and enable 2FA.
+8. **Tell key people using a different channel.** If your email is used for invoices, work approvals, or family finances, quickly alert those contacts by phone/text/another email: “Ignore unexpected requests from me until I confirm.”
+9. **If you lost money or your account was used for fraud, report it carefully.**
+   - For identity theft recovery steps, use **IdentityTheft.gov**.
+   - For cyber-enabled fraud/scams (including business email compromise), you can file a report with the FBI’s **IC3** — but **type ic3.gov directly** in your browser (don’t rely on ads or lookalike links). Be wary of anyone claiming to be “IC3/FBI” who asks for a fee to “recover” your money.
+10. **If this is a work or school account, escalate immediately.** Contact IT/security right away — they may need to reset sessions, block forwarding, and protect other accounts tied to your identity.
 
 ## What can wait
-- You do not need to notify your entire contact list right now; wait until you have confirmed the account is secure.
-- You do not need to decide on a new email provider or platform immediately.
-- You do not need to reorganize your folders or labels until the deletion process has been fully stopped.
+- You don’t need to fully diagnose how it happened right now.
+- You don’t need to delete your entire email history or close the account immediately.
+- You don’t need to contact everyone — focus on anyone who might act on urgent requests (payments, password resets, “new bank details”, gift cards).
+- You don’t need to make a law-enforcement report unless there’s fraud, financial loss, or you’re advised to by the relevant agency.
 
 ## Important reassurance
-Mass deletions are often caused by a misconfigured IMAP sync or a simple unauthorized "filter" added by an attacker. These actions are reversible if caught within the provider's retention window (usually 30 days). Following these steps to stabilize the account via the web interface is the standard professional response to stop digital loss.
+This happens to careful people, often through automated attacks or stolen credentials from unrelated breaches. The key is regaining control and removing the attacker’s access paths (sessions, recovery info, forwarding/rules).
 
 ## Scope note
-This guide covers first-step stabilization and recovery for personal email accounts. It does not cover forensic investigation of data breaches or legal recovery of corporate assets.
+This is first-step guidance to stabilize the situation and prevent immediate harm. Longer-term cleanup (device hardening, breach monitoring, credit protections) can be done later if needed.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT or legal advice. If you suspect your email was used to commit financial fraud or identity theft, you should also visit IdentityTheft.gov or ReportFraud.ftc.gov.
+This guide is general information, not legal, financial, or IT professional advice. If you have active fraud, major financial exposure, or a workplace incident, follow your provider/bank/IT team instructions and get help promptly.
 
 ## Additional Resources
-- https://consumer.ftc.gov/node/77537
-- https://consumer.ftc.gov/consumer-alerts/2024/10/email-or-social-media-hacked-heres-what-do
-- https://support.google.com/accounts/answer/58585?hl=en
-- https://support.google.com/accounts/answer/6294825?hl=en
-- https://support.microsoft.com/en-us/account-billing/how-to-recover-a-hacked-or-compromised-microsoft-account-24ca907d-bcdf-a44b-4656-47f0cd89c245
+- https://www.identitytheft.gov/Info-Lost-or-Stolen
+- https://www.identitytheft.gov/
+- https://www.ic3.gov/
+- https://www.fbi.gov/investigate/cyber/alerts/2025/threat-actors-spoofing-the-fbi-ic3-website-for-possible-malicious-activity
+- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise
+- https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts

@@ -1,100 +1,93 @@
----
+﻿---
 title: "What to do if… you receive a notice that your booking was changed and you suspect someone accessed your travel account"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "booking changed unexpectedly"
-  - "travel account hacked"
-  - "airline account accessed"
-  - "hotel booking changed"
-  - "trip altered without consent"
-  - "suspicious itinerary change"
-  - "unauthorized travel booking"
-  - "travel app compromised"
-  - "booking confirmation looks wrong"
-  - "account takeover travel"
-  - "someone accessed my travel account"
-  - "my booking was changed"
-  - "help i think my airline account was hacked"
-  - "help i think my hotel account was hacked"
-  - "what do i do if my travel account is accessed"
-  - "what do i do if my booking is changed"
-  - "unauthorized passenger on my flight"
-  - "unrecognized email change travel"
-  - "smell of suspicious login alert"
-  - "see unknown charges on travel app"
-  - "see unexpected reservation cancellation"
-  - "notice of booking modification"
-  - "login alert for travel site"
-  - "suspicious travel itinerary email"
-  - "hacked travel agency account"
-  - "travel loyalty points missing"
-  - "booking was changed without me"
-  - "unauthorized login to booking portal"
-  - "my itinerary looks different"
-  - "incorrect passenger name on ticket"
-last_reviewed: "2026-03-17"
+  - booking changed unexpectedly
+  - travel account hacked
+  - airline account accessed
+  - hotel booking changed
+  - trip altered without consent
+  - suspicious itinerary change
+  - unauthorized travel booking
+  - travel app compromised
+  - booking confirmation looks wrong
+  - account takeover travel
+  - loyalty miles stolen
+  - unknown passenger added
+  - payment method used in account
+  - email about booking change
+  - travel login alert
+  - someone accessed my booking
+  - urgent travel plans disrupted
+  - online travel agency account hacked
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you receive a notice that your booking was changed and you suspect someone accessed your travel account (USA)
 
 ## Short answer
-Assume an account takeover has occurred: **manually navigate to the official travel provider's website to secure your login credentials and contact their fraud or reservations department to freeze the booking**.
+Assume account takeover: **secure the travel account and the email behind it, then contact the travel company to freeze the reservation and stop further changes**.
 
 ## Do not do these things
-- Do not click links or call numbers provided in the notification email or text message.
-- Do not use the same password for your travel account and your email account.
-- Do not ignore minor changes such as seat assignments, meal preferences, or frequent flyer number updates.
-- Do not post screenshots of the changed booking or confirmation codes on social media to seek help.
-- Do not attempt to "test" the account by making further changes yourself before securing it.
+- Don’t click login/verification links in the alert message until you’ve reached the site/app through the official route you normally use.
+- Don’t ignore “minor” changes (seat swaps, contact email changes, new saved traveler) — they can be a setup for bigger fraud.
+- Don’t send documents or booking codes to “support” found via social media DMs or random numbers in the email.
+- Don’t delay if you travel soon; last-minute changes can block check-in or cause ID/name mismatches.
 
 ## What to do now
-1. **Verify the current status of your reservation through an official channel.** **Type the airline, hotel, or travel agency's web address directly into your browser or open their verified mobile app.**
-   - Navigate to "Manage Booking" or "My Trips" using your confirmation number and last name.
-   - Check for unauthorized changes to passenger names, contact emails, phone numbers, or flight dates.
-   - Look for added "stored" passengers or new saved credit cards you do not recognize.
+1. **Confirm what changed using a safe path**
+   - Open the provider’s official app or type the known website yourself and check: passenger name(s), dates/times, airports/cities, ticket status, contact email/phone on file, and payment method.
+   - If the alert pressures you with a deadline, treat it as a reason to verify independently, not to act through the link.
 
-2. **Secure your primary email account associated with the booking.** **Change your email password immediately and check for unauthorized login activity or mail forwarding rules.**
-   - Look in your "Deleted Items," "Archive," or "Junk" folders for missing booking confirmations the intruder may have hidden.
-   - Verify that no new "Rules" or "Filters" have been set up to automatically forward or delete emails from travel providers.
-   - Enable multi-factor authentication (MFA) if it was not already active.
+2. **Secure the travel account right away**
+   - Change the password (unique, long).
+   - Turn on two-factor authentication (2FA) if available.
+   - Sign out of other devices / remove unfamiliar devices or sessions.
+   - Review saved traveler profiles, stored payment methods, and “trusted devices” and delete anything you don’t recognize.
 
-3. **Change the password for the affected travel account.** **Create a unique, complex password that is not used for any other service and sign out of all active sessions.**
-   - Enable MFA/2FA within the travel provider's security settings if available.
-   - Remove any "trusted devices" or "remembered browsers" listed in the account profile.
+3. **Secure the email account tied to the booking**
+   - Change the email password and enable 2FA.
+   - Check for forwarding addresses, mailbox rules/filters, and recovery email/phone changes you didn’t make.
+   - Review recent sign-ins and sign out of unknown devices.
 
-4. **Contact the travel provider’s fraud or reservations department directly.** **Inform the agent that you suspect unauthorized access and request that they place a "security note" or "lock" on the reservation.**
-   - Ask the agent to confirm if any vouchers, refunds, or ticket exchanges have been issued.
-   - Request that no further changes be made to the booking without additional identity verification.
-   - If the booking was made through an Online Travel Agency (OTA), you must contact both the OTA and the end service provider (e.g., the airline or hotel).
+4. **Call the travel provider and ask for specific controls**
+   - Say: “I suspect unauthorized access to my account/booking. Please freeze changes and add a security note.”
+   - Ask them to: lock the reservation against online changes; confirm the current itinerary and ticket status; confirm whether a new ticket/voucher was issued; and confirm what payment method was used.
+   - If it’s booked through an online travel agency (OTA), contact the OTA and the airline/hotel when possible (each may control different parts).
 
-5. **Isolate your payment methods.** **Check the activity on any credit or debit cards saved to the travel account for unauthorized charges or "test" transactions.**
-   - Contact your bank or card issuer's fraud department to report the suspected compromise.
-   - Ask the bank to freeze the card or issue a new number if the data was exposed in the travel account.
+5. **Check your payment accounts and respond quickly**
+   - Review card/bank activity for new charges or small “test” transactions.
+   - If anything is unauthorized, contact your card issuer/bank fraud department immediately and follow their dispute guidance.
+   - Save evidence now: screenshots of the changed itinerary, confirmation numbers, timestamps, and any emails.
 
-6. **Document the incident for reporting purposes.** **Save copies of the original notification, screenshots of the unauthorized changes, and records of your communications with the provider.**
-   - Note the date and time you first noticed the change.
-   - Keep a log of the names of representatives you speak with and any case reference numbers provided.
+6. **If you’re traveling soon, protect check-in and identity matching**
+   - Make sure the name on the reservation matches your ID/passport exactly.
+   - Confirm you can access boarding passes / check-in.
+   - Ask whether the provider can require extra verification or place a “do not change without phone verification” note (wording varies).
 
-7. **Report the incident to the appropriate federal authorities.** **Use the Federal Trade Commission's (FTC) reporting portal at IdentityTheft.gov if your personal or financial data was misused.**
-   - If the issue involves an airline and remains unresolved after contacting them, file a formal complaint through the Department of Transportation (DOT) ACERS portal.
+7. **Use official U.S. reporting/help channels if identity details or money were misused**
+   - If this involves identity theft (accounts opened, personal data misused, or you need a recovery plan), use the federal identity theft recovery site to document and generate steps.
+   - For air-travel consumer issues, try the airline or ticket agent first; if it can’t be resolved to your satisfaction, you can file an air travel consumer complaint with the U.S. Department of Transportation.
 
 ## What can wait
-- You do not need to delete the travel account entirely right now; focus on securing it first.
-- You do not need to file a police report immediately unless instructed by your bank or the FTC.
-- You do not need to update your password on every unrelated website today; prioritize the affected travel and email accounts.
+- You don’t need to overhaul every account right now—start with **email + the travel account + the payment method** involved.
+- You don’t need to decide today whether to pursue formal complaints—first stabilize the booking and stop further changes.
+- You don’t need to publicly warn others with screenshots that include confirmation numbers; keep details private until you’re safe.
 
 ## Important reassurance
-Unauthorized access to travel accounts is a known issue, and providers have established protocols to handle these events. Once you have secured your login credentials and spoken with the provider to "lock" the booking, you have stopped the immediate threat.
+This kind of message can feel instantly destabilizing because it affects your ability to travel. Taking a few focused steps—secure access, freeze changes, then handle payments—usually stops the damage and buys you time.
 
 ## Scope note
-This guide provides first-step stabilization for a suspected account takeover. Long-term identity monitoring or legal disputes regarding refunds may require separate, follow-up actions once the immediate travel plans are secured.
+This is first-step guidance for a suspected travel-account compromise. Longer follow-up (credit monitoring, formal disputes, extended identity recovery) can come after the immediate situation is stabilized.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Procedures vary by airline, hotel chain, and financial institution; always follow the specific security instructions provided by your bank and the official travel provider.
+This is general information, not legal or financial advice. Providers and banks have different procedures; if you’re unsure, use official support channels and your bank’s fraud department.
 
 ## Additional Resources
-- https://consumer.ftc.gov/node/77537
-- https://www.ftc.gov/media/70880
-- https://consumer.ftc.gov/consumer-alerts/2024/07/scammers-impersonate-airline-customer-service-representatives
-- https://www.transportation.gov/airconsumer/airline-customer-service-dashboard
-- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
+- https://www.identitytheft.gov/
+- https://www.identitytheft.gov/assistant
+- https://www.ftc.gov/news-events/topics/identity-theft/report-identity-theft
+- https://www.transportation.gov/airconsumer/file-consumer-complaint
+- https://www.transportation.gov/airconsumer/complaint-process
+- https://www.usa.gov/travel-complaints

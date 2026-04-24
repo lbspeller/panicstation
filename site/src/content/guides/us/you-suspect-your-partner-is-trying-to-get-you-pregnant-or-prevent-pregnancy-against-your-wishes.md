@@ -1,81 +1,76 @@
----
+﻿---
 title: "What to do if… you suspect your partner is trying to get you pregnant or prevent pregnancy against your wishes"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "reproductive coercion"
-  - "partner tries to get me pregnant"
-  - "partner prevents pregnancy against my wishes"
-  - "suspect my partner is sabotaging birth control"
-  - "what do i do if my partner hid my pills"
-  - "help i think my partner tampered with condoms"
-  - "what do i do if my partner poked holes in condoms"
-  - "help my partner is forcing me to get pregnant"
-  - "my partner refuses to use contraception"
-  - "partner pregnancy pressure"
-  - "stealthing during sex"
-  - "damaged condom noticed"
-  - "missing birth control pills"
-  - "poking holes in condom"
-  - "removing condom without consent"
-  - "birth control sabotage"
-  - "contraception interference"
-  - "forced unprotected sex"
-  - "pregnancy against wishes"
-  - "reproductive health privacy"
-  - "confidential clinic for pregnancy risk"
-  - "emergency contraception after sabotage"
-  - "hidden birth control"
-  - "tampered contraceptive patch"
-  - "partner monitors my period app"
-  - "checking phone for pregnancy info"
-  - "insurance privacy for sexual health"
-  - "reproductive autonomy"
-  - "sexual assault support"
-  - "reproductive violence"
-last_reviewed: "2026-03-17"
+  - reproductive coercion
+  - forced pregnancy concerns
+  - partner birth control sabotage
+  - contraception sabotage
+  - condom tampering fear
+  - stealthing concerns
+  - partner refuses contraception
+  - partner hides pills
+  - pregnancy pressure
+  - forced unprotected sex
+  - consent not respected
+  - intimate partner violence
+  - controlling relationship behaviour
+  - worried about pregnancy risk
+  - need confidential sexual health care
+  - emergency contraception worries
+  - afraid to confront partner
+  - partner monitors phone
+  - safety planning now
+  - insurance privacy concern
+  - relationship feels unsafe
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you suspect your partner is trying to get you pregnant or prevent pregnancy against your wishes (USA)
 
 ## Short answer
-Get to a safer pause and contact a confidential domestic violence advocate or sexual health clinic using a device your partner cannot monitor. If pregnancy is possible, seek emergency contraception or medical advice within 72 to 120 hours depending on the method.
+Get to a safer pause and contact confidential support (a domestic violence advocate or a clinic) using a device/account your partner cannot monitor. If pregnancy is possible, seek time-sensitive medical advice as soon as you safely can.
 
 ## Do not do these things
-- Do not confront your partner immediately if you believe it could lead to physical violence or increased monitoring.
-- Do not dispose of tampered items (like damaged condoms or hidden pills) in a shared trash can where they might be found.
-- Do not search for help or clinics on a shared computer, shared tablet, or a phone with location sharing enabled.
-- Do not wait to seek medical advice if you think you have been exposed to pregnancy or STIs; some options are highly time-sensitive.
-- Do not assume your partner has a right to know about your medical appointments or contraceptive choices.
+- Do not confront them right away if you think it could trigger retaliation, violence, or tighter control.
+- Do not rely on promises or explanations if your consent is being pressured or overridden — treat this as a safety issue.
+- Do not search for help on a shared phone, shared computer, or shared accounts if monitoring is possible.
+- Do not make big contraception changes without a clinician if pregnancy is possible — get medical advice as soon as you safely can.
+- Do not delete messages/photos out of panic if you might want support later.
 
 ## What to do now
-1. **Find a safer pause to think and communicate.** Move to a location where you cannot be overheard and your screen cannot be seen, such as a locked bathroom, a public library, or a trusted friend's home. If you are in immediate physical danger, call **911**.
-2. **Use a safer device and clear your history.** If your partner monitors your phone or computer, use a device they cannot access, such as one at a library or a friend's phone. If you must use your own device, use "Incognito" or "Private" mode and close all tabs afterward.
-3. **Contact the National Domestic Violence Hotline for a safety plan.** Call **1-800-799-SAFE (7233)**, text **"START" to 88788**, or use the secure chat at thehotline.org. Ask an advocate for help creating a 24-hour safety plan that includes safe communication and a place to go if the situation escalates.
-4. **Seek confidential medical care immediately.** Contact a clinic (such as **Planned Parenthood**) or your healthcare provider and state that you are concerned about "reproductive coercion" or "contraceptive interference." Ask specifically about:
-   - **Emergency Contraception (EC):** Pills are most effective within 72 hours, though some work up to 5 days; a copper IUD can be used as EC up to 5 days after sex.
-   - **Long-Acting Reversible Contraception (LARC):** Ask about methods that are difficult for a partner to see or tamper with, such as an IUD (with strings trimmed) or an implant.
-   - **STI Testing:** Request a full panel if you suspect condom tampering or have been forced into unprotected sex.
-5. **Request "Confidential Communications" for insurance billing.** Under 2026 HIPAA updates, you have the right to request that your insurance company send "Explanation of Benefits" (EOB) forms to a different address or via a secure portal instead of a shared home address. Tell the clinic staff you have safety concerns regarding your insurance privacy.
-6. **Save a hidden record of what is happening.** If it is safe to do so, keep a log of dates and specific incidents (e.g., "Found pill pack in the trash," "Partner refused condom") in a secure digital vault, a private email account, or with a trusted friend. 
-7. **Contact RAINN if you suspect sexual assault or "stealthing."** If your partner removed a condom without your consent or forced you to have sex, call the National Sexual Assault Hotline at **1-800-656-HOPE (4673)** or text **"HOPE" to 64673**. They can help you navigate medical options and local support without requiring you to report to the police.
+1. **Create a safer pause.** If you can, move to somewhere you can think and communicate privately (bathroom with the door locked, outside, a public place, a friend’s home). If you are in immediate danger, call **911**.
+2. **Reach out from a safer device and safer accounts.** If your phone might be monitored, use a friend’s phone, a work phone, or another device your partner cannot access. Avoid shared Apple/Google accounts and shared location sharing if possible.
+3. **Contact the National Domestic Violence Hotline.** Ask for a short, practical safety plan for the next 24–72 hours (safe communication, where to go if things escalate, what to keep accessible). If calling isn’t safe, consider chat-based support.
+4. **Get confidential sexual and reproductive health care.** Contact a clinic (for example **Planned Parenthood** or another local provider) and say: “I’m worried a partner is interfering with contraception or consent. I need confidential options.” Ask about:
+   - **Pregnancy testing** and appropriate timing.
+   - **Emergency contraception** if relevant to recent sex.
+   - **Contraception options that are harder to tamper with**, if you want them.
+   - **STI testing** if there was condom interference, non-consensual sex, or pressure you couldn’t safely refuse.
+5. **Protect confidentiality around insurance if that’s a risk.** If you’re on someone else’s insurance plan (or your partner can see bills/mail), tell the clinic you’re concerned about privacy and ask what they can do to reduce disclosures (for example, safer communication preferences, alternative billing options, or referrals).
+6. **If you want to preserve options, save a simple record somewhere safe.** Note dates and what happened (missing pills, damaged condoms, threats/pressure, refusal to let you use contraception). Store it somewhere your partner can’t see (with a trusted person, or a private account they don’t know exists).
+7. **Tell one trusted person and set a check-in.** A single ally can reduce risk. Keep it simple and safety-focused (a time to call, a code word meaning “call 911” or “come get me”).
+8. **If you think what happened may have been sexual assault (or you’re unsure), contact sexual assault support.** You can contact **RAINN** for confidential support and help finding local services. You do not have to decide about reporting in order to get support.
 
 ## What can wait
-- You do **not** have to decide whether to leave the relationship right now.
-- You do **not** have to decide whether to report the behavior to the authorities or file for a protective order today.
-- You do **not** have to explain your medical appointments or birth control changes to your partner.
+- You do **not** need to decide right now whether to report to police, seek a protective order, leave the relationship, or disclose to family.
+- You do **not** need to gather “proof” before contacting a hotline or clinic.
+- You can decide later what level of documentation you want to keep and whether you want legal advice.
 
 ## Important reassurance
-It is normal to feel confused, betrayed, or unsure if what is happening "counts" as abuse. Reproductive coercion is a recognized form of power and control. Your desire to have autonomy over your own body and pregnancy status is valid, and there are professionals who can help you stay safe while you navigate these choices.
+Many people feel uncertain and second-guess themselves in situations like this. Wanting control over if/when you become pregnant is a basic right, and support is available even if you’re not ready to take big steps.
 
 ## Scope note
-This guide provides first-step stabilization for immediate safety and reproductive health. It does not replace legal advice or long-term counseling for domestic transitions.
+These are first steps to reduce immediate risk, protect your choices, and connect you to confidential support. Longer-term decisions can be made later with advocates and clinicians.
 
 ## Important note
-This information is for general guidance and is not a substitute for professional legal or medical advice. If you are in immediate danger, contact emergency services at 911. Federal privacy laws (HIPAA) were updated in early 2026 to enhance protections for reproductive health data; consult your provider for specific privacy forms.
+This is general information, not medical or legal advice. If you are in immediate danger, call 911. If pregnancy or health harm is possible, seek urgent clinical care as soon as you safely can.
 
 ## Additional Resources
-- https://www.cdc.gov/intimate-partner-violence/about/violence-and-pregnancy.html
-- https://www.thehotline.org/resources/reproductive-coercion/
-- https://www.womenslaw.org/about-abuse/forms-abuse/reproductive-abuse-and-coercion
-- https://rainn.org/what-counts-as-sexual-violence/get-the-facts-about-intimate-partner-sexual-violence/
-- https://womenshealth.gov/pregnancy/you-get-pregnant/unplanned-pregnancy
+- https://www.thehotline.org/
+- https://rainn.org/help-and-healing/hotline/
+- https://www.plannedparenthood.org/get-care/our-services/emergency-contraceptive
+- https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/02/reproductive-and-sexual-coercion
+- https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2012/02/intimate-partner-violence
+- https://www.plannedparenthoodaction.org/planned-parenthood-advocacy-fund-massachusetts-inc/issues/protecting-access-confidential-care

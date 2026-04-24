@@ -1,90 +1,79 @@
----
+﻿---
 title: "What to do if… a marketplace buyer or seller dispute puts a large amount of your money on hold"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "marketplace dispute money on hold"
-  - "buyer dispute funds held"
-  - "seller dispute payout on hold"
-  - "payment on hold marketplace"
-  - "large amount held pending"
-  - "payout delayed after sale"
-  - "payment pending not released"
-  - "chargeback risk marketplace sale"
-  - "card payment dispute marketplace"
-  - "refund request in marketplace"
-  - "return dispute high value item"
-  - "item not received dispute hold"
-  - "not as described dispute hold"
-  - "account review payout frozen"
-  - "funds unavailable after delivery"
-  - "evidence for marketplace dispute"
-  - "transaction reversal worry"
-  - "paypal payment on hold"
-  - "help i have a payment hold"
-  - "what do i do if my money is on hold"
-  - "what do i do if my payout is delayed"
-  - "what do i do if my buyer opened a case"
-  - "help my funds are frozen"
-  - "smell of scam"
-  - "burning money worry"
-  - "marketplace funds frozen"
-  - "dispute response deadline"
-  - "ebay payment on hold"
-  - "vinted money on hold"
-  - "depop payout held"
-  - "facebook marketplace dispute"
-  - "gumtree payment dispute"
-  - "chargeback uk rights"
-  - "section 75 marketplace protection"
-  - "financial ombudsman 15 days"
-last_reviewed: "2026-03-17"
+  - marketplace dispute money on hold
+  - buyer dispute funds held
+  - seller dispute payout on hold
+  - payment on hold marketplace
+  - large amount held pending
+  - payout delayed after sale
+  - payment pending not released
+  - chargeback risk marketplace sale
+  - card payment dispute marketplace
+  - refund request in marketplace
+  - return dispute high value item
+  - item not received dispute hold
+  - not as described dispute hold
+  - account review payout frozen
+  - funds unavailable after delivery
+  - evidence for marketplace dispute
+  - transaction reversal worry
+  - paypal payment on hold
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… a marketplace buyer or seller dispute puts a large amount of your money on hold (UK)
 
 ## Short answer
-Keep all communications and transactions strictly within the official marketplace platform and submit a structured evidence file before the case deadline.
+Keep everything inside the marketplace/payment platform process, save your evidence now, and submit a clear, deadline-safe response in the official case thread.
 
 ## Do not do these things
-- Don’t move the conversation to WhatsApp, email, or other private messaging apps.
-- Don’t agree to "off-platform" refunds, partial payments, or bank transfers to "release" the held funds.
-- Don’t close an open dispute or case until the money is actually in your control or the item is returned and verified.
-- Don’t respond to social media accounts (X/Twitter/Facebook) claiming they can "unlock" your account or funds for a fee.
-- Don’t ship a replacement item or accept a return without using the platform's tracked and integrated label system.
+- Don’t move the conversation to private email/WhatsApp or agree to “off-platform” refunds, returns, or payments to “unlock” the money.
+- Don’t close a dispute unless you’re fully satisfied **and** the platform confirms your options (closing can reduce your ability to escalate).
+- Don’t send extra money, gift cards, crypto, or “verification” payments to anyone claiming it will release the hold.
+- Don’t ship a replacement or accept a return without tracked delivery and a documented return process.
+- Don’t delete messages, listings, receipts, tracking pages, or photos.
 
 ## What to do now
-1. **Document the exact details of the hold immediately.** Save the case ID, the transaction reference, the specific amount held, and the official reason stated by the platform (e.g., "Item Not Received" or "Significantly Not as Described").
-2. **Collect all physical and digital evidence into one folder.** This includes:
-   - Screenshots of the original listing and all platform messages.
-   - Proof of postage and delivery (tracking numbers, courier receipts, and delivery photos).
-   - Photos of the item's condition and packaging taken just before dispatch or upon receipt.
-3. **Verify whether the transaction is "Pending" or "Completed" in your bank app.** If the payment is only "Pending" (authorised), your bank usually cannot force a release; you must follow the platform's dispute resolution steps to let the authorisation expire or settle.
-4. **Upload tracking and delivery proof directly into the dispute portal.** Do not just send these details in a message to the other party; ensure they are uploaded where the platform's automated system and human reviewers can access them.
-5. **Post a single, factual timeline of events in the case thread.** Use a neutral tone and stick to dates: "Item ordered [Date], shipped via [Carrier] on [Date], tracking shows delivered [Date], buyer raised dispute [Date]."
-6. **Set a calendar alarm for 24 hours before the platform's response deadline.** Missing a deadline often results in an automatic decision against you, regardless of the evidence you hold.
-7. **Initiate a formal complaint if the payment provider is a regulated UK financial firm.** If the hold is by a provider like PayPal or a bank, use their "Formal Complaint" route; under FCA rules (DISP), they must generally provide a final response for payment/e-money complaints within 15 business days.
-8. **Check if Section 75 or Chargeback applies to the transaction.**
-   - **Section 75:** May apply to credit card purchases between £100 and £30,000, but often fails in marketplace "aggregator" setups where the "debtor-creditor-supplier" chain is broken.
-   - **Chargeback:** Available for most debit and credit cards; contact your bank to ask if they can "reverse" the transaction based on non-delivery or misrepresentation.
-9. **Review protections for "Buy Now, Pay Later" (BNPL) if applicable.** If the agreement was made on or after 15 July 2026, the provider is likely FCA-regulated, giving you access to Section 75 protections and the Financial Ombudsman Service.
+1. **Capture the essentials (so you don’t rely on memory).** Write down or screenshot: case ID, transaction ID, amount, dates, and the stated reason for the hold (e.g., “item not received”, “not as described”, “account review/limitation”).
+2. **Save evidence before anything changes.** Download/screenshot: the listing, order details, payment confirmation, all messages, dispute status page, and any return instructions.
+3. **Check whether it’s a platform hold or a card/bank authorisation.** In your bank/card app, see if the payment is *pending/authorised* or *completed*. If it’s only pending, the bank often can’t “release” it on request—your best move is still to follow the platform dispute steps while you monitor whether it settles or drops off.
+4. **If you’re the seller: upload proof where the platform actually evaluates it.**
+   - Enter **tracking** in the platform/payment system (not just in chat).
+   - Upload **proof of delivery** (carrier page showing delivered; signature/delivery photo if available).
+   - If it’s “not as described,” upload **your dispatch proof + condition proof** (photos of the item and packaging taken just before sending; any serial numbers/unique marks you recorded).
+5. **If you’re the buyer: keep your protection by using the platform’s return/dispute flow.**
+   - If a return is required, use a **tracked** service and keep the receipt and tracking proof.
+   - Photograph the item and packaging before returning, and keep proof of exactly what you sent.
+6. **Post one calm, structured response in the case thread.** Include a short timeline (“Ordered… Shipped… Delivered… Issue raised…”) and attach only the key evidence. Avoid long arguments—case reviewers look for dates and documents.
+7. **Set reminders for deadlines shown in the case.** Missing a response window can seriously weaken your position because decisions may be made using only what’s been submitted by the deadline.
+8. **If the hold is with a payment provider/bank and support isn’t resolving it, start a formal complaint.** Use the firm’s complaint route (not just live chat), keep a copy of what you sent, and note the date you complained.
+9. **Know the UK escalation path (without rushing it).**
+   - For many UK financial firms, you can usually escalate to the **Financial Ombudsman Service** after you get a “final response” letter, or if you don’t get a final response within the required timeframe.
+   - Timeframes can differ: complaints about **payment services/e-money** are often handled on a faster timetable than other financial complaints, so keep it factual and date-stamped.
+10. **If you paid by card and the platform route is failing, ask your card provider what protections apply.** Chargeback is available for many debit/credit card purchases (scheme rules vary). If you paid by credit card, **Section 75** may apply for many purchases between **£100 and £30,000**, but marketplace/intermediary setups can make eligibility more complex—ask your card issuer based on the exact payment chain.
 
 ## What can wait
-- You do not need to decide whether to take legal action in Small Claims Court right now.
-- You do not need to post about the situation on public forums or social media.
-- You do not need to prove the other person is "lying"—focus only on providing the specific documentation the platform requested.
+- You don’t need to decide today whether to sue, post publicly, or pursue multiple escalation routes at once.
+- You don’t need to prove intent or “win the argument” right now—focus on preserving evidence and meeting deadlines.
+- You don’t need to accept any “quick fix” outside the platform to get relief.
 
 ## Important reassurance
-A payment hold is a standard protective measure and does not mean your money is gone. Most platform disputes are resolved through a automated or semi-automated review of tracking data and timestamps; providing clear, tracked evidence is the most effective way to resolve the hold.
+A large hold can feel like your money has disappeared, but holds are commonly used during disputes and account reviews. The most protective early actions are simple: keep it official (in-platform), keep it documented, and don’t miss deadlines.
 
 ## Scope note
-This guide covers first-step stabilization for funds held during active marketplace or payment portal disputes. It does not cover long-term debt recovery or disputes involving private sales outside of major platforms.
+This is first steps only to stabilise a marketplace/payment dispute and reduce irreversible mistakes. Later choices may depend on the specific platform, the payment method, and the dispute reason.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Jurisdictional rules for Section 75 and Chargeback are complex; always consult your card issuer or a specialist advisor like Citizens Advice for specific claims.
+This is general information, not legal or financial advice. Rules vary by marketplace, payment provider, and card scheme, and high-value disputes can turn on small details (deadlines, tracking type, and what was agreed in writing).
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/consumer/get-more-help/Solve-an-ongoing-consumer-problem/
 - https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/getting-your-money-back-if-you-paid-by-card-or-paypal/
-- https://www.moneyhelper.org.uk/en/everyday-money/banking/how-to-sort-a-problem-with-a-payment
-- https://www.paypal.com/uk/brc/article/funds-availability
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/electronic-money
+- https://www.moneyhelper.org.uk/en/everyday-money/credit/how-youre-protected-when-you-pay-by-card
+- https://www.ukfinance.org.uk/our-expertise/cards/chargeback-and-section-75
+- https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
+- https://www.gov.uk/complain-financial-service
+- https://handbook.fca.org.uk/handbook/disp1/disp1s6
+- https://www.paypal.com/uk/cshelp/article/how-can-i-release-my-payments-on-hold-help129

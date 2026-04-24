@@ -1,104 +1,98 @@
----
+﻿---
 title: "What to do if… you realise you may have overstayed your permission to stay by mistake"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "overstayed us visa"
-  - "i-94 expired by mistake"
-  - "admit until date passed"
-  - "visa vs i-94 expiration"
-  - "unlawful presence bars"
-  - "out of status help"
-  - "what do i do if i overstayed in usa"
-  - "what do i do if my i-94 is wrong"
-  - "what do i do if my visa is expired"
-  - "what do i do if i stayed too long"
-  - "help i overstayed my visa"
-  - "help i missed my departure date"
-  - "help my i-94 date is past"
-  - "my i-94 says a different date"
-  - "smell of trouble with immigration"
-  - "visible date error on i-94"
-  - "notice of visa voidance"
-  - "passport stamp date error"
-  - "wrong admission class"
-  - "missing entry record"
-  - "i-94 data mismatch"
-  - "overstaying in california"
-  - "overstaying in new york"
-  - "overstaying in texas"
-  - "duration of status confusion"
-  - "d s notation on i-94"
-  - "f-1 student overstay"
-  - "j-1 exchange visitor status"
-  - "b-2 tourist visa overstay"
-  - "h-1b admission record error"
-  - "admit until date"
-  - "permission to stay"
-  - "overstayed permission"
-  - "realise you overstayed"
-  - "stay by mistake"
-  - "visa expiry confusion"
-last_reviewed: "2026-03-17"
+  - i think i overstayed usa
+  - overstayed by mistake usa
+  - visa expiry vs i-94
+  - admit until date confusion
+  - i-94 expired but visa valid
+  - i-94 wrong date
+  - i-94 missing record
+  - passport stamp confusion
+  - duration of status confusion
+  - d s status confusion
+  - f-1 status panic
+  - j-1 status panic
+  - stay authorized date unclear
+  - entry record mistake
+  - travel booked status unclear
+  - worried about working legally
+  - i stayed past admit until
+  - i thought visa expiry mattered
+last_reviewed: "2026-03-07"
 ---
-# What to do if… you realise you may have overstayed your permission to stay by mistake (USA)
 
+# What to do if… you realise you may have overstayed your permission to stay by mistake (USA)
 ## Short answer
-Access your official I-94 record immediately to confirm your "Admit Until" date, as this date—not the visa sticker in your passport—governs your legal stay. If you have stayed past this date, your visa is likely voided automatically, and you should seek qualified immigration legal counsel before departing or filing any applications.
+Confirm your “Admit Until” date (usually on your I-94) because it typically controls how long you can stay—not the visa expiration date in your passport. If you may be past it or your I-94 looks wrong, pause status-dependent activities (especially work) and get qualified help urgently before you travel or file anything.
 
 ## Do not do these things
-- Don't assume the expiration date on your visa sticker is the date you must leave; the I-94 "Admit Until" date is the controlling record.
-- Don't depart the U.S. immediately without a plan, as leaving after accruing 180 days of unlawful presence triggers a 3-year bar, and 365 days triggers a 10-year bar.
-- Don't continue working if your employment authorization is tied to your non-immigrant status and that status has expired.
-- Don't file an extension (Form I-539) or change of status without professional advice, as filing after expiration is generally not permitted and can complicate your record.
-- Don't ignore the error if you believe the date on the I-94 was entered incorrectly by an officer; these errors require specific correction procedures.
+- Don’t use your visa’s expiration date as proof you were allowed to stay—your authorized stay is usually based on your I-94 (or **D/S** for some categories).
+- Don’t leave the U.S. in a panic without advice—departing when you may have accrued unlawful presence can have serious consequences.
+- Don’t file a random application “just to do something” without checking eligibility for your exact category.
+- Don’t keep working if your work authorization depends on being in status and your status is unclear.
+- Don’t assume an I-94 error will fix itself.
 
 ## What to do now
-1. **Retrieve and download your most recent I-94 record from the CBP website.**
-   - Access the official Customs and Border Protection (CBP) I-94 portal.
-   - Enter your passport details exactly as they appear on the document used for your last entry.
-   - Save the "Most Recent I-94" as a PDF and take a screenshot of the "Admit Until Date."
+1. **Look up and save your most recent I-94 record today.**  
+   Use the official CBP I-94 site and note:
+   - “Admit Until Date” (or whether it says **D/S**)
+   - your class of admission (B-2, F-1, H-1B, etc.)
+   - your most recent entry date  
+   Save a PDF/screenshot for your records.
 
-2. **Verify if your I-94 contains a specific date or a "D/S" notation.**
-   - If a specific date is listed: compare this to today's date to determine the exact number of days you have overstayed.
-   - If "D/S" (Duration of Status) is listed: confirm you are still meeting the requirements of your specific category (e.g., full-time study for F-1 or active program for J-1).
-   - Check that the "Class of Admission" matches the visa you used to enter.
+2. **Compare the I-94 to your documents (don’t guess).**
+   - If your I-94 shows a specific date: treat that as the key date to discuss with a professional.
+   - If your I-94 shows **D/S** (common for F-1/J-1): your status is typically tied to maintaining the requirements and documents (such as your I-20 or DS-2019). You still need qualified help to assess whether you are in status.
 
-3. **Determine if the overstay is a factual error made at the time of entry.**
-   - If the date is wrong because of a clerical error by a CBP officer (e.g., they gave you 30 days instead of 6 months): contact a CBP Deferred Inspection Site or the port of entry where you arrived.
-   - If the record was issued incorrectly by USCIS (e.g., on a paper approval notice): you may need to file Form I-102, Application for Replacement/Initial Nonimmigrant Arrival-Departure Document.
+3. **If the I-94 date/class is clearly wrong, act to correct the record (and keep proof).**  
+   Gather:
+   - passport ID page + admission stamp (if any)
+   - boarding pass/itinerary
+   - visa page (if applicable)
+   - any approval notice (for example, an I-797 if relevant)  
+   Then contact a **CBP Deferred Inspection Site** (or a CBP port of entry) to request correction of factual I-94 errors. Save copies of everything you submit.
 
-4. **Cease all status-dependent activities immediately.**
-   - **Stop working or engaging in business activities** if your work permit (EAD) or visa-based work authorization has expired.
-   - **Stop attending classes** if you are a student and have been notified your SEVIS record is terminated or your I-20 has expired.
+4. **If you may be past your admit-until date (or you can’t confirm status today), put “status-dependent” life on hold.**
+   - **Pause employment and paid gigs** until you have clear confirmation you are authorized.
+   - Avoid starting new processes that require lawful status unless a qualified person tells you it’s appropriate.
+   - Keep your address, email, and phone stable so you don’t miss notices if you have any pending filings.
 
-5. **Consult a qualified U.S. immigration attorney or an accredited representative.**
-   - Provide the attorney with your I-94, your passport admission stamp, and your visa page.
-   - Ask specifically about the "automatic voidance" of your visa under INA 222(g) and how it affects future travel.
-   - Request an assessment of whether you have accrued "unlawful presence" and if you are approaching the 180-day threshold for a re-entry bar.
+5. **Get the right kind of help urgently (same day if possible).**
+   - If you are F-1/J-1: contact your school’s international office immediately and ask for urgent guidance on your documents/status.
+   - Otherwise: consult a qualified U.S. immigration attorney or accredited representative. Provide the exact I-94 details, category, and dates. Ask them to explain:
+     - whether you may be “out of status” and whether unlawful presence is a concern in your situation
+     - what (if anything) should be filed, and what should not
+     - whether travel/departure would increase risk
 
-6. **Create a factual log of your entry and stay dates for your legal counsel.**
-   - List your date of last entry and the port of entry used.
-   - Note the exact date you realized the potential overstay.
-   - Include any receipt numbers for pending applications (e.g., I-130 or I-485) that might provide a "period of authorized stay."
+6. **Write a one-page timeline to prevent mistakes.**
+   Include:
+   - last entry date
+   - I-94 admit-until (or D/S)
+   - any filings/receipts and dates
+   - when you first noticed the possible overstay  
+   Keep it simple and factual.
 
 ## What can wait
-- You do not need to pack your bags or book a flight today; hasty departure can trigger re-entry bars that might have been avoidable with a specific legal strategy.
-- You do not need to contact your home country's embassy yet; they cannot extend your stay in the U.S. or fix U.S. immigration records.
-- You do not need to explain the situation to your employer until you have confirmed your work authorization status with an attorney.
+- You do not need to decide today whether you will depart the U.S., reapply for a visa, or pursue any waiver.
+- You do not need to notify your employer immediately unless you’ve confirmed you are not authorized to work—first confirm status and get advice.
+- You do not need to draft a long explanation letter right now—first lock down the correct facts (I-94, category, dates).
 
 ## Important reassurance
-Misunderstanding the I-94 date is a frequent occurrence because the U.S. visa system uses separate dates for "entry validity" and "stay validity." Discovering a potential overstay is stressful, but identifying it early allows for a calculated response that can minimize long-term impact on your ability to return to the U.S. Taking a moment to verify the facts before acting prevents the accidental triggering of permanent immigration penalties.
+This panic happens a lot because the U.S. uses multiple dates: the visa expiration date is not the same thing as how long you can stay. Many “overstay” scares are actually an I-94 misunderstanding or an I-94 data error that needs correcting. The safest approach is to confirm the controlling record, pause status-dependent activities, and get competent help before you travel or file.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction advice for the 24 hours following the discovery of a potential immigration overstay. It is not a substitute for legal strategy or a long-term solution.
+This is first-step, harm-reduction guidance for the first hours or day after you realise there may be an overstay. U.S. immigration consequences are highly fact-specific, so the next steps should be guided by qualified help using your exact category and dates.
 
 ## Important note
-This information is for general educational purposes and is not legal advice. U.S. immigration law is subject to frequent policy changes and individual case variables. Contact a licensed immigration attorney (member of AILA) or a DOJ-accredited representative for guidance on your specific status.
+This is general information, not legal advice. U.S. immigration rules around status, I-94 records, and unlawful presence can be complex and vary by category. If you think you may have overstayed, confirm your I-94 and get qualified assistance before making irreversible moves like filing or leaving the U.S.
 
 ## Additional Resources
+- https://i94.cbp.dhs.gov/
+- https://www.cbp.gov/travel/international-visitors/i-94
+- https://www.cbp.gov/about/contact/ports/deferred-inspection-sites
 - https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/visa-expiration-date.html
-- https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/frequently-asked-questions/about-basics.html
-- https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html
-- https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/waivers.html
-- https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/visa-denials.html
+- https://www.uscis.gov/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility
+- https://www.uscis.gov/i-9-central/form-i-94

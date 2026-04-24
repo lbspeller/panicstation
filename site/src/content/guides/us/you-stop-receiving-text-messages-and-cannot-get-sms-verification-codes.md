@@ -1,104 +1,93 @@
----
+﻿---
 title: "What to do if… you stop receiving text messages and cannot get SMS verification codes"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "antivirus turned off"
-  - "security app disabled"
-  - "windows security disabled"
-  - "microsoft defender off"
-  - "mac security turned off"
-  - "phone security disabled"
-  - "sudden antivirus deactivated"
-  - "security settings changed"
-  - "possible malware infection"
-  - "suspicious device behaviour"
-  - "hacked device worry"
-  - "can’t turn antivirus back on"
-  - "antivirus keeps turning off"
-  - "endpoint protection stopped"
-  - "unknown admin change"
-  - "unknown profile installed"
-  - "ransomware early signs"
-  - "accounts may be compromised"
-  - "report to ic3"
-  - "what do i do if my antivirus is off"
-  - "help i didnt turn off windows security"
-  - "what do i do if mac security is disabled"
-  - "help my phone security turned off"
-  - "windows security service stopped"
-  - "protection service won't start"
-  - "unauthorized admin profile"
-  - "device management profile unknown"
-  - "unexpected security alert"
-  - "antivirus grayed out"
-  - "security provider changed"
-last_reviewed: "2026-03-17"
+  - not receiving texts
+  - stopped getting sms
+  - sms verification not arriving
+  - cant get verification code
+  - one time code not received
+  - otp text not coming through
+  - short code texts not working
+  - 2fa sms not working
+  - phone not getting security codes
+  - texts suddenly stopped
+  - number not receiving sms
+  - verification texts delayed
+  - sms codes not delivered
+  - cannot receive login code
+  - account recovery without sms
+  - possible sim swap
+  - phone number hijacked
+  - port out fraud concern
+last_reviewed: "2026-03-08"
 ---
-# What to do if… you stop receiving text messages and cannot get SMS verification codes (USA)
 
+# What to do if… you stop receiving text messages and cannot get SMS verification codes (USA)
 ## Short answer
-Assume the device is compromised: immediately disconnect it from all networks or power it down, and do not use it to access any accounts until it is cleared by a professional.
+Assume either a carrier provisioning/short-code block or a SIM-swap/port-out attack. Use another device to secure your key accounts, and contact your wireless carrier immediately to confirm your number hasn’t been moved.
 
 ## Do not do these things
-- Don’t continue using the device for sensitive tasks like email, banking, shopping, or logging into password managers.
-- Don’t click on pop-ups that claim to "fix" your security or offer "cleanup" software, as these are often malicious.
-- Don’t download "malware removal tools" from search results on the affected device; use a trusted device to research official tools.
-- Don’t reconnect to the internet to "run an update" if the security software is being actively blocked or disabled.
-- Don’t attempt to "investigate" the source by clicking through system files or unknown folders.
-- Don’t use the mobile apps on the affected device to call your bank or change passwords.
+- Don’t keep requesting code after code for long stretches (you can trigger rate-limits and make delivery worse).
+- Don’t share verification codes with anyone, even if they claim to be your carrier, bank, Apple, Google, or “security”.
+- Don’t click links in unexpected “verification” texts or calls you didn’t start.
+- Don’t factory reset your phone as an early step (it can remove authenticators/passkeys and make recovery harder).
+- Don’t ignore it if you also lost service or got alerts about SIM/eSIM changes—treat that as possible takeover.
 
 ## What to do now
-1. **Isolate the device physically and digitally.**  
-   **Immediately turn off Wi-Fi, Bluetooth, and mobile data, or unplug the ethernet cable.**  
-   - If the device is a smartphone or tablet, power it down completely if you cannot verify that all radios (including NFC and Bluetooth) are disabled.
-   - If you see a countdown timer or a demand for payment (ransomware), pull the power plug or hold the power button until the screen goes black.
+1. **Check for takeover red flags (SIM swap / port-out).**
+   - Sudden “No Service”, calls failing, or texts failing both directions.
+   - Any notification about a **SIM change**, **eSIM activation**, or **number transfer/port** you didn’t request.
+   - If yes, go straight to steps 3, 4, and 5.
 
-2. **Document what is visible without further clicking.**  
-   **Use a separate device to take a photograph of the screen if an error message or alert is showing.**  
-   - Note the exact time, the name of the security software that was disabled, and any specific error codes (e.g., "service stopped" or "administrator permission required").
+2. **Do the quick “it’s blocked locally” checks (2 minutes).**
+   - Toggle Airplane mode on/off, restart the phone.
+   - Confirm you can receive a normal text from a friend.
+   - Check blocked numbers and message filtering settings so short codes/unknown senders aren’t being silently filtered.
 
-3. **Secure your core accounts from a separate, trusted device.**  
-   **Prioritize changing passwords for your primary email, then your Apple/Google/Microsoft ID, then your financial accounts.**  
-   - Ensure Multi-Factor Authentication (MFA) is enabled for these accounts.
-   - If you used the same password on the affected device for other services, change those passwords as well.
+3. **Call your wireless carrier from another phone and ask for specific actions.**
+   Ask them to:
+   - Confirm whether there was a **recent SIM/eSIM change** or a **port/number transfer** on your line, and stop/reverse anything you didn’t authorize.
+   - Confirm **short-code messaging** is enabled and your line is provisioned to **receive** SMS from short codes.
+   - Remove any account-level blocks that prevent verification texts (sometimes tied to anti-spam or premium/short-code settings).
+   - Add stronger protections (availability varies by carrier), such as **port-out/number-transfer protection** and a **number transfer PIN/account passcode**.
 
-4. **Perform a passive check for unauthorized management profiles.**  
-   **On a computer, look for new "work or school" profiles or administrator accounts you did not authorize.**  
-   - On Mac: Go to System Settings > Privacy & Security > Profiles.
-   - On Windows: Go to Settings > Accounts > Access work or school.
-   - If you find a profile you don't recognize, take a photo of the details but do not delete it until you have decided whether to preserve evidence.
+4. **Get into your accounts without SMS (right now), starting with the ones that control everything else.**
+   - Priority: your **primary email**, **banking**, **password manager**, and your **Apple/Google account**.
+   - From a trusted device, change your email password and switch 2FA to **non-SMS** (authenticator app, passkey, or hardware security key).
+   - If you’re locked out, use official account recovery options that don’t depend on SMS where possible.
 
-5. **Initiate an offline scan if using a Windows device.**  
-   **Use the built-in Microsoft Defender Offline scan which runs before the operating system fully loads.**  
-   - Navigate to: Settings > Privacy & security > Windows Security > Virus & threat protection > Scan options.
-   - Select "Microsoft Defender Offline scan" and click "Scan now." The device will restart and may take 15 minutes to finish.
+5. **If you suspect SIM swap fraud, take the money-risk steps immediately.**
+   - Contact your bank/credit card issuers using official numbers and ask them to watch for account takeover and unusual transfers.
+   - Review recent transactions and alerts for changes to contact details, new payees, or password resets.
 
-6. **Contact IT or professional support if the device is not personal.**  
-   **Stop all troubleshooting immediately and notify your employer or school's IT helpdesk if the device is managed by them.**  
-   - Do not attempt to "clean" a work device yourself, as this can interfere with incident response protocols or legal requirements.
+6. **Report and escalate if needed.**
+   - Report suspected SIM swap/port-out fraud to the **FTC** (for reporting and recovery guidance).
+   - If your carrier is not resolving the issue, file an **FCC consumer complaint** to escalate the problem.
 
-7. **Report the incident to federal authorities.**  
-   **File a report with the FBI’s Internet Crime Complaint Center (IC3) at ic3.gov if you suspect a criminal hack or fraud.**  
-   - If your personal identity information is at risk, visit IdentityTheft.gov to create a recovery plan with the Federal Trade Commission (FTC).
+7. **If there’s clear identity theft or financial loss, create an evidence trail.**
+   - Write down times, names/ID numbers, what the carrier changed, and keep any alerts/emails about SIM/port changes.
+   - If you’ve lost money, file a local police report if your bank or insurer asks for one.
 
 ## What can wait
-- You do not need to decide whether to wipe and factory-reset the device in the first hour.
-- You do not need to identify the specific strain of malware or the attacker's identity immediately.
-- You do not need to notify all your social contacts yet; focus on the primary accounts that control your identity and finances.
+- You don’t have to decide today whether to change your number or switch carriers.
+- You don’t need to wipe your phone unless a trusted support channel tells you it’s necessary.
+- You can postpone “perfect security” improvements until you regain stable access—focus on regaining control first.
 
 ## Important reassurance
-Sudden changes to security settings are a standard trigger for caution, but they do not always mean your life is compromised. By disconnecting the device, you have already stopped the most common methods of data theft. Taking a few hours to use a clean device for account protection is a measured and effective response.
+This problem is common and often fixable (carrier-side provisioning or short-code blocks happen), and it can also be an early sign of number takeover. Taking it seriously doesn’t mean panicking—it just means you’re preventing avoidable lockouts and losses.
 
 ## Scope note
-This guide provides first-step stabilization for a device showing signs of security bypass. It does not cover technical malware removal, data recovery from backups, or long-term forensic analysis.
+These are first steps to stabilize access, prevent account takeover, and get your carrier to fix or confirm what’s happening. After you’re back in, you can move important accounts away from SMS-based verification.
 
 ## Important note
-This information is for general guidance and is not a substitute for professional cybersecurity services or legal advice. Modern (2026) threats, including sophisticated zero-day exploits, may bypass standard detection. If this device contains highly sensitive data, seek certified professional assistance before attempting a reboot.
+This is general information, not legal, financial, or technical advice. If you suspect fraud or see unauthorized activity, use official contact channels and act quickly to reduce harm.
 
 ## Additional Resources
-- https://support.google.com/accounts/answer/185834?hl=en
-- https://support.apple.com/en-us/102606
-- https://consumer.ftc.gov/consumer-alerts/2024/03/whats-verification-code-why-would-someone-ask-me-it
-- https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts
-- https://consumercomplaints.fcc.gov/hc/en-us/articles/115002234203-Unwanted-Calls-Texts-Phone
+- https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself
+- https://www.fcc.gov/cell-phone-fraud
+- https://consumercomplaints.fcc.gov/hc/en-us
+- https://www.federalregister.gov/documents/2023/12/08/2023-26338/protecting-consumers-from-sim-swap-and-port-out-fraud
+- https://www.ctia.org/protecting-against-sim-swap-fraud
+- https://docs.fcc.gov/public/attachments/FCC-23-95A1.pdf

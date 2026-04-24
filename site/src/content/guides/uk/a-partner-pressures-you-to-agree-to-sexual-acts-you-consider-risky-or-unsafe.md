@@ -1,84 +1,87 @@
----
+﻿---
 title: "What to do if… a partner pressures you to agree to sexual acts you consider risky or unsafe"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "partner pressures you to agree to sexual acts"
-  - "sexual acts you consider risky"
-  - "unsafe sexual acts"
-  - "sexual acts you consider unsafe"
-  - "partner pressures you for sex"
-  - "what do i do if my partner is pressuring me for sex"
-  - "what do i do if i am being pressured into unsafe sex"
-  - "what do i do if i said no but they keep asking"
-  - "what do i do if my partner won't take no for an answer"
-  - "help i am being coerced into sex"
-  - "help i feel unsafe during sex"
-  - "help i am being guilted into risky sex"
-  - "help i feel forced to agree to sex acts"
-  - "my partner is making me do things i don't want to do"
-  - "my partner is sulking because i said no to sex"
-  - "my partner is threatening me for sex"
-  - "feeling pressured to not use a condom"
-  - "unprotected sex under pressure"
-  - "guilt-tripping for sex acts"
-  - "sexual coercion in marriage"
-  - "sexual coercion in relationship"
-  - "withdrawing consent during sex"
-  - "not sure if it was assault"
-  - "feeling scared of partner"
-  - "feeling intimidated into sex"
-  - "stop the sexual situation"
-  - "unsafe sexual pressure"
-  - "sexual boundary violation"
-  - "risky sexual behavior pressure"
-  - "consent and pressure"
-last_reviewed: "2026-03-17"
+  - partner pressure for sex
+  - pressured into risky sex
+  - sexual coercion in relationship
+  - unsafe sexual acts pressure
+  - being guilted into sex
+  - consent under pressure
+  - withdraw consent anytime
+  - pressured to go without condom
+  - pressured into unprotected sex
+  - pressured into sex acts
+  - afraid to say no to partner
+  - sexual boundaries not respected
+  - partner won't take no
+  - coerced sexual activity
+  - not sure if this is assault
+  - worried about sti exposure
+  - worried about pregnancy risk
+  - intimate partner sexual pressure
+last_reviewed: "2026-03-13"
 ---
-# What to do if… a partner pressures you to agree to sexual acts you consider risky or unsafe (UK)
 
+# What to do if… a partner pressures you to agree to sexual acts you consider risky or unsafe (UK)
 ## Short answer
-You have the right to stop any sexual situation at any time, even if you previously agreed or started. Move to a safe distance and contact a specialist support service or urgent medical provider if you are concerned about injury, pregnancy, or infection.
+You do not have to agree. End the sexual situation, get to a safer pause, and reach out for confidential support (and urgent sexual health care if there’s any risk of pregnancy/STIs).
 
 ## Do not do these things
-- Do not feel obligated to continue or "finish" a sexual act because you started it or previously consented.
-- Do not accept threats, guilt, or the "favour" of sex as a legitimate form of consent.
-- Do not use alcohol or substances to help you tolerate sexual acts you are uncomfortable with.
-- Do not feel you must provide a detailed explanation or "valid" reason for saying no.
-- Do not assume you must report to the police to receive specialist medical care or counseling.
-- Do not delete messages, recordings, or notes that document the pressure, even if you are not sure what to do with them yet.
+- Do not “just go along with it” to keep the peace if you feel unsafe, coerced, or unsure.
+- Do not accept threats, guilt, sulking, or “owed sex” arguments as normal — pressure is not consent.
+- Do not rely on alcohol/drugs to make it feel bearable or “easier to say yes.”
+- Do not negotiate safety in the middle of pressure if you feel intimidated — prioritise getting space first.
+- Do not delete messages or notes you may later want for your own clarity (you don’t have to decide what they mean right now).
+- Do not assume you must report to police to get medical care or support.
 
 ## What to do now
-1. **Stop the sexual interaction immediately and move to a separate space.** **You can say "Stop," "I'm not doing this," or "I need to go to the bathroom" to create an immediate break.** Move to a room with a lock, leave the building, or go to a public place where you feel safer to think.
-2. **If you feel in immediate danger or are being prevented from leaving, call 999.** **If you are unable to speak, listen to the operator and press 55 when prompted to signal that you are in a genuine emergency but cannot talk.** This "Silent Solution" alerts the police to your situation, though it may not automatically provide your precise location if you are on a mobile.
-3. **Prioritise physical distance over verbal negotiation.** **If your partner continues to pressure you, move behind a physical barrier like a locked door or leave the premises entirely.** You do not need to convince them that your boundaries are valid; your primary goal is to reach a safe pause.
-4. **Contact a specialist sexual violence support service for confidential guidance.** **If you are in England or Wales and aged 16+, call the Rape Crisis England & Wales 24/7 Support Line on 0808 500 2222.** They provide a safe space to discuss options, including safety planning and medical referrals, without requiring a police report.
-5. **Access a Sexual Assault Referral Centre (SARC) if any non-consensual act occurred.** **SARCs provide specialist healthcare, forensic options, and emotional support regardless of whether you choose to involve the police.**
-   - In Scotland, call the national self-referral service on 0800 148 88 88.
-   - In Northern Ireland, call The Rowan regional SARC on 0800 389 4424.
-   - In England and Wales, use the NHS website to find your nearest local SARC.
-6. **Seek emergency medical care immediately if there is a risk of HIV exposure.** **Post-Exposure Prophylaxis (PEP) is a time-sensitive medication that can prevent HIV infection and should ideally be started within 24 hours of exposure.** You can obtain PEP at a SARC, a sexual health clinic, or an Accident & Emergency (A&E) department; it is generally not recommended after 72 hours.
-7. **Request emergency contraception if there is a risk of pregnancy.** **Emergency pills are effective for up to 3 or 5 days depending on the type, but the copper IUD is the most effective method and can be fitted up to 5 days after unprotected sex.** Contact NHS 111 or a local sexual health clinic for urgent assistance.
-8. **Preserve evidence temporarily while you consider your options.** **If you believe an assault has occurred, avoid washing, brushing your teeth, or changing clothes if possible, but know that you can still receive medical care and support even if you have already done so.** SARCs can often store forensic evidence for several months (or up to 26 months in Scotland) while you decide your next steps.
+1. **Create a clean pause and stop the sexual situation.**  
+   Use a simple line: “No. I’m not doing that.” If needed: “Stop. I’m leaving the room.” Move to a bathroom, hallway, outside, or anywhere you can breathe and think.
+2. **If you feel in immediate danger, get help immediately.**  
+   Call **999**. If you can’t speak, stay on the line and follow the operator’s prompts; on a mobile you may be asked to **press 55** to confirm it’s an emergency and be put through to police.
+3. **If the pressure continues, choose distance over explanation.**  
+   Put a physical barrier between you (door lock, leaving the home, getting into a taxi/bus, going to a friend/family member). You do not need to “convince” them.
+4. **Contact specialist sexual violence support (confidential, you stay in control).**  
+   - If you’re **16+ in England & Wales**, you can call **Rape Crisis England & Wales 24/7 Support Line: 0808 500 2222** (or use their online chat).  
+   They can help you make sense of what’s happening, talk through safety, and plan next steps without pressuring you to report.
+5. **If anything sexual happened without your free agreement (or you’re unsure), consider a specialist sexual assault service.**  
+   These services can offer confidential healthcare and support, whether or not you report to police. Options depend on where you are:
+   - **England:** NHS “find a rape and sexual assault referral centre (SARC)”.  
+   - **Scotland:** you can self-refer to **SARCS** via the national self-referral phone service (**0800 148 88 88**).  
+   - **Northern Ireland:** **The Rowan** (regional SARC).  
+   - **Wales:** use NHS Wales information on **accessing a SARC** in your area.
+6. **If there’s any risk of pregnancy or STIs, seek urgent sexual health help.**  
+   - **Emergency contraception** is time-sensitive (there are options that can work up to **5 days**, depending on type).  
+   - If you might have been exposed to **HIV**, ask urgently about **PEP** (it should be started as soon as possible and is generally **not recommended beyond 72 hours**).  
+   You can contact **NHS 111**, a local sexual health clinic, or **A&E** (especially out of hours) depending on local services.
+7. **If you feel able, tell one trusted person what’s happening right now.**  
+   A short message is enough: “I’m not OK. Can you call me / stay on the phone while I get somewhere safe?” Ask them to keep it private unless you say otherwise.
+8. **Optional (only if you may want more options later): keep things as they are for now.**  
+   If something happened and you might want to talk to services later, avoid washing or changing anything you don’t have to. If you already have, you can still get help — it does not cancel your options.
 
 ## What can wait
-- You do not need to define the relationship or decide whether to end it right now.
-- You do not need to decide if what happened "counts" as a crime before seeking medical help.
-- You do not need to decide if you will ever tell friends or family.
-- You do not need to reply to any follow-up messages or "apologies" from the partner immediately.
+- You do **not** need to decide right now whether what happened “counts,” what to call it, or whether to end the relationship.
+- You do **not** need to confront them, write a long message, or “prove” anything in the moment.
+- You do **not** need to report to police now (or ever) to access support.
+- You can leave decisions about statements, complaints, or next steps until you’ve had support and sleep.
 
 ## Important reassurance
-Freezing or "going along with it" to avoid escalation is a common and natural survival response known as fawning or freezing. This is not the same as free consent. You are allowed to have boundaries, and wanting to be safe is not a failure of the relationship.
+Many people freeze, fawn, or go quiet under pressure — that’s a common stress response, not a failure. Wanting sex to be safer, slower, or not happen at all is valid. You deserve sexual contact that is freely chosen, not pressured.
 
 ## Scope note
-This guide is for first-step stabilization and immediate safety. Ongoing coercion or "intimate partner sexual violence" often requires long-term support from specialist domestic abuse or sexual violence agencies to manage safety and recovery.
+This is first steps only: stabilising, getting safe, and keeping medical/support options open. Ongoing coercion often needs specialist support to plan safely and avoid escalation.
 
 ## Important note
-This guide provides general information and does not constitute legal or medical advice. If you are in immediate danger, call 999. Emergency medical interventions like PEP and emergency contraception are highly time-sensitive; seek clinical care as soon as possible.
+This guide provides general information, not legal or medical advice. If you are in immediate danger, call 999. If you’re worried about pregnancy or infection, seek urgent clinical care. You are not obligated to take any action you do not want, including reporting.
 
 ## Additional Resources
-- https://womensaid.org.uk/information-support/the-survivors-handbook/im-not-sure-if-my-relationship-is-healthy/
-- https://rapecrisis.org.uk/get-informed/about-sexual-violence/sexual-consent/
 - https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
-- https://www.gov.uk/government/publications/controlling-or-coercive-behaviour-statutory-guidance-framework/controlling-or-coercive-behaviour-statutory-guidance-framework-accessible
-- https://www.cps.gov.uk/prosecution-guidance/controlling-or-coercive-behaviour-intimate-or-family-relationship
+- https://www.nhs.uk/service-search/sexual-health-services/find-a-rape-and-sexual-assault-referral-centre/
+- https://247sexualabusesupport.org.uk/
+- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
+- https://www.nhs.uk/contraception/emergency-contraception/
+- https://www.nhsinform.scot/turn-to-sarcs/
+- https://therowan.hscni.net/
+- https://bhiva.org/file/6183b6aa93a4e/PEP-guidelines.pdf

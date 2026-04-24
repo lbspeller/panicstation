@@ -1,98 +1,79 @@
----
+﻿---
 title: "What to do if… police contact you about a death and you are not sure what information to share"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "police call about death"
-  - "police contact after a death"
-  - "what do i do if police call me about a death"
-  - "help i just got a call from the police about a death"
-  - "my relative died and police are asking questions"
-  - "police at the door death notification"
-  - "what to say to police after sudden death"
-  - "death investigation police questions"
-  - "police interview about a death"
-  - "giving a statement to police after a death"
-  - "witness statement for coroner"
-  - "unexpected bereavement police contact"
-  - "answering police questions while grieving"
-  - "asked to identify the deceased"
-  - "police want to meet me after a death"
-  - "suspicious death investigation"
-  - "sudden death at home police"
-  - "police asking for phone after death"
-  - "witnessing a death police questions"
-  - "police questioning next of kin"
-  - "shaking after police call"
-  - "hearing about a death from police"
-  - "police visit about a death"
-  - "police officer at the door"
-  - "police reference number for death"
-  - "voluntary interview death investigation"
-  - "police interview under caution"
-  - "police statement for inquest"
-  - "police phone call death"
-last_reviewed: "2026-03-16"
+  - police call about a death
+  - police contact after a death
+  - not sure what to tell police
+  - what to say in interview
+  - voluntary police interview uk
+  - interview under caution uk
+  - asked to give a statement
+  - witness statement about a death
+  - contacted as a witness
+  - contacted as a suspect
+  - death investigation questions
+  - sudden death police questions
+  - unexpected bereavement police
+  - answering questions while grieving
+  - duty solicitor legal advice
+  - defence solicitor call centre
+  - worried about saying wrong thing
+  - police want to meet me
+  - police at my door about death
+  - asked to identify the deceased
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… police contact you about a death and you are not sure what information to share (UK)
 
 ## Short answer
-Take the officers' details and a reference number, then pause the interaction to seek free legal advice if you are asked to provide a formal statement or attend an interview. Confirm whether you are being treated as a witness, a suspect, or a family contact for the Coroner's investigation.
+Pause the conversation, take names and a reference number, and ask what your status is (witness/suspect/next-of-kin contact). If they want an interview or statement under caution, ask for free legal advice before answering substantive questions.
 
 ## Do not do these things
-- Don’t provide guesses, estimated timelines, or theories about motives to "be helpful."
-- Don’t agree to an immediate formal interview while in a state of shock, exhaustion, or intense grief.
-- Don’t hand over mobile devices, passwords, or personal documents immediately without legal advice.
-- Don’t sign any written statement without reading every word slowly and correcting inaccuracies.
-- Don’t assume that being told "you are not in trouble" makes legal advice unnecessary.
+- Don’t “fill gaps” with guesses, timelines you haven’t checked, or motives (even to be helpful).
+- Don’t agree to an immediate interview while you’re distressed, exhausted, or unsure what’s being alleged.
+- Don’t hand over your phone, passwords, messages, or photos “to speed things up” unless you’ve had legal advice.
+- Don’t sign a written statement you haven’t read slowly and corrected in your own words.
+- Don’t assume “I’m not in trouble” means it’s safe to talk freely (your role can change as information develops).
 
 ## What to do now
-1. **Verify the identity of the person contacting you.**
-   - Ask for the officer's name, rank, collar number, police force, and station.
-   - Ask for a CAD (Computer Aided Despatch) or crime reference number.
-   - If contacted by phone, hang up and call the force’s non-emergency number (101) to verify that the officer is legitimate.
-2. **Ask for your current status in the investigation.**
-   - Use the specific phrasing: "Am I being treated as a witness, a suspect, or as next-of-kin for a Coroner's report?"
-   - Note down the answer exactly as it is given.
-3. **Request free legal advice if an interview is requested.**
-   - If police ask for a "voluntary interview" or an "interview under caution," state: "I want free legal advice before answering questions."
-   - The police are required to contact the Defence Solicitor Call Centre (DSCC) to arrange this for you.
-   - You do not need to have your own lawyer; the "Duty Solicitor" is free and independent of the police.
-4. **Prepare for the police caution.**
-   - If you are being interviewed as a suspect, you will be told: "You do not have to say anything. But it may harm your defence if you do not mention when questioned something which you later rely on in court. Anything you do say may be given in evidence."
-   - Do not answer substantive questions until your legal representative has arrived or finished speaking with you in private.
-5. **Differentiate between practical and investigative information.**
-   - You can provide basic identification for the deceased (name, date of birth) and your own contact details as next-of-kin immediately.
-   - For questions about the events leading to the death, you have the right to wait until you have processed the news or obtained advice.
-6. **Keep witness accounts strictly factual.**
-   - Use phrases like "I do not recall," "I would need to check my records," or "I only saw [specific action]."
-   - Distinguish clearly between what you saw personally and what you heard from others (hearsay).
-7. **Create a personal contact log.**
-   - Write down the date and time of every interaction with the police.
-   - Record what was asked, what you answered, and any items (such as keys or phones) the police have taken.
-8. **Check for a warrant if police are at your door.**
-   - Ask the officers what power they are using to enter.
-   - Under Section 17 of the Police and Criminal Evidence Act (PACE), police can enter without a warrant to "save life or limb" or prevent serious damage to property.
-   - If there is no immediate emergency or warrant, you can choose to speak to them at the door or at a later scheduled time.
+1. **Slow it down in one sentence.** Say: “I’m very shaken — I want to cooperate, but I need to be clear what this is about. Can I take your details and call back?”
+2. **Verify who you’re speaking to.** Ask for **name, rank, station/unit, force, and a call-back number**, plus an **incident/crime reference**. If anything feels off, end the call and ring the force’s **main public number** to confirm the contact details.
+3. **Ask the key framing question: “Am I being treated as a witness or a suspect?”**  
+   If they mention an **interview under caution** (including “voluntary”), treat it as high-stakes: **don’t answer substantive questions yet**.
+4. **If they want an interview, ask for free legal advice before it happens.**  
+   Say: “I want legal advice before any interview.” If asked who, you can say: “Please arrange advice via the Defence Solicitor Call Centre / duty solicitor, or I will provide my solicitor’s details.”  
+   If they push for “just a quick chat”, repeat: “I’m not answering questions without legal advice.”
+5. **If you’re a witness and choose to give information, keep it strictly factual and bounded.**
+   - Use: “I don’t know,” “I don’t remember,” “I’d need to check my calendar/messages,” “I can only say what I personally saw/heard.”
+   - Ask: “Are you asking for what I personally observed, or what I’ve heard from others?” (and label hearsay clearly if you share it at all).
+6. **Write a “contact log” immediately.** Note date/time, what was asked, what you said, who else was present, and any deadlines given. Keep screenshots/call logs.
+7. **If they ask you to come in today, it’s okay to schedule instead.**  
+   “I can’t do a full interview right now. Please propose times in the next few days, and confirm what the interview is for.” (You can cooperate without doing it immediately.)
+8. **If you are next of kin and they need practical info, separate it from investigative detail.**  
+   It’s usually reasonable to provide **basic identification details** (your name, relationship, contact details), while pausing on anything investigative until you’ve had advice.
+9. **If they are at your door.**  
+   Speak through the door if you want. Ask what they need and **whether they have a warrant or specific power to enter**. If you don’t want them inside, you can say: “I’m not inviting anyone in right now. Please leave a card and I’ll call back.” Don’t physically obstruct them if they say they’re entering under a legal power.
 
 ## What can wait
-- You do **not** have to provide a full chronological narrative immediately.
-- You do **not** have to decide right now whether to allow a search of the premises if no warrant is present and no emergency exists.
-- You do **not** have to answer questions about the deceased’s medical history or personal habits on the spot; you can offer to provide this in writing later.
-- You do **not** have to attend a voluntary interview immediately; you can request it be scheduled for a different day.
+- You do **not** need to give a full narrative “from the beginning” on the spot.
+- You do **not** need to decide now whether you will provide a statement today, attend immediately, or hand over devices.
+- You do **not** need to figure out the cause of death, motives, or “what it all means” before speaking again.
 
 ## Important reassurance
-It is normal to feel a desperate urge to talk or explain everything immediately when in shock. Taking a pause or asking for a solicitor is a standard procedural step, not a sign of guilt or lack of cooperation. Slowing down helps ensure that the information you eventually provide is accurate and clearly understood by the investigation.
+It’s normal to feel panicky and to want to be “helpful” by talking fast — but in shock, people misremember, agree to wording they don’t mean, or speculate. Slowing the process down and getting clear on your role is not uncooperative; it’s a way to protect accuracy and prevent irreversible misunderstandings.
 
 ## Scope note
-This guide provides first-step stabilization for initial police contact following a death. It does not cover long-term legal strategy, Inquest procedures, or criminal trial preparations.
+These are first steps to stabilise contact with police and avoid accidental self-incrimination or factual errors. Later decisions (formal statement wording, interviews, device requests) may need individual legal advice.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. If you are suspected of a criminal offence or asked to attend an interview under caution, you should always consult a qualified solicitor. In the UK, legal advice at a police station is free for anyone being interviewed by the police.
+This is general information, not legal advice. If you’re asked to attend an interview under caution (even “voluntary”), or you think you might be suspected of an offence, getting independent legal advice before answering substantive questions is usually the safest approach.
 
 ## Additional Resources
-- https://www.gov.uk/after-a-death/when-a-death-is-reported-to-a-coroner
-- https://www.gov.uk/register-a-death
-- https://www.citizensadvice.org.uk/family/death-and-wills/what-to-do-after-a-death/
-- https://assets.publishing.service.gov.uk/media/5e258ec240f0b62c52248094/guide-to-coroner-services-bereaved-people-jan-2020.pdf
-- https://www.cps.gov.uk/information-witnesses
+- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version
+- https://www.gov.uk/arrested-your-rights/legal-advice-at-the-police-station
+- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights
+- https://www.gov.uk/government/publications/pace-code-c-2023/pace-code-c-2023-accessible
+- https://library.college.police.uk/docs/NPCC/Voluntary-interview-guidance-2024.pdf

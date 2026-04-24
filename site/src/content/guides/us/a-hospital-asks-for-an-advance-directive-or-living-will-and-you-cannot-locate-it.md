@@ -1,100 +1,99 @@
----
+﻿---
 title: "What to do if… a hospital asks for an advance directive or living will and you cannot locate it"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "cannot find advance directive"
-  - "lost living will"
-  - "hospital asked for living will"
-  - "advance directive missing"
-  - "advance directive not on file"
-  - "medical power of attorney missing"
-  - "healthcare proxy missing"
-  - "durable power of attorney for health care missing"
-  - "polst missing"
-  - "molst missing"
-  - "physician orders form missing"
-  - "incapacitated patient no paperwork"
-  - "surrogate decision maker unclear"
-  - "no healthcare agent found"
-  - "hospital needs advance directive copy"
-  - "end of life paperwork missing"
-  - "family cannot locate documents"
-  - "urgent consent decisions"
-  - "who decides without directive"
-  - "ethics consult requested"
-  - "lost advance directive"
-  - "missing medical instructions"
-  - "help i lost my living will"
-  - "help i cannot find medical paperwork"
-  - "what do i do if living will is lost"
-  - "what do i do if advance directive is missing"
-  - "my living will is lost"
-  - "my advance directive is missing"
-  - "smell of hospital"
-  - "visible medical monitors"
-  - "noise of hospital alarms"
-  - "feeling of hospital stress"
-  - "lost healthcare proxy"
-  - "missing surrogate designation"
-  - "patient self determination act rights"
-last_reviewed: "2026-03-16"
+  - cannot find advance directive
+  - lost living will
+  - hospital asked for living will
+  - advance directive missing
+  - advance directive not on file
+  - durable power of attorney missing
+  - healthcare proxy missing
+  - medical power of attorney missing
+  - polst missing
+  - molst missing
+  - physician orders form missing
+  - incapacitated patient no paperwork
+  - surrogate decision maker unclear
+  - no healthcare agent found
+  - hospital needs advance directive copy
+  - end of life paperwork missing
+  - family can’t locate documents
+  - urgent consent decisions
+  - who decides without directive
+  - ethics consult requested
+last_reviewed: "2026-03-03"
 ---
-# What to do if… a hospital asks for an advance directive or living will and you cannot locate it (USA)
 
+# What to do if… a hospital asks for an advance directive or living will and you cannot locate it (USA)
 ## Short answer
-Inform the hospital immediately that the document is not currently available and identify the legally recognized surrogate decision-maker. Ask the medical team to proceed with necessary care while you search, and request an ethics or social work consultation if there is any dispute over who should speak for the patient.
+Tell the hospital you do not currently have the document, ask them to proceed using the appropriate surrogate decision-making process while you search, and immediately identify who is legally allowed to speak for the patient (health care agent/proxy or default surrogate).
 
 ## Do not do these things
-- Don't speculate or guess about the specific instructions in the document if you are not certain.
-- Don't assume the hospital can access a central national registry; most states do not have a universal database.
-- Don't delay urgent, life-saving medical treatment solely to search for paperwork.
-- Don't provide incomplete or unverified photos or partial scans of documents.
-- Don't attempt to resolve long-term care disputes while an immediate medical decision is pending.
+- Don’t invent or “fill in” what you think the directive says if you’re not certain.
+- Don’t assume every state has a central registry the hospital can access.
+- Don’t delay time-sensitive treatment while you search, unless clinicians say it’s safe to wait.
+- Don’t circulate partial pages or unclear photos that could be misread.
+- Don’t get pulled into an all-or-nothing argument (“do everything” vs “do nothing”) while information is missing — ask what decision is required *right now*.
 
 ## What to do now
-1. **Identify the specific medical decision required immediately.**  
-   **Ask the attending physician exactly what choice needs to be made in the next hour or shift.** Focus only on the immediate clinical options to reduce the pressure of finding the entire document right now.
+1. **Get clarity on the immediate decision and timeline.**  
+   Ask: “What decision do you need in the next hour/day, and what will you do if no advance directive is found?”  
+   Request a brief summary in plain language of the options and risks.
 
-2. **Invoke the patient's rights under the Patient Self-Determination Act (PSDA).**  
-   **Ask the hospital’s admissions or patient relations office to provide the written summary of the patient's rights and the facility’s specific policy on advance directives.** The hospital is legally required to assist in documenting whether a directive exists and how they handle missing paperwork.
+2. **Confirm whether the hospital already has anything on file (in their chart/system).**  
+   Ask them to check for:
+   - A scanned **advance directive/living will**
+   - A **durable power of attorney for health care / health care proxy**
+   - A **POLST/MOLST** (if relevant in that state)  
+   If the patient was treated in a *different* hospital system, ask: “Which facility should we contact, and where can they securely fax/upload documents to your unit?”
 
-3. **Check the patient’s physical belongings and digital files.**  
-   **Look for a wallet card, medical alert jewelry, or a "Green Sleeve" or similar folder in the patient's personal items.** 
-   - Search the patient’s smartphone for files, notes, or emails containing terms like "Directive," "Will," "Proxy," or "Power of Attorney."
-   - Check the patient's online portal for any healthcare systems where they have previously received care.
+3. **Identify the decision-maker the hospital can legally accept today.**  
+   - If the patient named a **health care agent/proxy**, that person is usually the first contact.  
+   - If no agent is known, hospitals typically follow **state default-surrogate rules** (often a priority list such as spouse/partner, adult children, parents, etc., but it varies by state).  
+   Ask the care team or social worker: “Who do you need to speak with under our state’s rule, and what documentation do you need from us?”
 
-4. **Identify the legal surrogate based on state hierarchy laws.**  
-   **Ask the social worker to clarify who the "default surrogate" is under state law if no Health Care Agent is named.** 
-   - In most states, this follows a priority list: spouse/domestic partner, adult children, parents, then siblings.
-   - Note that four states (MA, MN, MO, RI) do not have standard default surrogate consent laws for all medical decisions; if you are in one of these states, ask for the hospital's specific legal protocol for "unrepresented" patients.
+4. **Do a focused “fast search” in the most likely places.**
+   - The patient’s **phone** (Files/Notes/email), cloud storage, or patient portal (uploaded documents)
+   - Home “important papers” folder, safe, filing cabinet
+   - If they used a lawyer: call the **attorney’s office** for a copy
+   - Primary care clinic/specialists: ask if it’s in their records and request a secure fax/upload to the hospital
 
-5. **Contact the primary care physician or drafting attorney.**  
-   **Request that the patient's primary clinic or the law office that drafted the documents fax or securely upload a copy directly to the hospital’s medical records department.** Attorneys often keep digital backups specifically for these crisis moments.
+5. **Ask about social work/patient relations and (if needed) an ethics consult.**  
+   If there’s disagreement, uncertainty, or no clear surrogate, ask:
+   - “Can a social worker/patient relations help coordinate who can speak for them and what proof you need?”  
+   - “If the patient is unrepresented, what is the hospital process — and can we request an ethics consult?”  
+   (Hospitals commonly use a defined pathway such as ethics committee review and/or guardianship steps for “unrepresented” patients, depending on state law and hospital policy.)
 
-6. **Request an ethics consultation or social work mediation.**  
-   **Ask for a formal "Ethics Consult" if family members disagree on the patient's likely wishes or if the hospital is unsure who to accept as a surrogate.** This provides a neutral framework to make decisions without the physical document.
+6. **Create a safe “holding note” for the chart to prevent confusion on shift changes.**  
+   Ask the team to document:
+   - “Advance directive reported by family but not available yet”
+   - Names/contact numbers of people searching
+   - Any clearly known wishes expressed previously (only if you’re confident and can state the context)
 
-7. **Document the "Reported Wishes" in the medical chart.**  
-   **Ask the nurse or doctor to add a note to the chart stating that an advance directive exists but is currently being located.** This ensures shift-change staff are aware that a search is in progress and who the primary contact person is.
+7. **If the patient is awake and has capacity, reset the process quickly.**  
+   If clinicians say the patient can decide for themselves, ask for a short, supported conversation now and document it (even if the paperwork is missing). A current-capacity decision can guide care immediately.
 
 ## What can wait
-- You do not need to finalize a permanent DNR (Do Not Resuscitate) order just because the document is missing.
-- You do not need to solve the patient's financial estate or long-term inheritance issues today.
-- You do not need to find every amendment or previous version of the document; the most recent verifiable copy or the legal surrogate's word is sufficient for immediate stabilization.
+- You do **not** need to solve long-term planning, legal paperwork, or family disagreements today.
+- You do **not** need to decide on hospice, DNR, or life-support limits solely because a document is missing.
+- You do **not** need to track down every past version right now — one valid, current document (or the correct surrogate) is enough for immediate decisions.
 
 ## Important reassurance
-Hospitals encounter lost or missing advance directives daily. The lack of a physical document does not mean the patient will receive "bad" care; it simply triggers a standard legal and ethical process to identify the best person to speak for them. The care team's primary goal is to stabilize the patient while the legal details are clarified.
+Losing track of these documents is extremely common. Hospitals handle this situation regularly: they can still provide necessary treatment while the right person is identified and paperwork is located.
 
 ## Scope note
-This guide provides first-step stabilization for a missing medical document in a hospital setting. It does not cover legal disputes, guardianship proceedings, or financial power of attorney issues.
+These are first actions to stabilise the moment and reduce the risk of irreversible mistakes. If major decisions are imminent, ask for a scheduled family meeting with the attending team and support staff (social work/palliative care/ethics as appropriate).
 
 ## Important note
-This information is for general guidance and is not legal or medical advice. Laws regarding surrogate hierarchy and the validity of out-of-state directives vary significantly by state. Always consult with the hospital's legal or ethics department to confirm the specific requirements in your jurisdiction.
+This is general information, not legal or medical advice. Rules about surrogates, POLST/MOLST forms, and what documents are valid vary by state and facility policy. Hospital staff can tell you exactly what they can accept and what process they must follow if the document can’t be found.
 
 ## Additional Resources
 - https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care
-- https://www.caringinfo.org/planning/advance-directives/by-state/
-- https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy
-- https://www.caringinfo.org/planning/advance-directives/what-is-an-advance-directive/
-- https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/
+- https://www.medicare.gov/coverage/advance-care-planning
+- https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-G/part-489/subpart-I/section-489.102
+- https://www.govinfo.gov/link/cfr/42/489?link-type=pdf&sectionnum=102&year=mostrecent
+- https://polst.org/for-patients/faqs/
+- https://journalofethics.ama-assn.org/article/who-makes-decisions-incapacitated-patients-who-have-no-surrogate-or-advance-directive/2019-07
+- https://www.sos.ca.gov/registries/advance-health-care-directive-registry

@@ -1,92 +1,81 @@
----
+﻿---
 title: "What to do if… you receive a notice that your court hearing has been moved earlier with little warning"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "hearing moved earlier"
-  - "court date moved forward"
-  - "new earlier hearing date"
-  - "short notice hearing change"
-  - "hearing brought forward"
-  - "court date changed suddenly"
-  - "late notice from court"
-  - "notice of hearing change"
-  - "can’t attend new court date"
-  - "can’t prepare in time"
-  - "need more time for hearing"
-  - "request adjournment"
-  - "ask to change hearing date"
-  - "moved hearing little warning"
-  - "urgent court timetable change"
-  - "court listing changed"
-  - "hearing rescheduled earlier"
-  - "missed preparation time"
-  - "lost notice period"
-  - "help i have a court hearing"
-  - "what do i do if my hearing moved"
-  - "what do i do if court date changed"
-  - "what do i do if court notice is late"
-  - "my hearing date was moved"
-  - "my court case is earlier"
-  - "help i missed court notice"
-  - "smell of fresh mail"
-  - "official court envelope"
-  - "digital hearing notification"
-  - "urgent listing email"
-  - "hmcts phone call"
-  - "court letter earlier date"
-  - "n244 adjournment help"
-  - "urgent motion scotland court"
-  - "hearing date brought forward"
-last_reviewed: "2026-03-17"
+  - hearing moved earlier
+  - court date moved forward
+  - new earlier hearing date
+  - short notice hearing change
+  - hearing brought forward
+  - court date changed suddenly
+  - late notice from court
+  - notice of hearing change
+  - can’t attend new court date
+  - can’t prepare in time
+  - need more time for hearing
+  - request adjournment
+  - ask to change hearing date
+  - moved hearing little warning
+  - urgent court timetable change
+  - court listing changed
+  - hearing rescheduled earlier
+  - missed preparation time
+  - lost notice period
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive a notice that your court hearing has been moved earlier with little warning (UK)
 
 ## Short answer
-Contact the court’s listing office immediately to confirm the new time and request an adjournment if you cannot attend. You must provide factual evidence of when you received the notice to justify any delay in your response.
+Treat this as urgent: contact the court immediately to confirm the new listing and what you must do to avoid being treated as absent. If you cannot reasonably attend or prepare, ask right away about applying to adjourn (postpone) or relist the hearing.
 
 ## Do not do these things
-- Don’t ignore the notice assuming it is a clerical error or a scam without verifying with the court first.
-- Don’t wait more than 24 hours to respond; courts treat "delay in complaining" as evidence that the new date is manageable.
-- Don’t contact the judge's personal office or attempt to speak to them outside of a formal hearing or application.
-- Don’t rely on a single email; if you do not receive an immediate response, use the phone to confirm receipt.
-- Don’t skip the hearing without a court order confirming it has been moved back; "non-attendance" can lead to a judgment in your absence.
+- Don’t assume it’s a mistake and ignore it — you may still be expected to attend unless the court confirms otherwise.
+- Don’t rely on leaving a voicemail or sending one email and hoping it’s “done” — follow up until you have clear confirmation of next steps.
+- Don’t contact the judge directly unless the court tells you a formal route for your case (use the court office / listings team / formal application routes).
+- Don’t skip the hearing because you’re not ready; if you truly can’t attend, you still need to act (and show you acted) before the hearing where possible.
+- Don’t send long, emotional explanations. Keep it factual: when you received notice, why the earlier date is unworkable, what you are asking for.
 
 ## What to do now
-1. **Call the court listing office immediately to confirm the hearing is active.** Use the number on the notice or the GOV.UK "Find a court or tribunal" service for England and Wales.
-   - For urgent family or civil issues in England/Wales, call 0330 808 4424.
-   - For Scotland, contact the Sheriff Clerk’s office for the relevant court.
-2. **Note down exactly when and how the notice was received.** Keep the envelope with the postmark or save the email with full "header" details.
-3. **Contact the other party or their solicitor to ask for their consent to adjourn.** If the other side agrees that the notice was too short, a "consent order" or "joint letter" can significantly speed up the court's decision to move the date.
-4. **Identify the specific conflict that makes the earlier date impossible.** You must be ready to state a concrete reason:
-   - Pre-booked travel or medical appointments.
-   - Inability to serve witnesses on shorter notice.
-   - Mandatory work commitments that cannot be moved.
-5. **Submit a formal request to change the date based on your jurisdiction.**
-   - **England & Wales (Civil):** File Form N244 (Application Notice). If filed more than 14 days before a hearing, fees may differ, but for short-notice changes, you may need an "urgent" fee or fee remission (Form EX160).
-   - **Scotland:** You may need to lodge a "Motion" to discharge the diet (cancel the hearing date).
-   - **Family Court:** Use Form C2 for children's proceedings.
-6. **Ask the clerk for the "duty judge" or "listing officer" if the hearing is less than 48 hours away.** Explain that you are an unrepresented litigant (if applicable) and have just received notice.
-7. **Prepare a one-page "Timeline of Receipt" to show the judge.** This should list 3–5 bullet points showing when the notice was sent, when it arrived, and when you first contacted the court to complain.
-8. **Attend the hearing remotely if you cannot travel, but only with permission.** Ask the court office if a "video link" or "CVP" (Cloud Video Platform) attendance is possible as a fallback if the adjournment is refused.
+1. **Confirm the new hearing details with the court straight away.** Use the contact details on the notice. If you can’t reach them, look up the court’s official contact details.  
+   - **England & Wales:** you can use the GOV.UK “Find a court or tribunal” service.  
+   - **Scotland or Northern Ireland:** rely on the contact details on your notice and the relevant courts/tribunals service for that jurisdiction (the GOV.UK finder is limited outside England & Wales).
+2. **Write down (and keep) proof of timing.** Save the notice, envelope (if posted), and screenshots/emails showing **when you received it**. Note the date/time you first saw it and your attempts to call/email.
+3. **If you have a solicitor/barrister, contact them immediately and forward the notice.** If you are unrepresented, decide your “one-sentence ask” (for example: “I’m requesting the hearing be adjourned/relisted because I only received notice on [date] and cannot attend/prepare.”).
+4. **Ask the court what route they want for an urgent date problem.** Keep it practical:
+   - “Is the hearing definitely going ahead on the earlier date?”
+   - “What is the quickest way to ask for an adjournment or relisting?”
+   - “Do you accept an urgent request in writing, and where should it be sent today?”
+5. **If the court says you must apply, use the correct process for your case type and do it the same day if possible.**  
+   - **Civil (County Court/High Court) cases:** an urgent request is often made by an **application notice** (commonly **Form N244**) with a short witness statement explaining the short notice and what you need.  
+   - **Family, criminal, tribunals:** forms and routes differ — ask the court office what form/process applies and whether anything can be dealt with urgently.
+6. **If there isn’t time for a full written application, still notify the court urgently and keep proof.** If you expect to ask for an adjournment at the start of the hearing, tell the court as soon as you can (ideally in writing) and explain the short-notice problem.
+7. **If you can attend but can’t prepare properly, plan to attend and ask for limited relief.** For example: a short adjournment, or extra time to file evidence/obtain documents/legal advice, while avoiding being treated as absent.
+8. **Prepare a “minimum safe pack” for the hearing (even if you’re asking to move it).** Bring/attach:
+   - the notice showing the earlier date,
+   - your proof of when you received it,
+   - a short timeline (3–6 bullet points),
+   - what you’re asking the court to do (one or two clear options).
 
 ## What can wait
-- You do not need to finalize your full witness statements or evidence for the main trial yet.
-- You do not need to hire a full legal team today if you are self-representing, though a one-off consultation may help.
-- You do not need to worry about the long-term outcome of the case while the immediate schedule is in flux.
+- You do not need to fully prepare the entire case today — your priority is **not missing the hearing** and **getting the short-notice issue in front of the court** promptly.
+- You don’t need perfect wording. A short, factual request made quickly is usually safer than waiting.
+- You can sort detailed evidence and longer submissions after the date issue is stabilised.
 
 ## Important reassurance
-Court schedules are highly administrative and listings often change due to other cases settling or falling through. Being asked to attend earlier is a procedural challenge, not a reflection of the strength of your case. Taking immediate, documented action to notify the court of the conflict is the standard way to protect your rights.
+Feeling blindsided by an earlier hearing date is a normal reaction. Courts do change listings quickly. What matters most is showing you acted promptly once you became aware, and that you asked for a workable, fair next step.
 
 ## Scope note
-This guide covers the first procedural steps to take when a hearing date is brought forward. It does not provide legal strategy for the underlying case or guaranteed outcomes for adjournment applications.
+These are first steps to reduce harm and stop you being treated as absent. The best route depends on what kind of case it is and what directions already exist.
 
 ## Important note
-Court rules and fees, particularly in Northern Ireland and England/Wales, are subject to 2026 updates. Always verify current fee levels (such as the April 2026 NI Fee Order) with the court office before filing. This information is for general guidance and not a substitute for professional legal advice.
+This is general information, not legal advice. Court procedures differ by jurisdiction and case type, and the directions on your notice (and what the court office tells you) should be followed. If you are unsure, get urgent legal advice.
 
 ## Additional Resources
+- https://www.gov.uk/find-court-tribunal
+- https://www.find-court-tribunal.service.gov.uk/
 - https://www.gov.uk/government/publications/form-n244-application-notice
 - https://www.gov.uk/government/publications/form-n244-application-notice/how-to-complete-the-n244-application-notice
+- https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part23
 - https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part23/pd_part23a
-- https://www.gov.uk/get-help-with-court-fees
-- https://www.gov.uk/find-court-tribunal

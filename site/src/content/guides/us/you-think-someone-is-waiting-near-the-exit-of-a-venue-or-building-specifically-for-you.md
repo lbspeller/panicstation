@@ -1,91 +1,81 @@
----
+﻿---
 title: "What to do if… you think someone is waiting near the exit of a venue or building specifically for you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - "someone waiting outside for me"
-  - "person waiting by the exit"
-  - "unsafe leaving a venue"
-  - "unsafe leaving a building"
-  - "i think i am being followed"
-  - "someone targeting me at exit"
-  - "suspicious person near doorway"
-  - "worried someone is after me"
-  - "leaving alone feels unsafe"
-  - "being watched outside venue"
-  - "stalker waiting outside"
-  - "harassment outside a building"
-  - "fear at the exit"
-  - "threatened when leaving"
-  - "someone in the parking lot"
-  - "anxious about walking out"
-  - "someone waiting for me outside"
-  - "personal safety after an event"
-  - "what do i do if someone is waiting for me"
-  - "what do i do if i am being watched"
-  - "what do i do if someone is following me"
-  - "what do i do if i feel unsafe leaving"
-  - "help i think someone is outside"
-  - "help i am being stalked"
-  - "help i am being followed"
-  - "my safety is at risk at exit"
-  - "waiting at the exit"
-  - "lurking near the door"
-  - "watching the entrance"
-  - "standing by my car"
-  - "shadowed at the venue"
-  - "unwanted person outside"
-  - "safety at night leaving venue"
-  - "building exit safety"
-  - "escort to car needed"
-last_reviewed: "2026-03-17"
+  - someone waiting outside for me
+  - person waiting by the exit
+  - unsafe leaving a venue
+  - unsafe leaving a building
+  - i think i'm being followed
+  - someone targeting me at exit
+  - suspicious person near doorway
+  - worried someone is after me
+  - leaving alone feels unsafe
+  - being watched outside venue
+  - stalker waiting outside
+  - harassment outside a building
+  - fear at the exit
+  - threatened when leaving
+  - someone in the parking lot
+  - anxious about walking out
+  - someone waiting for me outside
+  - personal safety after an event
+last_reviewed: "2026-01-11"
 ---
+
 # What to do if… you think someone is waiting near the exit of a venue or building specifically for you (USA)
 
 ## Short answer
-Stay inside the building, move to a staffed area away from windows, and request a security escort or police assistance before attempting to leave.
+Don’t leave alone. Stay inside where there are staff and people, and ask venue security/management for an escort and help contacting police if you feel in danger.
 
 ## Do not do these things
-- Don't go outside alone to check if the person is still there.
-- Don't confront the individual or attempt to record them if it requires getting closer.
-- Don't head to a parking garage or isolated area by yourself.
-- Don't post your specific location or "about to leave" status on social media.
-- Don't drive directly to your home if you suspect you are being followed after departure.
+- Don’t go outside alone “to check” or to see if you’re overreacting.
+- Don’t confront them or try to get close for a better photo/video.
+- Don’t head to a parking lot/garage alone.
+- Don’t post your location or exit plan publicly.
+- Don’t drive straight home if you think you’re being followed.
 
 ## What to do now
-1. **Move to a secure, staffed interior location.** **Identify a central area like a front desk, security station, or manager's office that is not visible from the street or exit.**
-2. **Alert venue staff or security immediately.** **Tell the staff exactly what you are observing and that you do not feel safe exiting.**
-   - Request a security escort to your specific vehicle or transport.
-   - Ask if there is a secure, alternative exit not currently watched.
-   - Ask staff to monitor the main exit while you remain in a safe spot.
-3. **Contact 911 if you feel an immediate threat.** **If the person is making gestures, blocking the path, or you believe they intend to cause harm, call 911 and state your location inside the building.**
-4. **Coordinate your departure as a single, supported move.** **Wait inside until your ride-share is confirmed at the curb or your escort is ready to walk with you.**
-   - Verify the vehicle make, model, and license plate through the app before stepping out.
-   - Walk directly to the vehicle with your escort and lock the doors immediately upon entry.
-5. **Switch to a different communication method if you suspect digital tracking.** **If you believe your phone is being monitored, ask to use a venue landline or a staff member's phone to coordinate help.**
-6. **Navigate to a "safe haven" if you are followed while driving.** **Do not pull over or go home; drive to a well-lit, 24-hour public place like a police station, hospital ER, or open fire station.**
-7. **Document the situation from a safe distance.** **Note the individual's physical description, clothing, and the time you first noticed them.**
-   - Ask venue management to preserve security camera footage from the exit and parking area for the current timeframe.
-8. **Contact specialized support for safety planning.** **Once you are in a safe location, call the VictimConnect Resource Center at 855-484-2846 or the National Domestic Violence Hotline at 800-799-7233.**
+1. **Move to the safest indoor spot available.** Choose a staffed, visible area (front desk, bar, security station) or ask to wait in an office/back room.
+2. **Tell staff/security exactly what you need.** Say: “I think someone is waiting outside for me. I don’t feel safe leaving.” Ask for:
+   - a **security escort** to your ride/car,
+   - staff to **watch the exit** while you leave,
+   - a **different exit** if available,
+   - help **calling 911** or local police if needed.
+3. **If you suspect your phone is being monitored (or it’s unsafe to use near the exit), switch devices.** Ask staff to call 911 for you, or use a staff phone. Keep any calls/messages brief and practical.
+4. **Call 911 if you feel threatened or trapped.** If you believe you’re in immediate danger (blocked, threatened, or you fear imminent harm), **call 911** and tell the dispatcher you’re inside a venue and afraid to exit.
+5. **Make leaving a single, supported move.** Leave only when your transport is ready and you can go directly to it with an escort or group. If using a rideshare/taxi:
+   - wait inside until it arrives,
+   - confirm the correct vehicle details before you step out,
+   - get in immediately with the escort nearby.
+6. **If you think you’re being followed after you leave, don’t go home.** Go to a **well-lit, staffed public place** and call **911** if you feel at risk. If you’re driving, keep moving to a safe public location rather than pulling over somewhere isolated.
+7. **Record key details without escalating risk.** From a safe distance (or by asking staff to do it), note:
+   - appearance and clothing,
+   - where they’re positioned,
+   - time,
+   - any vehicle make/model/plate you can safely see.
+   Ask staff to **note the time** and preserve any relevant **security camera** footage.
+8. **Once you’re safe, message one trusted person.** Share where you are, where you’re going next, and what you want them to do (for example: stay on the phone until you’re indoors).
 
 ## What can wait
-- Deciding whether you want to press formal charges or file a full police report.
-- Determining if this behavior constitutes legal "stalking" under state law.
-- Reviewing long-term security measures like changing your daily commute or routine.
-- Responding to any messages or calls from the individual.
+- Deciding whether this is “really” stalking/harassment or whether you want to file a report right now.
+- Writing a full account (a few accurate notes are enough tonight).
+- Longer-term steps like protective orders, workplace/school plans, or changing routines.
 
 ## Important reassurance
-It is common to feel a sense of hesitation or "paralysis" when you suspect you are being targeted. This physiological reaction is a standard response to a perceived threat. Taking steps to secure an escort or stay inside is a protective action based on your current observation.
+You’re allowed to act on a “something feels off” moment. Asking staff for help or calling 911 if you feel in danger is a reasonable safety step, not an overreaction.
 
 ## Scope note
-This guide provides immediate stabilization and harm-reduction steps for the minutes following the discovery of a potential threat at an exit. It does not replace a comprehensive safety plan or legal advice regarding harassment or stalking.
+This is first-steps guidance for the next minutes to hours. If this is part of an ongoing pattern, victim-support services can help you think through safer options without handling it alone.
 
 ## Important note
-Stalking and criminal harassment laws vary by state. If you believe you are being targeted, keep a log of incidents and consult with a victim advocate or legal professional to understand your specific protections.
+This guide is general information, not legal advice. If you are in immediate danger, call 911.
 
 ## Additional Resources
-- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/
-- https://www.stalkingawareness.org/risk-and-safety/
-- https://ovc.ojp.gov/topics/stalking
+- https://womenshealth.gov/relationships-and-safety/other-types/stalking
+- https://womenshealth.gov/relationships-and-safety
+- https://www.justice.gov/sites/default/files/ovw/legacy/2013/01/31/tips-for-victims.pdf
 - https://victimconnect.org/
-- https://rainn.org/help-and-healing/hotline/
+- https://ovc.ojp.gov/topics/stalking
+- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/

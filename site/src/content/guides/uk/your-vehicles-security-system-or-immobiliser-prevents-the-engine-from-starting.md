@@ -1,100 +1,92 @@
----
+﻿---
 title: "What to do if… your vehicle’s security system or immobiliser prevents the engine from starting"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "vehicle security system engine wont start"
-  - "immobiliser prevents engine starting"
-  - "car security system start issues"
-  - "what do i do if my car immobiliser is stuck"
-  - "what do i do if my security light is flashing"
-  - "what do i do if my key is not recognised"
-  - "what do i do if my car wont start and padlock light is on"
-  - "help i cant start my car immobiliser"
-  - "help i think my car is immobilised"
-  - "help i have a flashing key symbol on my dash"
-  - "my car wont start security light"
-  - "my immobiliser wont turn off"
-  - "my key fob battery is dead car wont start"
-  - "my engine wont crank security system"
-  - "car padlock symbol on dashboard"
-  - "flashing car with key icon"
-  - "immobiliser rapid ticking noise"
-  - "immobilised car symptoms"
-  - "smart key not detected uk"
-  - "push button start security fault"
-  - "aftermarket immobiliser pin override"
-  - "ghost immobiliser wont disarm"
-  - "key fob not working engine start"
-  - "security lockout after jump start"
-  - "vehicle security lockout after battery change"
-  - "lost car key immobiliser programming"
-  - "immobiliser reset procedure uk"
-  - "car security system prevent ignition"
-  - "anti theft system engine disable"
-  - "remote key not detected emergency start"
-last_reviewed: "2026-03-17"
+  - car won’t start immobiliser
+  - immobiliser light flashing
+  - security system stops engine
+  - key not recognised
+  - key not detected
+  - key fob battery dead
+  - push button start won’t start
+  - engine won’t crank security
+  - car alarm immobiliser issue
+  - spare key works but not main
+  - after battery change won’t start
+  - after jump start won’t start
+  - vehicle won’t start in car park
+  - stranded and car won’t start
+  - immobiliser prevents ignition
+  - key symbol on dashboard
+  - car won’t start despite power
+  - remote key not working start
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your vehicle’s security system or immobiliser prevents the engine from starting (UK)
 
 ## Short answer
-Move the vehicle to a safe location if possible, then attempt a "backup start" by holding the key fob directly against the start button or steering column while using your spare key if available.
+Get to a safer pause first (hazards on, out of traffic), then do the low-risk key/immobiliser checks: spare key, key fob battery, and your manufacturer’s “backup start” method.
 
 ## Do not do these things
-- Don’t repeatedly attempt to crank the engine, as this will drain the vehicle battery and may trigger a prolonged security lockout.
-- Don’t attempt to bypass the immobiliser wiring or pull fuses unless you are following the manufacturer’s specific emergency procedures.
-- Don’t disconnect the car battery to "reset" the system unless the manual explicitly states this, as it can cause loss of synchronisation between the key and the Engine Control Unit (ECU).
-- Don’t accept technical assistance from unverified individuals offering to reprogram your electronics at the roadside.
-- Don’t stay in the vehicle if you are broken down in a live lane of a motorway or high-speed road.
+- Don’t keep trying to start the engine over and over (it can drain the battery and can make troubleshooting harder).
+- Don’t try to “bypass” the immobiliser or pull security-related fuses you’re not sure about.
+- Don’t disconnect the vehicle battery unless your owner’s manual specifically suggests it for your model (it can trigger lockouts and create new faults).
+- Don’t accept help from a stranger who wants to “reprogram” or handle your keys/electronics.
+- If you’re on a motorway or another fast road, don’t stay focused on “fixing the car” in a risky spot—prioritise official breakdown safety steps.
 
 ## What to do now
-1. **Prioritize immediate physical safety and visibility.**
-   - Switch on your hazard warning lights and, if it is dark or visibility is poor, turn on your sidelights.
-   - If the vehicle is in a live lane of a motorway or "smart" motorway and cannot be moved, stay buckled in and call **999** immediately or press the vehicle’s **SOS / eCall button**.
-   - If you are on a standard road and the vehicle is a hazard, try to move it to a lay-by or car park if safe to do so.
+1. **Make it safe before you troubleshoot.**
+   - Put hazard lights on, apply the handbrake, and if you can do so safely **move the car out of traffic** (into a car park, lay-by, or other safer spot).
+   - **If you’re on a motorway and can’t exit at the next junction**, pull onto the hard shoulder or an emergency area as far left as possible, leave room to exit, and turn your wheels left.
 
-2. **Follow the motorway "Go Left" protocol if applicable.**
-   - Move the vehicle to the hard shoulder or an emergency area (marked with orange SOS signs) if you have enough momentum.
-   - Exit the vehicle via the left-hand doors (away from traffic) and wait behind the safety barrier or on the verge.
-   - Use the roadside emergency telephone or call National Highways on **0300 123 5000** for assistance on the strategic road network.
+2. **If you’re on a motorway, follow the “get out, get behind, get help” pattern.**
+   - Get everyone out **via the left doors** (away from traffic) and wait **behind the safety barrier** if there is one and it’s safe.
+   - Use a **motorway emergency roadside telephone (orange)** if you can reach one safely, or call your breakdown provider.
+   - **If you cannot leave the vehicle because you are stuck in moving traffic**, keep your seatbelt on, hazards on, and call **999**.
 
-3. **Identify specific security system warning cues.**
-   - Check the dashboard for a flashing or solid symbol of a **key**, a **padlock**, or the word **"SECURITY"**.
-   - Listen for a rapid ticking sound or total silence when attempting to start; if the electronics (lights/radio) work but the engine does not "click" or crank, the immobiliser is likely active.
+3. **Look for a clear immobiliser/security clue.**
+   - Check the dashboard for a **key / padlock / “security”** symbol or an immobiliser light flashing. That often points to the key not being recognised.
 
-4. **Execute the manufacturer’s "emergency backup start" procedure.**
-   - If you have a push-button start, hold the key fob directly against the **Start / Stop button** or the designated spot on the steering column (check your manual for the exact "transponder coil" location).
-   - Press the brake or clutch pedal fully while holding the fob in place and press the start button.
+4. **Try the simplest key fix: use your spare key/fob.**
+   - If a spare key starts the car, stop there: it’s likely the first key/fob that’s the issue (battery, damage, lost programming).
 
-5. **Test the system with a spare key or new fob battery.**
-   - If you have a spare key nearby, use it to determine if the issue is a failure of the primary key's transponder or battery.
-   - Replace the key fob battery if possible; many UK 2026 models use a **CR2032** or **CR2025** coin cell.
+5. **Fix the most common cause: the key fob battery.**
+   - If the car uses a fob, replace the fob battery (or if you can’t right now, try the backup method in step 6).
+   - If you have a second fob, keep it **separate** from the first while testing (two fobs close together can confuse some systems).
 
-6. **Check for aftermarket immobiliser overrides.**
-   - If your vehicle has an aftermarket system (such as a Ghost or ADR tag system), ensure the **Bluetooth tag** is present and active.
-   - Enter your emergency **PIN override code** using the vehicle's buttons (steering wheel/dash) as per the installer’s instructions if the tag is not recognised.
+6. **Use the manufacturer “backup start” method (push-button starts).**
+   - Many cars can still recognise the transponder even if the fob battery is weak. Common options (varies by model):
+     - **Hold the fob right against the start button** while pressing the brake/clutch and pressing start.
+     - **Place the fob in a designated backup spot/slot** (often in the centre console or near the steering column).
+   - If you don’t know the backup spot, search your owner’s manual for: **“key not detected”**, **“smart key battery low”**, **“emergency start”**, or **“backup start”**.
 
-7. **Contact a verified professional if the system remains locked.**
-   - Call your breakdown provider (AA, RAC, Green Flag, or similar) and explicitly state: **"The vehicle is immobilised and the security system is not recognising the key."**
-   - If the key is damaged or lost, contact a **Master Locksmiths Association (MLA)** approved auto locksmith, as they are vetted and inspected.
+7. **Reduce interference and “re-try once” in a controlled way.**
+   - Move the fob away from other electronics/keys, don’t keep it in a bag/pocket pressed against other items, and try again once.
+   - If you’re in a large multi-storey car park or near strong radio sources, trying again after moving a short distance can help (only if it’s safe and you can).
+
+8. **Switch from DIY to professional help quickly.**
+   - Call your breakdown provider (AA/RAC/other). Tell them: **“Immobiliser/security system preventing start; key not recognised; warning light showing.”**
+   - If the key has failed or deprogrammed, you may need a **mobile auto locksmith** or the **dealer** for testing/reprogramming/replacement.
 
 ## What can wait
-- You do not need to determine the root cause (e.g., ECU fault vs. wiring issue) while at the roadside.
-- You do not need to decide on a permanent repair or replacement key provider until the vehicle is in a safe, non-hazardous location.
-- You do not need to notify your insurance company immediately unless the immobiliser issue is the result of an attempted theft.
+- You do **not** need to decide right now whether it’s the key, the immobiliser module, or the vehicle battery.
+- You do **not** need to book repairs, compare locksmiths, or deal with insurance at the roadside.
+- Leave diagnostics (fault-code scans, module checks, key programming decisions) until you’re somewhere safe or a professional is present.
 
 ## Important reassurance
-Immobiliser failures are frequently caused by simple environmental factors, such as radio frequency interference or a low key fob battery. Feeling frustrated or stranded is a normal response to a sudden vehicle lockout. Most security-related start issues can be resolved by a mobile professional with the correct diagnostic software.
+Immobiliser lockouts are common and often caused by something simple (like a weak key fob battery or the car not “seeing” the key). It’s normal to feel stuck in public—focus on safety, try a small number of low-risk checks, then get proper help.
 
 ## Scope note
-This guide provides first-step stabilization and safety procedures only. It does not cover long-term mechanical repairs, engine diagnostic fault codes, or the legal requirements for replacing lost vehicle documentation.
+This guide covers first steps to stabilise the situation and avoid making it worse. If the problem repeats, a professional will usually need to check the key/fob, vehicle battery condition, and the immobiliser/security system with diagnostic tools.
 
 ## Important note
-This information is for general guidance and does not replace the specific instructions found in your vehicle’s owner’s manual. Procedures for disarming immobilisers vary significantly by manufacturer and year. If you are on a motorway, prioritize official safety advice from National Highways or the police over any mechanical troubleshooting.
+This is general information, not vehicle-specific mechanical advice. Immobiliser and “backup start” methods vary by make/model/year—use your owner’s manual where possible and use qualified roadside assistance or a reputable locksmith/dealer if you can’t restore starting safely.
 
 ## Additional Resources
-- https://www.rac.co.uk/drive/advice/know-how/help-my-car-wont-start-what-do-i-do/
-- https://www.theaa.com/breakdown-cover/advice/starting-a-car
-- https://www.theaa.com/driving-advice/security/keys
-- https://www.theaa.com/breakdown-cover/key-assist
-- https://www.moneyhelper.org.uk/en/getting-help-and-advice/consumer-rights/consumer-rights-what-you-need-to-know
+- https://nationalhighways.co.uk/road-safety/driving-on-motorways/
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
+- https://www.rac.co.uk/drive/advice/driving-advice/what-to-do-if-you-break-down-on-the-motorway/
+- https://www.theaa.com/breakdown-cover/advice/what-to-do-motorway-breakdown
+- https://www.gov.uk/government/news/safety-tips-for-motorway-drivers-at-start-of-breakdown-season

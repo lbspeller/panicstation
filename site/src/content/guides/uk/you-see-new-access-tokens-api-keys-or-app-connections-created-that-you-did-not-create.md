@@ -1,96 +1,93 @@
----
+﻿---
 title: "What to do if… you see new access tokens, API keys, or app connections created that you did not create"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "apple account new device login"
-  - "google account unknown device"
-  - "new device added to apple account"
-  - "new device added to google account"
-  - "what do i do if my apple account shows a new device"
-  - "what do i do if someone is logging into my google account"
-  - "help i got a security alert for a new device"
-  - "help i think someone is in my apple account"
-  - "suspicious login notification uk"
-  - "unrecognised device setup alert"
-  - "someone has my password apple"
-  - "someone has my password google"
-  - "remove unrecognised device apple"
-  - "sign out of all google sessions"
-  - "account takeover alert right now"
-  - "apple account security notification"
-  - "google security alert new login"
-  - "unexpected sign in prompt"
-  - "deny sign in notification"
-  - "apple account device list"
-  - "google account device list"
-  - "unauthorised device setup"
-  - "stranger logging into my account"
-  - "suspicious device added"
-  - "digital account security alert"
-last_reviewed: "2026-03-17"
+  - unexpected access token
+  - unknown api key created
+  - new app connection i did not create
+  - suspicious oauth app
+  - unknown third party app access
+  - account token compromise
+  - api credentials leak
+  - developer account hacked
+  - cloud console suspicious activity
+  - github token created without me
+  - new integration appeared
+  - unauthorized app authorization
+  - strange connected apps
+  - someone has access token
+  - security keys and tokens issue
+  - new credentials in dashboard
+  - token created overnight
+  - suspicious login and token
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you see new access tokens, API keys, or app connections created that you did not create (UK)
 
 ## Short answer
-Interrupt the setup by denying the sign-in prompt immediately and changing your account password from a trusted device you already control.
+Assume someone still has access: revoke the unknown tokens/app connections immediately, then secure the “root” account (your email/SSO) and rotate any keys that could access systems.
 
 ## Do not do these things
-- Do not tap "Allow," "Approve," or "Yes" on any notification you did not personally trigger.
-- Do not follow links in emails or texts claiming your account is "locked" or "under threat"; use official apps or direct URLs instead.
-- Do not use a password that is a variation of your old one or used on any other website.
-- Do not ignore the alert even if you think it might be a glitch; assume it is an active takeover attempt.
-- Do not attempt to message or "ping" the new device.
+- Don’t “wait and see” or leave the new token/app connection active while you investigate.
+- Don’t delete logs, alerts, or evidence (you may need them to understand scope and persistence).
+- Don’t rotate everything at once if it will break access or lock you out—keep one known-good admin path working.
+- Don’t reuse old passwords or “minor variations” of a password you’ve used before.
+- Don’t keep doing admin/security actions from a device you suspect is compromised.
 
 ## What to do now
-1. **Deny the active sign-in attempt on your screen.**
-   - **Apple:** Tap **"Don't Allow"** on the notification map or prompt.
-   - **Google:** Tap **"No, it's not me"** or **"Deny"** on the security prompt.
+1. **Get to a safer control point.**  
+   If you can, switch to a different (known-clean) device and sign in by typing the service address yourself (avoid links in messages).
 
-2. **Change your account password immediately using a trusted device.**
-   - **Apple:** Go to **Settings** > **[Your Name]** > **Sign-In & Security** > **Change Password**.
-   - **Google:** Go to **myaccount.google.com** > **Security** > **Password**.
-   - Ensure the new password is complex and entirely unique to this account.
+2. **Revoke the specific things you didn’t create (first).**  
+   - Revoke/disable the new access token(s) and API key(s).  
+   - Remove the unknown connected app(s) / OAuth authorisations.  
+   - If this is a work system, contact your admin/IT/security contact and ask them to revoke your sessions/access while you stay on the call/chat.
 
-3. **Check for and enable Stolen Device Protection (Apple only).**
-   - **Open Settings > Face ID & Passcode** (or Touch ID & Passcode).
-   - **Verify that Stolen Device Protection is "On"** to prevent an attacker from making immediate changes if they have your passcode.
-   - If prompted for a "Security Delay," start it; this prevents immediate changes by an unrecognised device.
+3. **Invalidate sessions so the attacker is kicked out.**  
+   Use options like **“sign out of all devices”**, **“revoke sessions”**, or **“log out everywhere.”** (This matters because tokens/sessions can keep working even after a password change.)
 
-4. **Review and purge the active device list.**
-   - **Apple:** In **Settings** > **[Your Name]**, scroll to the bottom to see all devices; tap any unrecognised device and select **"Remove from Account"**.
-   - **Google:** Go to **Security** > **Your devices** > **Manage all devices** and select **"Sign out"** for any session or hardware you do not recognise.
+4. **Secure your email/SSO account (because it resets everything else).**  
+   - Change the email/SSO password.  
+   - Check for **mail forwarding**, **inbox rules/filters**, and **recovery email/phone** changes you didn’t make.  
+   - Turn on **2-step verification** for email/SSO if it isn’t already on.
 
-5. **Verify your recovery and "stealth" access settings.**
-   - **Recovery Info:** Confirm your trusted phone numbers and recovery emails are still correct; remove any you did not add.
-   - **Gmail Stealth Access:** Check **Settings** > **See all settings** > **Filters and Blocked Addresses** and **Forwarding and POP/IMAP**; delete any rules sending your mail to another address.
-   - **Gmail Delegation:** Check **Settings** > **Accounts and Import** > **Grant access to your account**; ensure no unrecognised users are listed.
+5. **Secure the affected platform account.**  
+   - Set a new, unique password.  
+   - Turn on 2-step verification (prefer an authenticator app or security key if available).  
+   - Review trusted devices/sessions and remove anything unfamiliar.
 
-6. **Review payment and purchase history for unauthorised activity.**
-   - **Check for pending transactions** in the App Store, iTunes, or Google Play Store.
-   - **Contact your bank immediately** if you see charges you did not authorise or if your card details are stored in the account.
+6. **Pause anything that could keep leaking secrets.**  
+   If you have automation (CI/CD, build agents, scripts, integrations): pause deployments and disable affected pipelines/integrations until secrets are rotated and you’ve checked for malicious changes.
 
-7. **Report the incident to the appropriate UK authorities.**
-   - **England, Wales, and Northern Ireland:** Report the cybercrime to **Action Fraud** online or by calling 0300 123 2040.
-   - **Scotland:** Contact **Police Scotland** by calling 101 or reporting via their online cybercrime form.
+7. **Rotate credentials in a controlled order (second wave).**  
+   Prioritise anything with broad or money/data access: cloud access keys, production database credentials, deploy keys, payment/finance integrations, and any “admin” API keys. Replace with new credentials and update dependent services one by one to avoid outages.
+
+8. **Check audit/activity logs for persistence and scope.**  
+   Look for: new users, new MFA methods, new SSH keys, permission/role changes, new webhook destinations, changes to billing/payout settings, or disabled alerts. Save screenshots/exports if available.
+
+9. **If personal data might be involved, start breach triage early.**  
+   For organisations: record a simple timeline (what you saw, when you saw it, what you changed). If you believe a personal data breach may be notifiable, the UK process commonly involves reporting to the ICO within 72 hours of becoming aware (even if details are still emerging).
 
 ## What can wait
-- You do not need to determine the specific "source" or location of the hacker right now; those maps are often imprecise.
-- You do not need to factory reset your own trusted devices immediately.
-- You do not need to notify all your contacts until you have confirmed your recovery email and phone numbers are secure.
+- Determining the exact initial cause (phishing vs reused password vs stolen session/token vs malicious OAuth consent).
+- Writing a perfect report. A simple timeline and screenshots/log exports are enough for now.
+- Long-term improvements (secret managers, policy redesign). Stabilise first.
 
 ## Important reassurance
-Receiving a security alert means the account's protective systems are functioning. It is common to feel a sense of urgency or alarm when these notifications appear. Denying the prompt and changing your password are effective, standard actions that can stop unauthorized access in the first few minutes.
+Attackers often create tokens or connect apps so they can come back even after you change a password. Revoking tokens/app access and invalidating sessions is the fastest way to cut them off, and it’s normal to need a second pass after you review logs.
 
 ## Scope note
-This guide provides first-step stabilization for an active, unrecognised sign-in attempt. It does not cover long-term identity theft recovery or legal proceedings.
+These are first steps to regain control and reduce harm. If production systems, customer data, or money-moving accounts were reachable, you may need deeper investigation and specialist support.
 
 ## Important note
-This information is for general guidance and does not constitute legal or technical professional advice. If you have lost access to your account entirely or suspect significant financial fraud, contact your service provider's official recovery department and your financial institution directly.
+This guide is general information, not legal or professional advice. If this involves a workplace, regulated data, or significant customer impact, follow your organisation’s incident process and get appropriate professional support.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
-- https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take
-- https://www.ncsc.gov.uk/collection/small-organisations-guide-to-cyber-security
-- https://www.ncsc.gov.uk/blog-post/identifying-suspicious-credential-usage
-- https://www.ncsc.gov.uk/section/respond-recover/citizen-data-breaches
+- https://www.ncsc.gov.uk/files/recovering-hacked-accounts-infographics.pdf
+- https://ico.org.uk/for-organisations/report-a-breach/personal-data-breach/personal-data-breaches-a-guide/
+- https://ico.org.uk/for-organisations/advice-for-small-organisations/personal-data-breaches/72-hours-how-to-respond-to-a-personal-data-breach/
+- https://docs.github.com/en/code-security/tutorials/remediate-leaked-secrets/remediating-a-leaked-secret
+- https://docs.github.com/en/organizations/managing-programmatic-access-to-your-organization/reviewing-and-revoking-personal-access-tokens-in-your-organization

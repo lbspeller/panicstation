@@ -1,83 +1,87 @@
----
+﻿---
 title: "What to do if… an app update signs you out and your downloaded content or offline data is gone"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "app update signed me out"
-  - "app logged me out after update"
-  - "offline data disappeared"
-  - "downloaded content missing"
-  - "app cache cleared after update"
-  - "lost downloads in app"
-  - "offline mode stopped working"
-  - "app reset after updating"
-  - "content gone after reinstall"
-  - "wrong account signed in"
-  - "cannot find my purchases"
-  - "restore purchases not working"
-  - "app data wiped"
-  - "lost offline maps"
-  - "lost notes inside app"
-  - "subscriptions not showing"
-  - "signed out unexpectedly"
-  - "app shows empty library"
-  - "downloaded videos missing"
-  - "apple account sign out"
-  - "google play content gone"
-  - "missing offline data"
-  - "app library empty after update"
-  - "restore library option missing"
-  - "digital content loss help"
-  - "subject access request for app data"
-  - "help i lost my downloads"
-  - "help i was signed out of my app"
-  - "my downloads disappeared after update"
-  - "my app content is gone"
-last_reviewed: "2026-03-17"
+  - app update signed me out
+  - app logged me out after update
+  - offline data disappeared
+  - downloaded content missing
+  - app cache cleared after update
+  - lost downloads in app
+  - offline mode stopped working
+  - app reset after updating
+  - content gone after reinstall
+  - wrong account signed in
+  - cannot find my purchases
+  - restore purchases not working
+  - app data wiped
+  - lost offline maps
+  - lost notes inside app
+  - subscriptions not showing
+  - signed out unexpectedly
+  - app shows empty library
+  - downloaded videos missing
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… an app update signs you out and your downloaded content or offline data is gone (UK)
 
 ## Short answer
-Stop interacting with the app and avoid uninstalling it, as this may permanently delete local recovery files. Verify you are signed into the correct Apple Account or Google Account, then use the app’s internal **Restore purchases** or **Sync** function before attempting any data clears.
+Stop making changes that could overwrite recovery options. First, confirm you’re signed in to the *same account* as before, then use the app’s **Restore purchases / Restore downloads / Sync** option before reinstalling anything.
 
 ## Do not do these things
-- Don’t uninstall and reinstall the app as a first response, as this often wipes the local "sandbox" where offline data or un-synced drafts are stored.
-- Don’t sign out of your device-level Apple Account or Google Account without ensuring you have a secondary 2FA (Two-Factor Authentication) method active.
-- Don’t follow "account recovery" links sent via unsolicited SMS or email; only use the official account settings on your device or the developer's verified website.
-- Don’t pay third-party "data recovery" services claiming they can bypass app encryption or server-side locks.
-- Don’t clear the "Storage" or "Data" of the app in your device settings until you have confirmed the content is not stored solely on your phone.
+- Don’t uninstall/reinstall the app “to fix it” until you’ve checked whether it can restore/sync (reinstalls can permanently remove local/offline data).
+- Don’t sign into “support” links from emails/texts about the sign-out; go directly via the app’s account screen or the official store/account settings.
+- Don’t repeatedly log in/out across multiple accounts “to try things” — it can confuse what’s linked where.
+- Don’t clear the app’s cache/storage unless you’re sure the missing content is safely synced somewhere else.
+- Don’t factory reset your device or wipe storage while you’re still unsure what can be recovered.
+- Don’t pay anyone who messages offering “recovery” unless it’s the official app provider and you initiated contact.
 
 ## What to do now
-1. **Take screenshots of the current state of the app and your account screen.** **Capture any error messages, the specific email address currently signed in, and the app version number found in the settings menu.** This provides a timestamped record if you need to prove a service failure to the developer or your bank later.
-2. **Confirm your device-level account matches the one used for the original purchase.** **Open your device settings and verify the Apple Account or Google Account name is identical to the one you used when you first downloaded the content.** Account mismatches are the most frequent cause of "missing" libraries after an update.
-3. **Use the manual restoration tools provided within the app settings.** **Look for buttons labeled "Restore purchases," "Sync library," or "Refresh content" before taking any other action.**
-   - For games on iOS, check the "Apple Games" app separately if the content was part of an Apple Arcade subscription.
-   - For media apps, look for a "Download Queue" to see if the update simply de-indexed the files.
-4. **Verify the status of your subscription or purchase through the platform store.** **Check your purchase history in the App Store or Google Play Store to ensure the transaction is still listed as "Active" or "Completed."** If the purchase is missing here, the issue is likely at the platform level rather than the specific app.
-5. **Protect local-only data by preventing an empty cloud sync.** **If the app contains local-only files (like voice recordings or drafts), consider turning on Airplane Mode before opening the app to prevent it from "syncing" an empty library from the server and overwriting your local files.**
-6. **Check for a "pending" re-index or background download.** **Leave the device on a charger and connected to Wi-Fi for at least 30 minutes, as some updates require time to rebuild the local database before content reappears.**
-7. **Contact the developer with a specific technical query.** **Ask the support team whether the 2026 update changed the local storage path and if there is a manual way to point the app to the old data folder.** 
-   - Provide your device model, OS version, and the screenshots you took in Step 1.
-8. **Exercise your right of access if you believe the data exists on their servers (UK only).** **Submit a Subject Access Request (SAR) under the UK GDPR and the Data (Use and Access) Act 2025 to request a copy of all personal data and content associated with your account.** 
-   - Note that under the 2025 Act, companies may "stop the clock" to ask for clarification, so ensure your request is specific to the "missing" content.
+1. **Pause and capture what you’re seeing (30–60 seconds).**  
+   Take screenshots of: the signed-in email/username, the empty library, any error messages, and the app version. Note the date/time of the update.
+2. **Check you’re signed into the same account as before (most common cause).**  
+   - In the app: Account/Profile → email/username.  
+   - On your device: confirm the store account matches what you used previously (Apple Account / Google account). If you have multiple accounts, this matters.
+3. **Use the app’s own “Restore”, “Sync”, or “Re-download” option before changing anything else.**  
+   Many apps keep entitlements (purchases/subscriptions) on the account and require a manual **Restore purchases** or **Sync library** after an update/sign-out.
+4. **Check whether the “missing” content is actually still restoring.**  
+   Some apps re-index after updates. Stay on power + Wi-Fi and check any in-app downloads/restore queue. Don’t assume “gone” until you’ve checked for a pending restore.
+5. **Verify your purchases/subscription from the platform side (to catch account mismatch).**  
+   - Apple: check **App Store purchase history** and your **subscriptions** under the same Apple Account you used before.  
+   - Google: check Play Store order history / library under the same Google account you used before.
+6. **If offline/local data matters (notes, recordings, drafts): protect the device state.**  
+   - If you suspect the app might “sync an empty state” from the cloud, consider temporarily turning off internet **only if** you can still open the app and confirm the local data is (or was) present offline.  
+   - Avoid “Reset app”, “Delete data”, or “Clear storage” until you know where the data lives.
+7. **Secure the account if the sign-out feels suspicious.**  
+   If you didn’t expect the sign-out (or you see unknown logins/charges): change the account password, review recent security events, and enable two-factor authentication where available.
+8. **Contact the app’s support with a tight evidence bundle.**  
+   Send: screenshots, device model/OS version, app version, the exact time of the update, and whether you had offline downloads. Ask specifically:  
+   - whether offline data is stored locally or in the cloud  
+   - whether they can restore prior server-side state  
+   - whether they can link purchases to the correct account
+9. **If you need a copy of data the company holds about you (UK-specific option).**  
+   If the missing content might exist on their servers, you can request a copy of your personal data via a **Subject Access Request** (UK GDPR). This won’t always restore app content, but it can retrieve records and clarify what exists.
 
 ## What can wait
-- You do not need to decide immediately whether to delete the app or cancel your service.
-- You do not need to factory reset your phone or buy a new device.
-- You do not need to file a formal complaint with the ICO or CMA until you have received a final response from the developer's support team.
+- You don’t need to decide today whether to switch apps, cancel subscriptions, or leave reviews.
+- You don’t need to reset your phone, replace your device, or pay for “recovery” services.
+- You don’t need to perfectly diagnose the cause (bug vs account mismatch vs sync) before taking the protective steps above.
 
 ## Important reassurance
-It is common for app updates to temporarily break the link between your local device and the server-side library. This is often a display error or a sync delay rather than a permanent deletion of your data. Pausing now to verify your account details prevents you from taking "fixing" actions that could make a temporary issue permanent.
+This is a very common failure mode after updates: sign-outs, re-sync delays, account mismatches, and downloads needing a manual restore. Taking a moment to avoid uninstalling or wiping things is often what preserves your best chance of getting content back.
 
 ## Scope note
-This guide provides first-step stabilization for digital content loss. It does not cover technical file-system forensics or legal representation for digital property disputes.
+These are first-step actions to stabilise the situation and avoid irreversible loss. Longer-term fixes (developer escalation, refunds, or moving services) can come after you’ve checked restore/sync and protected what’s recoverable.
 
 ## Important note
-This guide is for general information only. Data recovery is never guaranteed, and physical storage on modern devices is often encrypted, making manual file retrieval difficult. If you suspect your account has been compromised (unauthorized logins or changes), prioritize changing your password and enabling 2FA immediately.
+This guide is general information, not legal or technical advice. Apps vary widely in whether offline data is stored locally, encrypted, or recoverable. If you suspect account compromise or fraud, prioritise securing your accounts and using official support channels.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/consumer/phone-internet-downloads-or-tv/problem-with-an-app-software-or-download/
-- https://www.which.co.uk/consumer-rights/regulation/consumer-rights-act-aKJYx8n5KiSl
-- https://www.legislation.gov.uk/ukpga/2015/15/part/1/chapter/3
-- https://www.moneyhelper.org.uk/en/getting-help-and-advice/consumer-rights/consumer-rights-what-you-need-to-know
-- https://www.moneyhelper.org.uk/en/everyday-money/credit/how-youre-protected-when-you-pay-by-card
+- https://support.apple.com/en-gb/118212
+- https://support.apple.com/en-gb/billing
+- https://support.google.com/googleplay/answer/2850369?hl=en-GB
+- https://support.google.com/accounts/answer/6294825?hl=en
+- https://ico.org.uk/for-the-public/getting-copies-of-your-information-subject-access-request/
+- https://ico.org.uk/for-the-public/make-a-subject-access-request/

@@ -1,104 +1,103 @@
----
+﻿---
 title: "What to do if… a brokerage or trading account shows a sudden negative cash balance or margin call"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "brokerage account negative cash"
-  - "sudden negative cash balance"
-  - "unexpected debit balance"
-  - "margin call alert uk"
-  - "margin deficiency notice"
-  - "maintenance margin shortfall"
-  - "forced liquidation risk"
-  - "broker sold my positions"
-  - "unsettled trade cash deficit"
-  - "fx conversion caused deficit"
-  - "interest charge surprise"
-  - "options assignment cash short"
-  - "dividend withholding debit"
-  - "corporate action cash debit"
-  - "trading app shows negative"
-  - "margin loan balance spike"
-  - "cfd margin close out"
-  - "spread betting margin call"
-  - "trading account cash ledger"
-  - "what do i do if my account is negative"
-  - "what do i do if i get a margin call"
-  - "what do i do if my broker sells my shares"
-  - "what do i do if my balance is below zero"
-  - "help i have a negative balance on trading app"
-  - "help i cannot withdraw money negative balance"
-  - "help my broker says i owe money"
-  - "help my trades were closed automatically"
-  - "red balance on trading screen"
-  - "minus sign in front of cash balance"
-  - "alert message margin call"
-  - "phone call from broker margin"
-  - "unauthorised trading negative balance"
-  - "incorrect margin call uk"
-  - "disputing a brokerage margin call"
-  - "fca negative balance protection"
-last_reviewed: "2026-03-17"
+  - brokerage account negative cash
+  - sudden negative cash balance
+  - unexpected debit balance
+  - margin call alert uk
+  - margin deficiency notice
+  - maintenance margin shortfall
+  - forced liquidation risk
+  - broker sold my positions
+  - unsettled trade cash deficit
+  - fx conversion caused deficit
+  - interest charge surprise
+  - options assignment cash short
+  - dividend withholding debit
+  - corporate action cash debit
+  - trading app shows negative
+  - margin loan balance spike
+  - cfd margin close out
+  - spread betting margin call
+  - trading account cash ledger
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… a brokerage or trading account shows a sudden negative cash balance or margin call (UK)
 
 ## Short answer
-Stop all new trading immediately and contact your broker’s official margin desk or helpdesk to confirm the specific cause of the deficit. Do not deposit funds until you have verified the broker's identity and confirmed that the negative balance is not a temporary settlement or currency timing issue.
+Stop placing new trades and contact your broker’s margin/helpdesk immediately (using verified contact details) to confirm what caused the negative balance and what they will do next. Assume they may close positions quickly if you don’t act.
 
 ## Do not do these things
-- Don’t ignore the notification — UK brokers often use automated systems that will liquidate your positions within minutes or hours if margin thresholds are breached.
-- Don’t "trade your way out" — placing new trades to recover losses often increases your margin requirement and accelerates account closure.
-- Don’t click links in "urgent" margin call emails or texts — use the official app or website to log in and find contact details.
-- Don’t send money to a new bank account provided over the phone without verifying it through the FCA Firm Checker.
-- Don’t share your screen or 2FA codes with anyone claiming to be "technical support" or "margin specialists."
+- Don’t ignore it “until the market calms down” — delays can trigger automatic position closures and extra fees/interest.
+- Don’t add more leverage to “trade out of it” (bigger positions, more margin, doubling down).
+- Don’t send money using links from emails/texts or a new payee you haven’t verified — margin-call scams are common.
+- Don’t panic-sell everything without first checking what is actually driving the negative cash (it may be a settlement/FX/fee timing issue).
+- Don’t share one-time codes, remote-access, or screen-sharing with anyone claiming to be “support”.
 
 ## What to do now
-1. **Pause all activity and prevent further automated losses.**
-   - **Cancel all pending limit or stop orders** that have not yet been filled to stop further margin being "locked" or used.
-   - **Check for an account "restrict" or "close-only" setting** in your platform to prevent accidental new trades while you investigate.
+1. **Pause new trading and reduce risk of auto-actions**
+   - Cancel any pending orders you don’t fully understand.
+   - If there’s a setting to restrict your account (e.g., “close-only” or similar), use it until you’ve confirmed what’s happening.
 
-2. **Secure a permanent record of the account state.**
-   - **Take screenshots of the negative balance,** current open positions, and any "margin call" or "liquidation" alerts shown in the app.
-   - **Download the full Transaction History and Cash Ledger** (often found under 'Activity' or 'Statements') specifically looking for entries from the last 48 hours.
+2. **Capture evidence before anything changes**
+   - Take screenshots of: the negative cash figure, any margin call message, your open positions, and today’s activity.
+   - Download/export your most recent statement(s) and your **cash/transactions ledger** (sometimes called cash statement, account activity, or transaction history).
 
-3. **Identify the specific trigger in your ledger.**
-   - Look for the following common non-market triggers:
-     - **Unsettled proceeds:** You sold a stock but the cash has not yet "settled" (usually T+2 days), yet you used that cash to buy something else immediately.
-     - **FX conversion debits:** A trade in a foreign currency (e.g., US Dollars) where the broker’s auto-conversion happened at a different time or rate than expected.
-     - **Interest or borrowing fees:** Monthly platform fees, "overnight" financing charges for CFDs/Spread Bets, or margin loan interest.
-     - **Corporate actions:** Withholding tax on a foreign dividend or a "reverse split" that resulted in a cash adjustment.
+3. **Check the most common “non-panic” causes (2–5 minutes)**
+   - Look for any of these in recent activity:
+     - **Unsettled trades** (you bought before proceeds/settlement arrived; sales and buys can settle on different timelines).
+     - **FX conversion** (trades in another currency, or the broker auto-converted at a different time/rate than you expected).
+     - **Fees/interest** (platform fees, margin interest, borrowing costs, data fees).
+     - **Options/derivatives events** (assignment/exercise; expiry; contract adjustments).
+     - **Corporate actions/dividends/withholding taxes** (sometimes posted after the fact).
+   - The goal is not to “fix” it yourself yet — just to know what to ask the broker.
 
-4. **Contact the broker using the "FCA Firm Checker" verified details.**
-   - **Search for the firm on the official FCA Firm Checker tool** to ensure you are calling the real institution and not a "clone" scammer.
-   - **Ask the margin desk: "What is the exact deadline before positions are automatically closed?"**
-   - **Ask: "Is this a 'hard' margin call (deposit required) or a settlement timing issue that will clear itself?"**
-   - **Confirm your client classification:** Ask if you are treated as a "Retail Client" (which grants you mandatory Negative Balance Protection on CFDs and Spread Bets) or a "Professional Client" (where you could theoretically owe more than your deposit).
+4. **Contact the broker using verified channels and ask these exact questions**
+   - Use the in-app secure message centre, or a phone number from the broker’s official website/app (not a message you received).
+   - Ask:
+     - “**What exactly created the negative cash** (which trades/fees, and when)?”
+     - “**What is the required amount** to clear the call, and **what is the deadline**?”
+     - “Will you **close positions automatically**, and if so, under what conditions?”
+     - “If I reduce positions instead of depositing, **which positions would reduce the requirement fastest** (and is it ‘close-only’ until resolved)?”
+     - “Are there any **pending credits** (sale proceeds/dividends) that will post soon and reduce the deficit?”
+     - “If this involves CFDs/spread bets/other leveraged derivatives, **am I classed as a retail client or professional**, and what protections apply to my classification (including negative balance protection where relevant)?”
 
-5. **Execute the most stable risk reduction.**
-   - **If the broker confirms liquidation is imminent, consider manually closing your largest or most volatile positions.** This is often safer than a rushed bank transfer which may not arrive in time to stop the automated system from selling your preferred assets.
-   - **If you decide to deposit funds, use only the verified funding method** you have used successfully before.
+5. **Choose the least irreversible safe action**
+   - **If the broker says liquidation is imminent**, the least irreversible step is often to **reduce/close the riskiest positions** to bring margin back in line (rather than rushing a payment you might later dispute).
+   - **If you decide to deposit**, do it only via the broker’s normal, verified funding route. Keep confirmation receipts.
 
-6. **Address suspected errors or fraud.**
-   - **Request an immediate "trading freeze"** if you see trades you did not place or if the negative balance appears to be a platform technical error.
-   - **Log a formal complaint reference number** during your first call if the broker cannot explain the balance or if you believe they have breached their own margin notice terms.
+6. **If you suspect an error, unauthorised trading, or a scam**
+   - Change your password and enable/refresh two-factor authentication.
+   - Report it to the broker immediately as **unauthorised activity** and ask them to **restrict trading** while they investigate.
+   - If you transferred money recently and now suspect fraud, contact your bank promptly to discuss whether anything can be stopped or recalled.
+
+7. **Use UK escalation routes if the broker won’t engage or you think you’ve been treated unfairly**
+   - Check the firm is authorised using the FCA’s firm checker tools.
+   - Use the broker’s formal complaints process (ask for it in writing).
+   - If you get a **final response** you disagree with, or **8 weeks** pass without a final response, you can usually take an eligible complaint to the **Financial Ombudsman Service**. If you receive a final response, you generally need to refer it to the Ombudsman **within 6 months**.
+   - If you’re worried about firm failure and missing client assets (not normal trading losses), check whether **FSCS** investment protection might apply in that situation.
 
 ## What can wait
-- You do not need to decide whether to close the entire account today.
-- You do not need to calculate the long-term tax impact of any emergency sales right now.
-- You do not need to research new brokers or platforms until the current balance is stabilised and explained in writing.
+- You do **not** need to decide today whether to keep using margin, change brokers, or redesign your whole portfolio.
+- You do **not** need to “work out the perfect trade” to recover losses right now.
+- You can review tax implications, long-term strategy, and platform choice **after** the balance is stabilised and you have a clear ledger explanation.
 
 ## Important reassurance
-A negative balance alert is a procedural event, not a legal judgment. In the UK, most retail trading platforms have built-in "Negative Balance Protection" for leveraged products, meaning the firm cannot usually pursue you for more money than you deposited. The "emergency" is usually about stopping the system from selling your stocks at a bad price, not about you being in permanent debt.
+A sudden negative cash balance is often caused by timing (settlement), FX conversion, fees/interest, or a derivatives event — not necessarily by “missing money”. The urgent part is preventing automatic actions and getting a clear, itemised explanation while you’re calm and documented.
 
 ## Scope note
-This guide provides first-step stabilization for UK-regulated brokerage accounts. It does not cover debt management, professional-tier margin disputes, or legal strategies for multi-million pound institutional deficits.
+These are first steps to stabilise the situation and avoid irreversible mistakes. Later steps (disputes, compensation, switching providers) depend on what caused the deficit and your account terms.
 
 ## Important note
-This information is not financial or legal advice. UK margin rules (COBS 22.5) provide specific protections for retail clients trading speculative products. Always verify the regulatory status of your provider via the FCA. If you are experiencing significant financial distress, contact StepChange or a qualified debt advisor.
+This is general information, not financial or legal advice. Margin rules and timeframes depend on your broker, the products you traded (shares, options, CFDs/spread bets), and your client classification. If you’re unsure, prioritise verified contact with the broker and written records of what they tell you.
 
 ## Additional Resources
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/investments/spread-betting-contracts-differences-cfds
+- https://www.fca.org.uk/consumers/fca-firm-checker
 - https://www.fca.org.uk/consumers/how-complain
 - https://www.financial-ombudsman.org.uk/make-complaint
-- https://www.fca.org.uk/consumers/fca-firm-checker
+- https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
 - https://www.fscs.org.uk/what-we-cover/investments/
+- https://www.fca.org.uk/publications/policy-statements/ps19-18-restricting-contract-difference-products

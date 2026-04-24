@@ -1,98 +1,80 @@
----
+﻿---
 title: "What to do if… you are asked for a police report abroad for a stolen document and you do not know how to obtain one"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "police report abroad"
-  - "stolen document abroad"
-  - "stolen passport abroad"
-  - "report theft overseas"
-  - "stolen document help"
-  - "police report reference number"
-  - "obtain police report abroad"
-  - "stolen document police report"
-  - "asked for a police report"
-  - "stolen document reference"
-  - "obtain a report abroad"
-  - "police report for stolen document"
-  - "what do i do if my passport is stolen"
-  - "what do i do if i need a police report"
-  - "what do i do if my documents are stolen abroad"
-  - "what do i do if i cannot get a police report"
-  - "help i lost my passport abroad"
-  - "help i need a crime reference number"
-  - "help i am at a foreign police station"
-  - "my passport was stolen abroad"
-  - "denuncia for stolen passport"
-  - "tourist police report stolen"
-  - "insurance claim stolen document"
-  - "foreign language police report"
-  - "stamped police statement"
-  - "incident report for embassy"
-  - "emergency travel document report"
-  - "lost document written proof"
-  - "crime report overseas process"
-  - "british embassy police report"
-last_reviewed: "2026-03-17"
+  - police report abroad
+  - crime report overseas
+  - stolen document abroad
+  - stolen passport abroad
+  - lost passport abroad
+  - report theft to police
+  - embassy asked for police report
+  - consulate asked for report
+  - insurance needs police report
+  - crime reference number abroad
+  - tourist police report
+  - police report translation
+  - language barrier police station
+  - foreign police report copy
+  - stolen id abroad
+  - missing travel document
+  - replacement passport overseas
+  - emergency travel document
+  - proof of theft abroad
+  - denuncia police report
+  - police won't issue report
+last_reviewed: "2026-03-07"
 ---
-# What to do if… you are asked for a police report abroad for a stolen document and you do not know how to obtain one (UK)
 
+# What to do if… you are asked for a police report abroad for a stolen document and you do not know how to obtain one (UK)
 ## Short answer
-Visit the nearest local police station or tourist police within 24 hours to request a written report or a crime reference number. If the police refuse to issue a document, obtain written confirmation of the theft from a hotel manager, tour operator, or transport provider to use as alternative evidence for your embassy or insurer.
+Go to the local police (or “tourist police”) as soon as you safely can and ask for a reference number and any written confirmation they can provide (even a brief stamped note). If they cannot (or will not) issue anything, collect alternative written proof (hotel/transport/security) and contact the British embassy/consulate to keep the replacement process moving.
 
 ## Do not do these things
-- Do not pay cash to unauthorized individuals offering to "expedite" or "translate" a report outside the station.
-- Do not leave the police station without at least a reference number, a stamped slip, or the name and badge number of the officer who assisted you.
-- Do not wait until you return to the UK to report the theft; most insurers and the Foreign, Commonwealth & Development Office (FCDO) require evidence that you attempted to report it locally.
-- Do not hand over your original secondary ID (like a driving licence) to local police unless they are officially processing it; provide photocopies where possible.
-- Do not assume a report must be in English; a report in the local language is standard and can be translated later if required.
+- Do not pay cash to unofficial “helpers” outside police stations to “get you a report” — this can be a scam or a bribe risk.
+- Do not hand over your only remaining ID to anyone who is not clearly an official (and avoid letting it leave your sight if possible).
+- Do not assume “a police report” means one exact document — many countries only provide a reference number, a short statement, or an online confirmation.
+- Do not delay cancelling a stolen UK passport just because you’re stuck on the report step (cancelling protects you).
+- Do not post photos of your stolen documents, visas, or police paperwork on social media or send them to unknown addresses.
 
 ## What to do now
-1. **Locate the nearest police station or "tourist police" office immediately.**  
-   - Use a map service or ask a trusted official (hotel staff or airport information).  
-   - If in the EU, dial 112 for emergency directions to the nearest station if you are in immediate distress.
-2. **Prepare a written list of the stolen items and incident details.**  
-   - Include the date, time, and specific location of the theft.  
-   - Note the passport number (if known) or the type of document stolen.
-3. **Request a crime reference number or written statement from the officer.**  
-   - **State clearly that you need a "police report for insurance and embassy purposes."**  
-   - Ensure the document is stamped or signed by the local authority.
-4. **Use a translation tool or a trusted intermediary if there is a language barrier.**  
-   - **Ask your hotel manager or a tour representative to accompany you if possible.**  
-   - If alone, use a mobile translation app to explain: "My document was stolen. I need a written report for my embassy."
-5. **Record the details of the report and the station.**  
-   - **Take a clear photo of the report or reference number as soon as you receive it.**  
-   - Note the station name, address, and the name/badge number of the officer.
-6. **Obtain alternative proof if the police refuse to issue a report.**  
-   - **Ask for a written statement from your hotel, airline, or the venue where the theft occurred.**  
-   - Ensure this statement includes the date, a description of the event, and a signature from the provider.
-7. **Report your passport as lost or stolen to the UK government online.**  
-   - **Navigate to the official GOV.UK "Report a lost or stolen passport" page to cancel the document.**  
-   - This prevents identity theft and is a prerequisite for a replacement.
-8. **Apply for a UK Emergency Travel Document (ETD) if you need to travel urgently.**  
-   - **Complete the online application and be ready to provide the police reference number or evidence of your attempt to report the theft.**  
-   - The FCDO will review your case and provide instructions on where to collect the document.
-9. **Contact your travel insurance provider to log the claim.**  
-   - **Inform them of the police reference number or provide the alternative written proof you collected.**  
-   - Ask if they have specific requirements for translated documents.
+1. **Stabilise and write down the essentials (2 minutes).** Note: what was stolen, when/where you last had it, any suspect details, and *what you’re being asked for* (exact words: “police report”, “crime report”, “incident report”, “report number”, etc.). Take a photo/screenshot of any message requesting it.
+2. **Find the correct place to report it locally.**  
+   - Search for “police station” or “tourist police” for your current area.  
+   - If the theft happened in a transport hub (airport/train station), ask security or the help desk where reports are filed.
+3. **Go to the police and ask for the most useful minimum.**  
+   Say: “My document was stolen. I need a reference number and written confirmation for my embassy/insurance.”  
+   Ask specifically for:  
+   - a **reference number / crime number**, and  
+   - **any written confirmation** they can provide (copy, stamped note, slip, or online filing confirmation).
+4. **If there’s a language barrier, use a safer helper.** Ask your hotel reception, tour representative, employer HR (if on a work trip), or a trusted local contact to help translate. If they come with you, make sure **you** do the talking/signing and keep your documents with you.
+5. **If the police say they don’t issue reports for this: record the refusal + collect alternatives.**  
+   - Ask for *any* written confirmation (a note, stamp, or “incident logged” slip).  
+   - If they refuse, write down the **station name, address, date/time, and the officer’s name/badge number** (if available).  
+   - Then get a **written report from another relevant authority** tied to where it happened: hotel/host, tour operator, airline/rail/bus company, or venue security.
+6. **Contact your travel insurer (or card provider) and ask what they will accept.** Tell them what the local police can/can’t provide. Ask whether a reference number alone, an online filing confirmation, or a hotel/transport report is acceptable.
+7. **If the stolen document is your UK passport: cancel (report) it as lost or stolen as soon as possible.** This reduces the risk of misuse. Do this even if you still need to chase paperwork locally.
+8. **If you must travel urgently without your UK passport, consider a UK Emergency Travel Document (ETD).** Apply using the official process and be ready to explain what happened and provide whatever local documentation you were able to obtain (reference number, written confirmation, or proof you attempted to report).
+9. **Contact the nearest British embassy/consulate for document replacement steps.** Tell them: (a) what was stolen, (b) what proof you have (or why you can’t get a police report), and (c) your travel deadline. They can explain what documentation is typically accepted in your location and how to proceed.
 
 ## What can wait
-- You do not need a certified translation of the police report immediately; the FCDO and most insurers can accept the original for the initial report.
-- You do not need to wait for the police to investigate the crime before applying for travel documents; the "report" is merely a record of the event.
-- You do not need to replace every non-essential stolen item (like clothing or toiletries) before contacting the embassy.
+- You do not need to perfectly reconstruct every detail of the theft right now — you mainly need a reference number and a basic written record.
+- You do not need to decide today whether to keep pushing for a “full report” — if you hit a barrier, switch to alternative written proof and move the replacement process forward.
+- You do not need to cancel cards, replace everything, and contact everyone at once. Prioritise: **record/report → insurer → passport/doc replacement**.
 
 ## Important reassurance
-Local police in many countries are accustomed to tourists losing documents and often have a simplified "incident report" or "denuncia" process. Even if you cannot get a formal document, the British Embassy or Consulate is familiar with local police limitations and can usually help you proceed with an Emergency Travel Document if you can show you made a genuine effort to report the theft.
+This situation is common, and “police report” often means *any official record plus a reference number*. Even if the local police process is confusing or they won’t issue a full report, you can usually move forward by gathering alternative written confirmation and showing you tried promptly.
 
 ## Scope note
-This guide focuses on the immediate steps to obtain a record of theft for document replacement and insurance claims. It does not cover the legalities of foreign criminal investigations or long-term identity theft protection.
+These are first steps to get an acceptable record and unblock replacement/claims. Requirements vary by country and by the organisation asking for the report (insurer, airline, embassy), so the goal is to secure *something official now* and then confirm what will be accepted.
 
 ## Important note
-This information is for general guidance only. Local police procedures vary by jurisdiction and are subject to change. For specific legal or consular advice, contact your nearest British Embassy or High Commission.
+This guide provides general, practical information and is not legal advice. Local police procedures and what counts as a “report” vary widely. If you feel unsafe going to a police station, prioritise your safety and use a trusted intermediary (hotel/tour rep) and your insurer/consulate for options.
 
 ## Additional Resources
 - https://www.gov.uk/guidance/victim-of-crime-abroad
 - https://www.gov.uk/report-a-lost-or-stolen-passport
-- https://www.gov.uk/world/passports-and-emergency-travel-documents
-- https://www.gov.uk/foreign-travel-advice/spain/getting-help
-- https://www.gov.uk/government/collections/support-for-british-nationals-abroad
+- https://www.gov.uk/renew-adult-passport/replace
+- https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport
+- https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply

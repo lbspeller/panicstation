@@ -1,85 +1,92 @@
----
+﻿---
 title: "What to do if… your wheelchair tyre goes flat or a wheel locks up while you are away from home"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "wheelchair tyre flat away from home"
-  - "wheelchair puncture in public"
-  - "wheelchair wheel locks up outdoors"
-  - "wheelchair wheel won’t turn"
-  - "wheelchair stuck while out"
-  - "manual wheelchair flat tyre"
-  - "powerchair wheel won’t move"
-  - "mobility aid breakdown outdoors"
-  - "wheelchair breakdown on pavement"
-  - "wheelchair breakdown near traffic"
-  - "wheelchair stranded in town"
-  - "wheelchair jammed wheel debris"
-  - "quick release wheel problem"
-  - "brake stuck on wheelchair"
-  - "mobility scooter tyre flat"
-  - "powered wheelchair breakdown help"
-  - "wheelchair repair urgent"
-  - "wheelchair puncture no pump"
-  - "wheelchair tyre pressure loss"
-  - "what do i do if my wheelchair breaks down"
-  - "what do i do if my powerchair wheel jams"
-  - "what do i do if i am stranded in a wheelchair"
-  - "help i have a flat wheelchair tyre"
-  - "help my wheelchair wheel is stuck"
-  - "help my mobility scooter is broken"
-  - "wheelchair rim touching ground"
-  - "wheelchair dragging to one side"
-  - "burning smell from powerchair motor"
-  - "wheelchair clicking noise"
-  - "broken wheelchair in london"
-  - "wheelchair breakdown at train station"
-last_reviewed: "2026-03-17"
+  - wheelchair tyre flat away from home
+  - wheelchair puncture in public
+  - wheelchair wheel locks up outdoors
+  - wheelchair wheel won’t turn
+  - wheelchair stuck while out
+  - manual wheelchair flat tyre
+  - powerchair wheel won’t move
+  - mobility aid breakdown outdoors
+  - wheelchair breakdown on pavement
+  - wheelchair breakdown near traffic
+  - wheelchair stranded in town
+  - wheelchair jammed wheel debris
+  - quick release wheel problem
+  - brake stuck on wheelchair
+  - mobility scooter tyre flat
+  - powered wheelchair breakdown help
+  - wheelchair repair urgent
+  - wheelchair puncture no pump
+  - wheelchair tyre pressure loss
+last_reviewed: "2026-03-10"
 ---
-# What to do if… your wheelchair tyre goes flat or a wheel locks up while you are away from home (UK)
 
+# What to do if… your wheelchair tyre goes flat or a wheel locks up while you are away from home (UK)
 ## Short answer
-Move to a safer position immediately, stabilise the chair, and arrange professional recovery or an accessible transport alternative rather than attempting roadside repairs.
+Get yourself to a safer stopping place first, then treat this like a breakdown: don’t force the chair — stabilise it and arrange help/recovery rather than trying risky roadside fixes.
 
 ## Do not do these things
-- Do not continue to force a manual chair or drive a powerchair if a wheel is locked or a tyre is fully flat.
-- Do not attempt to repair the chair while positioned in a road, cycle lane, car park lane, or near a kerb edge.
-- Do not allow untrained members of the public to lift you or the chair without clear instructions on safe lifting points and your personal transfer needs.
-- Do not attempt a transfer to an unsuitable surface or in a high-traffic area unless the immediate danger of staying put is greater.
-- Do not remove wheels or adjust powerchair freewheel levers if you are on a slope or uneven ground.
+- Don’t keep pushing hard on a flat tyre or a locked wheel — it can tip you, damage the rim/motor, or make the problem worse.
+- Don’t try to “fix it in traffic” (kerb edge, road, cycle lane, car park lanes). Prioritise getting out of moving vehicles’ path.
+- Don’t let strangers lift you and the chair without agreeing exactly what’s happening (where hands go, what’s being lifted, and whether you can safely transfer).
+- Don’t attempt an unsafe transfer just to “get moving” unless staying put is clearly more dangerous.
+- Don’t remove wheels or adjust mechanisms you don’t already handle confidently at home.
 
 ## What to do now
-1. **Move yourself and the chair to the nearest point of relative safety.** This includes wide pavements, recessed shop doorways, bus shelters, or inside a public building or station. If you are stranded in live traffic and cannot move, **call 999** immediately and state that you are a wheelchair user in a dangerous road position.
+1. **Stop and make the scene safer.**
+   - Aim for the nearest “relative safety”: pavement, wide entrance, recessed doorway, bus stop area, or inside a station/shop.
+   - If you are stuck in a dangerous road position and cannot get to safety, **call 999** and say you are a wheelchair user stranded in live traffic and need urgent assistance.
 
-2. **Secure the chair and check your immediate surroundings.** Apply the manual brakes if they are functional and move your hands, clothing, and bags away from the wheels and casters. In a powerchair, turn the controller off to prevent accidental movement while you assess the situation.
+2. **Stabilise the chair before troubleshooting.**
+   - Put brakes on (manual chair) if you can do so safely.
+   - Keep hands/clothing clear of spokes, forks, and pinch points.
 
-3. **Identify the specific nature of the failure without using tools.** Visually check if a tyre is soft or if the metal rim is touching the ground, and look for visible debris like stones, mud, or bag straps caught in the casters or forks. For powerchairs, check the controller for fault codes, flashing lights, or beeping sequences.
+3. **Work out which problem you have (quick, no tools).**
+   - **Flat tyre:** the tyre looks/feels soft, squashed, or the rim feels closer to the ground.
+   - **Wheel lock/jam:** a wheel won’t rotate, scrapes, or the chair won’t move even though the tyre looks fine.
+   - **Powerchair issue:** it won’t drive, one side drags, or it beeps/shows a fault.
 
-4. **Seek assistance from staff if you are at a transport hub or public venue.** At UK rail stations, use the **Turn Up and Go** service by speaking to staff or using a Help Point; they are required to assist you even if you have not pre-booked Passenger Assist. If staff are not visible on a platform and you cannot alight or move, use the emergency passenger alarm to contact the driver.
+4. **If a wheel has locked up, do only the safest checks first.**
+   - Look for **debris** (stones, mud, clothing, bag straps) caught at the caster/wheel fork or between tyre and frame.
+   - Check that **brakes aren’t partly on** (manual chair) and nothing is rubbing the wheel.
+   - For powerchairs: don’t toggle drive/freewheel levers unless you’re sure what they do and you’re on level ground with someone steadying you.
 
-5. **Contact your specific breakdown provider if you lease your equipment.** If you have a powered wheelchair or scooter through the **Motability Scheme**, call **Motability Assist (Autohome) on 0800 953 5000**. If you have a Wheelchair Accessible Vehicle (WAV) that has failed, call **RAC Motability Assist on 0800 73 111 73**.
+5. **Get practical help where you are (don’t struggle alone).**
+   - Go into the nearest staffed place and ask: **“Can someone stay with me while I arrange assistance, and can we move me just inside/out of the flow?”**
+   - If you’re at a rail station, ask station staff for assistance. **Passenger Assist** can be booked in advance for help at stations and boarding/alighting; if you’re already there, staff may still be able to help on the day depending on staffing and station facilities.
+   - If you can’t find staff, use a station/help point/intercom where available, or ask a member of the public to help you contact someone you trust.
 
-6. **Arrange an accessible alternative for your onward journey.** Call a local accessible taxi firm or use a transport app to find a wheelchair-accessible vehicle (WAV) if the chair cannot be safely used. If you are in London and a station lift failure makes your journey impossible, TfL staff are required to arrange and pay for an accessible taxi to your destination or the next step-free station.
+6. **Arrange recovery/assistance rather than risky repairs.**
+   - If you lease a scooter/powered wheelchair via **Motability**, use Motability’s support for scooters/powered wheelchairs (breakdown/repairs) to arrange the next step.
+   - Otherwise, call your wheelchair supplier/repairer (number often on a sticker, paperwork, or your chair documentation) and ask about urgent support.
+   - If you need to get home and the chair can’t roll safely, arrange **an accessible taxi / suitable lift**, or ask a trusted contact to pick you up.
 
-7. **Perform only low-risk adjustments if you are in a secure, indoor location.** Only attempt to use a portable pump if you are confident in the correct pressure (PSI) listed on the tyre sidewall and the chair is on a level surface. Avoid removing the wheel or inner tube while stranded, as this may leave you completely immobile if the repair fails.
+7. **If you carry a kit and you’re safely indoors, do only the lowest-risk step.**
+   - If you know your tyres are **air-filled** and you have a pump: inflate only within the correct range for your tyre/chair (often printed on the tyre sidewall or in your chair documentation). **Do not exceed the stated maximum.**
+   - If you don’t already remove wheels/tubes confidently in normal conditions, don’t attempt it while stranded — prioritise recovery and a proper repair.
 
 ## What can wait
-- You do not need to determine the cause of the puncture or lock-up immediately.
-- You do not need to decide on permanent repairs or replacement parts while in a public area.
-- You do not need to worry about the cost of recovery or taxi fares until you are in a safe, sheltered location.
+- You do not need to decide today whether you need a new tyre, a new tube, a new wheel, or a service.
+- You do not need to diagnose exactly why it happened before you get to safety.
+- You do not need to deal with cost/complaints while you’re stranded — focus on getting safe and indoors first.
 
 ## Important reassurance
-A mechanical failure when you are alone can feel like a total loss of independence, and it is normal to feel a sudden spike of panic or vulnerability. By stopping and switching to "breakdown mode," you are taking the most professional and safe approach to resolving the situation.
+A sudden wheelchair problem away from home can cause an instant panic spike — it’s your mobility and safety on the line. Switching to “breakdown mode” (get safe → stabilise → ask for help → arrange recovery) is a calm, practical response.
 
 ## Scope note
-This guide provides first-step stabilisation and safety actions for the minutes following a wheelchair failure. It does not cover technical repairs, long-term maintenance, or medical advice for injuries sustained during a breakdown.
+These are first steps for the next minutes to a couple of hours — getting safe, avoiding injury, and arranging help. Repairs, parts, and longer-term maintenance decisions come later with your usual provider.
 
 ## Important note
-This information is for general guidance and does not replace the specific safety instructions provided by your wheelchair manufacturer or the terms of your insurance or lease agreement. If you are in a life-threatening situation or stuck in live traffic, always contact emergency services by calling 999.
+This is general information, not medical, legal, or engineering advice. If you are in immediate danger (for example, stuck in live traffic) call 999. If you’re unsure whether moving the chair could cause a fall or injury, treat it as unsafe and get assistance.
 
 ## Additional Resources
 - https://www.motability.co.uk/get-support/if-something-happens/scooters-wheelchairs/tyres-and-batteries/
-- https://news.motability.co.uk/scheme-news/motability-assist-the-breakdown-service-for-scooter-and-powered-wheelchair-customers/
-- https://www.motability.co.uk/get-support/contact/breakdown/
-- https://www.nhs.uk/social-care-and-support/care-services-equipment-and-care-homes/walking-aids-wheelchairs-and-mobility-scooters/
-- https://www.redcross.org.uk/get-help/hire-a-wheelchair
+- https://news.motability.co.uk/motoring/what-to-expect-if-your-mobility-scooter-or-powered-wheelchair-needs-a-repair/
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
+- https://www.nationalrail.co.uk/help-and-assistance/passenger-assist/
+- https://www.networkrail.co.uk/rail-travel/assisted-travel/
+- https://tfl.gov.uk/transport-accessibility/help-from-staff

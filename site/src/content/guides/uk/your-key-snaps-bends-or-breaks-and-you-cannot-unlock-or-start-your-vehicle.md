@@ -1,95 +1,85 @@
----
+﻿---
 title: "What to do if… your key snaps, bends, or breaks and you cannot unlock or start your vehicle"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "car key snapped"
-  - "broken car key"
-  - "snapped key in lock"
-  - "bent vehicle key"
-  - "key broke in ignition"
-  - "key snapped in door"
-  - "stuck key fragment"
-  - "ignition barrel jam"
-  - "broken blade in car"
-  - "what do i do if my car key snapped"
-  - "what do i do if my key broke in the lock"
-  - "what do i do if i can't start my car"
-  - "what do i do if my ignition is jammed"
-  - "help i snapped my car key"
-  - "help i broke my key in the ignition"
-  - "my key blade is stuck in the car"
-  - "my car key is bent and won't turn"
-  - "metal fragment in car lock"
-  - "key won't go into ignition"
-  - "snapped off key car"
-  - "bent key stuck in door"
-  - "shards of metal in lock"
-  - "emergency car key extraction"
-  - "mobile auto locksmith help"
-  - "v5c logbook for new key"
-  - "replacement car key uk"
-  - "broken key blade extraction"
-  - "ignition key snapped off"
-  - "car door lock jammed broken key"
-  - "immobilizer chip broken key"
-last_reviewed: "2026-03-17"
+  - car key snapped
+  - key broke in lock
+  - key broke in ignition
+  - bent car key
+  - snapped key stuck
+  - broken key in door
+  - broken key in ignition barrel
+  - key won't turn ignition
+  - can't unlock car
+  - can't start car key
+  - stranded with broken key
+  - key stuck in ignition
+  - key snapped off in door
+  - immobiliser key chip broken
+  - spare car key missing
+  - roadside assistance key problem
+  - locksmith car key extraction
+  - key fob works but blade broken
+  - steering lock jammed key
+last_reviewed: "2026-03-12"
 ---
-# What to do if… your key snaps, bends, or breaks and you cannot unlock or start your vehicle (UK)
 
+# What to do if… your key snaps, bends, or breaks and you cannot unlock or start your vehicle (UK)
 ## Short answer
-Stop attempting to turn the key immediately to prevent permanent damage to the lock or ignition barrel. Move to a safe location and contact an auto locksmith or your breakdown provider for professional extraction.
+Stop forcing the key. Make the scene safe, then use a spare key or contact breakdown cover/an auto locksmith to avoid damaging the lock or ignition.
 
 ## Do not do these things
-- Do not apply additional pressure, twist, or wiggle a bent or partially snapped key.
-- Do not attempt to push the broken fragment further into the lock by inserting tools or the remaining half of the key.
-- Do not use superglue, magnets, or household oils (like WD-40) unless specifically instructed by a professional, as these can ruin electronic sensors and mechanical pins.
-- Do not attempt to "hotwire" or bypass the ignition, as this may trigger the vehicle's immobilizer or deadlock system.
-- Do not stay with the vehicle if it is stopped in a live lane or a dangerous position on a motorway.
+- Don’t keep twisting, yanking, or “just trying a bit harder” with a bent/broken key.
+- Don’t push a broken fragment deeper into the door lock or ignition with tools or another key.
+- Don’t add household oil/grease or random sprays into the lock/ignition; don’t add anything unless your owner’s manual or a professional specifically advises it.
+- Don’t leave the vehicle in an unsafe place while you troubleshoot (hard shoulder, live lane, blind bend).
+- Don’t let anyone force the lock/ignition unless you fully trust them and it’s clearly safe.
 
 ## What to do now
-1. **Prioritize your physical safety if the vehicle is on a public road.** 
-   - If stopped on a motorway or high-speed A-road, attempt to reach an Emergency Area (EA) or the hard shoulder.
-   - Switch on your hazard lights, exit the vehicle via the passenger-side door, and wait behind the safety barrier.
-   - If the vehicle is in a live lane or a high-risk position, call 999 or 112; for non-emergency motorway assistance, call National Highways on 0300 123 5000.
+1. **Make the situation safe first.**
+   - If you’re in or near moving traffic, switch on hazard lights and get yourself (and passengers) to a safer place nearby before you focus on the key.
+   - If you’re stopped somewhere dangerous (for example a motorway/live lane) or you feel at immediate risk, **call 999 and ask for the police**.
 
-2. **Verify if the vehicle can be accessed or started using electronic backups.** 
-   - Use the remote unlock button on the key fob if the blade is the only part that is broken.
-   - For push-to-start vehicles with a broken emergency blade, refer to the owner's manual to find the "passive start" location (usually a symbol on the steering column or center console) where you can hold the fob to start the engine.
+2. **Try to use the car without the damaged blade (if possible).**
+   - If your remote/fob still works, **unlock with the fob** and avoid using the damaged key blade.
+   - If your car is keyless/push-to-start and won’t detect the fob, use the **backup/emergency start method in your owner’s manual** (many cars have a specific “reader” point where the fob must be held).
 
-3. **Assess the visibility of the broken fragment without touching it.** 
-   - Check if enough of the metal blade is protruding to be gripped by fine-nosed pliers.
-   - If the fragment is flush with the lock or deep inside, do not attempt to retrieve it yourself.
+3. **If part of the key is visible, only try a gentle, low-risk removal.**
+   - If the broken piece is clearly sticking out and you can grip it **without pushing it further in**, try a careful straight pull with fine pliers.
+   - **Stop immediately** if it doesn’t come out easily—forcing it can damage the lock/ignition and make the job harder.
 
-4. **Attempt a single, gentle extraction only if a significant portion of the key is visible.** 
-   - Use a pair of needle-nose pliers to grip the protruding metal and pull straight outward without twisting.
-   - Stop immediately if you feel any resistance or if the fragment slips further in.
+4. **Use a spare key or arrange for it to be brought to you.**
+   - Call someone you trust who can bring the spare key.
+   - If you’re away from home, check only the spare-key options you control (secure bag, wallet key, trusted person)—don’t waste time if you’re roadside.
 
-5. **Contact a specialist auto locksmith or your breakdown recovery service.** 
-   - Call your breakdown provider and specify that you have a "key extraction and immobilizer issue."
-   - Note that standard breakdown cover may only tow the vehicle and might not include the cost of a new key; check if you have separate "Key Cover" insurance.
+5. **Get the right help for extraction/replacement.**
+   - If you have breakdown cover, contact them and say **“key snapped/bent/broken — possible fragment in door lock/ignition”** so they send suitable help.
+   - If you don’t, contact a **reputable auto locksmith** for extraction and replacement.
+   - If you cannot secure the vehicle (can’t lock it) and it’s unsafe to leave, ask about **moving/towing** it to a safer location.
 
-6. **Gather the necessary documentation for a replacement key.** 
-   - Locate your V5C registration certificate (logbook) and a valid photo ID (driving licence or passport), as locksmiths require these to cut and program a new key.
-   - Keep all pieces of the broken key, as the fragment can often be used to identify the correct "key code" for cutting a replacement.
+6. **Prepare essentials for a replacement key (without delaying safety).**
+   - Keep **both pieces** of the key.
+   - Have your **vehicle make/model/year** and your **exact location** ready.
+   - Be ready to show **ID and proof you own/use the vehicle** (often required before cutting/programming).
 
 ## What can wait
-- You do not need to replace the entire ignition barrel or door lock immediately; a professional can often extract the fragment without damaging the housing.
-- You do not need to contact your vehicle's main dealership right away, as mobile auto locksmiths are usually faster and more cost-effective for roadside emergencies.
-- You do not need to determine why the key broke (wear, fatigue, or lock seizing) until the vehicle is in a secure location.
+- You don’t need to decide right now whether a dealership or locksmith is “best”—focus on safe access and avoiding damage.
+- You don’t need to diagnose the cause (wear in the key/lock/ignition) while you’re stranded.
+- You don’t need to attempt online “hacks” for extraction—those often make it worse.
 
 ## Important reassurance
-Broken keys are a standard mechanical failure handled daily by recovery services. While the situation is frustrating, modern extraction tools can almost always remove a fragment without the need for expensive lock replacements, provided the lock has not been forced.
+This is a common, fixable problem. Stopping early—before you force the key or the lock—often prevents a bigger repair and gets you moving sooner.
 
 ## Scope note
-This guide provides first-step stabilization for a mechanical key failure. It does not cover long-term vehicle security reprogramming or complex ignition repairs.
+These are first steps to stabilise the situation and avoid making it worse. Once you’re safe and have access to the vehicle, a locksmith/dealer can advise on replacement and any underlying wear.
 
 ## Important note
-Vehicle security protocols and keyless entry systems vary significantly by manufacturer. Always prioritize personal safety over vehicle access, especially in traffic. Professional locksmiths in the UK are not centrally regulated, so it is recommended to use members of the Master Locksmiths Association (MLA) for guaranteed vetting and competence.
+This is general information, not mechanical or legal advice. Vehicle security systems vary. If anything feels unsafe (your location, traffic risk, personal safety), prioritise emergency help and getting to a safer place first.
 
 ## Additional Resources
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
+- https://nationalhighways.co.uk/road-safety/driving-on-motorways/
 - https://www.theaa.com/breakdown-cover/key-assist
 - https://www.theaa.com/driving-advice/security/keys
-- https://www.rac.co.uk/car-care/car-repairs/key-programming-and-codes
-- https://www.rac.co.uk/drive/advice/know-how/help-my-car-wont-start-what-do-i-do/
-- https://www.theaa.com/car-insurance/advice/replacement-car-keys
+- https://www.rac.co.uk/drive/advice/driving-advice/what-to-do-if-you-breakdown-on-the-motorway/

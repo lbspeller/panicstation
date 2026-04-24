@@ -1,88 +1,81 @@
----
+﻿---
 title: "What to do if… you learn private sexual rumours about you are spreading and you suspect a specific person started them"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "sexual rumours about me"
-  - "private sexual rumour spreading"
-  - "false sexual gossip"
-  - "sexual reputation rumour"
-  - "intimate rumours going around"
-  - "someone is spreading sex rumours"
-  - "accused of sexual behaviour"
-  - "slut shaming rumours"
-  - "targeted sexual gossip"
-  - "online sexual rumours"
-  - "rumours on social media about sex"
-  - "group chat sexual rumours"
-  - "workplace sexual rumours"
-  - "school sexual rumours"
-  - "i think i know who started it"
-  - "suspect a specific person"
-  - "defaming sexual rumours"
-  - "private life rumour leak"
-  - "panic about sexual gossip"
-  - "my reputation is being ruined"
-  - "help i am being gossiped about"
-  - "what do i do if people are talking about my sex life"
-  - "rumours about my sexual history"
-  - "malicious gossip about me"
-  - "lies about my private life"
-  - "sex gossip at work"
-  - "sexual lies in school"
-  - "feeling shamed by rumours"
-  - "someone is lying about my body"
-  - "sexual harassment rumours"
-last_reviewed: "2026-03-17"
+  - sexual rumours about me
+  - private sexual rumour spreading
+  - false sexual gossip
+  - sexual reputation rumour
+  - intimate rumours going around
+  - someone is spreading sex rumours
+  - accused of sexual behaviour
+  - slut shaming rumours
+  - sexual harassment by rumours
+  - targeted sexual gossip
+  - online sexual rumours
+  - rumours on social media about sex
+  - group chat sexual rumours
+  - workplace sexual rumours
+  - school sexual rumours
+  - i think i know who started it
+  - suspect a specific person
+  - defaming sexual rumours
+  - private life rumour leak
+  - panic about sexual gossip
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you learn private sexual rumours about you are spreading and you suspect a specific person started them (UK)
 
 ## Short answer
-Do not confront the person you suspect or attempt to "clarify" the rumour publicly. Secure digital evidence immediately and use formal institutional reporting routes (HR, Safeguarding, or Police) to contain the spread and protect your safety.
+Don’t confront the person you suspect yet. Quietly contain the spread, save what you can without recirculating it, and use a formal route (platform reporting, HR/safeguarding, or police if it’s harassment/threatening).
 
 ## Do not do these things
-- Don’t confront or message the person you suspect right now as this often leads to escalation or "counter-claims" of harassment.
-- Don’t delete the original posts or messages even if they are distressing, as these are your primary evidence.
-- Don’t "correct the record" in public comments or group chats, as this often amplifies the reach of the rumour.
-- Don’t forward screenshots to others to "show them what is being said" because this recirculates the harmful content.
-- Don’t attempt to "hack" or gain unauthorized access to accounts to find the source.
-- Don’t threaten the suspected person or post their details online in retaliation.
+- Don’t confront or message the person you suspect right now (it can escalate and can complicate reporting).
+- Don’t “correct the rumour” publicly in the same spaces where it’s circulating (it usually amplifies it).
+- Don’t forward screenshots around “for proof” (that spreads the content and increases harm).
+- Don’t go hunting for more examples in multiple chats/accounts (it increases distress and can create more circulation).
+- Don’t threaten retaliation or post identifying details about anyone in anger.
 
 ## What to do now
-1. **Move to a safe digital distance and secure one trusted ally.** Step away from the device or app where the rumour is circulating for at least ten minutes to reduce immediate physiological shock. Contact one trusted person and ask them to sit with you or stay on the phone while you take the following practical steps.
-2. **Preserve every instance of the rumour using high-quality screenshots.** **Take screenshots that clearly show the content, the account handle or phone number of the sender, the specific group name, and the date/time stamp.**
-   - Copy the URL (web address) of any public or semi-public posts.
-   - Save these files to a secure, private folder or a cloud drive that only you can access.
-3. **Use platform reporting tools to flag the content as harassment or sexual abuse.** **Submit reports through the app’s internal "Report" function specifically choosing categories like "Harassment," "Bullying," or "Non-consensual sexual content."**
-   - Once reported and screenshotted, use the "Block" or "Mute" functions to stop the content from appearing on your own feed.
-4. **Initiate a formal workplace report if the rumour involves colleagues or work settings.** **Email your HR department or a senior manager stating that you are experiencing sex-based harassment through the spread of malicious rumours.**
-   - Under the 2026 Employment Rights framework, ask specifically for "interim preventative measures" such as a change in seating, rota adjustments, or a formal "no-contact" instruction between you and the suspected party while the matter is investigated.
-5. **Contact the Designated Safeguarding Lead (DSL) if this is occurring in a school or college.** **Ask for an immediate meeting with the DSL and state that you are being targeted by sexual harassment/rumours.**
-   - Schools are required to act on the assumption that such rumours can cause significant harm and must provide a safety plan to prevent further peer-on-peer abuse.
-6. **Report the situation to the police via 101 or online if it constitutes a "course of conduct."** **If there have been two or more related incidents, or if the rumours include threats or sexual images, report this as harassment or a malicious communications offence.**
-   - If the rumours are being spread because of your sex, mention the "Protection from Sex-based Harassment in Public Act 2023" protocols.
-   - Call **999** if the suspected person is currently outside your home, following you, or making immediate threats of physical or sexual violence.
-7. **Deploy a single, neutral "stop" message to anyone who directly asks you about the rumour.** **Use the phrase: "I am aware of the false rumours and the matter is being handled through formal channels; I will not be discussing it further."**
-   - Copy and paste this exact response to anyone who messages you, then immediately archive or mute the chat.
+1. **Get to a calmer pause and pick one ally.** Step away from the rumour thread for a few minutes. Contact one trusted person (friend/family/colleague) and tell them you need help staying calm while you take practical steps.
+2. **Preserve what’s already in front of you—privately.** Take screenshots showing the rumour, the account names, the group/platform, and the date/time. If there’s a URL, save it. Put everything in one private place.  
+   - If you *may* want to report later, **avoid deleting your own relevant messages** for now—just stop engaging.
+3. **Use the platform/group controls to slow the spread.**
+   - **Report** the post/messages using the platform’s in-app tools.
+   - **Block** accounts involved.
+   - In group chats, **mute** and stop replying. If there’s an admin/moderator, ask them *privately* to remove posts and warn members.
+4. **If this touches work, use a formal work route (not the chat).**
+   - Tell HR/your manager: “Sexual rumours about me are being spread. It’s harassment and it’s affecting my safety/wellbeing. I want this handled formally and confidentially.”  
+   - Ask for **interim protections** while it’s addressed (for example: no-contact, changing seating/rota, limiting who can message you about it).
+5. **If this touches school/college/university, use safeguarding.**
+   - Ask to speak to the **safeguarding lead** (or equivalent senior staff). Say: “Sexual rumours about me are spreading and I’m being targeted.”  
+   - Ask what immediate steps they can take to reduce contact, stop in-school circulation, and protect you from retaliation.
+6. **If it feels like harassment, threats, stalking, or a pattern, contact police.**
+   - If you feel in immediate danger, call **999**.
+   - If not immediate danger, call **101** (or use your local force’s online reporting) and describe: what’s being said, where it’s spreading, how often, and how it’s affecting your safety and daily life.
+7. **Use a one-line boundary for anyone who asks.** “That rumour is false and I’m dealing with it through the proper channels.” Then stop responding.
 
 ## What can wait
-- You do not need to identify the "original" source of the rumour today; official investigations are better equipped for this.
-- You do not need to explain your actual sexual history or private life to "disprove" the lies.
-- You do not need to decide on a defamation lawsuit or legal civil action in the first 24 hours.
-- You do not need to check for "new" mentions of the rumour; once you have reported it, let the formal process take over the monitoring.
+- You do **not** need to prove who started it today (even if you strongly suspect).
+- You do **not** need to share details of your private life to defend yourself.
+- You do **not** need to decide now whether to take legal action—containment and safety come first.
+- You do **not** need to monitor every mention; constant checking can worsen panic.
 
 ## Important reassurance
-Sexual gossip is specifically designed to make the target feel isolated and ashamed. The panic you are feeling is a common response to a violation of privacy, not a reflection of the truth of the rumours. By moving the issue into formal, documented channels, you are shifting the burden of "proof" and "consequences" away from yourself and onto the process.
+Sexual rumours are meant to trigger shame and urgency. Feeling panicked, angry, numb, or embarrassed is a normal reaction. Slowing down and using formal channels is often the safest way to regain control.
 
 ## Scope note
-This guide provides first-step stabilization and evidence-gathering procedures only. It does not cover long-term legal strategy for defamation or the specifics of a full police investigation.
+These are first steps to reduce harm and stabilise the situation. Later steps (formal complaints, longer-term support, and any legal options) may need specialist help.
 
 ## Important note
-This information is for guidance only and does not constitute legal or professional advice. UK laws regarding harassment (Protection from Harassment Act 1997) and malicious communications require specific evidence of a "course of conduct" or "intent to cause distress." For specialized legal support, contact Citizens Advice or the Rights of Women advice line.
+This is general information, not legal advice. If you’re at immediate risk, call 999. If you’re not in immediate danger but feel targeted or unsafe, it’s reasonable to use your organisation’s formal routes (HR/safeguarding) and ask police for advice on harassment.
 
 ## Additional Resources
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
+- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
+- https://www.gov.uk/workplace-bullying-and-harassment
+- https://www.acas.org.uk/discrimination-and-the-law/harassment
+- https://www.acas.org.uk/handling-a-bullying-discrimination-complaint
 - https://www.citizensadvice.org.uk/law-and-courts/discrimination/taking-action-about-discrimination/taking-action-about-harassment/
-- https://www.gov.uk/report-crime
-- https://revengepornhelpline.org.uk/
-- https://www.suzylamplugh.org/am-i-being-stalked-tool
-- https://www.victimsupport.org.uk/crime-info/types-crime/sexual-harassment/

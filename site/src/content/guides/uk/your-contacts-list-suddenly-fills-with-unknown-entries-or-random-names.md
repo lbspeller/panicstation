@@ -1,109 +1,94 @@
----
+﻿---
 title: "What to do if… your contacts list suddenly fills with unknown entries or random names"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "device linked to unknown account"
-  - "activated to account i don’t recognise"
-  - "activation lock i don’t own"
-  - "iphone activation locked"
-  - "ipad linked to someone else"
-  - "android frp locked"
-  - "google account on phone not mine"
-  - "microsoft account linked device"
-  - "windows says linked to another account"
-  - "bought used phone locked"
-  - "refurbished device activation issue"
-  - "second hand device account locked"
-  - "setup asks for previous owner login"
-  - "device says managed by organisation"
-  - "work or school device management"
-  - "locked out after reset"
-  - "suspicious activation message"
-  - "device ownership dispute"
-  - "unknown apple account on device"
-  - "iphone locked to owner"
-  - "factory reset protection screen"
-  - "linked to unknown email"
-  - "what do i do if my phone is activation locked"
-  - "help i bought a locked phone"
-  - "my device is linked to an unknown account"
-  - "what do i do if setup asks for previous owner"
-  - "help my phone says managed by organisation"
-  - "what do i do if activation lock is on"
-  - "smell of burning electronic"
-  - "device feels unusually hot"
-  - "screen shows unknown email address"
-  - "message says contact your administrator"
-  - "cannot bypass google account"
-  - "locked iphone second hand"
-  - "how to remove previous owner account"
-  - "activation lock on used ipad"
-  - "phone linked to someone else's apple id"
-last_reviewed: "2026-03-17"
+  - contacts list filled with strangers
+  - unknown contacts suddenly appearing
+  - random names in contacts
+  - phone contacts duplicated and scrambled
+  - icloud contacts look wrong
+  - google contacts suddenly changed
+  - outlook contacts synced weird
+  - account sync gone wrong
+  - hacked account warning sign
+  - suspicious contacts after app install
+  - contacts imported without permission
+  - address book suddenly changed
+  - contacts list corrupted
+  - someone added contacts to my phone
+  - new contacts i don’t recognise
+  - contact sync loop
+  - phone compromised concern
+  - contacts hijacked
+  - unexpected entries in address book
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your contacts list suddenly fills with unknown entries or random names (UK)
 
 ## Short answer
-Do not enter any passwords, personal details, or one-time codes into the prompt or any links sent to you. Secure your own digital accounts from a separate, trusted device and contact the seller or official manufacturer support to verify the device's status.
+Pause contacts syncing and secure the account that controls your contacts (usually your Apple Account/iCloud, Google, Microsoft, or work account) before you delete anything.
 
 ## Do not do these things
-- Do not pay for third-party "FRP bypass" or "Activation Lock removal" services found online; these are frequently scams or contain malware.
-- Do not click links in SMS or emails claiming your "lost" or "found" device has been located; these are often phishing attempts to steal your credentials.
-- Do not repeatedly attempt to guess passwords on the device, as this can trigger permanent hardware lockouts or data wipes.
-- Do not share photos of your ID or the device's serial number with unverified individuals who contact you claiming to be "support."
-- Do not attempt to physically open the device or bypass security chips, which can cause permanent damage.
+- Don’t start mass-deleting contacts yet — you can wipe your real contacts and make recovery harder.
+- Don’t message or call the unknown entries “to see who they are” — that can confirm your number is active.
+- Don’t install random “cleaner” or “contacts fix” apps — some are data-harvesting.
+- Don’t share one-time codes (texts, authenticator prompts) with anyone, even if they claim to be “support”.
 
 ## What to do now
-1. **Document the exact message and device identifiers.**
-   **Take a photo of the screen showing the lock message, including any partial email addresses or organisation names displayed.**
-   - Locate the Serial Number or IMEI (usually on the SIM tray, back of the device, or the original box).
-   - Save copies of your purchase receipt, listing, and all correspondence with the seller.
+1. **Stop the spread for a moment (sync pause).**
+   - Prefer turning off **Contacts syncing** for the main account (iCloud/Google/Microsoft) rather than full Airplane Mode if you think you’ll need to receive sign-in codes or calls.
 
-2. **Identify the specific type of lock displayed on the screen.**
-   **Check for wording that indicates whether the lock is for a personal account or an organisation.**
-   - Personal Lock: "iPhone Locked to Owner," "This device is linked to an Apple Account," or "Verify your account" (Google/Android).
-   - Organisation Lock: "Remote Management," "Managed by [Organisation Name]," "MDM," "Configuration Profile," or "Company Portal."
+2. **Make a quick backup/export of what you currently have (before changes).**
+   - Export contacts from the main account (for example a vCard/CSV export), if you can.
+   - If you can’t export, take a few screenshots showing examples of the random entries and the time you noticed.
 
-3. **Secure your own primary accounts from a different, trusted device.**
-   **Sign in to your Apple, Google, or Microsoft account on a separate computer or phone to ensure your own security has not been breached.**
-   - Change your password if you suspect the device was previously linked to your own account.
-   - Review "Signed-in Devices" or "Active Sessions" and remove any devices you do not recognise.
-   - Confirm that two-factor authentication (2FA) is active and the recovery phone number is correct.
+3. **Check whether an account takeover is likely.**
+   - Look for: password reset emails you didn’t request, “new sign-in” alerts, unknown devices logged in, new forwarding/recovery email/phone you didn’t add, or new apps with access.
+   - If any of these are present, treat it as a **compromised account**.
 
-4. **Contact the seller immediately if the device was purchased second-hand.**
-   **Request that the seller removes the device from their account remotely (via iCloud.com/find or Google's "Find My Device").**
-   - If the seller cannot or will not remove the lock, initiate a return or refund request through the platform used (e.g., eBay, Amazon, or your credit card provider).
-   - Avoid "troubleshooting" with the seller if they ask you to wait more than 24 hours for a "system update" to clear the lock.
+4. **Secure the account that syncs contacts (do this even if you’re not sure).**
+   - Change the password for that account **from a trusted device** (ideally a computer you control).
+   - Turn on **two-step verification** (or confirm it’s on).
+   - Review and remove **unknown devices** connected to the account.
+   - Review and revoke **third-party app access** you don’t recognise (apps that can read/manage contacts).
 
-5. **Utilise official manufacturer support for legitimate ownership disputes.**
-   **Contact the manufacturer directly if you are the original owner and have the valid proof of purchase.**
-   - Apple: Use the official "Activation Lock support request" portal.
-   - Android: Contact the brand manufacturer (e.g., Samsung, Google, Sony) and provide the original invoice showing the IMEI/Serial Number.
+5. **Check your phone for management profiles/work accounts that might be injecting contacts.**
+   - If this is a work phone or you’ve ever installed a workplace profile (MDM), school account, or “device management” profile, it may be pulling a shared directory into Contacts.
+   - If you’re not sure, pause and contact your IT/helpdesk before removing profiles you need for work access.
 
-6. **Report suspicious contact or potential fraud to the authorities.**
-   **Forward any phishing texts to 7726 and suspicious emails to report@phishing.gov.uk.**
-   - If you have lost money or believe the device is stolen, report it to Report Fraud (England, Wales, and Northern Ireland) at reportfraud.police.uk or call 0300 123 2040.
-   - If you are in Scotland, report the incident to Police Scotland by calling 101.
-   - If you believe your bank details are at risk, call 159 to be connected to your bank's fraud department.
+6. **Identify the source by comparing devices.**
+   - Check another device signed into the same account (tablet/laptop/web contacts page).
+   - If the random contacts appear there too, it’s likely **account/sync-side** (not just the phone).
+
+7. **Recover safely (after you’ve secured and backed up).**
+   - If you use **iCloud**, use iCloud.com **Data Recovery → Restore Contacts** to roll back to an earlier archived version (where available).
+   - If you use **Google Contacts**, use **Undo changes** (available for changes within the past 30 days).
+   - Then delete any remaining unknown entries from the **web contacts** view so you’re cleaning the “source of truth,” not just one device.
+
+8. **If you lost money, were scammed, or suspect criminal access, report it.**
+   - In **England/Wales/Northern Ireland**, report to **Report Fraud** (this replaced Action Fraud as the public reporting route).
+   - In **Scotland**, report via **Police Scotland** (101 for non-emergency; 999 in an emergency).
 
 ## What can wait
-- You do not need to decide on a permanent replacement for the device immediately while the refund or support process is active.
-- You do not need to worry about the data on the device if it is locked; modern encryption generally prevents the previous owner or a third party from accessing your files while the lock is active.
-- You do not need to respond to aggressive or threatening messages from a seller; keep the evidence and route all communication through official platform dispute channels.
+- You do **not** need to decide today whether to factory reset your phone.
+- You do **not** need to contact every person in your address book.
+- You do **not** need to “clean” everything perfectly right now — the priority is stopping syncing damage and locking the account.
 
 ## Important reassurance
-Seeing an unknown account linked to your device is a common issue with refurbished or second-hand electronics. It is usually a result of a previous owner forgetting to sign out rather than a targeted hack. By refusing to enter your credentials into unknown prompts, you have already taken the most important step in protecting your data.
+This can be caused by a sync/import mishap (for example after adding an email/work account or granting a new app access) and it can also be an early sign of account compromise. Securing the account first is the safest move and helps prevent irreversible loss of your real contacts.
 
 ## Scope note
-This guide provides first-step stabilization for identifying and responding to account locks. It does not cover technical bypass methods or legal representation for ownership disputes.
+These are first steps to stabilise the situation and prevent further loss or exposure. If you confirm account compromise, you may need additional steps (email security, banking checks, identity protection), but those can come after the contact changes stop.
 
 ## Important note
-This information is for general guidance and does not constitute legal or technical advice. Official recovery processes vary by manufacturer and require specific proof of purchase. If you suspect you are in possession of stolen property or are being harassed, contact the police on 101.
+This guide is general information, not professional IT, legal, or security advice. If you’re on a managed work device, your employer’s policies and IT tools may change what you can safely remove and how recovery works.
 
 ## Additional Resources
-- https://support.apple.com/en-gb/102560
-- https://support.google.com/accounts/answer/6294825?hl=en
-- https://support.microsoft.com/en-gb/office/phishing-and-suspicious-behavior-in-outlook-0d882ea5-eedc-4bed-aebc-079ffa1105a3
-- https://www.ncsc.gov.uk/guidance/data-breaches
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://support.apple.com/en-gb/102508
+- https://support.apple.com/en-gb/guide/icloud/mm1d9cfdb498/icloud
+- https://support.google.com/contacts/answer/7280886
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/

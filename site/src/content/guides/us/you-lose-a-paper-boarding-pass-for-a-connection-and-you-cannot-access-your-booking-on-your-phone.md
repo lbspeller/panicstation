@@ -1,98 +1,79 @@
----
+﻿---
 title: "What to do if… you lose a paper boarding pass for a connection and you cannot access your booking on your phone"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "lost boarding pass"
-  - "lost boarding card"
-  - "paper boarding pass missing"
-  - "boarding pass lost during layover"
-  - "connection boarding pass lost"
-  - "layover boarding pass missing"
-  - "cannot access booking"
-  - "cannot open booking on phone"
-  - "phone dead at airport"
-  - "phone lost while travelling"
-  - "no service to pull boarding pass"
-  - "no internet at airport"
-  - "forgot confirmation number"
-  - "cannot find record locator"
-  - "cannot access email confirmation"
-  - "stuck at airport without pass"
-  - "boarding pass barcode unavailable"
-  - "cannot find gate for connection"
-  - "cannot get through security"
-  - "missed connection paperwork lost"
-  - "help i lost my boarding pass"
-  - "help i cannot find my ticket"
-  - "help i lost my connection pass"
-  - "what do i do if i lost my boarding pass"
-  - "my boarding pass is missing"
-  - "my phone is dead and i lost my pass"
-  - "missing flight document for connection"
-  - "smell of jet fuel at gate"
-  - "visible flight display board"
-  - "lost ticket at security checkpoint"
-  - "airline kiosk boarding pass reprint"
-  - "gate agent reprint boarding pass"
-  - "real id required for security"
-  - "boarding pass not showing on app"
-  - "lost paper ticket during layover"
-last_reviewed: "2026-03-17"
+  - lost boarding pass
+  - lost boarding card
+  - paper boarding pass missing
+  - boarding pass lost during layover
+  - connection boarding pass lost
+  - layover boarding pass missing
+  - cannot access booking
+  - can’t open booking on phone
+  - phone dead at airport
+  - phone lost while travelling
+  - no service to pull boarding pass
+  - no internet at airport
+  - forgot confirmation number
+  - can’t find record locator
+  - can’t access email confirmation
+  - stuck at airport without pass
+  - boarding pass barcode unavailable
+  - can’t find gate for connection
+  - can’t get through security
+  - missed connection paperwork lost
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you lose a paper boarding pass for a connection and you cannot access your booking on your phone (USA)
 
 ## Short answer
-Go immediately to your airline’s nearest service desk or gate agent and present a valid REAL ID to have your boarding pass reprinted.
+Go to your airline’s kiosk/counter (or the gate if you’re already in the terminal) and ask them to reprint/reissue your boarding pass after verifying your ID.
 
 ## Do not do these things
-- Do not exit the secure terminal area unless specifically instructed by airline staff, as re-entering requires a new security screening.
-- Do not purchase a new ticket or attempt to re-book online; the airline can retrieve your existing reservation using your identification.
-- Do not use public charging stations to revive a dead phone if it delays you from speaking to an agent before boarding closes.
-- Do not attempt to guess or enter multiple incorrect confirmation codes at a kiosk.
-- Do not wait in a general baggage line if your flight is departing soon; head directly to the gate or a "Customer Relations" desk.
+- Don’t exit the secure area just to “print it” unless airline/airport staff tell you to — it can mean re-screening and lost time.
+- Don’t buy a new ticket in a panic because you can’t see your booking — duplicates are hard to unwind.
+- Don’t keep trying random confirmation codes at a kiosk; it wastes your window to fix this.
+- Don’t hand your ID/phone/credit cards to anyone who isn’t an airline or airport official behind a counter.
+- Don’t wait until final boarding call — reissuing a pass can involve extra checks.
 
 ## What to do now
-1. **Identify your current location to find the nearest help point.**
-   - If you are before security (landside), go to the airline check-in counter or a self-service kiosk.
-   - If you are already inside the terminal (airside), go to the departure gate for your next flight or the airline’s transit / customer service desk.
-2. **Use a self-service kiosk for the fastest reprint if available.** 
-   - Select the "Print Boarding Pass" or "Check In" option. 
-   - Use the "Scan ID" or "Enter Name" feature if you do not have your confirmation code.
-   - Note that some airlines now require you to navigate a secondary menu to select "Print" if you previously checked in digitally.
-3. **Present your REAL ID to an airline agent if the kiosk fails.** 
-   - Provide your full legal name, departure city, and destination.
-   - Explain that you are on a connection and have lost the physical pass for the second leg.
-   - Agents can locate bookings via name, credit card used for purchase, or frequent flyer number.
-4. **Proceed to the TSA checkpoint even if you lack a physical pass.** 
-   - In most US airports using Credential Authentication Technology (CAT), the TSA officer only needs to scan your REAL ID to verify your flight status.
-   - You can pass through security without a boarding pass if the CAT system confirms your reservation, but you must still obtain a pass from the airline before you can board the aircraft.
-5. **Advise the agent immediately if you have checked luggage.** 
-   - Ask them to verify that your bags are still tagged correctly for the connection.
-   - Confirm if the reissued pass affects your baggage "checked-through" status.
-6. **Ask for a "Gate Pass" if you are landside and the airline cannot print a full boarding pass.**
-   - This document allows you to pass security to reach the gate, where the agent can then issue the final boarding document.
-7. **Verify the details on the new printout before leaving the desk.**
-   - Check that the seat assignment, gate number, and boarding group are correct.
+1. **Work out where you are right now (this decides the fastest fix):**
+   - **Before security (landside):** head to the airline kiosk/counter first.
+   - **After security (airside):** go to the gate for your connecting flight or the airline’s customer service desk in the concourse.
+2. **Go to the quickest official help point for your airline:**
+   - a **self-service kiosk** (often fastest for a straight reprint), or
+   - the **airline counter/customer service desk**, or
+   - the **gate agent** for your next flight (best if boarding is soon).
+   Use: “I’m connecting, I lost my paper boarding pass, and I can’t access my booking on my phone. Can you reprint my boarding pass? Here’s my ID.”
+3. **Use your ID to let them pull up the reservation.** Give your name (as on ID), route, and date. The agent can typically locate the booking and then verify identity.
+4. **If you’re stuck at a TSA checkpoint, keep two facts in mind:**
+   - TSA procedures vary by airport; at some checkpoints your flight details may be verified by scanning your ID, but this **does not replace** airline check-in.
+   - You still need to be **checked in** and have a **boarding pass** to board the aircraft (and to scan at the gate).
+   So: prioritise the airline reprint/reissue, then follow TSA instructions at the checkpoint.
+5. **If you can’t access your confirmation details, use a low-risk workaround:**
+   - Connect to airport Wi-Fi and check for your airline confirmation email (on a device you control if possible).
+   - If you must borrow a device, avoid logging into sensitive accounts; instead, give the airline agent your details and let them retrieve the booking internally.
+6. **If you checked bags, say so immediately.** Ask whether they’re checked through and whether anything needs to be retagged if your boarding pass is reissued or you’re moved to a different flight.
+7. **Before you walk away, verify the reissued pass:** correct name, flight number, date, departure time, gate, and seat — then go straight there.
 
 ## What can wait
-- Troubleshooting phone hardware, battery issues, or app login credentials.
-- Negotiating compensation for lost time or technical glitches.
-- Reporting the lost paper pass to airport security or "Lost and Found" (it is faster to simply replace it).
-- Reviewing or updating your frequent flyer profile.
+- You don’t need to troubleshoot your phone, apps, passwords, or roaming right now.
+- You don’t need to debate fees, refunds, or policies while time is tight.
+- You don’t need to decide anything about later travel plans until you know you’re cleared for the next flight.
 
 ## Important reassurance
-Losing a physical boarding pass is a high-frequency event for airlines. Provided you have a valid government-issued ID (such as a REAL ID or Passport), airline systems are designed to retrieve your booking and print a replacement in seconds. Your seat is still reserved even if the document is missing.
+Airlines deal with lost boarding passes constantly. With your ID and the right airline desk/gate, this is usually a routine reprint or reissue — even if your phone is unusable.
 
 ## Scope note
-This guide addresses immediate document recovery for domestic or international connections within the USA. It does not cover procedures for lost passports or legal issues regarding expired identification.
+This covers only the first steps to get a valid boarding pass and continue your trip. If you miss the connection or get rebooked, you can address rerouting and documentation once you’re back on a stable plan.
 
 ## Important note
-TSA and airline procedures are subject to change based on airport-specific technology and security levels. Travelers must comply with all REAL ID requirements. TSA officers have final authority on checkpoint access.
+This is general information, not legal advice. TSA and airline procedures vary by airport and route; always follow instructions from TSA and airline staff on site.
 
 ## Additional Resources
-- https://www.delta.com/us/en/check-in-security/overview
-- https://www.aa.com/web/i18n/customer-service/contact-american/delayed-or-canceled-flights.html
-- https://www.alaskaair.com/content/travel-info/flight-experience/airport-lobby
-- https://www.aa.com/i18n/travel-info/travel-tools/mobile-boarding-pass.jsp
 - https://www.tsa.gov/travel/security-screening/identification
+- https://www.tsa.gov/travel/security-screening/credential-authentication-technology
+- https://www.tsa.gov/tsaconfirm-id
+- https://www.britishairways.com/content/en/us/information/checking-in-and-boarding/checking-in

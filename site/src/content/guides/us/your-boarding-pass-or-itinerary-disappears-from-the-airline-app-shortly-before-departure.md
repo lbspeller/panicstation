@@ -1,98 +1,83 @@
----
+﻿---
 title: "What to do if… your boarding pass or itinerary disappears from the airline app shortly before departure"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "boarding pass disappeared"
-  - "airline app lost boarding pass"
-  - "itinerary missing in app"
-  - "mobile boarding pass not showing"
-  - "cannot access boarding pass"
-  - "check-in confirmation missing"
-  - "flight details vanished"
-  - "app logged out before flight"
-  - "airline app glitch at airport"
-  - "reprint boarding pass kiosk"
-  - "boarding pass won’t load"
-  - "no service boarding pass"
-  - "phone died before flight"
-  - "boarding pass not in wallet"
-  - "confirmation number missing"
-  - "record locator can’t be found"
-  - "e-ticket receipt missing"
-  - "tsa checkpoint boarding pass confusion"
-  - "cannot download boarding pass"
-  - "help i lost my boarding pass"
-  - "my flight is not showing in the app"
-  - "what do i do if my boarding pass is gone"
-  - "what do i do if the airline app glitched"
-  - "help my ticket disappeared"
-  - "boarding pass vanished"
-  - "reprint ticket at airport"
-  - "tsa precheck not showing on pass"
-  - "ssss on boarding pass meaning"
-  - "digital boarding pass failure"
-  - "airline record locator help"
-last_reviewed: "2026-03-17"
+  - boarding pass disappeared
+  - airline app lost boarding pass
+  - itinerary missing in app
+  - mobile boarding pass not showing
+  - cannot access boarding pass
+  - check-in confirmation missing
+  - flight details vanished
+  - app logged out before flight
+  - airline app glitch at airport
+  - reprint boarding pass kiosk
+  - boarding pass won’t load
+  - no service boarding pass
+  - phone died before flight
+  - boarding pass not in wallet
+  - confirmation number missing
+  - record locator can’t be found
+  - e-ticket receipt missing
+  - tsa checkpoint boarding pass confusion
+  - cannot download boarding pass
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… your boarding pass or itinerary disappears from the airline app shortly before departure (USA)
 
 ## Short answer
-Access your reservation through the airline website in a mobile browser or find your original confirmation email to retrieve the record locator. Use this code at a self-service kiosk or airline check-in counter to obtain a physical paper boarding pass.
+Switch to a backup channel immediately: pull up your reservation on the airline website or in your confirmation email, then save a boarding pass offline. If you can’t get a usable pass fast, print one at a kiosk or go to the airline counter.
 
 ## Do not do these things
-- Do not cancel or attempt to rebook the flight through the app if the screen appears empty.
-- Do not repeatedly refresh the app if connectivity is poor; this depletes battery and may cause account lockouts.
-- Do not provide your login credentials to unauthorized third parties or "travel help" accounts on social media.
-- Do not enter the TSA security line without a confirmed check-in status and a valid boarding pass or acceptable ID.
-- Do not wait until the boarding gate to resolve the issue if you are still outside the secure area.
+- Don’t cancel/rebook just because the app looks empty.
+- Don’t keep tapping “refresh” until your battery dies.
+- Don’t share your login code/password with anyone offering help.
+- Don’t join the TSA line if you’re not sure you’re checked in and have a boarding pass (get airline-side help first).
+- Don’t leave it until the last minute “because you already checked in.”
 
 ## What to do now
-1. **Retrieve your six-character record locator or confirmation code.**
-   - Search your email or SMS history for "confirmation" or the airline name to find the code.
-   - Look for a PDF attachment or a "Manage Trip" link in your booking confirmation.
+1. **Pause and protect your phone (30 seconds).**  
+   Plug in if you can. Turn brightness up (barcodes scan more reliably). Switch between Wi-Fi and mobile data.
 
-2. **Access the airline website via a mobile browser.**
-   - **Log in to the mobile website directly rather than using the app.**
-   - Select "Manage Trip" or "Find My Trip" and enter your confirmation number and last name.
-   - If the pass appears, take a screenshot of the barcode/QR code immediately to ensure offline access.
+2. **Find your reservation details outside the app.**  
+   Search email/SMS for the airline confirmation and note the **confirmation code/record locator**, passenger name, flight number, and date.
 
-3. **Navigate to an airline self-service kiosk.**
-   - **Use the "Print Boarding Pass" or "Reprint" option on the kiosk home screen.**
-   - If you cannot find the trip via the confirmation code, scan your passport or the credit card used for the purchase.
-   - Note that some airlines (such as American or Alaska) may hide the print option in a sub-menu to encourage digital use; look for "Other Options" or "Print Documents."
+3. **Use the airline website “My trips / Manage reservation” as your primary fallback.**  
+   Enter confirmation code + last name in a browser. If it shows your trip, retrieve the boarding pass there or use the airline option to **email/text a boarding pass link** (if available).
 
-4. **Proceed to the airline check-in or customer service counter if kiosks fail.**
-   - **Inform the agent that your digital boarding pass has disappeared and you need a paper reissue.**
-   - Present a valid government-issued ID (REAL ID-compliant if flying domestically after May 7, 2025).
-   - If the pass disappeared due to "SSSS" (Secondary Security Screening Selection), only a paper pass issued at the counter will allow you to proceed.
+4. **Create an offline backup the moment the pass appears.**  
+   Add it to Apple Wallet / Google Wallet if offered and take a screenshot of the barcode/QR. Keep your screen clean and uncracked if possible.
 
-5. **Utilize TSA Credential Authentication Technology (CAT) at the checkpoint.**
-   - **If you are already at the security checkpoint, present your ID to the TSA officer.**
-   - At airports equipped with CAT-2 units, the officer can verify your flight reservation and TSA PreCheck status directly from your ID without scanning a boarding pass.
-   - You must still have a valid boarding pass (digital or paper) to board the aircraft at the gate.
+5. **If the boarding pass won’t generate online, go straight to a kiosk or airline counter.**  
+   Use a self-service kiosk to **print a boarding pass** (often via confirmation code and/or ID scan). If kiosks can’t help, go to the staffed counter for reissue and any required checks.
 
-6. **Address REAL ID or identification issues if prompted.**
-   - **Be aware that as of February 1, 2026, travelers without a REAL ID or passport may be required to pay a $45 non-compliance fee for identity verification (ConfirmID).**
-   - This process takes additional time; follow TSA officer instructions for the identity exception protocol.
+6. **If you’re close to departure, prioritise the fastest “human” route.**  
+   Find “Customer service / Check-in / Bag drop” for your airline. Say: **“My boarding pass vanished from the app; I need a boarding pass issued/printed.”**
+
+7. **If TSA screening is the immediate worry: use the right order.**  
+   At some airports using TSA Credential Authentication Technology (CAT), TSA may be able to verify you without scanning a boarding pass. But you still need to be checked in with the airline and have a boarding pass to board. If you don’t have a boarding pass yet, go to the airline kiosk/counter before committing to the TSA line.
+
+8. **If it’s an international trip, expect extra checks.**  
+   Missing passes can mean the airline needs to verify passport/visa details. Don’t waste time reinstalling the app first — go to the counter for a document check and reissue.
 
 ## What can wait
-- You do not need to troubleshoot the airline app, update your phone software, or reinstall applications.
-- You do not need to contact your travel insurance provider unless the delay causes you to miss the flight.
-- You do not need to verify loyalty program miles or seat assignments until you have a valid pass in hand.
+- You don’t need to diagnose the app issue or update your phone right now.
+- You don’t need to change seats, add bags, or chase loyalty/PreCheck indicators in this moment.
+- You don’t need to contact your credit card or travel insurance unless you actually miss the flight.
 
 ## Important reassurance
-Digital glitches and app syncing errors are common at major hubs. Every US airline has redundant systems (kiosks and staffed counters) specifically designed to issue physical passes when mobile versions fail. A missing pass in an app does not usually mean your reservation is cancelled; it typically indicates a session timeout or a requirement for a manual document check.
+This is a common failure mode (syncing, account issues, connectivity, document checks). Airlines routinely reissue boarding passes at kiosks and counters. The most important move is switching to a backup channel quickly and keeping your phone powered.
 
 ## Scope note
-This guide provides first-step stabilization for document retrieval only. It does not cover technical app support, baggage claims, or legal disputes regarding denied boarding.
+These are immediate steps to get you a usable boarding pass and keep you moving toward screening and the gate. Longer follow-ups (account recovery, refunds, app support) can be done later.
 
 ## Important note
-This information is for general guidance and reflects TSA and airline procedures as of early 2026. Specific airline policies regarding paper pass fees or kiosk functionality may vary. Always follow the direct instructions of uniformed airline agents or TSA officers.
+This is general information, not legal or professional advice. Procedures vary by airline, airport, and itinerary. If departure is soon, go in person to the airline kiosk/counter and follow staff instructions.
 
 ## Additional Resources
-- https://www.aa.com/i18n/customer-service/faqs/website-mobile-app-faqs.jsp
-- https://www.aa.com/i18n/travel-info/travel-tools/american-airlines-app.jsp
-- https://www.delta.com/us/en/check-in-security/overview
-- https://www.jetblue.com/help/boarding-pass
-- https://www.united.com/en/us/checkin
+- https://www.tsa.gov/travel/security-screening/identification
+- https://www.tsa.gov/travel/security-screening/credential-authentication-technology
+- https://www.united.com/en/us/fly/travel/airport/kiosks.html
+- https://www.aa.com/i18n/travel-info/travel-tools/mobile-boarding-pass.jsp

@@ -1,81 +1,71 @@
----
+﻿---
 title: "What to do if… you run out of fuel unexpectedly and your vehicle is safely off the road"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
-  - "ran out of fuel"
-  - "ran out of gas"
-  - "empty fuel tank"
-  - "vehicle out of gas"
-  - "car out of gas"
-  - "truck out of fuel"
-  - "out of gas on highway"
-  - "what do i do if i run out of fuel"
-  - "what do i do if i run out of gas"
-  - "help i ran out of gas"
-  - "help i ran out of fuel"
-  - "my car stopped running fuel"
-  - "my gas light is on and car stopped"
-  - "engine sputtering then stopped"
-  - "smell of gasoline near car"
-  - "clicking sound when starting"
-  - "vehicle losing power on road"
-  - "hazard lights on shoulder"
-  - "stranded on highway shoulder"
-  - "waiting for fuel delivery"
-  - "roadside gas delivery"
-  - "empty tank on freeway"
-  - "pulled over no gas"
-  - "emergency fuel assistance"
-  - "fuel container safety"
-  - "red gas can"
-  - "dot approved fuel can"
-  - "highway breakdown safety"
-  - "stopped on narrow shoulder"
-  - "car wont start empty tank"
-last_reviewed: "2026-03-17"
+  - ran out of gas
+  - ran out of fuel
+  - empty tank
+  - fuel light on
+  - stranded roadside
+  - pulled over safely
+  - vehicle off the road
+  - stopped on shoulder
+  - car won’t start
+  - hazard lights on
+  - need fuel delivery
+  - roadside assistance
+  - waiting in car
+  - unsafe shoulder
+  - highway breakdown
+  - call 911
+  - share location
+  - passengers in car
+  - afraid to exit
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… you run out of fuel unexpectedly and your vehicle is safely off the road (USA)
 
 ## Short answer
-Activate your hazard lights immediately to remain visible and stay inside your vehicle with your seatbelt fastened while calling for roadside assistance or emergency services.
+Stay visible (hazards on) and make “stay out of traffic harm” your priority—then call for help (roadside assistance, or **911** if the location feels dangerous or you’re at risk of being hit).
 
 ## Do not do these things
-- Do not walk along the highway or shoulder to find a gas station; pedestrian strikes are a leading cause of roadside fatalities.
-- Do not stand behind or next to your vehicle on the side facing traffic.
-- Do not use flares, matches, or lighters near the vehicle, as fuel vapors are highly flammable even if the tank is empty.
-- Do not attempt to siphon fuel from other vehicles or use unapproved containers like milk jugs or water bottles.
-- Do not exit the vehicle on the side facing live traffic lanes.
+- Don’t walk along a highway/shoulder to find a gas station—this is when people get struck.
+- Don’t stand behind your vehicle near traffic, or try to wave cars down from the roadway.
+- Don’t siphon fuel or pour fuel from an unapproved container on the shoulder.
+- Don’t use flares or any open flame if you smell fuel, suspect a leak, or can’t control the scene safely.
+- Don’t drain your phone battery on non-essentials—keep it available for location sharing and updates.
 
 ## What to do now
-1. **Turn on your hazard lights immediately to ensure other drivers can see your vehicle.** If it is dark or visibility is poor, keep your interior dome light on as well to increase the vehicle's footprint to oncoming traffic.
-2. **Stay inside the vehicle with your seatbelt buckled unless it becomes unsafe to do so.** The vehicle's steel frame and seatbelt provide the best protection against secondary collisions from distracted drivers.
-   - Only exit if you see smoke, smell fire, or are positioned in a way that an impact is imminent and you can reach a spot behind a guardrail or up an embankment safely.
-3. **Determine your precise location using your phone’s GPS or roadside markers.** Identify the highway name/number, your direction of travel (e.g., Northbound), and the nearest mile marker or exit number.
-4. **Call for professional assistance based on your immediate risk level.**
-   - **Call 911** if you are partially blocking a lane, if the shoulder is extremely narrow, or if you feel you are in danger of being hit.
-   - **Dial 511 or #77** in states where these lines are active to reach the Department of Transportation (DOT) highway safety patrols or motorist assistance.
-   - **Contact your roadside assistance provider** (such as AAA, your insurance company, or vehicle manufacturer) to request a fuel delivery or a tow.
-5. **Communicate specific vehicle details to the dispatcher.** Provide your vehicle's make, model, color, and license plate number, along with the number of passengers and any specific needs (e.g., small children or elderly passengers).
-6. **Use only a DOT-approved red fuel container if a private party brings you fuel.** Ensure the engine is completely off and the parking brake is engaged before attempting to add fuel; avoid fueling if traffic is passing within a few feet of your position.
+1. **Make the vehicle conspicuous immediately.** Hazard lights on. If visibility is poor, use headlights if you can do so without draining the battery too quickly.
+2. **Make staying buckled your default.** In many roadside situations, the safest move is to **stay inside the vehicle with your seatbelt on** while you call for help—especially on fast roads, narrow shoulders, curves, or at night.
+   - **Exit only if staying in the vehicle is clearly more dangerous**, such as fire/smoke, a strong fuel smell/leak, or you are stopped in a live lane with imminent risk of impact.
+   - If you must exit, move well away from traffic and behind a barrier if there is one.
+3. **Get your exact location before you call.** Use your phone’s map to capture the **route/highway number**, direction of travel, nearest **exit number** or mile marker, and a pinned GPS location you can share.
+4. **Call for help (choose the right level):**
+   - **Call 911** if you feel unsafe where you are, visibility is poor, traffic is very close, you’re partially in a lane, there’s a medical issue, or you suspect fire/fuel leak.
+   - Otherwise, contact your **roadside assistance** (insurance app, AAA, manufacturer service) and request **fuel delivery** or a tow to the nearest safe fueling point.
+   - In some states/metro areas, **dialing 511** can connect you to highway information or motorist assistance—use it if it’s available where you are.
+5. **Make it easy to find you.** Tell them: exact location, vehicle make/model/color, license plate, and how many people are with you (and whether anyone is vulnerable).
+6. **Only add fuel yourself if it’s truly safe to do so.** This usually means you’re in a parking lot/fully separated area (not inches from traffic), with an **approved fuel container**, engine off, no smoking, and you can avoid spills. If anything feels unsafe, wait for professional help.
 
 ## What can wait
-- You do not need to determine why the fuel ran out or check for mechanical leaks right now.
-- You do not need to arrange for long-term vehicle repairs or maintenance while on the shoulder.
-- You do not need to process insurance claims or membership paperwork until the vehicle is in a parking lot or gas station.
+- You don’t need to troubleshoot the fuel system on the roadside.
+- You don’t need to decide “what you should have done”—focus on safety first.
+- You don’t need to handle reimbursements, memberships, or paperwork until you’re somewhere safe.
 
 ## Important reassurance
-Running out of fuel is a common occurrence and being safely off the road has already reduced the primary risk. Emergency responders and roadside professionals handle these situations daily; stay where you are and wait for their arrival.
+This happens to plenty of drivers, and you’ve already done the most important thing by getting off the road. From here, the job is simply to stay visible, avoid traffic exposure, and get help to come to you.
 
 ## Scope note
-This guide covers first-step stabilization for a vehicle that has run out of fuel and is currently off the roadway. It does not cover mechanical repairs or highway escape tactics.
+These are first steps for the immediate situation only. Longer-term prevention and follow-up can wait until you’re safe.
 
 ## Important note
-This information is for safety guidance only and does not replace the instructions of law enforcement or emergency dispatchers. If you believe your location is life-threatening, inform the 911 operator immediately.
+This is general information, not legal advice. If you are in immediate danger, injured, or cannot wait safely where you are, call **911**.
 
 ## Additional Resources
-- https://www.dps.texas.gov/section/highway-patrol/travel-tips
-- https://www.nhtsa.gov/winter-driving-tips
-- https://www.statefarm.com/simple-insights/auto-and-vehicles/what-to-do-if-your-car-breaks-down
-- https://www.statefarm.com/insurance/auto/coverage-options/emergency-road-service-coverage
 - https://cluballiance.aaa.com/the-extra-mile/advice/car/stay-safe-in-a-roadside-emergency
+- https://cluballiance.aaa.com/the-extra-mile/advice/car/staying-safe-when-your-car-breaks-down
+- https://www.progressive.com/answers/car-breakdown-on-highway/
+- https://dot.nj.gov/transportation/commuter/motoristassistance/vehicles.shtm

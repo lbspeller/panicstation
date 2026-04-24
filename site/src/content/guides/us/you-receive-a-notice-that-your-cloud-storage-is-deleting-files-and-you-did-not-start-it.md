@@ -1,105 +1,104 @@
----
+﻿---
 title: "What to do if… you receive a notice that your cloud storage is deleting files and you did not start it"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "cloud storage deleting files"
-  - "files disappearing from drive"
-  - "unexpected deletion notice"
-  - "google drive deletion warning"
-  - "icloud storage deleting photos"
-  - "onedrive files deleted"
-  - "dropbox mass delete alert"
-  - "account takeover suspected"
-  - "hacked cloud account"
-  - "someone accessed my cloud storage"
-  - "shared folder deleted files"
-  - "sync app deleted files"
-  - "ransomware changed or deleted files"
-  - "restore deleted cloud files"
-  - "cloud recycle bin recovery"
-  - "version history recovery"
-  - "suspicious sign-in alert"
-  - "unauthorized device logged in"
-  - "recovery codes lost"
-  - "what do i do if my files are being deleted"
-  - "what do i do if google drive is deleting things"
-  - "help i did not delete these files"
-  - "help my icloud is empty"
-  - "what do i do if my onedrive is being wiped"
-  - "mass deletion in progress"
-  - "unauthorized cloud access"
-  - "my cloud files are gone"
-  - "cloud storage security breach"
-  - "recovering from ransomware deletion"
-  - "cloud account compromise recovery"
-last_reviewed: "2026-03-17"
+  - cloud storage deleting files
+  - files disappearing from drive
+  - unexpected deletion notice
+  - google drive deletion warning
+  - icloud storage deleting photos
+  - onedrive files deleted
+  - dropbox mass delete alert
+  - account takeover suspected
+  - hacked cloud account
+  - someone accessed my cloud storage
+  - shared folder deleted files
+  - sync app deleted files
+  - ransomware changed or deleted files
+  - restore deleted cloud files
+  - cloud recycle bin recovery
+  - version history recovery
+  - suspicious sign-in alert
+  - unauthorised device logged in
+  - email account used to reset passwords
+  - recovery codes lost
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you receive a notice that your cloud storage is deleting files and you did not start it (USA)
 
 ## Short answer
-Immediately pause synchronization on all your devices to stop the deletion command from spreading, then log in through a secure, direct browser window to change your password and begin the restoration process.
+Prevent the deletions from syncing everywhere: sign in on the provider’s real website/app, pause syncing on all devices, then lock down the account (new password + MFA) and begin restoring from “Trash/Deleted items” and version history.
 
 ## Do not do these things
-- Don’t keep your computer or phone connected to the internet while you "look around" the folders — this allows the deletion command to finish syncing across all your hardware.
-- Don’t click any links in the email or text alert you received; go directly to the provider's official website or app to verify the status.
-- Don’t ignore the possibility of email compromise — if a hacker has access to your email, they can bypass password changes.
-- Don’t wait until tomorrow to check the "Recently Deleted" or "Trash" bin, as some automated processes or attackers may attempt to "Empty Trash" to make the loss permanent.
-- Don’t use a password you have used for any other service.
+- Don’t keep your laptop/phone syncing “while you check” — it can rapidly spread deletions across every device and shared folder.
+- Don’t click “stop deletion” or “verify your account” links from the notice until you confirm it’s legitimate by going to the provider directly (phishing is common).
+- Don’t reset your password to something you’ve used before (or a small variation).
+- Don’t ignore your email security — if your email is compromised, an attacker can keep resetting your cloud password.
+- Don’t factory-reset devices yet unless you’ve already stopped syncing and secured the account (otherwise you may lose clues and still have the account exposed).
 
 ## What to do now
-1. **Disconnect or pause sync on all active devices immediately.**
-   - Toggle "Off" the sync setting in your cloud app on phones and tablets.
-   - Right-click the cloud icon (OneDrive, Google Drive, or Dropbox) in your computer's taskbar and select "Pause syncing" or "Quit."
-   - If you cannot find the setting quickly, disconnect the device from Wi-Fi or unplug the Ethernet cable.
+1. **Log in safely (without using the message link).**
+   - Open the cloud provider’s official app, or type the website address yourself.
+   - If you’re on a public/shared device, use a private/incognito window and log out when finished.
 
-2. **Access your account through a direct, secure browser session.**
-   - Type the official URL (e.g., drive.google.com, onedrive.com, icloud.com) directly into your browser.
-   - Do not use "Sign-in with" buttons from third-party sites during this crisis.
+2. **Pause or stop syncing on every device you can reach (priority #1).**
+   - On computers: pause syncing in the desktop sync client or sign out of it.
+   - On phones/tablets: pause backup/sync for that cloud service, or temporarily disable the app’s file/photo access.
+   - If you manage multiple devices, start with the one you last used or the one that got the alert.
 
-3. **Secure the cloud account with a new password and Multi-Factor Authentication (MFA).**
-   - **Change your password to a unique phrase of at least 15 characters.**
-   - **Enable an authenticator app or hardware security key.**
-   - **Select the option to "Sign out of all other sessions" or "Revoke all tokens" if provided.**
+3. **Check the account’s security/activity page to identify what changed.**
+   - Look for: unfamiliar sign-ins, unknown devices, bulk deletions, newly shared collaborators, or connected apps you don’t recognize.
+   - If this is a work/school account, check whether an admin policy or retention change could be involved and notify your IT/help desk.
 
-4. **Verify and secure your recovery email account.**
-   - **Check for "Forwarding" rules in your email settings that you did not create.**
-   - **Ensure the recovery phone number and secondary email address are still yours.**
-   - **Change the email password if it uses the same credentials as the cloud storage.**
+4. **Secure the cloud account right away.**
+   - Change your password to a brand-new, unique one.
+   - Use “sign out of all devices” / “revoke sessions” if available.
+   - Turn on **multi-factor authentication (MFA)** (authenticator app or security key is typically stronger than SMS when available).
+   - Remove unfamiliar **third-party app access** and disconnect anything suspicious.
 
-5. **Locate the "Trash," "Recycle Bin," or "Recently Deleted" folder.**
-   - **Begin restoring the most critical files immediately.**
-   - Note that most providers (Google, Microsoft, Apple) only guarantee a 30-day window for items in the trash.
+5. **Secure the email account linked to the cloud account.**
+   - Change the email password and turn on MFA there too.
+   - Check for **forwarding rules/filters** you didn’t set (attackers may forward password-reset emails).
+   - Review recovery phone/email entries and remove anything unfamiliar.
 
-6. **Utilize "Point-in-Time" restoration features for mass events.**
-   - **Use the "Restore your OneDrive" feature if you have a Microsoft 365 subscription to roll back the entire library.**
-   - **Check Google Drive "Activity" logs to identify exactly when the mass deletion started.**
+6. **Start restoring data inside the cloud service (don’t wait).**
+   - Restore from **Trash/Recycle bin/Deleted items/Recently deleted** first.
+   - Use **version history** for files that were modified or overwritten.
+   - If the provider offers “restore account to a point in time” (some services do), use it only after you’ve secured the account.
 
-7. **Review and remove unauthorized third-party apps.**
-   - **Navigate to "Security" or "Connected Apps" in your account settings.**
-   - **Remove any application or service you do not recognize, as these can be used to execute mass deletions via API.**
+7. **Preserve quick evidence for support (and for any later report).**
+   - Screenshot: the deletion alert, recent activity log, device list, and password-reset emails (if any).
+   - Write down: when you noticed, what device you were on, and which folders were affected.
 
-8. **Report the incident if you suspect a criminal act or extortion.**
-   - **File a report at ic3.gov (FBI Internet Crime Complaint Center) for cyber-enabled fraud.**
-   - **Submit a report at ReportFraud.ftc.gov to assist with consumer protection tracking.**
+8. **Contact the cloud provider’s official support/recovery path if you suspect compromise or can’t restore.**
+   - Use the provider’s “account compromised” / “recover account” help route.
+   - Ask specifically about: bulk restore tools, retention/undelete windows, and whether they can help stop ongoing deletion.
+
+9. **If money was lost, extortion was involved, or you believe a crime occurred, report it.**
+   - Report fraud/scams to the **FTC** using ReportFraud.
+   - File a complaint with the FBI’s **IC3** for cyber-enabled crime and fraud.
+   - If you are being threatened or extorted right now, call **911**.
 
 ## What can wait
-- You do not need to identify the specific malware or phishing site that caused the breach before taking the steps to stop the sync.
-- You do not need to decide on a new cloud provider right now.
-- You can wait to reorganize your folder structure until after the restoration is complete and the account is verified as secure.
+- You don’t need to figure out the exact cause (phishing vs. malware vs. reused password) before you pause sync and secure the account.
+- You don’t need to decide today whether to wipe devices or switch services.
+- You can postpone password-manager setup and long-term backup strategy until after recovery and stabilization.
 
 ## Important reassurance
-Mass deletion notices are often triggered by the cloud provider's own security systems specifically to give you a chance to intervene. Most modern cloud services do not "hard delete" files immediately; they move them to a hidden or protected "Trash" state where they remain recoverable for approximately 30 days.
+A sudden deletion wave is frightening, but many cloud services have recovery features (deleted-items bins, restore windows, version history). Acting quickly—especially pausing sync and securing access—usually improves the chance of getting files back.
 
 ## Scope note
-This is first-step guidance only. It is designed to stop active data loss and secure the account. Complex recovery from sophisticated ransomware or enterprise-level administrative deletions may require specialized IT intervention.
+This is first-step guidance to stop ongoing loss, regain control of the account, and begin recovery. If this involves a work/school managed account, your organization’s IT/security team may need to handle audit logs, retention rules, and incident response.
 
 ## Important note
-This guide provides general technical stabilization steps and does not constitute legal or professional cybersecurity advice. If your account is managed by an employer or educational institution, you must contact their IT department immediately, as their retention policies and administrative logs differ from personal accounts.
+This is general information, not legal or professional advice. If you suspect malware or a broader compromise and you’re not sure what to do, consider getting help from a trusted IT professional after you’ve stopped syncing and secured the account.
 
 ## Additional Resources
-- https://consumer.ftc.gov/consumer-alerts/2025/07/are-you-really-out-cloud-storage-or-message-scam
-- https://consumer.ftc.gov/node/77537
-- https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers
-- https://consumer.ftc.gov/online-security
-- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
+- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
+- https://www.cisa.gov/secure-our-world/turn-mfa
+- https://reportfraud.ftc.gov/
+- https://www.ic3.gov/
+- https://complaint.ic3.gov/
+- https://www.fbi.gov/investigate/cyber

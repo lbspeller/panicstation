@@ -1,111 +1,98 @@
----
+﻿---
 title: "What to do if… you are asked to confirm who has medical decision-making authority for a critically ill relative"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "medical decision-maker"
-  - "who can consent treatment"
-  - "critically ill relative"
-  - "icu decision authority"
-  - "hospital asked to confirm authority"
-  - "health care proxy"
-  - "durable power of attorney health care"
-  - "advance directive found"
-  - "surrogate decision maker hierarchy"
-  - "guardianship for medical decisions"
-  - "agent for healthcare"
-  - "family disagreement about care"
-  - "hipaa personal representative"
-  - "who can get updates"
-  - "no paperwork who decides"
-  - "confirm decision-making rights"
-  - "relative incapacitated"
-  - "emergency consent questions"
-  - "ethics consult request"
-  - "patient advocate help"
-  - "help i need to make medical decisions for my dad"
-  - "help i need to make medical decisions for my mom"
-  - "what do i do if my sister is in the icu"
-  - "what do i do if my husband is incapacitated"
-  - "what do i do if my wife is in a coma"
-  - "what do i do if the hospital asks for a proxy"
-  - "medical decision making authority"
-  - "surrogate hierarchy by state"
-  - "medical proxy vs next of kin"
-  - "court appointed medical guardian"
-  - "hospital case manager contact"
-  - "medical id on phone"
-  - "living will vs proxy"
-  - "medical decisions for unconscious relative"
-  - "who decides if there is no will"
-  - "family medical dispute"
-last_reviewed: "2026-03-16"
+  - medical decision-maker
+  - who can consent treatment
+  - critically ill relative
+  - icu decision authority
+  - hospital asked to confirm authority
+  - health care proxy
+  - durable power of attorney health care
+  - advance directive found
+  - surrogate decision maker hierarchy
+  - guardianship for medical decisions
+  - agent for healthcare
+  - family disagreement about care
+  - hipaa personal representative
+  - who can get updates
+  - no paperwork who decides
+  - confirm decision-making rights
+  - relative incapacitated
+  - emergency consent questions
+  - ethics consult request
+  - patient advocate help
+last_reviewed: "2026-03-03"
 ---
+
 # What to do if… you are asked to confirm who has medical decision-making authority for a critically ill relative (USA)
 
 ## Short answer
-Identify the specific decision needed and verify if the patient has a valid Health Care Proxy or Durable Power of Attorney for Health Care. If no document exists, the hospital will follow the state’s default surrogate hierarchy or initiate an ethics/legal review.
+Ask the hospital what decision is needed *now*, then identify whether your relative can still decide; if they can’t, look for an advance directive/health care proxy (durable power of attorney for health care) or a court-appointed guardian. If there’s no document, the hospital will usually follow your state’s surrogate decision-maker rules and document who is acting.
 
 ## Do not do these things
-- Do not assume that being the spouse or eldest child automatically grants legal authority in all states or for all types of treatment.
-- Do not sign any "Guarantor" or "Financial Responsibility" forms while attempting to confirm decision-making authority.
-- Do not delay immediate life-saving care to resolve family disputes; hospitals have protocols for emergency consent.
-- Do not feel pressured to "guess" your relative's wishes if you are unsure; state your uncertainty clearly to the clinical team.
-- Do not provide original legal documents to the hospital; provide copies and keep the originals in a secure location.
+- Don’t assume being the spouse/oldest child automatically makes you the decision-maker in every state or for every decision.
+- Don’t sign financial responsibility/“guarantor” paperwork (or anything appointing you as agent) unless you understand it—ask for a plain-language explanation and a copy.
+- Don’t delay urgent care while relatives argue—ask the hospital to use their standard surrogate/ethics process.
+- Don’t share sensitive documents widely; give them to the hospital team that requested them (case manager/social worker/patient relations).
+- Don’t promise outcomes or “take responsibility” for decisions you’re not legally authorized to make.
 
 ## What to do now
-1. **Request the exact medical decision currently under consideration and its timeframe.**  
-   Ask the attending physician or nurse: “What specific treatment decision needs to be made right now, and what is the deadline for that decision?”  
-   - Identify if the decision is for immediate life-prolonging care or a routine procedure.
-   - Ask for a copy of the hospital’s policy on surrogate decision-making.
+1. **Get the exact question and deadline.**  
+   Ask: “What decision needs a legal decision-maker right now, and by what time?”  
+   Also ask: “Which document or proof do you need, and where do I send it?”
 
-2. **Establish the patient's current capacity for the specific decision at hand.**  
-   Ask the clinical team: “Has the patient been formally assessed for decision-making capacity regarding this specific treatment?”  
-   - If the patient is conscious, ask the team to communicate directly with them and document their responses.
-   - Note that capacity can fluctuate; an assessment from two hours ago may no longer be accurate.
+2. **Confirm capacity for this specific decision.**  
+   Ask the attending physician: “Does the team believe they have decision-making capacity right now for this decision?”  
+   If your relative can communicate, ask the team to speak with them directly and document their choice.
 
-3. **Search for a Health Care Proxy, Living Will, or Durable Power of Attorney for Health Care.**  
-   Check the patient's wallet, refrigerator (for "Vial of Life" stickers), bedside drawers, and mobile phone Medical ID.  
-   - Call the patient's primary care doctor or local lawyer’s office to see if a copy is on file.
-   - If a document is found, confirm it has been signed, witnessed, or notarized according to state law.
+3. **Look for an advance directive / health care proxy / durable power of attorney for health care.**  
+   Ask close family and check the obvious places (wallet, phone medical ID, home file, safe, email).  
+   If found, identify:
+   - The **agent/proxy** (and any alternates)  
+   - Whether it’s currently effective (often tied to incapacity)  
+   - Any limits or specific instructions
 
-4. **Ask the hospital’s Case Management or Social Work department to search internal records.**  
-   Request that they check if an advance directive was uploaded during a previous admission.  
-   - Ask: “Can you check the Electronic Health Record for any scanned legal documents from past visits?”
+4. **Ask the hospital to check what they already have on file.**  
+   Many hospitals keep scanned advance directives from prior visits.  
+   Ask for the case manager/social worker to help locate and upload documents into the chart.
 
-5. **Identify the default surrogate hierarchy if no legal document is available.**  
-   Ask the hospital social worker: “What is the legal order of priority for surrogates in this state, and who are you currently listing as the decision-maker?”  
-   - Be aware that in Massachusetts, Minnesota, Missouri, and Rhode Island, there is no comprehensive default surrogate law, and the hospital may require a different legal process.
+5. **If there’s no document, ask what surrogate hierarchy the hospital is using (state-based).**  
+   Say: “We don’t have paperwork yet—what is the state’s default surrogate order here, and who are you documenting as the surrogate?”  
+   If multiple relatives are present, ask the team what they need to avoid disputes (some states require agreement among equals, or additional steps if there’s conflict).
 
-6. **Distinguish between the right to receive information and the right to make decisions.**  
-   Ask the team: “Who is listed as the Personal Representative under HIPAA for information sharing, and is that person different from the medical surrogate?”  
-   - Note that as of February 16, 2026, HIPAA regulations have aligned more strictly with Part 2 rules for substance use records; ask if specific additional consents are needed for this information.
+6. **Handle information-sharing separately from decision authority.**  
+   Ask: “Who can receive medical updates right now, and who can make decisions?”  
+   Even if you’re not the legal decision-maker, the hospital may be able to share limited updates in some circumstances—ask what they can share now and what documentation would allow more.
 
-7. **Request an Ethics Committee consultation if family members or the care team disagree.**  
-   Say: “We have a dispute regarding the proper surrogate or the patient's wishes, and we request an immediate Ethics Consult.”  
-   - This process is designed to mediate and provide a documented pathway for care when legal authority is unclear.
+7. **If family members disagree, ask for an ethics consult or patient relations immediately.**  
+   Use one sentence: “We need help identifying the proper surrogate and keeping decisions aligned with what they’d want.”  
+   Request a short, documented meeting with the care team, and ask that the plan and decision-maker be clearly recorded in the chart.
 
-8. **Inquire about emergency guardianship if no surrogate is available and the decision is critical.**  
-   Ask: “If we cannot find a surrogate, what is the process for the hospital to seek an emergency court-appointed guardian for medical decisions?”  
-   - This is usually a temporary measure for specific, immediate medical needs.
+8. **If the situation escalates (serious dispute or no suitable surrogate), ask about legal next steps.**  
+   Ask: “Do we need emergency/temporary guardianship, and who can explain the process for this hospital/county?”  
+   The hospital may involve risk management/legal counsel; your role is to provide documents and factual family information.
 
 ## What can wait
-- You do not need to settle the patient's long-term estate or financial matters during the acute phase of a medical crisis.
-- You do not need to resolve long-standing family conflicts or decide on permanent living arrangements right now.
-- You do not need to provide a definitive "end-of-life" plan if the current decision is only about stabilizing the patient.
+- You do **not** need to settle long-term family roles, finances, or funeral plans during the first hours/days of critical illness.
+- You do **not** need to decide every future treatment question right now—focus on the immediate decision the team is asking about.
+- You do **not** need to “win” a family argument; you only need a safe, documented decision pathway based on your relative’s wishes/values.
 
 ## Important reassurance
-It is very common for families to be unsure of the legal hierarchy during a sudden crisis. Hospitals are accustomed to this process and have social workers, patient advocates, and ethics teams specifically trained to help you identify the correct decision-maker while ensuring the patient receives necessary care.
+Hospitals ask this because they must document who can legally speak for a patient who can’t. If you don’t know the answer immediately, that’s common—asking for the hospital’s standard process, and taking a moment to find paperwork, is a protective step.
 
 ## Scope note
-This guide provides first-step stabilization for identifying medical authority in the United States. It does not cover the detailed requirements for permanent guardianship, contested probate matters, or specific state-by-state variations in witness requirements for new documents.
+These are first steps to confirm authority and prevent accidental over-commitment. Later steps (especially guardianship or complex disputes) may require a lawyer in your state.
 
 ## Important note
-This information is for general guidance and is not legal or medical advice. Laws governing surrogate hierarchy and advance directives vary significantly by state. Always consult with the hospital’s legal or risk management department and, if necessary, an elder law or probate attorney for specific legal requirements in your jurisdiction.
+This is general information, not legal or medical advice. Medical decision-making authority and default surrogate rules vary by state and by the type of decision. The hospital’s care team, case management, patient relations, and (when needed) ethics/risk management can explain what they require and how they apply state law in your relative’s case.
 
 ## Additional Resources
-- https://www.nia.nih.gov/health/advance-care-planning/choosing-health-care-proxy
-- https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-and-health-care-decisions-tips-caregivers-and
-- https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care
+- https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/personal-representatives/index.html
+- https://www.hhs.gov/hipaa/for-professionals/faq/personal-representatives-and-minors/index.html
 - https://medlineplus.gov/advancedirectives.html
-- https://www.caringinfo.org/planning/advance-directives/by-state/
+- https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care
+- https://www.americanbar.org/groups/law_aging/publications/bifocal/vol44/bifocal-vol-44-issue3/recent-updates-to-default-surrogate_statutes/
+- https://www.americanbar.org/groups/law_aging/publications/bifocal/vol_36/issue_1_october2014/default_surrogate_consent_statutes/
+- https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/living-wills/art-20046303

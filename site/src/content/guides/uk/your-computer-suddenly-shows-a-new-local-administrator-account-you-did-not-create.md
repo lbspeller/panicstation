@@ -1,98 +1,102 @@
----
+﻿---
 title: "What to do if… your computer suddenly shows a new local administrator account you did not create"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "contacts disappeared"
-  - "calendar events missing"
-  - "contacts merged into one"
-  - "duplicate contacts suddenly"
-  - "calendar entries merged"
-  - "phone contacts wiped"
-  - "synced contacts missing"
-  - "icloud contacts missing"
-  - "google contacts missing"
-  - "outlook contacts missing"
-  - "calendar invitees changed"
-  - "shared calendar changed"
-  - "account sync glitch"
-  - "data sync conflict"
-  - "contacts overwritten"
-  - "calendar disappeared after update"
-  - "contacts disappeared after new phone"
-  - "wrong account signed in"
-  - "multiple accounts mixing"
-  - "address book missing"
-  - "what do i do if my contacts disappeared"
-  - "what do i do if my calendar is gone"
-  - "what do i do if contacts are merged"
-  - "what do i do if outlook calendar is empty"
-  - "help i lost my phone contacts"
-  - "help i lost my calendar events"
-  - "help i have duplicate contacts"
-  - "help my phone wiped my address book"
-  - "my contacts merged into one person"
-  - "my calendar entries are duplicated"
-  - "smell of burning phone"
-  - "visible sync error icon"
-  - "contacts misspellings"
-  - "calender entries missing"
-  - "lost phone numbers UK"
-  - "missing meeting notes"
-  - "vanished schedule"
-  - "syncing paused on device"
-last_reviewed: "2026-03-17"
+  - unexpected admin account
+  - new local administrator
+  - unknown administrator user
+  - random admin on login screen
+  - windows new admin account
+  - mac new admin user
+  - linux new sudo user
+  - account i did not create
+  - computer shows extra user
+  - new user appears suddenly
+  - possible hacked computer
+  - suspicious privileged account
+  - admin account added overnight
+  - device compromise warning
+  - unauthorised account on pc
+  - local admin created without me
+  - unknown account has admin rights
+last_reviewed: "2026-03-08"
 ---
-# What to do if… your computer suddenly shows a new local administrator account you did not create (UK)
 
+# What to do if… your computer suddenly shows a new local administrator account you did not create (UK)
 ## Short answer
-Pause device syncing immediately and use your account provider’s web-based "Data Recovery" or "Undo Changes" tools before attempting any manual clean-up.
+Treat this as a possible compromise: **disconnect the computer from the internet immediately**, then **capture basic details without making changes** and get the device checked.
 
 ## Do not do these things
-- Don't start bulk-deleting "duplicates" or accepting "merge all" prompts while the data is in an unstable state.
-- Don't keep toggling sync settings on and off repeatedly, as this can force-sync a corrupted or empty database over a healthy one.
-- Don't uninstall apps or sign out of your accounts as a first response, which may clear local "undo" caches.
-- Don't assume the data is permanently lost without checking the web-browser version of the service.
-- Don't share verification codes or click "Allow" on new device sign-in prompts if they appear during this incident.
+- Don’t keep using the computer for email, banking, password managers, or work systems.
+- Don’t delete the suspicious admin account yet (it can remove clues needed to fix this safely).
+- Don’t “poke around” making lots of changes (disabling services, uninstalling things, editing settings) beyond the minimum steps below.
+- Don’t install random “cleanup” tools or follow untrusted commands from forums/videos.
+- Don’t allow anyone you didn’t contact first to remote into your device.
 
 ## What to do now
-1. **Isolate the affected device to prevent the sync error from spreading.**  
-   - Turn on Airplane Mode or manually disable "Contacts" and "Calendar" sync in your device settings.
-2. **Document the current state using an unaffected secondary device or paper.**  
-   - Note which accounts are currently signed in (e.g., @icloud.com, @gmail.com, @outlook.com).
-   - List any specific, high-value contacts or events you know are missing to use as markers for recovery.
-3. **Verify the data status via a desktop web browser (not the mobile app).**  
-   - Sign in to the official web portal for your provider (iCloud.com, contacts.google.com, or Outlook.com).
-   - If the data looks correct on the web, the problem is a local device display or sync issue; do not modify the web version.
-4. **Utilise the native "Restore" or "Undo" functions for your specific service.**  
-   - **iCloud:** On iCloud.com, click the "Data Recovery" icon (usually in the apps grid or footer) and select "Restore Contacts" or "Restore Calendars" to revert to an archived version from the last 30 days.
-   - **Google Contacts:** Go to the web version, click the "Settings" (gear) icon, and select "Undo changes" to roll back your entire list to a state from 10 minutes to 30 days ago.
-   - **Google Calendar:** In the web version, click "Settings" then "Bin" to restore individual deleted events within a 30-day window.
-   - **Outlook / Microsoft 365:** In the "People" (Contacts) or "Calendar" view on the web, check the "Deleted Items" folder; if the items are not there, click "Recover items deleted from this folder" at the top of the list.
-5. **Check for "Linked Devices" or unauthorized access if data was merged maliciously.**  
-   - Review the "Security" or "Devices" section of your account to ensure no unrecognized phones or computers are synced.
-   - If you find an unknown device, remove it and follow NCSC guidance to secure your account immediately by changing your password and enabling 2-step verification.
-6. **Re-sync the device only after the web version is confirmed as correct.**  
-   - Once the web version is restored, turn sync back on for that device.
-   - If prompted to "Merge" or "Cancel", choose "Merge" to ensure the restored web data integrates with your device.
+1. **Isolate the device (now).**  
+   Turn off Wi-Fi, unplug Ethernet, disconnect any VPN. If it’s safe and simple, unplug unknown USB devices.
+
+2. **Capture what you’re seeing (keep it simple).**  
+   Take a photo/screenshot of:
+   - the login screen showing the new account name
+   - any user list you can see without digging  
+   Write down the exact account name and when you first noticed it.
+
+3. **If it’s work/school/IT-managed, stop and escalate.**  
+   Contact your IT/helpdesk/security team and say: “A new local administrator account appeared that I didn’t create. I’ve taken the device offline.”  
+   Don’t attempt fixes unless they instruct you to.
+
+4. **From a different trusted device, secure your key accounts first.**  
+   Use your phone or another computer (not this one) to:
+   - change your primary email password (because it controls resets)
+   - change passwords for banking/finance and any accounts you used on this computer
+   - enable or re-check multi-factor authentication (MFA) and sign out of other sessions where your services let you  
+   If you reuse passwords, assume they’re exposed and change those everywhere.
+
+5. **Check whether the “new admin” is a built-in/known account that was enabled or renamed (optional).**  
+   Only do this if you can sign in with a **known-good** account you already trust. Use built-in user management to confirm:
+   - the unknown account exists
+   - it has administrator privileges
+   - whether your usual account’s privileges changed  
+   If this feels uncertain, skip it and move on.
+
+6. **Run an offline scan, then a full scan.**  
+   On Windows, run **Microsoft Defender Offline** (it restarts and scans outside normal Windows), then run a full scan. If you use another reputable security product, run its full scan too.
+
+7. **If anything looks wrong, choose the safer recovery path.**  
+   If the account was truly unauthorised, keeps returning, or scans find malware, the least risky approach is often:
+   - back up only irreplaceable personal files (documents/photos) cautiously
+   - **wipe/reset and reinstall** the operating system from trusted sources
+   - restore files only after scanning them, and only if you’re confident they’re clean  
+   If you’re not confident, use reputable in-person support rather than unknown “remote fix” offers.
+
+8. **If money was lost or you were scammed, report it.**  
+   If you think you’ve been hacked as part of an online scam or fraud:
+   - In **England/Wales/Northern Ireland**, reporting is typically via **Report Fraud (Action Fraud)**.
+   - In **Scotland**, fraud reporting is typically via **Police Scotland (101)**.  
+   If there’s immediate danger, call **999**.
 
 ## What can wait
-- You do not need to manually re-type missing contact details or schedule items right now.
-- You do not need to purchase "data recovery" software; native tools are usually more effective for cloud sync issues.
-- You do not need to contact your mobile network provider, as they generally do not manage cloud-based contact or calendar databases.
+- You do **not** need to work out who did it or how right now.
+- You do **not** need to decide immediately whether to wipe/reinstall—first isolate, capture basics, and secure key accounts.
+- You do **not** need to contact lots of companies at once; start with your email and financial accounts.
 
 ## Important reassurance
-Sudden digital disappearance is often a sync "handshake" error rather than a permanent deletion. Most major providers maintain automated daily archives of your contact lists and calendar states specifically to resolve these types of glitches.
+A surprise administrator account is a reasonable reason to be alarmed. Taking the device offline and protecting your email and bank access are strong, protective first steps—even before you know the full cause.
 
 ## Scope note
-This guide covers first-step stabilization for cloud-synced data. It does not cover recovery from physical hardware failure or data stored strictly on a SIM card.
+This is first-steps-only guidance to stabilise and reduce harm. Later decisions (forensics, rebuilds, workplace incident handling, insurance, legal/regulatory) depend on whether it’s personal vs managed, and whether any data or money was affected.
 
 ## Important note
-Data recovery windows are strictly time-limited by providers (typically 30 days). If this data belongs to a corporate or educational account, your IT administrator may have additional backup tools (such as "Point-in-Time" restoration) that are not accessible to individual users. If you suspect your data loss is part of a wider security breach, report it to Action Fraud or the NCSC.
+This is general information, not professional IT, legal, or security advice. If the device is owned/managed by your employer or school, follow their security process. If you suspect fraud or financial loss, contact your bank promptly.
 
 ## Additional Resources
-- https://support.microsoft.com/en-us/windows/manage-user-accounts-in-windows-104dc19f-6430-4b49-6a2b-e4dbd1dcdf32
-- https://support.microsoft.com/en-us/topic/how-to-determine-your-user-account-type-in-windows-18193b22-d93c-a5ec-e7dd-c73f915f52a7
-- https://support.apple.com/en-gb/guide/mac-help/mchlp1557/mac
-- https://support.microsoft.com/en-us/windows/virus-and-threat-protection-in-the-windows-security-app-1362f4cd-d71a-b52a-0b66-c2820032b65e
-- https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take
+- https://www.ncsc.gov.uk/section/respond-recover/ml-ransomware-attack
+- https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks
+- https://www.ncsc.gov.uk/section/respond-recover/ml-malware
+- https://signpost-cyber-incident.service.gov.uk/
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://stopthinkfraud.campaign.gov.uk/reporting-fraud/
+- https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-offline

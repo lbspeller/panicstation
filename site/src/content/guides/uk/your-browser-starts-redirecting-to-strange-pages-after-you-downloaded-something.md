@@ -1,89 +1,92 @@
----
+﻿---
 title: "What to do if… your browser starts redirecting to strange pages after you downloaded something"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "cloud account deletion warning"
-  - "account at risk of deletion"
-  - "verification failed cloud account"
-  - "policy violation notice cloud"
-  - "locked out of cloud account"
-  - "cloud account suspended"
-  - "account disabled appeal"
-  - "identity verification problem online account"
-  - "keep cloud account from being deleted"
-  - "recover access to cloud storage"
-  - "urgent account recovery steps"
-  - "data at risk of being lost"
-  - "export cloud data quickly"
-  - "cannot verify identity to provider"
-  - "cloud service says final notice"
-  - "account termination warning"
-  - "sudden access loss cloud"
-  - "account review pending"
-  - "my cloud account is being deleted"
-  - "help i received a deletion notice"
-  - "what do i do if my account is close to deletion"
-  - "help my files are being removed"
-  - "what do i do if cloud verification failed"
-  - "notice of permanent deletion"
-  - "cloud storage full deletion warning"
-  - "verification issue cloud account"
-  - "policy issue cloud account"
-  - "permanent deletion due to policy"
-  - "urgent cloud account help"
-  - "digital asset loss prevention"
-  - "cloud provider final warning"
-  - "storage scheduled for removal"
-last_reviewed: "2026-03-17"
+  - browser redirecting after download
+  - strange pages after download
+  - browser hijacked
+  - unwanted redirects
+  - malware after downloading
+  - adware on computer
+  - suspicious download file
+  - popups and redirects
+  - search results redirecting
+  - chrome redirect virus
+  - edge redirecting
+  - firefox redirecting
+  - safari redirecting
+  - unwanted browser extension
+  - new toolbar installed
+  - fake update download
+  - clicked a download link
+  - browser keeps changing homepage
+  - browser keeps changing search
+  - computer infected
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your browser starts redirecting to strange pages after you downloaded something (UK)
 
 ## Short answer
-Navigate directly to the provider’s official website or application (avoiding all links in the notification) to check your account status and initiate a data export immediately if access remains.
+Stop using the affected browser for anything sensitive, disconnect from the internet, and run a full malware scan before you type any more passwords or payment details.
 
 ## Do not do these things
-- Do not click "verify," "login," or "appeal" links contained within unexpected emails, text messages, or pop-ups.
-- Do not engage with "account recovery experts" on social media or direct messages who claim they can restore your account for a fee.
-- Do not sign out of any device or browser session where you are currently logged in, as this may be your only remaining access point.
-- Do not send copies of your passport, driving licence, or utility bills via email or social media messages.
-- Do not attempt repeated failed logins or verification steps if the system instructs you to wait, as this can trigger a permanent security lockout.
+- Don’t keep logging into email, banking, shopping, or work accounts “just quickly” on the same device.
+- Don’t install random “cleaner” or “security” tools pushed by pop-ups or redirected pages.
+- Don’t call phone numbers shown in pop-ups claiming you must pay to “fix” your computer.
+- Don’t click “Allow notifications” on unexpected pages (that can flood you with more scams).
+- Don’t assume “it’s only the browser” — redirects after a download can be a sign of broader infection.
 
 ## What to do now
-1. **Verify the notice through an independent, secure channel.**  
-   **Open a new browser window and manually type the provider's official URL or use the official mobile app to sign in.** If the warning does not appear within your official account dashboard or "Security" notifications area, the message you received is likely a phishing attempt.
-2. **Collect and preserve evidence of the current account state.**  
-   **Take screenshots of the specific warning message, any case or ticket reference numbers, the stated deadline for deletion, and the specific policy or verification reason provided.** Save the original email or message without deleting it; if possible, save the email "headers" or technical metadata which can help authorities trace the source.
-3. **Trigger the official appeal or verification process from within the secure dashboard.**  
-   **Use the provider’s built-in "Request Review" or "Verify Identity" flow rather than sending multiple separate support tickets.** Ensure the information you provide matches your account’s billing history and registered profile exactly to avoid automated rejections.
-4. **Prioritise the immediate export of irreplaceable data if access is still available.**  
-   **Initiate a "Takeout" or "Export" request for your most critical files, such as original photos, legal documents, and password vault backups.** Do not wait for a full account backup if the deadline is near; download the most vital items individually first.
-5. **Secure your secondary recovery channels and contact methods.**  
-   **Check that you still have access to the recovery email and phone number linked to the account, and update their passwords if you suspect a broader compromise.** If you are in England, Wales, or Northern Ireland, report suspicious messages to the 7726 text service or forward phishing emails to `report@phishing.gov.uk`.
-6. **Maintain a stable connection and avoid triggering security flags.**  
-   **Perform all recovery actions from a familiar device and a trusted home or work network, and disable any VPN or proxy services during the verification process.** Automated systems may flag "unusual activity" if you attempt sensitive recovery steps from a new location or IP address.
-7. **Report the incident to official UK cyber authorities if fraud is suspected.**  
-   **Contact "Report Fraud" (the successor to Action Fraud) at `reportfraud.police.uk` if you believe your account has been targeted by a scam or if money has been lost.** If you are located in Scotland, report the incident to Police Scotland by calling 101.
-8. **Consult official support channels via the in-product "Help" menu.**  
-   **Provide support staff with your screenshots, evidence of recent successful logins, and transaction IDs from recent storage payments if applicable.** Only upload sensitive identification documents through the provider’s encrypted, official portal.
+1. **Disconnect and pause anything sensitive.**  
+   Turn off Wi-Fi / unplug ethernet. If you must communicate, use a different device (or mobile data on your phone) for now.
+
+2. **Write down what just happened (30 seconds).**  
+   Note the file name you downloaded, roughly where it came from, and what redirects you’re seeing. This helps you spot the culprit and explain it if you need support.
+
+3. **Run a full security scan on the device (not just the browser).**  
+   - Update your device and security software first.  
+   - Run a **full scan**.  
+   - If you’re on Windows and the problem keeps coming back, use the built-in **Microsoft Defender Offline scan** (it restarts and scans from a more trusted environment).
+
+4. **Remove the likely trigger: suspicious extensions and recent installs.**  
+   - In your browser, review **extensions/add-ons** and remove anything you don’t recognise or that was added around the time this started.  
+   - On your device, check recently installed apps/programs and uninstall anything you didn’t mean to install.
+
+5. **Reset the browser settings (after removing extensions).**  
+   Use your browser’s built-in reset/refresh feature to undo hijacked homepage/search/redirect settings.
+
+6. **Change key passwords from a different, clean device.**  
+   Start with: email (especially your primary inbox), banking, Apple/Google/Microsoft account, and password manager. Turn on two-factor authentication where you can. (Do this **from another device** if you haven’t scanned yet.)
+
+7. **If money/details may have been taken, use official fraud reporting routes.**  
+   Contact your bank/card provider using the number on your card or their official app (not anything shown in pop-ups). If you’ve lost money, shared payment details, or think accounts were accessed, report it to **Report Fraud (the UK’s national reporting service run by City of London Police, formerly Action Fraud)**.
+
+8. **If you want to help stop the scam site itself, report the URL.**  
+   If you saw a specific suspicious site/page during the redirects, you can report the website link/URL to the NCSC.
+
+9. **If you can’t stabilise it quickly, escalate to trusted help.**  
+   If redirects persist after scans + browser reset, stop troubleshooting in circles. Consider reputable support (a trusted local repair shop or your employer’s IT). Persistent redirects can mean deeper malware.
 
 ## What can wait
-- You do not need to decide on a new cloud provider or move your entire digital life today.
-- You do not need to resolve the underlying policy dispute before securing your data; extraction is the priority.
-- You do not need to perfect your backup folder structure before starting the download process.
+- You do not need to figure out exactly “which malware” it is right now.
+- You do not need to wipe the whole device immediately unless scans and resets fail.
+- You do not need to report to anyone unless you think data, accounts, or money were exposed — focus first on stopping the bleed.
 
 ## Important reassurance
-Deletion warnings are frequently used by both automated security systems and malicious actors to create a sense of panic. This feeling of urgency is a normal response, but it is precisely why taking a measured, "clean path" approach is the most effective way to prevent permanent data loss.
+Browser redirects after a download are common and fixable. The safest approach is to slow down, stop entering sensitive information, and do a scan–remove–reset cycle rather than chasing pop-ups or paying anyone who contacts you through the redirected pages.
 
 ## Scope note
-This guide provides first-step stabilization for the immediate hour following a deletion notice. It does not cover long-term data management strategies or the legal resolution of complex Terms of Service disputes.
+This is first steps only, to stabilise your device and reduce harm. If your device is used for work, shared with family, or you suspect account compromise, the next steps may need tailored IT/security support.
 
 ## Important note
-This information is for general guidance and does not constitute legal or technical advice. Cloud provider procedures are subject to change. Under the Data (Use and Access) Act 2025, UK residents have specific rights regarding data access (Subject Access Requests) and portability; however, providers are only required to perform "reasonable and proportionate" searches. If you believe a provider is unlawfully withholding access to your personal data, you may raise a concern with the Information Commissioner’s Office (ICO).
+This is general information, not professional or device-specific advice. If you suspect financial loss, identity theft, or ongoing compromise, use official contact routes and get qualified technical help.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take
-- https://www.ncsc.gov.uk/section/respond-recover/citizen-infected-devices
-- https://www.reportfraud.police.uk/malware/
-- https://www.police.uk/advice/advice-and-information/fa/fraud/online-fraud/cyber-crime-fraud/
-- https://www.ncsc.gov.uk/section/advice-guidance/all-topics/malware
+- https://www.ncsc.gov.uk/guidance/what-is-an-antivirus-product
+- https://www.ncsc.gov.uk/collection/device-security-guidance/policies-and-settings/antivirus-and-other-security-software
+- https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-offline
+- https://support.google.com/chrome/answer/2765944?hl=en-GB
+- https://www.reportfraud.police.uk/reporting-fraud-and-cyber-crime
+- https://www.ncsc.gov.uk/section/about-this-website/report-scam-website

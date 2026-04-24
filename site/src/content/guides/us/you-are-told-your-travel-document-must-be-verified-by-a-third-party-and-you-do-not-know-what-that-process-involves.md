@@ -1,97 +1,94 @@
----
+﻿---
 title: "What to do if… you are told your travel document must be verified by a third party and you do not know what that process involves"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "travel document verification"
-  - "third party verification process"
-  - "passport verification request help"
-  - "identity verification portal"
-  - "how to verify passport for travel"
-  - "kyc identity check travel"
-  - "apostille for travel documents"
-  - "authentication certificate requirements"
-  - "notarized copy of passport"
-  - "certified copy of travel document"
-  - "what do i do if my passport needs verification"
-  - "what do i do if third party asks for passport"
-  - "what do i do if airline asks for document check"
-  - "what do i do if visa requires apostille"
-  - "help i need to verify my passport"
-  - "help i got a verification email"
-  - "help i need an authentication certificate"
-  - "my travel document needs third party check"
-  - "my passport needs a certified copy"
-  - "smell of scam travel verification"
-  - "see suspicious verification link"
-  - "hear about mandatory document authentication"
-  - "notice unusual verification fee"
-  - "tsa confirmid verification check"
-  - "hague convention apostille process"
-  - "non-hague document legalization"
-  - "ds-4194 form instructions"
-  - "secretary of state document certification"
-  - "passport bio page upload"
-  - "face match identity portal"
-last_reviewed: "2026-03-17"
+  - travel document verification
+  - third party verification
+  - passport verification request
+  - document authentication confusion
+  - apostille needed for travel
+  - authentication certificate needed
+  - visa document verification
+  - airline document verification
+  - notarized copy request
+  - certified copy confusion
+  - identity verification portal
+  - kyc identity check
+  - suspicious verification email
+  - travel document scam worry
+  - urgent document deadline
+  - verify documents overseas
+  - authenticate us document
+  - apostille requirements
+  - identity theft concern
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you are told your travel document must be verified by a third party and you do not know what that process involves (USA)
 
 ## Short answer
-Stop and confirm the specific type of verification required (Identity Check, Notarization, or Apostille / Authentication) before sharing any data. Do not upload documents or pay fees until you have independently verified the requester through an official, non-link-based contact method.
+Stop and confirm who is requesting verification and what “verified” means (identity check vs notarized/certified copy vs apostille/authentication). Don’t upload or send passport documents to any third party until you’ve confirmed the request using an official, independently found contact method.
 
 ## Do not do these things
-- Do not click on "verification links" in unsolicited emails or text messages; navigate to official websites manually instead.
-- Do not mail your original passport to any private third party without a confirmed, trackable, and official government-mandated reason.
-- Do not pay "processing fees" to third-party sites unless they are the official contracted provider for an airline (e.g., TSA ConfirmID) or government agency.
-- Do not provide secondary documents (Social Security cards, birth certificates) unless specifically required by an authenticated official process.
-- Do not assume a local notary can always certify a copy of your passport; many states, including New York and Michigan, prohibit this.
+- Do not click a “verification link” from an unexpected email/text without independently confirming the sender and where the link truly goes.
+- Do not mail your passport or other irreplaceable originals to a private third party without independently verified instructions and a clear, trackable return process.
+- Do not pay a “verification fee” to a company you can’t validate as an official contractor or clearly connected provider for the organization.
+- Do not assume “verification” automatically means an apostille — it may be an ID check, notarization, or a different certification.
+- Do not provide extra identity documents beyond what is specifically required.
 
 ## What to do now
-1. **Identify the specific category of "verification" being requested.** Ask the requester to clarify if they require:
-   - **Biometric / Identity Check:** A digital "face match" or "liveness check" often used by airlines or the 2026 TSA ConfirmID program ($45 fee).
-   - **Notarized Copy:** A notary witnessing your signature on a statement about the document (or certifying the copy, where state law permits).
-   - **Apostille / Authentication:** A formal government certificate (State or Federal level) for use in a foreign country.
+1. **Get the requirement in writing and make it precise.** Ask for:
+   - exactly which document(s) must be verified (passport bio page, birth certificate, court order, etc.)
+   - what “verification” means (identity check, notarized signature, copy certification, apostille, authentication certificate, translation)
+   - the third party’s full legal name and why they are authorized
+   - acceptable alternatives (in-person check, different verifier, a notarized statement instead of a document copy, etc.).
 
-2. **Verify the requester using an independent channel.**
-   - If the request appears to be from an airline, school, or employer, call their official customer service number found on their primary .com or .gov website. 
-   - Check if the third party is a known provider (e.g., ID.me, Digidentity, or a specific visa processing center like VFS Global).
+2. **Independently confirm the request is legitimate (don’t use links from the message).**
+   - If it’s an airline, school, employer, bank, or travel provider: go to their official website (typed manually) and contact them via published support details.
+   - If it’s about using U.S. documents abroad: rely on official guidance pages first, not a paid “document service” site.
 
-3. **Follow the correct path for Apostilles (Hague Convention countries).**
-   - **For State-issued documents** (Birth/Death certificates): Contact your State’s Secretary of State office.
-   - **For Federal documents** (FBI checks, Naturalization): Use the U.S. Department of State Office of Authentications.
-   - **Complete Form DS-4194** for all federal authentication requests.
+3. **Classify the request into one of these common “verification” types.**
+   - **Identity check:** a provider checks your passport and may do a face match in a portal/app.
+   - **Notarization / “certified copy”:** this can mean different things. In many places, a notary notarizes a signature or statement; whether a notary can certify a copy depends on state law and the requester’s rules.
+   - **Apostille / authentication certificate:** formal certification so a document is recognized in another country (which one you need depends on the destination country).
 
-4. **Follow the correct path for Authentication / Legalization (Non-Hague countries).**
-   - Confirm if the destination country is NOT part of the Hague Convention.
-   - Submit the document to the U.S. Department of State for an Authentication Certificate first.
-   - Send the authenticated document to the specific foreign embassy or consulate for final "Legalization."
+4. **If they mean apostille/authentication for use abroad: choose the official path based on document type.**
+   - **State-issued documents** (common for vital records): typically handled through the relevant state authority (often the Secretary of State).
+   - **Federal documents:** follow U.S. Department of State Office of Authentications instructions (including the correct form and submission method).
+   - Use official guidance to confirm whether you need an **apostille** (Hague Convention countries) or an **authentication certificate** (non-Hague countries).
 
-5. **Address Notarization requirements carefully.**
-   - Ask the requester: "Do you require a 'Certified Copy' or a 'Notarized Affidavit'?"
-   - If you are in a state that prohibits notary copy-certification of passports, ask for a "Copy Certification by Document Custodian." You sign a statement that the copy is true, and the notary notarizes your signature.
+5. **If they mean notarization/copy certification: prevent a costly wrong turn.**
+   - Ask the requester: “Do you need a notarized signature/statement, or a certified copy of the document? If a certified copy, who is allowed to certify it, and what wording do you require?”
+   - If they insist on “certified copy,” confirm whether your state allows a notary to certify that kind of copy, or whether they require a different professional process.
 
-6. **Secure your data if you suspect a compromise.**
-   - If you have already shared passport details with a suspicious entity, report it immediately at travel.state.gov or call 1-877-487-2778.
-   - Visit IdentityTheft.gov to create an FTC Identity Theft Report and set up a free credit freeze or fraud alert.
+6. **Protect your identity while you sort it out (minimum necessary sharing).**
+   - Ask if they can accept an in-person check, a secure portal upload, or a narrowly scoped document (only what they truly need).
+   - Keep a record of what you shared, when, and with whom (screenshots/receipts).
+
+7. **If you already sent documents and now suspect it might be a scam, limit damage quickly.**
+   - Stop further uploads/messages and save evidence (emails/texts, receipts, website address, any “case number”).
+   - Use the FTC’s IdentityTheft.gov to report identity theft concerns and follow the recovery steps.
+   - Consider a fraud alert or credit freeze if sensitive identity info was exposed (these are free), following FTC guidance.
 
 ## What can wait
-- You do not need to pay for expedited "rush" services from private agencies until you have confirmed the government’s own current processing times.
-- You do not need to renew your passport immediately unless the verification process reveals it is expired or has less than six months of validity remaining.
-- You do not need to provide translated versions of documents until the primary authentication is confirmed.
+- You do not need to decide right now whether to challenge the requirement — first determine what process it actually is.
+- You do not need to pay for rush handling until you’ve confirmed the request is legitimate and unavoidable.
+- You do not need to provide extra identity documents “to speed things up.” Only provide what’s required once verified.
 
 ## Important reassurance
-It is normal to feel hesitant when asked to share sensitive travel documents. Legitimate verification processes exist to prevent fraud, but they should never feel high-pressure or secretive. Verifying the request is a standard security procedure, not a delay.
+Many legitimate travel-related processes use the word “verification,” but they can mean very different things. Taking a few minutes to confirm the exact requirement is a normal safety step that often prevents scams and wrong paperwork.
 
 ## Scope note
-This guide provides first-step stabilization for identifying legitimate document verification processes. It does not provide legal advice, visa approval guarantees, or specific state-by-state notary law interpretations.
+This guide is first-step triage: confirm legitimacy and identify the correct verification type (identity check vs notarization/copy certification vs apostille/authentication). After that, follow the requesting organization’s official instructions and the relevant government process for your document type.
 
 ## Important note
-Document requirements for international travel are subject to the laws of the destination country and U.S. federal regulations. Always prioritize official .gov instructions over third-party "service" websites. Fees and forms (like the DS-4194) are subject to change by the Department of State.
+This is general information, not legal advice. Requirements vary by destination country, organization, state, and document type, and can change. If anything feels high-pressure, inconsistent, or payment-focused, pause and verify through official channels before sharing documents.
 
 ## Additional Resources
-- https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html
-- https://travel.state.gov/content/travel/en/passports/how-apply/identification.html
-- https://iafdb.travel.state.gov/
-- https://travel.state.gov/content/travel/en/passports/get-fast/courier-and-expeditor-companies.html
-- https://travel.state.gov/content/travel/en/passports/passport-help/faqs.html
+- https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document.html
+- https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document/office-of-authentications.html
+- https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document/apostille-requirements.html
+- https://www.usa.gov/authenticate-us-document
+- https://www.identitytheft.gov/
+- https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts

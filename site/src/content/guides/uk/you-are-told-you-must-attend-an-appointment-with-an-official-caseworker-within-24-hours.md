@@ -1,98 +1,83 @@
----
+﻿---
 title: "What to do if… you are told you must attend an appointment with an official caseworker within 24 hours"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "told to attend appointment in 24 hours"
-  - "urgent caseworker appointment"
-  - "official appointment short notice"
-  - "probation meeting tomorrow"
-  - "offender manager appointment"
-  - "prison resettlement appointment"
-  - "police interview short notice"
-  - "social worker appointment demand"
-  - "court related appointment deadline"
-  - "bail conditions appointment"
-  - "licence conditions appointment"
-  - "verifying official contact"
-  - "could be a scam official"
-  - "asked for personal details quickly"
-  - "asked to pay to avoid arrest"
-  - "told to bring documents urgently"
-  - "unexpected official letter call text"
-  - "missed appointment consequences worry"
-  - "need to reschedule official meeting"
-  - "confirm time place and id"
-  - "what do i do if i am told to attend a meeting tomorrow"
-  - "what do i do if a caseworker calls me"
-  - "what do i do if the police want an interview in 24 hours"
-  - "what do i do if probation call me at short notice"
-  - "help i have an official appointment in 24 hours"
-  - "help i missed a call from a caseworker"
-  - "help i think an official caller is a scam"
-  - "my probation officer wants to see me tomorrow"
-  - "my social worker sent an urgent text"
-  - "smell of scam"
-  - "urgent official meeting demand"
-  - "short notice caseworker visit"
-  - "verify hmcts caller"
-  - "verify home office appointment"
-  - "report fraud uk 2026"
-last_reviewed: "2026-03-17"
+  - told to attend appointment in 24 hours
+  - urgent caseworker appointment
+  - official appointment short notice
+  - probation meeting tomorrow
+  - offender manager appointment
+  - prison resettlement appointment
+  - police interview short notice
+  - social worker appointment demand
+  - court related appointment deadline
+  - bail conditions appointment
+  - licence conditions appointment
+  - verifying official contact
+  - could be a scam official
+  - asked for personal details quickly
+  - asked to pay to avoid arrest
+  - told to bring documents urgently
+  - unexpected official letter call text
+  - missed appointment consequences worry
+  - need to reschedule official meeting
+  - confirm time place and id
+last_reviewed: "2026-03-07"
 ---
-# What to do if… you are told you must attend an appointment with an official caseworker within 24 hours (UK)
 
+# What to do if… you are told you must attend an appointment with an official caseworker within 24 hours (UK)
 ## Short answer
-Verify the contact independently using a publicly listed number for the agency, then confirm your attendance or request a rearrangement in writing immediately to prevent a breach of conditions.
+Verify who is contacting you using an official number you find yourself (not the one they gave you), then respond fast: confirm you’ll attend, or request a rearrangement in writing and keep proof.
 
 ## Do not do these things
-- Do not share sensitive data such as bank details, passwords, one-time codes, or photos of ID over the phone or text.
-- Do not pay any "urgent fee" or "fine" to secure the appointment or to avoid a threatened arrest.
-- Do not ignore the message if you are currently on licence, probation, bail, or subject to a court order.
-- Do not travel to any address that you cannot verify as a legitimate government or local authority office.
-- Do not engage in a detailed discussion about allegations or personal history before you have verified the identity of the caller.
+- Don’t share sensitive details (bank details, passwords, one-time codes, photos/scans of ID) just because someone sounds “official”.
+- Don’t pay any “urgent fee/fine” to secure the appointment or avoid arrest.
+- Don’t ignore the message if it could relate to bail, licence, probation, or a court requirement.
+- Don’t travel to an address you cannot verify as a real office location.
+- Don’t get pulled into a rushed discussion about allegations or “your side of the story”; keep it to identity, logistics, and your rights.
 
 ## What to do now
-1. **Identify which agency the "caseworker" claims to represent.**  
-   Check the communication for keywords such as Probation Service, Social Services, HM Courts and Tribunals Service (HMCTS), Home Office, or a specific Police Force.
-2. **Verify the caller identity through a trusted, independent route.**  
-   - Search for the official website of the agency (ending in .gov.uk) and call their primary published switchboard number.
-   - Ask the switchboard to confirm the name and role of the caseworker and verify that an appointment has been scheduled.
-   - Note that HMCTS will never call from 0300 0132 088 to demand payment; this is an inbound-only number.
-3. **Request all appointment details in a formal written format.**  
-   Ask for the date, time, full physical address, department name, and a case reference number. Save copies of the original text, email, or a log of the call time and duration.
-4. **Contact your existing legal representative or solicitor if the request relates to a criminal case.**  
-   If you have a solicitor, tell them about the 24-hour deadline immediately; they can often verify the request or attend the meeting with you.
-5. **Establish if a police interview is "voluntary" or if you are under arrest.**  
-   - If the police request a "voluntary interview," you are free to leave the station at any time unless you are subsequently arrested.
-   - You are entitled to free, independent legal advice (duty solicitor) for any formal police interview under caution, whether voluntary or following arrest.
-6. **Inform the verified office immediately if you cannot attend due to an emergency.**  
-   Provide clear reasons (e.g., medical emergency, pre-booked work shift) and request a "rearrangement" in writing. If you are on licence or probation, failing to attend without an "acceptable absence" documented by the officer can trigger a formal breach process.
-7. **Prepare only the essential items for the meeting.**  
-   Gather one form of photo ID and any specific documents mentioned in the verified request. Do not bring original sensitive documents unless the verified official has explicitly confirmed they are required for sighting.
-8. **Report the contact if you suspect it is a scam.**  
-   - Forward suspicious text messages to 7726.
-   - For suspicious calls, text "Call" followed by the scammer's number to 7726.
-   - Report the incident to the official "Report Fraud" service at www.reportfraud.police.uk or call 0300 123 2040.
+1. **Identify what “caseworker” likely means in this situation.**  
+   Look for clues: probation/offender manager, local council/social services, court/tribunal (HMCTS), police, prison resettlement, or immigration. You don’t need to be perfect — you just need the right place to verify.
+2. **Verify the contact using a trusted route you control.**  
+   - Find the organisation’s official website (GOV.UK, your local council site, your police force site, HMCTS guidance pages) and call the **main published number/switchboard**.  
+   - Ask them to confirm the person’s name, role, and that the appointment request exists (or transfer you to the correct team).  
+   If they cannot verify it, treat the original message as suspicious and stop using the original number/email.
+3. **Get the appointment details in writing (even if you plan to attend).**  
+   Ask for: date/time, full address, office/team name, what the meeting is broadly about, what to bring, and any reference/case number. Save screenshots/voicemails/emails.
+4. **If you are on probation, on licence, or under a court/bail requirement: contact the relevant office immediately and document it.**  
+   If you might not make it, ask to rearrange straight away and keep a record (email/text from a verified office line, plus your call log). Keep any proof of why you couldn’t attend (work rota, medical note, travel disruption notice).
+5. **If the police want you to attend, clarify whether it’s voluntary and use free legal advice.**  
+   Ask: “Is this a voluntary interview? Am I free to leave?”  
+   - If it’s a **voluntary police interview**, you can ask for **free legal advice** and speak to a solicitor before/during questioning.  
+   - If you are **arrested and taken to a police station**, you have the right to **free legal advice** (including the duty solicitor) before questioning.  
+   If you already have a solicitor, contact them now and tell the police you want legal advice.
+6. **Reduce practical failure points so you don’t miss it accidentally.**  
+   Confirm the exact address and entry requirements, check travel time, and set multiple alarms. If you need an interpreter or accessibility support, ask the verified office immediately.
+7. **Bring only what’s necessary.**  
+   Typically: photo ID, the message/letter with reference numbers, and any documents explicitly requested. Avoid bringing originals of sensitive documents unless the verified office clearly needs them.
+8. **If it looks like a scam, take one safe reporting step after you’ve stopped engaging.**  
+   Keep the message, note the number/email used, and report it through the UK’s official fraud reporting route. If it claims to be HMCTS, follow HMCTS guidance for reporting suspicious texts/calls.
 
 ## What can wait
-- You do not need to prepare a full defense or statement before the initial meeting.
-- You do not need to decide whether to accept or contest an allegation during the first 24 hours.
-- You do not need to gather secondary evidence or character references tonight.
-- You do not need to disclose your full financial history until you are certain the agency is legitimate.
+- You don’t need to decide today whether you agree with the underlying case or allegation.
+- You don’t need to give a full statement over the phone or by text.
+- You don’t need to gather every possible document tonight — focus on verification and avoiding a preventable “no show”.
+- You don’t need to solve everything in one meeting; the goal is to keep yourself safe and keep options open.
 
 ## Important reassurance
-Receiving a 24-hour notice is stressful and is often used by both official agencies for urgent safeguarding and by scammers to induce panic. A short pause to verify identity is a standard and expected safety procedure that will not be held against you by legitimate officials.
+A “within 24 hours” message is designed to create pressure — sometimes for real compliance reasons, and sometimes because scammers copy that tone. Taking a short pause to verify and document is a normal safety step.
 
 ## Scope note
-This guide covers first-step stabilization for the first few hours after receiving a short-notice demand. Once identity is verified, you may require specific legal or administrative advice tailored to your case type.
+This is first steps only for the next few hours. Once you confirm who the appointment is with and why, you may need tailored advice (for example from a solicitor or an advice service) for what to say and what to bring.
 
 ## Important note
-This information is for guidance and does not constitute legal advice. Procedures and rights may differ between England, Wales, Scotland, and Northern Ireland. If the situation involves a threat to life or immediate danger, call 999.
+This is general information, not legal advice. Procedures vary across the UK and by agency. If you cannot verify who is contacting you, prioritise identity-checking before sharing information or travelling.
 
 ## Additional Resources
-- https://www.gov.uk/claim-asylum
-- https://www.gov.uk/claim-asylum/after-your-screening
-- https://www.gov.uk/claim-asylum/asylum-interview
-- https://www.gov.uk/asylum-helplines
-- https://www.gov.uk/government/publications/information-leaflet-for-asylum-applications/information-booklet-about-your-asylum-application--2
+- https://www.gov.uk/guide-to-probation/meetings-with-your-offender-manager
+- https://www.gov.uk/guidance/guidance-on-hmcts-related-suspicious-phone-calls-emails-and-text-messages
+- https://www.gov.uk/arrested-your-rights/legal-advice-at-the-police-station
+- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version
+- https://www.citizensadvice.org.uk/consumer/scams/get-help-with-scams/

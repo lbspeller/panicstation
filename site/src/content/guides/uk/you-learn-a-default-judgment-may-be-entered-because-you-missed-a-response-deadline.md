@@ -1,101 +1,89 @@
----
+﻿---
 title: "What to do if… you learn a default judgment may be entered because you missed a response deadline"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "default judgment"
-  - "missed court deadline"
-  - "missed response deadline"
-  - "late court response"
-  - "not filed a defence"
-  - "did not acknowledge service"
-  - "claim form missed"
-  - "court papers late"
-  - "papers not received"
-  - "served at old address"
-  - "judgment without hearing"
-  - "set aside default judgment"
-  - "reopen a case"
-  - "decree in absence"
-  - "recall a decree"
-  - "sheriff court deadline"
-  - "county court claim response"
-  - "money claim online"
-  - "mcol claim help"
-  - "civil claim urgent"
-  - "help i missed a court deadline"
-  - "help i have a default judgment"
-  - "help i missed a claim form"
-  - "help i forgot to respond to court"
-  - "what do i do if i missed a court date"
-  - "what do i do if a ccj is entered"
-  - "what do i do if i missed a response deadline"
-  - "what do i do if i get a decree in absence"
-  - "ccj on credit file"
-  - "county court judgment notice"
-  - "notice of default"
-  - "form n244"
-  - "form 13b"
-  - "application to recall"
-  - "application to set aside"
-  - "missed claim form"
-  - "wrong address court papers"
-last_reviewed: "2026-03-17"
+  - default judgment
+  - missed court deadline
+  - missed response deadline
+  - late court response
+  - didn’t file a defence in time
+  - didn’t acknowledge service in time
+  - claim form missed
+  - court papers arrived late
+  - papers not received
+  - served at old address
+  - judgment without hearing
+  - set aside default judgment
+  - reopen a case
+  - decree in absence
+  - recall a decree
+  - sheriff court missed deadline
+  - county court claim panic
+  - money claim online
+  - mcol claim
+  - civil claim urgent
+  - enforcement risk
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you learn a default judgment may be entered because you missed a response deadline (UK)
 
 ## Short answer
-Contact the court immediately to verify if judgment has been entered; if not, file your response or Acknowledgment of Service now to block the entry of judgment. If judgment is already on the record, you must submit an urgent application (such as Form N244 in England/Wales or Form 13B in Scotland) to set it aside or recall it.
+Act today: confirm **which UK court system your case is in** and whether judgment is already entered, then file the quickest “protective” step that system accepts (a response if still allowed, or an urgent application to reopen/set aside if not).
 
 ## Do not do these things
-- Do not assume the case is "on hold" while you investigate; claimants can often request judgment the minute a deadline passes.
-- Do not rely on verbal agreements from the claimant to "not enter judgment" unless you have secured a formal stay or filed a response with the court.
-- Do not send a letter of explanation instead of the required court forms; courts usually only act on specific procedural applications.
-- Do not wait for bailiffs or enforcement officers to arrive before challenging the judgment.
-- Do not pay the full claim amount immediately if you intend to dispute the debt, as payment may be interpreted as admitting the claim.
+- Do not ignore it because you think “they need a hearing first” — default decisions can happen on paperwork.
+- Do not rely on phone calls alone — ask what you must **file** and how to file it.
+- Do not pay someone who contacts you out of the blue claiming they can “stop the judgment” — verify the case using official court contact details.
+- Do not send long, unfocused explanations. Courts usually need a clear request (for example: “set aside/recall” and why).
+- Do not agree to “wait” because the other side says they won’t act — protect your position with the court first.
 
 ## What to do now
-1. **Identify the specific court system and case number from your paperwork.** 
-   - Check if the header says "Civil Justice Centre" or "CNBC" (England & Wales), "Sheriff Court" (Scotland), or "County Court / High Court" (Northern Ireland).
-2. **Contact the court office immediately to verify the current status of the case.** 
-   - Ask the clerk if a "Request for Judgment" has been filed by the claimant and if a judgment has been officially entered into the system.
-   - If judgment is not yet entered, ask if they will still accept a digital or paper filing of an Acknowledgment of Service or Defence today.
-3. **If in England & Wales and judgment is not yet entered, file your response instantly.** 
-   - **Log in to Money Claim Online (MCOL) or the Online Civil Money Claims service if the claim started there.**
-   - **Submit an Acknowledgment of Service (AOS) immediately to gain an extra 14 days for your full Defence.**
-   - Filing a response before the court processes a claimant's request for judgment usually takes priority and prevents the default judgment from being recorded.
-4. **If in England & Wales and judgment has already been entered, file Form N244 to set it aside.** 
-   - **Complete Form N244 requesting the judgment be set aside under Civil Procedure Rule 13.3.**
-   - **Attach a draft Defence to the application to prove you have a "real prospect of success" in defending the claim.**
-   - Explicitly state in your witness statement that you acted "promptly" once you became aware of the claim or judgment.
-5. **If in Scotland, file an Application to Recall (Form 13B) with the Sheriff Court.** 
-   - **Ensure you include a completed Response Form (Form 4A) if you are recalling a decision made because you didn't respond.**
-   - **Submit this within 14 days of being served with a "charge to pay" or "arrestment," as there are strict time limits for recall.**
-   - Note that you can only recall a decision once; if you miss this, the decree (judgment) becomes final.
-6. **If in Northern Ireland, apply to the court office to set aside the default judgment.** 
-   - **Ask the court office for the specific form (typically Form 129) required for your claim type.**
-   - **Provide evidence of why you missed the deadline, such as proof of a change of address or late delivery of mail.**
-7. **Calculate the "deemed date of service" to check if you are actually late.** 
-   - **Review the postmark or the date on the Claim Form; in many systems, service is deemed to happen 5 days after the issue date.**
-   - If the deadline hasn't actually passed, file your Acknowledgment of Service immediately to secure your position.
+1. **Work out which UK court system this is (this changes the fix).** Check the paperwork for where it’s issued:
+   - **England & Wales** (County Court / High Court; often MCOL/CNBC for money claims).
+   - **Scotland** (Sheriff Court; simple procedure/summary cause/ordinary cause).
+   - **Northern Ireland** (County Court / High Court).
+2. **Check whether a default decision is already on the record.** Using the case number, contact the relevant court office/service and ask:
+   - “Has default judgment (or the equivalent) been entered?”
+   - “If not, has it been requested / is it pending?”
+   - “What can I still file today, and by what method (online, email, in person)?”
+3. **If this is England & Wales and judgment is NOT entered yet: file a response immediately.**
+   - If you can still file an **Acknowledgment of Service** or **Defence** through the correct channel (often MCOL for MCOL cases), do it the same day and keep proof (confirmation screen/receipt).
+   - If you’re already late, ask the court service what they accept as a same-day “protective” filing (some situations require an application rather than a late defence).
+4. **If this is England & Wales and judgment IS entered (or you can’t stop it in time): prepare an urgent set-aside application.**
+   - This is commonly done using **Form N244** to ask the court to set aside/vary the judgment and (if relevant) suspend enforcement.
+   - Keep your request tight: (a) you acted promptly once you found out, and (b) why judgment should be set aside (for example, it was wrongly entered / you weren’t served / you have a real defence).
+5. **If this is Scotland: act fast to ask about “recall” (especially if it was decided in your absence).**
+   - Call the **Sheriff Court** named on the paperwork and ask the sheriff clerk what the correct procedure is to **recall** a decision/decree made because you didn’t respond/appear.
+   - If it’s **simple procedure**, ask specifically about making an application to recall (commonly using **Form 13B**) and what you must lodge with it (such as your response/defence).
+6. **If this is Northern Ireland: ask the court office how to apply to set aside the default judgment.**
+   - Use the case number and ask what form/rule applies and whether you should also request a pause on enforcement while the application is decided.
+7. **Make a one-page timeline and save proof (10 minutes).** Collect in one place:
+   - the envelope/postmark (if late post matters), screenshots, and any proof of address change;
+   - the exact date you first learned about the claim/judgment;
+   - a short outline of your defence (even bullet points).
+8. **If fees are a barrier, submit fee help at the same time as your application where available.** In England & Wales you can apply for “Help with Fees” and submit it alongside the court form you’re filing.
 
 ## What can wait
-- You do not need to gather every piece of evidence for your full trial today.
-- You do not need to negotiate a settlement with the claimant until you have confirmed whether the court has blocked or entered the judgment.
-- You do not need to pay the court fee for an application today if you are eligible for "Help with Fees" or fee remission; you can submit the fee help application alongside your forms.
+- You do not need to decide today whether to settle the whole claim.
+- You do not need a perfect, fully evidenced defence today — your priority is to stop a default outcome or get the case reopened.
+- You do not need to debate the merits with the claimant/solicitor until you’ve protected your court position.
 
 ## Important reassurance
-Courts generally prefer cases to be decided on their merits rather than on a technicality like a missed deadline. If you can show that you have a potential defence and that you acted quickly as soon as you realized the mistake, the court has the power to set the judgment aside and allow the case to proceed normally.
+This is a common, fixable situation — especially when papers were missed, delayed, or went to an old address. The most important thing is acting promptly once you know, and using the right process for your UK jurisdiction.
 
 ## Scope note
-This guide covers the immediate procedural steps to stop or undo a default judgment. It does not provide the legal arguments for your defence or advice on how to win the substantive case.
+These are first steps only, aimed at stopping a default outcome or reopening the case. The next stages (defence drafting, evidence, negotiation) may need specialist advice based on your case and local rules.
 
 ## Important note
-Legal procedures and forms differ significantly between England & Wales, Scotland, and Northern Ireland. Deadlines for "recall" or "set aside" are strictly enforced. Professional legal advice or assistance from a citizens advice bureau is recommended if you are unsure which form to use or how to draft your defence.
+This is general information, not legal advice. Court procedures differ across England & Wales, Scotland, and Northern Ireland, and also by claim type. When you contact the court, focus on two questions: **what has already been entered** and **what must be filed next** to prevent or undo a default outcome.
 
 ## Additional Resources
-- https://www.gov.uk/government/publications/form-n244-application-notice/how-to-complete-the-n244-application-notice
+- https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part12
+- https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part13
 - https://www.gov.uk/government/publications/form-n244-application-notice
-- https://www.gov.uk/county-court-judgments-ccj-for-debt/cancel-the-judgment
-- https://www.citizensadvice.org.uk/debt-and-money/action-your-creditor-can-take/if-youre-being-taken-to-court-for-debt/
-- https://nationaldebtline.org/get-information/guides/setting-aside-a-ccj-ew/
+- https://www.gov.uk/government/publications/money-claim-online-user-guide/money-claim-online-mcol-user-guide
+- https://www.gov.uk/get-help-with-court-fees
+- https://www.scotcourts.gov.uk/taking-action/simple-procedure/recall-of-the-decision-and-appeal/
+- https://nationaldebtline.org/get-information/guides/recall-of-a-decree-s/

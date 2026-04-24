@@ -1,96 +1,87 @@
----
+﻿---
 title: "What to do if… your oven or hob will not turn off and you’re worried it may be unsafe"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "oven won-t turn off"
-  - "hob won-t turn off"
-  - "stove won-t turn off"
-  - "cooker won-t turn off"
-  - "oven stuck on"
-  - "hob stuck on"
-  - "cooker stuck on"
-  - "electric oven stuck on"
-  - "gas hob stuck on"
-  - "can-t turn cooker off"
-  - "oven control stuck"
-  - "hob control knob stuck"
-  - "oven overheating"
-  - "kitchen appliance won-t switch off"
-  - "worried cooker is unsafe"
-  - "burner won-t go out"
-  - "range won-t shut off"
-  - "oven won-t stop heating"
-  - "help i can-t turn my oven off"
-  - "help my hob is stuck on"
-  - "what do i do if my cooker won-t turn off"
-  - "what do i do if the stove is stuck"
-  - "smell of gas kitchen"
-  - "burning smell from oven"
-  - "hot control knobs on cooker"
-  - "glowing red oven element"
-  - "stuck gas dial"
-  - "electric cooker isolation switch"
-  - "gas meter emergency valve"
-  - "faulty oven thermostat"
-last_reviewed: "2026-03-17"
+  - oven won’t turn off
+  - hob won’t turn off
+  - stove won’t turn off
+  - cooker won’t turn off
+  - oven stuck on
+  - hob stuck on
+  - cooker stuck on
+  - electric oven stuck on
+  - gas hob stuck on
+  - can’t turn cooker off
+  - oven control stuck
+  - hob control knob stuck
+  - oven overheating
+  - kitchen appliance won’t switch off
+  - worried cooker is unsafe
+  - burner won’t go out
+  - range won’t shut off
+  - oven won’t stop heating
+last_reviewed: "2026-03-05"
 ---
-# What to do if… your oven or hob will not turn off and you’re worried it may be unsafe (UK)
 
+# What to do if… your oven or hob will not turn off and you’re worried it may be unsafe (UK)
 ## Short answer
-Isolate the appliance from its power or fuel source at the wall switch or the meter. If you smell gas or suspect carbon monoxide exposure, evacuate the building immediately and call the National Gas Emergency Service on 0800 111 999.
+Shut off the heat source at the safest upstream point you can reach (cooker isolation switch / consumer unit for electric, gas isolation valve or meter control for gas). If you can smell gas or suspect a leak, treat it as a gas emergency: get everyone out to fresh air and call 0800 111 999.
 
 ## Do not do these things
-- Don't continue to force or wiggle control knobs if they are physically jammed or unusually hot.
-- Don't use water to extinguish smoke or flames inside an oven or on a hob.
-- Don't operate any electrical switches, including lights or doorbells, if you suspect a gas leak.
-- Don't attempt to pull a heavy or hard-wired cooker away from the wall while it is still powered.
-- Don't stay inside a room to "monitor" the heat if you feel dizzy, nauseated, or have a headache.
+- Don’t keep fiddling with the controls if they feel stuck, sparking, or unusually hot — step back and isolate the supply.
+- Don’t pour water on anything that’s smoking or burning inside the oven or on the hob.
+- Don’t use light switches, plug sockets, or doorbells if you smell gas (a spark can ignite it).
+- Don’t try to dismantle the cooker, pull it out aggressively, or attempt a DIY repair.
+- Don’t stay inside to “air it out” if you smell gas — leave first.
 
 ## What to do now
-1. **Evacuate the kitchen immediately if there are active flames or heavy smoke.**
-   - If a fire is contained inside the oven, keep the door closed to starve it of oxygen.
-   - If the fire is spreading or you cannot safely reach the isolation point, leave the property and call 999.
-2. **Open windows and doors to ventilate the area.**
-   - Do this only if you do not smell gas.
-   - If there is a strong smell of gas, skip this and evacuate immediately.
-3. **Identify if the appliance is gas or electric.**
-   - Gas appliances typically have a visible flame or a specific "hissing" sound.
-   - Electric appliances have glowing elements or digital displays and no smell of raw gas.
-4. **Isolate an electric cooker at the wall switch.**
-   - Locate the large red "Cooker" isolation switch, usually found on the wall behind or to the side of the appliance.
-   - Switch it to the "Off" position to cut power to both the oven and the hob.
-5. **Isolate a gas supply if the burner remains lit.**
-   - Locate the emergency control valve near your gas meter.
-   - Turn the handle so it is at a right angle (90 degrees) to the pipe to shut off the gas.
-   - Do not do this if you must reach through heat or flames.
-6. **Shut off the circuit at the consumer unit if the wall switch is unreachable.**
-   - Go to your fuse box and flip the switch marked "Cooker" or "Oven" to "Off".
-   - If you cannot identify the circuit, you can use the Main Switch, but be aware this will turn off all lights and power in the property.
-7. **Contact the National Gas Emergency Service on 0800 111 999 if you smell gas.**
-   - Call from outside the property using a mobile phone.
-   - Inform them if you have been unable to turn off the appliance.
-8. **Check for symptoms of carbon monoxide poisoning.**
-   - If anyone in the property feels nauseated, has a headache, or feels dizzy, call NHS 111.
-   - If symptoms are severe (fainting or difficulty breathing), call 999.
+1. **Move people and pets away from the kitchen** and clear anything flammable (tea towels, paper towels, packaging, curtains) away from the cooker area.
+2. **If there are flames, smoke, or a visible fire:**  
+   - **If it’s safe, turn off the heat source** (don’t reach through flames or heavy smoke).  
+   - **If it’s an oven fire:** keep the door **closed**.  
+   - If you feel at risk or it’s spreading, **leave the property and call 999**.
+3. **Work out whether it’s gas or electric (or both):**
+   - **Gas:** visible flame and/or you can smell gas.  
+   - **Electric:** no flame, but elements stay glowing or hobs stay hot even when “off”.
+4. **If you smell gas, or suspect a gas leak:**
+   - **Leave the property immediately** and get to fresh air.  
+   - **Do not operate electrical switches** (including turning lights on/off) and don’t smoke or use naked flames.  
+   - **If (and only if) it’s quick and safe to do on your way out,** turn off the gas at the **emergency control valve** (at/near the meter). **Do not delay leaving** to find it.  
+   - From outside/a safe place, **call the National Gas Emergency Service: 0800 111 999 (24/7).**
+5. **If it’s electric (or you’re not sure, but there’s no gas smell):**
+   - Turn the cooker **off at the cooker control unit / isolator switch** (often a wall switch near the cooker).  
+   - If it still won’t stop heating, and **you can reach it safely**, go to your **consumer unit (fuse box)** and **switch off the cooker circuit**.  
+   - If you can’t identify the cooker circuit and you believe there’s immediate danger (burning smell/smoke/overheating), **switch off the main switch only if it’s safe to do so**. Otherwise, **leave and call 999**.
+6. **If it’s gas and a burner won’t go out (even without a strong gas smell):**
+   - Turn the burner control(s) to **OFF**.  
+   - If the flame remains or you can still hear gas, **turn off the appliance isolation valve** (if there is one and it’s accessible) or the **emergency control valve** at the meter **only if you can do it quickly and safely**.  
+   - If you smell gas at any point, follow Step 4 and **call 0800 111 999** from outside.
+7. **Once the supply is isolated, keep the cooker “out of use”:**
+   - Put a visible note on it: **“Do not use — unsafe”**.  
+   - Keep the area clear. If there was smoke, ventilate the kitchen **after** the heat source is off and it’s safe to stay inside.
+8. **Get the right professional help (same day if possible):**
+   - **Gas cooker/hob:** contact a **Gas Safe registered engineer** (or your landlord/agent if you rent).  
+   - **Electric cooker/hob:** contact a **qualified electrician** or appliance engineer.  
+   - If you rent, report it as an **urgent repair** and tell them you have **isolated the supply for safety**.
 
 ## What can wait
-- You do not need to determine why the appliance failed or which component is broken right now.
-- You do not need to clean the appliance or the surrounding area until it has completely cooled.
-- You do not need to find your warranty or purchase documents until the situation is stabilised.
+- You do **not** need to diagnose the fault, order parts, or search for reset sequences while you’re stressed.
+- You do **not** need to decide today whether to replace the cooker — keep it isolated and arrange inspection/repair.
+- You do **not** need to clean up or move the appliance right now (especially if it’s hot or hard-wired).
 
 ## Important reassurance
-Appliance controls can fail due to mechanical wear or electrical faults. Your only priority is to cut the energy supply safely. Once the power or gas is off, the immediate risk of fire or explosion is significantly reduced. It is normal to feel anxious when a high-heat appliance remains on, but following isolation procedures manages this risk effectively.
+This is a common type of appliance failure, and your job in the moment is simply to remove the heat source and reduce risk — not to “fix” it. Once the supply is isolated and the area is clear, you’ve already done the most important safety steps.
 
 ## Scope note
-This guide provides first-step stabilisation only. It does not cover technical repairs or diagnostics. The appliance must be inspected by a Gas Safe registered engineer (for gas) or a qualified electrician (for electric) before being used again.
+These are first steps to stabilise the situation and prevent harm. A professional may need to test the cooker and (if relevant) the gas supply before it’s used again.
 
 ## Important note
-This information is for emergency stabilisation and does not replace professional trade advice. If you are a tenant, notify your landlord or letting agent immediately after isolating the supply. Do not attempt to dismantle the appliance yourself.
+This guide is general information for immediate safety steps, not professional advice. If you think there is any immediate danger (fire, heavy smoke, strong gas smell, symptoms of gas exposure), prioritise leaving to safety and contacting emergency services.
 
 ## Additional Resources
-- https://www.electricalsafetyfirst.org.uk/product-recalls/
-- https://www.gov.uk/product-safety-alerts-reports-recalls
-- https://www.gov.uk/government/publications/make-your-home-safe-from-fire/fire-safety-in-the-home-accessible-version
-- https://www.firescotland.gov.uk/at-home/electrical-safety/
-- https://www.cumbriafire.gov.uk/cooking-safety
+- https://www.nationalgas.com/emergency-contacts
+- https://www.gov.uk/government/publications/methane-properties-uses-and-incident-management/methane-general-information
+- https://www.gassaferegister.co.uk/gas-emergency/what-to-do-in-a-gas-emergency/
+- https://cadentgas.com/smell-gas
+- https://www.britishgas.co.uk/help-and-support/emergencies

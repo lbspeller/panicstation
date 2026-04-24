@@ -1,102 +1,81 @@
----
+﻿---
 title: "What to do if… you notice a new lump or swelling that appeared suddenly and is growing"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "new lump appeared suddenly"
-  - "swelling getting bigger"
-  - "rapidly growing lump"
-  - "new hard lump"
-  - "painful red hot swelling"
-  - "unexplained lump under skin"
-  - "lump that feels fixed"
-  - "sudden neck lump"
-  - "armpit groin swollen lump"
-  - "breast lump new"
-  - "testicle lump new"
-  - "swelling after minor injury"
-  - "possible skin infection swelling"
-  - "abscess like lump"
-  - "cellulitis type swelling"
-  - "allergic swelling lips face"
-  - "angioedema type swelling"
-  - "lump with fever symptoms"
-  - "lump with trouble swallowing"
-  - "lump causing numbness"
-  - "growing lump on arm"
-  - "growing lump on leg"
-  - "sudden swelling on neck"
-  - "what do i do if i find a lump"
-  - "what do i do if swelling is growing"
-  - "what do i do if a lump is red and hot"
-  - "what do i do if my throat is swelling"
-  - "help i have a new lump"
-  - "help i have a sudden swelling"
-  - "help my lump is getting bigger"
-  - "help my swelling is painful"
-  - "my lump is hard and fixed"
-  - "my swelling is spreading fast"
-  - "visible red streaks from lump"
-  - "skin feels hot near swelling"
-  - "mottled skin near lump"
-  - "lump appeared overnight"
-last_reviewed: "2026-03-16"
+  - new lump appeared suddenly
+  - swelling getting bigger
+  - rapidly growing lump
+  - new hard lump
+  - painful red hot swelling
+  - unexplained lump under skin
+  - lump that feels fixed
+  - sudden neck lump
+  - armpit groin swollen lump
+  - breast lump new
+  - testicle lump new
+  - swelling after minor injury
+  - possible skin infection swelling
+  - abscess like lump
+  - cellulitis type swelling
+  - allergic swelling lips face
+  - angioedema type swelling
+  - lump with fever symptoms
+  - lump with trouble swallowing
+  - lump causing numbness
+last_reviewed: "2026-01-21"
 ---
+
 # What to do if… you notice a new lump or swelling that appeared suddenly and is growing (UK)
 
 ## Short answer
-Request an urgent GP appointment or use NHS 111 (online at 111.nhs.uk or by phone) for same-day assessment. If you have any trouble breathing, a swollen tongue, or feel faint, call 999 immediately.
+Get it checked promptly. If it’s growing quickly or you also have redness/heat/pain, fever, or you cannot get a GP appointment, use NHS 111 for same-day advice; if you have mouth/tongue/throat swelling or breathing trouble, call 999 now.
 
 ## Do not do these things
-- Do not squeeze, pick, or attempt to drain the lump with a needle or tool.
-- Do not delay seeking help if the swelling is hot, spreading, or accompanied by a fever.
-- Do not apply ice or heat directly to the lump until advised by a professional.
-- Do not take leftover antibiotics from a previous prescription.
-- Do not drive yourself to a hospital if you feel dizzy, confused, or if your breathing is affected.
+- Do not squeeze, lance, puncture, or try to drain the lump.
+- Do not “wait and see” if it is getting bigger quickly, becoming red/hot/painful, or you feel unwell.
+- Do not keep pressing or massaging it to “see if it moves.”
+- Do not take leftover antibiotics or someone else’s medication.
+- Do not drive yourself if you feel faint/very unwell, or if swelling is affecting breathing or swallowing.
 
 ## What to do now
-1. **Call 999 immediately if you have signs of a severe allergic reaction or sepsis.**
-   - Act now if your lips, mouth, throat, or tongue are swollen.
-   - Act now if you are struggling to breathe, gasping for air, or your voice is suddenly hoarse.
-   - Act now if you feel dizzy, faint, or confused.
-   - Act now if your skin looks blue, grey, or pale (this may be easier to see on palms or soles of feet).
-   - While waiting for an ambulance, lie down flat; if breathing is difficult, sit up slowly but do not stand.
-2. **Access NHS 111 online or by phone for urgent non-emergency assessment.**
-   - If the lump is growing quickly, is very painful, or you have a high temperature, go to **111.nhs.uk** (for ages 5+) or call **111**.
-   - If you are in Scotland, use **NHS Inform**; in Wales, use **111.wales.nhs.uk**.
-3. **Contact your GP surgery for an urgent same-day appointment.**
-   - State clearly: **"I have a new lump that appeared suddenly and it is visibly growing."**
-   - If the surgery is closed, do not wait until morning; use the 111 service.
-4. **Identify specific "Red Flag" locations that require immediate booking.**
-   - Any new **breast lump** (regardless of pain).
-   - Any new **lump in the testicles**.
-   - Any lump in the **neck, armpit, or groin** that is hard, fixed, or larger than 2cm.
-5. **Prepare a summary of sensory observations for the clinician.**
-   - Note the exact time you first saw it and how much it has changed.
-   - Observe if the skin is **red, hot, or has red streaks** moving away from the lump.
-   - Note if the lump feels **soft and moves** or **hard and fixed** (but do not prod it repeatedly).
-6. **Photograph the area once for documentation.**
-   - Take one clear photo in natural light to show the current size.
-   - If there is a red area on the skin, you may draw a thin line around the border to monitor if the infection is spreading, but **do not wait** for it to spread before seeking help.
+1. **Check for emergency red flags (act immediately if any):**
+   - **Call 999** if your **lips, mouth, tongue or throat** are swollen, you’re **struggling to breathe**, your throat feels tight, you’re **struggling to swallow**, you become very drowsy/confused/dizzy, or you look blue/grey/pale.
+2. **If not 999, pick the fastest safe NHS route to assessment:**
+   - If you can, **contact your GP surgery** and say: **“New lump/swelling appeared suddenly and it’s getting bigger.”**
+   - If you **cannot get a prompt GP appointment**, or it’s **growing quickly** or you also have **redness/heat/pain, fever, or you feel generally unwell**, use **NHS 111 (online or phone)** for **same-day direction**.
+3. **Make a 60-second symptom summary you can read out:**
+   - When you first noticed it, and how fast it’s changing.
+   - Where it is (exact spot), and whether it’s painful, red, hot, itchy, or firm/fixed.
+   - Any triggers: recent infection, insect bite/sting, injury/bruise, new medication/food, or recent vaccination.
+4. **Document change without poking it:**
+   - Take a clear **photo** in good light.
+   - **Only if there is a red patch on the skin**, you can draw a thin line around the edge and note the time. This is just to show change—**do not use it to delay getting help** if it’s spreading fast or you feel unwell.
+5. **For specific high-importance locations, don’t postpone booking an exam:**
+   - If it’s a **breast lump** or a **testicular lump**, **book a GP appointment as soon as you can** even if it’s not painful.
+   - If it’s a **neck lump** and you also have **voice change, trouble swallowing, or breathing discomfort**, use **111 urgently** (or **999** if severe).
+6. **If you feel generally unwell, treat it as more urgent:**
+   - Fever/chills, rapidly spreading redness, worsening pain, or feeling “flu-like” alongside swelling should push you toward **urgent same-day advice** via **111**, or **A&E** if severe.
 
 ## What can wait
-- You do not need to determine the cause or diagnosis yourself right now.
-- You do not need to perform a "test" to see if the lump responds to pressure or massage.
-- You do not need to research medical images or rare conditions online.
-- You do not need to seek private diagnostics before your initial NHS assessment.
+- You do not need to decide what it “is” right now.
+- You do not need to research images online or keep re-checking it every hour.
+- You do not need to arrange private tests before a first NHS assessment unless you choose to—your first step is simply getting examined.
+- You do not need to repeatedly measure it; one clear photo and your best estimate of change is enough for now.
 
 ## Important reassurance
-Sudden lumps are very common and are frequently caused by non-serious issues like local infections, cysts, or reactive lymph nodes. Seeking a prompt professional assessment is the standard safe response to ensure any necessary treatment, such as antibiotics for an infection, is started before the swelling worsens.
+New lumps and sudden swelling are common, and many causes are treatable (for example inflammation, infection, a cyst, a bruise, or a reactive lymph node). The safest move is not to self-treat or repeatedly prod it—just get it assessed promptly, especially because you’ve noticed it’s growing.
 
 ## Scope note
-This guide provides first-step stabilization and routing to UK emergency or urgent care services. It does not replace clinical diagnosis or long-term management plans.
+These are first steps to keep you safe and route you to the right NHS service. Next steps (monitoring, treatment, tests or referrals) depend on what a clinician finds.
 
 ## Important note
-This information is for guidance only and does not constitute medical advice. If your condition deteriorates rapidly, or if you develop a rash that does not fade under a glass, seek emergency medical care immediately.
+This guide is general information, not a diagnosis. If symptoms are rapidly worsening, you feel seriously unwell, or you have any breathing/swallowing symptoms, use emergency services.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/lumps/
-- https://www.nhs.uk/conditions/soft-tissue-sarcoma/symptoms/
-- https://www.nhs.uk/conditions/lipoma/
-- https://www.nhs.uk/conditions/skin-cyst/
-- https://www.nhs.uk/symptoms/swollen-glands/
+- https://www.nhs.uk/conditions/anaphylaxis/
+- https://www.nhs.uk/conditions/cellulitis/
+- https://111.nhs.uk/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
+- https://111.wales.nhs.uk/encyclopaedia/a/article/angioedema

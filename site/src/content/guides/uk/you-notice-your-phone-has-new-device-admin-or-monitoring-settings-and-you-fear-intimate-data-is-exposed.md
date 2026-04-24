@@ -1,106 +1,82 @@
----
+﻿---
 title: "What to do if… you notice your phone has new “device admin” or monitoring settings and you fear intimate data is exposed"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "phone monitoring"
-  - "device admin appeared"
-  - "new admin settings"
-  - "spyware on phone"
-  - "stalkerware concern"
-  - "intimate data exposed"
-  - "partner tracking phone"
-  - "ex monitoring device"
-  - "hidden monitoring app"
-  - "suspicious phone settings"
-  - "phone privacy fear"
-  - "digital abuse signs"
-  - "coercive control tech"
-  - "someone reading messages"
-  - "location tracking concern"
-  - "unsafe shared phone"
-  - "phone suddenly restricted"
-  - "unknown administrator app"
-  - "intimate photos risk"
-  - "abusive partner surveillance"
-  - "what do i do if my phone is monitored"
-  - "what do i do if i find spyware"
-  - "what do i do if my partner sees my messages"
-  - "what do i do if device admin is active"
-  - "help i think my phone is tracked"
-  - "help i found a strange admin app"
-  - "help my ex is watching my phone"
-  - "help my private photos are at risk"
-  - "unauthorized remote access"
-  - "strange administrator profile"
-  - "phone heat and battery drain"
-  - "unexpected location icon"
-  - "device administrator settings uk"
-  - "coercive control phone evidence"
-  - "revenge porn fear support"
-last_reviewed: "2026-03-17"
+  - phone monitoring
+  - device admin appeared
+  - new admin settings
+  - spyware on phone
+  - stalkerware concern
+  - intimate data exposed
+  - partner tracking phone
+  - ex monitoring device
+  - hidden monitoring app
+  - suspicious phone settings
+  - phone privacy fear
+  - digital abuse signs
+  - coercive control tech
+  - someone reading messages
+  - location tracking concern
+  - unsafe shared phone
+  - phone suddenly restricted
+  - unknown administrator app
+  - intimate photos risk
+  - abusive partner surveillance
+last_reviewed: "2026-03-14"
 ---
-# What to do if… you notice your phone has new “device admin” or monitoring settings and you fear intimate data is exposed (UK)
 
+# What to do if… you notice your phone has new “device admin” or monitoring settings and you fear intimate data is exposed (UK)
 ## Short answer
-Stop using the compromised device for any private activity or safety planning and move to a trusted / neutral device. Contact the National Domestic Abuse Helpline at 0808 2000 247 for specialist tech-safety advice before attempting to delete apps or change settings.
+Pause before changing or deleting anything on that phone. If this could be abuse or coercive control, use a safer device to get support and make a calm plan for your phone, accounts, and immediate safety.
 
 ## Do not do these things
-- Do not confront the suspected person using the device you believe is monitored.
-- Do not attempt to investigate, "hack back," or run unknown anti-spyware tools on the device.
-- Do not delete apps, factory reset, or change settings until you have decided if you need to preserve evidence.
-- Do not use the phone to search for help, contact lawyers, or discuss plans to leave.
-- Do not assume that "private" or "incognito" browser modes will hide your activity from device-level monitoring.
-- Do not provide new biometric data (fingerprints / face scans) or passcodes if pressured to "prove" your innocence.
+- Do not confront the person you suspect through the monitored phone.
+- Do not rush to uninstall apps, factory-reset the phone, or switch everything off if you may want support or a record of what happened later.
+- Do not assume private browsing, deleting history, or closing apps makes your activity invisible.
+- Do not keep typing sensitive searches, new passwords, or private messages on the device you do not trust.
+- Do not hand over more access, passcodes, fingerprints, or face unlock “just to prove” anything.
+- Do not blame yourself for not spotting this sooner.
 
 ## What to do now
-1. **Switch all sensitive communication and safety planning to a safer device immediately.** Use a trusted friend’s phone, a library computer, or a separate work device that the suspected person has never accessed.
-   - Use this safer device to change passwords for your primary email, cloud storage, and banking.
+1. **Move your next important step to a safer device if you can.** A trusted friend’s phone, a work device, or a library computer is often safer than the phone you are worried about. Use that safer device for support, account recovery, and anything about intimate images, safety, or leaving.
 
-2. **Contact the National Domestic Abuse Helpline for tech-facilitated abuse support.** Call 0808 2000 247 (available 24 / 7) or use their live chat from a safer device to speak with specialists who understand "stalkerware" and coercive control.
-   - They can help you create a safety plan that accounts for how the other person might react if they notice they have lost access.
+2. **Get specialist support before making big device changes.** In the UK, Refuge’s 24-hour National Domestic Abuse Helpline can help you think through phone monitoring, tech abuse, and safer next steps without pressuring you to report. If there is immediate danger, call 999.
 
-3. **Call the Revenge Porn Helpline if you specifically fear the leak of intimate images.** If you are over 18 in the UK, call 0345 6000 459 (Mon–Fri, 10 am – 4 pm) for expert advice on preventing the spread of non-consensual images.
-   - They can provide guidance on using tools like StopNCII.org to protect your data.
+3. **Make a very short record somewhere safer.** Write down the date, time, what new setting or message appeared, the name of any unknown app or “device admin,” and what access you think may be affected. Keep it factual and brief. If taking a screenshot on that phone feels risky, do not force it.
 
-4. **Document what you see without alerting the monitoring software.** Use a different camera to take a photo of the "device admin" list or the suspicious app name if it is safe to do so.
-   - Note the date, time, and any specific behaviors (e.g., the phone getting hot, battery draining fast, or someone mentioning details they could only know from your texts).
+4. **Treat the phone as possibly visible to the other person.** For now, avoid using it for private calls, intimate disclosures, new secret email addresses, legal advice, safety planning, or conversations about leaving, reporting, or changing accounts.
 
-5. **Treat the compromised phone as a "broadcast" device for now.** Continue using it for "boring" or non-sensitive tasks (like checking the weather or public news) so the person monitoring does not immediately realize you have discovered the software.
-   - Avoid logging into any new accounts or typing sensitive passwords on this device.
+5. **Protect the accounts that matter most from a safer device.** Start with the email account that resets other accounts, then cloud photo storage, messaging apps, your main phone account, banking, and any account holding intimate images or backups. Change passwords there, review signed-in devices, and sign out of devices you do not recognise.
 
-6. **Secure your "master" accounts from your safer device.** Prioritize the email address used for "password resets" and your main cloud account (iCloud / Google).
-   - Enable Two-Factor Authentication (2FA) using an app like Google Authenticator on your *new/safe* device, rather than SMS codes sent to the monitored phone.
+6. **Check whether location or sharing is still active.** From a safer place and device where possible, review location sharing, cloud photo sharing, shared albums, family-sharing style features, linked tablets or watches, and backup settings. Turn off only what you can do safely without alerting someone in a way that puts you at more risk.
 
-7. **Review your location-sharing settings only when you are in a safe location.** Check Google Maps "Location Sharing," Apple "Find My," and "Family Sharing" groups.
-   - Be aware that turning these off may send an immediate notification to the other person.
+7. **If you use an iPhone, review Apple Safety Check if your phone supports it.** It can help review sharing and device or account access. Use it only when you have a safer pause to do so. If the phone itself feels unsafe to touch, leave this step and use support first.
 
-8. **Check for "Device Admin" or "Profiles" on Android or iOS if you feel safe doing so.** On Android, search settings for "Device Admin Apps"; on iPhone, look under Settings > General > VPN & Device Management.
-   - Note the names of any active entries but do not "Deactivate" them until your safety plan is in place.
+8. **If you use Android, check unfamiliar high-access settings only if it feels safe.** Search Settings for terms such as “device admin,” “admin apps,” or “special access,” and note anything unfamiliar. The wording and menu names can vary by phone and Android version. You do not need to remove it right now to take this seriously.
 
-9. **Verify your identity and age on Apple devices if prompted by 2026 UK requirements.** Recent iOS updates (26.4+) may prompt for age verification in the UK; ensure you are performing this on your own terms and not under the direction of someone else.
-   - If someone else is managing your "Family" group, they may be using these safety features to restrict your access.
+9. **Think beyond the phone.** If someone had physical access to your device or knew your passcode, they may also know your email, cloud backups, photo library, or SIM or account details. Put your first energy into the accounts that unlock the rest.
 
-10. **Call 999 if you believe you are in immediate physical danger.** If you are being followed or the person is using the phone to track you in real-time, seek emergency assistance immediately.
+10. **If intimate images may be involved, get support without pressure.** You do not need to decide right now whether to report, confront, or preserve every possible detail. A domestic abuse service can help you choose the least risky next step for your situation.
+
+11. **If you may want to report later, avoid altering the device more than necessary until you have spoken to specialist support.** A brief note of what you saw and when is enough for now.
 
 ## What can wait
-- You do not need to decide today whether to report the situation to the police.
-- You do not need to understand "how" the software works or how it was installed.
-- You do not need to replace your hardware immediately if you can safely use a secondary device.
-- You do not need to confront the person or explain why you are using your phone less.
+You do not need to decide today whether to report to police, replace the phone, leave a relationship, explain anything to the other person, or conduct a full technical investigation. You also do not need to check every account in one sitting.
 
 ## Important reassurance
-Finding monitoring software on your device is a violation of your privacy and is a recognized form of domestic abuse in the UK. Feeling panicked, watched, or "crazy" is a natural response to digital surveillance. There are specialist teams in the UK dedicated to helping you regain your digital autonomy safely.
+This is a recognised form of abuse and control when used by a partner or ex-partner. Feeling confused, embarrassed, frozen, or unsure whether you are “overreacting” is very common. You are allowed to slow this down and choose safer steps.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction for suspected phone monitoring. It does not replace professional forensic analysis or legal advice regarding the Serious Crime Act 2015 or the Domestic Abuse Act 2021.
+This is first steps only. Later decisions about reporting, device forensics, account recovery, housing, or legal protection may need specialist help.
 
 ## Important note
-This information is for general guidance and is not a substitute for professional safety planning. In the UK, coercive control—including digital stalking—is a criminal offense. Always prioritize your physical safety over the security of your data.
+This is general information, not personal legal, technical, or clinical advice. In the UK, unwanted phone monitoring by a partner or ex-partner can be part of domestic abuse or other harmful controlling behaviour. The safest immediate step is usually support and safety planning rather than trying to investigate the phone alone.
 
 ## Additional Resources
-- https://refuge.org.uk/i-need-help-now/how-we-can-help-you/secure-your-tech/
+- https://www.nationaldahelpline.org.uk/how-we-can-support-you/protect-yourself-against-tech-abuse/
+- https://www.nationaldahelpline.org.uk/
 - https://womensaid.org.uk/information-support/what-is-domestic-abuse/cover-your-tracks-online/
-- https://womensaid.org.uk/information-support/what-is-domestic-abuse/online-safety/
-- https://www.nationaldahelpline.org.uk/what-is-abuse/
-- https://refuge.org.uk/i-need-help-now/how-to-identify-abuse/
+- https://www.gov.uk/guidance/domestic-abuse-how-to-get-help
+- https://support.apple.com/en-gb/guide/personal-safety/ips2aad835e1/web
+- https://support.apple.com/en-gb/guide/personal-safety/welcome/web

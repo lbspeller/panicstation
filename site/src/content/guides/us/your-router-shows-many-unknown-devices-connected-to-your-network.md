@@ -1,95 +1,106 @@
----
+﻿---
 title: "What to do if… your router shows many unknown devices connected to your network"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "social media account locked"
-  - "social media account suspended"
-  - "account disabled suddenly"
-  - "social media support unreachable"
-  - "locked out of instagram"
-  - "locked out of facebook"
-  - "locked out of x"
-  - "help i cannot log in"
-  - "my account was suspended"
-  - "what do i do if my account is locked"
-  - "what do i do if my instagram is disabled"
-  - "what do i do if my facebook is locked"
-  - "help i am locked out"
-  - "smell of scam"
-  - "visible suspension notice"
-  - "security check loop"
-  - "verification code not sending"
-  - "account recovery assistance"
-  - "social media help center"
-  - "meta support assistant"
-  - "hacked social media help"
-  - "suspicious login alert"
-  - "account recovery urgent"
-  - "login blocked error"
-  - "official appeal form"
-  - "my social media profile is gone"
-  - "help i lost my account"
-  - "social media lockout help"
-  - "what do i do if x is suspended"
-  - "social media account restricted"
-last_reviewed: "2026-03-17"
+  - unknown devices on wifi
+  - strangers on my wifi
+  - router shows new devices
+  - someone using my internet
+  - wifi hacked
+  - unauthorized devices network
+  - suspicious connected devices
+  - unknown mac address
+  - devices i don't recognize
+  - home wifi compromised
+  - router admin password
+  - wps enabled risk
+  - upnp enabled on router
+  - remote management on router
+  - change wifi password now
+  - update router firmware
+  - secure wireless network
+  - guest network confusion
+  - isp router security
+  - report cyber fraud ic3
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your router shows many unknown devices connected to your network (USA)
 
 ## Short answer
-Isolate the account by securing your linked email/phone, then use the platform's official "Support Assistant" or centralized hub to initiate an appeal. Avoid all third-party "recovery experts" and do not pay fees to regain access.
+Secure the router first: briefly cut the internet if you can, then change the router admin password and Wi-Fi password, disable WPS/UPnP/remote management, and update firmware.
 
 ## Do not do these things
-- Do not pay for "account recovery" services, "extractor software," or "insider access" from individuals in DMs or comments.
-- Do not provide verification codes, backup codes, or ID photos to anyone who contacts you first claiming to be "support."
-- Do not click links in emails or SMS alerts that claim your account is suspended; navigate directly to the official site/app instead.
-- Do not believe messages on Telegram or social media from people claiming to be FBI or IC3 employees offering to "recover funds" or accounts.
-- Do not repeatedly attempt to log in if the system shows a lockout timer, as this can trigger a permanent hardware ban.
-- Do not share "video selfies" or ID documents with any unofficial third-party form or website.
+- Don’t assume the device names are trustworthy (many will appear as “unknown” or “generic”).
+- Don’t rely on blocking one device at a time as your main fix (it doesn’t address how access happened).
+- Don’t do sensitive logins (banking, email, password changes) on this Wi-Fi until you’ve secured it—use cellular data instead.
+- Don’t factory-reset in a rush: try the key security steps first. If you can’t regain control of settings or things look tampered with, do a controlled reset later.
+- Don’t post router screenshots or device lists publicly.
 
 ## What to do now
-1. **Document the current state of the lockout**
-   - **Take screenshots of the exact error message, suspension reason, and any provided case numbers.**
-   - **Save the headers of any "security alert" emails received just before the lockout to check for spoofing.**
+1. **Move your own activity to a safer connection for the next few minutes.**  
+   Use **cellular data** on your phone (or a trusted wired connection) while you secure the router.
 
-2. **Secure the primary communication channel (Email/Phone)**
-   - **Change the password of the email account tied to the social media profile immediately.**
-   - **Review your email settings for "Auto-forwarding" rules or "Filters" that might be hiding platform notifications from you.**
-   - **Check the "Login Activity" or "Devices" section of your email provider and force a logout of all unfamiliar sessions.**
+2. **Buy time: briefly disconnect the router from the internet.**  
+   If it’s easy: unplug the **WAN/internet cable** (or power for a minute if you can’t). This can stop active access while you change settings.
 
-3. **Access the platform's 2026 centralized support tools**
-   - **Navigate to the "Support Hub" on Facebook or Instagram or the "Help Center" on X (formerly Twitter).**
-   - **Interact with the "Meta AI Support Assistant" if available, as it can now automate several account recovery pathways from within the help interface.**
-   - **Prepare for a "Video Selfie" verification if prompted, ensuring you are in a well-lit area with a neutral background.**
+3. **Change the router’s admin/login password (first).**  
+   In your router settings/app, change the **admin** password to something long and unique.
 
-4. **Isolate financial and connected accounts**
-   - **Unlink the social media account from third-party apps, games, or websites if you still have access to those settings.**
-   - **Check your banking app or credit card statement for unauthorized "Ads" charges or platform-related purchases.**
-   - **Place a temporary "freeze" on any credit cards saved as payment methods within the locked platform.**
+4. **Change the Wi-Fi password and reconnect only your devices.**  
+   Set a strong Wi-Fi password. This forces everything to reauthenticate and usually knocks off unauthorized devices.
 
-5. **Report cyber-fraud through official government channels**
-   - **File a report at ic3.gov (FBI Internet Crime Complaint Center) if the lockout is part of a scam involving financial loss.**
-   - **Initiate a recovery plan at IdentityTheft.gov if your government ID or Social Security number was compromised during the incident.**
-   - **Verify that the reporting site is currently active, as federal portals may have limited functionality during government funding lapses.**
+5. **Use WPA3 or WPA2 encryption, and turn off WPS.**  
+   In wireless/security settings:
+   - Select **WPA3-Personal** if available (or **WPA2-Personal**).  
+   - Disable **WPS** (Wi-Fi Protected Setup).
+
+6. **Turn off remote management/administration unless you truly need it.**  
+   Disable “Remote Management”, “Remote Admin”, “Administration over WAN”, or similar.
+
+7. **Turn off UPnP (unless you know you need it).**  
+   If you see “UPnP” (Universal Plug and Play), turn it off. If something important breaks (some games/streaming/voice services), you can turn it back on later after things are stable.
+
+8. **Update router firmware (or enable automatic updates).**  
+   Check for updates and apply them. Enable auto-updates if available.
+
+9. **Check whether “unknown” devices might be your own gear.**  
+   Common culprits: smart TVs, streaming sticks, printers, speakers, game consoles, smart home hubs, cameras, smart plugs. If you can’t confidently identify a device, keep it locked out by keeping the new Wi-Fi password private.
+
+10. **If unknown devices keep returning, do a controlled factory reset and secure setup.**  
+   Factory reset the router, then immediately set:
+   - new admin password  
+   - WPA3/WPA2  
+   - WPS off  
+   - UPnP off unless needed  
+   - remote management off  
+   - firmware updated  
+   If your ISP provided the router, contact them for secure reset/setup guidance or a replacement if the device is outdated.
+
+11. **If you suspect fraud or identity theft, document basics and report through official channels.**  
+   - If money was taken: contact your **bank/card issuer** first.  
+   - For cyber-enabled crime or online fraud/scams: file a report with the **FBI’s IC3**.  
+   - If someone is using your personal information (identity theft): report at **IdentityTheft.gov** for a guided recovery plan.  
+   Keep a simple note of dates/times, affected accounts, and any alerts/messages.
 
 ## What can wait
-- You do not need to notify every follower or contact immediately; focus on securing your email and financial accounts first.
-- You do not need to hire a "social media lawyer" in the first 48 hours; official appeal channels must usually be exhausted first.
-- You do not need to delete the app from your phone; keeping the app on a "trusted device" often makes the recovery process faster.
+- You don’t need to figure out who the devices belong to right now.
+- You don’t need to hide your network name or buy a new router immediately.
+- You can postpone “tidying” tasks (renaming devices, guest networks, organizing smart home settings) until after the network is locked down.
 
 ## Important reassurance
-Sudden account locks are a standard security protocol used by platforms to stop active breaches. If you have not violated Terms of Service, the lockout is likely a automated protective measure. Following official pathways—even if they seem slow—is the only verified way to regain access without risking further data loss.
+Seeing a long list of “unknown” devices is common and doesn’t automatically mean someone is targeting you—routers often label devices poorly. The steps above (new admin password, new Wi-Fi password, WPA2/WPA3, WPS/UPnP off, updates) are a strong first response.
 
 ## Scope note
-This guide covers immediate stabilization and the initiation of official recovery processes for personal and business social media accounts in the USA. It does not cover long-term litigation or complex copyright disputes.
+This is first-steps guidance to stop further access and reduce harm. If you see repeated re-entry after a reset, or any account takeovers or financial loss, you may need ISP support and broader account security steps.
 
 ## Important note
-This information is for guidance only and does not guarantee account restoration. Social media platforms are private entities and have the final authority over account status. Government reporting through IC3 or the FTC does not automatically restore your account but creates a necessary legal record of the incident.
+This is general information, not professional, legal, or law-enforcement advice. If you believe you are in immediate danger, call local emergency services.
 
 ## Additional Resources
-- https://consumer.ftc.gov/articles/securing-your-internet-connected-devices-home
 - https://consumer.ftc.gov/how-secure-your-home-wi-fi-network
-- https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers
-- https://www.fbi.gov/investigate/cyber/alerts
-- https://www.justice.gov/archives/opa/pr/court-authorized-operation-disrupts-worldwide-botnet-used-peoples-republic-china-state
+- https://www.cisa.gov/audiences/high-risk-communities/projectupskill/module5
+- https://www.fcc.gov/consumers/guides/how-protect-yourself-online
+- https://www.ic3.gov/
+- https://www.identitytheft.gov/

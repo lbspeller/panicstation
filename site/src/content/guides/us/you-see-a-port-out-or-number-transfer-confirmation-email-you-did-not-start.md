@@ -1,104 +1,91 @@
----
+﻿---
 title: "What to do if… you see a “port-out” or “number transfer” confirmation email you did not start"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "cursor moving on its own"
-  - "mouse moves by itself"
-  - "pointer moving without touch"
-  - "computer being controlled remotely"
-  - "someone has remote access"
-  - "remote access suspected"
-  - "unauthorized remote control"
-  - "hacked computer mouse"
-  - "screen acting on its own"
-  - "phantom cursor movement"
-  - "remote desktop without permission"
-  - "what do i do if my mouse is moving by itself"
-  - "what do i do if someone is on my computer"
-  - "what do i do if my cursor is moving"
-  - "what do i do if i am being hacked"
-  - "help i think someone is controlling my pc"
-  - "help i think someone is on my mac"
-  - "help i am being remotely accessed"
-  - "help my computer mouse is moving"
-  - "my cursor is jumping around"
-  - "my screen has a red border"
-  - "unexpected remote support session"
-  - "unknown program opening on its own"
-  - "invisible user on computer"
-  - "mouse moving on laptop"
-  - "cursor moving on desktop"
-  - "hacking signs on computer"
-  - "compromised computer symptoms"
-  - "technical support scam cursor"
-  - "fake security alert mouse"
-last_reviewed: "2026-03-17"
+  - port-out email
+  - number transfer email
+  - unauthorized port out
+  - phone number transfer scam
+  - sim swap warning
+  - number hijacking
+  - mobile account takeover
+  - sms codes intercepted
+  - carrier port request you didn’t make
+  - wireless account compromised
+  - number transfer protection
+  - port freeze number lock
+  - unexpected carrier transfer
+  - phone number stolen
+  - two factor sms at risk
+  - account recovery risk
+  - porting confirmation you didn’t start
+  - telecom fraud
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… you see a “port-out” or “number transfer” confirmation email you did not start (USA)
 
 ## Short answer
-Disconnect the computer from all power and internet sources immediately and use a separate, trusted device to change your passwords and freeze your financial accounts.
+Call your mobile carrier immediately (using the number from the carrier’s official website/app) and say it’s an **unauthorized port-out/number transfer**—ask them to cancel it and enable a **port/number-transfer lock** on your account.
 
 ## Do not do these things
-- Do not keep the computer connected to the internet while you investigate.
-- Do not log into sensitive accounts (banking, email, social media) from the affected computer.
-- Do not call any phone numbers displayed in pop-up windows or messages on the screen.
-- Do not follow instructions from anyone claiming to be "tech support" who contacted you first.
-- Do not enter passwords or multi-factor authentication (MFA) codes while the cursor is moving or the screen is visible to others.
+- Don’t click links, open attachments, or call numbers shown in the email.
+- Don’t assume it will “fail on its own” and wait—ports can complete fast.
+- Don’t use SMS text codes to reset important passwords right now (they may be intercepted if the transfer goes through).
+- Don’t trust unexpected “carrier support” or “bank security” calls/texts that show up right after this—hang up and call back using an official number/app you choose.
 
 ## What to do now
-1. **Sever all connections to the computer immediately.**
-   - Unplug the Ethernet cable and turn off the Wi-Fi router or disable the Wi-Fi toggle on the device.
-   - If the cursor is actively moving or windows are opening, hold the power button down until the machine shuts off completely.
-   - Unplug the power cable (for desktops) or remove the battery (if possible on older laptops) to ensure it cannot reboot.
+1. **Call your carrier and ask for the porting/number-transfer (or fraud) team.**  
+   Say: “I received a number transfer/port-out confirmation I did not request. This is unauthorized. Please stop/cancel the port and secure my account.”  
+   Ask them to:
+   - **Cancel/stop any pending port-out**
+   - **Enable Number Transfer Protection / Port Lock / Port Freeze** (carrier naming varies)
+   - **Reset your account PIN/passcode** and remove any unfamiliar emails/phone numbers on the account
+   - Confirm whether the request is pending or completed, and when it was initiated
+   - Provide a case/reference number
 
-2. **Secure your primary accounts using a different, clean device.**
-   - Use a smartphone or another computer that has not been compromised to log into your email and financial accounts.
-   - **Change your passwords immediately**, starting with your primary email and banking accounts.
-   - **Use the "Sign out of all sessions" or "Manage Devices" option** in your Google, Microsoft, or Apple account settings to kick off any unauthorized users.
-   - **Enable or update Multi-Factor Authentication (MFA)**, preferably using an authenticator app rather than SMS.
+2. **Check whether you’ve lost service.**  
+   If your phone shows “No Service,” can’t send texts, or calls fail, tell the carrier you may already be ported and need your number restored urgently.
 
-3. **Contact your financial institutions to protect your money.**
-   - Call the **Fraud Department** of your bank and credit card companies.
-   - Tell them you suspect your computer was compromised and ask them to monitor for unauthorized transactions or to freeze the accounts.
+3. **Secure your email account immediately (before everything else).**  
+   - Change your email password from a trusted device.
+   - Turn on two-factor authentication using an authenticator app or security key (not SMS if you can).
+   - Remove unknown forwarding, filters/rules, or recovery options.
 
-4. **Alert your workplace or school if the device is managed by them.**
-   - If the computer is used for work or school, contact the **IT Help Desk or Security Operations Center** immediately.
-   - They may need to revoke your network credentials to prevent the intruder from accessing the organization's private data.
+4. **Call your bank(s) and payment apps and warn them your phone number may be compromised.**  
+   Ask them to add extra verification and watch for attempted logins or transfers. If you see suspicious transactions, use their fraud process right away.
 
-5. **Report the incident to federal authorities.**
-   - File a report with the **FBI's Internet Crime Complaint Center (IC3)** at `ic3.gov`.
-   - If you believe your personal identity information was accessed, visit `IdentityTheft.gov` (FTC) to create a recovery plan.
+5. **Lock down accounts tied to your phone number.**  
+   Prioritize: email, banking, Apple ID/Google account, your carrier online account, and messaging apps that can be re-registered to a number.  
+   - Change passwords.
+   - Replace SMS-based 2FA with app-based 2FA or security keys where possible.
 
-6. **Place a fraud alert on your credit reports.**
-   - Contact one of the three major credit bureaus to place a free one-year fraud alert.
-   - This makes it harder for someone to open new accounts in your name.
-     - **Equifax:** 1-800-685-1111
-     - **Experian:** 1-888-397-3742
-     - **TransUnion:** 1-888-909-8872
+6. **Create a minimal evidence trail.**  
+   Save the email, note the time received, and write down carrier case numbers and the dates/times you spoke to support.
 
-7. **Observe the hardware for physical causes only while offline.**
-   - If you must turn the computer back on, ensure it remains **completely disconnected from the internet**.
-   - Check if the cursor still moves; if it does while offline, the issue may be a hardware malfunction (like a stuck touchpad or faulty mouse) rather than a remote intruder.
+7. **Add identity-theft protections if the port completed or accounts/money were targeted.**  
+   - **File a police report** if your number was taken over, accounts were accessed, or money was stolen.  
+   - **Place a fraud alert or freeze your credit** with the major credit bureaus if you’re worried about new-account fraud.  
+   - Consider reporting through the **FTC identity theft** channel if you’re dealing with broader identity misuse.  
+   - You can also **file an FCC complaint** about port-out fraud, especially if you’re not getting traction with the carrier.
 
 ## What can wait
-- You do not need to identify the specific malware or method of entry right now.
-- You do not need to decide whether to wipe the hard drive or reinstall Windows/macOS immediately.
-- You do not need to notify your entire contact list until you have confirmed your accounts are secured.
+- You don’t need to diagnose how the attacker got your information right now.
+- You don’t need to contact every account today—focus on carrier, email, and money-related accounts first.
+- You don’t need to decide whether to change your number today; regain control and stabilize first.
 
 ## Important reassurance
-Cursor movement is often caused by non-malicious factors, such as a hair on an optical mouse sensor, a failing touchpad, or software lag. However, treating the situation as a security breach for the first few minutes is the most effective way to prevent financial loss or data theft.
+Seeing this message is a legitimate reason to act quickly. Many cases are stopped if you reach your carrier fast and secure email and financial accounts right away.
 
 ## Scope note
-This guide provides first-step stabilization for a suspected digital intrusion. It does not replace professional forensic analysis or technical repair. After securing your accounts, you may need a certified technician to clean or reinstall your operating system.
+These are first steps to stop a takeover and reduce immediate harm. After you’re stable, you can do a fuller audit (devices, recovery options, and account security) with more time and support.
 
 ## Important note
-This information is for general guidance and does not constitute legal or technical advice. The effectiveness of these steps depends on the specific nature of the compromise. If you are being threatened or extorted by an intruder, contact your local law enforcement agency immediately.
+This is general information, not legal advice. Carrier tools and names vary. If the first representative can’t help, ask to be escalated to the porting/number-transfer support team and request a case number.
 
 ## Additional Resources
+- https://www.fcc.gov/consumers/scam-alert/port-out-fraud-targets-your-private-accounts
+- https://www.fcc.gov/cell-phone-fraud
 - https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself
-- https://docs.fcc.gov/public/attachments/DOC-397990A1.pdf
-- https://docs.fcc.gov/public/attachments/DA-23-1148A1.pdf
-- https://consumercomplaints.fcc.gov/hc/en-us
-- https://consumercomplaints.fcc.gov/hc/en-us/articles/205082880-Filing-a-Complaint-Questions-and-Answers
+- https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts

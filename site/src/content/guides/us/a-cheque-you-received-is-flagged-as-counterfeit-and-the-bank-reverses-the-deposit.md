@@ -1,92 +1,90 @@
----
+﻿---
 title: "What to do if… a cheque you received is flagged as counterfeit and the bank reverses the deposit"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - "counterfeit check deposit reversed"
-  - "bank reversed check deposit"
-  - "fake check scam deposit"
-  - "check returned unpaid"
-  - "check bounced after deposit"
-  - "funds removed after deposit"
-  - "bank took money back"
-  - "negative balance after check"
-  - "overdraft fees after check"
-  - "received counterfeit check"
-  - "check fraud victim steps"
-  - "overpayment check scam"
-  - "asked to refund after check"
-  - "check cleared funds confusion"
-  - "what do i do if i got a fake check"
-  - "what do i do if my bank took money back"
-  - "what do i do if my account is negative from a scam"
-  - "what do i do if a check was reversed"
-  - "help i deposited a fake check"
-  - "help i lost money to a check scam"
-  - "help i am overdrawn from a bad check"
-  - "my bank account is restricted"
-  - "my bank says the check is counterfeit"
-  - "my deposit was reversed"
-  - "smell of chemical ink on check"
-  - "blurry printing on check"
-  - "no perforated edge on check"
-  - "check lacks bank logo"
-  - "unusual font on check"
-  - "check feels like copier paper"
-  - "fake paycheck deposit"
-  - "car sale fake check"
-  - "mystery shopper check scam"
-  - "apartment deposit fake check"
-  - "refund scam check"
-last_reviewed: "2026-03-17"
+  - counterfeit check deposit reversed
+  - bank reversed check deposit
+  - fake check scam deposit
+  - check returned unpaid
+  - check bounced after deposit
+  - funds removed after deposit
+  - bank took money back
+  - negative balance after check
+  - overdraft fees after check
+  - received counterfeit check
+  - check fraud victim steps
+  - overpayment check scam
+  - asked to refund after check
+  - check cleared funds confusion
+  - report fake check to ftc
+  - postal check fraud report
+  - ic3 internet crime report
+  - identity theft after scam
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… a cheque you received is flagged as counterfeit and the bank reverses the deposit (USA)
 
 ## Short answer
-Contact your bank's fraud department immediately to report the scam, stop further transactions, and request a written explanation of the reversal.
+Call your bank’s fraud department immediately to stop fees/restrictions and get the reversal details in writing — and do **not** send anyone “refund” money.
 
 ## Do not do these things
-- Do not send any "refund" or "excess" money back to the person who gave you the check via wire, Zelle, Cash App, or gift cards.
-- Do not assume the money was legitimate just because the bank made the funds available to you last week.
-- Do not attempt to "verify" the check yourself by calling numbers printed on the check face.
-- Do not ignore the negative balance, as this can lead to the bank closing your account and reporting you to ChexSystems.
-- Do not share your online banking login credentials or one-time passcodes with anyone claiming they can "reverse the reversal."
+- Do not send money back to the person who gave you the cheque (wire, Zelle, Cash App, gift cards, crypto, cash), even if they threaten you or “offer to fix it.”
+- Do not assume the money was “good” because it showed as available — banks can reverse a fraudulent check after funds appear.
+- Do not ignore overdraft/returned-payment alerts; fees can stack quickly.
+- Do not close the account in panic (you may need records and a stable place for adjustments).
+- Do not give out online banking passwords, one-time codes, or remote access to anyone claiming to “help.”
 
 ## What to do now
-1. **Call your bank using the official number on the back of your debit card or your mobile app.** **Explain clearly that you believe you are a victim of a fake check scam and ask to speak with the fraud or risk management department.**
-   - Request the specific reason for the return (e.g., "Counterfeit," "Forged," or "Insolvent Account").
-   - Ask for the "Returned Item" fee or any overdraft fees to be waived, citing the CFPB guidance that blanket fees for returned deposits can be considered unfair.
+1. **Call your bank using the number on your card/app (not a number from a text/email).**  
+   Ask: (a) the exact reason for the reversal (counterfeit/altered/returned), (b) whether your account is restricted or flagged, (c) what fees were assessed (overdraft/returned item), and (d) what documentation they can provide for your records.
 
-2. **Request copies of the returned check and the formal reversal notice.** **You will need these documents to file reports with law enforcement and to prove you acted in good faith if the bank threatens to close your account.**
+2. **Ask for written confirmation and copies you can keep.**  
+   Request a secure message/letter stating the deposit was reversed/returned and why, plus any images of the check and deposit receipt details. This helps with reporting and fee disputes.
 
-3. **Secure the remaining funds in your account to prevent further losses.** **If you gave the scammer your account number, ask the bank to close that account and open a new one with a different number to prevent unauthorized ACH withdrawals.**
+3. **Stabilize your balance to prevent cascading damage.**  
+   If your account is negative, focus on getting it back to $0 (or above) as soon as you safely can to reduce the chance of additional overdraft/returned-payment fees. Ask the bank whether they can **waive or temporarily hold fees** while you document the fraud.
 
-4. **Preserve every piece of physical and digital evidence related to the check.** **Keep the original check (if you still have it), the envelope it arrived in, and all text messages, emails, or social media conversations with the sender.**
+4. **Stop any goods/services you were about to provide in exchange for the cheque.**  
+   If you haven’t delivered yet, pause immediately. If you shipped something recently, contact the carrier right away to ask whether a stop/redirect/hold is still possible.
 
-5. **Report the fraud to the Federal Trade Commission (FTC) and the FBI's Internet Crime Complaint Center (IC3).** **Use the official portals at reportfraud.ftc.gov and ic3.gov to document the incident, as these reports are used to track and shut down scam networks.**
+5. **Preserve all evidence.**  
+   Keep the original cheque, envelope, messages/emails, screenshots, and any “instructions” they gave you. Write down dates, amounts, names, phone numbers, usernames, and where the interaction happened (marketplace, email, text, in-person).
 
-6. **Contact the U.S. Postal Inspection Service (USPIS) if the check arrived via the mail.** **You can report mail fraud online or call their hotline at 877-876-2455 to file a formal complaint.**
+6. **Report it through the channels that match how you received it (use official sites you navigate to directly).**  
+   - Report a fake-check scam to the **FTC**.  
+   - If the check came through the **mail**, report it to the **U.S. Postal Inspection Service** (mail-related fraud/check fraud).  
+   - If the scam happened **online** (marketplace, email, social media), file an **IC3** report (FBI’s internet crime intake).  
+   Tip: type the official addresses yourself (for example, ftc.gov / ic3.gov / uspis.gov) rather than clicking links in messages.
 
-7. **Place a security freeze on your credit reports if you shared any personal information like your Social Security Number or ID.** **Contact Equifax, Experian, and TransUnion individually to ensure no new accounts can be opened in your name.**
+7. **If you shared personal info, protect your identity now.**  
+   If you sent ID photos, SSN, or detailed personal information, use the federal identity-theft site for step-by-step actions. Consider a **credit freeze** with each of the three major credit bureaus (free; you contact each bureau directly).
+
+8. **If your bank won’t work with you, document and escalate.**  
+   Keep a simple log: who you spoke to, date/time, what they said, and any case number. If the bank’s handling or fees feel unfair and you can’t resolve it with the bank, you can submit a complaint to the **Consumer Financial Protection Bureau (CFPB)**.
 
 ## What can wait
-- You do not need to decide whether to hire a lawyer or take legal action against the scammer today.
-- You do not need to respond to any threats or "legal notices" sent by the scammer regarding the reversed funds.
-- You do not need to figure out exactly how the scammer got your information right this second.
-- You do not need to worry about your credit score immediately; focus on stabilizing your bank account balance first.
+- Arguing with the person who gave you the cheque, or trying to “negotiate” repayment terms.
+- Deciding whether to sue — most fake-check cases don’t have a reachable real identity.
+- Rebuilding your entire financial setup today; focus first on stopping fees, documenting, and reporting.
+- Making big credit/loan decisions; do the protective steps first (freeze/alerts) and reassess after you’re stable.
 
 ## Important reassurance
-It is normal to feel embarrassed or panicked when a check is reversed, especially if it leaves your account negative. These scams are professionally designed to exploit the gap between a bank "clearing" funds and the final verification of the check. Following these steps is a standard recovery process that many people navigate successfully.
+Fake-check scams are designed to feel convincing and urgent. A bank can take money back for a fraudulent check even after making funds available, so the reversal is a signal to shift into “damage control” mode — not a reason to panic or send more money.
 
 ## Scope note
-This guide provides first-step stabilization for the immediate aftermath of a check reversal. It does not cover long-term debt collection disputes, criminal prosecutions, or complex identity theft recovery.
+These are first steps for the first hours/days after a reversal. Next steps (fee disputes, identity recovery, shipment recovery) depend on what your bank confirms and what information you shared.
 
 ## Important note
-This guide is for informational purposes only and does not constitute legal or financial advice. Banking regulations, such as Regulation CC, govern how quickly banks must make funds available, but they do not protect you from the reversal of a fraudulent deposit.
+This guide is general information, not legal advice. Bank policies and state laws vary, and timelines can differ depending on how the check was processed. If the amount is large, your account is restricted, or you’re facing serious fees, consider getting independent help before taking irreversible actions.
 
 ## Additional Resources
+- https://consumer.ftc.gov/articles/how-spot-avoid-and-report-fake-check-scams
 - https://www.consumerfinance.gov/ask-cfpb/i-deposited-a-check-and-waited-until-i-was-able-to-withdraw-the-money-from-the-bank-i-later-found-out-that-the-check-was-fraudulent-the-bankcredit-union-took-the-money-back-and-now-my-account-is-overdrawn-can-they-charge-me-an-overdraft-fe-en-1001/
-- https://www.consumerfinance.gov/ask-cfpb/someone-bought-something-i-was-selling-online-and-sent-me-a-check-or-money-order-for-more-than-the-price-of-the-item-they-asked-me-to-send-back-the-difference-should-i-be-worried-en-997/
-- https://www.fdic.gov/consumers/consumer/news/august2019.html
+- https://www.uspis.gov/news/scam-article/check-fraud
+- https://www.uspis.gov/report
+- https://www.ic3.gov/
+- https://www.identitytheft.gov/Steps?scroll=true
+- https://www.usa.gov/credit-freeze
 - https://www.consumerfinance.gov/complaint/
-- https://www.helpwithmybank.gov/file-a-complaint/index-file-a-complaint.html

@@ -1,89 +1,83 @@
----
+﻿---
 title: "What to do if… you see someone trying to access a restricted area and you are worried it could lead to harm"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "someone entering restricted area"
-  - "trying to access restricted door"
-  - "suspicious person near secure entrance"
-  - "unauthorized access attempt"
-  - "tailgating through security door"
-  - "forced entry at a secure site"
-  - "worrying behaviour at a secure area"
-  - "suspicious activity in a public building"
-  - "suspicious activity at a workplace"
-  - "trespass into staff only area"
-  - "person without badge in secure zone"
-  - "security breach concern"
-  - "possible threat escalation"
-  - "might be planning harm"
-  - "suspicious person near critical infrastructure"
-  - "what do i do if someone enters a restricted area"
-  - "what do i do if i see a security breach"
-  - "what do i do if someone is tailgating a door"
-  - "what do i do if someone is trying doors"
-  - "help i saw someone climb a fence"
-  - "help i saw a security risk"
-  - "my building security has been breached"
-  - "my workplace has an unauthorized visitor"
-  - "smell of smoke near secure area"
-  - "sound of breaking glass at restricted door"
-  - "person wearing heavy clothing in summer"
-  - "someone taking photos of security cameras"
-  - "person loitering near utility entrance"
-  - "unauthorized person in staff room"
-  - "security door left propped open"
-last_reviewed: "2026-03-17"
+  - someone entering restricted area
+  - trying to access restricted door
+  - suspicious person near secure entrance
+  - unauthorized access attempt
+  - tailgating through security door
+  - forced entry at a secure site
+  - worrying behaviour at a secure area
+  - suspicious activity in a public building
+  - suspicious activity at a workplace
+  - trespass into staff only area
+  - person without badge in secure zone
+  - security breach concern
+  - possible threat escalation
+  - might be planning harm
+  - suspicious person near critical infrastructure
+  - you feel unsafe reporting
+  - what to do if you see a security risk
+  - unsure whether to call police
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… you see someone trying to access a restricted area and you are worried it could lead to harm (UK)
 
 ## Short answer
-Create distance immediately and alert on-site security or staff; call **999** if the person is using force, has a weapon, or is behaving violently.
+Create distance and alert the right people immediately: on-site security/staff first, and call **999** if there’s any immediate danger or a crime in progress.
 
 ## Do not do these things
-- Don't confront, block, or attempt to physically restrain the person.
-- Don't follow the person into the restricted zone to see what they are doing.
-- Don't try to "test" the person's authorization by asking for their ID or badge.
-- Don't shout or draw attention to yourself if you are in a vulnerable position.
-- Don't delay reporting because you are unsure if the person has an "innocent" reason for being there.
-- Don't take photos or videos if doing so requires you to move closer to the person.
+- Don’t confront, block, grab, or “test” the person yourself.
+- Don’t follow them into the restricted area or try to “catch them on camera” up close.
+- Don’t shout accusations in a crowded space if it could escalate panic or provoke violence.
+- Don’t assume “it’s probably fine” if your instincts say it could become harmful.
+- Don’t share identifying images/video of the person publicly while it’s ongoing (it can hinder response and inflame the situation).
 
 ## What to do now
-1. **Move to a safe distance and identify a secondary exit.** **Put solid cover, such as a wall, pillar, or locked door, between yourself and the restricted area immediately.** 
+1. **Pause, create space, and pick a safer position.**  
+   Step back behind a barrier/doorway, keep exits clear, and put solid cover (a wall/column) between you and the person if possible.
 
-2. **Alert the nearest member of staff or on-site security personnel.** **Seek out a reception desk, security podium, or staff member in uniform to report the breach directly for the fastest local response.** 
-   - Use internal emergency lines or panic buttons if they are available and you know how to use them.
+2. **Alert on-site security or staff immediately (fastest local response).**  
+   Use the nearest staffed point (reception, control room, steward, guard, duty manager). If there’s an internal emergency number, radio call, or panic alarm, use it.
 
-3. **Call 999 if there is an immediate threat to life or a crime in progress.** **Dial emergency services if the person is forcing a door, carrying a weapon, making verbal threats, or if you believe someone is currently being harmed.**
+3. **Decide: emergency response or report.**  
+   - **Call 999** if the person is forcing entry, has a weapon, is making threats, is behaving violently, or you think someone is in **immediate danger**.  
+   - If it’s **not an emergency**, contact police via **101** or your local force’s online reporting route (many forces allow this).
 
-4. **Provide a factual description of the person and their specific actions.** **State the exact location, what the person was doing (e.g., "climbing a perimeter fence" or "tailgating a staff member"), and their direction of travel.**
-   - Include details such as approximate height, clothing colours, and any bags or items they are carrying.
+4. **Give a clear, practical description (this matters more than theories).**  
+   Say: **exact location**, what you saw (e.g., “trying doors”, “tailgating behind staff”, “climbing a fence”), direction of travel, and a brief description (clothing, approximate age/height, distinguishing features). Mention any immediate risks (near children, chemicals, machinery, crowded event, etc.).
 
-5. **Contact the British Transport Police if you are on the rail or London Underground network.** **Text 61016 or call 0800 40 50 40 for non-emergency security concerns on trains or at stations.**
-   - Note that 61016 is a non-emergency text service; always use 999 for active danger.
+5. **If you’re on the rail/tube network, use the rail reporting route (non-emergency).**  
+   Tell rail staff, or contact British Transport Police by **texting 61016** or **calling 0800 40 50 40** for non-emergency concerns. If there’s immediate danger, use **999**.
 
-6. **Report concerns that may be terrorism-related via the Anti-Terrorist Hotline.** **Call 0800 789 321 or report online via the official Action Counters Terrorism (ACT) route if you notice surveillance, unusual photography of security, or testing of emergency exits.**
+6. **If it feels terrorism-related, use counter-terrorism reporting routes.**  
+   - **Emergency / immediate threat:** call **999**.  
+   - **Not an emergency:** you can call the **Anti-Terrorism Hotline (0800 789 321)** or use the official online reporting route. Your information will be assessed by specialist teams, even if you’re unsure.
 
-7. **Stay in a secure location and remain available for contact by responders.** **Wait in a safe area away from the incident until the police or security staff arrive or contact you for more information.**
+7. **After you’ve reported, stop intervening and stay available.**  
+   Move to a safer place. If safe, remain nearby (out of sight) in case responders call back for clarification.
 
 ## What can wait
-- You do not need to confirm the person's identity or employment status.
-- You do not need to decide if the activity is "definitely" criminal before reporting.
-- You do not need to check if a door is now locked or secure after the person has passed through it.
-- You do not need to provide a formal written statement in the first few minutes.
+- You don’t need to decide right now whether it was “definitely criminal” or “definitely terrorism”.
+- You don’t need to gather proof, identify the person, or post about it online.
+- You don’t need to write a full statement immediately—just pass the key facts so responders can act.
 
 ## Important reassurance
-It is normal to feel a sense of hesitation or fear of "getting it wrong" when reporting suspicious behaviour. Security professionals and police prefer to investigate a report that turns out to be authorized rather than miss an intervention that prevents harm.
+It’s common to feel unsure about “overreacting” in moments like this. Reporting a potential security breach is a reasonable, safety-focused action—especially when your concern is harm prevention.
 
 ## Scope note
-This guide provides first-step stabilization for reporting a security breach. It does not replace specific site-evacuation protocols or professional security training.
+These are first steps for the earliest safe pause. Your workplace/venue may have specific security procedures; follow them once you’re safe and have raised the alert.
 
 ## Important note
-This information is for safety stabilization and is not legal advice. If you suspect an immediate threat to life, your priority is to move away and call 999.
+This is general information, not legal or professional security advice. If you think anyone is in immediate danger, prioritise getting to safety and calling emergency services.
 
 ## Additional Resources
-- https://www.gov.uk/report-crime
 - https://www.gov.uk/contact-police
-- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/
-- https://www.gov.uk/terrorism-national-emergency/reporting-suspected-terrorism
-- https://www.protectuk.police.uk/tactic-ib3-ensure-any-suspicious-activity-reported-timely-manner
+- https://www.police.uk/pu/contact-us/
+- https://www.btp.police.uk/police-forces/british-transport-police/areas/campaigns/61016-text-service/
+- https://www.btp.police.uk/police-forces/british-transport-police/areas/campaigns/see-it-say-it-sorted/
+- https://www.met.police.uk/advice/advice-and-information/t/terrorism-in-the-uk/how-to-report-possible-terrorist-activity/
+- https://www.gov.uk/report-suspicious-activity-to-mi5

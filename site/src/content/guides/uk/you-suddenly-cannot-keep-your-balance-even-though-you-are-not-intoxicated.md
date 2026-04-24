@@ -1,87 +1,70 @@
----
+﻿---
 title: "What to do if… you suddenly cannot keep your balance even though you are not intoxicated"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "sudden loss of balance"
-  - "suddenly off balance"
-  - "cannot keep balance"
-  - "sudden unsteadiness"
-  - "dizziness and falling over"
-  - "sudden trouble walking"
-  - "loss of coordination suddenly"
-  - "sudden vertigo"
-  - "room spinning suddenly"
-  - "sudden gait instability"
-  - "suddenly feel drunk but not"
-  - "not intoxicated but unsteady"
-  - "sudden dizziness not drunk"
-  - "sudden clumsy movements"
-  - "sudden leaning to one side"
-  - "sudden balance problem"
-  - "sudden wobbling"
-  - "ataxia symptoms sudden"
-  - "sudden dizziness and nausea"
-  - "sudden unsteady on feet"
-  - "what do i do if i cannot walk straight"
-  - "what do i do if the room is spinning"
-  - "what do i do if i keep falling over"
-  - "what do i do if i feel dizzy and sick"
-  - "help i suddenly feel unsteady"
-  - "help i cannot stand up straight"
-  - "help i am leaning to the left"
-  - "help i feel like i am on a boat"
-  - "my balance has suddenly gone"
-  - "my legs feel weak and i am falling"
-  - "tinnitus and sudden balance loss"
-  - "double vision and unsteadiness"
-  - "sudden headache and dizziness"
-  - "stumbling suddenly not drunk"
-last_reviewed: "2026-03-16"
+  - sudden loss of balance
+  - suddenly off balance
+  - cannot keep balance
+  - sudden unsteadiness
+  - dizziness and falling over
+  - sudden trouble walking
+  - loss of coordination suddenly
+  - sudden vertigo
+  - room spinning suddenly
+  - sudden gait instability
+  - suddenly feel drunk but not
+  - not intoxicated but unsteady
+  - sudden dizziness not drunk
+  - sudden clumsy movements
+  - sudden leaning to one side
+  - sudden balance problem
+  - sudden wobbling
+  - ataxia symptoms sudden
+  - sudden dizziness and nausea
+  - sudden unsteady on feet
+last_reviewed: "2026-01-21"
 ---
+
 # What to do if… you suddenly cannot keep your balance even though you are not intoxicated (UK)
 
 ## Short answer
-If you experience a sudden, unexplained loss of balance or coordination, call **999** immediately. This can be a sign of a stroke or another time-critical neurological event even if you do not have other symptoms.
+If this started suddenly and you can’t explain it, treat it as urgent. Call **999** now if there’s any chance it could be a **stroke**, or if you can’t stand safely without falling.
 
 ## Do not do these things
-- Do **not** drive any vehicle or operate machinery.
-- Do **not** try to walk, climb stairs, or use the shower until you are assessed.
-- Do **not** take any medication, including aspirin or your usual prescriptions, until advised by a clinician.
-- Do **not** consume alcohol or caffeine to try to "settle" the sensation.
-- Do **not** go to sleep or wait to see if the symptoms improve; time is critical for treatment success.
+- Do **not** drive yourself anywhere.
+- Do **not** try to “walk it off,” climb stairs, or shower alone while you’re unsteady.
+- Do **not** take alcohol or sedating drugs to “steady yourself.”
+- Do **not** take someone else’s medication, or take extra doses of your own, to try to stop symptoms.
+- Do **not** go to sleep until you’ve been medically assessed or have spoken to **999/111** if this is sudden or new (unless symptoms are clearly explained and improving, and someone can monitor you).
 
 ## What to do now
-1. **Sit or lie down on the floor immediately to prevent a fall.** Do not stay on a high chair or near stairs; the floor is the only surface that eliminates the risk of a secondary injury from falling.
-2. **Call 999 and inform the operator you have "sudden onset loss of balance."** Even if you can speak clearly, a sudden change in coordination is treated as a potential medical emergency in 2026 UK protocols.
-3. **Check for the expanded signs of a stroke.** Look for facial drooping, arm weakness, or slurred speech (FAST), but also check for:
-   - Sudden loss of vision or double vision.
-   - Sudden numbness on one side of the body.
-   - Sudden severe headache with no known cause.
-   - Sudden confusion or difficulty finding words.
-4. **Identify if you have hit your head or take blood-thinning medication.** Tell the operator if you are on anticoagulants (such as warfarin, apixaban, or rivaroxaban), as a fall combined with these medications requires immediate hospital imaging.
-5. **Note the exact time the unsteadiness began.** Write this "last known well" time on your hand or a piece of paper; clinicians use this to determine if you are eligible for clot-busting treatments which have a strict 4.5-hour window.
-6. **Prepare for the arrival of emergency services.** If you are able to do so without standing up, unlock your front door and secure any pets in a separate room.
-7. **Gather your current medications or a repeat prescription slip.** Place them in a clear bag to go with you to the hospital, but do not stand up or walk around to find them if you are currently alone.
+1. **Get to a safer pause immediately.** Sit or lie down. If you might vomit, lie on your side. Keep your phone within reach.
+2. **Assume “stroke until proven otherwise” for sudden onset.** If this came on suddenly, or you’re falling, or you feel unsafe to stand, **call 999** and say: “Sudden loss of balance / trouble walking — possible stroke.”
+3. **Do a quick stroke symptom check (FAST + other sudden signs).** Face drooping, arm weakness, speech problems — plus sudden dizziness/falling over, trouble walking, vision change, confusion, severe headache, or vomiting. If any apply, **call 999 now**.
+4. **If you fell or hit your head, treat it as higher risk.** If you collapsed, struck your head, have a new severe headache, or you take **blood thinners** (for example warfarin or a DOAC), **call 999**, even if you think you “seem okay.”
+5. **If it’s mild/gradual and you’re stable, use NHS 111 (not 999).** Call **111** (or use 111 online) only if symptoms are not sudden and you can sit safely without worsening. If symptoms worsen, you start falling, or any stroke signs appear, switch to **999**.
+6. **Make it easy for help to reach you.** If safe: unlock the door, turn on a light, secure pets, and have your address ready to say.
+7. **Note the exact time it started (“last known well”).** Write down when you were last normal and what you noticed first. This can matter for emergency treatment decisions.
+8. **Gather key info without repeated standing.** Medication list, allergies, major conditions, and whether you’re on blood thinners. Take them with you to **A&E** if you’re told to attend, or if an ambulance arrives.
 
 ## What can wait
-- Attempting to self-diagnose via the internet or searching for "vertigo exercises."
-- Calling your GP surgery, as they will likely refer you to A&E for a sudden neurological change.
-- Contacting your workplace or arranging long-term childcare.
-- Cleaning up or organizing your home before help arrives.
+- Figuring out the exact cause (inner ear issue vs migraine vs something else).
+- Calling your GP practice, arranging work cover, or messaging lots of people.
+- Trying online manoeuvres or home remedies for vertigo.
+- Sorting travel/transport plans beyond following urgent advice (ambulance, **A&E**, or 111 direction).
 
 ## Important reassurance
-Feeling like you have lost control of your body is extremely distressing, but taking this seriously is the most effective way to protect your health. It is normal to feel "silly" for calling emergency services when you don't feel "pain," but loss of balance is a physical symptom that justifies urgent intervention.
+Sudden unsteadiness can feel frightening and unreal, and it’s common to hesitate because you don’t want to “make a fuss.” Treating sudden loss of balance as urgent is a sensible safety choice.
 
 ## Scope note
-This guide provides first-step stabilization and emergency contact instructions. It is not a diagnostic tool and does not replace professional medical assessment.
+These are first steps for the initial hours. After you’re safe and assessed, next steps depend on what clinicians find.
 
 ## Important note
-Sudden neurological changes require immediate clinical evaluation. If you are told to attend A&E or an ambulance is dispatched, follow all instructions provided by the 999 operator or paramedics.
+This is general information, not a diagnosis. If symptoms are sudden, severe, worsening, or linked to a fall/head injury, seek urgent medical help.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/stroke/symptoms/
-- https://111.nhs.uk/
-- https://www.nhs.uk/conditions/labyrinthitis/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/
 - https://www.nhs.uk/conditions/vertigo/
-- https://www.nhsinform.scot/illnesses-and-conditions/brain-nerves-and-spinal-cord/dizziness-lightheadedness/
+- https://www.england.nhs.uk/london/2024/11/05/people-in-london-encouraged-to-call-999-at-the-first-sign-of-a-stroke-to-boost-survival-and-recovery/

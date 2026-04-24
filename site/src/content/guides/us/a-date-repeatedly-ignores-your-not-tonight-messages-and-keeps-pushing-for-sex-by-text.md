@@ -1,103 +1,75 @@
----
+﻿---
 title: "What to do if… a date repeatedly ignores your “not tonight” messages and keeps pushing for sex by text"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "date keeps pushing for sex"
-  - "not tonight ignored"
-  - "pressured for sex by text"
-  - "sexual coercion messages"
-  - "unwanted sexual messages"
-  - "consent not respected"
-  - "boundary ignored texting"
-  - "persistent sexual pressure"
-  - "harassment from a date"
-  - "feels unsafe after texting"
-  - "pressured to send nudes"
-  - "guilt tripped for sex"
-  - "keeps asking for sex"
-  - "coercive sexual talk"
-  - "dating safety by text"
-  - "worried they will show up"
-  - "unsure if this is coercion"
-  - "saving texts for safety"
-  - "what do i do if a date won't stop texting for sex"
-  - "what do i do if he won't take no for an answer"
-  - "what do i do if she keeps asking for sex after i said no"
-  - "what do i do if i am being pressured for sex"
-  - "help i am being coerced over text"
-  - "help i feel unsafe with my date"
-  - "my date won't stop asking for nudes"
-  - "my date is ignoring my boundaries"
-  - "repeated sexual requests"
-  - "sexual harassment over text"
-  - "boundary violation cues"
-  - "ignored no message"
-  - "digital safety in dating"
-  - "sexual pressure by mobile"
-  - "not tonight messages"
-  - "messages for sex"
-  - "repeatedly ignores boundaries"
-  - "pushing for sex"
-last_reviewed: "2026-03-17"
+  - date keeps pushing for sex
+  - not tonight ignored
+  - pressured for sex by text
+  - sexual coercion messages
+  - unwanted sexual messages
+  - consent not respected
+  - boundary ignored texting
+  - persistent sexual pressure
+  - harassment from a date
+  - feels unsafe after texting
+  - pressured to send nudes
+  - guilt tripped for sex
+  - keeps asking for sex
+  - coercive sexual talk
+  - dating safety by text
+  - worried they will show up
+  - unsure if this is coercion
+  - saving texts for safety
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… a date repeatedly ignores your “not tonight” messages and keeps pushing for sex by text (USA)
 
 ## Short answer
-Stop responding immediately, block or mute the contact across all platforms, and inform a trusted person about the situation to ensure your physical safety.
+Stop replying and reduce their access to you: block/mute and report on the app, change plans so you won’t be alone with them, and tell someone right now.
 
 ## Do not do these things
-- Don't respond to further messages to explain your "no" or manage their reaction.
-- Don't meet in person to "resolve" the tension or discuss the behavior.
-- Don't send any images, videos, or personal information in an attempt to placate them.
-- Don't share your current location, home address, or workplace details.
-- Don't assume the behavior will stop if you continue to engage.
+- Don’t keep responding to “manage” their mood — it often feeds the pressure.
+- Don’t meet them alone to “clear the air” or prove anything.
+- Don’t send sexual photos/videos or more personal details to make it stop.
+- Don’t share live location, address, workplace, or routine.
+- Don’t talk yourself into minimizing it — repeated pushing after a no is a red flag.
 
 ## What to do now
-1. **Prioritize your physical safety if they know your location.** If the person knows where you live, work, or frequent, avoid being alone.
-   - Stay with a friend or family member.
-   - Keep any existing plans in public, well-lit spaces.
-   - Ensure your home is secure and consider having someone stay with you.
-2. **Execute a final boundary or immediate block.** 
-   - **Immediate Block:** End all contact now without a final word.
-   - **Final Boundary:** Send one short message: "I have said no. Stop contacting me. I am now blocking you." Send this and block immediately; do not wait for a reply.
-3. **Mute or block on all digital channels.** Use the block function on your phone and report the user on any dating apps or social media platforms where the contact occurred.
-   - If you are concerned that blocking will cause an immediate escalation, use the "Mute" or "Hide" function while you reach a safer location.
-4. **Disable location sharing and check privacy settings.** Review apps that share your real-time location.
-   - Turn off "Find My" or Google Maps location sharing for this contact.
-   - Disable read receipts and "online" status on messaging apps.
-   - Avoid posting live updates or "check-ins" to social media.
-5. **Alert a trusted contact and establish a check-in protocol.** Tell someone you trust about the persistent behavior and provide the person's name.
-   - Ask them to check in with you at a specific time tonight.
-   - Confirm with them that any private meetings with this individual have been canceled.
-6. **Capture evidence without engaging further.** Take screenshots of the messages that show the repeated pressure and the dates/times.
-   - Save these to a secure location that is not shared with others (e.g., a private cloud folder or a different device).
-   - Once saved, close the message thread to avoid the urge to read or respond.
-7. **Contact emergency services if you are in immediate danger.** Call **911** if the person shows up at your location, makes specific threats of violence, or if you feel your safety is compromised.
-8. **Reach out to specialized support services for guidance.** You can access confidential support even if no physical contact has occurred.
-   - **RAINN National Sexual Assault Hotline:** Call 800-656-HOPE (4673) or text **HOPE** to **64673**.
-   - **National Domestic Violence Hotline:** Call 800-799-SAFE (7233) or text **START** to **88788**.
-   - **love is respect (Ages 13-26):** Call 866-331-9474 or text **LOVEIS** to **22522**.
-   - **Childhelp National Child Abuse Hotline (For Minors):** Call or text 800-422-4453.
+1. **Make tonight safer based on the real risk: escalation or showing up.** If they know where you live or your usual places, avoid being alone with them: stay with others, keep plans public, and consider having someone stay over or staying elsewhere if you feel uneasy.
+2. **Choose one of two paths: one final message or none.**  
+   - **No further messages (often best):** stop replying now.  
+   - **One final boundary (optional):** “I said no. Stop asking. If you continue, I’m blocking you.” Then stop engaging.
+3. **Block/mute and report everywhere.** Block their number; block/report on the dating app and any social media they use to reach you. If you’re worried they’ll escalate when blocked, you can **mute first** while you line up support, then block once you’re safer.
+4. **Do a quick privacy check (2 minutes).** Check location-sharing (e.g., “Find My,” Google Maps location sharing), turn off read receipts/online status if you use them, and avoid posting real-time location (stories/check-ins).
+5. **Tell one person and set a simple check-in.** “This person won’t stop pressuring me for sex by text. Can you check in with me tonight?” If you had plans to meet, tell your person you cancelled and you won’t be meeting privately.
+6. **Save the basics without getting pulled back into it.** If you might want support or to report later, take a few screenshots with date/time visible. Save them somewhere **not shared** (avoid a shared Apple ID/Google account, shared tablet, or family computer). Then stop — you don’t need to build a full file tonight.
+7. **If they threaten you, try to find you, or show up and you feel in danger:** call **911**.
+8. **Get confidential specialist support (even if nothing physical happened).** You can contact:
+   - **RAINN National Sexual Assault Hotline:** 800-656-HOPE (4673), chat online, or text **HOPE** to **64673**
+   - **National Domestic Violence Hotline:** 1-800-799-SAFE (7233) or text **START** to **88788**
+   - **love is respect (dating support for teens/young adults):** 866-331-9474 or text **LOVEIS** to **22522**
+   **If you’re under 18** and want youth-focused support, love is respect can be a good first contact. If you’re a minor and an adult is involved or you feel unsafe at home, you can also call or text **Childhelp** at **800-422-4453**.
 
 ## What can wait
-- You do not need to decide tonight if you want to file a formal police report.
-- You do not need to determine if you need a protective order right now.
-- You do not need to analyze why the person is behaving this way.
-- You do not need to provide a long-form explanation to the individual.
+- You don’t have to decide right now whether to report to police, seek a protective order, or confront them.
+- You don’t need perfect wording or a long explanation. A no is enough.
+- You don’t need to label what happened before you seek support.
 
 ## Important reassurance
-It is common to feel startled, anxious, or pressured when a boundary is repeatedly ignored. These reactions are standard responses to persistent behavior. Choosing to prioritize your safety and end contact is a valid and protective step.
+Someone repeatedly pushing after you’ve said “not tonight” is not a misunderstanding — it’s a boundary being ignored. Feeling shaken, angry, numb, or confused is a normal response. You are allowed to end contact and prioritize safety without justifying it.
 
 ## Scope note
-This guide provides immediate stabilization steps for digital sexual coercion and safety planning. Long-term safety strategies or legal remedies may require consultation with specialists or legal professionals.
+These are first steps to stabilize and reduce risk. If this overlaps with school, work, housing, or a shared community, there may be additional options later — but you don’t have to navigate those while you’re overwhelmed.
 
 ## Important note
-This information is for safety stabilization and is not legal or clinical advice. If you are in immediate danger, contact local emergency services.
+This is general information, not legal advice. If you feel unsafe or at risk of harm, prioritize immediate safety and urgent help.
 
 ## Additional Resources
-- https://www.loveisrespect.org/resources/respectful-texting-in-a-relationship/
-- https://www.loveisrespect.org/resources/what-is-sexual-coercion/
-- https://www.thehotline.org/resources/a-closer-look-at-sexual-coercion/
-- https://rainn.org/what-counts-as-sexual-violence/get-the-facts-about-intimate-partner-sexual-violence/
-- https://www.womenslaw.org/about-abuse/abuse-using-technology/all
+- https://rainn.org/learn-about-rainn/contact-us/
+- https://rainn.org/help-and-healing/hotline/
+- https://www.thehotline.org/
+- https://www.loveisrespect.org/get-relationship-help-24-7-365/
+- https://www.womenslaw.org/places-help-0
+- https://www.childhelphotline.org/

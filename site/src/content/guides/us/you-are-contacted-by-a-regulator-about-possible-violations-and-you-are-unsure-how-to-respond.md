@@ -1,99 +1,84 @@
----
+﻿---
 title: "What to do if… you are contacted by a regulator about possible violations and you are unsure how to respond"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - "regulator contact"
-  - "contacted by an agency"
-  - "government inquiry"
-  - "regulatory investigation"
-  - "enforcement investigation"
-  - "subpoena received"
-  - "civil investigative demand"
-  - "cid letter"
-  - "administrative subpoena"
-  - "request for interview"
-  - "agency phone call"
-  - "official notice of violation"
-  - "document preservation"
-  - "legal hold"
-  - "unsure how to respond"
-  - "what do i do if a regulator calls"
-  - "what do i do if i get a subpoena"
-  - "what do i do if the sec contacts me"
-  - "what do i do if the ftc sends a letter"
-  - "help i got a cid"
-  - "help i received a notice of violation"
-  - "my business is under investigation"
-  - "my company got a subpoena"
-  - "smell of burning records"
-  - "visible logo on envelope"
-  - "certified mail notice"
-  - "phone call from investigator"
-  - "official letterhead observation"
-  - "subpina"
-  - "civil investigation demand"
-  - "at the office"
-  - "during business hours"
-  - "received by mail"
-  - "investigator at the door"
-last_reviewed: "2026-03-17"
+  - regulator contact
+  - contacted by an agency
+  - government inquiry
+  - regulatory investigation
+  - enforcement investigation
+  - subpoena received
+  - civil investigative demand
+  - cid letter
+  - administrative subpoena
+  - request for interview
+  - agency phone call
+  - official notice of violation
+  - document preservation
+  - legal hold
+  - unsure how to respond
+  - panic after subpoena
+  - compliance allegation
+  - government records request
+  - do i need a lawyer
+  - dealing with investigators
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you are contacted by a regulator about possible violations and you are unsure how to respond (USA)
 
 ## Short answer
-Preserve all physical and digital records immediately and engage specialized legal counsel before providing any substantive response, documents, or interviews to the agency.
+Do not improvise. Preserve records immediately and get legal counsel before you provide explanations, documents, or interviews—then respond in a controlled way that confirms scope, authority, and deadlines.
 
 ## Do not do these things
-- Do not delete, alter, or "clean up" any communications, including Slack, Teams, or Signal messages.
-- Do not ignore the contact or miss the "return date" listed on the document.
-- Do not call the investigator to "explain your side" or "talk it out" without an attorney present.
-- Do not volunteer information or documents that were not explicitly requested.
-- Do not discuss the details of the investigation with colleagues or employees who are not involved.
-- Do not guess or speculate when answering initial procedural questions.
+- Do not ignore it or miss the response date (even if it “seems informal”).
+- Do not delete, alter, rename, backdate, or “clean up” documents, emails, chats, or logs.
+- Do not call the agency to “talk it out” or give a detailed story on the spot.
+- Do not consent to an interview/testimony without counsel, and do not guess answers.
+- Do not volunteer extra categories of documents or information beyond what’s requested.
+- Do not circulate sensitive details widely internally (assume internal messages can be discoverable later).
+- Do not “align accounts” or script narratives. (It’s fine to locate records and confirm facts; it’s not fine to pressure people about what to say.)
 
 ## What to do now
-1. **Verify the identity and authority of the contact.**  
-   **Independently locate the agency’s official public telephone number and call to confirm the name, division, and case reference number of the person who contacted you.**
-2. **Identify the specific type of legal demand received.**  
-   **Determine if the document is a voluntary request, a Subpoena, a Civil Investigative Demand (CID), or a Notice of Violation (NOV), as each carries different legal obligations and deadlines.**
-3. **Issue an immediate formal litigation hold.**  
-   **Suspend all automated document destruction, email purging, and "ephemeral messaging" auto-delete settings across all company and relevant personal devices.**
-   - Notify IT departments to lock down server backups and cloud storage.
-   - Instruct relevant personnel in writing to stop deleting any related materials.
-4. **Locate and calendar all hard deadlines.**  
-   **Identify the "Return Date" on the subpoena or CID, and note the "Meet and Confer" deadline, which often occurs within 7 to 14 days of service.**
-5. **Engage a specialized regulatory defense attorney.**  
-   **Retain counsel with specific experience before the relevant agency (e.g., SEC, FTC, DOJ, or State Attorney General) to evaluate the scope of the demand and assert necessary privileges.**
-6. **Request a formal extension if needed.**  
-   **Have your attorney contact the agency representative to request a written extension of the response deadline while you conduct an initial document assessment.**
-7. **Designate a single point of contact for the agency.**  
-   **Instruct all staff to forward any further agency communications to one designated individual and to decline to answer questions or provide documents directly.**
-8. **Prepare a preliminary internal "map" of relevant records.**  
-   **Identify where responsive data lives (servers, personal laptops, paper files) and who the "custodians" of those records are, but do not begin the actual collection until directed by counsel.**
-9. **Prepare for a "Meet and Confer" session.**  
-   **Work with counsel to prepare for the initial mandatory meeting with the agency to discuss the technical format of production and potential narrowing of the request scope.**
-10. **Document the circumstances of the initial contact.**  
-    **Write down exactly how you were contacted, what was said by the agent, and any names or badge numbers provided, without adding your own commentary or interpretations.**
+1. **Verify the contact is legitimate.**  
+   If you got a call/email, independently find the agency’s official phone number (not the one in the message) and confirm the name, office/division, and reference/case number.
+2. **Figure out what kind of demand this is.**  
+   Look for: a voluntary request, a subpoena, a **Civil Investigative Demand (CID)**, a notice of violation, or a request for testimony/interview. The label matters because deadlines and obligations differ.
+3. **Preserve everything immediately (“legal hold” mindset).**  
+   Stop deletions and auto-purges (email, Teams/Slack, texts, backups where possible). Tell IT to preserve relevant accounts and devices. Don’t “organize” or edit files—just preserve.
+4. **Read for the key constraints, then stop.**  
+   Identify: the deadline, what categories are requested, the time period, the format/definitions, and whether testimony is demanded. Don’t start producing substantive explanations until counsel has seen it (unless a deadline is truly imminent and you have no choice).
+5. **Get the right lawyer fast.**  
+   Contact your in-house counsel/compliance team if you have one. Otherwise, look for an attorney experienced with the specific regulator/agency area (e.g., SEC, FTC, EPA, state AG, licensing boards). If you have relevant insurance, check notice requirements with counsel/broker and avoid casually sharing privileged details.
+6. **Send a minimal “receipt + process” response.**  
+   A safe early reply is: confirm you received it; ask for any missing details (scope/definitions); ask who to coordinate with; and ask what the agency’s process is to discuss scope/format. If you request an extension, ask for written confirmation.
+7. **Set one controlled channel for communications.**  
+   Designate a single point of contact. Instruct staff (calmly, in writing) to forward any agency contact to that person and not to respond independently.
+8. **Prepare a clean packet for counsel.**  
+   Gather: the full demand/letter, prior related correspondence, org chart / roles involved, where relevant records live (systems, shared drives), and any known deadlines or ongoing risks.
+9. **If investigators show up in person.**  
+   Ask for identification and the legal authority (e.g., warrant, inspection authority). Do not obstruct. Contact counsel immediately. Keep a written log of what is requested/taken and who said what.
+10. **If they request an interview/testimony.**  
+   Do not attend alone. Ask whether it is voluntary or compelled, what topics are covered, and how it will be recorded. Schedule through counsel.
 
 ## What can wait
-- You do not need to determine who is "at fault" or start an internal disciplinary process today.
-- You do not need to decide whether to settle or litigate in the first 48 hours.
-- You do not need to prepare a comprehensive defense or public statement immediately.
-- You do not need to provide a "full story" or narrative history of the events in question right now.
+- You don’t need to “explain everything” today.
+- You don’t need to decide fault, blame, or corrective action plans immediately.
+- You don’t need to make public statements, resign, or fire people in the first hours.
+- You don’t need to predict outcomes; focus on preservation, scope, and counsel first.
 
 ## Important reassurance
-Receiving an official inquiry is a procedural event and does not automatically imply a finding of guilt or the immediate filing of charges. Agencies frequently start with broad information requests to understand a situation before deciding whether to proceed. Taking a few days to secure counsel and organize a controlled response is the standard professional approach and is generally expected by regulators.
+Regulatory contacts can start broadly and narrow later. Many begin as information-gathering. The most damaging mistakes usually come from panic: missed deadlines, casual admissions, or altered records. If you preserve data and slow communications until you have advice, you’re protecting yourself and buying time.
 
 ## Scope note
-This guide covers first-step stabilization for civil or administrative regulatory contact in the USA only. It does not address criminal search warrants (raids) or international regulatory inquiries, which require different immediate protocols.
+This is first-steps guidance only. Your next steps depend on the specific agency, whether the matter is civil or criminal, and whether you received a subpoena/CID versus an informal request.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice or an attorney-client relationship. Regulatory procedures and deadlines vary significantly between federal agencies (like the SEC or FTC) and state-level boards. Immediate consultation with a qualified U.S. attorney is essential to protect your legal rights.
+This is general information, not legal advice. US federal and state agencies have different rules and deadlines. If you are unsure, treat the matter as serious, preserve records immediately, and get advice from a qualified US attorney.
 
 ## Additional Resources
-- https://www.ftc.gov/business-guidance/blog/2025/03/did-your-business-receive-cid-ftc-means-business
+- https://www.sec.gov/about/divisions-offices/division-enforcement/how-investigations-work
 - https://www.ftc.gov/business-guidance/blog/2018/01/so-you-received-cid-faqs-small-businesses
-- https://www.consumerfinance.gov/enforcement/life-cycle-of-enforcement-action/
-- https://www.consumerfinance.gov/enforcement/investigatory-authority/
-- https://www.ftc.gov/about-ftc/mission/enforcement-authority
+- https://www.ftc.gov/business-guidance/blog/2025/03/did-your-business-receive-cid-ftc-means-business
+- https://www.sec.gov/divisions/enforce/enforcementmanual.pdf

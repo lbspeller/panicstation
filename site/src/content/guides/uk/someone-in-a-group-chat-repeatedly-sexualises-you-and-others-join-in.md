@@ -1,87 +1,71 @@
----
+﻿---
 title: "What to do if… someone in a group chat repeatedly sexualises you and others join in"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "group chat sexual harassment"
-  - "being sexualised in group chat"
-  - "unwanted sexual comments online"
-  - "sexualised messages in group chat"
-  - "harassment in whatsapp group"
-  - "harassment in snapchat group"
-  - "harassment in instagram group chat"
-  - "sexual comments over text"
-  - "friends joining in sexual jokes"
-  - "group chat dogpiling"
-  - "humiliating sexual remarks"
-  - "repeated creepy messages"
-  - "online sexual intimidation"
-  - "sexual bullying in chat"
-  - "pressured to laugh along"
-  - "boundaries ignored in chat"
-  - "screenshots of harassment"
-  - "reporting harassment on app"
-  - "threatened in group chat"
-  - "sexual harassment in messages"
-  - "someone won't stop sexualising me"
-  - "what do i do if i am sexualised in a group chat"
-  - "what do i do if friends make sexual jokes about me"
-  - "what do i do if a group chat is toxic"
-  - "what do i do if people are pileing on me online"
-  - "help i am being bullied in a chat"
-  - "help i am being sexualised by a group"
-  - "help my friends are joining in sexual harassment"
-  - "help my group chat is out of control"
-  - "multiple rapid notifications"
-  - "coordinated sexual messages"
-  - "sexualised stickers in chat"
-  - "sexualised nicknames in group"
-  - "unwanted sexual memes"
-  - "crepy messages"
-  - "harrassment in chat"
-last_reviewed: "2026-03-17"
+  - group chat sexual harassment
+  - being sexualised in group chat
+  - unwanted sexual comments online
+  - sexualised messages in gc
+  - harassment in whatsapp group
+  - harassment in snapchat group
+  - harassment in instagram group chat
+  - sexual comments over text
+  - friends joining in sexual jokes
+  - gc dogpiling
+  - humiliating sexual remarks
+  - repeated creepy messages
+  - online sexual intimidation
+  - sexual bullying in chat
+  - pressured to laugh along
+  - boundaries ignored in chat
+  - screenshots of harassment
+  - reporting harassment on app
+  - threatened in group chat
+  - sexual harassment in messages
+  - someone won't stop sexualising me
+last_reviewed: "2026-03-13"
 ---
-# What to do if… someone in a group chat repeatedly sexualises you and others join in (UK)
 
+# What to do if… someone in a group chat repeatedly sexualises you and others join in (UK)
 ## Short answer
-Isolate yourself from the notifications immediately by muting the chat, then record a small sample of the messages before leaving or reporting the users to the platform.
+Create distance first: mute/leave the chat (or temporarily block) and stop replying. Then save a small record and report it in-app; if you feel threatened or unsafe, contact the police.
 
 ## Do not do these things
-- Do not attempt to joke back or use self-deprecation to defuse the situation, as this is often misinterpreted as consent.
-- Do not engage in a "back-and-forth" to explain why the comments are hurtful while the group is actively participating.
-- Do not delete the message thread immediately if you intend to report the behaviour to the police or a school/workplace authority.
-- Do not agree to meet the instigator or any group members in person to "clear the air" while the harassment is ongoing.
-- Do not share further images or personal information in an attempt to "prove" the comments are inaccurate.
+- Don’t try to “out-joke” it or explain yourself in the group chat — it often escalates when others pile on.
+- Don’t keep engaging to “set the record straight” if you’re panicking — pause first, then act.
+- Don’t delete the whole chat history in a rush if you might want to report later.
+- Don’t agree to move the conversation to a private chat “to talk it out” with the person who started it.
+- Don’t share intimate images, “proof”, or personal details to try to make it stop.
 
 ## What to do now
-1. **Silence the immediate triggers (30 seconds):** Open the group chat settings and **select "Mute" for the maximum duration** (usually "Always" or "1 Year") and turn off "Show Previews" in your phone's notification settings. This stops the sensory overload of constant pings and typing indicators.
-2. **Disable visibility features:** Go to your account privacy settings and **turn off "Read Receipts" and "Last Seen" status.** This prevents the group from seeing that you are active or monitoring their messages, which can discourage further "pile-on" behavior.
-3. **Capture a focused record (2 minutes):** Take screenshots of 3–5 key messages that clearly show **the sender's username, the specific sexual comments, and the timestamps.** Save these to a hidden or password-protected folder and then close the app.
-4. **Exit or Archive the chat:** If the group is social, **leave the group chat immediately.** If the group is mandatory for work or education, "Archive" the chat so it is removed from your main message list while you seek a resolution.
-5. **Report to the platform:** Use the app’s internal reporting tools to **flag the specific sexualised messages.** Under the Online Safety Act, platforms are required to have clearer pathways for reporting "priority harms" such as sexual harassment and pile-ons.
-6. **Block the primary instigators:** Individually **block the person who started the comments** and any others who actively joined in. This prevents them from messaging you privately or adding you back to new groups.
-7. **Contact a trusted third party:** Message one person you trust who is **not** in that group chat. Ask them to sit with you while you decide on next steps, or simply to check in on you later today.
-8. **Contact specialist services for intimate images:** If an intimate image has been shared or threatened, contact the **Revenge Porn Helpline (0345 6000 459)** or use **StopNCII.org** to proactively hash-match and block the image from being uploaded to major platforms.
-9. **Escalate to authorities if threatened:** If the messages include threats of physical harm, stalking, or non-consensual sharing of images, **call 101** to report the incident to the police. If you are in immediate danger of a physical encounter, **call 999** (or text 18000 for the textphone service).
+1. **Create immediate distance (30 seconds):** Mute notifications, turn off message previews on your lock screen, and **leave the group** if you can. If you can’t leave (e.g., it’s for essential work/school logistics), mute it and stop opening it for now.
+2. **Stop feeding the pile-on:** Do not reply, react, or add “seen”/read receipts if you can avoid it. If your app allows it, **turn off read receipts** or “last seen” temporarily.
+3. **Save a minimal record (2–3 minutes):** Take screenshots of a small set of key messages showing **who**, **what was said**, **dates/times**, and the group name. Save only what you need so you don’t keep re-reading it.
+4. **Use the platform’s tools:** Report the messages/users inside the app (and the group if relevant). Where possible, **block** the main instigator (and anyone who escalated).
+5. **Use the group’s power structure (if there is one):** If there’s an admin/moderator you trust, message **one** admin privately: “I’m being repeatedly sexualised in the group. I’ve left/muted. Please remove the content and the person.” If you don’t trust any admin, skip this step.
+6. **Get a real person on your side:** Tell one trusted person what happened and ask them to **stay with you while you report/block**. If you’re alone, consider calling a specialist support line for confidential support.
+7. **If there are threats or you feel unsafe:** If you’re in immediate danger call **999**. Otherwise call **101** or use your local force’s online reporting route (this varies across the UK). You do not need to gather perfect “evidence” before contacting police.
+8. **If intimate images are involved (or you’re being pressured for them):** If an image has been shared or threatened, get specialist help promptly. In the UK, the **Revenge Porn Helpline** supports adult victims of intimate image abuse.
+9. **If this connects to an offline incident (or you’re unsure):** You can contact an **NHS Sexual Assault Referral Centre (SARC)** for medical, practical, and emotional support, even if you don’t want to report to police.
 
 ## What can wait
-- You do not need to explain to the group why you left or muted them today.
-- You do not need to decide if you want to press charges or take legal action right now.
-- You do not need to look at the chat again to see "what they are saying now" once you have captured your screenshots.
-- You do not need to decide if your "friendship" with these people is over permanently in this moment.
+- You do **not** need to decide right now whether to confront the group or explain yourself to everyone.
+- You do **not** need to decide right now whether this is “serious enough” to report — you can document and seek advice without committing to further action.
+- You do **not** need to change your number/account or make big social decisions today. Stabilise first.
 
 ## Important reassurance
-Coordinated group harassment (or "pile-ons") is designed to make you feel isolated and outnumbered. Feeling a sense of "freeze" or shock is a physiological response to social threat and is not a sign of weakness. The behaviour of the group is a reflection of their collective dynamic, not a reflection of your character or your boundaries.
+Freezing, feeling embarrassed, or doubting yourself is a common reaction when a group turns sexual and humiliating. The fact that others joined in doesn’t make it normal or acceptable — it often reflects group dynamics, not your worth or consent.
 
 ## Scope note
-This guide provides first-step stabilization for digital harassment in a group setting. It does not cover long-term legal claims, workplace grievance procedures, or psychological recovery from online abuse.
+These are first steps to reduce harm, stop contact, and buy time. Later options (workplace/school routes, longer-term safety planning, formal complaints) can come after you’ve stabilised and have support.
 
 ## Important note
-This information is for immediate safety and stabilization and does not constitute legal advice. UK laws regarding Malicious Communications and the Online Safety Act are complex; if you believe a crime has been committed, consult the police or a qualified legal professional.
+This is general information for urgent first steps and isn’t legal advice. If you feel unsafe or the behaviour includes threats, stalking, coercion, or sharing sexual images without consent, consider contacting the police and/or a specialist support service.
 
 ## Additional Resources
-- https://www.victimsupport.org.uk/crime-info/types-crime/sexual-harassment/
-- https://www.thecyberhelpline.com/guides/online-harassment
-- https://reportharmfulcontent.com/when-should-you-go-to-the-police/?lang=en-gb
-- https://www.met.police.uk/advice/advice-and-information/har/harassment-on-social-media/
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/protection-from-online-stalking-and-harassment/
+- https://www.gov.uk/report-crime
+- https://www.police.uk/pu/contact-the-police/report-a-crime-incident/
+- https://rapecrisis.org.uk/get-help/want-to-talk/
+- https://revengepornhelpline.org.uk/how-can-we-help/how-to-get-in-touch/
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/

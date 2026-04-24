@@ -1,83 +1,85 @@
----
+﻿---
 title: "What to do if… your external hard drive suddenly will not mount and important files are on it"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "swollen laptop battery"
-  - "laptop battery swelling"
-  - "trackpad lifting"
-  - "casing lifting laptop"
-  - "bulging battery laptop"
-  - "expanding battery"
-  - "lithium-ion battery swelling"
-  - "laptop feels bloated"
-  - "laptop lid not closing"
-  - "battery pushing trackpad"
-  - "spicy pillow laptop"
-  - "laptop battery odor"
-  - "laptop overheating suddenly"
-  - "laptop won’t sit flat"
-  - "puffy battery"
-  - "laptop chassis bending"
-  - "battery deformation"
-  - "battery fire risk laptop"
-  - "device swelling warning"
-  - "help i have a swollen battery"
-  - "what do i do if my laptop is bulging"
-  - "help my laptop case is opening"
-  - "what do i do if my trackpad is popping out"
-  - "laptop battery smells like chemicals"
-  - "white smoke from laptop"
-  - "battery making hissing noise"
-  - "swollen lithium-ion disposal"
-  - "laptop battery safety emergency"
-  - "hazardous waste laptop"
-  - "bloated computer battery"
-last_reviewed: "2026-03-17"
+  - external hard drive not mounting
+  - hard drive won’t mount
+  - drive not recognized
+  - drive not detected
+  - usb drive not showing up
+  - disk not mounting mac
+  - disk not mounting windows
+  - drive asks to format
+  - drive says initialize disk
+  - unallocated disk panic
+  - important files on drive
+  - photos documents lost panic
+  - sudden storage failure
+  - data recovery first steps
+  - stop using the drive now
+  - corrupted file system fear
+  - external drive clicking
+  - warranty return question
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your external hard drive suddenly will not mount and important files are on it (USA)
 
 ## Short answer
-Stop using the device immediately by shutting it down and unplugging the power cable. Move the laptop to a hard, non-flammable surface in a well-ventilated area away from people and pets until it can be professionally serviced or disposed of.
+Stop trying quick “fixes” that modify the disk. Disconnect the drive, keep it powered off, and treat this as a **data recovery** problem first (not a “make it mount” problem).
 
 ## Do not do these things
-- Don’t keep the laptop plugged into a charger or "test" the battery by using it.
-- Don’t press down on the bulging casing or force the trackpad back into place.
-- Don’t attempt to puncture, squeeze, or "bleed" the battery to reduce the swelling.
-- Don’t put the device in standard household trash or curbside recycling bins.
-- Don’t store the laptop on soft surfaces like beds / sofas or near flammable materials.
-- Don’t attempt to remove the battery yourself if it is glued in or requires prying.
+- Don’t click **Format**, **Initialize Disk**, or **Erase** to “get it working”.
+- Don’t run aggressive repair commands that **fix** file system errors if you care about the files.
+- Don’t keep retrying over and over if the drive is making abnormal sounds (clicking, grinding, repeated spin-up/spin-down).
+- Don’t install random recovery tools you found via ads or pop-ups.
+- Don’t open the enclosure or attempt internal repairs.
 
 ## What to do now
-1. **Perform a hard shutdown of the laptop immediately.** Use the standard software shutdown if the screen is responsive, or hold the power button until the lights and fans turn off.
-2. **Disconnect the charging cable and all peripherals.** Remove all power sources and external devices (USB drives / monitors / mice) to prevent further heat generation or electrical stress.
-3. **Move the device to a safe, non-combustible area.** Place it on a tile, stone, or metal surface (such as a garage floor or kitchen counter) away from curtains, papers, or upholstery.
-4. **Monitor the device for signs of "thermal runaway."** Watch for visible smoke, a sweet / metallic chemical odor, hissing or popping sounds, or intense localized heat.
-5. **Call 911 immediately if you see smoke or flames.** Inform the dispatcher that you have a "swollen lithium-ion battery fire risk" so that emergency responders bring the correct suppression equipment.
-6. **Protect your data through professional drive removal only.**
-   - Do not power the device on to back up files.
-   - Consult a professional repair technician to remove the storage drive (SSD / HDD) from the chassis while the battery remains isolated.
-7. **Contact the manufacturer or a certified hazardous waste program for disposal.**
-   - Visit the manufacturer’s website to check for specific battery recall programs or safety handling instructions.
-   - Locate a "Household Hazardous Waste" (HHW) facility in your area, as standard retail recycling kiosks (like those in big-box stores) often do not accept damaged or swollen batteries.
+1. **Stop writes immediately.**  
+   Safely eject if you can, then unplug the drive. If it has external power, turn it off. The goal is to avoid any background changes or overwriting.
+
+2. **Capture the evidence of what’s happening.**  
+   Take a photo/screenshot of any error messages. Write down what you were doing right before it failed, and whether the drive spins normally or makes new noises.
+
+3. **Do one low-risk connection check (once, not endlessly).**  
+   Try a different USB port, a different cable, and if applicable a different power adapter. If that doesn’t change anything, stop “cycling” it.
+
+4. **Check if the computer can see the disk without changing it.**  
+   - **Windows:** open **Disk Management** and see if the disk appears (it might show as “Unknown”, “Not initialized”, or “Unallocated”). **Do not** choose **Initialize** or **Format**.  
+   - **Mac:** open **Disk Utility** and see if the device appears in the sidebar. **Do not** choose **Erase**.  
+   If it appears but isn’t mountable, avoid options that erase/initialize.
+
+5. **If any files are accessible: copy the irreplaceable ones first.**  
+   Copy (don’t move) the most important folders to a different drive or reputable cloud storage. Start with small, critical items. If copy speeds collapse or errors increase, stop and move on.
+
+6. **If it won’t mount and/or you hear clicking/grinding: consider professional data recovery early.**  
+   Mechanical symptoms often mean the drive is failing physically. Repeated DIY attempts can make recovery harder. Keep the drive powered off until you decide.
+
+7. **If the drive is under warranty or you just bought it: separate “replace the drive” from “save the data.”**  
+   Warranty replacement/returns often involve wiping, refurbishing, or swapping the unit. If the data matters, don’t ship it back until you’re sure you’ve recovered what you can (or you accept losing it).
+
+8. **USA-specific consumer path if a company is unhelpful about a defective device/warranty.**  
+   Review the written warranty terms, then contact the seller/manufacturer in writing with what happened and what resolution you want. If you can’t get traction, the FTC’s consumer guidance on resolving problems with a business can help you structure the complaint/escalation.
 
 ## What can wait
-- You do not need to figure out why the battery failed (overcharging / age / heat) right now.
-- You do not need to decide on a replacement laptop or repair costs immediately.
-- You do not need to wipe your personal data if the device is physically unsafe to power on.
+- You do **not** need to decide on a new backup strategy today.
+- You do **not** need to run command-line repairs, “initialize,” or reformat to test theories.
+- You do **not** need to spend hours comparing recovery software while you’re stressed—pause first and protect the current state.
 
 ## Important reassurance
-Battery swelling is a common safety mechanism designed to contain gas buildup and prevent an immediate explosion. By stopping usage and isolating the device now, you are significantly reducing the risk of a fire or injury. Feeling anxious about the "bulging" look is a normal reaction to a physical hazard.
+When people lose recoverability, it’s often because they felt pressured to click “format/repair” just to get past a warning. Pausing and preventing changes is the safest first move.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction instructions only. Long-term disposal must follow local environmental regulations for hazardous materials.
+This is first-step guidance meant to reduce irreversible mistakes. If the files are high-value or the drive shows physical failure signs, a reputable data recovery specialist is often the safest next step.
 
 ## Important note
-This information is for safety guidance and does not replace professional fire or hazardous material services. If the device begins to vent gas or heat up rapidly, prioritize personal evacuation and call emergency services immediately.
+This is general information, not professional advice. Storage repair tools can change data on the disk, and outcomes depend on the specific failure. If the files are important, favor non-destructive steps and consider qualified help.
 
 ## Additional Resources
-- https://support.microsoft.com/en-us/windows/windows-file-recovery-61f5b28a-f5b8-3cc2-0f8e-a63cb4e1d4c4
-- https://support.apple.com/en-us/102611
-- https://www.seagate.com/support/kb/usb-external-troubleshooter-003581en/
-- https://support-en.wd.com/app/answers/detailweb/a_id/52805
-- https://support-en.wd.com/app/answers/detailweb/a_id/33838/~/troubleshooting-and-tips-for-your-external-hard-drives
+- https://support.apple.com/en-us/guide/disk-utility/dskutl1040/mac
+- https://learn.microsoft.com/en-us/windows-server/troubleshoot/windows-server/backup-and-storage/troubleshoot-disk-management
+- https://learn.microsoft.com/en-us/windows-server/storage/disk-management/initialize-new-disks
+- https://consumer.ftc.gov/articles/solving-problems-business-returns-refunds-and-other-resolutions
+- https://consumer.ftc.gov/articles/warranties

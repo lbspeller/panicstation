@@ -1,100 +1,90 @@
----
+﻿---
 title: "What to do if… a merchant says they refunded you but the card transaction is still showing as reversed"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "missing card refund"
-  - "refund not showing"
-  - "card transaction reversed"
-  - "merchant says refunded"
-  - "help i havent received my refund"
-  - "my refund is missing"
-  - "what do i do if my refund is not in my bank"
-  - "what do i do if a merchant wont refund me"
-  - "reversed payment confusion"
-  - "authorisation hold not dropping"
-  - "pending transaction disappeared"
-  - "money not back on card"
-  - "card credit delayed"
-  - "acquirer reference number arn"
-  - "trace missing refund"
-  - "visa chargeback missing refund"
-  - "mastercard refund timeframes"
-  - "see transaction as reversed"
-  - "hear nothing from merchant"
-  - "feel out of pocket"
-  - "smell merchant fraud"
-  - "burning through my balance"
-  - "refund says completed but isn't"
-  - "card statement doesn't match"
-  - "banking app shows reversed"
-  - "voided card transaction"
-  - "credit card refund help"
-  - "debit card refund missing"
-  - "help i am missing money"
-  - "what do i do if the merchant says they paid me"
-  - "card payment reversed status"
-  - "refund tracking number uk"
-  - "stuck pending refund"
-  - "cancelled authorization hold"
-  - "duplicate charge refund"
-last_reviewed: "2026-03-17"
+  - merchant says refunded
+  - refund not showing
+  - card transaction reversed
+  - reversed payment still there
+  - refund promised not received
+  - refund pending in banking app
+  - card payment shows reversal
+  - authorisation reversed confusion
+  - voided card transaction
+  - missing card credit
+  - refund stuck pending
+  - banking app shows reversed
+  - card statement doesn’t match
+  - refund confirmation missing
+  - acquirer reference number arn
+  - refund tracking number
+  - card refund delayed
+  - reversed charge but no money
+  - card payment reversed status
+  - refund says completed but isn’t
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… a merchant says they refunded you but the card transaction is still showing as reversed (UK)
 
 ## Short answer
-Verify if the transaction was a "settled" payment or a "pending" authorization hold, then request a traceable Acquirer Reference Number (ARN) from the merchant to provide to your bank's dispute team.
+First confirm whether you were actually charged or whether it was only a cancelled authorisation (“reversed”). Then get the merchant’s refund proof (date/time and a traceable reference like an ARN) and ask your card provider to trace the missing credit or raise a chargeback if you’re out of pocket.
 
 ## Do not do these things
-- Don't confuse an "authorization reversal" (cancelling a hold) with a "refund" (returning settled money); they appear differently in banking apps.
-- Don't delete the original transaction record or your communication history with the merchant.
-- Don't assume the merchant is lying immediately; payment processing between "acquirers" and "issuers" can take up to 10 working days.
-- Don't close the bank account or cancel the card associated with the transaction, as this complicates the tracing process.
-- Don't wait longer than 120 days from the date the refund was promised to take formal action.
+- Don’t assume “reversed” means “refunded”: a reversal/void often cancels a pending hold, while a refund usually appears later as a separate credit.
+- Don’t keep re-contacting the merchant daily without new information; ask once for specific proof you can use.
+- Don’t close the account or cancel/replace the card just to “reset” this; it can make tracing harder.
+- Don’t rely on screenshots that don’t show a refund date/time/amount and a clear reference (they may not be traceable).
+- Don’t throw away return/postage proof if this relates to a returned item.
 
 ## What to do now
-1. **Verify the status of the original transaction in your banking app.**
-   - Check if the transaction is marked as **Pending**, **Completed/Posted**, or **Reversed/Cancelled**.
-   - Note if the original transaction has **disappeared** entirely; this often indicates an authorization hold was simply released rather than a refund being processed.
+1. **Work out whether money actually left your account.**
+   - Open the transaction details and check whether it is **pending** or **completed/posted**.
+   - Check whether there is a **separate refund/credit line** (refunds typically post separately; the original entry may remain as-is).
+   - Check your **available balance** versus your **statement/ledger balance** (a pending hold can affect available funds until it drops).
 
-2. **Obtain formal proof of refund from the merchant.**
-   - Request a **receipt or screenshot** showing the refund date, amount, and the last four digits of the card used.
-   - Specifically ask for the **ARN (Acquirer Reference Number)** or **Trace ID**; this is a unique 23-digit number used by banks to track money through the clearing system.
+2. **Save a clean record of what you see today.**
+   - Screenshot the transaction details (date, amount, merchant name, and the “reversed” wording).
+   - Note any identifiers shown (reference number, merchant location, transaction time).
 
-3. **Confirm the payment method used for the original purchase.**
-   - Verify if you used a **virtual card number** (such as Apple Pay, Google Pay, or a one-time use card) which may have a different "token" ID than your physical card.
-   - Check if the refund was sent to an **expired card**; your bank can usually move this credit to your active account once it arrives.
+3. **Ask the merchant for refund proof that can be traced.**
+   Request (in one message):
+   - **Refund date and time** processed
+   - **Refund amount**
+   - Confirmation it went back to the **same payment method** (same last 4 digits, or same wallet card token if you used Apple Pay/Google Pay)
+   - A **refund reference** and, if available, an **ARN (Acquirer Reference Number)** or trace/reference number from their payment provider
+   - Confirmation they issued a **refund** (not just “voided/reversed” an authorisation)
 
-4. **Contact your card issuer to "trace" the missing credit.**
-   - Call the number on the back of your card and ask to speak with the **Disputes or Chargeback department**.
-   - Provide the **ARN** or **Trace ID** and ask them to check for "unallocated credits" or "parked transactions" matching that reference.
+4. **Contact your card provider and ask them to trace a missing credit.**
+   - Use the phrase: **“Please trace a missing refund credit.”**
+   - Give them: amount, original transaction date, merchant name, and the merchant’s refund date + reference/ARN (if you have it).
+   - Ask them to check whether the credit is stuck because of a **card replacement**, **expired card**, or **tokenised wallet payment**.
 
-5. **Initiate a formal dispute or chargeback if the money remains missing.**
-   - Ask for a **Chargeback** for "Credit not processed" if you have evidence of the refund but no money.
-   - Mention **Section 75 of the Consumer Credit Act** if the purchase was over £100 and made on a credit card, as the bank shares equal liability with the merchant.
+5. **If you are out of pocket, ask your provider about a chargeback.**
+   - Say: “Merchant says they refunded, but no credit has posted. Can you raise a **chargeback for a missing refund** under the card-scheme rules, and tell me what evidence you need?”
 
-6. **Submit a formal complaint to your bank if they fail to locate the funds.**
-   - State that you are making a **Formal Complaint** regarding a missing payment service.
-   - Under FCA rules, banks must typically respond to payment-related complaints within **15 business days**.
-   - If unsatisfied, escalate to the **Financial Ombudsman Service (FOS)** within 6 months of receiving the bank's final response letter.
+6. **If it’s still not resolved, move to the provider’s formal complaints route (in writing).**
+   - Make a **formal complaint** to the card provider and keep a copy.
+   - If you get a **final response** you disagree with, or **8 weeks** pass without one, you can take it to the **Financial Ombudsman Service**. (There is usually a time limit to do this after the final response, commonly **within 6 months**.)
 
 ## What can wait
-- You do not need to contact the Financial Ombudsman Service today; you must wait for the bank's final response or for the 15-day/8-week deadline to pass.
-- You do not need to change your card security settings or report fraud if the merchant is communicating and provides a valid trace number.
-- You do not need to involve a solicitor for a missing refund; the chargeback and Ombudsman processes are designed for consumers to use for free.
+- You don’t need to decide today whether you’ll escalate beyond your card provider; first get traceable refund details and a clear trace result.
+- You don’t need to threaten legal action or post publicly to “force” a refund.
+- You don’t need to cancel the card unless you believe there’s fraud or ongoing unauthorised activity.
 
 ## Important reassurance
-It is very common for banking apps to display "Reversed" or "Cancelled" when a merchant merely releases a temporary hold on your funds. In these cases, no money actually left your account, so no "refund" will appear. Once you have a trace number (ARN), the banking system has a high success rate in locating settled funds that have gone astray.
+This is common because banking apps use confusing labels. “Reversed” often refers to a cancelled hold, not a posted refund. Once you have the refund’s processing date and a traceable reference, your provider can usually locate what happened to the credit.
 
 ## Scope note
-This guide provides first-step stabilization for missing card credits. It does not cover bank transfer (BACS/CHAPS) errors or cryptocurrency reversals, which have different regulatory protections.
+These are first steps to stabilise the situation and avoid losing time or evidence. If the money is still missing after tracing, chargeback, and (if needed) a formal complaint, you may need specialist help for the next stage.
 
 ## Important note
-This information is for general guidance and does not constitute financial or legal advice. Terms and timeframes vary by card scheme (Visa, Mastercard, Amex) and specific bank policies. Always follow the formal dispute instructions provided by your financial institution.
+This guide is general information, not legal or financial advice. Card providers and card schemes use different terminology and processes; keep everything in writing and follow your provider’s formal instructions where they differ.
 
 ## Additional Resources
 - https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/getting-your-money-back-if-you-paid-by-card-or-paypal/
 - https://www.moneyhelper.org.uk/en/everyday-money/credit/how-youre-protected-when-you-pay-by-card
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/credit-borrowing-money/goods-services-bought-credit
-- https://www.moneyhelper.org.uk/en/everyday-money/banking/how-to-sort-a-problem-with-a-payment
-- https://www.citizensadvice.org.uk/consumer/get-more-help/Solve-an-ongoing-consumer-problem/
+- https://www.ukfinance.org.uk/our-expertise/cards/chargeback-and-section-75
+- https://www.financial-ombudsman.org.uk/consumers/how-to-complain
+- https://www.financial-ombudsman.org.uk/make-complaint

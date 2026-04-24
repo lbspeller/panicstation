@@ -1,83 +1,101 @@
----
+﻿---
 title: "What to do if… your home Wi-Fi name or password appears changed and your devices disconnect"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "messaging app account takeover"
-  - "registered on another device"
-  - "account being registered alert"
-  - "someone trying to log in"
-  - "verification code scam"
-  - "sms code request scam"
-  - "whatsapp registered new phone"
-  - "signal registration lock"
-  - "telegram login alert"
-  - "sim swap warning signs"
-  - "phone number hijacked"
-  - "port out scam"
-  - "number transfer fraud"
-  - "unexpected verification text"
-  - "locked out of chats"
-  - "contacts impersonation risk"
-  - "linked devices check"
-  - "two step verification pin"
-  - "account recovery steps"
-  - "suspicious login notification"
-  - "what do i do if my account is registered elsewhere"
-  - "what do i do if i get a login code i didn't request"
-  - "what do i do if my sim card stops working"
-  - "help i am locked out of my messaging app"
-  - "help i gave my verification code to a stranger"
-  - "help i scanned a qr code and now my account is hacked"
-  - "messaging app security bot scam"
-  - "ghostpairing whatsapp scam"
-  - "registration lock bypass"
-  - "carrier account lock"
-  - "identitytheft gov report"
-last_reviewed: "2026-03-17"
+  - wifi name changed
+  - wifi password changed
+  - home wifi hacked
+  - router settings changed
+  - devices disconnected from wifi
+  - ssid changed unexpectedly
+  - someone changed my wifi
+  - router admin password compromised
+  - unknown devices on my network
+  - internet suddenly stopped working
+  - home network breach
+  - wifi keeps kicking devices off
+  - smart home went offline
+  - new wifi name appeared
+  - wifi credentials no longer work
+  - router takeover
+  - isp router security
+  - remote management enabled
+last_reviewed: "2026-03-08"
 ---
-# What to do if… your home Wi-Fi name or password appears changed and your devices disconnect (USA)
 
+# What to do if… your home Wi-Fi name or password appears changed and your devices disconnect (USA)
 ## Short answer
-Assume an active account-takeover attempt; never share verification codes with anyone, re-verify your own number within the app settings immediately to disconnect the intruder, and contact your mobile carrier if your phone loses signal.
+Assume your router may have been accessed: regain control of the router (factory reset if needed), then change the router admin login and Wi-Fi password and disable remote management before you reconnect everything.
 
 ## Do not do these things
-- **Do not share any 6-digit SMS or voice verification codes with anyone,** including people claiming to be "Support," "Security Bots," or "Friends in need."
-- **Do not scan QR codes sent to you in a chat** to "verify your identity" or "join a group," as this can silently link an attacker's device to your account.
-- **Do not ignore a sudden "No Service" or "SOS Only" message on your phone,** as this is a primary indicator of a SIM swap or port-out scam.
-- **Do not use "Support" links or phone numbers provided in an unexpected text or DM;** only use the official "Help" or "Settings" menu inside the app.
-- **Do not factory reset your phone yet;** this will not stop a number hijacking and may delete evidence needed for recovery.
+- Don’t log into banking, email, or work systems on that Wi-Fi until the router is secured.
+- Don’t only change the Wi-Fi password and stop there (if the router admin login is compromised, it can be changed again).
+- Don’t enable remote access/remote administration “to fix it” unless you’re confident you can secure it.
+- Don’t reuse an old or easy password.
+- Don’t keep retrying old passwords repeatedly (it wastes time and can trigger lockouts on some devices/accounts).
 
 ## What to do now
-1. **Check if you triggered the alert yourself.** **If you did not recently reinstall the app, move to a new phone, or change your SIM card, treat the alert as a hostile takeover attempt.**
-2. **Re-verify your account inside the app immediately.** **Open the app and follow the prompts to register your phone number again; this will usually kick out the attacker if they are in the middle of the registration process.**
-   - Only use the code you receive via SMS after you personally clicked "Resend Code" or "Call Me."
-3. **Audit and remove all "Linked Devices" or "Active Sessions."** **Navigate to the app's settings menu (often under "Linked Devices" or "Devices") and log out every single session you do not recognize.**
-   - On Telegram, be aware there is a 24-hour waiting period before a newly linked device can terminate other sessions.
-4. **Call your mobile carrier from a different phone if your service has stopped.** **Tell the representative: "I am a victim of a SIM swap/port-out fraud and I need to stop all outgoing transfers and restore my service to my physical device immediately."**
-   - Ask the carrier to apply an "Account Lock" or "Port-Out PIN" to prevent future unauthorized transfers.
-5. **Secure your financial and email accounts.** **Log into your bank and email settings to ensure your recovery phone number has not been changed and switch your Multi-Factor Authentication (MFA) from SMS to an authenticator app or security key.**
-6. **Enable the app's "Registration Lock" or "Two-Step Verification" feature.** **Set a custom PIN within the app settings that is different from your phone's passcode and save it in a secure location.**
-7. **Notify your contacts through a different platform.** **Send a brief message to family or work groups: "My messaging account was targeted; do not click links or send money if you receive a request from me today."**
-8. **File a report with official US agencies if you lose control or money.** **Use IdentityTheft.gov for a recovery plan and report cyber-enabled fraud to the FBI's Internet Crime Complaint Center (IC3.gov).**
+1. **Confirm you’re looking at your router’s network.**  
+   Check the router label and any ISP app/portal for the expected network name and admin access method. If possible, use an Ethernet cable for one device for setup.
+
+2. **Power cycle once to rule out a glitch.**  
+   Unplug router power for 20–30 seconds, plug back in. If the network still looks “wrong,” proceed as if settings were changed.
+
+3. **Factory reset the router to clear unknown configuration.**  
+   Use the reset pinhole/button **following your model’s instructions**. Many routers reset if you hold the button until the lights change and the unit restarts.
+
+4. **Immediately change the *router admin* credentials (not just Wi-Fi).**  
+   Log into the router admin interface/app and set a strong, unique admin password (and change the admin username if possible). If the router supports MFA for admin access, enable it.
+
+5. **Update router firmware (or enable automatic updates).**  
+   Do this before reconnecting your full household. If the router is end-of-life or no longer gets updates, plan to replace it.
+
+6. **Review the settings attackers commonly change and revert anything unfamiliar.**  
+   In router settings, check and fix:
+   - **DNS settings** (set to automatic/ISP unless you intentionally use a custom DNS)
+   - **Port forwarding** rules you didn’t create
+   - **UPnP** (turn off if you don’t need it)
+   - **Remote management/remote administration** (turn off unless you explicitly need it)
+   - **Guest network** settings (turn off if you don’t use it; set a separate strong password if you do)
+
+7. **Recreate your Wi-Fi with secure settings.**  
+   - Use **WPA3** if available; otherwise **WPA2**.  
+   - Set a long, unique passphrase.  
+   - Avoid personal info in the network name.
+
+8. **Reconnect devices slowly and check the connected-device list.**  
+   If you see anything you don’t recognize, remove/block it and change the Wi-Fi password again.
+
+9. **Lock down the accounts that could have enabled the change.**  
+   - Change the password to your **ISP account** (the portal/app that can manage the router) and enable MFA if offered.  
+   - Update your computer/phone and run a malware scan on the device you use to manage the router.  
+   - If you reused the old Wi-Fi password anywhere else, change those logins too.
+
+10. **If there’s financial loss or identity risk, report it using official channels.**  
+   - For cyber-enabled scams and many online crimes, you can file a report with the FBI’s **IC3**.  
+   - If identity theft is involved, report and get recovery steps via **IdentityTheft.gov** (FTC).  
+   - For other fraud/scams, you can also report via **ReportFraud.ftc.gov**.
 
 ## What can wait
-- **Reviewing old chat logs for specific data leaks** can wait until the account and phone number are fully secured.
-- **Changing your actual phone number** is usually unnecessary if the carrier can successfully lock the account and restore the current number.
-- **Engaging with the attacker** or trying to "trick" them into giving up information should be avoided entirely.
+- You don’t need to determine exactly how it happened right now.
+- You don’t need to replace all devices immediately (start with router + key accounts).
+- You don’t need to reorganize your whole smart home today—stabilize connectivity and security first.
+- You can do deeper cleanup (password manager, separating IoT/guest networks) after the immediate risk is reduced.
 
 ## Important reassurance
-Receiving this alert means the app's security system has identified the unauthorized attempt and is warning you before the takeover is permanent. By re-verifying your number and checking your linked devices now, you are using the app’s built-in tools to override the intruder's access.
+A sudden SSID/password change feels invasive, but the practical fix is usually straightforward: reset, update, and secure the router admin access. Doing those steps first greatly reduces the chance it happens again.
 
 ## Scope note
-This guide provides first-step stabilization for an active account-takeover attempt. It does not cover long-term identity restoration or forensic device analysis.
+This covers the first steps to regain control and reduce immediate risk. If you have a complex network (mesh nodes, custom firewall rules, work VPN appliances), you may need model-specific support after you stabilize the router.
 
 ## Important note
-This information is for emergency stabilization and is not legal or professional cybersecurity advice. If you are a high-profile individual or government official, follow your organization's specific incident response protocols immediately. 
+This is general information, not a guarantee that you were hacked or that these steps will resolve every cause (some outages are provider or hardware issues). If you’re unsure, it’s reasonable to contact your ISP for help securing or replacing the router.
 
 ## Additional Resources
-- https://consumer.ftc.gov/node/78375
-- https://consumer.ftc.gov/articles/securing-your-internet-connected-devices-home
-- https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers
-- https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams
-- https://www.fbi.gov/investigate/cyber/alerts/2025/cybercriminal-proxy-services-exploiting-end-of-life-routers
+- https://www.cisa.gov/news-events/news/home-network-security
+- https://www.cisa.gov/audiences/high-risk-communities/projectupskill/module5
+- https://www.ic3.gov/
+- https://complaint.ic3.gov/
+- https://www.identitytheft.gov/
+- https://reportfraud.ftc.gov/

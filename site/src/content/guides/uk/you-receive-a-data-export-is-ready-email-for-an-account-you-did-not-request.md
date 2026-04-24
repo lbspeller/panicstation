@@ -1,102 +1,100 @@
----
+﻿---
 title: "What to do if… you receive a “data export is ready” email for an account you did not request"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "data export is ready email"
-  - "unexpected data export link"
-  - "account data download notice"
-  - "i did not request data export"
-  - "suspicious account export email"
-  - "what do i do if i get a data export email"
-  - "help i got a download ready email"
-  - "help i didnt request a data export"
-  - "what do i do if someone requested my data"
-  - "my account says data export ready"
-  - "my data is being downloaded by someone else"
-  - "possible account takeover"
-  - "someone accessed my account"
-  - "export download email scam"
-  - "phishing data export message"
-  - "privacy export notification"
-  - "account security alert email"
-  - "unexpected download ready notice"
-  - "account activity i dont recognise"
-  - "compromised login suspicion"
-  - "attacker requesting export"
-  - "social media data export email"
-  - "google data export ready email"
-  - "microsoft data export ready email"
-  - "app data export notification"
-  - "email looks official but unsure"
-  - "received download link not requested"
-  - "unauthorised data request notification"
-  - "data download ready but didnt ask"
-  - "suspicious privacy alert email"
-  - "data porting request unexpected"
-  - "gdpr export email scam"
-  - "subject access request email scam"
-  - "unexpected archive ready email"
-last_reviewed: "2026-03-17"
+  - data export is ready email
+  - unexpected data export link
+  - account data download notice
+  - i did not request data export
+  - suspicious account export email
+  - possible account takeover
+  - someone accessed my account
+  - export download email scam
+  - phishing data export message
+  - privacy export notification
+  - account security alert email
+  - unexpected download ready notice
+  - account activity i dont recognise
+  - compromised login suspicion
+  - attacker requesting export
+  - social media data export email
+  - google data export ready email
+  - microsoft data export ready email
+  - app data export notification
+  - email looks official but unsure
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… you receive a “data export is ready” email for an account you did not request (UK)
 
 ## Short answer
-Access the account independently through a trusted browser or app to verify if a data request exists. If the request is real and unauthorised, terminate all active sessions, update security credentials to include passkeys or 2FA, and report the incident to Report Fraud.
+Treat it as either a phishing attempt or a sign someone has access to your account. Do not click the email’s links—go directly to the service in your browser/app, secure the account, and cancel/revoke any export you didn’t request if the service allows it.
 
 ## Do not do these things
-- Do not click any links or "Download" buttons within the email.
-- Do not use any contact details or "Support" links provided in the message.
-- Do not reply to the email or provide any verification codes to anyone asking for them.
-- Do not ignore the alert; an unauthorised data export often indicates that an attacker already has full access to your account.
-- Do not delete the account immediately, as this may destroy evidence needed for a recovery or investigation.
+- Don’t click “download export” (or “review export”) links in the email, even if the branding looks perfect.
+- Don’t reply to the email or use any phone numbers/“support” links inside it.
+- Don’t assume it’s harmless because “it’s only a copy” — exports can include sensitive private data.
+- Don’t rush into deleting the account right now (that can make recovery harder and may not stop an attacker who’s already logged in).
 
 ## What to do now
-1. **Access the service independently using a known-safe route.**  
-   **Open a new browser tab or use the official mobile app to log in directly.** Do not use any links from the suspicious email. Use a trusted bookmark or type the URL manually.
+1. **Pause and switch channels (30 seconds).**  
+   Open a new browser tab (or the official app) and type the service’s address yourself / use a trusted bookmark. Don’t use the email to navigate.
 
-2. **Verify the existence of the data export request within account settings.**  
-   **Navigate to the Privacy, Security, or "Download your data" section of the account dashboard.** 
-   - If no export request is visible in the account history, the email is likely a phishing attempt; forward it to `report@phishing.gov.uk` and delete it.
-   - If an export request is shown as "Ready," "Pending," or "Completed," the account is compromised.
+2. **Check whether the export is real (inside the account).**  
+   Look for a “Data export / Download your data / Privacy / Security” area and see if there is an export shown as “requested / preparing / ready”.  
+   - If you **cannot find** any export activity inside the account, treat the email as **phishing** and skip to steps 7–8.  
+   - If you **do find** an export you didn’t request, assume **account access is compromised** and continue.
 
-3. **Terminate all active sessions and "sign out of all devices."**  
-   **Locate the "Security" or "Active Sessions" menu and select the option to log out of all other locations.** This force-closes the attacker's connection to your account.
+3. **If you can’t sign in, go straight to the provider’s official recovery path.**  
+   Use the service’s own help/support pages to recover access (don’t use links in the email). Once you’re back in, continue with the steps below.
 
-4. **Update account security using passkeys or a strong, unique password.**  
-   **Change your password immediately and, if supported, set up a Passkey for more secure, hardware-based authentication.** Ensure the new password has not been used on any other platform.
+4. **Secure the account immediately (sessions + password + 2-step verification).**  
+   In the account’s security settings, do the closest equivalent of these (order may vary by service):
+   - **Sign out of all devices / end all sessions** (kicks out other logged-in sessions).  
+   - **Change your password** to a new, unique one (not a variation of an old password).  
+   - **Turn on 2-step verification / 2FA** (prefer an authenticator app if you have the option).
 
-5. **Enable or reset Multi-Factor Authentication (MFA).**  
-   **Turn on Two-Step Verification (2SV) using an authenticator app rather than SMS if possible.** If MFA was already on, check for "Backup Codes" or "Linked Devices" that you do not recognise and revoke them.
+5. **Remove any “back doors” that keep an attacker in.**  
+   Still inside security settings, check for:
+   - **New email addresses/phone numbers** you don’t recognise (remove them).  
+   - **Forwarding rules / auto-replies** (especially on email accounts).  
+   - **Connected apps / third-party access / “authorised devices”** you don’t recognise (revoke them).  
+   - **Recovery options** (make sure they’re yours).
 
-6. **Audit and remove unauthorised account "backdoors."**  
-   **Check for new recovery email addresses, phone numbers, or third-party app permissions that you did not authorise.** Remove any "forwarding rules" in email accounts that might be sending copies of your messages to an external address.
+6. **Cancel/revoke the export if the service allows it, and record what you see.**  
+   If there’s an option like “Cancel export” or “Delete download”, use it.  
+   Take screenshots of the export status page and any “recent activity / logins” page (time, location, device) in case you need support later.
 
-7. **Cancel the export and capture evidence of the intrusion.**  
-   **Select the option to "Cancel," "Delete," or "Expire" the download link if the service allows it.** Take screenshots of the "Recent Activity" log, including IP addresses, timestamps, and device types, to assist in later reporting.
+7. **If this might be your email account, lock down email next.**  
+   Your email is the reset key for many services. Immediately:
+   - Change your **email password**, sign out everywhere, enable 2FA.  
+   - Check **forwarding** and **filters/rules** for anything you didn’t create.
 
-8. **Report the account takeover to the relevant UK authorities.**  
-   **Use the "Report Fraud" portal (reportfraud.police.uk) if you are in England, Wales, or Northern Ireland.**
-   - If you are in Scotland, report the incident to Police Scotland by calling 101.
-   - If the account is linked to financial services or contains payment data, notify your bank immediately.
+8. **Report the message safely (UK).**  
+   - If it looks like a scam email, **forward it to** `report@phishing.gov.uk` (don’t click anything first).  
+   - If you think you’ve been hacked and there’s **fraud or financial loss**, consider reporting via **Report Fraud (Action Fraud)**.
+
+9. **If this is a work or school account, escalate internally now.**  
+   Contact your IT/helpdesk/security team using your organisation’s normal channel (not anything in the email). Ask them to check sign-ins, revoke sessions, and confirm whether an export was initiated.
 
 ## What can wait
-- You do not need to perform a full factory reset of your devices immediately unless you suspect malware was the source of the breach.
-- You can wait to update your marketing preferences or secondary profile details until the primary security settings are hardened.
-- You do not need to decide on permanent account deletion while in the initial stabilization phase.
+- You do **not** need to decide right now whether to delete the account, confront anyone, or “do a full device overhaul.”
+- You can wait to review every privacy setting and old connected app once you’ve **stopped access** (sessions ended + password changed + 2FA on).
+- If there’s no sign of misuse after you secure the account, deeper forensics can wait.
 
 ## Important reassurance
-Receiving a notice that your data is ready for download is a common tactic used by automated scripts once they gain access to an account. It feels like a total loss of privacy, but taking immediate steps to "sign out of all devices" and change credentials can often stop the attacker before they successfully move the data off the platform.
+It’s common to feel a spike of panic when you see “export ready” because it sounds final. In many cases it’s either a phishing lure or an automated attacker trying to grab data quickly. Going directly to the service and locking the account down is the fastest way to regain control.
 
 ## Scope note
-This guide provides first-step stabilization for individual users experiencing a potential account compromise. It does not cover technical digital forensics or legal recovery of stolen data.
+These are first steps to stabilise the situation and prevent irreversible loss. If you confirm an export really was created, you may later want specialist help (work IT/security, the platform’s account recovery, or fraud support), but you don’t need to solve everything in the next hour.
 
 ## Important note
-This information is for general guidance and does not constitute legal or cybersecurity advice. Different platforms use varying terminology for "Data Export" (e.g., Google Takeout, Facebook "Download Your Information"). Always refer to the specific service's official help documentation for precise menu locations. If the account is a work or school account, you must follow your organisation's internal IT reporting policy.
+This is general information, not legal or professional advice. Different services label exports and security controls differently, so use the closest equivalent settings available. If you can’t confirm what happened, prioritise “don’t click”, secure the account via official channels, and report the message.
 
 ## Additional Resources
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
 - https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
-- https://www.ncsc.gov.uk/section/respond-recover/phishing
-- https://www.ncsc.gov.uk/collection/phishing-scams/what-to-do
-- https://www.reportfraud.police.uk/identity-fraud-and-identity-theft/
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.reportfraud.police.uk/how-to-report-suspicious-activity/
+- https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/activate-2-step-verification-on-your-email

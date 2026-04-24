@@ -1,91 +1,78 @@
----
+﻿---
 title: "What to do if… you develop new yellowing of the eyes or skin that comes on quickly"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - "yellow eyes suddenly"
-  - "yellow skin fast onset"
-  - "whites of eyes turning yellow"
-  - "new jaundice symptoms"
-  - "skin turning yellow overnight"
-  - "fast onset jaundice help"
-  - "what do i do if my eyes are yellow"
-  - "what do i do if my skin is turning yellow"
-  - "what do i do if i have yellow skin"
-  - "what do i do if urine is dark and skin is yellow"
-  - "help i turned yellow"
-  - "help my eyes are yellow"
-  - "help my skin looks yellow"
-  - "help i have jaundice"
-  - "dark urine with yellow skin"
-  - "pale stools with yellow eyes"
-  - "itchy skin and yellowing"
-  - "right side abdominal pain"
-  - "shaking chills and yellowing"
-  - "confusion with yellow skin"
-  - "jaundice in pregnancy"
-  - "tylenol overdose yellow eyes"
-  - "yellowing from supplements"
-  - "bright yellow skin"
-  - "yellowing of the eyes"
-  - "eyes look yellow"
-  - "skin looks yellow"
-  - "yellowing of the skin"
-  - "new yellowing"
-  - "sudden jaundice"
-last_reviewed: "2026-03-16"
+  - sudden yellow eyes
+  - yellow whites of eyes
+  - yellow skin suddenly
+  - fast onset jaundice
+  - new jaundice symptoms
+  - dark urine with yellowing
+  - pale stools with yellowing
+  - itchy skin yellowing
+  - right upper abdominal pain
+  - fever with jaundice
+  - confusion with yellow skin
+  - suddenly turned yellow
+  - eyes turned yellow quickly
+  - after new medicine yellowing
+  - after new supplement yellowing
+  - acetaminophen overdose concern
+  - hepatitis symptom worry
+  - gallstone blockage concern
+last_reviewed: "2026-02-21"
 ---
+
 # What to do if… you develop new yellowing of the eyes or skin that comes on quickly (USA)
 
 ## Short answer
-New or rapidly appearing yellowing of the eyes or skin (jaundice) is an **urgent medical priority** requiring evaluation **today**. If you have severe pain, fever with chills, or confusion, call **911** or go to the nearest Emergency Room immediately.
+New, fast-onset yellowing of the eyes or skin is an **urgent medical symptom**: get evaluated **today** (the ER is appropriate if you can’t get immediate care). If you feel very sick, confused, faint, or have severe pain, call **911**.
 
 ## Do not do these things
-- Do not wait to see if the yellowing fades on its own if the onset was sudden.
-- Do not take acetaminophen (Tylenol), ibuprofen (Advil/Motrin), or any new over-the-counter medications until a doctor clears you.
-- Do not drink alcohol or use recreational substances.
-- Do not start any "liver cleanses," herbal teas, or detox supplements.
-- Do not drive yourself to the hospital if you feel confused, dizzy, or are in significant pain.
-- Do not skip medication for other conditions unless specifically told to do so by a clinician who knows about your jaundice.
+- Do not wait “a couple days” to see if it goes away when the yellowing is new and came on quickly.
+- Do not drink alcohol or take recreational drugs to “take the edge off.”
+- Do not take extra acetaminophen (Tylenol) or stack multiple cold/flu products that may contain acetaminophen.
+- Do not stop prescription medicines on your own unless a clinician instructs you to. If you think you may have taken **too much** acetaminophen or another medication, get urgent help immediately.
+- Do not drive yourself if you feel dizzy, drowsy, confused, faint, or in significant pain—get a ride or call 911 if needed.
 
 ## What to do now
-1. **Check for emergency "red flag" symptoms that require calling 911 or an immediate ER visit.**
-   - high fever accompanied by shaking chills (rigors)
-   - severe pain in the upper right side of your abdomen
-   - new confusion, extreme sleepiness, or difficulty staying awake
-   - vomiting blood or passing black, tarry stools
-   - fainting, dizziness, or a sudden sense of being very ill
-2. **Contact your primary care physician or go to an Emergency Room immediately if no emergency signs are present.**
-   - Tell the receptionist: "I have new, fast-onset yellowing of my skin and eyes and need a same-day evaluation."
-   - If your doctor cannot see you within hours, go to the Emergency Room rather than Urgent Care, as specialized blood tests and imaging (like ultrasound or CT) are often required immediately.
-3. **Contact Poison Control if there is any possibility of a medication or supplement reaction.**
-   - Call **1-800-222-1222** or use the online tool at **poison.org** if you suspect you took too much acetaminophen (Tylenol) or a new herbal supplement.
-   - Inform the hospital staff of every substance taken in the last 48 hours, including "natural" herbals and vitamins.
-4. **Seek immediate care at a Labor and Delivery unit or ER if you are currently pregnant.**
-   - Jaundice during pregnancy can indicate specific, high-priority complications that require specialized monitoring.
-   - Contact your obstetrician while en route to the hospital to inform them of your symptoms.
-5. **Prepare essential information for the medical team while you are waiting for care.**
-   - Note exactly when the yellowing was first noticed (e.g., in the whites of the eyes first).
-   - Check and record if your urine has turned dark (like tea or cola) or if your stools have become pale or clay-colored.
-   - List all medications, including dosages, or put all your pill bottles in a bag to bring with you.
+1. **Go to the ER now or call 911 if you have any emergency signs:**
+   - confusion, extreme sleepiness, fainting/collapse, a seizure, or you can’t be awakened
+   - trouble breathing, chest pain, or severe weakness
+   - severe abdominal pain (especially upper right) or pain that’s rapidly worsening
+   - repeated vomiting, vomiting blood, or black/tarry stools
+   - high fever with shaking chills, or you look/feel rapidly worse
+2. **If no emergency signs, still get same-day evaluation:**
+   - Call your primary care office and say: *“New jaundice—yellow eyes/skin that came on quickly. I need same-day evaluation.”*
+   - If you can’t be seen quickly, **go to the ER**. (Urgent care can be reasonable only if they can evaluate you promptly and send labs/imaging or refer you immediately—if not, choose the ER.)
+3. **If there’s any chance of too much acetaminophen (Tylenol) or a medication/supplement reaction:**
+   - Call **Poison Control at 1-800-222-1222** right away (or use their online tool). If the person collapses, has a seizure, has trouble breathing, or can’t be awakened: **call 911**.
+   - Bring the bottles/labels (or clear photos of them) with you.
+4. **If you are pregnant:**
+   - Call your OB/midwife **now** for same-day instructions. If you can’t reach them quickly and symptoms are new/fast, go to **Labor & Delivery** (if that’s your local norm) or the **ER**.
+5. **Get ready for the visit while you’re arranging care:**
+   - Write down: when yellowing started, how fast it changed, dark urine, pale stools, itch, fever, nausea/vomiting, abdominal pain.
+   - Gather: all prescription/OTC meds, vitamins, herbals, and supplements (photos of labels are fine).
+   - Arrange someone to stay with you or check in, and get a safe ride.
 
 ## What can wait
-- You do not need to figure out the cause (such as hepatitis, gallstones, or medication) before seeking help.
-- You do not need to change your long-term diet or lifestyle today.
-- You do not need to notify your workplace or make long-term plans until an initial diagnosis is made.
+- You do not need to identify the exact cause before being seen.
+- You do not need to start “cleanses,” fasting, or restrictive diets.
+- You do not need to make big decisions about work/travel today—your only job is to get evaluated safely.
 
 ## Important reassurance
-It is normal to feel startled when noticing a physical change like yellowing. Finding this symptom early and seeking immediate medical attention is the most effective way to manage the underlying cause and prevent complications.
+Yellowing that appears quickly can feel alarming, and it’s reasonable to be worried. Getting checked promptly is the right move and helps clinicians catch treatable problems early and prevent avoidable harm.
 
 ## Scope note
-This guide is for first-step stabilization and immediate action for adults and pregnant individuals experiencing new, fast-onset jaundice. It does not replace professional medical diagnosis, laboratory testing, or infant jaundice protocols.
+This guide covers immediate, first-step actions for **new, fast-onset jaundice**. Diagnosis and treatment require an in-person evaluation (often blood tests and sometimes imaging).
 
 ## Important note
-This information is for educational purposes and is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a physician or other qualified health provider with any questions regarding a medical condition. If you believe you are having a medical emergency, call 911 immediately.
+This is general information, not medical advice or a diagnosis. If you feel severely unwell, are getting worse quickly, or are not safe to travel by car, call 911.
 
 ## Additional Resources
-- https://medlineplus.gov/ency/article/000210.htm
-- https://medlineplus.gov/ency/article/007491.htm
 - https://medlineplus.gov/jaundice.html
-- https://www.niddk.nih.gov/health-information/liver-disease
-- https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/symptoms-causes
+- https://medlineplus.gov/ency/article/000210.htm
+- https://medlineplus.gov/ency/article/002598.htm
+- https://www.poison.org/
+- https://www.fda.gov/consumers/consumer-updates/dont-overuse-acetaminophen

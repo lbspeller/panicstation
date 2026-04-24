@@ -1,84 +1,81 @@
----
+﻿---
 title: "What to do if… you realise your visa or entry permission expires before your planned departure date"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "visa expires before leaving"
-  - "leave to remain expires"
-  - "permission to stay expires"
-  - "entry permission expiry"
-  - "overstay risk uk"
-  - "overstaying by accident"
-  - "wrong expiry date on visa"
-  - "evisa expiry date"
-  - "flight after visa expiry"
-  - "need to change departure date"
-  - "missed visa expiry date"
-  - "last day to stay uk"
-  - "short overstay worry"
-  - "immigration deadline help"
-  - "leaving the uk late"
-  - "permission end date"
-  - "visa end date vs travel date"
-  - "what do i do if my visa expires"
-  - "what do i do if i overstayed"
-  - "what do i do if my evisa is wrong"
-  - "help i missed my visa date"
-  - "help i am an overstayer"
-  - "my visa ends before my flight"
-  - "my evisa shows wrong date"
-  - "smell of burning plastic"
-  - "visible smoke from socket"
-  - "unusual heat from plug"
-  - "buzzing sound from wall"
-  - "overstaying in london"
-  - "visa expired in flat"
-last_reviewed: "2026-03-17"
+  - visa expires before leaving
+  - leave to remain expires
+  - permission to stay expires
+  - entry permission expiry
+  - overstay risk uk
+  - overstaying by accident
+  - wrong expiry date on visa
+  - brp expiry confusion
+  - evisa expiry date
+  - flight after visa expiry
+  - need to change departure date
+  - missed visa expiry date
+  - last day to stay uk
+  - short overstay worry
+  - immigration deadline panic
+  - leaving the uk late
+  - permission end date
+  - visa end date vs travel date
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you realise your visa or entry permission expires before your planned departure date (UK)
 
 ## Short answer
-You must either depart the UK before the exact minute your current permission expires or submit a valid visa extension application to trigger Section 3C leave.
+Treat this as time-critical: either leave the UK before your permission ends, or (if you’re eligible) make a valid in-time application before expiry so you don’t become an overstayer.
 
 ## Do not do these things
-- Do not assume a "grace period" exists that allows you to stay legally for a few extra days.
-- Do not continue working or renting a new property the moment your permission expires.
-- Do not ignore the discrepancy if your eVisa date differs from your expectations.
-- Do not leave the UK if you have already submitted an in-country application, as this usually withdraws the application.
-- Do not use unauthorized "immigration agents" who promise to "fix" your status for a cash fee.
-- Do not attempt to "test" the border by staying and hoping the exit check is missed.
+- Don’t assume a flight after your expiry date is “close enough” or that no one will notice.
+- Don’t overstay “just for a few days” to match your original plans.
+- Don’t keep working if your permission to work ends with your visa/permission.
+- Don’t make a rushed application you don’t qualify for “just to stop the clock”.
+- Don’t leave the UK while an in-country application is pending unless you have confirmed the rules for your route (leaving can end section 3C leave and may treat an application as withdrawn).
+- Don’t hand over your passport or pay “agents” who promise guaranteed outcomes or shortcuts.
 
 ## What to do now
-1. **Verify your "status expiry" via the official UKVI View and Prove service immediately.**
-   Check your digital eVisa or UKVI account rather than relying on an old BRP or letter. The digital record is the legal "source of truth" used by carriers and the Border Force.
-2. **Rebook your departure flight to a date on or before the expiry of your permission.**
-   Ensure the flight departs before midnight on the final day of your leave. Save all receipts and confirmation emails for the rebooking as evidence of your intent to comply.
-3. **Submit a valid "in-time" application if you are eligible to extend or switch routes.**
-   **The application must be paid for and submitted before 23:59 on the day your current leave expires.** This invokes Section 3C of the Immigration Act 1971, which legally extends your current leave and conditions while the Home Office processes your case.
-4. **Email the Home Office for "Exceptional Assurance" if you are physically unable to leave.**
-   If travel is impossible due to a documented emergency, such as a major airspace closure or sudden hospitalisation, contact the Coronavirus / Crisis Immigration Team (CIT) at the published Home Office address. Provide boarding pass cancellations or medical certificates.
-5. **Contact a regulated solicitor or OISC adviser if your permission has already passed.**
-   If you are already an overstayer, you have 14 days to submit a new application with a "good reason" for the delay, or 30 days to leave voluntarily to avoid a mandatory re-entry ban.
-6. **Capture screenshots of any technical errors preventing you from seeing your status.**
-   If the UKVI system is down or showing an error, take photos of the screen including the URL and the system clock. This evidence is vital for any subsequent administrative review or appeal.
+1. **Confirm the exact end date that controls your stay.**  
+   Check your UKVI account/eVisa status (if you have one) and your grant/decision email/letter. If you have a BRP, treat it as a record of permission but still confirm the permission end date shown by UKVI. Write down the permission end date.
+
+2. **If you can leave in time, change your travel plan immediately.**  
+   Rebook your departure to **on or before** the permission end date. If possible, leave a buffer day to reduce the risk of disruption (delays, cancellations).
+
+3. **If you may be eligible to extend or switch from inside the UK, apply before expiry — and keep proof.**  
+   Submit the correct application **before** your permission ends, and save evidence (submission receipt, payment confirmation, reference number, screenshots with date/time).  
+   If you’re uncertain you qualify, prioritise not overstaying and get urgent advice before filing.
+
+4. **If your permission has already expired, pause and contain the harm.**  
+   - Plan to **leave as soon as you realistically can**.  
+   - Collect proof of why you missed the date (medical letters, flight cancellations, emergencies).  
+   - If you are only just out of time and there was a genuine reason you could not apply or leave, urgent advice may identify a narrow option where a short overstay can sometimes be disregarded — don’t assume this applies without advice.
+
+5. **If the problem is a document/record mismatch, document it and get it checked.**  
+   Save screenshots of your eVisa status and any conflicting document dates (letters, BRP, vignette). If it looks like an administrative error, get advice on the safest way to correct it without overstaying.
+
+6. **Keep proof of departure and your timeline.**  
+   Keep boarding passes, tickets, and rebooking confirmations. Store copies in two places (phone + email/cloud).
 
 ## What can wait
-- You do - not - need to inform your home country's embassy immediately unless you require emergency travel documents.
-- You do - not - need to pack your entire residence today if you are applying for an extension.
-- You do - not - need to resolve future re-entry plans while you are still stabilizing your current status.
+- You do **not** need to decide today whether you’ll return to the UK in future.
+- You do **not** need to write long explanations right now — just secure the key dates and evidence.
+- You do **not** need to argue your case at the airport; the priority is leaving before expiry or having a valid in-time application (if eligible).
 
 ## Important reassurance
-Realising a visa date error is a high-stress event, but the UK system has specific mechanisms for "administrative errors" and "good reasons" if you act within the narrow windows provided. Most serious consequences are reserved for those who intentionally evade immigration control over a long period.
+This is a very common mistake, especially when different documents show different dates. Acting quickly now (leave before expiry if possible, or get proper advice before filing anything) can stop a short problem turning into a serious one.
 
 ## Scope note
-This guide provides first-step stabilization for UK immigration emergencies. It does not cover specific eligibility for visa routes or provide legal representation.
+These are first steps only, to avoid an overstay and preserve your options. Route-specific rules vary, and later decisions may need specialist help.
 
 ## Important note
-Immigration laws are subject to frequent change. This information is for general guidance and does not constitute legal advice. Overstaying is a criminal offence under the Immigration Act 1971. Always verify the latest rules on the official GOV.UK website or with a regulated legal professional.
+This is general information, not legal advice. UK immigration rules are strict and route-specific. If you’re unsure whether you can apply from inside the UK, or your permission has already expired, get advice from a regulated immigration adviser/solicitor or a trusted free advice service before taking irreversible steps.
 
 ## Additional Resources
-- https://www.gov.uk/uk-border-control/before-you-leave-for-the-uk
-- https://www.gov.uk/standard-visitor/extend-your-stay
-- https://www.gov.uk/uk-family-visa
+- https://www.gov.uk/government/publications/3c-and-3d-leave/3c-and-3d-leave-accessible
+- https://www.legislation.gov.uk/ukpga/1971/77/section/3C
+- https://assets.publishing.service.gov.uk/media/694183a91d8a56d23b7f0b27/Applications_from_overstayers.pdf
 - https://www.gov.uk/government/publications/applications-from-overstayers-non-family-routes
 - https://www.citizensadvice.org.uk/immigration/problems-with-a-visa/overstayed-visa/

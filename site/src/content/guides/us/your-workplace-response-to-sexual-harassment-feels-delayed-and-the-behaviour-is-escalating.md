@@ -1,98 +1,82 @@
----
+﻿---
 title: "What to do if… your workplace response to sexual harassment feels delayed and the behaviour is escalating"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "workplace sexual harassment escalating"
-  - "employer response delayed"
-  - "hr not responding harassment"
-  - "harassment getting worse at work"
-  - "manager ignoring harassment"
-  - "unsafe workplace harassment"
-  - "unwanted sexual behaviour at work"
-  - "sexual comments escalating at work"
-  - "touching escalating at work"
-  - "workplace harassment feels urgent"
-  - "fear of retaliation after report"
-  - "report harassment to hr"
-  - "hostile work environment harassment"
-  - "eeoc harassment complaint"
-  - "document harassment at work"
-  - "keep evidence of harassment"
-  - "request no contact at work"
-  - "schedule change due to harassment"
-  - "what do i do if my employer ignores harassment"
-  - "what do i do if sexual harassment is getting worse"
-  - "what do i do if hr is slow to respond"
-  - "help i am being harassed at work"
-  - "help my harasser is following me"
-  - "my boss is ignoring my harassment report"
-  - "smell of alcohol or drugs during harassment"
-  - "visible stalking at work"
-  - "unwanted physical proximity"
-  - "workplace response delay"
-  - "time limits eeoc filing"
-  - "federal employee 45 day rule"
-  - "interim protections at work"
-  - "harassment report bottleneck"
-  - "non-responsive hr department"
-  - "sexual harassment escalation"
-last_reviewed: "2026-03-17"
+  - workplace sexual harassment escalating
+  - employer response delayed
+  - hr not responding harassment
+  - harassment getting worse at work
+  - manager ignoring harassment
+  - unsafe workplace harassment
+  - unwanted sexual behaviour at work
+  - sexual comments escalating at work
+  - touching escalating at work
+  - workplace harassment feels urgent
+  - fear of retaliation after report
+  - report harassment to hr
+  - hostile work environment harassment
+  - eeoc harassment complaint
+  - document harassment at work
+  - keep evidence of harassment
+  - request no contact at work
+  - schedule change due to harassment
+  - panic after workplace harassment
+  - time limits eeoc filing
+last_reviewed: "2026-03-12"
 ---
-# What to do if… your workplace response to sexual harassment feels delayed and the behaviour is escalating (USA)
 
+# What to do if… your workplace response to sexual harassment feels delayed and the behaviour is escalating (USA)
 ## Short answer
-Transition from informal to formal written reporting immediately and request "interim protections"—such as a schedule change or a no-contact order—to ensure your physical and professional safety while the investigation is pending.
+Focus on safety and make the report hard to ignore: follow your employer’s reporting policy in writing and request immediate temporary protections to stop contact while it’s addressed.
 
 ## Do not do these things
-- Do not attempt to negotiate privately with the person if their behavior is escalating or aggressive.
-- Do not rely on verbal updates or "checking in" with HR; keep all communication in writing.
-- Do not delete evidence (emails, texts, or recordings) even if looking at them causes distress.
-- Do not assume you must wait for the company to finish its investigation before you can request to be moved away from the person.
-- Do not feel obligated to confront the person directly if you feel unsafe or overwhelmed.
+- Do not keep it informal if the behavior is escalating or you feel unsafe.
+- Do not meet privately with the person “to clear the air” if you feel pressured or at risk.
+- Do not delete texts, emails, chat messages, or notes because you feel overwhelmed.
+- Do not assume you must confront the person directly.
+- Do not make irreversible decisions while panicked (like quitting on the spot) if you can avoid it. If you need to leave today to feel safe, leave and decide next steps later.
 
 ## What to do now
-1. **Move to a safer pause immediately if you are in physical danger.** If you are being threatened, followed, or touched, move to a public area or a locked room and call **911**. If you are on-site, notify security or a trusted supervisor that you require an immediate escort or relocation.
-2. **Review your employer's official anti-harassment policy for the formal reporting path.** Locate the specific contact listed (often HR, a Chief Compliance Officer, or a third-party ethics hotline). If multiple paths exist, choose the one that is most independent from the person involved.
-3. **Submit a formal written report today that explicitly uses the term "Sexual Harassment."** Use email to create a date-stamped record. State clearly:
-   - That the behavior is escalating.
-   - That previous informal or verbal reports (if any) have not stopped the behavior.
-   - Brief, factual bullets of the most recent incidents including dates and any witnesses.
-4. **Request specific "Interim Protections" in your report to stop current contact.** You do not have to wait for a "guilty" finding to be safe. Request:
-   - A temporary change in workspace, shift, or reporting structure.
-   - A directive that the person have "no contact" with you during the investigation.
-   - Remote work options if your role allows for it.
-   - An escort to and from your vehicle or public transit.
-5. **Start a private log on a personal device that you control.** Do not store this log on a company laptop or cloud drive. Include:
-   - A timeline of the behavior.
-   - A record of everyone you have spoken to about the issue and their response.
-   - Copies or screenshots of any messages, including those from internal platforms like Slack or Teams.
-6. **Identify your specific legal deadline based on your employer type.**
-   - **Federal Employees:** You generally must contact an EEO Counselor within **45 days** of the most recent incident to preserve your rights.
-   - **Private/State/Local Employees:** You generally have **180 days** to file a charge with the EEOC (this may extend to 300 days in states with local fair employment agencies).
-7. **Bypass a non-responsive contact by using an alternative internal channel.** If a specific HR manager is not responding, copy their supervisor or use the company’s anonymous reporting hotline. Reference the date of your initial unanswered report.
-8. **Contact a confidential support service for guidance without an obligation to report.**
-   - **RAINN National Sexual Assault Hotline:** Call **800.656.HOPE (4673)** or text **HOPE to 64673**.
-   - These services provide support for workplace-related sexual violence and can help you plan for your safety.
+1. **Get to a safer pause first.** If you’re in immediate danger or being threatened, get to a public/safe area and call **911**. If you’re at work, ask a supervisor to help you relocate immediately and have someone stay with you.
+2. **Locate your employer’s anti-harassment policy and use the listed reporting option(s) today.** Many policies allow reporting to HR, a supervisor, a hotline/ethics line, or another designated contact. If you can’t access the policy quickly, email HR and a higher-level manager.
+3. **Send a written report today (even if you already told someone).** Use email or your company reporting system if it exists. Include:
+   - that you are reporting **sexual harassment**
+   - that it’s **escalating**
+   - the most important dates/places and what happened (brief bullets are fine)
+   - who you reported to already and what response you received.
+4. **Ask for immediate “interim protections” while it’s handled.** Request specific temporary steps, such as:
+   - no contact / no one-on-one meetings
+   - different schedule, location, or reporting line
+   - remote work (if possible)
+   - removing the person’s access to you/your workspace
+   - a safe way to enter/leave or be accompanied onsite.
+5. **Start a protected record you control.** In a private document (not on a shared work device if you’re worried about access), log what happened, dates/times, witnesses, and keep copies/screenshots of messages. Keep originals unchanged where possible.
+6. **If you fear retaliation, say it plainly (in writing).** “I’m concerned about retaliation.” If anything changes after you report (schedule, hours, duties, treatment), write it down and keep copies.
+7. **Use another internal channel if HR is the bottleneck.** If your workplace has options (hotline, ethics/compliance, a different HR contact, corporate office), use a second channel and reference your first report.
+8. **Consider external options without pressure.** You generally have the option to contact the **EEOC** (and/or your state fair employment agency) about harassment and retaliation. There are **strict time limits** for contacting the EEOC—**in some cases as short as 180 days**—so if you think you might do this, consider reaching out promptly to confirm what applies to you.
+9. **Get specialist support alongside workplace steps (you do not have to report to police).** For confidential support, consider **RAINN’s** hotline/chat, a local sexual assault service, or an EAP if your employer offers one.
+10. **If you may want to report later:** keep any relevant messages/items as they are and avoid editing originals. Only do what feels manageable.
 
 ## What can wait
-- You do not need to decide today if you want to file a lawsuit or a formal EEOC charge.
-- You do not need to have a "perfect" or exhaustive evidence file before making the first formal report.
-- You do not need to provide a medical diagnosis or proof of psychological impact to request safety measures.
-- You do not need to explain your situation to colleagues or friends until you feel ready.
+- You do not need to decide today whether to file an EEOC charge, hire a lawyer, or report to police.
+- You do not need a perfect written statement; a clear report plus a request for interim protections is enough for now.
+- You do not need to warn the person, negotiate, or get them to admit anything.
+- You do not need to share details with coworkers beyond what you choose.
 
 ## Important reassurance
-It is a common and normal reaction to feel hyper-vigilant, exhausted, or "stuck" when a workplace safety issue is ignored. Taking steps to formalize your report is not "causing trouble"; it is a standard procedural step to ensure your employer fulfills their legal obligation to provide a workplace free from harassment.
+Feeling frozen, panicky, ashamed, angry, or numb is a common stress response. When the workplace response feels slow, it can intensify that stress. Putting it in writing and asking for interim protections is a reasonable way to regain safety and control.
 
 ## Scope note
-This guide provides immediate stabilization and harm-reduction steps for workplace escalation. It does not constitute legal advice or a comprehensive litigation strategy.
+These are first steps to reduce harm and stop escalation. Later choices depend on what happened, your safety, and what you want (internal resolution, time off, medical care, external reporting, legal advice).
 
 ## Important note
-This information is for general guidance and is not a substitute for legal advice from a qualified attorney. Reporting processes and deadlines (statutes of limitations) vary by state and employer type. If you are in immediate physical danger, contact local law enforcement.
+This is general information, not legal advice. If you are in immediate danger call 911. You can seek support without being forced into reporting to police. If you are unsure which reporting path applies where you work (especially in government, education, healthcare, or union workplaces), the EEOC or a confidential support service can help you understand options without forcing a decision.
 
 ## Additional Resources
-- https://www.eeoc.gov/sexual-harassment
-- https://www.eeoc.gov/filing-charge-discrimination
-- https://www.eeoc.gov/time-limits-filing-charge
-- https://www.eeoc.gov/facts-about-retaliation
-- https://rainn.org/get-the-facts-about-sexual-harassment/
+- https://www.eeoc.gov/laws/guidance/what-you-should-know-what-do-if-you-believe-you-have-been-harassed-work
+- https://www.eeoc.gov/harassment
+- https://www.eeoc.gov/retaliation
+- https://www.eeoc.gov/youth/filing-complaint
+- https://www.usa.gov/job-discrimination-harassment
+- https://www.rainn.org/

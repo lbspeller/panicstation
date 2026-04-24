@@ -1,92 +1,91 @@
----
+﻿---
 title: "What to do if… your bank alerts you that your phone number or email was changed without your consent"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "bank contact details changed"
-  - "phone number changed on bank"
-  - "email changed on banking app"
-  - "bank profile updated without me"
-  - "bank says details were changed"
-  - "bank security alert contact change"
-  - "unexpected security notification bank"
-  - "sim swap and bank access"
-  - "number porting scam banking"
-  - "email account compromised banking"
-  - "one time codes intercepted"
-  - "new device on bank account"
-  - "bank login details stolen"
-  - "fraudulent payee added"
-  - "unauthorised account settings change"
-  - "help i got a text saying my bank email changed"
-  - "what do i do if my phone number was removed from bank account"
-  - "help i think my bank account was hacked"
-  - "what do i do if my banking email is different"
-  - "what do i do if i didnt change my bank phone number"
-  - "my bank sent a security alert about a phone number"
-  - "my bank email was changed but i didnt do it"
-  - "help i cant log into bank after security alert"
-  - "strange email from bank about profile update"
-  - "bank alert phone number updated"
-  - "text from bank saying email changed"
-  - "banking app profile update notification"
-  - "unknown contact details on bank account"
-  - "bank phone number changed by someone else"
-  - "mobile number deleted from bank account"
-last_reviewed: "2026-03-17"
+  - bank contact details changed
+  - phone number changed on bank
+  - email changed on banking app
+  - bank profile updated without me
+  - bank says details were changed
+  - account takeover banking
+  - online banking hacked
+  - someone accessed my bank account
+  - bank security alert contact change
+  - unexpected security notification bank
+  - sim swap and bank access
+  - number porting scam banking
+  - email account compromised banking
+  - one time codes intercepted
+  - new device on bank account
+  - bank login details stolen
+  - fraudulent payee added
+  - unauthorised account settings change
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… your bank alerts you that your phone number or email was changed without your consent (UK)
 
 ## Short answer
-Call 159 immediately to reach your bank’s secure fraud department or use the number on the back of your card. Instruct them to freeze your account and undo any contact-detail changes made without your permission.
+Contact your bank immediately using a trusted number (back of your card or the bank’s official website/app), tell them it’s an unauthorised contact-details change, and ask them to lock down your account and stop any payments until you’re back in control.
 
 ## Do not do these things
-- Do not click any links or call any phone numbers provided in the alert message itself.
-- Do not provide one-time passcodes (OTPs) or PINs to anyone over the phone, even if they claim to be from your bank.
-- Do not reply to the text or email alert to "cancel" the change.
-- Do not attempt to use the "forgot password" link on your bank's website if you suspect your phone or email is compromised.
-- Do not assume the alert is a technical error until you have spoken directly to your bank.
+- Do not click links or call numbers in the alert message if it came by text/email (use a trusted number you find yourself).
+- Do not share any one-time passcodes, card PINs, or “security codes” with anyone — even if they claim to be the bank.
+- Do not try to “fix it” by replying to the message or using a link to reset details.
+- Do not assume it’s a harmless mistake if you don’t recognise the change.
+- Do not start SMS-based password resets until you’ve checked your mobile number hasn’t been SIM-swapped/ported.
 
 ## What to do now
-1. **Call your bank immediately using a verified secure line.** 
-   - Call **159** (the UK's universal bank fraud short-code) to be connected to your bank’s fraud team.
-   - If 159 is unavailable, use the number on the back of your debit or credit card.
-2. **Tell the fraud team to place an immediate "security block" on all outbound payments and profile changes.** 
-   - Request that they freeze online and telephone banking access until you have re-verified your identity in a branch or via a secure video call.
-3. **Verify every recent change to your account profile with the advisor.** 
-   - Ask them to check for new payees, linked external accounts, additional authorized users, or new card requests.
-   - Ensure "paperless" settings haven't been enabled to hide fraudulent transactions from physical statements.
-4. **Check your mobile phone for signs of a SIM-swap or unauthorized porting.** 
-   - If your phone has lost signal or says "Emergency Calls Only" unexpectedly, call your mobile network provider from a different phone immediately.
-   - Ask your provider if a new SIM has been activated or if a PAC (Porting Authorisation Code) has been issued.
-5. **Update your email account security using a different, trusted device.** 
-   - Change your email password to something unique that you have never used before.
-   - Check for "auto-forwarding" rules or "filters" that may be sending your bank's emails to a hidden folder or a different address.
-   - Ensure multi-factor authentication (MFA) is active and that the recovery phone number is still yours.
-6. **Report the incident to the official national fraud reporting service.** 
-   - If you are in England, Wales, or Northern Ireland, report the event at **reportfraud.police.uk** (the 2026 successor to Action Fraud).
-   - If you are in Scotland, call **101** to report the fraud to Police Scotland.
-7. **Consider applying for Cifas Protective Registration to prevent further identity misuse.** 
-   - This places a flag on your credit file for two years, requiring lenders to perform extra identity checks before opening new accounts in your name.
+1. **Call the bank’s fraud team via a trusted route.** Ask them to:
+   - **Freeze/lock online and telephone banking** (temporary block) until verification is complete.
+   - **Undo the phone/email change** and confirm what contact details they currently hold.
+   - **Stop/cancel pending payments** and **review recent activity** (transfers, card payments, cash withdrawals).
+   - Check for **new payees/beneficiaries, linked accounts, new devices, new cards, address changes, and statement settings** (like paperless) and remove anything you didn’t authorise.
+   - Add a note that **contact-detail changes must use stronger checks** (for example, a secure call-back or in-app confirmation), if your bank offers this.
+   - Give you a **case/reference number** and confirm the **safe way** they will contact you so you can ignore unexpected calls.
+2. **If you can safely access your banking app (using your usual, trusted path), use in-app security controls.**
+   - Freeze your card (if available), sign out of other sessions/devices, and check “profile/settings” for any changes you didn’t make.
+   - If anything looks off or you’re unsure your device/email is safe, stop and rely on the fraud team instead.
+3. **Secure your email account (because it often controls password resets).**
+   - Change your email password from a **known-safe device**.
+   - Turn on **two-step verification** for email.
+   - Check for **mail forwarding rules/filters**, recovery email/phone changes, and recent sign-ins you don’t recognise.
+4. **Contact your mobile network provider (using a trusted number) to check for SIM-swap/number-porting.**
+   - Ask whether any **SIM swap, eSIM activation, or port-out/PAC activity** was requested or completed.
+   - Ask them to **secure the mobile account** with stronger checks (for example, an account passphrase/PIN) and add any protections they offer against number changes.
+   - Reset your **voicemail PIN** if you have one (voicemail can be used to intercept codes).
+5. **Only once the bank confirms you’re back in control, refresh your banking security.**
+   - Change your banking password from a **clean device**.
+   - Remove unknown devices/sessions (if shown).
+   - If your bank offers alternatives to SMS for sign-in approval, consider enabling them.
+6. **Write down a clean timeline and keep proof.**
+   - Note the time/date of the alert, what the bank confirmed, what was changed, and any transactions/payees you didn’t recognise.
+   - Save screenshots of alerts and account-change notifications.
+7. **If money has left your account or you suspect wider identity misuse, report it.**
+   - **England/Wales/Northern Ireland:** report fraud via **Action Fraud**.
+   - **Scotland:** report via **Police Scotland** (their non-emergency route).
+   - Consider **Cifas Protective Registration** if you’re worried someone is using your identity to open or take over accounts.
 
 ## What can wait
-- You do not need to decide whether to close your bank accounts permanently right now.
-- You do not need to replace your physical phone unless it has been physically stolen.
-- You do not need to notify all of your contacts about the breach unless you believe your email or social media accounts are also compromised.
-- You do not need to file a Financial Ombudsman complaint until the bank has completed its internal investigation and issued a final response.
+- You don’t need to decide today whether to switch banks, close every account, or replace your phone.
+- You don’t need to change every password you’ve ever had — focus first on **banking, email, and your mobile number**.
+- If your bank doesn’t put things right, you can **use the bank’s complaints process** and (after the bank’s final response, or if it’s delayed) **escalate to the Financial Ombudsman Service**.
 
 ## Important reassurance
-Receiving an alert about a change you didn't make is a sign that your bank's security systems are working. By acting within minutes of receiving the notification, you are significantly increasing the chances of stopping a fraudster before they can withdraw funds. Feeling overwhelmed by these steps is a natural reaction to a security threat.
+This is a common pattern in account-takeover attempts, and quick action usually limits the damage. Feeling shaky, angry, or embarrassed is a normal response — the useful move is locking things down step by step.
 
 ## Scope note
-This guide provides first-step stabilization for a potential account takeover. It does not cover long-term credit repair, legal disputes over lost funds, or forensic device cleaning.
+These are first steps to regain control and prevent further loss. Later steps (like longer-term identity protection or formal disputes) depend on what your bank finds and what activity occurred.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Jurisdictional processes and reporting services in the UK were updated in 2026; always use official government or bank websites to verify current phone numbers before calling.
+This is general information, not legal or financial advice. If you believe you’re in immediate danger, call emergency services. For refunds and formal disputes, follow your bank’s fraud process and keep records of everything you report.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
-- https://stopthinkfraud.campaign.gov.uk/recovery-from-fraud/recovering-losses/what-to-do-if-youve-shared-personal-information/
+- https://www.actionfraud.org.uk/account-takeover-fraud-recovery/
+- https://stopthinkfraud.campaign.gov.uk/recovery-from-fraud/recovering-losses/what-to-do-if-your-identity-has-been-stolen/
+- https://www.reportfraud.police.uk/identity-fraud-and-identity-theft/
 - https://www.cifas.org.uk/pr
 - https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/fraud-scams/scams-involving-unauthorised-payments-identity-theft
-- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.legislation.gov.uk/uksi/2017/752/regulation/76
+- https://www.ncsc.gov.uk/guidance/protecting-sms-messages-used-in-critical-business-processes

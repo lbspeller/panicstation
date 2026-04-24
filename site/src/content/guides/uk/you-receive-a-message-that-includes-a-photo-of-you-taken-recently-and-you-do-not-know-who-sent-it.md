@@ -1,109 +1,95 @@
----
+﻿---
 title: "What to do if… you receive a message that includes a photo of you taken recently and you do not know who sent it"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "unknown number photo"
-  - "anonymous message with my photo"
-  - "stranger sent my picture"
-  - "someone took a photo of me"
-  - "photo taken recently"
-  - "creepy text with my picture"
-  - "unknown sender on whatsapp"
-  - "unknown sender on instagram"
-  - "unsolicited photo of me"
-  - "i am being watched"
-  - "stalking message"
-  - "harassment with photo"
-  - "blackmail threat with photo"
-  - "extortion message"
-  - "message from fake account"
-  - "unknown person has my photo"
-  - "worried someone followed me"
-  - "safety after suspicious message"
-  - "what do i do if someone sent me a photo of myself"
-  - "what do i do if a stranger has a picture of me"
-  - "what do i do if i am being stalked online"
-  - "what do i do if i get a blackmail text"
-  - "help i received a photo of myself from a stranger"
-  - "help i think i am being followed photo"
-  - "help i am being extorted with a photo"
-  - "help i got a creepy message from an unknown number"
-  - "my photo was sent to me by someone i dont know"
-  - "my picture was taken without me knowing"
-  - "my privacy has been breached by a stranger"
-  - "recent photo of me sent anonymously"
-  - "stalker sent me a picture of myself"
-  - "unidentified sender photo of me"
-  - "unauthorised photo of me message"
-  - "suspicious message with recent photo"
-last_reviewed: "2026-03-17"
+  - unknown number photo
+  - anonymous message with my photo
+  - stranger sent my picture
+  - someone took a photo of me
+  - photo taken recently
+  - creepy text with my picture
+  - unknown sender on whatsapp
+  - unknown sender on instagram
+  - unsolicited photo of me
+  - i am being watched
+  - stalking message
+  - harassment with photo
+  - blackmail threat with photo
+  - extortion message
+  - message from fake account
+  - unknown person has my photo
+  - worried someone followed me
+  - safety after suspicious message
+last_reviewed: "2026-01-11"
 ---
-# What to do if… you receive a message that includes a photo of you taken recently and you do not know who sent it (UK)
 
+# What to do if… you receive a message that includes a photo of you taken recently and you do not know who sent it (UK)
 ## Short answer
-Treat the message as a potential stalking or extortion attempt: move to a safe, populated location immediately and do not reply. Preserve the evidence by taking screenshots and report the incident to the police via 999 (emergency) or 101 (non-emergency).
+Treat this as a potential stalking/harassment or blackmail attempt: do not engage, preserve the message/photo, and move yourself into a safer situation. If you feel at risk right now, call 999.
 
 ## Do not do these things
-- Do not reply to the message or ask "Who is this?" as this confirms your account is active and monitored.
-- Do not click any links, download attachments, or scan QR codes included in the message.
-- Do not delete the message or the photo until you have successfully captured screenshots.
-- Do not share the photo on public social media to "identify the sender," as this can escalate the situation or spread the image further.
-- Do not agree to meet the sender or provide any personal information or money to "stop" further messages.
+- Do not reply “who is this?” or try to negotiate (it can confirm your number/account is active and escalate demands).
+- Do not click links, open attachments, scan QR codes, or install anything they send.
+- Do not post the photo publicly or crowdsources “identify this person” (it can spread the image or escalate the situation).
+- Do not delete the message thread until you’ve saved what you need.
+- Do not agree to meet them, “prove it’s you,” or send any additional photos or personal details.
 
 ## What to do now
-1. **Prioritise your immediate physical safety.**  
-   If you believe the sender is nearby or the photo shows you in your current location, go to a public place with other people, lock your doors, and **call 999**.
-   - If you are on a mobile and cannot speak safely, dial 999 and then press **55** when prompted (the Silent Solution).
+1. **Check immediate safety first.**  
+   If you think the sender is nearby, the photo was taken just outside your home/work, or you feel unsafe: go somewhere with other people, lock doors, and **call 999**. If it’s not an emergency but you’re concerned about stalking/harassment, **call 101** or report to your local police online.
 
-2. **Preserve the evidence exactly as it appeared.**  
-   **Take screenshots** that clearly show the sender’s phone number or username, the date and time, the message text, and the photo itself.
-   - Do not edit, crop, or filter the screenshots.
-   - Record any details not visible in the photo, such as where you were and what you were doing when the photo was likely taken.
+2. **Stop contact with the sender (without escalating).**  
+   Don’t reply. If you need a moment to save evidence first, **mute** the chat and (if possible) turn off read receipts. After saving evidence (next step), **block** the account/number on the platform.
 
-3. **Stop all interaction without notifying the sender.**  
-   **Mute the conversation** and turn off "read receipts" in your app settings if possible.
-   - Do not block the user until after you have saved the evidence, as blocking can sometimes hide the chat history depending on the platform.
+3. **Preserve evidence in a simple, usable way.**  
+   - Take screenshots that show: the sender details/handle/number, the message text, the photo, and timestamps.  
+   - Save the photo as received (don’t crop/edit).  
+   - Write down: date/time received, platform used, and anything the photo suggests (approximate location, distinctive background, what you were doing).  
+   - If the app allows it, export/download the conversation or account information.
 
-4. **Report the incident to the police.**  
-   **Call 101** or use your local police force’s online reporting tool if you are not in immediate danger.
-   - In Scotland, report stalking or harassment to **Police Scotland** by calling 101.
-   - Inform the police if this is part of a "course of conduct" (meaning it has happened two or more times), as this is a key threshold for stalking offences in the UK.
+4. **Report it where it arrived (then block).**  
+   Use the platform’s in-app **Report** flow for harassment/stalking/impersonation/blackmail. If there are threats or demands, include that clearly in the report.
 
-5. **Report to the platform and invoke takedown rights.**  
-   **Use the in-app reporting tool** to flag the message for harassment or non-consensual image sharing.
-   - Under UK law as of 2026, major platforms are required to remove non-consensual intimate or abusive images within 48 hours of a valid report.
+5. **If it looks like blackmail/extortion, treat it as such.**  
+   Do not pay. Save the evidence and report it to police. You can also report cyber-enabled fraud/extortion to **Report Fraud (formerly Action Fraud)** if you live in **England, Wales, or Northern Ireland**. If you’re in **Scotland**, report to **Police Scotland** (101 if not an emergency).
 
-6. **Report financial threats to the national fraud centre.**  
-   If the message includes demands for money (extortion), report it to **Report Fraud** (formerly Action Fraud) at reportfraud.police.uk or call 0300 123 2040.
-   - If you are in Scotland, all such reports must go directly to Police Scotland via 101.
+6. **If it also looks like a scam (links, impersonation, “verify your account,” “pay now”), use UK scam-reporting routes too.**  
+   - **Suspicious email:** forward it to **report@phishing.gov.uk**, then delete it.  
+   - **Suspicious text message:** forward it to **7726** (free) to report it to your mobile provider.
 
-7. **Secure your digital presence immediately.**  
-   **Turn off location sharing** and "Live Location" features on all social media apps (e.g., WhatsApp, Snapchat, Instagram).
-   - Change your privacy settings so only "Friends" or "Contacts" can see your profile picture, status, or "Last Seen" timestamp.
-   - Forward suspicious text messages to **7726** (the UK-wide spam reporting service) and suspicious emails to **report@phishing.gov.uk**.
+7. **Do a fast “exposure” sweep (reduce easy access today).**  
+   - Turn off location sharing on social apps (for example: maps, “nearby,” story location stickers, live location).  
+   - Review who can see your recent posts/stories; remove anything that reveals routines (commute, gym times, school run).  
+   - Change passwords for your email and the account the message arrived on, and turn on two-step verification where available.  
+   - If the account offers it, sign out of other sessions / review recent logins.
 
-8. **Contact a specialist support service.**  
-   **Call the National Stalking Helpline** on 0808 802 0300 for practical safety planning and advice on how the law applies to your situation.
-   - They can provide guidance on keeping a "stalking log" if the incidents continue.
+8. **Tell one trusted person and set a short check-in plan for today.**  
+   Share the screenshots with them, tell them where you are, and arrange a check-in time. If you’re going out, vary your route and avoid being alone if possible.
+
+9. **If you want specialist stalking advice alongside reporting, use a UK specialist helpline.**  
+   The National Stalking Helpline can talk through practical safety steps and how to record incidents.
 
 ## What can wait
-- You do not need to identify the sender yourself or investigate the source of the photo.
-- You do not need to decide immediately whether to change your phone number or deactivate your social media accounts.
-- You do not need to respond to any threats or "deadlines" set by the sender.
+- You do not need to figure out who it is right now.
+- You do not need to decide today whether to change your number, move house, or delete your accounts.
+- You do not need to make a public statement or warn everyone online.
+- You do not need to “collect more evidence” by keeping the conversation going.
 
 ## Important reassurance
-Receiving an anonymous photo of yourself is a deliberate attempt to cause distress or gain control. Your feeling of being "watched" or unsettled is a normal reaction to an intrusive event. By securing your physical location and preserving evidence, you are taking the most effective steps to regain control and involve the authorities.
+Receiving a recent photo of yourself from an unknown sender is unsettling for a reason. Many of these messages are meant to intimidate or trigger panic so you react quickly. Slowing down, keeping proof, and using official reporting routes is a strong, normal response.
 
 ## Scope note
-This guide provides first-step stabilization for an immediate threat involving anonymous contact. It does not replace a full police investigation or long-term safety planning provided by specialist stalking advocates.
+This guide covers first steps to stabilise the situation and reduce risk. Ongoing harassment, repeated contact, or any escalation may need tailored support from police and specialist services.
 
 ## Important note
-This information is for guidance only and does not constitute legal advice. Always prioritize your physical safety and contact emergency services (999) if you feel you are at risk.
+This is general information, not legal advice. If you feel in immediate danger, call 999. If you’re not in immediate danger but feel threatened, contact your local police (101/online reporting) and prioritise your safety.
 
 ## Additional Resources
-- https://www.met.police.uk/advice/advice-and-information/har/harassment-on-social-media/
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
-- https://www.suzylamplugh.org/pages/category/national-stalking-helpline
-- https://www.suzylamplugh.org/am-i-being-stalked-tool
+- https://www.gov.uk/report-stalker
 - https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
+- https://www.reportfraud.police.uk/
+- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/7726-reporting-scam-texts-and-calls
+- https://www.suzylamplugh.org/pages/category/national-stalking-helpline

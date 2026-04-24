@@ -1,103 +1,94 @@
----
+﻿---
 title: "What to do if… your loan is transferred to a new servicer and you are told you are suddenly overdue"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "loan servicer transfer"
-  - "loan sold to new company"
-  - "suddenly overdue notice"
-  - "arrears after loan transfer"
-  - "missing loan payment record"
-  - "payment not credited after sale"
-  - "direct debit transfer error"
-  - "standing order payee change"
-  - "new servicer payment demand"
-  - "unexpected late fee loan"
-  - "prove loan payment was made"
-  - "verify new lender details"
-  - "loan transfer phishing"
-  - "credit file late marker error"
-  - "dispute credit report uk"
-  - "wrong loan balance transfer"
-  - "arrears letter unexpected"
-  - "account statement mismatch loan"
-  - "what do i do if my loan was sold"
-  - "what do i do if i am told i owe money i paid"
-  - "what do i do if my direct debit stopped"
-  - "what do i do if a debt collector contacted me"
-  - "help i am in arrears after transfer"
-  - "help i have a late marker"
-  - "my loan was transferred and balance is wrong"
-  - "my lender says i missed a payment"
-  - "smell of scam email"
-  - "see debt letter"
-  - "feel panic about arrears"
-  - "hear debt collector on phone"
-  - "incorrect loan arrears"
-  - "duplicate loan charges"
-  - "missing account history"
-  - "at home in flat"
-  - "during bank transfer"
-last_reviewed: "2026-03-17"
+  - loan servicer changed
+  - loan sold to new company
+  - suddenly overdue notice
+  - told you are in arrears
+  - payment not credited
+  - missing loan payment record
+  - direct debit not taken
+  - standing order went to old payee
+  - new servicer demands payment
+  - unexpected late fee charge
+  - prove you paid on time
+  - verify new payment details
+  - possible loan transfer scam
+  - credit file late marker
+  - dispute credit report uk
+  - wrong balance after transfer
+  - arrears letter after transfer
+  - account statement mismatch
+last_reviewed: "2026-01-09"
 ---
-# What to do if… your loan is transferred to a new servicer and you are told you are suddenly overdue (UK)
 
+# What to do if… your loan is transferred to a new servicer and you are told you are suddenly overdue (UK)
 ## Short answer
-Pause and verify the transfer through your original lender's known official channels, then request a full statement of account in writing before making any payments or admitting to the alleged arrears.
+Pause and verify: confirm (via trusted contact details) that the transfer is real, then get a written statement showing exactly what they think is overdue before you pay or agree to anything.
 
 ## Do not do these things
-- Don't pay using bank details provided in an unexpected text, email, or letter until you have independently verified the new servicer's identity via the FCA Register.
-- Don't admit to missing payments or sign a "repayment plan" agreement while the account balance is still in dispute.
-- Don't cancel an active Direct Debit without confirming the new payment instructions, as this can trigger a legitimate default.
-- Don't send high-risk personal data (full card numbers, login passwords, or one-time passcodes) to anyone claiming to "verify" your transferred account.
-- Don't ignore the notice; administrative errors during transfers are common, but they will not self-correct without a formal dispute.
+- Don’t pay using bank details from an unexpected text/email/letter until you’ve verified the servicer independently (loan-transfer scams are common).
+- Don’t admit you “missed payments” or agree to a repayment plan while you still don’t have a full statement and your own proof of payment.
+- Don’t cancel a Direct Debit/standing order in panic if it’s the only thing preventing a real missed payment—first confirm where payments should go now.
+- Don’t ignore it “until it sorts itself out”: delays can trigger fees, collections activity, and credit-file reporting.
+- Don’t send photos of full bank cards, logins, or one-time passcodes to “verify” yourself.
 
 ## What to do now
-1. **Gather your existing proof of payment from the last six months.**  
-   **Extract** copies of bank statements, Direct Debit confirmations, and any digital receipts or reference numbers that show payments leaving your account to the original lender.
-   - Look specifically for the "Effective Date of Transfer" mentioned in any "Hello / Goodbye" letters you previously received.
+1. **Create a 10-minute “proof pack” (so you’re not scrambling later).**  
+   Gather: the last 3–6 months of bank transactions for this loan, your most recent loan statement(s), any Direct Debit/standing order confirmations, and any payment confirmation emails/screenshots/reference numbers.
 
-2. **Verify the new servicer's authority via the Financial Conduct Authority (FCA) Register.**  
-   **Search** the firm's name on the official register.fca.org.uk website to ensure they are authorised for "debt administration" or "consumer credit lending."
-   - Manually type the address of your original lender's website into your browser to find their official "contact us" page and confirm the loan was indeed sold or transferred to that specific firm.
+2. **Verify the transfer using a trusted route (not the contact details in the overdue message).**  
+   Use a phone number or secure message link from your *original lender’s* official website/app or your last genuine statement. Ask:  
+   - “Has my loan been assigned/transferred, and to whom?”  
+   - “What is the effective date of the change?”  
+   - “Where should payments be sent from today?”  
+   If the new company claims to be authorised, cross-check the firm name on the FCA Financial Services Register.
 
-3. **Request a statutory "Statement of Account" and a line-by-line breakdown of the alleged arrears.**  
-   **Send** a written request (via email or the servicer’s secure portal) asking for a full transaction history from the date of transfer to the present day.
-   - Ask them to specify the exact dates they believe payments were missed and any fees they have added since the transfer occurred.
+3. **Ask the new servicer for a written breakdown you can check line-by-line.**  
+   Request (in writing, via their secure portal/email/post):  
+   - a **statement of account** showing each due date, each payment received, and how any “arrears” were calculated  
+   - the **date they say you first became overdue**  
+   - any **fees/charges** added since transfer (and why)  
+   - where they believe your most recent payment went if you have proof it left your bank  
+   Keep the request short and factual.
 
-4. **Identify if you have received a formal "Notice of Sums in Arrears" (NOSIA).**  
-   **Check** your post for a specific document titled "Notice of Sums in Arrears," which lenders are legally required to send under the Consumer Credit Act when an account falls behind.
-   - If they have not sent this, or if the notice is factually incorrect, note this as a procedural error for your complaint.
+4. **If you already paid, send targeted proof and ask them to “trace and allocate” the payment.**  
+   Provide only what’s needed: payment date, amount, payee name, and your bank transaction reference. Ask them to confirm in writing they will **correct the account history** once located.
 
-5. **Request a temporary "Hold on Collections" while the payment data is reconciled.**  
-   **Ask** the new servicer in writing to pause all collection activity, late fees, and interest accrual for 30 days while you provide proof of payment.
-   - Inform them that the account is "in dispute" and that you expect them to fulfill their "Consumer Duty" to avoid causing you foreseeable financial harm.
+5. **Protect yourself from immediate damage while it’s being investigated.**  
+   Ask (in writing):  
+   - for a **temporary hold on collections activity and additional late fees** while they investigate the transfer/payment allocation  
+   - that the account be marked as **in dispute** internally  
+   If a payment date is imminent and you can’t confirm the correct payee today, tell them you are ready to pay **as soon as verified payment instructions are provided in writing**.
 
-6. **Check your credit reports with all three main agencies (Experian, Equifax, and TransUnion).**  
-   **Review** each report to see if the new servicer has applied a "late" or "arrears" marker.
-   - If an error is found, raise a "Notice of Correction" or a formal dispute with each agency simultaneously to prevent the error from affecting your credit score while the lender investigates.
+6. **Check your credit file quickly for any newly reported late markers.**  
+   Check at least one credit reference agency report (often you’ll want to check more than one): **Experian, Equifax, and TransUnion**. If you see an incorrect late marker, raise a dispute with the agency you got the report from and also write to the lender/servicer that supplied the data.
 
-7. **Submit a formal complaint citing the "FCA Consumer Duty" if the error is not corrected immediately.**  
-   **Write** to the servicer's complaints department stating that the transfer has resulted in an incorrect arrears record and demand they "trace and allocate" your missing payments.
-   - Remind them that they have a maximum of 8 weeks to provide a Final Response, after which you can escalate to the Financial Ombudsman Service (FOS).
+7. **If they won’t fix it promptly, start a formal complaint (this creates a paper trail).**  
+   Complain to the servicer (and, if needed, the original lender) stating: transfer date, what you were told, why you believe it’s wrong, and what you want (e.g., correct allocation, removal of fees, correction of credit reporting). Keep copies of everything.  
+   For most complaints, the firm generally has **up to 8 weeks** to give you a final response. You can usually escalate to the Financial Ombudsman Service after a final response, or if 8 weeks have passed without one. If you receive a final response, there is usually a **time limit to refer** your complaint to the ombudsman, so don’t sit on it.
 
 ## What can wait
-- You don't need to decide on a debt consolidation or refinancing plan while the arrears are still unverified.
-- You don't need to hire a "credit repair" company; you can dispute errors for free directly with the lenders and agencies.
-- You don't need to respond to phone calls from the servicer; you can insist that all future communication regarding this dispute be conducted in writing for your records.
+- You don’t need to decide today whether to refinance, consolidate, sell assets, or take out new credit.
+- You don’t need to negotiate a long-term repayment plan until you’ve verified the account history and the alleged arrears are real.
+- You don’t need to draft lengthy letters or request extensive documents right now—first get the basic written statement and payment trace.
 
 ## Important reassurance
-Administrative errors during loan "migrations" or "servicing transfers" are extremely common in the UK financial sector. These are often caused by timing lags in data syncing between two different banking systems; provided you have your bank statements, these markers are almost always reversible.
+Servicer transfers regularly cause admin mistakes (misapplied payments, duplicated fees, or missing account history). Having clear payment records and insisting on written breakdowns is often enough to get the account corrected and stop the spiral.
 
 ## Scope note
-This guide provides first-step stabilization for identifying transfer errors and preventing immediate credit damage. It does not cover court-level debt defense or long-term insolvency procedures.
+This guide covers first steps to stabilise the situation, verify the transfer, prevent a mistaken “arrears” record, and create a clean evidence trail. Later steps (like formal data rectification requests or specialist debt advice) can come after the immediate risk is contained.
 
 ## Important note
-This information is for general guidance and does not constitute financial or legal advice. If you have been served with a "Default Notice" (Section 87(1) of the CCA), a "Letter Before Claim," or court papers, you must seek immediate advice from a qualified solicitor or a free debt advice service like StepChange or National Debtline.
+This is general information, not financial or legal advice. If you’re dealing with a secured loan (for example, a mortgage) or you’ve received court paperwork, a default notice, or anything that looks like formal pre-action steps, get independent advice promptly—those timelines can move fast.
 
 ## Additional Resources
-- https://handbook.fca.org.uk/handbook/CONC/6/5.html
-- https://nationaldebtline.org/get-information/guides/how-to-deal-with-debt-collectors/
-- https://nationaldebtline.org/get-information/guides/pre-action-protocol-in-the-county-court-ew/
-- https://www.citizensadvice.org.uk/debt-and-money/help-with-debt/dealing-with-your-debts/check-if-you-have-to-pay-a-debt/
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/credit-borrowing-money/debt-collecting/
+- https://handbook.fca.org.uk/handbook/CONC/7/
+- https://handbook.fca.org.uk/handbook/CONC/7/3.html
+- https://register.fca.org.uk/
+- https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
+- https://www.financial-ombudsman.org.uk/make-complaint
+- https://ico.org.uk/for-the-public/credit/
+- https://handbook.fca.org.uk/handbook/DISP/2/8.html

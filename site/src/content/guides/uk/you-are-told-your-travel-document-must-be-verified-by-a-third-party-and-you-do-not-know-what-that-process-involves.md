@@ -1,106 +1,96 @@
----
+﻿---
 title: "What to do if… you are told your travel document must be verified by a third party and you do not know what that process involves"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "travel document verification"
-  - "third party verification"
-  - "passport check request"
-  - "document legalisation confusion"
-  - "apostille needed for travel"
-  - "document authentication abroad"
-  - "visa document verification"
-  - "airline document verification"
-  - "embassy document requirements"
-  - "certified copy of passport"
-  - "certify a document uk"
-  - "identity verification abroad"
-  - "suspicious verification email"
-  - "travel document scam worry"
-  - "urgent document deadline"
-  - "document verification process"
-  - "proof of identity for travel"
-  - "verifying documents overseas"
-  - "document certification abroad"
-  - "what do i do if my passport needs verifying"
-  - "what do i do if i need an apostille"
-  - "what do i do if an airline asks for id verification"
-  - "what do i do if i get a suspicious verification link"
-  - "help i need to verify my passport for a third party"
-  - "help i sent my passport to a third party"
-  - "help i am worried about a document scam"
-  - "my passport needs a certified copy"
-  - "my visa requires document verification"
-  - "smell of scam email"
-  - "unusual verification link"
-  - "unexpected passport request"
-  - "passport verification fee"
-  - "apostille cost uk"
-  - "legalisation office uk"
-  - "fcdo legalisation process"
-  - "document verification service uk"
-  - "passport verification help"
-last_reviewed: "2026-03-17"
+  - travel document verification
+  - third party verification
+  - passport check request
+  - document legalisation confusion
+  - apostille needed for travel
+  - document authentication abroad
+  - visa document verification
+  - airline document verification
+  - embassy document requirements
+  - certified copy of passport
+  - certify a document uk
+  - identity verification abroad
+  - suspicious verification email
+  - travel document scam worry
+  - urgent document deadline
+  - document verification process
+  - proof of identity for travel
+  - verifying documents overseas
+  - document certification abroad
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you are told your travel document must be verified by a third party and you do not know what that process involves (UK)
 
 ## Short answer
-Stop and verify the identity of the requester through an official, independent channel before clicking links or sending any documents. Determine if they require a simple identity check, a certified copy, or official legalisation (an apostille) from the UK Government.
+Pause and confirm who is requesting verification and exactly what they mean (identity check vs certified copy vs legalisation/apostille). Do not send your passport or personal documents to any third party until you’ve confirmed the request through an official, independently found contact route.
 
 ## Do not do these things
-- Do not click links or use phone numbers provided in an unexpected email or text message requesting document verification.
-- Do not upload high-resolution scans of your passport or "selfies with ID" to any platform that you have not independently verified as legitimate.
-- Do not send your original passport through the post unless you have confirmed the recipient is an official government body or a licensed visa processing agent.
-- Do not pay "verification fees" to private companies without checking the official UK Government price for the same service (e.g., £45 for a standard apostille).
-- Do not ignore your suspicion if a request feels high-pressure, rushed, or uses poor grammar and formatting.
+- Do not upload passport scans or “selfie with passport” images to a link you received unexpectedly, or one you cannot verify independently.
+- Do not send original passports or other irreplaceable documents unless you have independently verified instructions, a clear return method, and tracked delivery both ways.
+- Do not pay a “verification fee” to a company you haven’t independently checked (legal name, official website, and why they were appointed).
+- Do not assume “verification” always means an apostille/legalisation — it may instead mean an ID check or a certified copy.
+- Do not provide extra documents “to help” unless they are specifically required and you understand why.
 
 ## What to do now
-1. **Request the full requirements in a single, written format from the organisation.** **Ask the requester to specify if they need an identity check, a certified photocopy, or a legalised document (apostille).**
-   - Confirm exactly which pages of the document are required.
-   - Ask for the specific legal name of any third-party company they are using for the process.
-   - Check if they require an original document or a digital scan.
+1. **Get the request in writing (one message you can keep) and make it specific.** Ask for:
+   - the exact document(s) they need verified (passport biodata page, visa, birth certificate, etc.)
+   - what “verified” means in their process (identity check, certified copy, legalisation/apostille, translation)
+   - whether they need an original, a certified copy, or a digital upload
+   - the deadline and what happens if you miss it
+   - the full legal name of the third party and why they are authorised.
 
-2. **Verify the requester’s legitimacy using contact details you find yourself.** **Go to the official website of the airline, embassy, or employer by typing the address directly into your browser.**
-   - Do not use the "Contact Us" links provided in the suspicious message.
-   - Call their official customer service line and ask to speak to the department handling document verification.
+2. **Independently confirm the request is real (don’t use links from the message).**
+   - For an airline, university, bank, employer, travel agent, or government body: go to their official website (typed manually) and use their published contact details.
+   - If it’s tied to a visa/immigration application: confirm via the official application portal or official communications channel you used to apply.
 
-3. **Check the official cost of the service being requested to identify potential overcharging.** **The UK Government Legalisation Office charges £45 per document for a standard postal apostille.**
-   - If a third party is charging significantly more without a clear explanation for "expedited" or "concierge" handling, treat it as a red flag.
-   - Post Office document certification for a "true copy" typically costs £12.75.
+3. **Work out which of these common “verification” types they mean (so you don’t do the wrong process).**
+   - **Identity/eligibility check:** a provider checks your passport and may do a face match in an app/portal.
+   - **Certified copy:** someone signs a photocopy as a true copy (the requester should confirm who they accept, and any required wording).
+   - **Legalisation / apostille:** the UK Legalisation Office (FCDO) checks signatures/seals and attaches an apostille for use abroad.
 
-4. **Use the official GOV.UK portal for all legalisation and apostille requirements.** **If you are told your document must be "legalised" for use abroad, apply directly through the Foreign, Commonwealth and Development Office (FCDO) Legalisation Office.**
-   - You can choose between a paper-based apostille or an e-Apostille depending on the recipient's requirements.
-   - Keep your application reference number and tracking details for any original documents sent to Milton Keynes.
+4. **If they mean a certified copy: confirm the accepted certifier before you pay.**
+   - Ask the requester: “Which professions do you accept to certify this copy, and do you require specific wording?”
+   - Use a certifier that matches the requester’s rules (this is where people often waste money by using the “wrong” certifier).
 
-5. **Utilise the Post Office or a registered UK solicitor for certified copies.** **If the requester only needs a "certified copy," take your original document to a participating Post Office branch or a local solicitor.**
-   - Ensure the certifier uses the exact wording required by the requesting organisation.
-   - Obtain a receipt for the service and a business card from the certifier.
+5. **If they mean legalisation/apostille: use the official UK Legalisation Office route.**
+   - Confirm the receiving country/organisation actually asked for a UK document to be “legalised” (apostille), not just a certified copy.
+   - Apply through the UK Legalisation Office and keep your application confirmation and tracking details.
+   - If someone challenges an apostille, you can use the GOV.UK apostille verification service to check it.
 
-6. **Report suspected fraudulent requests immediately to protect your identity.** **If you believe you have been targeted by a document scam, contact Action Fraud (the National Fraud and Cyber Crime Reporting Centre) at 0300 123 2040.**
-   - If you have already provided bank details or made a payment, call **159** to be connected directly to your bank's fraud department.
-   - If you are in Scotland, report the incident to Police Scotland via 101.
+6. **If you’re abroad and unsure who to trust, use official consular guidance (without assuming they can do the verification).**
+   - British embassies/consulates can explain what consular support is available and what is typical.
+   - Document certification by a British embassy/consulate is limited and depends on where you are (for example, rules differ between Commonwealth and non-Commonwealth countries, and it may only be available in specific circumstances). Treat it as an option to check, not a guarantee.
 
-7. **Verify an existing apostille if you are unsure of its validity.** **Use the official GOV.UK "Verify an apostille" service to check if a certificate was genuinely issued by the Legalisation Office.**
-   - You will need the date of issue and the apostille number found on the certificate.
-   - Note that this service confirms the certificate's issuance, not the authenticity of the underlying document's contents.
+7. **If you already sent documents and now feel unsure, limit further harm.**
+   - Stop sending anything further until you’ve verified legitimacy.
+   - Save evidence: emails/texts, payment requests, the website address, and any upload confirmations.
+   - If you suspect fraud: report via Report Fraud (England, Wales, Northern Ireland). If you’re in Scotland, report to Police Scotland (for non-emergencies, use 101).
 
 ## What can wait
-- You do not need to provide secondary documents (like utility bills or birth certificates) until the primary document verification is confirmed.
-- You do not need to pay for "premium" or "fast-track" services until you have established a genuine deadline.
-- You do not need to decide on a permanent third-party service provider while you are still clarifying the requirements.
+- You do not need to decide today whether to challenge the requirement — first identify what “verification” actually means in this case.
+- You do not need to pay for expedited services until you’ve confirmed the request is legitimate and necessary.
+- You do not need to send extra documents “just in case”. Provide the minimum required once verified.
 
 ## Important reassurance
-Requests for third-party verification are common for international travel, visas, and employment. It is standard practice to pause and confirm the exact nature of the request; legitimate organisations expect users to perform due diligence before sharing sensitive identity documents.
+“Verification” is used for several very different processes. Slowing down to confirm the exact meaning is a normal safety step — it prevents scams and also prevents wasting time on the wrong procedure.
 
 ## Scope note
-This guide provides first-step stabilization for handling unexpected or confusing document verification requests in the UK. It does not cover the specific technical steps for every country's visa application or the long-term legal implications of document rejection.
+This guide covers first steps to clarify and safely handle a third-party verification request. Once you know whether it’s an identity check, a certified copy, or apostille/legalisation, follow the requesting organisation’s official instructions for that specific process.
 
 ## Important note
-This guide is for general information and does not constitute legal advice. Verification requirements are set by the receiving country or organisation and are subject to change. Always refer to official GOV.UK guidance for the most current fees and procedures for legalisation.
+This is general information, not legal advice. Requirements vary by country, organisation, and document type, and can change. If anything feels inconsistent, high-pressure, or payment-focused, treat it as suspicious until independently confirmed.
 
 ## Additional Resources
-- https://www.gov.uk/confirm-identity-online-for-passport-application
-- https://www.passport.service.gov.uk/help/confirming-identity/how-to-confirm-identity
-- https://www.gov.uk/countersigning-passport-applications
-- https://www.gov.uk/government/publications/confirming-identity-countersignatory-and-digital-referees/confirming-id-referees
-- https://www.gov.uk/apply-home-office-travel-document/how-to-apply
+- https://www.gov.uk/get-document-legalised
+- https://www.gov.uk/get-document-legalised/apply-for-legalisation
+- https://www.gov.uk/verify-apostille
+- https://www.gov.uk/certifying-a-document
+- https://www.gov.uk/guidance/documents-for-british-people-abroad
+- https://www.reportfraud.police.uk/
+- https://www.gov.uk/guidance/consular-assistance-how-the-foreign-commonwealth-development-office-provides-support

@@ -1,106 +1,99 @@
----
+﻿---
 title: "What to do if… you cannot access cash because local ATMs are down or cash machines are empty"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "atm down"
-  - "cash machine empty"
-  - "cashpoint out of service"
-  - "cashpoint out of cash"
-  - "no cash withdrawal"
-  - "cash withdrawal declined"
-  - "bank outage can't withdraw"
-  - "can't access cash today"
-  - "local atms not working"
-  - "need cash urgently"
-  - "cash only payments problem"
-  - "debit card still works"
-  - "cash back at the till"
-  - "cash withdrawal alternatives"
-  - "all nearby machines empty"
-  - "card payments instead of cash"
-  - "short on cash suddenly"
-  - "atm empty of notes"
-  - "cannot get money from atm"
-  - "help i need cash now"
-  - "my local atm is broken"
-  - "what do i do if cash machines are empty"
-  - "what do i do if cashpoint is down"
-  - "what do i do if bank is closed and atm empty"
-  - "what do i do if i have no cash"
-  - "help i cannot withdraw money"
-  - "help i need physical money"
-  - "cash machines not working in my area"
-  - "unusable cash machine"
-  - "broken cashpoint"
-  - "no notes in atm"
-  - "empty cash machine"
-  - "cash access problems"
-last_reviewed: "2026-03-17"
+  - atm down
+  - cash machine empty
+  - cashpoint out of service
+  - cashpoint out of cash
+  - no cash withdrawal
+  - cash withdrawal declined
+  - bank outage can't withdraw
+  - can't access cash today
+  - local atms not working
+  - need cash urgently
+  - cash only payments problem
+  - debit card still works
+  - cash back at the till
+  - cash withdrawal alternatives
+  - all nearby machines empty
+  - card payments instead of cash
+  - short on cash suddenly
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… you cannot access cash because local ATMs are down or cash machines are empty (UK)
 
 ## Short answer
-Switch to an alternative cash access point such as a Post Office counter, a Banking Hub, or a retailer offering cashback (with or without a purchase). Check your banking app to ensure the issue is with the machine and not a security block on your card.
+Stop retrying the same cash machine. Switch to another way to get cash (cashback at the till, Post Office counter withdrawal, a banking hub, or your bank/building society branch) and contact your bank if your card is being declined or you suspect an outage.
 
 ## Do not do these things
-- Don't keep retrying the same machine or nearby machines from the same bank if they are failing (this can trigger an automatic fraud block on your account).
-- Don't use "independent" or isolated cash machines in poorly lit areas just because they appear to be working.
-- Don't accept help from anyone standing near the machine or allow them to see your PIN.
-- Don't hand your card to a stranger who offers to "check it" for you in another machine.
-- Don't assume a local machine failure means a national banking crisis.
+- Don’t keep trying withdrawals in a panic (you can hit limits or trigger security blocks).
+- Don’t use unfamiliar, poorly located, or “independent” cash machines just because they might work (higher scam and fee risk).
+- Don’t accept “help” from strangers near a cash machine or let anyone watch you enter your PIN.
+- Don’t hand your card to anyone offering to “run it for you”.
+- Don’t assume it’s only you — but don’t assume it’s a national crisis either. Verify quickly and move to Plan B.
 
 ## What to do now
-1. **Identify if the problem is with the machine or your specific card.**
-   - Look for "Out of Service" or "Cash Only" (meaning no withdrawals) messages on the screen.
-   - Check your banking app for notifications about "declined transactions" or "card frozen."
-   - If the machine is silent and the screen is dark, the unit likely has a power or connectivity failure.
+1. **Work out whether it’s the cash machine or your card/account.**
+   - Check your banking app (if you can) for balance and any “card blocked/declined” alerts.
+   - If it feels safe to do so, try a **small chip-and-PIN purchase** in a normal shop to confirm the card still works.
+   - Try **one** other ATM in a different location (ideally a bank ATM). If it fails in the same way, stop repeated attempts.
 
-2. **Use the LINK Cash Locator tool to find the nearest working alternative.**
-   - Access the LINK website or mobile app to see a real-time map of ATMs, Post Offices, and shops offering cashback.
-   - Filter for "Free to Use" to avoid unexpected transaction fees.
+2. **Use a cash-access locator to find nearby alternatives (saves time).**
+   - Look for places offering **cash at the till** (cashback) and for other nearby ATMs that might be on a different site or supply route.
+   - Prioritise well-lit, reputable locations (supermarkets, bank lobbies, Post Offices).
 
-3. **Visit a Post Office branch to withdraw money over the counter.**
-   - Take your debit card and PIN to any Post Office to withdraw cash directly from your bank account.
-   - Most major UK banks allow withdrawals of up to £1,000 per day at the counter, depending on your account's specific limits and the branch's cash-on-hand.
+3. **Get cashback at the till (often the quickest cash option).**
+   - Ask for **cashback** when you pay by debit card for a small item.
+   - Confirm any **limit or fee** before you approve the payment (it varies by retailer and local cash levels).
 
-4. **Seek out a Banking Hub if one is available in your community.**
-   - Locate these shared spaces where the Post Office operates a counter service for customers of all major banks.
-   - Use the counter for standard withdrawals or speak to the "Community Banker" on duty if you have a complex account issue.
+4. **Withdraw cash at a Post Office counter (if your bank participates).**
+   - You can withdraw cash at many Post Office branches using your **debit card and PIN** (availability depends on your bank and whether the branch offers Everyday Banking).
+   - If a branch is busy or low on cash, try another nearby Post Office.
 
-5. **Ask for "Cashback Without Purchase" at participating retailers.**
-   - Look for shops (often smaller convenience stores using the PayPoint or LINK networks) that allow you to withdraw up to £50 without buying an item.
-   - Confirm with the shopkeeper if they have enough cash in the till before they process the transaction.
+5. **Use a Banking Hub if there’s one nearby.**
+   - Banking hubs are shared, face-to-face banking spaces with a **Post Office-operated counter** for everyday cash services for customers of major banks/building societies.
+   - Some hubs also have a **community banker** on rotation for more complex issues (separate from getting cash at the counter).
 
-6. **Perform a small "Chip and PIN" purchase at a supermarket to verify card functionality.**
-   - Buy a low-cost item to confirm that your card and PIN are still being authenticated by your bank.
-   - If the purchase works but the ATM does not, the issue is confirmed as a local machine or network failure.
+6. **Go to your bank/building society branch (or another branch of your own bank) if open.**
+   - A staffed branch can often help you access cash or explain local outages/limits.
+   - Before you travel, check opening times and whether they have an open counter service (some sites are limited-service).
 
-7. **Call your bank using the number on the back of your card if the card is declined everywhere.**
-   - Speak to the fraud or security department to see if an "unusual activity" block has been placed on your account.
-   - Ask the representative to confirm if there is a known technical outage affecting their specific ATM network or card services.
+7. **Call your bank if:**
+   - your card is being declined in multiple places,
+   - your balance looks wrong,
+   - you see pending ATM attempts you don’t recognise, or
+   - you suspect a wider outage.
+   Ask them to confirm what’s happening, whether your card is blocked for security reasons, and what safe alternatives they support (for example, branch withdrawal, Post Office services if applicable, or any other access method your bank offers).
 
-8. **Request an alternative payment method from the person you need to pay.**
-   - Ask if you can use a Faster Payments bank transfer via your mobile app instead of physical cash.
-   - If paying a business, check if they can send you a digital "payment link" or take a card payment over the phone.
+8. **If you must pay someone today and cash is the only issue, use a non-cash fallback to buy time.**
+   - Ask if they can take a **bank transfer (Faster Payments)** or **card** instead of cash.
+   - If it’s a time-critical bill, pay it directly through your bank’s app/online banking if available.
+
+9. **Keep a short record if an outage is costing you money.**
+   - Note the time, location, and any error messages. Keep receipts/screenshots.
+   - This helps if you later need to dispute fees or make a complaint.
 
 ## What can wait
-- You do not need to report a single empty machine to the police; it is a maintenance issue for the bank or LINK.
-- You do not need to cancel your card unless you believe it has been physically tampered with or "skimmed."
-- You do not need to move all your money to a different bank today.
+- You do **not** need to change banks, cancel your card, or move all your money today.
+- You do **not** need to withdraw a large amount as soon as anything starts working — focus on what you need for the next 24–48 hours.
+- You do **not** need to decide whether to complain formally right now (just keep brief notes).
 
 ## Important reassurance
-Cash machine outages and "empty" statuses are common, especially on weekends or following bank holidays. In almost all cases, your money remains safe in your account, and the failure is a physical logistics issue with the machine's supply. Using a Post Office or a different bank's machine will usually resolve the immediate need.
+Cash machines do run out of cash or go offline, especially in busy areas or during technical issues. Having one or two safe alternatives (cashback at the till, Post Office withdrawal, banking hub, or branch) is usually enough to get you through the next day or two.
 
 ## Scope note
-This guide covers immediate steps to access physical currency when local infrastructure fails. It does not cover long-term financial planning or legal disputes regarding banking access.
+These are first steps to help you access money safely and avoid panic mistakes. If the problem continues or you’re incurring charges/missed payments, you may need your bank’s help (and possibly a formal complaint) later.
 
 ## Important note
-This information is for general guidance and does not constitute financial advice. Withdrawal limits and service availability at Post Offices or Banking Hubs are determined by individual banks and may change without notice. If you suspect your card has been stolen or compromised, contact your bank immediately.
+This guide is general information, not financial or legal advice. Services vary by bank, retailer, and location, and outages can change quickly. If you feel unsafe while trying to get cash, leave the area and switch to another option.
 
 ## Additional Resources
-- https://www.link.co.uk/cash-locator
+- https://www.link.co.uk/cash-locator/
 - https://www.postoffice.co.uk/everydaybanking
+- https://www.postoffice.co.uk/everydaybanking/guides/cash-deposit
 - https://www.cashaccess.co.uk/hubs/
-- https://www.fca.org.uk/consumers/access-cash
-- https://www.postoffice.co.uk/atm-locator
+- https://www.cashaccess.co.uk/about-us/what-we-do/
+- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/it-problems-at-banks

@@ -1,96 +1,79 @@
----
+﻿---
 title: "What to do if… you find a tyre is losing air slowly and you don’t know where to get help"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
-  - "tire losing air slowly"
-  - "slow leak tire"
-  - "slow puncture tire"
-  - "tire keeps going flat"
-  - "low tire pressure"
-  - "tpms light on"
-  - "tire pressure dropping"
-  - "nail in tire"
-  - "valve stem leak"
-  - "rim bead leak"
-  - "no spare tire"
-  - "stuck with low tire"
-  - "can i drive on it"
-  - "find a tire shop"
-  - "tow for flat tire"
-  - "roadside assistance request"
-  - "tire inflator sealant kit"
-  - "what do i do if tire leaking"
-  - "what do i do if tire pressure low"
-  - "what do i do if nail in tire"
-  - "what do i do if tpms light on"
-  - "help i have a slow leak"
-  - "help i have a flat tire"
-  - "my tire is losing air"
-  - "my tire pressure is low"
-  - "visible sidewall bulge"
-  - "hissing sound from wheel"
-  - "steering pulling to one side"
-  - "tyre losing air"
-  - "flat tyre help"
-  - "rim touching the ground"
-  - "driving on a flat"
-  - "highway roadside assistance"
-  - "freeway service patrol"
-last_reviewed: "2026-03-17"
+  - tire losing air slowly
+  - slow leak tire
+  - slow puncture tire
+  - tire keeps going flat
+  - low tire pressure
+  - tpms light on
+  - tire pressure dropping
+  - nail in tire
+  - valve stem leak
+  - rim bead leak
+  - no spare tire
+  - don’t know who to call
+  - roadside tire trouble
+  - stuck with low tire
+  - can i drive on it
+  - find a tire shop
+  - tow for flat tire
+  - roadside assistance request
+  - tire inflator sealant kit
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… you find a tyre is losing air slowly and you don’t know where to get help (USA)
 
 ## Short answer
-Park in a safe location, inflate the tire to the pressure listed on your driver-side door jamb placard, and drive only to the nearest repair facility or call for roadside assistance.
+Get to a safe spot, inflate to the pressure on your driver-door placard, and treat it as “drive only to service”—then use roadside assistance or a tire shop before it worsens.
 
 ## Do not do these things
-- Don’t drive at highway speeds if the vehicle pulls to one side or the tire looks visibly deformed.
-- Don’t inflate the tire to the "Max PSI" printed on the tire sidewall; use only the vehicle manufacturer’s recommended pressure.
-- Don’t ignore a Tire Pressure Monitoring System (TPMS) light even if the tire looks full.
-- Don’t use a temporary sealant kit if the hole is in the sidewall or if the puncture is larger than a quarter-inch.
-- Don’t drive more than 50 miles or exceed 50 mph if you install a temporary "donut" spare tire.
-- Don’t stand between your vehicle and active traffic lanes while inspecting the wheel.
+- Don’t keep driving at highway speed if steering feels off, the car pulls, or the tire looks visibly low.
+- Don’t inflate to the PSI printed on the tire sidewall—that’s not your vehicle’s recommended pressure.
+- Don’t rely on the TPMS light to catch small leaks immediately; it may not warn right away.
+- Don’t use a sealant kit as a permanent fix, and don’t forget to tell the tire shop if you used sealant.
+- Don’t stop in a travel lane or stand next to traffic to inspect—safety first.
 
 ## What to do now
-1. **Move the vehicle to a safe pause point.**  
-   **Gradually reduce speed, activate hazard lights, and pull into a parking lot, rest area, or wide shoulder away from moving traffic.**
-2. **Perform a visual inspection for structural damage.**  
-   **Check the tire for a visible bulge in the sidewall, metal objects stuck in the tread, or the wheel rim touching the ground.**
-   - If the tire is completely flat or shredded, do not attempt to drive it.
-   - If the rim is touching the pavement, driving will cause permanent wheel damage.
-3. **Inflate the tire to the recommended pressure.**  
-   **Locate the "Tire and Loading Information" sticker on the driver-side door pillar (B-pillar) and add air until the pressure matches the "Cold PSI" listed.**
-   - Use a portable inflator or a gas station air pump.
-   - Re-check the pressure after five minutes; if it is dropping rapidly, the leak is too severe to drive on.
-4. **Locate the nearest professional service center.**  
-   **Search for a "tire shop" or "auto repair" using a map app and choose the closest facility to minimize driving time on a compromised tire.**
-5. **Contact a roadside assistance system if you cannot drive safely.**  
-   **Use one of the following official channels based on your location and coverage:**
-   - Your auto insurance provider via their mobile app or the phone number on your proof-of-insurance card.
-   - AAA (800-AAA-HELP) for tire changes, inflation, or towing.
-   - State-specific highway patrols such as the California Freeway Service Patrol (Dial 511 and say "Motorist Aid") or Florida Road Rangers (Dial *347).
-   - Local non-emergency police dispatch if you are stranded in a hazardous position but not in immediate danger.
-6. **Call 911 only if you are in immediate physical danger.**  
-   **Request emergency services if your vehicle is stalled in a live travel lane and cannot be moved, or if you are at risk of being struck by traffic.**
+1. **Make a safe pause.**  
+   Ease off the accelerator, avoid sharp inputs, turn on hazards, and pull into the nearest safer place (parking lot, rest area, gas station). If you can’t, use the widest shoulder available and keep yourself away from traffic.
+2. **Do a quick “is it driveable to help?” check.**  
+   Look for: a tire that’s very low, sidewall bulging, shredding, or an obvious object. If any of these are present, **don’t drive**—go to step 5.
+3. **Inflate correctly (only to reach service).**  
+   Inflate to the **recommended cold PSI on the Tire and Loading Information label** (usually inside the driver’s door jamb) or your owner’s manual. Recheck after a few minutes—if it drops quickly, stop and don’t continue.
+4. **Pick the fastest place to get it fixed (without guessing).**  
+   Go to the closest tire shop or auto service center you can reach safely and ask for a “leak check” (puncture, valve stem, and bead/rim seal). If it’s after hours or you can’t safely drive, look for **mobile tire service** or **towing**.
+5. **If you don’t know who to call, use these “systems” (in this order).**
+   - **Your auto insurance app/website** (many have a roadside help button if your policy includes it).
+   - **AAA** (they can change a flat if you have a usable spare, reinflate in some cases, or tow you to a nearby shop).
+   - **State/metro highway help programs (varies):** some places have service patrols that can assist with minor issues or move you to safety. **511 is a nationwide travel-information number**, and in some regions it can route you to local traveler info (and sometimes service-patrol details), but it is not a guaranteed roadside-assistance line everywhere.  
+     Examples (availability varies): **California Freeway Service Patrol** in some metro areas; **Florida Road Rangers** (often reachable by dialing *347 in Florida).
+   - **If you’re in immediate danger (stuck in a live lane, near a crash, can’t get safe): call 911.**
+6. **When help arrives or you reach a shop, say the key facts clearly.**  
+   “Slow leak, how long it takes to lose air, whether I topped it up today, whether TPMS came on, and whether I used sealant.”
+7. **If you must wait, do it deliberately.**  
+   Hazards on, stay visible, keep away from traffic, keep your phone charged, and share your location with someone you trust.
 
 ## What can wait
-- You do not need to determine if the tire needs a patch or a full replacement yet.
-- You do not need to identify the exact source of the leak (valve stem versus puncture) before seeking help.
-- You do not need to reset the TPMS dashboard light; it will usually calibrate itself after the pressure is corrected.
+- You don’t need to decide right now whether you need a new tire—first get a proper leak check.
+- You don’t need to figure out the exact cause yourself (nail vs valve vs rim); that’s what the shop will confirm.
+- You don’t need to do anything special with warning lights right now—address the leak first.
 
 ## Important reassurance
-Slow leaks are among the most common vehicle issues and are typically repairable if addressed before the tire structure is compromised by heat or low-pressure driving. Taking a few minutes to inflate the tire now significantly reduces the risk of a sudden blowout.
+A slow leak is common and usually straightforward for a tire shop to diagnose. The main risk comes from trying to “make do” and having the tire suddenly lose more air at speed.
 
 ## Scope note
-This guide provides first-step stabilization for a slow-leaking tire and instructions for connecting with US-based roadside services. It does not cover technical repair procedures or long-term tire maintenance.
+This is first-steps guidance to stabilize the situation and connect you to help. Tire repairability depends on where the damage is and the tire’s condition.
 
 ## Important note
-This information is for general guidance and does not replace professional mechanical assessment or your vehicle's specific safety manual. Always prioritize personal safety over vehicle preservation by staying clear of active traffic lanes and following instructions from emergency responders.
+This is general information, not mechanical or legal advice. If you can’t keep yourself safe where you are, prioritize moving to safety and calling professional help.
 
 ## Additional Resources
 - https://www.nhtsa.gov/vehicle-safety/tires
-- https://www.firestonecompleteautocare.com/blog/tires/slow-tire-leak-causes/
-- https://www.acg.aaa.com/connect/blogs/5c/auto/patch-plug-or-replace-a-car-tire
-- https://www.acg.aaa.com/connect/blogs/5c/auto/understanding-tire-pressure-and-temperature-change
-- https://www.aaa.com/autorepair/
+- https://www.ace.aaa.com/automotive/roadside-assistance/aaa-flat-tire-service.html
+- https://ops.fhwa.dot.gov/travelinfo/about/about511.htm
+- https://www.chp.ca.gov/programs-services/services-information/freeway-service-patrol/
+- https://www.fdot.gov/traffic/cvotim/tim/roadrangers/home.htm

@@ -1,86 +1,72 @@
----
+﻿---
 title: "What to do if… you are told you must surrender firearms or other regulated items because of a court order"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "firearms surrender court order"
-  - "hand in guns police uk"
-  - "court order weapons surrender"
-  - "firearms certificate revoked uk"
-  - "shotgun certificate revoked"
-  - "police surrender weapons notice"
-  - "give up ammunition court order"
-  - "court order seize firearms"
-  - "firearms licensing unit contact"
-  - "gun cabinet access restricted"
-  - "urgent surrender notice firearms"
-  - "firearms taken by police uk"
-  - "dispose of firearm legally"
-  - "proof of surrender receipt"
-  - "noncompliance with firearms order"
-  - "court paperwork confusion guns"
-  - "legal order immediate steps"
-  - "regulated items surrender notice"
-  - "domestic violence protection order firearms"
-  - "dvpo gun surrender"
-  - "firearms licensing management system"
-  - "nflms update surrender"
-  - "surrendering shotgun to police"
-  - "ammunition surrender procedure"
-  - "section 1 firearms surrender"
-  - "section 2 shotgun surrender"
-  - "handing in imitation firearms"
-  - "bruni blank firer amnesty 2026"
-  - "prohibited weapons surrender uk"
-  - "surrender receipt firearms police"
-last_reviewed: "2026-03-17"
+  - surrender firearms court order
+  - told to hand in guns
+  - court order weapons surrender
+  - firearms certificate revoked
+  - shotgun certificate revoked
+  - police say surrender weapons
+  - told to give up ammunition
+  - court order seize firearms
+  - firearms licensing unit contact
+  - gun safe access restricted
+  - urgent surrender notice
+  - firearms taken by police
+  - dispose of firearm legally
+  - proof of surrender receipt
+  - worried about noncompliance
+  - court paperwork confusion
+  - legal order immediate steps
+  - regulated items surrender
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… you are told you must surrender firearms or other regulated items because of a court order (UK)
 
 ## Short answer
-Comply with the order's deadlines immediately by contacting your local police firearms licensing department to arrange a documented handover. Do not transport items to a police station without an agreed appointment and specific instructions on safe transit.
+Treat this as time-critical: follow the order exactly as written, and get written proof of what you surrendered and when. If anything is unclear, confirm with the issuing court (or your local police force’s firearms licensing/contact route) the same day rather than guessing.
 
 ## Do not do these things
-- Do not hide, bury, or move items to an unauthorized location "for safekeeping".
-- Do not transfer items to another certificate holder or a Registered Firearms Dealer (RFD) unless the court order explicitly permits a transfer instead of a surrender.
-- Do not attend a police station with a firearm without first calling 101 to log the movement and arrange a specific handover time.
-- Do not leave firearms or ammunition in a vehicle unattended at any point during transit.
-- Do not forget to surrender the physical certificates (Form 201) along with the weapons, as these are usually required to be handed in.
-- Do not attempt to "deactivate" the items yourself to avoid surrender.
+- Do not hide, move, “store with a friend”, or try to sell/transfer items unless the order clearly allows it.
+- Do not bring a firearm or ammunition to a police station unless police have explicitly instructed you to and arranged how/when to do it.
+- Do not miss deadlines in the order because you intend to appeal—unless the court has formally paused (stayed) the requirement in writing.
+- Do not rely on verbal assurances alone; keep everything in writing where possible.
+- Do not forget related items the order may cover (ammunition, certificates, key/means of access to secure storage, essential parts) if the order specifies them.
 
 ## What to do now
-1. **Read the court order to identify the specific deadline and the items required for surrender.** **Check if the order specifies a particular police force or a designated location for the handover.**
-2. **Verify the order is genuine by contacting the issuing court directly.** **Use the official HM Courts and Tribunals Service (HMCTS) contact details found on gov.uk rather than any phone number printed on the paperwork itself.**
-3. **Contact your local police force via 101 and ask to speak with the Firearms Licensing Department (FLD).** **State clearly that you have a court order requiring the surrender of firearms and need to arrange a safe handover or collection.**
-   - Request a log number for the call.
-   - Confirm whether police will collect the items or if you must deliver them.
-4. **Prepare a detailed inventory of every item you are surrendering.** **Include the make, model, caliber, and serial number for each firearm, along with the exact quantity and type of ammunition.**
-5. **Follow the police instructions for safe packaging and transport if you are told to deliver the items.** **Ensure that:**
-   - All firearms are proven empty and unloaded.
-   - Firearms are carried in a secure, non-descript case or sleeve.
-   - Ammunition is stored in a separate container from the firearms.
-   - You have your original firearms or shotgun certificates ready to hand over.
-6. **Obtain a formal, written receipt at the point of surrender.** **Ensure the receipt lists every serial number and ammunition count correctly and is signed/dated by the receiving officer or staff member.**
-7. **Notify the Firearms Licensing Department in writing once the surrender is complete.** **Send a copy of your receipt to the FLD to ensure the National Firearms Licensing Management System (NFLMS) is updated to show you are no longer in possession.**
-8. **Contact a solicitor specializing in firearms law if you believe the order was issued in error.** **You must comply with the surrender first; legal challenges or applications to vary the order happen after safety requirements are met.**
+1. **Pause and read the paperwork carefully.** Identify the court name, case number, what items are covered, the deadline, and *where/how* surrender must happen (as written in the order).
+2. **Confirm it’s genuine and correctly served.** If it arrived by email/text or via a third party, verify using official contact details from the order and the court’s main switchboard (not a number someone else provides).
+3. **Contact the police using the non-emergency route to arrange a compliant handover.** In most areas this means calling **101** or using your force’s official contact method, asking to follow the firearms licensing/surrender procedure. Say: “I have a court order requiring surrender. Please tell me the safe process for handover/collection.”
+4. **Make a simple inventory before handover.** Write down make/model/serial numbers (where applicable) and quantities of ammunition/other regulated items covered by the order. Keep this for your records.
+5. **Follow the instructed method exactly.** Ask specifically:
+   - whether collection will be arranged or an appointment is required,
+   - what to bring (ID, certificates),
+   - how items must be secured for transport *for surrender* (if you are told to transport them).
+6. **Get a receipt/list at surrender.** Ask for written confirmation listing everything taken (items and quantities) with date/time. Keep it with your court papers.
+7. **If you cannot surrender something listed, say so immediately (briefly, in writing).** Do not improvise. Explain what you can and cannot surrender and ask what the court/police want you to do next.
+8. **Get urgent legal advice if the stakes are high.** If you think the order is wrong, a solicitor can advise on variation/appeal—but **do not delay compliance** unless the court changes or pauses the order in writing.
 
 ## What can wait
-- You do not need to decide on the permanent disposal or sale of the items today.
-- You do not need to provide a statement regarding the underlying court case to the officers accepting the surrender.
-- You do not need to notify your insurance provider about the change in storage location until the items have been physically handed over.
+- You do not need to decide today whether to challenge the order (unless the order sets a hearing/response deadline).
+- You do not need to give a detailed narrative to police staff—only what’s needed to comply safely.
+- You do not need to sort out longer-term ownership/storage/disposal questions right now; first secure proof that you complied.
 
 ## Important reassurance
-Receiving a surrender order is a high-pressure situation, but the police process is designed to manage the physical risk safely. By following the 101 route and obtaining a receipt, you are protecting yourself from allegations of non-compliance or illegal possession.
+It’s common to feel panicked or unfairly treated when an order like this arrives. Focusing on the basics—**comply, document, and get clarity in writing**—reduces the risk of accidental non-compliance while you work out next steps.
 
 ## Scope note
-This guide covers the immediate physical and procedural steps for surrendering regulated items under a UK court order. It does not cover the legal process of appealing an order or the specific requirements for Registered Firearms Dealers (RFDs).
+These are first steps to reduce immediate legal risk and prevent mistakes during surrender. The correct process depends on the exact court order and what items it covers.
 
 ## Important note
-Firearms law in the UK is strictly enforced under the Firearms Act 1968 and subsequent amendments. Failure to comply with a surrender order can lead to immediate arrest and a mandatory prison sentence. Always use the 101 non-emergency line to coordinate with the Firearms Licensing Department before moving any weapon.
+This is general information, not legal advice. Firearms and other regulated items are tightly controlled in the UK, and instructions can differ by police force area and by the type of order. If anything is unclear, use official court and police contact routes to confirm what to do before acting.
 
 ## Additional Resources
-- https://firearms.devon-cornwall.police.uk/firearms-licensing/faqs/
+- https://www.gov.uk/government/publications/firearms-law-guidance-to-the-police-2012/guide-on-firearms-licensing-law-accessible-version
+- https://assets.publishing.service.gov.uk/media/68b6bfe8d723ba6f74dba8ce/Firearms_Guide_-_November_2022_final_.pdf
+- https://www.college.police.uk/app/firearms-licensing/processes
+- https://www.met.police.uk/advice/advice-and-information/fi/af/firearms-licensing/sell-or-dispose-firearm/
 - https://www.askthe.police.uk/faq/?id=1879010a-13db-eb11-bacb-0022483f5223
-- https://www.gov.uk/government/publications/statutory-guidance-for-police-on-firearms-licensing
-- https://www.gov.uk/government/publications/compensation-scheme-for-zombie-knives-and-machetes/guidance-for-surrender-of-zombie-style-knives-and-zombie-style-machetes-and-claiming-compensation-accessible--2
-- https://www.gov.uk/government/publications/ninja-sword-surrender-and-compensation-scheme
+- https://www.northyorkshire.police.uk/SysSiteAssets/foi-media/north-yorkshire-police/our-policies-and-procedures/criminal-justice/firearms-and-explosives-licensing-procedure3.pdf

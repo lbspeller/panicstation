@@ -1,88 +1,76 @@
----
+﻿---
 title: "What to do if… you are told police have tried to contact you before but you never received anything"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "police tried to contact me"
-  - "missed police contact"
-  - "never received police letter"
-  - "police say they wrote to me"
-  - "police called but i missed it"
-  - "someone says police were looking for me"
-  - "asked to attend police station"
-  - "voluntary interview request"
-  - "interview under caution"
-  - "missed summons letter"
-  - "never received court notice"
-  - "single justice procedure notice"
-  - "postal requisition uk"
-  - "police impersonation scam"
-  - "fake police call uk"
-  - "unsure if police contact is real"
-  - "police want me to call back"
-  - "worried there is a warrant"
-  - "old address police letter"
-  - "missed police call uk"
-  - "police looking for me uk"
-  - "help i missed a police letter"
-  - "help i have a missed police call"
-  - "what do i do if i missed a police letter"
-  - "what do i do if police tried to call me"
-  - "my address is old on police records"
-  - "my police letter was lost"
-  - "notice of prosecution missed"
-  - "arrest warrant check uk"
-  - "police station voluntary attendance"
-last_reviewed: "2026-03-17"
+  - police tried to contact me
+  - missed police contact
+  - never received police letter
+  - police say they wrote to me
+  - police called but i missed it
+  - someone says police were looking for me
+  - asked to attend police station
+  - voluntary interview request
+  - interview under caution
+  - missed summons letter
+  - never received court notice
+  - single justice procedure notice
+  - postal requisition uk
+  - police impersonation scam
+  - fake police call uk
+  - unsure if police contact is real
+  - police want me to call back
+  - worried there is a warrant
+  - old address police letter
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you are told police have tried to contact you before but you never received anything (UK)
 
 ## Short answer
-Verify the claim by calling the non-emergency number 101 using a trusted phone line after a five-minute delay, then seek free legal advice before attending any interview or answering questions.
+Pause and verify the contact using a trusted route (in the UK, call **101**), then get legal advice before answering questions if there’s any chance you’re a suspect or you’re being asked to attend an interview.
 
 ## Do not do these things
-- Don't call back any number provided by a caller or text message without first verifying it independently.
-- Don't answer questions about an incident or "tell your side" over the phone if you are told you are a suspect.
-- Don't attend a police station for an "informal chat" or a "voluntary interview" without a solicitor present.
-- Don't pay any "fines" or provide bank details, PINs, or passwords to anyone claiming to be a police officer over the phone.
-- Don't ignore the situation if you suspect a court notice was sent to an old address, as legal proceedings can continue in your absence.
+- Don’t call back a number someone gives you (or that appears on a text) without independently finding the official police contact number first.
+- Don’t explain your side, “clear things up,” or answer questions on the phone if you might be a suspect.
+- Don’t go to a police station “just to chat” (including for a “voluntary interview”) without knowing why you’re being asked to attend and what your rights are.
+- Don’t pay anything or share bank details, passwords, one-time codes, or PINs—police will not ask for payment to “avoid arrest”.
+- Don’t ignore it if it could be a court notice (for example, a Single Justice Procedure Notice) because cases can move forward without you responding.
 
 ## What to do now
-1. **Wait five minutes before making any outgoing calls if you were just contacted by phone.** Fraudsters can "trap" phone lines to intercept your next call; waiting ensures the line has fully disconnected. 
-2. **Call 101 to verify the contact through official police channels.** 
-   - Ask the operator to check if there is a record of a call or visit to your details.
-   - Request the name, collar number, and station of the officer who reportedly tried to contact you.
-   - If the operator cannot find a record, do not provide further personal information to the original caller.
-3. **Establish if you are being treated as a witness, a victim, or a suspect.** This is the only information you should seek during the verification call. 
-4. **Request a solicitor immediately if the police want to conduct a "voluntary interview" or an "interview under caution."**
-   - **Legal advice at the police station is free of charge under the Duty Solicitor scheme.**
-   - **State clearly: "I am happy to cooperate, but I require legal advice before any interview takes place."**
-   - **The police must delay the interview until you have spoken with a solicitor.**
-5. **Update your contact details if the police have been using an old address.** 
-   - Ask which address they have on file and provide your current one to ensure you receive official documents like a Single Justice Procedure Notice (SJPN).
-6. **Check for time-sensitive court documents.**
-   - If you are told an SJPN was issued, you usually have exactly 21 days from the date of posting to respond.
-   - If you missed a deadline because of an old address, a solicitor can help you file a "Statutory Declaration" to reopen the case.
-7. **Report any confirmed scam attempts to Report Fraud.** 
-   - Use the official reportfraud.police.uk portal or call 0300 123 2040.
+1. **Assume “could be real, could be a scam” and slow down.** Write down: who told you, what they said police tried to do (call/visit/letter), any name, badge/warrant number, and any “reference/case number”.
+2. **Verify using an official channel (not the number you were given).**  
+   - In the UK, call **101** and ask to confirm whether your details match a real attempt to contact you and which station/department it came from.  
+   - If you feel at risk right now, call **999**.
+3. **Ask one narrow question: “What is this about, and am I being contacted as a witness/victim or as a suspect?”** You’re not trying to “resolve” anything on the call—just establish what kind of contact it is and what they want next (e.g., a letter re-sent, an appointment, or a callback).
+4. **If they want an interview (especially a “voluntary interview” / “interview under caution”), get legal advice before you speak.**  
+   - You can say: “I’m willing to arrange a time, but I won’t answer questions until I’ve had legal advice.”  
+   - For a **voluntary interview**, the interviewer should ask if you want legal advice, and **it’s free**. You can ask to speak to a solicitor at any time and ask to delay the interview so you can do that.
+5. **Check whether you might have missed a court document.** If (after you’ve verified it’s genuine) they say “letters were sent,” ask **what address** they used and **what type of document** it was (for example, a requisition or a Single Justice Procedure Notice). If an old address was used, give your current address so future official post goes to the right place.
+6. **If you’re told it’s a Single Justice Procedure Notice (or similar), treat it as time-sensitive.** Once you have the details, consider getting immediate legal advice and respond using the official instructions on the notice.
+7. **If you suspect any scam element, end the call and protect yourself.**  
+   - Hang up. Call 101 via a trusted source to verify.  
+   - If you’ve shared money/banking details, contact your bank immediately.  
+   - Report fraud through the UK’s official reporting routes once you’re safe and calm.
 
 ## What can wait
-- You do not need to provide a statement or explain your actions during the initial verification call.
-- You do not need to decide how to plead to any alleged offence until you have seen the evidence and spoken to a solicitor.
-- You do not need to attend the police station immediately; you can request a scheduled time that allows your solicitor to be present.
+- You do not need to decide today whether you will “give a statement” or “tell your full story.”
+- You do not need to attend the station immediately just because someone applies pressure.
+- You do not need to contact other people about it right now—first verify what’s real and what your role is.
 
 ## Important reassurance
-It is common for official mail to be delayed or for police to have outdated contact records. Seeking legal advice and verifying identity is a standard procedural step and does not imply guilt or make you look more suspicious to the authorities.
+It’s common for police contact to fail because of old addresses, missed calls, or messages not being passed on. Verifying contact through official channels and getting legal advice before any interview is a calm, normal response—not an admission of guilt.
 
 ## Scope note
-This guide covers first-step stabilization for unexpected police contact. It does not provide legal defense strategies, representation, or advice on specific criminal charges.
+This is first steps only: verify, reduce scam risk, and avoid self-incrimination or missed deadlines. Any next stage (interview, bail conditions, charges, court paperwork) can be handled once you know exactly what the contact is about.
 
 ## Important note
-This information is for guidance and does not constitute legal advice. If you are a suspect in a criminal investigation or have missed a court deadline, contact a qualified solicitor or the Citizens Advice Bureau for specific legal assistance.
+This is general information, not legal advice. If you think you may be under investigation, have missed a court notice, or are being asked to attend an interview, consider getting advice from a qualified solicitor as soon as you can.
 
 ## Additional Resources
-- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights
-- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version
 - https://www.gov.uk/arrested-your-rights/legal-advice-at-the-police-station
-- https://www.citizensadvice.org.uk/law-and-courts/legal-system/finding-free-or-affordable-legal-help/
-- https://www.gov.uk/appeal-magistrates-court-decision/if-you-did-not-know-about-your-case
+- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version
+- https://www.gov.uk/single-justice-procedure-notices
+- https://www.met.police.uk/police-forces/metropolitan-police/areas/about-us/about-the-met/how-to-check-an-officers-identity/
+- https://www.met.police.uk/police-forces/metropolitan-police/areas/campaigns/2022/staying-safe-in-london/
+- https://www.usmarshals.gov/news/press-release/us-marshals-fbi-urge-public-report-phone-scams

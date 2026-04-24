@@ -1,103 +1,98 @@
----
+﻿---
 title: "What to do if… your cloud documents become read-only because your storage quota was exceeded unexpectedly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "os missing screen"
-  - "os damaged recovery screen"
-  - "operating system not found"
-  - "windows boot failure"
-  - "pc won-t start"
-  - "stuck in recovery"
-  - "boot device not found"
-  - "no bootable device"
-  - "startup repair loop"
-  - "blue recovery screen"
-  - "mac question mark folder"
-  - "flashing question mark folder"
-  - "disk not detected"
-  - "possible drive failure"
-  - "worried about losing files"
-  - "need data off laptop"
-  - "bios boot order wrong"
-  - "update broke windows"
-  - "windows recovery environment"
-  - "system won-t boot today"
-  - "help i have a blue screen"
-  - "help i cannot start my pc"
-  - "what do i do if my laptop says no os"
-  - "what do i do if my computer is stuck on recovery"
-  - "what do i do if i see a flashing question mark"
-  - "my hard drive is not found"
-  - "my computer says operating system missing"
-  - "black screen with white text boot error"
-  - "no bootable media found"
-  - "damaged system files recovery"
-last_reviewed: "2026-03-17"
+  - cloud documents read-only
+  - cloud storage quota exceeded
+  - storage full suddenly
+  - one drive read only
+  - onedrive storage full
+  - google drive storage full
+  - google account out of space
+  - icloud storage full
+  - iCloud Drive read only
+  - cannot edit cloud files
+  - files won’t sync
+  - cloud account over limit
+  - storage limit exceeded error
+  - locked out of editing
+  - documents became read only
+  - quota exceeded unexpectedly
+  - drive says full but isn’t
+  - cloud files stuck read-only
+  - storage cleanup panic
+  - urgent cloud storage access
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your cloud documents become read-only because your storage quota was exceeded unexpectedly (UK)
 
 ## Short answer
-Isolate the device by disconnecting all external storage and peripherals, then perform a single power-cycle to check if the internal drive is detected.
+Pause and protect anything time-critical first: download/export the documents you need today. Then use the provider’s storage breakdown to get back under quota (including emptying the relevant trash/recycle/recently deleted areas that still count), or temporarily upgrade to unlock editing.
 
 ## Do not do these things
-- Do not select options labeled **Reset this PC**, **Factory Reset**, or **Erase Disk** if you have not backed up your personal files.
-- Do not repeatedly restart the machine if you hear clicking, grinding, or whirring noises from the chassis.
-- Do not attempt to open the laptop or desktop casing if the device is still under manufacturer warranty.
-- Do not enter random characters into BitLocker or firmware password prompts.
-- Do not use third-party "boot fixer" software downloaded from unverified websites.
+- Don’t mass-delete folders in a panic (you can wipe the wrong thing and still not free space if it’s sitting in trash).
+- Don’t permanently empty trash/recycle/recently deleted if you’re not sure you can live without what’s in there (download/export first if unsure).
+- Don’t keep editing across multiple devices while sync is failing (you can create conflicting versions).
+- Don’t sign out everywhere, factory reset, or reinstall apps as your first move (it can make recovery and auditing harder).
+- Don’t share passwords or accept “help” from unknown callers/messages claiming to be support.
 
 ## What to do now
-1. **Disconnect all non-essential hardware from the computer.**
-   - Remove USB flash drives, external hard drives, SD cards, printers, and docking stations.
-   - Leave only the power cable, monitor, keyboard, and mouse connected.
+1. **Secure the work you cannot lose in the next hour.**
+   - Download/export the specific documents you need (for example, export to PDF/DOCX) and save them to your device.
+   - If possible, save a second copy somewhere separate (external drive/USB, or a different account you control).
 
-2. **Perform a hard power reset to clear temporary electrical faults.**
-   - For laptops: disconnect the power lead, hold the power button down for 30 seconds, then reconnect and try to start.
-   - For desktops: turn off the power at the wall, hold the power button for 30 seconds, reconnect, and start.
+2. **Confirm this is a quota lock, not an access/permissions change.**
+   - Check the provider’s **storage/usage** page for the account that owns the files (personal vs work/school accounts often differ).
+   - If only some files are read-only, confirm you’re signed into the correct account and that your edit access hasn’t been changed by the owner/admin.
 
-3. **Check the BIOS or Boot Menu to ensure the internal drive is primary.**
-   - Restart and immediately tap the BIOS key (usually F2, F10, or Del) or Boot Menu key (usually F12 or Esc).
-   - Verify that the internal SSD or Hard Drive (often labeled "Windows Boot Manager" or the drive brand name) is at the top of the boot priority list.
+3. **Use the provider’s storage breakdown to free space safely.**
+   - Sort by **largest items** and remove one or two you’re confident you don’t need.
+   - If you’re unsure, download a copy first, then delete.
 
-4. **Access the built-in repair environment for your specific operating system.**
-   - **Windows:** wait for the "Automatic Repair" or "Recovery" screen to appear, then select **Troubleshoot > Advanced options > Startup Repair**.
-   - **Mac (Intel):** shut down, then hold **Command + R** while turning it back on until the Apple logo appears.
-   - **Mac (Apple Silicon):** shut down, then press and hold the power button until "Loading startup options" appears.
+4. **Free space where it actually counts (this is the step people miss).**
+   - Empty the **relevant** trash/recycle bin/recently deleted areas that count toward your quota (check the storage breakdown to see which products are sharing the limit).
+   - If your quota is shared across services (for example, cloud drive + email + photos), clear the trash/spam/deleted areas in the parts that are using the most space.
 
-5. **Retrieve your BitLocker recovery key from an external device if prompted.**
-   - Go to **https://aka.ms/myrecoverykey** on a working smartphone or computer.
-   - Sign in with your Microsoft account to find the 48-digit numerical key required to unlock the drive.
+5. **If deletions are failing, switch to the most reliable interface.**
+   - Try freeing space from the provider’s **web interface** (often more reliable than mobile apps).
+   - If you urgently need editing restored and you cannot free space quickly, consider a **short-term storage upgrade** to remove the lock, then do a calmer cleanup later.
 
-6. **Run a non-destructive disk check via the recovery menu.**
-   - **Windows:** in Advanced options, select **Command Prompt** and type `chkdsk c: /f` (note that the drive letter may vary in recovery mode).
-   - **Mac:** open **Disk Utility**, select your internal drive (usually Macintosh HD), and click **First Aid**.
+6. **Pause sync so it doesn’t create conflicts while you fix it.**
+   - Pause syncing on devices showing errors until you’re back under quota and you can confirm changes are flowing normally.
+   - If you must continue working immediately, work only in the downloaded/exported copy until sync is normal.
 
-7. **Document the exact error code or message for support purposes.**
-   - Take a clear photo of the screen, including any strings like "0xc000000f" or "Inaccessible Boot Device."
-   - Note if the error appeared immediately after a Windows Update or a physical impact.
+7. **Capture a simple record in case you need support or to dispute billing.**
+   - Screenshot: the “quota exceeded/read-only” message, your storage breakdown, and any plan/renewal/billing notices.
+   - Note: when you first saw the issue and what changed recently (new backup, photo upload, shared folder added).
 
-8. **Contact the retailer or manufacturer if the device is under two years old.**
-   - Under the UK Consumer Rights Act 2015, goods must be of satisfactory quality and fit for purpose.
-   - If the hardware has failed within the first six years (five in Scotland), you may have a right to a repair or replacement from the retailer, though you may need to prove a latent fault after the first six months.
+8. **Escalate through the right channel for the account type.**
+   - Work/school account: contact your **IT/admin** (they may need to increase quota or adjust retention/recycle-bin settings).
+   - Personal paid plan: contact the provider’s **billing/support** route and share your screenshots and timeline.
+
+9. **If the issue is about mishandling of your personal data and the provider won’t engage (UK-specific).**
+   - Complain to the organisation/provider first (brief, dated, keep copies).
+   - If you can’t resolve it and it concerns personal data handling, you can raise a concern with the **Information Commissioner’s Office (ICO)**.
 
 ## What can wait
-- You do not need to decide on a full system reinstallation immediately.
-- You do not need to purchase a replacement hard drive or new computer today.
-- You do not need to attempt advanced Command Prompt "rebuild bcd" steps while in a state of panic.
+- You do not need to decide today whether to change provider, reorganise your entire storage, or set up a perfect backup system.
+- You do not need to clean every folder right now—unlock editing safely and protect the most important files first.
+- You do not need to troubleshoot every device: fix the account quota first, then check sync.
 
 ## Important reassurance
-Seeing a recovery screen does not always mean your files are gone. It often indicates that the "pointer" the computer uses to find the operating system is broken, rather than the data itself being deleted. Taking a slow, methodical approach prevents turning a software glitch into permanent data loss.
+This is a common protective restriction: when an account is over quota, services may block edits/uploads to prevent things getting worse. The “read-only” message feels like sudden data loss, but in many cases your files are still there—you just need to regain space and confirm syncing returns.
 
 ## Scope note
-This guide provides first-step stabilization to prevent data loss. It does not cover physical hardware repair or advanced data recovery from mechanically failed drives.
+These are first steps to stabilise access and prevent accidental loss. Later, you may want help setting quota alerts, backups, and retention settings—but that can wait until you’re back in control.
 
 ## Important note
-This information is for guidance only and does not constitute professional technical or legal advice. If your data is critical and unbacked, stop all troubleshooting and consult a professional data recovery service. UK consumer rights regarding digital content and hardware are subject to specific time limits and evidence requirements.
+This guide is general information, not legal, financial, or technical advice for your specific system. Cloud providers vary, and workplace accounts may have extra policies (retention, legal holds, admin-controlled bins) that change what you can delete and when.
 
 ## Additional Resources
-- https://support.google.com/drive/answer/6374270?hl=en-GB
-- https://support.microsoft.com/en-gb/office/microsoft-storage-faqs-8fca6272-3427-4cce-a437-2c5ed84550a9
+- https://support.microsoft.com/en-gb/office/my-onedrive-says-it-s-full-f0a8a922-d971-497e-b0c6-7b9a47c617c0
+- https://support.microsoft.com/en-gb/office/microsoft-storage-quotas-8f2f9d72-04d1-4223-a5ae-c2fdd26dd770
+- https://support.google.com/drive/answer/6374270?hl=en
 - https://support.apple.com/en-gb/108922
-- https://support.microsoft.com/en-gb/office/what-does-it-mean-when-your-onedrive-account-is-frozen-5e76147b-b7d5-4bcb-ba28-b91e3eb636b6
-- https://support.microsoft.com/en-gb/office/why-did-i-get-a-message-saying-my-files-will-be-erased-5ee83d1a-28da-4d05-a1ca-46a522919e45
+- https://www.gov.uk/data-protection/make-a-complaint
+- https://ico.org.uk/for-the-public/how-to-make-a-data-protection-complaint/

@@ -1,84 +1,68 @@
----
+﻿---
 title: "What to do if… someone you rely on for services or repairs makes sexual comments and you still need access to your home or property"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "someone you rely on for repairs makes sexual comments"
-  - "contractor made sexual comments"
-  - "repair person was sexually inappropriate"
-  - "handyman said sexual things"
-  - "plumber made creepy remarks"
-  - "maintenance worker inappropriate comments"
-  - "service tech sexual harassment"
-  - "unwanted sexual remarks at home"
-  - "i need repairs but feel unsafe"
-  - "i still need access to my property"
-  - "letting someone into my home feels unsafe"
-  - "landlord maintenance harassment"
-  - "property manager contractor harassment"
-  - "boundary crossing by worker"
-  - "unwanted sexual attention at home"
-  - "repair visit made me uncomfortable"
-  - "relying on them for access"
-  - "uncomfortable service call"
-  - "maintenance worker hitting on me"
-  - "what do i do if contractor is creepy"
-  - "what do i do if maintenance worker harasses me"
-  - "what do i do if landlord makes sexual comments"
-  - "what do i do if repairman is inappropriate"
-  - "help i feel unsafe with maintenance worker"
-  - "help i have a creepy contractor"
-  - "my landlord is sexually harassing me"
-  - "my maintenance man made a pass at me"
-  - "worker lingering in my bedroom"
-  - "unnecessary physical proximity during repair"
-  - "contractor asking personal questions"
-  - "repair person making sexual jokes"
-  - "service technician inappropriate behavior"
-  - "feeling unsafe during home repair"
-last_reviewed: "2026-03-17"
+  - contractor made sexual comments
+  - repair person was sexually inappropriate
+  - handyman said sexual things
+  - plumber made creepy remarks
+  - maintenance worker inappropriate comments
+  - service tech sexual harassment
+  - unwanted sexual remarks at home
+  - i need repairs but feel unsafe
+  - i still need access to my property
+  - letting someone into my home feels unsafe
+  - landlord maintenance harassment
+  - property manager contractor harassment
+  - boundary crossing by worker
+  - fear of retaliation from contractor
+  - safety plan for home visit
+  - unwanted sexual attention at home
+  - repair visit made me uncomfortable
+  - relying on them for access
+  - uncomfortable service call
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… someone you rely on for services or repairs makes sexual comments and you still need access to your home or property (USA)
 
 ## Short answer
-Interrupt the interaction immediately by rescheduling or insisting on a different worker through the parent company or property manager. Do not allow the person back into your home alone, and conduct all future communication in writing.
+Regain control of access first: do not allow them back alone, and arrange repairs through a different person/company or with another adult present.
 
 ## Do not do these things
-- Do not let them return to your home alone to "finish the job" if you feel unsafe or uncomfortable.
-- Do not meet them in isolated areas of the property (such as basements, attics, or garages) to discuss their behavior.
-- Do not feel obligated to explain why you are requesting a different technician or canceling an appointment.
-- Do not delete any evidence, including text messages, call logs, voicemails, or notes about the interaction.
-- Do not assume you must tolerate the behavior to maintain your housing or get necessary repairs.
+- Do not let them return to your home “just to finish the job” if you feel unsafe.
+- Do not meet them alone in a closed space (garage, basement, back room) to “clear the air.”
+- Do not agree to unannounced visits, vague arrival times, or entry when you’re asleep or in the shower.
+- Do not delete texts, emails, voicemails, or app messages if you might want to complain or report later.
+- Do not assume you must “prove” anything before you’re allowed to switch providers or set boundaries.
 
 ## What to do now
-1. **Cancel or reschedule any upcoming visits immediately if the same person is assigned.** Use a brief written message stating that you are unavailable and require a different appointment window; you do not need to provide a reason for the change at this stage.
-2. **Contact the management office or company dispatch to request a different worker.** Explicitly state that the previous technician is "not a fit for this property" and request that they be removed from your service rotation permanently.
-3. **Notify your landlord or property manager in writing if the worker is an employee or regular contractor.** Document the specific comments made and state that for your safety and comfort, you require a different individual for all future maintenance.
-4. **Arrange for a second adult to be present for any required maintenance visits.** If you cannot have someone inside the home with you, stay on a live phone or video call with a friend and ensure the technician sees that you are being monitored.
-5. **Verify the identity and company affiliation of any worker before allowing entry.** Request to see a photo ID and confirm with the main office that they have sent this specific person to your address at this time.
-6. **Maintain physical distance and clear paths to exits during the repair.** Avoid being in private areas like bedrooms or bathrooms with the worker; stay in a common area and keep your phone in your hand at all times.
-7. **Document the incident in a private log for your own records.** Record the date, time, the specific words used, and any non-verbal cues such as lingering, blocking exits, or unnecessary physical proximity.
-8. **Contact the RAINN National Sexual Assault Hotline at 800-656-HOPE (4673) for confidential support.** They can provide guidance on your options and help you manage the emotional impact of the situation without requiring a police report.
-9. **Report housing-related harassment to the Department of Justice (DOJ) or HUD if the person has control over your housing.** You can call the DOJ Sexual Harassment in Housing Initiative at 1-844-380-6178 or HUD at 1-800-669-9777 to discuss fair housing protections.
-10. **Call 911 if you are in immediate physical danger or if the person refuses to leave your property.** If you are experiencing a mental health crisis or high distress after the event, you can also call or text 988.
+1. **If they’re coming soon, cancel or reschedule immediately.** Keep it brief: you’re not available and need a different appointment. If you feel pressured, stop responding and move to written communication.
+2. **Route all contact through a company/office or property manager (not the individual).** Ask for **a different worker** and request that the original person not be assigned to your address again.
+3. **If you rent or live in managed housing, notify the landlord/property manager in writing.** Ask for an alternate maintenance person and for a note on your account that entry requires prior notice and a named worker.
+4. **Use a “two-person rule” for any required visit.** Have a friend/neighbor with you, or schedule when someone can be present. If you can’t get someone inside, have someone available by phone and nearby.
+5. **Make the visit physically safer.** Keep doors locked until you verify who is there; stay near an exit; keep your phone on you; avoid giving access to bedrooms or private areas unless the repair requires it; don’t share personal details.
+6. **Make a simple record for yourself.** Write down date/time, what was said, and any witnesses. Save booking details and any messages. (If you later report or complain, this can help.)
+7. **If you feel in immediate danger, call 911.** If you’re not in immediate danger and want confidential support, you can contact RAINN (phone or online chat) for help and local resources.
+8. **If the person has control over your housing (for example, a landlord, property manager, or maintenance worker), housing-related sexual harassment may be covered by fair housing protections.** When you’re ready, you can report housing discrimination to HUD and/or contact DOJ’s Sexual Harassment in Housing Initiative.
 
 ## What can wait
-- You do not need to decide immediately whether to file a formal lawsuit or a police report.
-- You do not need to find a new place to live today; focus first on securing your current space and restricting access.
-- You do not need to confront the individual directly about their comments if it feels unsafe to do so.
+- You do not need to decide right now whether to involve police or file a formal complaint to protect yourself today.
+- You do not need to craft the “perfect” message—short, firm boundaries are enough.
+- You do not need to continue the same repair plan if it puts you on edge; switching providers can come first.
 
 ## Important reassurance
-It is common to feel startled, confused, or even guilty when someone in a professional role crosses a boundary. These reactions are normal responses to a violation of your personal space and safety. You have a right to feel secure in your home, and setting strict boundaries is a necessary and valid response to inappropriate behavior.
+It’s normal to feel conflicted when you still need repairs or access. You’re allowed to set boundaries and change arrangements without debating, explaining, or “earning” that right.
 
 ## Scope note
-This guide provides first-step stabilization for immediate safety and property access. Long-term housing disputes, legal claims under the Fair Housing Act, or criminal proceedings may require consultation with an attorney or a victim advocate.
+These are first steps to stabilise safety and access. If the behavior continues, escalates, or affects your housing situation, you may want specialist support (victim services, tenant support, or legal advice) once you’re in a calmer place.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional advice. If you are in immediate danger, contact local emergency services.
+This is general information, not legal advice. If you are in danger, call emergency services.
 
 ## Additional Resources
-- https://www.hud.gov/helping-americans/fair-housing-act-overview
-- https://www.hud.gov/reporthousingdiscrimination
-- https://rainn.org/strategies-to-reduce-risk-increase-safety/safety-planning-for-survivors-of-assault-harassment-stalking/
 - https://rainn.org/help-and-healing/hotline/
-- https://www.usa.gov/state-consumer
+- https://www.hud.gov/reporthousingdiscrimination
+- https://www.justice.gov/crt/sexual-harassment-housing-initiative
+- https://www.justice.gov/crt/sexual-harassment-housing-initiative-how-report

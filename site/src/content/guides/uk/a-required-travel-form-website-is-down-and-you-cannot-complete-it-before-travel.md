@@ -1,79 +1,79 @@
----
+﻿---
 title: "What to do if… a required travel form website is down and you cannot complete it before travel"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "travel form website down"
-  - "required travel form not working"
-  - "travel form website outage"
-  - "required travel form technical error"
-  - "what do i do if a travel form website is down"
-  - "what do i do if a required travel form is not working"
-  - "what do i do if i cannot complete a travel form"
-  - "what do i do if a travel website is unreachable"
-  - "help i cannot submit my travel form"
-  - "help i cannot complete my travel authorisation"
-  - "help i cannot get my eta for travel"
-  - "help i cannot access my evisa"
-  - "my travel form keeps timing out"
-  - "my travel form payment failed"
-  - "my travel authorisation is not loading"
-  - "my entry form has a technical error"
-  - "official government website down"
-  - "immigration portal error message"
-  - "cannot check in without travel form"
-  - "airline refusing boarding travel form"
-  - "eta application website error"
-  - "evisa share code system down"
-  - "ukvi account login error"
-  - "travel form maintenance notice"
-  - "site down before international flight"
-  - "travel form website unavailable"
-  - "travel documents website crash"
-  - "required travel form submission error"
-  - "electronic travel authorisation error"
-  - "travel form website loop"
-last_reviewed: "2026-03-17"
+  - travel form website down
+  - required entry form not working
+  - unable to submit travel form
+  - immigration form site outage
+  - travel authorisation site down
+  - online visa form not loading
+  - entry form technical error
+  - form submission failed
+  - payment page error
+  - confirmation email not received
+  - check in blocked missing form
+  - airline says form required
+  - last minute travel document issue
+  - official site unreachable
+  - form keeps timing out
+  - transit form required
+  - travel tomorrow form incomplete
+  - wrong website lookalike risk
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… a required travel form website is down and you cannot complete it before travel (UK)
 
 ## Short answer
-Stop repeated attempts if the site is hard-crashing and immediately document the failure with timestamps; you must then pivot to contacting your airline’s ground staff and the official issuing authority's emergency webchat or technical support line.
+Shift to “proof + escalation”: save evidence the official site is failing, contact your airline now, and use the issuing authority’s official support route to ask what they accept during an outage.
 
 ## Do not do these things
-- **Do not** use unofficial "fast-track" or third-party processing sites to bypass an outage, as these often lack direct system access and may compromise your passport data.
-- **Do not** attempt to travel to the airport hoping to "apply on arrival," as most 2026 digital permissions (like the UK ETA) must be approved before you reach the check-in desk.
-- **Do not** repeatedly enter payment details if the page is timing out, as this can trigger fraud blocks on your card or create duplicate applications.
-- **Do not** change your passport number or name spelling slightly to "force" the system to work; mismatches between your form and passport are a primary cause for boarding denial.
-- **Do not** assume the airline has the authority to waive a government entry requirement during a localized technical fault.
+- Don’t use look-alike or paid third-party sites in a rush (you can waste money and expose passport details).
+- Don’t keep re-submitting at the final step if it’s erroring (you may create duplicates, payment problems, or lockouts).
+- Don’t assume check-in staff can override a missing entry requirement (they often cannot board you without acceptable proof).
+- Don’t change passport details “to make it work” (mismatches can trigger denial at check-in or the border).
+- Don’t rely on one device or one network only (browser settings, blockers, or local networks can break official forms).
 
 ## What to do now
-1. **Capture clear, time-stamped evidence of the technical failure.** **Take screenshots of the error message, the browser address bar (URL), and the system clock on your device.** This evidence is essential if you need to request a fee waiver, a flight change, or prove to an airline that you attempted compliance.
-2. **Perform one rapid "clean" retry using a different technical path.** **Switch to a different device (phone vs. laptop) and a different network (mobile data vs. Wi-Fi) to rule out local connectivity issues.** If using a browser, open an "Incognito" or "Private" window to bypass cached errors. Limit this to 10 minutes.
-3. **If the issue is with a UK Electronic Travel Authorisation (ETA), check the "UK ETA" app.** **Download the official mobile app if the GOV.UK website is down, or vice versa, as they often run on different server clusters.** Note that as of April 8, 2026, the fee is £20; ensure you have sufficient funds and that your bank is not blocking the international transaction.
-4. **Access the UKVI webchat for immediate technical support.** **Navigate to the official GOV.UK contact page and select "webchat" specifically for ETA or eVisa issues, as phone staff generally cannot see live ETA application data.** Keep your application reference number or passport details ready for the agent.
-5. **Contact the UKVI Resolution Centre if your digital status (eVisa) is inaccessible.** **Call 0300 790 6268 (inside UK) or +44 (0)203 875 4669 (outside UK) if you cannot generate a share code or access your digital record.** For international travelers in transit, the 24/7 helpline is 0800 8766921.
-6. **Call your airline’s "Urgent Travel" or "Special Assistance" line immediately.** **Inform the airline that the official government system is down and provide them with your application reference or evidence of the outage.** Ask if they have received a "Carrier Support Hub" update from the Home Office regarding a known system-wide outage.
-7. **Request a flight "protection" or rebooking if your travel is within 4 hours.** **Ask the airline to move your booking to a later flight without a "no-show" penalty if the government system remains unreachable.** While airlines are not legally required to refund for missing documents, they may offer flexibility during verified government outages.
-8. **Verify if a manual alternative exists for your specific destination.** **Check the official "News" or "Announcements" section of the destination's embassy website to see if they have reverted to paper forms or manual processing during the outage.**
+1. **Confirm it’s the official site/app and capture evidence.**  
+   Take screenshots showing the full URL (or official app name), the error message, and the time/date. If it failed after “pay” or “submit”, capture that screen too. Save any email/SMS you did receive.
+2. **Do a quick, safe retry (limit to 10–15 minutes).**  
+   Try a different browser (or private/incognito window), a different device, and a different network (Wi-Fi ↔ mobile data). Temporarily disable ad/script blockers for that site only. If it still fails, stop and escalate.
+3. **Check for an official alternative path from the issuer.**  
+   Some authorities provide an official mobile app, a “continue application / check status” page, or a service status notice. Use only official government channels.
+4. **Contact your airline now and ask what they will accept at check-in.**  
+   Tell them: “The official form site is down; I have screenshots; what do you require to let me travel?” Ask if they can (a) note your booking for a known outage, (b) accept evidence of attempted submission, or (c) move you to a later flight without penalty if the requirement can’t be completed in time.
+5. **Contact the issuing authority using their official help route and keep it simple.**  
+   Send: full name, nationality, travel date/time, flight number, and screenshots of the error. Only share passport numbers if you are sure the channel is official.
+6. **If the “required form” is a UK Electronic Travel Authorisation (ETA):**  
+   Use the GOV.UK ETA service (and the official “UK ETA” app if you’re using the app route). If you still cannot apply due to a technical issue and travel is imminent, use the GOV.UK “Contact UKVI” tool to reach the correct support route for ETA/service problems.  
+7. **If the “required form” is access to your UK digital status (eVisa/share code) and the system won’t work:**  
+   Use GOV.UK “Report an error with your eVisa” if you cannot view your eVisa, cannot generate a share code, or hit a technical error while signed in.
+8. **Build a border-ready pack (offline).**  
+   Bring printed/offline copies: passport biodata page, itinerary, accommodation/address, onward/return booking, and any partial application references. Keep screenshots available offline.
+9. **Choose the least-risk fallback early.**  
+   If the requirement is a hard entry condition and you cannot get confirmation, delaying travel (or rerouting) is usually safer than risking denied boarding or refusal of entry.
 
 ## What can wait
-- **You do not need to** keep refreshing the same page for hours; focus on contacting the airline and authority after your initial retry.
-- **You do not need to** start a formal insurance claim or refund request until you have confirmed you cannot travel; your priority is getting a "no-penalty" rebooking first.
-- **You do not need to** delete and recreate your UKVI account unless specifically instructed by a support agent.
+- You do not need to keep refreshing for hours—do one short retry window, then focus on airline + issuer support.
+- You do not need to decide refunds/insurance right now (preserve evidence first and avoid missing deadlines).
+- You do not need to rely on forums or social media for “workarounds” (they can’t authorize boarding or entry).
 
 ## Important reassurance
-System outages on government portals are common during peak travel windows and updates. While "No Permission, No Travel" rules are strict, carriers and authorities have internal "Carrier Support Hubs" to manage large-scale failures. Documenting your attempt to comply is your strongest protection against being blamed for the system's error.
+Official travel systems do go down and time out, especially during peaks. You’re dealing with a systems problem—not a personal failure. The safest approach is evidence, escalation to the airline (boarding gatekeeper), and escalation to the issuing authority (rule owner).
 
 ## Scope note
-This guide provides first-step stabilization for technical outages preventing form completion. It does not cover visa denials, legal appeals, or long-term immigration advice.
+These are first steps to prevent irreversible mistakes (denied boarding, refusal of entry, paying the wrong site). Later steps may involve rebooking, insurance, or formal complaints.
 
 ## Important note
-Airlines are legally required to deny boarding to passengers without a valid ETA or visa under 2026 UK enforcement rules. This guide is for informational purposes and does not guarantee boarding; the final decision rests with the airline and the border authorities of the destination country.
+This is general information, not legal advice. Entry and boarding rules vary by destination, airline, nationality, and route, and can change quickly. When in doubt, treat the airline and the destination authority as the decision-makers on what is acceptable during an outage.
 
 ## Additional Resources
-- https://www.gov.uk/foreign-travel-advice
-- https://www.gov.uk/guidance/foreign-travel-checklist
-- https://www.abta.com/tips-and-advice/planning-and-booking-a-holiday/passports-and-visas
+- https://www.gov.uk/eta
 - https://www.gov.uk/contact-ukvi-inside-outside-uk
-- https://www.gov.uk/uk-border-control/before-you-leave-for-the-uk
+- https://www.gov.uk/evisa/report-error-evisa
+- https://www.gov.uk/government/news/uk-enforces-digital-permission-to-travel
+- https://homeofficemedia.blog.gov.uk/electronic-travel-authorisation-eta-factsheet-february-2026/
+- https://commonslibrary.parliament.uk/research-briefings/cbp-10097/

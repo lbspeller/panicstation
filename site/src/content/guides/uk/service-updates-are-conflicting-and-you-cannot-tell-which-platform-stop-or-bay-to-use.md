@@ -1,91 +1,78 @@
----
+﻿---
 title: "What to do if… service updates are conflicting and you cannot tell which platform, stop, or bay to use"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "conflicting service updates"
-  - "platform confusion"
-  - "wrong platform worry"
-  - "which platform do i use"
-  - "which stop do i use"
-  - "which bay do i use"
-  - "departure board mismatch"
-  - "app says different platform"
-  - "train platform changed"
-  - "bus stop not sure"
-  - "live departures confusing"
-  - "disrupted service uncertainty"
-  - "station signage unclear"
-  - "multiple stops same route"
-  - "last minute platform change"
-  - "rail replacement confusion"
-  - "missed connection panic"
-  - "where to wait at station"
-  - "which side of station"
-  - "what do i do if my platform changed"
-  - "what do i do if the app is wrong"
-  - "what do i do if station screens are blank"
-  - "what do i do if i am on the wrong platform"
-  - "help i cannot find my train"
-  - "help i am at the wrong bus stop"
-  - "my train is not on the board"
-  - "my bus bay is wrong"
-  - "smell of diesel at bus station"
-  - "crowds moving to different platform"
-  - "station announcements inaudible"
-  - "live train tracker conflict"
-  - "national rail app platform error"
-  - "tfl status mismatch"
-last_reviewed: "2026-03-17"
+  - conflicting service updates
+  - platform confusion
+  - wrong platform worry
+  - which platform do i use
+  - which stop do i use
+  - which bay do i use
+  - departure board mismatch
+  - app says different platform
+  - train platform changed
+  - bus stop not sure
+  - live departures confusing
+  - disrupted service uncertainty
+  - station signage unclear
+  - multiple stops same route
+  - last minute platform change
+  - rail replacement confusion
+  - missed connection panic
+  - where to wait at station
+  - which side of station
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… service updates are conflicting and you cannot tell which platform, stop, or bay to use (UK)
 
 ## Short answer
-Stop walking, move behind the yellow safety line, and treat the on-site station screens and staff announcements as the final authority over any mobile app. If information still conflicts, use a station Help Point or ask a member of staff before boarding.
+Stop walking, move behind the marked safety line, and trust the station’s live departure screens and announcements over third-party apps. If anything still conflicts, ask staff before you board.
 
 ## Do not do these things
-- Don't run across platforms or between bus bays while checking your phone.
-- Don't stand near the platform edge to look for the train headlamps; stay behind the yellow line.
-- Don't board a service to "ask the guard" if you are unsure it is the correct one, as it may be a non-stop service or heading to a different branch.
-- Don't assume a mobile push notification is more current than the station's Customer Information System (CIS).
-- Don't follow a crowd blindly; they may be heading for a different service that was announced on a separate screen.
+- Don’t run for a train/bus while you’re unsure which one it is.
+- Don’t stand near the platform edge “just in case” — move behind the marked safety line while you figure it out.
+- Don’t board a train “to check” unless you’re confident it’s the right service.
+- Don’t assume a push notification is still correct — platforms and stopping arrangements can change at short notice.
+- Don’t skip buying/collecting the right ticket because you feel rushed (that can create problems later).
 
 ## What to do now
-1. **Physically pause in a neutral zone away from the edge.** **Step away from the yellow line or bus kerb and find a stationary spot against a wall or pillar for 30 seconds to re-orient.**
-2. **Consult the station’s live departure screens as the primary "source of truth".** **Ignore third-party apps for the next minute and focus exclusively on the main concourse or platform boards.**
-   - Confirm the **departure time**, **final destination**, and **calling points** (intermediate stops) match your intended route.
-   - Look for the "Status" column; if it says "Check Front of Train" or "See Announcements," do not board until you hear a verbal confirmation.
-3. **Use a station Help Point if no staff are visible on the platform.** **Press the 'Information' button (usually green or blue) on the yellow or silver emergency/info pedestals found on most UK platforms.**
-   - State your intended destination and the time of the service you are looking for.
-   - Ask: "The app and the screen are showing different platforms; which one is confirmed?"
-4. **Verify the train's destination on the side-of-carriage displays before stepping on.** **Look for the digital screens located next to the doors on the exterior of the train.**
-   - Check that the destination shown on the train matches the one on the platform screen.
-   - If the train is already at the platform and screens are blank, wait for the internal or external automated announcement.
-5. **Cross-reference with the National Rail "Live Departures" tool or TfL Go if screens are blank.** **Only use official network tools if the physical station infrastructure has failed.**
-   - For mainline rail, use the National Rail Enquiries website or app.
-   - For London Underground or DLR, use the TfL Go app, but prioritize the platform "next train" indicators.
-6. **Confirm the bay number and destination at bus or coach stations.** **Check the digital display at the top of the bus stand or the front of the vehicle before boarding.**
-   - If the bus bay has changed, the driver will usually have the final confirmation of the route number and destination on their dashboard or external blind.
-7. **Accept a missed departure to ensure safety.** **If the confusion persists at the moment the doors are closing, let the service go.**
-   - It is safer to re-plan a journey from a known location than to board an unknown service that may take you to a destination without onward travel or where your ticket is invalid.
+1. **Physically pause in a safe spot.** Step away from the platform edge or kerb and stop moving for 20–30 seconds so you don’t get pulled into a wrong, irreversible choice.
+2. **Use the station’s “source of truth”: the live boards + announcements.**  
+   - Find the **live departures** screens for *your direction/destination*.  
+   - Match **three things** before you move: **destination**, **departure time**, and a **train identifier** (often a service description and/or calling points).  
+   - If the screen and the announcements don’t match yet, treat it as “not confirmed”.
+3. **Check the official network tool (not a random app).**  
+   - For mainline rail, National Rail live departures/arrivals can show real-time running and (where provided) platform information for a specific station.  
+   - For London services, use **TfL’s official status/journey tools** for disruption context — but still defer to **on-site signage/announcements** for the final platform/line.
+4. **If there’s any conflict, ask staff before boarding.** Use a staffed help point, information desk, gateline staff, or platform staff and say:  
+   - “I’m trying to take the **[time]** to **[destination]** — which platform is it actually leaving from now?”  
+   If no staff are visible, move to where you can hear announcements clearly and re-check the boards.
+5. **If you’re at a bus station with bays/stands:**  
+   - Use the **stand/bay screen** (route + destination), not just the route number.  
+   - When the vehicle arrives, confirm the **front/side display** and (if unsure) ask the driver: “Is this going to **[destination/terminus]**?”
+6. **Choose safety and certainty over speed.** If you are not sure at the moment of boarding, **let it go** and re-check. One missed departure is usually fixable; getting on the wrong service can cascade quickly.
+7. **Protect yourself on fares/tickets during disruption (without escalating anything).** If ticket facilities are available, try to buy/validate/collect **before** boarding. If facilities are unavailable and you can’t do that, **make a quick note** (or a photo **only if safe and permitted**) and speak to staff as soon as you can.
 
 ## What can wait
-- You do not need to decide on a compensation claim (Delay Repay) while still on the platform.
-- You do not need to figure out why the app failed or report the software bug right now.
-- You do not need to worry about ticket validity if the confusion is caused by a documented service disruption; staff have the discretion to allow travel on the next available service in these cases.
+- You do **not** need to decide the “best” reroute right now.
+- You do **not** need to argue with an app or refresh five different sources.
+- You do **not** need to claim compensation or refunds while you’re still trying to board the correct service.
 
 ## Important reassurance
-Conflicting information during service disruption is a known systemic issue in the UK transport network. Feeling confused or hesitant is a logical response to a technical failure. Pausing to seek a verbal confirmation from a human or a Help Point is the most effective way to prevent a boarding error.
+Conflicting updates are common during disruption and last-minute platform changes. Pausing, checking one authoritative display, and asking staff is a normal, sensible response.
 
 ## Scope note
-This guide provides first-step stabilization for immediate boarding decisions and physical safety at stations. It does not cover long-term service complaints, accessibility booking failures, or legal disputes regarding fare evasion.
+These are first steps to prevent a wrong boarding decision and keep you safe. Once you’re stable (or on the right service), you can look at alternative routes, accessibility needs, or follow-up claims.
 
 ## Important note
-This information is for general guidance during transit confusion and does not replace the instructions of station staff, British Transport Police, or emergency services. Transport operators vary in how they update live data; always prioritize on-site safety markings and verbal instructions over digital displays.
+This is general information, not legal advice. Rail and bus operations vary by operator and station, and disruption can change rapidly; when in doubt, follow on-site instructions and staff guidance.
 
 ## Additional Resources
-- https://www.nationalrail.co.uk/status-and-disruptions/
-- https://www.nationalrail.co.uk/live-trains/
-- https://www.nationalrail.co.uk/stations/
-- https://www.traveline.info/
-- https://tfl.gov.uk/travel-information/stations-stops-and-piers/
+- https://www.nationalrail.co.uk/help-and-assistance/how-to-use-live-departures-and-arrivals/
+- https://www.nationalrail.co.uk/
+- https://www.networkrail.co.uk/who-we-are/safety-in-the-community/station-safety/
+- https://www.orr.gov.uk/guidance-compliance/rail/health-safety/passenger-safety/station-and-platform-safety
+- https://tfl.gov.uk/tube-dlr-overground/status/
+- https://tfl.gov.uk/help-and-contact/contact-us-about-tube-and-rail

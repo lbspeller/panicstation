@@ -1,99 +1,96 @@
----
+﻿---
 title: "What to do if… your computer suddenly will not start and you need files that were only stored on it"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "contacts list filled with strangers"
-  - "unknown contacts suddenly appearing"
-  - "random names in contacts"
-  - "iphone contacts changed overnight"
-  - "android contacts suddenly changed"
-  - "icloud contacts look wrong"
-  - "google contacts weird entries"
-  - "microsoft account contacts changed"
-  - "sync imported unknown contacts"
-  - "address book suddenly changed"
-  - "contacts duplicated and corrupted"
-  - "new contacts i dont recognize"
-  - "account takeover check"
-  - "contact sync loop"
-  - "random numbers in address book"
-  - "help i have random contacts on my phone"
-  - "help i have unknown entries in my list"
-  - "what do i do if my contacts list is full of strangers"
-  - "what do i do if unknown names appeared in contacts"
-  - "what do i do if random contacts synced to my iphone"
-  - "what do i do if strangers are in my google contacts"
-  - "my contacts list is corrupted"
-  - "my address book has random names"
-  - "my phone added strangers to contacts"
-  - "my cloud contacts are wrong"
-  - "strange email addresses in contacts"
-  - "unknown contact names"
-  - "random entries appearing"
-  - "contacts list sync error"
-  - "unrecognized people in phonebook"
-last_reviewed: "2026-03-17"
+  - computer won't start
+  - pc won't boot
+  - laptop won't turn on
+  - computer not powering on
+  - black screen on startup
+  - stuck on boot screen
+  - need files urgently
+  - files trapped on computer
+  - only copy on device
+  - hard drive recovery
+  - ssd recovery
+  - get files off dead laptop
+  - windows bitlocker recovery key
+  - mac target disk mode
+  - share disk macos recovery
+  - usb sata adapter enclosure
+  - power outage then won't start
+  - spill drop then won't boot
+  - important documents on computer
+  - photos only on laptop
+  - work files on broken computer
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your computer suddenly will not start and you need files that were only stored on it (USA)
 
 ## Short answer
-Disable contact syncing for your primary accounts immediately to prevent further changes, then use the "Restore" or "Undo" features on your provider's web dashboard to roll back to a clean version.
+Don’t reset or reinstall anything yet. Your safest first goal is to copy the files out (via another computer, Target Disk Mode/Share Disk on Mac, or a reputable recovery service) before you try to “fix” the computer.
 
 ## Do not do these things
-- Don't start deleting entries one by one — you may accidentally remove your legitimate contacts or overwrite the "Undo" window.
-- Don't interact with the unknown entries — calling, texting, or emailing unrecognized numbers can confirm your account is active to spammers.
-- Don't install "contact cleaner" or "duplicate remover" apps — these often require full access to your data and may be the source of the problem.
-- Don't ignore "Security Info Changed" or "New Sign-in" emails — if these arrived around the same time as the contact changes, treat this as a confirmed account compromise.
+- Don’t use “Reset this PC”, “Reinstall”, “Factory reset”, or similar options if your priority is the files.
+- Don’t install recovery tools onto the same drive you’re trying to rescue.
+- Don’t keep attempting dozens of restarts for hours — it can make some failures worse.
+- Don’t open the drive casing or try risky DIY tricks (freezing, tapping, etc.).
+- Don’t hand it to a shop/warranty repair without confirming (in writing) whether they will wipe/replace storage.
 
 ## What to do now
-1. **Pause contact syncing immediately.**
-   - Go to your device settings (Settings > Mail/Contacts > Accounts on iPhone, or Settings > Google/Accounts on Android).
-   - Locate your primary accounts (iCloud, Google, Outlook, or Work).
-   - Toggle the **Contacts** switch to **OFF**.
-   - If prompted, select **Keep on My iPhone/Device** to ensure you don't lose the data currently visible while you work.
+1. **Pause and document symptoms (30–60 seconds).**  
+   Note lights/fans, any beeps, any error message, and whether it reaches a logo. Photograph any error screen. Write down what happened just before (drop, spill, update, power outage).
 
-2. **Identify the source of the bad data.**
-   - Log into your account providers via a web browser (iCloud.com, contacts.google.com, or outlook.live.com).
-   - Check if the unknown entries appear on the web version.
-   - If they are only on your phone, a recently installed app or a new sync profile (like a work/school MDM) is likely the cause.
-   - If they are on the web, your cloud account has been modified directly.
+2. **Do only low-risk checks that don’t write to the drive.**  
+   Disconnect all peripherals (USB devices, docks, external drives). Try a different power outlet/charger if easily available. If it still won’t start, stop troubleshooting and switch to file-first steps.
 
-3. **Secure the syncing account.**
-   - **Change your account password** immediately if you suspect unauthorized access.
-   - Check the **Authorized Devices** or **Recent Activity** list in your account security settings.
-   - Sign out of any devices you do not recognize.
-   - Ensure **Two-Factor Authentication (2FA)** is enabled and that the recovery phone number/email is still yours.
+3. **Check for hidden backups before touching the disk.**  
+   On your phone/another computer, check: OneDrive, iCloud Drive, Google Drive, Dropbox, email attachments, and any work/school cloud storage.
 
-4. **Roll back changes using official recovery tools.**
-   - **For iCloud:** Go to iCloud.com, click the menu button (grid icon), select **Data Recovery**, and click **Restore Contacts**. Choose a version from before the names appeared.
-   - **For Google Contacts:** On the web interface, click the **Settings (gear icon)** and select **Undo changes**. Select a timeframe (up to 30 days ago) to revert the entire list.
-   - **For Microsoft/Outlook:** In the "People" view on the web, check the **Deleted** folder. If empty, click **Recover deleted** at the top of the list to find items removed by a sync error or third party.
+4. **If it’s a Mac and it powers on: try Target Disk Mode / Share Disk to copy files out.**  
+   - **Intel Mac:** you can use **Target Disk Mode** so it appears like an external drive on another Mac.  
+   - **Apple silicon Mac:** you may be able to start into **macOS Recovery** and use **Share Disk** to access it from another Mac.  
+   Copy the most important folders first.
 
-5. **Export a clean backup once restored.**
-   - After the list is clean, use the **Export** function on the web dashboard to save a .vcf or .csv file to your computer as a permanent safeguard.
+5. **If Mac disk-sharing isn’t an option: try to access the internal drive from another computer (file-first).**  
+   - **Desktop:** remove the internal drive and connect it to another computer using a USB-to-SATA adapter or external enclosure.  
+   - **Laptop:** only attempt drive removal if you can do it safely and confidently; otherwise skip to step 7.  
+   If the drive shows up, copy the most important folders first (work/docs/photos), then the rest.
 
-6. **Report suspected fraud if personal data was accessed.**
-   - If you found evidence of a full account takeover, file a report with the **FBI Internet Crime Complaint Center (IC3)**.
-   - Use the **FTC Identity Theft** portal if you believe your Social Security number or financial details were also compromised.
+6. **Plan for encryption (don’t get stuck).**  
+   - **Windows:** the drive may be protected by **BitLocker** and require a recovery key (often saved to your Microsoft account, or held by your employer/school for managed devices).  
+   - **Mac:** the drive may be protected by **FileVault** and require the login password or a recovery key.  
+   If you can’t locate the key quickly, stop guessing and move to step 7.
+
+7. **If the drive isn’t detected, or you hear clicking/grinding, or the files are critical: power off and go pro.**  
+   Turn it off and contact a reputable data-recovery provider. Explain: device type, what it’s doing (no power / boot loop / noises), and that you need **file recovery** and want to avoid wiping.
+
+8. **If you’re within warranty/return windows: protect your position while protecting the data.**  
+   Contact the seller/manufacturer and ask (in writing) what their repair process does to customer data. Many standard repair flows **wipe or replace storage**. If you need the files, request a data-preserving approach (or retrieve/clone the drive first where appropriate).
+
+9. **If it’s a work/school device: contact IT before attempting drive removal.**  
+   Managed devices often have encryption and policies that make DIY recovery harder, and IT may already have backups or the recovery keys.
 
 ## What can wait
-- You do not need to factory reset your phone yet; most contact issues are account-syncing errors or profile injections.
-- You do not need to notify your contacts unless you see evidence that messages or emails were sent to them without your permission.
-- You do not need to manually delete the "bad" contacts on your phone if the web restore successfully overwrites them.
+- You don’t need to decide today whether to repair or replace the computer.
+- You don’t need to run system recovery tools until after you’ve tried a file-first copy-out.
+- You don’t need to organize or clean up files — get a safe copy first.
 
 ## Important reassurance
-Seeing strangers in your contacts is often caused by "sync bloat" — such as accidentally importing a massive work directory or a social media "find friends" feature — rather than a malicious hack. Even if your account was compromised, major providers like Apple and Google keep archives of your contacts specifically so you can undo these types of mass changes easily.
+This feels urgent, but the safest steps are usually simple: stop anything that could overwrite data, and shift from “make it boot” to “copy files out.” Many “won’t start” failures still leave the drive readable.
 
 ## Scope note
-This guide provides first-step stabilization for digital contact corruption and initial account security. It does not cover full device forensics or long-term identity monitoring if sensitive documents were stolen.
+This is first steps only, focused on reducing harm and maximizing the chance of retrieving files. Repairs, claims, and long-term backup planning come later.
 
 ## Important note
-This information is for situational stabilization and does not constitute professional IT security or legal advice. If your device is owned or managed by an employer, contact your internal IT helpdesk before removing any profiles, as doing so may revoke your access to work email or internal networks.
+This is general information, not professional technical or legal advice. If the data is valuable, sensitive, or irreplaceable, reducing risk by stopping DIY early and using reputable professional support is often the safest option.
 
 ## Additional Resources
-- https://support.microsoft.com/en-us/windows/windows-recovery-environment-0eb14733-6301-41cb-8d26-06a12b42770b
-- https://support.microsoft.com/en-us/windows/startup-repair-85deb0b9-fa3d-44a3-a3d0-d0f1515c2c9b
-- https://support.microsoft.com/en-us/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5
-- https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d
-- https://support.microsoft.com/en-us/windows/backup-restore-and-recovery-in-windows-e6d629c4-2568-4406-814f-209a2af06ef7
+- https://support.microsoft.com/en-us/windows/find-your-bitlocker-recovery-key-6b71ad27-0b89-ea08-f143-056f5ab347d6
+- https://support.apple.com/en-gb/guide/mac-help/mchlp1443/mac
+- https://support.apple.com/en-ie/guide/mac-help/mh35881/mac
+- https://support.apple.com/en-gb/guide/passwords/mchl307c4fa9/mac
+- https://consumer.ftc.gov/articles/warranties
+- https://consumer.ftc.gov/articles/extended-warranties-and-service-contracts

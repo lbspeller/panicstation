@@ -1,85 +1,73 @@
----
+﻿---
 title: "What to do if… your router resets unexpectedly and all your connected devices lose internet at once"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "email hacked"
-  - "account takeover"
-  - "unknown emails sent"
-  - "sent folder unknown messages"
-  - "spam sent to contacts"
-  - "email compromise"
-  - "mailbox rules changed"
-  - "email forwarding enabled"
-  - "strange bcc recipients"
-  - "mass email from my account"
-  - "someone using my email"
-  - "gmail hacked"
-  - "outlook hacked"
-  - "password stolen"
-  - "suspicious sign-in"
-  - "recovery email changed"
-  - "oauth app access"
-  - "phishing fallout"
-  - "what do i do if my email is sending spam"
-  - "what do i do if i see sent emails i didn't write"
-  - "what do i do if my sent folder is full of spam"
-  - "what do i do if someone is using my gmail"
-  - "help i think my email was hacked"
-  - "help i am sending emails i did not write"
-  - "help my outlook is sending junk"
-  - "help my email account was compromised"
-  - "unauthorized emails in sent folder"
-  - "hacked sent folder"
-  - "compromised mailbox"
-  - "unexpected outgoing mail"
-  - "sent messages i didn't send"
-  - "strange messages in sent box"
-last_reviewed: "2026-03-17"
+  - router reset unexpectedly
+  - wifi dropped all devices
+  - internet down suddenly
+  - home network offline
+  - router reboot loop
+  - modem router restart needed
+  - gateway restarted by itself
+  - all devices lost internet
+  - wifi connected no internet
+  - isp outage check
+  - router settings changed
+  - ssid changed after reset
+  - password stopped working
+  - broadband light not steady
+  - cable modem online light
+  - fiber ont connection loss
+  - home internet outage
+  - router factory reset worry
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your router resets unexpectedly and all your connected devices lose internet at once (USA)
 
 ## Short answer
-Isolate the account immediately by signing out all active sessions, running a malware scan on your devices, and updating your password and multi-factor authentication (MFA) settings to remove unauthorized access.
+Assume either an ISP outage or a router reboot/reset. Do one clean reboot sequence and check your ISP’s outage/status tool before changing Wi-Fi names, passwords, or settings.
 
 ## Do not do these things
-- Do not click any links or open any attachments within the unrecognized emails in your "Sent" folder.
-- Do not assume changing your password is sufficient, as attackers often maintain access through hidden forwarding rules or third-party app permissions.
-- Do not delete the unrecognized emails immediately, as they contain timestamps and recipient data required for official reporting.
-- Do not use the compromised account to notify others until you have confirmed you are the only one logged in.
-- Do not test the account's safety by sending sensitive personal information or passwords to yourself.
+- Don’t press and hold the router’s “RESET” button unless you intend a factory reset (it can erase your Wi-Fi name/password and custom settings).
+- Don’t keep unplugging/replugging repeatedly in a panic (it can delay reconnection and complicate support diagnostics).
+- Don’t change multiple network settings at once “to try things” (you can accidentally lock yourself out).
+- Don’t immediately distribute a new Wi-Fi password until you’re sure the router didn’t simply reboot.
 
 ## What to do now
-1. **If you are locked out, use the official recovery portal:** Navigate directly to the recovery page for your provider (such as Google’s Account Recovery or Microsoft’s Sign-in Helper) rather than clicking links in "security alert" emails.
-2. **Scan your primary devices for malware:** Run a full system scan using a reputable antivirus or the built-in Windows Security / macOS tool before typing new passwords, as a keylogger or infostealer on your device may have caused the initial breach.
-3. **Terminate all active sessions:** Locate the "security" or "recent activity" tab in your account settings and select **"Sign out of all other web sessions"** or **"Unlink all devices"** to kick the attacker out.
-4. **Update your password from a clean device:** Create a new, unique password of at least 16 characters that you have never used on any other website.
-5. **Enable or reset multi-factor authentication (MFA):** Set up an authenticator app or hardware security key; if MFA was already enabled, regenerate your backup codes, as the attacker may have stolen the existing ones.
-6. **Audit and purge hidden mailbox rules:** Check your "Rules," "Filters," or "Forwarding and POP/IMAP" settings for any instructions to automatically forward, archive, or delete incoming mail.
-7. **Revoke third-party app permissions:** Review the list of apps or websites with "OAuth" access to your account and remove any that you do not recognize or no longer use.
-8. **Secure connected high-stakes accounts:** Manually log in to your banking, tax, and primary social media accounts to update passwords and check for unauthorized recovery email changes.
-9. **Notify your immediate contacts through a different channel:** Send a text message or place a phone call to frequent contacts or coworkers to warn them not to open links sent from your email address during the time of compromise.
-10. **File official reports if personal data or funds were involved:**
-   - Report identity theft or PII exposure at **IdentityTheft.gov**.
-   - Report financial loss or business email compromise (BEC) to the FBI at **ic3.gov**.
+1. **Check for immediate household risks.** If phone service, security/monitoring, medical alert devices, work VPN, or smart locks depend on your internet, assume they may be offline. Use a mobile phone as your call backup and tell others in the home.
+2. **Look at the modem/ONT and router lights (two boxes matter if you have them).** If they look like they’re still booting/connecting, give them a few minutes to finish before intervening.
+3. **Do one clean reboot sequence (not factory reset).**  
+   - If you have separate modem/ONT and router: power off both, wait at least ~30–60 seconds, then power on the **modem/ONT first**. When it looks stable, power on the router and let it fully boot.
+4. **Use your ISP’s official outage/status tool before you change settings.** Many ISPs show outages and run tests in their app/website (often under “Outage,” “Service status,” or “Troubleshoot”). If there’s a known outage, stop troubleshooting and note when it started.
+5. **Check whether your router actually factory-reset.** Common signs:  
+   - Your usual Wi-Fi name disappeared/changed.  
+   - Your password stopped working.  
+   - The Wi-Fi name/password now match the sticker on the router/gateway (default details).
+6. **Test one device directly if you can.** If possible, connect a laptop/PC by Ethernet to the router. If wired also has no internet, it points to the ISP link/modem/ONT side rather than Wi-Fi only.
+7. **If service still isn’t back, contact your ISP support with a tight summary.**  
+   - “Router reset/rebooted unexpectedly; all devices dropped at once at (time); I did one reboot sequence; outage tool shows (result).”  
+   Ask them to check whether your modem/ONT shows as online from their side and whether they see errors/resets.
+8. **If you need internet right now, use a temporary fallback.** Use a phone hotspot for essentials. Avoid major account/password changes while the home connection is unstable.
 
 ## What can wait
-- You do not need to notify every single recipient of the spam today; prioritize those you share sensitive data with.
-- You do not need to determine the exact origin or geographic location of the attacker.
-- You do not need to close the account permanently unless your provider or a security professional advises it after your audit.
+- You don’t need to decide right now whether to buy new equipment or change providers.
+- You can postpone advanced steps (factory reset, firmware updates, mesh reconfiguration) until you’ve confirmed outage status and spoken to the ISP if needed.
+- You don’t need to reconnect every device immediately—get one device online first, then expand.
 
 ## Important reassurance
-Seeing unrecognized mail in your "Sent" folder is a standard indicator of an account takeover, but it is a situation that can be stabilized. Once you have cleared sessions, updated credentials, and removed automated rules, the attacker’s ability to use your identity generally stops immediately.
+When every device drops at once, it’s often a normal ISP outage or a routine equipment reboot/update rather than something you “caused.” A single calm reboot plus an outage check reduces the chance of making it worse.
 
 ## Scope note
-This guide provides first-step stabilization for a compromised personal or small-business email account. It does not cover deep forensic investigation or enterprise-level network incident response.
+These are first steps to stabilize, confirm whether it’s an outage vs. a local equipment issue, and prevent irreversible mistakes. Repeated resets may require ISP diagnostics or a hardware replacement later.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional cybersecurity advice. For ongoing financial fraud, contact your bank’s fraud department immediately. For large-scale data breaches affecting an organization, consult with a certified IT security professional.
+This is general information, not professional or ISP-specific advice. If you rely on internet for safety or care devices, treat any outage as time-sensitive and contact your provider promptly.
 
 ## Additional Resources
-- https://consumer.ftc.gov/how-secure-your-home-wi-fi-network
-- https://consumer.ftc.gov/articles/securing-your-internet-connected-devices-home
-- https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers
-- https://consumer.ftc.gov/consumer-alerts/2024/08/five-ways-keep-scammers-hackers-away
-- https://support.google.com/fi/answer/6183600
+- https://www.fcc.gov/home-network-tips
+- https://www.spectrum.net/support/internet/troubleshooting-your-spectrum-services-after-outage
+- https://www.xfinity.com/support/articles/check-service-outage
+- https://www.att.com/support/article/u-verse-high-speed-internet/KM1010340/
+- https://www.verizon.com/support/residential/service-outage

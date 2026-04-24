@@ -1,107 +1,90 @@
----
+﻿---
 title: "What to do if… you are told not to contact someone as part of an investigation and you share responsibilities with them"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - "no contact order shared kids"
-  - "pretrial release no contact"
-  - "protective order shared bills"
-  - "how to co-parent with no contact order"
-  - "help i have a no contact order and kids"
-  - "what do i do if i cant contact my co-parent"
-  - "restraining order shared housing"
-  - "bond conditions third party contact"
-  - "indirect contact violation"
-  - "shared responsibility no contact"
-  - "pretrial services no contact rules"
-  - "court ordered communication app"
-  - "ourfamilywizard no contact order"
-  - "talkingparents no contact order"
-  - "accidental no contact violation"
-  - "help i share a bank account with a no contact person"
-  - "my ex is protected party no contact"
-  - "no contact order school pickup"
-  - "emergency contact no contact order"
-  - "stay away order shared duties"
-  - "non-contact investigation shared work"
-  - "victim contact response rules"
-  - "witness contact prohibition"
-  - "temporary protective order logistics"
-  - "modifying no contact for kids"
-  - "no contact order childcare"
-  - "what do i do if they text me no contact"
-  - "sharing bills with no contact order"
-  - "prohibited contact third party"
-last_reviewed: "2026-03-17"
+  - told not to contact someone
+  - no contact order
+  - court ordered no contact
+  - bond condition no contact
+  - pretrial release conditions
+  - indirect contact counts
+  - third party contact prohibited
+  - avoid contacting alleged victim
+  - avoid contacting witness
+  - shared responsibilities
+  - co-parenting with no contact
+  - shared bills and housing
+  - property retrieval restrictions
+  - workplace investigation no contact
+  - document messages and calls
+  - motion to modify conditions
+  - pretrial services compliance
+  - do not discuss the case
+  - avoid accidental violation
+  - preserve texts voicemails
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you are told not to contact someone as part of an investigation and you share responsibilities with them (USA)
 
 ## Short answer
-Cease all direct and indirect communication immediately and route all necessary logistical coordination through a court-approved third party, legal counsel, or a monitored, court-recognized communication platform.
+Stop all contact immediately (including indirect contact) and move shared responsibilities to a court-approved or case-officer-approved channel, usually through your attorney and any supervising pretrial agency.
 
 ## Do not do these things
-- Do not send "logistics only" texts or emails unless your specific order explicitly permits this channel for that purpose.
-- Do not use friends, family members, or children to pass messages, as this usually constitutes a "third-party contact" violation.
-- Do not respond to any contact initiated by the other person, even if it is an emergency or an apology.
-- Do not tag the person in social media posts or interact with their digital content.
-- Do not allow automated notifications (e.g., shared Google Calendars, Venmo notes, or smart-home alerts) to send messages to the person.
-- Do not "stop by" shared locations like a school, daycare, or office if your order includes a stay-away distance (e.g., 100 yards).
+- Do not call, text, email, DM, or “only talk about the kids/bills” unless you have explicit authorization.
+- Do not use friends/family/co-workers to pass messages — many orders treat that as indirect contact.
+- Do not discuss facts of the case, compare stories, or try to persuade them to do or say anything.
+- Do not show up where you might run into them (home, work, school pickup) unless a plan has been approved.
+- Do not assume “they contacted me first” makes it safe to respond.
 
 ## What to do now
-1. **Locate and read the physical copy of your No-Contact Order or Bond Conditions.**
-   **Identify the specific restricted parties and the exact scope of the "no contact" language.**
-   - Determine if there are "exceptions" for "brief and peaceful contact" regarding minor children.
-   - Check for "stay-away" provisions that specify a distance from the person's home, job, or vehicle.
-   - Confirm if "indirect contact" (social media, third parties) is specifically prohibited.
+1. **Identify exactly what the restriction is and get the written terms.**  
+   Confirm whether it’s a judge’s **no-contact/protective order**, a **bond/pretrial release condition**, a probation/parole/prison restriction, or an employer/institution investigation directive. Ask your attorney (or the court/pretrial office) for a copy if you don’t have it.
 
-2. **Notify your attorney immediately about the shared responsibilities.**
-   **Tell your lawyer exactly what logistics must be handled in the next 48 hours.**
-   - Provide a list of time-sensitive items such as childcare handoffs, rent/mortgage due dates, or pet care.
-   - Ask the attorney to contact the other party’s counsel or the prosecutor to establish a temporary, compliant "logistics bridge."
+2. **Write down the boundaries in plain language (for you).**  
+   Note: who you cannot contact, whether it includes indirect/third-party contact, whether it covers social media, and any distance/location restrictions.
 
-3. **Disable all shared digital triggers and automated alerts.**
-   **Turn off notifications on shared accounts to prevent accidental contact through apps.**
-   - Unshare digital calendars or move your entries to a private view.
-   - Remove the person from shared "find my" or location-sharing services.
-   - Set shared banking or payment apps to "private" so transactions do not trigger social notifications.
+3. **Make a “shared responsibilities” list for the next 7–14 days.**  
+   Keep it practical and time-sensitive:
+   - childcare/school pickups, medical appointments, medication refills  
+   - rent/mortgage, utilities, insurance deadlines  
+   - access to a shared home, keys, essential items, vehicles  
+   - work handoffs and access to shared accounts
 
-4. **Propose the use of a court-monitored communication platform.**
-   **Request that your attorney move child-related or financial coordination to an uneditable, transparent app.**
-   - Common US court-recognized tools include OurFamilyWizard or TalkingParents.
-   - These platforms create a permanent record for the court and help prevent "he-said, she-said" disputes.
+4. **Use the official route to get a compliant logistics plan (don’t improvise).**  
+   Tell your **attorney** you need a way to handle essential logistics without violating conditions. Depending on the court/jurisdiction, that may involve asking the court to **amend/modify conditions of release** or getting clarity from the supervising **pretrial services** / case officer about permitted third-party logistics. Keep requests narrowly focused on practical necessities (not the case facts).
 
-5. **Establish a neutral third-party "exchange" protocol.**
-   **Use a professional or agreed-upon intermediary for physical handoffs of items or children.**
-   - This may involve a "curbside" pickup at a police station or a neutral relative who is not involved in the case.
-   - Ensure the third party understands they cannot relay personal messages or case information.
+5. **Set up logistics without direct contact (only in an authorized way).**  
+   Common compliant structures (when permitted) include:
+   - attorney-to-attorney communications for logistics only
+   - a neutral third party handling exchanges (named and documented)
+   - scheduled property pickup arranged through counsel/court, sometimes with law enforcement standby where allowed
+   - school/childcare exchanges arranged to avoid direct contact at handoff  
+   Use only what your attorney/case officer confirms is allowed under your specific order/conditions.
 
-6. **Preserve every attempted contact from the other party without replying.**
-   **Screenshot and save all incoming calls, texts, or third-party reaches.**
-   - Do not delete "baiting" or aggressive messages; they are evidence that you are the compliant party.
-   - Send these records to your attorney immediately to document that you are adhering to the order.
+6. **If they contact you, do not respond — preserve and report.**  
+   Save screenshots/voicemails, note time/date, and tell your attorney (and your supervising pretrial agency/case officer if applicable). A “no reply + document + report” pattern protects you.
 
-7. **File a Motion to Modify Conditions if the current rules are unworkable.**
-   **Have your attorney ask the judge for a specific "carve-out" for essential responsibilities.**
-   - Judges can often amend orders to allow for "contact via [Specific App] for the sole purpose of co-parenting."
-   - Never assume an "agreement" with the other person is enough; only a judge's signature can change the order.
+7. **If there’s an immediate safety emergency, use emergency services — not contact.**  
+   If you or someone else is in immediate danger, call **911**. For urgent child safety concerns, use appropriate official channels rather than contacting the person directly.
 
 ## What can wait
-- You do not need to finalize a long-term separation or divorce agreement today.
-- You do not need to explain the legal situation to mutual friends or extended family.
-- You do not need to determine who "owns" shared property until the immediate investigation/court phase stabilizes.
+- You do not need to resolve the relationship, housing arrangement, or long-term co-parenting plan right now.
+- You do not need to “set the record straight” with them.
+- You do not need to decide today whether to challenge the restriction — first make sure you do not violate it.
 
 ## Important reassurance
-It is normal to feel paralyzed when "doing nothing" is the legal requirement but "doing something" is a life necessity. The legal system recognizes that life doesn't stop during an investigation, but it requires that coordination move into a documented, transparent channel. Following the rules strictly now is the fastest way to earn the court's trust for a future modification.
+When you share responsibilities, “no contact” can feel impossible. You’re not expected to solve everything immediately — you’re expected to avoid risky contact and move coordination onto a compliant, documented track.
 
 ## Scope note
-This guide provides first-step stabilization for civil or criminal "no contact" orders in the United States. It does not replace the advice of a licensed attorney or the specific instructions provided by a Pretrial Services officer.
+These are first steps to prevent accidental violations and stabilize practical logistics. Longer-term decisions (legal strategy, family arrangements, employment issues) may require a qualified attorney or specialist services.
 
 ## Important note
-Violating a no-contact order is a separate criminal offense in most states, often resulting in the immediate revocation of bond and re-arrest. The "protected party" cannot "give you permission" to break the order; only the issuing court has that authority.
+This is general information, not legal advice. No-contact rules and penalties vary by jurisdiction and by the exact order/conditions. If anything is unclear, assume indirect contact is included and get guidance from your attorney or supervising agency before you take action.
 
 ## Additional Resources
-- https://www.nlrb.gov/news-outreach/news-story/general-counsel-abruzzo-issues-memo-on-harmonizing-the-nlra-and-eeo-laws
-- https://www.nlrb.gov/news-outreach/news-story/board-approves-greater-confidentiality-in-workplace-investigations
-- https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/weingarten-rights
-- https://www.eeoc.gov/facts-about-retaliation
-- https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/interfering-with-employee-rights-section-7-8a1
+- https://www.law.cornell.edu/uscode/text/18/3142
+- https://www.law.cornell.edu/uscode/text/18/3148
+- https://www.justice.gov/archives/jm/criminal-resource-manual-26-release-and-detention-pending-judicial-proceedings-18-usc-3141-et
+- https://www.uscourts.gov/file/696/download

@@ -1,97 +1,95 @@
----
+﻿---
 title: "What to do if… someone you care about is taken into custody and you are asked to arrange support or collect belongings"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "someone arrested"
-  - "in police custody"
-  - "taken into custody"
-  - "custody suite"
-  - "police station detention"
-  - "collect belongings from police"
-  - "pick up property from police station"
-  - "property held by police"
-  - "seized property return"
-  - "arrest property receipt"
-  - "support after arrest"
-  - "duty solicitor"
-  - "legal advice in custody"
-  - "family member detained"
-  - "friend detained"
-  - "prison transfer belongings"
-  - "property in prison"
-  - "hand out property on visits"
-  - "where is my loved one held"
-  - "collecting keys phone wallet"
-  - "what do i do if someone is arrested"
-  - "what do i do if police have my keys"
-  - "what do i do if my friend is in jail"
-  - "what do i do if i need to collect property from station"
-  - "help i need to get my phone from the police"
-  - "help i need to pick up belongings from custody"
-  - "help i dont know where they are being held"
-  - "help i need a prison number"
-  - "smell of police station"
-  - "blue lights at home"
-  - "locked cell door"
-  - "police property bag"
-  - "prison volumetric control box"
-  - "property card signature"
-  - "police station 101"
-  - "property collection hours"
-last_reviewed: "2026-03-17"
+  - someone arrested
+  - in police custody
+  - taken into custody
+  - custody suite
+  - police station detention
+  - collect belongings from police
+  - pick up property from police station
+  - property held by police
+  - seized property return
+  - arrest property receipt
+  - support after arrest
+  - duty solicitor
+  - legal advice in custody
+  - family member detained
+  - friend detained
+  - prison transfer belongings
+  - property in prison
+  - hand out property on visits
+  - where is my loved one held
+  - collecting keys phone wallet
+last_reviewed: "2026-03-06"
 ---
-# What to do if… someone you care about is taken into custody and you are asked to arrange support or collect belongings (UK)
 
+# What to do if… someone you care about is taken into custody and you are asked to arrange support or collect belongings (UK)
 ## Short answer
-Confirm the specific location and the person's unique reference number, then wait for explicit authorisation from the custody officer or prison property office before travelling to collect or deliver any items.
+First, confirm *where they are being held* and ask what the official process is for releasing property to you—don’t travel to a station or prison “just in case” without authorisation and clear instructions.
 
 ## Do not do these things
-- Don't travel to a police station or prison without a confirmed appointment or "ready for collection" notification; you will likely be refused entry or service.
-- Don't attempt to deliver medication that is not in its original, pharmacy-labeled packaging with the person's name visible.
-- Don't discuss the details of the alleged offence or the investigation with staff; they are not the investigators and your comments could be recorded.
-- Don't assume you can "hand in" property at a prison visit; most prisons require items to be sent via approved retailers or through a strict postal application process.
-- Don't take or accept property from an arrest scene if you are unsure of its ownership or if it appears to be evidence.
+- Don’t argue details of the alleged offence with staff or try to “explain it away” over the phone; focus on immediate welfare and logistics.
+- Don’t assume you can collect belongings on arrival; custody suites **usually** require the person to nominate you (or a set process) and you may be turned away without it.
+- Don’t accept loose items (cash, cards, phones, keys) from strangers at the scene without documenting what you received and from whom.
+- Don’t send property into a prison (clothes, phones, toiletries) before checking that prison’s rules—many items will be refused, stored, or returned.
+- Don’t post about the arrest online or message lots of people for “help”; it can create avoidable complications and stress.
 
 ## What to do now
-1. **Identify the holding facility and obtain the correct reference number.**  
-   **Call 101 if you are unsure where they are held and ask for the custody suite location.** For those in police custody, ask for the **Custody Reference**; if they have been moved to prison, you must ask for their **Prison Number** (typically one letter, four numbers, two letters).
+1. **Confirm the holding location and status (police station vs court vs prison).**  
+   If you don’t know where they are, use **101** (or the police force’s published non-emergency number) and ask which custody suite has them. If you *do* know the station, ask for the **custody desk/custody sergeant** and confirm: their name/DOB (if requested), whether they’re still there, and whether they can authorise/note a property release to you.
 
-2. **Establish the "Property Status" with the custody officer or property clerk.**  
-   **Ask specifically which items are "personal property" for release and which have been "seized as evidence" under PACE.** Evidence items will not be released until the investigation or trial is concluded; personal property (keys, wallet, standard clothing) can usually be released to a "nominated person" once the detainee signs an authorisation.
+2. **Ask for the reference you’ll need and whether there’s a property record.**  
+   Ask for (or note) any **custody reference/number** staff can share, and ask: “Is their property logged on a property sheet/record, and is anything being kept as evidence?”
 
-3. **Confirm the identity and documentation requirements for collection.**  
-   **Verify exactly what ID you must present and whether a physical "Property Release Form" or a digital note on the custody record is required.** Most suites require at least one form of photo ID (Passport / Driving Licence) and will not release items to anyone not explicitly named by the detainee.
+3. **Confirm what can be released to you and what cannot.**  
+   Request clarity on:
+   - which items are standard “property” (often releasable), versus items retained as **evidence** (often not releasable now)
+   - what you must bring (ID; any written authorisation; any reference number)
+   - **collection hours** and exactly where to go on arrival
 
-4. **Verify the facility's specific collection or drop-off hours.**  
-   **Ask for the "Property Office" opening times, as these are often different from general station or prison visiting hours.** Many police property offices only operate during standard weekday business hours and are closed on weekends.
+4. **Get authorisation in the exact form the custody suite requires—before you travel.**  
+   Ask staff what they will accept and whether they can **note you as the nominated collector** on the custody record. Don’t rely on assumptions about letters/texts/phone approvals—do what that custody suite says.
 
-5. **Document any property taken from an arrest scene (home/work/car).**  
-   **Ask the officer in charge (OIC) for a "Property Seizure Receipt" or "Notice to Occupier" if items were removed from a premises.** If you are picking up items left behind (e.g., a bag or coat), photograph the items exactly where they were found before moving them.
+5. **If you are asked to collect belongings from an arrest scene (home/car/work), make it a narrow, safe trip.**  
+   - If police are still present, ask for the officer’s name/collar number and any **property receipt/reference** for items removed or seized.  
+   - Take only what is clearly practical and safe to store: keys, wallet, essential documents you’re confident are needed, glasses, basic clothing, and a written list of prescriptions/health needs (not medication unless police/custody staff explicitly request it).  
+   - Photograph what you take *before you leave* and keep it together in one bag.
 
-6. **Prioritise essential welfare items over general belongings.**  
-   **Focus only on "essential property" such as glasses, essential documents, or original prescription medication (subject to medical officer approval).** Non-essential items like chargers, luxury toiletries, or large amounts of clothing are frequently restricted by "volumetric control" rules in prisons.
+6. **Support their immediate welfare without getting pulled into case details.**  
+   - Ask whether they’ve requested a **solicitor** (including the **duty solicitor**) and whether staff can pass urgent welfare information (childcare responsibilities, serious medical needs).  
+   - If you can speak to them, keep it simple: “Ask for legal advice; tell staff any urgent medical or safety needs; tell them you want me as your nominated property collector (if you do).”
 
-7. **Maintain a structured record of all official contact.**  
-   **Write down the name and collar number of every officer you speak with, the time of the call, and the specific instructions given.** Keep all receipts for items collected or handed in, as these are your only proof of the transfer of responsibility.
+7. **If they are transferred to prison, switch to prison property rules immediately.**  
+   Ask which prison and whether property will be:
+   - sent with them,
+   - stored for later issue, or
+   - released to a nominated person.  
+   If you need to hand in or collect property, ask for the prison’s **property office** process and permitted items—rules vary and are tightly controlled.
+
+8. **Write down a clean timeline and keep receipts.**  
+   In one note, record: who you spoke to, date/time, station/prison, reference numbers, what you were told, and what you collected.
 
 ## What can wait
-- You do not need to decide on a legal defence or private solicitor immediately; the "Duty Solicitor" is available for free at the station.
-- You do not need to settle "volumetric control" issues (excess property) today; prisons will hold excess property in storage for a limited time (usually 28 days) before requiring it to be sent out.
-- You do not need to contact the media or post updates; doing so may breach court reporting restrictions or prejudice the case.
+- You don’t need to decide whether to complain, contact media, or “fight the case” right now.
+- You don’t need to gather character references, screenshots, or long explanations for anyone today.
+- You don’t need to buy/send phones, chargers, toiletries, or clothing to prison until you have that prison’s current rules and (if applicable) their prison number.
 
 ## Important reassurance
-The administrative side of custody is designed to be slow and procedural for security reasons. Delays in releasing property or confirming locations are standard and do not necessarily mean something is wrong. Focus on the procedural steps provided by the staff, keep your notes organised, and wait for the authorised windows for collection.
+It’s normal to feel pressured to “do something” immediately. In custody situations, the safest helpful move is often *procedural*: confirm location, follow the property-release process, and keep good notes. That is real support.
 
 ## Scope note
-This guide covers initial stabilization and property logistics in the first 24–72 hours of detention in England and Wales. It does not cover legal strategy, court representation, or long-term prisoner welfare.
+This is first-step guidance for the first hours/days. Legal advice and ongoing support arrangements can change depending on whether they’re in police detention, at court, or in prison.
 
 ## Important note
-This information is for general guidance and is not legal advice. Procedures vary between individual police forces and HMPPS establishments. Access to property is a privilege governed by PACE Code C (Police) or the Prisoners’ Property Policy Framework (Prisons), and staff may withhold property for safety or investigative reasons.
+This is general information, not legal advice. Police and prison procedures can differ across forces and establishments, and staff may be limited in what they can tell you. If anything feels unclear, ask staff to repeat the process and what proof/authorisation they require before you travel.
 
 ## Additional Resources
-- https://www.gov.uk/arrested-your-rights
-- https://www.gov.uk/arrested-your-rights/your-rights-in-custody
-- https://www.gov.uk/arrested-your-rights/legal-advice-at-the-police-station
-- https://www.gov.uk/legal-aid/arrested-or-charged-with-a-crime
-- https://www.legislation.gov.uk/ukpga/1984/60/section/56
+- https://www.gov.uk/government/publications/pace-code-c-2019/pace-code-c-2019-accessible
+- https://www.college.police.uk/app/detention-and-custody/response-arrest-and-detention
+- https://www.gov.uk/government/publications/prisoners-property-policy-framework
+- https://assets.publishing.service.gov.uk/media/691b108421ef5aaa6543ee04/prisoner-property-pf.pdf
+- https://www.prisonreformtrust.org.uk/adviceguide/property-in-prison/
+- https://www.norfolk.police.uk/SysSiteAssets/foi-media/norfolk/policies/hsrd-of-property-subject-to-enquiry-procedure.pdf

@@ -1,118 +1,98 @@
----
+﻿---
 title: "What to do if… you feel unsafe in your home because someone you know is escalating by messages and says they are coming over"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - "feel unsafe in my home"
-  - "someone says they are coming over"
-  - "escalating messages from someone i know"
-  - "threatening texts and calls"
-  - "unwanted visit to my house"
-  - "ex is coming to my house"
-  - "family member threatening to show up"
-  - "friend threatening to come over"
-  - "harassment by messages escalating"
-  - "intimidation by text"
-  - "stalking concern"
-  - "doorstep confrontation risk"
-  - "boundary ignored after saying no"
-  - "coercive messages"
-  - "fear they will force entry"
-  - "worried they have a key"
-  - "home alone and scared"
-  - "safety plan at home"
-  - "they won't stop messaging"
-  - "worried about children at home"
-  - "what do i do if someone says they are coming to my house"
-  - "what do i do if i am being harassed by text"
-  - "what do i do if i feel unsafe at home"
-  - "what do i do if my ex is threatening me"
-  - "help i feel unsafe in my apartment"
-  - "help i am being stalked by messages"
-  - "help i think someone is coming to my door"
-  - "my ex says they are coming over"
-  - "my friend is threatening me by text"
-  - "smell of alcohol or drugs mentioned in texts"
-  - "see them outside on camera"
-  - "hear them knocking or shouting"
-  - "feel heart racing and fear"
-  - "threats to break in"
-  - "texts mentioning weapons"
-  - "uninvited visitor US"
-  - "doorbell camera alerts"
-last_reviewed: "2026-03-17"
+  - feel unsafe in my home
+  - someone says they are coming over
+  - escalating messages from someone i know
+  - threatening texts and calls
+  - unwanted visit to my home
+  - ex is coming to my house
+  - family member threatening to show up
+  - friend threatening to come over
+  - harassment by messages escalating
+  - intimidation by text
+  - stalking concern
+  - doorstep confrontation risk
+  - boundary ignored after saying no
+  - coercive messages
+  - fear they will force entry
+  - worried they have a key
+  - home alone and scared
+  - safety plan at home
+  - they won’t stop messaging
+  - worried about children at home
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… you feel unsafe in your home because someone you know is escalating by messages and says they are coming over (USA)
 
 ## Short answer
-Call **911** immediately if you believe the person is on their way and you fear for your safety. Secure all entry points, move to a room with a lock, and do not open the door under any circumstances.
+If you think they might show up soon or you’re scared they’ll harm you, call **911** now (you don’t have to wait until they arrive). Get behind a locked door, don’t open the door to them, and bring another person onto the phone with you if you can.
 
 ## Do not do these things
-- Do not open the door to attempt to "de-escalate" or talk the person into leaving.
-- Do not step outside to see if they have arrived or to check the street.
-- Do not engage in rapid back-and-forth messaging which can provide the person with your current emotional state or location.
-- Do not tell the person exactly where you are in the house or what you are doing.
-- Do not delete any messages, call logs, or recordings while the event is occurring.
-- Do not wait until the person is physically at the door to call for help if you already feel threatened.
+- Do not open the door to “talk it out” or to prove you’re not afraid.
+- Do not go outside to meet them or “see if they’re really coming.”
+- Do not get pulled into rapid back-and-forth texting; it can escalate and distract you from safety.
+- Do not reveal where you are inside your home or what steps you’re taking.
+- Do not delete messages, voicemails, or call logs in the moment.
+- Do not assume you’re “wasting 911’s time” if you feel in danger.
 
 ## What to do now
-1. **Call 911 immediately if you feel an imminent threat or they are nearby.**
-   - State your location first so dispatchers know where to send help if the call is disconnected.
-   - Inform the dispatcher that someone you know is threatening to arrive and has been escalating through messages.
-   - Mention if the person has a history of violence, access to weapons, or a key to your home.
+1. **Treat “they’re coming over and I feel unsafe” as a 911-level problem when in doubt.**  
+   Call **911** if you feel at risk, if they’ve threatened you, if they’re nearby/on the way, if they’ve been violent before, if they may force entry, or if your instincts say this could escalate fast.
 
-2. **Lock every door and window in your home.**
-   - Ensure all deadbolts, chains, and sliding door bars are engaged.
-   - Check ground-floor windows and any entrance through a garage or basement.
-   - Do not spend more than a minute on this; prioritize getting to a secure room if you hear someone outside.
+2. **Get to a safer setup inside your home (30–60 seconds).**  
+   - Lock doors and accessible windows. Use any door chain/bolt if you have one.  
+   - Put your phone on charge (or grab a power bank) and keep it with you.  
+   - Grab **keys, shoes, and a coat** so you can leave quickly if needed.
 
-3. **Check your digital location-sharing settings.**
-   - **Disable "Find My" or other location-sharing features** if you think the person has access to your account.
-   - Turn off Bluetooth and Wi-Fi if you are concerned about proximity tracking or smart-home access.
+3. **If anyone else is with you, gather them now.**  
+   Bring **children, pets, or anyone vulnerable** with you so you’re not split up. Keep them away from doors and ground-floor windows.
 
-4. **Move to a "safer room" and stay there.**
-   - Choose a room with a solid door, a lock, and ideally a phone charger.
-   - Avoid rooms like kitchens or garages that contain potential weapons or have large glass doors.
-   - If children or pets are present, gather them in this room immediately.
+4. **Move to a “safer room” to wait and make calls.**  
+   Choose a room you can lock, away from the front door if possible. If you can, don’t wait in the kitchen/garage/utility areas where there are lots of tools—pick a room that feels easier to secure.
 
-5. **Set your phone to stay connected and accessible.**
-   - Keep your phone on your person at all times.
-   - If you cannot speak safely when calling 911, stay on the line without hanging up; dispatchers are trained to listen for background noise and can often track your location.
+5. **Bring in another person and create accountability.**  
+   - Call a trusted friend/family member and keep them on the line. Tell them: “If we disconnect, call 911.”  
+   - If you live in an apartment/building, consider alerting a neighbor, front desk, or security that you are not expecting anyone and you feel unsafe.
 
-6. **Send one final, clear boundary message if you have not already done so.**
-   - Text "Do not come to my house. I am calling the police if you show up."
-   - Immediately stop responding to all further messages or calls.
+6. **Consider one clear boundary message only if it won’t increase danger.**  
+   If it feels safe, send one message like: “Do not come to my home. If you show up, I’m calling 911.” Then stop replying. If messaging them feels risky, skip this.
 
-7. **Establish an external check-in with a third party.**
-   - Call a trusted friend or neighbor and tell them what is happening.
-   - Ask them to call 911 if they do not hear from you within a specific timeframe or if they hear a disturbance at your address.
+7. **If they arrive, do not engage at the door.**  
+   - Do not open the door “just to talk.”  
+   - Call **911** (or stay on the line) and state: “Someone I know is outside/at my home and I’m afraid. They said they were coming and are escalating by messages.”  
+   - If you have any protective order/no-contact order, tell the dispatcher.
 
-8. **Monitor your perimeter through cameras only if you can do so safely.**
-   - If you have a doorbell camera or security system, check the feed from your phone while remaining in your secure room.
-   - Do not move toward the door to look through a peephole.
+8. **Text-to-911 only if you can’t safely call (and if it works where you are).**  
+   - Calling is usually preferred when you can speak safely; text-to-911 isn’t available everywhere.  
+   - If you text 911, send your **exact address/location first**, then what’s happening, in plain words (avoid emojis/slang).  
+   - If you get an automatic reply saying text-to-911 isn’t available, **try calling 911** if you can.
 
-9. **Preserve evidence without investigative effort.**
-   - Take a single screenshot of the most recent threat or the message stating they are coming over.
-   - Do not scroll through old messages or attempt to document the entire history right now.
+9. **Preserve what you already have without doing “investigation.”**  
+   - Screenshot the most threatening messages and note the time they said they were coming.  
+   - Don’t spend time building a perfect record right now—safety first.
 
 ## What can wait
-- You do not need to decide whether you want to press charges or file a permanent restraining order right now.
-- You do not need to explain your side of the story to the person who is escalating.
-- You do not need to justify why you are calling 911 or feel afraid.
-- You do not need to verify the person's exact location yourself.
+- You do not need to decide right now whether to file a report, seek charges, or pursue a restraining/protective order.
+- You do not need to write a detailed timeline tonight; a few key screenshots and rough times are enough for now.
+- You do not need to negotiate, explain, or justify your “no”.
+- You do not need to decide what label fits the situation before getting help.
 
 ## Important reassurance
-It is normal to feel a sense of "false alarm" or worry about overreacting when the person is someone you know. However, escalating behavior and ignored boundaries are valid reasons to prioritize your physical safety. Taking these steps does not mean you are "causing trouble"; it means you are securing your environment.
+When someone you know escalates, it’s common to doubt yourself, freeze, or worry you’re “making it worse.” Feeling unsafe is enough reason to act. Reaching out early—before the person is at your door—is often the safer move.
 
 ## Scope note
-This guide provides first-step stabilization for an immediate threat at home. It does not cover long-term stalking interventions, legal filings, or housing relocation strategies.
+This is first-steps-only guidance for the next minutes and hours. Later steps (like longer-term safety planning, legal options, and support services) can be handled once you’re in a safer, calmer position.
 
 ## Important note
-This information is for safety stabilization and is not legal or professional advice. In any emergency where you fear physical harm, call **911** or your local emergency services immediately. For non-emergency safety planning regarding domestic or dating violence, you can contact the National Domestic Violence Hotline at 800-799-7233 or text "START" to 88788.
+This guide is general information, not legal advice. If you believe you are in immediate danger, call **911**. Support services can help you think through safer options without pressure, especially if the person is a partner/ex-partner or the behavior is part of a pattern of control, threats, or stalking.
 
 ## Additional Resources
-- https://www.thehotline.org/plan-for-safety/create-your-personal-safety-plan/
-- https://www.womenslaw.org/safety-planning
-- https://www.thehotline.org/resources/safety-planning-while-living-with-an-abusive-partner/
-- https://www.womenslaw.org/safety-when-preparing-leave-abuser/getting-ready-leave
-- https://www.thehotline.org/resources/how-to-clear-search-history-and-other-tech-safety-tips/
+- https://www.911.gov/calling-911/frequently-asked-questions
+- https://www.fcc.gov/consumers/guides/what-you-need-know-about-text-911
+- https://www.thehotline.org/
+- https://nnedv.org/get-help/
+- https://www.womenslaw.org/laws/general/restraining-orders

@@ -1,87 +1,72 @@
----
+﻿---
 title: "What to do if… someone is loitering in a stairwell or corridor and watching you approach"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "someone loitering in stairwell"
-  - "stranger in corridor watching"
-  - "person blocking hallway"
-  - "suspicious person in building"
-  - "being watched in stairwell"
-  - "being followed in corridor"
-  - "someone hanging around doorway"
-  - "unknown person near my flat"
-  - "someone waiting by lift"
-  - "unsafe shared entrance"
-  - "someone lingering by exit"
-  - "watched while entering building"
-  - "intimidation in communal area"
-  - "suspicious loiterer in hallway"
-  - "anxious walking to my door"
-  - "someone observing my route"
-  - "threat in apartment corridor"
-  - "what do i do if someone is watching me in my building"
-  - "what do i do if a stranger is in the hallway"
-  - "what do i do if i feel unsafe in a stairwell"
-  - "what do i do if someone is loitering near my door"
-  - "help i am being followed in my apartment block"
-  - "help i feel trapped in a corridor"
-  - "help i see a stranger in the stairs"
-  - "help my building has a loiterer"
-  - "person standing still in hallway"
-  - "man watching from stairs"
-  - "shadow in the corridor"
-  - "unrecognized face in communal area"
-  - "stairwell loitering"
-  - "corridor safety"
-  - "apartment block security"
-  - "communal area threat"
-  - "loitering in flats"
-last_reviewed: "2026-03-17"
+  - someone loitering in stairwell
+  - stranger in corridor watching
+  - person blocking hallway
+  - suspicious person in building
+  - being watched in stairwell
+  - being followed in corridor
+  - someone hanging around doorway
+  - unknown person near my flat
+  - creepy person in stairwell
+  - someone waiting by lift
+  - unsafe shared entrance
+  - someone lingering by exit
+  - watched while entering building
+  - intimidation in communal area
+  - suspicious loiterer in hallway
+  - anxious walking to my door
+  - someone observing my route
+  - threat in apartment corridor
+last_reviewed: "2026-01-11"
 ---
+
 # What to do if… someone is loitering in a stairwell or corridor and watching you approach (UK)
 
 ## Short answer
-Do not enter the enclosed space with the individual; immediately create distance by returning to a public, well-lit area or exiting the building. Contact a trusted person or emergency services if you feel trapped or threatened.
+Do not enter an enclosed stairwell/corridor with them. Create distance, move to a safer, more public spot (or back outside), and contact building staff/security or the police if you feel threatened.
 
 ## Do not do these things
-- Don’t continue your approach or walk past the person to avoid "being rude" or appearing suspicious.
-- Don’t go directly to your flat or room door, as this allows the person to identify exactly where you live.
-- Don’t confront the individual, ask them what they are doing, or attempt to "test" their intent by getting closer.
-- Don’t enter "dead-end" zones such as bin stores, basement levels, or long corridors without secondary exits.
-- Don’t fumble with keys or security fobs while the person is within sight or reachable distance.
-- Don’t stop to record the person on your phone if it delays your exit to a safer area.
+- Don’t walk past them “to be polite” or to avoid seeming rude.
+- Don’t go straight to your flat/room door if they could follow you and learn where you live.
+- Don’t confront them, argue, or try to “test” them by getting closer.
+- Don’t let yourself get funnelled into a dead end (stairwell, long corridor, basement, bin store, car park) if you can avoid it.
+- Don’t fumble with keys at your door while they’re nearby.
+- Don’t post about it in real time (it distracts you and may reveal your location).
 
 ## What to do now
-1. **Immediately stop your approach and change direction.** **Turn around and walk back toward a safer, more populated area such as a staffed lobby, a busy street, or a communal area with multiple exits.**
-2. **Put a physical barrier between yourself and the individual.** **Step behind a heavy fire door, into a locked vestibule, or back out of the building's main security entrance.**
-   - Do not hold the door open for anyone following closely behind (tailgating).
-3. **Make immediate contact with a real person.** **Call a friend, family member, or housemate and stay on the line, or alert a concierge or security guard if the building is staffed.**
-4. **Call 999 if you feel you are in immediate danger or if the person blocks your path.** **State your exact location, including the building name, floor number, and the nearest road or postcode.**
-5. **Use the "Silent Solution" if you cannot speak safely on a mobile call.** **Dial 999 and, when prompted by the automated system, press 55 to be transferred to the police.**
-   - If you are on a landline and cannot speak, stay on the line; the operator will listen for background noise and may automatically transfer you to police as landline locations are easier to trace.
-   - If you have a hearing or speech impairment, text 18000 to reach emergency services via Relay UK (requires pre-registration).
-6. **Report non-emergency suspicious behavior to 101 once you are in a secure location.** **Provide a description of the individual, their clothing, and their specific location within the building to help police or local safer neighborhood teams.**
-7. **Note concrete physical details for later reporting.** **Mentalize or quickly note the person’s approximate height, build, hair color, and any distinguishing features like tattoos or specific logos on clothing.**
-8. **Alert building management or your landlord as soon as the immediate threat has passed.** **Formally request that they preserve CCTV footage from the relevant time window and check for faults in door entry systems or lighting.**
+1. **Stop the approach and change the situation.** Turn around calmly and head back to a safer point: outside the building, a staffed reception/concierge, a well-lit lobby, or any area with other people and multiple exits.
+2. **Put something solid between you and them if you can.** Step behind a secure door, into a locked vestibule, or into a lift lobby where you can leave quickly. If you’re already inside an access-controlled area, **don’t hold doors open** behind you.
+3. **Make contact with a real person immediately.** Call a friend/housemate on speaker, or call the building concierge/security (if you have a number). If there are nearby residents, knock only where you can clearly hear activity and you feel safe doing so.
+4. **If you feel in danger or think violence could happen soon: call 999.** Say where you are (building name/road/postcode if you know it), what you can see, and that you’re keeping distance in a public/safer area.
+5. **If you can’t speak safely on a 999 call:**  
+   - **Mobile:** stay on the line and follow the recorded prompts. When prompted, **press 55** to be put through to the police.  
+   - **Landline:** stay on the line and follow any operator prompts (the “55” option is for mobile calls).  
+   If you have a hearing or speech impairment, emergency text services exist but may require prior setup—use whatever method you already have available.
+6. **If it feels concerning but not immediately dangerous:** once you’re in a safer place, call **101** to log it, or (if available) use your local police force’s online reporting.
+7. **Capture useful details without staring or escalating.** Note (mentally or in a quick note) clothing, approximate age/height, distinguishing features, exact location (e.g., “3rd floor stairwell by flat 32”), direction of travel, and any vehicle details if relevant.
+8. **If this is your building:** contact the landlord/letting agent/housing association/building manager as soon as you’re safe. Ask them to **preserve CCTV** for the relevant time window and to check door entry faults, tailgating issues, and lighting.
 
 ## What can wait
-- You do not need to determine if the person's presence is "legitimate" before choosing to prioritize your safety.
-- You do not need to provide a statement to police or management until you are in a physically secure environment.
-- You do not need to decide right now if you want to press charges or pursue legal action.
+- You do **not** need to decide right now whether it “counts” as a crime.
+- You do **not** need to confront them, identify them, or prove intent.
+- You do **not** need to write a full report immediately—getting safe and logged (if needed) comes first.
 
 ## Important reassurance
-Feeling a sense of "alarm or distress" is a valid reason to change your route or call for help. Your physical safety is more important than social etiquette, and security protocols are designed to handle exactly these types of reports.
+It’s normal to freeze or doubt yourself in a moment like this. Treating this as a safety problem (distance, exits, other people, help) is a reasonable response—even if it turns out to be harmless.
 
 ## Scope note
-This guide covers immediate stabilization and harm prevention when encountering a suspicious individual in a communal area. It does not replace long-term security planning or legal advice regarding harassment.
+These are first steps for the next minutes to hours. If this is recurring in your building or feels targeted, you may need additional support from building management and the police.
 
 ## Important note
-This information is for safety guidance and does not constitute legal or professional security advice. Always follow the directions of emergency dispatchers and police officers on the scene.
+This is general safety information, not legal advice. If you feel you’re in immediate danger, prioritise getting to a safer place and contacting emergency services.
 
 ## Additional Resources
-- https://www.gov.uk/how-report-antisocial-behaviour/report-police
-- https://www.met.police.uk/ro/report/asb/asb-v3/report-antisocial-behaviour/
-- https://www.victimsupport.org.uk/crime-info/types-crime/antisocial-behaviour/
-- https://www.met.police.uk/advice/advice-and-information/asb/asb/antisocial-behaviour/nuisance-behaviour-groups-people/
+- https://www.gov.uk/contact-police
+- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/how-to-make-a-silent-999-call/
+- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
+- https://www.protectuk.police.uk/security-away-home
 - https://www.suzylamplugh.org/personal-safety-at-home

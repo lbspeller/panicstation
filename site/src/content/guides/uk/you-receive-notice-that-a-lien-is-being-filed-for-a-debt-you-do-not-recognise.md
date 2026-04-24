@@ -1,104 +1,101 @@
----
+﻿---
 title: "What to do if… you receive notice that a lien is being filed for a debt you do not recognise"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "lien notice"
-  - "lien being filed"
-  - "notice that a lien is being filed"
-  - "lien filed for a debt"
-  - "lien for a debt you do not recognise"
-  - "debt you do not recognise"
-  - "what do i do if a lien is filed"
-  - "what do i do if a lien notice arrives"
-  - "what do i do if i get a debt notice"
-  - "what do i do if i do not recognise a debt"
-  - "help i have a lien on my house"
-  - "help i have a debt i do not recognise"
-  - "help i have a charging order notice"
-  - "my property has a restriction"
-  - "my house has a notice on title"
-  - "wrong person debt notice"
-  - "identity fraud property charge"
-  - "unexpected land registry letter"
-  - "charging order interim notice"
-  - "final charging order objection"
-  - "county court judgment unknown"
-  - "ccj i did not know about"
-  - "disputed debt recovery steps"
-  - "hm land registry restriction"
-  - "registers of scotland search"
-  - "property title charges register"
-  - "form n244 set aside fee"
-  - "interim charging order 28 days"
-  - "form k restriction joint names"
-  - "unilateral notice property title"
-last_reviewed: "2026-03-17"
+  - lien notice uk
+  - lien being filed
+  - debt i do not recognise
+  - debt not mine
+  - wrong person debt
+  - identity fraud debt
+  - scam debt letter
+  - unexpected property charge
+  - charging order notice
+  - restriction on title
+  - notice on title register
+  - court papers i never got
+  - ccj i knew nothing about
+  - debt collector claims i owe
+  - dispute a debt uk
+  - credit file wrong debt
+  - mortgage affected by lien
+  - land registry charge
+  - urgent letter about debt
+last_reviewed: "2026-01-10"
 ---
-# What to do if… you receive notice that a lien is being filed for a debt you do not recognise (UK)
 
+# What to do if… you receive notice that a lien is being filed for a debt you do not recognise (UK)
 ## Short answer
-Verify the notice through official court or land registry channels before paying anything or providing sensitive data. In the UK, a "lien" on property is usually a Charging Order or a Title Restriction, which you must dispute in writing within strict deadlines (typically 28 days).
+Treat it as urgent to verify via official records (court and property register), then dispute it in writing right away. Do not pay or confirm personal details until you know exactly who filed it and what it’s based on.
 
 ## Do not do these things
-- Do not pay any amount "to stop the lien" immediately, as this can be interpreted as an admission of the debt.
-- Do not use contact details provided within the letter to verify its authenticity; find official numbers for the court or Land Registry independently.
-- Do not ignore the notice even if the debt is clearly a mistake; court-ordered charges can become final and lead to an "order for sale" if left unchallenged.
-- Do not provide full scans of your ID or passport to the sender until you have verified they are a legitimate solicitor or authorised firm.
-- Do not enter into a payment plan "just to be safe" while you investigate.
+- Do not pay “to stop the lien” in a rush, especially by bank transfer or any unusual payment method.
+- Do not call the number on the notice to “verify your identity” or give bank/card details; use official contact details you find independently.
+- Do not ignore it because you “know it isn’t yours” — if it’s court-related there may be short response deadlines once served.
+- Do not admit the debt, offer a payment plan, or pay a “token amount” just to make it go away.
+- Do not send original documents (send copies only) or full ID scans to an unverified address.
 
 ## What to do now
-1. **Identify exactly what the "lien" refers to in UK legal terms.**  
-   - Look for keywords such as "Charging Order," "Interim Charging Order," "Notice of a Restriction," or "Unilateral Notice."
-   - Note the court name and case number (e.g., "In the [Name] County Court, Claim No: [X]").
+1. **Stabilise and capture the facts (5 minutes).**  
+   Put the notice, envelope, and attachments in one place. Write down: the claimant/creditor name, any reference/case numbers, dates, the address/property mentioned, and the exact wording (for example “charging order”, “restriction”, “notice”, “interim” or “final”).
 
-2. **Verify the status of your property title immediately.**  
-   - **In England and Wales:** Use the HM Land Registry "Search for property information" service to download your Title Register (£3). Check the "Charges Register" for any new entries.
-   - **In Scotland:** Use the ScotLIS (Registers of Scotland) service to search the Land Register or Sasine Register for ownership and encumbrance details.
-   - **In Northern Ireland:** Contact the Land Registry via Land & Property Services (LPS) to request a search of the index map or register.
+2. **Translate “lien” into what it might mean in the UK (so you check the right thing).**  
+   UK notices are often described as a **charging order** (linked to a judgment), or a **restriction/notice** recorded against the property title. Your next steps are to check what (if anything) is actually recorded and whether a court is involved.
 
-3. **Contact the issuing court using an independent directory.**  
-   - **Find the official telephone number for the court via the gov.uk Find a Court service.**  
-   - Provide the claim number and ask for the date the judgment (CCJ) was issued and the address where the original papers were served.
-   - If the papers were sent to an old or incorrect address, inform the court officer that you were never served.
+3. **Check whether anything has actually been recorded against your property.**  
+   - **England/Wales:** obtain the property’s title register (and, if needed, the title plan) and look for new entries such as charges, restrictions, or notices.  
+   - **Scotland:** use Registers of Scotland/ScotLIS to see what’s recorded for the property and obtain the relevant title information.  
+   - **Northern Ireland:** use Land & Property Services guidance on searching the Land Registry/related registers.  
+   If the notice names an address you don’t own, treat it as a possible error or fraud and note that in your dispute.
 
-4. **File a written objection within 28 days if you receive an Interim Charging Order.**  
-   - **You must send your written grounds for objection to both the court and the creditor within 28 days of being served the notice.**  
-   - State clearly that you dispute the underlying debt and were unaware of the judgment.
-   - If a hearing date is listed, you must attend or ensure your written evidence is filed at least 7 days before that hearing.
+4. **If it’s court-based, verify with the court using independent contact details.**  
+   If the notice includes a court name or claim number, contact the court via official channels (not the letter’s phone number). Ask:
+   - what has been issued (and when), and
+   - where documents were served.  
+   If it’s about an **interim/final charging order**, treat it as time-sensitive: some objections/reconsiderations must be made within short periods after service.
 
-5. **Apply to "set aside" the underlying judgment if it is a CCJ you did not know about.**  
-   - **Use Court Form N244 to apply for the judgment to be set aside.**  
-   - You will need to pay a court fee (£313 as of 2026) unless you qualify for "Help with Fees" using form EX160.
-   - If the creditor agrees the judgment was a mistake, you can use a "Consent Order" (£123) which is cheaper and faster.
+5. **Dispute the debt in writing (keep it short and factual).**  
+   Send a letter/email to the creditor/debt collector stating:
+   - you **do not recognise the debt** and **dispute liability**;
+   - you require **evidence** showing you are the debtor and the legal basis for any registration/court step;
+   - you want **all communication in writing**.  
+   Include only what’s needed to identify the account they’re claiming (their reference number, your name, your current address).
 
-6. **Submit a formal dispute to the creditor or debt collector.**  
-   - **Send a letter stating you do not recognise the debt and require "full proof of liability" including the original signed agreement.**  
-   - If the firm is FCA-authorised, they must suspend recovery steps under CONC 7.14 rules while the dispute is investigated.
-   - Demand that all further communication be in writing for your records.
+6. **If the collector is FCA-authorised for consumer credit, use the “dispute” leverage correctly.**  
+   If your dispute has valid (or potentially valid) grounds (for example: wrong person, identity fraud, already paid, wrong amount), FCA rules require suspending recovery steps while the firm investigates and provides information. Put that in your written dispute.
 
-7. **Report potential identity fraud to the national reporting gateway.**  
-   - **If you suspect the debt was taken out in your name by someone else, report it to the "Report Fraud" service (which replaced Action Fraud) online or at 0300 123 2040.**  
-   - In Scotland, report identity theft directly to Police Scotland by calling 101.
-   - Contact the three main credit reference agencies (Experian, Equifax, TransUnion) to place a "Notice of Correction" or "Protective Registration" on your file.
+7. **If you discover a CCJ/judgment you didn’t know about, act to “reset” it.**  
+   If the court confirms a CCJ you didn’t know about (often because papers went to an old address), ask the court about applying to have the judgment **set aside** (commonly using **form N244** in England/Wales). Do this as soon as you can, because delay can make it harder.
+
+8. **If fraud is possible, start fraud and credit-file protections in parallel.**  
+   - Report identity fraud through the UK’s fraud reporting service.  
+   - Check your credit files with the main UK credit reference agencies for accounts you don’t recognise and dispute incorrect entries.  
+   - Consider adding an extra-check “protective” marker if you believe your identity is being misused.
+
+9. **Create a simple evidence trail.**  
+   Keep a single timeline note: dates, who you contacted, what was said, and copies/screenshots of letters and any register/court results. This is what helps if you need to escalate fast.
 
 ## What can wait
-- You do not need to hire a solicitor in the first 24 hours; the initial verification steps (checking the Land Registry and calling the court) can be done yourself.
-- You do not need to settle the debt today to "protect your credit score," as a set-aside judgment will eventually remove the entry from your file.
-- You do not need to explain your entire financial history to the creditor; a simple statement of non-recognition is sufficient for the first response.
+- You do not need to decide today whether to negotiate, complain, or take longer legal steps — first you only need to **verify** and **stop wrongful enforcement**.
+- You do not need to pay for “credit repair” or tracing services right now.
+- You do not need to provide a long explanation; a short written dispute and evidence request is enough for now.
 
 ## Important reassurance
-Receiving a notice about your property is high-stress, but administrative errors (like "trace and find" mistakes by debt collectors) and identity fraud are common. If you were never served court papers, the law provides a "set aside" process to reset the clock and allow you to defend the claim properly. Taking these steps prevents the charge from becoming a permanent "Final Charging Order."
+An official-looking notice for a debt you don’t recognise is frightening, but it can happen through mistakes (old addresses, mixed identities) and scams. The safest approach is controlled, verifiable steps: check official records, dispute in writing, and protect your identity while you gather facts.
 
 ## Scope note
-This guide covers first-step stabilization for UK property-based debt notices. It does not cover specific procedures for commercial liens, maritime liens, or long-term litigation strategy.
+These are first steps only, aimed at preventing irreversible harm and buying time. If court action is involved, the next stage can be deadline-driven and may need specialist advice.
 
 ## Important note
-This information is for general guidance and is not legal advice. Court fees and specific forms (like the N244) apply to England and Wales; processes in Scotland (Inhibitions) and Northern Ireland differ in terminology and specific fee structures. Always verify current fees on the official gov.uk or justice.gov.uk websites.
+This guide provides general information, not legal advice. The right response depends on what the notice really is (for example, a charging order linked to a judgment versus another type of title entry) and where in the UK you are.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/debt-and-money/action-your-creditor-can-take/charging-orders/
 - https://www.gov.uk/government/publications/third-party-debt-orders-and-charging-orders-ex325/respond-to-a-charging-order
-- https://www.stepchange.org/debt-info/debt-collection/charging-orders-and-my-home.aspx
-- https://nationaldebtline.org/get-information/guides/charging-orders-ew/
-- https://www.citizensadvice.org.uk/debt-and-money/help-with-debt/dealing-with-your-debts/check-if-you-have-to-pay-a-debt/
+- https://www.gov.uk/county-court-judgments-ccj-for-debt/cancel-the-judgment
+- https://handbook.fca.org.uk/handbook/conc7/conc7s14
+- https://www.gov.uk/search-property-information-land-registry
+- https://www.ros.gov.uk/services/search-property-information
+- https://www.nidirect.gov.uk/articles/searching-land-registry
+- https://www.reportfraud.police.uk/identity-fraud-and-identity-theft/
+- https://www.cifas.org.uk/pr

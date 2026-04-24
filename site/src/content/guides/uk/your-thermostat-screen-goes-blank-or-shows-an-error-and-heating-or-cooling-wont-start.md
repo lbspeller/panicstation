@@ -1,97 +1,89 @@
----
+﻿---
 title: "What to do if… your thermostat screen goes blank or shows an error and heating or cooling won’t start"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "thermostat screen blank"
-  - "thermostat error code"
-  - "heating won't start"
-  - "boiler not responding to thermostat"
-  - "no central heating suddenly"
-  - "thermostat screen dead"
-  - "thermostat not turning on"
-  - "wall thermostat no display"
-  - "heating timer not working"
-  - "thermostat batteries dead"
-  - "heating system lost power"
-  - "thermostat reset"
-  - "boiler fault code"
-  - "combi boiler not firing"
-  - "help i have no heating"
-  - "help my thermostat is blank"
-  - "help my boiler is off"
-  - "what do i do if my thermostat screen is blank"
-  - "what do i do if my heating won't turn on"
-  - "what do i do if my boiler shows an error"
-  - "smell of gas near boiler"
-  - "carbon monoxide alarm sounding"
-  - "yellow boiler flame"
-  - "soot marks around heater"
-  - "radiators not getting hot"
-  - "boiler receiver light off"
-  - "tripped heating circuit"
-  - "fused spur switched off"
-last_reviewed: "2026-03-17"
+  - thermostat screen blank
+  - thermostat error code
+  - heating not starting
+  - cooling not starting
+  - boiler not responding to thermostat
+  - no central heating suddenly
+  - no heat thermostat dead
+  - thermostat not turning on
+  - smart thermostat offline
+  - wall thermostat no display
+  - heating timer not working
+  - programmer calling for heat
+  - radiators not heating up
+  - thermostat batteries dead
+  - heating system lost power
+  - thermostat reset
+  - boiler fault code
+  - heat pump not starting
+  - combi boiler not firing
+last_reviewed: "2026-03-03"
 ---
-# What to do if… your thermostat screen goes blank or shows an error and heating or cooling won’t start (UK)
 
+# What to do if… your thermostat screen goes blank or shows an error and heating or cooling won’t start (UK)
 ## Short answer
-Check for signs of gas or carbon monoxide first; if safe, replace the thermostat batteries and ensure the boiler's power switch or fused spur is turned on.
+Treat this as a power or safety shut-off first: stop repeated resets, check batteries and obvious power switches, and if you suspect gas or carbon monoxide, get outside and call the gas emergency number.
 
 ## Do not do these things
-- Don’t keep toggling the heating on and off or repeatedly pressing the "reset" button on the boiler.
-- Don’t open the boiler casing, remove internal covers, or attempt to bypass thermostat wiring.
-- Don’t repeatedly reset a circuit breaker if it trips immediately after being flipped back on.
-- Don’t stay inside the property if you smell gas, hear a CO alarm, or see soot marks around the appliance.
-- Don’t ignore physical symptoms like a sudden "flu-like" headache, nausea, or dizziness while the heating is on.
+- Don’t keep toggling the heating/cooling on and off or repeatedly “resetting” the thermostat/boiler.
+- Don’t open a boiler casing, remove covers, or try to “bridge” thermostat wiring to force heat on.
+- Don’t repeatedly re-trip a fuse/breaker if it won’t stay on.
+- Don’t stay inside if there’s a gas smell, a carbon monoxide alarm, soot marks, fumes, or sudden headache/dizziness/nausea.
 
 ## What to do now
-1. **Rule out gas or carbon monoxide danger immediately.**
-   - If you **smell gas** (rotten eggs): do not touch electrical switches or light matches. Open doors and windows, leave the building, and call the **National Gas Emergency Service on 0800 111 999**.
-   - If a **carbon monoxide (CO) alarm** sounds or you see **soot marks / floppy yellow flames** on the boiler: stop using all gas appliances, move into fresh air, and call **0800 111 999** from outside. 
-   - If you feel unwell (headache, dizziness, nausea): call **NHS 111** for medical advice. Call **999** only if someone has collapsed or is struggling to breathe.
+1. **Rule out gas/carbon monoxide danger first (before touching switches).**
+   - If you **smell gas**: do not use electrical switches, open doors/windows if you can do so safely, leave the building, then call the **National Gas Emergency Service on 0800 111 999**.
+   - If a **carbon monoxide alarm** sounds or you feel suddenly unwell indoors (headache, dizziness, nausea, confusion): move everyone into fresh air. If you think a **gas appliance** may be involved, call **0800 111 999** from outside. If symptoms are severe (collapse, severe breathlessness, confusion), call **999**; otherwise get medical advice via **NHS 111**.
 
-2. **Replace the thermostat batteries with a fresh pair.**
-   - Remove the thermostat from its wall-plate or open the battery compartment.
-   - Insert new, high-quality alkaline batteries (often AA or AAA), even if the old ones do not look leaked or damaged.
-   - If the device is a "docking" type, ensure it is pushed firmly onto the base pins until it clicks or seats fully.
+2. **Check the thermostat’s power source (most common fix).**
+   - If it uses batteries: replace them with **fresh** batteries.
+   - If it docks onto a wall plate: press it gently back onto the base so it’s fully seated.
+   - If it’s a smart thermostat with a receiver/hub: check the receiver has power and hasn’t been switched off at the socket.
 
-3. **Check the power supply to the heating system.**
-   - Locate the **fused spur** (a wall switch with a small fuse tray, usually near the boiler) and ensure it is switched "On."
-   - Check your **consumer unit** (fuse box) for a tripped circuit breaker labeled "Heating" or "Boiler."
-   - If you have a wireless receiver unit attached to the boiler, check if its status light is on; if it is dark, the boiler may have no power.
+3. **Check the heating/cooling system has power (without opening covers).**
+   - Check your **consumer unit** for a tripped breaker, and any nearby boiler/heat-pump power switch or fused spur that may have been turned off.
+   - If you have a programmer/timer, confirm it isn’t set to “off/holiday” and that the schedule should be calling for heat/cooling now.
 
-4. **Record the specific error code or symbols shown.**
-   - Take a clear photo of the thermostat screen if it displays any letters, numbers, or a "spanner" icon.
-   - Check the small display panel on the front of the boiler (without removing covers) and photograph any flashing codes (e.g., F22, E1, L2).
+4. **If the thermostat shows an error code, capture it before changing anything else.**
+   - Take a photo of the thermostat screen (code/message + any symbols).
+   - If the boiler/indoor unit has a visible fault code on its display (no covers removed), photograph that too.
 
-5. **Perform a single system restart.**
-   - If your boiler has a dedicated "Reset" button on the front panel, press and hold it for **3–5 seconds** exactly once.
-   - Wait **5 minutes** to see if the system fires up and radiators begin to warm.
-   - If the boiler shuts down again or the error code returns, do not attempt further resets.
+5. **Try one clean restart (once).**
+   - After replacing batteries or restoring power, wait **2–5 minutes** for it to reboot and reconnect.
+   - If your boiler has a normal user “reset” button and you know where it is, press it **once**. If it faults again, stop there.
 
-6. **Notify the relevant parties for repair.**
-   - **If you are a tenant**: contact your landlord or letting agent immediately; loss of heating is a priority repair.
-   - **If you are a homeowner**: contact a **Gas Safe registered engineer**. You can verify an engineer's ID at gassaferegister.co.uk.
-   - **If you have district heating**: contact your building's concierge or energy provider, as the fault may be external to your flat.
+6. **Get the right help early if it doesn’t recover.**
+   - **If there’s a gas boiler** and it won’t run after the steps above, arrange a **Gas Safe registered engineer** (or your landlord/agent should arrange this).
+   - **If you rent**: report it promptly as loss of heating/cooling and share the photos of the error codes.
+   - **If you have communal/district heating**: contact building management/concierge, as the issue may be central rather than in your flat.
+
+7. **Stabilise safely while you wait.**
+   - Keep to one room, close internal doors, use safe layers/blankets (or shade/ventilate one room if overheating).
+   - Do not use BBQs, camping stoves, patio heaters, or other combustion devices indoors.
 
 ## What can wait
-- You do not need to decide if you need a new thermostat right now.
-- You do do not need to investigate the internal wiring or gas pipes yourself.
-- You do not need to worry about the specific meaning of complex error codes; a professional will interpret the photo you took.
+- You do **not** need to decide now whether the thermostat needs replacing.
+- You do **not** need to troubleshoot wiring, open the boiler, or dig through advanced menus.
+- You do **not** need multiple resets—one restart is enough before you escalate.
 
 ## Important reassurance
-A blank screen is most frequently caused by exhausted batteries or an accidental flip of a power switch. These steps ensure you have ruled out simple fixes safely. If the system has locked out, it is a built-in safety feature designed to prevent damage or danger.
+A blank thermostat display is very often a simple power issue (batteries, docking, or a switched-off receiver). Taking photos of any codes and stopping repeated resets helps you avoid making a lockout worse and speeds up repair.
 
 ## Scope note
-This guide covers first-step stabilization and simple power checks for UK domestic heating systems. It does not replace the need for a Gas Safe registered engineer for internal repairs or gas-related faults.
+These are first steps to restore safe heating/cooling or to hand over clear information to a professional. Repeated lockouts, breaker trips, or any suspicion of gas/CO needs qualified help.
 
 ## Important note
-This information is for general guidance and is not a substitute for professional mechanical or medical diagnosis. If you suspect a gas leak or carbon monoxide exposure, evacuate immediately and contact the emergency services.
+This is general information, not a substitute for professional diagnosis. If you smell gas, suspect carbon monoxide, or anyone becomes severely unwell, prioritise getting outside and contacting emergency services.
 
 ## Additional Resources
-- https://www.hivehome.com/blog/smart-heating/wireless-thermostat-not-working
-- https://www.vaillant.co.uk/advice/understanding-heating-technology/boilers/most-common-boiler-problems/
-- https://england.shelter.org.uk/housing_advice/repairs/landlord_and_tenant_responsibilities_for_repairs
-- https://england.shelter.org.uk/housing_advice/repairs/how_long_should_a_private_landlord_take_to_do_repairs
-- https://support.google.com/googlenest/answer/9233319?hl=en
+- https://www.nationalgas.com/emergency-contacts
+- https://www.nhs.uk/conditions/carbon-monoxide-poisoning/
+- https://www.london-fire.gov.uk/safety/the-home/carbon-monoxide-safety/
+- https://www.sgn.co.uk/help-and-advice/keeping-gas-safe/gas-safety
+- https://www.gassaferegister.co.uk/gas-safety/carbon-monoxide-poisoning/
+- https://5579f1f5-6613-4344-958e-336e9eddb5bd.usrfiles.com/ugd/801803_1af53b4f31654e34b28a5b5a1e20d800.pdf?index=true

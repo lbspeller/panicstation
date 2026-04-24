@@ -1,84 +1,97 @@
----
+﻿---
 title: "What to do if… you find account activity showing logins or locations that are not yours"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "account activity logins not mine"
-  - "locations on account not mine"
-  - "unfamiliar login location"
-  - "unauthorized login activity"
-  - "strange login location alert"
-  - "security alert login not me"
-  - "help i see logins from other places"
-  - "my account shows logins i did not make"
-  - "what do i do if account shows unknown logins"
-  - "what do i do if account shows unknown locations"
-  - "suspicious account activity logins"
-  - "suspicious account activity locations"
-  - "unexpected sign-in location"
-  - "unrecognized device login"
-  - "account access from different state"
-  - "new device signed into my account"
-  - "strange ip address login"
-  - "unfamiliar city in login history"
-  - "logins from unrecognized browser"
-  - "someone else logged into my email"
-  - "unknown session in account history"
-  - "security notification login location"
-  - "account compromise signs"
-  - "unrecognized location login help"
-  - "my email shows logins not mine"
-  - "logins from unknown sources"
-  - "account activity not recognized"
-  - "locations not recognized in account"
-  - "help someone is in my account"
-  - "unauthorized access notification"
-last_reviewed: "2026-03-17"
+  - unknown login location
+  - sign-in alert not me
+  - suspicious account activity
+  - someone logged into my account
+  - login from new device
+  - unexpected security email
+  - account takeover signs
+  - strange location on account
+  - unfamiliar ip address login
+  - email account may be hacked
+  - social media account accessed
+  - password reset i did not request
+  - sessions i don’t recognise
+  - hacked account recovery
+  - unauthorised access
+  - two factor authentication
+  - recovery email changed
+  - new device signed in
+  - apps connected i didn’t add
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you find account activity showing logins or locations that are not yours (USA)
 
 ## Short answer
-Secure your primary email account immediately, then change the password for the affected account and use the "sign out of all sessions" feature. Do not click links in the notification email; instead, navigate directly to the official website or app to perform these security updates.
+Assume compromise: secure your **email first**, then **change the affected account password**, **sign out of all devices/sessions**, and **turn on multi-factor authentication (MFA)**.
 
 ## Do not do these things
-- Don't click any "Confirm" or "Secure Account" links inside the email or text alert (attackers often send fake alerts to steal your real credentials).
-- Don't use the same password you were previously using or a simple variation of it.
-- Don't ignore the alert even if you still have access; attackers may be observing your data or setting up forwarding rules.
-- Don't share multi-factor authentication (MFA) or two-factor (2FA) codes with anyone, even if they claim to be from "support."
-- Don't leave other sessions active while you change your password; always force a global logout.
+- Don’t click “security alert” links in emails/texts unless you independently open the real site/app yourself (phishing often follows login alerts).
+- Don’t reuse an old password or a variation of it.
+- Don’t skip your email account — attackers often use it to reset other passwords.
+- Don’t keep browsing while you “watch what happens”; end sessions first.
+- Don’t share verification codes with anyone (including someone claiming to be “support”).
+- Don’t submit reports or personal info on lookalike “crime reporting” sites: if you need to report to IC3, **type ic3.gov directly** and be cautious of “sponsored” search results.
 
 ## What to do now
-1. **Navigate directly to the official website or app to access your account security settings.** **Do not use the link provided in the alert.** Log in manually and go to the "Security," "Privacy," or "Recent Activity" dashboard to confirm the unauthorized login is listed there.
-2. **Secure your primary email account associated with the compromised service immediately.** **Change your email password first, as attackers use email access to intercept password reset links for other accounts.** 
-   - Check your email settings for "Filters," "Forwarding," or "Mailbox Rules" to ensure no one is auto-forwarding your mail to an external address.
-   - Verify that the recovery phone number and backup email address have not been changed.
-3. **Use the "Sign out of all sessions" or "Log out of all devices" command.** **This will force any active intruder out of the account and require them to provide the new credentials to get back in.** 
-   - Look for a list of "Trusted Devices" and remove any that you do not personally own or recognize.
-4. **Update the password for the affected account to a unique, strong passphrase.** **If you have reused this same password on other websites (like banking or social media), change those passwords immediately as well.**
-5. **Enable Multi-Factor Authentication (MFA) using an authenticator app or hardware key.** **Avoid SMS-based codes if an app-based or "prompt-based" option is available, as these are more resistant to SIM-swapping attacks.**
-6. **Review the account for unauthorized changes to personal information or payment methods.** **Check for new "Authorized Apps," changes to your shipping address, or new credit cards added to the billing section.**
-   - If the account is a social media or messaging platform, check your "Sent" folder for messages you did not write.
-7. **Contact your financial institution if the account is linked to a credit card or bank account.** **Ask the bank to place a temporary freeze on the card and request a "Hold Harmless Letter" if any fraudulent transfers have already occurred.**
-8. **File an official report if there is financial loss or significant data theft.** **Go to IdentityTheft.gov to create a personal recovery plan and file a complaint at ic3.gov (FBI), ensuring you include the phrase "Account Takeover" in the description.**
+1. **Go to the real site/app (not a link) and check account security**
+   - If you’re locked out, use the provider’s official recovery process.
+   - If you’re in, go to **Security / Sign-in activity** immediately.
+
+2. **Secure your email account immediately**
+   - Change the email password.
+   - Confirm recovery email/phone are yours.
+   - Look for suspicious mailbox rules/forwarding and remove anything you didn’t set.
+
+3. **Sign out everywhere**
+   - Use “**sign out of all devices**” / “log out of all sessions”.
+   - Remove unknown devices and revoke unknown third-party app access.
+
+4. **Change the password the safe way**
+   - Make it **unique** to this account.
+   - If you reused that password elsewhere, change those next — prioritize email, banking, shopping, mobile carrier, and work accounts.
+
+5. **Turn on MFA (two-factor authentication)**
+   - Use an authenticator app or device prompt if available.
+   - Store backup codes safely (not only in the potentially compromised email).
+
+6. **Review and undo damage**
+   - Check for changes to: recovery info, new “trusted devices,” new payment methods, shipping addresses, or messages/posts you didn’t send.
+   - If it’s social/messaging, warn contacts **only after** you’ve secured the account.
+
+7. **If there’s financial loss or account takeover fraud, report it**
+   - If money was stolen, purchases were made, or an account was taken over for fraud, consider filing a complaint with the **FBI’s Internet Crime Complaint Center (IC3)** (make sure you’re on the real site).
+   - If you see identity theft (new accounts, tax/benefits issues, or personal data being used), start a recovery plan at **IdentityTheft.gov**.
+
+8. **If a bank/card is involved, treat it as urgent**
+   - Contact the bank/card issuer through the number on your card or their official app/website.
+   - Ask them to stop/cancel suspicious transactions and secure the account.
 
 ## What can wait
-- You do not need to identify the exact IP address or physical identity of the person who logged in; the priority is locking them out.
-- You do not need to delete the account entirely as your first move unless you are unable to secure it.
-- You do not need to change every password for every minor account you own today—prioritize email, banking, and government accounts first.
-- You can wait until the accounts are secured before checking your full credit report with the three bureaus (Equifax, Experian, and TransUnion).
+- You don’t need to figure out exactly how they got in before securing access.
+- You don’t need to delete accounts or wipe devices as your first move.
+- You don’t need to change every password today — focus on **email + reused passwords + financially important accounts** first.
+- If you suspect identity theft, you can later consider a **credit freeze or fraud alert** and check your credit reports (do this after you’ve locked down email and key accounts).
 
 ## Important reassurance
-Seeing an unfamiliar location on your account is a common sign of a credential leak, but it does not mean your physical device or home network has been breached. By systematically changing your email password, ending all sessions, and enabling MFA, you are taking the most effective steps possible to regain control and prevent further access.
+This kind of alert can make you feel instantly unsafe or watched. Most harm happens in the first minutes when people click rushed links or delay locking down accounts. Taking control (email → sessions → password → MFA) is a strong, practical response.
 
 ## Scope note
-This guide provides immediate stabilization steps for suspected account unauthorized access. It does not cover deep forensic device cleaning or long-term legal recovery for identity theft. If you lose access to a government-managed account (e.g., SSA, IRS), you must contact that specific agency's fraud department.
+This is first-steps guidance to stop immediate harm and regain control. If you keep getting re-compromised, or if identity theft/financial fraud is involved, you may need additional help from the provider’s support, your bank’s fraud department, or formal reporting channels.
 
 ## Important note
-This information is for crisis stabilization and does not constitute legal or professional cybersecurity advice. Procedures for specific platforms (like Google, Apple, or Microsoft) may vary slightly; always follow the official "Account Recovery" prompts on the provider's verified domain. If you suspect your physical device is infected with malware, avoid using it to change passwords until it has been scanned or wiped.
+This is general information, not legal or professional advice. If you can’t regain access to key accounts (email, banking, work) or you see active financial loss, contact the provider/bank using verified official channels right away.
 
 ## Additional Resources
-- https://consumer.ftc.gov/node/77537
-- https://support.google.com/accounts/answer/140921?hl=en
-- https://support.google.com/accounts/answer/6294825?hl=en
-- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
+- https://consumer.ftc.gov/consumer-alerts/2024/10/email-or-social-media-hacked-heres-what-do
 - https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts
+- https://www.cisa.gov/secure-our-world/turn-mfa
+- https://www.identitytheft.gov/steps
+- https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts
+- https://www.ic3.gov/CrimeInfo/AccountTakeover
+- https://www.ic3.gov/PSA/2025/PSA250919

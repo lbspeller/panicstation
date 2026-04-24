@@ -1,95 +1,76 @@
----
+﻿---
 title: "What to do if… your gutters are overflowing and water is cascading down the exterior walls"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "gutters overflowing"
-  - "gutter overflow"
-  - "water cascading down walls"
-  - "rainwater running down exterior"
-  - "downpipe blocked"
-  - "gutter downpipe blockage"
-  - "leaking gutter during rain"
-  - "water pouring over gutter edge"
-  - "overflow at downpipe outlet"
-  - "water seeping into walls"
-  - "external wall water ingress"
-  - "damp patches after heavy rain"
-  - "storm runoff problem"
-  - "emergency home water issue"
-  - "water near sockets"
-  - "wet wall by electrics"
-  - "blocked road gully"
-  - "blocked public drain"
-  - "surface water pooling by house"
-  - "downpipe discharging too close"
-  - "help my gutters are overflowing"
-  - "help i have water running down my house walls"
-  - "what do i do if gutters overflow in heavy rain"
-  - "what do i do if rain water is coming in through the wall"
-  - "cascading water from roof"
-  - "blocked guttering emergency"
-  - "water entering airbricks"
-  - "saturated exterior walls"
-  - "splashing against brickwork"
-  - "gutter joint leaking"
-  - "sagging guttering"
-  - "clogged downspout"
-  - "rainwater hitting windows"
-  - "water pouring from roof edge"
-  - "standing water near foundations"
-last_reviewed: "2026-03-17"
+  - gutters overflowing
+  - gutter overflow
+  - water cascading down walls
+  - rainwater running down exterior
+  - downpipe blocked
+  - gutter downpipe blockage
+  - leaking gutter during rain
+  - water pouring over gutter edge
+  - overflow at downpipe outlet
+  - water seeping into walls
+  - external wall water ingress
+  - damp patches after heavy rain
+  - storm runoff problem
+  - emergency home water issue
+  - water near sockets
+  - wet wall by electrics
+  - blocked road gully
+  - blocked public drain
+  - surface water pooling by house
+  - downpipe discharging too close
+last_reviewed: "2026-03-04"
 ---
-# What to do if… your gutters are overflowing and water is cascading down the exterior walls (UK)
 
+# What to do if… your gutters are overflowing and water is cascading down the exterior walls (UK)
 ## Short answer
-Isolate electrical risks by checking internal walls for wetness near sockets, then use ground-level diversions to move water away from airbricks and door thresholds until conditions are safe for inspection.
+Get to a safe pause, then prioritise electrical safety and limiting water entry: check indoors for water near electrics, contain any drips, and use ground-level temporary diversion until the rain eases.
 
 ## Do not do these things
-- Do not use ladders or attempt to access the roof or guttering while it is raining, windy, or the ground is wet.
-- Do not touch any electrical switches, sockets, or the consumer unit (fuse box) if the wall is wet or you are standing on a damp floor.
-- Do not attempt to clear high-level blockages with poles or tools while standing on the ground if there are overhead power lines or external electrical fittings nearby.
-- Do not pour high-pressure water from a hose into a suspected blockage if you cannot see the discharge point.
-- Do not attempt permanent repairs, such as applying sealant or re-aligning brackets, until the surfaces are completely dry and the weather has cleared.
+- Do not use ladders or go onto the roof while it’s wet, windy, or you’re rushing/panicked.
+- Do not touch electrical switches, sockets, or fittings if the area is wet or you’re standing in water.
+- Do not poke tools into downpipes or guttering if there’s any chance you’re near external wiring, lights, or damaged electrical equipment.
+- Do not force water into a blocked downpipe with a hose if you can’t see where it will discharge.
+- Do not start “proper repairs” (resealing joints, rehanging gutters, removing sections) while water is still actively cascading.
 
 ## What to do now
-1. **Identify exactly where the water is entering or pooling indoors.** Check the interior side of the affected external walls for visible dampness, dark patches, or water running down the wallpaper or paint.
-   - Look specifically for water near light switches, sockets, or where cables enter the wall.
-   - Listen for "hissing" or "crackling" sounds if water is near electrical points.
-2. **Isolate the electricity if water is near internal electrical fittings.** Go to the consumer unit (fuse box) only if the area around it is dry and you are not standing in water.
-   - Switch off the specific circuit for the affected room or the main switch for the whole property.
-   - If the consumer unit itself is wet or dripping, do not touch it; evacuate the immediate area and call 105 (Great Britain) or 03457 643 643 (Northern Ireland) for the electricity network operator.
-3. **Move items away from the saturated internal wall.** Relocate furniture, electronics, and rugs to the centre of the room or another dry area.
-   - Use buckets or towels to catch and contain any active drips from the ceiling or window frames.
-4. **Clear ground-level blockages from a safe position.** Check the very bottom of the downpipe (the "shoe") and any drainage grates (gullies) on the ground.
-   - Only clear leaves or debris that you can reach by hand while standing firmly on the ground.
-   - If a gully is bubbling or water is backed up, the blockage is likely in the underground pipework.
-5. **Divert the cascading water away from the building foundations.** Use a temporary "chute" made from plastic sheeting, a spare length of pipe, or even a weighted-down tarpaulin to guide the water away from airbricks and doorways.
-   - Aim the water toward a clear drain or an area of the garden that slopes away from the house.
-6. **Report external flooding to the correct authority if the problem starts outside your boundary.** 
-   - **Blocked road gullies (square grates at the kerb):** Contact your local council Highways Department.
-   - **Overflowing public sewers or water mains:** Contact your regional water company (e.g., Thames Water, United Utilities, NI Water).
-   - **Flooding from a main river or the sea:** Call the Environment Agency incident hotline on 0800 80 70 60.
-   - **Immediate danger to life or property:** Call 999.
+1. **Check for immediate danger inside (especially electrics).** Check the inside of the affected wall(s) and nearby ceilings: active dripping, spreading damp patches, water near light fittings, and damp around sockets.  
+   - If water is near electrics, **do not touch any electrical switch if you’re standing in water or the area is wet**. Keep people out of that area.  
+   - If it’s safe and dry to access, **switch off power at the main switch** to the property area affected.
+2. **Contain indoors first.** Put towels and buckets/trays under any drips. Move valuables and soft furnishings away from the wall and off the floor (especially on the ground floor).
+3. **Do safe, ground-level checks outside.** From the ground only, look for the obvious: a downpipe outlet packed with leaves, a blocked shoe at the bottom of the downpipe, or a nearby gully grate covered with debris. Clear only what you can reach safely.
+4. **Reduce wall saturation with a temporary diversion.** If the overflow is concentrated at one point, place a large container/tub under the main spill to reduce splashback onto brickwork and around airbricks.
+5. **Carry the water away from the wall/foundations (temporary).** If you have one, fit a temporary downpipe extension (flexible hose/pipe) and guide discharge **well away from the wall** to a spot that drains away from the house (as far as your extension safely reaches). If you don’t, improvise a short “chute” with plastic sheeting weighted down to guide water away from airbricks, thresholds, and window surrounds.
+6. **If it’s becoming a wider drainage problem, contact the right place.**  
+   - **Blocked public drain / flooded road:** report to **your local council** (public highways drains/gullies).  
+   - **Sewer flooding or burst water main:** contact **your local water company**.  
+   - **Main river/serious environmental flooding:** the **Environment Agency incident hotline** can take reports.  
+   - **Immediate danger to life:** call **999**.
+7. **If you see dangerous damage to external electrical equipment (sparking, fallen lines, damaged street/house service equipment), keep away and call 105 (GB) or 999 if immediate danger.**
 
 ## What can wait
-- You do not need to determine if the gutter is undersized or improperly sloped while it is still raining.
-- You do not need to hire a gutter cleaning service or roofer until the immediate weather front has passed.
-- You do not need to start drying out the interior walls with heaters or dehumidifiers until the water ingress has been fully stopped.
-- You do not need to contact your insurance company until you have stabilized the situation and can assess the extent of any damage.
+- You do not need to diagnose the exact cause (blocked downpipe vs poor gutter fall vs undersized guttering) while it’s still raining heavily.
+- You do not need to get on ladders, remove guttering, or do sealant work today if conditions are unsafe.
+- You do not need to start drying plaster or running dehumidifiers until you’re confident water ingress has stopped and electrics are safe.
+- You do not need to decide about insurance or contractors right now if you’ve stabilised and limited spread.
 
 ## Important reassurance
-Gutter overflows often look more severe than they are because a large volume of roof water is being funneled into a single spill point. By focusing on electrical safety and moving water away from your airbricks, you are mitigating the most immediate risks of fire and significant internal flooding.
+Overflowing gutters can look dramatic because the water is concentrated in one place. If you focus on (1) electrical safety, (2) keeping water away from openings like airbricks/thresholds, and (3) temporary diversion, you’re doing the right things for now.
 
 ## Scope note
-This guide provides first-step stabilization only. It does not cover technical repairs, ladder safety for high-level maintenance, or structural surveys required after significant water ingress.
+This is first-steps-only guidance to reduce harm and buy time. Once conditions are safe, further checks (blockages, gutter fall, leaking joints, damaged fascia/soffit, and drainage issues at ground level) may need a competent tradesperson.
 
 ## Important note
-This information is for general guidance and does not replace the advice of a qualified electrician, roofer, or drainage specialist. Always prioritize personal safety over property protection. If you are a tenant, notify your landlord or letting agent as soon as the immediate situation is stabilized.
+This is general information, not a substitute for professional assessment. If you suspect electrical danger, structural damage, or significant flooding, prioritise safety and seek urgent help.
 
 ## Additional Resources
-- https://www.gov.uk/private-renting/repairs
-- https://www.gov.uk/government/publications/damp-and-mould-understanding-and-addressing-the-health-risks-for-rented-housing-providers/understanding-and-addressing-the-health-risks-of-damp-and-mould-in-the-home--2
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/getting-your-landlord-to-do-repairs/asking-the-council-to-help-you-get-repairs-done/asking-the-local-authority-for-help-with-repairs/
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/check-if-your-landlord-has-to-do-repairs/
-- https://www.rbkc.gov.uk/environment/flooding-and-extreme-weather/flooding/flooding-advice-plan-and-prepare-flood
+- https://www.gov.uk/help-during-flood
+- https://www.gov.uk/report-blocked-drain
+- https://www.gov.uk/report-flood-cause
+- https://www.gov.uk/get-flood-warnings
+- https://www.gov.uk/report-environmental-problem
+- https://powercuts.nationalgrid.co.uk/power-cut-advice/who-to-contact

@@ -1,85 +1,77 @@
----
+﻿---
 title: "What to do if… you receive a message claiming to be from a court with a payment link and you are not sure it is real"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "received fake court text"
-  - "court payment link scam"
-  - "suspicious court sms"
-  - "court fine message real or fake"
-  - "help i clicked a court payment link"
-  - "my court message looks suspicious"
-  - "what do i do if i get a court text"
-  - "hmcts text message scam"
-  - "urgent court payment demand sms"
-  - "fake court reference number"
-  - "bailiff enforcement text message"
-  - "court summons by text message"
-  - "is this court link safe"
-  - "scam text saying i owe a fine"
-  - "pay court fine online text"
-  - "court payment link help"
-  - "my phone got a court text"
-  - "help i gave my bank details to a court text"
-  - "fake notice of enforcement text"
-  - "what do i do if court text link"
-  - "official looking court sms"
-  - "unexpected court payment link"
-  - "court message says warrant issued"
-  - "court payment demand scam"
-  - "scam sms court reference"
-  - "received suspicious tribunal link"
-  - "court text message verification"
-  - "my bank details on fake court site"
-  - "fake court fine link"
-  - "court text payment scam help"
-last_reviewed: "2026-03-17"
+  - court text message scam
+  - fake court payment link
+  - court fine link not sure
+  - suspicious court sms
+  - hmcts impersonation message
+  - urgent court payment demand
+  - pay now court link
+  - unknown court reference number
+  - court notice looks real
+  - message says warrant unpaid fine
+  - bailiff enforcement text scam
+  - government-looking payment page
+  - clicked court link by mistake
+  - gave details to court text
+  - court email or text phishing
+  - unexpected court contact
+  - court summons by text
+  - court fee demand message
+  - is this court message real
+  - tribunal payment link text
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you receive a message claiming to be from a court with a payment link and you are not sure it is real (UK)
 
 ## Short answer
-Do not click the link or provide any information. Verify the claim independently by finding the genuine contact details for the relevant court or tribunal through official government channels.
+Don’t click the link or pay. Verify independently by contacting the relevant court/tribunal using official contact details you find yourself (not from the message).
 
 ## Do not do these things
-- Don't click the link "just to check" or "to see the details of the fine."
-- Don't reply to the text message or call any phone numbers provided within the message.
-- Don't share your National Insurance (NI) number, date of birth, or bank details to "verify your identity" over text.
-- Don't assume the message is real because it uses official logos or your correct name; scammers can spoof sender IDs and scrape public data.
-- Don't interact with any message claiming to be from HMCTS on WhatsApp; the court service does not use WhatsApp for official contact.
+- Don’t click the payment link “just to see what it says” or enter any details.
+- Don’t reply to the message or call any number it provides.
+- Don’t let urgency (“pay today”, “warrant”, “final warning”) push you into paying before you verify.
+- Don’t share personal details (date of birth, NI number, address) to “confirm your identity” via text/email.
+- Don’t assume it’s real because it looks official — sender names and links can be faked.
 
 ## What to do now
-1. **Pause and treat the message as fraudulent by default.** HM Courts and Tribunals Service (HMCTS) and the Scottish/Northern Irish equivalents do not typically issue fines or payment links via SMS without a pre-existing case you are already aware of.
-2. **Take a screenshot of the message for evidence.** Capture the sender's number or name and the full URL of the link, but do not click on it.
-3. **Verify through official contact routes only.**
-   - **England and Wales:** Use the "Find a court or tribunal" service on GOV.UK to find the phone number for the court mentioned in the text.
-   - **Scotland:** Contact the Scottish Courts and Tribunals Service (SCTS) directly using the directory on the official scotcourts.gov.uk website.
-   - **Northern Ireland:** Contact the Northern Ireland Courts and Tribunals Service (NICTS) using the official justice-ni.gov.uk directory.
-4. **Report the scam message.**
-   - **Forward the text to 7726.** This is a free service that alerts your mobile provider to the scam.
-   - **Report to the national fraud centre.** In England, Wales, and Northern Ireland, use the **Report Fraud** service (the successor to Action Fraud) at reportfraud.police.uk or call 0300 123 2040.
-   - **Report to Police Scotland.** If you are in Scotland, call 101 to report the fraud.
-5. **Take immediate action if you shared financial or personal data.**
-   - **Call your bank immediately.** Use the number on the back of your card or call **159** to be connected directly to your bank's fraud department.
-   - **Secure your digital accounts.** Change your email password and ensure two-factor authentication (2FA) is active.
-   - **Scan your device.** If you downloaded any files from the link, run a reputable antivirus scan or seek technical support to ensure no malware was installed.
+1. **Pause and treat it as suspicious by default.** Scammers often impersonate courts and enforcement to create panic.
+2. **Capture evidence safely:** screenshot the message (showing the sender and the link), then stop interacting with it.
+3. **Verify using official contact routes (not the message):**
+   - **England & Wales (and some tribunals):** use the GOV.UK **Find a court or tribunal** service to get the genuine contact details, then ask if anything is actually outstanding in your name.
+   - **Scotland:** for most court matters, use **Scottish Courts and Tribunals Service** contact details (not the message) to verify. (The GOV.UK finder is limited in Scotland.)
+   - **Northern Ireland:** use **Northern Ireland Courts and Tribunals Service** contact details to verify. (The GOV.UK finder cannot be used for Northern Ireland.)
+4. **Report the message:**
+   - **Forward the text to 7726 (SPAM)** to report it to your mobile provider.
+   - If it’s fraud (or you’ve lost money), report it to **Report Fraud (Action Fraud)** if you’re in **England, Wales, or Northern Ireland**. If you’re in **Scotland**, report to **Police Scotland** (101 or online reporting for non-urgent matters).
+5. **If you clicked the link or entered details:**
+   - **Contact your bank/card provider immediately** (use the number on the back of your card or your banking app) and say you may have entered details on a fraudulent payment page. Ask them to **stop/flag payments and replace cards** if needed.
+   - **Secure your email first:** change your email password and turn on two-factor authentication, then change any other accounts that reuse that password.
+   - If you downloaded anything, **run a device security scan** and avoid logging into banking until you’re confident the device is clean (get help from a trusted person if you’re unsure).
 
 ## What can wait
-- You don't need to worry about "missing a deadline" mentioned in the text; genuine court deadlines allow time for official correspondence.
-- You don't need to decide whether to contest the fine until you have confirmed it actually exists.
-- You don't need to contact the police in person unless you are in immediate physical danger.
+- You don’t need to decide now whether to “fight it” or “pay it” — first confirm whether it’s real.
+- You don’t need to analyse the website or the wording; verification via official contacts is safer.
+- You don’t need to contact multiple agencies at once: report it, and only take bank/account steps if you interacted with the link.
 
 ## Important reassurance
-Scammers use "high-stakes" language like "warrants" and "arrest" to trigger a panic response. It is a normal physiological reaction to feel anxious when seeing these words. By stopping and choosing to verify through a separate channel, you are taking the most effective step to protect yourself.
+It’s normal to feel a jolt of fear when a message mentions courts, fines, or warrants — that reaction is exactly what scammers try to trigger. Slowing down and verifying through official contact details is a safe, sensible response.
 
 ## Scope note
-This guide is for immediate stabilization and fraud prevention following a suspicious text. If a court confirms you have a genuine outstanding payment or case, you should seek formal legal advice or contact Citizens Advice.
+This is first-steps-only guidance to reduce harm and prevent a rushed payment. If the court/tribunal confirms something genuine is outstanding, you may want specialist advice about next steps.
 
 ## Important note
-This information is based on UK court and fraud reporting procedures as of 2026. Official processes for collecting fines differ between England/Wales, Scotland, and Northern Ireland. This is not legal advice.
+This is general information, not legal advice. Processes vary across the UK and by case type. If you feel at immediate risk, use emergency services.
 
 ## Additional Resources
 - https://www.gov.uk/guidance/guidance-on-hmcts-related-suspicious-phone-calls-emails-and-text-messages
-- https://www.gov.uk/government/news/hmcts-warning-on-email-scams
-- https://www.justice.gov.uk/help/fraud
-- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
-- https://www.gov.uk/government/news/warning-about-bailiff-email-scam
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.gov.uk/find-court-tribunal
+- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/7726-reporting-scam-texts-and-calls
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.scotland.police.uk/advice/scams-and-frauds/

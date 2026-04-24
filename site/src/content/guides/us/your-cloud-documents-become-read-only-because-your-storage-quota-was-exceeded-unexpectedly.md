@@ -1,101 +1,97 @@
----
+﻿---
 title: "What to do if… your cloud documents become read-only because your storage quota was exceeded unexpectedly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "operating system not found"
-  - "os not found"
-  - "missing operating system"
-  - "boot device not found"
-  - "no bootable device"
-  - "hard drive not detected"
-  - "computer wont boot"
-  - "pc wont start"
-  - "mac flashing question mark"
-  - "stuck on recovery screen"
-  - "windows failed to start"
-  - "startup repair loop"
-  - "what do i do if my computer says os not found"
-  - "what do i do if my laptop wont boot"
-  - "what do i do if my hard drive is missing"
-  - "what do i do if my mac shows a question mark"
-  - "help i lost my operating system"
-  - "help my pc is stuck on recovery"
-  - "help my windows says os missing"
-  - "help my mac is flashing a folder"
-  - "black screen with white text"
-  - "blue screen recovery mode"
-  - "clicking sound from laptop"
-  - "smell of burning plastic"
-  - "no bootable medium found"
-  - "invalid partition table"
-  - "disk error press any key"
-  - "boot failure"
-  - "operating system missing"
-  - "laptop boot loop"
-  - "operating sytem not found"
-  - "missin os"
-last_reviewed: "2026-03-17"
+  - cloud documents read-only
+  - cloud storage quota exceeded
+  - storage full unexpectedly
+  - onedrive read only mode
+  - onedrive storage full
+  - google drive out of space
+  - google account storage full
+  - icloud storage full
+  - iCloud Drive locked read-only
+  - can’t edit cloud docs
+  - cloud files won’t sync
+  - storage limit exceeded error
+  - documents suddenly read-only
+  - quota exceeded message
+  - drive says full
+  - cloud trash still counts
+  - empty trash to free space
+  - urgent file access problem
+  - cloud storage lockout
+  - unexpected cloud billing
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your cloud documents become read-only because your storage quota was exceeded unexpectedly (USA)
 
 ## Short answer
-Stop all restart attempts immediately and unplug external storage to prevent accidental data overwriting or mechanical drive damage.
+Don’t panic-delete. First download/export the files you need today, then get under the storage limit using the provider’s storage breakdown (including permanently clearing the relevant trash/recently deleted areas that still count), or temporarily upgrade to unlock editing.
 
 ## Do not do these things
-- Do not select **Reset this PC**, **Factory Reset**, or **Reinstall macOS** if you have not backed up your files.
-- Do not repeatedly power-cycle the machine, especially if you hear clicking, grinding, or whirring noises.
-- Do not open the computer's outer casing or attempt to remove the internal drive yourself if you are not a certified technician.
-- Do not download "auto-fix" software from a different device to run on the failing computer.
-- Do not plug in your primary backup drive while the system is in an unstable recovery state.
+- Don’t bulk-delete whole folders without checking what actually uses space.
+- Don’t permanently empty trash/recently deleted if you’re not sure you can live without what’s in there (download/export first if unsure).
+- Don’t keep editing across multiple devices while sync is failing (you can create version conflicts).
+- Don’t reset devices, wipe apps, or sign out everywhere as your first response.
+- Don’t give account access to unknown “support” callers, texts, or pop-ups.
 
 ## What to do now
-1. **Document the exact error message and any visible codes.**
-   - Use a separate device to take a clear photo of the screen.
-   - Record if the screen is black with white text, a blue recovery menu, or a flashing folder icon.
+1. **Secure what you can’t afford to lose right now.**
+   - Download/export the specific read-only documents you need and save a local copy.
+   - If possible, save a second copy somewhere separate (external drive/USB, or a different account you control).
 
-2. **Remove every external peripheral except for the power cable.**
-   - Disconnect USB thumb drives, SD cards, printers, docks, and external hard drives.
-   - Restart the computer once to see if it was mistakenly trying to boot from a forgotten USB stick.
+2. **Verify it’s quota, not permissions.**
+   - Open the account’s storage/usage page and confirm you’re over the limit.
+   - If only one folder/file is read-only, confirm you’re signed into the correct account and that your editing rights weren’t changed.
 
-3. **Listen for unusual mechanical sounds from the device.**
-   - If you hear rhythmic clicking or loud grinding, power off the device immediately by holding the power button.
-   - Do not attempt further software repairs if mechanical failure is suspected, as this can make data recovery impossible.
+3. **Free space using the “storage breakdown” view (fastest and safest).**
+   - Sort by **largest items** and remove one or two you’re confident you don’t need (download first if unsure).
+   - If your provider bundles storage across products (for example, drive + email + photos), check which product is using the most and start there.
 
-4. **Access the built-in diagnostic or repair environment.**
-   - **Windows:** Select **Troubleshoot > Advanced options > Startup Repair** if the blue recovery screen is visible.
-   - **Mac (Intel):** Hold **Command (⌘) + R** during startup to enter Recovery; use **Disk Utility > First Aid**.
-   - **Mac (Apple Silicon):** Press and hold the power button until "Loading startup options" appears, then select **Options > Disk Utility > First Aid**.
+4. **Permanently clear what still counts against your limit (only after you’ve checked).**
+   - Empty the relevant Trash/Recycle Bin/Recently Deleted areas that count toward your quota.
+   - If the quota is shared, also clear the biggest “deleted” areas in the linked products (for example, email trash/spam if that’s a major contributor).
 
-5. **Verify the boot order in the BIOS or UEFI settings.**
-   - Access the settings (usually by tapping **F2, F10, or DEL** during startup) to ensure the internal "Windows Boot Manager" or the primary SSD is at the top of the list.
-   - If the internal drive does not appear in the list at all, the issue is likely a hardware disconnection or failure.
+5. **If deletions are failing because you’re over quota, do the smallest safe unlock.**
+   - Try doing the deletion and trash-emptying from the provider’s **web interface** (often works better than mobile apps).
+   - If you urgently need editing restored and cleanup is blocked/slow, consider a **short-term plan upgrade** to remove the lock—then downgrade later after a calmer cleanup (if the provider allows).
 
-6. **Prioritize data preservation over system repair.**
-   - Stop all repair attempts if you see messages about "formatting," "partitioning," or "cleaning" the disk.
-   - If the built-in repair tools fail, contact an authorized service provider or a professional data recovery firm.
+6. **Pause syncing while you stabilize.**
+   - Pause sync on devices showing errors until you’re back under quota and can confirm updates are flowing.
+   - If you must continue working immediately, work only from the downloaded/exported copy until sync is normal.
 
-7. **Review your warranty and consumer rights.**
-   - Locate your proof of purchase and check the manufacturer's warranty status.
-   - Note that under the Magnuson-Moss Warranty Act, using an independent repair shop for a non-related issue generally does not void your hardware warranty.
+7. **Document what happened (helps with support and billing disputes).**
+   - Screenshot: the “quota exceeded/read-only” notice, your storage breakdown, and any unexpected charge/renewal screen.
+   - Write down: when it started, what device you were using, and any recent changes (new backup, large upload, shared folder added).
+
+8. **Escalate via the correct support channel.**
+   - Work/school account: contact your IT/admin (they may need to raise quota or change retention/recycle-bin settings).
+   - Personal account: contact provider billing/support using your screenshots and timeline.
+
+9. **If a paid service won’t resolve a serious billing/deceptive-practice issue (USA-specific).**
+   - Follow the general complaint path (contact the company first and keep records).
+   - If you believe it involves fraud or unfair/deceptive practices, you can report it to the **Federal Trade Commission (FTC)**.
 
 ## What can wait
-- You do not need to decide whether to buy a new computer today.
-- You do not need to attempt advanced command-prompt repairs or "rebuilding the BCD" while in a state of panic.
-- You do not need to wipe the drive or perform a "Clean Install" of the operating system immediately.
+- You don’t need to reorganize your entire cloud, migrate providers, or design a perfect backup system today.
+- You don’t need to fix every device immediately—quota first, then sync health.
+- You don’t need to decide on a permanent paid plan right now if a short-term unlock is enough to reduce risk.
 
 ## Important reassurance
-Seeing an "Operating System Not Found" message is a common response to minor software glitches, interrupted updates, or simple boot-priority errors. Taking a moment to pause and avoid "Reset" buttons is the most effective way to protect your photos and documents from permanent loss.
+A sudden switch to read-only feels like data loss, but it’s often a protective restriction triggered by being over quota. In many cases your files are still intact—you’re just temporarily blocked from editing until storage drops back under the limit and the service catches up.
 
 ## Scope note
-This guide provides first-step stabilization for a computer that fails to reach the login screen. It does not cover specialized data recovery for encrypted drives or physical repair of damaged hardware.
+These are first steps to prevent accidental loss and regain editing quickly. Longer-term improvements (alerts, backups, retention settings) are useful—but they can wait until you’re stable.
 
 ## Important note
-This information is for educational purposes and does not constitute professional IT or legal advice. Recovery outcomes depend on the physical health of the storage media and the nature of the software corruption. If you suspect mechanical drive failure, cease all activity and consult a professional.
+This guide is general information, not technical, legal, or financial advice. Each provider’s storage rules and timing vary, and workplace accounts may have admin-controlled retention policies that affect what you can delete and when.
 
 ## Additional Resources
-- https://support.google.com/mail/answer/6374270?hl=en
-- https://support.google.com/googleone/answer/9776477?co=GENIE.Platform%3DDesktop&hl=en
-- https://support.microsoft.com/en-us/office/my-onedrive-says-it-s-full-f0a8a922-d971-497e-b0c6-7b9a47c617c0
-- https://support.microsoft.com/en-us/office/why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15
+- https://support.microsoft.com/en-gb/office/my-onedrive-says-it-s-full-f0a8a922-d971-497e-b0c6-7b9a47c617c0
+- https://support.google.com/drive/answer/6374270?hl=en
 - https://support.apple.com/en-us/108922
+- https://www.ftc.gov/media/how-file-complaint-federal-trade-commission
+- https://www.usa.gov/company-product-service-complaints

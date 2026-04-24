@@ -1,110 +1,95 @@
----
+﻿---
 title: "What to do if… an ex keeps contacting you from new accounts with sexual messages after you blocked them"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "ex keeps contacting me"
-  - "blocked but they keep messaging"
-  - "new accounts after blocking"
-  - "unwanted sexual messages"
-  - "sexual harassment by ex"
-  - "online sexual harassment"
-  - "cyberstalking by ex"
-  - "digital stalking messages"
-  - "repeated contact after breakup"
-  - "harassment on social media"
-  - "fake profiles contacting me"
-  - "sexting after i said stop"
-  - "ex creating new profiles"
-  - "persistent dms after blocking"
-  - "unwanted explicit messages"
-  - "intimidation through messages"
-  - "harassment from multiple accounts"
-  - "sexual messages after no contact"
-  - "ex won’t leave me alone online"
-  - "what do i do if my ex is stalking me online"
-  - "what do i do if my ex creates fake profiles"
-  - "what do i do if my ex sends sexual messages"
-  - "what do i do if i am being cyberstalked"
-  - "help i am being harassed by an ex"
-  - "help i keep getting sexual messages from new accounts"
-  - "help i blocked my ex but they keep messaging"
-  - "my ex is sending sexual messages from new accounts"
-  - "my ex will not stop contacting me after blocking"
-  - "unwanted sexual dms"
-  - "harassment pattern observation"
-  - "sexual messages cue"
-  - "blocked account notification"
-  - "stalking log"
-  - "cyberstalking report"
-  - "online harassment help"
-last_reviewed: "2026-03-17"
+  - ex keeps contacting me
+  - blocked but they keep messaging
+  - new accounts after blocking
+  - unwanted sexual messages
+  - sexual harassment by ex
+  - online sexual harassment
+  - cyberstalking by ex
+  - digital stalking messages
+  - repeated contact after breakup
+  - harassment on social media
+  - fake profiles contacting me
+  - sexting after i said stop
+  - ex creating new profiles
+  - persistent dms after blocking
+  - unwanted explicit messages
+  - intimidation through messages
+  - harassment from multiple accounts
+  - sexual messages after no contact
+  - ex won’t leave me alone online
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… an ex keeps contacting you from new accounts with sexual messages after you blocked them (USA)
 
 ## Short answer
-Do not respond to any messages. Record a brief evidence log of the new accounts, then block and report them via the platform and the FBI’s Internet Crime Complaint Center (ic3.gov).
+Don’t respond—shift to “save a little + block + report.” If you feel unsafe or they threaten you, call 911, and consider confidential support from RAINN or the National Domestic Violence Hotline.
 
 ## Do not do these things
-- Don’t reply to "shut it down," explain your boundaries again, or argue.
-- Don’t use your main social media accounts to post screenshots of the harassment while it is active.
-- Don’t delete the new accounts or messages before taking a quick screenshot.
-- Don’t assume that "just online" contact cannot escalate into physical safety risks.
-- Don’t attempt to "unmask" the accounts yourself or engage with followers of the ex.
+- Don’t reply to “shut it down” or argue—any response can increase contact.
+- Don’t try to “reason” with them in DMs, even if your message is clear.
+- Don’t post public accusations or screenshots while you’re still being targeted (it can escalate and expose your info).
+- Don’t delete everything in panic if you might want help later—save a minimal record first.
+- Don’t assume repeated online contact can’t be dangerous; patterns can escalate.
 
 ## What to do now
-1. **Move to a safe space and reduce immediate digital exposure.**
-   - Put your device on Do Not Disturb or Airplane Mode to stop the influx of notifications.
-   - Step away from the screen for a few minutes to interrupt the immediate cycle of distress.
+1. **Get to a steadier moment and reduce immediate exposure.**  
+   Put your phone on Do Not Disturb, mute message requests, and step away from the app for a few minutes so you can act calmly.
 
-2. **Maintain a strict zero-contact policy regardless of the message content.**
-   - Do not send a final "stop" or "leave me alone" message; if you have previously stated no contact, the boundary is already set.
-   - Any response, even a negative one, confirms your attention and often encourages further account creation.
+2. **Adopt one rule: zero contact.**  
+   Do not respond at all from this point (including “stop”). If you’ve already told them to stop, you don’t need to repeat it.
 
-3. **Capture a minimal record of the stalking pattern.**
-   - Take screenshots that clearly show the **sender's handle**, the **date and time**, and the **sexual content** of the messages.
-   - Copy the direct URL or profile link of each new account before it is deleted or blocked.
-   - Store these in one secure folder and then stop looking at them.
+3. **Save a minimal record (only if it feels safe).**  
+   Make one folder and capture:
+   - screenshots showing the **account name**, **message content**, and **date/time**; and
+   - the **profile link/URL/handle** if available.  
+   Keep it brief—enough to show repetition/pattern—then stop.
 
-4. **Block and report every new account using platform-specific tools.**
-   - Select the report options for "Harassment" or "Sexual Content/Nudity" so the platform's safety team prioritizes the review.
-   - Use "Block this account and any new accounts they may create" features if the platform provides them.
+4. **Block and report each new account using the strongest in-app tools available to you.**  
+   - Report harassment/sexual content and attach the relevant message(s) where possible.  
+   - If the platform has a setting that blocks the person’s *future* accounts (wording varies), use it.  
+   - If it doesn’t, keep doing the repeatable loop: **block + report + restrict who can message you** (message requests/unknown senders filters, friends-only DMs, etc.).
 
-5. **Tighten privacy settings to prevent further discovery.**
-   - Set all social media profiles to Private and restrict Direct Messages (DMs) to "Followers Only" or "Friends Only."
-   - Disable "Message Requests" from unknown senders and turn off "Discoverability" via phone number or email address.
-   - Use a different device or a secure network (like a library or a friend's phone) to change passwords if you suspect your current device is being monitored.
+5. **Make quick privacy changes that specifically cut off repeat access.**  
+   - Limit who can DM you, comment, tag you, or see your stories/online status.  
+   - Remove phone/email discoverability where possible.  
+   - If they keep finding you, consider a temporary username change and tighten follower/friend lists.  
+   **If you suspect your phone/accounts are monitored, make these changes from a safer device/account session first.**
 
-6. **File an official report with the FBI's Internet Crime Complaint Center (IC3).**
-   - Visit **ic3.gov** to report cyberstalking and online harassment.
-   - Provide the handles, dates, and a description of the persistent pattern (e.g., "subject creates new accounts to bypass blocks and send sexual messages").
+6. **If you feel in danger, call 911.**  
+   If they threaten harm, show up in person, share your private info, or you believe escalation is imminent, treat it as urgent. When you contact law enforcement, describe the pattern: blocked → new accounts → repeated sexual messages, with dates.
 
-7. **Contact confidential specialist support for safety planning.**
-   - **National Sexual Assault Hotline (RAINN):** Call 800-656-4673, use the online chat at rainn.org, or text HOPE to 64673.
-   - **National Domestic Violence Hotline:** Call 800-799-7233, text START to 88788, or use the chat at thehotline.org.
+7. **Use confidential specialist support to plan next steps.**  
+   - **RAINN** offers free, confidential support (phone/chat/text) and can help you think through options.  
+   - The **National Domestic Violence Hotline** also offers confidential support and safety planning, including around technology-facilitated abuse.
 
-8. **Tell a trusted person about the situation and your plan.**
-   - Briefly explain that you are being contacted from new accounts and that you are not responding.
-   - Ask them to check in with you at a specific time so you do not feel isolated.
+8. **Tell one trusted person and set a practical boundary.**  
+   Example: “I’m not replying. If I get messages, I’m screenshotting and reporting—can you check in with me tonight?” This helps you stick to your plan and feel less alone.
 
 ## What can wait
-- You don’t need to decide whether to seek a Civil Protection Order or Restraining Order immediately.
-- You don’t need to organize your evidence log into a formal presentation today.
-- You don’t need to explain the situation to your entire social circle or mutual friends.
-- You don’t need to permanently delete your social media presence unless you choose to.
+- You don’t need to decide right now about restraining/protective orders, pressing charges, or making a formal report.
+- You don’t need to organise every message perfectly—just keep a basic pattern record.
+- You don’t need to confront them or “prove” anything to anyone today.
+- You don’t need to overhaul all your accounts tonight—make the smallest changes that reduce access first.
 
 ## Important reassurance
-Receiving persistent, unwanted sexual messages is a form of digital violence and your feelings of disgust or anxiety are normal. Blocking, reporting, and stepping away are the most effective ways to protect your digital space. You are not responsible for the behavior of the person creating these accounts.
+Feeling disgusted, anxious, frozen, or embarrassed is a normal response to being targeted like this. You didn’t cause it. Choosing calm, repeatable steps—no contact, minimal record, block/report, get support—is protective and effective.
 
 ## Scope note
-This guide provides first-step stabilization for digital harassment and stalking. Long-term safety planning or legal actions may require assistance from a victim advocate or legal professional.
+This is first steps only—meant to reduce harm and buy time. If the behavior continues, a local advocate (or law enforcement if needed) can help you plan safer next steps without you having to handle it alone.
 
 ## Important note
-This information is for general guidance and is not legal or professional advice. If you believe the person may show up at your home or workplace, or if they make specific threats of physical harm, call 911 or your local emergency services immediately.
+This is general information, not legal advice. If you’re in immediate danger, call 911. If you’re worried your device/accounts are being monitored, consider using a safer device/network (for example, a trusted friend’s phone or a public computer) to contact support and to change passwords/security settings.
 
 ## Additional Resources
-- https://www.womenslaw.org/about-abuse/abuse-using-technology/ways-survivors-use-and-abusers-misuse-technology/cyberstalking-6
+- https://rainn.org/help-and-healing/hotline/
+- https://rainn.org/learn-about-rainn/contact-us/
+- https://www.thehotline.org/get-help/
+- https://www.thehotline.org/what-to-expect-when-you-contact-us/
+- https://www.womenslaw.org/about-abuse/abuse-using-technology/all
 - https://www.womenslaw.org/about-abuse/abuse-using-technology/responding-technology-misuse-civil-and-criminal-options/how-can-i
-- https://rainn.org/reporting-sexual-assault-to-law-enforcement/how-to-report-tech-enabled-sexual-abuse/
-- https://rainn.org/strategies-to-reduce-risk-increase-safety/stay-safer-on-social-media/
-- https://victimconnect.org/get-help/

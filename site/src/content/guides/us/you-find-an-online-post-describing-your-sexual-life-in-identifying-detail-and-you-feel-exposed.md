@@ -1,98 +1,85 @@
----
+﻿---
 title: "What to do if… you find an online post describing your sexual life in identifying detail and you feel exposed"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "sexual life post online"
-  - "exposed sexual details"
-  - "identifying sexual post"
-  - "online post about my sex life"
-  - "sexual rumors online help"
-  - "what do i do if my sexual life is posted online"
-  - "what do i do if i feel exposed by an online post"
-  - "what do i do if someone posted about my sex life"
-  - "what do i do if my intimate details are public"
-  - "help i feel exposed online"
-  - "help i found a post about my sex life"
-  - "help i am being doxxed for my sex life"
-  - "help i am being shamed online"
-  - "my sexual life is on the internet"
-  - "my sex life is being described online"
-  - "my identifying details in a sexual post"
-  - "my private sexual life exposed"
-  - "smell of digital harassment"
-  - "seeing my name in a sexual thread"
-  - "identifying detail sexual harassment"
-  - "revenge porn with text description"
-  - "non-consensual sexual disclosure"
-  - "tech enabled sexual abuse"
-  - "online sexual exposure USA"
-  - "humiliating post about my sex life"
-  - "unauthorized sexual post"
-  - "exposed by identifying post"
-  - "sexual post removal help"
-  - "online post identifying me"
-  - "sexual story about me online"
-last_reviewed: "2026-03-17"
+  - explicit post about me
+  - sexual details shared online
+  - identifying sexual rumours
+  - intimate life described publicly
+  - humiliating post with my name
+  - sexual harassment online
+  - someone is doxxing my sex life
+  - private info shared sexually
+  - revenge post about my sex life
+  - non-consensual sexual story
+  - sexual allegations with identifiers
+  - screenshots of sexual messages
+  - my intimate life posted on social media
+  - sexual content posted without consent
+  - online abuse about sex
+  - i feel exposed online
+  - strangers commenting on my sex life
+  - workplace can find the post
+  - family can find the post
+  - explicit thread about me
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you find an online post describing your sexual life in identifying detail and you feel exposed (USA)
 
 ## Short answer
-Do not engage with the content or the poster. Document the post immediately via screenshots, then use platform reporting tools and the Cyber Civil Rights Initiative (CCRI) helpline to initiate a 48-hour federal takedown request.
+Don’t engage with the post. Save the key evidence safely, report it for removal through the platform, and use a specialist support service if you feel overwhelmed or threatened.
 
 ## Do not do these things
-- Don't reply, comment, or "set the record straight" on the post, as engagement often triggers algorithms to show the content to more people.
-- Don't message the poster to beg or threaten them; this provides them with more content and potential leverage.
-- Don't pay "removal fees" to private websites or "reputation managers" who claim they can delete it for a fee; these are often predatory scams.
-- Don't delete the post yourself if you have administrative access until you have saved the evidence (URL and screenshots).
-- Don't share the link with friends "to see if it's really me," as this increases the post's traffic and visibility.
+- Don’t reply, argue, or try to “explain” in comments (it usually spreads and escalates).
+- Don’t send threats or rage-messages to the poster (it can increase risk and create more screenshots).
+- Don’t delete your accounts/messages in a panic if you might want help with reporting later.
+- Don’t ask lots of people to view it “to confirm” — that increases reach.
+- Don’t agree to demands (money, more images, sex, meeting up) if this is tied to coercion or blackmail.
 
 ## What to do now
-1. **Move to a safe digital and physical space before reviewing the content further.**  
-   Stop scrolling immediately. Place your device face down and take 60 seconds to step away from the screen to reduce the immediate physiological shock of exposure.
+1. **Create a small safety bubble for the next hour.**  
+   Step away from scrolling. If you’re shaking or panicking, move to a quieter place, sip water, and focus on one task at a time.
 
-2. **Capture and save high-quality evidence of the exposure.**  
-   Take full-page screenshots that clearly show:
-   - The full URL (web address) of the post.
-   - The username or handle of the person who posted it.
-   - The exact date and time the post was made.
-   - All identifying text (names, workplace, locations) and any images included.
+2. **Preserve the minimum evidence (in case you need it).**  
+   Take screenshots showing: the post, username/handle, date/time, and the URL. If comments contain identifying details (full name, workplace, address, phone), capture those too. Save everything somewhere private (not a shared device).
 
-3. **Use the platform's official reporting tool under "Harassment" or "Non-consensual Sexual Content."**  
-   **Under the 2025 TAKE IT DOWN Act, major platforms are required to provide a clear reporting path and must remove non-consensual intimate or sexual content within 48 hours of a valid report.**  
-   - Select the category for "Sexual Harassment" or "Private Information/Doxxing" if a specific "Non-consensual sexual content" option is missing.
+3. **Report the content for removal where it is posted.**  
+   Use the platform’s reporting categories closest to: harassment, sexual harassment, non-consensual sexual content, private information/doxxing, impersonation, or threats. If the post shares identifying details, report those elements separately too.
 
-4. **Utilize specialized hashing tools to prevent further spread.**  
-   If the post includes intimate images or videos, use these specific, free technical services:
-   - **StopNCII.org** (for adults 18+): This generates a "digital fingerprint" of the file on your device so participating platforms can automatically block or remove it.
-   - **Take It Down (NCMEC)** (for anyone under 18, or for images taken when you were under 18): This provides the same hashing protection specifically for minors.
+4. **If there are threats, stalking, or blackmail, treat it as urgent.**  
+   If you feel in immediate danger, call **911**. If it’s not immediate danger but you’re being coerced, threatened, or stalked, consider contacting local law enforcement **only if you feel safe choosing that option**, and keep your actions focused on safety + documentation (not confrontation).
 
-5. **Contact the Cyber Civil Rights Initiative (CCRI) Crisis Helpline.**  
-   **Call 844-878-2274 for 24/7 free, confidential support from specialists who understand tech-enabled sexual abuse.** They can provide technical guidance on removal and referrals to legal resources if the situation involves extortion or blackmail.
+5. **Get specialist support that understands tech-enabled sexual abuse.**  
+   If you want help with takedown/reporting options and next steps, contact the **Cyber Civil Rights Initiative (CCRI) Image Abuse Helpline** (free, 24/7). If you want trauma-informed support and options, you can also contact **RAINN**.
 
-6. **Notify the National Center for Missing & Exploited Children (NCMEC) if a minor is involved.**  
-   If the post describes or depicts anyone under the age of 18, report it immediately to the **CyberTipline** at report.cybertip.org. This is a federal requirement for platforms and a critical safety step for victims.
+6. **Reduce further spread today by locking down accounts (target exposure + impersonation).**  
+   - Change passwords for email + the affected platform(s); enable 2-factor authentication.  
+   - Make profiles private and limit who can tag/mention you.  
+   - Turn off message requests from strangers (temporarily).
 
-7. **Secure your primary accounts to prevent further leaks.**  
-   Change passwords on your email and the social media platforms where the post appeared. Enable hardware-based or app-based Two-Factor Authentication (2FA) immediately to ensure the poster cannot access your private messages or more data.
+7. **Use an additional reporting pathway if intimate images are involved (optional).**  
+   If someone shared an intimate image or video without your permission, you can also **report it to the FTC**. This won’t remove the content by itself, but it helps document and track harmful or scam-like behavior while you pursue platform removal and specialist support.
 
 ## What can wait
-- You do not need to decide whether to tell your employer, family, or friends right now.
-- You do not need to read every comment or "monitor" the thread to see what people are saying.
-- You do not need to determine if you want to file a civil lawsuit today; focus only on removal and immediate safety.
+- You do **not** need to decide right now whether to “set the record straight,” contact the person, or make a public statement.
+- You do **not** need to read every comment, search your name for hours, or gather perfect documentation.
+- You do **not** need to decide today whether to pursue civil action — first focus on safety, removal, and support.
 
 ## Important reassurance
-Finding private details of your sexual life online is a profound violation that often triggers a "freeze" or "panic" response. These reactions are normal biological responses to a digital attack. Taking systematic steps to remove the content is the most effective way to regain your privacy.
+A sudden public sexual exposure can feel body-level terrifying — nausea, panic, and shame responses are common and do not mean you did anything wrong. Slowing down and taking quiet, practical steps is a strong response.
 
 ## Scope note
-This guide provides first-step stabilization for non-consensual sexual disclosure and doxxing. It does not cover long-term legal strategies or complex defamation litigation.
+This is first steps only to reduce harm and regain control. Laws and platform processes vary by state and situation; specialist support can help you choose what to do next.
 
 ## Important note
-Under the TAKE IT DOWN Act, the Federal Trade Commission (FTC) oversees platform compliance with 48-hour removal rules. If a platform refuses to remove verified non-consensual sexual content after 48 hours, you can file a secondary report at ReportFraud.ftc.gov.
+This is general information, not legal advice. If you are under 18, or if the content involves anyone under 18, treat it as urgent and seek immediate specialist help. If you are in immediate danger, call 911.
 
 ## Additional Resources
 - https://cybercivilrights.org/ccri-safety-center/
-- https://cybercivilrights.org/existing-laws/
-- https://www.womenslaw.org/about-abuse/abuse-using-technology/ways-survivors-use-and-abusers-misuse-technology/cyberstalking-1
-- https://www.womenslaw.org/about-abuse/abuse-using-technology/ways-survivors-use-and-abusers-misuse-technology/cyberstalking-6
+- https://cybercivilrights.org/contact-us/
 - https://rainn.org/reporting-sexual-assault-to-law-enforcement/how-to-report-tech-enabled-sexual-abuse/
+- https://rainn.org/strategies-to-reduce-risk-increase-safety/staying-safer-online-tech-enabled-sexual-abuse/
+- https://rainn.org/strategies-to-reduce-risk-increase-safety/stay-safer-on-social-media/
+- https://consumer.ftc.gov/articles/nonconsensual-distribution-intimate-images

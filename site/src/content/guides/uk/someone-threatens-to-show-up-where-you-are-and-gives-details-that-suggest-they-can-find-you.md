@@ -1,95 +1,82 @@
----
+﻿---
 title: "What to do if… someone threatens to show up where you are and gives details that suggest they can find you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "someone threatens to show up"
-  - "they know where i am"
-  - "threat to find me"
-  - "stalker knows my address"
-  - "harassment with location details"
-  - "threat to come to my house"
-  - "threat to come to my work"
-  - "what to do if someone is following me"
-  - "help i am being stalked"
-  - "help i am being harassed"
-  - "my location was leaked"
-  - "my ex is coming to find me"
-  - "someone says they are outside"
-  - "smell of someone nearby"
-  - "seeing a car following me"
-  - "hearing footsteps outside my door"
-  - "unexplained mail at my house"
-  - "tracking device on my car"
-  - "airtag notification on phone"
-  - "constant unwanted messages"
-  - "threats on social media"
-  - "digital stalking help"
-  - "clares law application uk"
-  - "national stalking helpline"
-  - "reporting harassment to 101"
-  - "emergency 999 response uk"
-  - "silent solution 55"
-  - "fixated obsessive unwanted repeated"
-  - "someone has my live location"
-  - "stop sharing location on iphone"
-last_reviewed: "2026-03-17"
+  - threatened to show up
+  - someone knows my location
+  - they can find me
+  - doxxed or tracked
+  - stalker threatens to come
+  - harassment with location details
+  - threat to come to my home
+  - threat to come to my workplace
+  - threat to come to my school
+  - someone says they are nearby
+  - fear of being followed
+  - threats by text message
+  - threats on social media
+  - location leaked online
+  - unwanted contact escalating
+  - tracked by phone location
+  - airtag or tracker fear
+  - personal safety right now
+  - what to do immediately
+  - stop sharing my location
+last_reviewed: "2026-01-11"
 ---
+
 # What to do if… someone threatens to show up where you are and gives details that suggest they can find you (UK)
 
 ## Short answer
-Get to a populated, secure, or staffed location immediately and call **999** if you believe they are nearby or could arrive shortly. If you cannot speak, dial **999** and then **55** when prompted to alert the operator that you are in danger but unable to talk.
+Get to a safer place with other people and call **999** if you feel at risk right now (or they could arrive soon). If it’s not immediate, report it via **101** (or your local police force’s online reporting) and preserve evidence.
 
 ## Do not do these things
-- Do not stay in an isolated area or walk home alone to "check" if you are being followed.
-- Do not confront the person or agree to meet them to "settle things" or "calm them down."
-- Do not delete any threatening messages, call logs, or digital footprints, even if they are distressing.
-- Do not post your situation or your current location on social media to ask for help from friends.
-- Do not open your door to any unexpected visitors, even if they claim to be a delivery driver or utility worker.
-- Do not block the person's number or social media accounts until you have spoken to the police, as this can cause a stalker to escalate to physical contact.
+- Do not go outside or “check” alone to see if they’re there.
+- Do not agree to meet them “to calm it down” or to prove you’re not scared.
+- Do not argue back, negotiate, or send threats—keep contact minimal.
+- Do not post your location (or travel plans) or ask for help publicly where they can see it.
+- Do not delete messages/voicemails—keep them as evidence.
+- Do not open the door to an unexpected knock, even if they claim it’s urgent.
 
 ## What to do now
-1. **Move to a safer location immediately.**  
-   **If you are outside, enter a busy shop, a police station, or a staffed building like a library or leisure centre.** If you are at home, lock all doors and windows, close curtains, and move to a room where you cannot be seen from the street. 
-2. **Call 999 for immediate threats.**  
-   **Dial 999 if the person has stated they are on their way, if you see them, or if you feel a physical confrontation is imminent.** 
-   - If you are unable to speak, use the "Silent Solution" by pressing **55** when prompted by the operator.
-3. **Call 101 or report online for non-imminent threats.**  
-   **Contact the police on 101 if the threat is credible but they are not expected immediately, or if you want to log a pattern of behavior.** 
-   - Ask for a CAD (Computer Aided Despatch) number or an Incident Reference Number.
-   - Mention if the behavior is "FOUR": Fixated, Obsessive, Unwanted, and Repeated.
-4. **Notify people who control access to your building.**  
-   **Inform building security, workplace reception, or a manager that a specific person has made threats against you.** Ask them not to confirm your presence to anyone and to call 999 if the individual appears.
-5. **Preserve all digital and physical evidence.**  
-   **Take screenshots of messages, call logs, and social media posts, ensuring the sender’s handle or phone number and the timestamp are visible.** 
-   - Keep a written log of what happened: what they said, what details they knew about your location, and the exact time you received the threat.
-6. **Disable location sharing across all devices.**  
-   **Check and turn off "Find My" sharing, WhatsApp live location, Snap Map, and Google Maps location history.** 
-   - If you receive an "unrecognized tracker" or AirTag notification on your phone, do not disable it yourself; bring the phone to a police station as it may contain forensic evidence.
-7. **Contact a specialist support service.**  
-   **Call the National Stalking Helpline for safety planning advice or the National Domestic Abuse Helpline if the person is a current or former partner.**
-   - National Stalking Helpline: 0808 802 0300
-   - National Domestic Abuse Helpline (Refuge): 0808 2000 247
-   - Men’s Advice Line: 0808 801 0327
+1. **Create a safer pause (30–90 seconds).**  
+   Move to a **staffed, lockable, or busy** place (reception, shop, café, security desk). If you’re at home, **lock doors/windows**, stay away from front rooms/windows, and keep your phone charged and with you.
+2. **Decide “999 now” vs “101/online.”**  
+   - Call **999** if you believe they could arrive soon, violence is threatened, you can see them nearby, or you feel unsafe staying where you are.  
+   - If it’s not immediate, call **101** (or use your local force’s online reporting) to make a report and get advice.
+3. **When you contact police, give specifics quickly.**  
+   Tell them: your **exact location now**, what was threatened, the **details that suggest they can find you** (address, landmarks, workplace, routine, vehicle), and any identifying info (name/number/account, description, vehicle). Ask for an **incident/reference number**.
+4. **Tell the people who can control access right now.**  
+   If you’re in a building, tell **reception/security/manager** (or campus security if applicable). Ask them not to let anyone in for you and to call **999** if the person appears.
+5. **Preserve evidence immediately (without “tidying it up”).**  
+   Screenshot messages showing the **account/number + timestamps**. Save voicemails. If it’s social media, capture the profile and the threat. Make a quick note: time, wording, what they seemed to know, and whether it’s escalating.
+6. **Shut down easy ways they might be tracking you (quick wins only).**  
+   Turn off any **live location sharing** you’ve enabled (for example: phone “Find My”/device sharing, Google/Apple location sharing, WhatsApp live location, Snap Map). Stop live posting. If you suspect an account compromise, change your main password and enable two-step verification from a safer device if possible.
+7. **Bring in support so you’re not handling this alone.**  
+   Call or message one trusted person and say: “I’ve had a credible threat; I’m at [place]; I’m contacting police.” Stay on the phone if that helps.
+8. **If this is linked to stalking, harassment, or an ex/partner, get specialist support.**  
+   Contact the **National Stalking Helpline** for practical safety guidance. If this relates to domestic abuse, you can contact the **National Domestic Abuse Helpline** for confidential support.
 
 ## What can wait
-- Deciding on long-term legal actions like non-molestation orders or injunctions.
-- Changing your phone number or moving house (this should be part of a coordinated safety plan).
-- Writing a detailed history of your relationship with the person; focus only on the current threat for now.
-- Responding to the person’s messages or "explaining" why you have gone to the police.
+- Deciding whether to block them (often better after you’ve saved evidence and reported).
+- Writing a full timeline—do a quick note now; a fuller one can wait.
+- Changing your number, moving, or making big life changes.
+- Any longer legal steps (orders/injunctions) until you’re safe and have initial advice.
 
 ## Important reassurance
-It is normal to feel hyper-vigilant, shaky, or confused when your safety is threatened with specific location details. Taking these steps is a proactive way to manage a high-stress situation, and the police are trained to take threats involving location data seriously even if no physical harm has occurred yet.
+Feeling shaken, hyper-alert, or “not thinking straight” after a threat is a normal stress response. You don’t need to prove the threat is “serious enough” before prioritising safety and asking for help.
 
 ## Scope note
-This guide provides first-step stabilization for an immediate threat to personal safety. It does not replace a comprehensive safety plan or professional legal advice.
+This is first steps only to reduce immediate risk and prevent irreversible mistakes. If there’s a pattern (repeat messages, monitoring, showing up), you may need ongoing support and more detailed safety planning.
 
 ## Important note
-If you are in immediate danger, dial 999. You have the "Right to Ask" under the Domestic Violence Disclosure Scheme (Clare's Law) to find out if a partner or ex-partner has a history of violence; you can request this information via the 101 service or a police station.
+This is general information, not legal advice. If you think you are in immediate danger, call **999** now. If you’re unsure, it’s reasonable to treat threats with credible location details as urgent and seek help.
 
 ## Additional Resources
-- https://www.victimsupport.org.uk/crime-info/types-crime/stalking-and-harassment/
-- https://www.paladinservice.co.uk/get-support
-- https://www.cps.gov.uk/information-and-support-victims/support-victims/support-victims-stalking-or-harassment
-- https://www.suzylamplugh.org/stalking-help-and-advice
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-to-do-if-youre-being-stalked-or-harassed/
+- https://www.gov.uk/contact-police
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
+- https://www.suzylamplugh.org/pages/category/national-stalking-helpline
+- https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/
+- https://www.nhs.uk/live-well/getting-help-for-domestic-violence/

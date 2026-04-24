@@ -1,110 +1,86 @@
----
+﻿---
 title: "What to do if… your photo library duplicates itself and you are afraid of deleting originals"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "router remote admin enabled"
-  - "remote administration turned on"
-  - "router settings changed"
-  - "router hacked maybe"
-  - "wifi router compromised"
-  - "unknown router login"
-  - "someone accessed my router"
-  - "remote management enabled"
-  - "router security breach"
-  - "home network tampering"
-  - "router port opened"
-  - "isp router settings changed"
-  - "suspicious router activity"
-  - "admin interface exposed"
-  - "dns settings changed"
-  - "port forwarding added"
-  - "upnp enabled unexpectedly"
-  - "wps turned on"
-  - "router firmware outdated"
-  - "internet connection hijacked"
-  - "help i did not turn on remote admin"
-  - "what do i do if my router is hacked"
-  - "what do i do if settings changed on router"
-  - "my router has remote access on"
-  - "help someone is in my router"
-  - "strange admin users on router"
-  - "router login password not working"
-  - "wan management enabled without permission"
-  - "router settings reset itself"
-  - "suspicious login on virgin hub"
-  - "bt smart hub remote access settings"
-  - "sky broadband hub security breach"
-  - "talktalk router remote management"
-  - "unauthorized port forwarding rules"
-last_reviewed: "2026-03-17"
+  - photo library duplicated
+  - photos duplicated themselves
+  - duplicate photos appeared
+  - sudden duplicate pictures
+  - iphone photos duplicates
+  - icloud photos duplicates
+  - google photos duplicates
+  - windows photos duplicates
+  - camera roll duplicated
+  - photos doubled overnight
+  - fear of deleting originals
+  - not sure which photos are real
+  - cloud sync duplicates
+  - imported photos duplicated
+  - duplicated albums
+  - multiple copies same photo
+  - storage suddenly full photos
+  - “duplicates” album appeared
+  - photos app showing doubles
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your photo library duplicates itself and you are afraid of deleting originals (UK)
 
+# What to do if… your photo library duplicates itself and you are afraid of deleting originals (UK)
 ## Short answer
-Immediately disconnect the router from the internet by powering it off or removing the WAN cable, then access the settings locally to disable remote management. Change all administrative passwords and verify that DNS and port settings have not been altered.
+Stop deleting anything and make a separate backup/export you won’t edit first, then use your photo app’s built-in duplicate **merge** tools rather than manual mass deletion.
 
 ## Do not do these things
-- Do not leave the router connected to the internet to "monitor" the intruder; this allows continued data exfiltration or further compromise.
-- Do not use any existing passwords for the new administrative login; ensure the new password is unique to this device.
-- Do not assume that changing the Wi-Fi password secures the router; administrative access and Wi-Fi access are separate layers of security.
-- Do not follow "support" links or call numbers from unsolicited pop-ups or emails claiming your router is infected; only use official ISP contact methods.
-- Do not attempt to "hack back" or investigate the source of the remote access yourself.
+- Don’t “select all” and delete duplicates in one go (that’s how originals get lost).
+- Don’t empty “Recently Deleted” / “Trash” while you’re unsure what happened.
+- Don’t run a third-party “duplicate remover” as your first move (it can remove the wrong copy or strip metadata).
+- Don’t turn sync on/off repeatedly across devices in panic (it can trigger re-uploads and more duplicates).
+- Don’t move/rename large photo folders on a computer while your phone/cloud library is still syncing.
 
 ## What to do now
-1. **Isolate the router from the external network immediately.**  
-   Power off the router or unplug the cable connecting it to the wall (WAN / DSL / Fibre ONT). This prevents the remote user from maintaining their connection while you work.
+1. **Freeze changes for a moment (reduce churn).**
+   - Pick *one* device to work from (ideally a computer).
+   - On other devices, avoid opening the Photos app repeatedly until you’ve made a safety copy.
 
-2. **Access the router settings via a local, wired connection if possible.**  
-   Use an Ethernet cable to connect a laptop or PC directly to the router. If you must use Wi-Fi, ensure you are connected to your own SSID and not a guest network or neighbor's signal.
+2. **Make a safety copy you can keep untouched.**
+   - **iCloud Photos (Mac):** Photos app → **Settings/Preferences** → **iCloud** → choose **Download Originals to this Mac** (so you have local full-resolution files before any cleanup).
+   - **Google Photos:** create an export using **Google Takeout** (Google Photos selected) and save the archive somewhere separate.
+   - **Windows/external drive:** copy your entire photo folder/library to an external drive (or a new folder named something like `DO_NOT_DELETE_BACKUP_2026-03-09`).
 
-3. **Disable all forms of remote management and WAN-side access.**  
-   Navigate to the "Advanced" or "Security" menu and turn off any settings labeled:
-   - Remote Management / Remote Admin
-   - Web Access from WAN
-   - Cloud / App-based remote management
-   - TR-069 / CWMP (Note: Some UK ISPs like TalkTalk use this for remote fixes; if you are unsure, leave the router offline and call your ISP).
+3. **Check whether the “duplicates” are real files or just a library view/sync issue.**
+   - Spot-check 5–10 “duplicate pairs”: do they have different sizes, edits, dates, or filenames?
+   - Treat storage numbers as a clue, not proof (cloud “optimised storage” can make this misleading).
 
-4. **Change the router administrative password and username.**  
-   Create a strong, unique password that is at least 12 characters long. If the router allows you to change the "admin" username to something else, do so now.
+4. **Use built-in “merge duplicates” features (safer than manual deletion).**
+   - **iPhone/iPad:** Photos → **Collections** → **Utilities** → **Duplicates** → **Merge**.
+   - **Mac Photos:** open **Duplicates** in the sidebar → select → **Merge**.
+   - If you **can’t see Duplicates on iPhone**, wait: it may not appear until the iPhone finishes indexing the library.
 
-5. **Review and reset core network configurations.**  
-   Check the following areas for unauthorized changes and revert them to "Default" or "Automatic":
-   - **DNS Settings:** Ensure these point to your ISP or a trusted provider (like 1.1.1.1 or 8.8.8.8).
-   - **Port Forwarding:** Delete any rules you did not create.
-   - **UPnP:** Disable this feature if it is currently enabled.
-   - **Admin Users:** Remove any secondary or unknown administrator accounts.
+5. **Stop the most common duplication loop (migration + re-upload).**
+   - If this started after moving to a new phone/computer, stop manual copying/importing between devices for now.
+   - Check you’re not backing up the same photos from *two* places (e.g., phone camera roll **and** a copied DCIM folder that’s also being synced).
 
-6. **Check for and apply firmware updates.**  
-   Use the router’s internal "Check for Updates" tool. Under 2026 NCSC guidance (Cyber Essentials), critical security patches should be applied within 14 days of release. Only download updates through the router's interface or the official manufacturer website.
-
-7. **Perform a factory reset if you cannot confirm the device is secure.**  
-   If settings revert automatically or you find persistent unknown accounts, use a pin to hold the "Reset" button for 10-15 seconds. You will need to reconfigure the router from scratch; do not restore from a backup file made after the suspicious activity began.
-
-8. **Secure your primary digital accounts.**  
-   If you suspect the router compromise was used to intercept traffic, change the passwords for your primary email and banking accounts from a device using a different, known-safe connection (such as mobile data).
-
-9. **Report the incident to the appropriate UK authorities.**  
-   - In **England, Wales, or Northern Ireland**, report the cyber incident to **Report Fraud** at reportfraud.police.uk or call 0300 123 2040.
-   - In **Scotland**, report the incident by calling **Police Scotland** on 101.
+6. **If anything suggests account compromise (unexpected logins, unfamiliar devices): secure the account before cleaning.**
+   - Change the password for the Apple/Google/Microsoft account tied to your photos and enable **two-step verification**.
+   - Review signed-in devices/sessions and sign out anything you don’t recognise.
 
 ## What can wait
-- You do not need to identify the specific individual who enabled the setting right now.
-- You do not need to replace the physical router unless it is "End of Life" and no longer receiving security updates.
-- You do not need to perform a full wipe of every computer and phone in the house immediately, provided the router is now secured.
+- You do **not** need to permanently delete anything today.
+- You do **not** need to decide which copy is “best” across your whole library right now.
+- You can leave duplicates visible for a while once you have a backup/export you trust.
+- You can postpone any “perfect tidy-up” (albums, dates, filenames) until the library is stable.
 
 ## Important reassurance
-Finding an unauthorized setting is stressful, but taking the router offline immediately halts the primary threat. Most router compromises are opportunistic and can be resolved by resetting credentials and disabling unnecessary remote features. Your physical hardware is likely still functional and safe to use once these software protections are restored.
+This happens a lot after sync changes, device migrations, or re-imports. The safest path is to slow down, make a copy you trust, then use **merge** tools and small, reversible steps.
 
 ## Scope note
-This guide provides first-step stabilization for a home network security breach. It does not cover advanced forensics, recovery of stolen funds, or legal action against third parties.
+These are first steps to prevent irreversible loss and stabilise syncing. If duplicates keep reappearing after you’ve backed up, use the platform’s official support steps for your specific setup.
 
 ## Important note
-This information is for general guidance and does not constitute professional security or legal advice. Router interfaces vary significantly by manufacturer (e.g., TP-Link, Netgear, ASUS) and UK ISP (e.g., BT, Virgin Media, Sky). If you are unable to access your settings or feel overwhelmed, contact your ISP's official technical support line for assistance in securing your specific hardware.
+This is general information, not professional IT or legal advice. If anything doesn’t match what you see on your device/service, prioritise making a separate backup/export and using the provider’s official guidance rather than guessing.
 
 ## Additional Resources
-- https://support.apple.com/en-gb/guide/iphone/iph1978d9c23/ios
-- https://support.apple.com/en-gb/104967
-- https://www.samsung.com/uk/support/mobile-devices/how-to-find-and-remove-duplicate-files-on-your-galaxy-device/
-- https://www.samsung.com/uk/support/mobile-devices/how-to-select-and-view-only-the-albums-you-want-to-see-in-galaxy-gallery/
-- https://support.google.com/photos/answer/6128858?co=GENIE.Platform%3DAndroid&hl=en-GB
+- https://support.apple.com/en-gb/guide/iphone/merge-duplicate-photos-and-videos-iph1978d9c23/ios
+- https://support.apple.com/en-gb/102260
+- https://support.apple.com/en-gb/guide/photos/pht5a3157c1d/mac
+- https://support.google.com/accounts/answer/3024190?hl=en
+- https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/two-step-verification-2sv

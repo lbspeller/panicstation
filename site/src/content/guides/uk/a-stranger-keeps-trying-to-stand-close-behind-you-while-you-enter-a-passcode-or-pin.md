@@ -1,91 +1,72 @@
----
+﻿---
 title: "What to do if… a stranger keeps trying to stand close behind you while you enter a passcode or PIN"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "shoulder surfing"
-  - "stranger crowding behind you"
-  - "someone watching your pin"
-  - "cash machine safety uk"
-  - "atm safety 2026"
-  - "cashpoint distraction theft"
-  - "pin being observed"
-  - "passcode being watched"
-  - "someone too close at checkout"
-  - "card payment terminal pin"
-  - "keypad privacy"
-  - "pin pad shielding"
-  - "suspicious person near atm"
-  - "distraction while entering pin"
-  - "someone hovering behind you"
-  - "personal space threat in public"
-  - "stop entering passcode"
-  - "bank card pin compromise"
-  - "cancel transaction quickly"
-  - "stranger leaning over shoulder"
-  - "my pin was seen"
-  - "help i think someone saw my pin"
-  - "what do i do if someone is crowding me at atm"
-  - "what do i do if a stranger watches me type a code"
-  - "help i am being followed after using atm"
-  - "what do i do if my card is watched"
-  - "smell of someone behind me"
-  - "feeling a presence behind you"
-  - "shadow over the keypad"
-  - "reflection of person in screen"
-  - "card skimming risk"
-  - "keypad overlay"
-  - "lost card uk"
-  - "report fraud uk"
-  - "pin security"
-last_reviewed: "2026-03-17"
+  - shoulder surfing
+  - stranger crowding behind you
+  - someone watching your pin
+  - cash machine safety
+  - atm safety uk
+  - cashpoint distraction theft
+  - pin being observed
+  - passcode being watched
+  - someone too close at checkout
+  - card payment terminal pin
+  - keypad privacy
+  - pin pad shielding
+  - suspicious person near atm
+  - distraction while entering pin
+  - someone hovering behind you
+  - personal space threat in public
+  - stop entering passcode
+  - bank card pin compromise
+  - cancel transaction quickly
+last_reviewed: "2026-01-17"
 ---
-# What to do if… a stranger keeps trying to stand close behind you while you enter a passcode or PIN (UK)
 
+# What to do if… a stranger keeps trying to stand close behind you while you enter a passcode or PIN (UK)
 ## Short answer
-Stop the entry immediately, cancel the transaction, and move to a staffed or busy area to create physical distance between yourself and the stranger.
+Stop entering the passcode/PIN and create space immediately: cancel the entry/transaction, step away, and move to a safer, more public or staffed spot.
 
 ## Do not do these things
-- Do not continue typing the PIN or passcode to finish the transaction quickly.
-- Do not engage in an argument or attempt to physically push the person away.
-- Do not accept offers of assistance from a stranger with the machine or terminal.
-- Do not let your attention be diverted by questions or physical tapping while your card is active.
-- Do not assume "reverse PIN" or "duress" codes will alert authorities; these are non-functional on UK systems.
-- Do not follow the person or allow them to lead you to a quieter area.
+- Do not keep typing “to get it over with” while someone is crowding you.
+- Do not argue or physically push them away if you can simply step aside and move location.
+- Do not accept “help” from a stranger with a machine, card reader, or keypad.
+- Do not let yourself be distracted by questions, tapping, or a story while your card/phone is out.
+- Do not rely on any “reverse PIN” or “duress PIN” trick—most ATMs/payment systems do not support this.
+- Do not follow them somewhere quieter to “sort it out”.
 
 ## What to do now
-1. **Stop all input immediately and cancel.** Remove your fingers from the keypad or screen. Press the "Cancel" button on the terminal or ATM and ensure you have possession of your card or device before moving.
-2. **Shift your physical position.** Take two steps to the side rather than backwards to break the direct line of sight between the stranger and the keypad. If possible, move so that a physical barrier like a pillar or counter is between you.
-3. **Relocate to a staffed area.** 
-   - If in a shop, walk directly to the service desk or a security guard. 
-   - If at an external ATM, move immediately into a lit, busy building or a bank branch.
-4. **Inform staff of the crowding.** State clearly that someone is standing too close while you are using the terminal and that you require space or assistance to complete your task safely.
-5. **Shield the keypad if you must retry.** Use your body to block the view and use your non-typing hand to form a "roof" or "wall" over the keypad or screen.
-   - Use contactless payment where possible to avoid PIN entry entirely.
-6. **Freeze the card if you suspect the PIN was seen.** Use your banking app or the phone number on the back of your card to "freeze" or "lock" the account immediately. 
-7. **Contact your bank to request a PIN change.** Inform them of the "shoulder surfing" incident; they may recommend issuing a replacement card with a new number.
-8. **Call 999 if the person follows you or becomes aggressive.** If you are in immediate danger or feel threatened, contact emergency services. For reporting suspicious activity that is not an active emergency, call 101.
-9. **Report the incident to the appropriate national body.** 
-   - In England, Wales, or Northern Ireland: contact **Report Fraud** (formerly Action Fraud) via reportfraud.police.uk or call 0300 123 2040.
-   - In Scotland: call **Police Scotland** on 101 to report fraud or attempted theft.
+1. **Stop the entry immediately.** Take your hands off the keypad/screen. If you’re at an ATM/cash machine or payment terminal, press **Cancel** (or end the transaction) and keep hold of your card/phone.
+2. **Step out of the “behind-you” position.** Take one or two steps to the side so they can’t stay directly behind you, and put a solid object between you if possible (ATM housing, pillar, queue barrier).
+3. **Move to a safer spot—don’t negotiate.**  
+   - If you’re in a shop: walk straight to the counter, a staff member, or security.  
+   - If you’re at an ATM: move away from the machine and toward a well-lit, busy, or staffed area (for example, inside a bank branch during opening hours, or back into a shop).
+4. **Name what you need, briefly, to staff.** “Someone’s crowding me while I enter my PIN—can you help me finish this somewhere with space?”
+5. **If you still need to complete a PIN entry, change the setup first.** Choose a different till/terminal/ATM if available, stand close to the keypad, and **shield the keypad/screen with your body and free hand**. If the person follows or crowds again, stop and step away.
+6. **If you’re at an ATM, quickly check for tampering before you try again elsewhere.** If anything looks loose, added-on, or unusual around the card slot/keypad, don’t use it—leave and use another cashpoint in a safer location.
+7. **If you think they saw it (or you’re not sure), treat it as compromised.** As soon as you’re in a safer place, use your bank’s app/phone number to **freeze/lock the card** and ask how to **reset/change your PIN** (or request a replacement card if advised).
+8. **Escalate if you feel threatened.** Go to a staffed place. Call **999** if you feel in immediate danger. If it’s not an emergency but you want to report suspicious behaviour, contact police via **101**.
+9. **If money is taken or you see an unauthorised transaction, report it once you’re safe.** Contact your bank immediately. For fraud reporting: use **Report Fraud** if you live in England, Wales or Northern Ireland; if you’re in Scotland, report to **Police Scotland** (via 101).
 
 ## What can wait
-- You do not need to determine the stranger's intent or "prove" they were looking.
-- You do not need to file a full police report in the next few minutes unless there is a physical threat.
-- You do not need to check your balance repeatedly; once the card is frozen, the account is secure from new transactions.
+- You do not need to decide right now whether this was “definitely a criminal” or “probably nothing”.
+- You do not need to confront them, follow them, or prove what they were doing.
+- You do not need to make lots of account changes on the spot—prioritise card lock/freeze and getting somewhere safe first.
 
 ## Important reassurance
-Stopping a transaction because someone is too close is a standard safety precaution, not a sign of overreaction. Crowding is a documented tactic used to compromise financial security, and prioritizing your physical space is the correct response.
+You’re not being “paranoid” by stopping. Crowding someone during a PIN/passcode entry is a known tactic, and pausing the transaction is a normal, sensible response.
 
 ## Scope note
-This guide provides first-step stabilization for an immediate personal space threat during a financial transaction. It does not cover long-term fraud recovery or legal proceedings.
+This is first-steps-only guidance for the next few minutes. If money is missing or your details are used, your bank and the relevant reporting route can guide the next steps.
 
 ## Important note
-This information is for safety guidance and does not constitute legal or financial advice. Jurisdictional reporting procedures for fraud changed in early 2026; always follow the instructions provided by your bank or the police.
+This is general safety information, not legal or financial advice. If you feel at risk right now, prioritise getting to a safer place and contacting emergency services.
 
 ## Additional Resources
-- https://www.nationwide.co.uk/help/fraud-and-security/card-fraud
-- https://www.santander.co.uk/personal/support/ways-to-bank/at-the-cash-machine
-- https://www.lloydsbank.com/help-guidance/protecting-yourself-from-fraud/card-safety.html
-- https://www.lloydsbank.com/help-guidance/everyday-banking/card-and-pin-services/card-freezes.html
-- https://www.ukfinance.org.uk/its-your-money
+- https://www.met.police.uk/cp/crime-prevention/personal-safety-how-to-stay-safe/ATM-safety/
+- https://www.police.uk/pu/contact-us/
+- https://www.fca.org.uk/consumers/fraudulent-payments
+- https://www.reportfraud.police.uk/
+- https://www.cityoflondon.police.uk/news/city-of-london/news/2025/december/report-fraud-service-goes-live-with-full-public-launch-in-january-2026/

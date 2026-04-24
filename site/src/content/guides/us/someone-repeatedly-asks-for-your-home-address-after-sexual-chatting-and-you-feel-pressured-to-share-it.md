@@ -1,102 +1,79 @@
----
+﻿---
 title: "What to do if… someone repeatedly asks for your home address after sexual chatting and you feel pressured to share it"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "someone wants my address"
-  - "pressured to share address"
-  - "sexual chat got pushy"
-  - "keeps asking where i live"
-  - "asking for my home address"
-  - "online sexual pressure"
-  - "pressured after sexting"
-  - "sexual messages and address"
-  - "stranger wants my location"
-  - "worried about giving address"
-  - "don't feel safe sharing address"
-  - "person won't stop asking"
-  - "repeated address requests"
-  - "online flirting feels unsafe"
-  - "pressured to meet at home"
-  - "sexual chat feels coercive"
-  - "asking for address repeatedly"
-  - "home address after chatting"
-  - "what do i do if someone wants my address"
-  - "what do i do if a stranger asks for my house"
-  - "what do i do if sexting feels scary"
-  - "what do i do if i am being pressured for my location"
-  - "help i gave my address to a stranger"
-  - "help i am being harassed for my address"
-  - "help i feel unsafe after sexual chatting"
-  - "help i am being pressured online"
-  - "smell of pressure"
-  - "feeling of coercion"
-  - "visible repeated messages"
-  - "noticing pushy behavior"
-  - "address pressure"
-  - "location pressure"
-  - "home address request"
-  - "house address request"
-  - "sexting address ask"
-  - "pushy stranger online"
-last_reviewed: "2026-03-17"
+  - someone wants my address
+  - pressured to share address
+  - sexual chat got pushy
+  - keeps asking where i live
+  - asking for my home address
+  - online sexual pressure
+  - pressured after sexting
+  - sexual messages and address
+  - stranger wants my location
+  - worried about giving address
+  - don’t feel safe sharing address
+  - person won’t stop asking
+  - repeated address requests
+  - online flirting feels unsafe
+  - pressured to meet at home
+  - sexual chat feels coercive
+  - asking for address repeatedly
+  - home address after chatting
+last_reviewed: "2026-03-14"
 ---
-# What to do if… someone repeatedly asks for your home address after sexual chatting and you feel pressured to share it (USA)
 
+# What to do if… someone repeatedly asks for your home address after sexual chatting and you feel pressured to share it (USA)
 ## Short answer
-Do not provide your address or any location clues. Stop responding immediately, document the requests, and block the individual on all platforms to prioritize your physical safety.
+Do not share your home address. Pause the conversation, stop answering address questions, and shift immediately to privacy and personal safety.
 
 ## Do not do these things
-- Do not provide a partial address, ZIP code, neighborhood name, or "nearby" landmark as a compromise.
-- Do not send photos of your home, view from your window, or screenshots of delivery/ride-share apps.
-- Do not move the conversation to a different app (like WhatsApp or Signal) where your phone number or more personal data might be visible.
-- Do not feel obligated to explain or justify your refusal to share your location.
-- Do not delete the conversation history before taking screenshots if you intend to report the behavior.
-- Do not agree to meet in person to "prove" your interest if you feel unsafe or pressured.
+- Do not send your full address, apartment number, ZIP code, or a “nearby” location as a compromise.
+- Do not send live location, delivery screenshots, ride-share screenshots, or photos that could identify your home.
+- Do not let them turn this into a test of trust, attraction, or consent.
+- Do not move to text, encrypted messaging, or another account just because they keep pushing.
+- Do not meet them at your home or let them pick you up there.
+- Do not keep trying to persuade them to be reasonable once you have said no.
+- If you may want to report this later, do not wipe the whole chat immediately; save a few clear screenshots first.
 
 ## What to do now
-1. **Stop all communication immediately.** If someone ignores a "no" regarding your location, further explanation often escalates the pressure; silence is the most effective way to end the interaction.
+1. **Stop sharing any more identifying details.** That includes your address, neighborhood, work location, daily routine, building name, school, or places you regularly visit.
 
-2. **Secure your current accounts.** Change your settings to private on the platform you are using and any linked social media accounts.
-   - Disable location services for the app.
-   - Remove any public "check-ins" or photos that show your neighborhood.
+2. **Send one short boundary message if you want to reply at all.** For example: “I’m not sharing my address.” You do not need to justify it or keep discussing it.
 
-3. **Take screenshots of the pressure.** Capture the individual's username, profile details, the specific requests for your address, and any coercive or sexual messages.
-   - Save these to a secure location, such as a cloud drive or a hidden folder.
+3. **Save basic evidence of the pressure.** Screenshot their profile, username, repeated requests, and any threats, manipulation, or sexual coercion.
 
-4. **Block and report the individual.** Use the platform’s "Report" feature, selecting categories like "Harassment," "Unwanted Contact," or "Sexual Coercion."
-   - Under the 2025 TAKE IT DOWN Act, platforms must have clear notice-and-removal processes for sexual exploitation or nonconsensual imagery.
+4. **Block, mute, or report them on the platform.** Use the app’s harassment, sexual exploitation, unsafe contact, or unwanted contact reporting tools if available.
 
-5. **Check for "doxing" vulnerabilities.** Search for your own username or phone number to see if your home address is linked to public records, marketplace listings, or old social media posts.
+5. **Review your privacy settings right away.** Remove public location clues, hide your friends list if relevant, lock down old posts, and check whether your phone number, email, or workplace is visible anywhere.
 
-6. **Contact RAINN for confidential guidance.** If the sexual nature of the pressure is causing distress, call the National Sexual Assault Hotline at 800.656.HOPE (4673) for 24/7 support.
+6. **Look for indirect ways your address could be exposed.** Check marketplace listings, wishlists, package photos, pet tags, event posts, and any social account that shows your neighborhood or building.
 
-7. **Review federal protections for intimate imagery.** If the person is threatening to share sexual images (sextortion), visit ReportFraud.ftc.gov and use the specific reporting path for nonconsensual distribution of intimate images.
-   - Federal law requires covered platforms to remove such images within 48 hours of a verified request.
+7. **If the pressure turns into threats, blackmail, or repeated contact across accounts, treat it as a safety issue.** Depending on the state and the pattern of conduct, repeated unwanted online contact may fall under stalking or harassment laws, and local law enforcement may be an option if you feel unsafe.
 
-8. **Assess the need for local law enforcement contact.** If the pressure includes specific threats of physical harm, showing up at your home, or blackmail, contact your local police department.
-   - Mention that you are concerned about stalking or online harassment.
+8. **Reach out to a specialist support service if the sexual pressure is affecting your sense of safety.** In the U.S., RAINN offers confidential support and information without forcing you into any particular next step.
 
-9. **Evaluate state-level Address Confidentiality Programs (ACPs).** If you are in fear for your safety due to sexual violence or stalking, search for your state's ACP through the Secretary of State's office.
-   - Note: Most programs require an active police report or a protective order for eligibility.
+9. **If they are threatening to share intimate images, or have shared them without your consent, focus on account safety and reporting.** The FTC has information on nonconsensual distribution of intimate images and accepts reports through its fraud reporting system.
+
+10. **If you are relocating or already trying to keep your address hidden, check whether your state has an Address Confidentiality Program.** Many states have them for victims of stalking, sexual assault, domestic violence, or similar abuse, but availability and eligibility vary by state.
 
 ## What can wait
-- You do not need to decide if you want to file a formal police report right this second.
-- You do not need to decide if you will ever speak to this person again; the priority is the current pause.
-- You do not need to perfectly "scrub" your entire internet presence today; focus on the immediate platform used.
+You do not need to decide right now whether to keep talking to them, make a police report, explain the sexual chat, or sort out every account perfectly. The urgent job is to avoid giving your address and reduce the ways they can reach or locate you.
 
 ## Important reassurance
-Feeling startled, pressured, or guilty after a sexual conversation is a normal response to boundary-crossing. Even if you were comfortable chatting sexually before, you have the absolute right to keep your physical location private at any time.
+It is common to feel embarrassed, conflicted, or afraid that stopping now will make things worse. You still do not owe anyone your address, even if the conversation was sexual before this.
 
 ## Scope note
-This is first-step stabilization guidance only. Long-term safety planning or legal actions regarding stalking and digital harassment may require specialized assistance from victim advocates or legal professionals.
+This is first steps only. Later decisions about reporting, protective steps, or legal options may need specialist help.
 
 ## Important note
-This guide provides general information and does not constitute legal or crisis counseling advice. Jurisdiction-specific laws regarding online harassment and sextortion vary by state. If you are in immediate physical danger, call 911.
+This is general information, not legal, medical, or crisis counselling advice. Laws and reporting routes vary by state, and if the situation becomes an immediate danger, call 911.
 
 ## Additional Resources
-- https://www.loveisrespect.org/resources/creating-boundaries-in-romantic-relationships/
-- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/
-- https://www.stalkingawareness.org/risk-and-safety/
+- https://rainn.org/strategies-to-reduce-risk-increase-safety/tips-for-safer-dating-online-and-in-person/
+- https://rainn.org/strategies-to-reduce-risk-increase-safety/staying-safer-online-tech-enabled-sexual-abuse/
+- https://rainn.org/help-and-healing/hotline/
+- https://consumer.ftc.gov/articles/nonconsensual-distribution-intimate-images
 - https://www.womenslaw.org/safety-planning/safety-tips-stalking-victims
-- https://ovc.ojp.gov/topics/stalking
+- https://www.womenslaw.org/about-abuse/safety-tips/safety-while-using-internet/safety-when-browsing-internet/im-planning-moving

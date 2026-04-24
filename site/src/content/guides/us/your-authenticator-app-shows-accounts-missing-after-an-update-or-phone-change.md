@@ -1,105 +1,93 @@
----
+﻿---
 title: "What to do if… your authenticator app shows accounts missing after an update or phone change"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "calendar spam events"
-  - "google calendar spam"
-  - "iphone calendar spam"
-  - "outlook calendar spam"
-  - "spam invites with links"
-  - "calendar events with phone numbers"
-  - "random appointments on my calendar"
-  - "unwanted calendar notifications"
-  - "subscribed calendar i didnt add"
-  - "meeting invites i never accepted"
-  - "calendar phishing"
-  - "spam calendar subscription"
-  - "suspicious calendar entries"
-  - "fake virus warning calendar"
-  - "events added without permission"
-  - "calendar account compromised"
-  - "stop automatic calendar invites"
-  - "remove spam from calendar app"
-  - "what do i do if my calendar has spam"
-  - "what do i do if i have fake meetings"
-  - "what do i do if i see calendar links"
-  - "what do i do if my iphone has a calendar virus"
-  - "help i have spam on my calendar"
-  - "help i keep getting calendar invites"
-  - "help my calendar is full of ads"
-  - "help my calendar has weird links"
-  - "calendar popup virus"
-  - "iphone calendar notification scam"
-  - "outlook auto add spam"
-  - "google calendar unknown sender"
-  - "calendar invite phishing"
-  - "suspicious meeting request"
-  - "unrecognized calendar account"
-  - "malicious calendar profile"
-last_reviewed: "2026-03-17"
+  - authenticator accounts missing
+  - 2fa codes disappeared
+  - authenticator app reset after update
+  - new phone authenticator empty
+  - lost 2fa app entries
+  - microsoft authenticator restore
+  - google authenticator transfer
+  - authy tokens missing
+  - otp accounts disappeared
+  - locked out of account 2fa
+  - phone upgrade lost authenticator
+  - update wiped authenticator
+  - missing two factor codes
+  - recovery codes for 2fa
+  - qr code 2fa setup again
+  - cannot access email 2fa
+  - suspected sim swap
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your authenticator app shows accounts missing after an update or phone change (USA)
 
 ## Short answer
-Close the calendar app immediately and do not interact with any links or phone numbers within the events. Remove the underlying subscription or change your "auto-add" settings to stop new events from appearing.
+Stop and **don’t uninstall or reset the authenticator app yet**. First, try the app’s **restore/sync/transfer** features and use account **backup codes / alternate sign-in methods** to regain access safely.
 
 ## Do not do these things
-- Do not click any links, "unsubscribe" buttons, or attachments inside the spam event.
-- Do not call any phone numbers listed in the event description or location field.
-- Do not tap "Accept," "Decline," or "Maybe," as this confirms your email address is active to the sender.
-- Do not download any "security" or "cleaner" apps recommended by the notifications.
-- Do not enter your password or Apple/Google/Microsoft ID into any window that pops up after clicking a calendar link.
+- Do not uninstall/reinstall, clear storage, or “reset” the authenticator app before you’ve attempted restore/sync/transfer (you can erase the remaining recovery path).
+- Do not click sign-in “support” links from random messages—go to the real site/app directly.
+- Do not rush to disable two-factor authentication on accounts while panicked; do it only from verified account settings after you’re signed in.
+- Do not ignore it if you also lost cellular service or got alerts about a SIM change/number transfer.
 
 ## What to do now
-1. **Identify the source of the spam by opening your calendar list.**  
-   Open the Calendar app (Apple, Google, or Outlook) and look for a specific calendar name you do not recognize, often listed under "Other" or "Subscribed."
+1. **Make the phone stable and keep evidence for support.**
+   - Plug in the phone and ensure you can unlock it reliably.
+   - Take screenshots of the authenticator app showing missing/empty accounts (helps if you need support).
 
-2. **Remove subscribed calendars on iPhone or iPad if they appear in your list.**  
-   **Open the Calendar app, tap "Calendars" at the bottom center, and look for any unfamiliar calendar with an "i" icon next to it.**  
-   - Tap the "i" icon, scroll to the bottom, and select **Delete Calendar**.  
-   - If the spam persists, go to **Settings > General > VPN & Device Management** and remove any "Configuration Profile" you did not intentionally install.  
-   - Check **Settings > Apps > Calendar > Calendar Accounts** for any unknown accounts and remove them.
+2. **Use the correct recovery flow for the authenticator you’re using (before reinstalling).**
+   - **Microsoft Authenticator:** use “Restore from backup” / “Begin recovery.” Microsoft states restores only work **to the same device type** (iOS↔iOS, Android↔Android).
+   - **Google Authenticator:** if you still have the old phone, use **Transfer accounts** (export on old, import/scan on new). If your version offers sign-in/cloud sync and you previously enabled it, sign in and check whether anything repopulates—but keep transfer/re-enrolment as your main plan.
+   - **Authy:** re-install and verify your phone number. If you previously enabled multi-device and backups, tokens may reappear. If they don’t, Twilio notes tokens can sometimes be permanently lost after device loss/factory reset/sync problems—so you may need to re-enrol 2FA with each service. If you can’t access Authy on any device but still control the phone number, use Authy’s **Recover Access** process (it can take time, and any Authy backup password/key can’t be recovered).
 
-3. **Adjust Google Calendar settings to block unknown invitations.**  
-   **Open Google Calendar on a desktop browser, click the Settings (gear) icon, and navigate to "General" > "Event settings."**  
-   - Find the **Add invitations to my calendar** dropdown and change it to **Only if the sender is known** or **When I respond to the invitation in email**.  
-   - In the left sidebar, check under **Settings for my calendars** and unsubscribe from any unrecognized calendars.
+3. **If you still have the old phone, treat it as your recovery key.**
+   - Keep it powered; don’t wipe it.
+   - Transfer/export accounts if the app supports it.
+   - If transfer isn’t possible, use the old phone to sign in to your most important accounts and add a second sign-in method (backup codes, another authenticator, security key) before you lose access.
 
-4. **Change Outlook.com settings to stop events from being created automatically.**  
-   **Sign in to Outlook on the web, click the Settings (gear) icon, and go to "Calendar" > "Events from email."**  
-   - Change the settings for "Flights," "Hotel reservations," and other categories to **Don't show event summaries in email or on my calendar**.  
-   - Go to **Calendar > Events and invitations** and ensure the option to automatically add invitations is restricted.
+4. **Regain access in an order that prevents cascading lockouts.**
+   - **Email account(s)** used for password resets (first).
+   - **Cell carrier account** (so you can stop SIM/number takeovers quickly).
+   - **Password manager** (if you use one).
+   - **Financial accounts**, then everything else.
 
-5. **Report the events as junk if your provider offers a direct reporting tool.**  
-   **Right-click or long-press the event and select "Report Junk," "Report Phishing," or "Report as Spam" if the option exists.**  
-   - Do not use any reporting link written inside the event text; only use the official app interface button.
+5. **Use built-in “alternate verification” options on each account (don’t guess).**
+   - Look for: “Try another way,” “backup codes,” “security key,” “text/call,” “trusted device,” or “account recovery.”
+   - After you’re back in, go to the account’s security settings and **re-add/re-link the authenticator** and generate new backup codes.
 
-6. **Secure the primary account associated with the calendar.**  
-   **Change the password for your Apple ID, Google Account, or Microsoft Account and ensure Multi-Factor Authentication (MFA) is active.**  
-   - Review "Connected Apps" or "Third-party access" in your account security settings and revoke access for any apps you do not recognize.
+6. **Check quickly for signs of compromise.**
+   - Review your email account’s recent sign-ins, password reset emails, and any changes to recovery email/phone.
+   - If anything looks wrong, change the email password, sign out of other sessions, and secure recovery methods.
 
-7. **File a report if you shared personal information or paid money.**  
-   **Navigate directly to ReportFraud.ftc.gov or ic3.gov to file an official complaint with federal authorities.**  
-   - If you provided financial details, contact your bank or credit card issuer immediately to request a hold on your account.
+7. **If you suspect a SIM swap/number port (you suddenly lose service or can’t receive calls/texts):**
+   - Contact your mobile carrier immediately to regain and lock down control of the number.
+   - Check bank/credit card accounts for unauthorized changes and contact your financial institutions if anything looks wrong.
+   - If you believe you’re a victim of SIM swapping or related fraud, file a report with the FBI via **IC3**.
 
 ## What can wait
-- You do not need to manually delete every individual event if you have already removed the subscribed calendar or changed the auto-add setting; the events should disappear automatically.
-- You do not need to factory reset your device unless you manually installed a suspicious file or profile and cannot remove it.
-- You do not need to respond to the spammer to tell them to stop.
+- You don’t need to pick the “best” authenticator app today—focus on restoring access first.
+- You don’t need to reset every password immediately; start with email and high-risk accounts.
+- You don’t need to perfect your long-term security setup today—just get back into accounts safely without creating new lockouts.
 
 ## Important reassurance
-Seeing your calendar fill up with alarming messages can feel like your device is compromised, but this is usually a "calendar subscription" scam rather than a virus. Once you remove the subscription or change your settings, the notifications will stop and the spammer will no longer have a way to place items on your schedule.
+This happens a lot during phone upgrades: many authenticator apps store codes locally unless backup/sync was enabled, so it can feel like everything vanished at once. Going step-by-step—email first, then re-enrolling 2FA—usually gets you back in.
 
 ## Scope note
-This guide provides first-step stabilization for digital calendar spam. It does not cover full device forensic cleaning or identity theft recovery if you have already shared sensitive data.
+These are immediate first steps to stabilize access and prevent irreversible mistakes. Some services (banks, workplaces, government accounts) may require their specific identity checks to reset 2FA.
 
 ## Important note
-This information is for educational purposes and does not constitute technical or legal advice. If you suspect your workplace account is affected, notify your IT department immediately as they may need to implement organization-wide blocks.
+This is general information, not professional security, legal, or financial advice. If you think someone else may be accessing your accounts, use official support channels and treat it as a possible account compromise.
 
 ## Additional Resources
-- https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DiOS&hl=en
-- https://support.google.com/accounts/answer/1187538?co=GENIE.Platform%3DDesktop&hl=en
-- https://support.microsoft.com/en-us/authenticator/restore-account-credentials-from-microsoft-authenticator
-- https://support.microsoft.com/en-us/authenticator/back-up-your-accounts-in-microsoft-authenticator
-- https://forms.authy.com/phones/reset?proceed=true
+- https://support.microsoft.com/en-us/account-billing/restore-account-credentials-from-microsoft-authenticator-ce53096e-1e1c-4840-9e32-1618bc33cd43
+- https://support.microsoft.com/en-us/account-billing/back-up-your-accounts-in-microsoft-authenticator-bb939936-7a8d-4e88-bc43-49bc1a700a40
+- https://support.google.com/accounts/answer/1066447
+- https://help.twilio.com/articles/19753413578523-Restoring-Authy-Access-on-a-New-Lost-or-Inaccessible-Phone
+- https://help.twilio.com/articles/19752893953051-My-Authy-Tokens-are-Missing-or-Lost
+- https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself
+- https://www.fbi.gov/contact-us/field-offices/phoenix/news/press-releases/fbi-tech-tuesday-sim-swapping
+- https://www.ic3.gov/

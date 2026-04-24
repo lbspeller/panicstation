@@ -1,85 +1,69 @@
----
+﻿---
 title: "What to do if… a partner keeps waking you up with sexual demands and you want to stay safe"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "partner waking me up for sex"
-  - "pressured for sex at night"
-  - "sexual demands while sleeping"
-  - "woken up and coerced sex"
-  - "sexual coercion in relationship"
-  - "consent when half asleep"
-  - "afraid to say no to partner"
-  - "sleep deprivation and sex pressure"
-  - "partner wont let me sleep"
-  - "forced intimacy by partner"
-  - "unwanted sexual touching in bed"
-  - "sexual pressure at home"
-  - "controlling behaviour partner sex"
-  - "scared of partner at night"
-  - "staying safe in shared bedroom"
-  - "intimate partner sexual abuse"
-  - "not sure if this counts as assault"
-  - "want help without making report"
-  - "what do i do if my partner wakes me up for sex"
-  - "what do i do if i am scared of my partner at night"
-  - "what do i do if i cannot say no to sex"
-  - "what do i do if my partner ignores my no"
-  - "help i am being pressured for sex at home"
-  - "help i am scared in my own bed"
-  - "my partner keeps touching me while i sleep"
-  - "my partner wont take no for an answer"
-  - "waking up to unwanted touching"
-  - "feeling unsafe in bedroom"
-  - "sex demands at night"
-  - "sleep coercion"
-  - "consent and sleeping"
-  - "unconscious consent uk"
-  - "sexual assault in marriage"
-  - "sexual assault in relationship"
-  - "safety plan for bedroom"
-  - "domestic abuse at night"
-last_reviewed: "2026-03-17"
+  - partner waking me up for sex
+  - pressured for sex at night
+  - sexual demands while sleeping
+  - woken up and coerced sex
+  - sexual coercion in relationship
+  - consent when half asleep
+  - afraid to say no to partner
+  - sleep deprivation and sex pressure
+  - partner won’t let me sleep
+  - forced intimacy by partner
+  - unwanted sexual touching in bed
+  - sexual pressure at home
+  - controlling behaviour partner sex
+  - scared of partner at night
+  - staying safe in shared bedroom
+  - intimate partner sexual abuse
+  - not sure if this counts as assault
+  - want help without making report
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… a partner keeps waking you up with sexual demands and you want to stay safe (UK)
 
 ## Short answer
-Create physical distance immediately by moving to a different room or leaving to a safe location, and keep a charged phone with you. If you are in immediate danger or feel you cannot safely leave, call 999.
+Create physical distance tonight (separate room / leave to a safe place) and keep your phone with you. If you feel in immediate danger, call 999.
 
 ## Do not do these things
-- Do not feel obligated to "go along with it" to keep the peace if you do not want to participate.
-- Do not attempt to negotiate boundaries or announce a breakup during a high-tension moment if you feel unsafe.
-- Do not use alcohol or sedative medications to help you sleep if you are worried about your ability to respond to or notice a threat.
-- Do not leave your essentials, such as your phone, keys, or bank cards, in a place where your partner can restrict your access to them.
-- Do not ignore your instincts if you feel that the situation is escalating or becoming dangerous.
+- Do not “go along with it” just to make it stop if you don’t want to.
+- Do not confront them, announce a breakup, or try to negotiate consent in the moment if they are already ignoring your “no” or you feel unsafe.
+- Do not rely on “just let me sleep” as a safety plan if they’ve repeatedly ignored it.
+- Do not take sleep medication, drink more alcohol, or do anything that makes you harder to wake if you’re worried about what happens while you’re asleep.
+- Do not leave your phone, keys, or money somewhere they can control.
 
 ## What to do now
-1. **Create physical distance for the remainder of the night by moving to a different room or a safe external location.** If you can, go to a room with a lock or wedge the door from the inside. If you choose to leave, take essentials including your phone, charger, keys, any necessary medications, and identification.
-2. **Contact emergency services if you are scared for your safety or feel you are being prevented from leaving.** If you cannot speak safely, dial **999** from a mobile and stay on the line; when prompted by the automated system, press **55** to alert the operator that you are in a genuine emergency and need the police (the "Silent Solution"). Note that if you do not press 55 when prompted on a mobile, the call will be terminated.
-3. **Establish a help signal with a trusted friend or family member before you go back to sleep.** Send a brief message to someone you trust explaining that if you send a specific code (such as a single letter or emoji), they should call you or contact the police on your behalf. Ensure your phone volume is on and the device is within reach.
-4. **Secure your communications if you believe your partner may be monitoring your devices.** Use a "private" or "incognito" browser tab for any searches related to support, and log out of shared accounts. If possible, use a device your partner does not have access to, such as a work phone or a device borrowed from a friend.
-5. **Record the details of what happened in a private, secure location while the information is fresh.** Note the date, time, exactly what was said or done, and how you responded. Use a password-protected note app or an email draft in an account your partner cannot access; do not keep physical notes where they might be found.
-6. **Access confidential specialist support to discuss your options without any pressure to report to the police.** You can call the **Rape Crisis England and Wales 24/7 Support Line** on **0808 500 2222** or the **National Domestic Abuse Helpline** on **0808 2000 247**. These services are free, confidential, and available at any time.
-7. **Locate your nearest Sexual Assault Referral Centre (SARC) for specialist healthcare and forensic options.** SARCs provide medical exams, emergency contraception, and STI testing; you can search "NHS SARC" to find your local centre. In England, you can usually self-refer 24/7 without involving the police, and they can store evidence for you if you are undecided about reporting.
+1. **Create immediate distance for the rest of tonight.** If you can, move to a room with a lock, wedge a door, or sleep somewhere else (friend/family, neighbour, hotel). Take essentials: phone + charger, keys, money/cards, any medications, and ID.
+2. **If you’re scared right now, treat it as an emergency.** If you think they might force sexual contact, hurt you, or stop you leaving, call **999**. If you can’t speak safely, dial 999, stay on the line, and if prompted press **55** to be put through to police.
+3. **Set a simple “help signal” before you sleep again.** Text someone you trust a brief code (for example: “If I text ‘X’, please call me / call police”). Keep your phone on you, volume on, and consider enabling emergency contacts.
+4. **Make your communications safer if they might monitor you.** If you share devices/accounts or they check your phone, use a safer device if you can (a friend’s phone, a work phone, or a new passcode). Avoid leaving open tabs or messages that could escalate risk if found.
+5. **Write one private note while details are fresh.** In your own words, record dates/times, what happened, and what you said/did (even just “I said no / I was asleep”). Keep it somewhere they cannot access (a passcode-protected note, or an email draft/account they don’t know about).
+6. **Get confidential specialist support (even if you don’t want to report).** You can talk to a sexual violence support line to get help and options without pressure. You can also contact a **Sexual Assault Referral Centre (SARC)** for specialist healthcare and support — you can usually **self-refer** and you **do not** have to report to police to get help.
+7. **If you need medical help, choose the safest route.** If there’s injury, severe pain, bleeding, or you feel unwell, go to **A&E**. If you’re unsure what local services are available, **NHS 111** can help you find urgent options (including how to reach specialist services).
 
 ## What can wait
-- You do not need to decide tonight whether you want to involve the police or pursue a criminal report.
-- You do not need to "label" the experience or the relationship right now; your immediate priority is your physical safety and rest.
-- You do not need to provide an explanation or justification to your partner for your need for space or safety.
-- You do not need to worry about gathering "proof" beyond the simple private record you have made.
+- You do **not** need to decide tonight whether to report to police, make a statement, or “label” what happened.
+- You do **not** need to resolve the relationship, confront them, or explain yourself perfectly.
+- You do **not** need to gather proof or take complicated steps — the priority is safety and rest.
 
 ## Important reassurance
-Being pressured or woken for sexual activity you do not want is a violation of your boundaries, regardless of your relationship status. It is common to feel confused, to "freeze," or to comply simply to end the encounter safely; these are natural survival responses to a high-pressure situation. You are not responsible for your partner's actions or their failure to respect your sleep and consent.
+Being woken for sex you don’t want — especially when you’re asleep, disoriented, or repeatedly pressured — is not “normal relationship conflict.” Many people freeze, comply, or go quiet to stay safe; that’s a common survival response, not a failure.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction actions. Ongoing safety planning and long-term support should be managed through specialist domestic abuse or sexual violence services.
+These are first steps to get you safer and supported. If this is ongoing, a specialist domestic abuse or sexual violence service can help you plan safer sleeping arrangements, safer communications, and next options at your pace.
 
 ## Important note
-This information is for general guidance and does not constitute legal or medical advice. Procedures for emergency services and support availability may vary by region. If you are in immediate danger, always call 999.
+This is general information, not legal or medical advice. If you are in immediate danger, call 999. If you’re not sure what you want to do next, you can still contact confidential specialist services for support and to talk through options without pressure.
 
 ## Additional Resources
-- https://rapecrisis.org.uk/get-informed/about-sexual-violence/sexual-consent/
-- https://www.letstalkaboutit.nhs.uk/directory-services/sexual-assault/sexual-assault-consent-and-law
-- https://womensaid.org.uk/information-support/the-survivors-handbook/i-want-to-leave-my-relationship-safely/
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://www.nhs.uk/live-well/getting-help-for-domestic-violence/
+- https://rapecrisis.org.uk/get-help/want-to-talk/
+- https://www.nationaldahelpline.org.uk/
+- https://www.gov.uk/guidance/domestic-abuse-how-to-get-help
 - https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
-- https://www.nationaldahelpline.org.uk/i-am-still-living-with-my-abuser/
+- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution

@@ -1,102 +1,93 @@
----
+﻿---
 title: "What to do if… a detention facility tells you mail or funds for someone in custody were rejected and action is needed"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "prison mail rejected"
-  - "prison money rejected"
-  - "returned to sender prison"
-  - "prisoner funds bounce back"
-  - "help i sent money to prison and it was rejected"
-  - "my letter to a prisoner was returned"
-  - "what do i do if prison mail is rejected"
-  - "what do i do if inmate funds are declined"
-  - "hmpps send money service issue"
-  - "scottish prison service money problem"
-  - "northern ireland prison service payment rejected"
-  - "wrong prisoner number on payment"
-  - "prisoner private cash account issue"
-  - "send money to someone in prison uk"
-  - "prison mailroom contact"
-  - "rule 39 mail rejected"
-  - "legal mail to prison returned"
-  - "rejected parcel prisoner"
-  - "prisoner moved establishment"
-  - "verify prison contact details"
-  - "prison payment scam"
-  - "inmate mail rejection notice"
-  - "hmpps exemption letter"
-  - "sps generated reference error"
-  - "ni prison nominated visitor status"
-  - "stamped return address required"
-  - "prohibited items in prison mail"
-  - "prison business hub contact"
-  - "prison trust fund rejected"
-  - "prison finance team"
-last_reviewed: "2026-03-17"
+  - mail to someone in prison rejected
+  - prison mail returned to sender
+  - detention mail rejected
+  - inmate mail rejected notice
+  - letter to prisoner bounced back
+  - funds to prisoner rejected
+  - money to prison rejected
+  - payment to prisoner not received
+  - commissary money declined
+  - prison trust fund problem
+  - prisoner number missing
+  - wrong prisoner details on payment
+  - prisoner moved to another prison
+  - verify prison contact details
+  - possible scam about prison funds
+  - urgent action needed prison money
+  - hmpps send money service issue
+  - scottish prison sending money issue
+  - legal mail to prison rejected
+  - prison mailroom rejection
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… a detention facility tells you mail or funds for someone in custody were rejected and action is needed (UK)
 
 ## Short answer
-Stop and verify the request by calling the prison's official switchboard directly; never use links or numbers provided in a "rejection" text or email, as these are high-frequency targets for fraud.
+Pause and verify the message using an official phone number/website for that establishment, then get the exact rejection reason (and any reference/notice) before you resend anything or pay again.
 
 ## Do not do these things
-- Don’t send money immediately via a new method (such as bank transfer, PayPal, or gift cards) just because a caller claims the original payment failed.
-- Don’t use third-party "fast track" prison money websites; these often charge excessive fees and are frequently blocked by prison security filters.
-- Don’t attempt to bypass mail rules by sending items inside "padded" envelopes or using "security" (blue-lined) envelopes, as these are often rejected automatically.
-- Don’t send cash, cheques, or postal orders by post in England and Wales unless you have a physical exemption letter from the Governor.
-- Don’t share the person's date of birth or prisoner number with anyone who calls you "from the prison" to fix the issue; they should already have this information.
+- Don’t send money again “urgently” using a new method just because someone called, texted, or emailed you.
+- Don’t use contact details (numbers, links, WhatsApp accounts) from the message itself to “fix it” — look them up independently.
+- Don’t share card PINs, one-time passcodes, online banking logins, or scans of ID with an unknown caller.
+- If they’re in **England & Wales**, don’t send cash/cheques/postal orders by post unless you have an **exemption letter** from that prison — otherwise it will be rejected/returned.
+- Don’t try to “work around” mail rules by hiding items or adding prohibited enclosures — it can delay future mail and trigger further rejections.
 
 ## What to do now
-1. **Identify red flags that indicate a scam rather than a genuine rejection.** 
-   - Genuine prison staff will never ask for your card PIN, bank login, or a payment via WhatsApp or cryptocurrency. 
-   - Be suspicious of any message that uses high-pressure language (e.g., "funds must be cleared within one hour or the prisoner will lose privileges").
+1. **Verify the contact is genuine (first).**
+   - Look up the prison/detention establishment using an official listing and call the **main switchboard**.
+   - Ask to be put through to the **mailroom** (mail) and/or **business hub/finance/trust** team (funds).
 
-2. **Verify the communication through an official, independent channel.** 
-   - Find the official phone number for the prison via the GOV.UK (England / Wales), SPS (Scotland), or NI Direct (Northern Ireland) websites. 
-   - Call the **main switchboard** and ask to speak with the **Mailroom** for letters/parcels or the **Business Hub / Finance Department** for money issues.
+2. **Get the rejection details and write them down.**
+   - Ask: **what was rejected** (letter/parcel/payment), **date received**, **reason**, and **what happens next** (returned to sender, held, or otherwise dealt with).
+   - Ask for any **reference number** or wording from the rejection notice.
 
-3. **Request the specific "Reason Code" or rejection category from the staff.** 
-   - Ask for the exact reason the item was turned away (e.g., "unauthorized sender," "missing prisoner number," "item exceeds weight limit," or "unapproved payment method"). 
-   - Write down the name of the staff member you spoke to and the date/time of the call.
+3. **Confirm the person’s current location and identifiers.**
+   - People can be moved. Confirm the **current establishment**, their **full name** as held by the prison, and their **prisoner number** (and any other identifier the payment system requires).
 
-4. **Confirm the person’s exact current location and identification details.** 
-   - Ask the switchboard if the person is still held at that establishment; if they have been transferred, the new prison may not yet have their "private cash" account set up. 
-   - Verify the **Prisoner Number** (e.g., A1234BC) and ensure it matches the one you used for the rejected attempt.
+4. **If funds were rejected, use the correct official method for where they’re held.**
+   - **England & Wales (HMPPS prisons):** the standard route is the official online debit-card service (“Send money to someone in prison”). If you cannot use it, you must request an **exemption** first — don’t post money until you have the exemption letter.
+   - **Scotland / Northern Ireland:** the method can differ. Use the establishment’s official guidance and ask the trust/finance team exactly what details must be included so it won’t bounce back (reference formats are a common cause of returns).
 
-5. **Follow the specific regional protocol for re-sending funds.** 
-   - **England & Wales:** Use the official GOV.UK "Send money to someone in prison" service; note that it only accepts Visa, Mastercard, and Maestro debit cards (no credit or prepaid cards).
-   - **Scotland:** Use the SPS website to "Generate a Reference" using the prisoner's number and DOB; you must use this specific reference for an online bank transfer to the SPS central account.
-   - **Northern Ireland:** You must be a "Nominated Visitor" to send money; verify your Visitor ID is active before attempting an online payment.
+5. **If mail was rejected, fix the “usual causes” before re-sending.**
+   - Ask the mailroom for the required address format (typically **name + prisoner number + prison address**) and confirm they require a full **return address**.
+   - Ask what specifically triggered rejection (examples: missing prisoner number, prohibited enclosures, non-permitted stationery, or a rule about parcels/cards).
 
-6. **Rectify mail errors before attempting a second delivery.** 
-   - Ensure the address clearly includes the **Full Name + Prisoner Number + Prison Name + Postcode**. 
-   - Check if the prison requires a **Return Address** on the back of the envelope; many UK establishments now reject mail without a visible return address for security reasons.
+6. **If it’s legal/court-related mail, treat it as a “special handling” case.**
+   - If you are a legal adviser or sending clearly legal/court documents, ask the prison how they want it marked/handled so it is processed under their legal mail rules.
 
-7. **Handle legal or "Rule 39" mail rejections with high priority.** 
-   - If legal mail was rejected, ask the mailroom if it was because the envelope lacked the required "Rule 39" marking or if the sender's details were not clearly visible on the exterior.
+7. **Protect yourself from loss while it’s being corrected.**
+   - Keep receipts, screenshots, tracking numbers, and the names/roles of staff you speak to.
+   - If you already paid via an official service and it shows “paid” but the prison says “not received,” ask what evidence they need to trace it (transaction ID/date/time/amount) before making any second payment.
 
-8. **Secure your evidence for potential tracing or complaints.** 
-   - Save the "Payment Successful" email from the original attempt and any "Notification of Rejection" you received.
-   - If the prison confirms they have not received funds that left your bank account, contact your bank to initiate a "payment trace" rather than sending the money a second time.
+8. **If it still isn’t resolved quickly, use the proper escalation route (England & Wales).**
+   - Ask the person in custody to use the internal prison complaints process (often via a **COMP1** complaints form).
+   - After the internal process is completed, complaints can be taken to the **Prisons and Probation Ombudsman (PPO)**.
 
 ## What can wait
-- You do not need to recover the physical rejected letter immediately; mailrooms often destroy unauthorized items or return them via second-class post, which can take 10+ days.
-- You do not need to file a formal COMP1 complaint until you have attempted to resolve the issue directly with the Business Hub or Mailroom.
-- You do not need to worry about "missing the window" for weekly spending; most prisons can apply funds retrospectively once the error is cleared.
+- You do not need to decide today whether to make a formal complaint — first get the rejection reason and correct channel in writing.
+- You do not need to send a long explanation letter; a compliant re-send is usually the fastest test.
+- You don’t need to solve everything at once: focus on **current location + correct prisoner number + approved method**.
 
 ## Important reassurance
-Mail and fund rejections are an extremely common administrative occurrence in the UK prison system. They are almost always caused by data entry errors, recent transfers between prisons, or strict security filters on stationery and payment cards. These issues are fixable once you have verified the correct establishment and prisoner ID.
+Rejections are common and often caused by small, fixable issues like an incorrect number, a transfer to another establishment, using an unaccepted payment route, or a mailroom rule. Verifying first and getting the exact reason is the safest way to get it fixed quickly.
 
 ## Scope note
-This guide provides first-step stabilization for administrative rejections and fraud prevention. It does not cover legal appeals regarding confiscated property or long-term disputes over prison accounts.
+These are first steps to prevent scams, avoid repeat rejections, and get the quickest practical resolution. If rejections look repeated or improper, later steps may involve formal complaints or legal advice.
 
 ## Important note
-Procedures and official websites for prison services can change; always prioritize information found on .gov.uk or .sps.gov.uk. This guide is for informational purposes and does not constitute legal or financial advice.
+This is general information, not legal advice. Rules vary by establishment and can change. Always follow the specific written instructions given by the facility and use official contact channels.
 
 ## Additional Resources
-- https://www.gov.uk/staying-in-touch-with-someone-in-prison
 - https://www.gov.uk/send-prisoner-money
-- https://send-money-to-prisoner.service.gov.uk/en-gb/help/
+- https://www.gov.uk/staying-in-touch-with-someone-in-prison/sending-money
+- https://send-money-to-prisoner.service.gov.uk/help/apply-for-exemption/
+- https://www.gov.uk/guidance/send-legal-mail-to-prisons
 - https://www.gov.uk/government/organisations/hm-prison-and-probation-service/about/complaints-procedure
-- https://www.prisonersfamilies.org/helpline
+- https://ppo.gov.uk/complaints/what-you-can-complain-about/
+- https://www.sps.gov.uk/family-and-friends/sending-money

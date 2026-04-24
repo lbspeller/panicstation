@@ -1,109 +1,89 @@
----
+﻿---
 title: "What to do if… you find an online post describing your sexual life in identifying detail and you feel exposed"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "explicit post about me"
-  - "sexual details shared online"
-  - "identifying sexual rumours"
-  - "intimate life described publicly"
-  - "humiliating post with my name"
-  - "sexual harassment online"
-  - "someone is doxxing my sex life"
-  - "private info shared sexually"
-  - "revenge post about my sex life"
-  - "non-consensual sexual story"
-  - "sexual allegations with identifiers"
-  - "screenshots of sexual messages"
-  - "my intimate life posted on social media"
-  - "sexual content posted without consent"
-  - "online abuse about sex"
-  - "i feel exposed online"
-  - "strangers commenting on my sex life"
-  - "workplace can find the post"
-  - "family can find the post"
-  - "explicit thread about me"
-  - "what do i do if my sexual life is shared online"
-  - "what do i do if someone posts sexual details about me"
-  - "what do i do if i am being doxxed sexually"
-  - "what do i do if an explicit post is identifying me"
-  - "help i am being harassed with sexual posts"
-  - "help i found a post describing my sex life"
-  - "help i feel exposed by a sexual thread"
-  - "help i am being targeted by sexual rumours online"
-  - "my sex life was posted on reddit"
-  - "my private details are in a sexual post"
-  - "finding a post about your sex life"
-  - "exposed sexual details online uk"
-  - "online sexual harassment uk help"
-  - "reporting sexual doxxing uk"
-last_reviewed: "2026-03-17"
+  - explicit post about me
+  - sexual details shared online
+  - identifying sexual rumours
+  - intimate life described publicly
+  - humiliating post with my name
+  - sexual harassment online
+  - someone is doxxing my sex life
+  - private info shared sexually
+  - revenge post about my sex life
+  - non-consensual sexual story
+  - sexual allegations with identifiers
+  - screenshots of sexual messages
+  - my intimate life posted on social media
+  - sexual content posted without consent
+  - online abuse about sex
+  - i feel exposed online
+  - strangers commenting on my sex life
+  - workplace can find the post
+  - family can find the post
+  - explicit thread about me
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you find an online post describing your sexual life in identifying detail and you feel exposed (UK)
 
 ## Short answer
-Do not engage with the post or the author. Secure evidence of the content and identifiers immediately, then use the platform's reporting tools to request removal for harassment or doxxing.
+Don’t engage with the post. Capture the key evidence quietly, then report it for removal (and get specialist support) before you do anything else.
 
 ## Do not do these things
-- Don’t reply to the post, leave comments to defend yourself, or "correct the record."
-- Don’t send messages or threats to the person who posted it while in a state of panic.
-- Don’t delete your own accounts or the evidence (screenshots) before you have filed a report.
-- Don’t ask a large group of friends to look at or report the post, as this can increase its visibility to algorithms.
-- Don’t attempt to meet the individual in person to resolve the situation.
+- Don’t reply, “correct the record,” or argue in comments (it often spreads faster and creates more screenshots).
+- Don’t send threats or “final warning” messages while you’re panicked.
+- Don’t delete your accounts, chats, or emails in a rush if you might want help removing/reporting later (you can lose useful context).
+- Don’t ask lots of friends to “go look” or “report it for me” first — that can amplify the post.
+- Don’t meet the person offline to “sort it out.”
 
 ## What to do now
-1. **Move to a private device and a safe location.**  
-   **Ensure you are using a device and internet connection that is not monitored by the person who may have posted the content.** If you are at work or school, move to a personal device.
+1. **Get to a steadier pause and a safer device.**  
+   Step away from scrolling for a few minutes. Use a personal device/account you trust (not a shared work/school device).
 
-2. **Capture clear evidence of the post and its reach.**  
-   **Take screenshots that include the full text, the account name or handle of the poster, the date and time, and the URL (web address).**
-   - Save these to a secure, password-protected folder or a trusted cloud drive.
-   - Do not crop the images; ensure the context of the platform is visible.
+2. **Preserve the minimum evidence you’ll need (quietly).**  
+   Take screenshots that show: the content, the account name/handle, date/time, and the URL. If it’s a thread, capture the post plus the most identifying replies. Save links/screenshots somewhere private.
 
-3. **Report the content to the hosting platform immediately.**  
-   **Use the specific reporting routes for "Harassment," "Sharing Private Information" (Doxxing), or "Hate Speech" depending on the platform's options.** 
-   - Under the Online Safety Act 2023 (enforced by Ofcom), platforms have a duty to remove illegal content, including harassment and stalking, once notified.
-   - If the post includes your full name, address, or workplace, highlight these as specific privacy violations.
+3. **Report it for removal where it is posted (aim for takedown, not debate).**  
+   Use the closest report options for: harassment/sexual harassment, sharing private information (doxxing), threats, or non-consensual intimate content. If it includes identifying details (full name, workplace, phone, address), report those elements specifically too.
 
-4. **Contact the Revenge Porn Helpline if images are involved.**  
-   **If the post contains intimate images or videos, or if there is a threat to share them, call 0345 6000 459 (Monday to Friday, 10am–4pm).** 
-   - They can provide expert assistance in navigating takedown requests for sexual content.
-   - They cannot assist with text-only posts but can advise on related harassment.
+4. **If intimate images are involved (or threatened), use UK specialist help right away.**  
+   If there are intimate images/videos, links to them, or threats to share them, contact the **Revenge Porn Helpline** for free, confidential help with takedown steps. You can also use **StopNCII.org** (a tool that helps prevent re-uploads on participating platforms) if you’re an adult and the situation fits.
 
-5. **Report to the police if you feel unsafe or targeted.**  
-   **If the post involves threats of violence, stalking, or blackmail, report it to your local police via 101 or the Police.uk online reporting tool.**
-   - In an immediate emergency where you are at risk of physical harm, call **999**.
-   - Keep a log of any "crime reference number" provided.
+5. **If you want to report to police, use clear routes (and keep it your choice).**  
+   If you feel safe and want to report (especially if there are threats, stalking, blackmail, or repeated targeting), you can report to police via the guidance for **intimate image abuse** and the newer **NPCC online reporting service** for image abuse. If you’re in immediate danger, call **999**.
 
-6. **Restrict your digital footprint for the next 48 hours.**  
-   **Set all social media profiles to "Private" and limit who can tag or mention you in new posts.**
-   - Turn off location services on your phone and within social apps.
-   - Remove sensitive identifiers (mobile number, workplace) from public bios.
+6. **Reduce further spread for the next 24 hours (target the identifiers).**  
+   - Make key social profiles private (or limit who can view older posts/photos).  
+   - Turn off location sharing; review tagging/mention settings.  
+   - Remove obvious public identifiers (phone number, workplace, school) where you can.
 
-7. **Secure your primary accounts against further intrusion.**  
-   **Change the passwords for your email and main social media accounts, and enable two-factor authentication (2FA).**
-   - Check "active sessions" or "logged-in devices" in your account settings and sign out of any you do not recognise.
+7. **Secure accounts to stop impersonation or escalation.**  
+   Change passwords for your email and the affected platform(s), and turn on 2-step verification. If you suspect someone has access to your accounts, sign out of other sessions/devices where possible.
 
-8. **Designate one trusted person to help you monitor the situation.**  
-   **Ask a friend or family member to check for updates so you do not have to look at the content yourself.** They can help you track if the content has been removed after your reports.
+8. **Tell one trusted person (support + practical help).**  
+   Ask them to sit with you while you file reports, keep you from engaging publicly, and help you track what you’ve reported (what/where/when).
 
 ## What can wait
-- You do **not** need to decide if you want to pursue a civil legal case or a "cease and desist" order today.
-- You do **not** need to prepare a public statement or explain the situation to your employer or family immediately.
-- You do **not** need to investigate who else might have seen the post.
+- You do **not** need to decide right now whether to confront the person, make a public statement, or explain this to everyone who might see it.
+- You do **not** need to read every comment, search your name for hours, or gather “perfect” evidence.
+- You do **not** need to decide today whether to take legal action — focus first on safety, removal, and support.
 
 ## Important reassurance
-It is completely normal to feel a sense of "digital vertigo," shame, or intense panic when private details are exposed. These reactions are biological responses to a violation of your privacy. Taking quiet, methodical steps to isolate the content and report it is the most effective way to regain control.
+Feeling exposed, ashamed, or panicked is a common, human reaction to a violating situation. This is not your fault. Quiet, practical steps (evidence → report/removal → support) usually regain control faster than reacting publicly.
 
 ## Scope note
-This guide provides first-step stabilization only. It does not cover long-term legal remedies, employment law advice, or therapeutic support for digital trauma.
+This is first-steps-only guidance to stabilise the situation and reduce harm. Later steps (longer-term safety, workplace/school support, legal options) may need specialist help.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional advice. If the content involves a minor (under 18), contact the police and the Internet Watch Foundation (IWF) immediately, as this involves different legal thresholds.
+This is general information, not legal advice. If you’re under 18, or if the content involves anyone under 18, treat it as urgent and seek specialist help immediately. If you feel unsafe or at risk of harm, contact emergency services.
 
 ## Additional Resources
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/help-and-support/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/reporting-it-to-social-media-companies-if-it-happened-online/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/what-you-can-do-reporting-it-to-us/
+- https://news.npcc.police.uk/releases/new-online-reporting-service-for-victims-of-intimate-image-abuse
 - https://revengepornhelpline.org.uk/
-- https://reportharmfulcontent.com/
-- https://ico.org.uk/for-the-public/how-to-make-a-data-protection-complaint/
-- https://ico.org.uk/for-the-public/online/social-networking/
-- https://www.citizensadvice.org.uk/law-and-courts/discrimination/taking-action-about-discrimination/taking-action-about-harassment/
+- https://stopncii.org/
+- https://rapecrisis.org.uk/get-help/want-to-talk/

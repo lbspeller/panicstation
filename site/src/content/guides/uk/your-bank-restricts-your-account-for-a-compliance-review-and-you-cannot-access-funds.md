@@ -1,88 +1,80 @@
----
+﻿---
 title: "What to do if… your bank restricts your account for a compliance review and you cannot access funds"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "bank account restricted"
-  - "bank account frozen"
-  - "compliance review bank"
-  - "aml checks account locked"
-  - "kyc verification problem"
-  - "cannot access funds"
-  - "card declined everywhere"
-  - "transfers blocked suddenly"
-  - "wages stuck in account"
-  - "benefits payment trapped"
-  - "direct debits will bounce"
-  - "standing orders blocked"
-  - "bank asking for documents"
-  - "source of funds questions"
-  - "account under review"
-  - "banking access emergency"
-  - "cashflow crisis now"
-  - "current account locked"
-  - "payments blocked by bank"
-  - "financial crime investigation bank"
-  - "help i cannot withdraw money"
-  - "what do i do if my account is frozen"
-  - "what do i do if bank restricted my card"
-  - "what do i do if kyc check failed"
-  - "help i cannot pay rent bank blocked"
-  - "my bank account is under review"
-  - "my card was declined at checkout"
-  - "my bank wont tell me why account is frozen"
-  - "smell of fraud flag on account"
-  - "notice of account closure uk"
-  - "exempt funds access request"
-last_reviewed: "2026-03-17"
+  - bank account restricted
+  - bank account frozen
+  - compliance review bank
+  - aml checks account locked
+  - kyc verification problem
+  - cannot access funds
+  - card declined everywhere
+  - transfers blocked suddenly
+  - wages stuck in account
+  - benefits payment trapped
+  - direct debits will bounce
+  - standing orders blocked
+  - bank asking for documents
+  - source of funds questions
+  - account under review
+  - banking access emergency
+  - cashflow crisis now
+  - current account locked
+  - payments blocked by bank
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… your bank restricts your account for a compliance review and you cannot access funds (UK)
 
 ## Short answer
-Contact the bank through a verified secure channel to request a specific evidence checklist and formally ask for the release of exempt funds for essential living costs. Redirect any upcoming income to a secondary account in your name immediately to prevent further funds from becoming inaccessible.
+Use an official bank contact route to get the exact checklist of what they need to complete the review, and submit it via their secure channel. In parallel, protect essentials by rerouting incoming money and telling priority billers you have a temporary banking restriction.
 
 ## Do not do these things
-- Do not respond to unsolicited calls, texts, or emails claiming to be from your bank regarding the restriction; only use official contact methods found on your physical card or the official app.
-- Do not attempt to bypass the restriction by having third parties receive money on your behalf, as this may trigger further anti-money laundering (AML) red flags.
-- Do not edit, crop, or digitally alter identification documents or bank statements, as banks require high-resolution, original digital copies or scans for verification.
-- Do not assume a 90-day notice period applies; while new 2026 regulations increased notice for general closures, banks are legally permitted to freeze accounts without any notice if they suspect financial crime.
-- Do not delay contacting priority billers (landlords, mortgage lenders, or utility providers) while waiting for the bank to resolve the review.
+- Don’t respond to unexpected calls/texts/emails “from the bank” about your restricted account—use only official numbers in your app, on your card, or on official letters.
+- Don’t edit or “tidy up” documents (ID, payslips, statements). Send clean, original evidence.
+- Don’t try to route money through someone else to “get around” the restriction if you’re unclear why the review started.
+- Don’t ignore priority bills (rent/mortgage, energy, council tax, childcare) while you wait—fees and arrears build quickly.
+- Don’t close the account or open/close multiple new accounts in a panic unless you’re clearly told you can.
 
 ## What to do now
-1. **Dial 159 to be connected securely to your bank’s fraud or security department.** This is a dedicated UK hotline that bypasses potential phishing risks and ensures you are speaking to the correct internal team handling account restrictions.
-2. **Request a specific "checklist of requirements" to resolve the compliance review.** Ask the representative exactly which documents are needed (such as photo identification, proof of address, or source of funds evidence) and the specific secure portal or email address where they should be sent.
-3. **Ask the bank to identify and release "exempt funds" for immediate hardship.** Under UK guidance, certain payments such as disability benefits or specific social security payments may sometimes be accessible even when an account is restricted; ask the bank to confirm if you can withdraw these for food and medicine.
-4. **Identify the exact nature of the restriction if the bank is permitted to disclose it.** While banks often cannot provide details due to "tipping off" laws under the Proceeds of Crime Act, you should ask if the block applies to all transactions or only specific outgoing payments.
-5. **Establish a written timeline of the restriction for your records.** Request a secure message or letter that confirms the date the restriction began and the expected timeframe for the initial review of your submitted documents.
-6. **Collate and submit a single, comprehensive "evidence pack" immediately.** 
-   - Ensure ID is in-date and address proof is less than three months old.
-   - Include clear explanations for any recent large or unusual transactions that may have triggered the review.
-   - Use only the bank's officially designated secure upload tool.
-7. **Reroute all incoming payments to an alternative account in your own name.** 
-   - Notify your employer’s payroll department to change your salary destination.
-   - Update the Department for Work and Pensions (DWP) or HMRC for any benefit or tax credit payments.
-   - If you do not have a second account, apply for a "basic bank account" which most major UK banks are required to offer regardless of credit status.
-8. **Contact priority creditors to notify them of a temporary banking restriction.** Inform your landlord, mortgage provider, and energy supplier that your account is undergoing a procedural review and request a temporary pause on late fees or collection actions.
-9. **Submit a formal written complaint if the bank fails to provide a clear path to resolution.** State clearly that you are in financial hardship and that the bank has a duty under the FCA Consumer Duty to act to avoid foreseeable harm.
-10. **Escalate to the Financial Ombudsman Service (FOS) if the bank does not resolve the issue.** For "blocked payment" issues, banks generally have 15 business days to provide a final response; if they exceed this or you remain restricted without cause, you can refer the case to the FOS.
+1. **Stabilise the next 48 hours on paper.** List what you must pay this week (rent/mortgage, energy, council tax, travel to work, childcare), what money is due in (wages/benefits), and what you can access today (cash, another account).
+2. **Contact the bank via an official route and ask for the “exact checklist”.** Use in-app secure messaging first if possible, or call the number on the back of your card. Say: “My account is restricted for a compliance review. What specific information do you need from me to restore access, and how should I send it securely?”
+3. **Ask whether the restriction is a “blocked payments” issue, an account closure/review, or something like a legal hold.** They may not be able to share full details, but you can still ask what is currently blocked (card, cash withdrawal, transfers) and what they can do next.
+4. **Ask for an essentials/hardship route.** Ask if they can:
+   - allow limited access for essential living costs, or
+   - make specific priority payments you instruct (rent, utilities), or
+   - refer you to their financial difficulty/vulnerability team.
+5. **Get a written record from the bank.** Request a secure message confirming: when the restriction started, what’s blocked, and the documents/information requested. Keep screenshots or downloads.
+6. **Send one organised “evidence pack” promptly.** Typical requests include: photo ID, proof of address, explanation of recent unusual transactions, and evidence of “source of funds/source of wealth” (payslips, benefit award letters, invoices/contracts, sale or inheritance paperwork). Send only via the bank’s stated secure channel.
+7. **Protect essential bills today.** Contact your landlord/agent or lender, energy supplier, council tax office, and any must-pay billers. Say: “My bank has temporarily restricted my account during a compliance review. I’m working to resolve it. Can you note this and pause fees/collections briefly while I arrange payment?”
+8. **Redirect incoming money to an account in your own name.**
+   - **Wages:** ask payroll to switch the next payment to another account you own, or (if your employer allows) to pay by cheque while you resolve the restriction.
+   - **Benefits/tax credits:** contact the benefit payer using the contact details on your official letters or your online account and ask how to update payment details.
+   - If you don’t have another account, apply for a **basic bank account** elsewhere (these are designed for people who don’t qualify for standard accounts).
+9. **Make a formal complaint to the bank in writing (short and factual).** Include the start date, what you can’t access, the hardship impact, what you submitted, and what you’re asking for (clear checklist, realistic next update date, and consideration of essential payments).
+10. **Escalate if the bank doesn’t respond in time.** If your complaint is about blocked payments (for example transfers/direct debits), firms have shorter complaint response times than for many other issues. If you don’t get a final response in time, or you’re unhappy with it, you may be able to take the complaint to the Financial Ombudsman Service.
 
 ## What can wait
-- Assessing long-term loyalty to the bank; focus entirely on the current restriction before deciding whether to switch providers.
-- Dealing with non-essential subscriptions or discretionary spending; these can be addressed once essential living costs are secured.
-- Seeking a solicitor; in most compliance reviews, providing the requested documentation is the fastest resolution, and legal intervention is usually only necessary if the block remains after a formal complaint.
+- Choosing a new bank long-term.
+- Posting publicly or trying to pressure the bank on social media.
+- Paying non-urgent subscriptions and non-priority debts (focus on essentials first).
+- Deciding whether to seek legal advice—first collect the bank’s written requests, your submissions, and a clear timeline.
 
 ## Important reassurance
-A bank account restriction is often an automated procedural event triggered by system algorithms rather than a manual accusation of wrongdoing. While the lack of information is frustrating, providing the requested documentation clearly and promptly is the most effective way to trigger a manual review and restore your access.
+A sudden restriction can feel like your life has been switched off. In many cases it’s a procedural pause while the bank completes checks. Your best leverage is calm persistence: get the checklist, send a clean pack once, and protect essentials while the review runs.
 
 ## Scope note
-This guide provides first-step stabilization for UK retail banking customers. It does not cover business banking legalities, court-ordered Account Freezing Orders (AFOs), or long-term debt management.
+This is first steps only: stabilise cashflow, reduce knock-on harm, and get the bank to state what they need. Later decisions may need specialist help depending on what the bank says.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. UK banks are subject to strict anti-money laundering and "tipping off" regulations that may limit what they can tell you during an investigation. If you are at immediate risk of hunger or lack of essential medication, you should explicitly state you are a "vulnerable customer in immediate hardship" when speaking to the bank.
+This is general information, not legal or financial advice. Banks may be required to restrict accounts in some situations and may not be able to explain details during certain reviews. If you’re at immediate risk of eviction, utility disconnection, or you cannot afford food/medication, tell the bank and the relevant billers explicitly that this is urgent hardship.
 
 ## Additional Resources
-- https://www.moneyhelper.org.uk/en/blog/everyday-money/frozen-bank-account-what-to-do
 - https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/frozen-accounts-blocked-payments
+- https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
+- https://www.fca.org.uk/firms/payment-accounts-regulations
+- https://www.gov.uk/government/publications/basic-bank-accounts-july-2023-to-june-2024/basic-bank-accounts-july-2023-to-june-2024
+- https://www.legislation.gov.uk/uksi/2015/2038
 - https://www.citizensadvice.org.uk/debt-and-money/banking/complaints-about-banks-and-building-societies/
-- https://www.financial-ombudsman.org.uk/consumers/how-to-complain
-- https://www.citizensadvice.org.uk/debt-and-money/financial-advice/check-if-a-financial-service-has-followed-the-rules/
+- https://stopthinkfraud.campaign.gov.uk/reporting-fraud/

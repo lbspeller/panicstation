@@ -1,95 +1,97 @@
----
+﻿---
 title: "What to do if… a retaining wall develops a fresh horizontal crack and starts seeping water"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "retaining wall crack"
-  - "horizontal crack in wall"
-  - "wall seeping water"
-  - "leaking retaining wall"
-  - "bulging retaining wall"
-  - "wall starting to lean"
-  - "garden wall cracking"
-  - "slope movement signs"
-  - "drainage failure behind wall"
-  - "water pressure behind wall"
-  - "sudden wall crack after rain"
-  - "crack spreading quickly"
-  - "retaining wall collapse risk"
-  - "wet patch at base of wall"
-  - "water coming through masonry"
-  - "new crack in concrete wall"
-  - "subsidence near retaining wall"
-  - "soil washout behind wall"
-  - "property boundary wall issue"
-  - "hydrostatic pressure signs"
-  - "what do i do if my retaining wall is cracking"
-  - "what do i do if a wall is leaking water"
-  - "what do i do if my wall is bulging"
-  - "what do i do if garden wall is leaning"
-  - "help i think my retaining wall is falling down"
-  - "help i have a horizontal crack in my wall"
-  - "help i see water coming through my wall"
-  - "help i hear cracking sounds in my wall"
-  - "muddy water leaking from wall"
-  - "chlorine smell from wall seepage"
-  - "sewage smell from wall seepage"
-  - "cracked mortar lines"
-  - "separation between wall and soil"
-  - "weep holes not draining"
-  - "dangerous structure reporting uk"
-last_reviewed: "2026-03-17"
+  - retaining wall crack
+  - horizontal crack in wall
+  - wall seeping water
+  - leaking retaining wall
+  - bulging retaining wall
+  - wall starting to lean
+  - garden wall cracking
+  - slope movement signs
+  - drainage failure behind wall
+  - water pressure behind wall
+  - sudden wall crack after rain
+  - crack spreading quickly
+  - retaining wall collapse risk
+  - wet patch at base of wall
+  - water coming through masonry
+  - new crack in concrete wall
+  - subsidence near retaining wall
+  - soil washout behind wall
+  - property boundary wall issue
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… a retaining wall develops a fresh horizontal crack and starts seeping water (UK)
 
 ## Short answer
-Treat the situation as an immediate collapse risk. Evacuate the area around, below, and above the wall, and contact a chartered structural engineer or your local council's building control department.
+Treat this as a potential collapse risk. Keep people away from the wall and the area below it, reduce any water feeding it if you can do so safely, and contact a structural engineer (and your local authority if there’s any risk to the public).
 
 ## Do not do these things
-- Do not stand directly below the wall, on the ground immediately above it, or next to it to perform a close inspection.
-- Do not attempt to seal the crack with mortar, foam, or waterproof sealant, as this traps water pressure and accelerates failure.
-- Do not remove soil from behind or above the wall to investigate the cause.
-- Do not place heavy loads above the wall, such as parking vehicles, stacking materials, or placing skips.
-- Do not direct additional water toward the wall with hoses or by disconnecting downpipes.
-- Do not assume a garden wall is low-risk if it is retaining soil or supporting a slope.
+- Do not stand next to the wall, directly below it, or on the ground immediately above it “to check it closely”.
+- Do not try to “seal” the crack with filler, foam, mortar, or waterproofing as a first move (it can hide worsening movement and doesn’t remove water pressure).
+- Do not dig behind/above the wall or remove soil to “take a look” (this can trigger failure).
+- Do not add load above the wall (park a vehicle nearby, store heavy items, stack paving slabs, place a skip, etc.).
+- Do not direct more water toward it (hose, pressure washer, run-off from a downpipe you’ve disconnected).
+- Do not assume it’s safe because it’s “only a garden wall” if it retains soil at different levels.
 
 ## What to do now
-1. **Clear the danger zone immediately.** Keep all people and pets away from the entire length of the wall, the area it could fall into, and the ground directly above it which may slump during a collapse.
-2. **Identify high-risk sensory cues from a distance.** Note if the wall is visibly leaning or bulging, if you hear audible grinding or cracking sounds, or if the water seeping through is muddy or has a distinct smell.
-   - A smell of chlorine suggests a burst water main.
-   - A smell of sewage suggests a broken sewer pipe.
-   - Muddy water suggests the soil behind the wall is being washed out (internal erosion).
-3. **Escalate to emergency services if the public is at risk.** **Call 999 if the wall is likely to fall onto a public highway, footpath, or a neighbor’s occupied property.**
-4. **Report the structure to the local authority.** **Contact your local council's Building Control or Building Standards department to report a "dangerous structure."**
-   - Most councils provide a 24-hour emergency number for structural hazards.
-5. **Shut off water sources feeding the area if safe to do so.** **Turn off garden taps, irrigation systems, or sprinklers that are located on the ground above the wall.**
-   - If a water main is suspected, turn off your internal stopcock to check if the flow slows.
-6. **Divert surface water away from the wall from a safe distance.** **Use temporary hoses or tarps to redirect roof run-off or surface water away from the soil immediately behind the wall.**
-7. **Contact a chartered structural engineer.** **Search the Institution of Structural Engineers (IStructE) "Find an Engineer" directory for a local specialist to conduct an emergency assessment.**
-8. **Contact your buildings insurance provider.** **Notify them of the structural movement and seepage to initiate a claim and request emergency stabilization advice.**
-9. **Report utility hazards if pipes are exposed or damaged.**
-   - For gas smells, call the **National Gas Emergency Helpline** on **0800 111 999**.
-   - For electricity risks in England, Scotland, or Wales, call **105**.
-   - For electricity risks in Northern Ireland, call **NIE Networks** on **03457 643 643**.
+1. **Create a no-go zone.** Keep everyone (including pets) away from:
+   - the length of the wall, and
+   - the area *below* it (where it could fall), and
+   - the ground just *above* it (which can slump if the wall gives way).
+2. **Look for “imminent collapse” clues from a distance.** If you see *any* of these, treat it as urgent:
+   - the wall is leaning/bowing, bulging, or sections look displaced
+   - the crack is widening, spreading, or you hear new cracking/grinding
+   - soil is slumping, forming a new dip, or the ground above is opening
+   - water flow is increasing or carrying soil (muddy discharge)
+3. **If there’s immediate danger to people, escalate right away.**
+   - If collapse seems imminent **and people could be harmed**, call **999**.
+   - If it could affect a **public footpath/highway** or other people’s property, contact your **local authority** as soon as possible (out-of-hours if needed).
+     - **England & Wales:** use the GOV.UK route to report a dangerous building/structure to the relevant council.
+     - **Scotland / Northern Ireland:** use your local authority’s **building standards / building control** (or equivalent “dangerous structure”) reporting route.
+4. **Reduce water feeding the wall (only if you can do it without entering the danger zone).**
+   - **Stop irrigation**: turn off sprinklers, hoses, and outdoor taps feeding that area.
+   - **Divert surface water**: if safe, reposition temporary downpipe extensions/hoses or a tarp so roof/garden run-off goes **away** from the wall and the ground above it.
+   - If you suspect a **burst supply pipe** (unusual constant flow, water even in dry weather), consider turning off the **internal stop tap/stopcock** and checking whether the seep slows.
+5. **Avoid anything that increases pressure behind the wall.**
+   - If you can do it safely, **clear leaves/debris** from nearby gullies/channel drains *from a safe position* so water doesn’t pool above the wall.
+6. **Document what you’re seeing (quickly and safely).**
+   - Take wide photos/video from a safe distance, including something for scale (fence post, paving line).
+   - Note the time, weather (heavy rain/freeze-thaw), and whether the crack appears to be changing.
+7. **Contact the right help (in this order).**
+   - **A chartered structural engineer** (or a reputable structural engineering practice) and describe: “fresh horizontal crack + seepage”.
+   - Your **buildings insurer** (many policies require early notification; ask about emergency stabilisation cover).
+   - If utilities are involved or exposed:
+     - **Smell gas / suspect gas pipe damage:** call the **National Gas Emergency Service**.
+     - **Damaged/at-risk electricity equipment:** report a power emergency on **105** in **England, Scotland and Wales** (if in **Northern Ireland**, use the NI power emergency reporting number).
+     - **Suspected water main/sewer issue outside your boundary:** contact your **water company**.
+8. **If you share the wall or it supports a boundary, inform affected neighbours.**
+   - Keep it factual: “new crack and water seepage; we’ve cordoned off and contacted an engineer/insurer.”
 
 ## What can wait
-- Determining who is legally responsible for the wall or boundary.
-- Deciding on a final repair method or contractor.
-- Cleaning up debris or aesthetically patching the cracks.
-- Planning long-term drainage improvements.
+- Deciding on a permanent repair design or contractor.
+- Debating liability/boundary responsibility.
+- Cosmetic patching, repainting, or “making it look tidy”.
+- Detailed drainage upgrades (these are important, but not your first-hour job).
 
 ## Important reassurance
-Seeing a new horizontal crack accompanied by water is a significant indicator of structural stress, and taking immediate steps to clear the area is a standard safety response. These reactions are common when property integrity is threatened, and professional help is designed to manage these specific hazards.
+A fresh horizontal crack plus water seepage is a reasonable thing to take seriously—being cautious here is appropriate. The most helpful early actions are preventing anyone from being in the collapse path and reducing additional water loading while a professional assesses it.
 
 ## Scope note
-This guide is for first-step stabilization and harm reduction only. A structural engineer or local authority surveyor must determine if the wall requires propping, controlled demolition, or immediate drainage relief.
+These are first steps to stabilise risk and buy time. A structural engineer (and sometimes the local authority if the public could be affected) may recommend temporary propping, drainage relief, or controlled removal—those decisions depend on what the wall is retaining and what’s behind it.
 
 ## Important note
-This information is for general safety and does not constitute engineering or legal advice. If a collapse is imminent or could affect public areas, prioritize immediate evacuation and contact emergency services or building control.
+This is general safety information, not engineering or legal advice. If you think collapse is possible or the wall could affect a public area, prioritise keeping people away and contacting emergency/local authority help promptly.
 
 ## Additional Resources
 - https://www.gov.uk/report-dangerous-building-structure
-- https://www.gov.uk/guidance/your-garden-walls-better-to-be-safe
-- https://www.citizensadvice.org.uk/housing/problems-with-neighbours/if-you-disagree-with-your-neighbour-about-a-wall-or-fence/
-- https://www.nhbc.co.uk/homeowners/make-a-claim
-- https://www.ricsfirms.com/residential/maintenance/structural/
+- https://www.legislation.gov.uk/ukpga/1984/55/section/77
+- https://www.legislation.gov.uk/ukpga/1984/55/section/78
+- https://www.nationalgas.com/emergency-contacts
+- https://prepare.campaign.gov.uk/be-informed-about-hazards/power-cuts/
+- https://powercuts.nationalgrid.co.uk/how-to-report-a-power-cut
+- https://www.adur-worthing.gov.uk/building-control/report-a-dangerous-structure/

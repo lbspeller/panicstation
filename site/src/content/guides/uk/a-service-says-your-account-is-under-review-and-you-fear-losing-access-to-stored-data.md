@@ -1,96 +1,90 @@
----
+﻿---
 title: "What to do if… a service says your account is under review and you fear losing access to stored data"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "account under review"
-  - "account review notice"
-  - "account locked"
-  - "account temporarily suspended"
-  - "fear losing files"
-  - "losing access to cloud storage"
-  - "locked out of email account"
-  - "disabled account warning"
-  - "service restriction"
-  - "data export urgent"
-  - "download my data"
-  - "get my photos back"
-  - "recover my documents"
-  - "backup before deletion"
-  - "appeal account decision"
-  - "identity verification request"
-  - "two factor authentication issue"
-  - "unexpected logout everywhere"
-  - "access to stored data"
-  - "urgent account access"
-  - "what do i do if account under review"
-  - "what do i do if cloud storage locked"
-  - "what do i do if my photos are gone"
-  - "what do i do if my files are inaccessible"
-  - "help i cant get into my account"
-  - "help i lost access to my email"
-  - "help i need to download my google data"
-  - "help i need to export my apple data"
-  - "my account is suspended"
-  - "my cloud files are missing"
-  - "my drive is under review"
-  - "my data is locked"
-  - "smell of burning"
-  - "visible smoke"
-  - "unusual heat"
-  - "sudden buzzing"
-last_reviewed: "2026-03-17"
+  - account under review
+  - account review notice
+  - account locked
+  - account temporarily suspended
+  - fear losing files
+  - losing access to cloud storage
+  - locked out of email account
+  - disabled account warning
+  - service restriction
+  - data export panic
+  - download my data
+  - get my photos back
+  - recover my documents
+  - backup before deletion
+  - appeal account decision
+  - identity verification request
+  - two factor authentication issue
+  - unexpected logout everywhere
+  - access to stored data
+  - urgent account access
+last_reviewed: "2026-03-08"
 ---
-# What to do if… a service says your account is under review and you fear losing access to stored data (UK)
 
+# What to do if… a service says your account is under review and you fear losing access to stored data (UK)
 ## Short answer
-Immediately attempt to use the service's official data export tool (such as Google Takeout or Apple Data and Privacy) from a trusted device and network while your session is still active. Avoid making any security changes or repeated login attempts that could trigger a permanent lockout while you wait for the review to conclude.
+Pause and preserve: gather proof, stop risky changes, and immediately try the service’s official “download/export your data” and “appeal/review” routes from a trusted device.
 
 ## Do not do these things
-- Don't change your network location using a VPN or proxy, as this often triggers additional security flags during a review.
-- Don't repeatedly attempt to log in or reset your password if you receive an error; this can lead to a permanent automated suspension.
-- Don't delete or "refresh" the app on your device if you are still currently logged in.
-- Don't engage with third-party "recovery experts" on social media or DMs; these are almost exclusively scams.
-- Don't send multiple support tickets for the same issue, which can reset your position in the review queue.
+- Don’t repeatedly retry logins, password resets, or verification attempts in a panic (it can trigger more security blocks).
+- Don’t delete the account, “start fresh,” or remove recovery methods to “fix” it.
+- Don’t use random “account recovery” services or people offering help via DMs.
+- Don’t factory-reset devices or wipe apps until you’ve captured what’s happening and tried official exports.
+- Don’t send multiple conflicting support tickets; keep one clean case with a clear timeline.
 
 ## What to do now
-1. **Stabilize your current session and avoid logging out.** **If you are still logged into the service on any device, keep that window or app open and active.** Do not sign out, clear your browser cache, or restart the device unless absolutely necessary, as an active session may be your only way to trigger a data export.
+1. **Stabilise your access session (reduce lockout risk).**
+   - Use a **single, trusted device and network** you’ve used before for that service.
+   - If you’re currently logged in anywhere, **stay logged in** and avoid signing out on other devices.
 
-2. **Run the official data export tool immediately.** **Navigate directly to the service's data management portal (e.g., takeout.google.com, privacy.apple.com, or the "Download Your Information" section in settings) to start a full archive request.** 
-   - Select only the most critical data first (e.g., Photos, Drive, Contacts) to speed up the processing time.
-   - Choose a "direct transfer" to another cloud service (like iCloud, Dropbox, or OneDrive) if the option is available, as this bypasses the need for local storage space.
+2. **Capture evidence while you still can.**
+   - Screenshot the “under review” message, timestamps, and any emails/notifications.
+   - Save the exact wording of any alleged policy issue, and any case/reference number.
 
-3. **Check for locally cached data on your devices.** **Open your device’s file manager, "Downloads" folder, or "Photos" app to see if files are already stored locally rather than just in the cloud.** 
-   - Look for "Offline" folders or synced directories.
-   - Copy any identified files to an external drive or a different cloud service immediately.
+3. **Attempt the service’s official data export immediately.**
+   - Look for in-product options like **“Download your data,” “Export,” “Archive,” “Takeout,”** or similar.
+   - If export is blocked, note the error message and time (this matters for escalation).
 
-4. **Document the exact state of the account.** **Take screenshots of the "under review" notification, any specific error codes, and the "Data and Privacy" dashboard status.** Save these outside the service (e.g., in your device's local camera roll or a physical print-to-PDF file) to use as evidence for a formal complaint if required.
+4. **Secure the account without making big changes.**
+   - Change your password **once** (to a strong, unique one) *only if* you can do it without triggering extra verification loops.
+   - Ensure **two-step verification** and **recovery email/phone** are accurate (don’t remove anything right now; only add/confirm if allowed).
 
-5. **Submit a formal appeal using the service’s designated internal channel.** **Provide a concise, factual description of your situation, stating clearly that you require access to your personal data.** 
-   - Quote any reference numbers provided in the "under review" notice.
-   - Mention that you are prepared to provide identity verification if requested.
+5. **Use the service’s formal “review/appeal” channel, once, carefully.**
+   - Submit a short, factual appeal: what happened, that you need access to your stored data, and that you can verify identity if required.
+   - Attach/quote your screenshots and any reference number. Keep a copy of everything you submit.
 
-6. **Exercise your statutory right to complain under the Data (Use and Access) Act 2025.** **If the service does not resolve the access issue or fails to provide your data, send a formal "Data Protection Complaint" to their privacy or DPO office.** 
-   - Under UK law effective June 2026, the controller must acknowledge receipt of your complaint within 30 days.
-   - State that you are making a complaint regarding the restriction of your "Right of Access" (SAR) or "Right to Data Portability."
+6. **If you may lose access soon, take “outside the account” backups of what you can.**
+   - If you can still view files/photos/messages, download key items locally in priority order (most important first).
+   - If the service is on a phone/computer app, check whether any data is also stored **locally** (e.g., synced folders, device photo library, cached documents) and copy it to a safe place.
+
+7. **If the service won’t restore access, use your UK data rights as a fallback for personal data (results can vary).**
+   - Consider sending a **Subject Access Request (SAR / right of access)** to request copies of your personal data the service holds.
+   - If relevant, also request **data portability** (a structured, commonly used, machine-readable format) for certain data you provided and that is processed by automated means.
+   - What you receive may be limited by rules about other people’s data, exemptions, or how the service stores content. If your request is mishandled or ignored, you can **complain to the ICO**.
+   - Be aware that some UK data-rights guidance has been under review/updated following recent UK legislative changes, so keep your request simple and focused on the specific data you need.
 
 ## What can wait
-- You do not need to decide whether to close the account permanently until the review is finished.
-- You do not need to notify all your contacts about the lockout unless the account is compromised.
-- You do not need to hire a solicitor at this stage; internal appeals and ICO complaints are designed for individuals to navigate.
+- You do not need to decide today whether to leave the platform permanently.
+- You do not need to rewrite everything into a new service right now—focus only on preserving what matters.
+- You do not need to “prove” your case in long messages; a clean, factual record is enough for first contact.
 
 ## Important reassurance
-An "under review" status is a temporary protective measure and does not always result in account deletion. Many reviews are automated security checks that resolve themselves once the service confirms your identity or network stability. By prioritizing data export now, you protect your files regardless of the eventual account decision.
+This situation feels urgent because access can change quickly, but the safest progress usually comes from slowing down, keeping one clear support trail, and prioritising data export and evidence over repeated attempts.
 
 ## Scope note
-This guide covers first-step stabilization and data preservation for UK users facing service-level reviews. It does not cover technical recovery of hacked accounts or legal representation for terms-of-service violations.
+These are first steps to reduce the chance of permanent loss and to create a paper trail. Later steps may involve deeper recovery work, legal advice, or specialist help depending on the service and what data is at stake.
 
 ## Important note
-This information is provided for general guidance and is not legal advice. The implementation of the Data (Use and Access) Act 2025 means that specific procedures for complaints and SARs may vary by provider. If your data involves legal evidence or significant financial assets, you should consult a qualified legal professional.
+This is general information, not legal advice. Services differ, and some data (especially shared or third-party content) may not be fully portable or provided. If you believe you’re at immediate risk of identity theft or financial harm, treat it as a separate urgent issue.
 
 ## Additional Resources
-- https://ico.org.uk/for-the-public/your-right-to-data-portability/
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/subject-access-requests/a-guide-to-subject-access/
 - https://ico.org.uk/for-the-public/getting-copies-of-your-information-subject-access-request/
-- https://ico.org.uk/for-the-public/make-a-subject-access-request/
-- https://ico.org.uk/for-the-public/how-to-make-a-data-protection-complaint/
-- https://ico.org.uk/make-a-complaint/data-protection-complaints/
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/right-to-data-portability/
+- https://ico.org.uk/for-the-public/your-right-to-data-portability/
+- https://ico.org.uk/make-a-complaint/

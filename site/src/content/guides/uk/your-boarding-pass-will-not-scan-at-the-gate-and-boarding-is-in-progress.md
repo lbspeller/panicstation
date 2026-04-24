@@ -1,92 +1,83 @@
----
+﻿---
 title: "What to do if… your boarding pass will not scan at the gate and boarding is in progress"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "boarding pass will not scan"
-  - "boarding pass not scanning at gate"
-  - "gate scanner will not read boarding pass"
-  - "boarding pass won't scan"
-  - "boarding pass wont scan"
-  - "barcode will not scan at airport"
-  - "qr code error at boarding"
-  - "mobile boarding pass failure"
-  - "paper boarding pass scan error"
-  - "boarding in progress issue"
-  - "stuck at boarding gate"
-  - "denied boarding at gate uk"
-  - "cannot board flight gate error"
-  - "name called at gate problem"
-  - "document check at boarding gate"
-  - "boarding pass system error message"
-  - "late boarding pass scan failure"
-  - "gate agent help boarding"
-  - "reprint boarding pass at gate"
-  - "airline app pass not loading"
-  - "uk electronic travel authorisation check"
-  - "eta check at boarding gate"
-  - "boarding pass rejected by scanner"
-  - "digital travel credential failure"
-  - "automated boarding gate rejection"
-  - "flight boarding pass red light"
-  - "passport not linked to boarding pass"
-  - "boarding pass barcode smudged"
-  - "screen brightness boarding pass"
-  - "ryanair digital boarding pass help"
-  - "easyjet mobile pass error"
-  - "british airways gate scan problem"
-  - "tui boarding pass scan failure"
-  - "airport gate staff assistance"
-last_reviewed: "2026-03-17"
+  - boarding pass won't scan
+  - boarding pass not scanning at gate
+  - gate scanner won't read boarding pass
+  - barcode won't scan
+  - qr code won't scan boarding
+  - mobile boarding pass not scanning
+  - paper boarding pass not scanning
+  - boarding in progress problem
+  - stuck at boarding gate
+  - denied boarding at gate
+  - can't board flight
+  - name called at gate issue
+  - document check at gate
+  - boarding pass error message
+  - late boarding stress
+  - gate agent help
+  - reprint boarding pass
+  - app boarding pass not loading
+  - screenshot boarding pass
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… your boarding pass will not scan at the gate and boarding is in progress (UK)
 
 ## Short answer
-Step out of the queue immediately and request a manual override or pass refresh from a gate agent while the flight is still open.
+Step out of the queue immediately and get a gate agent’s attention: they can often reissue/refresh your boarding pass or clear a system hold, but only while the flight is still open for boarding.
 
 ## Do not do these things
-- Do not keep attempting to scan a failing pass while blocking the automated lane or sensor.
-- Do not leave the gate area to find a help desk without first speaking to the staff at your specific boarding gate.
-- Do not assume that a simple screenshot of a boarding pass is valid; many UK carriers (especially Ryanair and EasyJet) require the live app or a Wallet version to ensure security tokens are current.
-- Do not hand your mobile device or passport to other passengers or leave your luggage unattended while troubleshooting.
-- Do not delete and reinstall the airline app while at the front of the queue, as this may clear your check-in data.
+- Don’t keep trying to scan repeatedly while blocking the lane; it wastes the minutes you need.
+- Don’t walk away from the gate “to sort it out” without telling a gate agent first (you can miss final boarding).
+- Don’t hand your phone or passport to strangers “to help” or leave bags unattended.
+- Don’t assume a screenshot or a PDF/scan of your boarding pass will be accepted or scannable—some airlines/airports won’t scan certain formats. If in doubt, use the airline app pass, a Wallet pass, or get a fresh paper print.
+- Don’t assume it’s “your fault” (often it’s a document-check or a sync issue on the airline system).
 
 ## What to do now
-1. **Move to the designated assistance area or the side of the lane immediately.**  
-   **Clear the scanner path so other passengers can continue boarding while you resolve the issue.** This prevents the "gate freeze" that happens when automated systems detect a persistent blockage.
-2. **Alert the gate staff that your pass has been rejected by the scanner.**  
-   **State clearly: "My boarding pass is not scanning and I have a 'system hold' or 'document check' error."** This phrasing signals to the agent that they may need to check your UK ETA status or visa credentials in the system.
-3. **Perform immediate hardware and software checks on your device.**  
-   - **Increase your screen brightness to 100 percent.**
-   - **Ensure "Dark Mode," "Night Shift," or blue-light filters are disabled.**
-   - **Wipe any smudges or moisture from the screen or the paper barcode.**
-   - **Open the airline’s native app or the Apple/Google Wallet version instead of a PDF or email attachment.**
-4. **Prepare your travel documents for an immediate manual check.**  
-   **Hold your passport open at the photo page and have any Electronic Travel Authorisation (ETA) approval emails ready on your device.** As of February 2026, most scan failures at UK gates are triggered by the mandatory "No Permission, No Travel" ETA verification system.
-5. **Request a "Gate Pass" or system re-sync if the mobile version fails.**  
-   **Ask the agent: "Can you re-sync my check-in on the terminal or print an emergency paper slip?"** While airlines like Ryanair are now digital-only, gate staff have the capacity to print "emergency boarding slips" if a device is non-functional.
-6. **Confirm your boarding group status with the agent.**  
-   **Verify that you are attempting to board with the correct group.** In 2026, UK automated gates are programmed to reject passes if the passenger’s assigned boarding group has not yet been called.
-7. **Maintain proximity with your travel group.**  
-   **Instruct your companions to wait just past the scanner or at the desk to avoid being separated if you are pulled aside for further document verification.** Ensure each person holds their own passport and essential medication.
+1. **Move to the side of the boarding area (still within sight of the desk).**  
+   Take a breath, get your phone/printed pass and your passport/ID in your hand so you look “ready to be fixed,” not “still searching.”
+2. **Get a gate agent’s attention quickly and clearly.**  
+   Say: “My boarding pass won’t scan; boarding is in progress. Can you reissue it or check if there’s a hold?”  
+   If there are two staff, approach the one **not** actively scanning other passengers.
+3. **Check the simplest scan blockers while you wait (30–60 seconds, not 5 minutes).**  
+   - Turn **screen brightness to max** and wipe smudges from your screen.  
+   - Turn off “dark mode”/blue light filters temporarily.  
+   - If you have the pass in multiple places (airline app + Apple/Google Wallet + email), **open the airline app or Wallet version first** if possible.  
+   - If you’re using a printed pass, flatten it and make sure the barcode/QR isn’t creased or torn.
+4. **If a document check is needed, be ready to show the right thing immediately.**  
+   For international flights this is often your **passport** (and sometimes visa/residence proof). Hand it directly to the gate agent when asked.
+5. **Ask for the fastest usable replacement boarding pass.**  
+   - If your phone is the problem (cracked screen, low battery, app stuck), ask for a **paper boarding pass** or for them to **reissue** your mobile pass from their system.  
+   - If the gate can’t do it, ask: “Where is the nearest airline desk/kiosk for reprint, and will boarding still be open if I go now?”
+6. **If you’re travelling with others, prevent accidental separation.**  
+   Tell your group: “Stay just over there. Don’t go far.”  
+   Keep **all passports/IDs** with their owners and keep your essentials (phone, bank card, any required meds) with you.
+7. **If the agent says you’re “not cleared” / “unable to board,” ask the key question.**  
+   “Is this a document verification issue, or do you need to reissue the boarding pass?”  
+   This helps staff choose the right fix without you guessing.
 
 ## What can wait
-- You do not need to investigate the cause of the technical glitch (e.g., app bugs or WiFi signal) while boarding is live.
-- You do not need to determine your eligibility for UK Flight Delay Compensation (UK261) until you are either on the plane or the gate has officially closed.
-- You do not need to update your passenger profile or contact details in the airline app at this moment.
+- You do **not** need to decide right now who is to blame, whether to complain, or what compensation you might be entitled to.
+- You do **not** need to troubleshoot your phone deeply (reinstalling apps, password resets) unless a gate agent explicitly tells you it’s required.
+- You do **not** need to argue about policies in the boarding lane; the priority is getting a pass that scans before the door closes.
 
 ## Important reassurance
-Boarding pass scan failures are frequently caused by minor synchronization delays between the check-in system and the gate scanner. Gate agents handle these "red light" events dozens of times per flight; stepping aside and presenting your passport allows them to clear the hold manually in a few seconds.
+This is a common, fixable airport glitch or “hold” (document checks, seat changes, or the boarding system not syncing). The most effective move is to step aside and get a gate agent to reissue or clear it while boarding is still open.
 
 ## Scope note
-This guide provides first-step stabilization for a scan failure at the gate. It does not cover long-term rebooking procedures if boarding is denied for legal or security reasons.
+These are first steps for the moment your pass won’t scan while boarding is underway. After you’re either onboard or the flight has closed, the next steps become airline-specific (rebooking, standby, missed flight procedures).
 
 ## Important note
-This information is for guidance only and does not guarantee boarding. Access to a flight is subject to the carrier's terms and conditions, UK Border Force regulations, and the valid status of your Electronic Travel Authorisation (ETA) or visa. Gate agents have the final authority to deny boarding based on security protocols or boarding timelines.
+This is general information, not legal advice or a guarantee of boarding. Airlines and airports can have different scanning systems and document-check requirements, and gate staff decisions depend on safety, security, and whether boarding has closed.
 
 ## Additional Resources
-- https://www.britishairways.com/content/information/checking-in-and-boarding/ba-on-your-mobile
-- https://www.easyjet.com/en/mobile-app/mobile-boarding-passes
+- https://www.gov.uk/guidance/air-travel-checklist-for-travel-from-the-uk
 - https://www.gov.uk/government/publications/air-passenger-travel-guide/air-passenger-travel-guide
-- https://www.caa.co.uk/passengers-and-public/resolving-travel-problems/delays-and-cancellations/denied-boarding/
-- https://www.caa.co.uk/passengers-and-public/resolving-travel-problems/how-the-caa-can-help/how-to-make-a-complaint/
+- https://www.caa.co.uk/passengers-and-public/passenger-guidance/at-the-airport/
+- https://www.britishairways.com/content/information/checking-in-and-boarding/ba-on-your-mobile
+- https://www.easyjet.com/en/help/booking-and-check-in/check-in
+- https://help.ryanair.com/hc/en-gb/categories/38653074432913-Digital-Boarding-Pass

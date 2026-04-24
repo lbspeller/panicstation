@@ -1,89 +1,86 @@
----
+﻿---
 title: "What to do if… you receive an unexpected notice that your identity must be verified in person for an official record"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "unexpected identity verification notice"
-  - "in person identity check"
-  - "verify identity for official record"
-  - "prove who you are in person"
-  - "official letter asking for id"
-  - "suspicious identity verification request"
-  - "companies house identity check"
-  - "gov uk one login verification"
-  - "post office identity service"
-  - "what do i do if i get a letter about id"
-  - "what do i do if companies house asks for id"
-  - "what do i do if a notice asks for id"
-  - "what do i do if police want to see id"
-  - "help i got an unexpected id notice"
-  - "help i need to verify my identity in person"
-  - "my identity needs verification notice"
-  - "my official record needs proof of id"
-  - "unrecognized reference number on notice"
-  - "letter from companies house about id"
-  - "notice from gov uk one login"
-  - "unexpected call about identity verification"
-  - "identity fraud concern"
-  - "possible impersonation scam"
-  - "id check at post office"
-  - "bring photo id to appointment"
-  - "proof of address request"
-  - "official record correction request"
-  - "unexpected government style letter"
-  - "verify identity in person uk"
-  - "id verification deadline"
-last_reviewed: "2026-03-17"
+  - unexpected identity check notice
+  - in-person identity verification
+  - verify identity for official record
+  - prove who you are in person
+  - official letter asking for id
+  - suspicious identity verification request
+  - unsure if notice is genuine
+  - asked to attend an appointment with id
+  - deadline to verify identity
+  - identity fraud concern
+  - possible impersonation scam
+  - reference number on notice
+  - bring photo id to appointment
+  - proof of address request
+  - verify contact details independently
+  - official record correction request
+  - asked to confirm personal details
+  - urgent identity verification demand
+  - worried about identity theft
+  - unexpected government-style letter
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive an unexpected notice that your identity must be verified in person for an official record (UK)
 
 ## Short answer
-Stop and verify the notice is genuine by contacting the organization through an official channel you find independently before attending any location or sharing personal details.
+Pause and confirm the notice is genuine using an official contact method you find yourself (not the contact details on the notice) before you share information or go anywhere.
 
 ## Do not do these things
-- Do not use any phone numbers, links, or QR codes provided in the notice until they are verified.
-- Do not share one-time passcodes, bank details, or full account passwords over the phone or email.
-- Do not hand over original identity documents to anyone who offers to "collect them" from your home.
-- Do not attend an appointment at an unfamiliar location without confirming the address on an official government or police website.
-- Do not ignore the notice entirely if it mentions a deadline; verify it immediately to avoid losing access to services or records.
+- Do not phone a number, click a link, scan a QR code, or email an address from the notice until you’ve verified it independently.
+- Do not share one-time codes, passwords, card details, or full online account logins to “confirm” anything.
+- Do not rush to attend a location you cannot confirm is genuine, especially if the notice uses threats or urgency.
+- Do not hand over original documents to anyone who offers to “collect them” or “verify them at your home”.
+- Do not assume it’s a scam and ignore it if it looks plausibly official — verify first, then act.
 
 ## What to do now
-1. **Capture the core details from the notice without clicking or calling.** Note the name of the department, the reference or case number, the reason for the check, and any stated deadline.
-2. **Find the organization's official contact information via GOV.UK.** 
-   - If the notice claims to be from Companies House, search "Companies House contact" on GOV.UK.
-   - If it claims to be from the police, call **101** (non-emergency) or use the "Contact Us" section on the official force website to verify the officer or unit.
-   - For HM Prison and Probation Service (HMPPS) matters, use the official prison finder on GOV.UK to find the site's main switchboard.
-3. **Verify if a digital "starting step" is required before you can go in person.**
-   - For Companies House or GOV.UK One Login, you usually must enter your ID details online first to generate a "customer letter" or QR code for the Post Office.
-   - Ask the official contact: "Is this notice genuine, and what is the correct URL to begin the verification process?"
-4. **Confirm the exact location where you are expected to attend.**
-   - If directed to a Post Office, use the official "Post Office Branch Finder" to ensure that specific branch offers "In-branch verification" or "GOV.UK One Login" services.
-   - If directed to a police station or government building, verify the address and reception opening times on the official agency website.
-5. **Report the notice if you cannot verify it as genuine.**
-   - In England, Wales, or Northern Ireland, report suspicious letters or calls to **Action Fraud** at **0300 123 2040** or via their website.
-   - In Scotland, report suspicious activity to **Police Scotland** by calling **101**.
-   - Forward suspicious texts to **7726** and emails to **report@phishing.gov.uk**.
-6. **Prepare only the specific documents requested by the verified organization.**
-   - Typically, this includes a valid photo ID (e.g., biometric passport, UK driving licence) and the official verification letter/QR code.
-   - Do not bring extra sensitive documents that were not explicitly requested.
+1. **Get to a calm pause and capture the essentials.** Note the organisation name, any reference/case number, what record it mentions, what it’s asking you to do, and any deadline.
+2. **Verify the organisation via an official route you control.**
+   - If it claims to be a UK government service, use GOV.UK to find the correct service page and contact details.
+   - If it claims to be the police, call **101** (non-emergency) and ask to be put through to the station/unit named. If you’re in immediate danger, call **999**.
+   - If it relates to prison/custody/visits, use official contact details for the prison or custody location (found via GOV.UK or the force’s official site), not the notice.
+3. **Ask only what you need to confirm it’s real (minimum disclosure).** For example:
+   - “Did you send this notice?” (quote the reference number)
+   - “Which exact record is this about, and why is in-person verification required?”
+   - “Is an appointment required? Where do I attend, and what ID is acceptable?”
+   - “How do I reschedule if I cannot attend that date?”
+4. **If it’s genuine, confirm the safest way to attend.**
+   - Confirm the **full address**, **opening hours**, whether you need an **appointment**, and what happens on arrival (reception desk, check-in process).
+   - If you have accessibility needs or you’re anxious about attending alone, ask what support is available and whether someone can accompany you.
+5. **Prepare a tight document pack (don’t over-share).**
+   - Bring only what the verified organisation says you need (often the notice/letter plus one valid photo ID, and only any extra proof they specify).
+   - Keep your own record of what you’re taking (a short list at home). Don’t photograph/copy documents in secure areas unless staff say it’s allowed.
+6. **If it still doesn’t verify cleanly, treat it as suspicious and slow it down.**
+   - End the call, re-check the contact details from an official source, and call again via a main switchboard number.
+   - Do not attend until you can confirm the location and process are legitimate.
+7. **If the notice mentions a Companies House / online government identity check (and you received an email claiming filings will be blocked).**
+   - Some UK identity checks do involve **in-person verification at selected Post Office branches** after you start the process via an official online service.
+   - Public Companies House communications describe identity verification starting from **18 November 2025** with a phased rollout. If an email claims “you cannot file unless all directors are verified”, **don’t rely on the email wording alone**: verify what applies to your company by checking the official GOV.UK guidance/service and, if needed, contacting Companies House using official contact details.
+   - If it’s genuine and you’re required to verify, start the official process promptly so you’re not caught by a filing deadline.
 
 ## What can wait
-- You do not need to determine how the organization got your details while you are still in the verification phase.
-- You do not need to pay any "fast-track" fees unless you have confirmed via an official government website that such a fee exists.
-- You do not need to worry about permanent record errors until you have completed the identity check or confirmed it is a scam.
+- You do not need to decide “why this is happening” right now — focus on confirming the notice is real and what the verified appointment requires.
+- You do not need to assemble every possible document. Bring only what you’re told to bring.
+- You do not need to make a complaint immediately. First prevent further exposure of your details and confirm what’s required.
 
 ## Important reassurance
-Official organizations often require in-person identity checks for security, especially under the 2026 rules for company directors and people with significant control. Feeling suspicious or anxious is a protective response; taking a few minutes to verify a notice through a trusted channel is the standard safe procedure and will not be penalized by genuine agencies.
+It’s common for official bodies to require in-person ID checks when something doesn’t match automated checks or when a record needs extra protection. Feeling alarmed by an unexpected notice is normal — you can protect yourself by verifying it independently and taking only the minimum next steps.
 
 ## Scope note
-This guide covers the immediate steps to verify an identity check request and ensure any in-person attendance is safe. It does not cover legal disputes regarding the underlying record or long-term identity theft recovery.
+This guide covers first steps to confirm the notice is genuine and to attend safely if needed. Later steps (challenging a decision, correcting a record, or responding to enforcement action) may need specialist advice.
 
 ## Important note
-Processes for identity verification are subject to change and vary between government departments. Always rely on GOV.UK or official police domains for the most current procedural requirements. If you believe your identity has already been stolen, contact your bank and the relevant official body immediately.
+This is general information, not legal advice. Processes and acceptable documents vary by organisation and by what “official record” is involved. If you feel pressured, unsafe, or uncertain, slow down and verify via official channels before taking any action.
 
 ## Additional Resources
 - https://www.gov.uk/using-your-gov-uk-one-login/proving-your-identity
 - https://www.gov.uk/guidance/how-to-prove-your-identity-for-companies-house-at-the-post-office
-- https://www.gov.uk/guidance/verifying-your-identity-for-companies-house
-- https://www.gov.uk/government/publications/verify-identity-citizen-id1
-- https://www.gov.uk/guidance/completing-forms-id1-and-id2
+- https://www.gov.uk/guidance/verify-your-identity-for-companies-house
+- https://www.police.uk/pu/contact-us/
+- https://www.gov.uk/contact-police
+- https://companieshouse.blog.gov.uk/2025/10/16/making-identity-verification-simple-secure-and-trusted/

@@ -1,97 +1,86 @@
----
+﻿---
 title: "What to do if… you are asked to provide a customs declaration reference number and you cannot retrieve the confirmation"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "customs declaration reference"
-  - "customs reference number missing"
-  - "cbp entry number missing"
-  - "entry summary reference lost"
-  - "form 7501 missing"
-  - "cannot find cbp 7501"
-  - "customs broker reference lost"
-  - "courier asking for reference"
-  - "carrier clearance reference request"
-  - "package held at customs reference"
-  - "duty payment text suspicious"
-  - "customs confirmation email deleted"
-  - "shipping confirmation missing"
-  - "usps customs form confirmation missing"
-  - "airway bill number instead of reference"
-  - "tracking number used as reference"
-  - "invoice number vs customs number"
-  - "import paperwork misplaced"
-  - "broker says provide entry number"
-  - "clearance hold cannot respond"
-  - "cbp 7501 format"
-  - "lost customs declaration"
-  - "customs entry number help"
-  - "missing 7501 form"
-  - "what do i do if i lost my customs reference"
-  - "help i cannot find my customs number"
-  - "what do i do if customs asks for reference"
-  - "my customs entry number is missing"
-  - "help i lost my entry summary"
-  - "cbp reference number recovery"
-  - "customs hold tracking number"
-  - "verify customs fee request"
-  - "scam customs text help"
-last_reviewed: "2026-03-17"
+  - customs declaration reference
+  - customs reference number missing
+  - cbp entry number missing
+  - entry summary reference lost
+  - form 7501 missing
+  - cannot find cbp 7501
+  - customs broker reference lost
+  - courier asking for reference
+  - carrier clearance reference request
+  - package held at customs reference
+  - duty payment text suspicious
+  - customs confirmation email deleted
+  - shipping confirmation missing
+  - usps customs form confirmation missing
+  - airway bill number instead of reference
+  - tracking number used as reference
+  - invoice number vs customs number
+  - import paperwork misplaced
+  - broker says provide entry number
+  - clearance hold cannot respond
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you are asked to provide a customs declaration reference number and you cannot retrieve the confirmation (USA)
 
 ## Short answer
-Verify the request through the carrier's official website using your tracking number to confirm if a specific Customs and Border Protection (CBP) Entry Number is required. Contact the carrier’s brokerage department or your independent customs broker to have the official Entry Summary (Form 7501) re-sent to your verified email.
+Verify the request through an official channel and clarify what “reference number” they mean (CBP entry/entry summary, broker reference, or carrier tracking/air waybill). Then use tracking/air waybill and the broker/carrier’s official support to have the correct reference re-sent.
 
 ## Do not do these things
-- Do not pay any "customs fees" or "import duties" through a link provided in a text message or unsolicited email.
-- Do not provide your Social Security number or financial details to any caller claiming to be a "Customs Officer" over the phone.
-- Do not attempt to guess or invent an 11-digit entry number to satisfy a request.
-- Do not use a reference number from a previous, unrelated shipment.
-- Do not assume that a "package held" notification is legitimate if it does not appear on the official tracking page of the carrier (UPS / FedEx / DHL / USPS).
+- Do not pay “customs fees” from an unexpected text/email link unless you verify it through the carrier’s official site/app you navigate to yourself.
+- Do not send your passport, Social Security number, or full financial details to an unverified email address “for customs clearance”.
+- Do not invent a reference number or reuse one from another shipment.
+- Do not rely on a caller’s provided phone number or link if you didn’t initiate contact from an official site.
+- Do not delete emails/receipts while you’re trying to recover the missing confirmation.
 
 ## What to do now
-1. **Identify exactly which number is being requested by the carrier or broker.**  
-   - Ask if they require the **CBP Entry Number** (a 11-digit alphanumeric code in the format XXX-NNNNNNN-N), the **Master Air Waybill (MAWB)**, or a specific **Broker Reference Number**.
-   - Clarify if they are requesting **CBP Form 7501 (Entry Summary)** or simply a commercial invoice to process the entry.
+1. **Ask one clarifying question (it prevents wrong numbers):**  
+   “Do you mean a **CBP entry/entry summary number (Form 7501)**, a **customs broker reference**, or the **carrier tracking/air waybill number**?”  
+   Ask them to tell you exactly where they expect you to find it (broker portal, carrier portal, CBP paperwork).
 
-2. **Verify the legitimacy of the request through an official communication channel.**  
-   - Navigate directly to the carrier's official website (e.g., ups.com, fedex.com) and enter your tracking number to check the "Clearance Status."
-   - If the request claims to be from CBP, call the **CBP INFO Center** at 1-877-227-5511 (or +1-202-325-8000 from abroad) to verify if your name or shipment is associated with an official hold.
+2. **Verify the request using an official path (anti-scam step).**  
+   - If it came from a carrier (UPS/FedEx/DHL/USPS), go directly to the carrier’s official website/app and check the shipment using your **tracking/air waybill**.  
+   - If it came from a “broker” you don’t recognize, treat it as unverified until you confirm the broker is actually assigned to your shipment.
 
-3. **Search your digital records for the specific 11-digit entry number format.**  
-   - Search your email for terms like "CBP," "7501," "Entry Summary," "Import Clearance," or the name of the shipping carrier.
-   - Look for any PDF attachments sent at the time the shipment was dispatched or when it arrived at a US Port of Entry.
+3. **Do a fast recovery sweep for the missing confirmation.**  
+   Search email and accounts for: **CBP**, **entry**, **7501**, **broker**, **duty**, **tax**, **clearance**, **commercial invoice**, **air waybill**, **tracking**, and the retailer/sender name.  
+   Check spam/junk and deleted items/trash.
 
-4. **Contact the party responsible for the customs filing to recover the reference.**  
-   - If the carrier (e.g., FedEx or DHL) is acting as your broker, call their international customer service line and ask for the "Brokerage Department."
-   - Provide your tracking number and ask them to re-send the **Entry Summary** to the email address on file.
+4. **If this is an import shipment: contact whoever filed/handled clearance.**  
+   - If you hired a **customs broker**, ask for the shipment’s **entry/entry summary reference** and what you need to quote back.  
+   - If the **carrier handled brokerage**, use the carrier’s official support channel and ask them to re-send the clearance request or provide the correct reference.
 
-5. **Request a copy of the Commercial Invoice from the original sender.**  
-   - Contact the retailer or individual who sent the package and ask for a digital copy of the invoice and the shipping declaration.
-   - Carriers can often use the commercial invoice to locate or recreate the customs entry reference if the original was lost in transit.
+5. **If they specifically say “Entry Summary / Form 7501”: don’t assume you should have it.**  
+   CBP Form 7501 is used for entry summary in many import situations, but individuals often don’t possess it directly if a broker/carrier filed it. Ask the broker/carrier what identifier they want from you (commonly **tracking/air waybill + identity verification**) so they can retrieve the entry reference internally.
 
-6. **Check for a "Notice of Detention" if the package is being held by CBP directly.**  
-   - CBP typically issues a formal written notice if they have seized or detained a package; this notice will contain a specific case or seizure number.
-   - Note that CBP does not have a central tracking system for all mail; they only track packages that have reached their physical custody.
+6. **If an official asks in person while you’re traveling:**  
+   Say you can’t access the confirmation right now and ask what alternatives they can accept (passport, itinerary, purchase receipt/invoice, tracking/air waybill). If you can safely step aside, pull up the official carrier portal or retailer order page on your phone.
+
+7. **Keep a short record of what you’re told.**  
+   Write down: who asked, when, what they called the number (“entry”, “7501”, “broker ref”), and any case/ticket number. Screenshot legitimate portal messages.
 
 ## What can wait
-- You do not need to decide immediately whether to abandon the shipment or pay disputed duties while you are still verifying the reference number.
-- You do not need to file a formal protest (CBP Form 19) until after the entry has been officially liquidated, which usually takes months.
-- You do not need to provide proof of payment for the goods until the carrier or CBP explicitly requests it through a verified portal.
+- You don’t need to decide now whether to dispute fees, file complaints, or change shipping methods.
+- You don’t need to rebuild every document at once — start with the one identifier you trust (tracking/air waybill or broker case reference).
+- You don’t need to provide high-risk personal identifiers unless a verified process explicitly requires them.
 
 ## Important reassurance
-Losing a customs reference number is a routine occurrence in international logistics. Authorized carriers and customs brokers maintain electronic records of all entries for five years and are capable of retrieving your data using only your tracking number and identity verification.
+Losing a confirmation is common, especially when documentation is split between retailer, carrier, and broker. Legitimate carriers and brokers can usually locate the right record from tracking/air waybill and recipient details once you contact them through official channels.
 
 ## Scope note
-This guide covers first-step stabilization for individuals and small importers. It does not provide legal advice for commercial compliance audits, formal protests, or legal disputes with Customs and Border Protection.
+First steps only: verifying legitimacy, recovering the correct reference, and avoiding unnecessary document sharing. Complex imports or compliance issues may require a licensed customs broker or official CBP guidance.
 
 ## Important note
-Customs and Border Protection (CBP) officers do not call individuals to demand payment via gift cards, cryptocurrency, or wire transfers. If you are asked for payment in these forms, it is a scam. Always verify entry requirements through the official help.cbp.gov portal or a licensed customs broker.
+This is general information, not legal advice or customs brokerage advice. “Reference number” can mean different identifiers depending on shipment type and who is asking. When unsure, verify through official carrier/broker channels and rely on CBP resources for terminology, before you share documents or pay charges.
 
 ## Additional Resources
-- https://www.cbp.gov/travel/us-citizens/mobile-passport-control
-- https://play.google.com/store/apps/details?id=gov.dhs.cbp.pspd.mpc
-- https://www.cbp.gov/newsroom/national-media-release/new-mobile-passport-control-app-available
-- https://www.usa.gov/arrival-departure-record
-- https://www.cbp.gov/travel/international-visitors/i-94
+- https://www.cbp.gov/trade/programs-administration/entry-summary
+- https://www.cbp.gov/trade/programs-administration/entry-summary/cbp-form-7501
+- https://www.cbp.gov/document/guides/ace-entry-summary-instructions
+- https://www.ecfr.gov/current/title-19/chapter-I/part-142
+- https://www.usps.com/international/customs-forms.htm

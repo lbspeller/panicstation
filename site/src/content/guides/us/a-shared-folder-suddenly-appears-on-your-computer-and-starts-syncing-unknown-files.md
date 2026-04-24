@@ -1,102 +1,92 @@
----
+﻿---
 title: "What to do if… a shared folder suddenly appears on your computer and starts syncing unknown files"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "shared folder appeared"
-  - "unknown files syncing"
-  - "random files downloading"
-  - "unexpected cloud sync"
-  - "onedrive syncing unknown files"
-  - "sharepoint library started syncing"
-  - "google drive desktop syncing unknown"
-  - "dropbox folder syncing files"
-  - "new folder keeps updating"
-  - "computer syncing without permission"
-  - "device linked to wrong account"
-  - "someone shared a folder with me"
-  - "suspicious sync activity"
-  - "cloud account compromised"
-  - "unknown files in my folders"
-  - "unwanted shared folder"
-  - "mystery shared drive folder"
-  - "sudden files appearing"
-  - "shared folder on my computer"
-  - "what do i do if a folder appears"
-  - "what do i do if files start syncing"
-  - "help i have unknown files syncing"
-  - "help i have a mystery folder"
-  - "my computer is syncing random files"
-  - "my onedrive is downloading unknown files"
-  - "blue cloud icon syncing unknown"
-  - "green checkmarks on unknown files"
-  - "folder with two people icon appeared"
-  - "unexpected sharepoint library sync"
-  - "unknown files in file explorer"
-  - "syncing unknown folder"
-  - "shared folder sync"
-  - "syncing unknown files"
-  - "shared folder computer"
-last_reviewed: "2026-03-17"
+  - unknown folder syncing
+  - shared folder appeared
+  - random files downloading
+  - unexpected cloud sync
+  - onedrive syncing unknown files
+  - sharepoint library started syncing
+  - google drive desktop syncing unknown
+  - dropbox folder syncing files i don’t recognize
+  - new folder keeps updating
+  - computer syncing without permission
+  - device linked to wrong account
+  - someone shared a folder with me
+  - suspicious sync activity
+  - cloud account compromised
+  - unknown files in my folders
+  - unwanted shared folder
+  - mystery shared drive folder
+  - sudden files appearing
+  - shared folder on my computer
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… a shared folder suddenly appears on your computer and starts syncing unknown files (USA)
 
 ## Short answer
-Immediately pause the synchronization app or disconnect from the internet to stop file downloads, then identify the specific cloud service and account responsible. Do not open any files until you have verified the source and secured your accounts from a separate device.
+Stop the sync first (pause/quit the sync app or go offline), then confirm which cloud account/service is responsible before opening anything. If you suspect account access, secure the account from a different device.
 
 ## Do not do these things
-- Don't open any of the unknown files, especially installers or documents that request macro permissions.
-- Don't move or copy these files to other locations on your drive while the sync app is active.
-- Don't click "Always keep on this device" or similar prompts for the unknown items.
-- Don't click links in emails or texts claiming to be about the shared folder.
-- Don't delete the folder from your local drive until you have disabled the sync connection, as this may trigger a "delete everywhere" command in the cloud.
+- Don’t open the unknown files “just to check” (especially .exe/.msi installers, shortcuts, or documents asking to enable macros).
+- Don’t move/copy the unknown files to other folders while sync is active (it can multiply changes and spread risk).
+- Don’t keep clicking “keep on this device / always available offline” on unknown items (it forces more downloads).
+- Don’t click “shared folder” links from unexpected emails/texts to investigate—use the official app or type the service address yourself.
+- Don’t wipe the computer immediately unless you’ve confirmed compromise; you may lose clues you need (and it’s rarely the first best move).
 
 ## What to do now
-1. **Force the synchronization to stop immediately.**
-   - Locate the sync icon in your system tray (bottom right for Windows) or menu bar (top right for Mac).
-   - **Right-click the icon (blue cloud for OneDrive, open box for Dropbox, or multicolored triangle for Google Drive) and select "Pause syncing" or "Quit."**
-   - If the software does not respond, **turn off your Wi-Fi or unplug your Ethernet cable** to physically sever the connection.
+1. **Freeze the syncing (make it stop changing).**
+   - In the sync app (OneDrive / Dropbox / Google Drive), **pause syncing** or **quit**.
+   - If you can’t find the app quickly, **disconnect from the internet** (Wi-Fi off / unplug Ethernet) to stop new downloads.
 
-2. **Identify the service and the account causing the sync.**
-   - Open your File Explorer (Windows) or Finder (Mac) and locate the unknown folder.
-   - **Check the parent folder name to see if it is inside a specific service directory like "OneDrive - [Organization Name]" or "Dropbox."**
-   - Open the sync app settings, navigate to the **Account** tab, and **write down the email address(es) currently signed in.**
+2. **Figure out which account and service is doing it.**
+   - Look at the folder’s location/name for clues (e.g., OneDrive, Dropbox, Google Drive, iCloud Drive, SharePoint).
+   - Open the sync app’s **Account** settings and note the signed-in email(s). Many people have both personal + work accounts connected.
 
-3. **Disable the sync link for that specific folder.**
-   - In OneDrive/SharePoint: **Go to Settings > Account, find the specific library or folder, and select "Stop sync."**
-   - In Dropbox: **Go to Preferences > Sync > Selective Sync and uncheck the box for the unknown folder.**
-   - In Google Drive: **Go to Preferences > Folders from Drive and switch to "Stream files" or uncheck the specific folder.**
+3. **Stop syncing the specific folder/library (don’t “delete first”).**
+   - **OneDrive/SharePoint:** use the built-in option to **stop syncing** the folder/library, or **unlink this PC** if the wrong account is attached.
+   - **Dropbox:** use **selective sync** to remove the folder from this device (without deleting it from the cloud).
+   - If you’re not sure which setting applies, keep sync paused until you confirm.
 
-4. **Verify the source of the shared folder.**
-   - Sign in to the web version of the service (e.g., onedrive.live.com or dropbox.com) from a different, known-secure device.
-   - **Navigate to the "Shared" or "Recent" section to see who shared the folder and when it was added to your account.**
+4. **Check if it was shared to you (legit) vs added by an attacker (not).**
+   - Search your email for “shared”, “invited”, “OneDrive”, “Dropbox”, “Google Drive”.
+   - In the cloud service’s web view, check **Sharing / Recent activity / Devices** to see when the folder was added and from whom.
 
-5. **Secure the primary account if you suspect unauthorized access.**
-   - **Change your account password immediately using a different device.**
-   - Review the **Security** or **Devices** tab in your account settings and **remove any unrecognized devices or active sessions.**
-   - Ensure Multi-Factor Authentication (MFA) is active and that recovery emails/phone numbers have not been changed.
+5. **If compromise is plausible, secure the cloud account from a different device.**
+   - Change the password for the cloud account involved.
+   - Turn on **multi-factor authentication (MFA)** if it’s not already enabled.
+   - Sign out of other sessions and remove unknown devices where the service offers it.
 
-6. **Notify appropriate authorities or IT departments.**
-   - If this is a work or school device, **contact your IT Help Desk or Security Operations Center immediately with the folder name and service type.**
-   - If personal data or financial information is at risk, **file a report with the FBI Internet Crime Complaint Center (IC3).**
+6. **Run a basic security check before you resume syncing.**
+   - Update the operating system and run your built-in security scan.
+   - If this is a work/school-managed device or account, notify IT/security with: folder name, service, signed-in account email, and the time it started.
+
+7. **If you’ve lost money or this looks like cyber-enabled fraud: report it (USA).**
+   - You can file a report with the FBI’s **Internet Crime Complaint Center (IC3)** using the official site.
+   - **If identity theft is involved** (accounts opened in your name, SSN misuse, tax/benefits fraud), also use the FTC’s **IdentityTheft.gov** recovery/reporting pathway.
 
 ## What can wait
-- You do not need to delete the files from the cloud immediately; focus on isolating your local device first.
-- You do not need to run a full system wipe unless a professional security scan or IT administrator confirms a persistent infection.
-- You do not need to contact the person who shared the folder if the name is unknown or suspicious.
+- You do **not** need to decide today whether to permanently delete anything from the cloud.
+- You do **not** need to review every file right now—focus on stopping sync and identifying the account/service.
+- You do **not** need to reinstall your computer as your first move unless a trusted IT/security professional advises it.
+- You do **not** need to message whoever “shared” it until you’ve confirmed it’s legitimate.
 
 ## Important reassurance
-It is common for folders to appear due to organizational changes, such as a company-wide SharePoint library being synced by an administrator or an accidental share from a contact. Seeing new files does not always mean your hardware is compromised, provided you do not open the files.
+A surprise “shared folder” is often caused by something reversible: a second account signed in, a work SharePoint library being synced, or an accidental share. Pausing sync and confirming the account behind it is the safest way to regain control without making things worse.
 
 ## Scope note
-This guide provides first-step stabilization to stop data transfer and secure accounts. It does not cover deep forensic analysis or secondary malware removal.
+These are first steps to stop further syncing, avoid opening risky files, and collect the key details you’ll need for IT support or reporting. Deeper remediation can come after the situation is stable.
 
 ## Important note
-This information is for situational stabilization and does not constitute professional IT or legal advice. If you suspect your Social Security number or financial accounts are compromised, visit IdentityTheft.gov for a personalized recovery plan. Always follow your organization's specific security protocols for managed devices.
+This is general information, not legal or professional IT advice. If the unknown files could include sensitive data (work, medical, financial), treat it as a potential security incident and involve your organization’s IT/security team promptly.
 
 ## Additional Resources
-- https://support.google.com/drive/answer/13305033?hl=en
-- https://support.microsoft.com/en-us/office/how-to-cancel-or-stop-sync-in-onedrive-4885c27e-3d89-4d69-be75-2646c71367d3
-- https://support.microsoft.com/en-us/office/choose-which-onedrive-folders-you-want-to-sync-on-windows-or-macos-98b8b011-8b94-419b-aa95-a14ff2415e85
-- https://help.dropbox.com/share/leave-shared-folder
-- https://support.apple.com/en-us/109344
+- https://support.microsoft.com/en-us/office/unlink-and-re-link-onedrive-3c4680bf-cc36-4204-9ca5-e7b24cdd23ea
+- https://support.microsoft.com/en-gb/office/how-to-cancel-or-stop-sync-in-onedrive-4885c27e-3d89-4d69-be75-2646c71367d3
+- https://help.dropbox.com/sync/selective-sync-overview
+- https://www.ic3.gov/
+- https://www.identitytheft.gov/
+- https://www.ftc.gov/news-events/topics/identity-theft/report-identity-theft

@@ -1,91 +1,74 @@
----
+﻿---
 title: "What to do if… you see someone checking door numbers or mailboxes in your building while looking for a specific unit"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - "stranger checking door numbers"
-  - "person looking for apartment number"
-  - "someone reading mailboxes"
-  - "suspicious person in hallway"
-  - "unknown person in apartment building"
-  - "someone casing apartments"
-  - "someone loitering by doors"
-  - "person trying doors in building"
-  - "someone looking for specific unit"
-  - "tailgating through secure door"
-  - "unwanted visitor in lobby"
-  - "building security concern"
-  - "mailbox tampering worry"
-  - "mail theft in apartment building"
-  - "unsure if delivery or scam"
-  - "someone asking which unit you are"
-  - "apartment corridor safety"
-  - "checking door numbers"
-  - "checking mailboxes"
-  - "looking for specific unit"
-  - "what do i do if someone is checking door numbers"
-  - "what do i do if a stranger is looking at mailboxes"
-  - "what do i do if i see someone loitering in my building"
-  - "what do i do if someone tailgates into my apartment"
-  - "help i see a stranger checking doors"
-  - "help i see someone tampering with mail"
-  - "my building has a suspicious visitor"
-  - "my hallway has a stranger in it"
-  - "smell of cigarette smoke in hallway"
-  - "sound of rattling door handles"
-  - "visible person checking unit numbers"
-  - "hearing footsteps pausing at every door"
-  - "person trying door handles"
-  - "mailbox area security breach"
-  - "unauthorized person in secure area"
-last_reviewed: "2026-03-17"
+  - stranger checking door numbers
+  - person looking for apartment number
+  - someone reading mailboxes
+  - suspicious person in hallway
+  - unknown person in apartment building
+  - someone casing apartments
+  - someone loitering by doors
+  - person trying doors in building
+  - someone looking for specific unit
+  - tailgating through secure door
+  - unwanted visitor in lobby
+  - building security concern
+  - mailbox tampering worry
+  - mail theft in apartment building
+  - unsure if delivery or scam
+  - someone asking which unit you are
+  - apartment corridor safety
+last_reviewed: "2026-01-17"
 ---
+
 # What to do if… you see someone checking door numbers or mailboxes in your building while looking for a specific unit (USA)
 
 ## Short answer
-Move behind a locked door immediately and notify building management or security. Call 911 if you believe a crime is in progress or if you feel you are in immediate danger.
+Don’t approach them in the hallway. Move behind a locked door (or to a staffed/public area) and notify building management/security; if you think a crime is in progress or someone is at risk, call 911.
 
 ## Do not do these things
-- Do not confront the individual or block their movement.
-- Do not open your door to assist them, even if they claim to be a delivery person or guest.
-- Do not hold secure doors open for others or allow people to follow you into the building (tailgating).
-- Do not provide your unit number, access codes, or information about other residents.
-- Do not follow the person or attempt to monitor them from a vulnerable position.
+- Don’t confront them, block their path, or follow them down the hall.
+- Don’t open your door to talk, even if they seem “confused” or “in a hurry”.
+- Don’t hold a secure door for them or let them tailgate into the building.
+- Don’t tell them your unit number, access codes, or who lives in which unit.
+- Don’t try to “verify” who they are by walking up to them if you feel uneasy.
 
 ## What to do now
-1. **Move to a secure location immediately.** Return to your unit and lock all doors and deadbolts, or go to a staffed area like a leasing office or security desk.
-2. **Ensure the entry points are latched.** If you just entered the building or a secure hallway, confirm that the door has fully closed and locked behind you.
-3. **Notify building security or management.** Call the front desk or the property manager's emergency line to report the person's location, physical description, and specific behavior, such as checking handles or mailboxes.
-4. **Call 911 if you observe a crime or threat.** **Report active attempts to force entry, mailbox tampering, or threatening behavior to emergency services.**
-   - Provide the exact street address and any specific building or floor identifiers.
-   - Stay on the line until the operator tells you it is safe to hang up.
-5. **Contact the U.S. Postal Inspection Service for mail-related crimes.** **If you witnessed mail theft or mailbox tampering that is not currently in progress, call 1-877-876-2455.**
-   - You can also report via the USPIS website, but the phone line is better for immediate reporting of recent incidents.
-6. **Identify non-emergency police lines for low-risk sightings.** **Look up your local police department’s 10-digit non-emergency number for suspicious activity that does not present an immediate threat.**
-   - Note that 311 is for municipal services in many cities and may not be the direct line for police dispatch.
-7. **Keep your door closed if they knock.** **Do not open the door to speak with a stranger in the hallway.**
-   - If you choose to respond, speak through the door and state that they should contact the resident they are looking for via phone or visit the leasing office.
-   - Cease engagement immediately after giving this instruction.
-8. **Record observations from safety.** **Write down the time, location, and a description of the individual including clothing, approximate age, and any bags or tools they are carrying.**
-   - Only take photos or videos if you can do so through a peephole or from a safe distance without being seen.
+1. **Get to a safer position.** Step back into your unit and lock up, or go to a staffed/public spot (lobby/front desk/leasing office/security desk) without drawing attention.
+2. **Secure the entry behind you.** If you were entering/exiting, ensure the main/secure door closes and latches. Don’t allow tailgating.
+3. **Notify building management/security immediately.** Call the front desk, property manager, leasing office, or security and report:
+   - exact location (floor, hallway, mail area),
+   - what you saw (checking door numbers/mailboxes, searching for a specific unit),
+   - description (clothing, approximate age, any bags/tools),
+   - whether they tried handles, pressured residents for access, or refused to leave.
+4. **Call 911 if there’s immediate risk.** Call **911** if you believe a crime is happening or about to happen (e.g., trying door handles, forcing mailboxes/doors, threats, stalking, weapons, someone in immediate danger). Give your exact address and the best entrance for responders.
+5. **If it’s suspicious but not urgent, use the non-emergency route for your area.** Many departments publish a **non-emergency** number and/or online reporting. Some cities also offer **311**; if yours does, it may route you to the right non-emergency option. If you’re unsure, use the police department’s official website to find the non-emergency contact.
+6. **If they knock, keep the barrier.** Don’t open the door. If you respond, say through the door: **“I can’t help. Please contact the resident you’re looking for or the building office.”** Then stop engaging.
+7. **If you suspect mailbox tampering or mail theft, report it.** If you saw someone trying mailboxes, taking mail, or forcing the mail area:
+   - Call **911** for an active crime in progress.
+   - Otherwise, report to the **U.S. Postal Inspection Service (USPIS)** for mail-related crimes.
+8. **Document from safety (optional).** Write down time, location, and description. Only capture a photo/video if you can do it safely from inside or a public, safer area—without approaching or escalating.
+9. **Ask management to reduce risk for everyone.** Request a building-wide reminder not to grant access to unknown people, and to report tailgating or mailbox tampering promptly.
 
 ## What can wait
-- You do not need to confirm if the person was a legitimate visitor or delivery driver.
-- You do not need to obtain video evidence or "catch" the person yourself.
-- You do not need to warn other neighbors door-to-door right now; let management handle building-wide communication.
+- You don’t need to determine whether they were a legitimate visitor, delivery person, or “casing” right now.
+- You don’t need to confront them, gather proof, or coordinate residents to “check the halls”.
+- You don’t need to make purchases or change locks unless there’s evidence of attempted entry or an access breach.
 
 ## Important reassurance
-Feeling concerned when a stranger is lingering in a secure area or inspecting private mailboxes is a normal response. Taking steps to secure your own space and involving authorized personnel is the standard safety protocol for apartment living.
+It’s reasonable to treat this as a safety situation without needing certainty about their intent. Creating distance, keeping doors secure, and involving the right people quickly is a cautious response.
 
 ## Scope note
-This guide provides first-step stabilization only. Long-term security improvements or police investigations are handled by management and local authorities after the immediate situation has passed.
+These are first steps to stabilise the moment and reduce risk. If the issue repeats, follow-up steps with management and local police can come later.
 
 ## Important note
-This information is for general safety guidance and does not constitute legal advice. Always prioritize your personal safety and follow the instructions of local law enforcement during an active incident.
+This guide is general information, not legal advice. If you feel unsafe or believe a crime is in progress, prioritise a safer location and contact emergency services.
 
 ## Additional Resources
 - https://www.uspis.gov/report
-- https://www.uspis.gov/tips-prevention/mail-theft
-- https://www.uspis.gov/news/scam-article/mailbox-vandalism
-- https://www.fbi.gov/contact-us
-- https://www.fbi.gov/tips
+- https://www.dhs.gov/see-something-say-something/how-to-report-suspicious-activity
+- https://www.dhs.gov/see-something-say-something
+- https://www.usa.gov/report-crime
+- https://www.seattle.gov/police/need-help/neighborhood-issues/reporting-suspicious-behavior

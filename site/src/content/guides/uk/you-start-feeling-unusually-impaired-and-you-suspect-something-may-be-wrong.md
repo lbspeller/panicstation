@@ -1,104 +1,91 @@
----
+﻿---
 title: "What to do if… you start feeling unusually impaired and you suspect something may be wrong"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "unusually impaired"
-  - "suddenly feeling impaired"
-  - "suspect something is wrong"
-  - "what do i do if i feel impaired"
-  - "help i feel drugged suddenly"
-  - "my drink might be spiked"
-  - "sudden confusion and dizziness"
-  - "feeling unusually drunk"
-  - "unexpected intoxication symptoms"
-  - "help i feel unusually impaired"
-  - "what do i do if i suspect spiking"
-  - "sudden loss of coordination"
-  - "nausea after one drink"
-  - "strange symptoms indoors"
-  - "smell of gas symptoms"
-  - "suspect carbon monoxide"
-  - "impaired and alone in public"
-  - "my thinking is confused"
-  - "feel sleepy suddenly"
-  - "can't stay awake suddenly"
-  - "help i feel poisoned"
-  - "what do i do if i suspect poisoning"
-  - "impaired after medication"
-  - "sudden blackout warning"
-  - "feel unsafe while impaired"
-  - "dizzy and confused in pub"
-  - "unusually impaired at party"
-  - "help i feel strangely drunk"
-  - "my coordination is gone"
-  - "suspect something in my drink"
-last_reviewed: "2026-03-17"
+  - suddenly feel impaired
+  - unusually drunk too fast
+  - feel drugged out of nowhere
+  - think drink was spiked
+  - unexpected intoxication symptoms
+  - sudden confusion and dizziness
+  - feel sleepy suddenly
+  - can’t think clearly suddenly
+  - sudden loss of coordination
+  - nausea after one drink
+  - sudden blackout warning
+  - suspect poisoning exposure
+  - strange symptoms indoors
+  - suspect carbon monoxide exposure
+  - worried something is wrong
+  - impaired and alone in public
+  - impaired after taking medication
+  - feel unsafe after feeling impaired
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… you start feeling unusually impaired and you suspect something may be wrong (UK)
 
 ## Short answer
-Move immediately to a safe, supervised area, stop consuming all food or drink, and contact NHS 111 or 999 if symptoms are severe or worsening.
+Stop what you’re doing, get to a safer place with a trusted person, and get urgent medical help if you’re getting worse, very drowsy, confused, vomiting repeatedly, or struggling to breathe.
 
 ## Do not do these things
-- Do not drive, cycle, or use any vehicle if you feel impaired.
-- Do not leave a public venue with a stranger or someone you do not fully trust.
-- Do not consume more alcohol, water, or substances to try and counteract the feeling.
-- Do not attempt to induce vomiting.
-- Do not ignore symptoms because you are embarrassed or think you are overreacting.
-- Do not stay in a building if you suspect carbon monoxide or a gas leak.
-- Do not leave your current drink or food unattended and then return to finish it.
+- Do not drive, cycle, use e-scooters, or “try to get home anyway” if you feel impaired.
+- Do not go anywhere alone with someone you don’t fully trust (including “a helpful stranger”).
+- Do not keep drinking alcohol or take more substances to “level out”.
+- Do not leave your drink unattended and then continue it; stop consuming it.
+- Do not try to make yourself vomit or “flush it out” by over-drinking water.
+- Do not assume it’s “just anxiety” if the impairment feels sudden, unusual for you, or is getting worse.
+- If you suspect gas/carbon monoxide, do not delay leaving to “fix” things first.
 
 ## What to do now
-1. **Relocate to a supervised safe space immediately.**  
-   **Move to a well-lit area with staff (such as a bar, shop, or reception) or stay with a trusted friend.**
-   - If you are alone outside, enter the nearest open public business and tell staff you feel unwell and unsafe.
-   - Sit down to prevent injury from a fall if you lose coordination.
-2. **Stop all intake and isolate potential sources.**  
-   **Immediately stop eating or drinking whatever you were consuming before the symptoms began.**
-   - Do not discard the container if it can be kept safely, as it may be needed for testing, but do not touch the contents.
-3. **Assess for life-threatening emergency symptoms.**  
-   **Call 999 or 112 immediately if you or someone else experiences:**
-   - Difficulty breathing or chest pain.
-   - Seizures or uncontrollable shaking.
-   - Loss of consciousness or inability to stay awake.
-   - Severe confusion or inability to speak.
-   - Rapidly worsening physical symptoms.
-4. **Contact medical services for urgent assessment.**  
-   **If the situation is not an immediate life-threat, call NHS 111 or use 111.nhs.uk for advice on where to go.**
-   - State clearly: "I feel suddenly and unusually impaired and I am concerned I have been spiked or poisoned."
-   - If you are advised to go to A&E, arrange for a trusted person to take you or use a licensed taxi; do not travel alone.
-5. **Evacuate if symptoms are linked to your environment.**  
-   **If symptoms (headache, nausea, dizziness) started while indoors and improve outside, treat it as a suspected carbon monoxide (CO) emergency.**
-   - Exit the building immediately and get into fresh air.
-   - Open windows and doors only if it does not delay your exit.
-   - Call the National Gas Emergency Service on 0800 111 999 (Minicom/Textphone: 0800 371 787).
-   - Do not re-enter the property until an engineer confirms it is safe.
-6. **Alert venue security or management.**  
-   **Tell the staff at the location that you feel impaired and suspect your safety is compromised.**
-   - Many UK venues have "Ask for Angela" or similar safeguarding protocols to provide a safe space and help you get home.
-7. **Document the minimum facts while you are able.**  
-   **Record a brief note on your phone regarding your location, the time symptoms started, and what you last consumed.**
-   - Include any medications you have taken today.
-   - This information is for medical professionals to assist in your care.
+1. **Get to safety in the next 2 minutes.**  
+   Move to a well-lit, staffed place (bar staff, venue security, reception, a shop) or stay with a trusted friend. If you’re outside, step into a public place and sit down.
+2. **Stop intake and separate from the possible source.**  
+   Stop drinking/eating anything you’re currently consuming. If you still have the drink/food, put it aside (don’t keep consuming it).
+3. **Decide if this is an emergency right now. Call 999/112 if any of these apply:**  
+   - you might pass out or can’t stay awake  
+   - you’re confused, severely unsteady, having chest pain, a seizure, or trouble breathing  
+   - you can’t keep fluids down, or symptoms are rapidly worsening  
+   Tell them: **“I feel suddenly unusually impaired and I’m worried something is wrong / I may have been spiked or poisoned.”**
+4. **If it’s not a 999/112 emergency, get urgent medical advice anyway.**  
+   - Call **NHS 111** (or use 111 online) for urgent advice, or  
+   - Go to **A&E** if you’re worried, symptoms are significant, or you’re alone and not safe.  
+   If you were out drinking or in a venue, say you suspect **spiking**; clinicians can decide what assessment is appropriate.
+5. **If you are in a building and your symptoms feel “environmental,” treat it as possible carbon monoxide exposure.**  
+   If you suspect fumes/CO (symptoms started indoors, multiple people feel unwell, you feel better outside):  
+   - **Go outside immediately** for fresh air and **stay out**.  
+   - **Do not delay leaving** to investigate. Only do quick actions on your way out if they do not slow you down (for example opening a door/window as you leave).  
+   - If you **also smell gas**, do not operate switches or appliances—leave and call for help.  
+   - Call the **National Gas Emergency Service (0800 111 999)** to report a suspected gas/carbon monoxide emergency, and do not re-enter until you’re told it’s safe.
+6. **Tell venue staff/security if you’re in a pub/club/event.**  
+   Ask for a **safe space** to sit, help contacting a trusted person, and (if needed) an ambulance. If you feel able, report any suspicious behaviour you noticed.
+7. **Get a trusted person to stay with you and handle logistics.**  
+   Ask them to:  
+   - stay with you until you’re assessed or safely home  
+   - arrange transport (a licensed taxi or someone you trust)  
+   - keep your phone/keys/cards together so you don’t lose them while impaired
+8. **Write down a quick “minimum facts” note while you still can.**  
+   On your phone: where you are, time symptoms started, what you consumed, and any meds you’ve taken today. This helps clinicians (and can help later if you choose to report).
 
 ## What can wait
-- You do not need to decide whether to file a formal police report right now.
-- You do not need to identify exactly what substance or factor caused the impairment before seeking help.
-- You do not need to worry about the cost of transport or missed appointments until you are medically stable.
+- You do not need to decide right now whether to report to police; focus on safety and medical care first.
+- You do not need to “prove” what happened before getting help.
+- You can deal with practical fallout (missed messages, work, payments, replacing cards) after you’re safe and medically checked.
 
 ## Important reassurance
-Sudden impairment can cause intense confusion and fear. These physical and cognitive reactions are common when your system is affected by an unknown factor. Taking immediate steps to reach safety and medical professionals is the standard procedure for these symptoms and does not require you to be certain of the cause.
+Feeling suddenly impaired is frightening, and it’s reasonable to treat it as a safety issue even if you’re not sure what caused it. Getting help early is not “overreacting”—it’s a way to prevent things escalating and to get you looked after while your thinking may be affected.
 
 ## Scope note
-This guide provides first-step stabilization only. It does not replace professional medical diagnosis or legal advice. Further medical follow-up is often necessary after the acute phase has passed.
+These are first steps to stabilise the situation and reduce immediate risk. Once you’re safe, you may want follow-up medical advice and (optionally) support with reporting or practical next steps.
 
 ## Important note
-This information is for emergency stabilization. Spiking and poisoning are serious crimes. While your health is the priority, you can report incidents to the police via 101 or the online tool at police.uk once you are safe. If you suspect a gas leak, do not operate any electrical switches or use naked flames.
+This guide is general information, not medical or legal advice. If you feel very unwell, are getting worse, or you’re not safe where you are, call 999/112. If you think someone may have intentionally drugged you, you can report it to the police (999 in an emergency, 101 otherwise), but your immediate priority is your safety and health.
 
 ## Additional Resources
-- https://www.met.police.uk/advice/advice-and-information/spiking-advice/spiking/what-is-spiking/
-- https://www.met.police.uk/advice/advice-and-information/spiking-advice/spiking/how-to-report-spiking-to-police/
-- https://www.nhs.uk/conditions/poisoning/
-- https://www.nhs.uk/conditions/alcohol-poisoning/
-- https://www.victimsupport.org.uk/crime-info/types-crime/spiking/
+- https://www.gov.uk/guidance/spiking-advice-and-support
+- https://www.met.police.uk/advice/advice-and-information/spiking-advice/spiking/what-to-do-if-someone-has-spiked-you/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
+- https://www.nhs.uk/conditions/carbon-monoxide-poisoning/
+- https://www.nationalgas.com/emergency-contacts
+- https://www.police.uk/advice/advice-and-information/spiking-advice/spiking/

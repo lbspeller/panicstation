@@ -1,84 +1,98 @@
----
+﻿---
 title: "What to do if… your home Wi-Fi name or password appears changed and your devices disconnect"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "messaging app account takeover"
-  - "registered on another device"
-  - "account being registered alert"
-  - "someone trying to log in"
-  - "verification code scam"
-  - "sms code request scam"
-  - "whatsapp registered new phone"
-  - "signal registration lock"
-  - "telegram login alert"
-  - "sim swap warning signs"
-  - "phone number hijacked"
-  - "number ported without consent"
-  - "unexpected verification text"
-  - "locked out of chats"
-  - "contacts impersonation risk"
-  - "linked devices check"
-  - "two step verification pin"
-  - "account recovery steps"
-  - "phone lost service suddenly"
-  - "suspicious login notification"
-  - "my whatsapp says being registered"
-  - "help i got a login code i didnt ask for"
-  - "what do i do if someone is logging into my signal"
-  - "verification code received by mistake"
-  - "messaging app hacked"
-  - "mobile number hijacked UK"
-  - "reportfraud police uk"
-  - "cyber crime reporting scotland"
-  - "unauthorised device alert"
-  - "stolen whatsapp account"
-last_reviewed: "2026-03-17"
+  - wifi name changed
+  - wifi password changed
+  - home wifi hacked
+  - router settings changed
+  - devices disconnected from wifi
+  - ssid changed unexpectedly
+  - someone changed my wifi
+  - router admin password compromised
+  - unknown devices on my network
+  - internet suddenly stopped working
+  - broadband router tampered
+  - home network breach
+  - wifi keeps kicking devices off
+  - smart home went offline
+  - new wifi name appeared
+  - wifi credentials no longer work
+  - router takeover
+  - isp router security
+last_reviewed: "2026-03-08"
 ---
-# What to do if… your home Wi-Fi name or password appears changed and your devices disconnect (UK)
 
+# What to do if… your home Wi-Fi name or password appears changed and your devices disconnect (UK)
 ## Short answer
-Treat the notification as an active account-takeover attempt: never share any verification codes received via SMS or voice, and immediately attempt to sign back into the app on your own device to disconnect the intruder.
+Treat this like your router may have been accessed by someone else: regain control of the router first, then change the router admin login and Wi-Fi password after a reset/update so unwanted settings don’t persist.
 
 ## Do not do these things
-- Don't share any 6-digit SMS or voice verification codes with anyone, even if they claim to be a friend, family member, or "support staff."
-- Don't click on any links or "approve" prompts that appear in your notifications if you did not just request a login.
-- Don't ignore a sudden loss of mobile signal (no bars/SOS only) while receiving these alerts; this may indicate a SIM-swap attack.
-- Don't use contact numbers provided within a suspicious text message; only use official contact routes found on your mobile provider's website.
-- Don't assume the person messaging you is who they say they are, as their own account may have been compromised.
+- Don’t keep retrying old passwords over and over (it wastes time and can trigger lockouts on some devices/accounts).
+- Don’t log into banking, email, or work systems on that Wi-Fi until you’ve re-secured the router.
+- Don’t assume it’s “just the provider” if the Wi-Fi name (SSID) or security settings changed without you.
+- Don’t use a simple or reused replacement password.
+- Don’t turn on “remote management/remote admin” as a quick fix unless you’re confident you can secure it.
 
 ## What to do now
-1. **Attempt to log back into the messaging app immediately on your primary phone.** **Enter your phone number and request a new verification code directly within the app.**
-   - If you receive the code, enter it immediately; this will automatically log out the intruder on the other device.
-   - If the app asks for a "Two-Step Verification PIN" that you did not set, the intruder has likely enabled it. You will be logged out of the attacker's device, but you may have to wait 7 days to sign in fully.
-2. **Check the 'Linked Devices' or 'Active Sessions' section in your app settings.** **Manually log out or "unlink" any devices, browsers, or locations that you do not recognise.**
-3. **Check your mobile signal and call/text functionality.** **If your phone has lost service entirely, call your mobile network provider immediately from a different phone.**
-   - Ask the provider to check for unauthorized SIM swaps or porting requests.
-   - You may be required to visit a retail store with a physical photo ID (Passport or UK Driving Licence) to regain control of your number.
-4. **Secure your 'root' accounts, specifically your primary email and your mobile provider's online portal.** **Change your passwords to unique, complex strings and enable Passkeys or app-based multi-factor authentication (MFA).**
-   - Check your email settings for any new "Forwarding Rules" or "Recovery email" changes that you did not authorize.
-5. **Contact your bank and credit card providers if you use SMS-based security for banking.** **Ask them to monitor for unauthorized activity and explain that your mobile number may have been compromised.**
-6. **Notify your most frequent contacts using a different method, such as a standard phone call or a different app.** **Briefly inform them: "My [App Name] account is currently compromised; do not send money or codes if you receive a message from my number."**
-7. **Report the incident to the appropriate UK national authority.** **For residents in England, Wales, or Northern Ireland, use the online tool at reportfraud.police.uk or call 0300 123 2040.**
-   - If you are in Scotland, call **101** to report the crime to Police Scotland, or contact the **Cyber and Fraud Centre Scotland** at **0800 1670 623** for immediate triage.
+1. **Pause and confirm you’re looking at your own router’s Wi-Fi.**  
+   Check the router label and any ISP app/portal for the expected network name. If you can, use an Ethernet cable for one device so you’re not relying on the compromised Wi-Fi to fix the Wi-Fi.
+
+2. **Power cycle once to rule out a glitch.**  
+   Turn the router off at the plug for 20–30 seconds, then back on. If the Wi-Fi still looks “wrong,” proceed as if settings were changed.
+
+3. **If the Wi-Fi name/password still look changed, factory reset to regain control.**  
+   Use your router’s reset pinhole/button **following your model/ISP instructions**. Many routers reset if you hold the button until the lights change and the unit restarts. This clears unknown configuration changes.
+
+4. **Log into the router admin interface and change the *router admin* password first.**  
+   This is separate from the Wi-Fi password. Set a strong, unique admin password (and change the admin username if your router allows). If the router offers extra admin protections (for example confirmation prompts or MFA), enable them.
+
+5. **Update the router firmware (or enable automatic updates) before reconnecting everything.**  
+   If it’s ISP-supplied, use the ISP’s app/portal or support instructions. If it’s your own router, update via the admin interface. If the router is old and no longer supported, plan to replace it.
+
+6. **Check for the common “persistence” changes and undo anything unfamiliar.**  
+   In router settings, review and revert:
+   - **DNS settings** (set to automatic/ISP unless you intentionally use a custom DNS)
+   - **Port forwarding** rules you didn’t create
+   - **UPnP** (turn off if you don’t need it)
+   - **Remote administration/remote management** (turn off unless you explicitly need it)
+
+7. **Recreate your Wi-Fi safely.**  
+   - Use **WPA2 or WPA3** (prefer WPA3 if available).  
+   - Set a **new, long passphrase** that you do not reuse anywhere else (three random words can work well).  
+   - Rename the Wi-Fi if you like, but avoid personal identifiers (surname/flat number).
+
+8. **Reconnect devices gradually and watch the connected-devices list.**  
+   Use the router’s “connected devices” page. If you see anything you don’t recognise, remove/block it and change the Wi-Fi password again.
+
+9. **Secure the accounts that could enable router changes.**  
+   - Change the password on your **ISP account/portal** (and enable multi-factor authentication if offered).  
+   - Update your phone/computer and run a malware scan on the device you use to manage the router.  
+   - If you reused the old Wi-Fi password anywhere else, change those logins too.
+
+10. **If you lost money or this links to a wider scam, report it.**  
+   - If you’re in **England, Wales, or Northern Ireland**, report cyber crime and fraud via **Report Fraud**.  
+   - If you’re in **Scotland**, contact **Police Scotland** (101 for non-emergency; 999 for emergency).
 
 ## What can wait
-- You do not need to delete your messaging account entirely; regaining control is usually sufficient.
-- You do not need to change your mobile phone number immediately unless the network provider confirms they cannot secure it.
-- You do not need to review your entire message history for deleted items until the account is fully secured.
+- You don’t need to figure out who did it right now.
+- You don’t need to replace every device immediately (start with the router + key accounts).
+- You don’t need to decide today whether to change ISPs—focus on regaining control and securing the network first.
+- You can review smart home/IoT settings later, once your network is stable again.
 
 ## Important reassurance
-Receiving a registration alert means the app's security system is working by notifying you of the attempt. In many cases, if you do not share the code, the attacker cannot complete the takeover. If they have already gained access, the app is designed to let the legitimate owner "kick" other sessions by re-verifying their own number.
+It’s normal to feel shaken when your home network suddenly “changes identity.” In many cases it’s fixable with a reset, admin-password change, and updates. Regaining control of the router is the stabilising move that prevents most repeat problems.
 
 ## Scope note
-This guide covers first-step stabilization for a messaging app registration alert or suspected takeover. It does not cover long-term identity theft recovery or the forensic recovery of deleted messages.
+This is first-step guidance to regain control and reduce immediate risk. If you rely on a complex setup (mesh systems, work VPN appliances, smart alarms), you may need device-specific support after you stabilise the router.
 
 ## Important note
-This information is for guidance purposes and does not constitute legal or technical advice. Account recovery processes are subject to change by app developers (e.g., Meta, Signal Foundation). If you have suffered a financial loss, prioritize contacting your bank's fraud department and the police.
+This is general information, not a guarantee or a diagnosis of hacking. If you feel out of your depth, it’s reasonable to ask your ISP for help securing or replacing the router, especially if it’s ISP-supplied.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/guidance/smart-devices-in-the-home
-- https://www.bt.com/help/broadband/how-do-i-reset-my-bt-hub-to-its-factory-settings
-- https://www.bt.com/help/broadband/fix-a-problem/log-in-issues/i-can-t-log-in-to-bt-hub-manager/how-can-i-set-up-or-change-the-admin-password-on-my-bt-hub-
-- https://www.virginmedia.com/help/how-to/broadband/change-wifi-name-and-password
-- https://ee.co.uk/help/broadband/manage-use/change-wifi-admin-password
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime
+- https://www.nicybersecuritycentre.gov.uk/securing-your-home-network-and-wi-fi
+- https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/three-random-words
+- https://www.gov.uk/report-suspicious-emails-websites-phishing

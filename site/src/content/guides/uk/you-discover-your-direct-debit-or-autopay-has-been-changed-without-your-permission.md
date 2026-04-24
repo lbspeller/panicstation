@@ -1,87 +1,76 @@
----
+﻿---
 title: "What to do if… you discover your direct debit or autopay has been changed without your permission"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "direct debit changed without consent"
-  - "recurring payment changed without permission"
-  - "help i did not authorize this direct debit change"
-  - "unrecognized bank payment change"
-  - "my direct debit amount changed unexpectedly"
-  - "help my direct debit date changed"
-  - "unauthorized autopay change uk"
-  - "what do i do if my payment was changed"
-  - "direct debit mandate altered without notice"
-  - "payment reference changed unexpectedly"
-  - "unexpected bank account debits"
-  - "fraud concern regular payments"
-  - "unrecognized company on bank statement"
-  - "standing order changed without permission"
-  - "continuous payment authority changed uk"
-  - "new direct debit notification"
-  - "payment amount higher than agreed"
-  - "bank payment set up you did not make"
-  - "direct debit guarantee refund help"
-  - "cancel direct debit changed by company"
-  - "stop payment uk bank app"
-  - "unknown mandate on account"
-  - "what do i do if someone changed my payment settings"
-  - "my bank account has a new payee"
-  - "unauthorized recurring card payment"
-  - "notice of payment change not received"
-  - "incorrect direct debit amount refund"
-  - "subscription payment changed unexpectedly"
-  - "someone accessed my bank to change direct debit"
-last_reviewed: "2026-03-17"
+  - direct debit changed without consent
+  - autopay changed without permission
+  - regular payment suddenly changed
+  - recurring payment details changed
+  - payment amount changed unexpectedly
+  - payment date changed unexpectedly
+  - new payee on bank account
+  - unknown mandate on account
+  - unrecognised regular payment
+  - bank payment set up you did not make
+  - subscription payment changed unexpectedly
+  - bill payment changed without asking
+  - direct debit details tampered with
+  - someone changed my payment settings
+  - payment reference changed unexpectedly
+  - unexpected bank account debits
+  - fraud concern regular payments
+  - standing order changed unexpectedly
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… you discover your direct debit or autopay has been changed without your permission (UK)
 
 ## Short answer
-Contact your bank immediately to stop the next payment and request a full refund under the Direct Debit Guarantee if money has already left your account. Use the official "Report Fraud" service if you suspect your account has been compromised.
+Stop the next payment first (Direct Debit/standing order/recurring card payment), then contact your bank using a trusted route to cancel it and refund any incorrect/unauthorised Direct Debit under the Direct Debit Guarantee.
 
 ## Do not do these things
-- Don’t use links or phone numbers found in any email or text message that alerted you to the change.
-- Don’t wait for the company to "explain" the change before stopping the payment route if you suspect fraud.
-- Don’t share your full online banking password, PIN, or one-time passcodes (OTP) with anyone claiming to be from your bank or the police.
-- Don’t assume a small change in amount is a mistake; any change without the required advance notice (usually 10 working days) is a breach of the Direct Debit Guarantee.
-- Don’t close the bank account immediately, as this can prevent the bank from processing an indemnity refund to that specific account.
+- Don’t click links or call numbers from the message that “notified” you of the change (use the number in your banking app or on the back of your card instead).
+- Don’t assume it’s “just an admin change” if bank details, payee name, amount, or date changed and you didn’t request it.
+- Don’t close your bank account in a rush before you’ve stopped the payment(s) and captured the key details (it can make sorting it out harder).
+- Don’t share one-time passcodes, PINs, or online banking passwords with anyone.
+- Don’t keep paying “to avoid trouble” if you’re unsure it’s legitimate—pause the payment route first, then verify.
 
 ## What to do now
-1. **Identify the exact type of payment that was changed.** **Look at your banking app or statement and determine if the payment is a Direct Debit, a Standing Order, or a Recurring Card Payment (often listed as a "Continuous Payment Authority").**
-   - Direct Debits allow a company to take varying amounts from your account.
-   - Standing Orders are instructions from you to your bank for a fixed amount.
-   - Recurring Card Payments use your 16-digit debit/credit card number rather than account details.
-2. **Stop the payment from leaving your account immediately.** **Cancel the mandate or authority through your banking app's "Regular Payments" or "Scheduled Payments" section, or by calling your bank's official number on the back of your card.**
-   - For Direct Debits, you can cancel up to the end of the business day before the payment is due.
-   - For Recurring Card Payments, you must tell your bank/card issuer to "withdraw consent" for all future payments to that merchant.
-3. **Request an immediate refund if money has already been taken.** **Tell your bank you are making a claim under the Direct Debit Guarantee for a payment taken "in error" because you were not given the required advance notice of the change.**
-   - The bank must provide a full and immediate refund (indemnity) while they investigate.
-   - Note that if the bank later determines the payment was legitimate, they may re-debit the funds.
-4. **Isolate your banking access if you suspect an unauthorized login.** **Change your online banking password and verify that the contact details (mobile number and email) on your banking profile have not been altered.**
-   - Check for any "New Payees" or "New Mandates" created in the last 48 hours.
-5. **Verify the change with the company using verified contact details.** **Find the company's official website or a previous paper bill to contact them and ask why the payment was changed without the standard 10-day notice period.**
-   - Ask for a written explanation of the change and the "Service User Number" (SUN) they used to process it.
-6. **Report the incident to the national fraud reporting service.** **If you believe your details were stolen or the payment is a scam, report it to the City of London Police via the Report Fraud website.**
-   - England, Wales, or Northern Ireland: Use reportfraud.police.uk or call 0300 123 2040.
-   - Scotland: Call Police Scotland on 101 to report the incident.
+1. **Get the facts in front of you (2 minutes).** In your banking app/online banking, open the payment and note: payee/service user name, amount, date, reference, and whether it’s shown as a **Direct Debit**, **standing order**, or **recurring card payment**. Take screenshots.
+2. **Stop the next payment from leaving (choose the right type).**
+   - **Direct Debit:** cancel it in your bank’s “regular payments/Direct Debits” area (or ask the bank to cancel it).
+   - **Standing order:** cancel it in your bank’s “standing orders/scheduled payments” area.
+   - **Recurring card payment (continuous payment authority):** contact your **card issuer** and tell them you’re withdrawing consent and want future payments stopped; you can also tell the merchant, but you do not have to go to the merchant first.
+3. **Contact your bank/card issuer using a trusted route.** Use in-app chat/phone, or the number on the back of your card. Say clearly: **“This regular payment was changed without my permission. Please stop further payments and confirm it’s cancelled.”**
+4. **If money has already left by Direct Debit, ask for the refund immediately.** Ask your bank for a **full and immediate refund** under the Direct Debit Guarantee for any incorrect/unauthorised Direct Debit.
+5. **Verify with the company only via official contact details.** Find their contact details from a bill you already have, their official website, or a trusted directory (not from the suspicious message). Ask: **“Did you change my Direct Debit details/amount/date? If so, why, and can you reverse it?”**
+6. **Check for other changes right now.** In “regular payments” / “payees” / “profile”:
+   - look for any **new** Direct Debits, standing orders, payees, or scheduled payments you don’t recognise
+   - check your **contact details** (email/phone/address) haven’t been changed
+7. **Lock down access.** Change your online banking password, confirm strong sign-in (app approval/biometrics), and sign out of other devices if your bank offers it. If you reused that password anywhere else, change it there too.
+8. **Report it if you suspect fraud or you can’t explain the change.**
+   - **England, Wales, Northern Ireland:** report cyber crime/fraud via **Report Fraud**.
+   - **Scotland:** report to **Police Scotland via 101**.
 
 ## What can wait
-- You do not need to decide whether to change banks or move all your money today.
-- You do not need to prove "fraud" to get a Direct Debit refund; the lack of advance notice is sufficient for a claim.
-- You do not need to cancel your physical debit card unless your "Recurring Card Payment" details were the ones compromised.
+- You do **not** have to decide today whether to switch banks, change your phone, or take legal action.
+- You do **not** need to argue with the company taking the payment while you’re panicking—stop the payment route first, then verify calmly.
+- You can wait to gather “perfect evidence” (letters, full timelines). A few screenshots and the key details are enough to start.
 
 ## Important reassurance
-It is normal to feel a sense of violation when your financial instructions are changed without your consent. UK banking regulations, specifically the Direct Debit Guarantee and FCA rules on Continuous Payment Authorities, are designed to protect you from exactly this situation. You have the right to stop these payments and reclaim your money while the cause is investigated.
+This kind of change triggers panic because it feels like someone reached into your finances. You’re right to take it seriously. Focusing on stopping further payments and using your bank’s protections is a strong, practical way to regain control.
 
 ## Scope note
-This guide provides first-step stabilization for unauthorized payment changes. It does not cover long-term credit score repair or legal disputes regarding underlying contracts with service providers.
+This guide covers first steps to stop further loss, trigger the right refund/dispute routes, and secure your account. If identity theft is involved, you may need additional steps later.
 
 ## Important note
-This information is for guidance only and does not constitute legal or financial advice. If you are in immediate financial distress, contact your bank’s dedicated fraud or hardship team.
+This is general information, not legal or financial advice. If you feel pressured, coerced, or unsafe, prioritise immediate safety and get help from trusted people and official services.
 
 ## Additional Resources
-- https://www.moneyhelper.org.uk/en/everyday-money/banking/direct-debits-and-standing-orders
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/regular-payments
-- https://www.fca.org.uk/consumers/fraudulent-payments
-- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
 - https://www.directdebit.co.uk/direct-debit-guarantee/
+- https://www.directdebit.co.uk/help/how-to-claim/
+- https://www.fca.org.uk/consumers/recurring-card-payments
+- https://www.citizensadvice.org.uk/debt-and-money/banking/stopping-a-future-payment-on-your-debit-or-credit-card/
+- https://www.reportfraud.police.uk/
+- https://www.cityoflondon.police.uk/news/city-of-london/news/2025/december/report-fraud-service-goes-live-with-full-public-launch-in-january-2026/

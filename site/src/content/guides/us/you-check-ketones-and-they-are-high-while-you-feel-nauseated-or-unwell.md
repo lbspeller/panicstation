@@ -1,81 +1,77 @@
----
+﻿---
 title: "What to do if… you check ketones and they are high while you feel nauseated or unwell"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - "high ketones feel unwell"
-  - "ketones high nausea"
-  - "ketones high vomiting"
-  - "diabetic ketoacidosis symptoms"
-  - "dka warning signs"
-  - "sick day rules diabetes"
-  - "blood ketones high reading"
-  - "urine ketones positive"
-  - "insulin not working high sugars"
-  - "type 1 diabetes unwell"
-  - "type 2 diabetes ketones"
-  - "sglt2 inhibitor ketones"
-  - "euglycemic dka symptoms"
-  - "insulin pump failure ketones"
-  - "stomach bug and ketones"
-  - "flu fever ketones diabetes"
-  - "dehydration and ketones"
-  - "cannot keep fluids down"
-  - "nausea with high ketones"
-  - "drowsy confused ketones"
-  - "what do i do if ketones are high"
-  - "help i have high ketones and feel sick"
-  - "my ketones are high what do i do"
-  - "smell of fruit on breath"
-  - "stomach pain and high ketones"
-  - "rapid breathing ketones"
-  - "high ketone levels in blood"
-  - "ketone levels in urine"
-  - "high ketones nauseous help"
-  - "ketones high and vomiting what to do"
-last_reviewed: "2026-03-16"
+  - high ketones feel unwell
+  - ketones high nausea
+  - ketones high vomiting
+  - diabetic ketoacidosis worry
+  - dka warning signs
+  - sick day rules diabetes
+  - blood ketones high reading
+  - urine ketones positive
+  - insulin not working high sugars
+  - type 1 diabetes unwell
+  - type 2 diabetes ketones
+  - sglt2 inhibitor ketones
+  - euglycemic dka concern
+  - insulin pump failure ketones
+  - stomach bug and ketones
+  - flu fever ketones diabetes
+  - dehydration and ketones
+  - can’t keep fluids down
+  - nausea with high ketones
+  - drowsy confused ketones
+last_reviewed: "2026-02-21"
 ---
+
 # What to do if… you check ketones and they are high while you feel nauseated or unwell (USA)
 
 ## Short answer
-**Go to the emergency room immediately or call 911.** High ketones combined with nausea, vomiting, or feeling generally unwell are signs of a medical emergency that requires professional treatment.
+High ketones plus feeling nauseated or unwell can be a medical emergency. If ketones are high, **go to the emergency room right away** or **call 911**, especially if you’re vomiting, getting worse, or feel drowsy/confused or short of breath.
 
 ## Do not do these things
-- Do not attempt to "sleep off" symptoms if you feel nauseated or have high ketones.
-- Do not stop taking your long-acting (basal) insulin, even if you are not eating.
-- Do not perform any exercise to try to lower blood sugar levels when ketones are present.
-- Do not drive yourself to the hospital if you are vomiting, feeling drowsy, or feeling weak.
-- Do not wait for a callback from a doctor if your symptoms are worsening or you cannot keep liquids down.
+- Do not ignore high ketones when you feel sick — don’t “sleep it off.”
+- Do not stop insulin because you’re not eating.
+- Do not exercise to try to bring glucose down when ketones are present.
+- Do not drive yourself if you feel weak, dizzy, drowsy, or are vomiting.
+- Do not keep trying repeated home corrections if ketones stay high, you can’t keep liquids down, or symptoms are worsening.
 
 ## What to do now
-1. **Seek emergency medical care immediately.** Call 911 or have someone drive you to the nearest emergency room if you have high ketones and feel sick.
-2. **Alert a support contact.** Tell a friend, family member, or neighbor that your ketones are high and you are seeking emergency care.
-3. **Bring your monitoring supplies and medication list.** Take your blood glucose meter, ketone test strips, and a list of all current medications (especially insulin and SGLT2 inhibitors) with you to the hospital.
-4. **Identify specific "call 911" triggers.** Request an ambulance immediately if you experience:
-   - Trouble breathing or rapid, deep breaths.
-   - Confusion, extreme sleepiness, or difficulty staying awake.
-   - Repeated vomiting that prevents you from keeping any fluids down.
-5. **Report SGLT2 inhibitor use to medical staff.** If you take medications such as empagliflozin (Jardiance), dapagliflozin (Farxiga), or canagliflozin (Invokana), tell the triage nurse immediately, as these can cause "euglycemic" DKA where blood sugar appears normal despite high ketones.
-6. **Check insulin pump function if applicable.** If you use an insulin pump, check for site redness, disconnected tubing, or empty reservoirs, but do not delay your trip to the emergency room to troubleshoot.
-7. **Maintain a record of recent data.** If possible, note the time and value of your last blood sugar and ketone readings to give to the medical team upon arrival.
+1. **Get support immediately.** If you’re alone, call/text someone and tell them: “My ketones are high and I feel sick.” Keep your phone nearby and unlocked.
+2. **Re-check and record:** ketones, blood glucose, time of the reading, and whether you’ve vomited. Keep your meter/strips with you for the trip or phone call.
+3. **Choose emergency care early:**
+   - **Go to the ER right away** if ketones are high and you feel unwell (including nausea, vomiting, stomach pain, unusual tiredness).
+   - **Call 911 now** if you have trouble breathing, feel confused/drowsy, have repeated vomiting, are getting worse quickly, or you cannot safely get to the ER.
+4. **Use these practical “don’t wait” triggers while deciding (sick-day red flags):**
+   - You **can’t keep liquids down** (for example, ongoing vomiting) rather than being able to sip and keep fluids down.
+   - You have **vomiting and/or severe diarrhea that keeps going** and you’re becoming dehydrated or weaker.
+   - You have **trouble breathing** or worsening mental fog/confusion.
+5. **If you take an SGLT2 inhibitor (a diabetes pill often ending in “-flozin”):** treat **ketones + feeling unwell** as urgent even if your glucose is not very high — **choose ER/911**.
+6. **If you use an insulin pump:** assume insulin delivery might have failed until proven otherwise.
+   - Check the infusion site, tubing, reservoir, and whether insulin could be spoiled (expired/overheated/frozen).
+   - Follow your clinician’s sick-day plan if you have one. If you don’t, don’t improvise — **go to the ER**.
+7. **Prepare a fast ER handover to reduce delays:** tell triage “**high ketones**” and bring/recite your readings + times, insulin and med list (including SGLT2 inhibitor), allergies, when you last took insulin, and pump details.
 
 ## What can wait
-- You do not need to diagnose yourself with "DKA" before seeking help; professional assessment is required.
-- You do not need to determine the exact cause of the high ketones (such as infection or pump failure) while at home.
-- You do not need to worry about long-term diabetes management adjustments until you are medically stabilized.
+- You do **not** need to confirm whether this is “definitely DKA” before seeking care.
+- You do **not** need to troubleshoot every possible cause at home.
+- You do **not** need to make long-term medication decisions today — the priority is urgent assessment and stabilization.
 
 ## Important reassurance
-It is normal to feel overwhelmed or frightened when health readings are outside the safe range. Seeking emergency care when you feel unwell with high ketones is a standard safety protocol and a responsible action to prevent the situation from worsening.
+Feeling alarmed by high ketones is a normal reaction — and it’s useful here. Choosing ER/911 for high ketones with feeling unwell is a safety-first decision, not an overreaction.
 
 ## Scope note
-This guide provides first-step stabilization and emergency navigation for an acute medical event. It does not replace clinical diagnosis or a personalized sick-day plan provided by a healthcare provider.
+This is first-step guidance for the next couple of hours. After urgent care (or once stabilized), follow up with your diabetes clinician to make a clear sick-day action plan.
 
 ## Important note
-High ketones combined with illness can lead to diabetic ketoacidosis (DKA), which is life-threatening if not treated in a hospital. This information is for educational purposes and should not delay emergency medical intervention.
+This guide is general information, not medical advice. High ketones with feeling unwell can become life-threatening and needs urgent evaluation. If you’re unsure, choose emergency care (ER/911).
 
 ## Additional Resources
 - https://www.cdc.gov/diabetes/about/diabetic-ketoacidosis.html
 - https://www.cdc.gov/diabetes/living-with/managing-sick-days.html
-- https://medlineplus.gov/ency/article/000320.htm
-- https://diabetes.org/living-with-diabetes/sick-days
-- https://medlineplus.gov/lab-tests/ketones-in-urine/
+- https://diabetes.org/getting-sick-with-diabetes/sick-days
+- https://diabetes.org/sites/default/files/2025-09/SickDayGuide_Final.pdf
+- https://diabetes.org/about-diabetes/complications/ketoacidosis-dka/dka-ketoacidosis-ketones
+- https://www.mayoclinic.org/diseases-conditions/diabetic-ketoacidosis/symptoms-causes/syc-20371551

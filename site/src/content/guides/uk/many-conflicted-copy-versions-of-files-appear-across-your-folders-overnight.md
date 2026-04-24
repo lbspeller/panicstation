@@ -1,101 +1,96 @@
----
+﻿---
 title: "What to do if… many “conflicted copy” versions of files appear across your folders overnight"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "conflicted copy files"
-  - "duplicate files suddenly"
-  - "onedrive sync conflict"
-  - "dropbox conflicted copy"
-  - "google drive duplicate files"
-  - "icloud drive conflict"
-  - "many copies of files appeared"
-  - "unexpected file duplication"
-  - "sync conflict resolution"
-  - "what do i do if my files are duplicating"
-  - "what do i do if many conflicted copies appear"
-  - "what do i do if sync is broken"
-  - "what do i do if files have computer names added"
-  - "help i have thousands of duplicate files"
-  - "help i have conflicted copy files"
-  - "my files are duplicating overnight"
-  - "my onedrive created copies of everything"
-  - "smell of burning computer"
-  - "visible ransomware note"
-  - "files won't open error"
-  - "strange file extensions appearing"
-  - "computer fan running loud"
-  - "slow internet upload speeds"
-  - "conflict copy mislabeling"
-  - "duplicate file confusion"
-  - "cloud sync error uk"
-  - "digital file recovery uk"
-  - "uk cyber reporting"
-  - "report fraud uk"
-  - "police scotland 101 cyber"
-  - "ncsc incident reporting"
-last_reviewed: "2026-03-17"
+  - conflicted copy files
+  - lots of duplicate files overnight
+  - cloud sync conflict copies
+  - onedrive conflicted copies
+  - dropbox conflicted copy
+  - icloud drive conflict copies
+  - google drive duplicate files
+  - sync created many copies
+  - files duplicated while asleep
+  - unexpected file duplication
+  - shared drive conflict copies
+  - autosave created copies
+  - multiple device sync conflict
+  - version history recovery
+  - cloud restore files
+  - cloud files restore rollback
+  - account compromised signs
+  - suspicious sign in activity
+  - mass file renaming
+  - possible ransomware file changes
+  - folders suddenly duplicated
+last_reviewed: "2026-03-08"
 ---
-# What to do if… many “conflicted copy” versions of files appear across your folders overnight (UK)
 
+# What to do if… many “conflicted copy” versions of files appear across your folders overnight (UK)
 ## Short answer
-Isolate the device by disconnecting it from the internet and pausing all cloud synchronization services immediately to prevent further duplication or data corruption.
+Pause syncing and isolate the device first: disconnect from the internet and stop OneDrive/Dropbox/iCloud/Google Drive sync so you don’t create more copies or overwrite the version you need.
 
 ## Do not do these things
-- Don't use automated "duplicate file remover" tools until you have a verified backup; they may delete the most recent version.
-- Don't move the "conflicted" files into new folders yet, as this often resets the metadata needed for cloud version history recovery.
-- Don't keep other linked devices (phones, tablets, or other PCs) online if they share the same account.
-- Don't reconnect a secondary backup drive to the computer if you see unusual file extensions or ransom notes.
-- Don't assume the file with the most recent timestamp is the correct one.
+- Don’t start deleting “conflicted copy” files in bulk yet (you can erase the only good version).
+- Don’t “clean up” by moving everything into new folders right now (it makes recovery/version history harder).
+- Don’t keep multiple devices online and open the same files “to check” (that can generate more conflicts).
+- Don’t reinstall your OS or reset the device yet (you may lose the recovery trail you need).
+- Don’t connect backup drives “to save everything” if you suspect malware/ransomware (you could contaminate the backup).
 
 ## What to do now
-1. **Isolate the affected device.**
-   - **Immediately turn on Airplane Mode or pull the Ethernet cable.**
-   - **Pause or quit all sync applications** such as OneDrive, Dropbox, Google Drive, or iCloud Drive.
-   - **Keep the device offline** until you have determined if the cause is a sync error or a malware incident.
+1. **Stop the spread (60 seconds).**
+   - Turn on airplane mode or disconnect Wi-Fi/Ethernet.
+   - Pause/quit cloud sync apps on the affected device (OneDrive/Dropbox/iCloud Drive/Google Drive). If you’re not sure how, staying offline still prevents syncing.
 
-2. **Check for signs of a cyber attack.**
-   - **Look for "ransom notes"** (typically .txt or .html files in every folder) or files that have been renamed with strange extensions (e.g., .locked, .crypted).
-   - **Check if your computer is unusually slow** or if the fan is running at high speed, which can indicate background encryption processes.
-   - **Note if multiple accounts are affected** or just one specific cloud service.
+2. **Preserve what you’re seeing before it changes.**
+   - Take photos/screenshots of: a folder showing the “conflicted copy” pattern, any error banners, and the time/date.
+   - Write down which service(s) are involved (e.g., OneDrive personal/work, iCloud Drive, Dropbox) and which device(s) were on overnight.
 
-3. **Secure the cloud account from a different, "clean" device.**
-   - **Sign in to your cloud service web dashboard** (e.g., onedrive.live.com or dropbox.com) using a tablet or a different computer.
-   - **Change your password immediately** and verify that Multi-Factor Authentication (MFA) is active.
-   - **Review "Recent Activity" or "Sign-in Logs"** for any unauthorized locations or unknown devices.
+3. **Check if this looks like a sync conflict vs. something more serious.**
+   - Sync conflicts often show duplicates with “conflicted copy”, device names, or timestamps.
+   - Red flags for malware/ransomware include: lots of files suddenly won’t open, strange new extensions, ransom notes, or a surge of renamed/encrypted files. If you see these, keep the device offline and skip ahead to step 7.
 
-4. **Identify the "Point of Conflict" using web tools.**
-   - **Use the "Activity" or "Events" view** in your cloud web dashboard to see exactly when the mass duplication started.
-   - **Check "Version History"** for a few sample files to confirm if the "conflicted" version or the "original" version contains your most recent work.
-   - **Avoid using mass "Restore" features** (like OneDrive's "Restore your OneDrive") until you have identified the precise timestamp to roll back to.
+4. **From a different “clean” device, secure the account that’s syncing.**
+   - Sign in to the cloud service’s web dashboard (not the affected laptop if you’re worried it’s compromised).
+   - Change the password and enable two-step verification if it’s not already on.
+   - If available, sign out other sessions/devices and review recent sign-ins for anything you don’t recognise.
 
-5. **Report the incident if it appears malicious.**
-   - **Contact Report Fraud** (formerly Action Fraud) if you are in England, Wales, or Northern Ireland on 0300 123 2040 or via their website if you suspect a cybercrime.
-   - **Contact Police Scotland via 101** if you are in Scotland and believe a crime has been committed.
-   - **Use the NCSC "Report a Cyber Incident" service** if this affects a business, charity, or public organization.
+5. **Use the cloud service’s restore/version tools (don’t guess by filenames).**
+   - Identify the time the duplication started using the service’s **activity/recent changes** view.
+   - For a few key files, use **version history** to find the last known-good version.
+   - If your service offers a broader **restore/rollback** feature (for example, restoring a whole drive/account to an earlier point in time), consider using it only after you’ve confirmed the correct timeframe and your account is secured.
 
-6. **Create a manual safety copy of critical data.**
-   - **If there are no signs of ransomware,** copy the most essential "conflicted" and "original" versions to a physical USB drive.
-   - **Eject and unplug the USB drive** immediately after copying to keep it isolated from the system.
+6. **Make a cautious safety copy before big changes.**
+   - If you **do not** see ransomware red flags: copy only your most important folders first to storage that won’t auto-sync (for example, an external drive), then **disconnect it immediately**.
+   - Don’t reconnect that drive until you’ve secured the account and run a reputable malware scan on the affected device (or had IT check it), so you don’t keep propagating the same problem.
+
+7. **If you suspect a cyber attack (or this is a work/charity device), escalate instead of experimenting.**
+   - If it’s a work/school/organisation account, contact your IT/helpdesk and tell them: “Lots of conflicted copies appeared overnight; I’ve taken the device offline and paused sync.”
+   - If you’re unsure who to report a cyber incident to, use the UK government’s **“where to report a cyber incident”** signposting service.
+   - If you’ve been a victim of **fraud/cybercrime** in **England, Wales, or Northern Ireland**, report it via **Report Fraud** (online or by phone).
+   - If you live in **Scotland**, report cybercrime/fraud to **Police Scotland** (101 for non-emergencies or online reporting).
 
 ## What can wait
-- Deleting the thousands of duplicate files (this should be the final step after recovery).
-- Troubleshooting the specific sync settings or software bugs.
-- Informing collaborators or shared folder members (wait until the account is secured).
-- Running a full system virus scan (isolation is the priority first).
+- Deciding which of hundreds of copies to keep (do that only after syncing is paused and you’ve checked version history).
+- Deduping tools, “cleanup” scripts, or bulk renaming (they can destroy clues and good versions).
+- Factory resets, reinstalling cloud clients, or wiping accounts (these can make recovery harder).
+- Telling everyone to “resend files” or re-sharing folders (wait until you know what happened).
 
 ## Important reassurance
-Mass file duplication is frequently caused by harmless sync "loops," such as two devices attempting to merge different versions of a database or a system clock being incorrect. While the volume of files is overwhelming, cloud services generally preserve "Version History" for 30 days, meaning your original data is likely still recoverable even if the local folders look cluttered.
+This is a common pattern when cloud sync gets confused (for example, two devices edit the same files out of sequence, or an account/device sign-in mismatch). The safest move is to stop automatic changes first; you can usually recover a clean version once things stop moving.
 
 ## Scope note
-This guide provides first-step stabilization for unexpected mass file duplication. It does not cover technical repair of sync engines or forensic removal of malware, which may require specialist IT support.
+These are first steps to prevent further loss and keep recovery options open. Full recovery (especially across multiple devices/accounts) can take careful, methodical work or specialist IT support.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT, legal, or security advice. If you suspect your data has been compromised by ransomware or a targeted attack, prioritize professional incident response. Reporting to official bodies like Report Fraud or the NCSC is recommended for all suspected cybercrimes.
+This is general information, not legal or professional advice. If you see signs of ransomware or a targeted compromise, prioritise isolation and qualified help over DIY fixes.
 
 ## Additional Resources
-- https://help.dropbox.com/organize/conflicted-copy
-- https://support.microsoft.com/en-gb/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15
-- https://support.microsoft.com/en-gb/office/restore-a-previous-version-of-a-file-without-unwanted-changes-bdb2cafa-d588-475c-97d7-20e8b9949b84
-- https://support.microsoft.com/en-gb/office/organize-files-and-folders-in-microsoft-onedrive-3eed202a-dee1-41fb-a719-baca4dda8e32
-- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://support.microsoft.com/en-us/topic/duplicate-files-in-onedrive-fd47ce5e-8dd0-465e-9e3a-461e1a3cf613
+- https://support.apple.com/en-gb/guide/mac-help/mh40780/mac
+- https://signpost-cyber-incident.service.gov.uk/
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.scotland.police.uk/advice/internet-safety/cybercrime/
+- https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks

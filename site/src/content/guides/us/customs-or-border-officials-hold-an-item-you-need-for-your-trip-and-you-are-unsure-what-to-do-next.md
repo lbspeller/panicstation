@@ -1,104 +1,86 @@
----
+﻿---
 title: "What to do if… customs or border officials hold an item you need for your trip and you are unsure what to do next"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "cbp held my item"
-  - "customs took my item at airport"
-  - "item seized at us border"
-  - "item detained by cbp"
-  - "seized property receipt"
-  - "custody receipt seized property"
-  - "fines penalties forfeitures case"
-  - "fp&f case number"
-  - "notice of seizure cbp"
-  - "petition for relief deadline"
-  - "needed item for my trip"
-  - "medication held at customs"
-  - "medical device held at airport"
-  - "laptop held by border officers"
-  - "phone held at the border"
-  - "work equipment held for travel"
-  - "traveling today item missing"
-  - "urgent travel item held"
-  - "what do i do if customs took my laptop"
-  - "what do i do if cbp took my medicine"
-  - "help i am at customs and they took my stuff"
-  - "help cbp is holding my baggage"
-  - "my medication was confiscated at the border"
-  - "my electronics were seized by customs"
-  - "smell of seized goods"
-  - "visible inspection of electronics"
-  - "hearing customs officer detention"
-  - "cbp form 6051s"
-  - "cbp form 6051d"
-  - "seized property receipt missing"
-  - "custums seized item"
-  - "custems holding my laptop"
-  - "in secondary inspection at airport"
-  - "at the land border crossing"
-  - "seacat case number"
-  - "fines penalties and forfeitures office"
-  - "administrative forfeiture process"
-  - "notice of detention 5 day rule"
-last_reviewed: "2026-03-17"
+  - cbp held my item
+  - customs took my item at airport
+  - item seized at us border
+  - item detained by cbp
+  - seized property receipt
+  - custody receipt seized property
+  - fines penalties forfeitures case
+  - fp&f case number
+  - notice of seizure cbp
+  - petition for relief deadline
+  - needed item for my trip
+  - medication held at customs
+  - medical device held at airport
+  - laptop held by border officers
+  - phone held at the border
+  - work equipment held for travel
+  - traveling today item missing
+  - urgent travel item held
+  - what to ask cbp officer
+  - how to follow up after seizure
+last_reviewed: "2026-03-07"
 ---
-# What to do if… customs or border officials hold an item you need for your trip and you are unsure what to do next (USA)
 
+# What to do if… customs or border officials hold an item you need for your trip and you are unsure what to do next (USA)
 ## Short answer
-Obtain a formal receipt (CBP Form 6051S for seizures or 6051D for detentions) containing an FP&F Case Number or Incident Number, then proceed with your travel and initiate a replacement plan immediately.
+Get a receipt/notice with a case (often FP&F) or reference number, confirm whether the item is *detained* or *seized*, then continue your travel plan assuming you will not get it back today.
 
 ## Do not do these things
-- Do not physically obstruct officers or use aggressive language; this can lead to arrest or denial of entry.
-- Do not leave the inspection area without a signed receipt or the specific FP&F Case Number for your item.
-- Do not unlock cloud-based accounts (iCloud, Google Drive) for officers; under 2026 directives, their search authority is limited to data stored locally on the physical device.
-- Do not promise to "bring more paperwork tomorrow" in hopes of a same-day release if the officer has already initiated a formal seizure.
-- Do not miss a departure deadline waiting for a reversal that rarely happens on-site once property is moved to a secure holding area.
+- Do not argue, threaten complaints, or obstruct — it can escalate and slow everything down.
+- Do not leave without paperwork (or at minimum a case/reference number and where to follow up).
+- Do not volunteer extra device/account access “to speed things up.” Ask what is required vs optional, and keep the scope as narrow as possible.
+- Do not miss your flight waiting for “maybe” — set a cut-off time and move to a replacement plan.
+- Do not rely on verbal promises like “call tomorrow and we’ll release it” — you need the next step and contact point tied to a case/reference number.
 
 ## What to do now
-1. **Identify the exact legal status of the item by asking for the specific form being used.**
-   - Ask: "Is this being *detained* for further review or *seized* for forfeiture?"
-   - Request **CBP Form 6051S** (Custody Receipt for Seized Property and Evidence) if the item is seized.
-   - Request **CBP Form 6051D** (Detention Notice and Custody Receipt for Detained Property) if the item is being held for review.
-2. **Secure the tracking identifiers required for follow-up.**
-   - Ensure the receipt lists an **FP&F (Fines, Penalties, and Forfeitures) Case Number** or a **SEACATS Incident Number**.
-   - Note the specific **Port of Entry** and the officer's name or badge number if it is provided on the paperwork.
-3. **Determine if an immediate resolution is possible for restricted goods.**
-   - If the item is medication, present a valid U.S. prescription or a physician’s letter in English.
-   - If the item is a commercial sample or professional equipment, ask if paying an informal duty or presenting a specific permit (e.g., USDA/FDA) can trigger an immediate release.
-4. **Clarify the search scope for electronic devices under Directive 3340-049B.**
-   - Ask if the search is a "Basic Search" (no suspicion required) or an "Advanced Search" (requires reasonable suspicion and supervisor approval).
-   - **Switch the device to airplane mode** before handing it over to ensure no cloud data is accessed.
-   - Note that U.S. citizens cannot be denied entry for refusing to provide a passcode, but the device will almost certainly be seized for forensic analysis.
-5. **Execute an immediate replacement or backup plan.**
-   - Contact your destination hotel or a local pharmacy to arrange for emergency medication refills.
-   - If a work laptop was taken, contact your employer's IT/Security department immediately to report the seizure and request a remote wipe of the device.
-   - Book a connection or ground transport assuming the item will not be returned within the next 14 to 30 days.
-6. **Track the mandatory notice timelines for recovery.**
-   - For detentions: CBP must generally issue a formal Notice of Detention within 5 days of the decision to detain.
-   - For seizures: CBP must generally send a formal Notice of Seizure via mail within 60 days.
-7. **Prepare for the ePetition or Claim process once the formal notice arrives.**
-   - You typically have **30 days** from the date of the notice to file a "Petition for Relief" (requesting mercy/return).
-   - Under CAFRA rules, you may have **35 days** to file a "Claim" (requesting a court trial to contest the seizure).
-   - Use the **CBP ePetition platform** for faster processing of administrative relief requests.
+1. **Ask the key clarifying question (and repeat it until it’s answered):**
+   - “Is this item being *detained* temporarily for review, or *seized*?”
+   - “What is the reason/category, and what is the case/reference number?”
+2. **Get the document you’ll need to fix this later.** Ask for:
+   - a **custody receipt / seizure receipt** (if seized), and/or a **detention notice/receipt** (if detained)
+   - the **Fines, Penalties, and Forfeitures (FP&F)** office contact/address shown on the notice (or the port contact they tell you to use)
+3. **Ask one practical “can it be resolved right now?” question.**
+   - “If I provide proof of ownership/purchase, a prescription, an authorisation, or pay duties/fees, can it be released today?”
+   - If the answer is “no,” stop negotiating and move to travel + follow-up.
+4. **If it’s medication or a medical device, state that clearly and show what you have.**
+   - Present the pharmacy label, prescription, or clinician letter if available.
+   - Ask what documentation they need for review or release, and assume you may still need a replacement plan.
+5. **Split into two tracks: travel continuation and recovery.**
+   - If you can still travel, proceed to your gate/connection and handle recovery later with the paperwork in hand.
+   - If you cannot travel without it, step aside, contact your airline, and rebook only after you have the case/reference number and written status.
+6. **Start a replacement plan immediately (don’t wait for the outcome).**
+   - Buy/rent on arrival, airport purchase, pharmacy at destination, borrow from a companion, or courier a replacement to your hotel.
+   - For work/security devices: contact employer IT/security for an emergency alternative (temporary device/token replacement).
+7. **If you receive (or later get) a formal Notice of Seizure, follow the notice’s deadlines — especially for petitions.**
+   - Under U.S. customs regulations, **petitions for relief from seizures must be filed within 30 days from the date of mailing of the notice of seizure** (and must be filed with the FP&F office whose address is given in the notice).
+   - The notice may also describe how to contest the seizure through a separate “claim” process; follow the notice’s stated deadline exactly if you want to contest rather than request relief.
+8. **If you’re unsure what stage it’s in, use the case number to get clarity.**
+   - Contact the office listed on your paperwork and ask: “Is this detained or seized? What is the next required action from me, and what is the deadline?”
+9. **Write a 60-second incident note while it’s fresh.**
+   - Date/time/location, what was taken, what you were told, and the case/reference number (plus officer name if offered).
 
 ## What can wait
-- You do not need to decide between a "Petition" and a "Claim" while still at the airport or border station.
-- You do not need to hire a customs attorney in the first 24 hours; wait until you have the physical 6051S/D form in hand.
-- You do not need to file a formal complaint against the officer immediately; prioritize obtaining the case number and continuing your travel.
+- You do not need to decide immediately whether to hire an attorney or escalate — first secure the receipt/notice and the case number.
+- You do not need to fully understand forfeiture law right now — the immediate goal is to meet the deadline on your notice and keep your travel moving.
+- You do not need to make a complaint at the airport; focus on written documentation and a workable replacement plan.
 
 ## Important reassurance
-Property detentions at the border are often procedural rather than criminal. While the loss of a necessary item is a significant disruption, securing the FP&F Case Number ensures the item is tracked in the federal SEACATS system and provides a legal path for its return or compensation.
+When something you need is suddenly held at a border, it can feel like your whole trip is collapsing. Your fastest route back to control is: get the case number in writing, keep moving, and handle the recovery process from a calmer place.
 
 ## Scope note
-This is first-step stabilization guidance only. Recovery of seized or detained property involves complex administrative or judicial timelines that begin only after the initial interaction at the border.
+This is first-step guidance for the earliest safe pause. The correct next steps depend on whether the item is detained for review, excluded, or seized — and your paperwork will determine that.
 
 ## Important note
-This guide is for general information and does not constitute legal advice. CBP has broad authority at the border, and specific rules apply to different categories of goods (e.g., FDA-regulated drugs, CITES-protected wildlife, or ITAR-controlled technology). Always follow the deadlines printed on your official CBP correspondence.
+This is general information, not legal advice. CBP processes vary by item type and the reason it was held (especially medicines, food/agricultural items, cash, and restricted/prohibited goods). Always follow the specific instructions and deadlines written on your CBP notice/receipt.
 
 ## Additional Resources
-- https://www.cbp.gov/document/forms/form-4630-petition-relief-forfeiture
-- https://cbpcomplaints.cbp.gov/s/article/Article-1139?language=en_US
-- https://www.cbp.gov/travel/us-citizens/know-before-you-go/prohibited-and-restricted-items
+- https://www.govinfo.gov/link/cfr/19/171?link-type=pdf&sectionnum=2&year=mostrecent
+- https://www.law.cornell.edu/cfr/text/19/171.2
+- https://www.dhs.gov/sites/default/files/publications/privacy-pia-cbp-040-seacats-april2017.pdf
 - https://www.cbp.gov/trade/programs-administration/penalties
-- https://www.cbp.gov/about/contact
+- https://www.cbp.gov/travel/us-citizens/know-before-you-go/prohibited-and-restricted-items

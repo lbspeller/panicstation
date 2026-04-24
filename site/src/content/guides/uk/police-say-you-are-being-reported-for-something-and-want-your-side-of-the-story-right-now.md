@@ -1,86 +1,80 @@
----
+﻿---
 title: "What to do if… police say you are being reported for something and want “your side of the story” right now"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "police want your side now"
-  - "asked to explain yourself to police"
-  - "police phone call allegation"
-  - "invited for voluntary interview"
-  - "voluntary interview under caution"
-  - "interview under caution rights"
-  - "do i have to talk to police"
-  - "no comment police interview"
-  - "asked to come to station today"
-  - "help us clear this up police"
-  - "police say you have been reported"
-  - "unexpected police contact"
-  - "is this a police scam call"
-  - "duty solicitor request"
-  - "free legal advice police station"
-  - "panic after police contact"
-  - "what to say on police phone call"
-  - "asked for statement immediately"
-  - "just a quick chat police"
-  - "voluntary attendance police"
-  - "caution plus three interview"
-  - "pre-interview disclosure"
-  - "right to legal advice uk"
-  - "police incident number check"
-  - "verify police caller uk"
-  - "criminal legal aid station"
-  - "reporting a crime against me"
-  - "police suspect interview rights"
-  - "pace code c voluntary"
-  - "appropriate adult for minors"
-last_reviewed: "2026-03-17"
+  - police want your side now
+  - asked to explain yourself to police
+  - police phone call allegation
+  - invited for voluntary interview
+  - voluntary interview under caution
+  - interview under caution rights
+  - do i have to talk to police
+  - no comment police interview
+  - asked to come to station today
+  - “help us clear this up” police
+  - police say you’ve been reported
+  - unexpected police contact
+  - is this a police scam call
+  - duty solicitor request
+  - free legal advice police station
+  - panic after police contact
+  - what to say on police phone call
+  - asked for statement immediately
+  - “just a quick chat” police
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… police say you are being reported for something and want “your side of the story” right now (UK)
 
 ## Short answer
-Do not provide a statement or explanation immediately. State that you will cooperate once you have obtained legal advice, verify the officer's identity via 101, and request a duty solicitor or private representative for any scheduled interview.
+Don’t explain anything “right now”. First confirm who you’re speaking to, then say you won’t answer questions without legal advice and will arrange any interview with a solicitor.
 
 ## Do not do these things
-- Do not attempt to "clear things up" or "have a quick chat" on the phone or in person without a lawyer.
-- Do not speculate, guess, or fill in memory gaps regarding dates, times, or other people's motives.
-- Do not hand over your mobile phone, provide passcodes, or show digital messages to "help the investigation."
-- Do not accept claims that "only a guilty person needs a lawyer" or that "it will be faster if we just talk now."
-- Do not attend a "voluntary" meeting without first confirming that a solicitor will be present.
-- Do not delete messages, call logs, or files in a panic, as this can be interpreted as perverting the course of justice.
+- Don’t “just clear it up” on the phone or in an unplanned chat.
+- Don’t guess details, fill in gaps, or speculate about timelines, motives, or other people.
+- Don’t hand over passwords, unlock your phone, or show messages/photos “to help”.
+- Don’t accept pressure like “it’ll look better if you cooperate now”.
+- Don’t attend an interview without arranging legal advice first (if they say it’s urgent, ask for legal advice to be arranged before any questioning).
+- Don’t pay anything or share bank details to “close the report” — treat that as suspicious.
 
 ## What to do now
-1. **End the immediate conversation politely.** State that you are currently occupied and need to verify the contact before discussing the matter further.
-2. **Verify the identity of the caller.** Ask for the **officer's name**, **shoulder number (collar number)**, **police force**, and a **reference or incident number**.
-3. **Confirm the caller via official channels.** Hang up and wait at least one minute (to ensure the line has cleared). Call **101** (the national non-emergency number) and ask to be put through to that specific officer or force to confirm the contact is genuine.
-4. **Identify the status of the contact.** Ask clearly:
-   - "**Am I a suspect or a witness?**"
-   - "**Am I under arrest?**"
-   - "**Is this a request for a Voluntary Attendance (voluntary interview)?**"
-5. **Invoke your right to legal advice.** Use the following phrase: "I am willing to assist with your enquiries, but **I will not answer any questions until I have spoken to a solicitor**."
-   - If they press for an immediate chat, repeat the phrase.
-   - Note that legal advice at a police station is **free of charge** regardless of your income.
-6. **Request a duty solicitor or your own representative.** If the police schedule an interview, tell them you require the **duty solicitor** to be notified, or provide the name of your own criminal defence solicitor.
-7. **Ensure safeguards for minors or vulnerable adults.** If you are under 18 or have a mental health condition or learning disability, tell the officer. You **must** have an **Appropriate Adult** present by law.
-8. **Record the details of the interaction.** Write down the time of the call, what was said to you, and any deadlines or locations the officer mentioned.
-9. **Secure your own evidence privately.** If you have messages or photos that support your version of events, do not send them to the police yet. Keep them safe and show them only to your solicitor first.
+1. **Pause and buy time.** Take 3 slow breaths. Your job right now is simply: *don’t get drawn into giving an account.*
+2. **Check it’s really the police (scam check).** Ask for their **name**, **role**, **force/station**, and a **reference/incident number**. End the call. Then call back via an **official, trusted number** (e.g., the force’s official website switchboard / 101), not a number only the caller provides.
+3. **Clarify the type of contact — without discussing the facts.** Ask only:
+   - “**Am I under arrest or being detained?**”
+   - “**Is this a request for a voluntary interview / interview under caution?**”
+   - “**What offence are you investigating (in brief)?**”
+4. **Use one calm sentence and stop talking.** For example:
+   - “I’m willing to cooperate, but **I won’t answer questions without legal advice**. Please contact my solicitor / I will arrange representation and we can schedule a time.”
+5. **Ask for a solicitor before any interview.** If it’s an **interview under caution** (including voluntary attendance), ask for a solicitor. You can request the **duty solicitor** or contact a criminal defence solicitor yourself. (Being asked for a solicitor does not “make you look guilty”.)
+6. **Write down what happened while it’s fresh.** Note date/time, who contacted you, reference number, what was requested, and any pressure/deadlines used.
+7. **Avoid accidental self-incrimination.** Until you’ve had legal advice:
+   - Don’t discuss the allegation with friends/colleagues or on social media.
+   - Don’t message anyone involved to “sort it out” or “explain”.
+   - Don’t delete messages/files in a panic.
+8. **If officers turn up.** Be polite but firm:
+   - “I’m not answering questions without legal advice.”
+   - “Am I under arrest?”
+   If you’re not under arrest, you can ask that contact is arranged through your solicitor and end the conversation.
 
 ## What can wait
-- You do not need to decide right now whether you will answer questions or remain silent (the "no comment" option).
-- You do not need to gather "proof" or witnesses tonight; your solicitor will advise on evidence gathering.
-- You do not need to attend an interview at the exact time the officer suggests if it does not allow for legal representation to be arranged.
+- You do **not** need to decide today whether to give a full account.
+- You do **not** need to write a long statement or assemble “proof” tonight.
+- You do **not** need to attend an interview at the first time suggested if you haven’t arranged legal advice — you can propose a time once represented.
 
 ## Important reassurance
-It is a standard police tactic to present a situation as an "informal chat" to encourage you to speak without a lawyer. Choosing to exercise your right to legal advice is a procedural safeguard used by thousands of people every day, including those who have done nothing wrong. It is not an admission of guilt, and the police are trained to expect this request.
+It’s normal to feel you must explain yourself instantly to stop things escalating. But informal explanations can be recorded, misunderstood, or incomplete in ways that are hard to undo. Slowing down and getting legal advice is a protective step, not an admission.
 
 ## Scope note
-This guide covers the immediate stabilization of a situation where you are first contacted by police as a suspect. It does not cover the strategy of the interview itself or court procedures.
+This is “first steps only” for the first hour after unexpected police contact. Next steps depend on whether this is a voluntary interview under caution, an arrest/detention, or another process.
 
 ## Important note
-This information is for general guidance in England, Wales, and Scotland and does not constitute legal advice. Police procedures may vary slightly between jurisdictions (e.g., Police Scotland). If you are arrested, you must be cautioned and given access to legal advice immediately.
+This is general information, not legal advice. If you feel unsafe or believe arrest is imminent, prioritise safety and urgent legal support.
 
 ## Additional Resources
-- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version
 - https://www.gov.uk/arrested-your-rights/legal-advice-at-the-police-station
-- https://www.libertyhumanrights.org.uk/advice_information/do-i-have-to-answer-police-questions/
-- https://www.gov.uk/arrested-your-rights/your-rights-in-custody
-- https://www.gov.uk/government/publications/notice-of-rights-and-entitlements-english/notice-of-rights-and-entitlements-english
+- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version
+- https://www.gov.uk/government/publications/pace-code-c-2019/pace-code-c-2019-accessible
+- https://assets.publishing.service.gov.uk/media/686e23d181dd8f70f5de3cbf/Interviewing_suspects.pdf
+- https://www.college.police.uk/app/investigation/investigative-interviewing/investigative-interviewing

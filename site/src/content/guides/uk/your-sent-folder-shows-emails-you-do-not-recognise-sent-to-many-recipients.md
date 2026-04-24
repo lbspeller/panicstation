@@ -1,113 +1,81 @@
----
+﻿---
 title: "What to do if… your sent folder shows emails you do not recognise sent to many recipients"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "user profile loads blank"
-  - "desktop files appear to be missing"
-  - "blank user profile"
-  - "profile loads empty"
-  - "desktop files missing"
-  - "files disappeared"
-  - "missing documents folder"
-  - "missing downloads folder"
-  - "signed into wrong account"
-  - "temporary profile windows"
-  - "new user profile created"
-  - "onedrive desktop missing"
-  - "icloud desktop missing"
-  - "synced folders moved"
-  - "after update files missing"
-  - "after restart files missing"
-  - "missing user folder"
-  - "empty desktop screen"
-  - "corrupted user profile"
-  - "windows profile missing"
-  - "mac profile missing"
-  - "missing desktop icons"
-  - "empty documents folder"
-  - "user account empty"
-  - "lost files after login"
-  - "where are my desktop files"
-  - "help i lost my documents"
-  - "help i lost my desktop"
-  - "what do i do if my profile is blank"
-  - "what do i do if my desktop is empty"
-  - "what do i do if my files are gone"
-  - "my user profile is empty"
-  - "my desktop files are gone"
-  - "my documents folder is empty"
-last_reviewed: "2026-03-17"
+  - email hacked
+  - account takeover
+  - unknown emails sent
+  - sent folder unknown messages
+  - spam sent to contacts
+  - email compromise
+  - mailbox rules changed
+  - email forwarding enabled
+  - strange bcc recipients
+  - mass email from my account
+  - someone using my email
+  - google mail hacked
+  - outlook account hacked
+  - password stolen
+  - suspicious sign-in
+  - unexpected login alert
+  - recovery email changed
+  - oauth app access
+  - phishing fallout
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your sent folder shows emails you do not recognise sent to many recipients (UK)
 
 ## Short answer
-Isolate the device from the internet if malware is suspected, then verify if you are logged into a temporary profile or if cloud synchronization has redirected your local folders to a web-only location.
+Assume your email account is compromised: regain control immediately by signing out other sessions, changing the password, and removing any forwarding/rules so the attacker can’t keep sending or reading your mail.
 
 ## Do not do these things
-- Do not create, move, or save new files to the desktop until the original location is confirmed.
-- Do not run unverified "registry cleaners" or third-party "data recovery" software found via search engines.
-- Do not follow instructions on any pop-up "support" windows or pay demands.
-- Do not repeatedly restart the device if you hear physical clicking or grinding noises from the hardware.
-- Do not sign out of OneDrive, iCloud, or Google Drive apps before checking their web-based portals.
+- Don’t reply to the suspicious sent emails from the compromised account (it can confirm the account is active and may trigger more abuse).
+- Don’t click any links inside copies/forwards of the suspicious sent emails (including “unsubscribe” links) or in related bounce-back messages.
+- Don’t just change your password and stop there — attackers often stay in via forwarding rules, app access, or active sessions.
+- Don’t send sensitive documents or passwords from the account “to test it”.
+- Don’t delete everything in panic; keep enough details (dates, subjects, recipients) in case you need support from your provider, employer, bank, or fraud reporting.
 
 ## What to do now
-1. **Capture the current state of the system without making changes.**  
-   **Photograph or screenshot the empty desktop, any specific error notifications, and the current signed-in username.**
-
-2. **Isolate the device if a security breach is suspected.**  
-   **Disconnect the Wi-Fi or unplug the Ethernet cable immediately if you see file extensions changing (e.g., .locked, .crypted) or a ransom demand.**
-
-3. **Verify the active user account name.**  
-   **Check the Start menu or System Settings to confirm if the profile name matches your usual account.**
-   - On Windows: Look for a notification stating "You have been signed in with a temporary profile."
-   - On Mac: Check Apple menu > System Settings > Users & Groups to see which account is active.
-
-4. **Search the local "Users" directory for your original data.**  
-   **Navigate to the local storage drive and inspect the folder structure manually.**
-   - On Windows: Navigate to `C:\Users\` and check for folders matching your username that are not currently "Active."
-   - On Mac: Check `/Users/[your-username]/` via Finder to see if the files remain in the home directory but are not displaying on the Desktop.
-
-5. **Access cloud-based storage via a web browser on a separate device.**  
-   **Sign in to OneDrive.com or iCloud.com to see if the files exist in the cloud Recycle Bin or a redirected folder.**
-   - Check the "Desktop" and "Documents" folders within the cloud interface.
-   - Look specifically for a "Recycle Bin" (OneDrive) or "Recently Deleted" (iCloud) section.
-
-6. **Check for a "Windows.old" directory following a system update.**  
-   **Open File Explorer and check for `C:\Windows.old\Users\[your-username]` if a major update recently occurred.**
-   - Do not delete this folder.
-   - Search this specific path for your missing file names.
-
-7. **Verify iCloud Drive settings on macOS Tahoe 26 or later.**  
-   **Open System Settings > [Name] > iCloud > iCloud Drive and check the status of "Desktop & Documents Folders."**
-   - If this was recently enabled, files may be in the Finder sidebar under "Locations" > "iCloud Drive" rather than the local desktop.
-
-8. **Escalate to professional IT support for managed devices.**  
-   **Stop all troubleshooting and contact your organizational helpdesk if this is a work or school computer.**
-
-9. **Report confirmed cyber incidents to the national authorities.**  
-   **Use the official reporting channels if files have been maliciously encrypted or stolen.**
-   - England, Wales, and Northern Ireland: Report via **Report Fraud** at `reportfraud.police.uk`.
-   - Scotland: Report to **Police Scotland** by calling 101.
-   - Significant organizational incidents: Report to the **NCSC** (National Cyber Security Centre).
+1. **Stop the bleed (30–60 seconds):** If you can still log in, use your provider’s **“sign out of all devices/sessions”** option (or equivalent). If you can’t find it quickly, continue anyway.
+2. **Change the password from a safer device:** Use a device you trust (or a different device than usual). Set a **new, unique** password (not reused anywhere).
+3. **Turn on 2-step verification (2FA) right away:** Prefer an authenticator app or a physical security key if you have one.
+4. **Remove attacker persistence inside the mailbox:**
+   - Check **mailbox rules/filters** and delete anything you didn’t create (especially rules that auto-forward, auto-delete, or move messages to obscure folders).
+   - Check **forwarding** settings and remove any unfamiliar forwarding address.
+   - Check **connected apps / “sign in with…” access** and revoke anything you don’t recognise.
+5. **Secure recovery routes (so you don’t get locked out again):**
+   - Confirm your **recovery email** and **phone number** are yours.
+   - Remove any unfamiliar recovery options.
+   - Regenerate **backup/recovery codes** (if offered) and store them safely.
+6. **Check the wider damage (do this next, not later):**
+   - Search your inbox for “password reset”, “security alert”, “new sign-in”, “forwarding”, “rule”, plus names of banks, payments, shopping, and cloud services you use.
+   - If you see resets/alerts for other services, **change those passwords** too (starting with banking, payments, shopping, and social accounts), and add 2FA where possible.
+7. **Warn the people most at risk (from a safe channel):** Text/call close contacts and anyone who might act on urgent requests (payments, gift cards, invoices). Ask them to **ignore links/attachments** from you until you confirm by phone.
+8. **Report the scam and any resulting fraud:**
+   - If you’ve received related phishing emails, forward them to **report@phishing.gov.uk**.
+   - If you’ve lost money, shared financial details, or your account takeover led to fraud, report it via **Report Fraud / Action Fraud** (and if you’re in Scotland you may be directed to Police Scotland via **101**).
+9. **If this is a work/school account:** Contact your IT/helpdesk immediately. Ask them to check for: sign-in logs, mailbox rule changes, forwarding, and any suspicious third-party access.
 
 ## What can wait
-- Deciding whether to pay for professional clean-room data recovery services.
-- Reinstalling the operating system or "resetting" the PC.
-- Purchasing additional cloud storage or new hardware.
+- You don’t need to figure out “who did it” or why right now.
+- You don’t need to send a perfect message to everyone immediately — prioritise the few people most likely to be harmed.
+- You don’t need to wipe devices today unless you have strong reason to suspect malware; focus first on account control (sessions, password, rules, recovery).
 
 ## Important reassurance
-A blank desktop often indicates a profile path error or a synchronization setting change rather than a permanent deletion of data. If the files are still on the hard drive or in the cloud Recycle Bin, they can usually be restored once the correct profile is re-linked.
+This happens to careful people — mass-sent messages are a common sign of account takeover. Taking control of sessions, rules/forwarding, and recovery options usually stops the immediate harm quickly.
 
 ## Scope note
-This guide provides first-step stabilization for data visibility issues and potential malware isolation. It does not provide technical registry repairs, hardware forensics, or long-term cybersecurity auditing.
+These are first steps to stabilise the situation and prevent irreversible mistakes. If money, work systems, or sensitive data are involved, you may need specialist help (IT/security support, your bank, and fraud reporting).
 
 ## Important note
-This information is for situational stabilization and does not constitute professional technical or legal advice. If you suspect hardware failure or a targeted ransomware attack, seek certified IT assistance. Use of reporting portals should be prioritized if personal data has been compromised.
+This is general information, not legal or professional advice. If you feel unsafe, threatened, or are experiencing ongoing fraud, get help promptly from your provider, employer IT, and relevant UK reporting channels.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
-- https://www.ncsc.gov.uk/section/respond-recover/citizen-hacked-accounts
-- https://www.ncsc.gov.uk/section/respond-recover/phishing
 - https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
-- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.reportfraud.police.uk/phishing/
+- https://www.reportfraud.police.uk/
+- https://www.actionfraud.police.uk/report-phishing

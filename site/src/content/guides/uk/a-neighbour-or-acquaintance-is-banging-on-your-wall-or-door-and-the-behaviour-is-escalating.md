@@ -1,101 +1,94 @@
----
+﻿---
 title: "What to do if… a neighbour or acquaintance is banging on your wall or door and the behaviour is escalating"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "neighbour banging on door"
-  - "neighbour banging on wall"
-  - "someone pounding on my door"
-  - "someone hammering my wall"
-  - "escalating neighbour dispute"
-  - "aggressive knocking at night"
-  - "threatening neighbour behaviour"
-  - "harassment from neighbour"
-  - "intimidation at my door"
-  - "antisocial behaviour neighbour"
-  - "noise plus threats"
-  - "scared to open the door"
-  - "someone outside my flat door"
-  - "apartment hallway confrontation"
-  - "door banging and shouting"
-  - "acquaintance won’t leave"
-  - "repeated banging incidents"
-  - "i feel unsafe at home"
-  - "should i call the police uk"
-  - "what is 999 vs 101"
-  - "help i have a crazy neighbour"
-  - "help i am being harassed at home"
-  - "what do i do if someone is banging on my door"
-  - "what do i do if my neighbour is aggressive"
-  - "what do i do if i am being threatened at home"
-  - "what do i do if someone is kicking my door"
-  - "loud banging on shared wall"
-  - "aggressive shouting in hallway"
-  - "vandalism to front door"
-  - "neighbour conflict escalation"
-last_reviewed: "2026-03-17"
+  - neighbour banging on door
+  - neighbour banging on wall
+  - someone pounding on my door
+  - someone hammering my wall
+  - escalating neighbour dispute
+  - aggressive knocking at night
+  - threatening neighbour behaviour
+  - harassment from neighbour
+  - intimidation at my door
+  - antisocial behaviour neighbour
+  - noise plus threats
+  - scared to open the door
+  - someone outside my flat door
+  - apartment hallway confrontation
+  - door banging and shouting
+  - acquaintance won’t leave
+  - repeated banging incidents
+  - i feel unsafe at home
+  - should i call the police uk
+  - what is 999 vs 101
+last_reviewed: "2026-01-17"
 ---
+
 # What to do if… a neighbour or acquaintance is banging on your wall or door and the behaviour is escalating (UK)
 
 ## Short answer
-Retreat to a room behind a locked internal door and call **999** immediately if you feel in danger or a crime is in progress. Do not open the door or interact with the person while the situation is escalating.
+Get to a safer position behind a locked barrier and call **999** if you feel threatened or the situation is unfolding now. If it’s not an emergency, report it via **101/online** and start a clear incident log.
 
 ## Do not do these things
-- Do not open the door or step into communal areas / hallways to negotiate or "talk it out."
-- Do not shout back, bang on the wall in response, or issue counter-threats.
-- Do not use a weapon or item to "scare them off" through the door.
-- Do not film the person from a position that requires you to open the door or window.
-- Do not follow or pursue the person if they begin to walk away.
-- Do not attempt to "rule out" the severity of the situation before calling for help.
+- Do not open the door “to calm them down” or step into the hallway/landing to negotiate.
+- Do not shout back, bang back, or trade threats (it can escalate fast and complicate reporting).
+- Do not follow them if they move away from your door.
+- Do not try to “scare them off” or hint at weapons.
+- Do not go outside to film or check who it is.
+- Do not post about it on social media while it’s happening (it distracts you and can inflame things).
 
 ## What to do now
-1. **Move to a secure internal position away from the point of impact.**  
-   **Go to a room with a lockable door if possible, and keep a solid barrier between yourself and the person striking the door or wall.** Take your mobile phone and any necessary medication or keys with you.
+1. **Create a safer pause inside your home.**  
+   Move away from the door/wall they’re striking. If you can, go to an inner room, lock the door, and keep a solid barrier between you and them. Take your phone, keys, and shoes with you.
 
-2. **Contact emergency services if there is an immediate threat.**  
-   **Call 999 if you believe the person is attempting to force entry, is making verbal threats of violence, or if criminal damage is occurring now.**
-   - Give your full address, including flat number and floor.
-   - Specify if the person is currently in a communal area (stairwell / landing).
+2. **Decide: emergency or non-emergency.**  
+   - **Call 999** if you feel threatened, they’re trying to force entry, there are threats, the incident is in progress, or you believe violence/damage is imminent.  
+   - If it’s not immediate danger, report it via **101** or your local force’s **online reporting**.
 
-3. **Use the Silent Solution if you cannot safely speak.**  
-   **Dial 999 and listen for the automated instructions; if you are on a mobile and cannot speak, press 55 when prompted.**
-   - This 20-second automated message ("You are through to the police") confirms your call is a genuine emergency.
-   - If calling from a landline, the Silent Solution is not used; keep the line open as the operator will connect to police if suspicious noises are heard.
+3. **If you can’t safely speak, still call 999 (Silent Solution).**  
+   Call **999** and listen to the operator. If you can, respond by **coughing or tapping**. If you’re on a **mobile** and you’re prompted to, **press 55** to confirm it’s a genuine emergency so you can be put through to police.
 
-4. **Limit all communication to a single, brief instruction through the door.**  
-   **If you choose to speak, state "I am not opening the door, please leave" and then cease all interaction.** Do not answer questions, provide explanations, or argue, as this provides the perpetrator with feedback that can fuel escalation.
+4. **Make it easy for responders to find you.**  
+   If you can speak, give your **exact address**, floor/flat number, entry code/buzzer, and the safest way to reach you. If you’re in a block, say whether the person is in a **communal corridor/landing** and whether there’s damage.
 
-5. **Create a chronological record from your safe position.**  
-   **Write down the exact time the incident started, specific phrases shouted, and the frequency of the banging.** If you have a doorbell camera or internal security camera, ensure the footage is being saved, but do not interact with the device if it puts you in view of the person.
+5. **Keep any interaction minimal and non-escalating.**  
+   If you must speak, do it through the closed door: “I can’t open the door. Please leave.” Then stop engaging. Don’t argue, explain, or negotiate.
 
-6. **Contact a trusted third party for support.**  
-   **Call or message a friend, family member, or a trusted neighbour to let them know you are currently experiencing a confrontation and are seeking help.** Staying on an active line with someone can help ground you while waiting for responders.
+6. **Capture a timeline safely (for your own record).**  
+   From a safe spot, note the **time**, what you heard, any threats, and any damage. If it’s safe, you can record audio/video from inside your home for your own record. Avoid sharing it publicly.
 
-7. **Use NHS 111 Option 2 for support if a mental health crisis is suspected.**  
-   **If the person is an acquaintance known to be in a mental health crisis and there is no immediate threat of violence, call 111 and select Option 2 to speak with the mental health crisis team.** If you feel unsafe or a crime is being committed, prioritize 999.
+7. **Bring in a third party so you’re not dealing with it alone.**  
+   If you can do so discreetly, message/call a trusted person to stay on the phone. If you have a neighbour you trust, ask them to call **999** from their flat if you’re frightened to do it yourself.
 
-8. **Notify your housing provider or local council after the incident.**  
-   **Report the escalation to your landlord or the local council antisocial behaviour (ASB) team to ensure the incident is logged on their system.**
-   - If the perpetrator is a tenant of the same social landlord, they have a specific duty to investigate.
-   - Ask for a reference number for every report made.
+8. **If it seems like a mental health crisis and there’s no immediate danger.**  
+   You can call **NHS 111** for urgent advice on getting the right help involved (in many areas, it can route you to urgent mental health support; if not, ask for the local crisis line). If you feel in danger, prioritise **999**.
+
+9. **After it calms down, report it to the right place for follow-up.**  
+   - If you felt threatened or there was criminal damage/threats, report to **police** (101/online).  
+   - If it’s ongoing antisocial behaviour affecting the area, report to your **council**.  
+   - If you rent (especially council/housing association), report to your **landlord/housing officer**.
 
 ## What can wait
-- You do not need to decide whether you want to press charges or move house while the banging is happening.
-- You do not need to have a "perfect" recording or photographic evidence of the person to justify calling the police.
-- You do not need to clean up any damage or marks on the door until after the police have arrived or advised you to do so.
+- You do not need to decide right now whether to confront them, move home, or start a formal legal process.
+- You do not need perfect evidence before contacting police/council/landlord—report what you observed.
+- You can write longer statements, gather photos of damage, and build an incident diary once you’re safe and calm.
 
 ## Important reassurance
-It is a normal physiological response to feel shaky, nauseated, or hyper-vigilant when someone is striking your home. These reactions do not mean you are overreacting; they are your body’s way of preparing you to stay safe from a perceived threat.
+Feeling shaky, frozen, or unsure whether you’re “overreacting” is a common stress response. If behaviour at your door/wall is escalating and you feel unsafe, it’s reasonable to prioritise barriers, distance, and getting help.
 
 ## Scope note
-This guide is for first-step stabilization during an active escalation. Ongoing harassment or persistent antisocial behaviour will require a formal incident log and potentially an ASB Case Review (Community Trigger) through your local council.
+This is first-steps-only guidance to help you stabilise and avoid irreversible mistakes. Repeated incidents may need structured reporting and support from housing/council services.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. If you are in immediate danger or a crime is in progress, call **999**. For non-emergencies, call **101** or report online via your local police force website.
+This is general information, not legal advice. If you believe you’re in immediate danger or the incident is in progress, call **999**.
 
 ## Additional Resources
+- https://www.gov.uk/how-report-antisocial-behaviour/report-police
+- https://www.gov.uk/contact-police
+- https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
+- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
+- https://www.gov.uk/how-report-antisocial-behaviour
+- https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/
 - https://www.citizensadvice.org.uk/housing/problems-with-neighbours/complaining-about-your-neighbour/
-- https://www.gov.uk/report-noise-pollution-to-council
-- https://www.gov.uk/how-report-antisocial-behaviour/make-report
-- https://www.victimsupport.org.uk/crime-info/types-crime/antisocial-behaviour/
-- https://www.met.police.uk/advice/advice-and-information/asb/asb/antisocial-behaviour/disputes-with-neighbours/

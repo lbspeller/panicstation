@@ -1,96 +1,80 @@
----
+﻿---
 title: "What to do if… your fridge or freezer stops cooling and food is thawing"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - "refrigerator stopped cooling"
-  - "freezer stopped cooling"
-  - "food thawing in freezer"
-  - "fridge not getting cold"
-  - "freezer defrosting"
-  - "power outage fridge food safe"
-  - "no power refrigerator warming"
-  - "food safety power outage"
-  - "thawed food refreeze or toss"
-  - "spoiled food in fridge"
-  - "meat left in warm fridge"
-  - "milk spoiled power out"
-  - "refrigerator temperature 40f"
-  - "freezer temperature 0f"
-  - "what to do after outage"
-  - "fridge broke overnight"
-  - "freezer 24 48 hours estimate"
-  - "ice crystals refreeze safe"
-  - "what do i do if my fridge is warm"
-  - "what do i do if the power is out"
-  - "what do i do if freezer food is soft"
-  - "what do i do if meat is thawing"
-  - "help i have no power for fridge"
-  - "help i think my food is spoiled"
-  - "help i left the freezer door open"
-  - "help i need to save my food"
-  - "smell of spoiled meat"
-  - "liquid leaking from freezer"
-  - "condensation on fridge walls"
-  - "warm milk in refrigerator"
-  - "refrigerator failure protocols"
-  - "food safety guidelines 2026"
-last_reviewed: "2026-03-17"
+  - refrigerator stopped cooling
+  - freezer stopped cooling
+  - food thawing in freezer
+  - fridge not getting cold
+  - freezer defrosting
+  - power outage fridge food safe
+  - no power refrigerator warming
+  - food safety power outage
+  - thawed food refreeze or toss
+  - spoiled food in fridge
+  - meat left in warm fridge
+  - milk spoiled power out
+  - refrigerator temperature 40f
+  - freezer temperature 0f
+  - what to do after outage
+  - fridge broke overnight
+  - freezer 24 48 hours estimate
+  - ice crystals refreeze safe
+last_reviewed: "2026-03-03"
 ---
-# What to do if… your fridge or freezer stops cooling and food is thawing (USA)
 
+# What to do if… your fridge or freezer stops cooling and food is thawing (USA)
 ## Short answer
-Keep all appliance doors closed to preserve existing cold air and note the exact time the cooling stopped. If the temperature rises above 40°F for more than two hours, high-risk perishables must be discarded.
+Keep the doors closed and note the time. If it’s a **power outage**, a closed refrigerator keeps food safe for about **4 hours**; if the **appliance has failed** while power is on, move the most perishable foods into a cooler with ice immediately.
 
 ## Do not do these things
-- Don't open the doors repeatedly to check the temperature or the state of the food.
-- Don't taste food to determine if it is safe to eat.
-- Don't put food outside in the snow or cold weather, as temperatures fluctuate and animals may contaminate it.
-- Don't rely on smell or appearance alone to judge food safety.
-- Don't refreeze fully thawed meat, poultry, or dairy if they have been above 40°F.
+- Don’t keep opening the doors to “check”.
+- Don’t taste food to judge safety.
+- Don’t leave thawing foods on the counter.
+- Don’t refreeze foods that fully thawed if you can’t confirm they stayed cold (especially meat, poultry, seafood, dairy, leftovers).
+- Don’t rely on smell or appearance alone.
 
 ## What to do now
-1. **Seal the unit and note the time.** Write down the time the power went out or the appliance was discovered to be failing to track the safety window.
-2. **Verify the source of the failure.** 
-   - Check if the interior light comes on and if other kitchen appliances have power.
-   - Look at the circuit breaker or fuse box to see if a switch has tripped.
-3. **Group items together inside the freezer.** 
-   - Open the door only once to push frozen items close together to create an "igloo effect" which maintains cold mass longer.
-4. **Transfer high-risk perishables to a cooler if the outage will exceed 4 hours.**
-   - Pack meat, poultry, seafood, eggs, milk, and leftovers into a cooler with ice or frozen gel packs.
-   - Keep a thermometer in the cooler to ensure it stays at or below 40°F.
-5. **Monitor the 4-hour refrigerator window.**
-   - A closed refrigerator will keep food safe for roughly 4 hours without power.
-   - After 4 hours, discard meat, poultry, fish, soft cheeses, milk, eggs, and leftovers.
-6. **Evaluate the freezer based on capacity.**
-   - A full freezer will maintain its temperature for approximately 48 hours if unopened.
-   - A half-full freezer will maintain its temperature for approximately 24 hours if unopened.
-7. **Check for ice crystals before refreezing.**
-   - Once power returns, check each package; food that still contains ice crystals or is 40°F or below is generally safe to refreeze.
-8. **Isolate medications that require refrigeration.**
-   - Keep these in the closed fridge for as long as possible.
-   - If the power is out for more than one day, contact your pharmacist to determine if the medication is still potent.
-   - For life-sustaining medications, use the current supply only until a replacement can be obtained.
-9. **Document the incident for insurance or landlords.**
-   - Take photos of the appliance thermometer and the discarded food if you intend to file a claim for lost contents.
+1. **Close the doors and start a timer.** Write down when cooling stopped (or when the power went out).
+2. **Figure out whether it’s a power outage or appliance failure.**
+   - Check other lights/outlets, your breaker panel, and whether neighbors have power.
+3. **If it’s a power outage and it’s been under ~4 hours:**  
+   **Keep doors closed.** Avoid moving lots of food around unless something is already warming fast.
+4. **If it’s a power outage and it will be ~4+ hours (or you’re unsure):**
+   - If you have a **cooler and ice/frozen gel packs**, move **refrigerated perishables** (meat, poultry, seafood, eggs, leftovers, dairy, cut fruits/veg) into the cooler to keep them at **40°F or below**.
+5. **If it’s an appliance failure (power is on): move the highest-risk foods first (one quick opening).**
+   - Put perishables into a **cooler with plenty of ice**. Keep raw items sealed and separated from ready-to-eat foods.
+6. **Use temperatures if you have them (best option).**
+   - Refrigerator target: **40°F (4°C) or below**.
+   - Freezer target: **0°F (-18°C) or below**.
+7. **Freezer triage (don’t unpack it).**
+   - Keep the freezer door shut. As an estimate, a **full freezer** holds temperature about **48 hours**, and a **half-full freezer** about **24 hours**, if unopened.
+   - Frozen food can generally be refrozen if it **still has ice crystals** or is **40°F (4°C) or below** (quality may suffer).
+8. **If the refrigerator has been without power for ~4+ hours and you did not keep food cold:**  
+   Discard refrigerated perishables such as meat, poultry, fish, eggs, and leftovers.
+9. **If you rent, report the failure right away.**
+   - Use your landlord/property manager’s maintenance/emergency route and document your report (text/email if possible).
+10. **If you have medicines that require refrigeration:**
+   - Keep them in the closed fridge for now.
+   - If you think they warmed, **call your pharmacist** before using them.
 
 ## What can wait
-- You do not need to clean the interior of the appliance until the cooling issue is resolved.
-- You do not need to decide on a repair service or a new appliance in the first few hours.
-- You do not need to inventory low-risk items like condiments, hard cheeses, or fresh uncut fruits.
+- You do **not** need to inventory every item right now — focus on high-risk foods and anything already thawing.
+- You do **not** need to clean up or defrost immediately.
+- You do **not** need to decide on repair/replacement or reimbursement right now.
 
 ## Important reassurance
-It is common to feel a sense of urgency to "save" everything, but the safest action is often to keep the door shut and wait. Following the time and temperature rules provided by safety agencies is the most effective way to prevent foodborne illness.
+Most harm comes from repeated door opening or eating food that warmed too long. Keeping doors closed, using ice/coolers when needed, and making conservative discard decisions will prevent the main risks.
 
 ## Scope note
-This guide provides first-step stabilization for food safety during an appliance failure or power outage. It does not cover technical repairs or long-term insurance claim processing.
+These are first steps to reduce foodborne-illness risk and buy time. Later, you can decide what to salvage, handle cleanup, and arrange repairs/replacement.
 
 ## Important note
-This information is for safety stabilization and is not a substitute for professional medical or legal advice. Food safety depends on strict adherence to time and temperature thresholds. If you are unsure if a food item is safe, discard it. For concerns regarding specific refrigerated medications, always consult a pharmacist or healthcare provider.
+This is general information, not medical or legal advice. Food safety depends on time and temperature. When you can’t confirm safety for high-risk foods, it’s safer to discard them. For medicine storage concerns, follow pharmacist advice.
 
 ## Additional Resources
-- https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
 - https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage
-- https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts
-- https://www.foodsafety.gov/keep-food-safe/food-safety-in-disaster-or-emergency
-- https://www.foodsafety.gov/blog/winter-weather-food-safety
+- https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/emergencies/keep-your-food-safe-during-emergencies
+- https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
+- https://www.fda.gov/food/buy-store-serve-safe-food/food-and-water-safety-during-power-outages-and-floods

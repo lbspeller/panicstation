@@ -1,102 +1,91 @@
----
+﻿---
 title: "What to do if… your eVisa approval cannot be found online when you need to show it"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "evisa approval not showing"
-  - "cannot find evisa online"
-  - "help i cannot find my evisa"
-  - "what do i do if my evisa is missing"
-  - "what do i do if i cannot log in to ukvi"
-  - "help my evisa portal is not loading"
-  - "my evisa status is not found"
-  - "visa approval email missing"
-  - "visa grant notice missing"
-  - "visa pdf not downloaded"
-  - "visa reference number lost"
-  - "airline cannot verify visa"
-  - "check-in says visa not found"
-  - "border officer cannot see visa"
-  - "no record found ukvi"
-  - "ukvi account login error"
-  - "wrong document for evisa login"
-  - "digital immigration status error"
-  - "denied boarding uk visa"
-  - "carrier cannot see evisa"
-  - "brp expired evisa missing"
-  - "share code not working at airport"
-  - "evisa website error 2026"
-  - "portal down at airport"
-  - "phone has no signal abroad"
-  - "need to show evisa now"
-  - "forgot to screenshot visa approval"
-  - "travel document proof missing"
-  - "passport not linked to evisa"
-  - "update ukvi account failure"
-last_reviewed: "2026-03-17"
+  - evisa approval not showing
+  - cannot find evisa online
+  - visa approval email missing
+  - visa grant notice missing
+  - visa pdf not downloaded
+  - visa reference number lost
+  - airline cannot verify visa
+  - check-in says visa not found
+  - border officer cannot see visa
+  - visa portal not loading
+  - visa website error
+  - portal down at airport
+  - phone has no signal abroad
+  - need to show evisa now
+  - last minute visa proof issue
+  - forgot to screenshot visa approval
+  - travel document proof missing
+last_reviewed: "2026-03-07"
 ---
-# What to do if… your eVisa approval cannot be found online when you need to show it (UK)
 
+# What to do if… your eVisa approval cannot be found online when you need to show it (UK)
 ## Short answer
-Contact the **24/7 Passenger Support Helpline** at +44 (0)203 337 0927 and ask the carrier to contact the **Home Office Carrier Support Hub** for manual verification against your passport details.
+Switch to **offline proof** (approval email/PDF/screenshot/reference number) and ask for a **manual document check** at the airline desk or border checkpoint while you contact the issuing authority’s official support.
 
 ## Do not do these things
-- Do not start a brand-new visa application unless specifically instructed by a UKVI official.
-- Do not assume the system is down if your current passport fails; it may be linked to your old document.
-- Do not delete any "Decision Successful" or "Application Received" emails, even if they are old.
-- Do not hand your unlocked phone to staff; show documents on-screen while maintaining possession of the device.
-- Do not leave the check-in desk or boarding gate until you have requested a supervisor.
+- Do not start a brand-new application unless the issuing authority tells you to.
+- Do not hand your unlocked phone to strangers or let it out of your sight; show proof on-screen while you hold it.
+- Do not rely on airport Wi-Fi alone (portals can fail, be blocked, or time out).
+- Do not guess dates or reference numbers under pressure—read them from a note you’ve written.
+- Do not delete emails, files, or apps until you’re through the checkpoint.
 
 ## What to do now
-1. **Attempt login using your old passport or BRP details.**  
-   **The UKVI system often remains linked to the document used during the initial application rather than your current travel document.**  
-   - Try logging in to the "View and Prove" service using your expired Biometric Residence Permit (BRP) number.  
-   - Try logging in using your previous passport number if you have renewed it since the visa was granted.
+1. **Make a 60-second “ID bundle” note.**  
+   In your notes app, type: full name (as in passport), date of birth, passport number, nationality, destination country, intended arrival date, and any application/receipt/reference numbers you can find.
 
-2. **Locate your Unique Application Number (UAN) or Global Web Form (GWF) code.**  
-   **These identifiers allow officials to manually retrieve your record if the passport link fails.**  
-   - Search your email inbox and "Bin/Trash" folders for "UKVI," "Home Office," or "Visa Application."  
-   - Look for any PDF attachments titled "Decision Letter" or "Grant Letter."
+2. **Find the approval where it most often exists (email + attachments).**  
+   Search inbox + spam/junk for: “visa”, “eVisa”, “approval”, “approved”, “grant”, “application”, “reference”, destination country name, and any provider/portal name you recall.  
+   Open attachments and save them to your phone “Files” so they’re available offline.
 
-3. **Call the 24/7 Passenger Support Helpline immediately.**  
-   **This line is specifically for travellers experiencing digital status issues at the point of departure or entry.**  
-   - Call 0800 876 6921 (free from UK lines).  
-   - Call +44 (0)203 337 0927 (from outside the UK or mobile).  
-   - Provide your full name, date of birth, passport number, and UAN/GWF if found.
+3. **Try the portal again using the quickest “failure fixes.”**  
+   - Switch connection (mobile data ↔ Wi-Fi).  
+   - Turn off VPN temporarily.  
+   - Try a different browser or private/incognito mode.  
+   - Use “resend confirmation / retrieve application / check status” (if offered) instead of starting over.
 
-4. **Request the airline staff to use the Carrier Support Hub.**  
-   **Airlines have a dedicated Home Office channel to verify passengers whose digital status does not "match" at check-in.**  
-   - State clearly: "My digital status is not appearing. Please contact the Home Office Carrier Support Hub to verify my permission to travel manually."  
-   - Present any screenshot, email, or physical document that shows a successful decision.
+4. **Create offline proof you can show in seconds.**  
+   If you can see the approval email/page even briefly: screenshot the part showing your name + visa type + validity (if shown) + reference number. Save to offline storage and “favourite/star” it.
 
-5. **Verify your internet connection settings.**  
-   **Technical barriers frequently prevent the UKVI portal from loading in transit hubs.**  
-   - Disable any active VPN (Virtual Private Network).  
-   - Switch from airport Wi-Fi to cellular roaming data if possible.  
-   - Open a "Private" or "Incognito" window to bypass browser cache errors.
+5. **Go to the staffed check-in desk early and ask for a manual verification.**  
+   Say: “My eVisa approval isn’t loading right now. I have my passport details and [approval email/PDF/screenshot/reference]. Can you do a manual travel document check?”  
+   If helpful, ask them to run the check in their internal travel-document requirements system (many carriers use Timatic-based tools).
 
-6. **Gather evidence if boarding is denied.**  
-   **You will need documentation to seek a refund or file a technical error report later.**  
-   - Ask for a written statement from the carrier explaining why you were refused boarding.  
-   - Take a photo or screenshot of any "No Record Found" screen shown on the airline's terminal.
+6. **If you’re at the border and they can’t see it, ask for a supervisor and stick to identifiers.**  
+   Provide passport number + DOB + name exactly as shown in your passport, plus any reference number. Ask whether they can check using passport details and retrieve the record.
+
+7. **Contact the issuing authority with a specific request while you wait.**  
+   Use the destination country’s official eVisa help/status channel and send: your ID bundle (step 1) plus a clear request:  
+   “Please resend the approval/grant notice and confirm my approval status, including the details tied to my passport number. If carriers can verify it, please tell me the verification method.”
+
+8. **If you’re refused boarding, document it before you walk away.**  
+   Ask for the reason in writing (or a note in your booking), screenshot any error screens, and keep receipts for extra costs.
+
+9. **If you’re a British national and you’re stranded abroad, use UK consular contact routes.**  
+   If it’s urgent, call the FCDO (24/7) or contact the nearest British embassy/high commission/consulate. They can advise on options and support, but they generally cannot override another country’s immigration decision.
 
 ## What can wait
-- You do not need to update your UKVI account details (like your new photo or address) while at the gate.
-- You do not need to file a formal complaint against the Home Office until you have reached safety or returned home.
-- You do not need to decide on alternate travel routes or flight cancellations until the Passenger Support Helpline confirms they cannot resolve the link.
+- You do not need to decide right now whether to reapply, escalate legally, or pursue compensation.
+- You do not need to assemble every document—focus on **approval proof + identifiers + a manual check**.
+- You do not need to set up perfect backups until you’re through.
 
 ## Important reassurance
-Digital system failures are recognized by the Home Office, and many travellers encounter "no-match" errors due to document linking delays. Airline staff have procedures to contact the UK authorities directly; a "No Record Found" message on your phone does not mean your legal status has been revoked.
+Systems fail at the worst moments—portals go down, emails get buried, and airline checks can lag. Staying calm and giving staff consistent identifiers plus any offline proof is often what unlocks manual verification.
 
 ## Scope note
-This guide provides first-step stabilization for a travel document crisis. It does not cover long-term immigration appeals or legal challenges to visa revocations.
+These are first steps for the next minutes/hours at a desk, gate, or border. If you miss travel or are denied entry, the correct next steps depend on the destination country and the airline’s rules.
 
 ## Important note
-This is for general information and does not constitute legal advice. UK immigration rules and carrier requirements are subject to change. The primary authority for your status is the UK Home Office (UKVI).
+This is general information, not legal advice. eVisa rules and carrier verification requirements vary by country and can change; use the issuing authority’s official status/support route and your carrier’s document-check process as the primary references.
 
 ## Additional Resources
-- https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status
-- https://www.gov.uk/evisa/report-error-evisa
-- https://www.gov.uk/evisa/update-ukvi-account
-- https://www.gov.uk/evisa/travel-with-evisa
-- https://www.citizensadvice.org.uk/immigration/online-immigration-status/getting-an-online-immigration-status-evisa/
+- https://www.gov.uk/government/collections/support-for-british-nationals-abroad
+- https://www.gov.uk/guidance/contact-the-fcdo
+- https://www.gov.uk/guidance/consular-assistance-how-the-foreign-commonwealth-development-office-provides-support
+- https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas
+- https://www.iata.org/en/services/compliance/timatic/travel-documentation/
+- https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport

@@ -1,93 +1,85 @@
----
+﻿---
 title: "What to do if… a government agency contacts you demanding information and you are unsure what you must provide"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - "government agency demanding information"
-  - "federal agency information demand help"
-  - "state agency requesting documents now"
-  - "what do i do if government demands info"
-  - "what do i do if i get a subpoena"
-  - "what do i do if an agent calls me"
-  - "what do i do if the irs demands money"
-  - "help i received an administrative subpoena"
-  - "help i received a civil investigative demand"
-  - "help i got a summons from the government"
-  - "my records are being requested by agency"
-  - "my business received a government demand"
-  - "unsure what information to provide agency"
-  - "official letter demanding private data"
-  - "verify government caller authenticity 2026"
-  - "type don't tap agency verification"
-  - "smell of scam vs official contact"
-  - "visible agency seal on letter"
-  - "hearing a recording about an arrest warrant"
-  - "government agency demand confusion"
-  - "official request for information deadline"
-  - "compelled disclosure vs voluntary cooperation"
-  - "how to verify federal investigator 2026"
-  - "irs dirty dozen scam 2026"
-  - "agency demand for private information"
-  - "demanding information agency contact"
-  - "government information request help"
-  - "official demand for data USA"
-  - "legal hold for government demand"
-  - "records preservation for federal agency"
-last_reviewed: "2026-03-17"
+  - government agency demanding information
+  - federal agency contacting me
+  - state agency requesting documents
+  - subpoena received panic
+  - administrative subpoena questions
+  - unsure what i must provide
+  - verify government caller
+  - scam pretending to be irs
+  - letter from agency requesting info
+  - asked to answer investigators
+  - law enforcement wants an interview
+  - asked to provide records to government
+  - request for information deadline
+  - compelled disclosure confusion
+  - privacy act rights
+  - information request authenticity check
+  - should i talk to agents
+  - government email asking for data
+  - official letter demanding documents
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… a government agency contacts you demanding information and you are unsure what you must provide (USA)
 
 ## Short answer
-End the interaction immediately to verify the request through an official, independently found .gov channel. Do not provide any data until you have a written demand and have confirmed whether the request is voluntary or legally compulsory.
+Stop and verify the request using independently found official contact details. Then insist on a written demand (like a subpoena, summons, or court order) before you provide information—especially if law enforcement is involved.
 
 ## Do not do these things
-- Do not answer questions or "clarify" your situation over the phone during an unexpected call.
-- Do not click links or open attachments in emails claiming to be from an agency; use "Type, don't tap" by manually entering the official URL.
-- Do not provide passwords, two-factor codes, or payment in any form, including gift cards or wire transfers.
-- Do not delete, alter, or "clean up" any records or emails related to the request once you are aware of it.
-- Do not assume a "spoofed" caller ID or an official-looking logo proves the request is legitimate.
+- Do not answer detailed questions “just to be helpful” if you don’t understand whether it’s voluntary or compulsory.
+- Do not click links, open attachments, or call back numbers from unexpected messages—verify via official agency websites and main phone lines.
+- Do not give passwords, one-time codes, payment gift cards, or remote access to your device/account.
+- Once you’ve verified a **formal** demand, do not delete or “clean up” records related to it—pause any deletions that could affect what was requested.
+- Do not ignore a verified subpoena/summons/order—deadlines matter, but you can often ask for clarification or seek legal help quickly.
 
 ## What to do now
-1. **Create a safer pause and disengage.** If you are on a call or in person, state: "I am not prepared to discuss this right now. Please send your request to me in writing via official mail or a secure government portal." End the communication.
-2. **Verify the agency and the contact person independently.** 
-   - Search for the agency’s official website ending in .gov.
-   - Call the agency’s primary, publicly listed phone number found on the .gov site—not a number provided in the message or on caller ID.
-   - Ask the main operator to verify the employee’s name and office.
-3. **Classify the type of demand.** Ask for the specific legal authority cited in the written request to determine if it is:
-   - **Voluntary:** You are under no legal obligation to respond and can decline.
-   - **Administrative Subpoena / CID:** A formal agency demand (Civil Investigative Demand) that is legally binding but usually allows for a period of time to respond.
-   - **Judicial Subpoena / Court Order:** A demand issued or approved by a court which requires strict compliance.
-   - **Summons:** Often used by the IRS or other tax authorities; requires specific actions by a set date.
-4. **Issue a legal hold on all relevant data.** **Immediately notify relevant staff or family members to stop all routine deletion of emails, files, or physical documents that may relate to the request.**
-   - This prevents "spoliation of evidence," which can carry severe penalties even if you did nothing else wrong.
-5. **Check for 2026-specific scam indicators.** 
-   - Verify if the outreach matches the 2026 IRS "Dirty Dozen" scam list or the FTC's current alerts for AI-generated voice mimicry scams.
-   - Check if the agency requires identity verification through a 2026-standard portal (like ID.me for federal services) before you share information.
-6. **Limit the scope of any initial response.** If the request is verified as compulsory, ask for:
-   - A specific list of required items.
-   - The exact deadline for production.
-   - The name of the specific statute or regulation that compels the disclosure.
-7. **Document every contact attempt.** **Create a log including the date, time, name of the person contacting you, their claimed agency, the information requested, and the official number you used to verify them.**
-8. **Contact a lawyer if the demand is compulsory.** If you have been served with a subpoena, CID, or summons, professional legal advice is necessary to protect your rights, negotiate the scope, and ensure you do not over-disclose or miss deadlines.
+1. **Create a safer pause.** If this is a call or an in-person visit, it’s okay to say: “I’m not able to discuss this right now. Please provide the request in writing.” Then end the interaction calmly.
+2. **Verify identity independently.**
+   - Use official agency contact information you find yourself (agency .gov site for federal agencies; official state/local sites for others). Don’t rely on the number/email in the message.
+   - Treat pressure, threats, secrecy demands, or “act now” language as major red flags until verified.
+3. **Ask one key question to classify it:**  
+   “Is this voluntary, or am I required to provide this information? If required, what is the written authority—subpoena, summons, administrative demand, or court order?”
+4. **Require the request in writing and identify the “type.”**
+   - **Interview / questions from agents:** you can decline to answer and ask to speak with an attorney before any interview.
+   - **Subpoena / administrative subpoena / civil investigative demand (CID):** lists what must be produced and by when.
+   - **Summons (including tax-related):** treat as a formal demand.
+   If it isn’t clearly one of these: treat it as **unclear** and don’t provide information yet.
+5. **Verify the document without using their contact info.**
+   - If it lists a court, look up the court’s official number and ask the clerk how to confirm a subpoena/order (and the correct way to respond).
+   - If it’s from an agency, call the agency’s publicly listed main line and ask to confirm the reference/case number and the secure method to respond.
+6. **Limit what you share until scope is clear.** Even with a real agency, ask for:
+   - the minimum information required (exact items),
+   - the deadline and where it comes from (document section/page),
+   - secure delivery instructions (portal/address from an official site, not a link in an email).
+7. **Preserve relevant records and get help fast if it’s compulsory.**
+   - Keep emails, letters, and related files/messages.
+   - If you’re unsure what you must provide (or it affects your rights or business), contact an attorney promptly so you don’t miss deadlines or over-disclose.
+8. **Keep a basic paper trail.** Write down: date/time, names, agency, what was requested, deadline, and how you verified (official site/number used). Keep copies/screenshots.
+9. **If it’s tax-related, use IRS scam verification/reporting steps.** If you receive suspicious IRS-related messages or calls, don’t engage—verify through official IRS channels and report as directed.
 
 ## What can wait
-- You do not need to determine if you are "guilty" of anything today; focus only on the validity of the request.
-- You do not need to provide a narrative or explain your actions during the first contact.
-- You do not need to decide whether to comply with a voluntary request right now.
-- You do not need to produce documents the same day they are requested unless there is a verified, immediate court-ordered warrant (which is different from a subpoena).
+- You do not need to decide whether the agency is “right” today—first determine whether the request is real and legally compulsory.
+- You do not need to provide a narrative or “explain everything” right now—start with verification and written scope.
+- You do not need to produce documents during a live call—wait for written instructions and a secure delivery method.
 
 ## Important reassurance
-It is normal to feel a sudden surge of pressure, a rapid heart rate, or an urge to comply immediately when a government entity contacts you. This "urgency" is often a tactic used by scammers and a byproduct of legitimate official outreach. Slowing down to verify the source is a standard, protective procedure that legitimate officials will respect.
+Feeling intimidated or rushed is common when someone uses official language, deadlines, or threats. Scams rely on that pressure, and legitimate requests can still be confusing. Slowing down to verify and get it in writing is a protective response.
 
 ## Scope note
-This guide covers first-step stabilization only. It is intended to prevent identity theft and accidental waiver of legal rights. It does not replace legal counsel for responding to complex litigation or investigations.
+This is first steps only, meant to prevent irreversible mistakes and buy time. The correct response depends on whether the request is voluntary, administrative, or court-backed, and which agency is involved.
 
 ## Important note
-This information is not legal advice. If you are the subject of a federal or state investigation, or have received a formal demand for records, you should consult with an attorney to understand your specific obligations and protections under the law.
+This guide is general information, not legal advice. If you have been served with (or believe you may be served with) a subpoena, summons, CID, or court order—or if law enforcement wants an interview—consider getting legal advice promptly before responding.
 
 ## Additional Resources
-- https://consumer.ftc.gov/articles/how-avoid-government-impersonation-scam
-- https://www.usa.gov/imposter-scams
-- https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter
-- https://www.census.gov/programs-surveys/acs/about/top-questions-about-the-survey.html
-- https://www.ftc.gov/business-guidance/blog/2019/03/ftc-takes-its-subpoenas-cids-seriously-you-should-too
+- https://consumer.ftc.gov/node/77473
+- https://consumer.ftc.gov/articles/phone-scams
+- https://www.irs.gov/help/report-fraud/report-fake-irs-treasury-or-tax-related-emails-and-messages
+- https://www.irs.gov/help/tax-scams/recognize-tax-scams-and-fraud
+- https://www.justice.gov/opcl/privacy-act-1974
+- https://www.illinoislegalaid.org/legal-information/i-received-subpoena-and-dont-know-what-do

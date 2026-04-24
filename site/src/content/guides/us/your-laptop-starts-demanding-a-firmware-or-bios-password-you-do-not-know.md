@@ -1,91 +1,80 @@
----
+﻿---
 title: "What to do if… your laptop starts demanding a firmware or BIOS password you do not know"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "unauthorized number port request"
-  - "pending mobile transfer scam"
-  - "phone number hijacking alert"
-  - "sim swap fraud"
-  - "unauthorized carrier transfer"
-  - "mobile account takeover"
-  - "port-out scam"
-  - "what do i do if my phone number is being transferred"
-  - "what do i do if i get a port request text"
-  - "what do i do if my mobile number is stolen"
-  - "what do i do if there is a pending transfer on my account"
-  - "help i did not request a number transfer"
-  - "help i have a pending port alert"
-  - "help my cell service stopped working"
-  - "help my phone number was ported out"
-  - "my service says emergency calls only"
-  - "my texts are not arriving"
-  - "no service alert on iphone"
-  - "no signal on android suddenly"
-  - "smell of fraud mobile account"
-  - "visible pending transfer notification"
-  - "phone number lock not working"
-  - "unauthorized transfer pin"
-  - "carrier security breach"
-  - "number porting mistake"
-  - "fraudulent mobile port"
-  - "stolen mobile identity"
-  - "mobile number theft"
-  - "cellular account compromise"
-  - "unauthorized device on plan"
-  - "fraudulent line addition"
-  - "bank codes intercepted"
-  - "mfa bypass mobile port"
-last_reviewed: "2026-03-17"
+  - bios password prompt
+  - uefi password prompt
+  - firmware password unknown
+  - startup password appeared
+  - power-on password suddenly
+  - admin password at boot
+  - supervisor password unknown
+  - hdd password prompt
+  - ssd password prompt
+  - laptop asks for password before windows
+  - stuck at bios password screen
+  - can’t enter bios setup
+  - locked out of boot menu
+  - after bios update password request
+  - after repair password request
+  - used laptop bios locked
+  - employer laptop firmware lock
+  - school laptop bios lock
+  - bitlocker recovery risk
+  - worried about data loss
+last_reviewed: "2026-03-08"
 ---
-# What to do if… your laptop starts demanding a firmware or BIOS password you do not know (USA)
 
+# What to do if… your laptop starts demanding a firmware or BIOS password you do not know (USA)
 ## Short answer
-Contact your wireless carrier immediately through an official support channel to cancel the pending transfer and place a permanent "Number Lock" or "Port Freeze" on your account.
+Stop guessing and treat it like a security lockout. Protect your data (if you still can) and then use an official, authorized route (IT admin, seller/retailer, or manufacturer support).
 
 ## Do not do these things
-- Do not click links or call numbers provided in the transfer alert message.
-- Do not provide account PINs, transfer codes, or verification numbers to anyone who calls or texts you claiming to be from the carrier.
-- Do not wait to see if the alert was a mistake or a system glitch.
-- Do not use SMS-based two-factor authentication for financial accounts until the carrier confirms your line is secured.
-- Do not delete the original transfer notification or any "No Service" alerts.
+- Don’t keep trying random passwords—some systems impose lockouts or additional restrictions after repeated failures.
+- Don’t use “BIOS unlock” generators, paid bypass tools, or forum workarounds—these are often scams, can damage firmware, and can be illegal if you’re not clearly authorized to access the device.
+- Don’t disassemble the laptop or attempt hardware “clears” unless an authorized service provider instructs you—this can cause damage and complicate warranty/service.
+- Don’t change firmware security/boot settings (if you still have access) when drive encryption is enabled—you may trigger a recovery-key prompt you can’t satisfy.
 
 ## What to do now
-1. **Call your wireless carrier’s official fraud or porting department immediately.**  
-   **Use the official customer service number from your bill or the carrier’s verified website (e.g., 611 from a working line or their 1-800 support line).** Explicitly state: “I am reporting an unauthorized port-out request. Stop the transfer immediately and lock my number.”
-2. **Require the representative to apply a "Number Lock" or "Port Freeze" to all lines.**  
-   **Under FCC rules, carriers must provide these account-level blocks at no cost to prevent unauthorized transfers.** Confirm that any pending transfer PINs are canceled and that a new, complex account PIN is established for your identity verification.
-3. **Visit a corporate-owned carrier retail store if you cannot resolve the issue by phone.**  
-   **Bring a valid government-issued photo ID to prove your identity in person.** This is the most effective way to regain control if a scammer has already changed your account passwords or security questions.
-4. **Update the security settings on your primary email account.**  
-   **Change your password and remove your mobile number as a recovery method or two-factor authentication (2FA) option.** Use an authenticator app, a physical security key, or a passkey instead of SMS, as scammers use ported numbers to intercept email reset codes.
-5. **Notify your bank and financial institutions of a potential SIM swap or port-out attack.**  
-   **Ask them to place a temporary fraud alert on your profiles and to disable SMS-based verification for logins and wire transfers.** Review your recent transaction history for any unauthorized changes to payees or contact information.
-6. **File an official identity theft report with the Federal Trade Commission (FTC).**  
-   **Go to IdentityTheft.gov to document the unauthorized transfer and receive a personalized recovery plan.** This report provides legal protections and helps you dispute any fraudulent activity that results from the number theft.
-7. **Submit a complaint to the FCC Consumer Complaint Center.**  
-   **Select the "Phone" category and specify "Number Porting" as the issue.** This creates a regulatory record of the event and requires the carrier to respond to the FCC regarding how the unauthorized request was handled.
-8. **Document the timeline of the incident for your records.**  
-   **Save screenshots of the initial transfer alert and note the exact time your service was interrupted or restored.** Keep a log of your interactions with carrier representatives, including names and case numbers.
+1. **Capture exactly what’s on the screen.**  
+   Take a photo of the prompt wording and any code/message shown. Note the make/model and serial/service tag from the case.
+2. **Make one deliberate attempt to remember the real password—then stop.**  
+   Think: workplace/school IT, a repair/refurb provider, a family member, or a password manager entry. If you’re guessing, stop.
+3. **Identify what kind of password request it is (this changes the solution).**  
+   - **BIOS/UEFI/Setup/Admin/Supervisor/Power-on** password: locks firmware or boot access.  
+   - **HDD/SSD password**: can be a drive-level lock; moving the drive to another computer may not help.
+4. **If you can still boot into your OS, back up immediately.**  
+   Copy essential files to an external drive or cloud. If Windows device encryption/BitLocker is on, confirm you can access the recovery key (for example via your Microsoft account, or via your work/school account portal if the device is managed) before you change anything firmware-related.
+5. **If it’s a work/school/managed device: contact IT first.**  
+   Firmware passwords are commonly set by endpoint management policies. IT can confirm and handle it through authorized procedures.
+6. **If it’s your personal device: contact the manufacturer’s official support and be ready to verify ownership.**  
+   Many manufacturers require proof-of-ownership and may request the on-screen code. Use official support channels and avoid third-party services.
+7. **If you bought it used/refurbished and it’s locked: contact the seller/platform right away.**  
+   Request a return/refund as “not as described” (or equivalent). Save screenshots of the listing and your photo of the lock screen.
+8. **If the seller stalls and you paid by card, consider a written billing dispute quickly (don’t do this while panicking).**  
+   Keep a short timeline and copies of messages. Federal rules for billing error disputes can require you to notify the card issuer in writing within a limited window (commonly **60 days** from the first statement with the problem charge). If you’re within that window, follow your card issuer’s dispute instructions and keep proof of what you sent.
+9. **If you suspect fraud or a scam sale, report it (optional, but can help).**  
+   You can report scams/bad business practices through the Federal Trade Commission’s reporting site, and you can also use government complaint portals for seller disputes.
 
 ## What can wait
-- You do not need to identify the specific person who initiated the transfer before taking action to stop it.
-- You do not need to replace your physical device or SIM card unless the carrier confirms the hardware itself was compromised.
-- You do not need to change passwords for every minor app or social media account immediately; prioritize email and banking.
-- You do not need to hire a private investigator or cybersecurity firm to trace the request.
+- You don’t need to decide now whether to pay for a board replacement or a new laptop.
+- You don’t need to try any “reset” steps yourself today.
+- You don’t need to change encryption/security settings until you’ve secured backups and located any recovery keys.
 
 ## Important reassurance
-Unauthorized port-out attempts are a recognized form of fraud, and US carriers have established protocols to stop pending transfers when notified quickly. Receiving an alert means the system's notification safeguards worked, providing you a window of time to prevent the transfer from completing.
+A sudden firmware password prompt is alarming, but it often traces back to device management, a refurbishment/repair error, or a used-device issue. The safest path is to slow down, protect your data, and rely on official verification and support channels.
 
 ## Scope note
-This guide provides first-step stabilization for an active, unauthorized number transfer request. It does not cover long-term credit repair or forensic device analysis.
+This guide covers first steps to prevent data loss and avoid irreversible mistakes. Later steps may involve warranty service, authorized repair, or a seller dispute process.
 
 ## Important note
-This information is provided for general guidance and does not constitute legal or financial advice. Implementation of security features like "Number Lock" or "Port Freeze" varies by carrier; always ask the carrier to confirm which specific protections are active on your account. If financial loss has already occurred, you must contact local law enforcement to file a criminal report.
+This is general information, not a guarantee of access or repair outcome. Some firmware and drive locks are intentionally designed to resist bypassing; the appropriate path is proof-of-ownership support or returning the device. If you can’t clearly establish you’re authorized to access this laptop, stop and resolve authorization/ownership first.
 
 ## Additional Resources
-- https://www.dell.com/support/kbdoc/en-us/000140298/dell-support-for-lost-bios-password
-- https://support.lenovo.com/us/en/solutions/ht036206
-- https://www.asus.com/us/support/faq/1046347/
-- https://community.acer.com/en/kb/articles/4158-remove-a-bios-password
-- https://support.microsoft.com/en-us/surface/startup/forgot-uefi-password-for-surface
+- https://www.dell.com/support/kbdoc/en-us/000131024/how-to-clear-the-bios-password
+- https://support.apple.com/en-us/102384
+- https://support.microsoft.com/en-us/windows/find-your-bitlocker-recovery-key-6b71ad27-0b89-ea08-f143-056f5ab347d6
+- https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges
+- https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-a-charge-on-my-credit-card-bill-en-61/
+- https://reportfraud.ftc.gov/

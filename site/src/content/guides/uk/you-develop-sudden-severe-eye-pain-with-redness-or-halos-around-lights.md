@@ -1,87 +1,81 @@
----
+﻿---
 title: "What to do if… you develop sudden severe eye pain with redness or halos around lights"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "sudden severe eye pain"
-  - "painful red eye suddenly"
-  - "halos around lights"
-  - "rainbow rings around lights"
-  - "sudden blurry vision"
-  - "one eye pain and redness"
-  - "eye pain with headache"
-  - "eye pain with nausea"
-  - "eye pain with vomiting"
-  - "light sensitivity eye pain"
-  - "acute glaucoma symptoms"
-  - "acute angle closure symptoms"
-  - "eye pressure attack"
-  - "sudden vision change"
-  - "contact lens painful red eye"
-  - "eye pain at night"
-  - "eye pain after dark room"
-  - "stabbing eye pain redness"
-  - "severe red eye emergency"
-  - "what do i do if my eye hurts suddenly"
-  - "what do i do if i see halos around lights"
-  - "what do i do if eye is red and painful"
-  - "what do i do if eye pain makes me sick"
-  - "help i have sudden eye pain"
-  - "help i see rainbow rings"
-  - "help my eye is red and stabbing"
-  - "help i am vomiting from eye pain"
-  - "cloudy vision with eye pain"
-  - "hard eyeball feeling"
-  - "fixed pupil eye pain"
-  - "emergency eye care uk"
-  - "a and e for eye pain"
-  - "sight loss prevention"
-  - "acute ocular hypertension"
-  - "painful eye after dilation"
-last_reviewed: "2026-03-16"
+  - sudden severe eye pain
+  - painful red eye suddenly
+  - halos around lights
+  - rainbow rings around lights
+  - sudden blurry vision
+  - one eye pain and redness
+  - eye pain with headache
+  - eye pain with nausea
+  - eye pain with vomiting
+  - light sensitivity eye pain
+  - acute glaucoma symptoms
+  - acute angle closure symptoms
+  - eye pressure attack
+  - sudden vision change
+  - contact lens painful red eye
+  - eye pain at night
+  - eye pain after dark room
+  - stabbing eye pain redness
+  - severe red eye emergency
+last_reviewed: "2026-01-21"
 ---
+
 # What to do if… you develop sudden severe eye pain with redness or halos around lights (UK)
 
 ## Short answer
-Go to your nearest Accident and Emergency (A&E) department or a specialist Eye Casualty immediately. This is a medical emergency that can cause permanent sight loss within hours if not treated.
+Treat this as an emergency eye problem and get seen urgently today—**go to A&E now**. If you cannot get there safely, **call 999**.
 
 ## Do not do these things
-- Do not wait for a GP or routine optician appointment.
-- Do not drive yourself to the hospital as your vision may worsen or you may be given dilating drops that make driving unsafe.
-- Do not eat or drink anything until you have been seen by a doctor, in case emergency surgery is required.
-- Do not keep wearing contact lenses or attempt to reinsert them.
-- Do not use any eye drops, including "redness relief" or leftover prescription drops, unless specifically instructed by a medical professional during this episode.
-- Do not rub, press, or apply a patch to the eye.
-- Do not assume the symptoms will pass after sleeping; dark environments can worsen the underlying cause (angle-closure).
+- Do not “sleep it off” or wait for a next-day appointment if the pain is severe or your vision is affected.
+- Do not drive yourself if your vision is blurred, you’re seeing halos, or you feel unwell.
+- Do not keep wearing contact lenses, and do not put the lens back in “to see if it helps”.
+- Do not use leftover prescription eye drops (especially steroid drops) or anyone else’s drops.
+- Do not patch/tape the eye closed or press on the eye.
+- Do not rub the eye, even if it feels gritty or watery.
+- Do not delay urgent care to experiment with drops; if you normally can take simple pain relief (for example paracetamol) you can do so, but **only if it’s safe for you and it doesn’t slow you down**.
 
 ## What to do now
-1. **Go straight to the nearest A&E or Eye Casualty department.** Severe eye pain combined with redness and halos is a primary indicator of acute glaucoma, which requires immediate pressure-lowering treatment to save your sight.
-2. **Call 999 if you cannot travel safely or if you experience a total loss of vision.** Use emergency services if you are alone, unable to find transport, or if the pain is so severe you are unable to walk or communicate clearly.
-3. **Bring all current medications and any eye drop bottles with you.** Clinicians need to know if you are taking medications that affect eye pressure or if you have recently used steroid drops.
-4. **Remove contact lenses immediately if it is safe and easy to do so.** Use clean hands, place the lenses in a case, and bring them with you to the hospital for possible culture testing if an infection is suspected.
-5. **Inform the triage nurse immediately if you have had eye surgery or injections in the last six weeks.** Recent procedures increase the risk of serious complications like endophthalmitis, which requires a different emergency protocol.
-6. **State your symptoms using specific terminology at the front desk.** Use the phrase: "I have sudden, severe eye pain, a red eye, and I am seeing halos around lights." Mention if you also feel nauseous or have a headache.
-7. **Rinse the eye for 20 minutes with clean running water only if a chemical splash is suspected.** If there is any chance a substance entered the eye, begin irrigation immediately while someone else calls for transport or an ambulance.
-8. **Wear sunglasses if you are experiencing extreme light sensitivity.** This may make the journey to the hospital more tolerable without requiring you to close or patch the eye.
+1. **Go to A&E now.**  
+   Severe eye pain with a red eye plus halos/blurred vision needs urgent assessment.
+2. **If you know you have an NHS Emergency Eye Department / Eye Casualty that is open and appropriate for you, you can use it.**  
+   Some services have limited hours, eligibility rules, or require telephone triage first. **If you’re unsure, go to A&E.**
+3. **Call 999 if you can’t get there safely or you’re rapidly worsening.**  
+   Call 999 if you have sudden significant vision loss, severe headache with nausea/vomiting, confusion, collapse/fainting, or no safe way to travel.
+4. **If you’re unsure where to go and it won’t delay you, use NHS 111 for routing.**  
+   If someone else is with you, they can call while you get ready or while you’re en route as a passenger. If you’re alone and symptoms are severe, **leave for A&E first**.
+5. **Make the trip safer and faster.**  
+   - Ask someone to take you, use a taxi, or use an ambulance if needed.  
+   - Keep lights low if it’s more comfortable; wear sunglasses if that helps you keep the eye open.
+6. **Remove contact lenses and bring key items.**  
+   - Remove the lens (if you can do so easily). Bring your glasses, lens case, and any lens solution.  
+   - Bring a list of your medicines (or the boxes), any eye drops you’ve used, and note **when symptoms started**.
+7. **Say the key symptoms clearly at triage.**  
+   Say: “**Sudden severe eye pain** with a **red eye** and **halos around lights**,” plus any **blurred vision, headache, nausea, or vomiting**.
+8. **If a chemical splash is even a possibility, rinse immediately and go to A&E.**  
+   Start rinsing straight away with clean lukewarm running water (or sterile saline if available). Keep rinsing while you arrange emergency care; remove contact lenses during rinsing if easy.
 
 ## What can wait
-- You do not need to identify the specific medical cause of the pain yourself.
-- You do not need to contact your regular optician before heading to the hospital.
-- You do not need to worry about the cost of emergency care, as NHS A&E and Eye Casualty services are free at the point of use for emergencies.
-- You do not need to provide a detailed long-term medical history immediately; focus on when these specific symptoms started.
+- You do not need to figure out the cause (several conditions can look similar but need different treatment).
+- You do not need to decide about tests, drops, or procedures right now—focus on being seen urgently.
+- You do not need a perfect timeline; just note the start time and what changed (pain, redness, halos, blur, headache, nausea).
 
 ## Important reassurance
-It is normal to feel significant panic or physical distress when vision changes occur suddenly. These symptoms are recognized as a high-priority emergency by the NHS, and staff are trained to act quickly to reduce eye pressure and manage pain. Most people who receive prompt treatment for acute eye pressure spikes retain their vision.
+These symptoms can feel frightening and disorienting. Getting urgent care is the safest move because some serious eye problems are most treatable when treated quickly. You’re not overreacting by going to A&E.
 
 ## Scope note
-This guide is for first-step stabilization and emergency routing only. It does not replace clinical diagnosis or the need for an in-person ophthalmic examination.
+This guide covers first steps to reduce risk and get you to the right urgent care. Follow-up treatment depends on what clinicians find.
 
 ## Important note
-Sudden severe eye pain associated with halos and nausea is often a sign of acute angle-closure glaucoma, a condition where internal eye pressure rises to dangerous levels. Delaying treatment can result in irreversible optic nerve damage. Seek professional medical help immediately.
+This is general first-step information, not a diagnosis. If you have sudden severe eye pain, halos around lights, or any change in vision, seek urgent in-person care immediately.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/glaucoma/
-- https://www.nhs.uk/conditions/uveitis/
-- https://www.somersetft.nhs.uk/ophthalmology-eyes/sample-page/ophthalmology-specialties/glaucoma/
-- https://dchft.nhs.uk/leaflets/angle-closure-glaucoma-and-laser-iridotomy/
-- https://www.wsh.nhs.uk/CMS-Documents/Patient-leaflets/EyeTreatmentCentre/6362-1-Glaucoma-laser-treatment-for-angle-closure-glaucoma.pdf
+- https://www.nhs.uk/symptoms/red-eye/
+- https://www.moorfields.nhs.uk/for-patients/information-hub/narrow-angles
+- https://www.uhleicester.nhs.uk/services/ophthalmology/eye-emergency-service-eye-casualty/
+- https://www.guysandstthomas.nhs.uk/health-information/advice-after-receiving-your-dilation-eye-drops

@@ -1,92 +1,82 @@
----
+﻿---
 title: "What to do if… you get an alert that a new passkey was added to an account you use"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "new passkey alert"
-  - "passkey added notification"
-  - "unexpected passkey"
-  - "unknown passkey added"
-  - "account security alert"
-  - "suspicious sign-in alert"
-  - "someone added a passkey"
-  - "passkey i didn’t add"
-  - "account takeover warning"
-  - "hacked account concern"
-  - "sudden security settings change"
-  - "new device added to account"
-  - "sign-in method changed"
-  - "passwordless sign-in alert"
-  - "authentication method changed"
-  - "recovery details changed"
-  - "what do i do if i get a passkey alert"
-  - "what do i do if someone added a passkey"
-  - "what do i do if my account was changed"
-  - "what do i do if my security settings changed"
-  - "help i got a passkey notification"
-  - "help i didn't add a passkey"
-  - "help my account has a new passkey"
-  - "help someone is in my account"
-  - "unrecognised passkey device"
-  - "security method updated email"
-  - "new login method detected"
-  - "strange passkey alert"
-  - "passkey alert on phone"
-  - "security settings alert"
-last_reviewed: "2026-03-17"
+  - new passkey alert
+  - passkey added notification
+  - unexpected passkey
+  - unknown passkey added
+  - account security alert
+  - suspicious sign-in alert
+  - someone added a passkey
+  - passkey i didn’t add
+  - account takeover warning
+  - hacked account concern
+  - sudden security settings change
+  - new device added to account
+  - sign-in method changed
+  - passwordless sign-in alert
+  - authentication method changed
+  - recovery details changed
+  - email account compromise risk
+  - banking app passkey alert
+  - passkey on shared device
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… you get an alert that a new passkey was added to an account you use (UK)
 
 ## Short answer
-Treat the notification as a potential account takeover; access the account security settings directly through a known official app or URL (avoiding the alert links) to remove the unauthorised passkey and terminate all other active sessions.
+Treat it as possible account takeover: go directly to the account’s security settings (not via the alert) and remove the new passkey, then sign out other sessions and secure your recovery options.
 
 ## Do not do these things
-- Don’t click links or buttons within the alert email, text, or push notification — these may lead to sophisticated phishing sites designed to capture your remaining credentials.
-- Don’t ignore the alert because you think "passkeys are unhackable" — while the passkey itself is secure, your account settings could have been compromised via a different method.
-- Don’t delete the alert message yet — the timestamp, device type, or location metadata in the alert may be needed for later reporting.
-- Don’t assume changing just the password is enough — if an attacker's passkey remains on the account, they can continue to sign in without your new password.
-- Don’t wait until the morning to check if the account is sensitive (e.g., banking or primary email) — speed reduces the window for data or financial theft.
+- Don’t tap links in the alert email/text/push to “fix it” — go to the service by typing the address or using the official app.
+- Don’t assume “passkeys mean it’s safe so it can’t be hacked” — settings can still be changed if someone got in.
+- Don’t delete the alert or clear notifications before you’ve checked what changed (you may need details like time/device).
+- Don’t keep using the account (especially for payments/messages) until you’ve locked it down.
+- Don’t reuse an old password “because it’s quick” if you have to reset one.
 
 ## What to do now
-1. **Access the account immediately using a trusted method rather than the alert link.**  
-   Open your browser and type the service address manually, or use the official mobile app you already have installed.
-2. **Navigate to the security or sign-in settings to find the list of passkeys.**  
-   Look for sections titled **Security**, **Sign-in methods**, **Passkeys**, or **Manage Devices**.
-3. **Delete any passkey or device that you do not explicitly recognise.**  
-   Check the "added on" date and the device name; if it matches the time of the alert and you were not active, remove it immediately.
-4. **Force the account to sign out of all other active sessions and devices.**  
-   Use the **Sign out of all sessions** or **Log out everywhere** feature to ensure the attacker’s current connection is severed.
-5. **Review and correct your account recovery information.**  
-   Check that the recovery email, phone number, and backup codes have not been changed to details belonging to the attacker.
-   - Look for email forwarding rules or filters that may be hiding security alerts or sending copies of your mail to an external address.
-   - Check the "Deleted Items" or "Archive" folders for any security notifications you didn't see.
-6. **Update your account password if the service still allows password-based login.**  
-   Create a strong, unique password that you do not use for any other service.
-7. **Secure your primary email account if it is linked to the compromised service.**  
-   If an attacker has access to your email, they can likely bypass other security measures; repeat steps 1–6 for your email provider immediately.
-8. **Contact your organisation's IT or security department if this is a work or school account.**  
-   Use your internal reporting procedure or call the helpdesk to report a suspected credential compromise.
-9. **Lock or freeze any financial accounts if the compromised service is linked to payments.**  
-   If the account is for banking, shopping, or crypto, use the provider's app to "freeze" cards or accounts, then call the number on the back of your bank card.
+1. **Pause and verify the alert is real (without clicking anything in it).**  
+   Open the service by typing the web address yourself or using the official app, then go to **Security / Sign-in methods / Passkeys**.
+2. **Remove the passkey you don’t recognise.**  
+   If the screen shows a list of passkeys or “devices that can sign in”, remove anything you didn’t add or don’t recognise.
+3. **Sign out other sessions / devices right away.**  
+   Look for “Sign out of all devices”, “Log out of other sessions”, or a device/session list. End anything unfamiliar.
+4. **Secure the account’s recovery routes (to prevent a quick re-takeover).**  
+   If you can access settings, check and correct: recovery email address, phone number, backup codes, trusted devices, and any “account recovery” options. Also check for **filters/forwarding rules** that send copies of emails elsewhere or hide security emails.
+5. **Change the password if the account still uses one (and you can).**  
+   Use a strong, unique password. If you can’t change it because you’re locked out or something looks wrong, move straight to the provider’s recovery flow.
+6. **Check for hidden changes that let an attacker keep control.**  
+   Look for: new “authorised apps”, new app passwords/tokens, new linked accounts, or new login approvals you didn’t set up.
+7. **Secure your email first if it’s linked to the account.**  
+   If your email controls password resets for this account, repeat steps 2–6 for your email account immediately.
+8. **If this is a work/school account: contact IT/security now.**  
+   Use your organisation’s normal internal channel (not a reply to the alert). Ask them to review sign-in logs and force sign-out/reset.
+9. **If this account can move money (banking, card, crypto, shopping): reduce risk immediately.**  
+   If the provider offers an in-app lock/freeze, use it. Then contact the provider using details from the official website or the number on the back of your card, and review recent transactions for anything you don’t recognise.
 
 ## What can wait
-- You do not need to identify the exact method of entry (malware, phishing, or credential stuffing) in the first few minutes.
-- You do not need to perform a full factory reset of your devices immediately unless you suspect they are physically compromised.
-- You do not need to close the account permanently if you have successfully removed the unauthorised passkey and secured the recovery options.
-- You do not need to notify all your contacts until you have confirmed the account is stable and under your control.
+- You do **not** need to figure out how the attacker got in right now.
+- You do **not** need to wipe devices or reinstall anything immediately unless you see clear signs of malware or repeated re-compromise.
+- You do **not** need to report it to anyone yet unless money is missing, you’re locked out, or you see ongoing unauthorised activity.
+- You do **not** need to close the account today if you can regain control and lock it down.
 
 ## Important reassurance
-Receiving a security alert means the system's protective measures are working. Because you have been notified that a passkey was added, you have the opportunity to intervene before the attacker can lock you out or change your recovery details. Removing the passkey and ending active sessions is a highly effective way to stop an ongoing takeover.
+Getting an unexpected security alert is genuinely unsettling, but it’s also one of the best chances to stop an account takeover early. You’re not “too late” just because a passkey was added — removing it and signing out sessions can cut off access quickly.
 
 ## Scope note
-This guide focuses on immediate technical stabilization and recovery. It does not cover long-term identity theft protection or detailed forensic investigation of your devices.
+These are first steps to regain control and prevent immediate damage. If you’re locked out, the provider’s recovery process (and sometimes your mobile network/email provider) becomes the priority.
 
 ## Important note
-This information is provided for emergency stabilization and is not a substitute for professional technical or legal advice. If you are unable to regain access to your account, you must follow the service provider's official account recovery process. In the UK, you can report cyber crime or fraud to Report Fraud (the national reporting centre) at reportfraud.police.uk or by calling 0300 123 2040 if you are in England, Wales, or Northern Ireland. If you are in Scotland, report the incident to Police Scotland by calling 101.
+This is general information for urgent first actions, not legal, financial, or technical advice. If you can’t regain control quickly, or if there’s financial loss or identity misuse, use the service provider’s official support/recovery steps. If you need to report cyber crime or fraud, you can typically report online via Report Fraud (Action Fraud) for England, Wales, and Northern Ireland; in Scotland, contact Police Scotland (101 for non-emergencies).
 
 ## Additional Resources
+- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
 - https://www.ncsc.gov.uk/section/respond-recover/sole-hacked-accounts
-- https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/activate-2-step-verification-on-your-email
-- https://support.google.com/accounts/answer/2590353?hl=en
-- https://support.google.com/chrome/answer/13168025?co=GENIE.Platform%3DDesktop&hl=en-GB
-- https://support.apple.com/en-gb/102560
+- https://www.ncsc.gov.uk/files/recovering-hacked-accounts-infographics.pdf
+- https://www.reportfraud.police.uk/
+- https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime
+- https://support.google.com/accounts/answer/13548313?hl=en
+- https://support.apple.com/en-gb/104955

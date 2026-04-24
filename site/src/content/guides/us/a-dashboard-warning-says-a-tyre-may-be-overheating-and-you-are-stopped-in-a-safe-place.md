@@ -1,97 +1,85 @@
----
+﻿---
 title: "What to do if… a dashboard warning says a tyre may be overheating and you are stopped in a safe place"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
-  - "tire overheating warning"
-  - "tire temperature warning light"
-  - "hot tire dashboard alert"
-  - "tpms light and hot tire"
-  - "what do i do if my tire is overheating"
-  - "what do i do if tire pressure is too high"
-  - "what do i do if a tire warning light comes on"
-  - "what do i do if i smell burning rubber"
-  - "help i have a tire temperature alert"
-  - "help i see smoke from my wheel"
-  - "help my tire feels hot"
-  - "help my dashboard says tire too hot"
-  - "my tire warning light is on"
-  - "my tire smells like burning"
-  - "my car says tire overheating"
-  - "my wheel is smoking"
-  - "burning rubber smell"
-  - "smoke near wheel well"
-  - "wheel area too hot"
-  - "high tire temperature"
-  - "hot wheel hub"
-  - "acrid smell from wheel"
-  - "tire sidewall bulge"
-  - "tire sidewall crack"
-  - "tire pressure monitoring system"
-  - "high speed tire heat"
-  - "overloaded vehicle tire heat"
-  - "stopping for tire warning"
-  - "check tire pressure when cold"
-  - "door placard tire pressure"
-last_reviewed: "2026-03-17"
+  - tire overheating warning
+  - tyre overheating warning
+  - hot tire dashboard alert
+  - tire temperature warning light
+  - tpms light and hot tire
+  - pulled over safely tire warning
+  - stopped in a safe place tire
+  - burning rubber smell in car
+  - smoke near wheel well
+  - wheel area too hot
+  - risk of tire blowout
+  - underinflated tire heat
+  - overheating from heavy load
+  - dragging brake overheating wheel
+  - check tire pressure when cold
+  - door placard tire pressure
+  - roadside assistance tire issue
+  - tire sidewall bulge crack
+  - warning says tire too hot
+  - overheated tire after highway
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… a dashboard warning says a tyre may be overheating and you are stopped in a safe place (USA)
 
 ## Short answer
-Stop driving immediately, keep all people away from the wheel area, and allow the tire to cool for at least three hours before attempting any inspection or adjustment.
+Stay stopped, keep people away from the wheel area, and let the tire(s) cool completely before you touch anything, adjust pressure, or drive again.
 
 ## Do not do these things
-- Don’t continue driving once stopped, even at low speeds, as this increases the risk of a sudden blowout or fire.
-- Don’t touch the tire, wheel rim, or brake components with bare hands to "test" the heat.
-- Don’t pour water on the tire or wheel to cool it down, as rapid temperature changes can cause the metal or rubber to crack or shatter.
-- Don’t release air from the tire while it is hot, even if the pressure reading is high.
-- Don’t stand or crouch directly in front of the tire sidewall while it is hot.
-- Don’t ignore an acrid, chemical smell or any visible smoke.
+- Don’t keep driving to “get home” unless you must move for immediate safety.
+- Don’t bleed air or “set pressure” while the tire is hot.
+- Don’t touch the tire, wheel, or brake area with bare hands.
+- Don’t pour water on a hot tire/wheel to cool it down.
+- Don’t crouch close to the tire on a narrow shoulder or where traffic makes you feel rushed.
+- Don’t ignore smoke, a strong burning smell, or popping/crackling sounds.
 
 ## What to do now
-1. **Secure the vehicle in a safe location away from traffic.**  
-   **Activate hazard lights, shift the vehicle into Park, and engage the emergency brake.** Ensure the vehicle is on level ground so it cannot roll while you are outside of it.
+1. **Stabilize the stop.**  
+   Hazard lights on. Put the vehicle in **Park** and secure it so it won’t roll. Keep everyone away from traffic while you decide what to do next.
 
-2. **Evacuate all passengers to a safe distance from the vehicle.**  
-   **Move everyone at least 100 feet away from the car and well away from the flow of traffic.** Treat the overheating tire as a potential explosion or fire hazard until it has cooled completely.
+2. **Keep people away from the hazard zone.**  
+   If you exit, move everyone well away from the vehicle and away from traffic. Treat the tire as if it could fail suddenly.
 
-3. **Visually check for signs of active fire from a distance.**  
-   **Look for visible flames, thick smoke, or a glowing brake rotor without approaching the wheel well.**
-   - If you see flames or heavy smoke, call **911** immediately.
-   - Do not attempt to open the hood or trunk if you suspect a fire is starting in those areas.
+3. **Check for signs of fire without getting close.**  
+   Look for smoke from a wheel well, flames, or a tire that’s visibly deformed/flat.  
+   - **If you suspect a vehicle fire:** get everyone out, move **at least about 100 feet away**, do not open the hood, and call **911**.
 
-4. **Allow the tire and wheel assembly to cool for at least three hours.**  
-   **Wait until the tire is "cold" to the touch (ambient temperature) before performing any physical checks.** Friction and internal damage generate extreme heat that can take hours to dissipate safely.
+4. **Let the tire cool fully before inspection or pressure checks.**  
+   Don’t drive and don’t handle the wheel area. For an accurate “cold” pressure reading, it’s typically **at least 3 hours after driving** (or follow your owner’s manual).
 
-5. **Perform a visual inspection only after the cooling period.**  
-   **Look for physical abnormalities on the tire surface and sidewall.**
-   - Bulges or "bubbles" in the rubber.
-   - Cracks, splits, or exposed metal wires (cords).
-   - Signs of melted rubber or scorched paint on the wheel rim.
+5. **Once cool, do a simple safety check.**  
+   - Visually inspect for **bulges, cracks/splits, exposed cords,** or rubbed/melted spots.  
+   - Use a gauge and compare to the **recommended** pressure on the driver-door placard/owner’s manual (not the maximum on the tire sidewall).
 
-6. **Check the tire pressure using a manual gauge.**  
-   **Compare the reading to the recommended "Cold Tire Pressure" listed on the driver-side door jamb sticker.** Do not use the "Maximum Pressure" listed on the tire sidewall as your guide.
+6. **Choose the safest next step.**  
+   - **Any bulge/split/cords showing, or the warning returns quickly:** don’t drive—use roadside assistance or a tow.  
+   - **If a tire is low once cold and looks undamaged:** inflate to the door-placard pressure, then reassess. If it won’t hold pressure or the warning returns, stop and get help.
 
-7. **Determine if the vehicle is safe to move.**  
-   **Call for a tow or roadside assistance if the tire shows any physical damage, if the warning persists, or if the tire will not hold air.** If no damage is visible and the pressure was merely low, inflate to the door-placard specification and drive directly to a tire professional for a safety teardown.
+7. **If your shoulder/stop location is still risky:**  
+   Prioritize getting professional help. If you feel in immediate danger from traffic or fire risk, call **911**.
 
 ## What can wait
-- You don’t need to diagnose the cause (such as a seized brake caliper, bearing failure, or under-inflation) on the roadside.
-- You don’t need to replace the tire yourself if you are in a high-traffic or narrow shoulder area.
-- You don’t need to worry about the cost of repairs until the vehicle is in a secure, non-hazardous location.
+- You don’t need to identify the exact cause right now (it might be low pressure, damage, heavy load, sustained heat/speed, or a brake problem).
+- You don’t need to make repair or insurance decisions on the roadside.
+- You don’t need to “fine-tune” pressures beyond restoring a clearly low tire to the recommended setting once cold, and only if it looks undamaged.
 
 ## Important reassurance
-Modern Tire Pressure Monitoring Systems (TPMS) are designed to provide early warnings before a catastrophic failure occurs. By stopping now and allowing the system to cool, you are significantly reducing the risk of a high-speed blowout or a vehicle fire. It is normal to feel anxious when a dashboard warning appears; staying stationary is the most effective safety choice.
+These warnings are meant to push you to stop before a failure. Staying put, cooling down, and checking calmly is the safest way to reduce blowout and burn risk.
 
 ## Scope note
-This guide provides first-step stabilization for a tire overheating alert and does not replace a professional mechanical inspection. This guidance is for vehicles already stopped in a safe location.
+This is first-steps-only guidance to reduce immediate risk. A tire shop or mechanic may still be needed to confirm the cause before you resume normal driving.
 
 ## Important note
-This information is for general safety purposes and is not a substitute for professional mechanical advice or your vehicle's owner's manual. Tire overheating can indicate serious structural failure or a braking system malfunction. If you see smoke or fire, or if you are stopped in a location where you feel unsafe, call 911 immediately. Never attempt to drive on a tire that shows visible bulges or cord exposure.
+This is general information, not mechanical or medical advice. If you see smoke/flames, feel unsafe where you’re stopped, or the tire shows any damage once cool, don’t drive—get professional help and call emergency services if needed.
 
 ## Additional Resources
-- https://www.michelinman.com/auto/auto-tips-and-advice/tires-101/tire-safety-tips
-- https://www.bridgestonetire.com/content/dam/consumer/bst/na/warranties/bs_maintenance_and_safety_us_en_2024v2.pdf
-- https://www.michelinman.com/auto/auto-tips-and-advice/tire-maintenance/routine-tire-care-tips
-- https://www.nhtsa.gov/recalls
-- https://www.nhtsa.gov/report-a-safety-problem
+- https://www.nhtsa.gov/summer-driving-tips
+- https://www.nhtsa.gov/vehicle-safety/tires
+- https://www.usfa.fema.gov/prevention/vehicle-fires/
+- https://www.usfa.fema.gov/downloads/pdf/publications/vehicle_fire_safety_flyer.pdf

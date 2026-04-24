@@ -1,87 +1,76 @@
----
+﻿---
 title: "What to do if… your electric vehicle displays a high-voltage or battery system warning and you don’t know what it implies"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
-  - "electric vehicle high voltage warning"
-  - "battery system warning"
-  - "ev battery system fault"
-  - "high-voltage system alert"
-  - "what do i do if my ev shows a battery warning"
-  - "what do i do if my electric car displays high voltage fault"
-  - "what do i do if my tesla says service high voltage"
-  - "what do i do if my chevy bolt has a battery light"
-  - "help i have a red battery light on my ev"
-  - "help i have a drivetrain malfunction in my electric car"
-  - "help i see smoke from my ev battery"
-  - "my electric vehicle is hissing"
-  - "smell of burning plastic electric car"
-  - "gurgling noise from car battery"
-  - "sizzling sound under electric vehicle"
-  - "orange cables visible under car"
-  - "warning light battery fault"
-  - "waring light battery fault"
-  - "ev reduced power mode"
-  - "turtle icon on dashboard"
-  - "charging fault alert"
-  - "electric vehicle roadside stop"
-  - "towing an electric vehicle"
-  - "flatbed tow for electric car"
-  - "ev battery system malfunction"
-  - "high voltage system warning symbols"
-  - "propulsion system fault"
-  - "battery system maintenance required"
-  - "emergency stop electric vehicle"
-  - "lithium-ion battery safety"
-last_reviewed: "2026-03-17"
+  - ev high voltage warning
+  - electric vehicle battery system warning
+  - high-voltage system fault message
+  - stop safely now ev alert
+  - drivetrain warning electric car
+  - check electric vehicle system
+  - battery management system alert
+  - red battery light ev
+  - amber warning light ev battery
+  - ev reduced power warning
+  - ev won’t start after warning
+  - charging fault warning ev
+  - high voltage cable orange
+  - smoke under electric vehicle
+  - hissing from battery area
+  - burning smell electric car
+  - electric car emergency stop
+  - ev roadside assistance steps
+  - tow electric car safely
+  - highway shoulder safety
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… your electric vehicle displays a high-voltage or battery system warning and you don’t know what it implies (USA)
 
 ## Short answer
-**Pull over immediately to a safe location and power down the vehicle.** If the warning is red or accompanied by smoke, heat, or unusual noises, evacuate all occupants and maintain a 50-foot distance until help arrives.
+**Pull over safely and stop.** If the warning is red/urgent or the car limits power, treat it as “do not continue driving” and get roadside assistance (or **911** if there are any fire/heat/smoke signs).
 
 ## Do not do these things
-- Don't attempt to continue driving to your destination if the dashboard displays a "Stop Safely Now," "Pull Over Safely," or a red "High Voltage" fault.
-- Don't touch, probe, or attempt to disconnect any **orange-colored high-voltage cables** or components.
-- Don't plug the vehicle into a charger if you suspect a battery fault or observe any thermal signs.
-- Don't park the vehicle in a garage, under a carport, or within 50 feet of any structure or other vehicles.
-- Don't attempt to open the battery casing or high-voltage service disconnects yourself.
-- Don't allow the vehicle to be towed with the drive wheels touching the ground unless the owner's manual explicitly permits it for that specific model.
+- Don’t keep driving to “make it home” if the warning says stop, turns red, or the vehicle reduces power.
+- Don’t keep cycling the vehicle on and off trying to clear the warning; stop safely first and follow the on-screen instruction and roadside advice.
+- Don’t touch, cut, or open anything high-voltage, and don’t go near **orange high-voltage cables** or damaged components.
+- Don’t plug in to charge if the warning suggests a battery/high-voltage fault, or if you notice **smoke, heat, hissing, popping, or a burning smell**.
+- Don’t park in an attached garage or close to buildings/other vehicles if you suspect a battery issue (heat/smell/smoke or escalating warnings).
+- Don’t accept towing that drags driven wheels on the ground unless your owner’s manual explicitly allows it; ask for a **flatbed** if unsure.
 
 ## What to do now
-1. **Move the vehicle to a safe, open area.** Signal and pull onto a shoulder or into a parking lot away from buildings, flammable materials, and other cars. 
-2. **Secure and power down the vehicle.** Place the vehicle in Park, engage the parking brake, and turn the power fully off. 
-3. **Roll down the windows before turning the power off.** This ensures ventilation and allows for easier access if the electronic door latches fail after the 12V battery is disconnected or dies.
-4. **Remove the key and move it away.** Take the key fob or mobile device used as a key at least 16 feet away from the vehicle to prevent the high-voltage contactors from inadvertently re-closing.
-5. **Conduct a sensory check from a distance.** Look and listen for signs of thermal runaway from outside the vehicle.
-   - Visible smoke, vapor, or "steam" from the undercarriage.
-   - Hissing, whistling, popping, gurgling, or sizzling sounds from the battery area.
-   - A strong chemical, "sweet," or burning plastic odor.
-   - Significant heat radiating from the floorboards or exterior panels.
-6. **Evacuate and call 911 if thermal signs are present.** Move all occupants at least 50 feet (15 meters) away, staying upwind and uphill to avoid toxic gases like hydrogen fluoride.
-   - Inform the dispatcher: "I have an electric vehicle with a suspected lithium-ion battery incident."
-7. **Verify the warning details if no thermal signs exist.** If the vehicle is stable, note the exact text and color of the dashboard message (e.g., "Service High Voltage System," "Propulsion Power is Reduced").
-8. **Contact manufacturer-specific roadside assistance.** Use the SOS button in the car or the phone number in your mobile app to reach technicians trained in high-voltage systems. 
-9. **Specify towing requirements.** Explicitly request a **flatbed tow truck**. Inform the driver that the high-voltage system has a fault, which may require specific "skates" or "dollies" if the parking brake or drive units are locked.
-10. **Document the incident.** Take a photo of the dashboard alert and the vehicle's position for insurance and service diagnostic purposes once you are in a safe location.
+1. **Get to a safer pause.** Signal, slow down, and pull over to a safe location. If you can choose, stop away from heavy traffic and away from buildings/other vehicles.
+2. **If you’re stopped somewhere risky (narrow shoulder, low visibility, fast traffic):** prioritize personal safety and call for help. If you feel in danger, **call 911**.
+3. **Secure the vehicle.** Put it in Park, set the parking brake, turn on hazards, and power the vehicle fully off.
+4. **Quick safety check (no troubleshooting):** from outside the vehicle, look/listen for smoke/steam/vapour, hissing/popping/whistling, unusual heat, burning smell, leaking fluids, or visible damage.
+5. **If any of those are present, or there’s any fire:** move well away, keep others back, and **call 911**. Tell dispatch it’s an electric vehicle and you suspect a battery/high-voltage issue.
+6. **If there are no danger signs:** read the exact wording and color of the message. Treat “Stop safely now / pull over / high-voltage system fault / battery system malfunction / limited power” as **do-not-drive-until-checked** unless your manufacturer’s roadside service explicitly advises otherwise.
+7. **Call EV-appropriate help and say it up front.** Call your manufacturer’s roadside assistance, your insurer’s roadside assistance, or AAA. Tell them:
+   - “High-voltage / battery system warning” and the exact message,
+   - your location and whether you’re in a risky roadside position,
+   - whether there’s any smell/heat/smoke/hissing,
+   - whether the warning appeared while charging.
+8. **If it needs towing:** ask the provider to follow your **owner’s manual** towing method. If you can safely access it on your phone, look up the manual’s towing/recovery page so you can relay any special requirements.
+9. **Document the alert (30 seconds).** Photo of the warning message, time, mileage, and what you were doing (driving/charging). This helps service teams without you guessing.
+10. **Until you’re told it’s safe:** don’t charge it, don’t move it unnecessarily, and keep people clear of the vehicle.
 
 ## What can wait
-- You do not need to diagnose whether the fault is a software glitch, a cooling pump failure, or a cell issue at the roadside.
-- You do not need to negotiate repair costs or insurance claims while waiting for recovery.
-- You do not need to decide which repair shop will perform the work until the vehicle is at a secure holding lot.
+- You don’t need to diagnose what the warning “really means” right now.
+- You don’t need to decide whether it’s the traction battery, inverter, or 12V system at the roadside.
+- You don’t need to negotiate repairs immediately—focus on **safe stop + safe recovery**.
 
 ## Important reassurance
-Many high-voltage warnings are triggered by sensitive sensors monitoring the cooling system or the 12V auxiliary battery, rather than a catastrophic failure of the main traction battery. Taking immediate precautions ensures safety while allowing professionals to reset or repair the system.
+These warnings can happen for a range of reasons, including issues that are repairable. The safest approach is to **treat any high-voltage/battery-system alert as potentially safety-relevant until a qualified technician confirms otherwise**.
 
 ## Scope note
-This guide provides first-step stabilization for dashboard battery/high-voltage alerts and suspected thermal events. It does not replace the specific Emergency Response Guide (ERG) provided by the vehicle manufacturer for your model.
+This guide covers immediate first actions only. The next steps depend on the exact message and what roadside assistance finds.
 
 ## Important note
-High-voltage systems in electric vehicles typically operate between 400V and 800V and can cause lethal electrical shock or severe arc-flash burns if mishandled. Always assume the high-voltage system is energized even if the vehicle is powered off. Battery fires may also exhibit delayed ignition or reignition hours after the initial fault.
+This is general safety information, not mechanical or legal advice. If the vehicle tells you to stop, or you notice smoke/heat/hissing/odours, treat it as urgent and involve emergency services and professional roadside recovery.
 
 ## Additional Resources
-- https://www.chevrolet.com/support/vehicle/dashboard-lights-signals/warning-lights
-- https://www.chevrolet.com/support/vehicle/dashboard-lights-signals/ev-warning-light
-- https://www.tesla.com/ownersmanual/model3/en_us/GUID-9A3F0F72-71F4-433D-B68B-0A472A9359DF.html
-- https://service.hyundaiusa.com/en/warning-lights.html
-- https://ownersmanual.kia.com/full_webhelp/CV1/2023/en_US/topics/t00071.html
+- https://www.ems.gov/assets/EMS-Electric-Vehicle-Resource-Page-R5.pdf
+- https://www.nfpa.org/education-and-research/emergency-response/responding-to-electric-vehicle-fires
+- https://www.usfa.fema.gov/downloads/pdf/publications/electric-vehicle-fire-rescue-response-operations.pdf
+- https://www.nfpa.org/downloadable-resources/guides/electric-and-hybrid-vehicle-quick-reference-fire-service-edition

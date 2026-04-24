@@ -1,92 +1,90 @@
----
+﻿---
 title: "What to do if… you receive a fraud text or call claiming your account will be closed unless you act now"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "bank scam text message"
-  - "fraud call pretending bank"
-  - "account will be closed scam"
-  - "urgent account closure threat"
-  - "smishing bank alert"
-  - "vishing bank security call"
-  - "spoofed caller id bank"
-  - "fake bank verification code"
-  - "one time passcode request"
-  - "text says account locked"
-  - "click link to secure account"
-  - "caller says transfer money"
-  - "suspicious bank number in text"
-  - "payment under pressure scam"
-  - "fake fraud team call"
-  - "safe account transfer scam"
-  - "banking app scam link"
-  - "call back this number scam"
-  - "act now banking scam"
-  - "help i got a text from my bank"
-  - "help i got a call from my bank"
-  - "what do i do if my bank texts me about account closure"
-  - "what do i do if a caller says my account is closing"
-  - "what do i do if i clicked a link in a bank text"
-  - "what do i do if i shared a banking code"
-  - "unrecognised payment on banking app"
-  - "suspicious text message from bank"
-  - "caller asking for one-time passcode"
-  - "text message account security alert"
-  - "bank account compromised warning"
-last_reviewed: "2026-03-17"
+  - bank scam text message
+  - fraud call pretending bank
+  - account will be closed scam
+  - urgent account closure threat
+  - smishing bank alert
+  - vishing bank security call
+  - spoofed caller id bank
+  - fake bank verification code
+  - one time passcode request
+  - text says account locked
+  - click link to secure account
+  - caller says transfer money
+  - suspicious bank number in text
+  - payment under pressure scam
+  - fake fraud team call
+  - “safe account” transfer scam
+  - banking app scam link
+  - call back this number scam
+  - act now banking scam
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… you receive a fraud text or call claiming your account will be closed unless you act now (UK)
 
 ## Short answer
-Break contact immediately by hanging up or closing the message. Contact your bank directly through a verified route, such as by dialing 159 or using the official number on your physical bank card.
+Stop engaging. Don’t click, reply, or share codes. End the call or close the message and contact your bank using a trusted route (dial 159 or the number on your card/statement).
 
 ## Do not do these things
-- Don't click any links, scan QR codes, or download any "security" or "support" software.
-- Don't provide any one-time passcodes (OTP), PINs, or card reader codes over the phone or into a link.
-- Don't move money to any "safe account" or "holding account" suggested by a caller.
-- Don't use the "call back" function or dial numbers provided within a suspicious text message.
-- Don't approve any notifications in your banking app if prompted by an unsolicited caller.
-- Don't stay on the line to argue or verify the caller's identity; legitimate banks will not pressure you to stay connected.
+- Don’t click any link, scan any QR code, or install any “security” app they suggest.
+- Don’t read out one-time passcodes, card reader codes, PINs, or full passwords — even if they say they’re “verifying you”.
+- Don’t approve anything in your banking app because someone on the phone told you to.
+- Don’t move money to a “safe/secure account” because someone told you to.
+- Don’t call back the number shown in the text/call or press keys to “confirm” anything.
+- Don’t keep talking to “prove” it’s real. The urgency is the trick.
 
 ## What to do now
-1. **Terminate the communication immediately.**  
-   - **Hang up the phone** if you are on a call.  
-   - **Close the message** and do not reply or click any content.
-2. **Contact your bank using a trusted method.**  
-   - **Dial 159** from your phone to be connected to your bank's fraud department (available for most major UK retail banks).  
-   - **Call the number on the back of your physical bank card** or an official paper statement if 159 is unavailable or doesn't list your provider.
-3. **Report exactly what occurred to the bank's fraud team.**  
-   - **State clearly** if you clicked a link, downloaded an app, or shared any codes or passwords.  
-   - **Ask the bank to freeze your accounts** and cancel any cards if you shared security details.  
-   - **Request a review** of recent payments and "pending" transactions for anything you did not authorize.
-4. **Secure your digital access points.**  
-   - **Change your banking password** and your primary email password using a different, safe device if possible.  
-   - **Turn on multi-factor authentication** (MFA) for your email and banking apps if it is not already active.
-5. **Report the fraudulent communication to the authorities.**  
-   - **Forward suspicious texts to 7726** (it is a free service) to help mobile providers block the sender.  
-   - **Report the incident to the "Report Fraud" service** (online at reportfraud.police.uk or by calling 0300 123 2040) if you are in England, Wales, or Northern Ireland.  
-   - **Call 101 to report to Police Scotland** if you are in Scotland.
-6. **Check for unauthorized device access.**  
-   - **Disconnect your device from the internet** if you downloaded any software at the scammer's request.  
-   - **Do not use that device for banking** until it has been professionally checked for remote-access tools or malware.
+1. **Break contact immediately.**  
+   - If it’s a call: hang up.  
+   - If it’s a text: don’t reply; don’t tap anything; just leave it.
+2. **Check your account using your normal, trusted method.**  
+   Open your banking app (the one you already use) or type your bank’s web address yourself. Look for:
+   - payments you don’t recognise (including “pending”)
+   - new payees/beneficiaries you didn’t add
+   - changes to your contact details (email/phone)
+3. **Contact your bank safely (not via the message).**  
+   - **Dial 159** (works for most major UK retail banks; if it doesn’t connect you, use the number on your card/statement), or  
+   - Call the number on the back of your card / your statement.  
+   Say: “I received an urgent ‘account will be closed’ text/call. Please check my account for fraud and note this on my file.”
+4. **If you clicked, shared details, or approved anything, say so plainly.**  
+   Tell the bank if you: entered details in a link, shared a code, approved a payment, moved money, downloaded an app, or allowed screen sharing/remote access. Ask them to:
+   - **secure/freeze the account** and **reset security**
+   - **cancel/replace cards**
+   - **remove suspicious payees** and review recent payee changes
+   - **stop/recall** any payments that haven’t completed yet
+5. **Secure your access (from a safe device).**  
+   Change your banking password and your email password (email is often the reset route). Turn on the strongest sign-in security your bank offers.
+   - If you installed an app you didn’t already have, or allowed remote access/screen sharing, **stop using that device for banking** until it’s been checked/cleaned.
+6. **Report the text so it can be blocked.**  
+   **Forward suspicious texts to 7726** (free). Then use your phone’s block/report-spam options (blocking won’t stop spoofing, but it can reduce repeats).
+7. **Report it to the UK reporting route for your nation.**  
+   - **England, Wales, Northern Ireland:** report via **Report Fraud (Action Fraud)** (online or by phone).  
+   - **Scotland:** report to **Police Scotland** by calling **101**.  
+   Keep a screenshot of the message, the number (if visible), and the time/date.
 
 ## What can wait
-- You do not need to decide whether to switch banks or change your phone number today.
-- You do not need to investigate the source of the call or attempt to track the scammers yourself.
-- You can wait to file a full police report until after your bank accounts have been safely secured and frozen.
+- You don’t need to decide right now whether to change banks, change your phone number, or replace your handset.
+- You don’t need to “investigate” who contacted you or confront them.
+- You can do fuller reporting after your account is secured; the priority is stopping loss and locking down access.
 
 ## Important reassurance
-Scammers use threats of "account closure" to create a false sense of urgency and bypass your normal logic. Ending the call and taking a moment to use a trusted number like 159 is the standard, safe procedure and will not result in your account being closed by your real bank.
+These “act now or your account closes” scams are designed to trigger panic and push you into rushing. Hanging up and contacting your bank through a trusted route is the safest response — even if the message looks convincing.
 
 ## Scope note
-This guide provides first-step stabilization for responding to a suspected fraud attempt. It does not cover the legal recovery process for lost funds or long-term identity theft protection.
+This is first-steps-only guidance to stop immediate loss and secure access. If money has left your account or your identity details were shared, you may need extra steps with your bank and the relevant reporting/support services.
 
 ## Important note
-This information is for general guidance and is not financial or legal advice. Always prioritize official instructions from your bank's verified fraud department or the police.
+This is general information, not legal or financial advice. If you’re unsure whether a message is genuine, treat it as suspicious and verify using contact details you already trust (159, or numbers on your card/statement).
 
 ## Additional Resources
-- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/7726-reporting-scam-texts-and-calls
-- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/top-tips-to-stay-safe-from-scammers
-- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-call
-- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
-- https://www.moneyhelper.org.uk/en/blog/scams-and-fraud/how-to-spot-and-avoid-bank-scams
+- https://stopscamsuk.org.uk/our-work/159-phone-number/
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
+- https://www.reportfraud.police.uk/phishing/
+- https://www.reportfraud.police.uk/
+- https://www.citizensadvice.org.uk/consumer/scams/check-if-you-can-get-your-money-back-after-a-scam/

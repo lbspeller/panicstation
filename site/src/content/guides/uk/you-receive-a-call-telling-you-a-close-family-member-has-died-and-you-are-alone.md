@@ -1,96 +1,76 @@
----
+﻿---
 title: "What to do if… you receive a call telling you a close family member has died and you are alone"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "death notification phone call"
-  - "told a family member died"
-  - "unexpected death call"
-  - "bereavement call alone"
-  - "alone after bad news"
-  - "sudden loss phone call"
-  - "shock after death news"
-  - "confirming a death report"
-  - "possible death scam call"
-  - "hospital death phone call"
-  - "police death notification call"
-  - "next of kin contacted"
-  - "what to do if you get a death call"
-  - "what do i do if someone calls about a death"
-  - "help i just got a call saying my dad died"
-  - "help i just got a call saying my mum died"
-  - "my brother died phone call"
-  - "my sister died phone call"
-  - "bereavement notification alone"
-  - "feeling numb after news"
-  - "shaking after phone call"
-  - "cant breathe after bad news"
-  - "verify death notification"
-  - "is this death call real"
-  - "hospital ward phone call"
-  - "coroners officer call"
-  - "police incident number"
-  - "tell us once uk"
-  - "registering a death timeline"
-  - "death scam protection"
-  - "money request death call"
-  - "bereavement support alone"
-  - "family crisis alone at home"
-  - "shock response signs"
-last_reviewed: "2026-03-16"
+  - death notification phone call
+  - told a family member died
+  - unexpected death call
+  - bereavement call alone
+  - alone after bad news
+  - sudden loss phone call
+  - shock after death news
+  - confirming a death report
+  - possible death scam call
+  - hospital death phone call
+  - police death notification call
+  - next of kin contacted
+  - what to say on the phone
+  - panic after bereavement
+  - first steps after someone dies
+  - who to call after death
+  - cant think after grief news
+  - family crisis alone at home
+  - told us once confusion
+last_reviewed: "2026-02-23"
 ---
-# What to do if… you receive a call telling you a close family member has died and you are alone (UK)
 
+# What to do if… you receive a call telling you a close family member has died and you are alone (UK)
 ## Short answer
-Remain where you are, sit down, and verify the news through an official hospital bereavement office or a police force switchboard before taking any further action or notifying others.
+Get yourself safe and steady first, then verify the call through an official route (hospital switchboard or police via 101/official force contact) before you tell others or make decisions.
 
 ## Do not do these things
-- Don’t drive or operate machinery if you feel lightheaded, shaky, or physically numb.
-- Don’t provide any financial details, bank transfers, or "processing fees" to the caller.
-- Don’t share the news on social media until you have physically spoken to a secondary official source.
-- Don’t feel pressured to make "immediate" decisions regarding funeral directors or travel.
-- Don’t stay on the line if the caller is aggressive, demands money, or refuses to provide a verifiable office name.
+- Don’t drive anywhere right now if you feel shaky, tearful, numb, or “on autopilot”.
+- Don’t send money, bank details, one-time passcodes, or copies of ID to anyone on the phone (even if they say it’s for “release”, “fees”, or “urgent travel”).
+- Don’t post on social media or message lots of people before you’ve verified the news.
+- Don’t agree to anything “immediate” (funeral arrangements, contracts, travel) while you’re still in shock.
+- Don’t stay on the line if they are pressuring you, hostile, or won’t let you call back via an official number.
 
 ## What to do now
-1. **Sit down and stabilise your physical position.** Place both feet flat on the floor and lean your back against a chair or wall. 
-   - If you feel faint, lie on your side on the floor. 
-   - Drink a glass of water slowly.
-2. **Note down the caller's specific details immediately.** Write down:
-   - The caller's name and job title.
-   - The name of the hospital, police station, or agency.
-   - The specific ward name or the police incident / reference number.
-   - A direct switchboard number (though you should verify this number yourself).
-3. **End the call to perform a manual verification.** Even if the call seems genuine, tell the caller you will call them back through the official switchboard to confirm.
-4. **Use a known, official contact method to verify.**
-   - **For Hospital calls:** Search for the hospital’s main switchboard number on their official NHS trust website. Call that number and ask for the "Bereavement Office" or the specific ward named by the caller.
-   - **For Police calls:** Call 101 or the specific force's switchboard. Provide the incident / reference number and ask to speak with the "Officer in Case" or the "Bereavement Liaison Officer" to verify the notification.
-5. **Contact one trusted person for immediate presence.** Call or text a friend, family member, or neighbour.
-   - Use a specific phrase: "I have had a call about a family member. I am alone and in shock. Can you come over or stay on the line with me?"
-6. **Ask the official contact for three specific facts only.** If the death is confirmed:
-   - Where is the person's body currently located?
-   - Is there a specific reference number for the Coroner (England/Wales/NI) or Procurator Fiscal (Scotland)?
-   - Which office is the lead point of contact for the next 24 hours?
-7. **Contact Samaritans if you cannot stabilise your distress.** Dial **116 123** from any phone. This service is free, 24/7, and confidential.
-8. **Move to a communal space if you feel unsafe being alone.** If you cannot reach a friend, go to a neighbour's house or a nearby public place like a library or café to be around other people.
+1. **Pause your body first (60–120 seconds).** Sit down, put both feet on the floor, and take slow breaths. Drink water if you can. If you feel faint, lie on your side.
+2. **Write down what you were told.** Note: the caller’s name, role, organisation, any reference/incident number, the time of call, and exactly what they said (where the person is, and how they say they know).
+3. **Treat it as unverified until confirmed.** If they ask for money, secrecy, urgent transfers, or they refuse basic details, treat it as a red flag and end the call.
+4. **Verify using a “call-back you control”.**
+   - If they said **hospital/NHS**: ask for the hospital name and ward, then **hang up and call the hospital’s main switchboard number** (from the hospital’s official website or a known directory entry). Ask to be put through to the ward, bereavement office/service, or the on-call team who can confirm what they are able to confirm.
+   - If they said **police**: ask for the force area and any reference/incident number, then **hang up and call 101** (or use your local police force’s official contact number from their website). Ask them to verify the contact and reference.
+   - Use **999** only if you believe there is immediate danger to someone right now.
+5. **Bring another person into the moment (even if it’s brief).** Call or message one trusted person: “I’ve had a call about [name]. I’m alone. Can you stay on the phone while I verify it?” If nobody answers, consider knocking a neighbour—this is a reasonable time to ask for help.
+6. **If the death is confirmed and you are the contact person, ask only the essentials you need today.**
+   - “Where is [name] now?” (hospital mortuary / coroner / elsewhere)
+   - “Who is the best point of contact and what are the opening hours?”
+   - “What official number should I call back on (switchboard/office)?”
+   - “Is the death being referred to the coroner?” (if they mention it)
+7. **Make one calm, factual call to the closest other family decision-maker.** Keep it minimal: confirmed/unconfirmed, where they are, and the official call-back number.
+8. **If you can’t stay safe alone, treat that as urgent.** Call **999** if you are in immediate danger, or contact **Samaritans (116 123)** for immediate, confidential support. If possible, move to a place with other people (a neighbour, nearby shop/café, or family member).
 
 ## What can wait
-- You do **not** need to register the death today; you usually have 5 days (England, Wales, Northern Ireland) or 8 days (Scotland) to do this.
-- You do **not** need to choose a funeral director or sign any contracts in the first few hours.
-- You do **not** need to notify employers, banks, or utility companies immediately.
-- You do **not** need to travel to the hospital or location of death right this second unless specifically requested for identification purposes by the police or coroner.
+- You do **not** need to decide about funerals, belongings, probate, or “what happens next” tonight.
+- You do **not** need to contact every relative or employer immediately—one or two key people is enough.
+- You can wait to deal with registering the death and government notifications until you have verified facts and support around you. (In **England, Wales and Scotland**, this often includes **Tell Us Once**; **Northern Ireland** uses different services and guidance.)
 
 ## Important reassurance
-Physical shock can cause your heart to race, your hands to shake, or a feeling of total emotional numbness. These are standard physiological responses to sudden, high-stress information. You are not failing by feeling confused or needing to ask the same question multiple times.
+Shock can look like numbness, confusion, shaking, or feeling “weirdly calm”. That’s a common acute stress response. Your only job right now is to steady yourself, verify the information, and avoid irreversible decisions while you’re alone.
 
 ## Scope note
-This guide covers first-step stabilisation and verification only. It does not cover the long-term legal processes of probate, estate management, or funeral planning.
+This is first steps only for the hours after the call. After that, the right next actions depend on where the death occurred (hospital, home, abroad) and whether a coroner is involved.
 
 ## Important note
-This information is for general guidance during an acute crisis and does not constitute legal advice. Verification procedures may vary slightly by police force or NHS trust. If you suspect a fraudulent call, report it to Action Fraud after you have ensured your own safety.
+This guide is general information, not legal or medical advice. If you’re unsure the call is genuine or you feel unsafe, prioritise immediate safety and verification through official numbers.
 
 ## Additional Resources
-- https://www.gov.uk/when-someone-dies
 - https://www.gov.uk/after-a-death
 - https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once
-- https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/
-- https://www.samaritans.org/how-we-can-help/if-youre-having-difficult-time/
+- https://www.gov.uk/after-a-death/when-a-death-is-reported-to-a-coroner
+- https://www.nidirect.gov.uk/articles/who-tell-about-death
+- https://www.police.uk/pu/contact-us/
+- https://www.samaritans.org/how-we-can-help/contact-samaritan/talk-us-phone/

@@ -1,109 +1,109 @@
----
+﻿---
 title: "What to do if… your router settings show remote administration was turned on and you did not enable it"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "smart device acting strange"
-  - "smart home behaving oddly"
-  - "iot device hacked"
-  - "smart speaker hacked"
-  - "smart camera hacked"
-  - "smart thermostat hacked"
-  - "smart lock acting up"
-  - "ring camera strange activity"
-  - "alexa acting weird"
-  - "google home acting weird"
-  - "homekit acting weird"
-  - "device account takeover"
-  - "someone accessed my smart account"
-  - "unauthorized smart device control"
-  - "suspicious device automations"
-  - "unknown users on smart home"
-  - "router may be compromised"
-  - "wifi network may be hacked"
-  - "account controlling device accessed"
-  - "smart device privacy breach"
-  - "help i think my smart bulb is hacked"
-  - "what do i do if my smart camera is moving"
-  - "help i suspect my smart account was accessed"
-  - "what do i do if a stranger is on my smart home"
-  - "my smart speaker is talking to me"
-  - "my smart lights are turning on by themselves"
-  - "unrecognized device in smart app"
-  - "change smart device password help"
-  - "compromised smart home account"
-  - "uk smart device security law"
-last_reviewed: "2026-03-17"
+  - router remote admin enabled
+  - remote administration turned on
+  - router settings changed
+  - router hacked maybe
+  - wifi router compromised
+  - unknown router login
+  - someone accessed my router
+  - remote management enabled
+  - router security breach
+  - home network tampering
+  - router port opened
+  - isp router settings changed
+  - suspicious router activity
+  - admin interface exposed
+  - dns settings changed
+  - port forwarding added
+  - upnp enabled unexpectedly
+  - wps turned on
+  - router firmware outdated
+  - internet connection hijacked
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your router settings show remote administration was turned on and you did not enable it (UK)
 
 ## Short answer
-Isolate the device from the internet immediately by powering it down or disconnecting the hub, then secure the controlling account using a separate, trusted device.
+Disconnect the router from the internet, then log in locally and turn remote administration **off**. After that, change the router’s admin password and update firmware (or factory reset if you can’t trust the settings).
 
 ## Do not do these things
-- Don't continue "testing" the device while it remains online, as this may provide the attacker with more data.
-- Don't perform a factory reset until you have secured the primary account, unless you are completely locked out and have no other recovery option.
-- Don't reuse any part of an old password or a password used for other services.
-- Don't click "security alert" links within unsolicited emails or texts; navigate to the official provider website manually.
-- Don't provide one-time passcodes or multi-factor authentication (MFA) codes to anyone, even if they claim to be from technical support.
-- Don't ignore "new user" alerts or unfamiliar routines, assuming they are minor software glitches.
+- Don’t leave the router online “to watch what happens” — that can allow continued access.
+- Don’t use the same password you use anywhere else for the router admin login.
+- Don’t rely on Wi-Fi password changes alone (router admin access is separate).
+- Don’t randomly toggle lots of settings while panicking — you can lock yourself out or miss what mattered.
+- Don’t follow “fix” links or calls/emails claiming to be your ISP unless you independently verify them.
 
 ## What to do now
-1. **Isolate the affected hardware from your network immediately.**
-   - If safe, **unplug the device**, remove its batteries, or shut down the central hub / bridge it relies on.
-   - For safety-critical devices like smart locks or alarms, switch to **manual operation** using physical keys or local override panels.
+1. **Get to a safer pause and cut internet access to the router.**  
+   Unplug the router’s WAN/Internet cable (or switch the modem off), or power the router off. Leave your computer/phone on so you can work calmly.
 
-2. **Secure the controlling account from a separate, known-safe device.**
-   - Use a phone or computer that is not showing symptoms, ideally on a different network connection.
-   - **Change the account password** to a long, unique passphrase (e.g., four random words).
-   - Select the option to **sign out of all other sessions** or "remove all other devices" in the security settings.
-   - **Enable two-factor authentication (2FA)** if it is not already active.
+2. **Record what you’re seeing before you change it.**  
+   Take clear photos/screenshots of: the remote administration setting, admin users, port forwarding/firewall rules, DNS settings, device list, logs/“system events”, and firmware version.
 
-3. **Lock down the email account linked to your smart home platform.**
-   - **Change your email password** immediately, as this is often the primary recovery route for attackers.
-   - Check for **unauthorized forwarding rules** or filters in your email settings that might be hiding security alerts.
-   - Ensure MFA is active on the email account itself.
+3. **Log in to the router locally (not from outside).**  
+   Connect by Ethernet if you can. If you must use Wi-Fi, connect only to your own network.
 
-4. **Audit and remove unauthorized users in the device app.**
-   - Open the management app and check for **Household members**, **Shared users**, or **Guest access**.
-   - **Delete any unrecognized names**, old mobile devices, or third-party "partner" app links you do not use.
+4. **Turn off remote administration (and similar “from the internet” access).**  
+   Disable anything like: *Remote Management / Remote Admin / Web Access from WAN / Admin from Internet / Cloud or app-based remote management* (if you don’t need it).  
+   If you’re unsure whether a setting is ISP-managed, **don’t force it** — leave the router offline and use your ISP’s verified support channels to confirm what’s safe to change.
 
-5. **Review and clear malicious automations or routines.**
-   - Check the **Routines / Scenes / Automations** section for any entries you did not create.
-   - Look specifically for rules that **disable cameras at night**, unlock doors at specific times, or modify microphone permissions.
+5. **Change the router admin credentials immediately.**  
+   - Set a strong, unique admin password (and change the admin username if your router allows).  
+   - If your router supports it, enable 2-step verification for admin access.  
+   - Log out all sessions if there’s an option.
 
-6. **Hardening your home router settings to prevent lateral movement.**
-   - Log into the router admin panel and **change the admin login password** (this is different from the Wi-Fi password).
-   - **Disable WPS (Wi-Fi Protected Setup) and UPnP (Universal Plug and Play)** in the advanced network settings.
-   - Check for and **apply firmware updates** provided by your ISP or manufacturer.
+6. **Check for the common “silent takeover” changes and undo them.**
+   - **DNS**: set DNS back to “automatic” or to a trusted provider you chose.  
+   - **Port forwarding / firewall rules**: remove anything you didn’t create.  
+   - **UPnP**: turn off if you don’t specifically need it.  
+   - **WPS**: turn off.  
+   - **Admin users**: remove unknown accounts; disable guest/admin sharing features.
 
-7. **Reset and re-provision the smart device only once accounts are secure.**
-   - Factory reset the isolated device according to the manufacturer's manual.
-   - **Re-pair the device** to your secured account, ensuring you do not reuse old PINs or default credentials.
-   - Note that under the UK's PSTI Act, devices should not use universal default passwords; ensure you set a unique one.
+7. **Update firmware, then reboot.**  
+   Do this **only** from the router’s built-in update feature or your ISP/manufacturer’s official app/support process (not from pop-ups, emails, or random websites). After updating, reboot and re-check that remote admin is still off.
 
-8. **Contact the correct UK reporting bodies if you have suffered a loss.**
-   - If money has been taken or bank details were stored in the account, **contact your bank immediately**.
-   - **England, Wales, and Northern Ireland:** Report the incident to **Report Fraud** (the national reporting centre for fraud and cyber crime) via their website or by calling 0300 123 2040.
-   - **Scotland:** Report cyber crime to **Police Scotland** by calling 101 (non-emergency).
+8. **If you cannot confidently regain control: factory reset and rebuild.**  
+   If settings keep reverting, you can’t change the admin password, there are unknown admin accounts you can’t remove, or the router is very old/out of support:  
+   - Do a full factory reset.  
+   - Reconfigure from scratch (don’t import a saved config file you don’t fully trust).  
+   - If it’s ISP-supplied, contact your ISP and ask for help securing it or replacing it.
+
+9. **Change your Wi-Fi details after the router is secured.**  
+   Set a new Wi-Fi password (WPA2/WPA3), and consider changing the Wi-Fi network name. Reconnect devices one by one.
+
+10. **If you suspect wider compromise, secure your key accounts.**  
+   If you notice banking/email/social logins, password manager alerts, or unknown devices: change your email password first, enable 2-step verification, and sign out of other sessions.
+
+11. **If you believe this was cyber crime or fraud, report it (optional).**  
+   - If you’re in **England/Wales/Northern Ireland**, report cyber crime/fraud via **Report Fraud** (online reporting).  
+   - If you’re in **Scotland**, report via **Police Scotland** (101 for non-emergency).  
+   If a crime is happening right now or there’s immediate danger, use emergency services.
 
 ## What can wait
-- Purchasing replacement hardware or upgrading your entire network infrastructure.
-- Deleting the account entirely (only do this after you have recovered any necessary data and stabilized the breach).
-- Notifying friends or family about the "odd behavior" until you have confirmed if personal data was actually compromised.
+- You don’t need to decide “who did it” right now.
+- You don’t need to replace every device immediately (secure the router first).
+- You don’t need to rebuild your whole home network today unless control can’t be regained.
+- You don’t need to contact everyone in the household until you’ve stabilised access and set new Wi-Fi details.
 
 ## Important reassurance
-Sudden changes in smart home behavior are often caused by service outages or automated software updates. However, following these isolation and security steps is a standard protective response that prevents potential unauthorized access from escalating into a total account takeover.
+Seeing remote administration enabled unexpectedly is unsettling, but you can reduce risk quickly by taking the router offline, turning remote access off, and resetting credentials. Even if it turns out to be a mis-click, auto-update, or ISP change, these steps are still sensible and low-regret.
 
 ## Scope note
-This guide provides first-step stabilization for suspected account or device compromise. If you find evidence of broader identity theft, persistent re-entry, or stalking, you will likely require a full digital security audit and specialized police support.
+This covers first steps to stabilise and prevent further access. If you keep seeing settings change, or you suspect targeted harassment or financial fraud, you may need specialist help from your ISP or a reputable security professional.
 
 ## Important note
-This guide provides general procedural information and does not constitute technical, legal, or financial advice. If you are concerned about physical safety, stalking, or domestic abuse facilitated through smart devices, please contact your local police service or a domestic abuse support organization immediately.
+This is general information, not professional security or legal advice. Router menus and ISP equipment vary; if you’re unsure about a setting, prioritise taking the router offline and getting verified support through your ISP’s official channels.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/smart-devices-in-the-home
-- https://www.ncsc.gov.uk/blog-post/smart-devices-law
-- https://www.ncsc.gov.uk/news/apt28-exploit-routers-to-enable-dns-hijacking-operations
-- https://www.which.co.uk/news/article/security-flaw-in-ee-smart-hub-router-fixed-after-which-report-aT6n85T4N9EK
-- https://www.which.co.uk/news/article/new-security-laws-for-smart-devices-aGJO50M7C3jo
+- https://www.ncsc.gov.uk/files/connecting-securely-micro-exercise.pdf
+- https://www.cisa.gov/audiences/high-risk-communities/projectupskill/module5
+- https://www.cisa.gov/news-events/news/home-network-security
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.scotland.police.uk/contact-us/non-emergencies/

@@ -1,89 +1,72 @@
----
+﻿---
 title: "What to do if… your router resets unexpectedly and all your connected devices lose internet at once"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "router reset unexpectedly"
-  - "wifi dropped all devices"
-  - "internet down suddenly"
-  - "broadband went out at once"
-  - "home network offline"
-  - "router reboot loop"
-  - "hub restarted by itself"
-  - "modem router lost connection"
-  - "all devices no internet"
-  - "wifi connected no internet"
-  - "router settings changed"
-  - "ssid changed after reset"
-  - "network password stopped working"
-  - "isp outage or fault"
-  - "lights on router changed"
-  - "broadband connection dropped"
-  - "help i have no internet"
-  - "help my router reset"
-  - "help my wifi is gone"
-  - "what do i do if my internet stops working"
-  - "what do i do if my router restarts"
-  - "what do i do if all devices disconnect"
-  - "flashing amber light on hub"
-  - "red internet light on router"
-  - "hub flashing blue"
-  - "router hot to touch"
-  - "smell of burning plastic from hub"
-  - "digital voice not working"
-  - "emergency alarm offline"
-  - "bt hub reset"
-  - "sky hub reset"
-  - "virgin media hub reset"
-  - "talktalk router reset"
-last_reviewed: "2026-03-17"
+  - router reset unexpectedly
+  - wifi dropped all devices
+  - internet down suddenly
+  - broadband went out at once
+  - home network offline
+  - router reboot loop
+  - hub restarted by itself
+  - modem router lost connection
+  - all devices no internet
+  - wifi connected no internet
+  - router settings changed
+  - ssid changed after reset
+  - network password stopped working
+  - isp outage or fault
+  - lights on router changed
+  - broadband connection dropped
+  - router factory reset worry
+  - home wifi stopped working
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your router resets unexpectedly and all your connected devices lose internet at once (UK)
 
 ## Short answer
-Isolate the router by performing one physical power-cycle (unplugging for 60 seconds) and then check your provider's official service status page using mobile data. Do not use the pinhole reset button or change settings until you have confirmed whether there is a local area outage.
+Treat it as either a broadband provider outage or a router reboot/reset. Do one calm reboot (power-cycle) and check your provider’s service-status/troubleshooter before changing any settings.
 
 ## Do not do these things
-- Don't press the recessed "RESET" pinhole button unless you want to wipe all custom Wi-Fi names and passwords.
-- Don't repeatedly toggle the power button or pull the cable in quick succession, as this can trigger "stale sessions" at the exchange and delay your reconnection.
-- Don't log into the router admin panel and change DNS or IP settings while the connection is unstable.
-- Don't assume your landline or emergency telecare alarm will work if your router is offline and you have been moved to a digital (VOIP) phone service.
+- Don’t press the tiny pinhole “RESET” button unless you intend a factory reset (it can wipe your Wi-Fi name/password and settings).
+- Don’t power the router on/off repeatedly in quick succession (it can delay reconnection and make fault-finding harder).
+- Don’t change multiple settings “to try things” (you can lock yourself out and lose track of what helped).
+- Don’t share a new Wi-Fi password in a rush until you know whether the router actually reverted to defaults.
 
 ## What to do now
-1. **Identify immediate safety risks related to the outage.** **If you use a digital landline (Digital Voice) or a telecare alarm that connects through your router, assume these are currently non-functional.**
-   - Ensure you have a mobile phone with charge to call 999 if an emergency occurs.
-   - Inform any vulnerable household members that their pendant or wall alarms may not work until the internet returns.
-2. **Observe the physical state of the router.** **Check for lights that are flashing amber, solid red, or completely off, and feel the device for excessive heat.**
-   - If the device smells of burning plastic or is too hot to touch, unplug it immediately and do not reconnect it.
-3. **Perform a single hard power-cycle.** **Unplug the power cable from the back of the router (and the separate modem or ONT box if you have full fibre), wait for at least 60 seconds, and then plug them back in.**
-   - If using a separate modem/ONT and router, always power on the modem/ONT first, wait two minutes for its lights to stabilize, and then power on the router.
-4. **Check for a provider-side outage using a secondary device.** **Use a mobile phone on 4G/5G data to visit your ISP’s service status page or use their official app.**
-   - Common UK status checkers:
-     - BT: Text "HELP" and your landline number to 61998.
-     - Sky: Search "Sky Service Status" or use the MySky app.
-     - Virgin Media: Check the "Service Status" page or call 150 from a Virgin mobile.
-5. **Verify if the router has reverted to factory defaults.** **Look at your Wi-Fi settings on a phone to see if your custom network name (SSID) has disappeared and been replaced by the name printed on the router’s sticker.**
-   - If the router has factory-reset itself, you will need to reconnect using the default password found on the device label.
-6. **Test a wired connection if Wi-Fi remains down.** **Plug a laptop directly into the router using an Ethernet cable to see if the internet is reaching the hub but failing to broadcast wirelessly.**
-7. **Document the start time for potential compensation.** **Note the exact time the internet dropped, as UK providers signed up to Ofcom’s "Automatic Compensation" scheme may owe you credits if the service is not restored within two working days.**
+1. **Check for immediate knock-on risks in your home.** If you rely on internet for a landline, telecare, alarms, or smart locks/cameras, assume they may be offline. Use a mobile phone as your call backup and tell others in the home.
+2. **Look at what the router is doing right now.** If it looks like it’s still booting/connecting (lights changing), give it a few minutes before intervening.
+3. **Do one clean power-cycle (not a factory reset).**  
+   - Turn the router off (or unplug power), wait at least ~30–60 seconds, then power it back on and let it fully boot.  
+   - If you have a separate modem/ONT plus a router: power off both, then power on the **modem/ONT first**; once it looks stable, power on the router.
+4. **Check whether it’s a provider issue before you change anything.** In your broadband provider’s app/website, look for **“service status”**, **“outage”**, or **“broadband troubleshooter”**. If an outage is shown, stop troubleshooting and note the time it started.
+5. **Check whether the router appears to have factory-reset.** Clues include:  
+   - Your usual Wi-Fi network name (SSID) vanished or changed.  
+   - Your Wi-Fi password no longer works.  
+   - The network name/password now match the sticker on the router (default details).
+6. **If Wi-Fi returns but there’s still “no internet,” test one device by cable if you can.** Plug a laptop/PC into the router with Ethernet (if available). If wired also has no internet, it points to the router-to-provider link (or provider-side issue), not just Wi-Fi.
+7. **If it’s still down, report the fault via your provider’s support route.** Share: **when it started**, whether it looked like a **reboot/reset**, and what the **lights** are doing now. Ask them to run line checks and confirm whether your router/modem shows as connected from their side.
+8. **If you must get online urgently, use a temporary fallback.** Use a phone hotspot for essentials. Avoid major account/password changes while your home connection is unstable.
 
 ## What can wait
-- You do not need to call an engineer or book a home visit until you have completed the provider's online automated "line test."
-- You do not need to reconfigure your smart home devices (bulbs, plugs, cameras) until the main router connection has been stable for at least one hour.
-- You do not need to worry about permanent data loss; a router reset only affects connectivity settings, not the data stored on your computers or phones.
+- You do **not** need to decide now whether to replace the router, change provider, or reconfigure your whole network.
+- You do **not** need to rename Wi-Fi or change channels while you’re still establishing whether it’s an outage vs. a local fault.
+- You can postpone any deep troubleshooting (firmware/admin settings) until after you’ve checked service status and logged the fault if needed.
 
 ## Important reassurance
-Unexpected reboots are often caused by automatic firmware updates pushed by your provider, usually occurring in the early hours of the morning. If the internet does not return after a single power-cycle, it is likely a network-wide fault that the provider is already working to fix, and is not a failure of your personal equipment.
+A sudden “everything dropped at once” event is often a routine provider outage or a normal equipment reboot/update. A single calm power-cycle plus a service-status check avoids making things worse.
 
 ## Scope note
-This guide provides first-step stabilization for a sudden loss of internet and equipment reboot. It does not cover internal wiring repairs, complex mesh network configuration, or long-term hardware troubleshooting for failing devices.
+These are first steps to stabilise, identify whether the problem is local vs. provider-side, and avoid irreversible changes. If it repeats, you may need provider diagnostics or a replacement device later.
 
 ## Important note
-This information is for general guidance and does not replace the specific technical instructions provided by your ISP. If you rely on your internet connection for life-critical medical equipment or telecare, contact your provider immediately to be added to their Priority Services Register. Under 2026 UK regulations, if a total loss of service lasts more than two working days after being reported, you are generally entitled to automatic compensation credited to your bill.
+This is general information, not provider-specific or professional advice. If you depend on connectivity for safety or care devices, treat any broadband loss as time-sensitive and contact your provider promptly.
 
 ## Additional Resources
-- https://www.virginmedia.com/the-edit/tech-and-connectivity/wifi-keeps-disconnecting
+- https://www.bt.com/help/check-service-status
 - https://www.bt.com/help/broadband/fix-a-problem/broadband-and-wi-fi/bt-broadband-connection-problems
-- https://help-centre.talktalk.co.uk/Broadband/Manage_my_network_and_devices/Fix_a_dropping_broadband_connection
-- https://www.virginmedia.com/help/how-to/broadband/hub-lights/blue-lights
-- https://www.bt.com/help/broadband/fix-a-problem/broadband-and-wi-fi
+- https://www.virginmedia.com/help/service-status
+- https://www.virginmedia.com/help/broadband/virgin-media-wifi-not-working
+- https://help-centre.talktalk.co.uk/Broadband/Manage_my_network_and_devices/Restore_your_router_to_factory_settings

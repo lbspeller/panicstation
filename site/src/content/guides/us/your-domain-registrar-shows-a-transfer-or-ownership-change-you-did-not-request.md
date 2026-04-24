@@ -1,105 +1,90 @@
----
+﻿---
 title: "What to do if… your domain registrar shows a transfer or ownership change you did not request"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "email app not syncing"
-  - "mail app connection error"
-  - "email sync failure"
-  - "connection error email"
-  - "repeated email sync prompts"
-  - "what do i do if my email stopped syncing"
-  - "what do i do if my mail app has a connection error"
-  - "what do i do if my inbox is not updating"
-  - "what do i do if i see an email sync error"
-  - "help i cannot receive emails on my phone"
-  - "help i have a mail connection error"
-  - "help i cannot sync my email account"
-  - "help i am getting email authentication errors"
-  - "email app spinning wheel"
-  - "no new emails arriving"
-  - "mail app server unreachable"
-  - "stuck on loading mail"
-  - "email sync timed out"
-  - "iphone mail connection error"
-  - "android mail sync problem"
-  - "imap connection failure"
-  - "exchange account sync error"
-  - "email app keeps asking for password"
-  - "sync error on mobile mail"
-  - "email app disconnected"
-  - "cannot update email inbox"
-  - "mail app fetch error"
-  - "email authentication failed"
-  - "server timeout mail app"
-  - "missing emails in app"
-last_reviewed: "2026-03-17"
+  - domain hijacking
+  - stolen domain name
+  - unauthorized domain transfer
+  - transfer out scam
+  - change of registrant
+  - registrant info changed
+  - whois changed unexpectedly
+  - registrar account compromised
+  - domain ownership changed
+  - nameservers changed
+  - dns records changed
+  - auth code stolen
+  - epp code leaked
+  - domain lock issue
+  - email takeover risk
+  - website redirecting
+  - business email compromised
+  - phishing from my domain
+  - regain control of domain
+  - icann transfer problem
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your domain registrar shows a transfer or ownership change you did not request (USA)
 
 ## Short answer
-Verify the service status of your email provider and check your internet connection before attempting to re-authenticate or modify account settings. Use a web browser to log in to your email directly to determine if the issue is with the account itself or the specific application.
+Act fast: contact your registrar immediately, report an **unauthorized transfer / unauthorized change of registrant**, and request an **immediate lock/hold (where available)** while you secure the email and accounts that control the domain.
 
 ## Do not do these things
-- Do not repeatedly enter your password if the connection fails, as this may trigger a security lockout or temporary IP ban.
-- Do not uninstall the email application or perform a factory reset of your device as an initial troubleshooting step.
-- Do not click links in "account verification" emails that arrive during a sync failure, as these are frequently phishing attempts.
-- Do not change multiple account settings, such as server ports or security protocols, simultaneously.
-- Do not assume your account is compromised solely based on a sync error, as server outages and expired login tokens are more common.
+- Don’t ignore registrar emails or assume it’s “just a WHOIS privacy change.”
+- Don’t keep reusing the same password or attempting repeated logins if you suspect the account was accessed—switch to **password reset + support escalation**.
+- Don’t delete alerts, receipts, old registration emails, or support tickets—those are your proof.
+- Don’t pay unsolicited “domain recovery” messages or send money to “release” your domain.
+- Don’t repeatedly change DNS settings while ownership/control is disputed (it can make recovery harder).
 
 ## What to do now
-1. **Check the official service status of your email provider to rule out a widespread outage.** 
-   - For iCloud Mail, visit the Apple System Status page.
-   - For Gmail, check the Google Workspace Status Dashboard.
-   - For Outlook.com or Microsoft 365, check the Microsoft Service Health page or the M365 Admin Center for work accounts.
-   - If a service disruption is listed, stop troubleshooting and use the provider's webmail interface in a browser until the status returns to "Available."
+1. **Contact your registrar’s security/abuse team and escalate immediately.**
+   - Use the phrases: **“unauthorized transfer”** and/or **“unauthorized change of registrant.”**
+   - Ask them to confirm: what exactly changed (registrar, registrant contact, nameservers, auth/EPP code) and when.
 
-2. **Test your account access through a web browser to isolate the problem to the app or the account.** 
-   - Log in to your email provider’s official website (e.g., gmail.com, outlook.com, or icloud.com).
-   - If you can log in and see new mail in the browser, the issue is limited to your mobile app or device settings.
-   - If the browser login also fails with a "password incorrect" or "account locked" error, focus on account recovery procedures rather than app settings.
+2. **Request the strongest locks/holds they can apply right now.**
+   - Ask for: **domain lock/transfer lock**, **account lock**, and any temporary **hold** options they support.
+   - Ask what **stop/cancel/reversal** options exist for your specific TLD and what evidence they need to act.
 
-3. **Perform a network reset by toggling your connection.** 
-   - Turn on Airplane Mode for 10 seconds, then turn it off to refresh your cellular and Wi-Fi connections.
-   - Switch from Wi-Fi to cellular data (or vice versa) to see if a specific network is blocking the email server.
-   - Temporarily disable any VPN, private DNS, or third-party firewall applications that may interfere with secure mail protocols.
+3. **Lock down the “control points” attackers usually used to steal domains.**
+   - Change passwords for: your **registrar account**, the **email address used as the domain contact**, and any **DNS/hosting** accounts.
+   - Turn on **MFA** everywhere you can.
+   - In your email account, check for **forwarding rules**, **new mailbox delegates**, and changes to **recovery email/phone**.
 
-4. **Verify that your device’s date and time settings are set to update automatically.** 
-   - Secure email servers often reject connections from devices with incorrect timestamps to prevent security exploits.
-   - Go to your device settings and ensure "Set Automatically" is enabled for Date & Time.
+4. **Preserve evidence and create a timeline you can hand to the registrar.**
+   - Save screenshots/PDFs of: registrar change notices, account activity logs, WHOIS/registration info, invoices/receipts, and older ownership/renewal confirmations.
+   - Record dates/times, ticket numbers, and any reference IDs your registrar provides.
 
-5. **Check background sync and data restrictions in your device settings.** 
-   - Ensure that "Low Power Mode" or "Battery Saver" is disabled, as these modes often throttle background email fetching.
-   - Confirm that "Background App Refresh" (iOS) or "Background Data" (Android) is enabled for your specific email application.
+5. **Check for active misuse (so you can prevent harm while recovery is in progress).**
+   - Verify whether **nameservers** changed and whether key DNS records changed (especially **MX** records for email).
+   - If your domain is being used for phishing or your site/email is redirecting, alert staff/customers through an alternate trusted channel (a different domain you control, a verified social account, or a customer portal notice).
 
-6. **Clear the application cache if you are using an Android device.** 
-   - Navigate to Settings > Apps > [Your Email App] > Storage and select "Clear Cache."
-   - Do not select "Clear Data" unless you are prepared to re-configure the account from scratch.
+6. **If it’s a common gTLD and the registrar is unresponsive, use ICANN compliance channels (as a backstop).**
+   - ICANN generally **can’t directly restore ownership** when illegal access occurred, but compliance complaints can help when **transfer/registrant-change rules weren’t followed**.
+   - File the appropriate **ICANN Contractual Compliance complaint** if you believe policy obligations were violated or you can’t reach the registrar.
 
-7. **Re-authenticate your account if the app provides a specific "Sign In" or "Update Password" prompt.** 
-   - Follow the prompt only if it appears within the official app interface.
-   - If you use Multi-Factor Authentication (MFA), ensure you complete the secondary approval on your authenticator app or via SMS code.
-
-8. **Remove and re-add the affected account as a final mobile troubleshooting step.** 
-   - Delete the account from the mail app settings, restart your device, and then add the account back using the "Automatic" or "OAuth" setup (signing in with your email and password via the provider's pop-up window).
+7. **Report as cybercrime if there’s fraud, extortion, or business impact.**
+   - File a report with the **FBI’s Internet Crime Complaint Center (IC3)**, especially if money was demanded, accounts were hacked, or customers were targeted.
 
 ## What can wait
-- You do not need to decide on switching to a new email provider or application right now.
-- You do not need to delete old emails or empty your trash folder to fix a connection error.
-- You do not need to contact your Internet Service Provider unless all internet-connected apps are failing.
+- You don’t need to decide today about lawsuits, rebranding, or switching registrars.
+- You don’t need to rebuild your whole security program right now—focus on email, registrar access, and DNS control first.
+- You don’t need to post publicly unless there’s evidence of active harm (phishing, impersonation, payment diversion).
 
 ## Important reassurance
-Temporary sync failures are a routine part of digital infrastructure and are most often caused by server maintenance, expired security tokens, or minor network interruptions. Most connection errors resolve themselves within a few hours without any permanent loss of data or security.
+Unauthorized transfers and registrant changes are a common kind of cyber-enabled fraud. Fast escalation to the registrar plus clear documentation often improves outcomes compared with trying to “fix it quietly.”
 
 ## Scope note
-This guide provides first-step stabilization for mobile and desktop email application sync errors. If your account is managed by an employer or school, or if you see unauthorized "successful login" alerts from unknown locations, contact your organization’s IT department or a security specialist.
+This is first-step guidance to stop further damage, preserve evidence, and trigger the fastest recovery paths. Later steps may require specialist technical or legal help depending on the domain, registrar, and harm caused.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT, legal, or cybersecurity advice. If you suspect your credentials have been stolen, use a separate, secure device to change your passwords and report the incident to the appropriate authorities, such as the FTC or IC3.
+This is general information, not legal advice. Domain recovery procedures vary by registrar and top-level domain; follow your registrar’s security escalation process and keep records to support your ownership claim.
 
 ## Additional Resources
 - https://www.icann.org/resources/pages/unauthorized-2013-05-03-en
 - https://www.icann.org/resources/pages/lost-domain-names
 - https://www.icann.org/compliance/complaint
-- https://www.icann.org/resources/pages/name-holder-faqs-2017-10-10-en
-- https://www.icann.org/en/contracted-parties/accredited-registrars/resources/domain-name-transfers/policy
+- https://www.icann.org/en/help/dispute-resolution
+- https://www.icann.org/en/contracted-parties/accredited-registrars/transfer-policy-01-06-2016-en
+- https://www.ic3.gov/

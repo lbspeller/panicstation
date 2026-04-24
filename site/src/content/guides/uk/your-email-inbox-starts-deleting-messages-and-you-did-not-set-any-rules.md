@@ -1,86 +1,95 @@
----
+﻿---
 title: "What to do if… your email inbox starts deleting messages and you did not set any rules"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "files renamed suddenly"
-  - "file extensions changed"
-  - "strange file extensions"
-  - "files look encrypted"
-  - "folders renamed"
-  - "random file names"
-  - "files have locked extension"
-  - "files have encrypted extension"
-  - "ransom note on computer"
-  - "possible ransomware"
-  - "possible malware infection"
-  - "cloud sync error"
-  - "shared drive files changed"
-  - "external drive affected"
-  - "photos documents unreadable"
-  - "cannot open my files"
-  - "windows files changed names"
-  - "mac files changed extensions"
-  - "happened all at once"
-  - "unknown file changes"
-  - "what do i do if my files are renamed"
-  - "what do i do if my file extensions changed"
-  - "what do i do if i see a ransom note"
-  - "what do i do if my files are locked"
-  - "help i cannot open my documents"
-  - "help i have a ransom note"
-  - "help my files have weird names"
-  - "help my desktop files changed"
-  - "smell of hot electronics"
-  - "loud fan noise"
-  - "pc running slow and renaming files"
-  - "unexpected file encryption"
-  - "cyber attack uk"
-  - "report ransomware uk"
-  - "files ending in crypt"
-  - "files ending in readme"
-last_reviewed: "2026-03-17"
+  - emails disappearing
+  - inbox deleting messages
+  - mail being auto-deleted
+  - messages moved to trash
+  - messages missing not deleted
+  - unexpected email loss
+  - mailbox empty suddenly
+  - email rules not set
+  - filters i did not create
+  - forwarding i did not add
+  - hacked email account
+  - suspicious sign-in email
+  - gmail missing emails
+  - outlook missing emails
+  - apple mail missing emails
+  - imap sync deleted emails
+  - mail app syncing wrong
+  - recover deleted emails
+  - stop further deletions
+  - email account compromised
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your email inbox starts deleting messages and you did not set any rules (UK)
 
 ## Short answer
-Treat the situation as a potential ransomware or malware attack and **immediately disconnect the affected device from all internet, network, and bluetooth connections** to stop the spread of encryption.
+Stop the deletions first: sign in to your email in a web browser (not an email app) and immediately remove any unknown forwarding/rules/filters. If anything looks suspicious, change your password and turn on 2-step verification.
 
 ## Do not do these things
-- Do not keep the device connected to the internet, Wi-Fi, or any local network cables.
-- Do not attempt to rename the files back to their original names until the cause is identified.
-- Do not plug in any external backup drives, USB sticks, or portable hard drives to the infected device.
-- Do not pay any requested ransom or engage with contact details provided in suspicious files.
-- Do not shut down the computer immediately if it is a work device; hibernate or disconnect it instead, as IT professionals may need the data in the RAM.
-- Do not assume a single file change is a glitch if multiple folders are affected simultaneously.
+- Don’t keep “trying things” across multiple devices/apps (sync can propagate changes and make mail vanish everywhere).
+- Don’t empty Trash/Deleted Items/Spam/Junk “to tidy up” (you may destroy the easiest recovery path).
+- Don’t trust links in “security alert” emails—open your provider by typing the address yourself or using a saved bookmark.
+- Don’t assume it’s only a glitch if it’s actively deleting—treat it as a potential compromise until you’ve checked.
 
 ## What to do now
-1. **Isolate the affected device from all networks immediately.** **Disable Wi-Fi and Bluetooth using hardware switches or system settings, and physically unplug any Ethernet cables.** This prevents the malware from communicating with a command server or spreading to other devices on the same network.
-2. **Disconnect all external storage and peripheral devices.** **Unplug any USB drives, external hard disks, or Network Attached Storage (NAS) units currently connected to the machine.** If these devices have not yet been encrypted, removing them now may save their contents.
-3. **Pause or disable cloud synchronization services.** **If possible, use a separate, clean device to log into your cloud storage accounts (e.g., OneDrive, Dropbox, iCloud) and temporarily disable syncing.** This prevents encrypted versions of your files from overwriting the clean versions stored in the cloud.
-4. **Identify sensory and visible cues of the incident.** **Look for new, unusual files in your folders with names like "READ_ME", "DECRYPT_INSTRUCTIONS", or files ending in extensions like .locked, .crypt, or .encrypted.** Note if the computer is running unusually slow, the cooling fans are at maximum speed, or the device is significantly hotter than usual.
-5. **Document the current state of the system without moving files.** **Take a photograph of the screen showing the renamed files and any ransom notes or error messages using a mobile phone.** Ensure you record the exact time and date the changes were first observed.
-6. **Report the incident to the appropriate authorities based on your location.** **If you are in England, Wales, or Northern Ireland, report the cyber crime online at reportfraud.police.uk or by calling 0300 123 2040.** If you are in Scotland, report the incident to Police Scotland by calling 101.
-7. **Notify your organization if the device is used for work or education.** **Contact your IT Department or Information Security Officer immediately and follow their specific internal incident response protocols.** Do not attempt to "clean" a work device yourself.
+1. **Freeze the situation (reduce syncing).**
+   - Close mail apps on phones/tablets, or switch them offline for a few minutes.
+   - Use one trusted device for the steps below (preferably a computer).
+
+2. **Check where the emails really are (webmail first).**
+   - On the provider’s website, check: **Trash/Deleted Items**, **Spam/Junk**, and **Archive/All Mail** (missing mail is often moved/archived).
+   - Use search (sender domain, subject keywords, date range) and look for mail sitting in unexpected folders.
+
+3. **Remove the “silent movers”: rules, filters, forwarding, and mailbox features.**
+   - In web settings, review **rules/filters** and delete/disable anything you didn’t create (especially “delete”, “move”, “mark as read”, “archive”, or “forward” actions).
+   - Check **forwarding** addresses and remove any you don’t recognise.
+   - If your provider has “cleanup/sweep/auto-archive” features, temporarily turn them off while you stabilise.
+
+4. **Check account access and lock it down if anything looks off.**
+   - Review recent sign-ins / security events and signed-in devices; sign out of unknown sessions.
+   - Change your password **from the provider’s official account page** (not via an email link).
+   - Turn on **2-step verification** and confirm recovery options (phone/email) are ones you control.
+
+5. **Recover what you can while the window is open.**
+   - Restore messages from **Deleted/Trash** back to Inbox (or a new “Recovered” folder).
+   - If your mail is Outlook.com/Microsoft-hosted, also look for any “recover deleted items” option if messages aren’t in Deleted Items.
+
+6. **Capture quick evidence before you change too much.**
+   - Take screenshots of any suspicious rules/forwarding addresses, unexpected sign-ins, and any “settings changed” notices. This helps provider support (and you) reconstruct what happened.
+
+7. **If you can’t stop it: use official recovery/support routes.**
+   - Use your provider’s official **account recovery / compromised account** flow.
+   - If this is a work/school account, contact your IT/helpdesk and ask them to check for mailbox rules, forwarding, and signs of account compromise.
+
+8. **If fraud is involved in the UK, report it using the right route (optional).**
+   - **England/Wales/Northern Ireland:** report cyber crime and fraud via the police reporting service at Report Fraud (online or phone).
+   - **Scotland:** contact **Police Scotland** on **101** (or **999** in an emergency).
 
 ## What can wait
-- You do not need to decide whether to pay a ransom right now; this is generally discouraged by the National Cyber Security Centre (NCSC).
-- You do not need to identify the specific strain of malware immediately.
-- You do not need to attempt to restore files from backups until the device and the network have been confirmed clean by a professional.
-- You do not need to format or wipe the device until you have confirmed whether forensic evidence is required for insurance or legal purposes.
+- You don’t need to decide today whether to switch email providers or “start over”.
+- You don’t need to reorganise your mailbox or rebuild folders right now.
+- You don’t need to contact everyone immediately—first stop the deletion and secure access.
 
 ## Important reassurance
-Sudden file renaming and encryption are hallmarks of automated malware, and feeling a sense of urgency is a natural response. By disconnecting the device and stopping the sync process now, you have already taken the most effective steps to limit the total volume of data lost.
+This can be caused by something mundane (syncing, archiving, a mail app issue) or something malicious (a rule/forwarding added after a sign-in). Either way, the safest first move is the same: stabilise in webmail, remove unknown rules/forwarding, and secure the account.
 
 ## Scope note
-This guide provides first-step stabilization and containment actions for a suspected digital infection. It does not cover the technical process of malware removal, data decryption, or long-term system recovery, which should be handled by specialists.
+These are first steps to stabilise and prevent further loss. If you confirm a compromise, you may later want specialist help (provider support, workplace IT, or fraud support) to fully review linked accounts and recovery options.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT security, forensic, or legal advice. Cyber incidents involving personal or sensitive data may trigger legal reporting requirements under the UK GDPR; consult the Information Commissioner’s Office (ICO) website for guidance on data breach notifications.
+This is general information, not legal or professional advice. If you can’t regain control of the account or you suspect active fraud, prioritise official provider recovery routes and the appropriate UK reporting/support channels.
 
 ## Additional Resources
-- https://support.microsoft.com/en-gb/office/manage-email-messages-by-using-rules-in-outlook-c24f5dea-9465-4df4-ad17-a50704d66c59
-- https://support.google.com/mail/answer/7015314?co=GENIE.Platform%3DDesktop&hl=en
-- https://support.google.com/mail/answer/6579?hl=en-GB
-- https://www.bt.com/help/email/email-security/how-can-i-tell-if-my-email-account-is-no-longer-secure
+- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.ncsc.gov.uk/collection/using-online-services-safely/recovering-hacked-account-or-service
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.reportfraud.police.uk/guide-to-reporting/
+- https://support.google.com/mail/answer/10957?hl=en-GB
+- https://support.microsoft.com/en-gb/office/recover-and-restore-deleted-items-in-outlook-49e81f3c-c8f4-4426-a0b9-c0fd751d48ce
 - https://support.microsoft.com/en-gb/office/email-is-missing-from-your-outlook-com-inbox-c70b4a9a-caa5-4e8c-a88a-3372215af25e

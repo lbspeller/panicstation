@@ -1,88 +1,86 @@
----
+﻿---
 title: "What to do if… you discover your address or workplace has been posted publicly online alongside hostile comments"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "doxxed in the uk"
-  - "address leaked online"
-  - "workplace location shared"
-  - "my home address posted"
-  - "online harassment uk"
-  - "targeted online pile on"
-  - "hostile comments and doxxing"
-  - "what do i do if my address is online"
-  - "what do i do if i am doxxed"
-  - "what do i do if my workplace is leaked"
-  - "what do i do if someone shares my location"
-  - "help i have been doxxed"
-  - "help my address is public"
-  - "help someone posted where i work"
-  - "help i am being harassed online"
-  - "smell of burning"
-  - "visible suspicious activity"
-  - "threats of physical harm"
-  - "unsolicited visitors at home"
-  - "doxxed address help"
-  - "doxing address relief"
-  - "posted online with threats"
-  - "home safety after doxxing"
-  - "work safety after doxxing"
-  - "harassment on social media uk"
-  - "reporting doxxing to police uk"
-  - "online safety act reporting"
-  - "report harmful content escalation"
-  - "right to erasure doxxing"
-  - "personal details shared without consent"
-last_reviewed: "2026-03-17"
+  - doxxed
+  - doxxing
+  - my address posted online
+  - home address leaked
+  - workplace location posted
+  - my workplace posted online
+  - hostile comments online
+  - targeted online harassment
+  - threats after being doxxed
+  - online pile-on
+  - someone shared my location
+  - personal details shared publicly
+  - public shaming post
+  - harassment spreading online
+  - worried someone will show up
+  - address shared on social media
+  - location exposed online
+  - safety after doxxing
+  - employer being contacted
+last_reviewed: "2026-01-11"
 ---
+
 # What to do if… you discover your address or workplace has been posted publicly online alongside hostile comments (UK)
 
 ## Short answer
-Treat the situation as a physical safety priority by moving to a secure location and reporting the incident to the police if threats are implied. Use platform reporting tools immediately and contact your employer if your workplace is mentioned.
+Treat this as a personal safety issue first: get to a safer place, tell someone you trust (and your workplace if it involves your job), and contact police if you feel at risk or any threats are implied.
 
 ## Do not do these things
-- Do not respond to the post, argue with commenters, or attempt to defend yourself publicly.
-- Do not share more personal details or "correct" information provided by the poster.
-- Do not delete your accounts or the original post before taking screenshots for evidence.
-- Do not attempt to track down or confront the person who posted the information.
-- Do not assume the threat is limited to the internet when physical locations are involved.
+- Don’t reply publicly or argue with the poster(s) (it can escalate and spread the post further).
+- Don’t “correct” the post by sharing more details (even to defend yourself).
+- Don’t rush into deleting your own accounts/posts in a panic if they’re needed to show what happened.
+- Don’t try to meet, confront, or “investigate” who posted it.
+- Don’t treat it as “just online” if your home or workplace location is involved.
 
 ## What to do now
-1. **Assess your immediate physical risk and call 999 if you are in danger.** **If you believe someone is currently at your home or workplace, you are being followed, or the post contains specific threats of violence, contact emergency services immediately.** If the situation is not an immediate emergency but you feel targeted or unsafe, call 101 or use your local police force’s online reporting tool for "Harassment and Stalking."
+1. **Do a quick danger check.**  
+   If you believe someone may come to your home/workplace imminently, you’re being followed, you see suspicious activity nearby, or the post includes threats/calls to harass you, **call 999**. If it’s not an emergency but you’re scared or targeted, contact police via **101** or your local force’s online reporting.
 
-2. **Activate physical safety support and inform your workplace.** **If your place of work has been shared, notify your line manager, HR department, or site security immediately.** 
-   - Ask them to ensure reception or security staff do not confirm your presence or schedule to callers or visitors.
-   - Discuss temporary safety measures such as working from home or varying your arrival and departure times.
-   - If your home address was shared, inform a trusted neighbour or someone you live with so they are alert to unexpected visitors.
+2. **Tell a real-world person and activate basic safety support (today).**  
+   - **Workplace posted:** tell your **manager/HR/security/reception**. Ask them to **not confirm your employment or schedule** to unknown callers/visitors, and to follow visitor procedures strictly for now. If possible, ask about a temporary change like working from home or adjusting entry/exit points.  
+   - **Home address posted:** tell someone you live with (or a nearby trusted person). Consider having someone with you when you arrive/leave, and be cautious with unexpected visitors.
 
-3. **Capture evidence of the doxxing and hostile comments.** **Take screenshots that clearly show your personal details (address or workplace), the account name of the poster, the URL of the page, and the timestamp.** Ensure you capture the hostile context or any comments that incite others to harass you, as this is critical for police reporting under the Online Safety Act 2026.
+3. **Capture the essentials (2–5 minutes, then stop).**  
+   Screenshot the content and note: the **URL**, platform/site name, account names, and **date/time** you saw it. Capture enough context to show your address/workplace and the hostile framing.
 
-4. **Report the content to the platform using their "Personal Information" or "Harassment" tools.** **Use the specific reporting functions on the site where the information is hosted, citing a violation of their doxxing or harassment policies.** Under UK law, platforms have a duty to remove illegal content; if the platform does not respond within 24 hours, keep a record of your report ID for escalation.
+4. **Report it where it’s posted (fast containment).**  
+   Use the platform/site’s reporting tools for **harassment/threats** and **sharing personal information (doxxing)**. If it’s a standalone site/forum, use its **contact/abuse** route to request removal of your address/workplace details.
 
-5. **Escalate to "Report Harmful Content" if the platform fails to act.** **If the site refuses to remove your address or workplace details, use the UK Safer Internet Centre’s "Report Harmful Content" service to request professional mediation with the platform.** This service can assist in escalating removals when standard reporting routes have failed.
+5. **If the site won’t act, escalate to the service running it.**  
+   If there’s no response (or the content stays up), look for the site’s **“report abuse”** information for its **hosting provider or domain registrar** and submit a removal request focused on the publication of your home/work address and any threatening content.
 
-6. **Submit a "Right to Erasure" request to search engines.** **Use the official reporting forms for Google, Bing, and other search engines to request the removal of search results that link your name to your home or work address.** While this does not remove the original post, it significantly reduces the visibility of the information to the general public.
+6. **If the behaviour is repeated or makes you feel scared/threatened, report it as harassment/stalking.**  
+   Even if you’re unsure what it “counts as,” you can report what’s happening (including repeated posts, pile-ons, or people contacting your workplace). If you want to give information without identifying yourself, there are also anonymous reporting routes (eg via Crimestoppers).
 
-7. **Review your privacy settings on all other accounts.** **Lock down your social media profiles to "Private" and remove any public-facing bio information that mentions your employer, city, or landmarks near your home.** Do this as a single pass to prevent further data gathering by hostile actors.
+7. **Reduce discoverability (only as a quick first pass).**  
+   - You can ask **search engines** to remove certain results that expose personal data in some cases (this may reduce visibility but may not remove the underlying page).  
+   - You can ask organisations that hold your personal data to delete it **in some circumstances** (the “right to erasure” is not automatic and depends on the situation).
 
 ## What can wait
-- Deciding whether to take formal legal action or hire a solicitor.
-- Attempting to scrub your entire digital footprint or "people finder" sites.
-- Changing your permanent phone number or moving house unless advised by police.
-- Responding to media enquiries or making a public statement about the incident.
+- Deciding whether to pursue longer legal routes or making a detailed statement.
+- Trying to remove every trace from the internet in one sitting (do it in stages).
+- Changing phone numbers, moving, or making major life changes unless police/workplace security advise a specific risk.
+- Deep “cleanup” work across multiple data-broker/people-finder listings (do later, when supported and calmer).
 
 ## Important reassurance
-It is a common and valid reaction to feel a sense of violation or panic when your private locations are exposed. Doxxing is designed to make you feel vulnerable, but taking immediate steps to secure your physical environment and report the content is the most effective way to regain control and limit the spread of the information.
+It’s normal to feel shocked and unsafe when your location is exposed like this. Focusing first on real-world safety and quick containment is a practical response that helps prevent escalation.
 
 ## Scope note
-This guide provides first-step stabilization for the immediate hours following a doxxing incident. It focuses on physical safety and initial digital containment only; long-term privacy management or legal remedies will require further professional support.
+This is first steps for the first hours/day. If the targeting continues, the next layer is coordinated support (police, workplace security/HR, and specialist victim support).
 
 ## Important note
-This information does not constitute legal or security advice. If you are being threatened or fear for your physical safety, you must contact the police. UK police take online harassment and doxxing seriously under the Protection from Harassment Act and the Online Safety Act 2026.
+This is general information, not legal advice. If you are in immediate danger, call **999**. If you feel threatened or targeted, contact police via **101**/online reporting and prioritise practical safety at home/work.
 
 ## Additional Resources
-- https://www.security.gov.uk/services-resources/gsecs/security-education-and-awareness-centre-seac/campaigns/doxing/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
 - https://www.met.police.uk/advice/advice-and-information/har/harassment-on-social-media/
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/protection-from-online-stalking-and-harassment/
-- https://www.met.police.uk/ro/report/stalking-harassment-beta/v1/report-stalking-harassment/
-- https://revengepornhelpline.org.uk/news/everything-you-need-to-know-about-doxing/
+- https://www.security.gov.uk/services-resources/gsecs/security-education-and-awareness-centre-seac/campaigns/doxing/
+- https://www.cps.gov.uk/types-crime/cyber-online-crime
+- https://ico.org.uk/for-the-public/online/internet-search-results/
+- https://ico.org.uk/for-the-public/your-right-to-get-your-data-deleted/

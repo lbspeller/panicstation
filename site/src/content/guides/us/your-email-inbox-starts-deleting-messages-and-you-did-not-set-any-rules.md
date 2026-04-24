@@ -1,91 +1,96 @@
----
+﻿---
 title: "What to do if… your email inbox starts deleting messages and you did not set any rules"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "files renamed suddenly"
-  - "file extensions changed"
-  - "strange file extensions"
-  - "files look encrypted"
-  - "folders renamed"
-  - "random file names"
-  - "files have locked extension"
-  - "file extension encrypted"
-  - "ransom note on computer"
-  - "possible ransomware"
-  - "possible malware infection"
-  - "cloud sync went wrong"
-  - "shared drive files changed"
-  - "external drive affected"
-  - "photos documents unreadable"
-  - "can't open my files"
-  - "windows files changed names"
-  - "mac files changed extensions"
-  - "happened all at once"
-  - "i don't know what changed them"
-  - "what do i do if files are renamed"
-  - "what do i do if my extensions changed"
-  - "what do i do if i see a ransom note"
-  - "what do i do if files are locked"
-  - "help i think i have ransomware"
-  - "help i can't open my documents"
-  - "help my files look weird"
-  - "help my desktop has a text file"
-  - "my files are all renamed"
-  - "my extensions are different"
-  - "my cloud files are renaming"
-  - "my network drive is encrypted"
-  - "smell of burning computer"
-  - "visible popups on desktop"
-  - "unusual computer heat"
-  - "computer fan running loud"
-  - "slow computer performance"
-  - "files disappearing"
-  - "encrypted file recovery"
-  - "ransomware response steps"
-last_reviewed: "2026-03-17"
+  - emails disappearing
+  - inbox deleting messages
+  - mail being auto-deleted
+  - messages moved to trash
+  - messages missing not deleted
+  - unexpected email loss
+  - mailbox empty suddenly
+  - email rules not set
+  - filters i did not create
+  - forwarding i did not add
+  - hacked email account
+  - suspicious sign-in email
+  - gmail missing emails
+  - outlook missing emails
+  - apple mail missing emails
+  - imap sync deleted emails
+  - mail app syncing wrong
+  - recover deleted emails
+  - stop further deletions
+  - email account compromised
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your email inbox starts deleting messages and you did not set any rules (USA)
 
 ## Short answer
-Assume a ransomware event is in progress and **immediately disconnect the device from all networks and power sources to stop further encryption.** Do not attempt to rename files or use unverified recovery tools.
+Stop further deletions: sign in to your email using the provider’s website (not an email app), and immediately remove any unknown rules/filters/forwarding. If anything looks suspicious, change your password and turn on multi-factor authentication.
 
 ## Do not do these things
-- Don't keep the device connected to Wi-Fi, Ethernet, or Bluetooth.
-- Don't leave external backup drives or USB sticks plugged into the affected machine.
-- Don't attempt to rename the files back to their original extensions.
-- Don't download or run "decryptor" software from unverified search results.
-- Don't pay any ransom or communicate with the attackers before seeking professional advice.
-- Don't wipe the drive or reinstall the operating system if you intend to report the crime or attempt data recovery.
-- Don't pay fees to anyone claiming they can "guarantee" recovery of your funds or files.
+- Don’t keep opening/refreshing the mailbox on lots of devices (sync can propagate deletions fast).
+- Don’t empty Trash/Deleted Items/Spam/Junk “to clean up” (you may erase your best recovery route).
+- Don’t click “security” links in emails to fix it—navigate to the provider’s site directly.
+- Don’t assume it’s harmless if it’s actively deleting; treat it as possible account takeover until you check.
 
 ## What to do now
-1. **Isolate the device by immediately disabling all network connectivity.** **Turn off Wi-Fi, unplug Ethernet cables, and disable Bluetooth to prevent the malware from spreading to other computers or cloud storage.**
-2. **Stop all cloud synchronization services immediately to prevent encrypted files from replacing healthy ones.** **Pause syncing for services like OneDrive, iCloud, Google Drive, or Dropbox on the affected device, or if possible, from a separate, uninfected device.**
-3. **Power down the device only if you cannot physically or digitally disconnect it from the network.** **While keeping the device on can help experts preserve evidence in memory, stopping the spread of encryption via a hard power-down is the priority if network isolation fails.**
-4. **Disconnect all physically attached storage media including external hard drives and NAS units.** **Unplug any USB drives, SD cards, or network-attached storage to ensure the malware cannot reach your secondary data copies.**
-5. **Document the situation by taking photos of the screen with a separate camera or phone.** **Capture images of any ransom notes, the appearance of the renamed files, and any specific error messages or windows that appeared during the event.**
-6. **Report the incident to the FBI Internet Crime Complaint Center (IC3) at www.ic3.gov.** **Navigate directly to the official .gov website and provide details such as the file extensions used and the text of the ransom note.**
-7. **Consult the "No More Ransom" project from a different, safe device to check for legitimate decryptors.** **Upload a sample encrypted file to their "Crypto Sheriff" tool to see if a free, verified decryption key is available for that specific malware family.**
+1. **Reduce syncing immediately.**
+   - Close mail apps on phone/tablet, or switch them offline temporarily.
+   - Use one trusted device for the next steps (preferably a computer).
+
+2. **Verify where the mail is (webmail first).**
+   - On the provider website, check: **Trash/Deleted Items**, **Spam/Junk**, and **Archive/All Mail**.
+   - Use search (sender, subject, date range) to find “missing” messages that may have been moved rather than deleted.
+
+3. **Remove the usual culprit: hidden rules, filters, and forwarding.**
+   - In web settings, review **inbox rules/filters** and delete/disable anything you didn’t create (especially anything that deletes, moves, archives, marks as read, or forwards).
+   - Check **forwarding** and remove any destination you don’t recognize.
+
+4. **Check account access and secure it (assume compromise until proven otherwise).**
+   - Review recent sign-in activity and active sessions/devices; sign out unknown ones.
+   - Change your password using the official account security page.
+   - Turn on **MFA** and confirm your recovery email/phone are yours.
+
+5. **Recover messages while you still can.**
+   - Restore emails from **Deleted/Trash** back to Inbox (or a new “Recovered” folder).
+   - If using Outlook.com/Microsoft webmail, also look for any “recover deleted items” option if messages aren’t in Deleted Items.
+
+6. **Take quick screenshots before changes overwrite clues.**
+   - Capture any suspicious rules/forwarding addresses, unfamiliar sign-ins, and account change notices. This helps provider support (and you) trace what happened.
+
+7. **If you can’t stop it: use the provider’s official recovery path.**
+   - Start the “account compromised” / “secure account” process for your provider.
+   - If this is a workplace or school account, contact IT/security—organizations often have extra logging and recovery tools.
+
+8. **If this connects to identity theft or scams in the USA (optional, but useful).**
+   - If you think personal information was stolen, go to **IdentityTheft.gov** to report it and get a step-by-step recovery plan.
+   - To report scams/fraud, you can also file a report at **ReportFraud.ftc.gov**.
+   - For cyber-enabled fraud/crime reporting, you can submit a complaint to the **FBI’s IC3**.
 
 ## What can wait
-- You do not need to decide whether to pay a ransom in the first hour.
-- You do not need to identify the specific name of the virus or malware family immediately.
-- You do not need to start the full system restoration process until the infection is contained.
-- You do not need to notify your entire contact list until you have confirmed if the malware had email-spreading capabilities.
+- You don’t need to decide right now whether to switch email providers.
+- You don’t need to reorganize folders or do a big cleanup.
+- You don’t need to notify everyone immediately—first stop the deletion and secure access.
 
 ## Important reassurance
-It is normal to feel a sense of urgency to "fix" the files or click "undo," but the most effective action right now is to stop moving. By isolating the device, you have already taken the single most important step to prevent the situation from worsening.
+This can happen from a sync/app issue or from someone adding a rule/forwarding after gaining access. The same first steps help in both cases: stabilise via webmail, remove rules/forwarding you didn’t create, and lock down the account.
 
 ## Scope note
-This guide provides first-step stabilization only. Professional IT security support, forensic analysis, and systematic backup restoration are required for full recovery and to ensure the malware is completely removed.
+These are immediate first steps to prevent further loss and reduce damage. If you confirm compromise, later steps may include checking other accounts that use this email for password resets and reviewing device security.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional forensic advice. Ransomware situations involve active criminal elements and technical volatility; always prioritize official guidance from CISA and the FBI when handling a digital security crisis.
+This is general information, not legal or professional advice. If you can’t regain control of the account or you suspect ongoing fraud, use official provider recovery/support and consider reporting through appropriate official channels.
 
 ## Additional Resources
-- https://support.google.com/mail/answer/7015314?co=GENIE.Platform%3DDesktop&hl=en
-- https://support.microsoft.com/en-us/office/recover-and-restore-deleted-items-in-outlook-49e81f3c-c8f4-4426-a0b9-c0fd751d48ce
-- https://support.apple.com/guide/iphone/delete-and-recover-emails-iphb02be90ba/ios
-- https://support.google.com/mail/answer/7036019?co=GENIE.Platform%3DAndroid&hl=en
-- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
+- https://consumer.ftc.gov/node/77537
+- https://consumer.ftc.gov/consumer-alerts/2024/10/email-or-social-media-hacked-heres-what-do
+- https://www.identitytheft.gov/
+- https://reportfraud.ftc.gov/
+- https://www.cisa.gov/secure-our-world/turn-mfa
+- https://support.google.com/mail/answer/10957
+- https://support.microsoft.com/en-gb/office/recover-and-restore-deleted-items-in-outlook-49e81f3c-c8f4-4426-a0b9-c0fd751d48ce
+- https://www.ic3.gov/

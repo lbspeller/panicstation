@@ -1,94 +1,90 @@
----
+﻿---
 title: "What to do if… someone says they have access to your accounts and could leak private messages of a sexual nature"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "someone has my private messages"
-  - "threat to leak sexual chats"
-  - "hacked and threatened with leak"
-  - "blackmail over intimate dms"
-  - "sextortion from social media account"
-  - "help i am being blackmailed with messages"
-  - "what do i do if someone has my intimate photos"
-  - "help i am being threatened with exposure"
-  - "my private messages are being leaked"
-  - "threat to share sexual messages"
-  - "account access leak threat"
-  - "someone is threatening to expose me"
-  - "stolen intimate messages blackmail"
-  - "sexual content leak threat"
-  - "private chat extortion"
-  - "threatened with screenshot release"
-  - "someone claims to have my password"
-  - "demand for money to stop leak"
-  - "threat to send messages to my family"
-  - "hacked email leak threat"
-  - "message history blackmail"
-  - "unauthorized access to private chats"
-  - "threat to post sexual messages"
-  - "online extortion help uk"
-  - "threatened with intimate message share"
-  - "someone has my sexual photos"
-  - "leaking private sexual content"
-  - "extortion over sexual messages"
-  - "hacked and threatened with sextortion"
-last_reviewed: "2026-03-17"
+  - sextortion threat
+  - blackmail with intimate messages
+  - leak threat private messages
+  - sexual messages blackmail
+  - hacked account threat
+  - someone says they have your password
+  - extortion over nude messages
+  - intimate chat leak scam
+  - kompromat threat
+  - threatening to expose you
+  - account takeover fear
+  - instagram sextortion
+  - whatsapp leak threat
+  - dm leak threat
+  - webcam blackmail
+  - private photos threat
+  - threatening screenshot release
+  - they say they can access my account
+  - demand money or else
+  - sensitive image abuse
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… someone says they have access to your accounts and could leak private messages of a sexual nature (UK)
 
 ## Short answer
-Stop all contact immediately, do not pay any demands, and secure your primary email account to prevent further access. Contact the Revenge Porn Helpline (adults) or CEOP (under 18s) for specialized removal and reporting support.
+Pause, don’t pay, and stop engaging with the person. Secure your accounts (starting with email), and get specialist support so you’re not handling this alone.
 
 ## Do not do these things
-- Do not pay the demand, send gift cards, or provide cryptocurrency—payment almost always leads to higher demands rather than a stop to the threats.
-- Do not engage in further conversation or try to negotiate for more time.
-- Do not delete the platform account yet, as this may destroy digital evidence needed for a report.
-- Do not share one-time passcodes (OTPs) or click any "verification" links sent by the individual.
-- Do not take screenshots of any intimate images if there is any possibility the person in them is under 18, as this is a criminal offence.
-- Do not blame yourself for the situation; these tactics are used by organized groups to trigger shame and compliance.
+- Don’t pay, send gift cards/crypto, or “buy time” by negotiating — it usually escalates demands.
+- Don’t send more intimate content “to prove” anything, or to try to satisfy the threat.
+- Don’t click links they send, install “verification” apps, or share one-time passcodes.
+- Don’t rush into deleting chats/emails/accounts before you’ve captured the essentials (if you need to lock an account quickly, secure it first and keep minimal screenshots/notes).
+- Don’t post public explanations or name-and-shame them while you’re still exposed (it can inflame the situation).
+- Don’t assume it’s your fault or that you must handle it privately.
 
 ## What to do now
-1. **Stop all communication and block the individual.** **Cut off all contact across every platform where they have reached out.**
-   - Do not send a "final message" or explain that you are blocking them; simply stop.
-2. **Secure your master account immediately.** **Change the password of the email account associated with your social media or messaging apps first.**
-   - Use a long, unique password (e.g., three random words) and enable two-factor authentication (2FA/MFA) if not already active.
-   - Check the "forwarding rules" in your email settings to ensure your messages are not being automatically sent to an unknown address.
-3. **Capture essential evidence of the threat.** **Save a copy of the threat and the individual's profile information before blocking.**
-   - Record the username, profile URL, date, time, and the specific platform used.
-   - Take screenshots of the payment demand or threat (avoiding any intimate images if they involve minors).
-4. **Isolate other compromised accounts.** **Check the "Logged in devices" or "Security" section of your social media and messaging apps.**
-   - Manually "Log out of all other sessions" to kick out anyone with unauthorized access.
-   - Change the passwords for these accounts once the master email is secure.
-5. **Use specialized reporting tools for content removal.** **Report the threat to the platform and use technical prevention services.**
-   - If you are an adult, visit **StopNCII.org** to create a "hash" (digital fingerprint) of your images so participating platforms can block their upload.
-   - If you are under 18, use the **Report Remove** tool provided by Childline and the IWF.
-6. **Contact a specialist support service.** **Speak to an expert who handles these specific situations daily.**
-   - If you are 18+, contact the **Revenge Porn Helpline** at 0345 6000 459 (10am–4pm, Monday–Friday) or use their 24/7 chatbot.
-   - If you are under 18, report the incident through the **CEOP Safety Centre**.
-7. **Report the crime to the national authorities.** **File an official report to ensure law enforcement has a record of the extortion attempt.**
-   - In England, Wales, and Northern Ireland, use the **Report Fraud** service (formerly Action Fraud) at reportfraud.police.uk or call 0300 123 2040.
-   - In Scotland, call **101** to report the incident to Police Scotland.
-8. **Access mental health crisis support if needed.** **Contact the NHS if the stress of the situation is becoming unmanageable.**
-   - Call **NHS 111** and select the "mental health option" (press 2 in most areas) for 24/7 specialist support.
+1. **Create a safer pause.** Put the phone down for 60 seconds, breathe, and decide: “I’m not paying and I’m not replying right now.”
+2. **Save just enough evidence (minimal, not forensic).**
+   - Screenshot (or screen record) the threat, their username/handle, profile page, and any payment demand details.
+   - Note the date/time and which platform it happened on.
+3. **Stop contact and reduce access.**
+   - Stop replying.
+   - Block the account/number on the platform once you’ve captured key details.
+4. **Secure the accounts that can reset everything (fast damage-limiting).**
+   - **Email account first:** change password to a long unique one and turn on 2-step verification.
+   - Review and correct **recovery options** (recovery email/phone) and remove anything you don’t recognise.
+   - Then change passwords for: main social accounts, messaging accounts, cloud photo storage, and banking/payment apps.
+   - Sign out of other sessions/devices where the service allows it; remove unknown devices and connected apps.
+5. **Check for simple signs of compromise.**
+   - Look for unexpected login alerts, password reset emails you didn’t request, new forwarding rules/filters in email, or new devices/sessions.
+   - If you suddenly lose mobile signal or receive “SIM change” notices, contact your mobile provider (this can be a sign of SIM-swap attempts).
+6. **Use platform reporting and safety tools.**
+   - Report the account and the messages as sextortion/harassment on the platform where it’s happening.
+   - If you’re an adult and worried intimate images might be shared on major platforms, you can use **StopNCII.org** to help participating platforms detect and remove matching images where they violate policy (it does not remove content from the whole internet).
+7. **Get specialist support (you can do this without committing to a police report).**
+   - If you’re **18+ in the UK**, contact the **Revenge Porn Helpline** for confidential help with threats to share intimate content and removal support.
+   - If you’re **under 18** (or any images involve someone under 18), use **CEOP** and **Report Remove** (Childline/IWF) for safeguarding-focused support.
+8. **If you feel in immediate danger, call emergency services.**
+   - If there’s a real-world threat (they know where you are, stalking, coercion, threats of violence), call **999**.
+   - Otherwise, you can report to police via **101** (non-emergency).
 
 ## What can wait
-- You do not need to decide whether to tell friends or family right now.
-- You do not need to prove to the person that you have "fixed" your security.
-- You do not need to figure out exactly how they got access before taking steps to lock them out.
-- You do not need to respond to their "deadlines" or "countdowns."
+- You don’t need to decide right now whether to tell everyone, post publicly, confront them, or “explain yourself.”
+- You don’t need to prove whether they truly have access before taking basic security steps.
+- You don’t need to write a perfect report or gather every detail — capture the essentials and stabilise first.
+- You don’t need to make big life decisions tonight (relationships, job, moving, etc.).
 
 ## Important reassurance
-Extortionists rely on creating a state of high-intensity panic to prevent you from thinking clearly. The feeling of urgency is a tool they use, not a reflection of what will actually happen if you don't pay. Many threats are "bluffs" where the individual has limited access, and taking the steps to secure your accounts often ends the cycle because you are no longer a "profitable" target.
+Threats like this are designed to trigger shame and urgency so you’ll comply. Many people freeze or panic — that’s a normal stress response. You’re allowed to slow this down, get support, and take control in small steps.
 
 ## Scope note
-This guide provides first-step stabilization for UK-based individuals facing digital extortion or "sextortion." It does not replace professional legal advice or formal police investigations.
+This is first-steps-only guidance to stabilise the situation and reduce harm. If the threat continues or you feel unsafe, specialist services and/or police can help you make next decisions at your pace.
 
 ## Important note
-This information is for guidance only. If you are in immediate physical danger or the individual knows your home address and is making threats of physical violence, call 999 immediately. If any images or messages involve a person under the age of 18, this is a safeguarding matter and should be reported to CEOP or local social services.
+This is general information, not legal advice or a guarantee of outcomes. If you are in immediate danger or feel at risk of harm, call 999. If anyone under 18 is involved in any sexual images, prioritise safeguarding support and reporting routes for child safety.
 
 ## Additional Resources
-- https://www.gov.uk/report-crime
-- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/threats-to-share-intimate-images/
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/sextortion-and-webcam-blackmail/
-- https://www.victimsupport.org.uk/crime-info/types-crime/sextortion/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/
+- https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/kidnap-and-extortion/sextortion
+- https://revengepornhelpline.org.uk/how-can-we-help/
+- https://www.cityoflondon.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/help-and-support/
+- https://stopncii.org/how-it-works/?lang=en-gb
+- https://www.ceop.police.uk/Safety-Centre/
+- https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/report-remove/

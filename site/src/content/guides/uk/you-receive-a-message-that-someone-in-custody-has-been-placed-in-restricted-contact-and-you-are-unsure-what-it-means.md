@@ -1,100 +1,86 @@
----
+﻿---
 title: "What to do if… you receive a message that someone in custody has been placed in restricted contact and you are unsure what it means"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "restricted contact meaning"
-  - "restricted contact notice"
-  - "contact restricted in custody"
-  - "prison contact restriction message"
-  - "police custody contact limits"
-  - "visits restricted"
-  - "phone calls blocked"
-  - "letters delayed or refused"
-  - "no contact condition unsure"
-  - "restricted contact order confusion"
-  - "custody communication blocked"
-  - "detainee cannot call family"
-  - "prisoner contact list problem"
-  - "blocked prison calls"
-  - "closed visit meaning"
-  - "safeguarding restriction prison"
-  - "unsure if message is real"
-  - "scam message about custody"
-  - "family told restricted contact"
-  - "partner in custody no contact"
-  - "what do i do if someone is in restricted contact"
-  - "what do i do if i get a message about custody"
-  - "what do i do if a prisoner cannot call"
-  - "what do i do if police say restricted contact"
-  - "help i got a message about restricted contact"
-  - "help i cannot contact someone in prison"
-  - "help i am blocked from prison visits"
-  - "help i received a suspicious custody text"
-  - "my partner is in restricted contact"
-  - "my son is in restricted contact"
-  - "my friend has contact restrictions in prison"
-  - "my mail to prison was returned"
-  - "smell of scam message"
-  - "hear news of restricted contact"
-  - "see restricted contact notification"
-  - "feel unsure about custody message"
-  - "official looking custody scam"
-  - "prison contact list error"
-  - "restricted contact vs closed visits"
-last_reviewed: "2026-03-17"
+  - restricted contact meaning
+  - restricted contact notice
+  - contact restricted in custody
+  - prison contact restriction message
+  - police custody contact limits
+  - visits restricted
+  - phone calls blocked
+  - letters delayed or refused
+  - no contact condition unsure
+  - restricted contact order confusion
+  - custody communication blocked
+  - detainee cannot call family
+  - prisoner contact list problem
+  - blocked prison calls
+  - closed visit meaning
+  - safeguarding restriction prison
+  - unsure if message is real
+  - scam message about custody
+  - family told restricted contact
+  - partner in custody no contact
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive a message that someone in custody has been placed in restricted contact and you are unsure what it means (UK)
 
 ## Short answer
-Do not reply to the message or click any links; instead, verify the status by calling the official facility or the Prisoners’ Families Helpline (0808 808 2003) using a number you find independently.
+Don’t act on the message itself—verify it through official channels first. Confirm where they are held, then ask custody/prison staff (or their solicitor) what “restricted contact” means **in this case** and what you are allowed to do.
 
 ## Do not do these things
-- Don't provide "verification codes," bank details, or personal addresses to the sender of the message.
-- Don't send money via transfer apps, vouchers, or QR codes to resolve the "restriction."
-- Don't attempt to bypass restrictions by using "three-way calling" or asking other inmates/families to pass messages, as this can lead to permanent bans.
-- Don't delete the message yet; you may need it as evidence if it is a scam or for the person's solicitor.
-- Don't assume the restriction indicates a medical emergency; most "restricted contact" orders are administrative or related to security protocols.
+- Don’t reply to the message with personal details (address, bank info, “verification codes”), and don’t click links.
+- Don’t send money for “release”, “phone credit”, “fees”, or “urgent admin” based only on a message.
+- Don’t assume “restricted contact” means immediate danger; it can be a control for security, safeguarding, public protection, or discipline.
+- Don’t try to work around restrictions by asking others to pass messages or by using new numbers/accounts.
+- Don’t post names, locations, or screenshots on social media.
 
 ## What to do now
-1. **Save the message and stop all interaction with the sender.** 
-   - Take a screenshot that includes the sender's number or ID and the exact timestamp.
-   - Do not use the "Reply" function, even to ask who is sending the message.
-2. **Identify the specific facility where the person is held.** 
-   - Use the GOV.UK "Find a prisoner" service if you are unsure of their current location.
-   - If they were recently arrested, identify the specific police station and find its main switchboard number via the official police force website.
-3. **Verify the message through an independent official channel.** 
-   - Call the **Prisoners’ Families Helpline** at 0808 808 2003 for guidance on how to check a specific person's contact status.
-   - If calling a prison directly, ask for the **Family Liaison Officer** or the **Security Department** to confirm if a contact restriction (such as a "Closed Visit" order or a PIN phone block) is active.
-4. **Ask for the specific category of the restriction without requesting sensitive details.** 
-   - Ask if the restriction applies to **social calls**, **written mail**, or **face-to-face visits**.
-   - Check if your own name or phone number has been removed from their **Approved Contact List**.
-5. **Request a welfare check if the message implies a safety risk.** 
-   - Use the phrase **"I have a formal welfare concern"** if the message suggests the person is in danger.
-   - Ask the staff to record your concern in the **Custody Record** (for police) or the **NOMIS system** (for prisons).
-6. **Contact their solicitor to act as a secure intermediary.** 
-   - A solicitor can verify "Restricted Contact" orders (under PACE Code C for police or Prison Rules for HMPPS) much faster than a family member.
-   - If you do not have their solicitor’s details, ask the custody or prison staff for the name of the firm representing them.
-7. **Review your own status regarding legal "No Contact" conditions.** 
-   - Confirm that you are not the subject of a **Restraining Order**, **Domestic Violence Protection Order (DVPO)**, or a specific bail condition that forbids contact. 
+1. **Save the message without engaging.** Screenshot it, note the time/date and sender details, then stop interacting with it.
+2. **Verify the holding place using numbers you find independently.**
+   - If you know the police station/custody suite: call the force’s main switchboard number from an official source and ask for the **custody desk**.
+   - If you think they’re in prison: use the prison’s official GOV.UK contact details (not details provided in the message).
+3. **Ask what information they need, and give the minimum needed to confirm identity.**  
+   Say: “I received a message saying ‘restricted contact’. I’m trying to confirm whether it’s genuine. What details do you need from me to check?”  
+   (If they ask for payment, codes, or anything unrelated to identification, stop and treat it as suspicious.)
+4. **If this is police custody, ask about the standard custody rights/process (without demanding details).**
+   - Ask whether they have been offered **free legal advice** and whether they have been able to speak to a **solicitor**.
+   - Ask whether there is any delay or restriction affecting them having **someone informed** of their detention. Staff may not share reasons, but they can often confirm what process is being followed.
+5. **If this is prison, clarify what “restricted contact” refers to in practice.**  
+   Ask whether it affects:
+   - phone calls / voicemail systems
+   - letters (including whether mail is monitored or delayed)
+   - visits (including whether visits are limited to “closed visits” or whether specific visitors are restricted)
+   - whether you are on their **approved visitor/contact list**
+6. **If you think you personally might be the restricted person, pause contact until you confirm.**  
+   Sometimes restrictions apply to contact with specific individuals (for safeguarding/public protection or legal conditions). Don’t call, message, or ask others to pass messages until the facility or their solicitor confirms it’s permitted.
+7. **Route through their solicitor if you can’t get clarity.**
+   - If you know their solicitor: tell them you received a “restricted contact” message and ask what you should avoid doing and how you can pass any urgent welfare information.
+   - If you don’t know the solicitor: ask custody/prison staff (or the court contact on paperwork you already have) what the correct route is to identify the legal representative.
+8. **If you have a genuine welfare concern, say “welfare concern” and be specific.**  
+   Examples: serious medical condition/medication, disability needs, credible self-harm risk, threats from others. Ask staff to **record/log** it for healthcare/safer custody.
 
 ## What can wait
-- You do not need to figure out the "reason" for the restriction immediately; these are often classified for security or active investigation.
-- You do not need to pay any "admin fees" to restore contact; there is no legitimate charge for contact list processing.
-- You do not need to decide whether to appeal the restriction until you have received formal written notification from the facility.
+- You do **not** need to decide now whether to complain, take legal action, or contact the media.
+- You do **not** need to interpret the phrase yourself; wording varies by police force and prison.
+- You do **not** need to travel anywhere until you’ve confirmed the location and whether you are allowed to visit or make contact.
 
 ## Important reassurance
-Receiving notice of "restricted contact" is distressing, but it is a standard procedural step used in the UK justice system for everything from simple paperwork updates to routine security reviews. It does not automatically mean the person is injured or in trouble. Most legitimate restrictions are temporary and can be clarified through official legal channels once the initial "lockout" period passes.
+It’s normal to feel alarmed by the phrase “restricted contact”. Many restrictions are administrative or safeguarding controls and don’t mean you’ve missed an emergency. Your priority is to verify the facts and avoid actions that could make things worse.
 
 ## Scope note
-This guide covers first-step stabilization and verification only. It does not cover the legal appeals process for category-A restrictions, harassment warnings, or long-term mail monitoring.
+These are first steps only—verification, welfare, and avoiding irreversible mistakes. Next steps depend on whether this is police detention, remand, or prison custody, and on any legal/safeguarding controls.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Procedures vary between England, Wales, Scotland, and Northern Ireland. Always verify information through official government (.gov.uk) or police (.police.uk) domains.
+This is general information, not legal advice. What staff can tell you (and what “restricted contact” means) varies across the UK and by the person’s status and risk management. If you’re unsure, use official contact details and consider getting legal advice.
 
 ## Additional Resources
-- https://www.gov.uk/prison-visits
-- https://www.gov.uk/staying-in-touch-with-someone-in-prison
+- https://www.gov.uk/government/publications/pace-code-c-2019/pace-code-c-2019-accessible
+- https://www.college.police.uk/app/detention-and-custody/response-arrest-and-detention
+- https://assets.publishing.service.gov.uk/media/692485ee5f7777c304ba7efe/management-security-visits-closed-estate.pdf
+- https://assets.publishing.service.gov.uk/media/674888f6ebabe47136b3a189/2024_11_04_psi-16-2011-providing-visits-services-visitors.pdf
 - https://www.gov.uk/guidance/visit-a-prisoner-using-a-video-call
-- https://www.prisonersfamilies.org/staying-in-touch
-- https://www.prisonersfamilies.org/helpline
+- https://prisonreformtrust.org.uk/adviceguide/keeping-in-contact-with-family-and-friends/

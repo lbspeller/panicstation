@@ -1,92 +1,84 @@
----
+﻿---
 title: "What to do if… you discover someone saved intimate photos you sent with an expectation of privacy"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "someone saved my nudes"
-  - "intimate photos saved without permission"
-  - "private photos kept after breakup"
-  - "screenshots of intimate pictures"
-  - "they kept my explicit photos"
-  - "intimate images stored without consent"
-  - "worried they will share my nudes"
-  - "threat to leak intimate photos"
-  - "revenge porn fear"
-  - "intimate images on their phone"
-  - "consent to view not to keep"
-  - "private pictures forwarded"
-  - "expectation of privacy photos"
-  - "non-consensual intimate images"
-  - "saved sexy photos from chat"
-  - "intimate videos saved"
-  - "someone downloaded my nudes"
-  - "images saved from snapchat"
-  - "screenshotting private photos"
-  - "what do i do if someone saved my nudes"
-  - "what do i do if my private photos were saved"
-  - "what do i do if they saved my intimate images"
-  - "what do i do if i sent nudes and they saved them"
-  - "help i sent nudes and they kept them"
-  - "help i found my nudes on someone else phone"
-  - "help i think they saved my private videos"
-  - "help i sent a private photo and they screenshotted it"
-  - "my private photos were screenshotted"
-  - "my intimate images were saved without consent"
-  - "nude photos saved"
-  - "intimate videos kept"
-  - "private chat screenshots"
-  - "nude images on device"
-  - "explicit photos saved"
-  - "saved intimate content"
-last_reviewed: "2026-03-17"
+  - someone saved my nudes
+  - intimate photos saved without permission
+  - private photos kept after breakup
+  - screenshots of intimate pictures
+  - they kept my explicit photos
+  - intimate images stored without consent
+  - worried they will share my nudes
+  - threat to leak intimate photos
+  - revenge porn fear
+  - intimate images on their phone
+  - consent to view not to keep
+  - private pictures forwarded
+  - expectation of privacy photos
+  - non-consensual intimate images
+  - saved sexy photos from chat
+  - intimate videos saved
+  - someone downloaded my nudes
+  - images saved from snapchat
+  - screenshotting private photos
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you discover someone saved intimate photos you sent with an expectation of privacy (UK)
 
 ## Short answer
-Cease all communication with the person immediately and do not attempt to negotiate or offer further content to have the images deleted. Use a specialist tool like StopNCII to hash the images and prevent them from being uploaded to major platforms while seeking support from the Revenge Porn Helpline.
+Pause and focus on safety: don’t negotiate, threaten, or send anything else. Save a minimal record (without re-sharing the images), and get specialist support to reduce the risk of the photos being shared.
 
 ## Do not do these things
-- Do not send additional images, personal data, or "proof" in an attempt to resolve the conflict.
-- Do not engage with demands for money, further images, or physical meetings, as this frequently leads to escalation or blackmail.
-- Do not threaten the person publicly or initiate a social media argument, which can trigger the immediate sharing of the images.
-- Do not meet the individual alone to discuss the situation if there is any history of intimidation or coercion.
-- Do not save, download, or re-share the intimate images yourself if the subject is under 18, as this may constitute a separate legal offence.
+- Don’t send more images, “proof,” or additional personal details to try to fix it.
+- Don’t agree to demands (money, more images, meeting up) — this often escalates.
+- Don’t threaten them publicly or start a public argument; it can make things spread faster and harder to remove.
+- Don’t keep rereading upsetting messages: take the key screenshots you need, then archive/mute/hide the chat so you don’t have to look at it.
+- Don’t meet them alone to “sort it out” if you feel any intimidation, coercion, or safety risk.
 
 ## What to do now
-1. **Move to a secure location and discontinue contact with the individual.** If you are in the same physical space as the person or are receiving active messages, end the interaction and ensure you are in a safe environment before proceeding.
-2. **Deactivate automatic media saving and limit the flow of new material.** Adjust your messaging app settings to ensure no incoming or outgoing media is automatically saved to your camera roll, and assume any future content you send could be recorded.
-3. **Capture evidence of the communication and context without re-sharing or saving the intimate images themselves.**
-   - Screenshot usernames, profile pages, timestamps, and specific threats or admissions of saving the content.
-   - Record the URLs of any websites or social media pages where the content has been mentioned or posted.
-   - Maintain a simple written timeline of when the images were sent, when the discovery was made, and any subsequent interactions.
-4. **Utilise the StopNCII tool to proactively protect your images from being shared on major platforms.** This service creates a unique digital fingerprint (hash) of your image on your device—without uploading the image itself—and shares that hash with participating platforms to block future uploads.
-5. **Contact the Revenge Porn Helpline if you are aged 18 or over for confidential practical support.** They can provide technical assistance with takedown requests and advise you on your rights under the 48-hour mandatory removal rules for regulated UK platforms.
-   - Telephone: 0345 6000 459 (10:00 – 16:00, Monday to Friday).
-6. **Report the situation as a child protection matter if any person in the images is under 18.**
-   - Submit a report to CEOP (Child Exploitation and Online Protection Command).
-   - Use the "Report Remove" tool provided by Childline and the Internet Watch Foundation (IWF) to help remove images of minors from the internet.
-7. **Secure your digital accounts to prevent further unauthorised access to your media.**
-   - Update your email password and enable two-factor authentication (2FA) on all social media and cloud storage accounts.
-   - Review and sign out of all active "sessions" or "recognised devices" in your account security settings.
-8. **Contact the police via 101 or their online reporting tool if there are threats, coercion, or if the images have been shared.** If you believe you are in immediate physical danger or are being actively blackmailed (sextortion), call 999.
+1. **Get to a calmer, safer pause.** If this person is nearby or you feel unsafe, end contact for now and move somewhere you feel physically safe.
+2. **Stop the flow of new material.** Assume anything you send can be saved. Turn off “auto-save to camera roll” in messaging apps, and don’t send further intimate content to anyone while this is active.
+3. **Capture minimal evidence (without re-sharing images).**
+   - Screenshot *messages, threats, usernames, dates/times, and links*.
+   - Write down what you discovered and when (a simple timeline).
+   - If the image is already posted somewhere, copy the URL(s) and note the account name.
+4. **If you think sharing is likely (or it’s already shared), use specialist takedown help.**
+   - If you’re **18+**, contact the **Revenge Porn Helpline** for confidential, practical support (including takedown guidance).
+   - Consider **StopNCII**: it creates a “digital fingerprint” (hash) of your image/video and shares that hash with participating platforms to help **detect/remove matching uploads**. (It won’t remove content everywhere, but it can help reduce re-uploads on participating services.)
+5. **If there are threats, coercion, stalking, blackmail, or sharing without consent, report it.**
+   - If you’re in immediate danger, call **999**.
+   - Otherwise, report to your local police force (including via online reporting). You can also report anonymously via **Crimestoppers**.
+6. **If you are under 18 (or anyone in the images is under 18), treat this as a child-safety issue.**
+   - Make a report to **CEOP**.
+   - If an image/video of a young person is online and you want help getting it removed, **Childline’s Report Remove** route (run with the Internet Watch Foundation) can help.
+7. **Do a quick account safety check (reduce further access).**
+   - Change your email password first, then key social accounts.
+   - Turn on two-factor authentication.
+   - Check “active sessions/devices” and sign out of anything you don’t recognise.
+   - This matters especially if the person had access to your phone, accounts, or cloud storage.
+8. **Tell one safe person.** Pick someone steady who can help you follow steps (friend, relative, support worker). Ask them to sit with you while you make the first calls/reports.
 
 ## What can wait
-- You do not need to decide whether to end or continue a relationship or friendship today.
-- You do not need to conduct a full forensic review of all your previous chats or shared media immediately.
-- You do not need to confront the person to "demand" they delete the photos if you have already secured evidence and contacted support services.
+- You do **not** need to decide right now whether to confront them, “forgive them,” or end the relationship.
+- If there are **no threats and nothing has been shared**, you don’t have to do a big confrontation today. A single, calm written boundary later (e.g., “Delete all copies and don’t share them”) can be enough — and you can stop engaging after that.
+- You do **not** need to gather every detail before contacting support; a few key screenshots and a short timeline are enough.
 
 ## Important reassurance
-Discovering that private images have been saved without your consent is a violation of trust and a significant stressor. It is common to feel a sense of panic or a need to fix the situation instantly; these reactions are standard responses to a breach of privacy. You are not responsible for another person's decision to ignore your boundaries or break the law.
+Feeling shocked, violated, or panicky is a normal response. When someone saves or threatens to share intimate images, it can be used to control you — you’re not overreacting, and you don’t have to handle it alone.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction actions. It does not replace legal advice or comprehensive safety planning, which may be required if the situation involves domestic abuse or long-term stalking.
+These are first steps to stabilise the situation, reduce immediate risk, and connect you with specialist support. Later decisions (legal steps, workplace/school issues, longer-term safety planning) can come after things are calmer.
 
 ## Important note
-Under UK law, including the Online Safety Act 2023 and the Data (Use and Access) Act 2025, the non-consensual sharing, threatening to share, or creation of "purported" intimate images (such as AI deepfakes) are criminal offences. Regulated platforms are required to remove such content within 48 hours of a valid report.
+This guide provides general first-step information and is not legal advice or a substitute for professional support. If you are in immediate danger, call 999.
 
 ## Additional Resources
 - https://revengepornhelpline.org.uk/
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/intimate-images-shared-without-consent/
-- https://swgfl.org.uk/helplines/stopncii/
-- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/non-consensual-intimate-image-abuse-revenge-porn/
-- https://refuge.org.uk/i-need-help-now/how-we-can-help-you/secure-your-tech/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/what-you-can-do-reporting-it-to-us/
+- https://stopncii.org/
+- https://www.ceop.police.uk/Safety-Centre/
+- https://www.ceop.police.uk/ceop-reporting/
+- https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/kidnap-and-extortion/sextortion

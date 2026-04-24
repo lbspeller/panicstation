@@ -1,92 +1,74 @@
----
+﻿---
 title: "What to do if… someone may have swallowed a button battery and they seem fine so far"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - "swallowed a button battery"
-  - "swallowed a coin cell battery"
-  - "child swallowed button battery"
-  - "toddler swallowed battery"
-  - "baby swallowed battery"
-  - "adult swallowed button battery"
-  - "lithium coin cell ingestion"
-  - "hearing aid battery swallowed"
-  - "watch battery swallowed"
-  - "battery missing from toy"
-  - "battery missing from remote"
-  - "no symptoms yet battery"
-  - "seems fine after swallowing battery"
-  - "possible battery ingestion"
-  - "coin cell stuck in throat"
-  - "button battery stuck in esophagus"
-  - "swallowed battery unsure"
-  - "honey after button battery"
-  - "what do i do if my child swallowed a battery"
-  - "what do i do if my toddler swallowed a watch battery"
-  - "help i think my baby swallowed a battery"
-  - "help i swallowed a lithium battery"
-  - "what do i do if a battery is missing"
-  - "my remote is missing a button battery"
-  - "shiny round object swallowed"
-  - "small silver disc swallowed"
-  - "swallowed flat round battery"
-  - "battery ingestion first aid"
-  - "battery swallowed no pain"
-  - "suspected battery ingestion child"
-last_reviewed: "2026-03-16"
+  - swallowed a button battery
+  - swallowed a coin cell battery
+  - child swallowed button battery
+  - toddler swallowed battery
+  - baby swallowed battery
+  - adult swallowed button battery
+  - lithium coin cell ingestion
+  - hearing aid battery swallowed
+  - watch battery swallowed
+  - battery missing from toy
+  - battery missing from remote
+  - no symptoms yet battery
+  - seems fine after swallowing battery
+  - possible battery ingestion
+  - coin cell stuck in throat
+  - button battery stuck in esophagus
+  - swallowed battery unsure
+  - button battery hotline
+  - poison control button battery
+  - honey after button battery
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… someone may have swallowed a button battery and they seem fine so far (USA)
 
 ## Short answer
-Do not wait for symptoms: call the National Battery Ingestion Hotline at 800-498-8666 immediately and go to an emergency room now for an urgent x-ray, even if the person feels fine.
+Do not wait for symptoms: call Poison Control/National Battery Ingestion Hotline immediately and go to an ER now for urgent evaluation (often an x-ray), even if they seem fine.
 
 ## Do not do these things
-- Do not wait to see if symptoms develop.
+- Do not “wait and see.”
 - Do not induce vomiting.
-- Do not give any food or drink except honey (if the specific criteria in the steps below are met).
-- Do not use home "neutralizers" like juice or milk.
-- Do not delay departure to search the house for the missing battery.
-- Do not assume the person is safe because they are acting normally; internal burns can begin within two hours.
+- Do not give food or drinks (other than the honey step below if it applies).
+- Do not give medicines or home “neutralizers” unless Poison Control/ER tells you to.
+- Do not assume it’s harmless because they’re acting normal.
+- Do not delay leaving to search the house for the missing battery.
 
 ## What to do now
-1. **Call the National Battery Ingestion Hotline at 800-498-8666 or Poison Control at 1-800-222-1222 immediately.**
-   - If the person has collapsed, is having a seizure, is struggling to breathe, or cannot be woken up, call 911.
-2. **Go to the nearest emergency room right now for a professional evaluation.**
-   - Tell the triage staff immediately that you suspect a button battery ingestion.
-   - Most cases require an immediate x-ray to determine if the battery is stuck in the esophagus.
-3. **If the person is age 12 months or older and the ingestion happened within the last 12 hours, give honey while traveling to the ER.**
-   - Give 10 mL (2 teaspoons) of commercial honey every 10 minutes, for up to 6 doses.
-   - Do not delay leaving for the hospital to find honey.
-   - Only give honey if the person is fully awake and able to swallow.
-   - Do not give honey to infants under 12 months old due to the risk of botulism.
-   - Stop giving honey if the person starts vomiting or has trouble breathing.
-4. **Keep the person "NPO" (nothing by mouth) except for the honey doses mentioned above.**
-   - Do not allow them to eat or drink anything else until a doctor confirms the battery is past the esophagus.
-5. **Collect any physical evidence to bring with you to the hospital.**
-   - Bring the device the battery came from.
-   - Bring the original battery packaging or a matching spare battery if available.
-   - Note the exact time you realized the battery was missing.
-6. **Check for other possible locations if the ingestion is not confirmed.**
-   - Mention to the ER staff if there is any possibility the battery was placed in the nose or an ear.
-   - Do not attempt to look inside the nose or ears with tools or flashlights at home.
+1. **Start help right now (while you’re getting ready to leave).**
+   - Call the **National Battery Ingestion Hotline: 800-498-8666**, or **Poison Control: 1-800-222-1222**.
+   - If they collapse, have a seizure, have trouble breathing, or can’t be awakened: **call 911**.
+2. **Go to the ER now.** Button batteries can cause severe injury even without early symptoms, and the ER can confirm location (often by x-ray) and act quickly if it’s stuck.
+3. **If this is a child age 12 months or older, and you’re within 12 hours of a possible swallowing, give honey while going to the ER (only if it won’t delay you).**
+   - Give **10 mL (2 teaspoons)** of **commercial honey if available** by mouth **every 10 minutes**, up to **6 doses**.
+   - **Only** do this if the child is **awake and able to swallow normally**.
+   - **Do not** give honey to infants under 12 months.
+   - Skip honey if they’re choking, vomiting repeatedly, very drowsy, or have a known serious honey allergy risk—just go.
+4. **Other than honey (if used), keep nothing by mouth** unless Poison Control/ER tells you otherwise.
+5. **Bring the evidence.** Take the device the battery came from, the packaging, and any matching/spare battery. If you can, note the time it went missing.
+6. **Mention other likely locations if relevant.** Especially for small children, tell the ER if there’s any chance it’s in the **nose or an ear** (don’t probe at home).
 
 ## What can wait
-- You do not need to confirm the battery was actually swallowed before seeking help; suspicion is enough to justify an ER visit.
-- You do not need to identify the exact battery model or size before leaving.
-- You do not need to check bowel movements or monitor the person at home as a first step.
+- You do not need to prove it happened before seeking care—uncertainty is enough.
+- You do not need to figure out the exact battery size/type before leaving (bring what you have).
+- You do not need to check stools or “watch overnight” as a first step.
 
 ## Important reassurance
-It is normal for someone who has swallowed a button battery to show no signs of distress for several hours. Seeking emergency care immediately is a standard safety protocol, not an overreaction. Fast action significantly reduces the risk of serious internal injury.
+It’s very common for someone to look completely fine at first. Acting quickly isn’t overreacting here—it’s how you prevent serious harm in the small number of cases where the battery gets stuck.
 
 ## Scope note
-This guide provides first-step stabilization and triage instructions for the first few minutes after a suspected ingestion. Further medical management will be determined by hospital staff and toxicology experts.
+These are first steps to get rapid expert guidance and urgent assessment. The ER/Poison Control will advise what imaging and monitoring is needed next.
 
 ## Important note
-This information is for emergency stabilization and does not replace professional medical judgment. Always follow the specific instructions provided by the National Battery Ingestion Hotline or your local emergency department.
+This is general information, not medical advice. If a button battery might have been swallowed, seek urgent medical evaluation and use Poison Control/hotline support right away.
 
 ## Additional Resources
-- https://www.poison.org/articles/button-batteries
+- https://www.poison.org/battery/guideline
 - https://www.poison.org/battery
-- https://www.poison.org/battery/tips
-- https://www.healthychildren.org/English/safety-prevention/at-home/Pages/What-Parents-Need-to-Know-about-Button-and-Lithium-Coin-Batteries.aspx
+- https://www.poison.org/
 - https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Button-Cell-Coin-Battery-Information-Center

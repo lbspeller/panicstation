@@ -1,91 +1,75 @@
----
+﻿---
 title: "What to do if… your eye was exposed to a chemical and it still burns after thorough rinsing"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - "chemical in eye"
-  - "chemical splash in eye"
-  - "eye burn after flushing"
-  - "eye still burning"
-  - "eye stinging won't stop"
-  - "bleach in eye"
-  - "drain cleaner eye exposure"
-  - "oven cleaner eye splash"
-  - "detergent pod in eye"
-  - "lye eye burn"
-  - "caustic splash eye"
-  - "acid in eye"
-  - "what do i do if chemical in eye"
-  - "what do i do if eye is burning"
-  - "what do i do if eye feels like it is on fire"
-  - "what do i do if bleach splashed in my eye"
-  - "help i have chemical in my eye"
-  - "help i splashed cleaning product in my eye"
-  - "my eye is burning from chemicals"
-  - "my eye still hurts after washing it out"
-  - "red eye from chemical"
-  - "blurred vision after chemical splash"
-  - "eye pain after rinsing"
-  - "corneal clouding"
-  - "cleaning product eye accident"
-  - "workplace chemical eye injury"
-  - "eye emergency chemical"
-  - "chemical burn to eye"
-  - "irrigation for chemical eye burn"
-  - "tepid water eye flush"
-  - "toxic substance in eye"
-  - "household chemical eye splash"
-  - "alkaline eye burn"
-  - "acidic eye burn"
-last_reviewed: "2026-03-16"
+  - chemical in eye
+  - chemical splash eye
+  - eye burn after flushing
+  - eye still burning
+  - bleach in eye
+  - drain cleaner eye exposure
+  - oven cleaner eye splash
+  - detergent pod in eye
+  - contact lens chemical exposure
+  - eye pain after rinsing
+  - eye stinging won’t stop
+  - cleaning product eye accident
+  - workplace chemical eye injury
+  - unknown chemical in eye
+  - alkaline chemical eye burn
+  - acid splash eye
+  - poison control eye exposure
+  - eye emergency chemical
+  - chemical burn to eye
+last_reviewed: "2026-02-21"
 ---
+
 # What to do if… your eye was exposed to a chemical and it still burns after thorough rinsing (USA)
 
 ## Short answer
-Begin continuous irrigation immediately with tepid water for 15 to 30 minutes and seek emergency medical evaluation. Persistent burning after rinsing indicates the chemical may still be active or that a burn has already occurred that requires professional treatment.
+Keep flushing and get emergency care now. Burning that persists after thorough rinsing can be a chemical eye burn that needs urgent evaluation.
 
 ## Do not do these things
-- Do not stop flushing to look for a phone or make a call—keep water flowing unless someone else can call for you.
-- Do not rub the eye or press on the eyelid, as this can force the chemical deeper or scratch the cornea.
-- Do not try to neutralize the chemical with other substances like vinegar, lemon juice, or baking soda.
-- Do not use medicated eye drops, "redness relief" drops, or ointments until a doctor has examined the eye.
-- Do not reinsert contact lenses that were in the eye during the exposure.
-- Do not drive yourself to the hospital if your vision is blurred, the eye is forced shut, or you are in severe pain.
+- Do not stop flushing unless you have to — keep irrigating whenever safely possible.
+- Do not rub your eye or clamp it shut (this can trap residue).
+- Do not try to “neutralize” the chemical with another chemical (including vinegar/baking soda).
+- Do not use eye drops or ointments (including “get the red out”), especially if burning persists, until you’ve been assessed.
+- Do not re-wear contact lenses.
+- Do not drive yourself if your vision is affected, you feel unwell, or you can’t keep the eye open.
 
 ## What to do now
-1. **Resume continuous flushing of the eye for a minimum of 15 to 30 minutes without interruption.** 
-   - Use clean, tepid (lukewarm) tap water or sterile saline if available. 
-   - Ensure the water is not hot or ice-cold.
-2. **Tilt your head toward the side of the affected eye so the water runs from the inner corner near the nose toward the outer corner near the ear.** 
-   - This prevents the chemical and contaminated water from washing into your unaffected eye.
-3. **Hold your eyelids open with clean fingers and move your eyeball in all directions while flushing.** 
-   - You must ensure the water reaches the areas deep under the upper and lower lids where chemicals often get trapped.
-4. **Remove contact lenses only after you have already started the irrigation process.** 
-   - If they do not come out immediately, do not stop flushing to struggle with them; continue the water flow and let the emergency room staff remove them.
-5. **Call 911 immediately if the exposure involved strong alkalis such as drain cleaner, lye, cement, or oven cleaner.** 
-   - These substances can cause rapid, deep tissue destruction; emergency responders can continue the irrigation with specialized equipment during transport.
-6. **Go to the nearest Emergency Department for any chemical exposure that causes persistent burning, redness, or vision changes.** 
-   - State clearly upon arrival that you have a "chemical eye exposure with ongoing symptoms" so you are triaged as an ocular emergency.
-7. **Contact Poison Control at 1-800-222-1222 for product-specific instructions only if a second person can make the call while you continue flushing.** 
-   - Have the product container or Safety Data Sheet (SDS) ready if possible, but never prioritize the label over active irrigation.
+1. **Restart continuous flushing for at least 20 minutes (longer if it still burns).**  
+   Use clean, lukewarm/cool running tap water or sterile saline. Hold eyelids open with clean fingers and move your eye in all directions while flushing so water reaches under the lids.
+2. **Remove contact lenses if they’re still in and come out easily.**  
+   If they don’t come out quickly, **keep flushing anyway** and don’t delay emergency care.
+3. **Get emergency help now:**
+   - **Call 911** if the chemical is strong (for example drain/oven cleaner), pain is severe, you have any vision change, significant swelling, or you can’t keep the eye open.
+   - Otherwise, **go to the nearest Emergency Department now.** Tell them it’s a *chemical eye exposure with ongoing burning* and ask for ophthalmology input if available.
+4. **Contact Poison Control for product-specific guidance (without delaying flushing).**  
+   If someone can call for you while you keep flushing, have them call **Poison Help: 1-800-222-1222** (free, confidential, 24/7). If you’re alone, flush first and call as soon as you can without losing momentum.
+5. **Bring the chemical details.**  
+   Take the container, a photo of the label, or the Safety Data Sheet if it was a workplace product. Tell clinicians whether it was a liquid/powder and roughly when it happened.
+6. **Protect the eye on the way to care.**  
+   Keep flushing as able until you’re seen (for example, before you leave and immediately on arrival). Avoid touching the eye; wear sunglasses if light is painful.
 
 ## What can wait
-- You do not need to identify the exact pH or chemical concentration before seeking help; the container or label can be brought to the hospital.
-- You do not need to wait for symptoms to "settle down" or see if they improve overnight.
-- You do not need to file workplace incident reports or insurance claims before receiving medical stabilization.
+- You do not need to figure out the exact chemical category yourself — bring the label/container.
+- You do not need to wait to “see if it improves” when burning persists after thorough flushing.
+- You do not need to make follow-up/insurance/workplace decisions right now — focus on safe transport and prompt evaluation.
 
 ## Important reassurance
-It is normal to feel intense panic when your vision is threatened. The most effective way to protect your sight is the physical action you are taking right now: diluting the chemical. By flushing continuously and seeking professional care, you are significantly reducing the risk of long-term damage.
+This is scary and it’s normal to feel panicky. The most protective actions are the simplest: keep flushing and get seen urgently. Prompt care is what helps prevent lasting damage.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction protocols for the immediate minutes following exposure. Definitive medical treatment, including pH testing and slit-lamp examinations, must be performed by healthcare professionals.
+These are first steps only to reduce harm and get you to appropriate urgent care. Clinicians may continue irrigation, examine the eye surface, and decide on treatment and follow-up.
 
 ## Important note
-This information is for emergency first-aid purposes and does not constitute medical advice or a diagnosis. Chemical eye injuries are time-sensitive emergencies; always prioritize immediate irrigation and professional medical evaluation.
+This is general first-step information, not medical advice or a diagnosis. If symptoms are severe, worsening, or you notice any vision changes, treat it as an emergency and seek immediate care.
 
 ## Additional Resources
-- https://www.poisonhelp.org/
 - https://www.mayoclinic.org/first-aid/first-aid-eye-emergency/basics/art-20056647
-- https://medlineplus.gov/ency/article/000054.htm
-- https://www.nei.nih.gov/eye-health-information/healthy-vision/nei-for-kids/first-aid-tips
-- https://www.msdmanuals.com/home/injuries-and-poisoning/eye-injuries/burns-to-the-eye
+- https://poisonhelp.hrsa.gov/what-you-can-do
+- https://www.poison.org/articles/help-for-poisons-splashed-in-the-eye
+- https://www.ncbi.nlm.nih.gov/books/NBK459221/
+- https://www.aao.org/education/image/irrigation-of-chemical-burns

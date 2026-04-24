@@ -1,104 +1,85 @@
----
+﻿---
 title: "What to do if… your blood sugar reading is low and keeps dropping despite eating"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "low blood sugar"
-  - "hypoglycaemia"
-  - "hypo episode"
-  - "blood glucose low"
-  - "blood sugar dropping"
-  - "keeps falling after eating"
-  - "low reading despite carbs"
-  - "won't come up"
-  - "recurrent hypos"
-  - "sudden shaky sweaty"
-  - "confused or drowsy"
-  - "cgm low alert"
-  - "finger prick confirms low"
-  - "insulin related low"
-  - "sulfonylurea low blood sugar"
-  - "night time hypo"
-  - "after exercise hypo"
-  - "alcohol related hypo"
-  - "low glucose emergency"
-  - "unexplained low blood sugar"
-  - "what do i do if my blood sugar is 3"
-  - "what do i do if my glucose keeps dropping"
-  - "help i have a hypo and it won't stop"
-  - "help my blood sugar is dropping fast"
-  - "feeling faint with low sugar"
-  - "tingling lips and low sugar"
-  - "shaking and low glucose"
-  - "dizzy and low blood sugar"
-  - "blood sugar 3.5 and dropping"
-  - "rebound low sugar"
-  - "gliclazide hypo"
-  - "glimepiride low sugar"
-  - "persistent hypoglycaemia"
-  - "resistant hypo"
-  - "hypo not responding to food"
-last_reviewed: "2026-03-16"
+  - low blood sugar
+  - hypoglycaemia
+  - hypo episode
+  - blood glucose low
+  - blood sugar dropping
+  - keeps falling after eating
+  - low reading despite carbs
+  - won't come up
+  - recurrent hypos
+  - sudden shaky sweaty
+  - confused or drowsy
+  - cgm low alert
+  - finger prick confirms low
+  - insulin related low
+  - sulfonylurea low blood sugar
+  - night time hypo
+  - after exercise hypo
+  - alcohol related hypo
+  - low glucose emergency
+  - unexplained low blood sugar
+last_reviewed: "2026-01-21"
 ---
-# What to do if… your blood sugar reading is low and keeps dropping despite eating (UK)
 
+# What to do if… your blood sugar reading is low and keeps dropping despite eating (UK)
 ## Short answer
-Take 15–20g of fast-acting sugar immediately and re-check your levels in 15 minutes. If your reading remains below 4.0 mmol/L or continues to fall after two treatments, call 999 for an ambulance.
+Treat this as urgent: take fast-acting sugar now, re-check in 10–15 minutes, and repeat. If it’s still low, still falling, or you’re getting worse, call **999** for an ambulance (or ask someone to call for you).
 
 ## Do not do these things
-- Do not drive, cycle, or operate machinery until your sugar is stable and has been above 5.0 mmol/L for at least 45 minutes.
-- Do not use chocolate, biscuits, or milk to treat the initial drop; the fat content slows down sugar absorption.
-- Do not take extra insulin or diabetes medication to "correct" the situation.
-- Do not stay alone if you are feeling confused, very drowsy, or shaky.
-- Do not drink alcohol, as it prevents the liver from releasing stored glucose.
-- Do not try to eat or drink if you are struggling to swallow or feeling like you might lose consciousness.
+- Do not drive, cycle, or operate anything risky.
+- Do not “wait it out” if the number keeps falling or symptoms are worsening.
+- Do not go to sleep.
+- Do not take more insulin (or other glucose-lowering medicine) “to balance it.”
+- Do not start with slow foods (chocolate, biscuits, milk, high-fat/protein snacks) — they can act too slowly.
+- Do not drink alcohol.
+- Do not force food or drink if you’re very drowsy, choking, or might pass out.
 
 ## What to do now
-1. **Stop any hazardous activity and sit down immediately.** 
-   - If you are driving or cycling, pull over and remove the keys from the ignition. 
-   - Move to the floor if you feel faint to prevent injury from a fall.
-2. **Confirm the reading with a finger-prick test.** 
-   - Continuous Glucose Monitors (CGM) can lag behind actual blood levels during rapid drops. 
-   - Treat any reading below 4.0 mmol/L as a hypo, even if you feel fine.
-3. **Consume 15–20g of fast-acting carbohydrate right now.** 
-   - 5 glucose or dextrose tablets, or
-   - 150ml to 200ml of regular (non-diet) fizzy drink or fruit juice, or
-   - 4 large jelly babies or a tube of glucose gel.
-   - Note: Check soft drink labels as many "full sugar" drinks in the UK now have reduced sugar content.
-4. **Wait exactly 15 minutes and re-test your blood sugar.** 
-   - Do not eat anything else during this window. 
-   - If the reading is still below 4.0 mmol/L or is still dropping, repeat the 15–20g fast-acting sugar dose.
-5. **Escalate to emergency services (call 999) if the level does not rise.** 
-   - Call if you are still below 4.0 mmol/L after two rounds of treatment.
-   - Call if you cannot swallow safely, are vomiting, or are becoming increasingly confused.
-   - Tell the operator if you take insulin or sulfonylureas (like gliclazide).
-6. **Apply the recovery position if someone loses consciousness.** 
-   - Do not put anything in their mouth. 
-   - If a glucagon kit is available and you are trained to use it, administer it and call 999.
-7. **Eat a "stabilizing" snack once your reading is above 4.0 mmol/L.** 
-   - Use a slow-acting carbohydrate to prevent a second drop. 
-   - Examples include a slice of toast, two digestive biscuits, or your next scheduled meal if it is ready.
-8. **Monitor your levels closely for the next 24 to 48 hours.** 
-   - This is vital if you take sulfonylureas (e.g., gliclazide, glimepiride) as these drugs can cause long-lasting, recurrent drops.
+1. **Get to a safer pause and get help nearby.** Sit or lie down. If you’re alone, call someone to come to you now and keep your phone unlocked. If you feel faint/confused, get onto the floor to reduce fall risk.
+2. **Confirm the reading quickly (especially if you use a CGM).** If your CGM shows a fast drop, do a finger-prick check if you can (CGM can lag). In the UK, **below 4.0 mmol/L** is commonly treated as low — treat immediately if you’re below this or you feel low.
+3. **Take fast-acting sugar (straight glucose) now.** Choose one option you can swallow safely:
+   - Glucose/dextrose tablets, or glucose gel, or
+   - A small glass of fruit juice, or regular (non-diet) fizzy drink, or
+   - A measured portion of sugary sweets.
+   A typical adult treatment amount is **about 15–20g of fast-acting carbohydrate**.
+4. **Re-check in 10–15 minutes. If still under 4.0 mmol/L or still dropping, treat again.** Repeat the same fast-acting sugar dose and re-check again after 10–15 minutes.
+5. **If it’s not responding, escalate early. Call 999 if any of these apply:**
+   - You’re still below 4.0 mmol/L after **repeating fast sugar** (for example, after 2–3 treatment cycles), or it keeps dropping.
+   - You’re becoming confused, very drowsy, unable to swallow safely, or you’ve had a seizure/blackout.
+   - You cannot keep sugar down (vomiting/retching), or you’re alone and symptoms are progressing.
+   While waiting: unlock the door if you can, lie on your side if very drowsy, and keep re-checking if you’re able.
+6. **If you become too drowsy to swallow or you pass out (or this is happening to someone else):**
+   - Do **not** give food or drink by mouth.
+   - Put them in the **recovery position**.
+   - If a **glucagon** kit/pen is available and someone knows how to use it, they can give it and **call 999**.
+7. **Once you’re improving, prevent the next drop.** When you’re clearly better and can eat safely, have a **longer-acting carbohydrate** (for example: toast, a sandwich, cereal, crackers, or your next meal), especially if your next meal is not soon.
+8. **After you’re stable, get same-day advice if this was “hard to treat.”**
+   - If you take **insulin** or a **sulfonylurea** (some type 2 diabetes tablets), or your levels keep dipping again, contact your diabetes team/GP urgently.
+   - If you’re **not** on glucose-lowering medicines and you’re getting confirmed low readings, seek **same-day urgent assessment** (use NHS 111 if you’re unsure where to go). Call **999** for severe symptoms.
 
 ## What can wait
-- You do not need to identify the exact cause (exercise, missed meal, dose error) until you are stable.
-- You do not need to adjust your long-term medication doses right this second.
-- You do not need to fill out your blood sugar log or diary immediately.
-- You do not need to contact your GP or diabetes team until the immediate crisis is resolved.
+- You do not need to work out the exact cause right now.
+- You do not need to change insulin doses, pump settings, or other diabetes medicines while you’re actively low and dropping.
+- You do not need to eat a full meal first; quick sugar and re-checking comes first.
+- You do not need perfect notes — a simple list of times, readings, and what you took is enough.
 
 ## Important reassurance
-The feeling of panic, heart palpitations, and shaking is a physical response to low fuel in the brain. It is a normal physiological reaction. If your sugar is not responding to food, it is a medical situation requiring assistance, not a sign that you have done something wrong.
+A dropping low can cause fear, shaking, and confusion because your brain is running short on glucose. Needing repeated quick sugar (and calling for help when it’s not responding) is a safety issue, not a personal failure.
 
 ## Scope note
-This guide provides first-step stabilization for an acute low blood sugar episode. It does not replace a long-term diabetes management plan or professional medical diagnosis.
+These are first steps for the next minutes to hour to reduce immediate harm. Recurrent or “hard to treat” lows need follow-up, but that comes after you’re safe.
 
 ## Important note
-If you are not on diabetes medication and are experiencing low blood sugar readings, you require a medical assessment. Persistent or "resistant" hypos—where sugar stays low despite eating—are medical emergencies.
+This guide is general information, not a diagnosis or personal medical advice. If your reading won’t rise despite repeated fast sugar, you can’t swallow safely, or you have severe symptoms, seek emergency help immediately.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/
 - https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/hypos
-- https://www.diabetes.org.uk/living-with-diabetes/eating/sugar-reduction-hypo-treatment-sugar-tax
-- https://www.southtees.nhs.uk/resources/hypoglycaemia-hypo/
-- https://www.diabetes.org.uk/living-with-diabetes/life-with-diabetes/illness
+- https://www.diabetes.org.uk/sites/default/files/2022-03/JBDS_Hypo_Algorithm%20March%202022.pdf
+- https://www.uhcw.nhs.uk/download/clientfiles/files/Patient%20Information%20Leaflets/Clinical%20Support%20Services/Dietetics/Diabetes%20-%20Low%20blood%20sugar%20%28hypoglycaemia%29.pdf
+- https://www.bedfordshirehospitals.nhs.uk/documents/type-1-hypoglycaemia/

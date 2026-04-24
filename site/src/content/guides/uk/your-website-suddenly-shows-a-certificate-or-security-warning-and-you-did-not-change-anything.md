@@ -1,111 +1,110 @@
----
+﻿---
 title: "What to do if… your website suddenly shows a certificate or security warning and you did not change anything"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "esim activation message"
-  - "unexpected esim qr code"
-  - "esim qr you did not request"
-  - "sim activation text message"
-  - "sim warning message"
-  - "number transfer alert"
-  - "unsolicited mobile activation"
-  - "phone number notification"
-  - "porting request text"
-  - "pac request text"
-  - "sudden loss of signal"
-  - "no service message"
-  - "calls failing suddenly"
-  - "sms codes not arriving"
-  - "otp texts stopped"
-  - "unknown qr code for esim"
-  - "esim setup prompt"
-  - "activation code received"
-  - "new esim notification"
-  - "request for esim activation"
-  - "esim email received"
-  - "unexpected sim swap text"
-  - "mobile network message"
-  - "sim card change alert"
-  - "help i got an esim code"
-  - "help i got a sim activation text"
-  - "my phone says esim activation"
-  - "my service stopped after esim text"
-  - "what do i do if i get an esim qr code"
-  - "what do i do if my sim is swapping"
-  - "what do i do if i lose signal after a text"
-  - "what do i do if i get a pac code text"
-  - "burning plastic smell phone"
-  - "device getting very hot"
-  - "unusual battery drain"
-  - "pop up on phone screen"
-  - "flashing message on display"
-  - "incorrect esim qr code"
-  - "esim message from unknown"
-  - "esim activation in progress"
-last_reviewed: "2026-03-17"
+  - website shows security warning
+  - certificate warning on my site
+  - https not secure suddenly
+  - ssl error on my domain
+  - tls certificate problem
+  - your connection is not private
+  - err cert authority invalid
+  - hsts certificate error
+  - browser security warning website
+  - certificate expired website
+  - wrong certificate served
+  - certificate name mismatch
+  - site suddenly not trusted
+  - https warning after nothing changed
+  - domain security warning
+  - website cert changed unexpectedly
+  - hosting certificate issue
+  - cdn ssl mode issue
+  - dns change i did not make
+  - users seeing cert warning
+  - possible interception risk
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your website suddenly shows a certificate or security warning and you did not change anything (UK)
 
 ## Short answer
-Treat the message as a possible unauthorised number transfer: **do not scan the QR code**, and **contact your mobile network immediately** to block any pending eSIM or SIM changes.
+Treat this as a real incident until you prove it isn’t. Stop users from logging in or paying, then verify whether the warning is caused by an expired/misissued certificate, a DNS/CDN misconfiguration, or compromise.
 
 ## Do not do these things
-- Do not scan the QR code or follow any links contained in the message.
-- Do not reply to the message or provide one-time passcodes (OTP) to anyone who contacts you.
-- Do not call any phone numbers provided within the suspicious message.
-- Do not assume the situation is safe because your phone currently has signal.
-- Do not factory-reset the device.
-- Do not share your account security PIN or password with anyone claiming to be from your network.
+- Don’t click through the warning to “proceed anyway” on admin, login, or payment pages, even to “just check”.
+- Don’t “fix” it by switching random SSL/TLS/CDN modes without writing down what the settings are right now.
+- Don’t follow renewal links from emails, pop-ups, or third parties you didn’t initiate (certificate renewal scams happen).
+- Don’t change DNS records in a rush unless you’re sure you can revert quickly (DNS mistakes can prolong downtime).
+- Don’t rotate every credential at once; secure the accounts that control DNS/CDN/hosting first so you don’t lock yourself out or lose logs.
 
 ## What to do now
-1. **Stop the activation process immediately by ignoring all prompts.**  
-   Do not scan the QR code, do not tap "set up eSIM" notifications on your screen, and do not enter any codes into websites linked from the message.
+1. **Put safety brakes on user actions (first 5–10 minutes).**  
+   If you can, temporarily disable logins, checkout, and any forms that collect passwords or payment details (maintenance mode is fine). The goal is to prevent credential capture if this is interception or compromise.
 
-2. **Contact your mobile network provider right away using a known official number.**  
-   Use a different phone if possible or call from your official network app.  
-   - Tell the agent: "I have received an eSIM activation request I did not make. Please block all SIM swaps and number transfers on this account."
-   - Ask for a new account security PIN that you have not used on other services.
-   - Request confirmation of whether an eSIM has already been issued or if a transfer is pending.
-   - Ask the agent to add a note to your file stating "suspected unauthorised SIM change" and provide a reference number.
+2. **Confirm the warning is for your real domain (not a look-alike).**  
+   Carefully read the exact domain shown in the browser warning and the address bar. If it’s not exactly your domain (or a known subdomain), treat it as phishing and stop there.
 
-3. **Check for immediate signs of service loss.**  
-   Check your device for "No Service" or "Emergency Calls Only" indicators, or if you are unable to make calls or receive text messages. If service is already lost, tell your provider this is an active incident and you need your number restored.
+3. **Check if it’s “everyone” or “just you”.**  
+   Test from a second device and a different network (for example, mobile data).  
+   If it only happens on one device/network, suspect local HTTPS interception (corporate proxy/antivirus), a captive portal, or an incorrect system clock.
 
-4. **Secure your primary email and financial accounts immediately.**  
-   Use a device you still control to update security settings.
-   - Change the password for your primary email account first.
-   - Update passwords for banking apps, payment services, and cloud accounts (Apple ID or Google Account).
-   - If available, switch your two-factor authentication from SMS codes to an authenticator app or passkey.
+4. **Check the fastest “boring” causes first.**
+   - **Device/server clock:** confirm the server time and device time are correct (bad time causes certificate validation failures).
+   - **Certificate expiry:** check the certificate “valid to” date in the browser details.
+   - **Name mismatch:** confirm the certificate is issued to your domain (subject/SAN).
 
-5. **Forward the suspicious message to the 7726 reporting service.**  
-   Copy the message text and forward it to 7726. This is a free service in the UK that allows networks to investigate and block malicious senders.
+5. **Verify what certificate your site is actually serving (from the public internet).**  
+   Use your hosting/CDN dashboard or a trusted external TLS checker to confirm:
+   - the certificate includes your domain
+   - the issuing CA looks expected
+   - the certificate chain is complete  
+   Write down what certificate is being served and the time you observed it.
 
-6. **Notify your bank if you notice any unusual account activity.**  
-   Contact your bank fraud team if you see unfamiliar login attempts, password reset emails, or transactions you did not authorise.
+6. **Check for DNS/CDN/hosting changes you “didn’t make”.**
+   - **DNS:** review recent changes at your DNS provider (A/AAAA/CNAME records for affected hostnames). Look for switches to unfamiliar IPs/targets.
+   - **CDN/proxy (if used):** check whether proxying was toggled, SSL/TLS mode changed, or the CDN was paused.
+   - **Hosting/web server:** confirm which certificate is bound to the site and whether a recent deploy/restart reverted configuration.
 
-7. **Report the incident to the official UK reporting bodies.**  
-   - If you are in England, Wales, or Northern Ireland, report the incident to **Report Fraud**.
-   - If you are in Scotland, report the incident by calling **101**.
+7. **If it’s expired/misconfigured: restore a valid certificate safely.**
+   - Renew/reissue via your existing certificate authority or your platform’s certificate management.
+   - Install/select the new certificate on the correct server/CDN edge, and de-select expired/incorrect ones where possible.
+   - Re-test from a clean device/network after changes.
+
+8. **If anything looks like compromise, contain first (then fix).**  
+   Warning signs: DNS records changed unexpectedly, new admin users, unknown API keys, unexpected redirects, or certificates you never ordered.  
+   Containment priorities:
+   - lock down DNS/CDN/hosting accounts (enable MFA, revoke unknown sessions)
+   - rotate access for the control plane (DNS/CDN/hosting) before rotating application secrets
+   - preserve logs (CDN/WAF logs, web server logs, admin/audit logs) before they roll over
+
+9. **If personal data might be exposed, start a breach-risk assessment now.**  
+   You don’t need perfect details yet, but do record when you first became aware and what systems might be affected. If you conclude the breach is notifiable, UK GDPR expectations are to notify the ICO **as soon as possible and where feasible within 72 hours**.
+
+10. **Use UK reporting routes if you suspect an attack or fraud.**
+   - **NCSC:** report a cyber incident via the NCSC incident reporting portal if you believe your organisation has been compromised.
+   - **Police/fraud reporting:** if you believe this is cyber crime or fraud, use **Report Fraud** (England, Wales, Northern Ireland). If you are an organisation under a **live cyber attack**, call **0300 123 2040** for immediate advice. If you are in **Scotland**, report to **Police Scotland** (101 for non-emergencies; 999 in an emergency).
 
 ## What can wait
-- You do not need to decide whether to switch mobile providers right now.
-- You do not need to change your actual phone number immediately.
-- You do not need to delete all apps or perform a full device wipe.
-- You do not need to contact the sender of the message to investigate.
+- You don’t need to decide today whether to replatform, change providers, or redesign your security architecture.
+- You don’t need perfect root-cause proof before stopping user risk and restoring a valid certificate.
+- You don’t need a polished public statement immediately; if users are impacted, a short holding message (“We’re investigating a security issue; sign-in/purchases are temporarily limited”) is enough for now.
 
 ## Important reassurance
-Receiving an unsolicited eSIM request is a common tactic used to gain control of phone numbers, but it is often preventable if you do not interact with the QR code. Acting quickly to notify your provider and secure your email is a standard and effective response to this situation. Feeling a sense of urgency is normal when your digital access is threatened.
+Certificate warnings happen for mundane reasons (expiry, incomplete chain, mis-set CDN mode, clock problems) — and they also happen during real attacks. Treating it seriously at the start is the safest move and helps you avoid irreversible mistakes.
 
 ## Scope note
-This guide provides first-step stabilization for an unexpected eSIM or SIM transfer request. It does not cover long-term identity theft recovery or legal disputes with mobile providers.
+This is first-step guidance to stabilise and reduce harm. If you suspect compromise or customer data exposure, you will usually need specialist incident response and legal/privacy support tailored to your setup.
 
 ## Important note
-This is general information and does not constitute technical, financial, or legal advice. Specific security features and names for "SIM locks" vary by network provider. If you are unable to reach your provider, use a trusted friend's phone to contact them or visit a physical retail store of your network with government-issued photo identification.
+This is general information, not legal or professional security advice. If you are unsure whether your site or accounts are compromised, prioritise user safety, preserve logs, and get qualified help.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/provisioning-and-managing-certificates-in-the-web-pki
-- https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data
-- https://www.ncsc.gov.uk/collection/small-business-guidance--response-and-recovery
-- https://www.ncsc.gov.uk/section/products-services/themes/respond
+- https://report.ncsc.gov.uk/
+- https://www.gov.uk/guidance/where-to-report-a-cyber-incident
+- https://signpost-cyber-incident.service.gov.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
 - https://ico.org.uk/for-organisations/report-a-breach/personal-data-breach/
+- https://www.scotland.police.uk/advice/internet-safety/cybercrime/

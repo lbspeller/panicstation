@@ -1,81 +1,72 @@
----
+﻿---
 title: "What to do if… a stranger keeps trying to stand close behind you while you enter a passcode or PIN"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - "shoulder surfing"
-  - "stranger crowding behind me"
-  - "someone watching my pin"
-  - "someone hovering behind me"
-  - "creepy person at atm"
-  - "person standing too close in line"
-  - "suspicious person at checkout"
-  - "feeling breath on neck at atm"
-  - "seeing reflection of person behind me"
-  - "man too close at keypad"
-  - "woman hovering over my shoulder"
-  - "what do i do if someone is looking over my shoulder"
-  - "what do i do if a stranger is crowding me at an atm"
-  - "what do i do if someone is watching me enter my passcode"
-  - "what do i do if i feel unsafe at a cash machine"
-  - "help i think someone saw my pin"
-  - "help i am being followed at an atm"
-  - "help i feel a stranger behind me"
-  - "my pin was seen by a stranger"
-  - "my passcode is compromised"
-  - "stranger too close at payment terminal"
-  - "crowded at gas pump keypad"
-  - "observed at grocery store checkout"
-  - "atm keypad surveillance"
-  - "pin pad privacy breach"
-  - "stranger staring at my phone screen"
-  - "stranger watching me type code"
-  - "feeling watched at bank machine"
-  - "keypad crowding"
-  - "proximity threat at terminal"
-last_reviewed: "2026-03-17"
+  - shoulder surfing
+  - stranger crowding behind you
+  - someone watching your pin
+  - atm safety tips
+  - keypad privacy
+  - passcode being watched
+  - pin being observed
+  - payment terminal pin entry
+  - checkout pin pad privacy
+  - someone hovering behind you
+  - suspicious person at atm
+  - distraction theft at cash machine
+  - cover keypad with hand
+  - cancel transaction quickly
+  - protect debit card pin
+  - personal space threat in public
+  - stranger too close in line
+  - possible pin compromise
+  - end the transaction
+last_reviewed: "2026-01-17"
 ---
-# What to do if… a stranger keeps trying to stand close behind you while you enter a passcode or PIN (USA)
 
+# What to do if… a stranger keeps trying to stand close behind you while you enter a passcode or PIN (USA)
 ## Short answer
-Stop your entry immediately, cancel the transaction, and move to a safer, more public or staffed location. Do not finish entering the code if you feel your personal space is being intentionally invaded.
+Stop entering the passcode/PIN and create distance immediately: cancel the entry/transaction, step away, and move to a safer, more public or staffed spot.
 
 ## Do not do these things
-- Do not continue typing your PIN or passcode while the person is in your immediate space.
-- Do not engage in a long verbal argument or staring contest that keeps you stationary at the machine.
-- Do not accept "help" from the stranger, even if they claim the machine is broken or you are doing it wrong.
-- Do not follow the person to a secondary location if they suggest a "better" machine nearby.
-- Do not use "reverse PIN" or "duress PIN" codes, as these are non-existent myths for US ATMs.
-- Do not prioritize the transaction over your physical safety or the security of your account.
+- Do not keep typing your PIN/passcode while someone is crowding you.
+- Do not get pulled into conversation, questions, or “help” while your card/phone is out.
+- Do not move to a quieter place because they ask you to.
+- Do not physically confront them if stepping away and relocating is an option.
+- Do not rely on any “reverse PIN” or “duress PIN” trick—most ATMs/payment systems do not support this.
+- Do not assume it’s harmless if your gut says it’s off.
 
 ## What to do now
-1. **Stop all input and cancel the transaction immediately.** Take your fingers off the keypad or screen and press the **Cancel** button on the terminal or ATM to ensure the session ends. 
-2. **Secure your physical items before moving.** Retrieve your card or phone and place them firmly in a pocket or bag rather than holding them out in the open. 
-3. **Step out of the person's line of sight.** Move physically to the side or turn your body so the stranger no longer has a direct view of the screen or your hands. 
-4. **Relocate to a staffed or highly visible area.** If you are in a store, walk toward a manager's station or a security guard; if at an outdoor ATM, move toward a well-lit street or enter a nearby open business. 
-5. **State your boundary clearly if you choose to speak.** Use a firm, neutral statement such as, "I need more space to complete this," and immediately move away regardless of their response. 
-6. **Check the terminal for physical tampering before attempting to use a different one.** Look for loose plastic covers, "skimmers" over the card slot, or tiny cameras mounted above the keypad that may have been placed there by the person crowding you. 
-7. **Shield the keypad with your free hand or body for any future entries.** Even in a safer location, use your non-typing hand to create a physical "roof" over the buttons to block views from above or behind. 
-8. **Contact your bank to freeze your card if you believe the PIN was successfully observed.** Under US Regulation E, notifying your bank within two business days of a potential compromise limits your liability for unauthorized electronic fund transfers to $50. 
-9. **Call 911 if the person follows you or becomes aggressive.** If you feel you are in immediate physical danger or are being targeted for a robbery, seek emergency assistance immediately. 
+1. **Stop the entry immediately.** Take your hands off the keypad/screen. At an ATM or payment terminal, press **Cancel** (or end the transaction) and keep your card/phone secured.
+2. **Break their position advantage.** Step to the side so they can’t remain directly behind you. If possible, put the ATM/terminal housing, a barrier, or a counter corner between you and them.
+3. **Relocate to a safer setup.**  
+   - In a store: go straight to staff/security and ask to finish the purchase where you have space.  
+   - At an ATM: walk away from the machine and toward a busy, well-lit, or staffed area; use a different ATM in a safer location.
+4. **Use a simple script (no debate).** “I need space to enter my PIN.” If they don’t back off immediately, end the interaction and move.
+5. **If you still need to complete a PIN entry, change the conditions first.** Choose a different terminal/ATM, stand close to the keypad, and **shield the keypad with your body and free hand**. If they crowd again, stop and step away.
+6. **If you’re at an ATM, do a quick tamper-check before trying again elsewhere.** If the card reader or keypad looks loose, added-on, or unusual, don’t use it—leave and use another machine.
+7. **If you think they saw it (or you’re not sure), treat it as compromised.** Contact your bank/card issuer **immediately** to **lock/freeze the card** and ask how to **reset/change the PIN**. Protections and liability can depend on how quickly you report.
+8. **Escalate if you feel threatened.** Move to staff or a public area and call **911** if you feel in immediate danger. If it’s not an emergency but you want to report suspicious activity, contact local law enforcement via their non-emergency number.
+9. **Write down quick details.** Location, time, what happened, and a brief description—useful for your bank or police if needed.
 
 ## What can wait
-- You do not need to determine the person's "intent" before deciding to walk away.
-- You do not need to file a formal police report immediately unless a theft has already occurred or you are in active danger.
-- You do not need to finish your shopping or cash withdrawal at that specific location today.
+- You do not need to decide right now whether you should report it formally—safety and account protection come first.
+- You do not need to prove your PIN was seen before taking precautions.
+- You do not need to continue the transaction today if it feels unsafe.
 
 ## Important reassurance
-Trusting your physical intuition is a vital safety skill. If a stranger's proximity feels "off," it is a valid reason to stop what you are doing and leave the area; professional criminals often rely on social politeness to get victims to stay in vulnerable positions.
+Stopping mid-transaction is a normal, smart response. Crowding during a PIN/passcode entry is a known tactic, and creating space is the right priority.
 
 ## Scope note
-This guide provides first-step stabilization for immediate personal space and credential security. It does not cover long-term identity theft recovery or legal proceedings.
+This covers immediate first steps only. If you later see unauthorized activity, your bank and the appropriate reporting channels can guide the next actions.
 
 ## Important note
-This information is for safety stabilization and is not legal or financial advice. Security protocols and liability protections may vary by specific financial institution and state law.
+This is general information, not legal advice. If you feel unsafe right now, prioritize getting to a safer place and contacting emergency services.
 
 ## Additional Resources
-- https://consumer.ftc.gov/consumer-alerts/2024/08/three-ways-protect-personal-info-your-phone
-- https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers
-- https://www.usa.gov/identity-theft
-- https://consumer.ftc.gov/articles/what-know-about-identity-theft
-- https://consumer.ftc.gov/articles/how-protect-your-phone-hackers
+- https://www.aba.com/advocacy/community-programs/consumer-resources/protect-your-money/atm-safety-tips
+- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/skimming
+- https://www.fdic.gov/consumer-resource-center/beware-atm-debit-and-credit-card-skimming-schemes
+- https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discover-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/
+- https://reportfraud.ftc.gov/faq

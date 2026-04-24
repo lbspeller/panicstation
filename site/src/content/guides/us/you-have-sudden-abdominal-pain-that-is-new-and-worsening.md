@@ -1,101 +1,88 @@
----
+﻿---
 title: "What to do if… you have sudden abdominal pain that is new and worsening"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - "sudden abdominal pain"
-  - "new worsening belly pain"
-  - "severe stomach pain sudden"
-  - "sharp abdominal pain started today"
-  - "constant abdominal pain getting worse"
-  - "abdominal pain with vomiting"
-  - "abdominal pain with fever"
-  - "abdominal pain and dizziness"
-  - "abdominal pain and fainting"
-  - "abdominal pain and black stool"
-  - "abdominal pain and blood in stool"
-  - "abdominal pain after injury"
-  - "abdominal pain with chest pain"
-  - "swollen tender abdomen"
-  - "can't pee abdominal pain"
-  - "can't pass gas abdominal pain"
-  - "possible appendicitis symptoms"
-  - "possible gallbladder attack"
-  - "possible kidney stone pain"
-  - "abdominal pain pregnancy possible"
-  - "what do i do if my stomach hurts suddenly"
-  - "what do i do if belly pain is worsening"
-  - "what do i do if sharp pain in side"
-  - "what do i do if abdominal pain won't stop"
-  - "help i have severe stomach pain"
-  - "help i am vomiting with belly pain"
-  - "my stomach is hard and hurts"
-  - "my abdomen is tender to touch"
-  - "burning pain in upper abdomen"
-  - "pain radiating to shoulder or back"
-  - "stomach hurts after car accident"
-  - "belly pain with high fever"
-  - "tarry black stool with pain"
-  - "coffee ground vomit"
-  - "pain in lower right abdomen"
-  - "cannot stand up straight abdominal pain"
-last_reviewed: "2026-03-16"
+  - sudden abdominal pain
+  - new worsening belly pain
+  - severe stomach pain sudden
+  - sharp abdominal pain started today
+  - constant abdominal pain getting worse
+  - abdominal pain with vomiting
+  - abdominal pain with fever
+  - abdominal pain and dizziness
+  - abdominal pain and fainting
+  - abdominal pain and black stool
+  - abdominal pain and blood in stool
+  - abdominal pain after injury
+  - abdominal pain with chest pain
+  - swollen tender abdomen
+  - can’t pee abdominal pain
+  - can’t pass gas abdominal pain
+  - possible appendicitis symptoms
+  - possible gallbladder attack
+  - possible kidney stone pain
+  - abdominal pain pregnancy possible
+last_reviewed: "2026-01-18"
 ---
+
 # What to do if… you have sudden abdominal pain that is new and worsening (USA)
 
 ## Short answer
-If your abdominal pain is new, severe, or worsening, seek emergency medical evaluation immediately. Call **911** if the pain is debilitating, accompanied by difficulty breathing, or if you cannot safely transport yourself to an Emergency Department.
+If your abdominal pain is **new and worsening**, treat it as urgent. If it’s **severe**, or you feel very unwell, go to the **Emergency Department** now — and call **911** if you can’t safely get there.
 
 ## Do not do these things
-- Do not wait to see if the pain subsides if it is severe, sharp, or progressing rapidly.
-- Do not take laxatives, enemas, or stool softeners unless specifically instructed by a clinician.
-- Do not consume alcohol, caffeine, or large meals while the pain is active.
-- Do not take NSAIDs like aspirin, ibuprofen (Advil/Motrin), or naproxen (Aleve) as these can exacerbate certain types of internal bleeding or irritation.
-- Do not drive yourself to the hospital if you feel faint, dizzy, confused, or if the pain makes it difficult to focus on the road.
-- Do not assume an urgent care center is sufficient; many lack the necessary imaging (CT/Ultrasound) or surgical staff required for acute abdominal emergencies.
+- Do not keep waiting if the pain is worsening, severe, or “not like anything you’ve had before.”
+- Do not take laxatives, enemas, or try to “push through” constipation to fix it.
+- Do not drink alcohol, and avoid eating a full meal “to see if it settles.”
+- Do not take aspirin/ibuprofen/naproxen or other nonprescription pain relievers unless a clinician has told you to — they can worsen some causes of bleeding/irritation.
+- Do not drive yourself if you’re dizzy, faint, confused, very weak, or the pain is severe — get help.
+- Do not assume urgent care can do everything you may need; many clinics cannot provide imaging, IV fluids, or full lab work.
 
 ## What to do now
-1. **Call 911 immediately if you experience life-threatening red flag symptoms.** 
-   - Pain that is sudden and "explosive" or the worst pain of your life
-   - Pain accompanied by chest pressure, shortness of breath, or fainting
-   - Pain following a significant injury or trauma (e.g., car accident or fall)
-   - Vomiting blood or material that resembles coffee grounds
-   - Stools that are bloody, maroon, or black and tarry
-   - An abdomen that feels hard, rigid, or extremely tender to the touch
-2. **Go to the nearest Emergency Department if the pain is worsening or you feel generally very ill.** 
-   New and progressing abdominal pain often requires time-sensitive diagnostic tests, such as blood work or imaging, that only a hospital can provide.
-3. **Notify medical staff immediately if there is any possibility you could be pregnant.** 
-   If pregnancy is possible, abdominal pain is treated as a high-risk priority due to the risk of ectopic pregnancy or other complications; do not delay emergency care to take a home test first.
-4. **Stop eating and limit fluids to small sips of water only.** 
-   Keeping your stomach empty is necessary in case you require diagnostic scans, sedation, or emergency surgery.
-5. **Observe and note specific sensory details about the pain for the triage nurse.** 
-   - The exact location (e.g., lower right, upper left, or near the navel)
-   - Whether the pain moves or "radiates" to your back, shoulder, or groin
-   - If the pain is constant or comes in waves (colicky)
-   - If movement, coughing, or jarring (like hitting a bump in the road) makes it worse
-6. **Gather a list of your current medications and medical history.** 
-   Ensure you include the time of your last meal, any recent surgeries, known allergies, and your last menstrual period if applicable.
-7. **Arrange for a safe ride and stay with another person if possible.** 
-   If your condition worsens while waiting or in transit—such as developing confusion, cold/clammy skin, or loss of consciousness—escalate to a 911 call immediately.
+1. **Call 911 or get emergency help immediately if any red flags are present.**  
+   Call **911** (or have someone call) if:
+   - the pain is **severe** or came on **suddenly**
+   - you have **chest/neck/shoulder pain**, trouble breathing, confusion, or you feel faint
+   - the pain followed **injury/trauma** (car crash, fall, hit to the abdomen)
+   - you vomit **blood** or material that looks like **coffee grounds**
+   - you have **black/tarry** stools or blood in stool
+   - your abdomen is **swollen and tender** or rigid/hard to the touch
+   - you have a **high fever** and feel generally very ill
+2. **If it’s not a 911 situation but it’s worsening, go to an Emergency Department now.**  
+   New, worsening abdominal pain can need imaging, IV fluids, and time-sensitive treatment.
+3. **If pregnancy is possible, treat this as higher risk.**  
+   If you could be pregnant, take a **home pregnancy test now** if you can do it quickly. If positive — or if you have vaginal bleeding, shoulder pain, or faintness — seek **emergency care immediately**.
+4. **If the pain is significant/worsening (or you’re vomiting), avoid eating for now.**  
+   Take only small sips of water if needed, in case you need scans, sedation, or surgery.
+5. **Prepare the key details for triage (this speeds up care).**  
+   Write down:
+   - when it started and how it changed (sudden vs gradual; worsening)
+   - where it hurts (exact spot) and whether it moves to back/shoulder/groin
+   - vomiting/diarrhea/constipation, fever/chills, urinary symptoms, bleeding
+   - all meds/supplements, allergies, major conditions, surgeries, and last menstrual period (if relevant)
+6. **Get a safe ride and support.**  
+   If possible, have someone drive you and stay reachable. Bring ID, insurance card (if you have one), a med list, and a phone charger.
+7. **While waiting, escalate if you get worse.**  
+   If you develop fainting, confusion, shortness of breath, heavy bleeding, or rapidly worsening pain: **call 911**.
 
 ## What can wait
-- You do not need to identify the cause or "self-diagnose" the condition before seeking help.
-- You do not need to wait for a primary care appointment if the pain is acute or worsening.
-- You do not need to worry about which specific hospital to go to; the nearest Emergency Department is the priority.
-- You do not need to finish household tasks or work obligations before departing.
+- You do **not** need to diagnose yourself or decide what it “probably is.”
+- You do **not** need to finish tasks, go back to work, or “see how it is tomorrow” if it’s worsening.
+- You do **not** need to pick a perfect facility — the priority is getting assessed safely and promptly.
 
 ## Important reassurance
-It is normal to feel uncertain or hesitate when pain is internal and difficult to describe. However, sudden or worsening abdominal pain is a clinically valid reason for an emergency evaluation, and medical professionals are trained to investigate these symptoms even when the cause is not immediately obvious.
+It’s common to doubt yourself when pain is “inside” and hard to describe. New, worsening abdominal pain is a valid reason to seek urgent evaluation — and getting checked early is often the safest way to rule out serious causes.
 
 ## Scope note
-This guide provides first-step stabilization and triage guidance only. It is not a substitute for professional medical diagnosis or treatment.
+This is first-steps guidance for the first hours. After you’re evaluated, follow the discharge instructions closely and return promptly if symptoms worsen or new red flags appear.
 
 ## Important note
-This information is for general educational purposes and does not constitute medical advice. If you believe you are experiencing a medical emergency, call 911 or go to the nearest emergency room immediately.
+This guide is general information, not medical advice or a diagnosis. If you think you may be having a medical emergency, call 911 or go to the nearest Emergency Department.
 
 ## Additional Resources
 - https://medlineplus.gov/ency/article/003120.htm
-- https://www.niddk.nih.gov/health-information/digestive-diseases/pancreatitis/symptoms-causes
-- https://www.niddk.nih.gov/health-information/digestive-diseases/appendicitis
+- https://www.mayoclinic.org/symptom-checker/abdominal-pain-in-adults-adult/related-factors/itt-20009075
 - https://www.mayoclinic.org/symptoms/abdominal-pain/basics/when-to-see-doctor/sym-20050728
-- https://medlineplus.gov/ency/article/000264.htm
+- https://medlineplus.gov/intestinalobstruction.html
+- https://www.mayoclinic.org/diseases-conditions/gastrointestinal-bleeding/symptoms-causes/syc-20372729

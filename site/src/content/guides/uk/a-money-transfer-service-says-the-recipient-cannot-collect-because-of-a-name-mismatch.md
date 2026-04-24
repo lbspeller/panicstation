@@ -1,98 +1,75 @@
----
+﻿---
 title: "What to do if… a money transfer service says the recipient cannot collect because of a name mismatch"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "money transfer name mismatch"
-  - "recipient cannot collect cash transfer"
-  - "wrong recipient name on transfer"
-  - "western union name mismatch"
-  - "moneygram name mismatch"
-  - "ria money transfer name change"
-  - "worldremit edit recipient name"
-  - "cash pickup transfer problem"
-  - "recipient id does not match"
-  - "middle name missing on transfer"
-  - "spelling error on recipient name"
-  - "surname order mismatch"
-  - "hyphenated name mismatch"
-  - "accent or special character mismatch"
-  - "transfer reference number issue"
-  - "money transfer payout blocked"
-  - "remittance stuck at pickup"
-  - "transfer held for verification"
-  - "recipient name correction request"
-  - "cancel and resend transfer"
-  - "urgent money transfer delay"
-  - "what do i do if name is wrong on western union"
-  - "what do i do if moneygram name is misspelled"
-  - "what do i do if recipient cannot pick up money"
-  - "what do i do if id does not match transfer"
-  - "help i put the wrong name on a money transfer"
-  - "help i need to change a recipient name"
-  - "my recipient cannot collect cash"
-  - "my money transfer is blocked by name"
-  - "wrong name on money transfer receipt"
-  - "mismatch on government issued id"
-  - "payout location name error"
-  - "blocked money transfer uk"
-  - "financial ombudsman money transfer complaint"
-last_reviewed: "2026-03-17"
+  - money transfer name mismatch
+  - recipient cannot collect cash transfer
+  - wrong recipient name on transfer
+  - western union name mismatch
+  - moneygram name mismatch
+  - cash pickup transfer problem
+  - recipient id does not match
+  - middle name missing on transfer
+  - spelling error on recipient name
+  - surname order mismatch
+  - hyphenated name mismatch
+  - accent or special character mismatch
+  - transfer reference number issue
+  - money transfer payout blocked
+  - remittance stuck at pickup
+  - transfer held for verification
+  - recipient name correction request
+  - cancel and resend transfer
+  - urgent money transfer delay
+  - worried it is a scam
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… a money transfer service says the recipient cannot collect because of a name mismatch (UK)
 
 ## Short answer
-Verify the recipient's full legal name exactly as it appears on their government-issued ID and use the provider's official app or website to amend the record or cancel and resend the transfer.
+Pause and confirm the recipient’s legal name exactly as it appears on their government-issued ID, then contact the transfer provider to correct the receiver name or cancel and resend.
 
 ## Do not do these things
-- Avoid sending a second transfer before the first one is officially cancelled or corrected.
-- Do not pay "release fees" or "correction fees" to any individual, third-party agent, or non-official account.
-- Do not share the MTCN (Money Transfer Control Number) or reference code with anyone other than the intended recipient and the provider’s verified support.
-- Avoid guessing name formats; even a missing middle name or swapped surname order can block a cash payout.
-- Do not allow the recipient to repeatedly attempt collection at different agents without a confirmed record update.
+- Don’t send a second transfer “just in case” before you’ve confirmed whether the first one can be corrected or cancelled.
+- Don’t pay anyone a separate “release fee” or “name change fee” to a new bank account or crypto wallet.
+- Don’t share the full transfer reference/collection number publicly or with anyone except the intended recipient and the provider’s official support.
+- Don’t guess the name format (middle names, double surnames, hyphens, accents). Small differences can block payout.
+- Don’t let the recipient keep trying different agent locations repeatedly without first confirming what exact name is on the transfer record.
 
 ## What to do now
-1. **Request the recipient type their name exactly as it appears on the ID they are holding.** Ask for the specific sequence of first, middle, and last names, including any hyphens, accents, or special characters.
-   - Use a secure messaging channel for this exchange.
-   - Note if the ID is a passport, driving licence, or national identity card, as requirements may vary.
-2. **Compare the ID name against the name on your transfer receipt.** Check for common errors:
-   - Nicknames used instead of legal names (e.g., "Bob" instead of "Robert").
-   - Swapped first and last names.
-   - Missing middle names.
-   - Spelling typos or missing hyphens in double-barrelled surnames.
-3. **Use the provider’s self-service tools to attempt an immediate correction.** Many major services allow one-time name edits if the money has not been collected.
-   - **Western Union:** Use the "Receiver's Name Change" online form or the "Edit" button in the app activity history.
-   - **Ria:** Navigate to the transfer in the app and select "Modify" or "Modify recipient name."
-   - **MoneyGram:** Look for the "Manage Transfer" or "Modify" option; note that some MoneyGram edits require contacting support via their official chat.
-4. **Contact the provider directly if self-service options are unavailable.** Provide the reference number (MTCN/PIN) and state clearly that the "payout is blocked due to a name mismatch."
-   - Confirm with the agent whether the correction has been "pushed" to the payout location.
-   - Ask for a revised receipt or confirmation email.
-5. **Verify the status of the funds before proceeding.** Use the provider’s online tracking tool to ensure the status is "Ready for Pickup" or "Pending" and has not been "Paid." If it shows as "Paid" but the recipient does not have the money, report it to the fraud department immediately.
-6. **Cancel the transfer if a name amendment is not permitted.** Some providers require a full cancellation and refund if the name change is significant.
-   - Check if the original transfer fee will be refunded.
-   - Resend a new transfer using the verified name details from Step 1.
-7. **Initiate a formal complaint if the provider refuses to assist or funds are stuck.** If the service is regulated in the UK, they must follow specific complaint timelines.
-   - State clearly that you are making a "Formal Complaint."
-   - Firms must generally provide a final response within 15 business days for payment services (extended to 35 business days only in exceptional circumstances).
-   - If unresolved, you may refer the case to the Financial Ombudsman Service (FOS) within 6 months of the final response. The FOS award limit for acts occurring after April 2019 is £445,000 as of 2026.
+1. **Get the recipient to type their name exactly as on their ID.** Ask them to type the full legal name (spelling + order + hyphens + spaces + accents) exactly as shown on the ID they’re using for collection. Avoid asking for photos of ID unless the provider explicitly requires it, and only share sensitive info via a secure channel.
+2. **Compare that to what you entered on the transfer.** Check your receipt/app/email confirmation for the receiver name you provided. Look for common mismatches: missing middle name, nickname vs legal name, swapped surname order, missing hyphen, extra surname, different spacing.
+3. **Confirm the transfer is still pending and not already paid out.** Use the provider’s tracking tool or official support to confirm the current status. If it shows as paid out and your recipient did not receive it, tell the provider immediately and ask for their fraud/dispute process.
+4. **Ask the provider to amend the receiver name to match the ID (if possible).** Contact them through the app/website help centre or official phone/chat and say: “Recipient can’t collect due to a name mismatch. Please update the receiver name to match their ID.” Have ready:
+   - transfer/reference number
+   - sender details used to create the transfer
+   - the corrected recipient name (exactly as typed from the ID)
+5. **Don’t send the recipient back until the provider confirms the record is updated.** If cash pickup is involved, ask what ID types are accepted at that location and whether proof of address is required when the ID doesn’t show an address (this varies by country and agent).
+6. **If the provider can’t change it, cancel/refund and resend with the exact legal name.** Some providers allow only small edits; others require cancellation and a new transfer. Ask what happens to fees and how refunds work for your payment method.
+7. **If you suspect a scam, stop and contain it.** Red flags: pressure to send more money, changing the pickup person, “fee to release”, or being told not to contact the provider. If any appear, stop sending money and ask the provider to cancel/lock the transaction if possible.
+8. **If you’re not getting help, use the UK complaints path (where eligible).** Make a formal complaint to the provider and keep copies of receipts and messages. For many UK payment-service complaints, firms typically aim to resolve within **15 business days** (up to **35 business days** in exceptional circumstances). If you’re still unhappy after the firm’s final response (or they don’t respond in time), you can usually take it to the Financial Ombudsman Service (and you generally have **6 months** from the final response date to do so).
 
 ## What can wait
-- It is not necessary to decide on a permanent change of transfer provider during the crisis.
-- You do not need to argue with the local collection agent; they usually cannot override system-level name mismatches.
-- Long-term reporting to the FCA is not required for a simple typo, provided the firm corrects it promptly.
+- You don’t need to decide right now whether to stop using that provider forever.
+- You don’t need to argue with the agent-location staff on the spot; focus on getting the provider to confirm what needs changing.
+- You don’t need to gather extensive evidence beyond the receipt/confirmation and the exact ID name details.
 
 ## Important reassurance
-Name mismatches are a frequent occurrence in global remittances and are a standard security trigger. A blocked payout indicates that the service's fraud prevention systems are active; in most cases, once the data is aligned with the ID, the funds are released immediately.
+Name mismatches are a very common, fixable reason for payout to be blocked. Strict name checks are often there to prevent fraud, so “blocked” usually means “details need correcting,” not “your money is gone.”
 
 ## Scope note
-This guide provides first-step stabilization for name-related payout blocks. It does not cover situations where funds have been intercepted by fraudsters or complex legal disputes regarding the source of funds.
+This is first steps only to unblock a transfer (or safely cancel and resend). If you believe fraud is involved or funds were paid out to the wrong person, you may need the provider’s dispute process and (if eligible) independent complaint handling.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Regulations and provider policies are subject to change. Always verify the identity of the person you are communicating with to avoid phishing attempts.
+This guide is general information, not legal or financial advice. Processes vary by provider and payout location, and identity-check rules can be strict. If you feel pressured to send more money or share codes/details, pause and verify everything directly with the provider through its official channels.
 
 ## Additional Resources
-- https://www.westernunion.com/gb/en/receive-money.html
 - https://www.moneygram.com/gb/en/help-center/faq/send-receive/receive-money-at-location
-- https://www.moneygram.com/gb/en/help-center/faq/send-receive/general-questions
-- https://www.westernunion.com/gb/en/help-transfer.html
+- https://www.moneygram.com/gb/en/help-center/complaints
+- https://www.westernunion.com/global/en/receiver-name-change.html
+- https://wucare.westernunion.com/s/article/Can-I-change-the-name-on-a-money-transfer
+- https://www.westernunion.com/gb/en/contact-us.html
+- https://www.gov.uk/complain-financial-service
 - https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/sending-money-abroad

@@ -1,109 +1,98 @@
----
+﻿---
 title: "What to do if… a third-party app you do not recognise is suddenly connected to your main account"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "unrecognised third-party app access"
-  - "unknown app connected to account"
-  - "suspicious app permissions"
-  - "third-party app connected unexpectedly"
-  - "account access granted without approval"
-  - "strange integration on account"
-  - "help i have a mystery app connected"
-  - "what do i do if an app i dont know has access"
-  - "my account shows a new connected service"
-  - "help i see a suspicious sign in and app link"
-  - "unauthorised oauth consent"
-  - "remove unknown app from google account"
-  - "revoke app access microsoft account"
-  - "apple account suspicious app connection"
-  - "security alert new app connected"
-  - "account takeover app permissions"
-  - "third-party access to email"
-  - "suspicious app linked after phishing"
-  - "how to remove connected apps"
-  - "what do i do if my account is linked to an app"
-  - "unexpected app integration alert"
-  - "account security breach mystery app"
-  - "manage third-party app access usa"
-  - "report unauthorised app connection"
-  - "unrecognised app login"
-  - "connected apps security risk"
-  - "strange app permissions warning"
-  - "unexpected third-party connection"
-last_reviewed: "2026-03-17"
+  - unknown app connected to account
+  - unrecognised third party app access
+  - suspicious app permissions
+  - linked app i did not approve
+  - connected apps security alert
+  - oauth consent i did not grant
+  - new app connected to my account
+  - random app has access
+  - account access granted unexpectedly
+  - strange integration on my account
+  - someone linked an app to my account
+  - unexpected login with permissions
+  - account takeover warning
+  - third party access to email
+  - third party access to google account
+  - third party access to microsoft account
+  - sign in with apple app i dont know
+  - connected services i dont recognise
+  - suspicious sign in and app access
+  - app connected after phishing
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… a third-party app you do not recognise is suddenly connected to your main account (USA)
 
 ## Short answer
-Revoke the unknown app's access immediately through your account's security settings, then reset your password and enable phishing-resistant multi-factor authentication (MFA) like a passkey or security key.
+Assume your account may be compromised. Revoke the unknown app’s access immediately, then reset the account security (password + MFA) and check for additional changes like new recovery info or forwarding rules.
 
 ## Do not do these things
-- Don't click "Secure your account" buttons or links inside the email or text alert you received.
-- Don't leave the app connected even if it appears to have limited permissions like "basic profile info."
-- Don't use the same password for your recovery email as you do for the main account.
-- Don't delete the notification email yet, as you may need the timestamps and app names for a later report.
-- Don't attempt to contact the third-party app developer directly before securing your main account.
+- Don’t click “secure your account” links in an alert email/text — go straight to the real site/app by typing it or using a known bookmark.
+- Don’t ignore the app because “it only has basic access” — some permissions (or “offline access”) are enough to cause serious damage.
+- Don’t keep using the account for password resets or financial logins until you’ve removed the app and secured sign-in.
+- Don’t reuse an old password, or “almost the same” password, across accounts.
+- Don’t wipe all evidence (emails/alerts) before you’ve taken screenshots and checked what changed.
 
 ## What to do now
-1. **Navigate directly to the account provider's official security page.**  
-   Open a new browser tab and type the address manually (e.g., myaccount.google.com, account.microsoft.com, or appleid.apple.com) rather than using links from an alert.
+1. **Sign in safely (not through the alert).**  
+   Open a fresh browser/app and sign in using a trusted route.
 
-2. **Revoke the unknown app’s permissions immediately.**  
-   Locate the section labeled **Security**, **Privacy**, or **Connected Apps** and remove the unfamiliar service.
-   - select the specific app and choose "Remove Access," "Revoke," or "Disconnect"
-   - check for "Offline Access" or "Refresh Tokens" which allow the app to stay connected even if you are offline
-   - remove any other apps you no longer actively use
+2. **Revoke the unknown app’s permissions.**  
+   In **Security / Privacy / Connected apps / Third-party access / App permissions**:
+   - remove the unfamiliar app/integration
+   - remove anything you don’t actively use
+   - treat “read email,” “manage account,” “full access,” and “offline access” as urgent
 
-3. **Change your account password to a unique and complex string.**  
-   **Create a password that has not been used on any other site.**
-   - if you use a password manager, generate a new 16+ character password
-   - if this password was shared with other accounts, update those accounts immediately, starting with your primary email and banking
+3. **Sign out everywhere and remove unknown devices/sessions.**  
+   Use **“sign out of all sessions”** and remove devices you don’t recognize.
 
-4. **Update your Multi-Factor Authentication (MFA) to a phishing-resistant method.**  
-   **Set up a passkey or a physical security key if your provider supports it.**
-   - avoid SMS-based codes if an authenticator app or hardware key is available
-   - verify that no new MFA methods (like a stranger's phone number) were added to the account
+4. **Change your password right away.**  
+   Use a long, unique password. If this password was reused anywhere else, change those accounts too (start with email, banking, and password manager).
 
-5. **Force a global sign-out of all active sessions.**  
-   **Use the "Sign out of all other web sessions" or "Remove all trusted devices" feature to kill any active hacker connections.**
+5. **Turn on MFA (multi-factor authentication).**  
+   Enable MFA in account security settings. If available, prefer an authenticator app or security key over SMS.
 
-6. **Audit your account recovery and communication settings for "backdoors."**  
-   **Check for new recovery emails, phone numbers, or "App Passwords" that you did not create.**
-   - remove any unrecognized recovery options
-   - generate new "Backup Codes" if the old ones may have been viewed
+6. **Check account recovery details and security backdoors.**  
+   Confirm (and remove anything you didn’t add):
+   - recovery email(s) / phone number(s)
+   - backup codes / trusted devices
+   - app passwords, access tokens, API keys (if the service supports them)
 
-7. **Review email forwarding and filter rules if the account is an inbox.**  
-   **Look for rules that automatically delete incoming mail or forward it to an external address.**
-   - check the "Forwarding" and "Filters / Blocked Addresses" settings
-   - ensure no "Delegated Access" has been granted to another user
+7. **If this is your email (or your email is the recovery hub), check forwarding and filters.**  
+   Review **forwarding**, **filters/rules**, and **delegated access** and remove anything unfamiliar. This is a common way attackers keep access and intercept resets.
 
-8. **Scan your devices for malware or unauthorized remote access tools.**  
-   **Run a full system scan using a reputable security suite on the computer or phone you were using when the app appeared.**
+8. **Scan the device you used to approve the app (if you’re not sure how it happened).**  
+   Update your device and run a reputable malware/antivirus scan (especially on Windows/macOS). If you consistently get surprise approvals, treat your device as potentially compromised.
 
-9. **File a report at IdentityTheft.gov if you suspect personal data was stolen.**  
-   **Use the Federal Trade Commission's official site to create a recovery plan if the app had access to sensitive files or financial data.**
+9. **If there’s identity theft risk or financial impact, use the official reporting path.**  
+   If someone used your account to open accounts, make purchases, or impersonate you, report and follow the guided recovery steps through the federal identity theft site. Also contact your bank/card issuer using the number on your card or official app.
 
-10. **Check your financial statements for unauthorized charges.**  
-    **Contact your bank or credit card issuer immediately if the compromised account contains stored payment methods.**
+10. **Contact the account provider’s support if you can’t fully remove access.**  
+   If the unknown app keeps reappearing, you can’t sign out other sessions, or settings keep changing, escalate through the provider’s official recovery/support flow.
 
 ## What can wait
-- You do not need to delete the main account entirely at this moment.
-- You do not need to notify all your contacts about a potential breach until you have confirmed if messages were actually sent.
-- You do not need to reset every single minor social media password today; focus on the "hub" accounts (email, password manager, banking) first.
+- You do **not** need to decide right now whether to delete your account or publicly announce the breach.
+- You do **not** need to rebuild your entire digital life in one sitting — focus on blocking access and securing sign-in first.
+- You can do deeper cleanup (review all connected apps, rotate more passwords, credit monitoring decisions) after you’ve stabilized access.
 
 ## Important reassurance
-Seeing an unauthorized app connection is a common indicator of a credential leak, but revoking access usually terminates the link instantly. If you have updated your password and MFA, you have effectively locked the door against the current intruder.
+A sudden “connected app” is a common tactic and it’s designed to make you react fast. Removing the app and locking down sign-in usually stops the ongoing access quickly, and then you can handle any fallout step by step.
 
 ## Scope note
-This guide covers the immediate technical stabilization of a single account connection. If you find evidence that your Social Security number or bank accounts have been accessed, you will need to follow broader identity theft recovery procedures.
+These are immediate first steps to reduce harm. If the account is tied to business systems, payments, or you see signs of wider compromise, you may need provider support and (if applicable) identity theft recovery steps.
 
 ## Important note
-This information is for safety stabilization and does not constitute legal, forensic, or professional cybersecurity advice. Specific steps may vary by service provider (Google, Microsoft, Apple, etc.) based on their 2026 interface updates.
+This is general information, not legal, financial, or forensic advice. If active fraud is underway, prioritize contacting your financial institutions and using official reporting channels.
 
 ## Additional Resources
-- https://support.google.com/accounts/answer/13533235?hl=en
+- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
+- https://consumer.ftc.gov/consumer-alerts/2024/10/email-or-social-media-hacked-heres-what-do
+- https://www.identitytheft.gov/
+- https://www.cisa.gov/secure-our-world/turn-mfa
 - https://support.microsoft.com/en-us/account-billing/edit-or-revoke-application-permissions-in-the-my-apps-portal-169be2b4-ee26-4338-aea8-d19bb2f329ee
-- https://help.dropbox.com/integrations/third-party-apps
-- https://consumer.ftc.gov/node/77537
-- https://www.paypal.com/us/cshelp/article/how-can-i-revoke-permissions-granted-to-a-third-party--ts2268
+- https://support.google.com/accounts/answer/13533235?hl=en

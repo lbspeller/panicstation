@@ -1,95 +1,86 @@
----
+﻿---
 title: "What to do if… a relative is in hospice and you are unsure what to do when death seems near"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "relative in hospice"
-  - "hospice end of life"
-  - "death seems near"
-  - "last days of life"
-  - "last hours of life"
-  - "what do i do if my relative is dying"
-  - "what do i do if i think they died"
-  - "help i think my relative just died"
-  - "help my relative is in hospice and dying"
-  - "expected death at home"
-  - "hospice nurse on call"
-  - "unsure what to do when someone is dying"
-  - "breathing changes dying"
-  - "noisy breathing dying"
-  - "no eating or drinking at end of life"
-  - "restlessness at end of life"
-  - "family at bedside"
-  - "imminent death signs"
-  - "what happens after death"
-  - "verification of death process"
-  - "dnacpr form guidance"
-  - "palliative care at home help"
-  - "terminal restlessness"
-  - "death rattle"
-  - "mottled skin before death"
-  - "cool hands and feet dying"
-  - "unresponsive relative hospice"
-  - "cheyne-stokes breathing"
-  - "medical examiner review 2026"
-  - "how to register a death uk"
-  - "what to do when death is expected"
-  - "palliative care out of hours"
-last_reviewed: "2026-03-16"
+  - relative in hospice
+  - hospice end of life
+  - death seems near
+  - last days of life
+  - last hours of life
+  - what to do when dying
+  - expected death at home
+  - hospice nurse on call
+  - unsure what to do
+  - breathing changes dying
+  - noisy breathing dying
+  - no eating or drinking
+  - restlessness at end of life
+  - family at bedside
+  - imminent death signs
+  - what happens after death
+  - verification of death
+  - dnacpr form
+  - palliative care at home
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… a relative is in hospice and you are unsure what to do when death seems near (UK)
 
 ## Short answer
-Contact the hospice or palliative care team immediately for guidance and to arrange a professional to verify the death. If at home and the hospice team is unreachable, call NHS 111 to report an expected death.
+Call the hospice/palliative care team (or their out-of-hours number) and say you think your relative may be in the last hours or may have just died — they will guide you and can arrange a professional to come and verify the death.
 
 ## Do not do these things
-- Do not call 999 for an expected hospice death unless there is an immediate safety emergency or the death was entirely sudden and unexpected.
-- Do not force the person to eat, drink, or swallow tablets if they are drowsy or having difficulty swallowing.
-- Do not adjust the dosage of "just in case" (anticipatory) medications without direct instruction from a hospice nurse or doctor.
-- Do not move, wash, or dress the person until a healthcare professional has officially verified the death.
-- Do not remove medical devices like syringe drivers, needles, or catheters yourself; only a trained professional should remove these.
+- Do not automatically dial 999 for an expected hospice death (unless you think the death is unexpected, there’s a safety issue, or you’re told to).
+- Do not force food, drink, or tablets if they are drowsy, struggling to swallow, or turning away.
+- Do not change doses of “just in case” medicines on your own — ask the hospice nurse/doctor what to give and when.
+- Do not assume noisy/irregular breathing means you must “fix it” yourself — if you’re worried or it seems uncomfortable, call the hospice team for symptom advice.
+- Do not rush to move the person, wash them, or remove equipment immediately after death unless you need to for safety/comfort.
 
 ## What to do now
-1. **Identify your current location and contact the designated clinical team.**
-   - **If in a hospice building:** use the call bell or go to the nursing station to tell staff your relative's breathing has changed or you think they have died.
-   - **If at home:** call the 24-hour hospice line, district nurse, or community palliative care number provided in your care folder.
-   - **If the specific team is unreachable:** call NHS 111 and state that an "expected death" has likely occurred.
-2. **State clearly what you are observing to the call handler or nurse.**
-   - Say: **"I am calling because my relative is under hospice care and I think death is imminent / I think they have now died."**
-   - Provide the patient's full name, date of birth, and current address.
-3. **Ask the nurse for immediate symptom management instructions if the person is still alive.**
-   - Ask: **"What should I do right now to keep them comfortable?"**
-   - Inquire specifically about managing noisy breathing (secretions), restlessness, or apparent pain.
-   - Write down any instructions given, including whether to administer anticipatory medicines.
-4. **Prepare the environment to reduce sensory distress for the patient and yourself.**
-   - **Dim the lights and reduce background noise to create a calm atmosphere.**
-   - If breathing is noisy, ask the nurse if you should gently turn the person onto their side.
-   - If they are using an oxygen mask and you are certain they have died, you may turn off the oxygen and remove the mask, but leave all other tubes in place.
-5. **Locate and gather the essential paperwork for the visiting professional.**
-   - **Find the DNACPR (Do Not Attempt CPR) form and the hospice "yellow folder" or care plan.**
-   - Have the list of current medications and any "just in case" drugs ready for inspection.
-6. **Note the approximate time of any significant changes or the moment of death.**
-   - **Record when breathing patterns changed or when you first noticed they were unresponsive.**
-   - This information helps the professional who will verify the death.
+1. **Work out where they are, then make the right call.**
+   - **If they are in a hospice (inpatient) building or ward:** tell staff immediately (use the call bell/reception/ward phone). They will attend and guide you.
+   - **If they are at home or in a care home under hospice/community palliative care:** call the hospice 24/7 line, community palliative care number, district nurses, or GP out-of-hours contact you were given.
+2. **On the call, say the key phrase and ask for a visit if needed.**  
+   Say: *“They’re on hospice/palliative care and I think death may be very near / I think they may have died.”* Ask: **“Can someone come to assess and (if needed) verify the death?”**
+3. **Ask three specific questions (and write the answers down).**
+   - “What should I do right now to keep them comfortable (pain, agitation, breathlessness, secretions)?”
+   - “What should I give (or not give) from the medicines we have at home?”
+   - “Who do I call next if things change before you arrive?”
+4. **Make the space calmer and reduce distress triggers for the next hour.**
+   - Lower noise/light, keep the room comfortably cool, and limit visitors if it’s overwhelming.
+   - If breathing is noisy/rattly, **ask the nurse if you should gently change their position** (for example, onto their side) and whether a **small fan/open window** might help.
+   - Speak simply and calmly; it can be comforting even if they don’t respond.
+5. **If they seem distressed, treat it as a care issue you escalate — not something you must manage alone.**
+   - Call back and describe what you see (grimacing, agitation, gasping, long pauses, rattly breathing).
+   - If you have “just in case” medicines, follow the hospice/clinical instructions exactly and ask what to do if it doesn’t help.
+6. **If you think death has happened, do the minimum first.**
+   - Check for breathing/responsiveness briefly, but **don’t start CPR** if there is a **DNACPR** in place or you’ve been told not to.
+   - If there is **no DNACPR** and you think the death may be **unexpected**, call **999** and follow the call handler’s instructions.
+   - For an **expected** death under hospice care, call the hospice/community nurse/GP service to arrange **verification of death**.
+7. **While waiting, gather what the visiting professional may ask for.**
+   - Your relative’s details (name, date of birth, NHS number if known).
+   - Care paperwork nearby (DNACPR form, anticipatory medication chart, hospice plan/contact sheet).
+   - A short note of when you noticed the change (e.g., “breathing changed around 8pm; unresponsive since 9pm”).
 
 ## What can wait
-- You do not need to call a funeral director until the death has been verified by a nurse or doctor.
-- You do not need to register the death immediately; you have 5 days in England and Wales, or 8 days in Scotland.
-- You do not need to worry about returning medical equipment or tidying the room right now.
-- You do not need to notify the wider family or government departments in the first hour.
+- You do not need to decide about funerals, registration, or notifying everyone immediately.
+- You do not need to tidy the home, return equipment, or deal with paperwork tonight unless someone advises it.
+- You do not need to be “certain” about what you’re seeing before calling — the hospice team can talk you through it.
 
 ## Important reassurance
-It is normal to feel overwhelmed, frightened, or uncertain about what you are seeing. Breathing changes, such as long pauses or a rattling sound, are a natural part of the body shutting down and do not always mean the person is in pain. Hospice teams expect these calls at any hour and are trained to support you through these specific minutes.
+Being unsure and frightened in these moments is normal — even when death is expected. Hospice teams are used to these calls and can guide you step by step. You are not “bothering” anyone by calling.
 
 ## Scope note
-This guide covers first-step stabilization and the immediate actions required in the hours surrounding an expected death under hospice care. It does not replace the legal requirements for registration or the medical examiner review process that follows.
+This is first-steps guidance for the hours when death seems close (or has just occurred). After that, there are formal steps (verification/certification, registering the death, and practical notifications) that your hospice/GP service can explain in order.
 
 ## Important note
-This information is for guidance in expected deaths only. If the death is unexpected, suspicious, or if you are in physical danger, call 999. In England and Wales, a Medical Examiner will now review the Medical Certificate of Cause of Death (MCCD) before you can register the death.
+This is general information, not medical or legal advice. If you think the situation is unsafe, the death is unexpected, or you are unsure what you’re seeing, seek urgent help via the hospice team, NHS services, or emergency services as appropriate.
 
 ## Additional Resources
-- https://www.nhs.uk/tests-and-treatments/end-of-life-care/your-wellbeing/changes-in-the-last-hours-and-days/
-- https://www.mariecurie.org.uk/information/end-of-life/stages-of-dying
-- https://www.mariecurie.org.uk/information/end-of-life/pre-death-signs
 - https://www.royalfree.nhs.uk/patients-and-visitors/patient-information-leaflets/what-do-following-expected-death-patient-home
-- https://www.gov.uk/when-someone-dies
+- https://www.hospiceuk.org/information-and-support/i-need-support-bereavement/what-do-when-someone-dies
+- https://www.nhs.uk/tests-and-treatments/end-of-life-care/your-wellbeing/changes-in-the-last-hours-and-days/
+- https://www.nhsinform.scot/care-support-and-rights/palliative-care/dying-death-and-grief/what-happens-when-someone-is-dying
+- https://www.sueryder.org/grief-support/what-to-do-when-someone-dies/what-happens-immediately-after-death/
+- https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once

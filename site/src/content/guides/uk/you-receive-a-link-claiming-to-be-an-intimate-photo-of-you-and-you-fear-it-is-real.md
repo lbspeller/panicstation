@@ -1,108 +1,88 @@
----
+﻿---
 title: "What to do if… you receive a link claiming to be an intimate photo of you and you fear it is real"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "intimate photo link"
-  - "nude photo link"
-  - "explicit image link"
-  - "revenge porn threat"
-  - "image-based abuse threat"
-  - "sextortion message"
-  - "sexual blackmail link"
-  - "blackmail scam intimate photo"
-  - "deepfake nude threat"
-  - "someone says they have nudes"
-  - "threatening to share nudes"
-  - "intimate images leak fear"
-  - "fake porn of me link"
-  - "link says its me nude"
-  - "extortion demand after link"
-  - "explicit content phishing link"
-  - "hacked account nude claim"
-  - "worried photo is real"
-  - "intimate image takedown"
-  - "help i received a link to nudes"
-  - "what do i do if someone has my nudes"
-  - "what do i do if i am being blackmailed with photos"
-  - "what do i do if i fear a photo is real"
-  - "my intimate photo was leaked"
-  - "help i clicked a link claiming to be me"
-  - "sexual extortion link help"
-  - "nude image blackmail uk"
-  - "received threat to share photos"
-  - "intimate image abuse support"
-  - "fake nude link phishing"
-last_reviewed: "2026-03-17"
+  - intimate photo link
+  - nude photo link
+  - explicit image link
+  - revenge porn threat
+  - image-based abuse threat
+  - sextortion message
+  - sexual blackmail link
+  - blackmail scam intimate photo
+  - deepfake nude threat
+  - someone says they have nudes
+  - threatening to share nudes
+  - intimate images leak fear
+  - fake porn of me link
+  - link says its me nude
+  - extortion demand after link
+  - explicit content phishing link
+  - hacked account nude claim
+  - worried photo is real
+  - intimate image takedown
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you receive a link claiming to be an intimate photo of you and you fear it is real (UK)
 
 ## Short answer
-Do not click the link, reply to the message, or pay any demands. Block the sender immediately and use official UK reporting and takedown services to secure your accounts and minimize the spread of content.
+Do **not** click the link or engage with the sender. Save a minimal record of what happened, then block and use UK support/removal/reporting routes to reduce harm quickly.
 
 ## Do not do these things
-- Don’t click, preview, or open the link, as it may be a "phishing" attempt to steal passwords or install malware.
-- Don’t pay, send gift cards, or engage in negotiations; payment typically results in higher demands and does not guarantee the deletion of content.
-- Don’t delete the messages or the account immediately; you need to preserve evidence for the police, but you should deactivate or ignore them.
-- Don’t screenshot the content if you suspect the person in the image is (or was at the time) under 18, as possession of such images is a criminal offense.
-- Don’t forward the link to others to ask for their opinion, as this can increase the digital footprint of the content.
+- Don’t click, preview, or “just check” the link (it may be used to steal passwords, install malware, or escalate threats).
+- Don’t pay, send gift cards, or bargain (payment often leads to more demands and may not stop anything).
+- Don’t delete everything in a panic (keep enough evidence to report; avoid wiping chats/accounts immediately).
+- Don’t forward the link or image to friends “to confirm” (that can spread harm and put others at risk).
+- Don’t post about it publicly with identifying details (it can amplify the abuse and make takedown harder).
 
 ## What to do now
-1. **Stop all communication and block the sender.**
-   **Immediately cease all contact with the person or account sending the threats.** 
-   - Block the user on the platform where the message was received (e.g., Instagram, WhatsApp, Email).
-   - If the platform allows, "restrict" the account instead of blocking if you are worried about them seeing you have blocked them, but do not read further messages.
+1. **Stop the interaction and block.**  
+   Don’t reply further. Block the account/number/email on the platform where they contacted you.
 
-2. **Preserve evidence without opening the link.**
-   **Take screenshots of the threat, the sender's username, their profile page, and any bank details or payment links provided.**
-   - Copy the URL of the link if you can do so without clicking it (right-click or long-press to "Copy Link Address").
-   - Store these records in a secure, private folder.
+2. **Record the essentials (without opening the link).**  
+   Screenshot the message(s), the sender’s profile/username, and the visible URL text. If the platform lets you copy the link **without opening it**, copy it into a note for reporting.
 
-3. **Secure your digital accounts if you clicked the link.**
-   **If you interacted with the link or entered any details, treat your device as compromised.**
-   - Change your passwords immediately from a different, trusted device.
-   - Enable two-step verification (2FA) on all sensitive accounts, especially email and social media.
-   - Run a scan using trusted security software to check for unauthorized scripts or malware.
+3. **If you already clicked the link, treat it as a security incident.**  
+   Close the page. If you typed any passwords or codes, change those passwords **from a different trusted device** and enable 2-step verification on affected accounts. Run a reputable security scan if you have one available.
 
-4. **Use the UK Revenge Porn Helpline for takedown support.**
-   **If you are an adult (18+) and fear an intimate image has been shared, contact the Revenge Porn Helpline.**
-   - They provide free, confidential advice and have direct paths to remove content from major platforms.
-   - Availability: Monday to Friday, 10:00 – 16:00.
-   - Phone: 0345 6000 459 or Email: help@revengepornhelpline.org.uk.
+4. **Report it in-app, and use UK takedown support (even if you’re not sure it’s real).**  
+   - Report the message/account on the app/site for harassment/extortion/intimate image abuse.  
+   - If an intimate image/video of you has been shared (or you’re worried it will be), consider **StopNCII.org** (adults) to help limit re-uploads **on participating platforms**. It does **not** stop sharing everywhere, and it generally does not apply inside encrypted messaging.  
+   - For free, confidential help with reporting and takedown requests, contact the **Revenge Porn Helpline** (UK adults).
 
-5. **Register hashes with StopNCII.org.**
-   **Use the StopNCII tool to proactively prevent your images from being uploaded to participating platforms.**
-   - This tool generates a "digital fingerprint" (hash) on your device so you do not have to upload the actual image to the service.
-   - Participating platforms (including Facebook, Instagram, TikTok, and Reddit) use these hashes to block the content automatically.
+5. **Use UK reporting routes if there are threats, demands, or ongoing harassment.**  
+   - If you feel at immediate risk of harm, call **999**.  
+   - Otherwise, you can report to your local police (often via **101** or online reporting).  
+   - If it’s online extortion/fraud, you can also use the UK **Report Fraud** sextortion guidance/reporting route. Keep it simple: stop contact, don’t pay, preserve evidence.
 
-6. **Report the crime to the police or Report Fraud.**
-   **Report the incident as "Sextortion" or "Intimate Image Abuse."**
-   - If you are in immediate danger or being physically threatened, call **999**.
-   - In England, Wales, and Northern Ireland, report online at **reportfraud.police.uk** or call 0300 123 2040.
-   - In Scotland, report by calling **101**.
+6. **If you are under 18 (or the image is from when you were under 18), use child-specific routes.**  
+   Tell a trusted adult. You can also report to the **CEOP Safety Centre**. For help removing images, use **Report Remove** (Childline + IWF).
 
-7. **Follow child-specific routes if you or the image subject are under 18.**
-   **Use "Report Remove" (Childline + IWF) or "Take It Down" (NCMEC) to have images of minors removed.**
-   - Report the incident to the **CEOP Safety Centre** online.
-   - Tell a trusted adult or contact Childline on 0800 1111 for emotional support.
+7. **Get support for the shock/spiral right now.**  
+   If you feel unable to cope or unsafe with your thoughts, you can call **NHS 111** and choose the **mental health option** (England), or follow NHS urgent mental health guidance. For someone to talk to right now, you can call **Samaritans on 116 123**.
 
 ## What can wait
-- You do not need to decide whether to tell your family or employer right now.
-- You do not need to identify the exact source of the leak or "hunt down" the person behind the account today.
-- You do not need to spend time searching the public internet for the image; professional takedown services are more effective and less distressing.
+- You do not need to decide right now whether to make a full statement, pursue a case, or confront anyone.
+- You do not need to identify who did it today.
+- You do not need to search the internet for the image right now; that can be distressing and often isn’t the fastest route to takedown.
 
 ## Important reassurance
-Threats of this nature are often "bluffs" or automated scams designed to trigger a panic response. Feeling sick, anxious, or overwhelmed is a natural reaction to this type of violation. By stopping contact and using official reporting channels, you are taking the most effective steps to regain control.
+Receiving a message like this can cause instant panic, nausea, and shame—those reactions are common. These threats are often designed to rush you into clicking, paying, or engaging; slowing down and using the right support routes is a strong first move.
 
 ## Scope note
-This guide provides first-step stabilization for immediate digital safety and reporting. It does not cover long-term legal proceedings, civil litigation, or ongoing psychological counseling.
+These are first steps only—focused on immediate safety, limiting spread, and getting you to the right specialist support. Later decisions (legal options, longer-term digital safety, ongoing harassment) may need tailored help.
 
 ## Important note
-This information is for guidance only and does not constitute legal advice. Reporting requirements and laws regarding intimate image abuse vary; always consult with the police or a qualified legal professional for case-specific advice. If you are in distress, call NHS 111 (select option 2 for mental health in England) or Samaritans on 116 123.
+This is general information, not legal or medical advice. If you are in immediate danger call 999. If you are under 18 (or the content involves someone under 18), use child-specific reporting/support routes promptly.
 
 ## Additional Resources
+- https://www.reportfraud.police.uk/sextortion/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/what-you-can-do-reporting-it-to-us/
+- https://revengepornhelpline.org.uk/
 - https://stopncii.org/
-- https://stopncii.org/create-your-case/?lang=en-gb
-- https://revengepornhelpline.org.uk/assets/documents/factsheet-final.pdf?_=1599829990
-- https://www.victimsupport.org.uk/crime-info/types-crime/image-based-sexual-abuse/
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/threats-to-share-intimate-images/
+- https://stopncii.org/faq/?lang=en-gb
+- https://www.ceop.police.uk/Safety-Centre/
+- https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/report-remove/
+- https://www.iwf.org.uk/our-technology/report-remove/

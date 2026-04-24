@@ -1,97 +1,91 @@
----
+﻿---
 title: "What to do if… you receive notice that wages may be garnished because of a court order you did not expect"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "wage garnishment notice"
-  - "attachment of earnings order"
-  - "earnings arrestment scotland"
-  - "unexpected court order"
-  - "help i have a court order"
-  - "my wages are being taken"
-  - "what do i do if my wages are garnished"
-  - "what do i do if i get an aeo"
-  - "what do i do if i get an earnings arrestment"
-  - "what do i do if my pay is reduced by court"
-  - "help i did not know about this court case"
-  - "help i never got court papers"
-  - "unexpected ccj notice"
-  - "attachment of earnings form n56"
-  - "court order old address"
-  - "set aside default judgment uk"
-  - "form n244 application"
-  - "form n245 variation"
-  - "enforcement of judgments office northern ireland"
-  - "ejo attachment order"
-  - "protected earnings rate"
-  - "earnings arrestment tables"
-  - "charge for payment scotland"
-  - "debt advice and information pack"
-  - "wages taken from salary"
-  - "court reference number check"
-  - "identify theft debt claim"
-  - "payroll deduction notice uk"
-  - "unaffordable court payments"
-  - "earnings arrestment notice"
-  - "wage arrestment help"
-  - "court order mistake"
-  - "wrong person court debt"
-  - "stopping wage deductions"
-last_reviewed: "2026-03-17"
+  - wage garnishment notice
+  - wages taken from pay
+  - unexpected court order
+  - court order i did not know about
+  - attachment of earnings order
+  - aeo letter from employer
+  - ccj i did not expect
+  - default judgment surprise
+  - old address court papers
+  - identity theft debt claim
+  - payroll deduction notice
+  - debt enforcement from wages
+  - court claim number check
+  - set aside default judgment
+  - set aside judgment n244
+  - vary payments n245
+  - earnings arrestment scotland
+  - wage arrestment notice
+  - enforcement of judgments office
+  - ejo attachment of earnings
+  - deductions from wages uk
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive notice that wages may be garnished because of a court order you did not expect (UK)
 
 ## Short answer
-Identify the issuing authority and reference number from the paperwork, then contact the issuer directly using verified contact details to request copies of the original claim. If you were unaware of the case, you must apply to "set aside" the judgment or "vary" the payment amount through the specific court or enforcement office that issued the order.
+Verify it’s real by getting the issuing authority and reference number, then contact the issuer using independent official contact details. If you didn’t know about the case (for example, papers went to an old address), ask immediately what you can do to challenge the judgment/order or change the deduction.
 
 ## Do not do these things
-- Don't ignore the notice; in England and Wales, failing to return an N56 form within 8 days is a criminal offense that can lead to an arrest warrant.
-- Don't use contact details provided solely on the notice if you suspect a scam; verify the court or agency phone number via GOV.UK, the Scottish Courts and Tribunals Service, or NI Direct.
-- Don't expect your employer to stop the deduction voluntarily; they are legally bound to comply with a valid court order and can be fined for non-compliance.
-- Don't make a lump-sum payment to a third-party collector until you have verified the debt is yours and the order is legitimate.
-- Don't resign from your job to avoid the order; the debt remains, and the order can be transferred to a new employer or replaced with different enforcement methods.
+- Don’t pay, share ID details, or “confirm” information just because the message sounds official — scams often imitate court enforcement.
+- Don’t use phone numbers, links, or email addresses printed on the notice until you’ve verified them independently.
+- Don’t assume payroll can change or stop deductions on request — they usually must follow a valid order, but you can challenge or vary it through the correct authority.
+- Don’t ignore it because it feels wrong; delay can make it harder to pause enforcement.
+- Don’t quit your job in panic; it can worsen the situation and doesn’t usually remove the underlying order.
 
 ## What to do now
-1. **Identify the specific UK jurisdiction and issuing body from the document.** Look for the header to determine if the order originated from:
-   - The County Court (England and Wales)
-   - The Sheriff Court (Scotland)
-   - The Enforcement of Judgments Office (Northern Ireland)
-2. **Request a full copy of the order and the original claim from your payroll department.** You need the case reference number, the name of the claimant (creditor), the total amount owed, and the date the order was served.
-3. **Verify the order's legitimacy with the issuing body using independent contact details.**
-   - Contact the named court or the Enforcement of Judgments Office (EJO) to confirm the case exists in your name.
-   - Ask for the date the original claim form or "Charge for Payment" was sent and the address used for service.
-4. **Check for mandatory procedural documents that should have preceded the deduction.**
-   - In Scotland, you must have been served a "Charge for Payment" and a "Debt Advice and Information Pack" (DAIP) at least 14 days before an arrestment.
-   - In England and Wales, you should have received a County Court Judgment (CCJ) followed by a Form N56 (Attachment of Earnings red-bordered form).
-5. **Update your current address with the court or issuing body immediately.** If the papers were sent to a previous address, this is a primary ground for challenging the order.
-6. **Apply to "set aside" the judgment if you did not receive the original court papers.**
-   - **England and Wales:** Use Form N244 to apply for a set aside (fee currently £313, or £123 if the creditor consents).
-   - **Scotland / Northern Ireland:** Seek immediate advice from a solicitor or Citizens Advice regarding "recalling" a decree or challenging an EJO order.
-7. **Calculate if the deduction leaves you with less than the "Protected Earnings" amount.**
-   - In England and Wales, the court sets a "Protected Earnings Rate" (PER) below which your pay cannot fall.
-   - In Scotland, statutory tables define the "Protected Minimum Balance" that must remain in your pay.
-8. **Request a "Variation" or "Suspension" if the deduction rate causes extreme hardship.**
-   - **England and Wales:** Use Form N245 to apply for a variation if the creditor set the rate, or N244 if the court set the rate.
-   - **Northern Ireland:** Contact the EJO Money Judgments Team to request a re-examination of your means.
-9. **Inform the court or issuer in writing if the order is for the wrong person.** Provide proof of identity if you share a name with the debtor but have different identifiers (such as a different date of birth or National Insurance number).
+1. **Work out which UK system this is (England/Wales vs Scotland vs Northern Ireland).** From the paperwork/payroll copy, identify:
+   - the **issuing body** (a court name, Sheriff Officers/Scottish documents, or the **Enforcement of Judgments Office** in Northern Ireland),
+   - the **reference/case number**,
+   - the **creditor/claimant** name,
+   - and **when deductions start** (or if they already started).
+2. **Ask payroll for a copy of the exact document they received (and keep your own copy).** You’re looking for the header that shows who issued it and any instructions about where to send queries/objections.
+3. **Verify the order directly with the issuer using independent official contact routes.**
+   - If it’s **England/Wales**, confirm the case with the named court and ask what judgment/order exists.
+   - If it’s **Northern Ireland**, confirm whether it’s being enforced through the **Enforcement of Judgments Office (EJO)**.
+   - If it’s **Scotland**, look for terms like **earnings arrestment** and ask what decree/document and notices were issued.
+4. **Ask for copies of the key documents and how you were notified.** Specifically request:
+   - the **judgment/decree** (what decided you owe money),
+   - the **earnings order/arrestment paperwork** (what instructs payroll),
+   - and what the file shows about **service/notification** (what address/route was used).
+5. **If you genuinely did not know about the case, ask what the “set aside” (or equivalent) route is in your UK nation.**
+   - **England/Wales:** ask the court about applying to **set aside** a default judgment (commonly via **form N244**) if you never received the claim/judgment papers.
+   - **Scotland / Northern Ireland:** ask the issuing body (or a local adviser) what the correct procedure is to challenge the underlying decision or enforcement when you say you were not properly notified.
+6. **If the debt might be yours but the deduction amount is unaffordable, ask about changing the payment amount using the correct authority’s process.**
+   - **England/Wales:** ask the court what application they require to **vary** the payment terms and/or suspend enforcement while it’s considered (often **form N245** is used to vary instalments, depending on what order exists).
+   - **Northern Ireland (EJO):** ask the EJO what process exists to adjust an attachment of earnings based on your means.
+   - **Scotland:** ask a debt adviser what options exist to address an earnings arrestment and what notices should have been served.
+7. **Do two quick “surprise explanation” checks that often resolve confusion.**
+   - **Old address:** ask what address the issuer used and update your address with them immediately.
+   - **Wrong person / mistaken identity:** check the name and identifiers on the paperwork; if anything doesn’t match, tell the issuer and payroll you may be the wrong person and you are disputing identification.
+8. **Check whether it’s truly a “court order” or another official deduction.** Some wage deductions (for example, certain child maintenance enforcement) can follow different routes. Treat anything that names a government department/agency as a separate track and focus on verifying the issuer named on the document.
+9. **Get reputable free advice quickly so you file the right thing.** Tell them: “My employer says they received an order to deduct from earnings, but I didn’t know about the case. I need to verify the judgment/decree and the fastest way to challenge or vary it.”
 
 ## What can wait
-- You do not need to explain your full financial history to your employer; you only need to provide them with official court stay or variation orders.
-- You do not need to pay the full balance immediately to stop the deduction; you can focus first on the legal application to pause or change the monthly rate.
-- You do not need to decide on long-term debt solutions (like sequestration or an IVA) today; focus on stabilizing this specific wage deduction first.
+- You don’t need to decide today whether to “fight” the whole debt versus negotiate — first confirm what order exists and why you didn’t know.
+- You don’t need to share your full personal story with your employer; payroll mainly needs official documents/updates.
+- You don’t need to make a panic payment to a collector until you’ve confirmed the issuer, case reference, and that the debt is actually yours.
 
 ## Important reassurance
-Receiving an unexpected wage deduction notice is a common result of administrative errors or papers being sent to a previous residence. Courts and enforcement offices have established procedures for "setting aside" or "recalling" judgments when a defendant was not properly notified. Taking procedural steps now can pause the process while you investigate the underlying claim.
+Surprise wage-deduction notices are often caused by paperwork going to an old address or a claim you never saw. Feeling shocked or embarrassed is normal. Your immediate goal is to verify the order, get the documents, and use the correct route to challenge it or reduce the impact — not to rush into irreversible decisions.
 
 ## Scope note
-This guide provides first-step stabilization for unexpected wage deductions across UK jurisdictions. It does not cover specific procedures for high-court enforcement, magistrate court fines, or Department for Work and Pensions (DWP) "Direct from Earnings" (DEO) deductions for child maintenance or overpayments.
+This is first steps only: stabilise, verify what’s real, and avoid panic mistakes. The correct forms and routes depend on which part of the UK you’re in and what type of order it is.
 
 ## Important note
-This information is for general guidance and is not legal advice. Debt enforcement laws vary significantly between England/Wales, Scotland, and Northern Ireland. Always verify court documents through official government portals (GOV.UK, SCTS, or NI Direct) and seek advice from authorized bodies like Citizens Advice, National Debtline, or StepChange.
+This is general information, not legal advice. UK processes differ between England/Wales, Scotland, and Northern Ireland, and also by debt type. Use independent official contact details to verify documents and get specialist advice if you’re unsure which procedure applies.
 
 ## Additional Resources
 - https://www.citizensadvice.org.uk/debt-and-money/action-your-creditor-can-take/creditor-takes-money-from-your-wages/
-- https://nationaldebtline.org/get-information/guides/attachment-of-earnings-orders-ew/
-- https://www.gov.uk/government/publications/form-n56-form-for-replying-to-an-attachment-of-earnings-application-statement-of-means
-- https://www.gov.uk/county-court-judgments-ccj-for-debt
-- https://www.gov.uk/county-court-judgments-ccj-for-debt/cancel-the-judgment
+- https://www.gov.uk/government/publications/form-n244-application-notice
+- https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part13
+- https://www.nationaldebtline.org/get-information/guides/attachment-of-earnings-orders-ew/
+- https://www.citizensadvice.org.uk/scotland/debt-and-money/action-your-creditor-can-take/creditor-takes-money-from-your-wages1/
+- https://www.justice-ni.gov.uk/articles/enforcement-judgments-office
+- https://www.nidirect.gov.uk/articles/enforcement-civil-court-orders-northern-ireland

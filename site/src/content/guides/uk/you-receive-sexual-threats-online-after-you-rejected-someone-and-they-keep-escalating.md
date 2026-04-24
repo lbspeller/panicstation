@@ -1,87 +1,89 @@
----
+﻿---
 title: "What to do if… you receive sexual threats online after you rejected someone and they keep escalating"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "sexual threats online"
-  - "online sexual harassment"
-  - "rejected someone threats"
-  - "escalating messages"
-  - "coercive sexual messages"
-  - "intimidation after rejection"
-  - "unwanted sexual contact online"
-  - "stalking by messages"
-  - "harassment on social media"
-  - "threatening to share images"
-  - "threatened with sexual violence"
-  - "persistent unwanted contact"
-  - "online blackmail threats"
-  - "someone won’t stop messaging"
-  - "stranger threats online"
-  - "ex-partner sexual threats"
-  - "doxxing threats after rejection"
-  - "deepfake threat"
-  - "explicit threats in dm"
-  - "safety after online threats"
-  - "help i am being threatened online"
-  - "what do i do if someone is threatening me sexually"
-  - "what do i do if my ex is threatening to share photos"
-  - "help i am being stalked online"
-  - "threats to post private photos"
-  - "sexual intimidation uk"
-  - "reporting online threats to police uk"
-  - "sexual harassment escalation"
-  - "cyberstalking help uk"
-  - "digital abuse after rejection"
-last_reviewed: "2026-03-17"
+  - sexual threats online
+  - online sexual harassment
+  - rejected someone threats
+  - escalating messages
+  - coercive sexual messages
+  - intimidation after rejection
+  - unwanted sexual contact online
+  - stalking by messages
+  - harassment on social media
+  - threatening to share images
+  - threatened with sexual violence
+  - persistent unwanted contact
+  - online blackmail threats
+  - someone won’t stop messaging
+  - stranger threats online
+  - ex-partner sexual threats
+  - doxxing threats after rejection
+  - deepfake threat
+  - explicit threats in dm
+  - safety after online threats
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you receive sexual threats online after you rejected someone and they keep escalating (UK)
 
 ## Short answer
-Stop all engagement immediately, document the communication through screenshots, and contact the police via 999 if there is an immediate threat to your physical safety.
+Stop engaging and move to safety-first documentation and reporting: block where you can, keep the messages, and contact the police if you feel unsafe or the threats are specific.
 
 ## Do not do these things
-- Do not reply to the messages, attempt to reason with the sender, or provide further explanations for your rejection.
-- Do not delete the messages or the account until you have preserved the evidence.
-- Do not agree to meet the person in a physical location to resolve the conflict.
-- Do not send additional personal information, images, or "proof" to appease the sender.
-- Do not publicly mention the sender’s identity on social media as this may escalate the risk.
-- Do not click on any links or download files sent by the individual.
+- Do not try to “reason” with them, negotiate, or explain yourself again — escalation often feeds on replies.
+- Do not send intimate images or personal information to “prove” anything or calm them down.
+- Do not meet them in person “to clear things up”.
+- Do not delete the conversation if you might want help from the platform or police later.
+- Do not publicly call them out using identifying details (it can inflame risk and complicate reporting).
+- Do not click links they send or install anything they recommend.
 
 ## What to do now
-1. **Prioritise immediate physical safety.** If you believe the person knows your location or is likely to arrive at your home or workplace, **call 999**.
-   - If you are in danger but cannot speak, call 999 and press 55 when prompted to use the Silent Solution.
-2. **Cease all contact without a final warning.** Do not send a "final message" or "stop" request if the situation has already escalated to threats; simply **stop responding** entirely.
-3. **Preserve evidence for reporting.** Take clear screenshots of the threats, the sender’s profile (including their username/handle and profile URL), and the timestamps of all messages.
-   - Save these to a secure location, such as a cloud folder or a trusted friend’s device, then move them out of your primary photo gallery to avoid constant re-exposure.
-4. **Report the incident to the police.** Contact your local force by **calling 101** or using their online reporting tool for non-emergencies.
-   - State clearly that you are receiving sexual threats and that the behaviour is escalating.
-5. **Contact specialist support for harassment and stalking.** If the contact is repeated and causing alarm or distress, call the **National Stalking Helpline** at 0808 802 0300.
-   - They provide guidance on safety planning and how the law applies to your specific situation.
-6. **Address threats involving intimate images.** If the sender is threatening to share private sexual images or deepfakes, contact the **Revenge Porn Helpline** (0345 6000 459, open 10:00–16:00, Monday–Friday).
-   - They can assist with the removal of content and provide access to tools like StopNCII for adults or Take It Down for those under 18.
-7. **Secure your digital accounts.** Enable two-factor authentication (2FA) on your email and social media accounts, starting with your primary email.
-   - Adjust privacy settings to ensure only approved contacts can message you or view your profile details.
-8. **Involve a trusted third party.** Ask a friend or family member to help you manage the reporting process or to hold onto the evidence so you do not have to look at it.
+1. **Create a safer pause first.** If you feel in immediate danger (they know where you are, you’re being followed, or you think they may turn up), **call 999**. If it’s not immediate danger but you feel threatened, **call 101** to report and get advice.
+2. **Stop contact in a clean, boring way.** If you haven’t already, send one final message only if it feels safe: “Do not contact me again.” Then **do not reply** further.
+3. **Block and lock down accounts (without wiping evidence).**
+   - Block the person on each app/platform.
+   - Set your social accounts to private, hide your phone/email from profiles, and remove location info where possible.
+   - Turn on two-factor authentication for email and social accounts (starting with your email).
+4. **Preserve what matters (light-touch).** Save a clear record of:
+   - The messages (including dates/times), usernames/handles, profile links, and any threats to share images or find you.
+   - If safe, take screenshots and also note the platform, account name, and message URL where available.
+   - Keep this in one folder (phone notes or a document) so you don’t have to keep re-reading the threats.
+5. **Report it in two places.**
+   - **Report the messages inside the app** (harassment/threats) and use any “threats” / “sexual harassment” / “intimate image abuse” categories offered.
+   - **Report to the police** (999/101 as above). Repeated unwanted contact may be treated as stalking/harassment; threats should be taken seriously.
+6. **If they’re threatening to share sexual images (or deepfakes), get specialist help.**
+   - The **Revenge Porn Helpline** supports UK-based **adults (18+)** affected by intimate image abuse, including threats to share.
+   - They may be able to advise on urgent takedown steps and, in some cases, tools like **StopNCII** (where eligible) that help reduce re-uploads on participating platforms.
+7. **Bring in a real person and reduce isolation.** Tell one trusted person what’s happening and ask them to:
+   - Sit with you while you report (or do the “form-filling” while you dictate).
+   - Be the person you can message if you get scared or tempted to respond.
+8. **If this is (or could be) an intimate partner/ex-partner, treat it as a safety situation.**
+   - Use a **safe device** (one they cannot access) to seek advice if you worry about monitoring.
+   - Consider contacting a specialist stalking or domestic abuse service for tech-safety and immediate risk support.
+9. **If you’re under 18 (or the situation involves a child), get child-specific support.** Use the platform reporting tools and seek guidance from child online-safety support services rather than trying to handle this alone.
 
 ## What can wait
-- You do not need to decide whether you want to press charges or go to court at this moment.
-- You do not need to provide a complete history of your relationship with the sender in the first report; the immediate threats are sufficient.
-- You do not need to delete your social media presence entirely; blocking and privacy adjustments are often sufficient first steps.
-- You do not need to understand "why" the person is acting this way before seeking protection.
+- You do not need to decide today whether to pursue charges, go to court, or “make a formal statement”.
+- You do not need to write a perfect timeline right now — a basic list of incidents is enough.
+- You do not need to overhaul every account in one sitting; start with email + main social accounts.
+- You do not need to confront them, explain yourself, or get closure.
 
 ## Important reassurance
-Experiencing fear, anxiety, or a sense of paralysis when receiving sexual threats is a standard response to digital violence. These feelings do not mean you are overreacting or unable to handle the situation. Taking steps to block the sender and involve the police is a proactive way to regain control of your safety.
+Being shaken, nauseous, or frozen by sexual threats is a normal nervous-system response. You’re not “overreacting” — your job right now is to reduce access to you, keep a record, and get the right support around you.
 
 ## Scope note
-This guide provides first-step stabilization for UK residents facing online sexual threats. It does not replace professional legal advice or long-term police safeguarding strategies.
+This is first-steps-only guidance to stabilise and prevent harmful next moves. If the behaviour continues, specialist stalking/harassment support and police safeguarding advice can help you plan next steps without you having to handle it alone.
 
 ## Important note
-If you are under 18, please inform a trusted adult or contact Childline at 0800 1111. This guide is for informational purposes and should not supersede instructions given by emergency services or qualified legal professionals.
+This is general information, not legal advice or a substitute for emergency services. If you feel in danger or the threats are specific and credible, contact the police immediately.
 
 ## Additional Resources
-- https://www.met.police.uk/advice/advice-and-information/har/harassment-on-social-media/
-- https://reportharmfulcontent.com/advice/other/someone-is-blackmailing-me-online/?lang=en-gb
-- https://revengepornhelpline.org.uk/
-- https://www.gov.uk/government/publications/stalking-protection-act-statutory-guidance-for-the-police/stalking-protection-orders-statutory-guidance-for-the-police-accessible-version
-- https://www.cps.gov.uk/information-and-support-victims/support-victims/support-victims-stalking-or-harassment
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/what-is-sending-threatening-messages/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-is-stalking-harassment/
+- https://www.gov.uk/report-stalker
+- https://revengepornhelpline.org.uk/how-can-we-help/how-to-get-in-touch/
+- https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/what-is-sending-threatening-messages/sending-threatening-messages-help-and-support/
+- https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/help-and-support/

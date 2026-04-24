@@ -1,104 +1,72 @@
----
+﻿---
 title: "What to do if… you receive notice that someone in custody is being released soon and they have nowhere to go"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "prison release nowhere to go"
-  - "leaving custody housing crisis"
-  - "ex-prisoner homeless on release"
-  - "release date notice what now"
-  - "no address for release"
-  - "resettlement help prison leaver"
-  - "probation housing help"
-  - "council homelessness help prison"
-  - "duty to refer prison england"
-  - "urgent accommodation on release"
-  - "approved premises probation hostel"
-  - "friend family supporting release"
-  - "person being released soon"
-  - "custody release accommodation"
-  - "prison discharge homelessness"
-  - "no fixed abode on release"
-  - "last-minute release planning"
-  - "licence conditions address"
-  - "what do i do if someone is released from prison with no home"
-  - "what do i do if my friend is leaving prison homeless"
-  - "what do i do if a family member is being released to no fixed abode"
-  - "what do i do if the prison says they have no housing"
-  - "help i have a person leaving prison with no address"
-  - "help i am supporting a prisoner with no home"
-  - "help i need housing for a prison leaver"
-  - "my brother is being released with nowhere to go"
-  - "my partner is leaving prison homeless"
-  - "smell of damp in temporary housing"
-  - "visible rough sleeping on release"
-  - "discharge grant for housing"
-  - "resettlement passport status"
-  - "prison discharge paperwork missing"
-  - "homeless on release England"
-  - "homeless on release Scotland"
-  - "homeless on release Wales"
-  - "cas3 accommodation prison"
-  - "cas2 bail accommodation"
-last_reviewed: "2026-03-17"
+  - prison release nowhere to go
+  - leaving custody housing crisis
+  - ex prisoner homeless on release
+  - release date notice what now
+  - no address for release
+  - resettlement help prison leaver
+  - probation housing help
+  - council homelessness help prison
+  - duty to refer prison england
+  - urgent accommodation on release
+  - approved premises probation hostel
+  - friend family supporting release
+  - person being released soon
+  - custody release accommodation
+  - prison discharge homelessness
+  - no fixed abode on release
+  - last minute release planning
+  - licence conditions address
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive notice that someone in custody is being released soon and they have nowhere to go (UK)
 
 ## Short answer
-Contact the prison resettlement team or the person's Probation Practitioner immediately to ensure a formal homelessness referral has been submitted to the relevant local authority. Request a copy of the person's Resettlement Passport to confirm that the Duty to Refer (England) or equivalent notification has been logged.
+Get the prison/probation resettlement contact to start the **official homelessness/housing-help process today**, and make sure there is a safe “first night” plan even if longer-term housing isn’t sorted yet.
 
 ## Do not do these things
-- Do not provide your home address as a release location until you have confirmed the specific licence conditions or bail requirements.
-- Do not assume the prison has already secured housing; resettlement teams often only facilitate the referral, not the final placement.
-- Do not delay contact because the release date is weeks away; councils often require at least 56 days' notice to trigger prevention duties.
-- Do not pay for private accommodation yourself without checking if the prison Governor can provide a discretionary housing payment (up to £50) directly to a provider.
-- Do not accept "no fixed abode" as an unchangeable status if the person has health or vulnerability factors that may grant them Priority Need status.
+- Don’t promise the person they can use your address (or that you’ll house them) until you know their **licence/bail conditions** and the practical risks.
+- Don’t put your address in writing for multiple agencies unless you truly intend it to be used and you understand what’s being requested.
+- Don’t assume “no housing available” means nothing can be done—there are still **formal referrals/assessments** that protect the person’s position.
+- Don’t delay because you’re waiting for perfect information; start with what you have and update.
 
 ## What to do now
-1. **Gather the person’s essential custody details for all communications.**
-   - Full legal name and prison number.
-   - The specific prison or Young Offender Institution (YOI) currently holding them.
-   - The exact release date and the type of release (e.g., Automatic Release, Home Detention Curfew / HDC, or Bail).
-2. **Contact the Prison Resettlement Team or the Community Probation Practitioner (CPP).**
-   - **Ask for the named Resettlement Lead or Housing Specialist.**
-   - **Request a status update on the Resettlement Passport** to see what housing actions are already recorded.
-   - **State clearly: "The individual is at immediate risk of homelessness upon release and requires a formal housing referral."**
-3. **Verify the formal referral process based on the nation of release.**
-   - **In England:** Confirm that a "Duty to Refer" (under the Homelessness Reduction Act 2017) has been sent to the local housing authority.
-   - **In Wales:** Check if an "Identify and Refer" notification has been made to the local council.
-   - **In Scotland/Northern Ireland:** Ensure the prison has helped the person make a formal homelessness application to the local authority or Housing Executive.
-4. **Enquire about specific Ministry of Justice (MoJ) transitional housing schemes.**
-   - **Ask about CAS-3 (Community Accommodation Service Tier 3),** which provides up to 90 days of temporary housing for those who would otherwise be homeless on release.
-   - **Ask about CAS-2** if the person is being released on Bail or Home Detention Curfew (HDC).
-5. **Screen for "Priority Need" indicators to mention to the council.**
-   - Note if the person has a physical disability, serious mental health condition, or is at risk of exploitation.
-   - Mention if the person is a care leaver (under 21) or is fleeing domestic abuse, as these often trigger mandatory emergency housing duties.
-6. **Confirm the financial discharge package available on the release day.**
-   - Ensure the person will receive the standard £76 discharge grant.
-   - **Ask the Governor for a discretionary payment (up to £50)** if it can secure a first night in a hostel or B&B.
-7. **Establish a "Gate Plan" for the first hour of release.**
-   - Confirm which gate they will exit from and at what time.
-   - Identify the single most important appointment they must attend (e.g., reporting to the Probation Office) and ensure they have a travel warrant or clear directions.
-   - Arrange a safe meeting point that is a public space if you cannot host them.
+1. **Confirm the basics (save a screenshot/message if you can):** release date/time, which prison, the person’s full name and prison number, and whether release is on **licence**, **bail**, or end-of-sentence (this affects supervision and address rules).
+2. **Ask for the right prison contact immediately:** request the prison’s **resettlement team / housing adviser / offender manager** (titles vary). Say clearly: “They have nowhere to go on release and need housing/homelessness action now.”
+3. **If they are in England: ask for a ‘Duty to Refer’ referral today (with consent):** prisons/probation can make a **duty to refer** notification to a local housing authority in England. Ask staff to:
+   - get the person’s consent, and
+   - send the referral to the housing authority the person chooses, and
+   - give you (and/or the person) a **confirmation** of where/when it was sent.
+4. **If they are in Scotland, Wales, or Northern Ireland:** ask the resettlement contact to make (or help the person make) an **urgent homelessness/housing-help approach to the local authority** for where the person will be on release. Don’t let anyone label it “informal only”—ask for the **named team/contact** and what was recorded.
+5. **Check whether an address must be approved:** if release is on licence or bail, ask: “Do they need an approved address to be released, or can they be released ‘no fixed abode’?” If an address is needed, ask what information probation/prison need from any proposed host (for example, who lives there, safeguarding/risk checks) and ask them to confirm requirements **in writing**.
+6. **Build a ‘first night’ plan that doesn’t depend on you housing them:** confirm the release gate/time, what they will have (phone, charger, travel money), and whether they can be released to a named person. If you can’t meet them, agree:
+   - one safe contact method (one phone number), and
+   - one safe public meet point (not your home).
+7. **Help them avoid immediate admin dead-ends:** ask what ID/discharge paperwork they will leave with, and whether the resettlement team can help them line up a contact route for benefits/appointments if they have **no fixed address** (for example, a service address via an arranged placement or support service).
 
 ## What can wait
-- You do not need to secure a permanent, long-term tenancy before the gate opens.
-- You do not need to provide furniture or household items today.
-- You do not need to resolve complex benefit claims (like Universal Credit) until the person has their discharge papers in hand on release day.
-- You do not need to commit to being a long-term carer or host while the situation is in the acute "crisis" phase of release.
+- You do **not** need to solve long-term housing today—your job is to get an **official referral/assessment started** and a **safe first night** plan.
+- You do **not** need to decide whether they can live with you right now.
+- You do **not** need every document immediately; start with release details and the correct contacts.
 
 ## Important reassurance
-The period immediately before and after release is often the most disorganized part of the process. It is normal to feel that communication from the prison is slow or that "nothing is happening." By demanding a formal referral and a "first night" plan, you are fulfilling the most critical stabilization steps. Many placements are only confirmed within the final 48 hours of custody.
+It’s common for release planning to feel abrupt and chaotic. You’re not failing if you can’t “fix” housing instantly—getting the right contacts involved and getting the situation formally recorded early can prevent the worst outcomes and buys time.
 
 ## Scope note
-This guide provides first-step stabilization for housing crises related to prison release. It does not cover legal appeals against licence conditions or long-term social housing applications.
+These are first steps for the first hours/days around release. Housing duties and release conditions differ across the UK nations and by individual circumstances, and later steps may need specialist help.
 
 ## Important note
-This information is for general guidance and is not legal or professional housing advice. Statutory duties vary significantly between England, Scotland, Wales, and Northern Ireland. Final housing decisions remain with the local authority and are subject to their specific assessment criteria and available stock.
+This is general information, not legal advice. Processes and terminology vary across the UK and by prison/probation region, and decisions may depend on risk assessments and release conditions. If you can’t confirm something with staff, use cautious language and focus on documented contacts, referrals, and a safe immediate plan.
 
 ## Additional Resources
+- https://www.gov.uk/government/publications/homelessness-duty-to-refer/a-guide-to-the-duty-to-refer
+- https://www.gov.uk/government/publications/homelessness-reduction-act-duty-to-refer-policy-framework
+- https://england.shelter.org.uk/professional_resources/legal/homelessness_applications/homelessness_duty_to_refer/homelessness_referrals_for_people_in_prison_and_on_probation
+- https://www.gov.uk/guidance/homelessness-code-of-guidance-for-local-authorities/chapter-4-the-duty-to-refer-cases-in-england-to-housing-authorities
 - https://england.shelter.org.uk/housing_advice/homelessness/help_if_youre_homeless_ex_prisoners
-- https://england.shelter.org.uk/professional_resources/legal/housing_options/housing_options_for_offenders_and_people_on_probation/local_authority_help_for_homeless_offenders_and_people_on_probation
-- https://www.gov.uk/leaving-prison/support-when-someone-leaves-prison
-- https://www.nacro.org.uk/nacro-services/our-work-in-criminal-justice/coming-out-of-prison/
-- https://www.nacro.org.uk/nacro-services/our-work-in-housing/homelessness-after-prison/
+- https://www.gov.uk/government/publications/universal-credit-and-prison-leavers/supporting-prison-leavers-a-guide-to-universal-credit

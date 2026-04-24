@@ -1,93 +1,83 @@
----
+﻿---
 title: "What to do if… you wake with puffy eyelids and notice new frothy urine"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "puffy eyelids on waking"
-  - "swollen eyelids morning"
-  - "foamy urine suddenly"
-  - "frothy urine new"
-  - "bubbles in urine persistent"
-  - "swelling around eyes and frothy urine"
-  - "face swelling overnight"
-  - "new facial swelling morning"
-  - "possible protein in urine"
-  - "pee looks like foam"
-  - "frothy urine after sleep"
-  - "eyelid edema"
-  - "sudden swelling and urine change"
-  - "kidney symptoms"
-  - "fluid retention signs"
-  - "swelling with urine changes"
-  - "new frothy urine today"
-  - "what do i do if my eyelids are puffy"
-  - "what do i do if my urine is frothy"
-  - "help i have swollen eyes and foamy pee"
-  - "help i have puffy face and bubbles in urine"
-  - "eyes look puffy and urine is bubbly"
-  - "swollen face and frothy pee at same time"
-  - "persistent bubbles in urine when waking"
-  - "sudden eyelid swelling morning"
-  - "woke up with puffy eyelids"
-  - "frothy urine when waking up"
-  - "newly bubbly urine"
-  - "puffy eyes kidney worry"
-  - "noticeable foam in toilet"
-last_reviewed: "2026-03-16"
+  - puffy eyelids on waking
+  - swollen eyelids morning
+  - foamy urine suddenly
+  - frothy wee new
+  - bubbles in urine persistent
+  - swelling around eyes and frothy urine
+  - face swelling overnight
+  - new facial swelling morning
+  - possible protein in urine
+  - pee looks like foam
+  - frothy urine after sleep
+  - eyelid edema
+  - sudden swelling and urine change
+  - kidney scare symptoms
+  - worried about kidneys
+  - fluid retention signs
+  - swelling with urine changes
+  - new frothy urine today
+last_reviewed: "2026-02-22"
 ---
+
 # What to do if… you wake with puffy eyelids and notice new frothy urine (UK)
 
 ## Short answer
-Contact your GP surgery immediately for a same-day urgent appointment or call NHS 111 for triage. These symptoms together require a physical assessment and a urine dipstick test today to check for protein and kidney function.
+Treat this as “needs same-day medical assessment”: contact **NHS 111 by phone (dial 111)** or your GP for an urgent appointment today. (NHS 111 online is for **England**; other UK nations have different official online routes.)
 
 ## Do not do these things
-- Do not wait several days to see if the symptoms resolve.
-- Do not take non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen or naproxen.
-- Do not use over-the-counter or "leftover" diuretics (water tablets).
-- Do not significantly increase or decrease your fluid or salt intake before being assessed.
-- Do not drive yourself to a hospital if you feel short of breath, dizzy, or severely unwell.
+- Do not ignore it for a few days “to see if it settles” if it’s new and unusual for you.
+- Do not take ibuprofen/naproxen (NSAIDs) “just in case” unless a clinician has told you it’s safe for you.
+- Do not start water tablets/diuretics (including “leftover” prescriptions) to reduce swelling.
+- Do not drastically increase or restrict fluids or salt in a panic — sudden changes can sometimes worsen swelling or blood pressure when kidneys are involved.
+- Do not drive yourself to A&E if you feel faint, very unwell, or short of breath—get help.
 
 ## What to do now
-1. **Check for immediate emergency "red flag" symptoms.** Call 999 if you experience any of the following:
-   - Difficulty breathing or a feeling of "air hunger"
-   - Swelling of the lips, tongue, or throat
-   - Chest pain or a racing heart
-   - Passing no urine at all for several hours
-2. **If you are pregnant or gave birth in the last 6 weeks, call your maternity unit or 999 immediately.** Sudden facial swelling and frothy urine (suggesting protein) are key signs of pre-eclampsia, which requires immediate hospital assessment.
-3. **Contact your primary care provider for an urgent same-day review.**
-   - Call your GP surgery and request an urgent "on-the-day" appointment for these new symptoms.
-   - If the surgery is closed, call 111 (England, Scotland, Wales). 
-   - In Northern Ireland, contact your GP or local Out-of-Hours service.
-   - Use 111.nhs.uk (England) or 111.wales.nhs.uk (Wales) only if you cannot use a phone.
-4. **Perform a brief check of other body areas for fluid retention.**
-   - Note if your ankles, feet, or hands look unusually swollen or "puffy."
-   - Check if rings or shoes feel tighter than they did yesterday.
-   - If you have a blood pressure monitor at home, take a reading and write it down.
-5. **Prepare information for the clinical triage or consultation.**
-   - Note the exact time you noticed the eye swelling and whether the urine foam is persistent (stays in the bowl) or disappears quickly.
-   - Mention any other symptoms like a recent sore throat, skin rash, or new back pain.
-   - Have a list of any new medications, supplements, or recent strenuous exercise ready.
-6. **Isolate the hazard by resting in a safe position.**
-   - If your eyelids are very swollen, rest with your head slightly elevated on extra pillows.
-   - Remove tight jewellery, such as rings or watches, in case swelling spreads to your limbs.
+1. **Check for “call 999 now” red flags.** Call 999 if you have any of these:
+   - trouble breathing, chest pain, blue/grey lips, confusion, or you’re too breathless to speak in full sentences  
+   - swelling of your lips/tongue/throat, wheezing, or widespread hives (possible severe allergic reaction)
+   - you are passing very little urine, or you feel severely unwell
+2. **If not a 999 emergency, get urgent advice today.**
+   - **Dial 111** and say: “I woke with puffy eyelids and I have new frothy urine.”
+   - If you’re in **England**, you can also use **NHS 111 online** if that’s easier.
+   - If you’re in **Scotland/Wales/Northern Ireland**, use your nation’s official urgent-care service (or dial **111**).
+3. **Do two quick, useful checks while you wait (no special kit needed).**
+   - **Look for swelling elsewhere:** ankles/feet, lower legs, fingers, belly. Note if rings/shoes feel tight.
+   - **Take your blood pressure if you can** (home cuff/pharmacy), and write it down with the time.
+4. **Collect key information to tell the clinician (it speeds up safe triage).**
+   - When it started, whether the frothiness is **persistent** vs one-off, any **blood/tea-coloured urine**, fever/sore throat in recent weeks, new rash or joint pain
+   - Any new meds (including antibiotics), supplements, or recent heavy exercise
+   - Past kidney issues, diabetes, high blood pressure, autoimmune disease, recent infections
+   - **If pregnant or recently gave birth:** say this immediately during triage (it changes urgency)
+5. **Ask specifically for the checks that usually matter with these symptoms.**
+   - Urine test for **protein** (and blood) and a blood test for **kidney function** and related markers, plus a **blood pressure** check.  
+   - If you’re offered routine-only tests and you feel worse or swelling is increasing, say clearly: “This is new and I’m worried about fluid retention.”
+6. **Choose the safest “holding pattern” until you’re assessed.**
+   - Drink normally (don’t force fluids), avoid alcohol, avoid high-salt foods for now, and rest.
+   - If swelling is significant, **sleep with your head slightly raised** and remove tight jewellery.
 
 ## What can wait
-- You do not need to diagnose the cause or research specific kidney conditions right now.
-- You do not need to start a "kidney detox" or any special dietary regime today.
-- You do not need to collect urine samples in your own containers until instructed by a clinician.
+- You do not need to decide what the cause is right now.
+- You do not need to start a special “kidney diet,” detox, or supplements today.
+- You do not need to collect multiple urine samples at home unless a clinician asks you to.
 
 ## Important reassurance
-It is common to feel concerned when noticing changes in your face and urine. These symptoms are clear markers that your body needs a medical check, but they do not provide a diagnosis on their own. Seeking professional assessment today is the most effective way to address the situation safely.
+It’s understandable to panic—eye swelling plus frothy urine feels alarming. Many causes are treatable, but the safest move is to get checked promptly so serious causes aren’t missed and you don’t accidentally make things worse with the wrong self-treatment.
 
 ## Scope note
-This guide is for first-step stabilization and triage only. It does not replace clinical diagnosis or long-term management of renal or hypertensive conditions.
+This is first steps only: getting you safely assessed and preventing common mistakes. If tests suggest a kidney or blood pressure issue, follow-up may involve your GP and possibly a renal specialist.
 
 ## Important note
-This information is for general guidance and does not constitute medical advice. If you are pregnant, have a history of kidney disease, or feel your condition is worsening rapidly, seek emergency medical care immediately.
+This guide is general information, not a diagnosis. If you feel rapidly worse, develop breathing problems, chest pain, severe allergic-type swelling, or you’re pregnant/recently postpartum and unwell, seek emergency care.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/glomerulonephritis/
-- https://kidneycareuk.org/kidney-disease-information/about-kidney-health/10-signs-you-may-have-kidney-disease/
-- https://111.wales.nhs.uk/glomerulonephritis/?locale=en
-- https://kidneycareuk.org/kidney-disease-information/kidney-conditions/lupus-nephritis/
-- https://www.nhsinform.scot/illnesses-and-conditions/kidneys-bladder-and-prostate/chronic-kidney-disease/
+- https://www.nhs.uk/conditions/angioedema/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
+- https://111.nhs.uk/
+- https://www.nhsinform.scot/illnesses-and-conditions/skin/rashes-irritation-and-swelling/angioedema/
+- https://111.wales.nhs.uk/

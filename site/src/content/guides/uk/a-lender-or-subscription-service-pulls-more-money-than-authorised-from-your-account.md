@@ -1,103 +1,93 @@
----
+﻿---
 title: "What to do if… a lender or subscription service pulls more money than authorised from your account"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "lender took too much money"
-  - "subscription took extra money"
-  - "recurring payment wrong amount"
-  - "direct debit wrong amount"
-  - "direct debit taken twice"
-  - "recurring card payment problem"
-  - "continuous payment authority problem"
-  - "card keeps taking payments"
-  - "payment taken after cancelling"
-  - "autopay overcharged"
-  - "unexpected bank withdrawal"
-  - "unauthorised payment from account"
-  - "loan repayment wrong amount"
-  - "subscription billing error"
-  - "recurring debit you did not expect"
-  - "payment taken on wrong date"
-  - "merchant took more than agreed"
-  - "overdrawn after subscription charge"
-  - "bank fees after overcharge"
-  - "recurring payment still active"
-  - "help i have been overcharged"
-  - "what do i do if a company took my money"
-  - "my bank account has an unexpected charge"
-  - "what do i do if a lender overcharged me"
-  - "help i cannot stop a payment"
-  - "my subscription took too much"
-  - "duplicate direct debit charge"
-  - "unauthorised cpa payment"
-  - "money gone from bank account"
-  - "bank overcharge help"
-last_reviewed: "2026-03-17"
+  - lender took too much money
+  - subscription took extra money
+  - recurring payment wrong amount
+  - direct debit wrong amount
+  - direct debit taken twice
+  - recurring card payment problem
+  - continuous payment authority problem
+  - card keeps taking payments
+  - payment taken after cancelling
+  - autopay overcharged
+  - unexpected bank withdrawal
+  - unauthorised payment from account
+  - loan repayment wrong amount
+  - subscription billing error
+  - recurring debit you did not expect
+  - payment taken on wrong date
+  - merchant took more than agreed
+  - overdrawn after subscription charge
+  - bank fees after overcharge
+  - recurring payment still active
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… a lender or subscription service pulls more money than authorised from your account (UK)
 
 ## Short answer
-Isolate the payment authority immediately by instructing your bank to withdraw consent for future pulls, then claim a refund under the Direct Debit Guarantee or the "unauthorised transaction" rules for card payments. Under FCA regulations, your bank must stop a recurring card payment (CPA) if you tell them to.
+Stop any further pulls through your bank first (cancel the Direct Debit or cancel the recurring card payment/continuous payment authority). Then get the refund process started: Direct Debits can usually be refunded immediately via your bank; card/CPA payments are typically handled via your card dispute process.
 
 ## Do not do these things
-- Do not spend hours arguing with the merchant's customer service before talking to your bank; your bank has the regulatory power to reverse the transaction.
-- Do not close your bank account or cancel your card as a first step unless you suspect a total security breach; this can block legitimate refunds.
-- Do not accept a bank's claim that "only the merchant can stop the payment"; they are legally required to stop a Continuous Payment Authority (CPA) upon your request.
-- Do not delete the original confirmation email or contract that shows the agreed amount or the cancellation date.
-- Do not ignore your bank balance; if the pull caused an overdraft, you need to notify the bank immediately to prevent escalating fees.
-- Do not provide your PIN, password, or an SMS "security code" to anyone claiming to be the merchant calling to "process your refund."
+- Do not assume you have to deal with the company first. Your bank can usually stop repeats, and may be able to refund (or start the dispute) right away.
+- Do not cancel your card or close your account as your first move if you can avoid it. It can make refunds and essential payments harder to manage.
+- Do not accept “we can’t stop it” from your bank. Be clear you are withdrawing consent/cancelling the payment authority and want it stopped.
+- Do not get drawn into long arguments about blame right now. Your priority is stopping repeats and getting the money back process moving.
+- Do not ignore knock-on costs (overdraft fees, missed bills). Raise these with your bank once the payment is logged as wrong/unauthorised.
+- If you suspect your card/account details are compromised beyond this one company, do not keep using the same passwords or leave your card active—freeze the card in-app and change your banking password.
 
 ## What to do now
-1. **Identify the exact payment type by checking the transaction details in your banking app.**
-   - Look for specific codes or labels next to the merchant name.
-   - "DD" or "Direct Debit" indicates a Direct Debit instruction.
-   - "VISA", "MASTERCARD", or a 16-digit card reference indicates a recurring card payment / Continuous Payment Authority (CPA).
-   - Screenshot the transaction and the "payment details" screen as evidence of the amount and date.
+1. **Identify what type of payment it was (this changes the fastest fix).**
+   - In your banking app/statement, look for wording like **Direct Debit**, **card payment**, **recurring card payment**, or **continuous payment authority**.
+   - Screenshot the entry and note: merchant name, date/time, amount, and any reference.
 
-2. **Cancel the payment authority immediately via your banking app or telephone banking.**
-   - **For Direct Debits:** select "Cancel Direct Debit" in your app or tell the bank to "cancel the mandate."
-   - **For Card/CPA:** explicitly tell the card issuer (bank) you are **withdrawing consent** for this merchant to take any further money. 
-   - Ensure this is done by the end of the business day before the next payment is due to ensure it is blocked.
+2. **Stop further payments using the right control for that payment type.**
+   - **If it was a Direct Debit:** cancel the Direct Debit with your bank (app/phone/branch).
+   - **If it was a recurring card payment / continuous payment authority (CPA):** tell your card issuer (your bank/building society/credit card company) you are **withdrawing consent** and you want **all future payments to this merchant stopped**.
+   - If the next payment is due very soon, contact the card issuer **as early as possible** (ideally no later than the end of the business day before it is due). Still cancel even if a payment has already gone through—this is about preventing repeats.
 
-3. **Request a formal refund using the specific terminology that triggers your legal protections.**
-   - **If Direct Debit:** ask for an "Immediate refund under the Direct Debit Guarantee" because the amount or date was incorrect.
-   - **If Card/CPA:** tell the bank the payment was "Unauthorised" because you had previously cancelled or it exceeded the agreed amount, and ask to start a "Chargeback" or "Unauthorised transaction claim."
+3. **Start the refund route with your bank (use the wording that triggers the right process).**
+   - **Direct Debit:** ask for a refund under the **Direct Debit Guarantee** (e.g., wrong amount, wrong date, duplicate, or not authorised).
+   - **Card / CPA:** say: “I withdrew consent/cancelled. This payment was for the wrong amount / not authorised. Please open a card dispute (chargeback or equivalent) and confirm the authority is cancelled.”
 
-4. **Notify the company in writing that you have revoked their payment authority.**
-   - Send a clear email stating: "I have withdrawn consent for any further payments from my account [Account/Card ending in XXXX]. I am disputing the payment taken on [Date] for [Amount]."
-   - Keep a copy of the sent email and any automated "ticket" response.
+4. **Tell the company in writing so it can’t be quietly restarted.**
+   - Send a short email/message: “You took £X on DATE but I authorised £Y / I cancelled on DATE. Do not take any further payments. Please confirm the account/subscription status and refund steps.”
+   - Save the sent message and any case/ticket number.
 
-5. **Protect your credit file if the payment was for a loan or regulated debt.**
-   - Contact the lender's "payment difficulties" or "collections" team in writing.
-   - Explain that the payment authority was cancelled due to an incorrect collection and ask them to confirm in writing that your account will not be marked as "defaulted" or "missed" while the error is corrected.
+5. **If this was a lender and you still owe money, prevent accidental default while you’ve stopped the pull.**
+   - Ask the lender (in writing) what the **correct** next payment amount/date is and how to pay **manually** while the automatic payment is paused.
+   - Ask them to correct any internal notes if the over-collection caused you to cancel the payment authority.
 
-6. **Request a waiver for any knock-on bank charges or interest.**
-   - If the over-collection caused you to go overdrawn or missed another essential bill (like rent), tell your bank this was a "consequential loss" from an unauthorised or incorrect payment.
-   - Ask them to "reverse all associated fees and interest" immediately while the refund is processed.
+6. **Stabilise the next 48 hours of money movement.**
+   - Turn on bank alerts (low balance/transactions) so you see any repeat attempt immediately.
+   - If the over-collection pushed you overdrawn or will bounce essentials (rent, utilities), contact your bank and ask them to **waive/reverse charges** linked to the wrong/unauthorised payment while it’s being resolved.
 
-7. **Escalate to a formal complaint if the bank refuses to refund or stop the payments.**
-   - Submit a "Formal Complaint" to the bank; they have **15 business days** to provide a final response for payment service issues.
-   - If the response is unsatisfactory, or the deadline passes, take the case to the **Financial Ombudsman Service** (FOS), which can award up to £445,000 for complaints brought after April 2026.
+7. **If your bank won’t resolve it, escalate cleanly.**
+   - Make a **formal complaint** to the bank the same day (short timeline + screenshots).
+   - If you receive a final response you disagree with, or they don’t respond within the relevant complaint timescales for your issue, you can escalate to the **Financial Ombudsman Service**.
 
 ## What can wait
-- Negotiating the future of your contract or subscription beyond the immediate payment dispute.
-- Seeking "hassle" compensation or "distress and inconvenience" payments; focus on the principal sum and fees first.
-- Switching your entire banking relationship to a new provider.
-- Investigating the company's internal software errors or administrative reasons for the mistake.
+- Deciding whether to keep or cancel the underlying contract beyond stopping the payment mechanism.
+- Switching banks, changing card numbers, or redoing every payment setup.
+- Writing a long complaint narrative. A short timeline and evidence is enough right now.
+- Negotiating compensation beyond: getting the money back, stopping repeats, and undoing fees.
 
 ## Important reassurance
-Administrative overlaps, system "glitches," and human errors in billing departments are frequent and usually reversible. Revoking a payment authority is a right protected by UK law, and your bank is the primary enforcer of that right, regardless of what a merchant's contract might say about "cancellation periods."
+This is a common mess-up: duplicate pulls, wrong amounts, price changes applied wrongly, or a payment authority that kept running after cancellation. You don’t need to solve the whole dispute today—stopping repeats and starting the refund/dispute is the stabilising step.
 
 ## Scope note
-This guide covers immediate financial stabilization and recovery of unauthorised funds. It does not resolve the underlying contract terms or legal liability for the debt itself, which may require advice from Citizens Advice or a solicitor if the merchant continues to pursue the balance.
+These are first steps only. The longer dispute (what you owe, cancellation terms, any credit-file impact) can be handled after your account is stable, and may need specialist help if the company won’t cooperate.
 
 ## Important note
-This guide is for general information and does not constitute legal or financial advice. If the over-collection has left you without money for food or essentials, inform your bank of your "vulnerable status" and contact a local food bank or StepChange for immediate hardship support.
+This guide is general information, not legal or financial advice. If you’re at risk of missing essentials because of the over-collection, prioritise basic living costs and contact your bank promptly to explain you’re dealing with an unauthorised or incorrect collection and need support to prevent knock-on harm.
 
 ## Additional Resources
 - https://www.directdebit.co.uk/direct-debit-guarantee/
-- https://www.directdebit.co.uk/help/issues-with-a-direct-debit/
 - https://www.fca.org.uk/consumers/recurring-card-payments
-- https://www.moneyhelper.org.uk/en/everyday-money/banking/how-to-sort-a-problem-with-a-payment
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/regular-payments
+- https://www.citizensadvice.org.uk/debt-and-money/banking/stopping-a-future-payment-on-your-debit-or-credit-card/
+- https://www.financial-ombudsman.org.uk/consumers/how-to-complain
+- https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
+- https://www.fca.org.uk/news/press-releases/fca-reminds-banks-their-obligations-when-cancelling-continuous-payment

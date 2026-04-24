@@ -1,113 +1,95 @@
----
+﻿---
 title: "What to do if… you discover a post advertising sexual services using your photos or contact details"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "escort ad using my photos"
-  - "ad selling sex with my phone number"
-  - "fake escort profile"
-  - "impersonation sexual services post"
-  - "someone posted my pictures online"
-  - "doxxed on adult website"
-  - "my contact info on porn site"
-  - "fake dating profile with my photos"
-  - "strangers texting me for sex"
-  - "my number leaked online"
-  - "fake adult services listing"
-  - "sexual harassment online"
-  - "nonconsensual intimate images"
-  - "revenge porn post"
-  - "deepfake porn of me"
-  - "sextortion demand"
-  - "threatened with explicit photo release"
-  - "adult content posted without consent"
-  - "unwanted sexual messages"
-  - "scam using my photos"
-  - "illegal use of my photos"
-  - "my pictures on a sex site"
-  - "someone using my number for sex ads"
-  - "advertising sexual services with my face"
-  - "help i found my photos on an escort site"
-  - "what do i do if someone posted my number on porn site"
-  - "what do i do if my photos are in a sex ad"
-  - "what do i do if i am being impersonated for sex"
-  - "what do i do if i see my face on a fake profile"
-  - "my identity used for sexual ads"
-  - "fake profile on adult site"
-  - "contact details leaked in sex post"
-  - "harassment by sexual impersonation"
-  - "sexual ad fraud"
-  - "stolen photos on escort page"
-last_reviewed: "2026-03-17"
+  - escort ad using my photos
+  - ad selling sex with my phone number
+  - fake escort profile
+  - impersonation sexual services post
+  - someone posted my pictures online
+  - doxxed on adult website
+  - my contact info on porn site
+  - fake dating profile with my photos
+  - strangers texting me for sex
+  - my number leaked online
+  - fake adult services listing
+  - sexual harassment online
+  - nonconsensual intimate images
+  - revenge porn post
+  - deepfake porn of me
+  - sextortion demand
+  - threatened with explicit photo release
+  - adult content posted without consent
+  - unwanted sexual messages
+  - scam using my photos
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you discover a post advertising sexual services using your photos or contact details (USA)
 
 ## Short answer
-Get to a private location, **document the post with screenshots and URLs, and file immediate takedown reports** with the hosting platform without responding to the poster or strangers.
+Get to a calmer, private moment, then **save proof (screenshots/links) and file takedown reports immediately**—without engaging with the person behind it.
 
 ## Do not do these things
-- Don’t respond to, negotiate with, or pay the person who posted the content.
-- Don’t reply to strangers who contact you through the post; block them immediately.
-- Don’t click on links, "verification" buttons, or ads within the adult website.
-- Don’t delete the original evidence (messages or the post) before you have captured your own copies.
-- Don’t publicly post about the incident on your social media, as this can increase traffic to the harmful content.
+- Don’t pay, send gift cards, or comply with demands (payment often leads to more demands).
+- Don’t “negotiate” with the poster; **block/silence/report** instead. (If you must send one message to a stranger contacting you, keep it brief: “Wrong number. Do not contact me again.” Then block.)
+- Don’t publicly “call them out” from your main accounts (it can spread the content further).
+- Don’t click ads, “verification” links, or chat buttons on the page—use the platform’s report/abuse route and copy/paste the URL instead.
+- Don’t delete everything before you’ve captured basic proof (screenshots/URLs/messages).
 
 ## What to do now
-1. **Ensure your immediate physical safety and isolate yourself from incoming messages.**
-   - Silence unknown callers in your phone settings to stop the influx of calls and texts.
-   - If the post contains your home or work address and you feel a threat of physical violence, call 911 immediately.
+1. **Create a safer pause and reduce incoming stress.**  
+   Silence unknown callers/texts and take 5–10 minutes to breathe. If you believe someone may come to your home/work or you’re in immediate danger, call **911**.
 
-2. **Capture objective evidence of the post and any related messages.**  
-   - Take screenshots that show the URL, the date, the specific photos or contact details used, and the account name of the poster.
-   - Save the direct links to the profiles or individual posts.
-   - If a website prevents screenshots, use a separate camera to take a clear photo of the screen.
+2. **Capture the minimum proof you need (2–5 minutes).**  
+   Screenshot the post/profile (including username), your photos/contact details shown, the date/time, and any threatening messages. Copy/paste URLs.  
+   *If screenshots are blocked, take a photo of the screen with another device.*
 
-3. **Submit a formal takedown request directly to the website or platform hosting the content.**  
-   - Use the site's "Report," "Abuse," or "Impersonation" tools.
-   - Specifically flag content as "Non-Consensual Intimate Imagery" (NCII) or "Harassment" if those categories are available.
-   - Keep a record of the report confirmation numbers and the date you submitted them.
+3. **Report to the platform/website hosting it (do this first).**  
+   File reports for **impersonation**, **harassment**, and **sharing personal information**. If the site has a “nonconsensual intimate imagery” (NCII) route and it applies, use that. Save confirmation emails or ticket numbers.
 
-4. **Utilize the protections of the TAKE IT DOWN Act if the content is sexually explicit.**
-   - As of May 19, 2026, covered platforms are federally mandated to remove verified NCII (including AI-generated deepfakes) within 48 hours of a valid request.
-   - If a platform fails to remove explicit content within 48 hours after your report, document this delay for federal reporting.
+4. **If the content is nonconsensual intimate imagery (real or AI-generated), use the federal removal framework—without assuming it’s instantaneous.**  
+   The **TAKE IT DOWN Act** requires covered platforms to have a notice-and-removal process by **May 19, 2026**, and then remove covered NCII within **48 hours** of receiving a valid notice (with FTC enforcement).  
+   Right now, use the platform’s existing NCII reporting/removal tools and keep your paper trail (dates, ticket numbers, replies).
 
-5. **Report the incident to the Federal Trade Commission (FTC).**
-   - File a report at ReportFraud.ftc.gov or via their specific NDII (Nonconsensual Distribution of Intimate Images) portal.
-   - This creates a federal record that can be used for enforcement against platforms that do not comply with removal laws.
+5. **Report it to the FTC (especially if platforms ignore you or the harm is ongoing).**  
+   The FTC collects reports about nonconsensual distribution of intimate images. Save your report confirmation.
 
-6. **File a report with the FBI Internet Crime Complaint Center (IC3) if there is extortion or blackmail.**
-   - Visit ic3.gov to report the use of your identity for sexual services, especially if you are being threatened with the release of more images.
-   - Provide all saved URLs, usernames, and phone numbers involved.
+6. **If there are threats, blackmail, or repeated targeting, file a report with IC3 (FBI).**  
+   Include links, usernames, phone numbers used to contact you, demand details (if any), and screenshots.
 
-7. **Contact the National Center for Missing & Exploited Children (NCMEC) if the images depict a minor.**
-   - If the images are of you but were taken when you were under 18, or if the images depict any other minor, report it immediately to the CyberTipline at report.cybertip.org.
-   - Do not share or download the images further once you have reported them.
+7. **If anyone in the images is under 18 (or you were under 18 in the images), report it as child exploitation immediately.**  
+   Do not share the images further. Report to **NCMEC CyberTipline** and to law enforcement (911 if urgent).
 
-8. **Adjust your personal communication settings to prevent further harassment.**
-   - Enable "Silence Unknown Callers" (iOS) or "Block Unknown Numbers" (Android).
-   - Set social media profiles to private and restrict who can send you direct messages.
-   - Contact your mobile service provider to inquire about advanced spam filtering or a temporary number change if the volume of calls is unmanageable.
+8. **Lock down how people can reach you for the next 24 hours.**  
+   - Turn on “Silence Unknown Callers” / spam filtering.  
+   - Tighten who can message you on social apps and who can see your phone/email.  
+   - If your number is being overwhelmed, talk to your carrier about blocking tools or a number change—*but only after you’ve saved proof and filed key reports.*
 
-9. **Reach out for confidential, specialized support.**
-   - Contact the RAINN National Sexual Assault Hotline at 800-656-HOPE for help navigating the emotional impact and to discuss your options with a trained professional.
+9. **Get human support right now.**  
+   If you feel shaken, ashamed, or unsafe, contact **RAINN** for confidential support and help thinking through options—without pressure to report.
 
 ## What can wait
-- You do not need to decide whether to hire a lawyer or pursue a civil lawsuit today.
-- You do not need to clear your name or explain the situation to your broader social circle right now.
-- You do not need to identify the person who created the post before taking action to get it removed.
+- You do **not** have to decide today whether to press charges, sue, or “clear your name” publicly.
+- You do **not** have to respond to every message or try to convince strangers.
+- You do **not** have to hunt down every copy right now—start with proof + reports + support.
 
 ## Important reassurance
-Finding your identity used in this way is a profound violation and it is normal to feel overwhelmed, angry, or panicked. These reactions are standard responses to a digital assault. Focus only on the immediate steps of documenting, reporting, and securing your devices; you do not have to solve the entire situation in one hour.
+This is violating and destabilizing. Panic, freezing, anger, or numbness are normal body responses. For the next hour, the goal is simple: protect yourself, document, report, and get support.
 
 ## Scope note
-This guide provides first-step stabilization and harm reduction. It does not cover long-term legal strategies, state-specific criminal prosecution, or comprehensive reputation management.
+These are first steps only—focused on immediate harm reduction and getting content removed. Longer-term steps may involve legal advice, workplace/safety planning, and ongoing platform follow-up.
 
 ## Important note
-This information is for guidance only and does not constitute legal advice. If you believe you are in immediate physical danger, contact local law enforcement or 911.
+This is general information, not legal advice. If you are in immediate danger, call 911.
 
 ## Additional Resources
-- https://consumer.ftc.gov/identity-theft-and-online-security/identity-theft
-- https://www.justice.gov/criminal/criminal-fraud/report-fraud
-- https://www.ic3.gov/PSA/2023/psa230605
-- https://cybercivilrights.org/ccri-safety-center/
-- https://reportfraud.ftc.gov/
+- https://www.ftc.gov/legal-library/browse/statutes/tools-address-known-exploitation-immobilizing-technological-deepfakes-websites-networks-act-take-it
+- https://consumer.ftc.gov/articles/nonconsensual-distribution-intimate-images
+- https://www.ic3.gov/
+- https://complaint.ic3.gov/
+- https://www.missingkids.org/gethelpnow/cybertipline
+- https://report.cybertip.org/
+- https://rainn.org/federal-legislation/take-it-down-act/
+- https://rainn.org/what-counts-as-sexual-violence/get-the-facts-about-tech-enabled-sexual-abuse/

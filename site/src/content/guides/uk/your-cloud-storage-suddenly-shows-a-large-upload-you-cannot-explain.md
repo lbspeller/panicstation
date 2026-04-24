@@ -1,100 +1,101 @@
----
+﻿---
 title: "What to do if… your cloud storage suddenly shows a large upload you cannot explain"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "unexpected proxy"
-  - "proxy server suddenly enabled"
-  - "computer using unknown proxy"
-  - "web traffic routed through proxy"
-  - "browser redirect through proxy"
-  - "system proxy settings changed"
-  - "windows proxy turned on"
-  - "mac proxy settings changed"
-  - "vpn i did not install"
-  - "unknown network configuration"
-  - "possible malware proxy"
-  - "suspicious internet connection"
-  - "device may be managed"
-  - "proxy auto configuration pac file"
-  - "automatic proxy setup enabled"
-  - "setup script i dont recognise"
-  - "credentials at risk online"
-  - "sign-ins from new device"
-  - "public wi-fi tampering concern"
-  - "work laptop proxy enforced"
-  - "my computer is using a proxy"
-  - "help i have a proxy i did not set"
-  - "what do i do if my proxy is on"
-  - "what do i do if i see a pac file"
-  - "help my internet is being routed"
-  - "what do i do if my web traffic is redirected"
-  - "smell of burning computer"
-  - "visible pop ups on screen"
-  - "slow internet connection"
-  - "unusual browser behavior"
-  - "proxy script found"
-  - "unknown port used"
-  - "malware symptoms computer"
-  - "unauthorized proxy server"
-last_reviewed: "2026-03-17"
+  - unexplained cloud upload
+  - sudden large upload
+  - cloud storage hacked
+  - cloud account compromise
+  - unexpected sync activity
+  - unknown device signed in
+  - suspicious account activity
+  - possible ransomware sync
+  - files uploaded without you
+  - shared folder changed
+  - connected app access
+  - revoke third party access
+  - sign out of all sessions
+  - change cloud password now
+  - enable two step verification
+  - storage usage spike
+  - unexpected data transfer
+  - cloud audit log check
+  - backup app gone wrong
+  - malware on computer upload
+  - stolen credentials cloud
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your cloud storage suddenly shows a large upload you cannot explain (UK)
 
 ## Short answer
-Disconnect the device from all networks immediately and disable any unauthorised proxy settings or automatic configuration scripts before accessing any personal accounts.
+Pause syncing and secure the account first: sign out other sessions, change your password, and enable 2-step verification so any unauthorised access can’t continue.
 
 ## Do not do these things
-- Do not continue browsing or logging into sensitive accounts like banking, email, or government services.
-- Do not download or install "cleanup" software from pop-up advertisements or unknown websites.
-- Do not attempt to modify settings on a device owned by an employer or school without contacting their IT department first.
-- Do not format or wipe the device yet if you need to preserve evidence for a crime report or insurance claim.
-- Do not ignore the setting if it reappears after you have disabled it.
+- Don’t start deleting lots of files “to fix it” until you’ve secured the account and captured what you’re seeing (you may erase clues you need).
+- Don’t keep your cloud app syncing while you investigate (it can keep uploading or propagating bad changes).
+- Don’t click “security alert” links from emails/texts about this—go directly to the cloud provider’s official site/app.
+- Don’t reuse an old password or a password you’ve used elsewhere.
+- Don’t wipe/reset devices immediately if you suspect malware—stabilise first and note what happened.
 
 ## What to do now
-1. **Disconnect the device from the internet immediately.**  
-   Disable Wi-Fi and unplug any Ethernet cables to stop data from being routed through the unauthorised proxy.
+1. **Freeze the situation (stop further uploads).**  
+   Pause syncing or quit the cloud app on every device that uses that cloud service. If you can’t find a pause option, disconnect that device from the internet (Wi-Fi off / unplug ethernet) while you secure the account.
 
-2. **Verify if the device is professionally managed.**  
-   If the computer belongs to an employer or educational institution, stop all changes and contact their IT helpdesk. Inform them that an unexpected proxy or PAC script has been enabled on a managed device.
+2. **Sign in the safe way (avoid phishing).**  
+   Open the provider’s official app you already have installed, or type the known address yourself. Avoid following links from messages.
 
-3. **Disable "Automatic proxy setup" or "PAC" scripts on Windows.**  
-   Open **Settings**, navigate to **Network & internet**, and select **Proxy**. Ensure the toggle for **Use setup script** is set to **Off** and delete any address in the **Script address** field.
+3. **Force everyone else out.**  
+   In the account security settings, use “sign out of all devices/sessions” (or equivalent). This helps break an attacker’s access immediately.
 
-4. **Disable "Automatic proxy configuration" on macOS.**  
-   Open **System Settings**, select **Network**, and click on your active connection (e.g., Wi-Fi). Click **Details**, then **Proxies**, and ensure **Automatic Proxy Configuration** and **Auto Proxy Discovery** are toggled **Off**.
+4. **Change the password and lock it down.**  
+   Set a strong, unique password. Then **turn on 2-step verification (2SV)** for the cloud account and (if possible) for the email account that controls password resets.
 
-5. **Check for and disable manual proxy server entries.**  
-   In the same Windows or macOS proxy menus, ensure any **Manual proxy setup** or **Web Proxy (HTTP / HTTPS)** toggles are **Off**. If an address was present, take a photo or screenshot of the details before removing it.
+5. **Check and correct account recovery controls (so they can’t get back in).**  
+   In security/account settings, check:
+   - recovery email/phone number (remove anything you don’t recognise)
+   - backup codes (generate/save new ones if offered)
+   - security questions (if used) and notification/alert settings
+   - trusted devices / “remembered browsers” (remove unknown ones)
 
-6. **Secure your primary accounts from a separate, trusted device.**  
-   Use a different computer or a mobile phone on a separate network (such as 5G) to change your email password and enable two-step verification (2FA). Review and terminate any active sessions or "recognised devices" in your account security settings.
+6. **Check for the simplest non-attack explanations (quickly).**  
+   In the cloud service:
+   - Review **recent activity / device list / sign-in history** for unfamiliar devices, locations, or times.
+   - Review **connected apps** (third-party access): revoke anything you don’t recognise.
+   - Review **shared folders / shared links**: remove unknown collaborators, disable public links you didn’t create.
+   - Check whether a **backup feature** (photos, desktop backup, scan-to-cloud) was enabled and is uploading a backlog.
 
-7. **Report the suspicious script or URL to the NCSC.**  
-   If you recorded a specific URL or script address from the proxy settings, forward it to the National Cyber Security Centre at **report@phishing.gov.uk**.
+7. **Capture a minimal record (30–60 seconds).**  
+   Take screenshots of the activity page showing the upload size/time, unknown devices, and any changed security/recovery settings. Note the date/time.
 
-8. **Report the incident to the appropriate UK authority.**  
-   - **England, Wales, and Northern Ireland:** Contact **Report Fraud** at **reportfraud.police.uk** or call **0300 123 2040**.
-   - **Scotland:** Contact **Police Scotland** by calling **101** or using their online reporting form.
-   - If a cyber attack is currently in progress against an organisation, use the urgent 24/7 reporting line provided by Report Fraud.
+8. **Check the device most likely to be uploading.**  
+   On computers that sync to the cloud: run an up-to-date malware scan, update the operating system and the cloud app, and reboot. If it’s a work-managed device/account, stop and follow your organisation’s IT/security incident process.
+
+9. **If you suspect fraud, data theft, or you’ve lost money, use the right reporting route.**  
+   - **If the crime is happening now, or you’re in immediate danger, call 999.**
+   - **England, Wales, or Northern Ireland:** report cyber crime/fraud via **Report Fraud (Action Fraud)**.
+   - **Scotland (or the incident happened there):** report to **Police Scotland** (typically via 101 for non-emergency, or online reporting).
+   - If there’s financial loss risk, contact your bank/card provider promptly to flag suspected fraud and protect accounts.
 
 ## What can wait
-- You do not need to identify the specific source of the malware or the identity of the person who set the proxy immediately.
-- You do not need to perform a full factory reset of the operating system until you have secured your accounts and consulted with professional IT support.
-- You do not need to notify every minor online service today; focus only on email, banking, and identity-linked accounts.
+- You do **not** need to decide today whether to permanently delete anything or reorganise the account.
+- You do **not** need to reinstall/wipe devices immediately unless you have clear signs of infection and you’ve first secured accounts and noted key details.
+- You do **not** need to contact everyone right now unless you confirm your account shared files/links or sent messages to others.
 
 ## Important reassurance
-Discovering an unauthorised proxy is a sign of a potential security breach, but disconnecting the device stops the immediate risk of further data interception. By following these steps to isolate the machine and secure your accounts from a clean device, you significantly limit the potential for financial or identity loss.
+Unexplained uploads are scary, but they’re often caused by legitimate backup/sync settings, a second device you forgot about, or an app connection you didn’t realise had access. Securing the account and pausing sync is the right first move either way.
 
 ## Scope note
-This guide provides first-step stabilisation for a specific technical anomaly. If proxy settings revert automatically after being disabled, or if you find evidence of unauthorised account access, specialist technical assistance will be required.
+These are first steps to stabilise and prevent more damage. If you confirm unauthorised access, later steps may include deeper device checks, reviewing what data was exposed, and provider-led recovery.
 
 ## Important note
-This information is for general guidance and does not constitute professional cybersecurity or legal advice. If you are using a device provided by an organisation, their internal security protocols and reporting requirements take precedence over these steps.
+This is general information, not legal, financial, or professional security advice. If work systems or sensitive personal data are involved, use official provider support channels and your organisation’s incident process.
 
 ## Additional Resources
-- https://support.google.com/accounts/answer/140921?hl=en
-- https://support.google.com/photos/answer/10100180?hl=en-GB
-- https://support.apple.com/en-gb/102560
-- https://support.microsoft.com/en-gb/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15
-- https://www.ncsc.gov.uk/section/respond-recover/sole-hacked-accounts
+- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.scotland.police.uk/advice/internet-safety/cybercrime/
+- https://www.gov.uk/report-suspicious-emails-websites-phishing

@@ -1,102 +1,83 @@
----
+﻿---
 title: "What to do if… your files suddenly change names or extensions and you do not know why"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "bios password prompt"
-  - "uefi password prompt"
-  - "firmware password unknown"
-  - "startup password appeared"
-  - "power-on password suddenly"
-  - "admin password at boot"
-  - "supervisor password unknown"
-  - "hdd password prompt"
-  - "ssd password prompt"
-  - "laptop asks for password before windows"
-  - "stuck at bios password screen"
-  - "can-t enter bios setup"
-  - "locked out of boot menu"
-  - "after bios update password request"
-  - "after repair password request"
-  - "second-hand laptop password locked"
-  - "ex-work laptop password"
-  - "school laptop bios lock"
-  - "bitlocker recovery risk"
-  - "laptop password help"
-  - "what do i do if my laptop is locked"
-  - "what do i do if bios asks for password"
-  - "help i forgot my bios password"
-  - "help i bought a locked laptop"
-  - "system password error code"
-  - "forgotten supervisor password"
-  - "locked uefi settings"
-  - "blue box password prompt"
-  - "enter administrator password"
-  - "service tag password recovery"
-  - "consumer rights faulty laptop"
-  - "second hand laptop refund"
-  - "locked laptop return rights"
-last_reviewed: "2026-03-17"
+  - files renamed suddenly
+  - file extensions changed
+  - strange file extensions
+  - files look encrypted
+  - folders renamed
+  - random file names
+  - files have .locked extension
+  - files have .encrypted extension
+  - ransom note on computer
+  - possible ransomware
+  - possible malware infection
+  - cloud sync went wrong
+  - shared drive files changed
+  - external drive affected
+  - photos documents unreadable
+  - can't open my files
+  - windows files changed names
+  - mac files changed extensions
+  - happened all at once
+  - i don't know what changed them
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your files suddenly change names or extensions and you do not know why (UK)
 
+# What to do if… your files suddenly change names or extensions and you do not know why (UK)
 ## Short answer
-Cease all password attempts to avoid a permanent hardware lockout. Verify the lock type, secure your data if the operating system is still accessible, and seek an official resolution through your IT department, the manufacturer, or the retailer.
+Treat this as a possible ransomware/malware incident until proven otherwise: **disconnect the affected device from the internet and any shared drives immediately**, then **pause any cloud sync** before you do anything else.
 
 ## Do not do these things
-- Do not enter multiple random password guesses, as many modern systems impose a permanent lockout or "halt" after 3 to 5 failed attempts.
-- Do not use third-party "BIOS master password" generators or paid "unlock" websites, which are frequently scams and may contain malware.
-- Do not attempt to dismantle the laptop to "short" motherboard pins or remove the CMOS battery unless you are following an official service manual, as this rarely works on modern encrypted systems and can cause physical damage.
-- Do not modify any boot or security settings if you have partial access while drive encryption (like BitLocker) is active, as this can trigger a recovery key request.
+- Don’t keep “trying fixes” (renaming files back, running random cleanup tools, restoring things repeatedly) while the device is still online.
+- Don’t plug in more USB drives “to back up quickly” until you’ve isolated the device (malware can spread to newly attached drives).
+- Don’t pay a ransom or respond to any ransom message in a rush.
+- Don’t wipe/reinstall straight away if you may need evidence for support, insurance, work IT, or reporting.
+- Don’t assume it’s “just a setting” if lots of files changed at once or you see a ransom note.
 
 ## What to do now
-1. **Document the exact error message and any displayed codes.**  
-   **Record the precise wording of the prompt, such as "System Password," "Administrator Password," or "HDD/SSD Password."**  
-   - Take a high-resolution photo of the screen.  
-   - Note the laptop serial number, Service Tag, or IMEI from the bottom of the case.  
-   - If a "System Halt" code or "Challenge Code" appears after failed attempts, write it down exactly.
-2. **Identify the specific type of lock to determine the resolution path.**  
-   **Determine if the prompt appears before the operating system starts (Firmware/BIOS) or specifically mentions the drive (HDD/SSD).**  
-   - A BIOS/UEFI lock usually prevents any boot or access to settings.  
-   - A Drive Lock (HDD/SSD) is stored on the storage media itself; moving the drive to another computer will not bypass this.
-3. **Check for external management if the device belongs to an organization.**  
-   **Contact your employer's IT helpdesk or school administration immediately if the device is managed.**  
-   - Managed laptops often receive remote firmware updates that enable security prompts by policy.  
-   - Only the authorized administrator can provide the bypass or unlock code.
-4. **Locate drive encryption recovery keys before attempting any hardware changes.**  
-   **Check your Apple Account or Microsoft Account for BitLocker or FileVault recovery keys if you still have access to a desktop.**  
-   - For Windows, visit the Microsoft account recovery key page on another device.  
-   - For Mac, ensure you have your Apple Account credentials ready.
-5. **Request a "Master Password" or "Release Code" from the manufacturer with proof of ownership.**  
-   **Contact the official technical support line for the laptop brand (e.g., Dell, HP) and be prepared to provide a receipt.**  
-   - Some manufacturers (like Dell) can generate a release code based on the Service Tag and an on-screen error code.  
-   - Be aware that brands like Lenovo and Apple Silicon-based Macs may require a motherboard replacement if the password is lost, as there are no "backdoor" codes.
-6. **Exercise your "Short-term Right to Reject" if the laptop was recently purchased.**  
-   **Contact the retailer within 30 days of purchase to demand a full refund for a "faulty or not as described" product under the Consumer Rights Act 2015.**  
-   - A BIOS-locked laptop is not of "satisfactory quality" if the lock was not disclosed.  
-   - If more than 30 days have passed but less than 6 months, the retailer is entitled to one attempt at repair or replacement before you can claim a partial refund.
-7. **Initiate a Section 75 claim or Chargeback if the seller is unresponsive.**  
-   **Contact your credit card provider for a Section 75 claim if the laptop cost more than £100 and was sold with an undisclosed lock.**  
-   - For debit card purchases, or items under £100, ask your bank for a "Chargeback" within 120 days of the transaction.  
-   - Provide your photos of the lock and evidence of your failed attempts to resolve the issue with the seller.
+1. **Isolate the device (containment first).**  
+   - Turn off Wi-Fi and Bluetooth, unplug Ethernet, and disconnect from mobile hotspot.  
+   - If it’s on a home/work network with shared storage, consider turning off Wi-Fi at the router briefly to stop spread.
+2. **Stop sync and sharing immediately (to prevent propagation).**  
+   - Pause cloud sync on the affected device (e.g., OneDrive/iCloud/Dropbox).  
+   - If you can do so safely, also pause sync from the provider’s web dashboard using another, known-clean device.  
+   - Disconnect external drives and unplug network-attached storage (NAS) if you suspect it’s being affected.
+3. **Document what you see (before it changes).**  
+   - Take photos/screenshots of: file extensions, error messages, ransom notes, and the time/date you noticed it.  
+   - Write down which folders/drives are affected (e.g., “Documents and Photos, but not Downloads”).
+4. **Check whether other devices are being hit (without reconnecting the suspect device).**  
+   - From a different, known-clean device, check whether the same folders in the cloud or on shared storage show the same renamed/encrypted files.  
+   - If other devices look affected, isolate them too.
+5. **Use the right reporting/support route quickly.**  
+   - If this is a work/school device: contact your IT/helpdesk immediately and say “possible ransomware/encryption and file renaming”.  
+   - If you’re an individual in the UK: report cyber crime/fraud via **Report Fraud** (the national reporting service; the older “Action Fraud” site name may redirect).  
+   - If you live in **Scotland**, reporting is typically via **Police Scotland (101)** for non-emergency.
+6. **Preserve a small “sample” safely (only after isolation).**  
+   - If you can do it while staying offline: copy a small set of changed files plus any ransom note text to a separate USB drive (ideally empty/newly formatted), then unplug it and label it (date/time).  
+   - Don’t reconnect that USB drive to other computers unless a trusted professional/IT advises you to.
+7. **If changes keep happening after you’ve disconnected networks.**  
+   - If file names/extensions continue changing even while offline, shut the device down to stop further damage, then hand over to IT or a reputable local computer security professional.
 
 ## What can wait
-- You do not need to decide on a motherboard replacement immediately.
-- You do not need to pay for out-of-warranty repairs until you have exhausted consumer rights claims against the seller.
-- You do not need to attempt data recovery on an HDD-locked drive until you have confirmed if a master code is available from the drive manufacturer.
+- You do **not** need to decide today whether to wipe the device, pay anything, or tell everyone you know.
+- You do **not** need to identify the exact malware strain right now.
+- You do **not** need to attempt full recovery immediately; the priority is stopping spread and preserving what’s there.
 
 ## Important reassurance
-Firmware locks often appear due to routine security updates, administrative errors during refurbishment, or previous ownership settings that were not cleared. This is a common technical hurdle with established legal and manufacturer-led resolution paths. Following these steps ensures you do not inadvertently brick the hardware or lose access to your consumer protections.
+When lots of files suddenly change names/extensions, it’s normal to feel panicked and start clicking. Pausing and isolating the device first is the safest move and often prevents the situation from getting much worse.
 
 ## Scope note
-This guide provides immediate stabilization and first-response steps for hardware-level password lockouts. It does not cover Windows login passwords, website passwords, or forensic data recovery.
+This is first-steps-only guidance to contain damage and avoid irreversible mistakes. Recovery (restoring from backups, rebuilding devices, dealing with accounts) often needs careful, situation-specific support.
 
 ## Important note
-This information is for guidance only and does not constitute legal or professional technical advice. BIOS and firmware security is designed to be robust; in many modern systems, the lock cannot be bypassed without the original password or expensive hardware replacement. Ensure you have definitive proof of ownership before contacting manufacturers, as they are legally obligated to verify your identity before assisting with security overrides.
+This is general information, not professional forensic or legal advice. If you’re unsure whether this is ransomware, acting as if it is (isolating, pausing sync, documenting) is usually the least-regret first step.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/ransomware/home
 - https://www.ncsc.gov.uk/section/respond-recover/sole-ransomware-attack
-- https://www.gov.uk/guidance/where-to-report-a-cyber-incident
-- https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take
-- https://www.ncsc.gov.uk/section/respond-recover/sole-infected-devices
+- https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/guide-to-reporting/
+- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police

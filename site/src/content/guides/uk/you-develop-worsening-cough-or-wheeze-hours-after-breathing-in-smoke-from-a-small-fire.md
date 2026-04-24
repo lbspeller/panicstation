@@ -1,92 +1,80 @@
----
+﻿---
 title: "What to do if… you develop worsening cough or wheeze hours after breathing in smoke from a small fire"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "worsening cough"
-  - "wheeze after fire"
-  - "smoke inhalation"
-  - "breathing in smoke"
-  - "coughing after fire"
-  - "wheeziness hours later"
-  - "small fire smoke"
-  - "help i breathed in smoke"
-  - "my cough is getting worse after fire"
-  - "what do i do if i inhaled smoke"
-  - "what do i do if i am wheezing after fire"
-  - "help i have a cough after a kitchen fire"
-  - "chest tightness"
-  - "shortness of breath"
-  - "soot taste"
-  - "hoarse voice"
-  - "throat irritation"
-  - "delayed cough after smoke"
-  - "difficulty breathing after fire"
-  - "my chest feels tight after smoke"
-  - "what do i do if i breathed in plastic smoke"
-  - "smoke inhalation symptoms"
-  - "wheezing hours after exposure"
-  - "smoke exposure at home"
-  - "reactive airways fire"
-  - "house fire smoke inhalation"
-  - "indoor smoke inhalation"
-  - "burning wood smoke"
-  - "burnt food smoke"
-  - "irritated lungs after fire"
-  - "airway irritation smoke"
-last_reviewed: "2026-03-16"
+  - smoke inhalation
+  - breathed in smoke
+  - cough after fire
+  - wheeze after smoke
+  - worsening cough hours later
+  - chest tightness after smoke
+  - shortness of breath after fire
+  - asthma flare after smoke
+  - reactive airways after smoke
+  - throat irritation after smoke
+  - hoarse voice after smoke
+  - soot taste in mouth
+  - headache after smoke exposure
+  - dizziness after smoke
+  - nausea after smoke exposure
+  - indoor smoke exposure
+  - small house fire smoke
+  - kitchen fire smoke exposure
+  - burning plastic smoke exposure
+  - smoke exposure at home
+  - delayed breathing symptoms
+last_reviewed: "2026-02-22"
 ---
-# What to do if… you develop worsening cough or wheeze hours after breathing in smoke from a small fire (UK)
 
+# What to do if… you develop worsening cough or wheeze hours after breathing in smoke from a small fire (UK)
 ## Short answer
-Move into fresh air immediately and contact NHS 111 for a medical assessment, as breathing symptoms from smoke inhalation can deteriorate over 24 to 36 hours. Call 999 if you are struggling to speak, have blue/grey skin or lips, or experience severe chest heaviness.
+Get into clean air and get medical advice now via NHS 111, because breathing symptoms after smoke exposure can worsen over hours. Call 999 immediately if you have severe difficulty breathing, chest pain or tight/heavy chest, sudden confusion, or blue/grey lips or skin.
 
 ## Do not do these things
-- Do not ignore symptoms or attempt to "sleep it off" if your breathing is becoming more difficult.
-- Do not re-enter the area where the fire occurred, even if the smoke has cleared, while you are symptomatic.
-- Do not drive yourself to a hospital or minor injuries unit if you feel dizzy, drowsy, or very short of breath.
-- Do not use someone else's prescription inhalers or medications.
-- Do not perform physical exercise or heavy lifting to check your lung capacity.
+- Do not “sleep it off” if your cough/wheeze is getting worse or you’re becoming more short of breath.
+- Do not go back into any smoky/sooty area (including rooms that still smell of smoke) while you have symptoms.
+- Do not drive yourself to urgent care/A&E if you feel faint, confused, very breathless, or drowsy — get help.
+- Do not take someone else’s inhalers, nebuliser medicines, steroids, or antibiotics.
+- Do not do strenuous activity to “test your lungs”.
 
 ## What to do now
-1. **Move to a well-ventilated area with clean air immediately.** Stay outside or in a room completely unaffected by the smoke with windows open.
-2. **Perform a check for Carbon Monoxide (CO) indicators.** 
-   - If other people or pets in the same building feel unwell, or you have a headache, nausea, or dizziness that improves in fresh air, evacuate the building.
-3. **Report any suspected gas or CO emergency if the fire involved a gas appliance.** Call the **National Gas Emergency Service on 0800 111 999** from outside the property.
-4. **Call 999 immediately if you or anyone else shows these emergency signs:**
-   - **Severe difficulty breathing** (gasping, choking, or unable to finish a sentence without pausing).
-   - **Lips or skin turning blue, grey, or very pale** (on brown or black skin, check the palms of the hands or the soles of the feet).
-   - **Sudden confusion**, extreme drowsiness, or collapse.
-   - **Chest pain** or a heavy, tight, or crushing sensation in the chest.
-   - **Noisy breathing** (stridor) or a rapidly changing, hoarse voice.
-5. **Manage existing respiratory conditions according to your 2026 action plan.** 
-   - If you use a blue "reliever" inhaler, take puffs as directed for worsening symptoms. 
-   - If you use an "AIR" (anti-inflammatory reliever) or "MART" (Maintenance and Reliever Therapy) inhaler, follow the specific "reliever" instructions in your personal plan. 
-   - Seek urgent help if your usual medication is not providing the expected relief.
-6. **Contact NHS 111 for clinical triage.** State clearly that you were exposed to smoke from a fire and are now experiencing a worsening cough or wheeze several hours later.
-7. **Prepare a summary of the incident for the clinician.**
-   - The time of the fire and how long you were breathing in smoke.
-   - Whether the smoke was in a confined or enclosed space.
-   - What materials were burning (e.g., plastics, upholstery, wood, food, or electrical wiring).
-   - A list of current symptoms, including any heart palpitations or coughing up blood.
+1. **Move into clean air and stay away from smoke.** Go outside or to a clearly smoke-free, well-ventilated place.
+2. **Quick carbon monoxide (CO) sense-check (especially if the fire/smoke was indoors or near a boiler/cooker/heater).**  
+   If **more than one person** in the property feels unwell, or you have **headache, dizziness, nausea, unusual tiredness** that seems better in fresh air, treat CO as possible: **get everyone outside** and **do not go back in**.
+3. **If you suspect a gas/CO issue:** call the **National Gas Emergency Service on 0800 111 999** once you’re outside and safe.
+4. **Check for emergency signs — call 999 if any apply now:**
+   - **Severe difficulty breathing** (gasping/choking, or you cannot get words out)
+   - **Blue, grey, or very pale** lips/skin
+   - **Sudden confusion**, collapse, or extreme drowsiness
+   - **Chest pain** or a **tight/heavy chest**
+   - **Throat tightness**, rapidly worsening hoarse voice, or a harsh/noisy breathing-in sound
+5. **If you have asthma/COPD:** use your **reliever inhaler exactly as directed in your personal action plan**. If your usual reliever isn’t working like it normally does, or you need it more than usual, that’s a reason to seek urgent assessment.
+6. **Call NHS 111 now** and say: “I breathed in smoke from a fire and I’m developing worsening cough/wheeze hours later.” Follow their triage about where to be seen and how urgently.
+7. **Make a 60-second note to share (phone or in-person):**
+   - Time/duration of exposure, and whether it was **indoors** or in a small enclosed area
+   - What burned (for example: food/oil, wood, wiring, plastics, upholstery)
+   - Current symptoms (wheeze, breathlessness, chest tightness, hoarse voice, headache/dizziness/nausea)
+   - Your conditions (asthma/COPD/heart disease) and current meds/inhalers
 
 ## What can wait
-- You do not need to determine the exact medical cause of the wheeze right now.
-- You do not need to begin cleaning soot or airing out the property until you have been medically cleared.
-- You do not need to contact insurance providers or landlords until your condition is stable.
+- You do not need to decide what caused it (irritation vs flare-up vs something else) right now — focus on safe triage.
+- You do not need to clean soot or air out the property yourself while symptomatic.
+- You do not need to deal with insurance or paperwork until you’re medically safe.
 
 ## Important reassurance
-It is a recognized occurrence for respiratory symptoms to appear or worsen several hours after a smoke exposure event. Feeling concerned when symptoms change is a normal response to a stressful physical event.
+It’s common for irritated airways to feel worse later rather than immediately after smoke exposure. Getting checked when symptoms are worsening is a sensible, safety-first step.
 
 ## Scope note
-This guide provides first-step stabilization and triage guidance only. Clinical decisions regarding oxygen therapy, nebulisers, or further observation must be made by a healthcare professional.
+These are first steps only. Further decisions (tests, inhalers, steroids, monitoring) should be made by clinicians after assessment.
 
 ## Important note
-This information is not a substitute for professional medical advice or diagnosis. If symptoms such as severe breathlessness, chest heaviness, or skin color changes occur, you must seek emergency medical attention immediately.
+This is general information, not a diagnosis. If symptoms worsen or you develop severe breathlessness, chest pain/tightness, sudden confusion, blue/grey lips or skin, or throat tightness/noisy breathing, seek emergency help.
 
 ## Additional Resources
-- https://www.nhs.uk/conditions/burns-and-scalds/
-- https://www.nhs.uk/conditions/burns-and-scalds/treatment/
-- https://www.nhs.uk/conditions/poisoning/
+- https://111.nhs.uk/
+- https://www.nhs.uk/symptoms/shortness-of-breath/
 - https://www.nhs.uk/conditions/carbon-monoxide-poisoning/
-- https://patient.info/doctor/emergency-medicine/inhalation-injury
+- https://www.nationalgas.com/emergency-contacts
+- https://www.gassaferegister.co.uk/gas-safety/carbon-monoxide-poisoning/
+- https://my.clevelandclinic.org/health/diseases/smoke-inhalation

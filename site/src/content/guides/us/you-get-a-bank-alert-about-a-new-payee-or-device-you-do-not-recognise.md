@@ -1,97 +1,86 @@
----
+﻿---
 title: "What to do if… you get a bank alert about a new payee or device you do not recognise"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - "bank alert unrecognized payee"
-  - "unauthorized device bank notification"
-  - "help i got a bank alert"
-  - "what do i do if my bank sends a new device alert"
-  - "new recipient added to bank account"
-  - "bank account takeover signs"
-  - "unrecognized login attempt bank"
-  - "suspicious banking text message"
-  - "phishing bank email help"
-  - "stop unauthorized bank transfer"
-  - "fraudulent payee added to account"
-  - "otp code not requested bank"
-  - "bank security alert unauthorized access"
-  - "identity theft bank account"
-  - "my bank account was hacked"
-  - "what do i do if i see a new device sign in"
-  - "bank alert payee i dont know"
-  - "unexpected bank login notification"
-  - "secure bank account from scammers"
-  - "bank fraud alert next steps"
-  - "fraudulent sign in bank account"
-  - "new device added to banking profile"
-  - "unauthorized access device"
-  - "bank notification new recipient"
-  - "verify bank alert authenticity"
-  - "suspicious activity bank account"
-  - "prevent bank account draining"
-  - "account recovery bank scam"
-  - "unknown bank payee notification"
-  - "bank notification unrecognized device"
-last_reviewed: "2026-03-17"
+  - bank alert new payee
+  - unknown payee added
+  - new recipient added
+  - unrecognized device alert
+  - new device sign in
+  - bank account takeover
+  - suspicious banking notification
+  - phishing text from bank
+  - phishing email from bank
+  - otp code you didnt request
+  - approve new device prompt
+  - added payee i dont know
+  - unexpected bank security alert
+  - possible unauthorized transfer
+  - fraud debit card charges
+  - money missing from account
+  - bank login not me
+  - unexpected account changes
+  - identity theft warning sign
+last_reviewed: "2026-01-08"
 ---
+
 # What to do if… you get a bank alert about a new payee or device you do not recognise (USA)
 
 ## Short answer
-Do not click any links or provide any codes; immediately contact your bank using the official number on the back of your physical card or the bank’s verified app to report unauthorized access and freeze your account.
+Don’t approve anything or click anything. Contact your bank immediately using a trusted method (open the bank app yourself, or call the number on the back of your card) and ask them to lock down the account and stop any transfers.
 
 ## Do not do these things
-- Do not click links, download attachments, or call phone numbers provided within the suspicious alert.
-- Do not share one-time passcodes (OTP), verification codes, PINs, or online banking passwords with anyone, even if they claim to be from the bank.
-- Do not approve "new device," "new payee," or peer-to-peer (P2P) transfer prompts unless you initiated the action yourself.
-- Do not download "remote support" or "screen sharing" software (e.g., AnyDesk, TeamViewer) if instructed by someone regarding a bank alert.
-- Do not move money to a "safe account" or "government locker" because someone told you to; banks will never ask you to move funds to protect them.
-- Do not use the "Reply" function to confirm or deny the alert; switch to a known, trusted communication channel.
+- Don’t click links in the alert or call a number provided in the message.
+- Don’t share one-time passcodes, verification codes, PINs, or your online banking password with anyone.
+- Don’t approve a “new device”, “new payee/recipient”, or peer-to-peer transfer prompt (for example, Zelle or similar) unless you initiated it.
+- Don’t move money to a “safe account” because someone told you to.
+- Don’t keep texting/calling back to “figure it out” — switch to a verified contact route.
 
 ## What to do now
-1. **Isolate the communication.** Close the text or email alert. If you are currently on the phone with someone claiming to be from the bank regarding this alert, hang up immediately.
-2. **Contact your bank through a verified channel.**  
-   - Call the phone number listed on the back of your physical debit or credit card.
-   - Alternatively, use the "Contact Us" feature inside the bank’s official mobile app that you have already installed.
-   - State clearly: **"I received an alert about a new payee or device that I did not authorize. I believe my account is being accessed by someone else."**
-3. **Request an immediate account lockdown.**
-   - Ask the representative to freeze or "lock" online banking access and all associated debit/credit cards.
-   - Request the removal of any unrecognized payees, recipients, or newly enrolled devices.
-   - Ask to revoke all active sign-in sessions across all devices.
-   - Request a check for any changes to your **contact profile** (email address, phone number, or physical address).
-4. **Identify and stop pending transactions.**
-   - Ask the bank if there are any **pending** transfers, bill payments, or P2P transactions (like Zelle). 
-   - Request that these be stopped or reversed immediately if they were not authorized.
-5. **Secure your secondary "recovery" accounts.**
-   - Change the password for the **email account** associated with your banking profile, as scammers often gain access to banks via email compromise.
-   - Enable Multi-Factor Authentication (MFA) on your email using an authenticator app rather than SMS if possible.
-6. **Obtain a case or reference number.**
-   - Document the official case number for your report.
-   - Ask for a written summary of the actions the bank has taken (e.g., cards canceled, passwords reset).
-7. **Initiate a fraud alert on your credit profile.**
-   - Contact one of the three credit bureaus (Equifax, Experian, or TransUnion) to place a free "Fraud Alert."
-   - The bureau you contact is required by law to notify the other two. This makes it harder for someone to open new accounts in your name.
-8. **Document the incident details for federal reporting.**
-   - Note the exact time you received the alert, the sender's details (phone number or email), and the specific content of the message.
-   - Report the scam attempt at **ReportFraud.ftc.gov**.
+1. **Stop the interaction.** Close the alert. If you’re on a call about it, hang up.
+2. **Contact your bank safely (right now).**  
+   - Use the bank’s official app (opened directly) or call the number on the back of your card. Say: **“I got a new payee/new device alert that wasn’t me. I need you to secure my account now.”**
+3. **Ask for specific lock-down actions while you’re on the line.**
+   - Freeze/lock online banking access and cards; block transfers if possible.
+   - Remove the new payee/recipient; revoke unrecognized device sessions; reset sign-in credentials.
+   - Check for **profile changes** (email/phone/address) and restore them.
+   - Ask whether any payments are **pending**, and what they can do immediately to stop them.
+4. **Report any unauthorized activity clearly and get a case number.**  
+   - If money moved, tell them which transactions you don’t recognize. Ask for a **case/reference number** and what they need from you to start the dispute/error process.
+   - If the alert included a code you didn’t request, tell them — it can indicate someone is trying to enroll a device or add a payee.
+5. **Protect your logins and “recovery routes.”**
+   - Change the password on the **email account** tied to your bank and turn on stronger sign-in protection.
+   - Change your bank password (and any reused passwords elsewhere). Use a new, unique one.
+6. **Write down what matters.** Note the time of the alert, what it said, any transaction IDs, and what the bank confirmed they did (freeze, blocks, reversals, case number).
+7. **Move quickly if an electronic transfer or debit access is involved.** Prompt notice can matter for your rights and potential liability limits for **unauthorized electronic transfers** — don’t wait to “see what happens.”
+8. **If you suspect identity theft or account takeover, start the official reporting trail.**
+   - Use **IdentityTheft.gov** to create a recovery plan (especially if you see new accounts, credit checks, or personal info changes).
+   - Report the scam at **ReportFraud.ftc.gov**.
+9. **Lock down credit to prevent new accounts being opened in your name.**
+   - Consider a **credit freeze** with each of the three nationwide bureaus.
+   - If you can’t do freezes today, place at least a **fraud alert**.
+   - Check your credit reports at **AnnualCreditReport.com** and look for unfamiliar accounts/inquiries.
 
 ## What can wait
-- You do not need to close your physical bank account and move to a new institution today unless the bank's fraud department specifically advises it.
-- You do not need to file a local police report immediately unless the bank requires it for a formal fraud claim or if you know the identity of the person involved.
-- You do not need to change all your unrelated social media or retail passwords today; focus exclusively on financial and email accounts first.
+- You do not need to decide today whether to close all accounts or switch banks (unless your bank tells you to).
+- You do not need to post about it, warn others on social media, or try to identify the scammer.
+- You do not need to complete long forms before your bank can take immediate protective action — start with stopping further loss.
 
 ## Important reassurance
-Receiving a legitimate bank alert means the security system is working as intended to give you a window of time to act. Banks deal with these reports daily and have established protocols to secure accounts once you reach them through a verified number.
+These alerts exist because unauthorized access is common and banks expect customers to respond quickly. Feeling panicked is normal — focusing on safe contact + immediate lock-down is the fastest way to regain control.
 
 ## Scope note
-This guide provides first-step stabilization for responding to suspicious bank notifications and securing an account against active takeover. It does not cover the long-term legal dispute process for recovered funds or comprehensive identity theft repair.
+This covers first steps to prevent further loss and start an official paper trail. Longer follow-up (formal disputes, monitoring, identity repair) depends on the payment type and what your bank finds.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Liability for unauthorized electronic fund transfers is governed by Regulation E (Electronic Fund Transfer Act); protections are strongest when you notify your financial institution within two business days of discovering the unauthorized activity. 
+This is general information, not legal advice. If you’re in immediate danger, call emergency services. Always use verified contact details (bank app you open yourself, or the number on your card), not numbers provided in unexpected messages.
 
 ## Additional Resources
-- https://consumer.ftc.gov/articles/what-do-if-you-were-scammed
 - https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discover-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/
-- https://consumer.ftc.gov/consumer-alerts/2024/06/got-call-about-fraud-activity-your-bank-account-it-could-be-scammer
-- https://www.usa.gov/identity-theft
-- https://www.fdic.gov/consumer-resource-center/2023-10/scammers-and-fake-banks
+- https://www.consumerfinance.gov/rules-policy/regulations/1005/6
+- https://www.consumerfinance.gov/ask-cfpb/i-received-an-email-from-my-bank-or-credit-union-asking-me-to-verify-my-account-information-what-should-i-do-en-999/
+- https://www.identitytheft.gov/Steps?scroll=true
+- https://reportfraud.ftc.gov/faq
+- https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts
+- https://www.annualcreditreport.com/aboutThisSite.action

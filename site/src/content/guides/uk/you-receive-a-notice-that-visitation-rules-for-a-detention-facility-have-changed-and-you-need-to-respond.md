@@ -1,111 +1,100 @@
----
+﻿---
 title: "What to do if… you receive a notice that visitation rules for a detention facility have changed and you need to respond"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "detention visitation rules changed"
-  - "prison visit notice"
-  - "jail visit rules change letter"
-  - "visitation policy update"
-  - "visiting hours changed"
-  - "visit suspended notice"
-  - "visit cancelled by facility"
-  - "visitor list problem"
-  - "visitation dress code change"
-  - "new id requirements for visits"
-  - "changed booking process"
-  - "new contact visit restrictions"
-  - "video visit rules changed"
-  - "prison visit booking issue"
-  - "need to respond to visitation change"
-  - "unsure if notice is real"
-  - "family visit prison uk"
-  - "remand visit rules changed"
-  - "hmp visitation change"
-  - "sps visit rules update"
-  - "nips visiting guidance"
-  - "what do i do if my prison visit is cancelled"
-  - "what do i do if visitation rules change"
-  - "what do i do if i get a prison notice"
-  - "what do i do if id rules change for prison"
-  - "help i cant book a prison visit"
-  - "help i received a prison notice"
-  - "my prison visit was cancelled"
-  - "my visitor status changed"
-  - "smell of smoke at prison"
-  - "notice of restricted visits"
-  - "prison visit letter"
-  - "official visit notice"
-  - "detention center rules"
-  - "visitation response"
-  - "prison booking deadline"
-last_reviewed: "2026-03-17"
+  - detention visitation rules changed
+  - prison visit notice
+  - jail visit rules change letter
+  - visitation policy update
+  - visiting hours changed
+  - visit suspended notice
+  - visit cancelled by facility
+  - visitor list problem
+  - visitation dress code change
+  - new id requirements for visits
+  - changed booking process
+  - new contact visit restrictions
+  - video visit rules changed
+  - prison visit booking issue
+  - need to respond to visitation change
+  - unsure if notice is real
+  - family visit prison uk
+  - remand visit rules changed
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive a notice that visitation rules for a detention facility have changed and you need to respond (UK)
 
 ## Short answer
-Verify the notice using an official government website (.gov.uk, .gov.scot, or justice-ni.gov.uk) to find the facility's direct booking line, then contact them to confirm if your specific visitor status or existing bookings are affected.
+Pause and verify the notice using the facility’s official contact details, then respond only to confirm what you will do (rebook, update visitor details, or request clarification) and what deadline you’re working to.
 
 ## Do not do these things
-- Don’t travel to the facility or pay for non-refundable transport until you have confirmed the booking is valid under the new rules.
-- Don’t use phone numbers or links provided in the notice itself if you suspect it is a scam; find the number independently.
-- Don’t send digital copies of sensitive ID (passports, birth certificates) via email unless you have verified the recipient's official government address.
-- Don’t assume rules are uniform; England, Wales, Scotland, and Northern Ireland operate under different prison services with different booking "owners" (visitor vs prisoner).
-- Don’t attempt to bypass new restrictions by bringing unauthorized items or extra visitors not listed on the approved booking.
+- Don’t travel to the facility or rearrange work/childcare until you’ve confirmed the change through an official channel.
+- Don’t reply in anger or make accusations in writing (it can complicate future access).
+- Don’t send scans of passports, bank details, or unnecessary personal documents to an email/number you haven’t independently verified.
+- Don’t assume the rules are identical across the UK (England/Wales vs Scotland vs Northern Ireland can differ).
+- Don’t try to “work around” a restriction (for example, turning up with extra visitors, banned items, or incorrect ID).
 
 ## What to do now
-1. **Identify the specific nature of the rule change.**  
-   **Read the notice to determine if the change is systemic or individual.**  
-   - check if it applies to social visits (family/friends) or legal/professional visits.  
-   - note if the change is facility-wide (e.g., regime changes) or specific to your visitor record (e.g., ID expiry or "banned" status).  
-   - identify any "respond by" dates or immediate deadlines for re-registration.
+1. **Check what type of “visitation” this is.**  
+   Read the notice carefully and mark:  
+   - whether it’s a *social visit* (family/friends) or an *official/legal visit* (solicitor, professional, approved official visitor)  
+   - whether it applies to *one person* (e.g., you/your ID status) or *everyone* (facility-wide change)  
+   - any stated deadline (for rebooking, updated ID, registration, or application forms)
 
-2. **Verify the facility contact details through official channels only.**  
-   **Do not use contact info from the notice if the source is unverified.**  
-   - For England/Wales: Search "GOV.UK [Prison Name] information" for the official prison page.  
-   - For Scotland: Use the Scottish Prison Service (SPS) website.  
-   - For Northern Ireland: Use the nidirect or Department of Justice NI website.
+2. **Verify the notice using official details you find yourself (not the notice).**  
+   Use the correct route for where the person is held:
+   - **England/Wales prisons:** use the official GOV.UK prison visits guidance/booking route for the relevant prison.  
+   - **Scotland prisons:** use the **Scottish Prison Service (SPS)** website (start with the specific prison’s page and its visits section).  
+   - **Northern Ireland prisons:** use **nidirect** prison visit booking and the Northern Ireland Prison Service visiting guidance.  
+   When you contact the facility/booking office, confirm:
+   - whether your existing booking is cancelled or simply needs reconfirming  
+   - the current booking method (online service, email, phone)  
+   - whether you need to be (or remain) on the person’s approved visitor list before you can book
 
-3. **Contact the booking office to clarify your status.**  
-   **Call the facility's designated booking or family contact line during operational hours.**  
-   - Ask if an existing booking is still valid or if it has been automatically cancelled.  
-   - Confirm who is responsible for the re-booking (in Scotland, the prisoner usually books; in England/Wales, the visitor usually books online).  
-   - Check the current ID requirements (Scotland requires two forms of ID, one of which must be photographic).
+3. **Confirm whether the person has been moved, and whether visits are currently running.**  
+   Ask the facility directly:
+   - “Is [name/prison number] currently at your site and eligible for social visits?”  
+   - “Are there temporary restrictions this week that affect visitors?”
 
-4. **Confirm the prisoner's location and eligibility.**  
-   **Verify that the person is still held at that facility and is currently permitted to receive visits.**  
-   - Ask: "Is [Name/Prison Number] currently at this site and eligible for the type of visit I am requesting?"  
-   - Ask if there are temporary "regime" restrictions (e.g., lockdowns or staff shortages) affecting all visitors.
+4. **Prepare a calm, minimal response (keep it factual).**  
+   Draft a short reply (or a short script if you’re calling) that:
+   - acknowledges receipt of the notice  
+   - asks 2–4 specific questions (only what you must know to act)  
+   - confirms your next step (e.g., “I will rebook using the updated method once you confirm X”)  
+   - requests written confirmation of the updated rules that apply to your visit (or where they are published officially)
 
-5. **Submit a factual, written response if required.**  
-   **Draft a concise reply that addresses only the requested information.**  
-   - Include the prisoner's name and number in the subject line.  
-   - State clearly: "I am responding to the notice dated [Date] regarding [Rule Change]."  
-   - Confirm your compliance (e.g., "I will bring the updated photographic ID as requested").  
-   - Avoid emotional language or complaints in this specific response.
+5. **If the change blocks you entirely, ask what the official alternative is.**  
+   If in-person visits are suspended or you’re removed from the approved list, ask (politely) what is available *right now* and what the reinstatement route is:
+   - video visits (if offered at that facility)  
+   - how to reapply / update visitor status  
+   - whether there is a review route for visitor restrictions, and where you should send any information they request
 
-6. **Log the interaction for your records.**  
-   **Keep a copy of the notice and a note of who you spoke to at the facility.**  
-   - Record the date, time, and name of the staff member.  
-   - Save any reference numbers provided during the call or in a confirmation email.
+6. **Keep a simple record of what happened.**  
+   Save the notice, screenshot any updated official rules page, and note: date/time, who you spoke to, and what you were told. This is useful if you need to rebook, correct an error, or raise a concern later.
+
+7. **If you suspect this is a scam or misinformation attempt, stop and verify again.**  
+   Do not click links or open attachments until you’ve confirmed the sender through an official channel. If you already clicked something, change the password on the account you used and run a security scan on your device.
 
 ## What can wait
-- You do not need to file a formal complaint or appeal today; the priority is establishing your current access rights.
-- You do not need to provide proof of travel costs or "hardship" unless applying for the Assisted Prison Visits Scheme (APVS).
-- You do not need to update your entire visitor profile if the change only affects a single upcoming session.
+- You do not need to decide today whether to make a complaint or escalate—first confirm the correct current rules and your actual visiting status.
+- You do not need to plan future trips or pay for travel until you have a confirmed booking under the new rules.
+- You do not need to gather “every possible document” now—wait until the facility confirms exactly what they require.
 
 ## Important reassurance
-Sudden changes to visitation rules are common due to operational requirements, staffing levels, or security updates. These notices do not necessarily mean you have done something wrong or that the prisoner is in trouble. Following the official verification process is the most effective way to restore access.
+Visitation changes often happen suddenly (staffing, security, operational restrictions, or system changes). Feeling alarmed is normal. Your job right now is to slow things down, confirm what’s real, and respond in a way that keeps your access as straightforward as possible.
 
 ## Scope note
-This guide covers first-step stabilization and verification of visitation changes. It does not cover legal appeals for visitor bans, the specifics of the Assisted Prison Visits Scheme, or the rules for private/contracted immigration removal centers.
+This is first steps only. Later decisions (appeals, complaints, legal advice) depend on the facility type and the reason for the change.
 
 ## Important note
-This information is for general guidance and is not legal advice. Prison rules and booking systems vary significantly between England/Wales (HMPPS), Scotland (SPS), and Northern Ireland (NIPS). Always refer to official government websites for the most current procedures in 2026.
+This guide provides general information and practical first steps. It is not legal advice. Facility rules can change quickly and can be different across England/Wales, Scotland, and Northern Ireland, and between prisons, immigration detention settings, and police custody arrangements.
 
 ## Additional Resources
 - https://www.gov.uk/prison-visits
 - https://www.gov.uk/staying-in-touch-with-someone-in-prison/visiting-someone-in-prison
-- https://www.gov.uk/government/publications/management-of-security-at-visits-policy-framework-open-estate/acceptable-forms-of-identification-id-when-visiting-a-prison-in-england-and-wales-annex-a
-- https://www.gov.uk/government/publications/management-of-security-at-visits-policy-framework-open-estate/dress-code-for-visitors-annex-h
-- https://www.gov.uk/guidance/visit-a-prisoner-using-a-video-call
+- https://assets.publishing.service.gov.uk/media/674888f6ebabe47136b3a189/2024_11_04_psi-16-2011-providing-visits-services-visitors.pdf
+- https://www.mygov.scot/prison-visit
+- https://www.sps.gov.uk/family-and-friends/visits
+- https://www.nidirect.gov.uk/services/book-visit-prison

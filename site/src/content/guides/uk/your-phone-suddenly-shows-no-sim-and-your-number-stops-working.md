@@ -1,106 +1,93 @@
----
+﻿---
 title: "What to do if… your phone suddenly shows “No SIM” and your number stops working"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "photo library optimising"
-  - "photos suddenly missing"
-  - "low-quality photo library"
-  - "iphone photos blurry previews"
-  - "my photos look missing"
-  - "what do i do if my photos are blurry"
-  - "help i lost my photos after update"
-  - "icloud photos stuck optimising"
-  - "google photos not showing"
-  - "photos only thumbnails"
-  - "low quality photos suddenly"
-  - "what do i do if optimising is stuck"
-  - "help i can't see high resolution photos"
-  - "my photo library looks empty"
-  - "visible thumbnails but blurry"
-  - "photos missing after signing in"
-  - "iphone library view filtered"
-  - "recently deleted photos recovery"
-  - "hidden album photos missing"
-  - "icloud sync bug 2026"
-  - "google photos sync bug 2026"
-  - "optimise storage settings"
-  - "cloud photo library syncing"
-  - "what do i do if photos are low quality"
-  - "help i cannot find my photos"
-  - "photos missing from ipad"
-  - "mac photos low resolution"
-  - "shared library photos missing"
-  - "optimise storage vs download originals"
-last_reviewed: "2026-03-17"
+  - no sim message
+  - phone says no sim
+  - invalid sim alert
+  - sim not detected
+  - sim card stopped working
+  - number stopped working
+  - calls and texts not working
+  - suddenly no network
+  - emergency calls only
+  - lost mobile service suddenly
+  - sim swap suspicion
+  - number hijacked
+  - porting scam worry
+  - eSIM stopped working
+  - physical sim tray issue
+  - iPhone no sim
+  - android no sim
+  - mobile plan active but no service
+  - can’t receive sms codes
+  - locked out of accounts by sms
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your phone suddenly shows “No SIM” and your number stops working (UK)
 
 ## Short answer
-Avoid deleting any items or signing out of accounts while the library is in an active "optimising" or "syncing" state. Verify whether the full-resolution originals are visible on the service’s official website (iCloud.com or photos.google.com) before changing any device settings.
+Treat it as either (1) a SIM/phone fault or (2) a possible SIM-swap/number takeover. Do the quick device checks, but if service doesn’t return fast, contact your mobile provider from another phone and ask whether any SIM change or number port has been made.
 
 ## Do not do these things
-- Don't delete "duplicate" thumbnails or empty the "Recently Deleted" folder until the library has fully synced.
-- Don't sign out of your Apple Account or Google Account as a troubleshooting step without first confirming your photos are visible on another device.
-- Don't perform a factory reset or use third-party "clean-up" apps that claim to optimize storage.
-- Don't turn off iCloud Photos or Google Photos if the device warns that items will be removed from the local storage.
-- Don't assume a blurry or low-resolution preview indicates the original file has been corrupted or lost.
+- Don’t install “fix your SIM” apps, pay for dial-code tricks, or follow links from unexpected texts/emails that arrived around the same time.
+- Don’t factory-reset your phone yet — it can erase useful clues (notifications, emails, recent changes) and won’t fix a SIM swap.
+- Don’t share one-time passcodes (OTPs) with anyone who calls/texts you “to restore service”.
+- Don’t delete/reinstall an eSIM profile unless your provider tells you to.
 
 ## What to do now
-1. **Secure the current device state and stop interaction.**  
-   **Close the Photos app and place the device on a charger with an active Wi-Fi connection.**  
-   - Ensure "Low Power Mode" is turned off, as this often pauses background indexing and high-resolution downloads.
-   - Avoid manual attempts to "fix" the library by moving or hiding files until the status bar at the bottom of the library (Apple) or the account icon (Google) shows that syncing is complete.
+1. **Get a working connection so you can act.**
+   - Turn **Wi-Fi on** and connect to a trusted network.
+   - Use an internet calling/messaging app you already have, or **borrow someone’s phone** to make calls.
 
-2. **Verify the existence of originals via a web browser.**  
-   **Log in to the web version of your photo service on a separate computer or tablet.**  
-   - For Apple users: Visit iCloud.com/photos.
-   - For Google users: Visit photos.google.com.
-   - If the photos appear in high resolution there, your data is safe; the local device is simply displaying placeholders while it re-indexes or downloads the library.
+2. **Do the fast, low-risk phone checks (2–5 minutes total).**
+   - Toggle **Airplane mode** on/off once.
+   - **Restart** the phone.
+   - If you have a **physical SIM**: power off, remove the SIM, check for obvious damage/dirt, reseat it carefully and restart.
+   - Check for a **carrier settings update** / network update and install it if prompted.
 
-3. **Check for library view filters and shared library toggles.**  
-   **In the Photos app, ensure you are viewing "All Photos" rather than a filtered subset.**  
-   - In iOS 26: Tap the "Sort & Filter" button (often three dots or a funnel icon) and ensure "Both Libraries" is selected if you use iCloud Shared Photo Library.
-   - Check the "Hidden" and "Recently Deleted" albums to ensure items were not moved accidentally.
+3. **Test whether it’s the SIM, the phone, or the account.**
+   - If possible, put **your SIM in another unlocked phone** (even briefly), or try a **known-working SIM** in your phone.
+   - If your SIM fails in multiple phones, treat it as **SIM/account-level** until proven otherwise.
 
-4. **Confirm storage availability on the device and in the cloud.**  
-   **Check Settings to see if "Optimise iPhone Storage" or "Free Up Space" was automatically triggered by low local storage.**  
-   - If local storage is critically low, the device will purposefully replace high-resolution files with low-resolution versions to keep the phone operational.
-   - Check your cloud storage subscription (iCloud+ or Google One) to ensure the account is not over its limit, which halts all new syncing.
+4. **Contact your mobile provider immediately (from another phone) and ask one specific question.**
+   - Use a number from your **bill**, the provider’s **official app**, or their **official website** (not a number sent in a random text).
+   - Say: **“My phone shows ‘No SIM’ and my number stopped working. Please check whether a SIM swap, eSIM reissue, or number port has happened on my account today.”**
+   - Ask what **account protections** they can apply right now (for example: extra verification or an account PIN/passcode, restricting SIM changes, and any porting lock/freeze option they offer), and to note the account as **at risk of SIM-swap fraud**.
 
-5. **Identify known service bugs for 2026.**  
-   **Differentiate between a data loss event and the early 2026 "Downward Sync" bug.**  
-   - If photos exist on the web but won't appear on the phone despite stable Wi-Fi, this may be a known service-side sync issue rather than a local hardware failure.
-   - Note the specific error message (e.g., "Optimising Library [X]%") for support.
+5. **If there’s any chance of takeover, secure the accounts that matter most (in this order).**
+   - **Email first**: change password, sign out of other sessions/devices, strengthen sign-in security.
+   - **Banking/finance next**: use the bank’s official app/website over Wi-Fi or call the number on your card; ask them to watch for unauthorised activity.
+   - **Apple ID / Google account next**: change password and review trusted devices and recovery options.
+   - Where you can, **switch away from SMS codes** to an authenticator app or passkeys.
 
-6. **Escalate to official support if the web view is also missing data.**  
-   **Contact the service provider directly if the photos are absent from both the device and the web portal.**  
-   - UK Apple Support: 0800 107 6285.
-   - Google Photos Help: Use the "Help & Feedback" section in the app.
+6. **Capture evidence before it scrolls away.**
+   - Screenshot: the **“No SIM”** message, the **date/time**, and any **provider emails/texts** about SIM changes/ports.
 
-7. **Report suspected account compromise to the correct authorities.**  
-   **If you believe your account was accessed by an unauthorised person who deleted your data, secure your login immediately.**  
-   - Change your password and enable two-factor authentication (2FA).
-   - In England, Wales, and Northern Ireland: Report to the **Report Fraud** service at reportfraud.police.uk or call 0300 123 2040.
-   - In Scotland: Contact **Police Scotland** by calling 101.
+7. **If you believe it’s fraud or accounts/money are affected, report it.**
+   - **England/Wales/Northern Ireland:** report to **Action Fraud (Report Fraud)**.
+   - **Scotland:** report to **Police Scotland via 101** (or 999 in an emergency).
+   - If you’ve clicked a suspicious link or handed over details, also report the phishing to the relevant **GOV.UK** reporting channel and change passwords promptly.
 
 ## What can wait
-- You do not need to buy a new device or more storage immediately; wait until you have verified the location of the originals.
-- You do not need to manually re-organise albums or folders while the library is still "optimising."
-- You do not need to decide on a different cloud provider today.
+- You do **not** need to decide today whether to change phone, change provider, or take formal legal action.
+- You do **not** need to wipe your phone or reinstall everything unless troubleshooting confirms it’s a device/hardware issue.
+- You can postpone a full review of every online account until your number is stable again.
 
 ## Important reassurance
-Seeing "optimising" or blurry thumbnails is a standard operational state for modern cloud-based photo libraries. It typically occurs after a software update, a new device sign-in, or when your device is managing limited storage space. In the vast majority of cases, the full-resolution files remain safe in the cloud and will reappear once the device is given enough time, power, and bandwidth to complete the indexing process.
+A “No SIM” message is often a straightforward SIM/tray/network issue. But sudden loss of your number can also be how SIM-swap or porting fraud starts. Acting quickly and calmly (especially contacting your provider from another phone) is the most protective step.
 
 ## Scope note
-This guide provides first-step stabilization to prevent data loss and verify the status of a digital photo library. It does not cover professional data recovery from damaged hardware or long-term digital archiving strategies.
+These are first steps to restore service and reduce immediate risk. If fraud is confirmed, you may need follow-up steps with your provider, bank, and key accounts, but you don’t need to solve everything in the next hour.
 
 ## Important note
-This information is for general guidance and is not a guarantee of data recovery. Digital syncing processes involve complex interactions between hardware and cloud servers; if you are unsure of a prompt, do not select "Delete" or "Remove" until you have spoken with an official support representative.
+This is general, practical information — not legal, financial, or professional technical advice. If you feel unsafe, are being threatened, or there’s active financial loss, treat it as urgent and get help immediately.
 
 ## Additional Resources
 - https://support.apple.com/en-gb/108914
-- https://ee.co.uk/help/mobile/getting-started/sim/new-sim-or-sim-swap-not-working
-- https://www.o2.co.uk/help/phones-and-devices/sims-and-numbers/activating-your-sim
-- https://www.vodafone.co.uk/newscentre/features/how-to-protect-yourself-from-sim-swap-fraud/
-- https://www.which.co.uk/news/article/sim-swap-fraud-doubles-year-on-year-how-scammers-steal-your-phone-number-aB0TF1O6hUrv
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.reportfraud.police.uk/
+- https://www.gov.uk/government/publications/joint-fraud-taskforce-telecommunications-charter/fraud-sector-charter-telecommunications-accessible-version
+- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages

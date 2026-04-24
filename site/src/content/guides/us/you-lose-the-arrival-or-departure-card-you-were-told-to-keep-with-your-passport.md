@@ -1,93 +1,83 @@
----
+﻿---
 title: "What to do if… you lose the arrival or departure card you were told to keep with your passport"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "lost arrival card"
-  - "lost departure card"
-  - "missing immigration card"
-  - "i-94 lost"
-  - "paper i-94 missing"
-  - "i-94 not found"
-  - "nonimmigrant arrival departure record"
-  - "entry record missing"
-  - "departure record missing"
-  - "replacement i-94"
-  - "form i-102 replacement"
-  - "cbp i-94 website"
-  - "get most recent i-94"
-  - "travel history record"
-  - "admission record incorrect"
-  - "wrong class of admission"
-  - "leaving usa without i-94"
-  - "cbp deferred inspection"
-  - "passport insert lost"
-  - "immigration document lost"
-  - "status proof missing"
-  - "what do i do if i lost my i-94"
-  - "what do i do if my arrival card is gone"
-  - "help i lost my departure card"
-  - "help i lost my i-94 slip"
-  - "my passport paper is missing"
-  - "my immigration slip is lost"
-  - "lost white card passport"
-  - "i94 correction 2026"
-  - "cbp one app i-94"
-  - "lost visa waiver card"
-  - "admission stamp missing"
-  - "lost paper i-94 land border"
-  - "lost arrival departure record"
-last_reviewed: "2026-03-17"
+  - lost arrival card
+  - lost departure card
+  - missing immigration card
+  - i-94 lost
+  - paper i-94 missing
+  - i-94 not found
+  - nonimmigrant arrival departure record
+  - entry record missing
+  - departure record missing
+  - replacement i-94
+  - form i-102 replacement
+  - cbp i-94 website
+  - get most recent i-94
+  - travel history record
+  - admission record incorrect
+  - wrong class of admission
+  - leaving usa without i-94
+  - cbp deferred inspection
+  - passport insert lost
+  - immigration document lost
+  - status proof missing
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you lose the arrival or departure card you were told to keep with your passport (USA)
 
 ## Short answer
-Access the official Customs and Border Protection (CBP) I-94 website or the CBP One mobile app to retrieve an electronic copy of your record. If you require a replacement for a physical card that cannot be retrieved online, you must file Form I-102 with USCIS and pay the required filing fee.
+First confirm whether your arrival/departure record is electronic (common for air/sea entries); if you were issued a paper record (often a paper Form I-94), start the official replacement/correction route promptly so you can prove lawful admission and avoid travel or filing problems.
 
 ## Do not do these things
-- Do not assume the record is permanently lost; most modern entries are recorded electronically and can be printed at any time.
-- Do not leave the U.S. via a land border without resolving a missing paper I-94, as you must surrender it to record your departure.
-- Do not pay third-party websites to "retrieve" your record; the official CBP service is free.
-- Do not ignore errors on an electronic record, such as an incorrect "Admit Until" date or visa class.
-- Do not file a paid Form I-102 before checking if your record is available for free on the CBP portal.
+- Do not assume it “doesn’t matter” if you were told to keep it.
+- Do not pay unofficial “fixers” to create paperwork or stamps.
+- Do not file paid applications until you’ve tried the official CBP I-94 retrieval steps.
+- Do not ignore errors (wrong name, date, or class of admission) even if you can retrieve a record.
+- Do not rely on the airline to resolve an immigration record issue at check-in.
 
 ## What to do now
-1. **Verify the type of record you were issued based on your entry method.**
-   - Most air and sea travelers are issued electronic I-94s and do not receive a paper card.
-   - Land border travelers may have received a physical paper card or a digital record depending on the specific port of entry and date.
-2. **Access the official CBP I-94 portal or CBP One app immediately.**
-   - Visit the official website at i94.cbp.dhs.gov or use the CBP One mobile application.
-   - Select "Get Most Recent I-94" and enter your passport details exactly as they appear on your travel document.
-3. **Attempt troubleshooting variations if the record is "Not Found."**
-   - Enter your name exactly as it appears in the Machine Readable Zone (the bottom lines) of your passport.
-   - Try entering your name with and without hyphens or middle names if you have multiple names.
-   - Use your previous passport number if you recently renewed your passport but traveled on the old one.
-4. **Download and print the electronic record if located.**
-   - Save a PDF copy and print multiple physical copies to keep with your passport and in a separate secure location.
-5. **Contact a CBP Deferred Inspection Site for clerical errors.**
-   - If the record is found but contains an error (wrong name, wrong visa class, or wrong expiration date), contact a Deferred Inspection office.
-   - Many sites now accept correction requests via email; you will typically need to provide a scan of your passport biographic page, visa, and admission stamp.
-6. **File Form I-102 if a physical replacement is strictly required.**
-   - Use Form I-102 (Application for Replacement / Initial Nonimmigrant Arrival-Departure Document) only if you had a paper I-94 that is lost and cannot be retrieved via the CBP website.
-   - Be prepared to pay the current USCIS filing fee (approximately $490-$560 depending on the current 2026 fee schedule).
+1. **Work out what you lost**:
+   - If you entered the U.S. by air or sea, your I-94 is often **electronic** (you can retrieve/print it).
+   - If you had a **small paper card/slip** in your passport, treat it as a paper I-94 that may need replacement if lost.
+2. **Retrieve your record from CBP and save it**:
+   - Use the official CBP I-94 site to **Get Most Recent I-94** and save a PDF/screenshot for your records.
+3. **If your I-94 is “Not Found” online**, follow CBP’s troubleshooting approach:
+   - Re-enter details exactly as on the passport and try common formatting variations.
+   - If it still won’t retrieve, CBP notes that further steps may be needed (for example help from CBP, and in some cases a records request).
+4. **If the record is missing or incorrect (especially class/date)**, **contact CBP for correction**:
+   - Use a CBP **Deferred Inspection Site** or the **Port of Entry** where you were admitted to request correction of the admission record.
+   - Do this early if you have an upcoming filing deadline, employment/DMV needs, or travel.
+5. **If you were issued a paper I-94 and it’s lost or stolen**, use the official replacement process:
+   - USCIS **Form I-102** is used to request a replacement/initial nonimmigrant arrival-departure document when appropriate.
+6. **Build a simple evidence pack** (helps with CBP/USCIS and time pressure):
+   - passport ID page
+   - admission stamp (if any)
+   - visa page (if applicable)
+   - flight itinerary/boarding pass and arrival details
+7. **If your passport or visa is also missing**, prioritise replacing the missing identity/travel document as a separate urgent track (because travel becomes the immediate risk).
 
 ## What can wait
-- You do not need to report the loss to your home country's embassy unless your passport is also missing.
-- You do not need to cancel travel plans for the same day unless you are departing via a land border and cannot verify your departure.
-- You do not need to apply for a new visa if only the arrival record (I-94) is lost; the I-94 is a record of admission, not the visa itself.
+- You do not need to change travel plans immediately unless an official process tells you to.
+- You do not need to “solve it” in one sitting—your first goal is to retrieve/print the official record, then use CBP correction or USCIS replacement only if needed.
+- You do not need to contact multiple agencies at once; start with CBP retrieval/correction.
 
 ## Important reassurance
-Losing the physical slip of paper is a common occurrence and, for the majority of travelers, the record is safely stored in the CBP electronic database. Finding and printing the record online is usually a standard procedure that takes only a few minutes.
+Many travelers no longer receive a physical “arrival/departure card” because records are often electronic. In a lot of cases, the fix is simply retrieving and printing the official I-94. When a paper record is involved, there is an established replacement process.
 
 ## Scope note
-This guide provides first-step stabilization for a missing Form I-94 (Arrival / Departure Record) in the United States. It does not cover lost passports, stolen visas, or long-term immigration litigation.
+This is first-step guidance to stabilise the situation and protect your ability to prove lawful admission/status. If you have tight deadlines or a complex history, get qualified legal help after you’ve secured the basic record/replacement path.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Immigration regulations and fees are subject to change. Always refer to the official CBP and USCIS websites for the most current forms and procedures.
+This is general information, not legal advice. Immigration rules and processes can change, and the correct step depends on your entry type and status. Use official CBP/USCIS instructions and keep copies of everything you retrieve or submit.
 
 ## Additional Resources
-- https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/lost-stolen-visas.html
+- https://i94.cbp.dhs.gov/
+- https://i94.cbp.dhs.gov/help
+- https://www.cbp.gov/travel/international-visitors/i-94
+- https://www.help.cbp.gov/s/article/Article-1332?language=en_US
 - https://www.uscis.gov/i-102
-- https://www.cbp.gov/about/contact/ports/deferred-inspection-sites
-- https://www.cbp.gov/site-policy-notices/foia/records
-- https://www.cbp.gov/newsroom/spotlights/arrivaldeparture-history-now-available-i-94-webpage
+- https://www.uscis.gov/forms/all-forms/form-i-94-arrivaldeparture-record-information-for-completing-uscis-forms

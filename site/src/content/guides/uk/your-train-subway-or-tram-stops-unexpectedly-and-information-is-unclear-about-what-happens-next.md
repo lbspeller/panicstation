@@ -1,87 +1,75 @@
----
+﻿---
 title: "What to do if… your train, subway, or tram stops unexpectedly and information is unclear about what happens next"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "train stopped unexpectedly"
-  - "tube stuck between stations"
-  - "tram stopped on track"
-  - "subway stopped in tunnel"
-  - "stranded on public transport"
-  - "no announcements on train"
-  - "unclear delay information"
-  - "passenger alarm on train"
-  - "passenger intercom help"
-  - "help point on platform"
-  - "emergency door release panel"
-  - "do not self evacuate tracks"
-  - "signal failure delay"
-  - "power outage on train"
-  - "doors not opening"
-  - "overheated carriage"
-  - "crowded carriage anxiety"
-  - "feeling unsafe on train"
-  - "medical issue while stuck"
-  - "evacuation instructions unclear"
-  - "smell of burning on train"
-  - "lights flickering on subway"
-  - "train intercom not working"
-  - "what do i do if my train stops in a tunnel"
-  - "what do i do if the tube stops between stations"
-  - "what do i do if i am stranded on a train"
-  - "help i am stuck on a train"
-  - "help the tram stopped and doors wont open"
-  - "my train is stuck and no one is talking"
-  - "my carriage is getting too hot"
-  - "third rail danger"
-  - "overhead line safety"
-  - "see it say it sorted"
-  - "british transport police 61016"
-last_reviewed: "2026-03-17"
+  - train stopped unexpectedly
+  - tube stuck between stations
+  - tram stopped on track
+  - subway stopped in tunnel
+  - stranded on public transport
+  - no announcements on train
+  - unclear delay information
+  - passenger alarm on train
+  - passenger intercom help
+  - help point on platform
+  - emergency door release panel
+  - do not self evacuate tracks
+  - signal failure delay
+  - power outage on train
+  - doors not opening
+  - overheated carriage
+  - crowded carriage anxiety
+  - feeling unsafe on train
+  - medical issue while stuck
+  - evacuation instructions unclear
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… your train, subway, or tram stops unexpectedly and information is unclear about what happens next (UK)
 
 ## Short answer
-Stay inside the vehicle and wait for staff instructions unless there is an immediate life-safety threat like fire or smoke. If you need urgent medical or security assistance, use the onboard intercom or help point to contact the driver or control centre.
+Stay on board and wait for staff instructions unless there is an immediate danger (fire/smoke/violence/medical emergency). If you need urgent help, use the onboard passenger alarm/intercom/help point to contact the driver/crew.
 
 ## Do not do these things
-- Do not exit the vehicle onto the tracks unless specifically instructed to do so by uniformed staff or emergency services.
-- Do not touch the tracks, the "third rail" (power rail), or any dangling overhead wires, as these may remain live and fatal even if trains are stopped.
-- Do not use the emergency door release or force doors open unless there is an immediate threat to life inside the carriage.
-- Do not activate the emergency alarm (red handle/button) solely to ask for travel updates; this may cause the train to brake sharply or stop in a tunnel, making help harder to reach.
-- Do not attempt to walk to the nearest station independently; other trains may still be moving on adjacent tracks.
+- Do not leave the train/tram or go onto the tracks unless staff tell you to evacuate.
+- Do not force doors open or use emergency door releases unless there is an immediate safety need and you have no other way to get help.
+- Do not activate passenger alarms just to “get an update” — use them for safety, medical, or security concerns.
+- Do not move along the track/tunnel even if it looks quiet — other trains may still move, and power risks may exist.
+- Do not assume silence means “safe to get off” — staff may be making the line safe before giving instructions.
 
 ## What to do now
-1. **Identify the specific type of help needed (10 seconds).**  
-   **Determine if there is a "threat to life" (fire, smoke, violence, medical collapse) or a "disruption" (stopped without explanation).** If it is a disruption only, remain in your seat or standing area and wait for an announcement.
-2. **Use the internal intercom for urgent non-emergency issues.**  
-   **Locate the passenger intercom or "Pass Comm" unit, usually found near the doors or at the ends of the carriage.** Press the button once to alert the driver or guard to medical needs or safety concerns; avoid holding the button down, which can block communication.
-3. **Contact the British Transport Police for security concerns.**  
-   **If you feel unsafe or witness a crime, text the British Transport Police on 61016 or call 0800 40 50 40.** Use the phrase "See it. Say it. Sorted." to report your location, car number, and the nature of the issue. In a life-threatening emergency, call **999**.
-4. **Identify your exact location and vehicle details.**  
-   **Find the vehicle identification number, usually printed on a small plate near the carriage ends or above the internal doors.** Note the line name, the direction of travel, and the name of the last station you departed to help responders locate you.
-5. **Manage the internal environment in crowded conditions.**  
-   **If the carriage is overheating or overcrowded, ask passengers to move away from the doors to allow air circulation if vents are present.** If you feel faint, sit on the floor immediately to avoid falling and alert others nearby.
-6. **Follow evacuation protocols exactly if they are initiated.**  
-   **Listen for specific instructions regarding which side of the train to exit and whether to walk "forward" or "rearward" along the tracks.** Leave all heavy luggage behind to ensure you and others can move quickly and safely through narrow exits or onto track ballast.
+1. **Check for actual danger first (10 seconds).**  
+   Look/smell for smoke or burning, listen for shouting/violence, and notice if anyone is collapsing or struggling to breathe. If none of that is happening, treat it as a disruption and **stay put**.
+2. **Get the right kind of help (crew first; emergency only if truly urgent).**  
+   - If someone is unwell, you feel unsafe, or you see smoke/violence: **use the onboard passenger alarm/intercom/help point** to speak to staff.  
+   - If there is immediate threat to life: call **999** (or **112**) if you can safely do so.
+3. **Make yourself easy to locate.**  
+   Note your **line/service**, **direction**, the **last station/stop you left**, and any visible **car/vehicle number** (often inside signage or on carriage ends). If you have data, check the operator’s official **service status** for confirmation — but don’t treat it as minute-by-minute certainty.
+4. **Reduce “crowd squeeze” risk inside the carriage.**  
+   If it’s crowded or hot, calmly ask people to **step back from the doors** and **leave space** near any intercom/alarm panels so staff can manage the situation. Sit down if you feel faint.
+5. **If you’re travelling alone or feel unsafe, quietly create options.**  
+   Move closer to **other passengers** and nearer an **intercom/help point** (without blocking it). If you need police help on the rail network and it isn’t an emergency, contact **British Transport Police**: call **0800 40 50 40** or text **61016** when safe.
+6. **If an evacuation is announced, follow it exactly.**  
+   Staff may need trains stopped and power risks managed before anyone steps down. Listen for: **which door/side to use**, **where to walk**, and **what to leave behind**. Take bags only if told it’s safe and they won’t slow you or others.
 
 ## What can wait
-- You do not need to calculate refund eligibility or "Delay Repay" claims while the vehicle is still stationary.
-- You do not need to find an alternative route or book taxis until you have reached a station and confirmed the line is closed.
-- You do not need to keep your mobile screen on for updates; conserve battery in case you need to make an emergency call later.
+- You do not need to decide right now how you’ll reroute, claim a refund, or complain.
+- You do not need to keep chasing rumours — conserve battery and attention.
+- You do not need to contact everyone immediately; one short message (“stopped, unclear delay, will update”) is enough.
 
 ## Important reassurance
-Unexpected stops are a standard safety feature of the UK rail and tube network, often triggered automatically by signaling systems to prevent collisions. Silence from the driver usually means they are currently speaking to "Signalling Control" to get permission to move or to understand the fault; it does not mean you have been forgotten.
+Unexpected stops with unclear information are common during signal problems, congestion, or safety checks. Silence often means staff are coordinating permissions and safety steps — staying on board is usually the safest choice.
 
 ## Scope note
-This guide covers first-step stabilization for passengers on a stopped rail vehicle in the UK. It does not cover long-term stranding recovery, compensation law, or technical rail maintenance.
+This is first steps only for the next minutes to hour. Once you’re moving again or safely off the vehicle, you can deal with onward travel, refunds, accessibility support, and reporting.
 
 ## Important note
-This information is for general guidance and does not replace the authority of rail staff or emergency services. Railway environments contain high-voltage electricity and moving hazards that are not always visible. Always prioritize official instructions provided over the public address system or by uniformed personnel.
+This is general safety information, not professional advice. If you believe there is immediate danger, follow staff instructions and contact emergency services. If you feel unsafe on the rail network, you can contact British Transport Police.
 
 ## Additional Resources
-- https://www.nationalrail.co.uk/status-and-disruptions/
-- https://www.nationalrail.co.uk/travel-information/alerts-and-notifications/
-- https://www.nationalrail.co.uk/travel-information/your-rights-and-obligations-as-a-passenger/
-- https://tfl.gov.uk/tube-dlr-overground/status/
-- https://tfl.gov.uk/travel-information/your-safety-and-security/emergency-evacuation
+- https://tfl.gov.uk/travel-information/safety/emergency-evacuation
+- https://www.btp.police.uk/police-forces/british-transport-police/areas/campaigns/61016-text-service/
+- https://www.btp.police.uk/contact/af/contact-us/
+- https://www.networkrail.co.uk/who-we-are/safety-in-the-community/railway-safety-campaigns/always-on/
+- https://www.youvstrain.co.uk/

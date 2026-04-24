@@ -1,88 +1,73 @@
----
+﻿---
 title: "What to do if… someone repeatedly offers to “help you sober up” in a private place and it feels wrong"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "what do i do if someone offers to help me sober up"
-  - "what do i do if i feel unsafe on a date"
-  - "what do i do if someone is pressuring me to go home"
-  - "what do i do if i think my drink was spiked"
-  - "help i feel unsafe with someone at a bar"
-  - "help i am being pressured to go to a private place"
-  - "help i think someone is following me in a club"
-  - "help i need to get away from someone safely"
-  - "my date is making me feel uncomfortable"
-  - "my friend is trying to take me somewhere private"
-  - "someone is offering me a place to lie down"
-  - "unsafe vibe on a night out"
-  - "suspicious help offer"
-  - "unwanted sexual pressure"
-  - "coercion red flags"
-  - "bar club safety"
-  - "spiking concern"
-  - "ask for angela uk"
-  - "sober up offer"
-  - "private place pressure"
-  - "feeling unsafe with a stranger"
-  - "feeling unsafe with an acquaintance"
-  - "discreet help at a venue"
-  - "safety in a public house"
-  - "nightlife safety protocols"
-  - "getting separated from friends"
-  - "uncomfortable boundary pushing"
-  - "emergency exit strategy"
-  - "licensed taxi safety"
-  - "safeguarding on a night out"
-last_reviewed: "2026-03-17"
+  - help you sober up
+  - offered a private place
+  - pressured to go somewhere alone
+  - feels wrong with someone
+  - unsafe vibe on a night out
+  - suspicious “help” offer
+  - someone insisting to take you home
+  - unwanted sexual pressure
+  - consent feels unclear
+  - worried about being drugged
+  - spiking concern
+  - coercion red flags
+  - bar club safety
+  - first date feels unsafe
+  - stranger getting too close
+  - friend left me alone
+  - getting separated from friends
+  - uncomfortable boundary pushing
+  - fear of assault
+last_reviewed: "2026-03-13"
 ---
-# What to do if… someone repeatedly offers to “help you sober up” in a private place and it feels wrong (UK)
 
+# What to do if… someone repeatedly offers to “help you sober up” in a private place and it feels wrong (UK)
 ## Short answer
-Move immediately to a public, well-lit area with other people present and notify staff or security—do not go anywhere private with the person, regardless of their stated intentions.
+Trust the “wrong” feeling. Get to a more public place and involve other people (staff, friends, security) right now—do not go anywhere private with them.
 
 ## Do not do these things
-- Do not go to a car, a private room, a quiet side street, or any secluded "place to lie down" with them.
-- Do not accept any items they offer, such as water, gum, vapes, or tablets, even if they appear helpful.
-- Do not leave your personal belongings, such as your phone, bag, or drink, unattended or in their possession.
-- Do not feel obligated to explain your discomfort or argue; use short, neutral phrases to decline their offers.
-- Do not worry about "causing a scene" or being impolite; your physical safety is the priority.
+- Do not go to a private room, car, quiet street, or “somewhere to lie down” with them, even if they sound caring.
+- Do not accept a drink, water, vape, gum, “vitamins,” or anything they hand you (or leave unattended).
+- Do not let them “hold” your phone, bag, keys, or coat “to help you.”
+- Do not argue or explain. You don’t owe them reasons—short, boring phrases are enough (“No thanks.” “I’m meeting someone.”).
+- Do not split from the people who feel safest to you to avoid “making a scene.”
 
 ## What to do now
-1. **Relocate to a public space immediately.** Move to an area with high visibility and staff presence, such as the bar counter, a security post, or a busy reception desk.
-2. **Alert venue staff using "Ask for Angela" if available.** Approach a staff member and ask for "Angela."
-   - This code indicates to trained staff that you feel unsafe and need assistance.
-   - If staff are unfamiliar with the code, state clearly: "I do not feel safe with this person. Please help me get away from them."
-3. **Request a secure exit or transport.** Ask staff to call a licensed taxi for you or to wait with you in a secure area until your transport arrives.
-   - Ensure the taxi is from a reputable, licensed firm.
-   - Ask staff to note the vehicle's registration number or walk you to the car.
-4. **Use the "Silent Solution" if you cannot speak safely on a 999 call.** If you are in immediate danger but cannot speak, dial 999 and then press 55 when prompted.
-   - This alerts the operator that it is a genuine emergency and you cannot talk.
-5. **Contact a trusted person and share your location.** Call or text someone you trust with your exact location and the name of the venue.
-   - Use "Live Location" sharing features on your smartphone if possible.
-   - Ask them to stay on the line with you until you are in a safe, locked environment.
-6. **Seek medical assessment if you feel unexpectedly unwell.** If you suspect you have been spiked or feel more intoxicated than your intake suggests, call 111 (or 999 if symptoms are severe).
-   - In England, use 111.nhs.uk; in Scotland, contact NHS 24 (111); in Wales, use NHS 111 Wales.
-7. **Contact specialist support for confidential advice.** If you are in England or Wales and aged 16+, call the Rape Crisis 24/7 Support Line on 0808 500 2222.
-   - This service provides confidential support without requiring you to report the incident to the police.
+1. **Move your body to safety first.** Step into a brighter, busier area (bar counter, staff desk, reception, shop, well-lit foyer). If you can, stand near a group—anywhere public is better than anywhere private.
+2. **Get staff involved immediately.** Approach venue staff/security and say plainly: “I don’t feel safe with that person. Please keep them away from me.”  
+   - If you’re in a *participating* venue, you can also **ask staff for “Angela”** to discreetly signal you need help. If they look confused, switch straight back to the plain sentence above.
+3. **Create a quick, practical exit.** Ask staff to: call you a licensed taxi, walk you to your transport, or let you wait in a staff area. If you’re outside, go into the nearest staffed place (hotel lobby, late shop) and ask them to help you call someone.
+4. **Contact one safe person with specifics.** Text/call someone you trust: “I feel unsafe. Please stay on the phone. I’m at [venue/address]. Can you come / book me a taxi / track my trip?” If you can, share live location.
+5. **If you feel in immediate danger, call 999.** If it’s not an emergency but you need police help/advice, call **101**.  
+   If you feel suddenly very unwell, confused, or “too intoxicated for what you had,” get medical help: **999** if severe/worsening, or **111** for urgent medical advice (111 online is England-only).
+6. **Get specialist support without committing to reporting.** If you’re in **England or Wales** and **aged 16+**, you can contact **Rape Crisis England & Wales’ free 24/7 Support Line** for confidential support.  
+   If you’re elsewhere in the UK or under 16, you can still ask **111** (or urgent care services) for local sexual assault support options, or ask venue staff/security to help you contact local services.
+7. **If you might want to report later (optional):** try to avoid deleting messages. If you think you may want medical/forensic options, avoid showering/changing clothes until you’ve had a chance to get advice—only if that feels manageable and safe.
 
 ## What can wait
-- You do not need to decide tonight if a crime was intended or if the person's behavior "counts" as a threat.
-- You do not need to gather evidence or confront the individual.
-- You do not need to make a formal police report immediately unless you are in active danger.
-- You do not need to apologize to the person or your friends for leaving early or seeking help.
+- You do not need to decide right now whether this “counts” or what their intentions were.
+- You do not need to confront them, gather proof, or warn others publicly in the moment.
+- You do not need to make a police report tonight unless you want to or you’re in immediate danger.
+- You do not need to explain anything beyond “I don’t feel safe.”
 
 ## Important reassurance
-If a situation feels wrong, it is enough reason to act. Hesitation or "freezing" are common responses to feeling threatened; they are biological safety mechanisms and not a failure on your part. You have the right to prioritize your safety over social expectations.
+Feeling uncomfortable is enough reason to leave. People often freeze, fawn, or go quiet when something feels threatening—those are normal stress responses, not a failure. You’re allowed to choose safety over politeness.
 
 ## Scope note
-This guide provides first-step stabilization for immediate safety. It does not cover long-term reporting processes, forensic evidence collection, or legal advice.
+This is first steps only, to help you get safe and supported. Later decisions (reporting, medical follow-up, preserving evidence, talking to work/school) can be made after you’re out of the situation and have support.
 
 ## Important note
-This information is for safety guidance only and is not a substitute for professional legal or medical advice. Always call 999 in an emergency.
+This guide is general information, not legal or medical advice. If you are in immediate danger or feel very unwell, seek urgent help right away.
 
 ## Additional Resources
-- https://rapecrisis.org.uk/get-informed/about-sexual-violence/sexual-consent/
-- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://www.askforangela.co.uk/
+- https://www.police.uk/pu/contact-us/
+- https://www.gov.uk/guidance/spiking-advice-and-support
 - https://rapecrisis.org.uk/get-help/want-to-talk/
-- https://rapecrisis.org.uk/get-help/reporting-to-the-police/
-- https://www.victimsupport.org.uk/more-us/why-choose-us/specialist-services/sexual-violence-services/
+- https://247sexualabusesupport.org.uk/
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/

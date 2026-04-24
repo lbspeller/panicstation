@@ -1,113 +1,94 @@
----
+﻿---
 title: "What to do if… someone sends you a screenshot of your home address and demands you do something right now"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "doxxing threat with address"
-  - "home address screenshot"
-  - "blackmail demand now"
-  - "extortion message uk"
-  - "coercion and intimidation"
-  - "online threat to your home"
-  - "harassment with personal details"
-  - "scam urgent payment request"
-  - "pressure to act immediately"
-  - "threatened exposure of address"
-  - "someone knows where i live"
-  - "cyber blackmail"
-  - "anonymous threat message"
-  - "social media threat"
-  - "text message extortion"
-  - "email threat with address"
-  - "fear someone will show up"
-  - "personal information leak"
-  - "address leak doxxed"
-  - "help i am being extorted"
-  - "help someone has my address"
-  - "help i am being blackmailed online"
-  - "help my address was leaked"
-  - "what do i do if someone threatens my home"
-  - "what do i do if i am doxxed"
-  - "what do i do if someone demands money"
-  - "what do i do if someone sent me a screenshot of my house"
-  - "burning smell electronics"
-  - "visible account intrusion"
-  - "unauthorised bank transfer"
-  - "suspicious login notification"
-  - "demand for cryptocurrency"
-  - "threat of physical harm"
-  - "threat of property damage"
-  - "leaked phone number"
-  - "leaked private photos"
-last_reviewed: "2026-03-17"
+  - doxxing threat with address
+  - home address screenshot
+  - blackmail demand now
+  - extortion message
+  - coercion and intimidation
+  - online threat to your home
+  - harassment with personal details
+  - scam urgent payment request
+  - pressure to act immediately
+  - threatened exposure of address
+  - someone knows where i live
+  - cyber blackmail
+  - anonymous threat message
+  - social media threat
+  - text message extortion
+  - email threat with address
+  - fear someone will show up
+  - personal information leak
+  - address leak doxxed
+  - what to do right now
+last_reviewed: "2026-01-17"
 ---
+
 # What to do if… someone sends you a screenshot of your home address and demands you do something right now (UK)
 
 ## Short answer
-Do not comply with any demands or send any money/data. Save evidence of the message, block the sender immediately, and contact the police on 999 if you believe you are in immediate physical danger.
+Pause and don’t comply. Treat it as a threat/scam until proven otherwise, keep evidence, and contact the police immediately if you feel at risk of harm.
 
 ## Do not do these things
-- Don't pay any money, including via bank transfer, cryptocurrency, or gift cards.
-- Don't engage in further conversation or attempt to negotiate with the sender.
-- Don't click any links or download attachments provided in the message.
-- Don't share additional personal details like your workplace, family names, or current location.
-- Don't delete the original message or thread before taking screenshots.
-- Don't post about the incident on social media while it is ongoing.
+- Don’t pay, send codes, gift cards, crypto, or bank transfers “just to make it stop”.
+- Don’t keep negotiating or trying to “reason” with them (it often increases pressure and demands).
+- Don’t click links, install apps, or log in via links they send.
+- Don’t share more personal info (date of birth, workplace, family names, photos that show your home or street, travel plans).
+- Don’t post publicly about it in the moment (it can reveal more details and escalate attention).
+- Don’t go outside to “check for them” alone if you feel spooked—get stable and supported first.
 
 ## What to do now
-1. **Secure your physical surroundings immediately.**
-   - Lock all external doors and windows if you are at home.
-   - Stay inside and away from windows if you feel observed.
-   - Move to a well-lit, populated public area if you are currently outside.
+1. **Get to a safer pause (30–60 seconds).**  
+   If you’re at home, lock the door and stay inside. If you’re out, step into a staffed/public place (shop, café) or near other people. Keep your phone charged.
 
-2. **Contact emergency services if you feel at risk of immediate harm.**
-   - **Call 999** if the sender claims to be at your property or if you see a suspicious person nearby.
-   - **Call 101** if there is no immediate physical threat but you wish to report the blackmail or harassment to the police.
-   - **Text 999** if you have previously registered with the emergency SMS service and cannot speak safely.
+2. **Decide if this is an emergency right now.**  
+   - **Call 999** if you believe there’s immediate risk (they say they’re outside/on the way, threats of violence, you’re being followed, or you feel in danger).  
+   - If it’s not immediate danger but still threatening/harassing, call **101** or use your local force’s official online reporting (many forces offer this) to log it.
 
-3. **Preserve evidence of the threat.**
-   - **Take screenshots of the entire conversation**, including the sender's username, profile handle, phone number, or email address.
-   - **Capture a screenshot of the sender's profile page** or "About" section.
-   - **Record the exact time and date** the message was received and the platform used.
+3. **Preserve evidence before anything disappears.**  
+   Screenshot the full thread (including username/handle, phone number/email, timestamps). Capture the profile page too. Write down what they demanded, any payment details, and where they contacted you.
 
-4. **Isolate the hazard by blocking the sender.**
-   - **Block the account or number** immediately after capturing evidence.
-   - **Use the in-app reporting tools** to flag the message as harassment or extortion.
-   - **Set your social media profiles to private** to prevent the sender from viewing your friends list or further personal information.
+4. **Stop the “live pressure.”**  
+   After saving evidence, **block/mute** and **report** the account/message in the app. If they contact you again from new accounts, don’t engage—save, report, block.
 
-5. **Secure your finances if money was demanded.**
-   - **Call 159** to be connected directly to your bank's fraud department if you have already sent money or shared banking details.
-   - **Report the incident to Report Fraud** (formerly Action Fraud) online or by calling 0300 123 2040 if the threat involves a financial scam.
-   - **Check your banking app** for any unauthorised transactions and freeze your cards if necessary.
+5. **If money was demanded or you already sent anything, contact your bank immediately.**  
+   Use the number on the back of your card or your bank’s official app. Say you’re being extorted/scammed and ask about stopping transfers, securing accounts/cards, and fraud monitoring. If you paid via crypto or gift cards, options may be limited, but it’s still worth reporting and locking down linked accounts.
 
-6. **Report suspicious communications to the relevant UK services.**
-   - **Forward suspicious emails** to report@phishing.gov.uk.
-   - **Forward suspicious text messages** to 7726 (this is a free service).
-   - **Report the incident to The Cyber Helpline** for free, confidential advice on recovering from doxxing and extortion.
+6. **Use the right reporting route for fraud/cyber demands (when relevant).**  
+   If this involves money, “pay now” demands, or other fraud/cyber crime:  
+   - In **England, Wales and Northern Ireland**, report via **Report Fraud**.  
+   - In **Scotland**, report to **Police Scotland** (use **101** for non-emergency).  
+   If you’re unsure which applies, start with **101** for your local police advice.
 
-7. **Verify your account security.**
-   - **Update your primary email password** if the sender claims to have "hacked" you.
-   - **Enable Two-Factor Authentication (2FA)** on all sensitive accounts using an authenticator app rather than SMS if possible.
-   - **Log out of all other active sessions** in your account security settings.
+7. **If it arrived by email, report it safely.**  
+   Don’t reply. Forward the email to the UK suspicious email reporting service, then delete it from your inbox and deleted items.
+
+8. **Do a quick account-safety check (only what’s necessary right now).**  
+   If you clicked anything, or if their message claims they “hacked you”: change your **email password first**, then enable **two-step verification**. Then check your main accounts for unfamiliar logins/devices and sign out of other sessions.
+
+9. **Make a small, practical home-safety plan for tonight.**  
+   Tell anyone you live with what’s happening. Agree: don’t open the door to unexpected callers; keep phones on; if someone turns up, call police rather than engaging. If you have a doorbell camera, enable notifications and keep any footage.
 
 ## What can wait
-- You don't need to determine how the sender obtained your address right now.
-- You don't need to perform a full "digital footprint" cleanup today.
-- You don't need to respond to the sender to "explain" or "defend" yourself.
-- You don't need to tell everyone in your contact list about the incident immediately.
+- You don’t need to figure out exactly **how they got your address** right now.
+- You don’t need to write the perfect report—capture evidence and make initial contact.
+- You don’t need to “fix your whole online presence” tonight.
+- You don’t need to decide whether to confront them, warn contacts, or post about it.
 
 ## Important reassurance
-Seeing your home address used as a threat is highly distressing and often causes an immediate panic response. It is important to know that home addresses are frequently found in public records, old data leaks, or marketing databases. Having your address does not necessarily mean the sender is nearby or has the ability to cause you physical harm. Taking these steps to report and block the sender is the most effective way to regain control.
+Seeing your home address used like this is genuinely frightening. Addresses are often obtained from public records, data-broker sites, leaks, or old accounts—so it doesn’t automatically mean they’re nearby. The safest move is to slow the situation down, preserve evidence, and bring in official support.
 
 ## Scope note
-This guide provides first-step stabilization for an active online threat. It does not replace professional legal advice or a police investigation. Long-term privacy settings and data removal services should be addressed only after the immediate threat is handled.
+These are first steps only—focused on reducing immediate risk and avoiding irreversible mistakes. Later follow-up (privacy clean-up, longer-term safety steps, and ongoing case updates) can happen once the urgent pressure has passed.
 
 ## Important note
-If you are in immediate danger, call 999. This guide is for informational purposes and focuses on harm reduction and evidence preservation. Reporting to the police is the primary method for handling criminal extortion and threats in the UK.
+This is general information, not legal advice. If you feel unsafe or threatened, contact the police urgently. If you’re unsure whether it’s “serious enough,” it’s still okay to report and ask for guidance.
 
 ## Additional Resources
-- https://www.gov.uk/report-crime
-- https://www.gov.uk/report-stalker
-- https://www.victimsupport.org.uk/crime-info/types-crime/stalking-and-harassment/
-- https://www.suzylamplugh.org/how-can-the-helpline-help
-- https://www.suzylamplugh.org/am-i-being-stalked-tool
+- https://www.gov.uk/contact-police
+- https://www.police.uk/pu/contact-us/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
+- https://www.reportfraud.police.uk/
+- https://www.ncsc.gov.uk/collection/phishing-scams

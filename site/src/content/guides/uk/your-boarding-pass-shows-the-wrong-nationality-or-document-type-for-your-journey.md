@@ -1,90 +1,78 @@
----
+﻿---
 title: "What to do if… your boarding pass shows the wrong nationality or document type for your journey"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "boarding pass wrong nationality"
-  - "boarding pass wrong document type"
-  - "incorrect passport details on flight"
-  - "help i put wrong nationality on boarding pass"
-  - "my boarding pass has wrong passport number"
-  - "uk travel document error"
-  - "airline check-in nationality mistake"
-  - "advance passenger information error"
-  - "api details incorrect"
-  - "digital permission to travel mismatch"
-  - "eta passport number wrong"
-  - "evisa ukvi account mismatch"
-  - "passport details entered wrong"
-  - "dual nationality flight document error"
-  - "wrong passport selected at check-in"
-  - "online check-in error documents"
-  - "passport number expiry wrong booking"
-  - "self check-in kiosk document error"
-  - "gate agent document mismatch"
-  - "denied boarding uk visa error"
-  - "travel docs not matching boarding pass"
-  - "no permission no travel error"
-  - "wrong nationality on airplane ticket"
-  - "update ukvi account before flight"
-  - "airline api error correction"
-  - "traveling with wrong document type"
-  - "passport error on boarding pass"
-  - "nationality mismatch at airport"
-  - "api data correction ryanair"
-  - "british airways api update"
-  - "easyjet document type change"
-  - "wrong nationality boarding pass"
-  - "document type passport error"
-  - "boarding pass error uk"
-  - "ukvi passport update help"
-last_reviewed: "2026-03-17"
+  - boarding pass wrong nationality
+  - boarding pass wrong document type
+  - travel document type passport error
+  - airline check-in nationality mistake
+  - advance passenger information wrong
+  - api details incorrect flight
+  - passport details entered wrong
+  - dual nationality which passport
+  - wrong passport selected at check-in
+  - online check-in error documents
+  - evisa ukvi account mismatch
+  - passport number expiry wrong booking
+  - self check-in kiosk document error
+  - gate agent document mismatch
+  - risk denied boarding documents
+  - travel docs not matching boarding pass
+  - name matches but nationality wrong
+  - travel to uk evisa update
+  - travel document registration airline
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… your boarding pass shows the wrong nationality or document type for your journey (UK)
 
 ## Short answer
-Take your correct physical travel document to a staffed airline check-in or bag drop desk immediately to have your Advance Passenger Information (API) refreshed and your digital permission to travel (PTT) verified.
+Don’t panic and don’t rebook. Take your correct travel document(s) to the airline’s staffed check-in desk (or bag drop) as early as you can and ask them to correct/refresh your passenger travel-document details (API) in their system.
 
 ## Do not do these things
-- Do not attempt to board with a mismatch between your boarding pass and your physical document, as automated 2026 "No Permission, No Travel" checks will likely trigger a boarding rejection.
-- Do not enter false information to bypass online check-in forms or "fix" the error yourself if the system is locked.
-- Do not assume a visual check by security will suffice; airlines now face significant fines for carrying passengers with incorrect digital records.
-- Do not delay going to the airport; manual data correction at the desk takes longer than standard check-in.
-- Do not rebook or cancel the flight until an airline supervisor confirms the record cannot be amended.
+- Don’t assume “it’s fine” if the airline’s passenger data/API has the wrong passport/nationality — airlines can refuse boarding if their checks don’t match the destination’s rules.
+- Don’t enter random details just to “get a boarding pass” (for example, picking a different nationality or document type to bypass a form).
+- Don’t rely on the boarding pass text as proof of what document you’ll use — airline staff and border officers rely on your actual document and the airline’s passenger data record.
+- Don’t cancel and rebook in a rush unless the airline explicitly tells you the booking cannot be fixed.
+- Don’t hand your passport to anyone except official airline staff/security/border officers.
 
 ## What to do now
-1. **Locate a staffed airline assistance or bag drop desk.** If you have already checked in online, you must still visit a desk to have an agent manually override the incorrect API data and re-link your correct document to your booking.
-2. **Identify the specific data mismatch for the agent.** Clearly state which field is incorrect:
-   - Nationality
-   - Document type (e.g. Passport vs. Identity Card)
-   - Document number or expiry date
-   - Full name (including middle names)
-3. **Present the document you intend to use for the entire journey.** If you are a dual national, you must present the specific passport that matches your visa, eVisa, or Electronic Travel Authorisation (ETA).
-4. **Request a "Document Check" or "API Refresh."** Ask the agent to ensure your details match the Home Office "Border Crossing" system to generate a "Permission to Travel" (PTT) status.
-5. **Verify your UKVI account if traveling on an eVisa.** If the error is on your digital status rather than the airline record:
-   - Log in to the "Update your UK Visas and Immigration account" service.
-   - Confirm your current passport number is linked.
-   - Keep the confirmation screen visible for the airline agent.
-6. **Apply for a new ETA if your passport number has changed.** If you hold an ETA but are traveling on a different passport than the one used for the application, the old ETA is invalid; you must submit a new application before the airline can clear you for boarding.
-7. **Obtain a printed boarding pass from the agent.** Once corrected, ensure the agent prints a new pass or pushes a refreshed digital version to your app that reflects the updated document data.
+1. **Stop further edits and take screenshots.** Save a screenshot of the boarding pass and any “passenger details / travel document” page showing the incorrect nationality/document type. This helps you explain the problem quickly at the desk.
+2. **Check what’s actually wrong (so you ask for the right fix).** Is it:
+   - nationality only,
+   - document type (e.g., “passport” vs “national ID”),
+   - passport number/expiry date,
+   - or the *wrong passport entirely* if you hold more than one?
+3. **Go to a staffed airline desk early (even if you already checked in).** Tell them: “My boarding pass shows the wrong nationality/document type. Please update my travel document details / API and reissue the boarding pass.”  
+   - If you’re at a self-service airport, look for “Assistance / Document check / Visa check” or an agent at bag drop.
+4. **Bring the right documents for your specific trip.** Have ready:
+   - the passport you will travel on,
+   - any visa/permit proof you need for the destination (if applicable),
+   - and anything you rely on to show your UK status for travel (if applicable).
+5. **If you travel using an eVisa/online UK status, make sure your UKVI account matches your current passport.** If your passport/travel document details in your UKVI account are out of date, update them as soon as you can and keep the confirmation evidence.
+6. **If the airline says it can’t be changed online after check-in, accept the desk fix.** Many airlines restrict changes once you’ve checked in; an airport agent can usually update the record and reprint/reissue the pass.
+7. **If you’re transiting, repeat the check at the first staffed point.** If you have a connection on a separate ticket or a low-cost carrier, you may need each carrier to register the correct document details for their own flight.
 
 ## What can wait
-- You do not need to update your long-term airline frequent flyer profile during the crisis.
-- You do not need to contact the Home Office if the error is purely a typo made during the airline check-in process.
-- You do not need to worry about future travel history; a one-time API correction at the desk does not negatively impact your immigration record.
+- You do not need to decide right now whether to complain, request compensation, or change future profile settings.
+- You do not need to “fix” your whole travel account — you just need the airline’s passenger record for *this journey* to match your real document.
+- You do not need to print new documents at home if the airline can reissue the boarding pass at the airport.
 
 ## Important reassurance
-Document data errors are one of the most frequent issues handled by airport ground staff. Provided you have a valid physical document and the necessary legal right to enter your destination, airline agents can usually resolve the system mismatch within a few minutes at the desk.
+This is a common check-in data problem, and it’s usually fixable at the airport by an agent refreshing your travel document details and reissuing the boarding pass. The key is to deal with it early, calmly, with your correct passport in hand.
 
 ## Scope note
-This guide provides first-step stabilization for correcting airline passenger data records at the airport. It does not cover legal appeals for visa denials or long-term immigration status issues.
+This guide covers first steps to prevent denial of boarding and reduce stress. Rules vary by destination and airline, and complex cases (visas, residency permits, dual nationality, one-way travel) may need airline or official advice.
 
 ## Important note
-Airlines are legally required to verify your digital permission to travel under 2026 enforcement rules. If your digital record (ETA or eVisa) does not match your passport, the airline may be barred from allowing you to board regardless of your physical documentation.
+This is general information, not legal or immigration advice. If you’re unsure which passport or permission you should use for a specific country, use authoritative travel-document requirement tools and the airline’s official support channels, and allow extra time at the airport.
 
 ## Additional Resources
-- https://www.gov.uk/evisa/update-ukvi-account
+- https://www.iata.org/en/services/compliance/timatic/travel-documentation/
+- https://www.iata.org/en/services/compliance/timatic/
+- https://www.nidirect.gov.uk/articles/advance-passenger-information-you-travel
 - https://www.gov.uk/evisa/travel-with-evisa
-- https://www.gov.uk/evisa/report-error-evisa
+- https://www.gov.uk/evisa/update-ukvi-account
+- https://www.britishairways.com/en-gb/information/passports-visas-and-api
 - https://help.ryanair.com/hc/en-gb/articles/12890631584401-I-have-checked-in-can-I-change-my-travel-documents
-- https://www.caa.co.uk/passengers-and-public/resolving-travel-problems/delays-and-cancellations/denied-boarding/

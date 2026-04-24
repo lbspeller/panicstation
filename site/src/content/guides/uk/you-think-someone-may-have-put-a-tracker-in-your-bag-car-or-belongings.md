@@ -1,100 +1,80 @@
----
+﻿---
 title: "What to do if… you think someone may have put a tracker in your bag, car, or belongings"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "tracker in my bag"
-  - "tracker in my car"
-  - "tracker in my belongings"
-  - "hidden tracker on vehicle"
-  - "airtag following me"
-  - "unknown airtag alert"
-  - "unknown tracker alert"
-  - "bluetooth tracker stalking"
-  - "gps tracker on car"
-  - "being tracked without consent"
-  - "suspected stalking tracker"
-  - "unwanted location tracking"
-  - "tracker tag in purse"
-  - "tracker tag in backpack"
-  - "tracker in luggage"
-  - "tracker in coat pocket"
-  - "car being followed by tracker"
-  - "find my item moving with you"
-  - "what do i do if i find a tracker"
-  - "what do i do if im being followed by a tracker"
-  - "what do i do if my car has a gps"
-  - "what do i do if someone is tracking my movements"
-  - "help i found a tracker in my bag"
-  - "help i think im being tracked"
-  - "help my phone says a tracker is with me"
-  - "help someone put a tracker on my car"
-  - "smell of electronics in car"
-  - "unusual battery drain car"
-  - "seeing strange device on chassis"
-  - "hearing beeping from bag"
-  - "finding small plastic disc"
-  - "unknown device in obd port"
-  - "tracker in wheel well"
-  - "tracker under bumper"
-last_reviewed: "2026-03-17"
+  - tracker in my bag
+  - tracker in my car
+  - tracker in my belongings
+  - hidden tracker on vehicle
+  - airtag following me
+  - unknown airtag alert
+  - unknown tracker alert
+  - bluetooth tracker stalking
+  - gps tracker on car
+  - someone tracking my movements
+  - being tracked without consent
+  - suspected stalking tracker
+  - unwanted location tracking
+  - tracker tag in purse
+  - tracker tag in backpack
+  - tracker in luggage
+  - tracker in coat pocket
+  - car being followed by tracker
+  - find my item moving with you
+last_reviewed: "2026-01-10"
 ---
-# What to do if… you think someone may have put a tracker in your bag, car, or belongings (UK)
 
+# What to do if… you think someone may have put a tracker in your bag, car, or belongings (UK)
 ## Short answer
-Move to a safe public location immediately and do not go home or to a predictable private address. If you believe you are in immediate danger, call 999.
+Get yourself to a safe public place and avoid going straight home or somewhere predictable. If you feel at risk right now, call 999.
 
 ## Do not do these things
-- Don't go directly to your home, workplace, or a friend’s house to "hide."
-- Don't confront the person you suspect or send them a message about the tracker.
-- Don't post about the suspicion or device on social media.
-- Don't conduct a deep search of your vehicle in a secluded or unlit area.
-- Don't immediately destroy or throw away a found device, as this destroys evidence and may trigger a tamper alert.
+- Don’t go directly to your home, workplace, or another private place “to check first”.
+- Don’t confront someone you suspect, or message them to “warn” them.
+- Don’t post about it on social media or in public groups (it can escalate, and it creates a record of your location).
+- Don’t immediately destroy, throw away, or “hide” any device you find (it may be evidence, and it can sometimes increase risk).
+- Don’t do a long, focused search in a secluded place (stay where there are people and cameras).
 
 ## What to do now
-1. **Move to a safer pause in a public area.** Go to a staffed building, a busy supermarket, or a well-lit petrol station.
-   - If driving, stay in the vehicle with doors locked until you reach a populated, well-lit area.
-2. **Call 999 if you feel an immediate threat.** Inform the operator you believe you are being tracked and provide your current location.
-   - If you cannot speak, use the "Silent Solution": call 999 and press 55 when prompted to alert the police that you are in danger but cannot talk.
-3. **Contact the police on 101 for non-emergencies.** You can also report stalking or harassment online through your local police force's website. Ask for a crime reference number.
-4. **Scan for digital tracking signals using your smartphone.**
-   - **On iPhone (iOS 17.5+):** Open the **Find My** app, tap **Items**, and look for **Items Detected With You**. If an alert is active, follow instructions to **Play Sound**.
-   - **On Android (6.0+):** Go to **Settings** > **Safety & emergency** > **Unknown tracker alerts** and tap **Scan now**. This manual scan takes approximately 10 seconds.
-5. **Conduct a focused visual inspection of your belongings.** Check common hiding spots in a safe, public place:
-   - Bag linings, outer pockets, and internal compartments.
-   - Keyrings, stuffed toys, or removable base inserts in luggage.
-   - Coat pockets and the underside of collars or hoods.
-6. **Perform a safe external and internal car check.** Only do this if you are in a safe, populated location.
-   - Check the **OBD-II port** (usually under the dashboard near the steering wheel) for any plugged-in devices.
-   - Look under seats, inside seat-back pockets, and in the spare wheel well.
-   - Inspect the exterior wheel wells and under the bumpers for small magnetic boxes or tape.
-7. **Document any device you find before touching it.** Use a different phone if you suspect yours is compromised.
-   - Take clear photos of the device and where it was hidden.
-   - Note the exact time, date, and location of the discovery.
-8. **Isolate the device without destroying it.** If you must stop the tracking immediately for safety:
-   - Place the device in a "Faraday bag" or wrap it in multiple layers of heavy-duty aluminium foil to block signals.
-   - If it is a known tag (like an AirTag), follow the on-screen instructions on your phone to "Disable" it, but be aware this may notify the owner.
-9. **Contact specialist support if this relates to domestic abuse or stalking.**
-   - **National Stalking Helpline:** 0808 802 0300 (Run by Suzy Lamplugh Trust).
-   - **National Domestic Abuse Helpline:** 0808 2000 247 (Open 24/7).
+1. **Move to a safer pause.** If you’re out, go into a busy shop/café, a staffed building, or a well-lit petrol station. If you’re driving, park somewhere busy and keep your doors locked.
+2. **If you feel in immediate danger, call 999.** If you can, say where you are and that you believe you’re being tracked and don’t feel safe.
+3. **If it’s not an emergency, contact police on 101 (or report online).** Ask for the incident to be logged and write down the reference number.
+4. **Avoid giving away your location.** If you need to go somewhere now, choose a public, staffed place you don’t usually go (for example, a large supermarket, a transport hub, or a police station). Don’t lead anyone to where you live.
+5. **Use your phone to check for “unknown tracker” information (if you have it with you).**
+   - **iPhone/iPad:** Open **Find My** → **Items** → **Items Detected With You** (or scroll to **Unknown Items Detected With You** if shown). If there’s an alert, follow the on-screen options (for example, map details or **Play Sound** if offered).
+   - **Android (6+):** Open **Settings** → **Safety & emergency** → **Unknown tracker alerts** → **Scan now**. If you already have an alert, open it and follow the on-screen steps (for example, map details or **Play sound** if offered).
+6. **Do a quick, safe “obvious places” check (only where you are safe).**
+   - **Bag/belongings:** outer pockets, lining gaps, clipped-on keyrings, under a base insert, inside a rarely used compartment.
+   - **Car (quick checks):** under seats, seat-back pockets, centre console, boot area by the spare wheel. Also glance for a **plug-in device** in the car’s **diagnostic port** (often under the dashboard). If it would require crawling around or you feel exposed, stop and stay in a public place.
+7. **If you find a device, treat it like evidence and prioritise safety.**
+   - Take **photos** of it where it was found (and how it was attached/hidden).
+   - Note **time, date, and location** where you found it.
+   - **If you need to stop tracking immediately for safety** and you can do so calmly, you can follow the device’s own “disable” instructions (some tag-style trackers can be disabled by removing the battery). **If you don’t need to stop it right now, leave it as found** and involve police.
+   - Keep it secure so you don’t lose it (for example, a sealed envelope or small container).
+8. **Save digital evidence.** Screenshot notifications, scan results, and any device details your phone shows, and store them somewhere safer (for example, email to yourself or a trusted person).
+9. **If this could be linked to stalking or domestic abuse, get specialist support now.** You can contact the **National Stalking Helpline**. If you’re worried about someone close to you, the **National Domestic Abuse Helpline** can help you plan safer next steps.
 
 ## What can wait
-- You do not need to dismantle your vehicle's dashboard or body panels right now.
-- You do not need to decide immediately whether to press charges or change your phone number.
-- Professional vehicle "sweeps" by a garage or specialist can be scheduled once you are in a secure location.
+- You do **not** need to fully take your car apart or do an exhaustive search right now.
+- You do **not** need to decide today whether to report, press charges, move, or replace devices.
+- A deeper vehicle check (for example via a trusted garage) and longer-term safety planning can be done once you’re safe and supported.
 
 ## Important reassurance
-It is normal to feel hyper-vigilant or anxious when you suspect surveillance. Taking physical steps to reach a public place and documenting what you find is a structured, safety-first response. You do not need "proof" to seek help from the police or support services.
+It’s reasonable to act on suspicion without “proving” it first. Choosing safety-first steps and documenting what you’re seeing is a sensible response.
 
 ## Scope note
-This guide provides first-step stabilization for identifying and responding to a suspected physical tracker. It does not cover software-based "spyware" on phones or long-term legal strategies for stalking cases.
+This is first steps only, focused on immediate safety and avoiding irreversible mistakes. If this is part of stalking, harassment, theft, or domestic abuse, you may want specialist support and (in some cases) legal advice later.
 
 ## Important note
-This information is for safety stabilization and is not a substitute for legal advice or police intervention. Tracking someone without their consent may constitute a criminal offence under the Protection from Harassment Act 1997 or the Stalking Protection Act 2019.
+This guide is general information, not legal advice. If you feel unsafe or threatened, prioritise immediate safety and contact emergency services.
 
 ## Additional Resources
-- https://support.apple.com/en-gb/119874
-- https://support.apple.com/en-gb/guide/personal-safety/ips139b15fd9/web
-- https://www.thecyberhelpline.com/guides/bugs-cameras-trackers
 - https://www.gov.uk/report-stalker
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/protection-from-online-stalking-and-harassment/
+- https://www.police.uk/pu/contact-us/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
+- https://support.apple.com/guide/personal-safety/detect-unwanted-trackers-ips139b15fd9/web
+- https://support.apple.com/en-gb/119874
+- https://support.google.com/android/answer/13658562?hl=en-GB
+- https://www.suzylamplugh.org/pages/category/national-stalking-helpline
+- https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/

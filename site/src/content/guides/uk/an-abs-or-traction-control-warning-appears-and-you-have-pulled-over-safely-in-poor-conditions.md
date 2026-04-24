@@ -1,93 +1,77 @@
----
+﻿---
 title: "What to do if… an ABS or traction-control warning appears and you have pulled over safely in poor conditions"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "abs warning light"
-  - "traction control warning"
-  - "esp light on"
-  - "esc warning"
-  - "stability control system failure"
-  - "anti-lock braking system fault"
-  - "dashboard warning in snow"
-  - "warning light in heavy rain"
-  - "icy road warning light"
-  - "pulled over safely"
-  - "brakes feel different suddenly"
-  - "skidding risk warning"
-  - "wheel speed sensor fault"
-  - "can i drive with abs light"
-  - "traction control not working"
-  - "stability system disabled"
-  - "motorway hard shoulder stop"
-  - "breakdown in bad weather"
-  - "slippery conditions braking concern"
-  - "car warning light then pull over"
-  - "what do i do if my abs light comes on"
-  - "what do i do if traction control light stays on"
-  - "what do i do if esc warning appears"
-  - "what do i do if stability control fails"
-  - "help i have a brake warning light"
-  - "help i am stopped on the motorway"
-  - "help i have a dashboard warning"
-  - "help my brakes feel soft"
-  - "my abs light is orange"
-  - "my brake light is red"
-  - "standing water dashboard light"
-  - "slush on road warning light"
-  - "brake fluid low warning"
-  - "emergency area stop"
-  - "smart motorway breakdown"
-last_reviewed: "2026-03-17"
+  - abs warning light
+  - traction control warning
+  - esp esc light on
+  - stability control warning
+  - abs and traction light
+  - dashboard warning in snow
+  - warning light in heavy rain
+  - icy road warning light
+  - pulled over safely poor visibility
+  - brakes feel different suddenly
+  - skidding risk warning
+  - wheel speed sensor fault
+  - can i keep driving with abs light
+  - traction control not working
+  - stability system disabled
+  - motorway hard shoulder stopped
+  - breakdown in bad weather
+  - slippery conditions braking concern
+  - car warning light then pull over
+last_reviewed: "2026-03-11"
 ---
+
 # What to do if… an ABS or traction-control warning appears and you have pulled over safely in poor conditions (UK)
 
 ## Short answer
-Assume that emergency braking assistance and stability systems are unavailable and increase your following distance significantly. If a red brake warning light is also visible or the brake pedal feels spongy, do not drive the vehicle and call for professional recovery immediately.
+Stay safe where you are and assume your ABS/traction/stability help may be reduced or unavailable. If any red brake warning appears or braking feels abnormal, do not continue—get professional help/recovery.
 
 ## Do not do these things
-- Do not attempt to test the brakes by performing a sharp or heavy stop on slippery surfaces.
-- Do not continue at normal road speeds even if the vehicle feels stable; your safety margin is reduced.
-- Do not attempt to reset the system by repeatedly switching the ignition on and off while in a live lane of traffic.
-- Do not exit the vehicle on the side closest to moving traffic.
-- Do not use a warning triangle if you are stopped on a motorway or a high-speed dual carriageway.
+- Do not “test” the brakes with a hard stop or sharp turn on wet/icy ground.
+- Do not carry on at normal speed just because the car still moves—poor conditions reduce your margin for error.
+- Do not switch off safety systems out of frustration unless your vehicle handbook specifically tells you to for a very specific situation.
+- Do not crawl along in a live lane to inspect the car.
+- Do not place a warning triangle on a motorway or other high-speed road.
 
 ## What to do now
-1. **Ensure your vehicle is as visible as possible.** Switch on your hazard warning lights immediately and use sidelights if visibility is poor or it is dark.
-2. **Prioritise your physical safety based on your location.**
-   - If you are on a motorway, follow the "Go Left" protocol by moving to the next exit, a service station, or a designated emergency area.
-   - If you are stopped in a live lane and cannot move, stay in the vehicle with your seatbelt on and call 999 immediately.
-   - If you have reached a hard shoulder or emergency area and can exit safely, do so via the left-hand doors and wait behind the safety barrier.
-3. **Identify the specific colour and type of warning symbol.**
-   - **Amber/Yellow symbols** (ABS, TC, ESC, or ESP) usually indicate the system is deactivated but basic braking remains.
-   - **Red symbols** (a circle with an exclamation mark or the word "BRAKE") indicate a critical system fault or low fluid.
-4. **Determine if the vehicle is safe to move to a repair facility.** 
-   - **Arrange immediate recovery and do not drive** if a red brake warning is lit, the "STOP" command appears, the brake pedal feels soft or sinks to the floor, or you hear heavy grinding.
-   - **Drive only to a place of safety or repair** at low speed if only the amber ABS / traction lights are on and the mechanical braking feels firm and responsive.
-5. **Contact National Highways or your recovery service.** Use a roadside emergency phone if available, as these provide your exact location to operators, or call National Highways on 0300 123 5000.
-6. **Perform a single system restart only if in a position of total safety.** Switch off the engine, wait 30 seconds, and restart; if the light remains, the fault is persistent and requires professional diagnostic equipment.
-7. **Adjust your driving style to account for the lack of electronic aids.**
-   - Leave at least double the normal following distance.
-   - Avoid sudden steering inputs or harsh acceleration which may trigger a skid that the car can no longer automatically correct.
-   - Brake earlier and more gently than usual to prevent wheel lock-up.
+1. **Make your stop as safe as possible.** Hazards on. If it’s dark or visibility is poor, use your sidelights so you’re easier to see.
+2. **If you’re on a motorway or high-speed road, follow breakdown safety priorities first.**
+   - If you can, **leave at the next exit or stop at a service area/emergency area** rather than staying on the hard shoulder.
+   - If it’s **not safe to exit the vehicle or reach a place of safety**, **stay in the car with your seat belt on and hazards on, and call 999**.
+   - If you’re safe and need assistance, **use an emergency roadside phone (where provided) or call National Highways on 0300 123 5000** and/or contact your breakdown provider.
+3. **Check exactly what is lit up.** Note whether it’s:
+   - **ABS/traction/stability** (usually amber), and/or
+   - a **brake system warning** (often red), plus any “STOP” message.
+4. **Decide “do not drive” vs “move only to safety.”**
+   - **Do not drive; arrange recovery** if any of these apply: red brake warning, “STOP” message, brake pedal feels wrong (soft/sinks), braking is clearly weaker, loud grinding, burning smell/smoke, visible fluid leak, or you do not feel safe re-joining traffic in these conditions.
+   - **If it’s only ABS/traction/stability (amber) and braking feels normal,** you may be able to **move only to a safer place/garage** at low speed and with extra caution.
+5. **Do one calm restart (once).** With the car fully stopped in a safe place, switch off, wait a few seconds, then restart. If the warning returns, treat it as ongoing.
+6. **If you must move off, drive as if assistance systems are unavailable.**
+   - Increase following distance a lot; avoid sudden braking/steering/acceleration.
+   - Brake **smoothly and progressively**. If you feel the car sliding or wheels locking, **ease off slightly and reapply smoothly**—prioritise slowing early over last-second braking.
+7. **Capture details now while you’re calm.** Take a quick photo of the warning lights/messages and note the conditions (rain/ice, standing water, slush). This helps a garage recover the right context.
 
 ## What can wait
-- You do not need to identify the specific faulty sensor or mechanical cause while at the roadside.
-- You do not need to check brake fluid levels yourself if you are on a high-speed road; wait for a recovery professional.
-- You do not need to decide on a permanent repair garage immediately; the first priority is moving the vehicle to a location off the carriageway.
+- You do not need to diagnose the fault on the roadside.
+- You do not need to keep restarting to “clear it”; one restart is enough for a quick check.
+- You do not need to decide repairs or costs now—first priority is a safe location and safe next move.
 
 ## Important reassurance
-It is common for wheel speed sensors to be interrupted by heavy slush, standing water, or road salt in poor conditions, which can trigger these lights. While the loss of these systems is serious in the rain or ice, your vehicle still has mechanical braking capability as long as the brake pedal remains firm and no red warning lights are present.
+It’s normal to feel a jolt of panic when brake or stability lights appear—especially in poor weather. Many ABS/traction warnings mean the **extra assistance** may be unavailable, not that you have no brakes at all—but in rain/ice that difference matters, and slowing the situation down is the right call.
 
 ## Scope note
-This guide provides first-step stabilization for drivers stopped at the roadside. It does not replace the vehicle manufacturer's handbook or professional mechanical diagnosis.
+These are first steps to stabilise the moment and avoid a risky decision in bad conditions. If the warning stays on or returns, the next step is usually professional inspection and/or recovery.
 
 ## Important note
-This information is for general guidance only and does not constitute professional mechanical or legal advice. Vehicle warning systems vary by manufacturer; always refer to your specific owner's manual. If you are in any doubt about the safety of your brakes or your location on the road, contact the emergency services or a professional breakdown recovery service immediately.
+This is general safety information, not vehicle-specific mechanical advice. Dashboard symbols and severity differ by make/model; if anything suggests reduced braking or you’re in an unsafe roadside position, prioritise emergency help or professional recovery.
 
 ## Additional Resources
-- https://www.theaa.com/breakdown-cover/advice/dashboard-warning-lights
-- https://www.theaa.com/driving-advice/service-repair/anti-lock-brakes
-- https://www.rac.co.uk/drive/advice/road-safety/what-is-traction-control/
-- https://www.gov.uk/guidance/the-highway-code/driving-in-adverse-weather-conditions-226-to-237
 - https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
+- https://nationalhighways.co.uk/road-safety/driving-on-motorways/
+- https://nationalhighways.co.uk/road-safety/the-hard-shoulder/
+- https://www.rac.co.uk/drive/advice/know-how/car-dashboard-warning-lights-meaning/
+- https://www.theaa.com/breakdown-cover/advice/what-to-do-motorway-breakdown

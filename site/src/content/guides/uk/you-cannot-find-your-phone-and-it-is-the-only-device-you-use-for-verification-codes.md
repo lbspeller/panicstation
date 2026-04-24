@@ -1,92 +1,84 @@
----
+﻿---
 title: "What to do if… you cannot find your phone and it is the only device you use for verification codes"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "phone missing"
-  - "lost phone"
-  - "stolen phone"
-  - "can’t find my mobile"
-  - "misplaced phone"
-  - "phone left somewhere"
-  - "locked out of accounts"
-  - "can’t get verification code"
-  - "not receiving 2fa codes"
-  - "two step verification stuck"
-  - "sms code not arriving"
-  - "authenticator app on lost phone"
-  - "only device for codes"
-  - "can’t access email on phone"
-  - "account recovery"
-  - "sim replacement"
-  - "keep my number"
-  - "phone number security"
-  - "secure my accounts"
-  - "remote lock phone"
-  - "remote wipe phone"
-  - "help i lost my phone"
-  - "what do i do if my phone is gone"
-  - "help i cannot log in"
-  - "my phone is missing"
-  - "verification code help"
-  - "locked out of banking"
-  - "stolen mobile help"
-  - "no access to codes"
-  - "missing iphone"
-  - "missing android"
-  - "lost verification device"
-last_reviewed: "2026-03-17"
+  - phone missing
+  - lost phone
+  - stolen phone
+  - can’t find my mobile
+  - misplaced phone
+  - phone left somewhere
+  - locked out of accounts
+  - can’t get verification code
+  - not receiving 2fa codes
+  - two step verification stuck
+  - sms code not arriving
+  - authenticator app on lost phone
+  - only device for codes
+  - can’t access email on phone
+  - account recovery
+  - sim replacement
+  - keep my number
+  - phone number security
+  - secure my accounts
+  - remote lock phone
+  - remote wipe phone
+last_reviewed: "2026-03-08"
 ---
-# What to do if… you cannot find your phone and it is the only device you use for verification codes (UK)
 
+# What to do if… you cannot find your phone and it is the only device you use for verification codes (UK)
 ## Short answer
-Lock the device immediately using a web-based "Find My" service, then contact your mobile provider to bar the SIM and move your number to an eSIM or replacement SIM so you can receive codes again.
+Lock/locate the phone from a trusted device, then contact your mobile network to bar the SIM and move your number to a replacement SIM/eSIM so you can receive verification codes again.
 
 ## Do not do these things
-- Don't request multiple verification codes in a row if they aren't arriving; this can trigger a 24-hour security lockout on your account.
-- Don't leave any browser window open or "Remember this device" checked if you are using a friend's phone or a public computer.
-- Don't post your alternative contact number publicly on social media while asking for help, as this is used by scammers for "SIM swap" targeting.
-- Don't remove the lost device from your Apple Account or Google Account list; doing so disables "Activation Lock" and allows a thief to factory reset the phone for resale.
-- Don't wait until tomorrow to call your network provider; a stolen SIM can be used to bypass bank security via SMS recovery before you notice.
+- Don’t keep trying to log in and request new codes repeatedly — you can trigger security lockouts that slow recovery.
+- Don’t use shared/public devices for email or password manager sign-ins if you can avoid it. If you must, use a private/incognito window, don’t save passwords, sign out fully, and remove that device/session from your account security page afterwards.
+- Don’t post “I lost my phone, text this number” messages with personal details on social media (it can attract scammers).
+- Don’t remove an iPhone/iPad from your Apple Account/Find My in a panic — it can weaken your ability to track/lock it.
+- Don’t assume it’s “just lost” if it was last seen in public — act as if someone else could access it until you’ve locked it.
 
 ## What to do now
-1. **Locate and lock the device using a web browser on any available computer or tablet.**
-   - For iPhone: go to **iCloud.com/find**, sign in, and select **Mark As Lost**. This secures your data and suspends Apple Pay.
-   - For Android: go to the **Google Find Hub** (android.com/find) and select **Secure Device**. This locks the phone and signs you out of your Google Account on that handset.
-2. **Contact your mobile network provider immediately to bar the SIM card.**
-   - Inform them the device is missing and ask them to **bar the SIM** to prevent unauthorized calls or SMS-based account resets.
-   - Ask for a **SIM replacement** with your existing number; if your secondary device supports it, ask for an **eSIM** for near-instant activation.
-   - Request that they **blacklist the IMEI** (the handset's unique ID) to prevent it from working on any UK network.
-3. **Attempt account recovery for your primary email address first.**
-   - Go to your email provider's login page on a trusted computer and select **Forgot password** or **Try another way**.
-   - Use your secondary recovery email or "Backup Codes" (if you saved them previously) to regain access without the lost phone.
-4. **Report the loss or theft to the appropriate authorities once the device is secured.**
-   - For theft in England, Wales, or Northern Ireland: report it to **Report Fraud** online or call **0300 123 2040**.
-   - For theft in Scotland: call **101** to report it to Police Scotland.
-   - For accidental loss: contact the local police only if you need a reference number for insurance purposes.
-5. **Notify your bank if you had mobile banking apps or digital cards active on the phone.**
-   - Ask them to monitor for unusual activity and to "de-register" the lost device from your mobile banking profile.
-6. **Re-anchor your security once you have your replacement SIM or a new phone.**
-   - Log in to your most critical accounts (Email, Banking, Government Gateway) and update the "Trusted Device" list.
-   - Generate new **Backup Codes** and store them physically (on paper) in a safe place.
+1. **Lock/locate it from a trusted device right away.**
+   - If you use iPhone: go to **iCloud.com/find** and use **Lost Mode / Mark as Lost**.
+   - If you use Android: use Google’s “Find my device” tools to **lock/secure** it (and “ring” if it may be nearby).
+2. **Call your mobile network provider immediately to bar the SIM and protect your number.**
+   - Ask them to **bar the SIM** and **issue a replacement SIM** for the same number (or move your number onto an **eSIM**).
+   - Ask how they can **block the handset by IMEI** on UK networks, and what they need from you.
+3. **Regain access to the accounts that control everything else (start with email).**
+   - On a trusted device, try to sign in to your primary email using the provider’s **account recovery** options (recovery email, backup codes, recovery prompts).
+   - If you submit a recovery request, do it once and then stop — repeated retries can slow things down.
+4. **As soon as your number is live on the replacement SIM/eSIM, reset verification on the accounts that matter most.**
+   - Prioritise: **email**, **password manager**, **banking**, **Apple/Google account**, **messaging apps**.
+   - Where possible, move away from SMS codes to an **authenticator app on the new phone**, a **passkey**, or another method offered.
+5. **If you think it was stolen, report the theft to the police and keep the reference.**
+   - Use your local force’s online reporting, or call **101** for non-emergencies (use **999** only for emergencies).
+   - Keep the **IMEI** (often on the box/receipt or available from your network) for the report if asked.
+6. **If you suspect fraud or account access (not just a missing device), report it as fraud/cyber crime too.**
+   - In **England, Wales, or Northern Ireland**, report cyber crime/fraud to **Report Fraud (Action Fraud)**.
+   - In **Scotland**, contact **Police Scotland via 101** for non-emergency reporting.
+7. **Tell your bank(s) if finance apps/cards were on the phone or you see anything suspicious.**
+   - Ask them to watch for unusual activity and help you re-secure mobile banking access.
 
 ## What can wait
-- You don't need to change the passwords for every minor app or social media account immediately; focus only on email, banking, and your primary "ID" accounts (Apple/Google).
-- You don't need to perform a "Remote Wipe" (Erase) immediately if the phone is locked; locking it allows you to still track its location if it is found.
-- You don't need to buy a brand-new handset today if you can activate your number on an old spare phone or tablet via eSIM.
+- You don’t need to decide right now whether the phone is “definitely stolen” — secure access first.
+- You don’t need to change every password today — focus on **email + phone number + password manager + banking** first.
+- You don’t need to erase the device immediately if you’re unsure — locking it and moving your number first is often the priority.
 
 ## Important reassurance
-Losing your "digital key" is a high-stress event, but it is a solvable procedural problem. Mobile networks and major tech providers have established recovery paths specifically for this scenario. Once you have barred the old SIM and activated a new one, the "lockout" is usually resolved within a few hours.
+This feels especially trapping because the phone is both the device and the “key.” Once your number is moved to a replacement SIM/eSIM and you’ve re-anchored access through email recovery, most people can get unstuck and regain control.
 
 ## Scope note
-This guide provides first-step stabilization for digital access loss in the UK. It does not cover long-term identity theft monitoring or physical device repair.
+These are first steps to stabilise access and reduce harm. Later, when you’re calm and back in, you can add backups (backup codes, alternative recovery methods, passkeys) so one missing device can’t lock you out again.
 
 ## Important note
-This information is for general guidance and does not constitute legal or technical advice. If you suspect your identity has been stolen or observe unauthorized financial transactions, contact your bank’s fraud department and the police immediately.
+This is general information, not legal, financial, or technical advice. If you see signs of fraud (unexpected number change/porting messages, new logins, password resets you didn’t request, payments you didn’t make), treat it as urgent and contact your bank and relevant providers immediately.
 
 ## Additional Resources
-- https://www.gov.uk/guidance/changing-the-sign-in-details-for-your-govuk-one-login
-- https://www.gov.uk/guidance/getting-a-security-code-for-govuk-one-login
-- https://home.account.gov.uk/contact-gov-uk-one-login?lng=en
-- https://www.gov.uk/using-your-gov-uk-one-login
-- https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv
+- https://www.citizensadvice.org.uk/consumer/phone-internet-downloads-or-tv/what-to-do-if-your-mobile-phone-is-lost-or-stolen/
+- https://www.ofcom.org.uk/phones-and-broadband/mobile-phones/lost-or-stolen-phone
+- https://support.apple.com/en-gb/120837
+- https://support.google.com/accounts/answer/6160491?hl=en
+- https://www.actionfraud.police.uk/how-to-report-fraud
+- https://www.reportfraud.police.uk/
+- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/

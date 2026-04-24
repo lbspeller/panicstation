@@ -1,98 +1,86 @@
----
+﻿---
 title: "What to do if… you get alerts that someone is trying to recover your account using support channels"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "account recovery alert"
-  - "password reset i didn't request"
-  - "support channel scam"
-  - "fake customer support"
-  - "account takeover attempt"
-  - "recovery email changed"
-  - "recovery phone changed"
-  - "unknown login recovery"
-  - "account security notification"
-  - "verification code request"
-  - "2fa prompt i didn't trigger"
-  - "helpdesk impersonation"
-  - "hacked account warning"
-  - "support asked for code"
-  - "suspicious reset link"
-  - "attacker contacting support"
-  - "account recovery scam"
-  - "urgent security alert message"
-  - "what do i do if my account is being recovered"
-  - "what do i do if someone is resetting my password"
-  - "what do i do if i get a security code i didnt ask for"
-  - "help i got a recovery alert"
-  - "help i think someone is in my account"
-  - "my recovery phone was changed"
-  - "my recovery email was updated"
-  - "strange login alert from support"
-  - "automated recovery notification"
-  - "verification email from unknown source"
-  - "unauthorized password change request"
-  - "login request from new device"
-last_reviewed: "2026-03-17"
+  - account recovery alert
+  - password reset i didn’t request
+  - support channel scam
+  - fake customer support
+  - account takeover attempt
+  - recovery email changed
+  - recovery phone changed
+  - unknown login recovery
+  - account security notification
+  - verification code request
+  - 2fa prompt i didn’t trigger
+  - helpdesk impersonation
+  - hacked account warning
+  - “support asked for code”
+  - suspicious reset link
+  - attacker contacting support
+  - account recovery scam
+  - urgent security alert message
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… you get alerts that someone is trying to recover your account using support channels (USA)
 
 ## Short answer
-Treat all unsolicited recovery alerts as active takeover attempts: do not interact with the message, and immediately secure your account and recovery email through the provider’s official website or app.
+Assume an account takeover attempt: don’t respond to messages, and secure the account from the provider’s official site/app now (change password, confirm recovery info, enable MFA, and sign out other sessions).
 
 ## Do not do these things
-- Don’t click any links or call any numbers provided in the alert message.
-- Don’t share multi-factor authentication (MFA/2FA) codes or "verification" numbers with anyone, even if they claim to be from "support."
-- Don’t install remote-access, screen-sharing, or "security" apps recommended by someone contacting you.
-- Don’t disable MFA or 2FA to stop repeated notification prompts.
-- Don’t ignore the alert because you still have access; recovery attempts are often the final step before you are locked out.
+- Don’t click links or call numbers from the alert message — go to the provider directly using the official app or a typed URL.
+- Don’t share MFA/2FA codes, backup codes, or “verification” numbers with anyone (including “support” contacting you).
+- Don’t install remote-access or screen-sharing apps because someone says they’re helping you “secure” your account.
+- Don’t disable MFA to stop repeated prompts.
+- Don’t assume it’s safe because you can still log in — recovery attempts often come first.
 
 ## What to do now
-1. **Terminate any active contact with the suspected attacker immediately.**
-   - Hang up the phone, close the chat window, or stop replying to the text thread.
-   - Real support teams will never call you to ask for a code they just sent to your phone.
-2. **Access the service only through official channels.**
-   - **Open your browser and type the known website address manually or use the official mobile app.**
-   - Do not use search engine results for "support" as these can be manipulated to show fraudulent sites.
-3. **Change your password for both the targeted account and your recovery email.**
-   - **Create a unique, strong password that you have never used on any other site.**
-   - If you reuse this password elsewhere, prioritize changing it on financial and primary email accounts first.
-4. **Audit and secure your recovery methods.**
-   - **Check the recovery email addresses and phone numbers listed in your account settings.**
-   - Remove any unfamiliar addresses, secondary phones, or "trusted contacts" you did not personally add.
-5. **Revoke all active sessions and connected devices.**
-   - **Use the "Sign out of all devices" or "Log out everywhere" feature found in security settings.**
-   - Review and remove "Connected Apps" or "Third-party access" that you do not recognize.
-6. **Refresh your MFA and backup codes.**
-   - **Switch to an authenticator app or hardware key if you currently rely on SMS codes.**
-   - Generate new "Backup Codes" or "Recovery Keys," and store them in a physical location or a secure offline vault.
-7. **Inspect your email account for "persistence" rules.**
-   - **Search your email settings for hidden forwarding rules, mail filters, or "delegated access."**
-   - Attackers often set rules to automatically delete security alerts or forward your incoming mail to themselves.
-8. **Contact the provider’s official fraud department if you believe changes were made.**
-   - **Use the internal "Help" or "Security" center within the authenticated app you just secured.**
-   - Ask if there are additional "Account Protection" or "Advanced Protection" modes you can enable.
-9. **Report the attempt to federal authorities if sensitive data was involved.**
-   - **File a report at IC3.gov for cyber-enabled fraud or account takeover attempts.**
-   - If your Social Security Number or financial data was exposed, go to IdentityTheft.gov to create a recovery plan.
+1. **Open the real service safely:** use the official app or type the known website address yourself (support-channel scams often include lookalike “support” links).
+2. **Change your password immediately:**
+   - Make it unique and strong.
+   - If you reused it anywhere, change those accounts too (start with **email**, then **financial**).
+3. **Secure the recovery channels (this is the main risk here):**
+   - Check recovery email(s), phone number(s), and any “backup” options.
+   - Remove anything you don’t recognize and re-verify what’s yours.
+4. **Sign out other sessions / revoke access:**
+   - Use “sign out of all devices” / “log out everywhere” if available.
+   - Review connected apps and revoke anything unfamiliar.
+5. **Enable or re-set MFA (2FA) and refresh backup options:**
+   - If the provider offers an authenticator-app option, use it.
+   - Regenerate backup codes (if offered) and store them somewhere safer than your email inbox.
+6. **Check your email account for hidden persistence (because it’s often the recovery key):**
+   - Look for forwarding rules, filters, mail delegation, or additional recovery addresses you didn’t add.
+   - Remove suspicious rules and change the email password too.
+7. **Contact official support through the provider’s help center (initiated by you):**
+   - Use the provider’s official help pages from inside the app/site you opened in step 1.
+   - Tell them you’re receiving account recovery attempts and ask what **extra verification** or **temporary security lock** options they offer for account changes.
+8. **If any financial account is involved (or saved payment methods exist on the targeted account):**
+   - Contact the bank/card issuer via the number on your card or inside the official app.
+   - Ask them to review activity and add stronger verification for transfers and account-profile changes.
+9. **If you shared a verification code, gave remote access, lost money, or got locked out:**
+   - Report it to the FTC (ReportFraud.ftc.gov) and follow the IdentityTheft.gov steps if personal information was misused.
+   - If it’s cyber-enabled fraud/account takeover (especially with financial loss), file a complaint with IC3 as well.
 
 ## What can wait
-- You don’t need to investigate the attacker’s location or identity yourself.
-- You don’t need to update every minor account immediately; focus only on the "path of recovery" (Email → Targeted Account → Banking).
-- You don’t need to decide if this was a "successful" hack; acting as if it was is the safest precaution.
+- You don’t need to “catch” the person or keep replying to gather info.
+- You don’t need to update every account immediately — prioritize: **email → the targeted account → banking/financial → other reused-password accounts**.
+- You don’t need to decide right now whether this rises to identity theft; focus first on locking down access and recovery.
 
 ## Important reassurance
-Unsolicited alerts mean your security settings are working and blocking the attacker's progress. By securing your recovery email and revoking sessions now, you effectively cut off their ability to finalize the takeover.
+Attackers often try support-based recovery because it can bypass passwords. Securing recovery details, revoking sessions, and protecting your email usually stops the takeover quickly — even if the alerts were intense.
 
 ## Scope note
-This is first-step guidance for stabilizing an account under threat. If you have already lost access or suffered financial loss, you will need to follow the provider's specific manual recovery path and contact your bank.
+This is immediate stabilization guidance. If you lose access, money is involved, or personal data was shared, you may need provider support and formal reporting/identity recovery steps.
 
 ## Important note
-This guide provides general security information and does not constitute professional cybersecurity or legal advice. In the event of a government shutdown or site outage, federal reporting tools like IdentityTheft.gov may be unavailable; in such cases, contact your service providers and financial institutions directly via the numbers on your physical cards or official statements.
+This is general information, not legal, financial, or cybersecurity professional advice. If you can’t regain access or believe fraud occurred, use official provider recovery channels and consider filing reports with U.S. authorities.
 
 ## Additional Resources
-- https://consumer.ftc.gov/node/77537
-- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
-- https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams
-- https://consumer.ftc.gov/consumer-alerts/2019/03/keep-tech-support-strangers-out-your-computer
-- https://consumer.ftc.gov/consumer-alerts/2022/05/shutting-down-tech-support-scams
+- https://consumer.ftc.gov/articles/what-do-if-you-were-scammed
+- https://consumer.ftc.gov/consumer-alerts/2024/03/whats-verification-code-why-would-someone-ask-me-it
+- https://www.identitytheft.gov/
+- https://www.ic3.gov/
+- https://complaint.ic3.gov/
+- https://www.ic3.gov/PSA/2025/PSA251125

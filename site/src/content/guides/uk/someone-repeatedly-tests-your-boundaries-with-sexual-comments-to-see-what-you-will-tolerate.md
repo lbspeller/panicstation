@@ -1,84 +1,73 @@
----
+﻿---
 title: "What to do if… someone repeatedly “tests” your boundaries with sexual comments to see what you will tolerate"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "sexual comments testing boundaries"
-  - "boundary testing sexual remarks"
-  - "repeated sexual jokes at me"
-  - "unwanted sexual comments"
-  - "escalating sexual banter"
-  - "sexualised comments about my body"
-  - "sexual comments from colleague"
-  - "sexual comments from manager"
-  - "sexual comments from customer"
-  - "sexual harassment at work"
-  - "sexual comments in messages"
-  - "unwanted sexual remarks"
-  - "just joking sexual comments"
-  - "feeling pressured to laugh along"
-  - "unsure if this counts as harassment"
-  - "worried it will escalate"
-  - "scared to say no"
-  - "freeze response to harassment"
-  - "boundary crossed at work"
-  - "keeps pushing it sexually"
-  - "sexualised teasing"
-  - "sexual comments help uk"
-  - "what do i do if someone makes sexual jokes"
-  - "what do i do if my boss makes sexual comments"
-  - "what do i do if a client is sexually inappropriate"
-  - "help i am being sexually harassed"
-  - "help i feel uncomfortable with sexual talk"
-  - "my colleague keeps making sexual comments"
-  - "my manager is testing my boundaries"
-  - "smell of alcohol and sexual comments"
-  - "visible staring and sexual remarks"
-  - "unwanted physical proximity and comments"
-last_reviewed: "2026-03-17"
+  - sexual comments testing boundaries
+  - boundary testing sexual remarks
+  - repeated sexual jokes at me
+  - unwanted sexual comments
+  - escalating sexual banter
+  - sexualised comments about my body
+  - sexual comments from colleague
+  - sexual comments from manager
+  - sexual comments from customer
+  - sexual harassment at work
+  - sexual comments in messages
+  - creepy sexual remarks
+  - “just joking” sexual comments
+  - feeling pressured to laugh along
+  - unsure if this counts as harassment
+  - worried it will escalate
+  - scared to say no
+  - freeze response to harassment
+  - boundary crossed at work
+  - keeps pushing it sexually
+  - sexualised teasing
+last_reviewed: "2026-03-13"
 ---
-# What to do if… someone repeatedly “tests” your boundaries with sexual comments to see what you will tolerate (UK)
 
+# What to do if… someone repeatedly “tests” your boundaries with sexual comments to see what you will tolerate (UK)
 ## Short answer
-Create immediate physical or digital distance and tell a trusted third party or specialist support service. You are not required to manage the situation alone or "laugh off" conduct that violates your dignity.
+Create distance and make it harder for them to access you. Then tell one trusted person (at work: a manager/HR) and get specialist support so you’re not carrying this alone.
 
 ## Do not do these things
-- Do not feel obligated to "keep the peace" by smiling, laughing, or participating in sexualised banter to avoid awkwardness.
-- Do not agree to meet the person in a private or isolated location to discuss their behaviour.
-- Do not share personal details about your home life or relationships in an attempt to "neutralise" their interest.
-- Do not delete evidence of messages, even if they are distressing, until you have secured copies elsewhere.
-- Do not assume you are "overreacting" or that it is your responsibility to prove their intent was malicious.
+- Do not feel you have to “keep it friendly” by laughing along, replying quickly, or explaining yourself in detail.
+- Do not meet them one-to-one “to clear the air” if you feel uneasy.
+- Do not share extra personal info (where you live, your routines, relationship status) to try to calm the situation.
+- Do not delete messages out of panic if you think you might want them later for your own clarity (only keep records if it’s safe to do so).
+- Do not confront them when you’re alone or when they have power over you (for example, a supervisor) if that could put you at risk.
 
 ## What to do now
-1. **Remove yourself from the immediate interaction or environment to create a safe distance.** End the conversation abruptly by stating you have a task to finish, walk to a populated area, or log off from the digital platform where the comments are occurring.
-2. **State a single, clear boundary without providing a detailed justification or opening a debate.** Use a direct phrase such as: "Stop making sexual comments to me," or "That comment is inappropriate and I want you to stop." 
-3. **Change your interaction settings to ensure you are never alone with the individual.** In a workplace, keep office doors open, only meet in public spaces, and ensure a third party is present or copied into digital communications.
-4. **Log the specific details of the interaction in a secure personal record that the other person cannot access.** Record the date, time, exact words used, any witnesses present, and how you responded to the conduct.
-5. **Report the behaviour to your employer, HR, or a union representative if the situation is occurring at work.** Under UK law (Equality Act 2010), sexual harassment is unwanted conduct of a sexual nature that violates your dignity or creates a hostile environment; from 6 April 2026, reporting this is a "protected disclosure" under whistleblowing rules.
-6. **Contact a specialist support service to discuss your safety and your legal rights in confidence.**
-   - In England and Wales, call the **24/7 Rape & Sexual Abuse Support Line** at **0808 500 222**.
-   - In Scotland, call **Rape Crisis Scotland** at **08088 01 03 02**.
-   - In Northern Ireland, call the **Domestic & Sexual Abuse Helpline** at **0808 802 1414**.
-7. **Contact a Sexual Assault Referral Centre (SARC) if there has been any unwanted physical contact or if you are concerned about your safety.** SARCs provide medical and emotional support even if you do not want to involve the police; you can find your nearest centre via the NHS website.
-8. **Call 999 if you feel you are in immediate physical danger or if the person is following you.** Use the **Silent Solution** (press 55 after the operator answers) if you are unable to speak.
+1. **Get to a safer pause and create space.** Move to a more public area, sit near others, end the conversation, or step away. If this is online, stop replying and use platform tools (mute/block/report) where available.
+2. **Use one clear boundary line (once), then disengage.** You can use: “Stop making sexual comments to me.” / “That’s not ok—don’t say things like that to me.” You do not need to justify, debate, or be polite beyond clarity.
+3. **Change the access conditions.** Arrange interactions so you’re not alone with them: keep doors open, meet with another person present, switch shifts/tasks, use group chats instead of DMs, or route communication through work channels only.
+4. **Write down a simple record for yourself (only if it’s safe).** Note the date/time, what was said, where it happened, who witnessed it, and how you responded. If it’s messages, take screenshots and back them up somewhere you control and they cannot access.
+5. **If this is at work, tell someone with responsibility today (even if you’re unsure).** Report to your manager, a different manager, HR, or your union rep. Unwanted sexual comments can be sexual harassment at work; intent is not the only factor—impact/effect matters (and whether it’s reasonable), so you don’t need to “prove they meant it.”
+6. **Get confidential specialist support.** If you’re shaken or scared, you can speak to a sexual violence support service for grounding and options. If you’re **16+ in England & Wales**, you can contact the **free 24/7 Rape & Sexual Abuse Support Line**: **0808 500 2222** (not an emergency service).
+7. **If you feel in immediate danger or threatened, call emergency services.** Call **999** if you’re in immediate danger. If you need urgent medical advice, use **NHS 111**. **If there has been any unwanted sexual contact/assault (or you’re worried it might have been),** you can contact a **Sexual Assault Referral Centre (SARC)** for medical, practical and emotional support.
+
+*If you may want to report later:* try not to edit/alter conversations; save messages/screenshots and keep any relevant notes in a secure place (only if it’s safe for you to do so).
 
 ## What can wait
-- You do not need to decide whether to file a formal police report or an Employment Tribunal claim today.
-- You do not need to determine if their behaviour meets a "criminal" threshold before seeking support.
-- You do not need to prepare a perfect, chronological evidence file before talking to a specialist advisor.
+- You do not need to decide right now whether to make a formal complaint, report to police, or “prove” what’s happening.
+- You do not need to craft the perfect message or have the perfect timeline before you tell a manager/HR or a support service.
+- You do not need to work out whether this person is “dangerous” or “just awkward” before taking steps to protect yourself.
 
 ## Important reassurance
-Boundary testing often involves small, incremental escalations designed to confuse your instincts. It is normal to feel "frozen" or to find yourself "fawning" (acting overly polite) to stay safe; these are involuntary survival responses and do not mean you consented to the behaviour.
+It makes sense to feel confused when someone pushes boundaries in small steps—this behaviour is often designed to test what they can get away with. Freezing, fawning, laughing, or going quiet are common stress responses. You’re not overreacting by wanting it to stop.
 
 ## Scope note
-This guide provides first-step stabilization for identifying and disengaging from sexual harassment. Decisions regarding legal action, formal grievances, or police involvement should be made with the guidance of a specialist.
+This is first-steps only—focused on immediate safety, reducing access, and getting support. Any next decisions (formal complaints, legal routes, reporting) can be made later with specialist help.
 
 ## Important note
-This information is for guidance only and does not constitute legal or medical advice. UK employment law regarding the proactive duty to prevent sexual harassment applies to all employers regardless of size.
+This is general information, not legal advice or a substitute for professional support. If you are in immediate danger, call 999. If you want confidential support, reach out to a specialist service.
 
 ## Additional Resources
-- https://www.victimsupport.org.uk/crime-info/types-crime/sexual-harassment/
-- https://rapecrisis.org.uk/get-informed/types-of-sexual-violence/what-is-sexual-harassment/
-- https://rapecrisis.org.uk/get-informed/about-sexual-violence/sexual-consent/
+- https://www.acas.org.uk/sexual-harassment
+- https://www.acas.org.uk/discrimination-and-the-law/harassment
 - https://rapecrisis.org.uk/get-help/want-to-talk/
-- https://www.victimsupport.org.uk/more-us/why-choose-us/specialist-services/sexual-violence-services/
+- https://247sexualabusesupport.org.uk/
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://www.equalityhumanrights.com/guidance/sexual-harassment-and-harassment-work-technical-guidance
+- https://www.acas.org.uk/sexual-harassment/steps-for-employers-to-prevent-sexual-harassment

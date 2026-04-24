@@ -1,86 +1,67 @@
----
+﻿---
 title: "What to do if… you are asked to identify someone in a photo lineup or video and you are not confident"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "photo lineup"
-  - "video identification"
-  - "identification parade"
-  - "viper video lineup"
-  - "witness identification"
-  - "eyewitness uncertainty"
-  - "not confident in identification"
-  - "not sure who suspect is"
-  - "i cannot identify them"
-  - "police asking to identify someone"
-  - "pressured to pick from lineup"
-  - "misidentification risk"
-  - "memory uncertainty"
-  - "face recognition mistake"
-  - "police station identification"
-  - "viewing suspects on video"
-  - "being told to choose someone"
-  - "uncertain identification"
-  - "what do i do if i am not sure in a lineup"
-  - "what do i do if i dont recognize the suspect"
-  - "what do i do if i cant identify someone in a photo"
-  - "what do i do if police pressure me to pick a face"
-  - "help i cant remember the face clearly"
-  - "help i am at an identification parade"
-  - "help i dont want to pick the wrong person"
-  - "help i am not confident in my memory"
-  - "my memory of the suspect is blurry"
-  - "my witness statement is uncertain"
-  - "my identification is not 100 percent"
-  - "seeing a face that looks similar"
-  - "doubting my identification"
-  - "identification procedure anxiety"
-  - "not recognizing anyone in the video"
-  - "being asked to view images"
-  - "identifying people in police photos"
-last_reviewed: "2026-03-17"
+  - photo lineup
+  - video identification
+  - identification parade
+  - viper video lineup
+  - witness identification
+  - eyewitness
+  - not confident
+  - not sure who it is
+  - i can’t identify them
+  - police asking to identify
+  - pressured to pick someone
+  - misidentification risk
+  - memory uncertainty
+  - face recognition mistake
+  - police station identification
+  - viewing suspects on video
+  - told to choose someone
+  - uncertain identification
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you are asked to identify someone in a photo lineup or video and you are not confident (UK)
 
 ## Short answer
-State clearly that you are unable to make a positive identification and ensure your exact words regarding your lack of confidence are recorded in the official procedure log. Do not select a person based on similarity alone.
+Don’t guess. Say clearly: “I can’t make an identification” or “I’m not confident enough to identify anyone,” and make sure that exact wording is recorded.
 
 ## Do not do these things
-- Do not select a person because they look "the most like" the offender if you are not certain.
-- Do not feel obligated to make a selection to help the investigation.
-- Do not discuss the images or the procedure with other witnesses.
-- Do not search for news reports or social media images of the incident before the procedure.
-- Do not sign any document that describes your identification as "certain" if you expressed doubt.
+- Don’t “pick the closest” or choose because you feel you *should* help.
+- Don’t let anyone talk you into being “more certain” than you are.
+- Don’t discuss the lineup with other witnesses or look for opinions (“Was it number 4?”).
+- Don’t look up photos/videos of the incident or suspects online “to check” (it can change what you later remember).
+- Don’t sign a statement that overstates your certainty.
 
 ## What to do now
-1. **Listen for the mandatory police warning.** The officer must tell you that the person you saw may or may not be in the lineup and that if you cannot make an identification, you should say so.
-2. **State your uncertainty using a single, clear phrase.** Say: "I am not confident enough to identify anyone" or "I cannot make an identification."
-   - If a specific person looks familiar but you are not sure, say: "Number [X] looks similar, but I am not certain it is the same person."
-3. **Ensure your exact wording is recorded in the identification log.** Ask the identification officer: "Please record my exact words about my level of confidence."
-4. **Identify the specific procedure being used.** Ask if this is a procedure under PACE Code D (England, Wales, and Northern Ireland) or a VIPER parade (Scotland).
-   - Ask for the name and rank of the "Identification Officer" (who must not be the officer leading the investigation).
-5. **Request a pause if you feel pressured by the environment.** Say: "I need a moment to think without pressure." Formal procedures allow you to view the images at your own pace; you should look at every person in the lineup at least twice before making any comment.
-6. **Confirm your original description is on record.** Before viewing any images, ask the officer to confirm that your initial description of the suspect has been documented.
-7. **Ask for an appropriate adult or solicitor if you are vulnerable or under 18.** You have a right to support during the procedure if you meet these criteria.
-8. **Verify the written record before leaving the station.** Read the contemporaneous notes of the procedure and ensure they reflect your uncertainty rather than just stating "no identification made" if you provided specific details about a "similar" person.
+1. **Use one clear sentence and stick to it.** Say: “I’m not confident enough to identify anyone” (or “I can’t identify anyone”). If someone looks familiar but you’re unsure, say: “Number __ looks similar, but I cannot identify them.”
+2. **Ask for your confidence to be recorded in your own words.** Say: “Please record my exact words about how confident I am.” If they summarise, correct it immediately.
+3. **Ask what identification procedure this is.** In England & Wales, Code D covers procedures such as **video identification**, an **identification parade**, or **group identification**. Ask which one this is and who the “identification officer” is for the procedure.
+4. **If you feel rushed or pushed, ask for a short pause.** Say: “I need a moment. I don’t want to guess.” A brief break is a practical way to prevent a pressured decision.
+5. **If you feel pressured, ask for a supervisor and repeat your position.** Calmly say: “I’m not willing to guess. Please note that I’m not making an identification.”
+6. **Protect your original memory.** If you previously gave a description, ask: “Please confirm my first description is recorded as it was first given, before I viewed anything.” Don’t “update” your description to match what you’ve just been shown.
+7. **If you are being treated as a suspect, get a solicitor before doing anything further.** Say: “I want legal advice before I take part in any identification procedure or answer further questions.” If you’re under 18 or need support because of vulnerability, ask for an **appropriate adult** as well.
+8. **Before you leave, check what was written down.** If asked to sign anything, read it carefully and correct wording that turns uncertainty into certainty (for example, “identified” when you actually said “looks similar but not confident”).
 
 ## What can wait
-- You do not need to worry about the impact of a "non-identification" on the case today; the police are responsible for finding other evidence.
-- You do not need to provide a scientific explanation for why your memory is unclear.
-- You do not need to decide immediately whether to lodge a complaint about the officer's conduct.
+- You do **not** need to decide now whether to complain about how the procedure was run.
+- You do **not** need to justify your uncertainty or debate memory science. The key thing is: **don’t guess, and get your uncertainty recorded accurately.**
+- You do **not** need to chase case updates today.
 
 ## Important reassurance
-It is very common for witnesses to be unable to identify a suspect in a formal lineup. Admitting uncertainty is a vital part of the legal process and prevents the wrong person from being charged. Your honesty protects the integrity of the investigation.
+Not being able to identify someone is common. The safest thing you can do for everyone involved is to be honest about what you genuinely remember—especially when you’re not confident.
 
 ## Scope note
-This guidance covers the immediate actions required during a formal police identification procedure. It does not cover giving evidence in court or the long-term legal implications of witness testimony.
+This is first-steps-only guidance for the moment you’re asked to identify someone. Later decisions (statements, court, complaints) may need specialist legal advice.
 
 ## Important note
-This information is based on the Police and Criminal Evidence Act 1984 (PACE) Code D for England, Wales, and Northern Ireland, and standard police practice in Scotland. Procedures in Scotland are governed by different legal frameworks and usually involve the VIPER system overseen by the Procurator Fiscal. If you feel coerced or if you are being treated as a suspect, you should seek independent legal advice immediately.
+This is general information, not legal advice. Identification procedure rules differ across the UK: the guidance above is based on the England & Wales framework (PACE Code D). If you are in Scotland or Northern Ireland, ask the police what legal framework applies and consider getting local legal advice. If you think you’re being treated as a suspect or you feel coerced, get independent legal advice before continuing.
 
 ## Additional Resources
 - https://www.gov.uk/government/publications/pace-code-d-2023/pace-code-d-2023-accessible
-- https://www.viper.police.uk/pages/a_witness.html
-- https://www.viper.police.uk/pages/witness_faq.html
-- https://www.viper.police.uk/pages/a_witness2.html
-- https://www.copfs.gov.uk/publications/lord-advocate-s-guidelines-visual-identification-procedures/html/
+- https://www.gov.uk/government/publications/pace-code-d-2023
+- https://www.legislation.gov.uk/ukdsi/2023/9780348252385/2023-12-20
+- https://www.legislation.gov.uk/uksi/2002/615/made

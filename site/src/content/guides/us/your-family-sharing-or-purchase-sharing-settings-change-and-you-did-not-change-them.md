@@ -1,100 +1,93 @@
----
+﻿---
 title: "What to do if… your family sharing or purchase-sharing settings change and you did not change them"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "family sharing settings changed"
-  - "purchase-sharing settings altered"
-  - "unauthorized family group changes"
-  - "unknown family member added"
-  - "purchase sharing turned on without consent"
-  - "family sharing help"
-  - "what do i do if my family sharing changed"
-  - "what do i do if purchase-sharing settings changed"
-  - "what do i do if someone joined my family group"
-  - "what do i do if my apple family settings changed"
-  - "help i didnt change my family sharing"
-  - "help i see unknown family members"
-  - "help my purchase sharing was enabled"
-  - "help my family group is different"
-  - "apple account family sharing changed"
-  - "google play family library unauthorized member"
-  - "unexpected subscription in family group"
-  - "family payment method changed unauthorized"
-  - "sign of account compromise family sharing"
-  - "secure family sharing settings"
-  - "stop family purchase sharing"
-  - "unauthorized apple account changes"
-  - "unauthorized google account changes"
-  - "family organizer changed without permission"
-  - "recovery of family sharing group"
-  - "remove unknown person from family sharing"
-  - "sharing settings reset"
-  - "suspicious family group activity"
-  - "purchase sharing notification"
-  - "family sharing security review"
-last_reviewed: "2026-03-17"
+  - family sharing changed
+  - purchase sharing turned on
+  - family group changed
+  - someone changed my family settings
+  - app store family sharing altered
+  - apple family sharing changed
+  - google play family library changed
+  - family library settings changed
+  - purchase approvals turned off
+  - family payment method changed
+  - unknown family member added
+  - removed from family group
+  - organizer changed
+  - account settings changed
+  - suspicious account activity
+  - shared purchases without consent
+  - unexpected subscriptions in family
+  - i didn’t change these settings
+  - unauthorized account access
+  - family sharing settings reset
+  - payment sharing changed
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your family sharing or purchase-sharing settings change and you did not change them (USA)
 
+# What to do if… your family sharing or purchase-sharing settings change and you did not change them (USA)
 ## Short answer
-Assume your primary account (Apple or Google) is compromised: **immediately update sign-in security** to lock out others, then use built-in safety tools to audit and remove unauthorized sharing permissions or members.
+Assume someone accessed your Apple/Google account: **secure sign-in first** (new password + 2FA + sign out other sessions), then review family/purchase sharing and payment methods to stop new charges.
 
 ## Do not do these things
-- Do not click links in "security alert" emails or texts; navigate to account settings directly through your device or official website.
-- Do not ignore small "test" charges (e.g., $0.99 or $1.00) on your shared payment method.
-- Do not delete the family group entirely until you have screenshotted the names and IDs of unauthorized members.
-- Do not reuse any variation of your previous password.
-- Do not assume the change was a system glitch if you have a shared payment method attached.
+- Don’t use links from surprise emails/texts to “verify” or “unlock” anything — open the official app or type the official site yourself.
+- Don’t start removing random devices/users before securing sign-in — you can trigger lockouts or miss how they’re getting back in.
+- Don’t keep a shared payment method active “until you figure it out” if unauthorized purchases are happening.
+- Don’t reuse the old password or a slight variation of it.
+- Don’t rush into accusations; get control and records first.
 
 ## What to do now
-1. **Secure the primary account from a trusted device.**
-   - **Update your Apple Account or Google Account password immediately to a unique, strong string.**
-   - **Verify that two-factor authentication (2FA) is active and that the "Trusted Phone Numbers" or "Recovery Emails" are exclusively yours.**
-   - **Force a sign-out of all other sessions or devices currently logged into the account.**
+1. **Stop new spending risk.**
+   - If there are unauthorized charges, contact your card issuer/bank right away to dispute and ask what they can do to prevent further transactions (for example, freezing/locking the card in your banking app or issuing a replacement card).
+   - Remove/disable the shared family payment method temporarily if the platform allows it.
 
-2. **Run a specialized security audit for your specific platform.**
-   - **On iPhone (iOS 16+), go to Settings > Privacy & Security > Safety Check.**
-     - Use "Manage Sharing & Access" to see exactly who has access to your location, purchases, and data.
-   - **On Android, go to the Google app > Manage your Google Account > Security > Security Checkup.**
-     - Review all "Recent security activity" for sign-ins that coincide with the setting changes.
+2. **Secure the controlling account (Apple Account / Google Account) immediately.**
+   - Change the password to a new, unique one.
+   - Turn on two-factor authentication (2FA).
+   - Use account security settings to **sign out of other devices/sessions**.
 
-3. **Document and remove unauthorized family members.**
-   - **Take screenshots of any unrecognized names, email addresses, or device names in the family group.**
-   - **Remove any members you do not recognize from the family sharing list.**
-     - Apple: Settings > [Your Name] > Family Sharing.
-     - Google: Google Play Store > Profile Icon > Settings > Family > View family members.
+3. **Remove “ways back in” so they can’t regain access. Do this from a device you trust.**
+   - Verify recovery email(s) and phone number(s) are yours; remove anything unfamiliar.
+   - Review **devices with account access** and sign out unknown devices/sessions.
+   - Check the email account tied to resets for unexpected forwarding/filters or new recovery details.
 
-4. **Restrict or disable shared payment methods.**
-   - **Change the "Purchase Sharing" toggle to 'Off' to immediately stop members from charging your primary card.**
-   - **Check your "Purchase History" or "Order History" for any items you did not authorize.**
-   - **Contact your bank or credit card issuer to report fraudulent charges if the platform's internal refund request is denied.**
+4. **Run a quick security review (often reveals the cause).**
+   - Google: run **Security Checkup** (recent security events, devices, third-party access).
+   - Apple: review trusted devices/numbers and recent sign-in prompts in Apple Account settings.
 
-5. **Enable hardware-level protections to prevent recurrence.**
-   - **On iPhone, ensure "Stolen Device Protection" is turned 'On' (Settings > Face ID & Passcode).**
-     - This prevents a thief from changing your Apple Account password or security settings even if they know your passcode.
-   - **On Google Play, enable "Require Authentication for Purchases" for 'All purchases' (Google Play > Settings > Family).**
+5. **Review and lock down family/purchase sharing settings.**
+   - Apple: Settings → your name → **Family** (or Family Sharing). Confirm who is in the group, who the organiser is, and whether purchase sharing is enabled; remove unknown members and disable purchase sharing if needed.
+   - Google Play: Google Play → profile icon → Settings → **Family**. Review family group, Family Library settings, and purchase approval requirements; stop sharing/remove unknown members if needed.
 
-6. **Verify email forwarding and filter settings.**
-   - **Check the email account associated with your Apple/Google Account for any hidden "Forwarding" rules or "Filters" that might be sending security alerts to a different address.**
+6. **Check purchase history and subscriptions once, then stop.**
+   - Look for new subscriptions, “free trial” conversions, and in-app purchases.
+   - Cancel what you can from the platform’s subscriptions area after securing the account (so cancellation can’t be reversed).
+
+7. **If it involved fraud or persistent access, report it (USA path).**
+   - You can file a report with the FBI’s Internet Crime Complaint Center (IC3) for cyber-enabled fraud/scams.
+   - Be careful: scammers create look-alike reporting portals. Type the official site yourself and avoid “sponsored” or unfamiliar domains.
 
 ## What can wait
-- You do not need to cancel your entire Apple or Google account today; securing the password and 2FA is sufficient for stabilization.
-- You do not need to replace your physical credit card immediately if you have successfully removed it from the digital wallet and disabled purchase sharing.
-- You do not need to identify the physical location of the unauthorized intruder before taking action to lock them out.
+- You don’t need to decide today whether to permanently stop using family sharing — disabling purchase sharing temporarily is a valid safety move.
+- You don’t need to do a deep audit of every device right now; first secure the account and stop spending.
+- You don’t need to confront anyone immediately if you suspect someone you know; stabilize access and records first.
 
 ## Important reassurance
-Unauthorized setting changes are often the result of an automated "account takeover" (ATO) rather than a personal attack. Following the sequence of updating your password, checking trusted recovery routes, and auditing the family list will effectively terminate current unauthorized access in most cases.
+Seeing settings change without your input is unsettling, but a disciplined sequence (secure sign-in → sign out others → verify recovery routes → lock down sharing) usually stops it quickly.
 
 ## Scope note
-This guide provides first-step stabilization for digital account security and unauthorized sharing. It does not cover long-term identity theft recovery or legal proceedings against specific individuals.
+This is “first response” guidance. If you’re locked out, the organiser role was changed, or access keeps recurring, the next step is platform support and formal dispute/reporting.
 
 ## Important note
-This information is for general guidance and does not constitute legal, financial, or technical advice. Platform interfaces and security features may change; always refer to official documentation from Apple Support or Google Help for the most current menu paths. If you suspect your Social Security number or full identity has been compromised, visit IdentityTheft.gov.
+This is general information, not legal, financial, or cybersecurity professional advice. If you can’t verify something safely (like whether a device is yours), prioritize securing access and using official support paths.
 
 ## Additional Resources
-- https://support.apple.com/en-us/102560
+- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
+- https://support.apple.com/en-us/102660
 - https://support.apple.com/en-us/102652
-- https://support.apple.com/en-us/108774
-- https://support.google.com/families/answer/6286986?hl=en
-- https://support.google.com/googleplay/answer/7007852?hl=en
+- https://support.google.com/accounts/answer/3067630?hl=en
+- https://myaccount.google.com/intro/security-checkup
+- https://www.ic3.gov/
+- https://www.fbi.gov/investigate/cyber

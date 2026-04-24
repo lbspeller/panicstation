@@ -1,95 +1,82 @@
----
+﻿---
 title: "What to do if… you notice new slurred speech or difficulty getting words out"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - "sudden slurred speech"
-  - "difficulty getting words out"
-  - "trouble speaking clearly"
-  - "new speech problems"
-  - "sudden word finding trouble"
-  - "speech sounds drunk"
-  - "face droop and speech"
-  - "arm weakness and speech"
-  - "stroke warning signs"
-  - "temporary speech loss"
-  - "sudden garbled speech"
-  - "cannot talk properly"
-  - "speech changes suddenly"
-  - "sudden neurological symptoms"
-  - "last known well time"
-  - "symptoms started time"
-  - "what do i do if i cant talk suddenly"
-  - "what do i do if my speech is slurred"
-  - "what do i do if someone is slurring words"
-  - "what do i do if i have sudden confusion"
-  - "help i cant say words right"
-  - "help my face is drooping"
-  - "help my arm is weak"
-  - "my speech is suddenly strange"
-  - "visible face drooping"
-  - "unbalanced gait and speech"
-  - "sudden vision blurring"
-  - "speech sounds like mumbles"
-  - "unable to repeat sentences"
-  - "one sided body weakness"
-last_reviewed: "2026-03-16"
+  - slurred speech suddenly
+  - difficulty getting words out
+  - trouble speaking clearly
+  - new speech problems
+  - sudden word finding trouble
+  - speech sounds drunk
+  - face droop and speech
+  - arm weakness and speech
+  - stroke warning signs
+  - possible mini stroke
+  - tia symptoms
+  - sudden confusion speaking
+  - speech suddenly garbled
+  - can’t talk properly
+  - speech changes out of nowhere
+  - sudden neurological symptoms
+  - last known well time
+  - symptoms started time
+last_reviewed: "2026-01-21"
 ---
+
 # What to do if… you notice new slurred speech or difficulty getting words out (USA)
 
 ## Short answer
-**Call 911 immediately** and state that you are experiencing or witnessing a sudden change in speech that could be a stroke. Do not wait for symptoms to improve or drive yourself to a hospital.
+Call **911 now** and say you think it could be a **stroke**. Do **not** drive yourself to the ER.
 
 ## Do not do these things
-- Do not wait to see if the symptoms pass, even if they seem to be resolving.
-- Do not drive yourself or allow an untrained person to drive you to the emergency department.
-- Do not eat, drink, or take any medication, including aspirin, unless specifically instructed by the 911 dispatcher.
-- Do not lie down to sleep or rest to "see how you feel" later.
-- Do not assume the situation is minor because there is no pain.
+- Do not “wait and see” if it passes, even if it’s mild or comes and goes.
+- Do not drive yourself or let someone else drive you to the hospital.
+- Avoid eating or drinking **unless the 911 dispatcher or a clinician tells you it’s safe** (swallowing can be unsafe during a stroke).
+- Do not take **aspirin** or start new medicines “just in case,” and do not take **extra doses** of anything. Tell EMS what you already take.
+- Do not go to sleep or “lie down for a while” to see if it improves.
+- Do not downplay it because you can still walk or symptoms seem subtle.
 
 ## What to do now
-1. **Call 911 immediately and tell the dispatcher you suspect a stroke.**
-   - State clearly: "New slurred speech and trouble speaking."
-   - Keep the phone on speaker if you are alone.
-   - Do not hang up even if you are having trouble forming words; the dispatcher can trace the call.
-2. **Note the exact time the symptoms were first noticed.**
-   - If the exact start is unknown, identify the "last known well" time (the last time speech was definitely normal).
-   - Provide this time clearly to the emergency operators.
-3. **Perform a F.A.S.T. check while waiting for the ambulance.**
-   - **Face:** Check for drooping or an uneven smile.
-   - **Arms:** Check if one arm drifts downward when both are raised.
-   - **Speech:** Check if speech is slurred, strange, or if a simple sentence cannot be repeated.
-   - **Time:** Confirm that 911 has already been contacted.
-4. **Position the person safely to prevent falls.**
-   - Sit or lie down on a flat surface.
-   - If vomiting occurs, roll the person onto their side to keep the airway clear.
-5. **Unlock the front door and secure pets.**
-   - Ensure emergency responders have immediate access to the building.
-   - Turn on an outside light if it is dark.
-6. **Gather a list of current medications and allergies if possible.**
-   - Prioritize identifying any blood thinners or anticoagulants.
-   - Do not spend more than sixty seconds on this; do not delay the ambulance for paperwork.
-7. **Treat symptoms that disappear as a full emergency.**
-   - Temporary speech loss (Transient Ischemic Attack) requires the same immediate 911 response as a lasting stroke.
+1. **Call 911 immediately.**  
+   - Say: “**New slurred speech / trouble getting words out — possible stroke**.”  
+   - If you’re alone and speech is hard, put the phone on **speaker** and **stay on the line**. If you can’t speak, follow prompts and make sounds so dispatch knows you need help—don’t hang up.
+2. **Write down the time symptoms started (or the time you were last normal).**  
+   - If the start was unwitnessed, use **last known well** (the last time you were definitely speaking normally).
+3. **Do a quick F.A.S.T. check while help is coming (don’t delay the call):**  
+   - **Face:** drooping/uneven smile?  
+   - **Arm:** weakness or drifting down?  
+   - **Speech:** slurred/strange, can’t find words, can’t repeat a sentence?  
+   - **Time:** you already called 911.
+4. **Prepare for EMS arrival (quickly).**  
+   - Unlock the door if safe, turn on a light, move pets aside, and keep your phone nearby.  
+   - If you’re in an apartment/building, be ready to share the **gate/entry code** or instructions.
+5. **Sit upright and avoid falls.**  
+   - Don’t pace around. If you feel weak or dizzy, sit/lie on your side.  
+   - If you vomit, roll onto your side to protect your airway.
+6. **Make a one-minute handoff for EMS (don’t spend long).**  
+   - On a note (or phone), write: **time started/last known well**, your **address**, and key meds (especially **blood thinners/anticoagulants**) and allergies.  
+   - If easy, put your medicines (or their boxes) and the note by the door. **Do not delay EMS** to do this.
+7. **If symptoms stop, still treat it as an emergency.**  
+   - Short-lived speech trouble can still be a warning sign that needs urgent evaluation.
 
 ## What can wait
-- You do not need to determine the cause of the speech change before seeking help.
-- You do not need to call a primary care physician or insurance provider first.
-- You do not need to pack a bag for a hospital stay.
-- You do not need to notify family members before the 911 call is placed.
+- You do not need to decide whether it’s a stroke, a “mini-stroke,” or something else before calling.
+- You do not need to contact your primary care office first or arrange your own ride.
+- You do not need to document every symptom—focus on **time started/last known well** and **medications**.
 
 ## Important reassurance
-Sudden changes in speech are often disorienting and frightening. It is normal to feel confused or hesitant when symptoms are not accompanied by pain. Calling 911 is the standard and correct protocol for any sudden neurological change, regardless of how "mild" it may appear.
+Sudden trouble speaking is scary, especially if you feel “fine” otherwise. Calling 911 is the right step even if you’re uncertain—EMS can start care quickly and route you to the right hospital.
 
 ## Scope note
-This guide provides first-step stabilization and emergency contact procedures for sudden speech changes. It does not replace professional medical diagnosis or clinical treatment.
+This guide covers first steps only—getting urgent care and avoiding dangerous delays. Diagnosis and treatment decisions belong with clinicians once you’re evaluated.
 
 ## Important note
-This information is for emergency stabilization only and is not medical advice. A stroke is a time-critical medical emergency. Always follow the instructions of the 911 dispatcher and arriving EMS personnel.
+This is general information, not medical advice or a diagnosis. If you suspect a stroke or sudden neurological symptoms, call 911.
 
 ## Additional Resources
 - https://www.cdc.gov/stroke/signs-symptoms/index.html
-- https://medlineplus.gov/stroke.html
-- https://medlineplus.gov/transientischemicattack.html
-- https://medlineplus.gov/ischemicstroke.html
-- https://medlineplus.gov/hemorrhagicstroke.html
+- https://www.stroke.org/en/about-stroke/stroke-symptoms
+- https://www.stroke.org/en/life-after-stroke/preventing-another-stroke/aspirin-and-stroke
+- https://www.ninds.nih.gov/health-information/stroke/signs-and-symptoms
+- https://www.nia.nih.gov/health/stroke/stroke-signs-causes-and-treatment

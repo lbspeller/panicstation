@@ -1,95 +1,73 @@
----
+﻿---
 title: "What to do if… a partner pressures you to drink more or take substances when you do not want to"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "partner pressure to drink"
-  - "pressured to take substances"
-  - "partner coercion alcohol"
-  - "partner coercion substances"
-  - "forced drinking by partner"
-  - "pressured to get drunk"
-  - "pushed to take pills"
-  - "spiked drink worry"
-  - "worried about consent drunk"
-  - "feeling unsafe with partner"
-  - "substance pressure in relationship"
-  - "partner won't take no"
-  - "scared after saying no"
-  - "pressured to use drugs"
-  - "coerced into drinking"
-  - "boundary ignored drinking"
-  - "fear of sexual pressure"
-  - "controlling behaviour partner"
-  - "what do i do if my partner is forcing me to drink"
-  - "what do i do if i am pressured to take drugs"
-  - "what do i do if my partner won't stop pushing alcohol"
-  - "what do i do if i think i was spiked by a partner"
-  - "help i am being pressured to drink"
-  - "help i feel unsafe with partner and alcohol"
-  - "help my partner is coercing me to take pills"
-  - "my partner is making me drink too much"
-  - "sudden onset of intoxication"
-  - "feeling drunker than expected"
-  - "drowsiness after one drink"
-  - "blurred vision partner pressure"
-  - "loss of coordination substances"
-  - "drink pressure in flat"
-  - "substance coercion at home"
-last_reviewed: "2026-03-17"
+  - partner pressure to drink
+  - pressured to take drugs
+  - partner coercion alcohol
+  - partner coercion substances
+  - forced drinking by partner
+  - pressured to get drunk
+  - pushed to take pills
+  - spiked drink worry
+  - worried about consent drunk
+  - feeling unsafe with partner
+  - date rape drug concern
+  - substance pressure in relationship
+  - partner won’t take no
+  - scared after saying no
+  - pressured to use drugs
+  - coerced into drinking
+  - boundary ignored drinking
+  - fear of sexual pressure
+  - controlling behaviour partner
+last_reviewed: "2026-03-13"
 ---
-# What to do if… a partner pressures you to drink more or take substances when you do not want to (UK)
 
+# What to do if… a partner pressures you to drink more or take substances when you do not want to (UK)
 ## Short answer
-Create physical distance and move to a safe, public, or lockable space immediately. If you suspect you have been given any substance without your consent, seek urgent medical assessment and avoid being alone with the person pressuring you.
+Create a safe pause and get away from them if you can, then contact someone safe and get specialist support. If you think you were given alcohol or drugs you did not agree to, get medical help urgently.
 
 ## Do not do these things
-- Do not drink or take a substance to "keep the peace" or stop an argument.
-- Do not accept an open drink, pill, powder, or vape that you did not see prepared or opened yourself.
-- Do not leave your drink unattended, even for a moment.
-- Do not negotiate or explain your boundaries while you are feeling pressured or intoxicated.
-- Do not blame yourself if you have already consumed something; coercion or spiking is never the victim's fault.
-- Do not "test" a substance to see if it is what they claim it is.
+- Do not try to “prove” your point by drinking or taking something to stop the argument.
+- Do not accept an open drink, “shot”, pill, powder, vape, or edible from them to “keep the peace”.
+- Do not drink something you did not see opened/poured, and do not leave your drink unattended.
+- Do not let them isolate you (e.g., take your phone, block the door, separate you from friends).
+- Do not negotiate your boundaries while you feel pressured, intoxicated, or scared.
+- Do not blame yourself if you already drank/took something — pressure is not consent.
 
 ## What to do now
-1. **Create an immediate safe pause.** Use a neutral excuse to leave the immediate area, such as going to the bathroom, checking the front door, or making a phone call.
-2. **Move to a more secure or public location.** If you are in a private home, move to a room with a lock or leave the building if it is safe to do so. If you are in a venue, go to the bar or reception and ask for help.
-3. **Check for sensory warning signs of spiking.** Observe if you feel any of the following suddenly:
-   - Feeling significantly more intoxicated than the amount you drank should cause.
-   - Sudden drowsiness, confusion, or nausea.
-   - Blurred vision or loss of physical coordination.
-   - Hallucinations or a sudden change in your perception of your surroundings.
-4. **Call 999 if you are in immediate danger or feel suddenly very unwell.** If you cannot speak, use the "Silent Solution" by pressing **55** when prompted on a mobile call to alert the operator that you need police assistance.
-5. **Contact a trusted person and share your live location.** Call or text someone you trust and ask them to stay on the line with you until you are in a safe place.
-6. **Seek a medical and forensic assessment if you suspect spiking.** Go to an Accident and Emergency (A&E) department or a Sexual Assault Referral Centre (SARC). 
-   - Note that many substances used for spiking leave the system within 12 to 72 hours, so early testing is critical for evidence.
-   - SARCs can provide medical care and store forensic evidence for up to two years without you having to involve the police.
-7. **Secure your belongings and communication.** Keep your phone and house keys with you at all times. If it is safe, keep a record of any texts or messages where you were pressured or told to take a substance.
-8. **Contact specialist support helplines.** 
-   - **24/7 Rape & Sexual Abuse Support Line:** Call 0808 500 2222 (England and Wales).
-   - **National Domestic Abuse Helpline (England):** Call 0808 2000 247.
-   - **Scotland:** Domestic Abuse and Forced Marriage Helpline (0800 027 1234).
-   - **Wales:** Live Fear Free (0808 80 10 800).
-   - **Northern Ireland:** Domestic and Sexual Abuse Helpline (0808 802 1414).
+1. **Make a safe pause.** Use a simple line you can repeat: “No. I’m not drinking/taking anything. I’m going to the bathroom / outside / to call a taxi.” Then move to a more public or lockable place if possible.
+2. **Get physical distance.** If you’re together, leave the room/venue/home if you safely can. Go to a staffed place (shop, café, hotel reception) or near other people.
+3. **Contact a safe person immediately.** Call or message someone you trust with a clear request: “I need you to stay on the phone and help me get home / come get me.” If you can, share your live location.
+4. **If you feel trapped or at immediate risk, call emergency services.** In the UK call **999**. If it’s not an emergency but you need police help/advice, call **101**.
+5. **If you think you were drugged/spiked or you feel suddenly unwell, get urgent medical help.** If severe symptoms (fainting, breathing problems, seizures, confusion), call **999**. Otherwise contact **NHS 111** for urgent advice. If you might want options later (medical care, support, and evidence), you can contact a **Sexual Assault Referral Centre (SARC)** for help even if you’re unsure what happened.
+6. **Protect your ability to make choices.** If you have already consumed anything, avoid being alone with them. Ask staff/friends to stay with you. Do not accept more drinks/food from them.
+7. **Save what you already have (only if safe).** Do not delete texts/DMs about drinking/drugs/sex or the situation; screenshot/save them somewhere private if you can.
+8. **Write down a quick note for yourself while it’s fresh (only if safe).** Time, place, what was said (“drink this”, “don’t be boring”), what you had, and any sudden symptoms. Keep it somewhere private (notes app, email draft to yourself).
+9. **Reach specialist support (confidential).** You can contact **Rape Crisis** (if sexual pressure is involved or you’re unsure), and/or the **National Domestic Abuse Helpline (England)** for support with coercion and safety planning. If you are in Scotland or Northern Ireland, use local services there.
 
 ## What can wait
-- You do not need to decide if this behavior meets the legal definition of "coercive control" right now.
-- You do not need to decide whether to end the relationship tonight.
-- You do not need to confront the person about their behavior while you are in a vulnerable state.
-- You do not need to justify your decision to leave the situation to anyone.
+- You do not need to decide right now whether this “counts” as abuse, coercion, or a crime.
+- You do not need to confront them, explain your reasons, or get them to agree with you tonight.
+- You do not need to make decisions about reporting, leaving the relationship, or telling family immediately.
+- You do not need to gather proof right now beyond keeping yourself safe.
 
 ## Important reassurance
-It is normal to feel confused, "frozen," or uncertain when someone you know pressures you. This is a common physiological response to a boundary violation. Your priority is your immediate physical safety; you do not need to have all the answers or a long-term plan in this moment.
+It is common to freeze, go quiet, or feel confused when someone pushes your boundaries — that response is your nervous system trying to protect you. Pressuring you to drink or take substances (especially to reduce your resistance) is a serious warning sign, and you deserve support without having to “justify” your no.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction actions for an acute situation involving substance-related pressure or coercion. It is not a substitute for legal advice, medical diagnosis, or long-term safety planning with a specialist.
+These are first steps to stabilise the situation and reduce harm. Longer-term decisions (relationship, reporting, legal options, safety plans) can be made later with specialist support.
 
 ## Important note
-If you believe you have been drugged, medical assessment is the priority to ensure your physical health. You can access support and forensic testing at a SARC even if you are unsure exactly what happened or if you do not wish to make a police report at this time.
+This guide is general information, not legal or medical advice. If you feel in immediate danger, call 999. If you think you may have been drugged or are unwell, seek urgent medical help. You can seek specialist support even if you are unsure what happened or do not want to report.
 
 ## Additional Resources
-- https://www.drinkaware.co.uk/advice-and-support/help-to-reduce-drinking/navigating-social-situations/how-to-deal-with-peer-pressure
-- https://www.drinkaware.co.uk/advice-and-support/help-to-support-someone-else/alcohol-sexual-assault-and-harassment
-- https://www.drinkaware.co.uk/advice-and-support/help-to-support-someone-else/drink-spiking-and-date-rape-drugs
-- https://www.letstalkaboutit.nhs.uk/directory-services/sexual-assault/sexual-assault-consent-and-law
 - https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://www.england.nhs.uk/commissioning/sexual-assault-and-abuse/
+- https://rapecrisis.org.uk/get-help/im-not-sure-what-happened/
+- https://rapecrisis.org.uk/get-help/want-to-talk/
+- https://www.nhs.uk/live-well/getting-help-for-domestic-violence/
+- https://www.gov.uk/government/publications/spiking-factsheet/spiking-factsheet
+- https://www.cps.gov.uk/prosecution-guidance/controlling-or-coercive-behaviour-intimate-or-family-relationship

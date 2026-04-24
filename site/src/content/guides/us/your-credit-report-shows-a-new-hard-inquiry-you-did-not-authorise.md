@@ -1,103 +1,89 @@
----
+﻿---
 title: "What to do if… your credit report shows a new hard inquiry you did not authorise"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - "unauthorized hard inquiry"
-  - "hard credit inquiry not mine"
-  - "credit report new inquiry"
-  - "unknown creditor pulled credit"
-  - "identity theft credit check"
-  - "someone applied for credit"
-  - "suspicious credit inquiry"
-  - "credit bureau dispute inquiry"
-  - "hard inquiry fraud alert"
-  - "credit freeze after inquiry"
-  - "credit report inquiry error"
-  - "lender inquiry i didnt authorize"
-  - "new credit pull appeared"
-  - "credit file suspicious inquiry"
-  - "fraud credit application"
-  - "unauthorized credit pull"
-  - "inquiry from unknown bank"
-  - "credit report accuracy dispute"
-  - "help i have a new credit inquiry"
-  - "what do i do if my credit was pulled"
-  - "what do i do if i see a hard inquiry"
-  - "help i did not apply for this credit"
-  - "help someone used my social for credit"
-  - "unfamiliar bank on credit report"
-  - "unrecognized hard pull"
-  - "mysterious credit check"
-  - "fcra dispute hard inquiry"
-  - "blocked credit application"
-  - "stop unauthorized credit pull"
-  - "identity theft report inquiry"
-last_reviewed: "2026-03-17"
+  - unauthorized hard inquiry
+  - hard credit inquiry not mine
+  - credit report new inquiry
+  - unknown creditor pulled credit
+  - identity theft credit check
+  - someone applied for credit
+  - suspicious credit inquiry
+  - credit bureau dispute inquiry
+  - hard inquiry fraud alert
+  - credit freeze after inquiry
+  - credit report inquiry error
+  - lender inquiry i didnt authorize
+  - new credit pull appeared
+  - credit file suspicious inquiry
+  - fraud credit application
+  - unauthorized credit pull
+  - inquiry from unknown bank
+  - credit report accuracy dispute
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… your credit report shows a new hard inquiry you did not authorise (USA)
 
 ## Short answer
-Place a free credit freeze with all three major bureaus immediately to block further applications, then contact the inquiring company to cancel any pending fraudulent accounts.
+Assume an unfamiliar hard inquiry could be an attempted credit application. First, place a free credit freeze with each of the three major bureaus (or at least a fraud alert), then dispute the inquiry with the bureaus and the company that pulled your credit.
 
 ## Do not do these things
-- Don't click links or call numbers provided within the credit report itself without independent verification.
-- Don't assume that disputing the inquiry with one bureau will automatically notify the other two.
-- Don't pay for "credit lock" or "identity protection" services to remove a fraudulent inquiry; freezes and disputes are free by law.
-- Don't apply for new credit yourself until you have secured your files, as this adds legitimate inquiries that complicate the fraud investigation.
-- Don't ignore the inquiry even if your credit score hasn't dropped yet.
+- Don’t call numbers or click links shown next to the inquiry unless you verify them independently.
+- Don’t apply for more credit “to see what happens.”
+- Don’t pay anyone who promises to “instantly remove” inquiries.
+- Don’t assume disputing with one bureau covers the others.
+- Don’t confuse a free **credit freeze** with a paid **credit lock** product.
 
 ## What to do now
-1. **Save a copy of the credit report showing the unauthorized inquiry immediately.** 
-   - Note the exact name of the creditor, the date of the inquiry, and which bureau (Equifax, Experian, or TransUnion) reported it.
-   - Take a screenshot or download the PDF for your records.
+1. **Save the evidence from your credit report immediately.**  
+   Note the company name, date of the hard inquiry, and which bureau report you saw it on. Save a screenshot/PDF.
 
-2. **Place a free credit freeze with each of the three nationwide credit bureaus.** 
-   - You must contact each bureau individually to place a freeze:
-     - Equifax: 800-685-1111 (Equifax.com)
-     - Experian: 888-397-3742 (Experian.com)
-     - TransUnion: 888-909-8872 (TransUnion.com)
-   - A freeze prevents lenders from accessing your credit file to open new accounts.
+2. **Put a free credit freeze in place with each bureau (fastest way to stop new accounts).**  
+   You must freeze **separately** with Equifax, Experian, and TransUnion. A freeze blocks most new credit from being opened until you lift it.
 
-3. **Contact the fraud department of the company that performed the hard inquiry.** 
-   - Inform them that you did not authorize the credit pull and have not applied for credit.
-   - Request that they close any applications associated with your personal information.
-   - Ask for written confirmation that the application was fraudulent and has been terminated.
+3. **If you can’t freeze right now, place a fraud alert as a minimum.**  
+   You can place an initial fraud alert by contacting **any one** of the three bureaus — that bureau must notify the other two. (Fraud alerts are free and time-limited.)
 
-4. **File a formal dispute with the credit bureau that listed the inquiry.** 
-   - Use the bureau's online dispute portal or send a letter via certified mail.
-   - State that the inquiry is "unauthorized" or "fraudulent."
-   - Under the Fair Credit Reporting Act (FCRA), bureaus generally have 30 days to investigate and respond.
+4. **Contact the company that pulled your credit and stop any application.**  
+   Use the company’s official website to find their fraud department. Tell them:
+   - you did not authorize the credit pull
+   - you did not apply for credit
+   - you want any application in your name closed/cancelled  
+   Ask for written confirmation and ask what identifying details (address/phone/email) were used.
 
-5. **Access your full credit reports from the official government-authorized source.** 
-   - Go to AnnualCreditReport.com to get your free weekly reports from all three bureaus.
-   - Review every section for other signs of fraud, such as new addresses, misspelled names, or unfamiliar accounts.
+5. **Dispute the hard inquiry with each credit bureau that shows it.**  
+   File disputes stating the inquiry was unauthorized, naming the company and date. Keep copies of what you submit and any responses you get.
 
-6. **Create an Identity Theft Report through the Federal Trade Commission (FTC).** 
-   - Visit IdentityTheft.gov to document the incident.
-   - This official report provides legal protections and is often required by creditors to prove the inquiry was fraudulent.
+6. **Check for “more than an inquiry” using the official source for reports.**  
+   Pull your reports from **AnnualCreditReport.com** and look for new accounts, new addresses, or other changes you don’t recognize. Avoid similarly named sites.
 
-7. **Secure your primary communication and financial accounts.** 
-   - Change passwords for your email and banking apps.
-   - Enable multi-factor authentication (MFA) using an authenticator app rather than SMS if possible.
+7. **If anything suggests an account was opened, create an identity theft report and keep the paperwork.**  
+   Use the FTC’s identity theft reporting process and keep the resulting documents/reference information. Some lenders will ask for this (and sometimes a police report) to close fraudulent accounts.
+
+8. **Secure the accounts that enable credit applications.**  
+   Change the password on your primary email (enable two-factor authentication), and check your phone number for signs of takeover (unexpected loss of service, SIM change notices). These are common “entry points” for credit fraud.
 
 ## What can wait
-- You do not need to hire a lawyer or a credit repair company right now.
-- You do not need to contact your local police unless the creditor specifically requires a police report to close a fraudulent account.
-- You do not need to close your existing, legitimate credit card accounts unless you see suspicious activity on those specific statements.
+- You do **not** need to decide today whether to hire a credit repair company, pay for monitoring, or pursue legal action.
+- You do **not** need to contact every creditor — start with the company listed on the inquiry and the bureaus.
+- You can wait to replace IDs unless you have a specific reason to believe they’re stolen or being actively used.
+- You can wait to apply for new credit until your freeze/alert is in place and disputes are underway.
 
 ## Important reassurance
-Seeing an unauthorized inquiry is a high-accuracy "early warning" signal. Because you noticed it now, you are often able to freeze your credit before a thief successfully opens and spends money on a fraudulent account. Taking these steps quickly usually prevents financial loss.
+An unfamiliar hard inquiry is often caught early — before a new account is fully opened. Fast “blocking” steps (freeze or fraud alert) plus stopping any live application usually does the most to limit fallout.
 
 ## Scope note
-This guide covers the immediate stabilization of an unauthorized hard inquiry. If you discover that an account has already been opened or that your Social Security number has been misused for employment or taxes, you will need to follow a full identity theft recovery plan.
+This is first-step guidance for an unauthorized hard inquiry. If you later find new accounts, debt collection contact, or tax/benefit/employment fraud, you’ll likely need a broader identity theft recovery checklist.
 
 ## Important note
-This information is provided for general guidance and does not constitute legal or financial advice. Timelines for disputes are governed by the Fair Credit Reporting Act (FCRA). If you are experiencing active financial extortion or threats, contact your local law enforcement agency.
+This is general information, not legal advice. Rules and timelines can vary by state and by company. If you believe you’re being threatened, extorted, or stalked in connection with this, contact local law enforcement.
 
 ## Additional Resources
+- https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts
+- https://consumer.ftc.gov/articles/disputing-errors-your-credit-reports
+- https://www.usa.gov/credit-freeze
+- https://www.annualcreditreport.com/aboutThisSite.action
 - https://www.identitytheft.gov/
-- https://www.consumerfinance.gov/ask-cfpb/what-do-i-do-if-i-think-i-have-been-a-victim-of-identity-theft-en-31/
-- https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/
-- https://www.usa.gov/credit-report-errors
-- https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/sample-letters-dispute-credit-report-information/
+- https://www.law.cornell.edu/uscode/text/15/1681c-1

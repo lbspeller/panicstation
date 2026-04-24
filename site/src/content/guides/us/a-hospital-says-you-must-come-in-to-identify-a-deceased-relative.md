@@ -1,93 +1,94 @@
----
+﻿---
 title: "What to do if… a hospital says you must come in to identify a deceased relative"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "hospital says identify body"
-  - "asked to identify deceased relative"
-  - "identify a deceased relative"
-  - "medical examiner identification"
-  - "coroner identification request"
-  - "next of kin visual identification"
-  - "decedent affairs call"
-  - "hospital facility viewing"
-  - "identification without viewing"
-  - "not sure if mandatory to view"
-  - "what to bring to identify body"
-  - "signing identification paperwork"
-  - "release to funeral home delay"
-  - "sudden unexpected death"
-  - "overwhelmed after death call"
-  - "who to call back hospital"
-  - "can someone else identify"
-  - "briefed before viewing"
-  - "identification before autopsy"
-  - "decedent property pickup"
-  - "help i have to identify a body"
-  - "what do i do if i have to identify a relative"
-  - "my relative died and i have to identify them"
-  - "help i was called to the morgue"
-  - "smell of hospital"
-  - "visible body bag"
-  - "cold room"
-  - "identification via photo"
-  - "scientific identification methods"
-  - "positive identification vs presumptive"
-last_reviewed: "2026-03-16"
+  - hospital says identify body
+  - asked to identify deceased relative
+  - medical examiner identification
+  - coroner identification request
+  - next of kin visual identification
+  - decedent affairs call
+  - hospital morgue viewing
+  - identification without viewing
+  - not sure if mandatory to view
+  - what to bring to identify body
+  - signing identification paperwork
+  - release to funeral home delay
+  - sudden unexpected death
+  - overwhelmed after death call
+  - who to call back hospital
+  - can someone else identify
+  - briefed before viewing
+  - identification before autopsy
+  - decedent property pickup
+  - family crisis immediate steps
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… a hospital says you must come in to identify a deceased relative (USA)
 
 ## Short answer
-Confirm if the request is from the hospital or the Medical Examiner, ask for scientific identification alternatives (like fingerprints or medical records) to avoid physical viewing, and bring a government-issued photo ID.
+Call back to confirm whether the request is coming from the **hospital** or the **medical examiner/coroner**, and ask if identification can be confirmed **without you coming in** (in many cases, it can).
 
 ## Do not do these things
-- Don't drive yourself if you are experiencing physical tremors, disorientation, or extreme shock.
-- Don't assume you are legally required to view the physical body; in many jurisdictions, photo identification or scientific methods are the standard.
-- Don't feel pressured to sign "Release of Remains" forms until you have selected a funeral home.
-- Don't go to the facility without first confirming the exact department name and building address (e.g., Hospital Decedent Affairs vs. County Forensic Center).
-- Don't enter a viewing area until staff have briefed you on what you will see and the condition of the remains.
+- Don’t rush in without verifying who called and where you’re supposed to go (hospital unit, hospital morgue, or a county medical examiner/coroner office).
+- Don’t assume you must view the body immediately or without preparation; you can ask what you will see and what your options are.
+- Don’t go alone if you can avoid it; bring one steady support person or ask staff if someone can accompany you.
+- Don’t sign anything you don’t understand while in shock — ask what it is, what it’s for, and whether it’s required.
+- Don’t let anyone pressure you into “instant decisions.” In medical examiner/coroner cases, some things (like an autopsy) may be **required**; ask what is required vs optional.
 
 ## What to do now
-1. **Verify the caller and the location of the remains.** **Call the facility back through a verified main number and ask for the "Office of Decedent Affairs," "Bereavement Services," or the "Nursing Supervisor" to confirm the request is legitimate.**
-   - Write down the name and direct extension of the person you speak with.
-   - Confirm if the body is currently at the hospital or has been moved to the County Medical Examiner or Coroner’s office.
+1. **Confirm the caller and the agency.**  
+   Call the hospital’s main number and ask for **Decedent Affairs / Bereavement Services / Nursing Supervisor** and confirm the call was real.  
+   Write down: name, title, callback number, and any case/reference number.
 
-2. **Ask if a scientific identification has already been completed.** **Inquire if "Positive Identification" has been established through fingerprints, dental records, or medical implants, as this often removes the need for family participation.**
-   - Ask: "Is the identity already legally confirmed, or are you requesting a 'Presumptive Identification' from the family?"
+2. **Ask why identification is being requested and whether you actually have to come in.**  
+   Say: “I was told I must come in to identify my relative. Is that truly necessary, and if so, why?”  
+   If the medical examiner/coroner is involved, ask: “Is identity already confirmed by other means, or do you need something from the family?”
 
-3. **Request a photograph identification as an alternative to physical viewing.** **Ask if you can view a digital photograph of the face only, which is a standard practice in many Medical Examiner offices to reduce family trauma.**
-   - If you cannot perform this, ask: "Is there another legal next-of-kin or a family friend who can perform the visual identification instead?"
+3. **Ask what alternatives exist if you cannot do an in-person visual identification.**  
+   You can say: “I’m not able to do a viewing.”  
+   Then ask: “What options do you use instead, and what (if anything) do you need from me?”  
+   (Depending on the case, offices may confirm identity using records such as fingerprints, medical/dental information, or DNA comparison, and may only need you to provide background or contacts.)
 
-4. **Gather required documentation before leaving your home.** **Ensure you have your own government-issued photo ID (driver’s license or passport), as facilities cannot legally accept an identification from a witness who is not identified themselves.**
-   - Take a notebook and pen to record the case number and any instructions regarding personal property.
+4. **If a visual ID is required, ask for preparation and boundaries before you agree.**  
+   Ask:
+   - “Will someone explain what to expect before I decide?”
+   - “Will I be asked to sign an identification form?”
+   - “Can another legal next-of-kin do this instead of me?”
+   - “Where will viewing happen (if any) — at your facility or at the funeral home later?”
 
-5. **Request a briefing before you agree to a physical viewing.** **Ask the staff to describe the current condition of the relative and any medical equipment (tubes, bandages) that may still be in place.**
-   - You can set boundaries, such as: "I only want to see the face" or "I need a chaplain/social worker to be present with me."
+5. **Ask what happens next and what choices are time-sensitive (if any).**  
+   If the medical examiner/coroner is handling the case, ask:
+   - “When can the decedent be released?”
+   - “Do you release directly to a licensed funeral home, and if so, do you need that choice now — or by what date/time?”
+   - “If we’re not ready today, what happens in the meantime?”
 
-6. **Ask for a timeline for the release of remains.** **Determine if an autopsy is required by law (Medical Examiner cases) or if it is a consensual hospital autopsy, which requires your written permission.**
-   - Ask: "By what date must I select a funeral home for transport?"
+6. **Bring support and reduce practical risk.**  
+   - Don’t drive if you’re shaking, dissociating, or sleep-deprived; ask someone to take you or use a ride.  
+   - Take water, a snack, and a short list of your questions on your phone.
 
-7. **Coordinate transport and physical support.** **Ask a trusted friend or relative to drive you and remain in the waiting area, even if they do not accompany you into the identification room.**
-   - Notify the facility staff if you have a history of fainting or severe physical reactions to medical environments.
+7. **If you feel you may collapse, say so and ask for basic accommodations.**  
+   Ask for a private room, a staff escort, or chaplain/spiritual care. If you need to stop, you can ask to pause and reschedule.
 
 ## What can wait
-- You do not need to choose a funeral home or cremation service in the first hour.
-- You do not need to provide a set of clothing for the deceased immediately.
-- You do not need to answer detailed questions about the estate, will, or life insurance.
-- You do not need to notify extended family or acquaintances until the legal identification is finalized.
+- You do **not** have to decide today about services, obituary, estate steps, or notifying everyone.
+- You do **not** have to keep answering calls/texts right now; one trusted person can relay updates when you’re ready.
+- You do **not** have to make sense of what happened today — focus only on safe, necessary steps.
 
 ## Important reassurance
-The request for identification is a procedural step to ensure the correct individual is returned to the correct family. It is normal to feel significant hesitation, fear, or physical illness at the prospect of a viewing. Modern decedent affairs protocols are designed to minimize your direct exposure to remains whenever scientific alternatives are available.
+Being asked to identify a body can feel shocking and surreal. Many people cannot do it, or regret being rushed into it. You’re allowed to ask for alternatives, time, a clear explanation, and the least harmful option for you while still meeting any legal requirements.
 
 ## Scope note
-This guide provides immediate stabilization steps for the identification process only. It does not cover funeral planning, legal probate, or long-term bereavement support.
+This covers first steps to handle the identification request and stabilize the next few hours. Later steps (death certificates, funeral arrangements, benefits, legal questions) can come after you’ve confirmed what’s required and you’ve had rest.
 
 ## Important note
-Procedures for decedent identification vary significantly by state and county law. Hospital policies regarding morgue access are separate from Medical Examiner statutory requirements. Always follow the specific instructions provided by the attending medical examiner or hospital decedent affairs coordinator.
+This is general information, not legal advice or medical advice. U.S. processes vary by state and county, and depending on whether the case is handled by a hospital or a medical examiner/coroner. The agency handling the case can tell you what identification methods they accept, whether you need to be present, and what (if anything) is required from you.
 
 ## Additional Resources
-- https://www.nyc.gov/site/ocme/about/faq.page
+- https://me.lacounty.gov/for-families/
 - https://www.nyc.gov/site/ocme/for-families/identification.page
-- https://www.nia.nih.gov/health/grief-and-mourning/what-do-after-someone-dies
-- https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/health-information-of-deceased-individuals/index.html
-- https://www.usa.gov/report-a-death
+- https://www.co.grand.co.us/FAQ.aspx?QID=169
+- https://www.spokanecounty.gov/DocumentCenter/View/56955/Viewing-of-Bodies-at-Hospital-or-Medical-Examiner-Facility
+- https://www.cdc.gov/nchs/data/misc/hb_me.pdf

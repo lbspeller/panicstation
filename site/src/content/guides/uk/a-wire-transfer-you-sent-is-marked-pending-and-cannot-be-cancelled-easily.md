@@ -1,106 +1,94 @@
----
+﻿---
 title: "What to do if… a wire transfer you sent is marked pending and cannot be cancelled easily"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "bank transfer pending"
-  - "bank transfer stuck"
-  - "bank transfer cannot cancel"
-  - "pending bank transfer help"
-  - "what do i do if bank transfer is pending"
-  - "what do i do if my transfer is stuck"
-  - "what do i do if i cannot cancel a transfer"
-  - "what do i do if payment is marked pending"
-  - "help i sent a bank transfer to a scammer"
-  - "help i cannot stop a pending transfer"
-  - "help i sent money to the wrong person"
-  - "help my payment is stuck in pending"
-  - "money marked pending in app"
-  - "transfer showing as queued"
-  - "unreleased payment notification"
-  - "notice of payment delay"
-  - "transfer marked pending"
-  - "cancelling a pending transfer"
-  - "stopping a bank transfer"
-  - "pending payment reversal"
-  - "bank transfer recall process"
-  - "bank transfer trace"
-  - "chaps transfer pending"
-  - "faster payments pending"
-  - "bacs payment pending"
-  - "international transfer pending"
-  - "authorised push payment scam"
-  - "app scam reimbursement"
-  - "payment diversion fraud"
-  - "stuck transfer recovery"
-  - "trace a bank transfer"
-  - "recall a bank transfer"
-last_reviewed: "2026-03-17"
+  - wire transfer pending
+  - bank transfer pending
+  - international wire pending
+  - swift transfer pending
+  - chaps payment pending
+  - faster payment pending
+  - cannot cancel wire transfer
+  - wire transfer stuck
+  - bank says pending transfer
+  - payment marked pending
+  - transfer queued by bank
+  - sent wire wrong details
+  - urgent recall wire transfer
+  - stop a bank transfer
+  - wire transfer scam worry
+  - payment diversion scam
+  - app scam reimbursement
+  - chaps cannot be cancelled
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… a wire transfer you sent is marked pending and cannot be cancelled easily (UK)
 
 ## Short answer
-Call your bank’s fraud or payments department immediately via a verified number to confirm if the funds have been **released** or are still **held in a queue**. If the funds have not left the bank, request an immediate cancellation; if they have been released, request an urgent "recall and trace."
+Call your bank immediately using a trusted number and ask whether the transfer is still *queued/not released* or has already been *sent*. If it’s still queued, push for cancellation; if it’s been sent, ask for an urgent recall/trace (not guaranteed) and treat it as time-critical.
 
 ## Do not do these things
-- Don't send a second "verification" or "test" payment to see if the first one goes through.
-- Don't pay any third-party "recovery agents" or "cancellation services" who claim they can retrieve the money for a fee.
-- Don't assume the "pending" status in your app means the money is safe; banks often mark payments as pending even after the instruction has been irrevocably sent to the central system.
-- Don't use contact numbers found in emails, SMS alerts, or sponsored search engine results; only use the number on your physical bank card or official app.
-- Don't wait for the status to change on its own; most UK transfer systems (Faster Payments and CHAPS) are time-sensitive and irreversible once processed.
+- Don’t send a second transfer to “fix”, “verify”, or “unlock” the first one.
+- Don’t pay anyone a “cancellation fee”, “release fee”, or “admin charge” to stop the transfer.
+- Don’t rely on app wording alone (“pending” can mean different internal stages).
+- Don’t call phone numbers from texts/emails, or from search ads—use the number on your bank card, inside your banking app, or the bank’s official website.
+- Don’t keep talking to a suspected scammer while you’re trying to stop the payment.
+- Don’t delete texts/emails/chats or close tabs tied to the transfer (you may need them as evidence).
 
 ## What to do now
-1. **Call your bank’s official fraud or emergency line immediately.**  
-   **Use the number on the back of your debit/credit card or the "Contact Us" section inside your secure mobile banking app.** 
-   - State clearly that you need to stop a pending transfer.
-   - Ask: "Has this payment been released to the receiving bank yet, or is it still held in an internal queue?"
+1. **Stop further outgoing money linked to this.**  
+   Don’t “test” with a smaller payment. Don’t send money to “reverse” the first transfer.
 
-2. **Request an immediate cancellation if the funds are still held.**  
-   **If the bank confirms the payment is "queued," "future-dated," or "held for security checks," demand an immediate stop.** 
-   - Ask for a reference number for the cancellation request.
-   - Request a "secure message" confirmation that the payment has been blocked.
+2. **Protect access first if compromise is possible (1 minute).**  
+   If you suspect your email or banking login may be compromised: change your **email** password first (email controls resets), turn on 2-step verification if available, and sign out of other sessions/devices.
 
-3. **Request a "Recall and Trace" if the funds have been released.**  
-   **If the money has already left your bank, ask them to initiate an "Urgent Recall Request" to the receiving institution.** 
-   - Note that recall is not guaranteed and requires the recipient's consent or evidence of fraud.
-   - Ask for the "Payment Reference Number" or "TRN" (Transaction Reference Number) to track the recall attempt.
+3. **Call your bank via a trusted route and ask one key question first.**  
+   “Has this payment been **released/sent** yet, or is it still **queued/pending inside the bank** (including future-dated)?”  
+   Then ask to be put through to the team that can act (payments/CHAPS/international/fraud).
 
-4. **Identify the payment type to understand your recovery rights.**  
-   **Ask the agent if the payment was sent via Faster Payments, CHAPS, or Bacs.** 
-   - Faster Payments: Usually instant; reimbursement rules for scams apply up to £85,000.
-   - CHAPS: High-value, same-day; high-priority recall needed as these are technically irrevocable once settled.
-   - Bacs: Takes 3 days; can sometimes be stopped if the bank acts before the final processing "cycle."
+4. **If it’s still queued or future-dated: push for an immediate stop/cancel.**  
+   Say: “Please cancel it before it’s released. What is the exact internal status, and who can action the cancellation right now?”  
+   Ask the bank to confirm (in a secure message or email) that a cancellation request has been logged.
 
-5. **Report a suspected scam to invoke mandatory reimbursement rules.**  
-   **If you suspect you have been a victim of an Authorised Push Payment (APP) scam, use those exact words with the bank.** 
-   - Mention the Payment Systems Regulator (PSR) mandatory reimbursement requirement.
-   - Under 2026 rules, victims of APP scams are generally entitled to reimbursement up to £85,000 within 5 to 35 business days, unless gross negligence is proven.
+5. **If it has already been sent: request an urgent recall and trace immediately.**  
+   Use plain wording: “Please send an urgent recall request to the receiving bank and open a trace.”  
+   Ask for the payment identifiers you’ll need for follow-up (your bank’s reference, and any tracking/reference they can provide for the transfer type).
 
-6. **Log a report with the national fraud authority.**  
-   **If you are in England, Wales, or Northern Ireland, report the incident to Report Fraud (formerly Action Fraud) at reportfraud.police.uk or 0300 123 2040.** 
-   - If you are in Scotland, call Police Scotland on 101.
-   - Provide the crime reference number back to your bank’s fraud department immediately.
+6. **If you suspect a scam or diverted details: say that clearly and invoke the right process.**  
+   Tell the bank: “I believe this may be an **authorised push payment (APP) scam** / payment diversion.”  
+   Ask for the fraud team and ask how they are applying the **mandatory APP scam reimbursement requirements** for Faster Payments/CHAPS (there are conditions and exceptions, but starting the process quickly matters).
 
-7. **Secure your banking access.**  
-   **If the "pending" transfer was not authorized by you, or if you shared login details, ask the bank to "freeze" your digital banking and issue new credentials.** 
+7. **If the recipient is legitimate, contact them using a verified channel and ask them to hold funds.**  
+   Use a phone number you already trust (not the same email thread that provided payment details). Ask them **not to withdraw or move the money**, and to respond quickly to their bank if contacted about returning it.
+
+8. **Report the fraud to the right place for where you are (and keep the reference).**  
+   - **England, Wales or Northern Ireland:** report via the national fraud reporting service (Report Fraud).  
+   - **Scotland:** report to **Police Scotland** (101, or 999 in an emergency).  
+   Keep any reference number for follow-up with your bank.
+
+9. **Preserve evidence (5 minutes).**  
+   Screenshot the “pending” status and confirmation, save invoices/payment instructions, and write down: who you spoke to, when, and what they said they would do.
 
 ## What can wait
-- You do not need to contact the recipient's bank yourself; your bank must handle the inter-bank communication.
-- You do not need to provide a full witness statement or evidence of the scam in the first 10 minutes; the priority is the "stop" or "recall" request.
-- You do not need to decide on a formal complaint (FOS escalation) until the bank provides its final response regarding the recovery or reimbursement.
+- You do **not** need to decide right now whether to make a formal complaint or escalate externally.
+- You do **not** need to write a long explanation to the recipient or any third party—keep messages short and factual.
+- You do **not** need to prove fraud before asking your bank to act. Start with stopping/recalling and opening a fraud case.
 
 ## Important reassurance
-A "pending" status often indicates that the bank's internal security filters have paused the transaction for manual review. This pause is your most effective window to intervene. Even if the money has moved, UK banks are now part of a mandatory reimbursement framework for scams that covers the vast majority of retail transfers.
+“Pending” sometimes means the bank hasn’t released the transfer yet—so calling promptly can still make a difference. Even if it’s already been sent, requesting a recall/trace immediately is still the right next step (it’s not guaranteed, but delay makes outcomes worse).
 
 ## Scope note
-This guide provides first-step stabilization for a pending transfer in the UK. It does not cover long-term credit file repair, legal action against recipients, or international transfers sent via non-UK systems (like SWIFT/SEPA) which have different recovery protocols.
+These are first steps to reduce loss and prevent irreversible mistakes. Next steps (recovery, reimbursement, complaints) depend on the payment type and what has happened at the receiving bank.
 
 ## Important note
-The ability to cancel a transfer depends entirely on the specific processing stage and the payment scheme used. Once a Faster Payment or CHAPS transfer is settled, it is technically irrevocable; "recovery" then relies on the recipient's bank holding the funds or the mandatory scam reimbursement scheme. This information does not constitute financial or legal advice.
+This is general, practical information—not legal or financial advice. Banks’ ability to stop or recover a transfer varies by payment type and stage of processing, and recovery is not guaranteed once funds have been released. If you feel pressured, slow down and route everything only through official bank channels.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/debt-and-money/banking/complaints-about-banks-and-building-societies/
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments
-- https://www.financial-ombudsman.org.uk/consumers/how-to-complain
-- https://www.fca.org.uk/consumers/how-complain
-- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/disputed-transactions
+- https://www.natwest.com/support-centre/bank-accounts-and-supporting-information/general/can-i-amend-or-cancel-a-chaps-payment-once-it-has-been-sent.html
+- https://www.natwest.com/support-centre/banking-from-home/make-payments/what-is-a-faster-payment.html
+- https://www.psr.org.uk/publications/policy-statements/ps247-faster-payments-app-scams-reimbursement-requirement-confirming-the-maximum-level-of-reimbursement/
+- https://www.psr.org.uk/publications/policy-statements/ps245-chaps-app-scams-reimbursement-requirement/
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/contact-us/

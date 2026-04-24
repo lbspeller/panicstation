@@ -1,88 +1,87 @@
----
+﻿---
 title: "What to do if… someone pressures you to drop a complaint about sexual misconduct by offering money or favours"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "pressured to drop sexual misconduct complaint"
-  - "offered money to withdraw allegation"
-  - "bribery to stop sexual harassment report"
-  - "witness intimidation after disclosure"
-  - "hush money for sexual violence"
-  - "what do i do if someone offers me money to stay quiet"
-  - "what do i do if my employer bribes me"
-  - "what do i do if a harasser offers favours"
-  - "help i am being pressured to withdraw a complaint"
-  - "my manager offered me a promotion to drop a grievance"
-  - "my colleague offered me money to stay silent"
-  - "bribed to change statement about sexual assault"
-  - "victimisation after sexual harassment report"
-  - "sexual misconduct whistleblowing protection 2026"
-  - "perverting the course of justice bribery"
-  - "coerced into signing non disclosure agreement"
-  - "unlawful nda sexual misconduct uk"
-  - "career favours for dropping sexual misconduct claim"
-  - "feeling cornered by a settlement offer"
-  - "pressure to stay silent after university complaint"
-  - "witness intimidation by offering cash"
-  - "asked to make a complaint go away"
-  - "harasser contacting me with gift offers"
-  - "being treated worse after refusing a bribe"
-  - "protected disclosure sexual harassment 2026"
-last_reviewed: "2026-03-17"
+  - pressured to drop complaint
+  - offered money to stay quiet
+  - offered favours to withdraw
+  - sexual misconduct complaint pressure
+  - told not to report
+  - asked to take payment
+  - hush money after complaint
+  - bribed to stay silent
+  - pressured after reporting
+  - complaint withdrawal pressure
+  - sexual harassment complaint pressure
+  - unwanted contact after complaint
+  - someone wants me quiet
+  - asked to make it go away
+  - pressured to change statement
+  - pressured after disclosure
+  - offer made after complaint
+  - feeling unsafe after reporting
+last_reviewed: "2026-03-14"
 ---
-# What to do if… someone pressures you to drop a complaint about sexual misconduct by offering money or favours (UK)
 
+# What to do if… someone pressures you to drop a complaint about sexual misconduct by offering money or favours (UK)
 ## Short answer
-Treat any offer of money, gifts, or career favours as a potential crime (witness intimidation) and an act of workplace victimisation. Do not accept the offer, end the contact immediately, and report the incident through formal whistleblowing or legal channels to protect your rights.
+
+Treat this as a separate problem, not a private misunderstanding. Do not agree on the spot, and move the situation into written, formal channels as soon as you safely can.
 
 ## Do not do these things
-- Do not accept any payment, gift, "loan," or career advantage in exchange for changing your story or dropping a complaint.
-- Do not negotiate or discuss the "terms" of silence, as this can be misinterpreted as an attempt to pervert the course of justice.
-- Do not delete evidence of the offer, including messages, "deleted" message notifications, or call logs.
-- Do not meet the person alone to "hear them out" or "settle it like adults."
-- Do not sign any document or Non-Disclosure Agreement (NDA) under pressure; under 2026 UK law, NDAs cannot legally prevent you from reporting crimes or sexual harassment.
-- Do not assume that staying quiet is the only way to keep your job or education place.
-- Do not blame yourself if you felt tempted or panicked by the offer.
+
+- Do not accept money, gifts, favours, “help”, or side deals in return for dropping, softening, or delaying your complaint.
+- Do not negotiate alone in person if you feel shaken, cornered, or unsafe.
+- Do not delete messages, voicemails, emails, payment records, or calendar entries connected to the approach.
+- Do not let anyone rush you into saying it was “sorted”, “misunderstood”, or “not worth pursuing”.
+- Do not hand over your phone or original records so someone else can “deal with it”.
+- Do not confront the person again just to get them to admit what they meant.
+- Do not blame yourself for freezing, replying politely, or needing time to think.
 
 ## What to do now
-1. **End the contact immediately without confirming or denying the offer.**
-   **State clearly that you will only communicate through formal channels.** You can say: "I am not prepared to discuss this. Any further contact must be through HR / my solicitor / the official complaints caseworker."
 
-2. **Secure the evidence of the approach immediately.**
-   **Take screenshots of any messages and save voicemails or emails to a device the person cannot access.**
-   - Include the date, time, and the platform used.
-   - If the offer was verbal, write a detailed note of the exact words used, where you were, and who else was present or nearby.
+1. **End the conversation without agreeing.**  
+   A short reply is enough: “I’m not discussing this privately. Please put anything through the formal process.” You do not need to justify yourself.
 
-3. **Report the pressure as a "Protected Disclosure" (Whistleblowing).**
-   **If this is happening at work, inform HR or a senior lead that you are making a protected disclosure regarding sexual harassment and victimisation.** Under the Employment Rights Act 2025 (in effect April 2026), reports of sexual harassment and related pressure are explicitly protected, meaning it is illegal for your employer to treat you worse for reporting it.
+2. **Write down exactly what happened while it is fresh.**  
+   Note the date, time, place, who was there, the exact words used if you remember them, and whether money, gifts, career help, references, accommodation, or other favours were mentioned.
 
-4. **Notify the police if the pressure involves a criminal complaint.**
-   **If your original complaint was to the police, or if the pressure feels like a threat, call 101 to report witness intimidation.** Bribery to drop a criminal investigation is a serious offence (perverting the course of justice) and should be logged by the officer handling your case.
+3. **Keep the contact in its original form if you may want to act on it later.**  
+   Save texts, emails, messages, call logs, voicemail, bank transfer details, gift offers, or screenshots in one place. Keep originals where possible and send yourself a backup copy to a safe account or device you control.
 
-5. **Contact a specialist advocate (ISVA).**
-   **Ask a Rape Crisis centre or The Survivors Trust to connect you with an Independent Sexual Violence Advocate (ISVA).** An ISVA is trained to help you navigate the system when you are being pressured and can speak to the police or your workplace on your behalf to set boundaries.
+4. **Tell the person or team already handling the complaint that this contact happened.**  
+   If this is through work, send a short written update to HR, your manager handling the grievance, or the named complaints contact and ask for it to be logged separately. If the complaint is about harassment at work, ACAS says victimisation is being treated less favourably because of involvement in a discrimination or harassment complaint. If this is through a university or college, send it to the caseworker, complaints team, or safeguarding lead. Keep your message factual and brief.
 
-6. **Check your university or college safeguarding policy.**
-   **If this is in an education setting, contact the Safeguarding Lead or the Office of Student Conduct and Appeals (OSCCA) to report the contact.** Universities are required under 2026 Office for Students (OfS) conditions to have specific protections for students facing misconduct pressure.
+5. **Ask for contact boundaries in writing.**  
+   You can ask the organisation handling the complaint to confirm that any future contact must go through them, not directly to you. If the person is contacting you through others, say that too.
+
+6. **Use specialist support before making any bigger decision.**  
+   A Rape Crisis centre can offer support whether or not you decide to report to police. If you want help thinking through options around reporting, many centres can connect you with an ISVA. If you want medical, practical, or emotional support, you can also contact a Sexual Assault Referral Centre.
+
+7. **If the pressure includes threats, repeated intimidation, stalking, or you feel unsafe, contact the police.**  
+   Use **999** if there is immediate danger or a crime is happening now. Otherwise you can report to police on **101** or through your local force’s online reporting route.
 
 ## What can wait
-- You do not need to decide right now whether to continue the original complaint.
-- You do not need to prove the person's "intent" or motive behind the offer.
-- You do not need to find a lawyer before taking the first step of recording the incident and telling your caseworker.
-- You do not need to worry about the legal validity of an NDA you may have already felt forced to sign; legal advice can clarify its enforceability later.
+
+You do not need to decide today whether to continue, pause, escalate, report to police, or tell everyone involved the full story again. You also do not need to work out the legal meaning of the offer before you take the simpler step of recording it and moving it into formal channels.
 
 ## Important reassurance
-It is common for those in power to try to "resolve" things quietly using money or favours when they are afraid of the consequences. Feeling confused, tempted, or frightened by these offers is a natural reaction to a high-pressure situation. You are not "at fault" for being approached in this way, and reporting the pressure is a step toward regaining control.
+
+Freezing, doubting yourself, or feeling pulled between relief and alarm is a very normal reaction. Someone offering money or favours can make things feel blurred very quickly; that does not mean you have done anything wrong.
 
 ## Scope note
-This guide provides first-step stabilization for handling bribery or pressure in the immediate aftermath of a sexual misconduct complaint. It does not replace legal advice regarding employment tribunals or criminal proceedings.
+
+This is first steps only. Later decisions about complaints, employment, education, police, or legal options may need specialist help.
 
 ## Important note
-In the UK, offering money to withdraw a criminal complaint can be prosecuted as perverting the course of justice. Since April 2026, sexual harassment disclosures in the workplace are legally classed as whistleblowing. Accepting a bribe can complicate your legal standing, so it is vital to remain in formal, documented processes.
+
+This is general information, not legal or clinical advice. In the UK, pressure linked to a harassment complaint at work can raise victimisation issues, and threatening or repeated coercive contact may also need to be reported to police or safeguarding staff. If you are unsure, keep your steps small: do not agree privately, keep the record, and use a formal or specialist support route.
 
 ## Additional Resources
-- https://www.acas.org.uk/sexual-harassment/if-youve-been-sexually-harassed-at-work
-- https://www.acas.org.uk/sexual-harassment/handling-a-sexual-harassment-complaint
 - https://www.acas.org.uk/discrimination-and-the-law/victimisation
-- https://www.acas.org.uk/settlement-agreements/confidentiality
-- https://www.gov.uk/government/publications/victims-and-prisoners-act-2024-changes-to-non-disclosure-agreements/victims-and-prisoners-act-2024-changes-to-non-disclosure-agreements
+- https://www.acas.org.uk/handling-a-bullying-discrimination-complaint
+- https://rapecrisis.org.uk/get-help/want-to-talk/
+- https://rapecrisis.org.uk/get-help/support-and-services/advocacy-isvas/
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://www.gov.uk/government/publications/guides-for-victims-of-rape-and-sexual-assault/reporting-a-rape-or-sexual-assault

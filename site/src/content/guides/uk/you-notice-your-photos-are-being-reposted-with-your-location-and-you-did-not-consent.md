@@ -1,80 +1,91 @@
----
+﻿---
 title: "What to do if… you notice your photos are being reposted with your location and you did not consent"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "photos reposted with location"
-  - "location shared without consent"
-  - "address posted online help"
-  - "what do i do if someone posted my location"
-  - "what do i do if my photos are being reposted"
-  - "what do i do if i am being doxxed"
-  - "what do i do if i feel unsafe at home"
-  - "help i am being stalked online"
-  - "help i have been doxxed"
-  - "help my location is online"
-  - "help my address is public"
-  - "someone geotagged my house"
-  - "location leak from photo"
-  - "exif data exposure"
-  - "reposted photos with address"
-  - "unwanted location tagging"
-  - "visible street signs in photos"
-  - "identifiable landmarks in post"
-  - "stalking risk from social media"
-  - "harassment via location sharing"
-  - "doxxing from images"
-  - "someone sharing where i am"
-  - "unauthorised location broadcast"
-  - "digital stalking safety"
-  - "online privacy breach"
-  - "location metadata leak"
-  - "safety after doxxing"
-  - "reporting location posts uk"
-last_reviewed: "2026-03-17"
+  - photos reposted with location
+  - location shared without consent
+  - my address posted online
+  - doxxing from my photos
+  - someone geotagged my photos
+  - tagged at my home
+  - tagged at my workplace
+  - stalking risk online posts
+  - harassment via social media
+  - location leak from camera
+  - exif location data
+  - snap map location exposed
+  - instagram location tag misuse
+  - someone tracking my movements
+  - unwanted reposting of photos
+  - social media safety panic
+  - someone sharing where i am
+  - online threats and doxxing
+  - personal info posted online
+  - location posted without permission
+  - i feel unsafe at home
+last_reviewed: "2026-01-11"
 ---
-# What to do if… you notice your photos are being reposted with your location and you did not consent (UK)
 
+# What to do if… you notice your photos are being reposted with your location and you did not consent (UK)
 ## Short answer
-Treat this as a physical safety priority: isolate your real-time location, secure evidence of the posts, and report the content to the platform. If you believe you are at immediate risk of being located by a hostile party, call 999 and use the "Silent Solution" (press 55) if you cannot speak safely.
+Treat this as a safety issue first: stop any real-time location sharing, get to a safer pause if you feel exposed, and save evidence. Then report the posts and, if you feel at risk, contact the police (999 if immediate danger, otherwise 101).
 
 ## Do not do these things
-- Do not engage with, comment on, or publicly confront the account reposting your data.
-- Do not "quote-post" or share the offending content to your own followers to warn them.
-- Do not delete the original photos or the reposts until you have captured clear evidence.
-- Do not travel directly to your home or usual workplace if you feel you are being actively followed or monitored.
-- Do not open links or download attachments sent by the account in question or its associates.
-- Do not assume the risk is limited to the internet if your physical landmarks are visible.
+- Do not publicly confront the person or argue in comments (it can escalate and spread the location further).
+- Do not “call it out” by reposting the content yourself (it amplifies the location).
+- Do not delete everything immediately if you might want action taken (save evidence first).
+- Do not assume it’s “only online” if your home/workplace/school is identifiable.
+- Do not click unknown links or open files sent by the poster (account compromise is common in harassment situations).
+- Do not go somewhere predictable (home, usual route) alone if you think someone could show up.
 
 ## What to do now
-1. **Move to a safer pause immediately if you feel exposed.** If the post reveals your current or permanent location, go to a public place with people or a secure building. Tell a trusted contact exactly where you are and what has happened.
-2. **Deactivate all real-time location broadcasting features.** **Turn off "Live Location" in messaging apps, "Snap Map" features, and any "Find My" sharing that is visible to others.** Disable the "Location Services" toggle in your phone's main settings menu to stop all GPS metadata from being attached to new activity.
-3. **Capture evidence of the reposts and the source account.** **Take full-page screenshots that include the timestamp, the account handle, and the specific location tag or landmarks shown.** Copy and save the URLs of the specific posts and the perpetrator's profile into a secure note.
-4. **Report the content to the platform using the "Harassment" or "Privacy Violation" category.** **Under the 2026 Online Safety Act, UK-accessible platforms are required to act on high-risk privacy violations and harassment quickly.** Explicitly state in the report that your private location has been shared without consent and you are concerned for your physical safety.
-5. **Secure your primary accounts to prevent further data leaks.** **Change your email and social media passwords and ensure two-factor authentication (2FA) is active on all platforms.** Review your "Logged in devices" list and sign out of any sessions you do not recognize.
-6. **Check your recent posts for "background clues" that identify your routine.** **Scan your own profile for photos showing street signs, school/work uniforms, or specific views from windows and set these to "Private" or "Only Friends."** Check your "tagged photos" and adjust settings so you must approve all future tags.
-7. **Contact specialist support if the behavior is persistent.** **Call the National Stalking Helpline (0808 802 0300) for advice on managing digital stalking and safety planning.** If you are under 18, speak to a parent or a designated safeguarding lead at your school or college immediately.
-8. **Contact the police if you feel a crime has been committed.** **Call 999 if there is an immediate threat to your life or safety.** Use 101 or the local police "Report Online" tool for non-emergency reports of harassment, doxxing, or stalking to establish a crime reference number.
-9. **Use the "Silent Solution" protocol if you need to call 999 but cannot speak.** **Dial 999 and, if prompted by the automated system because you are silent, press 55 to signal a genuine emergency to the operator.** This allows the police to track your location and dispatch help without you needing to verbalize.
+1. **Get to a safer pause.** If the repost includes your current location (or you think someone could show up), go somewhere more public or with other people. Tell one trusted person what’s happening.
+2. **Stop any real-time location broadcasting.**
+   - Turn off location sharing features you use (for example: live location in messaging apps, Snap Map–style features, “find my device” sharing).
+   - Pause posting stories/photos until you’ve checked settings.
+3. **Capture evidence before anything changes.**
+   - Screenshot the repost(s) showing the account name, date/time, and the location tag or identifiable landmarks.
+   - Copy the post URL(s) and profile URL(s) into a note (or take an extra screenshot if URLs aren’t visible).
+   - If content disappears quickly, do a short screen recording scrolling the post and profile.
+4. **Write a tiny incident log (2 minutes).** In a note, record: date/time seen, platform, account name, what location was revealed (e.g., street/venue/school), and whether you received messages or threats.
+5. **Report the posts in-app as sharing personal information / harassment.**
+   - Report the specific post(s) and the account.
+   - If the report form allows detail, say it shares your location without consent and you’re concerned for safety.
+6. **Lock down your accounts (in case access is involved).**
+   - Change passwords (start with your email), turn on 2-step verification, and sign out of other sessions/devices.
+   - Tighten privacy controls: who can view, share, tag, mention, or message you.
+7. **Remove location clues you control (fast containment).**
+   - Turn off camera location tagging for new photos.
+   - Review recent posts/stories for location stickers, check-ins, visible street signs, school/work badges, or distinctive landmarks and remove them if needed (after saving evidence).
+8. **Reduce real-world exposure for the next 24 hours.**
+   - If your home/workplace/school is identified, consider staying with someone else, varying routes/times, and asking someone to accompany you.
+   - Tell reception/security/housemates what’s happening and ask them not to confirm details about you to anyone.
+9. **Get support if you feel targeted or unsafe.**
+   - **Call 999** if you think there’s immediate danger, someone is nearby, or you’re afraid to go home.
+   - **Call 101** if it’s not an emergency but you want it logged and advice on harassment/stalking risk. You can also **report online** to your local police force if you prefer.
+   - If you can’t safely speak on the phone, you can still call **999** and follow the operator prompts.
+10. **If you’re under 18, involve a safe adult now.** Tell a parent/guardian or another trusted adult, and contact your school/college safeguarding lead so you’re not handling it alone.
 
 ## What can wait
-- Deciding whether to initiate a formal civil legal claim or "Right to be Forgotten" request.
-- Performing a total "digital audit" or deleting your entire social media presence.
-- Responding to messages from friends or mutual contacts asking for details.
-- Identifying exactly how the metadata was extracted (e.g., EXIF data vs. manual tagging).
+- Deciding whether to pursue longer complaints, legal advice, or ongoing monitoring.
+- A full “clean up” of your online presence (you only need to stop the biggest location leaks now).
+- Writing a detailed statement (a basic log + screenshots is enough for a first report).
+- Trying to work out “how they got the photos” or confronting mutual contacts.
 
 ## Important reassurance
-Feeling a sense of panic or violation when your location is exposed is a standard response to a breach of personal boundaries. Taking these steps to create distance and secure evidence is a practical way to regain control over the situation. You are not overreacting by prioritizing your physical safety.
+It makes sense to feel exposed or panicky when your location is shared without consent. You are not overreacting by focusing on safety, evidence, and containment before anything else.
 
 ## Scope note
-This guide provides first-step stabilization for an immediate privacy breach and potential stalking risk. It does not replace professional legal advice or long-term safety planning provided by the police or specialist advocacy services.
+This is first steps only to reduce immediate risk, preserve options, and get the situation properly recorded. If it continues, you may need specialist support and a clearer safety plan.
 
 ## Important note
-This information is for safety stabilization purposes and reflects UK procedures and laws as of March 2026. Always follow the directions of emergency services if you are in active danger.
+This guide is general information, not legal advice. If you feel in danger, prioritise immediate safety and use emergency services.
 
 ## Additional Resources
-- https://ico.org.uk/for-the-public/online/social-networking/
-- https://ico.org.uk/make-a-complaint/data-protection-complaints/
-- https://www.victimsupport.org.uk/crime-info/types-crime/stalking-and-harassment/
-- https://www.suzylamplugh.org/safety-online
-- https://revengepornhelpline.org.uk/news/what-to-do-when-non-sexual-images-have-been-shared-online/
+- https://www.gov.uk/report-stalker
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
+- https://www.police.uk/pu/contact-us/
+- https://www.security.gov.uk/services-resources/gsecs/security-education-and-awareness-centre-seac/campaigns/doxing/
+- https://www.ncsc.gov.uk/section/advice-guidance/you-your-family
+- https://www.victimsupport.org.uk/

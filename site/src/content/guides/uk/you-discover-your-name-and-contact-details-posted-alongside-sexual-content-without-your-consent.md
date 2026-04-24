@@ -1,104 +1,93 @@
----
+﻿---
 title: "What to do if… you discover your name and contact details posted alongside sexual content without your consent"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "name posted with sexual content"
-  - "contact details shared without consent"
-  - "doxxed with explicit content"
-  - "intimate image abuse"
-  - "revenge porn situation"
-  - "fake porn profile with my details"
-  - "deepfake sexual content of me"
-  - "someone impersonating me sexually"
-  - "phone number on porn site"
-  - "email posted on adult site"
-  - "address shared with sexual content"
-  - "sexual harassment online"
-  - "online sexual abuse disclosure"
-  - "someone is sending people to me"
-  - "nude images shared without consent"
-  - "threats to share sexual images"
-  - "panic after finding explicit post"
-  - "identity misuse with porn"
-  - "sexual content linked to my name"
-  - "what do i do if my name is on a porn site"
-  - "what do i do if someone posted my number with sex photos"
-  - "what do i do if i am being doxxed sexually"
-  - "what do i do if a fake sexual profile uses my name"
-  - "help i found my contact details on an adult site"
-  - "help i am being harassed after a sexual post"
-  - "help someone shared my private photos and address"
-  - "help my info is on a sexual forum"
-  - "discovery of personal details with sexual content"
-  - "unauthorised contact details on pornographic site"
-  - "misuse of name in sexual context"
-last_reviewed: "2026-03-17"
+  - name posted with sexual content
+  - contact details shared without consent
+  - doxxed with explicit content
+  - intimate image abuse
+  - revenge porn situation
+  - fake porn profile with my details
+  - deepfake sexual content of me
+  - someone impersonating me sexually
+  - phone number on porn site
+  - email posted on adult site
+  - address shared with sexual content
+  - sexual harassment online
+  - online sexual abuse disclosure
+  - someone is sending people to me
+  - nude images shared without consent
+  - threats to share sexual images
+  - panic after finding explicit post
+  - identity misuse with porn
+  - sexual content linked to my name
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you discover your name and contact details posted alongside sexual content without your consent (UK)
 
 ## Short answer
-Establish physical safety, **capture evidence of the post and URL**, then report for removal via the platform and the Revenge Porn Helpline (0345 6000 459).
+Get to a safer, calmer pause, then **save proof and start removal reports** (site/app + specialist support), rather than confronting the poster or deleting everything.
 
 ## Do not do these things
-- Don’t contact the person who posted the content or respond to their messages.
-- Don’t pay any money or engage with "takedown" services that demand payment.
-- Don’t delete the original posts or your own accounts before saving evidence.
-- Don’t share the link with others to warn them, as this increases traffic to the content.
-- Don’t blame yourself for the actions of the person who shared the information.
+- Don’t reply to the poster, negotiate, or threaten them — it can escalate and can tip them off to hide evidence.
+- Don’t pay money, send more images, or “prove” anything to anyone contacting you.
+- Don’t delete posts/messages/accounts in a rush if they contain evidence you may want later.
+- Don’t share the links widely “to warn people” — that can spread it further.
+- Don’t assume it’s your fault or that you “must have done something wrong.”
 
 ## What to do now
-1. **Establish immediate physical safety if you feel at risk of being located.** 
-   - If you are being approached or threatened in person, call **999**.
-   - Move to a public or secure location if your home address has been shared.
+1. **Get a safety buffer first (30–120 seconds).**  
+   If people are trying to locate you, you’re being approached, or you feel physically unsafe, **stop engaging and move to somewhere you feel safer** (near other people). If there’s immediate danger, call **999**.
 
-2. **Capture clear evidence of the content and the source.** 
-   - Take screenshots that include the sexual content, your personal details, and the full URL (web address).
-   - Ensure the account name or username of the poster is visible in the capture.
+2. **Preserve proof in the simplest way you can.**  
+   Take screenshots that show: the page, your details, the username/account, and the URL. If dates/times are visible, capture those too. Write down where you found it and when.
 
-3. **Secure your digital accounts and filter incoming communication.** 
-   - Enable "silence unknown callers" and "filter unknown senders" on your phone.
-   - Change your passwords and activate two-step verification (2FA) on all social media and email accounts.
-   - Set all social media profiles to "Private" and limit who can send you direct messages.
+3. **Shut down the “routes to you” without making big irreversible changes.**  
+   - Turn on call/text filtering (silence unknown callers if you can).  
+   - Tighten privacy on your main social accounts (limit who can message you; hide phone/email if displayed).  
+   - Change passwords for email + social accounts and turn on **two-step verification**.
 
-4. **Report the content to the hosting platform for removal under 2026 priority offence rules.** 
-   - Use the site’s reporting tool to flag the content as "non-consensual intimate imagery" and "doxxing."
-   - Note that under current UK law, regulated platforms must act to remove such priority content within 48 hours of a valid report.
+4. **Report it for removal using the site/app’s reporting tools.**  
+   Report as **intimate image abuse/non-consensual sexual content** and also as **doxxing/personal information** (because your contact details are posted). If it’s on multiple sites, start with the one driving the most contact to you.
 
-5. **Contact the Revenge Porn Helpline for professional takedown assistance.** 
-   - Call **0345 6000 459** (open Monday–Friday, 10am–4pm) or email help@revengepornhelpline.org.uk.
-   - They can provide specialist help to remove content across multiple platforms and search engines.
+5. **Use specialist UK support to help with takedowns (and to avoid doing this alone).**  
+   If you’re **18+ and in the UK**, contact the **Revenge Porn Helpline** (free, confidential; open weekdays). Tell them: where it’s posted, what personal details are included, and whether you’re being contacted or threatened.  
+   If relevant, consider using **StopNCII** (a tool aimed at preventing re-uploads on participating platforms) and **Report Harmful Content** (removal support across services).
 
-6. **Use automated tools to prevent the content from being re-uploaded.** 
-   - If the content includes images or videos, use **StopNCII.org** (for adults) to create a digital fingerprint that blocks re-sharing on participating platforms.
-   - If the content involves anyone under 18, use the **Take It Down** tool via NCMEC/IWF.
+6. **Report to the police in a way that feels manageable.**  
+   Intimate image abuse (including threats to share, and fake intimate images such as deepfakes) is treated as a serious sexual offence. You can report to police via your **local force’s online reporting**, **101**, or in person. Keep your incident or crime reference number.
 
-7. **Report the incident to the police as a sexual offence.** 
-   - Contact your local police via **101** or their online reporting portal to report intimate image abuse or sexual harassment.
-   - Inform them if the content is a "deepfake" or AI-generated, as *creating* such content without consent is a criminal offence under the Data (Use and Access) Act 2025.
+7. **If you’re getting repeated contact, treat it as harassment and reduce exposure.**  
+   Save abusive messages/voicemails. Block/report the accounts. A single boundary line is enough (“Do not contact me again.”) — then stop responding and keep evidence.
 
-8. **Access 24/7 confidential emotional support if you are overwhelmed.** 
-   - Call the **Rape Crisis England & Wales Support Line** at **0808 500 2222** or use their 24/7 online chat.
-   - This service is confidential and available for anyone aged 16+ regardless of gender.
+8. **If you may want to report later, keep evidence lightly (optional).**  
+   Keep your screenshots and key messages/notifications. You don’t need to do anything forensic or spend hours collecting everything right now.
+
+9. **Get confidential support if you feel overwhelmed.**  
+   If you’re in panic, shame, or fear, you can contact **Rape Crisis England & Wales’ 24/7 Rape & Sexual Abuse Support Line** (for ages 16+) for confidential support. If you also need medical support after sexual violence, you can contact an NHS **Sexual Assault Referral Centre (SARC)**.
 
 ## What can wait
-- You do not need to decide whether to take legal action or go to court immediately.
-- You do not need to notify your employer, university, or family today unless it is for safety.
-- You do not need to permanently delete your social media presence or change your phone number.
-- You do not need to identify the poster or prove their identity right now.
+- You do **not** need to decide today whether to pursue charges, a lawyer, or public statements.
+- You do **not** need to tell your employer, school, or family right now unless there’s an immediate safety reason.
+- You do **not** need to change your phone number/email immediately (that can create new problems); start with filtering + privacy + evidence.
+- You do **not** need to hunt the person down or “prove” who did it.
 
 ## Important reassurance
-Being targeted with sexual doxxing or intimate image abuse is a violation intended to cause shock and fear. The distress, anger, or numbness you may feel is a natural response to a digital assault. UK law treats this as a serious offence, and there are established, professional routes to remove this content and protect your privacy.
+This is a known tactic used to humiliate, control, or frighten people. Feeling shocked, shaky, furious, or numb is a normal response. The priority is **your safety and control**: reduce access to you, preserve proof, and use removal/reporting routes that don’t require you to handle this alone.
 
 ## Scope note
-This guide provides first-step stabilization and removal procedures for users in the UK. Ongoing legal advice or long-term digital privacy management may require further consultation with specialists.
+First steps only. Once you’re safer and the immediate spread/contact is slowing down, you may want specialist help for ongoing harassment, workplace/school impacts, and longer-term digital cleanup.
 
 ## Important note
-This information is for guidance only and does not constitute legal or medical advice. If you are in immediate danger, call 999. If the content involves a minor, report it immediately to the police and the Internet Watch Foundation (IWF).
+This is general information, not legal advice or a substitute for emergency services. If you are in immediate danger, call 999. If you are under 18 in any of the content, treat it as urgent and report promptly via police channels and specialist child-protection services.
 
 ## Additional Resources
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/intimate-images-shared-without-consent/
-- https://www.met.police.uk/ro/report/rsa/alpha-v1/advice/rape-sexual-assault-and-other-sexual-offences/revenge-porn-intimate-image-abuse/
-- https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/non-consensual-intimate-image-abuse-revenge-porn/non-consensual-intimate-image-abuse-revenge-porn-reporting-it-to-the-police/
-- https://www.citizensadvice.org.uk/scotland/law-and-courts/civil-rights/freedom-of-information-and-privacy/if-your-intimate-photos-or-videos-are-shared-without-your-consent/
-- https://saferinternet.org.uk/online-issue/reporting
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/help-and-support/
+- https://revengepornhelpline.org.uk/
+- https://stopncii.org/
+- https://rapecrisis.org.uk/get-help/want-to-talk/
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://reportharmfulcontent.com/

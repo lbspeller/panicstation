@@ -1,90 +1,76 @@
----
+﻿---
 title: "What to do if… someone says they will tell others you consented unless you stay silent"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "threatened to lie about consent"
-  - "coercion to stay silent"
-  - "sexual coercion threats"
-  - "they say i consented"
-  - "forced silence threat"
-  - "pressured to keep quiet"
-  - "blackmail about consent"
-  - "intimidation after sexual contact"
-  - "fear of rumours about consent"
-  - "coercive control sexual"
-  - "threat to damage reputation"
-  - "manipulation about consent story"
-  - "they will tell people i wanted it"
-  - "unsafe to talk about it"
-  - "scared to report what happened"
-  - "sexual assault and consent confusion"
-  - "threat to spread false story"
-  - "threatened disclosure to friends"
-  - "threatened disclosure to employer"
-  - "threat to tell others"
-  - "threat to tell others i consented"
-  - "threat to tell others i wanted it"
-  - "threat to tell others unless i stay silent"
-  - "help i am being threatened to stay silent"
-  - "help i am being told to stay silent about consent"
-  - "my partner says they will tell others i consented"
-  - "my attacker says they will tell others i consented"
-  - "what do i do if someone threatens me to stay silent"
-  - "what do i do if they threaten to lie about consent"
-  - "what do i do if they say i consented"
-  - "what do i do if i am being blackmailed about consent"
-  - "smell of alcohol or drugs"
-  - "visible bruises or marks"
-  - "repeated phone notifications"
-  - "shaking or panic"
-last_reviewed: "2026-03-17"
+  - threatened to lie about consent
+  - coercion to stay silent
+  - sexual coercion threats
+  - they say i consented
+  - forced silence threat
+  - pressured to keep quiet
+  - blackmail about consent
+  - intimidation after sexual contact
+  - fear of rumours about consent
+  - coercive control sexual
+  - threat to damage reputation
+  - manipulation about consent story
+  - they will tell people i wanted it
+  - unsafe to talk about it
+  - scared to report what happened
+  - sexual assault and consent confusion
+  - threat to spread false story
+  - threatened disclosure to friends
+  - threatened disclosure to employer
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… someone says they will tell others you consented unless you stay silent (UK)
 
 ## Short answer
-Get to a safer location, stop all communication with the person making the threat, and contact a confidential specialist service to discuss your safety options.
+Get to a calmer, safer pause, and stop engaging with them. Save what they said, and contact specialist support so you’re not handling this alone.
 
 ## Do not do these things
-- Do not agree to the demand for silence in hopes the threat will stop.
-- Do not engage in an argument or try to convince them of your version of events.
-- Do not meet the person in private or at a location they suggest to "talk it over."
-- Do not delete any evidence of the threat, including messages, call logs, or voicemails.
-- Do not post details on social media, as this may increase your immediate risk or exposure.
+- Do not agree to “stay silent” just to make the threat stop (it often escalates the demands).
+- Do not argue point-by-point, apologise, or try to “prove” anything to them in messages.
+- Do not meet them in person “to clear it up” or go somewhere private with them.
+- Do not delete messages, call logs, screenshots, or voicemails out of panic.
+- Do not post about it on social media while you’re overwhelmed (it can increase risk and exposure).
+- Do not let them isolate you by insisting “no one else can know”.
 
 ## What to do now
-1. **Prioritise physical safety immediately.** If you are in immediate danger or fear for your safety, call **999**.
-   - **If using a mobile and you cannot speak:** listen to the operator, cough or tap if possible, and press **55** when prompted (The Silent Solution) to be put through to police.
-2. **Cease all contact with the individual.** Stop replying to messages and do not answer calls. If you feel you must send a final message for safety, keep it neutral and brief (e.g., "I am not available to discuss this") and then stop.
-3. **Secure evidence of the coercion.** Take screenshots of all threats, including the platform used, the timestamp, and the username or phone number. Save these to a secure location the other person cannot access, such as a private cloud folder or a trusted friend's device.
-4. **Identify one trusted person for support.** Contact a friend, family member, or professional who can stay with you or help you navigate the next few hours.
-5. **Contact a confidential specialist support line.** These services offer guidance on safety and rights without requiring a police report.
-   - **England and Wales (16+):** Call the 24/7 Rape & Sexual Abuse Support Line on **0808 500 2222**.
-   - **Scotland (13+):** Call the Rape Crisis Scotland Helpline on **08088 010 302** (daily 5pm–midnight).
-   - **Northern Ireland:** Contact The Rowan (Sexual Assault Referral Centre) on **0800 389 4424**.
-6. **Seek medical advice or a forensic assessment if relevant.** You can contact a Sexual Assault Referral Centre (SARC) directly for healthcare, emergency contraception, and evidence preservation (FME) even if you do not want to involve the police.
-   - Evidence for a forensic exam is most effective if collected within 72 hours.
-7. **Use digital protection tools if images are involved.** If the threat involves sharing intimate images, visit **StopNCII.org** to proactively block the sharing of those images on participating social media platforms. Adults (18+) can also contact the **Revenge Porn Helpline** on **0345 6000 459**.
-8. **Contact the police for non-emergencies if desired.** If you wish to report the threat of coercion or the underlying incident, call **101**. You can explain that you are being threatened into silence.
+1. **Get to a safer pause.** If you’re in immediate danger or feel you might be harmed, call **999**.  
+   - **If you can’t speak:** still dial **999**, listen to the operator’s questions, and if you can respond by coughing/tapping do so. **If prompted, press 55** to be put through to the police.
+2. **Stop contact for now.** Don’t reply to the threat. If you need to keep a line open for safety reasons, keep it minimal (one neutral message like “I won’t discuss this now.”) and stop.
+3. **Save the evidence simply.** Take screenshots of the threat(s), their username/number, and any relevant messages. Save them somewhere they can’t access (for example: email to yourself, cloud storage you control, or a trusted person).  
+   - **If you may want to report later:** try not to delete digital records. Prioritise your safety and comfort over “doing it perfectly.”
+4. **Tell one safe person.** Pick someone who will stay calm (friend, family, colleague). Use a short script: “Someone is threatening me to stay silent about consent. I need you to stay with me / help me make a call.”
+5. **Get specialist support (confidential).** If you’re **16+ in England or Wales**, contact the **24/7 Rape & Sexual Abuse Support Line (0808 500 2222)** (phone or online chat).  
+   - If you’re in **Scotland or Northern Ireland**, you can still get confidential specialist support through local sexual violence services (including local Rape Crisis services) and health services.
+6. **If you want medical support or to talk through options:** you can contact a **Sexual Assault Referral Centre (SARC)** for confidential healthcare and support, whether or not you report to police (you can self-refer in many areas).
+7. **If there’s a digital angle (they’re threatening to post images/messages):** the **Revenge Porn Helpline** can help with image-based abuse and takedown support for **UK adults (18+)**. If you’re under 18, focus on youth-appropriate support routes (for example Childline / CEOP-style reporting) with a trusted adult if possible.
+8. **If you want police involvement:** you can report to police. Use **101** for non-emergency, **999** if urgent or unsafe. You can share the saved messages and explain you’re being threatened into silence.
 
 ## What can wait
-- You do not need to decide today whether you will pursue a full criminal prosecution.
-- You do not need to have a perfect "timeline" of events ready right now.
-- You do not need to respond to any rumors or public statements made by the other person.
-- You do not need to define exactly what happened (e.g., using specific legal terms) before seeking help.
+- You do **not** have to decide right now whether to report to police.
+- You do **not** have to write a full statement or timeline while you’re distressed.
+- You do **not** have to confront the person, “set the record straight” publicly, or respond to rumours today.
+- You do **not** have to decide what label fits (assault, coercion, abuse) in order to get support.
 
 ## Important reassurance
-Intimidation and threats of reputational damage are common tactics used to maintain control. Feeling confused, ashamed, or hesitant is a typical response to this type of coercion. Specialist services exist specifically to help people navigate these situations safely and confidentially.
+Being threatened into silence is a form of coercion. Freezing, doubting yourself, or feeling ashamed is a common response to intimidation—none of it means you did anything wrong. You deserve support and you don’t have to manage this on your own.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction actions. Long-term legal, medical, or psychological support should be sought through the specialist agencies listed once the immediate moment is stabilized.
+These are first steps to stabilise and reduce harm. Later steps (like reporting, formal complaints, longer-term support, or legal advice) can be taken once you have support and feel steadier.
 
 ## Important note
-This information is for guidance and does not constitute legal or medical advice. If any suggested step increases your personal risk due to your specific circumstances, skip that step and prioritize reaching a confidential specialist service.
+This is general information, not legal or medical advice. If you feel unsafe, prioritise immediate safety and emergency services. If any step increases your risk, skip it and focus on getting confidential specialist support.
 
 ## Additional Resources
-- https://rapecrisis.org.uk/get-help/im-not-sure-what-happened/
-- https://rapecrisis.org.uk/get-informed/about-sexual-violence/sexual-consent/
-- https://www.cps.gov.uk/prosecution-guidance/rape-and-sexual-offences-chapter-6-consent
+- https://247sexualabusesupport.org.uk/
+- https://rapecrisis.org.uk/get-help/want-to-talk/
+- https://www.police.uk/pu/contact-the-police/report-a-crime-incident/
+- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
 - https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
-- https://womensaid.org.uk/am-i-experiencing-domestic-abuse/
+- https://www.nhs.uk/service-search/sexual-health-services/find-a-rape-and-sexual-assault-referral-centre/
+- https://revengepornhelpline.org.uk/how-can-we-help/how-to-get-in-touch/

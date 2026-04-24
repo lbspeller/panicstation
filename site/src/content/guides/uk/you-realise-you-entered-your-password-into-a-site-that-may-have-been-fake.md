@@ -1,99 +1,81 @@
----
+﻿---
 title: "What to do if… you realise you entered your password into a site that may have been fake"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "entered password on fake site"
-  - "typed password into fake website"
-  - "phishing login page"
-  - "spoof website login"
-  - "scam sign in page"
-  - "fake banking login"
-  - "fake email login page"
-  - "gave password to scammer"
-  - "credentials stolen"
-  - "account takeover risk"
-  - "password reuse worry"
-  - "phishing website"
-  - "phishing link login"
-  - "clicked link and logged in"
-  - "suspicious url sign in"
-  - "password compromised"
-  - "someone has my password"
-  - "accidentally logged into fake site"
-  - "what do i do if i entered my password on a fake site"
-  - "what do i do if i typed my password into a phishing site"
-  - "help i gave my password to a scammer"
-  - "help i logged into a fake website"
-  - "my password was stolen by a fake site"
-  - "my login details were taken by a scam site"
-  - "smell of digital fraud"
-  - "visible fake url"
-  - "unexpected login prompt"
-  - "weird website address"
-  - "phising website"
-  - "phishng link login"
-  - "password site"
-  - "fake site"
-  - "entered password"
-  - "realise fake site"
-  - "realise fake password"
-  - "entered password site"
-  - "password entered fake"
-last_reviewed: "2026-03-17"
+  - entered password on fake site
+  - typed password into fake website
+  - phishing login page
+  - spoof website login
+  - scam sign in page
+  - fake banking login
+  - fake email login page
+  - gave password to scammer
+  - credentials stolen
+  - account takeover risk
+  - password reuse worry
+  - phising website
+  - phishng link login
+  - clicked link and logged in
+  - suspicious url sign in
+  - password compromised
+  - someone has my password
+  - accidentally logged into fake site
+last_reviewed: "2026-03-08"
 ---
-# What to do if… you realise you entered your password into a site that may have been fake (UK)
 
+# What to do if… you realise you entered your password into a site that may have been fake (UK)
 ## Short answer
-Close the suspicious page immediately and log in to the genuine website or app to change your password and enable two-factor authentication.
+Stop using that page, then go to the real website/app by typing it yourself and change your password immediately (starting with your email account if there’s any chance it was involved).
 
 ## Do not do these things
-- Don't attempt to "test" the page by entering different passwords or fake data.
-- Don't click any "support" or "help" links provided on the suspicious website.
-- Don't use the same password for any other account while you wait to see what happens.
-- Don't share screenshots of the suspicious page that contain your email address or username.
-- Don't delay taking action even if you have not noticed any unusual activity.
+- Don’t keep trying to “log in again” on the suspicious page to test it.
+- Don’t click “contact support” links, pop-ups, or phone numbers shown on the suspicious site.
+- Don’t reuse the same password anywhere else “until you know for sure”.
+- Don’t post screenshots of the page that include your email address, username, or any codes.
+- Don’t ignore it because “nothing has happened yet” — account takeovers can be delayed.
 
 ## What to do now
-1. **Close the suspicious browser tab or window immediately.** This stops further interaction with the malicious site.
-2. **Access the genuine service through a trusted route.** Open a new browser window and **manually type the official web address** or use an official app already installed on your device.
-3. **Change the password for the affected account immediately.**
-   - Create a **new, strong, and unique** password that you have never used before.
-   - If the site provides the option, select **Sign out of all other sessions** or devices.
-4. **Update any other accounts where you reused that same password.** Prioritise your **email accounts** first, as these can be used by attackers to reset passwords for other services.
-   - Change passwords for banking, social media, and shopping accounts next.
-5. **Enable two-factor authentication (2FA) on your most important accounts.** This adds a layer of security that requires more than just a password to log in.
-6. **Check your account for unauthorised changes.** Look for:
-   - New recovery email addresses or phone numbers.
-   - Unusual "sent" messages or deleted items.
-   - New email forwarding rules or filters you did not create.
-   - Login alerts from unfamiliar locations or devices.
-7. **Report the suspicious communication to the National Cyber Security Centre (NCSC).**
-   - If the link came via **email**, forward it to **report@phishing.gov.uk**.
-   - If the link came via **text message**, forward it to **7726** (free of charge).
-   - Use the **NCSC online tool** to report the suspicious website URL directly.
-8. **Contact your bank or card provider if you entered financial details.** If you provided a card number or bank sort code, notify them immediately using the number on the back of your card or their official app.
-9. **Report the incident to the national reporting centre.** 
-   - If you are in **England, Wales, or Northern Ireland**, report to **Report Fraud** at reportfraud.police.uk or call 0300 123 2040.
-   - If you are in **Scotland**, report fraud to **Police Scotland by calling 101**.
+1. **Close the suspicious page and pause.** Stop interacting with it.
+2. **Go to the real service safely.** Open a new tab and **type the known address yourself** (or use the official app you already had installed). Avoid search ads/sponsored results for this step.
+3. **Change the password on that account right now.**
+   - Use a **new, unique** password (not a variation of the old one).
+   - If the site offers it, choose “sign out of all devices/sessions” after changing it.
+4. **If you ever reused that password elsewhere, change those next (highest risk first):**
+   - **Email inbox account(s)** (because password resets for other accounts often go there).
+   - Banking/payment apps, shopping accounts, social media, messaging.
+5. **Turn on 2-step verification (2FA) where available.** Do this on your email account and the affected account as a priority.
+6. **Check for quick signs of takeover on the affected account(s):**
+   - Password reset emails you didn’t request.
+   - New device/session alerts.
+   - Changes to recovery email/phone number.
+   - New “forwarding”/auto-reply rules in your email, or suspicious sent messages.
+7. **Contact the provider’s real support channel if anything looks changed or you can’t log in.** Use the help pages inside the official app/site you reached by typing the address yourself (not any links/phone numbers shown on the suspicious page).
+8. **Report the scam message/site.**
+   - If it came by **email**, forward it to **report@phishing.gov.uk**.
+   - If it came by **text**, forward it to **7726** (free) if your network supports it.
+   - You can also report suspicious websites/messages using the UK government phishing reporting route.
+9. **If you entered anything financial (card/bank details) or money left your account:** contact your bank or card provider immediately.
+   - If you’ve lost money or believe you’ve been hacked because of the scam, report it: **England/Wales/Northern Ireland** usually use the national fraud reporting service; **Scotland** usually report fraud to **Police Scotland on 101** (999 in an emergency).
 
 ## What can wait
-- You do not need to perform a factory reset of your device immediately unless you also downloaded a file or software.
-- You do not need to delete your digital accounts or change your phone number today.
-- You do not need to notify all of your contacts unless you confirm your account is sending out spam.
+- You do **not** need to decide today whether to delete accounts, change phone numbers, or replace devices.
+- You do **not** need to do a full “security overhaul” of everything — focus on the specific account and any reused passwords first.
+- You can review password managers and wider clean-up later.
 
 ## Important reassurance
-Entering details into a deceptive site is a common occurrence due to the high quality of modern phishing attempts. Taking immediate steps to change your password and secure your email account is the standard and effective way to prevent further unauthorized access.
+Many careful people get caught by convincing fake login pages, especially when stressed or in a rush. Taking fast, simple steps now (password change, 2FA, checking for changes) is usually enough to stop things escalating.
 
 ## Scope note
-This guide covers immediate stabilization after entering credentials into a suspicious site. It does not cover the technical removal of malware or long-term identity theft recovery.
+This is first steps only to reduce immediate harm after a possible phishing login. If you discover confirmed account takeover, identity fraud, or financial loss, you may need additional support from the service provider, your bank, and official reporting channels.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional cybersecurity advice. If you have lost money or confirm that your identity has been stolen, contact your financial institution and the police via the appropriate national reporting channel immediately.
+This is general information, not legal or professional advice. If you think an attacker has access to your accounts or you see financial loss, prioritise regaining control (password reset, 2FA, signing out sessions) and contacting the relevant provider/bank promptly.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/collection/phishing-scams/what-to-do
-- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-website
-- https://www.ncsc.gov.uk/section/respond-recover/phishing
-- https://www.citizensadvice.org.uk/consumer/scams/what-to-do-if-youve-been-scammed/
-- https://www.moneyhelper.org.uk/en/everyday-money/credit/identity-theft-and-scams-what-you-are-liable-for
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://stopthinkfraud.campaign.gov.uk/reporting-fraud/
+- https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime

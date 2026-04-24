@@ -1,100 +1,87 @@
----
+﻿---
 title: "What to do if… you are asked to sign a statement for police and you have not had time to read it carefully"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "asked to sign police statement"
-  - "police want me to sign statement"
-  - "statement i didnt read"
-  - "signing something under pressure"
-  - "written statement under caution"
-  - "police interview statement form"
-  - "i need time to read"
-  - "i disagree with what is written"
-  - "police statement has mistakes"
-  - "can i refuse to sign"
-  - "duty solicitor before signing"
-  - "free legal advice police station"
-  - "i feel rushed by police"
-  - "police statement not my words"
-  - "asked to initial each page"
-  - "i cannot read it properly"
-  - "i need an interpreter"
-  - "i am vulnerable in custody"
-  - "worried it will be used in court"
-  - "what do i do if police want me to sign a statement"
-  - "what do i do if i havent read my statement"
-  - "what do i do if i disagree with my statement"
-  - "what do i do if i am being rushed to sign"
-  - "help i signed a statement i didnt read"
-  - "help i want to change my police statement"
-  - "help i need a solicitor before signing"
-  - "my statement has errors"
-  - "my words were twisted by police"
-  - "my statement is wrong"
-  - "smell of ink"
-  - "bright custody lights"
-  - "feeling dizzy in custody"
-  - "cannot focus on text"
-  - "pressure to sign quickly"
-  - "handwritten police notes"
-  - "typed witness statement"
-  - "police station desk"
-last_reviewed: "2026-03-17"
+  - asked to sign police statement
+  - police want me to sign statement
+  - statement i didnt read
+  - signing something under pressure
+  - written statement under caution
+  - police interview statement form
+  - i need time to read
+  - i disagree with what is written
+  - police statement has mistakes
+  - can i refuse to sign
+  - duty solicitor before signing
+  - free legal advice police station
+  - i feel rushed by police
+  - police statement not my words
+  - asked to initial each page
+  - i cannot read it properly
+  - i need an interpreter
+  - i am vulnerable in custody
+  - worried it will be used in court
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… you are asked to sign a statement for police and you have not had time to read it carefully (UK)
 
 ## Short answer
-Do not sign any document that you have not read, understood, and verified as accurate. Request a private consultation with a solicitor and ask for the time necessary to review the text line by line.
+Do not sign anything you haven’t read and understood. Ask for time to read it fully and ask for legal advice before you sign if you are being questioned or you feel at risk.
 
 ## Do not do these things
-- Don't sign a statement simply to speed up your release from custody.
-- Don't allow an officer to summarize the content for you instead of reading the full text yourself.
-- Don't assume that a typed document perfectly matches what you said during a verbal interview.
-- Don't sign if you are currently experiencing high levels of distress, exhaustion, or the effects of medication that impair your focus.
-- Don't sign blank pages, incomplete forms, or pages where the text ends far above the signature line.
-- Don't accept verbal promises that errors can be corrected after the document is signed.
+- Don’t sign “just to get it over with”, even if you’re told it’s a formality.
+- Don’t let anyone summarise it for you as a substitute for reading it yourself.
+- Don’t guess what it says, or assume it matches what you said out loud.
+- Don’t sign if you’re exhausted, distressed, medicated, or struggling to concentrate without saying so.
+- Don’t accept “we can fix it later” as a reason to sign now.
+- Don’t sign blank spaces, missing pages, or anything you haven’t been shown.
 
 ## What to do now
-1. **Inform the officer clearly that you require time to read the document before taking any further action.**
-   - Use a direct phrase: "I cannot sign this until I have read every page carefully and confirmed it is accurate."
-2. **Request a private consultation with a solicitor before signing if you are a suspect or have been cautioned.**
-   - In England, Wales, Scotland, and Northern Ireland, you have a right to free legal advice at a police station. 
-   - Even if you previously declined a solicitor, you can change your mind at the point you are asked to sign.
-3. **Identify exactly what type of document you are being asked to sign.**
-   - Ask: "Is this a Witness Statement (MG11), a Statement under Caution, or a record of a voluntary interview?"
-   - In Scotland, ask if it is a "Statement of Evidence" or a "Release on Undertaking."
-4. **Compare the written text against your "Letter of Rights" (Scotland) or "Notice of Rights and Entitlements" (England/Wales/NI).**
-   - These documents, which you should have been given upon arrival, confirm your right to see the codes of practice and take your time.
-5. **Verify the administrative details at the top of the statement first.**
-   - Check that your name, address, date of birth, and the date/time of the incident are exactly correct.
-6. **Read the body of the text for "absolute" language that you did not use.**
-   - Look for words like "definitely," "always," "never," or "admitted" if you expressed uncertainty during the interview.
-7. **Request specific written corrections if you find inaccuracies.**
-   - You have the right to ask for the statement to be amended or re-typed. 
-   - If the officer refuses to change the text, do not sign the "Statement of Truth" or declaration at the end.
-8. **Declare your need for an Appropriate Adult or interpreter if you are struggling to process the text.**
-   - If you are under 18 or a vulnerable adult, an Appropriate Adult must be present in England, Wales, and Northern Ireland (under PACE Code C) or Scotland (under the Criminal Justice Scotland Act 2016) before you sign a statement as a suspect.
-9. **Ask the officer to record your refusal to sign and the reasons for it on the custody record.**
-   - If you are being rushed or denied the chance to read, ensure this "refusal to sign" is documented by the Custody Officer.
+1. **Say one clear sentence and then stop talking about the content until you’ve read it:**  
+   “I’m not signing anything until I’ve read it carefully and I understand it.”
+2. **Ask for time and a quieter moment to read it properly.**  
+   If you feel rushed, repeat: “I need time to read this. Please wait.”
+3. **Ask what the statement is meant to be (and your role in it).**  
+   For example: “Is this a witness statement, or a statement made under caution?”  
+   (The implications can be different; don’t assume.)
+4. **Ask for legal advice if you are being questioned, arrested, or may be treated as a suspect.**  
+   At a police station in the UK you can ask for free legal advice. Say: “I want legal advice before I sign anything.”  
+   If you previously said “no”, you can change your mind.
+5. **Read it line by line. Use a simple checklist:**
+   - Are your name, address, dates, times, and locations correct?
+   - Does it clearly separate what you **saw/know** from what you **heard/assume**?
+   - Are there absolute phrases you didn’t say (e.g., “definitely”, “admitted”, “agreed”)?
+   - Does it include anything you didn’t say, or miss anything important you did say?
+6. **If anything is wrong or unclear, ask for it to be corrected in writing before you sign.**  
+   You can say: “That’s not accurate. Please change it to: [your wording].”
+7. **If they won’t change it, don’t sign it as true.**  
+   Say: “I do not agree that this is accurate, so I am not signing.”  
+   If you are offered an amendment/addendum in your words, only agree if you can read it back and it matches what you mean.
+8. **If reading is hard right now, say so plainly and ask for support.**  
+   Examples: “I’m too tired to read this properly.” / “I have difficulty reading.” / “I need an interpreter.”  
+   If you are a child or vulnerable adult: **in England & Wales, ask for an appropriate adult** before anything is signed; elsewhere in the UK, ask for the equivalent support person and legal advice before signing.
+9. **Ask for a copy of anything you are asked to sign (or how to get one).**  
+   If they say you can’t have it now, ask: “How can I get a copy, and when?”
 
 ## What can wait
-- You do not need to decide right now whether you will eventually give a statement; you only need to decide not to sign *this* specific version if it is unread or inaccurate.
-- You do not need to provide a "corrected" story immediately; you can wait for legal representation to help draft a "Prepared Statement."
-- You do not need to worry about obtaining a physical copy of a suspect statement immediately, as these are usually provided to your solicitor during the disclosure process.
+- You do not need to “tell your whole story” right now. The urgent task is **not signing something inaccurate**.
+- You do not need to decide today whether you will make a formal complaint about pressure or conduct.
+- You do not need to work out the “best wording” on the spot if you have legal advice available—focus on pausing and getting that advice.
 
 ## Important reassurance
-The environment of a police station is designed to be high-pressure, which can cause "brain fog" or a desire to comply quickly to escape the situation. Requesting a pause to read a legal document is a standard procedural right and is not an admission of guilt or a sign of being "difficult."
+It’s normal to freeze or feel foggy when an authority figure puts paperwork in front of you. Slowing things down is a sensible safety move, not a sign you’ve done anything wrong.
 
 ## Scope note
-This guide provides first-step stabilization for the moment a signature is requested. It does not cover the legal strategy of whether to provide a statement or the long-term implications of "No Comment" interviews.
+This is first-steps-only guidance for the moment you are asked to sign. Later choices (like giving a full statement, responding to allegations, or making complaints) may need tailored legal advice.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Procedures under the Police and Criminal Evidence Act (PACE) in England, Wales, and Northern Ireland differ from the Criminal Justice (Scotland) Act 2016. Always consult with a qualified solicitor before signing legal documents in a criminal justice context.
+This is general information, not legal advice. Police processes and terminology vary across the UK, and can differ significantly in Scotland and Northern Ireland. If you’re unsure how a document will be used, the safest first step is to pause, read carefully, and ask for legal advice before signing.
 
 ## Additional Resources
-- https://www.cps.gov.uk/information-witnesses
-- https://www.gov.uk/government/publications/notice-of-rights-and-entitlements-english/notice-of-rights-and-entitlements-english
-- https://www.gov.uk/government/publications/notice-of-rights-and-entitlements-english-pace-code-i/notice-of-rights-and-entitlements-english-pace-code-i-accessible
-- https://www.gov.uk/your-rights-after-crime
+- https://www.gov.uk/arrested-your-rights/legal-advice-at-the-police-station
+- https://www.gov.uk/government/publications/pace-code-c-2023
+- https://assets.publishing.service.gov.uk/media/5d5a7dd2e5274a07655d5b38/2019_CodeC-NoRE.PDF
 - https://www.cps.gov.uk/prosecution-guidance/witnesses
+- https://www.libertyhumanrights.org.uk/advice_information/arrest-disabled-peoples-rights/

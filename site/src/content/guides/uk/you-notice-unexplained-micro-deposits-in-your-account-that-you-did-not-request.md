@@ -1,93 +1,77 @@
----
+﻿---
 title: "What to do if… you notice unexplained micro-deposits in your account that you did not request"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "unexplained micro-deposits in bank"
-  - "unexplained micro-deposits in account"
-  - "unexplained deposits in my account"
-  - "notice unexplained micro-deposits"
-  - "micro-deposits in your account"
-  - "deposits you did not request"
-  - "notice unexplained deposits"
-  - "unexplained micro-deposits help"
-  - "unexplained micro-deposits scam"
-  - "micro-deposits in bank"
-  - "micro-deposits in uk account"
-  - "unexplained account deposits"
-  - "what do i do if i see micro-deposits"
-  - "what do i do if my account has tiny credits"
-  - "what do i do if someone sent me a penny"
-  - "what do i do if mystery money appeared"
-  - "help i have random small credits"
-  - "help i have unexplained deposits"
-  - "help i did not request these deposits"
-  - "help i have mystery bank transfers"
-  - "my account has tiny deposits"
-  - "my bank shows unknown credits"
-  - "my statement has micro-deposits"
-  - "my account shows 0.01p transfers"
-  - "small credit then debit scam"
-  - "mystery penny deposit"
-  - "test deposits in bank"
-  - "unauthorized bank account linking"
-  - "unknown merchant credit"
-  - "open banking unauthorized access"
-  - "micro-deposts bank"
-  - "microdeposits in account"
-  - "suspicious bank credits"
-  - "unexpected bank transfer credit"
-  - "account takeover warning signs"
-  - "bank verification scam"
-last_reviewed: "2026-03-17"
+  - unexplained micro-deposits in bank
+  - unknown small deposits
+  - tiny bank credits i did not request
+  - mystery penny deposit
+  - test deposits in my account
+  - someone verifying my bank account
+  - bank account linking without permission
+  - suspicious incoming payments
+  - random small credits bank account
+  - micro payment verification scam
+  - confirm deposit amounts scam
+  - account takeover early sign
+  - unexpected bank transfer credit
+  - unknown merchant deposit
+  - payment app linked to my bank
+  - open banking access i didn’t grant
+  - i received small payments i didn’t request
+  - unexpected credit then debit
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… you notice unexplained micro-deposits in your account that you did not request (UK)
 
 ## Short answer
-Treat unknown micro-deposits (often 0.01p to 0.99p) as a high-risk security alert that someone is attempting to link your bank to an external service or app without your permission. Contact your bank immediately through the **159** emergency number to secure your account and revoke unauthorized access.
+Treat unexplained micro-deposits as a possible sign someone is trying to link to (or test) your account. Contact your bank using a trusted route and ask them to secure the account.
 
 ## Do not do these things
-- Don’t spend, move, or transfer any of the mystery funds; leave them exactly where they are.
-- Don’t reply to any text or email that "explains" the deposits or asks you to confirm the amounts.
-- Don’t call any phone number provided in a transaction reference or a suspicious message.
-- Don’t ignore small amounts; criminals use "penny testing" to verify that an account is active before attempting larger thefts.
-- Don’t assume the issue is resolved if the money is later "debited" back out; the security breach remains until you act.
+- Don’t spend, move, or “send back” the money to anyone who contacts you about it.
+- Don’t reply to messages/emails/calls that “explain” the deposits or ask you to confirm the amounts.
+- Don’t call a number given in a text/email about the deposits (or from an unexpected caller). Use the number on your card or your banking app.
+- Don’t assume “it’s only pennies so it’s harmless” — small credits can be a setup for later fraud.
+- Don’t delete alerts/texts/emails about new payees, new devices, or security changes.
 
 ## What to do now
-1. **Document the specific deposit details:** Note the exact amount, date, time, and the "Reference" or "Description" text shown in your banking app.
-   - Look for words like "VERIFY," "TEST," "LINK," or unknown company names.
-2. **Identify unauthorized "Open Banking" connections:** Check your banking app settings for "Connected Apps," "Third Party Access," or "Open Banking Permissions."
-   - **Revoke or delete any service you do not recognize immediately.**
-3. **Contact your bank via the 159 emergency line:** Call **159** from your phone to be connected securely to your bank’s fraud department.
-   - This number is safer than using a number from a search engine, as it cannot be spoofed.
-   - If your bank is not one of the few that does not participate in 159, use the number on the back of your debit card.
-4. **Request an immediate security "stop" on account linking:** Tell the agent you have received "unsolicited micro-deposits" and need to ensure no new Direct Debits, standing orders, or third-party payment mandates (like VRPs) have been set up.
-5. **Update your digital banking credentials:** Change your banking password and any PINs or "memorable information" immediately after speaking with the bank.
-   - Ensure Multi-Factor Authentication (MFA) is active and set to your current mobile number.
-6. **Check your contact details for changes:** Verify within your banking profile that your email address and phone number have not been modified.
-7. **Register for Cifas Protective Registration:** Visit the official Cifas website to apply for "Protective Registration" (£30 for 2 years).
-   - This places a flag on your credit file that requires lenders to carry out extra identity checks if someone tries to open a new account in your name.
-8. **Report the incident to the national authorities:** 
-   - **England, Wales, and Northern Ireland:** Report to **Report Fraud** (formerly Action Fraud) at reportfraud.police.uk or call 0300 123 2040.
-   - **Scotland:** Call **Police Scotland on 101**.
+1. **Capture the facts (2 minutes):** in your banking app, note the date/time, amount, reference/description, and any sender details for each micro-deposit. Screenshot or write it down.
+2. **Check for other account changes:** look for new payees, newly added devices, changes to your contact details, and any new scheduled payments (standing orders) or Direct Debits you don’t recognise.
+3. **Contact your bank via a trusted route (now):** use the number on the back of your card, your bank’s official app chat, or their official website. If you’ve just had (or are worried about) a scam call, you can hang up and **dial 159** to reach your bank **if your bank participates**; if it doesn’t, use your bank’s official number instead.
+4. **Ask the bank to take specific protective actions while you’re on the line:**
+   - **Flag the deposits as suspicious** and check whether they match any known account-verification or account-linking attempt.
+   - **Confirm your contact details** (phone/email/address) haven’t been changed.
+   - **Review recent changes** (new payees, new devices, security setting changes, attempted logins).
+   - Ask what immediate protections they can apply (for example, extra monitoring or temporary restrictions). If they can’t confidently explain the source, ask whether they recommend **replacing compromised details** (new card, and in some cases new account details).
+5. **Secure your online banking immediately after the call:** change your banking password and any memorable information, enable/strengthen multi-factor authentication if available, and sign out of other devices/sessions if your bank offers that option.
+6. **Check for third-party access you didn’t approve:** in your banking app/online banking, look for “connected apps,” “third-party access,” or “Open Banking permissions,” and **revoke anything you don’t recognise**. If you can’t find a dashboard, ask your bank to check and remove any third-party access from their side.
+7. **If there’s any sign of broader identity misuse, add a protective layer:** check your credit file for unfamiliar accounts/searches and consider a fraud-protection service (such as a protective registration marker) if you believe your personal details are being used.
+8. **Report it through the correct UK route once your bank has secured you:**  
+   - **England, Wales, Northern Ireland:** report fraud/cybercrime via **Action Fraud** (Report Fraud).  
+   - **Scotland:** report via **Police Scotland on 101**.  
+   Keep any reference number with your notes and share it with your bank if asked.
 
 ## What can wait
-- You do not need to close your entire bank account immediately unless your bank's fraud team specifically advises it during your call.
-- You do not need to contact the sender of the money to "complain" or "ask questions"; let the bank's investigation team handle the trace.
-- You do not need to pay for private "identity theft insurance" or credit monitoring software today.
+- You do not need to decide today whether to close the account permanently or change banks (unless your bank advises urgent replacement details).
+- You don’t need to buy paid “credit monitoring” services right now.
+- You don’t need to confront any person or company you suspect — let your bank handle trace and investigation steps.
 
 ## Important reassurance
-Receiving these deposits means you have caught a potential fraud attempt at the "testing" phase. By contacting your bank now and revoking third-party access, you are taking the most effective steps to stop an account takeover before any significant money is lost. It is normal to feel targeted, but this is a common automated tactic used by scammers that can be neutralized with quick action.
+Seeing unexplained tiny deposits is unsettling, but it’s also an early warning sign you can act on quickly. Calm, contained steps now (bank contact + security + removing unknown access) often stop it escalating.
 
 ## Scope note
-This guide provides first-step stabilization for UK bank account holders. It does not cover the long-term recovery process if money has already been stolen or if a full identity theft has occurred.
+These are first steps to stabilise the situation and prevent avoidable mistakes. If your bank later confirms account takeover or identity misuse, you may need additional steps (for example, deeper credit-file action or a formal complaint path).
 
 ## Important note
-This information is for emergency stabilization and is not legal or financial advice. Banking protocols for fraud vary by institution; always prioritize the direct security instructions provided by your bank's official fraud department.
+This guide is general information for first-step harm prevention, not legal or financial advice. Bank processes vary; the safest move is to use your bank’s trusted contact routes and follow their security instructions.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
-- https://www.moneyhelper.org.uk/en/everyday-money/credit/identity-theft-and-scams-what-you-are-liable-for
-- https://www.moneyhelper.org.uk/en/everyday-money/banking/how-to-sort-a-problem-with-a-payment
-- https://www.takefive-stopfraud.org.uk/protect-yourself/banking-fraud/
-- https://www.fca.org.uk/consumers/fraudulent-payments
+- https://stopscamsuk.org.uk/our-work/159-phone-number/
+- https://stopscamsuk.org.uk/campaign/get-help-now/
+- https://www.reportfraud.police.uk/
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-call
+- https://www.actionfraud.org.uk/report_fraud/
+- https://www.cifas.org.uk/pr
+- https://standards.openbanking.org.uk/customer-experience-guidelines/introduction/revocation/latest/

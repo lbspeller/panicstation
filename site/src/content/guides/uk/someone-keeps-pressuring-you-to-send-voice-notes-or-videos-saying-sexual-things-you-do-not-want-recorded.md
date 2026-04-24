@@ -1,102 +1,82 @@
----
+﻿---
 title: "What to do if… someone keeps pressuring you to send voice notes or videos saying sexual things you do not want recorded"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "someone keeps pressuring you"
-  - "send voice notes or videos"
-  - "sexual things you do not want recorded"
-  - "pressuring you to send voice notes"
-  - "pressuring you to send videos"
-  - "saying sexual things"
-  - "do not want recorded"
-  - "voice notes recorded"
-  - "videos recorded"
-  - "sexual voice notes"
-  - "sexual videos"
-  - "keep pressuring"
-  - "help i am being pressured to sext"
-  - "help i am being asked for sexual videos"
-  - "my partner is forcing me to record sexual things"
-  - "what do i do if someone wants sexual voice notes"
-  - "what do i do if i am pressured to send clips"
-  - "what do i do if someone is coercing me online"
-  - "what do i do if i am scared to say no to sexting"
-  - "sexual coercion online"
-  - "unwanted sexual recordings"
-  - "forced sexual clips"
-  - "threatened with sexual videos"
-  - "pressure for sexual messages"
-  - "voice note harassment"
-  - "online sexual abuse cues"
-  - "feeling trapped by messages"
-  - "screens of sexual pressure"
-  - "digital sexual boundaries"
-  - "coercive control online"
-  - "sexting pressure at night"
-  - "asked for dirty videos"
-  - "dirty voice notes pressure"
-  - "sexual extortion threats"
-  - "intimate image abuse"
-last_reviewed: "2026-03-17"
+  - being pressured to sext
+  - forced sexual voice notes
+  - unwanted sexual videos
+  - pressured to send recordings
+  - sexual coercion online
+  - partner demanding explicit clips
+  - pressured into sexual messages
+  - asked for dirty voice notes
+  - asked for sexual videos
+  - don't want it recorded
+  - scared to say no
+  - someone won't stop asking
+  - online sexual pressure
+  - coercive sexual messages
+  - pressured by partner online
+  - worried they will save it
+  - sexual things on camera
+  - intimate recording pressure
+last_reviewed: "2026-03-14"
 ---
-# What to do if… someone keeps pressuring you to send voice notes or videos saying sexual things you do not want recorded (UK)
 
+# What to do if… someone keeps pressuring you to send voice notes or videos saying sexual things you do not want recorded (UK)
 ## Short answer
-Stop responding immediately and do not send any recordings. Move to a safe physical space, preserve evidence of the pressure, and contact a specialist support service or a trusted person to help you secure your accounts.
+
+Do not send the recording. Move the conversation somewhere you feel steadier, keep a copy of what was said, and tell one safe person what is happening so you are not carrying it alone.
 
 ## Do not do these things
-- Do not send a "compromise" clip to try and satisfy them or stop the pressure.
-- Do not delete the messages or call logs if you may want to report the harassment later.
-- Do not engage in long arguments or keep explaining why you are saying no.
-- Do not agree to meet in person to resolve the issue if they are being aggressive or controlling.
-- Do not blame yourself for their behavior, regardless of your past relationship with them.
-- Do not forward the sexual demands to others for their opinion or "proof."
+
+- Do not try to calm the situation by sending “just one” clip.
+- Do not delete everything straight away if you may want help dealing with it later.
+- Do not argue for hours or keep explaining yourself once you have said no.
+- Do not meet them alone to “sort it out” if the pressure is coming with threats, anger, or control.
+- Do not blame yourself because the pressure was sexual, manipulative, or came from someone you know.
+- Do not forward sexual messages or recordings to friends for opinions.
 
 ## What to do now
-1. **End the interaction immediately without further explanation.** You are not required to justify your boundaries or negotiate. 
-   - Use a single, final statement if you feel you must: "I am not sending that."
-   - If they continue, stop reading the messages.
 
-2. **Move to a safer pause by silencing your device.** Put the conversation on mute or close the app to stop real-time notifications from escalating your stress. 
+1. **Stop creating anything new for them.** A simple reply is enough: “I’m not sending that.” You do not need to justify, negotiate, or soften it.
 
-3. **Secure evidence of the pressure before making any changes.** Take screenshots that clearly show the person's account name, the platform, the date and time, and the specific demands or threats they made. 
-   - If they are using disappearing message features, use another device to take a photo of the screen if possible.
+2. **Move to a safer pause.** Put the chat on mute, step away from the app, and avoid replying in real time if you feel shaken or cornered.
 
-4. **Adjust your privacy and contact settings on the platform.** Use "restrict" or "mute" features if you are worried that blocking them will cause them to escalate on other apps. 
-   - If you choose to block, check your settings on all other social media accounts to ensure they cannot reach you there.
+3. **Keep the evidence without re-reading it over and over.** Take screenshots showing the account name, dates, and the messages asking, pressuring, or threatening. If there were disappearing messages, note the app, username, and roughly when it happened.
 
-5. **Tell one trusted person what is happening.** Having someone physically present or on a separate call can help you stay grounded while you manage blocking or reporting steps.
+4. **Tighten your digital boundaries on the platform they are using.** Block or restrict them if that feels safest, turn off who can contact you, and review privacy settings for your profile, story, camera, and message permissions.
 
-6. **Contact a specialist support service for guidance on digital safety and coercion.** If you are in England or Wales, call the Rape Crisis 24/7 Support Line on 0808 500 2222. 
-   - For situations involving domestic abuse or a controlling partner, call the National Domestic Abuse Helpline on 0808 2000 247 (24/7).
-   - If you are in Scotland, call the Rape Crisis Scotland Helpline on 08088 01 03 02 (daily 5pm–midnight).
+5. **Tell one trusted person today.** Say plainly that someone is pressuring you for sexual recordings you do not want to make. Ask them to stay with you while you block, report, or save screenshots if that feels hard to do alone.
 
-7. **Report the account to the platform for harassment or sexual coercion.** Use the in-app reporting tools to flag the behavior; most platforms have specific categories for non-consensual sexual content or coercion.
+6. **Use specialist support if the pressure is frightening, persistent, or tied to control in a relationship.** If you are in England or Wales, Rape Crisis England & Wales has a 24/7 support line and online chat. If this is part of domestic abuse or controlling behaviour, Refuge and local domestic abuse services can help you think about safer next steps. If you are elsewhere in the UK, a local sexual violence support service can help you work out first steps.
 
-8. **If you are under 18, speak to a trusted adult or professional immediately.** You can also contact Childline for free at 0800 1111 for confidential support.
+7. **Report through the app if you want the account reviewed.** Sexual coercion, harassment, threats, and image-based abuse may breach platform rules even if you never sent anything.
 
-9. **Call 999 if you are in immediate danger or being threatened with physical harm.** 
-   - If you are on a mobile and cannot speak, stay on the line and press 55 when prompted (the Silent Solution).
-   - For non-emergencies, call 101 to report the incident to the police.
+8. **If you are under 18, or they may be targeting a child, get adult help immediately.** Tell a parent, carer, teacher, safeguarding lead, or another trusted adult. If there is online sexual abuse involving a child, concerns can be reported to CEOP.
+
+9. **If you feel in immediate danger, call 999.** If you want to report later and it is not an emergency, 101 is the non-emergency police number in the UK.
 
 ## What can wait
-- You do not need to decide right now whether to involve the police formally.
-- You do not need to decide the future of your relationship or friendship with this person today.
-- You do not need to "fix" the person's behavior or make them understand why their actions were wrong.
+
+You do not need to decide today whether to make a formal report, explain everything perfectly, or have one final conversation with the person. You also do not need to work out the whole relationship, friendship, or future contact right now.
 
 ## Important reassurance
-It is normal to feel frozen, ashamed, or panicked when someone uses technology to pressure you sexually. This pressure is a form of coercion, and the responsibility for the situation lies entirely with the person making the demands. Your refusal is valid regardless of how many times they ask.
+
+Pressure about sexual recordings is not a misunderstanding just because it happened by phone, chat, or video. Feeling frozen, embarrassed, or unsure is common. “No”, “not comfortable”, and silence under pressure all matter.
 
 ## Scope note
-This guide provides first-step stabilization for an acute situation of online sexual pressure. It does not replace legal advice or long-term therapeutic support.
+
+This is first steps only. It is focused on helping you stabilise things and avoid making the situation harder in the next few hours. Later decisions about reporting, safety, or the relationship may need specialist support.
 
 ## Important note
-This information is for guidance only. If you are concerned about your safety or the safety of a child, contact the authorities. Reporting options and laws regarding online safety and sexual offences in the UK are subject to change and may depend on the specific details of the communication.
+
+This is general information, not legal, medical, or crisis counselling advice. If you may want to report later, keeping screenshots and not creating new material can help, but reporting is your choice unless there is an immediate risk to a child or someone is in danger.
 
 ## Additional Resources
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/intimate-images-shared-without-consent/
-- https://revengepornhelpline.org.uk/news/what-you-need-to-know-about-safely-sending-intimate-images/
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/sextortion-and-webcam-blackmail/
-- https://www.gov.uk/government/publications/domestic-abuse-bill-2020-factsheets/threats-to-disclose-private-sexual-photographs-and-films
-- https://womensaid.org.uk/information-support/what-is-domestic-abuse/online-safety/
+- https://rapecrisis.org.uk/get-help/want-to-talk/
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://www.gov.uk/guidance/domestic-abuse-how-to-get-help
+- https://thesurvivorstrust.org/
+- https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/child-sexual-abuse-and-exploitation

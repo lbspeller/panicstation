@@ -1,92 +1,76 @@
----
+﻿---
 title: "What to do if… someone claims to be a worker or official at your door but you cannot verify it quickly"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "bogus caller at the door"
-  - "doorstep crime safety"
-  - "rogue trader at doorstep"
-  - "fake utility worker UK"
-  - "unverified official visit"
-  - "stranger claims council worker"
-  - "someone wants to enter my home"
-  - "unexpected worker at my door"
-  - "door knock scam help"
-  - "distraction burglary risk UK"
-  - "cannot verify identity quickly"
-  - "feels pressured to open door"
-  - "suspicious caller at home"
-  - "unexpected repairs offer"
-  - "someone claims emergency inspection"
-  - "official looking badge at door"
-  - "impostor posing as authority"
-  - "doorstep safety guidance"
-  - "help i have a stranger at my door"
-  - "what do i do if a worker is at my door"
-  - "what do i do if i cannot verify a caller"
-  - "what do i do if someone claims to be police at my door"
-  - "my door has a suspicious caller"
-  - "my doorstep has a fake official"
-  - "smell of gas at doorstep"
-  - "unexpected power cut worker"
-  - "bogus official at door"
-  - "fake council worker at door"
-  - "identity badge check help"
-  - "doorstep pressure tactics"
-last_reviewed: "2026-03-17"
+  - bogus caller at the door
+  - doorstep crime
+  - rogue trader at doorstep
+  - fake utility worker
+  - unverified official visit
+  - stranger claims council worker
+  - someone wants to enter my home
+  - unexpected worker at my door
+  - door knock scam
+  - distraction burglary risk
+  - cannot verify identity quickly
+  - feels pressured to open door
+  - suspicious caller at home
+  - unexpected repairs offer
+  - someone claims emergency inspection
+  - official looking badge at door
+  - impostor posing as authority
+  - doorstep safety
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… someone claims to be a worker or official at your door but you cannot verify it quickly (UK)
 
 ## Short answer
-Keep the door closed and locked while you verify their identity using an independent, trusted phone number. Call 999 immediately if you feel threatened or they attempt to force entry.
+Keep the door closed and locked, and verify their identity using a phone number you find independently. If you feel unsafe or they won’t leave, call the police.
 
 ## Do not do these things
-- Do not open the door even slightly if you feel pressured or unsure.
-- Do not allow the person inside to use your facilities, such as a phone or toilet.
-- Do not use any phone number, website, or QR code provided by the person at the door.
-- Do not hand over bank cards, identity documents, or utility bills for inspection.
-- Do not leave the door unattended or unlocked while you go to find a phone or documents.
-- Do not exit your home to inspect "damage" or "leaks" they claim to have found.
+- Do not open the door “just to talk” if you feel pressured or unsure.
+- Do not let them inside “for a quick look” or to “use the toilet/phone”.
+- Do not use any phone number, QR code, link, or ID-check method they provide.
+- Do not hand over personal documents (bank card, passport, bills) at the doorstep.
+- Do not go to another room to “get something” while they’re at the door.
+- Do not argue on the doorstep if they become pushy—end the conversation and switch to verifying by phone.
 
 ## What to do now
-1. **Secure the entrance immediately.** **Ensure the door is closed and the lock is engaged.**
-   - Communicate only through the door, a secure intercom, or a closed window.
-   - If the door has a chain or limiter, do not rely on it as a primary security measure; keep the door fully shut.
-2. **State your refusal to open the door clearly.** **Tell the caller through the door: "I do not open the door to unannounced visitors; please wait while I verify your identity."**
-   - If they continue to talk or pressure you, stop responding and move away from the door.
-3. **Obtain identification details without opening.** **Ask the person to hold their ID card up to a window or peephole.**
-   - Note the individual's full name, their stated organisation, and any specific work order or reference number shown.
-   - Note the make, model, and registration of any vehicle they have parked nearby if visible.
-4. **Perform an independent verification check.** **Find a contact number from a previous bill, a physical phone book, or by manually typing the official organisation's website into a browser.**
-   - **Utility or Energy**: Call the number on your latest statement to confirm a visit is scheduled.
-   - **Council or Housing**: Call the main switchboard and ask to speak to the department the person claims to represent.
-   - **Police**: Call 101 to verify an officer's identity if there is no immediate danger.
-5. **Handle claimed utility emergencies safely.** **If the person claims there is a gas or electricity emergency, use official emergency lines yourself.**
-   - **Gas**: If you smell gas, turn off the gas at the meter (Emergency Control Valve) if safe, open windows, and call **0800 111 999**.
-   - **Electricity**: If they claim a network fault, call **105** to speak to your local network operator.
-6. **Use a different phone if verifying via landline.** **Use a mobile phone or wait at least one minute after hanging up before making a verification call on a landline.**
-   - This prevents scammers from "holding the line open" to intercept your outgoing call.
-7. **Contact emergency services if the situation escalates.** **Dial 999 if the person refuses to leave, attempts to turn the handle, or uses intimidating language.**
-8. **Contact your bank if any details were shared.** **Call your bank immediately using the number on the back of your card or by dialling 159 if you provided financial information or made a payment.**
+1. **Create a safer pause.** Keep the door **closed and locked**. Speak through the door, an intercom, or a window if you can.
+2. **Use one clear line and repeat it.** “I can’t let anyone in without verifying. Please wait outside while I check.” If they push back, repeat once and stop engaging.
+3. **Collect details without opening.** Ask them to hold ID up to a window/peephole/camera. Note their **name, organisation, and any reference/work order number**. (Treat ID as “not proof” until confirmed.)
+4. **Verify using a number you trust (not one they give you).**
+   - **Utility**: call your supplier using a number from **your bill/statement** or the official website (typed in yourself).
+   - **Council/landlord/housing repairs**: call the council switchboard or your housing provider using a number you already have.
+   - **If they claim to be police**: if you’re not in immediate danger, call **101** and ask to verify whether anyone should be at your address. If you feel threatened or they try to force entry, call **999**.
+5. **Don’t let “urgency” force the door open.**
+   - If you **smell gas** or are worried about a gas/carbon monoxide emergency: get to fresh air if needed and call **0800 111 999** yourself.
+   - If they claim an electricity network issue or power cut: call **105** (the free power cut number) yourself.
+6. **If they won’t leave, are trying to push past you, or you feel unsafe:** call **999**.
+7. **Bring in another person if you can.** If you’re alone, call a friend/neighbour and keep them on speaker while you verify (without mentioning financial details out loud at the door).
+8. **After they’ve gone, secure and record.** Lock doors, check windows, and write down (or voice-note) the time, what they said, and a description. Save doorbell/CCTV footage if you have it.
+9. **If you shared details or paid anything:** contact your bank immediately using a number on your card/banking app (or a trusted route like **159** if your bank supports it). Then report it to **Report Fraud/Action Fraud** as soon as you can.
 
 ## What can wait
-- You do not need to determine if the caller is definitely a criminal or definitely legitimate right now.
-- You do not need to justify your decision to keep the door closed to the person outside.
-- You do not need to report the incident to non-emergency services until the person has left the area.
-- You do not need to provide feedback or signatures for "required" paperwork on the doorstep.
+- You do not need to decide right now whether it was “definitely a scam” or “definitely genuine”.
+- You do not need to confront them, prove anything, or “catch them out”.
+- You do not need to book repairs, sign anything, or make payments at the doorstep.
 
 ## Important reassurance
-It is a standard and safe procedure to refuse entry to unannounced callers. Legitimate officials from utility companies, the council, or the police are trained to expect identity checks and will wait or rearrange the visit if you are not satisfied with their credentials. Feeling cautious is a protective response, not an act of rudeness.
+Freezing, feeling rude, or feeling pressured is a normal response when someone shows up looking official. You’re allowed to keep the door closed and take time to verify—legitimate organisations can handle a short delay.
 
 ## Scope note
-This guide provides first-step stabilization for an unverified caller at the door. It does not cover long-term home security upgrades or legal proceedings following a distraction burglary.
+These are first steps to keep you safe and buy time. If access was gained, money was taken, or threats were made, you may need follow-up support from the police, your bank, and fraud-reporting services.
 
 ## Important note
-This information is for immediate safety guidance and does not constitute legal or professional security advice. Always follow the instructions provided by emergency dispatchers if you call 999.
+This is general safety information, not legal advice. If you feel in immediate danger, call emergency services.
 
 ## Additional Resources
-- https://www.ageuk.org.uk/information-advice/money-legal/scams-fraud/doorstep-scams/
-- https://www.met.police.uk/advice/advice-and-information/fa/fraud/personal-fraud/prevent-personal-fraud/
-- https://www.met.police.uk/advice/advice-and-information/asb/asb/antisocial-behaviour/annoying-phone-calls-or-unwanted-visits/
-- https://www.citizensadvice.org.uk/consumer/get-more-help/report-to-trading-standards/
-- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
+- https://www.police.uk/advice/advice-and-information/fa/fraud/personal-fraud/dtdc/protecting-yourself-from-door-to-door-and-courier-fraud/
+- https://www.gov.uk/contact-police
+- https://www.nationalgas.com/emergency-contacts
+- https://www.powercut105.com/en/
+- https://www.reportfraud.police.uk/doorstep-fraud/
+- https://www.westyorkshire.police.uk/advice/home-security/home-security/doorstep-crime

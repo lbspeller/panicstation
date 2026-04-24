@@ -1,92 +1,76 @@
----
+﻿---
 title: "What to do if… someone claims they will send intimate images to your family, friends, or employer"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "threatened to share nudes"
-  - "threatened to leak intimate photos"
-  - "threatened to send images to my family"
-  - "threatened to message my employer"
-  - "sextortion threat"
-  - "webcam blackmail"
-  - "intimate images blackmail"
-  - "revenge porn threat"
-  - "non-consensual intimate images threat"
-  - "threatened to expose me online"
-  - "someone has my intimate images"
-  - "online blackmail with photos"
-  - "they demand money for nudes"
-  - "they demand more images"
-  - "deepfake nude threat"
-  - "threatened to post on social media"
-  - "panic after sextortion message"
-  - "blackmailer has screenshots"
-  - "they found my contacts"
-  - "they claim they will ruin my life"
-  - "help i am being blackmailed with photos"
-  - "help i sent a nude and they are threatening me"
-  - "what do i do if someone is sextorting me"
-  - "what do i do if my nudes are leaked"
-  - "my boss was sent my private photos"
-  - "help i paid a blackmailer"
-  - "sextortian help"
-  - "revenge porno threat"
-  - "smell of burning"
-  - "unusual heat"
-  - "visible smoke"
-  - "sudden buzzing"
-last_reviewed: "2026-03-17"
+  - threatened to share nudes
+  - threatened to leak intimate photos
+  - threatened to send images to my family
+  - threatened to message my employer
+  - sextortion threat
+  - webcam blackmail
+  - intimate images blackmail
+  - revenge porn threat
+  - non-consensual intimate images threat
+  - threatened to expose me online
+  - someone has my intimate images
+  - online blackmail with photos
+  - they demand money for nudes
+  - they demand more images
+  - deepfake nude threat
+  - threatened to post on social media
+  - panic after sextortion message
+  - blackmailer has screenshots
+  - they found my contacts
+  - they claim they will ruin my life
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… someone claims they will send intimate images to your family, friends, or employer (UK)
 
 ## Short answer
-Stop all communication immediately, block the user, and do not pay. Deactivate rather than delete your social media accounts to preserve evidence, and report the threat to the police and the Revenge Porn Helpline.
+Stop engaging with them and get support immediately. Don’t pay or comply—focus on safety, saving basic proof, and using the right UK reporting and support routes.
 
 ## Do not do these things
-- Do not pay any money, send gift cards, or provide cryptocurrency.
-- Do not negotiate, argue, or attempt to appeal to the blackmailer's sense of morality.
-- Do not delete your social media profiles or message history; deactivation is safer for evidence preservation.
-- Do not screenshot or save intimate images if there is any possibility they involve a person under 18.
-- Do not hire "hacker" or "takedown" services that claim they can delete the images from the blackmailer's device.
-- Do not send "one last photo" or video to satisfy the blackmailer's demands.
+- Don’t pay money, send gift cards/crypto, or agree to “one last thing” to make them stop.
+- Don’t negotiate, argue, or try to “prove” they won’t send anything.
+- Don’t wipe chats/accounts in a panic before saving the basics. (If you later want to delete things for your wellbeing, do it after you’ve saved key proof and secured your accounts.)
+- Don’t forward intimate images to anyone “for proof” or ask friends to view them.
+- Don’t hire random “takedown” or “hack back” services that contact the blackmailer for you.
 
 ## What to do now
-1. **Immediately cease all contact and block the individual on every platform used.** **Block their accounts, phone numbers, and email addresses without providing a warning.**
-   - If they create new accounts to contact you, continue to block them immediately without replying.
-2. **Deactivate your social media accounts rather than deleting them.** **Deactivation hides your profile and follower lists while allowing the police to retrieve metadata and IP logs later.**
-   - Ensure your "Followers" or "Friends" lists are set to private before deactivating.
-3. **Report the account to the platform using the built-in reporting tools.** **Select "harassment," "blackmail," or "intimate image abuse" as the reason for the report.**
-   - Under UK 2026 regulations, platforms are required to act on flagged intimate image abuse within 48 hours.
-4. **Preserve a light-touch evidence log.** **Take screenshots of the threats, the blackmailer’s profile name/ID, and any bank or payment details they provided.**
-   - Do not screenshot the intimate images themselves if they could be classified as child sexual abuse material (CSAM).
-5. **Secure your digital accounts and increase privacy settings.** **Change your passwords, enable two-factor authentication (2FA), and restrict who can find you via your phone number or email.**
-6. **Report the crime to the police.** **Call 101 to report the blackmail or use the online reporting portal of your local police force.**
-   - If you feel you are in immediate physical danger from someone you know, call 999.
-7. **Make a specialized report if you or the images involve anyone under 18.** **Submit a report to the CEOP Safety Centre (Child Exploitation and Online Protection).**
-   - You can also use the "Report Remove" tool via Childline to help get images of minors taken down.
-8. **Contact the Revenge Porn Helpline (UK).** **Call 0345 6000 459 (Mon–Fri, 10:00–16:00) for specialist support and advice on removing content.**
-9. **Use StopNCII.org to prevent further sharing on major platforms.** **Use the tool to create a digital "hash" (fingerprint) of the images on your device so participating platforms can block them automatically.**
-   - The images never leave your device and are not uploaded to the tool.
-10. **Manage potential contact with your employer or family.** **Consider a brief, non-detailed message to HR or trusted contacts stating you are being targeted by online harassment and they should ignore/block any suspicious messages.**
+1. **Get to a steadier moment and reduce exposure.** Put your phone down for 60 seconds, breathe, and move somewhere you can think. If you feel at risk of immediate harm from someone you know in person, **call 999**.
+2. **Stop contact and block them on every channel.** Block their accounts, numbers, emails, and any new accounts they use. If they keep reappearing, keep blocking—don’t “warn” them.
+3. **Report the account on the app/platform (right away).** Use the in-app report tools for harassment/blackmail/intimate images. If you see a report confirmation, save it.
+4. **Preserve the essentials (light-touch).** Take **a few screenshots** of the threat, their username/handle, and any payment demand or “send to your family/employer” message. Save profile links/URLs if you can. Then stop interacting.
+5. **Secure your accounts.** Change passwords for email and any accounts they contacted you on, turn on **two-factor authentication**, and review privacy settings (e.g., who can message you, see followers/friends, or find your contacts).
+6. **Report it through UK routes (choose what fits):**
+   - **If you are under 18** (or the images involve anyone under 18): make a report to **CEOP Safety Centre** as soon as you can.
+   - If you are an adult and this is intimidation/blackmail: **report to the police** (101 for non-emergency; 999 if immediate danger). If calling feels too hard right now, many forces also have an **online reporting** route—keep any incident/reference number you’re given.
+7. **Get specialist help that deals with this exact situation.** Contact the **Revenge Porn Helpline** (UK) for support with threats, platform escalation, and takedown guidance.
+8. **If the images are real and you have them available, consider a hashing tool.** If you still have the image/video on your device and you’re safe to do so, **StopNCII.org** can create a digital fingerprint that may help block re-uploads on participating platforms (it won’t prevent sharing everywhere).
+9. **If the threat targets work, protect your job without over-explaining.** Consider a simple, calm message to HR or a trusted manager: “I’m being harassed/blackmailed online and someone may attempt to contact the company with fake or private material. Please don’t engage and route anything to HR.” Keep it brief; you don’t owe details.
 
 ## What can wait
-- You do not need to decide whether to inform your entire social circle right now.
-- You do not need to identify the exact geographic location of the blackmailer before reporting.
-- You do not need to prove that the images are real or fake to receive support.
-- You do not need to verify if the images have actually been sent yet.
+- You don’t need to decide right now whether to “tell everyone” in advance.
+- You don’t need to write a long explanation, make public posts, or defend yourself online.
+- You don’t need to collect perfect evidence before reporting—basic details are enough to start.
+- You don’t need to identify the exact offence or “prove” anything to deserve help.
 
 ## Important reassurance
-Sextortion is a calculated criminal tactic designed to exploit shame and fear to force rapid, panicked decisions. Being targeted does not reflect your character or choices; the responsibility lies entirely with the person attempting the blackmail. Most threats of this nature are not carried out once the victim stops engaging and paying.
+This kind of threat is designed to trigger panic and rushed decisions. Feeling ashamed, scared, or frozen is a common reaction—and it does not mean you did anything wrong. You’re allowed to slow down and choose the safest next step.
 
 ## Scope note
-This guide provides first-step stabilization and harm reduction. Long-term legal action, workplace disclosures, or complex platform escalations should be managed with the help of specialized support services like the Revenge Porn Helpline or the police.
+These are first steps only—focused on stabilising, reducing risk, and getting you to the right specialist support. Later decisions (legal, work, relationship, platform escalation) can be made with help when you’re calmer.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. UK laws regarding intimate image abuse and blackmail are subject to change. If you are in immediate danger or if a minor is involved, contact the police (999) or CEOP immediately.
+This is general information, not legal advice or a substitute for professional support. If you are in immediate danger, call 999. If a child/minor is involved, prioritise child-protection reporting routes and specialist support.
 
 ## Additional Resources
-- https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/
-- https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/sextortion-reporting-it-to-us/
-- https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/sextortion-reporting-it-to-social-media-companies-if-it-happened-online/
-- https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/sextortion-help-and-support/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/
+- https://www.scotland.police.uk/advice/internet-safety/sextortion/
+- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/sextortion-and-webcam-blackmail/
+- https://revengepornhelpline.org.uk/news/should-i-block-a-sextortion-blackmailer/
+- https://www.ceop.police.uk/Safety-Centre/
+- https://stopncii.org/
 - https://www.victimsupport.org.uk/crime-info/types-crime/sextortion/

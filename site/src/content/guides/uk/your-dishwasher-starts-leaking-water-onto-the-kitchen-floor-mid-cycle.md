@@ -1,91 +1,71 @@
----
+﻿---
 title: "What to do if… your dishwasher starts leaking water onto the kitchen floor mid-cycle"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "dishwasher leaking mid cycle"
-  - "dishwasher leak on floor"
-  - "water pooling under dishwasher"
-  - "kitchen floor flooding from dishwasher"
-  - "sudden appliance leak"
-  - "leak while dishwasher running"
-  - "dishwasher overflow"
-  - "dishwasher door seal leak"
-  - "dishwasher hose leak"
-  - "water under cabinets"
-  - "stop dishwasher leak quickly"
-  - "turn off water to dishwasher"
-  - "isolate dishwasher power"
-  - "accidental kitchen flood"
-  - "emergency water shutoff home"
-  - "rented flat dishwasher leak"
-  - "leak discovered during wash"
-  - "dishwasher draining onto floor"
-  - "what do i do if my dishwasher is leaking"
-  - "what do i do if water is coming out of the dishwasher"
-  - "what do i do if the kitchen floor is wet"
-  - "what do i do if i see a leak"
-  - "help i have a flood in my kitchen"
-  - "help i need to stop a dishwasher leak"
-  - "help i am standing in water in the kitchen"
-  - "help i smell burning from the dishwasher"
-  - "burning plastic smell kitchen"
-  - "crackling sound from appliance"
-  - "buzzing noise near wet floor"
-  - "sparks from dishwasher"
-  - "warm water on floor"
-  - "dishwasher pooling water"
-  - "kitchen flooding help"
-  - "dishwasher water isolation"
-  - "dishwasher power isolation"
-last_reviewed: "2026-03-17"
+  - dishwasher leaking mid cycle
+  - dishwasher leak on floor
+  - water pooling under dishwasher
+  - kitchen floor flooding from dishwasher
+  - sudden appliance leak
+  - leak while dishwasher running
+  - dishwasher overflow
+  - dishwasher door seal leak
+  - dishwasher hose leak
+  - water under cabinets
+  - stop dishwasher leak quickly
+  - turn off water to dishwasher
+  - isolate dishwasher power
+  - accidental kitchen flood
+  - emergency water shutoff home
+  - rented flat dishwasher leak
+  - leak discovered during wash
+  - dishwasher draining onto floor
+last_reviewed: "2026-03-04"
 ---
+
 # What to do if… your dishwasher starts leaking water onto the kitchen floor mid-cycle (UK)
 
 ## Short answer
-Isolate the power supply from a dry position and shut off the water supply via the appliance valve or the main stopcock.
+Stop the cycle, cut power to the dishwasher safely, and shut off the water supply to it (or your stopcock if you can’t isolate the appliance).
 
 ## Do not do these things
-- Don’t stand in water to reach plugs, sockets, or the consumer unit.
-- Don’t touch the dishwasher while you are wet or standing on a wet surface.
-- Don’t attempt to "finish the cycle" or keep the machine running.
-- Don’t use metal tools to probe around the appliance or under cabinets.
-- Don’t mop or wipe near electrical sockets or cables if they are wet.
-- Don’t restart the appliance until it has been professionally inspected.
+- Don’t stand in water and touch plugs, sockets, switches, extension leads, or the consumer unit.
+- Don’t keep the cycle running “to finish” or keep opening/closing the door repeatedly.
+- Don’t pull the dishwasher out while it’s still powered or still connected to water.
+- Don’t use towels right up against electrical points (sockets, power strips, extension reels).
+- Don’t restart the dishwasher “to test it” until it’s dry and the cause is dealt with.
 
 ## What to do now
-1. **Identify immediate hazards.** Look for signs of electrical danger such as crackling sounds, sparks, or a smell of burning plastic.
-2. **Move to a dry area.** Keep children and pets away from the kitchen. Ensure you are standing on a dry, non-conductive surface before taking further action.
-3. **Isolate the power safely.** **Locate the switched socket or fused spur for the dishwasher if it is accessible from a dry position.**
-   - If the switch is wet or in a wet area, do not touch it.
-   - If it is safe and dry, switch the power off.
-   - If you cannot safely reach the switch, go to the consumer unit and switch off the "Kitchen" or "Dishwasher" circuit, provided the consumer unit area is dry.
-4. **Isolate the water supply.** **Turn the isolation valve on the dishwasher feed pipe, usually located under the kitchen sink.**
-   - This is typically a small blue or red lever or a screwdriver-slot valve; turn it 90 degrees to the pipe to stop the flow.
-   - If you cannot find or reach the isolation valve, turn off the internal stopcock (usually located under the sink, in a hallway cupboard, or under the stairs).
-5. **Contain the leak.** **Place towels or absorbent barriers around the edges of the water to prevent it from reaching other rooms or going under floorboards.** Avoid pushing water toward electrical points.
-6. **Report the issue if renting.** **Notify your landlord or letting agent immediately that an emergency leak has occurred and that you have isolated the utilities.** Under UK law, landlords must address emergency hazards (such as water leaks or electrical faults) within 24 hours.
-7. **Contact 105 for electrical concerns.** **Call 105 if you believe the leak has compromised the property's main electrical infrastructure or if you see signs of arcing at the consumer unit.**
-8. **Call 999 if a fire starts.** **Evacuate the property immediately if you see smoke or flames resulting from the electrical contact with water.**
+1. **Make a safer pause:** Step onto a dry area. Keep children/pets out of the kitchen and away from the wet floor.
+2. **Stop the dishwasher:** Press **Cancel/Drain** if available. If it won’t respond, don’t keep pressing—move on to power and water.
+3. **Cut power safely (only from a dry position):**
+   - If the dishwasher is on a **switched socket or fused spur** you can reach **without standing in water**, switch it off.
+   - If you can’t reach that safely, switch off the **dishwasher circuit at the consumer unit only if the consumer unit area is dry and clearly not affected by water**. If there’s any chance it’s wet/affected, **do not touch it**—keep away from electrics and get qualified help.
+4. **Shut off the water (prefer the appliance valve first):**
+   - Under the sink, close the **dishwasher isolation valve** (often a small lever/slot valve on the dishwasher supply line). **Keep hands dry** and avoid any under-sink electrics.
+   - If you can’t find it quickly or it won’t turn, shut off the **mains stopcock/stop tap** **only if you can access it safely**.
+5. **Contain the water (prevent spread/damage):** Use towels as “dams” around the edge of the puddle and mop water away from sockets, appliance bases, and under-cabinet gaps. If water is heading under units, roll towels and press them into the kickboard edges to slow it.
+6. **Document quickly (useful for landlord/insurance):** Take a few photos/videos of the water spread and the point you turned off (switch/valve), then stop handling the appliance.
+7. **If you’re renting:** Report it as an urgent repair to your **landlord/letting agent**: “Dishwasher leaking mid-cycle; power and water isolated; water on kitchen floor.” If your building has a caretaker/managing agent, notify them too.
+8. **If water reached electrics, or you smell burning/hear crackling/sparking:** Keep people out of the area. Call **999** if there’s immediate danger (fire/electrical emergency). Otherwise, arrange a **qualified electrician/appliance engineer** before restoring power or using affected sockets/appliances.
 
 ## What can wait
-- You do not need to identify the specific mechanical failure (e.g., pump vs. seal) right now.
-- You do not need to move the dishwasher to inspect the floor behind it.
-- You do not need to clean the interior of the machine.
-- You do not need to decide on a replacement appliance immediately.
+- You don’t need to diagnose the exact part (seal, hose, pump) right now.
+- You don’t need to move the dishwasher today if doing so requires pulling it through water or around electrics.
+- You don’t need to decide repair vs replacement yet—first stop the leak and reduce electrical risk.
 
 ## Important reassurance
-Kitchen appliance leaks are high-stress but common events. By isolating the water and power, you have removed the primary sources of escalation. Professional repair services or landlords are equipped to handle the secondary clean-up and mechanical diagnosis once the situation is stable.
+A mid-cycle leak is stressful but common. The biggest risk-reducers are simple: **water off, power off (safely), and stop the spread**.
 
 ## Scope note
-This guide covers first-step stabilization only. Subsequent repairs to the appliance or the property's electrical system must be carried out by qualified professionals (NICEIC-registered electricians or Gas Safe/plumbing engineers as appropriate).
+This is first steps only to stabilise the situation and reduce harm. Follow-up drying, inspection and repair may need a qualified professional—especially if water contacted wiring or sockets.
 
 ## Important note
-This information is for general guidance and does not replace professional electrical or plumbing advice. If you are unsure of your safety at any point, evacuate the area and contact emergency services or a qualified tradesperson.
+This is general information, not professional advice. If you’re unsure about electrical safety, avoid contact with electrics and get qualified help.
 
 ## Additional Resources
-- https://www.gov.uk/after-flood
+- https://www.gov.uk/help-during-flood
 - https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/
-- https://www.abi.org.uk/products-and-issues/choosing-the-right-insurance/home-insurance/burst-pipes-and-water-leaks/
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/check-if-your-landlord-has-to-do-repairs/
-- https://www.gov.uk/private-renting/repairs
+- https://niceic.com/news/flooding-electrical-safety/
+- https://www.spenergynetworks.co.uk/pages/flooding_and_your_power_supply.aspx

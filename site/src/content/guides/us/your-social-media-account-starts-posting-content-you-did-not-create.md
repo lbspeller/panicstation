@@ -1,102 +1,83 @@
----
+﻿---
 title: "What to do if… your social media account starts posting content you did not create"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "website shows security warning"
-  - "certificate warning on my site"
-  - "https not secure suddenly"
-  - "ssl error on my domain"
-  - "tls certificate problem"
-  - "your connection is not private"
-  - "err cert authority invalid"
-  - "hsts certificate error"
-  - "browser security warning website"
-  - "certificate expired website"
-  - "wrong certificate served"
-  - "certificate name mismatch"
-  - "site suddenly not trusted"
-  - "https warning after nothing changed"
-  - "domain security warning"
-  - "website cert changed unexpectedly"
-  - "dns hijack suspicion"
-  - "cdn ssl mode issue"
-  - "hosting certificate issue"
-  - "users seeing cert warning"
-  - "possible interception risk"
-  - "expired ssl certificate error"
-  - "invalid security certificate help"
-  - "what do i do if my website says not secure"
-  - "what do i do if my ssl certificate expired"
-  - "what do i do if i see err cert common name mismatch"
-  - "help i have a certificate warning on my site"
-  - "help i cannot access my admin panel ssl"
-  - "my website is showing a red warning page"
-  - "smell of burning server"
-  - "server clock is wrong"
-  - "unexpected dns changes"
-last_reviewed: "2026-03-17"
+  - social media hacked
+  - account posting by itself
+  - posts i did not make
+  - random posts on my account
+  - someone took over my account
+  - account compromised
+  - unauthorized posts
+  - my profile got hacked
+  - my instagram got hacked
+  - my facebook got hacked
+  - my x twitter got hacked
+  - unknown login activity
+  - password changed without me
+  - messages sent from my account
+  - scam posts from my profile
+  - account takeover
+  - digital account breach
+  - suspicious account activity
+  - hacked after clicking a link
+  - hacked through third party app
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your social media account starts posting content you did not create (USA)
 
 ## Short answer
-Assume the connection is compromised until verified: immediately stop all administrative logins and payment processing, then determine if the warning stems from technical expiration, misconfiguration, or unauthorized infrastructure changes.
+Assume an account takeover: lock down your email first, then use the platform’s official recovery flow, reset credentials, and sign out all sessions.
 
 ## Do not do these things
-- Do not bypass the browser warning to log into administrative panels or databases.
-- Do not enter passwords, API keys, or financial data on the site while the warning is active.
-- Do not accept "renewal" offers or software downloads from pop-up windows or unsolicited emails.
-- Do not change global DNS or CDN settings without first documenting current configurations.
-- Do not reassure users that the site is safe until the certificate mismatch or expiration is fully resolved and verified on a neutral network.
+- Don’t follow “recovery” links sent by DM/text from “support” accounts — navigate to the platform’s help pages directly.
+- Don’t negotiate with the attacker from the compromised account or post emotional back-and-forth.
+- Don’t pay anyone offering “account recovery” services — it often becomes a second scam.
+- Don’t ignore your email account security; if your email is compromised, the takeover will keep coming back.
+- Don’t make lots of rapid repeated login attempts if you’re getting blocked — it can slow you down.
 
 ## What to do now
-1. **Isolate the site from sensitive user interactions.**  
-   **Enable a static maintenance page or disable listener ports for login and checkout pages.**
-   - This prevents users from inadvertently submitting credentials over an untrusted connection.
-2. **Verify the exact domain name displayed in the browser address bar.**  
-   **Compare the URL character-by-character to your official domain to rule out typo-squatting or homograph attacks.**
-3. **Determine the scope of the warning by testing across multiple networks.**  
-   **Access the site using a separate device on a different network, such as a cellular data connection.**
-   - If the error persists, the issue is likely server-side or DNS-based.
-   - If the error disappears, the issue may be local to your original network or device clock.
-4. **Inspect the certificate details via the browser's security tab.**  
-   **Identify the specific error code, the expiration date, and the "Issued To" common name.**
-   - Common errors include: ERR_CERT_DATE_INVALID (expired), ERR_CERT_COMMON_NAME_INVALID (mismatch), or ERR_CERT_AUTHORITY_INVALID (untrusted).
-5. **Verify external DNS records and IP targets.**  
-   **Use an independent DNS lookup tool to confirm your A, AAAA, and CNAME records point to your authorized hosting or CDN IPs.**
-   - Look for unauthorized IP addresses or new records you did not create.
-6. **Check CDN and SSL/TLS configuration modes.**  
-   **Log into your CDN dashboard and confirm the "SSL/TLS encryption mode" has not shifted from "Full/Strict" to "Flexible" or "Off".**
-   - Ensure the origin certificate matches the requirements of your proxy service.
-7. **Renew or reinstall the certificate through official channels only.**  
-   **Use your hosting provider’s integrated certificate manager or a trusted Certificate Authority (CA) to reissue the certificate.**
-   - Do not use third-party "fix-it" tools found via search engines.
-8. **Secure primary control accounts if compromise is suspected.**  
-   **Update passwords and ensure Multi-Factor Authentication (MFA) is active on DNS, CDN, and registrar accounts.**
-   - Revoke any active sessions or API tokens that appear unfamiliar.
-9. **Follow federal breach notification timelines if user data was exposed.**  
-   **Report any unauthorized acquisition of unencrypted customer information to the FTC within 30 days if it affects 500 or more individuals.**
-10. **File a report with the FBI Internet Crime Complaint Center (IC3).**  
-    **Submit a report at ic3.gov if you believe the certificate error is the result of a cyber-enabled crime or DNS hijacking.**
-    - For significant incidents involving critical infrastructure, utilize the CISA reporting portal.
+1. **Shift to a safer, steadier moment.** Use a trusted device if possible. If you suspect your phone/computer is acting strangely, use another device to do recovery steps.  
+2. **Secure the email address tied to the social account first.**  
+   - Change the email password.  
+   - Turn on multi-factor authentication.  
+   - Check “recent activity” / “devices” and sign out other sessions if the email provider offers it.  
+3. **Use the platform’s official “hacked/compromised” recovery route.**  
+   - If you can still log in: change password immediately and use “log out of all devices/sessions.”  
+   - If you can’t: complete the platform’s identity/recovery steps from its help center until you regain access.  
+4. **As soon as you’re back in, remove anything you don’t recognize that could let them return.**  
+   - Verify the account email/phone are yours; remove anything unfamiliar.  
+   - Revoke unknown **connected apps** / third-party access.  
+   - Turn on **2FA/MFA** (prefer an authenticator app when offered).  
+5. **Protect other people quickly (without amplifying the scam).**  
+   - After you’ve secured access, remove the scam posts and send one short warning post to followers (ignore links/DMs).  
+6. **Check for financial exposure if the account can run ads or store payments.**  
+   - Look for ad campaigns, billing changes, or connected payment methods you didn’t authorize.  
+   - If you see charges or attempted charges: contact your bank/card issuer immediately using the number on your card/statement.  
+7. **Document the minimum you might need later.**  
+   - Save screenshots of unauthorized posts, changed account details, suspicious logins, and any receipts/charges.  
+8. **Report if money loss, identity theft, or coordinated fraud is involved.**  
+   - File a report with the FBI’s **Internet Crime Complaint Center (IC3)**. Be wary of look-alike “IC3” reporting portals and make sure you are using the official FBI reporting site.
 
 ## What can wait
-- You do not need to permanently migrate to a new hosting provider in the next hour.
-- You do not need to perform a full forensic audit before restoring a valid certificate to resume safe operations.
-- You do not need to issue a detailed technical post-mortem while the investigation is ongoing.
+- You don’t need to figure out the exact attack method right now — focus on control, logout, and MFA.
+- You don’t need to message everyone individually; one warning post is enough for the first pass.
+- You don’t need to decide today whether to delete the account — secure it first.
 
 ## Important reassurance
-Sudden certificate warnings are frequently the result of automated renewal failures, server clock drift, or simple configuration oversights. These issues are common and can usually be resolved without permanent data loss or total system compromise if you avoid entering sensitive data while the warning is active.
+Seeing your account post things you didn’t create is jarring and feels personal, but it’s usually opportunistic. Regaining access through official recovery + securing your email + enabling MFA often stops it quickly and prevents repeats.
 
 ## Scope note
-This guide provides first-step stabilization for digital security warnings. It does not replace the need for professional incident response, legal counsel, or forensic investigation if a data breach has occurred.
+This is first-step guidance to stabilize access and prevent immediate harm. Deeper cleanup (device checks, password manager setup, long-term monitoring) can happen after you’re back in control.
 
 ## Important note
-This information is for general guidance and does not constitute professional security or legal advice. If your site processes credit card data and you suspect a breach, you must follow PCI DSS requirements, which may include engaging a certified PCI Forensic Investigator (PFI).
+This is general information, not legal or professional advice. If there are credible threats, stalking, extortion, or immediate safety concerns, prioritize safety and contact local law enforcement or emergency services as appropriate.
 
 ## Additional Resources
 - https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
-- https://consumer.ftc.gov/consumer-alerts/2024/08/five-ways-keep-scammers-hackers-away
-- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
 - https://www.ic3.gov/CrimeInfo/AccountTakeover
-- https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers
+- https://www.ic3.gov/
+- https://help.x.com/en/forms/account-access/regain-access/hacked-or-compromised
+- https://www.cisa.gov/sites/default/files/publications/CISA_CEG_Social_Media_Account_Protection_508.pdf

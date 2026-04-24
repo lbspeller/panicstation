@@ -1,84 +1,87 @@
----
+﻿---
 title: "What to do if… you are asked to provide a photo and short life summary for a service on a tight deadline"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "memorial service photo deadline"
-  - "what do i do if i need an obituary photo fast"
-  - "what do i do if i have a funeral program deadline"
-  - "what do i do if i need to write a life summary"
-  - "what do i do if the funeral home needs a picture"
-  - "help i need to choose a funeral photo"
-  - "help i am writing a short biography for a service"
-  - "help i missed the obituary deadline"
-  - "help i need to scan a photo for a funeral"
-  - "my funeral home needs a biography today"
-  - "my memorial program needs a photo"
-  - "my obituary summary is due"
-  - "my family needs a life summary for the service"
-  - "short funeral biography template"
-  - "memorial tribute photo quality"
-  - "urgent obituary writing steps"
-  - "funeral slideshow photo resolution"
-  - "scanning photos for memorial services"
-  - "digital photo formats for funerals"
-  - "funeral program photo requirements"
-  - "obituary text for newspapers"
-  - "last minute memorial service tasks"
-  - "blurred memorial photo fix"
-  - " funeral headshot criteria"
-  - "life summary for bereavement"
-  - "death notice photo submission"
-  - "memorial handout wording"
-  - "tight deadline funeral planning"
-  - "factual life summary structure"
-  - "emergency obituary draft"
-last_reviewed: "2026-03-16"
+  - funeral home needs photo
+  - memorial program photo
+  - obituary photo deadline
+  - short life summary needed
+  - quick obituary paragraph
+  - service handout wording
+  - last minute memorial details
+  - eulogy blurb request
+  - grieving with time pressure
+  - choose a clear portrait
+  - scan old family photo
+  - newspaper obituary deadline
+  - funeral slideshow picture
+  - memorial service biography
+  - family review of wording
+  - spell names and dates
+  - send photo file format
+  - urgent funeral planning task
+  - photo and wording due today
+  - tight deadline memorial program
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… you are asked to provide a photo and short life summary for a service on a tight deadline (USA)
 
 ## Short answer
-Obtain the exact deadline and required file format from the funeral home or printer, select one high-resolution solo portrait, and draft a factual 5-sentence summary for a single point-person to submit.
+Get the funeral home’s exact deadline and required format, then send one high-quality photo plus a short, factual life summary that one other trusted person has quickly proofread for names and dates.
 
 ## Do not do these things
-- Don't send photos via text message or social media apps, as these platforms compress files and cause pixelation in print.
-- Don't include disputed facts, private medical details, or complex family grievances that require long-term resolution.
-- Don't allow multiple family members to send different versions to the funeral home; this causes production errors.
-- Don't guess legal names, birth dates, or military ranks; omit any specific detail you cannot verify within the hour.
-- Don't wait for a "perfect" photo if the printing deadline is minutes away; a clear placeholder is better than an empty program.
+- Don’t assume they can “fix it” later—program printing and slideshow systems can fail with the wrong file type or a low-quality image.
+- Don’t guess uncertain facts (full legal name, birth date, military service, marriages, cause of death, family list). If you’re not sure, leave it out.
+- Don’t text the photo by SMS/MMS if you can avoid it—those routes commonly shrink images. Use email attachment or an upload link if possible.
+- Don’t include private, disputed, or explanatory details to “justify” what happened.
+- Don’t let multiple relatives send competing versions. If possible, have one designated person send the final photo/text and updates.
 
 ## What to do now
-1. **Request the technical specifications in writing immediately.** **Ask the funeral home or the memorial printer for the exact time deadline, the intended use (print program vs. digital slideshow), and the preferred file format (usually JPG, PNG, or TIFF).**
-   - Confirm if they need a single "family point person" to be the sole source of truth for edits.
-2. **Select one clear solo portrait for the main tribute.** **Choose an image where the face is well-lit and unobstructed, ideally a head-and-shoulders shot that can be cropped easily.** 
-   - Avoid group photos where cropping would result in low resolution or visible "ghost" limbs of other people.
-3. **Scan physical prints at a minimum of 300 to 600 DPI.** **If you are using a physical photograph, use a flatbed scanner rather than taking a phone picture of the print to avoid glare and distortion.**
-   - If a scanner is unavailable, photograph the print in bright, indirect natural light (near a window) without using a flash.
-4. **Draft a 5-sentence factual summary using a standard structure.** **Focus on the following sequence: full legal name, birth/death years, primary residence/hometown, significant vocation or service, and a single sentence regarding their character or hobbies.**
-   - Example: "[Name] was born in [City] and spent 30 years as a [Vocation]. They were known for [Hobby/Trait]. They are survived by [Short List]."
-5. **Decide on the inclusion of the cause of death.** **In the USA, it is entirely the family's choice whether to list the cause of death; if there is any disagreement, the safest action for a tight deadline is to omit it.**
-6. **Perform a "two-person accuracy check" on all spellings.** **Have one other person who is not the primary writer verify the spelling of every name and the accuracy of all dates before hitting send.**
-7. **Submit the package via email with a clear subject line.** **Use the subject line: "URGENT: Photo and Text for [Full Name] - Deadline [Time]" and paste the text into the email body while also attaching the photo file.**
-   - Ask for a "received" confirmation to ensure the file was not blocked by a size limit or spam filter.
-8. **Verify that the funeral home has notified the newspaper.** **If the summary is for a paid obituary, confirm the funeral home has performed the required verification of death with the publication to prevent the notice from being held.**
+1. **Get the requirements in writing (one message).** Ask the funeral home (or the person requesting it):
+   - Deadline (date + time).
+   - What it’s for (memorial program, obituary, slideshow, poster board, online memorial).
+   - Whether they are also submitting to a newspaper/online obituary service and if they need a separate shorter version.
+   - Preferred delivery (email attachment vs upload portal/link) and file types (usually JPG/PNG for photos; text/Word for the summary).
+   - Confirm they will accept changes only from a single “family point person” (name + phone/email).
+2. **Choose one photo that will work everywhere.** A clear, well-lit head-and-shoulders photo is easiest for both print and screens. If the photo includes others, pick one that can be cropped cleanly (or choose a solo portrait).
+3. **Send the best-quality version (avoid compression).**
+   - If the photo is on a phone/computer, send the original/full-resolution file (email attachment or upload link).
+   - If it’s printed, scan it if possible. For print, **300 dpi is a common target**; scanning around **300–600 dpi** often gives better results. If you can’t scan, photograph it flat in bright indirect daylight with no glare.
+4. **Write a tight, copy-ready life summary (5–8 sentences).** A reliable structure:
+   - Full name (and “known as” name if the family wants that published).
+   - Birth year–death year only if confirmed (if unsure, omit).
+   - Key places (where they were from / where they lived).
+   - A few anchors: vocation, service/community, what they cared about.
+   - One or two human details (hobbies, “known for,” small warmth).
+   - Optional closing line: “They will be deeply missed by…” (keep the family list short unless requested).
+5. **Do a “two-person check” for accuracy and privacy.** Ask one trusted person to check spellings, dates, and anything that shouldn’t be public.
+6. **Deliver it in a way that won’t get lost.**
+   - Subject line: “Photo + short life summary for [Name] — needed by [time/date]”
+   - Photo attached as a file (or provide a link if it’s too large).
+   - Text pasted into the email body so it can be copied easily, plus an attachment if requested.
+   - Add: “Preferred caption: [Full Name]. Please crop as needed.”
+7. **If you’re within hours, send a minimal version immediately.** A simple 2–3 sentence placeholder (name, place, one defining line) is better than missing print/AV deadlines. You can offer an updated paragraph for online memorial pages or later reprints.
+8. **Keep a backup package.** Save exactly what you sent (photo + final paragraph + recipient) so you can resend instantly if there’s a technical issue.
 
 ## What can wait
-- You do not need to write the full eulogy or a comprehensive life story today.
-- You do not need to finalize the full list of "in lieu of flowers" charities if the printer only needs the bio and photo now.
-- You do not need to settle long-term estate or family disputes during this writing window.
+- You don’t have to produce a perfect obituary, full eulogy, or complete family list right now unless it’s specifically required.
+- You don’t need to settle disagreements today—stick to neutral, widely agreed facts.
+- You don’t need to pick multiple photos or build a slideshow unless you’re asked for that next.
 
 ## Important reassurance
-In a high-pressure moment, any clear photo that looks like the person and a short, accurate summary is a successful tribute. Funeral directors and printers are accustomed to working with grieving families under tight deadlines; they will tell you if a file is unusable.
+Under deadline pressure, it’s normal to feel blank, guilty, or like you’re “doing it wrong.” A simple, accurate paragraph and one clear photo is enough to honor someone and keep the service materials moving.
 
 ## Scope note
-This guide provides first-step stabilization for meeting immediate production deadlines. It does not cover long-form biography writing, legal death notices, or complex funeral liturgy planning.
+These are first steps for meeting a tight request safely and calmly. Longer writing (full obituary, longer tribute, extended family acknowledgements) can be done later with more time and help.
 
 ## Important note
-This information is for procedural assistance only and does not constitute legal or professional advice. Requirements for newspapers and funeral homes vary by state and individual company policy; always defer to the specific instructions provided by your service coordinator.
+This is general information for a stressful moment, not legal advice. If there are safety concerns, intense family conflict, or pressure to publish sensitive details, you can ask the funeral home to keep wording minimal for now and to take updates only from a single designated contact.
 
 ## Additional Resources
 - https://www.dignitymemorial.com/grief-and-sympathy/losing-a-loved-one/how-to-write-an-obituary
-- https://www.dignitymemorial.com/grief-and-sympathy/losing-a-loved-one/obituary-templates-and-examples
-- https://www.legacy.com/memorial-writing/how-to-write-an-obituary
-- https://everloved.com/articles/obituaries-and-funeral-announcements/short-obituary-templates-and-examples/
 - https://www.legacy.com/memorial-writing/how-to-submit-an-obituary-online
+- https://www.dignitymemorial.com/grief-and-sympathy/losing-a-loved-one/obituary-templates-and-examples
+- https://www.funeralpamphlets.com/funeral-program-photo-quality-guide/
+- https://www.funeralpamphlets.com/how-to-choose-photo-for-funeral-program/

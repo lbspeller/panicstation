@@ -1,90 +1,111 @@
----
+﻿---
 title: "What to do if… your website’s DNS records change unexpectedly and traffic starts going somewhere else"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "extortion message"
-  - "files copied email"
-  - "hacker claims files stolen"
-  - "data theft threat"
-  - "blackmail email"
-  - "cyber extortion"
-  - "stolen files threat"
-  - "received extortion message"
-  - "what do i do if i get an extortion email"
-  - "what do i do if someone claims they hacked my files"
-  - "what do i do if my data is being held for ransom"
-  - "what do i do if i am being blackmailed online"
-  - "help i got a bitcoin blackmail message"
-  - "help i am being extorted over files"
-  - "my files were copied scam"
-  - "my data was stolen threat"
-  - "smell of digital scam"
-  - "visible password in email"
-  - "threat of data leak"
-  - "unauthorized sign in alert"
-  - "fake data breach message"
-  - "extortion invoice scam"
-  - "webcam recording threat"
-  - "bitcoin demand email"
-  - "account compromise warning"
-  - "exfiltrated files threat"
-  - "data exposure fear"
-  - "ransom demand message"
-  - "crypto wallet in email"
-  - "urgent payment demand"
-last_reviewed: "2026-03-17"
+  - dns changed unexpectedly
+  - dns records changed
+  - nameservers changed
+  - domain hijacked
+  - dns hijacking
+  - website redirecting elsewhere
+  - site traffic diverted
+  - domain pointing to wrong server
+  - registrar account compromised
+  - unauthorized dns changes
+  - website going to another site
+  - customers seeing wrong website
+  - my domain was taken over
+  - domain settings changed
+  - website sending users elsewhere
+  - someone changed my dns
+  - sudden traffic drop dns
+  - domain control lost
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your website’s DNS records change unexpectedly and traffic starts going somewhere else (USA)
 
 ## Short answer
-Do not reply, click links, or pay any demand. Preserve the message as evidence, verify your account security from a separate clean device, and report the incident to the FBI and FTC.
+Assume compromise and take control at the **domain registrar** first. Lock the domain, restore DNS from a known-good record, and secure the accounts (especially email) that can reset domain/DNS access.
 
 ## Do not do these things
-- Do not pay the demand (this often identifies you as a responsive target for further extortion).
-- Do not reply to the message or attempt to negotiate with the sender.
-- Do not click any links, open attachments, or scan QR codes within the extortion message.
-- Do not change passwords or log into sensitive accounts using the device you suspect is compromised.
-- Do not factory-reset the device or delete the message until you have captured screenshots and sender data.
+- Don’t keep making “trial” DNS edits — you can slow recovery and blur what changed.
+- Don’t assume it will fix itself with propagation if users are consistently resolving to the wrong destination.
+- Don’t use phone numbers/links from suspicious emails or texts claiming to be your registrar/DNS provider.
+- Don’t share admin screenshots, DNS details, or support ticket IDs publicly during containment.
+- Don’t rotate passwords across your whole org before you’ve regained control of the registrar/DNS accounts you need right now.
 
 ## What to do now
-1. **Isolate the affected device from your network immediately.** If you clicked a link or suspect an active intrusion, turn off Wi-Fi and disconnect ethernet cables to prevent further data exfiltration or lateral movement to other devices.
-2. **Preserve digital evidence for law enforcement.** Take clear screenshots of the message, including the sender’s full email address or handle, the timestamp, the specific threat, and any payment instructions such as cryptocurrency wallet addresses.
-3. **Perform a "proof of life" check on the threat's validity.** Look for specific, non-public details in the message (such as actual filenames from your computer or current photos) rather than generic claims or old, leaked passwords; if no unique proof is provided, the message is likely a mass-spam "sextortion" or extortion template.
-4. **Audit your primary accounts from a known-secure, separate device.** Use a different computer or phone to check your primary email and cloud storage for:
-   - Unrecognized sign-in locations or devices in "Security Activity."
-   - New "Auto-forwarding" rules in email settings.
-   - Unauthorized third-party app permissions or "Connected Apps."
-5. **Secure your digital identity starting with your "master" email account.** Change your email password to a unique, complex phrase and ensure Multi-Factor Authentication (MFA) is enabled using an authenticator app rather than SMS if possible.
-6. **Update and scan all devices for persistent malware.** Use built-in security software or a trusted security suite to run a full system scan; if the scan identifies "Remote Access Trojans" (RATs) or persistent "infostealers," seek professional technical assistance.
-7. **Report the extortion attempt to the FBI Internet Crime Complaint Center.** Navigate directly to **ic3.gov** in your browser to file a report, specifically noting the 2026 priority on "scam center" operations and transnational extortion.
-8. **File a report with the Federal Trade Commission (FTC) to protect your credit.** Use the official channels to document the fraud attempt:
-   - Visit **ReportFraud.ftc.gov** for the extortion attempt.
-   - Visit **IdentityTheft.gov** if you believe your Social Security number or sensitive files were actually accessed.
-   - Call the FTC at **1-877-438-4338** for live assistance with a recovery plan.
-9. **Place a security freeze on your credit reports if sensitive data was mentioned.** Contact the three major bureaus individually to prevent unauthorized accounts from being opened:
-   - Equifax (1-800-685-1111)
-   - Experian (1-888-397-3742)
-   - TransUnion (1-888-909-8872)
-10. **Notify your organization if the threat involves work or school data.** Follow your internal IT security policy immediately; do not attempt to hide the incident from your employer, as this can lead to larger institutional breaches.
+1. **Switch to a safer admin posture (minutes).**
+   - Use a known-clean device if possible.
+   - Pause any tools that automatically push DNS changes (CI/CD DNS updates, infrastructure-as-code runs, API automations) so they don’t conflict with recovery.
+
+2. **Lock down the registrar account (your main control point).**
+   - Log in to your **domain registrar** and immediately:
+     - Change the password to a strong unique one.
+     - Enable **MFA/2FA**.
+     - Turn on **Domain Lock / Registrar Lock** (to block transfers and reduce unauthorized changes).
+     - If your registrar offers it (and your domain supports it), ask about **Registry Lock** as an added safeguard.
+   - Remove unknown users, delegated access, recovery emails/phones, and revoke any API keys/tokens you don’t recognize.
+
+3. **Record what happened (you’ll need this for escalation).**
+   - Screenshot/export:
+     - Current **nameservers (NS)** at the registrar.
+     - DNS provider/CDN audit logs (record changes, API activity).
+     - Any registrant/contact changes you can see.
+   - Write a brief timeline (local time): when you noticed, what users see, and what you changed (if anything).
+
+4. **Restore delegation first, then restore records.**
+   - If **nameservers changed**, set them back to your correct DNS provider/CDN values using a known-good reference (internal documentation, prior ticket, provider onboarding details).
+   - If nameservers are correct but **records were modified**, restore from your last known-good DNS export/template.
+   - If you don’t have a known-good copy, restore only the minimum needed to bring the website back safely (A/AAAA/CNAME for the web service), then add other records carefully.
+
+5. **Check DNSSEC status so recovery doesn’t fail silently.**
+   - In the registrar panel, check whether **DNSSEC** is enabled and whether the **DS record** was changed or removed.
+   - If DNSSEC was altered, coordinate fixes with your DNS provider/registrar (a mismatched DS can break valid resolution or keep pointing to attacker-controlled signing).
+
+6. **Escalate to the registrar’s security/abuse channel.**
+   - Use official registrar support and say: “Unauthorized DNS/name server changes; suspected domain hijack.”
+   - Ask them to:
+     - Apply the strongest available lock/hold for your domain.
+     - Confirm whether changes came from login, API token, or support-assisted action.
+     - Preserve and provide the change history/audit logs.
+   - If you suspect an unauthorized transfer, ask for the registrar’s **unauthorized transfer dispute** steps immediately.
+
+7. **Contain common entry points in parallel.**
+   - Secure the email accounts used for registrar/DNS recovery:
+     - Change password, enable MFA, remove unknown forwarding rules, check connected apps/app passwords.
+   - Secure DNS provider/CDN access (MFA, revoke tokens, review access).
+   - If you suspect an admin workstation compromise, stop using it for admin logins until it’s cleaned.
+
+8. **Reduce harm to customers while recovery is in progress.**
+   - Pause ads/email campaigns driving users to the domain until you verify resolution is correct.
+   - Tell staff not to log into admin panels via the domain until you confirm it resolves correctly (use known-good direct URLs only).
+   - If you control the correct hosting, temporarily serve a maintenance page and disable risky features until stable.
+
+9. **Report if appropriate (crime, loss, or broader risk).**
+   - For cybercrime/fraud (especially if money or customer harm is involved), file a report with the **FBI Internet Crime Complaint Center (IC3)**.
+   - You can also report/share incident details with **CISA** via its cyber incident reporting channels.
 
 ## What can wait
-- You do not need to decide whether to hire a private investigator or "hacker" to find the sender.
-- You do not need to notify your entire contact list unless you confirm a breach has occurred.
-- You do not need to replace your hardware immediately; software isolation and account security are the priorities.
+- You don’t need to decide today whether to switch DNS providers, migrate registrars, or redesign infrastructure.
+- You don’t need to fully optimize every DNS record right now — restore core website resolution safely first.
+- Deep forensics can wait until the domain is locked and changes have stopped.
 
 ## Important reassurance
-Extortion messages are intentionally crafted to cause immediate shame and urgency. These are often automated campaigns that use old data from unrelated third-party breaches to trick you into believing your local files have been copied. By not engaging, you stop the attacker’s primary method of control.
+DNS/registrar incidents feel instant because they are: one change can reroute a whole business. A steady sequence — lock control, restore known-good, then harden accounts — is usually the fastest way to stop the damage.
 
 ## Scope note
-This guide provides first-step stabilization for receiving a threat. If a confirmed data breach involving sensitive personal or corporate information has occurred, you may require specialized incident response services and legal counsel regarding data breach notification laws.
+This is first-step guidance for the first hours. If you suspect broader compromise (email takeover, server breach, customer data exposure), you may need professional incident response support.
 
 ## Important note
-This information is for educational purposes and does not constitute legal or professional cybersecurity advice. Reporting to IC3 and the FTC is essential for federal tracking of these criminal networks. If you are being threatened with physical harm or local stalking, contact 911 or your local law enforcement agency immediately.
+This guide is general information, not legal or professional security advice. If you can’t confidently restore a known-good configuration or you think the attacker still has access, prioritise containment (locks, MFA, access revocation) and work with your registrar/DNS provider security teams.
 
 ## Additional Resources
+- https://www.cisa.gov/resources-tools/resources/mitigate-dns-infrastructure-tampering
+- https://www.cisa.gov/reporting-cyber-incident
+- https://www.ic3.gov/
+- https://complaint.ic3.gov/
+- https://www.fbi.gov/investigate/cyber
 - https://www.icann.org/resources/pages/lost-domain-names
-- https://www.icann.org/en/blogs/details/documentation-is-key-to-recovering-hijacked-domain-names-14-4-2016-en
-- https://www.icann.org/en/blogs/details/do-you-have-a-domain-name-heres-what-you-need-to-know-26-3-2018-en
-- https://www.icann.org/en/blogs/details/what-you-should-learn-from-the-diigo-domain-hijacking-incident-2-11-2012-en
-- https://www.icann.org/en/ssac/registration-services/documents/sac-007-domain-name-hijacking-incidents-threats-risks-and-remediation-12-07-2005-en

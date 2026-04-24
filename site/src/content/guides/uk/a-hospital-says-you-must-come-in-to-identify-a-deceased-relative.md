@@ -1,102 +1,92 @@
----
+﻿---
 title: "What to do if… a hospital says you must come in to identify a deceased relative"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "hospital says identify body"
-  - "asked to identify deceased relative"
-  - "visual identification mortuary"
-  - "next of kin identification request"
-  - "bereavement office appointment"
-  - "hospital mortuary viewing"
-  - "coroner involvement uncertainty"
-  - "procurator fiscal identification"
-  - "medical examiner call after death"
-  - "sudden death in hospital"
-  - "body identification process uk"
-  - "what to bring to identify body"
-  - "distressed family identification"
-  - "unsure if mandatory to attend"
-  - "can someone else identify"
-  - "can i refuse to view body"
-  - "identification before post mortem"
-  - "hospital paperwork after death"
-  - "collecting belongings after death"
-  - "overwhelmed after bereavement"
-  - "what do i do if i have to identify a body"
-  - "what do i do if the hospital calls about a death"
-  - "help i have to go to the mortuary"
-  - "help i cannot identify the body"
-  - "my relative died in hospital identification"
-  - "my relative needs identifying at hospital"
-  - "viewing a deceased relative in hospital"
-  - "bereavement office procedure 2026"
-  - "medical examiner office uk"
-  - "hospital bereavement team contact"
-last_reviewed: "2026-03-16"
+  - hospital says identify body
+  - asked to identify deceased relative
+  - visual identification mortuary
+  - next of kin identification request
+  - bereavement office appointment
+  - hospital mortuary viewing
+  - coroner involvement uncertainty
+  - procurator fiscal identification
+  - medical examiner call after death
+  - sudden death in hospital
+  - body identification process uk
+  - what to bring to identify body
+  - distressed family identification
+  - unsure if mandatory to attend
+  - can someone else identify
+  - can i refuse to view body
+  - identification before post mortem
+  - hospital paperwork after death
+  - collecting belongings after death
+  - overwhelmed after bereavement
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… a hospital says you must come in to identify a deceased relative (UK)
 
 ## Short answer
-Confirm whether the request is coming from the Hospital Bereavement Office, the Medical Examiner’s Office, or the Coroner/Procurator Fiscal, and ask if visual identification is a legal requirement or an offer for a viewing. In many cases, identity is already established and you are not legally forced to view the body.
+Call back to confirm *exactly who* is requesting identification (hospital bereavement team, the Coroner’s office, Police, or the Procurator Fiscal in Scotland) and ask whether identity can be confirmed **without you viewing the body** (sometimes it can, depending on the case).
 
 ## Do not do these things
-- Don't travel to the hospital immediately without a scheduled appointment or a clear understanding of where you are meeting.
-- Don't go alone if you feel overwhelmed; hospitals allow you to bring a support person or can sometimes provide a staff escort.
-- Don't assume that "identifying" always means a visual viewing in a mortuary; it may simply mean verifying personal details with the Bereavement Office.
-- Don't feel obligated to be the person who attends if you are not the legal "next of kin" or "nearest relative" (Scotland); another family member can often perform this task.
-- Don't sign any forms regarding the cause of death or funeral arrangements until you have spoken with the Medical Examiner Officer (England/Wales).
+- Don’t go in alone if you’re in shock — take a calm support person, or ask staff if someone can accompany you.
+- Don’t assume you must view the body immediately or without explanation; you can ask what will happen and why.
+- Don’t agree to anything you don’t understand while upset (for example, statements or forms) — ask for a pause and a plain-language explanation.
+- Don’t feel you have to be the person who identifies them; if you’re not able, say so and ask what other options exist.
+- Don’t spread the news widely until you’ve confirmed who is leading the process and what the hospital/authorities have confirmed.
 
 ## What to do now
-1. **Clarify the nature of the "identification" request.**  
-   **Ask the caller: “Is this a legal requirement for the Coroner/Procurator Fiscal, or is this for the hospital’s own records?”**
-   - If identity is already known (e.g., they died on a ward with ID bands), a visual "identification" is rarely a legal necessity.
-   - If the identity is unknown or the death is "unnatural," the Coroner (England/Wales/NI) or Procurator Fiscal (Scotland) may require a formal statement of identification.
+1. **Verify the call and get the right team.**  
+   Call the hospital switchboard and ask for the **Bereavement Office/Bereavement Centre**. If you have concerns about communication or feel pressured, ask for **PALS (Patient Advice and Liaison Service)**.  
+   Get: the caller’s **name**, **role**, **direct number**, and any **reference/hospital number** they can share.
 
-2. **Contact the Medical Examiner’s Office (England and Wales).**  
-   **Ask to speak with the Medical Examiner Officer (MEO) to understand the status of the Medical Certificate of Cause of Death (MCCD).**  
-   - Since 2024, MEOs must review all non-coronial deaths and will call you to discuss the cause of death before you can register it.
-   - They can clarify if they have any concerns that require a formal identification process.
+2. **Clarify who is in charge of the request (this affects what’s required).**  
+   Ask one clear question: “Is this being handled by the **Coroner** (England/Wales/NI) or the **Procurator Fiscal** (Scotland), or is it purely the hospital?”  
+   Then ask: “What is the reason identification is needed *in this case*?”
 
-3. **Inquire about alternative identification methods.**  
-   **If you find a visual viewing too distressing, ask: “Can identity be confirmed via photographs, distinctive marks, or by another relative?”**  
-   - Authorities usually try to minimize distress and will only insist on a visual ID if forensic or legal standards require it.
+3. **Ask what “identify” means here, and whether you can avoid a visual viewing.**  
+   Say: “I’m not sure I can cope with viewing. Are there other ways you can confirm identity, or can another close relative do this?”  
+   If the Coroner/Police/Procurator Fiscal are involved, ask: “Who do you accept as the appropriate family contact/identifier in this situation?”
 
-4. **Arrange a controlled appointment time.**  
-   **Do not just "turn up"; ensure you have a specific time and location (usually the Bereavement Office or a dedicated viewing room).**  
-   - Ask for the direct name and phone number of the person you will be meeting.
-   - Confirm which hospital entrance or wing is closest to the Bereavement Office to avoid walking through busy public areas.
+4. **If you do need to attend, request a controlled appointment with boundaries.**  
+   Ask:
+   - where you will go (bereavement office vs mortuary),
+   - whether you will be asked to sign anything,
+   - how long it typically takes,
+   - whether you can bring a support person,
+   - and whether someone can brief you (privately) about what you may see **before** you decide to proceed.
 
-5. **Request a briefing before any viewing.**  
-   **If you decide to proceed with a visual identification, ask a staff member to describe exactly what the environment looks like and what you will see.**  
-   - This "pre-brief" helps reduce the shock of the clinical or mortuary setting.
+5. **Make it safer for you to travel and cope.**  
+   - If you’re too distressed to travel safely, say so and ask for a later time or an alternative person/method.  
+   - Eat or drink something small, take water/tissues, and charge your phone.
 
-6. **Identify the "Nearest Relative" (Scotland-specific).**  
-   **Confirm who is legally recognized as the person with the right to make these decisions.**  
-   - In Scotland, the Procurator Fiscal’s office may appoint a Family Liaison Officer (FLO) if the death is being investigated.
+6. **Ask for support on-site.**  
+   Request a quiet room, chaplaincy/spiritual care (any faith or none), and/or a staff escort between locations if you’re unsteady.
 
-7. **Ensure your own safety for travel.**  
-   **Check that you have a way to get home afterward if you are too distressed to drive.**  
-   - Carry water, a phone charger, and the contact details of a friend who can meet you.
+7. **Write down what you’re told in simple bullet points.**  
+   Note: who said it, what they need from you, and the next agreed step/time. This reduces confusion later.
 
 ## What can wait
-- You do **not** need to have chosen a funeral director before visiting the hospital.
-- You do **not** need to register the death immediately; in England/Wales, this must wait until the Medical Examiner has finalized their review.
-- You do **not** need to clear the deceased’s hospital room or collect all belongings in the same visit if it is too much to handle.
-- You do **not** need to decide on a burial vs. cremation during this specific call.
+- You do **not** need to decide today about funerals, probate, or closing accounts just because you’ve been asked about identification.
+- You do **not** need to contact every organisation immediately; processes like registering the death (and services like Tell Us Once where available) generally come later and depend on paperwork being completed.
+- You do **not** need to respond to extended family/friends right now beyond: “I’ll update you when I can.”
 
 ## Important reassurance
-It is entirely normal to feel a sense of dread, physical coldness, or a "foggy" brain when asked to attend a hospital for this reason. These are standard shock responses. The hospital bereavement staff are trained to support people in exactly this state; you are not expected to be "composed" or "efficient" right now.
+Being asked to identify someone can feel brutal and unreal. Many people feel numb, panicky, or unable to think straight — that is a normal response. You’re allowed to ask for time, explanations, and the least harmful option for you while still meeting any requirements.
 
 ## Scope note
-This guide covers the immediate response to a request for identification. It does not cover the long-term probate process, full inquest procedures, or funeral planning.
+These are first steps for the immediate request and the next safe hour or two. Later steps (registration, coroner/procurator fiscal processes, funeral arrangements, documents) can be handled after you’ve had rest and clearer information.
 
 ## Important note
-Procedures for death certification and identification changed significantly in England and Wales in 2024. Always follow the specific instructions provided by the Medical Examiner’s Office or the Coroner’s Office, as they hold legal authority over the body during investigations.
+This is general information, not legal advice or medical advice. Processes vary across the UK and depending on whether a Coroner/Procurator Fiscal (and sometimes Police) is involved. The team handling the case can tell you what identification methods are acceptable and what is required in your situation.
 
 ## Additional Resources
 - https://www.gov.uk/after-a-death
-- https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once
-- https://www.nhs.uk/tests-and-treatments/post-mortem/
-- https://www.nbt.nhs.uk/patients-carers/visitors/bereavement-service/an-information-guide-what-do-after-someone-has-died-hospital
-- https://www.stgeorges.nhs.uk/wp-content/uploads/2013/06/A-Practical-Guide-for-When-Someone-Dies-In-Hospital-Bereavement-Booklet.pdf
+- https://www.citizensadvice.org.uk/family/death-and-wills/what-to-do-after-a-death/
+- https://www.england.nhs.uk/patient-safety/medical-examiners/
+- https://www.judiciary.uk/guidance-and-resources/interested-persons/
+- https://www.royalfree.nhs.uk/services/bereavement-medical-examiner-mortuary-services
+- https://www.copfs.gov.uk/services/bereavement-support/guide-for-bereaved-family-members/

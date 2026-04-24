@@ -1,97 +1,79 @@
----
+﻿---
 title: "What to do if… someone threatens to make false sexual allegations about you unless you comply with their demands"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "false sexual allegation threat"
-  - "blackmail over sexual allegations"
-  - "threatened false accusation"
-  - "comply with sexual demands"
-  - "coercion over sexual allegation"
-  - "extortion with false accusation"
-  - "sexual accusation blackmail"
-  - "false report threat"
-  - "threatened to lie about sex"
-  - "demand or false allegation"
-  - "partner threatening sexual accusation"
-  - "ex threatening sexual allegation"
-  - "online threat of sexual allegation"
-  - "being forced to comply sexual"
-  - "sexual accusation if i refuse"
-  - "help i am being blackmailed"
-  - "what do i do if someone threatens me"
-  - "my ex is threatening a false report"
-  - "help i am being coerced"
-  - "what do i do if i am blackmailed online"
-  - "threat of false sexual assault report"
-  - "demand for money or false accusation"
-  - "threatening to tell police i raped them"
-  - "threat of false sexual harassment claim"
-  - "demand for sexual photos under threat"
-  - "threatening to ruin my reputation"
-  - "unwarranted demand with menaces"
-  - "section 21 theft act threat"
-  - "threatened with fake sexual claims"
-  - "forced to send photos threat"
-last_reviewed: "2026-03-17"
+  - false sexual allegation threat
+  - blackmail over allegations
+  - threatened false accusation
+  - comply with demands
+  - coercion over allegation
+  - extortion with accusation
+  - sexual accusation blackmail
+  - false report threat
+  - threatened to lie
+  - demand or allegation
+  - partner threatening accusation
+  - ex threatening allegation
+  - online threat allegation
+  - being forced to comply
+  - accusation if i refuse
+last_reviewed: "2026-03-13"
 ---
-# What to do if… someone threatens to make false sexual allegations about you unless you comply with their demands (UK)
 
+# What to do if… someone threatens to make false sexual allegations about you unless you comply with their demands (UK)
 ## Short answer
-Treat this as a criminal threat of blackmail, not a situation you should resolve by obeying the demands. Prioritize your physical safety, cease negotiation immediately if it is safe to do so, and preserve all original communications exactly as they were received.
+
+Treat this as a threat and a pressure tactic, not something you need to solve by obeying. Put your safety first, stop negotiating if you safely can, and keep the messages exactly as they are.
 
 ## Do not do these things
-- Do not send money, sexual images, passwords, or account access in an attempt to make the threat stop.
-- Do not delete messages, call logs, voicemails, emails, or social media interactions.
-- Do not engage in arguments about the truth or falsity of the potential allegation.
-- Do not meet the person alone to "sort it out" or negotiate.
-- Do not retaliate with your own threats or post details of the situation on public social media.
-- Do not alter or edit screenshots before saving them.
-- Do not provide a detailed defensive statement to any authority (police, employer, university) before you have stabilized the situation and reviewed your evidence.
+
+- Do not send money, sexual images, passwords, access to accounts, or a rushed apology just to make the threat stop.
+- Do not delete messages, voicemails, call logs, emails, or social media chats.
+- Do not meet them alone to “sort it out”.
+- Do not retaliate, threaten back, or post about them publicly.
+- Do not alter screenshots or tidy your phone first.
+- Do not give a long defensive explanation to police, work, university, or anyone else before you have had a moment to steady yourself and preserve what you have.
 
 ## What to do now
-1. **Reach a safer pause where you can think clearly.** If you believe you are in immediate physical danger, call 999.
-   - If you are on a mobile and cannot speak, use the "Silent Solution": dial 999 and, when prompted by the automated system, press 55 to be put through to the police.
 
-2. **Preserve every piece of evidence immediately.** Take screenshots that clearly show the sender's username, phone number, the date and time, and the specific demands being made.
-   - Save copies of voicemails and emails.
-   - Record profile URLs or account handles of the person making the threat.
-   - Store these files in a secure location (such as a password-protected cloud drive) that the other person cannot access.
+1. Get to a safer pause. If you feel at risk of immediate harm, call 999. If you cannot speak on a mobile, use the silent 999 process if you are able.
 
-3. **Cease all bargaining and communication if it is safe to do so.** Do not explain yourself or try to convince them not to proceed. 
-   - If you must send a final message for safety reasons, keep it neutral and brief (e.g., "I cannot talk right now").
-   - Lock or deactivate your social media accounts rather than deleting them, as deactivation preserves the data for police if needed.
+2. Preserve what is happening. Take screenshots showing dates, times, usernames, phone numbers, and the full demand. Save voicemails and emails. Keep profile links, payment requests, and account names. Back this up somewhere the other person cannot access.
 
-4. **Inform one trusted person about the situation.** Provide them with a copy of the evidence and ask them to remain available in case the individual attempts to contact your family, workplace, or university.
+3. Stop bargaining if you safely can. Do not argue about whether an allegation is true or false. Do not agree to demands. If you need to send one message for immediate safety, keep it short and practical.
 
-5. **Report the threat as blackmail to the authorities.** This is a serious offence under Section 21 of the Theft Act 1968.
-   - Use the 101 non-emergency number or your local police force’s online reporting tool.
-   - If the threat is purely online and involves a demand for money or assets, report it via the "Report Fraud" service (formerly Action Fraud) at reportfraud.police.uk or by calling 0300 123 2040.
+4. Tell one trusted person now. Ask them to keep a copy of the messages and to stay available in case the person contacts your workplace, university, family, or the police.
 
-6. **Contact specialist support if the threat involves sexual images.** If the person is threatening to share intimate images (image-based sexual abuse), contact the Revenge Porn Helpline at 0345 6000 459 (Monday–Friday, 10am–4pm) for help with takedowns and legal options.
+5. Report it if there is a demand, ongoing harassment, stalking, or pressure to do something against your will. Use 101 or your local police force’s non-emergency reporting route. If it is happening now or you are in immediate danger, use 999. If it is mainly online or cyber-enabled, the national fraud and cybercrime reporting route may also be relevant.
 
-7. **Prepare a brief holding statement if contacted by an institution.** If your employer, university, or the police contact you regarding a report, state clearly: "I am aware of a campaign of threats and blackmail against me, I am currently preserving evidence, and I require a short period to seek advice before providing a full statement."
+6. If the threat is tied to sexual images or videos, report the account on the platform and keep the report confirmation. For online harassment or intimate image abuse, there are UK support services that can help with takedowns, account safety, and understanding your options.
 
-8. **Access independent advocacy if this involves a domestic or sexual context.** If the threat comes from a partner, ex-partner, or family member, contact a domestic abuse service or an Independent Sexual Violence Adviser (ISVA). You can access these via a Sexual Assault Referral Centre (SARC) or Victim Support (08 08 16 89 111).
+7. If police, your employer, university, regulator, or another institution contacts you about an allegation, keep your first response short: say you are aware of threatening behaviour, you are preserving evidence, and you need a short opportunity to get advice before making a detailed statement.
+
+8. If this is connected to a partner, ex-partner, family member, sexual coercion, or the sexual nature of the threat is overwhelming, contact a domestic abuse service or, where relevant, a sexual assault referral centre for immediate support. You do not have to decide today whether to make any wider report.
 
 ## What can wait
-- You do not need to prove your innocence or "clear your name" in the next few hours.
-- You do not need to decide whether to press charges or pursue a full criminal case today.
-- You do not need to create a comprehensive timeline of your entire relationship with this person right now.
-- You do not need to respond to every third-party question or rumor immediately.
+
+You do not need to decide today whether to make a full complaint, confront them, explain everything to everyone, or work out how this ends. You also do not need to build a perfect timeline right now. First preserve what exists, reduce pressure, and get support around you.
 
 ## Important reassurance
-Threats of false allegations are designed to trigger intense shame, panic, and a "fight or flight" response. Feeling frozen or terrified of being disbelieved is a normal reaction to high-pressure coercion. Preserving evidence and stopping communication are proactive steps that help protect your position, regardless of how you feel right now.
+
+Threats like this are often designed to create panic, shame, and rushed compliance. Feeling shocked, frozen, or afraid of not being believed does not mean you have done anything wrong. Slowing the situation down is a sensible first move.
 
 ## Scope note
-This guide provides first-step stabilization and harm reduction for those facing threats of false allegations and blackmail. It does not constitute legal advice. Later stages of this process, including formal police statements or disciplinary hearings, will require professional legal or specialist advocacy.
+
+This is first steps only. Later decisions about reporting, workplace or university processes, and legal advice may need specialist help.
 
 ## Important note
-This information is provided for general guidance only. Legal definitions and police procedures may vary between England/Wales, Scotland, and Northern Ireland. If you are facing ongoing harassment, stalking, or threats of violence, your immediate physical safety is the priority.
+
+This is general information, not legal advice or a judgment about what has happened. Exact options can differ depending on whether the threat is from a partner or ex-partner, whether it is online, and whether sexual images, stalking, or immediate safety risks are involved.
 
 ## Additional Resources
-- https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/
-- https://www.victimsupport.org.uk/crime-info/types-crime/sextortion/
-- https://www.cps.gov.uk/prosecution-guidance/communications-offences
 - https://www.cps.gov.uk/prosecution-guidance/theft-act-offences
-- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
+- https://www.gov.uk/guidance/domestic-abuse-how-to-get-help
+- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.nhs.uk/live-well/getting-help-for-domestic-violence/
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://enough.campaign.gov.uk/reporting-abuse/other-reporting-options

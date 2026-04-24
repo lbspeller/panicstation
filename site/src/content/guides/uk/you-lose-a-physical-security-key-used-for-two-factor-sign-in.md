@@ -1,99 +1,89 @@
----
+﻿---
 title: "What to do if… you lose a physical security key used for two-factor sign-in"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "lost security key"
-  - "lost yubikey"
-  - "lost titan key"
-  - "lost fido2 key"
-  - "lost u2f key"
-  - "what do i do if i lost my yubikey"
-  - "what do i do if my security key is missing"
-  - "what do i do if i lost my google titan key"
-  - "what do i do if my fido2 key is stolen"
-  - "help i lost my 2fa hardware key"
-  - "help i cannot find my security key"
-  - "help i am locked out of my account"
-  - "help i lost my work security key"
-  - "missing hardware token"
-  - "broken security key"
-  - "stolen yubikey"
-  - "security key pin blocked"
-  - "account recovery without security key"
-  - "remove lost key from google account"
-  - "remove lost key from microsoft account"
-  - "lost physical 2fa device"
-  - "fido2 credential removal"
-  - "unauthorized login risk"
-  - "lost security key in public"
-  - "lost security key at home"
-  - "hardware security key lost"
-  - "lost 2fa key"
-  - "security key missing"
-  - "lost security key help"
-  - "physical security key missing"
-last_reviewed: "2026-03-17"
+  - lost security key
+  - lost yubikey
+  - lost titan key
+  - lost fido2 key
+  - lost u2f key
+  - hardware 2fa key missing
+  - security key stolen
+  - misplaced security key
+  - cannot log in without key
+  - locked out of account
+  - two factor key lost
+  - passkey on security key
+  - passwordless key login
+  - work account security key lost
+  - google security key lost
+  - microsoft security key lost
+  - remove security key from account
+  - recovery codes missing
+  - second factor device lost
+  - security key revoked
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you lose a physical security key used for two-factor sign-in (UK)
 
 ## Short answer
-Use an alternative sign-in method (such as an authenticator app or backup codes) to access your accounts and immediately delete the missing key from your security settings; if it is a work key, notify your IT department to revoke the credential.
+Assume the key could be found by someone else: use another sign-in method to remove the missing key from every account it protects, and tell your workplace IT/helpdesk immediately if it’s a work key.
 
 ## Do not do these things
-- Don't delay the removal of the key from your accounts while searching for it if it was lost in a public space.
-- Don't disable multi-factor authentication (MFA) entirely; remove the lost key while keeping other secondary methods active.
-- Don't attempt multiple failed login attempts if you are locked out, as this may trigger a security lockdown.
-- Don't share recovery codes or account security screenshots with anyone claiming to be "support" who contacted you first.
-- Don't purchase replacement keys from unverified third-party sellers or used-market platforms.
+- Don’t “wait to see if it turns up” before removing it from your accounts if there’s any chance it was lost in public.
+- Don’t turn off multi-factor security entirely as the immediate fix; remove the lost key and keep another second step active.
+- Don’t keep trying random logins if you’re locked out (you can trigger temporary lockouts that make recovery harder).
+- Don’t share recovery codes, backup codes, or screenshots of account security pages with anyone (including “support” messages that contact you first).
+- Don’t buy/register a replacement key from an unknown seller because you feel rushed.
 
 ## What to do now
-1. **Identify if the key is "likely found" or "lost in public."**
-   Treat any key missing outside of a known secure environment (home or locked office) as compromised, even if a FIDO2 PIN is enabled.
+1. **Pause and classify the loss: “probably at home” vs “lost in public.”**  
+   If there’s any realistic chance it’s in a taxi, café, office, train, or anywhere accessible to others, treat it as **lost in public**.
 
-2. **Access your primary accounts using a backup verification method.**
-   Sign in using one of your other registered methods in this order of priority:
-   - A backup physical security key.
-   - A registered authenticator app (e.g., Microsoft Authenticator, Google Authenticator).
-   - A set of one-time recovery codes (printed or saved offline).
-   - SMS or voice verification (only if no other method is available).
+2. **Write a 60-second list of the accounts that key could unlock.**  
+   Start with: your **primary email**, your **password manager**, any **work/school single sign-on**, **banking/finance**, **cloud storage**, and any account you use to reset others.
 
-3. **Delete the missing security key from your account's security settings.**
-   Navigate to the "Security," "Two-Step Verification," or "Passkeys" section of each service and **remove the specific entry** for the lost key.
+3. **Get into your most critical account first (usually email) using another second step.**  
+   Use what you already have (backup key, authenticator app, SMS/voice where enabled, recovery codes, or another registered passkey).  
+   *A security key usually isn’t enough by itself without your password or device unlock — but if you set up passwordless/passkeys on that key for any service, treat this as higher risk and move fast.*
 
-4. **Revoke "trusted devices" and sign out of active sessions.**
-   Select the option to **"Sign out of all other sessions"** or "Revoke trusted status" for all devices; this ensures that the lost key cannot be bypassed by anyone accessing an already-logged-in browser.
+4. **Remove the missing security key from that account’s security settings immediately.**  
+   Look for “Security key / Passkeys / Two-step verification / Security” and **delete/remove** the specific key entry.
 
-5. **Change your account password if the key was lost with your login credentials.**
-   If the key was lost alongside a written password, a laptop, or an unlocked phone, **update your password immediately** after removing the key.
+5. **Sign out other sessions and change the password for the account you just secured (starting with email).**  
+   Use “Sign out of all devices / Log out other sessions” (wording varies), then change the password — especially if the key was lost with anything that could reveal your password or unlock your devices.
 
-6. **Report lost work or school keys to your IT helpdesk immediately.**
-   Contact your organisation’s official support channel and state: **"I have lost a physical FIDO2 security key."** 
-   - Request the administrator to revoke the specific key credential in the management console (e.g., Microsoft Entra ID or Google Workspace).
-   - Follow the organisation's 2026 NCSC-aligned protocol for credential replacement.
+6. **Repeat: remove the missing key from every account on your list (highest impact first).**  
+   Don’t aim for perfection — your goal is to make the lost key stop working everywhere it was registered.
 
-7. **Initiate official account recovery if you are completely locked out.**
-   Use the "Try another way" or "Account Recovery" link on the login page.
-   - Note that Google and Microsoft may impose a **3 to 5-day security delay** before granting access if you lack a backup MFA method.
+7. **If this is a work or school account, contact your IT/helpdesk now and say: “lost security key used for 2FA.”**  
+   Ask them to **revoke/remove the security key (FIDO2) credential**, check for suspicious sign-ins, and issue the organisation’s approved replacement process.  
+   Use your organisation’s **known** support route (intranet/portal/switchboard) — not phone numbers sent in messages.
+
+8. **If you cannot sign in at all, use the provider’s official account-recovery flow.**  
+   Use “Try another way” / “Can’t use your security key?” / “Account recovery” for that service. Prioritise regaining access to your primary email account first.
 
 ## What can wait
-- Purchasing and registering a replacement key (secure your accounts first).
-- Updating your entire security strategy or switching MFA providers.
-- Notifying service providers for low-risk accounts that do not contain personal or financial data.
-- Performing a full security audit of your secondary accounts.
+- Buying a replacement key (do it after you’ve removed the missing one from your accounts).
+- Deciding whether to change your whole security setup or provider.
+- A full audit of every account you own (do the critical ones now; the rest can follow later).
+- Cleaning up and “optimising” your security settings (stabilise first).
 
 ## Important reassurance
-A physical security key is extremely difficult for a stranger to use without your specific account password or the key's local PIN. By removing the key from your account settings, you effectively "de-authorise" the hardware, making it useless to anyone who finds it.
+Losing a security key is common, and quick action usually prevents harm. The stabilising move is straightforward: remove the missing key from your accounts and keep another second factor active until you register a replacement.
 
 ## Scope note
-This guide provides first-step stabilization for individual and organisational account security. It does not cover deep forensic analysis or hardware-level encryption recovery.
+This is first-steps guidance to reduce immediate risk and get you back into your accounts. Later decisions may benefit from provider support or your organisation’s IT team.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT or legal advice. Recovery procedures are subject to the terms and security policies of individual service providers (e.g., Google, Microsoft, Apple) and your specific employer’s IT policies.
+This is general information, not legal, financial, or professional IT advice. Account interfaces and recovery rules vary by provider and organisation, so follow the official recovery and security steps for each service and use your workplace’s approved IT process.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
-- https://support.google.com/accounts/answer/9153624?hl=en
-- https://support.google.com/accounts/answer/185834?hl=en
-- https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/recovering-your-account-if-you-lose-your-2fa-credentials
+- https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv
+- https://support.google.com/accounts/answer/9153624?hl=en-GB
+- https://support.google.com/titansecuritykey/answer/9115656?hl=en-GB
+- https://support.microsoft.com/en-gb/account-billing/removing-a-sign-in-verification-method-4099aa36-bb4e-429e-a0d7-9e05617084f1
+- https://support.microsoft.com/en-us/account-billing/set-up-a-security-key-as-your-verification-method-2911cacd-efa5-4593-ae22-e09ae14c6698

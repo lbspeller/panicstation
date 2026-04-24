@@ -1,89 +1,83 @@
----
+﻿---
 title: "What to do if… you realise your electronic travel authorisation is linked to an old passport and you are travelling soon"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "eta linked to old passport"
-  - "uk travel authorisation old passport"
-  - "electronic travel authorisation wrong passport"
-  - "passport renewed travelling soon"
-  - "passport number changed travel"
-  - "authorisation linked to expired passport"
-  - "travel permission mismatch uk"
-  - "airline check-in document mismatch"
-  - "advance passenger info wrong passport"
-  - "denied boarding authorisation issue"
-  - "transit rules travel authorisation"
-  - "forgot to update travel authorisation"
-  - "new passport old authorisation uk"
-  - "travel documents panic"
-  - "official eta checker uk"
-  - "official eta application portal"
-  - "third party eta website scam"
-  - "authorisation approval pending uk"
-  - "what do i do if my eta is on my old passport"
-  - "what do i do if i got a new passport before travel"
-  - "what do i do if my passport number changed"
-  - "help i have the wrong passport on my eta"
-  - "help i updated my passport but not my travel permission"
-  - "my eta is linked to my old document"
-  - "my passport was renewed after eta approval"
-  - "denied boarding uk eta"
-  - "no permission no travel policy"
-  - "check my eta status"
-  - "ukvi eta reference number"
-  - "digital travel permission mismatch"
-last_reviewed: "2026-03-17"
+  - eta linked to old passport
+  - travel authorisation old passport
+  - electronic authorisation wrong passport
+  - passport renewed travelling soon
+  - passport number changed travel
+  - authorisation linked to passport
+  - travel permission mismatch
+  - airline check in document mismatch
+  - advance passenger info wrong passport
+  - denied boarding authorisation issue
+  - transit rules travel authorisation
+  - forgot to update travel authorisation
+  - new passport old authorisation
+  - travel documents panic
+  - official eta checker
+  - official application portal
+  - third party eta website
+  - authorisation approval pending
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you realise your electronic travel authorisation is linked to an old passport and you are travelling soon (UK)
 
 ## Short answer
-You must apply for a new Electronic Travel Authorisation (ETA) immediately using your current passport details. An ETA is electronically linked to a specific passport number; if that number has changed due to renewal or replacement, the existing authorisation is invalid for travel.
+Act now: if the authorisation is tied to a different passport number than the passport you’ll actually travel on, you may need to apply again. First, confirm what passport it’s linked to in the official checker (where available), then submit the correct application through the official government route.
 
 ## Do not do these things
-- Do not attempt to travel using an ETA linked to a different passport number than the one you are carrying.
-- Do not enter old passport details into airline Advance Passenger Information (API) systems to force a "match."
-- Do not use unofficial third-party websites promising "instant" or "guaranteed" approval.
-- Do not wait until you arrive at the airport to address the mismatch; carriers are legally required to deny boarding without a valid digital link.
-- Do not rely on printed confirmation of an old ETA if the passport number does not match your current document.
+- Do not assume it will work “because it’s still valid” if it was issued against a different passport number.
+- Do not enter your old passport details into airline check-in to “match” the authorisation.
+- Do not use sponsored/look-alike “fast approval” sites — use only the official government site/app for the country you’re entering.
+- Do not cancel the whole trip until you’ve checked whether the official system allows an update or requires a new application.
+- Do not rely on a screenshot alone at the airport; airlines typically check permission electronically against the passport you present.
 
 ## What to do now
-1. **Confirm the passport number on your current travel document.**
-   Open your current passport to the photo page and note the exact passport number, including any prefix or suffix letters.
-2. **Access the official UK ETA application route immediately.**
-   Apply through the official "UK ETA" app (available on Google Play or the Apple App Store) or the GOV.UK website.
-   - The fee is £16 (increasing to £20 on 8 April 2026).
-   - Most decisions are issued within minutes, but it can take up to 3 working days.
-3. **Submit a completely new application for the current passport.**
-   Do not look for an "update" button for passport numbers; the UK system requires a fresh application for every new passport.
-   - Ensure the name spelling, date of birth, and passport number are identical to your physical document.
-4. **Update your airline booking with the new passport details.**
-   Log in to your airline’s "Manage My Booking" or "Check-in" section and update the Advance Passenger Information (API).
-   - The passport number in the airline system must match the passport number on your new ETA.
-5. **Verify your status for transit countries.**
-   If you are connecting through a third country, check if they require a separate authorisation (like a US ESTA or Canadian eTA) and ensure those are also linked to your new passport.
-6. **Check exemptions if you are a dual British or Irish citizen.**
-   From 25 February 2026, dual citizens cannot use an ETA. You must present either:
-   - A valid British or Irish passport.
-   - A valid foreign passport containing a Certificate of Entitlement to the Right of Abode.
+1. **Identify the exact authorisation and which country it’s for.**  
+   Find the confirmation email/app and write down: the country, the scheme name, your reference number, and the passport number it was issued against (if shown).
+
+2. **Check the official status/checker and confirm the passport number on record.**  
+   - If it’s a **UK ETA**, use the official “Check your ETA” service.  
+   - If it’s for another country, use that country’s official status tool (if they provide one) or your official confirmation details.
+
+3. **If the authorisation is linked to your old passport number, treat it as not usable for your new passport unless the official system explicitly says you can update it.**  
+   Many schemes are passport-number specific. For the **UK ETA**, official guidance says it is linked to your passport and if your passport has expired or changed you need to apply for a new ETA.
+
+4. **Apply again (or submit the official change request) using the passport you will travel with.**  
+   Use only the official government site/app for the country you’re entering. Before you submit, re-check **passport number, name spelling, and date of birth** digit-by-digit/letter-by-letter.
+
+5. **Make your airline booking match the passport you will present.**  
+   Update “passport details” / “Advance Passenger Information” in your booking or airline profile to your **current** passport. Mismatches here can trigger check-in blocks even if you’ve fixed the authorisation.
+
+6. **Check transit points as well as the final destination.**  
+   If you connect through another country (even without leaving the airport), verify whether that route requires its own permission linked to your passport number.
+
+7. **Use UK-specific help to confirm entry document rules fast.**  
+   Check the UK government’s foreign travel advice “entry requirements” for your destination and any transit countries, then follow the destination’s official application path.
+
+8. **Create a simple proof bundle in case check-in systems lag.**  
+   Save the new application submission/approval email, reference number, and any official status page showing approval. (This won’t override electronic checks, but it helps troubleshooting at the airport.)
 
 ## What can wait
-- You do not need to cancel your entire trip until you have allowed 3 working days for the new application result.
-- You do not need to contact the Home Office for a refund on the old ETA; fees are generally non-refundable.
-- You do not need to update other non-travel IDs (like driving licenses) before this specific journey.
+- You do not need to decide today about compensation, complaints, or changing the wider itinerary.
+- You do not need to fix unrelated IDs or accounts — just align **authorisation + passport + airline booking**.
+- You do not need to tell everyone you’re travelling until the correct application/change request is submitted.
 
 ## Important reassurance
-Passport number mismatches are a common reason for boarding issues, but the digital system is designed for rapid re-application. Most travellers who identify this error more than 72 hours before departure can resolve it through the standard application process without missing their flight.
+This happens a lot after a passport renewal because the passport number changes and many digital permissions are tied to that number. Catching it before you travel is the key step that prevents a last-minute denied-boarding shock.
 
 ## Scope note
-This guide provides first-step stabilization for passport-ETA mismatches only. It does not cover complex immigration issues, visa applications for "visa nationals," or appeals for refused authorisations.
+These are first steps to stabilise the situation and reduce the risk of being refused at check-in. If you have complications (dual nationality, an existing visa in an old passport, prior refusals), deal with the immediate authorisation/passport mismatch first, then seek specialist help.
 
 ## Important note
-This information reflects UK border rules as of March 2026. Entry requirements are subject to change by the Home Office. Carriers have the final authority to deny boarding if digital permissions are not verified at check-in.
+This is general information, not legal advice. Requirements depend on your nationality, your route (including transit), and the destination country’s rules, and carriers may enforce document checks before boarding.
 
 ## Additional Resources
-- https://www.gov.uk/eta
-- https://www.gov.uk/eta/apply
 - https://www.gov.uk/check-eta
-- https://www.gov.uk/guidance/using-the-uk-eta-app
-- https://www.gov.uk/contact-ukvi-inside-outside-uk
+- https://www.gov.uk/eta/apply
+- https://www.gov.uk/foreign-travel-advice
+- https://homeofficemedia.blog.gov.uk/electronic-travel-authorisation-eta-factsheet-february-2026/

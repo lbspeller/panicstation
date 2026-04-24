@@ -1,86 +1,78 @@
----
+﻿---
 title: "What to do if… you hear repeated dripping inside a wall but cannot find any visible leak"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "dripping sound in wall"
-  - "hidden water leak"
-  - "leak but no visible water"
-  - "water running noise"
-  - "dripping behind plaster"
-  - "damp but cannot find source"
-  - "suspected pipe leak"
-  - "water leak inside wall"
-  - "mystery dripping noise"
-  - "leak from upstairs flat"
-  - "leak in ceiling void"
-  - "plumbing leak early signs"
-  - "what do i do if i hear water in my wall"
-  - "what do i do if my wall is dripping"
-  - "what do i do if i suspect a leak"
-  - "what do i do if no water is visible"
-  - "help i hear dripping in the wall"
-  - "help i have a mystery leak"
-  - "help i cannot find the stopcock"
-  - "help i have a high water bill"
-  - "stopcock turn off water"
-  - "water meter moving when taps off"
-  - "water running behind plasterboard"
-  - "ticking sound in wall"
-  - "noise of running water"
-  - "water ingress electrics"
-  - "landlord emergency repair"
-  - "home water shutoff"
-  - "internal stop tap"
-  - "leak detection help"
-last_reviewed: "2026-03-17"
+  - dripping sound in wall
+  - hidden water leak
+  - leak but no visible water
+  - water running noise
+  - dripping behind plaster
+  - damp but can’t find source
+  - suspected pipe leak
+  - water leak inside wall
+  - mystery dripping noise
+  - leak from upstairs flat
+  - leak in ceiling void
+  - plumbing leak early signs
+  - stopcock turn off water
+  - water meter still moving
+  - sudden higher water bill
+  - worried about electrics and water
+  - landlord emergency repair
+  - home water shutoff
+last_reviewed: "2026-03-04"
 ---
+
 # What to do if… you hear repeated dripping inside a wall but cannot find any visible leak (UK)
 
 ## Short answer
-**Turn off the water supply at the internal stopcock immediately** and isolate the electrical supply if the sound is near sockets, lights, or appliances.
+Treat it as a hidden leak until proved otherwise: **turn off your water at the inside stopcock now**, and keep clear of any area where water could reach electrics.
 
 ## Do not do these things
-- Do not keep running taps to "test" the sound, as this maintains pressure in the system.
-- Do not cut into walls, ceilings, or floorboards to investigate without professional guidance.
-- Do not ignore the sound simply because there is no visible damp or standing water.
-- Do not touch any electrical switches, sockets, or light fittings in the area of the noise.
-- Do not attempt to dismantle boxed-in pipework or plumbing fixtures.
+- Don’t keep “testing taps” for long periods — if it’s a pressurised leak, you can worsen damage fast.
+- Don’t cut into walls/ceilings or boxed-in pipework in a panic (you can hit electrics/pipes and make it worse).
+- Don’t ignore it because you can’t see water — hidden leaks can spread before staining appears.
+- Don’t touch or use sockets/switches near the suspect area if moisture might be present.
+- Don’t leave the property with the water still on if the dripping continues when nothing is running.
 
 ## What to do now
-1. **Isolate the electrical supply if the dripping is near wiring or fittings.** Locate your consumer unit (fuse box) and turn off the power to the affected circuits or the whole house if the exact path of the water is unknown.
-2. **Close the internal stopcock (stop tap) by turning it fully clockwise.** This is typically found under the kitchen sink, in a utility room, under the stairs, or where the main water pipe enters the property.
-   - If you are in a flat, the stopcock may be in a communal hallway or a dedicated utility cupboard.
-3. **Verify the water is off and drain the pipes.** Turn on the cold tap at the kitchen sink or the lowest point in the house until the water stops flowing.
-4. **Listen for the dripping sound to determine the source type.**
-   - If the dripping stops shortly after the water is turned off and the system is drained, the leak is likely on the pressurized supply pipework.
-   - If the dripping continues, it may be a waste pipe leak (drainage), a leak from a water tank, or water entering from a neighbouring property or the roof.
-5. **Check the water meter for movement if one is installed.** 
-   - Ensure all taps and water-using appliances are off.
-   - Note the meter reading, wait at least 30 minutes without using any water, and check if the dial or digits have moved.
-6. **Report the issue to the responsible party.**
-   - **Tenants:** Contact your landlord or letting agent immediately via their emergency or out-of-hours number to report an urgent repair.
-   - **Homeowners:** Call an emergency plumber and state that you have a "suspected internal hidden leak."
-   - **Flat Residents:** Notify the residents in the flat above you and the building manager, as the leak may be originating from another unit.
-7. **Protect your property from potential water damage.** Move furniture and valuables away from the area and place buckets or towels on the floor beneath the sound if moisture begins to emerge.
+1. **Get to a safer pause and reduce electrical risk.** If the sound is near sockets, light fittings, a boiler, or a consumer unit, keep people/pets away from that area and avoid switches.
+2. **Turn off the water at the inside stopcock (stop tap).** Often under the kitchen sink, in a utility area, bathroom/cylinder cupboard, or where the supply enters your home. Turn clockwise to close. If you’re in a flat, the stop valve may be communal or located where the supply enters the building.
+3. **Listen again after a few minutes.**
+   - If it *stops*, that often suggests a supply/pressurised leak feeding something in/behind the wall.
+   - If it *doesn’t stop*, it could be a waste/drain leak, a drip from a tank/cistern/overflow, a roof/loft issue, or water travelling from another flat.
+4. **If you have a water meter, do a short, controlled “all water off” check.**
+   - Make sure nothing is using water.
+   - If you can do so safely, briefly turn the stopcock **on** while you watch the meter indicator/dial for movement — then turn it **off** again.
+   - If the indicator moves when nothing is being used, treat it as an active leak and keep the stopcock off.
+5. **Limit spread and protect belongings (without opening walls).**
+   - Put towels/bowls where water might emerge (skirting, under radiators, near pipe boxing).
+   - Move valuables away from the suspect wall/floor line.
+   - If you notice bulging plasterboard, a sagging ceiling, or a damp patch growing, keep clear underneath.
+6. **Contact the right “responsible person” immediately.**
+   - **If you rent:** report it as an urgent repair to your landlord/agent using their emergency/out-of-hours route.
+   - **If you own/are responsible:** call an emergency plumber and describe it as a **suspected hidden leak** (and whether the meter suggested flow).
+   - **If you’re in a flat:** notify neighbours above/below and/or the building manager — leaks often travel between units.
+7. **If you suspect the leak may be on the supply pipe, contact your water company as well.** Responsibilities vary, but they can advise and may have specific support routes for supply-side leaks.
 
 ## What can wait
-- You do not need to identify the exact pipe or joint that is leaking.
-- You do not need to decide on permanent repairs or redecoration until the leak is fixed and the area is dry.
-- You do not need to contact your insurance provider in the first few minutes; focus on stopping the flow of water first.
+- You don’t need to decide today about redecorating, replacing plaster, or making an insurance claim — first stop/limit the leak and get it assessed.
+- You don’t need to trace pipe routes yourself; a plumber/leak specialist can do that.
+- You don’t need to run drying equipment yet unless there’s visible damp and it’s safe — the priority is stopping further water.
 
 ## Important reassurance
-Hearing a drip before water is visible is an effective early warning. By turning off the water and electrics now, you are taking the most significant steps to prevent structural damage and safety hazards. It is normal to feel uncertain when you cannot see the cause, but professional tools can locate these issues without unnecessary destruction.
+Hearing dripping with no visible leak is a common early warning sign. Acting quickly (water off, protect electrics, report promptly) is the safest approach even if it turns out to be minor.
 
 ## Scope note
-This guide provides first-step stabilization for a suspected hidden leak. Professional leak detection or plumbing services will be required to locate and repair the fault.
+This is first-step guidance to reduce damage and risk. Finding the source and making repairs may require a plumber (and sometimes a leak detection specialist), plus follow-up drying/repairs.
 
 ## Important note
-This information is for immediate stabilization and does not replace professional plumbing or electrical advice. If you see bulging ceilings, smell burning, or see sparks, evacuate the immediate area and seek professional emergency assistance.
+This is general information, not a diagnosis of your home or professional safety advice. If you suspect water is affecting electrics or the structure (sparking/buzzing, burning smell, sagging ceilings, cracking), prioritise personal safety and get professional help urgently.
 
 ## Additional Resources
-- https://www.watersafe.org.uk/advice/common_plumbing_questions1/leaks/how-to-find-water-leak-inside-wall/
+- https://www.thameswater.co.uk/help/water-and-waste-help/how-to-turn-your-water-on-and-off/how-to-find-and-use-your-inside-stop-valve
 - https://www.watersafe.org.uk/advice/general_plumbing_advice/winter_advice/locate-internal-stop-tap/
-- https://www.watersafe.org.uk/advice/general_plumbing_advice/turning_off_your_water/how_do_i_turn_the_water_off_to_carry_out_work_in_my_property/
-- https://www.ofwat.gov.uk/households/supply-and-standards/supply-pipes/
+- https://www.gov.uk/private-renting/repairs
 - https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/check-if-your-landlord-has-to-do-repairs/
+- https://www.ccw.org.uk/faq/what-can-i-do-if-i-suspect-there-is-a-leak-on-my-private-water-supply/

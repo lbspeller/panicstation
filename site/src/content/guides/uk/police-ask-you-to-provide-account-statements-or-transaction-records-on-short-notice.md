@@ -1,106 +1,90 @@
----
+﻿---
 title: "What to do if… police ask you to provide account statements or transaction records on short notice"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "police ask for bank statements"
-  - "short notice records request"
-  - "asked for transaction history"
-  - "voluntary request from police"
-  - "do i have to comply"
-  - "production order paperwork check"
-  - "pace schedule 1 production order"
-  - "proceeds of crime act order"
-  - "officer wants banking screenshots"
-  - "asked to email statements today"
-  - "asked to sign consent form"
-  - "request for crypto exchange records"
-  - "request for paypal transactions"
-  - "request for app payment history"
-  - "what do i do if police want bank records"
-  - "what do i do if police ask for statements"
-  - "what do i do if i get a production order"
-  - "what do i do if officer wants screenshots"
-  - "help i have a police deadline for records"
-  - "help i am asked for bank logins"
-  - "help i received a court order for accounts"
-  - "help i have to provide transactions"
-  - "smell of burning plastic"
-  - "visible bank account alerts"
-  - "police phone call about money"
-  - "notice of application for production order"
-  - "bank statment"
-  - "transatcion record"
-  - "at home"
-  - "in business office"
-  - "during interview"
-  - "bank statements"
-  - "transaction records"
-  - "short notice"
-  - "police request"
-  - "account statements"
-  - "financial records"
-  - "disclosure order"
-  - "account monitoring order"
-last_reviewed: "2026-03-17"
+  - police ask for bank statements
+  - short notice records request
+  - asked for transaction history
+  - voluntary request from police
+  - do i have to comply
+  - production order paperwork check
+  - pace schedule 1 production order
+  - proceeds of crime act order
+  - officer wants banking screenshots
+  - asked to email statements today
+  - asked to sign consent form
+  - request for crypto exchange records
+  - request for paypal transactions
+  - request for app payment history
+  - worried about missing deadline
+  - what if police call me
+  - providing records too broadly
+  - asked for login or passwords
+  - unclear date range request
+  - financial investigation contact
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… police ask you to provide account statements or transaction records on short notice (UK)
 
 ## Short answer
-Pause and request the specific details of the request in writing to determine if it is voluntary or a formal court order. Do not provide any records or logins until you have obtained specialist legal advice from a criminal defence solicitor.
+Pause and get the request in writing, then get legal advice before you provide anything voluntary. If you’ve been formally served with a court order (for example, a production order), don’t ignore it—get a solicitor immediately and respond in a controlled, minimal way.
 
 ## Do not do these things
-- Don't provide online-banking logins, passwords, or one-time passcodes (OTP).
-- Don't hand over your mobile phone or laptop for "checking" without a solicitor's presence.
-- Don't delete, archive, or alter any transaction records, emails, or messages.
-- Don't sign any "consent to search" or "voluntary disclosure" forms on the spot.
-- Don't discuss the details of the request or the underlying investigation with anyone other than a solicitor, as this may constitute "tipping off" under the Proceeds of Crime Act.
-- Don't send screenshots or informal exports unless specifically instructed by your legal representative.
+- Don’t give your online-banking login, passcodes, or one-time codes, or let anyone “log in to check”.
+- Don’t hand over your phone/laptop “just for a minute” unless your solicitor advises it.
+- Don’t send screenshots or a full export “of everything” if the request is vague or broad.
+- Don’t alter, delete, or “tidy up” transactions, messages, receipts, or accounts.
+- Don’t rush into explanations or timelines while you’re scrambling for documents.
+- Don’t contact other involved parties to discuss the facts of the matter (do contact a solicitor, and a trusted support person if you need practical help).
 
 ## What to do now
-1. **Establish the legal basis of the request immediately.** Ask the officer:
-   - "Is this a voluntary request for assistance or am I being served with a Production Order?"
-   - "Which legislation is being used, such as PACE Schedule 1 or Section 345 of the Proceeds of Crime Act (POCA)?"
-2. **Obtain the officer's full contact information and an official reference.** Record:
-   - The officer’s name, warrant number, and station.
-   - The crime reference number or investigation name.
-   - An official police email address for correspondence.
-3. **Request a written list of the exact requirements.** Do not agree to broad verbal requests; insist on:
-   - The specific account numbers or names.
-   - The precise date range required.
-   - The specific types of records (e.g., monthly statements, CSV exports, or specific transfer receipts).
-4. **State that you are seeking legal advice before proceeding.** Use this response:
-   - "I am not refusing to cooperate, but I need to consult with a solicitor before I provide any financial records or sign any disclosure documents."
-5. **Contact a criminal defence solicitor or the duty solicitor if you are at a police station.**
-   - If you are being interviewed or under arrest, request the duty solicitor immediately.
-   - If you are at home or work, call a firm specializing in white-collar or financial crime.
-6. **Check for a court-stamped Production Order if paperwork is provided.**
-   - **Look for a court seal or a judge’s name on the document.**
-   - **Identify the compliance deadline, which is typically 7 days from the date of service.**
-   - **Scan or photograph every page of the order to send to your solicitor.**
-7. **Isolate the requested records without modifying them.**
-   - Identify where the statements are (digital or paper) but do not open, download, or move them until your solicitor provides a secure method for disclosure.
-8. **Decline to provide "on-the-spot" explanations for transactions.**
-   - If asked about specific transfers or sources of funds, state: "I will provide any necessary explanations through my solicitor once I have reviewed the records."
+1. **Work out whether this is voluntary or an order you’ve been served with.** Ask, calmly:
+   - “Is this a voluntary request, or have I been served with an order?”
+   - “Is it a production order under the Proceeds of Crime Act, or under PACE Schedule 1, or something else?”
+   - “What is the deadline, and where is it written?”
+2. **Insist on the details in writing before you share anything voluntarily.** Ask for:
+   - the officer’s name/number, unit, reference/crime number
+   - an email from an official address (or a letter)
+   - the **exact** accounts, date range, and record types requested (statements, transaction list/CSV, deposit images, etc.)
+3. **Say you need legal advice first (this is your stabilising sentence).**
+   - “I’m not refusing, but I need to speak to a solicitor before I provide any financial records voluntarily.”
+4. **If you are under arrest, asked to attend interview, or you’re at a police station: ask for legal advice immediately.**
+   - Ask for the **duty solicitor** (free independent legal advice) and do not discuss the substance of the case while you’re arranging documents.
+5. **If you have been served with paperwork that looks like a court order: treat it as urgent.**
+   - Photograph/scan the entire document (every page).
+   - Note the time/date you received it and any response deadline.
+   - Contact a criminal solicitor **now** and show them the paperwork before producing anything.
+   - If time is extremely tight, ask your solicitor about requesting clarification/narrowing, or an extension.
+6. **Don’t expand the scope on the spot.** If they start asking for additional accounts, longer date ranges, or “anything else relevant,” say:
+   - “Please put that in writing. I’ll respond through my solicitor.”
+7. **Prepare a “minimum necessary” disclosure pack if you do provide records.**
+   - Use **bank-generated** PDFs/exports (statements, CSV transaction export) rather than screenshots.
+   - Create a simple disclosure log: what you provided, date range, format, date/time sent, and to whom.
+   - Keep a copy of exactly what you sent, plus the written request/order.
+8. **Use a safe delivery route.** Ask for an official secure upload method or provide via your solicitor rather than informal messaging.
 
 ## What can wait
-- You do not need to justify or explain individual transactions today.
-- You do not need to provide records for accounts not specifically named in the written request or order.
-- You do not need to provide logins for third-party payment apps (PayPal, crypto exchanges) unless specifically ordered by a court.
-- You do not need to meet a verbal "end of day" deadline if a formal order has not been served.
+- You do **not** need to explain every transaction right now.
+- You do **not** need to search years of records unless a written request/order specifies that period.
+- You do **not** need to provide “extra context” documents (texts, photos, receipts) unless your solicitor advises it.
+- You do **not** need to decide today whether to go beyond what’s clearly required in writing.
 
 ## Important reassurance
-Receiving a sudden request for financial records is a standard part of many investigations and does not automatically imply a specific outcome. Taking a moment to verify the legal basis and involving a professional ensures that you comply with the law while protecting your rights against over-disclosure.
+A short-notice request for financial records can feel intimidating. Slowing things down to confirm what’s being asked, getting it in writing, and getting legal advice helps prevent irreversible over-disclosure and simple mistakes.
 
 ## Scope note
-This guide provides first-step stabilization for handling a sudden request for records. It does not cover the technicalities of forensic data export or the legal defense strategies required for a full financial investigation.
+These are first steps only, aimed at harm-prevention and buying time. Anything involving an interview, arrest, or court paperwork needs case-specific advice from a solicitor.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Police powers regarding Production Orders and Account Monitoring Orders are subject to strict judicial oversight and specific statutory conditions under PACE and POCA 2002. Always verify the identity of the requesting officer and the validity of any court documents with a qualified legal professional.
+This is general information, not legal advice. Police powers and deadlines depend on the type of investigation and the specific legal instrument used. If you receive court paperwork, or you’re pressured for broad access (logins/devices), get urgent advice from a criminal solicitor.
 
 ## Additional Resources
-- https://www.gov.uk/government/publications/investigations-code-of-practice-issued-under-section-377/investigations-code-of-practice-issued-under-section-377-of-the-proceeds-of-crime-act-2002-accessible
-- https://www.gov.uk/government/publications/application-for-an-account-monitoring-order-under-poca
-- https://www.legislation.gov.uk/ukpga/2002/29/part/8/chapter/2/crossheading/customer-information-orders
-- https://www.legislation.gov.uk/ukpga/2002/29/part/8/chapter/2/crossheading/production-orders
-- https://www.gov.uk/government/publications/circular-0062025-disclosure-orders-proceeds-of-crime-act-2002/circular-0062025-disclosure-orders-proceeds-of-crime-act-2002
+- https://www.lawsociety.org.uk/en/topics/small-firms/how-to-respond-to-a-product-order-under-the-proceeds-of-crime-act-2002
+- https://www.legislation.gov.uk/ukpga/2002/29/section/345
+- https://www.legislation.gov.uk/ukpga/1984/60/schedule/1
+- https://www.gov.uk/government/publications/application-for-a-production-order-under-pace
+- https://www.gov.uk/government/publications/pace-code-c-2023/pace-code-c-2023-accessible
+- https://www.college.police.uk/app/investigation/investigative-strategies/search-powers-and-obtaining-and-executing-search-warrants
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/sharing-personal-data-with-law-enforcement-authorities/

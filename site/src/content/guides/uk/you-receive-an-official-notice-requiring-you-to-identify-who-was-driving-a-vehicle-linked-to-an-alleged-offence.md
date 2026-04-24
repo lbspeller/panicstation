@@ -1,97 +1,92 @@
----
+﻿---
 title: "What to do if… you receive an official notice requiring you to identify who was driving a vehicle linked to an alleged offence"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "section 172 request"
-  - "notice of intended prosecution letter"
-  - "nip and section 172 notice"
-  - "identify the driver letter"
-  - "name the driver form"
-  - "who was driving my car notice"
-  - "registered keeper driver request"
-  - "camera offence driver details"
-  - "speeding camera letter to keeper"
-  - "red light camera notice uk"
-  - "company car driver nomination"
-  - "hire or lease car notice"
-  - "someone borrowed my car"
-  - "not sure who drove that day"
-  - "wrong person accused driver"
-  - "vehicle sold before offence date"
-  - "car was stolen at the time"
-  - "cloned number plate suspicion"
-  - "official police notice in post"
-  - "help i got a speeding ticket"
-  - "what do i do if i get a nip"
-  - "what do i do if i receive a section 172"
-  - "what do i do if i cannot identify the driver"
-  - "my car was caught by a camera"
-  - "help i cannot remember who was driving"
-  - "received letter from central ticket office"
-  - "notice of intended prosecution deadline"
-  - "failing to identify the driver penalty"
-  - "reasonable diligence identify driver"
-  - "6 penalty points section 172"
-  - "speeding notice first steps"
-  - "police letter naming the driver"
-  - "car speeding letter but i was not driving"
-  - "notice of intended prosecution 14 day rule"
-last_reviewed: "2026-03-17"
+  - section 172 request
+  - notice of intended prosecution letter
+  - nip and section 172 notice
+  - identify the driver letter
+  - name the driver form
+  - who was driving my car notice
+  - registered keeper driver request
+  - camera offence driver details
+  - speeding camera letter to keeper
+  - red light camera notice uk
+  - company car driver nomination
+  - hire or lease car notice
+  - someone borrowed my car
+  - not sure who drove that day
+  - wrong person accused driver
+  - vehicle sold before offence date
+  - car was stolen at the time
+  - cloned number plate suspicion
+  - official police notice in post
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive an official notice requiring you to identify who was driving a vehicle linked to an alleged offence (UK)
 
 ## Short answer
-You must respond to the Section 172 notice within 28 days by either naming the driver or providing all information in your power to identify them. Failure to provide this information is a separate criminal offence that carries a mandatory six penalty points and a fine of up to £1,000.
+Don’t ignore it: note the deadline and respond with the driver details you can truthfully provide (or truthfully explain what you did to try to work it out).
 
 ## Do not do these things
-- Do not ignore the notice; the penalty for failing to identify the driver is often more severe than the penalty for the underlying offence (e.g., speeding).
-- Do not guess the driver's name; providing false information to the police is a serious offence that can lead to a prison sentence for perverting the course of justice.
-- Do not assume the "14-day rule" applies to you if you are not the registered keeper; only the first notice sent to the address on the V5C logbook must arrive within 14 days.
-- Do not return the form with "not known" without providing a detailed explanation of the "reasonable diligence" you used to try and find out.
-- Do not wait until the 28-day deadline is nearly over to start checking your records.
+- Don’t “wait and see” until the deadline is close—late replies can create a separate problem.
+- Don’t guess a name to make the situation go away.
+- Don’t give false details “to protect someone”.
+- Don’t assume it’s a scam and bin it without checking—verify first.
+- Don’t fill it in while panicking; one rushed mistake can be hard to undo.
 
 ## What to do now
-1. **Identify the specific deadline and the issuing police force immediately.** **In the UK, you typically have 28 days from the date the notice was served to respond.** Locate the date of the letter and the "Notice Number" or "Reference Number" provided by the Central Ticket Office or Safety Camera Unit.
+1. **Confirm what the notice is and diarise the deadline today.**  
+   In the UK this is commonly a **Section 172** request to name the driver. A common deadline is **28 days from service**—use the deadline printed on your notice and set reminders.
 
-2. **Verify that the notice is a genuine communication from a UK police force.** **Check the letterhead for the name of the constabulary and cross-reference the return address with official police websites.** If you suspect a scam, contact the relevant police force's Central Ticket Office directly using a phone number found on their official ".police.uk" website, rather than any number printed on the letter.
+2. **Verify it’s genuine (without committing yourself).**  
+   - Check the letterhead/reference number and that it names a real police force / safety camera unit.  
+   - If you’re unsure, **contact the force using contact details you find independently** (not only what’s printed on the letter) and ask them to confirm the reference.
 
-3. **Determine if you are the Registered Keeper or a secondary recipient.** **The legal duty varies slightly depending on whether the vehicle is in your name, a company name, or if you have been nominated by someone else.**
-   - If it is a company or lease vehicle, notify the fleet manager or leasing company immediately to ensure they have the correct details for the person who actually had the car.
-   - Companies are expected to maintain robust records of vehicle users and face higher scrutiny if they claim they cannot identify a driver.
+3. **Work out who is expected to reply (so it doesn’t get lost).**  
+   - If you’re the **registered keeper**, you’re usually expected to respond.  
+   - If it’s a **company / lease / hire vehicle**, contact the fleet/lease admin immediately and ask who is handling the nomination—time can disappear while it’s being forwarded.
 
-4. **Examine objective records to confirm who was in possession of the vehicle at the exact time and date specified.** **Use external data points rather than relying on memory alone to ensure your response is factually accurate.**
-   - Check digital calendars, work rotas, and sent messages or emails from that day.
-   - Review bank or credit card statements for fuel, charging, parking, or toll payments made near the location.
-   - Check "location history" on mobile devices or Google Maps "Timeline" if enabled.
+4. **If you know who was driving, respond accurately and keep proof.**  
+   Provide the driver’s details exactly as requested (typically full name and current address).  
+   - **Keep a copy** (photo/scan) of what you submit.  
+   - Keep proof of sending/submitting (postal receipt/tracking or an online confirmation).
 
-5. **Request photographic evidence from the issuing office if you genuinely cannot distinguish between multiple possible drivers.** **Most police forces will provide "identification photos" upon request, though they are not legally required to do so at this stage.**
-   - Specify that the request is to assist in identifying the driver, not to challenge the evidence of the offence itself.
-   - Note that requesting photos does not "stop the clock" on your 28-day deadline to respond.
+5. **If you’re not sure who was driving, do a quick, factual “who had the car?” check and write down what you did.**  
+   Do this promptly so you can respond truthfully and consistently. For example:  
+   - Check your diary/calendar, work rota, school run, appointment history for that date/time.  
+   - Check messages with anyone who might have borrowed the vehicle.  
+   - Look for objective records: fuel/charging receipts, parking receipts, toll emails, delivery logs, workplace sign-in records.  
+   Keep short notes (what you checked, what it showed, and the date you checked).
 
-6. **Submit the driver's full name, date of birth, and current address using the provided form or online portal.** **Ensure you keep a physical or digital copy of the completed form and obtain a "Proof of Posting" receipt if sending by mail.** If you nominate someone else, they will receive their own Section 172 notice and must respond to it themselves.
+6. **Ask for any available photos if they might genuinely help identify the driver.**  
+   Many issuing offices can provide or let you view images to help you identify who was driving. Ask early so you still have time to respond.
 
-7. **Document your "reasonable diligence" if you are still unable to identify the driver after all checks.** **Write a detailed letter to the police explaining every step you took to find out, including who you spoke to and what records you checked.** This documentation is vital if the matter proceeds to a "Failure to Furnish" (Section 172) prosecution in the Magistrates' Court.
+7. **If you only received the notice late (e.g., you were away), contact the issuing office immediately.**  
+   Explain when you actually became aware of it and ask what they want you to do now. Still respond as soon as possible—don’t assume “being away” automatically fixes anything.
 
-8. **Gather evidence of sale, theft, or plate cloning if the vehicle was not in your possession.** **Provide a Crime Reference Number if the car was stolen, or a copy of the DVLA confirmation / bill of sale if the vehicle had been transferred before the offence date.** Respond to the notice using these details rather than leaving it blank.
+8. **If the vehicle was sold, stolen, or you suspect plate misuse, gather hard proof before you reply.**  
+   Examples: proof of sale/transfer, insurer letter, police crime reference number, or written confirmation from DVLA/your insurer about dates. Respond using the notice’s process and include copies (keep originals).
 
 ## What can wait
-- You do not need to decide whether to plead "guilty" or "not guilty" to the underlying speeding or red-light offence yet; the current requirement is only to identify the driver.
-- You do not need to pay any fine at this stage; the "Conditional Offer of Fixed Penalty" or court summons usually arrives only after the driver has been identified.
-- You do not need to attend a Speed Awareness Course now; eligibility is assessed only after the driver’s identity is confirmed.
+- You do **not** need to decide right now whether to challenge the underlying allegation (speeding/red light/etc.).
+- You do **not** need to write a long explanation unless the form specifically asks—priority is a correct, evidenced response on time.
+- You do **not** need to confront the suspected driver right now; focus on accurate identification and records first.
 
 ## Important reassurance
-Receiving a police notice is a standard administrative procedure and does not mean you have been convicted of a crime. By methodically checking your records and meeting the 28-day deadline, you prevent the situation from escalating into a more serious "failure to identify" offence.
+Official wording can feel threatening even when it’s a standard step. Slowing down, verifying the notice, meeting the deadline, and only stating what you can honestly support is the safest way to avoid accidental escalation.
 
 ## Scope note
-This guide provides first-step stabilization for responding to a Section 172 request and identifying the driver. It does not cover legal strategies for defending the underlying motoring offence or court procedures for "totting up" bans.
+This is “first steps only” to prevent avoidable harm (missed deadlines, inaccurate details, lost evidence of what you did). Later steps—contesting the allegation or court procedure—may need specialist advice.
 
 ## Important note
-This information is for general guidance regarding UK road traffic law and is not legal advice. Penalties and procedures can vary between jurisdictions (England & Wales, Scotland, and Northern Ireland). If you are at risk of a driving disqualification or if the vehicle was involved in a serious incident, consult a qualified motoring solicitor.
+This is general information, not legal advice. Motoring enforcement processes can vary by police force and offence type. If there are multiple possible drivers, or you believe the notice relates to fraud/plate misuse, consider getting independent legal advice promptly.
 
 ## Additional Resources
+- https://www.legislation.gov.uk/ukpga/1988/52/section/172
 - https://www.gov.uk/speeding-penalties
-- https://www.met.police.uk/advice/advice-and-information/rs/road-safety/speeding/
-- https://www.met.police.uk/advice/advice-and-information/rs/road-safety/speeding/if-you-want-to-appeal-a-letter-or-notice/
-- https://www.avonandsomerset.police.uk/request/speeding-offences/respond-to-speeding-ticket/
-- https://www.cps.gov.uk/prosecution-guidance/road-traffic-summary-offences
+- https://www.cityoflondon.police.uk/advice/advice-and-information/rs/road-safety/speeding/
+- https://www.btp.police.uk/advice/advice-and-information/rs/road-safety/speeding/if-youve-received-a-speed-camera-activation-letter-or-notice/
+- https://www.warwickshire.police.uk/advice/advice-and-information/road/w/speeding-tickets/

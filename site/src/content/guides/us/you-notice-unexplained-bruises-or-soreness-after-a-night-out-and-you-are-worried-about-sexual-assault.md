@@ -1,82 +1,70 @@
----
+﻿---
 title: "What to do if… you notice unexplained bruises or soreness after a night out and you are worried about sexual assault"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "unexplained bruises after night out"
-  - "soreness after night out"
-  - "sexual assault help"
-  - "woke up with bruises"
-  - "unexplained soreness after drinking"
-  - "bruises and memory loss"
-  - "night out injuries"
-  - "what do i do if i have unexplained bruises"
-  - "what do i do if i am sore after a night out"
-  - "what do i do if i suspect sexual assault"
-  - "what do i do if i can't remember my night"
-  - "help i have bruises after a party"
-  - "help i am sore after a night out"
-  - "help i think i was assaulted"
-  - "help i was drugged"
-  - "my body is sore after a night out"
-  - "my skin has bruises i don't recognize"
-  - "my clothes are torn after a night out"
-  - "visible bruises on legs"
-  - "unexplained marks on arms"
-  - "pelvic soreness after drinking"
-  - "genital pain after night out"
-  - "bruise mark on neck"
-  - "sore muscles after clubbing"
-  - "unexplained bruises USA"
-  - "unexplained soreness USA"
-  - "worried about sexual assault"
-  - "suspected drink spiking"
-  - "blackout and bruised"
-  - "memory gap and soreness"
-last_reviewed: "2026-03-17"
+  - unexplained bruises after night out
+  - soreness after night out
+  - woke up bruised and confused
+  - memory gap after drinking
+  - blackout and worried
+  - think i was assaulted
+  - not sure if consent happened
+  - possible drink spiking
+  - feeling drugged after night out
+  - woke up in unfamiliar place
+  - underwear or clothes missing
+  - unexplained injuries after party
+  - pain after sex but unsure
+  - hazy night out concerns
+  - shock numbness after night out
+  - worried about sexual contact
+  - bruising on arms legs torso
+  - after clubbing feel unsafe
+  - can't remember getting home
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… you notice unexplained bruises or soreness after a night out and you are worried about sexual assault (USA)
 
 ## Short answer
-Move to a secure location and contact a confidential specialist at RAINN (800-656-4673) or go to an emergency room for a medical evaluation. Focus on medical safety and evidence preservation within the first 72 to 120 hours.
+Get to a safe place and reach confidential support (RAINN or a local crisis center) and/or medical care as soon as you can. You don’t have to decide about reporting to police right now.
 
 ## Do not do these things
-- Do not shower, bathe, or wash your hands until you have decided whether you want a forensic exam.
-- Do not change your clothes if possible; if you must change, do not wash the original clothing.
-- Do not store damp or stained clothing in plastic bags, as this destroys biological evidence.
-- Do not delete phone records, location history, or messages from the previous night.
-- Do not wait to seek medical care if you are experiencing significant physical pain, bleeding, or feeling physically ill.
+- Do not pressure yourself to “prove” what happened before getting help.
+- Do not confront someone you suspect while you’re alone or still in shock.
+- Do not delete texts, photos, call logs, or rideshare receipts from the night if you may want options later.
+- Do not throw away clothing or bedding from the night if you may want options later.
+- Do not delay emergency care if you have significant pain, bleeding, injuries, or you feel unwell.
 
 ## What to do now
-1. **Move to a safe environment immediately.** Ensure you are in a location where you feel secure and, if comfortable, ask a trusted individual to remain with you. 
-2. **Contact the National Sexual Assault Hotline for confidential guidance.** Call **800-656-4673** or use the secure online chat at RAINN.org to speak with a trained staff member.
-   - They can provide information on local SANE (Sexual Assault Nurse Examiner) locations.
-   - They can explain your rights regarding anonymous reporting in your specific state.
-3. **Go to an Emergency Room (ER) for a medical exam.** Inform the triage staff you are there for a "Sexual Assault Forensic Exam" (SAFE) or "SANE exam."
-   - Medical care should ideally happen within **72 hours** to receive prophylactic medication for HIV (nPEP) and STIs.
-   - Forensic evidence (a "rape kit") can typically be collected for up to **5 days** (120 hours) after the incident.
-4. **Request toxicology testing if you suspect you were drugged.** Many substances used in drink spiking leave the system within 12 to 24 hours; clear communication with medical staff is necessary for timely collection.
-5. **Preserve physical evidence using paper materials.** If you have already changed clothes, place the items worn during the incident into a **clean paper bag**. Do not use plastic. 
-6. **Note your last clear memories and physical observations.** Record a brief timeline of the night, including the last time you felt "normal," where you woke up, and the specific locations of any bruises or soreness.
-7. **Ask about your state's mandatory reporting laws.** In the USA, while the federal Violence Against Women Act (VAWA) allows for forensic exams without police reports, some states require doctors to report certain physical injuries to law enforcement regardless of patient consent.
+1. **Get to safety and bring someone in.** If possible, move to a secure location and ask a trusted person to stay with you. If you are in immediate danger or need urgent medical help, **call 911**.
+2. **Contact confidential, specialist support (24/7).** You can reach **RAINN’s National Sexual Assault Hotline**:
+   - Call **800-656-HOPE (4673)**
+   - Chat via RAINN’s hotline page
+   - Text **“HOPE” to 64673**
+3. **Seek medical care today if you can.** Go to an **ER** or a clinic that can provide sexual-assault care (often with a **SANE/SAFE-trained** clinician). Tell them you’re worried about a possible sexual assault so they can check injuries and discuss pregnancy/STI prevention.
+4. **If you think you were drugged/spiked, say that clearly.** Ask the clinician about whether any toxicology testing is appropriate and time-sensitive. (You do not need to know what substance it might have been.)
+5. **Make a quick “memory snapshot.”** In notes or on paper: where you were, who you were with, when you last remember feeling OK, where you woke up, and what you noticed (bruises/soreness/clothing). Keep it brief.
+6. **If you may want the option of a forensic exam later (only if you want):** avoid showering if you can, and keep clothing/bedding from the night in a **clean, dry bag** (paper if you have it; otherwise any clean bag). If you already showered or changed, it’s still okay—go anyway.
+7. **Protect what you already have without overthinking it.** If you can, screenshot or save key details you already see (texts, call log, ride receipts) and then put your phone away for a while to avoid accidental deletion while you’re overwhelmed.
 
 ## What can wait
-- You do not need to decide today if you want to file a formal police report or pursue criminal charges.
-- You do not need to identify exactly what happened or who may have been involved before seeking medical care.
-- You do not need to contact anyone from the previous night or investigate the source of your injuries yourself.
+- You do not need to decide right now whether to report, whether to seek a protective order, or what you want to happen legally.
+- You do not need to contact the bar/club, friends from the night, or anyone you suspect today unless it affects your immediate safety.
+- You do not need to write a detailed narrative or collect proof yourself before getting medical/support help.
 
 ## Important reassurance
-Gaps in memory, feelings of numbness, or confusion are physiological responses to trauma or chemical substances. Having unexplained bruises or soreness is a valid reason to seek a professional medical assessment. Taking these steps does not mean you have "committed" to a specific legal outcome; it means you are prioritizing your health and keeping your options open.
+Confusion, numbness, or patchy memory can happen after trauma and/or possible intoxication. Bruises and soreness can have different causes—but your concern is enough reason to seek support and medical care. You deserve to be treated with respect and to stay in control of what happens next.
 
 ## Scope note
-This guide is limited to immediate stabilization, evidence preservation, and medical safety within the first few days following a suspected incident. Long-term legal or psychological support should be sought through specialized advocates.
+This guide covers first steps to stabilise, get safe support, and keep options open. Later decisions can be made with specialist advocates and clinicians when you feel steadier.
 
 ## Important note
-This information is not a substitute for professional medical, legal, or forensic advice. If you are in immediate physical danger or have life-threatening injuries, call 911. Laws regarding mandatory reporting and evidence storage varies by state jurisdiction.
+This guide is general information, not medical, legal, or investigative advice. If you are in immediate danger or need urgent medical attention, call 911. If you’re unsure what to do, contacting RAINN or going to an ER is a safe first move.
 
 ## Additional Resources
-- https://rainn.org/help-and-healing/if-youve-been-assaulted/
-- https://rainn.org/help-and-healing/if-youve-been-assaulted/getting-medical-help-after-sexual-assault/
+- https://rainn.org/learn-about-rainn/contact-us/
 - https://rainn.org/2240/getting-a-sexual-assault-forensic-exam-safe/
+- https://safehelpline.org/SAFE
 - https://www.cdc.gov/std/treatment-guidelines/sexual-assault-adults.htm
-- https://womenshealth.gov/a-z-topics/date-rape-drugs

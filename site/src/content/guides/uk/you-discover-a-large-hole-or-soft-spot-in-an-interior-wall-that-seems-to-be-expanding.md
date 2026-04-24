@@ -1,83 +1,77 @@
----
+﻿---
 title: "What to do if… you discover a large hole or soft spot in an interior wall that seems to be expanding"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "soft spot in wall"
-  - "wall feels spongy"
-  - "hole appearing in wall"
-  - "crumbling plaster UK"
-  - "bulging interior wall"
-  - "expanding wall damage"
-  - "damp patch on wall"
-  - "wall suddenly soft"
-  - "plaster falling away"
-  - "interior wall deterioration"
-  - "possible water leak in wall"
-  - "hidden leak symptoms UK"
-  - "mouldy smell in room"
-  - "sagging plasterboard"
-  - "hairline cracks getting worse"
-  - "sudden wall damage at home"
-  - "rented flat wall damage"
-  - "wet wall near sockets"
-  - "interior wall bowing"
-  - "crumbling wall help UK"
-  - "my wall is soft and wet"
-  - "what do i do if my wall is crumbling"
-  - "what do i do if my wall feels spongy"
-  - "what do i do if i see a hole in my wall"
-  - "what do i do if my wall is bulging"
-  - "help i have a hole in my wall"
-  - "help my plaster is falling off"
-  - "help my wall is bowing"
-  - "help my wall smells musty"
-  - "visible moisture on wallpaper"
-  - "bubbling paint on plaster"
-  - "brown stains on wall"
-  - "flaking plaster debris"
-  - "wall cavity damp"
-  - "blown plaster symptoms"
-last_reviewed: "2026-03-17"
+  - soft spot in wall
+  - wall feels spongy
+  - hole appearing in wall
+  - crumbling plaster
+  - bulging interior wall
+  - expanding wall damage
+  - damp patch on wall
+  - wall suddenly soft
+  - plaster falling away
+  - interior wall deterioration
+  - possible water leak in wall
+  - hidden leak symptoms
+  - mouldy smell in room
+  - sagging plasterboard
+  - hairline cracks getting worse
+  - sudden wall damage at home
+  - rented flat wall damage
+  - wet wall near sockets
+  - interior wall bowing
+last_reviewed: "2026-03-04"
 ---
+
 # What to do if… you discover a large hole or soft spot in an interior wall that seems to be expanding (UK)
 
 ## Short answer
-Isolate the area immediately, turn off the water and electricity if moisture is present, and contact your landlord or a building professional to assess the structural integrity and source of damage.
+Treat it as a potential water leak or building safety issue: stop using the area, reduce water/electrical risk, document what you see, and get the responsible party and a qualified professional to assess it promptly.
 
 ## Do not do these things
-- Don't press, poke, or apply pressure to the soft spot as weakened plasterboard or lath-and-plaster can collapse without warning.
-- Don't attempt to cut into the wall or "investigate" the cavity, as this may strike hidden pipes, electrical cables, or asbestos-containing materials.
-- Don't ignore a musty smell or "earthy" odour, as these often indicate a slow-release leak or significant fungal growth behind the surface.
-- Don't use portable heaters or high heat directly against the soft area, as this can cause steam-pressure damage or fire risks if electrical components are wet.
-- Don't sweep up or vacuum any grey or white dust from the hole if the property was built before 2000, as it may contain asbestos.
+- Don’t press, poke, or “test” the softness with force — weakened plaster/plasterboard can fail suddenly.
+- Don’t cut a bigger opening to “see what’s going on” if pipes, wiring, or a flue could be behind it.
+- Don’t ignore musty smells, damp staining, or new cracking — these can suggest ongoing moisture damage.
+- Don’t dry a damp wall using open-flame heaters (candles/gas heaters) or run high heat tight against the wall.
+- Don’t let children/pets play near it or place furniture directly under/against the damaged area.
 
 ## What to do now
-1. **Clear the immediate vicinity of the wall.** **Ensure no one, including pets, is standing near or underneath the affected wall section or the ceiling immediately above it.** Move furniture away from the area to prevent damage and allow a clear view for professionals.
-2. **Conduct a visual-only moisture check.** **Look for signs of active water ingress such as glistening surfaces, dark brown staining, or water pooling at the skirting board.** Use a torch to check for tracking water along the floor or nearby electrical sockets.
-3. **Shut off the main water supply if a leak is suspected.** **Locate your internal stopcock (usually under the kitchen sink or in the hallway) and turn it clockwise to close it if the wall feels wet or you hear hissing.** This prevents further saturation and potential ceiling collapse.
-4. **Isolate electrical circuits if the damage is near sockets or switches.** **Go to your consumer unit and switch off the specific circuit breaker for that room if you see any moisture, dampness, or "bubbling" paint near electrical fittings.** If the consumer unit itself is in a damp area, do not touch it and call a qualified electrician immediately.
-5. **Document the damage from a safe distance.** **Take clear photos and video of the hole, the soft spot, and any surrounding cracks or stains to provide to insurance or your landlord.** Note the time you first observed the damage and whether it has grown in size over the last hour.
-6. **Notify the property owner or manager immediately.** **If you are a tenant, call your landlord or letting agent to report an emergency repair; if you are an owner-occupier, contact your building insurance provider's 24-hour emergency line.** In 2026, leaseholders in buildings over 11m or 5 storeys should specifically check their protections under the Building Safety Act for structural defects.
-7. **Contact Local Authority Building Control for suspected structural failure.** **If the wall is load-bearing and showing significant bowing or if the floor above feels springy, call your local council's Dangerous Structures team.** In England and Wales, councils have a statutory duty to respond to reports of buildings that pose an imminent danger to the public or occupants.
+1. **Create a safer zone.** Keep people/pets back, move valuables away, and avoid leaning anything on the wall. If the ceiling nearby looks stained, bulged, or sagging, avoid that zone too.
+2. **Check for “active leak” clues without disturbing the wall.** Look/listen for fresh dampness, dripping sounds, a widening wet patch, warped skirting/flooring, or water tracking along the floor. Take clear photos/video from a safe distance.
+3. **Reduce water risk (only if it’s safe).** If you suspect a leak (new dampness, dripping/hissing, wet floor/skirting), **turn off the water at the stopcock** if you can do so safely.
+4. **Reduce electrical risk (only if it’s safe).**
+   - If there’s moisture near sockets/switches, **avoid touching any electrical fittings**.
+   - If you can safely access a dry consumer unit, switch off the **affected circuit** (or the whole property if you cannot identify it).
+   - **If you’re unsure, or anything around the consumer unit is damp/wet, keep away and call a qualified electrician or your network operator/emergency help.**
+5. **If you rent: notify the landlord/agent immediately in writing.** Include photos, when you noticed it, and that it seems to be expanding. Ask for urgent inspection/repairs and keep a record of messages.
+6. **Get the right assessment (don’t rely on guesswork).**
+   - If you suspect **a leak**: contact an emergency plumber.
+   - If the wall is **bulging/bowing**, cracks are spreading quickly, floors feel springy nearby, or doors suddenly jam: arrange a **chartered structural engineer or surveyor** promptly.
+7. **If you think the structure could be dangerous (collapse risk or danger to others): contact your local authority.**
+   - **England/Wales:** you can report a dangerous building/structure to your local council.
+   - **Scotland:** contact your local council (often via **Building Standards**) for dangerous building advice.
+   - **Northern Ireland:** contact your local council (often via **Building Control**) for dangerous building advice.
+   If there’s an immediate risk to life, treat it as an emergency and seek urgent help.
 
 ## What can wait
-- You do not need to identify the exact pipe or source of the leak yourself right now.
-- You do not need to book a plasterer or decorator until a structural engineer or plumber has certified the wall is dry and stable.
-- You do not need to resolve disputes regarding the deposit or liability in the first few hours of discovery.
+- You do not need to decide the full repair plan, choose contractors, or argue about liability right now.
+- You do not need to strip wallpaper/plaster or “open it up” to confirm the cause today.
+- You don’t need to do major cleaning of suspected mould immediately; stopping the moisture source and getting assessment comes first.
 
 ## Important reassurance
-Finding a hole or "softness" in a wall is often the result of a plumbing fault or a failed damp-proof course rather than a total building collapse. By creating distance and turning off utilities, you have already performed the most critical actions to keep the household safe while waiting for professional assessment.
+A fast-changing wall can feel frightening. The most protective first-hour actions are simple: distance, reduce water/electric risk, document what you see, and get qualified help involved quickly.
 
 ## Scope note
-This is first-step stabilization guidance only. Long-term repairs, mould remediation, and insurance claims require professional surveys and specialized contractors.
+This is first-step guidance only. Follow-on steps (repairs, mould remediation, insurance evidence, disputes with a landlord/freeholder) depend on what’s found behind the wall and may require qualified professionals.
 
 ## Important note
-This guide is for general information and does not replace professional structural or legal advice. If you suspect the building is in imminent danger of collapse, evacuate the premises immediately and call emergency services.
+This is general information, not a diagnosis of the cause or a guarantee about safety. If you’re unsure whether there’s immediate danger, prioritise distance and professional assessment.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/check-if-your-landlord-has-to-do-repairs/
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/getting-your-landlord-to-do-repairs/getting-repairs-done-if-youre-renting-privately-ew/getting-repairs-done-if-youre-renting-privately/
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/getting-your-landlord-to-do-repairs/asking-the-council-to-help-you-get-repairs-done/asking-the-local-authority-for-help-with-repairs/
-- https://www.citizensadvice.org.uk/housing/building-safety/if-the-structure-of-the-building-you-live-in-isnt-safe/
 - https://www.gov.uk/report-dangerous-building-structure
+- https://www.gov.uk/private-renting/repairs
+- https://england.shelter.org.uk/housing_advice/repairs/landlord_and_tenant_responsibilities_for_repairs
+- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/repairs-damp/
+- https://www.gov.uk/government/publications/damp-and-mould-understanding-and-addressing-the-health-risks-for-rented-housing-providers/understanding-and-addressing-the-health-risks-of-damp-and-mould-in-the-home--2

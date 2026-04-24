@@ -1,79 +1,70 @@
----
+﻿---
 title: "What to do if… you develop steadily worsening pain in the lower right side of your abdomen"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "worsening lower right abdominal pain"
-  - "right lower tummy pain getting worse"
-  - "lower right abdomen pain steadily worsening"
-  - "sharp pain lower right side stomach"
-  - "constant right lower abdominal pain"
-  - "pain near belly button moving right"
-  - "help i have pain in lower right abdomen"
-  - "what do i do if my lower right stomach hurts"
-  - "my tummy pain is getting worse on the right"
-  - "help i have pain in my lower right side"
-  - "what do i do if my stomach hurts when touched"
-  - "stomach ache lower right side"
-  - "pain in right iliac fossa"
-  - "suspected appendicitis symptoms"
-  - "appendix pain cues"
-  - "right side stomach pain and nausea"
-  - "pain worse when walking or coughing"
-  - "tummy hurts to touch right side"
-  - "fever and right sided stomach pain"
-  - "abdominal tenderness right lower side"
-  - "lower right abdominal pain not easing"
-  - "severe tummy pain unknown cause"
-  - "possible ectopic pregnancy symptoms"
-  - "pelvic pain right side confusion"
-  - "what do i do if pain moves from middle to right"
-  - "my stomach pain is sharp and constant"
-  - "bloody poo and stomach ache"
-  - "vomiting and right sided pain"
-  - "cannot pee and stomach pain"
-  - "cannot fart and stomach pain"
-last_reviewed: "2026-03-16"
+  - worsening lower right abdominal pain
+  - right lower tummy pain getting worse
+  - lower right abdomen pain steadily worsening
+  - sharp pain lower right side stomach
+  - constant right lower abdominal pain
+  - pain near belly button moving right
+  - suspected appendicitis symptoms
+  - possible burst appendix concern
+  - right side stomach pain and nausea
+  - right lower abdominal pain and fever
+  - pain worse when walking or coughing
+  - abdominal tenderness right lower side
+  - lower right abdominal pain not easing
+  - right iliac fossa pain
+  - severe tummy pain unsure cause
+  - pelvic pain right side confusion
+  - could be pregnant right sided pain
+  - sudden worsening abdominal pain
+last_reviewed: "2026-02-21"
 ---
+
 # What to do if… you develop steadily worsening pain in the lower right side of your abdomen (UK)
 
 ## Short answer
-Call 999 or go to A&E immediately if the pain is severe, came on suddenly, or if your stomach hurts when touched. You must also seek emergency help if you faint, have difficulty breathing, see blood in your vomit or stool, or cannot pass urine, stool, or gas.
+Treat steadily worsening lower-right abdominal pain as urgent. If it’s severe or suddenly worse, you faint/collapse, you’re very unwell, you can’t pee/poo, there’s blood in vomit/poo, or you might be pregnant, go to A&E now or call 999.
 
 ## Do not do these things
-- Do not wait until the morning if the pain is increasing in intensity every hour.
-- Do not eat or drink anything (including water) until you have spoken to a medical professional, as you may require urgent surgery.
-- Do not take laxatives, use enemas, or attempt to force a bowel movement.
-- Do not apply a hot water bottle or heating pad to the area, as this can mask the progression of symptoms.
-- Do not drive yourself to the hospital if you feel dizzy, faint, or are in significant distress; ask someone to drive you or call 999.
-- Do not take any "leftover" medication or start new painkillers without medical advice, as this can interfere with an accurate diagnosis.
+- Do not “wait it out” overnight if the pain is getting worse hour by hour.
+- Do not eat a large meal “to keep your strength up” while you’re arranging urgent assessment.
+- Do not take laxatives, use enemas, or try to “force a bowel movement.”
+- Do not use heat in a way that could mask how quickly the pain is worsening (and do not let it delay you getting assessed).
+- Do not drive yourself to A&E if you feel faint, drowsy, very unwell, or the pain is severe.
+- Do not take leftover antibiotics or start a new medicine to “see if it fixes it.” If you take pain relief, keep it minimal and note what you took and when.
 
 ## What to do now
-1. **Identify if you require an emergency ambulance or immediate A&E attendance.** **Call 999 or go to A&E now** if you have: severe or sudden pain; pain that hurts when the area is touched; chest pain; difficulty breathing; or if you have collapsed. You must also go immediately if you are vomiting blood (or it looks like coffee grounds), passing bloody or black/sticky stools, or are unable to pee, poo, or pass gas (fart).
-2. **Contact NHS 111 or your GP for an urgent same-day assessment if the pain is steadily worsening but not yet an emergency.** **Call 111 (or 111.nhs.uk) immediately** to be triaged; they can book you into an Urgent Treatment Centre or A&E to reduce your waiting time. In Scotland, reach NHS 24 by calling 111.
-3. **Notify the 111 operator or A&E staff immediately if there is any possibility you are pregnant.** **Seek emergency help** if lower-sided abdominal pain is accompanied by vaginal bleeding, pain at the tip of your shoulder, feeling very faint, or sudden dizziness, as these can be signs of an ectopic pregnancy.
-4. **Remain "nil by mouth" until you are assessed by a clinician.** **Do not eat or drink anything** unless specifically told otherwise by a 111 clinician or triage nurse, as many causes of worsening right-sided pain (such as appendicitis) require surgery that must be performed on an empty stomach.
-5. **Bag all of your current medications and take them with you.** **Ensure you have your physical medication packets** or a clear printed list of your prescriptions and dosages to show the admitting team.
-6. **Note down a brief timeline of your symptoms to give to the doctor.** **Focus on when the pain started**, where it was first felt (e.g., near the belly button), if it has moved to the right, and if you have had a fever, shivers, or changes to your toilet habits.
-7. **Arrange for someone to stay with you or meet you at the hospital.** **Do not stay alone** while waiting for transport if your condition is deteriorating; if you are alone, leave your front door unlocked and call a neighbor or friend to tell them you have called for help.
+1. **Decide your urgent care route (now).**
+   - **Call 999 or go to A&E immediately** if: the pain is **severe**, **suddenly gets much worse**, **spreads**, you **faint/collapse** or feel very dizzy, you’re **confused**, you’re **struggling to breathe**, you’re **vomiting blood**, your **poo is bloody/black**, or you **cannot pee/poo**.
+   - If it’s **steadily worsening** (even if you can still function), **call NHS 111** for urgent advice and likely same-day assessment. (In Scotland, **NHS 24 is reached via 111**.) If you can get through quickly, you can also contact your **GP / out-of-hours** service.
+2. **If pregnancy is possible (even uncertain): treat this as urgent today.** Go to **A&E now** (or call 999 if you’re very unwell) if one-sided pain is accompanied by **vaginal bleeding**, **shoulder-tip pain**, **weakness**, **dizziness**, or **fainting**.
+3. **Avoid large meals; take small sips of water if you need to.** Don’t drink alcohol. If you have diabetes or need regular medication with food, follow your usual safety needs and tell 111/A&E what you’ve taken.
+4. **Write down a 60-second timeline to take with you.** When it started, where it began, whether it moved, how fast it’s worsening, vomiting/diarrhoea/constipation, fever/shivers, urinary symptoms, vaginal bleeding/discharge, last period/pregnancy possibility, and any recent injuries.
+5. **Arrange safe transport and support.** Ask someone to come with you if possible. If you live alone, message/call someone now and tell them where you’re going and that you’ll update them after you’re assessed.
+6. **Pack the essentials (2 minutes).** Phone/charger, any key medical info (medications/allergies list or photos), and a small overnight item if you can do so without delaying leaving.
 
 ## What can wait
-- You do not need to determine if it is appendicitis, a kidney stone, or a cyst; that is for the clinical team to diagnose.
-- You do not need to pack a full suitcase; a phone, charger, and your medication are the only essentials.
-- You do not need to worry about work or social cancellations beyond a quick message; your physical safety is the priority.
+- You do not need to work out the cause (appendix, ovary, kidney stone, bowel, etc.) before seeking help.
+- You do not need to “prove” it’s an emergency or finish chores beyond a brief message to cancel plans.
+- You do not need to decide about scans, surgery, or treatment options until you’ve been assessed.
 
 ## Important reassurance
-Worsening abdominal pain is a very common reason for emergency admissions, and the NHS is structured to assess and treat these cases quickly. Feeling anxious or overwhelmed is a normal reaction to sudden physical pain, and hospital staff are trained to support you through the assessment process.
+Lower-right abdominal pain that steadily worsens is a common reason people need same-day assessment, and getting checked promptly is the safer choice. Many causes are treatable—what matters is not missing the ones that become dangerous if delayed.
 
 ## Scope note
-This guide provides first-step stabilization and triage guidance only. It does not replace a clinical examination or provide a diagnosis.
+This is first-step guidance for the next few hours. The clinicians who assess you will decide what tests or treatment you need based on your exam and results.
 
 ## Important note
-This information is for guidance only. If your symptoms are severe, rapidly changing, or life-threatening, always contact 999 immediately.
+This guide is general information and not a diagnosis. If symptoms are severe, rapidly worsening, or you feel very unwell, use emergency services.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/appendicitis/
-- https://www.gosh.nhs.uk/conditions-and-treatments/general-medical-conditions/appendicitis-and-removal-appendix/
-- https://www.cuh.nhs.uk/patient-information/appendicitis-in-children-information-for-parents-and-carers/
-- https://www.fhft.nhs.uk/patients-and-visitors/patient-information/appendicitis
-- https://www.uhsussex.nhs.uk/resources/appendicitis-the-alex-2/
+- https://www.nhs.uk/symptoms/stomach-ache/
+- https://www.nhsinform.scot/illnesses-and-conditions/stomach-liver-and-gastrointestinal-tract/appendicitis/
+- https://111.wales.nhs.uk/encyclopaedia/a/article/appendicitis
+- https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/
+- https://www.uhsussex.nhs.uk/resources/abdominal-pain-ed-leaflet/

@@ -1,104 +1,94 @@
----
+﻿---
 title: "What to do if… a ferry or crossing is delayed for hours and you may run out of food, water, or battery power while waiting"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
-  - "ferry delayed for hours"
-  - "crossing delayed"
-  - "stuck at ferry terminal"
-  - "queued for ferry"
-  - "waiting in car for ferry"
-  - "stuck on board ferry"
-  - "running out of water waiting"
-  - "no food while waiting"
-  - "phone battery dying travel"
-  - "no signal at terminal"
-  - "power bank ran out"
-  - "charger not working"
-  - "delayed sailing overnight"
-  - "stranded at port"
-  - "missed connection after ferry"
-  - "ferry service disruption"
-  - "what do i do if ferry is delayed"
-  - "what do i do if i run out of water in traffic"
-  - "what do i do if stuck at ferry terminal"
-  - "what do i do if my phone dies while traveling"
-  - "help i am stuck at the ferry port"
-  - "help i have no water waiting for boat"
-  - "my ferry is canceled what now"
-  - "my phone is dying and ferry is delayed"
-  - "smell of exhaust in ferry line"
-  - "feeling dizzy in ferry queue"
-  - "visible steam from car in line"
-  - "hot car waiting for ferry"
-  - "farry delayed"
-  - "ferry canclled"
-  - "port waiting area"
-  - "terminal facilities"
-  - "water fountain at ferry"
-  - "charging station at terminal"
-  - "vessel disruption"
-  - "marine traffic delay"
-last_reviewed: "2026-03-17"
+  - ferry delayed for hours
+  - crossing delayed
+  - stuck at ferry terminal
+  - queued for ferry
+  - waiting in car for ferry
+  - stuck on board ferry
+  - running out of water waiting
+  - no food while waiting
+  - phone battery dying travel
+  - no signal at terminal
+  - power bank ran out
+  - charger not working
+  - delayed sailing overnight
+  - stranded at port
+  - missed connection after ferry
+  - ferry service disruption
+  - need medical help while waiting
+  - refund request ferry ticket
+  - rebook after missed sailing
+last_reviewed: "2026-03-11"
 ---
-# What to do if… a ferry or crossing is delayed for hours and you may run out of food, water, or battery power while waiting (USA)
 
+# What to do if… a ferry or crossing is delayed for hours and you may run out of food, water, or battery power while waiting (USA)
 ## Short answer
-Isolate your survival needs from your travel logistics: secure drinking water immediately, switch your phone to maximum power-saving mode, and confirm with staff that your booking will not be marked as a "no-show" due to the operator's delay.
+Treat it as a supplies-and-communication problem: get water, make your phone last, and get clear instructions from terminal staff/crew about timing, facilities, and your operator’s rebook/refund process.
 
 ## Do not do these things
-- Do not leave your vehicle in a staging lane to find food or water unless terminal staff explicitly confirm it is permitted.
-- Do not assume a "no-show" fee will be waived automatically; you must be officially moved to a standby or "disrupted" status by an agent.
-- Do not wait until your phone is below 5% to screenshot your ticket and the operator’s customer service number.
-- Do not keep your car engine idling for AC or heat if you are in an enclosed or semi-enclosed terminal area due to carbon monoxide risks.
-- Do not drink non-potable water from restroom sinks unless it is explicitly marked as safe for drinking.
+- Don’t assume there’s a single nationwide “ferry delay rights” rule—assistance/refunds are usually set by the operator (and sometimes state/local rules).
+- Don’t wait until you’re nearly out of water or your phone is at 1% to act—move early.
+- Don’t leave a staging line or restricted area unless staff confirm it’s allowed and you won’t lose your spot or be marked “no-show.”
+- Don’t miss announcements while distracted—set one person to listen for updates if you’re in a group.
+- Don’t post screenshots that reveal barcodes/QR codes, booking numbers, or payment details.
 
 ## What to do now
-1. **Check for acute medical distress immediately.** 
-   **If anyone in your party is experiencing confusion, fainting, chest pain, or has stopped sweating despite the heat, notify crew or terminal staff instantly.**
-   - If staff are unavailable and the situation is life-threatening, call **911**.
-   - If on board a vessel and crew are not responding to pages, use a VHF radio on **Channel 16** to hail the Coast Guard.
+1. **Rule out a medical emergency first.**  
+   If anyone has chest pain, severe trouble breathing, confusion, fainting, or signs of serious dehydration/heat illness: **notify staff/crew immediately**. If you cannot get staff quickly and it’s urgent, call **911**.
 
-2. **Secure a primary water source before the queue moves.**
-   **Ask a terminal agent or crew member for the nearest "potable water" station or if the operator is providing emergency water due to the delay.**
-   - If you have a medical condition (e.g., diabetes, pregnancy) or a small child, state this clearly to request priority access to supplies.
-   - If vendors are open, purchase more water than you think you need for a 4-hour window.
+2. **Get one reliable update and the “rules of the wait.”**  
+   Ask a terminal agent/crew member:  
+   - “What’s the best estimate for departure?”  
+   - “Are we allowed to leave vehicles / re-enter the terminal?”  
+   - “Where are toilets, water, and charging?”  
+   If you have a medical condition, small child, or accessibility need, say so plainly.
 
-3. **Transition your phone to "Crisis Power" mode.**
-   **Enable Low Power Mode, reduce brightness to the lowest readable level, and turn off Bluetooth and Personal Hotspot.**
-   - Screenshot your reservation number, barcode, and the ferry's "Service Alerts" webpage.
-   - Power off the phone entirely for 50 minutes of every hour, turning it on only for 10-minute "info windows" to check for departure updates.
+3. **Secure drinking water first.**  
+   - If vendors are open: buy water before anything else.  
+   - If vendors are closed, you’re confined, or lines are unmanageable: **ask staff/crew if drinking water is available** (especially for kids/older adults/pregnancy/diabetes or anyone feeling faint).  
+   - If you must ration: small sips regularly; avoid salty snacks without enough water.
 
-4. **Confirm your "No-Show" protection with an agent.**
-   **Ask the staff: "Will my reservation be marked as a 'no-show' or will I be charged a penalty because of this delay?"**
-   - Ensure the agent manually updates your status to "Service Disruption" or "Delayed by Operator" if the system doesn't do it automatically.
-   - If you must leave the line for safety/health reasons, get the name of the staff member who authorized your departure.
+4. **Make your phone last (do this immediately).**  
+   - Enable **Low Power Mode**, reduce brightness, stop streaming, close battery-heavy apps.  
+   - Use **Airplane Mode** and reconnect briefly on a schedule (e.g., every 30–60 minutes) to check official updates.  
+   - Screenshot/save: ticket/QR code, reservation number, and the operator’s customer-service contact.
 
-5. **Locate the "Rules of the Wait."**
-   **Ask staff specifically where the boundary is for leaving and re-entering the terminal or vehicle.**
-   - Identify the exact location of the nearest toilets and whether there is a designated "cooling center" or shaded area if you are outside.
+5. **Pull up the operator’s official status channel and pin it.**  
+   Find the ferry operator’s **service alerts / live status** page (or app). Bookmark it so you’re not searching repeatedly on low battery. If you have no signal, ask staff where updates are posted in the terminal.
 
-6. **Gather evidence for later reimbursement.**
-   **Take a photo of any digital or physical "Delayed" or "Canceled" signs at the terminal.**
-   - Keep any receipts for water, food, or emergency charging supplies purchased during the delay period.
+6. **Create a simple “ration + check-in” plan to reduce panic.**  
+   Decide: water/snack timing, and fixed times to check updates. This prevents stress-scrolling from draining battery and attention.
+
+7. **Locate the operator’s rebook/refund pathway while you still have power.**  
+   Find (or ask staff for) the operator’s **refund request** or **rebooking** instructions (often an online form or customer service line). Take screenshots of the key steps and any posted notices about today’s disruption.
+
+8. **If staying is no longer safe or realistic, ask the “leave without losing everything” question.**  
+   Say: “We need to leave for food/water/medical reasons—what do we need to do so we can **rebook** or request a **refund** correctly?”  
+   Ask if you should be marked as “missed sailing,” moved to standby, or issued a specific rebooking code.
+
+9. **Keep a minimal record for later.**  
+   Note scheduled departure time, when the delay was announced, and any instructions given. A photo of posted alerts/signage can help if you need to follow the operator’s refund process later.
 
 ## What can wait
-- You do **not** need to file a formal refund claim while still in the terminal; most operators (like WSF or Steamship Authority) allow 30 days to submit a claim.
-- You do **not** need to find a hotel for the night until the operator provides a "Final Cancellation" notice for the day.
-- You do **not** need to respond to non-emergency messages; save your battery for official alerts and emergency calls.
+- You do **not** need to decide right now whether you’ll argue for compensation—stabilise water, power, and safety first.
+- You do **not** need to keep your phone online continuously; timed check-ins are enough.
+- You do **not** need to solve onward travel until you have a realistic departure estimate (unless health/safety requires leaving).
 
 ## Important reassurance
-Terminal and vessel crews are trained to manage these disruptions. Once you have water and your booking status is protected from "no-show" fees, the most dangerous elements of the delay—dehydration and financial loss—are largely mitigated. It is normal to feel frustrated or anxious when communication is slow.
+Long waits feel worse when basic needs (water, power, information) are slipping. Once you secure water, save battery, and get one clear instruction set from staff, the situation usually becomes far more manageable.
 
 ## Scope note
-This guide covers first-step stabilization for a transport delay. It does not cover long-term maritime law, insurance litigation, or mechanical troubleshooting of vehicles.
+These are immediate first steps for the waiting period. Disputes, insurance, and detailed reroutes are later tasks once you’re stable and have the key facts saved.
 
 ## Important note
-This information is for situational stabilization and does not constitute legal or medical advice. For health emergencies, call 911 or alert on-site emergency personnel. Ferry refund and rebooking policies vary by state and private operator; always consult your specific ticket contract for binding terms.
+This is general information, not medical or legal advice. For urgent health or safety concerns, get help from terminal staff/crew or call 911.
 
 ## Additional Resources
-- https://wsdot.wa.gov/travel/washington-state-ferries
-- https://wsdot.wa.gov/ferries/schedule/bulletin.aspx
-- https://wsdot.wa.gov/travel/sign-wsdot-travel-alerts
-- https://www.fema.gov/node/what-should-i-bring-me-when-i-evacuate-my-home-or-during-disaster
-- https://www.fema.gov/media-library/assets/documents/90354
+- https://www.fmc.gov/licensing-and-certification/passenger-vessel-operators/
+- https://www.federalregister.gov/documents/2022/03/17/2022-05568/passenger-vessel-financial-responsibility
+- https://www.ecfr.gov/current/title-46/chapter-IV/subchapter-B/part-540
+- https://wsdot.wa.gov/travel/washington-state-ferries/tickets/refunds

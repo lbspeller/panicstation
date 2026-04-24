@@ -1,87 +1,79 @@
----
+﻿---
 title: "What to do if… you smell petrol or fuel around your vehicle while it is parked"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "smell of petrol parked car"
-  - "fuel smell around vehicle"
-  - "petrol fumes outside car"
-  - "petrol smell in garage"
-  - "car smells of fuel when off"
-  - "fuel leak while parked"
-  - "diesel smell near car"
-  - "strong petrol odour by car"
-  - "petrol smell after refuelling"
-  - "fuel cap smell petrol"
-  - "petrol smell near wheels"
-  - "puddle under car smells petrol"
-  - "parked car fuel vapour"
-  - "petrol odour driveway"
-  - "fuel smell in enclosed parking"
-  - "fuel smell near boot area"
-  - "petrol smell near engine bay"
-  - "smell of fuel by fuel door"
-  - "what do i do if i smell petrol"
-  - "what do i do if my car leaks fuel"
-  - "what do i do if there is a petrol puddle"
-  - "what do i do if fuel fumes are strong"
-  - "help i smell petrol near my car"
-  - "help i have a fuel leak"
-  - "help my car is dripping petrol"
-  - "help my garage smells of fuel"
-  - "rainbow puddle under car"
-  - "damp patch near fuel tank"
-  - "strong chemical smell near car"
-  - "fuel vapour hazard"
-  - "petrol smell driveway"
-  - "gasoline smell car UK"
-  - "diesel leak parked car"
-last_reviewed: "2026-03-17"
+  - smell of petrol parked car
+  - fuel smell around vehicle
+  - petrol fumes outside car
+  - petrol smell in garage
+  - car smells of fuel when off
+  - fuel leak while parked
+  - diesel smell near car
+  - strong petrol odour by car
+  - petrol smell after refuelling
+  - fuel cap smell petrol
+  - petrol smell near wheels
+  - puddle under car smells petrol
+  - parked car fuel vapour
+  - petrol odour driveway
+  - fuel smell in enclosed parking
+  - fuel smell near boot area
+  - petrol smell near engine bay
+  - smell of fuel by fuel door
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… you smell petrol or fuel around your vehicle while it is parked (UK)
 
 ## Short answer
-Assume a fuel leak is present and **do not start the engine**, as this creates an immediate fire risk. Move all people away from the fumes and contact a breakdown recovery service or a mobile mechanic for a professional inspection.
+Assume a possible fuel leak: **don’t start the vehicle**, move people away from fumes, and arrange **breakdown recovery or a mechanic**. If there’s **visible pooling/dripping**, the smell is **worsening**, it’s in an **enclosed/attached garage**, or anyone feels unwell, **call 999** and get to fresh air.
 
 ## Do not do these things
-- Do not start the engine or turn the ignition key, even to move the car a short distance.
-- Do not smoke, vape, or use lighters or matches anywhere near the vehicle.
-- Do not use electrical devices, including mobile phones, within the immediate vapor zone (approximately 4.5 metres).
-- Do not operate light switches or electric garage door openers if the vehicle is in an enclosed space.
-- Do not attempt to "test" the leak by touching the fluid or using a flashlight that is not intrinsically safe.
-- Do not enter the vehicle to retrieve items if the interior smells strongly of fuel.
+- Do not start the engine “just to move it a bit” if you can smell fuel.
+- Do not smoke, vape, or use naked flames anywhere near the vehicle.
+- Do not use jump leads, chargers, power tools, or anything that could spark close to the fumes.
+- Do not stay in a garage/underground car park breathing fumes.
+- Do not try to “patch” a fuel line or tank yourself while fumes are present.
 
 ## What to do now
-1. **Evacuate the immediate area and create a safety buffer.** Move yourself, other passengers, and pets at least 5 to 10 metres away from the vehicle, staying upwind if possible to avoid breathing vapors.
-2. **Eliminate all potential ignition sources within the vicinity.** Ensure nobody is smoking nearby and avoid using any power tools or electrical equipment in the area.
-3. **Ventilate the area only if the vehicle is in a garage and you can do so safely from the outside.** Open the main garage door to allow fumes to disperse, but do not enter a fume-filled room to do this.
-4. **Perform a visual check from a distance without bending down into the vapor cloud.** Look for liquid pooling on the ground, a "rainbow" sheen on wet pavement, or damp patches on the vehicle's underbody or near the wheel arches.
-5. **Call 999 immediately if specific high-risk triggers are met.** Seek emergency assistance if you see fuel actively dripping or flowing, if the smell is getting stronger, or if the vehicle is in an enclosed space attached to a residence.
-6. **Arrange for professional recovery or a mobile mechanical inspection.** Contact your breakdown provider and explicitly state that you suspect a fuel leak so they can send an appropriately equipped recovery vehicle.
-7. **Report fuel spills on public roads to the appropriate authorities once you are safe.** 
-   - Call the police on 101 for small spills on public highways that could cause a skid hazard.
-   - For major spills on motorways or A-roads in England, contact National Highways on 0300 123 5000.
-8. **Contact environmental regulators if fuel is entering drains or watercourses.**
-   - In England, Scotland, or Northern Ireland, call the Environment Agency incident hotline on 0800 80 70 60.
-   - In Wales, call Natural Resources Wales on 0300 065 3000.
+1. **Create a safer buffer.** Move yourself and others several metres away (more if the smell is strong). Keep children and pets well back.
+2. **Reduce ignition risk and get fresh air.**
+   - No smoking/flames.
+   - If the vehicle is in a **garage or enclosed parking**, leave that space and, **if it’s safe**, ventilate by opening the main door/exit to disperse fumes (avoid fiddling with electrics right next to strong fumes).
+   - If it’s an **attached garage** and fumes are strong, consider stepping outside the house with everyone and **call 999**.
+3. **Do a quick, low-risk check from standing height.**
+   - Look for a **fresh puddle** under the vehicle or a damp trail.
+   - Notice where the smell is strongest: **fuel filler cap area**, **rear/underbody**, or **engine bay**.
+4. **If you have just refuelled and it feels safe to approach:** check the **petrol cap is properly seated/closed** and step back. If the smell remains strong or you see liquid fuel, stop and move away again.
+5. **Do not drive it. Arrange help instead.**
+   - Use your breakdown provider for **recovery** (tell them you suspect a fuel leak).
+   - Or arrange a **tow to a garage** / **mobile mechanic**. Keep the car parked until assessed.
+6. **Escalate if it feels unsafe.** Call **999** if you see dripping/flowing fuel, smell is strong or increasing (especially indoors), or anyone feels dizzy/headachy/nauseous.
+7. **If fuel has spilled onto a public road or is creating a hazard:**
+   - If there’s **immediate danger**, call **999**.
+   - Otherwise, report a **road spillage** to the relevant highway authority (for motorways and many major A roads in England, this is **National Highways**; other roads are usually the **local highway authority/council**).
+8. **If fuel is getting into a drain, river, or soil (or you’re not sure):**
+   - In England, report pollution incidents to the **Environment Agency incident hotline: 0800 80 70 60 (24-hour)**.
+   - (In other UK nations, environmental regulators differ; if you’re unsure and it’s urgent, default to **999** for immediate risk.)
 
 ## What can wait
-- You do not need to identify the specific component (fuel line, tank, or injector) that is failing.
-- You do not need to clean up the spill yourself; professional responders have the correct materials to neutralize fuel.
-- You do not need to decide on a permanent repair garage until the vehicle has been safely recovered.
+- You do not need to diagnose the exact part that’s leaking right now.
+- You do not need to decide on repairs, costs, or where to get it fixed until the vehicle is safe and assessed.
+- You do not need to clean up a significant spill yourself—prioritise safety and the right responders.
 
 ## Important reassurance
-It is normal to feel anxious when smelling fuel, as the scent is chemically designed to be noticeable and alerting. Taking the precaution of not starting the car is the most effective way to prevent a minor leak from becoming a fire incident.
+Fuel odour can sometimes be from something simple (like a cap not sealed after refuelling), but it can also signal a real leak. The safest first move is the same either way: **don’t start the car** and get it checked.
 
 ## Scope note
-This guide provides first-step stabilization for a stationary vehicle fuel leak. It does not cover technical repairs, fuel system diagnostics, or incidents involving electric vehicle battery fires.
+This is first-steps guidance to reduce fire risk and prevent a bad first action. A mechanic or recovery service may need to inspect the fuel system before the vehicle is used again.
 
 ## Important note
-This information is for safety guidance only and does not replace the judgment of emergency services or certified mechanics. If you suspect an immediate threat to life or property, always dial 999.
+This is general safety information, not a substitute for professional assessment. If you think there is immediate danger, treat it as an emergency and contact the emergency services.
 
 ## Additional Resources
+- https://www.gov.uk/report-road-spillage
+- https://report.nationalhighways.co.uk/
+- https://www.gov.uk/report-environmental-problem
 - https://www.theaa.com/breakdown-cover/advice/car-smells-of-petrol
-- https://www.gov.uk/government/publications/petrol-hydrocarbon-chemical-incident-information/petrol-general-information
 - https://www.rac.co.uk/drive/advice/know-how/car-leaking-how-to-identify-liquid-dripping-from-your-car-and-what-to-do/
-- https://www.rac.co.uk/drive/advice/car-maintenance/car-smells-guide-causes-and-solutions/
-- https://www.london-fire.gov.uk/about-us/services-and-facilities/services-we-offer/petroleum-enforcing-authority-pea/

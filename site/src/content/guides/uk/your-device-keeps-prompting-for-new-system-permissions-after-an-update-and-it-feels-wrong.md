@@ -1,100 +1,95 @@
----
+﻿---
 title: "What to do if… your device keeps prompting for new system permissions after an update and it feels wrong"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "unexpected certificate warning"
-  - "unknown certificate installed"
-  - "untrusted certificate alert"
-  - "certificate authority installed"
-  - "profile installed unexpectedly"
-  - "configuration profile appeared"
-  - "unknown device management profile"
-  - "vpn profile installed"
-  - "mdm profile you didnt install"
-  - "ios profile warning"
-  - "iphone certificate trust settings"
-  - "android user certificate warning"
-  - "encryption and credentials certificates"
-  - "possible man-in-the-middle"
-  - "intercepted wifi security alert"
-  - "device compromise suspicion"
-  - "phishing profile install prompt"
-  - "work or school profile on personal phone"
-  - "certificate installed without permission"
-  - "help i have an unknown profile on my iphone"
-  - "what do i do if my phone says a certificate was installed"
-  - "help i saw a profile warning on my ipad"
-  - "what do i do if i see an unknown root certificate"
-  - "my device has a management profile i dont recognize"
-  - "warning certificate installed unexpectedly"
-  - "iphone warning profile installed"
-  - "android warning certificate credentials"
-  - "ios vpn and device management alert"
-  - "suspicious certificate authority alert"
-  - "unexpected mdm enrollment warning"
-last_reviewed: "2026-03-17"
+  - repeated permission popups
+  - system permissions after update
+  - permission prompts feel wrong
+  - app asking for camera access
+  - app asking for microphone access
+  - app asking for contacts access
+  - app asking for photos access
+  - app asking for location access
+  - unexpected privacy prompts
+  - android permission manager
+  - iphone privacy and security
+  - new permissions request loop
+  - possible malware on phone
+  - suspicious app behaviour
+  - update changed permissions
+  - prompts won’t stop
+  - device privacy panic
+  - app privacy report iphone
+  - permission fatigue
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your device keeps prompting for new system permissions after an update and it feels wrong (UK)
 
 ## Short answer
-Disconnect the device from all internet sources immediately to prevent data interception. Identify and remove the unauthorized profile or certificate through your device settings before accessing any sensitive accounts.
+Pause and deny anything you don’t clearly recognise or need right now. Then use your device’s privacy settings to revoke sensitive permissions (camera, mic, location, contacts, photos/files) from any app that seems connected to the prompts.
 
 ## Do not do these things
-- Do not tap “Allow,” “Trust,” or “Install” on any pop-up windows related to the warning.
-- Do not log in to banking apps, email, or password managers while the warning is active.
-- Do not delete personal files, photos, or messages in an attempt to fix the issue.
-- Do not assume the certificate is safe because it uses a name like "Apple Support" or "Google Security."
-- Do not perform a factory reset until you have attempted manual removal or consulted IT, as a reset may erase evidence of the source.
+- Don’t keep tapping “Allow” just to make the prompts stop.
+- Don’t install a random “permission manager”, “cleaner”, or “security” app to fix it.
+- Don’t sign in to your bank, email, or password manager until you’ve stabilised what’s happening.
+- Don’t click links from pop-ups or messages that claim your device is “infected” or needs “urgent verification”.
+- Don’t factory reset in a panic until you’ve noted what you need to keep and you’ve tried safer containment steps first.
 
 ## What to do now
-1. **Isolate the device from the network.**
-   **Enable Airplane Mode immediately and ensure both Wi-Fi and Bluetooth are switched off.** If you are using an Ethernet connection, unplug the cable.
-2. **Locate the profile on iPhone or iPad.**
-   **Navigate to Settings → General → VPN & Device Management (or Profiles & Device Management on older versions).**
-   - **Review the list under "Configuration Profiles" or "Mobile Device Management."**
-   - **If an unknown entry exists, tap it, take a screenshot of the details, and select "Remove Profile" or "Delete Profile."**
-   - **Restart your device immediately after removal.**
-3. **Check for root certificate trust on iOS.**
-   **Navigate to Settings → General → About → Certificate Trust Settings.**
-   - **Check the section "Enable full trust for root certificates."**
-   - **If any toggles are switched on for certificates you do not recognize, they must be disabled.** Note that removing the associated profile in Step 2 usually removes these entries.
-4. **Remove user certificates on Android.**
-   **Navigate to Settings → Security & privacy → More security settings → Encryption & credentials.**
-   - **Tap "User credentials" to view certificates installed by apps or users.**
-   - **Select any suspicious certificate and choose "Remove" or "Uninstall."**
-   - **If you are unsure which is causing the issue, tap "Clear credentials" to remove all user-installed certificates.**
-5. **Handle managed or supervised devices.**
-   **Check if the device states it is "Supervised" or "Managed by [Organization]" at the top of the Settings menu.**
-   - **If this is a work or school device, do not attempt further manual fixes.**
-   - **Contact your organization's IT helpdesk and report that an unexpected certificate or management profile has appeared.**
-6. **Secure your primary accounts from a different device.**
-   **Use a known-secure computer or phone to change the passwords for your email, Apple Account, or Google Account.**
-   - **Check for any new "Trusted Devices" or "Logged-in Sessions" that you do not recognize and remove them.**
-   - **Ensure two-factor authentication (2FA) is active on your most sensitive accounts.**
-7. **Report the incident if you suspect a scam or data theft.**
-   **Contact the appropriate UK reporting body based on your location and the nature of the incident.**
-   - **In England, Wales, or Northern Ireland, report to the "Report Fraud" service (formerly Action Fraud) via their website or by calling 0300 123 2040.**
-   - **In Scotland, report to Police Scotland by calling 101.**
-   - **If this is a business-related incident, report it to the National Cyber Security Centre (NCSC) via their official reporting portal.**
+1. **Stop risky activity for a few minutes.**  
+   Put the device down briefly. Avoid logging in, paying, or entering passwords until you’ve reviewed what’s asking for access.
+
+2. **Deny/close the prompt unless you are completely sure it’s expected.**  
+   If the prompt names an app you don’t recognise, choose **Don’t allow**. If it keeps returning, treat that as a signal to investigate, not to comply.
+
+3. **Identify what is asking (this is the key step).**  
+   - **iPhone/iPad:** **Settings → Privacy & Security** and review which apps have access to **Microphone, Camera, Location Services, Contacts, Photos, Bluetooth, Local Network**. If available, turn on and review **App Privacy Report**.  
+   - **Android:** **Settings → Security & privacy (or Privacy) → Permission manager** and check each sensitive permission type (camera, mic, location, contacts, files/photos) to see which apps currently have access.
+
+4. **Remove the highest-risk permissions first (containment).**  
+   For any app you don’t fully trust (or don’t use), set sensitive permissions to **Don’t allow** / **Never** / **While using only** (if available). Prioritise: **Microphone, Camera, Location, Contacts, Photos/Files**.
+
+5. **Find the likely “trigger” app and disable it temporarily.**  
+   If the prompts appear when you open a particular app, **force close** it and **turn off its notifications**. If you can’t tie it to any one app, review **recently installed** and **recently updated** apps first.
+
+6. **Update and remove apps safely.**  
+   Update apps only through the official app store. Uninstall anything you don’t recognise, don’t need, or that has a confusing “lookalike” name/icon.
+
+7. **If you suspect compromise, secure your most important account from a different device.**  
+   Use a trusted computer/phone to change the password for your **primary email** (because email controls password resets). Turn on two-step verification if you can do it calmly.
+
+8. **If money was taken or accounts were accessed, report it promptly.**  
+   - If you live in **England, Wales, or Northern Ireland**, report cyber crime and fraud to **Report Fraud** (the UK national reporting service).  
+   - If you live in **Scotland**, contact **Police Scotland on 101** (non-emergency) or use their online reporting options.
+
+9. **If this started with a suspicious message, report the message (without engaging with it).**  
+   - **Emails:** forward to **report@phishing.gov.uk**.  
+   - **Texts:** forward the message to **7726** (free) to report it to your mobile provider.  
+   If you clicked through to a website, you can also report scam websites to the UK’s national phishing reporting service.
 
 ## What can wait
-- You do not need to identify the exact "hacker" or origin of the link right now.
-- You do not need to replace the physical device unless it remains unstable after removal and a factory reset.
-- You do not need to notify every contact in your address book unless you have evidence that your accounts were used to send messages.
+- You do not need to decide today whether this was “definitely malware” or “just a normal update”.
+- You do not need to factory reset immediately unless you can’t regain control of permissions and behaviour.
+- You do not need to contact every service you use—start with your primary email and any account that shows unusual activity.
+- You do not need to diagnose the exact technical cause before you take simple containment steps (revoking permissions, removing suspicious apps).
 
 ## Important reassurance
-Seeing a certificate warning is a security feature working as intended; your device is alerting you to a change in how it handles data. By going offline and removing the unauthorized profile, you are taking the most effective steps to stop potential traffic interception before it causes harm.
+Feeling alarmed is reasonable: permission prompts are designed to interrupt you, and “permission fatigue” makes it easy to approve something you don’t really want. Denying first and reviewing access in settings is a safe, reversible way to regain control.
 
 ## Scope note
-This guide provides first-step stabilization for personal and work devices. It does not cover deep forensic analysis or the recovery of accounts that have already been fully compromised.
+These are first steps to stabilise the situation and prevent irreversible mistakes. If the behaviour continues after you revoke permissions and remove suspicious apps, you may need device-specific help (manufacturer support or a trusted repair shop) to check for deeper issues.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT or legal advice. Configuration profiles and certificates can provide deep access to device traffic; if a profile cannot be removed or repeatedly reappears, the device may require professional servicing or a full wipe and reinstall by a certified technician.
+This is general information, not legal, financial, or technical professional advice. If you have strong reason to think your device or accounts were compromised, prioritise protecting your primary email, banking, and important accounts, and use official reporting and support channels.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/collection/device-security-guidance/policies-and-settings/using-third-party-applications-on-devices
-- https://support.google.com/android/answer/9431959?hl=en-GB
-- https://support.google.com/android/answer/13530434?hl=en-GB
 - https://support.apple.com/en-gb/102188
-- https://support.apple.com/en-gb/guide/iphone/iph251e92810/ios
+- https://support.apple.com/guide/iphone/control-access-to-information-in-apps-iph251e92810/ios
+- https://support.google.com/android/answer/9431959?hl=en-GB
+- https://support.google.com/googleplay/answer/2812853?hl=en-GB
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.scotland.police.uk/advice/internet-safety/cybercrime/

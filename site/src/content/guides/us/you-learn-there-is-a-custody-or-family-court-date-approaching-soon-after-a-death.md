@@ -1,110 +1,90 @@
----
+﻿---
 title: "What to do if… you learn there is a custody or family court date approaching soon after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "custody hearing after death"
-  - "family court date after bereavement"
-  - "motion to continue custody hearing"
-  - "continuance request death in family"
-  - "upcoming custody court date"
-  - "court hearing during funeral week"
-  - "parent died during custody case"
-  - "emergency reschedule family court"
-  - "call court clerk continuance"
-  - "self help center continuance"
-  - "remote appearance request family court"
-  - "short notice hearing continuance"
-  - "self represented custody court"
-  - "notify other party continuance"
-  - "proof of bereavement for court"
-  - "what do i do if my court date is near a funeral"
-  - "what do i do if a family member died before court"
-  - "what do i do if i need to reschedule family court"
-  - "what do i do if i cannot attend custody hearing"
-  - "help i have court and a funeral"
-  - "help i missed my custody hearing due to death"
-  - "help i need a continuance for bereavement"
-  - "help i cannot prepare for court after death"
-  - "my parent died before my custody case"
-  - "my lawyer died before my court date"
-  - "my ex died during custody case"
-  - "notice of hearing death notice"
-  - "ex parte application for continuance"
-  - "good cause for family court delay"
-  - "funeral travel court continuance"
-  - "court date after sibling death"
-  - "court date after child death"
-  - "death certificate for court continuance"
-  - "obituary for court evidence"
-  - "bereavement leave from court"
-  - "rescheduling custody trial"
-  - "postponing family court for death"
-  - "emergency motion for continuance"
-  - "request for order to continue"
-last_reviewed: "2026-03-16"
+  - custody hearing after death
+  - family court date after bereavement
+  - motion to continue custody hearing
+  - continuance request death in family
+  - upcoming custody court date
+  - court hearing during funeral week
+  - parent died during custody case
+  - emergency reschedule family court
+  - call court clerk continuance
+  - self help center continuance
+  - remote appearance request family court
+  - short notice hearing continuance
+  - self represented custody court
+  - notify other party continuance
+  - proof of bereavement for court
+  - overwhelmed before family court
+  - temporary parenting schedule crisis
+  - missed custody hearing risk
+last_reviewed: "2026-03-02"
 ---
+
 # What to do if… you learn there is a custody or family court date approaching soon after a death (USA)
 
 ## Short answer
-Contact the court clerk or self-help center immediately to file an emergency (Ex Parte) motion for a continuance or remote appearance based on bereavement, then serve the other party with the request.
+Contact your courthouse today (clerk’s office and/or the court’s self-help center) to ask the fastest correct way to request a continuance or remote appearance due to bereavement — then follow that court’s filing and notice steps immediately.
 
 ## Do not do these things
-- Don’t assume the court already knows about the death or will cancel the hearing automatically.
-- Don’t skip the hearing without a signed order from the judge confirming the date has moved; a "no-show" can result in default orders against you.
-- Don’t rely on a verbal agreement from the other parent; the judge must formally approve any change to the court calendar.
-- Don’t provide unnecessary medical or private details beyond "death in the immediate family" and the specific conflict (e.g., travel for funeral).
-- Don’t agree to permanent changes in legal or physical custody while in the immediate window of bereavement.
+- Don’t assume the hearing will be continued automatically because there’s been a death.
+- Don’t skip the hearing without learning what the judge decided; orders can be made if you don’t appear.
+- Don’t send long or angry messages to the other parent; keep everything short, factual, and about scheduling.
+- Don’t agree to major custody changes “just to make this go away” while you’re in shock.
+- Don’t overshare private details; “death in my immediate family” is usually enough for the initial request.
 
 ## What to do now
-1. **Identify the specific hearing details immediately.**  
-   **Locate the Case Number, the name of the assigned Judge or Department, and the exact time of the hearing.**  
-   - Check if the hearing is an "Initial/Status Conference" (usually easier to move) or a "Trial/Evidentiary Hearing" (requires higher "good cause").
+1. **Pull the basics into one note (10 minutes).**  
+   Case number, courthouse location, department/judge (if listed), hearing date/time, and whether it’s in-person or remote. Keep the notice handy.
 
-2. **Access the court’s website for "Ex Parte" or "Emergency" instructions.**  
-   **Search the local court site for "Ex Parte Application," "Motion for Continuance," or "Request to Postpone Hearing."**  
-   - Look for specific 2026 local forms, such as a "Request to Continue Hearing" (e.g., Form FL-306 in California or similar state-specific templates).
-   - Check if the court allows e-filing or requires you to email the clerk directly for emergency requests.
+2. **Use the court’s website first, then call if needed.**  
+   On your court’s website, look for: “Family Law,” “Self-Help,” “Help Center,” “Family Law Facilitator,” “Remote Appearance,” and “Continuance / Continue / Reschedule.” Many courts post the exact form name and how to file (e-file, portal, email, in-person).  
+   If it’s not clear, call the clerk or self-help center and ask:  
+   “I have a custody/family law hearing on [date]. There was a death in my immediate family. What is the correct way to request a continuance or remote appearance in this court, and what do I need to file and serve?”
 
-3. **Contact the Clerk of the Court or the Family Law Self-Help Center.**  
-   **Call the courthouse and ask: "I have a hearing on [date] but there has been a death in my immediate family; what is the specific local procedure for an emergency continuance?"**  
-   - Ask if you can appear via Zoom or telephone if a continuance is denied.
-   - Ask for the "filing deadline" for emergency motions (some courts require notice by 10:00 AM the day before).
+3. **Make the request in the format *your* court requires (keep it short).**  
+   In many places this is called a **Motion for Continuance** or **Request to Continue/Reschedule**. Some courts require a written motion; some may decide the request only when your case is called.  
+   Your request should usually include:
+   - case caption/case number and the hearing date
+   - “death in the immediate family” and the impact (funeral arrangements/travel, inability to prepare)
+   - what you are asking for: a short continuance **or** permission to appear remotely
+   - any realistic confirmation you can provide now **or** a sentence stating you can provide documentation when available
 
-4. **Draft and file a formal "Motion for Continuance" (or Request to Postpone).**  
-   **Submit a written request stating that "good cause" exists due to immediate bereavement, funeral arrangements, or travel requirements.**  
-   - Attach a copy of the obituary or a funeral program if available; state that a death certificate can be provided later if required.
-   - Explicitly state whether the other party agrees or disagrees with the request (call or email them/their attorney first to ask).
+4. **Notify the other party (or their attorney) right away, and keep proof.**  
+   Example: “A death occurred in my immediate family. Today I requested a continuance/remote appearance for the [date] hearing. I’ll update you as soon as the court responds.”  
+   If attorneys are involved, communicate attorney-to-attorney if possible.
 
-5. **Serve the other party and file "Proof of Service."**  
-   **Deliver a copy of your request to the other parent or their attorney using the court’s approved method (email, fax, or personal delivery).**  
-   - You must file a "Proof of Service" form with the court to prove the other side was notified, or the judge may refuse to read your request.
+5. **Ask for agreement if that’s allowed in your court (it can speed things up).**  
+   Some courts accept a stipulated/agreed continuance request (still subject to the judge). If you can do this safely, ask the other side (or their attorney) whether they will agree to a continuance or remote appearance.
 
-6. **Confirm the judge’s ruling before the hearing time.**  
-   **Check the "Tentative Rulings" on the court website or call the clerk to see if the order was signed.**  
-   - If you do not have a signed order by the morning of the hearing, you must attend (personally or remotely) to make the request in front of the judge.
+6. **Have a fallback plan if the judge won’t move the date in time.**  
+   - If you can’t attend in person, request **remote appearance** and ask for the access instructions.  
+   - Prepare a short statement to read: the bereavement, what you’re asking for, and what you can realistically do right now.  
+   - If you must attend, arrive early, bring the notice, and be ready to renew the request at the start.
 
-7. **Request a "Remote Appearance" as a secondary option.**  
-   **If the court denies the delay, immediately file a "Request for Remote Appearance" so you can participate from your current location.**  
-   - Ensure you have the meeting ID or call-in number at least two hours before the start time.
+7. **If the death affects the child’s immediate care situation, say that clearly and ask for “minimum stability” orders.**  
+   If the person who died was a caregiver/household adult or the death disrupts the child’s day-to-day care, explain the short-term impact and ask the court for the minimum temporary direction needed until everyone can participate fully.
 
 ## What can wait
-- You do not need to finalize your long-term legal strategy or evidence list while dealing with immediate funeral logistics.
-- You do not need to respond to non-emergency discovery requests or "demands for information" from the other side until the continuance is decided.
-- You do not need to attend mediation or settlement conferences if the court grants the stay.
+- You do **not** need to decide long-term custody outcomes while you’re in acute grief.
+- You do **not** need to draft perfect paperwork today; you need a correct request and proof you acted promptly.
+- You can postpone detailed negotiations, longer declarations, and bigger proposals until the court sets a new schedule or gives directions.
 
 ## Important reassurance
-Courts deal with family emergencies regularly, and bereavement is a standard "good cause" for a short delay. While the procedural steps feel heavy, the court’s primary goal is a fair hearing where both sides can participate. Taking these physical filing steps now protects your legal rights while you handle your family’s needs.
+When grief collides with a court date, panic is a normal response. The stabilizing steps are practical: contact the court, make the correct continuance/remote request for your courthouse, notify the other side, and avoid irreversible decisions while you’re overwhelmed.
 
 ## Scope note
-This guide covers first-step stabilization for immediate scheduling conflicts in family court. It does not cover the legal merits of your custody case or the probate process for the deceased.
+This is first-steps-only guidance for the immediate days around a hearing date. Ongoing strategy and final custody orders may require a licensed family law attorney in your state.
 
 ## Important note
-This is not legal advice. Rules for "continuances" and "ex parte" motions vary significantly by county and state. Always follow the specific local rules posted on your courthouse website or provided by the clerk of the court.
+This is general information, not legal advice. Continuance and remote appearance rules vary widely by state, county, and judge. Follow the instructions on your hearing notice and your court’s website, and confirm with the clerk or self-help center what you must file and how you must notify the other party.
 
 ## Additional Resources
-- https://www.lawhelpny.org/resource/standby-guardianship-form
-- https://www.lawhelpny.org/resource/designation-standby-guardian-sbg
-- https://texaslawhelp.org/guide/i-need-a-custody-order-i-am-not-the-childs-parent-sapcr
-- https://texaslawhelp.org/guide/i-need-to-give-a-nonparent-permission-to-care-for-my-child
-- https://www.childwelfare.gov/resources/kinship-care-and-child-welfare-system/
+- https://www.law.cornell.edu/wex/continuance
+- https://texaslawhelp.org/guide/i-need-a-continuance
+- https://texaslawhelp.org/article/how-to-ask-for-a-continuance
+- https://selfhelp.courts.ca.gov/remote-court-hearings
+- https://courts.ca.gov/cms/rules/index/five/rule5_95

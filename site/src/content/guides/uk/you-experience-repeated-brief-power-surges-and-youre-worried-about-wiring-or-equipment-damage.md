@@ -1,85 +1,74 @@
----
+﻿---
 title: "What to do if… you experience repeated brief power surges and you’re worried about wiring or equipment damage"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "repeated power surges"
-  - "brief power surges"
-  - "lights flickering repeatedly"
-  - "power keeps spiking"
-  - "voltage spikes at home"
-  - "appliances resetting"
-  - "router keeps rebooting"
-  - "tv keeps turning off"
-  - "worried about wiring damage"
-  - "worried about equipment damage"
-  - "consumer unit concern"
-  - "plug sockets acting strange"
-  - "power fluctuations in house"
-  - "surges after power cut"
-  - "crackling from socket"
-  - "burning smell near electrics"
-  - "surge protector stopped working"
-  - "power problems only my home"
-  - "power problems whole street"
-  - "help i have power surges"
-  - "help i have flickering lights"
-  - "what do i do if my lights flicker"
-  - "what do i do if power spikes"
-  - "my appliances are resetting"
-  - "my lights are getting too bright"
-  - "burning plastic smell at home"
-  - "buzzing noise from consumer unit"
-  - "electricity feels unsafe"
-  - "voltage dropping and rising"
-  - "flickering lights in flat"
-  - "power surge help uk"
-last_reviewed: "2026-03-17"
+  - repeated power surges
+  - brief power surges
+  - lights flickering repeatedly
+  - power keeps spiking
+  - voltage spikes at home
+  - appliances resetting
+  - router keeps rebooting
+  - tv keeps turning off
+  - worried about wiring damage
+  - worried about equipment damage
+  - consumer unit concern
+  - plug sockets acting strange
+  - power fluctuations in house
+  - surges after power cut
+  - crackling from socket
+  - burning smell near electrics
+  - surge protector stopped working
+  - power problems only my home
+  - power problems whole street
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… you experience repeated brief power surges and you’re worried about wiring or equipment damage (UK)
 
 ## Short answer
-Unplug all sensitive electronics immediately to prevent damage and reduce the electrical load on your circuits. If you notice any burning smells, crackling sounds, or if lights are becoming excessively bright, turn off the electricity at the main switch in your consumer unit and call 105.
+Treat repeated surges as a safety signal: unplug sensitive electronics and reduce electrical load, and be ready to turn the power off at the consumer unit if anything smells hot, crackles, sparks, or shows scorch marks.
 
 ## Do not do these things
-- Do not keep turning appliances back on to see if the problem has stopped.
-- Do not touch any electrical equipment that is smoking, sparking, or hot to the touch.
-- Do not open the consumer unit or attempt to tighten any internal wiring yourself.
-- Do not ignore lights that are getting much brighter than usual, as this often indicates a dangerous neutral fault.
-- Do not use high-draw appliances such as kettles, electric showers, or tumble dryers until the supply is stable.
-- Do not assume a surge-protected power strip will protect equipment from a major grid-side fault.
+- Don’t keep “testing” appliances by turning them on and off during ongoing surges.
+- Don’t open your consumer unit or remove covers to “look inside”.
+- Don’t ignore warning signs like burning/plastic smells, buzzing/crackling at a socket, warmth, scorch marks, or smoke.
+- Don’t use damaged power strips/extension leads, or ones with a “protected”/status light that’s gone out.
+- Don’t run high-draw appliances (kettle, tumble dryer, oven, electric heater) while things are fluctuating.
+- Don’t assume it’s “definitely the grid” (or “definitely your wiring”) without checking—treat both as possible until you’ve confirmed.
 
 ## What to do now
-1. **Isolate the most expensive or sensitive devices immediately.** Unplug computers, televisions, games consoles, routers, and charging devices from the wall sockets.
-   - Simply switching the socket off is often insufficient; physical removal of the plug is required to prevent arcing damage.
-2. **Check for signs of a high-risk electrical emergency.** Scan the property for the smell of burning plastic (fishy smell), visible smoke, or buzzing sounds from the consumer unit.
-   - If any of these are present, **turn off the main switch at your consumer unit immediately** if it is safe to reach.
-3. **Determine if the issue is internal or external.** Look at neighbouring properties or street lighting to see if they are also flickering or experiencing power loss.
-   - If neighbours are affected, the fault is likely on the National Grid distribution network.
-4. **Report the instability to the network operator by calling 105.** Inform them you are experiencing "voltage fluctuations" or "repeated surges" and state whether it is affecting your whole street or just your property.
-   - This number is free to call from landlines and mobiles across the UK.
-5. **Contact a registered electrician if the problem is limited to your home.** Use the **NICEIC or NAPIT find-a-tradesperson** tools to ensure the electrician is qualified to perform an Electrical Installation Condition Report (EICR).
-   - Ask them specifically to check for loose neutral connections at the consumer unit and meter tails.
-6. **Notify your landlord or property manager if you are a tenant.** State in writing that there are repeated voltage fluctuations and request an urgent inspection under the Electrical Safety Standards in the Private Rented Sector (England) Regulations.
-   - Ensure you receive a copy of any report generated by their electrician.
+1. **Scan for immediate danger first.** If you notice **smoke, sparks, a burning smell, crackling/buzzing, heat at a socket, or visible scorching**, switch off power at the **main switch in the consumer unit** if it’s safe to reach. If there’s fire or you can’t safely isolate power, **leave and call 999**.
+2. **Unplug and protect what’s most vulnerable.** Unplug (or switch off at the wall and then unplug) sensitive/valuable electronics: computers, TVs, consoles, routers, chargers, smart devices. Leave essential items only (e.g., fridge/freezer) unless they are behaving dangerously.
+3. **Reduce load to stabilise things.** Turn off non-essential appliances and avoid running high-power items. This reduces stress if the supply is fluctuating and lowers the chance of overheating at a weak connection.
+4. **Check whether it’s just your home or the wider area.** Look outside: are neighbours’ lights flickering too? If you’re in a block, see if communal corridor lights are affected. This helps you report it accurately.
+5. **Report supply-side problems to the network operator.**  
+   - If it feels **urgent/unsafe** (or you’re unsure), call **105** (free, 24/7) to reach your local electricity network operator.  
+   - If it seems **non-urgent** but persistent, contact your local Distribution Network Operator (DNO) using their website/phone options and report **“voltage fluctuations / flickering lights”** (many DNOs list this explicitly).
+6. **If it seems limited to your home, arrange a qualified electrician.** Choose an electrician **registered with a UK-approved scheme (e.g., NICEIC/NAPIT)** or otherwise clearly competent/insured. Ask them to check for: loose connections (especially at terminals), overheating accessories (sockets/switches), and earthing/bonding issues. They can also advise whether **surge protection** is appropriate for your installation.
+7. **If you rent, notify the landlord/agent promptly (in writing).** Describe it as **repeated voltage fluctuations/surges** and request an urgent electrical safety check. Don’t let anyone “patch” it informally.
+8. **Make a quick incident log.** Note date/time, what you saw (lights dim/bright, devices rebooting), what was running, and whether neighbours were affected. Take photos of any scorch marks or tripped devices (don’t touch damaged items).
 
 ## What can wait
-- You do not need to replace your consumer unit or install a Whole Home Surge Protection Device (SPD) until a professional has identified the cause of the current surges.
-- You do not need to contact your energy supplier (the company you pay bills to) as they do not manage the physical wires or voltage; the DNO handles this.
-- You can delay testing any appliances that were plugged in during the surges until a qualified person confirms the house wiring is safe.
+- You do not need to decide today whether to rewire the property or replace major appliances.
+- You do not need to buy new surge protectors immediately unless yours is clearly damaged or its protection indicator has failed.
+- You can wait on insurance questions until you know whether anything is actually damaged and you’ve stopped the surges.
 
 ## Important reassurance
-Electrical fluctuations are often caused by loose connections or network maintenance and are frequently resolved by the network operator once reported via 105. Taking the step to unplug your devices and isolate the power if you smell burning is the correct way to manage the risk. These systems are designed with protective measures to handle most common faults.
+Repeated brief surges are common enough to have straightforward next steps: protect equipment, reduce load, and get the right person (your DNO or a qualified electrician) to check the supply and your installation. You’re not overreacting by treating this as a safety issue—catching a loose/overheating connection early can prevent bigger damage.
 
 ## Scope note
-This guide provides first-step stabilization for electrical instability. It does not replace a professional inspection by a Distribution Network Operator (DNO) or a qualified electrician.
+This is first steps only, focused on safety and preventing avoidable damage. Identifying the exact cause (network supply issue vs. an internal wiring fault) usually needs the DNO and/or a qualified electrician.
 
 ## Important note
-This information is for guidance only. Electrical faults can be life-threatening. If you believe there is an immediate risk of fire or if you cannot safely turn off your power, evacuate the building and call 999.
+This is general information for a stressful situation, not a substitute for professional inspection. If you suspect an electrical fire risk (smell, heat, smoke, sparking), prioritise safety and emergency services.
 
 ## Additional Resources
-- https://planned.nationalgrid.co.uk/information-and-advice/what-to-do-during-a-power-cut
-- https://www.electricalsafetyfirst.org.uk/find-an-electrician/periodic-inspection-explained/guide-to-condition-reports/
-- https://www.electricalsafetyfirst.org.uk/guidance/your-questions-answered/questions/do-i-need-a-rewire/
-- https://www.electricalsafetyfirst.org.uk/find-an-electrician/
+- https://www.energynetworks.org/customers/power-cut
+- https://www.energynetworks.org/customers/find-my-network-operator
+- https://www.ukpowernetworks.co.uk/help-and-contact
+- https://www.spenergynetworks.co.uk/pages/i_have_low_high_or_intermittant_voltage_issues.aspx
 - https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/fire-safety/
+- https://niceic.com/find-a-tradesperson/
+- https://electrical.theiet.org/courses-resources-and-career-for-electrical-professionals/free-resources/consumer-guidance/surge-protective-devices/

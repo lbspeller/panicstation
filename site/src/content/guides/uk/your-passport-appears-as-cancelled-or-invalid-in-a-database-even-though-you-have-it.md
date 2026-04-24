@@ -1,102 +1,92 @@
----
+﻿---
 title: "What to do if… your passport appears as cancelled or invalid in a database even though you have it"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "passport shows cancelled"
-  - "passport shows invalid"
-  - "passport flagged in database"
-  - "airline says passport invalid"
-  - "denied boarding passport"
-  - "passport system error"
-  - "passport marked lost stolen"
-  - "passport cancelled by mistake"
-  - "passport cancelled in error"
-  - "british passport invalid status"
-  - "passport not recognised at check-in"
-  - "border says passport invalid"
-  - "travel document not valid"
-  - "passport record mismatch"
-  - "passport number not found"
-  - "passport chip scan failed"
-  - "passport status problem abroad"
-  - "urgent travel passport issue"
-  - "passport flagged stolen"
-  - "passport revocation confusion"
-  - "what do i do if my passport is cancelled"
-  - "what do i do if my passport is invalid"
-  - "what do i do if airline rejects passport"
-  - "what do i do if border force says passport cancelled"
-  - "help i have my passport but it says cancelled"
-  - "help i am stuck at the airport passport invalid"
-  - "help i am denied boarding passport error"
-  - "my passport is flagging lost or stolen"
-  - "interpol sltd database hit uk passport"
-  - "projected validity compliance error 2026"
-  - "unsigned uk passport invalid"
-  - "hmpo electronic cancellation error"
-  - "malicious lost report passport"
-  - "denied boarding documentation reasons"
-  - "passport record reinstatement uk"
-last_reviewed: "2026-03-17"
+  - passport shows cancelled
+  - passport shows invalid
+  - passport flagged in database
+  - airline says passport invalid
+  - denied boarding passport
+  - passport system error
+  - passport marked lost stolen
+  - passport cancelled by mistake
+  - passport cancelled in error
+  - british passport invalid status
+  - passport not recognised at check-in
+  - border says passport invalid
+  - travel document not valid
+  - passport record mismatch
+  - passport number not found
+  - passport chip scan failed
+  - passport status problem abroad
+  - urgent travel passport issue
+  - passport flagged stolen
+  - passport revocation confusion
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… your passport appears as cancelled or invalid in a database even though you have it (UK)
 
 ## Short answer
-Contact the HM Passport Office Adviceline immediately (0300 222 0000) to confirm your record status and request "reinstatement" if the cancellation was an administrative error or a malicious report.
+Treat this as a record-status problem: get the exact wording of what the airline/border system shows, then contact HM Passport Office to confirm your passport record and tell you the fastest valid next step.
 
 ## Do not do these things
-- Do not report the passport lost or stolen again to "clear" the system—this creates a second, permanent cancellation record.
-- Do not attempt to use the document at multiple gates or self-service kiosks once flagged; it may be physically seized by border authorities.
-- Do not pay for a standard renewal application until HMPO confirms the record cannot be fixed, as they may provide a "Gratis" (free) replacement for their own errors.
-- Do not sign or mark the passport in any way while waiting for a decision unless instructed to do so.
+- Do not report your passport lost or stolen “to reset things” — that can trigger cancellation and make travel harder.
+- Do not keep re-trying check-in hoping it will change — you need the exact system result and escalation.
+- Do not book non-refundable replacement travel or destroy the passport in panic.
+- Do not rely on third-party “passport check” sites/apps as proof (airlines/borders must follow official systems).
 
 ## What to do now
-1. **Request the specific error code or database name from the official rejecting the document.**
-   - Ask: "Is this a hit on the Interpol SLTD (Stolen and Lost Travel Document) database?"
-   - Ask: "Does the system say 'cancelled', 'reported lost', or 'invalid'?"
-   - Ask for a written "Notice of Denied Boarding" or a printout of the electronic rejection if possible.
+1. **Get the exact problem wording (and keep a clean note of it).**  
+   Ask the airline/border staff: *“Is it showing cancelled, reported lost/stolen, withdrawn, or a details mismatch?”* Note the time, location, flight, and the staff member’s name/ID if possible.  
+   If they’ll provide it, ask for a written note/printout. Only take a photo if staff explicitly say it’s allowed.
 
-2. **Check for physical invalidity triggers that often cause "invalid" database hits.**
-   - **Ensure the passport is signed in black ballpoint pen on the designated line.** An unsigned passport is technically invalid and can trigger system flags.
-   - **Verify the Machine Readable Zone (MRZ)**—the two lines of text at the bottom of the photo page—for any scratches or ink smudges that could lead to a "failed scan" interpreted as an invalid document.
+2. **Rule out simple mismatches immediately (this fixes more cases than you’d think).**  
+   Ask them to re-check:
+   - passport number (letters like O/0), name spelling, date of birth, nationality
+   - whether they scanned/read the passport MRZ correctly
+   - whether your booking name matches the passport exactly (including middle names)
 
-3. **Call the HM Passport Office Adviceline immediately.**
-   - Telephone: 0300 222 0000 (Inside UK)
-   - Telephone: +44 (0)300 222 0000 (Outside UK)
-   - Hours: Monday–Friday 8am–8pm; Weekends/Holidays 9am–5:30pm.
-   - **State clearly that you have the physical passport in your hand and the system shows it as cancelled in error.**
+3. **Contact HM Passport Office right away and say it may be cancelled/invalid in error.**  
+   Use the Passport Adviceline by phone, or the online enquiry form (webchat may be busy/unavailable at times). Tell them:
+   - you physically have the passport
+   - who is refusing it (airline/border)
+   - the exact wording shown
+   - your travel timing (especially if within days)
 
-4. **Request a "Malicious Report Investigation" if you did not cancel the document.**
-   - If someone else reported your passport lost/stolen without your consent, ask to be referred to the Public Protection Specialist Safeguarding team (PP SST).
-   - Tell them you believe the report was made maliciously and you require your record to be reinstated.
+4. **If you’re abroad and travel is urgent, be ready for the “Emergency Travel Document” decision.**  
+   A UK Emergency Travel Document (ETD) is generally for urgent, unplanned travel in exceptional circumstances when you cannot use a valid UK passport. HM Passport Office/consular staff will tell you if you’re eligible and whether it’s the right route for your situation.  
+   In parallel, gather what you’d need quickly: proof of identity/nationality, travel details, contact number, and a compliant digital photo.
 
-5. **Apply for an Emergency Travel Document (ETD) only if travel is within the next 48 hours.**
-   - You can apply online if you are outside the UK and your last passport was issued on or after January 1, 2006.
-   - The fee is £125.
-   - **Ask the consular staff if they can issue the ETD "Gratis" (free of charge) if the invalidity was caused by an HMPO administrative error.**
+5. **If an airline is refusing boarding, ask for supervisor escalation through their document-check support.**  
+   Say: *“Please escalate this through your travel-document validation process and tell me the exact result you’re getting.”* You’re trying to trigger a proper re-check, not argue at the counter.
 
-6. **Gather evidence of the "Invalid" status for future compensation claims.**
-   - Save all boarding passes, ticket receipts, and hotel bookings that you cannot use.
-   - Take photos of the time and location if you are stuck "airside" (past security) at an airport.
+6. **If you are at border control, stay calm and ask what happens next.**  
+   Ask what they need from HM Passport Office to resolve it, and whether you can contact HMPO while you wait. Keep your phone charged and keep notes of every instruction.
+
+7. **If you suspect a false/malicious lost/stolen report, say that clearly to HMPO.**  
+   Tell HM Passport Office you believe a report may have been made in error or maliciously and you need the passport record corrected.
 
 ## What can wait
-- You do not need to file a formal complaint or seek a refund from the airline in the first hour.
-- You do not need to apply for a standard 10-year replacement passport until HMPO confirms your current one cannot be reinstated.
-- You do not need to contact your travel insurance until you have a reference number or written proof of the rejection from HMPO or the airline.
+- You do not need to decide right now whether to complain, seek compensation, or change all future travel plans.
+- You do not need to apply for a full new passport immediately unless HMPO tells you the record cannot be corrected in time.
+- You do not need to post about it publicly or share passport images online to “get help”.
 
 ## Important reassurance
-Administrative errors and "database mismatches" occur, particularly with the global sharing of Interpol SLTD data. Having a passport flagged as invalid does not imply criminal intent on your part. HM Passport Office has specific procedures to reinstate records or provide free replacements when the error is theirs.
+This can happen due to administrative error, a mistaken lost/stolen report, or a database mismatch — it does not automatically mean you’ve done something wrong. Your job in the moment is to slow things down, capture the exact error, and get HM Passport Office to confirm your passport’s true status.
 
 ## Scope note
-This guide provides first-step stabilization for document status conflicts. It does not cover long-term litigation for missed travel costs or complex nationality disputes.
+These are first steps to stabilise the situation and unblock urgent travel. Once you’re safe and not under time pressure, you can consider complaints, refunds, and longer-term documentation changes.
 
 ## Important note
-This guide is for informational purposes and does not guarantee travel. Border Force and airlines have final authority over boarding and entry. If you are stranded abroad without funds or safety, contact the nearest British Embassy or Consulate immediately.
+This is general information, not legal advice. Processes can vary by destination, airline, and your circumstances. If you’re stuck airside/abroad with nowhere safe to go, prioritise getting to a safer, calmer place and contacting official support.
 
 ## Additional Resources
 - https://www.gov.uk/passport-advice-line
 - https://www.passport.service.gov.uk/help
+- https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport
+- https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply
+- https://www.gov.uk/government/publications/cancellation-of-passports/cancelling-british-passports-accessible
 - https://www.gov.uk/government/publications/passport-cancellations-malicious-lost-and-stolen-reports
-- https://www.gov.uk/government/publications/lost-stolen-and-recovered-passports-lsr-team-policy/lost-stolen-and-recovered-passports-lsr-team-accessible
-- https://www.gov.uk/government/publications/lost-stolen-and-recovered-passports-examiner-policy/lsr-examination-replacing-lost-stolen-and-recovered-passports-accessible
+- https://www.interpol.int/en/How-we-work/Border-management/SLTD-database-travel-and-identity-documents

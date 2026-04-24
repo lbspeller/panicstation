@@ -1,103 +1,85 @@
----
+﻿---
 title: "What to do if… your contact list or calendar entries disappear or merge unexpectedly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "repeated permission popups"
-  - "system permissions after update"
-  - "permission prompts feel wrong"
-  - "app asking for camera access"
-  - "app asking for microphone access"
-  - "app asking for contacts access"
-  - "app asking for photos access"
-  - "app asking for location access"
-  - "unexpected privacy prompts"
-  - "android permission manager"
-  - "iphone privacy and security"
-  - "new permissions request loop"
-  - "possible malware on phone"
-  - "suspicious app behaviour"
-  - "update changed permissions"
-  - "prompts won't stop"
-  - "device privacy panic"
-  - "app privacy report iphone"
-  - "permission fatigue"
-  - "what do i do if my phone keeps asking for permissions"
-  - "what do i do if permissions feel suspicious"
-  - "what do i do if i keep getting permission prompts"
-  - "what do i do if an update changed my privacy settings"
-  - "help i think my phone has malware"
-  - "help i accidentally allowed a suspicious permission"
-  - "help my phone is asking for mic access randomly"
-  - "help my phone is running hot after update"
-  - "my device is asking for location too much"
-  - "my apps are requesting new access"
-  - "phone screen flickering with prompts"
-  - "battery draining fast after update prompts"
-  - "suspicious permission request loop"
-  - "unexpected android permission requests"
-  - "unexpected ios privacy prompts"
-  - "report fraud uk cyber crime"
-  - "police scotland 101 cyber report"
-last_reviewed: "2026-03-17"
+  - contacts disappeared
+  - calendar events missing
+  - contacts merged into one
+  - duplicate contacts suddenly
+  - calendar entries merged
+  - phone contacts wiped
+  - synced contacts missing
+  - icloud contacts missing
+  - google contacts missing
+  - outlook contacts missing
+  - calendar invitees changed
+  - shared calendar changed
+  - account sync glitch
+  - data sync conflict
+  - contacts overwritten
+  - calendar disappeared after update
+  - contacts disappeared after new phone
+  - wrong account signed in
+  - multiple accounts mixing
+  - address book missing
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your contact list or calendar entries disappear or merge unexpectedly (UK)
 
 ## Short answer
-Immediately deny any unfamiliar or repetitive permission requests and close the affected apps. Use the device’s built-in privacy manager to revoke sensitive access—specifically camera, microphone, and location—from any app you do not explicitly trust.
+Pause syncing and make a “snapshot” of what you’re seeing, then use the account provider’s restore/undo tools (often time-limited) before you try any manual clean-up.
 
 ## Do not do these things
-- Don't keep tapping "Allow" or "OK" just to clear the screen of pop-ups.
-- Don't download any third-party "security scanners" or "cleaners" advertised in a pop-up.
-- Don't enter your bank details, passwords, or primary email credentials while the prompts are active.
-- Don't click "Verify Now" or "Fix Device" links within a suspicious notification.
-- Don't perform a factory reset without first checking if you can isolate the specific app causing the behaviour.
+- Don’t start bulk-deleting “duplicates”, “merging”, or “clean up contacts” prompts while you’re unsure what caused it.
+- Don’t keep toggling sync on/off repeatedly across multiple devices (it can overwrite a good copy with a bad one).
+- Don’t uninstall/reinstall apps or sign out of your account on every device as a first move (you may lose clues and recovery options).
+- Don’t assume it’s “gone forever” until you’ve checked the web version of the account and the provider’s recovery areas (Trash/Deleted/Data Recovery).
+- Don’t share one-time verification codes with anyone who contacts you about this (even if they claim to be “support”).
 
 ## What to do now
-1. **Stop using the device for sensitive tasks immediately.**  
-   **Avoid logging into banking apps, email, or social media until you have reviewed your app permissions.** If the device is running hot or the battery is draining rapidly, this may indicate a background process is active.
-
-2. **Deny the current prompt and close all active apps.**  
-   **Select "Don't Allow" or "Deny" on any prompt you did not personally trigger.** Use the app switcher to swipe away and close all open applications.
-
-3. **Audit your sensitive permissions via the system settings.**  
-   - **iPhone / iPad:** **Go to Settings > Privacy & Security.** Review "Microphone," "Camera," and "Location Services." If available, check the "App Privacy Report" at the bottom of the menu to see which apps have used data in the last 24 hours.  
-   - **Android:** **Go to Settings > Security & Privacy > Privacy > Permission manager.** Check "Camera," "Microphone," and "Location" to see which apps have "Allowed" status.
-
-4. **Revoke access for any app that does not require it for its core function.**  
-   **Set sensitive permissions to "Don't allow" or "Ask every time" for any app that seems suspicious or that you rarely use.** Prioritise removing access from apps that have updated very recently.
-
-5. **Check for "Device Admin" or "Special Access" apps (Android only).**  
-   **Search "Special app access" or "Device admin apps" in your Settings search bar.** Ensure no unfamiliar apps have "Device admin" rights, as these can prevent uninstallation and bypass standard permission blocks.
-
-6. **Uninstall unfamiliar or recently installed applications.**  
-   **Remove any app that appeared around the time the prompts started, or any app with a generic or confusing name (e.g., "System Update Tool" or "Flashlight Plus").** Use the official Google Play Store or Apple App Store to verify legitimate app names.
-
-7. **Report suspicious cyber activity if you suspect a compromise.**  
-   - **England, Wales, and Northern Ireland:** **Report the incident to Report Fraud (the national reporting centre for fraud and cyber crime) at reportfraud.police.uk or by calling 0300 123 2040.**  
-   - **Scotland:** **Contact Police Scotland by calling 101.**
-
-8. **Forward scam messages to the National Cyber Security Centre (NCSC).**  
-   - **Suspicious Emails:** **Forward the email to report@phishing.gov.uk.**  
-   - **Suspicious Texts:** **Forward the text message to 7726 (free of charge).**
+1. **Stop the damage spreading (temporarily pause sync on the affected device).**  
+   - Put the phone/tablet in Airplane Mode *or* turn off Contacts/Calendar sync for the account that seems involved (do this on the device that shows the problem first).
+2. **Capture evidence of the current state (2 minutes, calm and boring).**  
+   - Take screenshots of: missing/merged contacts, missing calendars, and any “sync”, “account”, or “storage” warnings.  
+   - Note the time you first noticed it and which device/app you were using.
+3. **Check whether the data still exists in the account (use a browser).**  
+   - Sign in on a computer (or browser on your phone) to your provider’s web interface (for example: iCloud.com, contacts.google.com, outlook.com People/Contacts, Google Calendar on the web).  
+   - If the web view looks normal, your issue is likely **device sync/display** (good news: avoid changing anything on the web while you stabilise the device).
+4. **Use provider “restore/undo” tools (do this before manual edits).**  
+   - **iCloud (Contacts/Calendars):** use iCloud.com “Data Recovery” to restore Contacts and/or Calendars to an earlier archived version.  
+   - **Google Contacts:** use **Undo changes** to roll back your contacts **within the past 30 days**.  
+   - **Google Calendar (web):** check **Trash** and restore events from there (deleted events stay in Trash for **30 days**). If you deleted a recurring series using options like “this and following”, some items may not appear in Trash.  
+   - **Outlook / Exchange / Microsoft 365:** in People/Contacts, look for a **Deleted** folder (or check mailbox **Deleted Items**), then use **Recover deleted** / **Recover deleted items** if it’s available. If you can’t see recovery options, contact your system administrator.
+5. **If it looks like accounts are “mixing” (common cause of unexpected merges): isolate which account is in charge.**  
+   - On the device, check whether you’re signed into multiple accounts (personal + work/school, old + new).  
+   - Ensure Contacts/Calendar are set to the intended **default account** only, and that other accounts are not also syncing the same data.
+6. **If you suspect someone accessed your account (treat this as a security incident).**  
+   - Look for signs: password reset emails you didn’t request, new devices/sessions, forwarded emails/rules, contacts you didn’t add, calendar events you didn’t create.  
+   - Follow the UK NCSC guidance to recover a potentially hacked account: secure email first, change passwords, sign out of other sessions/devices, and enable two-step verification.
+7. **If this is a work/school account, stop and involve the admin early.**  
+   - Contact your organisation’s IT/helpdesk and tell them: “Contacts/Calendar items disappeared or merged; I have paused sync; please advise on restoring from admin tools/backups.”
 
 ## What can wait
-- You do not need to identify the exact malware strain or technical glitch immediately.
-- You do not need to replace the device today; most permission-related issues are solved by removing the offending app.
-- You do not need to notify all your contacts unless you have evidence that your accounts (like WhatsApp or Email) have been sent unauthorised messages.
+- You do **not** need to manually rebuild your contacts or re-enter calendar events right now.
+- You do **not** need to “clean up duplicates” or re-merge anything until you’ve restored/rolled back.
+- You can postpone deciding whether to change devices, switch apps, or move providers.
 
 ## Important reassurance
-It is normal to feel overwhelmed when a device behaves unpredictably. Permission prompts are a security feature designed to give you a "safe pause" to prevent unauthorised access. By choosing to deny and review, you are successfully using the device's own security architecture to protect your data.
+This is a very common panic-trigger because it feels irreversible, but many services keep time-limited backups (Trash/archives/undo). The safest approach is to pause syncing, restore from the provider, and only then tidy up.
 
 ## Scope note
-This guide provides first-step stabilization for permission loops and suspicious device behaviour. It does not cover deep-level forensic analysis or physical hardware repair. If the behaviour persists after revoking permissions and removing apps, consult the device manufacturer's official support.
+These are first steps to prevent further loss and maximise the chance of recovery. If you’re dealing with a compromised account, you may later want more detailed security support.
 
 ## Important note
-This information is for general guidance and does not constitute technical or legal professional advice. If you suspect your financial information has been compromised, contact your bank immediately using the number on the back of your card.
+This guide is general information, not professional advice. Processes and recovery windows vary by provider and account type, and some actions can permanently overwrite data—when unsure, pause sync and use official restore/undo tools first.
 
 ## Additional Resources
-- https://support.apple.com/en-gb/102543
-- https://support.apple.com/en-gb/guide/icloud/mm7478c562f3/icloud
+- https://support.apple.com/en-gb/102508
 - https://support.apple.com/en-gb/guide/icloud/mm1d9cfdb498/icloud
-- https://support.google.com/calendar/answer/6261951?co=GENIE.Platform%3DAndroid&hl=en
-- https://support.microsoft.com/en-gb/office/manage-duplicate-contacts-in-outlook-0fa9c0a0-499a-48ab-b818-4e6463ccb9fa
+- https://support.apple.com/en-gb/guide/icloud/mm7478c562f3/icloud
+- https://support.google.com/contacts/answer/7280886?co=GENIE.Platform%3DDesktop&hl=en-GB
+- https://support.google.com/calendar/answer/37113?co=GENIE.Platform%3DDesktop&hl=en
+- https://support.microsoft.com/en-gb/office/recover-and-restore-deleted-items-in-outlook-49e81f3c-c8f4-4426-a0b9-c0fd751d48ce
+- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account

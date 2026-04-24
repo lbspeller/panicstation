@@ -1,102 +1,89 @@
----
+﻿---
 title: "What to do if… you receive an eSIM activation message or QR code you did not request"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "unexpected access token"
-  - "unknown api key created"
-  - "new app connection i did not create"
-  - "suspicious oauth app"
-  - "unknown third party app access"
-  - "account token compromise"
-  - "api credentials leak"
-  - "developer account hacked"
-  - "cloud console suspicious activity"
-  - "github token created without me"
-  - "new integration appeared"
-  - "unauthorized app authorization"
-  - "strange connected apps"
-  - "someone has access token"
-  - "security keys and tokens issue"
-  - "new credentials in dashboard"
-  - "token created overnight"
-  - "suspicious login and token"
-  - "what do i do if unknown api key"
-  - "what do i do if suspicious app connection"
-  - "what do i do if unauthorized oauth"
-  - "what do i do if account compromised by token"
-  - "help i see new api keys"
-  - "help i see unauthorized app access"
-  - "help i have a suspicious oauth app"
-  - "help my github token was created by someone else"
-  - "my account has unknown integrations"
-  - "my api dashboard has new keys"
-  - "smell of burning plastic"
-  - "visible alert badge"
-  - "email notification for new token"
-  - "unauthorized developer app"
-  - "unknown webhook"
-  - "unrecognized service account"
-  - "strange session in activity log"
-  - "api key mislabel"
-  - "oauth app mispelling"
-  - "token leak in public repo"
-  - "compromised dev environment"
-  - "mcp server configuration token"
-last_reviewed: "2026-03-17"
+  - esim activation message
+  - unexpected esim qr code
+  - esim qr you did not request
+  - sim swap text message
+  - sim swapping attack
+  - sim swap scam
+  - simjacking alert
+  - phone number hijack
+  - unauthorized sim change
+  - carrier account takeover
+  - number transfer attempt
+  - port out scam
+  - sudden no service
+  - phone lost signal suddenly
+  - sms codes not arriving
+  - otp texts stopped
+  - fake carrier notification
+  - qr code activation scam
+  - mobile line takeover
+  - wireless account fraud
+last_reviewed: "2026-03-09"
 ---
-# What to do if… you receive an eSIM activation message or QR code you did not request (USA)
 
+# What to do if… you receive an eSIM activation message or QR code you did not request (USA)
 ## Short answer
-Revoke the unauthorized tokens and app connections immediately, invalidate all active sign-in sessions, and then secure the primary identity or email account used to manage those credentials.
+Assume a SIM-swap attempt: **do not scan the QR code**, and **call your wireless carrier immediately (using a trusted number)** to stop any eSIM activation or number transfer and lock the account.
 
 ## Do not do these things
-- Do not leave the unauthorized token or connection active to monitor the attacker's behavior.
-- Do not click links in security alert emails; navigate to the platform by typing the address directly into your browser.
-- Do not delete audit logs, history entries, or alert notifications that document the creation of these items.
-- Do not perform remediation from a device you suspect is currently infected with malware or a keylogger.
-- Do not assume that changing your password alone will stop an attacker who has a persistent refresh token or OAuth connection.
+- Don’t scan the QR code, click “cancel/verify” links, or install any “carrier security” app from the message.
+- Don’t reply to the text/email, and don’t share verification codes, one-time passcodes, or your account PIN with anyone who contacted you.
+- Don’t call a phone number shown in the message. Use your carrier’s official app, your monthly bill, or your carrier’s official website contact page.
+- Don’t reset your phone as your first move. It usually doesn’t stop a number takeover and can slow you down.
 
 ## What to do now
-1. **Access the account from a known-secure control point.**  
-   **Use a different, clean device and type the platform's URL directly into the browser to avoid phishing redirects.**
-2. **Revoke all unauthorized credentials and connections.**  
-   **Delete every API key, access token, or service account that you do not recognize as your own.**
-   - Navigate to the "Authorized Apps," "Connected Services," or "OAuth Integrations" menu and remove any unknown third-party applications.
-   - Check for and remove any new webhooks or automated notification endpoints.
-3. **Invalidate all active sessions across the platform.**  
-   **Use the "Revoke sessions," "Sign out everywhere," or "Log out of all devices" command to kick out current users.**
-   - For Microsoft Entra ID (formerly Azure AD) accounts, use the unified "Revoke sessions" button in the admin center to invalidate all refresh tokens and MFA claims.
-4. **Secure the master email or Single Sign-On (SSO) account.**  
-   **Update the password for your primary identity provider and ensure Multi-Factor Authentication (MFA) is active and using a non-SMS method like an authenticator app or hardware key.**
-   - Verify that no new recovery emails, secondary phone numbers, or "trusted devices" have been added to your profile.
-5. **Rotate secondary secrets that may have been exposed.**  
-   **Identify any production credentials, cloud provider access keys, or payment processor secrets that the compromised token could have accessed and replace them with new values.**
-   - Update your CI/CD pipelines, configuration files, and environment variables carefully to ensure service continuity.
-6. **Audit for persistence mechanisms and data export.**  
-   **Review account logs for the creation of new users, changes to permission roles (e.g., adding an "Admin" role), or changes to billing and payout information.**
-   - Look for recently added SSH keys in developer environments or new "Member" additions to organizations and teams.
-7. **Report identity risk if personal data was reachable.**  
-   **Visit IdentityTheft.gov to create a recovery plan if the compromised account contained Social Security numbers, financial data, or sensitive PII.**
-   - Contact your bank or credit card issuer using the official number on the back of your card if financial account tokens were among the compromised items.
+1. **Stop the activation path immediately.**  
+   Don’t scan the QR code and don’t proceed with any “Add eSIM” prompts tied to that message.
+
+2. **Call your carrier right away and ask for fraud/account security.**  
+   Say: “I received an eSIM activation / SIM change message I did not request. I need you to block it and secure my wireless account.”  
+   Ask specifically for:
+   - A **Number Transfer Lock / port-out lock** (name varies by carrier) to prevent transferring your number.
+   - A requirement for an **account PIN/passcode** for any SIM/eSIM change.
+   - Confirmation whether an **eSIM was issued** and whether any **SIM change or port-out is pending**.
+   - A **case number** and a note added: “suspected unauthorized SIM/eSIM change”.
+
+3. **Check if takeover may already be affecting service.**  
+   If you suddenly have “No Service,” can’t call/text, or OTP texts stopped arriving, tell the carrier your disruption may be a SIM swap in progress and you need your line secured and service restored.
+
+4. **Secure your most important accounts, starting with email.**  
+   From a device you still control:
+   - Change the password on your **primary email** account first.
+   - Then change passwords on **banking/payment apps** and your **Apple ID/Google account** (anything that can reset other passwords).
+   - Where possible, switch from **SMS-based 2FA** to an authenticator app or passkey.
+
+5. **Notify your bank(s) and payment providers if anything looks wrong.**  
+   If you see unfamiliar login alerts, password resets you didn’t initiate, or suspicious transactions, call the fraud number on your card/app and ask them to **add extra verification** and **watch/hold high-risk transfers**.
+
+6. **Report the incident (especially if you lost money or access).**  
+   - File a report with the **FTC**.  
+   - File a complaint with the **FBI’s Internet Crime Complaint Center (IC3)** if you believe you’re a victim of fraud, had accounts taken over, or lost money.
+
+7. **Write down a short timeline while it’s fresh.**  
+   Time received, exact wording (screenshots), any service loss, which accounts sent security alerts, who you spoke to at the carrier/bank, and case numbers.
 
 ## What can wait
-- Determining the exact initial entry vector (e.g., whether it was a phishing site or a leaked cookie) does not need to happen before containment.
-- Redesigning your entire secret management architecture or migrating to a new vault provider.
-- Drafting a formal incident report or public disclosure statement can wait until the account is stabilized and the scope is understood.
+- You don’t need to decide right now whether to change carriers or change your phone number.
+- You don’t need to publicly post warnings or confront the sender.
+- You don’t need to do a full device wipe unless a trusted support channel tells you there’s a separate device compromise.
 
 ## Important reassurance
-It is common for attackers to create a secondary "backdoor" like a token or an app connection specifically so they can stay in the account after you change your password. Discovering these items is a sign that your monitoring is working, and revoking them is the correct standard procedure to stop persistent access.
+This kind of message is designed to rush you into scanning or “verifying.” Many attempts can be stopped if you avoid the QR/link, get the carrier to lock the line, and secure email and financial accounts quickly.
 
 ## Scope note
-This guide provides first-step stabilization only. If the unauthorized access involved regulated customer data, financial systems, or large-scale production environments, additional professional incident response or legal counsel may be required.
+This is first-steps guidance to stabilize the situation. If accounts were accessed or money was taken, you may need follow-up steps with your carrier’s fraud team, your bank(s), and formal reports to support disputes and recovery.
 
 ## Important note
-This information is for general guidance and does not constitute legal, technical, or professional security advice. Digital security requirements vary significantly by jurisdiction and platform; always refer to your organization's specific security policies and the official documentation provided by your service providers.
+This is general information, not legal or financial advice. Carrier security features and names (for example “Number Transfer Lock”) vary by provider and plan. If you feel overwhelmed, focus on two calls: your carrier first, then your bank.
 
 ## Additional Resources
 - https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself
-- https://www.fbi.gov/contact-us/field-offices/phoenix/news/press-releases/fbi-tech-tuesday-sim-swapping
-- https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts
-- https://consumer.ftc.gov/consumer-alerts/2024/03/whats-verification-code-why-would-someone-ask-me-it
-- https://www.ic3.gov/CrimeInfo/AccountTakeover
+- https://www.fcc.gov/cell-phone-fraud
+- https://www.ic3.gov/PSA/2024/PSA240411
+- https://www.ctia.org/protecting-against-sim-swap-fraud
+- https://www.federalregister.gov/documents/2023/12/08/2023-26338/protecting-consumers-from-sim-swap-and-port-out-fraud

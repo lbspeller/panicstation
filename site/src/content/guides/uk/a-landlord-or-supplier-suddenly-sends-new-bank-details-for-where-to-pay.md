@@ -1,104 +1,96 @@
----
+﻿---
 title: "What to do if… a landlord or supplier suddenly sends new bank details for where to pay"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "landlord sent new bank details"
-  - "supplier changed bank account"
-  - "new payment details email"
-  - "rent bank details changed"
-  - "invoice bank details changed"
-  - "bank detail change request"
-  - "payment diversion scam"
-  - "mandate fraud"
-  - "change of account scam"
-  - "fake landlord payment request"
-  - "urgent payment request"
-  - "standing order change request"
-  - "avoid paying wrong account"
-  - "verify bank details independently"
-  - "unexpected account change"
-  - "suspicious payment instruction"
-  - "bank transfer to new account"
-  - "scammer posing as supplier"
-  - "invoice redirection fraud"
-  - "what do i do if landlord changes bank details"
-  - "help i paid a scammer landlord"
-  - "my supplier changed their bank account"
-  - "what do i do if i get a fake invoice"
-  - "business email compromise"
-  - "confirmation of payee mismatch"
-  - "report fraud uk"
-  - "action fraud new name"
-  - "police scotland 101 fraud"
-  - "rent payment scam"
-  - "suspicious bank details"
-last_reviewed: "2026-03-17"
+  - landlord sent new bank details
+  - supplier changed bank account
+  - new payment details email
+  - rent bank details changed
+  - invoice bank details changed
+  - bank detail change request
+  - payment diversion scam
+  - mandate fraud
+  - change of account scam
+  - fake landlord payment request
+  - urgent payment request
+  - standing order change request
+  - avoid paying wrong account
+  - verify bank details independently
+  - unexpected account change
+  - suspicious payment instruction
+  - bank transfer to new account
+  - scammer posing as supplier
+  - invoice redirection fraud
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… a landlord or supplier suddenly sends new bank details for where to pay (UK)
 
 ## Short answer
-Stop and assume the request is fraudulent until you verify it using a known, trusted contact method. Do not use any contact details provided in the new message; if you have already sent money, call 159 or your bank's fraud line immediately.
+Pause and assume it could be a payment-diversion scam. Don’t send money to the “new” details until you’ve independently verified them using contact information you already trust. If you’ve already paid, contact your bank immediately.
 
 ## Do not do these things
-- Don't reply to the email, text, or letter that provided the new details.
-- Don't use phone numbers or links contained within the suspicious message to "verify" the change.
-- Don't ignore "Confirmation of Payee" warnings in your banking app if the name does not match.
-- Don't share one-time passcodes (OTP) or card reader codes with anyone claiming to be from your bank or the supplier.
-- Don't feel pressured by "urgent" deadlines, "overdue" notices, or threats of service disconnection.
-- Don't pay via untraceable methods such as cryptocurrency or gift cards if requested.
+- Don’t reply to the email/text or use the phone number/link inside it to “confirm”.
+- Don’t change a standing order in your banking app just because the message looks familiar or urgent.
+- Don’t share one-time passcodes, card reader codes, or approval notifications with anyone “verifying” the change.
+- Don’t send screenshots of your bank app, card, ID, or “proof you’ve paid” beyond a basic receipt if needed.
+- Don’t let “today only”, “late fees”, or “final notice” pressure you into rushing.
+- Don’t pay an “alternative” requested method like crypto, gift cards, or a third-party “agent”.
 
 ## What to do now
-1. **Isolate the message and preserve evidence.**  
-   **Do not delete the email or text, as it contains technical headers and routing information needed for investigation.**  
-   - Take screenshots of the message and any attachments.  
-   - Save the sender's email address or phone number exactly as it appears.  
+1. **Stop the payment and capture evidence.**  
+   Save the message (screenshot + the full email if possible). Don’t click links or open attachments.
 
-2. **Verify the change using a pre-existing contact route.**  
-   **Contact the landlord or supplier using a phone number you have used successfully in the past, or one found on your original signed contract.**  
-   - Speak to a known individual if possible.  
-   - Ask them to confirm the last four digits of the new account and the reason for the change.  
-   - If they are unaware of the change, the message you received is a scam.
+2. **Verify using a trusted route you choose (not theirs).**  
+   Use a phone number/email/postal address from your existing lease/contract, a prior genuine invoice, or the official website you already know. Ask them to confirm:  
+   - whether their bank details changed for payments  
+   - the exact account name, sort code, and account number  
+   - when it changed and why  
+   If they can’t confirm via a channel you trust, treat it as unverified.
 
-3. **Check for "Confirmation of Payee" (CoP) red flags.**  
-   **When setting up the new details in your banking app, pay close attention to the name-check results.**  
-   - If the bank indicates the "Name does not match," stop the transaction.  
-   - Scammers often use "mule" accounts that will not match the business or landlord's name.
+3. **Cross-check the ‘new’ details before paying anything.**  
+   - Compare against the bank details on your lease/contract and previous genuine invoices.  
+   - If your bank offers **Confirmation of Payee**, take any mismatch warning seriously (a mismatch is a major red flag).  
+   - Be extra cautious if the request arrives right before a due date, comes with urgency, or asks you to keep it quiet.
 
-4. **Report the attempted scam to protect others.**  
-   **Forward suspicious emails to the National Cyber Security Centre (NCSC) and report texts to 7726.**  
-   - Forward emails to: report@phishing.gov.uk.  
-   - Forward scam texts to 7726 (this is free on all UK networks).  
+4. **If a payment is due soon, avoid sending money to the wrong place.**  
+   Use one of these safer options while you verify (choose what matches your agreement and what you can do safely):  
+   - **Pay via the existing, known-good method** you’ve used before (only if it’s still working and you’re confident it’s genuinely theirs).  
+   - **Ask for a short grace period** via a trusted contact route, explaining you’re verifying a potential scam.  
+   - If you can’t safely pay yet, **set the money aside** (don’t spend it) and keep a clear record of your attempts to verify and contact them.
 
-5. **Contact your bank immediately if money has been sent.**  
-   **Call 159 (the secure fraud hotline) or the number on the back of your bank card to report Authorised Push Payment (APP) fraud.**  
-   - State clearly that you have been a victim of "mandate fraud" or "payment diversion."  
-   - Ask the bank to stop any pending transfers and attempt a "recall" of the funds.  
-   - Under PSR rules effective since October 2024, most UK banks must reimburse APP fraud victims up to a limit, though a £100 excess may apply.
+5. **If you already paid the new details, act fast with your bank.**  
+   Call your bank immediately using the number on your card/app/statement. Tell them you think it’s a **scam / Authorised Push Payment (APP) fraud / mandate fraud**, and ask them to:  
+   - attempt a payment recall and any other recovery steps they can take, and  
+   - stop any pending/future transfers you may have scheduled to those new details.
 
-6. **File an official police report.**  
-   **The reporting process depends on your location within the UK.**  
-   - England, Wales, or Northern Ireland: Report to "Report Fraud" (formerly Action Fraud) via reportfraud.police.uk or call 0300 123 2040.  
-   - Scotland: Report to Police Scotland by calling 101.  
-   - Obtain a crime reference number for your bank claim.
+6. **Report it to the right place for where you live.**  
+   - **England, Wales or Northern Ireland:** report cyber crime and fraud via **Report Fraud** (online or by phone).  
+   - **Scotland:** report to **Police Scotland** via **101**.  
+   Keep your reference details if you get them.
+
+7. **Watch for “recovery” follow-ups.**  
+   If someone contacts you claiming they can recover your money for a fee or wants more bank details “to help”, treat that as another scam and stop.
 
 ## What can wait
-- You do not need to update your long-term payment records or standing orders until verification is 100% complete.
-- You do not need to determine how the "leak" happened (e.g., if the landlord's email was hacked) in the first few minutes.
-- You do not need to confront the sender or "trap" them; law enforcement will handle the investigation.
+- You don’t need to decide right now whether the landlord/supplier was “at fault” or whether to escalate a dispute.
+- You don’t need to rewrite contracts or change all your payments today—just stop this payment from going to the wrong place.
+- You don’t need to confront the sender; focus on verification and protecting your money first.
 
 ## Important reassurance
-Interception of invoices and "mandate fraud" are sophisticated crimes that target thousands of UK residents annually. Taking a moment to pause and verify is the standard safety protocol recommended by banks. Banks have dedicated departments specifically to handle these reports.
+This exact scenario is a common fraud pattern, and pausing to verify is a sensible response. Feeling pressured, embarrassed, or unsure is normal—banks and authorities deal with this every day.
 
 ## Scope note
-This guide provides first-step stabilization to prevent financial loss or initiate recovery. It does not cover the legal resolution of rent arrears or long-term cybersecurity auditing for compromised email accounts.
+This is first-steps-only guidance to prevent an irreversible loss and start the fastest recovery routes. If money has gone missing, you may need to follow your bank’s fraud process and reporting routes.
 
 ## Important note
-This information is not legal or financial advice. Reimbursement for fraud depends on individual circumstances and your bank's assessment of "gross negligence." Always follow the specific instructions provided by your bank's fraud department.
+This guide is general information, not legal or financial advice. Processes vary by bank and by how you paid; if you’ve already sent money, follow your bank’s fraud team instructions even if they differ from general guidance.
 
 ## Additional Resources
-- https://www.takefive-stopfraud.org.uk/protect-your-business/invoice-and-mandate/
-- https://www.lloydsbank.com/help-guidance/protecting-yourself-from-fraud/invoice-scams.html
-- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
-- https://www.citizensadvice.org.uk/consumer/scams/check-if-you-can-get-your-money-back-after-a-scam/
-- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
+- https://www.reportfraud.police.uk/mandate-fraud/
+- https://www.reportfraud.police.uk/
+- https://www.ncsc.gov.uk/section/respond-recover/ml-business-payment-fraud
+- https://www.fca.org.uk/consumers/fraudulent-payments
+- https://www.psr.org.uk/information-for-consumers/app-fraud-reimbursement-protections/
+- https://www.ukfinance.org.uk/authorised-push-payment-fraud-reimbursement

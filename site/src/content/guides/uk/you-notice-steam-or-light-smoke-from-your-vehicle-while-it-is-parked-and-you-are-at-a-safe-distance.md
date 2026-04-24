@@ -1,84 +1,72 @@
----
+﻿---
 title: "What to do if… you notice steam or light smoke from your vehicle while it is parked and you are at a safe distance"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "steam from car bonnet"
-  - "light smoke from parked car"
-  - "smoke from engine bay"
-  - "steaming engine while parked"
-  - "car steaming not moving"
-  - "car smoking while parked"
-  - "overheating steam under bonnet"
-  - "possible car fire warning signs"
-  - "vehicle smoking after parking"
-  - "wisps of smoke from car"
-  - "steam or smoke confusion"
-  - "bonnet area steaming"
-  - "parked vehicle fire risk"
-  - "engine compartment smoke"
-  - "car might be on fire"
-  - "what if car is steaming"
-  - "what if car is smoking"
-  - "safe distance from smoking car"
-  - "car smoking in car park"
-  - "smoke from vehicle but no flames"
-  - "help i see smoke from my car"
-  - "my car is steaming in a car park"
-  - "help my parked car is smoking"
-  - "what do i do if my car is smoking"
-  - "smell of burning from parked car"
-  - "white smoke from car bonnet"
-  - "grey smoke from engine bay"
-  - "crackling sound from engine"
-  - "smoke from wheel arch"
-  - "car steaming after driving"
-last_reviewed: "2026-03-17"
+  - steam from car bonnet
+  - light smoke from parked car
+  - smoke from engine bay
+  - steaming engine while parked
+  - car steaming not moving
+  - car smoking while parked
+  - overheating steam under bonnet
+  - possible car fire warning signs
+  - vehicle smoking after parking
+  - wisps of smoke from car
+  - steam or smoke confusion
+  - bonnet area steaming
+  - parked vehicle fire risk
+  - engine compartment smoke
+  - car might be on fire
+  - what if car is steaming
+  - what if car is smoking
+  - safe distance from smoking car
+  - car smoking in car park
+  - smoke from vehicle but no flames
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… you notice steam or light smoke from your vehicle while it is parked and you are at a safe distance (UK)
 
 ## Short answer
-Move at least 50 metres away, get upwind of the vehicle, and call 999 for the Fire and Rescue Service if you suspect fire or see thickening smoke.
+Stay well away, keep others back, and if there’s any chance it’s a fire (or you’re unsure), call **999** for the Fire and Rescue Service.
 
 ## Do not do these things
-- Do not approach the vehicle to investigate the source of the smoke or steam.
-- Do not open the bonnet; this introduces oxygen which can cause a small fire to flash over.
-- Do not attempt to use a fire extinguisher on a vehicle fire due to the risk of toxic fumes and exploding components.
-- Do not re-enter the vehicle to retrieve personal belongings.
-- Do not stand downwind of the vehicle where you may inhale smoke or vapours.
-- Do not attempt to drive or move the vehicle.
+- Don’t walk up to it “for a closer look” or lean over the bonnet/engine area.
+- Don’t open the bonnet (opening it can feed a fire and expose you to heat/steam).
+- Don’t try to drive the vehicle away.
+- Don’t assume it’s “just steam” if it continues, gets thicker, or smells hot/burning.
+- Don’t try to tackle it yourself; only consider using an extinguisher if it’s clearly safe to do so and you don’t need to get close.
 
 ## What to do now
-1. **Increase your distance to at least 50 metres.** Move further away if the smoke is thick or if you hear popping or crackling sounds.
-2. **Position yourself upwind of the vehicle.** Ensure the wind is blowing from you towards the car to avoid inhaling toxic smoke or hot steam.
-3. **Leave hazard lights on if they were already activated.** If the vehicle is off and you are already at a distance, do not return to turn them on.
-4. **Call 999 and ask for the Fire and Rescue Service.** Provide the following information:
-   - Whether you see steam (white, dissipates quickly) or smoke (grey, black, or persistent).
-   - If there are visible flames or a strong smell of burning plastic or rubber.
-   - If the vehicle is electric (EV) or a hybrid, as these require specific firefighting protocols.
-5. **Provide a precise location.** Use landmarks, road names, or the What3Words app to give emergency services an exact position.
-   - If on a motorway, look for the nearest blue and white driver location sign or use an SOS phone if one is within a safe walking distance.
-6. **Alert nearby people to stay back.** Advise others to maintain a safe distance and not to approach the vehicle.
-7. **Contact site security or staff if in a managed car park.** They may need to cordoning off the area or evacuate nearby vehicles.
+1. **Increase your distance and control the area.** Move further back and ask others to keep well away too. If there’s a barrier or wall, stand behind it.
+2. **From where you are, look for quick “fire vs steam” clues.**  
+   - **More concerning:** smoke that thickens, visible flames, popping/crackling, a strong burning smell, smoke from under the vehicle, or smoke that doesn’t fade.  
+   - **Could be overheating steam:** a white “cloudy” plume that eases off (still treat cautiously).
+3. **If you think it could be a fire (or you’re not sure), call 999.** Ask for the **Fire and Rescue Service** and describe what you can see (steam/light smoke, where it seems to be coming from, whether it’s getting worse).
+4. **Give precise location details.** Car park name/level/bay number, nearby shop/building entrance, road name, and landmarks. If helpful, use a location-sharing tool (for example, What3Words) to give an exact spot.
+5. **If you’re in a car park or managed site, alert staff/security (from a safe distance).** They may need to control access, clear nearby bays, or start site emergency procedures.
+6. **If the vehicle is electric/hybrid or was charging, say so on the 999 call.** If you can see a charge cable, don’t go near it—just report what you see.
+7. **Wait at a safe distance for instructions.** If conditions worsen (smoke increases, flames appear), call 999 again if you need to update them.
 
 ## What can wait
-- You do not need to identify the mechanical cause of the issue right now.
-- You do not need to call a recovery service until the Fire and Rescue Service has declared the vehicle safe.
-- You do not need to notify your insurance provider in the immediate moment.
-- You do not need to decide whether the car is a "write-off" or repairable.
+- You do not need to diagnose the cause (coolant leak, overheating, electrical fault) right now.
+- You do not need to arrange recovery, insurance, or repairs until the immediate risk is clearly over.
+- You do not need to gather belongings from the vehicle.
 
 ## Important reassurance
-It is normal to feel uncertain when distinguishing between steam and smoke. Treating the situation as a potential fire and maintaining a safe distance is the standard safety procedure. Emergency operators are trained to help you assess the risk from a distance.
+It’s reasonable to treat any unexpected steam or smoke as potentially serious. Keeping your distance and calling for help if you’re unsure is a sensible, safety-first response.
 
 ## Scope note
-This guide covers initial stabilization and safety actions for a parked vehicle showing signs of heat or combustion. It does not cover vehicle recovery or post-fire legal procedures.
+These are first steps for the “right now” moment when you’re already at a safe distance. Once the immediate risk is over, next steps usually involve recovery and a mechanic check.
 
 ## Important note
-This information is for safety guidance only and does not replace the instructions of emergency services. In any situation involving fire or chemical smoke, follow the directions of the 999 operator and attending fire crews immediately.
+This is general, situation-first guidance, not professional advice. If you believe there is any immediate danger, call 999 and follow the operator’s instructions.
 
 ## Additional Resources
-- https://www.gov.uk/guidance/the-highway-code/annex-6-vehicle-maintenance-safety-and-security
-- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
-- https://www.london-fire.gov.uk/safety/road-safety/in-an-emergency/
+- https://www.gloucestershire.gov.uk/glosfire/your-safety/safety-on-the-road/car-fires/
 - https://www.dsfire.gov.uk/safety/on-the-road/car-and-vehicle-fires
-- https://www.theaa.com/breakdown-cover/advice/white-smoke-from-exhaust
+- https://www.dwfire.org.uk/education/road-safety/car-fires/
+- https://www.hantsfire.gov.uk/safety/road-safety-vehicle-fires/vehicle-fires/
+- https://www.suffolk.gov.uk/asset-library/imported/sfrs-vehicle-fires-factsheet.pdf
+- https://www.london-fire.gov.uk/safety/calling-999/

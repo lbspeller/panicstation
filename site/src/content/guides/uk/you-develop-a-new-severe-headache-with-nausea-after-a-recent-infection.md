@@ -1,95 +1,82 @@
----
+﻿---
 title: "What to do if… you develop a new severe headache with nausea after a recent infection"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "new severe headache"
-  - "severe headache after infection"
-  - "headache with nausea"
-  - "headache after viral infection"
-  - "what do i do if my head hurts after flu"
-  - "what do i do if i have a bad headache after covid"
-  - "what do i do if i feel sick and have head pain"
-  - "what do i do if my neck is stiff and my head hurts"
-  - "help i have a severe headache after being ill"
-  - "help i have a sudden bad headache"
-  - "help i am vomiting with a headache"
-  - "help i have a rash and a headache"
-  - "worst headache of my life"
-  - "sudden onset headache nausea"
-  - "meningitis symptoms uk 2026"
-  - "stiff neck and light sensitivity"
-  - "new severe headache symptoms"
-  - "headache nausea after infection"
-  - "head pain after infection"
-  - "nausea after infection headache"
-  - "severe headache nausea"
-  - "new headache nausea"
-  - "after infection headache"
-  - "recent infection headache"
-  - "severe head pain after flu"
-  - "headache and fever uk"
-  - "purple spots on skin headache"
-  - "non-fading rash glass test"
-  - "confusion with bad headache"
-  - "thunderclap headache uk help"
-  - "nausea vomiting headache alert"
-  - "meningococcal symptoms students"
-  - "viral meningitis signs adults"
-  - "headache after sinus infection help"
-  - "headache after ear infection nausea"
-last_reviewed: "2026-03-16"
+  - new severe headache
+  - sudden bad headache
+  - headache with nausea
+  - headache with vomiting
+  - severe headache after infection
+  - headache after flu
+  - headache after covid
+  - headache after viral infection
+  - headache after sinus infection
+  - headache after ear infection
+  - worst headache of my life
+  - migraine or something else
+  - meningitis symptoms worry
+  - stiff neck headache
+  - headache with fever
+  - headache with light sensitivity
+  - headache with confusion
+  - severe head pain new
+  - head pain and nausea new
+last_reviewed: "2026-02-10"
 ---
+
 # What to do if… you develop a new severe headache with nausea after a recent infection (UK)
 
 ## Short answer
-Treat a **new severe headache with nausea after a recent infection** as a potential medical emergency and get a same-day clinical assessment. If the headache is sudden, "the worst ever," or accompanied by a stiff neck, rash, or confusion, **call 999 or go to A&E immediately**.
+Treat a **new severe headache with nausea after a recent infection** as urgent: **get same-day medical assessment**. If it’s sudden/“worst ever” or you have any danger signs, **call 999 or go to A&E now**.
 
 ## Do not do these things
-- Do not "sleep it off" if the headache is different from your usual headaches, getting rapidly worse, or involves persistent vomiting.
-- Do not drive yourself to the hospital if you feel drowsy, dizzy, or are struggling with light sensitivity.
-- Do not assume symptoms are just "lingering fatigue" from a recent virus (like the 2026 Stratus or Nimbus variants) if the pain is severe.
-- Do not wait for a rash to appear before seeking help; a rash is often a late sign of serious infection.
-- Do not take more than the recommended dose of paracetamol; be careful not to double-dose if using "all-in-one" flu or cold remedies.
-- Do not stay alone if you are feeling confused or find it difficult to stay awake.
+- Do not “sleep it off” if the headache is **new and severe**, getting worse, or comes with **vomiting**.
+- Do not drive yourself to A&E if you feel very unwell, drowsy, faint, or your symptoms are severe.
+- Do not keep taking extra painkillers to “push through” if the pain is severe or different from your usual headaches.
+- Do not accidentally **double-dose paracetamol** by mixing cold/flu products with separate paracetamol (many combination medicines already contain it).
+- Do not ignore signs of serious illness (for example **fever**, a **rash that doesn’t fade**, **confusion**, **stiff neck**, or new weakness) because you “just had a cold/flu”.
+- Do not go back to work/college or stay alone if you’re deteriorating or struggling to think clearly.
 
 ## What to do now
-1. **Check for "emergency" red flags that require an immediate 999 call or A&E visit.** Do this now and act if you notice any of the following:
-   - A headache that reached maximum "blinding" intensity within seconds or minutes (thunderclap headache).
-   - A stiff neck where you cannot touch your chin to your chest.
-   - Dislike of bright lights (photophobia) or new blurred / double vision.
-   - A new rash, tiny red pinpricks, or purple "bruise-like" spots that do not fade when a glass is pressed firmly against them.
-   - **Note for darker skin:** Check for the rash on paler areas such as the palms of the hands, soles of the feet, the roof of the mouth, or the inside of the eyelids.
-   - New confusion, seizures, or difficulty being woken up.
-2. **If you do not have the emergency signs above, contact NHS 111 immediately for a same-day assessment.** **Use the NHS 111 online service or call 111.**
-   - Tell the operator: "I have a new, severe headache and nausea that started after a recent infection."
-   - Mention specifically if you have recently had a respiratory, sinus, or ear infection.
-3. **Ask someone to stay with you while you wait for medical advice.** **Do not remain by yourself.**
-   - You need someone to monitor if you become more confused, less responsive, or start vomiting repeatedly.
-4. **Prepare a brief summary of your symptoms for the doctor.** **Write down three key pieces of information:**
-   - Exactly when the headache started and how quickly the pain reached its peak.
-   - The date your previous infection started and what the symptoms were (e.g., fever, cough, earache).
-   - A list of any medicines you have taken in the last 24 hours, including doses.
-5. **Stay hydrated with small sips of water if you can keep fluids down.** **Avoid alcohol, caffeine, and taking any "leftover" antibiotics.**
-   - Keep your medication packets nearby so you can show them to the clinician.
+1. **Check for “call 999 / go to A&E now” signs.** Do this quickly and act if any apply:
+   - **Sudden, extremely severe headache** (especially if it came on quickly or is the worst you’ve ever had).
+   - **Confusion**, new **drowsiness**, collapse, seizure, or you’re hard to wake.
+   - New **weakness**, facial droop, speech problems, severe unsteadiness, or new vision problems.
+   - Severe headache with **fever**, **stiff neck**, **dislike of bright lights**, or repeated vomiting.
+   - A **new rash that does not fade** when pressed (or unexplained purple/red spots).
+   - Severe headache after a **recent head injury**, even a few days later.
+2. **If you’re not in the “999/A&E now” group, still seek same-day help.**
+   - Use **NHS 111** (call 111, 111 online, or the NHS App) and say: “New severe headache with nausea/vomiting after a recent infection” and whether it’s getting worse.
+   - If your symptoms **worsen** while you’re trying to get help, re-check step 1 and **escalate to 999/A&E** if any danger signs appear.
+3. **Don’t stay alone.** Ask someone to stay with you (or be reachable) for the next few hours in case you become more unwell, confused, or faint.
+4. **Write down a 60-second timeline for the clinician.** Note:
+   - When the infection started and what it was (respiratory, sinus, ear, throat, stomach, etc.).
+   - Exactly when the headache started, how fast it peaked, where it is, and what makes it worse.
+   - Whether you have fever, neck stiffness, light sensitivity, rash, confusion, new neurological symptoms, or persistent vomiting.
+5. **Keep things safe while you arrange help.**
+   - Sip water if you can keep fluids down; stop if you’re repeatedly vomiting.
+   - Avoid alcohol and recreational drugs.
+   - If you take regular medicines, keep the packets with you; don’t start antibiotics you have “left over”.
 
 ## What can wait
-- You do not need to diagnose yourself or distinguish between a migraine and meningitis; that is the role of the medical team.
-- You do not need to wait for a GP appointment tomorrow if you are feeling unwell today.
-- You do not need to worry about "wasting time" by seeking an urgent assessment for a new, severe headache.
+- You do not need to decide what the diagnosis is right now (migraine vs. meningitis vs. something else).
+- You do not need to research every possible cause online.
+- You do not need to “prove” it’s serious before you seek help—**new severe headache + nausea after infection is enough to get assessed today**.
 
 ## Important reassurance
-It is normal to feel highly anxious when a headache feels different or more intense than usual. In many cases, these symptoms are related to the body recovering from a viral infection, but because a small number of post-infection headaches can be serious, getting a professional check is the correct and responsible action.
+It’s common to feel frightened and unsure when a headache is severe and different from normal—especially after an infection. Getting checked urgently is not overreacting; it’s the safest way to rule out the small number of serious causes that need fast treatment.
 
 ## Scope note
-This guide provides first-step stabilization and triage guidance only. It is intended for use in the immediate minutes following the onset of severe symptoms and does not replace professional medical diagnosis.
+These are first steps to keep you safe and get you assessed quickly. Further tests and treatment depend on what clinicians find.
 
 ## Important note
-This information is based on UK health protocols as of March 2026. If your symptoms worsen at any time while waiting for help, escalate your call to 999.
+This is general information, not a diagnosis or a substitute for medical care. If symptoms are severe, sudden, worsening, or you’re worried, seek urgent help.
 
 ## Additional Resources
+- https://www.nhs.uk/symptoms/headaches/
 - https://www.nhs.uk/conditions/meningitis/symptoms/
-- https://www.meningitisnow.org/meningitis-explained/signs-and-symptoms/
-- https://www.meningitis.org/about-meningitis/symptoms/
-- https://www.nhs.uk/conditions/brain-abscess/
-- https://111.wales.nhs.uk/brainabscess/?locale=en
+- https://www.nhs.uk/conditions/meningitis/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
+- https://ukhsa.blog.gov.uk/2025/10/31/what-is-meningitis-symptoms-risks-and-how-to-protect-yourself/

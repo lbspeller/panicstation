@@ -1,103 +1,89 @@
----
+﻿---
 title: "What to do if… the person listed as a medical contact cannot be reached while decisions are being discussed"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "medical contact unreachable"
-  - "person listed as contact missing"
-  - "decisions being discussed without contact"
-  - "cannot be reached medical emergency"
-  - "unreachable emergency contact hospital"
-  - "medical contact not answering phone"
-  - "what do i do if my medical contact is unreachable"
-  - "what do i do if the person listed cannot be reached"
-  - "what do i do if medical decisions are needed now"
-  - "what do i do if i cannot reach the listed contact"
-  - "help i cannot reach the medical contact"
-  - "help i need to make medical decisions now"
-  - "help i am at the hospital and contact is missing"
-  - "my listed medical contact is not answering"
-  - "my emergency contact is out of reach"
-  - "medical contact is unavailable"
-  - "person listed unreachable"
-  - "decisions discussed without surrogate"
-  - "reached while decisions discussed"
-  - "wrong phone number for medical contact"
-  - "outdated medical contact info"
-  - "no answer from medical proxy"
-  - "patient listed contact missing"
-  - "medical decisions pending no contact"
-  - "hospital contact unreachable"
-  - "surrogate hierarchy in hospital"
-  - "advance directive on file"
-  - "ethics consult for missing contact"
-  - "patient relations medical contact"
-  - "unrepresented patient protocol"
-  - "emergency medical surrogate search"
-  - "healthcare proxy phone not working"
-last_reviewed: "2026-03-16"
+  - medical contact unreachable
+  - emergency contact not answering
+  - next of kin unreachable
+  - healthcare proxy unavailable
+  - surrogate decision maker missing
+  - hospital decisions now
+  - treatment decision meeting
+  - incapacitated patient decisions
+  - advance directive not found
+  - family can't be reached
+  - wrong phone number listed
+  - out of state contact
+  - end of life discussion
+  - intensive care decisions
+  - patient relations help
+  - ethics consult request
+  - who can consent
+  - contact details outdated
+last_reviewed: "2026-03-03"
 ---
+
 # What to do if… the person listed as a medical contact cannot be reached while decisions are being discussed (USA)
 
 ## Short answer
-Notify the clinical team immediately that the contact is unreachable, ask for a temporary pause on non-urgent decisions, and request that staff check the medical record for an alternate proxy or an "identified surrogate" hierarchy under state law.
+Tell the care team the listed contact is unreachable, ask for a time-limited pause on non-urgent decisions if it’s medically safe, and switch immediately to finding the correct legal surrogate (advance directive/health care proxy) or the hospital’s ethics/surrogate process.
 
 ## Do not do these things
-- Do not assume that being a spouse or adult child automatically gives you legal authority if a different person is named in a written directive.
-- Do not guess or provide uncertain contact information; incorrect leads can waste time during a clinical crisis.
-- Do not attempt to make major medical decisions yourself if you are not the legal surrogate, as this can lead to legal delays later.
-- Do not sign hospital documents as a "responsible party" unless you have verified your legal status as the patient's representative.
-- Do not wait hours to speak up; tell the team the moment you realize the primary contact is not responding.
+- Do not assume “next of kin” automatically equals the legal decision-maker in your state.
+- Do not claim you’re the surrogate if you’re not sure — it can delay care and create conflict later.
+- Do not pressure staff to reveal private details if they say they cannot confirm information without proper verification.
+- Do not sign paperwork you don’t understand or that names you as responsible party without reading.
+- Do not let family conflict take over the conversation while time-sensitive medical decisions are pending.
 
 ## What to do now
-1. **Inform the attending physician or charge nurse immediately.**  
-   **Tell the staff: "The person listed as the primary medical contact is currently unreachable; we need to identify the backup contact or use the state's surrogate hierarchy."**
-   - Ask which decisions are "life-or-limb" emergencies and which can be delayed for 2–4 hours.
-   - Request that the team documents the attempt to reach the primary contact in the patient’s chart.
+1. **State the problem and ask what the team needs right now.**  
+   Say: “The listed medical contact isn’t reachable. What decisions are time-critical today, and what can safely wait until the legal surrogate is confirmed?”
 
-2. **Verify if the patient has "decision-making capacity" at this moment.**  
-   **Ask the doctor: "Does the patient currently have the capacity to make this specific decision themselves?"**
-   - If the patient is awake and alert, the clinical team may be able to take consent directly, even if they were previously considered incapacitated.
+2. **Ask whether the patient can decide for themselves right now.**  
+   Ask: “Does the patient have decision-making capacity for this decision at this moment?” If yes, the team should try to involve the patient directly (even briefly). If not, proceed to surrogate/advance directive steps.
 
-3. **Request an immediate search for an Advance Directive or POLST.**  
-   **Ask the unit clerk or social worker to check the electronic health record (EHR) for any uploaded legal documents.**
-   - Specifically ask for a "Durable Power of Attorney for Health Care" or a "Healthcare Proxy" form.
-   - If the patient was transferred from another facility (like a nursing home), ask staff to call that facility to fax any "Provider Orders for Life-Sustaining Treatment" (POLST or MOLST).
+3. **Ask staff to check for an advance directive / health care proxy immediately.**  
+   Use specific terms that match hospital workflows:  
+   - “Is there an advance directive or living will on file?”  
+   - “Is there a durable power of attorney for health care / health care proxy?”  
+   - “Is there a POLST/MOLST or DNR order in the chart (if relevant in this state)?”  
+   If you have documents, provide photos or scanned copies to the nurse/unit clerk.
 
-4. **Identify the "identified surrogate" or "default surrogate" hierarchy.**  
-   **Ask: "What is the hospital policy for identifying a surrogate when the listed contact is unavailable?"**
-   - In most states (and under new 2026 rules in places like Kansas), there is a specific legal order: Guardian, then Proxy/Agent, then Spouse, then Adult Children, then Parents.
-   - Ask if a Physician Assistant (PA) or Advanced Practice Registered Nurse (APRN) is authorized by state law to verify the surrogate if the doctor is in surgery.
+4. **Help locate the right surrogate without guessing.**  
+   Offer concrete leads the hospital can use: second/alternate numbers, a spouse/partner, adult children, a close friend named in paperwork, primary care doctor, assisted living/care facility contact, employer emergency contact, or an attorney’s office (if you know it).  
+   Ask the team to document each attempt and to use only communication methods their policy allows (calls, voicemails, approved messaging routes), using any approved alternate numbers you can provide.
 
-5. **Engage "Patient Relations" or a "Patient Representative."**  
-   **Request: "I would like to speak with a Patient Representative or the hospital Social Worker to help navigate the surrogate process."**
-   - These staff members specialize in identifying legal next-of-kin and can often use hospital resources to find alternate phone numbers or family members.
+5. **If no surrogate is reachable, request the hospital’s escalation pathway.**  
+   Say: “If we can’t reach the proxy/surrogate in time, what is the hospital’s process here?” Then ask specifically for:  
+   - **Patient Relations** (sometimes called Patient Advocacy) to help coordinate communication  
+   - an **Ethics consult** if decisions are serious, time-sensitive, or contested  
+   This is especially important if the patient appears “unrepresented” (no available surrogate and no directive).
 
-6. **Request an Ethics Consultation for high-stakes decisions.**  
-   **If there is a disagreement or if the patient is "unrepresented" (no documents and no reachable family), say: "I request an Ethics Consult to help determine the best path forward for the patient."**
-   - Ethics committees are advisory and can help the medical team make decisions based on the patient's known values when no surrogate is present.
+6. **Get one named staff contact and set a clear next update point.**  
+   Ask for the charge nurse/social worker/case manager name and a direct unit number. Agree a specific time for the next update that fits the unit’s workflow (for example, after the next ward round or when key test results return).
 
-7. **Set a clear "re-check" time with the medical team.**  
-   **Ask for a specific time when the team will meet again to discuss the decision (e.g., "We will reconvene at 4:00 PM to see if the contact has been reached").**
+7. **Start a simple contact-and-facts log now.**  
+   Write down: the hospital/unit, names/roles, what decision is being discussed, what information is missing (proxy? directive?), and the exact times calls were attempted. This prevents confusion when different clinicians rotate in.
 
 ## What can wait
-- You do not need to initiate court proceedings for guardianship in the first few hours.
-- You do not need to provide a complete family tree; focus only on finding the next person in the legal hierarchy.
-- You do not need to resolve financial or insurance issues while medical stabilization is the priority.
-- You do not need to worry about long-term rehabilitation or discharge plans during an acute decision window.
+- You do not need to “solve the legal hierarchy” yourself right now — the hospital can follow state law and policy once they know who is available.
+- You do not need to decide about long-term placement, finances, or funeral plans during a treatment decision discussion.
+- You do not need to escalate to court/guardianship talk in the first minutes unless the hospital tells you no surrogate can be identified and a major decision is pending.
 
 ## Important reassurance
-It is very common for primary contacts to be unreachable due to work, travel, or technical issues. Hospitals have well-established "default surrogate" laws and internal ethics protocols designed specifically for this situation to ensure the patient receives necessary care without unnecessary delay.
+This situation is common: phones die, people work nights, numbers are outdated, spam filters block hospital calls. Hospitals have processes for urgent care and for identifying the right decision-maker, and asking for Patient Relations or an Ethics consult is a normal, appropriate step when the usual contact path fails.
 
 ## Scope note
-This guide provides first-step stabilization for identifying a decision-maker in an active clinical setting. It does not cover legal disputes, long-term guardianship, or the specific surrogate laws of all 50 states.
+This guide covers first steps in the moment decisions are being discussed. Longer-term issues (state-specific surrogate law, guardianship, disputes, bereavement support) may require specialist help.
 
 ## Important note
-This is for informational purposes and is not legal advice. Surrogate hierarchies vary significantly by state. In life-threatening emergencies where no surrogate can be reached, clinicians generally have the legal authority to provide "emergency exception" care to save the patient's life or prevent serious harm.
+This is general information, not legal advice. US rules about who can decide vary by state and by hospital policy. In emergencies, clinicians may provide necessary treatment based on clinical standards and applicable law while they work to identify the correct surrogate or directive.
 
 ## Additional Resources
-- https://medlineplus.gov/advancedirectives.html
-- https://medlineplus.gov/ency/patientinstructions/000469.htm
-- https://www.nia.nih.gov/health/advance-care-planning
-- https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-and-health-care-decisions-tips-caregivers-and
-- https://www.caregiver.org/resource/legal-planning-incapacity/
+- https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care
+- https://code-medical-ethics.ama-assn.org/ethics-opinions/decisions-adult-patients-who-lack-capacity
+- https://journalofethics.ama-assn.org/article/who-makes-decisions-incapacitated-patients-who-have-no-surrogate-or-advance-directive/2019-07
+- https://polst.org/for-patients/about-polst-form/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7233335/
+- https://www.cc.nih.gov/patient-services/representative

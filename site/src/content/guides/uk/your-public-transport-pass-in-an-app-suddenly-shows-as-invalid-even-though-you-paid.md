@@ -1,100 +1,93 @@
----
+﻿---
 title: "What to do if… your public transport pass in an app suddenly shows as invalid even though you paid"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "mobile ticket suddenly invalid"
-  - "travel pass shows invalid"
-  - "ticket app not showing ticket"
-  - "barcode won't load ticket"
-  - "qr code won't scan ticket"
-  - "purchased ticket but can't display"
-  - "paid for ticket but app error"
-  - "phone ticket not recognised"
-  - "rail mticket not working"
-  - "bus mticket not working"
-  - "oyster or contactless trouble"
-  - "pass not active after payment"
-  - "ticket says expired but isn't"
-  - "app logged out lost ticket"
-  - "internet down can't show ticket"
-  - "payment taken but no ticket"
-  - "ticket inspection can't show"
-  - "fare charged but ticket invalid"
-  - "ticket stuck on loading screen"
-  - "national rail app error"
-  - "tfl app ticket invalid"
-  - "trainline ticket not showing"
-  - "bus app ticket disappeared"
-  - "invalid barcode at station"
-  - "help i paid for a ticket but it says invalid"
-  - "what do i do if my train ticket app is broken"
-  - "what do i do if my bus pass is invalid"
-  - "what do i do if my ticket wont load"
-  - "help my ticket says invalid on the train"
-  - "my mobile ticket is not working"
-  - "my rail app says no tickets found"
-  - "my tfl app shows a red cross"
-  - "my bus ticket is greyed out"
-last_reviewed: "2026-03-17"
+  - mobile ticket suddenly invalid
+  - travel pass shows invalid
+  - ticket app not showing ticket
+  - barcode won’t load ticket
+  - qr code won’t scan ticket
+  - purchased ticket but can’t display
+  - paid for ticket but app error
+  - phone ticket not recognised
+  - rail mticket not working
+  - bus mticket not working
+  - oyster or contactless trouble
+  - pass not active after payment
+  - ticket says expired but isn’t
+  - app logged out lost ticket
+  - internet down can’t show ticket
+  - payment taken but no ticket
+  - ticket inspection can’t show
+  - fare charged but ticket invalid
+  - ticket stuck on loading screen
+last_reviewed: "2026-03-11"
 ---
+
 # What to do if… your public transport pass in an app suddenly shows as invalid even though you paid (UK)
 
 ## Short answer
-Do not delete the app or pay for a second ticket immediately. Secure your proof of purchase (email or bank transaction), attempt a "force restart" and "cache clear" of the app, and if challenged by staff, ask for a "failure to show" or "unpaid fare" notice rather than arguing.
+Pause and stabilise: don’t delete the app or start buying duplicate tickets yet. Get your proof of purchase visible (email/receipt/bank line), try the quickest “make it display” fixes, and if you’re challenged, calmly ask for the staff member’s process and any appeal paperwork.
 
 ## Do not do these things
-- Don't delete and reinstall the app or "clear data/storage" immediately, as this can permanently remove some types of m-tickets that are stored locally on your device.
-- Don't assume a screenshot or bank notification is a legal substitute for a ticket; most UK rail and bus operators explicitly state these are not valid for travel.
-- Don't walk away from a ticket inspector or gate line without getting the issue officially logged if you are being charged or penalised.
-- Don't wait more than 21 days to respond to any paperwork issued; missing this window usually results in the loss of your right to appeal and an increase in the fine.
+- Don’t delete/reinstall the app or “clear storage” in a panic (it can remove locally stored tickets or log you out).
+- Don’t rely on screenshots, confirmation emails, or bank transactions as your “ticket” at inspection—many operators won’t accept them, and even where a screenshot might scan, it may still be treated as invalid. Focus on getting the live ticket/pass to display in the required way (app/PDF/Wallet).
+- Don’t argue or raise your voice with drivers/inspectors—focus on getting the issue recorded and what you need to do next.
+- Don’t ignore any notice you’re handed (e.g., Penalty Fare / Unpaid Fare Notice) or miss the deadline printed on it.
 
 ## What to do now
-1. **Apply immediate technical fixes to the device and app.**
-   - **Ensure your phone's Date & Time is set to "Automatic"** in system settings, as many ticket security features (like rotating QR codes) fail if your device clock is off by even a few seconds.
-   - **Disable any active VPN or battery-saver mode**, then toggle Airplane Mode on and off to refresh your data connection.
-   - **Force-close the app and reopen it**; if using Android, you can safely "Clear Cache" (not "Clear Data") in the app settings to fix loading glitches.
+1. **Move to a calmer spot and make your phone usable (30–60 seconds).**
+   - Turn off battery saver temporarily, increase screen brightness, and disable VPN if you use one.
+   - Set **Date & Time** to **automatic** (some mobile-ticket systems rely on correct device time).
+   - If you have a portable charger, connect it now.
 
-2. **Secure your secondary evidence of payment.**
-   - **Locate the confirmation email** from the ticket retailer or operator.
-   - **Open your mobile banking app** and find the specific transaction showing the date, time, and amount paid.
-   - **Take a screenshot of the app error screen** (e.g., "Invalid Ticket" or "No Tickets Found") to use as evidence for a later appeal or refund claim.
+2. **Collect “proof you paid” that you can show immediately (even if it may not count as a ticket).**
+   - Open the purchase confirmation email/receipt (from the retailer/operator).
+   - Open your banking/app wallet and find the matching transaction (amount + date/time).
+   - If your app allows it, capture a short screen recording showing the pass as “invalid” plus the order/reference screen.
 
-3. **Approach staff before attempting to pass through gates or boarding.**
-   - **Explain the app failure to a staff member** at the gate line or on the platform before the journey begins.
-   - **Ask if they can verify your booking reference** manually or if they have a specific protocol for app malfunctions.
-   - **Request a "Permit to Travel" or advice** on whether you should purchase a new ticket and claim a refund later (ensure you get the staff member's name or ID if they give you verbal permission to travel).
+3. **Do the fastest “get the ticket to display” fixes, in this order.**
+   - Toggle **Airplane mode on/off**, then reopen the app.
+   - Force-close the app, reopen, and **sign in again** if prompted.
+   - Check for an in-app **restore purchases / refresh tickets** option.
+   - Update the app if there’s an update available, then reopen.
 
-4. **Manage an on-board ticket inspection or Penalty Fare.**
-   - **Calmly state that you have a valid ticket but the app is malfunctioning**, then present your email receipt and bank transaction.
-   - **Accept the Penalty Fare Notice (PFN) or Unpaid Fare Notice (UFN)** if the inspector insists; for most UK rail services, the PFN is £100 plus the full single fare, reduced to £50 plus the fare if paid within 21 days.
-   - **Note the specific 21-day appeal window**: for National Rail, the countdown starts the day *after* issue; for Transport for London (TfL), it is 21 days from the date of issue.
+4. **If you’re at gates or boarding right now, choose the least-bad option to avoid escalation.**
+   - **If staff are present:** ask them to advise what to do *before* you go through (e.g., side gate assistance, checking your booking reference, directing you to the correct help channel, or advising whether you should buy a temporary ticket and claim back).
+   - **If you’re on a rail service and a ticket check happens:** say you paid but the app is failing, show the receipt/bank charge, and ask what they’re issuing (if anything) and what evidence you should keep for an appeal.
 
-5. **Initiate the "Stop the Clock" appeal process.**
-   - **Submit an appeal through the official body** (usually AS, PSL, or IRCAS as listed on your notice) as soon as possible.
-   - **Know that once an appeal is submitted, the 21-day payment clock is "stopped"**; you will not be required to pay the higher amount while your case is being reviewed.
+5. **If you’re issued a Penalty Fare / Unpaid Fare Notice, switch to “paperwork mode.”**
+   - Check you get a reference/notice (photo it), and note the **time, service, origin/destination, and staff ID/name** if shown.
+   - Follow the notice instructions exactly. On much of the rail network, a **Penalty Fare is £100 + the full single fare**, reduced to **£50 + the fare if paid within 21 days**, and **appeals are typically time-limited (often 21 days)**—your notice is what counts.
 
-6. **Handle Transport for London (TfL) maximum fare or invalidity issues.**
-   - **Wait 48 hours for the system to process**, as many "incomplete journey" charges are automatically corrected by TfL's back-end systems.
-   - **Check your online TfL account** after 48 hours; if you were charged a maximum fare, you have 8 weeks from the date of the journey to claim a refund via the TfL website or by calling 0343 222 1234.
+6. **If this is Transport for London (Oyster/contactless) and you’re seeing “invalid”/maximum fare issues:**
+   - After the journey, check your **TfL contactless & Oyster account** for incomplete journeys/maximum fares.
+   - If you were charged incorrectly, follow TfL’s **incomplete journey refund** process (they may advise waiting for automatic processing first, and there’s a time window to claim).
+
+7. **Report the fault to the right organisation (today if possible).**
+   - **Ticket retailer/app (e.g., train/bus operator app):** ask them to confirm the ticket status and provide a written note that you purchased before travel and the app malfunctioned.
+   - **Operator you travelled with:** ask how to submit evidence if you were stopped or charged extra due to app failure.
 
 ## What can wait
-- You do not need to contact the Rail Ombudsman or a lawyer today; these are for cases where the initial appeal process has failed.
-- You do not need to replace your phone or SIM card immediately, as the issue is likely a software sync or server-side error.
-- You do not need to worry about a criminal record; a Penalty Fare is a civil matter and does not result in a record if handled within the provided timelines.
+- You don’t need to decide right now whether to escalate to complaints bodies.
+- You don’t need to “fix your whole phone” (factory reset, new SIM, new device) today.
+- You don’t need to chase a refund immediately if the operator/TfL system says to wait for automatic processing first.
 
 ## Important reassurance
-Technology failures in transport apps are a documented and frequent occurrence. As long as you have proof of purchase and engage with the official appeal process rather than escalating the situation on-site, the vast majority of these cases are resolved in the passenger's favour during the appeal stage.
+This happens to a lot of people—apps log you out, time settings drift, barcodes fail to load, or systems glitch. The best damage-control is staying calm, preserving your evidence, and making sure any penalty/notice is handled on time.
 
 ## Scope note
-This guide provides first-step stabilization for app-based ticket failures in the UK. It does not cover long-term legal disputes, prosecution for intentional fare evasion, or issues occurring outside of the UK transport network.
+This is first-steps guidance to stabilise the moment and reduce the risk of extra charges or enforcement action. If you receive formal paperwork about a penalty or prosecution, you may need specialist advice based on the exact document and operator.
 
 ## Important note
-This information is for guidance only and does not constitute legal advice. As of April 1, 2026, National Rail refund rules have changed; most flexible tickets are no longer refundable on the day of travel unless the service is cancelled. If you bought the wrong ticket by mistake on the day of travel, you must contact the retailer immediately.
+This is general information, not legal advice. Ticket validity rules and enforcement processes vary by operator and ticket type, and decisions can depend on what you can display at the time.
 
 ## Additional Resources
-- https://tfl.gov.uk/help-and-contact/contact-us-about-oyster
-- https://tfl.gov.uk/help-and-contact/contact-us-about-the-tfl-oyster-app
+- https://www.nationalrail.co.uk/tickets-railcards-and-offers/buying-a-ticket/penalty-fares/
+- https://tfl.gov.uk/fares/refunds-and-replacements
 - https://tfl.gov.uk/fares/refunds/apply-for-incomplete-journey-refund
-- https://www.nationalrail.co.uk/tickets-railcards-and-offers/buying-a-ticket/smart-tickets/
-- https://www.railombudsman.org/complaint
+- https://tfl.gov.uk/fares/touching-in-and-out
+- https://www.londonnorthwesternrailway.co.uk/tickets-discounts/penalty-fares
+- https://www.buses.co.uk/m-tickets-terms-and-conditions
+- https://tfl.gov.uk/cdn/static/cms/documents/penalty-fares-appeals-policy.pdf

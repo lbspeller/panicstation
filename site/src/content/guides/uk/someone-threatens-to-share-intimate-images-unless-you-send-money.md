@@ -1,99 +1,83 @@
----
+﻿---
 title: "What to do if… someone threatens to share intimate images unless you send money"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "someone threatens to share intimate images"
-  - "threatens to share intimate images unless you send money"
-  - "intimate images blackmail"
-  - "share intimate images"
-  - "send money for images"
-  - "sextortion uk help"
-  - "webcam blackmail uk"
-  - "online extortion photos"
-  - "threatened to leak nudes"
-  - "what do i do if someone has my nudes"
-  - "what do i do if i am being blackmailed online"
-  - "what do i do if someone wants money for photos"
-  - "help i sent an intimate photo to a scammer"
-  - "help i am being sextorted"
-  - "my images are being used for blackmail"
-  - "my private photos might be leaked"
-  - "smell of scam"
-  - "sudden demand for payment"
-  - "threats to contact family"
-  - "blackmail messages on instagram"
-  - "snapchat sextortion help"
-  - "scammer has my contact list"
-  - "threatened with deepfake nudes"
-  - "stop the blackmail"
-  - "evidence of sextortion"
-  - "reporting online blackmail uk"
-  - "revenge porn helpline contact"
-  - "report fraud uk"
-  - "police 101 sextortion"
-  - "nudes shared online help"
-last_reviewed: "2026-03-17"
+  - sextortion
+  - intimate images blackmail
+  - threatened to share nudes
+  - threatened to leak photos
+  - pay money or they post
+  - online sexual blackmail
+  - webcam blackmail
+  - extortion over images
+  - sent intimate photo mistake
+  - deepfake nude threat
+  - scammer has my contacts
+  - instagram sextortion
+  - snapchat sextortion
+  - dating app blackmail
+  - worried family will see
+  - stop paying now
+  - preserve messages evidence
+  - report abusive account
+  - under 18 image threat
+  - someone is blackmailing me
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… someone threatens to share intimate images unless you send money (UK)
 
 ## Short answer
-Stop all communication immediately, do not pay any money, and report the incident to the police via 101. Secure your social media accounts and use official tools like StopNCII.org or Report Remove to prevent the images from being shared.
+Do not pay, and stop engaging with the person. Save the basics (the threat, usernames, payment details) and get support—this is blackmail, and you are not to blame.
 
 ## Do not do these things
-- Don't pay the blackmailer; payment almost always leads to higher demands and does not guarantee the images will be deleted.
-- Don't delete the messages, the profile, or the account yet, as these contain vital evidence for the police.
-- Don't engage in negotiations, arguments, or pleas for mercy, as this confirms you are panicked and likely to comply.
-- Don't share the images with anyone else to "show what is happening," especially if the person in the image is or was under 18.
-- Don't click any links or download any files sent by the blackmailer.
+- Don’t pay “just this once” to make it go away (it often leads to more demands).
+- Don’t bargain, argue, or send more images/information to “prove” anything.
+- Don’t delete the chat/account history in a panic before saving the essentials.
+- Don’t click links they send or install anything they suggest.
+- Don’t copy, forward, or re-share any explicit images—especially if there’s any chance someone shown is under 18.
 
 ## What to do now
-1. **Cease all contact and block the individual on all platforms.**
-   - Do not send a final message explaining why you are stopping.
-   - Use the internal "block and report" functions within the app (e.g., Instagram, Snapchat, or WhatsApp).
-2. **Collect a minimalist evidence bundle (5 minutes maximum).**
-   - **Take screenshots of the following items only:**
-   - The blackmailer's profile page and username/ID.
-   - The specific threat and the demand for money.
-   - Any payment details provided (bank account, crypto address, or payment app handle).
-3. **Contact your bank or payment provider immediately if you have already sent money.**
-   - Notify them that the transaction was made under duress / blackmail.
-   - Ask them to monitor your account for further unauthorized attempts.
-4. **Report the crime to the police by calling 101.**
-   - Tell the operator you are a victim of "sextortion" or "online blackmail."
-   - If you feel you are in immediate physical danger, call **999**.
-   - If you are in Scotland, report via **101** to Police Scotland.
-5. **Use a digital protection tool to block the image from being uploaded.**
-   - If you are 18+, use **StopNCII.org** to create a "digital fingerprint" (hash) of the image; this allows participating platforms to detect and block the image without you having to upload it to them.
-   - If you are under 18, use **Take It Down** (via NCMEC) or **Report Remove** (via Childline and IWF).
-6. **Secure your digital accounts to prevent the scammer from finding your contacts.**
-   - Change your passwords and enable two-factor authentication (2FA) on your email and social media.
-   - Set your social media profiles to "Private" and restrict who can see your followers/friends list.
-   - Deactivate (do not delete) your accounts temporarily if the harassment continues from new profiles.
-7. **Access specialist support for adult victims.**
-   - Contact the **Revenge Porn Helpline** (0345 6000 459, Monday–Friday 10:00–16:00) for help with content removal and practical advice.
-8. **Follow specific reporting routes for under-18s if applicable.**
-   - If you are under 18, or the images involve a minor, report the incident to the **NCA CEOP Safety Centre** online.
-   - Use the **Report Remove** tool (Childline + Internet Watch Foundation) to help remove images that may have already been shared.
+1. **Make a quick “evidence bundle” (2–5 minutes, then stop).**  
+   Save: the account/profile name, the exact threat, the demand, any payment details (bank account/handles), and timestamps. If you take screenshots, focus on the *threat/demand/payment details* and avoid capturing/redistributing explicit images.
+2. **Stop the pressure loop: stop replying, then block and report the account.**  
+   Use the in-app reporting tools (look for options like blackmail/extortion or intimate image abuse). Blocking is fine after you’ve saved the basics.
+3. **If you already paid, stop paying and contact your bank/payment provider immediately.**  
+   Tell them you are being blackmailed and ask about: stopping further transfers, securing your account/cards, and recording it as fraud/blackmail (without assuming they can recover funds).
+4. **Lock down your accounts so they can’t escalate.**  
+   Change passwords for your email and the app(s) involved, enable 2-step verification, and check recovery email/phone settings haven’t been changed. If your email is compromised, secure that first.
+5. **Use a “do-not-share” tool if you have the image(s) on your device.**  
+   If you can access the intimate image(s) locally, consider using StopNCII.org to create a hash so participating platforms can help detect/block re-uploads (without uploading the image itself).
+6. **Get specialist, confidential support.**  
+   If you’re 18+, contact the Revenge Porn Helpline for practical help (including takedown support). If you’re under 18, use the under-18 route in the next step.
+7. **If you are under 18 (or there’s any chance someone shown is under 18): switch to child-safety reporting immediately.**  
+   Do not share/forward the image(s). If you have a trusted adult, ask them to help you report to police. If you don’t, you can report to the **NCA CEOP Safety Centre**. You can also use **Report Remove** (Childline + Internet Watch Foundation) to help remove images that have been shared or might be shared.
+8. **Report it to the right UK route for sextortion/blackmail.**  
+   - If you feel in immediate danger, call **999**.  
+   - Otherwise, report to your local police by calling **101**.  
+   - You can also make a report via **Report Fraud** (the national fraud/cyber reporting service). If you live in **Scotland**, follow Police Scotland guidance (typically report via **101**).
 
 ## What can wait
-- You do not need to decide if you want to tell your family or employer right now.
-- You do not need to check every social media platform to see if the images have appeared.
-- You do not need to hire private "reputation management" companies; official helplines provide these services for free.
-- You do not need to understand "why" this happened or how the scammer found you.
+- You do not need to decide right now whether to tell employers, friends, or family.
+- You do not need to write a long explanation or keep “proving” things to the blackmailer.
+- You do not need to pay for “reputation management” or paid takedown services in the first hours.
+- You do not need to monitor social media nonstop—make a plan with support instead.
 
 ## Important reassurance
-Sextortion is a high-volume organized crime designed to exploit a brief window of intense panic. Criminals target hundreds of people simultaneously; once you stop the flow of money and communication, you become a "low-value" target, and they typically move on to someone else. Feeling overwhelmed or ashamed is a standard response to this violation, but it is not a reflection of your character or fault.
+This tactic is designed to trigger panic and rushed decisions. Many people freeze or comply at first—none of that makes this your fault. The safest immediate move is to stop the money and stop the conversation, then use proper reporting and support channels.
 
 ## Scope note
-This guide provides first-step stabilization for an acute blackmail event. It does not cover long-term legal proceedings, psychological therapy, or comprehensive digital forensics.
+These are first steps to stabilise the situation and reduce escalation. Longer-term choices (ongoing safety, disclosure, legal options, wider clean-up) can be made later with specialist support.
 
 ## Important note
-This information is for immediate safety guidance and does not constitute legal advice. Reporting procedures and service availability are current for 2026. If you are a minor, please involve a trusted adult or contact Childline on 0800 1111.
+This is general information, not legal or clinical advice. If you are under 18 (or unsure), avoid copying/sharing any explicit material and use child-safety reporting/support routes. If you feel unsafe right now, call 999.
 
 ## Additional Resources
+- https://www.reportfraud.police.uk/sextortion/
+- https://www.reportfraud.police.uk/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/
 - https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/sextortion-and-webcam-blackmail/
-- https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/
-- https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/sextortion-help-and-support/
-- https://www.gov.uk/government/publications/domestic-abuse-bill-2020-factsheets/threats-to-disclose-private-sexual-photographs-and-films
-- https://www.ceopeducation.co.uk/parents/articles/online-blackmail
+- https://stopncii.org/?lang=en-gb
+- https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/report-remove/
+- https://www.iwf.org.uk/our-technology/report-remove/

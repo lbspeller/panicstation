@@ -1,91 +1,82 @@
----
+﻿---
 title: "What to do if… online check-in is blocked because your documents need manual verification"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "online check-in blocked"
-  - "cannot check in online"
-  - "check-in says verify documents"
-  - "manual document verification"
-  - "document check at airport"
-  - "boarding pass not issued"
-  - "passport details mismatch"
-  - "apis passenger details wrong"
-  - "secure flight data mismatch"
-  - "name mismatch on booking"
-  - "date of birth mismatch ticket"
-  - "gender marker mismatch airline"
-  - "esta passport changed"
-  - "need new esta application"
-  - "visa waiver program check"
-  - "travel authorization problem"
-  - "transit country requirements"
-  - "proof of name change"
-  - "redress number issue"
-  - "check in at counter only"
-  - "what do i do if online check in is blocked"
-  - "what do i do if airline needs to see my passport"
-  - "what do i do if my booking name is wrong"
-  - "what do i do if i cannot get a boarding pass"
-  - "help i cannot check in online for my flight"
-  - "help i need manual document verification"
-  - "help my passport is not being accepted"
-  - "help my esta is not linking to my flight"
-  - "my online check in is greyed out"
-  - "my boarding pass says see agent"
-  - "error code for document verification"
-  - "passport expires in less than six months"
-  - "boarding denied for document mismatch"
-  - "esta mobile app verification"
-  - "tsa confirmid fee for non-real id"
-last_reviewed: "2026-03-17"
+  - online check-in blocked
+  - cannot check in online
+  - check-in says verify documents
+  - manual document verification
+  - document check at airport
+  - boarding pass not issued
+  - passport details mismatch
+  - apis passenger details wrong
+  - secure flight data mismatch
+  - name mismatch on booking
+  - date of birth mismatch ticket
+  - gender marker mismatch airline
+  - esta passport changed
+  - need new esta application
+  - visa waiver program check
+  - travel authorization problem
+  - transit country requirements
+  - proof of name change
+  - redress number issue
+  - check in at counter only
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… online check-in is blocked because your documents need manual verification (USA)
 
 ## Short answer
-Verify that your reservation's Secure Flight data matches your physical ID exactly, confirm your travel authorization (ESTA/visa) is valid, and arrive at the airport at least three hours early for a manual counter check-in.
+Assume you must check in with an agent: make your reservation details match your ID/passport and have proof of any required authorization (like ESTA/visa), then arrive early for counter check-in.
 
 ## Do not do these things
-- Do not assume a gate agent can resolve a document block; many airline systems require a check-in counter agent to clear the flag before you can pass security.
-- Do not repeatedly enter guessed passport numbers or dates; multiple failed attempts can trigger a temporary security lockout on your booking.
-- Do not cancel your flight or pay for a new ticket until a counter agent confirms the specific nature of the document issue.
-- Do not attempt to travel with only a digital copy or photo of your passport; physical documents are mandatory for manual verification.
+- Don’t assume this can be fixed at the gate — you may need a counter agent before security.
+- Don’t keep “guessing” at passport or personal details; one wrong digit can keep you blocked.
+- Don’t buy a new ticket or pay change fees until you know whether it’s only a routine document check.
+- Don’t travel without the physical passport you’ll use for the trip (and any supporting documents you rely on).
 
 ## What to do now
-1. **Screenshot the specific error message or code displayed during the failed check-in attempt.** This provides the airline agent with the technical reason for the block, such as a "DOCS" flag or an APIS mismatch.
-2. **Verify that your Secure Flight Passenger Data (SFPD) matches your government-issued ID character-for-character.** 
-   - Check that the full name, date of birth, and gender in the reservation match your passport or REAL ID.
-   - If you have a Redress Number, ensure it is entered in the dedicated field to prevent misidentification against watchlists.
-3. **Check your passport's expiration date against the "six-month rule" for your destination.** 
-   - Many countries and airlines will block check-in if your passport expires within six months of your return date, regardless of current validity.
-4. **Confirm your travel authorization status via the official government portal or app.**
-   - If using the Visa Waiver Program, verify your status on the ESTA Mobile app; note that the 2026 application fee is $40.27.
-   - If your passport number, name, or citizenship has changed, you must submit a new ESTA application rather than updating an old one.
-5. **Ensure you have an acceptable form of identification for the TSA checkpoint.**
-   - If you do not have a REAL ID-compliant license or a passport for a domestic flight, be prepared to pay the $45 TSA ConfirmID verification fee at the airport (effective February 1, 2026).
-6. **Download and save offline copies of all entry permits, visas, and health declarations.** Having these ready on your device or in print prevents delays caused by poor airport connectivity during manual inspection.
-7. **Contact the airline's official support line to ask if the block is "routine" or "critical."**
-   - Ask specifically: "Is this a routine document sighting requirement or is there an invalid field in my Secure Flight data?"
-   - If a minor spelling error exists in the name, ask the agent to add a "name correction" note to the PNR (Passenger Name Record).
-8. **Arrive at the airport check-in counter at least three hours before an international departure.** Manual verification often requires a supervisor's override, which can involve significant wait times during peak travel periods.
+1. **Capture the exact block message.** Screenshot the check-in screen and any error codes so you can show them to the airline agent.
+2. **Fix the common causes: reservation details not matching your ID.**
+   - In your reservation’s passenger details/APIS, confirm your passport number, nationality, date of birth, and expiry date are correct.
+   - For TSA **Secure Flight**, make sure the reservation has your **full name, date of birth, and gender** as they appear on the ID you’ll present (and add a redress number if you have one).
+3. **If the ticket name doesn’t match your passport name, pause and reduce risk.**
+   - If the mismatch is more than a minor spelling issue, contact the airline to correct the name per their rules.
+   - If you have legal name-change documents (marriage certificate, court order), bring them — they can help an agent understand the mismatch (but they do not guarantee the airline can fix the ticket).
+4. **If ESTA is involved (Visa Waiver Program), check what can and cannot be “updated.”**
+   - You **can update many fields**, but if your **passport details, country of citizenship, or date of birth** changed, you generally need to **submit a new ESTA application**.
+5. **Make your authorization/proof showable offline.**
+   - Download or screenshot approvals/confirmations (ESTA status, visa, residency permit) so you can show them without airport Wi-Fi.
+6. **Ask the airline one direct question via official support.**  
+   “Is my check-in blocked for routine document inspection, or is there a specific missing/invalid field or document?”  
+   If they can see a failing field, they may be able to correct it or add a note for the airport team.
+7. **Go to the airport for full-service counter check-in with extra time.**
+   - Bring: passport, any visas/ESTA/permits, booking reference, and any name-change documents you have.
+8. **If you’re a U.S. citizen flying to the United States:**  
+   Be ready to present a **valid U.S. passport** to board your flight to the U.S. If you don’t have one, switch immediately to passport replacement rather than hoping the airport desk can override it.
+9. **If you are a dual national U.S. citizen:**  
+   Plan to **enter and leave the United States on your U.S. passport** and carry it for the trip.
 
 ## What can wait
-- Requests for seat upgrades or cabin changes until the document block is cleared.
-- Filing formal complaints about the check-in software or interface.
-- Applying for travel insurance claims, as most policies require a formal "denied boarding" certificate which is only issued after a counter check-in attempt.
+- Complaints and compensation discussions.
+- Insurance claims until you know whether you’re truly denied travel versus simply required to verify at the counter.
+- Any non-essential itinerary changes until the airline clears you to travel.
 
 ## Important reassurance
-Manual document verification is a standard security procedure for international travel and does not necessarily indicate a problem with your eligibility to fly. It is frequently triggered by routine spot-checks, destination-specific visa requirements, or the need to physically sight a passport for the first time on a new booking.
+This is a common situation on international itineraries and often just means the airline needs a human to verify documents. The main risk is running out of time at the airport.
 
 ## Scope note
-This guide covers immediate stabilization steps for travelers unable to complete digital check-in. It does not provide legal advice, immigration assistance, or guaranteed outcomes for those with expired or invalid travel documents.
+These are immediate steps to prevent avoidable denial at check-in. If there’s a genuine document problem (expired passport, wrong authorization, missing visa), you may need formal help from the airline and/or government services.
 
 ## Important note
-Airlines have the final authority to deny boarding if documents are deemed insufficient or inconsistent with destination requirements. Travelers without REAL ID or valid alternatives may face additional fees and verification steps at TSA checkpoints as of 2026.
+This is general information, not legal advice or immigration guidance. Requirements vary by destination and transit points, and airlines can refuse boarding if they believe you do not meet entry requirements.
 
 ## Additional Resources
-- https://www.delta.com/us/en/flyready/overview
-- https://www.delta.com/us/en/travel-planning-center/know-before-you-go/travel-requirements-guide
-- https://www.delta.com/us/en/travel-planning-center/know-before-you-go/travel-to-the-us
-- https://www.delta.com/us/en/travel-planning-center/know-before-you-go/travel-from-the-us
-- https://www.delta.com/us/en/check-in-security/check-in-time-requirements/international-check-in
+- https://www.help.cbp.gov/s/article/Article-1467?language=en_US
+- https://esta.cbp.dhs.gov/faq?lang=en
+- https://www.help.cbp.gov/s/article/Article-1255
+- https://www.help.cbp.gov/s/article/Article-1811
+- https://travel.state.gov/en/international-travel/planning/personal-needs/dual-nationality.html
+- https://www.aa.com/web/i18n/travel-info/security/secure-flight.html

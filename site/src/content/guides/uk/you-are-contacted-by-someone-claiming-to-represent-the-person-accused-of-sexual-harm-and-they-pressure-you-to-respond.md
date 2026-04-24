@@ -1,92 +1,81 @@
----
+﻿---
 title: "What to do if… you are contacted by someone claiming to represent the person accused of sexual harm and they pressure you to respond"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "accused person contact"
-  - "legal representative contact"
-  - "solicitor pressure"
-  - "sexual harm contact"
-  - "sexual violence support"
-  - "pressure to respond"
-  - "unwanted contact"
-  - "intimidation after disclosure"
-  - "harassment after report"
-  - "third party contact"
-  - "solicitor check sra"
-  - "non-molestation order"
-  - "protecting evidence"
-  - "what do i do if i am pressured to reply"
-  - "what do i do if someone claims to represent the accused"
-  - "what do i do if the accused's lawyer contacts me"
-  - "what do i do if i am harassed by the accused"
-  - "help i am being pressured by a solicitor"
-  - "help i received a message from the accused"
-  - "help i am being intimidated by a third party"
-  - "my safety after sexual harm"
-  - "messages from person who harmed me"
-  - "accused person lawyer messages"
-  - "threats from accused representative"
-  - "aggressive legal letters"
-  - "unknown number calling me"
-  - "social media pressure from accused"
-  - "solicitor verification england wales"
-  - "national stalking helpline"
-  - "rape crisis support line"
-last_reviewed: "2026-03-17"
+  - accused person contact
+  - contacted by their lawyer
+  - pressure to respond message
+  - intimidation after disclosure
+  - unwanted contact after assault
+  - harassment after report
+  - third party contacting me
+  - coercive messages
+  - “they represent him” claim
+  - “respond now” threat
+  - keeping messages as evidence
+  - safety planning after contact
+  - what to say to them
+  - i feel scared to reply
+  - asked to meet privately
+  - legal representative contacting me
+  - someone says they’re a solicitor
+  - no contact request
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you are contacted by someone claiming to represent the person accused of sexual harm and they pressure you to respond (UK)
 
 ## Short answer
-Do not respond to the contact. Secure your immediate physical safety, preserve all communication as evidence without engaging, and contact a specialist support service for confidential guidance.
+Do not respond in the moment. Save what they sent, make yourself safer, and get confidential support (and contact police if you feel threatened).
 
 ## Do not do these things
-- Don't reply to "set the record straight," explain your version, or apologize.
-- Don't agree to meetings, "private chats," or phone calls to resolve the matter.
-- Don't click any links or download files sent by the person contacting you.
-- Don't delete any messages, call logs, or emails, regardless of how distressing they are.
-- Don't provide personal information such as your home address, workplace, or daily routine.
-- Don't feel obligated to meet deadlines or "respond within the hour" as demanded by the sender.
+- Don’t argue, explain, apologise, negotiate, or “set the record straight” in messages.
+- Don’t agree to a call, meeting, or “quick chat” (even in public) to “clear things up”.
+- Don’t click links, open unknown attachments, or share personal details (address, workplace, routine, other private messages).
+- Don’t delete messages/voicemails/call logs, even if they’re upsetting.
+- Don’t let them rush you with deadlines (“reply in 10 minutes or else…”).
+- Don’t call back a number they gave you to “verify” who they are.
 
 ## What to do now
-1. **Move to a location where you feel physically safe and stop looking at the messages.** Creating a physical and digital distance helps reduce immediate panic.
-   - If you feel in immediate danger or are being followed, call **999**.
-2. **Preserve every interaction exactly as it occurred.**
-   - Take screenshots of messages, including the sender's handle, phone number, and the timestamp.
-   - Save voicemails and keep original emails in a separate folder; do not forward or edit them.
-   - If contact occurs via a phone call, note the time, duration, and exactly what was said as soon as the call ends.
-3. **Isolate the pressure by muting or blocking the sender.**
-   - Use the "Mute" function on messaging apps to stop notifications while keeping the evidence accessible.
-   - If you require immediate relief from the contact, block the number or account.
-   - Silence calls from unknown numbers in your phone settings.
-4. **Verify the identity of anyone claiming to be a legal professional.** 
-   - If the person claims to be a solicitor in England or Wales, use the **Solicitors Regulation Authority (SRA)** Solicitors Register to check their status.
-   - Look up the law firm's official office number independently and do not use any contact details provided in the suspicious message.
-5. **Contact the 24/7 Rape and Sexual Abuse Support Line.** Call **0808 500 2222** for confidential support in England and Wales. This service is independent of the police and can help you process the contact without forcing a report.
-6. **Seek advice on stalking or harassment if the contact is persistent.** Call the **National Stalking Helpline** on **0808 802 0300**. They provide specific safety planning for those being pressured or monitored by third parties.
-7. **Report the contact to the police if you feel intimidated or threatened.**
-   - Call **101** to report non-emergency harassment or witness intimidation.
-   - If there is an active investigation or court case, inform the Witness Care Unit or the lead investigating officer immediately.
-8. **Consult an Independent Domestic Violence Advisor (IDVA) if you have a personal relationship with the accused.** They can explain whether you are eligible for a **non-molestation order**, which is a court injunction that makes further contact a criminal offence.
+1. **Create a pause and get somewhere you feel safer.** If you feel in immediate danger, call **999**.
+2. **Preserve what happened (without engaging).**
+   - Screenshot messages (including the name/number/handle and timestamps).
+   - Save voicemails; note the date/time of calls; keep emails.
+   - If safe, write a short note to yourself: what was said, any threats, and how they contacted you.
+3. **Stop the pressure reaching you (choose the least-stress option that still keeps records).**
+   - **Mute** the conversation and silence unknown callers.
+   - If you need immediate relief, it’s okay to **block** after you’ve saved what you need. (Apps and phones handle blocked messages differently; the priority is your safety and headspace.)
+4. **Treat “I represent them” as unverified until proven otherwise.** You do not need to “prove” anything to a stranger contacting you.
+   - If they say they are a **solicitor in England & Wales**, you can check the **Solicitors Regulation Authority (SRA) Solicitors Register** using details you search for yourself (not anything they sent).
+5. **Tell one trusted person what’s happening.** Send them the screenshots or ask them to sit with you while you make the next calls. Pressure works best in isolation.
+6. **Get specialist support (you don’t have to report).**
+   - Contact **Rape Crisis England & Wales** (phone or chat) for confidential support and help thinking through safe next steps.
+   - If the contact is part of wider harassment or stalking, you can also contact **Victim Support** for independent help.
+7. **If you feel threatened, harassed, or intimidated, consider reporting the contact.**
+   - If not an emergency, call **101** (or report online via your local police). If it becomes urgent or you feel unsafe, call **999**.
+   - If there is an existing police report/case, update the officer/team handling it and share the saved messages.
+8. **If the person contacting you is someone you have (or had) a close personal relationship with, court protection may be an option.**
+   - In some situations (often involving partners/ex-partners or family connections), you may be able to apply for a **non-molestation order** to stop harassment/contact. A specialist advocate service can help you work out whether it fits your situation.
 
 ## What can wait
-- You do not need to decide whether to continue with a police report or a court case today.
-- You do not need to figure out how the person got your contact details.
-- You do not need to respond to legal threats or "defamation" claims made in the messages.
-- You do not need to justify your silence to the person contacting you.
+- You do not need to decide today whether to report, make a statement, start a legal process, or confront anyone.
+- You do not need to craft the “perfect reply” (often the safest reply is none).
+- You do not need to justify your boundaries or explain why you won’t engage.
 
 ## Important reassurance
-Receiving high-pressure messages from someone connected to an accused person is designed to cause confusion and fear. Feeling a "freeze" response or a desire to comply to make the pressure stop is a common physiological reaction to intimidation. You have the right to ignore these communications and seek professional help before taking any action.
+Pressure and “official-sounding” messages can trigger panic, freeze, shame, or confusion—those reactions are normal. You’re allowed to slow this down, get support, and choose what (if anything) you do next.
 
 ## Scope note
-This guide provides immediate stabilization steps for handling unwanted contact and pressure. It does not constitute legal advice or replace the need for professional safety planning in ongoing criminal cases.
+This is first steps only, to stabilise and prevent harm. Later decisions can depend on your safety, whether there’s an ongoing investigation, and what support you want.
 
 ## Important note
-This information is for general guidance in the UK. Contact procedures and legal protections vary between England/Wales, Scotland, and Northern Ireland. If you are involved in an active legal case, speak with your solicitor or the police about witness protection and evidence preservation.
+This is general information, not legal advice. If you are in immediate danger call 999. If you want confidential, specialist help without pressure, a sexual violence support service can help you plan your safest next steps.
 
 ## Additional Resources
-- https://www.cps.gov.uk/prosecution-guidance/witnesses
-- https://www.victimsupport.org.uk/going-court/your-rights-as-a-witness/
-- https://www.gov.uk/government/publications/the-code-of-practice-for-victims-of-crime/code-of-practice-for-victims-of-crime-in-england-and-wales-victims-code
-- https://www.cps.gov.uk/prosecution-guidance/special-measures
 - https://rapecrisis.org.uk/get-help/want-to-talk/
+- https://247sexualabusesupport.org.uk/
+- https://www.victimsupport.org.uk/crime-info/types-crime/stalking-and-harassment/
+- https://www.police.uk/pu/contact-us/
+- https://www.gov.uk/government/publications/apply-for-a-non-molestation-or-occupation-order-fl401
+- https://www.sra.org.uk/consumers/register/

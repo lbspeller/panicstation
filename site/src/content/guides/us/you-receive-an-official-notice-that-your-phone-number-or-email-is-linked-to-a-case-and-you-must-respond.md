@@ -1,84 +1,80 @@
----
+﻿---
 title: "What to do if… you receive an official notice that your phone number or email is linked to a case and you must respond"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - "official notice"
-  - "phone number linked to case"
-  - "email linked to case"
-  - "respond to official notice"
-  - "notice phone number linked"
-  - "notice email linked"
-  - "case respond notice"
-  - "official case notice"
-  - "phone linked to legal case"
-  - "email linked to legal case"
-  - "received official notice"
-  - "what do i do if my phone is linked to a case"
-  - "what do i do if my email is linked to a case"
-  - "what do i do if i get a case notice"
-  - "what do i do if i must respond to a case"
-  - "help i got a text about a legal case"
-  - "help i got an email about a court case"
-  - "help i am being told to respond to a case"
-  - "my phone is linked to a case scam"
-  - "my email is linked to a case notice"
-  - "suspicious case reference number"
-  - "fake subpoena email"
-  - "fake summons text"
-  - "court case number scam"
-  - "government imposter email"
-  - "police case message"
-  - "federal court notice scam"
-  - "notice of electronic filing scam"
-  - "urgent legal response required"
-  - "threat of arrest notice"
-last_reviewed: "2026-03-17"
+  - notice phone number linked to case
+  - notice email linked to case
+  - official notice must respond
+  - law enforcement impersonation message
+  - police case text or email
+  - “you must respond” legal message
+  - subpoena or summons scam
+  - caller id spoofing police
+  - government agency impersonation
+  - federal court notice email
+  - urgent warrant threat message
+  - asked to click link to respond
+  - asked to download legal documents
+  - asked to pay to resolve case
+  - number used in investigation
+  - email used in investigation
+  - asked to verify identity immediately
+  - asked for ssn or otp code
+  - suspicious case reference number
+  - unexpected deadline notice
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you receive an official notice that your phone number or email is linked to a case and you must respond (USA)
 
 ## Short answer
-Do not click links or respond directly to the message; verify the claim independently using official government contact information you find yourself. Real U.S. courts and federal agencies do not use text or unsolicited email to demand immediate payment or sensitive personal identifiers to "clear" a case.
+Don’t respond through the message. Verify independently using official agency/court contact info you find yourself, and if it involves questioning, clearly say you want a lawyer before answering anything.
 
 ## Do not do these things
-- Don't click any links, open attachments, or download "court apps" provided in the notice.
-- Don't provide your Social Security number, date of birth, or bank details to the sender.
-- Don't trust the sender's email address or phone number just because it looks official; these are easily spoofed.
-- Don't pay any "fines" or "fees" using gift cards, cryptocurrency, or wire transfers.
-- Don't attempt to explain your innocence or "clear things up" with the person who contacted you.
-- Don't delete the message, as the metadata and sender details are required for reporting.
+- Don’t click links, open attachments, scan QR codes, or install “secure reply” apps from the notice.
+- Don’t trust caller ID, “badge numbers,” or “case numbers” provided only in the message.
+- Don’t share personal identifiers (SSN, date of birth), account logins, or one-time passcodes.
+- Don’t pay by gift card, crypto, wire, or instant transfer apps to “clear” or “close” a case.
+- Don’t explain your side by phone/text/email just to “avoid arrest” — urgency is a common manipulation tactic.
+- Don’t delete the message yet (you may need it to report).
 
 ## What to do now
-1. **Preserve the evidence immediately.** **Take screenshots of the entire message, including the sender's phone number or email address, any listed case numbers, and the specific threats made.**
-   - If it was an email, save the full email headers if possible.
-2. **Verify the case via the official court system.** **If the notice claims to be from a Federal Court, use the PACER (Public Access to Court Electronic Records) system or call the Clerk’s Office of the specific U.S. District Court named.**
-   - Do not use the phone number provided in the message; find the number on the court's official `.gov` website.
-3. **Verify via official law enforcement channels.** **If the notice claims to be from local police, a Sheriff’s office, or a federal agency (like the FBI or SSA), contact that agency directly through its verified public non-emergency line.**
-   - Check that any email received ends in a strictly `.gov` domain; if it ends in `.org`, `.com`, or `.net`, treat it as a scam.
-4. **Assert your right to counsel if questioned.** **If you accidentally engage with a caller who begins questioning you, state clearly: "I will not answer questions without a lawyer present," and hang up.**
-5. **Report the contact to federal authorities.** **File a report at ReportFraud.ftc.gov for government impersonation and, if the contact occurred online, submit a complaint to the FBI Internet Crime Complaint Center at ic3.gov.**
-   - If the scam involved the Social Security Administration, report it to the SSA OIG at oig.ssa.gov.
-6. **Secure your digital accounts.** **Change the password for the email account that received the notice and ensure multi-factor authentication (MFA) is active.**
-7. **Protect your identity if data was shared.** **If you provided a Social Security number or financial info, place a fraud alert or credit freeze with the three major bureaus (Equifax, Experian, and TransUnion).**
+1. **Save the evidence.** Screenshot the entire message, sender details, any “case number,” the exact threats/requests, and the link text shown (do not click it).
+2. **Verify via official channels you choose.**
+   - If it claims to be **local/state law enforcement**: contact your local police/sheriff using the published non-emergency number (or go in person) and ask if the outreach is legitimate.
+   - If it claims to be a **federal agency**: look up the agency’s official website and use its listed field office contact to verify the name/unit and get a safe next step.
+   - If it claims to be a **court** notice: contact the court **Clerk’s Office** using official court contact details. Be aware that U.S. courts warn they do not use calls/emails/texts to demand money or sensitive personal/financial info.
+3. **If someone tries to question you, set a boundary.** You can say: “I’m not answering questions. I want a lawyer.” Then stop engaging.
+4. **Report the impersonation/scam.**
+   - Report to the **FTC** (ReportFraud) for scam/government-imposter contact.
+   - Report to the FBI’s **IC3** if it’s internet-enabled fraud/phishing.
+   - If it impersonates a **court/jury duty** situation, you can also notify the relevant court Clerk’s Office that scammers are using its name.
+5. **Secure your accounts right away (in case the notice was bait).** Change the password for the email account mentioned, enable multi-factor authentication, and check for unauthorized forwarding rules or recovery info changes.
+6. **If you already paid or shared sensitive info, contain the damage.**
+   - Contact your bank/card issuer immediately if you paid or shared card/bank details.
+   - If you shared SSN or identity documents, consider a **credit freeze** and fraud alerts with the major credit bureaus.
+   - If you suspect phone account takeover/SIM swap, contact your mobile carrier right away.
 
 ## What can wait
-- You do not need to respond within the "deadline" stated in a suspicious text or email.
-- You do not need to prove you are not the person linked to the case during the initial panic.
-- You do not need to hire an expensive attorney before you have verified if a real case actually exists.
-- You do not need to worry about immediate arrest; U.S. courts do not issue warrants via unsolicited text messages for missing jury duty or minor cases.
+- You do not need to write a full statement or “prove” anything immediately.
+- You do not need to give remote access to your device or accounts because someone demanded it.
+- You do not need to pay anything “today” to prevent arrest — courts and law enforcement do not typically handle matters that way, especially via text/email.
+- You do not need to keep engaging to “clear it up”; verification comes first.
 
 ## Important reassurance
-These messages are specifically engineered to trigger a "fight or flight" response using legal terminology and urgency. Taking a moment to pause and verify through official channels is a standard, safe procedure that will not penalize you in a legitimate legal matter.
+Messages like this are designed to spike fear and urgency. A verification-first approach protects you whether it’s a scam or a real matter — and it prevents you from giving information that can’t be taken back.
 
 ## Scope note
-This guide provides first-step stabilization for handling suspicious or unsolicited legal notices. It is not a substitute for legal advice. If a legitimate case is confirmed, consult a licensed attorney.
+These are first steps to prevent panic-driven mistakes and move the situation into a verifiable, proper channel. If it becomes a real legal issue, get advice from a qualified attorney in your state.
 
 ## Important note
-This information is for general educational purposes and does not constitute legal advice. If you are in immediate physical danger or believe a crime is in progress, call 911.
+This is general information, not legal advice. If you believe you are in immediate danger or there is an active emergency, call 911.
 
 ## Additional Resources
-- https://www.consumerfinance.gov/about-us/blog/how-tell-difference-between-legitimate-debt-collector-and-scammers/
-- https://www.consumerfinance.gov/ask-cfpb/what-information-does-a-debt-collector-have-to-give-me-about-the-debt-en-331/
-- https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-debt-collector-to-stop-contacting-me-en-1411/
-- https://consumer.ftc.gov/articles/how-avoid-government-impersonation-scam
-- https://consumer.ftc.gov/consumer-alerts/2024/09/did-you-get-call-or-email-saying-you-missed-jury-duty-need-pay-its-scam
+- https://www.uscourts.gov/data-news/news/federal-court-scams
+- https://www.uscourts.gov/court-programs/jury-service/juror-scams
+- https://consumer.ftc.gov/consumer-alerts/2025/03/call-or-email-saying-you-missed-jury-duty-need-pay-its-scam
+- https://consumer.ftc.gov/articles/phone-scams
+- https://www.ic3.gov/
+- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/spoofing-and-phishing

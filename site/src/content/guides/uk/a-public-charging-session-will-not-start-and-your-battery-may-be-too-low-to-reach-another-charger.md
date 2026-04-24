@@ -1,98 +1,82 @@
----
+﻿---
 title: "What to do if… a public charging session will not start and your battery may be too low to reach another charger"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "public charging session will not start"
-  - "ev battery too low to reach another charger"
-  - "public charger not working"
-  - "charging session won’t start"
-  - "ev won’t charge"
-  - "rapid charger failed"
-  - "tap to charge not working"
-  - "charging app not starting session"
-  - "card payment declined at charger"
-  - "charger error message"
-  - "connector won’t lock"
-  - "stuck at charging station"
-  - "battery too low to reach another charger"
-  - "range too low to move"
-  - "stranded in car park"
-  - "motorway services charger down"
-  - "chargepoint won’t start"
-  - "instavolt not starting charge"
-  - "bp pulse charger not working"
-  - "ionity charger not starting"
-  - "pod point session failed"
-  - "ev low battery emergency"
-  - "what do i do if my ev wont charge"
-  - "what do i do if public charger fails"
-  - "help i am stuck at a charger"
-  - "help i have no range left"
-  - "my car wont start charging"
-  - "my battery is too low"
-  - "red light on charger"
-  - "charger error code uk"
-  - "stuck at motorway services ev"
-  - "emergency ev charging help"
-  - "failed charging handshake"
-  - "contactless payment failed charger"
-  - "rfid card not working"
-last_reviewed: "2026-03-17"
+  - public charger not working
+  - charging session won’t start
+  - ev won’t charge
+  - rapid charger failed
+  - tap to charge not working
+  - charging app not starting session
+  - card payment declined at charger
+  - charger error message
+  - connector won’t lock
+  - stuck at charging station
+  - battery too low to reach another charger
+  - range too low to move
+  - stranded in car park
+  - motorway services charger down
+  - chargepoint won’t start
+  - instavolt not starting charge
+  - bp pulse charger not working
+  - ionity charger not starting
+  - pod point session failed
+  - ev low battery emergency
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… a public charging session will not start and your battery may be too low to reach another charger (UK)
 
 ## Short answer
-Park safely, then call the free-to-use 24/7 helpline number prominently displayed on the charger to request a remote reset or session start. If the failure leaves you in a dangerous position or stranded, contact your breakdown provider or National Highways immediately.
+Get yourself safely parked, then call the helpline number printed on the charger to ask them to remotely start/reset the session or confirm the nearest working alternative. For publicly accessible charge points, operators must provide a free, staffed 24/7 telephone helpline and display the number on the unit.
 
 ## Do not do these things
-- Do not repeatedly attempt payments or app starts if the hardware is unresponsive, as this can trigger multiple bank authorisation holds.
-- Do not use excessive force or pull on the charging cable if the connector fails to latch or release.
-- Do not attempt to reach a distant alternative charger if your range is lower than the distance required; this risks a total power failure in a live traffic lane.
-- Do not block active charging bays while troubleshooting if there is a safe parking space within reach of the cable or nearby.
-- Do not use unapproved third-party adapters or domestic extension leads in a public setting.
+- Don’t keep re-trying payment/app starts over and over if the charger is clearly failing (it can trigger repeated holds/authorisations).
+- Don’t unplug/replug aggressively or force the connector if it won’t latch or release (stop/end the session in the app/screen first, then try again).
+- Don’t run the battery down “to zero” trying to reach another site unless you have a confirmed, realistic plan and conditions are safe.
+- Don’t block the bay while you troubleshoot if there’s a safe way to pull into a nearby parking space.
+- Don’t accept help that involves unsafe cabling or unapproved adapters.
 
 ## What to do now
-1. **Prioritise physical safety and lane clearance.** 
-   - **If you are in a live lane or a dangerous position on a motorway and cannot move, stay in the vehicle with hazard lights on and call 999 immediately.**
-   - If the vehicle is mobile, ensure it is safely in a parking bay and the handbrake/Park mode is engaged. 
-2. **Perform a single "handshake" reset to clear communication errors.** 
-   - **Disconnect the cable, wait 30 seconds for the unit to refresh, and reinsert the connector firmly until you hear the locking click.**
-   - Ensure the vehicle is unlocked during the handshake, as some models will not initiate charging while the doors are locked.
-3. **Verify vehicle-side charging restrictions.**
-   - **Check the infotainment screen or vehicle app to ensure no "Scheduled Charging," "Departure Time," or "Battery Limit" settings are blocking the session.**
-   - Override any active timers to "Charge Now" or "Immediate" mode.
-4. **Attempt an alternative payment or start method.** 
-   - **If the mobile app or RFID card fails, use the contactless card reader if the unit is a Standard Plus (8kW+) or Rapid charger.**
-   - If the station has multiple stalls, move to a different unit; individual connector failures are more common than total site outages.
-5. **Contact the operator's free 24/7 helpline for a remote intervention.**
-   - **Call the number displayed on the charger (required by law to be staffed and free to call) and provide the unique Charge Point ID.**
-   - Ask the operator to perform a "hard reset" of the unit or to "vend" a remote start if your payment is being declined despite having funds.
-   - Request the status of the nearest working alternative stall if the current one is confirmed as faulty.
-6. **Conserve remaining battery for thermal management and electronics.** 
-   - **Turn off high-drain systems including cabin heating, air conditioning, heated seats, and infotainment screens while stationary.**
-   - Keep your mobile phone charged and avoid using the vehicle's 12V battery to charge devices unless the vehicle is "On" or in "Ready" mode.
-7. **Initiate recovery procedures if range is insufficient for the next leg.** 
-   - **Contact your breakdown provider or manufacturer roadside assistance and state clearly that you are an EV driver stranded by a failed public charger.**
-   - If you are on a motorway or major A-road in England and feel vulnerable, call National Highways on 0300 123 5000 for assistance.
+1. **Make it safe first.** Put the car in Park. If it’s safe to do so, pull into a nearby normal parking space so you’re not blocking the bay or sitting in a traffic pinch point (you can usually pull back in once support tells you what to do).
+2. **Check the two “handshake” basics that often stop a session starting.**
+   - Re-seat the connector: remove it, wait a few seconds, reinsert firmly.
+   - Check your car isn’t set to **scheduled/delayed charging** or a **charge limit** that prevents immediate charging (override to “charge now” if available).
+3. **Do a clean restart once (don’t loop it).**
+   - If the charger/app shows anything “active,” end/cancel it.
+   - Unplug, lock the car, wait ~30 seconds, unlock, and try again.
+4. **Switch method, then switch hardware.**
+   - If you tried the app/RFID, try contactless card (or vice versa) if the unit supports it.
+   - If there are multiple stalls/connectors, try a different one (often one connector is down while others work).
+5. **Call the operator helpline number printed on the charger and ask for a remote reset/start.** Give them:
+   - the **charge point ID/number** on the unit and exact location
+   - what the screen says (error code/message)
+   - your **battery %/range** and that you may not reach another charger  
+   Ask them to tell you **which stall is working right now** (or the nearest working site) if they can’t start yours.
+6. **Go into “stay powered” mode while you wait.**
+   - Turn off obvious drains (heated seats, rear demist, high cabin heat/fan) and keep your phone charged.
+   - Stay with the vehicle if it’s safe; if not, go somewhere safe and visible nearby.
+7. **If it can’t be fixed quickly, arrange assistance early (before the battery is critically low).**
+   - Call your **breakdown provider** or your vehicle’s **roadside assistance** and say it’s an EV with insufficient range to reach a charger due to a failed public charge session.
+   - If you’re in an unsafe location (e.g., near fast traffic), prioritise personal safety and getting help over further troubleshooting.
 
 ## What can wait
-- You do not need to file a formal complaint or request a refund for failed authorisations while still at the scene.
-- You do not need to diagnose why the "handshake" failed (e.g., protocol timing or software version).
-- You do not need to update your charging apps or payment methods until you are in a safe, permanent location.
+- You don’t need to work out who is “at fault” or write a complaint right now.
+- You don’t need to decide today whether to change charging networks or apps.
+- You don’t need perfect efficiency tweaks—just reduce obvious drains and focus on getting a charge or arranging assistance.
 
 ## Important reassurance
-Charging failures are often isolated to a single unit or a software "hang" that a remote operator can clear in minutes. Modern breakdown services are equipped with mobile "EV Boost" units or all-wheels-up trailers specifically for these scenarios.
+This is a common, fixable failure: many “won’t start” incidents are a stuck session, payment/app glitch, or a single faulty connector. A helpline remote reset or moving to a confirmed working stall often resolves it.
 
 ## Scope note
-This guide provides first-step stabilization for a failed public charging event. It does not cover long-term route planning, home charging repairs, or vehicle-side hardware diagnostics.
+These are first steps to stabilise the situation and avoid being stranded. Follow-up (refunds, failed authorisations, reporting reliability issues) can be done later, once you’re safe and mobile.
 
 ## Important note
-This information is for general guidance and does not replace the safety instructions in your vehicle manual or the terms of your breakdown cover. If you are in an unsafe location, prioritise your personal safety over the vehicle’s battery state.
+This is general information, not legal or mechanical advice. If you feel unsafe where you are, prioritise safety and seek urgent help.
 
 ## Additional Resources
+- https://www.legislation.gov.uk/ukdsi/2023/9780348249873
 - https://www.gov.uk/government/publications/the-public-charge-point-regulations-2023-guidance/public-charge-point-regulations-2023-guidance
-- https://www.gov.uk/guidance/regulations-public-charge-points
-- https://www.zapmap.com/live/
-- https://www.zapmap.com/ev-guides/guide-to-EV-charging
-- https://www.rac.co.uk/breakdown-cover/electric-car-breakdown-cover
+- https://www.chargepoint.com/en-gb/support
+- https://www.chargepoint.com/en-gb/drivers/support

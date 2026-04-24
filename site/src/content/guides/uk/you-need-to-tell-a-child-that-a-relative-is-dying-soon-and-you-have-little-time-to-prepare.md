@@ -1,109 +1,99 @@
----
+﻿---
 title: "What to do if… you need to tell a child that a relative is dying soon and you have little time to prepare"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "tell a child someone is dying"
-  - "telling child relative dying soon"
-  - "how to talk to child about dying"
-  - "child anticipatory grief"
-  - "terminal illness talk with child"
-  - "what to say to a child about death"
-  - "what do i do if my child asks about dying"
-  - "what do i do if a relative is terminally ill"
-  - "what do i do if i have to explain death"
-  - "what do i do if a child is grieving"
-  - "help i need to tell my child someone is dying"
-  - "help i have a family crisis"
-  - "my child is asking about death"
-  - "my child relative is dying"
-  - "relative dying soon"
-  - "dying soon"
-  - "terminal illness"
-  - "death"
-  - "dying"
-  - "bereavement"
-  - "childhood grief"
-  - "anticipatory loss"
-  - "body stopping working"
-  - "doctors cannot fix it"
-  - "hospital tubes and monitors"
-  - "child taking things literally"
-  - "gone to sleep confusion"
-  - "passed away confusion"
-  - "lost meaning death"
-  - "at home"
-  - "in hospital"
-  - "in hospice"
-last_reviewed: "2026-03-16"
+  - tell a child someone is dying
+  - telling child relative dying soon
+  - how to talk to child about dying
+  - child anticipatory grief
+  - terminal illness talk with child
+  - what to say to a child about death
+  - child asking will they die too
+  - child fears about hospitals
+  - child worries it is their fault
+  - saying goodbye to a dying relative
+  - visiting dying relative with child
+  - child bereavement support uk
+  - telling a young child the truth
+  - simple words dead died
+  - little time to prepare conversation
+  - family crisis talking to children
+  - child questions about dying soon
+  - preparing school after family death
+last_reviewed: "2026-03-03"
 ---
+
 # What to do if… you need to tell a child that a relative is dying soon and you have little time to prepare (UK)
 
 ## Short answer
-Select one trusted adult to tell the child the news today using simple, direct words like "dying" or "dead," then remain present for their immediate reactions.
+Pick one calm, trusted adult to tell the child today, in simple direct words, and then stay with them for the first wave of questions and feelings.
 
 ## Do not do these things
-- Do not use euphemisms such as "gone to sleep," "lost," or "passed away" as children often interpret these literally.
-- Do not provide extensive medical data, complex timelines, or details about unsuccessful treatments.
-- Do not give specific dates for the death or offer guarantees that the relative will recover.
-- Do not make the child feel responsible for the emotional state of adults or ask them to "be brave."
-- Do not force the child to visit the relative or participate in a goodbye; offer these as choices.
+- Do not use confusing euphemisms (for example “gone to sleep”, “lost”, “passed away”) if you can avoid it — children can take these literally.
+- Do not overload them with medical detail, timelines, or adult conversations about treatment choices.
+- Do not promise exact times (“they will die tomorrow”) or make guarantees (“they’ll definitely be OK”).
+- Do not tell them right before school/bedtime if you can help it (unless time forces it) — they need time to settle with you afterwards.
+- Do not make them responsible for comforting adults (“be brave for mum”, “don’t upset gran”).
+- Do not force a visit or a “goodbye moment” on the spot; offer choices.
 
 ## What to do now
-1. **Designate a lead messenger and a quiet space for the conversation.**  
-   A parent or primary carer should ideally lead the talk in a familiar, private setting. If the primary carer is too distressed to speak clearly, a second calm adult can assist, but keep the total number of adults in the room low to avoid overwhelming the child.
+1. **Choose the messenger and place (2-minute decision).**  
+   Ideally, the child is told by a parent/carer or another adult they trust, in a quiet place, with no one rushing off straight after. If you’re too upset to speak clearly, bring in a second calm adult to sit with you — but keep the number of adults low.
 
-2. **Assess the child's current understanding of the situation.**  
-   Open the conversation by asking what they have already noticed or heard about the relative’s health. This allows you to correct misinformation and use language the child is already familiar with.
+2. **Start by checking what they already think is happening.**  
+   One opener is: “I need to tell you something important about [Name]. What have you noticed or heard?” This reduces shocks from misinformation and tells you what language they’re using.
 
-3. **Deliver the core information in a single, factual sentence and then pause.**  
-   Use direct phrasing such as:
-   - "The doctors have told us [Name] is very ill, and their body is stopping working."
-   - "[Name] is going to die soon, and the doctors cannot make them better."
-   Wait for the child to process the information before adding further detail.
+3. **Say the core truth in one simple sentence, then stop.**  
+   Examples you can adapt:
+   - “The doctors have told us [Name] is very ill, and they are likely to die soon.”  
+   - “Their body is stopping working, and they won’t get better.”  
+   Then pause. Let the child react before you add more.
 
-4. **Define death using simple biological terms if the child asks for clarification.**  
-   Explain that when a body dies, it stops breathing, the heart stops beating, and the person can no longer feel pain, hunger, or cold. Emphasise that death is permanent and the person cannot come back.
+4. **Use clear words for death, and give a simple body explanation if asked.**  
+   If they ask “What does die mean?”, a simple explanation is: “When someone dies, their body stops working — they’re no longer alive, and they cannot feel things the way living people do.”
 
-5. **Address common immediate anxieties regarding fault and safety.**  
-   State clearly that the illness is not the child's fault and that it is not a "catching" illness like a cold. Reassure them that they will continue to be cared for by specifying who will look after them tomorrow.
+5. **Cover the most common urgent fears explicitly.**  
+   Many children urgently need to hear:
+   - **It’s not your fault:** “Nothing you did, said, or thought caused this.”  
+   - **It’s not ‘catching’:** “You cannot catch this illness like a cold.”  
+   - **You will still be cared for:** “Grown-ups will keep looking after you. Here’s what will happen today/tomorrow.”
 
-6. **Provide optional, concrete ways for the child to maintain a connection.**  
-   If time allows, offer choices for saying goodbye:
-   - A brief visit (describe hospital equipment or the relative's appearance beforehand).
-   - Sending a drawing, letter, or voice note.
-   - A video or phone call.
+6. **Offer a concrete, optional way to say goodbye that fits the time you have.**  
+   Give choices, not pressure:
+   - Visit (with a clear description of what they might see: tired, sleeping, tubes/monitors, different voice).  
+   - Phone/video call.  
+   - Send a voice note, drawing, letter, or small item.  
+   If visiting, agree a short plan: who goes, how long, and a “leave at any time” signal.
 
-7. **Establish a predictable routine for the next 24 hours.**  
-   Tell the child exactly who is picking them up from school, where they will sleep, and what the immediate plan is. Predictability helps reduce the panic caused by sudden family changes.
+7. **Make a “next 24 hours” plan the child can understand.**  
+   Use specifics: who is picking them up, where they’ll sleep, who they can talk to at school. Predictability reduces panic.
 
-8. **Notify the child’s school or nursery as soon as possible.**  
-   Inform a specific staff member (such as a class teacher or pastoral lead) so they can provide support. Under 2026 statutory guidance, schools in England have specific duties to support bereaved pupils and include grief education in the curriculum.
+8. **Tell the child’s school/nursery today (even a brief message).**  
+   Ask for one named contact (class teacher, head of year, pastoral lead) so your child has predictable support and you’re not repeating the story to multiple staff.
 
-9. **Contact UK-specific organisations for immediate wording advice if needed.**  
-   Use professional helplines if you are unsure how to answer a specific question:
-   - Winston’s Wish: 08088 020 021 (8am–8pm, Monday–Friday).
-   - Child Bereavement UK: 0800 02 888 40 (9am–5pm, Monday–Friday).
-   - Marie Curie Support Line: 0800 090 2309.
+9. **Get specialist UK support if you’re running out of words.**  
+   If you feel stuck, contact a UK bereavement support organisation (for example Child Bereavement UK or Winston’s Wish) or speak to the hospice/palliative care team supporting your relative. They can help you choose age-appropriate wording quickly.
 
 ## What can wait
-- You do not need to explain funeral arrangements or long-term estate matters today.
-- You do not need to decide if the child will attend the funeral right now.
-- You do not need to have all the answers to "why" this is happening; saying "I don't know" is acceptable.
-- You do not need to manage the child's emotional response to a "perfect" standard; reactions vary widely.
+- You do not need to explain the full medical history, family disputes, or funeral plans now.
+- You do not need to decide today whether the child will attend the funeral (that can be revisited when you know what happens and how they’re coping).
+- You do not need to “get the emotions right” — you can come back to this conversation many times.
+- You do not need to answer every question immediately; it’s OK to say, “I don’t know yet, but I’ll tell you when I do.”
 
 ## Important reassurance
-It is normal for children to "puddle jump" through grief, moving from intense sadness to playing happily within minutes. This is a natural coping mechanism and does not mean they do not understand or care. Your physical presence and honesty are the most important tools for stabilisation.
+A child’s reaction can be unexpected: they may cry, go quiet, ask practical questions, or want to play. That doesn’t mean they don’t care — it often means they are taking in something enormous in small pieces. Clear, honest words and your steady presence are what help most.
 
 ## Scope note
-This guide covers first-step stabilisation and immediate communication only. Long-term bereavement support and funeral planning require separate, ongoing processes.
+These are first steps for the first conversation and the next day or two. Ongoing support (and repeated, small conversations) usually matters more than a single “perfect talk”.
 
 ## Important note
-This information is for guidance only and does not constitute medical, legal, or psychological advice. If you have concerns about a child's immediate safety or your own ability to cope, contact your GP, NHS 111, or emergency services.
+This is general information, not medical, legal, or safeguarding advice. If you’re worried about immediate safety, or you feel unable to keep the child safe, contact your GP, NHS 111, or emergency services.
 
 ## Additional Resources
-- https://www.childbereavementuk.org/when-someone-is-not-expected-to-live
-- https://www.childbereavementuk.org/childrens-understanding-of-death-at-different-ages
+- https://www.childbereavementuk.org/supporting-children-when-someone-is-dying
 - https://www.childbereavementuk.org/explaining-death-and-dying-to-children
 - https://winstonswish.org/should-i-tell-my-children-that-their-loved-one-is-dying/
-- https://winstonswish.org/how-to-prepare-children-for-the-death-of-someone-important/
+- https://winstonswish.org/how-to-tell-children-and-young-people-that-someone-is-seriously-ill/
+- https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/
+- https://www.mariecurie.org.uk/information/end-of-life/supporting-child-teenager-when-someone-has-terminal-illness

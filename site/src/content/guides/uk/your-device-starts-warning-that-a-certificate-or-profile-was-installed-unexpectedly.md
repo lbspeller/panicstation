@@ -1,94 +1,101 @@
----
+﻿---
 title: "What to do if… your device starts warning that a certificate or “profile” was installed unexpectedly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "domain hijacking"
-  - "stolen domain name"
-  - "unauthorised domain transfer"
-  - "domain transferred out"
-  - "change of registrant"
-  - "registrant details changed"
-  - "whois changed unexpectedly"
-  - "registrar account hacked"
-  - "domain ownership changed"
-  - "nameservers changed"
-  - "dns records changed"
-  - "auth code compromised"
-  - "epp code leaked"
-  - "domain lock problem"
-  - "email takeover linked"
-  - "website redirecting"
-  - "business email at risk"
-  - "phishing from my domain"
-  - "uk domain .uk transfer issue"
-  - "regain control of domain"
-  - "what do i do if my domain was stolen"
-  - "what do i do if my website was transferred without permission"
-  - "help i lost my domain name"
-  - "help my registrar account was hacked"
-  - "my domain nameservers changed"
-  - "nominet domain dispute"
-  - "unauthorised domain move"
-  - "stolen .co.uk domain"
-  - "stolen .org.uk domain"
-  - "domain name theft uk"
-last_reviewed: "2026-03-17"
+  - unexpected certificate warning
+  - unknown certificate installed
+  - untrusted certificate alert
+  - certificate authority installed
+  - profile installed unexpectedly
+  - configuration profile appeared
+  - unknown device management profile
+  - vpn profile installed
+  - mdm profile you didnt install
+  - ios profile warning
+  - iphone certificate trust settings
+  - android user certificate warning
+  - encryption and credentials certificates
+  - possible man-in-the-middle
+  - intercepted wifi security alert
+  - device compromise suspicion
+  - phishing profile install prompt
+  - work or school profile on personal phone
+  - certificate installed without permission
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your device starts warning that a certificate or “profile” was installed unexpectedly (UK)
 
 ## Short answer
-Contact your registrar’s security or abuse team immediately to request a lock on the domain and account while initiating an unauthorised transfer reversal.
+Treat this as a potential device-compromise or “traffic interception” risk: disconnect the device from the internet, then identify and remove any unknown certificate/profile (or contact your organisation if it’s a managed/work device) before you log in to anything.
 
 ## Do not do these things
-- Do not ignore the change or assume it is an administrative error by the provider.
-- Do not attempt to log in repeatedly if your credentials fail; move immediately to password recovery and support escalation.
-- Do not delete any automated emails, logs, or notifications regarding the transfer or ownership change.
-- Do not pay any "recovery fees" to third parties claiming they can negotiate the return of your domain.
-- Do not make extensive DNS changes on other linked services until the primary ownership is stabilised.
+- Don’t tap “allow”, “trust”, or “install” just to make the warning go away.
+- Don’t sign into banking, email, password managers, or work systems from that device until you’ve checked what changed.
+- Don’t delete random things in panic (apps, photos, messages) — focus on the certificate/profile first.
+- Don’t assume it’s harmless because it uses a familiar name (attackers often mimic real organisations).
+- Don’t factory reset immediately unless removal fails or the profile keeps returning (it’s disruptive and can remove useful context like what was installed and when).
 
 ## What to do now
-1. **Contact your registrar’s emergency or security line to report an unauthorised transfer.** **Inform them specifically that a "registrant change" or "transfer out" occurred without your consent and ask for a temporary account suspension.**
-   - Request the exact timestamp of the change.
-   - Ask for the "Auth" or "EPP" code logs to see how the transfer was authorised.
+1. **Pause and isolate the device (30 seconds).**  
+   Turn on Airplane Mode (or switch off Wi-Fi and mobile data). If you’re on public Wi-Fi, leave that network.
 
-2. **Request an immediate Registrar Lock and a "Transfer Prohibited" status if the domain has not moved yet.** **If the domain has already moved to a new registrar, ask your current registrar to initiate a "registrar-to-registrar" dispute or reversal request.**
-   - Ask for the contact details of the abuse department at the gaining registrar if the domain has already moved.
+2. **Work out what kind of thing it is.**
+   - **“Profile”, “Device Management”, “MDM”, “VPN”, “Work/School”** usually means a configuration/management profile.
+   - **“Certificate”, “CA”, “Root certificate”, “Certificate authority”** usually means a trust certificate (high risk if you didn’t intend it).
 
-3. **Secure the email account associated with the domain registration immediately.** **Change your email password, review active sessions, and check for hidden forwarding rules or new filters that may be hiding registrar alerts.**
-   - Use a separate, clean device to change these passwords if you suspect malware.
-   - Enable Multi-Factor Authentication (MFA) using an app-based authenticator rather than SMS if possible.
+3. **iPhone/iPad: check for and remove unknown profiles.**  
+   Go to **Settings → General → VPN & Device Management**.  
+   - If you see a profile you don’t recognise, open it, **take a screenshot of the name/organisation/date**, then choose **Remove/Delete Profile** and restart the device.  
+   - If it says the device is **managed** (work/school), you may not be able to remove it yourself — go to step 6.
 
-4. **Initiate a Data Release Request or a Dispute Resolution Service (DRS) complaint if it is a .uk domain.** **Visit the Nominet Online Services portal to file a formal complaint if the registrant details have been changed to a third party.**
-   - Use the Nominet WHOIS lookup to see if the registrant name is now hidden.
-   - Request a "Data Release" from Nominet if you need the attacker's details for legal or police reporting.
+4. **iPhone/iPad: check certificate trust (if the warning mentions trust/root/CA).**  
+   Go to **Settings → General → About → Certificate Trust Settings**.  
+   - If anything is enabled under “full trust” that you didn’t intentionally install for a known purpose, treat it as suspicious. The practical fix is usually to remove the **profile** that installed it (step 3), then restart.
 
-5. **Capture screenshots of all evidence of your prior ownership.** **Save copies of past renewal invoices, registration certificates, and the original WHOIS records if you have them saved or cached.**
-   - Keep a log of every interaction with registrar support, including ticket numbers and representative names.
+5. **Android: remove user-installed certificates (menu names vary by device).**  
+   Look for something like **Settings → Security (or Security & privacy) → More security settings → Encryption & credentials**.  
+   - Check **User credentials/User certificates** and remove anything you don’t recognise.  
+   - If you can’t tell what’s safe to remove, use **Clear credentials** (this removes *user-installed* certificates; it can break some work/VPN apps, which is usually preferable to leaving a suspicious certificate in place).
 
-6. **Check for changes to MX records or nameservers to prevent email interception.** **Verify your DNS settings through an external tool to ensure your business emails are not being rerouted to an attacker's server.**
-   - If MX records have changed, treat all incoming email as potentially compromised until the records are restored.
+6. **If this is a work/school device or you use a work profile:**  
+   Contact your IT/helpdesk and say: **“I got an unexpected certificate/profile warning. I put the device offline and haven’t logged in. Can you confirm if an MDM/VPN/certificate was pushed to my device and advise removal?”**
 
-7. **Report the incident to the appropriate UK cyber crime authority.** **If you are in England, Wales, or Northern Ireland, report via the Report Fraud portal; if you are in Scotland, call Police Scotland on 101.**
-   - Obtain a crime reference number, as some registrars require this to verify a high-level security override.
+7. **From a different, known-clean device, secure your most sensitive accounts.**  
+   Start with **email** (because it controls password resets), then your **Apple Account/Google Account**, then banking.  
+   - Change passwords and turn on (or re-check) two-step verification.  
+   - Review recent sign-ins / connected devices and remove anything you don’t recognise.
+
+8. **If the warning appeared right after clicking a link, installing an app, or joining Wi-Fi:**  
+   - Uninstall any newly installed app(s) you don’t fully trust.  
+   - “Forget” the Wi-Fi network and avoid re-joining it.  
+   - Update the operating system and reboot.
+
+9. **If you shared details, lost money, or this looks like a scam:**  
+   - For England, Wales, or Northern Ireland, report cybercrime/fraud via **Report Fraud (Action Fraud’s reporting route)**.  
+   - If you live in Scotland, report to **Police Scotland (101)**.  
+   - If this involves an **organisation** (for example, a workplace incident or live attack on business systems), follow your organisation’s incident process and consider reporting through the **NCSC** route.
 
 ## What can wait
-- You do not need to decide on a new registrar or hosting provider immediately.
-- You do not need to pursue civil legal action or hire a solicitor in the first hour.
-- You do not need to issue a public press release unless there is a confirmed data breach involving customer PII.
+- You don’t need to decide today whether you’ve been “hacked” — first make the device safe and protect accounts.
+- You don’t need to do a full factory reset unless the profile/certificate can’t be removed or keeps reappearing.
+- You don’t need to contact every service you use — start with email plus the accounts that can reset everything else.
 
 ## Important reassurance
-Domain hijacking is a known risk that registrars are equipped to handle. Most registries, including Nominet for .uk domains, have established dispute resolution and reversal protocols designed specifically for unauthorised transfers and account compromises.
+Unexpected certificate/profile warnings are a valid reason to pause. Going offline, checking what was installed, and protecting your email account are the right “buy time” moves.
 
 ## Scope note
-This guide provides first-step stabilisation for regaining control of a hijacked domain. It does not cover long-term intellectual property disputes or broader network forensic investigations.
+These are first steps to reduce harm and stop further access. If the device is managed by an employer/school, or the profile/certificate won’t stay removed, you may need specialist IT support to fully clean and verify the device.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional technical advice. Domain recovery processes are subject to the specific terms of service of your registrar and the policies of the relevant registry (e.g., Nominet or ICANN). Ensure you follow official security paths provided by your service providers.
+This is general safety information, not legal or professional advice. If you’re unsure whether a profile/certificate is legitimate, default to caution: keep the device offline and get help from the official organisation that would have installed it (your employer/school IT) or the device maker’s support.
 
 ## Additional Resources
-- https://support.apple.com/en-gb/guide/personal-safety/ips327569a75/web
-- https://support.apple.com/en-gb/guide/iphone/iph6c493b19/ios
-- https://support.apple.com/en-gb/102400
+- https://support.apple.com/guide/iphone/install-or-remove-configuration-profiles-iph6c493b19/ios
 - https://support.apple.com/en-gb/102390
 - https://support.google.com/pixelphone/answer/2844832?hl=en-GB
+- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.reportfraud.police.uk/
+- https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/cyber-crime
+- https://report.ncsc.gov.uk/

@@ -1,86 +1,82 @@
----
+﻿---
 title: "What to do if… you find standing water in a basement or crawl space after heavy rain"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "basement standing water"
-  - "crawl space flooding"
-  - "heavy rain water ingress"
-  - "sudden basement flood"
-  - "rainwater in cellar"
-  - "water in underfloor void"
-  - "groundwater coming up"
-  - "storm water in basement"
-  - "flooded crawlspace"
-  - "standing water in house"
-  - "what do i do if my basement is flooded"
-  - "what do i do if there is water in my crawl space"
-  - "what do i do if rain floods my cellar"
-  - "help i have water in my basement"
-  - "help my crawl space is full of water"
-  - "my basement is flooding after rain"
-  - "my cellar has standing water"
-  - "smell of damp basement"
-  - "visible water in crawl space"
-  - "water near electrical sockets"
-  - "water around boiler"
-  - "bubbling water in basement"
-  - "puddles in cellar"
-  - "wet patch on basement floor"
-  - "basement flooding"
-  - "crawl space water"
-  - "cellar flooding"
-  - "standing water"
-  - "heavy rain flooding"
-  - "groundwater ingress"
-last_reviewed: "2026-03-17"
+  - basement standing water
+  - crawl space flooding
+  - heavy rain water ingress
+  - sudden basement flood
+  - rainwater in cellar
+  - water in underfloor void
+  - groundwater coming up
+  - storm water in basement
+  - flooded crawlspace
+  - water near electrics
+  - damp and flooding emergency
+  - unexpected indoor flooding
+  - rain caused property flooding
+  - standing water after storm
+  - basement puddles after rain
+  - cellar water after rainfall
+  - water seeping through walls
+  - water around boiler electrics
+last_reviewed: "2026-03-03"
 ---
+
 # What to do if… you find standing water in a basement or crawl space after heavy rain (UK)
 
 ## Short answer
-Isolate the area immediately and treat the water as an electrical and biological hazard. Do not enter the water unless you have confirmed the mains electricity is switched off from a dry, remote location.
+Treat it as an electrical and contamination hazard first. Keep people and pets out, and only go near it once power to that area is safely off from a dry, safe location.
 
 ## Do not do these things
-- Do not step into standing water if it is near sockets, extension leads, or submerged appliances.
-- Do not touch any electrical switches, plugs, or the consumer unit if you are wet or standing in water.
-- Do not use a vacuum cleaner or standard pump to remove water unless it is specifically rated for wet use and the power source is outside the flood zone.
-- Do not turn gas or electrical appliances back on if they have been in contact with water until they are inspected by a professional.
-- Do not use candles or lighters for illumination in the flooded area.
-- Do not pump water out rapidly if the ground outside is still saturated, as this can cause structural collapse of the walls.
+- Do not step into the water if it could be near sockets, extension leads, appliances, a boiler, or any wiring.
+- Do not touch switches, plugs, or electrical equipment if you are wet, standing near water, or unsure what’s been soaked.
+- Do not turn gas or electrical appliances back on if they’ve been wet until they’ve been checked by a qualified person.
+- Do not use candles or open flames to “see better” (and if you smell gas, don’t operate switches—leave the area and get help).
+- Do not pump/drain quickly if water is still rising, or if you suspect water pressure outside is still high.
+- Do not throw away damaged items or rip out flooring before you’ve photographed everything for insurance/landlord records.
 
 ## What to do now
-1. **Clear the area and prevent access.** Move all people and pets away from the basement or crawl space entrance and keep doors or hatches closed to prevent accidental entry.
-2. **Isolate the electricity supply safely.** 
-   - If the consumer unit (fuse box) is in a dry location and you do not have to cross water to reach it, switch off the main power. 
-   - If the consumer unit is in the flooded area or you see signs of sparking/arcing, do not touch it; call **105** to contact your local Electricity Network Operator (DNO).
-3. **Check for immediate hazards from a distance.** Look and listen for the smell of gas, the sound of buzzing or crackling, or signs of structural movement such as new large cracks or bulging walls.
-   - If you smell gas, leave the property immediately and call the National Gas Emergency service on **0800 111999**.
-4. **Report the flooding to the correct authority.**
-   - Contact **Floodline** on **0345 988 1188** (24-hour service) for local warnings and immediate safety advice.
-   - Report severe flooding to the **Environment Agency** incident hotline on **0800 80 70 60**.
-   - If the water is coming from a public sewer or a burst water main, contact your local water company.
-5. **Contact your insurer or landlord.** Call your home insurance 24-hour emergency line or your landlord to log the claim and request professional drying services.
-6. **Document the damage with photographs.** Take clear photos of the water levels, the points where water appears to be entering, and any damaged items or electrical fittings once it is safe to do so from a dry vantage point.
-7. **Ventilate the area if safe.** Open windows and doors on the floors above the flooded area to encourage air circulation, but do not enter the basement itself to do this.
-8. **Wear protective equipment for any contact.** Use waterproof boots and heavy-duty gloves if you must handle items near the water, as floodwater often contains sewage or chemical contaminants.
+1. **Make it a no-go area.** Close the door/hatch if you can, put sturdy shoes/boots on, and keep everyone away from the basement/crawl-space access.
+2. **Check for “leave now” danger signs from a safe distance.** If you smell gas, hear buzzing/crackling, see sparks, or notice major structural movement/sagging: **leave the area and call 999**.
+3. **Make electricity safe before you approach.**
+   - If you can reach the **consumer unit/main switch** without going near water, switch **power off**.
+   - If the consumer unit, meter area, sockets, or any electrical equipment may be wet/underwater, **do not touch it**. Contact a **qualified electrician**. If you need help making the supply safe, contact your **electricity network operator (DNO)** or electricity supplier’s emergency line.
+4. **Stop more water entering if there’s a simple, safe action.**
+   - If water is coming in via a doorway/air brick/window and you can act without wading, block with towels/temporary barriers and move items up off the floor.
+   - If you suspect a plumbing leak as well, turn off the **stopcock** only if it’s reachable without stepping into water.
+5. **Document quickly.** Take photos/video of: water depth, likely entry points, any affected electrics/appliances, and damaged items/materials.
+6. **Start the “who to contact” chain (pick what matches what you’re seeing).**
+   - **Home insurer** (or landlord/letting agent) to log the incident and get instructions on emergency drying/restoration.
+   - If drains/toilets are backing up or you suspect a **sewer issue**, contact your **water/sewerage company**.
+   - If it’s linked to **highway drains/road flooding**, report it to your **local council/highways** team.
+   - For wider flooding information and warnings, use the **Environment Agency flood warning service / Floodline**.
+7. **Only if it’s clearly safe (power off, stable footing): reduce harm while you wait.**
+   - Ventilate from above if you can (open windows/doors upstairs), and use a **battery torch**.
+   - Move valuables, chemicals, and anything that will wick water (cardboard boxes, fabrics) to a higher level if you can reach them without wading.
+8. **If you must remove water yourself, go slowly.**
+   - Start only once the situation is stable (not actively rising).
+   - Use a wet vac/pump only when you’re confident electrics are safe, and stop if you notice new cracking, shifting, or unusual noises.
+9. **Treat floodwater as contaminated unless you’re sure it’s clean.** Wear waterproof boots and gloves; avoid splashes to your face; wash hands after.
 
 ## What can wait
-- You do not need to identify the exact source (e.g., rising groundwater versus surface runoff) immediately.
-- You do not need to begin cleaning or removing floor coverings until your insurer or landlord provides specific instructions.
-- You do not need to decide on long-term flood prevention measures or tanking solutions today.
+- You do not need to diagnose the exact cause (groundwater vs surface water vs drains) today.
+- You do not need to start ripping out plaster/flooring immediately; often you should wait for insurer/landlord/restoration guidance.
+- You do not need to decide on permanent waterproofing/drainage fixes right now—focus on safety, documentation, and drying.
 
 ## Important reassurance
-Finding standing water in a property is distressing, but the primary risk in the first few minutes is accidental injury from electricity or contamination. By isolating the area and calling for professional assistance, you have already significantly reduced the risk of the situation escalating.
+This is a common post–heavy-rain emergency, but the biggest avoidable harms come from rushing in—especially around electrics and gas appliances. Slowing down, cutting power safely, and documenting the scene is the right start.
 
 ## Scope note
-This guide provides first-step stabilization for indoor standing water following heavy rain. It does not cover technical restoration, structural repairs, or long-term damp proofing.
+These are first steps only to stabilise the situation and prevent irreversible mistakes. Full cleanup, drying, mould prevention, and repairs can require professional assessment and may be directed by your insurer or landlord.
 
 ## Important note
-Floodwater is frequently contaminated with bacteria and chemicals; follow UK Health Security Agency (UKHSA) hygiene guidelines. Always use a Gas Safe registered engineer and a NICEIC or ECA registered electrician to check appliances that have been submerged.
+This is general information, not professional advice. If electrical equipment has been wet, you suspect structural damage, or sewage contamination may be present, prioritise qualified help and follow official/local instructions.
 
 ## Additional Resources
-- https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/your-home/what-to-do-in-a-flood
-- https://www.gov.uk/prepare-for-flooding/protect-your-property
-- https://www.gov.uk/prepare-for-flooding
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/rented-home-flooding-overview/
-- https://www.floodre.co.uk/rethink/
+- https://www.gov.uk/after-flood
+- https://www.gov.uk/help-during-flood
+- https://assets.publishing.service.gov.uk/media/65d4e3792ab2b300117595b8/Flooding_and_health_advice_for_the_public_EASY_READ-1.pdf
+- https://consult.environment-agency.gov.uk/hnl/prepare-respond-recover/
+- https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/

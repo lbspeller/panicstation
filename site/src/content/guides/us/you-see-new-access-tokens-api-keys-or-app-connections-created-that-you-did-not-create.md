@@ -1,94 +1,93 @@
----
+﻿---
 title: "What to do if… you see new access tokens, API keys, or app connections created that you did not create"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "apple account new device"
-  - "google account new device"
-  - "unknown device signing in"
-  - "account takeover in progress"
-  - "suspicious login notification"
-  - "new phone added to account"
-  - "device added message"
-  - "someone has my password"
-  - "remove unknown device"
-  - "sign out of all devices"
-  - "change password immediately"
-  - "what do i do if apple account shows new device"
-  - "what do i do if google account alert pops up"
-  - "what do i do if unknown device signs in"
-  - "what do i do if my account is being hacked"
-  - "help i have a suspicious login"
-  - "help i see a new device alert"
-  - "my apple account is compromised"
-  - "my google account shows new sign in"
-  - "apple account device added"
-  - "google account device setup"
-  - "unexpected security alert"
-  - "two factor authentication prompt"
-  - "deny sign in attempt"
-  - "security prompt on screen"
-  - "map shows sign in in other state"
-  - "strange location alert"
-  - "new macbook added to account"
-  - "new android added to account"
-  - "account security lockdown"
-last_reviewed: "2026-03-17"
+  - unexpected access token
+  - unknown api key created
+  - new app connection i did not create
+  - suspicious oauth app
+  - unknown third party app access
+  - account token compromise
+  - api credentials leak
+  - developer account hacked
+  - cloud console suspicious activity
+  - github token created without me
+  - new integration appeared
+  - unauthorized app authorization
+  - strange connected apps
+  - someone has access token
+  - security keys and tokens issue
+  - new credentials in dashboard
+  - token created overnight
+  - suspicious login and token
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you see new access tokens, API keys, or app connections created that you did not create (USA)
 
 ## Short answer
-Assume an unauthorized access attempt is in progress: **screenshot the alert, deny the sign-in immediately, and change your password from a trusted device.**
+Treat this as an active account compromise: revoke the unknown tokens/app connections immediately, revoke active sessions, then secure your email/SSO and rotate any keys that could access important systems.
 
 ## Do not do these things
-- Don't approve any prompt, tap "Allow," or tap "Yes" for an action you did not personally initiate.
-- Don't share or enter the 6-digit verification code shown on your screen into any website, even if it looks official.
-- Don't tap links inside alert emails or text messages; navigate directly to official account settings via your device's app or a known URL.
-- Don't reuse your old password or use a simple variation of it when resetting.
-- Don't ignore the alert if it shows a location in your own city; IP-based locations are often approximate or can be spoofed by a VPN.
+- Don’t leave the new token or app connection in place “just to monitor.”
+- Don’t click “security alert” links you weren’t expecting—log in directly by typing the site address.
+- Don’t rotate everything in a panic if it will break access and lock you out; keep one known-good admin path working.
+- Don’t wipe logs or delete alerts; keep a record of what you saw and when.
+- Don’t keep using a device you suspect has malware for admin actions.
 
 ## What to do now
-1. **Screenshot the security alert before you dismiss it.** This captures the device type, approximate location, and time which may be needed for later documentation or reporting.
+1. **Move to a safer control point.**  
+   If possible, use a different (known-clean) device and sign in by typing the site address yourself (not from an email link).
 
-2. **Deny the sign-in attempt immediately on the notification screen.** 
-   - **Apple Account:** tap **"Don't Allow"** on the system alert.
-   - **Google Account:** tap **"No, it's not me"** or **"No, secure account"** on the security prompt.
+2. **Revoke what you didn’t create (immediately).**  
+   - Revoke/delete the new access token(s) and API key(s).  
+   - Remove/disable the unknown connected app(s) / OAuth grants.  
+   - If this is a work system, contact IT/security and ask for emergency access revocation and session invalidation while you’re on the line.
 
-3. **Change your account password using a trusted device you already own.** Open the **Settings** app on your iPhone or iPad (tap your name > Sign-In & Security > Change Password) or go to **myaccount.google.com** on a computer you have used before. Create a unique, complex passphrase that is not used for any other service.
+3. **Invalidate sessions so the attacker is kicked out.**  
+   Use features like **“revoke sessions,” “sign out of all devices,”** or **“log out everywhere.”** If you have an identity admin (Microsoft Entra, etc.), use the emergency “revoke user access” approach.
 
-4. **Review and remove all unfamiliar devices from your account list.** 
-   - **Apple:** In Settings > [Your Name], scroll down to the device list and tap **"Remove from Account"** for anything you do not recognize.
-   - **Google:** Go to Security > Your devices > **"Manage all devices"** and sign out of any sessions that are not yours.
+4. **Lock down the email/SSO account tied to these services.**  
+   Email/SSO is the master key for resets.  
+   - Change the email/SSO password and enable MFA.  
+   - Check forwarding, filters/rules, recovery email/phone changes, and any unfamiliar trusted devices.
 
-5. **Verify that your recovery information has not been altered.** Check your recovery email addresses and phone numbers in your account security settings. Remove any secondary emails or "trusted" numbers that you did not add yourself.
+5. **Reset the affected platform’s sign-in and verify identity settings.**  
+   - Set a new, unique password.  
+   - Enable MFA (prefer authenticator app, passkey, or hardware key if offered).  
+   - Review recent sign-ins and remove unknown devices/sessions.
 
-6. **Check for "stealth access" changes in your settings.** 
-   - **Gmail:** Look in Settings > See all settings > **Forwarding and POP/IMAP** for any unauthorized email forwarding addresses.
-   - **Both:** Review **Third-party apps with account access** and revoke permissions for anything suspicious.
+6. **Pause anything that could keep leaking secrets.**  
+   If you have CI/CD, build agents, scripts, or integrations: pause deployments and disable affected pipelines/integrations until secrets are rotated and you’ve checked for malicious changes.
 
-7. **Contact your mobile carrier if you lose signal or receive SIM-related alerts.** If your phone suddenly shows "No Service" or you receive a text about a "SIM change" you didn't request, treat it as a **SIM swapping** attempt and call your carrier's fraud department immediately.
+7. **Rotate credentials that might already be copied (second wave).**  
+   Prioritize: cloud access keys, CI/CD secrets, production credentials, payment processor keys, and admin API keys. Replace them with new credentials and update dependent services carefully to avoid outages.
 
-8. **Report the incident if financial or identity data is involved.** 
-   - File a report at **IdentityTheft.gov** if you believe your personal details were stolen.
-   - Submit a complaint to the **FBI Internet Crime Complaint Center (IC3.gov)** if money was stolen or if this is part of a larger cyber-fraud attempt.
+8. **Audit for persistence and damage.**  
+   Check logs for: new users, new MFA methods, new SSH keys, permission/role changes, new webhooks, new billing/payout settings, or disabled security alerts. Save screenshots/exports.
+
+9. **If identity fraud or financial abuse is possible, use the official recovery/reporting route.**  
+   - If you see suspicious bank/card activity: contact your bank/payment provider using the number on your card/statement.  
+   - If identity theft is a concern (new accounts, tax issues, credit impacts): use **IdentityTheft.gov** for an official FTC recovery/reporting path.
 
 ## What can wait
-- You don't need to identify exactly how the attacker got your password before securing the account.
-- You don't need to factory reset your current devices unless you suspect they are infected with malware.
-- You don't need to close the account entirely; a password change and session reset usually stop the immediate threat.
+- Determining the exact initial cause (phishing, password reuse, stolen session cookie, malicious OAuth consent).
+- Re-architecting how secrets are stored across your org. Stabilize first.
+- Public communication. For now, focus on containment and records.
 
 ## Important reassurance
-Receiving a "new device" alert means your account's security systems are working. The notification is designed to give you the exact moment of intervention needed to stop a takeover. While it is startling, taking these steps quickly is the standard and effective way to regain control.
+Attackers often create tokens or connect apps specifically to survive password changes. Revoking tokens/app access and invalidating sessions is the fastest way to cut them off, and it’s normal to need a second pass after you review logs.
 
 ## Scope note
-This guide provides first-step stabilization for an active, unauthorized sign-in attempt. It does not cover long-term forensic device analysis or legal recovery of stolen funds.
+This is immediate containment and control. If production systems, customer data, or significant funds were reachable, you’ll likely need deeper investigation and possibly professional incident response support.
 
 ## Important note
-This information is for general guidance and does not constitute legal or technical professional advice. If you cannot regain access through official Apple or Google recovery tools, contact their official support channels directly. Be wary of third-party "account recovery" services found in search results, as many are fraudulent.
+This guide is general information, not legal or professional advice. If this involves regulated data, customer impact, or substantial financial risk, follow your organization’s policies and consult appropriate professionals.
 
 ## Additional Resources
-- https://consumer.ftc.gov/node/77537
-- https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers
-- https://support.google.com/accounts/answer/13533235?hl=en
-- https://support.microsoft.com/en-us/account-billing/edit-or-revoke-application-permissions-in-the-my-apps-portal-169be2b4-ee26-4338-aea8-d19bb2f329ee
-- https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/token-expiration-and-revocation
+- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
+- https://www.identitytheft.gov/
+- https://learn.microsoft.com/en-us/entra/identity/users/users-revoke-access
+- https://docs.github.com/en/code-security/tutorials/remediate-leaked-secrets/remediating-a-leaked-secret
+- https://docs.github.com/en/organizations/managing-programmatic-access-to-your-organization/reviewing-and-revoking-personal-access-tokens-in-your-organization

@@ -1,91 +1,88 @@
----
+﻿---
 title: "What to do if… customs or border officials hold an item you need for your trip and you are unsure what to do next"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "customs held my item"
-  - "border force took my item"
-  - "item seized at the border"
-  - "item detained at uk border"
-  - "held at uk customs"
-  - "stuck in customs uk"
-  - "detained by border force"
-  - "notice of seizure uk"
-  - "receipt of goods seized"
-  - "notice of claim deadline"
-  - "restoration request border force"
-  - "needed item for my trip"
-  - "medication held at border"
-  - "medical device held at border"
-  - "work equipment held at border"
-  - "baby items held at border"
-  - "traveling today item missing"
-  - "urgent travel item held"
-  - "what to ask border officers"
-  - "how to follow up after seizure"
-  - "form c156 uk border"
-  - "notice 12a customs"
-  - "seizure information notice receipt"
-  - "claiming back seized property uk"
-  - "customs seized my bag"
-  - "border force took my laptop"
-  - "help i lost my medication at customs"
-  - "my inhaler was taken at the airport"
-  - "help i have a notice of seizure"
-  - "what do i do if customs took my things"
-  - "what do i do if my goods were seized"
-  - "what do i do if border force detained me"
-  - "what do i do if my prescription was seized"
-last_reviewed: "2026-03-17"
+  - customs held my item
+  - border force took my item
+  - item seized at the border
+  - item detained at uk border
+  - held at uk customs
+  - stuck in customs uk
+  - detained by border force
+  - notice of seizure uk
+  - receipt of goods seized
+  - notice of claim deadline
+  - restoration request border force
+  - needed item for my trip
+  - medication held at border
+  - medical device held at border
+  - work equipment held at border
+  - baby items held at border
+  - traveling today item missing
+  - urgent travel item held
+  - what to ask border officers
+  - how to follow up after seizure
+last_reviewed: "2026-03-07"
 ---
-# What to do if… customs or border officials hold an item you need for your trip and you are unsure what to do next (UK)
 
+# What to do if… customs or border officials hold an item you need for your trip and you are unsure what to do next (UK)
 ## Short answer
-Obtain a written Seizure Information Notice (Form C156) or Notice of Seizure, confirm the specific reason for the hold, and establish a travel plan that does not rely on recovering the item today.
+Get written confirmation of what happened (detained vs seized), the reason, and a reference number/receipt — then make a “keep travelling” plan that does not depend on getting the item back today.
 
 ## Do not do these things
-- Do not argue, raise your voice, or physically obstruct officers, as this may lead to arrest or further delays.
-- Do not leave the customs area without a physical or digital receipt containing a reference number.
-- Do not sign any document unless you have read it and understand whether you are admitting to a breach of regulations.
-- Do not offer access to password-protected electronic devices unless specifically required under a cited legal power.
-- Do not attempt to "wait out" the officers if you have a departing flight or train; assume the item will not be released immediately.
+- Do not argue, raise your voice, or obstruct — it can escalate and slow everything down.
+- Do not leave without paperwork (or at least a clear reference number, who seized it, and how to follow up).
+- Do not sign anything you do not understand — ask what it means in plain language first.
+- Do not volunteer extra device/account access “to speed things up.” Ask what is required, under what power, and what will be recorded on the notice/receipt.
+- Do not miss your departure because you’re waiting for a “maybe” outcome — set a cut-off time and move on.
 
 ## What to do now
-1. **Request the specific legal status of the item.** **Ask the officer clearly if the item is being "detained" for inspection or "seized" as a forfeit.**
-   - Detained items may be returned after a check; seized items become the property of the Crown unless challenged.
-2. **Obtain official paperwork before departing the area.** **Ensure you receive a Seizure Information Notice (Form C156) or a Notice of Seizure (Notice 12A).**
-   - This document must include the item description, the date, the officer’s details, and a reference number.
-3. **Verify the reason for the seizure or detention.** **Ask which specific regulation or "Notice" (e.g., Notice 1, Notice 12A) covers the restriction.**
-   - Common reasons include missing permits, exceeding personal allowances, or carrying restricted "controlled" medications.
-4. **Present supporting documentation for medical items immediately.** **If the item is a medical device or medication, provide a copy of your prescription or a clinician’s letter.**
-   - Note that Border Force typically permits only a 3-month supply of personal medication; quantities exceeding this may be seized.
-5. **Establish if immediate resolution is possible.** **Ask once if the item can be released upon payment of duty or provision of a missing document.**
-   - If the officer states it cannot be resolved on-site, stop negotiating and prioritize your travel schedule.
-6. **Confirm which agency is holding the goods.** **Identify if the seizing body is Border Force (at ports/airports) or HMRC (inland or postal).**
-   - This determines where you must send your follow-up correspondence or challenges.
-7. **Adhere to the strict one-month deadline for legal challenges.** **Submit a "Notice of Claim" to the address on your paperwork within one calendar month if you believe the seizure was unlawful.**
-   - If you live outside the UK, you must provide the name and address of a UK-based solicitor who can accept legal documents for you.
-8. **Request "Restoration" if you accept the seizure but want the item back.** **Write a restoration request to the National Post Seizure Unit if you want the item returned, even if the seizure was technically legal.**
-   - While there is no absolute legal deadline for restoration, non-perishable items are often destroyed or sold after 45 days.
-9. **Record the incident details privately.** **Note the exact time, location, officer name or shoulder number, and exactly what was said regarding the item's return.**
+1. **Switch to “documentation mode.”** Calmly ask:
+   - “Is this item being *detained* temporarily, or *seized*?”
+   - “What is the reason/category?”
+   - “What is the reference/case number, and which office should I contact?”
+2. **Get something in writing before you walk away.** Ask for the **seizure/detention paperwork** (or a receipt) showing:
+   - description of the item, date/time, location, your details, and the reference number
+   - who seized it (Border Force or HMRC) and what your next options are
+3. **Ask one practical “can it be resolved today?” question.**
+   - “If I can show proof of ownership/purchase, a prescription, an authorisation, or pay any duty/fee, can it be released today?”
+   - If the answer is “no,” stop negotiating and move to travel + follow-up.
+4. **If it’s medication or a medical device, state that clearly and show what you have.**
+   - Show the pharmacy label, prescription, or clinician letter if available.
+   - Ask what documentation they need for review or release, and assume you may still need a replacement plan.
+5. **Separate “travel” from “item recovery.”**
+   - If you can still travel, proceed with check-in/security/boarding and handle recovery later using the reference number.
+   - If you cannot travel without it, step aside and rebook only after you have the paperwork/reference number.
+6. **If it was in checked baggage or a shipment, contact the right party immediately.**
+   - **Baggage:** airline baggage desk — ask them to record that the item/bag is being held by border officials (get a reference).
+   - **Courier/shipment:** the carrier — ask exactly what document they need from you (invoice, proof of ownership, licence/permit).
+7. **If it has been seized, choose the correct UK process (don’t try to do everything at once).**
+   - **Challenge the seizure as unlawful (Notice of Claim):** HMRC/Border Force must *receive* your notice of claim **within one calendar month** of the date shown on the seizure notice/receipt (as stated on the official notice).
+   - **Ask for the item back even if the seizure was lawful (Restoration request):** HMRC/Border Force should *receive* the restoration request **within 45 days** of the date shown on the seizure notice/receipt (as stated on the official notice).
+   - Use the address/contact details shown on your notice/receipt and quote the reference number every time.
+8. **Create a replacement plan in parallel (so you’re not stuck).**
+   - Identify what the item enables (dose, charger type, work login, baby feeding, adaptor).
+   - Get the fastest substitute: airport purchase, local pharmacy, buy on arrival, rental, or a courier to your destination.
+9. **Write a 60-second incident note for yourself.**
+   - Date/time, location, what was taken, what you were told, and the reference number (plus officer name if offered).
 
 ## What can wait
-- You do not need to decide whether to hire a solicitor or start a court challenge while at the airport.
-- You do not need to file a formal complaint about officer conduct in the moment; this can be done online later.
-- You do not need to provide a full inventory of your other luggage if it has already been cleared.
+- You do not need to decide today whether to make a formal complaint or seek legal advice.
+- You do not need to “win the argument” at the counter — your priority is paperwork, reference numbers, and a workable travel decision.
+- You do not need perfect wording now; a clear follow-up is easier once you’re calm and have the notice in front of you.
 
 ## Important reassurance
-It is common to feel overwhelmed when personal property is taken by authorities. Obtaining a reference number and the correct form (C156) is the standard procedural way to protect your rights; once you have these, the immediate interaction is over and you can focus on your journey.
+It’s normal to feel embarrassed, angry, or panicked when something you rely on is suddenly held. Getting the situation into writing (what happened, why, and the reference number) is the fastest way to regain control.
 
 ## Scope note
-This guide provides first-step stabilization for items held at UK points of entry. It does not cover criminal defense for smuggling or long-term litigation in the VAT and Duties Tribunal.
+This is first-step guidance to stabilise the situation and avoid irreversible mistakes. The correct longer-term route depends on whether the item is detained, seized, restricted/prohibited, or simply needs paperwork/fees.
 
 ## Important note
-This information is for general guidance and is not legal advice. Customs laws regarding "controlled drugs," "prohibited goods," and "restricted items" are complex and subject to change. Always refer to the specific instructions provided on the official UK Government seizure notice.
+This is general information, not legal advice. Border and customs powers and processes vary by item type (especially medicines, food, plants/animal products, cash, and restricted goods). Always follow the specific instructions and deadlines written on your official notice/receipt.
 
 ## Additional Resources
 - https://www.gov.uk/guidance/what-you-can-do-if-things-are-seized-by-hmrc-or-border-force
 - https://www.gov.uk/customs-seizures/get-your-things-back
-- https://www.gov.uk/government/organisations/border-force/about/complaints-procedure
-- https://www.gov.uk/uk-border-control/baggage-checks
-- https://www.gov.uk/government/publications/travelling-to-the-uk/travelling-to-the-uk
+- https://www.gov.uk/customs-seizures/disagree-with-a-customs-seizure
+- https://www.legislation.gov.uk/ukpga/1979/2/schedule/3/crossheading/notice-of-claim/1991-02-01/data.html

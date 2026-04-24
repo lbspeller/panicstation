@@ -1,96 +1,96 @@
----
+﻿---
 title: "What to do if… you stop receiving text messages and cannot get SMS verification codes"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "antivirus turned off"
-  - "security app disabled"
-  - "windows security disabled"
-  - "microsoft defender off"
-  - "mac security turned off"
-  - "phone security disabled"
-  - "sudden antivirus deactivated"
-  - "security settings changed"
-  - "possible malware infection"
-  - "suspicious device behaviour"
-  - "hacked device worry"
-  - "can’t turn antivirus back on"
-  - "antivirus keeps turning off"
-  - "endpoint protection stopped"
-  - "unusual admin changes"
-  - "unknown profile installed"
-  - "security alerts missing"
-  - "accounts may be compromised"
-  - "ransomware early signs"
-  - "help i think i have a virus"
-  - "what do i do if my antivirus is off"
-  - "what do i do if defender is disabled"
-  - "help i cannot enable windows security"
-  - "my security app won't open"
-  - "antivirus disabled unexpectedly"
-  - "security software deactivated itself"
-  - "antiviruss turned off"
-  - "defendor disabled"
-  - "malware turning off security"
-  - "unauthorized security changes"
-last_reviewed: "2026-03-17"
+  - not receiving texts
+  - stopped getting sms
+  - sms verification not arriving
+  - cant get verification code
+  - one time code not received
+  - otp text not coming through
+  - short code texts not working
+  - 2fa sms not working
+  - phone not getting security codes
+  - texts suddenly stopped
+  - number not receiving sms
+  - verification texts delayed
+  - sms codes not delivered
+  - cannot receive login code
+  - account recovery without sms
+  - possible sim swap
+  - phone number hijacked
+  - port out fraud concern
+last_reviewed: "2026-03-08"
 ---
-# What to do if… you stop receiving text messages and cannot get SMS verification codes (UK)
 
+# What to do if… you stop receiving text messages and cannot get SMS verification codes (UK)
 ## Short answer
-Immediately disconnect the device from all internet and Bluetooth connections and stop entering any passwords or login details on that machine.
+Treat this as either a network/provisioning block (often fixable by your mobile provider) or a possible SIM-swap/number-takeover. Use another device/connection to secure key accounts and contact your mobile network urgently.
 
 ## Do not do these things
-- Do not keep using the device for banking, email, or accessing sensitive accounts.
-- Do not download "cleanup tools" or "fixer apps" suggested by pop-ups or unofficial websites.
-- Do not attempt to "test" the security by visiting known risky sites or opening suspicious files.
-- Do not plug in external backup drives or USB sticks while the device is in an uncertain state.
-- Do not ignore the deactivation, even if the device seems to be performing normally otherwise.
-- Do not enter your admin password or "allow" prompts that appear immediately after the deactivation.
+- Don’t keep requesting new codes repeatedly for 10–30 minutes at a time (it can trigger rate-limits and make delivery worse).
+- Don’t click links or follow instructions from unexpected “verification” texts/calls that you didn’t start.
+- Don’t share any verification code with anyone (including someone claiming to be “support”).
+- Don’t factory reset your phone as a first move (it can lock you out of authenticator apps, passkeys, and recovery options).
+- Don’t assume it’s “just an app issue” if you also suddenly lost calls/SMS or got alerts about SIM/number changes.
 
 ## What to do now
-1. **Isolate the device from all external networks.**
-   **Switch off Wi-Fi and Bluetooth, unplug any ethernet cables, and if using a mobile device, enable Airplane Mode.** If the device shows signs of active remote control (such as the cursor moving on its own or windows opening), power it down immediately by holding the physical power button.
+1. **Check for signs your number has been taken over (SIM swap/port-out).**
+   - Do you suddenly have **no signal**, “No Service”, or calls/SMS failing in/out?
+   - Did you receive any message/email about a **SIM change, eSIM activation, PAC/port request**, or account change you didn’t make?
+   - If yes, treat this as urgent fraud and go to steps 3, 4, and 7.
 
-2. **Note the exact state of the security software without clicking deep into settings.**
-   **Observe and write down the specific messages shown (e.g., "Real-time protection is turned off" or "Tamper protection disabled") and the name of the app involved.** Use a different device to take a photo of the screen if a warning message is visible.
+2. **Do the quick “delivery blockers” check (2 minutes, reversible).**
+   - Toggle **Airplane mode** on/off, then restart the phone.
+   - Confirm your phone can receive **any** SMS (ask someone to text you a normal message).
+   - Check you haven’t blocked unknown senders/short codes:
+     - Review your **blocked numbers** and any **message filtering** settings.
+     - Ensure your inbox isn’t at storage limits.
 
-3. **Secure your primary accounts using a different, known-safe device.**
-   **Log into your email, banking, and primary identity accounts (Microsoft, Google, or Apple ID) from a separate computer or phone to change passwords.** 
-   - Ensure Multi-Factor Authentication (MFA) is active on these accounts.
-   - Check "logged in devices" lists for anything unfamiliar and select "Log out of all other sessions."
+3. **Call your mobile network from another phone and ask for specific checks.**
+   Ask them to:
+   - Confirm the **last SIM/eSIM change** on your account, and whether any **port/number transfer** request is active.
+   - If anything changed without you, ask them to **stop it**, **secure the account**, and tell you what they can do to prevent another attempt.
+   - Check whether your line has **barring** that blocks **short-code / premium / “chargeable” SMS** (verification codes often arrive from 5–8 digit short codes).
+   - Re-provision SMS services on the line if needed, and confirm your number is correctly set for **receiving** SMS (not just sending).
+   - Add stronger account protection (for example an account passphrase/PIN and any **port/number-transfer protection** your provider supports).
 
-4. **Initiate an offline security scan if the operating system supports it.**
-   **On Windows devices, use the Microsoft Defender Offline scan found in Settings > Privacy & security > Windows Security > Virus & threat protection > Scan options.** This allows the system to restart into a secure environment and scan for persistent malware that may be blocking the software while Windows is running.
+4. **While you’re waiting for SMS to work, secure your most important accounts via a non-SMS route.**
+   - Prioritise: **email**, **banking**, **password manager**, and your main **Apple/Google account**.
+   - From a trusted device (or a computer on a known network), change the password for your primary email and enable a **non-SMS** second factor (authenticator app, passkey, or security key).
+   - If you’re locked out, use the provider’s **account recovery** flow, choosing **email/prompt/authenticator** options where available.
 
-5. **Check for unauthorized Remote Desktop or Profile changes (personal devices).**
-   **Look for any recently installed "Device Management" profiles or "Remote Desktop" settings that have been enabled without your consent.** If you find an unfamiliar work or school profile on a personal device, do not remove it yet—simply note its name for reporting.
+5. **If you suspect fraud, alert the places that can lose money fast.**
+   - Contact your bank(s) using the number on your card/app (not from any text). Ask them to watch for account takeovers and unusual transfers.
+   - If you have crypto/exchange accounts tied to SMS, secure or freeze access where possible.
 
-6. **Report the incident to the appropriate UK authority.**
-   **If you are in England, Wales, or Northern Ireland, use the Report Fraud service online (reportfraud.police.uk) or call 0300 123 2040.** 
-   - If you are in Scotland, report the matter to Police Scotland by calling 101.
-   - If you suspect financial details were compromised, contact your bank immediately using the number on the back of your card.
+6. **If your provider won’t fix it or you’re stuck in limbo, start a complaint trail you can escalate.**
+   - Write down: date/time, who you spoke to, what they said they changed, and any reference numbers.
+   - If still unresolved, follow your provider’s complaints process. If you reach a “deadlock” outcome, or it has been **8 weeks**, you can usually take it to an Ofcom-approved ADR scheme (your provider will be in **either** Communications Ombudsman **or** CISAS).
 
-7. **Escalate to professional IT support for managed or work devices.**
-   **Stop all troubleshooting and contact your organization's IT helpdesk or security operations center immediately.** Do not attempt a factory reset or "system restore" on a work device, as this may destroy forensic evidence needed by your employer.
+7. **If you think this is fraud (or money is at risk), report it through the right UK route.**
+   - If you live in **England, Wales, or Northern Ireland**, report cyber crime/fraud via **Report Fraud** (online or by phone).
+   - If you live in **Scotland**, report to **Police Scotland** (101 for non-emergency; 999 in an emergency).
 
 ## What can wait
-- You do not need to decide whether to wipe the hard drive and reinstall the operating system in the next few minutes.
-- You do not need to identify the specific name or "strain" of the malware if the device is already isolated.
-- You do not need to notify all your contacts yet; focus only on securing your own primary accounts first.
+- You do not need to decide today whether to change phone number, switch networks, or abandon accounts.
+- You do not need to “clean reinstall” your phone unless a trusted support channel confirms malware (this situation is usually network/account provisioning or account takeover).
+- You can postpone deeper security improvements (new password manager, new phone) until you can reliably access your accounts again.
 
 ## Important reassurance
-It is common for security software to be targeted by malware, and seeing it disabled is often the first and most helpful warning sign you will receive. Disconnecting the device immediately is the most effective way to stop an active attack, even if you are not sure what caused the deactivation.
+This happens to lots of people for ordinary reasons (network changes, short-code barring, provider-side provisioning issues), and it can also happen during number-takeover fraud. The calm move is the same: secure key accounts without SMS, and get your provider to confirm what’s happening on your line.
 
 ## Scope note
-This guide provides first-step stabilization for a device where security software has been unexpectedly disabled. It does not cover full system recovery, data restoration from backups, or legal evidence gathering.
+These are first steps to stabilise access and reduce the risk of account takeover. Once you can receive texts again, you can do a fuller security review and update 2FA methods away from SMS where possible.
 
 ## Important note
-This information is for general guidance and does not constitute professional cybersecurity or legal advice. If your device contains sensitive corporate, medical, or legal data, follow your specific organization's incident response policy and consult with a certified security professional.
+This is general information, not legal, financial, or technical advice. If you suspect fraud or you’ve lost money, act quickly and use official contact routes; if you feel out of your depth, ask a trusted person to sit with you while you make the calls.
 
 ## Additional Resources
-- https://support.google.com/messages/answer/9077245?co=GENIE.Platform%3DAndroid&hl=en
-- https://support.google.com/accounts/answer/114129?hl=en
-- https://support.google.com/accounts/answer/148367?hl=en
-- https://support.apple.com/en-gb/102606
-- https://deviceguides.ee.co.uk/samsung/galaxy-s21-ultra-android-11-0/calls-contacts-messaging/it-s-not-possible-to-send-and-receive-text-messages/
+- https://www.reportfraud.police.uk/faqs/
+- https://www.stopthinkfraud.campaign.gov.uk/reporting-fraud/
+- https://www.gov.uk/government/publications/joint-fraud-taskforce-telecommunications-charter/fraud-sector-charter-telecommunications-accessible-version
+- https://www.ofcom.org.uk/phones-and-broadband/service-quality/adr-schemes
+- https://www.ncsc.gov.uk/guidance/protecting-sms-messages-used-in-critical-business-processes
+- https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/campaigns/fraud/cyber-protect_protect-yourself-from-sim-swap-fraud.pdf

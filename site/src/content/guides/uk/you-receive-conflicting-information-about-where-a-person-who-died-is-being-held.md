@@ -1,101 +1,78 @@
----
+﻿---
 title: "What to do if… you receive conflicting information about where a person who died is being held"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "conflicting information body location"
-  - "where is the body held"
-  - "cannot find deceased in mortuary"
-  - "hospital mortuary vs funeral director"
-  - "told different locations after death"
-  - "coroner case body location"
-  - "procurator fiscal body location"
-  - "scotland death investigation hold"
-  - "bereavement office contact"
-  - "mortuary holding confusion"
-  - "next of kin locating body"
-  - "body transfer delay"
-  - "waiting for release for funeral"
-  - "post mortem location confusion"
-  - "sudden death who has custody"
-  - "viewing arrangements unclear"
-  - "release authority unclear"
-  - "funeral director cannot collect yet"
-  - "paperwork not yet issued"
-  - "scottish fatalities investigation unit"
-  - "coroners officer contact"
-  - "missing person after death"
-  - "hospital bereavement office"
-  - "where is my relative held"
-  - "help i cannot find my relative"
-  - "what do i do if mortuary is full"
-  - "what do i do if body is moved"
-  - "what do i do if locations conflict"
-  - "help i am told different mortuaries"
-  - "seeing the person after death"
-  - "transfer to forensic mortuary"
-  - "police incident number"
-  - "coroner reference number"
-  - "procurator fiscal reference"
-last_reviewed: "2026-03-16"
+  - conflicting information body location
+  - where is the body held
+  - can't find deceased in mortuary
+  - hospital mortuary vs funeral director
+  - told different locations after death
+  - coroner case body location
+  - procurator fiscal body location
+  - scotland death investigation hold
+  - bereavement office contact
+  - mortuary holding confusion
+  - next of kin locating body
+  - body transfer delay
+  - waiting for release for funeral
+  - post mortem location confusion
+  - sudden death who has custody
+  - viewing arrangements unclear
+  - release authority unclear
+  - funeral director can't collect yet
+  - paperwork not yet issued
+last_reviewed: "2026-03-03"
 ---
-# What to do if… you receive conflicting information about where a person who died is being held (UK)
 
+# What to do if… you receive conflicting information about where a person who died is being held (UK)
 ## Short answer
-Identify one lead authority (Coroner’s Officer or Scottish Fatalities Investigation Unit) to confirm who has legal custody and physical care before making any travel or funeral arrangements.
+Get one named point of contact to confirm **who has care of the person right now and who controls release** (hospital bereavement/mortuary vs coroner/procurator fiscal) before you travel, pay deposits, or authorise anything.
 
 ## Do not do these things
-- Avoid making simultaneous calls to multiple departments, as this often generates further conflicting records.
-- Do not travel to a hospital or mortuary without a confirmed appointment or direct verification that the person is physically on-site.
-- Do not pay a funeral director deposit or sign a contract until the person has been formally released from the Coroner or Procurator Fiscal.
-- Do not share specific identifying details or case numbers on social media to seek information.
-- Do not assume a verbal confirmation of location is final if it contradicts a written case reference.
+- Don’t make lots of parallel calls in a rush (it can create more contradictions and delays).
+- Don’t act on a verbal “yes” from someone who can’t give you a reference number and a named role.
+- Don’t pay a funeral director deposit “just to get things moving” if you’re not sure the person can legally be released yet.
+- Don’t assume they’ve been moved to a public mortuary; even when the coroner/procurator fiscal is involved, they may still be in a hospital mortuary.
+- Don’t share identifying details publicly online to try to “crowdsource” the location.
 
 ## What to do now
-1. **Maintain a single written log of all communications.**
-   - Record the time of each call.
-   - Note the name, department, and direct phone number of the person you spoke to.
-   - Record exactly where they stated the person is being held and why.
-2. **Obtain the primary case reference number.**
-   - Ask for the Police Incident Number (if the death was sudden).
-   - Ask for the Coroner’s Case Reference (England, Wales, NI).
-   - Ask for the Procurator Fiscal Reference (Scotland).
-3. **Contact the specific office with legal authority over the area of death.**
-   - **England and Wales:** Contact the local Coroner’s Office; the Coroner has legal custody of the person until a Certificate of Coroner (Form 100 or Cremation 6) is issued.
-   - **Scotland:** Contact the Scottish Fatalities Investigation Unit (SFIU) within the Crown Office and Procurator Fiscal Service (COPFS).
-   - **Northern Ireland:** Contact the Coroners Service for Northern Ireland (CSNI) in Belfast.
-4. **Identify the physical holding site directly.**
-   - If the death was in a hospital within the last 4 hours, call the **Ward** first.
-   - If more than 4 hours have passed, call the **Hospital Bereavement Office** or **Hospital Mortuary**.
-   - If the death is being investigated forensically, ask the Coroner or Fiscal if the person has been moved to a **Regional Forensic Mortuary**.
-5. **Request a "Custody and Release" status update.**
-   - Ask: "Who has physical care of the person right now?"
-   - Ask: "Is there a pending transfer to another facility?"
-   - Ask: "Has a 'Release of Body' form been authorized yet?"
-6. **Instruct your chosen funeral director to verify the location.**
-   - Provide them with your case reference number.
-   - Ask them to perform a formal "Custody Check" and report back once they have spoken directly to the mortuary manager or Coroner’s Officer.
-7. **Verify identity requirements for access.**
-   - Confirm what documentation (e.g., your photo ID, proof of relationship) is required before any viewing or transfer can be discussed.
+1. **Start a single written log (notes app is fine).** Record: the deceased’s full name, date of birth (if known), date/place of death, and every call: time, number, person’s name/role, and exactly what they said.
+2. **Get one “anchor” reference.** Ask whoever notified you for any case/reference they have (for example: hospital number/NHS number, mortuary reference, or coroner/procurator fiscal reference). If they can’t provide one, ask for the *team name* handling it (e.g., “bereavement office”, “coroner’s officer”, “procurator fiscal liaison”).
+3. **Contact the right authority for the area where the death occurred.**
+   - **England/Wales:** the **coroner’s office** for that area.
+   - **Northern Ireland:** the **coroner’s service** (often via a coroner’s liaison officer).
+   - **Scotland:** deaths under investigation are handled through the **Procurator Fiscal** pathway (often initiated via Police Scotland, but the fiscal controls decisions about post-mortem and release).
+4. **Call the place most likely to physically hold them today and ask one precise question:** “Are they currently in your care today?”  
+   - If the person died **in hospital**: ask for the **Bereavement Office** or **Hospital Mortuary** (not the ward).  
+   - If you’re told the death is **being investigated**: ask the coroner/procurator fiscal contact **where the person is being held** (they can control release even if the person is physically in a hospital mortuary).
+5. **Ask (and write down) two confirmations in plain words.**
+   - “**Who has physical care of them today?** (Which mortuary/site?)”
+   - “**Who controls release for the funeral right now?** (Hospital process vs coroner/procurator fiscal)”
+6. **If two places give different answers, request a same-day call-back from the release-controlling office.**  
+   Say: “I’m receiving conflicting locations. Please confirm the current holding location and whether a transfer is pending, and call me back today with the confirmed status.”
+7. **If you’ve chosen a funeral director, use them to reduce confusion.**  
+   Give them the reference you have and ask them to do a “custody and release check” with the mortuary/coroner/procurator fiscal and report back **only once confirmed**.
+8. **Be ready for a simple identity/relationship check.** If asked, have to hand: your name, your relationship, and a photo ID. If there’s disagreement about who can make decisions, ask: “Who is recorded as the contact/next of kin on your system, and what do you need to update it?”
 
 ## What can wait
-- You do not need to choose between burial or cremation immediately.
-- You do not need to settle the final funeral account or set a date for the service.
-- You do not need to register the death if it has been referred to a Coroner or Fiscal; they will advise you when the registrar can proceed.
-- You do not need to decide on a headstone or long-term memorial today.
+- You do not need to choose burial vs cremation today.
+- You do not need to finalise funeral dates, notices, or travel until you have confirmed who can release the person.
+- You do not need to decide about viewing arrangements until the holding location and any required examinations are confirmed.
 
 ## Important reassurance
-It is normal for records to lag behind physical movements during the first 48 hours after a death, especially if multiple agencies (Police, NHS, and Coroners) are involved. Conflicting information usually stems from a transfer in progress rather than a loss of records. Obtaining a case reference number will bridge these communication gaps.
+Conflicting information is common in the first couple of days because care and responsibility can involve handoffs between hospital teams, mortuary staff, and (when relevant) the coroner/procurator fiscal. Getting one reference number and one accountable contact usually turns confusion into clear, reliable updates.
 
 ## Scope note
-This guide provides first-step stabilization for identifying the physical location and legal custody of a deceased person. It does not cover the legalities of inquests, fatal accident inquiries, or the administration of estates.
+This is first-steps-only guidance for confirming where the person is being held and who can release them. Funeral planning and registration steps come later and vary depending on where in the UK the death occurred and whether it’s being investigated.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Procedures regarding the custody of a deceased person are governed by the Coroners and Justice Act 2009 (England/Wales) or the common law powers of the Lord Advocate (Scotland) and may change based on specific 2026 jurisdictional updates.
+This is general information, not legal advice. Processes vary across the UK and can change depending on whether the death is being investigated, where it happened, and who has authority over release. If you’re unsure, focus on confirming (1) the current holding location and (2) who controls release, using a single named contact.
 
 ## Additional Resources
 - https://www.gov.uk/after-a-death/when-a-death-is-reported-to-a-coroner
 - https://www.citizensadvice.org.uk/family/death-and-wills/what-to-do-after-a-death/
-- https://www.hta.gov.uk/guidance-public/post-mortems
-- https://www.sandwell.gov.uk/Coroner/bccs/post-mortems
-- https://www.buckinghamshire.gov.uk/births-deaths-marriages-and-civil-partnerships/deaths-and-inquests/the-coroners-service/guidance-about-deaths-referred-to-the-coroner/
+- https://assets.publishing.service.gov.uk/media/5e258ec240f0b62c52248094/guide-to-coroner-services-bereaved-people-jan-2020.pdf
+- https://www.nidirect.gov.uk/articles/coroners-post-mortems-and-inquests
+- https://www.gov.scot/binaries/content/documents/govscot/publications/advice-and-guidance/2016/11/death-scotland-practical-advice-times-bereavement-revised-11th-edition-2016-9781786522726/documents/death-scotland-practical-advice-times-bereavement-revised-11th-edition/death-scotland-practical-advice-times-bereavement-revised-11th-edition/govscot%3Adocument/00510301.pdf
+- https://www.copfs.gov.uk/services/bereavement-support/guide-for-bereaved-family-members/

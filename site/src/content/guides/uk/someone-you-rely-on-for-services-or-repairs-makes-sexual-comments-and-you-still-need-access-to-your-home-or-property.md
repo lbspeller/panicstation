@@ -1,81 +1,69 @@
----
+﻿---
 title: "What to do if… someone you rely on for services or repairs makes sexual comments and you still need access to your home or property"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "someone you rely on for services"
-  - "repairs makes sexual comments"
-  - "access to your home or property"
-  - "repair person made sexual comments"
-  - "tradesperson sexual harassment uk"
-  - "contractor made sexual remarks"
-  - "plumber made creepy comments"
-  - "electrician inappropriate behavior at home"
-  - "handyman sexual comments what to do"
-  - "service provider harassment in property"
-  - "my repair person said something sexual"
-  - "help i feel unsafe with a contractor"
-  - "what do i do if my landlord is sexual"
-  - "what do i do if a worker is inappropriate"
-  - "help i need repairs but feel unsafe"
-  - "smell of alcohol or strange behavior"
-  - "unwanted comments about my body"
-  - "sexual jokes during home visit"
-  - "creepy remarks about my appearance"
-  - "worker asking personal questions"
-  - "fear of retaliation from repair person"
-  - "need access but worker is creepy"
-  - "safety during home repairs"
-  - "reporting harassment by a business"
-  - "consumer rights act 2015 harassment"
-  - "protection from harassment act 1997"
-  - "worker wont leave my house"
-  - "uncomfortable with maintenance worker"
-  - "cancel repair visit safety"
-  - "two person rule for home visits"
-last_reviewed: "2026-03-17"
+  - repair person made sexual comments
+  - tradesperson was sexually inappropriate
+  - contractor said sexual things
+  - plumber made creepy remarks
+  - electrician made sexual jokes
+  - handyman sexual comments
+  - maintenance worker inappropriate comments
+  - service provider harassment at home
+  - sexual harassment by a business
+  - i need repairs but feel unsafe
+  - i still need access to my property
+  - letting someone into my home feels unsafe
+  - unwanted sexual remarks in my home
+  - stranger in my house made comments
+  - service visit made me uncomfortable
+  - i rely on them for access
+  - boundary crossing by worker
+  - fear of retaliation from contractor
+  - safety plan for home visit
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… someone you rely on for services or repairs makes sexual comments and you still need access to your home or property (UK)
 
 ## Short answer
-Postpone or cancel all upcoming visits immediately and contact the service provider's head office to request a different worker and a formal log of the incident.
+Prioritise your safety and control of access: do not let them return alone, and arrange an alternative route for repairs (a different person/company, or someone with you) before anything else.
 
 ## Do not do these things
-- Do not allow the individual back into your home alone to "finish the job" if you feel unsafe.
-- Do not engage in a verbal confrontation or "call them out" while they are still inside your property.
-- Do not delete any evidence, including text messages, call logs, or original booking confirmations.
-- Do not feel you must report the incident to the police immediately to justify refusing them entry.
-- Do not accept "unannounced" follow-up visits or vague arrival windows.
+- Do not let them into your home again “just to get it over with” if you feel unsafe or pressured.
+- Do not confront them in person inside your home or in a private space.
+- Do not accept “surprise visits” or agree to vague arrival windows that leave you isolated.
+- Do not delete messages, call logs, or appointment details if you might want to report or complain later.
+- Do not feel you have to report to police right now to justify refusing them access.
 
 ## What to do now
-1. **Postpone any scheduled return visits immediately.** Contact the individual or the company and state that the current time is no longer convenient; you do not need to provide a reason or mention the harassment at this specific second.
-2. **Contact the service provider’s head office or management.** State clearly that the specific worker made you feel unsafe due to sexual comments and request that **a different person** be assigned to your property for all future work.
-   - Request that the original worker is **formally instructed** not to contact you or attend your address.
-   - Ask for a **written confirmation** that your details (including phone number) will not be shared further with that individual.
-3. **Invoke your rights under the Consumer Rights Act 2015.** If the service was not provided with "reasonable care and skill"—which includes professional conduct—you have the right to **stop the work and potentially claim a refund** for the unfinished portion to hire someone else.
-4. **Notify your landlord or housing association in writing.** If the worker was sent by your landlord, inform them of the incident immediately and state that you will **only allow entry** to a different, named contractor moving forward.
-5. **Implement a "two-person rule" for the next visit.** Ensure a friend, neighbor, or family member is physically present in the room for the duration of the repair. If you are alone, keep a phone in your hand with a trusted contact on a live "check-in" call.
-6. **Secure your physical environment during visits.** Keep your mobile phone fully charged and on your person; stay near the primary exit at all times; do not allow the worker to move freely through the house unaccompanied.
-7. **Document the specific details of the interaction.** Record the date, time, the exact words used, and any physical actions that occurred. Save all digital communications and note down the worker's name or vehicle registration if known.
-8. **Contact the police if you feel in immediate danger.** Call **999** if the person refuses to leave or returns to your property. If you cannot speak, use the **Silent Solution** by pressing **55** when prompted. For non-emergencies, call **101** or report the harassment online.
+1. **Make access safer immediately.** If they are due to return soon, cancel or postpone and say you’re only available when another adult is present (you do not have to explain why).
+2. **Switch the person/company if at all possible.** If it’s a firm, contact the office (not the individual) and request **a different worker**. Ask that **all future contact goes through the office** and that the original person is **not assigned** to your address again.
+3. **If you booked via a platform/agency, use their safety/complaints route.** Ask for reassignment and for your details to be shared only as needed for the job (not directly with the original person).
+4. **If you rent or live in managed housing, tell the landlord/agent in writing.** Ask for a different contractor and to note on your account that you will only allow entry with prior notice and a specific named person.
+5. **Put a “two-person rule” in place for any future visit.** Have someone with you, or ask a neighbour/friend to be present. If that’s not possible, schedule the work for a time someone can be nearby and available by phone.
+6. **Control the practicalities of entry.** Keep doors locked until you verify who is there; don’t let them roam unaccompanied; keep keys/valuables/medication and personal paperwork out of sight; stay near an exit; keep your phone charged and on you.
+7. **Create a simple record (for your own clarity).** Write down date/time, what was said, and any witnesses. Save texts/emails/voicemails and the booking confirmation. (If you later decide to complain or report, this helps.)
+8. **If you feel in immediate danger, call 999.** If it’s not an emergency but you want advice or to report, call **101** or report online via your local police force.
 
 ## What can wait
-- You do not need to decide today whether you want to pursue a full legal claim or a formal police investigation.
-- You do not need to calculate the exact refund amount or final bill settlement right now.
-- You do not need to explain your decision to the individual worker who made the comments.
+- You do not need to decide today whether this “counts” as a crime or discrimination to take protective steps.
+- You do not need to write a detailed statement right now—short notes are enough.
+- You do not need to negotiate directly with the person who made the comments.
 
 ## Important reassurance
-It is normal to feel a mixture of anger, confusion, or fear when someone violates the safety of your home. You are not "overreacting" by taking these steps; the responsibility for professional conduct lies entirely with the service provider, regardless of how much you need the repair completed.
+Feeling shocked, embarrassed, angry, or frozen is a common reaction to sexual comments—especially in your own home. Wanting repairs done does not mean you have to tolerate behaviour that makes you feel unsafe.
 
 ## Scope note
-This guide provides first-step stabilization for safety and property access. Long-term housing disputes, complex legal claims under the Equality Act, or formal police statements may require specialist advice from Citizens Advice or a legal professional.
+These are first steps to stabilise safety and access. If the situation continues, escalates, or affects your housing, you may want specialist support (housing advice, victim support, or legal advice) once you’re in a calmer place.
 
 ## Important note
-This information is for guidance only and does not constitute legal advice. While the Equality Act 2010 provides protections against harassment in the provision of services, specific outcomes depend on individual circumstances.
+This is general information, not legal advice. If you are in danger, call emergency services.
 
 ## Additional Resources
+- https://www.gov.uk/report-crime
+- https://www.police.uk/pu/contact-us/
 - https://www.citizensadvice.org.uk/law-and-courts/discrimination/taking-action-about-discrimination/taking-action-about-harassment/
-- https://www.citizensadvice.org.uk/consumer/getting-home-improvements-done/problem-with-home-improvements/
-- https://www.gov.uk/consumer-protection-rights
-- https://www.victimsupport.org.uk/crime-info/types-crime/stalking-and-harassment/
-- https://www.rightsofwomen.org.uk/get-advice/call-our-advice-lines/
+- https://www.citizensadvice.org.uk/housing/housing-discrimination/discrimination-in-housing/checking-its-discrimination/if-someones-harassed-you-in-housing/
+- https://rapecrisis.org.uk/get-help/want-to-talk/

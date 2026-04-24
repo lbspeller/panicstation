@@ -1,91 +1,70 @@
----
+﻿---
 title: "What to do if… your child says an adult is asking for private photos or video calls and offering gifts in return"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "child asked for nudes"
-  - "adult asking child photos"
-  - "adult offering gifts online"
-  - "online grooming child"
-  - "private video call request"
-  - "sexual messages to child"
-  - "stranger asking child pictures"
-  - "adult wants private photos"
-  - "child says someone online"
-  - "grooming for gifts"
-  - "someone buying child presents"
-  - "adult requesting explicit images"
-  - "child pressured online"
-  - "unsafe online contact child"
-  - "child asked for secret photos"
-  - "adult asking for webcam"
-  - "child offered money or gifts"
-  - "online sexual exploitation child"
-  - "suspicious adult chat child"
-  - "child worried about messages"
-  - "help i think my child is being groomed"
-  - "help i found messages on my childs phone"
-  - "what do i do if an adult messaged my child"
-  - "what do i do if my child was asked for a webcam call"
-  - "what do i do if someone is sending my child gifts"
-  - "what do i do if my child is being blackmailed online"
-  - "smell of secrets"
-  - "child acting secretive with phone"
-  - "child has new clothes they cannot explain"
-  - "unexplained money in childs account"
-  - "child hiding screen when parent walks in"
-  - "child receives parcels from strangers"
-  - "stranger offering robux for photos"
-  - "grooming on discord help"
-  - "grooming on snapchat help"
-  - "grooming on roblox help"
-last_reviewed: "2026-03-17"
+  - child asked for nudes
+  - adult asking child photos
+  - adult offering gifts online
+  - online grooming child
+  - private video call request
+  - sexual messages to child
+  - stranger asking child pictures
+  - adult wants private photos
+  - child says someone online
+  - grooming for gifts
+  - someone buying child presents
+  - adult requesting explicit images
+  - child pressured online
+  - unsafe online contact child
+  - child asked for secret photos
+  - adult asking for webcam
+  - child offered money or gifts
+  - online sexual exploitation child
+  - suspicious adult chat child
+  - child worried about messages
+last_reviewed: "2026-03-14"
 ---
-# What to do if… your child says an adult is asking for private photos or video calls and offering gifts in return (UK)
 
+# What to do if… your child says an adult is asking for private photos or video calls and offering gifts in return (UK)
 ## Short answer
-Prioritize the child's safety and the preservation of evidence without viewing illegal content yourself. Report the contact immediately to the Child Exploitation and Online Protection Command (CEOP) or the police.
+Treat this as a child-safety issue, not a discipline issue. Stay calm, stop the contact if you can do so safely, and get specialist help from CEOP, police, or the NSPCC rather than trying to handle it alone.
 
 ## Do not do these things
-- Do not blame, shame, or punish the child for disclosing the contact.
-- Do not look at, save, or share any indecent images of a child (including your own child) if they have already been sent, as possessing these is a criminal offense.
-- Do not delete messages, account names, or call logs, as these are vital for police investigation.
-- Do not contact, confront, or threaten the adult yourself.
-- Do not alert the adult that you are aware of the contact, which may cause them to delete evidence.
-- Do not promise the child absolute secrecy; explain that specialist adults must be involved to ensure safety.
+- Do not blame, shame, or punish your child for telling you.
+- Do not tell your child to keep talking to the adult to “get proof.”
+- Do not delete messages, usernames, screenshots, gifts, payment records, or account details if they still exist.
+- Do not contact or threaten the adult yourself.
+- Do not force your child to repeat everything over and over to different people if it can be avoided.
+- Do not promise absolute secrecy; explain that you may need to involve adults whose job is to help keep children safe.
 
 ## What to do now
-1. **Move to a private, quiet space and thank the child for telling you.** Use neutral, supportive language to confirm they are not in trouble and that telling you was the right thing to do.
-2. **End the contact immediately without engaging the adult.** Help the child stop replying, leave the conversation, and block the account on the specific app or platform where the contact occurred.
-3. **Preserve evidence by taking screenshots of the adult's profile and username.** Capture the conversation history and any mention of gifts or money, but do not take screenshots of any actual nude or indecent images of the child.
-   - Note the platform name (e.g., Discord, Snapchat, Roblox).
-   - Record the dates and times the messages were sent.
-4. **Determine if any physical meeting has been discussed or if the adult knows your location.** Check if the child has shared their school name, home address, or phone number, or if any live video calls have already taken place.
-5. **Report the incident to CEOP or the police.** If there is an immediate risk of harm or an in-person meeting is scheduled for today, call 999 immediately.
-   - For non-emergencies, use the CEOP Safety Centre online reporting tool.
-   - Alternatively, report via 101 or your local police service's online reporting portal.
-6. **Contact the school’s Designated Safeguarding Lead (DSL) if the child is of school age.** Inform them the same day so they can provide internal safeguarding support and monitor for any connection to other pupils.
-7. **Use the "Report Remove" tool if sexual images or videos of the child have been shared online.** This service, run by Childline and the IWF, helps under-18s get their own indecent images removed from the internet.
-8. **Reach out to the NSPCC Helpline for professional advice on the next steps for you and your family.** You can call 0808 800 5000 to speak with a safeguarding professional about supporting the child’s recovery.
+1. Move to a calmer, private space with your child and thank them for telling you. Use simple language such as: “You are not in trouble. I’m glad you told me. This is not your fault.”
+2. End the contact in the safest immediate way available. That usually means helping your child stop replying, leave the chat, block the account, and turn off location sharing or live video access on the app they were using.
+3. Keep what is already there without spreading it further. Save screenshots of usernames, profiles, messages, payment offers, gift promises, video-call requests, and dates if you can do that without making your child keep looking at the content.
+4. Check whether any image or video was already sent, any live call happened, any gifts or money changed hands, or whether the adult may know your child’s school, address, phone number, or routine. This helps you decide who needs to be told now.
+5. Report it. In the UK, CEOP is a specialist reporting route if you are concerned your child is being sexually abused or groomed online. If you need police help instead, report to the police on 101 or online through your local police service. Use 999 if there is immediate danger or an in-person meeting may happen soon.
+6. Contact the NSPCC Helpline for support as a parent or carer if you need help deciding what to say or do next. Your child can also contact Childline directly for confidential support.
+7. If an image or video of your child may already be online, use Childline and IWF’s Report Remove for under-18s to try to get sexual images of a young person removed from the internet.
+8. Tell only the people who need to know right now. If the adult may be connected to school, sport, tuition, religion, transport, or another organised setting, tell the school’s designated safeguarding lead or, in another setting, the safeguarding lead, head, or child-protection contact the same day.
+9. Stay physically and digitally close for a while. Check privacy settings together, look for other accounts the adult used, and make sure your child is not dealing with new messages, threats, or gift offers alone tonight.
 
 ## What can wait
-- You do not need to decide on permanent device bans or new household internet rules tonight.
-- You do not need to conduct a full "interrogation" or create a written witness statement yourself.
-- You do not need to inform friends or extended family members right now.
-- You do not need to decide how to explain this to the child’s siblings immediately.
+You do not need to decide today how to handle every app, every friendship, or every long-term online rule. You also do not need to force a full written timeline from your child right now. The urgent part is safety, stopping contact, preserving what already exists, and getting the right support involved.
 
 ## Important reassurance
-It is normal to feel shocked, angry, or overwhelmed. Children are often targeted using sophisticated grooming tactics like "love bombing," gift-giving, or pressure, and their reaction to hide the contact is a common response to those tactics. The child’s decision to tell you is the most important step in stopping the harm.
+Children are often targeted through secrecy, praise, pressure, gifts, or attention. Freezing, going along with it, replying, hiding it, or feeling embarrassed are common reactions. Telling you was an important protective step.
 
 ## Scope note
-This guide provides first-step stabilization for a child protection concern. Ongoing support will require coordination with law enforcement and safeguarding professionals.
+This is first steps only for a highly sensitive situation. Later decisions about school, devices, reporting, and emotional support may need specialist help.
 
 ## Important note
-This information is for guidance only and does not constitute legal or professional advice. If you believe a child is in immediate danger, contact emergency services on 999.
+This is general information, not legal, police, or therapeutic advice. If you think there is any immediate risk of contact in person, immediate harm, or ongoing coercion, contact emergency services now.
 
 ## Additional Resources
-- https://www.ceop.police.uk/ceop-reporting/
-- https://www.ceopeducation.co.uk/parents/articles/Online-grooming/
-- https://www.nspcc.org.uk/keeping-children-safe/types-of-abuse/grooming/
+- https://www.ceop.police.uk/Safety-Centre/Should-I-make-a-report-to-CEOP-YP/Should-I-make-a-report-to-CEOP-parent/
+- https://www.ceop.police.uk/Safety-Centre/How-can-CEOP-help-me-YP/How-can-CEOP-help-me-parent/
+- https://www.gov.uk/government/publications/child-sexual-exploitation-and-abuse-sources-of-support/victims-and-survivors-of-child-sexual-exploitation-and-abuse-sources-of-support
+- https://www.nspcc.org.uk/keeping-children-safe/types-of-abuse/online-abuse/
+- https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/report-remove/
 - https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/online-grooming/
-- https://www.nspcc.org.uk/keeping-children-safe/online-safety/online-reporting/

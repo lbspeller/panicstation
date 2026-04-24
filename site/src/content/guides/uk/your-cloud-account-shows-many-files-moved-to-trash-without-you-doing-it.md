@@ -1,105 +1,105 @@
----
+﻿---
 title: "What to do if… your cloud account shows many files moved to trash without you doing it"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "cloud photos disappeared"
-  - "cloud videos missing"
-  - "photos vanished from icloud"
-  - "google photos missing items"
-  - "onedrive camera roll missing"
-  - "cannot find photos anywhere"
-  - "photos not showing after sync"
-  - "photos missing after update"
-  - "signed into wrong account photos"
-  - "recently deleted album missing"
-  - "trash bin photos recovery"
-  - "hidden album photos missing"
-  - "archived photos not showing"
-  - "shared library photos missing"
-  - "cloud storage glitch photos"
-  - "account hacked photos missing"
-  - "phone photos disappeared suddenly"
-  - "cloud backup not showing"
-  - "lost pictures in the cloud"
-  - "help i lost my photos"
-  - "help my photos are gone"
-  - "help i cannot find my videos"
-  - "what do i do if photos disappeared"
-  - "what do i do if videos are missing"
-  - "what do i do if cloud is empty"
-  - "what do i do if icloud is missing photos"
-  - "missing media files in cloud"
-  - "photos deleted by themselves"
-  - "videos vanished from phone"
-  - "lost digital memories recovery"
-last_reviewed: "2026-03-17"
+  - cloud account files in trash
+  - cloud storage files deleted
+  - files moved to bin
+  - google drive files trashed
+  - onedrive recycle bin full
+  - dropbox deleted files
+  - icloud recently deleted files
+  - cloud sync deleted my files
+  - shared folder files missing
+  - unauthorized file deletion
+  - account takeover cloud storage
+  - hacked cloud storage account
+  - suspicious cloud account activity
+  - restore files from trash
+  - lots of files missing suddenly
+  - someone accessed my cloud account
+  - cloud account compromised
+  - accidental bulk delete in cloud
+  - files disappeared from cloud drive
+  - cloud backup deleted
+last_reviewed: "2026-03-08"
 ---
-# What to do if… your cloud account shows many files moved to trash without you doing it (UK)
 
+# What to do if… your cloud account shows many files moved to trash without you doing it (UK)
 ## Short answer
-Disconnect the affected device from the internet to prevent further synchronised deletions. Check the service’s official web portal and the Recently Deleted or Trash folders immediately to locate missing items.
+Stop syncing and avoid permanent deletion, then secure the account (sign out other sessions, change password, enable 2-step verification) before you restore anything. Treat this as time-sensitive: some services automatically purge items from trash after a retention period.
 
 ## Do not do these things
-- Don’t perform mass deletions or "cleanup" actions on other devices linked to the same account.
-- Don’t empty the Trash, Bin, or Recently Deleted folders to "clear space" while searching.
-- Don’t factory reset your mobile device or uninstall the cloud application.
-- Don’t sign out of the account on all devices simultaneously, as this may clear local caches that still contain low-resolution thumbnails of the missing data.
-- Don’t assume items are permanently gone based only on the view from a single mobile application.
+- Don’t empty the trash / recycle bin (or click “delete forever”) while you’re still unsure what happened.
+- Don’t keep multiple devices “trying to fix it” at once (it can re-delete/re-trash items via sync).
+- Don’t trust unexpected “support” emails, pop-ups, or phone numbers offered in messages about the incident.
+- Don’t install “recovery” tools from random sites or grant remote access to someone claiming to help.
+- Don’t assume it’s only your cloud account—your email account may be the real doorway.
 
 ## What to do now
-1. **Disconnect the affected device from all network connections immediately.**
-   - Enable Airplane Mode or turn off Wi-Fi and mobile data to stop the device from syncing with the cloud.
-   - This prevents the "deletion" command from spreading to other devices if the items were accidentally removed elsewhere.
+1. **Freeze the damage (stop sync, don’t delete anything).**  
+   - On each computer/phone with the cloud app: pause syncing or quit the app for now.  
+   - If this is a shared folder/workspace, stop making changes there until you’ve checked whether another user/admin acted.
 
-2. **Access the cloud service via a desktop web browser on a different device.**
-   - Sign in to the official web portal for your service:
-     - iCloud: icloud.com/photos (Sign in with your Apple Account).
-     - Google Photos: photos.google.com.
-     - OneDrive: onedrive.live.com.
-   - Verify if the items are visible in the main library on the web, which is the most accurate reflection of the server's data.
+2. **Use the cloud service website (not just the app) to confirm what moved and when.**  
+   - Open **Trash/Deleted items/Recycle bin** and sort by time if possible.  
+   - Note the earliest time you see the mass move.  
+   - If there’s an **activity/audit log** that shows a device/user/app, capture it (screenshots or a written note).
 
-3. **Search the secondary storage folders in a specific order.**
-   - **Recently Deleted / Trash / Bin:** Locate these in the sidebar or library settings; items here are usually recoverable for 30 to 60 days.
-   - **Archive:** Check if items were moved out of the main feed (common in Google Photos).
-   - **Hidden Album:** Verify if items were moved to a protected or hidden folder.
-   - **Locked Folder / Personal Vault:** Check any encrypted or password-protected sections that do not appear in general searches.
+3. **Secure the account before restoring.**  
+   In your account security settings:
+   - Use the option to **sign out of other devices/sessions** (if available), and remove anything you don’t recognise.  
+   - **Change your password** (new and unique).  
+   - **Turn on 2-step verification (2SV)** (an authenticator app is generally preferred where available; SMS can be better than nothing).  
+   - Review **connected third-party apps** and revoke anything unnecessary or unfamiliar.
 
-4. **Verify you are signed into the correct account and check storage status.**
-   - Ensure the email address or username matches the account where the photos were originally backed up.
-   - Check the storage quota; if the account is over its limit, new items may not have synced, or the service may have restricted viewing.
+4. **Secure your email account immediately.**  
+   If someone can access your email, they can often reset cloud passwords.  
+   - Change your email password, enable 2SV, and review recent sign-ins/devices there too.
 
-5. **Check for "Optimise Storage" or "Free Up Space" settings.**
-   - Apple: Verify if "Optimise iPhone Storage" is active, which keeps full-resolution versions in iCloud and only small versions on your phone.
-   - Google: Check if "Free up space" was used, which deletes the local copy of any item already successfully backed up to the cloud.
+5. **Make a quick incident record (to avoid confusion later).**  
+   Write down or screenshot:
+   - date/time you noticed it  
+   - approx. number of files/folders affected  
+   - any unknown sign-ins/devices  
+   - any account setting changes (recovery email/phone, new connected apps)
 
-6. **Review shared library and album permissions.**
-   - If the missing items were in a shared album, contact the owner to see if they removed the items or changed sharing permissions.
-   - In a shared Google Photos library, check if "Save to library" was enabled for the items sent by others.
+6. **Restore in the safest direction (small test first).**  
+   - Restore a **small batch** and watch for it being trashed again (a sign something automated is still active: sync on a device, a third-party app, or another shared user).  
+   - If it stays put, restore in batches.  
+   - If it keeps re-trashing, stop and re-check Step 1–4.
 
-7. **Report suspected unauthorised access to the service provider.**
-   - If you see unfamiliar devices in your account security settings, change your password and enable two-factor authentication (2FA) immediately.
-   - **England and Wales:** Report cyber-enabled crime to **Report Fraud** online or via 0300 123 2040.
-   - **Scotland:** Contact **Police Scotland** on 101.
-   - **Emergency:** If there is an immediate threat to your safety or property, call **999**.
+7. **Use the provider’s official support route.**  
+   Go to the provider’s website/app and navigate to Help/Support from there (not from links in messages). Ask about:
+   - bulk restore options  
+   - what their logs show (device/app/user)  
+   - whether they can help stop repeated deletions/restore at scale
+
+8. **If you suspect criminal access or fraud, consider reporting.**  
+   - If money was lost or you suspect account takeover as part of fraud, you can report via **Report Fraud (Action Fraud)**.  
+   - If this involves work/customer personal data, follow your organisation’s incident process immediately; it may be a **personal data breach** that needs logging and assessment.
 
 ## What can wait
-- Purchasing additional cloud storage or switching providers.
-- Reorganising existing albums or folders.
-- Investigating long-term physical backup solutions like external hard drives.
+- You do **not** need to decide today whether to wipe devices, reinstall apps, or abandon the account.
+- You do **not** need to restore everything immediately—securing the account first prevents repeated loss.
+- You do **not** need to identify the exact cause right now; focus on stopping changes and regaining control.
 
 ## Important reassurance
-It is common for cloud libraries to appear empty or incomplete during a background update, after a software change, or if the device is re-indexing a large amount of data. In many cases, the files remain safely on the provider's servers and will reappear once the synchronisation process completes or the correct account is accessed.
+A sudden mass move to trash is a common “alarm signal” in cloud systems and it often has a reversible path—especially if you avoid permanent deletion and pause syncing. A calm “freeze, secure, then restore” order prevents the most irreversible mistakes.
 
 ## Scope note
-This guide provides first-step stabilization for identifying and recovering missing cloud media. It does not cover professional data forensics or the recovery of items permanently purged from provider servers.
+This is first-steps guidance for stabilising the situation and preventing further loss. If you later find signs of wider compromise (email takeover, banking alerts, workplace breach), you may need specialist support and formal reporting.
 
 ## Important note
-Cloud service policies regarding data retention and recovery windows are subject to change. This information is for general guidance and does not constitute technical or legal advice. Always refer to the official support documentation of your specific service provider for the most current recovery protocols.
+This guide is general information, not legal, IT, or forensic advice. If you think personal data, workplace systems, or financial accounts are involved, follow your organisation’s security process (if applicable) and use official reporting/support channels.
 
 ## Additional Resources
-- https://support.google.com/drive/answer/15701190?co=GENIE.Platform%3DDesktop&hl=en
-- https://support.google.com/drive/answer/1716222?co=GENIE.Platform%3DDesktop&hl=en
-- https://support.microsoft.com/en-gb/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f
-- https://support.apple.com/en-gb/guide/icloud/mmae56ea1ca5/icloud
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv
+- https://www.reportfraud.police.uk/account-takeover/
+- https://ico.org.uk/for-organisations/report-a-breach/personal-data-breaches-a-guide/
+- https://support.google.com/drive/answer/1716222
+- https://support.microsoft.com/en-gb/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f
+- https://help.dropbox.com/delete-restore/recover-deleted-files-folders
+- https://support.apple.com/en-gb/guide/icloud/mmae56ea1ca5/icloud

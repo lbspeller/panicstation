@@ -1,96 +1,81 @@
----
+﻿---
 title: "What to do if… you receive a seizure or detention notice for a parcel and you are told to contact an authority"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "parcel seizure notice"
-  - "detained parcel letter"
-  - "package held by customs"
-  - "border seizure warning"
-  - "told to contact an authority"
-  - "official contact request"
-  - "customs detention notice"
-  - "seized goods letter"
-  - "delivery stopped notice"
-  - "unexpected authority letter"
-  - "scam customs call"
-  - "fake detention text"
-  - "pay a fee demand"
-  - "reference number letter"
-  - "return of seized parcel"
-  - "challenge a seizure"
-  - "restoration request"
-  - "notice of claim"
-  - "worried about prosecution"
-  - "do i have to respond"
-  - "notice 12a help"
-  - "hmrc parcel held"
-  - "border force letter"
-  - "what do i do if my parcel is seized"
-  - "what do i do if i get a seizure notice"
-  - "help i got a customs letter"
-  - "my package was taken by border force"
-  - "smell of prohibited items"
-  - "visible tape from customs"
-  - "official home office envelope"
-last_reviewed: "2026-03-17"
+  - parcel seizure notice
+  - detained parcel letter
+  - package held by customs
+  - border seizure warning
+  - told to contact an authority
+  - official contact request
+  - customs detention notice
+  - seized goods letter
+  - delivery stopped notice
+  - unexpected authority letter
+  - scam customs call
+  - fake detention text
+  - “pay a fee” demand
+  - reference number letter
+  - return of seized parcel
+  - challenge a seizure
+  - restoration request
+  - notice of claim
+  - worried about prosecution
+  - do i have to respond
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive a seizure or detention notice for a parcel and you are told to contact an authority (UK)
 
 ## Short answer
-Identify if the notice is a physical paper "Notice 12A" or an unverified digital message. If genuine, note the strict one-month deadline to challenge the legality of the seizure or the 45-day deadline to request the return of goods.
+Pause and verify the notice is real *before* you contact anyone or share details. If it’s genuine, keep everything, identify any deadline on the notice, and respond **in writing** to the official address (not via links or unknown phone numbers).
 
 ## Do not do these things
-- Do not click links or call numbers provided in a text message or email claiming to be from "Customs" or "HMRC".
-- Do not pay any "customs charges" or "release fees" via cryptocurrency, gift cards, or immediate bank transfer links.
-- Do not provide photos of your passport, driving licence, or bank cards to an unverified digital solicitor or "agent".
-- Do not admit to importing illegal items or provide a detailed statement over the phone without legal representation.
-- Do not ignore the notice if it is a physical letter; goods are automatically forfeited and destroyed if deadlines pass without a response.
+- Do not call a number or click a link from an unexpected text/email “detained parcel” message (many are scams).
+- Do not pay “release fees”, “fines”, or “verification charges” via bank transfer, crypto, gift cards, or payment links.
+- Do not provide ID, bank details, or a signature “to release the parcel” until you’ve verified the sender independently.
+- Do not rush into a phone “interview” or written admission if the notice suggests criminal issues—get legal advice first.
+- Do not throw away the packaging, letter, or any tracking details (these can matter later).
 
 ## What to do now
-1. **Verify the physical nature of the notice.**
-   **Official seizures by HMRC or Border Force are almost always confirmed via a physical paper "Notice 12A" (Seizure Notice) sent to the delivery address.**
-   - Genuine notices contain a specific reference number and the address of the seizing office.
-   - Digital-only notices (SMS/Email) demanding immediate payment are frequently scams.
-2. **Report suspicious digital messages immediately.**
-   **Forward suspicious text messages claiming to be from HMRC to 60599 or general scam texts to 7726.**
-   - Forward suspicious emails to report@phishing.gov.uk.
-   - If you have already shared bank details, call your bank immediately on 159.
-3. **Identify the specific authority that issued the notice.**
-   **Check the letterhead to see if the goods were seized by "HM Revenue and Customs" (HMRC) or "Border Force".**
-   - These are separate organisations with different contact addresses; you must respond to the one listed on your specific notice.
-4. **Determine your response path based on the deadlines.**
-   **Calculate the "one calendar month" deadline from the date on the notice to file a "Notice of Claim" if you believe the seizure was unlawful.**
-   - If you accept the seizure was legal but want the items back (Restoration), you have 45 days from the notice date to submit a request.
-   - If the items were in a seized vehicle, you have 45 days to claim personal property.
-5. **Preserve all physical evidence of the shipment.**
-   **Keep the original packaging, the outer envelope the notice arrived in, and all receipts or order confirmations for the items.**
-   - Take clear photographs of any customs tape or "opened by" labels on the parcel if it was delivered in part.
-6. **Respond only in writing via tracked post.**
-   **Send any challenge or restoration request to the address on the Notice 12A using a "Signed For" or "Tracked" service.**
-   - Keep a copy of your letter and the proof of postage.
-   - Do not use phone calls as a substitute for the formal written notice required by law.
-7. **Seek legal advice if the notice mentions prohibited items or criminal offences.**
-   **Contact a solicitor specializing in customs or criminal law if the notice mentions controlled drugs, weapons, or an invitation to a voluntary interview.**
-   - Do not attempt to "explain away" the items in a call to the seizing officer, as these conversations can be recorded and used as evidence.
+1. **Stop and check what you actually received (paper letter vs text/email).**  
+   Genuine seizure/detention action is commonly communicated by a **paper notice** with a reference number, date, what was seized, who seized it, and what you can do next. Treat texts/emails demanding urgent action or payment as unverified until proven otherwise.
+2. **Verify the sender independently (don’t trust a link or callback number).**  
+   Use GOV.UK seizure guidance to confirm the process and the kind of paperwork you should have. If you need to contact an authority, use contact routes you found yourself on GOV.UK (or a main switchboard), and only use the address on the letter if it matches what you see on official guidance.
+3. **If it’s a suspicious “missed parcel/detained parcel” text, report it and stop.**  
+   Forward the text to **7726** (spam reporting), then delete it. Track any real delivery only via the courier’s official site/app that you access independently (not via the message).
+4. **Photograph/scan everything and start a simple log.**  
+   Keep: the notice, envelope (postmark), tracking number, order confirmation, item description, seller details, payment record, and any messages. Write down: when you received it, and any deadlines stated.
+5. **Work out what the notice is asking you to do, and calendar the deadline today.**  
+   UK seizure paperwork commonly separates:  
+   - **Challenging whether the seizure was lawful** (often by sending a *notice of claim*), and/or  
+   - **Asking for the goods back** (a *restoration request*).  
+   If you are challenging the legality of the seizure, there can be a strict time limit (often **one calendar month** from the date shown on the seizure notice). Use the date on *your* notice and do not assume you can file late.
+6. **Respond in writing and keep proof.**  
+   If you choose to respond, do it in writing, keep a copy of everything you send, and use a tracked method so you can prove it was delivered. If you’re making a restoration request, use an official template/format where available and stick to the facts.
+7. **If there’s any suggestion of illegality, protect yourself before you talk.**  
+   If the notice mentions prohibited items, controlled drugs, weapons, an interview, or an investigation, don’t try to “clear it up” in a rushed call. Consider getting prompt advice from a solicitor before replying or speaking to anyone, especially if you’re unsure what the parcel contains or who sent it.
+8. **If you paid or shared bank details, act immediately.**  
+   Contact your bank using the number on your card/app and say you suspect fraud. Save screenshots, call logs, and the exact wording of messages for later.
 
 ## What can wait
-- You do not need to pay any associated "wrongdoing penalties" or "duty assessments" in the same hour you receive the notice.
-- You do not need to contact the seller or courier until you have verified if the notice is a scam.
-- You do not need to decide whether to go to court for "condemnation proceedings" immediately; your first step is simply filing the Notice of Claim.
+- You do not need to decide right now whether to “fight it” versus “let it go”—first verify authenticity and note deadlines.
+- You do not need to explain everything in one message—start by confirming the basics and asking what documents they require (in writing).
+- You do not need to confront the seller/sender immediately—save messages first.
 
 ## Important reassurance
-Receiving an official seizure notice is a procedural step used by authorities to manage restricted imports; it does not automatically mean you are under arrest or have a criminal record. Taking a few hours to verify the document's authenticity and legal deadlines is the standard way to handle the situation.
+These notices are designed to feel intimidating, and scammers copy that tone. Taking a short pause to verify the source, preserve documents, and avoid rushed calls or payments is a sensible, protective response.
 
 ## Scope note
-This is first-step guidance only for identifying and responding to UK customs seizures. It does not cover the specifics of condemnation proceedings in court or long-term legal defence for prohibited goods.
+This is first-steps guidance only: verification, avoiding common mistakes, and making a safe initial response. Anything involving potential criminal allegations or high-value goods may need tailored legal advice.
 
 ## Important note
-This guide provides general information regarding HMRC and Border Force procedures under the Customs and Excise Management Act 1979. It is not legal advice. Time limits for challenges are strictly enforced by law and cannot usually be extended. If you are accused of a criminal offence, consult a qualified UK solicitor immediately.
+This is general information, not legal advice. Processes and time limits can vary depending on what was seized, who seized it, and what the notice says. If the notice mentions offences, interviews, or prosecution, getting advice from a qualified UK solicitor before responding can help you avoid accidental self-incrimination.
 
 ## Additional Resources
-- https://www.gov.uk/customs-seizures
-- https://www.gov.uk/customs-seizures/get-your-things-back
-- https://www.gov.uk/customs-seizures/disagree-with-a-customs-seizure
 - https://www.gov.uk/guidance/what-you-can-do-if-things-are-seized-by-hmrc-or-border-force
-- https://www.gov.uk/government/organisations/border-force/about/complaints-procedure
+- https://www.gov.uk/customs-seizures/get-your-things-back
+- https://assets.publishing.service.gov.uk/media/63d902be8fa8f518877e76c9/Request_for_restoration.odt
+- https://www.ncsc.gov.uk/guidance/scam-missed-parcel-sms-messages
+- https://www.royalmail.com/help/scam-examples

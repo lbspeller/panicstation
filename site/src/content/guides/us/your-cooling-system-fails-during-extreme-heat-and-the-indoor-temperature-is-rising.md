@@ -1,104 +1,85 @@
----
+﻿---
 title: "What to do if… your cooling system fails during extreme heat and the indoor temperature is rising"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - "cooling system failure"
-  - "ac stopped working"
-  - "air conditioner broke"
-  - "no air conditioning heatwave"
-  - "indoor temperature rising"
-  - "house overheating"
-  - "apartment overheating"
-  - "extreme heat indoors"
-  - "too hot inside"
-  - "heat illness symptoms"
-  - "what do i do if ac breaks in heatwave"
-  - "what do i do if house is too hot"
-  - "what do i do if apartment is overheating"
-  - "what do i do if cooling fails"
-  - "help i have no ac in heat"
-  - "help i am overheating at home"
-  - "my house is 90 degrees inside"
-  - "my apartment has no cooling"
-  - "fan not safe above 95f"
-  - "cooling center locator"
-  - "liheap emergency cooling help"
-  - "heat safety at home"
-  - "baby overheating indoors symptoms"
-  - "elderly overheating indoors cues"
-  - "pet overheating signs"
-  - "power outage heat safety"
-  - "landlord ac repair requirements"
-  - "hot red dry skin"
-  - "confusion from heat"
-  - "heat exhaustion signs"
-  - "ac unit not blowing cold"
-  - "hvac emergency repair"
-last_reviewed: "2026-03-17"
+  - ac stopped working
+  - air conditioner broke
+  - cooling system failure
+  - no air conditioning heatwave
+  - indoor temperature rising
+  - house overheating
+  - apartment overheating
+  - extreme heat indoors
+  - too hot inside
+  - heat illness symptoms
+  - fan not safe above 90f
+  - cooling center near me
+  - call 211 cooling help
+  - heat safety at home
+  - baby overheating indoors
+  - elderly overheating indoors
+  - pet overheating indoors
+  - power outage and heat
+  - landlord ac repair urgent
+  - cannot sleep in heat
+last_reviewed: "2026-03-03"
 ---
+
 # What to do if… your cooling system fails during extreme heat and the indoor temperature is rising (USA)
 
 ## Short answer
-Move vulnerable people and pets to an air-conditioned environment immediately; if staying, isolate one "cool room" and use active water-based body cooling. Call **911** if anyone shows signs of heatstroke, such as confusion, a temperature above 103°F, or red, dry skin.
+Get people (and pets) into a cooler environment fast: create a shaded “cool room” and use active body cooling, and if the indoor temperature is very high, **go to air conditioning** (cooling center/library/mall/friend). Call **911** if anyone shows signs of heatstroke.
 
 ## Do not do these things
-- Do not keep windows open if the outdoor temperature is higher than the indoor temperature.
-- Do not rely on electric fans if the indoor temperature is **95°F (35°C) or higher**, as they can increase core body temperature.
-- Do not use heat-producing appliances, including ovens, stoves, or dryers.
-- Do not ignore symptoms such as dizziness, nausea, headache, or muscle cramps.
-- Do not attempt technical HVAC repairs or electrical work without professional certification.
-- Do not use fuel-burning generators or camping stoves indoors for power or cooking.
+- Don’t keep windows open if it’s *hotter outside than inside* — it can raise indoor temperature.
+- Don’t rely on a fan if the indoor temperature is **90°F or higher**; in those conditions, a fan can increase body temperature.
+- Don’t run the oven/stove “to get through dinner” right now — choose no-cook food if possible.
+- Don’t ignore heat illness signs (dizziness, nausea, headache, cramps, confusion).
+- Don’t attempt risky DIY electrical repairs or run unsafe indoor fuel-burning equipment for cooling/power.
 
 ## What to do now
-1. **Move vulnerable individuals to the coolest available area.**  
-   **Prioritize infants, young children, older adults, pregnant people, and those with chronic medical conditions.**  
-   - Ensure pets are moved to the same area and have access to fresh, cool water.
+1. **Identify who needs protection first.**  
+   Prioritize infants/children, older adults, pregnant people, anyone with chronic illness, and anyone living alone. Move them (and pets) to the coolest area immediately.
 
-2. **Isolate a single "cool room" within the home.**  
-   **Select a room that is shaded from direct sunlight and has the fewest windows.**  
-   - Keep the door closed to maintain the temperature.
-   - Close all blinds, curtains, or shades on sun-facing windows.
+2. **Create a “cool room” (one room is the goal).**  
+   Choose a shaded room with the fewest sunny windows. Close the door. Move water, medications, phone chargers, and essentials there so you can stay put.
 
-3. **Apply active cooling to the body directly.**  
-   **Use cool damp cloths on the neck, armpits, and groin, or take a cool shower.**  
-   - Drink water frequently in small sips, even if you do not feel thirsty.
-   - Use a spray bottle with cool water to mist the skin.
+3. **Stop heat getting in and heat being generated.**  
+   Close blinds/curtains on sun-facing windows. Turn off non-essential lights and electronics. Avoid using heat-producing appliances.
 
-4. **Verify the indoor temperature before using fans.**  
-   **Check a thermometer; if it is 95°F or higher, turn fans off and leave the area.**  
-   - If the temperature is below 95°F, fans may be used to circulate air or exhaust hot air out of a window.
+4. **Cool bodies directly (this works even when the room won’t cool yet).**  
+   Drink water regularly (small sips often). Use a cool shower, cool damp cloths, or a spray bottle on skin. Place cool cloths on neck/armpits/groin area, and rest.
 
-5. **Locate an air-conditioned refuge if the home remains unsafe.**  
-   **Dial 2-1-1 to find the nearest public cooling centers, libraries, or community spaces.**  
-   - If indoor temperatures continue to rise and body cooling is ineffective, go to a mall, movie theater, or the home of a friend with functional air conditioning.
+5. **Use fans only if it’s cool enough indoors.**  
+   If the indoor temperature is **below 90°F**, a fan can help with comfort and airflow. If it’s **90°F or above**, don’t depend on a fan — switch to water-based cooling and/or leave for air conditioning.
 
-6. **Initiate the repair or reporting process.**  
-   **Contact your landlord, property manager, or HVAC service provider to report the failure.**  
-   - If you rent, send a formal notification in writing (email or text) to document the emergency.
-   - If you are low-income, contact the Low Income Home Energy Assistance Program (LIHEAP) via 2-1-1 to ask about emergency cooling assistance.
+6. **Decide early if you need to leave for A/C.**  
+   If indoor temperature keeps rising, if anyone vulnerable can’t cool down, or if night temperatures won’t drop enough: go to an air-conditioned place (friend/family, library, mall, community center, designated cooling center).  
+   - To find local cooling resources, call **2-1-1** (where available) or contact your local health department or emergency management.
 
-7. **Monitor for emergency medical triggers.**  
-   **Call 911 immediately if you observe signs of heatstroke.**  
-   - Cues include: confusion, slurred speech, seizures, loss of consciousness, a body temperature of 103°F or higher, and hot, red, or dry skin (absence of sweat).
+7. **Start the repair/escalation process without overheating yourself.**  
+   - If you rent: notify your landlord/property manager **in writing** and keep a copy. Clearly state it’s extreme heat and the indoor temperature is rising, and whether a vulnerable person is present.  
+   - If you own: call your HVAC service/provider and ask about urgent/same-day options; if there’s a warranty/home protection plan, open a claim immediately.
+
+8. **Know the emergency medical line.**  
+   Call **911** for heatstroke warning signs: confusion, fainting, seizures, very high body temperature, hot/red skin with little sweating, or if someone is getting worse or not improving with cooling.
 
 ## What can wait
-- You do not need to diagnose the mechanical cause of the cooling failure right now.
-- You do not need to cool the entire house; focus only on the designated cool room.
-- You do not need to resolve landlord-tenant disputes or insurance claims until you are in a stable, cool environment.
+- You do **not** need to decide on a full system replacement today.
+- You do **not** need to cool the entire home — focus on one cool room and safe body temperature.
+- You do **not** need to handle disputes with landlords/contractors in real time; a clear written notice plus safety steps is enough for now.
 
 ## Important reassurance
-It is normal to feel sluggish, irritable, or overwhelmed when the temperature rises rapidly. These are physiological responses to heat stress. Taking immediate steps to cool your skin and find shade can stabilize your physical condition and help you think more clearly.
+Heat makes thinking and emotions feel more intense, and it can escalate fast indoors. Getting to a cooler space (even for a few hours) and cooling skin directly can meaningfully reduce risk.
 
 ## Scope note
-This guide provides first-step stabilization for immediate heat exposure due to equipment failure. It does not replace professional medical diagnosis, legal advice regarding habitability, or technical HVAC repair protocols.
+This covers the first hours. If extreme heat continues, you may need ongoing daytime refuge (cooling centers/air-conditioned buildings) and follow-up repairs, but those decisions are easier once you’re cooler and stable.
 
 ## Important note
-Heatstroke is a life-threatening medical emergency. If you suspect heatstroke, call 911 immediately and move the person to a cooler area while waiting for responders. Do not give the person fluids if they are unconscious or confused.
+This is general information, not medical, legal, or engineering advice. If you think someone may have heatstroke or is deteriorating, call 911.
 
 ## Additional Resources
 - https://www.cdc.gov/heat-health/about/index.html
-- https://nchh.org/information-and-evidence/learn-about-healthy-housing/emergencies/extreme-heat/cooling-centers-by-state/
-- https://www.epa.gov/emergencies-iaq/extreme-heat-and-indoor-air-quality
-- https://www.cdc.gov/niosh/heat-stress/about/illnesses.html
-- https://nchh.org/information-and-evidence/learn-about-healthy-housing/emergencies/extreme-heat/prepare-and-act/
+- https://www.ready.gov/heat
+- https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/extreme-heat-safety.html

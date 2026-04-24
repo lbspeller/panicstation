@@ -1,97 +1,74 @@
----
+﻿---
 title: "What to do if… you lose power in part of your home and the breaker panel looks normal"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - "partial power outage"
-  - "power out in one room"
-  - "some lights work some dont"
-  - "outlets not working but breaker on"
-  - "half the house has no power"
-  - "breaker panel looks normal"
-  - "no breaker tripped"
-  - "gfci tripped somewhere"
-  - "afci breaker tripped"
-  - "lost one leg of power"
-  - "intermittent power in house"
-  - "lights out but rest of house ok"
-  - "breaker handle still on"
-  - "no electricity in some outlets"
-  - "kitchen outlets dead"
-  - "bathroom outlets dead"
-  - "garage outlets dead"
-  - "what do i do if half my house has no power"
-  - "help i lost power to some outlets"
-  - "my breaker is on but power is off"
-  - "what do i do if one room has no electricity"
-  - "burning smell from outlet"
-  - "buzzing electrical panel"
-  - "lights flickering and power out"
-  - "dimming lights partial outage"
-  - "no power to kitchen"
-  - "bathroom power out"
-  - "lost power to half the circuits"
-  - "utility line problem half power"
-last_reviewed: "2026-03-17"
+  - partial power outage
+  - power out in one room
+  - some lights work some dont
+  - outlets not working but breaker on
+  - half the house has no power
+  - breaker panel looks normal
+  - no breaker tripped
+  - gfci tripped somewhere
+  - afci breaker tripped
+  - gfci breaker test button
+  - lost one leg of power
+  - intermittent power in house
+  - power loss to circuits
+  - lights out but rest of house ok
+  - breaker handle still on
+  - no electricity in some outlets
+  - kitchen outlets dead
+  - bathroom outlets dead
+  - garage outlets dead
+last_reviewed: "2026-03-04"
 ---
+
 # What to do if… you lose power in part of your home and the breaker panel looks normal (USA)
 
 ## Short answer
-Treat a partial power outage as a potential electrical hazard. Perform a single firm reset of likely breakers and check all Ground Fault Circuit Interrupter (GFCI) outlets; if power is not restored or you see signs of heat, contact your utility provider and a licensed electrician.
+Treat this as a potential electrical hazard. Reduce load, do one careful reset of the likely breaker and any GFCI/AFCI protection, and if the partial outage persists or anything seems unsafe, call your utility and/or a licensed electrician.
 
 ## Do not do these things
-- Do not remove the electrical panel cover or touch any internal wiring.
-- Do not repeatedly flip breakers or force a breaker handle that will not stay in the ON position.
-- Do not use any outlet or switch that feels warm, smells of burning, or shows scorch marks.
-- Do not run a portable generator indoors, in a garage, or closer than 20 feet from your home.
-- Do not use candles for light; use battery-powered flashlights or headlamps to reduce fire risk.
+- Don’t remove the electrical panel cover or touch service conductors (leave panel internals to a pro).
+- Don’t keep flipping breakers repeatedly or “force” a breaker that won’t reset.
+- Don’t use damaged/overheating outlets, or use extension cords as permanent fixes.
+- Don’t run a generator indoors or in any garage/shed (attached or detached), or near doors/windows/vents (carbon monoxide risk).
+- Don’t rely on candles for routine lighting if you can avoid it (use flashlights/headlamps).
 
 ## What to do now
-1. **Check for immediate fire or shock hazards.** If you smell burning plastic, hear buzzing or crackling from the panel or walls, or see visible smoke/sparks:
-   - If it is safe to do so, **turn OFF the main breaker** (the largest switch at the top or bottom of the panel).
-   - **Call 911 immediately** if there is smoke, fire, or an active electrical hazard.
-2. **Identify the extent of the power loss.** Note which specific rooms or appliances are affected.
-   - Check if large 240V appliances (central AC, electric dryer, or electric stove) are working.
-   - If exactly half the house is dark or 240V appliances fail, this indicates a "lost leg" of power from the utility.
-3. **Protect sensitive electronics and high-load devices.** Unplug computers, televisions, and expensive appliances in the affected areas.
-   - Turn off high-load items like space heaters or window AC units that may have been running when the power failed.
-4. **Inspect the breaker panel for subtle indicators.** A tripped breaker often stays in a middle "tripped" position rather than flipping fully to OFF.
-   - Look for any breaker handle that feels "spongy" or is not perfectly aligned with the others.
-   - Look for red or orange indicator windows on modern breakers that signal a trip.
-5. **Perform a firm "OFF-to-ON" reset.** If you suspect a specific circuit:
-   - Push the breaker handle **firmly to the OFF position** until it clicks.
-   - Wait three seconds, then flip it **firmly back to ON**.
-6. **Search for and reset all GFCI outlets.** One tripped GFCI in a garage or basement can cut power to multiple downstream outlets in other rooms.
-   - Press the **RESET** button on outlets in the kitchen, bathrooms, garage, basement, and outdoor areas.
-   - Check "hidden" GFCIs, such as those behind appliances or in crawlspaces.
-7. **Contact your utility provider for partial outages.** If reset attempts fail or if power is out to approximately half the house:
-   - Call your utility's emergency line and report a **"partial outage"** or **"lost leg of power."**
-   - The utility is responsible for the lines leading to your meter and the meter itself.
-8. **Call a licensed electrician if the utility confirms their side is clear.** You need a professional if:
-   - A breaker trips again immediately after one reset.
-   - You hear buzzing or notice flickering/dimming lights.
-   - Power remains out in only a specific room or area after utility verification.
-9. **Manage medical equipment emergencies.** If someone relies on powered medical devices:
-   - Move them to a part of the house that still has power.
-   - If backup batteries are low and power cannot be restored, **call 911** or transport them to a facility with power.
+1. **Check for immediate danger first.** If you smell burning, hear buzzing/crackling, see smoke/sparks, or an outlet/switch plate is hot:  
+   - If you can do it safely, **turn OFF the main breaker**.  
+   - **Call 911** if there’s fire/smoke or immediate danger.
+2. **Limit damage while you troubleshoot.** Unplug sensitive electronics in the affected area (TVs, computers), and switch off big loads (space heaters, microwave, window AC) that might be on the dead/unstable side.
+3. **Confirm it’s not a neighborhood outage.** Check a few lights in other rooms and (if easy) ask a neighbor. If others are affected, your utility may already be working it.
+4. **Do a single “firm reset” on the likely breaker.** A breaker can look “ON” but be tripped internally. For the breaker feeding the dead area: push it **fully to OFF**, then back to **ON once**.
+5. **Check for GFCI/AFCI protection in two places.**
+   - **GFCI outlets:** Press **RESET** on GFCI receptacles in bathrooms, kitchen, garage, basement, exterior outlets, laundry. One GFCI can feed multiple downstream outlets.  
+   - **GFCI/AFCI breakers:** In many homes, breakers have a **TEST** button (common for GFCI/AFCI). If one feeds the dead area, reset it the same way: **fully OFF, then ON once**.
+6. **If the outage is like “half the house” or many circuits scattered, call the utility now.** That pattern can indicate a service/supply problem the utility must address. Tell them you have a **partial outage with breakers appearing normal**.
+7. **If the utility says their side is fine (or you can’t reach them), call a licensed electrician.** Ask for urgent assessment if the problem is widespread, returns intermittently, comes with flicker/dimming, or you noticed heat/smell/noises.
+8. **Keep it stable until help arrives.** Leave high-load appliances OFF, keep the affected rooms “quiet” (switches off, non-essential items unplugged), and keep people away from any outlet/switch that seemed warm or abnormal.
+9. **If someone depends on powered medical equipment**, move them to a powered area and arrange backup support now (family/friend/caregiver). If you cannot keep essential equipment running, call **911** for urgent medical need.
 
 ## What can wait
-- You do not need to identify the exact device that caused the trip right now.
-- You do not need to open electrical boxes or test internal wiring yourself.
-- You do not need to decide on a panel upgrade or major repairs until a professional diagnosis is provided.
+- You don’t need to figure out which device caused it right now.
+- You don’t need to open outlets, remove covers, or test wiring yourself.
+- You don’t need to decide on major repairs until a professional identifies the cause.
 
 ## Important reassurance
-Partial power outages are common and often result from a single tripped safety device (like a GFCI) or a routine utility failure. Taking these steps allows you to rule out simple fixes safely. If the issue requires a professional, you have already reduced the risk of fire by unplugging devices and identifying the hazard.
+This is frightening but common enough that utilities and electricians deal with it routinely. A “normal-looking” panel doesn’t rule out a real issue—so one calm reset pass and then escalation to the utility/electrician is the safest way to avoid fire risk or equipment damage.
 
 ## Scope note
-This guide provides first-step stabilization for residential electrical outages. It does not cover technical repairs, wiring diagnostics, or commercial three-phase electrical systems.
+This is first steps only to reduce risk and get the right help. Diagnosis and repairs should be handled by your utility and/or a licensed electrician.
 
 ## Important note
-Electrical systems pose a significant risk of fire and electrocution. If you are unsure of any step or if the situation involves water (flooded basement), do not touch the electrical panel. Portable generators must be operated outdoors at least 20 feet away from windows and doors to prevent carbon monoxide poisoning.
+This is general information, not professional electrical advice. If you notice heat, burning smells, smoke, sparks, or any sign of fire/shock risk, prioritize safety and emergency help. Generator use must follow safety guidance to prevent carbon monoxide poisoning.
 
 ## Additional Resources
-- https://www.esfi.org/understanding-your-home-electrical-system/
-- https://www.esfi.org/dont-overload-your-home/
-- https://www.esfi.org/home-safety/
-- https://www.cpsc.gov/s3fs-public/518.pdf
-- https://www.cpsc.gov/Newsroom/News-Releases/2003/May-Is-National-Electrical-Safety-Month-Good-News-for-Homeowners-Aluminum-Wiring-Fix-Still-Available
+- https://www.ready.gov/power-outages
+- https://www.ready.gov/sites/default/files/2024-03/ready.gov_power-outage_hazard-info-sheet.pdf
+- https://www.cpsc.gov/Newsroom/News-Releases/2026/Winter-Storms-Arent-Over-CPSC-Warns-of-Deadly-Carbon-Monoxide-Risks-and-Fires-During-Power-Outages
+- https://www.cpsc.gov/Newsroom/News-Releases/2026/Keep-Warm-and-Safe-This-Winter-Tips-for-Using-Generators-Furnaces-and-Space-Heaters
+- https://www.cpsc.gov/Newsroom/News-Releases/2003/CPSC-Warns-of-Dangers-of-Generators-and-Candles-During-Power-Outage

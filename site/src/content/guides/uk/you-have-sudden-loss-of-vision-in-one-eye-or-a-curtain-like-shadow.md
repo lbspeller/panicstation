@@ -1,100 +1,75 @@
----
+﻿---
 title: "What to do if… you have sudden loss of vision in one eye or a curtain-like shadow"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "sudden vision loss one eye"
-  - "curtain-like shadow vision"
-  - "dark curtain in vision"
-  - "sudden partial vision loss"
-  - "sudden blind spot one eye"
-  - "vision went dark suddenly"
-  - "flashes and floaters sudden"
-  - "new floaters with shadow"
-  - "painless vision loss one eye"
-  - "sudden eye emergency symptoms"
-  - "possible retinal detachment"
-  - "possible eye stroke"
-  - "transient vision loss episode"
-  - "amaurosis fugax concern"
-  - "one eye blurry suddenly"
-  - "missing side vision suddenly"
-  - "sudden dim vision one eye"
-  - "sudden visual field loss"
-  - "what do i do if i lose vision in one eye"
-  - "what do i do if i see a shadow in my eye"
-  - "what do i do if my vision is curtained"
-  - "what do i do if i have eye flashes"
-  - "help i suddenly cannot see"
-  - "help i have a shadow in my vision"
-  - "help i see flashes and floaters"
-  - "help my vision is blurred suddenly"
-  - "my vision went dark in one eye"
-  - "my eye has a curtain shadow"
-  - "black spots in vision"
-  - "lightning streaks in eye"
-  - "gray veil over eye"
-  - "blurred patch one eye"
-  - "eye loss of vision"
-  - "vision loss curtain"
-  - "sudden vision shadow"
-  - "one eye blind"
-last_reviewed: "2026-03-16"
+  - sudden vision loss one eye
+  - curtain-like shadow vision
+  - dark curtain in vision
+  - sudden partial vision loss
+  - sudden blind spot one eye
+  - vision went dark suddenly
+  - flashes and floaters sudden
+  - new floaters with shadow
+  - painless vision loss one eye
+  - sudden eye emergency symptoms
+  - possible retinal detachment
+  - possible eye stroke
+  - transient vision loss episode
+  - amaurosis fugax concern
+  - one eye blurry suddenly
+  - missing side vision suddenly
+  - sudden dim vision one eye
+  - sudden visual field loss
+last_reviewed: "2026-01-21"
 ---
-# What to do if… you have sudden loss of vision in one eye or a curtain-like shadow (UK)
 
+# What to do if… you have sudden loss of vision in one eye or a curtain-like shadow (UK)
 ## Short answer
-Go to your nearest **A&E or Emergency Eye Department immediately**. Call **999** if you have any signs of a stroke (Face, Arms, Speech) or if you cannot safely travel to the hospital.
+Go to **A&E immediately**. **Call 999** if you suddenly cannot see, you have any stroke-like symptoms, or you cannot get to A&E safely.
 
 ## Do not do these things
-- Do not wait to see if the symptoms pass, even if there is no pain.
-- Do not drive yourself to the hospital; your depth perception and peripheral vision are compromised.
-- Do not rub, press, or apply pressure to the affected eye.
-- Do not use any eye drops, ointments, or medications unless specifically instructed by a clinician.
-- Do not reinsert contact lenses if you have removed them.
-- Do not assume the issue is a migraine or tiredness, especially if you see a shadow or "curtain."
-- Do not try to remove any object that has physically entered the eye.
+- Do not “wait and see” if it clears, even if there’s no pain.
+- Do not drive yourself to A&E. If you cannot get a safe lift quickly, call 999 for an ambulance.
+- Do not rub or press on the eye.
+- Do not take leftover prescription eye drops/medication “just in case” (unless a clinician tells you to).
+- Do not put contact lenses back in (if you were wearing them, keep them out).
+- Do not assume it’s “just a migraine” if this is new, one-sided, or includes a curtain-like shadow.
 
 ## What to do now
-1. **Check for immediate stroke symptoms and call 999 if any are present.**
-   - **Face:** Has their face fallen on one side? Can they smile?
-   - **Arms:** Can they raise both arms and keep them there?
-   - **Speech:** Is their speech slurred or garbled?
-   - **Time:** If any of these are present, call 999 immediately.
-2. **Arrange immediate transport to an A&E or specialized eye casualty unit.**
-   - Ask a friend, family member, or neighbor to drive you.
-   - Use a taxi if no personal transport is available.
-   - Call 999 for an ambulance if you are alone and have no way to reach the hospital safely.
-3. **Contact NHS 111 only if you are unsure where the nearest emergency eye unit is located.**
-   - Do not let the phone call delay your departure if you already know where the nearest A&E is.
-   - Mention "sudden vision loss" or "curtain-like shadow" immediately to the operator.
-4. **Identify the exact time the vision change occurred.**
-   - Note if the vision loss was total, partial, or a "curtain" moving from a specific direction (top, bottom, or side).
-   - Note if you experienced flashes of light or a sudden "shower" of new dark spots (floaters).
-5. **Collect your current medications or take a photo of the labels.**
-   - Clinicians need to know if you are on blood thinners (anticoagulants) or have a history of high blood pressure or diabetes.
-   - Bring your current glasses or contact lens prescription if available.
-6. **If you are alone, unlock your front door and stay in a safe, seated position.**
-   - Ensure your phone is charged and within reach.
-   - Notify a contact person of your location and that you are seeking emergency care.
+1. **If you suddenly cannot see from one eye, or you have any stroke signs, call 999 now.**  
+   Say: “Sudden loss of vision in one eye / a curtain-like shadow.”  
+   Stroke signs to mention immediately: **face drooping, arm weakness, speech trouble, confusion, severe headache, imbalance**.
+2. **If you can still see but there’s a curtain-like shadow, get same-day urgent assessment.**  
+   Go to **A&E / an eye emergency department** now. If you’re unsure where to go fastest, call **NHS 111** for urgent direction while you arrange transport (do not delay if you’re deteriorating).
+3. **If you’re alone:** unlock your door, sit somewhere safe, keep your phone with you, and message/call someone nearby to be present if possible (but don’t delay urgent care).
+4. **Note the exact time it started** (or when you were last seeing normally). If it came and went, note start/stop times.
+5. **Write down what you noticed** (quick bullets are enough):
+   - “Curtain/shadow” (which side, moving/spreading or fixed)
+   - Flashes of light, sudden new floaters, distortion, blurred patches
+   - Pain (or no pain), redness, recent eye injury, recent eye surgery
+   - Headache, jaw pain when chewing, scalp tenderness, new weakness/numbness, speech issues
+6. **Bring essentials (or have them ready for paramedics):**
+   - A list/photos of medicines (especially blood thinners), allergies, and medical conditions
+   - Your glasses/contact lens details if you have them
+   - A contact person who can help communicate if you feel overwhelmed
 
 ## What can wait
-- You do not need to contact your regular optician or GP first; this is an emergency hospital matter.
-- You do not need to determine the cause (such as retinal detachment or eye stroke) yourself.
-- You do not need to pack a bag for an overnight stay; many eye emergencies are treated as day cases.
+- You do **not** need to figure out the cause before getting help.
+- You do **not** need to book a routine GP/optician appointment first—this needs **urgent same-day** assessment via **A&E/eye emergency**, or **NHS 111** if that’s the quickest way to be directed to urgent eye care.
+- You do **not** need to keep testing your vision, search symptoms online, or try home treatments right now.
 
 ## Important reassurance
-Sudden changes in vision are alarming, but the UK emergency medical system is specifically structured to prioritize "sight-saving" cases. Acting immediately—even if your vision seems to fluctuate or improve slightly—is the most effective way to protect your long-term sight.
+Feeling frightened is a normal response. Many causes of sudden one-eye vision changes are time-sensitive, so getting checked quickly is the safest move—even if symptoms partly improve.
 
 ## Scope note
-This guide provides first-step stabilization and emergency navigation only. It does not replace clinical diagnosis or specialized ophthalmic surgery.
+These are first steps only—focused on urgent safety and getting you to the right care fast. Follow-up treatment and next decisions depend on what clinicians find.
 
 ## Important note
-Sudden, painless vision loss can indicate a retinal detachment, a central retinal artery occlusion (eye stroke), or a cerebral stroke. These conditions are time-sensitive. If you are in doubt, treat the situation as a life- or sight-threatening emergency and call 999.
+This guide is general information, not a diagnosis. Sudden vision loss or a curtain-like shadow can be a medical emergency even without pain. If you think you cannot safely get help on your own, call 999.
 
 ## Additional Resources
-- https://www.nhs.uk/conditions/detached-retina-retinal-detachment/
 - https://www.nhs.uk/conditions/vision-loss/
-- https://www.moorfields.nhs.uk/eye-conditions/retinal-detachment
-- https://www.dgft.nhs.uk/pil/flashes-and-floaters/
-- https://www.royalberkshire.nhs.uk/media/ssuclpes/retinal-detachment_apr25.pdf
+- https://www.nhs.uk/conditions/detached-retina-retinal-detachment/
+- https://www.nhs.uk/symptoms/floaters-and-flashes-in-the-eyes/
+- https://www.moorfields.nhs.uk/ae/patient-guides/flashes-and-floaters

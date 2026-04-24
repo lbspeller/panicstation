@@ -1,88 +1,73 @@
----
+﻿---
 title: "What to do if… police contact you asking you to come in for a “voluntary” interview"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "police want a voluntary interview"
-  - "voluntary interview police station"
-  - "voluntary attendance interview"
-  - "asked to come in for questioning"
-  - "interview under caution"
-  - "detective called me in"
-  - "police asked me to attend station"
-  - "police say it is voluntary"
-  - "do i have to go to police interview"
-  - "free legal advice police station"
-  - "duty solicitor request"
-  - "no comment interview worry"
-  - "am i under arrest uk"
-  - "police contacted me by phone"
-  - "police contacted me by text"
-  - "invited interview at station"
-  - "appropriate adult interview"
-  - "what do i do if police call me"
-  - "what do i do if police want to chat"
-  - "what do i do if i am a suspect"
-  - "what do i do if i get a police text"
-  - "help i have a voluntary interview"
-  - "help i am being questioned"
-  - "help i need a solicitor"
-  - "help i am a suspect uk"
-  - "smell of police station"
-  - "hearing the caution"
-  - "police officer collar number"
-  - "voluntary attendance rights"
-  - "police interview at home"
-  - "caution plus three interview"
-  - "voluntary interview phone call"
-  - "police station chat"
-  - "police interview text message"
-  - "criminal solicitor uk"
-  - "police questioning rights"
-last_reviewed: "2026-03-17"
+  - police want a voluntary interview
+  - voluntary interview police station
+  - voluntary attendance interview
+  - asked to come in for questioning
+  - interview under caution
+  - detective called me in
+  - police asked me to attend station
+  - police say it’s voluntary
+  - do i have to go to police interview
+  - free legal advice police station
+  - duty solicitor request
+  - no comment interview worry
+  - am i under arrest uk
+  - police contacted me by phone
+  - police contacted me by text
+  - invited interview at station
+  - appropriate adult interview
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… police contact you asking you to come in for a “voluntary” interview (UK)
 
 ## Short answer
-Do not agree to a date or attend any meeting until you have secured legal advice from a solicitor. A voluntary interview is a formal criminal procedure where anything you say can be used as evidence in court.
+Don’t go in or “have a quick chat” until you’ve arranged legal advice and a solicitor is involved. Even if it’s “voluntary”, what you say can still be used.
 
 ## Do not do these things
-- Don’t discuss the details of the allegation on the phone, via text, or in person before speaking to a solicitor.
-- Don’t assume a "voluntary" interview is less serious than being arrested; the legal weight of your answers is identical.
-- Don’t go to the station alone because you believe it "looks better" or because you have "nothing to hide."
-- Don’t bring a friend or relative to the interview as "support" who might later be treated as a witness to your statements.
-- Don’t hand over your phone, passwords, or documents voluntarily unless you have been served with a formal warrant or notice.
-- Don’t sign any summaries, notes, or statements at the end of a meeting without your solicitor reviewing them first.
+- Don’t explain your side on the phone, by text, email, or in a “quick chat” before you’ve had legal advice.
+- Don’t accept “It’ll look better if you cooperate” as a reason to go in alone.
+- Don’t guess, fill silences, or try to be helpful by offering extra details you’re not asked for.
+- Don’t bring “support” who might become a witness, or discuss the case with anyone who could be involved.
+- Don’t sign statements, “summaries”, or interview notes without your solicitor checking them.
+- Don’t voluntarily unlock or hand over your phone/accounts or share passwords without legal advice. If you’re served with formal paperwork (for example, a warrant/notice), stay calm, don’t delete anything, and have a solicitor review what’s being demanded.
 
 ## What to do now
-1. **Pause the conversation and collect specific officer details.** Ask for the officer's full name, collar (shoulder) number, their station, and a direct call-back number.
-2. **Confirm the nature of the request and your status.** Ask clearly: "Am I being treated as a suspect?" and "Will this be an interview under caution?"
-3. **Verify the officer's identity through official channels.** Hang up the phone and wait at least 5 minutes to ensure the line is fully disconnected. Call **101** (the police non-emergency number) and ask the operator to verify that the officer and the station listed actually exist and have requested to speak with you.
-4. **State your requirement for legal advice immediately.** Tell the officer: "I am happy to cooperate, but I will not be interviewed without legal advice in place."
-5. **Arrange for a solicitor through the Duty Solicitor Scheme or a private firm.** In England and Wales, you are entitled to free, non-means-tested legal advice for a voluntary interview at a police station. If you do not have your own solicitor, tell the officer you want the **duty solicitor** arranged for the interview.
-6. **Request "disclosure" through your solicitor.** Your solicitor will ask the police for the details of the evidence against you before the interview starts. Do not attempt to guess what they know or provide your side of the story while "booking in" the appointment.
-7. **Identify if you require an Appropriate Adult.** If you are under 18 or have a condition that makes you vulnerable (such as a learning difficulty or mental health issue), tell the officer you require an **Appropriate Adult** to be present. The interview cannot legally proceed without one if you are identified as vulnerable.
-8. **Assert your right to leave at any time.** Remind yourself that in a voluntary interview, you are not under arrest and are free to leave the station or end the interview at any point unless the officer formally arrests you.
-9. **Prepare for the "Caution" as a signal to stop talking.** If you hear the words "You do not have to say anything, but it may harm your defence..." this is a formal caution. Stop any informal chatting and wait for your solicitor to lead the process.
+1. **Pause the conversation and get the basics.** Ask for: the officer’s name, collar number, station, a call-back number, and what the interview is about (at least the allegation/topic). Ask whether you’re being treated as a **suspect** and whether it will be an interview **under caution**. Then end the call politely.
+2. **Verify it’s real before you do anything else.** Independently contact the police force using an official route (force website main number, main switchboard, or **101**) and ask to confirm the officer/station and the request. Don’t rely only on the number that contacted you.
+3. **Arrange legal advice before agreeing to attend.** In **England & Wales**, you have the right to free legal advice if you’re questioned at a police station, including for a voluntary interview. Tell the officer: “I will not be interviewed without legal advice.” Ask them to arrange the **duty solicitor**, or contact your own criminal solicitor and tell the police you want them present.
+4. **If you’re in Scotland or Northern Ireland, don’t assume it works the same way.** Tell police you’re taking legal advice and contact a local criminal solicitor before you agree to attend.
+5. **Do not discuss the allegations while “booking it in.”** If they ask for your version “so we can note it down”, say: “I’m taking legal advice and won’t comment at this stage.”
+6. **If you feel pressured, use one repeatable line.** “I’m happy to cooperate through my solicitor. Please arrange a time once legal advice is in place.”
+7. **If you are under 18 or you’re vulnerable, insist on an appropriate adult.** Say clearly that you need an **appropriate adult** arranged and you will not be interviewed without one and legal advice.
+8. **If you do attend (only with advice): reduce risk on the day.**
+   - Arrange to arrive with your solicitor (or ensure they will be there before any questions).
+   - Bring ID, any essential medication, and anything you need to understand questions (glasses/hearing aids).
+   - Tell a trusted person where you are and when you expect to leave (but don’t discuss details of the allegation).
+9. **If the situation changes (you’re arrested or told you can’t leave): switch mindset immediately.** Say: “I want legal advice. I am not answering questions.” Then stop talking until you’ve spoken to a solicitor.
 
 ## What can wait
-- You do not need to provide a statement or an explanation today.
-- You do not need to decide whether to "go no comment" or answer questions right now; that decision is made after your solicitor receives disclosure.
-- You do not need to gather evidence, witness names, or alibi details until your solicitor asks for them.
-- You do not need to worry about "offending" the officer by insisting on your legal rights.
+- You don’t need to decide today whether to give a statement, answer questions, or “clear it up”.
+- You don’t need to gather evidence, draft a timeline, or contact other people involved right now.
+- You don’t need to argue about whether it’s “fair” or “a misunderstanding” on the phone—save everything for your solicitor.
 
 ## Important reassurance
-It is standard for the police to use "voluntary" interviews (often called Caution Plus 3) for serious investigations. Requesting a solicitor is a professional, routine part of the legal process and is not viewed by the police or the courts as an admission of guilt. Feeling anxious is a normal reaction to police contact; taking a pause to get legal advice is the safest way to manage the situation.
+Feeling panicked or ashamed when police call is normal. “Voluntary” interviews are often used because they’re convenient for the investigation, not because they’re harmless. Slowing down and getting legal advice is a safe, normal step.
 
 ## Scope note
-This guide covers first-step stabilization and rights-assertion at the point of initial police contact. It does not provide case strategy or specific advice on how to answer questions, which must come from a qualified legal professional.
+This is first-steps guidance for the moment you’re contacted and before any interview. Case strategy and what to say should come from a qualified solicitor who knows the details.
 
 ## Important note
-This information is for general guidance and applies to UK jurisdictions, but specific procedures under PACE (England/Wales) differ from those in Scotland and Northern Ireland. Always consult a solicitor before participating in any police interview.
+This is general information, not legal advice. Processes vary across UK jurisdictions and individual circumstances. If you’re unsure, assume it’s serious and get legal advice before any interview.
 
 ## Additional Resources
-- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version
-- https://www.gov.uk/government/publications/pace-code-c-2023/pace-code-c-2023-accessible
 - https://www.gov.uk/arrested-your-rights/legal-advice-at-the-police-station
-- https://www.gov.uk/arrested-your-rights/your-rights-in-custody
 - https://www.gov.uk/government/publications/voluntary-police-interview-your-rights
+- https://www.gov.uk/government/publications/pace-code-c-2023/pace-code-c-2023-accessible
+- https://library.college.police.uk/docs/NPCC/Voluntary-interview-guidance-2024.pdf
+- https://www.college.police.uk/app/investigation/investigative-interviewing/changes
+- https://www.appropriateadult.org.uk/information/what-is-an-appropriate-adult

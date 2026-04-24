@@ -1,101 +1,72 @@
----
+﻿---
 title: "What to do if… someone keeps turning up at places you go and making sexual comments in public"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "someone keeps turning up"
-  - "making sexual comments in public"
-  - "repeatedly appearing in public"
-  - "unwanted sexual remarks"
-  - "public sexual harassment"
-  - "pattern of following"
-  - "person shows up everywhere"
-  - "repeated unwanted encounters"
-  - "waiting outside my work"
-  - "waiting outside my school"
-  - "comments about my body in public"
-  - "sexual comments from stranger"
-  - "same person keeps appearing"
-  - "what do i do if someone follows me in public"
-  - "what do i do if i am being stalked in public"
-  - "what do i do if someone makes sexual comments"
-  - "help i am being followed in public"
-  - "help i am being harassed in public"
-  - "my stalker is in public"
-  - "my harasser keeps showing up"
-  - "smell of heavy cologne or cigarettes"
-  - "sound of repeated whistling"
-  - "visible person standing near exits"
-  - "constant presence in eye contact"
-  - "unwanted public attention"
-  - "public stalking cues"
-  - "harassment on transit"
-  - "harassment at gym"
-  - "harassment at school"
-  - "repeated public sightings"
-last_reviewed: "2026-03-17"
+  - someone keeps showing up
+  - turns up where i go
+  - keeps appearing in public
+  - unwanted sexual comments
+  - sexual remarks in public
+  - public sexual harassment
+  - repeated unwanted contact
+  - same person keeps appearing
+  - follows me to places
+  - waits near places i go
+  - makes comments about my body
+  - harassment in public spaces
+  - stalking in public
+  - unwanted attention outside
+  - person keeps finding me
+  - unsafe on my routine
+  - scared to go out
+  - repeated public encounters
+last_reviewed: "2026-03-14"
 ---
-# What to do if… someone keeps turning up at places you go and making sexual comments in public (USA)
 
+# What to do if… someone keeps turning up at places you go and making sexual comments in public (USA)
 ## Short answer
-Treat the repeated pattern as a safety risk rather than a misunderstanding. At the earliest safe pause, move toward other people, document the specific incidents, and call 911 if you are in immediate danger or being followed.
+Treat the pattern as a safety problem, not a misunderstanding you have to solve by yourself. At the earliest safe pause, get around other people, tell one trusted person, document what has happened, and call 911 if you are in immediate danger.
 
 ## Do not do these things
-- Do not attempt to meet the person alone to "set boundaries" or resolve the issue.
-- Do not minimize the behavior because individual comments seem minor; the pattern is the primary concern.
-- Do not post your location, future plans, or route changes on social media.
-- Do not delete evidence such as photos of the person, recordings of comments, or timestamps of encounters.
-- Do not assume you must wait for a physical threat before contacting support or law enforcement.
-- Do not ignore your instincts if a situation feels unsafe.
+- Do not keep minimizing it because each incident seems “small” on its own.
+- Do not meet them alone to try to settle it.
+- Do not announce your plans, route changes, or usual locations publicly.
+- Do not delete messages, voicemails, photos, screenshots, or old notes.
+- Do not pressure yourself to keep every routine unchanged just to avoid inconvenience.
+- Do not assume you need a perfect timeline before speaking to police or a support service.
 
 ## What to do now
-1. **Relocate to a populated, staffed environment immediately.**
-   - Enter a business, a staffed transit counter, a building reception desk, or a busy store.
-   - Stay in the line of sight of staff or security cameras.
+1. Move to a safer public place and stay near people. A staffed store, front desk, office reception, transit counter, campus office, or busy business is better than heading somewhere isolated while upset.
 
-2. **Contact a trusted person and establish a check-in protocol.**
-   - Tell them specifically that the same person is appearing at multiple locations and making sexual comments.
-   - Ask them to remain on the phone with you or meet you at your current location.
+2. Tell one person what is happening in direct terms. Say that the same person keeps showing up where you go and making sexual comments in public. Ask them to stay on the phone, meet you, walk with you, or be your check-in person for the next few days.
 
-3. **Start a stalking and harassment log with objective details.**
-   - Record the date, time, and exact location of every encounter.
-   - Write down the specific sexual comments made and a physical description of the person.
-   - Note if they appeared to be waiting for you or if they followed you when you moved.
+3. Make a running record starting now. Write down the date, time, place, what was said or done, whether they seemed to be waiting for you, whether they followed you after, and who might have seen it. Keep screenshots, call logs, photos, or names of witnesses if you already have them.
 
-4. **Notify the management or security of the specific location.**
-   - If at a workplace, contact Human Resources (HR) or onsite security to report the pattern.
-   - If at a school or college, contact the Title IX Coordinator or campus police to request "supportive measures."
-   - Explicitly ask the organization to preserve any surveillance footage from the time of the incident.
+4. If you think you are in immediate danger, call 911. If there is no immediate emergency, make a non-emergency police report with your local department and explain that this is repeated unwanted conduct, not a one-off rude comment. A pattern can matter.
 
-5. **Contact a national victim service for safety planning.**
-   - Call or text the VictimConnect Resource Center at 855-4-VICTIM (855-484-2846) for 24/7 support and referrals.
-   - Contact the RAINN National Sexual Assault Hotline at 800-656-HOPE if the comments involve sexual violence or threats.
+5. Tell the organization connected to the place. If this is happening at school or college, report it to campus security or the school’s Title IX office or coordinator. If it is happening at work, tell HR, a manager, or workplace security. If it is happening in a building, business, gym, or on transit, ask management or security to create an incident record and preserve any relevant video if available.
 
-6. **Vary your transit routes and arrival times.**
-   - Change the specific time you leave your home or workplace by 15 to 20 minutes if possible.
-   - Use different entrances and exits for buildings you frequent regularly.
+6. Make the next few days harder for them to predict. Adjust exact departure times or routes where you reasonably can, avoid leaving alone from known locations, and arrange company for arrivals and departures. The goal is to buy safety, not to prove anything.
 
-7. **File a non-emergency police report to document the pattern.**
-   - Contact your local precinct and state that you want to report a pattern of stalking and public harassment.
-   - Provide your log of incidents to the officer to ensure the behavior is recorded as a repeated course of conduct rather than a one-time event.
+7. Contact a victim advocate for a safety plan. A local victim service provider, VictimConnect, or a sexual violence service such as RAINN can help you think through immediate safety, reporting options, and what details are useful to keep. You can get support whether or not you choose to report.
 
 ## What can wait
-- You do not need to decide immediately whether to file for a Permanent Restraining Order or Order of Protection.
-- You do not need to confront the person or explain why you are reporting them.
-- You do not need to have a "perfect" or complete memory of every past incident before making an initial report.
+You do not need to decide today whether to seek a restraining order, pursue a workplace or school process, or make a long formal statement. You also do not need to solve the long-term routine problem right now.
 
 ## Important reassurance
-It is normal to feel hyper-vigilant or doubt your own perception when harassment happens in public spaces. Repeatedly appearing where you are and making sexual comments is a recognized pattern of stalking behavior, and you have the right to seek safety and support regardless of whether a physical crime has occurred yet.
+People often doubt themselves when the behaviour happens in public and looks “plausibly accidental” to others. A repeated pattern of showing up and making sexual comments can be frightening and disruptive even when each incident seems explainable on its own.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction actions for public harassment and stalking patterns. Long-term legal strategies or investigative steps require professional consultation.
+This is first steps only, focused on immediate safety, support, and preserving options. Later decisions may need specialist help.
 
 ## Important note
-This information is for general guidance and does not constitute legal or clinical advice. Laws regarding stalking and harassment vary by state. If the person follows you home, threatens physical harm, or if a minor is involved, contact 911 or local law enforcement immediately.
+This is general information, not personal legal or clinical advice. If you may want to report later, keeping notes and preserving what you already have can help, but your immediate safety comes first. If a child is involved, or the behaviour escalates toward following, threats, or physical contact, contact police urgently.
 
 ## Additional Resources
-- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/
-- https://www.womenslaw.org/safety-planning/safety-tips-stalking-victims
 - https://ovc.ojp.gov/topics/stalking
+- https://ovc.ojp.gov/sites/g/files/xyckuh226/files/pubs/helpseries/HelpBrochure_Stalking.html
 - https://rainn.org/strategies-to-reduce-risk-increase-safety/safety-planning-for-survivors-of-assault-harassment-stalking/
-- https://www.stalkingawareness.org/documentation-log/
+- https://www.ed.gov/laws-and-policy/civil-rights-laws/title-ix-and-sex-discrimination
+- https://www.eeoc.gov/harassment
+- https://www.eeoc.gov/small-business-fact-sheet-harassment-workplace

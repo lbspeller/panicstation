@@ -1,92 +1,89 @@
----
+﻿---
 title: "What to do if… you are asked to provide a photo and short life summary for a service on a tight deadline"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "funeral photo needed fast"
-  - "order of service photo"
-  - "memorial slideshow photo"
-  - "short life summary request"
-  - "funeral tribute paragraph"
-  - "service booklet wording"
-  - "asked for biography quickly"
-  - "last-minute funeral details"
-  - "grieving and deadlines"
-  - "family approval for tribute"
-  - "choosing a suitable photo"
-  - "scanning old photos"
-  - "funeral printing deadline"
-  - "celebrant tribute notes"
-  - "crematorium service booklet"
-  - "church service handout"
-  - "wake information blurb"
-  - "obituary-style summary short"
-  - "urgent photo and wording"
-  - "tight deadline funeral admin"
-  - "what do i do if i need a funeral photo fast"
-  - "what do i do if i have to write a biography today"
-  - "what do i do if the printer needs text now"
-  - "what do i do if i cannot find a good photo"
-  - "help i need to write a funeral summary"
-  - "help i have a funeral print deadline"
-  - "my funeral director needs a photo"
-  - "my funeral booklet is due"
-  - "smell of old photos"
-  - "blurry photo for funeral"
-  - "pixelated image on booklet"
-  - "low resolution funeral photo"
-  - "grainy photo scan"
-  - "crematorium screen requirements"
-  - "a5 funeral booklet"
-last_reviewed: "2026-03-16"
+  - funeral photo needed fast
+  - order of service photo
+  - memorial slideshow photo
+  - short life summary request
+  - funeral tribute paragraph
+  - service booklet wording
+  - asked for biography quickly
+  - last-minute funeral details
+  - grieving and deadlines
+  - family approval for tribute
+  - choosing a suitable photo
+  - scanning old photos
+  - funeral printing deadline
+  - celebrant tribute notes
+  - crematorium service booklet
+  - church service handout
+  - wake information blurb
+  - obituary-style summary short
+  - urgent photo and wording
+  - tight deadline funeral admin
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… you are asked to provide a photo and short life summary for a service on a tight deadline (UK)
 
 ## Short answer
-Confirm the exact deadline and digital format with the funeral director or service leader, then provide one high-resolution photo and a factual five-sentence life summary reviewed by one other person.
+Confirm the exact deadline and format with the funeral director or service leader, then send one clear, high-quality photo plus a short, factual life summary that one other trusted person has quickly checked for accuracy.
 
 ## Do not do these things
-- Do not guess the deadline or file requirements, as professional printing systems often require specific resolutions (300 DPI) and formats to avoid pixelation.
-- Do not send the only physical copy of a photo to a third party without scanning it or taking a high-quality digital photograph of it first.
-- Do not use photos saved from social media or messaging apps if the original is available, as these platforms heavily compress images and cause poor print quality.
-- Do not include unverified dates, spellings of middle names, or disputed family details under time pressure; omit any facts that cannot be quickly confirmed.
-- Do not feel obligated to include sensitive information or resolve complex family estrangements within a short tribute summary.
+- Don’t guess the deadline, file type, or how they want it delivered—printing and AV systems can reject the wrong format.
+- Don’t send the only physical copy of a precious photo away without a plan. If it’s the only copy, scan/photograph it yourself first; if it must be handed over, label it and agree how it will be returned.
+- Don’t write anything you’re not sure is accurate (names, spellings, dates, places, relationships). Leave uncertain details out for now.
+- Don’t feel pushed to include sensitive or disputed information (cause of death, estrangements, family conflict).
+- Don’t rely on a screenshot or a compressed chat-app version of a photo if you can get the original file—screenshots and compressed images often print badly.
 
 ## What to do now
-1. **Confirm the exact technical specifications and the final cut-off time immediately.** Ask the funeral director or the person coordinating the service for the deadline (date and time), the intended use (A5 printed booklet, large screen projection, or online tribute), and the preferred delivery method.
-2. **Select one primary photo where the face is clear and the lighting is even.** Choose an image that reflects how the person was most widely recognized, ensuring there is enough background space around the head and shoulders for the printer to crop the image to fit a standard A5 cover.
-3. **Provide the highest resolution file available to ensure clarity in print.** 
-   - If using a digital original, send the file as an email attachment rather than through a messaging app.
-   - If scanning a physical photo, set the scanner to a minimum of 300 DPI (600 DPI is preferred for small photos).
-   - If a scanner is unavailable, photograph the print in bright, indirect natural light to avoid glare and shadows.
-4. **Draft a concise life summary of five to eight sentences using a factual structure.** Follow this sequence to maintain clarity:
-   - Full legal name and any widely used "known as" name.
-   - Confirmed years of birth and death (omit if exact dates are currently uncertain).
-   - Primary locations where they lived or originated.
-   - Significant life roles, such as career, community service, or long-term interests.
-   - A single sentence mentioning close family members if agreed upon by the immediate next of kin.
-5. **Request a single accuracy check from one trusted person to catch errors.** Ask them specifically to verify the spelling of names, dates, and places, and to flag any phrasing that might be misinterpreted.
-6. **Send the completed text and photo in a format that allows for easy copying.** Paste the text directly into the body of an email and attach the photo as a separate file; do not embed the image inside a document as this reduces quality.
-7. **Submit a minimal placeholder if the deadline is minutes away.** Provide the name, dates, and a single sentence of tribute now to ensure the printer can proceed, with the understanding that longer tributes can be reserved for the eulogy or online pages.
-8. **Retain a local copy of the exact files and text sent to the coordinator.** Keep these in a dedicated folder so they can be resent instantly if there is a technical failure at the printer or crematorium.
+1. **Lock down the “spec + deadline” in one message.** Ask the funeral director (or celebrant/vicar/minister) for:
+   - Deadline (date + time).
+   - What it’s for (order of service booklet, screen photo, slideshow, memorial board, online tribute page).
+   - Preferred delivery (email attachment vs upload link) and preferred file types (usually JPG/PNG for photos; text/Word for the summary).
+   - Whether they want a single “point person” to send edits (this avoids conflicting versions from different relatives).
+2. **Pick a “works anywhere” photo (good enough beats perfect).** Choose one where:
+   - Their face is clear, well-lit, and not heavily filtered.
+   - There’s space around the head/shoulders (cropping is easier).
+   - It matches how most people recognised them (often a warm everyday photo).
+   - If other people are in the picture, choose one where they can be cropped out cleanly (or pick a solo photo).
+3. **Send the best-quality file you can (avoid compression).**
+   - If you have a digital original, send that file (email attachment or an upload link is often better than messaging apps that shrink photos).
+   - If it’s a printed photo, scan it if possible. For print, **300 dpi is a common target**; if you can choose, scanning around **300–600 dpi** usually gives more flexibility. If you can’t scan, photograph it flat in bright indirect daylight, with no glare.
+4. **Write a short life summary using a simple template (5–8 sentences).** Keep it factual and kind:
+   - Full name (and “known as” name, if the family wants that used publicly).
+   - Birth year–death year only if confirmed (if unsure, omit).
+   - Where they were from / where they lived most recently.
+   - One or two core roles (work, caring, service, community) without trying to cover everything.
+   - A few human details (what they enjoyed, what they were known for).
+   - Optional: a single line about close family *only if agreed* (avoid long lists unless requested).
+5. **Do a fast accuracy check with one other person.** Send the draft to a trusted relative/friend with one request: “Please check names, spellings, and anything we should remove.”
+6. **Send it in a “copy/paste-proof” way.**
+   - Photo: attach the file (not embedded inside a Word document).
+   - Text: paste into the email body so it can be copied easily, and attach as a simple document if they want.
+   - Add: “Preferred caption: [Full Name]. Please crop as needed.”
+7. **If you’re out of time, send a minimal placeholder now.** A simple 2–3 sentence version (name, place, one defining line) is better than missing the print/AV deadline. You can offer an updated version if they reprint or update online materials.
+8. **Save a backup of exactly what you sent.** Keep one folder with the photo file, the final text, and who you sent it to—so you can resend instantly if something goes missing.
 
 ## What can wait
-- You do not need to produce a comprehensive biography or a full eulogy for the printed booklet.
-- You do not need to finalize the entire order of service, such as hymn choices or readings, to meet the initial photo and summary deadline.
-- You do not need to resolve disagreements regarding which family members are listed in the "survived by" section if time is too short; a general "much-loved by their family" is acceptable.
+- You do **not** need to perfect the wording today—simple and accurate is enough.
+- You do **not** need to include everyone, list every achievement, or resolve family disagreements right now.
+- You do **not** need to choose poems/readings/music/slideshow order unless someone explicitly asks for those next.
 
 ## Important reassurance
-The pressure of a print deadline frequently coincides with the most intense period of grief. Most professional funeral stationery is designed to look dignified even with very simple, factual information. A clear photo and an accurate name are the only absolute essentials for a respectful tribute.
+This feels urgent because it lands on top of shock and grief. Most families create something meaningful under time pressure; “clear, respectful, accurate” is already a good outcome.
 
 ## Scope note
-This guide provides first-step stabilization for meeting immediate administrative and printing deadlines. It does not cover the writing of a full eulogy, legal obituary requirements, or long-term estate notifications.
+These are first steps to get a usable photo and short summary delivered on time. Anything beyond that (full obituary, longer eulogy, complex family wording) can be handled later with more time and support.
 
 ## Important note
-This information is provided for practical assistance during a bereavement crisis and does not constitute legal or professional advice. If you are experiencing intense family conflict or significant distress, request that the funeral director acts as a neutral point of contact for all submissions.
+This is general, practical guidance for a stressful moment, not legal advice or professional bereavement counselling. If there is intense conflict, pressure to publish sensitive details, or you feel unsafe, prioritise your safety and ask the funeral director/service leader for a pause and a single point of contact for communications.
 
 ## Additional Resources
-- https://www.coop.co.uk/funeralcare/advice/how-to-write-an-obituary
 - https://www.dignityfunerals.co.uk/arranging-a-funeral/planning-a-funeral/how-to-write-an-obituary/
-- https://www.dignityfunerals.co.uk/arranging-a-funeral/planning-a-funeral/funeral-order-of-service/
-- https://www.dignityfunerals.co.uk/arranging-a-funeral/planning-a-funeral/funeral-notices/
-- https://www.funeralpartners.co.uk/help-advice/what-to-do-when-someone-dies/how-to-write-an-obituary/
+- https://www.coop.co.uk/funeralcare/advice/how-to-write-an-obituary
+- https://humanists.uk/ceremonies/funerals/blog/how-to-write-a-funeral-speech-eulogy-a-step-by-step-guide/
+- https://iridismemorials.co.uk/preparing-photos-for-a-funeral-order-of-service-booklet/
+- https://orderofserviceforfuneral.co.uk/funeral-order-of-service-complete-guide/

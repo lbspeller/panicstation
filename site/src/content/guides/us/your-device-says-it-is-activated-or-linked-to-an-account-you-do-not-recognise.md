@@ -1,99 +1,92 @@
----
+﻿---
 title: "What to do if… your device says it is “activated” or “linked” to an account you do not recognise"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "device asks for recovery key"
-  - "disk encryption recovery prompt"
-  - "bitlocker recovery key screen"
-  - "filevault recovery key prompt"
-  - "recovery key after restart"
-  - "windows recovery key after update"
-  - "mac recovery key after reboot"
-  - "encryption key id shown"
-  - "locked out of computer startup"
-  - "boot asks for bitlocker key"
-  - "laptop asking for encryption key"
-  - "sudden drive encryption screen"
-  - "tpm change recovery mode"
-  - "bios update triggered bitlocker"
-  - "recovery key not found"
-  - "unsure if this is a scam screen"
-  - "work laptop recovery key request"
-  - "school device recovery key request"
-  - "device encryption key required"
-  - "help i need a recovery key"
-  - "what do i do if my laptop asks for recovery key"
-  - "my computer is asking for a bitlocker key"
-  - "help i am locked out by bitlocker"
-  - "blue screen asking for recovery key"
-  - "bitlocker key id mismatch"
-  - "retrieving recovery key from microsoft account"
-  - "finding filevault key on iphone"
-  - "disk-encryption recovery key"
-  - "device restart recovery prompt"
-  - "sudden encryption key request"
-last_reviewed: "2026-03-17"
+  - device linked to unknown account
+  - activated to account i don’t recognize
+  - activation lock not mine
+  - iphone activation locked
+  - ipad linked to someone else
+  - android frp locked
+  - google account on phone not mine
+  - microsoft account linked device
+  - windows says linked to another account
+  - bought used phone locked
+  - refurbished device activation issue
+  - second hand device account locked
+  - setup asks for previous owner login
+  - device says managed by organization
+  - work or school device management
+  - locked out after reset
+  - suspicious activation message
+  - device ownership dispute
+  - unknown apple id on device
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your device says it is “activated” or “linked” to an account you do not recognise (USA)
 
+# What to do if… your device says it is “activated” or “linked” to an account you do not recognise (USA)
 ## Short answer
-Do not erase the device or reinstall the operating system. Identify the specific **Key ID** shown on your screen and retrieve the matching 48-digit key from your official Microsoft or Apple account portal.
+Don’t enter passwords or one-time codes into that screen (or any link you were sent). Treat it as either a legitimate ownership/management lock (common with used or work devices) or a takeover attempt, and secure accounts from a trusted device first.
 
 ## Do not do these things
-- Do not enter a recovery key into any website, QR code page, or link sent to you via email or text message.
-- Do not pay any "fee" or contact "support numbers" displayed in a pop-up window or chat widget.
-- Do not factory-reset or wipe the drive yet, as this will permanently delete all data on the encrypted disk.
-- Do not give your recovery key to anyone who contacted you first, even if they claim to be from Microsoft, Apple, or the FBI.
+- Don’t pay for “unlock” services or “FRP bypass” tools — many are scams and some can install malware.
+- Don’t keep trying passwords, repeated resets, or workarounds; you can lock yourself out further or lose recoverable data.
+- Don’t click sign-in links from texts/emails claiming the device was “found,” “locked,” or “verified”; open the official site/app yourself instead.
+- Don’t share receipts, ID photos, one-time codes, or recovery info with anyone you haven’t verified independently (especially if they contacted you first).
 
 ## What to do now
-1. **Verify the screen is a genuine system prompt.**
-   - A legitimate BitLocker (Windows) or FileVault (Mac) prompt appears during the boot sequence before the operating system loads.
-   - If the request appears inside a web browser or as a window while you are already logged in, close the browser and disconnect from the internet immediately.
+1. **Freeze the moment and document it for support/refunds.**  
+   Take photos/screenshots of the exact message (including any email/phone number shown). Save purchase records, listing screenshots, and seller messages.
 
-2. **Document the Key ID and Device Name displayed on the screen.**
-   - **Locate the Recovery Key ID (usually a string of 8 or 32 characters) on the locked screen.**
-   - **Take a clear photo of the entire screen to ensure you have the exact identifier for matching.**
+2. **Check whether this is ownership lock vs organization management.**  
+   Look for wording like **“managed by your organization”**, **work/school**, **MDM**, **Intune/Company Portal**, **Jamf**, or “this device belongs to…”.  
+   - If it looks managed and you don’t recognize the organization: don’t proceed — contact the seller/platform, or your employer/school IT/admin if it’s a work/school device.
 
-3. **Retrieve a Windows BitLocker key using official portals.**
-   - On a separate trusted device (phone or tablet), navigate to **aka.ms/myrecoverykey** for personal accounts.
-   - For work or school devices, navigate to **aka.ms/aadrecoverykey** and sign in with your organizational credentials.
-   - **Match the Key ID from your device screen to the one listed in the portal to ensure you use the correct 48-digit key.**
+3. **If you bought the device used/refurbished: stop setup and contact the seller/platform right away.**  
+   Ask the seller to remove the device from their account (they can often do this remotely). If they can’t or won’t, **request a return/refund**. Don’t accept “just reset again” as a solution.
 
-4. **Retrieve a Mac FileVault key using Apple services.**
-   - On a trusted iPhone or iPad signed into the same Apple Account, open the **Passwords** app.
-   - **Tap "All," select your Mac's name from the list, and tap the "Recovery Key" field to reveal the code.**
-   - If you chose to store the key in iCloud during setup, follow the on-screen "Reset Password" prompts on the Mac to use your Apple Account credentials for unlocking.
+4. **Secure the account side from another trusted device (even if you’re not sure).**  
+   Go directly (typed/bookmarked) to Apple/Google/Microsoft account pages.  
+   - Change the password.  
+   - Enable/confirm two-factor authentication.  
+   - Review signed-in devices/sessions and revoke anything you don’t recognize.
 
-5. **Contact your organization if the device is managed.**
-   - If the screen states "A recovery key has been set by your company, school, or institution," contact your IT Helpdesk.
-   - **Provide the IT department with the Key ID and your device asset tag to retrieve the escrowed key.**
+5. **If it’s an iPhone/iPad showing Activation Lock:**  
+   - If you’re the rightful owner, use Apple’s official Activation Lock support/removal process (proof of purchase may be required).  
+   - If you’re not the owner, only the previous owner can remove it — return it if they won’t.
 
-6. **Check physical and digital backups.**
-   - Search your physical files for a printout labeled "BitLocker Recovery Key" or check any USB flash drives used during the initial device setup.
-   - Check your personal password manager or cloud storage for a saved text file or secure note containing the key.
+6. **If it’s Android and it asks for a Google account you don’t recognize after a reset (FRP/Device Protection):**  
+   Treat it as Factory Reset Protection/Device Protection from a prior owner. Resolution is typically: the prior owner signs in and removes their account, or the seller/manufacturer resolves it using **proof of purchase that clearly matches the device** (serial/IMEI if possible). If the seller can’t fix it quickly, pursue a refund.
 
-7. **Report suspected scams to the IC3 (USA Specific).**
-   - If you were directed to this screen by a caller or believe it is a ransomware attempt, file a report at **www.ic3.gov**.
-   - **Use only the official .gov website and do not follow links provided by third parties.**
+7. **If this came with a suspicious text/email: report it and don’t respond.**  
+   - **Most carriers** let you forward spam texts to **7726 (SPAM)**; if it doesn’t work, use your messaging app’s **Report junk/spam** option.  
+   - Report fraud/scams at **ReportFraud.ftc.gov**.  
+   If you lost money or shared sensitive info, consider also filing with the FBI’s **IC3**.
+
+8. **If you suspect theft or the device isn’t legitimately sold:**  
+   Stop using it, keep all documentation, and work through the platform/payment method for a refund/dispute. If there is immediate danger, call **911**; otherwise use local non-emergency law enforcement.
 
 ## What can wait
-- You do not need to determine the technical cause (e.g., BIOS update or TPM failure) right now.
-- You do not need to decide whether to replace the hardware or wipe the disk immediately.
-- You do not need to contact professional data recovery services until you have exhausted all account-based retrieval options.
+- You don’t need to decide now whether to wipe/reset again — first confirm whether it’s an ownership/management lock and secure any accounts.
+- You don’t need to “fix it” by installing tools — seller/manufacturer support and official recovery routes come first.
+- You don’t need to negotiate live; collect evidence and communicate in writing for a clear trail.
 
 ## Important reassurance
-It is normal to feel panicked when locked out of your files, but this prompt is often triggered by routine security updates or firmware changes. Access can usually be restored by locating the key in the account originally used to set up the device.
+This is a common situation, especially with second-hand devices and after resets. These locks are designed to deter theft and protect owners. Slowing down and using official steps is the safest move.
 
 ## Scope note
-This guide provides first-step stabilization for retrieving encryption keys. It does not cover hardware repair, OS reinstallation, or forensic data recovery.
+These are immediate first steps to prevent irreversible mistakes and reduce risk. Refund disputes and account recovery can take time and may require seller/platform escalation or manufacturer support.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT or legal advice. If your device contains sensitive corporate data or if you suspect an active cyberattack, follow your employer’s incident reporting procedures immediately. Microsoft and Apple support personnel cannot see, recreate, or provide a lost recovery key.
+This guide is general information, not legal advice. If you believe a crime is in progress or you’re in immediate danger, call 911.
 
 ## Additional Resources
 - https://support.apple.com/en-us/108794
-- https://support.apple.com/108934
-- https://support.apple.com/guide/icloud/remove-a-device-mmfc0eeddd/icloud
+- https://support.apple.com/en-us/108934
 - https://support.microsoft.com/en-us/windows/manage-devices-used-with-your-microsoft-account-d4044995-81db-b24b-757e-1102d148f441
-- https://support.google.com/android/answer/9459346?hl=en
+- https://consumer.ftc.gov/articles/how-recognize-report-spam-text-messages
+- https://reportfraud.ftc.gov/
+- https://www.ic3.gov/
+- https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts
+- https://www.samsung.com/us/support/answer/ANS10003349/

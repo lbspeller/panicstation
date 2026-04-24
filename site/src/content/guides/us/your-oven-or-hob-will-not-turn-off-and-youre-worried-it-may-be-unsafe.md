@@ -1,92 +1,87 @@
----
+﻿---
 title: "What to do if… your oven or hob will not turn off and you’re worried it may be unsafe"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - "oven won’t turn off"
-  - "cooktop won’t turn off"
-  - "stovetop won’t turn off"
-  - "range won’t turn off"
-  - "oven stuck on"
-  - "cooktop stuck on"
-  - "stovetop stuck on"
-  - "range stuck on"
-  - "help i can't turn off my oven"
-  - "help i can't turn off my cooktop"
-  - "help i can't turn off my stovetop"
-  - "help i can't turn off my stove"
-  - "what do i do if my oven stays on"
-  - "what do i do if my cooktop stays on"
-  - "what do i do if my stovetop stays on"
-  - "what do i do if my burner stays on"
-  - "smell of gas in kitchen"
-  - "burning smell from oven"
-  - "heating element won't stop"
-  - "knob stuck on stove"
-  - "oven overheating"
-  - "gas burner won't extinguish"
-  - "electric burner red hot"
-  - "stove control malfunction"
-  - "oven control board failure"
-  - "oven relay stuck"
-  - "cooktop won't shut down"
-  - "emergency stove shut off"
-  - "oven power isolation"
-  - "gas valve location kitchen"
-last_reviewed: "2026-03-17"
+  - oven won’t turn off
+  - stove won’t turn off
+  - range won’t turn off
+  - cooktop won’t turn off
+  - burner won’t turn off
+  - gas stove won’t shut off
+  - electric stove stuck on
+  - oven stuck on
+  - cooktop stuck on
+  - can’t turn stove off
+  - oven overheating
+  - burner won’t go out
+  - control knob stuck
+  - stove control stuck
+  - kitchen appliance won’t switch off
+  - worried stove is unsafe
+  - smell gas in kitchen
+  - oven won’t stop heating
+last_reviewed: "2026-03-05"
 ---
-# What to do if… your oven or hob will not turn off and you’re worried it may be unsafe (USA)
 
+# What to do if… your oven or hob will not turn off and you’re worried it may be unsafe (USA)
 ## Short answer
-Isolate the appliance from its power or fuel source immediately by switching off the dedicated circuit breaker at the electrical panel or closing the gas supply valve. If you smell gas (rotten eggs) or see fire you cannot immediately smother, evacuate the building and call 911.
+Shut off the heat source upstream: switch off the range/oven breaker at your electrical panel for electric, or shut off the gas supply valve for gas. If you smell gas, leave immediately and call 911 or your gas utility’s emergency number from a safe location.
 
 ## Do not do these things
-- Don't attempt to pull the appliance away from the wall, as this can rupture gas lines or strain electrical wiring.
-- Don't pour water on any part of the appliance, especially if it is electric or if grease is present.
-- Don't keep toggling the knobs or digital touchpad if they are unresponsive or feel stuck.
-- Don't use light switches, phones, or flashlights inside the room if you suspect a gas leak.
-- Don't stay inside to investigate the cause or "monitor" the heat level.
+- Don’t keep turning knobs/buttons repeatedly if something feels stuck, sparking, or unusually hot — isolate the supply instead.
+- Don’t pour water on anything smoking or burning (especially grease).
+- Don’t use light switches, doorbells, garage door openers, or anything that could spark if you suspect a gas leak.
+- Don’t try to take the stove apart or pull it out forcefully.
+- Don’t stay inside to “air it out” if you smell gas — leave first.
 
 ## What to do now
-1. **Clear the immediate area of people, pets, and flammable materials** such as dish towels, wooden utensils, or food packaging.
-2. **Handle any active flames immediately using smothering techniques:**
-   - **For an oven fire:** Keep the door closed and turn off the heat if possible.
-   - **For a cooktop fire:** Slide a metal lid over the pan to smother the flames and leave it there until completely cool.
-   - If the fire is not contained or is spreading, **evacuate everyone immediately and call 911**.
-3. **Follow the gas emergency protocol if you smell gas or hear a hissing sound:**
-   - **Leave the building immediately** without touching any electrical switches or devices.
-   - **Call 911 or your local gas utility emergency line** from a safe distance outside.
-   - Do not re-enter the property until emergency responders confirm it is safe.
-4. **Isolate an electric appliance at the breaker panel if there is no gas smell:**
-   - **Locate your home’s main electrical service panel.**
-   - **Switch the breaker labeled "Range," "Oven," or "Stove" to the OFF position.** This is often a double-width (240V) breaker.
-   - If the panel is not labeled and you are unsure, **turn off the Main Disconnect** if you feel it is an emergency, or evacuate and call 911.
-5. **Isolate a gas appliance only if the valve is accessible without moving the unit:**
-   - **Locate the gas shut-off valve**, typically found on the flexible piping behind or beside the appliance.
-   - **Turn the handle 90 degrees** (perpendicular to the pipe) to stop the flow of gas.
-   - If you cannot reach the valve safely, **evacuate and call the fire department or gas utility**.
-6. **Mark the appliance as unsafe to prevent accidental use:**
-   - **Tape a large, visible note to the front of the unit** stating "DO NOT USE - UNSAFE - POWER OFF."
-   - Ensure no one restores power or gas to "test" the unit until it has been professionally inspected.
+1. **Move people and pets away from the kitchen** and clear anything flammable away from the stove/oven area.
+2. **If there are flames or an active fire:**
+   - If it’s safe, **turn off the heat source**.  
+   - **For an oven fire:** **turn off the heat and keep the door closed.**  
+   - If you can’t control it quickly/safely, **leave the home and call 911**.
+3. **Figure out whether the appliance is gas or electric (or dual-fuel):**
+   - **Gas:** visible flame and/or you smell gas.  
+   - **Electric:** heating elements stay on/hot with no flame.
+4. **If you smell gas or suspect a leak:**
+   - **Leave the building immediately.**  
+   - **Do not touch electrical switches/devices** on your way out.  
+   - From outside/a safe location, **call 911 or your gas utility’s emergency number** (follow local guidance).  
+   - Do not re-enter until responders/the utility say it’s safe.
+5. **If it’s electric (and there’s no gas smell):**
+   - Turn the appliance controls to **OFF**.  
+   - Go to your **breaker panel** and **switch off the breaker** for the range/oven (if you’re unsure which, use the panel directory/labels).  
+   - If you believe there’s immediate danger (smoke/overheating/burning smell) and can’t safely identify the right breaker, **leave and call 911**.
+6. **If it’s gas and a burner won’t go out (even if you’re not strongly smelling gas):**
+   - Turn the burner control(s) to **OFF**.  
+   - If the flame stays on or you hear gas, **shut off the gas supply valve** to the range (usually on the flexible supply line behind the range, if accessible without moving it dangerously).  
+   - If you smell gas at any point, follow Step 4.
+7. **Once the supply is off, keep the stove/oven “out of service”:**
+   - Put a visible note on it: **“Do not use — unsafe”**.  
+   - Keep the area clear and don’t restore power/gas “just to test it.”
+8. **Get the right help (same day if possible):**
+   - **Gas appliance issue:** contact your **gas utility** for safety concerns and/or a **licensed plumber/appliance technician**.  
+   - **Electric issue:** contact a **licensed electrician** or appliance technician.  
+   - If you rent, notify your landlord/property manager and tell them you **shut off power/gas for safety**.
 
 ## What can wait
-- You do not need to identify the specific mechanical failure (e.g., stuck relay, faulty thermostat) right now.
-- You do not need to contact the manufacturer or check warranty status while the unit is still energized or fueled.
-- You do not need to clean the kitchen or move the appliance for repairs today.
-- You do not need to decide on a replacement model immediately.
+- You do **not** need to troubleshoot, reset, or research model-specific fixes right now.
+- You do **not** need to decide whether to replace the appliance today — the priority is keeping it safely shut off and inspected.
+- You do **not** need to move the appliance while it’s hot or hard-wired.
 
 ## Important reassurance
-An appliance that refuses to turn off is a high-stress situation, but you have removed the danger by cutting off the electricity or gas. Once the supply is isolated, the unit will begin to cool, and the immediate fire or explosion risk is neutralized. Panic is a common reaction to a loss of control over household utilities.
+A stove or oven that won’t shut off feels alarming, but the immediate safety goal is simple: remove the fuel/electricity and reduce ignition risks. Once the breaker or gas valve is off and the area is clear, you’ve done the most important part.
 
 ## Scope note
-This guide provides first-step stabilization only. The appliance must remain disconnected and out of service until it is inspected and repaired by a licensed electrician or gas technician.
+These are first steps only, meant to stabilise the situation. A qualified professional may need to inspect and test the appliance (and gas line if applicable) before it’s safe to use again.
 
 ## Important note
-This information is for emergency stabilization and does not replace professional technical or fire safety services. If you observe heavy smoke, glowing components, or a strong odor of gas, do not attempt to troubleshoot; evacuate and contact emergency services.
+This guide is general information for immediate safety steps, not professional advice. If you believe there is immediate danger (fire, heavy smoke, strong gas odor, symptoms of gas exposure), leave to safety and contact emergency services right away.
 
 ## Additional Resources
-- https://www.cpsc.gov/safety-education/safety-guides/home-fire/recipe-safer-cooking
-- https://www.cpsc.gov/Recalls/2024/GE-Appliances-a-Haier-Company-Recalls-Electric-Cooktops-Due-to-Burn-Hazard
-- https://www.cpsc.gov/Recalls/2024/Samsung-Recalls-Slide-In-Electric-Ranges-Due-to-Fire-Hazard
-- https://www.cpsc.gov/Recalls/2025/LG-Recalls-Electric-Ranges-Due-to-Fire-Hazard
-- https://www.cpsc.gov/Recalls/2024/Electrolux-Group-Reannounces-Recall-of-Frigidaire-and-Kenmore-Electric-Ranges-Due-to-Fire-and-Burn-Hazards-Multiple-Fires-and-Injuries-Reported
+- https://www.nfpa.org/education-and-research/home-fire-safety/cooking
+- https://content.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/cookingsafetytips.pdf
+- https://www.nationalgridus.com/Report-Gas-Emergency
+- https://www.centerpointenergy.com/en-us/residential/safety/natural-gas-leaks/what-to-do-if-you-smell-gas
+- https://propane.com/safety/safety-articles/what-to-do-if-you-smell-gas/

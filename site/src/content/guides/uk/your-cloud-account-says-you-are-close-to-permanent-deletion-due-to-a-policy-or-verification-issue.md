@@ -1,103 +1,80 @@
----
+﻿---
 title: "What to do if… your cloud account says you are close to permanent deletion due to a policy or verification issue"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "cloud documents missing"
-  - "cloud notes empty"
-  - "notes disappeared after sign in"
-  - "files missing after login"
-  - "documents suddenly gone"
-  - "cloud folder empty"
-  - "drive looks blank"
-  - "one drive empty after login"
-  - "google drive empty after login"
-  - "icloud drive empty after sign in"
-  - "dropbox files missing"
-  - "wrong account signed in"
-  - "sync problem missing files"
-  - "shared folder disappeared"
-  - "deleted files in trash"
-  - "restore previous version"
-  - "account hacked files gone"
-  - "signed in but nothing there"
-  - "cloud storage looks wiped"
-  - "online documents not showing"
-  - "empty notes app"
-  - "missing cloud storage files"
-  - "sudden data loss cloud"
-  - "help i lost my notes"
-  - "help i lost my documents"
-  - "what do i do if my drive is empty"
-  - "what do i do if my notes are gone"
-  - "my google docs disappeared"
-  - "my icloud notes are missing"
-  - "recovering empty cloud folders"
-last_reviewed: "2026-03-17"
+  - cloud account deletion warning
+  - account at risk of deletion
+  - verification failed cloud account
+  - policy violation notice cloud
+  - locked out of cloud account
+  - cloud account suspended
+  - account disabled appeal
+  - identity verification problem online account
+  - keep cloud account from being deleted
+  - recover access to cloud storage
+  - urgent account recovery steps
+  - data at risk of being lost
+  - export cloud data quickly
+  - cannot verify identity to provider
+  - cloud service says final notice
+  - account termination warning
+  - sudden access loss cloud
+  - account review pending
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your cloud account says you are close to permanent deletion due to a policy or verification issue (UK)
 
 ## Short answer
-Isolate your devices from the internet to prevent further syncing, then verify you are signed into the correct account email address using a web browser on a different device.
+Go to the provider’s official website or app (not a link in a message) and use their recovery/appeal route, then start an export/backup immediately if you still have any access.
 
 ## Do not do these things
-- Do not empty the Trash, Bin, or Recently Deleted folders to "clear the view".
-- Do not create new documents or test notes in the empty space, as this may overwrite version history or local caches.
-- Do not sign out and sign back in repeatedly on the affected device before checking the account status on a stable web browser.
-- Do not uninstall the application or factory reset the device, which could delete local temporary files needed for recovery.
-- Do not follow instructions from unsolicited social media messages or "recovery experts" claiming they can restore your files for a fee.
+- Don’t click “verify” links from unexpected emails/texts/pop-ups — deletion warnings are commonly used for phishing.
+- Don’t keep retrying logins/verification in a panic if the page says to wait; repeated attempts can trigger extra lockouts.
+- Don’t send passport/driving licence images by email or DM — only use the provider’s official secure upload flow.
+- Don’t sign out of a device where you’re still logged in (it may be your last working session).
+- Don’t pay anyone who claims they can “restore” your account via social media/DMs.
 
 ## What to do now
-1. **Disable internet connectivity on the affected device.** 
-   - **Switch to Airplane Mode or turn off Wi-Fi immediately** to prevent the "empty" state from syncing and overwriting local data or caches.
-   - **Leave the app open** if it is currently running, but do not interact with its menus yet.
-
-2. **Verify the account identity on a separate, stable device.**
-   - **Sign in to the service’s official website** (e.g., icloud.com, drive.google.com, or onedrive.com) using a web browser.
-   - **Compare the exact email address** and profile name with the one shown on your "empty" device.
-      - Look for subtle typos, such as @googlemail.com vs @gmail.com or @outlook.com vs @hotmail.com.
-
-3. **Inspect the "Recently Deleted" or "Bin" areas via the web browser.**
-   - **Open the Trash / Bin / Recently Deleted folder** within the web interface.
-   - **Search for a specific, known filename** if the folder appears empty; sometimes folders are moved rather than deleted.
-
-4. **Review the account’s security and activity logs.**
-   - **Check for "Recent Activity" or "Security Events"** to see if any unknown devices signed in or if a bulk deletion event occurred.
-   - **Verify sharing permissions** if the missing files were in a shared folder; the owner may have removed your access.
-
-5. **Utilize provider-specific restoration tools.**
-   - **Use "Files Restore" (OneDrive)** to revert your entire drive to a point in the last 30 days.
-   - **Use "Dropbox Rewind"** to undo large-scale changes or deletions.
-   - **Check "Google Drive Trash"** (retained for 30 days) or contact Google Support for specialized file recovery requests.
-   - **Access "Data Recovery" on iCloud.com** settings to restore files deleted from other apps within the last 30 days.
-
-6. **Secure the account if unauthorized activity is found.**
-   - **Change your password immediately** to a unique, complex string.
-   - **Enable Two-Factor Authentication (2FA)** if it was not already active.
-   - **Revoke "Trusted Devices"** or "Active Sessions" that you do not recognize.
-
-7. **Report suspected cybercrime to official UK bodies.**
-   - **Contact Report Fraud** (formerly Action Fraud) via reportfraud.police.uk or 0300 123 2040 if you are in England, Wales, or Northern Ireland.
-   - **Call Police Scotland on 101** if you are in Scotland.
-   - **Forward suspicious emails** to report@phishing.gov.uk and **suspicious texts** to 7726.
+1. **Confirm it’s real using a clean path.**  
+   Open a fresh browser/app and type the provider’s address yourself (or use the official app). Sign in from there. If the warning only appears via a link from a message, treat it as suspicious.
+2. **Capture proof before anything changes.**  
+   Screenshot: the warning, any case/ticket ID, any deadline shown, the exact wording of the “policy or verification” reason, and the options offered (appeal, request access, upload ID). Save the message itself (don’t delete it). If you already know how, also save full email headers.
+3. **Use the provider’s official “appeal / restore access / verification” flow immediately.**  
+   Complete it carefully and consistently (use details that match the account’s billing/profile history, where relevant). If there’s a built-in “Start appeal/Request access” button, use that rather than opening multiple separate tickets.
+4. **Start exporting/backing up right away if you still have access.**  
+   Prioritise what’s hardest to recreate: photos, original documents, password vault exports, recovery codes/backup codes, and anything needed to sign in elsewhere. If the provider has a built-in export tool, start it now (exports can take time).
+5. **Protect your recovery channels (without locking yourself out).**  
+   - Check you can still access the recovery email/phone on file.  
+   - If you’re signed in on a trusted device, keep it powered/connected and don’t sign out.  
+   - Don’t revoke other sessions/devices yet unless the provider explicitly instructs you to — do that only once you have a confirmed way back in.
+6. **Avoid triggering automated security flags while you recover.**  
+   Don’t use VPNs/proxies for this process, avoid repeated failed attempts, and use a familiar device and normal connection if possible. If the provider tells you to wait a set period before retrying, follow that.
+7. **Contact official support through the in-product route if you can.**  
+   Use “Help/Support” from inside the official site/app. Provide: screenshots, approximate last successful login, payment receipts/order IDs (if any), and device names. Only provide identity documents via the provider’s secure portal flow.
+8. **If you suspect a scam or takeover, treat it as an incident.**  
+   Secure the email account that controls this cloud account first (new password + 2-step verification), and check for suspicious forwarding rules or recovery-setting changes. If you’ve been targeted by fraud/phishing, report it via the UK’s national fraud reporting service (Report Fraud). If you encountered a scam website, you can report it to the UK National Cyber Security Centre.
 
 ## What can wait
-- You do not need to decide on a new cloud provider or storage strategy immediately.
-- You do not need to notify all collaborators or shared-folder members until you have confirmed whether the issue is a deletion or a local sync error.
-- You do not need to attempt advanced data recovery software or hardware repairs while cloud-side restoration tools are still an option.
+- You don’t need to decide today whether to switch providers permanently.
+- You don’t need a perfect full backup first — start with the most irreplaceable items.
+- You don’t need to argue the policy details right now; focus on (1) stopping deletion, (2) exporting key data, (3) gathering proof.
 
 ## Important reassurance
-Seeing an empty account is often a sign of a "session mismatch" or a sync glitch rather than permanent deletion. Most major cloud providers have a mandatory 30-day safety window for deleted items and version history specifically designed for these moments. If you stop making changes now, your chances of recovery remain high.
+These warnings are designed to create urgency, which is exactly why scammers imitate them and why people make mistakes under stress. Using only official routes and capturing evidence first is often what prevents irreversible loss.
 
 ## Scope note
-This guide provides first-step stabilization for digital data loss in cloud environments. It does not cover physical hardware failure or complex forensic data recovery.
+This is first-steps guidance for the next hour or two. If access is restored, you can later review the policy issue, tighten security, and set up a safer backup routine.
 
 ## Important note
-This information is for general guidance and does not constitute technical or legal advice. If your documents contain sensitive professional, legal, or financial data, consult your organization's IT department or a certified data security professional.
+This is general information, not legal advice. Providers’ processes vary and can change. If you’re unsure whether a verification request is genuine, stop and use the provider’s official site/app support flow. If you believe a provider is mishandling your personal data, UK data protection rights (for example, asking for a copy of your data, and sometimes data portability) may apply depending on the situation; you can also raise concerns with the UK Information Commissioner’s Office.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/collection/using-online-services-safely/recovering-hacked-account-or-service
 - https://support.google.com/accounts/answer/40695?hl=en
-- https://support.microsoft.com/en-gb/account-billing/microsoft-account-has-been-locked-805e8b0d-4141-29b2-7b65-df6ff6c9ce27
-- https://support.microsoft.com/en-gb/office/reactivate-an-account-that-has-been-blocked-08e0c662-384e-40ab-876e-6ffa35a547a6
+- https://support.microsoft.com/en-gb/account-billing/help-with-the-microsoft-account-recovery-form-b19c02d1-a782-dee6-93c3-dc8113b20c42
 - https://support.apple.com/en-gb/102640
+- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/right-to-data-portability/
+- https://www.gov.uk/data-protection
+- https://www.reportfraud.police.uk/
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-website

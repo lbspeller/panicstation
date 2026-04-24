@@ -1,87 +1,95 @@
----
+﻿---
 title: "What to do if… you receive a notice that your booking was changed and you suspect someone accessed your travel account"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "booking changed unexpectedly"
-  - "travel account hacked"
-  - "airline account accessed"
-  - "hotel booking changed"
-  - "trip altered without consent"
-  - "suspicious itinerary change"
-  - "unauthorised travel booking"
-  - "travel app compromised"
-  - "booking confirmation looks wrong"
-  - "account takeover travel"
-  - "loyalty points stolen"
-  - "unknown traveller added"
-  - "payment method used in account"
-  - "email about booking change"
-  - "travel login alert"
-  - "someone accessed my booking"
-  - "what do i do if my booking was changed"
-  - "what do i do if my travel account was hacked"
-  - "what do i do if someone accessed my booking"
-  - "what do i do if my flight was altered"
-  - "help i think my travel account was accessed"
-  - "help i think my airline account was hacked"
-  - "help my holiday booking has changed"
-  - "help someone changed my hotel reservation"
-  - "unrecognised name in booking"
-  - "strange seat change email"
-  - "unexpected refund notification"
-  - "travel password reset request"
-  - "notice of booking change"
-  - "suspect travel account access"
-last_reviewed: "2026-03-17"
+  - booking changed unexpectedly
+  - travel account hacked
+  - airline account accessed
+  - hotel booking changed
+  - trip altered without consent
+  - suspicious itinerary change
+  - unauthorised travel booking
+  - travel app compromised
+  - booking confirmation looks wrong
+  - account takeover travel
+  - loyalty points stolen
+  - unknown traveller added
+  - payment method used in account
+  - email about booking change
+  - travel login alert
+  - someone accessed my booking
+  - urgent travel plans disrupted
+  - online travel agent account hacked
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you receive a notice that your booking was changed and you suspect someone accessed your travel account (UK)
 
 ## Short answer
-Isolate the account and the associated email by changing passwords immediately, then contact the travel provider's official fraud department to freeze the booking.
+Treat it as an account takeover: **secure the account (and the email behind it) and contact the travel company’s fraud/support channel immediately to lock the booking and stop further changes**.
 
 ## Do not do these things
-- Don't click links in the notification email or text to log in or "verify" the change.
-- Don't assume a change in passenger names, dates, or payment methods is a technical error.
-- Don't repeatedly attempt logins if a password fails, as this can trigger a security lockout.
-- Don't share your booking reference (PNR), passport details, or screenshots on social media.
-- Don't wait until you arrive at the airport or hotel to address the discrepancy.
+- Don’t click “confirm change”, “verify”, or “log in” links in the message until you’ve reached the account via the official app/site you normally use.
+- Don’t assume it’s “just a glitch” if names, dates, airports, seats, or payment details changed.
+- Don’t keep re-trying passwords over and over (it can trigger lockouts while the attacker keeps trying too).
+- Don’t share booking references, passport details, or screenshots containing barcodes/PNRs in public or with unknown “support” accounts.
+- Don’t wait until the day of travel if anything time-critical (flights/rail/ferry check-in, entry authorisations/visas) could be affected.
 
 ## What to do now
-1. **Verify the booking status through an independent channel.** Open the official travel app or type the website address directly into your browser rather than using links in the alert. Check the "Manage Booking" section for any changes to passenger names, contact details, flight times, or seat assignments.
+1. **Pause and verify the alert safely**
+   - Open the airline/hotel/rail operator’s *official* app or type the website address you know (not via the message) and check: passenger names, dates/times, departure/arrival points, seat/room, contact email/phone on file, and payment method shown.
+   - If the message claims an urgent deadline, treat that as extra reason to verify via the official channel.
 
-2. **Secure your primary email account first.** Since travel bookings often rely on email for verification, change your email password to a unique, complex phrase and enable two-factor authentication (2FA). Check for any new "forwarding rules" or "filters" that might be sending copies of your travel confirmations to an external address.
+2. **Lock down the travel account immediately**
+   - Change the password to a new, long one you haven’t used elsewhere.
+   - Turn on 2-step verification (2FA) if offered.
+   - Sign out of all devices / remove unknown devices or sessions (many travel accounts show “logged in devices”).
+   - Check for any “linked” accounts (Google/Apple/Facebook), and any saved travellers you don’t recognise, and remove them if you can do so safely.
 
-3. **Reset the travel account password and terminate active sessions.** Log in through the official site and change the password immediately. If the platform allows it, select the option to "Sign out of all other devices" or "Remove trusted devices" to kick any unauthorised users out of the session.
+3. **Secure the email account that receives booking emails (this matters most)**
+   - Change your email password and enable 2FA.
+   - Check for rules/filters/forwarding (e.g., “auto-archive”, “mark as read”, “forward to…”) that could hide security emails or itinerary changes, and delete anything you didn’t set.
+   - Review recent sign-ins / devices and sign out anything unfamiliar.
 
-4. **Contact the travel provider’s fraud or emergency support line.** Inform them that you suspect an account takeover and request that they place a "security note" on the booking. Ask them to verify the current payment method on file and whether any new tickets, vouchers, or refunds have been issued.
-   - For flights: contact the airline directly.
-   - For hotels: contact the hotel and the booking platform (e.g., Booking.com / Expedia).
-   - For rail: contact the train operating company.
+4. **Contact the travel company using their official support path and ask for specific actions**
+   - Tell them: “I believe this is unauthorised access / account takeover. Please freeze changes and add a note to the booking.”
+   - Ask them to: lock the booking against further online changes; confirm the *current* itinerary; confirm the payment method used; and advise whether any new tickets/vouchers were issued.
+   - If the booking is through an online travel agent (OTA), contact the OTA *and* the airline/hotel if possible, because control can sit in different places.
 
-5. **Notify your bank or card issuer if payment details are stored in the account.** Check your recent transactions for any unrecognised "test" payments (often small amounts) or travel-related charges. If your card details were saved in the compromised account, ask your bank to cancel the card and issue a replacement.
+5. **Check for unauthorised payments and act fast**
+   - Look at the card/bank account used for the booking for any new transactions (including small “test” amounts).
+   - If anything is unauthorised, **contact your bank/card provider immediately** to report it and ask them what to do next (e.g., card replacement, dispute).
+   - Take screenshots of the changed itinerary and any receipts/timestamps while you still can.
 
-6. **Report the incident to the relevant UK authorities.** If you are in England, Wales, or Northern Ireland, report the incident to **Report Fraud** online or by calling 0300 123 2040. If you are in Scotland, report the matter to **Police Scotland** by calling 101.
+6. **Protect the trip if you’re travelling soon**
+   - If travel is within 48 hours, prioritise: correct passenger name(s), passport/ID details (if stored), and the ability to check in.
+   - If you can, add a secondary contact method you control (phone number) and remove any you don’t recognise.
+   - If you suspect someone could turn up and use the booking, ask the provider what identity checks apply and whether they can add an extra security note on the reservation.
 
-7. **Forward the suspicious notification to national reporting services.** If the initial notice was a phishing attempt, forward suspicious emails to **report@phishing.gov.uk** and suspicious text messages to **7726**.
+7. **Report the fraud in the UK (for tracking and support)**
+   - If you’ve lost money or details were misused, report it to **Report Fraud** if you live in **England, Wales, or Northern Ireland**.
+   - If you live in **Scotland** (or the crime happened there), report it to **Police Scotland** (typically via **101** for non-emergencies, or their online contact options).
+   - Keep your reference number with your screenshots and bank notes.
 
 ## What can wait
-- You do not need to delete the travel account entirely right now; retaining the account may be necessary for the provider's investigation.
-- You do not need to file a formal travel insurance claim in the first hour; focus on stabilising the booking first.
-- You do not need to update every unrelated online password immediately; focus only on the compromised travel account and your primary email.
+- You don’t need to decide right now whether to change all your other passwords—focus on **the travel account + your email** first.
+- You don’t need to argue with customer service about liability in the first call—first goal is **stop further changes and stabilise the booking**.
+- You don’t need to post in forums or social media for help—keep details private until you’re secure.
 
 ## Important reassurance
-It is normal to feel a sense of urgency or distress when travel plans are interfered with. Most major travel providers have established protocols for handling account takeovers and unauthorised booking changes. Taking these steps to secure access and notify the provider typically prevents further unauthorised activity.
+It’s common to feel shaken by this, especially when travel plans are on the line. A calm, fast sequence—secure access, freeze the booking, then handle payments—usually prevents the worst outcomes and gives you back control.
 
 ## Scope note
-This guide provides first-step stabilisation for suspected account takeovers. It does not cover long-term identity theft protection, legal disputes over refunds, or compensation claims for missed travel.
+This covers first steps to stabilise a suspected travel-account takeover. Later steps (insurance claims, formal complaints, longer identity protection) may be appropriate once your trip and accounts are secure.
 
 ## Important note
-This information is for general guidance and does not constitute legal or financial advice. Security protocols vary by provider; always follow the specific instructions provided by your bank’s fraud team or the official travel company’s security department.
+This is general information, not legal, financial, or law-enforcement advice. Processes and options vary by provider and situation; if you’re unsure, use official support channels and your bank’s fraud team.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
-- https://www.ncsc.gov.uk/section/respond-recover/you
-- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
-- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
-- https://www.abta.com/tips-and-advice/planning-and-booking-a-holiday/how-avoid-travel-related-fraud
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.cityoflondon.police.uk/news/city-of-london/news/2025/december/report-fraud-service-goes-live-with-full-public-launch-in-january-2026/
+- https://stopthinkfraud.campaign.gov.uk/reporting-fraud/
+- https://www.moneyhelper.org.uk/en/everyday-money/credit/how-youre-protected-when-you-pay-by-card
+- https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/getting-your-money-back-if-you-paid-by-card-or-paypal/

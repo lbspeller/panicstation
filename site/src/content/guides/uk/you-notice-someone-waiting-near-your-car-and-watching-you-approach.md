@@ -1,90 +1,78 @@
----
+﻿---
 title: "What to do if… you notice someone waiting near your car and watching you approach"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "someone waiting by my car"
-  - "being watched approaching car"
-  - "suspicious person in car park"
-  - "stranger loitering near vehicle"
-  - "parking garage safety fear"
-  - "walking to car alone"
-  - "unsafe car park at night"
-  - "someone between parked cars"
-  - "person near my driver door"
-  - "worried about robbery at car"
-  - "worried about car theft setup"
-  - "returning to car after shopping"
-  - "workplace car park concern"
-  - "public car park personal safety"
-  - "someone sitting in nearby car"
-  - "followed to my car"
-  - "car park intimidation"
-  - "what do i do if i feel unsafe in a car park"
-  - "what do i do if someone is watching my car"
-  - "what do i do if a stranger is by my car door"
-  - "what do i do if i am being followed to my car"
-  - "help i think someone is waiting for me at my car"
-  - "help i am being watched in a parking lot"
-  - "help i feel unsafe walking to my vehicle"
-  - "help i saw someone loitering near my car"
-  - "smell of cigarette smoke near car"
-  - "shadow moving between cars"
-  - "unexplained person near driver side"
-  - "loitering in multi-storey"
-  - "safety in darker car parks"
-  - "suspicious loitering near vehicle UK"
-  - "stranger watching vehicle approach"
-  - "person waiting near car door"
-  - "approach vehicle safety check"
-last_reviewed: "2026-03-17"
+  - someone waiting by my car
+  - being watched approaching car
+  - suspicious person in car park
+  - stranger loitering near vehicle
+  - parking garage safety fear
+  - walking to car alone
+  - unsafe car park at night
+  - someone between parked cars
+  - person near my driver door
+  - worried about robbery at car
+  - worried about car theft setup
+  - keys out in car park
+  - returning to car after shopping
+  - workplace car park concern
+  - public car park personal safety
+  - someone sitting in nearby car
+  - followed to my car
+  - car park intimidation
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… you notice someone waiting near your car and watching you approach (UK)
 
 ## Short answer
-Stop your approach immediately and return to a populated, well-lit area. Seek a staff member or security escort to reach your vehicle safely, or call 999 if you feel under immediate threat.
+Stop approaching your car. Turn back to a busier, well-lit place and get help (staff/security/another adult) to leave safely — call 999 if you feel in immediate danger.
 
 ## Do not do these things
-- Do not continue walking toward the car to "see what happens" or to avoid appearing rude.
-- Do not walk between rows of parked cars where you can be easily cornered or hidden from view.
-- Do not look down at your phone, fumble for keys, or wear headphones while approaching the vehicle.
-- Do not unlock the car remotely until you are certain you can enter and lock the doors immediately.
-- Do not confront the individual or attempt to take photos/video if it requires getting closer to them.
-- Do not accept offers of "help" with your shopping or vehicle from a stranger loitering nearby.
+- Don’t walk past them to “just get it over with” or squeeze between parked cars to reach your door.
+- Don’t confront, argue, or approach to film them up close. (If you want to note details, do it from a safer place.)
+- Don’t unlock your car while distracted (fumbling with bags, looking down at your phone, headphones on).
+- Don’t get into your car with someone close enough to rush the door.
+- Don’t accept a stranger’s offer to “help you find your car” or “check something” on your vehicle.
+- Don’t drive off if you feel too shaken to do it safely — get to a safe place first.
 
 ## What to do now
-1. **Change direction and create distance immediately.** Walk toward the nearest busy entrance, staffed reception, or group of people rather than continuing toward your car.
-2. **Enter a "Safe Space" or staffed building.** Go inside a shop, café, or station office and explain the situation to staff.
-3. **Request a security or staff escort.** Ask for a member of staff or a "Safer Parking" (formerly Park Mark) accredited attendant to walk you to your vehicle.
-   - If car park security is unavailable, ask the building staff to monitor you via CCTV while you wait for a friend or a taxi.
-4. **Call 999 if you believe a crime is imminent or you are being followed.** State your exact location, the level of the car park, and a description of the person (clothing, height, and any nearby vehicle).
-5. **Use the "Silent Solution" if you cannot speak safely on a mobile.** If you dial 999 from a mobile and cannot talk, listen for the automated prompt and **press 55** to be transferred to the police.
-   - If calling from a landline, staying silent will usually trigger a police transfer if background noise is detected, and your location is automatically shared.
-6. **Scan the vehicle environment from a distance before re-approaching.** Ensure no one is crouching by the wheels, sitting in a nearby vehicle, or standing by the boot.
-7. **Execute a "Quick Entry" protocol once you have an escort or the person has left.**
-   - Have your keys in your hand before leaving the building.
-   - Unlock only the driver’s door (if your car settings allow).
-   - Get in and **lock all doors immediately** before starting the engine or adjusting mirrors.
-8. **Drive to a well-lit public area before stopping if you feel shaken.** Do not drive straight home if you suspect you are being followed by another vehicle; drive to a police station or a busy 24-hour petrol station.
+1. **Create distance immediately.** Change direction and go back into the nearest staffed place (shop, café, station, reception), or towards a group of people. If you’re outdoors, aim for **light + people + cameras**.
+2. **Ask for an escort, not advice.** Tell staff: “Someone is waiting by my car and watching me. Can someone walk with me to my car (or call security)?” If there’s car park security, ask them to **meet you inside** and walk you out.
+3. **If you feel threatened right now, call 999.** Give your location (car park name/level/nearest entrance), what’s happening, and a description (clothing/height/vehicle).  
+   - If you can’t safely speak: **still call 999**. If you’re calling from a **mobile**, you may be prompted to **press 55** (or tap) to confirm it’s a genuine emergency. If you’re calling from a **landline**, stay on the line and do not hang up.
+4. **Delay reaching your car until you have support.** Wait inside with staff/security until the person leaves, or you have an escort, or police/security advise what to do next.
+5. **When you do approach the car (with an escort):**
+   - Scan around and inside from a short distance.
+   - Have your key ready so you’re not searching in a bag at the door.
+   - If anything feels off (someone too close, door/boot ajar, other people loitering), **turn back immediately**.
+6. **If you get into the car:** get in, **lock doors immediately**, start the engine, and leave if you can do so safely.  
+   - If someone approaches the door/window, **do not open the door or window**.  
+   - If you can’t safely drive away (boxed in/blocked), **stay locked**, use your **horn/lights** to draw attention, and call **999**.
+7. **Once you’re safe, report it (if you want to).**  
+   - If it’s not an emergency, you can report to police via **101** or your local force’s online contact options.  
+   - If you want to report anonymously, you can contact **Crimestoppers** (online or by phone) when you’re safe.
 
 ## What can wait
-- You do not need to identify the person's exact intent or wait for them to act before seeking help.
-- You do not need to report the loitering to the 101 non-emergency line until you are in a secure, private location.
-- You do not need to check your car for damage or "tags" (like zip ties or marks) while you are still in the car park.
-- You do not need to justify your decision to turn back to staff or security.
+- You do **not** need to decide whether you’re “overreacting” right now.
+- You do **not** need to confront them, identify them, or gather “proof”.
+- You do **not** need to post online, warn others publicly, or argue with anyone about what you saw.
+- You do **not** need to drive home immediately if you feel shaky — you can stay in the staffed place until you’re steady.
 
 ## Important reassurance
-Feeling a sense of "alert" or noticing someone watching you is a functional survival response. Prioritising your physical safety over the convenience of reaching your car quickly is the correct action in this environment.
+Noticing something “off” in a car park and backing away is a normal protective response. You’re allowed to prioritise distance and help over politeness or speed.
 
 ## Scope note
-This guide provides immediate stabilization steps for personal safety when approaching a vehicle. It does not cover long-term stalking advice or vehicle theft investigations.
+This is first-steps-only guidance for the next few minutes. Later steps (formal reporting, workplace/venue complaints, reviewing CCTV) can happen once you’re safe and calm.
 
 ## Important note
-This information is for immediate safety stabilization and does not constitute legal advice. In any situation involving a threat to life or property, contact 999 immediately.
+This is general safety information, not legal advice. If you feel in immediate danger, call 999.
 
 ## Additional Resources
-- https://www.met.police.uk/cp/crime-prevention/personal-safety-how-to-stay-safe/
-- https://www.gov.uk/report-stalker
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/what-to-do-if-youre-being-stalked-or-harassed/
-- https://www.suzylamplugh.org/personal-safety-out-and-about
-- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/
+- https://www.gov.uk/contact-police
+- https://www.police.uk/pu/contact-us/
+- https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
+- https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
+- https://crimestoppers-uk.org/
+- https://www.suzylamplugh.org/Pages/Category/personal-safety

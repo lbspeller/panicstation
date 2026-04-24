@@ -1,91 +1,83 @@
----
+﻿---
 title: "What to do if… you get a carrier alert that call forwarding was enabled and you did not set it"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "call forwarding alert"
-  - "call divert enabled"
-  - "carrier warning message"
-  - "calls diverted to another number"
-  - "call forwarding not me"
-  - "unexpected call divert"
-  - "carrier alert call forwarding"
-  - "set call forwarding without permission"
-  - "enabled call forwarding notification"
-  - "what do i do if my calls are being diverted"
-  - "what do i do if call forwarding was enabled"
-  - "what do i do if i get a carrier alert"
-  - "help i did not set call forwarding"
-  - "help my phone says call forwarding is on"
-  - "my calls are going to someone else"
-  - "my mobile provider sent a divert alert"
-  - "sim swap signs"
-  - "port out fraud indicators"
-  - "phone number takeover"
-  - "two factor codes intercepted"
-  - "suspicious text from network"
-  - "unexpected account change alert"
-  - "mobile account compromised"
-  - "calls redirected to unknown number"
-  - "unauthorized call forwarding"
-  - "phone hacked alert"
-  - "network notification call divert"
-  - "unknown number receiving my calls"
-  - "forwarding alert on screen"
-  - "divert active symbol"
-last_reviewed: "2026-03-17"
+  - call forwarding alert
+  - call divert turned on
+  - carrier warning message
+  - calls diverted to another number
+  - call divert scam
+  - phone number takeover
+  - sim swap suspected
+  - port out fraud
+  - network divert fraud
+  - voicemail accessed
+  - two factor codes intercepted
+  - phone account compromised
+  - unexpected account change
+  - mobile provider fraud team
+  - call forwarding not me
+  - call divert enabled without permission
+  - suspicious carrier notification
+  - mobile security incident
+  - social engineering scam
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… you get a carrier alert that call forwarding was enabled and you did not set it (UK)
 
 ## Short answer
-This alert indicates a possible account takeover; you must contact your mobile network provider immediately via their official, trusted number to disable all diverts and secure your account.
+Treat this as a possible account takeover. Use a trusted route (your network’s official app/website or the number on your bill) to contact your mobile provider now and have them remove all call forwarding/diverts and secure your account.
 
 ## Do not do these things
-- Do not dial any "fix codes" or shortcodes provided in a suspicious text message or by an unsolicited caller.
-- Do not call back the number that sent the alert or any "support" number provided within the message.
-- Do not share one-time passcodes (OTPs), PINs, or PAC codes with anyone who contacts you, even if they claim to be from your network's fraud team.
-- Do not assume the issue is resolved just by changing handset settings, as many diverts are set at the network level.
-- Do not attempt to log into sensitive bank accounts using SMS verification until the network confirms the line is secure.
+- Do not dial “fix codes” or follow instructions sent by a random text/call/voicemail, even if they claim to be your network or bank.
+- Do not call back a number from the alert text or from a missed call notification unless you already know it’s genuine.
+- Do not share one-time passcodes, PAC details, account PINs, or “security answers” with anyone contacting you first.
+- Do not assume turning it off in your phone settings is enough (some forwarding is set on the network side).
 
 ## What to do now
-1. **Contact your mobile network provider immediately using a verified, independent route.**  
-   **Call the official customer service number found on your latest bill, the back of your SIM card holder, or the provider’s official website/app.** If you are unable to make calls, use the "Live Chat" feature on the official website from a secure computer or a different device.
-2. **Ask the provider to identify and remove every active call forward or divert on your account.**  
-   **Instruct the representative to "clear all diverts at the network level" rather than just checking your handset settings.** Ask for the specific phone number that your calls were being diverted to and record this for your report.
-3. **Request a full security audit for SIM swap or porting activity.**  
-   **Ask if there have been any recent requests for a PAC (Porting Authorisation Code), STAC (Service Termination Authorisation Code), or a replacement SIM/eSIM activation.** Check if any secondary users or authorized contacts have been added to your account in the last 24 hours.
-4. **Enforce additional security hurdles on your mobile account.**  
-   **Ask the provider to add a "high-security" verbal passphrase or PIN that must be provided before any future SIM swaps or account changes can occur.** Request that they "lock" the account against any port-out requests until you specifically authorize it via a secondary verification method.
-5. **Reset your voicemail PIN and check for unauthorized access.**  
-   **Change your voicemail access code to a new, complex number and ensure that "remote access without a PIN" is disabled.** Scammers often use voicemail access to trigger automated "forgot password" calls from other services.
-6. **Switch your most sensitive accounts to app-based authentication.**  
-   **Move your primary email and banking apps away from SMS-based two-factor authentication (2FA) and toward an authenticator app or physical security key.** Prioritize your primary email account, as this is often the "master key" used to reset all other passwords.
-7. **Verify your financial and digital accounts for suspicious sign-ins.**  
-   **Check the "active sessions" or "device history" on your primary email and banking apps to see if any unknown devices have logged in.** 
-   - Look for new "forwarding rules" in your email settings that might be sending copies of your messages to a third party.
-8. **Contact your bank via the 159 service if you suspect financial targeting.**  
-   **Hang up and wait at least five minutes, or use a completely different phone, then dial 159 to be connected safely to your bank’s fraud department.** If your bank is not part of the 159 scheme, use the number on the back of your debit/credit card.
-9. **Report the incident to the official UK fraud authorities.**  
-   **In England, Wales, or Northern Ireland, use the Report Fraud service (formerly Action Fraud) at reportfraud.police.uk or call 0300 123 2040.** 
-   - If you are in Scotland, report the matter to Police Scotland by calling 101 or using their online reporting tool for identity theft.
+1. **Contact your mobile network using a verified route.**  
+   Use the number on your bill/contract, the network’s official website, or their official app. Ask for the **fraud/security team** if available.
+2. **Ask them to confirm what changed, then clear it at network level.**  
+   Ask: what forwarding/divert was enabled (all types) and when it was added, and have them **remove/clear all call forwarding/diverts on the network** (not just handset settings).
+3. **Ask them to check for SIM swap / port-out activity.**  
+   Ask whether there were any recent: SIM/eSIM activations, device changes, PAC requests, porting requests, added authorised users, address changes, or failed verification attempts.
+4. **Lock down your mobile account (with the provider’s help).**  
+   Reset/add an **account PIN/passphrase** and ask what **account-change restrictions** they can add (for example: requiring extra verification for SIM swaps/ports, adding notes that changes must pass enhanced checks, or enabling any port/number-transfer protection they offer).
+5. **Secure voicemail (it can be used to reset other accounts).**  
+   Change your voicemail PIN/passcode and confirm voicemail can’t be accessed from another phone without that PIN. Ask whether voicemail was reset or accessed recently.
+6. **Assume calls/texts could be intercepted until your network confirms it’s fixed.**  
+   For the next day or two, avoid relying on SMS/phone-call verification where you have alternatives. Prioritise moving key accounts (email, banking, Apple/Google) to app-based authentication or backup codes.
+7. **Check your highest-risk accounts in this order:**  
+   - **Primary email account(s):** change password, review recent sign-ins, remove unknown devices/sessions, and check for new forwarding rules/recovery changes.  
+   - **Banking/credit:** review transactions and alerts; if anything looks off, contact the bank using a trusted number.  
+   - **Mobile wallet/app stores:** check for new devices, payment methods, or purchases.
+8. **If you were contacted by someone claiming to be your bank, switch to a safe calling method.**  
+   Hang up. **Dial 159** (if your bank supports it). If 159 doesn’t connect to your bank, use the number on your bank card or in your banking app—do not accept a “transfer” from an incoming call.
+9. **Create an official record if you suspect fraud (or if losses occur).**  
+   In **England, Wales, or Northern Ireland**, report cyber crime/fraud via **Report Fraud** (this replaced Action Fraud). In **Scotland**, report to **Police Scotland on 101**. Keep a simple timeline and any provider reference numbers.
 
 ## What can wait
-- You do not need to determine the exact method of the breach (e.g., phishing vs. data leak) right now.
-- You do not need to notify your entire contact list unless you have evidence they are being targeted with your number.
-- You do not need to replace your physical handset unless the network provider suggests the device itself is compromised.
+- You do not need to fully investigate “how” it happened right now.
+- You do not need to confront anyone who may have targeted you.
+- You do not need to change every password today—focus first on **mobile account, voicemail, and primary email**, then the most valuable accounts.
 
 ## Important reassurance
-Receiving a carrier alert is often the system working as intended to warn you of a change. By acting within the first few minutes to lock the network account and secure your "master" email, you significantly reduce the window a scammer has to intercept sensitive codes or access your finances.
+Getting a call-forwarding alert you didn’t trigger is unsettling, but quick action usually limits the damage. The most important thing is to regain control of the number and cut off network-level forwarding before you do anything else.
 
 ## Scope note
-This guide provides first-step stabilization for a mobile account security incident. It does not cover long-term identity theft recovery or the restoration of already-stolen digital accounts.
+This guide covers first steps to stabilise and prevent immediate harm. Follow-up (like longer-term account hardening and restoring accounts) may take additional, more tailored steps.
 
 ## Important note
-This information is for immediate stabilization and is not legal, technical, or financial advice. Mobile network protocols and fraud reporting systems may change; always follow the direct instructions provided by your network's official fraud team and law enforcement.
+This is general information, not legal, financial, or technical advice. If you see unauthorised transactions, account lockouts, or evidence your identity has been misused, contact your provider/bank promptly and consider reporting through the appropriate UK route.
 
 ## Additional Resources
-- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/7726-reporting-scam-texts-and-calls
-- https://business.ee.co.uk/help/ee-getting-started/manage-call-diverts/
-- https://deviceguides.vodafone.co.uk/apple/iphone-13-ios-17/calls-and-contacts/cancel-all-diverts/
-- https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-13-pro-ios-26/basic-settings/cancel-all-diverts
-- https://www.which.co.uk/news/article/sim-swap-fraud-doubles-year-on-year-how-scammers-steal-your-phone-number-aB0TF1O6hUrv
+- https://www.reportfraud.police.uk/
+- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
+- https://www.cityoflondon.police.uk/news/city-of-london/news/2025/december/report-fraud-service-goes-live-with-full-public-launch-in-january-2026/
+- https://stopscamsuk.org.uk/campaign/get-help-now/
+- https://stopscamsuk.org.uk/our-work/159-phone-number/
+- https://www.citizensadvice.org.uk/consumer/scams/check-if-something-might-be-a-scam/
+- https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/campaigns/fraud/cyber-protect_protect-yourself-from-sim-swap-fraud.pdf
+- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/beware-of-scam-calls-claiming-to-be-from-ofcom

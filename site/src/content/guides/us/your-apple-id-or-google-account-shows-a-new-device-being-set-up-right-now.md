@@ -1,102 +1,106 @@
----
+﻿---
 title: "What to do if… your Apple ID or Google Account shows a new device being set up right now"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "authenticator accounts missing"
-  - "2fa codes disappeared"
-  - "authenticator app reset after update"
-  - "new phone authenticator empty"
-  - "lost 2fa app entries"
-  - "microsoft authenticator restore"
-  - "google authenticator transfer"
-  - "authy tokens missing"
-  - "otp accounts disappeared"
-  - "locked out of account 2fa"
-  - "phone upgrade lost authenticator"
-  - "update wiped authenticator"
-  - "missing two factor codes"
-  - "recovery codes for 2fa"
-  - "qr code 2fa setup again"
-  - "cannot access email 2fa"
-  - "suspected sim swap"
-  - "what do i do if authenticator app is empty"
-  - "what do i do if my codes are gone"
-  - "what do i do if 2fa app reset"
-  - "what do i do if i lost my 2fa phone"
-  - "help i lost my authenticator accounts"
-  - "help i cannot get into my 2fa app"
-  - "help i updated my phone and authenticator is blank"
-  - "my authenticator codes vanished"
-  - "my microsoft authenticator is empty"
-  - "my google authenticator accounts disappeared"
-  - "smell of burning phone"
-  - "phone feels hot after update"
-  - "no service message on screen"
-  - "invalid sim card notification"
-  - "authenticator app white screen"
-  - "missing tokens after phone change"
-  - "forgot authenticator backup password"
-  - "recovery key for authenticator app"
-last_reviewed: "2026-03-17"
+  - apple id new device
+  - apple account device added
+  - google account new device
+  - google account device setup
+  - unknown device signing in
+  - sign-in alert right now
+  - someone logging into my account
+  - account takeover in progress
+  - suspicious login notification
+  - new phone added to account
+  - new laptop added to account
+  - my account is being used
+  - device added message
+  - unexpected security alert
+  - someone has my password
+  - remove unknown device
+  - sign out of all devices
+  - change password immediately
+  - two factor authentication prompt
+  - google security checkup device
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your Apple ID or Google Account shows a new device being set up right now (USA)
 
 ## Short answer
-Do not uninstall or reset the app, as this may delete the only remaining link to your accounts. Check the app settings for cloud sync or "Restore" options first, and use your stored offline backup codes to regain entry to critical services.
+Assume someone is trying to take over your account: **deny the sign-in (if possible), change your password immediately from a trusted device, then remove/sign out unfamiliar devices and lock down recovery options**.
 
 ## Do not do these things
-- Do not delete the authenticator app or clear its cache/data in an attempt to "fix" it.
-- Do not assume the accounts are permanently gone until you have checked for a hidden "Undelete" or "Restore" menu.
-- Do not ignore a sudden loss of cellular signal; if your phone shows "No Service" or "SOS only" while codes are missing, prioritize calling your carrier.
-- Do not enter your login credentials into "recovery" websites found through social media or unofficial support comments.
+- Don’t approve any prompt you didn’t personally start.
+- Don’t tap links in alert emails/texts to “secure your account” — go directly to Settings (Apple) or your Google Account security page.
+- Don’t enter your password into pop-ups or lookalike pages.
+- Don’t reuse an old password or a slightly modified one.
+- Don’t stop after changing the password — persistence often happens through recovery info, sessions, forwarding, or connected apps.
 
 ## What to do now
-1. **Preserve the current state of the app without modifying data.**
-   - **Keep the app installed even if it appears empty.**
-   - **Check for a "Deleted Accounts" or "Undelete" section in the app settings, especially if using Authy.**
+1. **Use a trusted device and a trusted connection.**
+   - Use your main phone/computer (one you recognize and control).
+   - If you’re on public Wi-Fi, switch to cellular or a trusted network before making changes.
 
-2. **Trigger the specific cloud recovery flow for your app provider.**
-   - **Google Authenticator:** Sign in to the app with the Google Account used on your previous device; codes synced to the cloud since 2023 should repopulate automatically.
-   - **Microsoft Authenticator:** Select "Begin Recovery" on the initial setup screen and sign in with your personal Microsoft account (Android) or iCloud-linked Apple ID (iOS).
-   - **Authy:** Enter your phone number and verify via SMS or a call; if Multi-Device was enabled, your encrypted tokens will appear after you enter your Backups Password.
+2. **If you see an on-screen sign-in alert, deny it.**
+   - **Apple:** tap **“Don’t Allow”** on any sign-in notification you don’t recognize.
+   - **Google:** tap **“No, it’s not me” / “Deny”** on the security prompt.
 
-3. **Use the physical transfer feature if you still have the old device.**
-   - **Open the app on both phones and look for "Transfer Accounts" or "Export/Import."**
-   - **Generate a QR code on the old device and scan it with the new device's authenticator app.**
-   - **Verify that the codes on the new phone match the old ones before wiping the old device.**
+3. **Change your password immediately (trusted device only).**
+   - **Apple Account:** change your password from Settings on your iPhone/iPad/Mac (menu names vary by version).
+   - **Google Account:** change your password from your Google Account security settings.
+   - Make it brand-new and unique (not used anywhere else).
 
-4. **Regain access using "Try Another Way" on critical accounts.**
-   - **Locate your physical or digital "Backup Codes" (the 8–10 digit codes provided during initial setup).**
-   - **Select "Use a different method" or "I don't have my code" on the login screen of your email or bank.**
-   - **Request a code via an alternative method such as a secondary email or a trusted hardware security key.**
+4. **Do the “lockdown trio” immediately: devices/sessions, recovery info, stealth access.**
+   - **Devices/sessions**
+     - **Apple:** review your Apple Account device list and **remove anything you don’t recognize**.
+     - **Google:** **Security → Your devices → Manage all devices** and **sign out** of anything you don’t recognize.
+   - **Recovery info**
+     - **Apple:** confirm your trusted phone number(s) and trusted device(s) are yours.
+     - **Google:** verify your recovery email and recovery phone are yours; remove anything unfamiliar.
+   - **Stealth access checks**
+     - **Gmail:** check for unfamiliar **forwarding** and **filters/rules**.
+     - Review connected third-party apps/services and remove anything you don’t recognize.
 
-5. **Address a suspected SIM swap immediately if cellular service is lost.**
-   - **Call your mobile carrier from a different, working phone line if your primary device has no signal.**
-   - **Tell the representative you suspect "unauthorized SIM activity" or a "SIM swap."**
-   - **Request an "Account Lock" or "Port-Out Protection" to prevent further number transfers.**
+5. **Check for account detail changes you didn’t make.**
+   - Look for unfamiliar email addresses, phone numbers, or sign-in methods added to Apple/Google.
+   - If your phone suddenly lost service or you got SIM/number change messages, contact your mobile carrier promptly — treat it as potentially related.
 
-6. **Document the incident for reporting if accounts were compromised.**
-   - **Take screenshots of any unauthorized login notifications or password change alerts.**
-   - **File a report at the FBI Internet Crime Complaint Center (IC3) website if you have experienced financial loss or identity theft.**
+6. **If finances could be exposed, do a quick damage check.**
+   - Check recent purchases/subscriptions and saved payment methods tied to Apple/Google.
+   - If you see unauthorized charges, contact your card issuer/bank immediately.
+
+7. **If you can’t regain control quickly, use official recovery/support paths (avoid fakes).**
+   - Use Apple/Google’s official account recovery steps from a trusted device.
+   - Be cautious with search results: scammers imitate recovery pages. Prefer typing known official addresses or using in-app Settings routes.
+
+8. **If identity theft or cyber-enabled fraud is involved, report and document.**
+   - Use **IdentityTheft.gov** if your identity was misused.
+   - Consider reporting to the **FBI’s IC3** if money was stolen/attempted or you have a significant cyber-enabled fraud incident.
+   - Keep a simple note now: when you got the alert, what changed, and screenshots if safe.
 
 ## What can wait
-- You do not need to re-enable 2FA on every minor account today; focus only on email, banking, and your primary mobile carrier.
-- You do not need to switch authenticator apps immediately; focus on recovering your existing seeds first.
-- You do not need to contact the software developer of the authenticator app, as they generally cannot access your private encryption keys.
+- You don’t need to figure out how they got in before you secure the account.
+- You don’t need to contact the unknown device/user.
+- You don’t need to factory reset your phone right now unless official support specifically tells you to.
+- You don’t need to make big decisions immediately — the priority is stopping access and preventing re-entry.
 
 ## Important reassurance
-It is normal to feel a sense of panic when a digital "key" is missing. Most modern authenticator apps include a recovery mechanism or a cloud sync feature that is often disabled by default but can be reactivated. If you have your backup codes or a secondary device, you can usually restore access to all major accounts within a few hours.
+Seeing “a new device is being set up right now” can trigger instant panic — that reaction is normal. You’re not trying to solve everything today; you’re trying to stop access and prevent a quick repeat.
 
 ## Scope note
-This guide covers immediate stabilization and account recovery for missing 2FA tokens. It does not provide long-term cybersecurity auditing or technical repair for malfunctioning hardware.
+This covers first steps to interrupt an in-progress sign-in and prevent immediate harm. If you see repeated re-entry, multiple accounts impacted, or financial loss, you may need deeper recovery with Apple/Google and your financial institutions.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT security or legal advice. Recovery processes for specific institutions, such as government agencies or corporate networks, may vary and require contacting their specific IT help desks or identity verification services.
+This is general information, not legal or professional advice. If you’re unsure whether a prompt is legitimate, the safest move is to deny/close it and go directly to account settings on a trusted device.
 
 ## Additional Resources
-- https://support.apple.com/en-us/102560
-- https://support.apple.com/en-us/102614
-- https://support.google.com/accounts/answer/7305876?hl=en
+- https://support.apple.com/guide/personal-safety/reject-unknown-sign-in-attempts-ipsf8e72746b/web
+- https://support.apple.com/en-us/111756
 - https://support.google.com/accounts/answer/3067630?hl=en
-- https://support.google.com/accounts/answer/140921?hl=en
+- https://support.google.com/accounts/answer/6294825?hl=en
+- https://www.identitytheft.gov/
+- https://www.ftc.gov/news-events/topics/identity-theft/report-identity-theft
+- https://www.ic3.gov/
+- https://complaint.ic3.gov/

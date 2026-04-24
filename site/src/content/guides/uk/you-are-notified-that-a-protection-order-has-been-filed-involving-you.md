@@ -1,86 +1,81 @@
----
+﻿---
 title: "What to do if… you are notified that a protection order has been filed involving you"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "protection order filed against me"
-  - "notified of protection order"
-  - "served with court order uk"
-  - "non-molestation order served"
-  - "occupation order notice"
-  - "injunction notice uk"
-  - "restraining order notice uk"
-  - "respondent to court order"
-  - "return hearing date"
-  - "without notice order"
-  - "court papers arrived"
-  - "told to attend family court"
-  - "no contact order confusion"
-  - "alleged harassment order"
-  - "domestic abuse order notice"
-  - "worried about breach"
-  - "what happens next court"
-  - "received order pack"
-  - "what do i do if i am served with a court order"
-  - "what do i do if my ex gets an injunction"
-  - "what do i do if i am a respondent in family court"
-  - "what do i do if a protection order is filed"
-  - "help i received court papers"
-  - "help i have a non-molestation order"
-  - "help i am banned from my house"
-  - "my ex filed a protection order"
-  - "smell of legal papers"
-  - "seeing police at the door"
-  - "hearing about a court date"
-  - "received fl401 application"
-  - "form fl435 response"
-  - "family law act 1996 notice"
-  - "served by bailiff uk"
-  - "non-molestation order response"
-last_reviewed: "2026-03-17"
+  - protection order filed against me
+  - notified of protection order
+  - served with court order uk
+  - non-molestation order served
+  - occupation order notice
+  - injunction notice uk
+  - restraining order notice uk
+  - respondent to court order
+  - return hearing date
+  - without notice order
+  - court papers arrived
+  - told to attend family court
+  - no contact order confusion
+  - alleged harassment order
+  - domestic abuse order notice
+  - worried about breach
+  - what happens next court
+  - received order pack
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… you are notified that a protection order has been filed involving you (UK)
 
 ## Short answer
-Assume the order is active and legally binding the moment you are notified: read the specific prohibitions immediately and cease all direct or indirect contact with the applicant to avoid a criminal breach.
+Assume the paperwork is real and urgent: read every condition, and stop all contact with the applicant unless the order clearly allows a specific exception or method.
 
 ## Do not do these things
-- Do not contact the applicant to "talk this through" or "clear the air," even through mutual friends or family members.
-- Do not go to any location mentioned in the order (such as a home, school, or workplace) even if you still have keys or belongings there.
-- Do not ignore the paperwork or assume it is "just a draft" or "only a civil matter"—breaching a Non-Molestation Order is a criminal offence.
-- Do not post any details of the order, the applicant, or the allegations on social media.
-- Do not attempt to "test" the order by sending a "neutral" or "emergency" message.
-- Do not use third parties to ask the applicant if they "really mean it" or to persuade them to drop the application.
+- Do not contact the applicant “to clear it up” (including via friends, family, social media, or indirect messages).
+- Do not go to their home, workplace, or usual places if the paperwork restricts you from doing so.
+- Do not assume it’s unenforceable because you disagree with it or a hearing is still pending.
+- Do not post about it online, or share screenshots of the order/papers.
+- Do not ignore court dates, deadlines, or instructions in the pack.
+- Do not “test” boundaries (for example, one short message) to see what happens.
 
 ## What to do now
-1. **Establish an immediate no-contact zone to prevent an accidental criminal breach.** **Put your phone on Do Not Disturb, mute the applicant's profiles across all platforms, and inform close family or friends that they must not pass messages between you and the applicant.**
-2. **Read the entire "Order" page and the "Prohibitions" section slowly to identify exact restrictions.** **On a separate piece of paper, write down the specific things you are forbidden from doing, such as "not to come within 100 metres of the property" or "not to contact the applicant by any means."**
-3. **Locate the hearing date and the mandatory FL435 response form included in your pack.** **Check the "Notice of Hearing" to see if it is a "return hearing" (usually within 28 days for without-notice orders) and find the form you must return at least 5 working days before that date.**
-4. **Verify the order's authenticity using the official "Find a court or tribunal" tool on GOV.UK.** **Call the court office listed on the papers using the number you found independently to confirm the case number and the date of the next hearing.**
-5. **Secure legal representation immediately from a solicitor who specialises in family law or domestic abuse injunctions.** **Ask specifically about "Legal Aid" eligibility, as recent 2026 updates may affect means-testing for respondents in specific protective order circumstances.**
-6. **Check the order for any "Exclusion Requirements" that affect your living situation.** **If you are barred from your home (common in Occupation Orders), arrange alternative accommodation immediately and do not return for any reason without a court-approved plan.**
-7. **Complete the FL435 Response Form to indicate your position to the court.** **You will need to decide, with legal advice, whether you "agree to the order continuing," "do not oppose it without admitting facts," or "oppose the order" entirely.**
-8. **Draft a factual timeline of events without contacting any potential witnesses.** **Write down dates, times, and existing evidence (like old text messages or receipts) you already possess, but do not reach out to others to "gather statements" yet, as this could be seen as indirect harassment.**
-9. **Identify "Safe Contact" exceptions written into the order.** **Check if the order allows contact specifically through solicitors for child arrangements or via a professional contact centre; if it does not, you must not communicate regarding children at all.**
+1. **Create an immediate no-contact buffer to avoid accidental breach.** Put your phone on Do Not Disturb, mute/block the applicant’s number and social profiles (so you don’t reply impulsively), and tell one trusted person: “Please don’t pass messages between us.”
+2. **Read the paperwork once, slowly, and write down the “must-know” items.** On paper, note:
+   - the **type of order** (for example: non-molestation order / occupation order / restraining order / other),
+   - the **exact restrictions** (contact, distance, locations, third-party contact, social media, etc.),
+   - the **start/end date** (and whether it says “until further order”),
+   - the **hearing date/time** and how to attend (in person/remote).
+3. **Treat the restrictions as active now.** Many protective orders (including interim/without-notice orders) are intended to apply immediately once you’re served/notified. If anything is unclear, take the stricter interpretation until you get advice.
+4. **Verify the case details using the court named on the papers.** Contact the court office shown on the order (using official HM Courts & Tribunals Service contact details you find independently) and ask:
+   - “Is there a hearing listed, and what is the date/time/location or remote link process?”
+   - “Is there a deadline for filing a response or statement?”
+   - “How do I provide documents to the court, and how should I serve the other party (if required)?”
+5. **Get legal help quickly (even one urgent appointment helps).** Ask for a solicitor experienced in protective injunctions (family law and/or criminal law depending on the order). If cost is a worry, ask about legal aid eligibility and free/low-cost court support services.
+6. **Plan today to attend court and not miss deadlines.** Put the hearing date in your calendar with multiple reminders. If you need an interpreter or disability adjustments, contact the court office as soon as you can.
+7. **Stabilise daily-life logistics to prevent accidental violations.**
+   - If you share childcare/school runs/property: use only routes the order clearly allows. If the order is silent, avoid direct contact and route essentials via solicitors or another permitted channel.
+   - If the order affects where you can live or go: arrange a temporary alternative and avoid “just popping in.”
+8. **If you need to collect essential belongings, do it safely.** Do not attend in person unless it’s clearly permitted by the order and properly arranged (for example, via solicitors, the court process, or an agreed/authorised method). Keep it calm, brief, and documented.
+9. **Start a simple evidence folder (no detective work).** Keep the papers, a short factual timeline (dates/times), and any existing documents that support your timeline (messages you already have, receipts, work logs). Do not contact the applicant or potential witnesses to “gather statements.”
 
 ## What can wait
-- You do not need to respond to the specific allegations in a full witness statement tonight.
-- You do not need to pack up your entire life if the order allows you to stay in the home; focus only on the restricted behaviors.
-- You do not need to explain the situation to mutual acquaintances or your employer unless the order specifically impacts your job.
-- You do not need to decide today if you want to "fight" the case to the end; you are only managing the immediate restrictions.
+- You do **not** need to decide today whether to contest, accept, or negotiate longer-term arrangements.
+- You do **not** need to write a long statement tonight—focus on deadlines, attendance, and not breaching.
+- You do **not** need to contact mutual friends/employers or post online to “set the record straight.”
+- You do **not** need to fully understand every legal label right now—follow the exact conditions written on the order.
 
 ## Important reassurance
-Receiving a court order is a high-stress event that often causes feelings of shock, confusion, or unfairness. These feelings are a normal response to a significant legal intervention. The court process is designed to hear both sides, but its first priority is immediate stabilization and safety. Following the order precisely right now—even if you disagree with the claims—is the most effective way to protect your long-term legal position.
+Being served with a protection order is often shocking and can trigger panic, anger, or shame. The safest way to protect yourself right now is to slow down, avoid anything that could be interpreted as contact or intimidation, and follow the court process calmly. If you’re unsure, act more cautiously than you think you need to: breaches can have serious consequences and may lead to police action.
 
 ## Scope note
-This guide provides first-step stabilization for the 48 hours following notification of a civil or family protection order (such as a Non-Molestation or Occupation Order) in England and Wales. It does not cover criminal restraining orders issued after a conviction or long-term legal strategy.
+This is first-steps-only guidance for the first hours and days after you’re notified. The right legal approach depends on the exact order type, wording, and stage (application, interim/without-notice, return hearing, etc.).
 
 ## Important note
-This information is for guidance only and is not a substitute for professional legal advice. Procedures and forms (such as the FL435) are subject to specific court rules and the President of the Family Division's Guidance 2026. A breach of a Non-Molestation Order is an arrestable offence with a maximum sentence of five years' imprisonment.
+This is general information, not legal advice. Protective orders and injunctions vary across the UK and by order type; deadlines and consequences can be serious. If you are unsure about any condition, assume the stricter interpretation until you get qualified advice.
 
 ## Additional Resources
-- https://www.justice.gov.uk/courts/procedure-rules/family/parts/part_10
+- https://www.gov.uk/injunction-domestic-violence
+- https://www.gov.uk/government/publications/form-fl403-application-to-vary-extend-or-discharge-an-order-in-existing-proceedings
 - https://www.cps.gov.uk/prosecution-guidance/restraining-orders
-- https://www.gov.uk/government/publications/domestic-abuse-bill-2020-factsheets/domestic-abuse-protection-notices-orders-factsheet
-- https://www.gov.uk/government/publications/apply-for-a-non-molestation-or-occupation-order-fl401/how-to-apply-for-a-non-molestation-or-occupation-order
-- https://assets.publishing.service.gov.uk/media/6504717c6771b90014fdab75/FL401_0223.pdf
+- https://www.legislation.gov.uk/ukpga/2004/28/notes/division/4/1/1
+- https://sentencingcouncil.org.uk/guidelines/breach-of-a-protective-order-restraining-and-non-molestation-orders/
+- https://supportthroughcourt.org/get-help/how-we-help/

@@ -1,104 +1,84 @@
----
+﻿---
 title: "What to do if… your email account recovery email or phone number is changed without your consent"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "email sending blocked warning"
-  - "outgoing mail blocked"
-  - "unusual activity email account"
-  - "suspected email compromise"
-  - "email provider security alert"
-  - "spam sent from my email"
-  - "my email is rate limited"
-  - "locked out of sending emails"
-  - "email account flagged suspicious"
-  - "mailbox rules changed"
-  - "emails forwarding unexpectedly"
-  - "filters i did not create"
-  - "sign-in from new device"
-  - "account security check"
-  - "password may be stolen"
-  - "third party mail app access"
-  - "app password revoked"
-  - "smtp sending blocked"
-  - "unexpected emails from me"
-  - "phishing warning email"
-  - "email account takeover"
-  - "help i cannot send email"
-  - "help i am locked out of email"
-  - "my email provider blocked me"
-  - "what do i do if email is blocked"
-  - "what do i do if account is compromised"
-  - "what do i do if unusual activity detected"
-  - "what do i do if email is throttled"
-  - "burning smell from laptop"
-  - "unrecognized login attempt"
-  - "new device signed in alert"
-  - "strange email rules appearing"
-  - "email signature changed unauthorized"
-  - "account recovery phone changed"
-  - "password reset requested by stranger"
-last_reviewed: "2026-03-17"
+  - email account recovery changed
+  - recovery email changed
+  - recovery phone number changed
+  - email account hacked
+  - someone changed my recovery details
+  - locked out of email
+  - suspicious sign in alert
+  - password reset i did not request
+  - email forwarding turned on
+  - inbox rules changed
+  - account security settings changed
+  - two factor changed
+  - attacker still has access
+  - compromised email account
+  - i think my gmail was hacked
+  - outlook account hacked
+  - yahoo mail hacked
+  - phishing link clicked
+  - sim swap concern
+  - recovery codes missing
+  - devices signed in i don’t recognise
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your email account recovery email or phone number is changed without your consent (USA)
 
 ## Short answer
-Stop all sending attempts and secure the account via the provider's official website or app to remove unauthorized rules, change credentials, and enable multi-factor authentication.
+Assume takeover: use the email provider’s official account-recovery process immediately, then secure the account (new password + sign out everywhere + MFA) and remove any forwarding/rules the attacker added.
 
 ## Do not do these things
-- Don't attempt to bypass the block by repeatedly clicking send or trying multiple logins as this can trigger longer security lockouts.
-- Don't click links or buttons within the warning email itself unless you have independently verified the sender.
-- Don't assume a "glitch" if you use the affected email for banking or primary cloud services.
-- Don't delete suspicious sent messages or audit logs until you have preserved copies for potential reporting.
-- Don't use a compromised device to change your password if you suspect it contains malware.
+- Don’t click “security alert” or “reset password” links from messages you weren’t expecting — go to the provider by typing the address or using the official app.
+- Don’t keep retrying passwords/codes over and over — repeated failures can trigger lockouts and slow recovery.
+- Don’t call “support” numbers from search ads or popups, and don’t pay anyone to “recover” your account.
+- Don’t assume changing your password is enough — attackers often add forwarding, rules, or third-party app access.
+- Don’t rush to delete the account while you’re still trying to regain control — you may lose evidence and access to critical resets.
 
 ## What to do now
-1. **Access the account through a known-safe channel.**  
-   **Close your email application and navigate directly to the provider's official website (e.g., gmail.com, outlook.com) or use their verified mobile app.**
-2. **Change your password to a 16-character minimum string.**  
-   **Select a unique password or a passphrase consisting of 4 to 7 unrelated words that has never been used on other accounts.**
-3. **Audit the account for automated "takeover" rules.**  
-   **Review your settings for unauthorized changes including:**
-   - **Forwarding addresses** sending your mail to external accounts.
-   - **Mailbox rules** that move incoming mail to "Trash" or "Archive" automatically.
-   - **Signature lines** containing links or contact info you did not add.
-   - **Delegates** or users with "Read and Manage" permissions.
-4. **Revoke all active sessions and third-party app access.**  
-   **Use the "Sign out of all other sessions" feature in your security settings and remove any "App Passwords" or third-party integrations (OAuth) that you do not recognize.**
-5. **Enable Multi-Factor Authentication (MFA) using a phishing-resistant method.**  
-   **Configure an authenticator app or hardware security key rather than SMS-based codes if the provider allows.**
-6. **Preserve technical evidence of the compromise.**  
-   **Save the full email headers of any suspicious "Sent" messages and take screenshots of unrecognized sign-in IP addresses from the "Recent Activity" log.**
-7. **Contact your organization's IT department if using a work account.**  
-   **Ask an administrator to check the "Restricted entities" or "Outbound spam" portal to manually clear the block once the account is secured.**
-8. **Scan the accessing device for malicious software.**  
-   **Use a reputable, updated security suite to check for keyloggers or session-hijacking malware.**
-9. **Notify recipients of fraudulent messages.**  
-   **If your account sent spam or phishing links, send a brief, plain-text correction to your contacts once sending is restored.**
-10. **Report the incident to federal authorities.**  
-    **File a report through the appropriate channel based on the impact:**
-    - **Report BEC attempts** or successful breaches to the FBI at **ic3.gov**.
-    - **Report scams or fraud** where no identity theft has occurred to the FTC at **ReportFraud.ftc.gov**.
-    - **Start a recovery plan** if your personal information was stolen at **IdentityTheft.gov**.
+1. **Switch to a safer setup (2 minutes).** Use a trusted computer/device and trusted network. If you suspect your phone number was compromised, do recovery from a computer first.
+2. **Start recovery via the provider’s official recovery flow (now).** Look for “secure a hacked account,” “account recovery,” or “can’t sign in.” If you can sign in, go straight to **Security** settings and review changes.
+3. **If you can get in: secure the account in the safest order.**
+   1) **Change your password** to a strong, unique one.  
+   2) **Sign out of all other sessions/devices** (“log out everywhere”).  
+   3) **Remove unknown recovery email/phone** and add only ones you control.  
+   4) **Enable MFA** (authenticator app or passkeys if available) and create **backup/recovery codes**. Store offline.
+4. **Look for attacker “persistence” inside the mailbox (don’t skip).**
+   - Disable any **forwarding** you didn’t set.
+   - Remove suspicious **filters/rules** (auto-forward, auto-delete, mark-as-read).
+   - Review **connected apps / third-party access** and revoke anything you don’t recognize.
+   - Check **sign-in history** for unknown devices/locations and remove them where possible.
+5. **Protect other accounts that use this email (15–30 minutes).**
+   - Start with **banking, payment apps, retailer accounts with saved cards, mobile carrier, cloud storage, social media**.
+   - Change passwords and confirm **recovery email/phone** are yours (not the attacker’s).
+6. **If you suspect a SIM swap or phone-number takeover:** contact your **mobile carrier** using the number on your bill or the carrier’s official website and ask about recent SIM/line changes. Request stronger account protections (carrier-specific options vary).
+7. **Report and document if it’s more than “just email.”**
+   - If identity theft is a concern, report at **IdentityTheft.gov** and follow the step-by-step recovery plan.
+   - If money was lost or this was part of a scam, file a complaint at the **FBI’s Internet Crime Complaint Center** — use only the official **ic3.gov** site (avoid lookalike “support” portals).
 
 ## What can wait
-- Transitioning to a new email provider.
-- Investigating the exact geographic origin of the unauthorized login.
-- Requesting deliverability audits for your domain unless you are a high-volume business sender.
-- Changing passwords for low-priority accounts not linked to this email address.
+- You don’t need to prove how the attacker got in before securing the account.
+- You don’t need to notify everyone immediately — first stop forwarding/rules and regain control.
+- You don’t need to rebuild every account today — prioritize accounts that can be reset via email and anything tied to money.
+- You don’t need to decide today whether to abandon the email address — that’s a later decision if recovery fails or trust is lost.
 
 ## Important reassurance
-Automated "unusual activity" blocks are a standard defense mechanism designed to protect your account's reputation and your contacts' safety. These triggers often occur due to travel, new hardware, or large attachments, and they do not always indicate a successful hack. Most providers offer a clear path to restoration once you prove your identity and secure your settings.
+This is a common takeover pattern, and feeling “behind” is normal. The fastest way to stop the damage is to regain control through official recovery, then remove forwarding/rules and sign out other sessions so the attacker can’t keep using your inbox.
 
 ## Scope note
-This guide provides first-step stabilization for individual and organizational email accounts. It does not cover long-term domain reputation repair, legal action against attackers, or forensic recovery of deleted data.
+This is first-step, damage-limiting guidance. If recovery fails, the next phase is provider escalation (if available) and migrating critical accounts to a new email with strong MFA.
 
 ## Important note
-This information is for general guidance and does not constitute legal or technical professional advice. For high-stakes corporate environments, follow your specific internal security incident response plan. Always prioritize securing the primary email account, as it is the gateway to resetting credentials for most other digital services.
+This is general information, not legal or professional advice. If you are in immediate danger or believe a crime is actively in progress, contact local authorities. Use only official provider and government reporting channels.
 
 ## Additional Resources
-- https://consumer.ftc.gov/node/77537
+- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
+- https://www.identitytheft.gov/
+- https://www.ftc.gov/news-events/topics/identity-theft/report-identity-theft
+- https://www.ic3.gov/
+- https://www.fbi.gov/investigate/cyber
 - https://support.google.com/accounts/answer/6294825?hl=en
-- https://support.google.com/accounts/answer/7682439?hl=en
-- https://support.microsoft.com/en-us/account-billing/change-the-email-address-or-phone-number-for-your-microsoft-account-761a662d-8032-88f4-03f3-c9ba8ba0e00b
-- https://support.microsoft.com/en-us/account-billing/help-with-the-microsoft-account-recovery-form-b19c02d1-a782-dee6-93c3-dc8113b20c42

@@ -1,79 +1,70 @@
----
+﻿---
 title: "What to do if… you are considering a medical or forensic exam after a suspected sexual assault and you feel overwhelmed"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "suspected sexual assault"
-  - "sexual assault forensic exam"
-  - "considering a rape kit"
-  - "unsure if it counts as assault"
-  - "overwhelmed after assault"
-  - "help i was sexually assaulted"
-  - "what do i do if i was raped"
-  - "what do i do if i was assaulted"
-  - "my clothes are evidence"
-  - "medical exam after assault"
-  - "forensic nurse exam options"
-  - "evidence collection window"
-  - "anonymous reporting options"
-  - "vawa exam rights"
-  - "free forensic exam"
-  - "sane nurse near me"
-  - "safe program hospital"
-  - "shock and confusion after assault"
-  - "worried about sti risk"
-  - "worried about pregnancy after assault"
-  - "hospital evidence collection"
-  - "paper bag for evidence"
-  - "don't want to call police"
-  - "sexual assault advocate support"
-  - "physical injuries after assault"
-  - "bruising after assault"
-  - "soreness after assault"
-  - "dna evidence collection"
-  - "deciding to report later"
-  - "emergency department for assault"
-last_reviewed: "2026-03-17"
+  - suspected sexual assault
+  - unsure if it counts
+  - considering forensic exam
+  - considering medical exam
+  - rape kit questions
+  - sexual assault exam options
+  - forensic nurse exam
+  - evidence collection at hospital
+  - overwhelmed after assault
+  - shock and confusion
+  - worried about evidence
+  - worried about injuries
+  - worried about sti risk
+  - worried about pregnancy
+  - don’t want police involved
+  - not ready to report
+  - want an advocate
+  - afraid of the er
+  - can’t make decisions now
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you are considering a medical or forensic exam after a suspected sexual assault and you feel overwhelmed (USA)
 
 ## Short answer
-Get to a safe location and contact the National Sexual Assault Hotline at **800-656-4673** or go to an emergency department and request a **Sexual Assault Forensic Exam (SAFE)**. Under federal law, the exam is free of charge and you can choose to have evidence collected without being required to report to the police immediately.
+Get to a safer pause, then contact a sexual assault advocate/hotline (or go to an ER) and ask about a **Sexual Assault Forensic Exam**. In many places you can get medical care and discuss evidence-collection options without deciding about reporting right now—ask what non-reporting/anonymous options exist where you are.
 
 ## Do not do these things
-- Do not shower, bathe, brush your teeth, or wash your hands until after the exam if possible.
-- Do not change your clothes; if you must change, place each item of clothing in a separate, clean paper bag (avoid plastic).
-- Do not urinate before the exam if possible; if you must, try not to wipe or clean the area.
-- Do not force yourself to make a permanent decision about legal reporting while in shock or overwhelmed.
-- Do not let anyone pressure you into any part of the exam you do not want; you have the right to decline any specific step.
+- Don’t force a decision about police, charges, or “proof” while you’re in shock.
+- Don’t go through this alone if you can avoid it—bring a trusted person or request an advocate.
+- Don’t assume you “missed the window.” If you’re unsure, call and ask what your options are.
+- Don’t let anyone pressure you into an exam, photos, or reporting if you’re not ready.
+- Don’t confront the person involved, negotiate, or post publicly while you’re overwhelmed.
 
 ## What to do now
-1. **Find a safe pause and call for support.** If you are in immediate danger, call **911**. Otherwise, call the National Sexual Assault Hotline (RAINN) at **800-656-4673** or use their confidential online chat to find a facility with a Sexual Assault Nurse Examiner (SANE) or Sexual Assault Forensic Examiner (SAFE).
-2. **Go to a hospital with a specialized forensic program.** **Request a Sexual Assault Forensic Exam upon arrival.**
-   - If the facility does not have a SANE or SAFE on staff, ask for a medical screening and a transfer to a facility that does.
-3. **Request a confidential advocate immediately.** **Ask the hospital staff to call a local sexual assault advocate to join you before the exam begins.** They can explain your rights, provide emotional support, and help you navigate the process without pressuring you to report.
-4. **Clarify your reporting options.** **Tell the staff if you wish to have a "Non-Report" or "Anonymous" kit.** Under the Violence Against Women Act (VAWA), you have the right to a forensic exam and evidence collection at no cost even if you choose not to report to law enforcement today.
-5. **Preserve physical evidence.** **Place any items you were wearing or items used during the incident in clean paper bags.** Avoid plastic bags as they can trap moisture and degrade DNA evidence.
-6. **Follow the exam at your own pace.** **Remember that you are in control of the procedure and can stop, pause, or skip any part of the exam at any time.** This includes the physical exam, photos, or the interview.
+1. **Safety first:** If you’re in immediate danger or need urgent help, call **911**. If you’re safe but need immediate support while you decide, contact **RAINN** (phone or chat) and say: “I’m overwhelmed and considering a medical/forensic exam—can you help me find a place that can do it and connect me with an advocate?”
+2. **Go to the right place (without overthinking it):**  
+   - If you have serious injuries, severe pain, heavy bleeding, difficulty breathing, or feel medically unsafe: go to an **ER** or call **911**.  
+   - If you’re medically stable: ask an advocate/hotline for the nearest hospital/clinic with a **SANE/SAFE program** (forensic nurse/medical forensic exam).
+3. **If the first ER can’t do it, ask for the exact pathway:** “Do you have a SANE/SAFE program? If not, what’s your **transfer** process to a facility that does, and can you call the on-call advocate/forensic nurse program?”
+4. **Ask for an advocate before anything starts:** Say: “I want a sexual assault advocate. Please go slowly and explain each step before you do it.” If speaking is hard, show it on your phone.
+5. **Keep control with simple boundaries:** You can say yes/no to each part. Tell them: “I may pause or stop.” Ask them to note your consent choices in the chart.
+6. **If you may want the option of evidence later (optional):** If you can, avoid showering and keep any clothing/items from the incident in a **clean paper bag** (not plastic). If you’ve already washed or changed, go anyway—medical care and support still matter, and staff can tell you what’s still possible.
 
 ## What can wait
-- You do not need to decide whether to press charges or cooperate with a police investigation today.
-- You do not need to provide a complete or detailed narrative of the event immediately; basic information for medical care is the priority.
-- You do not need to worry about the cost of the forensic exam; it is covered by the state/federal government regardless of insurance.
-- You do not need to explain the situation to family, friends, or your employer right now.
+- You do **not** need to decide now whether to report to law enforcement.
+- You do **not** need to give a detailed narrative immediately—basic information can be enough to start care.
+- You do **not** need to answer messages, confront anyone, or explain this to family/employer right now.
+- You do **not** need to make long-term plans today; focus on getting supported and medically checked.
 
 ## Important reassurance
-It is normal to feel numb, confused, or physically overwhelmed. These reactions are your body’s way of processing a traumatic event and do not mean you are failing to handle the situation. You are allowed to take up space, ask questions, and take as much time as you need to make decisions about your body and your options.
+Overwhelm, numbness, confusion, and difficulty making decisions are common after suspected sexual assault. You’re allowed to take up space, ask for pauses, bring support, and choose only what feels manageable. Getting help does not take away your control—you can say yes, no, or “not yet.”
 
 ## Scope note
-This guide provides first-step stabilization and information on medical/forensic options in the immediate aftermath of a suspected assault. It does not cover long-term legal strategies, therapeutic recovery, or ongoing medical follow-up.
+This covers first steps only—stabilizing, getting support, and preserving options. Later choices (reporting, follow-up care, accommodations) can be made with specialist help when you have more steadiness.
 
 ## Important note
-The information provided is for general stabilization and is not a substitute for professional medical or legal advice. If you have serious injuries, go to the nearest emergency room immediately. Evidence collection is generally most effective within 72 to 120 hours (3 to 5 days), but care and support are available regardless of how much time has passed.
+This is general information, not medical or legal advice. If you are in danger, call 911. If you’re unsure where to go, an advocate or hotline can help you find local services and understand options without pressure.
 
 ## Additional Resources
 - https://rainn.org/2240/getting-a-sexual-assault-forensic-exam-safe/
-- https://rainn.org/help-and-healing/if-youve-been-assaulted/getting-medical-help-after-sexual-assault/
-- https://rainn.org/where-to-find-medical-care-after-sexual-assault/
-- https://rainn.org/dna-evidence-collection-testing-the-law/
-- https://rainn.org/help-and-healing/if-youve-been-assaulted/
+- https://www.justice.gov/ovw/sexual-assault-medical-forensic-examination-safe-information
+- https://www.justice.gov/ovw/media/1367191/dl?inline=
+- https://www.safeta.org/safe-protocol/
+- https://www.cdc.gov/std/treatment-guidelines/sexual-assault-adults.htm

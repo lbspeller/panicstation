@@ -1,87 +1,80 @@
----
+﻿---
 title: "What to do if… someone you are messaging suddenly asks for nude photos and says it is “just to build trust”"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "asked for nudes suddenly"
+  - asked for nudes suddenly
   - "just to build trust"
-  - "pressured to send nude photos"
-  - "online sexual coercion"
-  - "sextortion risk"
-  - "intimate image pressure"
-  - "messaging app nude request"
-  - "dating app nude request"
-  - "stranger asking for explicit photos"
-  - "someone i know asking for nudes"
-  - "threat to leak photos"
-  - "blackmail with intimate images"
-  - "image-based abuse fear"
-  - "coercive online relationship"
-  - "unsafe online sexual request"
-  - "anxious after nude request"
-  - "panic after sending a photo"
-  - "pressured for proof pictures"
-  - "help i am being blackmailed"
-  - "help i sent a nude"
-  - "what do i do if someone wants nudes"
-  - "what do i do if i am being coerced"
-  - "my online match wants nudes"
-  - "my boyfriend wants nudes for trust"
-  - "nude request on whatsapp"
-  - "sudden nude request on snapchat"
-  - "sexual blackmail help uk"
-  - "revenge porn helpline uk"
-  - "nudes building trust"
-  - "pressure for naked photos"
-  - "stopncii uk usage"
-  - "reporting sextortion to police"
-last_reviewed: "2026-03-17"
+  - pressured to send nude photos
+  - online sexual coercion
+  - sextortion risk
+  - intimate image pressure
+  - messaging app nude request
+  - dating app nude request
+  - stranger asking for explicit photos
+  - someone i know asking for nudes
+  - threat to leak photos
+  - blackmail with intimate images
+  - image-based abuse fear
+  - coercive online relationship
+  - unsafe online sexual request
+  - anxious after nude request
+  - panic after sending a photo
+  - pressured for “proof” pictures
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… someone you are messaging suddenly asks for nude photos and says it is “just to build trust” (UK)
 
 ## Short answer
-Do not send any images, stop responding to the request immediately, and do not delete the conversation history. If you are being threatened with the release of images, contact the police on 101 or 999 if you are in immediate danger.
+Do not send any nude or intimate images, and stop engaging with the request right now. Take a breath, keep what’s already been said, and move the conversation to safety: block and report if you need to.
 
 ## Do not do these things
-- Do not send any nude, semi-nude, or sexual images to "prove" your trust or to calm the other person down.
-- Do not pay any money, send gift cards, or provide bank details if the request turns into a threat or blackmail.
-- Do not delete the chat history or your social media account yet, as this may destroy evidence needed for a police report.
-- Do not screenshot an intimate image of yourself or anyone else if the person in the image is under 18, as this can be a criminal offence.
-- Do not negotiate with the person or try to explain why you are refusing.
-- Do not meet the person in real life to discuss the request or "sort things out."
+- Don’t send any nude, partially nude, or sexual images “to calm them down” or “prove trust”.
+- Don’t pay money, send gift cards, or agree to “one last photo” if they escalate into threats.
+- Don’t negotiate or argue to “win them over” if you feel pressured — it usually increases demands.
+- Avoid deleting the chat or your account if you might want help later (keeping it can help you report). If you already deleted things, you can still get help with whatever you remember.
+- Don’t share extra personal details (address, workplace, school, other social accounts) to reassure them.
+- Don’t meet up in person to “sort it out” if they suggest it.
 
 ## What to do now
-1. **Stop all communication with the person immediately and do not reply to further messages.** Even if they use aggressive language, threats, or claims of "broken trust," any engagement provides the person with more leverage.
-2. **Deactivate your social media accounts rather than deleting them if you feel overwhelmed.** Deactivation hides your profile from the public and the offender while preserving the data for police should you choose to report later.
-3. **Record the evidence by taking screenshots of the request, the user’s profile, their handle, and any threats made.** 
-   - Focus on the usernames and the text of the messages.
-   - Do not screenshot actual nude images of yourself or others if there is any chance the person is under 18.
-4. **Report the user to the platform or app using their internal safety and reporting tools.** Most apps have specific categories for "Sexual Harassment," "Exploitation," or "Blackmail." 
-5. **Use the StopNCII.org tool if you are over 18 and are worried an intimate image of you may be shared.** This tool allows you to create a digital "hash" (fingerprint) of the image on your own device so participating platforms can block it from being uploaded.
-6. **Contact the Revenge Porn Helpline at 0345 6000 459 if you are an adult needing support with image removal.** They provide specialist assistance for victims of non-consensual intimate image abuse in the UK.
-7. **Call 101 to report the incident to the police, or 999 if the person knows where you are and you feel in immediate danger.** 
-   - If you are in Scotland, call 101 to speak to Police Scotland.
-   - If you are in Northern Ireland, contact the PSNI.
-8. **Follow the "Report Remove" process on the Childline website if you are under 18.** This service, run by the IWF and Childline, helps minors remove sexual images or videos of themselves from the internet.
-9. **Report anonymously via Crimestoppers on 0800 555 111 if you want to provide information without giving your name.** This can help the police build a picture of offenders operating in your area.
+1. **Pause and name it:** treat “nudes to build trust” as a red flag for coercion or sextortion. You do not owe proof.
+2. **Stop the flow:** send one short boundary message (or none), then stop replying.  
+   - Example you can copy: “No. Don’t ask me for that again.”
+3. **Preserve what matters (light-touch):** if you can, **screenshot** the request, username, profile, and any threats. Keep dates/times visible.
+4. **Block and report in-app:** use the platform’s **report/safety** tools (harassment, sexual exploitation, blackmail, intimate image abuse) and then **block**.
+5. **If they already have an intimate image of you (or claim they do):**
+   - **Do not pay or comply.**
+   - Consider using **StopNCII.org** (for adults) to help prevent sharing on participating platforms.
+   - Get specialist help: contact the **Revenge Porn Helpline** (UK adults) for support and takedown guidance.
+6. **If you feel at immediate risk of harm:** call **999**. If it’s not immediate but you’re scared or being blackmailed, contact police via **101**.
+7. **Report if you want to (optional, your choice):**
+   - You can report online sextortion/blackmail via **Report Fraud** (the Action Fraud reporting service) if you live in England, Wales, or Northern Ireland.
+   - If you prefer not to give your name, you can report anonymously via **Crimestoppers**.
+8. **If you are under 18 (or the person targeted is under 18):**
+   - Tell a trusted adult now.
+   - You can report to the **NCA CEOP Safety Centre**.
+   - If an image has been shared (or you’re worried it might be), consider **Report Remove** (Childline/IWF) to help remove it.
 
 ## What can wait
-- You do not need to decide right now whether you want to go through a full criminal prosecution.
-- You do not need to explain to your friends or family why you have suddenly gone "offline" or deactivated your accounts.
-- You do not need to figure out if the person's profile was "real" or a "scam" before seeking help.
+- You do not need to decide today whether to “confront” them, warn others, or make a public post.
+- You do not need to write a perfect report or collect lots of evidence before getting help.
+- You do not need to figure out whether they were “real” or what their motives were — focus on stopping contact and protecting yourself.
 
 ## Important reassurance
-It is common to feel a sense of panic, shame, or "frozen" when someone uses your desire for a relationship to pressure you into sexual acts. Using the concept of "trust" to bypass boundaries is a documented tactic used by offenders to isolate victims. Your decision to stop communicating is a valid and protective step.
+Feeling shocked, embarrassed, or frozen is a normal response to sudden sexual pressure. People who use “trust” language to push boundaries are trying to bypass your instincts. You’re allowed to stop immediately, without explaining.
 
 ## Scope note
-This guide provides first-step stabilization for UK residents facing online sexual pressure or blackmail. It does not cover long-term legal proceedings or therapeutic recovery.
+These are first steps to stabilise and reduce harm. If threats continue, images are shared, or you feel unsafe, getting specialist support can help you choose next actions without doing anything irreversible.
 
 ## Important note
-This guide is for informational purposes only and is not legal advice. If you are being blackmailed (sextortion), the police treat this as a serious crime. If you are under 18, involve a trusted adult or professional immediately.
+This guide is general information for a stressful moment, not legal advice. If you are in immediate danger call 999. If you’re under 18 and sexual images are involved, get a trusted adult and specialist support involved as soon as you can.
 
 ## Additional Resources
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/sextortion-and-webcam-blackmail/
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/threats-to-share-intimate-images/
-- https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/kidnap-and-extortion/sextortion
-- https://www.met.police.uk/advice/advice-and-information/har/harassment-on-social-media/
-- https://www.gov.uk/guidance/understanding-and-reporting-online-harms-on-your-online-platform
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/
+- https://www.reportfraud.police.uk/sextortion/
+- https://www.met.police.uk/advice/advice-and-information/online-safety/online-safety/sextortion/sextortion-reporting-it-to-us/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/help-and-support/
+- https://revengepornhelpline.org.uk/
+- https://stopncii.org/
+- https://crimestoppers-uk.org/fearless/sextortion

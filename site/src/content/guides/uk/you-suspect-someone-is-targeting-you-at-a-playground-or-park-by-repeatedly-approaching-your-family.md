@@ -1,90 +1,72 @@
----
+﻿---
 title: "What to do if… you suspect someone is targeting you at a playground or park by repeatedly approaching your family"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "someone targeting family at playground"
-  - "repeatedly approaching family in park"
-  - "what do i do if someone follows us in the park"
-  - "what do i do if a stranger hovers near my kids"
-  - "what do i do if someone wont leave us alone at the playground"
-  - "what do i do if someone keeps talking to my child"
-  - "help i am being followed at the park"
-  - "help i am being watched at the playground"
-  - "help i feel unsafe at the park with kids"
-  - "help a stranger is approaching my children repeatedly"
-  - "my family is being targeted at a park"
-  - "my children are being watched by a stranger"
-  - "my walk in the park feels unsafe"
-  - "suspicious person at local playground"
-  - "unwanted approach by stranger in public"
-  - "person returning after being told no"
-  - "feeling followed in public garden"
-  - "targeted approach toward children"
-  - "stranger behavior at play area"
-  - "unusual attention from stranger at park"
-  - "repeatedly approaching children in park"
-  - "repeatedly approaching parents at playground"
-  - "repeatedly approaching family members in public"
-  - "targeting children at the park"
-  - "targeting parents at the playground"
-  - "suspicious stranger near swings"
-  - "creepy behavior near play equipment"
-  - "stranger wont stop coming near us"
-  - "feeling unsafe near children play area"
-  - "park safety for families"
-last_reviewed: "2026-03-17"
+  - someone keeps approaching my family
+  - suspicious person at playground
+  - being followed at the park
+  - stranger won’t leave us alone
+  - repeated unwanted approach in public
+  - person hovering near my children
+  - targeted at playground with kids
+  - family being watched in public
+  - creepy behaviour in the park
+  - harassment at playground
+  - feeling unsafe at a park
+  - stranger trying to talk to my child
+  - person returns after being told no
+  - playground safety concern
+  - park encounter won’t stop
+  - possible stalking in public place
+  - unsafe stranger around family
+  - play ground stranger approach
+last_reviewed: "2026-01-17"
 ---
-# What to do if… you suspect someone is targeting you at a playground or park by repeatedly approaching your family (UK)
 
+# What to do if… you suspect someone is targeting you at a playground or park by repeatedly approaching your family (UK)
 ## Short answer
-Move your family immediately to a staffed or crowded area and leave the site if possible. Call 999 if the person persists, escalates, or if you feel you cannot safely reach an exit.
+Move your family to a busier, more “staffed” place and leave the area if you can. If you feel in immediate danger or the person won’t stop, call 999.
 
 ## Do not do these things
-- Do not remain in the same spot to avoid "making a scene" if you feel unsafe.
-- Do not allow children to move out of your immediate reach or "line of sight" while you assess the situation.
-- Do not attempt to confront the person alone or follow them to "see where they go."
-- Do not share personal details including names, home address, or your child's school.
-- Do not use physical force to block the person unless it is a necessary last resort for self-defence.
-- Do not wait for "proof" of an intent to commit a crime before seeking assistance.
+- Do not stay put to “avoid making a scene” if your gut says it’s unsafe.
+- Do not let your children move out of arm’s reach while you decide what to do.
+- Do not confront the person alone, follow them, or try to physically block them.
+- Do not argue or explain personal details (names, school, routines, where you live).
+- Do not post about it publicly in real time (it can reveal your location).
+- Do not assume you need “proof” before you can ask for help.
 
 ## What to do now
-1. **Move to a "high-visibility" area immediately.** Gather your children and belongings and walk toward the busiest part of the park, such as a café, park office, or a large group of people.
-   - Put yourself physically between the person and your children.
-   - Keep buggies or strollers on your "exit side" rather than between you and the person.
-2. **State a single, clear boundary once.** If the person approaches again, say in a firm, audible voice: **"Please stop approaching us and do not speak to my children."** 
-   - Do not enter into a conversation or explain why you are asking. 
-   - Your goal is to signal to bystanders that the interaction is unwanted.
-3. **Involve a third party for support.** Approach a staff member, park warden, or another group of adults and clearly state: **"I feel unsafe; please stay with us while I call for help / while we leave."**
-   - If there is a park office or "manned" gatehouse, go inside and ask them to lock the door behind you.
-4. **Determine the correct police contact method.** 
-   - **Call 999** if the person is following you, making threats, attempting to touch a child, or blocking your exit.
-   - **Use the "Silent Solution"** if you are on a mobile and cannot speak safely: dial 999 and, when prompted by the automated system, press 55 to alert the operator that your emergency is genuine.
-   - **Call 101 or report online** if you have reached a safe place and want to log the incident as a pattern of suspicious behavior.
-5. **Request CCTV preservation if available.** Ask park staff or the local council (the data controller) to verify if the area is covered by CCTV.
-   - Note that you have a legal right to submit a **Subject Access Request (SAR)** under the Data Protection Act 2018 for footage of yourself.
-   - Inform the police if you believe CCTV has captured the person's behavior so they can request the footage officially.
-6. **Record descriptions from a safe distance.** Once you are in a secure or crowded spot, note the person's physical description, clothing, and any vehicle details (make, model, colour, or registration).
-   - Only take photos or videos if it can be done without provoking the person or slowing your exit.
+1. **Create distance immediately (without drama).** Gather your children close, pick up bags/coats, and move toward a **busier area** (near the café, park office, entrance, or a cluster of other adults). If you can, **leave the park** and go somewhere public and staffed.
+2. **Keep children “inside your body line.”** Put yourself between the person and your children. If you have a buggy, keep it on your side (not between you and the exit). Hold hands or use a firm “stand right next to me” instruction.
+3. **Use a short, clear boundary line once.** In a normal voice: **“Please stop approaching us. Do not speak to my children.”** Then stop engaging. Your goal is not to convince them — it’s to make your boundary obvious to any witnesses.
+4. **Bring another adult into it.** Approach a nearby parent/group and say: **“I don’t feel safe — can you stay with us while we leave / while I call the police?”** If there’s staff/wardens, go directly to them and ask them to **stay with you** while you exit.
+5. **Decide whether this is 999 or 101 (or online).**
+   - **Call 999** if you feel in immediate danger, the person is escalating, won’t let you leave, is trying to separate a child from you, is making threats, or you think a crime is in progress.
+   - **Call 101** (or report via your local police website) if you’re safe now but the behaviour is repeated and concerning, and you want advice or to log/report it.
+   - **If you can’t safely talk**, still call 999 and stay on the line; the operator can guide you.
+6. **Note details while you’re moving away.** Quickly note (on your phone) **time, exact location, what they did/said, description**, and any **vehicle details** (make/model/colour/registration) if visible. If it’s clearly safe, you can take a photo/video **from a distance** — but don’t do anything that slows your exit or provokes them.
+7. **If the park has CCTV or staff, ask for practical help.** Ask staff/wardens to (a) **walk with you to the exit**, (b) **note the incident in their log**, and (c) tell you whether **CCTV** covers the area and **how footage is requested/retained** (police may need to request it).
+8. **After you’re away, write a short incident log.** As soon as you’re calm enough, write 5–10 lines: what happened, where, when, who was present, what you said, and what the person did next. If it happens again, this record helps you report a pattern clearly.
 
 ## What can wait
-- Deciding whether the behavior meets the legal definition of a crime—the police will determine this.
-- Investigating the person's identity or motives.
-- Posting about the incident on social media or local community groups.
-- Looking up park byelaws or specific local council safety policies.
+- Deciding whether this “counts” as stalking or harassment — you can still report repeated unwanted approaches.
+- Trying to identify who the person is or why they’re doing it.
+- Writing a long statement or searching laws online.
+- Posting warnings on local groups or confronting the person publicly.
 
 ## Important reassurance
-It is a normal and appropriate response to feel startled or protective when a stranger repeatedly approaches your family. Taking immediate steps to create distance and involve others is a standard safety protocol and does not require you to "prove" the person's intentions first.
+It’s reasonable to treat repeated unwanted approaches around your family as a safety issue. You are allowed to move away, involve other adults, and contact the police even if you’re not 100% sure what the person intends.
 
 ## Scope note
-This guide provides first-step stabilization for an immediate encounter in a public park. It does not cover long-term protective orders or ongoing investigation procedures.
+These are first steps for the next minutes and hours — to create distance, get support, and make a clear, usable report if needed. If the behaviour continues over days/weeks, you may want specialist advice and a longer safety plan.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. In any situation where you believe there is an immediate risk of harm, contact emergency services by dialing 999.
+This is general information, not legal advice. If you believe you or your children are in immediate danger, call 999.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/law-and-courts/discrimination/taking-action-about-discrimination/taking-action-about-harassment/
-- https://www.suzylamplugh.org/stalking-help-and-advice
-- https://www.victimsupport.org.uk/crime-info/types-crime/stalking-and-harassment/
-- https://www.gov.uk/report-stalker
-- https://www.met.police.uk/contact/af/contact-us-beta/contact-us/report-crime-incident-suspicion/report-crime/
+- https://www.gov.uk/contact-police
+- https://www.police.uk/pu/contact-us/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
+- https://www.avonandsomerset.police.uk/report/harassment-and-stalking/
+- https://www.legislation.gov.uk/ukpga/1997/40/contents

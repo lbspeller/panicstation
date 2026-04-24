@@ -1,94 +1,106 @@
----
+﻿---
 title: "What to do if… you are being harassed online and you are worried it could become in-person targeting"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "online harassment"
-  - "cyberstalking"
-  - "targeted online abuse"
-  - "doxxing fears"
-  - "someone posted my address online"
-  - "threats to come to my home"
-  - "worried it will become in person"
-  - "anonymous threats online"
-  - "harassment on social media"
-  - "fake accounts targeting me"
-  - "impersonation online"
-  - "leaked phone number"
-  - "location sharing risk"
-  - "stalking escalation worries"
-  - "harassment from strangers"
-  - "coordinated pile on"
-  - "malicious hoax emergency call"
-  - "screenshot evidence"
-  - "stop engaging with harasser"
-  - "cyberstalking uk"
-  - "help i am being stalked online"
-  - "help i am being doxxed"
-  - "help i am being harassed"
-  - "what do i do if someone is threatening me online"
-  - "what do i do if my address is leaked"
-  - "what do i do if someone is following me online"
-  - "what do i do if i am being harassed on social media"
-  - "smell of burning plastic"
-  - "visible smoke"
-  - "unusual heat"
-  - "sudden noise"
-  - "persistent unwanted messages"
-  - "unauthorised login alerts"
-  - "suspicious account activity"
-  - "being watched"
-  - "followed home"
-  - "threats to harm"
-  - "malicious communications"
-last_reviewed: "2026-03-17"
+  - online harassment
+  - cyberstalking
+  - targeted online abuse
+  - doxxing fears
+  - someone posted my address online
+  - threats to come to my home
+  - worried it will become in person
+  - anonymous threats online
+  - harassment on social media
+  - fake accounts targeting me
+  - impersonation online
+  - leaked phone number
+  - location sharing risk
+  - stalking escalation worries
+  - harassment from strangers
+  - coordinated pile on
+  - malicious hoax emergency call
+  - screenshot evidence
+  - stop engaging with harasser
+last_reviewed: "2026-01-11"
 ---
-# What to do if… you are being harassed online and you are worried it could become in-person targeting (UK)
 
+# What to do if… you are being harassed online and you are worried it could become in-person targeting (UK)
 ## Short answer
-Assess your immediate physical safety and call 999 if you believe a harasser is at your location or in transit to you. Secure your digital footprint by locking down accounts and preserving evidence through screenshots and URL logs without engaging the harasser.
+Treat this like a safety situation: stabilise, reduce what they can learn about you, and start a clean evidence trail. If you believe there’s an immediate risk to you (or someone is trying to find you right now), call 999 (or 112).
 
 ## Do not do these things
-- Don’t respond to, negotiate with, or "bait" the harasser (interaction often provides them with more personal data or psychological leverage).
-- Don’t post your current location, workplace, travel plans, or images of your home / street.
-- Don’t delete the harassing content or your accounts until you have securely saved the evidence and metadata.
-- Don’t click any links, attachments, or "proof" files sent by the harasser, as these may contain IP-trackers or malware.
-- Don’t meet the harasser in person to "clear things up" or resolve the dispute.
+- Don’t reply to the harasser to “set boundaries”, argue, negotiate, or threaten back (it can escalate and creates more material to use against you).
+- Don’t post your location, routine, workplace/school details, travel plans, or “proof you’re fine”.
+- Don’t delete everything in a panic before you’ve saved evidence — **save first, then lock down**.
+- Don’t agree to meet them, “talk it out”, or click links they send (including “dox” links or “proof” links).
+- Don’t assume it’s “just online” if they mention your real name, area, workplace/school, family, or any identifying details.
 
 ## What to do now
-1. **Assess your immediate physical surroundings for signs of tracking or presence.** If you believe you are being watched, followed, or have received a credible threat that someone is coming to your home or workplace right now, get to a secure area and call 999.
-   - If you cannot speak, call 999 and press 55 when prompted (the "Silent Solution").
-2. **Secure your physical location and notify a trusted contact.** Contact a friend, family member, or neighbor and inform them that you are being targeted so they can stay reachable.
-   - If you are at work or a managed building, inform security or reception so they do not confirm your presence or grant access to unknown visitors.
-3. **Capture a comprehensive log of the harassment including metadata.** Take screenshots of all messages, posts, and comments, ensuring the platform timestamp and the harasser’s full username or profile ID are visible.
-   - Copy and save the direct URLs to the harasser's profile and the specific offending posts.
-4. **Isolate your digital presence by adjusting privacy settings.** Change your account settings to "Private" or "Friends Only" and disable the ability for strangers to tag you or message you.
-   - Review and remove any bio information that lists your employer, school, hometown, or daily routine.
-5. **Secure your primary communication accounts immediately.** Change the password for your primary email account and enable Two-Factor Authentication (2FA) using an app rather than SMS if possible.
-   - Use the "Sign out of all other sessions" feature on social media platforms to ensure no one else has access.
-6. **Report the harassment through official law enforcement channels.** Contact the police on 101 or via their online reporting tool for non-emergencies to create an incident record.
-   - If the harassment is motivated by your race, religion, sexual orientation, disability, or transgender identity, report it as a Hate Crime via the True Vision website (report-it.org.uk).
-7. **Contact specialist stalking support services for a safety plan.** Reach out to the National Stalking Helpline (0808 802 0300) for expert advice on managing fixated behavior.
-   - Note their hours: Mon / Wed 09:30–20:00; Tue / Thu / Fri 09:30–16:00.
+1. **Do a quick safety check (30–60 seconds).**  
+   If you think they know where you are *right now*, you’re being watched/followed, or you’ve received a credible “I’m coming to you” threat: get to a safer place (indoors, with other people), and call **999 (or 112)**.
+
+2. **Bring one real-world person into it (and one place).**  
+   Message/call someone you trust and say: “I’m being harassed online and I’m worried it could become in-person. Please stay reachable.”  
+   If you’re at work/school or in a building with reception/security, tell them **today**: ask them not to confirm your presence, not to let unknown visitors through, and to call you (or the police) if someone asks for you.
+
+3. **Start an incident log (simple, not perfect).**  
+   In your notes app or on paper, keep: date/time, platform, account name/URL, what happened, and why it felt threatening (e.g., “mentioned my street”, “posted my workplace”). This helps you explain the *pattern* clearly.
+
+4. **Capture evidence before you change anything.**  
+   - Screenshot messages/posts **including usernames, dates/times, and the full context where possible**.  
+   - Copy profile links/URLs.  
+   - Keep originals (emails, DMs, voicemails).  
+   Save it somewhere you can find again, and back it up if you can.
+
+5. **Reduce what they can learn about you (fast privacy sweep).**  
+   - Make accounts private (or restrict who can message/comment).  
+   - Remove workplace/school, hometown, relationship links, “check-ins”, and anything revealing your routine.  
+   - Turn off location sharing and stop automatic geo-tagging on photos.  
+   - Ask friends/family **not** to tag you, share your location, or engage with the harasser.
+
+6. **Secure your accounts (start with email).**  
+   - Change your email password first, then key social accounts.  
+   - Turn on **2-step verification** where you can.  
+   - Check recovery options (old phone numbers/emails) and remove anything you don’t control.  
+   - Sign out of other sessions/devices if the service allows it.
+
+7. **Report it in-platform (after you’ve saved evidence).**  
+   Report the specific threats/doxxing/impersonation posts and messages, not just the profile. After evidence is saved, use mute/restrict/block tools as best fits your situation.
+
+8. **If personal details are being shared (doxxing), start takedown requests.**  
+   - Report the doxxing to the platform immediately.  
+   - Contact the site hosting your address/phone number and ask for removal.  
+   - If an organisation is holding/publishing your personal data, you can **ask** for deletion under the UK “right to erasure” — it isn’t automatic and won’t apply in every case, but it can be worth making the request. Keep copies of what you asked for and when.
+
+9. **Contact the police if there are threats, stalking behaviour, or escalation signs.**  
+   - If it’s an emergency, call **999 (or 112)**.  
+   - If it’s not an emergency, call **101** (or report online via your local force) and explain you’re worried about escalation to in-person targeting.  
+   Use your incident log to summarise: “This has happened X times over Y days; they’ve mentioned A/B; I’m afraid they may come to my home/work.” Ask for a reference number and add new incidents to the same report.
+
+10. **Get specialist support if this feels like stalking.**  
+   If the behaviour is persistent, fixated, or frightening, contact the **National Stalking Helpline** for practical safety advice (phone: **0808 802 0300**, or via their online form).
 
 ## What can wait
-- You do not need to decide whether to permanently delete your social media presence right now.
-- You do not need to respond to "accusations" or "claims" made by the harasser to defend your reputation today.
-- You do not need to research the harasser's identity yourself; leave investigation to the police.
-- You do not need to start a formal legal "Right to Erasure" request for general data until your immediate safety is stabilized.
+- You do **not** need to decide right now whether to keep your accounts, change your phone number, move home, or take legal action.
+- You do **not** need to “prove” anything to the harasser or to strangers online.
+- You can postpone deep clean-up (old posts, old accounts, broader data removal) until you’re calmer and supported.
 
 ## Important reassurance
-It is normal to feel hyper-vigilant, anxious, or overwhelmed when someone is attempting to bridge the gap between the internet and your physical life. Taking these steps is a rational response to a threat and does not mean you are "letting them win" or being paranoid.
+Feeling panicked or hyper-alert is a normal response to targeted harassment. You’re not overreacting by taking practical steps early—especially when someone is trying to frighten you or make you feel reachable in real life.
 
 ## Scope note
-This guide provides first-step stabilization only. It focuses on immediate physical safety and digital containment. Professional threat assessment or legal advice may be required for long-term resolution.
+This is first steps only: stabilise, reduce exposure, preserve evidence, and connect to the right support. Later decisions may need specialist help.
 
 ## Important note
-If you are in immediate danger, call 999. This guide is for informational purposes and does not constitute legal or professional security advice.
+This guide is general information, not legal advice. If you believe you’re in immediate danger, call 999 (or 112). If you’re unsure whether something counts as an emergency, it’s still okay to contact the police for guidance.
 
 ## Additional Resources
-- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/protection-from-online-stalking-and-harassment/
+- https://www.gov.uk/contact-police
+- https://www.gov.uk/guidance/999-and-112-the-uks-national-emergency-numbers
+- https://www.gov.uk/report-stalker
 - https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
-- https://www.suzylamplugh.org/how-can-the-helpline-help
-- https://www.suzylamplugh.org/am-i-being-stalked-tool
-- https://www.victimsupport.org.uk/crime-info/types-crime/stalking-and-harassment/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/protection-from-online-stalking-and-harassment/
+- https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely
+- https://ico.org.uk/for-the-public/your-right-to-get-your-data-deleted/
+- https://www.suzylamplugh.org/pages/category/national-stalking-helpline

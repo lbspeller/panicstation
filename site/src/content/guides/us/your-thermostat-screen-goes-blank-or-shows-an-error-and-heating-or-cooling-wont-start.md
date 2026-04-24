@@ -1,99 +1,89 @@
----
+﻿---
 title: "What to do if… your thermostat screen goes blank or shows an error and heating or cooling won’t start"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - "thermostat screen blank"
-  - "thermostat error code"
-  - "furnace not starting"
-  - "ac not starting"
-  - "no heat thermostat dead"
-  - "thermostat not turning on"
-  - "hvac lost power"
-  - "thermostat batteries dead"
-  - "smart thermostat offline"
-  - "thermostat black screen"
-  - "breaker tripped hvac"
-  - "furnace won't turn on"
-  - "air handler not running"
-  - "condensate float switch"
-  - "carbon monoxide alarm"
-  - "smell gas in home"
-  - "thermostat reset"
-  - "heating cooling won't start"
-  - "hvac safety shutoff"
-  - "what do i do if my thermostat is blank"
-  - "what do i do if the ac won't turn on"
-  - "what do i do if my furnace screen is black"
-  - "what do i do if my thermostat has an error"
-  - "help i have no heat"
-  - "help my thermostat screen died"
-  - "my furnace won't kick on"
-  - "my thermostat is unresponsive"
-  - "smell of rotten eggs"
-  - "chirping co alarm"
-  - "water in furnace pan"
-  - "blown hvac fuse"
-  - "hvac switch off"
-  - "furnace door open"
-  - "thermostat wire loose"
-last_reviewed: "2026-03-17"
+  - thermostat screen blank
+  - thermostat error code
+  - furnace not starting
+  - ac not starting
+  - no heat thermostat dead
+  - thermostat not turning on
+  - hvac lost power
+  - thermostat batteries dead
+  - smart thermostat offline
+  - thermostat black screen
+  - breaker tripped hvac
+  - furnace won’t turn on
+  - air handler not running
+  - condensate float switch
+  - carbon monoxide alarm
+  - smell gas in home
+  - thermostat reset
+  - heating cooling won’t start
+  - hvac safety shutoff
+last_reviewed: "2026-03-03"
 ---
-# What to do if… your thermostat screen goes blank or shows an error and heating or cooling won’t start (USA)
 
+# What to do if… your thermostat screen goes blank or shows an error and heating or cooling won’t start (USA)
 ## Short answer
-Evacuate immediately if you smell gas or hear a CO alarm, otherwise check thermostat batteries and the HVAC circuit breaker once. If the screen remains blank after one reset, professional service is required to address potential safety shut-offs or electrical failures.
+Assume it’s a power or safety shut-off first: stop repeated resets, check batteries and HVAC power, and if there’s any gas smell or a carbon monoxide alarm, get outside and call 911 and/or your gas utility’s emergency number.
 
 ## Do not do these things
-- Don't attempt to "jump" or bypass thermostat wiring to force the system to start.
-- Don't reset a circuit breaker more than once if it immediately trips again.
-- Don't stay inside the building to investigate a "rotten egg" smell or a sounding CO alarm.
-- Don't remove the internal panels of the furnace or air handler if you are not a licensed technician.
-- Don't ignore a blank screen, as it may indicate a safety lockout designed to prevent fire or flooding.
+- Don’t keep flipping the system on/off or doing repeated resets.
+- Don’t bypass safety devices or “jump” thermostat wires to force the unit to run.
+- Don’t keep resetting a breaker that won’t stay on.
+- Don’t touch switches/breakers if you smell gas or a CO alarm is sounding—leave first.
 
 ## What to do now
-1. **Prioritize immediate safety before investigating the equipment.** **If you smell natural gas (rotten eggs) or a carbon monoxide (CO) alarm is sounding, evacuate all occupants and pets immediately.**
-   - Do not touch any light switches, phones, or electrical outlets inside the home.
-   - Call **911** and your **gas utility's emergency line** only once you are a safe distance away from the property.
-   - Do not re-enter the building until emergency responders declare it safe.
+1. **Check for immediate danger first (before touching switches).**
+   - If you **smell gas** or suspect a leak: leave the home, get to fresh air, then call **911** and/or your **gas utility’s emergency number** from a safe location.
+   - If a **carbon monoxide (CO) alarm** sounds: move outside to fresh air and call **911** (or your local fire department). Do not re-enter until responders say it’s safe.
 
-2. **Replace the thermostat batteries with a fresh set of alkaline batteries.** **Many digital thermostats rely on battery power even if they are wired to the home's electrical system.**
-   - Ensure the batteries are oriented correctly according to the markings in the compartment.
-   - If the thermostat has a removable faceplate, ensure it is snapped firmly back onto its wall base.
+2. **Restore thermostat power (fastest fix).**
+   - Replace thermostat batteries with **fresh** ones (even if you replaced them recently).
+   - If the thermostat snaps onto a baseplate, press it firmly back into place.
+   - If it’s a smart thermostat: confirm any receiver/equipment module has power and the outlet hasn’t been switched off.
 
-3. **Check the HVAC system’s dedicated circuit breaker and service switch.** **Locate your electrical panel and look for a breaker labeled HVAC, Furnace, or AC that may be in the "off" or "tripped" (center) position.**
-   - Flip a tripped breaker fully to OFF and then back to ON exactly once.
-   - Check the service switch near the furnace or air handler (often a toggle switch that looks like a light switch) and ensure it is in the ON position.
-   - Ensure the furnace blower door is closed completely, as most units have a safety switch that cuts power if the door is ajar.
+3. **Confirm your HVAC system has power (only if there’s no gas/CO concern).**
+   - Check your electrical panel for a tripped breaker labeled **Furnace / Air Handler / HVAC / AC**.
+   - Look for a nearby wall switch by the furnace/air handler (often looks like a light switch) and make sure it’s ON.
 
-4. **Inspect the condensate drain line or safety float switch if accessible.** **A clogged drain line often triggers a safety float switch that cuts 24V power to the thermostat to prevent water damage.**
-   - Look for a small plastic switch on the drain line or in the emergency pan under the unit.
-   - If you see standing water in the pan or the switch is floating, the system requires a drain line clearing.
+4. **If the thermostat shows an error code, capture it.**
+   - Take a photo of the thermostat error message/code.
+   - If the furnace/air handler has a display window or diagnostic light visible without removing panels, note what you can see (don’t open anything).
 
-5. **Document any visible error codes or diagnostic lights.** **If the screen flickers or displays a code, take a clear photograph of the message.**
-   - Look through the small sight glass on the furnace door for a blinking LED light and count the sequence (e.g., two long blinks, three short blinks).
-   - Provide these codes to the HVAC technician to speed up the diagnostic process.
+5. **Try one clean restart (once).**
+   - After restoring power/batteries, wait **2–5 minutes** for the thermostat to boot and call for heating/cooling.
+   - If you reset a breaker, give the system a few minutes—some equipment has built-in start delays.
 
-6. **Allow the system 5 to 10 minutes to complete a startup cycle.** **Many modern HVAC systems and smart thermostats have built-in time delays to protect the compressor or heat exchanger.**
-   - If the screen remains blank or the system does not start after 10 minutes, turn the system to OFF at the thermostat and call for service.
+6. **If it still won’t run, assume a safety shut-off and stop restarting.**
+   - Common examples include a **condensate overflow/float switch** (clogged drain) or an internal safety lockout.
+   - The safe move is to stop resets and call HVAC service, especially if the breaker trips again or you see repeated error codes.
+
+7. **Stabilise safely while you wait.**
+   - Heat: use layers/blankets and close doors to concentrate warmth in one room.
+   - Cooling: shade windows, use fans, and stay hydrated.
+   - Do not run grills, generators, or other fuel-burning devices indoors.
 
 ## What can wait
-- You do not need to determine the specific mechanical cause of the failure (e.g., bad inducer motor vs. blown capacitor) right now.
-- You do not need to decide on a system replacement while in an emergency state.
-- You do not need to worry about Wi-Fi connectivity or app settings if the physical screen is dead.
+- You do **not** need to decide now whether the thermostat needs replacement.
+- You do **not** need to open the furnace/air handler, touch wiring, or troubleshoot beyond batteries and obvious power checks.
+- You do **not** need multiple resets—one restart is enough before you escalate.
 
 ## Important reassurance
-A blank thermostat is a very common occurrence, often caused by a simple safety feature doing its job. By stopping after one reset and checking for power, you are preventing expensive damage to your HVAC components and ensuring your home remains safe from electrical hazards.
+A blank thermostat screen is often a simple loss of power (dead batteries or HVAC low-voltage power being cut). Taking a photo of any codes and avoiding repeated resets helps prevent worsening a lockout and speeds up repair.
 
 ## Scope note
-This guide is for first-step stabilization and safety screening only. It does not cover technical repairs, wiring diagnostics, or gas manifold adjustments, which must be performed by a certified HVAC professional.
+This is first-step guidance to get you safely back to heating/cooling or to a clear handoff to HVAC service. Repeated lockouts, breaker trips, gas smells, or CO alarms need urgent, qualified help.
 
 ## Important note
-This information is for general guidance and does not replace the expertise of emergency responders or licensed HVAC contractors. Always prioritize life safety and evacuation in the event of suspected gas leaks or carbon monoxide presence.
+This is general information, not professional advice. If you smell gas or a CO alarm sounds, prioritize getting outside and contacting emergency services and/or your gas utility.
 
 ## Additional Resources
-- https://www.energy.gov/energysaver/common-air-conditioner-problems
-- https://docs.honeywellhome.com/focuspro-p200-s200-im/en-us/Content/Installation-Manual/Troubleshooting%20and%20Support.htm
-- https://www.honeywellhome.com/blogs/support/why-is-my-thermostat-screen-not-powering-up
-- https://support.google.com/googlenest/answer/9233319?hl=en
-- https://support.google.com/googlenest/answer/9235232
+- https://www.cdc.gov/carbon-monoxide/about/index.html
+- https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Carbon-Monoxide-Questions-and-Answers
+- https://www.nationalgridus.com/Upstate-NY-Home/Natural-Gas-Safety/report-a-gas-emergency
+- https://portal.ct.gov/pura/gas-pipeline-safety/what-to-do-if--you-smell-natural-gas
+- https://www.socalgas.com/safety/safety-and-prevention/natural-gas-leak
+- https://5579f1f5-6613-4344-958e-336e9eddb5bd.usrfiles.com/ugd/801803_1af53b4f31654e34b28a5b5a1e20d800.pdf?index=true

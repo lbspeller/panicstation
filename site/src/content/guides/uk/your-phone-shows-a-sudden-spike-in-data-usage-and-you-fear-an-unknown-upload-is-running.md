@@ -1,93 +1,93 @@
----
+﻿---
 title: "What to do if… your phone shows a sudden spike in data usage and you fear an unknown upload is running"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "phone touchscreen not responding"
-  - "touch screen stopped working"
-  - "screen taps not registering"
-  - "phone on but can’t unlock"
-  - "phone frozen touch input"
-  - "touch not working after drop"
-  - "touchscreen dead but phone works"
-  - "can’t enter passcode touchscreen"
-  - "locked out because screen unresponsive"
-  - "need 2fa code but screen broken"
-  - "need banking app but screen won’t work"
-  - "need boarding pass on phone"
-  - "need authenticator but screen won’t respond"
-  - "phone screen not responding to touch"
-  - "iphone touch not working"
-  - "android touch not working"
-  - "touchscreen intermittent response"
-  - "phone still rings but no touch"
-  - "urgent access to accounts on phone"
-  - "help i can't touch my phone"
-  - "my screen is frozen but phone is on"
-  - "what do i do if my touch screen is broken"
-  - "help my iphone screen is not responding"
-  - "help my android screen is not responding"
-  - "cannot unlock phone touch dead"
-  - "unresponsive display on smartphone"
-  - "screen digitizer failure symptoms"
-  - "ghost touching phone screen"
-  - "black screen but phone vibrates"
-  - "using mouse with broken phone screen"
-last_reviewed: "2026-03-17"
+  - phone sudden data spike
+  - unexplained mobile data usage
+  - unknown upload running
+  - background data draining
+  - suspected malware on phone
+  - phone hacked fear
+  - rogue app using data
+  - iPhone cellular data spike
+  - android data usage spike
+  - mobile hotspot left on
+  - cloud backup using data
+  - google photos backup data
+  - icloud upload using data
+  - vpn app using data
+  - wi-fi assist using data
+  - carrier account compromised
+  - sim swap warning signs
+  - data usage bill shock
+  - device security check
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your phone shows a sudden spike in data usage and you fear an unknown upload is running (UK)
 
+# What to do if… your phone shows a sudden spike in data usage and you fear an unknown upload is running (UK)
 ## Short answer
-Use a separate computer or tablet to sign into your primary email and cloud accounts immediately to ensure you can still access your data and security codes from outside the unresponsive device. Do not attempt a factory reset, as this may permanently lock you out of accounts that require the phone for verification.
+Stop the connection first: put the phone in Airplane mode (or switch off mobile data) to halt any upload, then check which app/system service used the data before you delete anything.
 
 ## Do not do these things
-- Don't keep repeatedly tapping or "mashing" the screen, as this can trigger emergency calls or cause a security lockout from too many wrong passcode attempts.
-- Don't sign out of your Apple or Google account on other devices; you may need those existing sessions to regain access or change security settings.
-- Don't apply heavy pressure or heat to the screen, especially if the device is bent, cracked, or looks swollen.
-- Don't perform a factory reset via hardware buttons if you still have unsynced data or rely on that phone for Two-Factor Authentication (2FA).
-- Don't attempt to "clean" the screen with liquid if there is a risk it has seeped into cracks.
+- Don’t factory reset, wipe the phone, or delete apps straight away (you can destroy clues and lose access to accounts you’ll need).
+- Don’t keep “testing” by turning data on/off repeatedly while you’re panicking (it can let a real upload continue in bursts).
+- Don’t install “data saver/cleaner/security” apps from ads or pop-ups that claim they’ve found the upload and can stop it instantly.
+- Don’t click links in unexpected texts/emails about “data usage”, “account locked”, “new SIM”, or “security alert”.
+- Don’t assume it’s definitely a hack — cloud backups, app updates, hotspot/tethering, and OS downloads can look scary.
 
 ## What to do now
-1. **Move your primary account control to a different hardware device immediately.** **Use a laptop, tablet, or another smartphone to log into your primary email and password manager.**
-   - Confirm you can still receive security alerts or reset links on this secondary device.
-   - Access web-based versions of the apps you need (e.g., online banking, airline websites for boarding passes, or cloud-based notes).
-
-2. **Retrieve your emergency backup codes for account recovery.** **Search your email or physical records for 2FA "backup codes" or "recovery keys" that you may have saved when setting up your accounts.**
-   - These codes allow you to log into accounts on new devices without needing the code from the unresponsive phone's authenticator app.
-
-3. **Perform a safe hardware-only force restart to rule out a software freeze.** **Trigger a reboot using the specific physical button combination for your device model, which does not require the touchscreen.**
-   - **iPhone (Face ID models):** Press and quickly release Volume Up, press and quickly release Volume Down, then hold the Side button until the Apple logo appears.
-   - **Samsung Galaxy:** Press and hold the Power / Side button and Volume Down simultaneously for about 10–15 seconds.
-   - **Google Pixel (6 and later):** Press and hold the Power button and Volume Up simultaneously for about 15 seconds.
-
-4. **Attempt a non-touch control workaround using a USB mouse if using an Android device.** **Connect a standard wired USB mouse to your phone's charging port using a USB-OTG (On-The-Go) adapter.**
-   - If supported, a cursor will appear on the screen, allowing you to click icons and enter your PIN to perform a final backup or export data.
-   - Note: This rarely works on iPhones unless "AssistiveTouch" was previously enabled.
-
-5. **Remove any external physical barriers that might interfere with the touch sensors.** **Take the phone out of its case and carefully peel off any plastic or glass screen protector.**
-   - Dirt or moisture trapped under a protector can sometimes cause the digitizer to stop registering legitimate touches.
-
-6. **Record the exact date of the failure for your UK consumer rights.** **Write down when the fault started and keep your original proof of purchase handy.**
-   - Under the Consumer Rights Act 2015, you have a 30-day "short-term right to reject" faulty goods for a full refund if the phone was bought very recently.
-   - If you are past 30 days but within 6 months, the retailer is generally required to offer a repair or replacement unless they can prove the fault was not present at the time of delivery.
+1. **Freeze the situation (30 seconds).**  
+   Turn on **Airplane mode**. Then separately confirm **Mobile Data is off** and **Personal Hotspot/tethering is off** (hotspot can quietly burn data).
+2. **If you must stay reachable, use a safer connection.**  
+   Keep Airplane mode on, then turn **Wi-Fi on only** and connect to a trusted network. Avoid public Wi-Fi if you can.
+3. **Find what used the data (don’t guess).**  
+   - **iPhone:** Settings → **Cellular/Mobile Data** → scroll to see **per-app usage** and any system items (for example Wi-Fi Assist).  
+   - **Android (varies by model):** Settings → **Network & Internet/Connections** → **Data usage** → **App data usage** (or similar).  
+   Note the top 1–3 items and whether the spike is **today** or over several days.
+4. **Rule out the common “big hitters” quickly.**  
+   Check for:  
+   - **Cloud photo/video backup** (iCloud Photos / Google Photos) uploading on mobile data  
+   - **App updates** over mobile data  
+   - **System update** download  
+   - **Streaming** left running in background (music/video)  
+   - **Hotspot/tethering** used by another device  
+5. **Stop that specific source without deleting it yet.**  
+   - Turn **mobile data off for that app** (iPhone per-app toggle in Cellular; Android restrict background data / disallow mobile data where available).  
+   - Turn on **Low Data Mode** (iPhone) or **Data Saver** (Android) to reduce background transfers.  
+6. **If the top item is “VPN”, “unknown”, or an app you don’t recognise, contain it.**  
+   - Force close the app.  
+   - Turn off its **mobile data** access (and background data).  
+   - Disconnect any VPN you didn’t intentionally enable. If your phone shows a section like **“VPN”** or **“Device Management/Profiles”** and you’re not sure what it is, keep the phone disconnected while you verify what it’s for (work/school devices may legitimately use management profiles).
+7. **Check for signs your mobile account (not just the phone) is being attacked.**  
+   Look for **loss of signal**, “SIM changed”, “number moved”, or you suddenly can’t receive calls/texts. If any of these are true, **use another phone** and contact your mobile provider’s fraud/security team to lock the account.
+8. **Protect your logins if there are any takeover signs.**  
+   If you see password reset emails/texts you didn’t request, or accounts logging in from new devices: change the password for your **email first**, then key accounts. Avoid SMS-only verification where you can.
+9. **If you received scam texts related to this, report them.**  
+   Forward suspicious texts to **7726** (SPAM). If you believe you’ve been scammed or there’s fraud involved:  
+   - **England/Wales/Northern Ireland:** use the police **Report Fraud** service.  
+   - **Scotland:** contact **Police Scotland** (typically **101** unless it’s an emergency).  
+   If a crime is happening right now or someone is in immediate danger, call **999**.
 
 ## What can wait
-- You do not need to decide on a repair shop or a new phone model in the first hour.
-- You do not need to diagnose the specific hardware cause (e.g., a loose ribbon cable vs. a dead digitizer) right now.
-- You do not need to contact your mobile carrier to disable your SIM unless you believe the phone is also lost or stolen.
+- You don’t need to decide today whether to factory reset, replace the phone, or change every password.
+- You don’t need to prove whether it was “definitely hacked” before you stop the data flow and secure the mobile account.
+- You can wait to do deep cleanup (full malware scans, reinstalling apps) until you’ve stabilised and regained control of accounts.
 
 ## Important reassurance
-It is normal to feel a sense of "digital panic" when your primary link to the world stops responding. However, if the phone is still on, your data is likely still there. Most "locked out" scenarios are caused by rushed attempts to fix the hardware before securing the account access. By focusing on your email and cloud accounts first, you are preventing the most serious long-term damage.
+A sudden spike is often caused by normal background activity (photo/video backups, updates, hotspot). Taking one calm action — cutting the connection — immediately limits harm and buys you thinking time.
 
 ## Scope note
-This guide provides first-step stabilization for a functioning phone with a non-responsive screen. It does not cover physical repair procedures, screen replacements, or liquid damage recovery.
+These are first steps to stop a possible upload, identify the likely source, and protect access. If you find strong signs of account takeover (SIM changes, locked accounts, financial fraud), you may need specialist support from your provider and the relevant reporting channels.
 
 ## Important note
-This information is for general guidance and does not constitute technical or legal advice. Consumer rights vary based on the specific terms of your purchase and the age of the device. Always prioritize securing your sensitive financial and personal accounts from a secondary, known-safe device before attempting technical fixes on a malfunctioning handset.
+This is general, practical information, not professional security or legal advice. Phone menus differ by model and software version; if you can’t confirm a setting, choose the safer option (disconnect first, then investigate).
 
 ## Additional Resources
+- https://support.apple.com/guide/iphone/view-or-change-cellular-data-settings-iph3dd5f213/ios
 - https://support.apple.com/en-gb/109323
-- https://support.apple.com/en-gb/guide/iphone/iph3dd5f213/ios
-- https://support.google.com/pixelphone/answer/2819524?hl=en-GB
-- https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take
-- https://www.citizensadvice.org.uk/consumer/phone-internet-downloads-or-tv/dispute-a-phone-internet-or-tv-bill/
+- https://www.android.com/intl/en_uk/articles/how-to-use-android-data-saver/
+- https://support.google.com/pixelphone/answer/7055392?hl=en-GB
+- https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/7726-reporting-scam-texts-and-calls
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message

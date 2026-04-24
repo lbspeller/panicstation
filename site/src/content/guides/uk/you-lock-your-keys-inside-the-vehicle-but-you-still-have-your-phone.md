@@ -1,79 +1,68 @@
----
+﻿---
 title: "What to do if… you lock your keys inside the vehicle but you still have your phone"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "locked keys in car"
-  - "locked out of vehicle"
-  - "keys left in car"
-  - "keys locked in boot"
-  - "key fob inside car"
-  - "car locked with keys inside"
-  - "what do i do if i locked my keys in my car"
-  - "what do i do if my car is locked and keys are inside"
-  - "what do i do if i am locked out of my vehicle"
-  - "what do i do if my key fob is not working and keys are inside"
-  - "help i locked my keys in the car"
-  - "help i am locked out of my van"
-  - "help i cannot get into my car"
-  - "my car doors are locked with keys in ignition"
-  - "stranded with keys in car"
-  - "roadside car lockout help"
-  - "emergency auto locksmith uk"
-  - "breakdown cover lockout service"
-  - "keys visible on seat car locked"
-  - "car hazard lights on and locked out"
-  - "engine running and locked out of car"
-  - "keys locked in hatchback"
-  - "keys locked in suv"
-  - "modern car lockout help"
-  - "lost car keys no spare"
-  - "locked keys in car at night"
-  - "locked keys in car at work"
-  - "locked keys in car in car park"
-  - "vetted auto locksmith uk"
-  - "master locksmiths association auto"
-last_reviewed: "2026-03-17"
+  - locked keys in car
+  - locked out of car
+  - keys left in vehicle
+  - keys locked in boot
+  - keys locked in trunk
+  - key fob left inside
+  - keyless entry lockout
+  - car door locked with keys inside
+  - stranded with keys in car
+  - roadside lockout
+  - vehicle lockout help
+  - car locksmith needed
+  - breakdown cover lockout
+  - phone still with me
+  - alone in car park lockout
+  - keys in car while shopping
+  - keys locked in vehicle at night
+last_reviewed: "2026-03-09"
 ---
-# What to do if… you lock your keys inside the vehicle but you still have your phone (UK)
 
+# What to do if… you lock your keys inside the vehicle but you still have your phone (UK)
 ## Short answer
-Move to a safe location away from traffic, then contact your breakdown provider or an MLA-approved automotive locksmith to gain non-destructive entry.
+Get yourself somewhere safe, then use your phone to call a professional (your breakdown provider or a reputable automotive locksmith) rather than trying to force entry.
 
 ## Do not do these things
-- Do not attempt to force the door, use wire hangers, or use wedges, as this often causes expensive damage to seals and locking mechanisms.
-- Do not smash a window unless there is an immediate life-safety risk to a child or pet inside the vehicle.
-- Do not leave the vehicle in a position where it obstructs active traffic or creates a hazard for other drivers.
-- Do not call 999 for a routine lockout; only use 999 if a vulnerable person is locked inside or you are in immediate personal danger.
-- Do not pay for locksmith services via unverified links sent by SMS from unknown numbers.
+- Don’t try “DIY” opening tricks (coat hangers, wedges, fishing tools, smashing glass) unless there’s an immediate life risk inside the vehicle.
+- Don’t accept help from a stranger who wants you to hand over your phone, wallet, or car documents.
+- Don’t pay up-front by bank transfer to an unknown number or click payment links sent by random texts.
+- Don’t leave your vehicle unattended in an unsafe spot while you wander around looking for help.
+- Don’t call **999** for a routine lockout. Call **999** only if someone is in immediate danger. If you need police help but it’s not an emergency, you can call **101**.
 
 ## What to do now
-1. **Check immediately for children or pets locked inside the vehicle.** If a vulnerable person or animal is inside and the environment is hot or high-risk, call 999 immediately and follow their instructions.
-2. **Move yourself to a safe, well-lit pause point away from the road.** If you are on a motorway or busy road, stand behind the barrier or well back from the hard shoulder while using your phone.
-3. **Check all doors and the boot one final time without forcing them.** Modern central locking occasionally leaves one door or the hatchback unlatched; walk the full perimeter of the vehicle once.
-4. **Check for a manufacturer-specific smartphone app if your vehicle has connected services.** Many modern vehicles allow remote unlocking via an official app (e.g., FordPass, Mercedes me, MyAudi) if you previously registered the vehicle.
-5. **Contact your breakdown recovery provider if you have a policy.** Services like the AA, RAC, or Green Flag usually provide lockout assistance, though they may charge a fee if "Key Assist" is not included in your specific tier of cover.
-6. **Find a vetted automotive locksmith via the Master Locksmiths Association (MLA) website if you lack breakdown cover.** Search for "Auto Locksmiths" specifically, as they have the specialized tools required for vehicle transponders and electronic locks.
-7. **Verify the locksmith's credentials and estimated total cost before they depart for your location.** Ask for a fixed quote for the call-out and the entry, and confirm they use non-destructive entry methods.
-8. **Prepare your identification and proof of vehicle ownership.** A professional locksmith or breakdown patrol will require you to prove you are the rightful owner or authorized driver before they will open the vehicle.
+1. **Pause and make the scene safer.** Step away from traffic, stand somewhere well-lit if it’s dark, and keep your phone charged (low-power mode if needed).
+2. **If you’re at/near home, check for a spare key first.** If someone you trust can bring a spare key, that can avoid damage and call-out fees.
+3. **Do a quick, calm check (30–60 seconds).** Walk around once and check if *any* door or the boot is actually unlocked. Don’t force anything.
+4. **Use any connected-car option you already have.** If your car’s app/service can unlock doors remotely, try that (only if it’s already set up on your phone).
+5. **Call your breakdown provider if you have one.** Many UK breakdown services can attend lockouts. Have your membership details, exact location, and vehicle registration to hand.
+6. **If you don’t have breakdown cover, call a reputable automotive locksmith.** Use a well-known directory or an established local business with clear pricing. Ask:
+   - estimated total cost (call-out + entry),
+   - how they verify you’re entitled to access the vehicle,
+   - ETA, and
+   - what ID they’ll show on arrival.
+7. **If you feel unsafe where you are, change the plan.** Go into a nearby public place (petrol station, supermarket, café) and make calls from there. If you’re in immediate danger, call **999**.
 
 ## What can wait
-- You do not need to worry about the cost of a replacement key until you have confirmed if your original keys are simply locked inside or are actually damaged.
-- You do not need to contact your insurance company until you are back in the vehicle and have checked for any secondary damage.
-- You do not need to decide on long-term security upgrades or spare key sets while you are still stranded at the roadside.
+- You do **not** need to decide right now whether to claim on insurance, replace keys, or change locks.
+- You do **not** need to “figure out a clever way in.” Your job is simply to get safe help on the way.
+- You do **not** need to cancel plans or make big decisions until you’re back in the vehicle or safely home.
 
 ## Important reassurance
-Locking keys inside a vehicle is a frequent occurrence with modern "slam-lock" or keyless entry systems. Having your phone means you have the primary tool needed to resolve the situation safely through professional assistance.
+This happens to a lot of people, especially with modern keyless systems and busy moments. Having your phone means you already have what you need to get help without rushing into damage or risky decisions.
 
 ## Scope note
-This guide covers first-step stabilization for a vehicle lockout in the UK. It does not cover technical instructions for lock picking, electronic bypass, or long-term key replacement.
+These are first steps to get you back into the vehicle safely. Costs, timing, and methods vary by vehicle and provider, and later decisions (spare keys, keyless settings) can be handled once you’re calm and mobile.
 
 ## Important note
-This information is for general guidance in a non-emergency lockout. In the UK, the police do not usually attend routine lockouts unless there is a risk to life or a significant public hazard. Always prioritize your physical safety over the security of the vehicle.
+This guide is general information for immediate, practical first steps in the UK. If someone is in immediate danger, call 999.
 
 ## Additional Resources
 - https://www.theaa.com/breakdown-cover/advice/locked-keys-in-car
 - https://www.rac.co.uk/drive/advice/how-to/locked-keys-in-my-car-what-to-do/
-- https://www.theaa.com/breakdown-cover/key-assist
-- https://www.theaa.com/car-insurance/advice/replacement-car-keys
-- https://blog.greenflag.com/2017/lost-car-keys/
+- https://www.gov.uk/contact-police
+- https://www.police.uk/pu/contact-us/

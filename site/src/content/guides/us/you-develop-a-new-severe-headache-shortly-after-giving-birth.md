@@ -1,92 +1,80 @@
----
+﻿---
 title: "What to do if… you develop a new severe headache shortly after giving birth"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - "severe headache after giving birth"
-  - "new headache after childbirth"
-  - "postpartum headache symptoms"
-  - "postpartum preeclampsia headache"
-  - "severe head pain after delivery"
-  - "headache that will not go away postpartum"
-  - "what do i do if i have a bad headache after birth"
-  - "help i have a severe headache after giving birth"
-  - "my head hurts bad after having a baby"
-  - "what do i do if i had a seizure after birth"
-  - "postpartum vision changes"
-  - "swelling of face and hands postpartum"
-  - "pain in upper belly postpartum"
-  - "shortness of breath after delivery"
-  - "worst headache of my life postpartum"
-  - "thunderclap headache after childbirth"
-  - "headache after epidural"
-  - "spinal headache symptoms postpartum"
-  - "headache worse when standing up postpartum"
-  - "nausea and vomiting with headache postpartum"
-  - "slurred speech after birth"
-  - "weakness on one side postpartum"
-  - "fever and headache after delivery"
-  - "high blood pressure headache postpartum"
-  - "stroke signs after birth"
-  - "my vision is blurry after having a baby"
-  - "help i feel confused and have a headache postpartum"
-  - "severe postpartum head pressure"
-  - "headache with neck stiffness postpartum"
-  - "postnatal headache emergency"
-last_reviewed: "2026-03-16"
+  - postpartum severe headache
+  - severe headache after delivery
+  - new headache after birth
+  - postnatal headache
+  - worst headache of life postpartum
+  - thunderclap headache after birth
+  - headache that wont go away postpartum
+  - headache with vision changes postpartum
+  - postpartum warning signs
+  - urgent maternal warning signs
+  - postpartum preeclampsia signs
+  - postpartum high blood pressure
+  - severe headache and swelling postpartum
+  - headache with upper belly pain
+  - postpartum stroke warning signs
+  - postpartum seizure warning signs
+  - headache not relieved by medicine
+  - headache after epidural
+  - spinal headache postpartum
+  - headache worse when standing
+last_reviewed: "2026-02-21"
 ---
+
 # What to do if… you develop a new severe headache shortly after giving birth (USA)
 
 ## Short answer
-Seek immediate medical evaluation for any new, severe, or worsening headache after childbirth. **Call 911** or go to an **Emergency Room** immediately if the headache is sudden and extreme, or accompanied by vision changes, seizures, slurred speech, or a blood pressure reading of 160/110 mmHg or higher.
+A new severe headache soon after giving birth needs urgent medical evaluation. **Call 911** or go to the **ER** now if it’s sudden “worst ever” or comes with vision changes, weakness/numbness, confusion, fainting, seizure, chest pain, or trouble breathing.
 
 ## Do not do these things
-- Do not ignore a **new or worsening** headache as a standard part of recovery.
-- Do not drive yourself to the hospital if you are experiencing vision changes, confusion, or severe pain.
-- Do not wait for office hours or a callback from your doctor if you have emergency symptoms.
-- Do not assume the headache is a migraine even if you have a history of migraines.
-- Do not take more than the recommended dose of pain medication to mask worsening symptoms.
-- Do not stay alone with the baby if you feel unsteady, dizzy, or faint.
+- Do not dismiss a **new, severe, or quickly worsening** postpartum headache as “normal recovery.”
+- Do not drive yourself if you feel faint, confused, or the pain is severe (have someone else drive, or use **911** if needed).
+- Do not keep stacking pain medicine doses beyond the label instructions to try to “get through it.”
+- If possible, don’t stay alone caring for the baby if you feel unsteady, very drowsy, confused, or at risk of passing out. If you are alone, put the baby somewhere safe (crib/bassinet), sit or lie down, and call for help.
+- Do not assume it’s “just a migraine” if you also have **vision changes**, swelling, severe nausea/vomiting, upper belly pain, or shortness of breath.
 
 ## What to do now
-1. **Identify if you need an immediate 911 call:**
-   - **Call 911** immediately if you have a sudden "thunderclap" headache (the worst pain of your life).
-   - **Call 911** if the headache is paired with seizures, slurred speech, weakness on one side of the body, or fainting.
-   - **Call 911** if you have chest pain, a fast-beating heart, or trouble breathing.
-2. **Secure the baby and yourself during this pause:**
-   - **Place the baby in a safe sleeping space** such as a crib or bassinet.
-   - **Lie down on your side** to prevent falls if you feel dizzy or faint.
-   - **Alert another adult in the home** or call a nearby friend or relative to come over immediately.
-3. **Contact your obstetric provider for urgent routing:**
-   - **Call your OB-GYN or delivering hospital triage line** if the headache is severe but you do not have the 911 triggers listed above.
-   - **State clearly: "I am [number] days postpartum and I have a new, severe headache."**
-   - **State your pregnancy status** to every medical professional you speak to, including 911 dispatchers: "I gave birth [number] days ago."
-4. **Collect vital information if possible without delaying care:**
-   - **Take your blood pressure** if you have a home cuff and record the numbers.
-   - **Note if the headache changes** based on your position (e.g., if it feels significantly worse when sitting or standing and better when lying flat).
-   - **Check for other cues** such as swelling in your face or hands, blurred vision, or pain in the upper right area of your stomach.
-5. **Gather your medical records for transport:**
-   - **Locate your hospital discharge papers** and a list of all current medications.
-   - **Bring these items with you** to the Emergency Room or triage center.
+1. **Choose the safest urgent route right now:**
+   - **Call 911** if the headache is sudden and extreme (“worst headache of your life”), or you have **vision changes**, **slurred speech**, **weakness/numbness**, **confusion**, **severe drowsiness**, **collapse**, **seizure**, **chest pain**, or **trouble breathing**.
+   - If you’re stable but it’s still severe/new, call your **OB-GYN office** and say: “postpartum, new severe headache” and ask where to go **today**. If you can’t reach them quickly, go to the **ER**. If your delivering hospital has an **obstetric/L&D triage** and they tell you to come there, go there; otherwise the **ER** is the default.
+2. **If you have a blood pressure cuff at home, take one reading now** and write it down. Don’t delay seeking care if you can’t take it.
+3. **Say these details clearly (they change urgency and routing):**
+   - How many hours/days/weeks postpartum you are
+   - Sudden vs gradual onset, and whether it’s getting worse
+   - Any **vision symptoms**, **swelling of face/hands**, **upper abdominal pain**, **severe nausea/vomiting**, **fever**, **neck stiffness**, **shortness of breath**, **chest pain**, **confusion**, **weakness/numbness**, or **speech changes**
+   - Any history of **high blood pressure in pregnancy** or preeclampsia, or current BP meds
+   - Whether you had an **epidural/spinal**, and whether the headache is **worse sitting/standing and better lying down**
+4. **Make the next hour safer:**
+   - Get another adult to stay with you and help with the baby.
+   - If you feel faint or “not right,” **lie on your side**, keep your phone nearby, and don’t carry the baby while standing.
+   - Gather: your **discharge papers**, your **med list**, and any **BP readings** (a phone photo is fine).
+5. **If you think it might be an epidural/spinal-related headache** (often worse upright, better lying down): contact your **delivering hospital’s postpartum/L&D line** or your OB team urgently and say “possible post-epidural/spinal headache.” They may need to involve anesthesia.
+6. **If symptoms escalate while you’re deciding/packing** (new vision changes, weakness, confusion, severe breathlessness, chest pain, collapse, seizure): stop and **call 911**.
 
 ## What can wait
-- You do not need to determine the cause of the headache yourself.
-- You do not need to worry about infant feeding schedules or logistics during the medical evaluation; the hospital can assist with pumping or formula needs.
-- You do not need to wait for a "more convenient" time or for someone to watch the baby before seeking help.
-- You do not need to decide on long-term treatment plans or follow-up appointments right now.
+- You do not need to figure out the exact cause right now.
+- You do not need to decide about follow-ups, referrals, or paperwork today.
+- You do not need to keep researching—your priority is medical assessment.
+- You do not need to make feeding decisions right now; tell the clinician you are breastfeeding/pumping/formula feeding when you speak to them.
 
 ## Important reassurance
-It is normal to feel overwhelmed or frightened when a new health issue arises during the postpartum period. Healthcare providers are trained to prioritize postpartum patients with these symptoms because early intervention for conditions like postpartum preeclampsia or stroke is highly effective. Taking this action is the most responsible step for your health and your baby’s safety.
+Many postpartum headaches turn out to have treatable causes, but some serious postpartum conditions can start with “just a bad headache.” Getting checked quickly is a normal, appropriate reason to call for help after delivery.
 
 ## Scope note
-This guide is for first-step stabilization and emergency triage only. It does not replace clinical diagnosis or specialized postpartum medical care.
+This guide covers immediate first steps only. After evaluation, you may be advised to monitor blood pressure, take specific medications, and arrange postpartum follow-up.
 
 ## Important note
-This information is for general use and does not constitute medical advice. If you believe you are experiencing a life-threatening emergency, call **911** immediately or go to the nearest emergency department.
+This is general information, not medical advice or a diagnosis. If you have severe symptoms or feel in danger, call **911** or go to the nearest **Emergency Room**.
 
 ## Additional Resources
 - https://www.cdc.gov/hearher/maternal-warning-signs/index.html
-- https://medlineplus.gov/ency/article/000898.htm
-- https://medlineplus.gov/ency/patientinstructions/000606.htm
-- https://www.cdc.gov/high-blood-pressure/about/high-blood-pressure-during-pregnancy.html
-- https://medlineplus.gov/highbloodpressureinpregnancy.html
+- https://www.cdc.gov/hearher/news-media/article-urgent-warning-signs.html
+- https://www.acog.org/womens-health/experts-and-stories/the-latest/3-conditions-to-watch-for-after-childbirth
+- https://www.mayoclinic.org/diseases-conditions/postpartum-preeclampsia/symptoms-causes/syc-20376646
+- https://www.health.ny.gov/publications/19660.pdf
+- https://my.clevelandclinic.org/health/diseases/17952-preeclampsia

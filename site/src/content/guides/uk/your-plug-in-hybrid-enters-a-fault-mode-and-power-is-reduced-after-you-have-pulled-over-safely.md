@@ -1,85 +1,76 @@
----
+﻿---
 title: "What to do if… your plug-in hybrid enters a fault mode and power is reduced after you have pulled over safely"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "plug-in hybrid fault mode uk"
-  - "phev reduced power warning help"
-  - "hybrid drivetrain failure what to do"
-  - "limp home mode hybrid car"
-  - "my phev has lost power"
-  - "what do i do if my hybrid breaks down"
-  - "help i have a phev system fault"
-  - "hybrid car reduced performance message"
-  - "orange high voltage cables safety"
-  - "motorway breakdown phev safety rules"
-  - "hybrid car dashboard warning lights"
-  - "phev breakdown on smart motorway"
-  - "car won't accelerate in hybrid mode"
-  - "plug-in hybrid drivetrain error"
-  - "ev system fault reduced power"
-  - "high voltage battery warning phev"
-  - "safe pull over hybrid fault"
-  - "emergency area breakdown hybrid car"
-  - "hissing noise from hybrid battery"
-  - "smell of burning from hybrid car"
-  - "phev restart not clearing fault"
-  - "flatbed recovery for hybrid vehicle"
-  - "ecall sos button motorway breakdown"
-  - "national highways breakdown assistance number"
-  - "hybrid vehicle fail safe mode"
-  - "electric car power limited message"
-  - "stop safely dashboard warning hybrid"
-last_reviewed: "2026-03-17"
+  - plug-in hybrid fault mode
+  - phev power reduced
+  - reduced power warning
+  - limp mode hybrid
+  - hybrid system fault
+  - ev power limited
+  - car lost power after stopping
+  - dashboard warning after pull over
+  - motorway breakdown hybrid
+  - smart motorway stop safely
+  - roadside breakdown safety
+  - hazards on and wait
+  - won’t accelerate properly
+  - vehicle in fail-safe mode
+  - high voltage hybrid safety
+  - orange cables warning
+  - recovery call for phev
+  - restart didn’t clear warning
+  - pulled over safely already
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… your plug-in hybrid enters a fault mode and power is reduced after you have pulled over safely (UK)
 
 ## Short answer
-Ensure the vehicle is in Park with the handbrake on, activate hazard lights, and remain in a place of relative safety while calling for professional recovery.
+Stay safe where you are, make the car “secure” (park, lights as needed), and treat this as a breakdown until a professional confirms it’s safe to drive.
 
 ## Do not do these things
-- Don’t attempt to rejoin traffic to "test" if the power has returned.
-- Don’t touch, move, or disconnect any cables colored orange (high-voltage).
-- Don’t repeatedly restart the vehicle if the fault remains after one attempt.
-- Don’t place a warning triangle if you are on a motorway or dual carriageway.
-- Don’t attempt any roadside repairs yourself, especially on high-speed roads.
-- Don’t leave pets or animals out of the vehicle on a motorway unless it is an emergency.
+- Don’t “test it” by rejoining traffic to see if power comes back.
+- Don’t repeatedly restart or drive-test the car if the warning stays on after one restart.
+- Don’t touch orange (high-voltage) cables/components or try to “reset” anything by disconnecting batteries.
+- Don’t attempt roadside repairs on a motorway or other high-speed road.
+- Don’t place a warning triangle on a motorway.
 
 ## What to do now
-1. **Secure the vehicle and its position.** **Switch the gear to Park (P), apply the electronic parking brake, and turn your wheels to the left (away from traffic).**
-   - Turn on your hazard warning lights immediately.
-   - If it is dark or visibility is poor, keep your sidelights on.
-2. **Identify your exact location for emergency services.** **Look for marker posts or driver location signs on the roadside, or use your phone's mapping app.**
-   - On a motorway, try to identify if you are in an Emergency Area (orange tarmac), a hard shoulder, or a lay-by.
-3. **Exit the vehicle only if it is safe (Go Left).** **Exit through the doors furthest from the traffic (the left-hand side) and move behind a safety barrier if one is present.**
-   - If you cannot safely exit the vehicle or reach a place of relative safety, stay in the car with your seatbelt on and call 999.
-   - If your vehicle has an SOS / eCall button, press it to connect directly to emergency services with your GPS data.
-4. **Monitor for critical battery or fire cues.** **Check for the smell of burning, visible smoke, hissing sounds, or intense heat coming from the floor or rear of the car.**
-   - If any of these are present, move all passengers as far away from the vehicle as possible (at least 30 metres) and call 999 immediately, stating you have a hybrid vehicle fire.
-5. **Attempt a single system reset only if no smoke or heat is present.** **Turn the car completely off, wait 60 seconds, and restart it to see if the "Reduced Power" or "Limp Mode" message clears.**
-   - If the warning persists or returns immediately, do not attempt to drive.
-6. **Request specialist recovery for a high-voltage vehicle.** **Call your breakdown provider or National Highways (0300 123 5000) and specify that you have a "Plug-in Hybrid in fault mode."**
-   - Explicitly mention if the dashboard says "Stop Safely" or "Drivetrain Fault," as this often requires flatbed recovery rather than a speculative tow.
-7. **Keep passengers safe and visible.** **Ensure everyone stays well away from the carriageway and wears high-visibility clothing if available.**
-   - Keep children under close control and ensure no one stands between the vehicle and oncoming traffic.
+1. **Lock in safety where you are.** Put the car in **Park** (or neutral with handbrake fully on, if applicable).  
+   - **Use hazard lights** if you’re causing an obstruction, you’re on a shoulder/emergency refuge area, or you’re close to moving traffic. If you’re fully off-road in a safe parking place, use lights appropriate to conditions.
+2. **Decide whether to stay in the vehicle or get out (location matters).**
+   - **If you’re on a motorway/high-speed road:** only exit if it’s safe to do so, and get well away from traffic/behind a barrier where possible. If you cannot safely exit or reach a safer place, **stay belted in and call 999 and ask for the police** (or use the in-car SOS/eCall if you have it).
+   - **If you’re off the road (car park, lay-by, quiet street):** it’s usually safer to stay with the vehicle while you arrange help, unless you feel at risk where you are.
+3. **Check for “stop now” or overheating/fire cues.** Look for messages like *Stop safely*, temperature warnings, burning smell, smoke/steam, hissing, or unusual heat from under the car.  
+   - If **any** of these are present: move people away from the vehicle and call **999**.
+4. **Do a single calm “reboot” attempt (only once).** If there are no urgent warnings, turn the car fully off, wait a short moment, then restart and see whether the warning and reduced-power mode remain. If it persists, assume the car is not fit to drive.
+5. **Call for professional help (don’t self-diagnose at the roadside).**
+   - Contact your breakdown provider (AA/RAC/Green Flag/insurance). If you’re on a motorway, use a **roadside emergency telephone** where available and safe (it helps identify your location). Otherwise, use your mobile and share your location using **driver location signs/marker posts** if you can see them.
+   - For non-emergency motorway assistance/advice, you can also contact **National Highways (0300 123 5000)** when safe to do so.
+   - Tell them clearly: **“plug-in hybrid, reduced power / fault mode,”** and ask what recovery method they need (some vehicles require a flatbed per the handbook).
+6. **Reduce high-voltage risk while waiting.** Don’t open covers marked with high-voltage warnings; don’t handle any exposed wiring (often orange). If it’s safe and you’re not near live traffic, **put on a high-vis jacket** before leaving the vehicle.
+7. **If you must wait near traffic, protect yourself.** Keep your seat belt on. Keep passengers calm and inside unless and until you can safely move behind a barrier or to a safer place.
 
 ## What can wait
-- You do not need to diagnose the specific sensor or battery cell that caused the fault.
-- You do not need to worry about charging the high-voltage battery right now.
-- You do not need to arrange a garage repair until the vehicle has been safely recovered.
+- You do **not** need to figure out the exact fault, clear codes, or book servicing right now.
+- You do **not** need to decide today whether it’s safe to continue using electric mode or to charge—follow the car’s on-screen instructions and the recovery/garage advice.
+- You do **not** need to negotiate repair costs at the roadside.
 
 ## Important reassurance
-It is normal for a hybrid's computer to significantly restrict power when it detects an electrical or thermal anomaly; this is a "fail-safe" designed to protect the battery and motor. Following the "Go Left" and "Get Safe" protocol is the standard, correct response for this situation.
+Modern plug-in hybrids are designed to reduce power to protect the system. It feels alarming, but treating it as a safety-first breakdown (rather than forcing the car onward) is the right move.
 
 ## Scope note
-This guide provides first-step stabilization for a vehicle already pulled over. It does not cover diagnostic repair or long-term battery maintenance.
+This is first steps only to keep you safe and prevent avoidable damage. The next stage is professional diagnosis and manufacturer-specific recovery instructions.
 
 ## Important note
-This information is for general guidance during a breakdown and does not replace the instructions in your vehicle's handbook or the directions of National Highways officers. If you are on a motorway and feel you are in immediate danger, always call 999.
+This is general information, not mechanical or legal advice. If you’re on a motorway/high-speed road or feel unsafe, prioritise personal safety and call emergency services.
 
 ## Additional Resources
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
+- https://nationalhighways.co.uk/road-safety/driving-on-motorways/
+- https://www.theaa.com/breakdown-cover/advice/what-to-do-if-you-break-down
 - https://www.rac.co.uk/drive/advice/driving-advice/what-is-limp-mode-your-helpful-driving-guide/
-- https://www.theaa.com/breakdown-cover/advice/dashboard-warning-lights
-- https://www.theaa.com/breakdown-cover/advice/engine-management-light
-- https://news.motability.co.uk/everyday-tips/tips-for-managing-an-ev-breakdown/
-- https://www.gov.uk/government/publications/recovery-operators-working-with-electric-vehicles
+- https://www.hse.gov.uk/mvr/topics/electric-hybrid.htm
+- https://www.gov.uk/government/publications/recovery-operators-working-with-electric-vehicles/recovery-operators-working-with-electric-vehicles

@@ -1,102 +1,106 @@
----
+﻿---
 title: "What to do if… your smart device starts behaving oddly and you suspect the account controlling it was accessed"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "voicemail pin changed"
-  - "voicemail greeting changed"
-  - "voicemail hacked"
-  - "unauthorised voicemail change"
-  - "phone account takeover"
-  - "sim swap warning"
-  - "pac request alert"
-  - "number porting risk"
-  - "locked out of voicemail"
-  - "voicemail asking for pin"
-  - "visual voicemail security"
-  - "carrier account compromised"
-  - "password reset codes risk"
-  - "banking otp to voicemail"
-  - "call interception concern"
-  - "voicemail reset text received"
-  - "voicemail settings changed"
-  - "unexpected voicemail reset"
-  - "mobile network fraud"
-  - "my voicemail pin was reset"
-  - "help i cannot get into my voicemail"
-  - "what do i do if my voicemail greeting is different"
-  - "what do i do if someone changed my voicemail"
-  - "help my phone pin was changed"
-  - "phone number hijacked"
-  - "esim hijacking"
-  - "no service icon"
-  - "sos only mode"
-  - "unexpected pac code text"
-  - "voicemail security breach"
-last_reviewed: "2026-03-17"
+  - smart device acting strange
+  - smart home behaving oddly
+  - iot device hacked
+  - smart speaker hacked
+  - smart camera hacked
+  - smart thermostat hacked
+  - smart lock acting up
+  - ring camera strange activity
+  - alexa acting weird
+  - google home acting weird
+  - homekit acting weird
+  - device account takeover
+  - someone accessed my smart account
+  - unauthorized smart device control
+  - suspicious device automations
+  - unknown users on smart home
+  - router may be compromised
+  - wifi network may be hacked
+  - account controlling device accessed
+  - smart device privacy breach
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your smart device starts behaving oddly and you suspect the account controlling it was accessed (UK)
 
 ## Short answer
-Treat this as an active attempt to take over your mobile account. Secure your network provider account immediately via their official app or website, then reset your voicemail security settings directly.
+Pause remote control first: take the device (or hub) offline, then secure the controlling account from a different, trusted device.
 
 ## Do not do these things
-- Don’t attempt to guess the PIN multiple times as this may trigger a permanent lockout.
-- Don’t click links in any text message claiming your PIN has been reset or your account is locked.
-- Don’t assume it is a technical glitch if you also see "No Service", "SOS only", or receive a PAC (Porting Authorisation Code) text you did not request.
-- Don’t delay securing your email and bank accounts if they use your phone number for identity verification.
-- Don’t post screenshots of the "PIN changed" notification on social media, as they may contain your account identifiers.
-- Don’t perform a factory reset on your handset, as this will not resolve a network-level account compromise.
+- Don’t keep “testing” the device while it’s still online (it can give an attacker more time and more data).
+- Don’t factory reset until you’ve first secured the controlling account (unless the provider’s recovery steps require it because you’re locked out).
+- Don’t reuse an old password, a similar password, or a password you use anywhere else.
+- Don’t click “security alert” links from emails/texts about this incident unless you navigate to the provider directly.
+- Don’t hand over one-time codes (SMS/authenticator) to anyone claiming to be “support”.
+- Don’t assume it’s “just a glitch” if you see new users, new routines, new devices, or login alerts.
 
 ## What to do now
-1. **Check your handset for immediate signs of a SIM swap or unauthorised porting.**
-   - Look at the top of your screen for signal bars. If you see "No Service", "SOS", or "Emergency calls only", your SIM or eSIM may have been deactivated and moved to another device.
-   - Attempt to make a standard outbound call to a known number to verify the line is active.
+1. **Stop remote control quickly (30–60 seconds).**
+   - If safe to do so, **unplug the device**, remove its batteries, or power off the hub/bridge it uses.
+   - If it affects safety (locks/alarms), switch to a **manual backup** if you have one (physical key, manual control).
 
-2. **Secure your mobile network account using a safe device and connection.**
-   - **Log in to your network's official app or website by typing the address directly into your browser.**
-   - **Change your account password immediately to a unique, strong password.**
-   - **Check the 'Recent Activity' or 'Order History' section for SIM swap requests, PAC/STAC requests, or changes to your contact email/address.**
+2. **Use a different, trusted device to secure the controlling account.**
+   - Ideally use a phone/computer you trust, on a trusted connection.
+   - **Change the account password** to a long, unique one.
+   - **Sign out of all other sessions/devices** (look for “log out everywhere” / “active sessions”).
+   - **Turn on two-factor authentication (2FA / 2-step verification)** for that account.
 
-3. **Contact your mobile network provider’s fraud department immediately.**
-   - **Dial your network's official support number (e.g., 150 for EE/O2/Three/Vodafone) or call 0333 304 0191 from another phone.**
-   - **Inform the agent: "I suspect an unauthorised account takeover because my voicemail settings changed without my permission."**
-   - **Ask the agent to place a 'fraud marker' or 'porting block' on your account to prevent your number from being moved to another network.**
+3. **Secure the email account that can reset that smart account.**
+   - If your smart-home account uses your email for password resets, **secure your email next** (password change, sign out everywhere, 2FA).
+   - Check the email account’s **forwarding rules / filters** and remove anything you didn’t create.
 
-4. **Reset your voicemail PIN and greeting safely through the network’s internal menu.**
-   - **Dial your voicemail number (usually 121, 123, or 443) and follow the 'Personal Options' or 'Administrative Options' menu to change your PIN.**
-   - **If you are locked out, ask the network agent to trigger a remote PIN reset that sends a temporary code via SMS.**
-   - **Record a new greeting or revert to the standard system greeting to ensure no fraudulent instructions are being played to callers.**
+4. **Remove unknown access inside the smart-home app.**
+   - In the app for the device/platform, look for **Household/Home members**, **shared users**, **guests**, or **linked accounts**.
+   - Remove anything you don’t recognise (unknown people, unknown partner accounts, old phones/tablets you no longer have).
 
-5. **Forward any suspicious 'PIN reset' or 'PAC request' text messages to 7726.**
-   - **Copy the content of the suspicious message and send it to 7726, which is the free national reporting service for mobile scams.**
-   - **This helps your network and the authorities identify the source of the attack.**
+5. **Check for “new behaviour” that could be an attacker’s foothold.**
+   - Review **automations/routines/scenes**, notifications, and privacy settings.
+   - Remove unfamiliar routines (for example: camera disabled at certain times, microphone enabled, lights changing at night).
 
-6. **Notify your bank and primary email provider of a suspected phone compromise.**
-   - **Call your bank’s fraud line to inform them that your mobile number may be compromised.**
-   - **Temporarily switch your two-factor authentication (2FA) from SMS/voice codes to an authenticator app or hardware key if possible.**
+6. **Lock down your home Wi-Fi basics (this matters for smart devices).**
+   - Log into your router admin page and **change the router admin password** (not just the Wi-Fi password).
+   - **Update router firmware** (or enable automatic updates if available).
+   - **Disable WPS** (Wi-Fi Protected Setup) if it’s on.
+   - Change the **Wi-Fi password** and reconnect only the devices you still use.
 
-7. **Report the incident to the appropriate national fraud authority.**
-   - **If you are in England, Wales, or Northern Ireland, report the cyber crime to Report Fraud online at reportfraud.police.uk or call 0300 123 2040.**
-   - **If you are in Scotland, use the Police Scotland Online Crime Reporting Form or call 101 to report the incident.**
+7. **Only after the account is secure: reset and re-pair the smart device.**
+   - Factory reset the device/hub (and any bridge it depends on), then set it up again using the newly secured account.
+   - During setup, **don’t reuse** old device PINs/default passwords; apply updates immediately.
+
+8. **Document what you saw (lightweight, not forensic).**
+   - Note the date/time, what changed (e.g., “new user added”, “camera turned on”), and any screenshots of login alerts or device lists.
+   - This helps if you need to contact support, your bank, or make a report.
+
+9. **Get the right external help if money, identity, or safety is involved.**
+   - If you lost money or were scammed through this access, contact your **bank/card provider immediately**.
+   - If you want to report fraud/cyber crime:
+     - **England, Wales, or Northern Ireland:** report via **Report Fraud** (the national fraud and cyber crime reporting service).
+     - **Scotland:** report to **Police Scotland** via their non-emergency route (or your local police service).
+   - If the incident affects physical safety (e.g., smart lock/door access), treat it as a **home security issue** as well (change physical access codes/keys where relevant).
 
 ## What can wait
-- You do not need to replace your physical SIM card immediately unless the network confirms it has been "swapped."
-- You do not need to inform all of your contacts right now; focus only on those who might receive a call from your "hijacked" voicemail.
-- You do not need to change your mobile phone number permanently until you have completed the network's fraud investigation.
+- Deep technical investigation, buying new devices, or redesigning your whole smart home setup.
+- Cancelling accounts you rely on daily (do that only once you’ve regained control and can do it calmly).
+- Deciding whether to make a formal report (unless you’ve lost money, sensitive data, or it’s ongoing).
 
 ## Important reassurance
-Voicemail and SIM-based attacks are common and are often part of automated attempts to intercept banking codes. These incidents are usually handled successfully by mobile networks when reported immediately. Following these steps prioritises the security of your identity over the technical restoration of the voicemail service.
+Odd smart-device behaviour can come from updates, outages, or misconfigurations — but taking the steps above is still the safest path because it prevents the most damaging outcomes (privacy loss, ongoing access, or lockout).
 
 ## Scope note
-This guide provides first-step stabilization for suspected voicemail and mobile account compromise. It does not cover long-term identity theft recovery or the retrieval of lost funds if your banking was successfully accessed.
+These are first steps to stabilise and regain control. If you discover broader compromise (multiple accounts, bank access, repeated re-entry), you may need device-support escalation and specialist IT/security help.
 
 ## Important note
-Procedures for resetting voicemail vary significantly between providers like EE, O2, Vodafone, Three, and virtual networks like giffgaff or Tesco Mobile. If the automated menus do not match the steps above, speak directly to a human agent at your network. This guide is for informational purposes and does not constitute legal or financial advice.
+This is general information, not legal, technical, or financial advice. If you feel unsafe, or the situation involves stalking/harassment or immediate home security risk, prioritise personal safety and seek appropriate help.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
-- https://www.ncsc.gov.uk/guidance/smart-devices-in-the-home
-- https://www.ncsc.gov.uk/guidance/data-breaches
-- https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv
-- https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/password-managers
+- https://www.ncsc.gov.uk/section/respond-recover/sole-hacked-accounts
+- https://www.reportfraud.police.uk/
+- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
+- https://ico.org.uk/for-the-public/i-m-worried-about-how-an-organisation-has-handled-my-information/what-steps-should-i-take-if-i-have-experienced-a-data-breach/
+- https://www.police.uk/advice/advice-and-information/fa/fraud/online-fraud/cyber-crime-fraud/

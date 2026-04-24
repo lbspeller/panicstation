@@ -1,103 +1,93 @@
----
+﻿---
 title: "What to do if… you are asked to make medical decisions for a dying relative and there is no clear directive"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "no advance directive"
-  - "no clear directive"
-  - "making decisions for relative"
-  - "asked to decide treatment"
-  - "end of life decisions"
-  - "dying family member hospital"
-  - "best interests decision"
-  - "mental capacity unclear"
-  - "no living will found"
-  - "no power of attorney"
-  - "family disagreement risk"
-  - "code status uncertainty"
-  - "resuscitation decision pressure"
-  - "life support decision"
-  - "palliative care questions"
-  - "sudden deterioration"
-  - "overwhelmed next of kin"
-  - "hospital ward phone call"
-  - "what do i do if relative is dying"
-  - "what do i do if no power of attorney"
-  - "what do i do if doctor asks for consent"
-  - "what do i do if family disagrees"
-  - "help i have to decide for my mum"
-  - "help i have to decide for my dad"
-  - "my relative cannot speak for themselves"
-  - "my relative is unconscious in hospital"
-  - "smell of hospital ward"
-  - "visible medical monitors"
-  - "sound of ventilator"
-  - "hospital bed surroundings"
-  - "clinical team meeting"
-  - "medical notes recording"
-  - "palliative care referral"
-  - "hospital chaplaincy support"
-  - "patient advice and liaison service"
-last_reviewed: "2026-03-16"
+  - no advance directive
+  - no clear directive
+  - making decisions for relative
+  - asked to decide treatment
+  - end of life decisions
+  - dying family member hospital
+  - best interests decision
+  - mental capacity unclear
+  - no living will found
+  - no power of attorney
+  - family disagreement risk
+  - code status uncertainty
+  - resuscitation decision pressure
+  - life support decision
+  - palliative care questions
+  - sudden deterioration
+  - overwhelmed next of kin
+  - hospital ward phone call
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… you are asked to make medical decisions for a dying relative and there is no clear directive (UK)
 
 ## Short answer
-Ask the clinical team to treat this as a formal best-interests process and request a family meeting. You are not the legal decision-maker unless you hold a specific Power of Attorney, but your role is to provide evidence of your relative's wishes.
+Ask the clinical team to treat this as a **best-interests decision** and to hold a **family/decision meeting**. Your key role right now is to share what your relative would have wanted and valued.
 
 ## Do not do these things
-- Do not feel pressured to give an immediate "yes" or "no" to complex medical questions - ask for a short period to think or talk with family.
-- Do not assume the "Next of Kin" label gives you the legal right to consent to or refuse medical treatment for an adult.
-- Do not attempt to guess what you would want for yourself - focus entirely on what your relative would have chosen if they could speak.
-- Do not sign any document that you have not had explained to you in plain language.
-- Do not engage in loud or public family disputes on the hospital ward - request a private room for these discussions.
+- Do not agree to major decisions while you feel rushed, confused, or alone—ask for a short pause and a clearer explanation.
+- Do not assume “next of kin” gives you legal decision-making power—treatment decisions are made by clinicians unless there’s a valid ADRT or a Health & Welfare LPA.
+- Do not argue in corridors or by group chat while staff are waiting—ask for one agreed family spokesperson for communication.
+- Do not make decisions based on guilt, family pressure, or “what we can live with” instead of what your relative would have wanted.
+- Do not sign or consent to something you do not understand—ask staff to explain it in plain language and repeat it back to them.
 
 ## What to do now
-1. **Confirm the legal status of your relative's decision-making capacity.**
-   - **Ask the lead clinician: "Has a formal assessment confirmed they lack capacity for this specific decision?"**
-   - **Check for any existing legal documents:**
-     - In England / Wales: Lasting Power of Attorney (Health and Welfare) or an Advance Decision to Refuse Treatment (ADRT).
-     - In Scotland: Welfare Power of Attorney or a Section 47 certificate under the Adults with Incapacity Act.
-     - In Northern Ireland: An Advance Decision or a "Nominated Person" under the Mental Capacity Act (NI).
-2. **Identify the "Decision-Maker" for the specific medical treatment.**
-   - **Ask: "Who is the senior clinician responsible for making the final decision in my relative's best interests today?"**
-   - In the absence of a legal proxy (like an Attorney), the senior clinician (Consultant or GP) is usually the legal decision-maker for medical care.
-3. **Request a formal best-interests or family meeting.**
-   - **Say: "I would like to hold a meeting with the lead clinician to discuss the benefits and burdens of the proposed treatment."**
-   - Ensure the clinical team knows who the main family point of contact is to avoid conflicting messages.
-4. **Provide evidence of the person's values and past wishes.**
-   - **List 3-5 specific things the person has said about their health or end-of-life care in the past.**
-   - Focus on their values: Did they value independence? Did they express a fear of being "kept alive on machines"? Were they focused on being pain-free?
-5. **Ask for the "Best Interests" checklist to be followed and documented.**
-   - **Ask the team to record your views and any family disagreements in the medical notes.**
-   - In England and Wales, clinicians must follow Section 4 of the Mental Capacity Act.
-   - In Scotland, clinicians must follow the principles of the Adults with Incapacity Act (benefit, least restrictive option, and taking account of past wishes).
-6. **Request specialist support for the decision-making process.**
-   - **Ask for a referral to the Hospital Palliative Care Team for advice on symptom management and quality of life.**
-   - **Ask for the Chaplaincy or spiritual care team if you need support with religious or cultural requirements.**
-7. **Address the need for an Independent Mental Capacity Advocate (IMCA).**
-   - **If your relative has no appropriate family or friends to speak for them, ask: "Do we need to instruct an IMCA for this serious medical decision?"**
-   - This is a legal requirement in England and Wales for serious medical treatment when a person lacks capacity and is unbefriended.
-8. **Clarify the current "Code Status" or emergency plan.**
-   - **Ask: "Is there a ReSPECT form, a DNACPR (Do Not Attempt CPR) notice, or a Treatment Summary in place, and can you explain the reasoning for it?"**
+1. **Ask two immediate questions (and write down the answers):**
+   - “Does my relative have capacity to decide this right now?”
+   - “Is there any record of an Advance Decision to Refuse Treatment (ADRT), a Health & Welfare Lasting Power of Attorney (LPA), or an emergency care plan (for example ReSPECT or similar) or a DNACPR decision?”
+2. **Clarify what must be followed vs what must be decided.**
+   - If there’s a **valid and applicable ADRT**, clinicians should follow it.
+   - If there’s a **registered Health & Welfare LPA**, the attorney can usually make health decisions **once the person lacks capacity** (and may be able to decide about life-sustaining treatment if that authority was granted).
+   - If neither exists, clinicians make treatment decisions in the person’s **best interests**, consulting those close to them.
+3. **Ask who the responsible clinician is for today.**  
+   Say: “Who is the responsible consultant/clinician for decisions today, and who should I speak to for a joined-up plan?”
+4. **Request a best-interests meeting (today if possible).**  
+   Ask for a short, structured discussion with the responsible clinician and nurse in charge. Say: “Please treat this as a best-interests decision and document the reasoning and plan in the notes.”
+5. **Bring the information staff actually need (what your relative would choose).**  
+   Prepare 5–10 bullet points you can read out:
+   - What your relative said in the past about ICU, ventilation, CPR, feeding tubes, dialysis, or “keeping me comfortable”.
+   - Their values (independence, avoiding suffering, religious beliefs, priorities like “time with family”).
+   - What outcomes they would (and would not) accept (for example, permanent unconsciousness or severe brain injury).
+6. **Ask for the options in a simple “if we do X, likely next steps are…” format.**  
+   Ask the team to compare:
+   - Comfort-focused care (symptom relief and avoiding burdensome interventions)
+   - Limited treatment (some treatments but not escalation to ICU/CPR)
+   - Full escalation (ICU/ventilation/CPR where clinically appropriate)  
+   Then ask: “Which option best matches their condition and likely benefits vs burdens?”
+7. **If there’s family disagreement, contain it and slow the pressure.**
+   - Ask the team to document differing views and to speak with family members separately if needed.
+   - Ask for one named point of contact in the family, and one named senior clinician on the ward.
+8. **Use hospital support that exists for exactly this situation.**
+   - Ask to speak to the **Palliative Care Team** (even if treatment continues).
+   - Ask for **Chaplaincy/spiritual care** if relevant (they support any faith or none).
+   - If communication is breaking down, ask how to contact **PALS** (Patient Advice and Liaison Service).
+9. **If there is no appropriate family/friend to consult, ask about an IMCA (England & Wales).**  
+   If there’s nobody suitable to speak for them, ask whether an **Independent Mental Capacity Advocate (IMCA)** should be involved for **certain serious decisions** as a safeguard.
 
 ## What can wait
-- You do not need to decide on funeral arrangements or long-term estate matters right now.
-- You do not need to resolve long-standing family arguments that are not related to the immediate medical decision.
-- You do not need to be the person who delivers medical updates to every single extended family member - appoint one other person to manage a group chat or phone tree.
+- You do not need to decide “the perfect choice” right now—focus on the next decision in front of you.
+- You do not need to resolve inheritance, funeral planning, or family conflicts today.
+- You do not need to draft a legal document right now; concentrate on capturing your relative’s wishes and getting them recorded in the notes.
+- You do not need to answer every family message—pick one or two people to update others.
 
 ## Important reassurance
-It is normal to feel overwhelmed or guilty when being asked about a relative's care. You are not "ending their life" or "making the choice" yourself; you are helping the doctors understand your relative's voice. The clinical team carries the ultimate legal and professional responsibility for the medical decisions they make.
+Being asked these questions can feel like you’re being handed responsibility for someone’s life. In reality, you are helping the team understand **who your relative is** and what they would consider acceptable. Feeling upset, foggy, or guilty is common—and it’s a sign you need clarity and support, not that you’re doing something wrong.
 
 ## Scope note
-This is first-step guidance only for the immediate crisis. If there is an intractable dispute between family and doctors, or between family members, the hospital may involve its legal team or an independent mediator.
+This is first-steps-only guidance for the next hours and days. If the situation becomes prolonged, contested, or legally complex, the clinical team can escalate internally (senior review and formal dispute-resolution processes) and—if needed—seek legal direction.
 
 ## Important note
-Medical and mental capacity laws vary between England/Wales, Scotland, and Northern Ireland. This guide provides a general overview but does not replace the specific legal advice or the clinical judgment of the medical team on site. Ensure all decisions are recorded clearly in the patient's medical record.
+This guide is general information, not legal or medical advice. Hospital processes vary across the UK, and Scotland and Northern Ireland have different legal frameworks from England & Wales. If you are unsure, ask the responsible clinician to explain what applies where your relative is and to document the plan clearly in the medical notes.
 
 ## Additional Resources
-- https://www.nhs.uk/tests-and-treatments/end-of-life-care/planning-ahead/advance-statement/
-- https://www.nhs.uk/tests-and-treatments/consent-to-treatment/capacity/
-- https://www.gov.uk/make-decisions-for-someone/making-decisions
-- https://www.gov.uk/government/publications/mental-capacity-act-code-of-practice
-- https://www.mariecurie.org.uk/information/planning-ahead/mental-capacity
+- https://www.nhs.uk/social-care-and-support/making-decisions-for-someone-else/mental-capacity-act/
+- https://www.legislation.gov.uk/ukpga/2005/9/contents
+- https://www.gov.uk/manage-lasting-power-attorney/health-welfare
+- https://www.nhs.uk/tests-and-treatments/end-of-life-care/planning-ahead/advance-decision-to-refuse-treatment/
+- https://www.gov.uk/government/publications/independent-mental-capacity-advocates/making-decisions-the-independent-mental-capacity-advocate-service-web-version
+- https://www.bma.org.uk/media/tyufopmh/best-interests-toolkit-updated-2025.pdf

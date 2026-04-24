@@ -1,81 +1,70 @@
----
+﻿---
 title: "What to do if… you have postpartum bleeding that seems heavier than expected and you feel lightheaded"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - "postpartum bleeding"
-  - "heavy postpartum bleeding"
-  - "bleeding after delivery"
-  - "after birth bleeding"
-  - "soaking pads after birth"
-  - "passing large clots postpartum"
-  - "lightheaded postpartum"
-  - "dizzy after having a baby"
-  - "fainting postpartum"
-  - "recently pregnant bleeding"
-  - "bright red bleeding postpartum"
-  - "sudden heavy bleeding after birth"
-  - "postpartum week bleeding"
-  - "weak and shaky postpartum"
-  - "what do i do if i am bleeding after birth"
-  - "what do i do if i feel dizzy postpartum"
-  - "what do i do if postpartum bleeding is heavy"
-  - "what do i do if i pass a big clot"
-  - "help i am bleeding heavily after baby"
-  - "help i feel faint and am bleeding postpartum"
-  - "help i am soaking pads postpartum"
-  - "my bleeding is heavy after delivery"
-  - "my heart is racing postpartum"
-  - "feeling weak after birth"
-  - "blood clots the size of an egg"
-  - "soaked through pad in an hour"
-  - "dizziness one month after birth"
-  - "heavy bleeding six weeks after baby"
-  - "feeling lightheaded while breastfeeding"
-  - "postpartum blood flow increased"
-last_reviewed: "2026-03-16"
+  - postpartum bleeding
+  - heavy postpartum bleeding
+  - bleeding after delivery
+  - after birth bleeding
+  - soaking pads after birth
+  - passing large clots postpartum
+  - lightheaded postpartum
+  - dizzy after having a baby
+  - fainting postpartum
+  - postpartum hemorrhage concern
+  - postpartum warning signs
+  - postpartum recovery emergency
+  - heart racing postpartum
+  - recently pregnant bleeding
+  - bright red bleeding postpartum
+  - sudden heavy bleeding after birth
+  - postpartum week bleeding
+  - weak and shaky postpartum
+last_reviewed: "2026-02-21"
 ---
+
 # What to do if… you have postpartum bleeding that seems heavier than expected and you feel lightheaded (USA)
 
 ## Short answer
-Call 911 immediately. Heavy bleeding combined with lightheadedness or a racing heart is a medical emergency that requires urgent assessment for postpartum hemorrhage.
+This can be an emergency. If your bleeding is heavy and you feel lightheaded or like you might faint, **call 911 now** (or have someone call) and get urgent medical care.
 
 ## Do not do these things
-- Do not **drive yourself** to the hospital or emergency room.
-- Do not **stand up or walk around** if you feel dizzy or faint.
-- Do not **use tampons** or menstrual cups; use only heavy-duty pads to monitor blood loss.
-- Do not **wait for your doctor's office to open** or wait for a return call if symptoms are acute.
-- Do not **ignore the symptoms** even if it has been several weeks since delivery; complications can occur up to 12 weeks postpartum.
-- Do not **take aspirin** or stop any prescribed blood thinners without speaking to emergency personnel.
+- Do not **drive yourself** to the hospital.
+- Do not stay **alone** or hold the baby if you feel faint.
+- Do not use **tampons** or a menstrual cup right now.
+- Do not take **aspirin or NSAIDs (like ibuprofen/naproxen)** unless your clinician told you to. If you’re **prescribed** aspirin or a **blood thinner**, don’t stop it suddenly—tell **911/EMS** and the clinicians what you take.
+- Do not wait to “see if it stops” if bleeding is heavy or symptoms are worsening.
 
 ## What to do now
-1. **Lie down flat on your back immediately.** If you feel like you are going to faint, elevate your legs with pillows or blankets to keep blood flowing to your brain.
-2. **Call 911 or have someone call for you.** Tell the operator clearly: "I am postpartum and experiencing heavy bleeding and lightheadedness." 
-   - State how many weeks/days it has been since you delivered.
-   - Mention if you are soaking through a pad in an hour or less.
-   - Mention if you have passed clots larger than a golf ball or egg.
-3. **Move the baby to a safe, low surface.** If you are alone, place the baby in a crib, bassinet, or on the floor on a blanket before you lose consciousness. If another adult is there, have them take the baby immediately.
-4. **Prepare the house for emergency responders.** If you are able, unlock the front door and turn on outside lights. If you have pets, secure them in a separate room so they do not interfere with the paramedics.
-5. **Gather your "Go Bag" and discharge paperwork.** Keep your hospital discharge papers and a list of current medications (especially any blood thinners or blood pressure meds) ready to hand to EMS.
-6. **Save any large clots or soaked pads.** If possible, place passed clots in a plastic bag or container to show the medical team; this helps them quantify the amount of blood lost.
+1. **Lie down right away.** If you’re dizzy, lie flat. If you feel like you may pass out, lie on your side. Keep your phone in your hand.
+2. **Call 911 now** (or have someone call). Say:  
+   - “I recently had a baby.”  
+   - “I’m bleeding heavily and I feel lightheaded / like I might faint.”  
+   - If relevant: “I’m soaking one or more pads in an hour,” “I’m passing large clots,” “my heart is racing.”  
+   - If you can estimate: ACOG describes very heavy postpartum bleeding as soaking **two pads an hour for more than 1–2 hours**—but with lightheadedness, **call 911 even if you’re not sure about pad counts**.
+3. **Make the baby safe before anything else.** If you’re alone, place the baby in a safe spot (crib/bassinet/on the floor on a blanket) so you’re not holding them if you faint. If another adult is present, have them take over baby care immediately.
+4. **If you can safely do it, get ready for EMS.** Unlock the door, turn on a light, and lie where you can be found quickly. Put pets away if possible.
+5. **Go to the right place for postpartum emergencies.** If you are told to self-transport (only if you are stable and not alone), go to the **nearest Emergency Department** or, if instructed by your hospital, **Labor & Delivery triage**. With dizziness/lightheadedness, **EMS is safer** than a car.
+6. **Share key info (but don’t delay care).** The date/time you delivered, any recent complications, your current meds (especially blood thinners/aspirin), allergies, and when the heavy bleeding started.
 
 ## What can wait
-- You do not need to determine the cause of the bleeding (e.g., retained placenta, uterine atony) yourself.
-- You do not need to notify your insurance company or primary OB/GYN before seeking emergency care.
-- You do not need to worry about "overreacting" or "bothering" emergency services; these symptoms are validated high-priority warning signs.
+- You do not need to decide right now what caused the bleeding.
+- You do not need to measure exact blood loss.
+- You do not need to reach your OB office before getting help — the priority is **urgent medical evaluation**.
 
 ## Important reassurance
-It is normal to feel a sense of panic or confusion when you see more blood than expected, especially when feeling physically weak. Paramedics and emergency room staff are trained specifically to stabilize postpartum patients and identify the source of the bleeding quickly.
+Many people second-guess themselves after birth and worry about “overreacting.” Heavy bleeding plus lightheadedness is a valid reason to seek emergency help immediately.
 
 ## Scope note
-This guide is for first-step stabilization only. It covers the immediate actions to take when heavy bleeding and dizziness occur simultaneously in the first 12 weeks after birth.
+This is first-steps guidance only. Clinicians may check your vital signs, examine you, and treat the cause of bleeding, but your job right now is to get safely into urgent care.
 
 ## Important note
-This information is not a medical diagnosis. Postpartum hemorrhage is a time-sensitive emergency. Always follow the instructions of emergency dispatchers and on-site medical professionals.
+This guide is general information and not a diagnosis or personalized medical advice. If you have heavy postpartum bleeding or feel dizzy/faint, seek emergency medical care right away.
 
 ## Additional Resources
 - https://www.cdc.gov/hearher/maternal-warning-signs/index.html
-- https://medlineplus.gov/postpartumcare.html
-- https://medlineplus.gov/ency/patientinstructions/000628.htm
-- https://www.ncbi.nlm.nih.gov/books/NBK499988/
-- https://www.cdc.gov/hearher/docs/pdf/CDC-Hear-Her-Womens-urgent-warning-signs-h.pdf
+- https://www.acog.org/womens-health/experts-and-stories/the-latest/3-conditions-to-watch-for-after-childbirth
+- https://www.acog.org/womens-health/faqs/postpartum-pain-management
+- https://saferbirth.org/aim-resources/aim-cornerstones/urgent-maternal-warning-signs/
+- https://www.cdc.gov/hearher/news-media/article-urgent-warning-signs.html

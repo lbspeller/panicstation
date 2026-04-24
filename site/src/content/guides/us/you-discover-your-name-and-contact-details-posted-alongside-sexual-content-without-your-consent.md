@@ -1,94 +1,92 @@
----
+﻿---
 title: "What to do if… you discover your name and contact details posted alongside sexual content without your consent"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "name posted with sexual content"
-  - "contact details shared without consent"
-  - "doxxing with explicit content"
-  - "nonconsensual intimate images"
-  - "revenge porn help"
-  - "fake porn profile with my details"
-  - "deepfake sexual content of me"
-  - "someone impersonating me sexually"
-  - "phone number on porn site"
-  - "email posted on adult site"
-  - "address shared with sexual content"
-  - "online sexual abuse disclosure"
-  - "someone is sending people to me"
-  - "intimate images shared without consent"
-  - "threats to share sexual images"
-  - "panic after finding explicit post"
-  - "identity misuse with porn"
-  - "sexual content linked to my name"
-  - "help i am being doxxed on porn site"
-  - "what do i do if my nudes are leaked"
-  - "what do i do if my address is on a porn site"
-  - "what do i do if someone is using my name for sex work"
-  - "what do i do if my phone number is on a sex site"
-  - "help i am being harassed by people from a porn site"
-  - "help my name is on a sexual forum"
-  - "my contact info is on a sex site"
-  - "my details are on a revenge porn site"
-  - "nude photos with my phone number"
-  - "explicit videos with my address"
-  - "sexual impersonation help"
-last_reviewed: "2026-03-17"
+  - name posted with sexual content
+  - contact details shared without consent
+  - doxxed with explicit content
+  - nonconsensual intimate images
+  - revenge porn situation
+  - fake porn profile with my details
+  - deepfake sexual content of me
+  - someone impersonating me sexually
+  - phone number on porn site
+  - email posted on adult site
+  - address shared with sexual content
+  - sexual harassment online
+  - online sexual abuse disclosure
+  - someone is sending people to me
+  - intimate images shared without consent
+  - threats to share sexual images
+  - panic after finding explicit post
+  - identity misuse with porn
+  - sexual content linked to my name
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… you discover your name and contact details posted alongside sexual content without your consent (USA)
 
 ## Short answer
-Pause, secure your accounts, and **report the content for removal using platform tools and specialist hashing services** like StopNCII.org or Take It Down instead of confronting the poster.
+Pause, get support, then **save proof and report for removal** (platform + specialist helpline) instead of confronting the poster or deleting everything.
 
 ## Do not do these things
-- Do not respond to the poster, attempt to bargain, or pay any "takedown fees" demanded by the site or individual.
-- Do not download, save, or re-distribute the explicit content itself to others, even to "show proof" or warn friends.
-- Do not delete your accounts or message history in a panic, as these contain the metadata and evidence needed for reporting.
-- Do not use paid "reputation management" services that promise removals for a fee before trying free, official channels.
+- Don’t respond to the person who posted it, bargain with them, or pay money — that often escalates harm.
+- Don’t delete accounts/messages in a panic if they’re your only record of what happened.
+- Don’t spread the link to “warn people” — it can amplify the content.
+- Don’t assume you must handle this alone or be “sure it’s a crime” before asking for help.
 
 ## What to do now
-1. **Get to a safer pause and check your physical safety.**  
-   **If you believe someone is currently traveling to your location or you are being followed, call 911 immediately.** Otherwise, move to a space where you are not alone and take a moment to ground yourself before interacting with the digital content again.
+1. **Get to a safer pause first.**  
+   If you feel physically unsafe or someone is trying to meet you, call **911**. Otherwise, move to a calmer place (near other people) and take 60 seconds to steady your breathing before you act.
 
-2. **Capture evidence without downloading the explicit files.**  
-   **Screenshot the webpage or post ensuring the URL, the account name of the poster, the date/timestamp, and your personal details (name/phone/address) are visible.** Record the URLs of the specific pages where the content is hosted.
+2. **Save basic proof (quick, not perfect).**  
+   Screenshot the page showing: your name/contact details, the account posting it, the URL, and any visible dates/timestamps. If messages are coming in, screenshot a few examples (especially threats or demands).
 
-3. **Use digital hashing tools to prevent further sharing.**  
-   **Access StopNCII.org (for adults) or TakeItDown.ncmec.org (for those under 18 or content showing you as a minor) to create a "digital fingerprint" of the images or videos.** These tools allow platforms to detect and block the content from being uploaded or shared without you ever having to send the actual files to a third party.
+3. **Reduce access to you (without big irreversible changes yet).**  
+   - Turn on spam/unknown caller filtering if available.  
+   - Tighten social privacy (limit DMs; hide phone/email).  
+   - Change passwords for email + major social accounts and turn on **two-factor authentication**.
 
-4. **Report the content directly to the hosting platform.**  
-   **Use the site’s internal reporting tool and select "Non-consensual Intimate Imagery," "Harassment," or "Doxxing/Sharing Private Information."** Under the 2025 TAKE IT DOWN Act, many U.S.-based platforms are legally required to remove non-consensual intimate imagery within 48 hours of a valid request.
+4. **Report it where it is posted (removal first).**  
+   Use the platform/site reporting tools and select categories like **non-consensual intimate imagery**, **impersonation**, and **doxxing/personal information**. If there are multiple copies, start with the most-viewed or the one driving contact to you.
 
-5. **Contact the Cyber Civil Rights Initiative (CCRI) Crisis Helpline.**  
-   **Call 844-878-2274 for free, 24/7 technical and emotional support specifically for victims of non-consensual pornography and doxxing.** They can provide step-by-step guidance on removal for specific sites and refer you to legal resources if needed.
+5. **Get specialist help designed for this exact situation.**  
+   Contact the **Cyber Civil Rights Initiative (CCRI) Crisis Helpline** (for U.S. residents affected by nonconsensual pornography/revenge porn, recorded sexual assault, or sextortion). Tell them: where it’s posted, whether your contact details are included, and whether you’re being threatened or extorted. They can help you prioritize takedown steps and safety.
 
-6. **Secure your personal communications and accounts.**  
-   **Enable "Silence Unknown Callers" on your phone and update your privacy settings on all social media to "Friends Only" or "Private."** Change the passwords for your primary email and any accounts that may have been compromised, and ensure multi-factor authentication (MFA) is active.
+6. **If you want to make an official report, use a route that matches what’s happening.**  
+   - For immediate danger: **911**.  
+   - For a report about what happened: your **local law enforcement** (many have non-emergency/online reporting).  
+   - If the situation involves broader cybercrime, ongoing threats, or you’re unsure where it fits, you can also file through the FBI’s **IC3**.
 
-7. **File an official cybercrime report if you intend to seek prosecution.**  
-   **Submit a complaint through the FBI’s Internet Crime Complaint Center (IC3.gov) or contact your local police department’s digital crimes unit.** Provide the screenshots and URLs you collected in Step 2.
+7. **If anyone is contacting you because of the post, treat it like harassment.**  
+   Don’t argue. Save the messages, block/report the accounts, and use call/text screening. A simple boundary line is enough once (“Do not contact me again.”) — then stop engaging and keep evidence.
 
-8. **Manage incoming harassment with a single boundary.**  
-   **If strangers are contacting you, do not engage in conversation; send one message stating "Do not contact me again" and then immediately block and report the account.** Save a screenshot of the harassment as additional evidence of the harm caused by the post.
+8. **If you may want to report later, preserve evidence lightly (optional).**  
+   Keep your screenshots and key messages. You don’t need to do anything forensic or spend hours collecting everything right now.
+
+9. **Get confidential support if you feel overwhelmed.**  
+   You can contact **RAINN’s National Sexual Assault Hotline** for free, confidential 24/7 support and connection to local services. You don’t need to be certain how to label what happened to deserve help.
 
 ## What can wait
-- You do not need to decide whether to file a civil lawsuit or hire a private attorney today.
-- You do not need to notify your employer, school, or family immediately unless there is a physical safety risk.
-- You do not need to identify the anonymous poster; specialized investigators or law enforcement handle this process.
-- You do not need to change your permanent phone number yet; use filtering and blocking tools first to see if the traffic subsides.
+- You do **not** need to decide now whether to sue, hire a lawyer, or go public.
+- You do **not** need to change your phone number/email immediately — start with filtering, privacy settings, and preserving proof.
+- You do **not** need to identify the poster yourself.
+- You do **not** need to tell your employer/school today unless there’s an immediate safety concern.
 
 ## Important reassurance
-The panic and "tunnel vision" you may feel right now are standard physiological responses to a violation of privacy. Finding your details in this context is a form of digital battery. You are not responsible for the actions of the person who posted this, and there are established, automated systems designed to help you regain your privacy.
+What you’re describing is a known form of sexual abuse and harassment online. The shock and panic are normal — and they don’t mean you’re “overreacting.” The goal right now is to **regain control**: reduce access to you, save enough proof, and use reporting + specialist support so you’re not carrying this alone.
 
 ## Scope note
-This guide covers first-step stabilization and removal procedures for U.S. residents. It does not replace legal advice or long-term safety planning.
+First steps only. After the immediate situation stabilizes, you may want help with longer-term safety planning and ongoing digital cleanup, which can vary by state and platform.
 
 ## Important note
-If the content involves anyone under the age of 18, it is legally classified as Child Sexual Abuse Material (CSAM) and must be reported to the National Center for Missing & Exploited Children (NCMEC) via the CyberTipline. Federal laws regarding non-consensual imagery vary, but the TAKE IT DOWN Act (2025) provides specific removal rights across most major U.S. platforms.
+This is general information, not legal advice or emergency services. If you’re in immediate danger, call 911. If any of the content involves someone under 18, treat it as urgent: you can use **Take It Down** (a service designed to help remove online nude/sexually explicit images of people under 18) and also report promptly to law enforcement.
 
 ## Additional Resources
-- https://cybercivilrights.org/ccri-safety-center/
-- https://www.womenslaw.org/about-abuse/abuse-using-technology/ways-survivors-use-and-abusers-misuse-technology/abuse-8
-- https://www.womenslaw.org/about-abuse/abuse-using-technology/ways-survivors-use-and-abusers-misuse-technology/abuse-9
-- https://www.womenslaw.org/about-abuse/abuse-using-technology/ways-survivors-use-and-abusers-misuse-technology/abuse-13
-- https://www.womenslaw.org/find-help/federal/posting-nudesexual-images-without-consentrevenge-porn
+- https://cybercivilrights.org/ccri-crisis-helpline/
+- https://consumer.ftc.gov/articles/nonconsensual-distribution-intimate-images
+- https://rainn.org/learn-about-rainn/contact-us/
+- https://www.ic3.gov/
+- https://takeitdown.ncmec.org/faq/
+- https://www.missingkids.org/gethelpnow/isyourexplicitcontentoutthere

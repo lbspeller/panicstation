@@ -1,81 +1,93 @@
----
+﻿---
 title: "What to do if… your child’s travel document details do not match the booking and you are about to check in"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "child passport mismatch booking"
-  - "child travel document mismatch"
-  - "child booking details error"
-  - "child travel document error"
-  - "name on ticket wrong child"
-  - "help i misspelled my childs name on a flight"
-  - "what do i do if my childs passport doesnt match ticket"
-  - "what do i do if child name is wrong on booking"
-  - "what do i do if i misspelled child surname flight"
-  - "help i put the wrong date of birth for my child"
-  - "wrong name on boarding pass child"
-  - "passport name and ticket name different"
-  - "middle name missing on child ticket"
-  - "double barrelled surname flight mismatch"
-  - "hyphen missing on child airline ticket"
-  - "typo in childs name on flight"
-  - "incorrect passenger details at check in"
-  - "api details mismatch passport"
-  - "misspelled child name on boarding pass"
-  - "child surname mismatch booking"
-  - "name correction vs name change flight"
-  - "airline name correction policy uk"
-  - "child passport and booking name different"
-  - "api data mismatch child"
-  - "typo in childs date of birth flight"
-  - "wrong surname child flight check in"
-  - "passport number wrong on booking"
-last_reviewed: "2026-03-17"
+  - child passport mismatch booking
+  - child travel document mismatch
+  - name on ticket wrong child
+  - surname mismatch ticket passport
+  - first name misspelled booking
+  - middle name missing ticket
+  - double-barrelled surname issue
+  - hyphen apostrophe name problem
+  - diacritics accent marks missing
+  - booking details not matching passport
+  - airline check-in name mismatch
+  - api details wrong at check-in
+  - about to check in airport panic
+  - travel agent entered wrong name
+  - codeshare booking name correction
+  - infant child name on booking
+  - passport number wrong booking
+  - date of birth wrong booking
+  - child document details typo
+  - boarding pass name mismatch
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… your child’s travel document details do not match the booking and you are about to check in (UK)
 
 ## Short answer
-Do not complete the check-in process and immediately request a name correction from the airline to ensure the ticket matches the child's travel document. Go to the airline’s airport service desk or contact their urgent support line to request a correction of a clerical error for the same passenger.
+Don’t complete check-in yet—get the airline to correct the passenger details on the reservation/ticket so they match your child’s travel document. Go straight to the airline (or operating carrier) and ask for a **typo/data correction for the same passenger**.
 
 ## Do not do these things
-- Do not attempt to complete check-in with known incorrect details as this can lock the record and make corrections more difficult.
-- Do not assume that minor errors in the surname or date of birth will be ignored at the gate.
-- Do not purchase a new ticket until you have confirmed with the airline that a correction or ticket reissue is not possible.
-- Do not attempt to manually edit Advance Passenger Information (API) to hide a mismatch on the ticket; the ticket name and document name must align.
-- Do not leave the check-in area or split up from the child, as their presence and physical document are required for verification.
+- Don’t “guess” which version of your child’s details will work and keep trying variations—this can create conflicting records that are harder to fix quickly.
+- Don’t assume it’s fine if the **surname/first name or date of birth** is wrong—airlines commonly require these to match the travel document for check-in/boarding.
+- Don’t buy a brand-new ticket in a rush until you’ve asked whether the airline can do a correction or reissue (fees/rules vary).
+- Don’t shorten or rearrange a double-barrelled surname, or swap name order “to make it look right”—use what’s on the travel document.
+- Don’t split up from your child while you fix this—you may need them present to show documents, answer questions, or sign anything the airline requires.
 
 ## What to do now
-1. **Verify the exact character-by-character mismatch between the document and the booking.** Compare the child’s passport photo page against the booking confirmation or e-ticket, specifically checking the spelling of all names, the order of names, and the date of birth.
-2. **Identify if the error is a system normalization or a genuine mismatch.** If the only difference is a missing hyphen, an apostrophe, or an accent mark (e.g., O'Connor appearing as OCONNOR), this is usually a system limitation and does not require a correction.
-3. **Determine the ticket owner to identify who has the authority to change the record.** 
-   - If you booked via a travel agent or third-party site, they may need to authorize the change.
-   - If you are at the airport, go directly to the desk of the operating airline (the carrier actually flying the plane).
-4. **Request a "name correction" specifically rather than a "name change" when speaking to staff.** Use the phrase: "This is a typo correction for the same passenger to match their travel document." 
-   - Provide the booking reference and the child's passport immediately.
-   - Explain that this is not a transfer of the ticket to a different person.
-5. **Request the most efficient fix available under the airline's 2026 policy.** 
-   - Ask for a free correction if the error is under three characters (a common industry threshold).
-   - If a fee is required, ask for a "reissue" or "revalidation" of the existing ticket.
-6. **Obtain a physical or digital confirmation of the corrected booking before leaving the desk.** Ensure the new details are reflected in the airline’s system and verify that you can now successfully generate a boarding pass.
-7. **Address travel document errors separately if the passport itself is the source of the mismatch.** If the error is on the child's travel document rather than the booking, the airline cannot fix this at the airport; you will likely need to rebook or contact HM Passport Office for an emergency appointment.
+1. **Identify exactly what’s wrong (2 minutes, character-by-character).**  
+   Using your child’s travel document photo page, compare:
+   - first name(s) and surname (including hyphens, apostrophes, spacing)
+   - date of birth  
+   For many trips, these are the main blockers. Passport/document number and expiry often matter most for international travel and Advance Passenger Information (API/APIS).
+
+2. **Check whether it’s a “formatting difference” or a real mismatch.**  
+   Some systems drop accents/diacritics or squeeze spaces. If the underlying letters match and it’s just accent marks or spacing, tell staff that the booking system has “normalised” characters. If letters are missing/added or names are swapped, treat it as a real mismatch.
+
+3. **Work out who can fix it fastest: seller vs operating airline.**  
+   - If you booked with a **travel agent/website**, they may “own” the ticket and be the only one who can reissue it.  
+   - If the flight is a **codeshare**, the **operating airline** is the one you must be able to check in with—go to that airline’s desk.
+
+4. **Go to a staffed airline desk (or urgent support) and use the right wording.**  
+   Say: “This is the same child passenger. We need a **typo/data correction to match the passport/travel document**—this is not a ticket transfer to another person.”  
+   Have ready:
+   - booking reference(s) and e-ticket number (if you have it)
+   - your child’s passport/travel document
+   - a screenshot/photo of the incorrect booking details (if available)
+
+5. **Ask for the least disruptive fix first, then the next option.**
+   - **Minor correction/typo correction** (where allowed under the fare rules/airline policy)
+   - If they can’t edit the ticket details directly: **reissue/revalidate** the ticket with the corrected passenger details (this may involve a fee and/or fare/tax difference)
+   - If they say it’s not possible: ask for the **official options** (same-day rebooking, later flight, new ticket) and what happens to the old ticket value
+
+6. **If check-in time is tight, do two things at once without creating chaos.**
+   - Stay in the airline help line/desk queue while (if there’s another adult) someone calls/chat-supports the seller/airline.  
+   - Keep one “source of truth” (one corrected spelling/DOB written down) and don’t authorise multiple different changes.
+
+7. **If the mismatch is because the travel document itself is wrong, assume it won’t be fixable at the airport.**  
+   In the UK, document corrections typically require HM Passport Office processes/appointments rather than an on-the-spot airport fix. In that case, focus on the airline’s rebooking options now, and deal with document correction separately once you’re out of the immediate time pressure.
 
 ## What can wait
-- You do not need to determine who was at fault for the error while you are trying to catch your flight.
-- You do not need to initiate a formal complaint or insurance claim until after the travel window has passed.
-- You do not need to update secondary profiles, such as frequent flyer accounts or saved passenger lists, at this moment.
+- You do **not** need to decide who made the mistake or argue with the seller at the airport—prioritise getting a valid check-in/boarding pass outcome.
+- You do **not** need to start refunds, complaints, or insurance claims right now—just keep documents, screenshots, and receipts.
+- You do **not** need to fix every profile detail (frequent-flyer account, saved passengers) today unless staff say it’s directly blocking the correction.
 
 ## Important reassurance
-Name mismatches are a frequent occurrence in air travel, particularly with children who may have multiple middle names or hyphenated surnames that booking systems truncate. Airport staff and airline help desks deal with these corrections daily and have established protocols to rectify clerical errors for the same passenger.
+This is a common problem—especially with children’s multiple given names, hyphenated surnames, and booking forms that truncate or alter characters. The quickest way through is one calm, authorised correction rather than repeated DIY edits.
 
 ## Scope note
-This guide provides first-step stabilization for an immediate document mismatch at the point of check-in. It does not cover long-term legal disputes over ticket costs or the process for correcting errors on government-issued passports.
+These are first steps for the next hour. If travel is missed or costs are incurred, you may need follow-up with the airline/travel agent and (if relevant) your insurer after the urgent moment has passed.
 
 ## Important note
-This information is for guidance only and does not constitute legal or professional travel advice. Acceptance of passenger name corrections is subject to the specific terms and conditions of the operating airline and the security regulations of the departure and arrival jurisdictions.
+This guide is general information, not legal advice. Airline policies and fare rules vary, and acceptance of any correction ultimately depends on the airline operating your flight and the ticket rules for your booking.
 
 ## Additional Resources
-- https://www.abta.com/help-and-complaints/frequently-asked-questions/name-one-my-travel-tickets-has-been-mis-spelt-can-my
-- https://www.britishairways.com/content/information/help/faqs/changes-cancellations
-- https://www.easyjet.com/en/help/boarding-and-flying/travel-documents-and-information
-- https://help.ryanair.com/hc/en-gb/articles/20041791275921-The-name-on-my-booking-doesn-t-match-the-name-on-my-passport-what-should-I-do
-- https://www.gov.uk/guidance/foreign-travel-checklist
+- https://www.britishairways.com/travel/helpcentre/public/en_gb/faq/content/booking/change-passenger-name
+- https://www.britishairways.com/content/information/legal/our-customer-commitment
+- https://help.ryanair.com/hc/en-gb/articles/12890364450961-What-passenger-details-on-my-booking-can-I-change-online
+- https://www.caa.co.uk/passengers-and-public/passenger-guidance/planning-your-flight/
+- https://www.gov.uk/government/publications/preventing-and-resolving-errors-on-passports/how-to-correct-errors-on-passports-accessible

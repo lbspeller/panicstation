@@ -1,95 +1,67 @@
----
+﻿---
 title: "What to do if… you suddenly lose hearing in one ear or hearing drops sharply"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "sudden hearing loss"
-  - "hearing loss"
-  - "hearing loss one ear"
-  - "hearing drops sharply"
-  - "sudden hearing loss one ear"
-  - "hearing drops sharply uk"
-  - "sudden deafness in one ear"
-  - "one ear went deaf suddenly"
-  - "what do i do if i suddenly lose hearing"
-  - "what do i do if my hearing drops"
-  - "what do i do if i cant hear in one ear"
-  - "what do i do if my ear feels blocked and deaf"
-  - "help i suddenly lost my hearing"
-  - "help i cant hear in my left ear"
-  - "help i cant hear in my right ear"
-  - "help my hearing disappeared overnight"
-  - "muffled hearing in one ear"
-  - "popped ear wont clear"
-  - "ringing and hearing loss"
-  - "dizzy and hearing loss"
-  - "ear fullness and deafness"
-  - "sudden deafness after waking up"
-  - "blocked ear no wax"
-  - "ear feels like it has water in it"
-  - "tinnitus sudden hearing loss"
-  - "cannot hear speech in one ear"
-  - "hearing loss 72 hours"
-  - "sensorineural hearing loss"
-  - "ear emergency uk"
-  - "111 sudden hearing loss"
-last_reviewed: "2026-03-16"
+  - sudden hearing loss one ear
+  - hearing dropped overnight
+  - muffled hearing suddenly
+  - sudden deafness one ear
+  - blocked ear but sudden
+  - hearing loss after cold
+  - hearing loss after flight
+  - ear fullness sudden
+  - sudden tinnitus one ear
+  - sudden vertigo with hearing
+  - hearing loss after loud noise
+  - hearing loss after shower
+  - earwax or sudden hearing loss
+  - one ear sounds distant
+  - hearing change within 3 days
+  - sudden hearing loss no pain
+  - hearing loss with dizziness
+  - hearing loss with headache
+last_reviewed: "2026-01-21"
 ---
+
 # What to do if… you suddenly lose hearing in one ear or hearing drops sharply (UK)
 
 ## Short answer
-Seek medical assessment immediately. If your hearing dropped suddenly (over 72 hours or less), contact NHS 111 or your GP for an urgent same-day appointment to ensure you are assessed within the critical window for treatment.
+Treat sudden one-sided hearing loss as urgent. If it came on suddenly (over 3 days or less), seek help today via NHS 111 or an urgent GP appointment, and aim for urgent specialist assessment (often within 24 hours).
 
 ## Do not do these things
-- Do not wait to see if the hearing returns on its own; delayed treatment significantly reduces the chance of recovery.
-- Do not insert cotton buds, pins, or any objects into the ear canal to try and clear a perceived blockage.
-- Do not attempt home ear irrigation or syringing, especially if you have pain or discharge.
-- Do not perform aggressive "ear-popping" maneuvers if they cause pain or worsen the deafness.
-- Do not assume the cause is earwax without a clinical examination of the eardrum.
-- Do not drive or operate machinery if you are also experiencing dizziness or a spinning sensation.
+- Do not “wait a few days to see if it clears” if the drop was sudden or over 3 days or less.
+- Do not put objects (cotton buds, keys, hairpins) in your ear to “clear it”.
+- Do not try forceful ear-popping, aggressive Valsalva, or repeated hard blowing if it hurts or makes symptoms worse.
+- Do not flush/irrigate your ear at home unless a clinician has specifically advised it for you (especially if you have pain, discharge, a perforation history, grommets, or recent infection).
+- Do not start leftover antibiotics or steroid tablets on your own.
+- Do not drive yourself if you have severe vertigo, new weakness/numbness, confusion, or visual/speech changes.
 
 ## What to do now
-1. **Identify emergency symptoms that require a 999 call.** Call **999** immediately if the hearing loss is accompanied by:
-   - Facial drooping on one side.
-   - Sudden weakness in the arms or legs.
-   - Difficulty speaking or slurred speech.
-   - Sudden, severe headache unlike any you have had before.
-2. **Go to A&E for specific ear-related trauma or infections.** Seek immediate hospital care if:
-   - The hearing loss occurred immediately after a head injury or a loud "pop" or blast.
-   - There is blood or clear fluid leaking from the ear.
-   - You see blisters or a rash on or around the ear or on the roof of your mouth.
-   - You cannot stand or walk due to severe, continuous vertigo (spinning).
-3. **Contact NHS 111 or your GP for an urgent same-day assessment.** Tell the operator or receptionist: **"I have sudden onset hearing loss in one ear that started [number] hours ago."**
-   - If the loss happened within the last 72 hours, state clearly that you require an **urgent ENT (Ear, Nose, and Throat) referral** or assessment, as this is a time-sensitive medical priority.
-4. **Note your specific symptoms for the clinician.** Use a pen or phone to record:
-   - The exact time the hearing changed.
-   - Whether it happened instantly, over a few hours, or over a couple of days.
-   - If you also have new ringing (tinnitus), a feeling of "fullness," or dizziness.
-   - Any recent colds, flu, or air travel.
-5. **Perform a safe external check of your environment and devices.** If you use a hearing aid, change the battery and check for visible wax in the device (do not probe your ear).
-   - Ensure your phone's audio balance has not been accidentally shifted to one side.
-   - Ask someone to speak to you from a distance to confirm the loss is isolated to one ear.
-6. **Stay physically stable until you are seen by a professional.** Move slowly, especially when standing up or turning your head, as sudden hearing loss often affects your balance.
-   - Sit or lie down if you feel unsteady.
-   - Keep a light on if moving around at night to help your eyes compensate for any balance issues.
+1. **Check for emergency red flags (act immediately if present).** Call **999** if you also have any stroke-like signs (face drooping, arm weakness, speech problems), sudden severe headache, new confusion, collapse, or chest pain. Go to **A&E** urgently if the hearing loss followed a head injury, there is blood/fluid from the ear, or you cannot safely stand/walk because of severe continuous dizziness.
+2. **Get urgent NHS assessment today and use clear wording.** Contact **NHS 111** (online or phone) or request an **urgent GP appointment** and say: **“Sudden hearing loss in one ear started on [date/time].”** If it developed **over 3 days or less**, ask to be treated as **sudden onset hearing loss** and for **urgent ENT assessment/referral** (often immediate/within 24 hours if it started recently).
+3. **Be ready for a quick check for obvious “conductive” causes.** A clinician may look for wax, middle-ear fluid, or infection. If they can’t clearly explain it as an outer/middle-ear problem, it should be treated as potentially time-sensitive and escalated.
+4. **Write down a 60-second timeline before you call.** Note: exact start time, whether it was instant or over hours, any ear pain/discharge, recent cold/flu, recent flight/diving, loud noise exposure, new tinnitus, vertigo, and any new neurological symptoms. This helps triage.
+5. **Do a safe reality check (no tools in your ear).** Remove earbuds/hearing aids, check your phone audio/balance settings, and ask someone to speak at normal volume. If you use a hearing aid, replace the battery/charge it and check wax guards per device instructions (no probing your ear canal).
+6. **Protect the ear and your balance until you’re assessed.** Avoid loud noise, keep volume low in headphones, and move slowly if dizzy. If you feel unsteady, sit or lie down and ask someone to stay with you or help you get to care safely.
 
 ## What can wait
-- You do not need to diagnose whether the issue is "conductive" (wax/fluid) or "sensorineural" (nerve-related) right now; this requires an otoscope and tuning fork test by a clinician.
-- You do not need to buy ear drops or over-the-counter treatments before an examination.
-- Long-term concerns about hearing aids or permanent disability can be addressed after the acute phase is managed.
+- You do **not** need to decide right now whether it’s “wax”, “infection”, “pressure”, or “nerve-related.” A clinician needs to examine the ear and often arrange a hearing test.
+- You do **not** need to research treatments or buy devices today.
+- You can postpone non-urgent tasks (work messages, driving, errands) until you’ve been assessed.
 
 ## Important reassurance
-It is normal to feel disoriented or anxious when your hearing suddenly changes. Many cases of sudden hearing loss are successfully treated when medical attention is sought within the first few days. Focusing on getting an assessment now is the most effective way to manage the situation.
+Sudden one-sided hearing changes are frightening and can feel disorienting. Many causes are treatable—what matters most right now is **being assessed quickly** so time-sensitive options aren’t missed.
 
 ## Scope note
-This guide provides first-step stabilization for the immediate onset of hearing loss. It does not replace the need for specialized ENT testing or long-term audiological care.
+This guide covers first steps for the **first hours/day**. Follow-up tests (hearing test, ENT review, scans) and longer-term decisions come later.
 
 ## Important note
-This information is for guidance in acute situations and is not a medical diagnosis. If you have had sudden hearing loss for more than 30 days, you still require an urgent GP appointment, though the immediate emergency window for some treatments may have passed.
+This is general information, not a diagnosis. If your hearing loss was sudden, worsened rapidly, or comes with neurological symptoms, severe dizziness, injury, or discharge, seek urgent medical care immediately.
 
 ## Additional Resources
+- https://www.nice.org.uk/guidance/ng98/chapter/recommendations
+- https://www.nice.org.uk/guidance/qs185/chapter/quality-statement-2-sudden-onset-of-hearing-loss
 - https://www.nhs.uk/conditions/hearing-loss/
-- https://www.nhs.uk/conditions/labyrinthitis/
-- https://www.uhsussex.nhs.uk/resources/what-to-do-if-you-have-a-sudden-change-in-hearing/
+- https://rightdecisions.scot.nhs.uk/nhs-tayside-refguide/specialist-surgery-and-specialist-services/ent/sudden-hearing-loss/
 - https://rnid.org.uk/information-and-support/hearing-loss/types-of-hearing-loss-and-deafness/sudden-hearing-loss/
-- https://www.hey.nhs.uk/patient-leaflet/sudden-sensorineural-hearing-loss-ssnhl/

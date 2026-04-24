@@ -1,94 +1,72 @@
----
+﻿---
 title: "What to do if… your child says someone online is threatening them for sexual images or money"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "child online sexual threats"
-  - "child sextortion scam"
-  - "sexual images blackmail child"
-  - "threatened for nudes child"
-  - "threatened for money online child"
-  - "online grooming threat"
-  - "stranger demanding explicit pictures"
-  - "someone has my childs nudes"
-  - "blackmail over snapchat"
-  - "blackmail over instagram dm"
-  - "blackmail over whatsapp"
-  - "online predator threatening child"
-  - "intimate images shared under 18"
-  - "scared to tell parent sextortion"
-  - "urgent help child online abuse"
-  - "stop them sharing photos"
-  - "pay or i ill send it threat"
-  - "send more or i ill post it"
-  - "what do i do if my child is being blackmailed"
-  - "what do i do if someone has my childs photos"
-  - "what do i do if an adult is threatening my child"
-  - "what do i do if my son sent nudes to a stranger"
-  - "help i think my child is being groomed"
-  - "help i think my daughter is being blackmailed"
-  - "help my child sent a nude photo to a scammer"
-  - "my child is being threatened for money online"
-  - "my child is scared of an online stranger"
-  - "smell of panic"
-  - "visible distress after phone notification"
-  - "sudden phone concealment"
-  - "child crying over social media"
-  - "demanding gift cards from child"
-  - "demanding crypto from child"
-  - "threats to send images to school"
-  - "threats to send images to family"
-last_reviewed: "2026-03-17"
+  - child online sexual threats
+  - child sextortion scam
+  - sexual images blackmail child
+  - threatened for nudes child
+  - threatened for money online child
+  - online grooming threat
+  - stranger demanding explicit pictures
+  - someone has my child’s nudes
+  - blackmail over snapchat
+  - blackmail over instagram dm
+  - blackmail over whatsapp
+  - online predator threatening child
+  - intimate images shared under 18
+  - scared to tell parent sextortion
+  - urgent help child online abuse
+  - stop them sharing photos
+  - “pay or i’ll send it” threat
+  - “send more or i’ll post it”
+last_reviewed: "2026-03-13"
 ---
-# What to do if… your child says someone online is threatening them for sexual images or money (UK)
 
+# What to do if… your child says someone online is threatening them for sexual images or money (UK)
 ## Short answer
-Ensure your child is safe, reassure them they are not in trouble, and immediately stop all communication with the person making threats. Do not pay money or send further images, and report the situation to the police via 999 if there is immediate danger or CEOP for online sexual abuse.
+Get your child to a calm, safe space and make it clear they are not in trouble. Do not pay or send anything—note the key account details safely, block/report the account, and report it to CEOP; if there’s immediate danger call 999, and if it’s not immediate danger you can also report to the police via 101/online.
 
 ## Do not do these things
-- Don’t pay, send gift cards, or negotiate with the person, as this almost always leads to further and higher demands.
-- Don’t tell the child off or take their device away as a punishment, as this can make them stop sharing vital information and increase their sense of isolation.
-- Don’t screenshot, save, or share any of the actual sexual images or videos of the child, as possessing or distributing such material (even for evidence) can be a criminal offense.
-- Don’t delete the accounts or message history immediately, as these contain the evidence needed for a police investigation.
-- Don’t contact the blackmailer yourself to argue or make threats.
+- Don’t pay, send gift cards/crypto, or negotiate “just to make it stop” (demands usually escalate).
+- Don’t tell your child off, threaten punishments, or take their phone away as a first reaction (it can stop them sharing key info and make them feel trapped).
+- Don’t forward, download, or re-share any sexual images (especially of an under-18).
+- Don’t contact the blackmailer yourself in an emotional back-and-forth or make threats—keep communication minimal and focused on safety.
+- Don’t rush into deleting accounts/chats before you’ve noted the essentials (you may lose key identifiers needed for reports).
 
 ## What to do now
-1. **Provide immediate physical and emotional proximity to your child to reduce their panic.** Sit with them in a quiet space and confirm that they have done the right thing by telling you and that the wrongdoing is entirely on the part of the person making threats.
-2. **Determine if there is an immediate physical risk to the child's safety.** Ask if the person knows their real name, home address, or school, or if there have been threats of physical violence or an attempt to meet in person.
-   - If there is an immediate threat of physical harm, **call 999**.
-3. **Instruct your child to stop all communication and block the account on the platform where the contact occurred.** Use the in-app reporting tools specifically for "sexual exploitation" or "harassment" before blocking.
-   - Switch the child’s account settings to "Private."
-   - Disable Direct Messages (DMs) from accounts they do not follow.
-4. **Preserve non-explicit evidence such as usernames and payment demands.** Record the following information on paper or a separate device:
-   - The username, display name, and profile URL of the perpetrator.
-   - The platform or app being used (e.g., Snapchat, Instagram, Discord).
-   - The specific demands made (e.g., "send £50," "send more videos").
-   - Any payment details provided (e.g., bank details, email for PayPal, or gift card requests).
-5. **Report the incident to the authorities through the correct channel.** If you have already reported to the local police (via 101 or 999), you do not need to make a separate report to CEOP.
-   - Use the **CEOP Safety Centre** online to report child sexual abuse or grooming if you have not contacted the police.
-   - Contact your local police via **101** if the situation is not an immediate emergency but involves a criminal threat or financial theft.
-6. **Use the "Report Remove" service to help take down images that may have been shared.** If a sexual image or video has already been posted or sent to others, help your child access the **Report Remove** tool (a partnership between Childline and the IWF) which allows under-18s to report and remove their images from the internet.
-7. **Contact your bank or card provider immediately if money has already been sent.** Inform them that the payment was made under duress/extortion and ask for the transaction to be flagged or reversed.
-8. **Inform the school’s Designated Safeguarding Lead (DSL) if the threat involves other pupils or school life.** Provide only the facts and the perpetrator's username; **never** show or send the sexual images to school staff.
+1. **Stabilise your child first (right now).** Sit with them, lower the pressure (“You did the right thing telling me”), and stay physically nearby if they’re shaken. If you’re worried they might hurt themselves or you can’t keep them safe, **call 999**.
+2. **Check for immediate safety risks.** Ask: “Do they know where you live or go to school?” “Have they threatened to come in person?” If there’s any credible immediate risk or an adult is trying to meet them, **call 999**.
+3. **Preserve key details (focus on identifiers and threats).** On paper or in a notes app, record:
+   - account usernames/handles, display names, phone numbers/emails (if shown)
+   - platform/app name and any profile links
+   - date/time of threats and what was demanded (money, more images, a live video call)
+   - any payment details they gave (bank, wallet address, gift card brand)
+   If you capture screenshots for reporting, **prioritise the threat messages, profile page, usernames, and payment demands**. Avoid saving/copying/sharing explicit images of an under-18; if an explicit image appears on screen, don’t save it—focus on the non-explicit context and identifiers.
+4. **Block and report the account in the app.** Use the platform’s in-app “report” function for sexual exploitation/blackmail and then block the account. Tighten privacy settings (limit who can DM, add, tag, or see stories; turn off contact from unknown accounts where possible).
+5. **Report to CEOP.** Make a report to CEOP’s Child Protection Advisors if you’re worried about online sexual abuse or how someone has been communicating with your child. You can also report to your local police via **101/online** (especially if there’s a credible criminal threat, repeated targeting, or you can’t safely manage the situation).
+6. **Use “Report Remove” if images may already be shared.** If your child is under 18 in the UK and there are nude/sexual images or videos of them online (or being threatened), help them use **Report Remove** (Childline + IWF) to confidentially report it and seek removal where possible.
+7. **If money has been sent (or you’re about to): stop and contact the bank/card provider immediately.** Ask them to stop/recall a transfer or flag fraud. Keep any transaction references for reporting.
+8. **If school is involved, use safeguarding channels.** If the threat involves school peers, school devices, or your child is too distressed to attend, contact the school’s **Designated Safeguarding Lead (DSL)** and share only the essentials (no images).
 
 ## What can wait
-- You do not need to decide today how to handle long-term internet restrictions or device rules.
-- You do not need to notify other parents or your wider social circle right now.
-- You do not need to perform a full technical "audit" of your child's other social media accounts immediately.
-- You do not need to have a perfect "statement" ready before calling the police or reporting to CEOP.
+- You do **not** need to decide today whether to confront other parents, the school, or the wider family.
+- You do **not** need to do a deep forensic “investigation” of your child’s phone right now—focus on safety, reporting, and stabilising them.
+- You do **not** need to write a perfect account; rough notes of usernames, dates, and demands are enough to start.
 
 ## Important reassurance
-This type of extortion is a professional criminal tactic designed to make children feel trapped and ashamed so they do not seek help. The fact that your child spoke to you has broken the perpetrator's primary tool of control. It is normal for your child to feel intense fear or guilt, but these feelings are a reaction to the crime committed against them, not an admission of fault.
+This is a common tactic used to frighten young people into secrecy. Your child telling you is a strong protective step. Even if your child shared something, the wrongdoing is the threatening/blackmailing behaviour—not your child.
 
 ## Scope note
-This guide provides first-step stabilization for parents or carers in the UK following a disclosure of online extortion. It focuses on harm reduction and reporting. Ongoing emotional support and legal proceedings will require further professional guidance.
+These are first steps to reduce harm and get the right people involved quickly. Follow-up (platform processes, police updates, school safeguarding plans, emotional support) can happen once the immediate pressure has eased.
 
 ## Important note
-This guide is for informational purposes only and does not constitute legal or professional safeguarding advice. If you believe a child is in immediate danger of physical harm or is at risk of self-harm, call 999 immediately.
+This guide is general information, not legal advice or a substitute for professional safeguarding support. If you believe a child is in immediate danger, call 999.
 
 ## Additional Resources
-- https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/kidnap-and-extortion/sextortion
-- https://www.childline.org.uk/info-advice/bullying-abuse-safety/abuse-safety/being-blackmailed/
+- https://www.ceop.police.uk/Safety-Centre/
+- https://www.ceop.police.uk/reporting-unavailable/
 - https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/report-remove/
-- https://www.iwf.org.uk/resources/sextortion/parents-and-carers/
-- https://www.internetmatters.org/resources/what-is-sextortion/
+- https://www.iwf.org.uk/our-technology/report-remove/
+- https://learning.nspcc.org.uk/research-resources/report-remove

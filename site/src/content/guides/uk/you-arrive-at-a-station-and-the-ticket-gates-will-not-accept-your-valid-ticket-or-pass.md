@@ -1,86 +1,74 @@
----
+﻿---
 title: "What to do if… you arrive at a station and the ticket gates will not accept your valid ticket or pass"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "ticket gates not accepting ticket"
-  - "valid ticket rejected at barrier"
-  - "rail barrier won't open"
-  - "ticket won't scan at station"
-  - "gate says seek assistance"
-  - "oyster or contactless not working"
-  - "travelcard not accepted at gate"
-  - "railcard discounted ticket rejected"
-  - "e-ticket qr not scanning"
-  - "mobile ticket not scanning"
-  - "barrier won't take paper ticket"
-  - "stuck inside gateline"
-  - "can't exit station with ticket"
-  - "station unstaffed barrier issue"
-  - "missed train due to gate fault"
-  - "ticket worked earlier now rejected"
-  - "gate reader error message"
-  - "ticket gate won't read magstripe"
-  - "pass not recognised at station"
-  - "fare gate not opening uk"
-  - "ticket barrier malfunction"
-  - "help i can't get through the train gates"
-  - "help i am stuck at the station barriers"
-  - "what do i do if my ticket is rejected"
-  - "what do i do if my oyster card won't touch out"
-  - "what do i do if the gate says seek assistance"
-  - "my train ticket won't scan"
-  - "my contactless card is rejected at the station"
-  - "my railcard ticket isn't working"
-  - "seek assistance error code 09"
-  - "seek assistance error code 12"
-  - "barrier red light flashing"
-  - "barrier screen error message"
-  - "station help point location"
-  - "emergency exit at station"
-last_reviewed: "2026-03-17"
+  - ticket gates not accepting ticket
+  - valid ticket rejected at barrier
+  - rail barrier won’t open
+  - ticket won’t scan at station
+  - gate says seek assistance
+  - oyster or contactless not working
+  - travelcard not accepted at gate
+  - railcard discounted ticket rejected
+  - e-ticket qr not scanning
+  - mobile ticket not scanning
+  - barrier won’t take paper ticket
+  - stuck inside gateline
+  - can’t exit station with ticket
+  - station unstaffed barrier issue
+  - missed train due to gate fault
+  - ticket worked earlier now rejected
+  - gate reader error message
+  - ticket gate won’t read magstripe
+  - pass not recognised at station
+  - fare gate not opening uk
+  - ticket barrier malfunction
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… you arrive at a station and the ticket gates will not accept your valid ticket or pass (UK)
 
 ## Short answer
-Step aside immediately to avoid blocking others, keep your ticket or device ready, and locate a staffed gate or a station help point. Do not attempt to force the barrier or follow another passenger through, as this may be treated as fare evasion.
+Don’t force the gate or follow someone through. Step aside, keep hold of your ticket/pass, and ask staff (or use a help point/intercom if available) to let you through and check your ticket.
 
 ## Do not do these things
-- Do not push, pull, or jump over the barrier, even if you are certain your ticket is valid.
-- Do not "tailgate" or follow closely behind another passenger to slip through the gate before it closes.
-- Do not force a paper ticket into a slot that is flashing red, showing an "Out of Use" sign, or appears jammed.
-- Do not delete a mobile ticket or close your banking app if a contactless payment failed; you may need to show the transaction history or barcode to staff.
-- Do not engage in an argument with gate staff; if there is a dispute, ask for a "failure to scan" endorsement or a receipt of the interaction.
+- Don’t push the barrier open, jump it, or “tailgate” behind another passenger, even if you’re sure your ticket is valid.
+- Don’t throw away the ticket, delete the mobile ticket, or stop the screen from showing the QR/barcode.
+- Don’t get into a public argument at the gates or block the line; move to the side first.
+- Don’t buy another ticket in a panic unless it’s clear there’s no staff/help point available and you must travel—if you do, use an official channel and keep proof so you can sort it out later.
 
 ## What to do now
-1. **Move out of the flow of traffic and check the gate screen for a specific error code.** Common codes like "09" (seek assistance) or "12" (ticket not valid at this time) help staff identify why the gate is rejecting your pass.
-2. **Perform one controlled retry using a different gate to rule out a localized hardware fault.**
-   - Ensure **paper tickets** are inserted with the orange side up and the magnetic stripe clean.
-   - Set **mobile barcodes** to maximum screen brightness and hold the device approximately 10cm above the glass reader.
-   - Remove **Oyster or contactless cards** from wallets to avoid "card clash" where multiple chips are detected simultaneously.
-3. **Locate the wide manual gate or the member of staff designated for the gateline.** Present your ticket or device clearly and state: "This ticket is valid but the gate has rejected it with error code [number]; please could you check it and let me through?"
-4. **If the station is unstaffed, locate the yellow or green 'Information' help point usually situated near the gates.** Press the button, wait for an operator, and explain that you are stuck at the barrier with a valid ticket; they can often open the gate remotely or provide a code.
-5. **Ask the staff member to manually scan or "endorse" your ticket if it continues to fail.** Under 2026 refund rules, an unscanned ticket may be ineligible for a refund later if you decide not to travel, so ensure a record of the "attempted scan" is made.
-6. **Ensure you have touched out correctly if using Oyster or contactless to avoid an "Incomplete Journey" maximum fare.** If the gate fails to open but the reader beeps or turns green, your card may have been charged; check your TfL or Rail account online within 24 hours to verify the touch.
-7. **Take a photo of the gate screen or the unstaffed station if you are forced to buy a new ticket.** This evidence is essential if you need to claim a refund for the original ticket or a "duplicate" purchase through the Train Operating Company (TOC).
+1. **Step out of the queue and keep your ticket/pass ready to show.** Paper ticket, smartcard, Oyster/contactless card, or mobile barcode—don’t put it away.
+2. **Try one careful retry that avoids common “false rejects”:**
+   - Use a *different gate* (a single reader can fail).
+   - For **paper tickets**, insert smoothly and wait for it to return (don’t pull it out early).
+   - For **mobile barcodes**, increase screen brightness and hold the barcode flat and still over the reader.
+   - For **Oyster/contactless**, tap **only one** card/device and keep other cards away to avoid “card clash”.
+3. **Go to the staffed gate (often the wide/accessible gate) and ask to be let through.** Say: “This ticket/pass is valid but the barrier won’t accept it—can you check and let me through?”
+4. **If no staff are visible, look for a help point/intercom near the gateline (if available).** Press it and explain you have a valid ticket/pass that won’t scan; ask for remote assistance or for someone to attend.
+5. **If you’re trying to EXIT and you’re stuck behind the gates, prioritise being released.** Say: “I need to exit; my ticket/pass won’t open the barrier.” Let staff resolve the details once you’re out.
+6. **If it’s a TfL Oyster/contactless journey, keep it consistent.** Use the *same* card/device to touch in and out, and don’t switch between phone/card. If you can’t get a successful touch out because of the gate, ask staff for help so your journey doesn’t stay incomplete.
+7. **Make a quick record for later (only if it stays calm).** Note station, date/time, and (if visible) gate number and the message shown. If it’s clearly allowed and won’t inflame things, a quick photo can help—but notes are enough.
 
 ## What can wait
-- You do not need to file a formal complaint or a Delay Repay claim while standing at the gate.
-- You do not need to resolve a penalty fare dispute on the spot; if a notice is issued, follow the formal appeals process printed on the back of the paperwork.
-- You can wait until you have completed your journey to check your online banking or TfL account for overcharges.
+- You do **not** need to decide right now whether to complain, claim compensation, or “prove” you were right.
+- You do **not** need to buy a replacement ticket immediately if staff can verify you and open the gate.
+- You can deal with refunds, account corrections, or formal disputes **after** you’ve got through the barrier and you’re safe and calm.
 
 ## Important reassurance
-Ticket gate rejections are extremely common and are often caused by technical issues such as low screen brightness, magnetic stripe corruption, or specific ticket "time-out" settings. A gate rejection is not an accusation of fraud, and staff are trained to verify valid tickets manually when the hardware fails.
+Ticket gates can reject valid tickets for unglamorous reasons: a faulty reader, a ticket type that needs manual checking, barcode brightness/glare, or “card clash” on contactless/Oyster. Needing staff to open a gate is common and doesn’t automatically mean you’ve done something wrong.
 
 ## Scope note
-This guide provides first-step stabilization for accessing or exiting a station when a barrier fails. It does not cover long-term penalty fare appeals or legal disputes regarding ticket validity.
+This is first steps only—focused on getting you through the gates without making the situation worse. If this becomes a penalty fare dispute or happens repeatedly, you may need the operator/TfL or the retailer to investigate.
 
 ## Important note
-Rail regulations and gate protocols may vary between National Rail operators and Transport for London (TfL). From April 2026, stricter refund rules mean that ensuring your ticket is manually checked or scanned by staff during a gate failure is vital for protecting your consumer rights. If a station is completely unstaffed and no help point is functional, document the situation before taking alternative action.
+This is general information, not legal advice. Rules and gate behaviour vary by operator, station, and ticket type. If you feel unsafe or threatened, step away to a staffed area and ask for help.
 
 ## Additional Resources
 - https://www.nationalrail.co.uk/help-and-assistance/passenger-assist/
-- https://www.nationalrail.co.uk/tickets-railcards-and-offers/buying-a-ticket/smart-tickets/
 - https://www.nationalrail.co.uk/tickets-railcards-and-offers/buying-a-ticket/penalty-fares/
-- https://www.transportfocus.org.uk/transport-user-advice/rail-complaints/
-- https://www.railombudsman.org/en
+- https://tfl.gov.uk/fares/ways-to-pay/pay-as-you-go
+- https://tfl.gov.uk/fares/touching-in-and-out
+- https://tfl.gov.uk/fares/find-fares/penalty-fares-and-how-to-pay-them
+- https://www.railombudsman.org/

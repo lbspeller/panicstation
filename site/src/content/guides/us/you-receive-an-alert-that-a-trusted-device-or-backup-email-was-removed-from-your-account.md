@@ -1,104 +1,98 @@
----
+﻿---
 title: "What to do if… you receive an alert that a trusted device or backup email was removed from your account"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "port-out email"
-  - "number transfer email"
-  - "unauthorized port out"
-  - "phone number transfer scam"
-  - "number hijacking"
-  - "mobile account takeover"
-  - "carrier port request you did not make"
-  - "wireless account compromised"
-  - "number transfer protection"
-  - "port freeze number lock"
-  - "unexpected carrier transfer"
-  - "phone number stolen"
-  - "porting confirmation you did not start"
-  - "telecom fraud"
-  - "what do i do if my number is porting"
-  - "what do i do if i get a port out email"
-  - "what do i do if my phone service stopped"
-  - "what do i do if someone is stealing my number"
-  - "help i did not start a number transfer"
-  - "help i got a port out email"
-  - "help my phone number was transferred"
-  - "help my sim was swapped"
-  - "unauthorized transfer notice"
-  - "no service on cell phone"
-  - "invalid sim card error"
-  - "emergency calls only notification"
-  - "carrier account pin reset"
-  - "unauthorized porting request"
-  - "phone number theft recovery"
-  - "cellular account security breach"
-last_reviewed: "2026-03-17"
+  - trusted device removed alert
+  - backup email removed
+  - recovery email removed
+  - security alert device removed
+  - account takeover warning
+  - someone changed my security settings
+  - suspicious account alert
+  - hacked email account
+  - locked out of my account
+  - unexpected sign-in notification
+  - recovery options changed
+  - multi-factor authentication changed
+  - attacker still logged in
+  - phishing security alert
+  - my phone number removed
+  - compromised account settings
+  - sign out of all devices
+  - remove unknown devices
+  - email forwarding turned on
+  - mailbox rules changed
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you receive an alert that a trusted device or backup email was removed from your account (USA)
 
 ## Short answer
-Call your mobile carrier immediately using an official number from their website or app to report an unauthorized port-out and request a port freeze or number lock.
+Assume a takeover until proven otherwise: go directly to the real service (not the alert link), then change your password, sign out of other sessions, and restore your recovery options and MFA.
 
 ## Do not do these things
-- Don't click any links, download attachments, or call phone numbers provided within the suspicious email.
-- Don't wait for the request to expire or assume the carrier will automatically block it as a mistake.
-- Don't use SMS-based two-factor authentication codes to change passwords for banking or email accounts until your phone line is secured.
-- Don't provide personal information to anyone who calls you claiming to be from your carrier's "fraud department" immediately after you receive the email.
+- Don’t click the alert link if there’s any chance it’s phishing — open the service from a trusted path instead.
+- Don’t keep logging in/out repeatedly if you’re being challenged or locked — switch to the official recovery flow.
+- Don’t send codes or screenshots of codes to anyone (including someone claiming to be “support”).
+- Don’t ignore this because “nothing looks missing” — attackers often change recovery methods first.
+- Don’t pay “account recovery” services or respond to cold calls offering to fix it.
 
 ## What to do now
-1. **Call your mobile service provider using a verified number from their official website.**
-   - **Ask for the "porting" or "fraud" department specifically.**
-   - **Inform the representative that you received a number transfer notification you did not authorize.**
-   - **Request that they cancel any pending port-out requests immediately.**
-   - **Ask them to enable "Number Transfer Protection," "Port Freeze," or "Number Lock" on all lines on your account.**
-   - **Request a change to your account PIN or passcode and verify that your contact email has not been changed.**
+1. **Verify the alert safely (no links).**  
+   Open the official app or type the provider’s address yourself. Go to **Security / Devices / Recent activity / Recovery info** and confirm whether a trusted device or backup email was removed.
 
-2. **Verify your phone's connection state.**
-   - Check if your device currently shows "No Service," "SOS Only," or "Emergency Calls Only."
-   - If you have lost service, inform the carrier that the unauthorized port may have already completed and you need an "emergency restoration" of your number.
+2. **If you can sign in: kick out any attacker session immediately.**  
+   - **Change your password** to a new, unique one.  
+   - Use **Sign out everywhere / Log out of all sessions** (wording varies).  
+   - Review **Devices** and **remove anything you don’t recognize**.
 
-3. **Secure your primary email account using a different device.**
-   - **Change your email password to a unique, complex string.**
-   - **Check for any new "forwarding rules" or "filters" that may be sending your emails to an attacker.**
-   - **Switch your two-factor authentication from SMS to an authenticator app or a physical security key if available.**
+3. **Restore and harden account recovery.**  
+   - Re-add your **backup email** and correct phone/recovery methods.  
+   - Turn on (or re-enable) **MFA/2FA**. Prefer an authenticator app or security key if available.
 
-4. **Notify your financial institutions of a potential "SIM swap" or "port-out" attempt.**
-   - Call the fraud departments of your banks and credit card issuers.
-   - Ask them to place a temporary "security verbal password" or "enhanced verification" on your accounts.
-   - Review your recent transaction history for any unauthorized activity.
+4. **Check for hidden settings that keep the attacker in control.**  
+   Look for and remove anything you didn’t set up:  
+   - **Forwarding / redirect addresses**  
+   - **Rules/filters** that auto-forward, auto-delete, or hide messages  
+   - **Connected apps / OAuth access** you don’t recognize
 
-5. **Update security settings for high-value digital accounts.**
-   - Change the passwords for your Apple ID, Google Account, and any cryptocurrency or payment apps.
-   - Remove your mobile phone number as a recovery method for these accounts if possible, replacing it with a secondary email or hardware key.
+5. **Secure the “roots”: your email account and mobile number.**  
+   - If this happened on your **primary email**, treat it as urgent because it can reset many other accounts.  
+   - If you suspect your phone number was targeted (SIM swap / call or SMS forwarding), contact your carrier’s support using the number on your bill/official site and ask them to review recent changes and protections on your line.
 
-6. **Document the incident for regulatory reporting.**
-   - Save a copy of the original port-out email.
-   - Record the name of the carrier representative you spoke with and the specific case or reference number provided.
-   - Note the exact time your phone service was lost, if applicable.
+6. **If you can’t sign in: start official account recovery right away.**  
+   Use the provider’s recovery pages from the official site/app. If you have any device still signed in, use built-in options like **“Secure your account”** or **“This wasn’t me.”**
 
-7. **Report the identity theft through official channels.**
-   - **Visit IdentityTheft.gov to file a report with the FTC and receive a recovery plan.**
-   - **Contact one of the three major credit bureaus (Equifax, Experian, or TransUnion) to place a free one-year fraud alert on your credit file.**
-   - **File an informal complaint with the FCC if your carrier fails to stop the port or refuses to restore your number.**
+7. **Save evidence while you still can.**  
+   Screenshot the alert and the provider’s “recent security events” page (dates, devices, IP/location if shown). Save copies somewhere not controlled by the compromised account.
+
+8. **If there’s fraud or identity risk, report it through official portals (typed in, not searched).**  
+   - For scams, fraud, or bad business practices: use **ReportFraud.ftc.gov**.  
+   - If your personal info is being used (accounts opened, tax/benefits misuse, debt collection, etc.): use **IdentityTheft.gov**.  
+   - For cybercrime complaints (including some account takeover-related losses): file with **IC3.gov**.  
+   If someone contacts you claiming to be “FTC/IC3/FBI support” and asks for money or codes, treat it as a scam.
 
 ## What can wait
-- You do not need to determine how the attacker obtained your personal details in this moment.
-- You do not need to contact every social media account or minor app immediately.
-- You do not need to decide if you want to permanently change your phone number today.
+- You don’t need to identify the exact method of compromise right now.
+- You don’t need to notify everyone immediately — first stop forwarding/rules and end sessions.
+- You don’t need to delete your account or wipe devices in a panic.
+- You can do deeper clean-up (device checks, password manager audits, broader resets) after you’ve regained control.
 
 ## Important reassurance
-Receiving this email is an early warning provided by federal safety regulations. If you act while the port is still "pending," carriers can typically stop the transfer before your service is disconnected or your codes are intercepted.
+Getting an alert about a removed device or recovery email is scary because it feels like the ground moved under you — but it’s also a clear early warning. Fast, focused actions (official login → end sessions → restore recovery → check forwarding/rules) usually stop the damage quickly.
 
 ## Scope note
-This guide provides first-step stabilization for an acute unauthorized number transfer attempt. It does not cover long-term identity restoration or device-level forensic analysis.
+These are first steps to stabilize and reduce immediate harm. If this account is tied to work systems, banking, or many linked services, you may need additional provider support and a wider security review after you’re back in control.
 
 ## Important note
-This information is based on 2026 FCC and FTC guidelines for telecom fraud. Carrier procedures and specific names for "Port Locks" vary by provider. This guide does not constitute legal advice. If you cannot reach your carrier by phone, visit a corporate-owned retail store with government-issued identification to verify your identity in person.
+This guide is general information, not legal or professional advice. Provider recovery screens vary; follow the official process within the service and avoid third-party “recovery” offers.
 
 ## Additional Resources
-- https://consumer.ftc.gov/node/77537
-- https://consumer.ftc.gov/consumer-alerts/2024/10/email-or-social-media-hacked-heres-what-do
-- https://www.cisa.gov/secure-our-world
-- https://support.microsoft.com/en-us/account-billing/how-to-recover-a-hacked-or-compromised-microsoft-account-24ca907d-bcdf-a44b-4656-47f0cd89c245
+- https://reportfraud.ftc.gov/
+- https://www.ftc.gov/news-events/topics/identity-theft/report-identity-theft
+- https://www.identitytheft.gov/
+- https://www.ic3.gov/CrimeInfo/AccountTakeover
 - https://support.google.com/accounts/answer/6294825?hl=en
+- https://support.apple.com/en-us/102560
+- https://support.microsoft.com/en-us/account-billing/how-to-recover-a-hacked-or-compromised-microsoft-account-24ca907d-bcdf-a44b-4656-47f0cd89c245

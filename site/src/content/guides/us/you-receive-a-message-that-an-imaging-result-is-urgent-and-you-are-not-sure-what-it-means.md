@@ -1,107 +1,88 @@
----
+﻿---
 title: "What to do if… you receive a message that an imaging result is urgent and you are not sure what it means"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - "urgent imaging result"
-  - "imaging result notification"
-  - "abnormal scan alert"
-  - "urgent radiology report"
-  - "ct scan result urgent"
-  - "mri result urgent message"
-  - "ultrasound urgent finding"
-  - "x-ray urgent results"
-  - "patient portal alert"
-  - "voicemail about results"
-  - "confused by report wording"
-  - "unexpected test result"
-  - "what does urgent mean"
-  - "could this be a scam call"
-  - "missed call radiology"
-  - "urgent follow up needed"
-  - "what to do if imaging is urgent"
-  - "help i have an urgent scan result"
-  - "help i got a radiology alert"
-  - "my imaging report says urgent"
-  - "my ct results are urgent"
-  - "my mri results are urgent"
-  - "smell of burning plastic"
-  - "visible red exclamation mark"
-  - "unexpected voicemail from doctor"
-  - "notification of abnormal finding"
-  - "sudden vision loss"
-  - "sudden speech trouble"
-  - "worst headache of life"
-  - "face drooping observed"
-  - "imaging results in portal"
-  - "electronic health record alert"
-  - "urgent care radiology result"
-  - "radiology report terminology"
-  - "abnormal ultrasound alert"
-  - "help i dont understand my scan"
-last_reviewed: "2026-03-16"
+  - urgent imaging result
+  - imaging result notification
+  - abnormal scan alert
+  - urgent radiology report
+  - ct scan result urgent
+  - mri result urgent message
+  - ultrasound urgent finding
+  - x-ray urgent results
+  - patient portal alert
+  - voicemail about results
+  - confused by report wording
+  - unexpected test result
+  - worried about scan results
+  - what does urgent mean
+  - could this be a scam call
+  - missed call radiology
+  - waiting for results anxiety
+  - urgent follow up needed
+last_reviewed: "2026-02-21"
 ---
+
 # What to do if… you receive a message that an imaging result is urgent and you are not sure what it means (USA)
 
 ## Short answer
-Verify the message via your official patient portal or a known clinic number, then contact the ordering physician's office immediately to request a plain-language explanation and a specific timeline for next steps.
+Confirm the message is legitimate, then contact the clinician who ordered the scan (or the facility’s results line) today and ask what the finding is, what you must do next, and how quickly. If you have severe or rapidly worsening symptoms, go to the ER or call 911.
 
 ## Do not do these things
-- Do not use third-party search engines or AI tools to interpret specific medical terms from the report.
-- Do not click links in text messages or emails that request login credentials or personal information.
-- Do not delay contacting the provider because you currently feel asymptomatic.
-- Do not call the general hospital switchboard or multiple unrelated departments.
-- Do not assume "urgent" indicates a specific severity or diagnosis until a clinician confirms the finding.
+- Do not assume “urgent” equals a specific diagnosis based on the wording alone.
+- Do not ignore it because you feel okay — some urgent findings need action even without symptoms.
+- Do not click portal-lookalike links or call back unknown numbers until you verify them via the provider’s official website/app.
+- Do not use internet searches of report terms to decide whether to go to the ER.
+- Do not call multiple departments just to reduce anxiety. If you develop emergency symptoms or feel rapidly worse, choose 911/ER.
 
 ## What to do now
-1. **Identify immediate emergency cues.**  
-   If you observe or experience any of the following, stop reading and **call 911** or go to the nearest **Emergency Room**:
-   - Sudden numbness or weakness in the face, arm, or leg.
-   - Sudden confusion, trouble speaking, or difficulty understanding speech.
-   - Sudden trouble seeing in one or both eyes.
-   - Sudden, severe headache with no known cause.
-   - Difficulty breathing or severe chest pain.
-   - Thoughts of self-harm or immediate crisis (call or text **988**).
+1. **Check for emergency symptoms (right now).**  
+   If you have severe chest pain, trouble breathing, signs of stroke (face droop/arm weakness/speech trouble), fainting, uncontrolled bleeding, or a sudden “worst headache”: **call 911** or go to the **Emergency Room**.
 
-2. **Verify the authenticity of the notification.**  
-   Do not use the contact information provided in the suspicious message. Log in to your **patient portal** through a known bookmark or official app to see if a new "Urgent" or "Abnormal" result is listed. If the message was a voicemail, cross-reference the caller's number with the official clinic website.
+2. **Pause and verify the message before you share details.**  
+   Save the message/voicemail. If it’s an email/text, don’t tap links. Instead, open your **patient portal** or app the usual way (bookmark/app icon) and see whether there’s a message or result there.
 
-3. **Contact the ordering clinician's office directly.**  
-   Call the clinic that requested the scan during business hours. If it is after hours, ask for the **on-call provider**. State the following:
-   - "I received a notification about an urgent imaging result."
-   - "I need a clinician to explain the finding in plain language."
-   - "What is the specific action required (e.g., ER visit, specialist referral, repeat scan)?"
-   - "What is the required timeline for this action (e.g., today, 24 hours, 7 days)?"
+3. **Call the right place: start with the ordering clinician’s office.**  
+   Use the number from their official website, your after-visit summary, or a known clinic line — not the number in a suspicious message. Say:
+   - “I got a notification that my imaging result is urgent.”
+   - “Can someone review the report with me in plain language?”
+   - “What is the next step, and what is the time window (today / within 24–48 hours / this week)?”
+   - “What symptoms would mean I should go to the ER or call 911?”
 
-4. **Request access to the full report and images.**  
-   Under **HIPAA** and the **21st Century Cures Act**, you have the right to access your electronic health information without delay.
-   - Ask the Medical Records or Health Information Management (HIM) department for a digital copy or a CD/USB if the portal is unavailable.
-   - Ensure you have the "Impression" section of the report, as this contains the radiologist's summary.
+4. **If the ordering office can’t be reached, call the imaging facility’s patient/results line.**  
+   Ask:
+   - Whether the report is finalized, and **who it was sent to** (name of ordering clinician).
+   - How patients can obtain the written report and images (portal, Medical Records/Health Information Management, CD/USB, secure download).
+   - Whether there is an on-call process so urgent findings reach a clinician.
 
-5. **Clarify the monitoring plan.**  
-   Ask the staff: "If I cannot reach you or if my symptoms change before the next appointment, what is the specific threshold for me to go to the Emergency Room?"
+5. **Request the report and images through a formal access route if needed.**  
+   Under **HIPAA** (with limited exceptions), you have a legal right to see and receive copies of health information in your medical/health records, which can include imaging reports and images when maintained in the designated record set. If you can’t see results in the portal, ask Medical Records/HIM exactly how to submit an access request and what formats they can provide.
 
-6. **Document the response.**  
-   Write down the name of the person you spoke with, the date, and the specific "Next Step" they provided. Do not rely on memory for clinical instructions during a period of high stress.
+6. **Make sure they can reach you today.**  
+   Confirm your callback number, check voicemail isn’t full, and ask: “If you can’t reach me, what happens next and who should I call?”
+
+7. **Write down the plan in one line.**  
+   Record: (a) the finding in plain words, (b) the required next action (repeat scan, labs, ER evaluation, specialist referral), (c) the deadline, (d) who is arranging it, (e) the direct callback number/extension.
 
 ## What can wait
-- You do not need to research the underlying cause or long-term prognosis today.
-- You do not need to contact your insurance company for prior authorization of future treatments until the immediate finding is explained.
-- You do not need to notify family or employers until you have a confirmed plan from your doctor.
-- You do not need to decide on surgery or complex interventions during the initial notification call.
+- You do not need to interpret radiology terminology tonight.
+- You do not need to decide on procedures or treatment until a clinician reviews the finding with you.
+- You do not need to “prepare for the worst” by searching stories online — first get the concrete next step and timeline.
+- You do not need to contact multiple specialists until the ordering clinician tells you who is appropriate.
 
 ## Important reassurance
-Receiving an "urgent" alert is a standard safety protocol designed to ensure that findings are not overlooked. It does not mean a diagnosis is confirmed or that the outcome is predetermined. Your physiological response—such as a racing heart or difficulty focusing—is a normal reaction to an unexpected medical notification. Taking the step to verify and call the office is the most effective way to regain control.
+“Urgent” usually means “a clinician needs to review and act promptly,” not “you are in immediate danger right now,” and it doesn’t tell you the cause by itself. It’s common to feel your mind race after an alert like that — the stabilizing move is to connect with the ordering clinician/facility, get a clear timeframe, and make sure you’re reachable.
 
 ## Scope note
-This guide provides first-step stabilization for the minutes and hours following an urgent imaging notification. It does not replace clinical consultation or emergency medical assessment.
+This is first-steps guidance for the first hours after an “urgent imaging result” notification. After you have clarification, follow-up may involve appointments, repeat imaging, or referrals; those next decisions can be made step-by-step with your care team.
 
 ## Important note
-This information is for educational purposes and does not constitute medical advice or a diagnosis. HIPAA rights regarding record access are subject to limited exceptions, such as when a provider believes access may endanger the life or physical safety of the individual or another person.
+This is general information, not medical advice or a diagnosis. If you feel seriously unwell or symptoms are escalating, seek urgent/emergency care (911/ER) regardless of what the message says.
 
 ## Additional Resources
-- https://www.radiologyinfo.org/en/info/all-about-your-radiology-report
-- https://www.radiologyinfo.org/en/info/article-discussing-report-results
-- https://medlineplus.gov/diagnosticimaging.html
-- https://www.radiologyinfo.org/en/info/article-your-medical-images
 - https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html
+- https://www.hhs.gov/hipaa/for-professionals/faq/2059/do-individuals-have-a-right-under-hipaa-to-get-copies/index.html
+- https://www.radiologyinfo.org/en/info/article-your-medical-images
+- https://healthit.gov/information-blocking/
+- https://gravitas.acr.org/PPTS/GetDocumentView?docId=74

@@ -1,91 +1,107 @@
----
+﻿---
 title: "What to do if… your phone says backups are current but you cannot find the backup when you need it"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "emergency-calls-only service"
-  - "uk mobile phone signal loss"
-  - "normal coverage but no service"
-  - "phone says emergency calls only"
-  - "sudden mobile network registration failure"
-  - "no signal bars in normal area"
-  - "help i have no mobile service"
-  - "what do i do if my phone shows emergency calls only"
-  - "what do i do if my signal is gone"
-  - "my phone is stuck on emergency calls"
-  - "my mobile signal disappeared suddenly"
-  - "smell of burning from phone"
-  - "visible damage to sim card"
-  - "unusual heat from handset"
-  - "phone not registering on network"
-  - "cannot make normal calls uk"
-  - "cannot receive sms uk"
-  - "sim card not working suddenly"
-  - "esim stopped working suddenly"
-  - "network selection failed on mobile"
-  - "carrier settings update prompt"
-  - "reset network settings uk mobile"
-  - "account barred or suspended service"
-  - "outage check for uk networks"
-  - "after software update no signal"
-  - "emergency call roaming meaning"
-  - "unable to connect to mobile data"
-  - "phone showing sos only uk"
-  - "signal bars gone at home"
-  - "service suspended for billing"
-last_reviewed: "2026-03-17"
+  - phone backup missing
+  - backup says current
+  - cannot find backup
+  - backup not in list
+  - icloud backup not showing
+  - iphone backup missing
+  - ipad backup not listed
+  - apple id wrong account
+  - icloud shows backed up but no restore
+  - google backup missing
+  - android backup not found
+  - google one backup not visible
+  - google backup says complete but missing
+  - restore option not appearing
+  - backup storage full
+  - backup stuck or incomplete
+  - switched phones no backup
+  - new phone setup restore missing
+  - cloud backup confusion
+  - backup retention expired
+  - device not showing in backups
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your phone says backups are current but you cannot find the backup when you need it (UK)
 
 ## Short answer
-Move to a location with a clear line of sight to the outdoors and toggle Airplane Mode for 15 seconds to force a network re-registration. If the status persists, use Wi-Fi to check your network's official service status page or contact your provider to check for account-level blocks.
+Pause and **do not erase or reset anything yet**. First, confirm which backup system you’re using (iCloud vs computer backup, or Google Backup/Google One), and verify you’re signed into the **same account** where backups are stored.
 
 ## Do not do these things
-- Don't perform a factory reset of the device, as this will not fix network-side registration errors and may lock you out of accounts requiring SMS two-factor authentication.
-- Don't delete your eSIM profile from the settings menu unless explicitly instructed to do so by your network provider's technical support.
-- Don't repeatedly power-cycle the phone for hours; if three restarts do not resolve the issue, the fault is likely with the SIM, the account, or the network mast.
-- Don't attempt to clean a physical SIM card with water, chemicals, or abrasive materials.
-- Don't assume your number has been stolen or "SIM swapped" immediately; most "Emergency Calls Only" messages are due to temporary registration glitches or local mast maintenance.
+- Don’t factory reset, wipe, or “start fresh” to troubleshoot — you can permanently remove your easiest path back.
+- Don’t sign out of your Apple Account / Google account in a panic if you’re not sure you know the correct login details.
+- Don’t assume “Backed up” means your photos/messages/apps are included — some data may be **sync** (separate) rather than a full device backup, and some apps don’t restore everything.
+- Don’t delete “old” backups to “make it appear” unless you can clearly see which device they belong to.
 
 ## What to do now
-1. **Move to a "known-good" signal area for at least two minutes.**
-   **Position yourself near a window or go outside away from tall buildings or thick walls.** This ensures the phone has the best possible environment to attempt a handshake with a cell tower.
-2. **Force a network re-registration using Airplane Mode.**
-   **Open your phone's shortcut menu, turn Airplane Mode ON for 20 seconds, and then turn it OFF.** This forces the internal modem to disconnect from all towers and search for your specific provider from scratch.
-3. **Perform a single deliberate restart of the handset.**
-   **Turn the phone completely off, wait 30 seconds, and turn it back on.** This clears temporary software glitches in the "SIM Toolkit" or network daemon that may be preventing the SIM from authenticating.
-4. **Verify the SIM or eSIM line is active in settings.**
-   **Navigate to your Mobile Data or Cellular settings and ensure the specific line for your provider is toggled to ON.** Dual-SIM phones can sometimes accidentally disable a primary line after a software update.
-5. **Check the physical SIM for displacement or debris.**
-   **If using a physical SIM, power down the phone, remove the tray, and ensure the card is seated correctly and the gold contacts are clean.** Reinsert the tray firmly before powering the phone back on.
-6. **Use a Wi-Fi connection to check the official Network Status.**
-   **Connect to a trusted Wi-Fi network and search for "[Your Provider] Service Status" or use the Ofcom "Map Your Mobile" tool.** Look for reported outages or planned maintenance at your specific postcode.
-7. **Enable Wi-Fi Calling to restore immediate communication.**
-   **In your phone's Phone or Cellular settings, toggle "Wi-Fi Calling" to ON while connected to Wi-Fi.** This allows you to make and receive standard calls and texts even when the mobile signal is at zero.
-8. **Test a manual network selection if "Automatic" fails.**
-   **Go to Mobile Network settings, turn OFF "Select Automatically," wait for the list of UK networks to appear, and tap your specific provider.** If it connects, return the setting to "Automatic" after five minutes.
-9. **Check your account status via your provider’s app or website.**
-   **Log in to your account over Wi-Fi to ensure there are no "service suspended," "barred," or "unpaid bill" notifications.** A network may move a phone to "Emergency Calls Only" if the account is restricted.
-10. **Register for Emergency SMS as a backup for low-signal areas.**
-    **If you have a weak but intermittent signal, text the word "register" to 999.** You will receive a reply; follow the instructions to complete registration. This allows you to text emergency services when a voice call cannot be sustained.
+1. **Lock in a safe pause**
+   - Put the phone on charge and connect to stable Wi-Fi.
+   - If the phone is damaged or unstable, stop heavy use and focus on checking backups from another device (a computer or a different phone) if possible.
+
+2. **Work out what kind of backup you’re expecting (Apple vs Android)**
+   - **iPhone/iPad:** you might have (a) an **iCloud device backup**, (b) a **computer backup**, and/or (c) iCloud **sync** (Photos, Contacts, Notes) that isn’t the same as a full restore point.
+   - **Android:** you might have (a) **Google Backup** (in Android settings), (b) a **Google One** device backup, plus (c) separate sync (Google Photos, contacts, etc.).
+
+3. **If you’re on iPhone/iPad: check for iCloud device backups in the right place**
+   - On the iPhone/iPad: **Settings → your name → iCloud → Storage** (or **Manage Account Storage**) → **Backups**.
+   - Tap the device name and check the **backup date/time** and what’s included.
+
+4. **If you’re on iPhone/iPad: confirm you’re signed into the same Apple Account**
+   - In **Settings**, confirm the Apple Account email at the top matches what you normally use.
+   - If you have more than one Apple Account in your life (old email, family iPad account, etc.), this is the most common reason a “missing” backup is actually just in a different account.
+
+5. **If you expected a computer backup: check the computer’s backup list (and don’t delete anything)**
+   - On a **Mac**, open **Finder** (select your device) and look for **Manage Backups**.
+   - On **Windows**, backups are typically managed in the **Apple Devices app** (and on some PCs, **iTunes** is still used). Look for **Manage Backups**.
+   - If you find a backup there, note the date and **do not delete it** while you’re troubleshooting.
+
+6. **If you’re on Windows and you’re specifically looking for iCloud backups**
+   - iCloud device backups (made over Wi-Fi/cellular to iCloud) can be **viewed** in **iCloud for Windows**: open iCloud for Windows → **Storage** → **Backups**.
+   - This helps confirm the backup exists in iCloud, even if you’re struggling to see it on the phone.
+
+7. **If you’re on Android: verify which Google account holds the device backup**
+   - On the Android device: **Settings → Google → All services → Backup** (wording can vary slightly by phone).
+   - Check the **account** shown for backups (many people have multiple Google accounts signed in).
+   - Open backup details if available so you can confirm a device backup exists for the correct account.
+
+8. **If the backup exists but “restore” is missing**
+   - Some restores only appear **during device setup**. If you are already past setup, don’t reset yet — first confirm the backup is truly present for the account/device and note its date.
+   - If you’re already in a critical moment (new phone in hand, old phone failing), prioritise capturing what you still can right now: export key contacts, copy photos to a computer, or turn on syncing for critical items — without wiping anything.
+
+9. **Check for common blockers that make backups look “current” but not usable**
+   - **Storage limits:** iCloud/Google storage may be full, causing partial/failed backups even if a status looks reassuring.
+   - **Sync vs backup:** the “current” message may relate to syncing rather than a full restore point.
+   - **Retention:** if iCloud Backup was turned off, Apple states backups can be kept for a period (often up to **180 days**) before deletion — so time matters, but don’t assume it’s gone until you check the account’s backup list.
+
+10. **Escalate while preserving proof (especially if you pay for storage)**
+   - Take screenshots of the “Backups are current” message, your account page, and storage status.
+   - Contact Apple Support / Google Support via their official support routes, and keep the screenshots ready.
+   - If you’re paying for cloud storage and believe you were billed for something you didn’t receive, keep records (receipts, screenshots) and consider consumer help via **Citizens Advice** before making irreversible account changes.
 
 ## What can wait
-- You do not need to replace your handset today; "Emergency Calls Only" is rarely a hardware failure of the phone itself.
-- You do not need to pay for "signal boosting" apps or third-party "repair" software, as these cannot override network registration protocols.
-- You do not need to decide on switching networks until you have confirmed whether the issue is a temporary local mast fault.
+- You do not need to decide today whether to change platforms, buy a new phone, or “start over”.
+- You do not need to clean up storage, delete old backups, or reinstall apps right now.
+- You do not need to reset the device “just to see if restore appears” — that decision can wait until you’ve confirmed the backup actually exists and where.
 
 ## Important reassurance
-Seeing "Emergency Calls Only" is a standard protocol where your phone can see other networks (like EE, O2, or Vodafone) but cannot get permission to use your specific provider. This is a common technical hurdle that is usually resolved through a simple settings refresh or a brief call to your network's support line from another phone.
+This is very common: “backup” labels and “sync” labels look similar under stress, and having multiple accounts is a frequent cause of “missing” backups. Slowing down to verify the account + backup location usually prevents the irreversible mistake (resetting before you’ve confirmed a restore path).
 
 ## Scope note
-This guide provides first-step stabilization for restoring mobile service in the UK. It does not cover technical repairs for damaged internal antennas or long-term legal disputes regarding mobile contracts.
+These are first steps to stabilise and locate the backup. If the backup is genuinely missing or incomplete, the next phase is a careful recovery plan (device health, data export, specialist support), which is separate from the immediate “don’t make it worse” actions.
 
 ## Important note
-This information is for general guidance and does not constitute professional telecommunications or legal advice. In the UK, 999 and 112 calls are free and will "roam" to any available network if yours is down. 101 calls for non-emergency police matters are also free from all mobile and landline providers. If you are in immediate danger and cannot place a call, seek a landline or another person's phone immediately.
+This is general information, not legal, financial, or technical guarantees. Backup behaviour varies by device model, OS version, account settings, and app developers. If your data is business-critical or the device is failing, prioritise preservation (don’t wipe; minimise use; document what you see) and use official support channels.
 
 ## Additional Resources
+- https://support.apple.com/en-gb/108922
 - https://support.apple.com/en-gb/guide/icloud/mm122d3ef202/icloud
 - https://support.apple.com/en-gb/108809
-- https://support.apple.com/en-gb/118105
-- https://support.google.com/googleone/answer/9149304?co=GENIE.Platform%3DAndroid&hl=en
+- https://support.apple.com/en-gb/guide/devices-windows/mchla3c8ed03/windows
 - https://support.google.com/android/answer/2819582?hl=en-GB
+- https://support.google.com/googleone/answer/9149304
+- https://www.citizensadvice.org.uk/consumer/phone-internet-downloads-or-tv/problem-with-an-app-software-or-download/

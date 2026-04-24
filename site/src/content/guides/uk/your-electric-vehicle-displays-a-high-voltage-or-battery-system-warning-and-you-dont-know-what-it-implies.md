@@ -1,85 +1,78 @@
----
+﻿---
 title: "What to do if… your electric vehicle displays a high-voltage or battery system warning and you don’t know what it implies"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "electric vehicle high-voltage warning"
-  - "ev battery system warning"
-  - "high-voltage system alert"
-  - "electric car fault message"
-  - "battery management system fault"
-  - "what do i do if my ev shows a battery warning"
-  - "what do i do if my electric car displays a fault"
-  - "what do i do if high-voltage warning light appears"
-  - "what do i do if my car says stop safely now"
-  - "help i have a red battery warning ev"
-  - "help i have an amber ev system warning"
-  - "help i have a drivetrain fault electric car"
-  - "help i have a traction battery alert"
-  - "red battery icon electric car"
-  - "amber battery icon electric car"
-  - "hissing from electric car battery"
-  - "burning smell from electric vehicle"
-  - "smoke under electric car"
-  - "popping sound from ev battery"
-  - "electric vehicle won't drive"
-  - "ev reduced power turtle mode"
-  - "stop safely now message ev"
-  - "motorway breakdown electric vehicle"
-  - "smart motorway ev breakdown"
-  - "electric car battery overheating symbol"
-  - "high-voltage isolation fault"
-  - "ev charging stopped fault"
-  - "orange cables electric vehicle"
-  - "dashboard high-voltage symbol"
-  - "ev drivetrain fault message"
-last_reviewed: "2026-03-17"
+  - ev high voltage warning
+  - electric car battery system warning
+  - high-voltage system alert
+  - hv warning light meaning
+  - stop safely now message
+  - drivetrain fault warning ev
+  - electric vehicle fault message
+  - red battery warning ev
+  - amber battery warning ev
+  - ev reduced power warning
+  - ev won’t drive after warning
+  - ev charging stopped warning
+  - battery management system warning
+  - electric car isolation concern
+  - burning smell from ev
+  - hissing from battery area
+  - smoke under electric car
+  - dashboard high voltage symbol
+  - ev breakdown safety steps
+  - motorway live lane breakdown
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… your electric vehicle displays a high-voltage or battery system warning and you don’t know what it implies (UK)
 
 ## Short answer
-Treat any high-voltage warning as a critical safety alert: **slow down, pull over to a safe location immediately, and do not continue driving** if the warning is red, indicates "stop", or limits vehicle power.
+Treat it as a safety warning: **slow down, pull over somewhere safe, stop the vehicle, and don’t continue driving until you’ve checked the message severity and arranged help** if it’s red/“stop”/power is limited.
 
 ## Do not do these things
-- Do not continue driving to your destination if the warning is red or instructs you to stop safely.
-- Do not attempt to clear the code by repeatedly switching the vehicle on and off.
-- Do not touch, cut, or open any components labeled as high-voltage or any orange-colored cabling.
-- Do not plug the vehicle into a charger if you suspect a battery fault or notice unusual heat, smells, or sounds.
-- Do not park the vehicle inside a garage or in close proximity to other cars or structures if you see smoke or hear hissing.
-- Do not allow a recovery operator to tow the vehicle with the drive wheels on the ground unless your manual explicitly permits it.
+- Don’t keep driving “to see if it clears” if the warning is **red**, says **stop/pull over**, or the car limits power.
+- Don’t keep cycling the power on and off trying to clear the warning; stop safely first and follow the on-screen instruction and roadside advice.
+- Don’t touch, open, or cut anything labelled high-voltage, and don’t go near **orange cables** or damaged wiring.
+- Don’t plug in to charge if the warning suggests a battery/high-voltage fault, or if you notice **smell/heat/smoke/hissing**.
+- Don’t park in an enclosed garage or tightly next to other vehicles if you suspect a battery problem (heat/smell/smoke or escalating warnings).
+- Don’t allow recovery that drags the car with driven wheels on the ground unless your handbook explicitly permits it.
 
 ## What to do now
-1. **Find a safer pause immediately.** Signal left, reduce speed smoothly, and move to the nearest safe stopping point, such as a car park, lay-by, or quiet side road.
-2. **Follow specific motorway safety protocols if you are on a high-speed road.**
-   - **If you are stopped in a live lane or cannot exit safely:** keep your seatbelt on, switch on hazard lights, and press the **eCall / SOS button** immediately to alert National Highways; if your car lacks this, call 999 and ask for the Police.
-   - **If you reach a hard shoulder or emergency area:** stop as far to the left as possible, turn the wheels toward the verge, exit via the side furthest from traffic (usually the left), and move behind the safety barrier.
-3. **Secure and power down the vehicle.** Place the car in Park, apply the electronic parking brake, switch on hazard lights, and turn the vehicle fully off.
-4. **Conduct a visual risk assessment from a safe distance.** Look and listen for smoke, vapour, popping sounds, hissing, or a strong chemical/burning smell coming from the underside of the car.
-5. **Evacuate the area immediately if you detect signs of fire or thermal runaway.** Move at least 30 metres away, keep others back, and call 999 to request the Fire and Rescue Service, explicitly stating it is an electric vehicle with a potential battery fire.
-6. **Interpret the dashboard warning colour and message text.** 
-   - **Red warnings:** mean "stop immediately" and require professional recovery.
-   - **Amber warnings:** usually mean "service soon," but you should still contact roadside assistance before continuing your journey.
-7. **Contact your manufacturer’s assistance or a specialist breakdown provider.** Provide them with the exact wording of the warning message, your precise location, and whether the car was charging when the fault occurred.
-8. **Note the status of the "Ready" or "Go" light.** Check if the car still allows you to engage drive or if the system has isolated the high-voltage battery to prevent movement.
-9. **Inform National Highways if you are on a motorway but not in a live lane.** Call 0300 123 5000 to notify them of your location so they can monitor your safety via CCTV and set "Red X" signs or speed limits if necessary.
+1. **Make a safer pause first.** Indicate, reduce speed smoothly, and pull over to the safest available place.
+2. **If you’re on a motorway or high-speed road, use the right safety rule for where you stop:**
+   - **If you’re stopped in a live lane (or it’s not safe to get out):** keep your seatbelt on, hazards on, and **call 999 and ask for the police** (or use your in-car **SOS** button if you have one).
+   - **If you can get to a safer place (hard shoulder or an emergency area):** stop there. If it’s safe to exit, get out via the **left** side, move behind a barrier/away from traffic, and call for help.
+3. **Secure the car.** Put it in Park, apply the parking brake, switch on hazard lights, and switch the vehicle fully off.
+4. **Do a quick “risk check” from a distance (no troubleshooting).** Look and listen for smoke/steam/vapour, popping/hissing, unusual heat, burning smell, leaking fluids, or visible damage/exposed cabling.
+5. **If you see/hear any danger signs (or fire):** move well away, keep others back, and **call 999**. Say it’s an electric vehicle and you have a battery/high-voltage warning.
+6. **If there are no immediate danger signs:** read the exact on-screen wording/colour. Treat **red**, “Stop safely now”, “Pull over”, “High-voltage fault”, or “Limited power” as **do-not-continue** unless the manufacturer/breakdown provider explicitly tells you it’s safe to reposition.
+7. **Call for EV-appropriate help.** Call your manufacturer roadside assistance or breakdown provider. Tell them:
+   - the exact warning text/colour,
+   - your location (and if you’re on a motorway/live lane/emergency area),
+   - whether there’s any smell/heat/smoke/hissing,
+   - whether charging was involved (e.g., it appeared during rapid charging).
+8. **Capture key details (30 seconds).** Photo of the warning message, time, and what you were doing (driving/charging). This helps diagnosis without guesswork.
+9. **Until you’re told it’s safe:** don’t charge it, don’t move it unnecessarily, and keep people clear of the vehicle.
 
 ## What can wait
-- You do not need to determine if the fault is in the 12V battery or the high-voltage traction battery right now.
-- You do not need to diagnose the specific electrical component that failed.
-- You do not need to arrange permanent repairs or transport to a specific garage until the vehicle is in a stable, safe location.
+- You do not need to work out the technical cause right now.
+- You do not need to decide whether it’s the traction battery or the 12V system at the roadside.
+- You do not need to organise repairs now—focus on **safe stop + safe recovery**.
 
 ## Important reassurance
-Modern electric vehicles have sophisticated Battery Management Systems (BMS) designed to detect even minor electrical irregularities and trigger warnings early. Seeing a warning does not automatically mean a fire will occur; it means the safety systems are working to isolate potential issues before they escalate.
+EV warnings can be triggered by issues that are fixable, but **it’s safest to assume any high-voltage/battery-system warning could affect safety until a professional confirms otherwise**. Stopping and getting help is the right move.
 
 ## Scope note
-This guide provides first-step stabilization for dashboard warnings. It does not cover technical repair procedures or long-term vehicle maintenance.
+This is first-steps-only guidance for the moment you see the warning. Next steps depend on the exact message and what roadside assistance advises.
 
 ## Important note
-This information is for safety stabilization only and does not constitute mechanical or legal advice. High-voltage systems in electric vehicles carry a risk of lethal electric shock and chemical exposure; always prioritize physical distance and professional intervention over vehicle inspection.
+This is general safety information, not mechanical or legal advice. If the vehicle instructs you to stop, or you notice heat/smoke/hissing/odours, treat it as urgent and involve emergency services and professional roadside recovery.
 
 ## Additional Resources
 - https://www.hse.gov.uk/mvr/topics/electric-hybrid.htm
 - https://www.gov.uk/government/publications/recovery-operators-working-with-electric-vehicles/recovery-operators-working-with-electric-vehicles
-- https://www.rac.co.uk/drive/electric-cars/running/ultimate-guide-to-electric-car-breakdown-warning-lights/
-- https://www.theaa.com/breakdown-cover/advice/dashboard-warning-lights
-- https://news.motability.co.uk/everyday-tips/your-guide-to-electric-vehicle-warning-lights/
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
+- https://nationalhighways.co.uk/road-safety/driving-on-motorways/
+- https://www.iamroadsmart.com/hints-and-tips/video-what-should-i-do-if-you-breakdown-on-a-smart-motorway/

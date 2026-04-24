@@ -1,97 +1,79 @@
----
+﻿---
 title: "What to do if… your travel companion loses their passport and you need to manage bookings and plans immediately"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - "travel companion lost passport"
-  - "friend lost passport abroad"
-  - "spouse passport missing"
-  - "passport lost on vacation"
-  - "passport stolen while travelling"
-  - "manage bookings without passport"
-  - "change reservation passport info"
-  - "urgent consulate help abroad"
-  - "u.s. passport lost overseas"
-  - "report passport lost right now"
-  - "emergency passport abroad"
-  - "replacement passport appointment"
-  - "identity documents missing"
-  - "travel insurance contact now"
-  - "airline check in document issue"
-  - "border crossing problem now"
-  - "itinerary disruption immediate"
-  - "hotel check in without passport"
-  - "stolen travel documents help"
-  - "u.s. embassy emergency appointment"
-  - "form ds-64 online submission"
-  - "form ds-11 replacement passport"
-  - "what do i do if my friend lost their passport"
-  - "help i lost my passport abroad"
-  - "my companion lost their passport"
-  - "emergency travel document u.s. citizen"
-  - "lost passport hotel check in"
-  - "lost passport flight boarding"
-  - "consular assistance lost passport"
-  - "limited validity passport acceptance"
-last_reviewed: "2026-03-17"
+  - travel companion lost passport
+  - friend lost passport abroad
+  - spouse passport missing
+  - passport lost on vacation
+  - passport stolen while travelling
+  - manage bookings without passport
+  - change reservation passport info
+  - urgent consulate help abroad
+  - u.s. passport lost overseas
+  - report passport lost right now
+  - emergency passport abroad
+  - replacement passport appointment
+  - identity documents missing
+  - travel insurance contact now
+  - airline check in document issue
+  - border crossing problem now
+  - itinerary disruption immediate
+  - hotel check in without passport
+  - copies of passport on phone
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… your travel companion loses their passport and you need to manage bookings and plans immediately (USA)
 
 ## Short answer
-Report the passport lost or stolen to the U.S. State Department immediately to prevent identity theft and contact the nearest U.S. embassy or consulate to request an emergency limited-validity passport.
+Get to a safe “admin base”, report the U.S. passport lost/stolen right away (so it’s cancelled), and start the replacement process with the nearest U.S. embassy/consulate before you change major bookings.
 
 ## Do not do these things
-- Don't try to use the passport if it is found after it has been reported lost; it is electronically invalidated immediately and cannot be reactivated.
-- Don't delay the police report if theft is suspected; travel insurance usually requires a report filed within 24 hours of discovery for a claim to be valid.
-- Don't book non-refundable travel for the next 48 hours until you have confirmed a consulate appointment time.
-- Don't assume an emergency passport is accepted everywhere; some countries and airlines have strict rules against limited-validity documents for entry.
-- Don't pay third-party "expeditors" while abroad; only official U.S. embassy or consulate staff can issue a replacement document.
+- Don’t delay reporting it — online reporting typically cancels it quickly (often within 1 business day), and it will be invalid for travel once reported.
+- Don’t assume you can travel if you find it later — after it’s reported lost/stolen, it’s no longer valid for international travel.
+- Don’t pay anyone offering “passport recovery” or “inside embassy” services.
+- Don’t make expensive booking changes before you know the embassy/consulate appointment availability.
+- Don’t hand over your own passport or cards to “prove” anything outside official settings.
 
 ## What to do now
-1. **Establish a secure administrative base with internet and power.** Sit in a hotel lobby, quiet cafe, or embassy waiting area. Divide tasks: one person handles reporting and embassy contact, while the other audits upcoming bookings.
-2. **Execute a final, systematic 5-minute search of all immediate surroundings.** 
-   - Check the hotel safe, laundry, under furniture, and with the front desk.
-   - Contact the last transportation provider (taxi, train, bus) used. 
-   - Once 5 minutes pass, stop searching and begin the reporting process.
-3. **Report the passport lost or stolen online via the U.S. State Department’s Form Filler tool.** This submission generates a Form DS-64 and immediately invalidates the document to prevent misuse. Save the confirmation email.
-4. **Locate the nearest U.S. embassy or consulate and check their specific "Emergency Passport" instructions.** 
-   - Look for "U.S. Citizen Services" then "Passports."
-   - Check for walk-in hours for emergency travel or specific email addresses for urgent appointments.
-   - Do not just use the standard appointment calendar if you have travel within 48 hours.
-5. **File a report with local police if the passport was stolen.** Ask specifically for a written copy or a report number. This is often mandatory for insurance reimbursement and can help explain the lack of ID at hotels or checkpoints.
-6. **Obtain two identical, physical 2x2 inch (5x5 cm) passport photos.** Many embassies do not have on-site photo booths. Use a local pharmacy or professional photo shop.
-7. **Assemble a physical "Replacement Pack" for the embassy visit.** 
-   - Any photocopy or digital image of the lost passport.
-   - Secondary government-issued photo ID (e.g., driver's license).
-   - Evidence of U.S. citizenship (e.g., birth certificate copy or expired passport).
-   - Printed flight itinerary showing your next departure.
-8. **Contact your airline's "Special Assistance" or "Global Support" desk.** 
-   - Inform them the passenger is replacing a lost U.S. passport.
-   - Ask for the specific deadline to update the passport number in the booking.
-   - Confirm if the airline accepts a "limited-validity emergency passport" for your specific destination.
-9. **Notify your travel insurance provider of the loss or theft.** Ask for a claim number and a list of required documents for "Trip Interruption" or "Document Replacement" coverage. 
-10. **Triage your itinerary by deadline.** 
-   - **Immediate:** Tonight's accommodation (call to ensure they will accept secondary ID/police report for check-in).
-   - **Next 24 hours:** Border crossings or flights.
-   - **Future:** Flexible tours or bookings that can be moved once the new passport is in hand.
+1. **Pause and create a 20–30 minute “admin base”.** Sit somewhere safe with power/Wi-Fi. One person handles calls; one gathers documents and booking details.
+2. **Do a strict 5-minute search, then stop.** Check bags/pockets, hotel safe, reception lost-property, last transport seat, and any locker. Then move on to reporting.
+3. **Report the passport lost or stolen immediately (best: online).** Online reporting is designed to cancel the passport quickly and reduce identity-theft risk. Save the confirmation email/message.
+4. **Contact the nearest U.S. embassy/consulate to replace it and ask for the earliest appointment.** Tell them you have imminent travel and need a passport to continue the trip. (Many posts can issue an emergency/limited-validity passport in urgent situations, but some destinations may not accept it — factor that into plan changes.)
+5. **If theft is suspected, file a local police report (helpful, not always required).** Keep any report number or document — it can support insurance and explain circumstances.
+6. **Build the minimum “replacement + travel” pack.** Aim to assemble:
+   - Any copy/photo of the missing passport (even a phone photo helps)
+   - Another photo ID (driver’s license, state ID, etc.)
+   - Proof of U.S. citizenship if available (e.g., birth certificate copy, passport card copy)
+   - A passport photo if you can get one quickly
+   - Your itinerary and booking references (flights, hotels, tours)
+7. **Call your airline with one focused question (don’t guess):**  
+   “Passenger is replacing a lost U.S. passport via the U.S. embassy/consulate. What document details do you require to keep this booking valid, and what’s the deadline to update them?”  
+   If you use chat, save the transcript/screenshot.
+8. **Triage your plan into three buckets: Must happen / Can move / Can cancel.** This prevents panic-cascades. Prioritize: tonight’s lodging, next border crossing, next flight.
+9. **Call accommodation if check-in ID rules might block you.** Ask what alternative ID is acceptable (driver’s license + booking confirmation, etc.) and note the staff member’s name/time.
+10. **Notify your travel insurer the same day (before you spend money).** Ask what documentation they require (police report, confirmation of the reported/cancelled passport, receipts for changes).
+11. **If any visas/entry permissions depend on the lost passport, flag it now.** A new passport number can mean re-issuing an eVisa/permit for some destinations. Don’t act yet — just identify which upcoming border crossing could be affected so you can check official entry/exit rules once you know what the embassy/consulate will issue.
 
 ## What can wait
-- You do not need to apply for a full-validity 10-year passport right now; the embassy will issue an emergency document to get you home or to your next destination.
-- You do not need to cancel bookings that are more than 72 hours away until you have a confirmed timeline from the consulate.
-- You do not need to resolve how the loss happened or who is responsible; focus exclusively on the document pipeline for the next 4 hours.
+- You do **not** need to decide today how you’ll handle longer-term steps once home — focus on the replacement needed for near-term travel.
+- You do **not** need to cancel every future booking right now — first confirm embassy/consulate timing and airline/entry requirements.
+- You do **not** need to settle costs or blame while stressed — keep receipts and handle it later.
 
 ## Important reassurance
-Losing a passport abroad is a standard emergency that U.S. consular officers handle daily. While it disrupts your schedule, the process for issuing an emergency travel document is streamlined. Once you have the police report and your embassy appointment, the uncertainty will decrease significantly.
+This feels like a total trip-ending event, but it often isn’t. Once the passport is reported and you’re in the embassy/consulate replacement pipeline, your options usually become clearer fast — even if the itinerary changes.
 
 ## Scope note
-This guide provides first-step stabilization for U.S. citizens abroad. It does not cover long-term passport renewal once back in the U.S. or the re-issuance of foreign visas that may have been inside the lost passport.
+This covers immediate first actions to stabilise bookings and keep travel options open. Later steps (claims, visa re-issues, longer-term document replacement) are best handled once you’ve secured the replacement travel document and are out of the acute scramble.
 
 ## Important note
-This guide is for informational purposes and does not constitute legal or official government advice. Passport requirements and embassy procedures are subject to change and vary by jurisdiction. Always follow the direct instructions provided by U.S. Department of State officials and local authorities.
+This is general information, not legal advice. Requirements can vary by country, airline, and individual circumstances, so rely on official U.S. government instructions and confirmations from your airline/insurer for decisions.
 
 ## Additional Resources
 - https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html
-- https://travel.state.gov/content/travel/en/passports/need-passport/outside-us.html
-- https://travel.state.gov/content/travel/en/contact-us/Emergencies-Abroad.html
-- https://www.usa.gov/emergency-assistance-abroad
-- https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html
+- https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html
+- https://travel.state.gov/content/travel/en/passports/how-apply/forms.html
+- https://travel.state.gov/content/travel/en/passports/have-passport/limited-validity.html
+- https://www.usa.gov/lost-stolen-passport

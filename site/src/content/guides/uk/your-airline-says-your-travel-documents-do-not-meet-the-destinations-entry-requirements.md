@@ -1,94 +1,89 @@
----
+﻿---
 title: "What to do if… your airline says your travel documents do not meet the destination’s entry requirements"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "airline says travel documents not valid"
-  - "denied boarding travel documents"
-  - "refused boarding passport issue"
-  - "airline says visa required"
-  - "airline says eta required"
-  - "destination entry requirements not met"
-  - "travel documents entry rules"
-  - "what do i do if airline says my passport is invalid"
-  - "what do i do if airline refuses my visa"
-  - "what do i do if airline says i need an eta"
-  - "help i was denied boarding for documents"
-  - "help i have the wrong travel documents"
-  - "help my passport was rejected at check in"
-  - "help my visa is not showing on system"
-  - "passport expiry rule problem"
-  - "passport name mismatch ticket"
-  - "transit visa requirement surprise"
-  - "onward ticket required problem"
-  - "evisa not visible to airline"
-  - "iata timatic check"
-  - "uk border force carrier support hub"
-  - "uk dual national passport rules 2026"
-  - "certificate of entitlement right of abode"
-  - "electronic travel authorisation error"
-  - "boarding gate document refusal"
-  - "airline document check dispute"
-  - "stuck at airport travel documents"
-  - "travel documents not matching ticket"
-  - "damaged passport boarding refusal"
-  - "evisa share code airline"
-last_reviewed: "2026-03-17"
+  - airline says documents not valid
+  - denied boarding travel documents
+  - refused boarding passport issue
+  - airline says visa required
+  - airline says eta required
+  - entry requirements not met
+  - destination entry rules confusion
+  - timatic says different
+  - passport expiry rule problem
+  - passport name mismatch ticket
+  - transit visa requirement surprise
+  - onward ticket required problem
+  - evisa not visible to airline
+  - check in agent says no go
+  - boarding gate document refusal
+  - airline document check dispute
+  - stuck at airport documents
+  - travel authorisation pending
+  - visa waiver esta style confusion
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… your airline says your travel documents do not meet the destination’s entry requirements (UK)
 
 ## Short answer
-Ask the agent for the specific rule name and country segment causing the failure, then verify this against official government databases or the IATA Travel Centre to determine if the refusal is a system error or a fixable document gap.
+Ask the airline to state the exact rule they think you fail, verify that rule using authoritative guidance, and either fix the specific gap quickly or move straight to a rebooking/refund plan so you are not treated as a no-show.
 
 ## Do not do these things
-- Do not engage in a circular argument without knowing the exact rule (e.g., "6-month validity" vs "10-year issuance rule").
-- Do not hand over your original passport or visa to staff to be taken out of your sight for extended periods.
-- Do not assume a digital visa is "fine" just because you have an email; the airline system must see a "Live" or "Active" status.
-- Do not leave the desk without a written note, disruption slip, or the names of the staff who refused carriage.
-- Do not cancel your entire return journey or connected flights until you have confirmed if the airline will mark you as a "no-show" and cancel the rest of the booking.
+- Do not keep debating without getting the *specific* reason (which country/segment and which rule).
+- Do not check bags while the situation is unresolved if you may need to change flights or carriers.
+- Do not assume the airline must carry you because “a forum/agent said it’s fine” — airlines can refuse boarding if they believe documentation is inadequate.
+- Do not cancel the entire itinerary in panic unless you are sure you do not need any part of it.
+- Do not walk away and miss departure without asking what happens to the rest of your booking (some itineraries are cancelled after a missed leg).
 
 ## What to do now
-1. **Identify the exact point of failure.** Ask the agent: "Which specific document is missing or invalid, and which country's entry or transit rule is being applied?"
-   - Request that they check the IATA Timatic system (the industry standard) and show you the specific text of the requirement on their screen.
-2. **Verify the rule via official UK or destination sources.** 
-   - Check the **GOV.UK Foreign Travel Advice** for your destination to confirm passport validity and visa rules.
-   - If flying into the UK, check the **GOV.UK visa and immigration pages** regarding the 2026 mandatory ETA or eVisa requirements.
-   - Use the **IATA Travel Centre** website to run your specific itinerary and see if it matches the airline’s claim.
-3. **Check for 2026-specific document mismatches.** 
-   - If you are a UK dual national, verify you are using your **UK passport** or have a **Certificate of Entitlement**; as of February 2025, foreign passports are no longer accepted for UK entry for dual citizens.
-   - If you have an eVisa, generate a **"Share Code"** via the GOV.UK "View and Prove" service and ask the agent to use it to verify your status manually.
-4. **Request the use of the Carrier Support Hub.** If you are travelling to the UK and the airline cannot see your digital permission (ETA/eVisa), ask the supervisor to contact the **UK Border Force Carrier Support Hub** for manual verification.
-5. **Rule out common physical or clerical errors.**
-   - **Passport Issue Date:** Ensure the passport was issued within the last 10 years (required for many destinations, regardless of the expiry date).
-   - **Name Match:** Check if a middle name, hyphen, or maiden name on the ticket is causing a "No Match" in the airline’s automated system.
-   - **Transit Requirements:** Confirm if you need a transit visa for a connection point, even if you are not leaving the airport.
-6. **Seek a formal escalation.** Ask for a supervisor or the "Duty Manager" to review the documentation.
-   - Present any physical proof of approval (e.g., a printed ETA approval or a "Live" status on your phone) but prioritize official government verification links.
-7. **Secure a practical resolution.** If the refusal stands, ask the airline to:
-   - Provide a **written reason** for the refusal for insurance and claim purposes.
-   - State whether they can **rebook** you on a later flight if you resolve the document issue (e.g., applying for an emergency ETA or correcting a name).
-   - Confirm if you are eligible for a **refund** or if the ticket can be held open.
-8. **Collect evidence for potential claims.** 
-   - Take screenshots of your digital visa status, your check-in screen, and any "Permission to travel refused" messages in the airline app.
-   - Keep all receipts for replacement flights, meals, or airport accommodation.
+1. **Get the refusal stated clearly.** Ask: “Which exact requirement do you believe I don’t meet, and for which country/segment — destination or transit?”  
+   - Ask them to check their travel-document system (many airlines use IATA Timatic) and show you the relevant requirement text on screen.
+2. **Verify the rule using authoritative sources (fast).**
+   - Check the **destination government** entry-requirements page for your nationality and passport type.  
+   - Use **GOV.UK Foreign Travel Advice** for that country as a cross-check/summary (especially for passport validity and common pitfalls).
+   - If helpful, run the same itinerary through the **IATA Travel Centre** (it uses the same underlying database many airlines rely on).
+3. **Rule out the common “looks valid but fails the check” issues.** In front of the agent, verify:
+   - **Passport validity window** (some places require months of validity beyond entry/exit).
+   - **Passport issuance rules** (some destinations apply “issued within X years” rules).
+   - **Damage/condition** (tears, water damage, detached cover, missing pages).
+   - **Name match** between ticket and passport (spacing, hyphens, middle names).
+   - **Transit rules** (you may need a transit visa even if you don’t need one for the final destination).
+   - **Digital permission status** (ETA/eVisa/authorisation approved but not matching passport details, or the wrong passport number used).
+4. **Ask for escalation.** Say: “I believe I meet the requirement — can we escalate to a supervisor or document-check team to re-verify?”  
+   - Show proof you have (approval notice, reference number, residence permit, onward/return booking), but keep originals in your possession.
+5. **If you can fix it quickly, do that while protecting your booking.**
+   - **Name correction:** ask if they can correct it at the airport and what the cutoff is.  
+   - **ETA/visa needed:** apply immediately if eligible and ask what they accept as proof. Many carriers will not accept “pending”.  
+   - If it’s clear approval won’t arrive before departure, **switch immediately to rebooking/refund options** so you are not recorded as a missed flight.
+6. **If they still refuse boarding, shift to damage control.**
+   - Ask for a **written reason** for the refusal (even a short note or disruption printout).  
+   - Ask what they can do now: **rebook**, **re-route**, or **refund**, and whether fees can be waived.
+7. **Preserve evidence while you still have access.**
+   - Screenshot your booking, check-in status, and any “documents not accepted” message in the app.  
+   - Note the time, desk/location, and staff name/ID if available.
+8. **If you’re stranded abroad and need urgent travel help (UK passport issue).**
+   - If you’re abroad without a usable UK passport and need to travel urgently for exceptional circumstances, check whether you’re eligible for a **UK Emergency Travel Document (ETD)** and start the official process.
 
 ## What can wait
-- You do not need to file a formal Civil Aviation Authority (CAA) complaint while at the check-in desk.
-- You do not need to contact a lawyer or legal representative immediately; gathering the written refusal is the priority.
-- You do not need to post the incident on social media to get a response; focus on the gate supervisor first.
+- You do not need to decide today whether to make a formal claim — first secure a workable route and preserve evidence.
+- You do not need to “win” the argument at the desk — you need the exact rule, a verified check, and a practical next step.
+- You do not need to write a long complaint at the airport — just collect the key facts and documents.
 
 ## Important reassurance
-Airlines occasionally apply "ghost rules" or misinterpret complex transit requirements. If you have a valid digital status or a passport that meets official government rules, the refusal can often be overturned by escalating to a supervisor who can access manual verification tools like the Carrier Support Hub.
+This is often one narrow mismatch (passport validity/issue date, transit requirement, name mismatch, or a digital authorisation linked to the wrong details). Getting the airline to name the exact rule and then verifying it against authoritative guidance is usually what unlocks a fix or a clear rebooking plan.
 
 ## Scope note
-This guide provides first-step stabilization for an airport document dispute. It focuses on clarifying the refusal and seeking immediate verification. It does not cover long-term legal claims for denied boarding compensation under UK261.
+These are first steps for the airport moment: clarify the reason, verify the rule, fix what you can quickly, and protect your booking and evidence. Follow-up complaints/claims depend on the specific reason you were refused boarding.
 
 ## Important note
-Airlines have a legal obligation to ensure passengers have the correct documentation and may be fined for boarding someone who is later refused entry. This information is a general guide; entry requirements are subject to immediate change by sovereign governments and individual carrier policies.
+This is general information, not legal advice. Entry requirements change and depend on nationality, route, transit points, and personal status. Airlines can refuse boarding if they believe documentation is inadequate, and outcomes can differ by carrier policy and your specific itinerary.
 
 ## Additional Resources
-- https://www.gov.uk/government/publications/air-passenger-travel-guide/air-passenger-travel-guide
 - https://www.gov.uk/foreign-travel-advice
-- https://www.abta.com/tips-and-advice/planning-and-booking-a-holiday/passports-and-visas
-- https://www.abta.com/tips-and-advice/planning-and-booking-a-holiday/abtas-travel-checklist
-- https://www.abta.com/tips-and-advice/brexit-advice-for-travellers
+- https://www.iata.org/en/services/compliance/timatic/travel-documentation/
+- https://www.iata.org/en/services/compliance/timatic/
+- https://www.gov.uk/eta
+- https://homeofficemedia.blog.gov.uk/electronic-travel-authorisation-eta-factsheet-february-2026/
+- https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport

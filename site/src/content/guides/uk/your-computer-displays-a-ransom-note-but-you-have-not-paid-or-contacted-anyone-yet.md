@@ -1,100 +1,86 @@
----
+﻿---
 title: "What to do if… your computer displays a ransom note but you have not paid or contacted anyone yet"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "computer won't start"
-  - "pc won't boot"
-  - "laptop won't turn on"
-  - "computer not powering on"
-  - "black screen on startup"
-  - "stuck on startup screen"
-  - "need files urgently"
-  - "files trapped on computer"
-  - "only copy on device"
-  - "hard drive recovery"
-  - "ssd recovery"
-  - "get files off dead laptop"
-  - "windows bitlocker recovery key"
-  - "mac target disk mode"
-  - "share disk macos recovery"
-  - "drive enclosure usb adapter"
-  - "power surge after crash"
-  - "recent update then won't start"
-  - "important documents on computer"
-  - "photos only on laptop"
-  - "work files on broken computer"
-  - "help i need my files"
-  - "what do i do if my laptop died"
-  - "help my computer is dead"
-  - "what do i do if my pc won't start"
-  - "my mac is showing a question mark"
-  - "no power to laptop"
-  - "external hard drive not showing"
-  - "corrupted startup files"
-  - "recovering data from broken laptop"
-last_reviewed: "2026-03-17"
+  - ransom note on screen
+  - ransomware message
+  - files encrypted
+  - computer locked ransomware
+  - pop-up ransom demand
+  - black screen ransom note
+  - bitcoin ransom demand
+  - crypto payment demand
+  - decrypt key demanded
+  - hacked and locked out
+  - suspicious encryption
+  - sudden file extensions changed
+  - desktop wallpaper ransom note
+  - network drive encrypted
+  - work laptop ransom note
+  - home computer ransomware
+  - not paid yet
+  - not contacted attacker
+  - scared to click anything
+  - data held hostage
+last_reviewed: "2026-03-08"
 ---
-# What to do if… your computer displays a ransom note but you have not paid or contacted anyone yet (UK)
 
+# What to do if… your computer displays a ransom note but you have not paid or contacted anyone yet (UK)
 ## Short answer
-Immediately cease all attempts to "repair" the operating system and focus exclusively on copying files to an external device. Use a second computer to access the drive via Apple Share Disk, Target Disk Mode, or a physical USB drive adapter.
+Disconnect the affected computer from the internet/network immediately, then pause and document what you’re seeing (photos/screenshots) before you do anything else. Don’t reply to the ransom message.
 
 ## Do not do these things
-- Do not run "Factory Reset," "Reinstall Windows/macOS," or "System Restore" if you have not backed up your files yet.
-- Do not continue power-cycling the device if it makes clicking, grinding, or whirring noises.
-- Do not open the sealed internal assembly of a hard drive; this must only be done in a professional cleanroom.
-- Do not download "free" recovery software onto the device itself, as this can overwrite the very files you are trying to save.
-- Do not apply "home remedies" such as placing a hard drive in a freezer or tapping it with a tool.
+- Don’t pay, negotiate, or message the attacker “just to ask” — it can increase pressure and risk.
+- Don’t click links, QR codes, or “support chat” buttons on the ransom note.
+- Don’t plug in backup drives, USB sticks, or external hard drives “to copy what you can” — you may encrypt/infect them too.
+- Don’t run random “ransomware removal” tools you don’t understand — it can make recovery harder or overwrite information responders may need.
+- Don’t log into banking/email/password-manager accounts on the infected computer.
+- Don’t accept unsolicited “help” calls/messages from people who claim they can fix it if you pay them.
 
 ## What to do now
-1. **Document the exact symptoms and error messages immediately.** 
-   Record whether the screen is entirely black, showing a specific error code (like a Windows "Blue Screen" or Mac "Question Mark" folder), or if you hear specific beep patterns. Use a smartphone to photograph any text on the screen before it disappears.
-
-2. **Perform a "cold" power reset by removing all peripherals.** 
-   Unplug all USB drives, docks, printers, and monitors. Disconnect the power cable (and remove the battery if it is a removable laptop type), then press and hold the power button for 30 seconds. Reconnect only the power and attempt to start the device one time.
-
-3. **Verify cloud sync status on a different device.** 
-   Log into your accounts (OneDrive, iCloud, Google Drive, or Dropbox) via a phone or another computer to see if your "Desktop" or "Documents" folders were automatically syncing. Check your "Sent" email folder for any recently shared versions of the files you need.
-
-4. **Access files on a Mac using Share Disk or Target Disk Mode.** 
-   - **For Apple Silicon (M1/M2/M3/M4):** Shut down the broken Mac, hold the power button until "Loading startup options" appears, select Options > Continue, and go to Utilities > Share Disk. Connect it to another Mac with a Thunderbolt cable to browse files via the Network section in Finder.
-   - **For Intel Macs:** Shut down the Mac, then hold the "T" key while pressing the power button. Connect it to another Mac via Thunderbolt or USB-C; it will appear as an external hard drive icon on the healthy Mac's desktop.
-
-5. **Retrieve the BitLocker or FileVault recovery key if prompted.** 
-   If the drive is encrypted, you cannot access files without the key. 
-   - **Windows:** Go to `account.microsoft.com/devices/recoverykey` on another device and sign in with the Microsoft account used on the broken PC.
-   - **Mac:** Locate the 24-character FileVault recovery key you were prompted to save during initial setup, or use your Apple ID if you selected that option.
-
-6. **Remove the internal drive for physical recovery if the computer is non-functional.** 
-   If the motherboard is dead but the drive is healthy, the drive can be removed and placed into a "USB SATA Enclosure" or "NVMe to USB Adapter" (costing £10–£25). Only attempt this if you have the correct screwdrivers and the drive is not soldered to the motherboard.
-
-7. **Contact a specialist data recovery service if you hear physical clicking.** 
-   If the drive is making rhythmic mechanical noises, it has a physical hardware failure. Power it off immediately to prevent the read-heads from scratching the platters and seek a professional UK-based recovery service that offers a "no-data, no-fee" guarantee.
-
-8. **Assert your rights under the Consumer Rights Act 2015 if the device is under six months old.** 
-   Contact the retailer (not the manufacturer) if the hardware failed through no fault of your own. Under UK law, if a device is faulty, you are entitled to a repair or replacement; however, explicitly state in writing that you require your data to be preserved, as standard repairs often involve wiping the drive.
-
-9. **Consult your IT department for work-managed devices before attempting DIY.** 
-   Corporate laptops often have hardware-level encryption (TPM) that prevents the drive from being read on any other machine. Your IT department likely holds the master recovery keys or has server-side backups of your local folders.
+1. **Isolate the device (first priority).**  
+   - Turn off Wi-Fi and Bluetooth.  
+   - Unplug the Ethernet cable if there is one.  
+   - If it’s a work/school device, disconnect from any dock/office network too.
+2. **Freeze the scene for reference.**  
+   - Take clear photos of the ransom note, any filenames/extensions shown, the time/date, and any “ID” the note displays.  
+   - If you can do so without clicking around, write down which folders/drives look affected (e.g., “Documents”, “Desktop”, a shared drive letter).
+3. **If it’s a work/school computer: stop and escalate.**  
+   - **Do not attempt fixes yourself.** Contact your IT/helpdesk/security team using a different device/phone.  
+   - Tell them: *“Ransom note on screen; device isolated from network; I have not paid or contacted anyone.”*
+4. **From a known-clean device, secure the accounts that matter most.**  
+   Prioritise: email account(s), banking, cloud storage (Google/Microsoft/Apple), and any remote access accounts. Turn on 2-step verification if you can.  
+   - If you use a password manager and you’re unsure whether it’s affected, change the master password only from a known-clean device.
+5. **Treat it as real ransomware until proven otherwise.**  
+   - Some incidents are “scareware” (a lock screen) and some are real encryption. Don’t test by clicking around. Keep it isolated and move to reporting/help.
+6. **Report it (even if you haven’t lost money yet).**  
+   - **If you’re in England, Wales, or Northern Ireland:** report cyber crime/fraud via **Report Fraud** (the UK online service).  
+   - **If you’re in Scotland:** report to **Police Scotland** (101 for non-emergency, or their online reporting options).  
+   - If this involves an organisation, they can also report the incident to the **NCSC** via its cyber incident reporting service.
+7. **If you’re worried about identity/financial exposure, add immediate friction.**  
+   - Notify your bank’s fraud team (use the number on your bank card/app, not one in any message).  
+   - Watch for account takeover signals (password reset emails you didn’t request, new payees, new devices).
 
 ## What can wait
-- You do not need to decide whether to buy a new computer until you have confirmed the status of your data.
-- You do not need to troubleshoot the cause of the startup failure (e.g., Windows updates, driver conflicts) until your files are safely moved to a different physical disk.
-- You do not need to worry about "organising" the recovered files; simply copy everything to a safe location first.
+- You do **not** need to decide today whether you will ever pay (many people never do).
+- You do **not** need to try to “clean” or “decrypt” the machine right now.
+- You do **not** need to contact the attacker to “buy time”.
+- You can leave detailed incident write-ups and longer-term prevention steps until after the device is contained.
 
 ## Important reassurance
-A computer that refuses to start does not automatically mean the files are gone. In the majority of cases involving motherboard, screen, or power supply failures, the storage drive remains completely intact. By stopping "repair" attempts now and switching to "recovery" mode, you are taking the most effective step to protect your information.
+Seeing a ransom note is designed to trigger panic and rushed decisions. You’ve already done the most protective thing by not paying or engaging — isolating the device and slowing down prevents a bad situation becoming worse.
 
 ## Scope note
-This guide provides first-step stabilization only. It focuses on immediate data preservation and access. Long-term hardware repair and warranty claims are secondary to securing your digital files.
+This is first steps only for stabilization and harm-prevention. Recovery (restoring files, rebuilding the device, dealing with backups, and checking for data theft) can require specialist help depending on what was hit.
 
 ## Important note
-This information is provided for general guidance and does not constitute professional technical or legal advice. Data recovery is a sensitive process; if the files are of extreme financial or legal importance, do not attempt DIY steps and contact a certified professional immediately. Under the UK Consumer Rights Act 2015, you may have legal grounds for compensation if faulty digital content or hardware causes damage to your files, but this typically requires professional evidence.
+This guide is general information, not legal or professional advice. If the device is owned by an employer/school or contains other people’s personal data, follow your organisation’s incident process and consider data protection obligations.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/ransomware/home
-- https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take
-- https://www.ncsc.gov.uk/section/respond-recover/sole-infected-devices
-- https://www.reportfraud.police.uk/reporting-a-fraud/
-- https://www.reportfraud.police.uk/computer-hacking/
+- https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks
+- https://report.ncsc.gov.uk/
+- https://www.reportfraud.police.uk/
+- https://www.scotland.police.uk/advice/cybercrime/ransomware-attacks/
+- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police

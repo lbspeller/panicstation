@@ -1,97 +1,81 @@
----
+﻿---
 title: "What to do if… you receive a notice that you must not destroy messages, photos, or records relevant to a case"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "legal hold notice"
-  - "preservation of evidence uk"
-  - "do not destroy records"
-  - "message preservation order"
-  - "court case document hold"
-  - "police investigation records"
-  - "what do i do if i get a preservation notice"
-  - "what do i do if told not to delete messages"
-  - "what do i do if my photos are evidence"
-  - "what do i do if a lawyer says keep records"
-  - "help i received a legal hold notice"
-  - "help i am told not to delete texts"
-  - "help i have a preservation order uk"
-  - "my messages are relevant to a case"
-  - "my photos are needed for court"
-  - "smell of burning electronics"
-  - "notice to preserve documents"
-  - "destruction of evidence warning"
-  - "whatsapp auto delete turned on"
-  - "disappearing messages evidence risk"
-  - "cloud storage deletion settings"
-  - "civil procedure rules part 31"
-  - "adverse inference for deletion"
-  - "legal dispute record keeping"
-  - "employment tribunal document hold"
-  - "relevant to a case records"
-  - "messages relevant to a case"
-  - "photos relevant to a case"
-  - "records relevant to a case"
-  - "notice to preserve messages"
-  - "notice to preserve photos"
-  - "notice to preserve records"
-  - "destroy messages relevant to a case"
-  - "destroy photos relevant to a case"
-  - "destroy records relevant to a case"
-last_reviewed: "2026-03-17"
+  - preservation notice
+  - do not destroy records
+  - told not to delete messages
+  - do not delete texts
+  - keep photos and videos
+  - preserve chat history
+  - evidence preservation letter
+  - relevant to a case
+  - legal dispute records
+  - court case documents
+  - police investigation material
+  - whatsapp messages evidence
+  - disappearing messages turned on
+  - auto delete messages turned on
+  - cloud photos deletion risk
+  - shared device messages
+  - work account messages hold
+  - worried i already deleted
+  - stop deleting now
+last_reviewed: "2026-03-06"
 ---
-# What to do if… you receive a notice that you must not destroy messages, photos, or records relevant to a case (UK)
 
+# What to do if… you receive a notice that you must not destroy messages, photos, or records relevant to a case (UK)
 ## Short answer
-Immediately disable all automatic deletion or disappearing-message settings on all relevant devices and accounts. Contact a solicitor or your organisation's legal department to confirm the specific scope of your preservation obligations under Civil Procedure Rules or criminal disclosure requirements.
+Stop deleting anything connected to the matter immediately and turn off any auto-delete/disappearing-message settings. Then get the notice to a solicitor (or your organisation’s legal team) and follow their preservation instructions.
 
 ## Do not do these things
-- Do not delete, edit, or "clean up" any digital or physical material including texts, emails, call logs, photos, or files.
-- Do not turn on "disappearing messages" or "auto-delete" features in any app; turn them off if they are currently active.
-- Do not factory-reset your device or migrate to a new phone if it involves deleting data from the old one.
-- Do not keep only screenshots while deleting original files, as metadata (hidden data about the file) is often essential evidence.
-- Do not ask others to delete shared threads or mutual records on your behalf.
-- Do not create summaries or "tidy versions" of events to replace original contemporary notes.
+- Don’t delete, edit, “tidy up”, or selectively remove messages, photos, emails, files, call logs, notes, or social media DMs connected to the matter.
+- Don’t factory-reset, wipe, “clean” storage, replace your phone, or migrate to a new device in a way that could remove data.
+- Don’t turn on (or expand) disappearing messages/auto-delete; **do** turn them off if they’re already on.
+- Don’t keep only screenshots while deleting originals (screenshots can lose context/metadata).
+- Don’t create rewritten summaries and treat them as originals, or backdate anything.
+- Don’t ask anyone else to delete things on your behalf.
 
 ## What to do now
-1. **Disable all auto-delete and disappearing message settings immediately.**  
-   - Check settings in WhatsApp, Signal, Telegram, Snapchat, Microsoft Teams, and Slack.
-   - Ensure "Auto-archive" or "Delete old messages" features are switched to "Off."
-2. **Stop all storage-cleaning and "optimisation" processes.**  
-   - Pause "Cleaner" apps or system settings that automatically remove "large files" or "unused downloads."
-   - Check cloud sync settings (such as iCloud "Optimize iPhone Storage") to ensure high-resolution originals are not being removed from the local device and replaced with thumbnails.
-3. **Identify the specific scope of the notice.**  
-   - Look for the date range, the specific individuals named, and the specific topics or events mentioned in the notice.
-   - If the notice is broad or vague, preserve all communications with the involved parties until you receive specific legal advice.
-4. **Create a preservation log of your actions.**  
-   - Record the date and time you received the notice and the exact steps you took to stop data deletion.
-   - List the devices (phones, tablets, laptops) and accounts (email, cloud, social media) that may contain relevant information.
-5. **Contact a solicitor or your employer’s legal team.**  
-   - If the matter is work-related, follow your organisation’s internal "Legal Hold" procedure and notify the designated compliance officer.
-   - If the matter is personal, provide the notice to your solicitor and ask for a written list of which items must be preserved.
-6. **Follow specific protocols if the police are involved.**  
-   - Note the officer in charge (OIC) name, their station, and the crime reference number if applicable.
-   - Ask for a "Digital Processing Notice" if they are requesting access to your device, which outlines your rights and their reasons for the request.
-7. **Notify other users of shared accounts or devices.**  
-   - If you share a tablet, family computer, or login, inform the other users in writing that they must not delete or alter any records until further notice.
+1. **Freeze deletion right now.**  
+   - Turn off disappearing messages/auto-delete in any messaging app you used for this (for example: WhatsApp, Signal, Telegram, Instagram, Facebook Messenger).  
+   - Pause “cleaner” tools that auto-remove old photos/downloads/chats.
+2. **Stop anything that could erase data by accident.**  
+   - Do **not** reset, wipe, “free up space” in bulk, or do a phone “upgrade/migration” until you’ve had instructions.  
+   - If you’re worried that changes on one device will sync across devices/cloud, **stop making edits** and get advice before changing sync settings.
+3. **Work out what the notice is asking you to preserve (without overthinking it).**  
+   - Note the **date range**, the people involved, and the places data might exist (texts/DMs, email, photos, cloud drives, work chat, backups).  
+   - If it’s unclear, assume a **broad** scope and preserve more rather than less.
+4. **Create a tiny preservation log (1 minute).**  
+   - Write: when you received the notice, what you did to stop deletion, and which devices/accounts likely contain relevant material.  
+   - Keep it factual and dated.
+5. **Route it to the right place today.**  
+   - If this is through work/organisation: forward the notice to the named contact or your legal/compliance team and ask (in writing) what to do about work systems (email, Teams/Slack, shared drives, retention settings).  
+   - If this is personal: send the notice to your solicitor (or contact one) and ask for immediate “what must I preserve and how?” instructions.
+6. **If police/criminal proceedings are involved, keep it preservation-only.**  
+   - If the notice came from police (or you’re a witness/victim asked to keep material), ask for the **OIC/contact details and reference number** and tell them you have paused deletion.  
+   - Don’t try to investigate, curate, or edit; focus on keeping things intact.
+7. **Make sure other users of shared devices/accounts don’t delete anything.**  
+   - If you share a phone, iPad, family computer, or login, send a short message: “I’ve received a notice to preserve records for a case—please don’t delete or ‘clean up’ anything related.”
 
 ## What can wait
-- You do not need to decide how to plead or whether to settle the dispute today.
-- You do not need to start sorting files into folders; moving files can sometimes change "last modified" dates which may be relevant.
-- You do not need to respond to the opposing party directly unless the notice is a formal "Letter Before Action" and your solicitor has approved the response.
+- You do **not** need to decide today whether to complain, settle, plead, or give a detailed account.
+- You do **not** need to organise everything into neat folders right now (that can lead to accidental loss).
+- You do **not** need to contact the opposing side directly today unless the notice specifically requires it and you’ve had advice.
 
 ## Important reassurance
-Receiving a preservation notice (often called a "Legal Hold") is a standard procedural step in UK litigation and investigations. It does not necessarily mean you are in trouble; it is a requirement to ensure that if a case proceeds, the court has access to the same facts as both parties. Taking immediate steps to stop deletion protects your credibility.
+This kind of notice can feel accusatory, but it’s often a routine “don’t delete anything” step once a dispute or investigation is possible. A calm, boring response—stop deletion, keep things intact, get advice—is usually the safest move.
 
 ## Scope note
-This guide provides first-step stabilization to prevent the "spoliation" (destruction) of evidence. It does not cover the process of "Disclosure" or "Discovery," which involves the actual handing over of documents and should only be done under legal supervision.
+This guide covers first steps to prevent irreversible mistakes (loss or alteration of records). Next steps—collection, disclosure, or handing anything over—depend on the type of case and should be guided by a solicitor or the named contact on the notice.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. In the UK, failing to preserve evidence after receiving a notice can lead to "adverse inferences," where a court assumes the deleted data was harmful to your case, or even "contempt of court" in serious instances. If you believe data has already been deleted, do not attempt to "fix" it; inform your solicitor immediately.
+This is general information, not legal advice. Obligations and processes vary depending on whether this is a civil dispute, employment matter, regulatory issue, or criminal case. If you think you already deleted something relevant, don’t try to “fix” it yourself—write down what happened and get legal advice promptly.
 
 ## Additional Resources
 - https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part31
 - https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part31/pd_part31b
-- https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part31/pd_part31a
-- https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part-57a-business-and-property-courts/practice-direction-57ad-disclosure-in-the-business-and-property-courts
-- https://www.justice.gov.uk/courts/procedure-rules/civil/standard-directions/general/disclosure-of-documents
+- https://www.cps.gov.uk/about-cps/disclosure
+- https://www.cps.gov.uk/prosecution-guidance/disclosure-manual-chapter-4-relevance-recording-and-retention
+- https://www.gov.uk/government/publications/criminal-procedure-and-investigations-act-code-of-practice

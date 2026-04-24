@@ -1,101 +1,89 @@
----
+﻿---
 title: "What to do if… your car won’t shift out of park and you are stuck in a parking lot or driveway"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
-  - "car stuck in park"
-  - "won’t shift out of park"
-  - "shifter stuck in park"
-  - "automatic stuck in park"
-  - "stuck in driveway"
-  - "stuck in parking lot"
-  - "can’t get into neutral"
-  - "shift interlock issue"
-  - "shift lock override"
-  - "brake pedal required to shift"
-  - "brake lights not working stuck park"
-  - "dead battery stuck in park"
-  - "gear selector locked"
-  - "keyless ignition stuck in park"
-  - "parking pawl stuck"
-  - "stuck on incline in park"
-  - "can’t move car"
-  - "roadside assistance needed"
-  - "help i can’t shift out of park"
-  - "help i am stuck in a parking lot"
-  - "my car gear shifter is stuck"
-  - "my shifter won't move"
-  - "what do i do if my car is stuck in park"
-  - "what do i do if i cannot move my gear selector"
-  - "what do i do if my brake lights don't work"
-  - "what do i do if my battery is dead and i am in park"
-  - "clicking noise when pressing brake"
-  - "shifter button won't press"
-  - "stiff gear lever"
-  - "shifter override slot cap"
-last_reviewed: "2026-03-17"
+  - car stuck in park
+  - won’t shift out of park
+  - shifter stuck in park
+  - automatic stuck in park
+  - stuck in driveway
+  - stuck in parking lot
+  - can’t get into neutral
+  - shift interlock issue
+  - shift lock override
+  - brake pedal required to shift
+  - brake lights not working stuck park
+  - dead battery stuck in park
+  - gear selector locked
+  - keyless ignition stuck in park
+  - parking pawl stuck
+  - stuck on incline in park
+  - can’t move car
+  - roadside assistance needed
+last_reviewed: "2026-03-09"
 ---
-# What to do if… your car won’t shift out of park and you are stuck in a parking lot or driveway (USA)
 
+# What to do if… your car won’t shift out of park and you are stuck in a parking lot or driveway (USA)
 ## Short answer
-Ensure the parking brake is set, hold the foot brake firmly, and verify the ignition is in the "ON" or "RUN" position. If it remains locked, use the manual shift-lock override (BTSI bypass) to select Neutral for repositioning, then contact a professional technician.
+Secure the vehicle (parking brake on, foot brake on, hazards on), then try the quick interlock checks (correct ignition mode, firm brake, brake lights). If it won’t release, use the **shift-lock override** only to reposition somewhere safe, then call roadside assistance or a tow.
 
 ## Do not do these things
-- Do not apply excessive force or yank the gear selector, as this can snap the linkage or damage the shifter assembly.
-- Do not attempt to force the key out of the ignition or turn it to the LOCK position while the vehicle is stuck in Park.
-- Do not allow the vehicle to be pushed or towed until you have confirmed the transmission is in Neutral.
-- Do not use the shift-lock override as a permanent solution; it is strictly for emergency repositioning.
-- Do not attempt to crawl under the vehicle to manually release the transmission linkage in a public lot or driveway.
+- Don’t yank or force the shifter (you can break the linkage or shifter assembly).
+- Don’t keep trying random ignition/button sequences that put the car in unexpected modes.
+- Don’t let people push the vehicle unless you can reliably select **Neutral** and you have clear, controlled space.
+- Don’t attempt any “under-car” gear-release methods in a lot/driveway unless a tow/recovery professional instructs you and the vehicle is fully secured.
+- Don’t treat an override as a fix—use it only to move out of the way.
 
 ## What to do now
-1. **Secure the vehicle immediately.**
-   - **Press the foot brake pedal firmly** and do not release it.
-   - **Apply the parking brake** (emergency brake) to its full extent.
-   - **Activate hazard lights** if your position obstructs traffic or parking lanes.
+1. **Secure the vehicle**
+   - Keep your **foot firmly on the brake**.
+   - Set the **parking brake** fully.
+   - Turn on **hazard lights** if anyone might approach or you’re partly blocking lanes in the lot.
 
-2. **Verify the ignition and interlock status.**
-   - **Confirm the ignition is in the ON or RUN position** (the engine does not necessarily need to be running, but the dashboard must be powered).
-   - **Check for a "Brake" or "Foot" icon** on the dashboard that may indicate the Brake Transmission Shift Interlock (BTSI) is not detecting your foot.
-   - **Listen for a faint "click"** near the shifter when you press and release the brake pedal; no click often indicates an electrical failure in the interlock solenoid.
+2. **Try the standard interlock release**
+   - Confirm the ignition is in the correct mode for shifting (varies by vehicle; often “ON/RUN” or engine running).
+   - Press and hold the brake pedal firmly.
+   - Press the shifter button (if present) and try moving from **P to N** first.
 
-3. **Check for external "brake signal" indicators.**
-   - **Verify if the brake lights illuminate** by checking a reflection or asking a bystander.
-   - **Inspect the brake light fuse** if you have access to the fuse box and the lights are dark.
-   - **Understand that if the brake lights do not work**, the safety system will usually prevent the shifter from moving out of Park.
+3. **Rule out a weak/dead 12V battery**
+   - If dash lights are dim, electronics are glitchy, or the car won’t reliably power on, the shift interlock may not release.
+   - If you know how to safely use a **jump pack** (or get a jump), restore 12V power and repeat step 2. If you don’t, skip this and call roadside assistance.
 
-4. **Address potential parking pawl tension on inclines.**
-   - **Keep the parking brake engaged** and your foot on the brake.
-   - **Have a helper gently rock the vehicle** uphill slightly if you are on a slope; this can relieve mechanical tension on the transmission's parking pawl.
-   - **Try to shift to Neutral** while the vehicle is being rocked.
+4. **Check for the “brake signal” problem**
+   - Check whether your **brake lights** illuminate (use a helper or a reflective surface).
+   - If brake lights don’t come on, many vehicles won’t release from Park. Stop forcing it—plan for tow/repair (or use the override only to reposition).
 
-5. **Perform a manual shift-lock override.**
-   - **Locate the override slot** on the shifter console (usually a small plastic cap or a hidden button).
-   - **Consult the owner's manual** for "Shift Lock Release" or "Emergency Shifter Release" instructions.
-   - **Insert the ignition key or a small screwdriver** into the slot and press down while holding the foot brake and pressing the shifter button.
-   - **Move the selector to Neutral (N)** to allow the car to be rolled or winched to a safer location.
+5. **If you’re on an incline, unload the parking pawl safely**
+   - Keep the **parking brake on** and your foot on the brake.
+   - If safe, have a helper apply a very light push **uphill a couple inches** while you gently ease and reapply the brake to take tension off the parking mechanism.
+   - Retry shifting to **Neutral**. Stop if movement feels uncontrolled.
 
-6. **Contact professional assistance.**
-   - **Call a roadside assistance provider** (e.g., AAA at 1-800-AAA-HELP) if the vehicle remains immobile.
-   - **Provide the dispatcher with specific details**: "Automatic transmission stuck in Park, interlock not releasing, vehicle is on a [slope / flat surface]."
-   - **Call 911 only if** you are blocking a high-speed traffic lane, at risk of a collision, or in a personal safety emergency.
+6. **Use the shift-lock override to reposition (temporary)**
+   - Check your owner’s manual for “shift lock release / shift interlock override / emergency shift release.”
+   - Many cars have a small covered slot/button near the shifter that you press with the key or a tool **while holding the brake**, allowing the shifter to move out of Park.
+   - **Before selecting Neutral:** parking brake set; foot brake held; if on a slope, chock the wheels if possible; keep someone in the driver’s seat.
+   - Move only far enough to a safer, flatter, less obstructive spot, then re-secure the vehicle.
+
+7. **Get help based on safety**
+   - Call **roadside assistance** (AAA/insurer/vehicle roadside program) and say: “automatic stuck in Park; cannot shift to Neutral without override; currently in [parking lot/driveway], access is [tight/flat/slope].”
+   - If you’re in a dangerous situation (e.g., stuck where traffic can hit you, risk of fire, or you feel unsafe), call **911**.
 
 ## What can wait
-- Identifying the specific failed component (solenoid, switch, or fuse) is not required for immediate safety.
-- You do not need to attempt complex repairs like removing console panels while in a parking lot.
-- Determining which repair shop to use can wait until the vehicle is safely positioned or on a tow truck.
+- You don’t need to identify the exact failed part right now.
+- You don’t need to remove interior panels in a parking lot.
+- You don’t need to decide on a repair shop yet—first focus on safe repositioning or a tow.
 
 ## Important reassurance
-It is common for safety interlocks to malfunction due to simple electrical issues, such as a blown fuse or a faulty brake switch, rather than a total transmission failure. These systems are designed to fail "safe" by locking the vehicle in Park to prevent unintended rolling. Following the override procedure is a standard emergency step that does not damage the vehicle when done correctly.
+This usually comes down to the safety interlock not detecting “brake applied,” low 12V power, or mechanical tension on the park mechanism. Staying calm and avoiding force prevents expensive damage and keeps you safer.
 
 ## Scope note
-This guide provides first-step stabilization for a vehicle immobile in Park. Long-term diagnosis and mechanical repair must be performed by a qualified automotive technician.
+These are first steps for the moment you’re stuck. Diagnosis and repair should be handled later by a qualified technician or your roadside provider.
 
 ## Important note
-This information is for general guidance and does not replace the specific instructions in your vehicle's owner's manual. Procedures for electronic rotary dial shifters or push-button transmissions may differ significantly. Always prioritize personal safety and avoid standing behind or in front of a vehicle that is being moved out of Park on a slope.
+This is general information, not professional mechanical or legal advice. Vehicle designs differ—use your owner’s manual when available. If you’re in immediate danger, prioritize safety and contact emergency services.
 
 ## Additional Resources
-- https://cluballiance.aaa.com/the-extra-mile/advice/car/stay-safe-in-a-roadside-emergency
-- https://www.jdpower.com/cars/shopping-guides/why-is-my-gear-shift-stuck-in-park
-- https://www.autozone.com/diy/brakes/symptoms-of-a-bad-brake-light-switch
-- https://www.michigan.gov/msp/divisions/ohsp/campaign-materials/how-to-handle-a-roadside-emergency
-- https://cluballiance.aaa.com/automotive/roadside-assistance
+- https://www.ace.aaa.com/automotive/advocacy/what-to-do-if-car-breaks-down-guide.html
+- https://www.nhtsa.gov/interpretations/2673y
+- https://www.nhtsa.gov/interpretations/nht92-913

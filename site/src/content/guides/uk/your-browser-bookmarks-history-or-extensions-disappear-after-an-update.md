@@ -1,94 +1,92 @@
----
+﻿---
 title: "What to do if… your browser bookmarks, history, or extensions disappear after an update"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "calls going straight to voicemail"
-  - "texts delayed not arriving"
-  - "sms not coming through"
-  - "phone not receiving calls"
-  - "missed calls no ringing"
-  - "incoming calls silent"
-  - "mobile network not working"
-  - "signal but no calls"
-  - "cant send texts"
-  - "delayed text messages"
-  - "no service suddenly"
-  - "dropped off network"
-  - "sim problem uk"
-  - "esim not connecting"
-  - "do not disturb blocking calls"
-  - "call forwarding accidentally on"
-  - "phone says connected but isnt"
-  - "people say cant reach me"
-  - "what do i do if calls go to voicemail"
-  - "what do i do if texts are late"
-  - "help i cant receive calls"
-  - "help i am not getting texts"
-  - "my phone goes straight to voicemail"
-  - "my texts are taking hours"
-  - "no ringing on incoming calls"
-  - "calls failing uk"
-  - "sms delay uk"
-  - "mobile network fault"
-  - "voicemail instead of ringing"
-  - "delayed bank codes sms"
-  - "one-time passcode not arriving"
-  - "network status checker uk"
-last_reviewed: "2026-03-17"
+  - bookmarks disappeared after update
+  - browser bookmarks missing
+  - browser history missing
+  - extensions disappeared
+  - chrome bookmarks gone
+  - edge favorites missing
+  - firefox bookmarks missing
+  - new browser profile appeared
+  - signed out of browser sync
+  - sync overwrote bookmarks
+  - browser reset after update
+  - lost saved passwords and history
+  - bookmarks bar empty
+  - extensions disabled after update
+  - missing favourites after windows update
+  - browser data seems wiped
+  - profile switched to guest mode
+  - bookmarks not showing but still exist
+  - after update everything reset
+last_reviewed: "2026-03-08"
 ---
-# What to do if… your browser bookmarks, history, or extensions disappear after an update (UK)
 
+# What to do if… your browser bookmarks, history, or extensions disappear after an update (UK)
 ## Short answer
-Force a network reconnection by toggling Flight Mode on for 30 seconds and then off, followed by a full device restart. If the issue persists, check your provider's official service status page for local network outages.
+Stop making changes and avoid reinstalling or “resetting” the browser. First confirm you’re in the right browser profile and that sync hasn’t swapped you to an empty or older copy.
 
 ## Do not do these things
-- Don't keep attempting the same call repeatedly; this drains battery and does not resolve network registration errors.
-- Don't perform a factory reset or "Erase All Content and Settings" as this is rarely necessary for network faults.
-- Don't assume the hardware is broken until you have tested your SIM card in a different, working handset.
-- Don't share security codes or One-Time Passcodes (OTPs) with anyone claiming to "test" your line; delayed texts are frequently exploited in scams.
-- Don't ignore "Do Not Disturb" or "Focus" icons in your status bar, as these are the most common causes of silent incoming calls.
+- Don’t uninstall/reinstall the browser yet (it can overwrite local recovery files).
+- Don’t use “Reset settings”, “Refresh”, or “Create new profile” as a first move.
+- Don’t turn sync on/off repeatedly across multiple devices (it can propagate the wrong version everywhere).
+- Don’t run “cleanup” tools that delete browser profiles/caches (they can remove backups).
+- Don’t assume it’s gone forever—this is often a profile switch, sync issue, or disabled items.
 
 ## What to do now
-1. **Try an alternative communication method for urgent needs.** If you must make a call immediately, use a landline, a different mobile device, or enable **Wi-Fi Calling** in your phone settings if you have a stable internet connection. 
-   - For life-threatening emergencies, dial **999** or **112**. Even if your network shows "No Service," your phone will attempt to "roam" onto any available UK network to complete an emergency call.
-2. **Verify that silent modes are completely disabled.** Check your status bar for a "crescent moon" or "person" icon indicating **Do Not Disturb** or **Focus** modes are active.
-   - On iPhone, swipe down from the top right to check the Control Centre.
-   - On Android, swipe down the notification shade and ensure "Do Not Disturb" is off.
-3. **Check for active call diverts or forwarding.** Dial **#21#** on your keypad and press the call button to see if all calls are being diverted.
-   - To cancel all active diverts, dial **##002#** and press the call button.
-4. **Force the device to re-register on the cell tower.** Turn **Flight Mode ON**, wait exactly **30 seconds**, and turn it **OFF**. 
-   - If the signal does not return, **Power Off** the device completely, wait 20 seconds, and restart it.
-5. **Review specific "Silence" settings on your handset.** 
-   - On iPhone: Go to **Settings > Phone > Silence Unknown Callers** and turn it off. Check **Settings > Phone > Live Voicemail** and toggle it off to test.
-   - On Android: Open the **Phone app > Settings > Blocked Numbers** and ensure "Unknown" (Block calls from unidentified callers) is off.
-6. **Check for a local network outage using a secondary device.** Use a browser to visit your provider’s status checker (e.g., EE Status, O2 Service Status, Vodafone Network Checker, or Three Support).
-   - Enter your full postcode to check for "planned maintenance" or "unplanned faults" in your specific area.
-7. **Perform a Network Settings Reset as a final local fix.** This will delete saved Wi-Fi passwords and Bluetooth pairings but often fixes deep software-to-network glitches.
-   - On iPhone: **Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings.**
-   - On Android: **Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth.**
-8. **Contact your network provider if the fault lasts more than one hour.** Call their support line (usually **150** from a working mobile on the same network) and provide:
-   - Your current postcode.
-   - The approximate time the "straight to voicemail" behavior started.
-   - Confirmation that you have already tried a restart and a network settings reset.
+1. **Freeze the situation (30 seconds).**
+   - Close extra browser windows. Don’t clear history/cache.
+   - If you’re on a work/school device, note it may be managed—pause and consider involving IT before making “repair” changes.
+
+2. **Check you’re in the correct profile (this fixes a lot).**
+   - Look for a profile icon (often top-right). If you see **Guest** or a new profile name, switch back to your usual profile.
+   - If there are multiple profiles, open each briefly to see if your bookmarks/extensions appear.
+
+3. **Work out where the “good copy” is before you let anything sync.**
+   - Check another device (phone/laptop) where you normally use the same browser/account. If that device still shows the correct bookmarks, **treat it as your reference copy**.
+   - On the device that looks “empty”, avoid actions that might push changes outward (for example “reset sync” or repeated sign-in/out loops) until you’ve confirmed which copy is correct.
+
+4. **Check sync status, but avoid “reset sync” actions.**
+   - See whether you’ve been signed out (common after updates) and whether bookmarks/favourites and extensions are set to sync.
+   - If your reference device has the correct data, keep it stable while you bring the “empty” device back into line.
+
+5. **Look for built-in bookmark backup/restore (browser-specific).**
+   - **Firefox:** use the Bookmarks Manager “Restore” option to restore from automatic backups.
+   - **Chrome/Chromium-based browsers:** check the Bookmark Manager for “Other bookmarks” and any imported/restored folders.
+   - **Edge:** confirm favourites sync is enabled and restart the browser once; sometimes data returns after a short delay.
+
+6. **If extensions vanished, check whether they were disabled (not removed).**
+   - Open the extensions page and look for toggles/disabled items.
+   - If the browser says extensions are disabled “by your organisation”, treat it as managed-device policy and involve IT.
+
+7. **If you suspect account compromise (unexpected sign-out, unknown extensions, changed search/homepage):**
+   - Change the password for the browser account (Google/Microsoft/Firefox account) from a trusted device, enable two-step verification if available, and review recent sign-ins.
+   - Run a reputable security scan on the device.
+   - If you’ve been affected by cyber crime or fraud in **England, Wales or Northern Ireland**, report it to **Report Fraud** (online or by phone). If you live in **Scotland**, report via **Police Scotland on 101**.
 
 ## What can wait
-- You do not need to replace your SIM card immediately; most issues are temporary network registration faults.
-- You do not need to contact Ofcom yet; they do not handle individual technical faults and will only record the data for regulatory monitoring.
-- You do not need to buy a signal booster or change your contract until the provider has officially confirmed if the fault is with your specific line or a wider mast issue.
+- You don’t need to decide today whether to switch browsers, rebuild bookmarks manually, or install new “recovery” software.
+- You don’t need to tidy extensions, reorganise folders, or “clean up” your computer right now.
+- You don’t need to reset sync or wipe profiles as a first step—those are last resorts after you’ve located a good copy or a backup.
+- Once things are back, you can later export/bookmark-backup for peace of mind—but not during the panic phase.
 
 ## Important reassurance
-It is very common for mobile devices to "hang" on a ghost connection where they appear to have signal but cannot route calls. This is almost always a software handshake issue or a temporary mast fault, not a permanent failure of your expensive handset. Once the connection is refreshed, delayed texts usually arrive in a single batch.
+This often looks catastrophic but is frequently reversible: a different profile opened, sync signed you out, or items were disabled after the update. The safest approach is to slow down and confirm where your data lives before you do anything that might overwrite it.
 
 ## Scope note
-This guide provides first-step stabilization for restoring basic mobile connectivity in the UK. It does not cover broadband-specific faults, VOIP hardware, or international roaming troubleshooting.
+These are first steps to stabilise the situation and avoid irreversible loss. If the built-in restore/sync checks don’t bring it back, the next stage is careful, browser-specific recovery from profile folders and backups (best done slowly, or with help if you’re not confident).
 
 ## Important note
-This information is for general guidance and does not constitute technical or legal advice. If you are in a situation where you are unable to call for emergency help and are at risk, seek a physical landline or a third party's assistance immediately. Network providers are responsible for their own service availability; refer to your specific terms of service for uptime guarantees.
+This is general information, not professional IT or legal advice. If the device is managed by an employer/school, follow their policies and use their support channels. If you think criminal access is involved, prioritise account security and appropriate reporting.
 
 ## Additional Resources
-- https://support.google.com/chrome/answer/188842?co=GENIE.Platform%3DDesktop&hl=en-GB
-- https://support.google.com/chrome/answer/165139?co=GENIE.Platform%3DDesktop&hl=en-GB
-- https://support.microsoft.com/en-gb/microsoft-edge/view-and-delete-browser-history-in-microsoft-edge-00cf7943-a9e1-975a-a33d-ac10ce454ca4
-- https://support.apple.com/en-gb/102564
-- https://support.apple.com/en-gb/guide/icloud/mm9b8da4f328/icloud
+- https://support.mozilla.org/en-US/kb/restore-bookmarks-from-backup-or-move-them
+- https://support.google.com/chrome/answer/96816?hl=en-GB
+- https://support.microsoft.com/en-gb/microsoft-edge/sign-in-to-sync-microsoft-edge-across-devices-e6ffa79b-ed52-aa32-47e2-5d5597fe4674
+- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
+- https://www.reportfraud.police.uk/
+- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/
+- https://www.gov.uk/report-suspicious-emails-websites-phishing

@@ -1,99 +1,96 @@
----
+﻿---
 title: "What to do if… your computer suddenly shows a new local administrator account you did not create"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "contacts disappeared"
-  - "calendar events missing"
-  - "contacts merged unexpectedly"
-  - "duplicate contacts suddenly"
-  - "calendar entries merged"
-  - "phone contacts wiped"
-  - "synced contacts missing"
-  - "icloud contacts missing"
-  - "google contacts missing"
-  - "outlook contacts missing"
-  - "calendar trash restore"
-  - "undo contact changes"
-  - "wrong account signed in"
-  - "multiple accounts mixing"
-  - "sync conflict"
-  - "data overwritten by sync"
-  - "contacts missing after update"
-  - "calendar missing after new phone"
-  - "account takeover warning"
-  - "suspicious account activity"
-  - "address book empty"
-  - "restore deleted contacts"
-  - "google contacts undo"
-  - "icloud data recovery"
-  - "missing meeting entries"
-  - "merged address book"
-  - "help i lost my contacts"
-  - "what do i do if my calendar is blank"
-  - "help i lost my calendar events"
-  - "my contacts are gone"
-  - "calendar entries disappeared"
-  - "contacts missing on iphone"
-  - "contacts missing on android"
-last_reviewed: "2026-03-17"
+  - unexpected admin account
+  - new local administrator
+  - unknown administrator user
+  - random admin on login screen
+  - windows new admin account
+  - mac new admin user
+  - linux new sudo user
+  - account i did not create
+  - computer shows extra user
+  - new user appears suddenly
+  - possible hacked computer
+  - suspicious privileged account
+  - admin account added overnight
+  - device compromise warning
+  - unauthorised account on pc
+  - local admin created without me
+  - unknown account has admin rights
+last_reviewed: "2026-03-08"
 ---
-# What to do if… your computer suddenly shows a new local administrator account you did not create (USA)
 
+# What to do if… your computer suddenly shows a new local administrator account you did not create (USA)
 ## Short answer
-Disable account syncing immediately to prevent data overwriting, then use the provider’s web-based "Undo" or "Restore" tools to roll back changes within the 30-day recovery window.
+Assume the device may be compromised: **disconnect it from the network immediately**, then **capture basic details without making changes** and secure your key accounts from a different trusted device.
 
 ## Do not do these things
-- Do not perform bulk deletes, manual merges, or use "cleanup" apps while the data state is unstable.
-- Do not continue syncing multiple devices if you suspect one has corrupted data.
-- Do not sign out of accounts or factory reset the device as a first step, as this may clear local caches that could still be backed up.
-- Do not provide verification codes to anyone claiming they can "fix" your contacts or calendar remotely.
-- Do not manually re-enter data until you have confirmed that the 30-day restoration window has expired.
+- Don’t keep using the computer for email, banking, cloud storage, work logins, or password managers.
+- Don’t delete the suspicious administrator account yet (it can erase evidence you’ll need to fix this safely).
+- Don’t make lots of system changes “to see what happens” beyond the minimum steps below.
+- Don’t install unknown “security” tools or follow untrusted commands from random posts/videos.
+- Don’t let anyone you didn’t contact first remote into your computer.
 
 ## What to do now
-1. **Disable sync for the affected accounts on your primary device immediately.**  
-   - On iPhone/iPad: Go to Settings > [Your Name] > iCloud and toggle off Contacts and Calendars. Choose "Keep on My iPhone" if prompted.
-   - On Android: Go to Settings > Passwords & Accounts > [Google Account] > Account Sync and toggle off Contacts and Calendar.
-2. **Access the provider's web interface from a desktop computer to verify the "source of truth."**  
-   - Log into iCloud.com, contacts.google.com, outlook.com (People), or calendar.google.com.
-   - If the web data is correct but the device is wrong, the issue is local sync; keep sync disabled until the device cache is cleared.
-3. **Use the Google Contacts "Undo changes" feature if using a Google account.**  
-   - Navigate to contacts.google.com, click the gear icon (Settings), and select "Undo changes."
-   - Select a timeframe (up to 30 days ago) to revert the entire contact list to its previous state.
-4. **Access the Google Calendar Trash to recover specific events.**  
-   - Open calendar.google.com on a computer, click the gear icon, and select "Trash."
-   - Select the missing events and click the "Restore" icon (events are kept for 30 days).
-5. **Restore iCloud archives through the Data Recovery menu for Apple accounts.**  
-   - Log into iCloud.com, scroll to the bottom of the home screen, and select "Data Recovery."
-   - Select "Restore Contacts" or "Restore Calendars" and choose an archive date prior to the disappearance.
-   - Note that this will replace current data on all devices with the chosen archive.
-6. **Check the "Deleted" or "Recoverable Items" folder in Outlook or Microsoft 365.**  
-   - In Outlook.com, go to "People," select the "Deleted" folder, and click "Recover deleted" at the top of the list.
-   - For desktop Outlook, select "Deleted Items" in the folder list and use "Recover Deleted Items from Server" if the contacts are not in the main trash.
-7. **Secure your account if you suspect the merge or deletion was caused by an unauthorized user.**  
-   - Change your account password immediately and verify that your Two-Factor Authentication (2FA) recovery phone number/email has not been changed.
-   - Review "Recent Activity" or "Sign-in Activity" logs in your account security settings.
-8. **Report suspected cybercrime to the appropriate US authorities if data was modified maliciously.**  
-   - File a report at IdentityTheft.gov if you believe your account credentials were stolen.
-   - Submit a complaint to the FBI Internet Crime Complaint Center (IC3.gov) if you have suffered financial loss or a targeted attack.
+1. **Disconnect from the network (now).**  
+   Turn off Wi-Fi, unplug Ethernet, disconnect any VPN. If it’s safe and simple, unplug unknown USB devices.
+
+2. **Record what changed (quickly).**  
+   Take a photo/screenshot of the login screen showing the new account and write down:
+   - exact account name
+   - when you first noticed it
+   - whether your usual account still appears to have admin rights
+
+3. **If this is a work/school-managed device, stop and escalate.**  
+   Contact your IT/helpdesk/security team and say: “A new local admin account appeared that I didn’t create. I’ve taken the device offline.”  
+   Don’t attempt fixes unless they tell you to.
+
+4. **From a different trusted device, secure your most important accounts first.**  
+   Use your phone or another computer (not this one) to:
+   - change your primary email password first
+   - change passwords for financial accounts and any accounts used on this computer
+   - enable or re-check MFA and sign out of other sessions/devices where available  
+   If you reuse passwords, assume they’re exposed and change them everywhere.
+
+5. **Check whether the “new admin” is a built-in/known account that was enabled or renamed (optional).**  
+   Only if you can sign in with a **known-good** account you trust, use built-in user management to confirm:
+   - the account exists and has administrator privileges
+   - your usual account wasn’t silently demoted  
+   If you can’t do this confidently, skip it.
+
+6. **Run an offline scan, then a full scan.**  
+   On Windows, run **Microsoft Defender Offline** (it restarts and scans outside normal Windows), then run a full scan. If you use another reputable security tool, run its full scan too.
+
+7. **If compromise seems likely, prioritize the safer recovery path.**  
+   If the account was truly unauthorized, keeps returning, or scans find malware, the least risky approach is often:
+   - back up only irreplaceable personal files (documents/photos) cautiously
+   - **wipe/reset and reinstall** the operating system from trusted sources
+   - restore files only after scanning them, and only if you’re confident they’re clean  
+   If you’re unsure, use reputable local repair support—avoid unknown “remote fix” offers.
+
+8. **If there’s fraud, extortion, or a clear cybercrime, consider reporting.**  
+   For ransomware/cybercrime, a common U.S. reporting route is the **FBI Internet Crime Complaint Center (IC3)**. If you’re an organization, follow your incident process and consider contacting law enforcement as appropriate.
 
 ## What can wait
-- You do not need to decide on a new backup strategy or third-party contact manager today.
-- You do not need to manually deduplicate the list until the primary restoration process is complete.
-- You do not need to notify your entire contact list about the technical error unless you suspect your account is sending spam.
+- You do **not** need to identify the attacker or prove the exact method right now.
+- You do **not** need to decide instantly whether to wipe/reinstall—first isolate, document basics, and secure key accounts.
+- You do **not** need to contact every service today; start with email and finance.
 
 ## Important reassurance
-Sudden data changes are often caused by sync conflicts or accidental "batch" edits rather than permanent deletion. Most major service providers maintain internal archives or "soft-delete" bins specifically for these situations, which remain accessible for approximately 30 days.
+This is scary because administrator access is powerful. The protective moves are straightforward: disconnect, preserve basic information, and secure the accounts that matter most.
 
 ## Scope note
-This guide provides first-step stabilization for digital data loss. It does not cover physical device repair or forensic data recovery for items that were never synced to a cloud service.
+This guide covers immediate stabilization and harm reduction. Deeper steps (forensics, legal/regulatory, insurance, workplace response) depend on whether it’s personal, employer-managed, or involves financial or data loss.
 
 ## Important note
-This information is for general guidance and does not guarantee data recovery. Restoration windows and features are subject to provider policy changes. If this involves a corporate or school account, contact your IT department, as they may have different retention policies or administrative recovery tools.
+This is general information, not professional security, legal, or law-enforcement advice. If the device is owned/managed by your employer or school, follow their policies. If you suspect financial fraud, contact your bank promptly.
 
 ## Additional Resources
-- https://support.microsoft.com/en-us/windows/manage-user-accounts-in-windows-104dc19f-6430-4b49-6a2b-e4dbd1dcdf32
-- https://support.microsoft.com/en-us/windows/user-account-access-in-windows-8f1f3c05-e479-4e9a-666b-90091d052aaf
-- https://support.microsoft.com/en-us/windows/troubleshoot-problems-signing-in-to-windows-298cfd5f-df1f-c66b-36ad-f2a61a73baad
-- https://consumer.ftc.gov/articles/malware-how-protect-against-detect-and-remove-it
-- https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams
+- https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-offline
+- https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download
+- https://www.ic3.gov/CSA/2025/251113.pdf
+- https://www.ic3.gov/CSA/2023/230920.pdf
+- https://www.fbi.gov/file-repository/ransomware-prevention-and-response-for-cisos.pdf

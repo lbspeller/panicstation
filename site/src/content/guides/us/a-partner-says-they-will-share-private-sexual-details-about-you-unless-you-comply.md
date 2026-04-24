@@ -1,85 +1,73 @@
----
+﻿---
 title: "What to do if… a partner says they will share private sexual details about you unless you comply"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "partner says they will share private details"
-  - "partner threatening to post sexual info"
-  - "threatened with intimate image leak"
-  - "sexual details blackmail"
-  - "forced to comply with sexual demands"
-  - "partner says they will tell my work"
-  - "my partner is blackmailing me with photos"
-  - "help i am being sextorted by my boyfriend"
-  - "help i am being sextorted by my girlfriend"
-  - "my partner says they will out me"
-  - "what do i do if my partner threatens me"
-  - "what do i do if someone has my nudes"
-  - "what do i do if my sex life is being shared"
-  - "what do i do if i am being coerced"
-  - "threat to share sexual history"
-  - "threat to post private videos"
-  - "messages saying they will leak photos"
-  - "seeing screenshots of private chats"
-  - "threatened with revenge porn"
-  - "coercion in relationship"
-  - "demands for money or more photos"
-  - "digital abuse in marriage"
-  - "sexual details being used as leverage"
-  - "threat to send nudes to parents"
-  - "threat to expose sex life to friends"
-  - "relationship blackmail help"
-  - "private sexual details leak threat"
-last_reviewed: "2026-03-17"
+  - partner threatening to expose you
+  - threatened to share sexual details
+  - threatened to tell others sex life
+  - threatened to spread sexual rumours
+  - threatened to out you sexually
+  - threatened to contact family or work
+  - sexual blackmail by partner
+  - coercion in relationship
+  - partner says comply or else
+  - threatened to post intimate content
+  - threatened to share private photos
+  - threatened to share private videos
+  - threatened to leak nudes
+  - threatened to leak sex info
+  - nonconsensual intimate images threat
+  - revenge porn threat
+  - sextortion by partner
+  - digital abuse in relationship
+  - scared partner will expose me
+last_reviewed: "2026-03-13"
 ---
+
 # What to do if… a partner says they will share private sexual details about you unless you comply (USA)
 
 ## Short answer
-Stop communicating with the person immediately and reach out to a confidential crisis service to create a safety plan before taking any further action.
+Don’t comply. Get to a safer pause, stop negotiating with them in real time, and contact confidential support so you can choose next steps without pressure.
 
 ## Do not do these things
-- Do not provide the person with money, gift cards, additional images, or any other demands.
-- Do not delete the messages or the account in a panic; you may need this evidence later.
-- Do not argue, plead, or engage in a "back and forth" negotiation.
-- Do not meet the person in private to "settle" the matter.
-- Do not share the threat with others on public social media until you have professional support.
-- Do not blame yourself; coercion is a choice made by the person making the threat.
+- Do not give in “to make it stop” (it often increases demands).
+- Do not send more images/videos, money, gift cards, passwords, or account access.
+- Do not argue, plead, or explain intimate details in writing (it creates more material they can use).
+- Do not delete everything in panic; if you need to cut contact on a platform, **deactivate or log out** rather than deleting, so evidence is easier to preserve.
+- Do not meet them in person to “talk it out” if you feel unsafe.
+- Do not use a phone/computer you think they can access or monitor.
 
 ## What to do now
-1. **Get to a safer pause immediately.** Stop responding to the messages and put your device in another room or turn off notifications to stop the real-time pressure.
-2. **Contact a confidential advocate for safety planning.** Use a device you believe is not being monitored to reach out for support.
-   - **National Domestic Violence Hotline:** Call 800-799-SAFE (7233) or text "START" to 88788.
-   - **RAINN (National Sexual Assault Hotline):** Call 800-656-HOPE (4673) or use the online chat at rainn.org.
-3. **Document the threat without further engagement.** Take screenshots of the demands, the specific threats made, the platform used, and the username of the person. 
-   - Ensure the date and time are visible in the screenshots.
-4. **Use hashing tools to prevent the spread of images.** If the threat involves specific photos or videos, use technology designed to block them across platforms.
-   - **StopNCII.org:** For adults (18+) to create "hashes" (digital fingerprints) that help platforms block the images.
-   - **Take It Down (NCMEC):** For those under 18 (or those whose images were taken when they were under 18).
-5. **Report the account on the hosting platform.** Most major apps have specific reporting categories for "non-consensual intimate imagery" or "extortion." 
-   - Under the federal **Take It Down Act (2025)**, platforms are required to provide a removal process for these depictions.
-6. **Report to federal authorities if it involves digital extortion.** You can file a report with the **FBI's Internet Crime Complaint Center (IC3)** at ic3.gov. 
-   - If the person is under 18, report through the **NCMEC CyberTipline** at report.cybertip.org.
-7. **Secure your digital environment.** Change passwords for your primary email and any accounts the partner has access to.
-   - Enable Two-Factor Authentication (2FA) using an app rather than SMS if you suspect they have access to your phone records.
+1. **Get to a safer pause first.** If you’re with them, step away for a normal reason. If you feel in immediate danger, call **911**.
+2. **Stop the live leverage.** If you can, stop responding. If you must reply, keep it short and non-negotiating (for example: “I’m not doing that.”). Don’t bargain.
+3. **Preserve the threat with minimal effort.** Screenshot key messages showing the demand and threat, usernames, and dates/times. Write down where it happened (app/site) and any related accounts.
+4. **Report and block on the platform (after saving evidence).** Use the platform’s reporting tools for harassment/extortion/nonconsensual intimate content and block them. If you think they may retaliate when blocked, do this when you’re in a safer place and have support lined up.
+5. **Get confidential support and a safety plan.** Contact **RAINN** (sexual violence support) and/or the **National Domestic Violence Hotline** (relationship abuse support). If you’re worried your internet use is being monitored, use a safer device or call instead of web chat.
+6. **Consider reporting to law enforcement (you can describe what happened without labels).** Many places treat threats like this as crimes (for example, extortion/harassment; laws vary by state). If the conduct is online or crosses state lines, the **FBI** treats sextortion as serious and you can report to the FBI (including via **IC3**) or submit a tip.
+7. **If anyone involved is under 18, treat it as child sexual exploitation.** Report to **NCMEC CyberTipline** (the centralized U.S. reporting system for online child exploitation). If there’s immediate danger, call **911**.
+8. **Do one quick account-safety step (only if safe to do so).** Change your **email password first**, then passwords for the accounts they’re using to contact you; turn on two-factor authentication; check “logged-in devices” and sign out of unknown sessions.
 
 ## What can wait
-- You do not need to decide whether to press criminal charges today.
-- You do not need to explain the situation to your employer, family, or friends right now.
-- You do not need to "prove" your side of the story to the person making the threat.
-- You do not need to research the specific state laws or "naming the crime" immediately; advocates can help with this.
+- You do not need to decide right now whether to file a police report, seek a protection order, or tell family/work.
+- You do not need to “name the crime.” You can report the threat and the demand in plain language.
+- You do not need to gather every screenshot or detail before reaching out for support.
+- You do not need to post publicly to defend yourself today.
 
 ## Important reassurance
-Threatening to share private information to force compliance is a form of abuse called sextortion or coercion. It is designed to make you feel isolated and powerless. You are not alone, and there are established legal and technological systems specifically built to stop this behavior and protect your privacy.
+Threatening to expose private sexual details to control you is coercion and abuse. Feeling frozen, ashamed, or unsure what to do is a common reaction — and it’s not your fault.
 
 ## Scope note
-This guide provides first-step stabilization and harm-reduction actions. Long-term safety, legal options (such as civil lawsuits under the 2022 VAWA updates), and emotional recovery should be managed with a professional advocate or legal counsel.
+These are first steps to reduce harm and stabilise. Next actions depend on your safety, whether anything was shared, and what help you want from support services or law enforcement.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. If you feel you are in immediate physical danger, call 911 or your local emergency services. Be aware that computer and phone use can be monitored; if you live with the person making the threats, use a safer device at a library or a trusted friend's home.
+This is general information, not legal advice. If you are in immediate danger call 911. If taking any step above could put you at risk (for example, they monitor your phone or you live together), prioritise getting to safety and contacting confidential support first.
 
 ## Additional Resources
-- https://www.thehotline.org/resources/technology-facilitated-abuse/
-- https://www.thehotline.org/resources/revenge-porn/
-- https://rainn.org/what-counts-as-sexual-violence/get-the-facts-about-tech-enabled-sexual-abuse/
-- https://cybercivilrights.org/ccri-safety-center/
-- https://www.womenslaw.org/about-abuse/abuse-using-technology/technology-tool-abuse/abuse-involving-texts-photos-and-videos/abuse-involving-0
+- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/sextortion
+- https://www.ic3.gov/
+- https://www.ic3.gov/Home/FAQ
+- https://rainn.org/help-and-healing/hotline/
+- https://www.thehotline.org/get-help/
+- https://www.missingkids.org/gethelpnow/cybertipline
+- https://report.cybertip.org/

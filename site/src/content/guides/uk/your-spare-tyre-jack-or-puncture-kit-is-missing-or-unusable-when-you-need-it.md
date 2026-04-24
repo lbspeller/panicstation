@@ -1,83 +1,81 @@
----
+﻿---
 title: "What to do if… your spare tyre, jack, or puncture kit is missing or unusable when you need it"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "spare tyre missing"
-  - "no jack in car"
-  - "puncture kit missing"
-  - "puncture kit failed"
-  - "flat tyre no tools"
-  - "can’t change a wheel"
-  - "stranded with puncture"
-  - "tyre blowout no spare"
-  - "no wheel nut key"
-  - "locking wheel nut missing"
-  - "tyre sealant not working"
-  - "compressor missing"
-  - "missing spare tyre"
-  - "missing car jack"
-  - "unusable puncture kit"
-  - "damaged spare tyre"
-  - "what do i do if my spare tyre is missing"
-  - "what do i do if i have no jack"
-  - "help i have a flat tyre and no spare"
-  - "help i have a puncture but no kit"
-  - "my puncture kit is empty"
-  - "my jack is broken"
-  - "wheel nuts stuck no tools"
-  - "visible tyre shredding"
-  - "smell of burning rubber"
-  - "vibration through steering wheel"
-  - "car pulling to one side"
-  - "loud flapping noise from wheel"
-  - "hissing sound from tyre"
-  - "rim touching the ground"
-last_reviewed: "2026-03-17"
+  - spare tyre missing
+  - no jack in car
+  - puncture kit missing
+  - puncture kit failed
+  - flat tyre no tools
+  - can’t change a wheel
+  - stranded with puncture
+  - tyre blowout no spare
+  - no wheel nut key
+  - locking wheel nut missing
+  - tyre sealant not working
+  - compressor missing
+  - breakdown on motorway
+  - breakdown on a road
+  - emergency area motorway
+  - hard shoulder stop
+  - roadside assistance needed
+  - recovery truck help
+  - mobile tyre fitter
+  - tyre damaged can’t drive
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your spare tyre, jack, or puncture kit is missing or unusable when you need it (UK)
 
 ## Short answer
-Stop in the first available place of relative safety, evacuate passengers to a secure area away from the carriageway, and call for professional recovery or mobile tyre assistance.
+Get yourself and the car to the safest possible stopping place, then arrange recovery or roadside tyre help—don’t attempt a risky “make-do” repair at the roadside.
 
 ## Do not do these things
-- Don’t continue driving once the tyre is fully deflated or shredding (this causes immediate loss of control and rim damage).
-- Don’t attempt a "temporary" fix with unauthorized tools or household items.
-- Don’t put a warning triangle on any motorway or high-speed dual carriageway.
-- Don’t stand between your vehicle and oncoming traffic or behind the vehicle.
-- Don’t enter a lane marked with a Red X on overhead gantries, even if you think it is clear.
-- Don’t attempt to use a jack on soft, uneven, or sloping ground.
+- Don’t keep driving on a flat or badly damaged tyre “just to get there” (it can destroy the tyre/wheel and make the car unstable).
+- Don’t try to jack the car in an unsafe spot (narrow verge, soft ground, bend, near fast traffic, poor visibility).
+- Don’t go back and forth across live lanes to reach a verge or hard shoulder.
+- Don’t put a warning triangle on a motorway.
+- Don’t accept pressure from strangers to do a quick roadside fix if you don’t feel safe.
 
 ## What to do now
-1. **Find a place of relative safety immediately.** Switch on your hazard warning lights and move the vehicle to the nearest **emergency area, motorway service station, or lay-by.** 
-   - If these are not reachable, stop on the **hard shoulder** as far to the left as possible with your wheels turned toward the verge.
-2. **Handle a live-lane stoppage with extreme urgency.** If you are forced to stop in a running lane and cannot reach the nearside: **stay in the vehicle with seatbelts fastened, keep hazard lights on, and call 999 or press your vehicle's SOS button immediately.**
-3. **Evacuate the vehicle safely if you have reached a verge or hard shoulder.** Exit via the **left-hand doors (passenger side)** and move all occupants behind a safety barrier or well up the embankment.
-   - If it is not safe to exit (e.g., no verge, steep drop, or heavy traffic), stay inside the car with seatbelts on and call for emergency help.
-4. **Call for professional assistance and report the lack of equipment.** Contact your **breakdown provider** or a mobile tyre service. 
-   - State clearly: **"I have a puncture and I do not have a working spare, jack, or repair kit."**
-   - Confirm if you have the **locking wheel nut key**; if it is missing, the recovery operator must be told so they can bring specialist extraction tools.
-5. **Contact National Highways if you are on the Strategic Road Network in England.** Call **0300 123 5000** if you are stranded on a motorway or a major National Highways A-road and cannot reach your provider or feel at risk.
-6. **Maintain visibility while waiting for the recovery vehicle.** Keep your **hazard lights on** and, if it is dark or visibility is poor, turn on your **sidelights.**
-   - Do not return to the vehicle for any reason once you have evacuated to a safe position.
+1. **Make a safety-first stop.** Put hazard lights on and slow down smoothly. If you can, **exit the road at the next junction** or pull into a **lay-by / car park / petrol station** rather than stopping on a fast road.
+2. **If you’re on a motorway (including a smart motorway):**
+   - Aim for an **emergency area** or **motorway services**, or leave at the **next exit**.
+   - If you have to stop and a **hard shoulder is clearly present and open**, use it, stopping as far left as you can and turning your wheels left.
+   - If you’re stopped in a **live lane** and can’t get to a safer place: **stay in the car with your seatbelt on and hazards on and call 999.**
+3. **Get everyone into the safest waiting position.**
+   - If you can safely get out on the left, move behind a barrier if there is one and keep well away from traffic.
+   - If it’s not safe to exit (for example, you’re in a live lane, there’s no safe space beyond the verge, or traffic is very close), **stay belted in the car** and call for help.
+4. **Call the right help, and tell them the key fact: you can’t fit a spare.**
+   - Contact your **breakdown provider**, insurer’s roadside assistance, or a **mobile tyre fitter**.
+   - Say clearly: **“I have a puncture/tyre damage and the spare/jack/kit is missing or unusable—please send recovery or tyre assistance.”**
+5. **If you’re on a motorway or major A road in England and feel unsafe or can’t reach your breakdown provider, contact National Highways.**
+   - Call **National Highways on 0300 123 5000** (24/7) for help on their network.
+   - If you’re elsewhere in the UK, the road operator differs—**your breakdown provider** is usually the fastest route. If you’re in immediate danger, call **999**.
+6. **If you suspect the wheel can’t be removed (e.g., locking wheel nut/key missing), say so now.**
+   - Tell the provider: **“Locking wheel nut key missing / wheel nuts won’t budge / no jack.”** This helps them send the right equipment and avoid delays.
+7. **While you wait, make the situation more visible without putting yourself at risk.**
+   - Keep hazards on. If it’s dark or visibility is poor and it’s safe to do so, turn on sidelights.
+   - Stay focused on safety rather than “diagnosing” the problem by the roadside.
 
 ## What can wait
-- You do **not** need to investigate why the equipment is missing or who was responsible for its removal right now.
-- You do **not** need to decide which brand of replacement tyre to buy while still at the roadside.
-- You do **not** need to worry about the cost of the call-out or recovery until you are in a safe, off-road location.
+- You do **not** need to decide right now whether to replace the spare, buy a new puncture kit, or change your insurance/breakdown cover.
+- You do **not** need to argue with a recovery provider about fault or cost while you’re in a risky location—get to safety first.
+- You do **not** need to work out whether the kit was missing before the journey or taken—leave that for later.
 
 ## Important reassurance
-Many modern vehicles are sold without spare tyres, and it is very common for repair kits to be missing, expired, or insufficient for sidewall damage. Professional recovery services deal with this specific scenario every day; you are not "wasting their time" by calling for help when you lack the necessary tools.
+This is a common situation (many cars don’t carry full spares anymore, and kits/jacks go missing). Calling for recovery or a mobile tyre service is a normal, expected solution—not a failure.
 
 ## Scope note
-This guide provides first-step stabilization for a vehicle stranded without tyre-change equipment. It does not cover the technical process of tyre repair or the legalities of vehicle maintenance standards.
+These are first steps to keep you safe and get help moving. Once you’re off the roadside, you can deal with replacing missing equipment, receipts, and any follow-up.
 
 ## Important note
-Roadside recovery involves inherent risks from moving traffic. Always prioritize the instructions of National Highways officers or the Police over this guide if they are present on the scene. Driving on a flat tyre is a safety hazard and may invalidate your insurance or lead to prosecution if it results in an accident or vehicle instability.
+This is general safety information, not legal or mechanical advice. Road and traffic conditions vary—prioritise personal safety and follow instructions from emergency services, road operators, or your breakdown provider on the scene.
 
 ## Additional Resources
-- https://www.theaa.com/breakdown-cover/advice/change-a-flat-tyre
-- https://www.theaa.com/driving-advice/safety/how-to-repair-a-car-tyre
-- https://www.rac.co.uk/drive/advice/tyres/space-saver-tyre-guide-know-before-you-buy/
-- https://www.gov.uk/guidance/the-highway-code/annex-6-vehicle-maintenance-safety-and-security
-- https://www.theaa.com/breakdown-cover/advice/car-essentials-kit
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
+- https://nationalhighways.co.uk/road-safety/driving-on-motorways/
+- https://nationalhighways.co.uk/about-us/office-access-and-opening-times/
+- https://www.rac.co.uk/drive/advice/driving-advice/what-to-do-if-you-breakdown-on-the-motorway/
+- https://www.theaa.com/breakdown-cover/advice/what-to-do-motorway-breakdown

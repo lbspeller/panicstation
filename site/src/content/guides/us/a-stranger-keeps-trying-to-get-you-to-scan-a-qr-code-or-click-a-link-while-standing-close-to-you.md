@@ -1,90 +1,75 @@
----
+﻿---
 title: "What to do if… a stranger keeps trying to get you to scan a QR code or click a link while standing close to you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - "stranger pushing qr code"
-  - "pushed to scan qr"
-  - "pressured to click link"
-  - "qr code scam in public"
-  - "quishing in public"
-  - "unsolicited link in person"
-  - "stranger stands too close"
-  - "phone scam approach"
-  - "social engineering in public"
-  - "pressured phone payment"
-  - "donation qr pressure"
-  - "scan this code stranger"
-  - "suspicious qr request"
-  - "public place harassment"
-  - "possible distraction theft"
-  - "phone safety in crowds"
-  - "avoid qr code phishing"
-  - "pressured to unlock phone"
-  - "help i am being pressured to scan something"
-  - "help i scanned a random qr code"
-  - "what do i do if a stranger wants me to scan their phone"
-  - "what do i do if someone is standing too close with a qr code"
-  - "what do i do if i clicked a suspicious link in public"
-  - "what do i do if a stranger won't stop following me with a link"
-  - "unauthorized qr scan help"
-  - "person hovering over phone"
-  - "suspicious qr sticker"
-  - "fake payment qr code"
-  - "stranger asking for phone scan"
-  - "malicious link physical approach"
-  - "qr code hovering"
-  - "scan request panic"
-  - "unsolicited digital request"
-  - "stranger proximity scam"
-  - "phishing in person"
-  - "avoiding quishing attacks"
-last_reviewed: "2026-03-17"
+  - stranger pushing qr code
+  - pushed to scan qr
+  - pressured to click link
+  - qr code scam in public
+  - quishing in public
+  - unsolicited link in person
+  - stranger stands too close
+  - phone scam approach
+  - social engineering in public
+  - pressured phone payment
+  - donation qr pressure
+  - “scan this code” stranger
+  - suspicious qr request
+  - public place harassment
+  - possible distraction theft
+  - phone safety in crowds
+  - avoid qr code phishing
+  - pressured to unlock phone
+last_reviewed: "2026-01-11"
 ---
+
 # What to do if… a stranger keeps trying to get you to scan a QR code or click a link while standing close to you (USA)
 
 ## Short answer
-Create immediate physical distance by walking toward a busy or staffed area and do not interact with your phone until you are alone or with security.
+Create distance first: move to a safer, more public spot and **do not** scan or click anything while they’re close to you. If they won’t let you disengage or you feel threatened, call for help.
 
 ## Do not do these things
-- Don't scan the QR code or click the link just to end the interaction.
-- Don't enter any passwords, PINs, or financial details while the person is within sight of your screen.
-- Don't hand your phone to the stranger for any reason.
-- Don't follow the person to a "better spot" or a quieter area to complete the scan.
-- Don't stay to argue or explain your refusal; prioritize leaving the immediate vicinity.
-- Don't assume the request is legitimate because the person is wearing a vest or holding an "official" clipboard.
+- Don’t scan the QR code or click the link to “make them go away.”
+- Don’t log in, enter passwords, or type card details with them hovering.
+- Don’t hand them your phone or let them “walk you through it.”
+- Don’t follow them somewhere quieter.
+- Don’t keep arguing at close range—leave and get help instead.
+- Don’t assume it’s harmless because it looks “official.”
 
 ## What to do now
-1. **Move toward a high-traffic or staffed location immediately.** **Walk toward a security desk, a store counter, or a group of people to break the one-on-one pressure.**
-2. **State a firm refusal without providing any personal excuses.** **Say "No" or "I am not interested" clearly and keep moving away from the individual.**
-3. **Secure your device and personal belongings in a pocket or bag.** **Lock your screen and ensure your wallet or purse is closed to prevent distraction-based theft during the encounter.**
-4. **Alert nearby staff or security if the person follows you.** **Inform an employee that you are being harassed or pressured by someone attempting to force a digital interaction.**
-5. **Call 911 if you are blocked from leaving or feel physically threatened.** **Request emergency assistance if the stranger uses physical intimidation or refuses to let you move to safety.**
-6. **Check your digital accounts only once you are in a secure, private location.** **If you accidentally scanned or clicked a link, close all browser tabs immediately without entering data.**
-   - Change your primary email and banking passwords if you believe your screen was visible.
-   - Enable or reset multi-factor authentication (MFA) for sensitive accounts.
-7. **Report the incident to the appropriate federal authorities.** **Use official portals to log the attempted scam or harassment.**
-   - Report the quishing attempt to the FBI’s Internet Crime Complaint Center at ic3.gov.
-   - Report fraud or social engineering tactics to the FTC at ReportFraud.ftc.gov.
-   - If personal data was compromised, visit IdentityTheft.gov for a recovery plan.
+1. **Move to safety and create space.** Step back and walk toward staffed/busy areas (store counter, hotel lobby, station desk, security booth). If you’re outside, head toward people and lights.
+2. **Use a short refusal and keep moving.**  
+   Say: “No.” / “I can’t.” / “Please step back.” Then leave. No explanation.
+3. **Secure your phone and valuables.** Lock the screen, put the phone away, and quickly check pockets/bag zippers once you’re a few steps away.
+4. **Bring in staff/security if they continue.** Tell an employee: “This person is pressuring me to scan a QR code and won’t leave me alone.” Ask them to stay with you while you move away or wait for a ride.
+5. **Call for emergency help if needed.** If you feel threatened, followed, or blocked from leaving, call **911**.
+6. **If you already scanned/clicked (quick damage-control):**
+   - Close the webpage/app right away. **Do not** enter login details, passwords, one-time codes, or payment info.
+   - If you entered financial details or approved anything, **contact your bank/card issuer immediately** using the number on your card or the official banking app/website (not the link you were shown).
+   - If you gave sensitive personal info (like your Social Security number), use **IdentityTheft.gov** to get an official recovery plan.
+   - Write down where/when it happened and what the person said, once you’re safe.
+7. **Report it (especially if money, credentials, or personal info were involved):**
+   - Report scams and fraud to the **FTC** at **ReportFraud.ftc.gov**.
+   - If it involved a malicious link/QR code, stolen credentials, or financial loss, file a report with the **FBI’s IC3** (the official internet crime complaint portal).
 
 ## What can wait
-- You do not need to determine the specific nature of the link or code right now.
-- You do not need to capture a photo or video of the individual if it compromises your safety.
-- You do not need to check your bank balance while still in the public area where the encounter occurred.
+- You do **not** need to figure out what the QR code “really was” right now.
+- You do **not** need to confront them, record them, or prove anything in the moment.
+- You do **not** need to decide right now whether to make a formal report—get safe first, then choose.
 
 ## Important reassurance
-Social engineering relies on creating a sense of urgency and awkwardness to override your caution. It is normal to feel startled or pressured, but you are not being rude by prioritizing your physical and digital safety. Choosing to disengage is the most effective way to stop the interaction.
+This tactic relies on pressure and proximity. Walking away without engaging is a normal, appropriate response. You’re not being rude—you’re protecting yourself.
 
 ## Scope note
-This guide provides first-step stabilization for personal safety and immediate digital risk. It does not cover long-term identity restoration or legal actions against specific individuals.
+This guide covers first steps to disengage safely and reduce immediate digital/financial risk. If you scanned/clicked and shared information, follow-up steps may involve your bank and official reporting channels.
 
 ## Important note
-This information is for safety stabilization and does not constitute legal or professional security advice. If you believe your device has been compromised by malware, consult a certified technical professional.
+This is general safety information, not legal advice. If you feel in immediate danger, prioritize getting to a safer place and calling 911.
 
 ## Additional Resources
 - https://consumer.ftc.gov/consumer-alerts/2023/12/scammers-hide-harmful-links-qr-codes-steal-your-information
-- https://consumer.ftc.gov/consumer-alerts/2025/01/scam-alert-qr-code-unexpected-package
-- https://www.fbi.gov/investigate/cyber/alerts/2025/unsolicited-packages-containing-qr-codes-used-to-initiate-fraud-schemes
-- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
-- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/spoofing-and-phishing
+- https://reportfraud.ftc.gov/
+- https://www.ic3.gov/PSA/2022/PSA220118
+- https://complaint.ic3.gov/
+- https://www.identitytheft.gov/

@@ -1,101 +1,95 @@
----
+﻿---
 title: "What to do if… someone you blocked creates new accounts to keep contacting you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - "someone you blocked creates new accounts"
-  - "new accounts after blocking"
-  - "blocked person keeps contacting"
-  - "blocked person creates new accounts"
-  - "someone you blocked keeps messaging"
-  - "keep contacting after blocking"
-  - "what do i do if someone creates new accounts"
-  - "what do i do if someone i blocked keeps messaging"
-  - "help i blocked them but they made a new account"
-  - "help i am being contacted by new profiles"
-  - "my stalker keeps making new accounts"
-  - "my ex is evading blocks online"
-  - "persistent unwanted digital contact"
-  - "repeated message requests from strangers"
-  - "multiple burner accounts harassing me"
-  - "online stalking pattern 2026"
-  - "cyberstalking via multiple profiles"
-  - "block evasion on social media"
-  - "harassment from anonymous accounts"
-  - "unwanted dms from unknown people"
-  - "seeing new profiles from same person"
-  - "notifications from blocked user"
-  - "feeling followed across platforms"
-  - "repeated fake account messages"
-  - "escalating online harassment"
-  - "digital boundary violation"
-  - "safety after online blocking"
-  - "harassment from fake profiles"
-  - "persistent digital stalking"
-  - "repeated unwanted messages uk"
-last_reviewed: "2026-03-17"
+  - blocked person keeps contacting
+  - new accounts after blocking
+  - evading a block online
+  - repeat unwanted messages
+  - harassment through social media
+  - cyberstalking concerns
+  - online stalking pattern
+  - someone wont stop messaging
+  - multiple profiles same person
+  - burner accounts contacting me
+  - unwanted contact after breakup
+  - persistent dm requests
+  - being followed across platforms
+  - intimidation via new accounts
+  - safety after blocking someone
+  - contact boundary being ignored
+  - threats from online accounts
+  - doxxing worry from messages
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… someone you blocked creates new accounts to keep contacting you (UK)
 
 ## Short answer
-Stop all engagement, preserve evidence using a secondary device if necessary, and use restrictive privacy settings rather than direct blocking if you fear physical escalation. Report the pattern to the police via 101 or online to access "Right to Know" identity disclosures.
+Stop engaging, save what’s happening, and tighten your privacy so they can’t reach you as easily. If you feel unsafe or they’re making threats, contact the police (999 in an emergency, otherwise 101 or online reporting).
 
 ## Do not do these things
-- Do not reply to any new account, even to say "leave me alone," as engagement often reinforces the behavior.
-- Do not delete the messages, the new profiles, or your own account before you have safely backed up the evidence.
-- Do not use the "screenshot" function on apps that notify the sender (like Snapchat) if you want to avoid alerting them.
-- Do not confront the person publicly or "call them out" on your story or feed.
-- Do not assume that "blocking" is the only solution; it may lead a fixated person to seek physical contact instead.
-- Do not ignore the behavior if it makes you feel "serious alarm or distress," as this meets the legal threshold for stalking.
+- Do not reply “just to make them stop” or to explain yourself — it often rewards the behaviour and escalates it.
+- Do not agree to meet, “talk it out”, or move the conversation to a private channel.
+- Do not publicly post about them or “call them out” (it can inflame things and create new risks).
+- Do not delete messages/profiles before saving evidence (even if it’s upsetting).
+- Do not assume blocking alone will end it — treat repeated new accounts as a pattern to document and report.
+- Do not share new contact details (new number, new handle, new email) with anyone who might pass it on.
 
 ## What to do now
-1. **Prioritize immediate physical safety before handling digital issues.**
-   - If you believe the person is nearby, knows your current location, or is making direct threats to your life, call **999** immediately.
-   - If you are not in immediate danger but feel unsafe, move to a location where you are not alone.
-2. **Preserve evidence using a "low-trace" method.**
-   - **Take photos of the screen using a different device** (camera or another phone) to avoid app-based "screenshot notifications."
-   - Capture the full username / handle, the date and time of the messages, the content of the messages, and the profile URL.
-   - Save copies of any "block-evasion" evidence (e.g., messages saying "I know you blocked my other account").
-   - Maintain a simple log of every incident, including the platform used and how it made you feel (scared, anxious, or distressed).
-3. **Transition from "blocking" to "restricting" to manage risk.**
-   - Use "Restrict" or "Mute" settings rather than "Block" if you are concerned that blocking will cause the person to escalate to physical stalking.
-   - Set all social media profiles to "Private" and "Friends Only."
-   - Disable "Message Requests" from people you do not follow.
-   - Turn off "Find me by email" and "Find me by phone number" in your privacy settings.
-   - Check and disable location sharing on all apps, including "Snap Maps" or "Find My."
-4. **Use the "Right to Know" statutory disclosure request.**
-   - When reporting to the police, explicitly ask about **"Right to Know"** guidance (updated 2026).
-   - This allows police to disclose the identity of an anonymous or "alias" account holder to you for safeguarding purposes if they have identified the perpetrator.
-5. **Report the pattern of "Block Evasion" to the platforms and police.**
-   - Report each new account to the social media platform specifically for "Harassment" and "Circumventing a Block."
-   - Report the pattern to the police via **101** or your local force's website.
-   - Mention that the contact is "fixated, obsessive, unwanted, and repeated," which are the four key signs of stalking.
-6. **Request a Stalking Protection Order (SPO) if the behavior persists.**
-   - Ask the police to apply for an **SPO** to prohibit the person from creating new accounts or contacting you.
-   - Note that under 2026 rules, courts can now also issue these orders upon conviction or acquittal without a separate police application.
-7. **Contact specialist stalking support for a safety plan.**
-   - Call the **National Stalking Helpline** (run by the Suzy Lamplugh Trust) on **0808 802 0300**.
-   - Use the **Victim Support 24/7 Supportline** on **08 08 16 89 111** for confidential advice regardless of whether you report to the police.
-   - If the contact is coming from someone in prison, call the **Unwanted Prisoner Contact Service** on **0300 060 6699**.
+1. **Get to a safer pause first.** If you think they know where you are, are nearby, or you’re in immediate danger, call **999**. If it’s not immediate danger but you feel at risk, call **101**.
+2. **Preserve evidence (quickly, then stop looking at it).**
+   - Save the messages *and* the account profile (showing username/handle, date/time, and any threats).
+   - **Caution:** some apps notify the other person if you screenshot certain content. If you’re not sure, consider taking a photo of the screen with another device, or using the platform’s export/download tools.
+   - Copy/save profile links and message links where possible, plus call/text logs if relevant.
+   - Keep a simple running note: *date/time, platform, account name, what happened, any fear/impact*.
+   - Back it up somewhere they can’t access (a separate cloud folder/account, or share with a trusted person).
+3. **Lock down your accounts so “new accounts” can’t reach you easily.**
+   - Set profiles to **private**, and remove unknown followers/friends.
+   - Restrict who can message you (for example, “friends only”) and turn off message requests from strangers if possible.
+   - Turn off “find me by phone number/email”, contact syncing, and public follower lists where you can.
+   - Disable location sharing and remove location tags from recent posts.
+   - Turn on **two-factor authentication** and change passwords if there’s any chance they know them.
+   - If you’re worried they may have accessed your device/account, do password changes from a safer device and consider device protection steps (updates, antivirus/firewall) before you change lots of settings.
+4. **Report each new account for harassment/stalking and block-evasion.**
+   - Use the in-app reporting tools and state that you blocked them and they returned via new accounts.
+   - If they’re impersonating you or someone you know, report as **impersonation** as well.
+   - Keep screenshots/photos of your reports/confirmation emails so you can show a pattern.
+5. **Reduce the channels they can use (without “disappearing” from your life).**
+   - Silence notifications for unknown senders and route DMs from non-contacts into a “requests” folder if available.
+   - Consider a separate email address for sign-ups so your main address is harder to target.
+6. **Tell one trusted person what’s happening (today).**
+   - Share a short summary and ask them to keep it confidential.
+   - If you’re worried about escalation, agree a simple check-in plan (for example: “If I text ‘call me’ please phone immediately”).
+7. **If it’s ongoing, escalating, or causing fear: report it to police as stalking/harassment.**
+   - Use **101** (or your local force’s online reporting) and describe the repeated contact after blocking, creation of new accounts, and any threats.
+   - Ask for an **incident/crime reference number** and ask how you can add further evidence later.
+   - You do not need everything “perfect” before reporting — you can report first and keep adding incidents to your log.
+   - If relevant, ask whether this could be treated as **stalking** and what protective options exist (police can apply for **Stalking Protection Orders** in some situations).
+8. **Get specialist support without committing to any big decisions.**
+   - Consider contacting the **National Stalking Helpline** for practical support and navigating reporting options.
+   - If you’re in England/Wales, **Victim Support** can also provide confidential support (you don’t need to have reported to the police).
 
 ## What can wait
-- You do not need to decide right now whether to change your legal name or move house.
-- You do not need to have a "perfect" file of evidence before speaking to the police; a basic list of dates is enough to start.
-- You do not need to tell your entire social circle; choosing one or two trusted people is sufficient for now.
-- You do not need to delete your social media presence entirely unless it is the only way you feel safe.
+- Deciding whether to delete accounts, change your phone number, or change your username everywhere.
+- Writing a long statement or organising everything perfectly — a basic log + saved messages is enough for now.
+- Deciding whether to pursue a formal order/court process (you can gather information first).
+- Telling lots of people or making public posts — keep it small and controlled until you feel steadier.
 
 ## Important reassurance
-It is a common tactic for stalkers to use "burner" accounts to bypass blocks; this is a failure of the perpetrator's behavior, not your privacy settings. You are not "overreacting" by feeling stressed by this. UK law (Protection from Harassment Act 1997) specifically recognizes that repeated unwanted contact is a crime, even if the individual messages seem minor in isolation.
+This behaviour is unfortunately common, and it’s not your fault that blocking didn’t “work”. You’re not overreacting for taking it seriously — repeated unwanted contact can be frightening, and you’re allowed to prioritise safety over being “polite” or “reasonable”.
 
 ## Scope note
-This guide provides first-step stabilization for digital block-evasion. It does not cover long-term legal injunctions or forensic device analysis, which may require specialist professional input.
+These are first steps to stabilise, limit contact routes, and start a clean record. If it continues, you may want specialist stalking support and/or police guidance tailored to your situation.
 
 ## Important note
-This information is for guidance only and does not constitute legal advice. If you are in immediate danger, call **999**. For non-emergencies, use **101**. Legislation regarding stalking and digital harassment is subject to change; always verify current procedures with a qualified legal professional or police officer.
+This is general information, not legal advice. If you feel in immediate danger, call **999**. If you’re not in immediate danger but you feel unsafe or threatened, contact police via **101** (or online reporting). If you think your accounts/devices may be accessed by the person, focus on changing passwords and enabling two-factor authentication from a safer device, and consider getting support from a specialist service.
 
 ## Additional Resources
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
+- https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/protection-from-online-stalking-and-harassment/
 - https://www.gov.uk/report-stalker
-- https://www.met.police.uk/advice/advice-and-information/har/harassment-on-social-media/
-- https://www.met.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
-- https://www.suzylamplugh.org/pages/category/about-stalking
+- https://www.gov.uk/government/publications/stalking-protection-act-statutory-guidance-for-the-police/stalking-protection-orders-statutory-guidance-for-the-police-accessible-version
 - https://www.suzylamplugh.org/pages/category/national-stalking-helpline
+- https://www.victimsupport.org.uk/crime-info/types-crime/stalking-and-harassment/

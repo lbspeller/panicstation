@@ -1,86 +1,74 @@
----
+﻿---
 title: "What to do if… you hear a loud popping sound from an appliance and a burning smell starts but you can’t see flames"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "appliance popping sound"
-  - "burning smell no fire"
-  - "electrical pop and smell"
-  - "appliance smells like burning plastic"
-  - "fishy smell from socket"
-  - "loud bang from washing machine"
-  - "toaster popped and smells"
-  - "smell of fish from electrics"
-  - "what do i do if my appliance popped"
-  - "what do i do if i smell burning plastic"
-  - "what do i do if my plug is hot"
-  - "what do i do if an appliance shorts out"
-  - "help i heard a loud pop from my fridge"
-  - "help i smell burning but no smoke"
-  - "help my microwave made a bang"
-  - "help my dishwasher smells like fish"
-  - "acrid smell from kitchen appliance"
-  - "scorched plug socket"
-  - "brown marks on plug"
-  - "buzzing sound and burning smell"
-  - "tripped fuse after loud pop"
-  - "burning smell near dishwasher"
-  - "burning smell near tumble dryer"
-  - "kettle popped and stopped working"
-  - "appliance short circuit signs"
-  - "hot plug pins"
-  - "smoke from appliance no fire"
-  - "melting plastic smell in house"
-  - "smell of ozone or sparks"
-  - "electrical arcing noise"
-last_reviewed: "2026-03-17"
+  - appliance popped and smells burning
+  - loud pop from appliance
+  - burning smell no flames
+  - electrical burning smell in kitchen
+  - burning plastic smell from plug
+  - sparking noise from appliance
+  - appliance short circuit smell
+  - fuse tripped after popping sound
+  - burning smell from socket
+  - white goods burning smell
+  - washing machine popped and smells
+  - tumble dryer burning smell
+  - toaster popped burning smell
+  - something electrical smells hot
+  - burning smell after switching on
+  - electrical smell but no smoke
+  - plug looks scorched
+  - buzzing and burning smell appliance
+last_reviewed: "2026-03-05"
 ---
-# What to do if… you hear a loud popping sound from an appliance and a burning smell starts but you can’t see flames (UK)
 
+# What to do if… you hear a loud popping sound from an appliance and a burning smell starts but you can’t see flames (UK)
 ## Short answer
-Isolate the power immediately by switching off the wall socket and unplugging the device, or by turning off the main switch at the consumer unit (fuse box). Do not attempt to use the appliance or reset any tripped switches until a professional has inspected the equipment.
+Stop using it immediately and **cut power**: switch off at the socket and unplug **only if it’s safe to touch** (unplug by gripping the plug, not the cord). If anything looks/feels hot or damaged, **turn the circuit off at the consumer unit** instead, and be ready to leave and call **999** if you can’t make it safe or conditions worsen.
 
 ## Do not do these things
-- Do not touch the appliance, cable, or plug if you see sparks, melting, or discolouration.
-- Do not use water or a wet cloth to attempt to cool the device.
-- Do not use a fire extinguisher unless you are certain it is rated for electrical fires (CO2 or dry powder).
-- Do not "test" the appliance by switching it back on to see if it still works.
-- Do not keep resetting a circuit breaker or RCD that has tripped.
-- Do not ignore "fishy," "acrid," or "metallic" smells, as these indicate active overheating of plastic or insulation.
-- Do not pull the plug out by the cord; only grip the plastic plug housing if it is cool to the touch.
+- Do not “test it again” to see if it still works.
+- Do not touch the plug, cable, or casing if it’s hot, sticky, melted, or visibly damaged.
+- Do not pull a plug out by yanking the cord.
+- Do not use water (or a wet cloth) on the appliance, socket, or anything electrical.
+- Do not open the appliance to investigate while it’s connected to power.
+- Do not keep resetting a tripped breaker/RCD or replacing a fuse and retrying—**repeated tripping or any scorching/warmth at a socket needs checking**.
+- Do not ignore a burning smell just because you can’t see flames.
 
 ## What to do now
-1. **Isolate the power source immediately.** 
-   - If the plug and socket appear undamaged and are cool to the touch: **switch off the socket and remove the plug**. 
-   - If you see scorching, melting, or if the area is hot: **go to your consumer unit (fuse box) and turn off the main switch or the specific circuit breaker**.
-2. **Evacuate the immediate area.** Move people and pets out of the room where the smell is strongest. Close the door to that room as you leave to contain any potential fumes.
-3. **Check for escalation from a safe distance.** Watch for **visible smoke, glowing light behind vents, persistent crackling, or an intensifying smell**.
-   - If any of these occur: **leave the building immediately and call 999**.
-4. **Identify physical symptoms.** Note if anyone in the household is experiencing a **persistent cough, headache, dizziness, or shortness of breath**.
-   - If symptoms are present: **move to fresh air and call NHS 111 (or 999 for severe breathing difficulty)**.
-5. **Ventilate the room if safe.** Only once the power is confirmed off and there is no visible fire, open windows to clear the acrid or fishy smell. Do not stay in the room if the air causes throat or eye irritation.
-6. **Prevent accidental reconnection.** Place a clear note on the appliance and the consumer unit stating **"DANGER: DO NOT SWITCH ON"** to ensure no one else tries to use the circuit or device.
-7. **Contact a professional for assessment.** 
-   - For hardwired appliances or damaged sockets: **call a registered electrician**. 
-   - For portable appliances: **contact the manufacturer or a qualified repair technician**.
+1. **Create a safer pause.** Move people and pets out of the room. Keep the area clear.
+2. **Cut the power to the appliance.**
+   - If it’s plugged in and safe to reach: **switch off at the socket, then unplug by holding the plug**.
+   - If it’s hardwired, the plug/socket looks damaged, or anything is hot: **turn off the relevant circuit at the consumer unit** (if unsure, use the main switch).
+3. **Check for escalation signs from a safe distance.** Look for **smoke, glowing, crackling, heat, or a strong smell that continues/intensifies after power is off**.
+   - If any of these are present, or you cannot safely isolate power: **leave the home, close doors behind you, and call 999**.
+4. **Ventilate if it’s safe.** Once power is off, open a window/door to clear the smell. If the air is irritating to breathe, leave the room.
+5. **Make it “can’t restart.”** Keep it unplugged / circuit off. Put a note on the plug or consumer unit so nobody reconnects it by mistake.
+6. **Get the right help and give them the right facts.**
+   - **If you rent:** tell your landlord/agent/building manager you isolated power due to a suspected electrical fault.
+   - **If you own:** contact a **qualified electrician** if the socket/circuit could be involved; contact the **manufacturer/appliance repairer** if it seems confined to the appliance.
+   - When you contact them, report: **what you heard (pop), what you smelled, whether anything tripped at the consumer unit, any warmth/discolouration/scorching at the socket/plug, and what power you turned off**.
+7. **If it’s a major appliance.** Note the brand/model/serial and check for **safety notices/recalls**; registering appliances helps you receive alerts.
 
 ## What can wait
-- You do not need to determine which specific component (e.g., capacitor, motor, or fuse) failed inside the device.
-- You do not need to decide on a replacement or repair immediately.
-- You do not need to clean any soot or residue until the device has completely cooled and been declared safe by a professional.
+- You do not need to diagnose whether it was a motor, capacitor, plug fuse, or wiring fault.
+- You do not need to decide today whether to repair or replace—first keep it powered down and assessed.
+- You do not need to tidy immediately if the smell is strong; safety and ventilation come first.
 
 ## Important reassurance
-A loud pop followed by a smell is a common sign of a component failure, such as a capacitor bursting or a fuse blowing. While startling, taking immediate action to cut the power significantly reduces the risk of the situation escalating into a fire. Panic or confusion is a normal response to sudden loud noises in the home.
+A loud pop with a burning smell can come from a failed component and doesn’t always turn into a fire, but it is a meaningful warning sign. Cutting power quickly and preventing reconnection is a strong first step.
 
 ## Scope note
-This guide provides first-step stabilization only. It does not replace the need for a physical inspection by a qualified electrician or appliance technician.
+These are first steps only. If there’s repeated tripping, any scorching/warmth at a socket, or the smell persists after power is off, treat it as an electrical safety problem and use a qualified professional.
 
 ## Important note
-If at any point you see flames, see thick smoke, or cannot safely reach the power isolation switches, exit the property immediately and call 999. Do not re-enter the building until the fire service declares it safe.
+This guide is general information for urgent first steps. If you see smoke or fire, feel unsafe, cannot isolate the power, or anyone has breathing difficulty, leave and contact emergency services immediately.
 
 ## Additional Resources
-- https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/fire-safety/
-- https://www.electricalsafetyfirst.org.uk/product-recalls/
-- https://www.electricalsafetyfirst.org.uk/product-recalls/product-registration/
-- https://www.westsussex.gov.uk/fire-emergencies-and-crime/west-sussex-fire-and-rescue-service/home-fire-safety/electrical-and-heating-appliance-safety-advice/
-- https://manchesterfire.gov.uk/your-safety/home-fire-safety/electrical-safety/
+- https://www.gov.uk/government/publications/make-your-home-safe-from-fire/fire-safety-in-the-home-accessible-version
+- https://www.southwark.gov.uk/housing/home-safety-and-support/power-cuts-and-electrical-safety/electrical-safety
+- https://www.london-fire.gov.uk/safety/the-home/electrical-items/
+- https://www.derbys-fire.gov.uk/safety/at-home/fire-prevention
+- https://www.cambsfire.gov.uk/news-and-incidents/news/2026-02-02-fire-service-shares-advice-on-keeping-your-home-safe-this-electrical-fire-safety-week

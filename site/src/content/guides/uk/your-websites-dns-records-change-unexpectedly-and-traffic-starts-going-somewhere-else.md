@@ -1,93 +1,110 @@
----
+﻿---
 title: "What to do if… your website’s DNS records change unexpectedly and traffic starts going somewhere else"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "extortion message claiming files copied"
-  - "receive an extortion message"
-  - "files were copied extortion"
-  - "unsure if extortion is real"
-  - "what do i do if i get a blackmail email"
-  - "what do i do if someone says they have my files"
-  - "what do i do if a hacker emails me"
-  - "what do i do if i am being extorted online"
-  - "help i got an email saying i was hacked"
-  - "help i received a bitcoin ransom demand"
-  - "help i think my files were stolen"
-  - "help i am being blackmailed for data"
-  - "hacker claims they have my photos"
-  - "email says they recorded my webcam"
-  - "threat to leak my private data"
-  - "bitcoin demand in my inbox"
-  - "scam email old password included"
-  - "blackmail invoice in junk folder"
-  - "files exfiltrated threat message"
-  - "received extortion dm on instagram"
-  - "hacker says they have my contact list"
-  - "cyber extortion help uk"
-  - "digital blackmail first steps"
-  - "is this extortion email real"
-  - "fake data breach notification"
-  - "ransomware threat but no files locked"
-  - "stolen data threat help"
-  - "online extortion emergency uk"
-  - "reporting cyber blackmail uk"
-  - "data theft scam verification"
-last_reviewed: "2026-03-17"
+  - dns changed unexpectedly
+  - dns records changed
+  - nameservers changed
+  - domain hijacked
+  - dns hijacking
+  - website redirecting elsewhere
+  - site traffic diverted
+  - domain pointing to wrong server
+  - registrar account compromised
+  - unauthorized dns changes
+  - website going to another site
+  - customers seeing wrong website
+  - my domain was taken over
+  - domain settings changed
+  - website sending users elsewhere
+  - someone changed my dns
+  - sudden traffic drop dns
+  - domain control lost
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your website’s DNS records change unexpectedly and traffic starts going somewhere else (UK)
 
 ## Short answer
-Do not reply, click any links, or pay the demand. Preserve the message as evidence, then use a separate, clean device to verify your account security and report the incident to the National Cyber Security Centre (NCSC).
+Treat this like an account takeover. Regain control at the **domain registrar**, stop further changes, then restore the correct **nameservers/DNS** from a known-good record.
 
 ## Do not do these things
-- Don’t pay the demand, as this confirms you are a responsive target and often leads to higher demands.
-- Don’t reply or negotiate with the sender, as this verifies your contact details are active.
-- Don’t click links, open attachments, or scan QR codes within the message.
-- Don’t check your accounts or change passwords using the device you suspect may be compromised.
-- Don’t delete the original message until you have captured evidence and forwarded it to official reporting channels.
+- Don’t keep “trying random fixes” in DNS settings — you can overwrite evidence and make recovery slower.
+- Don’t assume it’s “just propagation” if users are consistently landing somewhere else.
+- Don’t reply to messages claiming to be your registrar/DNS provider using their provided phone numbers or links.
+- Don’t post screenshots of admin panels, ticket IDs, or DNS details publicly while you’re still containing the incident.
+- Don’t reset every password everywhere in a panic before you’ve regained control of the registrar/DNS accounts you actually need.
 
 ## What to do now
-1. **Isolate your devices if you have already interacted with the message.** If you clicked a link or downloaded a file, immediately disconnect the device from Wi-Fi and mobile data to prevent potential data transmission.
-2. **Preserve evidence of the threat immediately.** Take clear screenshots of the message, including the sender's email address or handle, the payment address (such as a Bitcoin wallet), and the date/time received.
-3. **Report the extortion attempt to the NCSC reporting services.** 
-   - Forward suspicious emails to **report@phishing.gov.uk**.
-   - Forward suspicious text messages to **7726** (you will usually receive a follow-up text asking for the sender's number; reply with that number to complete the report).
-   - Use the "Report" and "Block" functions within social media or messaging apps if the threat arrived via DM.
-4. **Identify common signs that the message is a bulk scam.** 
-   - Check if the "proof" they provide is simply an old password you once used; this usually means your data was in an old third-party breach, not that your current device is hacked.
-   - Look for generic greetings (e.g., "Dear User") and a lack of specific details about the files they claim to have stolen.
-5. **Verify your account security from a known clean device.** Sign in to your primary email and cloud storage (iCloud, Google, OneDrive) on a different computer or phone to check for:
-   - Unrecognised sign-in locations or devices in your security history.
-   - New email forwarding rules or "filters" that you did not set up.
-   - Recent "file shared" notifications or suspicious activity logs.
-6. **Secure your digital identity starting with your email.** **Change your email password first, as it is the gateway to resetting all other accounts.**
-   - Ensure the new password is strong and unique (using three random words).
-   - Enable Two-Factor Authentication (2FA) or Multi-Factor Authentication (MFA) immediately.
-7. **Run a security scan on your original device if you suspect malware.** Use a reputable, updated antivirus tool to scan for "info-stealers" or remote access trojans.
-   - If the scan finds nothing but you remain concerned, seek help from a professional IT service.
-8. **Report the crime to the appropriate national authority.** 
-   - **England, Wales, and Northern Ireland:** Report to **Report Fraud** (formerly Action Fraud) via **reportfraud.police.uk** or call **0300 123 2040**.
-   - **Scotland:** Report to **Police Scotland** via their online reporting form or call **101**. 
-9. **Notify your organisation if the message involves work systems.** Contact your IT security or "DPO" (Data Protection Officer) immediately; do not attempt to resolve workplace extortion privately.
+1. **Get to a safer admin setup (minutes).**
+   - Use a known-clean device if you can (or a different machine/account than the one you normally administer from).
+   - Pause any automation that might “fight” your fixes (DNS sync tools, CI jobs that push DNS, registrar/DNS APIs).
+
+2. **Lock down the registrar account first (this is the control point).**
+   - Log in to your **domain registrar** and immediately:
+     - Change the password to a strong unique one.
+     - Enable **MFA/2-step verification**.
+     - Turn on **Registrar Lock / Domain Lock** (to block transfers and reduce unauthorized changes).
+     - If your registrar offers it (and your domain supports it), ask support about **Registry Lock** as an extra layer.
+   - Remove anything you don’t recognize: extra users, delegated access, API tokens, forwarding/recovery email addresses or phone numbers.
+
+3. **Capture what changed (before you “fix everything”).**
+   - Take screenshots/exports of:
+     - Current **nameservers (NS)** set at the registrar.
+     - DNS provider/CDN audit logs (record changes, API activity).
+     - Any WHOIS/registrant contact changes (if visible to you).
+   - Write a short timeline (UK time): when you noticed, what visitors see, and what you changed (if anything).
+
+4. **Restore delegation first (nameservers), then restore the DNS records.**
+   - If the **nameservers were changed**, set them back to your correct DNS provider/CDN values (from a known-good internal record or prior ticket/onboarding details).
+   - If nameservers are correct but **records were modified**, restore from your last known-good DNS export/template.
+   - If you don’t have a known-good copy, restore only the minimum needed to bring the site back safely (A/AAAA/CNAME for the web service), then add the rest carefully.
+
+5. **Check DNSSEC/DS status so you don’t get “stuck.”**
+   - In the registrar panel, check whether **DNSSEC** is enabled and whether the **DS record** was changed or removed.
+   - If DNSSEC was altered, coordinate restoration with your DNS provider/registrar (a mismatched DS can stop valid resolution or keep pointing to attacker-controlled signing).
+
+6. **Escalate to the right UK parties based on your domain.**
+   - Contact your **registrar’s security/abuse team** and state: “Unauthorised DNS/name server changes; suspected domain hijack.” Ask them to:
+     - Freeze/lock changes if they can apply a stronger hold.
+     - Confirm whether changes came from login, API token, or support-assisted action.
+     - Preserve and share the full change history/audit logs.
+   - If your domain is **.uk / .co.uk / .org.uk**, you can also contact **Nominet** support about suspected hijack/unauthorised changes (alongside your registrar).
+
+7. **Contain the likely entry points (do this in parallel).**
+   - Secure the email inbox used for registrar/DNS resets:
+     - Change password, enable MFA, check for forwarding rules and unfamiliar “app passwords” or connected apps.
+   - Secure your DNS provider/CDN account (MFA, revoke tokens, review access).
+   - If you suspect a compromised admin device, stop using it for admin logins until it’s cleaned.
+
+8. **Reduce harm to visitors while recovery is in progress.**
+   - Pause ads/email campaigns that drive people to the domain until you verify resolution is back to normal.
+   - Warn staff not to log into admin portals via the domain until you confirm it resolves correctly (use known-good direct URLs only).
+   - If you control the correct hosting, temporarily serve a simple maintenance page and disable risky features until stable.
+
+9. **Report if it looks criminal or impacts customers.**
+   - For serious cyber incidents, use the UK **NCSC “Report a Cyber Incident”** service.
+   - For cyber crime/fraud affecting England/Wales/Northern Ireland, use **Report Fraud** (Scotland: report via **Police Scotland on 101** as directed).
 
 ## What can wait
-- You do not need to decide on a long-term legal strategy or "private investigator" services today.
-- You do not need to notify your entire contact list unless you have confirmed that a breach of your address book actually occurred.
-- You do not need to wipe your device to factory settings immediately if your accounts are secured and no malware is detected.
+- You don’t need to decide today whether to move registrars, redesign DNS, or rebuild hosting.
+- You don’t need to “perfect” every DNS record immediately — restore core web resolution safely first.
+- Deep forensics can wait until you’ve locked the domain and stopped ongoing changes.
 
 ## Important reassurance
-Most "we have copied your files" messages are automated "sextortion" or "data theft" bluffs sent to thousands of people simultaneously. Receiving one does not mean you have done anything wrong or that your privacy is lost. By pausing, not engaging, and securing your accounts, you significantly reduce the sender's leverage.
+A DNS diversion feels dramatic because a single change can reroute everything. A calm order of operations — regain control, freeze changes, restore known-good, then harden accounts — usually stops the damage quickly.
 
 ## Scope note
-This guide provides first-step stabilization for receiving an extortion threat. It does not cover technical forensic analysis or the recovery of encrypted files in a live ransomware attack.
+This is first-step guidance for the first hours. If you suspect wider compromise (email takeover, server breach, customer data exposure), you may need specialist incident response support.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional security advice. If you are being threatened with physical harm, or if the extortion involves the non-consensual sharing of intimate images, contact the police immediately via 999. In Scotland, you can also contact the Cyber and Fraud Centre Scotland for additional business or individual support.
+This guide is general information, not legal or professional security advice. If you can’t confidently restore a known-good configuration or the attacker may still have access, prioritise containment (locks, MFA, access revocation) and work with your registrar/DNS provider security teams.
 
 ## Additional Resources
+- https://www.ncsc.gov.uk/files/Advisory-DNS-hijacking.pdf
 - https://www.ncsc.gov.uk/guidance/managing-public-domain-names
-- https://www.ncsc.gov.uk/collection/using-online-services-safely/protecting-your-public-domain-name
-- https://www.ncsc.gov.uk/news/ongoing-dns-hijacking-and-mitigation-advice
-- https://registrars.nominet.uk/uk-namespace/managing-account/online-services/account-security/
-- https://registrars.nominet.uk/uk-namespace/domain-abuse-prevention-and-disruption/domain-lock/
+- https://www.ncsc.gov.uk/report-an-incident
+- https://report.ncsc.gov.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.icann.org/resources/pages/lost-domain-names

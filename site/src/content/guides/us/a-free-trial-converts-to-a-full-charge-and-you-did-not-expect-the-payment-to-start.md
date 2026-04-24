@@ -1,98 +1,88 @@
----
+﻿---
 title: "What to do if… a free trial converts to a full charge and you did not expect the payment to start"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - "free trial charged"
-  - "trial ended and billed"
-  - "unexpected subscription payment"
-  - "auto-renewal surprise"
-  - "forgot to cancel trial"
-  - "subscription started unexpectedly"
-  - "recurring card payment surprise"
-  - "automatic payments from bank account"
-  - "preauthorized transfer surprise"
-  - "unknown subscription charge"
-  - "unexpected monthly charge"
-  - "trial converted to paid plan"
-  - "payment started after trial"
-  - "subscription billing confusion"
-  - "recurring debit card charge"
-  - "help i was charged for a free trial"
-  - "help i forgot to cancel a subscription"
-  - "what do i do if a trial charged me"
-  - "what do i do if my card was charged for a trial"
-  - "my bank account has an unknown subscription"
-  - "stop automatic payments now"
-  - "dispute trial charge"
-  - "cancel free trial after charge"
-  - "billing error notice"
-  - "revoking authorization for payments"
-  - "ach stop payment order"
-  - "unauthorized electronic fund transfer"
-  - "unexpected renewal charge"
-  - "smell of scam subscription"
-  - "visible charge on statement"
-last_reviewed: "2026-03-17"
+  - free trial charged
+  - trial ended and billed
+  - unexpected subscription payment
+  - auto-renewal surprise
+  - forgot to cancel trial
+  - subscription started unexpectedly
+  - recurring card payment surprise
+  - automatic payments from bank account
+  - preauthorized transfer surprise
+  - app subscription charged
+  - paypal trial charged
+  - in-app subscription renewal
+  - unexpected monthly charge
+  - unknown merchant after trial
+  - trial converted to paid plan
+  - renewal without noticing
+  - payment started after trial
+  - subscription billing confusion
+  - recurring debit card charge
+last_reviewed: "2026-01-10"
 ---
+
 # What to do if… a free trial converts to a full charge and you did not expect the payment to start (USA)
 
 ## Short answer
-Cancel the subscription through the original signup method immediately to stop future billing. Contact the merchant in writing to request a refund, then initiate a formal dispute with your bank or card issuer if the refund is denied.
+Stop any future payments first (using the right cancellation route), then request a refund in writing. If the company won’t fix it quickly, dispute the charge through your card issuer or bank using the correct protections for credit vs debit/ACH.
 
 ## Do not do these things
-- Do not assume deleting the app or account also cancels the underlying financial subscription.
-- Do not close your bank account or cancel your card as a first step; this can lead to collections activity or missed legal notices.
-- Do not provide personal data or remote access to anyone claiming they need it to process a refund over the phone.
-- Do not wait for the next statement to arrive before taking action.
-- Do not rely on verbal promises from customer service; always obtain a written cancellation confirmation.
+- Don’t delay if another renewal is due soon — stopping the next charge is usually the fastest “win”.
+- Don’t close your card/bank account as your first move — it can create missed notices and doesn’t always stop preauthorized/recurring transactions cleanly.
+- Don’t share verification codes, passwords, or let anyone remote into your device to “process a refund”.
+- Don’t rely on a phone number from a suspicious email/text — use the official site or your bank’s app.
+- Don’t start several disputes at once for the same transaction unless your bank/card issuer tells you to.
 
 ## What to do now
-1. **Identify the exact payment method used for the transaction.**  
-   - Check your bank or credit card statement to see if the charge was a **Credit Card purchase**, a **Debit Card transaction**, or an **ACH / Direct Debit withdrawal**.
-   - Note the merchant name, the transaction date, and the exact amount.
+1. **Verify the charge and payment method (so you use the right protections).**  
+   In your card/bank app, capture: merchant name, amount, date, and whether it’s **credit card**, **debit card**, or a **bank transfer/ACH**. Screenshot it.
 
-2. **Cancel the subscription through the platform that processed the signup.**  
-   - **App Stores:** If you used an iPhone or Android, go to "Subscriptions" in your Apple ID or Google Play settings to cancel.
-   - **Payment Processors:** Check your "Automatic Payments" or "Manage Subscriptions" section if you used a third-party processor like PayPal.
-   - **Direct Websites:** Log into the merchant's site, go to billing/account settings, and select "Cancel."
-   - Take a screenshot of the "Subscription Cancelled" screen or save the confirmation email.
+2. **Stop future payments in the correct place (do this immediately).**  
+   - **If you signed up through an app store (Apple/Google):** cancel the subscription in your Apple ID / Google Play subscriptions.  
+   - **If you paid via PayPal:** cancel the subscription/automatic payment inside PayPal.  
+   - **If it’s a company website subscription:** cancel in your account settings and take a screenshot showing “cancelled” (or the end date).  
+   - **If it’s an automatic bank withdrawal (ACH):** tell the company you are **revoking authorization** for future withdrawals and follow up by email/letter so you have proof.
 
-3. **Request a refund from the merchant in writing.**  
-   - Send an email or use a documented support ticket stating: "I am revoking authorization for all future charges and requesting a refund for the charge on [Date] as I did not intend to continue the service after the trial."
-   - Keep a copy of this message and any automated response showing it was received.
+3. **If another payment might hit soon, contact your card issuer/bank and ask for a same-day stop.**  
+   - **Recurring debit/credit card charge:** ask if they can block future charges from that merchant (options vary by institution).  
+   - **ACH/preauthorized transfer:** ask to place a **stop-payment order** for that merchant. For scheduled preauthorized debits, this generally needs to be done **at least 3 business days before** the next transfer. The bank may require **written confirmation** after an oral request (often within a set number of days), so ask what they need from you.
 
-4. **Issue a stop-payment order if another charge is imminent.**  
-   - **For ACH / Bank Transfers:** Contact your bank at least 3 business days before the next scheduled transfer to place a "Stop Payment Order."
-   - Provide the bank with the exact name of the company and the amount.
-   - Ask if the bank requires a written follow-up; under Regulation E, banks often require written confirmation within 14 days of an oral request to keep the stop order active.
+4. **Request a refund from the company in writing (keep proof).**  
+   Send a short message: you started a free trial, you didn’t expect paid billing to begin, you want it cancelled and the charge on [date] refunded. Save emails, chat logs, ticket numbers, and any cancellation confirmation screen.
 
-5. **Dispute the charge with your financial institution if the merchant refuses a refund.**  
-   - **Credit Cards (Reg Z):** Submit a "billing error notice" in writing to your card issuer within 60 days of the statement that first showed the charge.
-   - **Debit Cards / Bank Accounts (Reg E):** Notify your bank of an "unauthorized transfer" or "error" as soon as possible, generally no later than 60 days after the statement date.
-   - Mention that you have already cancelled the service and the merchant refused to refund the unexpected conversion.
+5. **If the company won’t refund or you can’t reach them, dispute the charge using the right rule for how you paid.**  
+   - **Credit card:** to protect your rights, send a **written billing-error notice** to the card issuer **within 60 calendar days after the charge appears on your statement** (even if you also call).  
+   - **Debit card / ACH:** notify your bank as soon as you notice the problem and ask them to start their error/unauthorized-transfer process. To preserve your rights, do this promptly and generally no later than **60 days after the statement** that shows the issue.
 
-6. **File a formal complaint if the merchant uses deceptive "dark patterns."**  
-   - If the cancellation process was intentionally hidden or required multiple unnecessary steps, report the business to the **Federal Trade Commission (FTC)** or the **Consumer Financial Protection Bureau (CFPB)**.
+6. **If it looks deceptive or you’re being stonewalled, file complaints (after Steps 1–5 are in motion).**  
+   - **CFPB** (for problems with a bank, credit card issuer, or payment handling), and/or  
+   - **FTC** (for deceptive subscription practices).  
+   This won’t stop an imminent renewal by itself, so keep priority on stopping future payments and opening the dispute.
 
 ## What can wait
-- Deciding whether the service is useful in the long term; stop the billing first.
-- Comparing your experience to other users' online reviews.
-- Closing the associated bank account (unless the bank specifically advises it due to fraud).
-- Researching the merchant's corporate history or ownership.
+- Deciding whether you want to keep the service later — handle stopping and refund/dispute first.
+- Writing long explanations or arguing about fine print.
+- Public reviews, social posts, or escalation to executives.
+- Switching banks or closing accounts (do this only if your bank recommends it).
 
 ## Important reassurance
-Finding an unexpected charge after a free trial is a common experience, often caused by unclear interface designs or missed notifications. Taking these steps immediately creates the necessary paper trail for your bank to intervene. Confusion or frustration in this moment is a typical response to complex billing systems.
+Unexpected trial-to-paid conversions are extremely common, and people miss them for normal reasons (busy weeks, unclear screens, email filtering). The practical goal right now is to stop the next charge and create a clean paper trail so your bank/card issuer can act.
 
 ## Scope note
-This guide covers first-step stabilization for unexpected subscription charges in the USA. It focuses on stopping immediate financial loss and preserving dispute rights. It does not provide legal representation or long-term financial planning.
+These are first steps to stop recurring payments and start a refund/dispute. If the company claims you agreed to the charge, later steps may include providing screenshots, timestamps, or copies of the terms shown at checkout—handle that after you’ve stopped further charges.
 
 ## Important note
-Dispute rights and stop-payment procedures are governed by federal regulations (Reg E and Reg Z), but individual bank policies and fees may vary. Written follow-up is often required to maintain legal protections. This guide is for informational purposes and is not legal or financial advice.
+This guide is general information, not legal advice. Dispute rights, deadlines, and stop-payment rules vary by payment method and institution, and some actions may require written follow-up. If you’re unsure whether the charge was credit, debit, or ACH, your bank can confirm from the transaction details.
 
 ## Additional Resources
-- https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions
-- https://consumer.ftc.gov/consumer-alerts/2023/05/how-stop-subscriptions-you-never-ordered
+- https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-a-charge-on-my-credit-card-bill-en-61/
+- https://www.consumerfinance.gov/rules-policy/regulations/1026/13
 - https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges
-- https://www.consumerfinance.gov/ask-cfpb/how-can-i-get-a-refund-on-a-product-or-service-i-purchased-with-my-credit-card-en-1969/
-- https://www.usa.gov/company-product-service-complaints
+- https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/
+- https://www.consumerfinance.gov/rules-policy/regulations/1005/10
+- https://www.consumerfinance.gov/rules-policy/regulations/1005/11
+- https://www.helpwithmybank.gov/help-topics/bank-accounts/electronic-transactions/automatic-withdrawal-preauthorized-payments/unauthorized-charges-monthly.html

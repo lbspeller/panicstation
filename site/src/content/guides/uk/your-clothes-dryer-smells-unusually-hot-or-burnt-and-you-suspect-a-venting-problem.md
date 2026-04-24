@@ -1,85 +1,75 @@
----
+﻿---
 title: "What to do if… your clothes dryer smells unusually hot or “burnt” and you suspect a venting problem"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "tumble dryer smells burnt"
-  - "dryer smells like burning"
-  - "burning smell from tumble dryer"
-  - "overheating tumble dryer"
-  - "hot plastic smell dryer"
-  - "what do i do if my dryer smells burnt"
-  - "what do i do if the tumble dryer is overheating"
-  - "what do i do if dryer vent is blocked"
-  - "what do i do if laundry smells like smoke"
-  - "help i smell burning from my dryer"
-  - "help i think my dryer is a fire risk"
-  - "help my tumble dryer is too hot"
-  - "help my dryer vent is crushed"
-  - "dryer vent blocked"
-  - "clogged lint filter"
-  - "kinked dryer hose"
-  - "external vent flap stuck"
-  - "scorched plug socket"
-  - "brown marks on plug"
-  - "clothes taking too long to dry"
-  - "dryer air flow restricted"
-  - "tumble dryer safety alert"
-  - "haier dryer fire risk"
-  - "hoover dryer burning smell"
-  - "candy dryer overheating"
-  - "dryer smells hot in flat"
-  - "dryer smells burnt at night"
-  - "burning lint smell"
-  - "hot dryer drum"
-  - "smell of hot dust"
-last_reviewed: "2026-03-17"
+  - tumble dryer smells burnt
+  - dryer smells burning
+  - dryer smells hot
+  - unusual burning smell tumble dryer
+  - dryer vent blocked
+  - tumble dryer vent blocked
+  - dryer exhaust blocked
+  - clothes taking longer to dry
+  - laundry room smells burnt
+  - dryer overheating smell
+  - lint filter clogged
+  - lint buildup in vent hose
+  - vent pipe crushed or kinked
+  - vent flap stuck shut
+  - heat pump dryer smells hot
+  - condenser dryer smells hot
+  - burning smell but no smoke
+  - dryer feels too hot
+  - dryer smells like burning plastic
+  - suspect dryer airflow problem
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… your clothes dryer smells unusually hot or “burnt” and you suspect a venting problem (UK)
 
 ## Short answer
-Stop the cycle immediately, switch off the power at the socket, and unplug the appliance. If there is visible smoke, flames, or a rapidly intensifying smell, evacuate the building and call **999**.
+Stop the cycle, switch the dryer off and unplug it (if safe). If there’s smoke, flames, or the smell is rapidly worsening, get everyone out and call **999** (or **112**).
 
 ## Do not do these things
-- Do not leave the appliance unattended while it is still plugged in or hot.
-- Do not open the dryer door if you suspect a fire inside the drum.
-- Do not restart the dryer to "test" if the smell has cleared.
-- Do not use the dryer if it is connected to an extension lead or multi-way adapter.
-- Do not attempt to dismantle the internal panels of the dryer.
-- Do not ignore scorched marks, brown stains, or melting on the plug or wall socket.
+- Don’t “run it a bit longer” to see if the smell goes away.
+- Don’t try to investigate if there’s **smoke/heat**—prioritise getting out and calling **999/112**.
+- Don’t open the door if you suspect smoke/heat inside; leave it closed while you power down and evacuate if needed.
+- Don’t keep using the dryer after only emptying the lint filter if the smell was unusually hot/burnt (the restriction may be deeper).
+- Don’t pull the dryer out or disconnect ducting if anything is hot, smoking, or you feel unsafe.
+- Don’t use water on a suspected electrical appliance fire or attempt to fight a fire unless you’re trained and it’s clearly safe.
 
 ## What to do now
-1. **Isolate the power immediately.** Turn the dryer off using the control dial or power button. **Switch the power off at the wall socket and pull the plug out** only if it is safe to do so without touching a hot surface.
-2. **Evacuate if there are signs of combustion.** Leave the room and close the door if you see **smoke**, sparks, or flames, or if the burning smell is sharp and chemical.
-   - Call **999** (or **112**) from a safe distance outside.
-   - Do not re-enter until the Fire and Rescue Service declares it safe.
-3. **Check the plug and socket for electrical damage.** Look for **brown scorch marks**, melting plastic, or feel for unusual heat on the faceplate of the socket.
-   - If damage is visible, do not use that socket for any appliance until a qualified electrician inspects it.
-4. **Allow the appliance to cool for at least 60 minutes.** Do not attempt any physical checks of the venting or lint traps while the machine or the rear panels are hot to the touch.
-5. **Verify the appliance against active UK safety recalls.** Locate the model and serial number (usually found on a sticker inside the door rim or on the back).
-   - Check if your brand is part of the 2025 / 2026 safety modification program (specifically **Haier, Hoover, Candy, Baumatic, Caple, Iberna, Lamona, or Montpellier** heat pump dryers).
-   - If the model is affected, do not use it again until a manufacturer-authorised engineer has completed the required safety modification.
-6. **Perform a visual check of the external venting.** Inspect the vent hose at the back of the machine for **kinks, crushing, or heavy lint accumulation**.
-   - Check the external wall flap or vent hood to ensure it is not obstructed by debris or stuck in the closed position.
-7. **Address minor smoke exposure.** Call **NHS 111** if you have a lingering cough, sore throat, or watery eyes after smelling the burnt air, even if you feel generally well.
+1. **Stop and power down.** Turn the dryer off. **Switch off at the socket and unplug** if you can do so without reaching through heat or smoke.
+2. **Decide if this is an emergency right now.** If you see **smoke**, hear crackling, see **flames**, or the smell is rapidly intensifying: **leave the room, close the door, evacuate, call 999/112**.
+3. **Let it cool completely.** Give it time to cool before touching the back, the plug, or any venting.
+4. **Do a quick, no-restart check once fully cool (do not run the dryer).**
+   - Clean the **lint filter** thoroughly (and remove any lint around the filter housing you can safely reach).
+   - If your dryer vents outside, look behind for an obviously **crushed/kinked vent hose** (don’t force it straight if access is awkward).
+   - If you can safely access the outside vent, **visually check** for obvious blockage (lint build-up, a stuck flap, debris). If it’s not safely reachable, skip this step.
+5. **Do not use the dryer again until it’s checked/cleared.** Vent restrictions can cause overheating and increase fire risk.
+6. **Arrange the right help (and document it).**
+   - If you rent: **report it as urgent** to your landlord/letting agent in writing. Say you’ve stopped using the dryer due to an overheating/burnt smell and suspected vent restriction.
+   - If you own: arrange a **qualified appliance repair engineer** and, if applicable, professional help to inspect/clear the vent run (especially if it’s long, concealed, or hard to access).
+7. **Check for safety notices/recalls.** Find the **model and serial number** (often inside/around the door area) and check the manufacturer and UK product safety recall/alert listings. If affected, **do not use** until remedied as directed.
 
 ## What can wait
-- You do not need to decide whether to repair or replace the unit until a professional assessment is made.
-- You do not need to clean the entire length of the internal ducting yourself right now.
-- You do not need to notify the manufacturer of a non-recall fault today; this can be done during business hours.
+- You don’t need to dismantle the dryer, open panels, or run cleaning tools through hidden ducting right now.
+- You don’t need to decide today whether to replace the appliance—first confirm whether venting and the dryer are safe.
+- You can handle longer-term prevention (routine vent cleaning, improving duct routing/materials) after the immediate risk is under control.
 
 ## Important reassurance
-It is common to feel uncertain about whether a smell is "normal" or dangerous. Stopping the appliance and seeking a professional check is the standard safety procedure and does not indicate an overreaction. Tumble dryers are a leading cause of accidental domestic fires; a cautious response is appropriate.
+A sudden “hot/burnt” smell is a valid reason to stop immediately. Many people second-guess themselves—pausing use and getting it checked is a sensible safety-first step.
 
 ## Scope note
-This guide provides first-step stabilization for suspected overheating and venting issues. It does not replace a technical diagnostic or a professional fire safety inspection.
+This is first-steps guidance to reduce immediate fire risk and buy time. Fault-finding and repairs should be done by a qualified professional, especially where venting runs through walls/ceilings or the appliance may be faulty.
 
 ## Important note
-This information is for safety stabilization only. Repairs to electrical appliances and permanent venting systems must be performed by a qualified appliance engineer or a competent professional to ensure compliance with UK safety regulations.
+This is general information, not professional fire-safety or electrical advice. If you think there is any immediate danger (smoke, flames, or you feel unsafe), prioritise evacuation and call **999/112**.
 
 ## Additional Resources
 - https://www.electricalsafetyfirst.org.uk/guidance/product-safety/tumble-dryers/
-- https://www.which.co.uk/reviews/tumble-dryers/article/tumble-dryer-tips-and-maintenance-a43Lb8u6r8ou
-- https://www.london-fire.gov.uk/safety/the-home/electrical-items/how-to-check-if-your-tumble-dryer-is-a-fire-risk/
-- https://www.electricalsafetyfirst.org.uk/product-recalls/
-- https://www.gov.uk/guidance/product-recalls-and-alerts
+- https://www.london-fire.gov.uk/safety/the-home/electrical-items/whitegoods/
+- https://manchesterfire.gov.uk/your-safety/home-fire-safety/electrical-safety/
+- https://www.rbfrs.co.uk/your-safety/electrical/
+- https://www.gov.uk/product-safety-alerts-reports-recalls

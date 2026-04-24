@@ -1,99 +1,86 @@
----
+﻿---
 title: "What to do if… you receive a message that someone in custody has been placed in restricted contact and you are unsure what it means"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - "someone in custody restricted contact"
-  - "restricted contact message meaning"
-  - "unsure what restricted contact means"
-  - "what to do if someone in custody has restricted contact"
-  - "help i received a restricted contact message"
-  - "my family member in custody is restricted"
-  - "my partner is in restricted contact"
-  - "what do i do if jail calls are blocked"
-  - "inmate communication restricted notice"
-  - "jail phone privileges suspended"
-  - "prison visitation restricted status"
-  - "messaging app says contact restricted"
-  - "received text about inmate restriction"
-  - "notice of restricted contact in jail"
-  - "restricted housing communication rules"
-  - "disciplinary segregation phone access"
-  - "no-contact order in custody"
-  - "court ordered communication restriction"
-  - "how to verify restricted contact message"
-  - "fake message about restricted contact"
-  - "inmate locator shows restricted"
-  - "message says person in custody cannot call"
-  - "unauthorized contact attempt jail"
-  - "cannot reach someone in custody"
-  - "custody message asking for money"
-  - "restricted contact meaning jail"
-  - "restricted contact meaning prison"
-  - "restricted contact meaning federal custody"
-  - "restricted contact meaning state prison"
-  - "what do i do if a message says contact is limited"
-  - "prison call forwarding scam warning"
-  - "gift card payment for inmate contact"
-  - "urgent message about inmate status"
-  - "notice of disciplinary housing"
-  - "administrative segregation contact limits"
-last_reviewed: "2026-03-17"
+  - restricted contact meaning
+  - restricted contact notice
+  - contact restricted in custody
+  - inmate communication restricted
+  - jail phone blocked
+  - prison calls blocked
+  - visitation restricted notice
+  - non contact visit status
+  - no contact order confusion
+  - protective custody communication
+  - segregation phone restriction
+  - disciplinary restriction phone
+  - messaging app blocked
+  - inmate locator check
+  - unsure if message is real
+  - scam message about jail
+  - gift card payment scam
+  - family told restricted contact
+  - partner in jail no contact
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive a message that someone in custody has been placed in restricted contact and you are unsure what it means (USA)
 
 ## Short answer
-Treat the message as unverified until you confirm the person’s status through an official government locator or by calling the facility directly. Identify whether the "restriction" is a facility-wide security measure, a disciplinary action, or a court-ordered no-contact rule before attempting further communication.
+Assume the message could be wrong or a scam until you verify it. Confirm where they are held using official sources, then ask the facility (or their lawyer/public defender) what “restricted contact” means there and what contact is allowed right now.
 
 ## Do not do these things
-- Don’t send money, gift cards, or cryptocurrency to "restore contact" or pay for "restricted housing fees."
-- Don’t click links in text messages or emails that claim to lead to an inmate's "new" messaging profile.
-- Don’t attempt to bypass restrictions by having a third party relay messages or by using a different phone number.
-- Don’t share the person’s full name, booking number, or the message contents on social media to ask for help.
-- Don’t assume the restriction means a medical emergency; most "restricted contact" statuses are administrative or disciplinary.
+- Don’t click links, send money, or share personal info/verification codes based on the message.
+- Don’t pay with gift cards, crypto, wire transfers, or “urgent fees” because someone claims it’s needed for release or contact.
+- Don’t assume “restricted contact” means an emergency; it can be disciplinary, protective, administrative (segregation), or tied to a court no-contact order.
+- Don’t try to bypass restrictions by using third parties, new numbers, or alternate accounts.
+- Don’t post names, facility details, or screenshots publicly.
 
 ## What to do now
-1. **Verify the person’s current location and status using an official government locator tool.**
-   - For federal inmates, use the Federal Bureau of Prisons (BOP) "Find an Inmate" tool on the bop.gov website.
-   - For state or county inmates, search the specific state Department of Corrections (DOC) website or the county sheriff’s jail roster.
-   - Look for specific status notes like "In Transit," "Restrictive Housing," or "Privileges Suspended."
-2. **Call the facility’s main desk or the Duty Officer to confirm the definition of the restriction.**
-   - Do not use any phone number provided in the suspicious message; find the official number on a .gov or .mil website.
-   - Ask: "Is there an administrative or disciplinary restriction currently affecting this person’s phone, messaging, or visitation privileges?"
-   - Request the specific type of restriction, such as "Restrictive Housing" (formerly segregation) or "Loss of Privileges" (LOP).
-3. **Check for a court-ordered No-Contact Order or Protective Order.**
-   - If you are a victim or witness in the person's case, the restriction may be a legal requirement of their pretrial release or sentencing.
-   - Contact the clerk of the court where the case is being heard or check the online court docket to see if a "Stay Away" or "No Contact" order was recently issued.
-4. **Identify the correct messaging or phone service provider for that specific facility.**
-   - Most facilities use specific vendors (e.g., GTL / Viapath, Securus, or CorrLinks).
-   - Log in to your official account with that vendor to see if a "blocked" or "restricted" notification appears within the app itself.
-5. **Contact the person’s attorney or public defender if facility staff refuse to provide details.**
-   - Attorneys have a right to "Legal Visits" and "Legal Calls" that often persist even when general social contact is restricted.
-   - Ask the attorney to verify the person’s safety and clarify if the restriction involves a legal order that you must follow to avoid criminal charges for "Soliciting a Violation."
-6. **Report suspected scams to the Federal Trade Commission (FTC) if the message demanded payment.**
-   - If the message asked for gift cards, wire transfers, or ankle-bracelet fees, file a report at reportfraud.ftc.gov.
-   - Notify the facility’s internal affairs or investigations unit that a scammer is using their facility's name to target families.
-7. **Initiate a formal welfare check through the facility Chaplain or Duty Sergeant for urgent health concerns.**
-   - If you have specific, credible information about a medical or mental health crisis, state clearly: "I am requesting a welfare check for [Name/ID] due to a specific medical concern."
-   - Ask for a confirmation that the person has been seen by medical staff, though they may not be able to share private health details.
+1. **Save the message and stop interacting with it.** Screenshot it, record the date/time and sender details.
+2. **Confirm where they are held using an official locator or official agency site.**
+   - If you suspect **federal** custody, use the Federal Bureau of Prisons resources (official “Locate a Federal Inmate” and related inmate pages).
+   - For **state/county** custody, use the county jail roster or the state department of corrections locator (official sites).
+3. **Call the facility using a phone number you find independently (not from the message).**
+   - Ask for **jail records/intake** (jail) or **classification/case manager** (prison).
+   - Say: “I received a message saying they’re on ‘restricted contact.’ Can you tell me what that means at your facility—phone, mail, messaging, and visits—and whether it applies to specific people?”
+4. **Ask which kind of restriction it is, without guessing.**  
+   You’re trying to distinguish:
+   - **Non-contact visits** (e.g., separated by glass/booth) vs. no visits
+   - **Approved list limits** (only certain numbers/people)
+   - **Temporary suspension** of phone/visits (disciplinary/security)
+   - **Court no-contact order** (contact with a specific person is prohibited)
+   - **Administrative housing/segregation** affecting privileges
+5. **If you might be the restricted person, stop contact attempts until you confirm.**  
+   If there could be a court no-contact order or facility restriction involving you, don’t call, message, or ask others to pass messages until you’ve confirmed it’s allowed.
+6. **Route through the lawyer/public defender if staff won’t explain.**
+   - If you know the attorney: ask whether any **no-contact order** or communication restriction is in place and what to avoid doing.
+   - If you don’t know the attorney: ask the facility or the court clerk (using official contact details) how to identify counsel of record or contact the **public defender**.
+7. **If you have an urgent welfare concern, report it directly as a “welfare concern.”**
+   - Be specific: serious medical condition/medication, disability accommodations, credible self-harm risk, threats.
+   - Ask the staff member to document it and route it to medical/mental health or the appropriate supervisor.
+8. **If you believe there is an imminent life-safety emergency and you cannot reach the facility, call for emergency help.**
+   - Call 911 (or local police non-emergency if appropriate) and explain you have an urgent welfare concern for someone currently in custody, and you need help getting it relayed to the facility.
 
 ## What can wait
-- You do not need to hire a private investigator to find the person; official locators are the most accurate and updated source.
-- You do not need to appeal a disciplinary restriction immediately, as most facilities have a set window (often 15–30 days) for grievances to be filed.
-- You do not need to decide on long-term legal strategies until you have confirmed whether the restriction is permanent or temporary.
+- You do **not** need to decide today whether to hire private counsel, file complaints, or escalate publicly.
+- You do **not** need to interpret the term yourself; the same phrase can mean different things in different facilities.
+- You do **not** need to travel to the jail/prison until you confirm visiting rules and whether you’re approved to visit.
 
 ## Important reassurance
-It is normal to feel a high level of stress when communication with a loved one is suddenly cut off. In the U.S. carceral system, "restricted contact" is a common administrative tool used for everything from facility-wide "lockdowns" to routine housing changes, and it rarely indicates a life-threatening situation. Taking a moment to verify the source of the message prevents you from being exploited by scams during this period of uncertainty.
+A message like this is unsettling, but restrictions often reflect routine safety or disciplinary controls rather than a hidden emergency. Verifying custody and the exact restriction—through official channels—protects both you and them.
 
 ## Scope note
-This guide covers first-step stabilization and verification only. It does not provide legal advice for fighting no-contact orders or instructions for navigating the internal grievance processes of specific state or federal prisons.
+These are first steps only: verify, avoid scams and legal pitfalls, and get the facility’s definition of the restriction. Next steps depend on whether the restriction is disciplinary, protective, administrative, or court-ordered.
 
 ## Important note
-This information is for general guidance and is not a substitute for legal advice. Restrictions on contact can be part of criminal court orders; violating these orders—even if the person in custody initiates the contact—can lead to new criminal charges for both parties.
+This is general information, not legal advice. Rules and disclosure vary widely by state, county, and facility. If a no-contact order might apply, get advice from a qualified lawyer before attempting contact.
 
 ## Additional Resources
-- https://www.bop.gov/inmate_locator/index.jsp
 - https://www.bop.gov/inmates/visiting.jsp
-- https://www.bop.gov/policy/progstat/5270.12.pdf
-- https://www.bop.gov/policy/progstat/5267.09cn-1.pdf
-- https://www.bop.gov/resources/pdfs/legal_guide_march_2019.pdf
+- https://www.bop.gov/policy/progstat/5264_008.pdf
+- https://www.ecfr.gov/current/title-28/chapter-V/subchapter-C/part-540/subpart-D
+- https://www.bop.gov/policy/progstat/5265_013.pdf
+- https://www.usa.gov/visit-prisoner-send-money
+- https://consumer.ftc.gov/sites/www.consumer.ftc.gov/files/gift_card_scams_card_en_print_wcmarks.pdf

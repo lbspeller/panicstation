@@ -1,102 +1,86 @@
----
+﻿---
 title: "What to do if… you realise you may have overstayed your permission to stay by mistake"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "overstayed by mistake"
-  - "visa expired uk help"
-  - "uk immigration overstay rules"
-  - "missed visa extension deadline"
-  - "permission to stay expired"
-  - "what do i do if i overstayed my visa"
-  - "what do i do if my permission to stay ended"
-  - "what do i do if i forgot to renew my visa"
-  - "what do i do if my evisa is wrong"
-  - "help i missed my visa expiry"
-  - "help i am an overstayer"
-  - "help my permission to stay is out of date"
-  - "my brp expired but i have a visa"
-  - "forgotten renewal date"
-  - "late visa application good reason"
-  - "sui 13.1 suitability rules"
-  - "14 day overstay rule uk"
-  - "section 3c leave explained"
-  - "right to work after visa expiry"
-  - "right to rent for overstayers"
-  - "home office overstay letter"
-  - "evisa end date confusion"
-  - "immigration status expired"
-  - "overstayed for one day"
-  - "overstayed for a week"
-  - "immigration breach by accident"
-  - "leave to remain expired"
-  - "accidental overstay help"
-  - "visa validity check"
-  - "expired immigration document"
-last_reviewed: "2026-03-17"
+  - i think i overstayed
+  - overstayed by mistake uk
+  - permission to stay expired
+  - unsure when leave ends
+  - visa end date confusion
+  - brp expiry not status
+  - evisa end date confusion
+  - missed extension deadline
+  - applied late by accident
+  - forgot renewal date
+  - decision letter not received
+  - email from home office missed
+  - travel booked but status unclear
+  - worried about working legally
+  - worried about renting legally
+  - leave expired yesterday
+  - leave expired last week
+  - i thought i had more time
+last_reviewed: "2026-03-07"
 ---
-# What to do if… you realise you may have overstayed your permission to stay by mistake (UK)
 
+# What to do if… you realise you may have overstayed your permission to stay by mistake (UK)
 ## Short answer
-Verify your exact permission end date using the official Home Office "view and prove" service (eVisa). If you have overstayed, stop all status-dependent activities—specifically work—and contact a regulated immigration solicitor immediately to discuss a "good reason" application under Part Suitability rules (SUI 13.1).
+First, confirm your actual permission-to-stay end date from an official Home Office record (not just a BRP expiry date). If you confirm your permission has ended (or you cannot confirm it quickly), pause status-dependent activities—especially work—and get regulated immigration advice urgently.
 
 ## Do not do these things
-- Don't assume a physical BRP card date is your final permission date; it may have expired during the 2024/2025 digital transition while your status remained valid.
-- Don't attempt to leave and re-enter the UK to "reset" your status; this can trigger a re-entry ban and complicate future applications.
-- Don't continue working or starting a new job if your permission has lapsed; this is a criminal offence for the worker and carries civil penalties for the employer.
-- Don't submit a "protective" application with placeholder information or missing fees, as an invalid application will not stop the overstay clock.
-- Don't rely on advice from social media or friends; only OISC-regulated advisers or qualified solicitors can provide legal immigration advice.
+- Don’t assume your BRP card expiry date is the same as your permission-to-stay end date (they can be different).
+- Don’t travel in/out of the UK “to fix it” or because you’re panicking—leaving can make things harder.
+- Don’t submit a rushed application with guessed dates or missing evidence.
+- Don’t keep working if your right to work is unclear or you’ve confirmed your permission has ended.
+- Don’t rely on informal advice for deadlines or eligibility.
 
 ## What to do now
-1. **Access your digital eVisa record to confirm your "Valid To" date.**
-   **Log in to the UKVI "view and prove your immigration status" service using your identity document and date of birth.** 
-   - Check the "Valid until" field.
-   - Look for any "Decision Letter" emails in your archives that might show a different date.
-   - Note down the exact date permission ended and the specific route (e.g., Skilled Worker, Student, Spouse).
+1. **Verify the date your permission ends (or ended) from an official record.**  
+   Check your Home Office decision email/letter and your online immigration status (if you have an eVisa). Write down:
+   - the permission end date (“valid until” / end date)
+   - the route/type of permission (student, work, family, visitor, etc.)
+   - your passport number used for the grant (so you can match records correctly)
 
-2. **Verify if you are protected by Section 3C leave.**
-   **Determine if you submitted a valid application to extend or switch your visa BEFORE your previous permission expired.**
-   - If you applied in-time and are awaiting a decision, your permission (including the right to work) continues automatically.
-   - If you applied even one day after your permission ended, Section 3C does not apply, and you are currently an overstayer.
+2. **Check for common “false alarm” reasons before assuming you overstayed.**
+   - **BRP expiry vs permission end date:** the decision letter/online status is what matters.
+   - **In-time application pending:** if you applied before your permission expired and are awaiting a decision (or in review/appeal where relevant), you may have continuing permission in some circumstances (often referred to as Section 3C). Confirm using your submission confirmation and dates.
 
-3. **Cease status-dependent activities immediately if you are an overstayer.**
-   **Stop all paid or unpaid work, including self-employment, and do not sign new tenancy agreements.**
-   - Notify your employer if you have confirmed your status has lapsed, as they must stop your employment to comply with the law.
-   - Keep your contact details (phone and email) active and monitored for Home Office communications.
+3. **If you confirm your permission has ended (or you cannot confirm it today), pause anything that depends on valid permission.**
+   - **Pause work (including paid self-employment)** until you have clear confirmation you are allowed to work.
+   - Avoid starting new jobs/tenancies that will trigger a right-to-work/right-to-rent check you cannot pass.
+   - Keep your address, email, and phone stable so you can receive messages and get help.
 
-4. **Contact a regulated solicitor to assess the "14-day good reason" exception.**
-   **Seek professional advice on whether you qualify for an exception under Immigration Rule SUI 13.1 (formerly Paragraph 39E).**
-   - The Home Office may disregard an overstay of 14 days or less if there was a "good reason" beyond your or your representative’s control.
-   - Examples of good reasons include emergency hospitalisation or a close family bereavement (forgetting the date is generally not accepted).
-   - This application must be made within 14 days of your permission expiring.
+4. **Get regulated immigration advice urgently and ask about the “14-day late application” exception.**  
+   UK rules allow a decision-maker, in limited circumstances, to **disregard a short period of overstaying (commonly within 14 days)** if there was a **good reason beyond your control** and it’s evidenced with the application (now reflected in Part Suitability rules, SUI 13.1; previously associated with “39E” wording). This is time-sensitive—speak to a regulated adviser/solicitor as soon as you can.
 
-5. **Gather evidence of the "good reason" for the delay.**
-   **Collect official documentation that proves why the deadline was missed.**
-   - This includes hospital admission/discharge letters, death certificates, or evidence of a significant technical failure by an adviser.
-   - Save these as high-quality PDFs or clear scans.
+5. **Collect evidence that explains the mistake (and save it safely).**  
+   Save screenshots/PDFs of:
+   - the decision letter/email and any online status page
+   - any application submission confirmation and receipt (if you filed anything)
+   - evidence of why you missed the date (hospital letters, bereavement documents, major disruption proofs, adviser errors—whatever applies)
+   Keep originals unchanged; store copies in a safe folder.
 
-6. **Prepare for a period without status even if you apply late.**
-   **Understand that applying within the 14-day window does not grant you the right to work while the application is pending.**
-   - You will remain an overstayer throughout the processing time.
-   - You cannot use the "view and prove" service to generate a valid right-to-work share code during this period.
+6. **Know this important point if you are already an overstayer:**  
+   Even if you apply within 14 days with a good reason, **your previous rights (for example, the right to work) do not automatically continue during the overstay period**. Treat work/rent decisions as “on hold” until a regulated adviser confirms your position.
 
 ## What can wait
-- You do not need to pack your bags or book a flight today; speak to a solicitor first to see if the status can be regularised in-country.
-- You do not need to explain the situation to the Home Office immediately; your solicitor will draft the formal representations.
-- You do not need to worry about a re-entry ban today; these typically only apply if you stay more than 30 days after your permission ends and leave voluntarily.
+- You do not need to decide today whether you will leave the UK, switch routes, or challenge a decision.
+- You do not need to contact your landlord/employer immediately unless you’ve confirmed your permission ended and you must act right now—first confirm the facts and get advice.
+- You do not need to write a long explanation today—first secure the correct dates and documents.
 
 ## Important reassurance
-Realising you have overstayed is a high-stress event, but the UK immigration system has specific, albeit narrow, mechanisms (like SUI 13.1) to handle genuine mistakes and emergencies. Finding an overstay early—within the first few days—significantly increases the legal options available to you.
+This panic is very common because people understandably look at the wrong date (especially BRP expiry) or miss an email/letter. If it is a real overstay, acting quickly, keeping good records, and getting regulated advice is the best way to avoid compounding the problem.
 
 ## Scope note
-This guide provides immediate stabilization steps for the first 24 hours after discovering a potential overstay. It does not replace the need for professional legal representation, which is essential for any late application.
+This is first-step, harm-reduction guidance for the first hours or day after you realise there may be an overstay. Immigration outcomes depend on your exact route, dates, and circumstances, so the next steps should be guided by regulated advice.
 
 ## Important note
-This information is for general guidance and is based on UK immigration rules as of 2026. Immigration law is subject to frequent change. If you are an overstayer, you are in breach of immigration law and should seek urgent advice from a solicitor or an OISC-regulated adviser.
+This is general information, not legal advice. UK immigration rules and decision-making practice can change and are highly fact-specific. If you think you may be an overstayer, get help from a properly regulated UK immigration adviser or solicitor before submitting an application or leaving the UK.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/immigration/problems-with-a-visa/overstayed-visa/
 - https://www.gov.uk/government/publications/applications-from-overstayers-non-family-routes/applications-from-overstayers-accessible
-- https://www.gov.uk/government/publications/offender-management/mandatory-refusal-period-accessible
-- https://www.gov.uk/return-home-voluntarily/who
-- https://www.citizensadvice.org.uk/immigration/deportation-and-living-in-the-uk-illegally/your-options-if-youre-in-the-uk-illegally/
+- https://assets.publishing.service.gov.uk/media/694183a91d8a56d23b7f0b27/Applications_from_overstayers.pdf
+- https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-suitability
+- https://www.citizensadvice.org.uk/immigration/problems-with-a-visa/overstayed-visa/
+- https://freemovement.org.uk/new-suitability-rules-will-apply-to-appendix-fm-and-other-human-rights-applications/

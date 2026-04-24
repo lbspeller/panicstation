@@ -1,88 +1,80 @@
----
+﻿---
 title: "What to do if… you collect a rental vehicle and notice damage that is not recorded on the handover check"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "rental car damage at pickup"
-  - "hire car damage not recorded"
-  - "car hire check sheet wrong"
-  - "damage not on handover form"
-  - "pre existing damage rental car"
-  - "scratch not on rental agreement"
-  - "dent not on inspection report"
-  - "collecting hire car damage"
-  - "rental vehicle condition dispute"
-  - "hire car walkaround missed damage"
-  - "car rental photos before driving"
-  - "rental car paperwork mismatch"
-  - "worried about being charged damage"
-  - "rental car damage dispute uk"
-  - "hire car damage claim prevention"
-  - "damage noticed at collection"
-  - "damage not marked on diagram"
-  - "rental car inspection checklist"
-  - "unrecorded hire car scratches"
-  - "car rental pickup dispute"
-  - "help i found a scratch on my rental car"
-  - "what do i do if my hire car is damaged"
-  - "what do i do if the rental form is wrong"
-  - "what do i do if i see a dent"
-  - "help i noticed damage on pickup"
-  - "my rental car has a chip in the glass"
-  - "my hire car is scuffed"
-  - "rental car interior stains"
-  - "hire car upholstery tears"
-  - "rental vehicle condition report error"
-last_reviewed: "2026-03-17"
+  - rental car damage at pickup
+  - hire car damage not recorded
+  - car hire check sheet wrong
+  - damage not on handover form
+  - pre existing damage rental car
+  - scratch not on rental agreement
+  - dent not on inspection report
+  - collecting hire car damage
+  - rental vehicle condition dispute
+  - hire car walkaround missed damage
+  - car rental photos before driving
+  - rental car paperwork mismatch
+  - worried about being charged damage
+  - rental car damage dispute uk
+  - hire car damage claim prevention
+  - damage noticed at collection
+  - damage not marked on diagram
+  - rental car inspection checklist
+last_reviewed: "2026-03-11"
 ---
-# What to do if… you collect a rental vehicle and notice damage that is not recorded on the handover check (UK)
 
+# What to do if… you collect a rental vehicle and notice damage that is not recorded on the handover check (UK)
 ## Short answer
-Stop the pickup immediately and document the damage with time-stamped photos before getting the rental company to update the condition report or provide written acknowledgement of the pre-existing damage.
+Stop and document the damage immediately, then get the rental company to add it to the agreement (or confirm in writing) before you drive away.
 
 ## Do not do these things
-- Don-t drive the vehicle off the premises until the discrepancy is acknowledged in writing or on the digital record.
-- Don-t sign or accept a digital handheld device if it states the vehicle is in "perfect" or "checked" condition while damage is present.
-- Don-t rely solely on verbal assurances from staff that "it is already on the system" without seeing the proof.
-- Don-t assume minor scuffs, interior stains, or glass chips are "too small" to be recorded.
-- Don-t edit or crop your evidence photos; keep the original files with full metadata intact.
+- Don’t drive off assuming your photos “will be enough” if the paperwork still says the car is undamaged.
+- Don’t sign or tap “accept” on a device if it confirms the vehicle condition is correct when it isn’t.
+- Don’t let staff brush you off with “just email later” without getting a written acknowledgement now.
+- Don’t edit photos (filters/crops/markup) in a way that removes key context—keep originals.
+- Don’t argue on the forecourt. Stay factual and focus on getting the record corrected.
 
 ## What to do now
-1. **Pause the departure process and secure the vehicle.** Park the car safely within the rental site, turn off the engine, and keep the keys in your possession.
-2. **Document the unrecorded damage immediately.** 
-   - Take wide shots of the vehicle including the number plate.
-   - Take close-up photos and a slow video walkaround of all panels, glass, and wheels.
-   - Check the interior for upholstery tears, cigarette burns, or odors and photograph these.
-   - Ensure your phone camera has "Location" and "Time" metadata enabled to prove the location and time of the photos.
-3. **Compare the vehicle condition against the official check sheet.**
-   - Identify every mark, chip, or dent that is not explicitly circled or listed on the paper diagram or digital app.
-4. **Request an immediate update to the rental agreement.**
-   - Ask the staff to add the specific damage to the record and provide a new printed or emailed copy of the "Rental Jacket" or condition report.
-   - Ensure the updated record is signed or digitally timestamped by both you and a staff member.
-5. **Secure a "paper trail" if the system cannot be updated on-site.**
-   - Ask the staff member to send you an email from an official company address confirming: "Damage [describe it] was present on vehicle [registration] at pickup [time/date]."
-   - If they refuse, send your own email to the company's central customer service address while standing with the car, attaching the photos and noting the staff member's name and the location.
-6. **Verify the company’s membership status for later escalation.**
-   - Look for the BVRLA (British Vehicle Rental and Leasing Association) logo on the desk or paperwork.
-   - Membership means the company is bound by a mandatory Code of Conduct and you have access to an independent Conciliation Service if a dispute arises.
+1. **Pause the pickup process (before leaving the site).** Park safely, engine off, and keep the keys with you.
+2. **Take clear evidence in one go (2–3 minutes).**
+   - Wide shots showing the whole car and number plate.
+   - Close-ups of each damage area from multiple angles.
+   - A short slow video walkaround.
+   - If your phone supports it, keep location/time metadata on (don’t worry if it doesn’t—clarity matters most).
+3. **Compare against the handover check/diagram and mark what’s missing.**
+   - Circle the missing damage on the printed diagram **or** screenshot the digital check and note what’s absent.
+4. **Ask for the damage to be added to the rental agreement/condition report now.**
+   - Use a simple line: “I’m happy to go once this damage is recorded on the agreement and I have a copy.”
+   - If the desk is busy, ask for a supervisor/manager rather than leaving.
+5. **If they cannot update it immediately, get written acknowledgement before you go.**
+   - Ask for an email or message from staff confirming: vehicle reg, date/time, and that the specific damage was present at pickup.
+   - If they won’t email, send your own email to the branch/customer service **while you’re there**, attaching photos, and ask them to reply confirming receipt and that the damage was pre-existing.
+6. **Get a copy of whatever record exists.**
+   - Printed condition report, emailed “rental jacket,” or screenshots of the updated digital check—anything that shows the damage is logged.
+7. **Make one UK-specific “escalation breadcrumb” now (30 seconds).**
+   - Look at your paperwork/app for membership logos or “terms and conditions” references and **note whether the company is a BVRLA member** (or take a quick photo of the page that shows it). This can matter if you later need an independent conciliation/ADR route.
+8. **If you feel pressured to leave without it being recorded, choose the least-bad option.**
+   - It’s usually safer to **insist on the correction** (even if it delays you) than to drive off with incorrect paperwork.
+   - If you must leave (e.g., closing time), make sure you have: your evidence + your email sent from site + a note of the staff name/time/location.
 
 ## What can wait
-- You do not need to determine the cause or cost of the damage now.
-- You do not need to contact your own insurance provider or excess-protection provider until a charge is actually made.
-- You do not need to start a formal complaint on the forecourt; focusing on accurate documentation is the priority.
+- You don’t need to decide right now whether you’ll complain, escalate, or pursue a refund.
+- You don’t need to debate liability, repair costs, or insurance details at pickup—just get the condition record corrected.
+- You don’t need to start a card dispute now unless a charge actually appears—if it does, contact the rental company promptly and check your card issuer’s dispute/chargeback steps and deadlines.
 
 ## Important reassurance
-Noticing unrecorded damage is common due to rapid turnaround times in rental fleets. As long as you have clear, time-stamped evidence taken before you leave the rental site, you are significantly protected against unfair damage claims. Most companies will correct the record once the error is pointed out.
+This is common and fixable. Most problems happen when the paperwork doesn’t match the vehicle; getting the condition recorded now is the single best way to prevent a surprise charge later.
 
 ## Scope note
-This guide covers first-step stabilization and evidence gathering at the point of vehicle collection. If the company attempts to charge you for this damage later, you will need to follow their formal written complaints procedure before escalating to an Alternative Dispute Resolution (ADR) scheme.
+These are first steps to protect you at collection. If a disputed damage charge appears later, follow the rental company’s complaints process in writing and keep everything in one “proof bundle.” If the company is part of an approved ADR scheme (for example, some UK rental/lease firms use BVRLA conciliation/ADR), you may be able to escalate there after complaining to the business.
 
 ## Important note
-This information is for immediate procedural guidance and does not constitute legal advice. Rental terms and conditions vary by provider. The Consumer Rights Act 2015 requires services to be provided with reasonable care and skill, and vehicles must be as described. Keep all documentation, including the original "incorrect" report and the corrected version, until at least 30 days after the rental has concluded and your deposit is returned.
+This guide is general information for immediate harm-prevention and record-keeping. It isn’t legal advice. Processes vary by rental company and location, so keep everything factual, in writing, and backed by clear evidence.
 
 ## Additional Resources
-- https://www.which.co.uk/news/article/car-hire-rip-offs-anlqd1G6hbpb
-- https://www.which.co.uk/reviews/car-hire/article/car-hire-advice/hiring-a-car-abroad-aJlDl9s3n6tl
-- https://www.which.co.uk/consumer-rights/advice/how-to-complain-about-your-car-hire-company-abBQ65F96Fj7
-- https://www.ecrcs.com/home/consumer-advice
-- https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/complain-about-a-service/
+- https://www.gov.uk/government/publications/renting-a-car-advice-for-consumers/hiring-a-car-what-to-watch-out-for
+- https://www.bvrla.co.uk/home/consumer-advice/making-a-complaint-adr
+- https://www.bvrla.co.uk/home/Consumer-Advice/making-a-complaint-adr/ADR-procedures
+- https://www.moneyhelper.org.uk/en/everyday-money/credit/how-youre-protected-when-you-pay-by-card
+- https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/getting-your-money-back-if-you-paid-by-card-or-paypal/

@@ -1,97 +1,104 @@
----
+﻿---
 title: "What to do if… you accidentally permanently delete an important folder and realise you need it today"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "permanently deleted folder"
-  - "deleted a whole folder"
-  - "emptied recycle bin by mistake"
-  - "shift delete accident"
-  - "deleted files not in bin"
-  - "missing folder suddenly"
-  - "need deleted folder today"
-  - "urgent file recovery"
-  - "recover deleted documents"
-  - "restore previous version folder"
-  - "onedrive folder deleted"
-  - "google drive folder deleted"
-  - "icloud drive files deleted"
-  - "sharepoint deleted folder"
-  - "mac bin emptied"
-  - "windows recycle bin emptied"
-  - "external drive deleted folder"
-  - "network drive missing folder"
-  - "sync deleted my files"
-  - "folder disappeared after sync"
-  - "help i deleted my work folder"
-  - "what do i do if i emptied the bin"
-  - "what do i do if folder is gone"
-  - "what do i do if i shift deleted"
-  - "my important folder is missing"
-  - "cannot find deleted folder"
-  - "accidental folder deletion"
-  - "recovery for deleted files uk"
-  - "deleted folder today urgent"
-  - "recovering from emptied trash"
-last_reviewed: "2026-03-17"
+  - permanently deleted folder
+  - deleted a whole folder
+  - emptied recycle bin by mistake
+  - shift delete accident
+  - deleted files not in bin
+  - missing folder suddenly
+  - need deleted folder today
+  - urgent file recovery
+  - recover deleted documents
+  - restore previous version folder
+  - onedrive folder deleted
+  - google drive folder deleted
+  - icloud drive files deleted
+  - sharepoint deleted folder
+  - mac trashed then emptied
+  - windows recycle bin emptied
+  - external drive deleted folder
+  - network drive missing folder
+  - sync deleted my files
+  - folder disappeared after sync
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you accidentally permanently delete an important folder and realise you need it today (UK)
 
 ## Short answer
-Stop all activity on the device to prevent data overwriting and check "secondary" bins (cloud trash, site collection recycle bins, or server snapshots) immediately.
+Stop doing anything that writes new data to that drive (downloads, installs, copying files). Then immediately check the fastest “reversible” places: cloud/service recycle bins, version history, and backups/snapshots.
 
 ## Do not do these things
-- **Do not download or install recovery software to the affected drive**, as this physical write-action can overwrite the very data you are trying to rescue.
-- **Do not continue saving new files to the same location**; if you must work, save everything to a separate USB drive or a different cloud service.
-- **Do not run disk "optimisers," "cleaners," or "defragmenters,"** which move data blocks and destroy recovery chances.
-- **Do not restart the computer repeatedly** if the files were on the primary system drive, as background system logs are written during every boot.
-- **Do not assume the data is gone forever** just because the Desktop Recycle Bin/Bin appears empty.
+- Don’t install recovery software onto the same drive the folder was on (it can overwrite what you’re trying to recover).
+- Don’t keep saving “replacement” files into the same location “to get work done” yet—use a different drive/USB or cloud location.
+- Don’t run “cleanup/optimiser” tools, disk repair, or “free space wipe” utilities.
+- Don’t reboot repeatedly “hoping it comes back” if it was on an external drive (each change increases overwrite risk).
+- Don’t assume “permanently deleted” means “impossible” until you’ve checked cloud recycle bins, version history, and backups.
 
 ## What to do now
-1. **Stop all disk-write activity immediately.**  
-   **Close all open applications that use auto-save and pause any active syncing services (such as OneDrive, Google Drive, or Dropbox).** This prevents the system from writing new data over the space where your deleted folder was located.
+1. **Freeze writes to the affected drive (30 seconds).**  
+   If the folder was on your internal drive: stop downloads/updates, close apps that autosave, and pause any syncing (OneDrive/Google Drive/iCloud/Dropbox) so it doesn’t propagate deletion across devices.
 
-2. **Verify the specific storage location of the folder.**  
-   **Determine if the folder lived on a local hard drive, a synced cloud folder, a network share (NAS), or a portable USB/SD card.** 
-   - Local folders require physical recovery or local backup checks.
-   - Cloud folders (OneDrive / SharePoint / Google) have hidden "Second Stage" bins.
+2. **Work out where the folder actually lived (1 minute).**  
+   Was it on: (a) local drive (Windows/Mac), (b) external USB drive, (c) network drive/NAS, (d) cloud-synced folder (OneDrive/Google Drive/iCloud Drive), or (e) SharePoint/Teams library? The recovery path depends on this.
 
-3. **Check cloud-specific "hidden" recycle bins.**  
-   **Log in to the web version of your service to see items that may not show up in your local folder view.**
-   - **OneDrive / SharePoint:** Look for the "Recycle bin." If it is empty, scroll to the bottom and select "Second-stage recycle bin." Items stay here for a total of 93 days.
-   - **Google Drive:** Check the "Trash." If it was emptied, a Google Workspace Admin can often restore data for an additional 25 days.
-   - **iCloud Drive:** Go to iCloud.com, select "Drive," and then "Recently Deleted." Items are held for 30 days.
+3. **Check the “easy restore” locations first (fastest wins).**
+   - **Windows:** Recycle Bin (even if you think you emptied it—confirm).
+   - **Mac:** Trash (and any “Recently Deleted” area inside cloud services).
+   - **Cloud/web:** OneDrive Recycle bin; Google Drive Trash; iCloud Drive “Recently Deleted”.
 
-4. **Use "Restore your OneDrive" for mass deletions.**  
-   **If you are a Microsoft 365 subscriber, use the "Restore your OneDrive" feature in the web settings to roll back your entire library to a point in time before the deletion (up to 30 days).**
+4. **If it was cloud-synced or a shared library, use the web restore tools (often quickest).**
+   - **OneDrive:** Check the OneDrive Recycle bin first. If a lot changed, **Restore your OneDrive** can roll back changes to an earlier time **(this feature is for Microsoft 365 subscribers and may depend on your work/school account settings)**.
+   - **SharePoint/Teams document libraries:** Check the site Recycle Bin. If it’s not there, items may still be in the “second-stage” (site collection) Recycle Bin—**a site owner/site collection admin may need to restore it**.
+   - **Google Drive:** Restore from Trash. If it’s a work/school (Google Workspace) account and the Trash was emptied, **a Workspace admin can recover deleted Drive items for up to 25 days after the Trash is emptied**.
 
-5. **Access local "Previous Versions" or snapshots.**  
-   **On Windows, right-click the parent folder (where the deleted folder used to be) and select "Restore previous versions" to check for Shadow Copies or File History backups.**
-   - On Mac, open the parent folder and enter "Time Machine" from the menu bar to scroll back through hourly snapshots.
+5. **Try “previous versions” / backups / snapshots (often works even when the bin is empty).**
+   - **Windows:** In File Explorer, go to the *parent folder* (one level above where the folder used to be) → right-click → **Restore previous versions** (this draws on File History/backups, if enabled).
+   - **Mac:** If Time Machine was set up, enter Time Machine and go back to when the folder existed, then restore it.
+   - **Network drives / work shares:** Many organisations run snapshots—ask the IT helpdesk for a “snapshot restore” of the folder path.
 
-6. **Contact your IT Service Desk for "Snapshot" recovery.**  
-   **If you are on a work or school network, ask the administrator if they have "Server-side snapshots" (VSS) or "Points-in-time" backups enabled.** These can often restore a folder in minutes even if you have emptied your own bin.
+6. **If this is for work/school: escalate early, and be specific.**  
+   Contact your IT/service desk **now**, and give:
+   - exact folder path (or screenshot of where it was),
+   - approximate deletion time,
+   - device name,
+   - whether it was OneDrive/SharePoint/Teams/network drive,
+   - whether syncing was on (and whether you paused it).  
+   Ask explicitly for: **Recycle Bin restore, version history, snapshot restore, or backup restore**.
 
-7. **Report potential personal data loss if at work.**  
-   **Notify your supervisor or Data Protection Officer (DPO) if the deleted folder contained personal information (names, contact details, or financial data) to assess UK GDPR reporting requirements.** Accidental destruction of personal data is technically a "personal data breach" under UK law.
+7. **Create a “today workaround” while recovery runs (without touching the affected drive).**
+   - Ask collaborators to resend or re-share the folder.
+   - Check email attachments, chat uploads, project portals, or build/export locations.
+   - If you have any old exports/ZIPs, copy them to a *different* location and use those temporarily.
+
+8. **If none of the above works and it’s truly urgent/valuable: stop and preserve.**  
+   The safest next step is usually professional help or a careful recovery approach that doesn’t write to the drive (for example, working from an image/clone). If it’s business-critical, treat this like an incident and escalate rather than trying random tools.
+
+9. **UK-specific: if the folder contains personal data and this could affect your organisation’s obligations, flag it promptly.**  
+   Tell your manager/IT that the incident involves potential loss of personal data so it can be assessed under UK GDPR/organisational policy (don’t guess the legal impact—just raise it early).
 
 ## What can wait
-- **You do not need to buy "pro" recovery software immediately**; most successful recoveries in 2026 come from cloud-side bins or existing system snapshots.
-- **You do not need to re-configure your backup settings right now**; focus only on the recovery of the specific missing folder.
-- **You do not need to wipe the drive or "tidy up"**; leave the file system exactly as it is until the folder is recovered.
+- You do **not** need to decide today whether you’ll “change your backup strategy” or “switch services.”
+- You do **not** need to run deep scans, buy software, or pay anyone until you’ve exhausted recycle bins, version history, and your IT/admin restore options.
+- You do **not** need to tidy the drive or “make space”—avoid changes until recovery is resolved.
 
 ## Important reassurance
-Accidental mass-deletion is a common side-effect of modern file-syncing. Because most files are now "virtualised" or synced, there are usually at least two or three "safety net" bins (local, cloud, and admin-level) that hold the data for 25 to 93 days after you think it is gone.
+This happens to competent people—especially with sync tools and keyboard shortcuts. The highest-value move is simply to stop overwriting data and use the built-in restore paths first.
 
 ## Scope note
-This guide provides first-step stabilization for accidental deletion only. It does not cover physical drive failure (clicking/grinding noises) or ransomware encryption, which require specialist forensic intervention.
+This is first-steps-only guidance to stabilise and maximise recovery chances today. Later you may want specialist IT help or a proper backup review once the immediate need is met.
 
 ## Important note
-This information is for general guidance and does not guarantee data recovery. Success depends on the specific hardware, software settings, and the amount of time/activity that has passed since the deletion. For critical business data, always follow your organization's internal IT incident protocol.
+This is general information, not professional IT, legal, or forensic advice. Recovery success depends on your device, settings, and how much new data has been written since deletion.
 
 ## Additional Resources
-- https://support.microsoft.com/en-gb/office/organize-files-and-folders-in-microsoft-onedrive-3eed202a-dee1-41fb-a719-baca4dda8e32
+- https://support.microsoft.com/en-gb/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f
 - https://support.microsoft.com/en-gb/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15
-- https://support.microsoft.com/en-gb/office/recover-an-earlier-version-of-an-office-file-169cb166-e7e2-438e-8f39-9a8927828121
+- https://support.microsoft.com/en-us/windows/backup-and-restore-with-file-history-7bf065bf-f1ea-0a78-c1cf-7dcf51cc8bfc
+- https://support.microsoft.com/en-gb/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b
+- https://support.google.com/drive/answer/1716222
+- https://support.google.com/a/answer/6052340
 - https://support.apple.com/en-gb/guide/icloud/mmae56ea1ca5/icloud
-- https://support.google.com/drive/answer/1716222?co=GENIE.Platform%3DDesktop&hl=en-GB

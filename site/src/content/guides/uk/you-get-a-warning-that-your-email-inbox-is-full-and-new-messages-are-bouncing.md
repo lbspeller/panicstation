@@ -1,108 +1,92 @@
----
+﻿---
 title: "What to do if… you get a warning that your email inbox is full and new messages are bouncing"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "inbox full warning"
-  - "mailbox full help"
-  - "emails bouncing back"
-  - "new emails rejected"
-  - "email over quota"
-  - "storage limit reached"
-  - "cannot receive emails"
-  - "cannot send emails"
-  - "email delivery failure"
-  - "552 5.2.2 error code"
-  - "quota exceeded messages"
-  - "gmail out of space"
-  - "icloud mail not receiving"
-  - "outlook mailbox full"
-  - "urgent email access"
-  - "missed verification codes"
-  - "important emails not arriving"
-  - "email account locked up"
-  - "storage cleanup steps"
-  - "email attachments too large"
-  - "what do i do if my email is full"
-  - "what do i do if emails bounce back"
-  - "what do i do if inbox is full"
-  - "what do i do if mailbox quota exceeded"
-  - "help i cant get emails"
-  - "help i am out of storage"
-  - "my gmail is full"
-  - "my outlook says out of storage"
-  - "smell of burning"
-  - "visible bounce notification"
-  - "warning icon in inbox"
-  - "red storage bar"
-last_reviewed: "2026-03-17"
+  - inbox full warning
+  - mailbox full
+  - emails bouncing back
+  - new emails rejected
+  - email over quota
+  - storage limit reached
+  - cannot receive emails
+  - cannot send emails
+  - email delivery failure
+  - 552 5.2.2 error
+  - quota exceeded
+  - gmail out of space
+  - icloud mail not receiving
+  - outlook mailbox full
+  - urgent email access
+  - missed verification codes
+  - important emails not arriving
+  - email account locked up
+  - storage cleanup
+  - email attachments too large
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… you get a warning that your email inbox is full and new messages are bouncing (UK)
 
 ## Short answer
-Free space immediately by purging large attachments and emptying the Trash/Deleted Items folder, then use an alternative address to test that mail delivery has resumed.
+Stop the bounce now by freeing space in the account (including Trash/Deleted and Spam/Junk), then immediately test delivery from a different address and tell key contacts to resend anything important.
 
 ## Do not do these things
-- **Do not click "upgrade storage" links** inside the warning email itself; navigate to your provider's official settings page manually to avoid phishing.
-- **Do not assume that missing emails will arrive automatically** once space is cleared; most systems reject the mail entirely, requiring the sender to try again.
-- **Do not expect the block to lift instantly** after deleting files or buying storage; it can take up to 48 hours for systems like Microsoft 365 or Google to recalculate your quota.
-- **Do not delete vital legal, medical, or financial records** in a rush to free space; prioritize deleting large video files, old backups, or high-res photos first.
-- **Do not try to fix the issue on multiple devices at once**, as this can cause synchronization conflicts or temporary account locks.
+- Don’t click “upgrade/renew storage” links inside unexpected emails or pop-ups — treat them as potentially fake until you verify inside your account settings.
+- Don’t bulk-delete blindly (especially work, legal, finance, tenancy, medical, or immigration emails) if you might need them later.
+- Don’t assume missing emails will “arrive later” automatically — many senders will get a bounce and nothing is queued for you.
+- Don’t keep trying to “fix it” on multiple devices at once (it can create confusion about what you deleted and where).
+- Don’t change lots of security settings while panicking unless you have confirmed you’re signed into the real provider site/app.
 
 ## What to do now
-1. **Verify your storage status through an official portal.**  
-   **Log in to your account via a web browser rather than an app to see the most accurate storage meter.**  
-   - For Google, go to `one.google.com/storage`.  
-   - For Outlook/Hotmail, go to `Settings > General > Storage`.  
-   - For iCloud, go to `Settings > [Your Name] > iCloud > Manage Account Storage`.
+1. **Get a safe access point (one device, one browser/app).**  
+   Use a device you trust, open your email provider’s official app or type the provider’s address yourself (not from an email link), and sign in.
 
-2. **Identify which service is consuming the shared quota.**  
-   **Check if the "Unified Storage" (shared space) is being filled by non-email files.**  
-   - Modern accounts (Google One, Microsoft 365) share space between email, cloud drives (OneDrive/Google Drive), and photo backups.  
-   - If your OneDrive or Google Photos is full, your email will stop working even if your inbox is nearly empty.
+2. **Confirm it’s truly a storage/quota problem (not a scam).**  
+   Look for a storage meter/usage page in your account settings. If the warning only appears in a random email, treat it as suspicious until you see the same warning inside your account.
 
-3. **Delete large items and purge the "Deleted" folders.**  
-   **Target high-impact files first to reach the safety threshold quickly.**  
-   - Search your inbox for `has:attachment larger:10M` (Google) or use the "Large Files" filter in Outlook.  
-   - Delete these items, then **manually empty the Trash/Deleted Items folder and the Spam folder.**  
-   - If using Microsoft, you must also empty the "Recoverable Items" folder if it appears.
+3. **Free space in the places that actually unblock delivery.**  
+   Do these in order (because some systems don’t free space until you purge):
+   - Empty **Deleted Items/Trash**.
+   - Empty **Junk/Spam**.
+   - Delete a small number of **very large emails** (often those with big attachments), then empty Deleted/Trash again.
+   - If you use a provider where mail storage shares space with other services (common with major providers), remove large items there too so email can function again.
 
-4. **Test the delivery flow from an external address.**  
-   **Send a test email to yourself from a different provider or ask a contact to do so.**  
-   - If the email still bounces, check if you have exceeded a "sent" limit as well as a "received" limit.  
-   - Wait at least 30 minutes for the provider's server to recognize the new free space before testing again.
+4. **Test whether email is flowing again (don’t guess).**  
+   From a different email address (or ask a friend/colleague), send a short test message to your address.  
+   - If it **bounces**, keep freeing space and try again after a few minutes.  
+   - If it **arrives**, reply back from your main inbox to confirm sending also works.
 
-5. **Contact expected senders for critical resends.**  
-   **Identify any time-sensitive communications expected during the blackout period.**  
-   - This includes bank security codes, travel tickets, medical appointment confirmations, or school notices.  
-   - Provide them with an alternative email address if the storage issue is not resolved within the hour.
+5. **Capture what you might have missed.**  
+   Make a short list of organisations/people likely to have emailed you in the last 24–72 hours (bank, payroll, school, delivery firm, healthcare, login codes). Contact them via a known channel and ask them to **resend**.
 
-6. **Follow managed account protocols for work or school.**  
-   **If your email ends in a company or university domain, contact your IT Helpdesk immediately.**  
-   - Do not delete work records without checking the retention policy.  
-   - Ask if an "Archive Mailbox" can be enabled to move old mail out of your active quota.
+6. **If it’s a work or school account, use the correct route fast.**  
+   If your email is managed by an employer/college:
+   - Contact **IT/helpdesk** and say: “Mailbox quota reached; external senders are getting bounces.”  
+   - Ask whether there’s an **archive mailbox**, **retention policy**, or **quota increase** process you must follow before deleting.
 
-7. **Forward suspicious warnings to the NCSC.**  
-   **If the "inbox full" warning feels like a scam (e.g., asking for a payment to "unfreeze" your account), forward it to report@phishing.gov.uk.**  
-   - Official providers will never ask for your password or bank details via a link in a storage warning email.
+7. **If anything looks like a scam warning, report it the UK way.**  
+   If you received an email claiming your inbox is full and urging you to click a link or pay, forward it to **report@phishing.gov.uk** (the Suspicious Email Reporting Service), then delete it.  
+   If you can’t forward it from your email system, use the reporting route on GOV.UK for suspicious emails/websites.
 
 ## What can wait
-- **Sorting old newsletters:** Deep-cleaning your labels and folders is a long-term task that doesn't need to happen during the initial crisis.
-- **Unsubscribing from lists:** Focus on the "Trash" and "Large Attachments" first; unsubscribing only prevents future clutter, it doesn't solve a current bounce.
-- **Migrating to a new provider:** Changing your primary email address is a complex process that should only be considered after access is stabilized.
+- Organising folders/labels, unsubscribing from newsletters, or setting up long-term archiving rules.
+- Changing your email address everywhere (only do this if the problem keeps recurring).
+- Paying for more storage — only consider this once you’ve verified inside your account settings that you genuinely need it.
 
 ## Important reassurance
-Reaching a storage limit is a technical threshold, not a permanent account failure. Once you move back under the limit, the server's "gate" will reopen. While messages sent during the bounce period are generally lost, you can identify what you missed by checking your calendar or recent activity and asking for a resend.
+This is common and fixable. The panic usually comes from “I might be missing something important” — once delivery is restored, you can calmly identify what bounced and ask for resends without trying to reconstruct everything right now.
 
 ## Scope note
-This guide provides first-step stabilization for digital storage crises. It does not cover technical recovery for deleted data or long-term archiving strategies.
+This is first-steps-only guidance to stop the bounce and stabilise access. If you’re on a managed work/school system, follow their IT process because deletion/retention rules may apply.
 
 ## Important note
-This information is for general guidance and does not constitute professional IT or security advice. If you believe your account storage was filled maliciously or you cannot regain access despite freeing space, contact your service provider’s official support channel. Be aware that prolonged over-quota status on some platforms (notably Microsoft) can lead to the permanent deletion of cloud drive data after 6 months.
+This guide is general information, not legal, security, or professional IT advice. If you suspect your account has been compromised (unexpected sign-ins, password reset emails you didn’t request, rules/forwards you didn’t set), prioritise account security and official support channels.
 
 ## Additional Resources
-- https://support.google.com/mail/answer/6374270?hl=en-GB
-- https://support.google.com/googleone/answer/9312312?hl=en-GB
-- https://support.google.com/googleone/answer/2375123?co=GENIE.Platform%3DDesktop&hl=en-GB
-- https://business.bt.com/help/article/email-security-and-hosting/email/my-btconnect-mailbox-is-full-how-do-i-make-space-for-emails/
-- https://support.microsoft.com/en-gb/office/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
+- https://guidebooks.google.com/storage/manage-storage-with-gmail/find-storage-in-gmail?hl=en
+- https://support.apple.com/en-gb/guide/icloud/mm6b1a7ab7/icloud
+- https://support.microsoft.com/en-us/office/mailbox-quota-exceeded-4b75b41f-dff8-4d53-9f44-cbca161618ce
+- https://learn.microsoft.com/en-us/troubleshoot/exchange/email-delivery/ndr/cannot-send-mail-mepf

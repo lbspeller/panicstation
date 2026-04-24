@@ -1,107 +1,93 @@
----
+﻿---
 title: "What to do if… you realise dependent adults relied on a relative who died and care arrangements must change quickly"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "dependent adult suddenly without carer"
-  - "caregiver death help"
-  - "main carer has died"
-  - "unpaid carer death urgent"
-  - "care arrangements collapsed"
-  - "urgent replacement care"
-  - "emergency adult social care"
-  - "out of hours social services"
-  - "emergency duty team"
-  - "safeguarding concern adult"
-  - "vulnerable adult left alone"
-  - "medication support missing"
-  - "overnight supervision needed"
-  - "dementia care crisis"
-  - "disability care after bereavement"
-  - "elderly parent care crisis"
-  - "sudden care gap"
-  - "urgent care needs assessment"
-  - "short notice home care"
-  - "crisis respite care"
-  - "what do i do if my carer died"
-  - "what do i do if a carer died suddenly"
-  - "what do i do if someone needs urgent care"
-  - "what do i do if care has stopped"
-  - "help i have no carer"
-  - "help i am a dependent without a carer"
-  - "help my relative died and i need care"
-  - "help my carer died"
-  - "my carer has passed away"
-  - "my elderly relative is alone"
-  - "visible confusion after death"
-  - "unable to prepare meals"
-  - "missed medication due to death"
-  - "no care today"
-  - "emergency social work referral"
-  - "death of primary caregiver"
-  - "social services contact after death"
-  - "urgent adult protection"
-last_reviewed: "2026-03-16"
+  - dependent adult suddenly without carer
+  - caregiver died
+  - main carer has died
+  - unpaid carer death
+  - care arrangements collapsed
+  - urgent replacement care
+  - emergency adult social care
+  - out of hours social services
+  - emergency duty team
+  - safeguarding concern adult
+  - vulnerable adult left alone
+  - medication support missing
+  - overnight supervision needed
+  - dementia care crisis
+  - disability care after bereavement
+  - elderly parent care crisis
+  - sudden care gap
+  - urgent care needs assessment
+  - short notice home care
+  - crisis respite care
+last_reviewed: "2026-03-02"
 ---
+
 # What to do if… you realise dependent adults relied on a relative who died and care arrangements must change quickly (UK)
 
 ## Short answer
-Contact the local council's Adult Social Care department (or the Regional Emergency Social Work Service in Northern Ireland) immediately to report a care breakdown and request an urgent care needs assessment.
+Make sure the dependent adult is safe and supervised today, then contact the right local adult social care service for your nation and ask for urgent support and a care needs assessment.
 
 ## Do not do these things
-- Do not leave a vulnerable person alone if they cannot safely manage medication, mobility, or nutrition.
-- Do not assume a hospital or GP will automatically coordinate a new care package without a formal referral to social services.
-- Do not agree to take over as the permanent primary carer if you cannot realistically provide the required level of safety.
-- Do not cancel existing support services like "Meals on Wheels," telecare alarms, or pharmacy delivery slots.
-- Do not attempt to move the person to a new location (e.g., your home) before assessing if their medical or equipment needs can be met there.
+- Do not leave the person alone “just for tonight” if they cannot safely manage basics (medication, mobility, toileting, eating/drinking, confusion/wandering).
+- Do not assume a hospital will “sort care” unless there’s a genuine medical emergency that needs 999/A&E.
+- Do not agree to become the new main carer on the spot if you cannot realistically do it safely.
+- Do not cancel existing paid care, meals, equipment, alarms, or key-safe arrangements until you have confirmed what is in place.
+- Do not get pulled into family arguments about wills/funerals right now if it delays arranging immediate care and supervision.
 
 ## What to do now
-1. **Confirm the immediate safety of the dependent adult.**  
-   - If the person is currently alone and unable to protect themselves, or if there is a medical emergency, call **999**.
-   - If they are safe for the next hour but require supervision, arrange for a trusted person to remain with them physically.
+1. **Stabilise immediate safety (next 1–2 hours).**  
+   Check: Are they alone? Do they have food, heat, safe access to a toilet, and any essential medication due today? If you think they’re in **immediate danger** (or have an urgent medical emergency), call **999**.
 
-2. **Contact the correct statutory service for urgent intervention.**  
-   - **In England and Wales:** Call the **local council Adult Social Care** department. If it is after 5:00 PM or a weekend, ask for the **Emergency Duty Team (EDT)**.
-   - **In Scotland:** Call the **local council Social Work** department or the **Health and Social Care Partnership**.
-   - **In Northern Ireland:** Call the **Regional Emergency Social Work Service (RESWS)** on **0800 1979 995** if it is outside normal office hours. During office hours, contact the local **Health and Social Care Trust**.
+2. **Create a “today plan” for supervision.**  
+   Decide who is physically with them for the next 6–12 hours (trusted relative/friend/neighbour), and who is on the phone as backup. If nobody can cover safely, treat it as urgent and move to step 3 immediately.
 
-3. **Use specific "trigger" language to escalate the request.**  
-   - State clearly: **"The primary carer has died, care has collapsed, and this is a safeguarding concern because the adult is at risk of neglect/harm."**
-   - In Scotland, use the term **"Adult Support and Protection"** concern.
-   - Request an **"Urgent Care Needs Assessment"** and ask for **"interim emergency care"** to be put in place today.
+3. **Contact the right adult social care service for your part of the UK and ask for urgent help today.**  
+   Use the fastest route you can reach:
+   - **England/Wales:** your **local council** Adult Social Care (ask for the **out-of-hours / emergency duty team** if it’s outside office hours).  
+   - **Scotland:** your **local council social work / Health & Social Care Partnership** access point.  
+   - **Northern Ireland:** your local **Health & Social Care Trust** adult services/social services.  
+   Say clearly: **“Their main carer has died and they cannot be left safely — we need urgent support today.”** Ask for urgent interim support and a **care needs assessment**.
 
-4. **Address immediate medical or medication gaps via NHS 111.**  
-   - If medication has been missed or has run out, call **NHS 111**. 
-   - Ask for a referral to the **Community Pharmacist Consultation Service (CPCS)** for an emergency supply of essential medicine.
-   - Do not adjust or double medication doses without direct clinical advice from a pharmacist or doctor.
+4. **If there is any risk of harm, neglect, exploitation, or the person is not safe at home, use safeguarding language.**  
+   Tell the service you have an **adult safeguarding / adult protection concern** (for example: left without care, unable to protect themselves, at risk of self-neglect). This helps route the situation urgently.
 
-5. **Identify and contact any existing private care providers.**  
-   - Check the house for a "care folder," rotas, or ID badges. 
-   - Inform the agency of the death and ask if they can provide emergency "sit-in" or extra visits while the council processes the urgent assessment.
+5. **If the person already had any paid care or support, contact the provider(s) immediately.**  
+   Look for care agency details, rotas, alarm/telecare paperwork, or invoices. Ask what visits are scheduled, who holds keys, and whether they can add extra calls at short notice while the council/trust assesses.
 
-6. **Gather a "crisis summary" to give to responders.**  
-   - Write down the person’s full name, date of birth, and NHS number if known.
-   - List the top three things they cannot do safely (e.g., "cannot use the toilet alone," "wanders due to dementia," "cannot prepare food").
-   - Note the location of house keys or key-safe codes for emergency access.
+6. **If you need urgent clinical advice to keep them safe, use NHS urgent care routes.**  
+   Use **NHS 111** (or their GP if open) if you’re worried about missed medication, sudden confusion/delirium, falls risk, pressure areas, or you’re unsure whether a same-day clinical assessment is needed.  
+   If medication has been missed, **do not “double up” doses unless a clinician/pharmacist tells you to**.
+
+7. **Write down three facts to repeat to every service (to avoid retelling in panic).**  
+   - Who the person is and where they are  
+   - What they cannot do safely alone (specific tasks)  
+   - What has changed (carer died, and when)  
+   If you can, add meds/allergies, diagnoses (if known), and who can access the home (keys/key-safe).
 
 ## What can wait
-- You do not need to decide on permanent residential care or long-term home-care packages today.
-- You do not need to settle the deceased person's estate or financial affairs before the dependent adult is safe.
-- You do not need to provide proof of the dependent adult's savings or assets during the initial emergency contact.
-- You do not need to organise the funeral while the immediate care crisis is unresolved.
+- You do not need to decide long-term living arrangements (care home vs home care) today.
+- You do not need to sort finances, property, or funeral arrangements before safety is covered.
+- You do not need to “prove eligibility” in detail before requesting urgent help.
+- You do not need to resolve family disagreements about responsibility right now.
 
 ## Important reassurance
-A sudden breakdown in care following a death is a recognised emergency. Social services departments have specific protocols (Emergency Duty Teams) designed to handle these exact scenarios. You are not expected to have all the answers or to provide professional-grade care yourself while in the early stages of bereavement.
+This kind of sudden care gap after a death is more common than it feels in the moment. Feeling panicked, guilty, or “behind” is a normal response. Focusing on immediate safety and getting the right adult social care service involved is the right first move.
 
 ## Scope note
-This guide provides first-step stabilization for an acute care breakdown. Long-term funding assessments, legal Lasting Power of Attorney (LPA) activations, and permanent housing decisions require separate professional consultation once the immediate safety of the adult is secured.
+These are first steps to keep someone safe and get urgent support moving. Longer-term decisions (funding, ongoing care packages, legal authority like powers of attorney) can be handled once the immediate risk is under control.
 
 ## Important note
-This information is for guidance only and does not constitute legal or medical advice. Procedures vary by local authority. If a vulnerable adult is in immediate physical danger, contact the police or ambulance service via 999.
+This is general information, not legal or medical advice. If anyone is in immediate danger, call 999. If you’re unsure whether the person can be safely left alone, treat it as urgent and involve adult social care and/or NHS 111.
 
 ## Additional Resources
 - https://www.gov.uk/apply-needs-assessment-social-services
 - https://www.nhs.uk/social-care-and-support/help-from-social-services-and-charities/getting-a-needs-assessment/
-- https://www.nhs.uk/social-care-and-support/support-and-benefits-for-carers/carer-assessments/
-- https://www.ageuk.org.uk/information-advice/care/helping-a-loved-one/my-caring-role-has-changed/
-- https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once
+- https://www.careinfoscotland.scot/topics/how-to-get-social-care-support/assessment-of-your-care-needs/
+- https://www.nidirect.gov.uk/articles/arranging-health-and-social-care
+- https://www.nidirect.gov.uk/contacts/health-and-social-care-trusts
+- https://www.scie.org.uk/safeguarding/adults/care-act-safeguarding-adults/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/

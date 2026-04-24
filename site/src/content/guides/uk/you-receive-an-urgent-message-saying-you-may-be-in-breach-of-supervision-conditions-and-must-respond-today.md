@@ -1,87 +1,78 @@
----
+﻿---
 title: "What to do if… you receive an urgent message saying you may be in breach of supervision conditions and must respond today"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "breach of supervision conditions"
-  - "supervision conditions message"
-  - "urgent probation message"
-  - "respond today message"
-  - "what do i do if i get a breach text"
-  - "what do i do if probation message me"
-  - "what do i do if i missed my appointment"
-  - "what do i do if licence conditions breach"
-  - "help i got a message from probation"
-  - "help i received an urgent legal text"
-  - "help i might be in breach"
-  - "help i missed my supervisor call"
-  - "my probation officer sent a link"
-  - "my supervision conditions urgent response"
-  - "my licence breach warning"
-  - "my offender manager text today"
-  - "smell of a scam official message"
-  - "unrecognized number official threat"
-  - "suspicious link in probation text"
-  - "demand for money official breach"
-  - "probation breach panic"
-  - "recall to prison threat message"
-  - "community order breach notification"
-  - "supervision breach text"
-  - "probation message verification"
-  - "licence conditions contact"
-  - "offender manager urgent"
-  - "prison recall message"
-  - "supervision alert"
-  - "urgent official notification"
-last_reviewed: "2026-03-17"
+  - probation breach message
+  - breach of licence conditions text
+  - supervision conditions urgent message
+  - offender manager contact today
+  - probation officer message verify
+  - suspicious probation call
+  - police impersonation message
+  - urgent official message scam
+  - respond today threat
+  - licence conditions misunderstanding
+  - recall to prison worry
+  - community order supervision issue
+  - parole licence supervision uk
+  - unknown number official warning
+  - message with link from probation
+  - verify before replying
+  - keep evidence of message
+  - missed appointment breach panic
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you receive an urgent message saying you may be in breach of supervision conditions and must respond today (UK)
 
 ## Short answer
-Immediately verify the message through an official, independent contact number you already have for your supervising office before clicking any links or providing information.
+Pause and verify it’s real using contact details you already trust (your supervising officer/service), then respond today through an official channel if it’s genuine.
 
 ## Do not do these things
-- Do not click any links, scan QR codes, or download attachments included in the message.
-- Do not call back the number that sent the message or any number provided within the text.
-- Do not provide your National Insurance number, bank details, or any One-Time Passcodes (OTP) even if the message claims they are needed for "verification".
-- Do not make any payments or "fines" demanded to resolve the breach today.
-- Do not reply with personal information or admissions of a breach until you have confirmed who you are talking to.
-- Do not ignore the message entirely; a genuine breach notice requires a response to avoid formal recall or court action.
+- Don’t click links, download attachments, or scan QR codes from the message until you’ve verified it independently.
+- Don’t call back a number given in the message if you don’t already recognise it (use your saved supervision contact details instead).
+- Don’t send money, bank details, or ID photos because of a “today” threat (that’s a common scam pattern).
+- Don’t reply in panic with a long explanation or admissions. Keep it brief until you know who you’re speaking to.
+- Don’t ignore it and hope it goes away if there’s any chance it’s genuine.
 
 ## What to do now
-1. **Take a screenshot of the entire message including the sender's number or email address.** This ensures you have a record of the exact wording and timing if you need to prove you were targeted by a scam or if the message itself is evidence of a procedural error.
-2. **Find your original supervision, licence, or community order paperwork.** Look for the specific name of your supervising officer (Offender Manager or Social Worker) and the official office telephone number printed on your appointment letters or induction pack.
-3. **Contact your supervising office directly using the number from your paperwork.** If you cannot find your paperwork, use an official government search to find the correct office:
-   - **England and Wales:** Use the GOV.UK Probation Finder to locate your local Probation Service office.
-   - **Scotland:** Contact the Justice Social Work department at your local council or call the main council switchboard.
-   - **Northern Ireland:** Contact your supervising officer or the Probation Board for Northern Ireland (PBNI) at their head office on 028 9052 2522.
-4. **Ask the duty officer or your supervisor to confirm if a message was sent to you today.** If they confirm it is genuine, ask for the specific details of the alleged breach (e.g., a missed appointment or failed residency check) and follow their instructions for a formal response.
-5. **Report a suspicious message if the office confirms they did not send it.**
-   - Forward suspicious text messages to **7726** (a free service for all UK mobile providers).
-   - If the message was an email, forward it to **report@phishing.gov.uk**.
-6. **Report the attempted fraud to the appropriate national body.**
-   - **England, Wales, and Northern Ireland:** Report to **Report Fraud** (the successor to Action Fraud) online at reportfraud.police.uk or by calling 0300 123 2040.
-   - **Scotland:** Report the matter to **Police Scotland** by calling **101**.
-7. **Contact your bank immediately if you shared any financial details or clicked a link.** Ask them to place a hold on your accounts and monitor for unauthorized transactions.
-8. **Seek legal advice if the breach is confirmed as genuine.** Contact the solicitor who represented you at court or find a legal aid provider specializing in criminal justice and prison law to discuss your rights and next steps.
+1. **Capture and preserve the message.** Screenshot it (including the number/email shown), and note the time/date you received it. Don’t delete it yet.
+2. **Check your own paperwork and recent contact.** Look for your supervision/licence/community order documents and the contact details you were given (names, office, phone numbers, appointment letters).
+3. **Verify using a trusted route (not the message). Use the route that matches where you are in the UK:**
+   - **England & Wales:** contact your offender manager/probation officer using the number/email you already use, or call your **local Probation Service office** via official GOV.UK contact listings.
+   - **Scotland:** contact your **supervising social worker / criminal justice social work** contact listed on your order paperwork or local council justice social work contact.
+   - **Northern Ireland:** contact your supervising officer/service via your paperwork, or contact the **Probation Board for Northern Ireland (PBNI)** using official contact details.
+4. **Once verified, send a short “received + instructions” reply today.** For example:
+   - “I received your message today. Please confirm what you need me to do and by when. I’m available at [times].”
+   Keep it factual. Ask what condition they believe is breached and what they want you to do next (call, attend, provide specific information).
+5. **If the message seems suspicious, treat it as a possible scam.** Warning signs include: demands for money, pressure to act “within hours”, unusual links, requests for passwords/one-time codes, or a tone that doesn’t match prior contact.
+6. **If you think it’s a scam:**
+   - **Forward suspicious texts to 7726** (free) to report to your mobile provider.
+   - **Report the scam** using the UK fraud/cybercrime reporting route that applies where you are (for example, **Report Fraud** in England/Wales/Northern Ireland; **Police Scotland via 101** in Scotland).
+7. **If you clicked a link, shared details, or paid anything:** contact your bank/payment provider immediately, change any reused passwords from a safe device, and keep screenshots/receipts.
+8. **If you’re told police want to speak to you today:** you can ask for legal advice before answering detailed questions or attending an interview. If you’re asked to attend, ask who is requesting it, the station/location, and your rights to a solicitor.
+9. **If you feel at immediate risk right now** (for example, threats of violence or someone pressuring you in real time), call **999**. If it’s urgent but not an emergency, call **101**.
 
 ## What can wait
-- You do not need to prepare a written defense or gather evidence for the breach in the next few minutes.
-- You do not need to decide whether to admit or deny the breach during the first verification call.
-- You do not need to panic about immediate arrest; verification usually takes precedence over automated "today" threats.
+- You do not need to write a full statement, gather “proof”, or argue your case right now.
+- You do not need to decide today whether to make a complaint about how the message was sent.
+- You do not need to assume the worst (for example, immediate recall) based only on a single message—verify first.
 
 ## Important reassurance
-It is normal to feel an immediate sense of panic when receiving a message about a legal breach. Official supervision services do sometimes use text or email, but scammers also use these "urgent" tactics because they know the fear of recall is a powerful motivator. Taking ten minutes to find your paperwork and call a trusted number is the safest way to protect your status.
+A “respond today” message is designed to trigger panic—sometimes because it’s genuinely time-sensitive, and sometimes because scammers rely on fear. Taking a moment to verify the sender through a trusted route is a protective step, not “ignoring it”.
 
 ## Scope note
-This guide covers first-step stabilization and verification only. It does not provide legal defense strategies for confirmed breaches or advice on the merits of a recall decision.
+These are first steps to (1) confirm whether the message is genuine and (2) avoid a harmful response. If it’s real, next steps depend on your order/licence and what’s alleged, and you may want legal advice quickly.
 
 ## Important note
-This information is for guidance and does not constitute legal advice. Procedures for supervision and breach vary between England, Wales, Scotland, and Northern Ireland; always rely on the specific instructions provided in your official court or licence documents.
+This is general information, not legal advice. If you’re unsure whether the contact is genuine or you feel pressured to act immediately, prioritise verification through official channels and consider getting legal advice before answering detailed questions.
 
 ## Additional Resources
-- https://www.gov.uk/guide-to-probation/meetings-with-your-offender-manager
-- https://www.gov.uk/guide-to-probation/if-you-break-the-rules-of-your-probation
-- https://www.gov.uk/guide-to-probation/being-taken-back-to-prison
-- https://www.gov.uk/government/collections/probation-finder
-- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.gov.uk/guide-to-probation
+- https://www.gov.uk/government/organisations/probation-service
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
+- https://www.reportfraud.police.uk/faqs/
+- https://www.pbni.org.uk/contact-us
+- https://www.gov.scot/publications/community-payback-order-practice-guidance-2/pages/6/

@@ -1,91 +1,77 @@
----
+﻿---
 title: "What to do if… you find a small device aimed at your bed or shower in a hotel or rental"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "hidden camera in hotel room"
-  - "hidden camera in shower"
-  - "suspicious device aimed at bed"
-  - "spy camera in rental"
-  - "covert recording device"
-  - "bathroom privacy breach"
-  - "bedroom privacy breach"
-  - "hotel room surveillance"
-  - "vacation rental hidden camera"
-  - "undisclosed indoor camera"
-  - "found camera in accommodation"
-  - "filmed without consent"
-  - "privacy violation while travelling"
-  - "suspicious usb charger camera"
-  - "suspicious smoke detector camera"
-  - "small device pointed at me"
-  - "accommodation safety concern"
-  - "voyeurism concern"
-  - "sexual privacy violation"
-  - "hotel incident report"
-  - "rental platform safety case"
-  - "video voyeurism prevention act"
-  - "reporting hidden cameras usa"
-  - "found hidden camera help"
-  - "camera aimed at bed"
-  - "camera aimed at shower"
-  - "device in hotel room"
-  - "device in shower"
-  - "device in rental"
-  - "small device in hotel"
-  - "small device in rental"
-  - "what do i do if i find a camera"
-  - "what do i do if i find a device"
-  - "help i found a camera in my room"
-  - "help i found a device in my hotel"
-  - "my room has a hidden camera"
-  - "my rental has a hidden camera"
-last_reviewed: "2026-03-17"
+  - hidden camera in hotel room
+  - hidden camera in shower
+  - suspicious device aimed at bed
+  - spy camera in rental
+  - covert recording device
+  - bathroom privacy breach
+  - bedroom privacy breach
+  - hotel room surveillance
+  - vacation rental hidden camera
+  - undisclosed indoor camera
+  - found camera in accommodation
+  - filmed without consent
+  - privacy violation while travelling
+  - suspicious usb charger camera
+  - suspicious smoke detector camera
+  - small device pointed at me
+  - accommodation safety concern
+  - voyeurism concern
+  - sexual privacy violation
+  - hotel incident report
+  - rental platform safety case
+last_reviewed: "2026-03-13"
 ---
-# What to do if… you find a small device aimed at your bed or shower in a hotel or rental (USA)
 
+# What to do if… you find a small device aimed at your bed or shower in a hotel or rental (USA)
 ## Short answer
-Immediately leave the room and relocate to a secure, public area before contacting local law enforcement and the booking platform to report the privacy violation.
+Leave the room and get to a safer, public place first, then contact law enforcement and the accommodation/platform to relocate you and document what you found.
 
 ## Do not do these things
-- Do not remain in the room or continue using the bathroom or sleeping area.
-- Do not touch, dismantle, or attempt to remove the device or its memory card.
-- Do not plug the device into any of your own electronics (laptop, phone, or charger).
-- Do not confront the host, property owner, or hotel staff while you are alone in a private space.
-- Do not alert the property management until you have spoken with law enforcement, as this may allow for remote data deletion.
+- Don’t keep using the room/shower/bed “just for tonight.”
+- Don’t confront the host, cleaner, or hotel staff alone or behind a closed door.
+- Don’t take the device apart, remove memory cards, or plug it into your phone/laptop.
+- Don’t start doing a full sweep for other devices while you’re alone.
+- Don’t post about it publicly while you’re still on-site.
 
 ## What to do now
-1. **Relocate to a safe, public area immediately.** **Pack your essential belongings (ID, phone, wallet, medications, and keys) and leave the room or property to find a secure pause in a lobby, hallway, or public street.** 
-2. **Call 911 if you feel you are in immediate physical danger.** **If you believe someone is actively monitoring you or may return to the room, contact emergency services right away for a police response.**
-3. **Contact the local police non-emergency line if you are safe but wish to report the crime.** **Explain that you have found a surveillance device in a private area where you had a reasonable expectation of privacy; ask for an officer to be dispatched and obtain an incident report number.**
-   - If you do not know the non-emergency number, dial 311 or use a search engine to find the local precinct's direct line.
-4. **Document the device only if it is safe to do so without staying in the room.** **Take one or two clear photos from a distance that show the device in its location (e.g., inside a smoke detector or pointed at the bed) and note the exact time and date.**
-5. **Report the incident to the hotel management or rental platform from a safe distance.** **Once police are involved or you are off-site, contact the platform (such as Airbnb or VRBO) to report a safety violation and request immediate relocation and a full refund.**
-   - For Airbnb: Use the "Safety" or "Urgent" contact option in the app; note that all indoor cameras are banned globally as of 2024.
-   - For VRBO: Contact VrboCare™ or their safety line to report the surveillance policy violation.
-6. **Access confidential support through RAINN.** **If you feel violated or distressed, you can contact the National Sexual Assault Hotline 24/7 for support and guidance on your options.**
-   - Call 800-656-HOPE (4673)
-   - Access the online chat at rainn.org
-   - Use the mobile app or text services as listed on the RAINN official site.
+1. **Get to a safer pause.** Put on clothes, grab essentials (phone, keys, wallet, ID, meds), and go to a **public area** (hallway, lobby/front desk, outside).
+2. **Call for help based on urgency.**
+   - If you feel in danger or someone may return: **call 911**.
+   - If you’re safe but want to report: ask the front desk/security to help you contact the **local police non-emergency** line, or look it up from a safe public place. Ask for an **incident/report number**.
+3. **Ask to be moved immediately (and avoid going back alone).**
+   - **Hotel:** ask the manager to move you now and create an **incident report** (ask for the report number and the manager’s name).
+   - **Rental/platform:** contact the platform’s safety/support line and request **urgent rebooking/relocation** and a safety investigation.
+4. **Preserve the situation with minimal handling (only if it feels safe).** If you can do this without increasing risk, take **1–2 quick photos** showing the device **in place** and the wider location, and write down the **time/date**, room number or listing address, and booking details. If it doesn’t feel safe, **skip this** and focus on leaving and calling law enforcement/support.
+5. **Ask for records to be kept.** Request that the hotel/platform **retain** anything that could help later (for example: key-card/access logs, staff entry records, and any relevant hallway/security camera footage). Ask who is responsible for preserving this and note their name.
+6. **Get confidential support (optional, but available 24/7).** You can contact **RAINN’s National Sexual Assault Hotline** for support and options:
+   - Call **800-656-HOPE (4673)**
+   - Chat via the hotline page
+   - Text **“HOPE”** to **64673**
 
 ## What can wait
-- You do not need to identify the specific make or model of the device or search the rest of the property for more cameras.
-- You do not need to decide immediately whether you will pursue a civil lawsuit or press formal charges.
-- You do not need to respond to messages or calls from the host or hotel management while you are still processing the initial shock.
-- You can wait to post reviews or social media updates until you are in a long-term safe location.
+- You do **not** have to decide right now whether to file a formal report, give a statement, or pursue a case.
+- You do **not** need to identify the device model, find more devices, or figure out who did it.
+- You can wait to write reviews, post online, or negotiate refunds until you’re safe and supported.
 
 ## Important reassurance
-Finding a surveillance device in a private space is a significant violation of your privacy and may be a criminal offense under the Video Voyeurism Prevention Act or state privacy laws. Feeling startled, violated, or confused is a standard response to this situation. Taking steps to leave and involve authorities is the most effective way to protect yourself and preserve your legal options.
+This can feel violating and disorienting even if you don’t know whether anything was recorded. Leaving immediately and asking for help is a reasonable response.
 
 ## Scope note
-This guide provides first-step stabilization and safety actions only. Further steps, such as seeking legal counsel or long-term therapeutic support, should be addressed after you have reached a permanent safe location.
+These are first steps only: safety, documentation, and preserving options. Later steps (formal complaints, legal advice, longer-term support) can come after you’re out of the situation.
 
 ## Important note
-This information is for safety guidance and does not constitute legal advice. Laws regarding surveillance vary by state; law enforcement and legal professionals are the only qualified sources for specific legal interpretations of your situation.
+This guide is general information for immediate safety and next actions, not legal advice. If you are in immediate danger, call 911.
 
 ## Additional Resources
+- https://news.airbnb.com/an-update-on-our-policy-on-security-cameras/
 - https://www.airbnb.com/help/article/3061
 - https://www.airbnb.com/help/article/2914
-- https://www.airbnb.com/help/article/3060
-- https://www.airbnb.com/help/article/2868
-- https://www.law.cornell.edu/uscode/text/18/1801
+- https://help.vrbo.com/articles/What-is-HomeAway-s-policy-on-surveillance-devices-at-a-property
+- https://www.vrbo.com/tlp/trust-and-safety/use-of-surveillance-policy
+- https://rainn.org/help-and-healing/hotline/
+- https://rainn.org/learn-about-rainn/contact-us/

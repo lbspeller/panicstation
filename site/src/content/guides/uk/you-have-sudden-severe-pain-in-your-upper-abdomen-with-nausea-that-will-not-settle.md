@@ -1,106 +1,79 @@
----
+﻿---
 title: "What to do if… you have sudden severe pain in your upper abdomen with nausea that will not settle"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "sudden severe upper abdominal pain"
-  - "severe upper tummy pain"
-  - "upper stomach pain with nausea"
-  - "nausea that will not settle"
-  - "severe epigastric pain"
-  - "severe pain under ribs"
-  - "upper abdominal pain radiating back"
-  - "upper abdominal pain after eating"
-  - "persistent nausea and stomach pain"
-  - "belly pain and vomiting feeling"
-  - "intense stomach pain came on suddenly"
-  - "sharp pain in upper abdomen"
-  - "severe abdominal pain emergency"
-  - "worried it is pancreatitis"
-  - "worried it is gallbladder pain"
-  - "pain in upper abdomen with fever"
-  - "upper abdominal pain with chest pain"
-  - "pain in upper abdomen at night"
-  - "what do i do if my tummy hurts suddenly"
-  - "what do i do if i am vomiting and have stomach pain"
-  - "what do i do if the pain goes to my back"
-  - "what do i do if i have severe upper belly pain"
-  - "help i have severe pain under my ribs"
-  - "help i cannot stop being sick and my stomach hurts"
-  - "help i have a sharp pain in my upper abdomen"
-  - "help my upper stomach hurts so much"
-  - "yellow skin and stomach pain"
-  - "yellow eyes and upper abdominal pain"
-  - "dark urine and tummy pain"
-  - "pale stools and upper abdominal pain"
-  - "vomiting with diabetes"
-  - "pain worse after fatty food"
-  - "pain under right ribs"
-  - "pain under left ribs"
-  - "stomach pain feels like a tight band"
-  - "stomach pain and fast heartbeat"
-  - "stomach ache and fever"
-  - "sever abdominal pain"
-  - "stomach pain with nausea"
-last_reviewed: "2026-03-16"
+  - sudden upper abdominal pain
+  - severe upper tummy pain
+  - upper stomach pain with nausea
+  - nausea that will not settle
+  - severe epigastric pain
+  - severe pain under ribs
+  - upper abdominal pain radiating back
+  - upper abdominal pain after eating
+  - persistent nausea and stomach pain
+  - belly pain and vomiting feeling
+  - intense stomach pain came on suddenly
+  - sharp pain in upper abdomen
+  - severe abdominal pain emergency
+  - worried it is pancreatitis
+  - worried it is gallbladder pain
+  - pain in upper abdomen with fever
+  - upper abdominal pain with chest pain
+  - pain in upper abdomen at night
+last_reviewed: "2026-02-21"
 ---
+
 # What to do if… you have sudden severe pain in your upper abdomen with nausea that will not settle (UK)
 
 ## Short answer
-Treat this as a medical emergency. If the pain is severe, sudden, or accompanied by breathing difficulties, call **999** immediately or go to the nearest **A&E** department.
+Treat this as urgent. If the pain is severe, came on suddenly, or you feel very unwell, call **999 (or 112)** or go to **A&E** now.
 
 ## Do not do these things
-- Do not attempt to drive yourself to the hospital if the pain is severe, as you may become unable to control the vehicle.
-- Do not eat or drink anything until you have been medically assessed, as this can worsen conditions like pancreatitis or gallbladder inflammation.
-- Do not take aspirin or ibuprofen if you suspect a stomach ulcer or internal bleeding, as these can increase bleeding risk.
-- Do not wait for a GP appointment if the pain is stopping you from standing up or is steadily worsening.
-- Do not ignore signs of yellowing skin or eyes (jaundice), as this indicates a serious issue with the liver or gallbladder.
+- Do not “wait it out” if the pain is severe, sudden, worsening, or stopping you from moving/standing normally.
+- Do not drive yourself to A&E if you’re in severe pain, dizzy, faint, or vomiting—use **999/112** or get someone else to take you.
+- Do not keep eating or drinking to “settle it” if nausea won’t stop (it can make some causes worse).
+- Do not take extra doses of painkillers or mix medicines beyond the label to try to overpower the pain.
+- Do not ignore **chest pain**, trouble breathing, collapse/fainting, or pain spreading to your back/shoulder.
 
 ## What to do now
-1. **Call 999 immediately if you have any "red flag" symptoms.**  
-   Request an ambulance or go to A&E now if:  
-   - the pain is so severe you cannot move or find a comfortable position  
-   - the pain came on "like a thunderclap" (instantly at maximum intensity)  
-   - you have chest pain, shortness of breath, or feel like there is a heavy weight on your chest  
-   - you are vomiting blood or material that looks like coffee grounds  
-   - your stools are black, sticky, and extremely smelly (tar-like)  
-   - you have a high fever (above 38C) and are shivering uncontrollably  
-   - you have diabetes and have started vomiting (risk of DKA)  
-   - you notice yellowing of your skin or the whites of your eyes  
-   - you are pregnant and have severe upper abdominal pain
-2. **Contact NHS 111 by phone if the pain is persistent but not life-threatening.**  
-   Call **111** for an urgent clinical assessment if the pain is not settling or is getting worse.  
-   - Tell the call handler exactly where the pain is (e.g., "under the right ribs" or "top middle of the tummy").  
-   - Mention if the pain travels through to your back or up to your shoulder.  
-   - Report if the pain started shortly after eating a large or fatty meal.
-3. **Adopt a position of comfort while waiting for help.**  
-   **Leaning forward** or sitting up while pulled into a ball often helps relieve upper abdominal pain (especially pancreatitis), whereas lying flat on your back may make it feel worse.
-4. **Gather your essential information for the medical team.**  
-   Prepare a list of:  
-   - exactly when the pain started and what you were doing  
-   - all medications you have taken in the last 24 hours, including herbal supplements  
-   - any history of gallstones, ulcers, or reflux  
-   - your most recent temperature reading if you have a thermometer.
-5. **Alert someone nearby that you are unwell.**  
-   If you are alone, call a friend or neighbor and ask them to stay on the line or come to your door. If your condition deteriorates or you feel faint, they can provide information to emergency responders.
+1. **Check for “call 999/112 / go to A&E now” signs — and act on them.**  
+   Call **999/112** (or go to A&E) if any apply:  
+   - the pain **came on very suddenly** or is **severe**  
+   - it **hurts when you touch your stomach**  
+   - you have **chest pain** or you **cannot breathe properly**  
+   - you feel faint, someone has **collapsed**, or you’re becoming confused  
+   - you’re **vomiting blood** (or vomit looks like coffee grounds)  
+   - your poo is **bloody** or **black and sticky**  
+   - you **cannot pee**, or you **cannot poo or fart**  
+   - you have **diabetes and you’re vomiting**  
+   - you are **pregnant or could be pregnant** and the pain is severe, worsening, or you feel unwell
+2. **If none of the above but it’s still severe/persistent:** contact **NHS 111 now** (phone or online) for urgent triage.  
+   Say clearly: “**sudden severe upper abdominal pain with nausea that won’t settle**”, and tell them how long it’s lasted and whether it’s worsening.
+3. **Make yourself safer while help is arranged (this is not to delay getting assessed).**  
+   - Sit upright or lie on your side with knees bent—choose the position that eases pain most.  
+   - Avoid food. If you can tolerate it and you’re not actively vomiting, take only small sips of water for comfort.
+4. **Prepare information for the clinician/call-handler (it speeds decisions).**  
+   Write down: when it started, exact location (upper middle / right / left), if it spreads to back/shoulder, any fever/shivers, vomiting, pregnancy possibility, recent heavy alcohol intake, new meds (especially painkillers), and past gallstones/ulcers/pancreatitis.
+5. **If you’re alone:** message/call someone to stay with you or be on the phone while you call 111/999. If you become faint/confused, that person can call for help.
 
 ## What can wait
-- You do not need to diagnose yourself or determine if it is "just" indigestion.
-- You do not need to worry about work or school commitments for the next 24 hours.
-- You do not need to pack a large bag; just grab your phone, charger, and any regular medications.
+- You do not need to figure out the cause right now.
+- You do not need to decide today about tests, surgery, or long-term changes.
+- You do not need to “prove” it’s serious before seeking help—your job is to get assessed safely.
 
 ## Important reassurance
-It is normal to feel highly anxious when experiencing sudden, severe pain in the upper body. The NHS is designed to handle undifferentiated abdominal pain quickly; getting an assessment is the most effective way to reduce the risk of complications and receive pain relief.
+Severe upper abdominal pain with nausea can feel frightening and overwhelming, especially when it won’t settle. Getting urgent assessment is a protective, sensible step—many serious causes look similar early on, and it’s not something you can safely sort out alone in the moment.
 
 ## Scope note
-This guide is for first-step stabilization and emergency triage only. It does not replace professional clinical judgment or provide a diagnosis.
+This is first-steps-only guidance to keep you safe and get you to the right service. Further decisions should be made with a clinician after assessment.
 
 ## Important note
-Abdominal pain can be a symptom of many different conditions, some of which require immediate surgery or intensive medical management. Always prioritize the advice of the 999 or 111 clinician over this guide.
+This is general information, not a diagnosis. If symptoms are severe, sudden, worsening, or you feel very unwell, seek urgent medical help immediately.
 
 ## Additional Resources
-- https://www.nhs.uk/conditions/acute-pancreatitis/
-- https://www.guysandstthomas.nhs.uk/health-information/acute-pancreatitis
-- https://www.nhs.uk/conditions/gallstones/
 - https://www.nhs.uk/symptoms/stomach-ache/
+- https://111.nhs.uk/
+- https://www.nhsinform.scot/illnesses-and-conditions/stomach-liver-and-gastrointestinal-tract/stomach-ache-and-abdominal-pain/
 - https://www.uhsussex.nhs.uk/resources/abdominal-pain-ed-leaflet/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/

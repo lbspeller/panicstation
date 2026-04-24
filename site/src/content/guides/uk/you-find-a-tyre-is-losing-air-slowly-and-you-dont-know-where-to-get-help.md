@@ -1,102 +1,77 @@
----
+﻿---
 title: "What to do if… you find a tyre is losing air slowly and you don’t know where to get help"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "tyre losing air slowly"
-  - "slow puncture help"
-  - "slow leak tyre uk"
-  - "tyre keeps going down"
-  - "unknown puncture location"
-  - "tyre pressure dropping"
-  - "tpms warning light on"
-  - "low tyre pressure help"
-  - "nail in tyre tread"
-  - "valve leak symptoms"
-  - "wheel rim air leak"
-  - "no spare tyre what to do"
-  - "don't know who to call for tyre"
-  - "roadside tyre problem uk"
-  - "motorway tyre issue help"
-  - "car tyre problem at home"
-  - "car tyre problem at work"
-  - "can i drive on a slow puncture"
-  - "find a tyre garage nearby"
-  - "what do i do if my tyre is flat"
-  - "what do i do if tyre air is low"
-  - "what do i do if tyre light is on"
-  - "help i have a slow puncture"
-  - "help i have a leaking tyre"
-  - "my tyre is losing air"
-  - "my tyre pressure is low"
-  - "visible sag in tyre"
-  - "hissing sound from wheel"
-  - "steering pulling to one side"
-  - "shaking steering wheel at speed"
-  - "tyre pressure monitor alarm"
-  - "tyre sidewall bulge"
-  - "tyre screw in tread"
-  - "alloy wheel rim leak"
-  - "emergency tyre repair uk"
-  - "mobile tyre fitter near me"
-last_reviewed: "2026-03-17"
+  - tyre losing air slowly
+  - slow puncture
+  - slow leak tyre
+  - tyre keeps going down
+  - unknown puncture
+  - tyre pressure dropping
+  - tpms warning light
+  - low tyre pressure
+  - nail in tyre
+  - valve leak
+  - wheel rim leak
+  - no spare tyre
+  - don’t know who to call
+  - roadside tyre problem
+  - motorway tyre issue
+  - car tyre problem at home
+  - car tyre problem at work
+  - can i drive on it
+  - find a tyre garage
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… you find a tyre is losing air slowly and you don’t know where to get help (UK)
 
 ## Short answer
-Stop in a safe location, top up the air only to reach a professional tyre specialist immediately, and do not drive if the tyre looks distorted or the car handles poorly.
+Treat it as a safety issue: get somewhere safe, top up to the correct pressure only to reach help, and stop if you can’t keep the tyre reliably inflated.
 
 ## Do not do these things
-- **Do not** drive in a lane marked with a "Red X" on a motorway even if you need to stop; move to a safe exit or Emergency Area (EA).
-- **Do not** attempt to inspect the tyre while standing on the traffic-side of the vehicle.
-- **Do not** ignore a Tyre Pressure Monitoring System (TPMS) light, even if the tyre looks "fine" to the eye.
-- **Do not** use a temporary sealant kit (foam) as a permanent solution; it is for emergency transit only.
-- **Do not** exceed 50mph (or the speed listed on the canister/spare) if using a temporary fix or space-saver wheel.
-- **Do not** stand between your vehicle and oncoming traffic while waiting for help.
+- Don’t keep driving at normal speeds if the car feels unstable, pulls to one side, or the tyre looks visibly low.
+- Don’t “just guess” a pressure from the tyre sidewall—use the vehicle’s recommended pressure (door/fuel flap/handbook).
+- Don’t use a puncture-sealant kit as a permanent fix, and don’t forget to tell the tyre place if you used sealant.
+- Don’t inspect or work on the traffic-side of the car at the roadside.
+- Don’t keep repeatedly reinflating and carrying on with long trips—slow leaks can suddenly worsen.
 
 ## What to do now
-1. **Reach a place of relative safety immediately.**  
-   If driving, reduce speed and exit the motorway or dual carriageway at the next junction or service area.  
-   - **On a motorway with no hard shoulder (Smart Motorway):** Aim for an Emergency Area (EA) marked with orange SOS signs.  
-   - **If you stop in a live lane:** Switch on hazard lights, keep seatbelts on, and call **999** immediately. Only exit the vehicle if you can safely reach a barrier.  
-   - **If you stop in an Emergency Area:** Use the provided SOS phone; this connects directly to the Regional Control Centre and provides your exact location.
-2. **Perform a visual-only safety check.**  
-   Once in a car park or safe area, walk around the vehicle to check for sensory cues:  
-   - **Visual:** A visible sag, a bulge in the sidewall, or a screw/nail in the tread.  
-   - **Audible:** A clear hissing sound.  
-   - **If you see a sidewall bulge or the rim is touching the ground:** Do not drive the vehicle further; call for recovery.
-3. **Top up the air to the correct specification.**  
-   Find the recommended PSI/Bar on the driver’s door pillar, inside the fuel flap, or in the manual. Use a petrol station pump or portable inflator.  
-   - **Note:** Do not use the maximum pressure listed on the tyre sidewall itself; this is not the vehicle-specific setting.
-4. **Identify the correct help service for your location.**  
-   - **England (Motorways/Major A-roads):** Call **National Highways (0300 123 5000)** to report a safety hazard or request a lane closure if you are stranded.  
-   - **Breakdown Services:** If you have cover (AA, RAC, Green Flag, etc.), call them and specify if you have a spare tyre or a "mobility kit" (sealant).  
-   - **No Cover:** Search for a "mobile tyre fitter" who can come to your location, or "local tyre specialist" if the car is safe for a short trip.
-5. **Monitor the pressure during a cautious transit.**  
-   If you choose to drive to a nearby garage, drive at reduced speeds and stay in the left-hand lane. If the TPMS light returns or the steering "pulls" to one side, stop again immediately.
-6. **Provide the tyre technician with specific details.**  
-   Tell the specialist:  
-   - How quickly the air is being lost (e.g., "drops 10 PSI overnight").  
-   - If you have used a temporary sealant foam (this is critical as it affects repairability).  
-   - If you felt any vibration or "shuddering" while driving.
+1. **Create a safe pause first (especially on fast roads).**  
+   If you’re driving, ease off speed smoothly and pull into the nearest safe place (petrol station, car park, rest area).  
+   - **If you break down in a live lane on a motorway:** keep your seatbelt on, switch hazards on, **stay in the vehicle**, and call **999**.  
+   - **If you’re safely in an emergency area/hard shoulder (where present) or off the carriageway:** if it’s safe, exit on the left (away from traffic) and wait well away from the vehicle, ideally behind a barrier.
+2. **Check how urgent it is (30–60 seconds).**  
+   From a safe position, look for a visibly sagging tyre, sidewall bulge, shredding, or an obvious screw/nail. If any of these are present, **don’t drive**—go to step 5.
+3. **Top up only enough to reach help.**  
+   Use a petrol station air pump or your inflator. Inflate to the **vehicle placard** pressure (often driver’s door frame, fuel flap, or handbook). Recheck after a few minutes—if it drops quickly, stop and don’t continue.
+4. **Plan for a short, cautious trip to service (not “normal driving”).**  
+   Choose the closest suitable place you can reach safely (tyre shop/garage) and avoid high speeds. If the warning returns quickly or handling changes, stop again and move to step 5.
+5. **Get connected to help using the right system for where you are.**
+   - **Motorways and major A-roads in England:** once safe, you can call **National Highways (0300 123 5000)** for advice and assistance, then your breakdown provider if needed.  
+   - **Anywhere in the UK:** if you have breakdown cover (AA/RAC/Green Flag/insurance), call and say it’s a **slow puncture/slow leak** and whether you have a spare. If you don’t have cover, book a **mobile tyre fitter** or **recovery/tow** to a tyre shop if the car isn’t safe to drive.
+6. **When you reach a tyre place, give them the key facts fast.**  
+   Say: “Slow leak, how long it takes to drop, whether you topped up today, and whether you used sealant.” Ask them to check **tread area vs sidewall** damage and the **valve/rim seal**.
 
 ## What can wait
-- You do not need to know if the tyre is repairable yet; a professional must inspect the internal liner for "run-flat" damage first.
-- You do not need to decide on a brand of replacement tyre until the technician confirms the current one is unsafe.
-- You do not need to replace the wheel rim unless a specialist confirms it is cracked or corroded.
+- You don’t need to decide right now whether the tyre must be replaced—first get it inspected safely.
+- You don’t need to diagnose the exact cause (nail vs valve vs rim); just get to a proper check.
+- You don’t need to buy multiple tyres today unless the shop clearly shows unsafe wear/damage.
 
 ## Important reassurance
-Tyre pressure issues are among the most common roadside events. Most slow punctures are caused by small debris and can often be repaired cheaply if they are in the central tread area and have not been driven on while flat.
+Slow leaks are common and often fixable. The safest approach is to treat the tyre as unreliable until a professional has checked it.
 
 ## Scope note
-This guide provides first-step stabilization for a suspected slow air leak. It does not cover the mechanical process of changing a wheel or the technical standards of British Standard BS AU 159 for tyre repairs.
+This is first-steps guidance for staying safe and getting connected to help. Tyre repairability and costs depend on where the damage is and the tyre’s condition.
 
 ## Important note
-Driving on an under-inflated tyre can lead to sudden structural failure (blowout). If you are unsure if the vehicle is safe, or if you are in a high-traffic area, prioritize professional recovery over attempting to drive to a garage. National Highways and police numbers are for safety and traffic management, not mechanical repair.
+This is general information, not mechanical or legal advice. If the vehicle feels unsafe to drive or you’re in a dangerous location, prioritise safety and professional roadside help.
 
 ## Additional Resources
-- https://www.tyresafe.org/tyre-advice/tyre-care-repair/punctures-and-puncture-repairs/
-- https://www.tyresafe.org/tyre-advice/tyre-care-repair/emergency-puncture-repair-kits/
-- https://www.rac.co.uk/drive/advice/tyres/what-is-a-slow-tyre-puncture-tyre-safety-guide/
-- https://www.rac.co.uk/drive/advice/tyres/tyre-safety/
+- https://nationalhighways.co.uk/road-safety/driving-on-motorways/
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
+- https://www.theaa.com/breakdown-cover/advice/what-to-do-motorway-breakdown
+- https://www.rac.co.uk/drive/advice/driving-advice/what-to-do-if-you-breakdown-on-the-motorway/
+- https://www.rac.co.uk/drive/advice/how-to/checking-tyre-pressure/
 - https://www.theaa.com/driving-advice/safety/how-to-repair-a-car-tyre

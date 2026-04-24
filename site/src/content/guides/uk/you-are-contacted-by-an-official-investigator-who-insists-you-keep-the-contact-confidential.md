@@ -1,91 +1,78 @@
----
+﻿---
 title: "What to do if… you are contacted by an official investigator who insists you keep the contact confidential"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "official investigator contact"
-  - "investigation confidentiality request"
-  - "police officer verification"
-  - "nca officer verification"
-  - "unexpected official call"
-  - "secrecy demand in investigation"
-  - "what do i do if an investigator calls"
-  - "what do i do if police want a secret statement"
-  - "help i am being investigated secretly"
-  - "my investigator says not to tell anyone"
-  - "help i was contacted by the nca"
-  - "verify police identity uk"
-  - "report fraud uk"
-  - "official impersonation scam"
-  - "hmrc scam call"
-  - "witness vs suspect status"
-  - "police warrant card check"
-  - "specialist agency callback"
-  - "confidentiality red flags"
-  - "legal advice in secret investigations"
-  - "police 101 verification"
-  - "criminal investigation privacy rights"
-  - "official contact out of the blue"
-  - "suspected fake investigator"
-  - "high pressure authority call"
-  - "anonymous reporting line"
-  - "police authority check"
-  - "independent verification number"
-  - "solicitor contact rights"
-  - "official investigator email"
-last_reviewed: "2026-03-17"
+  - investigator says keep it secret
+  - told to keep contact confidential
+  - official contact out of the blue
+  - asked not to tell anyone
+  - pressured to stay silent
+  - intimidation by authority caller
+  - verify investigator identity
+  - someone claiming to be official
+  - unsure if it is a scam
+  - unexpected investigation phone call
+  - unexpected investigator email
+  - asked for urgent cooperation
+  - asked for personal information
+  - asked to meet privately
+  - asked for a statement quickly
+  - contacted as a witness
+  - contacted as a suspect
+  - contacted while incarcerated
+  - secrecy request feels wrong
+  - worried about impersonation
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you are contacted by an official investigator who insists you keep the contact confidential (UK)
 
 ## Short answer
-Terminate the initial contact immediately and verify the investigator's identity through an official, independently sourced telephone number before disclosing any information or agreeing to meet.
+Pause and verify who they are through an independent channel before you say anything substantive. You can keep things discreet while still insisting on independent legal advice.
 
 ## Do not do these things
-- Don't assume the use of a "confidentiality" or "non-disclosure" demand means the contact is legitimate.
-- Don't provide personal data, passwords, banking details, or financial transfers over the phone or email.
-- Don't click on links or download "investigative evidence" files sent via unsolicited email or text.
-- Don't agree to meet an investigator in a private or residential location without legal representation.
-- Don't follow instructions to bypass your solicitor or keep the contact secret from your bank or legal counsel.
-- Don't use a callback number provided by the investigator to verify their identity.
+- Don’t treat “confidential” as proof they’re genuine (scammers use secrecy to isolate you).
+- Don’t give personal details, banking details, passwords, or copies of documents just because they sound official.
+- Don’t click links, open unexpected attachments, or install anything “for the investigation”.
+- Don’t agree to meet immediately or in a private place you didn’t choose.
+- Don’t let anyone pressure you into “not telling your solicitor” (that’s a major red flag).
+- Don’t delete messages/call logs “to keep it confidential”.
 
 ## What to do now
-1. **End the conversation after obtaining basic identification details.** Ask for the caller's full name, rank or role, department, and a case or incident reference number.
-2. **Wait at least five minutes or use a different phone line before making verification calls.** Fraudsters can "hold" a telephone line open even after you hang up, redirecting your next call to their accomplices.
-3. **Verify Police officers through the 101 non-emergency service.**
-   - Call 101 and ask the operator to verify the officer's name, collar number, and that they are currently on duty.
-   - Request that the operator confirms the incident reference number you were given.
-4. **Verify National Crime Agency (NCA) officers using their 24/7 control centre.**
-   - Use the official NCA verification line: **0370 496 7622**.
-   - Do not use any other number provided in a message or email to perform this check.
-5. **Request a written "Notice of Disclosure" or formal request for other agencies.** If the person claims to be from HMRC, the DWP, or a local authority, tell them you will only communicate once you have received a formal letter through official post.
-6. **Determine your legal status in the investigation.** Ask clearly: "Am I being contacted as a witness, a victim, or a suspect?"
-   - Note that suspects in the UK have a reasonable expectation of privacy and specific rights under the Police and Criminal Evidence Act (PACE).
-7. **Refuse any request that involves financial transactions or remote computer access.** Real UK investigators will never:
-   - Ask for your bank PIN or password.
-   - Request you to move money to a "safe account."
-   - Ask for a fee to "process" your statement or clear your name.
-   - Ask for remote access to your device.
-8. **Contact a solicitor immediately if you are treated as a suspect.** Tell the investigator: "I will not discuss this further until I have consulted my legal representative."
-9. **Report suspected impersonation if the identity cannot be verified.** Use the **Report Fraud** service (formerly Action Fraud) at **reportfraud.police.uk** or call **0300 123 2040**.
+1. **Stop the conversation at “identity + purpose” only.** Ask for: full name, role, organisation, a callback number, and a reference/case number. Say: “I’m happy to speak once I’ve verified your identity.”
+2. **Verify using a number you find yourself (not the one they give you).**
+   - If they claim to be **police**, end the call and use **101** to verify the officer and/or incident reference.
+   - If they claim to be a **specialist agency**, use the agency’s main published number (not a number from the message) and ask to verify the person and reference.
+   - If you’re worried about a scam, consider calling back from a **different phone/line** (or after a short pause) and always use an independently found number.
+3. **If they’re in person, slow it down and verify.** Ask to see official ID (for police, a warrant card). You can say you’ll continue the conversation after you’ve confirmed via 101 or the agency’s main switchboard/control room.
+4. **Set a safe boundary on the “confidentiality” demand.** A practical script:  
+   - “I won’t discuss this widely, but I will speak to a solicitor. If there’s a legal restriction, please put it in writing.”
+5. **Find out what you are in the contact (witness/suspect/other) before answering questions.** Ask directly: “Am I being treated as a witness or a suspect?” If they won’t answer, treat it as higher-risk and pause for legal advice.
+6. **Get legal advice early if there’s any risk to you.**
+   - If you may be implicated, or you’re asked for an interview/statement, **speak to a solicitor before continuing**.
+   - If you’re **in prison**, ask staff for the recognised legal call/visit route and say you need to verify the investigator’s identity and speak to legal counsel before any interview.
+7. **Document everything.** Write down date/time, what was asked, what you disclosed (if anything), numbers used, and keep emails/letters/voicemails. If it’s legitimate, this helps you stay consistent; if it’s not, it’s evidence.
+8. **If anything feels like a scam, switch to scam-safety mode immediately.** Red flags include demands for money, pressure to move funds, threats of arrest over the phone, instructions to keep it secret from family/bank/solicitor, or requests for remote access. If you suspect fraud, report it via **Report Fraud** (and use **999** if you feel in immediate danger; **101** for non-emergencies).
 
 ## What can wait
-- You do not need to provide a statement during the first contact.
-- You do not need to decide whether to "cooperate" before verifying the caller's identity.
-- You do not need to explain why you are seeking legal advice.
-- You do not need to meet the investigator today.
+- You don’t need to decide today whether to “fully cooperate” or give a detailed statement.
+- You don’t need to explain your whole situation on the first contact.
+- You don’t need to meet anyone until their identity is verified and you’ve chosen a safe, appropriate setting (and taken advice if needed).
 
 ## Important reassurance
-Slowing down to verify an official's identity is a standard and expected safety procedure. Genuine investigators are trained to expect identity checks and will not view your request for verification as "non-cooperation" or a sign of guilt.
+It’s normal to feel rattled when someone uses authority and urgency. Slowing down to verify identity and get advice is a safe, reasonable response — it does not automatically make you “uncooperative”.
 
 ## Scope note
-This guide provides first-step stabilization for handling unexpected official contact and preventing fraud. It does not cover the specifics of witness protection, national security "gagging orders" (such as TPIMs), or ongoing legal defense strategies.
+These are first steps to reduce risk and prevent irreversible mistakes. If the contact is real, next steps depend on whether you’re a witness, victim, suspect, or subject to a specific legal restriction.
 
 ## Important note
-This information is for immediate harm reduction and does not constitute legal advice. If you are subject to a formal production order, warrant, or arrest, you must seek professional legal counsel from a qualified solicitor registered with the Law Society.
+This is general information for immediate harm-reduction, not legal advice. If you think you may be at risk of arrest, disciplinary action, or serious consequences, get advice from a qualified solicitor as soon as you can.
 
 ## Additional Resources
-- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-2-preparing-for-an-investigation
-- https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
-- https://www.gov.uk/whistleblowing/who-to-tell-what-to-expect
-- https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/sharing-personal-data-with-law-enforcement-authorities/
-- https://protect-advice.org.uk/what-to-do-if-theres-a-breach-of-whistleblower-confidentiality/
+- https://www.cityoflondon.police.uk/advice/advice-and-information/fa2/how-to-check-an-officers-identity/
+- https://www.essex.police.uk/police-forces/essex-police/areas/essex-police/au/about-us/officer-identity-check/
+- https://www.nationalcrimeagency.gov.uk/contact-us/officer-verification
+- https://www.nationalcrimeagency.gov.uk/?catid=13&id=105%3Averify-an-nca-officer&view=article
+- https://www.reportfraud.police.uk/
+- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police

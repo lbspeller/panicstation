@@ -1,96 +1,88 @@
----
+﻿---
 title: "What to do if… police ask to come inside your home and you are not sure you have to let them in"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "police at my door"
-  - "police want to enter home"
-  - "do i have to let police in"
-  - "police asking to come inside"
-  - "police knocking late at night"
-  - "police search warrant uk"
-  - "police search my house"
-  - "consent to police entry"
-  - "entry without warrant powers"
-  - "officer asking questions at door"
-  - "welfare check police uk"
-  - "mistaken address police"
-  - "noise complaint police at door"
-  - "someone reported me to police"
-  - "police say they need to talk"
-  - "police want to look around"
-  - "can i refuse entry uk"
-  - "what to say to police at door"
-  - "police powers of entry england"
-  - "police powers of entry scotland"
-  - "police powers of entry northern ireland"
-  - "section 17 pace uk"
-  - "section 18 pace uk"
-  - "police entry to save life"
-  - "help i have police at my door"
-  - "help i dont want to let police in"
-  - "what do i do if police want to come in"
-  - "what do i do if police have a warrant"
-  - "my rights with police at the door"
-  - "my rights if police want to search"
-  - "smell of cannabis police at door"
-  - "shouting heard police at door"
-  - "police holding a paper at the door"
-  - "police showing id through window"
-  - "police at the door with a warrant"
-last_reviewed: "2026-03-17"
+  - police at my door
+  - police want to enter home
+  - do i have to let police in
+  - police asking to come inside
+  - police knocking late at night
+  - warrant uk
+  - police search my house
+  - consent to entry
+  - entry without warrant
+  - officer asking questions at door
+  - welfare check police uk
+  - mistaken address police
+  - noise complaint police at door
+  - someone reported me to police
+  - police say they need to talk
+  - police want to look around
+  - can i refuse entry uk
+  - what to say to police at door
+  - police powers of entry
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… police ask to come inside your home and you are not sure you have to let them in (UK)
 
 ## Short answer
-Keep the door closed or on a chain and ask if they are requesting your consent or exercising a specific legal power of entry. If they have a warrant or a statutory power (such as to save life or arrest a suspect), they may enter without your permission; do not physically resist, but state clearly that you do not consent.
+Keep the door closed and ask why they want to come in and whether they are asking for your consent or relying on a legal power. If they have a warrant or a specific power of entry, they may enter without your permission—so don’t physically resist; focus on clarity and a calm record of what happens.
 
 ## Do not do these things
-- Don't open the door fully or step back into the hallway, as this can be interpreted as an implied invitation to enter.
-- Don't physically block the door or touch an officer if they state they are using a legal power to enter.
-- Don't move items or people around the property while speaking to officers at the door.
-- Don't agree to a "quick look" or "voluntary search" if you are unsure of your rights.
-- Don't provide detailed statements or explanations about any incident before clarifying the officers' legal status.
+- Don’t open the door wide or step back in a way that looks like you’re “inviting” them in if you don’t want to.
+- Don’t physically block the doorway or try to stop them if they say they are entering under a legal power.
+- Don’t lie about who is inside, or start searching for items / “tidying up” while talking.
+- Don’t agree to a “quick look around” if you’re unsure—slow it down and ask the basis first.
+- Don’t get drawn into an argument on the doorstep; keep it short and procedural.
 
 ## What to do now
-1. **Speak through the door or a restricted opening.** If you have a door chain, use it; otherwise, speak through the closed door or a nearby window.
-2. **Verify the identity of the officers.** Ask for the name and collar number of at least one officer and the station they are based at.
-   - Ask to see their warrant card (ID) through a window or the door viewer.
-3. **Ask the "Consent vs Power" question.** Ask clearly: "Are you asking for my consent to enter, or are you requiring entry under a legal power?"
-   - If they say they are asking for consent, you have the right to say: "I do not consent to you entering my home."
-4. **Identify the specific power being claimed.** If they say they have a right to enter, ask: "What is the specific legal power or warrant you are using?"
-   - Common powers include Section 17 PACE (to arrest someone, save life, or prevent serious damage) or Section 18 PACE (to search after an arrest).
-   - In 2026, police may also cite powers to recover geolocation-tracked stolen goods if a warrant is not practicable.
-5. **Request to see the warrant or paperwork.** If they claim to have a warrant, ask them to hold it up to a window or pass it through the letterbox.
-   - Check that the address is correct and the date is valid.
-   - Check what the warrant specifically authorizes them to search for.
-6. **State your position clearly if they enter.** If they enter using force or a stated power, say: "I am not resisting your entry, but I do not consent to it or to any search."
-   - In Scotland, under the Criminal Justice (Scotland) Act 2016, police generally cannot carry out "consensual" searches; they must have a specific power or warrant.
-7. **Observe and take notes.** Stay in the same room as the officers if permitted, or within sight.
-   - Note the start and end time of the search.
-   - List which rooms are entered and any items that are moved or seized.
-8. **Request a search record or receipt.** Before the officers leave, ask for a copy of the search record or a unique reference number.
-   - If items are taken, ensure you are provided with a written list describing each item.
-9. **Request legal advice if detained.** If you are arrested or told you cannot leave, state: "I want to speak to a solicitor."
-   - Do not answer further questions about the incident until you have had free legal advice, which is a right at the police station.
+1. **Create a safer pause at the door.** Speak through the closed door or with a chain on. Take one slow breath and keep your hands visible.
+2. **Confirm it is police and get identifying details.** Ask:  
+   - “What’s your name and collar number?”  
+   - “Which force/station are you from?”  
+   - “Can you show your warrant card/ID to the window/door viewer?”
+3. **Ask the key question: “Am I being asked, or are you requiring entry?”** Then ask:  
+   - “Do you have a warrant?”  
+   - “If not, what power are you using to enter?”  
+   - “What is the purpose of entry right now?”
+4. **If they say it’s voluntary, you can refuse consent (calmly).** Say:  
+   - “I don’t consent to entry or a search.”  
+   - “I’m willing to speak to you through the door / outside.”  
+   If you step outside to speak, **close the door behind you**.
+5. **If they say they have a warrant, ask to see it before opening.** Ask them to hold it up to the window or pass it so you can read it. Check the address and what it authorises. If you’re unsure, say: “I’m reading this—please give me a moment.”
+6. **If you’re in England & Wales and they mention entry without a warrant, treat it as a “power of entry” claim and don’t fight it.** Say once:  
+   - “I understand you’re saying you have power to enter. I’m not resisting. I do not consent.”  
+   Then step back from the doorway and observe.
+   - **If you’re in Scotland or Northern Ireland:** the legal basis and terminology can differ—still use the same approach: ask what power they rely on, don’t consent if you don’t want to, and don’t physically resist.
+7. **If a search happens, ask for the paperwork trail.** Calmly ask for:  
+   - the warrant/power relied on (or its reference)  
+   - a record/reference number for the search  
+   - a written list/receipt for anything taken (with descriptions)
+8. **If safe, make a simple record.** Note the time, names/collar numbers, what they said the reason/power was, and what rooms/items were searched. If it’s safe and lawful where you are, you may record on your phone—if that risks escalation, prioritise note-taking.
+9. **If you are arrested or told you must go to a station, ask for legal advice and stop discussing the incident.** In England & Wales you can say:  
+   - “I want a solicitor.”  
+   - “I want free legal advice at the police station.”  
+   Then don’t answer substantive questions until you’ve had advice.
 
 ## What can wait
-- You do not need to decide whether to make a formal complaint while the police are still at your property.
-- You do not need to provide a witness statement or "your side of the story" immediately.
-- You do not need to sign any documents other than a receipt for seized property or a notice of your rights.
+- You do not need to decide “the whole strategy” at the door.
+- You do not need to answer detailed questions immediately.
+- You can deal with complaints, follow-up, and formal legal help after things are calm and everyone has left.
 
 ## Important reassurance
-It is normal to feel overwhelmed or intimidated when police are at your door. Asking for the legal basis of their actions is a procedural step, not an act of aggression. Using a door chain or window to communicate is a standard safety measure that helps you maintain a safe pause.
+Feeling intimidated at the door is normal. Using short, repeatable phrases (“Are you asking, or requiring entry?” / “I do not consent.”) helps you protect yourself without turning it into a confrontation.
 
 ## Scope note
-This guide covers the first minutes of a police encounter at a private residence in the UK. It does not cover long-term legal defense, specific counter-terrorism protocols, or procedures for business premises.
+This is first-steps-only guidance for the moment police ask to come inside. Later steps (complaints, challenging a search, getting tailored legal advice) depend on the details and where in the UK you are.
 
 ## Important note
-Legal powers of entry vary between England & Wales, Scotland, and Northern Ireland. While the general principle of requiring a warrant or specific statutory power (like PACE 1984 or PACE NI Order 1989) is consistent, local terminology and "necessity" tests differ. Always prioritize physical safety over legal arguments at the door and seek professional legal advice as soon as possible.
+This is general information, not legal advice. Powers of entry and custody rights vary across the UK and by situation (for example, immediate risk to life, arrest-related entry, or a court-authorised search). Prioritise safety, don’t physically resist, and get legal advice as soon as you can.
 
 ## Additional Resources
-- https://www.gov.uk/guidance/powers-of-entry
-- https://www.gov.uk/government/publications/pace-code-b-2013/pace-code-b-accessible
+- https://assets.publishing.service.gov.uk/media/652951096b6fbf0014b7564e/Revised_PACE_Code_B.pdf
 - https://www.legislation.gov.uk/ukpga/1984/60/section/17
+- https://www.legislation.gov.uk/ukpga/1984/60/section/58
+- https://www.gov.uk/government/publications/notice-of-rights-and-entitlements-english-pace-code-h/notice-of-rights-and-entitlements-english-pace-code-h-accessible-version
 - https://www.college.police.uk/app/investigation/investigative-strategies/search-powers-and-obtaining-and-executing-search-warrants
-- https://www.gov.uk/guidance/police-and-criminal-evidence-act-1984-pace-codes-of-practice

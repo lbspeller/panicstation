@@ -1,106 +1,92 @@
----
+﻿---
 title: "What to do if… your photo library suddenly shows “optimising” and many photos look missing or low-quality"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "unknown router devices"
-  - "unrecognised network connections"
-  - "strangers on my wifi"
-  - "unknown mac address on router"
-  - "many devices on my network"
-  - "suspicious wifi activity"
-  - "router admin devices list"
-  - "unauthorised network access"
-  - "new devices on broadband"
-  - "extra devices on internet"
-  - "help i see unknown devices"
-  - "my router has strangers on it"
-  - "what do i do if unknown devices appear"
-  - "help my wifi is busy"
-  - "what do i do if many devices connect"
-  - "my network list is full"
-  - "what do i do if unknown mac addresses show"
-  - "smell of burning router"
-  - "router feeling hot"
-  - "flashing router lights"
-  - "slow internet speeds"
-  - "strange device names"
-  - "generic device labels"
-  - "neighbour using my wifi"
-  - "guest network unknown devices"
-  - "bt home hub unknown devices"
-  - "virgin media router strangers"
-  - "sky router suspicious devices"
-  - "router settings compromised"
-  - "broadband security check"
-last_reviewed: "2026-03-17"
+  - photos missing after optimising
+  - photo library stuck optimising
+  - iphone photos blurry previews
+  - icloud photos not showing
+  - photos only thumbnails
+  - low quality photos suddenly
+  - photos disappeared but storage full
+  - recently deleted photos recovery
+  - hidden album photos missing
+  - icloud sync stuck
+  - photos not downloaded originals
+  - optimise storage confusion
+  - ipad photos missing
+  - mac photos low resolution
+  - google photos looks missing
+  - cloud photo sync problem
+  - photo library not fully loaded
+  - photos missing after update
+  - photos missing after sign in
+last_reviewed: "2026-03-09"
 ---
+
 # What to do if… your photo library suddenly shows “optimising” and many photos look missing or low-quality (UK)
 
 ## Short answer
-Isolate the network by changing both the router admin login and the Wi-Fi password immediately to force all devices to disconnect and re-authenticate.
+Don’t delete anything yet. Treat this as a syncing/download state: keep the device on Wi-Fi and power, confirm you’re signed into the correct account, and check whether the full-resolution originals are still visible in the cloud or on another device.
 
 ## Do not do these things
-- Don’t assume device names are accurate; many legitimate devices appear as "unknown," "generic," or use the manufacturer of their internal Wi-Fi chip rather than the brand name.
-- Don’t rely on "blocking" individual MAC addresses as a primary fix, as these can be spoofed or rotated by modern smartphones.
-- Don’t perform sensitive tasks like online banking or changing primary email passwords while connected to the suspicious network; use mobile data instead.
-- Don’t factory reset the router unless you have your ISP login credentials (username and password) ready, as a reset may delete the settings required to get back online.
-- Don’t post screenshots of your router’s "Connected Devices" or "Status" pages on public forums, as these often contain your public IP address and unique hardware identifiers.
+- Don’t start deleting “duplicates”, clearing albums, or emptying “Recently Deleted” while things look missing.
+- Don’t sign out of your Apple Account/Google Account “to reset it” unless you’ve confirmed your photos are safely visible elsewhere first.
+- Don’t factory reset, restore, or run “clean-up” apps that promise photo recovery.
+- Don’t turn off iCloud Photos/Google Photos backup as a quick fix. If a prompt says it will remove items from *this device*, stop and cancel until you’ve verified where your originals are.
+- Don’t assume low-quality previews mean permanent loss; they’re often placeholders while originals download.
 
 ## What to do now
-1. **Switch your immediate activity to a mobile data connection.**  
-   Use your phone’s 4G or 5G connection or a personal hotspot to handle any security changes or private communications until the home network is secured.
+1. **Pause and protect what’s on this device.**  
+   If you’re panicking and worried you’ll delete something, step away from the Photos grid for 30 seconds. Your main risk right now is an irreversible tap.
 
-2. **Access your router management page using a wired or known wireless connection.**  
-   Open a web browser and enter your router's IP address (typically found on a sticker on the back of the device, often 192.168.1.1 or 192.168.0.1).
-   - Use the current admin username and password found on the router sticker unless you have previously changed them.
+2. **Check the common “not actually gone” places Apple flags.**  
+   - In Apple Photos: check **Recently Deleted** and **Hidden**.  
+   - If you use **iCloud Shared Photo Library**, switch between **Personal Library** and **Shared Library** views (photos can appear in one view and not the other).  
+   - Check your **Library filters/view** (for example, make sure you’re seeing **All Items**, not a filtered subset).
 
-3. **Check and disable any active "Guest Networks."**  
-   Look for settings labeled **Guest Wi-Fi** or **Secondary SSID**. If these are enabled without a password or with a weak one, disable them immediately.
+3. **Confirm you’re in the right account and syncing is enabled.**  
+   In your device settings, confirm you’re signed into the Apple Account/Google Account you expect, and that iCloud Photos/Google Photos backup/sync is turned on.
 
-4. **Change the router admin password to a unique, strong passphrase.**  
-   Locate the **Admin Settings** or **System Management** section. Change the password used to log into the router itself (this is different from the Wi-Fi password).
-   - Do not reuse a password from any other account.
+4. **Give “optimising” the conditions it needs to finish.**  
+   Plug the device into power, connect to reliable Wi-Fi, and (if it’s on) turn off Low Power Mode. Leave Photos open for a while so it can fetch originals/index.
 
-5. **Update the Wi-Fi password (WPA Key) and set security to WPA2 or WPA3.**  
-   In the **Wireless** or **Security** settings, change the Wi-Fi password. This will instantly disconnect every device currently on the network.
-   - Select **WPA2-PSK (AES)** or **WPA3** as the security type.
-   - Avoid "WEP" or "WPA-Open" settings.
+5. **Do the safety check: are the originals still visible elsewhere?**  
+   Use another device on the same account (iPad/Mac/another phone) or the service’s web photo library view.  
+   - If photos look normal there, your originals likely still exist and this device is showing reduced versions while it syncs/downloads.  
+   - If they’re missing there too, stop changing settings and move to support escalation (step 9).
 
-6. **Disable WPS (Wi-Fi Protected Setup).**  
-   Find the **WPS** section in your wireless settings and turn it off. WPS has known vulnerabilities that allow unauthorized users to bypass password requirements.
+6. **Check storage + the “optimised vs originals” setting before changing it.**  
+   If device storage is very low, Photos may keep smaller versions locally and download originals on demand. Only switch to “download/keep originals” if you have enough free device storage and stable Wi-Fi.
 
-7. **Disable UPnP (Universal Plug and Play) and Remote Management.**  
-   Look for **UPnP** and **Remote Config** (sometimes called **Web Management over WAN**). Turn both off to prevent devices from automatically opening ports or allowing access from outside your home.
+7. **If only some items won’t load (error icons / blank previews): document it.**  
+   Take screenshots of the “optimising” message, any error icons, and your storage screens. Note roughly when it started (after update, sign-in, storage running low).
 
-8. **Restart the router and reconnect only your known devices one by one.**  
-   Power the router off and back on. Re-join the network with your own devices using the new password, taking note of how they appear in the router’s list to identify them in the future.
+8. **If you suspect account compromise: secure access first.**  
+   Change your account password, review signed-in devices/sessions, and enable two-factor authentication. If you believe this involves fraud in the UK, it may be appropriate to report to Action Fraud.
 
-9. **Install any available firmware updates.**  
-   Check the **Advanced** or **Maintenance** tab for a **Firmware Update** button. Keeping router software current fixes security holes that strangers might use to regain access.
-
-10. **Report suspected cyber crime if you find evidence of financial loss or data theft.**  
-    If you believe your network was used for illegal activity or you have lost money:
-    - In England, Wales, or Northern Ireland: Contact **Report Fraud** (formerly Action Fraud) online or via 0300 123 2040.
-    - In Scotland: Call **Police Scotland** on **101** (non-emergency) or **999** (emergency).
+9. **Escalate to official support with your notes.**  
+   Contact Apple Support / Google Photos Help and share: whether the cloud/web view shows the originals, what’s in Recently Deleted/Hidden, storage levels, and any error icons.
 
 ## What can wait
-- You do not need to identify every "unknown" device immediately; the password change ensures they are locked out regardless of what they are.
-- You do not need to hide your SSID (network name), as this does not provide meaningful security and can cause connection issues for some devices.
-- You do not need to buy a new router immediately unless your current hardware is no longer receiving security updates from the manufacturer.
+- You don’t need to reorganise albums, deduplicate, or “clean storage” today.
+- You don’t need to decide whether to leave iCloud/Google Photos or switch services right now.
+- You don’t need to run recovery software or pay anyone while the status is “optimising”.
 
 ## Important reassurance
-It is very common for a "Connected Devices" list to look crowded. Modern homes often have "hidden" connected items such as smart meters, light bulbs, printers, and even appliances that show up with cryptic names. Changing your passwords is the most effective way to clear the list and start fresh with only the devices you trust.
+This pattern is extremely often a temporary state: devices may show low-quality previews or gaps while originals download, views/filters change, indexing runs, or syncing catches up—especially after updates, sign-ins, or storage pressure. Your job right now is to avoid irreversible actions while you verify where the originals still exist.
 
 ## Scope note
-This guide provides first-step stabilization for home network security. It does not cover deep forensic analysis of network traffic or the configuration of advanced enterprise-grade firewalls.
+These are first steps to stabilise and verify whether your originals still exist in the cloud/another device, and to prevent accidental deletion. If verification shows items are truly missing everywhere, you may need deeper, service-specific support.
 
 ## Important note
-This information is for general guidance and does not constitute professional technical or legal advice. Network security requirements can vary by ISP and hardware model. If you suspect your network is being used for criminal activity or if you are in immediate danger, contact the emergency services on **999**.
+This is general information, not professional advice. If any screen warns that turning something off will remove items from your device, stop and read it carefully before proceeding.
 
 ## Additional Resources
-- https://support.apple.com/en-gb/105061
-- https://support.apple.com/en-gb/108782
 - https://support.apple.com/en-gb/118558
-- https://support.apple.com/en-gb/118447
-- https://support.apple.com/en-gb/111762
+- https://support.apple.com/en-gb/124460
+- https://support.apple.com/en-gb/105061
+- https://support.google.com/photos/answer/6306652?hl=en-GB
+- https://support.google.com/photos/answer/6174018?hl=en-GB
+- https://www.actionfraud.police.uk/

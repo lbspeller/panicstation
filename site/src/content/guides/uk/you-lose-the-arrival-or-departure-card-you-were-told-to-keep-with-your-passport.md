@@ -1,88 +1,78 @@
----
+﻿---
 title: "What to do if… you lose the arrival or departure card you were told to keep with your passport"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "lost arrival card"
-  - "lost departure card"
-  - "missing immigration card"
-  - "lost entry card"
-  - "lost exit card"
-  - "lost landing card"
-  - "embarkation disembarkation card"
-  - "tourist card lost"
-  - "immigration slip missing"
-  - "passport insert lost"
-  - "entry form lost"
-  - "departure form lost"
-  - "border control paperwork lost"
-  - "leaving country without card"
-  - "replacement arrival departure card"
-  - "overstayed because card lost"
-  - "visa slip missing"
-  - "entry stamp evidence"
-  - "airport immigration desk"
-  - "local immigration office"
-  - "consular signposting"
-  - "what do i do if i lost my immigration card"
-  - "what do i do if i lost my arrival card"
-  - "what do i do if i lost my departure card"
-  - "what do i do if my entry slip is missing"
-  - "help i lost my exit card"
-  - "help i lost my tourist card"
-  - "help i lost my landing card"
-  - "help i lost my embarkation card"
-  - "my immigration card is missing"
-  - "my departure slip is gone"
-  - "lost tdac confirmation thailand"
-  - "lost paper tm6 card"
-  - "lost fmm card mexico"
-  - "lost tarjeta de turista cuba"
-last_reviewed: "2026-03-17"
+  - lost arrival card
+  - lost departure card
+  - missing immigration card
+  - lost entry card
+  - lost exit card
+  - lost landing card
+  - embarkation disembarkation card
+  - tourist card lost
+  - immigration slip missing
+  - passport insert lost
+  - entry form lost
+  - departure form lost
+  - border control paperwork lost
+  - leaving country without card
+  - replacement arrival departure card
+  - overstayed because card lost
+  - visa slip missing
+  - entry stamp evidence
+  - airport immigration desk
+  - local immigration office
+  - consular signposting
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you lose the arrival or departure card you were told to keep with your passport (UK)
 
 ## Short answer
-Contact the local immigration authority or visit the airport immigration desk to report the loss and obtain a replacement or exit clearance before your scheduled departure.
+Treat this as a routine immigration admin issue: gather evidence of your entry, then contact the local immigration/border authority (often at the airport or a local immigration office) to ask how to replace or document the missing card before you travel.
 
 ## Do not do these things
-- Do not attempt to forge a replacement card or write notes in your passport.
-- Do not wait until your departure day to address the loss if you were explicitly told to keep the card.
-- Do not hand your passport to unofficial third parties offering to "fix" the issue for cash.
-- Do not report your passport as lost or stolen unless the passport itself is missing.
-- Do not assume airlines can override immigration requirements at the check-in desk.
+- Do not try to create your own “replacement” card or write anything into your passport.
+- Do not wait until you are at the airport on departure day if you were explicitly told to keep the card.
+- Do not hand over your passport to unofficial “helpers” offering to sort it for cash.
+- Do not assume the airline can fix it at check-in.
+- Do not report your passport lost unless your passport is actually missing.
 
 ## What to do now
-1. **Perform a physical search of all luggage, passport sleeves, and clothing worn during your arrival.** Check hotel safes, lost property desks, and the last place you presented your documents to a local authority or currency exchange.
-2. **Obtain a local police report if you believe the document was stolen.** Many immigration offices require a formal police statement or a reference number before they will issue a replacement card or exit permit.
-3. **Assemble an electronic evidence pack on your mobile device.** Include:
-   - A clear photo of your passport photo page.
-   - Photos of your entry stamp or visa sticker.
-   - Your inbound flight booking or boarding pass.
-   - Proof of your local accommodation address.
-4. **Check the GOV.UK foreign travel advice for the specific country you are currently visiting.** Locate the "Entry Requirements" section to identify the correct local name for the document and any specific replacement procedures listed for British nationals.
-5. **Contact the local immigration department or visit the airport immigration information point.** If you are in a country using digital systems (such as Thailand's TDAC), log back into the official portal to retrieve your digital confirmation or QR code.
-6. **Visit the nearest immigration office or airport desk at least one day before departure if you cannot resolve the issue remotely.** Be prepared to complete a "lost document" form and pay any official government administrative fees associated with the replacement.
-7. **Verify your permitted stay duration with the immigration official.** Ensure the loss of the card does not affect the electronic record of your authorised stay to avoid accidental overstay penalties.
-8. **Call the nearest British embassy or the FCDO on +44 (0)20 7008 5000 for signposting if you cannot reach local authorities.** Consular staff cannot issue another country's immigration documents, but they can provide contact details for the relevant local department.
+1. **Do a calm, thorough re-check**: passport sleeve, every pocket of the cover/wallet, luggage liners, yesterday’s clothes, hotel safe, and the last place you changed money or showed your passport. Ask hotel reception/lost property if anything was handed in.
+2. **If you think it may have been stolen**, **report the theft locally** (for example to local police) and keep the reference number—some immigration offices ask for this when issuing replacements.
+3. **Make a quick “entry evidence” pack on your phone** (even if incomplete):
+   - a photo of your passport photo page
+   - photos of any entry stamp/visa sticker
+   - your inbound flight details (booking/boarding pass confirmation)
+   - where you’re staying (address/booking)
+4. **Check the GOV.UK foreign travel advice for the country you’re in** and look for practical contact routes or local procedures (the right office can vary by country).
+5. **Contact the local authority that issued/collects the card**:
+   - If you’re near the airport: ask for the **immigration/border** information point and where missing-card issues are handled.
+   - If you’re not near the airport: contact the country’s **immigration department/office** and ask what to do if your “arrival/departure card” (their local term may differ) is missing.
+6. **If you’re departing soon (same/next day), act today**:
+   - Go to the airport earlier than you normally would and ask for immigration guidance **before** joining long queues.
+   - Be prepared that you may need to complete a form and, in some places, pay an official fee.
+7. **If the card showed your permitted stay/exit deadline**, ask the immigration office how to confirm your authorised stay in their system so you don’t accidentally overstay while sorting paperwork.
+8. **If you cannot get clear instructions locally**, contact the **nearest British embassy/consulate or the FCDO** for signposting (who to contact and what to take). They cannot replace another country’s immigration card, but they can help you reach the right local channel.
 
 ## What can wait
-- You do not need to decide whether to make an insurance claim for travel disruption right now.
-- You do not need to apply for a new UK passport if only the card is missing.
-- You do not need to contact your airline until you have received guidance from immigration authorities.
+- You do not need to decide right now whether to complain, claim on insurance, or “work out who lost it.”
+- You do not need to replace your UK passport unless your passport is also missing.
+- You do not need to argue with hotels/airlines today—focus on getting the correct local immigration clearance/documentation to travel.
 
 ## Important reassurance
-Losing an immigration card is a frequent occurrence for international travellers, and most countries have established administrative procedures to resolve it. Confusion or a sense of urgency is a standard reaction to document loss; focusing on one contact point at a time is the most effective way to proceed.
+This is a common, fixable travel problem. In many places it’s resolved by completing a replacement form or having your entry recorded/confirmed in the system—being calm, organised, and early usually matters most.
 
 ## Scope note
-This guide provides first-step stabilization for British nationals who have lost a secondary immigration document while abroad. It does not cover the loss of the passport itself or long-term visa disputes.
+This is first-step guidance for the moment you realise the card is missing. Country rules vary widely, so the goal is to get you to the correct local authority with the right basics and avoid last-minute airport disruption.
 
 ## Important note
-This information is for general guidance and does not constitute legal advice. Immigration rules are subject to change by local governments; always follow the direct instructions provided by official border and immigration authorities in the country you are visiting.
+This is general information, not legal advice. Immigration processes vary by country and can change; follow instructions from the local immigration/border authority and ask for clarification if something is unclear.
 
 ## Additional Resources
 - https://www.gov.uk/foreign-travel-advice
-- https://www.gov.uk/guidance/foreign-travel-checklist
+- https://www.gov.uk/government/collections/support-for-british-nationals-abroad
+- https://www.gov.uk/guidance/consular-assistance-how-the-foreign-commonwealth-development-office-provides-support
 - https://www.gov.uk/guidance/contact-the-fcdo
-- https://www.gov.uk/foreign-travel-advice/cambodia/entry-requirements
-- https://www.gov.uk/foreign-travel-advice/dominican-republic/entry-requirements

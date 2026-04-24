@@ -1,96 +1,93 @@
----
+﻿---
 title: "What to do if… you are asked to clear a shared home after someone dies but you are worried about losing evidence of what was there"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - "clearing house after death"
-  - "cleaning out after someone dies"
-  - "shared home after bereavement"
-  - "worried about losing evidence"
-  - "estate inventory personal property"
-  - "take photos before cleaning"
-  - "document contents room by room"
-  - "executor asked me to clean out"
-  - "personal representative duties"
-  - "prevent accusations of stealing"
-  - "record what was there"
-  - "label boxes by room"
-  - "missing items after death"
-  - "dispute over personal property"
-  - "what do i do if i am asked to clear a home"
-  - "what do i do if family is fighting over property"
-  - "what do i do if items are missing from estate"
-  - "help i need to document house contents"
-  - "help i am being accused of taking things"
-  - "my relative died and i need to clear the house"
-  - "my family is arguing about belongings"
-  - "smell of rotting food in estate"
-  - "visible damage to property"
-  - "unlocked doors after death"
-  - "heirs removing items early"
-  - "probate inventory house contents"
-  - "letters testamentary for clean out"
-  - "documentation of shared residence"
-  - "evidence preservation for probate"
-  - "how to pack for estate inventory"
-last_reviewed: "2026-03-17"
+  - asked to clear shared home
+  - clearing house after death
+  - cleaning out after someone dies
+  - shared home after bereavement
+  - worried about losing evidence
+  - proof of what was in the house
+  - dispute over personal property
+  - missing items after death
+  - estate inventory personal property
+  - take photos before cleaning
+  - document contents room by room
+  - executor asked me to clean out
+  - personal representative duties
+  - prevent accusations of stealing
+  - record what was there
+  - label boxes by room
+  - keep a packing log
+  - chain of custody valuables
+  - don't throw away paperwork
+last_reviewed: "2026-03-02"
 ---
+
 # What to do if… you are asked to clear a shared home after someone dies but you are worried about losing evidence of what was there (USA)
 
 ## Short answer
-Pause the clean-out and create a dated visual and written record of the home’s contents before moving any items. Obtain written authorization from the court-appointed Personal Representative (Executor) before discarding, donating, or distributing any property.
+Pause the clean-out and document the home first (photos/video + a basic inventory), then get the executor/personal representative to confirm in writing what you’re allowed to remove, store, or discard.
 
 ## Do not do these things
-- Don't remove, donate, or sell items until the court issues "Letters Testamentary" or "Letters of Administration" to an official representative.
-- Don't throw away any paperwork, mail, or financial records, even if they appear to be clutter.
-- Don't change locks without the express permission of the Personal Representative, especially if others have legal access rights.
-- Don't take items to your own home "for safekeeping" without a written receipt or authorization.
-- Don't mix items from different rooms into the same box, as this breaks the record of where items were located.
-- Don't rely on verbal permission from family members; wait for the person with legal authority.
+- Don’t start donating, selling, or “splitting up” belongings because it feels urgent — that can create disputes and liability.
+- Don’t throw away papers, mail, or files “to declutter” — unless it’s an obvious immediate hazard/perishable (and if feasible, photograph it first).
+- Don’t take items home “just to keep them safe” without written approval from the executor/personal representative.
+- Don’t mix belongings from multiple rooms into unmarked boxes or bags (it destroys the record of what was where).
+- Don’t rely on verbal instructions; keep a written trail (text/email) of what you were asked to do.
 
 ## What to do now
-1. **Inform the Personal Representative (or the person claiming authority) that you are starting a formal documentation process.** **Boldly state that you will not be moving or discarding anything until a visual record is complete to protect all parties from future liability.**
+1. **State the plan clearly: document first, move second.**  
+   One sentence is enough: *“Before anything leaves the house, I’m doing a quick record so we don’t lose track of what was here.”*
 
-2. **Conduct a slow, continuous video walkthrough of every room in the house.** **Capture every shelf, closet, and drawer by opening them slowly on camera without rummaging or rearranging the contents.**
-   - Ensure the date and time are visible or recorded in the metadata.
-   - Include the interior of appliances, garage spaces, and outdoor storage.
+2. **Make a dated visual record of every room.**  
+   - Do a slow **video walkthrough** room-by-room. Only open closets/cabinets/drawers that you need to document, and keep it minimal if others also lived there.  
+   - Take **wide photos** plus **close-ups** of valuables, collections, tool chests, safes/lockboxes, and any existing damage or disturbed areas.  
+   - Capture **serial numbers** and identifying marks when possible.
 
-3. **Take high-resolution still photos of specific high-value or high-risk items.** **Focus on jewelry, electronics, tool collections, collectibles, safes, and any area that appears disturbed or damaged.**
-   - Photograph serial numbers or identifying marks on the back of electronics and appliances.
-   - Take photos of the "as-found" state of any files or stacks of paperwork.
+3. **Create a simple inventory that matches the home layout.**  
+   Keep it practical: **Room → box number → contents summary**. This is about “traceability,” not perfection.
 
-4. **Identify and separate items that are not part of the probate estate.** **Create a distinct list of belongings that were jointly owned with a surviving person or have a "Right of Survivorship" designation, as these usually pass outside of probate.**
+4. **Secure essential documents and high-risk items without sorting through everything.**  
+   Place into one clearly labeled container: will/trust papers, insurance, bank/brokerage mail, titles/deeds/leases, passports, Social Security-related documents if present, vehicle keys, and recent bills.  
+   Also separate **medications** and any **sharp/unsafe items** into a sealed bag/box away from kids/pets.
 
-5. **Document and dispose of immediate health hazards like perishable food.** **Take a photo of the items in the refrigerator or pantry, note the disposal in a log, and then discard them to prevent property damage or pests.**
+5. **Confirm who has authority, and whether court “letters” have been issued yet.**  
+   Ask: “Who is the executor named in the will, and has the court issued letters yet (letters testamentary/letters of administration)?”  
+   - If letters have **not** been issued yet, keep actions limited to **documenting, securing, and preserving** (not distributing, donating, selling, or discarding beyond clear hazards/perishables).  
+   - If letters **have** been issued, ask the executor/personal representative to confirm in writing what you may remove, store, or discard.
 
-6. **Secure vital documents in a single, labeled container without sorting them.** **Look for the original Will, life insurance policies, vehicle titles, property deeds, tax records, and recent bills.**
-   - Do not read private correspondence; simply group and label them.
-   - Hand these over to the Personal Representative and request a written receipt.
+6. **If you must begin packing, preserve the “evidence trail.”**  
+   - Pack **one room at a time**.  
+   - **Number every box** and write: room + date + your initials.  
+   - Take a photo of the **open drawer/shelf** before emptying (without reading private papers), then a photo of the **sealed, labeled box**.  
+   - Keep “papers/letters” together and logged, without reading.
 
-7. **Maintain a "Packing Log" if you are required to begin boxing items.** **Assign a number to every box and record the room of origin, a summary of contents, and the date it was sealed.**
-   - Use a "Room → Box # → Contents" format.
-   - Take a photo of the open box before sealing it.
+7. **For valuables, create a basic chain-of-custody note.**  
+   Log: item description, where found, date/time, who handled it, and where it’s stored. If possible, have a second adult present when you pack or relocate high-value items.
 
-8. **Request a copy of the "Letters Testamentary" or "Letters of Administration" from the person in charge.** **Verify that the court has officially granted them the power to manage the estate before you follow any instructions to distribute or dispose of property.**
+8. **Keep the home secure while you work.**  
+   Lock doors/windows, limit who has keys, and keep a simple note of who entered and when (especially if there’s tension). If the property may be vacant, tell the personal representative so they can check home insurance conditions that often apply to vacant homes.
 
 ## What can wait
-- You do not need to determine the value of items today; documenting their presence is the priority.
-- You do not need to decide who gets which sentimental item right now.
-- You do not need to hire a professional cleaning or estate sale company until the inventory is filed with the court.
-- You do not need to resolve arguments between heirs yourself; refer these disputes to the Personal Representative or their attorney.
+- You do **not** need to decide distribution, donations, or sales right now.
+- You do **not** need to appraise everything today — a clear record comes first.
+- You do **not** need to resolve family conflict before you start documenting.
+- You do **not** need to commit to a clean-out company until the personal representative approves a written plan.
 
 ## Important reassurance
-It is normal for family members to have different memories of what was in a home. Creating a methodical, dated record is a standard legal precaution that protects you from accusations of mismanagement. Documentation provides a factual baseline that can reduce tension and provide clarity for the court.
+Your worry is reasonable. In grief, people remember events differently — a calm, dated record protects everyone, including you, from later accusations or regret.
 
 ## Scope note
-This guide provides first-step stabilization for preserving evidence during an estate clean-out. It does not replace the formal "Inventory and Appraisal" required by probate courts, which may require professional valuations and specific state-mandated forms.
+These are first steps to preserve a reliable record and prevent irreversible mistakes. Probate rules vary by state; later steps may require the personal representative, the probate court process, or a probate attorney.
 
 ## Important note
-Probate laws vary significantly by state. If you suspect theft has already occurred, or if you are being pressured to destroy evidence, consult a probate attorney immediately. This information is for educational purposes and is not legal advice.
+This is general information, not legal advice. If there is serious disagreement, suspected theft, or uncertainty about who has authority, it is usually safer to pause clearing (beyond securing and documenting) until the personal representative confirms the plan in writing.
 
 ## Additional Resources
-- https://consumer.ftc.gov/node/77457
-- https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-mortgage-information-about-a-home-i-inherited-en-217/
-- https://files.consumerfinance.gov/f/documents/cfpb_surviving-spouse_booklet.pdf
-- https://files.consumerfinance.gov/f/documents/cfpb_msem_national_guardians_guide.pdf
-- https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/financial-security-as-you-age/when-a-loved-one-dies-and-debt-collectors-come-calling/
+- https://www.irs.gov/individuals/responsibilities-of-an-estate-administrator
+- https://www.law.cornell.edu/wex/letters_testamentary
+- https://selfhelp.courts.ca.gov/probate/formal-probate
+- https://ww2.nycourts.gov/courts/7jd/courts/surrogates/proceedings/fiduciary_responsibilities.shtml
+- https://www.americanbar.org/groups/real_property_trust_estate/resources/estate-planning/guidelines-individual-executors-trustees/

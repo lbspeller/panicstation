@@ -1,98 +1,82 @@
----
+﻿---
 title: "What to do if… you notice signs your phone camera or mic may have been accessed and you fear intimate content was captured"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "phone camera hacked"
-  - "microphone hacked"
-  - "spyware on my phone"
-  - "stalkerware concerns"
-  - "someone watching through my camera"
-  - "someone listening through my mic"
-  - "intimate content may be recorded"
-  - "private images taken without consent"
-  - "nonconsensual intimate images"
-  - "fear of sextortion"
-  - "blackmail with intimate photos"
-  - "partner accessed my phone"
-  - "suspicious app permissions"
-  - "strange phone behaviour"
-  - "unexpected camera indicator"
-  - "unauthorized account sign-in"
-  - "i think my phone is compromised"
-  - "intimate image abuse support"
-  - "what do i do if my camera is hacked"
-  - "what do i do if someone is recording me"
-  - "what do i do if i am being blackmailed"
-  - "what do i do if private photos were stolen"
-  - "help i think my mic is being accessed"
-  - "help i fear my camera was hacked"
-  - "help i am a victim of intimate image abuse"
-  - "help someone has my private videos"
-  - "my phone camera light is on"
-  - "my phone is acting strange"
-  - "orange dot on iphone"
-  - "green dot on android"
-  - "privacy breach phone"
-  - "digital stalking help"
-  - "online safety uk"
-  - "reporting cyber crime uk"
-  - "revenge porn help"
-  - "image based abuse support"
-last_reviewed: "2026-03-17"
+  - phone camera hacked
+  - microphone hacked
+  - spyware on my phone
+  - stalkerware concerns
+  - someone watching through my camera
+  - someone listening through my mic
+  - intimate content may be recorded
+  - private images taken without consent
+  - nonconsensual intimate images
+  - fear of sextortion
+  - blackmail with intimate photos
+  - partner accessed my phone
+  - suspicious app permissions
+  - strange phone behaviour
+  - unexpected camera indicator
+  - unauthorized account sign-in
+  - i think my phone is compromised
+  - intimate image abuse support
+last_reviewed: "2026-03-13"
 ---
-# What to do if… you notice signs your phone camera or mic may have been accessed and you fear intimate content was captured (UK)
 
+# What to do if… you notice signs your phone camera or mic may have been accessed and you fear intimate content was captured (UK)
 ## Short answer
-Stop using the device for sensitive activities, use a separate trusted device to contact the Revenge Porn Helpline (adults) or Childline (under 18s), and do not confront a suspected perpetrator.
+Get to a calmer, private moment, stop using that phone for anything sensitive, and contact specialist support for intimate image abuse so you’re not handling this alone.
 
 ## Do not do these things
-- Don’t confront the person you suspect right now as this can lead to immediate deletion of evidence or escalation of the threat.
-- Don’t continue to use the compromised phone for private calls, messages, or changing passwords.
-- Don’t pay any demands or engage with blackmailers; payment almost always leads to further demands rather than the deletion of content.
-- Don’t factory reset the phone immediately if you intend to report this to the police, as a reset may destroy digital forensic evidence.
-- Don’t post about the situation on social media from the device you believe is compromised.
+- Don’t confront the person you suspect right now (it can escalate or prompt them to delete traces or increase threats).
+- Don’t keep using the same phone for intimate chats/calls/photos “to check if it’s still happening”.
+- Don’t pay money or comply with demands if someone threatens to share content (it often leads to more demands).
+- Don’t post about it publicly or message lots of people for advice from the same device (it can increase risk and spread).
+- Don’t hand your phone to the suspected person “to look at” or “fix” it.
 
 ## What to do now
-1. **Move to a safe location and isolate the device.** If you are in immediate physical danger or fear an imminent confrontation, call **999**.
-   - Put the suspected phone in a drawer or another room to prevent further capture of audio or video.
-2. **Use a different, trusted device for all support and security actions.** Use a computer at a library, a friend’s phone, or a work device to search for help and change passwords.
-3. **Contact specialist support for intimate image abuse.** If you are 18 or over, call the **Revenge Porn Helpline** at **0345 6000 459** (10 am – 4 pm, Monday to Friday).
-   - If it is outside these hours, use their 24/7 AI chatbot, **REIYA**, on their website for immediate guidance.
-   - If you are under 18, contact **Childline** at **0800 1111** or use their **Report+Remove** tool.
-4. **Take proactive steps to block the sharing of images.** Use **StopNCII.org** to create "hashes" (digital fingerprints) of the images you fear were taken.
-   - This process happens on your device; you do not upload the actual images to the site.
-   - These hashes are shared with participating platforms (including OnlyFans, TikTok, Meta, and Google Search) to proactively block the images from being uploaded.
-5. **Secure your digital accounts from the trusted device.** 
-   - Change your **primary email password first**, as this is the "master key" for other account resets.
-   - Enable **two-step verification (2SV)** using an authenticator app (like Google Authenticator) rather than SMS if you fear your SIM has been compromised.
-   - Go to account settings and select "Sign out of all other sessions" or "Remove unknown devices."
-6. **Check for "stalkerware" or unauthorized apps.** Review your app list for anything you do not recognize, particularly "Accessibility" or "Device Administrator" permissions.
-   - On iPhone: Go to Settings > Privacy & Security > Safety Check to see who has access to your information.
-   - On Android: Review Settings > Apps > Special app access.
-7. **Report the incident to the appropriate authorities.**
-   - In England, Wales, or Northern Ireland: Report to **Report Fraud** (formerly Action Fraud) online or via **0300 123 2040**.
-   - In Scotland: Call **101** to report to **Police Scotland** or use their online reporting form for cyber crime.
-8. **Preserve evidence safely.** If you have received threats or seen images online, take screenshots or record URLs using your trusted device. 
-   - Do not delete messages or call logs from the suspected perpetrator.
+1. **Create immediate breathing space and privacy.** If you feel in immediate danger, go somewhere safer and call **999**.
+2. **Switch to a safer way to communicate.** Use a different device (a trusted friend’s phone, a work phone, or a computer you trust) for support calls/messages. If you must use your phone, keep it to the bare minimum and avoid discussing anything sensitive.
+3. **Get specialist, confidential help for intimate image abuse.** Contact the **Revenge Porn Helpline** (UK adults) for practical help and emotional support, including help with takedowns if anything is posted or threatened.
+4. **If you think anything might already be online, start removal routes early.**
+   - Use **StopNCII.org** (for adults) to help prevent/limit re-uploads of your intimate images across participating platforms.
+   - Use **Report Harmful Content** for support reporting intimate image abuse to platforms.
+5. **Stabilise your accounts from a safer device.**
+   - Change the password to your **main email account first** (because it controls resets for everything else).
+   - Then change passwords for social media, messaging, cloud photo storage, and any account that can access your camera/photos.
+   - Turn on **two-step verification** (prefer an authenticator app rather than SMS if you’re worried about your number being compromised).
+   - Review “devices signed in” / “recent activity” and **sign out of unknown devices**.
+6. **Reduce the chance the phone can keep capturing new material.**
+   - Turn off camera/mic permissions for non-essential apps and remove any app you don’t recognise.
+   - Install pending operating system and app updates.
+   - If you suspect your mobile number/SIM has been taken over (sudden loss of signal, “SIM changed” messages), contact your mobile network from another phone and ask them to secure your account.
+7. **Optional reporting routes (only if you want).**
+   - If it’s not an emergency but you want police involvement, you can contact police on **101**.
+   - For cyber crime/fraud reporting in **England, Wales, or Northern Ireland**, you can report via **Report Fraud**.
+   - If you live in **Scotland** (or the incident happened there), contact **Police Scotland on 101** (or 999 in an emergency).
+8. **If you may want to report later:** avoid deleting messages/emails/threats, and keep any screenshots you already have somewhere safer (for example, emailed to a trusted address you control). Don’t do any deep “evidence collecting” right now—your priority is safety and support.
 
 ## What can wait
-- You do -not- need to decide whether to press charges or involve the police today.
-- You do -not- need to have "proof" or a technical diagnosis of a hack before seeking help from the Revenge Porn Helpline.
-- You do -not- need to inform your family, partner, or employer until you feel safe and supported.
+- You do **not** need to decide today whether to report to police, pursue legal action, or tell your employer/family.
+- You do **not** need to “prove” what happened before getting help.
+- You do **not** need to do a factory reset right this second (that’s often better done calmly, after you’ve secured your accounts and gotten support).
 
 ## Important reassurance
-It is normal to feel a deep sense of violation, panic, or shame when your privacy is breached. These reactions are natural responses to a serious digital intrusion. You are not responsible for the illegal actions of someone else accessing your device or images without consent.
+Feeling panicked, ashamed, or frozen is a common response to a privacy violation—none of that means you did anything wrong. You can take this one step at a time, and you’re allowed to prioritise your safety and dignity over anyone else’s pressure.
 
 ## Scope note
-This is first-step guidance only. Technical forensics, long-term legal advice, and clinical mental health support should be accessed through the specialist agencies mentioned in the steps above.
+This is first-steps-only guidance to help you stabilise, reduce further risk, and connect with support. Later steps (device forensics, legal options, longer-term safety planning) are easier and safer once you’ve got support around you.
 
 ## Important note
-This guide provides general information and does not constitute legal or medical advice. If you have been physically harmed or coerced, contact an NHS Sexual Assault Referral Centre (SARC) for confidential medical care and support that is independent of the police.
+This is general information, not legal or medical advice. If you’re in immediate danger call 999. If you were sexually assaulted or coerced offline, you can get confidential medical and practical support through NHS Sexual Assault Referral Centres even if you don’t want to report to police.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take
-- https://ico.org.uk/for-the-public/online/smart-products/
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/voyeurism-and-upskirting/
-- https://revengepornhelpline.org.uk/information-and-advice/need-help-and-advice/intimate-images-shared-without-consent/
-- https://stopncii.org/create-your-case/?lang=en-gb
+- https://revengepornhelpline.org.uk/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/help-and-support/
+- https://stopncii.org/how-it-works/?lang=en-gb
+- https://reportharmfulcontent.com/harms/intimate-image-abuse/?lang=en-gb
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.ncsc.gov.uk/guidance/securing-your-devices
+- https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/

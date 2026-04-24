@@ -1,90 +1,85 @@
----
+﻿---
 title: "What to do if… your boarding pass or itinerary disappears from the airline app shortly before departure"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "boarding pass disappeared"
-  - "boarding pass missing"
-  - "itinerary disappeared from app"
-  - "airline app lost booking"
-  - "flight details vanished"
-  - "mobile boarding pass error"
-  - "cannot find boarding pass on phone"
-  - "boarding pass gone before flight"
-  - "itinerary missing before departure"
-  - "what do i do if my boarding pass disappeared"
-  - "what do i do if my airline app is empty"
-  - "what do i do if i cannot see my flight"
-  - "what do i do if my boarding pass will not load"
-  - "help i lost my boarding pass on my phone"
-  - "help i cannot access my airline itinerary"
-  - "help my flight disappeared from the app"
-  - "help my mobile boarding pass is gone"
-  - "see no barcode on phone"
-  - "hear app error noise"
-  - "feel phone getting hot troubleshooting"
-  - "smell phone battery overheating"
-  - "missing pnr number"
-  - "empty travel wallet"
-  - "app logged out airport"
-  - "glitch at gate"
-  - "boarding pass disappeared uk airport"
-  - "boarding pass disappeared heathrow"
-  - "boarding pass disappeared gatwick"
-  - "boarding pass disappeared stansted"
-  - "boarding pass disappeared ryanair"
-  - "boarding pass disappeared easyjet"
-  - "boarding pass disappeared british airways"
-last_reviewed: "2026-03-17"
+  - boarding pass disappeared
+  - airline app lost boarding pass
+  - itinerary missing in app
+  - mobile boarding pass not showing
+  - cannot access boarding pass
+  - check-in confirmation missing
+  - flight details vanished
+  - app logged out before flight
+  - airline app glitch at airport
+  - no boarding pass for security
+  - reprint boarding pass uk airport
+  - booking reference can’t be found
+  - e-ticket receipt missing
+  - gate pass not loading
+  - phone died before boarding
+  - no signal boarding pass
+  - boarding pass won’t download
+  - boarding pass not in wallet
+  - boarding pass barcode not scanning
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… your boarding pass or itinerary disappears from the airline app shortly before departure (UK)
 
 ## Short answer
-Retrieve your booking reference (PNR) from your confirmation email and use the airline's website or an airport kiosk to obtain a scannable replacement. Do not wait until you reach the security gate, as most UK airports require a valid scan to enter the departures area.
+Don’t rely on the app: pull up your booking via your confirmation email or the airline website, then get a **scannable boarding pass** (digital or printed) saved offline. At many UK airports, you’ll need to scan a boarding pass to access the security area, so fix this early.
 
 ## Do not do these things
-- Do not assume security staff can look up your booking; they generally only scan active barcodes.
-- Do not repeatedly sign in and out of the app if the network is unstable.
-- Do not delete the app unless you have already secured your booking reference (6-digit alphanumeric code) elsewhere.
-- Do not rely on a "live" app connection at the gate; always secure an offline version.
-- Do not pay for a new flight until you have spoken to airline ground staff.
-- Do not let your phone battery deplete while attempting to fix app glitches.
+- Don’t assume you can “sort it at the gate” — at many UK airports you often need a boarding pass to access security and get airside.
+- Don’t keep refreshing in a panic while moving; stop for 60 seconds and switch to a fallback plan.
+- Don’t cancel/rebook the flight just because the app looks empty.
+- Don’t hand over your phone to strangers offering to “fix” it.
+- Don’t sign out of the app unless you have your booking reference and can sign back in reliably.
+- Don’t let your battery run down while you troubleshoot.
 
 ## What to do now
-1. **Find your 6-digit booking reference (PNR) immediately.**
-   **Search your email inbox, SMS, or third-party booking confirmation for a code like "XJ7K2L".** This code is the primary key for all retrieval methods and is usually separate from your ticket number.
-2. **Access the airline’s mobile website instead of the app.**
-   **Open a web browser on your phone and navigate to the airline's "Manage Booking" or "Check-in" page.** Enter your surname and booking reference to see if the itinerary is visible there.
-3. **Capture a static copy of any barcode that appears.**
-   **Take a screenshot of the QR code or barcode immediately if the website or app displays it.** If your phone supports it, use the "Add to Wallet" (Apple) or "Save to Phone" (Google) feature, as these files remain accessible without an internet connection.
-4. **Locate a self-service check-in kiosk at the terminal.**
-   **Input your booking reference or scan your passport at an airline-branded kiosk to request a "reprint" of your boarding pass.** This is often faster than waiting for a staffed desk and provides a physical paper backup.
-5. **Report to the airline check-in or bag drop desk for a manual reissue.**
-   **Present your passport and booking reference to staff and state that your digital pass is not loading.**
-   - Note: In 2026, some low-cost carriers (like Ryanair) may charge a fee for airport check-in, but reprinting a pass for an already checked-in passenger whose device has failed is typically handled as a technical issue.
-6. **Request a "Document Check" if flying to specific international destinations.**
-   **Confirm if your destination (e.g., Morocco, Turkey, or non-Schengen zones) requires a physical visa/passport check before the pass is released.** Some apps will suppress the boarding pass until a staff member verifies your travel documents at the desk.
-7. **Verify your boarding pass at the "Flight Connections" or "Customer Service" desk if already airside.**
-   **Seek out an airline service desk if your pass disappears after you have already cleared security.** Do not wait until the flight is boarding to alert the gate agent.
+1. **Stabilise your basics (30 seconds).**  
+   Switch between Wi-Fi and mobile data. Plug into a charger/power bank. Turn brightness up (barcodes scan more reliably).
+
+2. **Find your booking details outside the app.**  
+   Search your email/SMS for the airline (or travel agent) confirmation. Note: booking reference/PNR, passenger name (as booked), flight number, date, and departure airport.
+
+3. **Use the airline website “Manage booking / My booking” as your primary fallback.**  
+   In a phone browser (or someone’s laptop), retrieve the booking using booking reference + surname. If a boarding pass is available there, **download it (PDF if offered)** and save it offline.
+
+4. **Make an offline backup immediately.**  
+   If a barcode/QR pass appears (in app or browser), **take a screenshot** and save it. If available, add it to Apple Wallet / Google Wallet too. Do this even if you expect the app to come back.
+
+5. **If you still can’t retrieve a boarding pass, go to the airline’s kiosk or check-in desk now.**  
+   At many UK airports, access to security can depend on scanning a boarding pass at the entry gates. Bring your passport/ID and booking reference and ask for a **boarding pass reissue/reprint** (and any required document check).
+
+6. **If you’re already at the airport and time is tight: prioritise the shortest path to a human.**  
+   Find your airline’s check-in/bag drop/customer service area. If there’s a queue marshal, say: **“My boarding pass disappeared; I need a scannable boarding pass (digital or printed) to get through security.”**
+
+7. **If the airline says you must use the app (some carriers do): secure power and a second route anyway.**  
+   Get charging, use airport Wi-Fi if needed, and keep the airline website booking page open as backup. If your phone is failing, ask staff what alternative they can issue for this airport and flight.
+
+8. **If you’re flying internationally, expect a document check possibility.**  
+   Sometimes boarding passes won’t display until passport/visa details are verified. If the app/website won’t issue a pass, go straight to staff rather than repeatedly reinstalling the app.
 
 ## What can wait
-- Technical support queries regarding why the app failed.
-- Requesting refunds for app-related stress or minor delays.
-- Adjusting seat assignments or meal preferences.
-- Re-syncing your frequent flyer account.
+- You do not need to figure out *why* the app glitched right now.
+- You do not need to change seats, add bags, or manage upgrades in this moment.
+- You do not need to keep troubleshooting once you’ve switched to a kiosk/desk plan — the goal is simply a **usable, scannable pass**.
 
 ## Important reassurance
-Digital glitches are a routine occurrence at UK airports. Airline ground staff have access to the master Passenger Name Record (PNR) and can verify your identity and boarding status using your passport. As long as you have a confirmed booking and valid ID, a missing digital pass is a procedural hurdle, not a cancellation of your right to travel.
+This is a common, fixable problem (logouts, syncing, connectivity, document checks). Airports and airlines are set up to reissue boarding passes. The key is switching quickly to a fallback channel and getting a pass you can scan.
 
 ## Scope note
-This guide provides first-step stabilization for passengers facing digital document loss. It does not cover legal claims for denied boarding or technical account recovery for airline loyalty programs.
+These are first steps to get you a boarding pass and keep you moving. Later follow-ups (app reinstall, account recovery, refund/fee questions) can wait until you’re through the airport pinch point.
 
 ## Important note
-Procedures and fees for reissuing boarding passes vary by airline and airport. Low-cost carriers may have strict digital mandates. Always prioritize reaching a staffed airline desk if you are within 60 minutes of your gate closing.
+This is general information, not legal or professional advice. Airline and airport procedures vary by carrier, destination, and terminal. If departure is soon, go in person to your airline kiosk/desk and follow staff instructions.
 
 ## Additional Resources
-- https://www.gov.uk/government/publications/air-passenger-travel-guide/air-passenger-travel-guide-summary-of-passenger-rights
-- https://www.easyjet.com/en/help/booking-and-check-in/check-in
-- https://www.ryanair.com/gb/en/lp/explore/digital-boarding-pass
-- https://www.britishairways.com/content/information/checking-in-and-boarding/ba-on-your-mobile
-- https://www.jet2.com/en/app
+- https://www.gov.uk/guidance/air-travel-checklist-for-travel-from-the-uk
+- https://www.gatwickairport.com/passenger-guides/security.html
+- https://www.stanstedairport.com/help/checking-in/
+- https://www.heathrow.com/departures/checking-in
+- https://help.ryanair.com/hc/en-gb/categories/12488813755537-Check-In-Travel-Documents

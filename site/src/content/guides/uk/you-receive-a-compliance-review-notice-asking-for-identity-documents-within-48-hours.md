@@ -1,88 +1,86 @@
----
+﻿---
 title: "What to do if… you receive a compliance review notice asking for identity documents within 48 hours"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - "urgent identity document request"
-  - "compliance review notice"
-  - "48 hour deadline letter"
-  - "identity documents request help"
-  - "compliance review notice help"
-  - "identity documents deadline help"
-  - "verify if notice is real"
-  - "government impersonation scam"
-  - "official looking email scam"
-  - "asked for passport scan"
-  - "asked for driving licence copy"
-  - "asked for proof of address"
-  - "provide id documents safely"
-  - "phishing with reference number"
-  - "unexpected compliance review"
-  - "suspicious deadline pressure"
-  - "action fraud reporting"
-  - "report phishing email uk"
-  - "7726 scam text report"
-  - "document upload security"
-  - "identity theft prevention"
-  - "stop and verify first"
-  - "what do i do if i get a compliance notice"
-  - "what do i do if asked for my passport"
-  - "what do i do if i have a 48 hour deadline"
-  - "help i received a compliance letter"
-  - "my identity documents are being requested"
-  - "help i clicked a suspicious link"
-  - "companies house identity verification"
-  - "smell of scam in official letter"
-  - "fake compliance review notice"
-  - "urgent id request uk"
-last_reviewed: "2026-03-17"
+  - urgent identity document request
+  - compliance review notice
+  - 48 hour deadline letter
+  - verify if notice is real
+  - government impersonation scam
+  - official looking email scam
+  - asked for passport scan
+  - asked for driving licence copy
+  - asked for proof of address
+  - provide id documents safely
+  - phishing with reference number
+  - unexpected compliance review
+  - suspicious deadline pressure
+  - confirm agency contact details
+  - action fraud reporting
+  - report phishing email uk
+  - 7726 scam text report
+  - document upload security
+  - identity theft prevention
+  - stop and verify first
+last_reviewed: "2026-03-06"
 ---
+
 # What to do if… you receive a compliance review notice asking for identity documents within 48 hours (UK)
 
 ## Short answer
-Do not click any links or provide documents until you have verified the request using a trusted phone number or website found independently. Official bodies like HMRC, Companies House, or banks will not penalise you for taking a few hours to confirm a request is genuine through their official channels.
+Pause and verify the notice using trusted contact details you find independently (not the ones in the message). Do not send ID documents until you’ve confirmed who is requesting them and how they want them provided securely.
 
 ## Do not do these things
-- Do not use any contact details, "help-line" numbers, or QR codes provided within the suspicious notice itself.
-- Do not reply to the email or text message, as this confirms your contact details are active to potential fraudsters.
-- Do not send high-resolution photos or scans of your passport, driving licence, or utility bills via standard email.
-- Do not let the 48-hour threat pressure you into bypassing security checks; urgency is a primary psychological tool used in phishing.
-- Do not download "verification software" or "compliance apps" suggested in the message.
+- Don’t click “upload” links or QR codes in the notice until you’ve verified the sender through an official website or known account.
+- Don’t email scans/photos of your passport or driving licence as a first step, especially to a new address.
+- Don’t call phone numbers shown in the notice if you’re not sure it’s genuine.
+- Don’t let “48 hours” push you into rushing; urgency is a common tactic in impersonation scams.
+- Don’t share extra documents “just in case” (full bank statements, NI number, selfies with ID) unless you’ve confirmed they’re required.
 
 ## What to do now
-1. **Isolate the notice and record the specific claims it makes.** Save the email, take a screenshot of the text, or keep the physical letter and envelope, then close the message to prevent accidental clicks.
-2. **Verify the organization’s identity using an entirely independent source.** 
-   - If the notice claims to be from a bank, hang up and call **159** (the UK's secure fraud hotline) or use the number on the back of your debit card.
-   - If it claims to be from HMRC or Companies House, navigate manually to the official GOV.UK website to find their verified contact details.
-   - If it claims to be from a solicitor or legal firm, check the **Solicitors Regulation Authority (SRA)** register to find their genuine office number.
-3. **Report the suspicious contact to the relevant UK authorities immediately.** 
-   - Forward suspicious emails to **report@phishing.gov.uk** (the NCSC Suspicious Email Reporting Service).
-   - Forward suspicious texts to **7726** (this is free and alerts your mobile network provider to block the sender).
-   - Report the incident to **Action Fraud** via their official online portal or by calling 0300 123 2040.
-4. **Access the official service portal directly through a known web address.** Instead of clicking a link in the notice, type the organization's address (e.g., www.gov.uk or your bank's URL) directly into your browser to see if there are any pending "compliance" or "identity" alerts in your secure account area.
-5. **Check for official 2026 verification triggers like Companies House mandates.** Be aware that many genuine notices in 2026 are related to the Economic Crime and Corporate Transparency Act; these typically allow for verification via the official "GOV.UK One Login" app rather than sending copies to third-party emails.
-6. **Activate containment measures if you have already shared information or clicked a link.** 
-   - If you provided bank details, contact your bank’s fraud department immediately using a verified number.
-   - If you sent ID scans, consider applying for **CIFAS Protective Registration** to place a flag on your credit file against identity theft.
-   - Change the passwords for your email and any affected accounts, ensuring you enable multi-factor authentication (MFA/2FA).
+1. **Save what you received, exactly as-is.** Screenshot the message/letter, keep attachments, and keep the envelope if posted. Note the date/time it arrived and the deadline it claims.
+2. **Verify the sender using independent details (not the notice).**  
+   - If it claims to be a government body, regulator, police, or court: find the official contact page yourself (for example via GOV.UK) and contact them using those details.  
+   - If it claims to be your bank, employer, solicitor, or service provider: use the phone number inside your app, your card, a prior genuine letter, or an official website you navigate to yourself.
+3. **Ask for specifics before you send anything (via a verified channel).**  
+   - “Is this request genuine and logged on my account/case?”  
+   - “Exactly which documents do you require and why?”  
+   - “What is the secure method for providing them (portal/post/in-person)?”  
+   - “Can you extend the deadline while I verify the request?”
+4. **If it’s an email or text and you’re unsure, report it before engaging.**  
+   - Forward suspicious emails to **report@phishing.gov.uk**.  
+   - Forward suspicious texts to **7726** (free).  
+5. **If the request turns out to be real, use a safer way to provide documents.**  
+   - Prefer a secure portal you access by typing the known official web address yourself (not via the email link).  
+   - Ask whether they accept **certified copies** or **in-person verification** instead of high-quality scans.
+6. **Minimise what you share (only what was requested).**  
+   - Provide only the specific pages/sides requested.  
+   - If proof of address is needed, use a suitable document but avoid sharing unnecessary transaction detail where possible.  
+   - If you’re uploading an image, consider adding a clear note on the image (for example “For [Organisation] compliance review only, [date]”) so it’s harder to reuse elsewhere.
+7. **If you already clicked a link, uploaded documents, or gave details, switch into containment mode.**  
+   - Stop further contact through that channel.  
+   - Contact the real organisation using verified details to flag possible impersonation.  
+   - Change passwords on any account you used in the process and enable 2-step verification where available.  
+   - If you think you’ve been defrauded (or money was requested/lost), report it to **Report Fraud** (the national fraud and cyber crime reporting service).
 
 ## What can wait
-- You do not need to provide the documents within the first hour; a short delay for verification is standard practice.
-- You do not need to respond to the specific person who sent the notice; always go through the organization’s main switchboard.
-- You do not need to pay for "fast-track compliance" or "verification fees" often mentioned in scams.
+- You do not need to decide right now whether the sender is “definitely a scam” or “definitely real” — you only need to verify via trusted channels.
+- You don’t need to gather every possible identity document; wait until you’ve confirmed exactly what’s required.
+- You don’t need to write a long explanation or defence in the moment; focus on verification and safe delivery first.
 
 ## Important reassurance
-It is common to feel a sense of panic when threatened with "non-compliance" or account suspension. These notices are designed to trigger that exact response to bypass your critical thinking. Taking time to verify is a sign of digital competence, not an admission of guilt or a failure to comply.
+Feeling pressured by an official-looking deadline is normal — that’s why these messages work. Taking a short pause to verify before sharing identity documents is a sensible safety step, not “non-compliance”.
 
 ## Scope note
-This guide provides first-step stabilization for handling urgent ID requests. It does not replace legal advice or official procedural guidance from the specific institution requesting the information.
+This is first-step guidance for handling an urgent ID-document request safely. If it becomes a formal dispute (for example, threatened account closure, enforcement action, or legal proceedings), you may need specialist advice, but you can still protect yourself right now by verifying and minimising disclosure.
 
 ## Important note
-Procedures for identity verification in the UK are subject to frequent regulatory changes. Always prioritize information found on official .gov.uk or .police.uk websites. If you are in Scotland, report fraud directly to Police Scotland via 101.
+This is general information, not legal advice. Processes vary by organisation and case type. When in doubt, use independently found official contact details and avoid sending identity documents through unverified links or email.
 
 ## Additional Resources
-- https://www.gov.uk/government/collections/check-a-list-of-genuine-hmrc-contacts
-- https://www.gov.uk/guidance/check-if-a-letter-youve-received-from-hmrc-is-genuine
-- https://www.gov.uk/guidance/check-if-a-phone-call-youve-received-from-hmrc-is-genuine
-- https://www.gov.uk/government/publications/compliance-checks-corresponding-with-hmrc-electronically-ccfs83/corresponding-with-hmrc-electronically-ccfs83
-- https://www.citizensadvice.org.uk/consumer/scams/check-if-something-might-be-a-scam/
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
+- https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/how-to-report-suspicious-activity/

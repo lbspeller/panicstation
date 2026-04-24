@@ -1,88 +1,78 @@
----
+﻿---
 title: "What to do if… your bank says a suspicious transaction is linked to your account and asks you to “confirm” by link"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - "bank suspicious transaction link"
-  - "what do i do if bank sends suspicious link"
-  - "help i clicked a bank scam link"
-  - "my bank sent a suspicious text"
-  - "fraud alert text with link"
-  - "bank account suspicious activity message"
-  - "fake bank fraud department link"
-  - "suspicious transaction confirm link"
-  - "what do i do if i got a fake bank text"
-  - "help i gave my bank login to a link"
-  - "my bank account was linked to a suspicious charge"
-  - "bank impersonation scam text"
-  - "smishing bank alert usa"
-  - "phishing link from bank account"
-  - "text from bank asking to verify"
-  - "suspicious charge link text"
-  - "fake bank alert suspicious activity"
-  - "bank text says confirm charge"
-  - "unauthorized transaction link scam"
-  - "bank fraud link text"
-  - "sms bank link scam"
-  - "bank text verify identity link"
-  - "suspicious bank message link"
-  - "received fake bank security alert"
-  - "bank security link scam"
-  - "fraudulent bank text message"
-  - "bank account link fraud"
-  - "suspicious banking link text"
-  - "bank sms scam confirm"
-  - "my bank account is linked to fraud"
-last_reviewed: "2026-03-17"
+  - bank scam text message
+  - bank says suspicious transaction
+  - confirm transaction by link
+  - “confirm” by link message
+  - phishing link from bank
+  - smishing bank alert
+  - fake fraud department message
+  - verify account information text
+  - suspicious transaction email
+  - bank impersonation scam
+  - clicked bank link mistake
+  - gave bank login to link
+  - one time passcode request
+  - urgent fraud alert text
+  - verify charge by link
+  - account takeover warning
+  - debit card fraud alert text
+  - spoofed bank message
+  - scammer says confirm charge
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… your bank says a suspicious transaction is linked to your account and asks you to “confirm” by link (USA)
 
 ## Short answer
-Do not click the link, reply, or call any numbers provided in the message. Contact your bank immediately using the verified phone number on the back of your physical debit or credit card to secure your account.
+Don’t click the link or reply. Contact your bank using a trusted number (from your card, statement, or the bank’s official app/website) and ask them to secure your account and review recent activity.
 
 ## Do not do these things
-- Do not click the link, even to "decline" or "cancel" the transaction.
-- Do not reply "STOP," "NO," or provide any information to the sender.
-- Do not call the phone number displayed in the text or provided in the link.
-- Do not enter your online banking username, password, or PIN on any site reached through the link.
-- Do not share a one-time passcode (OTP) with anyone, even if they claim to be from the bank's fraud department.
-- Do not move money to a "safe account" or "protected account" at the request of a caller or message.
-- Do not assume the message is real because it appeared in a previous, legitimate conversation thread from your bank.
+- Don’t click the “confirm” link or log in through it.
+- Don’t call a phone number, open a chat, or download an app from the message.
+- Don’t share your password, PIN, or a one-time code (OTP) with anyone who contacted you first.
+- Don’t approve unexpected “new device” prompts or security notifications you didn’t initiate.
+- Don’t move money because someone claims it’s the “only way” to protect it.
+- Don’t assume it’s real because caller ID looks right or the message is in a real-looking thread—numbers and threads can be spoofed.
 
 ## What to do now
-1. **Isolate the message and take a screenshot.** Capture the message and the sender's phone number or email address for reporting purposes, but do not interact with any buttons or links within the message.
-2. **Contact your bank using a trusted method.** Call the official customer service number found on the back of your bank card or on a recent paper statement. 
-   - If you cannot find your card, use the official banking app you already have installed or type the bank's known web address directly into your browser.
-3. **Verify your account status with a live agent.** Tell the representative: "I received a suspicious text/email asking me to confirm a transaction via a link. I did not click it, but I want to verify if there are any actual flags on my account."
-4. **Secure your credentials if you interacted with the link.** If you clicked the link or entered any information:
-   - Request an immediate password reset for your online banking.
-   - Ask the bank to issue a new debit or credit card with a different number.
-   - Check for any "New Device" or "Digital Wallet" (Apple Pay/Google Pay) authorizations you did not perform.
-5. **Report the phishing attempt to your carrier.** Forward the suspicious text message to **7726 (SPAM)**. This is a free service used by major US carriers to identify and block scam numbers.
-6. **Report the incident to federal authorities.** 
-   - Use your phone’s built-in "Report Junk" or "Report Spam" feature before deleting the thread.
-   - File a report at **ReportFraud.ftc.gov**.
-   - If you entered sensitive data or social security numbers, go to **IdentityTheft.gov** to create a recovery plan.
-   - Forward phishing emails to **reportphishing@apwg.org**.
-7. **Delete the message.** Once you have screenshotted and reported the message, delete it from your device to prevent accidental clicks in the future.
+1. **Stop and keep the evidence.** Take a screenshot of the message (and the sender details). Don’t interact with it further.
+2. **Contact your bank safely (now).** Use the number on the back of your card, your statement, or the bank’s official app. Tell them: *“I got a message asking me to confirm a suspicious transaction by link. I did not request this. Please check my account and secure it.”*
+3. **Ask the bank to take immediate protective actions.** Depending on what you use, ask for: card freeze, new card number, password reset, disabling online banking until verified, account alerts, and review of pending transfers.
+4. **Quickly check for account takeover signs.** In your banking app (or with the agent), look for: new payees/recipients, profile changes (email/phone/address), new devices, new cards/digital wallet additions, and any transfers you don’t recognize.
+5. **If you clicked the link or entered info, assume compromise.**
+   - Tell the bank immediately and follow their fraud steps.
+   - Change your online banking password using the official app/website you navigate to yourself (not the link).
+   - If you reused that password elsewhere, change those accounts too.
+6. **Report the phishing attempt.**
+   - If it was a **text**, forward it to **7726 (SPAM)** and report it to the FTC.
+   - If it was an **email**, you can forward it to **reportphishing@apwg.org**, then report it to the FTC.
+   - Report to the FTC at **ReportFraud.ftc.gov**.
+7. **If money was sent out (especially wire/transfer), act fast.** Tell your bank it was unauthorized and ask whether they can **stop it or attempt to recall it** (it may not be possible), and what deadlines apply. Also file a report with the FBI’s **IC3 (ic3.gov)** to document the incident.
 
 ## What can wait
-- You do not need to close your entire bank account unless the bank confirms a total compromise of your identity and account numbers.
-- You do not need to contact the police unless actual funds have been stolen and your bank requires a police report for a fraud claim.
-- You do not need to reply to the scammer to "warn" them or "catch" them.
+- You don’t need to decide right now whether to close the account permanently.
+- You don’t need to argue with the sender or “play along” to gather proof.
+- You don’t need to do a full identity-theft recovery workflow unless the bank confirms details were taken or you see broader signs of misuse.
 
 ## Important reassurance
-These messages are designed to trigger a panic response by making you think your money is already gone. Scammers rely on the urgency of a "suspicious transaction" to make you bypass your usual security habits. By stopping and using a known, trusted phone number, you have successfully neutralized the primary threat.
+These messages are designed to create urgency and push you into clicking before you think. Taking a moment to use a trusted contact method is exactly how you avoid making the situation worse.
 
 ## Scope note
-This guide covers immediate stabilization and account securing following a phishing or smishing attempt. It does not cover long-term identity theft recovery or legal disputes with financial institutions regarding resolved fraud claims.
+This is first-step guidance for the initial scramble: stop the scam path, secure access, and reduce losses. If your personal information was exposed, you may need follow-on identity-protection steps (like credit freezes) after the immediate banking lock-down.
 
 ## Important note
-Financial institutions will never ask you to click a link to "confirm" your identity or provide a one-time passcode over the phone. Security protocols vary by bank; always follow the specific instructions provided by your bank’s official fraud department.
+This guide provides general information, not legal, financial, or professional advice. Bank security procedures vary; if anything feels unclear, ask your bank’s fraud department to tell you the safest next step and what to document.
 
 ## Additional Resources
-- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
+- https://www.consumerfinance.gov/ask-cfpb/i-received-an-email-from-my-bank-or-credit-union-asking-me-to-verify-my-account-information-what-should-i-do-en-999/
 - https://consumer.ftc.gov/articles/how-recognize-report-spam-text-messages
-- https://consumer.ftc.gov/consumer-alerts/2024/09/dont-take-bait-phishing-scams
+- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
+- https://reportfraud.ftc.gov/
+- https://apwg.org/reportphishing
 - https://www.ic3.gov/
-- https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discover-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/
+- https://www.fdic.gov/consumer-resource-center/2025-06/bank-impersonation-scams-and-fake-banks
+- https://www.wellsfargo.com/privacy-security/fraud/bank-scams/bank-imposter/

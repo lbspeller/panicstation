@@ -1,83 +1,75 @@
----
+﻿---
 title: "What to do if… you are sent explicit content that appears to involve someone who may be underage and you feel panicked"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "sent explicit content"
-  - "may be underage"
-  - "possible child image"
-  - "suspect illegal image"
-  - "explicit message received"
-  - "unwanted sexual content"
-  - "sexual image in chat"
-  - "underage nude sent"
-  - "explicit photo sent"
-  - "explicit video sent"
-  - "worried about child image"
-  - "panicking after message"
-  - "received disturbing image"
-  - "image might involve minor"
-  - "someone sent illegal content"
-  - "sexual content from stranger"
-  - "explicit content in dm"
-  - "not sure their age"
-  - "disturbing sexual message"
-  - "child sexual image concern"
-  - "what do i do if i am sent underage pictures"
-  - "what do i do if someone sends me csam"
-  - "what do i do if i see child exploitation"
-  - "what do i do if i received illegal images"
-  - "help i received an underage video"
-  - "help i was sent a child photo"
-  - "help i saw something illegal online"
-  - "my chat has illegal content"
-  - "seeing child abuse material online"
-  - "reporting child exploitation online usa"
-  - "ncmec cybertip reporting steps"
-  - "accidental receipt of explicit content"
-  - "illegal images in direct message"
-  - "reporting suspected underage photos"
-  - "panic after receiving explicit media"
-last_reviewed: "2026-03-17"
+  - sent explicit content
+  - may be underage
+  - possible child image
+  - suspect illegal image
+  - explicit message received
+  - unwanted sexual content
+  - sexual image in chat
+  - underage nude sent
+  - explicit photo sent
+  - explicit video sent
+  - worried about child image
+  - panicking after message
+  - received disturbing image
+  - image might involve minor
+  - someone sent illegal content
+  - sexual content from stranger
+  - explicit content in dm
+  - not sure their age
+  - disturbing sexual message
+  - child sexual image concern
+last_reviewed: "2026-03-14"
 ---
-# What to do if… you are sent explicit content that appears to involve someone who may be underage and you feel panicked (USA)
 
+# What to do if… you are sent explicit content that appears to involve someone who may be underage and you feel panicked (USA)
 ## Short answer
-Stop all interaction with the content and the sender immediately and report the incident to the National Center for Missing & Exploited Children (NCMEC) via the CyberTipline. If a child is in immediate physical danger, call **911** or your local police department.
+
+Stop engaging with the content and report it through the platform and the U.S. child-exploitation reporting route. If you think a child is in immediate danger, call **911** or your local police now.
 
 ## Do not do these things
-- Do not forward the content to anyone, including friends, family, or AI tools, even to ask for advice or identification.
-- Do not download, save to a cloud, or screenshot the content unless specifically instructed by law enforcement.
-- Do not reply to the sender or attempt to "investigate" their identity or the age of the person in the media.
-- Do not delete the conversation or the account that sent the material until after you have filed a report, as metadata may be required for investigation.
-- Do not share the details or descriptions of the content on public forums or social media.
+
+- Do not forward it to anyone, even to ask for help identifying it.
+- Do not reply to the sender to confront them or keep the conversation going.
+- Do not keep reopening the image or video to examine it.
+- Do not share screenshots in messages, forums, or social media.
+- Do not try to verify the person’s age yourself.
+- Do not feel you need to handle this alone or make every decision immediately.
+- If you may want to report it, use the platform’s reporting tools first and then follow any instructions the platform or law enforcement give you.
 
 ## What to do now
-1. **Isolate the content by closing the application or browser tab.** This prevents further exposure and stops you from accidentally interacting with the material while you determine your next steps.
-2. **Report the account and content using the platform’s internal tools.** Most major social media and messaging apps have a specific reporting category for "Child Safety" or "Illegal Content."
-3. **File a report with the NCMEC CyberTipline at report.cybertip.org.** This is the official U.S. clearinghouse for all suspected child sexual exploitation; you can also report by calling **1-800-843-5678 (1-800-THE-LOST)**.
-4. **Preserve the evidence without further viewing.** Leave the original message untouched in the app where it was received; law enforcement and NCMEC prefer to access the original digital trail rather than forwarded copies.
-5. **Use the "Take It Down" service if the content involves you and was taken when you were under 18.** This service helps remove explicit images of yourself from participating platforms, regardless of whether you are currently a minor or an adult.
-6. **Block the sender only after the reports are submitted.** Once you have reported the user to the platform and the CyberTipline, use the block or mute function to prevent any further contact or harassment.
-7. **Contact local law enforcement if there is a local or immediate threat.** If the sender is someone you know personally or if the content implies a child is currently being harmed nearby, call **911**.
+
+1. **Stop the interaction.** Close the content and stop messaging the sender.
+2. **Report it on the platform where it was sent.** Use the app or website’s built-in reporting tool for the account and the content. Then block or mute the sender if needed to stop further contact.
+3. **Make a report to the CyberTipline.** In the U.S., NCMEC’s CyberTipline is the centralized reporting system for suspected online child sexual exploitation.
+4. **If there is immediate danger, contact emergency services.** Call **911** or your local police if you think a child may be in immediate physical danger.
+5. **If you are under 18 and the image or video is of you, use Take It Down and tell a trusted adult.** Take It Down helps remove or stop the online sharing of nude, partially nude, or sexually explicit images or videos taken of you when you were under 18 on participating public or unencrypted services.
+6. **If this seems connected to grooming, pressure, or threats, treat it as urgent even if you are unsure.** Make the CyberTipline report and contact local police rather than continuing contact with the sender.
+7. **Contain further exposure once you have reported it.** Leave the app closed, disable previews or notifications for that chat if you can, and avoid reopening the content unless the platform or law enforcement asks you to do something specific.
 
 ## What can wait
-- You do not need to decide if the content is "definitely" illegal; the CyberTipline is designed to handle suspected cases and perform the assessment for you.
-- You do not need to provide a statement to multiple agencies immediately; the NCMEC system is a centralized hub that distributes information to the appropriate law enforcement.
-- You do not need to determine the sender's motives or location today.
+
+You do not need to decide right now what label fits the situation, whether to speak to multiple agencies today, or whether you are “certain enough.” You also do not need to keep checking the content to justify reporting it.
 
 ## Important reassurance
-Feeling a sense of panic, shock, or severe discomfort after seeing this type of material is a common and understandable response. You are not responsible for the actions of the person who sent the material. Following the official reporting procedures is the most effective way to address the situation and help protect any children involved.
+
+A panicked reaction to this kind of material is normal. The safest first move is usually to stop the interaction, report through the proper channel, and let specialist systems take it from there.
 
 ## Scope note
-This guide covers immediate stabilization and reporting steps for U.S. jurisdictions only. It does not provide legal defense advice or long-term therapeutic support.
+
+This is first steps only. Later decisions about reporting, safeguarding, or support may need specialist help.
 
 ## Important note
-This is general procedural information and not legal or professional advice. Laws regarding Child Sexual Abuse Material (CSAM) are strict; reporting through official channels like NCMEC is the standard procedure for those who inadvertently encounter such material.
+
+This is general information, not legal or mental health advice. The right next step can depend on your age, where the content was sent, and whether there is an immediate risk to a child.
 
 ## Additional Resources
+- https://www.missingkids.org/CyberTipline
 - https://www.missingkids.org/gethelpnow/cybertipline
-- https://www.fbi.gov/how-we-can-help-you/parents-and-caregivers-protecting-your-kids
-- https://www.justice.gov/d9/2023-06/child_sexual_abuse_material_2.pdf
-- https://rainn.org/get-the-facts-about-csam-child-sexual-abuse-material/what-should-you-do-if-you-or-your-child-has-been-victimized/
-- https://takeitdown.ncmec.org/resources-and-support/
+- https://takeitdown.ncmec.org/
+- https://takeitdown.ncmec.org/faq/
+- https://www.missingkids.org/gethelpnow/isyourexplicitcontentoutthere

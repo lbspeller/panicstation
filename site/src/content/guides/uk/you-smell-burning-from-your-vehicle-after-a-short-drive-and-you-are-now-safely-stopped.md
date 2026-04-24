@@ -1,96 +1,71 @@
----
+﻿---
 title: "What to do if… you smell burning from your vehicle after a short drive and you are now safely stopped"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "burning smell from car"
-  - "smell of burning in vehicle"
-  - "burning odour after short drive"
-  - "smoke smell in car"
-  - "overheating smell from engine"
-  - "electrical burning smell car"
-  - "rubber burning smell car"
-  - "burning smell when stopped"
-  - "car smells like burning plastic"
-  - "car smells like burning oil"
-  - "hot smell from bonnet"
-  - "vehicle may be on fire"
-  - "stopped on hard shoulder"
-  - "motorway emergency stop"
-  - "worried car will catch fire"
-  - "engine bay burning smell"
-  - "just drove and smell burning"
-  - "parked up and smell burning"
-  - "what do i do if my car smells like burning"
-  - "what do i do if i smell smoke in car"
-  - "what do i do if car engine smells hot"
-  - "what do i do if car smells like rubber"
-  - "help i smell burning from my engine"
-  - "help i smell smoke in my vehicle"
-  - "my car smells like it is on fire"
-  - "my car smells like burning plastic"
-  - "visible smoke from bonnet"
-  - "sizzling sound under car"
-  - "hissing noise from engine"
-  - "acrid smell in cabin"
-  - "burning carpet smell car"
-  - "burning oil smell car"
-  - "bonnet"
-  - "engine"
-  - "vehicle"
-  - "car"
-  - "burning"
-  - "smell"
-  - "drive"
-  - "stopped"
-last_reviewed: "2026-03-17"
+  - burning smell from car
+  - smell of burning in vehicle
+  - burning odour after short drive
+  - smoke smell in car
+  - overheating smell from engine
+  - electrical burning smell car
+  - rubber burning smell car
+  - burning smell when stopped
+  - car smells like burning plastic
+  - car smells like burning oil
+  - hot smell from bonnet
+  - vehicle may be on fire
+  - stopped on hard shoulder
+  - motorway emergency stop
+  - worried car will catch fire
+  - engine bay burning smell
+  - just drove and smell burning
+  - parked up and smell burning
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… you smell burning from your vehicle after a short drive and you are now safely stopped (UK)
 
 ## Short answer
-Stop the vehicle immediately in a safe place, turn off the engine, evacuate all passengers, move well away from traffic, and call 999 if smoke or flames are visible.
+Treat it as a potential fire risk: keep everyone out of the vehicle, move well away from it (and traffic), and call 999 if you see smoke, flames, or the smell is strong and worsening.
 
 ## Do not do these things
-- Do not continue driving to reach a destination or a specific garage.
-- Do not open the bonnet if you see smoke or suspect a fire, as this provides oxygen to the flames.
-- Do not lean over the engine bay or put your face near the grille to investigate the smell.
-- Do not return to the vehicle to retrieve bags, phones, or personal items if there is visible smoke.
-- Do not stand between your vehicle and oncoming traffic.
-- Do not use water on an engine fire, as it can spread burning fuel or cause electrical shorts.
-- Do not attempt to restart the vehicle until it has been professionally inspected.
+- Do not keep driving “to see if it goes away.”
+- Do not open the bonnet if you suspect smoke or fire from the engine bay (opening can feed a fire with air).
+- Do not lean over the grille/bonnet seam to look for the source if you smell burning.
+- Do not put your face near vents or the engine bay to “sniff-check” where it’s coming from.
+- Do not try to fix wiring, battery connections, fuel lines, or leaks at the roadside.
+- Do not go back to retrieve belongings if you see smoke/flames or hear popping/crackling.
+- Do not smoke or use a lighter near the vehicle.
 
 ## What to do now
-1. **Bring the vehicle to a controlled stop as far left as possible.** Switch on your hazard warning lights, turn off the engine, and remove the key to isolate the electrical system.
-2. **Ensure all occupants exit the vehicle using the doors furthest from traffic.** Move everyone to a safe distance behind a crash barrier or up an embankment if available.
-   - Keep children and pets under close control.
-   - Do not stand directly in front of or behind the vehicle.
-3. **Release the interior bonnet catch only if it is safe and can be done from the driver's seat.** Do not attempt to physically lift the bonnet or touch the exterior latch.
-4. **Call the emergency services if there are signs of fire.** Dial **999** and ask for **Fire and Rescue** if you see smoke, flames, or if the smell is rapidly intensifying.
-   - Provide your road name, direction of travel, and any motorway marker posts or landmarks.
-5. **Contact National Highways if you are stopped on a motorway or major A-road.** Call **0300 123 5000** or use a roadside emergency telephone to report your location so they can provide lane protection.
-6. **Wait for assistance while facing oncoming traffic.** This ensures you remain aware of approaching vehicles or debris.
-7. **Use a fire extinguisher only if the fire is very small and you can do so safely.** 
-   - Use a dry powder or foam extinguisher (BS EN3).
-   - Aim through the radiator grille or under the edge of the bonnet; do not open the bonnet.
-   - If the fire does not go out immediately, stop and move away.
+1. **Make the stop safer (where you are).** Put hazard lights on. Turn the engine off, remove the key, and set the parking brake.
+2. **Get people out and away.** Everyone exits the vehicle and moves **well away** from it and away from traffic (ideally behind a barrier or up an embankment if there is one). Keep children/pets close to you, not near the car.
+3. **If it seems like an engine-bay fire risk, release the bonnet catch—but don’t open it.** Only do this if you can do it quickly and safely from inside the car (or immediately beside the door), then step away.
+4. **Scan for escalation signs from a distance.** Look for smoke (even wisps), flames, hissing, sizzling, or a rapidly intensifying burning smell.
+5. **Call the right help based on what you observe and where you are:**
+   - **If you see smoke/flames, or the smell is strong/worsening:** call **999** and ask for **Fire and Rescue**. Give your exact location (road name/number, direction of travel, nearest junction, and any motorway marker/landmark).
+   - **If you’re on a motorway/hard shoulder or in an emergency area and feel exposed to traffic:** if there’s an **emergency roadside telephone** nearby and it’s safe to reach, use it; otherwise call **999** and say you’re stopped on a motorway/hard shoulder so responders can protect the scene.
+6. **Keep clear of the bonnet and wheels.** Stay out of the “line” in front of the car and away from the engine bay area. Keep bystanders back.
+7. **Only if it is safe to do so and you have a suitable extinguisher:** a small fire may be tackled with **dry powder or foam** (to **BS EN3**). If the fire seems to be in the engine compartment, **do not open the bonnet**—aim through the radiator grille or under the edge of the bonnet. If it doesn’t go out immediately, stop and move away.
+8. **If there are no fire signs and the smell fades:** still assume something is overheating/leaking. **Do not restart** until you have a plan to get the car checked or recovered.
 
 ## What can wait
-- You do not need to identify if the smell is from the clutch, brakes, oil, or wiring right now.
-- You do not need to arrange recovery or insurance claims while in the immediate danger zone.
-- You do not need to worry about the cost of a missed appointment or late arrival.
+- You do **not** need to diagnose the cause right now (oil, clutch, brakes, wiring, coolant, etc.).
+- You do **not** need to decide about repairs, insurance, or complaints today.
+- You do **not** need to “just drive slowly to the next garage” if there was any smoke or strong burning smell—getting safely recovered is enough for now.
 
 ## Important reassurance
-It is normal to feel panicked when you smell burning in a vehicle. Taking the precaution of stopping and evacuating is the correct safety response, even if the cause turns out to be a minor mechanical fault. Professional responders prefer to attend a false alarm than an escalated fire.
+A burning smell can be caused by many things, but treating it as a potential fire for the first few minutes is the safest move. Getting distance and calling for help early is not overreacting—it’s how you prevent a small fault becoming an emergency.
 
 ## Scope note
-This guide provides first-step stabilization for the minutes following the discovery of a burning smell. It does not cover mechanical repair, long-term vehicle maintenance, or recovery procedures once the scene is safe.
+This is first-step guidance for the immediate situation while you’re safely stopped. Once you’re safe, the next stage is recovery/inspection so the vehicle isn’t restarted in an unsafe condition.
 
 ## Important note
-This information is for emergency stabilization and does not replace the advice of emergency services or qualified mechanics. Vehicle fires can escalate rapidly; always prioritise personal safety and distance over the preservation of the vehicle.
+This is general information, not mechanical or legal advice. If you see smoke/flames, feel unsafe where you’re stopped, or the smell is intensifying, prioritise distance and emergency help.
 
 ## Additional Resources
-- https://www.rac.co.uk/drive/advice/car-maintenance/car-smells-guide-causes-and-solutions/
-- https://www.rac.co.uk/drive/advice/know-how/engine-smoking-why-its-happening-and-what-to-do/
-- https://www.theaa.com/breakdown-cover/advice/car-clutch-problems
-- https://www.theaa.com/breakdown-cover/advice/car-smells-of-petrol
-- https://www.theaa.com/breakdown-cover/advice/common-starter-motor-problems
+- https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287
+- https://www.dsfire.gov.uk/safety/on-the-road/car-and-vehicle-fires
+- https://www.gloucestershire.gov.uk/glosfire/your-safety/safety-on-the-road/car-fires/
+- https://www.suffolk.gov.uk/asset-library/imported/sfrs-vehicle-fires-factsheet.pdf

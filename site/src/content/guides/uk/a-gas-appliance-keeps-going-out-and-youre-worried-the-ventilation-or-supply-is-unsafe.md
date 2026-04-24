@@ -1,89 +1,78 @@
----
+﻿---
 title: "What to do if… a gas appliance keeps going out and you’re worried the ventilation or supply is unsafe"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "gas appliance keeps going out"
-  - "boiler flame failure"
-  - "gas fire cutting out"
-  - "cooker flame goes out"
-  - "pilot light keeps blowing out"
-  - "boiler pilot light goes out"
-  - "intermittent gas appliance failure"
-  - "gas water heater cutting out"
-  - "what do i do if my boiler keeps going out"
-  - "what do i do if my gas fire stops working"
-  - "what do i do if the cooker flame is yellow"
-  - "help i smell gas near the boiler"
-  - "help i feel dizzy when the heating is on"
-  - "my gas heater keeps shutting down"
-  - "my pilot light wont stay lit"
-  - "yellow lazy gas flame"
-  - "soot marks around gas boiler"
-  - "brown staining on gas heater"
-  - "smell of burning plastic gas"
-  - "stuffy air near gas fire"
-  - "headache when boiler is running"
-  - "nausea when heating is on"
-  - "carbon monoxide alarm going off"
-  - "blocked gas flue symptoms"
-  - "gas ventilation blocked signs"
-  - "gas supply pressure low"
-  - "ventilation air brick covered"
-  - "gas appliance keeps shutting off"
-  - "gas appliance safety check"
-  - "gas flue inspection"
-last_reviewed: "2026-03-17"
+  - gas appliance keeps going out
+  - boiler keeps cutting out
+  - gas fire keeps going out
+  - cooker flame goes out
+  - pilot light keeps going out
+  - worried about carbon monoxide
+  - worried about fumes
+  - ventilation might be blocked
+  - flue might be blocked
+  - yellow or lazy flame gas
+  - soot marks near appliance
+  - smell of gas in home
+  - appliance keeps tripping off
+  - sudden shutdown gas heater
+  - gas pressure problem suspected
+  - intermittent gas supply
+  - tenant gas safety concern
+  - landlord gas appliance unsafe
+  - feel dizzy when heating on
+  - headaches at home heating on
+last_reviewed: "2026-03-05"
 ---
+
 # What to do if… a gas appliance keeps going out and you’re worried the ventilation or supply is unsafe (UK)
 
 ## Short answer
-Turn the appliance off immediately, open windows for fresh air, and do not attempt to relight or reset it. If you smell gas or suspect carbon monoxide fumes, evacuate the property and call the National Gas Emergency Helpline on 0800 111 999 from outside.
+Turn the appliance off and stop trying to relight/reset it. Get fresh air and, if you smell gas or suspect fumes/carbon monoxide, leave and call the National Gas Emergency Helpline (0800 111 999) from outside.
 
 ## Do not do these things
-- Do not keep resetting or relighting the appliance to see if it stays on.
-- Do not block or cover any vents, air bricks, or window grilles to stop draughts.
-- Do not use any electrical switches, including lights, if you smell gas.
-- Do not use matches, lighters, or any other source of ignition inside the building.
-- Do not go into a cellar or basement to turn off the gas supply.
-- Do not ignore "flu-like" symptoms that seem to improve when you are away from the home.
-- Do not attempt to repair or inspect the internal parts of a gas appliance yourself.
-- Do not stay inside to make a phone call if you suspect a gas leak or fumes.
+- Don’t keep relighting the pilot / repeatedly resetting the boiler or heater “to see if it holds.”
+- Don’t block vents, air bricks, or cover grilles to “stop draughts.”
+- Don’t run the appliance “with a window cracked” as a workaround if it’s repeatedly going out.
+- Don’t operate electrical switches (including turning lights on/off) if you suspect a gas leak.
+- Don’t use a phone inside the property if you suspect a gas leak—leave first, then call from outside.
+- Don’t ignore symptoms like headache, dizziness, nausea, confusion, or unusual tiredness—especially if they improve when you go outside.
+- Don’t use naked flames to “test” for gas.
+- Don’t attempt DIY repairs to gas appliances or flues.
 
 ## What to do now
-1. **Turn off the appliance and leave it off.** If the appliance has an accessible control or isolation switch, turn it to the 'off' position immediately.
-2. **Open all doors and windows as you move through the property.** Increasing airflow helps disperse any build-up of unburnt gas or combustion products like carbon monoxide.
-3. **Check for immediate physical symptoms in yourself and others.** 
-   - Symptoms of carbon monoxide exposure include headaches, dizziness, nausea, breathlessness, collapse, and loss of consciousness.
-   - If anyone is unresponsive but breathing, move them into fresh air and place them in the recovery position.
-4. **Evacuate the property immediately if you smell gas or suspect fumes.** Ensure everyone, including pets, is outside in the fresh air.
-5. **Call the National Gas Emergency Helpline on 0800 111 999 from outside the property.** This is a 24-hour free service for both gas leaks and suspected carbon monoxide emergencies.
-6. **Turn off the gas at the meter only if it is safe and outside a cellar.** Locate the emergency control valve (ECV) by the gas meter and turn the handle so it is at a right angle to the pipe. 
-   - If the meter is in a basement or cellar, do not enter; leave the building immediately.
-7. **Seek medical advice immediately if you suspect exposure.** 
-   - Call **999** if someone has difficulty breathing, is confused, or has collapsed.
-   - Call **NHS 111** for urgent advice if symptoms are milder but you believe you have been exposed to carbon monoxide.
-8. **Contact a Gas Safe registered engineer to inspect the appliance.** Do not use the appliance again until it has been professionally cleared and the ventilation or flue has been checked.
-   - If you are a tenant, report the issue to your landlord or letting agent in writing as soon as you are in a safe location.
+1. **Switch the appliance off** (use its control or isolation switch if you can do so calmly and safely). If it’s a boiler, stop any repeated reset attempts.
+2. **Get fresh air immediately.** Open doors/windows as you move out of the room. If anyone feels unwell (headache, dizziness, nausea, confusion), **move everyone outside into fresh air**.
+3. **If you smell gas, suspect a leak, or are worried fumes/carbon monoxide may be escaping:**
+   - **Leave the property (or affected area) immediately.**
+   - From outside (or a neighbour’s phone), **call the National Gas Emergency Helpline: 0800 111 999** and follow instructions.
+   - **Only if it’s quickly accessible and you can do it without delaying leaving:** turn off the gas at the **emergency control valve** at the meter. If the meter is in a cellar/basement or you’re unsure, **leave it and wait for the emergency engineer**.
+   - If there is fire/explosion or immediate danger, call **999**.
+4. **If a carbon monoxide alarm sounds:** treat it as real—**go outside immediately**.
+   - If anyone is seriously unwell (difficulty breathing, sudden confusion, collapse, severe weakness, chest pain), call **999**.
+   - If symptoms are milder but you’re worried you’ve been exposed, **call NHS 111** for urgent medical advice and **do not re-enter** until you’ve had advice and the source has been checked.
+5. **Arrange a Gas Safe-registered engineer to inspect the appliance and its ventilation/flue** before using it again. If you rent: **report it to your landlord/agent in writing** and state you’ve turned the appliance off due to a safety concern.
+6. **While you wait:** keep vents/air bricks clear, don’t use the appliance again, and avoid using any other gas appliances that seem to be behaving oddly (flames going out, unusual smells/soot, or making you feel unwell).
 
 ## What can wait
-- You do not need to identify the technical fault (such as a blocked flue or faulty thermocouple) yourself.
-- You do not need to determine who is responsible for the repair costs while the emergency is active.
-- You do not need to check other gas appliances in the home until an engineer has arrived.
-- You do not need to wait for a landlord's permission to call the emergency gas helpline.
+- You don’t need to figure out the cause (flue, ventilation, pressure, thermocouple, regulator, etc.) right now.
+- You don’t need to decide today who will pay or whether it’s “landlord vs. you”—first priority is making it safe and getting it checked.
+- You don’t need to gather proof beyond a simple note of what happened (time, symptoms, any alarm sounding) if you’re stressed.
 
 ## Important reassurance
-It is common for gas appliances to shut down as a safety precaution when ventilation is inadequate or there is a supply issue. Acting quickly to turn the appliance off and get fresh air is a standard safety response and does not mean you have done anything wrong. Professional engineers expect to be called for these symptoms.
+It’s reasonable to treat repeated flame-out/cut-outs as a safety signal. Turning it off and getting fresh air and expert help is a cautious, normal response—many dangerous problems look like “it just keeps going out.”
 
 ## Scope note
-This guide provides first-step stabilization and emergency contact information for gas appliance failures and suspected fume hazards. It does not replace a professional safety inspection by a Gas Safe registered engineer.
+These are first steps to reduce immediate risk and get the right help involved. Faults with gas appliances, ventilation, or flues need proper inspection by a qualified engineer.
 
 ## Important note
-This information is for general safety guidance only. In any situation involving a suspected gas leak, fire, or carbon monoxide poisoning, your priority is to evacuate and contact emergency services.
+This is general safety information, not professional advice. If you think there may be a gas leak or dangerous fumes, prioritise leaving the area, getting fresh air, and contacting the emergency gas service or emergency medical help.
 
 ## Additional Resources
-- https://www.hse.gov.uk/gas/domestic/faqs.htm
-- https://www.hse.gov.uk/gas/domestic/faqlandlord.htm
-- https://www.nationalgas.com/emergency-contacts
-- https://www.hse.gov.uk/gas/gas-safe-register-check.htm
+- https://www.gassaferegister.co.uk/gas-emergency/what-to-do-in-a-gas-emergency/
+- https://cadentgas.com/smell-gas
+- https://www.sgn.co.uk/smellgas
 - https://www.nhs.uk/conditions/carbon-monoxide-poisoning/
+- https://www.gov.uk/government/publications/carbon-monoxide-properties-incident-management-and-toxicology/carbon-monoxide-general-information
+- https://www.dsfire.gov.uk/safety/home/carbon-monoxide

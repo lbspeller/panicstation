@@ -1,102 +1,76 @@
----
+﻿---
 title: "What to do if… you discover wet insulation or dripping in the loft or attic after a storm"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "wet loft insulation"
-  - "wet attic insulation"
-  - "dripping in the loft"
-  - "dripping in the attic"
-  - "water in loft after storm"
-  - "water in attic after storm"
-  - "roof leak into loft"
-  - "roof leak into attic"
-  - "ceiling drip after storm"
-  - "storm roof damage leak"
-  - "damp loft insulation"
-  - "soggy attic insulation"
-  - "water near loft electrics"
-  - "leaking around loft hatch"
-  - "insulation soaked by rain"
-  - "loft leak at chimney"
-  - "loft leak around skylight"
-  - "rainwater ingress loft"
-  - "dripping from rafters"
-  - "what do i do if my loft is leaking"
-  - "what do i do if my attic is wet"
-  - "what do i do if my ceiling is dripping"
-  - "what do i do if insulation is soaked"
-  - "help i have a roof leak"
-  - "help i have water in the loft"
-  - "help i have a dripping ceiling"
-  - "help i have wet insulation"
-  - "smell of damp in attic"
-  - "brown stain on ceiling"
-  - "bulging ceiling plasterboard"
-  - "visible water in loft"
-  - "wet ceiling insulation"
-  - "storm damage roof leak"
-  - "leaking roof space"
-last_reviewed: "2026-03-17"
+  - wet loft insulation
+  - wet attic insulation
+  - dripping in the loft
+  - dripping in the attic
+  - water in loft after storm
+  - water in attic after storm
+  - roof leak into loft
+  - roof leak into attic
+  - ceiling drip after storm
+  - storm roof damage leak
+  - damp loft insulation
+  - soggy attic insulation
+  - water near loft electrics
+  - leaking around loft hatch
+  - insulation soaked by rain
+  - loft leak at chimney
+  - loft leak around skylight
+  - rainwater ingress loft
+  - dripping from rafters
+last_reviewed: "2026-03-04"
 ---
-# What to do if… you discover wet insulation or dripping in the loft or attic after a storm (UK)
 
+# What to do if… you discover wet insulation or dripping in the loft or attic after a storm (UK)
 ## Short answer
-Isolate the electricity supply if water is near wiring or light fittings, then contain the water with buckets or trays without standing on weakened ceiling structures.
+Treat it as an electrical and structural risk first: if water may be reaching lights, wiring, or the consumer unit, keep electricity off and don’t touch anything wet—then stop the leak getting worse and document the damage.
 
 ## Do not do these things
-- Do not step into the loft if the ceiling below is sagging, cracking, or showing signs of structural failure.
-- Do not touch wet light fittings, cables, junction boxes, or the consumer unit.
-- Do not use a mobile phone or operate any electrical switches inside the property if you suspect a gas leak or smell gas.
-- Do not switch the power back on until the system has been inspected by a qualified electrician.
-- Do not climb onto the roof during or immediately after a storm.
-- Do not attempt to remove large amounts of insulation if the property was built before 2000, as it may contain asbestos.
+- Don’t step into the loft if the ceiling below is bowing/sagging, plaster is cracking, or you can see water pooling on plasterboard (collapse risk).
+- Don’t touch wet light fittings, cables, junction boxes, or the consumer unit/fuse box.
+- Don’t switch power back on “to see if it still works” while anything is damp.
+- Don’t pull down wet insulation in a rush—fibres, dust, and hidden wiring make this a bad first step.
+- Don’t climb onto the roof during or just after a storm (slip/fall risk).
+- Don’t run dehumidifiers/fans in the affected area if you suspect water has reached electrics and you haven’t made it safe.
 
 ## What to do now
-1. **Identify immediate electrical hazards from a safe distance.** Look for water traveling along cables, dripping through light rose fittings, or pooling near the consumer unit.
-2. **Isolate the electricity supply at the main switch.** 
-   - Only do this if the consumer unit is in a dry location and you can reach it without standing in water.
-   - If the consumer unit is damp or inaccessible, call your local electricity distribution network operator by dialing **105**.
-3. **Address potential gas or carbon monoxide risks.** If you smell gas or a flue has been damaged by the storm:
-   - Extinguish all naked flames.
-   - Open windows and doors.
-   - Evacuate the property.
-   - Call the **National Gas Emergency Service** on **0800 111 999**.
-4. **Relieve water pressure on sagging ceilings if it is safe to do so.** 
-   - Place a large bucket under the bulge.
-   - Carefully pierce a small hole in the centre of the bulge using a screwdriver or similar tool to allow trapped water to drain.
-   - Do not stand directly under the bulge while doing this.
-5. **Contain the leak in the loft space.**
-   - Place buckets, bins, or deep trays under active drips.
-   - Lay old towels or absorbent mats around the containers to catch splashes.
-   - Move any stored items away from the wet area.
-6. **Document the damage for insurance purposes.**
-   - Take clear photographs of the water entry point in the loft.
-   - Photograph the soaked insulation and any damaged belongings.
-   - Record any ceiling stains or damage in the rooms below.
-7. **Contact professional assistance.**
-   - Call your home insurance provider to log an emergency claim.
-   - Arrange for a roofing contractor to provide an emergency "make-safe" covering or tarping.
-   - If you are a tenant, notify your landlord or letting agent immediately.
+1. **Pause and do a quick hazard check from a safe, dry place.** Look for: water dripping through a ceiling light, buzzing/crackling, scorch marks, a “hot” smell, or bulging ceilings. If any of these are present, keep everyone away from that area.
+2. **Make electrics safe before anything else.**  
+   - If you can do it **without touching anything wet and without standing in water**, switch off electricity at the **consumer unit** (main switch).  
+   - If you **can’t** safely reach it, **don’t try**—call an electrician. If there’s an electrical hazard or power issue, you can contact your local electricity distribution network operator via **105**.
+3. **If you smell gas or suspect carbon monoxide, treat it as urgent.** Open doors/windows, get everyone into fresh air, and call the **National Gas Emergency Service (0800 111 999)**. If a gas appliance/flue has been physically damaged by the storm and you suspect leakage or carbon monoxide risk, treat that as urgent too.
+4. **Catch and divert water to limit damage.** Put a bucket/tray under drips, lay old towels, and (if safe) move stored items away from the wet area. If you can see a steady drip from a single point, a temporary plastic sheet *under* the drip can help guide water into a container.
+5. **Document the situation before you disturb it.** Take clear photos/video of: the wet insulation/dripping point, any ceiling stains below, and any damaged belongings. Note the time you first noticed it and which rooms are affected.
+6. **Arrange urgent “make-safe” help.** Contact:  
+   - **Your insurer** (home buildings/contents) to log the claim and ask what temporary repairs they want documented.  
+   - A **roofing contractor** for emergency tarping/temporary covering and to identify the entry point (missing tiles, flashing, valleys, chimney, skylight, gutters).  
+   If you rent, **notify the landlord/agent immediately** and keep your own photos/notes.
+7. **Reduce mould risk once electrics are confirmed safe.** Ventilate affected rooms (open windows if weather allows) and keep internal doors to unaffected rooms closed. Do not start pulling insulation out yet unless a professional advises it’s necessary for safety.
+8. **If you suspect older/unknown insulation or dust (e.g., very old property or unusual boards/lagging), stop and get specialist advice.** Don’t rip, sand, or bag unknown materials as a first step.
 
 ## What can wait
-- You do not need to decide on permanent roof repairs or replacement materials today.
-- You do not need to remove all insulation until the roof is confirmed to be watertight.
-- You do not need to clean or repaint ceiling stains while the area is still damp.
-- You do not need to dispose of damaged items until they have been inspected or documented by your insurer.
+- You do **not** need to decide today whether to replace all insulation or “upgrade” anything.
+- You do **not** need to scrub stains or repaint now (cosmetic work can hide ongoing leaks).
+- You do **not** need to negotiate with contractors on permanent works until the leak source is identified and documented.
+- You do **not** need to throw away belongings immediately—just move them dry and photograph damage.
 
 ## Important reassurance
-Water ingress during a storm is a common property issue that can often be stabilized quickly. Once the electricity is isolated and the water is contained, the immediate danger to the property is significantly reduced. Professional contractors are equipped to handle drying and repair processes once the weather stabilizes.
+Storm leaks are common and often look worse than they are because water spreads along timbers and plasterboard before it shows. Focusing on safety (electrics/collapse) and limiting further damage is the right first move.
 
 ## Scope note
-This guide provides first-step stabilization only. Permanent structural repairs, electrical certification, and mould remediation require assessment by qualified specialists.
+These are first steps to make things safe, limit damage, and buy time. Permanent roof repair, drying plans, and any insulation removal/replacement can be decided once the leak source and extent are confirmed.
 
 ## Important note
-This information is for general guidance and does not replace professional advice. If there is an immediate risk of fire, structural collapse, or gas explosion, evacuate the property and call **999**.
+This is general information, not a substitute for professional inspection. If you feel unsafe, cannot isolate electrics safely, or suspect gas involvement, treat it as urgent and get qualified help.
 
 ## Additional Resources
-- https://www.nhbc.co.uk/kontentdocuments/865dc06d-9f7d-4a86-83a6-ed34e82b9a3b/condensation-in-your-roof-space-2024.pdf
-- https://energysavingtrust.org.uk/advice/roof-and-loft-insulation/
-- https://www.abi.org.uk/products-and-issues/topics-and-issues/flooding/storms/storm-faq/
-- https://www.citizensadvice.org.uk/consumer/insurance/types-of-insurance/buildings-insurance/
-- https://www.citizensadvice.org.uk/consumer/insurance/types-of-insurance/household-contents-insurance/
+- https://www.gov.uk/after-flood
+- https://www.gov.uk/help-during-flood
+- https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/
+- https://www.energynetworks.org/customers/find-my-network-operator
+- https://www.nationalgas.com/emergency-contacts
+- https://niceic.com/news/flooding-electrical-safety/

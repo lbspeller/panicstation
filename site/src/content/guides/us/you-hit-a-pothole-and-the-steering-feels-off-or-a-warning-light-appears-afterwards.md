@@ -1,92 +1,76 @@
----
+﻿---
 title: "What to do if… you hit a pothole and the steering feels “off” or a warning light appears afterwards"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
-  - "hit a pothole"
-  - "pothole impact"
-  - "steering feels off"
-  - "steering wheel pulling"
-  - "vibration after pothole"
-  - "warning light after bump"
-  - "tire pressure light on"
-  - "tpms light after pothole"
-  - "wheel bent after pothole"
-  - "tire sidewall bubble"
-  - "alignment knocked out"
-  - "suspension noise after pothole"
-  - "car pulls left"
-  - "car pulls right"
-  - "shaking steering wheel"
-  - "clunking sound after bump"
-  - "dashboard warning light"
-  - "wobble after hitting hole"
-  - "rim damage"
-  - "crooked steering wheel"
-  - "tpms light flashing"
-  - "low tire pressure symbol"
-  - "help i hit a pothole"
-  - "what do i do if i hit a pothole"
-  - "what do i do if my steering is shaky"
-  - "what do i do if my car pulls after a bump"
-  - "help my tire pressure light is on"
-  - "help my car feels wobbly"
-  - "my steering wheel is not straight"
-  - "my car is making a new noise"
-  - "burning smell after pothole"
-  - "visible wheel damage"
-  - "flat tire after pothole"
-last_reviewed: "2026-03-17"
+  - hit a pothole
+  - pothole impact
+  - steering feels off
+  - steering wheel pulling
+  - vibration after pothole
+  - warning light after bump
+  - tire pressure light on
+  - tpms light after pothole
+  - wheel bent after pothole
+  - tire sidewall bubble
+  - alignment knocked out
+  - suspension noise after pothole
+  - car pulls left or right
+  - dashboard warning light
+  - unsafe to keep driving
+  - wobble after hitting hole
+  - rim damage suspected
+last_reviewed: "2026-03-10"
 ---
+
 # What to do if… you hit a pothole and the steering feels “off” or a warning light appears afterwards (USA)
 
 ## Short answer
-Slow down immediately and find a safe location to stop the vehicle. If the car pulls to one side, vibrates heavily, or a tire-pressure light is on, do not continue driving until you have verified the wheel and tire are structurally sound.
+Slow down and get to a safe stop. If the car pulls, shakes, won’t steer normally, or a serious warning light is on, don’t keep driving—get roadside help and a safety inspection.
 
 ## Do not do these things
-- Do not maintain highway speeds to check if the vibration stops.
-- Do not perform sudden steering maneuvers or hard braking to "test" the alignment in traffic.
-- Do not stand in an active lane of traffic or on a narrow shoulder to inspect the wheels.
-- Do not attempt to reinflate a tire if you see a bulge in the sidewall or a visible crack in the metal rim.
-- Do not ignore a flashing Tire Pressure Monitoring System (TPMS) light, as this indicates a system malfunction or sensor damage from the impact.
+- Don’t keep freeway speeds to “see if it goes away.”
+- Don’t swerve, brake hard, or “test” the steering in traffic.
+- Don’t stand outside the car in an unsafe roadside spot to inspect damage—getting to a safer location matters more.
+- Don’t ignore a tire sidewall bubble, cut, or rapid pressure loss.
+- Don’t assume a tire-pressure warning is “just a sensor” after a hard hit.
 
 ## What to do now
-1. **Reduce your speed and maintain a firm grip on the steering wheel.** Ease off the accelerator rather than braking hard, and keep the wheels as straight as possible while you look for a place to exit the flow of traffic.
-2. **Move the vehicle to a safe, level location away from moving traffic.** Prioritize parking lots, gas stations, or wide shoulders; if you are on a highway, use the nearest exit even if the car is shaking slightly, provided you have steering control.
-3. **Make the vehicle visible to other drivers before exiting.** Turn on your hazard lights and, if stopping on a shoulder, pull as far to the right as possible.
-4. **Identify which specific dashboard warnings have appeared.** 
-   - A horseshoe shape with an exclamation point (TPMS) indicates pressure loss or sensor failure.
-   - A steering wheel icon or "EPS" indicates a failure in the electronic power steering.
-   - A car with squiggly lines indicates a traction control or stability system issue.
-5. **Conduct a visual inspection of the tires and rims only if you are safely away from traffic.** 
-   - Look for "bubbles" or protrusions on the tire sidewalls (signs of internal structural failure).
-   - Check for flattened areas on the tire or a visible gap between the tire and the metal rim.
-   - Inspect the rim for cracks, severe bends, or missing pieces of metal.
-6. **Check your tire pressure with a manual gauge if the TPMS light is solid.** Compare the reading to the "Cold Tire Pressure" listed on the sticker inside the driver’s door jamb; if the pressure is dropping rapidly while you watch, do not drive the vehicle.
-7. **Verify if your vehicle is equipped with a spare tire or a repair kit.** Many modern US vehicles do not carry a spare tire; check the trunk or under-floor compartment to see if you have a "donut" spare, a full-size spare, or an aerosol sealant kit.
-8. **Determine if the vehicle is safe to move at low speeds.** 
-   - If the steering wheel is crooked when driving straight, or if the car pulls aggressively to one side, the alignment or a suspension component is damaged.
-   - If there is a rhythmic "thumping" or heavy vibration, the tire or rim is likely compromised.
-9. **Call for roadside assistance or a tow if any structural damage is visible.** Do not drive on a tire with a sidewall bubble or a cracked rim, as these can lead to a sudden blowout at any speed.
-10. **Document the location of the pothole for later reporting.** Note the street name, nearest cross-street, or highway mile marker, and take a photo of the vehicle damage once you are in a safe, non-roadside location.
+1. **Stabilize the vehicle first.** Ease off the accelerator, hold the wheel firmly, increase following distance, and avoid sudden steering inputs.
+2. **Get out of the highest-risk place.** If the car is controllable, take the nearest exit or pull into a parking lot/service area rather than staying on a narrow shoulder.
+3. **If you must stop roadside, make yourself visible and reduce exposure.** Hazard lights on. If it’s unsafe to be outside the vehicle, stay inside with your seatbelt on while you call for help.
+4. **Treat red or flashing warnings as “stop driving and get help.”** Once safely stopped, consult your owner’s manual if you can. If you’re unsure what the warning means, arrange roadside assistance or a tow rather than continuing.
+5. **Do a quick walk-around check (only if it’s safe to do so).**
+   - Look for a soft/flat tire, a sidewall bubble, a cut, or anything leaking.
+   - Check the wheel/rim for a visible bend or crack.
+6. **If it’s the TPMS (tire pressure) light: check pressure with a gauge and inflate to spec.**
+   - The correct inflation pressure is typically listed on the Tire and Loading Information label (driver’s door area) or in the owner’s manual.
+   - If pressure won’t hold, or you see sidewall damage/bulging, **don’t drive**—get a tire professional or a tow.
+7. **Decide “drive a little” vs “don’t drive” conservatively.**
+   - **Do not drive** if: the car pulls hard, steering feels loose/off-center, there’s strong vibration, you see a bubble/cut/flat, the rim is cracked/badly bent, or there’s fluid leakage.
+   - If it seems controllable and nothing obvious is damaged, drive **slowly and briefly** (avoid highways) to a tire shop or mechanic for inspection.
+8. **Get a same-day safety check if steering feels “off.”** Ask for tire and wheel inspection (including sidewalls and rims), steering/suspension check, and alignment evaluation if appropriate. Tell them it happened immediately after a pothole impact.
+9. **Re-check pressures again soon.** A pothole impact can cause a slow leak or rim issue that shows up later. If pressure drops again, stop driving and get the tire/wheel inspected.
+10. **Document basics for later (if needed).** Note date/time, road name/cross street or mile marker, direction of travel, what changed (pulling, shaking, noise), and which warning light came on. Take photos of your tire/wheel damage in a safe place.
+11. **Remember Move Over laws.** If emergency or service vehicles are on the roadside with flashing lights, move over and slow down as required by your state’s law.
 
 ## What can wait
-- You do not need to determine the exact mechanical component (e.g., tie rod vs. control arm) that is damaged right now.
-- You do not need to contact your insurance company or the local Department of Transportation (DOT) while still at the roadside.
-- You do not need to return to the pothole to take photos of the road surface if it is in an active traffic lane.
+- You do **not** need to decide right now about insurance or whether to pursue a road-damage claim.
+- You do **not** need to determine the exact mechanical cause yourself.
+- You do **not** need to go back to the pothole location.
 
 ## Important reassurance
-Hitting a deep pothole is a high-force event that can startle any driver. Feeling a "pull" or seeing a warning light immediately afterward is a common mechanical result of such an impact; taking the time to stop and evaluate the vehicle is the correct safety protocol to prevent further damage.
+It’s common for a hard pothole hit to cause alignment changes, tire damage you can’t immediately see, or a tire-pressure warning. Taking it seriously and getting it checked is a normal, practical response.
 
 ## Scope note
-This guide covers first-step stabilization and safety assessment immediately following a pothole impact. It does not provide instructions for mechanical repairs, insurance claims, or legal reporting.
+These are immediate steps to reduce risk right after the impact. Follow-up repairs, reporting, and claims can wait until you’re safe and the vehicle has been inspected.
 
 ## Important note
-This information is for general guidance and does not replace professional mechanical or safety advice. If the vehicle feels unstable, steering response is delayed, or a red warning light appears, stop driving immediately and contact a certified mechanic or roadside service. Driving on a compromised tire or suspension system can result in loss of vehicle control.
+This is general information, not mechanical or legal advice. If you feel unsafe driving, the car is pulling/shaking, you see tire or wheel damage, or a serious warning light is on, prioritize stopping safely and getting professional roadside assistance or a tow.
 
 ## Additional Resources
-- https://www.acg.aaa.com/connect/blogs/5c/auto/vehicle-wheel-alignment-and-suspension
-- https://exchange.aaa.com/automotive/car-care-repair-and-maintenance/tire-safety-and-maintenance/
-- https://cluballiance.aaa.com/the-extra-mile/advice/car/car-warning-signs-you-should-never-ignore
-- https://www.progressive.com/answers/does-car-insurance-cover-pothole-damage/
-- https://www.goodyear.com/en_US/service-categories/tire-related/wheel-alignment/211133.html
+- https://www.nhtsa.gov/vehicle-safety/tires
+- https://www.nhtsa.gov/move-over-its-law
+- https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/tirepressure-fmvss-138.pdf
+- https://www.mycardoeswhat.org/wp-content/uploads/2015/05/MCDW-TPMS.pdf
+- https://www.tireindustry.org/resources/consumer-education/consumer-safety-overview/tire-pressure-monitoring-system/

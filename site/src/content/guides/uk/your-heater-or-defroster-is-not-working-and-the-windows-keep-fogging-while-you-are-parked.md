@@ -1,97 +1,80 @@
----
+﻿---
 title: "What to do if… your heater or defroster is not working and the windows keep fogging while you are parked"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - "heater not working in car"
-  - "defroster not working"
-  - "demister not working"
-  - "windows keep fogging up"
-  - "windscreen fogging while parked"
-  - "car windows misting up"
-  - "can’t clear windscreen"
-  - "fogged windscreen can’t see"
-  - "condensation inside car"
-  - "car heater blows cold"
-  - "car ventilation not clearing mist"
-  - "stuck parked with foggy windows"
-  - "safe to drive with foggy windows"
-  - "visibility blocked in car"
-  - "damp car interior fog"
-  - "car climate control failure"
-  - "front screen demist failed"
-  - "rear screen demist failed"
-  - "windscreen keeps misting"
-  - "what do i do if my car heater is broken"
-  - "what do i do if my windows are fogged"
-  - "what do i do if i cant see through my windscreen"
-  - "what do i do if my defroster is broken"
-  - "help i cant see out of my car windows"
-  - "help i am parked and my windows are misted"
-  - "help i have condensation in my car"
-  - "my car windows wont clear"
-  - "my heater is blowing cold air"
-  - "my windscreen is misting up inside"
-  - "misty windows while parked"
-  - "visibility obscured by condensation"
-  - "foggy car windows uk law"
-  - "driving with misted windows penalty"
-  - "highway code rule 229 visibility"
-  - "car heater matrix failure"
-  - "blower motor not working"
-last_reviewed: "2026-03-17"
+  - heater not working in car
+  - defroster not working
+  - demister not working
+  - windows keep fogging up
+  - windscreen fogging while parked
+  - car windows misting up
+  - can’t clear windscreen
+  - fogged windscreen can’t see
+  - condensation inside car
+  - car heater blows cold
+  - car ventilation not clearing mist
+  - stuck parked with foggy windows
+  - safe to drive with foggy windows
+  - visibility blocked in car
+  - damp car interior fog
+  - car climate control failure
+  - front screen demist failed
+  - rear screen demist failed
+  - windscreen keeps misting
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… your heater or defroster is not working and the windows keep fogging while you are parked (UK)
 
 ## Short answer
-Do not move the vehicle until all windows are completely clear and visibility is restored. Use air conditioning (if functional) and fresh-air ventilation to remove humidity, and if the fault prevents you from maintaining clear glass, seek professional assistance rather than driving.
+Do not drive until you can see clearly through the windscreen and front side windows. Switch to “dry air” (fresh air in, recirculation off, fan high; A/C on if available) and clear the inside glass; if you can’t keep it clear, arrange help instead of setting off.
 
 ## Do not do these things
-- Do not drive with any portion of the windscreen or side windows obscured; this is an offence under Highway Code Rule 229 and can result in a £100 fine and 3 penalty points.
-- Do not leave the engine running unnecessarily while stationary on a public road (idling), as this may violate Highway Code Rule 123 and local emissions regulations.
-- Do not run the engine in a garage or enclosed space to clear windows, even with doors open, due to the risk of carbon monoxide poisoning.
-- Do not pour hot or boiling water on the glass to clear mist or frost, as the thermal shock can cause the windscreen to crack.
-- Do not use a dirty cloth or your bare hands to wipe the glass, as oils and grit will cause smears that worsen glare from oncoming headlights.
-- Do not use the "recirculation" setting if fogging is increasing; this traps moisture-laden breath and dampness inside the cabin.
+- Do not “just go slowly” with a misted windscreen or side windows — if you can’t see clearly, don’t move off.
+- Do not run the engine in an enclosed space (like a garage), even with the door open.
+- Do not sit for a long time with the car sealed up and the engine running; keep fresh air coming in.
+- Do not use hot water on the windscreen (it can crack the glass) or wipe with anything gritty (it can smear/scratch and worsen glare).
+- Do not keep recirculation on if fogging is getting worse — it often traps moisture inside.
+- Do not open the bonnet and remove caps from a hot cooling system (if the engine is hot/steaming), or reach near moving parts.
 
 ## What to do now
-1. **Secure the vehicle in a safe location.** Ensure you are fully parked with the handbrake engaged. If you are in a position that obstructs traffic or is dangerous for other road users, use hazard lights to increase your visibility to others while you wait for the glass to clear.
-2. **Eliminate carbon monoxide risks.** If you are in an enclosed space like a home garage, switch the engine off immediately. Open all garage doors and, if visibility allows, push the car manually into the fresh air before attempting to clear the windows with the engine running.
-3. **Configure ventilation for maximum dehumidification.** Even if the heater is blowing cold air, the ventilation system can still clear mist if used correctly:
-   - Set the air distribution to the "windscreen" icon.
-   - Turn the fan speed to the maximum setting.
-   - Turn "recirculation" off to bring in drier air from outside.
-   - Switch the Air Conditioning (A/C) on, as it acts as a dehumidifier even without heat.
-4. **Utilise the windows to dump moisture.** Crack at least two windows open by approximately one inch. This creates a cross-flow that allows the humid air (caused by your breath and damp clothing) to escape the cabin quickly. 
-5. **Manually clear the interior glass.** Use a clean, dry microfibre cloth or a dedicated demister pad to wipe the inside of the windscreen and the front side windows. 
-   - Wipe in long, consistent strokes to avoid circular smears.
-   - Ensure you clear the areas of the side windows used to view the wing mirrors.
-6. **Remove sources of dampness.** Move wet umbrellas, coats, or floor mats into the boot or seal them in a plastic bag. Moisture evaporating from these items is a primary cause of persistent re-fogging when the heater is failing.
-7. **Verify legal visibility requirements before setting off.** Check that the following are entirely clear:
-   - The full width and height of the front windscreen.
-   - Both front side windows.
-   - All external mirrors.
-   If the mist returns within seconds of closing the windows or lowering the fan, the vehicle is not roadworthy.
-8. **Request professional recovery if visibility cannot be maintained.** If the heater failure prevents you from keeping the windows clear while driving, contact a breakdown service or mobile mechanic. Driving with obscured vision can lead to a charge of "driving a vehicle in a dangerous condition," which carries higher penalties.
+1. **Make the situation safe to pause.** Stay parked. If you’re in a risky place (poor visibility for other drivers, narrow verge, awkward lay-by), only reposition if you have a clear enough view to move safely. If you can’t see well enough to move, stay put and use hazard lights if appropriate.
+2. **If you’re in a garage or other enclosed space, get outside first.** Turn the engine off, open the door, and move the car outside only once you can see enough to do so safely (or ask for assistance).
+3. **Switch to “dry air” settings.**
+   - Select **windscreen demist/defrost** mode (if available)
+   - Set **fresh air intake** (recirculation **off**)
+   - Set **fan high**
+4. **Turn A/C on if the car has it (even if heat isn’t working).** A/C often helps remove humidity from cabin air. If the heater won’t warm, **A/C + fan high + fresh air** can still help dry the air and clear fog.
+5. **Dump humid air quickly.** Crack **two windows slightly** (a few millimetres to a centimetre) for 1–3 minutes, then reassess.
+6. **Clear the inside glass properly (so it doesn’t instantly re-fog).**
+   - Wipe the **inside** of the windscreen and front side windows with a clean, dry microfibre cloth (or paper towel).
+   - If you use wipes/cleaner, finish with a dry wipe to reduce smearing.
+7. **Remove the moisture source.** Move wet coats/umbrellas off the dashboard/footwells; bag wet items; if mats are soaked, shake or stand them up to drain when safe.
+8. **Re-check whether it’s safe to drive.** Only set off if you can keep:
+   - the **full windscreen clear**, and
+   - both **front side windows** clear enough for mirrors and junction checks.
+   If fog returns quickly or visibility stays patchy, **do not drive**.
+9. **If you can’t keep it clear: get assistance.**
+   - Call your breakdown provider (or a local recovery service) and say: “Heater/defroster isn’t working; windows fogging; visibility unsafe.”
+   - If you’re stranded in a dangerous location and feel at risk, call **999**.
 
 ## What can wait
-- Identifying the mechanical cause of the heater failure (e.g., thermostat, heater matrix, or coolant levels).
-- Checking cabin air filters or blower motor fuses.
-- Deep-cleaning the interior glass with specialized glass cleaners.
-- Booking a non-emergency garage appointment.
+- Diagnosing the cause (coolant level/leak, heater matrix, blower motor, cabin filter, A/C faults).
+- Any DIY repairs beyond basic cabin clearing.
+- Booking a garage appointment — first priority is safe visibility and a safe next step.
 
 ## Important reassurance
-It is normal to feel frustrated or pressured when visibility drops suddenly, especially in cold weather. Choosing to stay stationary until you can see clearly is the correct legal and safety decision. Most condensation issues can be managed temporarily with airflow and manual cleaning even without a functional heater.
+This problem is common and it can feel urgent because visibility drops fast. Choosing not to drive until you can see clearly is the safest decision, and using “dry air” tactics usually improves things quickly.
 
 ## Scope note
-This guide provides first-step stabilization for a visibility crisis while parked. It does not cover mechanical repair of vehicle heating systems or long-term damp prevention.
+This is first-steps guidance for the moment you realise the windows won’t stay clear. Once you’re safe, a mechanic or breakdown service can diagnose the underlying fault.
 
 ## Important note
-This information is for general guidance and does not constitute mechanical or legal advice. Under UK law, the driver is responsible for ensuring the vehicle is in a safe condition and that they have a full view of the road and traffic ahead at all times. If you see warning lights, smell burning, or see steam from the dashboard, turn off the engine and seek immediate professional assistance.
+This is general information, not mechanical or legal advice. Do not drive if you cannot maintain clear visibility. If you notice overheating, steam, a burning smell, or warning lights, treat it as a breakdown and seek professional help.
 
 ## Additional Resources
-- https://www.theaa.com/breakdown-cover/advice/car-heater-issues
+- https://www.gov.uk/guidance/the-highway-code/annex-6-vehicle-maintenance-safety-and-security
 - https://www.rac.co.uk/drive/advice/winter-driving/how-to-demist-your-windscreen-in-double-quick-time/
-- https://www.theaa.com/driving-advice/seasonal/defrosting-car-windscreen
-- https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/3-visibility
-- https://www.rac.co.uk/drive/advice/winter-driving/dont-get-fined-for-de-icing-your-car/
+- https://www.nhs.uk/conditions/carbon-monoxide-poisoning/
+- https://www.nidirect.gov.uk/articles/driving-adverse-weather-conditions-226-237

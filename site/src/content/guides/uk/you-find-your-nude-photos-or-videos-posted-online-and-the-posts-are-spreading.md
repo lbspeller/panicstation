@@ -1,97 +1,82 @@
----
+﻿---
 title: "What to do if… you find your nude photos or videos posted online and the posts are spreading"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - "nude photos posted online"
-  - "intimate video shared without consent"
-  - "private images leaked"
-  - "image-based abuse"
-  - "revenge porn situation"
-  - "non-consensual intimate images"
-  - "sexting images leaked"
-  - "explicit photos circulating"
-  - "content reposted and spreading"
-  - "strangers sharing my nudes"
-  - "my nude video is online"
-  - "someone uploaded my sexvideo"
-  - "deepfake nude posted"
-  - "threatened with sharing nudes"
-  - "blackmail over intimate images"
-  - "sexual images shared in group chat"
-  - "porn site has my photos"
-  - "social media leaked nudes"
-  - "what do i do if my nudes are leaked"
-  - "what do i do if someone shared my private videos"
-  - "what do i do if i am being blackmailed with photos"
-  - "what do i do if my nudes are on a porn site"
-  - "help i found my nudes online"
-  - "help i am being threatened with revenge porn"
-  - "help my intimate images are spreading"
-  - "help someone shared my private video"
-  - "burning face sensation"
-  - "shaking hands"
-  - "racing heart"
-  - "feeling of exposure"
-  - "nude content leak"
-  - "video spread"
-  - "photo leak"
-  - "leaked media"
-  - "unauthorized sharing"
-last_reviewed: "2026-03-17"
+  - nude photos posted online
+  - intimate video shared without consent
+  - private images leaked
+  - image-based abuse
+  - revenge porn situation
+  - non-consensual intimate images
+  - sexting images leaked
+  - explicit photos circulating
+  - content reposted and spreading
+  - strangers sharing my nudes
+  - my nude video is online
+  - someone uploaded my sexvideo
+  - deepfake nude posted
+  - threatened with sharing nudes
+  - blackmail over intimate images
+  - sexual images shared in group chat
+  - porn site has my photos
+  - social media leaked nudes
+last_reviewed: "2026-03-12"
 ---
+
 # What to do if… you find your nude photos or videos posted online and the posts are spreading (UK)
 
 ## Short answer
-Move to a private space, isolate your devices from the person responsible, and initiate takedowns via platform reporting tools and StopNCII.org immediately. Contact the Revenge Porn Helpline for expert support in coordinating removals across multiple sites.
+Get to a calmer, private moment, then start removal actions immediately: report the posts on the platform(s) and contact specialist UK support that can help with takedowns. If you’re being threatened or feel unsafe, contact police now.
 
 ## Do not do these things
-- Don't pay any money, "negotiate," or provide more images to the person posting or threatening to post.
-- Don't reply to comments or argue with accounts sharing the content, as this increases the post's visibility algorithmically.
-- Don't delete your social media accounts entirely before capturing URLs and screenshots of the offending posts.
-- Don't download the images or videos to your device or forward them to others to "show" what has happened.
-- Don't try to find every single repost yourself; use professional takedown services to handle the search and removal.
+- Don’t negotiate, pay, or “prove” anything to the person posting or threatening to post (this often escalates and doesn’t stop re-sharing).
+- Don’t reply publicly in-thread or start arguing with accounts sharing it (it can boost visibility and screenshots).
+- Don’t send, forward, or upload the images/videos to other people “for evidence” (you can preserve proof without re-distributing).
+- Don’t keep refreshing comments or searching for every repost right now (it can intensify panic and doesn’t help removal).
+- Don’t delete everything in a panic (keep a minimal record first so you can report and request removal effectively).
 
 ## What to do now
-1. **Move to a secure location and secure your accounts.**  
-   **Find a private space where you can focus without interruption.** Change your passwords on your primary email and social media accounts, and enable Two-Factor Authentication (2FA) if it is not already active.
+1. **Get to a safer pause and check immediate safety.**  
+   Put your phone on “Do Not Disturb”, move to a private place, and take a few slow breaths. If you’re in immediate danger, **call 999**.
 
-2. **Capture minimal digital evidence for reporting purposes.**  
-   **Record the direct URL of every post and take a screenshot that includes the platform interface, the account name, and the timestamp.** Save these locally or in a secure folder; do not upload them to a public cloud or send them to friends.
+2. **Capture minimal proof that helps removal (without spreading it).**  
+   Save **the URLs**, account usernames, and approximate timestamps. Take **screenshots that show the page + account name + URL**. Avoid downloading the file or re-uploading it anywhere.
 
-3. **Use the reporting flow on every platform where the content appears.**  
-   **Report the content specifically as "non-consensual intimate imagery" or "intimate image abuse."** Under 2026 UK law, major platforms are required to remove flagged non-consensual intimate images within 48 hours.
+3. **Report the post inside each platform/app right now.**  
+   Use the in-app report flow and choose the closest option to **non-consensual intimate imagery / intimate images shared without consent** (use the same route even if the content is a deepfake or synthetic). If it’s on multiple sites, report the largest/fastest-spreading ones first.
 
-4. **Generate digital hashes via StopNCII.org.**  
-   **Use the StopNCII.org tool on your device to create a "digital fingerprint" of the images or videos without uploading the files themselves.** This hash is shared with participating platforms (including Facebook, Instagram, TikTok, Reddit, OnlyFans, and PornHub) to automatically block or remove matches.
+4. **Get supported takedown help (so you’re not doing this alone).**  
+   - **Revenge Porn Helpline (UK, 18+):** **0345 6000 459** (Mon–Fri, 10am–4pm) or **help@revengepornhelpline.org.uk**. They can help with platform/site takedown requests and next steps.
+   - **Report Harmful Content:** helps you find the right reporting routes and links across platforms for intimate image abuse.
 
-5. **Contact the Revenge Porn Helpline for professional takedown assistance.**  
-   **Call 0345 6000 459 (Mon–Fri, 10am–4pm) or email help@revengepornhelpline.org.uk.** If it is outside of these hours, use the REIYA chatbot on their website for immediate 24/7 automated guidance.
+5. **Use hash-matching to help reduce re-uploads on participating platforms.**  
+   Create a case on **StopNCII.org**. It creates a digital “fingerprint” (hash) from the image/video on your device, and participating platforms can use that to help detect matches and limit re-sharing.
 
-6. **If you are under 18, use the Report Remove service.**  
-   **Access the "Report Remove" tool via Childline and the Internet Watch Foundation (IWF) to remove sexual images of yourself.** This service also covers AI-generated "deepfake" images or videos.
+6. **If you’re under 18 (or anyone in the images might be under 18), treat it as urgent and do not share it.**  
+   Use **Report Remove (Childline/NSPCC)** for confidential help removing youth sexual images. Do not forward or upload the content to anyone to “show” them.
 
-7. **Report the crime to the police via the national portal.**  
-   **Use the National My Police Portal 2 to report intimate image abuse online, or call 101.** If you are in immediate physical danger or being actively stalked, call **999** immediately.
+7. **If there are threats, stalking, doxxing, or you feel unsafe, contact police.**  
+   Call **999** if it’s urgent or you feel in immediate danger. If it’s not an emergency, contact police via **101** or your local force’s online reporting route, and say it’s **intimate image abuse** (and mention any threats or demands).
 
 ## What can wait
-- You do not need to decide if you want to take legal action or press charges today.
-- You do not need to tell your family, employer, or school immediately.
-- You do not need to identify the person who first posted the content to start the removal process.
-- You do not need to provide a public explanation or statement.
+- You do **not** need to decide today whether to confront the person responsible, post a public statement, or tell everyone you know.
+- You do **not** need to gather “perfect” evidence—**links + page-level screenshots** are enough to start removal.
+- You do **not** need to keep monitoring or reading reactions. Focus on **reporting + takedown support** first.
 
 ## Important reassurance
-The feeling of intense exposure, panic, and nausea is a standard biological response to this violation. It does not mean you are powerless. Takedown technologies and 2026 legal mandates are specifically designed to stop the spread and remove content even after it has begun to circulate. The responsibility for this situation lies entirely with the person who shared the content.
+Shock responses are common here: shaking, nausea, racing thoughts, feeling unreal. None of that means you’re “overreacting”. The responsibility is on the person who shared it, not you. Even when something spreads quickly, coordinated reporting and specialist takedown support can still reduce reach and harm.
 
 ## Scope note
-This guide provides first-step stabilization and removal procedures for users in the UK. It does not cover long-term legal strategies, civil litigation, or psychological recovery.
+These are first steps to stabilise the moment and start takedown actions. Later steps (legal advice, longer-term safety planning, workplace/school support) can come after you’ve slowed the spread and you feel more steady.
 
 ## Important note
-This guide is for informational purposes and does not constitute legal advice. Reporting processes and platform response times may vary. If you are being blackmailed (sextortion), the advice remains: do not pay, as payment rarely prevents the release of images.
+This is general information, not legal advice. If you are in immediate danger call 999. If you can only do one thing right now, save the link(s) and then contact a specialist helpline for supported takedown.
 
 ## Additional Resources
-- https://revengepornhelpline.org.uk/
-- https://revengepornhelpline.org.uk/information-and-advice/reporting-content/
-- https://revengepornhelpline.org.uk/information-and-advice/reporting-content/reporting-to-social-media/
-- https://revengepornhelpline.org.uk/information-and-advice/step-by-step-guides/removing-content-from-search-providers/
-- https://revengepornhelpline.org.uk/information-and-advice/reporting-content/stopncii/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/help-and-support/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/
+- https://revengepornhelpline.org.uk/how-can-we-help/how-to-get-in-touch/
+- https://reportharmfulcontent.com/harms/intimate-image-abuse/?lang=en-gb
+- https://stopncii.org/how-it-works/?lang=en-gb
+- https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/report-remove/

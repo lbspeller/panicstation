@@ -1,100 +1,79 @@
----
+﻿---
 title: "What to do if… one arm becomes swollen and heavy after a recent IV, line, or injection"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "swollen arm after iv"
-  - "heavy arm after cannula"
-  - "arm swelling after injection"
-  - "iv site swelling"
-  - "redness around cannula"
-  - "painful vein after iv"
-  - "phlebitis after cannula"
-  - "thrombophlebitis in arm"
-  - "blood clot symptoms arm"
-  - "upper arm swelling sudden"
-  - "iv infiltration symptoms"
-  - "extravasation after iv"
-  - "lump along vein after iv"
-  - "arm feels tight and heavy"
-  - "one arm bigger than other"
-  - "swelling after drip line"
-  - "post iv bruising swelling"
-  - "sore hard vein arm"
-  - "what do i do if my arm is swollen after an injection"
-  - "what do i do if my iv site is red and painful"
-  - "what do i do if one arm feels heavy"
-  - "what do i do if a vein feels like a hard cord"
-  - "help i have a lump after an iv"
-  - "help i have a leak after a scan"
-  - "help my arm is blue after an iv"
-  - "help my hand is tingling after a cannula"
-  - "visible swelling at iv site"
-  - "burning sensation near cannula"
-  - "blistering at injection site"
-  - "cold hand after medical line"
-  - "swollen arm at night"
-  - "swollen arm in flat"
-  - "iv leak mislabeled as bruise"
-  - "dvt mislabeled as muscle ache"
-last_reviewed: "2026-03-16"
+  - swollen arm after iv
+  - heavy arm after cannula
+  - arm swelling after injection
+  - iv site swelling
+  - redness around cannula
+  - painful vein after iv
+  - phlebitis after cannula
+  - thrombophlebitis in arm
+  - blood clot symptoms arm
+  - upper arm swelling sudden
+  - iv infiltration symptoms
+  - extravasation after iv
+  - lump along vein after iv
+  - arm feels tight and heavy
+  - one arm bigger than other
+  - swelling after drip line
+  - post iv bruising swelling
+  - sore hard vein arm
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… one arm becomes swollen and heavy after a recent IV, line, or injection (UK)
 
 ## Short answer
-Treat sudden one-arm swelling or heaviness following medical access as an urgent matter until a clinician rules out a blood clot or tissue damage. Call 999 immediately if you experience breathlessness, chest pain, or if the hand becomes cold, blue, or numb.
+Treat sudden one-arm swelling/heaviness after an IV/line/injection as **urgent** until assessed. If you have **breathlessness, chest pain, fainting/collapse, or the arm/hand is cold/blue/numb or rapidly worsening**, call **999** now.
 
 ## Do not do these things
-- Do not rub or massage the area unless you have been explicitly told by the scanning department that a contrast leak occurred.
-- Do not ignore spreading redness, a "hard cord" feeling along the vein, or skin that is starting to blister or break.
-- Do not apply ice or heat directly to the skin; always use a cloth wrap to prevent thermal injury.
-- Do not leave rings, watches, or restrictive jewelry on the affected arm or hand.
-- Do not drive yourself to a hospital if you feel faint, dizzy, or short of breath.
+- Do not do **firm/deep massage** or “rub it out.” (Only do **gentle** massage if a clinician told you it’s appropriate for your specific situation.)
+- Do not **ignore** spreading swelling/redness, increasing pain, blistering, or a “hard cord” feeling along a vein.
+- Do not put **tight pressure** on the arm (tight bandage/sleeve) or leave **rings/watches** on a swelling hand.
+- Do not apply **heat or ice directly** unless you’ve been advised what’s appropriate for the fluid/medicine involved.
+- Do not **drive yourself** to A&E if you feel faint, short of breath, or unwell—get help.
 
 ## What to do now
-1. **Check immediately for emergency symptoms that require an ambulance.** 
-   - Call 999 if you have any of the following:
-   - Sudden breathlessness or chest pain.
-   - The arm or hand is cold, blue, pale, or completely numb.
-   - Severe pain that is rapidly getting worse or feels "out of proportion" to the visible swelling.
-2. **Contact the specific department or ward that placed the IV if it is still in the arm.** 
-   - Stop any infusion immediately.
-   - Tell the staff your arm feels heavy and swollen, and mention if you feel burning, stinging, or see fluid leaking.
-3. **Contact NHS 111 or your GP for an urgent same-day assessment if you are at home.** 
-   - Explain that the swelling is new and occurred after a recent IV, line, or injection.
-   - Inform them if the skin is warm, red, or if there is a hard, painful lump along the vein.
-4. **Remove all jewelry from the affected side immediately.** 
-   - Take off rings and watches before the area swells further and restricts circulation.
-5. **Elevate the arm to help reduce fluid buildup.** 
-   - Keep the hand above the level of your elbow.
-   - Keep the elbow above the level of your heart using pillows while sitting or lying down.
-6. **Perform gentle hand movements if they do not cause pain.** 
-   - Slowly open and close your fist every few minutes to aid circulation.
-   - Do not force movement if the arm feels rigid or extremely painful.
-7. **Follow specific contrast leak instructions if you were given a leaflet after a CT or MRI scan.** 
-   - If a leak (extravasation) was confirmed, you may be advised to gently massage the site and apply cold compresses (15 minutes on, 15 minutes off).
-   - If you were not given these specific instructions, do not massage the area until seen by a doctor.
-8. **Mark the area of redness or swelling to track changes.** 
-   - Use a pen to draw a line around the edge of the redness and note the time.
-   - Take a clear photo in steady light to show the clinician how quickly it is spreading.
+1. **Check for emergency warning signs (act immediately if any are present):**
+   - **Breathlessness, chest pain, coughing blood, fainting/collapse** → **call 999**.
+   - Arm/hand becomes **cold, blue/pale, very numb/tingly, weak**, or pain is **severe/out of proportion**, or swelling is **rapidly worsening** → **call 999**.
+2. **If any IV/cannula/line is still in place:**  
+   - **Stop using it** and **contact the nurse/clinic/ward that placed it immediately**. Say: “My arm is swollen and heavy after the IV/line,” and mention **burning, tightness, blistering, redness, warmth, or leaking fluid** if present.
+3. **If you’re at home and the line is already out:**  
+   - If this is **new, one-sided swelling/heaviness** (especially with pain/redness/warmth), get **urgent medical advice today** via **NHS 111** (or request an urgent GP assessment if you can get one immediately).
+4. **Reduce harm while you’re arranging help:**
+   - **Remove rings/watches** from that side now.
+   - **Elevate** the arm (hand above elbow, elbow above heart level if comfortable).
+   - Keep it **still but not rigid**: gently **open/close the hand** every few minutes.
+5. **If this followed a scan/infusion where fluid leaked into the tissues (infiltration/extravasation):**
+   - Follow any discharge instructions you were given. If you were told it was a **contrast/IV fluid leak**, a **cold pack wrapped in cloth** for short periods is commonly advised; stop if pain worsens or skin changes.
+   - **New blistering, skin breakdown, worsening pain, or rapidly increasing swelling** → treat as **urgent** (NHS 111 or A&E depending on severity).
+6. **Document changes (helps clinicians assess progression):**
+   - Mark the **edge of redness/swelling** with a pen and note the time.
+   - Take **photos** in consistent lighting if it’s changing.
+7. **Watch for infection-type signs and treat as urgent:**
+   - **Spreading redness/warmth**, **pus**, **fever/rigors**, or feeling generally very unwell → **NHS 111 urgently** (or **999** if severely unwell).
 
 ## What can wait
-- You do not need to determine if the cause is "phlebitis," "DVT," or "infiltration" yourself; this requires professional clinical assessment.
-- You do not need to decide on long-term treatment or medication right now.
-- You do not need to check the area every minute; once you have sought medical advice and stabilized the arm, wait for your appointment or the arrival of help.
+- You do **not** need to decide right now whether it’s “a clot” vs “infection” vs “infiltration/extravasation”—the priority is **being assessed**.
+- You do **not** need to write a complaint or chase records right now.
+- You do **not** need to keep checking it every minute; stabilise it, then focus on **getting help**.
 
 ## Important reassurance
-It is common for the body to react to an IV or injection, and many instances of swelling are minor. However, because symptoms of a leak can look similar to a blood clot or infection, seeking a professional check is the standard and safest response. Panic or hesitation is a normal reaction to sudden physical changes.
+It’s common to feel alarmed when one arm suddenly looks or feels different. Many post-IV problems are treatable, and getting checked early is the safest way to prevent complications.
 
 ## Scope note
-This guide provides first-step stabilization only. It is intended to prevent further injury and ensure the user accesses the correct level of urgent care.
+This is **first steps only** to keep you safer and avoid common mistakes. Further tests and treatment depend on what caused the swelling and how quickly it’s changing.
 
 ## Important note
-This information is for guidance and is not a medical diagnosis. If symptoms are severe, include respiratory distress, or are rapidly worsening, treat the situation as a medical emergency.
+This guide is general information, not a diagnosis. If symptoms are severe, rapidly worsening, or include breathing/chest symptoms, treat it as an emergency.
 
 ## Additional Resources
-- https://www.nhsinform.scot/illnesses-and-conditions/blood-and-lymph/deep-vein-thrombosis/
 - https://www.nhs.uk/conditions/phlebitis/
-- https://www.uclh.nhs.uk/patients-and-visitors/patient-information-pages/contrast-extravasation-contrast-leakage
-- https://www.nhs.uk/conditions/cellulitis/
+- https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/
+- https://www.nhsinform.scot/illnesses-and-conditions/blood-and-lymph/deep-vein-thrombosis/
 - https://www.guysandstthomas.nhs.uk/health-information/contrast-injection-leak-extravasation
+- https://mft.nhs.uk/app/uploads/2023/02/Patient-information-Leaflet_What-to-do-if-the-contrast-liquid-injection-leaks-out-extravasation.pdf

@@ -1,103 +1,88 @@
----
+﻿---
 title: "What to do if… your replacement card has not arrived and your current card has been deactivated"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "replacement card not arrived"
-  - "new bank card not received"
-  - "debit card replacement missing"
-  - "credit card replacement missing"
-  - "current card deactivated"
-  - "old card stopped working"
-  - "card cancelled before replacement"
-  - "card delivery delayed"
-  - "replacement card in post"
-  - "card not received fraud"
-  - "intercepted replacement card"
-  - "cannot pay with card"
-  - "cannot withdraw cash"
-  - "urgent access to money"
-  - "waiting for replacement card"
-  - "replacement sent wrong address"
-  - "card renewal not arrived"
-  - "replacement card activation risk"
-  - "help i have no bank card"
-  - "help i cannot get cash"
-  - "what do i do if my card is deactivated"
-  - "what do i do if my new card is missing"
-  - "what do i do if my replacement card is lost"
-  - "what do i do if i cannot pay bills"
-  - "my bank card was never delivered"
-  - "my replacement card is overdue"
-  - "my current card is blocked"
-  - "my old card does not work"
-  - "smell of fraud"
-  - "see no transactions"
-  - "hear card rejected at atm"
-  - "feel card stuck in post"
-  - "replacement card scam"
-  - "overdue card delivery"
-  - "card not received in london"
-  - "card missing in flat"
-last_reviewed: "2026-03-17"
+  - replacement card not arrived
+  - new bank card not received
+  - debit card replacement missing
+  - credit card replacement missing
+  - current card deactivated
+  - old card stopped working
+  - card cancelled before replacement
+  - card delivery delayed
+  - replacement card in post
+  - card not received scam
+  - intercepted replacement card
+  - can’t pay with card
+  - can’t withdraw cash
+  - urgent access to money
+  - waiting for replacement card
+  - replacement sent wrong address
+  - card renewal not arrived
+  - replacement card activation risk
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… your replacement card has not arrived and your current card has been deactivated (UK)
 
 ## Short answer
-Contact your bank immediately via a trusted route (such as their official app or the number on your old card) to report the replacement as missing, invalidate it, and request an emergency cash code or digital card.
+Contact your bank using a trusted route, report the replacement as “not received” so they can cancel it and reissue, and ask for an immediate way to access money today (for example cardless cash or a temporary digital card if offered).
 
 ## Do not do these things
-- **Do not share your PIN, full passwords, or one-time security codes** with anyone over the phone, even if they claim to be from your bank or the police.
-- **Do not hand over your physical card or cash to a "courier"** or anyone sent to your home to "collect" it for investigation.
-- **Do not call phone numbers found in a text or email** about your card delivery; these are frequently used in "card not arrived" phishing scams.
-- **Do not ignore the deactivation** of your current card if the new one is missing; this is a high-priority security indicator that the new card may have been intercepted.
-- **Do not attempt to "test" the deactivated card** at multiple ATMs, as this may trigger further security freezes on your entire account profile.
+- Don’t share your PIN, passcodes, or one-time security codes with anyone — even if they say they’re from your bank or the police.
+- Don’t hand over your card (or cash) to a “courier” or “collector”. Legitimate banks and the police will not ask you to do this.
+- Don’t call a number from a text/email/pop-up about your card delivery. Use your bank app, a number on a statement, or the bank’s official website — or dial 159 if your bank supports it.
+- Don’t approve “verification” prompts in-app because someone told you to. Stop and contact your bank yourself.
+- Don’t assume it’s “just delayed” once your current card is deactivated — treat a missing replacement as a potential security risk.
 
 ## What to do now
-1. **Contact your bank through a verified secure channel.**
-   - Call the number on the back of your deactivated card or find the official number on your bank's verified website.
-   - If you have received a suspicious call or message about your card, **hang up and dial 159** to be connected safely to your bank's fraud department.
-   - In Scotland, if you suspect mail theft or fraud, report it to **Police Scotland by calling 101**.
+1. **Contact your bank via a trusted route now.**
+   - Use your banking app’s secure chat/phone option, or a phone number from a recent statement or your bank’s official website.
+   - If you’ve had a suspicious call, **hang up and dial 159** (where supported) to reach your bank safely.
 
-2. **Report the replacement card as "not received" and request a security sweep.**
-   - Tell the agent: "My replacement card has not arrived, and my current card is now deactivated."
-   - **Ask the bank to cancel the missing card** immediately so it cannot be activated by a third party.
-   - **Confirm the delivery address** on file to ensure no unauthorized address changes were made.
-   - **Request a reissue** of a new card with a different 16-digit number.
+2. **Say clearly: “Replacement card not received; my current card is deactivated.” Ask them to do these checks/actions on the call/chat.**
+   - **Cancel the missing replacement** (so it can’t be activated/used) and **reissue** a new one.
+   - **Confirm which address it was sent to** and whether any recent address/phone/email changes were made.
+   - **Check for signs of interception**: any activation attempt, any new device/app login, or any digital-wallet link you don’t recognise — and block/remove anything suspicious.
+   - **Turn on transaction and security alerts** (if you don’t already have them).
 
-3. **Secure immediate access to funds.**
-   - **Request an Emergency Cash code** (if offered by your bank, such as NatWest, RBS, or Barclays) which allows you to withdraw cash from specific ATMs using a code sent to your phone.
-   - **Check for a "Digital Card" option** in your banking app; many UK banks allow you to add a virtual replacement card to Apple Pay or Google Pay instantly.
-   - **Locate your nearest branch or Banking Hub.** If you have photo ID (passport or driving licence), you can often withdraw cash over the counter, though daily limits (typically £300–£500) apply.
+3. **Get access to money today (ask what your bank can enable immediately).**
+   - **Cardless cash / “get cash” / emergency cash** (if your bank offers it) so you can withdraw from an ATM without the card.
+   - **A temporary digital card or in-app card details** you can use with a digital wallet or online (if offered).
+   - **Branch options** (if you have a branch): ask if you can withdraw over the counter with ID while waiting.
 
-4. **Review your account for unauthorized activity (last 48 hours).**
-   - Use your mobile app or online banking to check for small "test" transactions or pending payments you do not recognize.
-   - Check your "Digital Wallet" settings in the app to ensure no unrecognized devices have linked your card details to a phone.
+4. **Move urgent payments off the card for the next 48 hours.**
+   - Use **bank transfer** for rent/bills/urgent invoices.
+   - If you need to buy essentials today, consider paying via **bank transfer to a trusted person** who can pay for you, or use another account/card you already control.
 
-5. **Report suspected mail interception to Royal Mail.**
-   - If your bank confirms the card was sent to the correct address but never arrived, contact the **Royal Mail Customer Service** to report missing sensitive post.
-   - This helps identify if there is a localized issue with mail theft in your postcode area.
+5. **Scan your account for anything you didn’t authorise (2 minutes).**
+   - Review recent and pending transactions, and check for any new payees/beneficiaries or changes to contact details you didn’t make.
+   - If you spot anything, tell the bank **immediately** that it’s unauthorised and ask what they’ve frozen/blocked while they investigate.
 
-6. **Report the incident to the national fraud service.**
-   - In England, Wales, or Northern Ireland, report the missing card as potential fraud to **Report Fraud (formerly Action Fraud)** at reportfraud.police.uk or call 0300 123 2040.
+6. **If you suspect a scam or interception, report it safely.**
+   - Report fraud online via **Report Fraud** (the UK reporting service for fraud and cybercrime).
+   - If you need police advice and it’s not an emergency, call **101**. If you feel in immediate danger, call **999**.
 
 ## What can wait
-- **You do not need to contact the Post Office** to "find" the letter; once a bank card is overdue, the security priority is to cancel it, not locate it.
-- **You do not need to change your PIN** unless you believe your security details were also compromised (the new card would usually come with a different 16-digit number but can often retain the old PIN).
-- **You do not need to close your entire bank account** unless the bank's fraud team identifies that your online banking credentials have also been breached.
+- You don’t need to decide today whether to switch banks or close accounts.
+- You don’t need to chase the postal service first — cancelling and reissuing through your bank is often the safest step.
+- You don’t need to work out exactly what happened (delay vs misdelivery vs interception) before you act. Block risk and restore access first.
 
 ## Important reassurance
-It is normal to feel a sense of urgency when you cannot access your money or pay for essentials. UK banks have established "cardless" protocols specifically for this situation. By calling your bank directly and invalidating the missing card, you have significantly reduced the risk of financial loss.
+Being locked out of your money is frightening, and it can make you want to do something fast — that’s exactly what scammers rely on. Using a trusted route to your bank and invalidating the missing replacement protects you while you regain day-to-day access.
 
 ## Scope note
-This guide provides first-step stabilization for a missing replacement card and account deactivation. It does not cover long-term fraud investigations, credit score repair, or disputes over unauthorized transactions already processed.
+This is first-steps-only guidance to stabilise access and reduce fraud risk. If there are unauthorised transactions or account-access issues, follow your bank’s fraud process and then their complaints process if needed.
 
 ## Important note
-This information is for guidance only and does not constitute financial advice. The availability of emergency cash, digital cards, and in-branch services depends on your specific bank’s policies and your account type. If you suspect you are a victim of a live scam, contact your bank immediately using a trusted route.
+This is general information, not financial or legal advice. Cardless cash, temporary digital cards, and branch withdrawal rules vary by bank and account type. If you see suspicious activity or think you’ve been scammed, contact your bank immediately using a trusted route.
 
 ## Additional Resources
-- https://www.lloydsbank.com/help-guidance/everyday-banking/card-and-pin-services/replacement-card.html
-- https://monzo.com/help/monzo-card-pin/card-not-arrived
-- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
-- https://www.citizensadvice.org.uk/debt-and-money/banking/complaints-about-banks-and-building-societies/
-- https://www.financial-ombudsman.org.uk/consumers/how-to-complain
+- https://stopscamsuk.org.uk/our-work/159-phone-number/
+- https://stopscamsuk.org.uk/campaign/get-help-now/
+- https://www.takefive-stopfraud.org.uk/protect-yourself/courier-fraud/
+- https://www.fca.org.uk/consumers/fraudulent-payments
+- https://www.reportfraud.police.uk/courier-fraud/
+- https://www.police.uk/advice/advice-and-information/fa/fraud/personal-fraud/dtdc/courier-fraud/
+- https://www.natwest.com/support-centre/help-with-your-card/card-delivery/i-have-not-received-a-debit-card-what-should-i-do.html

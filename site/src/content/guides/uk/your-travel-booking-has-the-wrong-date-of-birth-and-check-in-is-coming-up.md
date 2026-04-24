@@ -1,89 +1,84 @@
----
+﻿---
 title: "What to do if… your travel booking has the wrong date of birth and check-in is coming up"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "wrong date of birth on booking"
-  - "incorrect dob on flight ticket"
-  - "birthday wrong on reservation"
-  - "passenger details error"
-  - "dob typo travel booking"
-  - "check-in soon dob mismatch"
-  - "advance passenger info wrong"
-  - "apis details incorrect"
-  - "travel agent booking mistake"
-  - "online travel agency dob wrong"
-  - "airline booking dob wrong"
-  - "hotel booking dob wrong"
-  - "child adult age bracket wrong"
-  - "infant child age category error"
-  - "passport details don’t match booking"
-  - "name matches but dob wrong"
-  - "last minute booking correction"
-  - "can’t edit passenger details"
-  - "boarding pass details wrong"
-  - "travel booking wrong date of birth"
-  - "help i put the wrong dob on my ticket"
-  - "my booking date of birth is wrong"
-  - "how to fix dob on flight"
-  - "wrong birth year on airline ticket"
-  - "travel booking correction help"
-  - "apis data mismatch uk"
-  - "wrong dob check-in coming up"
-  - "travel reservation birth date error"
-  - "help i mistyped my birthday on booking"
-  - "mismatch between passport and ticket dob"
-last_reviewed: "2026-03-17"
+  - wrong date of birth on booking
+  - incorrect dob on flight ticket
+  - birthday wrong on reservation
+  - passenger details error
+  - dob typo travel booking
+  - check-in soon dob mismatch
+  - advance passenger info wrong
+  - apis details incorrect
+  - travel agent booking mistake
+  - online travel agency dob wrong
+  - airline booking dob wrong
+  - hotel booking dob wrong
+  - child adult age bracket wrong
+  - infant child age category error
+  - passport details don’t match booking
+  - name matches but dob wrong
+  - last minute booking correction
+  - can’t edit passenger details
+  - boarding pass details wrong
+  - travel documents mismatch stress
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your travel booking has the wrong date of birth and check-in is coming up (UK)
 
 ## Short answer
-Contact the ticket issuer immediately to synchronize the booking record with your passport data before the Advance Passenger Information (API) deadline, typically 24 hours before departure.
+Treat this as time-sensitive: contact the airline (or the company that issued the ticket) now and get the date of birth corrected in the reservation system before you rely on online check-in.
 
 ## Do not do these things
-- Don’t assume a minor error is irrelevant; UK 2026 border protocols require an exact match between booking data, API, and Electronic Travel Authorisation (ETA) records.
-- Don’t create a duplicate booking for the same passenger; airline security systems often automatically cancel "double bookings," which may result in losing both seats.
-- Don’t wait for the airport check-in desk if you are within 24 hours of travel; many budget carriers freeze the ability to modify records once the API has been transmitted to government authorities.
-- Don’t attempt to "fix" the issue by only updating your frequent flyer profile; this rarely pushes changes to an existing, ticketed reservation.
-- Don’t cancel the booking until you have confirmed the cost of a correction versus the cost of a new ticket.
+- Don’t assume “it probably won’t matter” if you’re flying, especially on international routes where airlines may use your details for advance passenger information.
+- Don’t “fix” it by creating a second, duplicate booking for the same passenger unless the airline/agent tells you to—duplicates can cause check-in issues.
+- Don’t wait until you’re at the airport to mention it if you can still reach the airline/agent now.
+- Don’t edit only your “traveller profile” and assume the e-ticket changed—what matters is the booking record for that trip.
+- Don’t cancel impulsively if check-in is close—pause and confirm the airline’s/agent’s correction options first (cancellations can be irreversible/non-refundable).
 
 ## What to do now
-1. **Identify the "Merchant of Record" to determine who can change the data.**
-   - If you booked directly with an airline, use their primary "Manage Booking" portal or high-priority chat.
-   - If you used an Online Travel Agent (OTA) or a third-party site, you must contact them first; airlines generally cannot "take control" of a ticket issued by an agent until the day of departure.
-2. **Determine if the error changed the passenger "category" or "type".**
-   - Verify if the incorrect date shifted the passenger from "Adult" to "Child/Infant" or vice versa.
-   - If the category changed, the ticket may need to be "re-fared" or re-issued entirely to match the correct age-based pricing.
-3. **Check for a "24-hour correction window" if you recently booked.**
-   - Many major UK carriers allow free corrections for typographical errors within the first 24 hours of the booking being made.
-4. **Request a "synchronization" of the booking record and API data.**
-   - Explicitly ask the agent: "Please ensure the Date of Birth is corrected in both the GDS reservation and the Advance Passenger Information (API) fields."
-   - Request a new confirmation email that reflects the corrected date.
-5. **Verify your Electronic Travel Authorisation (ETA) or visa status.**
-   - If your destination requires a digital travel permit (like the UK ETA or US ESTA), ensure the DOB on that permit matches the *corrected* booking data.
-6. **Gather physical evidence of the correction request.**
-   - Save copies of chat transcripts or "case numbers" provided by the agent.
-   - Bring your physical passport to the airport; do not rely on digital scans for verification of a data correction at the desk.
-7. **Arrive at the airport early for "Staffed Check-in" rather than using a kiosk.**
-   - If the online check-in system rejects your details due to a mismatch, go directly to the airline’s "Flight Help" or "Sales" desk rather than the bag drop queue.
+1. **Work out who can actually change it (right now).**  
+   - If you booked direct with the airline: contact the airline using the “manage booking”/help channels.  
+   - If you booked via an online travel agent (OTA) or high-street travel agent: contact *them* first—often the airline can’t change tickets issued by a third party.
+2. **Check whether the wrong DOB changes the passenger “type”.**  
+   This is the biggest practical risk: if the passenger is effectively misbooked as an infant/child/adult for the travel date, pricing and eligibility can change and you **may be blocked from online check-in** or told to check in at a desk until it’s corrected.
+3. **Ask for a correction in the booking record (not just a note).**  
+   Use plain wording: “The date of birth in the booking is wrong. I need it corrected in the reservation/ticket record for check-in and any required passenger information.” Ask them to confirm exactly what they changed and whether anything needs re-issuing.
+4. **Re-enter/confirm passenger info after the correction (if the trip asks for it).**  
+   Many international routes prompt you to confirm passenger details (often including date of birth) before travel. After the booking DOB is corrected, re-check what’s saved for this trip and re-submit if prompted.
+5. **If they can’t correct it in time, get the airport plan (in writing if possible).**  
+   Ask:  
+   - “Can airport staff amend the DOB at the desk for check-in?”  
+   - “Should I arrive earlier and use staffed check-in/bag drop?”  
+   - “Will I need any extra verification if the DOB currently differs from my passport/ID?”
+6. **Create a small “proof pack” (securely).**  
+   - Bring the physical passport/ID you’ll travel with.  
+   - Keep your booking confirmation and any messages showing you reported the error.  
+   - If you store a passport photo on your phone, keep it in a secure place (e.g., locked notes/password manager) and delete it after the trip if you don’t need it.
+7. **If you’re being bounced between an agent and an airline, force clarity.**  
+   Ask: “Who issued/ticketed this booking and who has authority to change passenger details on it?” Then stay with the party that controls ticketing.
 
 ## What can wait
-- You don’t need to resolve disputes regarding "amendment fees" before you travel; pay the fee under protest if necessary to secure the ticket and challenge it later.
-- You don’t need to update your data with hotels or car hire companies unless the booking involves a "young driver" or age-restricted discount.
-- You don’t need to decide whether to file a formal complaint with the Civil Aviation Authority (CAA) or ABTA until after the trip is completed.
+- You don’t need to decide today whether you’ll complain, seek compensation, or switch providers for future trips.
+- You don’t need to argue about fault right now—focus only on getting the correct DOB in the active booking record so you can travel.
+- You don’t need to resolve refunds/fees before your trip if travelling is still possible—record everything and deal with money disputes after you’re safely checked in.
 
 ## Important reassurance
-Date of birth typos are one of the most frequent administrative errors in travel. While 2026 security requirements are strict, airlines have established "exception" protocols for manual verification at the airport if you have reported the error in advance.
+This is a common, fixable admin error. Your priority is simply making sure the DOB in the booking record matches your real documents before automated check-in and airline checks rely on it.
 
 ## Scope note
-This guide covers first-step stabilization for immediate travel. It does not cover legal claims for "denied boarding" or long-term consumer rights disputes regarding non-refundable tickets.
+These are first steps to get you through check-in and prevent a last-minute refusal. If costs/fees appear, you may want specialist consumer advice once the immediate travel risk has passed.
 
 ## Important note
-This information is for general guidance and does not constitute legal or professional travel advice. Requirements vary by airline and destination country. Always follow the specific instructions provided by your carrier or the UK Home Office regarding API submissions.
+This is general information, not legal advice. Airline and agent systems vary, and some changes may require re-issuing tickets or paying fare differences—follow the written instructions given by the airline/agent for your specific booking.
 
 ## Additional Resources
-- https://www.easyjet.com/en/help/booking-and-check-in/managing-your-booking
-- https://help.ryanair.com/hc/en-gb/categories/12488669481233-Booking-Changes
-- https://www.tui.co.uk/destinations/faq/search-book-and-amending-your-holiday/travel-documents/what-do-i-do-if-details-are-wrong-on-my-confirmation-or-e-ticket
-- https://www.jet2holidays.com/faqs/manage-my-booking
-- https://www.abta.com/help-and-complaints/frequently-asked-questions/name-one-my-travel-tickets-has-been-mis-spelt-can-my
+- https://www.gov.uk/government/publications/exit-checks-on-passengers-leaving-the-uk/exit-checks-fact-sheet
+- https://www.nidirect.gov.uk/articles/advance-passenger-information-you-travel
+- https://www.caa.co.uk/passengers-and-public/resolving-travel-problems/how-the-caa-can-help/how-to-make-a-complaint/
+- https://www.caa.co.uk/passengers-and-public/resolving-travel-problems/how-the-caa-can-help/alternative-dispute-resolution/
+- https://www.caa.co.uk/passengers-and-public/resolving-travel-problems/travel-company-problems/problems-with-a-travel-agent/
+- https://www.abta.com/help-and-complaints/customer-support
+- https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/getting-your-money-back-if-you-paid-by-card-or-paypal/

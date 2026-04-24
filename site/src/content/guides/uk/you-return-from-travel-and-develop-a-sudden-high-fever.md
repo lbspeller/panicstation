@@ -1,114 +1,93 @@
----
+﻿---
 title: "What to do if… you return from travel and develop a sudden high fever"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "fever after travel"
-  - "high fever after holiday"
-  - "returned from abroad fever"
-  - "travel sickness high temperature"
-  - "febrile after travel"
-  - "malaria symptoms after travel"
-  - "fever within 12 months travel"
-  - "tropical travel fever"
-  - "sudden temperature spike"
-  - "chills and fever after trip"
-  - "fever and rash after travel"
-  - "fever after safari"
-  - "fever after visiting family abroad"
-  - "illness after long flight"
-  - "post-travel infection worry"
-  - "fever after mosquito bites"
-  - "fever after travelling africa"
-  - "fever after travelling asia"
-  - "fever after travelling south america"
-  - "what do i do if i have a fever after travel"
-  - "what do i do if i have a temperature after holiday"
-  - "what do i do if my temperature is high after travel"
-  - "what do i do if i feel ill after returning from abroad"
-  - "help i have a fever after travel"
-  - "help i have a high temperature after holiday"
-  - "help i feel sick after returning from travel"
-  - "help i have chills after a trip"
-  - "my temperature is high after travel"
-  - "my fever started after my holiday"
-  - "my child has a fever after travel"
-  - "my body feels hot after returning from abroad"
-  - "rigors and shivering after travel"
-  - "sudden high fever after africa"
-  - "malaria test same day uk"
-  - "travel health emergency uk"
-last_reviewed: "2026-03-16"
+  - fever after travel
+  - high fever after holiday
+  - returned from abroad fever
+  - travel sickness high temperature
+  - febrile after travel
+  - malaria symptoms after travel
+  - fever within 12 months travel
+  - tropical travel fever
+  - sudden temperature spike
+  - chills and fever after trip
+  - fever and rash after travel
+  - fever after safari
+  - fever after visiting family abroad
+  - illness after long flight
+  - post-travel infection worry
+  - fever after mosquito bites
+  - fever after travelling africa
+  - fever after travelling asia
+  - fever after travelling south america
+last_reviewed: "2026-02-23"
 ---
+
 # What to do if… you return from travel and develop a sudden high fever (UK)
 
 ## Short answer
-Treat a fever after international travel as a medical urgency: contact **NHS 111** (phone or online) immediately for assessment and state your travel history. If you have severe symptoms like confusion, difficulty breathing, or a non-fading rash, call **999** or go to **A&E**.
+Treat fever after travel as **urgent**: contact **NHS 111 (online or phone)** for same-day advice and tell them **where and when you travelled**. If you have any severe symptoms (confusion, breathing trouble, severe headache/stiff neck, collapse, blue lips, seizures, uncontrolled bleeding), call **999**.
 
 ## Do not do these things
-- Do not wait or "see if it passes" if the fever is high or sudden.
-- Do not travel on public transport to seek medical help if you feel faint or confused.
-- Do not take **ibuprofen or aspirin** until a doctor has confirmed your diagnosis; some tropical infections, such as dengue, carry a high risk of bleeding that these medications can worsen.
-- Do not take leftover or "just in case" antibiotics, as these can mask the underlying cause and interfere with diagnostic tests.
-- Do not enter a GP surgery, walk-in centre, or pharmacy without calling first, as you may need to be assessed in an isolated area to protect others.
+- Do not “sleep it off” or wait for it to pass if the fever is sudden/high after travel.
+- Do not go into a GP waiting room, walk-in centre, or A&E without a quick call first **if you are well enough to call** — travel history can change where and how you’re assessed. If you are very unwell or deteriorating, **call 999 or go to A&E immediately**.
+- Do not take **ibuprofen or aspirin** until a clinician has advised (some travel-related infections, like dengue, can increase bleeding risk).
+- Do not take leftover antibiotics “just in case” (it can mask symptoms and complicate testing).
+- Do not travel on public transport if you feel faint, confused, or very unwell.
 
 ## What to do now
-1. **Check for life-threatening symptoms and call 999 if they occur.**  
-   **Dial 999 immediately if you or the person with the fever experience:**  
-   - Severe difficulty breathing or gasping for air.  
-   - Sudden confusion, delirium, or extreme drowsiness (hard to wake).  
-   - A purple or red rash that does not fade when a glass is pressed firmly against it (the glass test).  
-   - A seizure (fit) for the first time.  
-   - Signs of meningitis: very stiff neck, severe headache, and sensitivity to bright light.  
-   - Skin that is pale, mottled, blue/grey, or abnormally cold to the touch.
+1. **Do a 60-second safety check (and be ready to call 999).**  
+   Call **999** now if you have: severe difficulty breathing, chest pain, new confusion, a seizure, severe drowsiness/hard to wake, blue/grey lips, a purple rash that doesn’t fade when pressed, signs of meningitis (very severe headache, stiff neck, bright-light sensitivity), or you collapse.
 
-2. **Contact NHS 111 and lead with your travel history.**  
-   **Call 111 or use 111 online and state clearly: "I have a high fever and I have recently returned from travel abroad."**  
-   - Provide the specific countries or regions visited and your return date.  
-   - Mention if you visited rural areas, stayed in hostels, or were bitten by insects.
+2. **Contact NHS 111 urgently and say “fever after travel”.**  
+   Use **111 online** or call **111** and clearly state:  
+   - you have a **sudden high fever**, and  
+   - you’ve **returned from travel**, including **countries/regions** and **return date**.  
+   Ask what to do **today** and whether you should attend an assessment site, urgent treatment centre, or hospital.
 
-3. **Request a same-day assessment if you visited a malaria-risk area in the last year.**  
-   **Tell the clinician or 111 operator: "I have been in a malaria-endemic area within the last 12 months and now have a fever."**  
-   - Malaria is a medical emergency that can present months after return; standard protocol requires an urgent blood test with a same-day result.
+3. **If you travelled to a malaria-risk country in the last 12 months, treat this as a same-day emergency.**  
+   Tell 111/your clinician: “I’ve been in a malaria area within the last year and now I have fever.”  
+   Also mention any **earlier** travel to malaria areas if your fever is unexplained, as some malaria types can present later.
 
-4. **Prepare a travel and symptom timeline.**  
-   **Write down the following details to give to medical staff:**  
-   - Dates of travel, stopovers, and the specific regions visited.  
-   - Any vaccinations you received before travel.  
-   - Any malaria prevention tablets taken (and if any doses were missed).  
-   - Specific exposures: insect bites, animal scratches, fresh-water swimming, or contact with unwell people.  
-   - Your highest recorded temperature and when it started.
+4. **Prepare a “travel timeline” while you’re waiting for a call back.**  
+   Write down (notes app is fine):  
+   - exact travel dates, stopovers, and where you slept (hotel/hostel/rural)  
+   - any mosquito bites, fresh-water swimming, animal bites/scratches, sick contacts  
+   - any vaccines or malaria tablets you took (names if you know them) and whether you missed any doses  
+   - when the fever started, highest temperature, and other symptoms (rash, diarrhoea, cough, headache).
 
-5. **Isolate yourself from others in the household.**  
-   **Stay in a separate room if possible and avoid close contact with vulnerable people, including infants, pregnant individuals, and those with weakened immune systems.**  
-   - Wash your hands frequently and do not share towels or cutlery.
+5. **Reduce risk to others in your home.**  
+   Stay in one room if you can, avoid close contact (especially with babies, pregnant people, and anyone immunocompromised), wash hands often, don’t share towels/cutlery, and ventilate the room.
 
-6. **Hydrate and use safe fever management.**  
-   **Drink plenty of fluids (water or rehydration salts) to prevent dehydration.**  
-   - You may take **paracetamol** for the fever and pain unless you have been told otherwise by a doctor.
+6. **Support your body safely until you’re assessed.**  
+   - Sip fluids regularly (water or oral rehydration drinks).  
+   - Use **paracetamol** for fever/pain if you can take it safely.  
+   - Avoid heavy exercise, alcohol, and overheating (very hot baths/blankets).
 
-7. **Call ahead before arriving at any medical facility.**  
-   **If told to attend a hospital or clinic, phone them before you arrive or speak to the triage nurse immediately upon entry to inform them of your travel history.**  
-   - This allows the facility to prepare an isolation room if required.
+7. **If you are told to attend in person, call ahead and go with the right info.**  
+   Before entering, tell reception/triage you have **fever after travel**. Take your travel timeline, a list of medicines, and any travel-clinic paperwork.
 
 ## What can wait
-- You do not need to identify the specific illness yourself; focus on providing the travel history to professionals.
-- You do not need to clean or disinfect your luggage or clothing until you have received medical advice.
-- You do not need to notify your airline or travel agent immediately; clinical assessment is the priority.
-- You do not need to worry about work or school attendance until you are medically cleared.
+- You do not need to work out “what it is” right now — the priority is **urgent assessment and the right tests**.
+- You do not need to deep-clean your luggage or home.
+- You do not need to decide about reporting anything to authorities or airlines right now (focus on care first).
+- You do not need to return to work/school until you’ve had medical advice.
 
 ## Important reassurance
-It is normal to feel significant anxiety when a fever develops after a trip. Medical services in the UK are trained to handle post-travel illnesses quickly. Providing an accurate travel history is the single most effective way to ensure you receive the correct tests and treatment.
+It’s very common to feel alarmed when fever starts after travel. Many causes are treatable, and the best protection is doing the simple, boring thing: **tell a clinician your travel history early** so serious causes (like malaria) aren’t missed.
 
 ## Scope note
-This guide provides first-step stabilization and triage instructions. It is not a substitute for clinical diagnosis. All fevers following travel must be assessed by a healthcare professional.
+This guide covers **first steps only** for the first hours after you notice a high fever after travel. Follow-up, testing, and any treatment plan should come from NHS clinicians.
 
 ## Important note
-Malaria and other travel-related infections can escalate rapidly. If symptoms worsen while you are waiting for a callback or an appointment, seek emergency care immediately by calling 999.
+This is general information, not a diagnosis. If you feel rapidly worse, develop any severe symptoms, or you’re worried you can’t stay safe at home, seek urgent emergency help.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/malaria/
-- https://www.gov.uk/guidance/imported-fever-service-ifs
-- https://www.uclh.nhs.uk/our-services/find-service/tropical-and-infectious-diseases/emergency-walk-clinic
-- https://www.uclh.nhs.uk/our-services/find-service/tropical-and-infectious-diseases/travel-clinic-services/post-tropical-screening
-- https://www.rightdecisions.scot.nhs.uk/infectious-diseases/travel-associated-infections/fever-in-the-returning-traveller/
+- https://www.nhs.uk/symptoms/fever-in-adults/
+- https://111.nhs.uk/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/
+- https://rightdecisions.scot.nhs.uk/infectious-diseases/fever-in-returning-traveller-plus-hcid/fever-in-the-returning-traveller/
+- https://travelhealthpro.org.uk/news/811/uk-malaria-cases-in-returned-travellers-and-updated-guidelines

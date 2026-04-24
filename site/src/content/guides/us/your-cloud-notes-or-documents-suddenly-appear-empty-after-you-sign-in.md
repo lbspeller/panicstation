@@ -1,101 +1,98 @@
----
+﻿---
 title: "What to do if… your cloud notes or documents suddenly appear empty after you sign in"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "your computer displays a ransom note"
-  - "computer displays a ransom note"
-  - "ransom note but you have not paid"
-  - "ransom note but you have not contacted anyone"
-  - "paid or contacted anyone yet"
-  - "computer displays a ransom"
-  - "computer displays a note"
-  - "displays a ransom note"
-  - "ransom note"
-  - "paid or contacted"
-  - "contacted anyone yet"
-  - "computer displays a"
-  - "what do i do if my computer has a ransom note"
-  - "what do i do if i see a ransom message"
-  - "what do i do if files are encrypted"
-  - "what do i do if desktop is locked"
-  - "help i have a ransomware pop-up"
-  - "help i found a ransom note"
-  - "help i cannot open my files"
-  - "help i see a bitcoin demand"
-  - "my computer is encrypted"
-  - "my desktop shows a ransom"
-  - "my laptop is locked by hackers"
-  - "my files have strange extensions"
-  - "red screen ransom demand"
-  - "black screen ransom note"
-  - "cyber extortion on screen"
-  - "locked out of windows ransom"
-  - "locked out of mac ransom"
-  - "unpaid ransomware demand"
-  - "first steps for ransomware"
-  - "malware ransom screen"
-  - "crypto locker message"
-  - "system held for ransom"
-  - "it support for ransomware"
-last_reviewed: "2026-03-17"
+  - cloud documents missing
+  - cloud notes empty
+  - notes disappeared after sign in
+  - files missing after login
+  - documents suddenly gone
+  - cloud folder empty
+  - drive looks blank
+  - onedrive empty after login
+  - google drive empty after login
+  - icloud drive empty after sign in
+  - dropbox files missing
+  - wrong account signed in
+  - sync problem missing files
+  - shared folder disappeared
+  - deleted files in trash
+  - restore previous version
+  - account hacked files gone
+  - signed in but nothing there
+  - cloud storage looks wiped
+  - online documents not showing
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your cloud notes or documents suddenly appear empty after you sign in (USA)
 
 ## Short answer
-Immediately isolate the affected device by disabling all network connections (Wi-Fi, Ethernet, and Bluetooth) to prevent the malware from spreading or communicating with the attacker.
+Stop and preserve: don’t make changes yet — confirm you’re signed into the correct account and use the service’s Trash/restore/version history tools before anything can sync deletions across devices.
 
 ## Do not do these things
-- Do not pay, negotiate, or reply to the attacker to "confirm" the situation.
-- Do not click any links, buttons, or QR codes displayed in the ransom message.
-- Do not plug in external backup drives or USB sticks to the infected computer; the malware may immediately encrypt those files.
-- Do not restart the computer if you can avoid it; some encryption processes resume or finish upon reboot.
-- Do not log into sensitive accounts (banking, email, or work portals) using the infected device.
-- Do not wipe the hard drive or reinstall the operating system until you have consulted with IT or law enforcement, as this destroys evidence.
+- Don’t empty Trash/Recently Deleted or run any “reset/cleanup” actions to “force a refresh”.
+- Don’t keep editing/creating files to test — you can overwrite good versions or cement a bad sync state.
+- Don’t uninstall/reinstall the app yet or wipe a device — you may lose local cached copies.
+- Don’t trust unexpected “support” messages/calls; use the provider’s official site/app support paths.
+- Don’t assume it’s permanent — “empty” is often wrong account, wrong workspace, permissions, filter/view, or a recoverable deletion.
 
 ## What to do now
-1. **Sever all network connections immediately.**
-   - Toggle Airplane Mode on if using a laptop.
-   - Unplug the Ethernet (internet) cable from the side of the machine.
-   - Turn off Wi-Fi and Bluetooth via hardware switches or the taskbar.
-2. **Document the ransom note using a separate device.**
-   - Use a physical camera or smartphone to take clear photos of the entire screen.
-   - Capture the specific "victim ID," the ransom amount, the cryptocurrency address, and any contact instructions.
-   - Photograph any unusual file extensions you see on your desktop or in folders.
-3. **Notify your organization using a clean device.**
-   - If this is a work or school computer, call your IT department or security helpdesk from a different phone.
-   - Inform them that the device is isolated and that no communication has occurred with the attacker.
-4. **Change your critical passwords from a known-clean computer.**
-   - Use a different, uninfected computer or a smartphone to change passwords for your primary email, bank, and cloud storage.
-   - Enable multi-factor authentication (MFA) on all accounts if it is not already active.
-5. **Report the incident to federal authorities.**
-   - Visit **stopransomware.gov** or **ic3.gov** (FBI Internet Crime Complaint Center) to file an official report.
-   - You may also contact your local **U.S. Secret Service Field Office** or **FBI Field Office** for technical assistance and situational awareness.
-6. **Protect your financial identity.**
-   - If the device contained tax documents, banking info, or ID scans, contact your bank using the official number on your card.
-   - Place a fraud alert or security freeze on your credit reports via Equifax, Experian, or TransUnion.
-7. **Maintain physical isolation of the machine.**
-   - Keep the computer powered off and disconnected during transport to a repair or forensic specialist.
-   - Ensure "auto-connect" to known Wi-Fi networks is disabled if you must power it on in a public or office space.
+1. **Freeze changes (avoid syncing damage).**
+   - On devices showing “empty,” **disconnect from Wi-Fi/cellular briefly**.
+   - Stop edits/uploads until you verify account and recovery areas.
+
+2. **Record what you see (helps recovery/support).**
+   - Screenshot the empty view and the **account email/username** and any error messages.
+   - Note **when it started**, which device(s) are affected, and any recent changes (password reset, new phone, new computer).
+
+3. **Confirm you’re in the right account and right space.**
+   - Verify the exact login (Google/Microsoft/Apple, work vs personal).
+   - Check whether you’re viewing the wrong scope: **Shared/Team/Workspace**, a different profile, or a filtered view (for example, “offline only” or “shared with me”).
+
+4. **Check built-in recovery locations first (and do not empty them).**
+   - Look for **Trash / Recycle Bin / Recently Deleted** and restore from there.
+   - Use **Search** for a distinctive filename/phrase, and check **Recents/Activity**.
+
+5. **Look for signs of compromise or mass changes.**
+   - Review **security/activity** for unfamiliar sign-ins, new devices, or connected apps.
+   - Watch for patterns like many files renamed, moved, or deleted in a short time.
+
+6. **Use “restore/rewind/version history” features (if available).**
+   - If the service offers **restore to a previous time** or **version history**, use that rather than manually moving things back.
+   - If it’s an employer/school account, **contact your admin/IT immediately** — enterprise consoles may have recovery windows you can’t access yourself.
+
+7. **If you suspect your account was hacked: recover the account first.**
+   - Follow your provider’s official account recovery process.
+   - Once back in, **change your password** (unique), **turn on 2-factor authentication**, and **sign out other sessions** / remove unknown devices / revoke unknown apps.
+
+8. **Check the device for malware only after you’ve stabilized the account.**
+   - Update your security software and run a scan (especially if the issue followed a download, attachment, or “support” link).
+
+9. **If identity theft or a scam is involved, use the federal reporting portals (USA).**
+   - If someone used your personal information (or you think they might), report at **IdentityTheft.gov** to get an official recovery plan.
+   - If you’re reporting a scam or fraud (even without identity theft), report at **ReportFraud.ftc.gov** and keep your confirmation details.
 
 ## What can wait
-- You do not need to decide whether to pay the ransom in the next few minutes.
-- You do not need to attempt to "fix" or decrypt the files yourself immediately.
-- You do not need to pursue legal action against the perpetrators right now.
-- You do not need to notify all of your personal contacts until you have confirmed if your address book was exfiltrated.
+- You don’t need to decide right now whether to change services or rebuild everything.
+- You don’t need to reorganize folders, rename files, or “start fresh” until recovery tools and support escalation are done.
+- You don’t need to notify all collaborators yet — first confirm whether it’s account scope/permissions vs deletion.
 
 ## Important reassurance
-Seeing a ransom note is a high-stress event designed to trigger panic and rushed payments. By isolating the device immediately and not responding, you have already taken the most effective action to contain the damage. You are not at fault for a sophisticated technical attack, and following these steps preserves your options for recovery and reporting.
+A sudden “everything is empty” moment is often recoverable. Many cases come down to being in the wrong account/profile, a view/scope issue, or recoverable deletion/version history — not a permanent wipe. Careful first steps protect your best chance of restoring data.
 
 ## Scope note
-This guide provides first-step stabilization only. Full recovery usually requires professional IT forensics, restoration from offline backups, and verification that the malware has been completely purged from the network environment.
+These are first steps to prevent irreversible loss and regain control. Later steps may require deeper troubleshooting or professional IT support.
 
 ## Important note
-This guide is for informational purposes and does not constitute legal or professional cybersecurity advice. Ransomware variants change rapidly; always prioritize the specific instructions provided by your organization’s IT security team or federal law enforcement. If the infected computer contains sensitive government or corporate data, reporting may be a legal requirement under current 2026 data breach regulations.
+This is general information, not legal or professional advice. If you suspect account takeover or identity theft, prioritize account recovery and security hardening before making large changes that could reduce recoverability.
 
 ## Additional Resources
-- https://support.apple.com/en-us/121669
-- https://support.apple.com/en-us/102476
-- https://support.apple.com/guide/icloud/notes-on-icloudcom-overview-mm6704cac5/icloud
-- https://support.microsoft.com/en-us/office/recover-deleted-notes-32ed1036-74fd-4c21-bc28-033a486e6b14
-- https://support.google.com/docs/answer/190843?co=GENIE.Platform%3DDesktop&hl=en
+- https://www.identitytheft.gov/
+- https://www.ftc.gov/news-events/topics/identity-theft/report-identity-theft
+- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
+- https://support.google.com/drive/answer/1716222
+- https://support.apple.com/guide/icloud/recover-deleted-files-mmae56ea1ca5/icloud
+- https://help.dropbox.com/delete-restore/rewind
+- https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15

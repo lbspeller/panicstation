@@ -1,90 +1,82 @@
----
+﻿---
 title: "What to do if… your bank’s app and website are down and you cannot make a time-critical payment"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - "bank app down"
-  - "online banking not working"
-  - "banking website down"
-  - "cannot make payment"
-  - "urgent bank transfer failing"
-  - "payment due today"
-  - "faster payment error"
-  - "bank outage help"
-  - "unable to access bank account"
-  - "rent payment due now"
-  - "mortgage payment due today"
-  - "bill deadline today"
-  - "transfer stuck in bank app"
-  - "banking system error code"
-  - "bank phone banking number"
-  - "emergency bank transfer"
-  - "help i cannot pay my bills"
-  - "what do i do if my bank app is down"
-  - "what do i do if i cannot transfer money"
-  - "my bank website is not loading"
-  - "my payment is pending too long"
-  - "chaps payment needed today"
-  - "faster payments not sending"
-  - "standing order failing bank outage"
-  - "direct debit issue bank down"
-  - "urgent money transfer blocked"
-  - "bank service status check"
-  - "smell of scam during bank outage"
-  - "unexpected bank call during outage"
-last_reviewed: "2026-03-17"
+  - bank app down
+  - online banking down
+  - banking website not working
+  - cannot make a payment
+  - urgent bank transfer
+  - time critical payment due
+  - payment due today
+  - rent due today
+  - mortgage payment due today
+  - bill payment deadline
+  - bank transfer stuck
+  - faster payment failed
+  - payment pending too long
+  - chaps payment needed
+  - can’t access account
+  - bank outage
+  - unable to send money
+  - missed payment risk
+  - transfer deadline today
+last_reviewed: "2026-01-09"
 ---
+
 # What to do if… your bank’s app and website are down and you cannot make a time-critical payment (UK)
 
 ## Short answer
-Verify the outage via the bank’s official service status page or social media, then use telephone banking or a physical branch to request an offline payment. Immediately notify the payee to request a temporary hold and obtain their official alternative payment methods.
+Use your bank’s telephone banking or a branch to ask them to make the payment for you using the fastest appropriate method. At the same time, contact the person/company you’re paying to ask for a short hold and to confirm their official alternative ways to pay.
 
 ## Do not do these things
-- Do not keep retrying the same payment in the app as this can cause duplicate transfers once systems recover.
-- Do not pay into any "new," "temporary," or "safe" account details sent via text, email, or social media claiming to be an emergency workaround.
-- Do not share your full security password, PIN, or one-time passcodes (OTP) with anyone, even if they claim to be from the bank’s "outage team."
-- Do not cancel existing standing orders or Direct Debits in a panic, as the underlying system often processes these even when apps are down.
-- Do not use 101 or 999 for banking IT issues; these are for police and emergency services only.
+- Don’t keep retrying the same payment over and over — you could trigger duplicate payments when systems recover.
+- Don’t cancel a Direct Debit/standing order in a panic (or you may accidentally guarantee a missed payment).
+- Don’t accept “new bank details” sent by text/email/social media “because systems are down” — treat that as a scam until verified via the payee’s official channels.
+- Don’t share passcodes, card PINs, one-time codes, or full security answers with anyone (including someone who calls you unexpectedly).
+- Don’t move money to a “safe account” because someone says there’s a problem — your bank will not ask you to do that.
+- Don’t take out high-cost credit in a panic (or agree to new repayment plans) until you’ve tried the bank’s offline options.
 
 ## What to do now
-1. **Verify the scope of the outage using external sources.**  
-   **Check the bank's official "Service Status" page or their verified social media account (look for the checkmark) to see if the issue is system-wide.**
-   - Note any specific error codes displayed in the app (e.g., "Error 500" or "Service Unavailable").
-2. **Contact your bank using a verified phone number or the '159' service.**  
-   **Call the number on the back of your debit card or dial 159 (the UK’s secure "stop-scams" hotline) to be connected to your bank’s official fraud and assistance line.**
-   - Inform the agent: "I have a time-critical payment of [Amount] due to [Payee] by [Time] today, and your digital services are down."
-   - Ask them to process a "Single Immediate Payment" (Faster Payment) or a "CHAPS" payment if the amount is high or the deadline is immediate.
-3. **Confirm your personal payment limits for offline transfers.**  
-   **Ask the agent what your specific transfer limit is for telephone or in-branch payments, as these may differ from your app limits.**
-   - If the payment exceeds the Faster Payment limit (often between £10,000 and £25,000 for consumers), request a CHAPS transfer. 
-4. **Visit a physical branch with government-issued photo ID if telephone lines are overwhelmed.**  
-   **Locate your nearest open branch and bring your debit card and a passport or driving licence to request an in-person transfer.**
-   - Request a printed receipt or a transaction reference number once the payment is keyed into the system.
-5. **Notify the person or company you are paying immediately.**  
-   **Tell the payee that your bank is experiencing a technical outage and that you are attempting an offline payment via phone or branch.**
-   - Ask for a 24-hour hold on late fees or penalties.
-   - Request their name and a reference number for the call to prove you contacted them before the deadline.
-6. **Log all evidence for a future compensation claim.**  
-   **Take screenshots of the app error, note the exact times of failed attempts, and keep a log of all calls (including names of staff and times).**
-   - Under the FCA "Consumer Duty," banks must act to deliver good outcomes; this evidence is vital if you need to claim back late fees or interest.
+1. **Pin down the deadline and the “must-have” details.**  
+   Write down: exact due time/date, amount, payee name, and any reference you must include (invoice number, account reference, solicitor ref, etc.).
+2. **Check whether this payment is already scheduled automatically.**  
+   If it’s normally paid by Direct Debit or a standing order, the outage may not stop it — and cancelling it can create a bigger problem. If you’re unsure, ask the bank by phone or in-branch to confirm what’s scheduled.
+3. **Call your bank using a trusted number and ask them to make the payment offline.**  
+   Use the number on the back of your card or the bank’s official “contact us” page (not a number from a text or social media). Say:  
+   - “My app/online banking is down and I have a time-critical payment due by [time/date]. Can you make this payment for me now?”  
+   - Ask what method they will use **today** (for example Faster Payments, or if it genuinely must arrive same working day, whether a CHAPS payment is needed and possible).  
+   - If it’s late in the day, ask about **bank cut-off times** and what they can still execute in time.
+4. **If phone banking can’t complete it, go to a branch with ID (if you can).**  
+   Ask them to process the payment in-branch and to tell you what method was used. Ask for any confirmation/receipt/reference they can provide.
+5. **Contact the payee immediately to buy time and prevent penalties.**  
+   Tell them there’s a bank service outage and you’re actively trying to pay via phone/branch. Ask:  
+   - for a **short hold** on late fees/penalties while you complete payment, and  
+   - what their **official alternative payment channels** are (for example: card payment by phone, an official payment portal, or other options shown on their statement/official website).
+6. **If you can pay from another account you control, do it — but only using verified details.**  
+   For example, paying from a different UK bank account you own or a joint account. Do not use “new” account details provided unexpectedly.
+7. **Create a paper trail now (it helps if fees need reversing later).**  
+   Screenshot error messages and service-status messages, note timestamps, and keep a call log (date/time, who you spoke to, what they said).
 
 ## What can wait
-- You do not need to submit a formal written complaint while the outage is still active; focus on the payment first.
-- You do not need to contact the Financial Ombudsman Service yet; you must wait until you have a final response from your bank or 8 weeks have passed.
-- You do not need to switch banks or move all your funds today.
+- You do **not** need to decide today whether to switch banks or change how you pay bills long-term.
+- You do **not** need to write a full complaint right now; first get the payment made (or a hold agreed) and save your notes.
+- You do **not** need to escalate externally today. Typically you complain to the bank first, and if it isn’t resolved you can usually take it to the Financial Ombudsman Service after the bank’s final response or after 8 weeks.
 
 ## Important reassurance
-IT outages are common and banks have established "offline" procedures for handling urgent payments through their core systems. If you have notified the payee and have evidence of the bank's failure, you are in a strong position to have any subsequent late fees or credit score marks reversed.
+This is a common, fixable situation: even when apps/websites fail, many banks can still process urgent payments through telephone banking or in a branch. If you contact the payee early and can show you tried to pay on time, many will pause penalties while the outage is resolved.
 
 ## Scope note
-This guide provides first-step stabilization for urgent payments during a digital banking outage. It does not cover long-term financial planning or complex legal disputes regarding missed house completions.
+These are first steps only — focused on avoiding duplicate payments, preventing scams, and getting the urgent payment made (or paused) safely. Later follow-up may involve complaints and recovering fees.
 
 ## Important note
-This information is for general guidance and does not constitute financial or legal advice. Specific payment cut-off times (often 3:30 PM or 5:30 PM for same-day CHAPS) and transfer limits vary significantly between UK institutions. If a missed payment involves a court deadline or house completion, contact your solicitor immediately.
+This is general information, not legal, financial, or banking advice. Payment methods and cut-off times vary by bank and by payment type. If missing the payment could trigger serious consequences (for example eviction action, repossession steps, court deadlines, or loss of a house purchase), consider getting specialist help promptly while you continue using the bank’s offline payment routes.
 
 ## Additional Resources
-- https://www.moneyhelper.org.uk/en/everyday-money/banking/how-to-sort-a-problem-with-a-payment
-- https://www.moneyhelper.org.uk/en/everyday-money/banking/how-to-sort-a-problem-with-your-bank-account
-- https://www.moneyhelper.org.uk/en/money-troubles/money-problems-and-complaints/how-to-complain
+- https://www.wearepay.uk/what-we-do/payment-systems/faster-payment-system/how-faster-payments-work/
+- https://www.bankofengland.co.uk/payment-and-settlement/chaps
+- https://www.barclays.co.uk/help/payments/payment-information/bacs-chaps-faster-payments/
 - https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/it-problems-at-banks
-- https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
+- https://www.gov.uk/complain-financial-service
+- https://www.fca.org.uk/consumers/how-complain

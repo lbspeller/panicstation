@@ -1,94 +1,85 @@
----
+﻿---
 title: "What to do if… your water heater’s pressure relief valve is releasing water intermittently and you’re unsure why"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "water heater pressure relief valve"
-  - "pressure relief valve releasing water"
-  - "water heater valve dripping"
-  - "releasing water intermittently"
-  - "hot water cylinder leaking"
-  - "unvented cylinder discharge"
-  - "tundish dripping water"
-  - "safety valve discharge"
-  - "relief valve venting"
-  - "dripping discharge pipe"
-  - "help i have water coming from a pipe outside"
-  - "help i see water in my tundish"
-  - "my water heater is hissing"
-  - "my relief valve is dripping"
-  - "what do i do if water heater is leaking"
-  - "what do i do if tundish is full"
-  - "what do i do if safety valve is open"
-  - "what do i do if pressure valve is intermittent"
-  - "smell of hot copper"
-  - "sound of gurgling water"
-  - "visible steam from pipe"
-  - "hot water splashing"
-  - "constant drip from heater"
-  - "prv valve leak"
-  - "tprv valve discharge"
-  - "g3 safety valve"
-  - "expansion vessel failure"
-  - "overheating water cylinder"
-  - "broken water heater"
-  - "water heater making noise"
-last_reviewed: "2026-03-17"
+  - pressure relief valve dripping
+  - tpr valve leaking
+  - tundish dripping
+  - unvented cylinder discharge
+  - hot water cylinder relief valve
+  - water heater safety valve
+  - intermittent discharge pipe
+  - hot water safety discharge
+  - relief valve releasing water
+  - cylinder overpressure concern
+  - overheating hot water cylinder
+  - expansion vessel failure
+  - pressure reducing valve issue
+  - water heater making hissing
+  - relief pipe hot water outside
+  - unknown leak from cylinder
+  - unvented system g3 concern
+  - safety valve discharge warning
+  - scalding risk hot water leak
+last_reviewed: "2026-03-04"
 ---
+
 # What to do if… your water heater’s pressure relief valve is releasing water intermittently and you’re unsure why (UK)
 
 ## Short answer
-Isolate the heat source to the cylinder immediately and keep all people away from the external discharge pipe. Treat any intermittent discharge as a safety system warning that requires professional inspection by a G3-qualified engineer.
+Treat intermittent relief-valve discharge as a safety warning: keep people away from the discharge, and switch off the heat source to the hot water system now. Then arrange an engineer to check the system before you ignore it or try to “stop the drip”.
 
 ## Do not do these things
-- Do not block, cap, or tape the end of the discharge pipe or the tundish (the plastic funnel).
-- Do not attempt to tighten or "fix" the relief valve yourself if you are not G3-qualified.
-- Do not touch the water or the discharge pipe, as it may be at scalding temperatures (90°C or higher).
-- Do not ignore the discharge even if it stops temporarily; safety valves only trigger when pressure or temperature limits are exceeded.
-- Do not use the hot water until the system has been stabilized and checked.
+- Do not cap, plug, clamp, tape, or otherwise block the relief valve outlet, tundish, or discharge pipe.
+- Do not wedge any valve handles open/closed “to see what happens”.
+- Do not touch or put your hand under the discharge (burn/scald risk), even if it looks like “just warm water”.
+- Do not keep turning the thermostat up/down repeatedly or “resetting” things while it’s discharging.
+- If you have an **unvented hot water cylinder**, do not attempt DIY repairs: use an engineer trained/competent in unvented systems (often evidenced by an “unvented hot water” qualification).
 
 ## What to do now
-1. **Switch off the power or fuel supply to the water heater immediately.**  
-   - **Electric immersion heaters:** turn off the switch at the wall (often a fused spur with a red neon light).  
-   - **Gas or oil boilers:** turn off the "hot water" setting on your programmer or switch the boiler to "off" or "standby."  
-   - **Heat pumps:** use the control panel to disable domestic hot water (DHW) heating.
+1. **Create a safe buffer around the discharge point.**  
+   Keep children/pets away and keep your face/hands away from the flow. If safe, put a bucket under the **end of the discharge pipe** (without restricting the opening), or clear the area so hot water can’t splash someone.
 
-2. **Locate the tundish and observe the flow without touching it.**  
-   Look for the small black or white plastic funnel (tundish) near the cylinder; if you see water dripping or flowing through it, the safety valves are active. Note if the water is a steady drip, a flow, or if you hear hissing or gurgling sounds coming from the pipework.
+2. **Identify what you’re looking at (so you don’t ignore the wrong thing).**  
+   Many UK unvented cylinders discharge via a **tundish** (a small clear/visible fitting) so you can see when water is passing. If water is passing through the tundish intermittently, treat it as a sign the safety system is operating and needs checking — not something to “live with”.
 
-3. **Check the external discharge point and clear the area.**  
-   Identify where the discharge pipe exits the building (usually a metal pipe pointing toward the ground or a drain). Ensure no people, pets, or heat-sensitive items are near this point, as boiling water may discharge suddenly.
+3. **Switch off the heat source feeding the hot water (do this first).**  
+   - **Immersion heater:** switch it off at the local isolator/fused spur.  
+   - **Boiler-heated cylinder / combi making hot water:** turn hot-water heating off at the controller, and if needed turn the boiler off.  
+   This reduces the risk of overheating while you work out next steps.
 
-4. **Identify the cold water inlet valve only if clearly labeled.**  
-   **If you are certain which valve feeds the cylinder**, turn it clockwise to the off position to stop more water from entering the system. If the valve is not clearly marked "Mains Inlet" or "Cold Feed," do not guess; leave it open and wait for a professional.
+4. **If water continues after the heat is off, reduce refilling pressure — only if you’re sure of the correct valve.**  
+   After step 3, if you can confidently identify the **cold-water supply valve feeding the cylinder**, you can turn it off to reduce ongoing discharge/refilling.  
+   If you are not sure you’ve found the right valve, **don’t guess** — leave it and move on.
 
-5. **Monitor for signs of escalation while waiting for help.**  
-   If the discharge becomes violent, emits steam, or if the cylinder cupboard becomes excessively hot, evacuate the immediate area. If you believe there is an imminent risk of fire or explosion, leave the property and call 999.
+5. **If the discharge becomes heavy, steaming, or violent, escalate immediately.**  
+   Keep clear of the discharge route and cylinder cupboard. Ensure the heat source is off. Call an emergency plumber/heating engineer.  
+   If you believe there is immediate danger and you cannot safely control the situation, leave the area and call **999 (or 112)**.
 
-6. **Contact a G3-qualified heating engineer for an urgent inspection.**  
-   Inform the engineer that your unvented cylinder is discharging through the tundish. If you are a tenant, notify your landlord immediately; under the Landlord and Tenant Act 1985, safety-related repairs to hot water systems are typically treated as 24-hour emergencies.
+6. **Arrange the right kind of help (important for UK unvented cylinders).**  
+   Ask for an engineer experienced/competent in **unvented hot water systems** to check likely causes (commonly pressure/expansion control, inlet pressure control, thermostat/control faults, or a failing relief valve). If you’re a tenant, report it to your landlord/agent as a safety repair.
 
-7. **Take a photo or video of the discharge pattern for the engineer.**  
-   Record whether the water is hot or cold (if safe to tell by proximity) and if it only happens when the heating is on. This data prevents unnecessary diagnostic time and helps identify if the fault lies with the expansion vessel or the relief valve itself.
+7. **Document what you’re seeing (30 seconds).**  
+   Take a quick photo/video of the tundish/discharge and note: when it happens (only during heating? after hot water use?), and whether it stops once heating is off. This helps the engineer avoid guesswork.
 
 ## What can wait
-- You do not need to identify the specific faulty component (e.g., expansion vessel vs. pressure reducing valve) yourself.
-- You do not need to replace the entire cylinder unless a certified professional confirms a tank failure.
-- You do not need to worry about the cost of the water lost; the priority is preventing over-pressurization.
-- You do not need to investigate the internal thermostat settings until the physical safety of the valves is confirmed.
+- You do not need to diagnose the exact cause right now.
+- You do not need to drain the whole cylinder unless a professional instructs you to.
+- You do not need to replace parts “just in case” or order anything before a proper check.
+- You do not need to decide whether to replace the cylinder — many causes are system/valve/control related.
 
 ## Important reassurance
-The relief valve is performing its intended safety function by releasing excess pressure or heat. Seeing water in the tundish means the safety system is working to protect the cylinder from damage. It is normal to feel uncertain when hearing new noises or seeing water where it should not be.
+A relief discharge is designed to “fail safe” by letting water out instead of allowing pressure/temperature to build. It’s understandable to feel alarmed — your job right now is to keep it unblocked, reduce heating, and get it checked.
 
 ## Scope note
-This guide provides first-step stabilization for intermittent safety valve discharge. It is not a repair manual. UK Building Regulations (Part G3) mandate that only competent persons with the correct qualifications may service or repair unvented hot water systems.
+This is first-steps-only guidance to stabilise the situation and avoid dangerous mistakes. An engineer may need to test controls/pressure regulation/expansion arrangements and verify the discharge setup.
 
 ## Important note
-This information is for emergency stabilization only. Unvented hot water systems are pressurized vessels and can be hazardous if safety devices are bypassed or incorrectly maintained. Always verify that your engineer holds a current G3/Unvented Hot Water qualification.
+This guide is general information for an urgent home safety situation, not a substitute for an in-person inspection. If you’re unsure about any valve, switch, or system type, prioritise switching off the heat source and getting qualified help rather than experimenting.
 
 ## Additional Resources
-- https://www.vaillant.co.uk/advice/understanding-heating-technology/boilers/what-does-a-pressure-relief-valve-do/
-- https://www.britishgas.co.uk/heating/guides/what-is-a-pressure-relief-valve.html
-- https://www.worcester-bosch.co.uk/support/troubleshooting/faqs/all-faqs/the-heating-system-is-constantly-losing-pressure-what-should-i-do
-- https://www.vaillant.co.uk/advice/understanding-heating-technology/boilers/what-pressure-should-my-boiler-be/
-- https://www.gassaferegister.co.uk/find-an-engineer-or-check-the-register/
+- https://assets.publishing.service.gov.uk/media/66f6c6ce3b919067bb4828cc/ADG_with_2024_amendments.pdf
+- https://bpec.org.uk/qualification/domestic-hot-water-storage-systems/
+- https://www.heatraesadia.com/-/media/themes/heatrae/literature/installation-manuals/premierplus-installation-manual.pdf
+- https://www.waterregsuk.co.uk/topics/hot-water-systems/

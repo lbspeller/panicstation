@@ -1,86 +1,75 @@
----
+﻿---
 title: "What to do if… you receive urgent notice that water to your building will be shut off for emergency repairs"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - "emergency water shutoff uk"
-  - "no running water in flat"
-  - "water repairs notice building"
-  - "help i have no water"
-  - "what do i do if my water is turned off"
-  - "apartment block water outage"
-  - "sudden water supply interruption"
-  - "landlord turning off water for repairs"
-  - "no water in apartment building"
-  - "bottled water bowser uk"
-  - "boil water notice instructions"
-  - "water company emergency repair"
-  - "priority services register water help"
-  - "storing water for toilet flushing"
-  - "drinking water storage emergency"
-  - "kitchen cold tap not working"
-  - "mains water shut off notice"
-  - "discoloured water after repair"
-  - "water pressure low after repair"
-  - "emergency building repairs water"
-  - "what do i do if water will be shut off"
-  - "help my building has no water"
-  - "water outage preparation tips"
-  - "hygiene without running water"
-  - "toilet not flushing no water"
-  - "alternative water supply bowser"
-  - "ofwat compensation water outage"
-  - "water main burst repair time"
-  - "stopcock location for emergency"
-  - "strategic water main outage"
-last_reviewed: "2026-03-17"
+  - water shutoff notice
+  - emergency water outage
+  - building water turned off
+  - no running water at home
+  - sudden water interruption
+  - water supply cut off
+  - emergency repairs notice
+  - landlord building repairs water
+  - flats water outage
+  - apartment block no water
+  - preparing for water outage
+  - tap water unavailable
+  - hygiene without running water
+  - toilet flushing without water
+  - vulnerable resident water support
+  - priority services register water
+  - short notice water shutdown
+  - water returns discoloured
+last_reviewed: "2026-03-04"
 ---
+
 # What to do if… you receive urgent notice that water to your building will be shut off for emergency repairs (UK)
 
 ## Short answer
-Verify the exact timing of the shut-off and immediately store at least 10 litres of water per person for drinking and hygiene before the supply stops.
+Confirm the exact shut-off window and immediately store enough water for drinking and basic hygiene, then avoid water-using appliances until supply is fully restored and the water is running clear.
 
 ## Do not do these things
-- Do not use dishwashers, washing machines, or electric showers until you have confirmed the supply is fully restored and running clear.
-- Do not use hot water taps or central heating if you have a system that requires constant mains pressure (e.g., some combi boilers), unless you have verified it is safe.
-- Do not drink discoloured or cloudy water when the supply first returns; wait for it to run clear from the cold kitchen tap.
-- Do not use bottled water for baby formula if the label shows high sodium (Na) or sulphate (SO4) levels unless it is the only option and has been boiled once.
-- Do not assume the water will return exactly at the estimated time; emergency repairs often encounter delays.
+- Don’t assume the water will be back “soon” — treat the stated window as uncertain and plan for longer.
+- Don’t run dishwashers, washing machines, water filters, or hot water systems during/just after the shut-off (air/sediment can cause problems).
+- Don’t ignore any official water-quality instruction (for example “boil water” or “do not drink”); follow it exactly.
+- Don’t forget neighbours who may struggle (older people, disabled residents, parents with babies, people with medical needs).
 
 ## What to do now
-1. **Identify the source and duration of the notice.** Check if the notice is from your water company (e.g., Thames Water, Scottish Water) or your building management / landlord.
-   - Note the estimated restoration time.
-   - Check the company's "Live Map" or service update page online for real-time status.
-2. **Verify if the issue is internal or external.** Turn on your cold kitchen tap; if water flows here but not elsewhere, the issue is likely your internal plumbing.
-   - If no water flows from the cold kitchen tap, the mains supply to the building is restricted.
-3. **Store water for drinking and food preparation.** Fill clean bottles, jugs, and kettles immediately.
-   - Aim for a minimum of 3 litres per person for drinking and 10 litres per person for total daily needs.
-4. **Store water for hygiene and sanitation.** Fill a bathtub or large buckets with water.
-   - This water can be used to manually flush toilets by pouring a large bucketful (approx. 6 litres) quickly into the bowl.
-   - Fill basins or bowls for handwashing.
-5. **Protect your appliances.** Switch off any appliances that use water (washing machines / dishwashers) to prevent them from drawing in air or sediment when the supply is cut or restored.
-   - If you have a combi boiler, check the pressure gauge; if it drops below the manufacturer's recommended level (usually 1 bar), do not use the heating.
-6. **Notify vulnerable household members or neighbours.** If you or someone in your building relies on water for medical equipment (e.g., home dialysis) or has restricted mobility, contact the water company immediately.
-   - Request to be added to the **Priority Services Register** for emergency water deliveries.
-7. **Locate alternative water points.** If the outage exceeds 12 hours (or 24 hours in some regions), check the water company's website for the location of "bowsers" (street tankers) or bottled water collection points.
+1. **Verify the details (2 minutes):** Check the notice for start time, expected duration, which parts of the building are affected, and who is leading it (water company vs building management/landlord). Take a photo/screenshot.
+2. **Get the right update channel:** Check your water company’s service updates and your building’s contact (concierge/managing agent/landlord). Ask where any **bottled water / bowser / standpipe** would be placed if alternative water is provided.
+3. **Store water immediately (before shut-off starts):**
+   - Fill clean bottles/jugs/kettles for **drinking and brushing teeth**.
+   - Fill a washing-up bowl or buckets for **handwashing and basic cleaning**.
+   - If you have a bathtub, fill it part-way for **toilet flushing** (keep a jug/cup nearby).
+4. **Protect your plumbing and appliances:**
+   - Stop/avoid using washing machines, dishwashers, ice makers, and under-sink filters.
+   - If you have a combi boiler or system that relies on mains water, **avoid turning on hot taps**; if you’re unsure, set the boiler/hot water system to “off/standby” during the outage.
+   - If you can access it safely, locate your **stopcock** now (useful if leaks happen when pressure returns).
+5. **Prioritise health needs:** If anyone needs extra water (infants, illness, pregnancy, disability, medical equipment), store extra and tell building management. Ask your water company about help available via its **Priority Services Register** if someone in the home needs extra support during interruptions.
+6. **Plan “no water” hygiene and food for the window:**
+   - Choose food that doesn’t require washing produce or lots of washing-up (ready-to-eat, one-pot, disposable plates if needed).
+   - Put hand sanitiser and wipes where you’ll use them (kitchen/bathroom).
+7. **When water returns (first safe use):** Turn on a **cold tap** and let it run until it’s clear and steady. If the water is discoloured or there’s an official water-quality notice, do not drink it until you’ve followed the instructions and the notice is lifted.
 
 ## What can wait
-- You do not need to report the outage if the water company has already issued a notice or it appears on their live map.
-- You do not need to claim compensation immediately; in England and Wales, many GSS (Guaranteed Standards Scheme) payments are automatic, and you have up to 3 months to claim others.
-- You do not need to flush your entire plumbing system; flushing only the cold kitchen tap until clear is sufficient.
+- You do not need to decide today about complaints, compensation, or long correspondence.
+- You do not need to deep-clean pipes immediately when water returns (basic cold-tap flushing first is enough).
+- You do not need to buy lots of equipment — focus on clean containers, drinking water, and hygiene basics.
 
 ## Important reassurance
-A water shut-off for emergency repairs is a standard operational procedure to prevent further damage or contamination. Most standard repairs are completed within 12 hours. If you have stored basic supplies and isolated your appliances, the risk of damage to your home plumbing is low.
+A sudden water shut-off notice is unsettling, but most emergency repairs are time-limited. Having stored water, avoiding appliance use, and waiting for clear “safe to use” guidance prevents the most common avoidable problems.
 
 ## Scope note
-This guide provides first-step stabilization for the first 24 hours of an emergency water shut-off. If the outage is part of a "Boil Water" notice or "Do Not Drink" advisory, specific health protocols from the Drinking Water Inspectorate take precedence.
+This is first-steps-only guidance for the first hours to a day. If the outage becomes prolonged or you receive any water-quality advisory, follow the water company’s instructions and consider additional support.
 
 ## Important note
-Water companies in England and Wales must provide alternative water (minimum 10L per person/day) within 24 hours of a piped supply failure. In Scotland and Northern Ireland, different regulatory standards apply through Scottish Water and NI Water. If you are a tenant, your landlord is generally responsible for ensuring repairs to the building's internal pipes are handled promptly.
+This is general information, not legal or professional advice. **In England and Wales**, Ofwat guidance says that if the piped supply fails, water companies must provide **replacement water** (for example bottled water/bowsers), and compensation may apply under guaranteed standards in some situations; arrangements and rules can differ in **Scotland and Northern Ireland**.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/consumer/water/your-water-supply/interruptions-to-your-water-supply/
+- https://prepare.campaign.gov.uk/be-informed-about-hazards/water-supply-interruptions-or-outages/
 - https://www.ofwat.gov.uk/households/supply-and-standards/supply-interruptions/
 - https://www.ofwat.gov.uk/households/supply-and-standards/standards-of-service/
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/getting-your-landlord-to-do-repairs/asking-the-council-to-help-you-get-repairs-done/asking-the-local-authority-for-help-with-repairs/
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/check-if-your-landlord-has-to-do-repairs/
+- https://www.ofwat.gov.uk/regulated-companies/vulnerability/priority-services-register-guidance/
+- https://www.citizensadvice.org.uk/consumer/water/your-water-supply/interruptions-to-your-water-supply/
+- https://www.dwi.gov.uk/receiving-a-boil-water-notice/

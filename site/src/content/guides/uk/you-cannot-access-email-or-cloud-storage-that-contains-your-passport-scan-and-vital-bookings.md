@@ -1,82 +1,85 @@
----
+﻿---
 title: "What to do if… you cannot access email or cloud storage that contains your passport scan and vital bookings"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - "locked out of email"
-  - "can't access cloud storage"
-  - "lost passport scan"
-  - "missing flight confirmation"
-  - "locked out of gmail abroad"
-  - "icloud account recovery"
-  - "outlook login failure travel"
-  - "cannot find hotel booking"
-  - "what do i do if i can't access my email"
-  - "what do i do if i lost my passport copy"
-  - "what do i do if i am locked out of icloud"
-  - "what do i do if my bookings are in my email"
-  - "help i can't get into my email"
-  - "help i lost my booking reference"
-  - "help i can't check in without email"
-  - "help my passport scan is missing"
-  - "smell of burning phone charger"
-  - "two factor authentication not working"
-  - "no access to recovery phone"
-  - "account recovery waiting period"
-  - "uk emergency travel document"
-  - "etd application abroad"
-  - "travel bookings stuck in cloud"
-  - "lost sim card recovery code"
-  - "accessing bookings without email"
-  - "passport scan missing from drive"
-  - "email login blocked overseas"
-  - "travel documents cloud storage"
-  - "proving identity to airline"
-  - "airline booking reference recovery"
-last_reviewed: "2026-03-17"
+  - can't access email abroad
+  - locked out of gmail travel
+  - locked out of icloud travel docs
+  - locked out of outlook travel
+  - cloud storage inaccessible abroad
+  - passport scan missing
+  - can't find passport copy
+  - bookings stuck in email
+  - flight confirmation missing
+  - hotel booking email missing
+  - booking reference lost
+  - two factor code not arriving
+  - phone lost can't get codes
+  - account recovery while travelling
+  - urgent travel proof missing
+  - travel documents in cloud
+  - locked out of account overseas
+  - suspected account takeover
+  - can't check in without email
+last_reviewed: "2026-03-07"
 ---
+
 # What to do if… you cannot access email or cloud storage that contains your passport scan and vital bookings (UK)
 
 ## Short answer
-Contact your travel providers (airline, hotel, rail) directly to locate your bookings using your name and payment details while simultaneously initiating the official account recovery process for your email or cloud provider.
+Run two tracks at the same time: use your provider’s official account-recovery route, and separately reconstruct the minimum booking details you need by contacting each travel provider directly (airline/hotel/rail) using your name, dates, and payment details.
 
 ## Do not do these things
-- Don’t keep guessing passwords if you have failed three times, as this may trigger a 24-hour or permanent security lockout.
-- Don’t use password-reset links found in texts or emails you did not specifically trigger; navigate directly to the provider's official website.
-- Don’t cancel your UK passport via GOV.UK if you intend to apply for an Emergency Travel Document (ETD), as the ETD application handles the cancellation automatically.
-- Don’t factory reset your only known device, as this may remove "trusted device" status required for account recovery.
-- Don’t share one-time passcodes (OTP) with anyone claiming to be from your email provider or the police.
+- Don’t use password-reset links from unexpected emails/texts/calls; open the provider’s official app or type the provider’s website yourself.
+- Don’t keep guessing passwords until you trigger a longer lockout.
+- Don’t read one-time codes aloud to anyone, and don’t let a stranger “help” by taking your phone.
+- Don’t factory reset or wipe your device unless you’re sure you can sign back in afterwards.
+- Don’t assume you must have your passport scan to proceed; most bookings can be re-sent without it.
 
 ## What to do now
-1. **Secure your physical documents and switch to a trusted connection.** Place your physical passport, bank cards, and any paper notes in a secure, internal pocket. If you are on public or hotel Wi-Fi, switch to mobile data or a personal hotspot to prevent session hijacking during recovery attempts.
-2. **Contact your airline or transport provider via their official app or phone line.** **Provide your full name, travel date, route, and the last four digits of the payment card used to book.** Request that they confirm your booking reference (PNR) and resend your confirmation to a secondary email address or a mobile number via SMS.
-3. **Contact your accommodation directly using a phone number from their official website.** **State your name and check-in date to verify the reservation.** Ask the staff to provide the booking reference and confirmed address, and request a physical print-out of your confirmation upon arrival.
-4. **Initiate the official account recovery process for your primary email provider.**
-   - **Google/Gmail:** Use the "Find my account" or "Forgot password" flow; Google recovery is most successful from a device and location you have used previously.
-   - **Apple/iCloud:** Go to iforgot.apple.com. Be prepared for a 24-72 hour evaluation phase before a final recovery date is provided. 
-   - **Microsoft/Outlook:** Complete the account recovery form at account.live.com/acsr, providing past subject lines or folder names if possible.
-5. **Check your banking app for merchant transaction details.** **Note the merchant name, transaction date, and exact amount for every booking.** This data serves as "proof of purchase" and helps travel providers locate "lost" bookings in their systems when you do not have a reference number.
-6. **Apply for a UK Emergency Travel Document (ETD) if your physical passport is also missing.** **Apply online at GOV.UK if your last passport was issued after 1 January 2006 and you are travelling within 6 weeks.** This process costs £125 and usually takes 2 working days to process after your application is reviewed.
-7. **Create a temporary secondary email account if you are totally locked out.** **Use this "working inbox" solely for receiving re-sent travel confirmations and recovery updates.** Ensure you write down the password for this new account on paper immediately.
-8. **Obtain a police report or crime reference number if you suspect theft.** **Visit the local police station to report the loss of your device or documents.** You will likely need this reference number for an ETD application and for any subsequent insurance claims regarding travel delays.
+1. **Stabilise and reduce risk (1 minute).** Put your passport and payment cards somewhere secure on your person. If you’re on public Wi-Fi, switch to **mobile data** (or a trusted hotspot). If that’s not possible, avoid logging in until you’re on a safer connection.
+2. **Identify what’s actually failing.** Is it:
+   - password/username,
+   - 2-step verification (codes not arriving / lost phone / new SIM),
+   - or a possible compromise (unexpected alerts, password changed, new devices)?
+3. **Start official recovery for the one account that unlocks everything.** Choose one provider and follow its official flow end-to-end:
+   - **Google/Gmail/Drive:** use Google’s “can’t sign in” / account recovery.
+   - **Microsoft/Outlook/OneDrive:** use Microsoft’s sign-in helper, then the account recovery form guidance if needed.
+   - **Apple/iCloud:** try reset via a trusted Apple device first; if you don’t have one, use Apple’s official reset/account recovery steps (including iforgot).
+4. **In parallel: rebuild bookings from the outside (usually quickest).**
+   - **Airline:** use the airline website/app **Manage booking / Find booking / Resend confirmation**. If you don’t have the booking reference, contact the airline and ask them to locate it using your **full name, route, travel date, and the card used to pay**.
+   - **Accommodation:** call/message the property via its official website/phone number. Provide **name + dates** and ask them to confirm and resend details to a reachable email address.
+   - **Rail/coach/ferry:** use the operator’s retrieve-booking tool or support with **name/date/card** details.
+5. **Use your bank/app to recover “proof you paid.”** Open your banking app and note the **merchant name, amount, and date** for each booking. This is often enough for providers to find your reservation even without an email.
+6. **Create a clean “working inbox” for the next 24 hours.** If you can’t access any email at all, create a new email address on your phone and use it only for: re-sent confirmations and recovery updates.
+7. **If you suspect account takeover, treat it as security first.**
+   - Reset your password **only via official recovery pages**.
+   - When back in, sign out of other devices/sessions and check recovery phone/email so you can regain access again if needed.
+8. **If your UK passport is lost/stolen abroad (or you don’t have it available and must travel soon):**
+   - **Report/cancel it via GOV.UK** if it’s lost or stolen.
+   - If you need urgent travel and can’t use a valid UK passport, check whether you’re eligible to apply for a UK **Emergency Travel Document** from your location.
+9. **Write an offline “minimum pack.”** On paper or in an offline note, record: booking references, ticket numbers, hotel address, insurer emergency contact, and your reachable email address.
 
 ## What can wait
-- You do not need to update your password manager or security settings for non-essential accounts.
-- You do not need to download your entire cloud archive once you have the specific booking references.
-- You do not need to notify your employer or bank about the email lockout unless you suspect financial details were stored in plain text.
+- You do not need to reorganise your entire document archive right now.
+- You do not need to rebuild security perfectly today (passkeys, password manager changes, etc.).
+- You do not need to decide about police reports unless there was theft, or your insurer/provider asks for one.
 
 ## Important reassurance
-It is common for security systems to trigger lockouts when you access accounts from a new country or IP address. Most airlines and hotels have established "manual lookup" procedures for passengers who have lost access to their digital confirmations; your identity can almost always be verified through your payment history and physical ID.
+Lockouts mid-trip are common when phones are lost, SIMs change, or 2-step verification breaks. Even without your passport scan or original confirmation emails, airlines and hotels can usually locate and resend bookings using basic details.
 
 ## Scope note
-This guide provides first-step stabilization for accessing travel documents and identifying recovery routes. It does not cover long-term cybersecurity remediation or forensic recovery of hacked accounts.
+These are first steps only to get you moving again and prevent avoidable mistakes. Later, you may want deeper account-security support, insurer help, or consular guidance depending on what caused the lockout.
 
 ## Important note
-This information is for immediate situational guidance and does not constitute legal or professional security advice. Account recovery wait times are controlled by automated systems and cannot be shortened by support staff.
+This is general information, not legal advice. Requirements vary by provider and the country you’re in, so rely on official recovery pages and official consular guidance for your situation.
 
 ## Additional Resources
-- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
-- https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv
-- https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/use-a-strong-and-separate-password-for-email
-- https://www.gov.uk/report-a-lost-or-stolen-passport
 - https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport
+- https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply
+- https://www.gov.uk/report-a-lost-or-stolen-passport
+- https://support.google.com/accounts/troubleshooter/2402620?hl=en
+- https://support.microsoft.com/en-gb/account-billing/i-can-t-sign-in-to-my-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735
+- https://support.apple.com/en-gb/102656
+- https://support.apple.com/en-gb/118574

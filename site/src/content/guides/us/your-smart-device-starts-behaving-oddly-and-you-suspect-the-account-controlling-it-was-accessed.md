@@ -1,101 +1,106 @@
----
+﻿---
 title: "What to do if… your smart device starts behaving oddly and you suspect the account controlling it was accessed"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - "unauthorized voicemail greeting change"
-  - "voicemail pin changed without permission"
-  - "help my voicemail password stopped working"
-  - "what do i do if my voicemail greeting is different"
-  - "voicemail greeting hack"
-  - "voicemail pin reset scam"
-  - "unrecognized voicemail recording"
-  - "stranger on my voicemail greeting"
-  - "voicemail access code changed"
-  - "help i cannot get into my voicemail"
-  - "my voicemail pin was reset"
-  - "what do i do if someone hacked my voicemail"
-  - "smell of burning phone"
-  - "visible sim not provisioned error"
-  - "no service message on iphone"
-  - "sos only mode on phone"
-  - "unauthorized port out request text"
-  - "carrier account takeover symptoms"
-  - "phone number porting fraud cues"
-  - "sudden loss of cell signal"
-  - "unexpected carrier security alert"
-  - "voicemail greeting modified by hacker"
-  - "forgot voicemail pin but it changed"
-  - "voicemail password changed alert"
-  - "my greeting sounds different"
-  - "help someone changed my voicemail message"
-  - "voicemail access restricted"
-  - "phone account compromised cues"
-  - "mobile carrier fraud signs"
-  - "sim swap voicemail access"
-last_reviewed: "2026-03-17"
+  - smart device acting strange
+  - smart home behaving oddly
+  - iot device hacked
+  - smart speaker hacked
+  - smart camera hacked
+  - smart thermostat hacked
+  - smart lock acting up
+  - doorbell camera hacked
+  - alexa acting weird
+  - google home acting weird
+  - homekit acting weird
+  - device account takeover
+  - someone accessed my smart account
+  - unauthorized smart device control
+  - suspicious device automations
+  - unknown users on smart home
+  - router may be compromised
+  - wifi network may be hacked
+  - account controlling device accessed
+  - smart device privacy breach
+last_reviewed: "2026-03-08"
 ---
+
 # What to do if… your smart device starts behaving oddly and you suspect the account controlling it was accessed (USA)
 
 ## Short answer
-Treat the situation as an active account takeover and immediately secure your mobile carrier account using a computer or the official carrier app. Contact your carrier’s fraud department to check for unauthorized SIM changes or port-out requests.
+Cut off remote access first (power it down or take it offline), then secure the controlling account from a separate, trusted device by changing the password, logging out all sessions, and turning on 2FA.
 
 ## Do not do these things
-- Don’t attempt to "guess" the new PIN repeatedly, as this often triggers a lockout that complicates professional recovery.
-- Don’t click reset links in any text messages or emails that arrive around the time of the change.
-- Don’t use your phone for banking or sensitive logins until the carrier confirms the account is secure.
-- Don’t factory-reset the device, as you may need internal logs or carrier-sent security texts to prove ownership.
-- Don’t ignore the change even if it seems minor; greeting changes are often used to facilitate international collect-call fraud or automated password resets.
+- Don’t keep the device online while you “poke around” to see what happens.
+- Don’t factory reset before securing the controlling account (unless you’re locked out and the provider’s recovery steps require it).
+- Don’t reuse passwords or make a “slightly changed” version of an old password.
+- Don’t trust emails/texts with links to “verify” or “fix” your account — go to the provider directly.
+- Don’t share one-time codes with anyone (even “support”).
+- Don’t ignore it if you see new users, new routines, or device settings you didn’t change.
 
 ## What to do now
-1. **Check your device’s status bar for signal indicators.**
-   - Look for "No Service," "SOS," or "SIM Not Provisioned" at the top of your screen. If these appear, your phone number has likely been moved to a different SIM card (SIM swap).
+1. **Stop remote control quickly (30–60 seconds).**
+   - Unplug the device, remove batteries, or power off the hub/bridge.
+   - If it impacts safety (locks/alarms), switch to manual backups (physical keys/manual controls).
 
-2. **Access your mobile carrier account through a secure, known-good channel.**
-   - Sign in via the official carrier app or type the carrier's URL directly into a browser on a computer.
-   - **Immediately change your account login password.**
-   - **Check for "Number Lock," "Port-out Protection," or "SIM Protection" settings and enable them if they are off.**
+2. **Secure the controlling account from a trusted device.**
+   - Change the password to a long, unique one.
+   - Use “sign out of all devices” / “log out of all sessions.”
+   - Turn on **two-factor authentication (2FA)** (an authenticator app or security key is often stronger than SMS if you have the option).
 
-3. **Call your carrier’s official support line from a different phone if yours has no service.**
-   - Ask for the "Fraud Department" or "Account Security Team."
-   - **Tell them: "My voicemail greeting and PIN changed without my authorization; I suspect an account takeover."**
-   - Ask them to verify if there have been any recent requests for a "SIM change," "ESIM swap," or "Port-out PIN."
-   - Request that they place a "global fraud block" or "account freeze" on any further changes.
+3. **Secure the email account used for password resets.**
+   - Change email password, sign out everywhere, enable 2FA.
+   - Check for unauthorized **forwarding**, **filters**, or **recovery email/phone** changes.
 
-4. **Verify your primary email account security.**
-   - Log into the email address associated with your phone account.
-   - **Check the "Sent" folder for messages you didn't send and look for "Forwarding Rules" or "Filters" that might be sending your emails to a hacker.**
-   - Change your email password and ensure your recovery phone number in the email settings is still correct.
+4. **Remove unknown access inside the smart-home platform.**
+   - Review **household/home members**, **shared users**, **guests**, and **linked services** (voice assistants, third-party integrations).
+   - Remove anything you don’t recognize, including older phones/tablets you no longer control.
 
-5. **Reset the voicemail PIN through the carrier's verified tools.**
-   - Use the carrier’s automated system (usually dialing 611 or a specific reset code like *777# for some carriers) to set a new PIN.
-   - **Listen to your greeting and re-record it if it is not yours.**
+5. **Remove attacker “persistence” inside automations and settings.**
+   - Check **routines/automations/scenes**, camera/mic permissions, and notification settings.
+   - Delete unfamiliar automations (e.g., camera turns off at night, door unlock routine, unexpected geofencing rules).
 
-6. **Review recent bank and financial activity.**
-   - Check your banking apps for any "forgot password" or "password changed" notifications that occurred within the last hour.
-   - If you see unauthorized activity, call your bank's fraud line immediately to freeze your cards and access.
+6. **Secure your home network essentials (common path into smart devices).**
+   - Change your router **admin** password (not just Wi-Fi password).
+   - Update router firmware (enable auto-updates if available).
+   - Disable **WPS** (Wi-Fi Protected Setup).
+   - Change Wi-Fi password; reconnect only devices you still use.
 
-7. **Document the incident with federal authorities for the record.**
-   - File a report at **IdentityTheft.gov** to create an official recovery plan.
-   - File an **FCC Consumer Complaint** under the "Unwanted Calls" or "Phone" category to help the agency track fraud patterns, though note they do not resolve individual cases.
+7. **Only after account security: reset and re-pair the smart device.**
+   - Factory reset the device/hub/bridge, then set it up fresh under the secured account.
+   - During setup, apply updates immediately and avoid default/admin credentials.
+
+8. **Write down what happened (simple record).**
+   - Date/time, symptoms, login alerts, new users/devices, and any screenshots.
+   - Keep it ready for device support, your bank, or a report.
+
+9. **Escalate appropriately if money, identity, or ongoing crime is involved.**
+   - If there’s financial fraud: contact your bank/card issuer right away.
+   - If personal information may have been used for identity theft (new accounts, bills, credit alerts), consider using **IdentityTheft.gov** to get an official recovery plan.
+   - If you want to report cyber-enabled fraud or cybercrime to federal authorities, file with the **FBI’s IC3**:
+     - Safest approach: **type the address directly** in your browser (ic3.gov or complaint.ic3.gov) rather than clicking ads or search results.
+     - Be cautious of anyone claiming to be “IC3/FBI support” who asks for money or one-time codes.
 
 ## What can wait
-- You do not need to change your phone number immediately unless the carrier is unable to secure the existing one.
-- You do not need to replace your physical phone unless the carrier identifies a hardware-level compromise.
-- You do not need to notify all your contacts yet; focus exclusively on securing financial and email "master" accounts first.
+- Buying replacement devices or changing your whole smart-home ecosystem.
+- Deep forensics or trying to “prove” exactly how it happened.
+- Making big decisions about closing accounts, unless you can’t regain control or there’s ongoing fraud.
 
 ## Important reassurance
-It is normal to feel a sudden sense of panic when your personal communication tools are altered. Mobile carriers have established protocols for these specific situations. By acting within the first few minutes or hours, you can typically stop the progression of an account takeover before financial damage occurs.
+Smart devices can misbehave for non-malicious reasons (updates, outages, buggy automations). The steps above are still the safest because they shut down the highest-impact risks: continued access, privacy exposure, and account lockout.
 
 ## Scope note
-This guide covers immediate stabilization for unauthorized voicemail and carrier account changes. It does not replace the long-term recovery steps required if a full identity theft has occurred, which may involve credit freezes and police reports.
+This is first-step containment and recovery. If you see repeated re-entry, multiple compromised accounts, or signs your computer/phone is infected, you may need device-support escalation and professional security help.
 
 ## Important note
-Mobile carrier procedures and security features (like "Number Lock") vary significantly between providers like AT&T, Verizon, T-Mobile, and various MVNOs. Always verify instructions through your carrier’s official "Security" or "Support" web pages. The FCC and FTC provide resources for reporting, but they do not act as your personal security or legal representatives.
+This is general information, not legal, technical, or financial advice. If you feel unsafe or the incident connects to harassment or threats, prioritize personal safety and seek appropriate help.
 
 ## Additional Resources
-- https://consumer.ftc.gov/articles/securing-your-internet-connected-devices-home
+- https://consumer.ftc.gov/node/77537
+- https://consumer.ftc.gov/consumer-alerts/2024/10/email-or-social-media-hacked-heres-what-to-do
 - https://www.cisa.gov/audiences/high-risk-communities/projectupskill/module5
-- https://consumer.ftc.gov/how-secure-your-home-wi-fi-network
-- https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers
-- https://consumer.ftc.gov/articles/how-secure-your-home-security-cameras
+- https://www.ic3.gov/
+- https://complaint.ic3.gov/
+- https://www.fbi.gov/investigate/cyber/alerts/2025/threat-actors-spoofing-the-fbi-ic3-website-for-possible-malicious-activity
+- https://www.identitytheft.gov/

@@ -1,105 +1,97 @@
----
+﻿---
 title: "What to do if… your phone is stolen and you are worried someone can access your accounts"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - "phone data usage spike"
-  - "unexpected phone data usage"
-  - "unexplained mobile data usage"
-  - "unknown upload running"
-  - "help i have a data spike"
-  - "my phone is uploading data"
-  - "what do i do if my data is high"
-  - "help my phone data is gone"
-  - "phone showing high background data"
-  - "sudden data drain on mobile"
-  - "mobile data usage help"
-  - "phone data usage warning"
-  - "smell of hot battery"
-  - "phone feels warm data upload"
-  - "visible data transfer icon"
-  - "unexpected sync in progress"
-  - "cellular data usage spike"
-  - "unknown app using data"
-  - "rogue background process"
-  - "malware data upload fear"
-  - "hacked phone data usage"
-  - "sim swap data usage"
-  - "hotspot data drain"
-  - "icloud upload data spike"
-  - "google photos data usage"
-  - "vpn data usage confusion"
-  - "data upload at night"
-  - "unusual data consumption"
-  - "stop phone data upload"
-  - "block background data"
-  - "phone data monitoring"
-  - "ios cellular usage spike"
-  - "android mobile data spike"
-  - "sudden data usage"
-  - "unknown upload"
-  - "phone upload"
-  - "usage spike"
-  - "data spike"
-  - "phone usage"
-last_reviewed: "2026-03-17"
+  - phone stolen
+  - stolen mobile
+  - lost phone but stolen
+  - someone has my phone
+  - worried about account access
+  - accounts compromised
+  - email account at risk
+  - banking app on stolen phone
+  - apple account at risk
+  - google account at risk
+  - two factor codes exposed
+  - sms codes intercepted
+  - sim swap risk
+  - stolen phone passcode known
+  - find my iphone stolen
+  - find hub stolen phone
+  - remote lock phone
+  - remote erase phone
+  - logged in sessions
+  - remove trusted device
+  - mobile wallet on stolen phone
+last_reviewed: "2026-03-08"
 ---
-# What to do if… your phone is stolen and you are worried someone can access your accounts (UK)
 
+# What to do if… your phone is stolen and you are worried someone can access your accounts (UK)
 ## Short answer
-Isolate the device from the network immediately by enabling Airplane Mode and disabling mobile data. Identify the specific application or system service responsible for the usage via the device settings before deleting any software.
+Lock the phone remotely (or erase it), then secure your **email** and **mobile number (SIM/eSIM)** immediately — those two usually control access to everything else.
 
 ## Do not do these things
-- Do not perform an immediate factory reset or wipe the device as this destroys forensic evidence and may lock you out of essential accounts.
-- Do not repeatedly toggle data on and off to "test" the connection; this allows potential unauthorized transfers to resume in bursts.
-- Do not click links in any text messages or emails claiming to be "data usage alerts" or "security warnings" received during the spike.
-- Do not install third-party "cleaner" or "security" apps advertised in pop-ups, as these are often the source of the issue.
-- Do not assume a spike is malicious without checking for legitimate cloud backups, OS updates, or active hotspots first.
+- Don’t chase the thief or arrange meet-ups to “get it back”.
+- Don’t keep calling/texting if it reveals your name, workplace, or address.
+- Don’t click “your phone was found” links in texts/emails — scams after theft are common.
+- Don’t assume Face ID/fingerprint alone protects you if your passcode is known or notifications show codes.
+- Don’t sign into key accounts on a shared/public computer unless you can do it privately and log out completely after.
 
 ## What to do now
-1. **Sever the network connection immediately.**
-   **Enable Airplane Mode and manually ensure that both Mobile Data and Wi-Fi are toggled off.**
-   - Confirm that "Personal Hotspot" or "Tethering" is also disabled to prevent other devices from drawing data.
-2. **Access a trusted connection if communication is required.**
-   **Keep mobile data disabled and connect only to a known, private Wi-Fi network (such as your home router) rather than a public hotspot.**
-3. **Identify the specific data consumer in your settings.**
-   **Navigate to the data usage menu to see which apps or services have used the most data in the current period.**
-   - On iPhone: Settings > Cellular (or Mobile Data) > Scroll down to the app list.
-   - On Android: Settings > Network & Internet > Internet > [Your Carrier] Settings > App data usage.
-4. **Isolate the suspected application.**
-   **Toggle the individual "Mobile Data" switch to "Off" for the specific app identified as the high user.**
-   - On Android, you may also select the app and enable "Restrict background data" or "Disable mobile data usage."
-5. **Check for legitimate high-volume system processes.**
-   **Verify if a Cloud Backup (iCloud / Google Photos), a System Update, or "Wi-Fi Assist" has recently been active.**
-   - On iPhone, scroll to the bottom of the Cellular menu to find "System Services" and "Wi-Fi Assist."
-6. **Monitor for mobile account takeover signs.**
-   **Check for a total loss of signal, "No Service" messages, or notifications that your SIM has been swapped or your number ported.**
-   - If you lose signal entirely and cannot make calls, use a different device to contact your mobile provider’s security or fraud team immediately.
-7. **Report suspicious activity to official channels.**
-   **Forward any scam texts to 7726 and report suspected cybercrime to the relevant national body.**
-   - In England, Wales, or Northern Ireland: Use the **Report Fraud** online service or call 0300 123 2040.
-   - In Scotland: Contact **Police Scotland** via 101.
-8. **Secure primary account access.**
-   **If you suspect your device is compromised, change your email password first using a different, clean device, then proceed to other sensitive accounts.**
+1. **Lock the phone immediately (or erase it) from another device.**
+   - iPhone/iPad: use **Find My** / **Find Devices on iCloud** to turn on Lost Mode (and erase if appropriate).
+   - Android: use **Find Hub** (formerly “Find My Device”) to **secure/lock** the phone (and erase if needed).
+   - If location shows somewhere unsafe, don’t go there — just secure the device.
+
+2. **Call your mobile network provider and ask them to bar the SIM/eSIM right now.**
+   - Say: “My phone was stolen and I’m worried about account access.”
+   - Ask them to **bar the SIM**, and add/confirm extra account security (for example an account PIN/passphrase) to reduce SIM-swap/number-port risk.
+
+3. **Get your IMEI number and write it down.**
+   - Your network/provider can usually provide the **IMEI**.
+   - Keep it with the theft details — police and insurers often ask for it.
+
+4. **Secure your email account first (then your Apple/Google account).**
+   - Change the **email password** from a safe device.
+   - In email security settings, look for **devices/sessions** and “sign out of other devices”.
+   - Then change your **Apple Account** or **Google Account** password and remove the stolen phone from trusted devices if possible.
+
+5. **Stop the stolen phone being used as a login “key”.**
+   - Review account security settings for **trusted devices**, **passkeys/security keys**, and **2-step verification methods**.
+   - If your authenticator app or passkeys were on the stolen phone, treat that as sensitive: remove the device/method and re-add on a safe device where your provider supports it.
+
+6. **Protect money first if there’s any chance of access.**
+   - Call your bank(s)/card issuers and ask them to **review activity** and **disable mobile app access** tied to that device if needed.
+   - If you used **Apple Pay / Google Pay**, ask card issuers to **suspend wallet tokens** for that device and monitor for fraud.
+
+7. **Report the theft and get a crime reference number.**
+   - Contact your local police (often by calling **101** or in person; online reporting may also be available depending on area).
+   - Provide the IMEI if you have it and keep the **crime reference number** for insurance.
+   - If you’re also dealing with **fraud/cybercrime**: in **England, Wales or Northern Ireland**, report via **Report Fraud**; in **Scotland**, report via **Police Scotland (101)**.
+
+8. **Do a 2-minute “damage snapshot” now.**
+   - Time/location of theft, which critical apps were signed in (email, banking, password manager, authenticator), and any unusual login alerts you’ve received.
+   - This makes calls and recoveries faster and reduces mistakes when you’re stressed.
 
 ## What can wait
-- You do not need to decide whether to replace the handset or perform a factory reset in the first few minutes.
-- You do not need to settle the data overage bill immediately; focus on stopping the transfer first.
-- You do not need to prove the exact technical cause of the spike before taking protective actions.
-- You can wait to perform full antivirus scans until the device is isolated and your accounts are secured.
+- Replacing the handset and restoring photos/apps.
+- Insurance decisions/claims (once your accounts and SIM are secured).
+- Auditing every single app — focus first on email, Apple/Google, banking, and anything that can reset other passwords.
 
 ## Important reassurance
-Sudden data spikes are frequently caused by automated system tasks, such as high-definition video backups or large operating system updates that failed to stay on Wi-Fi. Enabling Airplane Mode provides an immediate, absolute stop to any data transfer, giving you the time to investigate without further loss.
+Feeling exposed and panicky after a phone theft is normal. Once the phone is locked/erased, the SIM is barred, and email is secured, the most common takeover routes are usually cut off.
 
 ## Scope note
-This guide provides first-step stabilization for identifying and halting unexpected data transfers. It does not cover long-term device forensics, legal recovery of stolen funds, or professional malware removal.
+This is first steps only — to reduce immediate harm and prevent account takeover. If you discover confirmed fraud, you may need follow-up steps with banks and account providers.
 
 ## Important note
-This information is for general guidance and does not constitute professional technical or legal advice. Device menus vary significantly by manufacturer and software version. If you are unable to find a specific setting, remain in Airplane Mode until you can seek assistance from your mobile provider or a certified technician.
+This is general information, not legal or financial advice. Exact steps vary by device, network, and account provider. If you see unauthorized transactions or active account access, prioritise contacting your bank/card issuer and your mobile provider first.
 
 ## Additional Resources
 - https://www.citizensadvice.org.uk/consumer/phone-internet-downloads-or-tv/what-to-do-if-your-mobile-phone-is-lost-or-stolen/
-- https://support.apple.com/en-gb/120837
-- https://support.google.com/android/answer/15146908?hl=en-GB
-- https://www.ncsc.gov.uk/section/respond-recover/citizen-hacked-accounts
-- https://www.met.police.uk/cp/crime-prevention/personal-safety-how-to-stay-safe/mobile-phone-advice/
+- https://support.apple.com/en-gb/101593
+- https://support.google.com/accounts/answer/6160491
+- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.reportfraud.police.uk/
+- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/

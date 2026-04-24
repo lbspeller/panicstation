@@ -1,102 +1,77 @@
----
+﻿---
 title: "What to do if… you notice purple spots or bruising that appear suddenly without injury"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - "sudden purple spots"
-  - "unexplained bruising"
-  - "random bruises"
-  - "purple spots on skin"
-  - "non blanching rash"
-  - "petechiae spots"
-  - "purpura bruising"
-  - "bruises without bumping"
-  - "bruising for no reason"
-  - "tiny purple dots"
-  - "red purple pinprick spots"
-  - "bruising appeared overnight"
-  - "rash that looks like bruises"
-  - "new widespread bruising"
-  - "purple marks suddenly"
-  - "bleeding under the skin"
-  - "unexplained skin bleeding"
-  - "bruising with fever"
-  - "bruising with bleeding gums"
-  - "sudden rash like bruises"
-  - "what do i do if i have purple spots"
-  - "what do i do if i have random bruises"
-  - "what do i do if my skin has red dots"
-  - "what do i do if a rash doesnt fade"
-  - "help i have purple spots"
-  - "help i have unexplained bruising"
-  - "help i have a non blanching rash"
-  - "my skin has purple marks"
-  - "spots on palms of hands"
-  - "spots on soles of feet"
-  - "blood spots on skin"
-  - "purple pinpricks on skin"
-  - "bruise like rash"
-  - "non fading rash"
-  - "pinprick rash"
-  - "unexplained skin marks"
-last_reviewed: "2026-03-16"
+  - sudden purple spots
+  - unexplained bruising
+  - random bruises
+  - purple spots on skin
+  - non blanching rash
+  - petechiae spots
+  - purpura bruising
+  - bruises without bumping
+  - bruising for no reason
+  - tiny purple dots
+  - red purple pinprick spots
+  - bruising appeared overnight
+  - rash that looks like bruises
+  - new widespread bruising
+  - purple marks suddenly
+  - bleeding under the skin
+  - unexplained skin bleeding
+  - bruising with fever
+  - bruising with bleeding gums
+  - sudden rash like bruises
+last_reviewed: "2026-02-10"
 ---
+
 # What to do if… you notice purple spots or bruising that appear suddenly without injury (UK)
 
 ## Short answer
-If the spots **do not fade when a glass is pressed firmly against them**, or if you feel **severely unwell** with a fever, headache, or stiff neck, **call 999 or go to A&E immediately**. If you feel well but the spots or bruising appeared suddenly without cause, **call NHS 111 now** for same-day clinical advice.
+If the purple spots/rash **do not fade when pressed** (a “non-blanching” rash), **call 999 or go to A&E now**. If it *does* fade but the bruising/spots appeared suddenly without injury, **call NHS 111 for same-day advice**.
 
 ## Do not do these things
-- Do not wait for a rash to appear or spread if you already feel very ill—meningitis and sepsis can be fatal before a rash is visible.
-- Do not assume it is "just a heat rash" or "just a bruise" if you cannot remember an injury or if you have a fever.
-- Do not drive yourself to the hospital if you feel dizzy, confused, drowsy, or extremely weak.
-- Do not stop any prescribed blood-thinning medication (anticoagulants) until you have spoken to a doctor.
-- Do not delay seeking help because the spots are small—serious conditions often start with tiny red pinpricks (petechiae).
+- Do not wait to see “if it spreads” if you feel unwell, have a fever, or the rash/spots look non-blanching.
+- Do not rely on any home “test” to rule out something serious—if you’re unsure whether it fades, treat it as **non-blanching** and get urgent help.
+- Do not stop blood thinners (or any prescribed medicine) suddenly unless a clinician tells you to.
+- Do not repeatedly press/rub the spots to “check” them—check once, then seek help if concerned.
+- Do not drive yourself to A&E if you feel faint, confused, very weak, or severely unwell.
 
 ## What to do now
-1. **Perform the "glass test" (tumbler test) immediately on the affected area.**  
-   **Press the side of a clear glass tumbler firmly against the spots or rash.**  
-   - Observe the spots through the glass.
-   - If the spots **do not disappear or fade** (non-blanching), treat this as a medical emergency.
-2. **Check paler areas of the body if you have brown or black skin.**  
-   **Look closely at the palms of the hands, soles of the feet, the roof of the mouth, or the inside of the eyelids.**  
-   - Non-blanching rashes can be much harder to see on darker skin tones; these paler areas often show the spots more clearly.
-3. **Call 999 or go to A&E immediately if you meet emergency criteria.**  
-   **Seek emergency help if the rash is non-blanching OR if you have any of these "red flag" symptoms:**  
-   - High fever or shivering/chills.
-   - Severe headache or a stiff neck (unable to touch chin to chest).
-   - Sensitivity to bright light (photophobia).
-   - Confusion, slurred speech, or extreme drowsiness.
-   - Rapid breathing or cold hands and feet.
-4. **Contact NHS 111 immediately if you feel well but the spots are new.**  
-   **Call 111 if the spots fade under pressure but appeared suddenly without an injury.**  
-   - Explain that you have "sudden unexplained purple spots/bruising."
-   - Mention if the spots are spreading or if you are also experiencing bleeding from the nose, gums, or in your urine/stool.
-5. **Identify all current medications to help with triage.**  
-   **List any blood-thinners, steroids, or recent changes to your prescriptions.**  
-   - Common examples include Warfarin, Apixaban, Rivaroxaban, Clopidogrel, or Aspirin.
-   - Have the medication boxes ready to show medical staff.
-6. **Take a clear photo of the spots in good lighting.**  
-   **Use a coin next to the spots for scale and ensure the photo is in focus.**  
-   - This helps clinicians track if the rash is spreading or changing shape over the next few minutes or hours.
+1. **Do one quick pressure check so you can describe what you see (don’t over-test).**  
+   In good light, press the spot/rash firmly for a few seconds (some people use the side of a clear glass).  
+   - If it **does not fade** (or you can’t tell): treat as **non-blanching**.
+2. **If it’s non-blanching (doesn’t fade), get emergency help now.**  
+   **Call 999 or go to A&E.** Say: “**New non-blanching rash / purple spots**.”  
+   If you can, have someone else drive you; if you feel very unwell, ask for an ambulance.
+3. **If it fades but the spots/bruising appeared suddenly without injury, get same-day advice.**  
+   Call **NHS 111** and say: “**Sudden unexplained purple spots/bruising**” and whether it’s spreading.
+4. **Name any bleeding-risk medicines immediately (this changes urgency).**  
+   Tell NHS 111/A&E if you take: warfarin, apixaban/rivaroxaban/dabigatran/edoxaban, clopidogrel, prescribed aspirin, steroids, chemotherapy, or if you recently changed any medicine/supplement.
+5. **Do a fast “bleeding and illness” scan and write it down (30–60 seconds).**  
+   - Fever/shivers, rapidly worsening illness, severe headache, stiff neck, confusion, fainting.  
+   - Nosebleeds, bleeding gums, unusually heavy periods, blood in urine/stool, black/tarry stools, coughing/vomiting blood.
+6. **Document to reduce repeated questions and speed triage.**  
+   Take 2–3 photos in good light (include a coin for scale). Note: when you first noticed it, how quickly it appeared, and where it is on your body. Bring your medication list/boxes.
 
 ## What can wait
-- You do not need to identify the specific cause (such as ITP, HSP, or sepsis) yourself; that requires blood tests.
-- You do not need to decide which specialist you need to see; A&E or 111 will direct you to the correct department.
-- You do not need to apply creams or ice to the spots, as this will not treat the underlying cause of internal bleeding.
+- You do not need to work out the cause right now—many different problems can look similar early on.
+- You do not need to decide about tests, referrals, or long-term treatment today—first get to the right level of care.
+- You do not need to make medication changes on your own (especially blood thinners).
 
 ## Important reassurance
-It is normal to feel alarmed when your skin changes suddenly. While many causes of bruising are non-urgent, acting quickly to rule out serious infections like meningitis or blood-clotting issues is the safest course of action. Medical teams in the UK are trained to prioritize these symptoms for rapid assessment.
+It’s understandable to panic when bruising or purple spots appear “out of nowhere.” Often there’s a simple explanation, but because some serious infections and blood/platelet problems can present this way, acting **today** is a sensible safety step.
 
 ## Scope note
-This guide provides first-step stabilization and triage instructions for the initial minutes after noticing unexplained skin spots. It is not a diagnostic tool.
+These are first steps only—aimed at keeping you safe and getting appropriate triage. What happens next depends on clinical assessment.
 
 ## Important note
-This information is for guidance only and does not replace professional medical judgment. A non-blanching rash (one that does not fade under a glass) must always be treated as a potential medical emergency.
+This is general information, not a diagnosis. If the rash/spots **do not fade with pressure** (or you’re not sure), treat it as urgent and seek emergency help.
 
 ## Additional Resources
+- https://www.nhs.uk/conditions/meningitis/symptoms/
 - https://www.nhs.uk/conditions/sepsis/
+- https://cks.nice.org.uk/topics/meningitis-bacterial-meningitis-meningococcal-disease/diagnosis/assessing-the-rash/
+- https://www.nhs.uk/conditions/henoch-schonlein-purpura-hsp/
 - https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/symptoms/
-- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/symptoms/
-- https://www.nhs.uk/conditions/von-willebrand-disease/
-- https://www.nnuh.nhs.uk/departments/haematology-department/non-malignant-haematology/immune-thrombocytopenia/
