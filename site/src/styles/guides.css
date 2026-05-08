@@ -132,6 +132,7 @@
 .ps-card ul, .ps-card ol{
   margin: 12px 0 14px 22px;
 }
+
 .ps-card li{
   margin: 10px 0;
   white-space: normal;
@@ -158,6 +159,7 @@
   background:#fff;
   border-color:#dbe2ef;
 }
+
 .ps-card[data-ps-section="Important reassurance"] h2,
 .ps-card[data-ps-section="Scope note"] h2{
   background:#f0d9b0;
@@ -170,11 +172,13 @@
   padding-left: 0;
   list-style: none;
 }
+
 .ps-card[data-ps-section="Do not do these things"] li{
   position: relative;
   padding-left: 46px;
   margin: 14px 0;
 }
+
 .ps-card[data-ps-section="Do not do these things"] li::before{
   content:"✕";
   position: absolute;
@@ -198,12 +202,14 @@
   list-style: none;
   counter-reset: step;
 }
+
 .ps-card[data-ps-section="What to do now"] ol > li{
   counter-increment: step;
   position: relative;
   padding-left: 50px; /* tuned to match 26px circle */
   margin: 16px 0;
 }
+
 .ps-card[data-ps-section="What to do now"] ol > li::before{
   content: counter(step);
   position: absolute;
@@ -219,9 +225,11 @@
   font-weight: 900;
   font-size: 13px; /* unified scale */
 }
+
 .ps-card[data-ps-section="What to do now"] ol > li > p{
   margin: 6px 0;
 }
+
 .ps-card[data-ps-section="What to do now"] ol > li > ul,
 .ps-card[data-ps-section="What to do now"] ol > li > ol{
   margin: 10px 0 0 0;
@@ -234,6 +242,7 @@
   padding-left: 0;
   list-style: none;
 }
+
 .ps-card[data-ps-section="What can wait"] li{
   position: relative;
   padding-left: 50px; /* match other icon lists */
@@ -327,6 +336,13 @@
 
 .ps-card.ps-resources li{
   margin: 10px 0;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.ps-card.ps-resources a{
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 /* =========================
