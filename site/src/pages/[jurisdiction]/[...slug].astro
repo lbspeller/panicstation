@@ -26,6 +26,15 @@ const { Content } = await entry.render();
 const urlJurisdiction = (Astro.params.jurisdiction || "us").toLowerCase();
 const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
 
+const lastReviewedDisplay = new Date(`${entry.data.last_reviewed}T00:00:00Z`).toLocaleDateString("en-GB", {
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+  timeZone: "UTC",
+});
+
+const guideLabel = entry.data.jurisdiction === "USA" ? "USA guide" : "UK guide";
+
 /*
   Central switch for whether this guide is allowed to show ads.
 
@@ -57,6 +66,36 @@ const adsAllowed =
     </span>
 
     <Content />
+
+    <template id="ps-guide-meta-template">
+      <p class="ps-guide-meta" data-pagefind-ignore>
+        <span>By PanicStation.org</span>
+        <span aria-hidden="true"> · </span>
+        <span>Reviewed under our </span><a href="/editorial">editorial policy</a>
+        <span aria-hidden="true"> · </span>
+        <span>
+          Last reviewed:
+          <time datetime={entry.data.last_reviewed}>{lastReviewedDisplay}</time>
+        </span>
+        <span aria-hidden="true"> · </span>
+        <span>{guideLabel}</span>
+      </p>
+    </template>
+
+    <script is:inline>
+      (() => {
+        const guide = document.getElementById("ps-guide");
+        const h1 = guide?.querySelector("h1");
+        const template = document.getElementById("ps-guide-meta-template");
+
+        if (!guide || !h1 || !template) return;
+        if (guide.querySelector(".ps-guide-meta")) return;
+
+        const meta = template.content.firstElementChild.cloneNode(true);
+        h1.insertAdjacentElement("afterend", meta);
+        template.remove();
+      })();
+    </script>
 
     <div class="ps-guide-actions" aria-label="Guide actions">
       <a

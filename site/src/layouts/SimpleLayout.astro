@@ -25,7 +25,6 @@ const isGuidesIndex = path === "/guides/";
 
     <!-- Google AdSense -->
     <meta name="google-adsense-account" content="ca-pub-6393180948620179" />
-
   </head>
 
   <body class={`ps-page ${isGuidesIndex ? "ps-guides-index" : ""}`} data-ps-page="other">
@@ -44,12 +43,14 @@ const isGuidesIndex = path === "/guides/";
     <footer class="ps-footer">
       <div class="ps-footer-inner">
         <span>© {new Date().getFullYear()} PanicStation.org</span>
+
         <span class="ps-footer-links">
-          {isGuidesIndex ? (
-            <span class="ps-footer-link" aria-hidden="true"></span>
-          ) : (
-            <a class="ps-footer-link" href="/guides/">All guides</a>
-          )}
+          <a class="ps-footer-link" href="/about">About</a>
+          <a class="ps-footer-link" href="/contact">Contact</a>
+          <a class="ps-footer-link" href="/disclaimer">Disclaimer</a>
+          <a class="ps-footer-link" href="/editorial">Editorial</a>
+          <a class="ps-footer-link" href="/privacy">Privacy</a>
+          {!isGuidesIndex && <a class="ps-footer-link" href="/guides/">All guides</a>}
         </span>
       </div>
     </footer>
@@ -82,7 +83,7 @@ const isGuidesIndex = path === "/guides/";
   }
 
   .ps-page{
-    min-height: 100vh;   /* fallback */
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
   }
@@ -91,6 +92,7 @@ const isGuidesIndex = path === "/guides/";
   @supports (min-height: 100svh){
     .ps-page{ min-height: 100svh; }
   }
+
   @supports (min-height: 100dvh){
     .ps-page{ min-height: 100dvh; }
   }
@@ -104,7 +106,7 @@ const isGuidesIndex = path === "/guides/";
     min-height: 0;
   }
 
-  /* Guides index (and other short pages, if you reuse this class) */
+  /* Guides index and other short pages */
   .ps-guides-index .ps-shell{
     flex: 0;
   }
@@ -122,16 +124,12 @@ const isGuidesIndex = path === "/guides/";
     align-items:center;
     justify-content:space-between;
     gap:12px;
-
-    /* match SiteLayout: keep header row single-line */
     flex-wrap: nowrap;
   }
 
-  /* match SiteLayout: allow shrinking without clipping on narrow screens */
   .ps-brand{
     flex: 1 1 auto;
     min-width: 0;
-
     text-decoration:none;
     font-weight: 900;
     font-size: clamp(20px, 5.8vw, 44px);
@@ -139,14 +137,17 @@ const isGuidesIndex = path === "/guides/";
     color:#0b1220;
     white-space: nowrap;
   }
-  .ps-brand-dot{ color: var(--ps-logo-red); }
+
+  .ps-brand-dot{
+    color: var(--ps-logo-red);
+  }
 
   .ps-footer{
     margin: 0;
     padding: 18px 16px 32px;
     color:#4b5568;
     font-size:14px;
-    margin-top: auto; /* stick footer to bottom when content is short */
+    margin-top: auto;
     padding-bottom: calc(32px + env(safe-area-inset-bottom, 0px));
   }
 
@@ -159,7 +160,6 @@ const isGuidesIndex = path === "/guides/";
     justify-content:space-between;
   }
 
-  /* match SiteLayout: allow wrapping so links never disappear below fold */
   .ps-footer-links{
     display:flex;
     align-items:center;
@@ -173,10 +173,14 @@ const isGuidesIndex = path === "/guides/";
     text-decoration: none;
   }
 
-  a.ps-footer-link:hover{ text-decoration: underline; }
+  a.ps-footer-link:hover{
+    text-decoration: underline;
+  }
 
   /* ultra-narrow phones */
   @media (max-width: 360px){
-    .ps-brand{ font-size: clamp(18px, 5.2vw, 40px); }
+    .ps-brand{
+      font-size: clamp(18px, 5.2vw, 40px);
+    }
   }
 </style>

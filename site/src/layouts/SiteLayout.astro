@@ -3,12 +3,6 @@
 import UkFlagUrl from "../assets/flags/uk.svg?url";
 import UsFlagUrl from "../assets/flags/us.svg?url";
 
-// import HTML bodies for footer info cards
-import AboutHtml from "../site/about.html?raw";
-import DisclaimerHtml from "../site/disclaimer.html?raw";
-import PrivacyHtml from "../site/privacy.html?raw";
-
-
 const { title, jurisdiction } = Astro.props;
 
 const path = Astro.url.pathname;
@@ -145,31 +139,6 @@ const isUsActive = jurisdiction === "us";
           <span>Start typing to search for a guide. Use the filter button to narrow results by category</span>
         </div>
       </div>
-
-      <script is:inline define:vars={{ AboutHtml, DisclaimerHtml, PrivacyHtml }}>
-        window.__PS_INFO_BODIES__ = {
-          about: { body: AboutHtml },
-          disclaimer: { body: DisclaimerHtml },
-          privacy: { body: PrivacyHtml },
-        };
-      </script>
-
-      <section id="ps-info-wrap" class="ps-info-wrap" hidden aria-live="polite">
-        <div class="ps-info-card ps-card ps-generic" role="region" aria-label="Site information">
-          <div class="ps-info-head">
-            <h2 id="ps-info-title" class="ps-info-title"></h2>
-            <button id="ps-info-close-top" class="ps-info-close-top" type="button" aria-label="Close">
-              <i class="fa-solid fa-xmark" aria-hidden="true"></i>
-            </button>
-          </div>
-
-          <div id="ps-info-body" class="ps-info-body"></div>
-
-          <div class="ps-info-foot">
-            <button id="ps-info-close" class="ps-info-close" type="button">Close</button>
-          </div>
-        </div>
-      </section>
     </header>
 
     <main class="ps-shell">
@@ -192,9 +161,11 @@ const isUsActive = jurisdiction === "us";
       <div class="ps-footer-inner">
         <span>© {new Date().getFullYear()} PanicStation.org</span>
         <span class="ps-footer-links">
-          <button class="ps-footer-link" type="button" data-ps-info="about">About</button>
-          <button class="ps-footer-link" type="button" data-ps-info="disclaimer">Disclaimer</button>
-          <button class="ps-footer-link" type="button" data-ps-info="privacy">Privacy</button>
+          <a class="ps-footer-link" href="/about">About</a>
+          <a class="ps-footer-link" href="/contact">Contact</a>
+          <a class="ps-footer-link" href="/disclaimer">Disclaimer</a>
+          <a class="ps-footer-link" href="/editorial">Editorial</a>
+          <a class="ps-footer-link" href="/privacy">Privacy</a>
           <a class="ps-footer-link" href="/guides/">All guides</a>
         </span>
       </div>
@@ -303,13 +274,6 @@ const isUsActive = jurisdiction === "us";
       const homeList = document.getElementById("ps-home-results-list");
       const homeClear = document.getElementById("ps-home-results-clear");
 
-      const infoWrap = document.getElementById("ps-info-wrap");
-      const infoTitle = document.getElementById("ps-info-title");
-      const infoBody = document.getElementById("ps-info-body");
-      const infoClose = document.getElementById("ps-info-close");
-      const infoCloseTop = document.getElementById("ps-info-close-top");
-      const infoButtons = Array.from(document.querySelectorAll("button.ps-footer-link[data-ps-info]"));
-
       const pageType = document.body.getAttribute("data-ps-page");
 
       if (!input || !searchBtn || !box || !inner || !filterBtn || !filterBox || !filterInner) {
@@ -332,7 +296,6 @@ const isUsActive = jurisdiction === "us";
           updateClearVisibility();
           hideSearchResults();
           hideFilter();
-          closeInfo();
           hideHomePanel();
           updateHintVisibility();
           input.focus();
@@ -424,71 +387,16 @@ const isUsActive = jurisdiction === "us";
           const suggestionsShowing = box && !box.hidden;
           const filtersShowing = filterBox && !filterBox.hidden;
           const resultsShowing = homePanel && !homePanel.hidden;
-          const infoShowing = infoWrap && !infoWrap.hidden;
 
           const shouldShow =
             !hasCategory &&
             !hasText &&
             !suggestionsShowing &&
             !resultsShowing &&
-            !filtersShowing &&
-            !infoShowing;
+            !filtersShowing;
 
           hint.hidden = !shouldShow;
         }
-
-        const BODIES = window.__PS_INFO_BODIES__ || {};
-        const INFO = {
-          about: { title: "About", body: BODIES.about?.body || "" },
-          disclaimer: { title: "Disclaimer", body: BODIES.disclaimer?.body || "" },
-          privacy: { title: "Privacy", body: BODIES.privacy?.body || "" },
-        };
-
-        let openInfoKey = null;
-
-        function scrollToTopForInfo() {
-          window.scrollTo({ top: 0, behavior: "smooth" });
-        }
-
-        function closeInfo() {
-          if (!infoWrap) return;
-          infoWrap.hidden = true;
-          openInfoKey = null;
-          delete infoWrap.dataset.psInfo;
-          if (infoTitle) infoTitle.textContent = "";
-          if (infoBody) infoBody.innerHTML = "";
-          updateHintVisibility();
-        }
-
-        function openInfo(key) {
-          const item = INFO[key];
-          if (!item || !infoWrap || !infoTitle || !infoBody) return;
-
-          if (openInfoKey === key) {
-            closeInfo();
-            return;
-          }
-
-          openInfoKey = key;
-          infoWrap.dataset.psInfo = key;
-          infoTitle.textContent = item.title;
-          infoBody.innerHTML = item.body;
-          infoWrap.hidden = false;
-
-          hideSearchResults();
-          hideFilter();
-
-          scrollToTopForInfo();
-          (infoCloseTop || infoClose)?.focus?.();
-
-          updateHintVisibility();
-        }
-
-        if (infoButtons.length) {
-          for (const b of infoButtons) b.addEventListener("click", () => openInfo(b.dataset.psInfo));
-        }
-        if (infoClose) infoClose.addEventListener("click", closeInfo);
-        if (infoCloseTop) infoCloseTop.addEventListener("click", closeInfo);
 
         let activeIndex = -1;
 
@@ -588,7 +496,6 @@ const isUsActive = jurisdiction === "us";
         }
 
         function openFilterBox() {
-          closeInfo();
           hideSearchResults();
           draftCategoryKeys = [...selectedCategoryKeys];
           renderCategoryBox();
@@ -654,7 +561,6 @@ const isUsActive = jurisdiction === "us";
 
         filterBtn.addEventListener("click", (e) => {
           e.stopPropagation();
-          closeInfo();
 
           if (!filterBox.hidden) {
             closeFilterBox();
@@ -820,7 +726,6 @@ const isUsActive = jurisdiction === "us";
 
         let t = null;
         input.addEventListener("input", () => {
-          closeInfo();
           hideHomePanel();
           clearTimeout(t);
           t = setTimeout(doSuggestSearch, 90);
@@ -948,7 +853,6 @@ const isUsActive = jurisdiction === "us";
         }
 
         async function triggerFullSearchFromInput() {
-          closeInfo();
           hideSearchResults();
           hideFilter();
 
@@ -978,13 +882,12 @@ const isUsActive = jurisdiction === "us";
         });
 
         input.addEventListener("keydown", (e) => {
-          if (e.key === "Escape") { hideSearchResults(); hideFilter(); closeInfo(); return; }
+          if (e.key === "Escape") { hideSearchResults(); hideFilter(); return; }
 
           if (e.key === "ArrowDown") {
             if (!box.hidden) {
               e.preventDefault();
               hideFilter();
-              closeInfo();
               focusResultAt(0);
             }
             return;
@@ -994,7 +897,6 @@ const isUsActive = jurisdiction === "us";
             if (!box.hidden) {
               e.preventDefault();
               hideFilter();
-              closeInfo();
               const btns = getResultButtons();
               focusResultAt(btns.length - 1);
             }
@@ -1301,7 +1203,6 @@ const isUsActive = jurisdiction === "us";
     justify-content: center;
   }
 
-
   .ps-search-hint{
     width: 100%;
     max-width: 1100px;
@@ -1331,126 +1232,6 @@ const isUsActive = jurisdiction === "us";
     max-width: 760px;
   }
 
-  .ps-info-wrap{
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 0 16px 18px;
-  }
-
-  .ps-info-card.ps-card{
-    background:#fff;
-    border: 1px solid #dbe2ef;
-    border-radius: 18px;
-    padding: 18px 22px 16px;
-    margin: 0;
-    box-shadow:
-      0 1px 0 rgba(0,0,0,.02),
-      0 8px 24px rgba(15, 23, 42, 0.04);
-  }
-
-  .ps-info-head{
-    display:flex;
-    align-items:flex-start;
-    justify-content:space-between;
-    gap: 12px;
-    margin-bottom: 10px;
-  }
-
-  .ps-info-title{
-    display: inline-block;
-    margin: 0;
-    padding: 9px 14px;
-    border-radius: 12px;
-    color:#fff;
-    font-size: 16px;
-    font-weight: 900;
-    letter-spacing: -0.1px;
-    background: #224b7a;
-  }
-
-  .ps-info-close-top{
-    width: 40px;
-    height: 40px;
-    border-radius: 999px;
-    border: 1px solid var(--ps-border);
-    background: #fff;
-    display:grid;
-    place-items:center;
-    cursor: pointer;
-    color:#0b1220;
-    flex: 0 0 auto;
-  }
-
-  .ps-info-close-top:hover{
-    background: rgba(34, 75, 122, 0.06);
-  }
-
-  .ps-info-close-top:focus{ outline:none; }
-  .ps-info-close-top:focus-visible{
-    box-shadow: 0 0 0 3px rgba(34,75,122,.18);
-  }
-
-  .ps-info-body{
-    font-size: 16px;
-    line-height: 1.65;
-    color:#0b1220;
-  }
-
-  .ps-info-body p{
-    margin: 12px 0;
-    font-size: 16px;
-  }
-
-  .ps-info-body ul, .ps-info-body ol{
-    margin: 12px 0 14px 22px;
-  }
-
-  .ps-info-body li{
-    margin: 10px 0;
-    white-space: normal;
-    word-break: normal;
-    overflow-wrap: normal;
-  }
-
-  .ps-info-body h3{
-    margin: 18px 0 10px;
-    font-size: 18px;
-    letter-spacing: -0.2px;
-    font-weight: 900;
-    color:#0b1220;
-  }
-
-  .ps-info-body code{
-    background: #eef1f7;
-    border: 1px solid #e1e7f3;
-    padding: 1px 6px;
-    border-radius: 8px;
-    font-size: 0.95em;
-  }
-
-  .ps-info-foot{
-    padding-top: 10px;
-    display:flex;
-    justify-content:flex-end;
-  }
-
-  .ps-info-close{
-    border: 1px solid var(--ps-border);
-    background: #fff;
-    border-radius: 999px;
-    padding: 10px 14px;
-    font-weight: 800;
-    cursor: pointer;
-  }
-
-  .ps-info-close:hover{
-    background: rgba(34, 75, 122, 0.06);
-  }
-
-  #ps-info-wrap[data-ps-info="about"] .ps-info-title{ background:#224b7a; }
-  #ps-info-wrap[data-ps-info="disclaimer"] .ps-info-title{ background:#c84b4b; }
-  #ps-info-wrap[data-ps-info="privacy"] .ps-info-title{ background:#7a8699; }
-
   .ps-footer{
     margin: 0;
     padding: 18px 16px 32px;
@@ -1477,12 +1258,7 @@ const isUsActive = jurisdiction === "us";
   }
 
   .ps-footer-link{
-    border: 0;
-    background: transparent;
-    padding: 0;
-    margin: 0;
     color: inherit;
-    cursor: pointer;
     font: inherit;
     text-decoration: none;
   }

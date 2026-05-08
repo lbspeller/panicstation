@@ -1,6 +1,6 @@
 /* =========================
    PanicStation guides.css
-   FULL (resources collapsible + uniform icon sizes)
+   FULL (resources always open + uniform icon sizes)
    ========================= */
 
 /* Guide container (match header/search width) */
@@ -18,8 +18,32 @@
   font-size: clamp(20px, 2.1vw, 28px);
   line-height: 1.2;
   letter-spacing: -0.3px;
-  margin: 0px 0 18px;
+  margin: 0px 0 10px;
   font-weight: 900;
+}
+
+/* Guide metadata line under title */
+.ps-guide-meta{
+  margin: 0 0 18px;
+  color: #546070;
+  font-size: 13px;
+  line-height: 1.45;
+  font-weight: 650;
+}
+
+.ps-guide-meta a{
+  color: inherit;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.ps-guide-meta a:hover{
+  color: var(--ps-accent, #224b7a);
+  text-decoration-thickness: 2px;
+}
+
+.ps-guide-meta time{
+  font: inherit;
 }
 
 .ps-title-lead{
@@ -284,58 +308,24 @@
 }
 
 /* =========================
-   Additional resources card (collapsible via <details>)
+   Additional resources card
    ========================= */
 .ps-card.ps-resources{
+  background:#fff;
+  border-color:#dbe2ef;
+}
+
+.ps-card.ps-resources h2{
+  background:#7a8699;
+  color:#fff;
+}
+
+.ps-card.ps-resources ul{
+  margin: 12px 0 14px 22px;
   padding: 0;
-  overflow: hidden;
 }
 
-.ps-card.ps-resources > h2{
-  display:none;
-}
-
-.ps-card.ps-resources details{
-  width: 100%;
-  padding: 18px 18px 14px;
-}
-
-.ps-card.ps-resources summary.ps-summary{
-  cursor: pointer;
-  font-weight: 900;
-  list-style: none;
-  padding: 12px 18px;
-  padding-right: 54px;     /* reserve space for arrow */
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  position: relative;
-}
-
-.ps-card.ps-resources summary.ps-summary::-webkit-details-marker{
-  display:none;
-}
-
-.ps-card.ps-resources summary.ps-summary::after{
-  content:"▾";
-  opacity:0.7;
-  position: absolute;
-  right: 24px;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 22px;
-  line-height: 1;
-}
-.ps-card.ps-resources details[open] summary.ps-summary::after{
-  content:"▴";
-}
-
-.ps-card.ps-resources details > ul{
-  margin: 12px 0 0 0;
-  padding: 0 0 0 22px;
-}
-.ps-card.ps-resources details > ul > li{
+.ps-card.ps-resources li{
   margin: 10px 0;
 }
 
@@ -418,8 +408,20 @@ a.ps-action-btn:active{
 
 /* Responsive */
 @media (max-width: 520px){
-  .ps-card{ padding: 18px 16px 12px; border-radius: 16px; }
-  .ps-card h2{ font-size: 15px; padding: 8px 12px; }
+  .ps-card{
+    padding: 18px 16px 12px;
+    border-radius: 16px;
+  }
+
+  .ps-card h2{
+    font-size: 15px;
+    padding: 8px 12px;
+  }
+
+  .ps-guide-meta{
+    font-size: 12.5px;
+    line-height: 1.5;
+  }
 
   .ps-card[data-ps-section="Do not do these things"] li{
     padding-left: 42px;
@@ -437,14 +439,11 @@ a.ps-action-btn:active{
   .ps-card[data-ps-section="Important note"] p:first-of-type{
     padding-left: 46px;
   }
+
   .ps-card[data-ps-section="Important note"] p:first-of-type::before{
     top: 2px;
     width: 26px;
     height: 26px;
-  }
-
-  .ps-card.ps-resources details{
-    padding: 16px 16px 12px;
   }
 
   .ps-ad-slot.ps-ad-slot-mid:not([hidden]){

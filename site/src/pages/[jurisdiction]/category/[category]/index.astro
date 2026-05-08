@@ -2,6 +2,33 @@
 import { getCollection } from "astro:content";
 import SimpleLayout from "../../../../layouts/SimpleLayout.astro";
 import { CATEGORIES, CATEGORY_FULL } from "../../../../lib/categories";
+import { textToParagraphHtml } from "../../../../lib/textToHtml";
+
+import bereavementText from "../../../../site/category text/Bereavement.txt?raw";
+import healthText from "../../../../site/category text/health.txt?raw";
+import homeText from "../../../../site/category text/home.txt?raw";
+import legalText from "../../../../site/category text/Legal.txt?raw";
+import moneyText from "../../../../site/category text/money.txt?raw";
+import personalSafetyText from "../../../../site/category text/personal safety.txt?raw";
+import sensitiveText from "../../../../site/category text/sensitive.txt?raw";
+import techText from "../../../../site/category text/tech.txt?raw";
+import transportText from "../../../../site/category text/transport.txt?raw";
+import travelText from "../../../../site/category text/travel.txt?raw";
+import workText from "../../../../site/category text/work.txt?raw";
+
+const CATEGORY_TEXT = {
+  bereavement: bereavementText,
+  health: healthText,
+  home: homeText,
+  legal: legalText,
+  money: moneyText,
+  safety: personalSafetyText,
+  sexual: sensitiveText,
+  tech: techText,
+  transport: transportText,
+  travel: travelText,
+  work: workText,
+};
 
 export async function getStaticPaths() {
   const paths = [];
@@ -13,7 +40,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const jur = (Astro.params.jurisdiction || "us").toLowerCase(); // uk | us
+const jur = (Astro.params.jurisdiction || "us").toLowerCase();
 const categoryKey = Astro.params.category;
 
 const cat = CATEGORIES.find((x) => x.key === categoryKey);
@@ -23,7 +50,6 @@ const fullCategory = CATEGORY_FULL[cat.key];
 
 const all = await getCollection("guides");
 
-// entry.slug includes the jurisdiction folder, e.g. "uk/some-guide"
 const guides = all
   .filter((e) => e.slug.startsWith(`${jur}/`))
   .filter((e) => (e.data.category || "").trim() === fullCategory)
@@ -32,6 +58,9 @@ const guides = all
 function displayTitle(full) {
   return String(full || "").replace(/^What to do if…\s*/i, "").trim();
 }
+
+const categoryText = CATEGORY_TEXT[cat.key] || "";
+const introHtml = textToParagraphHtml(categoryText);
 
 const title = `${cat.label} (${jur.toUpperCase()}) — PanicStation.org`;
 ---
@@ -53,7 +82,11 @@ const title = `${cat.label} (${jur.toUpperCase()}) — PanicStation.org`;
         </nav>
       </div>
 
-      <p class="ps-muted">{guides.length} guide{guides.length === 1 ? "" : "s"}</p>
+      <p class="ps-guide-count">
+        {guides.length} guide{guides.length === 1 ? "" : "s"}
+      </p>
+
+      <div class="ps-intro" set:html={introHtml} />
 
       {guides.length ? (
         <div class="ps-list" role="list">
@@ -128,19 +161,41 @@ const title = `${cat.label} (${jur.toUpperCase()}) — PanicStation.org`;
     align-items:center;
     padding-top: 6px;
   }
+
   .ps-breadcrumb a{
     color: inherit;
     text-decoration: none;
   }
+
   .ps-breadcrumb a:hover{
     text-decoration: underline;
   }
 
-  .ps-muted{
-    margin: 12px 0 18px;
+  .ps-guide-count{
+    margin: 12px 0 10px;
     color:#546070;
     font-size: 16px;
     line-height: 1.65;
+    font-weight: 800;
+  }
+
+  .ps-intro{
+    margin: 0 0 18px;
+    color:#546070;
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  .ps-intro :global(p){
+    margin: 12px 0;
+  }
+
+  .ps-intro :global(p:first-child){
+    margin-top: 0;
+  }
+
+  .ps-intro :global(p:last-child){
+    margin-bottom: 0;
   }
 
   .ps-list{
@@ -151,7 +206,6 @@ const title = `${cat.label} (${jur.toUpperCase()}) — PanicStation.org`;
     width: 100%;
   }
 
-  /* Match the “home search results card” look */
   .ps-guide-card{
     background: #fff;
     border: 1px solid var(--ps-border);

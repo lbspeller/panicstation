@@ -1,0 +1,215 @@
+# Privacy Policy
+
+Last updated: 7 May 2026
+
+This Privacy Policy explains how PanicStation.org handles information when you use this website.
+
+PanicStation.org is a public information website. You do not need to create an account to read guides or use the site.
+
+For privacy questions, contact:
+
+support@panicstation.org
+
+## Information you provide to us
+
+PanicStation.org does not have user accounts, comments, forms, profiles, or user submissions.
+
+You may choose to contact PanicStation.org by email. If you do, we may receive:
+
+- your email address;
+- your name, if you provide it;
+- the content of your message;
+- any other information you choose to include.
+
+Please do not send sensitive personal documents or detailed personal information unless it is necessary for your message. PanicStation.org is an information website, not an advice or casework service.
+
+## Search and country choice
+
+PanicStation.org lets users search guides and choose between UK and US guidance.
+
+Search is handled locally in your browser using an index already included with the website. PanicStation.org does not record, store, or receive your search queries.
+
+As with any webpage, technical providers may still process ordinary page-request information when search pages, scripts, or guide pages are loaded.
+
+Country choice is used to help show the relevant version of guides. PanicStation.org does not use country choice to create an account, profile you, or store personal information about you.
+
+## Information collected automatically
+
+PanicStation.org itself does not intentionally record or store personal information about ordinary site visits, other than information connected with advertising cookies, consent choices, and technical services described in this policy.
+
+Like most websites, technical information may still be processed by services used to deliver, secure, measure, and operate the site. This may include:
+
+- IP address;
+- browser type and version;
+- device type;
+- operating system;
+- pages requested;
+- referring page;
+- approximate location inferred from technical data;
+- date and time of access;
+- security, performance, and error information.
+
+This information may be processed by hosting, security, analytics, advertising, consent, or delivery providers.
+
+## Cloudflare
+
+PanicStation.org uses Cloudflare services to help deliver, secure, and operate the website.
+
+Cloudflare may process technical information such as IP addresses, device and browser information, security events, request logs, performance information, and analytics available through Cloudflare’s service.
+
+PanicStation.org uses this information only as made available through Cloudflare to help keep the site secure, reliable, and accessible.
+
+## Cookies and similar technologies
+
+PanicStation.org may use cookies, local storage, session storage, scripts, tags, or similar technologies.
+
+These may be used for:
+
+- essential site functions;
+- remembering consent choices;
+- site security and abuse prevention;
+- Cloudflare performance and security services;
+- advertising, including Google AdSense, where permitted.
+
+PanicStation.org does not use its own cookies to create user accounts or personal profiles.
+
+You can control cookies through your browser settings. Blocking or deleting cookies may affect some site features, advertising choices, or consent settings.
+
+## Google AdSense and advertising cookies
+
+PanicStation.org may display advertising provided by Google AdSense.
+
+Third-party vendors, including Google, may use cookies and similar technologies to serve ads based on a user’s previous visits to PanicStation.org and/or other websites or apps.
+
+Google’s use of advertising cookies enables Google and its partners to serve ads to users based on their visit to PanicStation.org and/or other sites on the Internet.
+
+Depending on your location and consent choices, ads may be personalised or non-personalised.
+
+Google and its partners may use cookies, device identifiers, IP addresses, web beacons, or similar technologies to serve ads, measure ad performance, limit how often ads are shown, detect invalid activity, and provide advertising services.
+
+You can manage or opt out of personalised advertising from Google at:
+
+https://adssettings.google.com/
+
+You can learn more about how Google uses information from sites and apps that use Google services at:
+
+https://policies.google.com/technologies/partner-sites
+
+You can learn more about Google advertising cookies at:
+
+https://business.safety.google/adscookies/
+
+## Consent choices
+
+Where required, PanicStation.org will show a consent message that lets you accept, reject, or manage advertising cookies and related technologies.
+
+In regions where consent is required, advertising cookies and similar technologies may be controlled by a consent management tool, including Google’s advertising consent message.
+
+If a consent message is shown, the privacy-policy or “Learn more” link in that message should point to this Privacy Policy.
+
+You may be able to change your consent choices through the consent message or cookie controls provided on the site.
+
+You can also use your browser settings to block or delete cookies. Some browsers and devices provide additional privacy controls.
+
+## External links
+
+PanicStation.org guides may link to external websites, including government departments, public services, regulators, ombudsmen, charities, support organisations, transport providers, courts, health services, and other resources.
+
+External websites have their own privacy policies and practices. PanicStation.org is not responsible for how external websites collect, use, store, or share information.
+
+Following an external link may allow that external website to collect information about your visit.
+
+## Advertising and external websites
+
+Advertisements shown on PanicStation.org may link to third-party websites.
+
+PanicStation.org does not control the privacy practices, content, products, services, or claims made by advertisers or external websites.
+
+You should review the privacy policy of any external website you visit.
+
+## Email contact and corrections
+
+If you contact PanicStation.org by email, your message may be used to respond to you, investigate a correction, fix an issue, improve the site, or keep a record of the communication.
+
+For example, if you report an outdated guide, broken link, unclear wording, or privacy concern, we may use the information you provide to review and improve the relevant page.
+
+Please avoid sending sensitive personal information unless necessary.
+
+## Legal bases for processing
+
+Where data protection law requires a legal basis for processing personal information, PanicStation.org may rely on one or more of the following:
+
+- consent, where you have given consent;
+- legitimate interests, such as operating, securing, maintaining, and improving the website;
+- legal obligations, where processing is needed to comply with the law;
+- vital interests, where processing may be necessary to protect someone’s life or safety.
+
+For advertising cookies and personalised advertising in regions where consent is required, PanicStation.org relies on consent.
+
+## How long information is kept
+
+PanicStation.org does not intentionally store search queries, country choices, user accounts, comments, or user profiles.
+
+Emails sent to PanicStation.org may be kept for as long as needed to respond, handle corrections, maintain records, resolve issues, protect the site from abuse, or meet legal or operational requirements.
+
+Cloudflare, Google, and other service providers may retain technical, security, analytics, advertising, or consent-related information according to their own systems, policies, and legal obligations.
+
+## Your choices
+
+You can:
+
+- use PanicStation.org without creating an account;
+- avoid sending personal information by email;
+- use browser settings to block or delete cookies;
+- manage or opt out of personalised advertising through Google Ads Settings;
+- use consent controls where they are available;
+- contact support@panicstation.org with privacy questions.
+
+## Your privacy rights
+
+Depending on where you live, you may have rights over your personal information.
+
+These may include the right to:
+
+- ask what personal information is held about you;
+- ask for inaccurate information to be corrected;
+- ask for information to be deleted;
+- object to certain processing;
+- withdraw consent where processing is based on consent;
+- complain to a data protection authority.
+
+To ask a privacy question or make a request, contact:
+
+support@panicstation.org
+
+We may need to verify your identity before responding to some requests.
+
+## Children
+
+PanicStation.org is not designed for children to create accounts or submit personal information.
+
+Some guides may discuss situations involving children, young people, parents, schools, family crises, or safeguarding concerns, but the site does not knowingly ask children to provide personal information.
+
+If you believe a child has sent personal information to PanicStation.org, contact:
+
+support@panicstation.org
+
+## Security
+
+PanicStation.org uses reasonable measures to protect the site and the information processed through it.
+
+No website, email system, hosting provider, advertising system, security provider, or internet transmission can be guaranteed completely secure.
+
+Please do not send sensitive documents, passwords, financial details, medical records, legal papers, or other highly personal information unless necessary.
+
+## Changes to this Privacy Policy
+
+This Privacy Policy may be updated from time to time.
+
+The “Last updated” date at the top of the page shows when this policy was last changed.
+
+## Contact
+
+For privacy questions, correction requests, or concerns about this policy, contact:
+
+support@panicstation.org

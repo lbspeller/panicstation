@@ -1,7 +1,10 @@
 ---
 import SimpleLayout from "../../layouts/SimpleLayout.astro";
+import allGuidesText from "../../site/category text/all guides.txt?raw";
+import { textToParagraphHtml } from "../../lib/textToHtml";
 
 const title = "All guides — PanicStation.org";
+const introHtml = textToParagraphHtml(allGuidesText);
 ---
 
 <SimpleLayout title={title}>
@@ -9,9 +12,8 @@ const title = "All guides — PanicStation.org";
   <main data-pagefind-ignore>
     <section class="ps-card">
       <h1 class="ps-h1">All guides</h1>
-      <p class="ps-muted">
-        Choose a jurisdiction.
-      </p>
+
+      <div class="ps-intro" set:html={introHtml} />
 
       <div class="ps-grid">
         <a class="ps-chooser" href="/uk/">
@@ -48,11 +50,23 @@ const title = "All guides — PanicStation.org";
     line-height: 1.2;
   }
 
-  .ps-muted{
+  .ps-intro{
     margin: 0 0 18px;
     color:#546070;
     font-size: 16px;
     line-height: 1.65;
+  }
+
+  .ps-intro :global(p){
+    margin: 12px 0;
+  }
+
+  .ps-intro :global(p:first-child){
+    margin-top: 0;
+  }
+
+  .ps-intro :global(p:last-child){
+    margin-bottom: 0;
   }
 
   .ps-grid{

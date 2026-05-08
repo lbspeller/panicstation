@@ -1,0 +1,11 @@
+## How the guides work
+
+PanicStation.org guides are built to be quick to scan when you are stressed, short on time, or unsure what matters first.
+
+Most guides follow the same basic pattern:
+
+- **Short answer:** the immediate priority in plain language.
+- **Do not do these things:** common mistakes that could make the situation harder to fix.
+- **What to do now:** practical first steps while the issue is active.
+- **What can wait:** tasks to leave until the immediate pressure has passed.
+- **Important notes and resources:** limits, context, and official or specialist links where available.

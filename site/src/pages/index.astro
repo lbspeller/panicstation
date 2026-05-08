@@ -1,9 +1,282 @@
 ---
 import SiteLayout from "../layouts/SiteLayout.astro";
+
+import whatPanicStationIsText from "../site/homepage texts/What PanicStation.org is.txt?raw";
+import urgentHelpText from "../site/homepage texts/When to get urgent help.txt?raw";
+import howGuidesWorkText from "../site/homepage texts/How the guides work.txt?raw";
+import howGuidesAreCheckedText from "../site/homepage texts/How Guides are checked.txt?raw";
+import correctionsContactPrivacyText from "../site/homepage texts/Corrections, contact and privacy.txt?raw";
+
 const title = "PanicStation.org";
 const description = "Calm, practical first-step guidance for sudden, panic-inducing situations.";
+
+const sections = [
+  {
+    key: "what-panicstation-is",
+    text: whatPanicStationIsText,
+    actions: [
+      { label: "Browse All Guides", href: "/guides/" },
+      { label: "About PanicStation.org", href: "/about" },
+    ],
+  },
+  {
+    key: "urgent-help",
+    text: urgentHelpText,
+    actions: [],
+  },
+  {
+    key: "how-guides-work",
+    text: howGuidesWorkText,
+    actions: [],
+  },
+  {
+    key: "how-guides-are-checked",
+    text: howGuidesAreCheckedText,
+    actions: [
+      { label: "View Editorial Policy", href: "/editorial" },
+    ],
+  },
+  {
+    key: "corrections-contact-privacy",
+    text: correctionsContactPrivacyText,
+    actions: [
+      { label: "Contact PanicStation.org", href: "/contact" },
+      { label: "Read Privacy Policy", href: "/privacy" },
+    ],
+  },
+];
+
+function escapeHtml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;");
+}
+
+function inlineMarkdown(value) {
+  return escapeHtml(value)
+    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/\*(.+?)\*/g, "<em>$1</em>");
+}
+
+function markdownToHtml(markdown) {
+  const lines = String(markdown).replace(/\r\n/g, "\n").split("\n");
+  const html = [];
+
+  let inList = false;
+  let paragraph = [];
+
+  function flushParagraph() {
+    if (!paragraph.length) return;
+    html.push(`<p>${inlineMarkdown(paragraph.join(" "))}</p>`);
+    paragraph = [];
+  }
+
+  function closeList() {
+    if (!inList) return;
+    html.push("</ul>");
+    inList = false;
+  }
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+
+    if (!trimmed) {
+      flushParagraph();
+      closeList();
+      continue;
+    }
+
+    if (trimmed.startsWith("## ")) {
+      flushParagraph();
+      closeList();
+      html.push(`<h2>${inlineMarkdown(trimmed.slice(3))}</h2>`);
+      continue;
+    }
+
+    if (trimmed.startsWith("- ")) {
+      flushParagraph();
+
+      if (!inList) {
+        html.push(`<ul>`);
+        inList = true;
+      }
+
+      html.push(`<li>${inlineMarkdown(trimmed.slice(2))}</li>`);
+      continue;
+    }
+
+    paragraph.push(trimmed);
+  }
+
+  flushParagraph();
+  closeList();
+
+  return html.join("\n");
+}
 ---
 
 <SiteLayout title={title} jurisdiction="us">
-  <!-- Home page has no extra content yet -->
+  <main class="ps-home-content" data-pagefind-ignore>
+    <div class="ps-home-cards" aria-label="About PanicStation.org">
+      {sections.map((section) => (
+        <section class={`ps-home-card ps-home-card-${section.key}`}>
+          <div class="ps-home-card-body" set:html={markdownToHtml(section.text)} />
+
+          {section.actions.length > 0 && (
+            <nav class="ps-home-card-actions" aria-label="Related links">
+              {section.actions.map((action) => (
+                <a class="ps-home-card-action" href={action.href}>
+                  {action.label}
+                </a>
+              ))}
+            </nav>
+          )}
+        </section>
+      ))}
+    </div>
+  </main>
 </SiteLayout>
+
+<style>
+  .ps-home-content{
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto 40px;
+    padding: 0;
+  }
+
+  .ps-home-cards{
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .ps-home-card{
+    background: #fff;
+    border: 1px solid #dbe2ef;
+    border-radius: 18px;
+    padding: 22px 22px 16px;
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 8px 24px rgba(15, 23, 42, 0.04);
+    line-height: 1.65;
+    color: #0b1220;
+  }
+
+  .ps-home-card-body :global(h2){
+    display: inline-block;
+    margin: 0 0 14px;
+    padding: 9px 14px;
+    border-radius: 12px;
+    background: #224b7a;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: -0.1px;
+    line-height: 1.25;
+  }
+
+  .ps-home-card-body :global(p){
+    margin: 12px 0;
+    font-size: 16px;
+  }
+
+  .ps-home-card-body :global(strong){
+    font-weight: 900;
+  }
+
+  .ps-home-card-body :global(ul){
+    margin: 12px 0 14px 22px;
+    padding-left: 0;
+  }
+
+  .ps-home-card-body :global(li){
+    margin: 10px 0;
+    padding-left: 2px;
+  }
+
+  .ps-home-card-body :global(li::marker){
+    color: #224b7a;
+  }
+
+  .ps-home-card-actions{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin: 14px 0 0;
+  }
+
+  .ps-home-card-action{
+    box-sizing: border-box;
+    border: 1px solid #d9dfec;
+    background: #fff;
+    color: #224b7a;
+    text-decoration: none;
+    border-radius: 999px;
+    padding: 7px 11px;
+    min-height: 34px;
+    line-height: 1;
+    font: inherit;
+    font-size: 13px;
+    font-weight: 850;
+    letter-spacing: -0.05px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 4px 14px rgba(15, 23, 42, 0.035);
+  }
+
+  .ps-home-card-action:link,
+  .ps-home-card-action:visited,
+  .ps-home-card-action:hover,
+  .ps-home-card-action:active{
+    color: #224b7a;
+    text-decoration: none;
+  }
+
+  .ps-home-card-action:hover{
+    background: rgba(34, 75, 122, 0.06);
+    border-color: rgba(34, 75, 122, 0.3);
+  }
+
+  .ps-home-card-action:focus{
+    outline: none;
+  }
+
+  .ps-home-card-action:focus-visible{
+    box-shadow:
+      0 0 0 3px rgba(34,75,122,.18),
+      0 4px 14px rgba(15, 23, 42, 0.035);
+  }
+
+  @media (max-width: 520px){
+    .ps-home-cards{
+      gap: 16px;
+    }
+
+    .ps-home-card{
+      padding: 18px 16px 12px;
+      border-radius: 16px;
+    }
+
+    .ps-home-card-body :global(h2){
+      font-size: 15px;
+      padding: 8px 12px;
+    }
+
+    .ps-home-card-actions{
+      justify-content: flex-start;
+    }
+
+    .ps-home-card-action{
+      width: auto;
+      max-width: 100%;
+    }
+  }
+</style>

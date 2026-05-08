@@ -1,0 +1,144 @@
+---
+import PageTextLayout from "../layouts/PageTextLayout.astro";
+
+import aboutText from "../site/page texts/about.txt?raw";
+import contactText from "../site/page texts/contact.txt?raw";
+import disclaimerText from "../site/page texts/disclaimer.txt?raw";
+import editorialText from "../site/page texts/editorial.txt?raw";
+import privacyText from "../site/page texts/privacy.txt?raw";
+
+export function getStaticPaths() {
+  return [
+    { params: { page: "about" } },
+    { params: { page: "contact" } },
+    { params: { page: "disclaimer" } },
+    { params: { page: "editorial" } },
+    { params: { page: "privacy" } },
+  ];
+}
+
+const pageKey = Astro.params.page;
+
+let title = "";
+let text = "";
+
+switch (pageKey) {
+  case "about":
+    title = "About — PanicStation.org";
+    text = aboutText;
+    break;
+
+  case "contact":
+    title = "Contact — PanicStation.org";
+    text = contactText;
+    break;
+
+  case "disclaimer":
+    title = "Disclaimer — PanicStation.org";
+    text = disclaimerText;
+    break;
+
+  case "editorial":
+    title = "Editorial Policy — PanicStation.org";
+    text = editorialText;
+    break;
+
+  case "privacy":
+    title = "Privacy Policy — PanicStation.org";
+    text = privacyText;
+    break;
+
+  default:
+    throw new Error(`Unknown standalone page: ${pageKey}`);
+}
+
+function escapeHtml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;");
+}
+
+function inlineMarkdown(value) {
+  return escapeHtml(value)
+    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/\*(.+?)\*/g, "<em>$1</em>")
+    .replace(
+      /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/gi,
+      (email) => `<a href="mailto:${email}">${email}</a>`
+    )
+    .replace(
+      /\bhttps?:\/\/[^\s<]+/gi,
+      (url) => `<a href="${url}" rel="noopener noreferrer">${url}</a>`
+    );
+}
+
+function markdownToHtml(markdown) {
+  const lines = String(markdown).replace(/\r\n/g, "\n").split("\n");
+  const html = [];
+
+  let inList = false;
+  let paragraph = [];
+
+  function flushParagraph() {
+    if (!paragraph.length) return;
+    html.push(`<p>${inlineMarkdown(paragraph.join(" "))}</p>`);
+    paragraph = [];
+  }
+
+  function closeList() {
+    if (!inList) return;
+    html.push("</ul>");
+    inList = false;
+  }
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+
+    if (!trimmed) {
+      flushParagraph();
+      closeList();
+      continue;
+    }
+
+    if (trimmed.startsWith("# ")) {
+      flushParagraph();
+      closeList();
+      html.push(`<h1>${inlineMarkdown(trimmed.slice(2))}</h1>`);
+      continue;
+    }
+
+    if (trimmed.startsWith("## ")) {
+      flushParagraph();
+      closeList();
+      html.push(`<h2>${inlineMarkdown(trimmed.slice(3))}</h2>`);
+      continue;
+    }
+
+    if (trimmed.startsWith("- ")) {
+      flushParagraph();
+
+      if (!inList) {
+        html.push("<ul>");
+        inList = true;
+      }
+
+      html.push(`<li>${inlineMarkdown(trimmed.slice(2))}</li>`);
+      continue;
+    }
+
+    paragraph.push(trimmed);
+  }
+
+  flushParagraph();
+  closeList();
+
+  return html.join("\n");
+}
+
+const bodyHtml = markdownToHtml(text);
+---
+
+<PageTextLayout title={title}>
+  <article class="ps-page-text" set:html={bodyHtml} />
+</PageTextLayout>

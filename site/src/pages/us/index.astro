@@ -1,8 +1,11 @@
 ---
 import SimpleLayout from "../../layouts/SimpleLayout.astro";
 import { CATEGORIES } from "../../lib/categories";
+import usText from "../../site/category text/us.txt?raw";
+import { textToParagraphHtml } from "../../lib/textToHtml";
 
 const title = "USA guides — PanicStation.org";
+const introHtml = textToParagraphHtml(usText);
 ---
 
 <SimpleLayout title={title}>
@@ -10,7 +13,8 @@ const title = "USA guides — PanicStation.org";
   <main data-pagefind-ignore>
     <section class="ps-card">
       <h1 class="ps-h1">USA guides</h1>
-      <p class="ps-muted">Browse by category.</p>
+
+      <div class="ps-intro" set:html={introHtml} />
 
       <div class="ps-grid" role="list">
         {CATEGORIES.map((c) => (
@@ -46,11 +50,23 @@ const title = "USA guides — PanicStation.org";
     line-height: 1.2;
   }
 
-  .ps-muted{
+  .ps-intro{
     margin: 0 0 18px;
     color:#546070;
     font-size: 16px;
     line-height: 1.65;
+  }
+
+  .ps-intro :global(p){
+    margin: 12px 0;
+  }
+
+  .ps-intro :global(p:first-child){
+    margin-top: 0;
+  }
+
+  .ps-intro :global(p:last-child){
+    margin-bottom: 0;
   }
 
   .ps-grid{
