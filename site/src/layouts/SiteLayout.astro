@@ -150,9 +150,12 @@ const isUsActive = jurisdiction === "us";
               id="ps-home-results-clear"
               class="ps-home-results-clear"
               type="button"
-              aria-label="Clear search results"
+              aria-label="Reset search results"
+              title="Reset search results"
               hidden
-            ></button>
+            >
+              <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+            </button>
           </div>
           <div id="ps-home-results-list" class="ps-home-results-list" role="list"></div>
         </div>
@@ -621,7 +624,6 @@ const isUsActive = jurisdiction === "us";
 
           if (homeClear) {
             homeClear.hidden = false;
-            homeClear.textContent = "Clear";
           }
 
           homePanel.hidden = false;
@@ -638,7 +640,6 @@ const isUsActive = jurisdiction === "us";
 
           if (homeClear) {
             homeClear.hidden = true;
-            homeClear.textContent = "";
           }
 
           updateHintVisibility();
@@ -851,8 +852,17 @@ const isUsActive = jurisdiction === "us";
           if (pageType !== "home") return;
 
           const q = getHomeResultsQuery();
+          const hasFilters = selectedCategoryKeys.length > 0;
+
+          if ((!q || norm(q).length < 2) && !hasFilters) {
+            clearHomeResultsMode();
+            hideHomePanel();
+            return;
+          }
+
           if (!q || norm(q).length < 2) {
-            renderHomeResults([], q);
+            clearHomeResultsMode();
+            hideHomePanel();
             return;
           }
 
@@ -883,6 +893,20 @@ const isUsActive = jurisdiction === "us";
           updateClearVisibility();
 
           persistCategorySelection();
+
+          if (!q || norm(q).length < 2) {
+            clearHomeResultsMode();
+
+            if (pageType !== "home") {
+              location.href = "/";
+              return;
+            }
+
+            hideHomePanel();
+            updateHintVisibility();
+            return;
+          }
+
           setHomeResultsMode(q);
 
           if (pageType !== "home") {
@@ -939,7 +963,15 @@ const isUsActive = jurisdiction === "us";
         }
 
         if (pageType === "home" && sessionStorage.getItem(SESSION_SHOW) === "1") {
-          runHomeResultsSearch();
+          const savedQuery = norm(getHomeResultsQuery());
+          const hasFilters = selectedCategoryKeys.length > 0;
+
+          if (savedQuery.length >= 2 || hasFilters) {
+            runHomeResultsSearch();
+          } else {
+            clearHomeResultsMode();
+            hideHomePanel();
+          }
         }
 
         document.addEventListener("click", (e) => {
@@ -1514,16 +1546,29 @@ const isUsActive = jurisdiction === "us";
   }
 
   .ps-home-results-clear{
+    width: 38px;
+    height: 38px;
     border: 1px solid var(--ps-border);
     background: #fff;
     border-radius: 999px;
-    padding: 8px 12px;
-    font-weight: 800;
+    padding: 0;
+    color: var(--ps-accent);
     cursor: pointer;
+    display: grid;
+    place-items: center;
+    font-size: 15px;
   }
 
   .ps-home-results-clear:hover{
     background: rgba(34, 75, 122, 0.06);
+  }
+
+  .ps-home-results-clear:focus{
+    outline: none;
+  }
+
+  .ps-home-results-clear:focus-visible{
+    box-shadow: 0 0 0 3px rgba(34,75,122,.18);
   }
 
   .ps-home-results-list{
