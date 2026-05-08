@@ -115,7 +115,7 @@ const isUsActive = jurisdiction === "us";
               <button id="ps-filter-btn" class="ps-icon-btn" type="button" aria-label="Filter by category">
                 <span class="ps-filter-icon-wrap">
                   <i class="fa-solid fa-filter" aria-hidden="true"></i>
-                  <span id="ps-filter-badge" class="ps-filter-badge" hidden>0</span>
+                  <span id="ps-filter-badge" class="ps-filter-badge" hidden></span>
                 </span>
               </button>
 
@@ -146,9 +146,13 @@ const isUsActive = jurisdiction === "us";
         <div class="ps-home-results-inner">
           <div class="ps-home-results-head">
             <div id="ps-home-results-title" class="ps-home-results-title"></div>
-            <button id="ps-home-results-clear" class="ps-home-results-clear" type="button">
-              Clear
-            </button>
+            <button
+              id="ps-home-results-clear"
+              class="ps-home-results-clear"
+              type="button"
+              aria-label="Clear search results"
+              hidden
+            ></button>
           </div>
           <div id="ps-home-results-list" class="ps-home-results-list" role="list"></div>
         </div>
@@ -369,7 +373,7 @@ const isUsActive = jurisdiction === "us";
 
           if (filterBadge) {
             filterBadge.hidden = count === 0;
-            filterBadge.textContent = String(count);
+            filterBadge.textContent = count === 0 ? "" : String(count);
           }
         }
 
@@ -614,15 +618,29 @@ const isUsActive = jurisdiction === "us";
 
         function showHomePanel() {
           if (!homePanel) return;
+
+          if (homeClear) {
+            homeClear.hidden = false;
+            homeClear.textContent = "Clear";
+          }
+
           homePanel.hidden = false;
           updateHintVisibility();
         }
 
         function hideHomePanel() {
           if (!homePanel) return;
+
           homePanel.hidden = true;
+
           if (homeList) homeList.innerHTML = "";
           if (homeTitle) homeTitle.textContent = "";
+
+          if (homeClear) {
+            homeClear.hidden = true;
+            homeClear.textContent = "";
+          }
+
           updateHintVisibility();
         }
 
