@@ -7,6 +7,13 @@ export const SITE_DESCRIPTION =
 export const SUPPORT_EMAIL = "support@panicstation.org";
 export const LOGO_URL = `${SITE_URL}/android-chrome-512x512.png`;
 
+const SITE_IMAGE_OBJECT = {
+  "@type": "ImageObject",
+  url: LOGO_URL,
+  width: 512,
+  height: 512,
+};
+
 export function canonicalUrl(pathname = "/") {
   const path = pathname.startsWith("/") ? pathname : `/${pathname}`;
   return new URL(path, SITE_URL).toString();
@@ -102,10 +109,7 @@ export function organizationSchema() {
     "@id": `${SITE_URL}/#organization`,
     name: SITE_NAME,
     url: `${SITE_URL}/`,
-    logo: {
-      "@type": "ImageObject",
-      url: LOGO_URL,
-    },
+    logo: SITE_IMAGE_OBJECT,
     contactPoint: {
       "@type": "ContactPoint",
       email: SUPPORT_EMAIL,
@@ -175,15 +179,19 @@ export function buildGuideStructuredData({
   const categoryLabel = categoryLabelFromFullCategory(category);
   const reviewedDateTime = schemaDateTime(lastReviewed);
 
-  const organizationRef = {
+  const authorOrganization = {
     "@type": "Organization",
     "@id": `${SITE_URL}/#organization`,
     name: SITE_NAME,
     url: `${SITE_URL}/`,
-    logo: {
-      "@type": "ImageObject",
-      url: LOGO_URL,
-    },
+  };
+
+  const publisherOrganization = {
+    "@type": "Organization",
+    "@id": `${SITE_URL}/#organization`,
+    name: SITE_NAME,
+    url: `${SITE_URL}/`,
+    logo: SITE_IMAGE_OBJECT,
   };
 
   const cleanTags = (tags || [])
@@ -206,8 +214,9 @@ export function buildGuideStructuredData({
     "@type": "Article",
     headline: title,
     description: deriveGuideDescription(title, category),
-    author: organizationRef,
-    publisher: organizationRef,
+    image: SITE_IMAGE_OBJECT,
+    author: authorOrganization,
+    publisher: publisherOrganization,
     datePublished: reviewedDateTime,
     dateModified: reviewedDateTime,
     mainEntityOfPage: {
