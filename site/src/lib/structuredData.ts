@@ -198,9 +198,12 @@ export function buildGuideStructuredData({
     .map((tag) => String(tag || "").trim())
     .filter(Boolean);
 
+  /*
+    Keep detailed search phrases in keywords.
+    Keep about broad and non-keyword-stuffed.
+  */
   const about = [
     category,
-    ...cleanTags,
   ]
     .map((name) => String(name || "").trim())
     .filter(Boolean)
