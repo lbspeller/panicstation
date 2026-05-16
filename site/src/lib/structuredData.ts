@@ -166,9 +166,13 @@ export function buildGuideStructuredData({
     },
   };
 
+  const cleanTags = (tags || [])
+    .map((tag) => String(tag || "").trim())
+    .filter(Boolean);
+
   const about = [
     category,
-    ...tags,
+    ...cleanTags,
   ]
     .map((name) => String(name || "").trim())
     .filter(Boolean)
@@ -192,9 +196,8 @@ export function buildGuideStructuredData({
     },
     url: pageUrl,
     inLanguage: jur.language,
-    isAccessibleForFree: true,
     articleSection: category,
-    keywords: tags,
+    keywords: cleanTags,
     about,
   };
 
@@ -248,7 +251,6 @@ export function buildCategoryStructuredData({
     description,
     url: pageUrl,
     inLanguage: jur.language,
-    isAccessibleForFree: true,
     isPartOf: {
       "@id": `${SITE_URL}/#website`,
     },

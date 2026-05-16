@@ -1,25 +1,134 @@
 /* =========================
    PanicStation guides.css
-   FULL (resources always open + uniform icon sizes)
+   Final guide-page styling
    ========================= */
 
-/* Guide container (match header/search width) */
+/* Guide container */
 .ps-guide{
   max-width: 1100px;
-  margin: 0px auto 64px;
-  padding: 0 0px;
+  margin: 0 auto 64px;
+  padding: 0;
   line-height: 1.65;
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   color:#0b1220;
 }
 
-/* Title (two-line, lead lighter) — built by rehype-title-tweaks.mjs */
+/* Search-only hidden Pagefind metadata */
+.ps-search-hidden{
+  position: absolute;
+  left: -9999px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+/* Hide the Markdown H1 because guide pages already render the title in the hero card */
+.ps-guide-content > h1:first-child{
+  display: none;
+}
+
+/* =========================
+   Real visible breadcrumb inside guide hero
+   ========================= */
+
+.ps-guide-breadcrumb{
+  margin: 0 0 16px;
+  color: rgba(255,255,255,.82);
+  font-size: 13px;
+  line-height: 1.35;
+  font-weight: 750;
+}
+
+.ps-guide-breadcrumb ol{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.ps-guide-breadcrumb li{
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+  min-width: 0;
+}
+
+.ps-guide-breadcrumb li + li::before{
+  content: "›";
+  color: rgba(255,255,255,.58);
+  font-weight: 900;
+}
+
+.ps-guide-breadcrumb a{
+  color: inherit;
+  text-decoration: none;
+  text-underline-offset: 3px;
+}
+
+.ps-guide-breadcrumb a:hover{
+  color: #fff;
+  text-decoration: underline;
+}
+
+/* =========================
+   Guide title/meta hero card
+   ========================= */
+
+.ps-guide-hero{
+  background: var(
+    --ps-hero-blue,
+    radial-gradient(
+      circle at 32% 18%,
+      #132f52 0%,
+      #1b416d 42%,
+      #224b7a 100%
+    )
+  );
+  border: 1px solid rgba(34, 75, 122, 0.12);
+  border-radius: 18px;
+  box-shadow:
+    0 1px 0 rgba(0,0,0,.02),
+    0 8px 24px rgba(15, 23, 42, 0.04);
+  padding: 22px;
+  margin: 0 0 18px;
+}
+
 .ps-guide h1{
   font-size: clamp(20px, 2.1vw, 28px);
   line-height: 1.2;
   letter-spacing: -0.3px;
-  margin: 0px 0 10px;
+  margin: 0 0 10px;
   font-weight: 900;
+}
+
+.ps-guide-hero h1{
+  margin: 0 0 18px;
+}
+
+.ps-title-lead{
+  color: #546070;
+  font-weight: 800;
+}
+
+.ps-title-main{
+  color: #0b1220;
+  font-weight: 900;
+}
+
+.ps-guide-hero .ps-title-lead{
+  color: rgba(255,255,255,.82);
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+.ps-guide-hero .ps-title-main{
+  color: #fff;
+  font-weight: 700;
 }
 
 /* Guide metadata line under title */
@@ -46,88 +155,6 @@
   font: inherit;
 }
 
-.ps-title-lead{
-  color: #546070;
-  font-weight: 800;
-}
-
-.ps-search-hidden{
-  position: absolute;
-  left: -9999px;
-  top: auto;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-}
-
-/* Guide title/meta hero card */
-.ps-guide-hero{
-  background: var(
-    --ps-hero-blue,
-    radial-gradient(
-      circle at 32% 18%,
-      #132f52 0%,
-      #1b416d 42%,
-      #224b7a 100%
-    )
-  );
-  border: 1px solid rgba(34, 75, 122, 0.12);
-  border-radius: 18px;
-  box-shadow:
-    0 1px 0 rgba(0,0,0,.02),
-    0 8px 24px rgba(15, 23, 42, 0.04);
-  padding: 22px;
-  margin: 0 0 18px;
-}
-
-/* Breadcrumb line inside guide hero */
-.ps-guide-breadcrumb{
-  margin: 0 0 10px;
-  color: rgba(255,255,255,.66);
-  font-size: 12.5px;
-  line-height: 1.35;
-  font-weight: 700;
-}
-
-.ps-guide-breadcrumb ol{
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-
-.ps-guide-breadcrumb li{
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  margin: 0;
-}
-
-.ps-guide-breadcrumb li + li::before{
-  content: "›";
-  color: rgba(255,255,255,.55);
-  font-weight: 900;
-}
-
-.ps-guide-breadcrumb a{
-  color: inherit;
-  text-decoration: none;
-}
-
-.ps-guide-breadcrumb a:hover{
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 3px;
-}
-
-.ps-guide-hero h1{
-  margin: 0 0 18px;
-}
-
 .ps-guide-hero .ps-guide-meta{
   margin-bottom: 0;
   color: rgba(255,255,255,.9);
@@ -141,34 +168,20 @@
   color: #fff;
 }
 
-.ps-guide-hero .ps-title-lead{
-  color: rgba(255,255,255,.82);
-  display: inline-block;
-  margin-bottom: 4px;
-}
-
-.ps-guide-hero .ps-title-main{
-  color: #fff;
-  font-weight: 700;
-}
-
 @media (min-width: 701px){
   .ps-guide-hero h1{
     font-size: clamp(20px, 1.9vw, 26px);
   }
 }
 
-.ps-title-main{
-  color: #0b1220;
-  font-weight: 900;
-}
+/* =========================
+   Mid-article ad slot
+   ========================= */
 
-/* Mid-article ad slot (collapsed by default via [hidden]) */
 .ps-ad-slot.ps-ad-slot-mid{
   width: 100%;
 }
 
-/* When shown later, make it look neat and intentional */
 .ps-ad-slot.ps-ad-slot-mid:not([hidden]){
   margin: 18px 0;
   padding: 14px;
@@ -195,7 +208,10 @@
   text-align: center;
 }
 
-/* Base card */
+/* =========================
+   Base guide cards
+   ========================= */
+
 .ps-card{
   background:#fff;
   border: 1px solid #dbe2ef;
@@ -207,7 +223,6 @@
     0 8px 24px rgba(15, 23, 42, 0.04);
 }
 
-/* Section label pill (H2) */
 .ps-card h2{
   display:inline-block;
   margin: 0 0 14px;
@@ -217,17 +232,16 @@
   font-size: 16px;
   font-weight: 900;
   letter-spacing: -0.1px;
-  background: #7a8699; /* fallback */
+  background: #7a8699;
 }
 
-/* Paragraph spacing */
 .ps-card p{
   margin: 12px 0;
   font-size: 16px;
 }
 
-/* Lists */
-.ps-card ul, .ps-card ol{
+.ps-card ul,
+.ps-card ol{
   margin: 12px 0 14px 22px;
 }
 
@@ -238,20 +252,27 @@
   overflow-wrap: normal;
 }
 
-/* ===== Section-specific styling via data-ps-section ===== */
+/* =========================
+   Section-specific styling
+   ========================= */
 
-/* Core colors */
-.ps-card[data-ps-section="Short answer"] h2{ background:#d08a3a; } /* amber */
-.ps-card[data-ps-section="Do not do these things"] h2{ background:#c84b4b; } /* red */
-.ps-card[data-ps-section="What to do now"] h2{ background:#2f6f55; } /* green */
+.ps-card[data-ps-section="Short answer"] h2{
+  background:#d08a3a;
+}
 
-/* What can wait: BLUE theme (pill) */
+.ps-card[data-ps-section="Do not do these things"] h2{
+  background:#c84b4b;
+}
+
+.ps-card[data-ps-section="What to do now"] h2{
+  background:#2f6f55;
+}
+
 .ps-card[data-ps-section="What can wait"] h2{
   background:#224b7a;
   color:#fff;
 }
 
-/* Important reassurance + Scope note: normal card background; colour only in header pill */
 .ps-card[data-ps-section="Important reassurance"],
 .ps-card[data-ps-section="Scope note"]{
   background:#fff;
@@ -264,7 +285,10 @@
   color:#0b1220;
 }
 
-/* ===== Do not do these things: padding + absolute X (NO grid) ===== */
+/* =========================
+   Do not do these things
+   ========================= */
+
 .ps-card[data-ps-section="Do not do these things"] ul{
   margin-left: 0;
   padding-left: 0;
@@ -293,7 +317,10 @@
   font-size: 14px;
 }
 
-/* ===== What to do now: padding + absolute number (NO grid) ===== */
+/* =========================
+   What to do now
+   ========================= */
+
 .ps-card[data-ps-section="What to do now"] ol{
   margin-left: 0;
   padding-left: 0;
@@ -304,7 +331,7 @@
 .ps-card[data-ps-section="What to do now"] ol > li{
   counter-increment: step;
   position: relative;
-  padding-left: 50px; /* tuned to match 26px circle */
+  padding-left: 50px;
   margin: 16px 0;
 }
 
@@ -313,15 +340,15 @@
   position: absolute;
   left: 0;
   top: 2px;
-  width: 26px;   /* unified size */
-  height: 26px;  /* unified size */
+  width: 26px;
+  height: 26px;
   border-radius: 999px;
   display: grid;
   place-items: center;
   background:#2f6f55;
   color:#fff;
   font-weight: 900;
-  font-size: 13px; /* unified scale */
+  font-size: 13px;
 }
 
 .ps-card[data-ps-section="What to do now"] ol > li > p{
@@ -334,7 +361,10 @@
   padding-left: 18px;
 }
 
-/* ===== What can wait: pause-icon bullets aligned with other icon lists ===== */
+/* =========================
+   What can wait
+   ========================= */
+
 .ps-card[data-ps-section="What can wait"] ul{
   margin-left: 0;
   padding-left: 0;
@@ -343,11 +373,10 @@
 
 .ps-card[data-ps-section="What can wait"] li{
   position: relative;
-  padding-left: 50px; /* match other icon lists */
+  padding-left: 50px;
   margin: 14px 0;
 }
 
-/* Blue circle */
 .ps-card[data-ps-section="What can wait"] li::before{
   content:"";
   position: absolute;
@@ -360,7 +389,6 @@
   box-shadow: 0 1px 0 rgba(0,0,0,.06);
 }
 
-/* Pause icon */
 .ps-card[data-ps-section="What can wait"] li::after{
   content:"";
   position: absolute;
@@ -374,14 +402,14 @@
   opacity: 0.95;
 }
 
-/* Optional: emphasis a bit stronger like the mockup */
 .ps-card[data-ps-section="What can wait"] strong{
   font-weight: 900;
 }
 
 /* =========================
-   Important note (single icon aligned to first body line)
+   Important note
    ========================= */
+
 .ps-card[data-ps-section="Important note"]{
   background:#fff;
   border-color:#dbe2ef;
@@ -392,10 +420,9 @@
   color:#0b1220;
 }
 
-/* Only FIRST paragraph gets icon + gutter so it aligns like other icon rows */
 .ps-card[data-ps-section="Important note"] p:first-of-type{
   position: relative;
-  padding-left: 50px; /* match other icon sections */
+  padding-left: 50px;
 }
 
 .ps-card[data-ps-section="Important note"] p:first-of-type::before{
@@ -417,6 +444,7 @@
 /* =========================
    Additional resources card
    ========================= */
+
 .ps-card.ps-resources{
   background:#fff;
   border-color:#dbe2ef;
@@ -446,6 +474,7 @@
 /* =========================
    About this guide card
    ========================= */
+
 .ps-card.ps-about-guide{
   background:#fff;
   border-color:#dbe2ef;
@@ -512,8 +541,9 @@
 }
 
 /* =========================
-   Guide actions (Support / Share)
+   Guide actions: Support / Share
    ========================= */
+
 .ps-guide-actions{
   display: flex;
   justify-content: flex-end;
@@ -523,39 +553,32 @@
   margin: 14px 0 0;
 }
 
-/* Match small card-button sizing, but keep blue background and icons */
 .ps-action-btn{
   box-sizing: border-box;
   -webkit-appearance: none;
   appearance: none;
-
   border: 1px solid #224b7a;
   background: #224b7a;
   color: #fff;
   text-decoration: none;
   border-radius: 999px;
-
   padding: 7px 11px;
   min-height: 34px;
   line-height: 1;
-
   font: inherit;
   font-size: 13px;
   font-weight: 850;
   letter-spacing: -0.05px;
-
   cursor: pointer;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   gap: 7px;
-
   box-shadow:
     0 1px 0 rgba(0,0,0,.02),
     0 4px 14px rgba(15, 23, 42, 0.035);
 }
 
-/* Ensure link states never re-add underlines / colors */
 a.ps-action-btn:link,
 a.ps-action-btn:visited,
 a.ps-action-btn:hover,
@@ -589,7 +612,6 @@ a.ps-action-btn:active{
     0 4px 14px rgba(15, 23, 42, 0.035);
 }
 
-/* “copied” state keeps the same small sizing */
 .ps-action-btn.ps-copied{
   background: #2f6f55;
   border-color: #2f6f55;
@@ -598,16 +620,34 @@ a.ps-action-btn:active{
     0 4px 14px rgba(15, 23, 42, 0.035);
 }
 
-/* Responsive */
+/* =========================
+   Responsive
+   ========================= */
+
 @media (max-width: 520px){
+  .ps-guide-breadcrumb{
+    font-size: 12.5px;
+    margin-bottom: 14px;
+  }
+
+  .ps-guide-breadcrumb ol{
+    flex-wrap: nowrap;
+    overflow: hidden;
+  }
+
+  .ps-guide-breadcrumb li{
+    min-width: 0;
+  }
+
+  .ps-guide-breadcrumb a{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
   .ps-guide-hero{
     padding: 18px 16px;
     border-radius: 16px;
-  }
-
-  .ps-guide-breadcrumb{
-    font-size: 12.5px;
-    margin-bottom: 9px;
   }
 
   .ps-card{
@@ -637,7 +677,6 @@ a.ps-action-btn:active{
     padding-left: 46px;
   }
 
-  /* Important note responsive */
   .ps-card[data-ps-section="Important note"] p:first-of-type{
     padding-left: 46px;
   }
@@ -661,7 +700,6 @@ a.ps-action-btn:active{
     max-width: 100%;
   }
 
-  /* Guide actions responsive */
   .ps-guide-actions{
     justify-content: flex-end;
   }

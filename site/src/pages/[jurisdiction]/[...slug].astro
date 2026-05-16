@@ -52,6 +52,29 @@ const breadcrumbCategoryHref = categoryEntry
   ? `/${fmJurisdiction}/category/${categoryEntry.key}/`
   : `/${fmJurisdiction}/`;
 
+function splitGuideTitle(title: string) {
+  const cleanedTitle = String(title || "")
+    .replace(/\s*\((USA|UK)\)\s*$/i, "")
+    .trim();
+
+  const lead = "What to do if…";
+  let main = cleanedTitle;
+
+  if (cleanedTitle.toLowerCase().startsWith(lead.toLowerCase())) {
+    main = cleanedTitle
+      .slice(lead.length)
+      .replace(/^[:—–\- ]+/, "")
+      .trim();
+  }
+
+  return {
+    lead,
+    main: main || cleanedTitle,
+  };
+}
+
+const guideTitle = splitGuideTitle(entry.data.title);
+
 /*
   Central switch for whether this guide is allowed to show ads.
 
@@ -83,8 +106,8 @@ const structuredData = buildGuideStructuredData({
     data-ps-fm-jurisdiction={fmJurisdiction}
     data-pagefind-body
   >
-    <span data-pagefind-filter={`jurisdiction:${urlJurisdiction}`} class="ps-search-hidden">
-      {urlJurisdiction}
+    <span data-pagefind-filter={`jurisdiction:${fmJurisdiction}`} class="ps-search-hidden">
+      {fmJurisdiction}
     </span>
 
     <span data-pagefind-filter={`category:${entry.data.category}`} class="ps-search-hidden">
@@ -95,7 +118,41 @@ const structuredData = buildGuideStructuredData({
       {(entry.data.tags || []).join(" • ")}
     </span>
 
-    <Content />
+    <header class="ps-guide-hero">
+      <nav class="ps-guide-breadcrumb" aria-label="Breadcrumb" data-pagefind-ignore>
+        <ol>
+          <li>
+            <a href={breadcrumbJurisdictionHref}>{breadcrumbJurisdictionLabel}</a>
+          </li>
+          <li>
+            <a href={breadcrumbCategoryHref}>{breadcrumbCategoryLabel}</a>
+          </li>
+        </ol>
+      </nav>
+
+      <h1>
+        <span class="ps-title-lead">{guideTitle.lead}</span>
+        <br />
+        <span class="ps-title-main">{guideTitle.main}</span>
+      </h1>
+
+      <p class="ps-guide-meta" data-pagefind-ignore>
+        <span>By PanicStation.org</span>
+        <span aria-hidden="true"> · </span>
+        <span>Reviewed under our </span><a href="/editorial">editorial policy</a>
+        <span aria-hidden="true"> · </span>
+        <span>
+          Last reviewed:
+          <time datetime={entry.data.last_reviewed}>{lastReviewedDisplay}</time>
+        </span>
+        <span aria-hidden="true"> · </span>
+        <span>{guideLabel}</span>
+      </p>
+    </header>
+
+    <div class="ps-guide-content">
+      <Content />
+    </div>
 
     <section class="ps-card ps-about-guide" data-pagefind-ignore>
       <h2>About this guide</h2>
@@ -112,60 +169,6 @@ const structuredData = buildGuideStructuredData({
         <a class="ps-about-guide-action" href="/editorial">Read Editorial Policy</a>
       </nav>
     </section>
-
-    <template id="ps-guide-breadcrumb-template">
-      <nav class="ps-guide-breadcrumb" aria-label="Breadcrumb" data-pagefind-ignore>
-        <ol>
-          <li>
-            <a href={breadcrumbJurisdictionHref}>{breadcrumbJurisdictionLabel}</a>
-          </li>
-          <li>
-            <a href={breadcrumbCategoryHref}>{breadcrumbCategoryLabel}</a>
-          </li>
-        </ol>
-      </nav>
-    </template>
-
-    <template id="ps-guide-meta-template">
-      <p class="ps-guide-meta" data-pagefind-ignore>
-        <span>By PanicStation.org</span>
-        <span aria-hidden="true"> · </span>
-        <span>Reviewed under our </span><a href="/editorial">editorial policy</a>
-        <span aria-hidden="true"> · </span>
-        <span>
-          Last reviewed:
-          <time datetime={entry.data.last_reviewed}>{lastReviewedDisplay}</time>
-        </span>
-        <span aria-hidden="true"> · </span>
-        <span>{guideLabel}</span>
-      </p>
-    </template>
-
-    <script is:inline>
-      (() => {
-        const guide = document.getElementById("ps-guide");
-        const h1 = guide?.querySelector("h1");
-        const breadcrumbTemplate = document.getElementById("ps-guide-breadcrumb-template");
-        const metaTemplate = document.getElementById("ps-guide-meta-template");
-
-        if (!guide || !h1 || !breadcrumbTemplate || !metaTemplate) return;
-        if (guide.querySelector(".ps-guide-hero")) return;
-
-        const breadcrumb = breadcrumbTemplate.content.firstElementChild.cloneNode(true);
-        const meta = metaTemplate.content.firstElementChild.cloneNode(true);
-
-        const hero = document.createElement("div");
-        hero.className = "ps-guide-hero";
-
-        h1.insertAdjacentElement("beforebegin", hero);
-        hero.appendChild(breadcrumb);
-        hero.appendChild(h1);
-        hero.appendChild(meta);
-
-        breadcrumbTemplate.remove();
-        metaTemplate.remove();
-      })();
-    </script>
 
     <div class="ps-guide-actions" aria-label="Guide actions">
       <a

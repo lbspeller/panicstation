@@ -1,56 +1,34 @@
 // site/rehype-title-tweaks.mjs
-function extractText(node) {
-  if (!node) return "";
-  if (node.type === "text" && typeof node.value === "string") return node.value;
-  if (node.type === "element" && Array.isArray(node.children)) {
-    return node.children.map(extractText).join("");
-  }
-  return "";
-}
+//
+// Guide pages render their visible title server-side in:
+// src/pages/[jurisdiction]/[...slug].astro
+//
+// The Markdown files also contain a first-level H1 title.
+// Remove the first rendered Markdown <h1> so the guide title appears only
+// in the guide hero card, not again underneath it.
 
-function setChildrenText(node, text) {
-  node.children = [{ type: "text", value: text }];
+function removeFirstH1FromChildren(children = []) {
+  for (let i = 0; i < children.length; i += 1) {
+    const node = children[i];
+
+    if (node?.type === "element" && node.tagName === "h1") {
+      children.splice(i, 1);
+      return true;
+    }
+
+    if (node?.type === "element" && Array.isArray(node.children)) {
+      const removed = removeFirstH1FromChildren(node.children);
+      if (removed) return true;
+    }
+  }
+
+  return false;
 }
 
 export default function rehypeTitleTweaks() {
   return (tree) => {
-    const root = tree;
-    const kids = root.children || [];
+    if (!tree || !Array.isArray(tree.children)) return;
 
-    // Find first H1 in the document
-    const h1 = kids.find((n) => n?.type === "element" && n.tagName === "h1");
-    if (!h1) return;
-
-    let title = extractText(h1).trim();
-
-    // Remove trailing country identifier like " (USA)" or " (UK)"
-    title = title.replace(/\s*\((USA|UK)\)\s*$/i, "").trim();
-
-    const lead = "What to do if…";
-    let rest = title;
-
-    // If title starts with the lead phrase, split it; otherwise just keep full title as rest
-    if (title.toLowerCase().startsWith(lead.toLowerCase())) {
-      rest = title.slice(lead.length).trim();
-      // Remove leading punctuation/spaces from the remainder
-      rest = rest.replace(/^[:—–\- ]+/, "").trim();
-    }
-
-    // Replace H1 with two spans
-    h1.children = [
-      {
-        type: "element",
-        tagName: "span",
-        properties: { className: ["ps-title-lead"] },
-        children: [{ type: "text", value: lead }],
-      },
-      { type: "element", tagName: "br", properties: {}, children: [] },
-      {
-        type: "element",
-        tagName: "span",
-        properties: { className: ["ps-title-main"] },
-        children: [{ type: "text", value: rest || title }],
-      },
-    ];
+    removeFirstH1FromChildren(tree.children);
   };
 }
