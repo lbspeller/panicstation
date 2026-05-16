@@ -60,6 +60,104 @@
   overflow: hidden;
 }
 
+/* Guide title/meta hero card */
+.ps-guide-hero{
+  background: var(
+    --ps-hero-blue,
+    radial-gradient(
+      circle at 32% 18%,
+      #132f52 0%,
+      #1b416d 42%,
+      #224b7a 100%
+    )
+  );
+  border: 1px solid rgba(34, 75, 122, 0.12);
+  border-radius: 18px;
+  box-shadow:
+    0 1px 0 rgba(0,0,0,.02),
+    0 8px 24px rgba(15, 23, 42, 0.04);
+  padding: 22px;
+  margin: 0 0 18px;
+}
+
+/* Breadcrumb line inside guide hero */
+.ps-guide-breadcrumb{
+  margin: 0 0 10px;
+  color: rgba(255,255,255,.66);
+  font-size: 12.5px;
+  line-height: 1.35;
+  font-weight: 700;
+}
+
+.ps-guide-breadcrumb ol{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.ps-guide-breadcrumb li{
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+}
+
+.ps-guide-breadcrumb li + li::before{
+  content: "›";
+  color: rgba(255,255,255,.55);
+  font-weight: 900;
+}
+
+.ps-guide-breadcrumb a{
+  color: inherit;
+  text-decoration: none;
+}
+
+.ps-guide-breadcrumb a:hover{
+  color: #fff;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.ps-guide-hero h1{
+  margin: 0 0 18px;
+}
+
+.ps-guide-hero .ps-guide-meta{
+  margin-bottom: 0;
+  color: rgba(255,255,255,.9);
+}
+
+.ps-guide-hero .ps-guide-meta a{
+  color: inherit;
+}
+
+.ps-guide-hero .ps-guide-meta a:hover{
+  color: #fff;
+}
+
+.ps-guide-hero .ps-title-lead{
+  color: rgba(255,255,255,.82);
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+.ps-guide-hero .ps-title-main{
+  color: #fff;
+  font-weight: 700;
+}
+
+@media (min-width: 701px){
+  .ps-guide-hero h1{
+    font-size: clamp(20px, 1.9vw, 26px);
+  }
+}
+
 .ps-title-main{
   color: #0b1220;
   font-weight: 900;
@@ -346,45 +444,115 @@
 }
 
 /* =========================
+   About this guide card
+   ========================= */
+.ps-card.ps-about-guide{
+  background:#fff;
+  border-color:#dbe2ef;
+}
+
+.ps-card.ps-about-guide h2{
+  background:#224b7a;
+  color:#fff;
+}
+
+.ps-about-guide-actions{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 14px 0 0;
+}
+
+.ps-about-guide-action{
+  box-sizing: border-box;
+  border: 1px solid #d9dfec;
+  background: #fff;
+  color: #224b7a;
+  text-decoration: none;
+  border-radius: 999px;
+  padding: 7px 11px;
+  min-height: 34px;
+  line-height: 1;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 850;
+  letter-spacing: -0.05px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow:
+    0 1px 0 rgba(0,0,0,.02),
+    0 4px 14px rgba(15, 23, 42, 0.035);
+}
+
+.ps-about-guide-action:link,
+.ps-about-guide-action:visited,
+.ps-about-guide-action:hover,
+.ps-about-guide-action:active{
+  color: #224b7a;
+  text-decoration: none;
+}
+
+.ps-about-guide-action:hover{
+  background: rgba(34, 75, 122, 0.06);
+  border-color: rgba(34, 75, 122, 0.3);
+}
+
+.ps-about-guide-action:focus{
+  outline: none;
+}
+
+.ps-about-guide-action:focus-visible{
+  box-shadow:
+    0 0 0 3px rgba(34,75,122,.18),
+    0 4px 14px rgba(15, 23, 42, 0.035);
+}
+
+/* =========================
    Guide actions (Support / Share)
    ========================= */
 .ps-guide-actions{
   display: flex;
-  gap: 12px;
   justify-content: flex-end;
   align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
   margin: 14px 0 0;
 }
 
-/* Make <a> and <button> identical */
+/* Match small card-button sizing, but keep blue background and icons */
 .ps-action-btn{
   box-sizing: border-box;
   -webkit-appearance: none;
   appearance: none;
 
-  border: 0;
-  background: #224b7a;       /* site dark blue */
-  color: #fff;               /* white text */
-  text-decoration: none;     /* remove underline */
+  border: 1px solid #224b7a;
+  background: #224b7a;
+  color: #fff;
+  text-decoration: none;
   border-radius: 999px;
 
-  padding: 10px 14px;
-  min-height: 44px;          /* forces equal height across <a> and <button> */
-  line-height: 1;            /* avoids anchor baseline/line-height height drift */
+  padding: 7px 11px;
+  min-height: 34px;
+  line-height: 1;
 
   font: inherit;
-  font-weight: 900;
-  letter-spacing: -0.1px;
+  font-size: 13px;
+  font-weight: 850;
+  letter-spacing: -0.05px;
 
   cursor: pointer;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 10px;
+  gap: 7px;
 
   box-shadow:
     0 1px 0 rgba(0,0,0,.02),
-    0 8px 24px rgba(15, 23, 42, 0.04);
+    0 4px 14px rgba(15, 23, 42, 0.035);
 }
 
 /* Ensure link states never re-add underlines / colors */
@@ -397,13 +565,18 @@ a.ps-action-btn:active{
 }
 
 .ps-action-btn i{
-  color: currentColor; /* icon always white */
+  color: currentColor;
+  font-size: 12px;
+  line-height: 1;
 }
 
 .ps-action-btn:hover{
+  background: #1c3f68;
+  border-color: #1c3f68;
+  text-decoration: none;
   box-shadow:
     0 1px 0 rgba(0,0,0,.02),
-    0 12px 30px rgba(15, 23, 42, 0.06);
+    0 4px 14px rgba(15, 23, 42, 0.05);
 }
 
 .ps-action-btn:focus{
@@ -413,17 +586,30 @@ a.ps-action-btn:active{
 .ps-action-btn:focus-visible{
   box-shadow:
     0 0 0 3px rgba(34,75,122,.22),
-    0 8px 24px rgba(15, 23, 42, 0.04);
+    0 4px 14px rgba(15, 23, 42, 0.035);
 }
 
-/* “copied” state (keep same sizing) */
+/* “copied” state keeps the same small sizing */
 .ps-action-btn.ps-copied{
-  background: #2f6f55; /* green */
-  box-shadow: 0 0 0 3px rgba(47,111,85,.14);
+  background: #2f6f55;
+  border-color: #2f6f55;
+  box-shadow:
+    0 0 0 3px rgba(47,111,85,.14),
+    0 4px 14px rgba(15, 23, 42, 0.035);
 }
 
 /* Responsive */
 @media (max-width: 520px){
+  .ps-guide-hero{
+    padding: 18px 16px;
+    border-radius: 16px;
+  }
+
+  .ps-guide-breadcrumb{
+    font-size: 12.5px;
+    margin-bottom: 9px;
+  }
+
   .ps-card{
     padding: 18px 16px 12px;
     border-radius: 16px;
@@ -466,8 +652,22 @@ a.ps-action-btn:active{
     padding: 10px;
   }
 
+  .ps-about-guide-actions{
+    justify-content: flex-start;
+  }
+
+  .ps-about-guide-action{
+    width: auto;
+    max-width: 100%;
+  }
+
   /* Guide actions responsive */
   .ps-guide-actions{
-    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+
+  .ps-action-btn{
+    width: auto;
+    max-width: 100%;
   }
 }

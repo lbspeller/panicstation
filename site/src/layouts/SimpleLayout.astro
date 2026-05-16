@@ -1,5 +1,7 @@
 ---
-const { title } = Astro.props;
+import StructuredData from "../components/StructuredData.astro";
+
+const { title, structuredData = [] } = Astro.props;
 const path = Astro.url.pathname;
 const isGuidesIndex = path === "/guides/";
 ---
@@ -25,6 +27,8 @@ const isGuidesIndex = path === "/guides/";
 
     <!-- Google AdSense -->
     <meta name="google-adsense-account" content="ca-pub-6393180948620179" />
+
+    <StructuredData data={structuredData} />
   </head>
 
   <body class={`ps-page ${isGuidesIndex ? "ps-guides-index" : ""}`} data-ps-page="other">

@@ -1,6 +1,8 @@
 ---
 import SiteLayout from "../layouts/SiteLayout.astro";
 
+import { buildHomeStructuredData } from "../lib/structuredData";
+
 import whatPanicStationIsText from "../site/homepage texts/What PanicStation.org is.txt?raw";
 import urgentHelpText from "../site/homepage texts/When to get urgent help.txt?raw";
 import howGuidesWorkText from "../site/homepage texts/How the guides work.txt?raw";
@@ -9,6 +11,7 @@ import correctionsContactPrivacyText from "../site/homepage texts/Corrections, c
 
 const title = "PanicStation.org";
 const description = "Calm, practical first-step guidance for sudden, panic-inducing situations.";
+const structuredData = buildHomeStructuredData();
 
 const sections = [
   {
@@ -116,7 +119,7 @@ function markdownToHtml(markdown) {
 }
 ---
 
-<SiteLayout title={title} jurisdiction="us">
+<SiteLayout title={title} jurisdiction="us" structuredData={structuredData}>
   <main class="ps-home-content" data-pagefind-ignore>
     <div class="ps-home-cards" aria-label="About PanicStation.org">
       {sections.map((section) => (

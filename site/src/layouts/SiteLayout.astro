@@ -1,9 +1,10 @@
 ---
-// src/layouts/SiteLayout.astro
+ // src/layouts/SiteLayout.astro
 import UkFlagUrl from "../assets/flags/uk.svg?url";
 import UsFlagUrl from "../assets/flags/us.svg?url";
+import StructuredData from "../components/StructuredData.astro";
 
-const { title, jurisdiction } = Astro.props;
+const { title, jurisdiction, structuredData = [] } = Astro.props;
 
 const path = Astro.url.pathname;
 const isGuide = /^\/(uk|us)\//i.test(path);
@@ -38,6 +39,8 @@ const isUsActive = jurisdiction === "us";
 
     <!-- Google AdSense -->
     <meta name="google-adsense-account" content="ca-pub-6393180948620179" />
+
+    <StructuredData data={structuredData} />
 
     {isHome && (
       <script is:inline>
@@ -98,12 +101,22 @@ const isUsActive = jurisdiction === "us";
 
       <div class="ps-searchbar">
         <div class="ps-searchbar-inner">
+          {isHome && (
+            <div class="ps-home-search-intro">
+              <i class="fa-solid fa-shield-halved" aria-hidden="true"></i>
+              <p class="ps-home-search-title">
+                <strong>What to do if...</strong> Something stressful happened.<br />
+                Search for the situation and find a clear first step.
+              </p>
+            </div>
+          )}
+
           <div class="ps-search-wrap">
             <input
               id="ps-search"
               class="ps-search"
               type="search"
-              placeholder="What to do if…"
+              placeholder="What happened?"
               autocomplete="off"
             />
 
@@ -124,6 +137,11 @@ const isUsActive = jurisdiction === "us";
               </button>
             </div>
           </div>
+
+          <div id="ps-search-hint" class="ps-search-hint" hidden>
+            <i class="fa-solid fa-lightbulb" aria-hidden="true"></i>
+            <span>Start typing to search for a guide. Use the filter button to narrow results by category</span>
+          </div>
         </div>
 
         <div id="ps-search-results" class="ps-search-results" hidden>
@@ -132,11 +150,6 @@ const isUsActive = jurisdiction === "us";
 
         <div id="ps-filter-box" class="ps-filter-box" hidden>
           <div class="ps-filter-box-inner" role="group" aria-label="Category filters"></div>
-        </div>
-
-        <div id="ps-search-hint" class="ps-search-hint" hidden>
-          <i class="fa-solid fa-lightbulb" aria-hidden="true"></i>
-          <span>Start typing to search for a guide. Use the filter button to narrow results by category</span>
         </div>
       </div>
     </header>
@@ -1034,6 +1047,15 @@ const isUsActive = jurisdiction === "us";
     --ps-soft: #eef1f7;
     --ps-shadow: 0 1px 0 rgba(0,0,0,.02), 0 14px 40px rgba(15, 23, 42, 0.08);
     --ps-logo-red: #d24b4b;
+
+    /* Shared hero blue for homepage hero and guide title cards */
+    --ps-hero-blue:
+      radial-gradient(
+        circle at 32% 18%,
+        #132f52 0%,
+        #1b416d 42%,
+        #224b7a 100%
+      );
   }
 
   :global([hidden]){
@@ -1150,9 +1172,62 @@ const isUsActive = jurisdiction === "us";
     display:block;
   }
 
+  .ps-home .ps-searchbar{
+    margin: 26px auto 24px;
+    padding: 0 16px;
+  }
+
+  .ps-home .ps-searchbar-inner{
+    background: var(--ps-hero-blue);
+    border: 1px solid rgba(34, 75, 122, 0.12);
+    border-radius: 18px;
+    box-shadow:
+      0 1px 0 rgba(0,0,0,.02),
+      0 8px 24px rgba(15, 23, 42, 0.04);
+    padding: 30px 40px;
+  }
+
+  .ps-home-search-intro{
+    width: 100%;
+    max-width: none;
+    margin: 0 0 26px;
+    padding: 0 0 0 26px;
+    display: grid;
+    grid-template-columns: 18px 1fr;
+    gap: 12px;
+    align-items: start;
+    color: #fff;
+  }
+
+  .ps-home-search-intro i{
+    color: rgba(255,255,255,.82);
+    font-size: 18px;
+    line-height: 1.45;
+    margin-top: 2px;
+  }
+
+  .ps-home-search-title{
+    margin: 0;
+    color: rgba(255,255,255,.9);
+    font-size: 18px;
+    line-height: 1.45;
+    font-weight: 400;
+    letter-spacing: -0.1px;
+  }
+
+  .ps-home-search-title strong{
+    color: #fff;
+    font-weight: 800;
+  }
+
   .ps-search-wrap{
     position: relative;
     width: 100%;
+  }
+
+  .ps-home .ps-search-wrap{
+    max-width: none;
+    margin: 0 auto;
   }
 
   .ps-search{
@@ -1179,6 +1254,7 @@ const isUsActive = jurisdiction === "us";
   .ps-search{
     width:100%;
     font-size:18px;
+    line-height: 1.2;
     padding: 16px 96px 16px 18px;
     border-radius: 999px;
     border:1px solid var(--ps-border);
@@ -1192,6 +1268,24 @@ const isUsActive = jurisdiction === "us";
     box-shadow: 0 0 0 3px rgba(34,75,122,.15);
   }
 
+  .ps-home .ps-search{
+    height: 64px;
+    font-size: 18px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 26px;
+    padding-right: 150px;
+    border-color: rgba(255,255,255,.88);
+    box-shadow: 0 1px 3px rgba(15, 23, 42, 0.16);
+  }
+
+  .ps-home .ps-search:focus{
+    border-color: #fff;
+    box-shadow:
+      0 0 0 3px rgba(255,255,255,.24),
+      0 1px 3px rgba(15, 23, 42, 0.16);
+  }
+
   .ps-search-icons{
     position:absolute;
     right: 10px;
@@ -1200,6 +1294,11 @@ const isUsActive = jurisdiction === "us";
     display:flex;
     align-items:center;
     gap: 10px;
+  }
+
+  .ps-home .ps-search-icons{
+    right: 16px;
+    gap: 12px;
   }
 
   .ps-icon-btn{
@@ -1270,8 +1369,28 @@ const isUsActive = jurisdiction === "us";
     text-align: center;
   }
 
+  .ps-home .ps-search-hint{
+    max-width: none;
+    margin: 26px 0 0;
+    padding: 0 0 0 26px;
+    color: rgba(255,255,255,.9);
+    font-size: 18px;
+    line-height: 1.45;
+    font-weight: 400;
+    text-align: left;
+    justify-content: flex-start;
+    display: grid;
+    grid-template-columns: 18px 1fr;
+    gap: 12px;
+    align-items: start;
+  }
+
   .ps-search-hint:not([hidden]){
     display: flex;
+  }
+
+  .ps-home .ps-search-hint:not([hidden]){
+    display: grid;
   }
 
   .ps-search-hint i{
@@ -1279,6 +1398,13 @@ const isUsActive = jurisdiction === "us";
     font-size: 16px;
     line-height: 1;
     flex: 0 0 auto;
+  }
+
+  .ps-home .ps-search-hint i{
+    color: rgba(255,255,255,.82);
+    font-size: 18px;
+    line-height: 1.45;
+    margin-top: 2px;
   }
 
   .ps-search-hint span{
@@ -1332,14 +1458,108 @@ const isUsActive = jurisdiction === "us";
     color: inherit;
   }
 
+  @media (max-width: 700px){
+    .ps-home .ps-searchbar{
+      margin: 24px auto 24px;
+    }
+
+    .ps-home .ps-searchbar-inner{
+      padding: 28px;
+    }
+
+    .ps-home-search-intro,
+    .ps-home .ps-search-hint{
+      max-width: none;
+      font-size: 17px;
+      line-height: 1.45;
+      padding: 0;
+    }
+
+    .ps-home .ps-search{
+      height: 58px;
+      font-size: 17px;
+      padding-left: 22px;
+      padding-right: 132px;
+    }
+
+    .ps-home .ps-search-icons{
+      right: 12px;
+      gap: 8px;
+    }
+  }
+
   @media (max-width: 520px){
     .ps-search-icons{ right: 8px; gap: 8px; }
     .ps-icon-btn{ width: 42px; height: 42px; }
     .ps-search{ padding-right: 146px; }
+
+    .ps-home .ps-searchbar{
+      margin: 22px auto 22px;
+    }
+
+    .ps-home .ps-searchbar-inner{
+      padding: 24px 20px;
+      border-radius: 18px;
+    }
+
+    .ps-home-search-intro,
+    .ps-home .ps-search-hint{
+      grid-template-columns: 22px 1fr;
+      gap: 12px;
+      font-size: 16px;
+      line-height: 1.45;
+    }
+
+    .ps-home-search-intro{
+      margin-bottom: 22px;
+    }
+
+    .ps-home .ps-search-hint{
+      margin-top: 22px;
+    }
+
+    .ps-home-search-intro i,
+    .ps-home .ps-search-hint i{
+      font-size: 16px;
+      line-height: 1.45;
+    }
+
+    .ps-home .ps-search{
+      height: 54px;
+      font-size: 16px;
+      padding-left: 18px;
+      padding-right: 118px;
+    }
+
+    .ps-home .ps-search-icons{
+      right: 8px;
+      gap: 4px;
+    }
+
+    .ps-home .ps-icon-btn{
+      width: 38px;
+      height: 38px;
+      font-size: 17px;
+    }
   }
 
   @media (max-width: 360px){
     .ps-brand{ font-size: clamp(18px, 5.2vw, 40px); }
+
+    .ps-home .ps-searchbar-inner{
+      padding: 22px 18px;
+    }
+
+    .ps-home .ps-search{
+      font-size: 16px;
+      padding-right: 112px;
+    }
+
+    .ps-home .ps-icon-btn{
+      width: 36px;
+      height: 36px;
+      font-size: 16px;
+    }
   }
 </style>
 
@@ -1348,6 +1568,10 @@ const isUsActive = jurisdiction === "us";
     max-width: 1100px;
     margin: 10px auto 0;
     padding: 0;
+  }
+
+  .ps-home #ps-search-results{
+    margin-top: 12px;
   }
 
   #ps-search-results .ps-search-results-inner{
@@ -1402,6 +1626,10 @@ const isUsActive = jurisdiction === "us";
     padding: 0;
   }
 
+  .ps-home #ps-filter-box{
+    margin-top: 12px;
+  }
+
   #ps-filter-box .ps-filter-box-inner{
     background:#fff;
     border: 1px solid var(--ps-border);
@@ -1441,6 +1669,9 @@ const isUsActive = jurisdiction === "us";
 
   .ps-cat-left{
     width: 46px;
+    min-width: 46px;
+    max-width: 46px;
+    flex: 0 0 46px;
     display:grid;
     place-items:center;
     background: var(--ps-accent);
@@ -1457,6 +1688,7 @@ const isUsActive = jurisdiction === "us";
     padding: 10px 14px;
     background:#fff;
     min-width: 0;
+    flex: 1 1 auto;
   }
 
   .ps-cat-label{

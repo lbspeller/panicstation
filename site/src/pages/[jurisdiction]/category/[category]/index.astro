@@ -3,6 +3,10 @@ import { getCollection } from "astro:content";
 import SimpleLayout from "../../../../layouts/SimpleLayout.astro";
 import { CATEGORIES, CATEGORY_FULL } from "../../../../lib/categories";
 import { textToParagraphHtml } from "../../../../lib/textToHtml";
+import {
+  buildCategoryStructuredData,
+  textDescription,
+} from "../../../../lib/structuredData";
 
 import bereavementText from "../../../../site/category text/Bereavement.txt?raw";
 import healthText from "../../../../site/category text/health.txt?raw";
@@ -63,9 +67,29 @@ const categoryText = CATEGORY_TEXT[cat.key] || "";
 const introHtml = textToParagraphHtml(categoryText);
 
 const title = `${cat.label} (${jur.toUpperCase()}) — PanicStation.org`;
+
+const categoryDescription = textDescription(
+  categoryText,
+  `Browse PanicStation.org guides in the ${cat.label} category.`
+);
+
+const structuredData = buildCategoryStructuredData({
+  title,
+  description: categoryDescription,
+  jurisdiction: jur,
+  categoryLabel: cat.label,
+  categoryPathname: Astro.url.pathname,
+  guides: guides.map((e) => {
+    const slugNoJur = e.slug.replace(/^(uk|us)\//i, "");
+    return {
+      title: e.data.title,
+      pathname: `/${jur}/${slugNoJur}`,
+    };
+  }),
+});
 ---
 
-<SimpleLayout title={title}>
+<SimpleLayout title={title} structuredData={structuredData}>
   <!-- Keep hubs/listings out of Pagefind (internal search stays guide-only) -->
   <main data-pagefind-ignore>
     <section class="ps-card">

@@ -1,6 +1,8 @@
 ---
 import { getCollection } from "astro:content";
 import SiteLayout from "../../layouts/SiteLayout.astro";
+import { CATEGORIES, CATEGORY_FULL } from "../../lib/categories";
+import { buildGuideStructuredData } from "../../lib/structuredData";
 import "../../styles/guides.css";
 
 const enableAdsenseTest = import.meta.env.PUBLIC_ENABLE_ADSENSE_TEST === "1";
@@ -35,6 +37,21 @@ const lastReviewedDisplay = new Date(`${entry.data.last_reviewed}T00:00:00Z`).to
 
 const guideLabel = entry.data.jurisdiction === "USA" ? "USA guide" : "UK guide";
 
+const categoryEntry = CATEGORIES.find((category) => {
+  return CATEGORY_FULL[category.key] === entry.data.category;
+});
+
+const breadcrumbJurisdictionLabel =
+  entry.data.jurisdiction === "USA" ? "USA guides" : "UK guides";
+
+const breadcrumbJurisdictionHref = `/${fmJurisdiction}/`;
+
+const breadcrumbCategoryLabel = categoryEntry?.label || entry.data.category;
+
+const breadcrumbCategoryHref = categoryEntry
+  ? `/${fmJurisdiction}/category/${categoryEntry.key}/`
+  : `/${fmJurisdiction}/`;
+
 /*
   Central switch for whether this guide is allowed to show ads.
 
@@ -43,9 +60,22 @@ const guideLabel = entry.data.jurisdiction === "USA" ? "USA guide" : "UK guide";
 */
 const adsAllowed =
   entry.data.category !== "Sexual violence & highly sensitive situations";
+
+const structuredData = buildGuideStructuredData({
+  title: entry.data.title,
+  category: entry.data.category,
+  tags: entry.data.tags || [],
+  lastReviewed: entry.data.last_reviewed,
+  jurisdiction: fmJurisdiction,
+  pathname: Astro.url.pathname,
+});
 ---
 
-<SiteLayout title={`${entry.data.title} — PanicStation.org`} jurisdiction={urlJurisdiction}>
+<SiteLayout
+  title={`${entry.data.title} — PanicStation.org`}
+  jurisdiction={urlJurisdiction}
+  structuredData={structuredData}
+>
   <div
     class="ps-guide"
     id="ps-guide"
@@ -67,6 +97,35 @@ const adsAllowed =
 
     <Content />
 
+    <section class="ps-card ps-about-guide" data-pagefind-ignore>
+      <h2>About this guide</h2>
+
+      <p>
+        PanicStation.org guides are written as plain-English first steps, then
+        reviewed for clarity, jurisdiction, and source quality. If you notice an
+        error, outdated information, unclear wording, or a broken link, please
+        contact us.
+      </p>
+
+      <nav class="ps-about-guide-actions" aria-label="About this guide links">
+        <a class="ps-about-guide-action" href="/contact">Report a correction</a>
+        <a class="ps-about-guide-action" href="/editorial">Read Editorial Policy</a>
+      </nav>
+    </section>
+
+    <template id="ps-guide-breadcrumb-template">
+      <nav class="ps-guide-breadcrumb" aria-label="Breadcrumb" data-pagefind-ignore>
+        <ol>
+          <li>
+            <a href={breadcrumbJurisdictionHref}>{breadcrumbJurisdictionLabel}</a>
+          </li>
+          <li>
+            <a href={breadcrumbCategoryHref}>{breadcrumbCategoryLabel}</a>
+          </li>
+        </ol>
+      </nav>
+    </template>
+
     <template id="ps-guide-meta-template">
       <p class="ps-guide-meta" data-pagefind-ignore>
         <span>By PanicStation.org</span>
@@ -86,14 +145,25 @@ const adsAllowed =
       (() => {
         const guide = document.getElementById("ps-guide");
         const h1 = guide?.querySelector("h1");
-        const template = document.getElementById("ps-guide-meta-template");
+        const breadcrumbTemplate = document.getElementById("ps-guide-breadcrumb-template");
+        const metaTemplate = document.getElementById("ps-guide-meta-template");
 
-        if (!guide || !h1 || !template) return;
-        if (guide.querySelector(".ps-guide-meta")) return;
+        if (!guide || !h1 || !breadcrumbTemplate || !metaTemplate) return;
+        if (guide.querySelector(".ps-guide-hero")) return;
 
-        const meta = template.content.firstElementChild.cloneNode(true);
-        h1.insertAdjacentElement("afterend", meta);
-        template.remove();
+        const breadcrumb = breadcrumbTemplate.content.firstElementChild.cloneNode(true);
+        const meta = metaTemplate.content.firstElementChild.cloneNode(true);
+
+        const hero = document.createElement("div");
+        hero.className = "ps-guide-hero";
+
+        h1.insertAdjacentElement("beforebegin", hero);
+        hero.appendChild(breadcrumb);
+        hero.appendChild(h1);
+        hero.appendChild(meta);
+
+        breadcrumbTemplate.remove();
+        metaTemplate.remove();
       })();
     </script>
 
