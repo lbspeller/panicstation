@@ -76,6 +76,25 @@ export function textDescription(text: string, fallback: string) {
   return cleaned || fallback;
 }
 
+function schemaDateTime(dateValue: string) {
+  const value = String(dateValue || "").trim();
+
+  if (!value) {
+    return undefined;
+  }
+
+  /*
+    Guide frontmatter currently stores dates as YYYY-MM-DD.
+    Google's Rich Results Test may warn when Article datePublished/dateModified
+    have no timezone, so convert date-only values to a full ISO-style datetime.
+  */
+  if (/^\d{4}-\d{2}-\d{2}$/.test(value)) {
+    return `${value}T00:00:00+00:00`;
+  }
+
+  return value;
+}
+
 export function organizationSchema() {
   return {
     "@context": "https://schema.org",
@@ -154,6 +173,7 @@ export function buildGuideStructuredData({
   const pageUrl = canonicalUrl(pathname);
   const categoryHref = canonicalUrl(categoryPath(jur.code, category));
   const categoryLabel = categoryLabelFromFullCategory(category);
+  const reviewedDateTime = schemaDateTime(lastReviewed);
 
   const organizationRef = {
     "@type": "Organization",
@@ -188,8 +208,8 @@ export function buildGuideStructuredData({
     description: deriveGuideDescription(title, category),
     author: organizationRef,
     publisher: organizationRef,
-    datePublished: lastReviewed,
-    dateModified: lastReviewed,
+    datePublished: reviewedDateTime,
+    dateModified: reviewedDateTime,
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": pageUrl,
